@@ -5,3 +5,6 @@ plugins:
    - jekyll-redirect-from
    - jekyll-sitemap
    - jekyll-feed
+   - jekyll-seo-tag
+   - jekyll-avatar
+   - jekyll-include-cache
