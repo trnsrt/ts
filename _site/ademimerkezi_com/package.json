@@ -1,0 +1,6 @@
+{
+  "name": "ademimerkezi_com",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
