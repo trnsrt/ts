@@ -7,7 +7,9 @@ categories: Genel
 
 ### Üzerimize gelen dalganın farkında mısınız?
 New York’taki projemde şirketimin yönetici ortaklarından birinin müşterisine sorduğu en can alıcı soru buydu. *“Geceleri uykunuzu ne kaçırıyor?”* Dolar/Euro paritesinin değişmesi mi, yoksa önümüzdeki yıl yapılacak seçimler mi? Siz bunlara kafa yorarken, birileri de tutturmuş sinek vızıltısı gibi “Bitcoin” diyor, “Kripto Para, Blockchain” diye bir şeyler sayıklıyor. Bunca derdin sıkıntının arasında bir de bunlar çıktı. Neymiş diye bir baktınız ama size anlatanların bile tam anlamadığını gördüğünüz için vazgeçtiniz.
+
 Haklısınız. Ama inanın bu öyle ötelenecek bir konu değil. Bırakın ülkemizi, dünyada bile bu kavramları tam olarak kavramış insan sayısı şu an çok az. Ama sayı artıyor ve işin içine biraz girenler, yaklaşan dalgayı hissediyor. Bu kuvvetli bir dalga — orası kesin. Ama kesin olmayan sizi ne kadar etkileyeceği. Belki hafif bir şekilde sallayacak, belki kroşe ile sersemletecek, ama bir olasılık da sizi nakavt edecek.
+
 Bu ve bundan sonraki yazılarda, iş dünyasının içindekilere bu yeni gelen dalgayı, baş aktörlerini ve mevcut sistemi nasıl etkileyeceğini elimden geldiğince aktarmaya çalışacağım.
 
 
