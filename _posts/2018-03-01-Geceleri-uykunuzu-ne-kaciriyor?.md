@@ -11,7 +11,7 @@ Haklısınız. Ama inanın bu öyle ötelenecek bir konu değil. Bırakın ülke
 Bu ve bundan sonraki yazılarda, iş dünyasının içindekilere bu yeni gelen dalgayı, baş aktörlerini ve mevcut sistemi nasıl etkileyeceğini elimden geldiğince aktarmaya çalışacağım.
 
 
----
+--
 
 ## Önce işin ABC’si
 Maalesef işe en baştan başlamak gerekiyor. Bu konulara zaten aşina iseniz, birkaç yazı daha beklemeniz gerekecek. Öncesinde, geçenlerde katıldığım bir konferansta konuşmalar başladıktan on dakika sonra konuşmacıların sözünü kesip “Biz Bitcoin diye buraya geldik, siz Blockchain diye bir şeyden bahsediyorsunuz, ben bilmiyorum, etrafıma sordum, onlar da bilmiyor” diyen hatırı sayılır büyük bir kesim için bir başlangıç yapmamız gerekiyor.
