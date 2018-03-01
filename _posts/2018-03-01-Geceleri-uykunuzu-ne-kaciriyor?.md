@@ -6,7 +6,7 @@ categories: Genel
 ---
 
 ### Üzerimize gelen dalganın farkında mısınız?
-New York’taki projemde şirketimin yönetici ortaklarından birinin müşterisine sorduğu en can alıcı soru buydu. “*Geceleri uykunuzu ne kaçırıyor?*” Dolar/Euro paritesinin değişmesi mi, yoksa önümüzdeki yıl yapılacak seçimler mi? Siz bunlara kafa yorarken, birileri de tutturmuş sinek vızıltısı gibi “Bitcoin” diyor, “Kripto Para, Blockchain” diye bir şeyler sayıklıyor. Bunca derdin sıkıntının arasında bir de bunlar çıktı. Neymiş diye bir baktınız ama size anlatanların bile tam anlamadığını gördüğünüz için vazgeçtiniz.
+New York’taki projemde şirketimin yönetici ortaklarından birinin müşterisine sorduğu en can alıcı soru buydu. *“Geceleri uykunuzu ne kaçırıyor?”* Dolar/Euro paritesinin değişmesi mi, yoksa önümüzdeki yıl yapılacak seçimler mi? Siz bunlara kafa yorarken, birileri de tutturmuş sinek vızıltısı gibi “Bitcoin” diyor, “Kripto Para, Blockchain” diye bir şeyler sayıklıyor. Bunca derdin sıkıntının arasında bir de bunlar çıktı. Neymiş diye bir baktınız ama size anlatanların bile tam anlamadığını gördüğünüz için vazgeçtiniz.
 Haklısınız. Ama inanın bu öyle ötelenecek bir konu değil. Bırakın ülkemizi, dünyada bile bu kavramları tam olarak kavramış insan sayısı şu an çok az. Ama sayı artıyor ve işin içine biraz girenler, yaklaşan dalgayı hissediyor. Bu kuvvetli bir dalga — orası kesin. Ama kesin olmayan sizi ne kadar etkileyeceği. Belki hafif bir şekilde sallayacak, belki kroşe ile sersemletecek, ama bir olasılık da sizi nakavt edecek.
 Bu ve bundan sonraki yazılarda, iş dünyasının içindekilere bu yeni gelen dalgayı, baş aktörlerini ve mevcut sistemi nasıl etkileyeceğini elimden geldiğince aktarmaya çalışacağım.
 
@@ -36,7 +36,7 @@ Son zamanlarda ortaya çıkan bütün bu yeni kavramların (Blockchain, Bitcoin,
 Olayın teknoloji kısmının ana kaynağı bu. Tabii ki kapital işin içine girince bunun çok daha detaylı açılımları var. Örneğin:
 * Web 1.0’nın finansmanının Amerikan hükümeti ve ordusunun finansman desteği ile kurulması ve kar gütmediği için halka açılmasından,
 * Web 2.0’in özel fonlar aracılığı ile kurulduğu için kapalı bir sistem içinde bütün yaratılan değeri kendine almasına,
-* Web 3.0’ın başlangıçta açık kaynaklar aracılığı ile hobi olarak geliştirilen adem-i merkeziyetçi sistemlerin artık kendilerine yetecek hatırı sayılır derecede finansmanı buluyor olmasına kadar. ]
+* Web 3.0’ın başlangıçta açık kaynaklar aracılığı ile hobi olarak geliştirilen adem-i merkeziyetçi sistemlerin artık kendilerine yetecek hatırı sayılır derecede finansmanı buluyor olmasına kadar. 
 
 Bütün bunlara sonraki yazılarda değineceğiz. Dediğimiz gibi duyduğunuz bütün bu kavramlar Web 3.0 dalgasının sesleri ve bu dalga ister istemez hepimizi etkileyecek. Ama az, ama çok.
 Sahi sizin gece uykularınızı ne kaçırıyor?..
