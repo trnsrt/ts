@@ -5,7 +5,7 @@ date:   2018-03-02 08:33:15 +0300
 categories: Genel
 ---
 
-Geçen yazımızda [Link] iş dünyasının içindekilere Web 3.0 olarak da adlandırılan basitçe âdem-i merkeziyetçiliğe soyunmuş yeni bir dijitalleşme dalgasının onları nasıl etkileyeceğine bakacağımızı söylemiştik. 
+[Geçen yazımızda](http://ademimerkezi.com/genel/2018/03/01/Geceleri-uykunuzu-ne-kaciriyor.html) iş dünyasının içindekilere Web 3.0 olarak da adlandırılan basitçe âdem-i merkeziyetçiliğe soyunmuş yeni bir dijitalleşme dalgasının onları nasıl etkileyeceğine bakacağımızı söylemiştik. 
 
 Dilerseniz bu aralar çok konuşulan Kripto Para konusuyla başlayalım (Kripto para sadece bir örnek, bunun gibi hayatın her alanında örnekler var, sırasıyla onlara da bakacağız)
 
