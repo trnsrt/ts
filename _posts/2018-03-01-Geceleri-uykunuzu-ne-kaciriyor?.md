@@ -21,7 +21,7 @@ Başlangıç noktamız ne olsun? Bitcoin? Hayır, o sonra. Blockchain? Belki. Am
 --
 
 ### “Web”in kısa tarihi
-> “1989 yılında insanlara daha iyi bir hayat için neye ihtiyacınız var diye sorsalar, herhalde hiç kimse ‘birbirine üst metin ile bağlı âdem-i merkeziyetçi bir ağ içinde yer alan bilgi noktaları’ [yani “Web”](http://farmerandfarmer.org/mastery/builder.html) demezdi” Sep Kamvar
+> “1989 yılında insanlara daha iyi bir hayat için neye ihtiyacınız var diye sorsalar, herhalde hiç kimse ‘birbirine üst metin ile bağlı âdem-i merkeziyetçi bir ağ içinde yer alan bilgi noktaları’ (yani “Web”) demezdi” [Sep Kamvar] (http://farmerandfarmer.org/mastery/builder.html)
 
 Web aslında iki katmandan oluşuyor. Birinci katman akademisyenler ve uluslararası standartları oluşturan kurumlar tarafından 1970’lerde oluşturulan açık protokoller — örneğin web sayfaları, epostalar, ya da GPS -uydu ile lokasyon belirleme — sistemi. Bir nevi Web’in altyapısı diyebileceğimiz bu sistemlerin ortak özelliği herkesin erişimine açık ve ücretsiz olmaları — ki bu nedenle buna Web 1.0 diyenler de var.
 Web 1.0 pek çok konuda bize kolaylık sağlayan ve bugün hala kullandığımız platformları ücretsiz olarak hizmetimize açtı ancak kimi konularda eksik kaldı. İşte eksik kaldığı bu noktaları 1990’lardan itibaren özel şirketlerin kurduğu platformlar doldurdu. Kullanıcılar tüm Web’e Facebook, Amazon, Google ve Apple’ın oluşturduğu bu merkezi platformlar aracılığı ile ulaşmaya başladılar çünkü bu platformlar hem daha kullanışlı hem de fonksiyonu yüksek hizmetler veriyorlardı. Ticari kar odaklı bu şirketlerin oluşturduğu ikinci katmana Web 2.0 deniyor.
