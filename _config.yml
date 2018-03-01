@@ -18,8 +18,8 @@ email: trnsrt@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Teknoloji - finans keşişiminde karalamalar. 
   Odak: Dağıtık (merkezi olmayan) her tür teknoloji ve finans dünyasına etkileri.
-baseurl: "ademimerkezi.com/blog" # the subpath of your site, e.g. /blog
-url: "ademimerkezi.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ademi_merkezi
 github_username:  
 
