@@ -44,8 +44,6 @@ Sahi sizin gece uykularınızı ne kaçırıyor?..
 
 -- 
 
-Şu yazılara da bir göz atmanızı tavsiye ederim: 
-
-Chris Dixon: [Why Decentralization Matters?](https://medium.com/@cdixon/why-decentralization-matters-5e3f79f7638e) (Medium)
-
-Steven Johnson: [Beyond the Bitcoin Bubble] (NY Times Magazine)
+Not: Şu yazılara da bir göz atmanızı tavsiye ederim: 
+* Chris Dixon: [Why Decentralization Matters?](https://medium.com/@cdixon/why-decentralization-matters-5e3f79f7638e) (Medium)
+* Steven Johnson: [Beyond the Bitcoin Bubble] (NY Times Magazine)
