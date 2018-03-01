@@ -18,7 +18,7 @@ Maalesef işe en baştan başlamak gerekiyor. Bu konulara zaten aşina iseniz, b
 Başlangıç noktamız ne olsun? Bitcoin? Hayır, o sonra. Blockchain? Belki. Ama başlangıçta o da çok anlam ifade etmeyebilir. Bu konuda yazanlar genelde paranın ortaya çıkışından başlamayı severler. Ama biz biraz daha farklı açıdan, teknoloji tarafından bakalım, sonra finans (kapital) kısmına uzanırız. Konuyu “Web”in başlangıcına alalım, neler olduğuna çok kısa göz atalım, sonrasında bugüne de geliriz.
 
 
----
+--
 
 ## “Web”in kısa tarihi
 > “1989 yılında insanlara daha iyi bir hayat için neye ihtiyacınız var diye sorsalar, herhalde hiç kimse ‘birbirine üst metin ile bağlı âdem-i merkeziyetçi bir ağ içinde yer alan bilgi noktaları’ [yani “Web”] demezdi” Sep Kamvar
@@ -27,7 +27,7 @@ Web 1.0 pek çok konuda bize kolaylık sağlayan ve bugün hala kullandığımı
 Ancak tabii burada ufak bir sorun var. O da bu platformların Web 1.0’da bize ücretsiz hizmet verenler kadar masum olmayışı. Konu sadece kar etmek değil. Facebook, bize hizmeti ücretsiz veriyor diye düşündüğünüzü sanmıyorum, zira sayfalardaki reklamların sıklığını görüyorsunuz. Olay bunun ötesinde, kişisel verilerimizin tamamen Facebook’un kontrolünde olması, bu kimliği bir başka platforma geçirmenin imkansızlığı, hatta, neyi, ne zaman ve ne şekilde göreceğimize Facebook’un karar vermesi (ABD’de 2016 yılında yapılan seçimlerde kopan yaygarayı hepimiz hatırlıyoruz)
 
 
----
+--
 
 ## Ve yeni dalga Web 3.0
 İşte konu burada merkezi / âdem-i merkezi (centralized/decentralized) ayrımına geliyor. Bireyler olarak biz sahip olduklarımızı kendimizde tutacak yapılara mı (Web 1.0’da olduğu gibi) yöneleceğiz, yoksa bu sahipliği başka merkezi yapılara mı (Web 2.0’da yaşandığı gibi) devredeceğiz?.
