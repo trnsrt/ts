@@ -40,3 +40,9 @@ Olayın teknoloji kısmının ana kaynağı bu. Tabii ki kapital işin içine gi
 
 Bütün bunlara sonraki yazılarda değineceğiz. Dediğimiz gibi duyduğunuz bütün bu kavramlar Web 3.0 dalgasının sesleri ve bu dalga ister istemez hepimizi etkileyecek. Ama az, ama çok.
 Sahi sizin gece uykularınızı ne kaçırıyor?..
+
+
+-- 
+Şu yazılara da bir göz atmanızı tavsiye ederim: 
+Chris Dixon: [Why Decentralization Matters?](https://medium.com/@cdixon/why-decentralization-matters-5e3f79f7638e) (Medium)
+Steven Johnson: [Beyond the Bitcoin Bubble] (NY Times Magazine)
