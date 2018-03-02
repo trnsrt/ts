@@ -55,3 +55,4 @@ Online kimliğimizin Blockchain üzerinde tutulması ve sadece bizim istediğimi
 Aracıların olduğu her alan (Übere ya da  itunes app store’a %30 komisyon vereceğimize bunu 1%’e indirsek?)
 Yüksek ücretli işlem ücreti isteyen her türlü borsa (örneğin kripto borsaları - bu borsalarda işlem yapanlar ne kadar yüksek ücretler verdiklerini bilirler - bunu minimuma çeksek?)
 
+Bir sonraki yazımızda Bitcoin'e bakalım artık.. 
