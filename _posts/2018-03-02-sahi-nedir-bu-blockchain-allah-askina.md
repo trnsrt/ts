@@ -16,6 +16,8 @@ Yüzyıllardır bu şekilde kurulan para değiş-tokuş sistemine, işte son zam
 Blockchain ve kripto teknolojisi, dünyanın her yanındaki birbirine tanımayan makinelerin yapılan işlemleri ve mevcut durumu birbiri ile anlık mutabakata varması sayesinde güveni sağlıyor. 
 Yani yukarıda bahsettiğimiz merkezi yapıların elinde olan “güven” unsurunu, “güvene duyulan ihtiyacın minimize edildiği” adem-i merkeziyetçi bir yapıya taşıyor.
 
+--
+
 ### Peki gayet güzel yürüyen bir sistem var zaten, neden buna ihtiyaç var?
 
 İyi de nereden çıktı bu, ne işe yarayacak? Dünyada zaten yeterince miktarda farklı cins para var. İstediğim parayı alıp, istediğimi satıyorum. İstediğim rakamı istediğim yere gönderiyorum? Kredi kartım ile her türlü alışverişi yapıyorum? Niye böyle bir sisteme ihtiyaç duyuldu?
