@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Ademi Merkezi
-email: trnsrt@gmail.com
+email: ademimerkezi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Teknoloji - finans keşişiminde karalamalar. 
   Odak: Dağıtık (merkezi olmayan) her tür teknoloji ve finans dünyasına etkileri.
