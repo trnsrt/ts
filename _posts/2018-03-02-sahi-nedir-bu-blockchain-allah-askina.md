@@ -51,8 +51,8 @@ Blockchain 2009 yılında başladı ve o günden bugüne bir dakika bile durmad�
 ### Tamam, makineler konsensüs yapıyor. Ne işe yarayacak bu? 
 
 Para burada sadece bir örnek. Güven sağlayan merkezi bir yapının yerini (ya da paralel olarak) her yere dağılmış makinelerin aldığını düşünelim. Neler yapılabilirdi, bize ne faydası olurdu? 
-Online kimliğimizin Blockchain üzerinde tutulması ve sadece bizim istediğimiz mecralarda bizim istediğimiz kadar gösterilse - beğenmediğimiz bir mecrayı anında kesip atsak, bütün bilgilerimizi anında başka bir yere taşısak. Tamam böyle bir kimliğe ortam sağladığı için Facebook bizden para almıyor ama, ya biz bu kimliğimizi kullanıp üstüne bir de para alsak - örneğin reklam verenlerden?
-Aracıların olduğu her alan (Übere ya da  itunes app store’a %30 komisyon vereceğimize bunu 1%’e indirsek?)
-Yüksek ücretli işlem ücreti isteyen her türlü borsa (örneğin kripto borsaları - bu borsalarda işlem yapanlar ne kadar yüksek ücretler verdiklerini bilirler - bunu minimuma çeksek?)
+* Online kimliğimizin Blockchain üzerinde tutulması ve sadece bizim istediğimiz mecralarda bizim istediğimiz kadar gösterilse - beğenmediğimiz bir mecrayı anında kesip atsak, bütün bilgilerimizi anında başka bir yere taşısak. Tamam böyle bir kimliğe ortam sağladığı için Facebook bizden para almıyor ama, ya biz bu kimliğimizi kullanıp üstüne bir de para alsak - örneğin reklam verenlerden?
+* Aracıların olduğu her alan (Übere ya da  itunes app store’a %30 komisyon vereceğimize bunu 1%’e indirsek?)
+* Yüksek ücretli işlem ücreti isteyen her türlü borsa (örneğin kripto borsaları - bu borsalarda işlem yapanlar ne kadar yüksek ücretler verdiklerini bilirler - bunu minimuma çeksek?)
 
 Bir sonraki yazımızda Bitcoin'e bakalım artık.. 
