@@ -16,7 +16,7 @@ Yüzyıllardır bu şekilde kurulan para değiş-tokuş sistemine, işte son zam
 Blockchain ve kripto teknolojisi, dünyanın her yanındaki birbirine tanımayan makinelerin yapılan işlemleri ve mevcut durumu birbiri ile anlık mutabakata varması sayesinde güveni sağlıyor. 
 Yani yukarıda bahsettiğimiz merkezi yapıların elinde olan “güven” unsurunu, “güvene duyulan ihtiyacın minimize edildiği” adem-i merkeziyetçi bir yapıya taşıyor.
 
-###Peki gayet güzel yürüyen bir sistem var zaten, neden buna ihtiyaç var?
+### Peki gayet güzel yürüyen bir sistem var zaten, neden buna ihtiyaç var?
 
 İyi de nereden çıktı bu, ne işe yarayacak? Dünyada zaten yeterince miktarda farklı cins para var. İstediğim parayı alıp, istediğimi satıyorum. İstediğim rakamı istediğim yere gönderiyorum? Kredi kartım ile her türlü alışverişi yapıyorum? Niye böyle bir sisteme ihtiyaç duyuldu?
 
@@ -31,13 +31,13 @@ Söylemeye gerek yok sanırım, Blockchain bazlı Kriptoağ’lar sayesinde para
 --
 
 
-###Nereden biliyoruz Blockchain’in güvenli olduğunu?
+### Nereden biliyoruz Blockchain’in güvenli olduğunu?
 
 Aslında bu işin en kolay tarafı. İşin fazla tekniğine girmeden şunu söyleyelim sadece: Blockchain’in ortaya çıkması aslında öyle yazıldığı gibi Satoshi Nakamoto isimli şahış(lar)ın 2008 yılında bir yazı yayınlaması ile olmadı. 70’lerden beri süren 1980 yılında Ralph Merkle’in meşhur yazısı ile başlayan çözülmesi çok zor (imkansız demek yanlış olur) Kriptopara ve Kriptoağ’lar ile başladı. 
 
 Özel anahtar, genel anahtar, hash, Bizans Generalleri gibi duymuş olmanız muhtemel teknik detaylara arzu ederseniz sonra bakarız. Şu aşamada şunu bilmek yeterli: Bu sistemleri kripto (şifreleme) sistemleri ile güvenilir kalan en önemli iki özellik şu: 
-Sistemin bilgilerinin sistemdeki tüm üyeler tarafından şeffaf bir şekilde tutulması, 
-Yapılan bir işlemin geriye dönük olarak değiştirilememesi ve zaman geçtikçe böyle bir çabanın daha da imkansız hale gelmesi
+* Sistemin bilgilerinin sistemdeki tüm üyeler tarafından şeffaf bir şekilde tutulması, 
+* Yapılan bir işlemin geriye dönük olarak değiştirilememesi ve zaman geçtikçe böyle bir çabanın daha da imkansız hale gelmesi
 
 Bunu sürekli örülen bir ağ gibi düşünün. Bir sinek bir ağa düştükten sonra örümcek sürekli olarak yeni ağlar örüyor ve sineğin kurtulması imkansız hale geliyor. Yani bir bilgi sisteme kayıt olup teyit edildikten sonra üzerine gelen her bilgi de aynı şekilde kayıt olup teyit ediliyor. Geçmişteki bir bilgiyi değiştirmek için o günden bugüne bütün bilgileri değiştirmek gerekiyor - yani geçmişe dönük değişiklikler gittikçe zorlaşıyor. 
 
@@ -46,7 +46,7 @@ Blockchain 2009 yılında başladı ve o günden bugüne bir dakika bile durmad�
 --
 
 
-###Tamam, makineler konsensüs yapıyor. Ne işe yarayacak bu? 
+### Tamam, makineler konsensüs yapıyor. Ne işe yarayacak bu? 
 
 Para burada sadece bir örnek. Güven sağlayan merkezi bir yapının yerini (ya da paralel olarak) her yere dağılmış makinelerin aldığını düşünelim. Neler yapılabilirdi, bize ne faydası olurdu? 
 Online kimliğimizin Blockchain üzerinde tutulması ve sadece bizim istediğimiz mecralarda bizim istediğimiz kadar gösterilse - beğenmediğimiz bir mecrayı anında kesip atsak, bütün bilgilerimizi anında başka bir yere taşısak. Tamam böyle bir kimliğe ortam sağladığı için Facebook bizden para almıyor ama, ya biz bu kimliğimizi kullanıp üstüne bir de para alsak - örneğin reklam verenlerden?
