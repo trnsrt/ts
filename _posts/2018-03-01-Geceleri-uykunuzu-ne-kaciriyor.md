@@ -3,6 +3,7 @@ layout: post
 title:  "Geceleri uykunuzu ne kaçırıyor?"
 date:   2018-03-01 19:33:15 +0300
 categories: Genel
+comments: true
 ---
 
 ### Üzerimize gelen dalganın farkında mısınız?
