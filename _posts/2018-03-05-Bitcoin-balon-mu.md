@@ -2,7 +2,7 @@
 layout: post
 title:  "Bitcoin balon mu?"
 date:   2018-03-05 13:37:15 +0300
-categories: Genel, Bireysel Yatırımcı, Bitcoin, Kripto Para
+categories: Genel
 ---
 
 Bitcoin üzerine detaylı analizlere girmeden önce özellikle Bitcoin’in değeri üzerine sık sorulan bir-iki soruyu, geçmişte benzer yaşananları hatırlayarak cevaplandırmakta fayda var. 
