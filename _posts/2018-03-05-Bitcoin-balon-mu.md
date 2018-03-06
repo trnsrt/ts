@@ -65,7 +65,7 @@ Ama daha yolun çok başındayız. Bu şirketler henüz vaat ettikleri hiçbir s
 
 --
 
-### Yani (TL:DR)?
+### Yani (TL;DR)?
 
 Özetle, Web 2.0 pek çok startup batırmasına rağmen içinden bir Amazon, bir Google çıkardı. Şu an Kripto paralara yatırım yapanlar da, bunların pek çoğunun batacağını bile bile, içlerinden çıkacak olan bir Amazon benzeri girişimi kaçırmamak için bu inanılmaz rakamları ödüyorlar. 
 
