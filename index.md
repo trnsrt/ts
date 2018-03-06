@@ -6,6 +6,9 @@ layout: home
 ---
 
 
+![logo](https://github.com/demystified/ademimerkezi/favicon.ico)
+
+
 Teknoloji — finans kesişiminde karalamalar. 
 
 Odak: Dağıtık (merkezi olmayan) her tür teknoloji ve finans dünyasına etkileri. 
