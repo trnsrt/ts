@@ -6,7 +6,7 @@ layout: home
 ---
 
 
-![logo](https://github.com/demystified/ademimerkezi/favicon.ico)
+![logo](http://github.com/demystified/ademimerkezi/favicon.ico)
 
 
 Teknoloji — finans kesişiminde karalamalar. 
