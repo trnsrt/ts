@@ -6,8 +6,6 @@ layout: home
 ---
 
 
-![logo](_images/ademimerkezi-logov3.png)
-
 
 Teknoloji — finans kesişiminde karalamalar. 
 
