@@ -4,6 +4,8 @@
     {% assign default_paths = site.pages | map: "path" %}
     {% assign page_paths = site.header_pages | default: default_paths %}
     <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    
+    {{ site.baseurl }}{% link /favicon.ico %}
 
     {% if page_paths %}
       <nav class="site-nav">
