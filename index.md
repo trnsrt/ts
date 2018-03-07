@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![Logo](/_images/ademimerkezilogov3.png)
+
 
 Teknoloji — finans kesişiminde karalamalar. 
 
