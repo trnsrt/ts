@@ -5,16 +5,16 @@
 layout: home
 ---
 
-
+&nbsp;
 
 Teknoloji — finans kesişiminde karalamalar. 
 
 Odak: Dağıtık (merkezi olmayan) her tür teknoloji ve finans dünyasına etkileri. 
 
-\
+&nbsp;
 
 ---
 
-\
+&nbsp;
 
 
