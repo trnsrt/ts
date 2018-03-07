@@ -29,6 +29,8 @@ layout: default
         
         <p>{{ post.excerpt }}</p>
         
+        <a class="link" href="{{ post.url | relative_url }}">{{ "Devamı" }}</a>
+        
       </li>
     {% endfor %}
   </ul>
