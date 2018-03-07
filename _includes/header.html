@@ -5,7 +5,7 @@
     {% assign page_paths = site.header_pages | default: default_paths %}
     <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
     
-    <span class="logo"><amp-img src="{{ site.baseurl }}{{ site.logo }}" width="48" height="48" /></span>
+    <span class="logo"><amp-img src="{{ site.logo }}" width="48" height="48" /></span>
 
     {% if page_paths %}
       <nav class="site-nav">
