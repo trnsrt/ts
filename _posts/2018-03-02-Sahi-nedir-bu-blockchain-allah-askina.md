@@ -15,7 +15,7 @@ Yüzyıllardır bu şekilde kurulan para değiş-tokuş sistemine, işte son zam
 
 
 .
-![Dilbert on Blockchain](http://ademimerkezi.com/assets/dilbert-chain.jpg)
+![Dilbert on Blockchain](/assets/dilbert-chain.jpg)
 .
 
 
