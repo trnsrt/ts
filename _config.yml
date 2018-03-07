@@ -30,9 +30,6 @@ theme: minima
 plugins:
   - jekyll-feed
 
-header_pages:
- - home.html
- - about.html
 
 
 # Exclude from processing.
