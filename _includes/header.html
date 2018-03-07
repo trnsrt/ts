@@ -1,7 +1,6 @@
 <header class="site-header" role="banner">
 
   <div class="wrapper">
-        <a href="{{ "/" | relative_url }}/" class="logo"><span class="logo"><amp-img src="{{ "/" | relative_url }}{{ site.logo }}" width="48" height="48" /></span></a>
     {% assign default_paths = site.pages | map: "path" %}
     {% assign page_paths = site.header_pages | default: default_paths %}
     <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
