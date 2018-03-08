@@ -9,7 +9,7 @@ categories: Genel
 
 --
 
-Bu yeni adem-i merkezi dalganın içerisinde şu ana kadar en öne çıkan uygulama olan KriptoPara konusuyla başlayalım. Daha başka örnekler de var, sırasıyla onlara da bakacağız. 
+Bu yeni dalganın içerisinde şu ana kadar en öne çıkan uygulama olan KriptoPara konusuyla başlayalım. Daha başka örnekler de var, sırasıyla onlara da bakacağız. 
 
 İnsan ilişkilerinin temelinde güven yatar. Karşıdakine güven. Ancak biz insanlar karşımızdakinin sadece sözüne bağlı olarak bu güveni sağlayamadığımız için araya aracıların girmesine izin veririz. Pazardan alışveriş yaparken aldığımız domates için verdiğimiz kağıt para devletin güven teşkil etmek için pazarcı ile aramıza girmesidir örneğin. Ya da birine bir havale yaparken bize ait olan bir varlığın karşı tarafın sahipliğine geçmesine bankanın aracılık etmesi gibi... 
 
@@ -68,4 +68,4 @@ Para burada sadece bir örnek. Güven sağlayan merkezi bir yapının yerini (ya
 * Aracıların olduğu her alana (örneğin Über'e ya da  iTunes App Store’a yüksek komisyon (şu anda %30'larda!) ödeyeceğimize bunu olabildiğince aza (örneğin %1’e) indirsek?
 * Yüksek işlem ücreti isteyen her türlü borsanın (örneğin kripto borsaları — bu borsalarda işlem yapanlar ne kadar çok aracılık masrafı yaptıklarını çok iyi bilirler) ücretini sıfıra çeksek?
 
-Bir sonraki yazımızda Bitcoin'e bakalım artık.. 
+Bir sonraki yazımızda KriptoParaların Bitcoin'e bakalım artık.. 
