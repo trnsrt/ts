@@ -18,7 +18,7 @@ Yüzyıllardır bu şekilde kurulan para değiş-tokuş sistemine, işte son zam
 
 .
 ![Dilbert on Blockchain](/assets/dilbert-chain-turkce.jpg)
-.
+[Orjinali için](https://cdn.vox-cdn.com/uploads/chorus_asset/file/7310597/dilbert-chain.jpg)
 
 
 Hepimiz internete bağlanmak için cep telefonu ya da masaüstü bilgisayarı gibi aracı makineler kullanıyoruz. Bu makineler istediğimiz işlemleri yapabilmek için web olarak adlandırılan geniş bir ağa bağlanıyorlar. Benzer şekilde dünyanın dört bir yanında bulunan bir grup makine de bu ağın içinde özel olarak birbirlerine bağlanmış durumdalar.
