@@ -11,7 +11,7 @@ Bitcoin üzerine detaylı analizlere girmeden önce özellikle Bitcoin’in değ
 
 ### Bitcoin’inde bir balon mu var?
 
-Blockchain/Bitcoin dendiğinde akla gelen ilk soru: Bu bir balon mu, yakında patlayacak mı? Soruya cevabı baştan vereyim o zaman. Evet - Bitcoin özelinde değil ama tüm Kripto Paralarda bir balon var. Ve muhtemelen bir noktada bunların bir kısmı patlayacak. 
+Blockchain/Bitcoin dendiğinde akla gelen ilk soru: Bu bir balon mu? Soruya cevabı baştan vereyim o zaman. Evet - Bitcoin özelinde değil ama tüm Kripto Paralarda bir balon var. Ve muhtemelen bir noktada bunların bir kısmı patlayacak. 
 
 “Hah, tamam bak balonmuş patlayacak, biz gündelik hayatımıza geri dönelim” diye düşünüyorsanız, biraz sabırlı olmanızı rica edeceğim. Çünkü burada tek bir balon yok, binlerce var. Evet, çoğu patlayacak ama birkaç tanesi çok ama çok daha büyüyecek. 
 
