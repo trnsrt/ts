@@ -5,7 +5,7 @@ date:   2018-03-13 14:25:15 +0300
 categories: Genel
 ---
 
-Bundan önceki yazılarımızda dijitalleşen dünyada geleceğe bakmadan önce, yen gelen dalganın alt yapısını oluşturan Blockchain teknolojisine bakmıştık. Konu ile ilgili bir parça okuduysanız, Blockchain teknojojisi üzerine kurulan onlarca hatta yüzlerce KriptoPara olduğunu göreceksiniz. Ancak herkesin dilinde Bitcoin var. (Baksanıza geçtiğimiz yıl “Dolar”dan daha fazla aranmış Google Türkiye'de): 
+Bundan önceki [yazılarımızda](/_posts/2018/03/02/Sahi-nedir-bu-blockchain-allah-askina) dijitalleşen dünyada geleceğe bakmadan önce, yen gelen dalganın alt yapısını oluşturan Blockchain teknolojisine bakmıştık. Konu ile ilgili bir parça okuduysanız, Blockchain teknojojisi üzerine kurulan onlarca hatta yüzlerce KriptoPara olduğunu göreceksiniz. Ancak herkesin dilinde Bitcoin var. (Baksanıza geçtiğimiz yıl “Dolar”dan daha fazla aranmış Google Türkiye'de): 
 
 ![Google Search Trendds](/assets/Screenshot-2018-3-13 Google Trends.png)
 
@@ -15,7 +15,7 @@ Aslında bu normal. Çünkü Bitcoin diğerlerinden farklı - bir nevi bu işin 
 
 ### Bitcoin’in kritik püf noktası: “Mutabakat Mekanizması”
 
-Geçmiş yazılarımızdan da hatırlayacağınız gibi, kripto (şifreleme) teknolojisi 1970’lerden beri süregelen araştırmalar sayesinde hatırı sayılır bir olgunluğa erişmişti. Sonrasında 2008 yılında Satoshi Nakamoto denen kişi(ler), bu kripto teknolojisini kullanarak dünyanın farklı yerlerinde bulunan (adem-i merkezi yapıdaki) makineleri kendi aralarında olabilecek “güven” sorununu en aza indirecek bir “mutabakat mekanizması” aracılığıyla birleştirdi. Bu da, merkezi yapıya olan ihtiyacı ortadan kaldıran bir devrim yarattı. 
+Geçmiş [yazılarımızdan](/2018/03/01/Geceleri-uykunuzu-ne-kaciriyor) da hatırlayacağınız gibi, kripto (şifreleme) teknolojisi 1970’lerden beri süregelen araştırmalar sayesinde hatırı sayılır bir olgunluğa erişmişti. Sonrasında 2008 yılında Satoshi Nakamoto denen kişi(ler), bu kripto teknolojisini kullanarak dünyanın farklı yerlerinde bulunan (adem-i merkezi yapıdaki) makineleri kendi aralarında olabilecek “güven” sorununu en aza indirecek bir “mutabakat mekanizması” aracılığıyla birleştirdi. Bu da, merkezi yapıya olan ihtiyacı ortadan kaldıran bir devrim yarattı. 
 
 Bu mutabakat mekanizması dünyanın dört bir yanına dağılmış birbirini tanımayan makineler tarafından yapılıyordu. Neden? Çünkü, farklı yerlerde olan makineleri fiziksel olarak kontrol altına almak imkansız. 
 
