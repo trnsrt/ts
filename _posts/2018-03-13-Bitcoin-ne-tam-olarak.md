@@ -58,6 +58,7 @@ Bitcoin, para dediğimiz mevhumun bu iki ana özelliğini de taşıyor: Değer d
 O nedenle şu anda Bitcoin’in en benzetilebileceği araç altın. Değişim için fazla kullanılmıyor, eskimiyor, daha çok değeri için tutuluyor. Tabii başka avantajları var, hızlıca el değiştirebilimesi gibi. 
 
 Tabii Bitcoin’in altın ve diğer resmi kağıt paralardan önemli bir farkı var. O da Bitcoin yaratımı kısıtlı ve bir süre sonra da (tahmini 2140 yılında) bitecek. Dolayısıyla da enflasyonist değil deflasyonist bir sistem ile kurulmuş. Bu da Bitcoin’in değerinin zaman geçtikçe yükseleceği şeklinde bir düşünce yaratıyor. Doğru mu değil mi göreceğiz. 
+
 Bitcoin konusunda iyimser olanlar Bitcoin’in gelecekte dünyanın kullanacağı sınırları olmayan, tek bir hakiminin olmadığı global bir para olacağını düşünüyor. Şimdiden yer kapma amacıyla Bitcoin’e hatırı sayılır bir değer biçiyorlar. 
 
 Bitcoin konusundaki pesimistler ise, dünyanın şu anki hakimi olan güçlü kuruluşların Bitcoin sistemini de gelecekte aynı şekilde kontrol edeceği görüşündeler. Sonucun ne olacağını hep birlikte göreceğiz. 
