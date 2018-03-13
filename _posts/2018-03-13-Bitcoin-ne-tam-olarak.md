@@ -27,7 +27,7 @@ Peki, dünyanın dört bir yanına dağılmış makineler neden bu sisteme bağl
 
 Üstelik bir sorun daha var. Diyelim makineleri topladık ve bir ağ kurduk. Makineler bu ağa güçleri kadar katkı yapıyorlar. Ya birisi çok güçlü bir makine geliştirir, ya da binlerce makinelik bir ağ kurar, ve bu sistemin %51’ini ele geçirirse?
 
-Makinelere “mutabakat mekanizması”nı çalıştırmaları için bir ödül vermek lazım yoksa çalışmayı bırakırlar bu da bir kişi ya da gücün sistemin %51’ini ele geçirmesine neden olabilir. 
+Makinelere “mutabakat mekanizması”nı çalıştırmaları için bir ödül vermek lazım yoksa çalışmayı bırakırlar, bu da bir kişi ya da gücün sistemin %51’ini ele geçirmesine neden olabilir. 
 
 --
 
