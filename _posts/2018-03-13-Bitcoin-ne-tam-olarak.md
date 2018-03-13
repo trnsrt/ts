@@ -15,7 +15,7 @@ Aslında bu normal. Çünkü Bitcoin diğerlerinden farklı - bir nevi bu işin 
 
 ### Bitcoin’in kritik püf noktası: “Mutabakat Mekanizması”
 
-Geçmiş [yazılarımızdan](/genel/2018/03/01/Geceleri-uykunuzu-ne-kaciriyor) da hatırlayacağınız gibi, kripto (şifreleme) teknolojisi 1970’lerden beri süregelen araştırmalar sayesinde hatırı sayılır bir olgunluğa erişmişti. Sonrasında 2008 yılında Satoshi Nakamoto denen kişi(ler), bu kripto teknolojisini kullanarak dünyanın farklı yerlerinde bulunan (adem-i merkezi yapıdaki) makineleri kendi aralarında olabilecek “güven” sorununu en aza indirecek bir “mutabakat mekanizması” aracılığıyla birleştirdi. Bu da, merkezi yapıya olan ihtiyacı ortadan kaldıran bir devrim yarattı. 
+Geçmiş [yazılarımızdan](/genel/2018/03/01/Geceleri-uykunuzu-ne-kaciriyor.html) da hatırlayacağınız gibi, kripto (şifreleme) teknolojisi 1970’lerden beri süregelen araştırmalar sayesinde hatırı sayılır bir olgunluğa erişmişti. Sonrasında 2008 yılında Satoshi Nakamoto denen kişi(ler), bu kripto teknolojisini kullanarak dünyanın farklı yerlerinde bulunan (adem-i merkezi yapıdaki) makineleri kendi aralarında olabilecek “güven” sorununu en aza indirecek bir “mutabakat mekanizması” aracılığıyla birleştirdi. Bu da, merkezi yapıya olan ihtiyacı ortadan kaldıran bir devrim yarattı. 
 
 Bu mutabakat mekanizması dünyanın dört bir yanına dağılmış birbirini tanımayan makineler tarafından yapılıyordu. Neden? Çünkü, farklı yerlerde olan makineleri fiziksel olarak kontrol altına almak imkansız. 
 
@@ -62,5 +62,5 @@ Bitcoin konusunda iyimser olanlar Bitcoin’in gelecekte dünyanın kullanacağ�
 
 Bitcoin konusundaki pesimistler ise, dünyanın şu anki hakimi olan güçlü kuruluşların Bitcoin sistemini de gelecekte aynı şekilde kontrol edeceği görüşündeler. Sonucun ne olacağını hep birlikte göreceğiz. 
 
-Bitcoin bir balon mu bunu diğer yazımızda [okuyabilirsiniz](/genel/2018-03-05-Bitcoin-balon-mu)
+Bitcoin bir balon mu bunu diğer yazımızda [okuyabilirsiniz](/genel/2018-03-05-Bitcoin-balon-mu.html)
 
