@@ -5,10 +5,10 @@ date:   2018-03-05 13:37:15 +0300
 categories: Genel
 ---
 
-Bitcoin'in değerinin neden bu kadar yüksek olduğuna baktığımız bu yazımız öncesinde, dijitalleşen dünyada yeni gelen dalganın nasıl oluştuğunu ve bu dalganın getirdiği yeni teknolojileri anlatan önceki yazılarımıza göz atmak isteyebilirsiniz: 
+Bitcoin'in değerinin neden bu kadar yüksek olduğuna baktığımız bu yazımız öncesinde, dijitalleşen dünyada yeni gelen dalganın nasıl oluştuğunu ve bu dalganın getirdiği yeni teknolojileri anlatan diğer yazılarımıza göz atmak isteyebilirsiniz: 
 
 * Dijitalleşen dünyaya yeni gelen Web 3.0 dalgasının geçmişini ve nasıl bir etki yaratacağını "[Geceleri uykunuzu ne kaçırıyor?](/genel/2018/03/01/Geceleri-uykunuzu-ne-kaciriyor.html)" yazımızda, bu yeni dalganın alt yapısını oluşturan Blockchain teknolojisinin detayını ise  "[Sahi nedir bu Blockchain Allah aşkına?](/genel/2018/03/02/Sahi-nedir-bu-blockchain-allah-askina.html)" yazımızda
-* Blockchain altyapısını kullanan KriptoPara dünyasının ağır abisi Bitcoin'i ise "[Bitcoin ne tam olarak?](/genel/2018/03/13/Bitcoin-ne-tam-olarak.html)" yazımızda bulabilirsiniz
+* Blockchain altyapısını kullanan KriptoPara dünyasının ağır abisi Bitcoin'i ise bir sonraki "[Bitcoin ne tam olarak?](/genel/2018/03/13/Bitcoin-ne-tam-olarak.html)" yazımızda bulabilirsiniz
 
 
 
