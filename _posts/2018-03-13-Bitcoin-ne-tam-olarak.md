@@ -7,7 +7,7 @@ categories: Genel
 
 Önceki yazılarımızda dijital dünyada son yaşanan gelişmelere farklı bir prespektiften bakmış ve bu gelişmelerin temelinde yer alan Blockchain teknojosine göz atarak bu dünyaya hızlı bir giriş yapmıştık. 
 
-* Dijitalleşen dünyaya yeni gelen Web 3.0 dalgasının geçmişini ve nasıl bir etki yaratacağını "[Geceleri uykunuzu ne kaçırıyor](/genel/2018/03/01/Geceleri-uykunuzu-ne-kaciriyor.html)" yazımızda
+* Dijitalleşen dünyaya yeni gelen Web 3.0 dalgasının geçmişini ve nasıl bir etki yaratacağını "[Geceleri uykunuzu ne kaçırıyor?](/genel/2018/03/01/Geceleri-uykunuzu-ne-kaciriyor.html)" yazımızda
 * Dijitalleşen dünyadaki bu yeni dalganın alt yapısını oluşturan Blockchain teknolojisinin detayını ise  "[Sahi nedir bu Blockchain Allah aşkına?](/genel/2018/03/02/Sahi-nedir-bu-blockchain-allah-askina.html)" yazımızda bulabilirsinz. 
 
 
