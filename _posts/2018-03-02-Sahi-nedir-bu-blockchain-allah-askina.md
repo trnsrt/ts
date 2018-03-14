@@ -70,3 +70,10 @@ Para burada sadece bir örnek. Güven sağlayan merkezi bir yapının yerini (ya
 * Yüksek işlem ücreti isteyen her türlü borsanın (örneğin kripto borsaları — bu borsalarda işlem yapanlar ne kadar çok aracılık masrafı yaptıklarını çok iyi bilirler) ücretini sıfıra çeksek?
 
 Bir sonraki yazımızda KriptoParaların Bitcoin'e bakalım artık.. 
+
+
+### Sonraki yazılar
+
+[Bitcoin tam olarak nedir?](/genel/2018/03/13/Bitcoin-ne-tam-olarak.html)
+
+[Bitcoin balon mu?](/genel/2018/03/05/Bitcoin-balon-mu.html)
