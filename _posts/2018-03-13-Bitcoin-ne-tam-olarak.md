@@ -69,5 +69,5 @@ Bitcoin konusunda iyimser olanlar Bitcoin’in gelecekte dünyanın kullanacağ�
 
 Bitcoin konusundaki pesimistler ise, dünyanın şu anki hakimi olan güçlü kuruluşların Bitcoin sistemini de gelecekte aynı şekilde kontrol edeceği görüşündeler. Sonucun ne olacağını hep birlikte göreceğiz. 
 
-Bitcoin bir balon mu bunu diğer yazımızda [okuyabilirsiniz](/genel/2018/03/05/Bitcoin-balon-mu.html)
+Bitcoin'in neden bu kadar değerlendiğini merak ediyorsanız [Bitcoin balon mu?](/genel/2018/03/05/Bitcoin-balon-mu.html) yazımıza göz atabilirsiniz. 
 
