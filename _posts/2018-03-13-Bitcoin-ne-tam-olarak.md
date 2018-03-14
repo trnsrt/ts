@@ -5,7 +5,6 @@ date:   2018-03-13 14:25:15 +0300
 categories: Genel
 ---
 
-Şimdiye kadar
 
 * Önce dijitalleşen dünyada şimdiye kadar yaşananları yeni gelen Web 3.0'nın etkisini de göz önünüe alarak farklı bir perspektiften "[Geceleri uykunuzu ne kaçırıyor](/genel/2018/03/01/Geceleri-uykunuzu-ne-kaciriyor.html)" 
 * Sonra da dijitalleşen dünyada bu yeni dalganın alt yapısını oluşturan Blockchain teknolojisini "[Sahi nedir bu Blockchain Allah aşkına?](/genel/2018/03/02/Sahi-nedir-bu-blockchain-allah-askina.html)" 
