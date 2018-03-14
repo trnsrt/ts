@@ -5,7 +5,14 @@ date:   2018-03-13 14:25:15 +0300
 categories: Genel
 ---
 
-Bundan önceki [yazılarımızda](/genel/2018/03/02/Sahi-nedir-bu-blockchain-allah-askina.html) dijitalleşen dünyada geleceğe bakmadan önce, yeni gelen dalganın alt yapısını oluşturan Blockchain teknolojisine bakmıştık. Konu ile ilgili bir parça okuduysanız, Blockchain teknojojisi üzerine kurulan onlarca hatta yüzlerce KriptoPara olduğunu göreceksiniz. Ancak herkesin dilinde Bitcoin var. (Baksanıza geçtiğimiz yıl “Dolar”dan daha fazla aranmış Google Türkiye'de): 
+Şimdiye kadar
+
+* Önce dijitalleşen dünyada şimdiye kadar yaşananları yeni gelen Web 3.0'nın etkisini de göz önünüe alarak farklı bir perspektiften "[Geceleri uykunuzu ne kaçırıyor](/genel/2018/03/01/Geceleri-uykunuzu-ne-kaciriyor.html)" 
+* Sonra da dijitalleşen dünyada bu yeni dalganın alt yapısını oluşturan Blockchain teknolojisini "[Sahi nedir bu Blockchain Allah aşkına?(/genel/2018/03/02/Sahi-nedir-bu-blockchain-allah-askina.html)]" 
+
+yazılarıyla bu dünyaya basit bir giriş yapmıştık. 
+
+Konu ile ilgili bir parça okuduysanız, Blockchain teknojojisi üzerine kurulan onlarca hatta yüzlerce KriptoPara olduğunu göreceksiniz. Ancak herkesin dilinde Bitcoin var. (Baksanıza geçtiğimiz yıl “Dolar”dan daha fazla aranmış Google Türkiye'de): 
 
 ![Google Search Trendds](/assets/Screenshot-2018-3-13 Google Trends.png)
 
