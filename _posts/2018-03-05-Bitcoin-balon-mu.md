@@ -32,7 +32,7 @@ Bir tarafta Bitcoin’e kuşku ile bakan oldukça saygın kişiler var:
 * Warren Buffett “Kripto paralar ile genel kesin olarak söyleyebileceğim, bu paraların sonunun kötü olacağı” şeklinde [konuşuyor](https://www.cnbc.com/video/2018/01/10/warren-buffett-cryptocurrency-will-come-to-a-bad-ending.html). 
 * Diğer tarafta, ünlü New York Times köşe yazarı Nobel ödüllü ekonomist Paul Krugman’a [göre](https://twitter.com/paulkrugman/status/955108216907681792) “Blockchain ilginç ama kullanışlı olup olmadığı henüz açık değil” 
 
-(/assets/Screenshot-2018-3-15 Paul Krugman on Twitter.png)
+[ ](/assets/Screenshot-2018-3-15 Paul Krugman on Twitter.png)
 
 (Gerçi Krugman’ın 1998 yılında yaptığı  “2005 yılına geldiğimizde, Internetin ekonomi üzerindeki etkisinin fax makinesininkinden büyük olmayacağı açıkca görülecek” şeklinde bir yorumu da [var](http://web.archive.org/web/19980610100009/www.redherring.com/mag/issue55/economics.html), belki de bu alandaki yorumlarını çok ciddiye almamak gerek ) 
 * JP Morgan’ın başı Jamie Dimon’un Eylül 2017’de söylediği “Bitcoin sahterkarlık” [sözünü](https://www.cnbc.com/2017/09/12/jpmorgan-ceo-jamie-dimon-raises-flag-on-trading-revenue-sees-20-percent-fall-for-the-third-quarter.html) duymayan kalmadı (sonradan bunu sözden dolayı [utandığını belirterek](https://www.cnbc.com/2018/01/09/jamie-dimon-says-he-regrets-calling-bitcoin-a-fraud.html) kendini düzeltse de artık ilk söyledikleri damga gibi yapıştı üzerine). 
@@ -42,7 +42,7 @@ Diğer tarafta Bitcoin’in ekonomik bir faydası olduğunu düşünenler de mev
 * Starbucks CEO’su Howard Schultz tam olarak Bitcoin için olmasa da Blockchain konusunda “Blockchain teknolojisinin bize tüketiciler için kullanılabilecek önemli seviyede dijital para sunacağını” [belirtiyor](https://www.bloomberg.com/news/articles/2018-01-26/starbucks-chairman-big-on-cryptocurrency-just-maybe-not-bitcoin) 
 * Ünlü McAfee virüs programlarının kurucusu John McAfee’nin iddiası ise [2020 yılında Bitcoin 500 bin ABD Doları’na çıkmazsa vücudunun bir organının yiyeceği](https://twitter.com/officialmcafee/status/935900326007328768) şeklinde 
 
-(/assets/Screenshot-2018-3-15 John McAfee on Twitter.png)
+[ ](/assets/Screenshot-2018-3-15 John McAfee on Twitter.png)
 
 (sonrasında bu iddiayı 1 milyon ABD Doları’na çıkarması ve garip kişiliği [nedeniyle](https://www.theverge.com/2016/9/14/12904402/john-mcafee-rape-murder-accusations-gringo-documentary-tiff-interview) aslında belki de çok da ciddiye alınmaması gereken bir kişi)
 
