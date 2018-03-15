@@ -17,6 +17,9 @@ Konu ile ilgili bir parça okuduysanız, Blockchain teknojojisi üzerine kurulan
 
 Aslında bu normal. Çünkü Bitcoin diğerlerinden farklı - bir nevi bu işin Altın Standardı. Neden? Anlatalım. 
 
+![ ](/assets/dilber-on-bitcoin-twitterjackgaviganstatus584413841649491970.png)
+
+
 --
 
 ### Bitcoin’in kritik püf noktası: “Mutabakat Mekanizması”
