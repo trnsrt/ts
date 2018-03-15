@@ -43,7 +43,7 @@ Hangisi doğru? Gündelik hayatımızdan bir örnekle açıklamaya çalışalım
 Ünlü girişimci/yatırımcı Mark Cuban’ın [söylediği](https://www.bloomberg.com/news/videos/2017-10-03/mark-cuban-confirms-stakes-in-twitter-and-bitcoin-video) gibi “Bitcoin’in değeri, arz ve talebin fonksiyonundan başka bir şey değil”. Bitcoin piyasası şu anda çok sığ. Geçmişte Bitcoin almış ve bunu elinde tutan hatırı sayılır bir kesim de var (hatta elinde tutanların belli düşüşlerde panik olup satmaması için [HODL](https://www.inverse.com/article/38905-what-does-hodl-mean-the-bitcoin-meme-causing-a-storm-on-reddit) diye bir terim bile üretilmiş). Dolayısıyla Bitcoin’e ilgi artıp, para buraya akarken elinde Bitcoin olanların satmaması fiyatta ciddi artışı da beraberinde getirdi. 
 
 Bu balon mu, patlar mı denince herkesin verdiği iki örnek var. 
-* 17 yüzyıl Hollanda’da merkezli olarak Avrupa’yı kasıp kavuran lale fiyatları ve sonunda patlaması
+* 17 yüzyıl Hollanda’da merkezli olarak Avrupa’yı kasıp kavuran [lale fiyatları ve sonunda patlaması](https://tr.wikipedia.org/wiki/Lale_%C3%A7%C4%B1lg%C4%B1nl%C4%B1%C4%9F%C4%B1)
 * 2000’li yılların başında yaşanan dot.com balonu (ve patlaması)
 
 -- 
