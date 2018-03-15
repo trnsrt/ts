@@ -15,8 +15,8 @@ Konu ile ilgili bir parça okuduysanız, Blockchain teknojojisi üzerine kurulan
 
 ![Google Search Trendds](/assets/Screenshot-2018-3-13 Google Trends.png)
 
-&nbsp
-&nbsp
+&nbsp;
+&nbsp;
 
 Aslında bu normal. Çünkü Bitcoin diğerlerinden farklı - bir nevi bu işin Altın Standardı. Neden? Anlatalım. 
 
@@ -24,7 +24,7 @@ Aslında bu normal. Çünkü Bitcoin diğerlerinden farklı - bir nevi bu işin 
 
 ![ ](/assets/dilber-on-bitcoin-twitterjackgaviganstatus584413841649491970.png)
 
-&nbsp
+&nbsp;
 
 --
 
