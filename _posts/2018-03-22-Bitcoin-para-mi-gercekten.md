@@ -135,7 +135,7 @@ Gelelim paranın değerini artıran belki de en önemli, belki de ilk aklınıza
 
 &nbsp;
 
-Evet - yukarıda saydığımız özelliklere bakınca Bitcoin para mı değil mi siz karar verin. Ama eğer topluma bakacak olursanız 22 Mart itibariyle 9,000 ABD Doları adet fiyatı ve 150 milyar ABD Doları toplam piyasa değeri ile Bitcoin dünya tarafından para olarak kabul edilmiş bile. 
+Evet - yukarıda saydığımız özelliklere bakınca Bitcoin para olduğu konusunda hiçbir kuşku yok. Ne kadar değerlidir, ona da yanıt aradık ama en iyisi bu kararı siz verin. Ama eğer topluma bakacak olursanız 22 Mart itibariyle 9,000 ABD Doları adet fiyatı ve 150 milyar ABD Doları toplam piyasa değeri ile Bitcoin dünya tarafından şimdilik değerli bir para olarak kabul edilmiş bile. 
 &nbsp;
 
 &nbsp;
