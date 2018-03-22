@@ -12,7 +12,7 @@ categories: Genel
 - Yukarıda bahsettiğimiz dijital varlıklar içinde en çok göze batan ise KriptoParalar. Çünkü güvene olan ihtiyacın en çok olduğu alan para alışverişi. Ve siz eğer para gibi bir varlığı bu teknoloji ile bir partiden diğerine güvenle aktarabilirseniz, kalan diğer her türlü varlığı aktarmak nispeten daha kolay. İşte bu KriptoParaların ilki ve en ünlüsü de  Bitcoin. ("[Bitcoin ne tam olarak?](http://ademimerkezi.com/genel/2018/03/13/Bitcoin-ne-tam-olarak.html)" yazımızda detayları görebilirsiniz)
 - Özetlersek, Blockchain yeni çıkan bir altyapı, dijital varlıkların transferine yarıyor ve büyük bir devrim yaratma potansiyeli var. Bitcoin de bu dijital varlıkların sadece biri. KriptoParaların içinde en bilinen ve en kullanılır olanı. 
 
-Şimdi burada akılları en karıştıran soru şu:  "Bitcoin'in para olduğunu nasıl iddia edersin?" Öyle ya, gözle görülmez, elle tutulmaz, arkasında herhangi bir değer yok gibi görünüyor, Nasıl olur da para denir böyle bir "şey"e. Önceki yazılarımızda basitçe değinmeye çalıştık ama sanki bir miktar daha açmaya ihtiyaç var. 
+Şimdi burada akılları en karıştıran soru şu:  "Bitcoin'in para olduğunu nasıl iddia edersin?" Öyle ya, gözle görülmez, elle tutulmaz, arkasında herhangi bir değer yok gibi görünüyor. Nasıl olur da para denir böyle bir "şey"e? Önceki yazılarımızda basitçe değinmeye çalıştık ama sanki bir miktar daha açmaya ihtiyaç var. 
 
 &nbsp;
 
@@ -28,9 +28,9 @@ categories: Genel
 
 İlkçağlarda insanlar alışveriş için değiş-tokuş (barter) yöntemini kullanıyorlardı. Benim ineğimden aldığım bir kilo süt var, senin de tarlanda iki kilo domates. Ver domatesini al sütümü. Çok güzel ancak her gün domates yenmez ama evdeki çocuğun her gün süt içmesi lazım. Ben senden her gün domates alamam ki? Dolayısıyla barter yöntemi ikili basit alışverişlerde kullanılabilir ama büyük miktarlarda ve hayatın akışında kullanımı pratik değil. 
 
-Alışverişler için başlangıçta kullanılan değiş-tokuş yöntemi belli büyüklüklerde işe yaramamaya başlayınca insanoğlunun en içgüdüsel dürtülerinden biri yardıma koşmuş. Biriktirmek. Özellikle güzel bulduğu ya da az olduğunu düşündüğü nesneleri. Örneğin deniz kabuklarını. Bu kabukları sadece biriktirmekle kalmamış insanlar, bunlardan kolyeler yapmaya başlamışlar. Sonrasında bu kolyeleri birbirlerine hediye etmişler. Birinde bu kolyeyi görüp çok beğenen komşusu ona sahip olabilmek için evinde bulunan yiyecekleri teklif etmiş. Sonra komşu da aldığı bu kolyeyi başka bir ihtiyacını karşılamak için başkasına teklif etmiş. Bu şekilde bir değer transferi aracı olmuş bu kabuklar ve kolyeler. 
+Alışverişler için başlangıçta kullanılan değiş-tokuş yöntemi belli büyüklüklerde işe yaramamaya başlayınca insanoğlunun en içgüdüsel dürtülerinden biri yardıma koşmuş. Biriktirmek - özellikle güzel bulduğu ya da az olduğunu düşündüğü nesneleri... Örneğin deniz kabuklarını... Bu kabukları sadece biriktirmekle kalmamış insanlar, bunlardan kolyeler yapmaya başlamışlar. Sonrasında bu kolyeleri birbirlerine hediye etmişler. Birinde bu kolyeyi görüp çok beğenen komşusu ona sahip olabilmek için evinde bulunan yiyecekleri teklif etmiş. Sonra komşu da aldığı bu kolyeyi başka bir ihtiyacını karşılamak için başkasına teklif etmiş. Bu şekilde bir değer transferi aracı olmuş bu kabuklar ve kolyeler. 
 
-Yüzyıllar geçtikçe aracılık için kullanılan nesneler daha sofistike ve kullanışlı olanlardan seçilmeye başlanmış. Zamanla deniz kabuklarının yerini metaller, bakır ve metal paralar almış. Sonrasında ise altın ön plana çıkmış ve alışverişlerde kullanılan ana öğe olmuş - ta ki devletler ortaya çıkıp önce altın karşılığı kağıt para basıp sonra Nixon ile birlikte karşılıksız istedikleri kadar para yaratana kadar.
+Yüzyıllar geçtikçe aracılık için kullanılan nesneler daha gelişmiş ve kullanışlı olanlardan seçilmeye başlanmış. Zamanla deniz kabuklarının yerini metaller, bakır ve metal paralar almış. Sonrasında ise altın ön plana çıkmış ve alışverişlerde kullanılan ana öğe olmuş. Ta ki devletler ortaya çıkıp önce altın karşılığı kağıt para basıp, sonra Nixon ile birlikte karşılıksız istedikleri kadar para yaratana kadar...
 &nbsp;
 
 &nbsp;
@@ -43,8 +43,6 @@ Yüzyıllar geçtikçe aracılık için kullanılan nesneler daha sofistike ve k
 #### Paranın olmazsa olmaz özellikleri - Değer atfedilme ve aracılık etme
 
 Yukarıda bahsedilen tüm bu nesnelerdeki iki ana öğe paranın esasını oluşturuyor "değer atfedilmesi" ve alışverişlere "aracılık etmesi". Bunlar paranın olmazsa olmazları. 
-
-&nbsp;
 
 &nbsp;
 
