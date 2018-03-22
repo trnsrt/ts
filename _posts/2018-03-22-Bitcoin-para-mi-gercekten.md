@@ -85,7 +85,7 @@ Biraz karşılaştırmalı olarak bakalım şimdi bu üç aracı nesneye:
 ##### Taşınabilirlik
 - Altın, bu üçlü içinde taşınması en zor olanı. Zira bir yerden diğerine taşımak hem maliyetli hem fiziki olarak zor. Bu nedenle daha çok rezervlerde tutuluyor ve sabit duruyor. Notumuz: **C**
 - Fiat paralar, fiziki olarak çok taşınmasalar da, genelde dijital olarak taşınabiliyorlar. Yine de ülkeler arası sistem farklılıkları ya da politikalar nedeniyle uzun süre alabiliyor para transferi, kimi zaman da hiç mümkün olmayabiliyor. Notumuz: **B**
-- Bitcoin bu alanda korkutucu derecede avantajlı. Milyonlarca dolara eşdeğer bitcoin'i 10 dakika içinde dünyanın öbür ucundaki birine gönderebilmenizin ötesinde, özel kelimelerinizi bir parça kağıda yazıp bir ülkeden diğerine rahatça cebinizde taşıyabilirsiniz. Notumuz: **A+**
+- Bitcoin bu alanda korkutucu derecede avantajlı. Milyonlarca dolara eşdeğer Bitcoin'i 10 dakika içinde dünyanın öbür ucundaki birine gönderebilmenizin ötesinde, özel kelimelerinizi bir parça kağıda yazarak tüm Bitcoin'inizi bir ülkeden diğerine rahatça cebinizde taşıyabilirsiniz. Notumuz: **A+**
 
 ##### Ölçülebilirlik/eşitlik
 - Bu alanda da, altın en önde giden. Altını alıp eritin, parçalara bölün, toplayın altın yine altın. Gramı ne ise kilosu da aynı. Notumuz: *A*
