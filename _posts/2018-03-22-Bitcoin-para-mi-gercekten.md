@@ -84,6 +84,8 @@ Biraz karşılaştırmalı olarak bakalım şimdi bu üç aracı nesneye:
 - Bitcoin'e gelirsek, ilk başladığı 2009 yılından bu yana aynı şekilde devam ediyor - yapılan her türlü dış atağa karşı şu ana kadar sağlam durdu. İleride ne olacak kimse bilemez ama benzer şekilde bu tür bir bilinmezlik belki çok güçlü birkaç para dışında her ülke parası için de geçerli. Notumuz: **B**
 &nbsp;
 
+&nbsp;
+
 #### Taşınabilirlik
 - Altın, bu üçlü içinde taşınması en zor olanı. Zira bir yerden diğerine taşımak hem maliyetli hem fiziki olarak zor. Bu nedenle daha çok rezervlerde tutuluyor ve sabit duruyor. Notumuz: **C**
 - Fiat paralar, fiziki olarak çok taşınmasalar da, genelde dijital olarak taşınabiliyorlar. Yine de ülkeler arası sistem farklılıkları ya da politikalar nedeniyle uzun süre alabiliyor para transferi, kimi zaman da hiç mümkün olmayabiliyor. Notumuz: **B**
