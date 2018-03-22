@@ -79,7 +79,7 @@ Biraz karşılaştırmalı olarak bakalım şimdi bu üç aracı nesneye:
 &nbsp;
 ##### Dayanıklılık
 - Bu konuda altın hakikaten bir "altın standart". Bırakın yılları yüzyıllardır hiçbir eskimeye uğramadan nesillerden nesillere aktarılıyor. Notumuz: **A+**
-- Fiat paralar kağıt formunda eskidikleri durumda, arkalarındaki Merkez Bankaları bunları değiştiriyor - orada bir sorun yok. Potansiyel sorun, bu paraların arkasındaki Merkez Bankaları bir gün olmazsa? Mesela 1913-1933 yılları arasında var olmuş olan eski Almanya diyebileceğimiz [Weimar Cumhuriyeti](https://tr.wikipedia.org/wiki/Weimar_Cumhuriyeti). 1919 yılında 1 Mark olan bir ekmeğin 1923'de 100 milyar Mark olması ve sonrasında paranın değersiz ve kullanılamaz hale gelme ihtimali de var. Notumuz: **B**
+- Fiat paralar kağıt formunda eskidikleri durumda, arkalarındaki Merkez Bankaları bunları değiştiriyor - orada bir sorun yok. Potansiyel sorun, bu paraların arkasındaki Merkez Bankaları bir gün olmazsa? Mesela 1913-1933 yılları arasında var olmuş olan eski Almanya diyebileceğimiz [Weimar Cumhuriyeti](https://tr.wikipedia.org/wiki/Weimar_Cumhuriyeti). 1919 yılında 1 Mark olan bir ekmeğin 1923'de 100 milyar Mark olması ve sonrasında paranın değersiz ve kullanılamaz hale gelmesi gibi canlı bir örnek var önümüzde. Notumuz: **B**
 - Bitcoin'e gelirsek, ilk başladığı 2009 yılından bu yana aynı şekilde devam ediyor - yapılan her türlü dış atağa karşı şu ana kadar sağlam durdu. İleride ne olacak kimse bilemez ama benzer şekilde bilinmezlik belki çok güçlü birkaç para dışında herhangi bir ülke parası için de geçerli. Notumuz: **B**
 
 ##### Taşınabilirlik
