@@ -72,10 +72,13 @@ Gelelim paranın değerini artıran belki de en önemli özelliğine - belki de 
 &nbsp;
 
 ![Image](/assets/bitcoin-altin-fiat-kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rma-revised.png?raw=true)
+&nbsp;
 
 &nbsp;
 
 Biraz karşılaştırmalı olarak bakalım şimdi bu üç aracı nesneye:
+&nbsp;
+
 &nbsp;
 
 #### Dayanıklılık
@@ -92,10 +95,14 @@ Biraz karşılaştırmalı olarak bakalım şimdi bu üç aracı nesneye:
 - Bitcoin bu alanda korkutucu derecede avantajlı. Milyonlarca dolara eşdeğer Bitcoin'i 10 dakika içinde dünyanın öbür ucundaki birine gönderebilmenizin ötesinde, özel kelimelerinizi bir parça kağıda yazarak tüm Bitcoin'inizi bir ülkeden diğerine rahatça cebinizde taşıyabilirsiniz. Notumuz: **A+**
 &nbsp;
 
+&nbsp;
+
 #### Ölçülebilirlik/eşitlik
 - Bu alanda altın en önde giden. Altını alıp eritin, parçalara bölün, toplayın altın yine altın. Gramı ne ise kilosu da aynı. Notumuz: **A+**
 - Fiat paralar da fena sayılmazlar. Gerçi yüksek rakamlı banknotlar bazen sıkıntı yaratabiliyor. Örneğin Hindistan hükümetinin kayıt dışını önlemek için 500 ve 1000 rupee banknotlarını azaltmasından sonra bu paralar piyasada iskonto görüyor. Notumuz: **B**
 - Bitcoin de bu alanda fiat paralara benziyor - hatta daha dezavantajlı olabilir. Bitcoin özelliği gereği takip edilebilir. Dolayısyla örneğin kara para ile ilgisi olan rakamların transferinde - özellikle büyük meblağlar söz konusu olduğunda-, Bitcoin çok da elverişli bir araç değil. Notumuz: **B**
+&nbsp;
+
 &nbsp;
 
 #### Doğrulanabilirlik/Sahiclilk
@@ -104,10 +111,14 @@ Biraz karşılaştırmalı olarak bakalım şimdi bu üç aracı nesneye:
 - Bitcoin o anlamda altın ve fiat paradan açık ara daha önde. Herkes sahip olduğu Bitcoin'i çok rahat bir şekilde kanıtlayabilir. Hatta, ortada dolaşan ve "Ben Satoshi Nakamoto'yum" diye dolaşan şahışlar eğer gerçekten o kişi ise, kanıtalamaları o kadar kolay ki! Yapılan ilk işlemi kendisinin yaptığını göstersin yeter :) Notumuz: **A+**
 &nbsp;
 
+&nbsp;
+
 #### Bölünebilirlik
 - Altın'ı ufak parçalara bölsek bile, en ufağı 1 gram olsa yine de oldukça yüksek bir rakam. Ekmek almak için altın kullanamayız mesela. O nedenle özellikle mikroödemeler için elverişli değil. Notumuz: **C**
 - Fiat para bu anlamda gayet iyi. Kuruşlara kadar inebiliyorsunuz. Notumuz: **A**
 - Bitcoin ise çok daha küçük parçalara inebildiği için fiat paralardan bir adım önde (her ne kadar çok ufak paraları transfer etmek komisyon rakamlarından dolayı çok mantıklı olmayabilir). Notumuz: **A+**
+&nbsp;
+
 &nbsp;
 
 #### Kısıtlılık
@@ -116,8 +127,11 @@ Biraz karşılaştırmalı olarak bakalım şimdi bu üç aracı nesneye:
 - Bitcoin'in altın ve fiat paralara göre en ayırdedici özelliği bu. [Şu anda Bitcoin'in %80'i tedavülde](http://www.bitcoinblockhalf.com/). Kalan %20 ise 2140 yılına kadar her dört yılda bir azalarak tedavüle girecek. Arz belli ve gittikçe azalacağı için deflasyonist bir trend yaşanacağı söyleniyor ama bu Bitcoin fiyatı ileride artacak diye kesin bir hüküm vermeye yeterli değil. Notumuz: **A+**
 &nbsp;
 
+&nbsp;
+
 Evet - yukarıda saydığımız özelliklere bakınca Bitcoin para mı değil mi siz karar verin. Ama eğer topluma bakacak olursanız 22 Mart itibariyle 9,000 USD adet fiyatı ve 150 milyar USD toplam piyasa değeri ile Bitcoin dünya tarafından para olarak kabul edilmiş bile. 
 &nbsp;
+
 &nbsp;
 
 ### TL;DR
