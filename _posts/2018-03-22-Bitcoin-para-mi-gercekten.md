@@ -94,19 +94,19 @@ Biraz karşılaştırmalı olarak bakalım şimdi bu üç aracı nesneye:
 - Bitcoin de bu alanda fiat paralara benziyor - hatta daha dezavantaj olabilir. Bitcoin özelliği gereği takip edilebilir. Dolayısyla örneğin kara para ile ilgisi olan rakamların transferinde - özellikle büyük meblağlar söz konusu olduğunda - , Bitcoin çok da elverişli bir araç değil. Notumuz: *B*
 
 ###### Doğrulanabilirlik/Sahiclilk
-- Altın, sahiciliğini kanıtlamada genelde oldukça iyi ama kimi zaman altın kaplamalı sahte madenlerin altın diye yutturulması vakaları mevcut.
-- Fiat paralar ve banknotların da sahteleri ile insanların kandırıldığı örnekler maalesef hala mevcut. 
-- Bitcoin o anlamda altın ve fiat paradan açık ara daha önde. Herkes sahip olduğu Bitcoin'i çok rahat bir şekilde kanıtlayabilir. Hatta, ortada dolaşan ve "Ben Satoshi Nakamoto'yum" diye dolaşan şahışlar eğer gerçekten o kişi ise, kanıtalamaları o kadar kolay ki! Yapılan ilk işlemi kendisinin yaptığını göstersin yeter :)
+- Altın, sahiciliğini kanıtlamada genelde oldukça iyi ama kimi zaman altın kaplamalı sahte madenlerin altın diye yutturulması vakaları mevcut. Notumuz: *B*
+- Fiat paralar ve banknotların da sahteleri ile insanların kandırıldığı örnekler maalesef hala mevcut. Notumuz: *B*
+- Bitcoin o anlamda altın ve fiat paradan açık ara daha önde. Herkes sahip olduğu Bitcoin'i çok rahat bir şekilde kanıtlayabilir. Hatta, ortada dolaşan ve "Ben Satoshi Nakamoto'yum" diye dolaşan şahışlar eğer gerçekten o kişi ise, kanıtalamaları o kadar kolay ki! Yapılan ilk işlemi kendisinin yaptığını göstersin yeter :) Notumuz: *A+*
 
 ###### Bölünebilirlik
-- Altın'ı ufak parçalara bölsek bile, en ufağı 1 gram olsa yine de oldukça yüksek bir rakam. Ekmek almak için altın kullanamayız mesela. O nedenle özellikle mikroödemeler için elverişli değil. 
-- Fiat para bu anlamda gayet iyi. Kuruşlara kadar inebiliyorsunuz
-- Bitcoin ise çok daha küçük parçalara inebildiği için fiat paralardan bir adım önde (her ne kadar çok ufak paraları transfer etmek komisyon rakamlarından dolayı çok mantıklı olmayabilir)
+- Altın'ı ufak parçalara bölsek bile, en ufağı 1 gram olsa yine de oldukça yüksek bir rakam. Ekmek almak için altın kullanamayız mesela. O nedenle özellikle mikroödemeler için elverişli değil. Notumuz: *C*
+- Fiat para bu anlamda gayet iyi. Kuruşlara kadar inebiliyorsunuz. Notumuz: *A*
+- Bitcoin ise çok daha küçük parçalara inebildiği için fiat paralardan bir adım önde (her ne kadar çok ufak paraları transfer etmek komisyon rakamlarından dolayı çok mantıklı olmayabilir). Notumuz: *A+*
 
 ###### Kısıtlılık
-- Altın, şu anda dünyada hatırı sayılır bir miktarda var ancak yeni altın arzı çok fazla beklenmiyor. Yine de teknolojideki değişimler kimi elde edilmesi zor yatakları ekonomik hale getirip arzı artırabilir
-- Maalesef fiat paralar bu alanda sınıfta kaldılar. Zira para musluğu Merkez Bankaları'nın elinde ve para arzı ciddi boyutlara ulaşabiliyor
-- Bitcoin'in altın ve fiat paralara göre en ayırdedici özelliği bu. [Şu aada Bitcoin'in %80'i tedavülde](http://www.bitcoinblockhalf.com/). Kalan %20 ise 2140 yılına kadar her dört yılda bir azalarak tedavüle girecek. Arz belli ve gittikçe azalacağı için deflasyonist bir trend yaşanacağı söyleniyor ama bu Bitcoin fiyatı ileride artacak diye kesin bir hüküm vermeye yeterli değil. 
+- Altın, şu anda dünyada hatırı sayılır bir miktarda var ancak yeni altın arzı çok fazla beklenmiyor. Yine de teknolojideki değişimler kimi elde edilmesi zor yatakları ekonomik hale getirip arzı artırabilir Notumuz: *A*
+- Maalesef fiat paralar bu alanda sınıfta kaldılar. Zira para musluğu Merkez Bankaları'nın elinde ve para arzı ciddi boyutlara ulaşabiliyor. Notumuz: *F*
+- Bitcoin'in altın ve fiat paralara göre en ayırdedici özelliği bu. [Şu aada Bitcoin'in %80'i tedavülde](http://www.bitcoinblockhalf.com/). Kalan %20 ise 2140 yılına kadar her dört yılda bir azalarak tedavüle girecek. Arz belli ve gittikçe azalacağı için deflasyonist bir trend yaşanacağı söyleniyor ama bu Bitcoin fiyatı ileride artacak diye kesin bir hüküm vermeye yeterli değil. Notumuz: *A+*
 
 Evet - yukarıda saydığımız özelliklere bakınca Bitcoin para mı değil mi siz karar verin. Ama eğer topluma bakacak olursanız 22 Mart itibariyle 9,000 USD adet fiyatı ve 150 milyar USD toplam piyasa değeri ile Bitcoin dünya tarafından para olarak kabul edilmiş bile. 
 &nbsp;
