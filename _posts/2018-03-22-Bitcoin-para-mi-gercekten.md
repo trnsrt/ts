@@ -15,12 +15,14 @@ categories: Genel
 Şimdi burada akılları en karıştıran soru şu:  "Bitcoin'in para olduğunu nasıl iddia edersin?" Öyle ya, gözle görülmez, elle tutulmaz, arkasında herhangi bir değer yok gibi görünüyor, Nasıl olur da para denir böyle bir "şey"e. Önceki yazılarımızda basitçe değinmeye çalıştık ama sanki bir miktar daha açmaya ihtiyaç var. 
 
 &nbsp;
+
 &nbsp;
 
 ### Paranın ortaya çıkışı
 &nbsp;
 
 ![](/assets/dilbert-where-money-comes-from-turkce.jpg?raw=true)
+&nbsp;
 
 &nbsp;
 
@@ -36,9 +38,12 @@ Yüzyıllar geçtikçe aracılık için kullanılan nesneler daha sofistike ve k
 
 &nbsp;
 
+&nbsp;
 #### Paranın olmazsa olmaz özellikleri - Değer atfedilme ve aracılık etme
 
 Yukarıda bahsedilen tüm bu nesnelerdeki iki ana öğe paranın esasını oluşturuyor "değer atfedilmesi" ve alışverişlere "aracılık etmesi". Bunlar paranın olmazsa olmazları. 
+
+&nbsp;
 
 &nbsp;
 
@@ -64,7 +69,9 @@ Gelelim paranın değerini artıran belki de en önemli özelliğine - belki de 
     * Çok işleme tabii olması için ise insanların güvenini kazanması, yani kullanışlı olması ve taklit edilemez olması (yani değerinin bir sonraki alışverişte düşmemesi) gerekir. 
     * Yani bir nevi nesne ne kadar çok işleme tabi olursa çıkarılma masrafını karşılayıp değer yaratmaya başlar. 
     * İşte bu nedenle, herhangi bir paranın değeri matematiksel olarak hesaplanırken başka varlıklarda olduğu gibi gelecekte yaratacağı nakit akımlarının toplamına değil, ne kadar sık alışverişte kullanıldığına ve bu alışverişlerde ne değerden işlem gördüğüne bakılır. 
+&nbsp;
 
+&nbsp;
 
 ### Peki Bitcoin para mı?
 
