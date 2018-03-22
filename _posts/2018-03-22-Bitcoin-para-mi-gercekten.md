@@ -122,9 +122,9 @@ Biraz karşılaştırmalı olarak bakalım şimdi bu üç aracı nesneye:
 &nbsp;
 
 #### Bölünebilirlik
-- Altını ufak parçalara bölsek bile, en ufağı 1 gram olsa yine de oldukça yüksek bir rakam. Ekmek almak için altın kullanamayız mesela. O nedenle özellikle mikroödemeler için elverişli değil. Notumuz: **C**
+- Altını ufak parçalara bölsek, en ufağı 1 gram olsa yine de oldukça yüksek bir rakam. Ekmek almak için altın kullanamayız mesela. O nedenle özellikle mikroödemeler için elverişli değil. Notumuz: **C**
 - Fiat para bu anlamda gayet iyi. Kuruşlara kadar inebiliyorsunuz. Notumuz: **A**
-- Bitcoin ise çok daha küçük parçalara inebildiği için fiat paralardan bir adım önde (her ne kadar çok ufak paraları transfer etmek komisyon rakamlarından dolayı çok mantıklı olmayabilir). Notumuz: **A+**
+- Bitcoin ise çok daha küçük parçalara inebildiği için fiat paralardan bir adım önde (gerçi çok ufak paraları transfer etmek komisyon rakamlarından dolayı çok mantıklı olmayabilir). Notumuz: **A+**
 &nbsp;
 
 &nbsp;
