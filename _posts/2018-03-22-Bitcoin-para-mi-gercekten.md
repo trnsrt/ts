@@ -68,7 +68,7 @@ Gelelim paranın değerini artıran belki de en önemli özelliğine - belki de 
 
 ### Peki Bitcoin para mı?
 
-Şimdi de yukarıda saydığımız özellikleri Bitcoin, altın ve devlet tarafında çıkarılan banknot (ya da bu dünyadaki tanımı ile "Fiat") için karşılaştırmalı olarak değerlendirelim (Vijay Boyapati'nin "[Bullish Case for Bitcoin](https://medium.com/@vijayb_24615/the-bullish-case-for-bitcoin-6ecc8bdecc1) yazısındaki değerlendirmesinin revize edilmiş hali: 
+Şimdi de yukarıda saydığımız özellikleri Bitcoin, altın ve devlet tarafında çıkarılan banknot (ya da bu dünyadaki tanımı ile "Fiat") için karşılaştırmalı olarak değerlendirelim (Vijay Boyapati'nin "[Bullish Case for Bitcoin](https://medium.com/@vijayb_24615/the-bullish-case-for-bitcoin-6ecc8bdecc1) yazısındaki değerlendirmesinin revize edilmiş hali): 
 &nbsp;
 
 ![Image](/assets/bitcoin-altin-fiat-kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rma-revised.png?raw=true)
