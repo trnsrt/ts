@@ -40,6 +40,7 @@ Bir tarafta Bitcoin’e kuşku ile bakan oldukça saygın kişiler var:
 Diğer tarafta Bitcoin’in ekonomik bir faydası olduğunu düşünenler de mevcut: 
 * Bill Gates daha 2014 yılında Bitcoin için “Teknolojik bir başyapıt” şeklinde bir düşüncesi olduğunu hem de Warren Buffett ile yaptığı tartışmada [söylüyor](http://video.foxbusiness.com/v/2359385547001/?#sp=show-clips)  
 * Starbucks CEO’su Howard Schultz tam olarak Bitcoin için olmasa da Blockchain konusunda “Blockchain teknolojisinin bize tüketiciler için kullanılabilecek önemli seviyede dijital para sunacağını” [belirtiyor](https://www.bloomberg.com/news/articles/2018-01-26/starbucks-chairman-big-on-cryptocurrency-just-maybe-not-bitcoin) 
+* Japon Merkez Bankası Başkanı Mart 2018'deki G20 toplantısında gazetecilere "[KriptoParalar finansal sistemler için bir artıdır](https://www.zerohedge.com/news/2018-03-19/bitcoin-spikes-after-bojs-kuroda-praises-cryptocurrencies)" şeklinde bir yorum yaptı. 
 * Ünlü McAfee virüs programlarının kurucusu John McAfee’nin iddiası ise [2020 yılında Bitcoin 500 bin ABD Doları’na çıkmazsa vücudunun bir organının yiyeceği](https://twitter.com/officialmcafee/status/935900326007328768) şeklinde 
 
 ![ ](/assets/Screenshot-2018-3-15 John McAfee on Twitter.png)
