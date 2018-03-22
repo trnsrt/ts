@@ -116,7 +116,7 @@ Biraz karşılaştırmalı olarak bakalım şimdi bu üç aracı nesneye:
 #### Doğrulanabilirlik/Sahiclilk
 - Altın, sahiciliğini kanıtlamada genelde oldukça iyi ama kimi zaman altın kaplamalı sahte madenlerin altın diye yutturulması vakaları mevcut. Notumuz: **B**
 - Fiat paralar ve banknotların da sahteleri ile insanların kandırıldığı örnekler maalesef hala mevcut. Notumuz: **B**
-- Bitcoin o anlamda altın ve fiat paradan açık ara daha önde. Herkes sahip olduğu Bitcoin'i çok rahat bir şekilde kanıtlayabilir. Hatta, ortada dolaşan ve "Ben Satoshi Nakamoto'yum" diye dolaşan şahışlar eğer gerçekten o kişi ise, kanıtalamaları o kadar kolay ki! Yapılan ilk işlemi kendisinin yaptığını göstersin yeter :) Notumuz: **A+**
+- Bitcoin o anlamda altın ve fiat paradan açık ara daha önde. Herkes sahip olduğu Bitcoin'i çok rahat bir şekilde kanıtlayabilir. Hatta, ortada dolaşan ve "Ben Satoshi Nakamoto'yum" diye dolaşan şahışlar eğer gerçekten o kişi ise, kanıtlamaları o kadar kolay ki! Yapılan ilk işlemi kendisinin yaptığını göstersin yeter :) Notumuz: **A+**
 &nbsp;
 
 &nbsp;
