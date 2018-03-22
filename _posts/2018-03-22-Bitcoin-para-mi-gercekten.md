@@ -109,6 +109,8 @@ Biraz karşılaştırmalı olarak bakalım şimdi bu üç aracı nesneye:
 - Bitcoin'in altın ve fiat paralara göre en ayırdedici özelliği bu. [Şu aada Bitcoin'in %80'i tedavülde](http://www.bitcoinblockhalf.com/). Kalan %20 ise 2140 yılına kadar her dört yılda bir azalarak tedavüle girecek. Arz belli ve gittikçe azalacağı için deflasyonist bir trend yaşanacağı söyleniyor ama bu Bitcoin fiyatı ileride artacak diye kesin bir hüküm vermeye yeterli değil. 
 
 Evet - yukarıda saydığımız özelliklere bakınca Bitcoin para mı değil mi siz karar verin. Ama eğer topluma bakacak olursanız 22 Mart itibariyle 9,000 USD adet fiyatı ve 150 milyar USD toplam piyasa değeri ile Bitcoin dünya tarafından para olarak kabul edilmiş bile. 
+&nbsp;
+&nbsp;
 
 ### TL;DR
 
@@ -119,9 +121,12 @@ Efendim, konuyu özetlersek:
 - Bitcoin'i altın ve banknotlar ile karşılaştıdığımızda, dezavantajları olsa da genel olarak kullanışlılık açısından bu iki araçtan bir adım önde görünüyor
 
 KriptoParalar üzerine bir hayli vakit harcadık. Bundan sonra, Blockchain teknolojisinin bizi ya da kurumları nasıl etkileyeceğine diğer dijital varlıklara bakarak karar vermeye çalışacağız. 
-
+&nbsp;
+&nbsp;
 ---
 
+&nbsp;
+&nbsp;
 (Bu yazının esin kaynağı olan 
 - Vijay Boyapati'nin uzun ama oldukça açıklayıcı "[Bullish Case for Bitcoin](https://medium.com/@vijayb_24615/the-bullish-case-for-bitcoin-6ecc8bdecc1)" ve 
 - Nick Szabo'nun 2002 tarihli oldukça ağır ve karmaşık ama muhteşem "[Shelling Out: The Origins of Money](http://nakamotoinstitute.org/shelling-out/)" 
