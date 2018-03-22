@@ -26,7 +26,7 @@ categories: Genel
 
 &nbsp;
 
-İlkçağlarda insanlar alışveriş için değiş-tokuş (barter) yöntemini kullanıyorlardı. Benim ineğimden aldığım bir kilo süt var, senin de tarlanda iki kilo domates. Ver domatesini al sütümü. Çok güzel ancak her gün domates yenmez, ama evdeki çocuğun her gün süt içmesi lazım. Ben senden her gün domates alamam ki? Dolayısıyla barter yöntemi ikili basit alışverişlerde kullanılabilir ama büyük miktarlarda ve hayatın akışında kullanımı pratik değil. 
+İlkçağlarda insanlar alışveriş için değiş-tokuş (barter) yöntemini kullanıyorlardı. Benim ineğimden aldığım bir kilo süt var, senin de tarlanda iki kilo domates. Ver domatesini al sütümü. Çok güzel ancak her gün domates yenmez ama evdeki çocuğun her gün süt içmesi lazım. Ben senden her gün domates alamam ki? Dolayısıyla barter yöntemi ikili basit alışverişlerde kullanılabilir ama büyük miktarlarda ve hayatın akışında kullanımı pratik değil. 
 
 Alışverişler için başlanıçta kullanılan değiş-tokuş yöntemi belli büyüküklerde işe yaramamaya başlayınca insanoğlunun en içgüdüsel dürtülerinden biri yardıma koşmuş. Biriktirmek. Özellikle güzel bulduğu ya da az olduğunu düşündüğü nesneleri. Örneğin deniz kabuklarını. Bu kabukları sadece biriktirmekle kalmamış insanlar, bunlardan kolyeler yapmaya başlamışlar. Sonrasında bu kolyeleri birbirlerine hediye etmişler. Birinde bu kolyeyi görüp çok beğenen komşusu ona sahip olabilmek için evinde bulunan yiyecekleri teklif etmiş. Sonra komşu da aldığı bu kolyeyi başka bir ihtiyacını karşılamak için başkasına teklif etmiş. Bu şekilde bir değer transferi aracı olmuş bu kabuklar ve kolyeler. 
 
