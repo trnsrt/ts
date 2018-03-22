@@ -50,7 +50,7 @@ Yukarıda bahsedilen tüm bu nesnelerdeki iki ana öğe paranın esasını oluş
 
 #### Her para bir değil. Neler değerini artırır paranın?
 
-Ancak tabii burada sorun şu: Hangi nesneleri bu iş için kullanacağım? Doğada her nesneden var. Bu nesnelerden bir ya da birkaçı ön plana çıkacak ama hangisi? Eğer ben diğerlerinden önce bu ön plana çıkacak nesneyi anlarsam, bunları toplarım, sonra gelenler az bulunan ve talep gören bu nesneleri talep edince değeri yükselir. Ne gibi özellikler bu nesnenin değerini artırır? 
+Ancak tabii burada sorun şu: Hangi nesneleri bu iş için kullanacağım? Doğada her nesneden var. Bu nesnelerden bir ya da birkaçı ön plana çıkacak ama hangisi? Eğer ben diğerlerinden önce bu ön plana çıkacak nesneyi anlarsam, bunları toplarım, sonradan gelenler az bulunan ve talep gören bu nesneleri talep edince değeri yükselir. Ne gibi özellikler bu nesnenin değerini artırır? 
 
 Öncelikle ihtiyaçlarım bugün farklı yarın farklı. Yazın farklı kışın farklı. Dolayısıyla elimde tuttuğum bu nesneleri sadece yarın değil önümüzdeki aylarda da kullanabilmeliyim. Hatta benim çocuklarım var onlara iyi bir gelecek sağlamalıyım; eğer aracılık yapacak bu nesneleri çocuklarıma bırakabilsem benim için daha kıymetli olurlar. Dolayısıyla ne kadar dayanırsa o kadar iyi. İşte değerli bir paranın ilk özelliği "**Dayanıklı**" olması. 
 
