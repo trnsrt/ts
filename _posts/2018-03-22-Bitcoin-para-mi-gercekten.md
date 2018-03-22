@@ -105,7 +105,7 @@ Biraz karşılaştırmalı olarak bakalım şimdi bu üç aracı nesneye:
 ##### Kısıtlılık
 - Altın, şu anda dünyada hatırı sayılır bir miktarda var ancak yeni altın arzı çok fazla beklenmiyor. Yine de teknolojideki değişimler kimi elde edilmesi zor yatakları ekonomik hale getirip arzı artırabilir Notumuz: *A*
 - Maalesef fiat paralar bu alanda sınıfta kaldılar. Zira para musluğu Merkez Bankaları'nın elinde ve para arzı ciddi boyutlara ulaşabiliyor. Notumuz: *F*
-- Bitcoin'in altın ve fiat paralara göre en ayırdedici özelliği bu. [Şu aada Bitcoin'in %80'i tedavülde](http://www.bitcoinblockhalf.com/). Kalan %20 ise 2140 yılına kadar her dört yılda bir azalarak tedavüle girecek. Arz belli ve gittikçe azalacağı için deflasyonist bir trend yaşanacağı söyleniyor ama bu Bitcoin fiyatı ileride artacak diye kesin bir hüküm vermeye yeterli değil. Notumuz: *A+*
+- Bitcoin'in altın ve fiat paralara göre en ayırdedici özelliği bu. [Şu anda Bitcoin'in %80'i tedavülde](http://www.bitcoinblockhalf.com/). Kalan %20 ise 2140 yılına kadar her dört yılda bir azalarak tedavüle girecek. Arz belli ve gittikçe azalacağı için deflasyonist bir trend yaşanacağı söyleniyor ama bu Bitcoin fiyatı ileride artacak diye kesin bir hüküm vermeye yeterli değil. Notumuz: *A+*
 
 Evet - yukarıda saydığımız özelliklere bakınca Bitcoin para mı değil mi siz karar verin. Ama eğer topluma bakacak olursanız 22 Mart itibariyle 9,000 USD adet fiyatı ve 150 milyar USD toplam piyasa değeri ile Bitcoin dünya tarafından para olarak kabul edilmiş bile. 
 &nbsp;
