@@ -32,6 +32,7 @@ Alışverişler için başlangıçta kullanılan değiş-tokuş yöntemi belli b
 
 Yüzyıllar geçtikçe aracılık için kullanılan nesneler daha sofistike ve kullanışlı olanlardan seçilmeye başlanmış. Zamanla deniz kabuklarının yerini metaller, bakır ve metal paralar almış. Sonrasında ise altın ön plana çıkmış ve alışverişlerde kullanılan ana öğe olmuş - ta ki devletler ortaya çıkıp önce altın karşılığı kağıt para basıp sonra Nixon ile birlikte karşılıksız istedikleri kadar para yaratana kadar.
 &nbsp;
+
 &nbsp;
 
 ![](/assets/Paranin-tarihi.png?raw=true)
