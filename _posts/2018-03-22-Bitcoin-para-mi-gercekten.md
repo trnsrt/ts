@@ -150,6 +150,7 @@ Efendim, konuyu özetlersek:
 - Bitcoin'i altın ve banknotlar ile karşılaştıdığımızda, dezavantajları olsa da genel olarak kullanışlılık açısından bu iki araçtan bir adım önde görünüyor
 
 KriptoParalar üzerine bir hayli vakit harcadık. Bundan sonra, Blockchain teknolojisinin bizi ya da kurumları nasıl etkileyeceğine diğer dijital varlıklara bakarak karar vermeye çalışacağız. 
+
 &nbsp;
 &nbsp;
 ---
