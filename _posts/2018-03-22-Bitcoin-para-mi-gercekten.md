@@ -12,7 +12,7 @@ categories: Genel
 - Yukarıda bahsettiğimiz dijital varlıklar içinde en çok göze batan ise KriptoPara'lar. Çünkü para alış verişi yapılırken güven en ihtiyaç duyulan araç. Ve siz eğer parayı bu teknoloji ile bir partiden diğerine aktarabilirseniz, kalan diğer her türlü varlığı aktarmak nispeten daha kolay. İşte bu KriptoPara'laraın ilki ve en ünlüsü de  Bitcoin. ("[Bitcoin ne tam olarak?](http://ademimerkezi.com/genel/2018/03/13/Bitcoin-ne-tam-olarak.html)" yazımızda detayları görebilirsiniz)
 - Özetlersek, Blockchain yeni çıkan bir altyapı, büyük bir devrim yaratma potansiyeli var ve dijital varlıkların transferine yarıyor. Bitcoin de bu dijital varlıkların içinde en bilineni ve kullanılanı olan bir dijital para. 
 
-Şimdi burada akılları en karıştıran soru şu:  "Bitcoin'in para olduğunu nasıl iddia edersin?" Öyle ya, gözle görülmez, elle tutulmaz, arkasında herhangi bir değer yok gibi görünüyor, Nasıl olur da para denir böyle bir "şey"e. Önceki yazılarımızda basitçe değinmeye çalıştık ama sanki bir miktar daha açmaya ihtiyaç var 
+Şimdi burada akılları en karıştıran soru şu:  "Bitcoin'in para olduğunu nasıl iddia edersin?" Öyle ya, gözle görülmez, elle tutulmaz, arkasında herhangi bir değer yok gibi görünüyor, Nasıl olur da para denir böyle bir "şey"e. Önceki yazılarımızda basitçe değinmeye çalıştık ama sanki bir miktar daha açmaya ihtiyaç var. 
 
 &nbsp;
 &nbsp;
