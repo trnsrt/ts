@@ -89,9 +89,9 @@ Biraz karşılaştırmalı olarak bakalım şimdi bu üç aracı nesneye:
 - Bitcoin bu alanda korkutucu derecede avantajlı. Milyonlarca dolara eşdeğer bitcoin'i 10 dakika içinde dünyanın öbür ucundaki birine gönderebilmenizin ötesinde, özel kelimelerinizi bir parça kağıda yazıp bir ülkeden diğerine rahatça cebinizde taşıyabilirsiniz. Notumuz: *A+*
 
 ###### Ölçülebilirlik/eşitlik
-- Bu alanda da, altın en önde giden. Altını alıp eritin, parçalara bölün, toplayın altın yine altın. Gramı ne ise kilosu da aynı. 
-- Fiat paralar da fena sayılmazlar. Gerçi, yüksek rakamlı banknotlar bazen sıkıntı yaratabiliyor. Örneğin Hindistan hükümetinin kayıt dışını önlemek için 500 ve 1000 rupee banknotlarını azaltmasından sonra bu paralar piyasada iskonto görüyor. 
-- Bitcoin de bu alanda fiat paralara benziyor - hatta daha dezavantaj olabilir. Bitcoin özelliği gereği takip edilebilir. Dolayısyla örneğin kara para ile ilgisi olan rakamların transferinde - özellikle büyük meblağlar söz konusu olduğunda - , Bitcoin çok da elverişli bir araç değil. 
+- Bu alanda da, altın en önde giden. Altını alıp eritin, parçalara bölün, toplayın altın yine altın. Gramı ne ise kilosu da aynı. Notumuz: *A*
+- Fiat paralar da fena sayılmazlar. Gerçi, yüksek rakamlı banknotlar bazen sıkıntı yaratabiliyor. Örneğin Hindistan hükümetinin kayıt dışını önlemek için 500 ve 1000 rupee banknotlarını azaltmasından sonra bu paralar piyasada iskonto görüyor. Notumuz: *B*
+- Bitcoin de bu alanda fiat paralara benziyor - hatta daha dezavantaj olabilir. Bitcoin özelliği gereği takip edilebilir. Dolayısyla örneğin kara para ile ilgisi olan rakamların transferinde - özellikle büyük meblağlar söz konusu olduğunda - , Bitcoin çok da elverişli bir araç değil. Notumuz: *B*
 
 ###### Doğrulanabilirlik/Sahiclilk
 - Altın, sahiciliğini kanıtlamada genelde oldukça iyi ama kimi zaman altın kaplamalı sahte madenlerin altın diye yutturulması vakaları mevcut.
