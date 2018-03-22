@@ -36,13 +36,13 @@ Yüzyıllar geçtikçe aracılık için kullanılan nesneler daha sofistike ve k
 
 &nbsp;
 
-##### Paranın olmazsa olmaz özellikleri - Değer atfedilme ve aracılık etme
+#### Paranın olmazsa olmaz özellikleri - Değer atfedilme ve aracılık etme
 
 Yukarıda bahsedilen tüm bu nesnelerdeki iki ana öğe paranın esasını oluşturuyor "değer atfedilmesi" ve alışverişlere "aracılık etmesi". Bunlar paranın olmazsa olmazları. 
 
 &nbsp;
 
-##### Her para bir değil. Neler değerini artırır paranın?
+#### Her para bir değil. Neler değerini artırır paranın?
 
 Ancak tabii burada sorun şu: Hangi nesneleri bu iş için kullanacağım? Doğada her nesneden var. Bu nesnelerden bir ya da birkaçı ön plana çıkacak ama hangisi? Eğer ben erkenden bu ön plana çıkacak neseneyi anlarsam anlarsam, bunları toplarım, sonrasında diğer gelenler az bulunan ve talep gören bu nesneleri talep edince değeri yükselir. Ne gibi özellikler bu nesnenin değerini artırır? 
 
