@@ -5,7 +5,7 @@ date:   2018-03-22 14:25:15 +0300
 categories: Genel
 ---
 
-Önceki yazılarımızda bashettiğimiz Blockhain ile Bitcoin arasındaki ilişkiyi bir kez daha hatırlatmakta fayda var. 
+Önceki yazılarımızda bahsettiğimiz Blockhain ile Bitcoin arasındaki ilişkiyi bir kez daha hatırlatmakta fayda var. 
 
 - Dijital teknoloji son 20 yıldır başta internet denilen dijital ağlar ile hayatımıza girdi (ki gelişimini "[Yaklaşan dalganın farkında mısınız?](https://ademimerkezi.com/genel/2018/03/01/Geceleri-uykunuzu-ne-kaciriyor.html)" yazımızda okuyabilirsiniz), Ama özellikle, bu ağlar üzerinde güvenliği sağlayacak şifreleme metodlarının gelişmesi, bize Blockchain denen bir altyapı kazandırdı. Bu da aslında bir devrim. 
 - Blockchain esasında birbirini hiç tanımayan ve dünyanın herhangi iki yerinde oturan iki kişi arasında yapılacak her tür difital varlığın transferini sağlıyor. Üstelik herhangi bir aracıya ihtiyaç duymadan, hem de dakikalar içinde, ayrıca çok ama çok mailyetsiz şekilde. Dolayısıyla şimdiye kadar bu tip işlemlerde bir güven unsuru yaratan ve bu hizmetlerini yapmaya olanak sağlayarak hatırı sayılır bir komisyon alan aracılara olan ihtiyaç da ortadan kalkıyor. ("[Sahi nedir Blockchain Allah aşkına?](http://ademimerkezi.com/genel/2018/03/02/Sahi-nedir-bu-blockchain-allah-askina.html)" yazımızda detayları bulabilirsiniz)
