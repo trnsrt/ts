@@ -82,7 +82,7 @@ Gelelim paranın değerini artıran belki de en önemli, belki de ilk aklınıza
 
 &nbsp;
 
-Biraz karşılaştırmalı olarak bakalım şimdi bu üç aracı nesneye:
+Şimdi bu üç aracı nesneye karşılaştırmalı olarak bakalım, farklar ve benzerlikler iyice ortaya çıksın:
 &nbsp;
 
 &nbsp;
