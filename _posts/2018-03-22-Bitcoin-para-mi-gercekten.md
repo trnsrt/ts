@@ -40,7 +40,7 @@ Yüzyıllar geçtikçe aracılık için kullanılan nesneler daha gelişmiş ve 
 &nbsp;
 
 &nbsp;
-#### Paranın olmazsa olmaz özellikleri - Değer atfedilme ve aracılık etme
+#### Paranın olmazsa olmaz özellikleri: Değer atfedilme ve aracılık etme
 
 Yukarıda bahsedilen tüm bu nesnelerdeki iki ana öğe paranın esasını oluşturuyor "değer atfedilmesi" ve alışverişlere "aracılık etmesi". Bunlar paranın olmazsa olmazları. 
 
@@ -52,15 +52,15 @@ Ancak tabii burada sorun şu: Hangi nesneleri bu iş için kullanacağım? Doğa
 
 Öncelikle ihtiyaçlarım bugün farklı yarın farklı. Yazın farklı kışın farklı. Dolayısıyla elimde tuttuğum bu nesneleri sadece yarın değil önümüzdeki aylarda da kullanabilmeliyim. Hatta benim çocuklarım var onlara iyi bir gelecek sağlamalıyım; eğer aracılık yapacak bu nesneleri çocuklarıma bırakabilsem benim için daha kıymetli olurlar. Dolayısıyla ne kadar dayanırsa o kadar iyi. İşte değerli bir paranın ilk özelliği "**Dayanıklı**" olması. 
 
-Tabii evde duran nesneler güzel ama eğer ben bunları taşıyıp başka yere götürebilirsem yani "yükte hafif" olursa, bunu nesnenin daha takdir gördüğü yerlerde kullanabilirim - bu da benim için değerini artırır. Ayrıca yanımda taşıyabilirsem, gönül rahatlığıyla seyahat edebilirim - evde bırakıp "eve geceyarısı hırsız girerse" diye uykularım kaçmaz. İşte paranın değerini artıran ikinci özellik "**Taşınabilir**" olması. 
+Tabii evde duran nesneler güzel ama eğer ben bunları taşıyıp başka yere götürebilirsem yani "yükte hafif" olursa, bunu nesnenin daha takdir gördüğü yerlerde kullanabilirim. Bu da benim için değerini artırır. Ayrıca yanımda taşıyabilirsem, gönül rahatlığıyla seyahat edebilirim. Evde bırakıp "eve gece yarısı hırsız girerse" diye uykularım kaçmaz. İşte paranın değerini artıran ikinci özellik "**Taşınabilir**" olması. 
 
-Elimde tuttuğum nesnelerin şekilleri ve içerikleri benzer hatta aynı olmalı ki el değiştirirken aynı değerden kabul görsün. O nedenle, örneğin altın platine göre alışveriş yapmak için daha kullanışlı, zira herhangi bir parçası diğerine eşit, platin gibi şekli, kesimi, netliği önemli değil. Kullanışlılık demek değer demek, bunun için nesnenin "**Ölçülebilir**" olması diğerini ciddi olarak artıran bir özellik. 
+Elimde tuttuğum nesnelerin şekilleri ve içerikleri benzer hatta aynı olmalı ki el değiştirirken aynı değerden kabul görsün. O nedenle, örneğin altın platine göre alışveriş yapmak için daha kullanışlı, zira herhangi bir parçası diğerine eşit, platin gibi şekli, kesimi, netliği önemli değil. Kullanışlılık demek değer demek, bunun için nesnenin "**Ölçülebilir**" olması değerini ciddi olarak artıran bir özellik. 
 
 Bu nesnelerin bana güzel gelmesi ve benim için özel olması çok da önemli değil. Önemli olan bunun değerinin başkaları tarafından da takdir ediliyor olması. Bunun için en önemlisi, bakan bir kişinin bu nesnenin gerçekten konuştuğumuz nesne olduğunu hemen anlayabilmesi yani "**Doğrulanabilir**" olması. 
 
 Herhangi bir eşyanın satıcı ile alıcı tarafından üzerinde anlaşılan  ortak bir değeri oluştuğunda, alışveriş için kullanacağım  nesnenin bu değeri tamı tamına karşılayabiliyor olması lazım. Hayatta her zaman bu kadar şanslı olmayacağımız için, genellikle elimizdeki nesnenin tamamı değil sadece bir parçası bu eşyayı almak için yeterli olacak. Aksi halde elimizdeki nesneden fazla fazla vereceğiz karşı tarafa, bir nevi nesnemizin değeri düşecek. İşte bu nedenle, nesnenin alt parçalara "**Bölünebilir**" olması, onun değerini artıran özelliklerden biri. 
 
-Gelelim paranın değerini artıran belki de en önemli özelliğine - belki de ilk aklınıza gelen özelliğine. Eğer para olarak kullandığımız bu nesne tabiatta bolca bulunuyorsa o zaman ne olacak? Örneğin deniz kabuğunu alışverişi aracı olarak kullansak, herhalde balıkçılar zengin olurdu! Bu nedenle kullanılan nesne "**Kısıtlı**" olmalı ya da ünlü bir teorisyenin dediği gibi "[üretilmesi ya da taklit edilmesi çok maliyetli](http://nakamotoinstitute.org/shelling-out/)" olmalı ki değeri yüksek olsun. Bunu biraz daha açmakta fayda var:
+Gelelim paranın değerini artıran belki de en önemli, belki de ilk aklınıza gelen özelliğine. Eğer para olarak kullandığımız bu nesne tabiatta bolca bulunuyorsa o zaman ne olacak? Örneğin deniz kabuğunu alışverişi aracı olarak kullansak, herhalde balıkçılar zengin olurdu! Bu nedenle kullanılan nesne "**Kısıtlı**" olmalı ya da ünlü bir teorisyenin dediği gibi "[üretilmesi ya da taklit edilmesi çok maliyetli](http://nakamotoinstitute.org/shelling-out/)" olmalı ki değeri yüksek olsun. Bunu biraz daha açmakta fayda var:
 * Bir maden ne kadar kısıtlı olursa ya da üretmesi zor olursa o kadar değerli olur. Neden? Çünkü taklit edilemez. Taklit edilmesi zor bir nesne, kolayca gerçek olduğu anlaşılacağı için alışverişlerde "güven" içinde kullanılabilir. 
 * Peki bu madde çıkarması zor ya da pahalı ise niye alışverişte kullanılsın? Haklısınız içgüdüsel olarak "bu masrafa değer mi?" diye düşünüyor olabilirsiniz. Ama şunu unutmayın
     * Bir nesne, bir alışverişte kullanılır ve bir işe yararsa (değer transferine aracılık ederse) bir değeri olur. 
