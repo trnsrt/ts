@@ -86,3 +86,4 @@ Ama daha yolun çok başındayız. Bu şirketler henüz vaat ettikleri hiçbir s
 Özetle, Web 2.0 pek çok startup batırmasına rağmen içinden bir Amazon, bir Google çıkardı. Şu an Kripto paralara yatırım yapanlar da, bunların pek çoğunun batacağını bile bile, içlerinden çıkacak olan bir Amazon benzeri girişimi kaçırmamak için bu inanılmaz rakamları ödüyorlar. 
 
 Eğer küçük bir yatırımcı iseniz bu paraları ödemeli misiniz? Bu tamamıyle size kalmış. Sadece küçük bir noktaya dikkat: sakın ama sakın borç para ile Kripto Para satın almayın. Naçizane bunu aklınızın bir köşesinde tutun. Yatırım yaparken nelere dikkat etmeniz gerektiğini ise sonraki yazılarda detaylandıracağız. 
+
