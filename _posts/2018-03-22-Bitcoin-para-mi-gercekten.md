@@ -46,9 +46,9 @@ Yukarıda bahsedilen tüm bu nesnelerdeki iki ana öğe paranın esasını oluş
 
 Ancak tabii burada sorun şu: Hangi nesneleri bu iş için kullanacağım? Doğada her nesneden var. Bu nesnelerden bir ya da birkaçı ön plana çıkacak ama hangisi? Eğer ben diğerlerinden önce bu ön plana çıkacak nesneyi anlarsam anlarsam, bunları toplarım, sonrasında diğer gelenler az bulunan ve talep gören bu nesneleri talep edince değeri yükselir. Ne gibi özellikler bu nesnenin değerini artırır? 
 
-Öncelikle ihtiyaçlarım bugün farklı yarın farklı. Yazın farklı kışın farklı. Dolayısıyla elimde tuttuğum bu nesneleri sadece yarın değil önümüzdeki aylarda da kullanabilmeliyim. Hatta benim çocuklarım var onlara iyi bir gelecek sağlamalıyım; eğer aracılık yapacak bu nesneleri çocuklarıma bırakabilsem benim için daha kıymetli olurlar. Dolayısıyla ne kadar dayanırsa o kadar iyi. İşte değerli bir paranın ilk özelliği "**Dayanıklı**"
+Öncelikle ihtiyaçlarım bugün farklı yarın farklı. Yazın farklı kışın farklı. Dolayısıyla elimde tuttuğum bu nesneleri sadece yarın değil önümüzdeki aylarda da kullanabilmeliyim. Hatta benim çocuklarım var onlara iyi bir gelecek sağlamalıyım; eğer aracılık yapacak bu nesneleri çocuklarıma bırakabilsem benim için daha kıymetli olurlar. Dolayısıyla ne kadar dayanırsa o kadar iyi. İşte değerli bir paranın ilk özelliği "**Dayanıklı**" olması
 
-Tabii evde duran nesneler güzel ama eğer ben bunları taşıyıp başka yere götürebilirsem yani "yükte hafif" olursa, bunu nesnenin daha takdir gördüğü yerlerde kullanabilirim - bu da benim için değerini artırır. Ayrıca yanımda taşıyabilirsem, gönül rahatlığıyla seyahat edebilirim - evde bırakıp "eve geceyarısı hırsız girerse" diye uykularım kaçmaz. İşte paranın değerini artıran ikinci özellik "**Taşınabilir**"
+Tabii evde duran nesneler güzel ama eğer ben bunları taşıyıp başka yere götürebilirsem yani "yükte hafif" olursa, bunu nesnenin daha takdir gördüğü yerlerde kullanabilirim - bu da benim için değerini artırır. Ayrıca yanımda taşıyabilirsem, gönül rahatlığıyla seyahat edebilirim - evde bırakıp "eve geceyarısı hırsız girerse" diye uykularım kaçmaz. İşte paranın değerini artıran ikinci özellik "**Taşınabilir**" olması
 
 Elimdeki tuttuğum nesneleri şekilleri ve içerikleri benzer hatta aynı olmalı ki el değiştirirken benzer değeri göstersin. O nedenle, örneğin altın platine göre alışveriş yapmak için daha kullanışlı, zira herhangi bir parçası diğerine eşit, platin gibi şekli, kesimi, netliği önemli değil. Kullanışlılık demek değer demek, bunun için nesnein "**Ölçülebilir**" olması 
 
@@ -85,8 +85,8 @@ Biraz karşılaştırmalı olarak bakalım şimdi bu üç aracı nesneye:
 
 ###### Taşınabilirlik
 - Altın, bu üçlü içinde taşınması en zor olanı. Zira bir yerden diğerine taşımak hem maliyetli hem fiziki olarak zor. Bu nedenle daha çok rezervlerde tutuluyor ve sabit duruyor. Notumuz: *C*
-- Fiat paralar, fiziki olarak çok taşınmasalar da, genelde dijital olarak taşınabiliyorlar. Yine de ülkeler arası sistem farklılıkları ya da politikalar nedeniyle uzun süre alabiliyor para transferi, kimi zaman da hiç mümkün olmayabiliyor
-- Bitcoin bu alanda korkutucu derecede avantajlı. Milyonlarca dolara eşdeğer bitcoin'i 10 dakika içinde dünyanın öbür ucundaki birine gönderebilmenizin ötesinde, özel kelimelerinizi bir parça kağıda yazıp bir ülkeden diğerine rahatça cebinizde taşıyabilirsiniz. 
+- Fiat paralar, fiziki olarak çok taşınmasalar da, genelde dijital olarak taşınabiliyorlar. Yine de ülkeler arası sistem farklılıkları ya da politikalar nedeniyle uzun süre alabiliyor para transferi, kimi zaman da hiç mümkün olmayabiliyor. Notumuz: *B*
+- Bitcoin bu alanda korkutucu derecede avantajlı. Milyonlarca dolara eşdeğer bitcoin'i 10 dakika içinde dünyanın öbür ucundaki birine gönderebilmenizin ötesinde, özel kelimelerinizi bir parça kağıda yazıp bir ülkeden diğerine rahatça cebinizde taşıyabilirsiniz. Notumuz: *A+*
 
 ###### Ölçülebilirlik/eşitlik
 - Bu alanda da, altın en önde giden. Altını alıp eritin, parçalara bölün, toplayın altın yine altın. Gramı ne ise kilosu da aynı. 
