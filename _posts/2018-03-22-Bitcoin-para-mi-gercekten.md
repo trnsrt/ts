@@ -162,11 +162,11 @@ KriptoParalar üzerine bir hayli vakit harcadık. Bundan sonra, Blockchain tekno
 
 ---
 
-(Bu yazının esin kaynağı olan 
+* Bu yazının esin kaynağı olan 
 - Vijay Boyapati'nin uzun ama oldukça açıklayıcı "[Bullish Case for Bitcoin](https://medium.com/@vijayb_24615/the-bullish-case-for-bitcoin-6ecc8bdecc1)" ve 
 - Nick Szabo'nun 2002 tarihli oldukça ağır ve karmaşık ama muhteşem "[Shelling Out: The Origins of Money](http://nakamotoinstitute.org/shelling-out/)" 
 
-yazılarına da göz atmanızı tavsiye ederim)
+yazılarına da göz atmanızı tavsiye ederim *
 
 
 
