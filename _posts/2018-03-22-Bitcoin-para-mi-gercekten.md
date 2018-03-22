@@ -63,6 +63,7 @@ Gelelim paranın değerini artıran belki de en önemli özelliğine - belki de 
     * Bu nesne, ne kadar çok alışveriş işlemine tabii olursa (yani sirküle olursa) değeri o kadar artar! 
     * Çok işleme tabii olması için ise insanların güvenini kazanması, yani kullanışlı olması ve taklit edilemez olması (yani değerinin bir sonraki alışverişte düşmemesi) gerekir. 
     * Yani bir nevi nesne ne kadar çok işleme tabi olursa çıkarılma masrafını karşılayıp değer yaratmaya başlar. 
+    * İşte bu nedenle, herhangi bir paranın değeri matematiksel olarak hesaplanırken başka varlıklarda olduğu gibi gelecekte yaratacağı nakit akımlarının toplamına değil, ne kadar sık alışverişte kullanıldığına ve bu alışverişlerde ne değerden işlem gördüğüne bakılır. 
 
 
 ### Peki Bitcoin para mı?
