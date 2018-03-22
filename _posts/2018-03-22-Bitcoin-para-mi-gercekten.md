@@ -88,54 +88,54 @@ Gelelim paranın değerini artıran belki de en önemli, belki de ilk aklınıza
 &nbsp;
 
 #### Dayanıklılık
-- Bu konuda altın hakikaten bir "altın standart". Bırakın yılları yüzyıllardır hiçbir eskimeye uğramadan nesillerden nesillere aktarılıyor. Notumuz: **A+**
-- Fiat paralar kağıt formunda eskidikleri durumda, arkalarındaki Merkez Bankaları bunları değiştiriyor - orada bir sorun yok. Potansiyel sorun, bu paraların arkasındaki Merkez Bankaları bir gün olmazsa? Mesela 1913-1933 yılları arasında var olmuş olan eski Almanya diyebileceğimiz [Weimar Cumhuriyeti](https://tr.wikipedia.org/wiki/Weimar_Cumhuriyeti). 1919 yılında 1 Mark olan bir ekmeğin 1923'de 100 milyar Mark olması ve sonrasında paranın değersiz ve kullanılamaz hale gelmesi gibi canlı bir örnek var önümüzde. Notumuz: **B**
-- Bitcoin'e gelirsek, ilk başladığı 2009 yılından bu yana aynı şekilde devam ediyor - yapılan her türlü dış atağa karşı şu ana kadar sağlam durdu. İleride ne olacak kimse bilemez ama benzer şekilde bu tür bir bilinmezlik belki çok güçlü birkaç para dışında her ülke parası için de geçerli. Notumuz: **B**
+- Bu konuda altın hakikaten bir "altın standart". Bırakın yılları yüzyıllardır hiçbir eskimeye uğramadan nesillerden nesillere aktarılıyor. Notumuz:**A+**
+- Fiat paralar kağıt formunda eskidikleri durumda, arkalarındaki Merkez Bankaları bunları değiştiriyor. Orada bir sorun yok. Potansiyel sorun, bu paraların arkasındaki Merkez Bankaları bir gün olmazsa? Mesela 1913-1933 yılları arasında var olmuş olan eski Almanya diyebileceğimiz [Weimar Cumhuriyeti](https://tr.wikipedia.org/wiki/Weimar_Cumhuriyeti). 1919 yılında 1 Mark olan bir ekmeğin 1923'de 100 milyar Mark olması ve sonrasında paranın değersiz ve kullanılamaz hale gelmesi gibi canlı bir örnek var önümüzde. Notumuz:**B**
+- Bitcoin'e gelirsek, ilk başladığı 2009 yılından bu yana aynı şekilde devam ediyor. Yapılan her türlü dış atağa karşı şu ana kadar sağlam durdu. İleride ne olacak kimse bilemez ama benzer şekilde bu tür bir bilinmezlik belki çok güçlü birkaç para dışında her ülke parası için de geçerli. Notumuz:**B**
 &nbsp;
 
 &nbsp;
 
 #### Taşınabilirlik
-- Altın, bu üçlü içinde taşınması en zor olanı. Zira bir yerden diğerine taşımak hem maliyetli hem fiziki olarak zor. Bu nedenle daha çok rezervlerde tutuluyor ve sabit duruyor. Notumuz: **C**
-- Fiat paralar, fiziki olarak çok taşınmasalar da, genelde dijital olarak taşınabiliyorlar. Yine de ülkeler arası sistem farklılıkları ya da politikalar nedeniyle uzun süre alabiliyor para transferi, kimi zaman da hiç mümkün olmayabiliyor. Notumuz: **B**
-- Bitcoin bu alanda korkutucu derecede avantajlı. Milyonlarca dolara eşdeğer Bitcoin'i 10 dakika içinde dünyanın öbür ucundaki birine gönderebilmenizin ötesinde, özel kelimelerinizi bir parça kağıda yazarak tüm Bitcoin'inizi bir ülkeden diğerine rahatça cebinizde taşıyabilirsiniz. Notumuz: **A+**
+- Altın, bu üçlü içinde taşınması en zor olanı. Zira bir yerden diğerine taşımak hem maliyetli hem fiziki olarak zor. Bu nedenle daha çok rezervlerde tutuluyor ve sabit duruyor. Notumuz:**C**
+- Fiat paralar, fiziki olarak çok taşınmasalar da, genelde dijital olarak taşınabiliyorlar. Yine de ülkeler arası sistem farklılıkları ya da politikalar nedeniyle uzun süre alabiliyor para transferi, kimi zaman da hiç mümkün olmayabiliyor. Notumuz:**B**
+- Bitcoin bu alanda korkutucu derecede avantajlı. Milyonlarca dolara eşdeğer Bitcoin'i 10 dakika içinde dünyanın öbür ucundaki birine gönderebilmenizin ötesinde, özel kelimelerinizi bir parça kağıda yazarak tüm Bitcoin'inizi bir ülkeden diğerine rahatça cebinizde taşıyabilirsiniz. Notumuz:**A+**
 &nbsp;
 
 &nbsp;
 
 #### Ölçülebilirlik/Eşitlik
-- Bu alanda altın en önde giden. Altını alıp eritin, parçalara bölün, toplayın altın yine altın. Gramı ne ise kilosu da aynı. Notumuz: **A+**
-- Fiat paralar da fena sayılmazlar. Gerçi yüksek rakamlı banknotlar bazen sıkıntı yaratabiliyor. Örneğin Hindistan hükümetinin kayıt dışını önlemek için 500 ve 1000 rupee banknotlarını azaltmasından sonra bu paralar piyasada iskonto görüyor. Notumuz: **B**
-- Bitcoin de bu alanda fiat paralara benziyor - hatta daha dezavantajlı olabilir. Bitcoin özelliği gereği takip edilebilir. Dolayısyla örneğin kara para ile ilgisi olan rakamların transferinde - özellikle büyük meblağlar söz konusu olduğunda-, Bitcoin çok da elverişli bir araç değil. Notumuz: **B**
+- Bu alanda altın en önde giden. Altını alıp eritin, parçalara bölün, toplayın altın yine altın. Gramı ne ise kilosu da aynı. Notumuz:**A+**
+- Fiat paralar da fena sayılmazlar. Gerçi yüksek rakamlı banknotlar bazen sıkıntı yaratabiliyor. Örneğin Hindistan hükümetinin kayıt dışını önlemek için 500 ve 1000 rupi banknotlarını azaltmasından sonra bu paralar piyasada iskonto görüyor. Notumuz:**B**
+- Bitcoin de bu alanda fiat paralara benziyor, hatta daha dezavantajlı olabilir. Bitcoin özelliği gereği takip edilebilir. Dolayısıyla örneğin kara para ile ilgisi olan rakamların transferinde - özellikle büyük meblağlar söz konusu olduğunda-, Bitcoin çok da elverişli bir araç değil. Notumuz:**B**
 &nbsp;
 
 &nbsp;
 
-#### Doğrulanabilirlik/Sahiclilk
-- Altın, sahiciliğini kanıtlamada genelde oldukça iyi ama kimi zaman altın kaplamalı sahte madenlerin altın diye yutturulması vakaları mevcut. Notumuz: **B**
-- Fiat paralar ve banknotların da sahteleri ile insanların kandırıldığı örnekler maalesef hala mevcut. Notumuz: **B**
-- Bitcoin o anlamda altın ve fiat paradan açık ara daha önde. Herkes sahip olduğu Bitcoin'i çok rahat bir şekilde kanıtlayabilir. Hatta, ortada dolaşan ve "Ben Satoshi Nakamoto'yum" diye dolaşan şahışlar eğer gerçekten o kişi ise, kanıtlamaları o kadar kolay ki! Yapılan ilk işlemi kendisinin yaptığını göstersin yeter :) Notumuz: **A+**
+#### Doğrulanabilirlik/Sahicililk
+- Altın, sahiciliğini kanıtlamada genelde oldukça iyi ama kimi zaman altın kaplamalı sahte madenlerin altın diye yutturulması vakaları mevcut. Notumuz:**B**
+- Fiat paralar ve banknotların da sahteleri ile insanların kandırıldığı örnekler maalesef hala mevcut. Notumuz:**B**
+- Bitcoin o anlamda altın ve fiat paradan açık ara daha önde. Herkes sahip olduğu Bitcoin'i çok rahat bir şekilde kanıtlayabilir. Hatta, ortada dolaşan ve "Ben Satoshi Nakamoto'yum" diye dolaşan şahıslar eğer gerçekten o kişi ise, kanıtlamaları o kadar kolay ki! Yapılan ilk işlemi kendisinin yaptığını göstersin yeter :) Notumuz:**A+**
 &nbsp;
 
 &nbsp;
 
 #### Bölünebilirlik
-- Altını ufak parçalara bölsek, en ufağı 1 gram olsa yine de oldukça yüksek bir rakam. Ekmek almak için altın kullanamayız mesela. O nedenle özellikle mikroödemeler için elverişli değil. Notumuz: **C**
-- Fiat para bu anlamda gayet iyi. Kuruşlara kadar inebiliyorsunuz. Notumuz: **A**
-- Bitcoin ise çok daha küçük parçalara inebildiği için fiat paralardan bir adım önde (gerçi çok ufak paraları transfer etmek komisyon rakamlarından dolayı çok mantıklı olmayabilir). Notumuz: **A+**
+- Altını ufak parçalara bölsek, en ufağı 1 gram olsa yine de oldukça yüksek bir rakam. Ekmek almak için altın kullanamayız mesela. O nedenle özellikle mikroödemeler için elverişli değil. Notumuz:**C**
+- Fiat para bu anlamda gayet iyi. Kuruşlara kadar inebiliyorsunuz. Notumuz:**A**
+- Bitcoin ise çok daha küçük parçalara inebildiği için fiat paralardan bir adım önde (gerçi çok ufak paraları transfer etmek komisyon rakamlarından dolayı çok mantıklı olmayabilir). Notumuz:**A+**
 &nbsp;
 
 &nbsp;
 
 #### Kısıtlılık
-- Altın, şu anda dünyada hatırı sayılır miktarda var ancak yeni büyük bir arz beklenmiyor. Yine de teknolojideki değişimler kimi elde edilmesi zor rezervleri ekonomik hale getirip arzda artışa yol açabilir. Notumuz: **A**
-- Maalesef fiat paralar bu alanda sınıfta kaldılar. Zira para musluğu Merkez Bankaları'nın elinde ve para arzı ciddi boyutlara ulaşabiliyor. Notumuz: **F**
-- Bitcoin'in altın ve fiat paralara göre en ayırdedici özelliği bu. [Şu anda Bitcoin'in %80'i tedavülde](http://www.bitcoinblockhalf.com/). Kalan %20 ise 2140 yılına kadar her dört yılda bir azalarak tedavüle girecek. Arz belli ve gittikçe azalacağı için deflasyonist bir trend yaşanacağı söyleniyor ama bu Bitcoin fiyatı ileride artacak diye kesin bir hüküm vermeye yeterli değil. Notumuz: **A+**
+- Altın, şu anda dünyada hatırı sayılır miktarda var ve yeni büyük bir arz beklenmiyor. Yine de teknolojideki değişimler kimi elde edilmesi zor rezervleri ekonomik hale getirip arzda artışa yol açabilir. Notumuz:**A**
+- Maalesef fiat paralar bu alanda sınıfta kaldılar. Zira para musluğu Merkez Bankaları'nın elinde ve para arzı ciddi boyutlara ulaşabiliyor. Notumuz:**F**
+- Bitcoin'in altın ve fiat paralara göre en ayırt edici özelliği bu. [Şu anda Bitcoin'in %80'i tedavülde](http://www.bitcoinblockhalf.com/). Kalan %20 ise 2140 yılına kadar her dört yılda bir azalarak tedavüle girecek. Arz belli ve gittikçe azalacağı için deflasyonist bir trend yaşanacağı söyleniyor ama bu Bitcoin fiyatı ileride artacak diye kesin bir hüküm vermeye yeterli değil. Notumuz:**A+**
 &nbsp;
 
 &nbsp;
 
-Evet - yukarıda saydığımız özelliklere bakınca Bitcoin para mı değil mi siz karar verin. Ama eğer topluma bakacak olursanız 22 Mart itibariyle 9,000 USD adet fiyatı ve 150 milyar USD toplam piyasa değeri ile Bitcoin dünya tarafından para olarak kabul edilmiş bile. 
+Evet - yukarıda saydığımız özelliklere bakınca Bitcoin para mı değil mi siz karar verin. Ama eğer topluma bakacak olursanız 22 Mart itibariyle 9,000 ABD Doları adet fiyatı ve 150 milyar ABD Doları toplam piyasa değeri ile Bitcoin dünya tarafından para olarak kabul edilmiş bile. 
 &nbsp;
 
 &nbsp;
@@ -146,7 +146,7 @@ Efendim, konuyu özetlersek:
 - Bir nesneyi para diye adlandırmamız için insanlar arasındaki ticari ilişkilere aracılık etmesi ve insanlar tarafından ona bir değer atfedilmesi olmazsa olmaz koşullar
 - Bunun yanında para ne kadar kullanışlı ise ve sirkülasyonu artar ise o kadar değerli oluyor
 - Tarihte alışveriş ve değer korunumu için önce altın, sonrasında ise Merkez Bankalarının bastıkları banknotlar kullanılmış
-- Bitcoin'i altın ve banknotlar ile karşılaştıdığımızda, dezavantajları olsa da genel olarak kullanışlılık açısından bu iki araçtan bir adım önde görünüyor
+- Bitcoin'i altın ve banknotlar ile karşılaştırdığımızda, dezavantajları olsa da genel olarak kullanışlılık açısından bu iki araçtan bir adım önde görünüyor
 
 KriptoParalar üzerine bir hayli vakit harcadık. Bundan sonra, Blockchain teknolojisinin bizi ya da kurumları nasıl etkileyeceğine diğer dijital varlıklara bakarak karar vermeye çalışacağız. 
 
