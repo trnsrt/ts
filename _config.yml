@@ -26,7 +26,7 @@ logo: "/_images/ademimerkezilogov3.jpg"
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
