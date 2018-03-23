@@ -28,6 +28,13 @@
       <div class="footer-col footer-col-3">
         <p>{{ site.description | escape }}</p>
       </div>
+    
+    <div>
+      {% if site.tags != "" %}
+  {% include collecttags.html %}
+  {% endif %}
+    </div>
+    
     </div>
 
   </div>
