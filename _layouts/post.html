@@ -20,6 +20,20 @@ layout: default
   </div>
   
   
+  <div class="row">
+  <div class="column">
+  {% if page.previous.url %}
+    <a class="prev" href="{{page.previous.url}}">&laquo;&laquo;  Önceki Yazı: {{page.previous.title}}</a>
+  {% endif %}
+  </div>
+  <div class="column" text-align="right">
+  {% if page.next.url %}
+    <a class="next" href="{{page.next.url}}">&raquo;&raquo;  Sonraki Yazı: {{page.next.title}} </a>
+  {% endif %}
+  </div>
+</div>
+  
+  
 <div class="Previous_Page">
   {% if page.previous.url %}
     <a class="prev" href="{{page.previous.url}}">&laquo;&laquo;  Önceki Yazı: {{page.previous.title}}</a>
