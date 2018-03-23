@@ -3,6 +3,7 @@ layout: post
 title:  "Bütün bunlar bir balon mu?"
 date:   2018-03-05 13:37:15 +0300
 categories: Genel
+tags: kriptoPara bitcoin blockchain giriş Web3.0 dağıtık adem-i_merkezi
 ---
 
 Bitcoin'in değerinin neden bu kadar yüksek olduğuna baktığımız bu yazımız öncesinde, dijitalleşen dünyada yeni gelen dalganın nasıl oluştuğunu ve bu dalganın getirdiği yeni teknolojileri anlatan diğer yazılarımıza göz atmak isteyebilirsiniz: 
