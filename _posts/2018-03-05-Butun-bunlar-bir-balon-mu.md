@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bitcoin balon mu?"
+title:  "Bütün bunlar bir balon mu?"
 date:   2018-03-05 13:37:15 +0300
 categories: Genel
 ---
