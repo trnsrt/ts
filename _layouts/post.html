@@ -33,10 +33,30 @@ layout: default
 </div>
   
   
+  
+<!-- Pagination -->
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="/page{{paginator.next_page}}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="/">Newer</a>
+    {% else %}
+      <a class="pagination-item newer" href="/page{{paginator.previous_page}}">Newer</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>
+  
+  
   <div class="row"style="text-align:left;">
   <div class="column">
   {% if page.previous.url %}
-    <a class="prev" href="{{page.previous.url}}">&laquo;&laquo;  Önceki Yazılar: {{page.previous.title}}</a>
+    <a class="prev" href="{{page.previous.url}}">&laquo;&laquo;  Önceki Yazı: {{page.previous.title}}</a>
   {% endif %}
   </div>
   <div class="column">
