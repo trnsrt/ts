@@ -4,6 +4,7 @@ title:  "Bitcoin para mı gerçekten?"
 comments: true
 date:   2018-03-22 14:25:15 +0300
 categories: Genel
+tags: kriptoPara bitcoin blockchain giriş Web3.0 dağıtık adem-i_merkezi
 ---
 
 Önceki yazılarımızda bahsettiğimiz Blockhain ile Bitcoin arasındaki ilişkiyi bir kez daha hatırlatmakta fayda var. 
