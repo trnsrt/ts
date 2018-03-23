@@ -3,6 +3,7 @@ layout: post
 title:  "Sahi nedir bu Blockchain Allah aşkına?"
 date:   2018-03-02 08:33:15 +0300
 categories: Genel
+tags: blockchain giriş Web3.0 dağıtık adem-i_merkezi
 ---
 
 [Geçen yazımızda](https://ademimerkezi.com/genel/2018/03/01/Geceleri-uykunuzu-ne-kaciriyor.html) iş dünyasındakilere, Web 3.0 olarak da adlandırılan yeni dijitalleşme dalgasının onları nasıl etkileyeceğine bakacağımızı belirtmiştik. 
