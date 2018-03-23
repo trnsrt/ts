@@ -21,15 +21,12 @@ layout: default
   
   
   <div class="row">
-  <div class="column">
+  <div class="column1">
   {% if page.previous.url %}
     <a class="prev" href="{{page.previous.url}}">&laquo;&laquo;  Önceki Yazılar: {{page.previous.title}}</a>
   {% endif %}
   </div>
-  <div class="column">
-    div {
-    text-align: right;
-}   
+  <div class="column2">
     {% if page.next.url %}
     <a class="next" href="{{page.next.url}}">&raquo;&raquo;  Sonraki Yazı: {{page.next.title}} </a>
   {% endif %}
