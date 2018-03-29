@@ -14,8 +14,11 @@ Bundan önceki yazılarımızda, dijital dünyada gelişen teknolojilere kısaca
 
 Bu dalga en çok da aracıları (ve güvene) en çok ihtiyaç duyulan finans kesiminin aktörlerini etkileyecek. Ama konu sadece finans sektörü ile sınırlı değil. Aracıların olduğu her sektörü ilgilendiriyor. Kısacası HBO talk show yapımcısı John Oliver'in bahsettiği "[para hakkında bilmediğiniz herşeyin, bilgisayar hakkında bilmediğiniz her şey ile biraraya gelmesi](https://youtu.be/g6iDZspbRMg)" nin ötesinde de hayatımıza etkileri var. (25 dakikalık bu videoyu izlemenizi hararetle tavsiye ederim - hem eğlenecek hem de KriptoParalar ile ilgili şaşırtıcı derecede bilgi sahibi olacaksınız.) 
 
+&nbsp
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g6iDZspbRMg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+&nbsp
 
 Bu yazımızda, finansın soğuk ve rakam dolu dünyasından biraz uzaklaşarak, Blockchain'in dünyayı daha güzelleştirecek filantrophi ve insani yardım işleri için nasıl kullanıldığına bakalım dilerseniz. 
 
