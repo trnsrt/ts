@@ -19,21 +19,11 @@ Bu yazımızda, finansın soğuk ve rakam dolu dünyasından biraz uzaklaşarak,
 --
 &nbsp;
 
-{% include image.html url=" ademimerkezi/assets/wfp-syria.jpg" description="Suriye'de bir kadın verilen kuponunu kullanmak için göz taramasından geçerken" %}
-
 &nbsp;
 
 | ![wfp-syria.jpg](/assets/wfp-syria.jpg) | 
 |:--:| 
 | *Suriye'de bir kadın verilen kuponunu kullanmak için göz taramasından geçerken* |
-
-&nbsp;
-
-
-<figure>
-  <img src="/assets/wfp-syria.jpg?raw=true" alt="my alt text"/>
-  <figcaption><small>Suriye'de bir kadın verilen kuponunu kullanmak için göz taramasından geçerken</small></figcaption>
-</figure>
 
 &nbsp;
 
@@ -52,7 +42,17 @@ Benzer şekilde dünyada gelişmekte olan ülkelere yapılan yardımların [%30'
 --
 &nbsp;
 
-![Suriye'de bir kadın verilen kuponunu kullanmak için göz taramasından geçerken - ](/assets/wfp-syria.jpg?raw=true)
+| ![wfp-syria.jpg](/assets/undp-alt-labs-serbia.jpg?raw=true) | 
+|:--:| 
+| *Sırbıstan üzerinden para yardımı* [*Kaynak*](http://altfinlab.org/blog/serbia-sending-remittances-from-serbian-diaspora-to-the-city-of-nis-beneficiaries) |
+
+&nbsp;
+
+
+&nbsp;
+
+
+
 
 ![Sırbıstan üzerinden para yardımı- http://altfinlab.org/blog/serbia-sending-remittances-from-serbian-diaspora-to-the-city-of-nis-beneficiaries](/assets/undp-alt-labs-serbia.jpg?raw=true)
 
@@ -61,6 +61,16 @@ Benzer şekilde Birleşmiş Milletler Kalkınma Programı (UNDP) ülkelerinden u
 
 --
 &nbsp;
+
+| ![wfp-syria.jpg](/assets/bitgive-homepage.png?raw=true) | 
+|:--:| 
+| *BitGive GiveTrack sistemi* [*Kaynak*](https://www.bitgivefoundation.org/) |
+
+&nbsp;
+
+&nbsp;
+
+
 
 ![BitGive GiveTrack sistemi https://www.bitgivefoundation.org/](/assets/bitgive-homepage.png?raw=true)
 
