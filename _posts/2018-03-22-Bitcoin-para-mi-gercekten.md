@@ -56,7 +56,7 @@ Ancak tabii burada sorun şu: Hangi nesneleri bu iş için kullanacağım? Doğa
 
 Tabii evde duran nesneler güzel ama eğer ben bunları taşıyıp başka yere götürebilirsem yani "yükte hafif" olursa, bunu nesnenin daha takdir gördüğü yerlerde kullanabilirim. Bu da benim için değerini artırır. Ayrıca yanımda taşıyabilirsem, gönül rahatlığıyla seyahat edebilirim. Evde bırakıp "eve gece yarısı hırsız girerse" diye uykularım kaçmaz. İşte paranın değerini artıran ikinci özellik "**Taşınabilir**" olması. 
 
-Elimde tuttuğum nesnelerin şekilleri ve içerikleri benzer hatta aynı olmalı ki el değiştirirken aynı değerden kabul görsün. O nedenle, örneğin altın pırlantaya göre alışveriş yapmak için daha kullanışlı, zira herhangi bir parçası diğerine eşit, platin gibi şekli, kesimi, netliği önemli değil. Kullanışlılık demek değer demek, bunun için nesnenin "**Ölçülebilir**" olması değerini ciddi olarak artıran bir özellik. 
+Elimde tuttuğum nesnelerin şekilleri ve içerikleri benzer hatta aynı olmalı ki el değiştirirken aynı değerden kabul görsün. O nedenle, örneğin altın pırlantaya göre alışveriş yapmak için daha kullanışlı, zira herhangi bir parçası diğerine eşit, pırlanta gibi şekli, kesimi, netliği önemli değil. Kullanışlılık demek değer demek, bunun için nesnenin "**Ölçülebilir**" olması değerini ciddi olarak artıran bir özellik. 
 
 Bu nesnelerin bana güzel gelmesi ve benim için özel olması çok da önemli değil. Önemli olan bunun değerinin başkaları tarafından da takdir ediliyor olması. Bunun için en önemlisi, bakan bir kişinin bu nesnenin gerçekten konuştuğumuz nesne olduğunu hemen anlayabilmesi yani "**Doğrulanabilir**" olması. 
 
