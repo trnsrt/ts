@@ -19,7 +19,7 @@ Bu yazımızda, finansın soğuk ve rakam dolu dünyasından biraz uzaklaşarak,
 --
 &nbsp;
 
-{% include image.html url="/assets/wfp-syria.jpg" description="Suriye'de bir kadın verilen kuponunu kullanmak için göz taramasından geçerken" %}
+{% include image.html url=" ademimerkezi/assets/wfp-syria.jpg" description="Suriye'de bir kadın verilen kuponunu kullanmak için göz taramasından geçerken" %}
 
 &nbsp;
 
@@ -29,9 +29,10 @@ Bu yazımızda, finansın soğuk ve rakam dolu dünyasından biraz uzaklaşarak,
 
 &nbsp;
 
+
 <figure>
-  <img src="{{https://www.wfp.org/news/news-release/wfp-introduces-innovative-iris-scan-technology-provide-food-assistance-syrian-refu?_ga=2.69982032.171380775.1522352727-1632756231.1522352727}}/assets/wfp-syria.jpg?raw=true" alt=" "/>
-  <figcaption>Suriye'de bir kadın verilen kuponunu kullanmak için göz taramasından geçerken</figcaption>
+  <img src="/assets/wfp-syria.jpg?raw=true" alt="my alt text"/>
+  <figcaption><small>Suriye'de bir kadın verilen kuponunu kullanmak için göz taramasından geçerken</small></figcaption>
 </figure>
 
 &nbsp;
