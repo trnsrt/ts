@@ -19,7 +19,13 @@ Bu yazımızda, finansın soğuk ve rakam dolu dünyasından biraz uzaklaşarak,
 --
 &nbsp;
 
-![Suriye'de bir kadın verilen kuponunu korumak için göz taramasından geçerken - ](/assets/wfp-syria.jpg?raw=true)
+<figure>
+  <img src="{{https://www.wfp.org/news/news-release/wfp-introduces-innovative-iris-scan-technology-provide-food-assistance-syrian-refu?_ga=2.69982032.171380775.1522352727-1632756231.1522352727}}/assets/wfp-syria.jpg?raw=true" alt=""/>
+  <figcaption>Suriye'de bir kadın verilen kuponunu kullanmak için göz taramasından geçerken</figcaption>
+</figure>
+
+&nbsp;
+
 
 Birleşmiş Milletler Dünya Gıda Programı (WFP) geçtiğimiz yıl Mayıs ayında Ürdün'de yeni bir program başlatır. Azrak Göçmen Kampı'nda bulunan mültecilere o bölgede bulunan bir marketten alışveriş yapmaları için kuponlar dağıtır. WFP, bu kuponları halihazırda kullandığı biyometrik tanımlama teknolojisinin içine Blockchain'i entegre eder, dolayısıyla mülteciler süpermarkette [retina okuyucuya bakarak](https://www.wfp.org/news/news-release/wfp-introduces-innovative-iris-scan-technology-provide-food-assistance-syrian-refu?_ga=2.69982032.171380775.1522352727-1632756231.1522352727) bu kuponları kullanırlar. Bu sayede, mültecilerin bütün işlemleri sorunsuz bir şekilde Blockchain üzerinde tutularak, hem bürokrasi ve kağıt masrafından hem de bankalara verilen komisyonlardan tasarruf sağlanır. Proje o kadar başarılı olur ki, WFP projeyi tüm Ürdün'e yayarak, [ayda 100,000 ABD Doları tasarruf sağlamayı planlamakta](https://www.wired.com/story/refugees-but-on-the-blockchain/).. 
 
@@ -34,6 +40,8 @@ Benzer şekilde dünyada gelişmekte olan ülkelere yapılan yardımların [%30'
 
 --
 &nbsp;
+
+![Suriye'de bir kadın verilen kuponunu kullanmak için göz taramasından geçerken - ](/assets/wfp-syria.jpg?raw=true)
 
 ![Sırbıstan üzerinden para yardımı- http://altfinlab.org/blog/serbia-sending-remittances-from-serbian-diaspora-to-the-city-of-nis-beneficiaries](/assets/undp-alt-labs-serbia.jpg?raw=true)
 
