@@ -30,6 +30,10 @@ Benzer şekilde dünyada gelişmekte olan ülkelere yapılan yardımların [%30'
 
 Benzer şekilde Birleşmiş Milletler Kalkınma Programı (UNDP) ülkelerinden uzakta bulunan diasporaların anavatanlarındaki soydaşlarına gönderecekleri paralar için Blockchain altyapısını nasıl kullanır ve yaklaşık %7'lere varan maliyetleri nasıl [azaltırızı çözmeye çalışıyor](http://altfinlab.org/blog/serbia-sending-remittances-from-serbian-diaspora-to-the-city-of-nis-beneficiaries). Projenin doğuş nedenlerinden biri gönderilen paraların soydaşlar tarafından ağırlıklı alkole harcanmasının diasporanın canını sıkmış olması. 
 
+2013 yılında ABD'de kurulan [BitGive](https://www.bitgivefoundation.org/) kar amacı gütmeyen ilk Bitcoin bazlı yardım kuruluşu. İhtiyaç sahiplerine bağış kampanyaları yapan kuruluş aynı zamanda bu paraların ihtiyacı olanlara ulaşması için takip eden tüm yolu Blockchain üzerinde tutuyor - böylece bu bilgiler kesinlikle değiştirilemiyor ve anlık olarak takip ediliyor. Kurum yaptığı kampanyalar ile bağışcılardan Bitcoin toplayarak, Nepal'deki depremde kırsal bölgeler ile merkezler arasında irtibatın kurulumuna yardımcı olacak [mobil telefon alınmasından](http://www.bitgivefoundation.org/medic-mobile-campaign/), Kenya'daki bir kız okuluna [kuyu kurulmasına](https://thewaterproject.org/community/projects/kenya/a-new-well-in-kenya-4333), [Philipinler](https://www.savethechildren.org/us/what-we-do/emergency-response/historical-emergencies/typhoon-haiyan)'de, Brezilya'da, Meksika'da küçük ama insanların hayatlarına dokunmuş.
+
+![](/assets/bitgive-homepage.png?raw=true)
+
 Bunlar somut gerçekleşen örnekler ve bu örneklerin benzerleri artarak kullanılmaya devam edecek. Blockchain her derde deva olmayacak ama yine de başarılı birkaç proje bile dünyayı daha güzel ve yaşanır hale getirecek. 
 
 
