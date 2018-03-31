@@ -19,6 +19,12 @@ Bu yazımızda, finansın soğuk ve rakam dolu dünyasından biraz uzaklaşarak,
 --
 &nbsp;
 
+{% include image.html
+            img="/assets/wfp-syria.jpg"
+            title="title for image"
+            caption="*Suriye'de bir kadın verilen kuponunu kullanmak için göz taramasından geçerken* "
+            url="https://www.wfp.org/news/news-release/wfp-introduces-innovative-iris-scan-technology-provide-food-assistance-syrian-refu?_ga=2.69982032.171380775.1522352727-1632756231.1522352727" %}
+
 &nbsp;
 
 | ![wfp-syria.jpg](/assets/wfp-syria.jpg) | 
