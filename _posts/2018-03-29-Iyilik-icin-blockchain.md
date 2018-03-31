@@ -18,10 +18,6 @@ Bu yazımızda, finansın soğuk ve rakam dolu dünyasından biraz uzaklaşarak,
 
 --
 &nbsp;
-![wfp-syria.jpg](/assets/wfp-syria.jpg)
-
-{:.image-caption}
-*Suriye'de bir kadın verilen kuponunu kullanmak için göz taramasından geçerken*
 
 &nbsp;
 
