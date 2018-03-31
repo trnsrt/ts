@@ -64,7 +64,7 @@ Benzer şekilde Birleşmiş Milletler Kalkınma Programı (UNDP) ülkelerinden u
 2013 yılında ABD'de kurulan [BitGive](https://www.bitgivefoundation.org/) kar amacı gütmeyen ilk Bitcoin bazlı yardım kuruluşu. İhtiyaç sahiplerine bağış kampanyaları yapan kuruluş aynı zamanda bu paraların ihtiyacı olanlara ulaşması için takip eden tüm yolu Blockchain üzerinde tutuyor - böylece bu bilgiler kesinlikle değiştirilemiyor ve anlık olarak takip ediliyor. Kurum bağışcılardan Bitcoin toplayarak, Nepal'deki depremde kırsal bölgeler ile merkezler arasında irtibatın kurulumuna yardımcı olacak [mobil telefon alınmasından](http://www.bitgivefoundation.org/medic-mobile-campaign/), Kenya'daki bir kız okuluna [kuyu kurulmasına](https://thewaterproject.org/community/projects/kenya/a-new-well-in-kenya-4333), [Philipinler](https://www.savethechildren.org/us/what-we-do/emergency-response/historical-emergencies/typhoon-haiyan)'de, Brezilya'da, Meksika'da küçük ama insanların hayatlarına dokunan kampanyalar düzenliyor.
 
 
-Bunlar somut gerçekleşen örnekler ve bu örneklerin benzerleri artarak kullanılmaya devam edecek. Blockchain her derde deva olmayacak ama yine de başarılı birkaç proje bile dünyayı daha güzel ve yaşanır hale getirecek. 
+Bunlar somut gerçekleşen örnekler ve bu örneklerin benzerleri artarak kullanılmaya devam edecek. Blockchain her derde deva olmayacak ama yine de başarılı birkaç proje bile dünyayı daha güzel ve yaşanır hale getirecek kuşkusuz. 
 
 
 
