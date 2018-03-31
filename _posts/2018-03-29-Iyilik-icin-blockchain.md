@@ -44,7 +44,7 @@ Benzer şekilde dünyada gelişmekte olan ülkelere yapılan yardımların [%30'
 
 | ![wfp-syria.jpg](/assets/undp-alt-labs-serbia.jpg?raw=true) | 
 |:--:| 
-| *Sırbıstan üzerinden para yardımı* [*Kaynak*](http://altfinlab.org/blog/serbia-sending-remittances-from-serbian-diaspora-to-the-city-of-nis-beneficiaries) |
+| *Sırbıstan üzerinden para yardımı [şeması](http://altfinlab.org/blog/serbia-sending-remittances-from-serbian-diaspora-to-the-city-of-nis-beneficiaries)* |
 
 &nbsp;
 
@@ -56,7 +56,7 @@ Benzer şekilde Birleşmiş Milletler Kalkınma Programı (UNDP) ülkelerinden u
 
 | ![wfp-syria.jpg](/assets/bitgive-homepage.png?raw=true) | 
 |:--:| 
-| *BitGive GiveTrack sistemi* [*Kaynak*](https://www.bitgivefoundation.org/) |
+| *BitGive GiveTrack [sistemi](https://www.bitgivefoundation.org/)* |
 
 &nbsp;
 
