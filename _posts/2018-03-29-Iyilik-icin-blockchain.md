@@ -23,7 +23,7 @@ Bu yazımızda, finansın soğuk ve rakam dolu dünyasından biraz uzaklaşarak,
 
 | ![wfp-syria.jpg](/assets/wfp-syria.jpg) | 
 |:--:| 
-| *Suriye'de bir kadın verilen kuponunu kullanmak için göz taramasından geçerken* |
+| *Suriye'de bir kadın verilen kuponunu kullanmak için göz taramasından geçerken* [*Kaynak*](https://www.wfp.org/news/news-release/wfp-introduces-innovative-iris-scan-technology-provide-food-assistance-syrian-refu?_ga=2.69982032.171380775.1522352727-1632756231.1522352727) |
 
 &nbsp;
 
