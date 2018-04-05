@@ -17,6 +17,8 @@ Efendim, daha önce de belirtmiştik. Modern şifreleme teknolojisi aslında 197
 
 Bir kapalı bir kutu (belki de bir kağıt öğütücü) düşünün. Bir taraftan anlamlı bir sözcük veriyorsunuz, diğer taraftan rakam ve sayılardan oluşan anlamsız bir bütün veriyor. 
 
+Bir örnek yapalım dilerseniz: 
+
 &nbsp;
 
 | ![sifreleme-mekanizmasi.png](/assets/sifreleme-mekanizmasi.png) | 
@@ -25,13 +27,13 @@ Bir kapalı bir kutu (belki de bir kağıt öğütücü) düşünün. Bir taraft
 
 &nbsp;
 
-Bir örnek yapalım dilerseniz: 
+Siz de [deneyebilirsiniz](http://www.xorbin.com/tools/sha256-hash-calculator) - aynı sonucu bulacaksınız (bu sonuca teknik olarak **hash** deniyor). 
 
 | Girdi  | Sonuç  |
 |---|---|
 | *Merhaba*  | *7fdc9f4717c5fe66df286c700fab969b4d6209d03aa84624c5f8f58c17c9c058*  |
 
-Siz de [deneyebilirsiniz](http://www.xorbin.com/tools/sha256-hash-calculator) - aynı sonucu bulacaksınız (bu sonuca teknik olarak **hash** deniyor). 
+
 
 İşte işin özü bu. Değişik şifreleme mekanizmalarından en popüler olan SHA 256 şifreleme böyle çalışıyor. Girin herhangi bir SHA-256 şifreleme sitesine "Merhaba" yazın, yukarıdaki sonucun aynısını verecek size. 64 karakterli bir dizi. 
 
