@@ -19,31 +19,64 @@ Bir kapalı bir kutu (belki de bir kıyma makinesi!) düşünün. Bir taraftan a
 
 Bir örnek yapalım dilerseniz: 
 
-| Input  | Output  |
+| Girdi  | Sonuç  |
 |---|---|
 | Merhaba  | 7fdc9f4717c5fe66df286c700fab969b4d6209d03aa84624c5f8f58c17c9c058  |
 
-Siz de [deneyebilirsiniz](http://www.xorbin.com/tools/sha256-hash-calculator) - aynı sonucu bulacaksınız. 
+Siz de [deneyebilirsiniz](http://www.xorbin.com/tools/sha256-hash-calculator) - aynı sonucu bulacaksınız (bu sonuca teknik olarak **hash** deniyor). 
 
-İşte işin özü bu. Değişik şifreleme mekanizmalarından en popüler olan SHA 256 şifreleme böyle çalışıyor. Girin herhangi bir SHA-256 şifreleme sitesine "Merhaba" yazın, yukarıdaki "output"un aynısını verecek size. 64 karakterli bir dizi. 
+İşte işin özü bu. Değişik şifreleme mekanizmalarından en popüler olan SHA 256 şifreleme böyle çalışıyor. Girin herhangi bir SHA-256 şifreleme sitesine "Merhaba" yazın, yukarıdaki sonucun aynısını verecek size. 64 karakterli bir dizi. 
 
-Ya da isterseniz input olarak bir oldukça uzun bir ansiklopedi koyun, o yine size yukarıdakine benzer kelime ve harflerden oluşan bir  "output" verecek. Yani yazdığınızı şifreleyecek. Ya da isterseniz input olarak bir oldukça uzun bir ansiklopedi koyun, o yine size yukarıdakine benzer kelime ve harflerden oluşan bir  "output" verecek. Yani yazdığınızı şifreleyecek.
+Ya da isterseniz input olarak bir oldukça uzun bir ansiklopedi koyun, o yine size yukarıdakine benzer kelime ve harflerden oluşan bir sonuç verecek. Yani yazdığınızı şifreleyecek. Ya da isterseniz input olarak bir oldukça uzun bir ansiklopedi koyun, o yine size yukarıdakine benzer kelime ve harflerden oluşan bir  "output" verecek. Yani yazdığınızı şifreleyecek.
 
-Şimdi bu Merhaba kelimesinin sonuna bir "!" işareti ekleyelim, bakalım ne olacak?
+Peki buraya uzunca bir paragraf koymak istesek ne olur? Mesela, 
 
-| Input  | Output  |
+| Girdi  | Sonuç  |
+|---|---|
+| Ey Türk Gençliği! Birinci vazifen, Türk istiklâlini, Türk Cumhuriyetini, ilelebet, muhafaza ve müdafaa etmektir. Mevcudiyetinin ve istikbalinin yegâne temeli budur. Bu temel, senin, en kıymetli hazinendir. İstikbalde dahi, seni bu hazineden mahrum etmek isteyecek, dahilî ve haricî bedhahların olacaktır. Bir gün, İstiklâl ve Cumhuriyeti müdafaa mecburiyetine düşersen, vazifeye atılmak için, içinde bulunacağın vaziyetin imkân ve şerâitini düşünmeyeceksin! Bu imkân ve şerâit, çok nâmüsait bir mahiyette tezahür edebilir. İstiklâl ve Cumhuriyetine kastedecek düşmanlar, bütün dünyada emsali görülmemiş bir galibiyetin mümessili olabilirler. Cebren ve hile ile aziz vatanın, bütün kaleleri zaptedilmiş, bütün tersanelerine girilmiş, bütün orduları dağıtılmış ve memleketin her köşesi bilfiil işgal edilmiş olabilir. Bütün bu şerâitten daha elîm ve daha vahim olmak üzere, memleketin dahilinde, iktidara sahip olanlar gaflet ve dalâlet ve hattâ hıyanet içinde bulunabilirler. Hattâ bu iktidar sahipleri şahsî menfaatlerini, müstevlilerin siyasi emelleriyle tevhit edebilirler. Millet, fakr ü zaruret içinde harap ve bîtap düşmüş olabilir.  Ey Türk istikbalinin evlâdı! İşte, bu ahval ve şerâit içinde dahi, vazifen; Türk İstiklâl ve Cumhuriyetini kurtarmaktır! Muhtaç olduğun kudret, damarlarındaki asil kanda mevcuttur! | c369b0a6ca659b4d370ff8b0a54ad582d49d7cb1d42125059658ed8d94996276  |
+
+Viola! Gene bambaşka bir dizi ama yine 64 karakterli. Buraya isterseniz bir ansiklopedi koyun, sonuç yine 64 karakterli bir dizi olacak. 
+
+
+Şimdi bu ilk örneğimize geri dönelim: Merhaba kelimesinin sonuna bir "!" işareti ekleyelim, bakalım ne olacak?
+
+| Girdi  | Sonuç  |
 |---|---|
 | Merhaba!  | b1726b923349fd632fa7ce8b62a06c5a3f785be1db4f6a831eef58d70c7a45cc  |
 
 Gördünüz mü? Herşey değişti. İlk kelimeden tamamen farklı bir sonuç çıktı ortaya. Ama dikkat edin 64 karakterli yine. 
 
-Peki buraya uzunca bir paragraf koymak istesek ne olur? Mesela, 
+Bu önemli, o yüzden biraz daha açalım. Aynı girdiler hep aynı sonucu veriyor. Ama girdi de bir harf değiştirin, çıkan sonuç bambaşka oluyor.  Bu ne işe yarıyor? Şuna: Eğer elinizde bir bilgi var ve bu bilgi sonucu ortaya çıkan bir sonuç da varsa, bu girdi hakikaten bu sonucu mu veriyor test edebiliyorsunuz. Yani girdinin orjinalliğini ya da tutarlılığını (yani sonradan değiştirilip değiştirilmediğini) çok rahat test edebiliyorsunuz. 
 
-| Input  | Output  |
-|---|---|
-| Ey Türk Gençliği! Birinci vazifen, Türk istiklâlini, Türk Cumhuriyetini, ilelebet, muhafaza ve müdafaa etmektir. Mevcudiyetinin ve istikbalinin yegâne temeli budur. Bu temel, senin, en kıymetli hazinendir. İstikbalde dahi, seni bu hazineden mahrum etmek isteyecek, dahilî ve haricî bedhahların olacaktır. Bir gün, İstiklâl ve Cumhuriyeti müdafaa mecburiyetine düşersen, vazifeye atılmak için, içinde bulunacağın vaziyetin imkân ve şerâitini düşünmeyeceksin! Bu imkân ve şerâit, çok nâmüsait bir mahiyette tezahür edebilir. İstiklâl ve Cumhuriyetine kastedecek düşmanlar, bütün dünyada emsali görülmemiş bir galibiyetin mümessili olabilirler. Cebren ve hile ile aziz vatanın, bütün kaleleri zaptedilmiş, bütün tersanelerine girilmiş, bütün orduları dağıtılmış ve memleketin her köşesi bilfiil işgal edilmiş olabilir. Bütün bu şerâitten daha elîm ve daha vahim olmak üzere, memleketin dahilinde, iktidara sahip olanlar gaflet ve dalâlet ve hattâ hıyanet içinde bulunabilirler. Hattâ bu iktidar sahipleri şahsî menfaatlerini, müstevlilerin siyasi emelleriyle tevhit edebilirler. Millet, fakr ü zaruret içinde harap ve bîtap düşmüş olabilir.  Ey Türk istikbalinin evlâdı! İşte, bu ahval ve şerâit içinde dahi, vazifen; Türk İstiklâl ve Cumhuriyetini kurtarmaktır! Muhtaç olduğun kudret, damarlarındaki asil kanda mevcuttur! | c369b0a6ca659b4d370ff8b0a54ad582d49d7cb1d42125059658ed8d94996276  |
+Bu arada şunu da belirtmekte fayda var. Bu şifreleme mekanizmalarının özelliği, sonucu biliyor olmanız, girdiyi de bildiğiniz anlamına gelmiyor. Yani, girdiyi biliyorsanız sonucu bulabiliyorsunuz ama sonuçtan geriye bilgiye gidemiyorsunuz. 
 
-Viola! Gene bambaşka bir dizi ama yine 64 karakterli. Buraya isterseniz bir ansiklopedi koyun, sonuç yine 64 karakterli bir dizi olacak. 
+Bilginin tutarlı olduğunu bilmek ne işimize yarıyor? Bakın burası da çok önemli. Ama bunun için bir örnek daha verelim: Yukarıda gördüğünüz gibi "Merhaba" kelimesine "!" işareti ekliyorsunuz ve ortaya çıkan sonucun "Merhaba!" kelimesinin sonucu olduğunu test edebiliyorsunuz değil mi? Yani iki bilgiyi aldınız, bir araya getirdiniz, sonra sisteme soktunuz ve bir sonuç çıktı. Bu iki kelimeyi bilen kişi sonucu da görebiliyor. 
+
+Ben eğer kimsenin görmesini istemediğim bir bilgiyi size göndermek istersem nasıl yapacağım? Burada birkaç koşulun doğru olduğuna emin olmamız gerekiyor
+- Ben bilgiyi yazarken bu bilgiyi sadece sizin okuyabileceğine  emin olmam gerekiyor
+- Siz, bu bilginin benden geldiğine emin olmak istiyorsunuz
+- Aynı zamanda hem ben hem siz bu bilginin benden size gelirken yolda değiştirilmemiş olduğuna emin olmamız gerekiyor
+
+Yukarıdaki koşulların sağlanabilmesi için şifrelene teknolojinin önemli bir parçasını daha açmamız gerekecek: "Özel Anahtar" ve "Genel Anahtar". Sizin, benim ve herkesin yaratabileceği her bireyin kendine ait bir "Özel Anahtar" bir de "Genel Anahtar" var. 
+
+Özel Anahtar ve Genel Anahtarı bana ait birbirlerinin aynı olan iki anahtar gibi düşünebiliriz. Aradaki tek fark, Özel Anahtarın  sadece benim bildiğim (hiç kimse ile paylaşmadığım) bir anahtar. Genel Anahtar ise yine bana ait, ama herkes ile paylaştığım tüm dünyanın görebileceği bir anahtar olması. İlişkileri ise şu: Bemim Özel Anahtarım ile kapadığım kapıyı (şifrelediğim mesajı) Genel Anahtarı bilen herkes açabiliyor (şifreyi açıp mesajı görebiliyor).   
+
+Dilerseniz bir örnek ile anlatalım: Tüm dünya ile bir bilgi paylaşmak istediğim bir mesaj var. Örneğin "Yarın New York'a gideceğim!". İki önemli ihtiyacım var: 1. Bu bilginin benden geldiğinin bilinmesi (otantik olması) 2. Mesajın içeriğinin herkese doğru ulaşması (bir başkası tarafından değiştirilememesi). 
+
+Eğer ben  "Yarın New York'a gideceğim" yazısını kendi Özel Anahtarım ile karıştırıp dünyaya yayınlarsam (yani şifrelersem), çıkan sonuca bakan biri, benim Genel Anahtarımı alıp bu ortaya çıkan şifreli sonucu ile birleştirirse (yani şifreyi çözerse) sonuçta benim tarafımdan gelen, benim imzaladığım mesajı görür.  
+
+Bunu bir örnek üzerinden anlatmaya çalışalım: 
+
+Diyelim yukarıdaki gibi bir bilgiyi e-posta olarak gönderiyorsunuz. İlk olarak ne yapıyorum? Kendi e-postama giriyor ve sizin email'inizi yazıyorum, sonra mesaji yazıyorum ve gönder tuşuna basıyorum. Aynı olayı yukarıdaki gibi şifreleme işlemine tabi tutalım. Yaptığım işler şu şekilde: 
+
+1. Mesajı yazıyorum. Şimdi bu mesajı bana ait sadece benim bildiğim "Özel Anahtar" ile birleştiriyorum. Ortaya bir sonuç çıkıyor. 
+2. Bu sonuç Benzer şekilde burada da, "Genel Anahtar" benim email adresim, "Özel Anahtar" da bu mesajı yazanın ben olduğunu gösteren bana ait "Dijital İmza".  Yaptı
+
+Benzer şekilde, 
+
+Burada işte "Private Key" ve "Public Key" kavramlarını anlatmamız lazım. 
+
+
 
 ### Peki Bitcoin şifrelemesi nasıl çalışıyor?
 
