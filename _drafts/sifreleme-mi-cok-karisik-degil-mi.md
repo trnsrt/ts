@@ -17,7 +17,13 @@ Efendim, daha önce de belirtmiştik. Modern şifreleme teknolojisi aslında 197
 
 Bir kapalı bir kutu (belki de bir kağıt öğütücü) düşünün. Bir taraftan anlamlı bir sözcük veriyorsunuz, diğer taraftan rakam ve sayılardan oluşan anlamsız bir bütün veriyor. 
 
-... Kağıt öğütücü --- 
+&nbsp;
+
+| ![sifreleme-mekanizmasi.png](/assets/sifreleme-mekanizmasi.png) | 
+|:--:| 
+| *Şifreleme Mekanizması* |
+
+&nbsp;
 
 Bir örnek yapalım dilerseniz: 
 
