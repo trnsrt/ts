@@ -59,10 +59,10 @@ Benzer şekilde Birleşmiş Milletler Kalkınma Programı (UNDP) ülkelerinden u
 &nbsp;
 
 
-2013 yılında ABD'de kurulan [BitGive](https://www.bitgivefoundation.org/) kar amacı gütmeyen ilk Bitcoin bazlı yardım kuruluşu. İhtiyaç sahiplerine bağış kampanyaları yapan kuruluş aynı zamanda bu paraların ihtiyacı olanlara ulaşması için takip eden tüm yolu Blockchain üzerinde tutuyor - böylece bu bilgiler kesinlikle değiştirilemiyor ve anlık olarak takip ediliyor. Kurum bağışcılardan Bitcoin toplayarak, Nepal'deki depremde kırsal bölgeler ile merkezler arasında irtibatın kurulumuna yardımcı olacak [mobil telefon alınmasından](http://www.bitgivefoundation.org/medic-mobile-campaign/), Kenya'daki bir kız okuluna [kuyu kurulmasına](https://thewaterproject.org/community/projects/kenya/a-new-well-in-kenya-4333), [Philipinler](https://www.savethechildren.org/us/what-we-do/emergency-response/historical-emergencies/typhoon-haiyan)'de, Brezilya'da, Meksika'da küçük ama insanların hayatlarına dokunan kampanyalar düzenliyor.
+2013 yılında ABD'de kurulan [BitGive](https://www.bitgivefoundation.org/) kar amacı gütmeyen ilk Bitcoin bazlı yardım kuruluşu. Bağış kampanyaları düzenleyen bu kuruluş, aynı zamanda ihtiyacı olanlara ulaşması için toplanan paraların izlediği tüm yolu Blockchain üzerinden takip ediyor. Böylece bu bilgiler kesinlikle değiştirilemiyor ve anlık olarak gözlemlenebiliyor. Kurum bağışçılardan Bitcoin toplayarak, Nepal'deki depremde kırsal bölgeler ile merkezler arasında irtibatın kurulumuna yardımcı olacak [mobil telefon alınmasından](http://www.bitgivefoundation.org/medic-mobile-campaign/), Kenya'daki bir kız okuluna [kuyu açılmasına](https://thewaterproject.org/community/projects/kenya/a-new-well-in-kenya-4333); [Philipinler](https://www.savethechildren.org/us/what-we-do/emergency-response/historical-emergencies/typhoon-haiyan)'den, Brezilya ve Meksika'ya, küçük ama insanların hayatlarına dokunan projeler için kampanyalar düzenliyor.
 
 
-Bunlar somut gerçekleşen örnekler ve bu örneklerin benzerleri artarak kullanılmaya devam edecek. Blockchain her derde deva olmayacak ama yine de başarılı birkaç proje bile dünyayı daha güzel ve yaşanır hale getirecek kuşkusuz. 
+Bunlar somut, gerçekleşen örnekler ve bu örneklerin benzerleri artarak kullanılmaya devam edecek. Blockchain her derde deva olmayacak ama yine de başarılı birkaç proje bile dünyayı daha güzel ve yaşanır hale getirecek kuşkusuz. 
 
 
 
