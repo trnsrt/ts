@@ -37,7 +37,7 @@ Yukarıda verdiğimiz örnek, sanat yatırımlarına Blockchain'in getireceği b
 
 ### Kripto Kediler, Kedicikler.. 
 
-Dijital sahipliğin ve Blockchain teknolojisinin bir araya geldiği son nokta "Dijital Kolleksiyon" olarak da adlandırılan bir dijital oyun olan [CryptoKitties](https://www.cryptokitties.co). 
+Dijital sahipliğin ve Blockchain teknolojisinin bir araya geldiği son nokta "Dijital Koleksiyonculuk" olarak da adlandırılan ve dijital bir oyun olan [CryptoKitties](https://www.cryptokitties.co). 
 
 &nbsp;
 
