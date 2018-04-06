@@ -19,7 +19,7 @@ Bu yazımızda ise Blockchain'in sanat dünyasının yaratıcı ve tüketicileri
 
 Bir resim gördünüz ve çok beğendiniz. Sahip olmak ister misiniz? Tabii. Ama fiyatına baktınız - eyvah!. Değil aylarca, yıllarca çalışsam almam mümkün değil. Tüh bak kaçırdık, halbuki şimdi bunu alsabilsem, biliyorum ki beş yıl sonra bunu belki de üç-beş katına satabilirim.. 
 
-Size bu resmin tamamına değil ama bir parçasına sahip olabilirsiniz desem? Üstelik, bu sahip olduğunuz parçayı yatırım olarak tutup, sonra istediğiniz zaman satabileceğinizi? İlginizi çekti değil mi? Ama nasıl?
+Size bu resmin tamamına değil ama bir parçasına sahip olabilirsiniz desem? Üstelik, bu sahip olduğunuz parçayı yatırım olarak tutup sonra istediğiniz zaman satabileceğinizi? İlginizi çekti değil mi? İyi ama nasıl olacak bu?
 
 &nbsp;
 
