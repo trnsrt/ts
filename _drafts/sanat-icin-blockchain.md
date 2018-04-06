@@ -5,7 +5,7 @@ date:   2018-04-05 16:25:25 +0300
 categories: Genel
 ---
 
-Geçtiğimiz yazımızda Blockchain'i sadece finans dünyası değil başka pek çok alanda kullanılabileceğini söylemiş ve bunlardan [filantropi ve hayır dünyasına](http://ademimerkezi.com/genel/2018/03/29/Iyilik-icin-blockchain.html) yararına neler yapılabilir bakmıştık. 
+Geçtiğimiz yazımızda Blockchain'i sadece finans dünyası değil başka pek çok alanda kullanılabileceğine değinmiş ve bunlardan [filantropi ve hayır dünyasına](http://ademimerkezi.com/genel/2018/03/29/Iyilik-icin-blockchain.html) yararına neler yapılabilir bakmıştık. 
 
 Bir konuyu tekrar vurgulamakta yarar var: Blockchain çok yeni bir teknoloji - dolayısıyla yeni alanlara baktığımızda gördüğümüz örnekler genellikle çok yeni ve deneysel. Bu teknolojinin pratik hayatta etkilerinin daha iyi hissedilmesi için bu örneklerin hem çoğalması hem de olgunlaşması gerekiyor. Burada okuduğunuz yazılarda amacımız, bu teknolojinin nasıl kullanılacağı konusunda ilgisi okuyuculara gelecekteki vizyona dair fikirler vermek.
 
