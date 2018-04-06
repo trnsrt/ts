@@ -29,7 +29,7 @@ Size bu resmin tamamına değil ama bir parçasına sahip olabilirsiniz desem? �
 
 &nbsp;
 
-Hayal gibi ama bir gün bu da olacak. Şu an Blockchain teknolojisini kullananan start-up'lar size bu imkanı verecek platformlar için çalışıyor. Örneğin [Artrium](http://artrium.co/)) "Art-sharing" denen bir konsepte sahip. Nasıl çalışıyor sistem? Üç ana adım var: Satın alınacak resim önce eksperler tarafından dikkatlice kontrol ediliyor orjinalliği teyid ediliyor, Blockchain üzerinden küçük parçalara bölünüyor ve daha sonra bu parçalar onlarca müşteriye satılıyor. Blockchain burada gerek sanat eserinin tümünün gerekse ona ait bölünmüş her bir parçanın tek tek aidiyetini ve alınıp satıldığında yeni sahipliği hem takip hem de kayıt ediyor. 
+Hayal gibi ama bir gün bu da olacak. Şu an Blockchain teknolojisini kullananan start-up'lar size bu imkanı verecek platformlar için çalışıyor. Örneğin [Artrium](http://artrium.co/) "Art-sharing" denen bir konsepte sahip. Nasıl çalışıyor sistem? Üç ana adım var: Satın alınacak resim önce eksperler tarafından dikkatlice kontrol ediliyor orjinalliği teyid ediliyor, Blockchain üzerinden küçük parçalara bölünüyor ve daha sonra bu parçalar onlarca müşteriye satılıyor. Blockchain burada gerek sanat eserinin tümünün gerekse ona ait bölünmüş her bir parçanın tek tek aidiyetini ve alınıp satıldığında yeni sahipliği hem takip hem de kayıt ediyor. 
 
 --
 
