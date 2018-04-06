@@ -65,11 +65,6 @@ Bu arada şunu da belirtmekte fayda var. Bu şifreleme mekanizmalarının özell
 
 Bilginin tutarlı olduğunu bilmek ne işimize yarıyor? Bakın burası da çok önemli. Ama bunun için bir örnek daha verelim: Yukarıda gördüğünüz gibi "Merhaba" kelimesine "!" işareti ekliyorsunuz ve ortaya çıkan sonucun "Merhaba!" kelimesinin sonucu olduğunu test edebiliyorsunuz değil mi? Yani iki bilgiyi aldınız, bir araya getirdiniz, sonra sisteme soktunuz ve bir sonuç çıktı. Bu iki kelimeyi bilen kişi sonucu da görebiliyor. 
 
-Ben eğer kimsenin görmesini istemediğim bir bilgiyi size göndermek istersem nasıl yapacağım? Burada birkaç koşulun doğru olduğuna emin olmamız gerekiyor
-- Ben bilgiyi yazarken bu bilgiyi sadece sizin okuyabileceğine  emin olmam gerekiyor
-- Siz, bu bilginin benden geldiğine emin olmak istiyorsunuz
-- Aynı zamanda hem ben hem siz bu bilginin benden size gelirken yolda değiştirilmemiş olduğuna emin olmamız gerekiyor
-
 
 ### "Özel Anahtar" ve "Genel Anahtar"
 Yukarıdaki koşulların sağlanabilmesi için şifrelene teknolojinin önemli bir parçasını daha açmamız gerekecek: "Özel Anahtar" ve "Genel Anahtar". Sizin, benim ve herkesin yaratabileceği her bireyin kendine ait bir "Özel Anahtar" bir de "Genel Anahtar" var. 
@@ -84,6 +79,19 @@ Eğer ben  "Yarın New York'a gideceğim" yazısını kendi Özel Anahtarım ile
 &nbsp;
 
 | ![ozel-genel-anahtar.png](/assets/ozel-genel-anahtar.png) | 
+|:--:| 
+| ** |
+
+&nbsp;
+
+Peki bunu tüm dünyaya değil de sadece arkadaşıma göndermek istersem? O zaman? Burada birkaç koşulun doğru olduğuna emin olmamız gerekiyor
+- Ben bilgiyi yazarken bu bilgiyi sadece sizin okuyabileceğine emin olmam gerekiyor
+- Siz, bu bilginin benden geldiğine emin olmak istiyorsunuz
+- Aynı zamanda hem ben hem siz bu bilginin benden size gelirken yolda değiştirilmemiş olduğuna emin olmamız gerekiyor
+
+&nbsp;
+
+| ![ozel-genel-anahtar-iki-kisi.png](/assets/ozel-genel-anahtar-iki-kisi.png) | 
 |:--:| 
 | ** |
 
