@@ -19,6 +19,14 @@ Bir resim gördünüz ve çok beğendiniz. Sahip olmak ister misiniz? Tabii. Ama
 
 Size bu resmin tamamına değil ama bir parçasına sahip olabilirsiniz desem? Üstelik, bu sahip olduğunuz parçayı yatırım olarak tutup, sonra istediğiniz zaman satabileceğinizi? İlginizi çekti değil mi? Ama nasıl?
 
+&nbsp;
+
+| ![Mona_Lisa_piece.png](/assets/Mona_Lisa_piece.png) | 
+|:--:| 
+| *Mona Lisa'nın bir parçasına sahip olmak ister misiniz?* |
+
+&nbsp;
+
 Hayal gibi ama bir gün bu da olacak. Şu an Blockchain teknolojisini kullananan start-up'lar size bu imkanı verecek platformlar için çalışıyor. Örneğin [Artrium](http://artrium.co/)) "Art-sharing" denen bir konsepte sahip. Nasıl çalışıyor sistem? Üç ana adım var: Satın alınacak resim önce eksperler tarafından dikkatlice kontrol ediliyor orjinalliği teyid ediliyor, Blockchain üzerinden küçük parçalara bölünüyor ve daha sonra bu parçalar onlarca müşteriye satılıyor. Blockchain burada gerek sanat eserinin tümünün gerekse ona ait bölünmüş her bir parçanın tek tek aidiyetini ve alınıp satıldığında yeni sahipliği hem takip hem de kayıt ediyor. 
 
 --
@@ -29,6 +37,14 @@ Yukarıda verdiğimiz örnek, sanat yatırımlarına Blockchain'in getireceği b
 
 Dijital sahipliğin ve Blockchain teknolojisinin bir araya geldiği son nokta "Dijital Kolleksiyon" olarak da adlandırılan bir dijital oyun olan [CryptoKitties](https://www.cryptokitties.co). 
 
+&nbsp;
+
+| ![CyrtopKitties-mascot01.png](/assets/CyrtopKitties-mascot01.png) | 
+|:--:| 
+| *Ünlü CryptoKitty'lerden [Twitch](https://www.cryptokitties.co/marketplace)* |
+
+&nbsp;
+
 Nedir bu diye soracak olursanız? Web sitesindeki dijital yaratılmış kedi yavrularını inceliyor ve beğendiğinizi satın alıyorsunuz. Aldığınız kedinin pekçok özelliği var ancak bu kediden sadece bir tane var, başka eşi yok (bir insan gibi her bir kedinin DNA'sı Blockchain üzerinde tutuluyor). Sonra bu kediyı bir başkası ile "çiftleştirerek" yepyeni bir kedicik yaratabiliyor ve bu kediciği satabiliyorsunuz. Bu kedilerin ilk jenerasyonu sınırlı sayıda yaratıldığı için çok talep görüyor. Çiftleştirme yaptığınız kedi eğer pahalı bir kedi ise yavrusunun da pahalı olabilir ama bir garantisi yok - her ünlünün çocuğu da annesi ya da babası gibi aynı şekilde ilgi çekmiyor.
 
 "Hadi canım olur mu öyle şey, çok saçma" demeyin. Geçtiğimiz Kasım ayında faaliyete geçen siteye, daha ilk ayında 180,000 kişi kayıt oldu, ve 20 Milyon ABD dolarından [fazla para harcadı](https://www.nytimes.com/2017/12/28/style/cryptokitties-want-a-blockchain-snuggle.html). 10'dan fazla kedicik 100,000 ABD Doları'ndan fazlaya satıldı. Sitenin sahibi şirket Mart ayı başında Anderseen Horowitz (Twitter ve AirBnB ilk yatırımcılarından) ve Union Square Ventures (Zynga, Twitter ve Foursquare'in ilk yatırımcılarından) gibi dünyanın en saygın özel sermaye şirketlerinden 12 Milyon ABD doları yatırım aldı. İnsanlar sırf bu kediciklerden satın alabilmek için KriptoPara dünyası ile tanışıp Ether satın aldılar. KriptoParaların dış dünyada en yaygın kullanım gördüğü alanlardan biri oldu CryptoKitties. 
@@ -38,6 +54,15 @@ Nasıl? Neden? Psikolojik bir yanı olduğu kesin. Sahip olma isteği. Özellikl
 ### CD bitti, yaşaşın Spotify.. mı acaba?
 
 Geçtğimiz yıl Temmuz ayında RAC adıyla dans müziği üreten André Anjos, son albümü EGO'yu bilinen dijital kanallar yanında kendi websitesinden Ether KriptoParası karşılığında da dinleyicilere [sundu](http://musically.com/2017/08/04/ujo-music-blockchain-uphill-battle-existing-companies/). Bunu yaparken de [Ujo Platormu](https://ujomusic.com/)'nu kullandı. 
+
+
+&nbsp;
+
+| ![rac-ujo.jpg](/assets/rac-ujo.jpg) | 
+|:--:| 
+| *[RAC](https://rac.ujomusic.com/)* |
+
+&nbsp;
 
 Biliyorsunuz, müzik dünyası CD'lerden, streaming servislerine hızlı bir geçiş yaptı - arada pekçok plakçı/CD satan büyük mağazalar zayi oldu. Artık kimse bir yere gidip CD almıyor, Apple Music ya da Sportify üzerinden istediğimiz müziği istediğimiz kadar dinliyoruz. Kullanıcı için büyük rahatlık. Peki sanatçılar için? Onlar biraz sıkıntılı bu durumdan dolayı. Zira, dinlendikçe para kazanıyorlar ancak bu streaming firmaları tek bir dağıtıcı olarak %30'lara varan ciddi komisyonlar alıyorlar oluşan gelirden. Adeta kartel olmuşlar! Sanatçıların çok söz hakkı yok.  
 
