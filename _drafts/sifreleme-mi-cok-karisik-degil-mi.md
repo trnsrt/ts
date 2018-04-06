@@ -80,6 +80,16 @@ Dilerseniz bir örnek ile anlatalım: Tüm dünya ile bir bilgi paylaşmak isted
 
 Eğer ben  "Yarın New York'a gideceğim" yazısını kendi Özel Anahtarım ile karıştırıp dünyaya yayınlarsam (yani şifrelersem), çıkan sonuca bakan biri, benim Genel Anahtarımı alıp bu ortaya çıkan şifreli sonucu ile birleştirirse (yani şifreyi çözerse) sonuçta benim tarafımdan gelen, benim imzaladığım mesajı görür.  
 
+
+&nbsp;
+
+| ![ozel-genel-anahtar.png](/assets/ozel-genel-anahtar.png) | 
+|:--:| 
+| ** |
+
+&nbsp;
+
+
 Bunu bir örnek üzerinden anlatmaya çalışalım: 
 
 Diyelim yukarıdaki gibi bir bilgiyi e-posta olarak gönderiyorsunuz. İlk olarak ne yapıyorum? Kendi e-postama giriyor ve sizin email'inizi yazıyorum, sonra mesaji yazıyorum ve gönder tuşuna basıyorum. Aynı olayı yukarıdaki gibi şifreleme işlemine tabi tutalım. Yaptığım işler şu şekilde: 
