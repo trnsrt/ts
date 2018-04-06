@@ -11,6 +11,8 @@ Bir konuyu tekrar vurgulamakta yarar var: Blockchain çok yeni bir teknoloji - d
 
 Eğer daha öncesinde Blockchain teknolojisinin nasıl ortaya çıktığını merak ediyorsanız önceki yazılarımızdan "[Geceleri uykunuzu ne kaçırıyor](http://ademimerkezi.com/genel/2018/03/01/Geceleri-uykunuzu-ne-kaciriyor.html)" ve "[Sahi nedir bu Blockchain Allah aşkına?](http://ademimerkezi.com/genel/2018/03/02/Sahi-nedir-bu-blockchain-allah-askina.html)"yı, ya da bu teknolojinin şu anda en olgun şekilde kullanılan uygulamalarından Bitcoin'e ilginiz varsa "[Bitcoin ne tam olarak?](http://ademimerkezi.com/genel/2018/03/13/Bitcoin-ne-tam-olarak.html), "[Bitcoin para mı gerçekten?](http://ademimerkezi.com/genel/2018/03/22/Bitcoin-para-mi-gercekten.html)" ve "[Bütün bunlar bir balon mu?](http://ademimerkezi.com/genel/2018/03/05/Butun-bunlar-bir-balon-mu.html)" yazılarımıza göz atabilirsiniz. 
 
+Bu yazımızda ise Blockchain'in sanat dünyasının yaratıcı ve tüketicilerine neler sunabileceğine birkaç kullanım örneği üzerinden bakacağız. 
+
 --
 
 ### Sanat sanat için mi... yoksa kimin için?
