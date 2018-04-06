@@ -33,7 +33,7 @@ Hayal gibi ama bir gün bu da olacak. Şu an Blockchain teknolojisini kullananan
 
 --
 
-Yukarıda verdiğimiz örnek, sanat yatırımlarına Blockchain'in getireceği bir yenilik. Ya sanatçılar tarafında durum nasıl? Orada Blockchain'in sanatçılara faydası var mı? Görünüşe göre evet. Özellikle, yukarıdaki örnekte olduğu gibi sanatçıların yarattığı eserlerin (özellikle dijital sanat eserlerinin) kopyalanması/çalınmasına karşı güzel önlemler var: Örneğin, sanatçı tarafından Blockchain üzerinde yarattığı parçanın hem sahipliğinin hem de yaratılan kopya sayısının kaydının yapılması gibi (hatırlarsanız Blockchain üzerinde yapılan bir kaydın değiştirilmesi mümkün değil). 
+Yukarıda verdiğimiz örnek, sanat yatırımlarına Blockchain'in getireceği bir yenilik. Ya sanatçılar tarafında durum nasıl? Orada Blockchain'in sanatçılara faydası var mı? Görünüşe göre evet. Özellikle, yukarıdaki örnekte olduğu gibi sanatçıların yarattığı eserlerin (özellikle dijital sanat eserlerinin) kopyalanması/çalınmasına karşı güzel önlemler var: Örneğin, sanatçı tarafından Blockchain üzerinde yarattığı parçanın hem sahipliğinin hem de yaratılan kopya sayısının kaydının yapılması gibi (hatırlarsanız Blockchain üzerinde yapılan bir kaydın değiştirilmesi mümkün değil). Sahiplik ve kopya sayısına yönelik ilginç bir örnek ile devam edelim..
 
 ### Kripto Kediler, Kedicikler.. 
 
