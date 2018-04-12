@@ -14,7 +14,13 @@ Bu yazımızda ise sağlık alanında Blockchain bize ne gibi faydalar sağlayab
 
 [Healthureum](https://www.healthureum.io/) Ethereum Blockchain'i kullanarak sizin medikal kayıtlarınız üzerinde tam bir sahipliğiniz olmasını sağlıyor. Yani, kayıtlarınız Blockchain üzerinde şifreli olarak saklanıyor. Sizin izin verdiğiniz kuruluşlar, sizin izin verdiğiniz ölçüde Healthureum platformu üzerinden bu kayıtlara ulaşabiliyorlar. 
 
+&nbsp;
 
+| ![healthureum.png](/assets/healthureum.png) | 
+|:--:| 
+| *healthureum sistemi nasıl çalışıyor?* |
+
+&nbsp;
 
 
 
