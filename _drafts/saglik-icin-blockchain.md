@@ -16,7 +16,7 @@ Bu yazımızda ise sağlık alanında Blockchain bize ne gibi faydalar sağlayab
 
 &nbsp;
 
-| ![healthureum.png](/assets/healthureum.png) | 
+| ![healthureum.png](/assets/healthureum2.png) | 
 |:--:| 
 | *healthureum sistemi nasıl çalışıyor?* | 
 
