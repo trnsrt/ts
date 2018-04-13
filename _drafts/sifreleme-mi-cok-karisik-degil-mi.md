@@ -99,7 +99,7 @@ Peki bunu tüm dünyaya değil de sadece arkadaşıma göndermek istersem? O zam
 
 | ![ozel-genel-anahtar-iki-kisi.png](/assets/ozel-genel-anahtar-iki-kisi.png) | 
 |:--:| 
-| ** |
+
 
 &nbsp;
 
