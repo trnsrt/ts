@@ -86,7 +86,7 @@ Eğer ben  "Yarın New York'a gideceğim" yazısını kendi Özel Anahtarım ile
 
 | ![ozel-genel-anahtar.png](/assets/ozel-genel-anahtar.png) | 
 |:--:| 
-| ** |
+
 
 &nbsp;
 
