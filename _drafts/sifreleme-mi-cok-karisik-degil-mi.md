@@ -9,7 +9,7 @@ categories: Genel
 
 Efendim, daha önce de belirtmiştik. Modern şifreleme teknolojisi aslında 1970'lerden beri var. Bunun yanında 1990'larda internet hayatımıza girdi ve bilginin yaygınlaşmasını ve kolayca iletilmesini sağladı. Tabii bilgiyi yayarsınız bir sorun yok - paylaştıkça çoğalır. Ama aynı sistem üzerinden para gibi kaygan bir varlığı geçirmek isterseniz çok ciddi güvenlik sağlamanız lazım. İşe ilk olarak merkezi kurumlar örneğin bankalar el attılar ve getirdikleri güvenlik sistemleri ile paramızı saklama ve transfer etme konusunda bize yardımcı oldular. 
 
-Tam bu sırada Satoshi Nakamoto dediğimiz kişi(ler) bu iki konuyu yani şifreleme ile para transferini yaygın bir ağ üzerinden yapmaya imkan verecek teknolojiyi birleştirdi ve bu alanda bir devrim yarattı. Zira böylece bu aradaki banka gibi kurumlara olan ihtiyaç neredeyse sıfıra indi. 
+Tam bu sırada Satoshi Nakamoto dediğimiz kişi(ler) bu iki konuyu yani şifreleme ile para transferini yaygın bir ağ üzerinden yapmaya imkan verecek teknolojiyi birleştirdi ve bu alanda bir devrim yarattı. Zira bu aradaki banka gibi kurumlara olan ihtiyaç neredeyse sıfıra indi. 
 
 Şifreleme Blockchain'in temelini oluşturuyor, çünkü Blockchain dağınık bir sistemde çalışıyor ve dağınık sistemlerin kontrolü olmadığı için bilginin düzgün ve değiştirilmemiş olması son derece hayati - bunu sağlayan da şifreleme sistemi. Bu sistemleri daha iyi anlamak bize günlük hayatımızda bu sistemleri nasıl daha verimli olarak kullanırızın ipuçlarını da veriyor.  
 
