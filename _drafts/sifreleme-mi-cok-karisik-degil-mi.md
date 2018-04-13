@@ -63,15 +63,18 @@ Bu önemli, o yüzden biraz daha açalım. Aynı girdiler hep aynı sonucu veriy
 
 --
 
-Bilginin tutarlı olduğunu bilmek ne işimize yarıyor? Bakın burası da kritik. Ama bunun için bir örnek daha verelim: Yukarıda gördüğünüz gibi "Merhaba" kelimesine "!" işareti ekliyorsunuz ve ortaya çıkan sonucun "Merhaba!" kelimesinin sonucu olduğunu test edebiliyorsunuz değil mi? Yani iki bilgiyi aldınız, bir araya getirdiniz, sonra sisteme soktunuz ve bir sonuç çıktı. Bu iki kelimeyi bilen kişi sonucu da görebiliyor. 
+Bilginin tutarlı olduğunu bilmek ne işimize yarıyor? Yukarıda yazdığımız gibi bilgiyi dağıtıp tek bir noktada tutmadığınızda dağınık duran herkeste aynı bilginin olması, bilginin doğruluğu kişilerin bu bilgiye olan güvenini sağlayan en önemli etken. Öbür türlü kırk kişide kırk bilgi olursa ona dedikodu denir, kimse de beş kuruş değer vermez. 
+
+
 
 
 ### "Özel Anahtar" ve "Genel Anahtar"
-Yukarıdaki koşulların sağlanabilmesi için şifrelene teknolojinin önemli bir parçasını daha açmamız gerekecek: "Özel Anahtar" ve "Genel Anahtar". Sizin, benim ve herkesin yaratabileceği her bireyin kendine ait bir "Özel Anahtar" bir de "Genel Anahtar" var. 
+
+Şifreleme yapabilmek için gerekli olan önemli bir parçaya geldi sıra: "Özel Anahtar" ve "Genel Anahtar". Sizin, benim ve herkesin yaratabileceği her bireyin kendine ait bir "Özel Anahtar" bir de "Genel Anahtar" var. Bunu bir nevi Şifreleme Mekanizmasını çalıştırmak için bana gerekli olan anahtarlar olarak da hayal edebilirsiniz. 
 
 Özel Anahtar ve Genel Anahtarı bana ait birbirlerinin aynı olan iki anahtar gibi düşünebiliriz. Aradaki tek fark, Özel Anahtarın  sadece benim bildiğim (hiç kimse ile paylaşmadığım) bir anahtar. Genel Anahtar ise yine bana ait, ama herkes ile paylaştığım tüm dünyanın görebileceği bir anahtar olması. İlişkileri ise şu: Bemim Özel Anahtarım ile kapadığım kapıyı (şifrelediğim mesajı) Genel Anahtarı bilen herkes açabiliyor (şifreyi açıp mesajı görebiliyor).   
 
-Dilerseniz bir örnek ile anlatalım: Tüm dünya ile bir bilgi paylaşmak istediğim bir mesaj var. Örneğin "Yarın New York'a gideceğim!". İki önemli ihtiyacım var: 1. Bu bilginin benden geldiğinin bilinmesi (otantik olması) 2. Mesajın içeriğinin herkese doğru ulaşması (bir başkası tarafından değiştirilememesi). 
+Dilerseniz bir örnek ile anlatalım: Tüm dünya ile paylaşmak istediğim bir mesaj var. Örneğin "Yarın New York'a gideceğim!". İki önemli ihtiyacım var: 1. Bu bilginin benden geldiğinin bilinmesi (otantik olması) 2. Mesajın içeriğinin herkese doğru ulaşması (yolda bir başkası tarafından değiştirilememesi). 
 
 Eğer ben  "Yarın New York'a gideceğim" yazısını kendi Özel Anahtarım ile karıştırıp dünyaya yayınlarsam (yani şifrelersem), çıkan sonuca bakan biri, benim Genel Anahtarımı alıp bu ortaya çıkan şifreli sonucu ile birleştirirse (yani şifreyi çözerse) sonuçta benim tarafımdan gelen, benim imzaladığım mesajı görür.  
 
