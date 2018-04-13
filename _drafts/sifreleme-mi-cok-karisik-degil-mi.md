@@ -5,13 +5,13 @@ date:   2018-04-04 14:25:15 +0300
 categories: Genel
 ---
 
-Şifreleme deyince aklımıza çok karışık acayip konular geliyor olabilir. Normal. Aslında çok da karışık değil ama anlayabilmek için biraz çaba sarfetmek lazım. Peki neden önemli bu şifreleme? 
+Şifreleme deyince aklımıza çok karışık anlaşılmaz konular geliyor değil mi? Normal. Aslında o kadar da zor değil ama anlayabilmek için biraz çaba sarfetmek lazım - her türlü konuda olduğu gibi. Peki neden önemli bu şifreleme?  Çünkü şifreleme bize pekçok kişiye dağılan bilginin doğru ve tam olduğunu anlamamızı sağlıyor. Peki ama ne demek şimdi bu?
 
-"Tamam şifreleme var, Bitcoin de bunu yapıyor zaten" deyip geçebilirsiniz. Bu da bir görüş açısı. Ama şifrelemenin nasıl olduğunu, blockchain protokollerinin altyapısının nasıl çalıştığını anlamak bize bu protokolleri günlük hayatımızda nasıl kullanırızın ipuçlarını verebilir. 
+Efendim, daha önce de belirtmiştik. Modern şifreleme teknolojisi aslında 1970'lerden beri var. Bunun yanında 1990'larda internet hayatımıza girdi ve bilginin yaygınlaşmasını ve kolayca iletilmesini sağladı. Tabii bilgiyi yayarsınız bir sorun yok - paylaştıkça çoğalır. Ama aynı sistem üzerinden para gibi kaygan bir varlığı geçirmek isterseniz, çok ciddi güvenlik sağlamanız lazım. İşe ilk olarak merkezi kurumlar örneğin bankalar el attılar ve getirdikleri güvenlik sistemleri ile paramızı saklama ve transfer etme konusunda bize yardımcı oldular. 
 
-Efendim, daha önce de belirtmiştik. Modern şifreleme teknolojisi aslında 1970'lerden beri var. 1990'larda ise internetin yaygınlaşması ise bilginin ve iletişimin yaygınlaşmasını sağladı. Tabii bilgiyi yayarsınız bir sorun yok - paylaştıkça çoğalır. Ama aynı sistem üzerinden para gibi kaygan bir varlığı geçirmek isterseniz, çok ciddi güvenlik sağlamanız lazım. Orada da, merkezi kurumlar örneğin bankalar yardımcı oldu, güvenlik sistemleri getirdiler, paramızı transfer etme ve saklama konusunda bize yardımcı oldular. 
+Tam bu sırada Satoshi Nakamoto dediğimiz kişi(ler) bu iki konuyu yani şifreleme ile para transferini yaygın bir ağ üzerinden yapmaya imkan verecek teknolojiyi birleştirdi ve bu alanda bir devrim yarattı. Zira böylece bu aradaki banka gibi kurumlara olan ihtiyaç neredeyse sıfıra indi. 
 
-İşte Satoshi Nakamoto dediğimiz kişi(ler) bu şifrelemeyi yeni teknoloji ile birleştirerek kişiler arasındaki kurumları yok etmeyi sağladılar. Dolayısıyla şifreleme sayesinde koca bir aracıyı tabiri caiz ise ıskartaya çıkardılar.. 
+Şifreleme Blockchain'in temelini oluşturuyor, çünkü Blockchain dağınık bir sistemde çalışıyor ve dağınık sistemlerin kontrolü olmadığı için bilginin düzgün ve değiştirilmemiş olması son derece hayati - bunu sağlayan da şifreleme sistemi. Bu sistemleri daha iyi anlamak bize günlük hayatımızda bu sistemleri nasıl daha verimli olarak kullanırızın ipuçlarını da veriyor.  
 
 ### Şifrelemeli mi, şifrelememeli mi?
 
