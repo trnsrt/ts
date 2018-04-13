@@ -59,9 +59,10 @@ Gördünüz mü? Herşey değişti. Bir harf ekledik ama ilk kelimeden tamamen f
 
 Bu önemli, o yüzden biraz daha açalım. Aynı girdiler hep aynı sonucu veriyor. Ama girdi de bir harf değiştirin, çıkan sonuç bambaşka oluyor.  Bu ne işe yarıyor? Şuna: Eğer elinizde bir bilgi var ve bu bilgi sonucu ortaya çıkan bir sonuç da varsa, bu girdi hakikaten bu sonucu mu veriyor test edebiliyorsunuz. Girin ilk bilgiyi şifrelemeye aynı sonucu bulacaksınız. Yani girdinin orjinalliğini ya da tutarlılığını (yani sonradan değiştirilip değiştirilmediğini) çok rahat görebilirsiniz. 
 
-(Bu arada şunu da belirtmekte fayda var. Bu şifreleme mekanizmalarının özelliği şu:; sonucu biliyor olmanız girdiyi de bildiğiniz anlamına gelmiyor. Yani, girdiyi biliyorsanız sonucu bulabiliyorsunuz ama sonuçtan geriye bilgiye gidemiyorsunuz)
+Bu arada şunu da belirtmekte fayda var. Bu şifreleme mekanizmalarının özelliği şu:; sonucu biliyor olmanız girdiyi de bildiğiniz anlamına gelmiyor. Yani, girdiyi biliyorsanız sonucu bulabiliyorsunuz ama sonuçtan geriye bilgiye gidemiyorsunuz
 
 --
+
 
 Bilginin tutarlı olduğunu bilmek ne işimize yarıyor? Yukarıda yazdığımız gibi bilgiyi dağıtıp tek bir noktada tutmadığınızda dağınık duran herkeste aynı bilginin olması, bilginin doğruluğu kişilerin bu bilgiye olan güvenini sağlayan en önemli etken. Öbür türlü kırk kişide kırk bilgi olursa ona dedikodu denir, kimse de beş kuruş değer vermez. 
 
@@ -73,6 +74,8 @@ Bilginin tutarlı olduğunu bilmek ne işimize yarıyor? Yukarıda yazdığımı
 Şifreleme yapabilmek için gerekli olan önemli bir parçaya geldi sıra: "Özel Anahtar" ve "Genel Anahtar". Sizin, benim ve herkesin yaratabileceği her bireyin kendine ait bir "Özel Anahtar" bir de "Genel Anahtar" var. Bunu bir nevi Şifreleme Mekanizmasını çalıştırmak için bana gerekli olan anahtarlar olarak da hayal edebilirsiniz. 
 
 Özel Anahtar ve Genel Anahtarı bana ait birbirlerinin aynı olan iki anahtar gibi düşünebiliriz. Aradaki tek fark, Özel Anahtarın  sadece benim bildiğim (hiç kimse ile paylaşmadığım) bir anahtar. Genel Anahtar ise yine bana ait, ama herkes ile paylaştığım tüm dünyanın görebileceği bir anahtar olması. İlişkileri ise şu: Bemim Özel Anahtarım ile kapadığım kapıyı (şifrelediğim mesajı) Genel Anahtarı bilen herkes açabiliyor (şifreyi açıp mesajı görebiliyor).   
+
+Yukarıda dedik Şifreleme Mekanizması'nın sonucu bilirseniz girdiyi bulamıyorsunuz. Peki
 
 Dilerseniz bir örnek ile anlatalım: Tüm dünya ile paylaşmak istediğim bir mesaj var. Örneğin "Yarın New York'a gideceğim!". İki önemli ihtiyacım var: 1. Bu bilginin benden geldiğinin bilinmesi (otantik olması) 2. Mesajın içeriğinin herkese doğru ulaşması (yolda bir başkası tarafından değiştirilememesi). 
 
