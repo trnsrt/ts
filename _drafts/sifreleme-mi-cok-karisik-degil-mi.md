@@ -57,13 +57,13 @@ Viola! Bambaşka bir dizi ama yine 64 karakterli. Buraya isterseniz girdi olarak
 
 Gördünüz mü? Herşey değişti. Bir harf ekledik ama ilk kelimeden tamamen farklı bir sonuç çıktı ortaya. Ama dikkat edin 64 karakterli yine. 
 
-Bu önemli, o yüzden biraz daha açalım. Aynı girdiler hep aynı sonucu veriyor. Ama girdi de bir harf değiştirin, çıkan sonuç bambaşka oluyor.  Bu ne işe yarıyor? Şuna: Eğer elinizde bir bilgi var ve bu bilgi sonucu ortaya çıkan bir sonuç da varsa, bu girdi hakikaten bu sonucu mu veriyor test edebiliyorsunuz. Yani girdinin orjinalliğini ya da tutarlılığını (yani sonradan değiştirilip değiştirilmediğini) çok rahat görebilirsiniz. 
+Bu önemli, o yüzden biraz daha açalım. Aynı girdiler hep aynı sonucu veriyor. Ama girdi de bir harf değiştirin, çıkan sonuç bambaşka oluyor.  Bu ne işe yarıyor? Şuna: Eğer elinizde bir bilgi var ve bu bilgi sonucu ortaya çıkan bir sonuç da varsa, bu girdi hakikaten bu sonucu mu veriyor test edebiliyorsunuz. Girin ilk bilgiyi şifrelemeye aynı sonucu bulacaksınız. Yani girdinin orjinalliğini ya da tutarlılığını (yani sonradan değiştirilip değiştirilmediğini) çok rahat görebilirsiniz. 
 
-Bu arada şunu da belirtmekte fayda var. Bu şifreleme mekanizmalarının özelliği şu:; sonucu biliyor olmanız girdiyi de bildiğiniz anlamına gelmiyor. Yani, girdiyi biliyorsanız sonucu bulabiliyorsunuz ama sonuçtan geriye bilgiye gidemiyorsunuz. 
+(Bu arada şunu da belirtmekte fayda var. Bu şifreleme mekanizmalarının özelliği şu:; sonucu biliyor olmanız girdiyi de bildiğiniz anlamına gelmiyor. Yani, girdiyi biliyorsanız sonucu bulabiliyorsunuz ama sonuçtan geriye bilgiye gidemiyorsunuz)
 
 --
 
-Bilginin tutarlı olduğunu bilmek ne işimize yarıyor? Bakın burası da çok önemli. Ama bunun için bir örnek daha verelim: Yukarıda gördüğünüz gibi "Merhaba" kelimesine "!" işareti ekliyorsunuz ve ortaya çıkan sonucun "Merhaba!" kelimesinin sonucu olduğunu test edebiliyorsunuz değil mi? Yani iki bilgiyi aldınız, bir araya getirdiniz, sonra sisteme soktunuz ve bir sonuç çıktı. Bu iki kelimeyi bilen kişi sonucu da görebiliyor. 
+Bilginin tutarlı olduğunu bilmek ne işimize yarıyor? Bakın burası da kritik. Ama bunun için bir örnek daha verelim: Yukarıda gördüğünüz gibi "Merhaba" kelimesine "!" işareti ekliyorsunuz ve ortaya çıkan sonucun "Merhaba!" kelimesinin sonucu olduğunu test edebiliyorsunuz değil mi? Yani iki bilgiyi aldınız, bir araya getirdiniz, sonra sisteme soktunuz ve bir sonuç çıktı. Bu iki kelimeyi bilen kişi sonucu da görebiliyor. 
 
 
 ### "Özel Anahtar" ve "Genel Anahtar"
