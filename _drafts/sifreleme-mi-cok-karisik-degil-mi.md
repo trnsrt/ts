@@ -7,7 +7,7 @@ categories: Genel
 
 Şifreleme deyince aklımıza çok karışık anlaşılmaz konular geliyor değil mi? Normal. Aslında o kadar da zor değil ama anlayabilmek için biraz çaba sarfetmek lazım - her türlü konuda olduğu gibi. Peki neden önemli bu şifreleme?  Çünkü şifreleme bize pekçok kişiye dağılan bilginin doğru ve tam olduğunu anlamamızı sağlıyor. Peki ama ne demek şimdi bu?
 
-Efendim, daha önce de belirtmiştik. Modern şifreleme teknolojisi aslında 1970'lerden beri var. Bunun yanında 1990'larda internet hayatımıza girdi ve bilginin yaygınlaşmasını ve kolayca iletilmesini sağladı. Tabii bilgiyi yayarsınız bir sorun yok - paylaştıkça çoğalır. Ama aynı sistem üzerinden para gibi kaygan bir varlığı geçirmek isterseniz, çok ciddi güvenlik sağlamanız lazım. İşe ilk olarak merkezi kurumlar örneğin bankalar el attılar ve getirdikleri güvenlik sistemleri ile paramızı saklama ve transfer etme konusunda bize yardımcı oldular. 
+Efendim, daha önce de belirtmiştik. Modern şifreleme teknolojisi aslında 1970'lerden beri var. Bunun yanında 1990'larda internet hayatımıza girdi ve bilginin yaygınlaşmasını ve kolayca iletilmesini sağladı. Tabii bilgiyi yayarsınız bir sorun yok - paylaştıkça çoğalır. Ama aynı sistem üzerinden para gibi kaygan bir varlığı geçirmek isterseniz çok ciddi güvenlik sağlamanız lazım. İşe ilk olarak merkezi kurumlar örneğin bankalar el attılar ve getirdikleri güvenlik sistemleri ile paramızı saklama ve transfer etme konusunda bize yardımcı oldular. 
 
 Tam bu sırada Satoshi Nakamoto dediğimiz kişi(ler) bu iki konuyu yani şifreleme ile para transferini yaygın bir ağ üzerinden yapmaya imkan verecek teknolojiyi birleştirdi ve bu alanda bir devrim yarattı. Zira böylece bu aradaki banka gibi kurumlara olan ihtiyaç neredeyse sıfıra indi. 
 
