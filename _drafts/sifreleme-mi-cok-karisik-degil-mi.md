@@ -35,7 +35,7 @@ Siz de [deneyebilirsiniz](http://www.xorbin.com/tools/sha256-hash-calculator) - 
 
 
 
-İşte işin özü bu. Değişik şifreleme mekanizmalarından en popüler olan SHA 256 şifreleme böyle çalışıyor. Girin herhangi bir SHA-256 şifreleme sitesine "Merhaba" yazın, yukarıdaki sonucun aynısını verecek size. 64 karakterli bir dizi. 
+İşte işin özü bu. Değişik şifreleme mekanizmalarından en popüler olan SHA 256 şifreleme böyle çalışıyor. Girin herhangi bir SHA-256 [şifreleme sitesine](http://www.xorbin.com/tools/sha256-hash-calculator) "Merhaba" yazın, yukarıdaki sonucun aynısını verecek size. 64 karakterli bir dizi. 
 
 -- 
 
