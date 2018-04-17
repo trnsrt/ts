@@ -6,17 +6,17 @@ categories: Genel
 ---
 Son iki yazımızda Blockchain'i sadece finans dünyası değil başka pek çok alanda da kullanılabileceğini söylemiş ve bunlardan [sanat](http://ademimerkezi.com/genel/2018/04/06/sanat-icin-blockchain.html) ve [filantropi ve hayır dünyası](http://ademimerkezi.com/genel/2018/03/29/Iyilik-icin-blockchain.html) yararına yapılabileceklere bakmıştık. 
 
-Bu yazımızda ise sağlık alanında Blockchain bize ne gibi faydalar sağlayabilir ona göz atalım dilerseniz. 
+Bu yazımızda ise sağlık alanında Blockchain bize ne gibi faydalar sağlayabilir ona bir göz atalım dilerseniz. 
 
 --
 
 ### Sorunlar, sıkıntılar
 
-2015 yılı Haziran ayında "thedarkoverlord" isimli bir hacker yaklaşık [10 milyon Amerikalı'ya ait medikal datayı](https://www.zdnet.com/article/hacker-advertising-huge-health-insurance-database/) 1 milyon ABD dolarına yakın bir rakamdan satışa çıkardı. Hacker bu gizli medikal bilgileri dört ayrı şirketin ana bilgisayarlarından almıştı. İşte size merkezi sistemlerin en büyük dezavantajlarından biri: Dataların bir arada tutulduğu merkezi yapılar her zaman güvenlik açığı potansiyeli taşır.
+2015 yılı Haziran ayında "thedarkoverlord" isimli bir hacker yaklaşık [10 milyon Amerikalı'ya ait medikal datayı](https://www.zdnet.com/article/hacker-advertising-huge-health-insurance-database/) 1 milyon ABD Dolarına yakın bir rakamdan satışa çıkardı. Hacker bu gizli medikal bilgileri dört ayrı şirketin ana bilgisayarlarından almıştı. İşte size merkezi sistemlerin en büyük dezavantajlarından biri: Dataların bir arada tutulduğu merkezi yapılar her zaman güvenlik açığı potansiyeli taşır.
 
-Öte yandan, özel ya da genel sağlık kurumlarının kendi özel veritabanlarını tutmaları ve hastaya ait bilgilerin kurumlar arasında paylaşımı ciddi bir sıkıntı. Sistemlerin birbiri ile konuşmaması bir yana bir şekilde iletişim sağlansa bile yaşanan gecikmeler dakikaların bile çok önemli olduğu kimi durumlarda daha ciddi sorunlara hatta ölümlere kadar giden kayıplara yol açabiliyor. Bilgi eğer hastanın kontrolünde olsa acil müdahale gerektiren kritik durumlarda hasta (ya da yakınları) o an ulaşabildikleri ilk sağlık kurumunda bu bilgilere erişime izin verebilir, sağlık kurumu da hasta bilgilerine anlık olarak ulaşıp gerekli müdahaleleri zamanında yapabilir. 
+Öte yandan sağlık kurumlarının kendi özel veritabanlarını tutmaları ve hastaya ait bilgilerin kurumlar arasında paylaşımı ciddi bir sıkıntı. Sistemlerin birbiri ile konuşmaması bir yana bir şekilde iletişim sağlansa bile yaşanan gecikmeler dakikaların bile çok önemli olduğu kimi durumlarda daha ciddi sorunlara hatta ölümlere kadar giden kayıplara yol açabiliyor. Bilgi eğer hastanın kontrolünde olsa acil müdahale gerektiren kritik durumlarda hasta (ya da yakınları) o an ulaşabildikleri ilk sağlık kurumunda yetkili kişilere bu bilgilere erişime izin verebilir ve hastaya gerekli müdahaleler zamanında yapılabilir. 
 
-Hemen akla şu soru gelebilir: "Sağlık kurumları kendi aralarında anlaşsa ve bu sistemleri kursa ya? Ya da hükümetler onları zorlasa. Blockchain'e gerçekten gerek var mı?" Buna üç farklı perspektiften bakarak cevap vermek mümkün: 
+Hemen akla şu soru gelebilir: "Sağlık kurumları kendi aralarında anlaşsa ve bu sistemleri kursa ya? Ya da hükümetler onları zorlasa. Blockchain'e gerçekten gerek var mı?" Buna üç farklı açıdan bakarak cevap vermek mümkün: 
 
 1. Öncelikle bu tip farklı sağlık kurumlarının birbirleri ile konuşmalarını sağlamak için gerekli sistem entegrasyonu ya da iletişimi oldukça zor, karmaşık ve zaman alıcı. Üstelik çok maliyetli. Halbuki bütün hastanelerin bağlanacakları ortak bir platform olsa ve hasta kayıtlarına bu platform aracılığı ile ulaşılsa sağlık kurumları ciddi bir yatırıma girmeden sistemin nimetlerinden faydalanabilirler. 
 2. Tabii gecikmiş müdahalerin hastada yol açacağı fiziki tahribat ve sonrasında bu tahribatların tedavisi için yapılacak masrafların büyüklüğü göz önüne alındığında, ortak bir platformun sigorta şirketleri için de ciddi bir tasarruf sağlayacağını öngörmek zor değil.    
@@ -32,7 +32,7 @@ Hemen akla şu soru gelebilir: "Sağlık kurumları kendi aralarında anlaşsa v
 
 | ![healthureum.png](/assets/healthureum2.png) | 
 |:--:| 
-| *Healthureum sistemi nasıl çalışıyor?* | 
+| *Healthureum sistemi [nasıl çalışıyor](https://healthureum.wordpress.com/2018/01/24/advantages-of-a-blockchain-enabled-ehr-as-implemented-by-project-healthureum-over-the-conventional-record-keeping-software-that-is-presently-in-use-2/)?* | 
 
 &nbsp;
 
