@@ -43,11 +43,9 @@ Hemen akla şu soru gelebilir: "Sağlık kurumları kendi aralarında anlaşsa v
 
 ### Sonuç
 
-Önceki yazılarımızda da belirttiğimiz gibi, Blockchain tabanlı sistemler henüz emekleme aşamasında. Özellikle sağlık alanında herhangi bir standart henüz oturmuş değil. Yukarıdaki örneklerden de gördüğünüz gibi bu alanda çalışan ve standart olmaya çalışan pekçok girişim var.  
+Önceki yazılarımızda da belirttiğimiz gibi, Blockchain tabanlı sistemler henüz emekleme aşamasında. Sağlık alanındaki girişimlerde odak daha çok kişisel bilgilerin korunmasına yoğunlaşmış durumda ve geçmişte yaşanan olaylardan dolayı bu gayet anlaşılır. Ancak hasta hayatını kurtarabilecek bilginin hızlı paylaşımı ve maliyetleri artıran bürokrasinin azaltılması gibi konularda da Blockchain bazlı girişimler sektöre yeni açılımlar getirebilir. 
 
-Sağlık alanındaki girişimlerde odak daha çok kişisel bilgilerin korunmasına yoğunlaşmış durumda ve geçmişte yaşanan olaylardan dolayı bu gayet anlaşılır. Ancak hasta hayatını kurtarabilecek bilginin hızlı paylaşımı ve maliyetleri artıran bürokrasinin azaltılması gibi konularda da Blockchain bazlı girişimler sektöre yeni açılımlar getirebilir. 
-
-Sağlık, ilaç ve sigorta sektörleri teknolojik yenilikleri yakından takip etseler de organizasyonel değişiklik getirebilecek değişim ve yeniliklerde genelde tutucu davranırlar. Dolayısıyla, özellikle tüm kurumların kullanabileceği ortak bir platforma geçiş konusuna da son derece ihtiyatlı yaklaşacaklarını hatta zorlansalar bile ayak direyeceklerini görmek sürpriz olmaz. Bakalım, Blockchain sağlık alanındaki yaşanan kimi dertlere hızlı bir şekilde deva olabilecek mi?
+Özellikle sağlık alanında data paylaşımında herhangi bir standart henüz oturmuş değil ve yukarıdaki örneklerden de gördüğünüz gibi bu alanda dominant oyuncu olmaya aday pekçok girişim var. Sağlık, ilaç ve sigorta sektörleri teknolojik yenilikleri yakından takip etseler de organizasyonel değişiklik getirebilecek değişim ve yeniliklerde genelde tutucu davranırlar. Dolayısıyla, özellikle tüm kurumların kullanabileceği ortak bir platforma geçiş konusuna da son derece ihtiyatlı yaklaşacaklarını hatta zorlansalar bile ayak direyeceklerini görmek sürpriz olmaz. Bakalım, Blockchain sağlık alanındaki yaşanan kimi dertlere bir şekilde deva olabilecek mi?
 
 --
 
