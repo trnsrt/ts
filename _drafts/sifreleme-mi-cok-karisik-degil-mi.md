@@ -27,7 +27,7 @@ Bir örnek yapalım dilerseniz:
 
 &nbsp;
 
-Siz de [deneyebilirsiniz](http://www.xorbin.com/tools/sha256-hash-calculator) - aynı sonucu bulacaksınız (bu sonuca teknik olarak **hash** deniyor). 
+Siz de [deneyebilirsiniz bu link üzerinden](http://www.xorbin.com/tools/sha256-hash-calculator) - aynı sonucu bulacaksınız (bu sonuca teknik olarak **hash** deniyor). 
 
 | Girdi  | Sonuç  |
 |---|---|
