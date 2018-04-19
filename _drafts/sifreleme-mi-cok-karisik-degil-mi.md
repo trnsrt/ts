@@ -15,7 +15,7 @@ Tam bu sırada Satoshi Nakamoto dediğimiz kişi(ler) bu iki konuyu yani şifrel
 
 ### Şifrelemeli mi, şifrelememeli mi?
 
-Kapalı bir kutu (belki de bir kağıt öğütücü) düşünün. Bir taraftan anlamlı bir sözcük veriyorsunuz, diğer taraftan rakam ve sayılardan oluşan anlamsız rastgele bir sayı(/harf dizisi veriyor.  İşte buna şifreleme deniyor. 
+Kapalı bir kutu (belki de bir kağıt öğütücü) düşünün. Bir taraftan anlamlı bir sözcük veriyorsunuz, diğer taraftan rakam ve sayılardan oluşan anlamsız rastgele bir sayı/harf dizisi veriyor.  İşte buna şifreleme deniyor. 
 
 Bir örnek yapalım dilerseniz: 
 
