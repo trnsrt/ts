@@ -13,7 +13,24 @@ Tam bu sırada Satoshi Nakamoto dediğimiz kişi(ler) bu iki konuyu yani şifrel
 
 Şifreleme Blockchain'in temelini oluşturuyor, çünkü Blockchain dağınık bir sistemde çalışıyor, yani bilgi binlerce farklı, birbiri ile ilintili ama birbirini tanımayan makinede üzerinde bulunuyor. Dağınık sistemlerin kontrolü olmadığı için bilginin düzgün ve değiştirilmemiş olması son derece hayati - bunu sağlayan da şifreleme sistemi. Yani şifreleme sayesinde herhangi bir bilgi Blockchain üzerindeki her parça üzerinde hem aynı şekilde tutarlı hem de gizli olarak tutulabiliyor. Şifreleme teknik ve karmaşık görünse de onu daha iyi anlamak bize günlük hayatımızda Blockchain teknolojisini nasıl daha verimli olarak kullanırız konusunda farklı ipuçları da verebilir.  
 
+
 ### Şifrelemeli mi, şifrelememeli mi?
+
+En basitinden başlayalım. Şifreleme bir nevi kilitleme demek. Diyelim bir mesajınız var. Bu mesajınız "Merhaba" olsun. Şifreleme dediğimiz, bir anahtar düşünün, bu anahtar sizin mesajınızı alıyor ve şifreleyip yerine rastgele sayı ve harflerden oluşan bir sözcük dizisi veriyor. 
+
+&nbsp;
+
+| ![sifreleme-mekanizmasi-lock.png](/assets/sifreleme-mekanizmasi-lock.png) | 
+|:--:| 
+| *Şifreleme Mekanizması* |
+
+&nbsp;
+
+
+
+
+
+
 
 Kapalı bir kutu (belki de bir kağıt öğütücü) düşünün. Bir taraftan anlamlı bir sözcük veriyorsunuz, diğer taraftan rakam ve sayılardan oluşan anlamsız rastgele bir sayı/harf dizisi veriyor.  İşte buna şifreleme deniyor. 
 
