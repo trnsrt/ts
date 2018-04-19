@@ -84,7 +84,7 @@ Eğer ben  "Yarın New York'a gideceğim" yazısını kendi Özel Anahtarım ile
 
 &nbsp;
 
-| ![ozel-genel-anahtar.png](/assets/ozel-genel-anahtar.png) | 
+| ![ozel-genel-anahtar-vertical.png](/assets/ozel-genel-anahtar-vertical.png) | 
 |:--:| 
 
 
@@ -97,7 +97,7 @@ Peki bunu tüm dünyaya değil de sadece arkadaşıma göndermek istersem? O zam
 
 &nbsp;
 
-| ![ozel-genel-anahtar-iki-kisi.png](/assets/ozel-genel-anahtar-iki-kisi.png) | 
+| ![ozel-genel-anahtar-iki-kisi-vertical.png](/assets/ozel-genel-anahtar-iki-kisi-vertical.png) | 
 |:--:| 
 
 
