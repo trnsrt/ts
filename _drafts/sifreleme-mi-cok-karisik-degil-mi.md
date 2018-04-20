@@ -28,9 +28,10 @@ En basitinden başlayalım. Şifreleme bir nevi kilitleme demek. Diyelim bir mes
 
 
 Dolaysıyla sizin yazdığınız bu mesajı anahtarı verdiğiniz herkes açıp görebiliyor. Sadece anahtarı olanlar. Buraya kadar güzel. Bu anahtarı bir kişiye verirsem bir sorun yok. Bir taraf mesaj yazar, anahtar ile şifreler, diğeri aynı anahtar ile açar mesajı okur, sonra yeni bir mesaj yazar ve aynı anahtar ile şifreler ve bu böyle sürüp gider.  Ancak pratiğe geldiğinde soru(n)lar ortaya çıkmaya başlıyor. 
-- Ya karşı taraf bu anahtarı başka birine daha verirse? O zaman ne olacak? Benim yazdığım mesajı birden fazla insan okuyabilir ve haberim olmaz. Aynı zamanda, o anahtarı verdiği kişi bir mesaj yazarsa? Karşı tarafın bu mesajı yazdığını nereden bileceğim? Dolayısıyla, anahtarın kopyalanabildiği durumlarda sıkıntı var, mesajı kimin yazdığını anlamak zor. 
 
+Ya karşı taraf bu anahtarı başka birine daha verirse? O zaman ne olacak? Benim yazdığım mesajı birden fazla insan okuyabilir ve haberim olmaz. Aynı zamanda, o anahtarı verdiği kişi bir mesaj yazarsa? Karşı tarafın bu mesajı yazdığını nereden bileceğim? Dolayısıyla, anahtarın kopyalanabildiği durumlarda sıkıntı var, mesajı kimin yazdığını anlamak zor. 
 
+İşte bu "mesajı kim yazdı, kimler okudu sorununu çözmek için" 1976 yılında yeni bir şifreleme yöntemi ortaya atılmış. "Özel anahtar" ve " Genel Anahtar" kavramları çıkmış.  
 
 
 
