@@ -91,7 +91,7 @@ Bir örnek yapalım dilerseniz:
 
 Siz de [deneyebilirsiniz bu link üzerinden](http://www.xorbin.com/tools/sha256-hash-calculator) - aynı sonucu bulacaksınız (bu sonuca teknik olarak **hash** deniyor). 
 
-| Girdi  | Sonuç  |
+| Girdi  | Şifreli Sonuç  |
 |---|---|
 | *Merhaba*  | *7fdc9f4717c5fe66df286c700fab969b4d6209d03aa84624c5f8f58c17c9c058*  |
 
