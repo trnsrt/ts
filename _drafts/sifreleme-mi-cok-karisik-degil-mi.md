@@ -172,7 +172,9 @@ Sistem söyle çalışıyor.
 5. Sonucu gören makineler, işlem dökümünü 25264 sayısı ile birlikte şifreye sokuyorlar, bakıyorlar hakikaten çıkan sonuç "0000.." ile başlıyor, "tamam" diyorlar, "sonuç doğru" ve bir sonraki 10 dakika için yapılan işlemlere geçiyorlar. 
 6. 25264 rakamını bulan makine işte bu ödülü (şu anda 12.5 Bitcoin yani 100,000 ABD Doları civari bir rakam) kazanıyor!
 
+İşte bu kadar. Yukarıdaki süreç her 10 dakikada bir tekrar ediyor ve her 10 dakikada bir 12.5 Bitcoin yaratılarak sisteme sokuluyor. Şu ana kadar (Nisan 2017 itibariyle) 17 Milyon Bitcoin yaratıldı. Önümüzdeki 100 yıl boyunca yaklaşık 4 milyon Bitcoin daha yaratılacak bu sistemle (her dört yılda bir 
+
 ### Bu kadar mı?
 
-Evet, aslında işin özü bu kadar basit. Zaten diyoruz ya, Bitcoin üzerindeki bütün işlemler görülebiliyor diye. Yapılan bütün işlemler hangi partiden geliyor hangi partiye gidiyor, ne kadar işlem yapılıyor hepsi görülüyor. Ancak görülmeyen ne? Hangi partiden gelip hangi partiden gittiği de sistem üzerinde şifreli olarak görülüyor. Mesela örnek bir işlem bakalım: 
+Evet, aslında işin özü bu kadar basit. Genel Anahtar aracılığı ile zamanında bana gönderilmiş olan bir varlığı, Özel Anahtarımı kullanarak şifreleyip bir başkasına gönderiyorum. Sistem de bu işlemleri 10 dakikada bir toplayıp öğütüp bir paket haline getiriyor - bunu ilk başarana da bir ödül veriyor. İşte bu ödül sayesinde Bitcoin yaratılmış oluyor. Şu ana kadar 
 
