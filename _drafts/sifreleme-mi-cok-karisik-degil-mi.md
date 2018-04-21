@@ -24,7 +24,7 @@ Tekrar edelim para örneğini hep konuşulduğu için verdik. Konu sadece para i
 Şifreleme Blockchain'in temelini oluşturuyor, çünkü Blockchain dağınık bir sistemde çalışıyor, yani bilgi binlerce farklı, birbiri ile ilintili ama birbirini tanımayan makinede üzerinde bulunuyor. Dağınık sistemlerin kontrolü olmadığı için bilginin düzgün ve değiştirilmemiş olması son derece hayati - bunu sağlayan da şifreleme sistemi. Yani şifreleme sayesinde herhangi bir bilgi Blockchain üzerindeki her parça üzerinde hem aynı şekilde tutarlı hem de gizli olarak tutulabiliyor. Şifreleme teknik ve karmaşık görünse de onu daha iyi anlamak bize günlük hayatımızda Blockchain teknolojisini nasıl daha verimli olarak kullanırız konusunda farklı ipuçları da verebilir.  
 
 
-### İki ana fark
+### Şifreleme ve öğütme - iki önemli özellik
 
 Konuya öncelikle iki farklı noktadan bakmak gerekiyor. 
 
@@ -54,7 +54,7 @@ Ya karşı taraf bu anahtarı başka birine daha verirse? O zaman ne olacak? Ben
 İşte bu "mesajı kim yazdı, kimler okudu sorununu çözmek için" 1976 yılında yeni bir şifreleme yöntemi ortaya atılmış. "Özel anahtar" ve " Genel Anahtar" kavramları çıkmış.  
 
 
-### "Özel Anahtar" ve "Genel Anahtar"
+#### "Özel Anahtar" ve "Genel Anahtar"
 
 Yine yukarıdaki anahtar-kilit örneğinden devam edelim. Demiştik ki iki ana problem var. Birincisi benim yazdığım mesajın içeriğini anahtarı olan (ya da anahtarı alan) herkesin görüyor olması, ikincisi de herkesin bu mesajı benim yazdığımdan (kilidi benim kilitlediğimin) emin olması.
 
