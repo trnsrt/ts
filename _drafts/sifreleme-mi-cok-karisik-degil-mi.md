@@ -140,7 +140,7 @@ Bitcoin (ve diğer benzer Blockchain sistemleri) yukarıda yazdığımız her ik
 
 &nbsp;
 
-| ![Transaction_Bitcoin_Block _519273.png](/assets/Transaction_Bitcoin_Block _519273.png) | 
+| ![Transaction_Bitcoin_Block _519273.png](/assets/Transaction_Bitcoin_Block_519273.png) | 
 |:--:| 
 | *Bitcoin İşlem Örneği* |
 
