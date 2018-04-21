@@ -28,7 +28,7 @@ Tekrar edelim para örneğini hep konuşulduğu için verdik. Konu sadece para i
 
 Konuya öncelikle iki farklı noktadan bakmak gerekiyor. 
 
-1. Birincisi, benim (ve diğer herkesin) verdiği bilgilerin gerçekten bana ait olduğunun (orjinal/otantik olduğunun) teyit edilmesi. Ama bir taraftan da bu bilgilerin bir kısmının gizli tutulması (benim hakkımdaki her bilginin herkes tarafından bilinmesini istemem). İşte bu **şifreleme** (encryption/decryption) sayesinde başarılıyor. 
+1. Birincisi, benim (ve diğer herkesin) verdiği bilgilerin gerçekten bana ait olduğunun (orjinal/otantik olduğunun) teyit edilmesi. Öte yandan bu bilgilerin içeriğinin bir kısmının gizli tutulması (benim hakkımdaki her bilginin herkes tarafından bilinmesini istemem sonucta). İşte bu **şifreleme** (encryption/decryption) sayesinde başarılıyor. 
 2. İkincisi ise, bütün bu değişik kişllerden gelen bilgilerin kayıt edildikten sonra bir daha değiştirilemez biçimde kaydedilmesi ve üstü üste (ya da arka arkaya) dizilmesi. Yani herkeste aynı bilgilerin olması. Herkeste aynı bilgi olursa kimse "eyvah kandırılıyor muyum?" kaygısı yaşamaz, gece evinde rahat uyur. İşte bu da **öğütme** (hashing) sayesinde başarılıyor. 
 
 Şimdi dilerseniz gelin önce bir şifreleyelim ve nasıl olduğuna bakalım, sonra da bunu öğütürüz.. 
@@ -47,16 +47,23 @@ En basitinden başlayalım. Şifreleme bir nevi kilitleme demek. Diyelim bir mes
 &nbsp;
 
 
-Dolaysıyla sizin yazdığınız bu mesajı anahtarı verdiğiniz herkes açıp görebiliyor. Sadece anahtarı olanlar. Buraya kadar güzel. Bu anahtarı bir kişiye verirsem bir sorun yok. Bir taraf mesaj yazar, anahtar ile şifreler, diğeri aynı anahtar ile açar mesajı okur, sonra yeni bir mesaj yazar ve aynı anahtar ile şifreler ve bu böyle sürüp gider.  Ancak pratiğe geldiğinde soru(n)lar ortaya çıkmaya başlıyor. 
+Dolayısıyla sizin yazdığınız bu mesajı anahtarı verdiğiniz herkes açıp görebiliyor. Sadece anahtarı olanlar. Buraya kadar güzel. Bu anahtarı bir kişiye verirsem bir sorun yok. Bir taraf mesaj yazar, anahtar ile şifreler, diğeri aynı anahtar ile açar mesajı okur, sonra yeni bir mesaj yazar ve aynı anahtar ile şifreler ve bu böyle sürüp gider.  Ancak pratiğe geldiğinde soru(n)lar ortaya çıkmaya başlıyor. 
 
-Ya karşı taraf bu anahtarı başka birine daha verirse? O zaman ne olacak? Benim yazdığım mesajı birden fazla insan okuyabilir ve haberim olmaz. Aynı zamanda, o anahtarı verdiği kişi bir mesaj yazarsa? Karşı tarafın bu mesajı yazdığını nereden bileceğim? Dolayısıyla, anahtarın kopyalanabildiği durumlarda sıkıntı var, mesajı kimin yazdığını anlamak zor. 
+Ya karşı taraf bu anahtarı başka birine daha verirse? O zaman ne olacak? Benim yazdığım mesajı birden fazla insan okuyabilir ve haberim olmaz. Aynı zamanda, o anahtarı verdiği üçüncü kişi bir mesaj yazarsa? Karşı tarafın bu mesajı yazdığını nereden bileceğim? Dolayısıyla, anahtarın kopyalanabildiği durumlarda sıkıntı var, mesajı kimin yazdığını anlamak zor. 
 
 İşte bu "mesajı kim yazdı, kimler okudu sorununu çözmek için" 1976 yılında yeni bir şifreleme yöntemi ortaya atılmış. "Özel anahtar" ve " Genel Anahtar" kavramları çıkmış.  
 
 
 ### "Özel Anahtar" ve "Genel Anahtar"
 
-Şifreleme yapabilmek için gerekli olan önemli bir parçaya geldi sıra: "Özel Anahtar" ve "Genel Anahtar". Sizin, benim ve herkesin yaratabileceği her bireyin kendine ait bir "Özel Anahtar" bir de "Genel Anahtar" var. Bunu bir nevi Şifreleme Mekanizmasını çalıştırmak için bana gerekli olan anahtarlar olarak da hayal edebilirsiniz. 
+Şifreleme yapabilmek için gerekli olan önemli bir parçaya geldi sıra: "Özel Anahtar" ve "Genel Anahtar". Sizin, benim ve herkesin yaratabileceği her bireyin kendine ait bir "Özel Anahtar" bir de "Genel Anahtar" var. 
+
+Yine yukarıdaki anahtar-kilit örneğinden devam edelim. Demiştik ki iki ana problem var. Birincisi benim yazdığım mesajın içeriğini anahtarı olan (ya da anahtarı alan) herkesin görüyor olması, ikincisi de herkesin bu mesajı benim yazdığımdan (kilidi benim kilitlediğimin) emin olması.
+
+Önce ikincincisinden başlayalım. Şöyle demiş bir akıllı bilim adamı. "Şu kilidin özelliğini bir parça değiştireyim - öyle bir hale getireyim ki, iki tane anahtarı olsun. Biri sadece kilidi kilitlemeye, öbürü de sadece açmaya yarasın. Kilidi açmaya yarayan anahtarı, tüm arkadaşlarıma vereyim". İlginç değil mi? Anahtar bir tane 
+
+
+Bunu bir nevi Şifreleme Mekanizmasını çalıştırmak için bana gerekli olan anahtarlar olarak da hayal edebilirsiniz. 
 
 Özel Anahtar ve Genel Anahtarı bana ait birbirlerinin aynı olan iki anahtar gibi düşünebiliriz. Aradaki tek fark, Özel Anahtarın  sadece benim bildiğim (hiç kimse ile paylaşmadığım) bir anahtar. Genel Anahtar ise yine bana ait, ama herkes ile paylaştığım tüm dünyanın görebileceği bir anahtar olması. İlişkileri ise şu: Bemim Özel Anahtarım ile kapadığım kapıyı (şifrelediğim mesajı) Genel Anahtarı bilen herkes açabiliyor (şifreyi açıp mesajı görebiliyor).   
 
@@ -106,9 +113,9 @@ Diyelim yukarıdaki gibi bir bilgiyi e-posta olarak gönderiyorsunuz. İlk olara
 
 
 
+İyi de benim yazdığım bir yazıyı tüm dünya görmüş oldu, ben içeriği bilinsin istemiyordum, şimdi ne olacak? İşte burada öğütme mekanizması ortaya giriyor ve sizin yazınızı okunamaz bir hale getiriyor. Güzel değil mi, hem sizden geldiği anlaşılıyor hem de içeriğini kimse okuyamıyor. 
 
-
-Peki çok güzel yukarıda yazılanlar sayesinde, bu mesajın benim tarafımdan gönderildiğini tüm dünya görmüş oldu. Harika. Ya yarın öbür gün ben bu mesajı değiştirmek istersem? Kusura bakmayın mümkün değil, çünkü mesajınız alındı, güzel bir şekilde öğütüldü ve tüm sistemdeki makineler üzerinde aynı şekilde tutulmaya başladı. Nasıl mı? Anlatalım: 
+Harika. Ama yarın öbür gün ben bu mesajı değiştirsem "Yok, yahu ben öyle dememiştim, böyle demiştim" desem? Kusura bakmayın mümkün değil, çünkü mesajınız alındı, güzel bir şekilde öğütüldü ve tüm sistemdeki makineler üzerinde aynı şekilde tutulmaya başladı. Nasıl mı? Anlatalım: 
 
 
 ### Değirmen gibi öğütelim.. 
