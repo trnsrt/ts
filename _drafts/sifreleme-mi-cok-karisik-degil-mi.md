@@ -56,61 +56,17 @@ Ya karşı taraf bu anahtarı başka birine daha verirse? O zaman ne olacak? Ben
 
 ### "Özel Anahtar" ve "Genel Anahtar"
 
-Şifreleme yapabilmek için gerekli olan önemli bir parçaya geldi sıra: "Özel Anahtar" ve "Genel Anahtar". Sizin, benim ve herkesin yaratabileceği her bireyin kendine ait bir "Özel Anahtar" bir de "Genel Anahtar" var. 
-
 Yine yukarıdaki anahtar-kilit örneğinden devam edelim. Demiştik ki iki ana problem var. Birincisi benim yazdığım mesajın içeriğini anahtarı olan (ya da anahtarı alan) herkesin görüyor olması, ikincisi de herkesin bu mesajı benim yazdığımdan (kilidi benim kilitlediğimin) emin olması.
 
-Önce ikincincisinden başlayalım. Şöyle demiş bir akıllı bilim adamı. "Şu kilidin özelliğini bir parça değiştireyim - öyle bir hale getireyim ki, iki tane anahtarı olsun. Biri sadece kilidi kilitlemeye, öbürü de sadece açmaya yarasın. Kilidi açmaya yarayan anahtarı, tüm arkadaşlarıma vereyim". İlginç değil mi? Anahtar bir tane 
+Önce ikincincisinden başlayalım. Şöyle demiş bir akıllı bilim adamı. "Şu kilidin özelliğini bir parça değiştireyim - öyle bir hale getireyim ki, iki tane anahtarı olsun. Biri sadece kilidi kilitlemeye, öbürü de sadece açmaya yarasın. Kilidi açmaya yarayan anahtarı, tüm arkadaşlarıma vereyim. Ama kilitlemeye yarayan sadece bende olsun". İlginç bir mantık - içgüdüsel olarak düşünmeyeceğiniz bir seçenek. Neye yarıyor peki? Şuna: Benim anahtarım kilidi kilitleyen tek anahtar olunca, herkes bu mesajı benim yazdığımı ve kilitlediğimi anlayacak. Ve isteyen de benim herkese dağıttığım diğer anahtar ile içindekileri okuyabilecek. 
 
-
-Bunu bir nevi Şifreleme Mekanizmasını çalıştırmak için bana gerekli olan anahtarlar olarak da hayal edebilirsiniz. 
+İşte bu iki anahtardan bana ait olana "Özel Anahtar", herkese verdiğime de "Genel Anahtar" deniyor. 
 
 Özel Anahtar ve Genel Anahtarı bana ait birbirlerinin aynı olan iki anahtar gibi düşünebiliriz. Aradaki tek fark, Özel Anahtarın  sadece benim bildiğim (hiç kimse ile paylaşmadığım) bir anahtar. Genel Anahtar ise yine bana ait, ama herkes ile paylaştığım tüm dünyanın görebileceği bir anahtar olması. İlişkileri ise şu: Bemim Özel Anahtarım ile kapadığım kapıyı (şifrelediğim mesajı) Genel Anahtarı bilen herkes açabiliyor (şifreyi açıp mesajı görebiliyor).   
-
-Yukarıda dedik Şifreleme Mekanizması'nın sonucu bilirseniz girdiyi bulamıyorsunuz. Peki
 
 Dilerseniz bir örnek ile anlatalım: Tüm dünya ile paylaşmak istediğim bir mesaj var. Örneğin "Yarın New York'a gideceğim!". İki önemli ihtiyacım var: 1. Bu bilginin benden geldiğinin bilinmesi (otantik olması) 2. Mesajın içeriğinin herkese doğru ulaşması (yolda bir başkası tarafından değiştirilememesi). 
 
 Eğer ben  "Yarın New York'a gideceğim" yazısını kendi Özel Anahtarım ile karıştırıp dünyaya yayınlarsam (yani şifrelersem), çıkan sonuca bakan biri, benim Genel Anahtarımı alıp bu ortaya çıkan şifreli sonucu ile birleştirirse (yani şifreyi çözerse) sonuçta benim tarafımdan gelen, benim imzaladığım mesajı görür.  
-
-
-&nbsp;
-
-| ![ozel-genel-anahtar-vertical.png](/assets/ozel-genel-anahtar-vertical.png) | 
-|:--:| 
-
-
-&nbsp;
-
-Peki bunu tüm dünyaya değil de sadece arkadaşıma göndermek istersem? O zaman? Burada birkaç koşulun doğru olduğuna emin olmamız gerekiyor
-- Ben bilgiyi yazarken bu bilgiyi sadece sizin okuyabileceğine emin olmam gerekiyor
-- Siz, bu bilginin benden geldiğine emin olmak istiyorsunuz
-- Aynı zamanda hem ben hem siz bu bilginin benden size gelirken yolda değiştirilmemiş olduğuna emin olmamız gerekiyor
-
-&nbsp;
-
-| ![ozel-genel-anahtar-iki-kisi-vertical.png](/assets/ozel-genel-anahtar-iki-kisi-vertical.png) | 
-|:--:| 
-
-
-&nbsp;
-
-
-Bunu bir örnek üzerinden anlatmaya çalışalım: 
-
-Diyelim yukarıdaki gibi bir bilgiyi e-posta olarak gönderiyorsunuz. İlk olarak ne yapıyorum? Kendi e-postama giriyor ve sizin email'inizi yazıyorum, sonra mesaji yazıyorum ve gönder tuşuna basıyorum. Aynı olayı yukarıdaki gibi şifreleme işlemine tabi tutalım. Yaptığım işler şu şekilde: 
-
-1. Mesajı yazıyorum. Şimdi bu mesajı bana ait sadece benim bildiğim "Özel Anahtar" ile birleştiriyorum. Ortaya bir sonuç çıkıyor. 
-2. Bu sonuç Benzer şekilde burada da, "Genel Anahtar" benim email adresim, "Özel Anahtar" da bu mesajı yazanın ben olduğunu gösteren bana ait "Dijital İmza".  
-
-
-
-
-
-
-
-
-
 
 
 İyi de benim yazdığım bir yazıyı tüm dünya görmüş oldu, ben içeriği bilinsin istemiyordum, şimdi ne olacak? İşte burada öğütme mekanizması ortaya giriyor ve sizin yazınızı okunamaz bir hale getiriyor. Güzel değil mi, hem sizden geldiği anlaşılıyor hem de içeriğini kimse okuyamıyor. 
