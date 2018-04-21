@@ -34,7 +34,7 @@ Konuya öncelikle iki farklı noktadan bakmak gerekiyor.
 Şimdi dilerseniz gelin önce bir şifreleyelim ve nasıl olduğuna bakalım, sonra da bunu öğütürüz.. 
 
 
-### Şifrelemeli mi, şifrelememeli mi?
+### Şifrelemeli mi, şifrelememeli mi? Önce şifreleyelim.. 
 
 En basitinden başlayalım. Şifreleme bir nevi kilitleme demek. Diyelim bir mesajınız var. Bu mesajınız "Merhaba" olsun. Şifreleme dediğimiz, bir anahtar düşünün, bu anahtar sizin mesajınızı alıyor ve şifreleyip yerine rastgele sayı ve harflerden oluşan bir sözcük dizisi veriyor. 
 
@@ -68,13 +68,14 @@ Dilerseniz bir örnek ile anlatalım: Tüm dünya ile paylaşmak istediğim bir 
 
 Eğer ben  "Yarın New York'a gideceğim" yazısını kendi Özel Anahtarım ile karıştırıp dünyaya yayınlarsam (yani şifrelersem), çıkan sonuca bakan biri, benim Genel Anahtarımı alıp bu ortaya çıkan şifreli sonucu ile birleştirirse (yani şifreyi çözerse) sonuçta benim tarafımdan gelen, benim imzaladığım mesajı görür.  
 
+İşte yukarıdaki ilk sorunu çözdük. Mesajın benden geldiğini herkes gördü. Şimdi ikinci soruna ve çözümü olan öğütme (hashing) kısmına geçelim. 
 
-İyi de benim yazdığım bir yazıyı tüm dünya görmüş oldu, ben içeriği bilinsin istemiyordum, şimdi ne olacak? İşte burada öğütme mekanizması ortaya giriyor ve sizin yazınızı okunamaz bir hale getiriyor. Güzel değil mi, hem sizden geldiği anlaşılıyor hem de içeriğini kimse okuyamıyor. 
+
+### Şimdi de değirmen gibi öğütelim.. 
+
+Yukarıdaki örnekten devam edelim. Mesajı yazdım ve herkes de mesajın benden geldiğini gördü. İyi de yazının içeriğini tüm dünya görmüş oldu, ben içeriği bilinsin istemiyordum, şimdi ne olacak? İşte burada öğütme mekanizması ortaya giriyor ve sizin yazınızı okunamaz bir hale getiriyor. Güzel değil mi, hem sizden geldiği anlaşılıyor hem de içeriğini kimse okuyamıyor. 
 
 Harika. Ama yarın öbür gün ben bu mesajı değiştirsem "Yok, yahu ben öyle dememiştim, böyle demiştim" desem? Kusura bakmayın mümkün değil, çünkü mesajınız alındı, güzel bir şekilde öğütüldü ve tüm sistemdeki makineler üzerinde aynı şekilde tutulmaya başladı. Nasıl mı? Anlatalım: 
-
-
-### Değirmen gibi öğütelim.. 
 
 Kapalı bir kutu (belki de bir kağıt öğütücü) düşünün. Bir taraftan anlamlı bir sözcük veriyorsunuz, diğer taraftan rakam ve sayılardan oluşan anlamsız rastgele bir sayı/harf dizisi veriyor.  İşte buna öğütme deniyor. 
 
@@ -96,7 +97,7 @@ Siz de [deneyebilirsiniz bu link üzerinden](http://www.xorbin.com/tools/sha256-
 
 
 
-İşte işin özü bu. Değişik şifreleme mekanizmalarından en popüler olan SHA-256 şifreleme böyle çalışıyor. Girin herhangi bir SHA-256 [şifreleme sitesine](http://www.xorbin.com/tools/sha256-hash-calculator) "Merhaba" yazın, yukarıdaki sonucun aynısını verecek size: 64 karakterli bir dizi. 
+İşte işin özü bu. Değişik öğütme mekanizmalarından en popüler olan SHA-256 böyle çalışıyor. Girin herhangi bir SHA-256 [şifreleme sitesine](http://www.xorbin.com/tools/sha256-hash-calculator) "Merhaba" yazın, yukarıdaki sonucun aynısını verecek size: 64 karakterli bir dizi. 
 
 -- 
 
@@ -120,17 +121,24 @@ Gördünüz mü? Herşey değişti. Bir harf ekledik ama ilk kelimeden tamamen f
 
 Bu önemli, o yüzden biraz daha açalım. Aynı girdiler hep aynı sonucu veriyor. Ama girdi de bir harf bile değiştirin, çıkan sonuç bambaşka oluyor.  Bu ne işe yarıyor? Bu girilen bilginin orjinal ya da otantik (değiştirilmemiş) olup olmadığını anlamamıza yarıyor. Eğer elinizde bir bilgi ve bu bilgi sonucu ortaya çıkan şifreli bir sonuç da varsa, bu girdi hakikaten bu sonucu mu veriyor test edebiliyorsunuz. Girin ilk bilgiyi şifrelemeye aynı sonucu bulacaksınız. 
 
-Bu arada şunu da belirtmekte fayda var. Bu şifreleme mekanizmalarının özelliği şu:; sonucu biliyor olmanız girdiyi de bildiğiniz anlamına gelmiyor. Yani, girdiyi biliyorsanız sonucu bulabiliyorsunuz ama sonuçtan geriye bilgiye gidemiyorsunuz
+Bu arada şunu da belirtmekte fayda var. Bu şifreleme mekanizmalarının özelliği şu:; sonucu biliyor olmanız girdiyi de bildiğiniz anlamına gelmiyor. Yani, girdiyi biliyorsanız sonucu bulabiliyorsunuz ama sonuçtan geriye bilgiye gidemiyorsunuz. Yani,  öğütücüden geçmiş kağıtlara (ya da una, artık ne geçiriyorsunuz) bakarak kağıtta ne yazıyordu okuyamıyorsunuz. Ancak kağıdın orjinali varsa elinizde onu öğütücüden geçirip aynı şekilde önceki gibi bir bulamaç elde edebiliyorsunuz.
 
 --
 
 
-Bilginin tutarlı olduğunu bilmek ne işimize yarıyor? Yukarıda yazdığımız gibi bilgiyi dağıtıp tek bir noktada tutmadığınızda dağınık duran herkeste aynı bilginin olması, bilginin doğruluğu kişilerin bu bilgiye olan güvenini sağlayan en önemli etken. Öbür türlü kırk kişide kırk bilgi olursa ona dedikodu denir, kimse de beş kuruş değer vermez. 
+Bilginin tutarlı olduğunu bilmek ne işimize yarıyor? Yukarıda yazdığımız gibi bilgiyi dağıtıp tek bir noktada tutmadığınızda, dağınık duran herkeste aynı bilginin olması bilginin doğruluğunu ve kişilerin bu bilgiye olan güvenini sağlayan en önemli etken. Öbür türlü kırk kişide kırk farklı bilgi olursa ona dedikodu denir, kimse de beş kuruş değer vermez. 
 
 
 
 
 ### Peki Bitcoin şifrelemesi nasıl çalışıyor?
+
+Bitcoin (ve diğer benzer Blockchain sistemleri) yukarıda yazdığımız her iki durumu (şifreleme ve öğütme) kullanarak kendi sistemlerinin otomatik güvenli hale getiriyorlar (ya da tek bir kişiye duyulan güven ihtiyacını sıfıra indiriyorlar). 
+
+Önce öğütücü kısmına bakalım. Efendim, biliyorsunuz Blockchain sistemi bir dijital varlığın bir kimseden diğerine geçmesini sağlıyor. Varsayalım benim bir dijital varlığım, örneğin 1 Bitcoin'im var. Öncelikle, demiştik ki, bütün Blockchain işlemleri aynı şekilde tüm makineler tarafından tutuluyor. Dolayısıyla sistemdeki bütün makineler bu 1 Bitcoin'in bende olduğunu biliyor. Şimdi ben bu parayı Ayşe'ye göndereceğim. Sistem üzerindeki makinelere diyorum ki "Ey ahali, ben 1 Bitcoin'imi Ayşe'ye gönderiyorum". Sistemde "ben" diye bahsettiğim bana ait bir adres. Ayşe de aynı şekilde bir adres. Dolayısı ile diyorum ki, "ben bu adresin sahibi kişi şu adrese bu kadar parayı gönderiyorum". Sistem üzerinden görülen bana ait hesap numarası, karşı tarafa ait hesap numarası ve ne kadar para gönderildiği. Merak ediyorsanız nasıl bir şeydir bu diye, işte bir örnek aşağıda: Bunu da kaydedip internet üzerinde [yayınlıyorlar](https://blockchain.info/block/0000000000000000001c2fa26ad4d4850fe94e688cfccf812c4fbe6d245761eb)
+
+
+
 
 Hatırlar mısınız, önceki bir yazımızda şunu demiştik: "Blockchain sisteminde yükü çeken makinelerin bu yaptıkları işlemleri kayıt etme, daha sonra da teyid etme işlemi sonucu aldıkları ödüle (ya da lotarya) Bitcoin deniyor. Neden lotarya deniyor? Zira, bu on dakikada bir yapılan teyit işlemi aslında çok zor bir bulmaca. Bir nevi Sudoku oyunu gibi düşünün"
 
