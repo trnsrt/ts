@@ -7,9 +7,19 @@ categories: Genel
 
 Şifreleme deyince aklımıza çok karışık anlaşılmaz konular geliyor değil mi? Normal. Aslında o kadar da zor değil ama anlayabilmek için biraz çaba sarfetmek lazım - her türlü konuda olduğu gibi. Peki neden önemli bu şifreleme?  Çünkü şifreleme bize pekçok kişiye dağılan bilginin doğru ve tam olduğunu anlamamızı sağlıyor. Peki ama ne demek şimdi bu?
 
-Efendim, daha önce de belirtmiştik. Modern şifreleme teknolojisi aslında 1970'lerden beri var. Bunun yanında 1990'larda internet hayatımıza girdi ve bilginin yaygınlaşmasını ve kolayca iletilmesini sağladı. Tabii bilgiyi yayarsınız bir sorun yok - paylaştıkça çoğalır. Ama aynı sistem üzerinden para gibi kaygan bir varlığı geçirmek isterseniz çok ciddi güvenlik sağlamanız lazım. İşe ilk olarak merkezi kurumlar örneğin bankalar el attılar ve getirdikleri güvenlik sistemleri ile paramızı saklama ve transfer etme konusunda bize yardımcı oldular. 
+Efendim, daha önce de belirtmiştik. Modern şifreleme teknolojisi aslında 1970'lerden beri var. Bunun yanında 1990'larda internet hayatımıza girdi ve bilginin yaygınlaşmasını ve kolayca iletilmesini sağladı. Tabii bilgiyi yayarsınız bir sorun yok - paylaştıkça çoğalır. Ancak herhangi bir varlığı internet üzerinden transfer etmeye kalktığınızda önümüze sorunlar çıkıyor. 
 
-Tam bu sırada Satoshi Nakamoto dediğimiz kişi(ler) bu iki konuyu yani şifreleme ile para transferini yaygın bir ağ üzerinden yapmaya imkan verecek teknolojiyi birleştirdi ve bu alanda bir devrim yarattı. Zira bu aradaki banka gibi kurumlara olan ihtiyaç neredeyse sıfıra indi. 
+İsterseniz internet üzerinden transfer edilebilecek pekçok nesneden en aşina olduğumuz para üzerinden bir örnek verelim. 
+
+### Para, para, para - varlığı bir dert... 
+
+Para ilk zamanlarda fiziki olarak **kağıt** halinde bulunurken, 60-70'lerden sonra bilgisayarlar iletişin başlayınca kurumlar arasında kullanılan **elektronik para**'ya 90'lardan sonra internet çıkınca da kişiler arasında iletişim ile birlikte **dijital para**'ya evrildi. 
+
+Ancak, bu paranın alışverişe layık olabilme niteliğini koruyabilmesi için hep bir merkezi otoriteye (merkez bankaları ya da bankalar) ihtiyaç duyuldu. İnsanların güven duyacağı birilerinin kontrol etmesi lazım bunu - normal. Öbür türlü dijital bir nesneyi sonsuz olarak üretebilirsiniz, gerçekten size me ait nereden bileceksiniz, yabancıların sözlerine nasıl güveneceksiniz. Olmaz. 
+
+İşte tam bu sırada 90'ların sonunda Satoshi Nakamoto dediğimiz kişi(ler) bu iki konuyu yani şifreleme ile para transferi teknolojisini birleştirdi ve tek bir otoriteye bağlı kalmaksızın o güvenin yerini makinelerin aldığı bir yapı oluşturarak adeta bir devrim yarattı. Zira bu aradaki banka gibi kurumlara olan ihtiyaç neredeyse sıfıra indi - çünkü artık bu sisteme her giren makine bir banka!
+
+Tekrar edelim para örneğini hep konuşulduğu için verdik. Konu sadece para ile sınırlı değil. Bu her tür dijital varlık olabilir örneğin noterlerde saklanan bilgi, bir dijital sanat eseri gibi. Bana ait olan, başkasının üzerinde hak iddia edemeyeceği, dijital olarak saklanabilen, istediğimde başka birine dijital olarak kısa sürede transfer edebileceğim her tür nesne. 
 
 Şifreleme Blockchain'in temelini oluşturuyor, çünkü Blockchain dağınık bir sistemde çalışıyor, yani bilgi binlerce farklı, birbiri ile ilintili ama birbirini tanımayan makinede üzerinde bulunuyor. Dağınık sistemlerin kontrolü olmadığı için bilginin düzgün ve değiştirilmemiş olması son derece hayati - bunu sağlayan da şifreleme sistemi. Yani şifreleme sayesinde herhangi bir bilgi Blockchain üzerindeki her parça üzerinde hem aynı şekilde tutarlı hem de gizli olarak tutulabiliyor. Şifreleme teknik ve karmaşık görünse de onu daha iyi anlamak bize günlük hayatımızda Blockchain teknolojisini nasıl daha verimli olarak kullanırız konusunda farklı ipuçları da verebilir.  
 
@@ -18,10 +28,10 @@ Tam bu sırada Satoshi Nakamoto dediğimiz kişi(ler) bu iki konuyu yani şifrel
 
 Konuya öncelikle iki farklı noktadan bakmak gerekiyor. 
 
-1. Birincisi, benim (ve diğer herkesin) tarafımdan sisteme girilen dataların gerçekten benim tarafımdan girildiğinin (orjinal/otantik olduğunun) teyit edilmesi. Ki bu **şifreleme** (encryption/decryption) sayesinde başarılıyor. 
-2. İkincisi ise, bütün bu değişik kişllerden gelen bilgilerin kayıt edildikten sonra bir daha değiştirilemez biçimde kaydedilmesi ve üstü üste (ya da arka arkaya) dizilmesi. Böylece herkeste aynı bilgilerin olması. Ki bu da **öğütme** (hashing) sayesinde başarılıyor. 
+1. Birincisi, benim (ve diğer herkesin) verdiği bilgilerin gerçekten bana ait olduğunun (orjinal/otantik olduğunun) teyit edilmesi. Ama bir taraftan da bu bilgilerin bir kısmının gizli tutulması (benim hakkımdaki her bilginin herkes tarafından bilinmesini istemem). İşte bu **şifreleme** (encryption/decryption) sayesinde başarılıyor. 
+2. İkincisi ise, bütün bu değişik kişllerden gelen bilgilerin kayıt edildikten sonra bir daha değiştirilemez biçimde kaydedilmesi ve üstü üste (ya da arka arkaya) dizilmesi. Yani herkeste aynı bilgilerin olması. Herkeste aynı bilgi olursa kimse "eyvah kandırılıyor muyum?" kaygısı yaşamaz, gece evinde rahat uyur. İşte bu da **öğütme** (hashing) sayesinde başarılıyor. 
 
-Dolayısıyla biz de önce bir şifreleyelim ve nasıl olduğuna bakalım, sonra da bunu öğütürüz.. 
+Şimdi dilerseniz gelin önce bir şifreleyelim ve nasıl olduğuna bakalım, sonra da bunu öğütürüz.. 
 
 
 ### Şifrelemeli mi, şifrelememeli mi?
