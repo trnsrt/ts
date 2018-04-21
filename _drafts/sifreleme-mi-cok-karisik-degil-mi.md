@@ -14,6 +14,16 @@ Tam bu sırada Satoshi Nakamoto dediğimiz kişi(ler) bu iki konuyu yani şifrel
 Şifreleme Blockchain'in temelini oluşturuyor, çünkü Blockchain dağınık bir sistemde çalışıyor, yani bilgi binlerce farklı, birbiri ile ilintili ama birbirini tanımayan makinede üzerinde bulunuyor. Dağınık sistemlerin kontrolü olmadığı için bilginin düzgün ve değiştirilmemiş olması son derece hayati - bunu sağlayan da şifreleme sistemi. Yani şifreleme sayesinde herhangi bir bilgi Blockchain üzerindeki her parça üzerinde hem aynı şekilde tutarlı hem de gizli olarak tutulabiliyor. Şifreleme teknik ve karmaşık görünse de onu daha iyi anlamak bize günlük hayatımızda Blockchain teknolojisini nasıl daha verimli olarak kullanırız konusunda farklı ipuçları da verebilir.  
 
 
+### İki ana fark
+
+Konuya öncelikle iki farklı noktadan bakmak gerekiyor. 
+
+1. Birincisi, benim (ve diğer herkesin) tarafımdan sisteme girilen dataların gerçekten benim tarafımdan girildiğinin (orjinal/otantik olduğunun) teyit edilmesi. Ki bu **şifreleme** (encryption/decryption) sayesinde başarılıyor. 
+2. İkincisi ise, bütün bu değişik kişllerden gelen bilgilerin kayıt edildikten sonra bir daha değiştirilemez biçimde kaydedilmesi ve üstü üste (ya da arka arkaya) dizilmesi. Böylece herkeste aynı bilgilerin olması. Ki bu da **öğütme** (hashing) sayesinde başarılıyor. 
+
+Dolayısıyla biz de önce bir şifreleyelim ve nasıl olduğuna bakalım, sonra da bunu öğütürüz.. 
+
+
 ### Şifrelemeli mi, şifrelememeli mi?
 
 En basitinden başlayalım. Şifreleme bir nevi kilitleme demek. Diyelim bir mesajınız var. Bu mesajınız "Merhaba" olsun. Şifreleme dediğimiz, bir anahtar düşünün, bu anahtar sizin mesajınızı alıyor ve şifreleyip yerine rastgele sayı ve harflerden oluşan bir sözcük dizisi veriyor. 
@@ -34,8 +44,66 @@ Ya karşı taraf bu anahtarı başka birine daha verirse? O zaman ne olacak? Ben
 İşte bu "mesajı kim yazdı, kimler okudu sorununu çözmek için" 1976 yılında yeni bir şifreleme yöntemi ortaya atılmış. "Özel anahtar" ve " Genel Anahtar" kavramları çıkmış.  
 
 
+### "Özel Anahtar" ve "Genel Anahtar"
 
-Kapalı bir kutu (belki de bir kağıt öğütücü) düşünün. Bir taraftan anlamlı bir sözcük veriyorsunuz, diğer taraftan rakam ve sayılardan oluşan anlamsız rastgele bir sayı/harf dizisi veriyor.  İşte buna şifreleme deniyor. 
+Şifreleme yapabilmek için gerekli olan önemli bir parçaya geldi sıra: "Özel Anahtar" ve "Genel Anahtar". Sizin, benim ve herkesin yaratabileceği her bireyin kendine ait bir "Özel Anahtar" bir de "Genel Anahtar" var. Bunu bir nevi Şifreleme Mekanizmasını çalıştırmak için bana gerekli olan anahtarlar olarak da hayal edebilirsiniz. 
+
+Özel Anahtar ve Genel Anahtarı bana ait birbirlerinin aynı olan iki anahtar gibi düşünebiliriz. Aradaki tek fark, Özel Anahtarın  sadece benim bildiğim (hiç kimse ile paylaşmadığım) bir anahtar. Genel Anahtar ise yine bana ait, ama herkes ile paylaştığım tüm dünyanın görebileceği bir anahtar olması. İlişkileri ise şu: Bemim Özel Anahtarım ile kapadığım kapıyı (şifrelediğim mesajı) Genel Anahtarı bilen herkes açabiliyor (şifreyi açıp mesajı görebiliyor).   
+
+Yukarıda dedik Şifreleme Mekanizması'nın sonucu bilirseniz girdiyi bulamıyorsunuz. Peki
+
+Dilerseniz bir örnek ile anlatalım: Tüm dünya ile paylaşmak istediğim bir mesaj var. Örneğin "Yarın New York'a gideceğim!". İki önemli ihtiyacım var: 1. Bu bilginin benden geldiğinin bilinmesi (otantik olması) 2. Mesajın içeriğinin herkese doğru ulaşması (yolda bir başkası tarafından değiştirilememesi). 
+
+Eğer ben  "Yarın New York'a gideceğim" yazısını kendi Özel Anahtarım ile karıştırıp dünyaya yayınlarsam (yani şifrelersem), çıkan sonuca bakan biri, benim Genel Anahtarımı alıp bu ortaya çıkan şifreli sonucu ile birleştirirse (yani şifreyi çözerse) sonuçta benim tarafımdan gelen, benim imzaladığım mesajı görür.  
+
+
+&nbsp;
+
+| ![ozel-genel-anahtar-vertical.png](/assets/ozel-genel-anahtar-vertical.png) | 
+|:--:| 
+
+
+&nbsp;
+
+Peki bunu tüm dünyaya değil de sadece arkadaşıma göndermek istersem? O zaman? Burada birkaç koşulun doğru olduğuna emin olmamız gerekiyor
+- Ben bilgiyi yazarken bu bilgiyi sadece sizin okuyabileceğine emin olmam gerekiyor
+- Siz, bu bilginin benden geldiğine emin olmak istiyorsunuz
+- Aynı zamanda hem ben hem siz bu bilginin benden size gelirken yolda değiştirilmemiş olduğuna emin olmamız gerekiyor
+
+&nbsp;
+
+| ![ozel-genel-anahtar-iki-kisi-vertical.png](/assets/ozel-genel-anahtar-iki-kisi-vertical.png) | 
+|:--:| 
+
+
+&nbsp;
+
+
+Bunu bir örnek üzerinden anlatmaya çalışalım: 
+
+Diyelim yukarıdaki gibi bir bilgiyi e-posta olarak gönderiyorsunuz. İlk olarak ne yapıyorum? Kendi e-postama giriyor ve sizin email'inizi yazıyorum, sonra mesaji yazıyorum ve gönder tuşuna basıyorum. Aynı olayı yukarıdaki gibi şifreleme işlemine tabi tutalım. Yaptığım işler şu şekilde: 
+
+1. Mesajı yazıyorum. Şimdi bu mesajı bana ait sadece benim bildiğim "Özel Anahtar" ile birleştiriyorum. Ortaya bir sonuç çıkıyor. 
+2. Bu sonuç Benzer şekilde burada da, "Genel Anahtar" benim email adresim, "Özel Anahtar" da bu mesajı yazanın ben olduğunu gösteren bana ait "Dijital İmza".  
+
+
+
+
+
+
+
+
+
+
+
+
+
+Peki çok güzel yukarıda yazılanlar sayesinde, bu mesajın benim tarafımdan gönderildiğini tüm dünya görmüş oldu. Harika. Ya yarın öbür gün ben bu mesajı değiştirmek istersem? Kusura bakmayın mümkün değil, çünkü mesajınız alındı, güzel bir şekilde öğütüldü ve tüm sistemdeki makineler üzerinde aynı şekilde tutulmaya başladı. Nasıl mı? Anlatalım: 
+
+
+### Değirmen gibi öğütelim.. 
+
+Kapalı bir kutu (belki de bir kağıt öğütücü) düşünün. Bir taraftan anlamlı bir sözcük veriyorsunuz, diğer taraftan rakam ve sayılardan oluşan anlamsız rastgele bir sayı/harf dizisi veriyor.  İşte buna öğütme deniyor. 
 
 Bir örnek yapalım dilerseniz: 
 
@@ -87,49 +155,6 @@ Bu arada şunu da belirtmekte fayda var. Bu şifreleme mekanizmalarının özell
 Bilginin tutarlı olduğunu bilmek ne işimize yarıyor? Yukarıda yazdığımız gibi bilgiyi dağıtıp tek bir noktada tutmadığınızda dağınık duran herkeste aynı bilginin olması, bilginin doğruluğu kişilerin bu bilgiye olan güvenini sağlayan en önemli etken. Öbür türlü kırk kişide kırk bilgi olursa ona dedikodu denir, kimse de beş kuruş değer vermez. 
 
 
-
-
-### "Özel Anahtar" ve "Genel Anahtar"
-
-Şifreleme yapabilmek için gerekli olan önemli bir parçaya geldi sıra: "Özel Anahtar" ve "Genel Anahtar". Sizin, benim ve herkesin yaratabileceği her bireyin kendine ait bir "Özel Anahtar" bir de "Genel Anahtar" var. Bunu bir nevi Şifreleme Mekanizmasını çalıştırmak için bana gerekli olan anahtarlar olarak da hayal edebilirsiniz. 
-
-Özel Anahtar ve Genel Anahtarı bana ait birbirlerinin aynı olan iki anahtar gibi düşünebiliriz. Aradaki tek fark, Özel Anahtarın  sadece benim bildiğim (hiç kimse ile paylaşmadığım) bir anahtar. Genel Anahtar ise yine bana ait, ama herkes ile paylaştığım tüm dünyanın görebileceği bir anahtar olması. İlişkileri ise şu: Bemim Özel Anahtarım ile kapadığım kapıyı (şifrelediğim mesajı) Genel Anahtarı bilen herkes açabiliyor (şifreyi açıp mesajı görebiliyor).   
-
-Yukarıda dedik Şifreleme Mekanizması'nın sonucu bilirseniz girdiyi bulamıyorsunuz. Peki
-
-Dilerseniz bir örnek ile anlatalım: Tüm dünya ile paylaşmak istediğim bir mesaj var. Örneğin "Yarın New York'a gideceğim!". İki önemli ihtiyacım var: 1. Bu bilginin benden geldiğinin bilinmesi (otantik olması) 2. Mesajın içeriğinin herkese doğru ulaşması (yolda bir başkası tarafından değiştirilememesi). 
-
-Eğer ben  "Yarın New York'a gideceğim" yazısını kendi Özel Anahtarım ile karıştırıp dünyaya yayınlarsam (yani şifrelersem), çıkan sonuca bakan biri, benim Genel Anahtarımı alıp bu ortaya çıkan şifreli sonucu ile birleştirirse (yani şifreyi çözerse) sonuçta benim tarafımdan gelen, benim imzaladığım mesajı görür.  
-
-
-&nbsp;
-
-| ![ozel-genel-anahtar-vertical.png](/assets/ozel-genel-anahtar-vertical.png) | 
-|:--:| 
-
-
-&nbsp;
-
-Peki bunu tüm dünyaya değil de sadece arkadaşıma göndermek istersem? O zaman? Burada birkaç koşulun doğru olduğuna emin olmamız gerekiyor
-- Ben bilgiyi yazarken bu bilgiyi sadece sizin okuyabileceğine emin olmam gerekiyor
-- Siz, bu bilginin benden geldiğine emin olmak istiyorsunuz
-- Aynı zamanda hem ben hem siz bu bilginin benden size gelirken yolda değiştirilmemiş olduğuna emin olmamız gerekiyor
-
-&nbsp;
-
-| ![ozel-genel-anahtar-iki-kisi-vertical.png](/assets/ozel-genel-anahtar-iki-kisi-vertical.png) | 
-|:--:| 
-
-
-&nbsp;
-
-
-Bunu bir örnek üzerinden anlatmaya çalışalım: 
-
-Diyelim yukarıdaki gibi bir bilgiyi e-posta olarak gönderiyorsunuz. İlk olarak ne yapıyorum? Kendi e-postama giriyor ve sizin email'inizi yazıyorum, sonra mesaji yazıyorum ve gönder tuşuna basıyorum. Aynı olayı yukarıdaki gibi şifreleme işlemine tabi tutalım. Yaptığım işler şu şekilde: 
-
-1. Mesajı yazıyorum. Şimdi bu mesajı bana ait sadece benim bildiğim "Özel Anahtar" ile birleştiriyorum. Ortaya bir sonuç çıkıyor. 
-2. Bu sonuç Benzer şekilde burada da, "Genel Anahtar" benim email adresim, "Özel Anahtar" da bu mesajı yazanın ben olduğunu gösteren bana ait "Dijital İmza".  
 
 
 ### Peki Bitcoin şifrelemesi nasıl çalışıyor?
