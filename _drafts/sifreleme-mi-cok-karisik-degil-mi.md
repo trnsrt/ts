@@ -40,7 +40,7 @@ En basitinden başlayalım. Şifreleme bir nevi kilitleme demek. Diyelim bir mes
 
 &nbsp;
 
-| ![sifreleme-mekanizmasi-simetrik.png](/assets/sifreleme-mekanizmasi-simetrik.png) | 
+| ![sifreleme-mekanizmasi-simetrik-v2.png](/assets/sifreleme-mekanizmasi-simetrik-v2.png) | 
 |:--:| 
 | *Basit (simetrik) Şifreleme* |
 
