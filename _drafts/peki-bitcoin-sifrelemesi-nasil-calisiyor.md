@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "Peki Bitcoin şifrelemesi nasıl çalışıyor?"
+date:   2018-04-26 16:25:45 +0300
+categories: Genel
+---
+
+
+
+
 ### Peki Bitcoin şifrelemesi nasıl çalışıyor?
 
 Bitcoin (ve diğer benzer Blockchain sistemleri) yukarıda yazdığımız her iki durumu (şifreleme ve öğütme) kullanarak kendi sistemlerinin otomatik güvenli hale getiriyorlar (ya da tek bir kişiye duyulan güven ihtiyacını sıfıra indiriyorlar). 
