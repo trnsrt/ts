@@ -67,7 +67,7 @@ Yine yukarıdaki anahtar-kilit örneğinden devam edelim. Demiştik ki iki ana p
 
 | ![ozel-genel-anahtar-800.png](/assets/ozel-genel-anahtar-800.png) | 
 |:--:| 
-| *Basit (simetrik) Şifreleme* |
+| *Özel ve Genel Anahtarlar* |
 
 &nbsp;
 
@@ -77,7 +77,7 @@ Yine yukarıdaki anahtar-kilit örneğinden devam edelim. Demiştik ki iki ana p
 
 | ![sifreleme-mekanizmasi.png](/assets/sifreleme-mekanizmasi.png) | 
 |:--:| 
-| *Basit (simetrik) Şifreleme* |
+| *Şifreleme Mekanizması* |
 
 &nbsp;
 
