@@ -62,6 +62,17 @@ Yine yukarıdaki anahtar-kilit örneğinden devam edelim. Demiştik ki iki ana p
 
 İşte bu iki anahtardan bana ait olana "Özel Anahtar", herkese verdiğime de "Genel Anahtar" deniyor. 
 
+
+&nbsp;
+
+| ![ozel-genel-anahtar-800.png](/assets/ozel-genel-anahtar-800.png) | 
+|:--:| 
+| *Basit (simetrik) Şifreleme* |
+
+&nbsp;
+
+Özel Anahtar ve Genel Anahtarı bana ait birbirlerinin aynı olan iki anahtar gibi düşünebiliriz. Aradaki tek fark, Özel Anahtarın  sadece benim bildiğim (hiç kimse ile paylaşmadığım) bir anahtar. Genel Anahtar ise yine bana ait, ama herkes ile paylaştığım tüm dünyanın görebileceği bir anahtar olması. İlişkileri ise şu: Bemim Özel Anahtarım ile kapadığım kapıyı (şifrelediğim mesajı) Genel Anahtarı bilen herkes açabiliyor (şifreyi açıp mesajı görebiliyor).   
+
 &nbsp;
 
 | ![sifreleme-mekanizmasi.png](/assets/sifreleme-mekanizmasi.png) | 
@@ -69,8 +80,6 @@ Yine yukarıdaki anahtar-kilit örneğinden devam edelim. Demiştik ki iki ana p
 | *Basit (simetrik) Şifreleme* |
 
 &nbsp;
-
-Özel Anahtar ve Genel Anahtarı bana ait birbirlerinin aynı olan iki anahtar gibi düşünebiliriz. Aradaki tek fark, Özel Anahtarın  sadece benim bildiğim (hiç kimse ile paylaşmadığım) bir anahtar. Genel Anahtar ise yine bana ait, ama herkes ile paylaştığım tüm dünyanın görebileceği bir anahtar olması. İlişkileri ise şu: Bemim Özel Anahtarım ile kapadığım kapıyı (şifrelediğim mesajı) Genel Anahtarı bilen herkes açabiliyor (şifreyi açıp mesajı görebiliyor).   
 
 İşte yukarıdaki ilk sorunu çözdük. Mesajın benden geldiğini herkes gördü. Şimdi ikinci soruna ve çözümü olan öğütme (hashing) kısmına geçelim. 
 
