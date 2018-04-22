@@ -89,7 +89,7 @@ Bir örnek yapalım dilerseniz:
 
 | ![ogutme-mekanizmasi.png](/assets/ogutme-mekanizmasi.png) | 
 |:--:| 
-| *Şifreleme Mekanizması* |
+| *Öğütme Mekanizması* |
 
 &nbsp;
 
