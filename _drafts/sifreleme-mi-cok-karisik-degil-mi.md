@@ -117,7 +117,7 @@ Gördünüz mü? Herşey değişti. Bir harf ekledik ama ilk kelimeden tamamen f
 
 Bu önemli, o yüzden biraz daha açalım. Aynı girdiler hep aynı sonucu veriyor. Ama girdi de bir harf bile değiştirin, çıkan sonuç bambaşka oluyor.  Bu ne işe yarıyor? Bu girilen bilginin orjinal ya da otantik (değiştirilmemiş) olup olmadığını anlamamıza yarıyor. Eğer elinizde bir bilgi ve bu bilgi sonucu ortaya çıkan şifreli bir sonuç da varsa, bu girdi hakikaten bu sonucu mu veriyor test edebiliyorsunuz. Girin ilk bilgiyi şifrelemeye aynı sonucu bulacaksınız. 
 
-Bu arada şunu da belirtmekte fayda var. Bu şifreleme mekanizmalarının özelliği şu:; sonucu biliyor olmanız girdiyi de bildiğiniz anlamına gelmiyor. Yani, girdiyi biliyorsanız sonucu bulabiliyorsunuz ama sonuçtan geriye bilgiye gidemiyorsunuz. Yani,  öğütücüden geçmiş kağıtlara (ya da una, artık ne geçiriyorsunuz) bakarak kağıtta ne yazıyordu okuyamıyorsunuz. Ancak kağıdın orjinali varsa elinizde onu öğütücüden geçirip aynı şekilde önceki gibi bir bulamaç elde edebiliyorsunuz.
+Bu arada şunu da belirtmekte fayda var. Bu şifreleme mekanizmalarının özelliği şu: sonucu biliyor olmanız girdiyi de bildiğiniz anlamına gelmiyor. Yani, girdiyi biliyorsanız sonucu bulabiliyorsunuz ama sonuçtan geriye bilgiye gidemiyorsunuz. Yani,  öğütücüden geçmiş kağıtlara (ya da una, artık ne geçiriyorsunuz) bakarak kağıtta ne yazıyordu okuyamıyorsunuz. Ancak kağıdın orjinali varsa elinizde onu öğütücüden geçirip aynı şekilde önceki gibi bir bulamaç elde edebiliyorsunuz.
 
 --
 
