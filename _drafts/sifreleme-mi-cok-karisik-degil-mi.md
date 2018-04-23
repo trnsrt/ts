@@ -96,7 +96,7 @@ Bir örnek yapalım dilerseniz:
 
 &nbsp;
 
-| ![ogutme-mekanizmasi.png](/assets/ogutme-mekanizmasi.png) | 
+| ![ogutme-mekanizmasi2.png](/assets/ogutme-mekanizmasi2.png) | 
 |:--:| 
 | *Öğütme Mekanizması* |
 
