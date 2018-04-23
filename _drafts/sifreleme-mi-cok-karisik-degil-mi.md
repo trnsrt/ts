@@ -36,7 +36,7 @@ Konuya öncelikle iki farklı noktadan bakmak gerekiyor.
 
 ### Şifrelemeli mi, şifrelememeli mi? Önce şifreleyelim.. 
 
-En basitinden başlayalım. Şifreleme bir nevi kilitleme demek. Diyelim bir mesajınız var. Bu mesajınız "Nasılsın?" olsun. Şifreleme dediğimiz, bir anahtar ve kilit düşünün, bu anahtar sizin mesajınızı alıyor ve kilidin içine koyup kilitliyor. 
+En basitinden başlayalım. Şifreleme bir nevi kilitleme demek. Diyelim bir mesajınız var. Şifreleme dediğimiz, bir anahtar ve kilit düşünün, bu anahtar sizin mesajınızı alıyor ve kilidin içine koyup kilitliyor. 
 
 &nbsp;
 
