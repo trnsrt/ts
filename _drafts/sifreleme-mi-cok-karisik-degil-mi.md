@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Şifreleme mi? Çok karışık değil mi?"
-date:   2018-04-04 14:25:15 +0300
+date:   2018-04-25 14:25:15 +0300
 categories: Genel
 ---
 
