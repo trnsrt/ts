@@ -27,7 +27,7 @@ Bir örnek yapalım dilerseniz:
 
 &nbsp;
 
-| ![ogutme-mekanizmasi.png](/assets/ogutme-mekanizmasi-v3.png) | 
+| ![ogutme-mekanizmasi.png](/assets/ogutme-mekanizmasi-v4.png) | 
 |:--:| 
 | *Öğütme Mekanizması* |
 
