@@ -25,7 +25,7 @@ Tekrar edelim: Para örneğini hep konuşulduğu için verdik. Konu sadece para 
 
 ### Sonuç ve "az sonra"...
 
-Yukarıda bahsettiğimiz hem tüm hesap bakiyeleri ve transferler açık olacak hem de hesap sahiplerine ait özel bilgiler gizli kalacak nasıl oluyor dediğimizde bu ***şifreleme** sayesinde. 
+Yukarıda bahsettiğimiz hem tüm hesap bakiyeleri ve transferler açık olacak hem de hesap sahiplerine ait özel bilgiler gizli kalacak nasıl oluyor dediğimizde bu **şifreleme** sayesinde. 
 
 Şifreleme Blockchain'in temelini oluşturuyor, çünkü Blockchain dağınık bir sistemde çalışıyor, yani bilgi binlerce farklı, birbiri ile ilintili ama birbirini tanımayan makine üzerinde bulunuyor. Dağınık sistemlerin kontrolü olmadığı için bilginin düzgün ve değiştirilmemiş olması son derece önemli - bunu sağlayan da şifreleme sistemi. Yani şifreleme sayesinde herhangi bir bilgi Blockchain üzerindeki her nokta üzerinde hem aynı şekilde tutarlı hem de gizli olarak tutulabiliyor. 
 
