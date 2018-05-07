@@ -63,7 +63,21 @@ Sistem söyle çalışıyor.
 
 ![transaction1-v1.png](/assets/transaction1-v1.png)
 
-yok olmadı "370ff8b0.." ile başlayan bir output verdi. Sonra 2 ekliyor, yine bakıyor bu sefer "58ed8d94.." diye başlayan bir sayı verdi.. Böyle böyle sırayla tüm sayılar deneniyor. Ta ki bir sayı (diyelim "25264") bize "0000..." ile başlayan bir sonuç verene kadar!
+yok olmadı "370ff8b0.." ile başlayan bir output verdi. 
+
+Sonra 2 ekliyor, yine bakıyor:
+
+
+![transaction2-v1.png](/assets/transaction2-v1.png)
+
+
+bu sefer "58ed8d94.." diye başlayan bir sayı verdi.. Yine olmadı.. 
+
+Böyle böyle sırayla tüm sayılar deneniyor. Ta ki bir sayı (diyelim "25264") bize "0000..." ile başlayan bir sonuç verene kadar!
+
+![transaction3-v1.png](/assets/transaction3-v1.png)
+
+
 4. "0000.." ile başlayan sonucu ilk bulan makine "Buldum!" diyerek bu sonuca ulaştıran sayıyı "25264" diğer makinelere haber veriyor. 
 5. Sonucu gören makineler, işlem dökümünü 25264 sayısı ile birlikte şifreye sokuyorlar, bakıyorlar hakikaten çıkan sonuç "0000.." ile başlıyor, "Tamam" diyorlar, "Sonuç doğru" ve bir sonraki 10 dakika için yapılan işlemlere geçiyorlar. 
 6. 25264 rakamını bulan makine işte bu ödülü (şu anda 12.5 Bitcoin yani 100,000 ABD Doları civari bir rakam) kazanıyor!
