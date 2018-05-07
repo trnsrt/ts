@@ -54,7 +54,7 @@ Output ise yukarıdaki gibi 64 karakterli bir şifre.
 Sistem söyle çalışıyor. 
 1. Her 10 dakikada bir Bitcoin ile yapılan bütün işlemler toplanıyor biraraya ve makinelere gönderiliyor
 
-![transactions.png](/assets/transactions.png)
+![transactions-v2.png](/assets/transactions-v2.png)
 
 
 2. Sonra sistem bütün makinelere şunu söylüyor: *"Ey makineler, işlemlerin toplam [dökümü](https://blockchain.info/block/0000000000000000001c2fa26ad4d4850fe94e688cfccf812c4fbe6d245761eb) elinize geçti, şimdi bu işlem dökümünü alın yanına öyle bir sayı ekleyin ki, öğütmeye koyduğunuzda çıkan çıktı (output) dört tane sıfır ile başlasın"*
