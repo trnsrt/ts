@@ -37,7 +37,7 @@ Yukarıdaki işlemi yazarken aslında iki küçük ekleme yapıyorum işleme. Bi
 
 Eğer Ayşe bu parayı bir gün Mehmet'e göndermek isterse, benzer şekilde kendi Özel Anahtarı'nı kullandığında sistem bakacak "Hah tamam bu para zamanından Ayşe'nin Genel Anahtarı kullanılarak gönderilmişti, yani Ayşe'nin malı, şimdi Ayşe Özel Anahtarını kullanarak bu malın kendi sahipliğini ve Mehmet'in Genel Anahtarını kullanarak bu sahipliği Mehmet'e geçirdiğini söylüyor, o zaman yapalım bu transferi" diyecek. 
 
-Şimdiye kadar (2009 yılındaki başlangıcından beri) Bitcoin üzerinde yapılmış bütün transferler kayıtlı ve yukarıdaki gibi görülebiliyor. Yani aslında işlemlerin hepsi şeffaf - hem de en başına kadar. Yani Ayşe'ye gönderdiğim parayı da ben birinden aldım. Bu kişi de bir başkasından. Böyle böyle 2009 yılına kadar gidebilirsiniz. Peki ya en başında ne olmuştu? Bu kadar Bitcoin nasıl çıktı ortaya. Şimdi ona da bakalım: 
+Şimdiye kadar (2009 yılındaki başlangıcından beri) Bitcoin üzerinde yapılmış bütün transferler kayıtlı ve yukarıdaki gibi görülebiliyor. Yani aslında işlemlerin hepsi şeffaf - hem de en başına kadar. Yani Ayşe'ye gönderdiğim parayı da ben birinden aldım. Bu kişi de bir başkasından. Böyle böyle 2009 yılına kadar gidebilirsiniz. Peki ya en başında ne olmuştu? Bu kadar Bitcoin nasıl çıktı ortaya? Şimdi ona da bakalım: 
 
 #### Öğüt ki, sonsuza kadar kaydedilsin
 
@@ -82,7 +82,7 @@ Böyle böyle sırayla tüm sayılar deneniyor. Ta ki bir sayı (diyelim "25264"
 5. Sonucu gören makineler, işlem dökümünü 25264 sayısı ile birlikte şifreye sokuyorlar, bakıyorlar hakikaten çıkan sonuç "0000.." ile başlıyor, "Tamam" diyorlar, "Sonuç doğru" ve bir sonraki 10 dakika için yapılan işlemlere geçiyorlar. 
 6. 25264 rakamını bulan makine işte bu ödülü (şu anda 12.5 Bitcoin yani 100,000 ABD Doları civari bir rakam) kazanıyor!
 
-İşte bu kadar. Yukarıdaki süreç her 10 dakikada bir tekrar ediyor ve her 10 dakikada bir 12.5 Bitcoin yaratılarak sisteme sokuluyor. Şu ana kadar (Nisan 2017 itibariyle) 17 Milyon Bitcoin yaratıldı. Önümüzdeki 100 yıl boyunca yaklaşık 4 milyon Bitcoin daha yaratılacak bu sistemle. 
+İşte bu kadar. Yukarıdaki süreç her 10 dakikada bir tekrar ediyor ve her 10 dakikada bir 12.5 Bitcoin yaratılarak, sonucu bulan makineye veriliyor yani sisteme sokuluyor (buna İngilizce "mining" deniyor). İşte yukarıda bahsettiğimiz birbirimize transfer edilen Bitcoin'ler bu şekide yaratılıyor. Şu ana kadar (Nisan 2017 itibariyle) 17 Milyon Bitcoin yaratıldı. Önümüzdeki 100 yıl boyunca yaklaşık 4 milyon Bitcoin daha girecek sisteme ve orada 21 Milyon'da duracak piyasadaki miktar. 
 
 Nasıl oldu da 9 yılda 17 Milyon yaratılırken bundan sonraki 100 yılda 4 Milyon'a düşecek derseniz, Bitcoin yaratıcıları para enflasyona yenik düşmesin diye her dört yılda bir verilen ödülü yarıya düşürüyorlar. İlk dört yıl 10 dakikada bir 50 Bitcoin verilirken, sonra bu 25'e düştü, şu an 12.5'da, 2021'de 6.25'e inecek. 
 
