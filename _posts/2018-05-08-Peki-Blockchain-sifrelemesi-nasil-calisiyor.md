@@ -55,7 +55,9 @@ Sistem söyle çalışıyor.
 1. Her 10 dakikada bir Bitcoin ile yapılan bütün işlemler bir araya toplanıyor ve makinelere gönderiliyor
 ![transactions-v3.png](/assets/transactions-v3.png)
 
+
 2. Sonra sistem bütün makinelere şunu söylüyor: *"Ey makineler, işlemlerin toplam [dökümü](https://blockchain.info/block/0000000000000000001c2fa26ad4d4850fe94e688cfccf812c4fbe6d245761eb) elinize geçti, şimdi bu işlem dökümünü alın yanına öyle bir sayı ekleyin ki, öğütmeye koyduğunuzda çıkan çıktı (output) beş tane sıfır ile başlasın"*
+
 
 3. Makineler bu çıktıyı alıyor ve sırayla rakamları denemeye başlıyorlar. Önce 1 ekliyor, çıkan sonuca bakıyor, 
 ![transaction1-v1.png](/assets/transaction1-v1.png)
@@ -66,9 +68,13 @@ bu sefer "58ed8d94..." diye başlayan bir sayı verdi... Yine olmadı...
 Böyle böyle sırayla tüm sayılar deneniyor. Ta ki bir sayı (diyelim "25264") bize "00000..." ile başlayan bir sonuç verene kadar!
 ![transaction3-v1.png](/assets/transaction3-v1.png)
 
+
 4. "00000..." ile başlayan sonucu ilk bulan makine "Buldum!" diyerek bu sonuca ulaştıran sayıyı ("25264") diğer makinelere haber veriyor. 
 
+
 5. Sonucu gören makineler, işlem dökümünü 25264 sayısı ile birlikte şifreye sokuyorlar, bakıyorlar hakikaten çıkan sonuç "00000..." ile başlıyor, "Tamam" diyorlar, "Sonuç doğru" ve bir sonraki 10 dakika için yapılan işlemlere geçiyorlar. 
+
+
 6. 25264 rakamını bulan makine işte bu ödülü (şu anda 12.5 Bitcoin yani 100,000 ABD Doları civari bir rakam) kazanıyor!
 
 İşte bu kadar. Yukarıda anlatılanları görsel olarak izlemek isterseniz, aşağıdaki İngilizce videoyu hararetle tavsiye ederim. Aklınıza yatmayan her konu basit bir şekilde özetlenmiş. 
