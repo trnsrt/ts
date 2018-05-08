@@ -5,7 +5,7 @@ date:   2018-05-08 12:39:45 +0300
 categories: Genel
 ---
 
-Önceki iki yazımızda, önce merkezi olmayan sistemlerin çalışmasında temel unsur olan ["şifreleme"'nin neden önemli olduğunu](http://ademimerkezi.com/genel/2018/04/25/sifreleme-ne-demek-neden-onemli.html), sonra da Şifreleme'nin temel taşları olan [Öğütme (hashing), Özel Anahtar, Genel Anahtar, Şifreleme (Encryption)](http://ademimerkezi.com/genel/2018/04/26/sifreleme-mi-cok-karisik-degil-mi.html)'ye daha detaylı bakmıştık. 
+Önceki iki yazımızda, önce merkezi olmayan sistemlerin çalışmasında temel unsur olan ["şifreleme"'nin neden önemli olduğuna](http://ademimerkezi.com/genel/2018/04/25/sifreleme-ne-demek-neden-onemli.html), sonra da Şifreleme'nin temel taşları olan [Öğütme (hashing), Özel Anahtar, Genel Anahtar, Şifreleme (Encryption)](http://ademimerkezi.com/genel/2018/04/26/sifreleme-mi-cok-karisik-degil-mi.html)'ye daha detaylı bakmıştık. 
 
 Şimdi de dilerseniz, bütün bu kavramlar Blockchain içerisinde nasıl hayata geçirilmiş ona bakalım. Bir nevi Blockchain'in sırrını çözelim :) 
 
