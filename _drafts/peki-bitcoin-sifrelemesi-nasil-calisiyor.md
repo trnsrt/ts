@@ -89,6 +89,7 @@ Böyle böyle sırayla tüm sayılar deneniyor. Ta ki bir sayı (diyelim "25264"
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_160oMzblY8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+&nbsp;
 
 Yukarıdaki süreç her 10 dakikada bir tekrar ediyor ve her 10 dakikada bir 12.5 Bitcoin yaratılarak, sonucu bulan makineye veriliyor yani sisteme sokuluyor (buna İngilizce "mining" deniyor). İşte yukarıda bahsettiğimiz birbirimize transfer edilen Bitcoin'ler bu şekide yaratılıyor. Şu ana kadar (Nisan 2017 itibariyle) 17 Milyon Bitcoin yaratıldı. Önümüzdeki 100 yıl boyunca yaklaşık 4 milyon Bitcoin daha girecek sisteme ve orada 21 Milyon'da duracak piyasadaki miktar. 
 
