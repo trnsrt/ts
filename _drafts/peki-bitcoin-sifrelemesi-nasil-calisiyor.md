@@ -1,22 +1,22 @@
 ---
 layout: post
-title:  "Peki Bitcoin şifrelemesi nasıl çalışıyor?"
+title:  "Peki Blockhain şifrelemesi nasıl çalışıyor?"
 date:   2018-04-26 16:25:45 +0300
 categories: Genel
 ---
 
 Önceki iki yazımızda, önce merkezi olmayan sistemlerin çalışmasında temel unsur olan [**"şifreleme"**'nin neden önemli olduğunu](http://ademimerkezi.com/genel/2018/04/25/sifreleme-ne-demek-neden-onemli.html), sonra da Şifreleme'nin temel taşları olan [Öğütme (hashing), Özel Anahtar, Genel Anahtar, Şifreleme (Encryption)](http://ademimerkezi.com/genel/2018/04/26/sifreleme-mi-cok-karisik-degil-mi.html)'ye daha detaylı bakmıştık. 
 
-Şimdi de dilerseniz, bütün bu kavramlar Bitcoin içerisinde nasıl hayata geçirilmiş ona bakalım. Bir nevi Bitcoin'in sırrını çözelim :) 
+Şimdi de dilerseniz, bütün bu kavramlar Blockchain içerisinde nasıl hayata geçirilmiş ona bakalım. Bir nevi Blockchain'in sırrını çözelim :) 
 
 
-### Peki Bitcoin şifrelemesi nasıl çalışıyor?
+### Peki Blockchain şifrelemesi nasıl çalışıyor?
 
-Bitcoin (ve diğer benzer Blockchain sistemleri) önceki yazıda yazdığımız her iki kavramı ([öğütme ve şifreleme](http://ademimerkezi.com/genel/2018/04/26/sifreleme-mi-cok-karisik-degil-mi.html)) kullanarak kendi sistemlerini otomatik güvenli hale getiriyorlar (ya da tek bir kişiye duyulan güven ihtiyacını sıfıra indiriyorlar). 
+Blockchain teknolojileri önceki yazıda yazdığımız iki kavramı ([öğütme ve şifreleme](http://ademimerkezi.com/genel/2018/04/26/sifreleme-mi-cok-karisik-degil-mi.html)) kullanarak kendi sistemlerini otomatik güvenli hale getiriyorlar (ya da tek bir kişiye duyulan güven ihtiyacını sıfıra indiriyorlar). 
 
 #### Şifrele ki senden geldiğini anlasınlar
 
-Önce şifreleme kısmına bakalım. Efendim, biliyorsunuz Blockchain sistemi bir dijital varlığın bir kimseden diğerine geçmesini sağlıyor. 
+Önce şifreleme kısmına bakalım. Efendim, biliyorsunuz Blockchain sistemi bir dijital varlığın bir kimseden diğerine geçmesini sağlıyor. Burada da bu dijital varlıklardan en bilineni olan dijital para Bitcoin ile konuyu örneklendirelim: 
 
 Varsayalım benim bir dijital varlığım, örneğin 1 Bitcoin'im var. Öncelikle, demiştik ki, bütün Blockchain işlemleri aynı şekilde tüm makineler tarafından tutuluyor. Dolayısıyla sistemdeki bütün makineler bu 1 Bitcoin'in bende olduğunu biliyor (o paraya nasıl sahip olduğum ise aşağıda anlatacağımız işlem sonucu daha netlik kazanacak). 
 
