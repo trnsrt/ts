@@ -5,14 +5,14 @@ date:   2018-04-26 16:25:45 +0300
 categories: Genel
 ---
 
-Önceki iki yazımızda, önce merkezi olmayan sistemlerin çalışması için temel unsur olan [**Şifreleme**'nin neden önemli olduğunu](http://ademimerkezi.com/genel/2018/04/25/sifreleme-ne-demek-neden-onemli.html), sonra da Şifreleme'nin temel taşları olan [Öğütme (hashing), Özel Anahtar, Genel Anahtar, Şifreleme (Encryption)](http://ademimerkezi.com/genel/2018/04/26/sifreleme-mi-cok-karisik-degil-mi.html)'ye daha detaylı bakmıştık. 
+Önceki iki yazımızda, önce merkezi olmayan sistemlerin çalışmasında temel unsur olan [**"şifreleme"**'nin neden önemli olduğunu](http://ademimerkezi.com/genel/2018/04/25/sifreleme-ne-demek-neden-onemli.html), sonra da Şifreleme'nin temel taşları olan [Öğütme (hashing), Özel Anahtar, Genel Anahtar, Şifreleme (Encryption)](http://ademimerkezi.com/genel/2018/04/26/sifreleme-mi-cok-karisik-degil-mi.html)'ye daha detaylı bakmıştık. 
 
-Şimdi de dilerseniz, bütün bu kavramlar Bitcoin içinde nasıl hayata geçirilmiş ona bakalım. Bir nevi Bitcoin'in sırrını çözelim :) 
+Şimdi de dilerseniz, bütün bu kavramlar Bitcoin içerisinde nasıl hayata geçirilmiş ona bakalım. Bir nevi Bitcoin'in sırrını çözelim :) 
 
 
 ### Peki Bitcoin şifrelemesi nasıl çalışıyor?
 
-Bitcoin (ve diğer benzer Blockchain sistemleri) önceki yazıda yazdığımız her iki kavramı ([öğütme ve şifreleme](http://ademimerkezi.com/genel/2018/04/26/sifreleme-mi-cok-karisik-degil-mi.html)) kullanarak kendi sistemlerinin otomatik güvenli hale getiriyorlar (ya da tek bir kişiye duyulan güven ihtiyacını sıfıra indiriyorlar). 
+Bitcoin (ve diğer benzer Blockchain sistemleri) önceki yazıda yazdığımız her iki kavramı ([öğütme ve şifreleme](http://ademimerkezi.com/genel/2018/04/26/sifreleme-mi-cok-karisik-degil-mi.html)) kullanarak kendi sistemlerini otomatik güvenli hale getiriyorlar (ya da tek bir kişiye duyulan güven ihtiyacını sıfıra indiriyorlar). 
 
 #### Şifrele ki senden geldiğini anlasınlar
 
@@ -37,22 +37,22 @@ Yukarıdaki işlemi yazarken aslında iki küçük ekleme yapıyorum işleme. Bi
 
 Eğer Ayşe bu parayı bir gün Mehmet'e göndermek isterse, benzer şekilde kendi Özel Anahtarı'nı kullandığında sistem bakacak "Hah tamam bu para zamanından Ayşe'nin Genel Anahtarı kullanılarak gönderilmişti, yani Ayşe'nin malı, şimdi Ayşe Özel Anahtarını kullanarak bu malın kendi sahipliğini ve Mehmet'in Genel Anahtarını kullanarak bu sahipliği Mehmet'e geçirdiğini söylüyor, o zaman yapalım bu transferi" diyecek. 
 
-Şimdiye kadar (2009 yılındaki başlangıcından beri) Bitcoin üzerinde yapılmış bütün transferler kayıtlı ve yukarıdaki gibi görülebiliyor. Yani aslında işlemlerin hepsi şeffaf - hem de en başına kadar. Yani Ayşe'ye gönderdiğim parayı da ben birinden aldım. Bu kişi de bir başkasından. Böyle böyle 2009 yılına kadar gidebilirsiniz. Peki ya en başında ne olmuştu? Bu kadar Bitcoin nasıl çıktı ortaya? Şimdi ona da bakalım: 
+Şimdiye kadar (2009 yılındaki başlangıcından beri) Bitcoin üzerinde yapılmış bütün transferler kayıtlı ve yukarıdaki gibi görülebiliyor. Yani aslında işlemlerin hepsi şeffaf - hem de en başından beri. Yani Ayşe'ye gönderdiğim parayı da ben birinden aldım. Bu kişi de bir başkasından. Böyle böyle 2009 yılına kadar gidebilirsiniz. Peki ya en başında ne olmuştu? Bu kadar Bitcoin nasıl çıktı ortaya? Şimdi ona da bakalım: 
 
 #### Öğüt ki, sonsuza kadar kaydedilsin
 
-Hatırlar mısınız, önceki bir yazımızda şunu demiştik: "Blockchain sisteminde yükü çeken makinelerin bu yaptıkları işlemleri kayıt etme, daha sonra da teyid etme işlemi sonucu aldıkları ödüle (ya da lotaryaya) Bitcoin deniyor. Neden lotarya deniyor? Zira, bu on dakikada bir yapılan teyit işlemi aslında çok zor bir bulmaca. Bir nevi Sudoku oyunu gibi düşünün"
+Hatırlar mısınız, önceki bir yazımızda şunu demiştik: "Blockchain sisteminde yükü çeken makinelerin bu yaptıkları işlemleri kayıt etme, daha sonra da teyit etme işlemi sonucu aldıkları ödüle (ya da lotaryaya) Bitcoin deniyor. Neden lotarya deniyor? Zira, bu on dakikada bir yapılan teyit işlemi aslında çok zor bir bulmaca. Bir nevi Sudoku oyunu gibi düşünün"
 
 Şimdi dilerseniz bu bulmaca konusunu biraz daha açalım. Ortada tabii ki bir bulmaca yok ama bir öğütme işlemi var. Aynı yukarıda olduğu gibi "girdi" ve "çıktı" kısmı olan bir SHA şifrelemesi. 
 
-Input'un iki parçası var 
+Girdinin (input) iki parçası var 
 - Belli bir süre içinde gerçekleşen tüm işlemlerin bir dökümü 
 - Bir de bir sayı
 
-Output ise yukarıdaki gibi 64 karakterli bir şifre. 
+Çıktı (Output) ise yukarıdaki gibi 64 karakterli bir şifre. 
 
 Sistem söyle çalışıyor. 
-1. Her 10 dakikada bir Bitcoin ile yapılan bütün işlemler toplanıyor biraraya ve makinelere gönderiliyor
+1. Her 10 dakikada bir Bitcoin ile yapılan bütün işlemler bir araya toplanıyor ve makinelere gönderiliyor
 
 ![transactions-v3.png](/assets/transactions-v3.png)
 
@@ -63,7 +63,7 @@ Sistem söyle çalışıyor.
 
 ![transaction1-v1.png](/assets/transaction1-v1.png)
 
-yok olmadı "370ff8b0.." ile başlayan bir output verdi. 
+yok olmadı, "370ff8b0..." ile başlayan bir output verdi. 
 
 Sonra 2 ekliyor, yine bakıyor:
 
@@ -71,15 +71,16 @@ Sonra 2 ekliyor, yine bakıyor:
 ![transaction2-v1.png](/assets/transaction2-v1.png)
 
 
-bu sefer "58ed8d94.." diye başlayan bir sayı verdi.. Yine olmadı.. 
+bu sefer "58ed8d94..." diye başlayan bir sayı verdi... Yine olmadı... 
 
 Böyle böyle sırayla tüm sayılar deneniyor. Ta ki bir sayı (diyelim "25264") bize "00000..." ile başlayan bir sonuç verene kadar!
 
 ![transaction3-v1.png](/assets/transaction3-v1.png)
 
 
-4. "00000.." ile başlayan sonucu ilk bulan makine "Buldum!" diyerek bu sonuca ulaştıran sayıyı "25264" diğer makinelere haber veriyor. 
-5. Sonucu gören makineler, işlem dökümünü 25264 sayısı ile birlikte şifreye sokuyorlar, bakıyorlar hakikaten çıkan sonuç "00000.." ile başlıyor, "Tamam" diyorlar, "Sonuç doğru" ve bir sonraki 10 dakika için yapılan işlemlere geçiyorlar. 
+4. "00000..." ile başlayan sonucu ilk bulan makine "Buldum!" diyerek bu sonuca ulaştıran sayıyı ("25264") diğer makinelere haber veriyor. 
+
+5. Sonucu gören makineler, işlem dökümünü 25264 sayısı ile birlikte şifreye sokuyorlar, bakıyorlar hakikaten çıkan sonuç "00000..." ile başlıyor, "Tamam" diyorlar, "Sonuç doğru" ve bir sonraki 10 dakika için yapılan işlemlere geçiyorlar. 
 6. 25264 rakamını bulan makine işte bu ödülü (şu anda 12.5 Bitcoin yani 100,000 ABD Doları civari bir rakam) kazanıyor!
 
 İşte bu kadar. Yukarıda anlatılanları görsel olarak izlemek isterseniz, aşağıdaki İngilizce videoyu hararetle tavsiye ederim. Aklınıza yatmayan her konu basit bir şekilde özetlenmiş. 
