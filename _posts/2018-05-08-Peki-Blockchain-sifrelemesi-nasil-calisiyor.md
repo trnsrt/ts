@@ -53,13 +53,11 @@ Girdinin (input) iki parçası var
 
 Sistem söyle çalışıyor. 
 1. Her 10 dakikada bir Bitcoin ile yapılan bütün işlemler bir araya toplanıyor ve makinelere gönderiliyor
-
 ![transactions-v3.png](/assets/transactions-v3.png)
 
 2. Sonra sistem bütün makinelere şunu söylüyor: *"Ey makineler, işlemlerin toplam [dökümü](https://blockchain.info/block/0000000000000000001c2fa26ad4d4850fe94e688cfccf812c4fbe6d245761eb) elinize geçti, şimdi bu işlem dökümünü alın yanına öyle bir sayı ekleyin ki, öğütmeye koyduğunuzda çıkan çıktı (output) beş tane sıfır ile başlasın"*
 
 3. Makineler bu çıktıyı alıyor ve sırayla rakamları denemeye başlıyorlar. Önce 1 ekliyor, çıkan sonuca bakıyor, 
-
 ![transaction1-v1.png](/assets/transaction1-v1.png)
 
 yok olmadı, "370ff8b0..." ile başlayan bir output verdi. 
