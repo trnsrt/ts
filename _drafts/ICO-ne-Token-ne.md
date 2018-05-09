@@ -13,9 +13,9 @@ Merkezi olmayan yapı ile ortaya çıkan sistemler ile birlikte aslında girişi
 
 Efendim, normalde girişimcilik (kar için yapılanı), kaba hatlarıyla şu şekilde çalışır: Bir grup kafadar bir araya gelirler (ya da bir kişi farketmez). Bir fikir ortaya atarlar. Sonra bu fikir üzerinde kafa yormaya başlarlar. Fikri geliştirir, bu fikir üzerinden bir katma değer yaratmaya başlarlar. 
 
-Bir noktada, daha fazla katma değer yaratabilmek için dışarıdan birilerinin katkılarına ihtiyaç duyarlar. Örneğin, ekibi büyütmek (ki daha fazla iş ortaya çıkarsınlar), şehir şehir gezmek (ki yeni müşteri bulsunlar), bir ofis kiralamak (ki ekibi birarada tutsunlar ve verimli çalışssınlar) ve bu sırada kendilerinin ve ekibin karnını doyursunlar. Fikirden elde ettikleri gelir henüz bu masrafları karşılamaya yetmediği durumda ve masrafları bir süreliğine karşılamak için yatırımcılardan finansman sağlamaya çalışırlar (eğer bankadan borç almak için gerekli olacak mal varlığına sahip değillerse). 
+![entrepreneur-classic-600.jpg](/assets/entrepreneur-classic-600.jpg) 
 
-![entrepreneur-2321849_400.jpg](/assets/entrepreneur-2321849_400.jpg) 
+Bir noktada, daha fazla katma değer yaratabilmek için dışarıdan birilerinin katkılarına ihtiyaç duyarlar. Örneğin, ekibi büyütmek (ki daha fazla iş ortaya çıkarsınlar), şehir şehir gezmek (ki yeni müşteri bulsunlar), bir ofis kiralamak (ki ekibi birarada tutsunlar ve verimli çalışssınlar) ve bu sırada kendilerinin ve ekibin karnını doyursunlar. Fikirden elde ettikleri gelir henüz bu masrafları karşılamaya yetmediği durumda ve masrafları bir süreliğine karşılamak için yatırımcılardan finansman sağlamaya çalışırlar (eğer bankadan borç almak için gerekli olacak mal varlığına sahip değillerse). 
 
 Yatırımcılar önce girişimcilerin o ana kadar yaptıklarını inceler, sonra ne planladıklarına bakar ve ileride vereceği bu paraya hatırı sayılır bir karşılık alabileceğine inanır ise yatırımcılara para verirler. Karşılığında da kurdukları şirketin bir kısım hissesini alırlar. 
 
@@ -26,6 +26,8 @@ Bu bugün gördüğümüz birçok girişimde, özellikle bizim konunumz olan Web
 ### Yeni anlamıyla Girişimcilik ve Yatırımcılık
 
 Ancak Web 3.0 ile gelen yeni merkezi olmayan yapılarda bu yapı tamamen değişiyor! Zira burada kurulan sistemi bir şirket değil, bir ekosistem. Ve bu ekosistemde sadece girişimciler ve yatırımcılar yok. Başka pek çok bileşen var. Girişimciler tabii var ama onlar olayı kurgulayanlar - sonrasında organizma kendi kendine büyüyor. Ne demek bu? Biraz daha açalım. 
+
+![entrepreneur-new_600.jpg](/assets/entrepreneur-new_600.jpg) 
 
 Hatırlarsanız [ilk yazımızda](http://ademimerkezi.com/genel/2018/03/01/Geceleri-uykunuzu-ne-kaciriyor.html), internetin gelişim ve yaygınlaşması ile birlikte ortaya çıkan şirketlerin (Facebook, Google, Amazon ve Apple başta) daha sonra ağırlıklı kar baskısı sebebiyle monopol haline gelip tüm ekosisteme (kullanıcılar, girişimciler, reklamverenler) nasıl zarar verdiklerinden bahsetmiştik. 
 
