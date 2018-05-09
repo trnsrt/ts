@@ -101,7 +101,7 @@ Sistemin çalışmasına yardımın başka çeşitleri de var. Örneğin [Brave]
 
 | ![BAT-Brave.png](/assets/BAT-Brave.png) | 
 |:--:| 
-| *[Brave Browser](https://brave.com/)* |
+| *[Brave Browser Token'i BAT](https://brave.com/)* |
 
 &nbsp;
 
