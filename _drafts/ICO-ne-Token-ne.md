@@ -97,6 +97,14 @@ Bununla da sınırlı değil Token ile yapabilecekleriniz. Token'lar aynı zaman
 
 Sistemin çalışmasına yardımın başka çeşitleri de var. Örneğin [Brave](https://brave.com/) aynı Chrome, Internet Explorer gibi bir tarayıcı ve kullanıcılarına her kullanım için BAT adında bir Token ödüyor. Şöyle düşünün, web sitelerine girdiğinizde yukarı, aşağı, sağ, sol bu da yetmez gibi önünüze aniden çıkan (pop-up) reklamlar görüyorsunuz. Evet, bu siteler size içeriklerini parasız sunuyorlar ama karşılığında reklamcılaran hatırı sayılır miktarda reklam geliri elde ediyorlar. İşte Brave o gelirin bir kısmını sizinle paylaşıyor. İsterseniz hiç reklamsız siteleri ziyaret edebiliyorsunuz, isterseniz tercihlerize göre size uygun reklamlara maruz kalarak BAT Token kazanabiliyorsunuz. Rakamlar çok büyük değil, Token'in değeri ne olacak o da belli olmaz ama hiç yoktan iyidir. 
 
+&nbsp;
+
+| ![Brave-BAT.png](/assets/Brave-BAT.png) | 
+|:--:| 
+| *[Brave Browser](https://brave.com/)* |
+
+&nbsp;
+
 
 
 --
