@@ -15,7 +15,7 @@ Efendim, normalde girişimcilik (kar için yapılanı), kaba hatlarıyla şu şe
 
 Bir noktada, daha fazla katma değer yaratabilmek için dışarıdan birilerinin katkılarına ihtiyaç duyarlar. Örneğin, ekibi büyütmek (ki daha fazla iş ortaya çıkarsınlar), şehir şehir gezmek (ki yeni müşteri bulsunlar), bir ofis kiralamak (ki ekibi birarada tutsunlar ve verimli çalışssınlar) ve bu sırada kendilerinin ve ekibin karnını doyursunlar. Fikirden elde ettikleri gelir henüz bu masrafları karşılamaya yetmediği durumda ve masrafları bir süreliğine karşılamak için yatırımcılardan finansman sağlamaya çalışırlar (eğer bankadan borç almak için gerekli olacak mal varlığına sahip değillerse). 
 
-![entrepreneur-2321849_400](/assets/entrepreneur-2321849_400.png) 
+![entrepreneur-2321849_400.jpg](/assets/entrepreneur-2321849_400.jpg) 
 
 Yatırımcılar önce girişimcilerin o ana kadar yaptıklarını inceler, sonra ne planladıklarına bakar ve ileride vereceği bu paraya hatırı sayılır bir karşılık alabileceğine inanır ise yatırımcılara para verirler. Karşılığında da kurdukları şirketin bir kısım hissesini alırlar. 
 
