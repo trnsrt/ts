@@ -37,6 +37,14 @@ Klasik anlamda bellediğimiz tipik şirket yapısında, eğer bir şirkete yatı
 
 Yeni tip Web 3.0 sistemlerinde ise klasik anlamda bir şirket bulunmadığı için (elbette girişimcilerin kendine ait bir şirketi olabilir ama bu şirket sadece sisstemi kurmak ile meşgul, yoksa sistemin sahibi değil bu şirket), sistemin ihtiyacı olan yakıt, yatırımcılar tarafından Coin olarak sisteme konur, bu işleme de ICO (Initial Coin Offering) denir. 
 
+--
+
+Şifreli Harikalar Dünyasında (İngilizce CryptoNetworks olarak adlandıracağımız şifrelendirme ile dijital olarak transfer edilen her tür varlığın içinde bulunduğu sistemler) kullanılan varlıkları (Cryptoassets) üç farklı kategoride değerlendirmek mümkün: 
+
+a) Kriptoparalar (Cryptocurrencies): En bilinen dijital varlık - herhangi bir değeri saklamak ve bu değeri alışverişler için kullanmaya yarayan dijital paralar
+
+b) Kriptohisseler (
+
 Token'lar dediğimiz gibi sistemin ihtiyacı olan yakıtlar. Sistemin ihtiyacı olan derken ne kastediyoruz? Sistemin neye ihtiyacı var? Genel olarak üç ana kategori varsayabiliriz (burada kavramların henüz tam oturmadığını belirtelim, ama İsviçre ilk olarak bir kategorizasyona gitmeye karar verdi ve bu üç kategoriyi belirledi). 
 
 
