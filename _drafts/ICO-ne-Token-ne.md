@@ -15,6 +15,8 @@ Efendim, normalde girişimcilik (kar için yapılanı), kaba hatlarıyla şu şe
 
 Bir noktada, daha fazla katma değer yaratabilmek için dışarıdan birilerinin katkılarına ihtiyaç duyarlar. Örneğin, ekibi büyütmek (ki daha fazla iş ortaya çıkarsınlar), şehir şehir gezmek (ki yeni müşteri bulsunlar), bir ofis kiralamak (ki ekibi birarada tutsunlar ve verimli çalışssınlar) ve bu sırada kendilerinin ve ekibin karnını doyursunlar. Fikirden elde ettikleri gelir henüz bu masrafları karşılamaya yetmediği durumda ve masrafları bir süreliğine karşılamak için yatırımcılardan finansman sağlamaya çalışırlar (eğer bankadan borç almak için gerekli olacak mal varlığına sahip değillerse). 
 
+![entrepreneur-2321849_400](/assets/entrepreneur-2321849_400.png) 
+
 Yatırımcılar önce girişimcilerin o ana kadar yaptıklarını inceler, sonra ne planladıklarına bakar ve ileride vereceği bu paraya hatırı sayılır bir karşılık alabileceğine inanır ise yatırımcılara para verirler. Karşılığında da kurdukları şirketin bir kısım hissesini alırlar. 
 
 Buraya kadar anlattığımız her şeyin kapalı sistem olduğunu anlayalım öncelikle. Fikir, girişimcilerin kafasında. Girişimciler bu fikri hayata geçirmek için bir şirket kuruyor ve bu şirketin tamamına sahip oluyorlar önce. Sonra yatırımcılar ile paylaşıyorlar. Fikir ve devamında çalıştıklarında oluşturdukları entellektüel girişimleri olabildiğince patent ve benzeri mekanizmalar ile koruyorlar ki başkaları taklit edemesin. Burada tüm bu katma değerin merkezinde tek bir yapı var - girişimciler ve onları saran şirketleri ve yatırımcılar. Şirket belli bir büyüklüğe ulaşınca da yatırımlarını halka arz ediyorlar (İngilizcesi IPO - İnitial Public Offering). 
