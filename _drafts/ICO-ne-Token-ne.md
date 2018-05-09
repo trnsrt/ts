@@ -47,6 +47,9 @@ Geçtiğimiz yazımızda, bildiğimiz alanda klasik girişimcilik ve yatırımc�
 
 Şimdi dilerseniz bunun nasıl başarıldığına bakalım. 
 
+
+![human-2944065_600.jpg](/assets/human-2944065_600.jpg) 
+
 ### Girişimciler ve yatırımcılar dışında masada başkaları da var artık
 
 90'lar ve 2000'lerin başında ortaya çıkan internet bazlı girişimlerin (Facebook, Google, Amazon, Apple gibi) ellerindeki büyük gücü karlarını artırabilmek için diğer paydaşları zarara sokacak şekilde monopolleşmeye gittiler. 2010'ların başında ise işte bu merkezi yapılara tepki olaran merkezi olmayan yapılar ve sistemler doğdu. Bu sistemlerde girişimci artık bütün gücü elinde tutmuyor, daha demokratik bir yapı var. Artık girişimcinin sahip olduğu bir yapı yok, girişimcilerin kurduğu ekosistemler var. 
