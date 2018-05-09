@@ -99,7 +99,7 @@ Sistemin çalışmasına yardımın başka çeşitleri de var. Örneğin [Brave]
 
 &nbsp;
 
-| ![Brave-BAT.png](/assets/Brave-BAT.png) | 
+| ![BAT-Brave.png](/assets/BAT-Brave.png) | 
 |:--:| 
 | *[Brave Browser](https://brave.com/)* |
 
