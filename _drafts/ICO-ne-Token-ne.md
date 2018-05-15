@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "ICO ne? Token ne?"
+title:  "Değisen Girişimcilik ve Yatırımcılık"
 date:   2018-05-11 07:45:15 +0300
 categories: Genel
 ---
 
-Geçtiğimiz yazılarda, merkezi olmayan yapılara bakmış ve neden önemli olduklarını anlatmaya çalışmıştık.  Özetle, merkezi yapılar, tek bir merkezden yönetildikleri için güvenlik açısından sakıncalar yaşarlar. Tek merkezli yapılar, iç ve dış tehditler için kolayca hedef tahtası haline gelirler. Oysa ki merkezi olmayan bir sistemde, nereye saldıracaksınız ki?. 
+Geçtiğimiz yazılarda, merkezi olmayan yapılara bakmış ve neden önemli olduklarını anlatmaya çalışmıştık.  Özetle, merkezi yapılar, tek bir merkezden yönetildikleri için güvenlik açısından sakıncalar yaşarlar. Tek merkezli yapılar, iç ve dış tehditler için kolayca hedef tahtası haline gelirler. Oysa ki merkezi olmayan bir sistemler ele avuca sığmayan cıva gibilier, nereye saldıracaksınız ki?. İşte bu özellikleri merkezi olmayan yapıları daha sağlam hale getiriyor. 
 
-Merkezi olmayan yapı ile ortaya çıkan sistemler ile birlikte aslında girişim ve yatırım anlamında da büyük bir değişimden söz ediyoruz. Bildiğimiz klasik anlamdaki bu terimler kökten değişiyorlar. Nasıl mı? Anlatalım.. 
+Tabii iki yapı arasındaki farklar bununla sınırlı değil. Bu yeni yapılar kendi ekosistemlerindeki tüm oyuncuların davranış biçimlerini de değiştiriyorlar. Örneğin girişimciler ve yatırımcılar. Merkezi olmayan yapı ile kurulan sistemlerin ortaya çıkışıyla aslında girişim ve yatırım anlamında büyük bir değişimden geçiyoruz. Bildiğimiz klasik anlamdaki bu terimler kökten değişiyorlar. Nasıl mı? Anlatalım.. 
 
 ### Klasik anlamda Girişimcilik ve Yatırımcılık
 
