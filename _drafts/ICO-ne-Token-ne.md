@@ -80,27 +80,27 @@ Evet ama bu sistemin düzgün çalışabilmesi için kaynağa ihtyaç var. Doğr
 
 Geçtiğimiz son iki yazıda, [önce] bildiğimiz anlamda klasik girişimci- yatırımcı ilişkisinin yeni teknolojiler ile birlikte değişmeye başladığını, [sonra] da bu değişimin ile birlikte girişim tarafından yaratılan katma değerin girişimci-yatırımcı tekelinden çıkıp tüm kesimlere (geliştiriciler, kaynak sağlayıcılar, kullanıcılar gibi) yayıldığını, bu sayede de daha demokratik, daha sağlam ve sürdürülebilir bir yapı (en azından teoride) oluşturulduğunu belirmiştik. 
 
-Bu yazımızda ise bu katma değerin nasıl bu kesimler tarafından paylaşıldığına bakalım. Ama öncesinde bu sistemi çalıştıran ana öğeler olan Token nedir ona bir bakalım.. 
+Bu yazımızda ise bu katma değerin nasıl bu kesimler tarafından paylaşıldığına bakalım. Ama öncesinde bu sistemi çalıştıran ana öğe olan Token nedir onu bir anlayalım.. 
 
 ### Aranan kan bulundu - ICO ve Token dünyası
 
-Bahsettiğim yeni teknolojilere bağlı daha demokratik olduğunu iddia eden sistemlerin çalışmak kaynağa ihtiyacı yok mu?. Var elbette - bu sistemlerin de çalışmak için güce bir nevi yakıta ihtiyacı var. Aynı klasik sistemde şirketlerin hisse senedi adı altında pay satıp yatırımcılardan para almaları gibi. Tek fark, burada bir şirket yok, bir sistem var. Ve kişilerden ve şirketten bağımsız bir yapı, dolayısıyla neyin payını alacaksınız. Nasıl becereceğiz bunu? İşte yeni terimimiz. "Token". İşte sistemi çalıştırmak için gerekli güç bu tokenlardan geliyor. 
+Yeni teknolojiler ile yaratılan katma değer artık daha eşit şekilde paylaşılıyor. Ama yine de bu katma değeri yaratmak için bir kaynapa ihtiyaç var. Eskiden bu kaynağı yatırımcılar girişimcilere ortak olarak verirlerdi. Şimdi, pastadan başka pay sahibi olmak isteyenler var.  Bu yeni teknoloji ile kurulan yapıların da çalışmak için güce bir nevi yakıta ihtiyacı var. Aynı klasik sistemde şirketlerin hisse senedi adı altında pay satıp yatırımcılardan para almaları gibi. Tek fark, burada bir şirket yok, bir sistem var. Ve kişilerden ve şirketten bağımsız bir yapı, dolayısıyla neyin payını alacaksınız. Nasıl becereceğiz bunu? İşte yeni terimimiz. "Token". Bütün bu yeni sistemi çalıştırmak için gerekli güç bu tokenlardan geliyor. 
 
-Klasik anlamda bellediğimiz tipik şirket yapısında, eğer bir şirkete yatırım yapmak isterseniz o şirketin hisselerini sahiplerinden satın alırsınız. Eğer şirket halka açık ise o zaman, hisselerinin işlem gördüğü açık pazarlardan o an için satış fiyatı ne olarak belirlenmiş ise onun üzerinden alabilirsiniz. Özel şirketlerin bu şekilde hisselerinin hisse senedi piyasalarında işlem görmesine yani halka açılmasına Halka Arz işlemi (IPO - Initial Public Offering) denir. 
+Klasik anlamda bellediğimiz tipik şirket yapısında, eğer bir şirkete yatırım yapmak isterseniz o şirketin hisselerini sahiplerinden satın alırsınız. Yok eğer şirket halka açık ise o zaman, hisselerinin işlem gördüğü açık pazarlardan o an için satış fiyatı ne olarak belirlenmiş ise onun üzerinden alabilirsiniz. İşte bu ikinci durumda olduğu gibi, özel şirketlerin bu şekilde hisselerinin açık piyasalarda işlem görmeye başlamasına yani halka açılmasına Halka Arz işlemi (IPO - Initial Public Offering) denir. 
 
-Yeni tip Web 3.0 sistemlerinde ise klasik anlamda bir şirket bulunmadığı için (elbette girişimcilerin kendine ait bir şirketi olabilir ama bu şirket sadece sisstemi kurmak ile meşgul, yoksa sistemin sahibi değil), sistemin ihtiyacı olan yakıt, yatırımcılar tarafından Token olarak sisteme konur, bu işleme de ICO (Initial Coin Offering) denir. 
+Yeni tip Web 3.0 sistemlerinde ise klasik anlamda bir şirket bulunmadığı için (elbette girişimcilerin kendine ait bir şirketi olabilir ama bu şirket sadece sistemi kurmak ile meşgul, yoksa sistemin sahibi değil), sistemin ihtiyacı olan yakıt, yatırımcılar tarafından Token olarak sisteme konur, bu işleme de ICO (Initial Coin Offering) denir. 
 
-Bu Token'lar baştan girişimci tarafından belirlenen bir sistem ile tüm paydaşlara dağıtılır. Bir kısmı fikrin sahibi ve sistemin çatışını kuran girişimci grubuna, bir kısmı geliştirme/test aşamasında yardımcı olan geliştirici grubuna, bir kısmı verilecek hizmetin altyapısını sağlayacak olan bağımsız makinelere (aynı Bitcoin'deki madenciler gibi düşünün), bir kısmı da bu hizmeti kullandığı için şirkete para kazandıran ((örneğin reklam geliri)) kullancılara verilir. Her girişim için yukarıdaki paydaşlar, dağıtılacak miktar, dağıtım koşulları vb değişebilir, ancak sistem aşağı yukarı bu şekilde işler. 
+Bu Token'lar baştan girişimci tarafından belirlenen bir sistem ile tüm paydaşlara dağıtılır. Bir kısmı fikrin sahibi ve sistemin çatışını kuran girişimci grubuna, bir kısmı geliştirme/test aşamasında yardımcı olan bağımsız geliştiricilere (eskiden gönüllü çalışan kişilere), bir kısmı verilecek hizmetin altyapısını sağlayacak olan bağımsız makinelere (aynı Bitcoin'deki madenciler gibi düşünün), bir kısmı da bu hizmeti kullandığı için şirkete para kazandıran (örneğin reklam geliri) kullancılara verilir. Her girişim için yukarıdaki paydaşlar, dağıtılacak miktar, dağıtım koşulları vb değişebilir, ancak sistem aşağı yukarı bu şekilde işler. 
 
-ICO ile işte bu Token'lar yatırımcılara satılır. Gelir, yukarıda bahsedilen model içinde paylaşılır, sistem büyümeye başladıkça önceden öngörülen miktarda Token'lar değişik paydaşlara bu şekilde dağıtılır. ICO sonrası bu Token'lar artık piyasalarda işlem görmeye de başlarlar.
+ICO ile işte bu Token'lar yatırımcılara satılır. Gelir, yukarıda bahsedilen model içinde paylaşılır, sistem büyümeye başladıkça önceden öngörülen miktarda Token'lar değişik paydaşlara bu şekilde dağıtılır. Yani, her bir paydaş katkısı ölçüsünden önceden belirlenmiş Token'a hak kazanır. ICO sonrası da bu Token'lar artık piyasalarda işlem görmeye ve sahipleri tarafından alınıp satılmaya başlarlar.
 
-Bu Token'lara bir nevi hisse senedi diyebilirsiniz ancak Token hisse senedinden çok daha kapsayıcı bir kavram. Nedeni de basit aslında. Yukarıda bahsettiğimiz değişik paydaşlar bu ellerine geçen tokenı başka başka amaçlar için kullanabilirler. 
+Bu Token'lara bir nevi hisse senedi diyebilirsiniz ancak Token hisse senedinden çok daha kapsayıcı bir kavram. Nedeni de basit aslında. Yukarıda bahsettiğimiz değişik paydaşlar bu ellerine geçen tokenı başka başka amaçlar için de kullanabilirler. 
 
-Klasik anlamda hisse senedi aldığınızda elinizde iki farklı güç var. Birincisi, hisseniz oranında şirket yönetiminde söz sahibi olursunuz (en basit anlamda). İkincisi yatırım anlamında ya bu hisseler için şirketin her yıl temettü dağıtmasını beklersiniz, ya da şirketin geleceği hakkında spekülasyon yaparak, hisseyi sermaye piyasalarında alır ya da satarsınız. 
+Klasik anlamda hisse senedi aldığınızda elinizde iki farklı güç var. Birincisi, hisseniz oranında şirket yönetiminde söz sahibi olursunuz (en basit anlamda). İkincisi yatırım anlamında ya bu hisseler için şirketin her yıl temettü dağıtmasını beklersiniz, ya da şirketin geleceği hakkında spekülasyon yaparak, şirketin hissesini sermaye piyasalarında alır ya da satarsınız. 
 
-Token'da ise durum biraz farklı. Yönetiminde söz sahibi olabileceğiniz ya da size temettü verecek bir şirket yok. Token özünde bir ekosistemin parçası. Ama Token eğer Kriptoborsalar'da işlem görüyor ise alım-satım yaparak o Token'ın ve ilgili eko-sistem ile ilgili spekülasyon yapabilirsiniz. 
+Token'da ise durum biraz farklı. Yönetiminde söz sahibi olabileceğiniz ya da size temettü verecek bir şirket yok. Token özünde bir ekosistemin parçası. Ama Token eğer Kriptoborsalar'da işlem görüyor ise alım-satım yaparak o Token'ın ve ilgili ekosistem ile ilgili spekülasyon yapabilirsiniz. 
 
-Bununla da sınırlı değil Token ile yapabilecekleriniz. Token'lar aynı zamanda, ekosistemin farklı paydaşları tarafından yaratılıp harcanabilir. Örneğin, sistemin çalışması için de yardımcı olabilir ve Token kazanabilirsiniz. Hatırlarsanız, Bitcoin için demiştik ki, A kişisi B kişisine para transferi yaptığında makineler bu transferi yakalıyor, sisteme iletiyor, sistemde bunların kayıtları oluşturuluyor ve her 10 dakikada bir bu kayıtlar mühürleniyor. İşte bu para transferini yakalayan makineler her işlem başına ufak bir komisyon, her 10 dakikadea bir kayıtları mühürleme işlemini yapmaya hak kazanan şanslı makine de büyük bir ödül (şu anda yaklaşık 12.5 Bitcoin) kazanıyor. İşte gördüğünüz gibi makineler Token (yani Bitcoin) kazandılar. Makine sahipleri bu kazandıkları Bitcoin'leri herhangi bir Kriptoborsa'da satıp ABD Doları, Türk Lirasi ne isterler ise onunla değiştirebilirler. 
+Bununla da sınırlı değil Token ile yapabilecekleriniz. Token'lar aynı zamanda, ekosistemin farklı paydaşları tarafından yaratılıp harcanabilir. Örneğin, sistemin çalışması için de yardımcı olabilir ve Token kazanabilirsiniz. Hatırlarsanız, Bitcoin için demiştik ki, A kişisi B kişisine para transferi yaptığında makineler bu transferi yakalıyor, sisteme iletiyor, sistemde bunların kayıtları oluşturuluyor ve her 10 dakikada bir bu kayıtlar mühürleniyor. İşte bu para transferini yakalayan makineler her işlem başına ufak bir komisyon, her 10 dakikada bir kayıtları mühürleme işlemini yapmaya hak kazanan şanslı makine de büyük bir ödül (şu anda yaklaşık 12.5 Bitcoin) kazanıyor. İşte gördüğünüz gibi bulmacayı çözen makine  Token (yani Bitcoin) kazandı. Makine sahipleri bu kazandıkları Bitcoin'leri herhangi bir Kriptoborsa'da satıp ABD Doları, Türk Lirasi ne isterler ise onunla değiştirebilirler. 
 
 Sistemin çalışmasına yardımın başka çeşitleri de var. Örneğin [Brave](https://brave.com/) aynı Chrome, Internet Explorer gibi bir tarayıcı ve kullanıcılarına her kullanım için BAT adında bir Token ödüyor. Şöyle düşünün, web sitelerine girdiğinizde yukarı, aşağı, sağ, sol bu da yetmez gibi önünüze aniden çıkan (pop-up) reklamlar görüyorsunuz. Evet, bu siteler size içeriklerini parasız sunuyorlar ama karşılığında reklamcılaran hatırı sayılır miktarda reklam geliri elde ediyorlar. İşte Brave o gelirin bir kısmını sizinle paylaşıyor. İsterseniz hiç reklamsız siteleri ziyaret edebiliyorsunuz, isterseniz tercihlerize göre size uygun reklamlara maruz kalarak BAT Token kazanabiliyorsunuz. Rakamlar çok büyük değil, Token'in değeri ne olacak o da belli olmaz ama hiç yoktan iyidir. 
 
@@ -112,9 +112,64 @@ Sistemin çalışmasına yardımın başka çeşitleri de var. Örneğin [Brave]
 
 &nbsp;
 
+Bundan sonraki yazımızda değişik değişik tokenlara yine en bildiğimiz örnek olan Bitcoin'den başlayarak bakalım isterseniz. 
 
+
+---
+
+# Yazı IV
+
+Bundan önceki üç yazımızda [önce] değişen girişimci-yatırımcı dünyasına, [sonra] bu değişimin daha demokratik olmasını sağlayan yapısal değişimlere bakmış ve [en sonunda] da bu sistemi işleten yani yatırımcılardan sağlanan ve sadece girişimcilere değil sistemdeki tüm paydaşlara dağılarak sistemin düzgün çalışması için gerekli olan yakıta yani Token kavramından söz etmiştik. 
+
+Bu yazımızda ise farklı tokenlardan bahsederek aslında bir parça Blockchain dünyasının farklı ekosistemlerinde de bahsediyor olacağız. 
 
 --
+
+Bir noktayı tekrar hatırlatmakta fayda var: 
+
+Şifreli Harikalar Dünyası (İngilizce CryptoNetworks olarak geçen terimin bendeniz tarafından türkçeye apartılmış hali)  diye adladıracağımız dünya şifrelendirme kullanarak dijital olarak bir varlığın bir kişiden diğerine güvenli bir şekilde geçmesine yarıyor. 
+
+Pekçok dijital varlık var bu şekilde transfer edebileceğiniz ve bu varlıkların en yaygını para, buradaki deyimi ile KriptoPara. Bu KriptoPara'ların en kullanılanı ise Bitcoin. İlk çıkanı. Ancak KriptoPara'lar sadece Bitcoin ile sınırlı değil. Gelin isterseniz Bitcoin ile birlikte diğer KriptoPara'lara bir göz atalım. 
+
+###Bitcoin
+
+KriptoPara'ların en eskisi, en çok kullanılanı, bir nevi şahı. Diğer bütün paralardan ayrılan birkaç özelliği var. Öncelikle, kurulmak için herhangi bir yatırım almamış. 2008 yılında çıkan kriz sonrası koca bankaların batması ihtimali, ve devletlerin bu bankaları kurtarmak için (finansal krizi önlemek adına) milyarlarca dolar para basmasına tepki olarak bir grup siberpunk tarafından geliştirilen fikrin meyvesi. Koca bankaların batma ihtimali, onlarda "acaba paramız mevcut sistemde güvende mi?" sorusunu doğurdu. Devletlerin finansal krizi önleme adına milyarlarca dolar karşılıksız para basması ise onlarda "mevcut düzenin koruyucusu olan devletler ne kadar sorumlu davranıyorlar?" şeklinde düşünceler ile ilk sorulan sorunun etkisini daha da derinleştirdi. Sonunda da Satoshi Nakamoto tarafından yaratılan Bitcoin ortaya çıktı. 
+
+Ancak deneysel bir ürün olan Bitcoin'in Internet üzerinden kuralsız olarak her türlü ürünü satan Silkroad sitesinde kullanıma başlaması (kredi kartı ile ödemede tüm kimlik bilgileri ifşa edilirken Bitcoin'de bir tür gizlilik olması nedeniyle) Bitcoin'e ilgiyi patlattı  Ancak Bitcoin'in (ve Satoshi'nin istediği)  istediği normal olarak bu tip bir kötü şöhret değildi. 2010 yılı sonunda Visa ve Mastercard'ın Amerikan hükümetinin yaptığı gizli işleri ortaya çıkaran Wikileaks'e halk tarafından yapılan yardımları bloke etmesi sonrası, Wikileaks'in Bitcoin ile bağış toplamaya başladığını açıklaması Bitcoin'e olan talebi iyice artırdı. Ancak Bitcoin kurucusu ve o zamana kadar anonim olan Satoshi yazdığı bir yazı ile Bitcoin'in deneysel bir ürün olduğunu henüz gerçek hayatta pratik kullanıma hazır olmadığını belirterek Wikileaks'den Bitcoin ile bağış uygulamasına son vermesini rica etti. Wikileaks'in bunu dinlememesi sonrası ise Satoshi sırra kadem bastı. Şu anda nerededir, kimdir bilen kimse yok. Pardon, bilen bir kişi vardı, o da Bitcoin üzerinden yapılan ilk para transferinden Satohsi'den $100 alan [Hal Finney](https://en.0wikipedia.org/wiki/Hal_Finney_(computer_scientist), o da 2014 yılında hayata veda etti.  
+
+Sonrasında değişik iniş ve çıkışlar yaşayan, defalarca değeri fırlayan, defalarca değeri yarıya düşen, her yıl birkaç kere "artık öldü" denilen ama her seferinde daha da güçlü bir şekilde hayatını sürdüren, kurulduğundan beri bir dakika bile işlemleri sekteye uğramamış bir KriptoPara, Bitcoin hayatımıza girdi. 
+
+Bitcoin, kabaca bu. Ağır aksak işleyen, öyle çok hızlı geliştirmeye tabii olmayan bir KriptoPara. Gelişimi için çalışan büyük bir yazılımcı grubu var, ancak dediğimiz gibi bir para mevhumu taşıdığı için, gelişimci grubu için yenilikçilikten öte güvenilirlik daha ön planda tutuluyor. KriptoPara olarak oldkça güvenli Bitcoin ancak gerek ağır ve hantal yapısı, gerekse gizlilik anlamında kullanıcılar yeteri kadar gizlilik vermediği için (kanun dışı işlem yaptığınızda yakalanma ihtimaliniz Bitcoin'de çok yüksek, örneğin yukarıda bahsettiğimiz Silk Road'un kurucusu Bitcoin hareketleri takip edilerek yakalandı), başka başka KriptoParalar da tedavülde. İsterseniz genel olarak altcoin denilen bu alternatif paralara da bir sonaki yazımızda bakalım. 
+
+# Yazı V
+
+Bir önceki yazımızda Blockchain bazlı Şifreli Harikalar Dünyası (CrytoNetwork'ler) içinde en büyük yer tutan KriptoPara'lara bakmış, ve daha önce de bahsettğimiz Bitcoin üzerinden bir kez daha geçmiştik. 
+
+Şimdi de Bitcoin'in eksik kaldığı düşünülen alanlarda bu eksikleri kapatmak için kurulmuş olan alternatif paralara kısaca altcoin'lere bakalım demiştik. Bitcoin temel olarak değer saklama işlevi görmeyi amaçladığı için onu geliştiren yazılımcılar yeniklikten ziyade güvenirliğe önem veriyorlar ve bu nedenle Bitcoin'in yeterince pratik olmaya yönelik çalışmalarda ağır kaldığı yönünde eleştiriler var. Bir de Bitcoin size tam olarak gizlilik sağlamıyor, bu yönünü eksik bulanlar da bir hayli fazla. İşte altcoin'ler temel olarak bu eksiklikleri 
+
+
+
+
+
+
+O nedenle değişim ya da değer saklama amaçlı bir para olarak oldukça kullanışlı ancak üzerine inşa edilebilecek başka teknolojiler için oldukça ağır kalıyor. İşte bu teknolojiler için başka altyapı Blockchain'leri kullanılıyor daha çok (başta Ethereum olmak üzere), bunlara bir sonraki yazımızda değineceğiz. 
+
+
+
+
+
+
+
+
+
+
+
+Son üç yazımızda bahsettiğimiz girişimci-yatırımcı dünyasında genelde fikirler dijital olarak katma değer yaratmak ve bunun paylaşımı üzerine idi. 
+
+
+
+
+
 
 Şifreli Harikalar Dünyasında (İngilizce CryptoNetworks olarak adlandıracağımız şifrelendirme ile dijital olarak transfer edilen her tür varlığın içinde bulunduğu sistemler) kullanılan varlıkları (Cryptoassets) üç farklı kategoride değerlendirmek mümkün: 
 
