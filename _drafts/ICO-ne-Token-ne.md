@@ -133,6 +133,8 @@ Pekçok dijital varlık var bu şekilde transfer edebileceğiniz ve bu varlıkla
 
 ###Bitcoin
 
+![cryptocurrency-bitcoin.png](/assets/cryptocurrency-bitcoin.png) 
+
 KriptoPara'ların en eskisi, en çok kullanılanı, bir nevi şahı. Diğer bütün paralardan ayrılan birkaç özelliği var. Öncelikle, kurulmak için herhangi bir yatırım almamış. 2008 yılında çıkan kriz sonrası koca bankaların batması ihtimali, ve devletlerin bu bankaları kurtarmak için (finansal krizi önlemek adına) milyarlarca dolar para basmasına tepki olarak bir grup siberpunk tarafından geliştirilen fikrin meyvesi. Koca bankaların batma ihtimali, onlarda "acaba paramız mevcut sistemde güvende mi?" sorusunu doğurdu. Devletlerin finansal krizi önleme adına milyarlarca dolar karşılıksız para basması ise onlarda "mevcut düzenin koruyucusu olan devletler ne kadar sorumlu davranıyorlar?" şeklinde düşünceler ile ilk sorulan sorunun etkisini daha da derinleştirdi. Sonunda da Satoshi Nakamoto tarafından yaratılan Bitcoin ortaya çıktı. 
 
 Ancak deneysel bir ürün olan Bitcoin'in Internet üzerinden kuralsız olarak her türlü ürünü satan Silkroad sitesinde kullanıma başlaması (kredi kartı ile ödemede tüm kimlik bilgileri ifşa edilirken Bitcoin'de bir tür gizlilik olması nedeniyle) Bitcoin'e ilgiyi patlattı  Ancak Bitcoin'in (ve Satoshi'nin istediği)  istediği normal olarak bu tip bir kötü şöhret değildi. 2010 yılı sonunda Visa ve Mastercard'ın Amerikan hükümetinin yaptığı gizli işleri ortaya çıkaran Wikileaks'e halk tarafından yapılan yardımları bloke etmesi sonrası, Wikileaks'in Bitcoin ile bağış toplamaya başladığını açıklaması Bitcoin'e olan talebi iyice artırdı. Ancak Bitcoin kurucusu ve o zamana kadar anonim olan Satoshi yazdığı bir yazı ile Bitcoin'in deneysel bir ürün olduğunu henüz gerçek hayatta pratik kullanıma hazır olmadığını belirterek Wikileaks'den Bitcoin ile bağış uygulamasına son vermesini rica etti. Wikileaks'in bunu dinlememesi sonrası ise Satoshi sırra kadem bastı. Şu anda nerededir, kimdir bilen kimse yok. Pardon, bilen bir kişi vardı, o da Bitcoin üzerinden yapılan ilk para transferinden Satohsi'den $100 alan [Hal Finney](http://www.wiki-zero.net/index.php?q=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSGFsX0Zpbm5leV8oY29tcHV0ZXJfc2NpZW50aXN0KQ), o da 2014 yılında hayata veda etti.  
@@ -145,7 +147,48 @@ Bitcoin, kabaca bu. Ağır aksak işleyen, öyle çok hızlı geliştirmeye tabi
 
 Bir önceki yazımızda Blockchain bazlı Şifreli Harikalar Dünyası (CrytoNetwork'ler) içinde en büyük yer tutan KriptoPara'lara bakmış, ve daha önce de bahsettğimiz Bitcoin üzerinden bir kez daha geçmiştik. 
 
-Şimdi de Bitcoin'in eksik kaldığı düşünülen alanlarda bu eksikleri kapatmak için kurulmuş olan alternatif paralara kısaca altcoin'lere bakalım demiştik. Bitcoin temel olarak değer saklama işlevi görmeyi amaçladığı için onu geliştiren yazılımcılar yeniklikten ziyade güvenirliğe önem veriyorlar ve bu nedenle Bitcoin'in yeterince pratik olmaya yönelik çalışmalarda ağır kaldığı yönünde eleştiriler var. Bir de Bitcoin size tam olarak gizlilik sağlamıyor, bu yönünü eksik bulanlar da bir hayli fazla. İşte altcoin'ler temel olarak bu eksiklikleri 
+Şimdi de Bitcoin'in eksik kaldığı düşünülen alanlarda bu eksikleri kapatmak için kurulmuş olan alternatif paralara kısaca altcoin'lere bakalım demiştik. Bitcoin temel olarak değer saklama işlevi görmeyi amaçladığı için onu geliştiren yazılımcılar yeniklikten ziyade güvenirliğe önem veriyorlar ve bu nedenle Bitcoin'in yeterince pratik olmadığı ve bu yönde çalışmalarda ağır kaldığı yönünde eleştiriler var. Bir de Bitcoin size tam olarak gizlilik sağlamıyor, bu yönünü eksik bulanlar da bir hayli fazla. İşte altcoin'ler temel olarak bu eksiklikleri gidermek amacıyla ortaya çıkmış KriptoParalar. Genel olarak Blockhain bazlı sistemi kullanıyorlar, ancak detaylarda Bitcoin'den ayrılıyorlar. 
+
+
+### Litecoin
+
+![cryptocurrency-litecoin.png](/assets/cryptocurrency-litecoin.png) 
+
+Litecoin, Bitcoin benzeri paralar içinde Bitcoin'e en benzeyeni. Kurucusu, Charlie Lee adında bir MIT mezunu genç. Hatırlarsanız, Bitcoin benzeri sistemler için Açık Kaynak metodunu benimsemişler demiştik. Bu şu demek: İsteyen herhangi biri mevcut sistemi götüren yazılımı alıp aynısını kurabilir ve çalıştırabilir. İşte Charlie'nin yaptığı da aynen bu. 
+
+Litecoin, iki konuda Bitcoin'den ayrışıyor. Birincisi, hani hep diyoruz Bitcoin 10 dakikada bir bir ödül veriyor. Bu ödül aslında o 10 dakika içinde yapılmış işlemlerin teyidi anlamına geliyor. Yani Bitcoin ile bir işlem yaptığınızda örneğin mal satıp Bitcoin aldığınızda, işlemin gerçekten doğrulandığını görmek için 10 dakika beklemeniz gerekiyor (genelde 10 dakika yeterli ama kimileri daha sağlam olsun diye birkaç 10 dakika da bekliyorlar). Litecoin ise bu 10 dakikalık teyid süresini 2.5 dakikaya indiriyor. Böylece satıcı olarak aldığınız paranın hakikaten size ait olduğunu yaklaşık 1/4 sürede kesinleştiriyorsunuz. 
+
+Litecoin'in ikinci farklılığı ise madenciler alanında. Hani şu işlemleri 10 dakikada bir teyid eden makineler. Burada daha [bir önceki yazımızda](http://ademimerkezi.com/genel/2018/05/08/Peki-Blockchain-sifrelemesi-nasil-calisiyor.html)  bahsettiğimiz gibi makineler bir bulmaca çözmeye çalışıyorlar. Başlangıçta, evinizdeki laptop aracılığıyla bu bulmacayı çözme ihtimaliniz vardı. Ancak sisteme çok kuvvetli makineler girmeye başladığından beri evde bu işi yapıp bulmacayı çözme ve para kazanma ihtimaliniz çok azaldı. İşte, Litecoin, bulmacanın yapısını bu tip büyük makinelerin avantajına olmasındansa küçük evde işi yapanların avantajına olacak bir hale getirdi. Bu bir nevi, çok kuvvetli makineler ile sistemi monopolize etmenin önüne geçmeyi amaçlayan bir yöntem. 
+
+İşte bu kadar. Bu iki özellik dişında Litecoin, Bitcoin'in aynısı. Litecoin, Bitcoin ile oldukça yakından çalışıyor, rakipten ziyade küçük kardeş gibi. Litecoin, teknolojik olarak yapılan değişikliklerin laboratuarı gibi kullanılıyor, bir nevi yeni deneyler burada yapılıyor. 
+
+Kısacası, Litecoin yukarıda bahsettiğimiz iki yenilik ile daha pratik olmaya çalışarak paranın iki özelliğinden (Değer Depolama ve Alışveriş aracı olma), alışveriş için daha pratik ve uygun bir çözüm olmaya çalışıyor. 
+
+
+
+### Monero
+
+![cryptocurrency-monero.png](/assets/cryptocurrency-monero.png) 
+
+
+
+### Zcash
+
+![cryptocurrency-zcash.png](/assets/cryptocurrency-zcash.png) 
+
+
+
+
+
+### Dash
+
+![cryptocurrency-dash.png](/assets/cryptocurrency-dash.png) 
+
+
+### Diğerleri
+
+
+
 
 
 
