@@ -170,6 +170,8 @@ Kısacası, Litecoin yukarıda bahsettiğimiz iki yenilik ile daha pratik olmaya
 
 ![cryptocurrency-monero.png](/assets/cryptocurrency-monero.png) 
 
+Monero, Bitcoi
+
 
 
 ### Zcash
