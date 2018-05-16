@@ -170,21 +170,42 @@ Kısacası, Litecoin yukarıda bahsettiğimiz iki yenilik ile daha pratik olmaya
 
 ![cryptocurrency-monero.png](/assets/cryptocurrency-monero.png) 
 
-Monero, Bitcoi
+Monero, Bitcoin'den farkı gizlilik konusuna verdiği önem. 
 
+Konu şu: Normalde Bitcoin ile bir işlem yaptığınızda, satıcı olarak siz Bitcoin'i diğer tarafa gönderiyorsunuz ve kendi Özel Anahtarınız ile bu işlemi onaylıyorsunuz. Dolayısıyla, paranın geldiği adres belli, açık. Sizin kim olduğunuz bilinmiyor ama size gelen paralar ve sizden giden paralar görülebiliyor. 
 
+Pratikte bunun ne önemi var derseniz, kimi durumlarda özellikle kanun dışı aktiviteler içine girmiş kimi hesaplar, eğer kimi borsalar tarafından fark edilirse bloke edilebiliyorlar. [Parayı para yapan özelliklerden bahsettiğimiz yazımızda](http://ademimerkezi.com/genel/2018/03/22/Bitcoin-para-mi-gercekten.html) bahsettiğimiz özelliklerden biri paranın her bir parçasının birbirine eşit olması idi ve orada Bitcoin'in örneğin Altın'a göre dezavantajlı olduğundan bahsetmiştik. İşte ana nedeni bu - normalde her Bitcoin'in eşit değere sahip olması gerekirken, burada bazı hesaplarda bulunan Bitcoin diğerleri ile aynı değere sahip değil. 
 
-### Zcash
+Monero ise buna şöyle bir önlem bulmuş. Bir partiden diğer partiye para gönderildiğinde, gönderilen parayı sadece gönderen parti değil onunla birlikte on farklı (rastgele) taraf da imzalıyor. Gerçekten paranın sahibi imzaladığı için işlem gerçekleşiyor ama on kişiden hangisi olduğu bilinmediği için paranın gerçek sahibi adresi anlamak mümkün değil!
 
-![cryptocurrency-zcash.png](/assets/cryptocurrency-zcash.png) 
+Bunun dışında Monero, Litecoin'e benzer şekllde pratiklik olaran her 10 dakika yerine 2 dakikada bir teyit işlemi yapıyor ve madencilik işinin birkaç büyük elinde toplanmasını önlemek için de Litecoin benzeri bir ödül sistemi kullanıyor. 
 
-
+Kısacası Monero, hem Litecoin gibi pratik, hem de ondan daha da gizli bir para sunuyor. 
 
 
 
 ### Dash
 
 ![cryptocurrency-dash.png](/assets/cryptocurrency-dash.png) 
+
+
+Dash de aynı Monero gibi, hem gönderici/alıcı adreslerini gizliyor, hem de hızlı işlem yapabilmek için teyit sürelerini indirmiş durumda. 
+
+Monero'ya göre iki yıl sonra 2014 yılında başlayan Dash, Evan Duffeld adında birinin ürünü. Oldukça iyi bir pazarlama ekibi var, ve bu nedenle son yıllarda ciddi artış kaydettiler. Ancak gizlilik anlamındaki şöhretleri iyi mi kötü mü tartışılır. Örneğin, Doğu Avrupalı yaşadışı iş yapan yapıların, son zamanlarda Dash kullanmaya başladıkları söyleniyor (Bitcoin'i gizli olmadığı için çoktan bıraktılar). 
+
+Ancak Dash ile ilgili teknik olarak en büyük soru işareti başlangıcı. Zira, Bitcoin (Litecoin ve Monero da aynı şekilde), ilk kurulduklarında yaptıkları ilk işlem ile 10 dakika sonra Bitcoin dağıtmaya başlamış, ve her 10 dakikada bir Bitcoin dağıtarak sistemi sürdürmüş. Erken girenlerin rekabetin az olduğu durumda daha fazla para kazandığı (early mover advantage) bir sistem. Oldukça adil. Ancak, Dash ilk 3 yılda yarattığı paranın %30'unu bir "hata" sonucu çalışmaya başladıktan sonraki 24 saat içinde yarattı. Normalde, henüz başlangıçta bu tip sorunlar yaşanabildiği için (zira hepsi deneysel bu paraların) geliştirici sistemi restart edip baştan başlayabilir. Ama Dash öyle yapmamış. 
+
+Kısacası, Dash, Monero gibi gizlilik ve pratiklik alanında ön plana çıkıyor ancak kuşkulu geçmişi nedeniyle onun kadar saygın bir KriptoPara değil. 
+
+### Zcash
+
+![cryptocurrency-zcash.png](/assets/cryptocurrency-zcash.png) 
+
+Zcash, gerek Monero gerekse Dash'den daha sonra, 2016 yılında ortaya çıkan ve büyük bir ilgi gören KriptoPara. Kurucusu Zooko Wilcox'un Dijital Para alanında çok eskiden beri bilinen biri ve saygın biri olması, ve diğer paraların çıktıkları zaman çok ufak bir geliştirici topluluk dışında bilinmez iken KriptoParalara artan ilgi nedeniyle, çıktığında hemen hemen bu alanda herkes tarafından biliniyor olması nedeniyle Zcash çıktığı anda inanılmaz bir ilgi gördü. 
+
+Zcash gizlilik konusunda Monero'dan da ileri gitmiş durumda. Bitcoin'de parayı gönderenin ve alıcının adresleri açıkken, Monero'da bu adresler gizli kalıyor demiştik. Zcash ise kullandığı sistemle gönderilen miktarı bile gizli tutuyor. Bir nevi açık olan hiçbir nokta yok. Sadece bir taraftan (ki kim olduğu belli değil), diğer tarafa (yine kim olduğu belli değil) bir dijital "şey" (ne olduğu belli değil) gönderiyorsunuz. 
+
+Zcash, kurucusu ve etrafındaki ekip nedeniyle bu alanda belli bir saygınlığa sahip. Ancak, henüz Monero gibi büyük ve sağlam bir topluluk oluşturmuş, altyapılarını bitirmiş değiller. Gelecekte ne olacaklar göreceğiz. 
 
 
 ### Diğerleri
