@@ -40,8 +40,13 @@ Klasik anlamda girişimlerde, bir girişim başarılı olduğunda ortaya çıkan
 Bu son yazdığımız demokratikleşmenin nasıl olduğuna bir sonraki yazımızda bakalım.. 
 
 
+---
+layout: post
+title:  "Girişimci, Yatırımcı ve tüm Ekosistem"
+date:   2018-05-21 07:45:15 +0300
+categories: Genel
+---
 
-# Yazı II 
 
 Geçtiğimiz yazımızda, bildiğimiz alanda klasik girişimcilik ve yatırımcılığın, yeni teknolojiler ile birlikte nasıl bir değişimden geçtiğini anlatmaya başlamıştık. 
 
@@ -78,7 +83,13 @@ Evet ama bu sistemin düzgün çalışabilmesi için kaynağa ihtyaç var. Doğr
 
 --
 
-# Yazı III
+---
+layout: post
+title:  "Yeni dünyada girişimciler için aranan kan bulundu mu? ICO ve Token Dünyası"
+date:   2018-05-28 07:45:15 +0300
+categories: Genel
+---
+
 
 Geçtiğimiz son iki yazıda, [önce] bildiğimiz anlamda klasik girişimci- yatırımcı ilişkisinin yeni teknolojiler ile birlikte değişmeye başladığını, [sonra] da bu değişimin ile birlikte girişim tarafından yaratılan katma değerin girişimci-yatırımcı tekelinden çıkıp tüm kesimlere (geliştiriciler, kaynak sağlayıcılar, kullanıcılar gibi) yayıldığını, bu sayede de daha demokratik, daha sağlam ve sürdürülebilir bir yapı (en azından teoride) oluşturulduğunu belirmiştik. 
 
