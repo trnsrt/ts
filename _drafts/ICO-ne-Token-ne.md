@@ -42,7 +42,7 @@ Bu son yazdığımız demokratikleşmenin nasıl olduğuna bir sonraki yazımız
 
 ---
 layout: post
-title:  "Girişimler yeni teknolojiler ile nasıl demokratikleşti?"
+title:  "Girişimler yeni teknolojiler ile nasıl demokratikleşiyor?"
 date:   2018-05-21 07:45:15 +0300
 categories: Genel
 ---
