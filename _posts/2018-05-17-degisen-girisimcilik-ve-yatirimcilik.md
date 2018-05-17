@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Değisen Girişimcilik ve Yatırımcılık"
-date:   2018-05-11 07:45:15 +0300
+date:   2018-05-17 14:30:15 +0300
 categories: Genel
 ---
 
