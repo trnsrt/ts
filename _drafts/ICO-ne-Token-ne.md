@@ -144,7 +144,7 @@ Bir noktayı tekrar hatırlatmakta fayda var:
 
 Şifreli Harikalar Dünyası (İngilizce CryptoNetworks olarak geçen terimin bendeniz tarafından türkçeye apartılmış hali)  diye adladıracağımız dünya şifrelendirme kullanarak dijital olarak bir varlığın bir kişiden diğerine güvenli bir şekilde geçmesine yarıyor. 
 
-Pekçok dijital varlık var bu şekilde transfer edebileceğiniz ve bu varlıkların en yaygını para, buradaki deyimi ile KriptoPara. Bu KriptoPara'ların en kullanılanı ise Bitcoin. İlk çıkanı. Ancak KriptoPara'lar sadece Bitcoin ile sınırlı değil. Gelin isterseniz Bitcoin ile birlikte diğer KriptoPara'lara bir göz atalım. 
+Pekçok dijital varlık var bu şekilde transfer edebileceğiniz ve bu varlıkların en yaygını para, buradaki deyimi ile KriptoPara. Bu KriptoPara'ların en kullanılanı ise Bitcoin. İlk çıkanı. Dolayısı ile Kriptovarlıklar içinde kendine ait özel bir yeri olan KriptoParalar'a bakacağız önümüzdeki iki yazıda. Bu yazımız Bitcoin ile ilgili. Ancak KriptoPara'lar sadece Bitcoin ile sınırlı değil. Diğer KriptoPara'lar ise bir sonraki yazıda. Daha sonra ise [önceki yazımızda] KriptoParalar dışındaki diğer Token'lardan bahsedeceğiz. 
 
 ### Bitcoin
 
@@ -160,7 +160,7 @@ Bitcoin, kabaca bu. Ağır aksak işleyen, öyle çok hızlı geliştirmeye tabi
 
 # Yazı V
 
-Bir önceki yazımızda Blockchain bazlı Şifreli Harikalar Dünyası (CrytoNetwork'ler) içinde en büyük yer tutan KriptoPara'lara bakmış, ve daha önce de bahsettğimiz Bitcoin üzerinden bir kez daha geçmiştik. 
+Bir önceki yazımızda Blockchain bazlı Şifreli Harikalar Dünyası (CrytoNetwork'ler) içinde en büyük yer tutan KriptoPara kısmına bakmış, ve daha önce de bahsettğimiz bu alanın en büyüğü olan Bitcoin üzerinden bir kez daha geçmiştik. 
 
 Şimdi de Bitcoin'in eksik kaldığı düşünülen alanlarda bu eksikleri kapatmak için kurulmuş olan alternatif paralara kısaca altcoin'lere bakalım demiştik. Bitcoin temel olarak değer saklama işlevi görmeyi amaçladığı için onu geliştiren yazılımcılar yeniklikten ziyade güvenirliğe önem veriyorlar ve bu nedenle Bitcoin'in yeterince pratik olmadığı ve bu yönde çalışmalarda ağır kaldığı yönünde eleştiriler var. Bir de Bitcoin size tam olarak gizlilik sağlamıyor, bu yönünü eksik bulanlar da bir hayli fazla. İşte altcoin'ler temel olarak bu eksiklikleri gidermek amacıyla ortaya çıkmış KriptoParalar. Genel olarak Blockhain bazlı sistemi kullanıyorlar, ancak detaylarda Bitcoin'den ayrılıyorlar. 
 
@@ -223,14 +223,15 @@ Zcash gizlilik konusunda Monero'dan da ileri gitmiş durumda. Bitcoin'de parayı
 Zcash, kurucusu ve etrafındaki ekip nedeniyle bu alanda belli bir saygınlığa sahip. Ancak, henüz Monero gibi büyük ve sağlam bir topluluk oluşturmuş, altyapılarını bitirmiş değiller. Gelecekte ne olacaklar göreceğiz. 
 
 
-### Diğerleri
+### Sonuç
 
+Gördüğünüz gibi KriptoPara dünyası Bitcoin'den ibaret değil ve pekçok Bitcoin benzeri KriptoPara var. Muhtemelen daha da çıkmaya devam edecek. Teknoloji geliştikçe, bilinç arttıkça, yen ihtiyaçlar doğdukça ya da mevcut KriptoParalar bu ihtiyaçlara cevap vermekte zorlandıkça yenileri çıkabilir. Peki bu alternatif KriptoParalar ya da yeni çıkacaklar Bitcoin'in tahtını sarsabilir mi? Altın gibi kendisine yavaş yavaş saygın bir yer edinen, 2009'dan beri tıkır tıkır çalışan ve basit anlamı ile değer saklama konusunu başarı ile karşılayan Bitcoin'i şu aşamada alt etmeleri zor görünüyor. Ama nasıl dünyada tek bir para birimi yok ise, Kripto Dünyası'nda da sadece Bitcoin olmayacak, bu diğer paralar da pastadan pay almaya devam edecekler. 
 
+Bir sonraki yazımızda, Şifreli Harikalar Dünyası'nda para dışında başka alanlarda da ihtiyaç duyulan Token'lara bakacağız, başta Ethereum olmak üzere.. 
 
+# Yazı VI
 
-
-
-
+Önceki üç yazımızda, önce Şifreli Harikalar Dünyası'nın (Crytonetworks) yakıtı olan Token kavramına [bakmış], daha sonra bu dünyanın şu an için en kullanılan KriptoPara kısmına [Bitcoin] ve onun yanında yer alan diğer KriptoParalar
 
 
 O nedenle değişim ya da değer saklama amaçlı bir para olarak oldukça kullanışlı ancak üzerine inşa edilebilecek başka teknolojiler için oldukça ağır kalıyor. İşte bu teknolojiler için başka altyapı Blockchain'leri kullanılıyor daha çok (başta Ethereum olmak üzere), bunlara bir sonraki yazımızda değineceğiz. 
