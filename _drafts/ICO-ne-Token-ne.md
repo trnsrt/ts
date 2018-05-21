@@ -79,7 +79,7 @@ Efendim, Şifreekonomisi'nde girişimci bir şirket değil bir sistem kuruyor. Y
 
 En başta, kişilerin ya da şirketlerin gizli saklı tuttuğu hizmetler her zaman o kişilere bağlı kalır. Yarın öbür gün kişiler arasında anlaşmazlık çıktığında ve kişiler işi bıraktığında bu girişimden fayda sağlamayı uman kişiler olarak işiniz çok zor. 2000'lerin başında yatırımcıların en çok zarar ettiği durumlar bu tip ortaklar arası sorunlardan kaynaklanmıştı. Ya da diyelim şirket bir anda bir başka büyük şirkete satıldı ve hizmet vermeyi durdurdu. Başınıza gelmiştir muhakkak. Kullanmayı çok sevdiğiniz bir internet servisi bir gün "kusura bakmayın satıldık, size hizmet veremediğimiz için üzgünüz, ama biz çok para kazandığımız için çok mutluyuz" diye bir not bırakıp ortadan kaybolabiyor. Yapacak hiçbir şeyiniz yok değil mi? Yeni teknolojiler ile artık öyle değil. Açık kaynak olarak kurulan yapılarda, bütün yapılar ve kurulan sistem herkese açık olduğu için, eğer kurucular bir gün herhangi bir nedenle ayrılırsa, yapılan iş ortada olduğu için (eğer talep varsa) başkaları o işi alıp devam ettirebilir. Özellikle de girişimci bu yapı altında bir topluluk oluşturmayı becerebilmiş ise. 
 
-Evet ama bu sistemin düzgün çalışabilmesi için kaynağa ihtyaç var. Doğru, belki de şimdiye kadar duyduğunuz ama tam adlandıramadığınız, ICO (Initial Coin Offering) ve Token kavramlarını da içeren bu kaynaklar nasıl sağlanıyor? Ona da bir sonraki yazımızda bakalım... 
+Evet ama bu sistemin düzgün çalışabilmesi için kaynağa ihtiyaç var. Doğru, belki de şimdiye kadar duyduğunuz ama tam adlandıramadığınız, ICO (Initial Coin Offering) ve Token kavramlarını da içeren bu kaynaklar nasıl sağlanıyor? Ona da bir sonraki yazımızda bakalım... 
 
 --
 
