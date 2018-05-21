@@ -6,11 +6,9 @@ categories: Genel
 ---
 
 
-Geçtiğimiz [yazımızda](http://ademimerkezi.com/genel/2018/05/17/degisen-girisimcilik-ve-yatirimcilik.html), bildiğimiz alanda klasik girişimcilik ve yatırımcılığın, yeni teknolojiler ile birlikte nasıl bir değişimden geçtiğini anlatmaya başlamıştık. 
+Geçtiğimiz [yazımızda](http://ademimerkezi.com/genel/2018/05/17/degisen-girisimcilik-ve-yatirimcilik.html), bildiğimiz alanda klasik girişimcilik ve yatırımcılığın, yeni teknolojiler ile birlikte nasıl bir değişimden geçtiğini anlatmaya başlamıştık. Şimdi dilerseniz bunun nasıl başarıldığına bakalım. 
 
 Özetlersek, klasik anlamda girişimlerde, bir girişim başarılı olduğunda ortaya çıkan katma değerin tamamına (genelde şirket değeri ile kendini gösterir) girişimci, yatırımcı ve kısıtlı olarak (hisse opsiyonları ile) çalışanlar sahip oluyordu. Yeni teknolojierde ortaya çıkan yapılarda, merkeziyetçilikten uzaklaşma felsefesine paralel olarak, fikrin gelişmesine katkıda bulunan dış geliştiriciler, sistemin çalışmasına yardımcı olan bağımsız dış kaynaklar ve hatta verilen hizmetin kullanıcıları da artık bu katma değerden pay alır hale geliyorlar. Yani gücün yanında getirinin paylaşımı da artık daha demokratik oluyor. 
-
-Şimdi dilerseniz bunun nasıl başarıldığına bakalım. 
 
 
 ![human-2944065_600.jpg](/assets/human-2944065_600.jpg) 
