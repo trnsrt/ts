@@ -231,7 +231,9 @@ Bir sonraki yazımızda, Şifreli Harikalar Dünyası'nda para dışında başka
 
 # Yazı VI
 
-Önceki üç yazımızda, önce Şifreli Harikalar Dünyası'nın (Crytonetworks) yakıtı olan Token kavramına [bakmış], daha sonra bu dünyanın şu an için en kullanılan KriptoPara kısmına [Bitcoin] ve onun yanında yer alan diğer KriptoParalar
+Önceki üç yazımızda, önce Şifreli Harikalar Dünyası'nın (Cryptonetworks) yakıtı olan Token kavramına [bakmış], daha sonra bu dünyanın şu an için en kullanılan KriptoPara alanındaki [Bitcoin] ve onun yanında yer alan [diğer KriptoParalar]'a kısaca göz atmıştık. 
+
+Son yazımızı bitirdiğimiz gibi, Şifreli Dünya aslında bir dijital varlığı bir kişiden diğerine aktarmak için kullanılıyor. Ama bu sadece Para olmak zorunda değil. Esasında para bu işin küçük bir parçası. Bunun yanında daha pekçok alanda Şifreleme sistemleri kullanılabilir. Ama bunun için bir 
 
 
 O nedenle değişim ya da değer saklama amaçlı bir para olarak oldukça kullanışlı ancak üzerine inşa edilebilecek başka teknolojiler için oldukça ağır kalıyor. İşte bu teknolojiler için başka altyapı Blockchain'leri kullanılıyor daha çok (başta Ethereum olmak üzere), bunlara bir sonraki yazımızda değineceğiz. 
