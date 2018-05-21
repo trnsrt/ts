@@ -146,7 +146,7 @@ Bir noktayı tekrar hatırlatmakta fayda var:
 
 Pekçok dijital varlık var bu şekilde transfer edebileceğiniz ve bu varlıkların en yaygını para, buradaki deyimi ile KriptoPara. Bu KriptoPara'ların en kullanılanı ise Bitcoin. İlk çıkanı. Ancak KriptoPara'lar sadece Bitcoin ile sınırlı değil. Gelin isterseniz Bitcoin ile birlikte diğer KriptoPara'lara bir göz atalım. 
 
-###Bitcoin
+### Bitcoin
 
 ![cryptocurrency-bitcoin.png](/assets/cryptocurrency-bitcoin.png) 
 
