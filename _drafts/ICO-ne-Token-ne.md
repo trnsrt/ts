@@ -233,7 +233,32 @@ Bir sonraki yazımızda, Şifreli Harikalar Dünyası'nda para dışında başka
 
 Önceki üç yazımızda, önce Şifreli Harikalar Dünyası'nın (Cryptonetworks) yakıtı olan Token kavramına [bakmış], daha sonra bu dünyanın şu an için en kullanılan KriptoPara alanındaki [Bitcoin] ve onun yanında yer alan [diğer KriptoParalar]'a kısaca göz atmıştık. 
 
-Son yazımızı bitirdiğimiz gibi, Şifreli Dünya aslında bir dijital varlığı bir kişiden diğerine aktarmak için kullanılıyor. Ama bu sadece Para olmak zorunda değil. Esasında para bu işin küçük bir parçası. Bunun yanında daha pekçok alanda Şifreleme sistemleri kullanılabilir. Ama bunun için bir 
+Birbirine bağlı binlerce makine diyoruz uzun zamandır. Bu makineler bağımsız bir şekilde çalışarak, güvenli tek bir yere bağlı olmayan sistemler içinde kırılıp bükülmeyen, geri doğru değişitirelemeyen sistemler yaratıyorlar. Bu da en çok güvenin en ihtiyaç duyduğu alan olan para ve onun dijital olarak transferi anlamında dünyada kabul görmüş. 
+
+Bu birbirine bağlı binlerce makinenin böyle geniş ortak bir defter ile kayıt tutma dışında başka güçleri de var tabii. İşte bu güçleri kullanmak için yola çıkan sistemin adı Ethereum. Çok kabaca ifade edersek, bu binlerce makinenin bağlı olduğu dünyanın en büyük bilgisayarı olma iddiasinda Ethereum. Detaylarına bakacağız ama ilginç bir hikayesi var Ethereum'un - kısaca bahsetmekte fayda var. 
+
+Bitcoin'in ortaya çıkışından birkaç yıl sonra, 2011 yılında Rusya'dan Kanada'ya göç etmiş bir ailenin babası, 17 yaşındaki oğluna Satoshi'nin işlerinden ve Bitcoin'den bahseder. Babasının bahsettiklerinden büyülenen Vitarik Buterin adındaki bu genç kendini bir anda bu dünyanın içinde bulur.  Önce arkadaşları ile Bitcoin Magazine diye bir dergi kurarlar. Teknoloji, yazarlık ve matematik konusundaki yetenekleri ile oldukça etkili olur. Zaten rivayete göre üç basamaklı rakamları aklından normal bir insanın iki katı hızda çarpma yeteğine sahip bu genç, henüz 18 yaşında Uluslararası Enformasyon Olimpiyatları'nda Bronz madalya kazanarak yeteneklerini global platformda da gösterir. 
+
+Buterik, öncelikle Bitcoin üzerinde gelişmeler yaparak, Bitcoin transferi dışında daha başka pekçok fonksiyonu (para dışı varlıkları gönderme, dijital kontrat yaratma gibi) bu sistem geçirmek için uğraşır. Ancak bu konuda oldukça zorlanır. Zira Bitcoin'i özelliği itibariyle bir işi (para gönderme) iyi yapmak üzere kurgulanır. Geliştirlcilerinin aklındaki tek konu Bitcoin'i nasıl dış tehlikeler karşı daha güvenilir yaparızdır, yenilikler öncelikleri arasında değildir (hala da öyle, o nedenle gururlar 2009'dan beri bir kez bile tökezlemedi ve "hack" edilemedi diye göğüslerini gere gere ortadalar). Nuterin'in kafasında ise paranın bir yerden öbürüne geçtiği işlemleri tutan bir hesap makinesi benzeri fonksiyondan çok, daha pek çok işlemi yapabilecek bir dünya bilgiysayarı vizyonu vardır. 
+
+2013 yılında Buterin 15 yazılımcı arkadaşı ile birlikte Ethereum'u tanıtır. Burada bahseideln 
+
+
+
+
+Ethereum'a girmeden önce bir tanıma daha bakalım. 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 O nedenle değişim ya da değer saklama amaçlı bir para olarak oldukça kullanışlı ancak üzerine inşa edilebilecek başka teknolojiler için oldukça ağır kalıyor. İşte bu teknolojiler için başka altyapı Blockchain'leri kullanılıyor daha çok (başta Ethereum olmak üzere), bunlara bir sonraki yazımızda değineceğiz. 
@@ -241,6 +266,7 @@ O nedenle değişim ya da değer saklama amaçlı bir para olarak oldukça kulla
 
 
 
+Son yazımızı bitirdiğimiz gibi, Şifreli Dünya aslında bir dijital varlığı bir kişiden diğerine aktarmak için kullanılıyor. Ama bu sadece Para olmak zorunda değil. Esasında para bu işin küçük bir parçası. Bunun yanında daha pekçok alanda Şifreleme sistemleri kullanılabilir. 
 
 
 
