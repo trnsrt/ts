@@ -241,7 +241,7 @@ Bitcoin'in ortaya çıkışından birkaç yıl sonra, 2011 yılında Rusya'dan K
 
 Buterik, öncelikle Bitcoin üzerinde gelişmeler yaparak, Bitcoin transferi dışında daha başka pekçok fonksiyonu (para dışı varlıkları gönderme, dijital kontrat yaratma gibi) bu sistem geçirmek için uğraşır. Ancak bu konuda oldukça zorlanır. Zira Bitcoin'i özelliği itibariyle bir işi (para gönderme) iyi yapmak üzere kurgulanır. Geliştirlcilerinin aklındaki tek konu Bitcoin'i nasıl dış tehlikeler karşı daha güvenilir yaparızdır, yenilikler öncelikleri arasında değildir (hala da öyle, o nedenle gururlar 2009'dan beri bir kez bile tökezlemedi ve "hack" edilemedi diye göğüslerini gere gere ortadalar). Nuterin'in kafasında ise paranın bir yerden öbürüne geçtiği işlemleri tutan bir hesap makinesi benzeri fonksiyondan çok, daha pek çok işlemi yapabilecek bir dünya bilgiysayarı vizyonu vardır. 
 
-2013 yılında Buterin 15 yazılımcı arkadaşı ile birlikte Ethereum'u tanıtır. Burada bahseideln 
+2013 yılında Buterin 15 yazılımcı arkadaşı ile birlikte Ethereum'u tanıtır. 
 
 
 
