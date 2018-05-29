@@ -247,7 +247,9 @@ Peter Thiel'in bursu ekibin daha olgun bir ürün oluşturma anlamında yol alma
 
 Yukarıda bahsedilen toplanan paranın tamamının geliştiricilere verilecek ödüller ve maşşlar ile, Ethereum Vakfı'nın destekleyeceği Ethereum ve Kripo dünyası ile ilgili projeler için harcanacağını belirtelim. Bu şekilde satılan etherin yanında, bu miktarın onda biri kadar bir rakam da kurucular için ayrılmış. Yani, daha önceki yazılarımızda bahsettiğimiz, şirket kurucularının şirketin büyük kısmına sahip olmalarının yerini, bu yeni modelde, para toplamak için satılan etherin ufak bir kısmına baştan sahip olmak almış. Bu da bir yenilik. 
 
-İşte bu şekilde etkili bir başlangıç hikayesine imza atar Ethereum. Peki ama ne işe yarar Ethereum?.  başlangıç hikayesi bu şekilde olan Ethereum,
+İşte bu şekilde etkili bir başlangıç hikayesine imza atar Ethereum. Peki ama ne işe yarar Ethereum? Ona da bir sonraki yazımızda bakalım artık. 
+
+# Yazı VII
 
 Ethereum'a girmeden önce bir tanıma daha bakalım. 
 
