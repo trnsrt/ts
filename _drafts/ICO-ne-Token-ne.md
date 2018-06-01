@@ -247,7 +247,7 @@ Bitcoin'in ortaya çıkışından birkaç yıl sonra, 2011 yılında Rusya'dan K
 
 &nbsp;
 
-| ![Vitalik-Buterin.png](/assets/Vitalik-Buterin.jpg) | 
+| ![vitalik-buterin.png](/assets/vitalik-buterin.jpg) | 
 |:--:| 
 | *Vitalik Buterin* |
 
