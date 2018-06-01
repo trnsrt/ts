@@ -140,7 +140,7 @@ categories: Genel
 ---
 
 
-Bundan önceki üç yazımızda [önce] değişen girişimci-yatırımcı dünyasına, [sonra] bu değişimin daha demokratik olmasını sağlayan yapısal değişimlere bakmış ve [en sonunda] da bu sistemi işleten yani yatırımcılardan sağlanan ve sadece girişimcilere değil sistemdeki tüm paydaşlara dağılarak sistemin düzgün çalışması için gerekli olan yakıta yani Token kavramından söz etmiştik. 
+Bundan önceki üç yazımızda [önce](http://ademimerkezi.com/genel/2018/05/17/degisen-girisimcilik-ve-yatirimcilik.html) değişen girişimci-yatırımcı dünyasına, [sonra](http://ademimerkezi.com/genel/2018/05/21/girisimler-yeni-teknolijler-ile-nasil-demokratiklesiyor.html) bu değişimin daha demokratik olmasını sağlayan yapısal değişimlere bakmış ve [en sonunda](http://ademimerkezi.com/genel/2018/05/25/ico-ve-token-dunyasi.html) da bu sistemi işleten yani yatırımcılardan sağlanan ve sadece girişimcilere değil sistemdeki tüm paydaşlara dağılarak sistemin düzgün çalışması için gerekli olan yakıta yani Token kavramından söz etmiştik.  
 
 Bu yazımızda ise farklı tokenlardan bahsederek aslında bir parça Blockchain dünyasının farklı ekosistemlerinde de bahsediyor olacağız. 
 
