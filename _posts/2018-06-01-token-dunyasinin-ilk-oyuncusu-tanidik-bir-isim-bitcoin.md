@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Token Dünyası'nın ilk oyuncusu tanıdık bir isim: Bitcoin"
+title:  "Token dünyasının ilk oyuncusu tanıdık bir isim: Bitcoin"
 date:   2018-06-01 17:22:15 +0300
 categories: Genel
 ---
