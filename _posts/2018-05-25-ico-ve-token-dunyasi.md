@@ -16,7 +16,7 @@ Yeni teknolojiler ile yaratılan katma değer artık daha eşit şekilde paylaş
 
 &nbsp;
 
-| ![Telefon-jetonu-400.png](/assets/Telefon-jetonu-400.png) | 
+| ![Telefon-jetonu-2-400.png](/assets/Telefon-jetonu-2-400.png) | 
 |:--:| 
 | *Eski günlerdeki (hatırlayana tabii) PTT jetonu* | 
 
