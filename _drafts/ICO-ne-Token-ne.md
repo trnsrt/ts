@@ -245,6 +245,14 @@ Bu birbirine bağlı binlerce makinenin böyle geniş ortak bir defter ile kayı
 
 Bitcoin'in ortaya çıkışından birkaç yıl sonra, 2011 yılında Rusya'dan Kanada'ya göç etmiş bir ailenin babası, 17 yaşındaki oğluna Satoshi'nin işlerinden ve Bitcoin'den bahseder. Babasının bahsettiklerinden büyülenen Vitarik Buterin adındaki bu genç kendini bir anda bu dünyanın içinde bulur.  Önce arkadaşları ile Bitcoin Magazine diye bir dergi kurarlar. Teknoloji, yazarlık ve matematik konusundaki yetenekleri ile oldukça etkili olur. Zaten rivayete göre üç basamaklı rakamları aklından normal bir insanın iki katı hızda çarpma yeteğine sahip bu genç, henüz 18 yaşında Uluslararası Enformasyon Olimpiyatları'nda Bronz madalya kazanarak yeteneklerini global platformda da gösterir. 
 
+&nbsp;
+
+| ![Vitalik-Buterin.png](/assets/Vitalik-Buterin.jpg) | 
+|:--:| 
+| *Vitalik Buterin* |
+
+&nbsp;
+
 Buterik, öncelikle Bitcoin üzerinde gelişmeler yaparak, Bitcoin transferi dışında daha başka pekçok fonksiyonu (para dışı varlıkları gönderme, dijital kontrat yaratma gibi) bu sistem geçirmek için uğraşır. Ancak bu konuda oldukça zorlanır. Zira Bitcoin'i özelliği itibariyle bir işi (para gönderme) iyi yapmak üzere kurgulanır. Geliştirlcilerinin aklındaki tek konu Bitcoin'i nasıl dış tehlikeler karşı daha güvenilir yaparızdır, yenilikler öncelikleri arasında değildir (hala da öyle, o nedenle gururlar 2009'dan beri bir kez bile tökezlemedi ve "hack" edilemedi diye göğüslerini gere gere ortadalar). Nuterin'in kafasında ise paranın bir yerden öbürüne geçtiği işlemleri tutan bir hesap makinesi benzeri fonksiyondan çok, daha pek çok işlemi yapabilecek bir dünya bilgiysayarı vizyonu vardır. 
 
 2013 yılında Buterin 15 yazılımcı arkadaşı ile birlikte Ethereum'u tanıtır. Ama henüz ortada sadece bir konsept tasarım vardır - para kazanılacak ya da yatırım alabilecek bir ürün için henüz erkendir. Tam o sırada Peter Thiel (bilenler bilir - PayPal'in kurucularından, Facebook'a ilk para yatıran kişidir kendisi) onlara 100,000 ABD Doları burs verir. Derler ki bu bursu almak Amerikanın en iyi üniversitelerine girmekten bile zordur. Tabii sadece bu da değil, aynı zamanda Buterin, 2014 yılı içinde Etherum ile  Dünya Teknoloji Ödülü'nü de alır. O yıl, Enerji dalında Elon Musk, Medya alanında meşhur Walter Isaacson, Teknoloji alanında ise Buterin ile birlikte bu ödüle layık görülen diğer kişiler olurlar. 
