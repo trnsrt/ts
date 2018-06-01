@@ -132,7 +132,13 @@ Bundan sonraki yazımızda değişik değişik tokenlara yine en bildiğimiz ör
 
 ---
 
-# Yazı IV
+---
+layout: post
+title:  "Token Dünyası'nın ilk oyuncusu tanıdık bir isim: Bitcoin"
+date:   2018-06-01 15:45:15 +0300
+categories: Genel
+---
+
 
 Bundan önceki üç yazımızda [önce] değişen girişimci-yatırımcı dünyasına, [sonra] bu değişimin daha demokratik olmasını sağlayan yapısal değişimlere bakmış ve [en sonunda] da bu sistemi işleten yani yatırımcılardan sağlanan ve sadece girişimcilere değil sistemdeki tüm paydaşlara dağılarak sistemin düzgün çalışması için gerekli olan yakıta yani Token kavramından söz etmiştik. 
 
