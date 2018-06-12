@@ -282,6 +282,11 @@ Ofistesiniz, karnınız acıktı. Dışarı çıkıp markete gidecek zamanının
 
 Şaka değil - gerçekten belki kiminizin duyduğu Akıllı Kontrat aslında bu. Akıllı denmesinden dolayı çok karmaşık bir kavram bekliyorsunuz ama öyle değil. Akıllı Kontrat ile bahsedilen, önceden kuralları konmuş, iki tarafın bu kurallara bağlı olarak anlaştıkları koşulların gerçekleşmesi durumunda kendi kendine yürürlüğe giren işlem. Yukarıdaki örnekte, siz biliyorsunuz ki, makineye para attığınızda bisküvi alacaksınız. Makine de benzer şekilde programlanmış ve içine para atılıp seçim yapıldığında otomatik olarak o işlemi gerçekleştiriyor. 
 
+### Akıllı Kontratlar değil karışık olan onu düzenlemesi
+
+Akıllı kontratlar neden önemli? Şu nedenle: Akıllı kontratlar bize herhangi bir kişiye güvene ihtiyaç olmadan bir işlemi gerçekleştirmemize yardımcı oluyor. Yukar
+
+
 ### Ethereum ve Akıllı Kontratlar
 
 
