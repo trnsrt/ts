@@ -289,6 +289,15 @@ Akıllı kontratın asıl gücü işte burada ortaya çıkıyor. Akıllı kontra
 
 ### Ethereum ve Akıllı Kontratlar
 
+
+&nbsp;
+
+| ![dilbert-smart-contracts-400.png](/assets/dilbert-smart-contracts-400.png) | 
+|:--:| 
+| *Yeni moda: "Akıllı Kontratlar"* |
+
+&nbsp;
+
 Akıllı kontratlar uzun zamandır aslında bilinen bir kavram - aynı otomatların uzun süredir hayatımızda olması gibi. Şu anda en bilinen KriptoPara Bitcoin de, örneğin Script adı verilen bir akıllı kontrat diline sahip. Ancak bir [önceki yazımızdan] hatırlayabileceğiniz gibi, daha çok dijital olarak bir varlığın bir taraftan diğerine transferinde kullanılan Bitcoin ve geliştiricileri sadece Bitcoin'in dijital para özelliğine odaklanmayı tercih etmişlerdi. Ethereum kurucusu Vitalik Buterin ise Blockchain sistemlerini sadece para değil daha pekçok fonksiyon için kullanmak istiyordu. Bu fonkisyonlar, dijital bir varlığın bir kişiden diğerine aktarımından tutun, her tür dijital hizmetin değişik yerlerdeki bilgisayarlar aracılığıyla verilmesine kadar uzanan geniş bir yelpazedeler. Bu tip bilgisayarlar arasında verilecek hizmetler ve bu hizmetler karşılığında bir ödeme yapılabilmesi için bu bilgiyarların ortak kabul ettikleri bir kurallar bütünü ve sözleşme olması gerekiyordu. İşte, Ethereum bu tip değişik bilgisiyarlar arasında yapılacak işlemler ve bu işlemlerin bağlı olacağı akıllı kontratlar için bir altyapı platformu olarak ortaya çıktı. 
 
 Birbirinden uzak ve bağımsız makinelerin kendilerinden uzak olarak verilen işi yapmaları sayesinde Ethereum dünyanın en büyük bilgisayarını insanların emrine veriyor. Yazılımcılar, bu dünyanın en büyük dağılmış bilgisayarı üzerinde çalışacak programlar yazabilecekler. Bilgisayarlar bu işlemi yaptıklarında ise karşılık olarak ether denen para birimini alıyorlar - buna yakıt da deniyor. Yazılımcılar da sistemi kullandıkça ether ödüyorlar. Bir nevi yazılımcıları basit ve verimli kod yazmaya iten bir sistem, zira ne kadar verimli olursanız sisteme o kadar az para ödeyeceksiniz. Ethereum üzerine kurulmuş olan yüzlerce yazılım var. Aynı Apple'in işletim sistemi üzerine Apple Store'dan satın aldığınız App'lar gibi.. Bunlara kısaca dApps deniyor. Pek çoğu henüz sahneye çıkmak için hazır değiller. Ama Türkiye'de ve dünyada Blockchain üzerine kurulan girişimlerin büyük çoğunluğunun Ethereum altyapısını kullandığını söylemek mümkün.
