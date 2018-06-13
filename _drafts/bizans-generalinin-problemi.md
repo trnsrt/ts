@@ -16,3 +16,12 @@ Efendim, ilginçtir, bu mimari anlaşmazlıklar için kullanılan terim "Bizans 
 Vakti zamanında Bizans Ordusu bir kaleyi kuşatır. Kale dört bir yandan kısım kısım bölükler tarafından sarılmıştır. Bölükler birbirlerinden uzakta oldukları için aralarındaki haberleşmeyi ulaklar sağlamaktadır. Ancak ordunun asker sayısı oldukça sınırlı, kaledekiler de oldukça dişlidir. Ayrıca Bizans ordusunun içinde de (özellikle ulaklar arasında) hainler bulunmaktadır. Kale ancak ordu dört bir yandan topluca birlikte hareket ederse alınabilecektir. Aksi takdirde, bölüklerin yarısından azı hücum eder diğerleri hücüma katılmazsa hücum edenlerin telef olacağı kuşatma, Bizans ordusunun hezimetiyle sona erecektir. 
 
 Bölükler arasında doğru saatte hücum edileceği konusunda nasıl bir birlik sağlanabilir?. 
+
+
+
+
+Bitcoin
+
+İsteyen her makine sisteme katılabilir. Ancak sisteme katılabilmek için enerji harcaman lazım. Eğer harcadığın enerji sonrası doğru işlem yaparsan çıkan sonuçtan ödül kazanmaya hakkın var. Eğer sistemi manipüle etmeye kalkarsan ödül kazanamazsın ve harcadığın enerji boşa gider. 
+
+O nedenle "Bitcoin çok enerji harcadı, Bitcoin Sırbıstan kadar enerji harcıyor, boşa israf" gibi sözlere kanmayın. Bitcoin sisteminin yaptığı bu kadar enerji harcayarak kendisini dışa tehditlere karşı korunaklı hale getirmek. Boşa bir harcama değil bir güvenlik harcaması gibi düşünün. Kurulduğu 2009 yılından bu yana bir kez bile teklemeyen ve her tür dış tehdidi bertaraf etmiş olmanın bedeli.. 
