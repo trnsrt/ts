@@ -40,15 +40,29 @@ Tahmin piyasasının içindeki en büyük oyuncu şu an itibari ile [Augur](http
 
 &nbsp;
 
-| ![augur-logo.png](/assets/augur-logo-600.png) | Bu alanda ikinci büyük Gnosis de benzer şekilde Ethereum üzerine kurulmuş, şu anda yaklaşık 56 milyon ABD Doları değere sahip bir platform. Gnosis de GNO adını verdiği bir token ile kriptoborsalarda işlem görüyor. 
-|:--:| | |
-| *[Augur](http://www.augur.net)* | ||
+Bu alanda ikinci büyük [Gnosis](https://gnosis.pm/) de benzer şekilde Ethereum üzerine kurulmuş, şu anda yaklaşık 56 milyon ABD Doları değere sahip bir platform. Gnosis de GNO adını verdiği bir token ile kriptoborsalarda işlem görüyor. 
+
+&nbsp;
+
+| ![gnosis_logo-400.png](/assets/gnosis_logo-400.png) | 
+|:--:| 
+| *[Gnosis](https://gnosis.pm/)* |
+
+&nbsp;
 
 Bir diğer bu alanda çalışmayı planlayan platform [Hivemind](http://bitcoinhivemind.com/) ise Bitcoin üzerine kurulu ancak şu anda henüz Ar-Ge aşamasında. 
 
 Çin piyasaları için kurulmuş olan Bodhi ise Qtum Blockchain platformunu kullanırken, bir diğer 
 
 Bunun yanında Çin piyasasında ön plana çıkan ve Qtum Blockchain platformunu kullanan [Bodhi](https://www.bodhi.network/) ve Ethereum platformunu kullanan [Stox](https://www.stox.com/) da tahmin piyasaları pazarından pay kapmaya çalışan diğer oyuncular olacak gelecekte. 
+
+&nbsp;
+
+| ![hivemind-bodhi-stox-logos.png](/assets/hivemind-bodhi-stox-logos-800.png) | 
+|:--:| 
+| *[Gnosis](https://gnosis.pm/)* |
+
+&nbsp;
 
 
 
