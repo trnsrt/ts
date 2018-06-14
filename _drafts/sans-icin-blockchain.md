@@ -32,9 +32,10 @@ Bunun yanında bir de merkezi olmayan platformların komisyon olarak merkezi pla
 
 Tahmin piyasasının içindeki en büyük oyuncu şu an itibari ile Augur. Daha önce de bahsettiğimiz [Ethereum] platformunu kullanarak Reputation (REP) adını verdikleri bir token çıkaran Augur bu alanın öncülerinden biri. Augurun şu an itibariyle yaklaşık 350 milyon ABD Doları değeri var. 
 
-Kanuni altyapı
+Bu alanda ikinci büyük Gnosis de benzer şekilde Ethereum üzerine kurulmuş, şu anda yaklaşık 56 milyon ABD Doları değere sahip bir platform. Gnosis de GNO adını verdiği bir token ile kriptoborsalarda işlem görüyor. 
 
-Burada 
+Bir diğer bu alanda çalışmayı planlayan platform Hivemind ise Bitcoin üzerine kurulu. Bunun yanında Çin piyasasında ön plana çıkan Bodhi ve Stox'da tahmin piyasaları pazarından pay kapmaya çalışan diğer oyuncular olacak gelecekte. 
+
 
 
 
