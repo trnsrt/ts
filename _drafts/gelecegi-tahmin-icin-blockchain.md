@@ -36,7 +36,7 @@ Tahmin piyasasının içindeki en büyük oyuncu şu an itibari ile [Augur](http
 
 | ![augur-logo.png](/assets/augur-logo-600.png) | 
 |:--:| 
-| *Augur*(http://www.augur.net) |
+| *[Augur](http://www.augur.net)* |
 
 &nbsp;
 
