@@ -60,7 +60,7 @@ Bunun yanında Çin piyasasında ön plana çıkan ve Qtum Blockchain platformun
 
 | ![hivemind-bodhi-stox-logos.png](/assets/hivemind-bodhi-stox-logos-800.png) | 
 |:--:| 
-| *[Gnosis](https://gnosis.pm/)* |
+| *Hivemind, Bodhi ve Stox* |
 
 &nbsp;
 
