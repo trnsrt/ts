@@ -41,8 +41,8 @@ Tahmin piyasasının içindeki en büyük oyuncu şu an itibari ile [Augur](http
 &nbsp;
 
 | ![augur-logo.png](/assets/augur-logo-600.png) | Bu alanda ikinci büyük Gnosis de benzer şekilde Ethereum üzerine kurulmuş, şu anda yaklaşık 56 milyon ABD Doları değere sahip bir platform. Gnosis de GNO adını verdiği bir token ile kriptoborsalarda işlem görüyor. 
-|:--:| 
-| *[Augur](http://www.augur.net)* |
+|:--:| | |
+| *[Augur](http://www.augur.net)* | ||
 
 Bir diğer bu alanda çalışmayı planlayan platform [Hivemind](http://bitcoinhivemind.com/) ise Bitcoin üzerine kurulu ancak şu anda henüz Ar-Ge aşamasında. 
 
