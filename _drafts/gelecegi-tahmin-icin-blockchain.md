@@ -30,11 +30,17 @@ Bunun yanında bir de merkezi olmayan platformların komisyon olarak merkezi pla
 
 ### Tahmin piyasası oyuncuları
 
-Tahmin piyasasının içindeki en büyük oyuncu şu an itibari ile Augur. Daha önce de bahsettiğimiz [Ethereum] platformunu kullanarak Reputation (REP) adını verdikleri bir token çıkaran Augur bu alanın öncülerinden biri. Augurun şu an itibariyle yaklaşık 350 milyon ABD Doları değeri var. 
+Tahmin piyasasının içindeki en büyük oyuncu şu an itibari ile [Augur](http://www.augur.net/). Daha önce de bahsettiğimiz [Ethereum] platformunu kullanarak Reputation (REP) adını verdikleri bir token çıkaran Augur bu alanın öncülerinden biri. Augurun şu an itibariyle yaklaşık 350 milyon ABD Doları değeri var. 
 
 Bu alanda ikinci büyük Gnosis de benzer şekilde Ethereum üzerine kurulmuş, şu anda yaklaşık 56 milyon ABD Doları değere sahip bir platform. Gnosis de GNO adını verdiği bir token ile kriptoborsalarda işlem görüyor. 
 
-Bir diğer bu alanda çalışmayı planlayan platform Hivemind ise Bitcoin üzerine kurulu. Bunun yanında Çin piyasasında ön plana çıkan Bodhi ve Stox'da tahmin piyasaları pazarından pay kapmaya çalışan diğer oyuncular olacak gelecekte. 
+Bir diğer bu alanda çalışmayı planlayan platform [Hivemind](http://bitcoinhivemind.com/) ise Bitcoin üzerine kurulu ancak şu anda henüz Ar-Ge aşamasında. 
+
+Çin piyasaları için kurulmuş olan Bodhi ise Qtum Blockchain platformunu kullanırken, bir diğer 
+
+Bunun yanında Çin piyasasında ön plana çıkan ve Qtum Blockchain platformunu kullanan [Bodhi](https://www.bodhi.network/) ve Ethereum platformunu kullanan [Stox](https://www.stox.com/) da tahmin piyasaları pazarından pay kapmaya çalışan diğer oyuncular olacak gelecekte. 
+
+
 
 
 
