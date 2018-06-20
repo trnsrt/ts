@@ -1,7 +1,6 @@
 
 Blockchain'in hayatımızda neler değiştirebileceği ile değişik alanlarda uygulamalarına [sağlık](http://ademimerkezi.com/genel/2018/04/17/saglik-icin-blockchain.html), [sanat](http://ademimerkezi.com/genel/2018/04/06/sanat-icin-blockchain.html), [insani yardım](http://ademimerkezi.com/genel/2018/03/29/Iyilik-icin-blockchain.html) alanlarından bundan önceki yazılarımızda kısaca göz atmıştık. Şimdi de Blockchain'i geleceği tahmin etmek için nasıl kullanabiliriz ona bir bakalım isterseniz.  
 
-### Tahmin piyasaları (Prediction Markets)
 
 &nbsp;
 
@@ -11,6 +10,7 @@ Blockchain'in hayatımızda neler değiştirebileceği ile değişik alanlarda u
 &nbsp;
 
 
+### Tahmin piyasaları (Prediction Markets)
 
 Geleceği tahmin etmek derken aslında kastettiğimiz "tahmin piyasası" (prediction market). Ne demek bu? Tahmin piyasaları esasında, insanlara gelecek ile ilgili tahminlerin hisselerinin satıldığı piyasalar. Normal bir hisse senedi piyasasından farklı değil - sadece alıp sattığınız bir şirketin hissesinden ziyade bir olayın olma ya da olmama ihtimali. 
 
