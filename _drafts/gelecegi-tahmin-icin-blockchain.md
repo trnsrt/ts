@@ -3,6 +3,15 @@ Blockchain'in hayatımızda neler değiştirebileceği ile değişik alanlarda u
 
 ### Tahmin piyasaları (Prediction Markets)
 
+&nbsp;
+
+![coffe-mug_400.jpg](/assets/coffe-mug_400.jpg)
+
+
+&nbsp;
+
+
+
 Geleceği tahmin etmek derken aslında kastettiğimiz "tahmin piyasası" (prediction market). Ne demek bu? Tahmin piyasaları esasında, insanlara gelecek ile ilgili tahminlerin hisselerinin satıldığı piyasalar. Normal bir hisse senedi piyasasından farklı değil - sadece alıp sattığınız bir şirketin hissesinden ziyade bir olayın olma ya da olmama ihtimali. 
 
 Bu tip borsalar şu anda normal olarak var. Özellikle vadeli işlem borsaları bu iş için kurulmuş durumda.  Blockchain ile bu tip borsalar merkezi bir yapıdan, adem-i merkezi yani herhangi bir merkezi olmayan dağıtık bir yapıya kavuşacaklar. Bunun ne gibi avantajları var?
