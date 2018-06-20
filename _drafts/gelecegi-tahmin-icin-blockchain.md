@@ -67,6 +67,8 @@ Bunun yanında Çin piyasasında ön plana çıkan ve Qtum Blockchain platformun
 
 ### Sonuç
 
+Kişisel olarak gelecek ile ilgili istediğiniz konuda (bir karşı taraf bulabilmek şartıyla) sınırsız şekilde tahmin yapabilme imkanı büyük bir güç. Bunun yanında kişilerin bireysel düşüncelerini toplayarak toplumun (ya da bir kesiminin) kollektif düşüncesini görebilmek/anlayabilmek de belirli olayların nasıl gelişeceğini önceden anlayabilmek için oldukça önemli bir gösterge. Bu alanı şans oyunları gibi dar bir kapsamdan çıkararak çok daha bilimsel tabanlı bir şekilde değerlendirmek gelecek için pekçok konuya daha iyi bakabilme imkanı verecek. Bu alandaki büyük potansiyeli görmek için kahin olmaya gerek yok :)
+
 
 
 
