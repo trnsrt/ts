@@ -18,9 +18,33 @@ Vakti zamanında Bizans Ordusu bir kaleyi kuşatır. Kale dört bir yandan kıs�
 
 Bölükler arasında doğru saatte hücum edileceği konusunda nasıl bir birlik sağlanabilir?. 
 
-Sorunun çözümü oldukça zor - özellikle iki 
+Öncelikle bunu sağlamak için mesajların gerçekten o liderden mi geldiğini anlamak gerekir - yani mesajın tutarlı olup olmadığını, gönderin gerçekten o kişi olup olmadığını. 
+
+O günlerde çözülemeyen problem bugün daha önce de bahsettiğimiz şifreleme daha doğrusu "öğütme" (hashing) olsaydı rahatça çözülebilirdi. Nasıl mı?
+
+Şöyle düşünün, öğütme makinası içine attığınız bir bilgiyi karmaşık rastgele bir sayı ve harf zincirine çeviriyor. Aynı bilgiyi verdiğinizde her seferinde aynı sayı/harf zincirini veren ama bilginin içindeki bir harfi bile değiştirseniz bambaşka bir sayı/harf zinciri çıkaran bir sistem. 
+
+Buradaki püf noktası öğütme makinasına iki bilgiyi bir anda sokmak. Bu bilgilerden biri mesajımız "Çarşamba günü saat 10:00'da hücum edeceğiz" diğeri de generalin her bir birliğin başına önceden verdiği gizli bir rakam. General, her bir birliğe yazılı mesajı ve bu mesaj ile gizli rakamın birleşimi sonucu ortaya çıkan sayı/harf zincirini gönderir. Mesajı alan birlik başı mesajı ve kendinde de bulunan sayıyı öğütme mekanizmasına sokar, eğer çıkan sayı/harf zinciri ulağın getirdiği ile aynı ise o zaman mesajın komutandandan geldiğini anlar ve ona göre davranır. Eğer iki zincir tutmuyor ise o zaman saldırıya geçmez ve bekler. 
+
+
 
 ### Bitcoin nasıl çözüm bulmuş bu soruna?
+
+
+Bitcoin sisteminde de aynı şekilde, makinelerin doğru mesajı verdğini, arada bir hainin yanlış bilgiyi etrafa verip vermediğini nasıl anlayabiliriz? 
+
+Yine generaller örneği üzerinden anlatırsak: Ancak öyle içimiz rahat eder. Peki Bitcoin bunu nasıl sağlıyor?
+
+Efendim bunu anlayabilmek için öncelikle [Bitcoin şifrelemesi](http://ademimerkezi.com/genel/2018/05/08/Peki-Blockchain-sifrelemesi-nasil-calisiyor.html) konusundaki yazıya tekrar göz atmakta fayda var. 
+
+Kısaca tekrar etmek gerekirse - Bitcoin bir şifreleme mekanizması kullanıyor. Yani yazdığınız bir mesaji bir "ögütme mekanizması"(inglizce hashing deniyor) geçiriyor. Eğer biz bu makinaya bir bilgi atarsak, yanına da bizim kendi dijital şifremizi ekler
+
+
+
+
+
+
+
 
 Peki nasıl bir işlem yapıyordu bu makineler? Hatırlarsanız bahsetmiştik daha önce. Yaptıkları aslında üç bilgiyi bir araya getirmek
 
