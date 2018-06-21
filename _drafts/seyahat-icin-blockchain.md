@@ -6,7 +6,7 @@ Geçtiğimiz yazılarımızda Blockchain'in sadece finans değil değişik alanl
 
 Dünyada en dağınık sektörlerden biri seyahat. Son kullanıcı olarak bizler bu dağınık yapının çok az bir kısmını görüyoruz. Bizim için acente ya da web üzerinden bir bilet almaktan ibaret gibi. Ama perde arkasında pekçok hizmet sağlayıcı bize bu hizmeti vermek için bir araya geliyor. Bileti ayarlayan acente, uçuşu sağlayan havayolu, bağlantı uçuşu varsa diğer uçuşu sağlayan havayolu. Bu işin sadece uçuş kısmı - bir de buna ekstra hizmetler (otel, kiralık araba vb) eklerseniz iyice karmaşıklaşıyor. 
 
-Acenteler, havayolları, oteller her biri kendine özgü sistemler kullanan silolar. Birbirileri ile ilişkileri olan 
+Acenteler, havayolları, oteller her biri kendine özgü sistemler kullanan silolar. Birbirileri ile ilişkileri 
 
 
 
