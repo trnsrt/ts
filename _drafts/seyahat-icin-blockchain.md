@@ -29,6 +29,8 @@ Bu da güzel bir soru. Her Blockchain bir değil. Blockchain aslına bakarsanız
 
 Özel Blockchain ise adından da anlaşıldığı gibi, bir otorite tarafından içeri girişiniz ve içeride işlem yapışınız izne bağlı olan sistemler. 
 
+Her iki tür ile ilgili herkesin ayrı bir fikri ve düşüncesi var. Bitcoin taraftarlarına sorarsanız, Özel Blockchain'leri sistemden bile saymazlar - kendilerince haklılar. Ama bir taraftan da özellikle KriptoPara dışındaki girişimlerde her zaman topluma açık sistemler kurmak girişim için en verimli yol olmayabilir. 
+
 
 ### Hangi girişimler başarılı olur?
 
