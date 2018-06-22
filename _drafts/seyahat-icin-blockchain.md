@@ -81,5 +81,5 @@ Karmaşık ve eskimiş sistemler nedeniyle şu an yalpamakta olan bir seyahat se
 *Yukarıdaki üç parçadan ilki için sistem kullanıcı arasındaki bilgiyi IATA (International Air Transport Association) sağlıyor. Ancak mevcut havayolu taşımacılığında senede 3.7 milyar yolcu taşınırken bunun yalnızca %65'i IATA üzerinden geçiyor. Kalanı ise IATA üyesi olmayan 460 havayolu ile taşınıyor ve aralarında standard bir bilgi paylaşımı yok.*
 
 
-*Furher Network'un yayınladığı [white paper](https://further.network/whitepaper/whitepaper-latest-en.pdf)'dan alındı* 
+**Further Network'un yayınladığı [white paper](https://further.network/whitepaper/whitepaper-latest-en.pdf)'dan alındı* 
 
