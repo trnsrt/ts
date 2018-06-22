@@ -52,7 +52,7 @@ Further Network, yukarıdaki sistemin çalışabilmesi için bir de kendi Token'
 
 ---
 
-*### Uçuş işleminin parçaları*
+*###Uçuş işleminin parçaları
 
 *Seyahat sisteminin oyuncuları 40 yıl tasarlanmış sistemler ile günümüzün hızlı dünyasına ayak uydurmaya çalışıyorlar. Bu ne yazık ki çok mümkün değil. Sistem değiştirmek hem pahalı hem de 7/24 devam ettiği için riskli. Elektronik bilete geçmek bile 15 yılı buldu. Peki ne yapmalı?
 
