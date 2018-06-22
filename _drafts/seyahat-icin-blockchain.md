@@ -3,8 +3,6 @@ Geçtiğimiz yazılarımızda Blockchain'in sadece finans değil değişik alanl
 Şimdi de seyahat ettiğimizde Blockchain bize nasıl yardımcı olabilir ona bakalım. Üstelik bu sefer bize yardımcı olmaya aday girişim ülkemizden çıkma. 
 
 ![jets-400.jpg](/assets/jets-400.jpg) 
-&nbsp;
-
 
 ### Yine düştük yollara.. 
 
