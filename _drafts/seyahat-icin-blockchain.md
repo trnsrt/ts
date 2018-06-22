@@ -68,9 +68,9 @@ Karmaşık ve eskimiş sistemler nedeniyle şu an yalpamakta olan bir seyahat se
 
 ---
 
-### *Dipnot: Uçuş işleminin parçaları*
+### *Dipnot: Uçuş işleminin parçaları**
 
-*Seyahat sisteminin oyuncuları 40 yıl tasarlanmış sistemler ile günümüzün hızlı dünyasına ayak uydurmaya çalışıyorlar. Bu ne yazık ki çok mümkün değil. Sistem değiştirmek hem pahalı hem de 7/24 devam ettiği için riskli. Elektronik bilete geçmek bile 15 yılı buldu. Peki ne yapmalı?*
+*Seyahat sisteminin oyuncuları 40 yıl tasarlanmış sistemler ile günümüzün hızlı dünyasına ayak uydurmaya çalışıyorlar. Bu ne yazık ki çok mümkün değil. Sistem değiştirmek hem pahalı hem de 7/24 devam ettiği için riskli. Elektronik bilete geçmek bile 15 yılı buldu.*
 
 *Bir uçuş ve konaklama işlemini üç parçaya ayırmak mümküm*
 
