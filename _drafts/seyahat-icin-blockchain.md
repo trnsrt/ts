@@ -12,6 +12,20 @@ Acenteler, havayolları, oteller her biri kendine özgü sistemler kullanan silo
 
 Sistemlerin birbirinden bağımsız olması nedeniyle oyuncular arasındaki ilişkiler de karmaşık. Bir havayolu bir uçağı uçuşa açtığında sistemlerinden bir ürün yaratıyor. Acentelere bu ürünü satmak için imkan verdiğinde aslında bir nevi acentelere bir kredi açmış oluyor. İşte bu kredi nedeniyle, acenteler havayollarına birliği olan IATA'ya bağlı olan havayollarına ya da IATA'ya üye olmayan havayollarına ayrı ayrı kapora yatırmak zorundalar. Ayrıca acenteler ile havayolları arasındaki bu bilet satışının tahsilatı ve ödemesi anlamında günlerce süren uzun ve yüksek komisyonların ödendiği bir hesaplaşma süreci var. 
 
+### Blockchain sorunları çözmek için neler getirebilir?
+
+Yukarıda yazdığımız sorunların temel nedeni eski birbirinden bağımsız sistemlerin yarattığı data eksikliği/yanlışlığı ve sistemlerin birbiri ile konuşmaması. Eğer tüm servis sağlayıcılar bir araya gelebilse, bir standart oluşturulabilse ve herkes sistemlerini buna göre günceleyebilse bunca sorunu çözmek mümkün. Ama başka öncelikler (satış vb), sistem güncellemenin yüksek maliyeti, tüm kurumları bir araya getirecek bir irade olmayışı nedeniyle bu çok mümkün görünmüyor. 
+
+Blockchain için her zaman söylediğimiz, belli bir merkezi otoriteye ihtiyaç olmadan güvene olan ihtiyacı mimimuma indirebilmesi. Burada da Blockchain herhangi bir partinin güdümünde olmayan ve tüm partilerin güvenle bağlanabilecekleri bağımsız bir platform olarak taraflar arasındaki bilgi paylaşımı ve para ödemelerini rahatlıkla gerçekleştirebilir. 
+
+
+### Sadece sorunları çözmek değil yeni olanaklar da çıkabilir
+
+2016 yılında Türkiye'de kurulan [Further Network](https://further.network/) Blockchain'in olanaklarını kullanarak yukarıda yazdığımız sorunlara özellikle yüksek işlem maliyetlerini minimuma indirmeyi hedefliyor. Ancak vizyonları bununla sınırlı değil. 
+
+Son kullanıcılar için büyük kolaylıklar getirmeyi planlıyorlar. Bunlardan biri uçuş biletini basit bir kağıt parçasından daha akıllı bir hale sokmak. Ne demek bu? Normalde aldığınız bilet size ait bilgiler, uçuşunuzun detayı ve kaç para ödediğinizi yazar. Buna daha başka detaylar eklemek istemez misiniz? Örneğin vejeteryan menü istediğiniz, seyahatte size özel TV programlarının (mesela sadece romantik komedileri) sunulmasını, koltuk arası genişliğinin belli bir cm'den fazla olması arzunuzu? Bu ve benzeri bilgileri kendi dijital kimliğinizde paylaşabilir ve dileğiniz partiye dilediğiniz kadar bilgiyi verebilirsiniz (havayoluna başka, otele başka). Normalde bu tip istekler için uçak içinde ayrı sınıflar 
+
+Otellere de bakalım. Seyahat acenteleri bir şehirdeki konaklama olanaklarını (otel hatta evleri bile) akıllı bilet haline getirebilirler. Siz de herhangi bir şehirdeki bir fuara gitmeden önce dijital kimliğinizden istediğiniz bilgileri paylaşarak istediğiniz konaklamayı alabilirsiniz. Bunu ödemek için de 
 
 
 
