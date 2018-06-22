@@ -59,11 +59,11 @@ Further Network, yukarıdaki sistemin çalışabilmesi için bir de kendi Token'
 *Bir uçuş ve konaklama işlemini üç parçaya ayırmak mümküm*
 
 *- Uçuş (ya da konaklama) datasının ve rezervasyonların sisteme ve son kullanıcıya iletilmesi. Bunu uçuşlar için Sabre, Amadeus, konaklama için Hotelspro ve HotelBeds sağlıyor
-- Sistem kullanıcıları arasında bir uçak bileti satın alınması işleminin gerçekleştirilmesi. Burada her servis sağlayıcı kendi sistemini kullanıyor
-- Partiler arasında satın alma sonucu ödenen paranın paylaştırılması. Burada da aynı şekilde herkes kendi yağıyla kavruluyor. 
+*- Sistem kullanıcıları arasında bir uçak bileti satın alınması işleminin gerçekleştirilmesi. Burada her servis sağlayıcı kendi sistemini kullanıyor
+*- Partiler arasında satın alma sonucu ödenen paranın paylaştırılması. Burada da aynı şekilde herkes kendi yağıyla kavruluyor. 
 
 *Yukarıdaki üç parçadan ilki için sistem kullanıcı arasındaki bilgiyi IATA (International Air Transport Association) sağlıyor. Ancak mevcut havayolu taşımacılığında senede 3.7 milyar yolcu taşınırken bunun yalnızca %65'i IATA üzerinden geçiyor. Kalanı ise IATA üyesi olmayan 460 havayolu ile taşınıyor ve aralarında standard bir bilgi paylaşımı yok.
 
 
-* *Furher Network'un yayınladığı [white paper](https://further.network/whitepaper/whitepaper-latest-en.pdf)'dan alındı 
+*Furher Network'un yayınladığı [white paper](https://further.network/whitepaper/whitepaper-latest-en.pdf)'dan alındı 
 
