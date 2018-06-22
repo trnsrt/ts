@@ -21,7 +21,7 @@ Yukarıda yazdığımız sorunların temel nedeni eski birbirinden bağımsız s
 Blockchain için her zaman söylediğimiz, belli bir merkezi otoritenin varlık nedeni olan güven ihtiyacını mimimuma indirebilmesi. Burada da Blockchain herhangi bir partinin güdümünde olmayan ve tüm partilerin güvenle bağlanabilecekleri bağımsız bir platform olarak taraflar arasındaki bilgi paylaşımı ve para ödemelerini rahatlıkla gerçekleştirebilir. 
 
 
-### Sadece sorunlar çözmek değil yeni fırsatlar da var
+### Sadece sorunlar çözmek değil yeni fırsatlar da var - örnek: Further Network
 
 2016 yılında Türkiye'de kurulan [Further Network](https://further.network/) Blockchain'in olanaklarını kullanarak yukarıda yazdığımız sorunlara özellikle yüksek işlem maliyetlerini minimuma indirmeyi hedefliyor. Ancak vizyonları bununla sınırlı değil.
 
@@ -43,9 +43,13 @@ Otellere de bakalım. Seyahat acenteleri bir şehirdeki konaklama olanaklarını
 
 Further Network, yukarıdaki sistemin çalışabilmesi için bir de kendi Token'ı olan Aton'u çıkarıyor. Daha önceki yazılarımızda Token Dünyası'nın nasıl çalıştığından [bahsetmiştik]. Furher Network de sadece bir şirket değil bir ekosistem yaratıyor, ve hisse senedi çıkarmak yerine Aton'u çıkararak gerek kendisini fonluyor gerekse de sistemin çalışması için gerekli enerjiyi sağlıyor. Örneğin Blockchain içindeki oyuncuların yeni işlem (örneğin Akıllı Bilet) yaratmak için Aton'a ihtiyacı olacak. Ya da sistem içindeki tüm işlemleri Aton üzerinde tutarak, sistem kullanıcılarına dünyadaki mevcut paralardaki kur değişimlerinden bağımsız bir bakiye ölçme aracı sunacak. Bunun yanında taraflar arasında ödeme için Aton kullanılması durumunda eskiden günlerce süren fiat para ödeme işlemlerinin anında yapılması sağlanacak. Böyle bir sistemin benimsenmesi durumunda, işlemler anlık olacağı için eskiden olduğu gibi acentelerin IATA ya da havayollarından işlem yapması için gerekli olan yüksek kaporalara da gerek kalmayacak. 
 
-### Further Network 
+### ... ve diğerleri
 
-Ülkemizden çıkan en prestijli yeni nesil sistemlerden olan Further Network bu alanda rakipsiz değil. İsviçre/Çekya merkezli havayolu taşımacılığını benzer şekilde sarsmayı planlayan [Winding Tree](https://windingtree.com/), keza benzer şekilde çalışan Finlandiya merkezli [ETH Travel](https://ethtravel.io/), Çin merkezli otel rezervasyonları üzerine uzmanlaşmış [Tripio](http://trip.io/) bu alanda pay almak için çabalayan yüzlerce yeni nesil girişimlerden sadece bir kaçı. Sistemin mevcut oyuncuları da elleri kolları bağlı oturmuyor tabii - örneğin IATA mevcut süreçlerini basitleştirmek için [pek çok proje](http://www.iata.org/whatwedo/stb/Pages/index.aspx) deniyor ama bu hantallıkla ne kadar yol alacakları gerçekten meçhul.. 
+Ülkemizden çıkan en prestijli yeni nesil sistemlerden olan Further Network bu alanda rakipsiz değil. İsviçre/Çekya merkezli havayolu taşımacılığını benzer şekilde sarsmayı planlayan [Winding Tree](https://windingtree.com/), keza benzer şekilde çalışan Finlandiya merkezli [ETH Travel](https://ethtravel.io/), Çin merkezli otel rezervasyonları üzerine uzmanlaşmış [Tripio](http://trip.io/) bu alanda pay almak için çabalayan yüzlerce yeni nesil girişimlerden sadece bir kaçı. Sistemin mevcut oyuncuları da elleri kolları bağlı oturmuyor tabii - örneğin IATA mevcut süreçlerini basitleştirmek için [pek çok proje](http://www.iata.org/whatwedo/stb/Pages/index.aspx) deniyor ama bu hantallıkla ne kadar yol alacakları gerçekten meçhul.
+
+### Sonuç
+
+Karmaşık ve eskimiş sistemler nedeniyle şu an yalpamakta olan bir seyahat sektöründe önümüzdeki on yıl içinde büyük değişimler olması kaçınılmaz. Bu değişimler biz son kullanıcılara daha fazla konfor getirecek. Klişe olacak ama hizmet verenler ise bu değişime ayak uydurdukça sağ kalacaklar - uyduramayanlar ise hak ettikleri değeri görüp iş hayatının tarihinde kalacaklar. Ülkemizden çıkan ancak global bir oyuncu olmayı hedefleyen Further Network ise yeni nesil teknolojileri kullanarak doğacak fırsatlardan pay almak için oldukça avantajlı bir konumda - dileriz doğru ortaklıklar ile bu alanın önde gelen oyuncularından biri olurlar. 
 
 
 
