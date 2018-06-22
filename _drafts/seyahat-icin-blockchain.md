@@ -1,6 +1,6 @@
-Geçtiğimiz yazılarımızda Blockchain'in sadece finans değil değişik alanlardaki kullanımlarına değinmiş, sağlık, sanat, insani yardım alanlarına tek tek bakmıştık. 
+Geçtiğimiz yazılarımızda Blockchain'in sadece finans değil değişik alanlardaki kullanımlarına değinmiş, [sağlık](http://ademimerkezi.com/genel/2018/04/17/saglik-icin-blockchain.html), [sanat](http://ademimerkezi.com/genel/2018/04/06/sanat-icin-blockchain.html), [insani yardım alanlarına](http://ademimerkezi.com/genel/2018/03/29/Iyilik-icin-blockchain.html) tek tek bakmıştık. 
 
-Şimdi de seyahat ettiğimizde Blockchain bize nasıl yardımcı olabilir ona bakalım. Üstelik bu sefer bize yardımcı olmaya aday girişim ülkemizden çıkma. 
+Şimdi de seyahat ettiğimizde Blockchain bize nasıl yardımcı olabilir ona bakalım. Üstelik bu sefer bize yardımcı olmaya aday girişimlerden biri de ülkemizden çıkma. 
 
 ![world-640.jpg](/assets/world-640.jpg) 
 
