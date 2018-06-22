@@ -2,11 +2,15 @@ Geçtiğimiz yazılarımızda Blockchain'in sadece finans değil değişik alanl
 
 Şimdi de seyahat ettiğimizde Blockchain bize nasıl yardımcı olabilir ona bakalım. Üstelik bu sefer bize yardımcı olmaya aday girişim ülkemizden çıkma. 
 
+![jets-400.jpg](/assets/jets-400.jpg) 
+&nbsp;
+
+
 ### Yine düştük yollara.. 
 
 Dünyada en dağınık sektörlerden biri seyahat. Son kullanıcı olarak bizler bu dağınık yapının çok az bir kısmını görüyoruz. Bizim için acente ya da web üzerinden bir bilet almaktan ibaret gibi. Ama perde arkasında pekçok hizmet sağlayıcı bize bu hizmeti vermek için bir araya geliyor. Bileti ayarlayan acente, uçuşu sağlayan havayolu, bağlantı uçuşu varsa diğer uçuşu sağlayan havayolu. Bu işin sadece uçuş kısmı - bir de buna ekstra hizmetler (otel, kiralık araba vb) eklerseniz iyice karmaşıklaşıyor. 
 
-Bunun ötesinde belki İstanbul'dan ya da Londra'dan New York'a uçmak nispeten zahmetsiz. Ama gelin bir de İstanbul'dan Tayland'da Chang Mai'ye gitmeye kalkın. Mevcut ana havayollarının dışında nispeten az bilinen ve lokal uçuşlar yapan havayollarına binmeye kalkın.
+Bunun ötesinde belki İstanbul'dan ya da Londra'dan New York'a uçmak nispeten zahmetsiz. Ama gelin bir de İstanbul'dan Tayland'daki Chang Rai'ye gitmeye kalkın. Mevcut ana havayollarının dışında nispeten az bilinen ve lokal uçuşlar yapan havayollarına binmeye kalkın.
 
 ### Seyahat sistemi ve sorunları
 
@@ -34,6 +38,16 @@ Blockchain için her zaman söylediğimiz, belli bir merkezi otoritenin varlık 
 &nbsp;
 
 Son kullanıcılar için büyük kolaylıklar getirmeyi planlıyorlar. Bunlardan biri uçuş biletini basit bir kağıt parçasından daha akıllı hale sokmak. Daha önce basettiğimiz Akıllı Kontrat haline getirmek. Ne demek bu? Normalde aldığınız bilet size ait bilgiler, uçuşunuzun detayı ve kaç para ödediğinizi yazar. Buna daha başka detaylar eklemek istemez misiniz? Örneğin vejeteryan menü istediğiniz, seyahatte size özel TV programlarının (mesela sadece romantik komedileri) sunulmasını, koltuk arası genişliğinin belli bir cm'den fazla olması arzunuzu? Bu ve benzeri bilgileri kendi dijital kimliğinizde paylaşabilir ve dileğiniz partiye dilediğiniz kadar bilgiyi verebilirsiniz (havayoluna başka, otele başka). 
+
+
+&nbsp;
+
+| ![seats-400.jpg](/assets/seats-400.jpg) | 
+|:--:| 
+| *Geniş koltuk aralığı için ekstra ücret öder misiniz?* |
+
+&nbsp;
+
 
 Bir başka kolaylık da uçuşları daha değişitirilebilir hale getirmek. Birkaç uçuştan oluşan bir biletini uçuşlarından birini otomatik değiştirmek, uçuşu (ya da bir ayağını) bir başkasına devredebilmek gibi. 
 
