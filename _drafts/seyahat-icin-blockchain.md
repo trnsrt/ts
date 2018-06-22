@@ -16,7 +16,7 @@ Acenteler, havayolları, oteller her biri kendine özgü sistemler kullanan silo
 
 Sistemlerin birbirinden bağımsız olması nedeniyle oyuncular arasındaki ilişkiler de karmaşık. Bir havayolu bir uçağı uçuşa açtığında sistemlerinde bir ürün yaratıyor. Acentelere bu ürünü satmak için imkan verdiğinde aslında bir nevi acentelere bir kredi açmış oluyor. İşte bu kredi nedeniyle acenteler, üye olan havayolları için havayolları birliği olan IATA'ya, üye olmayanlar havayollarında herbirine ayrı ayrı kapora yatırmak zorundalar. Ayrıca acenteler ile havayolları arasındaki bu bilet satışının ödemesi için günlerce süren uzun ve yüksek komisyonların ödendiği bir hesaplaşma süreci var. Şöyle söyleyelim: sadece IATA hesaplaşma sistemi yılda 400 milyar ABD Doları işlem yapıyor ve sırf bu işlemler için bankalara 7.7 milyar ABD Doları [komisyon ödeniyor](http://airlines.iata.org/blog/2017/09/blockchain-can-rebalance-the-value-chain-to-benefit-airlines-and-passengers). 
 
-### Blockchain sorunları çözmek için neler getirebilir?
+### Blockchain bu sorunları çözmek için neler getirebilir?
 
 Yukarıda yazdığımız sorunların temel nedeni eski birbirinden bağımsız sistemlerin yarattığı data eksikliği/yanlışlığı ve sistemlerin birbiri ile konuşmaması. Eğer tüm servis sağlayıcılar bir araya gelip bir standart oluşturulabilse ve herkes sistemlerini buna göre günceleyebilse bunca sorunu çözmek mümkün olabilir. Ama başka öncelikler (gelir artırma gibi), sistem güncellemenin yüksek maliyeti, tüm kurumları bir araya getirecek bir ortak/merkezi irade olmayışı gibi nedenlerle bu çok mümkün görünmüyor. 
 
