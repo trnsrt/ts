@@ -12,7 +12,7 @@ Bunun ötesinde belki İstanbul'dan ya da Londra'dan New York'a uçmak nispeten 
 
 Acenteler, havayolları, oteller her biri kendine özgü sistemler kullanan silolar. Başlangıçta kağıdın olduğu bir dünya üzerine kurulan bu sistemler, zamanla teknoloji gelişip de herşey elektronik olunca afallayıp kalıyorlar. Bu sistemlerden çıkan bilgiler standard değil, çoğu zaman da eksik ya da yanlış bilgi veriyor. Paylaşılan bilgi doğru olduğunda ve sistemler mutabık kaldığında yolcular için herşey yolunda gidiyor ama istisnalar (iptaller, gecikmeler) olduğunda sorunlar zincirleme şekilde tüm sistemi etkiliyor (müşteriler tarafından yapılan itirazların oranının %5'i bulduğu havayolu şirketleri bile var) . Malum, konu seyahat olduğunda bu tip sorunlar da eksik olmadığı için, tüm sektör aslında istisnalardan oluşan sorun yumağını çözmek için ciddi zaman, emek ve para harcıyor. 
 
-Sistemlerin birbirinden bağımsız olması nedeniyle oyuncular arasındaki ilişkiler de karmaşık. Bir havayolu bir uçağı uçuşa açtığında sistemlerinde bir ürün yaratıyor. Acentelere bu ürünü satmak için imkan verdiğinde aslında bir nevi acentelere bir kredi açmış oluyor. İşte bu kredi nedeniyle acenteler, üye olan havayolları için havayolları birliği olan IATA'ya, üye olmayanlar havayollarında herbirine ayrı ayrı kapora yatırmak zorundalar. Ayrıca acenteler ile havayolları arasındaki bu bilet satışının ödemesi için günlerce süren uzun ve yüksek komisyonların ödendiği bir hesaplaşma süreci var. 
+Sistemlerin birbirinden bağımsız olması nedeniyle oyuncular arasındaki ilişkiler de karmaşık. Bir havayolu bir uçağı uçuşa açtığında sistemlerinde bir ürün yaratıyor. Acentelere bu ürünü satmak için imkan verdiğinde aslında bir nevi acentelere bir kredi açmış oluyor. İşte bu kredi nedeniyle acenteler, üye olan havayolları için havayolları birliği olan IATA'ya, üye olmayanlar havayollarında herbirine ayrı ayrı kapora yatırmak zorundalar. Ayrıca acenteler ile havayolları arasındaki bu bilet satışının ödemesi için günlerce süren uzun ve yüksek komisyonların ödendiği bir hesaplaşma süreci var. Şöyle söyleyelim: sadece IATA hesaplaşma sistemi yılda 400 milyar ABD Doları işlem yapıyor ve sırf bu işlemler için bankalara 7.7 milyar ABD Doları [komisyon ödeniyor](http://airlines.iata.org/blog/2017/09/blockchain-can-rebalance-the-value-chain-to-benefit-airlines-and-passengers). 
 
 ### Blockchain sorunları çözmek için neler getirebilir?
 
@@ -21,7 +21,7 @@ Yukarıda yazdığımız sorunların temel nedeni eski birbirinden bağımsız s
 Blockchain için her zaman söylediğimiz, belli bir merkezi otoritenin varlık nedeni olan güven ihtiyacını mimimuma indirebilmesi. Burada da Blockchain herhangi bir partinin güdümünde olmayan ve tüm partilerin güvenle bağlanabilecekleri bağımsız bir platform olarak taraflar arasındaki bilgi paylaşımı ve para ödemelerini rahatlıkla gerçekleştirebilir. 
 
 
-### Sadece sorunları çözmek değil yeni olanaklar da çıkabilir
+### Sadece sorunlar çözmek değil yeni fırsatlar da var
 
 2016 yılında Türkiye'de kurulan [Further Network](https://further.network/) Blockchain'in olanaklarını kullanarak yukarıda yazdığımız sorunlara özellikle yüksek işlem maliyetlerini minimuma indirmeyi hedefliyor. Ancak vizyonları bununla sınırlı değil.
 
@@ -43,7 +43,9 @@ Otellere de bakalım. Seyahat acenteleri bir şehirdeki konaklama olanaklarını
 
 Further Network, yukarıdaki sistemin çalışabilmesi için bir de kendi Token'ı olan Aton'u çıkarıyor. Daha önceki yazılarımızda Token Dünyası'nın nasıl çalıştığından [bahsetmiştik]. Furher Network de sadece bir şirket değil bir ekosistem yaratıyor, ve hisse senedi çıkarmak yerine Aton'u çıkararak gerek kendisini fonluyor gerekse de sistemin çalışması için gerekli enerjiyi sağlıyor. Örneğin Blockchain içindeki oyuncuların yeni işlem (örneğin Akıllı Bilet) yaratmak için Aton'a ihtiyacı olacak. Ya da sistem içindeki tüm işlemleri Aton üzerinde tutarak, sistem kullanıcılarına dünyadaki mevcut paralardaki kur değişimlerinden bağımsız bir bakiye ölçme aracı sunacak. Bunun yanında taraflar arasında ödeme için Aton kullanılması durumunda eskiden günlerce süren fiat para ödeme işlemlerinin anında yapılması sağlanacak. Böyle bir sistemin benimsenmesi durumunda, işlemler anlık olacağı için eskiden olduğu gibi acentelerin IATA ya da havayollarından işlem yapması için gerekli olan yüksek kaporalara da gerek kalmayacak. 
 
+### Further Network 
 
+Ülkemizden çıkan en prestijli yeni nesil sistemlerden olan Further Network bu alanda rakipsiz değil. Finlandiya bazlı [ETH Travel](https://ethtravel.io/), İsviçre/Çekya bazlı havayolu taşımacılığını benzer şekilde sarsmayı planlayan [Winding Tree](https://windingtree.com/), Çin bazlı otel rezervasyonları üzerine uzmanlaşmış [Tripio](http://trip.io/) bu alanda pay almak için çabalayan yüzlerce yeni nesil girişimlerden sadece bir kaçı. Sistemin mevcut oyuncuları da elleri kolları bağlı oturmuyor tabii - örneğin IATA mevcut süreçlerini basitleştirmek için [pek çok proje](http://www.iata.org/whatwedo/stb/Pages/index.aspx) deniyor ama bu hantallıkla ne kadar yol alacakları gerçekten meçhul.. 
 
 
 
