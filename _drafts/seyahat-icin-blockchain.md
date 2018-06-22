@@ -27,7 +27,7 @@ Blockchain için her zaman söylediğimiz, belli bir merkezi otoritenin varlık 
 
 &nbsp;
 
-| ![further-logo-400.png](/assets/further-logo-400.pmg) | 
+| ![further-logo-400.png](/assets/further-logo-400.png) | 
 |:--:| 
 | *[Further Network](https://further.network/)* |
 
