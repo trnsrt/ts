@@ -271,14 +271,14 @@ Yukarıda bahsedilen toplanan paranın tamamının geliştiricilere verilecek ö
 
 # Yazı VII
 
-Geçtiğimiz yazılarda, Kripto dünyasında hepimizin duyduğu [Bitcoin] ve [benzeri KriptoParalar] dışında başka konularda olduğunda bahsetmiş ve bu başka dünyaların içindeki en önemli olan Ethereum'un [tarihçesine değinmiştik]. Şimdi ise, Ethereum nedir, ne işe yarar ona bir bakalım arzu ederseniz. 
+Geçtiğimiz yazılarda, Kripto dünyasında hepimizin duyduğu [Bitcoin] ve [benzeri KriptoParalar] dışında başka konuların da olduğundan bahsetmiş ve bu başka dünyaların içinde en önemlisi olan Ethereum'un [tarihçesine değinmiştik]. Şimdi ise, Ethereum nedir, ne işe yarar ona bir bakalım arzu ederseniz. 
 
 
 ### Akıllı Kontratlar
 
 Ethereum dünyasına girmeden önce bir tanıma daha bakmakta fayda var. 
 
-Ofistesiniz, karnınız acıktı. Dışarı çıkıp markete gidecek zamanınınız yok. Hah, alt katta bir otomat var, oradan bir bisküvi alayım açlığımı bastırsın. Şurada bir yerde bir kaç bozuk para olacaktı. Gittiniz, parayı otomata attınız, otomat da size istedğiniz bisküviyi attı. Tebrikler! Bir Akıllı Kontrat işlemi gerçekleştirdiniz!
+Ofistesiniz, karnınız acıktı. Dışarı çıkıp markete gidecek zamanınız yok. "Alt katta bir otomat var, oradan bir bisküvi alayım açlığımı bastırsın. Şurada bir yerde bir kaç bozuk para olacaktı" Gittiniz, parayı otomata attınız, otomat da size istediğiniz bisküviyi attı. Tebrikler! Bir Akıllı Kontrat işlemi gerçekleştirdiniz!
 
 Şaka değil - gerçekten belki kiminizin duyduğu Akıllı Kontrat aslında bu. Akıllı denmesinden dolayı çok karmaşık ya da zeki bir kavram bekliyorsunuz ama öyle değil. Tam tersine. Akıllı Kontrat ile bahsedilen, önceden kuralları konmuş, iki tarafın bu kurallara bağlı olarak anlaştıkları koşulların gerçekleşmesi durumunda kendi kendine yürürlüğe giren işlem. Yukarıdaki örnekte, siz biliyorsunuz ki, makineye para attığınızda bisküvi alacaksınız. Makine de benzer şekilde programlanmış ve içine para atılıp seçim yapıldığında otomatik olarak o işlemi gerçekleştiriyor. 
 
