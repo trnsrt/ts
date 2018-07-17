@@ -56,6 +56,30 @@ Bilmemiz gereken en önemli nokta, Blockchain'in aslında çok büyük bir datab
 
 - Keza, sistemi işletirken sonrasında yaptığınız yenilikler de sistem üzerindeki binlerce makina tarafında kabul edilmeli ve içselleştirilmeli. Sistem doğası gereği adem-i merkezi bir yapı olduğu için hiçbir makineye zorla bir dayatmada bulunamazsınız. Gönüllü olmalı bu iş. Dolayısıyla, yapacağınız her tür değişiklik geriye dönük olarak eski versiyonlarda da kullanılabilmeli. Bu da her yaptığınız değişikliğin tüm sistem tarafından toplu kabulunu oldukça yavaşlatan bir durum. 
 
+
+İşte bu nedenle Blockchain ancak gerekli olduğunda başvurulması gereken bir alan. Hakikaten bir ihtiyaç olmalı Blockchain'e. Geçen yazımızdan hatırlarsak, nedir bu ihtiyaçlar?
+
+#### Merkezi otoriteye ya da aracıya güvensizlik
+
+- Bilgileri tutacak bir merkezi otoriteye karşı güven bunalımı. Merkezi bir otorite, Nick Szabo'nun da dediği bir "güvenlik açığıdır". Konu gerçekten böyle bir güvenlik açığının olması, yani merkezi otoritede yaşanan sıkıntı biz kullanıcıları ne kadar etkiler? Yukarıda saydığımız merkezi olmayan sistemin ağır ve hantal yapısı ile uğraşmaya değer mi. Bunu tartmak lazım. 
+
+Bu nedenle belki de Blockchain'in şu ana kadar en başarılı olduğu alan para konusu oldu. Zira, daha önce de bahsettiğimiz gibi ABD'de 2008 yılında yaşanan kriz sonrası, daha önceki yıllarda halkın üzerinden korkunç karlar elde eden ve bu korkunç karlarını daha da büyütmek amacıyla gittikçe daha çok risk alan bankalar, sonrasında "aman kriz daha da büyümesin" açıklaması ile kurtarıldı.  Bu kurtarmada Amerikalı vatandaşların "vergilerinden gelen para" kullanıldı. Üstelik bu kriz nedeniyle enflasyon yaşandı. Üstelik hükümet halka sormadan milyarlarca dolar karşılıksız para bastı. Bunu da "likidite" diyerek halka yutturmaya çalıştı (yeri gelmişken eğer seyretmediyseniz "[Too Big To Fail](https://www.imdb.com/title/tt1742683/)" hararetle tavsiye ederim). Dolayısıyla, bireyler açısından merkezi otoritenin yetkinlikleri ya da yaptıklarının her zaman kendi çıkarlarına olmadığını düşünmelerine sebep olan bu güven bunalımı üzerine Bitcoin'in ortaya çıkması çok da tesadüfi değil. 
+
+#### Aracının maliyeti
+
+Bireyler arasındaki işlemlere aracılık ederek bundan komisyon alan her türlü aracı, bu işi kar için yaptığı noktada işlemin tarafı olan partiler tarafından aracılık için ödenen ücretler yüksek görülecek. Böyle düşünenlerin haklı olduğu alanlar da yok değil. Örneğin, Über'in sadece bir software olması ve araçlar ile insanlar arasında optimizasyon yapmasına rağmen ödenen ücretin %30'lara varan bir kısmını cebine indiriyor olması tepki çekiyor. Keza, bankacılık sistemine dahil olmayan insanların bir ülkeden diğerine para gönderirken onlar hatta yüzlerce dolar komisyon vermeleri gibi. İşte dağınık sistemler, ortadaki güven sağladığını iddia ederek (ya da sağlayarak) yüksek miktarda masraf "çakan" aracılara karşı faydalı hatta gerekli.. 
+
+#### Aracının hantallığı
+
+Evet, dağıtık yapılar, hantal olabilirler.. Ama gerçekten özellikle geçmişten gelen gerek eski teknoloji gerekse çeşitli bürokratik çıkarlar nedeniyle mevcut sistemi kontrol eden ve yönetenlerin yarattığı bürokratik yapı yanında bu bahsettiğimiz yavaşlığın esamesi okunmaz. Örnek mi? Maersk'e göre, bir soğutucunun Avrupa'dan Afrika'ya ulaşımında 30'dan fazla kişi ya da organizasyon sürece dahil oluyor ve bu aktörler 200'den fazla kez birbirleriyle iletişim halinde olmaları gerekiyor. Neden? Bürokrasi, değişik ülkelerdeki kurumların birbirine güvenmemesi, politik ajandalar vb. 
+
+#### Aracılardan bağımsızlık isteği
+
+Merkezi sistemlerin, kişileri bağlamak, elinde tutmak, kişinin üzerinden izinli ya da izinsiz fayda sağlamaya çalışmaları da bireylerde bu tip otoritelerden uzak kalmaya çalışmak, bağımsız olmak dürtüsünü artırdı. Daha önce bahsettiğimiz, Facebook'un bilgilerimizi bizden habersiz (ya da uzun uzun okumadığımız ve evet tuşuna basıp geçtiğimiz kullanım sözleşmeleri aracılığıyla) kurumlara satması gibi. İnsanlar artık, özellikle dijital dünyada kendilerine ait bilgileri kendi kimlikleri gibi ellerinde tutmayı, istedikleri bilgiyi istedikleri yere vermeyi, ve istedikleri noktada da o bilgiyi verdikleri kurumdan geri almayı istiyorlar. Merkezi yapılarda ya bu olanak yok, ya da varsa da gerçekten söz verdiklerini yapacaklarına dair bir garanti yok. Dağıtık yapılar bu anlamda bireylere özgürlük getiriyor. Tabii bir de dağıtık yapıların herhangi bir merkezleri olmamasının getirdiği kanuni olarak hangi otoritenin altında oldukları konusundaki belirsizlik de, kimi bu tip otoriter yapıların altında olmak istemeyen kişileri bu yapılara doğru çeken bir başka etken.  
+
+### Peki neden bu kadar şişiriliyor Blockchain balonu?
+
+
 ### Hangi girişimler başarılı olur?
 
 ### 
