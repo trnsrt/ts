@@ -1,5 +1,5 @@
 
-Blockchain'in hayatımızda neler değiştirebileceği ile değişik alanlarda uygulamalarına [sağlık](http://ademimerkezi.com/genel/2018/04/17/saglik-icin-blockchain.html), [sanat](http://ademimerkezi.com/genel/2018/04/06/sanat-icin-blockchain.html), [insani yardım](http://ademimerkezi.com/genel/2018/03/29/Iyilik-icin-blockchain.html) alanlarından bundan önceki yazılarımızda kısaca göz atmıştık. Şimdi de Blockchain'i geleceği tahmin etmek için nasıl kullanabiliriz ona bir bakalım isterseniz.  
+Blockchain'in hayatımızda neler değiştirebileceği ile değişik alanlarda uygulamalarına [sağlık](http://ademimerkezi.com/genel/2018/04/17/saglik-icin-blockchain.html), [sanat](http://ademimerkezi.com/genel/2018/04/06/sanat-icin-blockchain.html), [insani yardım](http://ademimerkezi.com/genel/2018/03/29/Iyilik-icin-blockchain.html) ve en son [seyahat](http://ademimerkezi.com/genel/2018/07/06/seyahat-icin-blockchain.html) ile bundan önceki yazılarımızda kısaca göz atmıştık. Şimdi de Blockchain'i geleceği tahmin etmek için nasıl kullanabiliriz ona bir bakalım isterseniz.  
 
 
 &nbsp;
