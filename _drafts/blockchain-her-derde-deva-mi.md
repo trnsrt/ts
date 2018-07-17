@@ -91,7 +91,7 @@ Bir başka neden de, kurumların kendilerini teknoloji lideri olarak göstermek 
 
 ### Peki kimin için gerekli bu Blockchain?
 
-Buraya kadar yazdıklarımızın ötesinde daha net olarak benim sektörüm için gerekli mi Blockchain soruna yanıt için aşağıdaki şemayı kullanabilirsiniz (Kaynak: Thomas Ferry - [To Blockchain or Not to Blockchain](https://medium.com/causys/to-blockchain-or-not-to-blockchain-aed05bf08150)
+Buraya kadar yazdıklarımızın ötesinde daha net olarak benim sektörüm için gerekli mi Blockchain soruna yanıt için aşağıdaki şemayı kullanabilirsiniz (Kaynak: Thomas Ferry - [To Blockchain or Not to Blockchain](https://medium.com/causys/to-blockchain-or-not-to-blockchain-aed05bf08150))
 
 ![blockchain-scheme-640.png](/assets/blockchain-scheme-640.png) 
 
