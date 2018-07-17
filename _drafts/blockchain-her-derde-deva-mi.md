@@ -87,7 +87,13 @@ Bunun yanında Blockchain'i kullanmaktan çok aslında dışarıda kalmamaya ça
 
 İkincisi, özellike Bilgi Sistemleri çok önce kurulmuş ve doğası gereği yenlemeye açık olmayan sektörlerde yeni sistem kurmanın imkansızığı ya da yüksek maliyeti, Blockchain sistemlerine olan ilgiyi artıyor. Örnek mi? Geçen yazılarımızda bahsettiğimiz [havacılık sektörü](http://ademimerkezi.com/genel/2018/07/06/seyahat-icin-blockchain.html). Havacılık için böyle bir ihtiyaç var gibi görünüyor ancak başka pekçok sektörde danışman firmalar tarafından da böyle bir ihtiyaç var havası yaratılıyor maalesef. 
 
-Bir başka neden de, kurumların kendilerini teknoloji lideri olarak göstermek için Blockchain'den bahsetmeleri. Bir nevi "biz çok akıllıyız, bu teknolojileri anlıyoruz, kullanmaya başlıyoruz" diyerek 'hava atmaları2. 
+Bir başka neden de, kurumların kendilerini teknoloji lideri olarak göstermek için Blockchain'den bahsetmeleri. Bir nevi "biz çok akıllıyız, bu teknolojileri anlıyoruz, kullanmaya başlıyoruz" diyerek 'hava atmaları..
+
+### Peki kimin için gerekli bu Blockchain?
+
+Buraya kadar yazdıklarımızın ötesinde daha net olarak benim sektörüm için gerekli mi Blockchain soruna yanıt için aşağıdaki şemayı kullanabilirsiniz (Kaynak: Thomas Ferry - [To Blockchain or Not to Blockchain](https://medium.com/causys/to-blockchain-or-not-to-blockchain-aed05bf08150)
+
+
 
 
 
