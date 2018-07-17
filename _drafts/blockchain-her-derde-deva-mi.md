@@ -1,4 +1,6 @@
-Geçtiğimiz yazılarımızda Blockchain'in sadece finans değil değişik alanlardaki kullanımlarına değinmiş, sağlık, sanat, insani yardım alanlarına tek tek bakmıştık. 
+# Yazı I
+
+Geçtiğimiz yazılarımızda Blockchain'in sadece finans değil değişik alanlardaki kullanımlarına değinmiş, sağlık, sanat, insani yardım alanlarına tek tek bakmıştık. Ancak tüm bu yazılardan Blockchain dünyanın tüm dertlerine deva olacakmış gibi bir izlenim çıkmaması için madalyonun diğer tarafına da bir bakalım, isterseniz. Gerçekten Blockchain tüm sorunlarımızı çözebilecek mi? Bu yazımızda biraz daha Blockchain üzerine bilgi verelim - önümüzdeki yazıda da hangi sektörlere yarayabilir ona bakarız. 
 
 ### Blockchain'in faydaları
 
@@ -10,6 +12,28 @@ Değişik sektörlerde Blockchain ile ilgili uygulamalara baktığımızda genel
 - Geriye yönelik olarak doğru, tutarlı, değiştirilemez kayıt bilgisi oluşturmak
 - Bireyler için dijital alanda tüm haklarını ellerinde tuttukları dijital kimlikler oluşturmak
 
+### Blockchain bir tane mi? Elle tutulur mu?
+
+Güzel bir soru. Blockchain bir konsept. Bunun farklı farklı uygulamaları var. Her Blockchain de bir değil. Blockchain aslına bakarsanız, birbiri ile uzaktan bağlı makinelerin, belli işlemleri ortak bir mutabakat yoluyla değişitirilemez biçimde tuttukları bir sistem. (Basit olsun diye sistem diyoruz, başka yerlerde protokol diye görürseniz şaşırmayın, aynı anlam). Ama bunun da farklı türleri var. Genel hatları ikiye ayrılıyorlar: Genel ve Özel Blockchain'ler (Public ve Private). Önce nedirler, farkları neler ona bir bakalım:  
+
+#### Genel ve Özel Blockchain. Farkları ne? 
+
+Genel Blockchain'ler, her tür makinenin izin almadan istediği gibi bağlandığı ve bir parçası olabildiği sistemler. Örneğin, şimdiye kadar konuştuğumuz Bitcoin, Ethereum gibi Blockchain sistemleri bu şekilde. Yani, yarın bir bilgisayar alıp, bir yazılım yükleyim siz de sisteme bağlanabilir ve yapılan işlemleri görüp işlem yapabilirsiniz. 
+
+Özel Blockchain ise adından da anlaşıldığı gibi, bir otorite tarafından içeri girişiniz ve içeride işlem yapışınız izne bağlı olan sistemler. 
+
+Her iki tür ile ilgili herkesin ayrı bir fikri ve düşüncesi var. Bitcoin taraftarlarına sorarsanız, Özel Blockchain'leri sistemden bile saymazlar - kendilerince haklılar. Zira Bitcoin'in derdi, "merkezi bir otoritenin getirdiği güven ihtiyacını" minimuma indirmek, hatta yok etmek. Halbuki, Özel Blockchain'lerde bu felsefeye taban taban zıt olacak şekilde, sizin sisteme girişinize ve hareket etmenize izin veren ve gerekirse bu izni yok eden bir otorite var!.
+
+Ama bir taraftan da özellikle KriptoPara dışındaki girişimlerde her zaman topluma açık sistemler kurmak girişim için en verimli yol olmayabilir. Öncelikle, açıklık demek, gizliliğin olmaması demek. Bahsetmiştik, örneğin Bitcoin'de yapılan işlemleri kimin yaptığı şifreli olarak gizlenmiş durumda ancak bütün işlemler rakamlar ve işlemi yapan partilere ait adresler şeffaf bir şekilde herkes tarafından tutuluyor. Bu kadar açıklık, özellikle ticari iş yapan kurumlar için sakıncalı yaratabiliyor. 
+
+Bunun yanında izine bağlı olmayan açık sistemler, biglnin kayıt edilmesi sırasında kimi partilere fayda sağlayabilecek ancak sisteme yük getirecek ve bilgi kirliliğine yol açabilecek işlemlerin (örneğin spam bildirimler) oluşmasına yapıları gereği engel olamıyorlar. 
+
+#### Birkaç örnek verelim mi?
+
+Elbette.. Genel (ya da açık) Blockchain'lere örnekler çok. Hepimizin duyduğu Bitcoin ve Ethereum en bilinen Blockchain örnekleri. Tüm yazılımları halka açık, bütün makinelerin istedikleri gibi bağlanıp parçası olup, istedikleri gibi çıktıkları açık platformlar. 
+
+Özel Blockhain'ler ise genelde ticari kurumlar tarafından kuruluyor ve o nedenle ismen çok da bilinmiyorlar.. Örneğin IBM'in liderlik ettiği (her ne kadar IBM'in katılımcısı olduğunu ve liderliğini Linux Foundation'ın yaptığını söylediği) [Hyperledger Fabric](https://www.ibm.com/blockchain/hyperledger). Ya da finansal alanda pekçok finansal kuruluşun üzerine gelişim yaptırdığı Corda Blockchain'i yaratan [r3](https://www.r3.com/)
+
 ### Peki girişimciler bu konuda ne kadar tecrübeli?
 
 Hemen hemen her sektörde Blockchain bazlı sistemleri kullanarak sektörü kökünden sarsmak isteyen pek çok yeni girişim var. Ancak, bu girişimlerin bir çoğu maalesef hüsranla sonuçlanacak. Neden? Birkaç nedeni var, onları da sıralayalım: 
@@ -20,27 +44,15 @@ Hemen hemen her sektörde Blockchain bazlı sistemleri kullanarak sektörü kök
 
 - "Her kuşun eti yenmez" derler. Her sektörün de aynı şekllde farklı farklı dinamikleri var. Dolayısıyla her sektörde Blockchain faydalı olacak diye düşünmek doğru değil. Bu nedenle Blockchain'in uygun olmayacağı sektörlere giren girişimcilerin de hüsrana uğraması kaçınılmaz. 
 
-### Blockchain bir tane mi? Elle tutulur mu?
 
-Bu da güzel bir soru. Her Blockchain bir değil. Blockchain aslına bakarsanız, birbiri ile uzaktan bağlı makinelerin, belli işlemleri ortak bir mutabakat yoluyla değişitirilemez biçimde tuttukları bir sistem. (Basit olsun diye sistem diyoruz, başka yerlerde protokol diye görürseniz şaşırmayın, aynı anlam). Ama bunun da farklı türleri var. 
+### Arkası yarın.. 
 
-İki ana tür, Genel ve Özel Blockchain'ler (Public ve Private). Bunların farkı aslında adından anlaşılıyor. 
-
-#### Özel Blockchain ne, Genel Blockhain ne?
+Bir sonraki yazımızda, Blockchain hangi sektörlerde başarılı olabilir, onu inceleyelim dilerseniz.. 
 
 
-#### Farkları ne? 
-
-Public Blockchain'ler, her tür makinenin izin almadan istediği gibi bağlandığı ve bir parçası olabildiği sistemler. Örneğin, şimdiye kadar konuştuğumuz Bitcoin, Ethereum gibi Blockchain sistemleri bu şekilde. Yani, yarın bir bilgisayar alıp, bir yazılım yükleyim siz de sisteme bağlanabilir ve yapılan işlemleri görüp işlem yapabilirsiniz. 
-
-Özel Blockchain ise adından da anlaşıldığı gibi, bir otorite tarafından içeri girişiniz ve içeride işlem yapışınız izne bağlı olan sistemler. 
-
-Her iki tür ile ilgili herkesin ayrı bir fikri ve düşüncesi var. Bitcoin taraftarlarına sorarsanız, Özel Blockchain'leri sistemden bile saymazlar - kendilerince haklılar. Ama bir taraftan da özellikle KriptoPara dışındaki girişimlerde her zaman topluma açık sistemler kurmak girişim için en verimli yol olmayabilir. 
+# Yazı II
 
 
-Bir sonraki yazıda da hangi sektörlerde ne önemlidir ona bakalım
-
-### Blockchain hangi sektörlerde başarılı olur? Turnusol kağıdı var mı?
 
 ### Her güzelin bir kusuru vardır...
 
@@ -89,15 +101,13 @@ Bunun yanında Blockchain'i kullanmaktan çok aslında dışarıda kalmamaya ça
 
 Bir başka neden de, kurumların kendilerini teknoloji lideri olarak göstermek için Blockchain'den bahsetmeleri. Bir nevi "biz çok akıllıyız, bu teknolojileri anlıyoruz, kullanmaya başlıyoruz" diyerek 'hava atmaları..
 
-### Peki kimin için gerekli bu Blockchain?
+### Blockchain hangi sektörlerde başarılı olur? Turnusol kağıdı var mı?
 
 Buraya kadar yazdıklarımızın ötesinde daha net olarak benim sektörüm için gerekli mi Blockchain soruna yanıt için aşağıdaki şemayı kullanabilirsiniz (Kaynak: Thomas Ferry - [To Blockchain or Not to Blockchain](https://medium.com/causys/to-blockchain-or-not-to-blockchain-aed05bf08150))
 
 ![blockchain-scheme-640.png](/assets/blockchain-scheme-640.png) 
 
+### Sonuç
 
+Hep söylediğimizi bir kez daha tekrarlayalım. Blockchain yeni gelişmekte olan bir teknoloji. Güvene dayalı aracıların verimsizleştirdiği her alanda aracıları yıkacak güce ve potansiyele sahip. Şimdi, bu yıl, önümüzdeki yıl etkilerini henüz görmeyeceğiz. Ama nasıl internet hiç yokken hayatımıza girdi ve vazgeçilmezimiz oldu Blockchain bazlı teknolojiler de önümüzdeki beş-on yıl aralığında hayatımızı benzer şekilde değiştirecekler. Umuyoruz pozitif yönde olacak bu değişiklikler. 
 
-
-### Hangi girişimler başarılı olur?
-
-### 
