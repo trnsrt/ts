@@ -79,6 +79,18 @@ Merkezi sistemlerin, kişileri bağlamak, elinde tutmak, kişinin üzerinden izi
 
 ### Peki neden bu kadar şişiriliyor Blockchain balonu?
 
+Dediğimiz gibi hemen hemen her sektörde gerek yeni girişimler gerekse sistemin içindek mevcut oyuncular için Blockchain sektörü derinden sarsacak bir olgu imişcesine parlatılıyor. Neden?
+
+Öncelikle bilgi eksikliği diyebiliriz. Daha önce de bahsettğimiz gibi, Blockchain anlaması ve algılaması oldukça zor bir kavram. Özünden "merkezi olmayan bir veritabanı" olsa da, şifreleme, bağımsız makineler, aracıya olan güveni ortadan kaldırma gibi terimler alışık olmadığımız, büyürken bize öğretilen doğrulara kimi zaman taban tabana zıt kavramlar. Hem anlamakta zorluk çekiyoruz, hem de "startup patlamasında" yaşandğımız gibi uzak kalmak ya da etkilenmek istemiyoruz. Büyük kurumların da insanlardan oluştuğunu unutmamamız gerek. Dolayısıyla kurumlar da bu rüzgardan etkileniyorlar. 
+
+Bunun yanında Blockchain'i kullanmaktan çok aslında dışarıda kalmamaya çalışıyor kimi kurumlar. Bir nevi test ortamında deniyorlar kullanışlı olup olmadığını. Bir nevi, havuz kenarına gelip suyun nasıl olduğunu ayağınızın ucuyla dokumak gibi düşünebilirsiniz bunu.  Ancak tabii kullandıkları Blockchain teknolojilerini hizmetini veren bunu piyasada ballandıra ballandıra anlatarak küçük bir olayı bambaşka boyutlarda sunuyorlar. Şahsen, Ripple Network içinde yer aldğıını açıklayan onlara prestijli bankanın sadece ne olduğunu anlayabilmek için bu ortamla olduklarını düşünüyorum.  
+
+İkincisi, özellike Bilgi Sistemleri çok önce kurulmuş ve doğası gereği yenlemeye açık olmayan sektörlerde yeni sistem kurmanın imkansızığı ya da yüksek maliyeti, Blockchain sistemlerine olan ilgiyi artıyor. Örnek mi? Geçen yazılarımızda bahsettiğimiz [havacılık sektörü](http://ademimerkezi.com/genel/2018/07/06/seyahat-icin-blockchain.html). Havacılık için böyle bir ihtiyaç var gibi görünüyor ancak başka pekçok sektörde danışman firmalar tarafından da böyle bir ihtiyaç var havası yaratılıyor maalesef. 
+
+Bir başka neden de, kurumların kendilerini teknoloji lideri olarak göstermek için Blockchain'den bahsetmeleri. Bir nevi "biz çok akıllıyız, bu teknolojileri anlıyoruz, kullanmaya başlıyoruz" diyerek 'hava atmaları2. 
+
+
+
 
 ### Hangi girişimler başarılı olur?
 
