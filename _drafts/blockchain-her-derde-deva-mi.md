@@ -16,7 +16,7 @@ Hemen hemen her sektörde Blockchain bazlı sistemleri kullanarak sektörü kök
 
 - Henüz Blockchain teknolojisinin altyapısı tam olgunlaşmadı, özellikle genel (public) Blockchain'lerin altyapılarının oldukça yavaş bir şekilde ilerliyor. 2000'li yılların başındaki patlayan Startup balonunda da benzeri olmuştu. O zaman pekçok fikir vizyon olarak iyi ama zamanın çok ötesinde olduğu için başarılı olmadı (simdi o fikirlerin bir kısmı yeniden hayata geçiriliyor). 
 
-- Sırf piyasanın bu alana büyük ilgi var diye iş yapmaya çalşan kişiler var - ki bunların bir kısmı PR yapmaya çalışan ve altı boş girişimler. Örnek mi? Sierra Leone'den seçimleri Blockchain üzerinden yaptığını [iddia eden][https://techcrunch.com/2018/03/14/sierra-leone-just-ran-the-first-blockchain-based-election/) Agora ve bunu şiddetle [reddeden](https://techcrunch.com/2018/03/19/sierra-leone-government-denies-the-role-of-blockchain-in-its-recent-election/) hükümet.
+- Sırf piyasanın bu alana büyük ilgi var diye iş yapmaya çalşan kişiler var - ki bunların bir kısmı PR yapmaya çalışan ve altı boş girişimler. Örnek mi? Sierra Leone'den seçimleri Blockchain üzerinden yaptığını [iddia eden](https://techcrunch.com/2018/03/14/sierra-leone-just-ran-the-first-blockchain-based-election/) Agora ve bunu şiddetle [reddeden](https://techcrunch.com/2018/03/19/sierra-leone-government-denies-the-role-of-blockchain-in-its-recent-election/) hükümet.
 
 - "Her kuşun eti yenmez" derler. Her sektörün de aynı şekllde farklı farklı dinamikleri var. Dolayısıyla her sektörde Blockchain faydalı olacak diye düşünmek doğru değil. Bu nedenle Blockchain'in uygun olmayacağı sektörlere giren girişimcilerin de hüsrana uğraması kaçınılmaz. 
 
@@ -93,7 +93,7 @@ Bir başka neden de, kurumların kendilerini teknoloji lideri olarak göstermek 
 
 Buraya kadar yazdıklarımızın ötesinde daha net olarak benim sektörüm için gerekli mi Blockchain soruna yanıt için aşağıdaki şemayı kullanabilirsiniz (Kaynak: Thomas Ferry - [To Blockchain or Not to Blockchain](https://medium.com/causys/to-blockchain-or-not-to-blockchain-aed05bf08150)
 
-
+![blockchain-scheme-640.png](blockchain-scheme-640.png) 
 
 
 
