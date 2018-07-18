@@ -58,7 +58,7 @@ SabitPara nedir, en bilineni Tether nasıl işler derken bu yazımızın sınır
 
 Geçtiğimiz [yazıda] Bitcoin benzeri KriptoParalar'ın değerinin çok falza oynadğından bahsetmiş ve buna çözüm olarak ortaya çıkmış olan SabitPara kavramından bahsetmiştik. SabitPara olarak en bilinen ABD Doları'na kendini bağlamış olan Tethere bakmış, diğer farklı SabitPara'ları ise bu yazımıza bırakmıştık.. 
 
-Özetler ise, SabitPara olarak adlandırabileceğimiz KriptoParalar, şu an yaşanan ani yükseliş ve düşüşle işi olmayan bu paraları ekonomik aktivitenin 
+Özetler ise, SabitParalar, daha stabil fiyat yapısı ile KriptoParaların toplumsal adaptasyonuna büyük katkıda bulunabilirler. Zira, bu paraları sağladığı kolaylıklar nedeniyle günlük ekonomik aktivitenin içinde kullanmak isteyen isteyebilecek büyük bir çoğunluk var ve şu an yaşanan ani yükseliş ve düşüşleri görünce neye uğradıklarını şaşırıp arkalarına bakmadan bu dünyadan uzaklaşıyorlar. 
 
 
 
