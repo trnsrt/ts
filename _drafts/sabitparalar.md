@@ -17,7 +17,29 @@ Acaba fiyatı sabit olan bir KriptoPara yapılamaz mıydı? Güzel soru ama kend
 
 [Dolar vs euro graph]
 
-Stabil bir para o zaman aslında kendi içinde oximoron (zıt şekilde çelişkili) bir ifade. O zaman belki şu soruyu sormak daha mantıklı: Tamam, öyle stabil olmasın da en azından doların euro karşısında yaşadığı gibi, dalgalanmalar hafif olsun, denizde hafif dalgalanmalar hissedelim, öyle her akşam yattığımızda acaba yarın sabah %10 zengin mi uyanacağım yoksa %10 fakir mi diye yüreğimiz ağzımızda olmasa. Bakın bu daha mantıklı bir soru - cevabı için de şu günlerde harıl harıl çalışıyor insanlar.. Çalıştıkları konu ise SabitPara (Stable coin) konsepti. Örnekleri uzun zamandır etrafta, ancak kullanımlar
+Stabil bir para o zaman aslında kendi içinde oximoron (zıt şekilde çelişkili) bir ifade. O zaman belki şu soruyu sormak daha mantıklı: Tamam, öyle stabil olmasın da en azından doların euro karşısında yaşadığı gibi, dalgalanmalar hafif olsun, denizde hafif dalgalanmalar hissedelim, öyle her akşam yattığımızda acaba yarın sabah %10 zengin mi uyanacağım yoksa %10 fakir mi diye yüreğimiz ağzımızda olmasa. Bakın bu daha mantıklı bir soru - cevabı için de şu günlerde harıl harıl çalışıyor insanlar.. Çalıştıkları konu ise SabitPara (Stable coin) konsepti. Örnekleri uzun zamandır etrafta, ancak kullanım olarak hala gerideler.. 
+
+### Nedir bu SabitPara? Var mı gerçekten?
+
+Efendim, KriptoPara dünyasındaki dalgalanmanın bu paraların ekonomik olarak kullanımında sağlayacağı pekçok faydayı engellediği ve bu faydaların yaygın kitlelerce kullanımını sekteye uğrattığını gören girişimciler uzun zamandır yeni tip daha stabil paralar yaratmak için çalışıyorlar. 
+
+
+#### Fiat paralara bağlı SabitParalar
+
+Nasıl yapalım da sabitleyelim derken, ilk akla geleni "öyle bir para yaratalım ki dolara endeklenmiş olsun" olmuş.. Bu paralar içinde en bilineni Tether.. Nedir bu Tether. Nasıl çalışır?
+
+[Tether Logo]
+
+##### Tether
+Aslında çalışma mantığı basit Tether'in. Şöyle demiş kuranlar: Tether'i ABD Doları'na endeksleyelim. Öyle ki her zaman 1 Tether 1 Dolara eşit olsun. Tether satın almak isteyen getirsin dolarını o kadarlık Tether alsın. Bunun için de yaratılan (satılan) her Tether için o kadarlık parayı bir bankada hesaba yatırmışlar. Yani piyasada bulunan her Tetherin karşılığı olarak bankada aynı miktarda dolar bulunuyor. 
+
+[Peki ne yapılacak bu Tether ile? Neden böyle bir SabitPara yaratıldı.]
+
+Mantıklı mı? Yani... Üç nokta koydum buraya çünkü mantıklı görünse bile ne kadar işlevsel tartışılır. Neden mi? Bir kere başta dediğimiz gibi ABD Doları'na bağlı olan bir para, diğer paralar karşısında aynen ABD Doları gibi dalgalanacak. Dolayısı ile çok sabit sayılmaz. Teorik olarak yine Dolar gibi ABD'de yıllık enflasyon ne kadar ise senelik o kadar değer kaybına uğrayacak. Ama bunlar zaten bildiğimiz konular - yine de Bitcoin vb paraya göre daha stabil olacak değil mi? Teorik olarak evet. 
+
+Ancak yine de başka sorunları yok değil. Örneğin, KriptoPara dediğimiz dünyanın merkeziyetçilikten uzak olması gerek - neden? Çünkü, merkezi [her kurum aslında bir güvenlik açığı yaratır] (Nick Szabo). Halbuki, burada teminat olarak paralar bir bankaya yatırılıyor. O bankada paralar ne kadar güvenli? Ya banka bir gün sıkıntıya girer ya da batarsa? Teorik bu tehlikeleri geçtik diyelim - gerçekten bankaya yatırıldığı ABD Doları karşılığı kadar mı para yaratıldı? Ya daha fazla yaratıldı ise? Kim denetleyecek? Banka ya da bir denetleme kuruluşu.. Çalışma prensibi olarak şeffaflık ((örneğin açık kaynak bazlı ekosistem) üzerine kurulmuş  KriptoPara dünyasına oldukça yabancı kavramlar.. 
+
+Bunun yanında bir de büyüklük (ölçekleme) sorunu var. Eğer hedeflenen vizyon bir gün bu KriptoPara'nın tüm dünyada kullanılacak hale gelmesi ise bahsettiğimiz milyarlarca dolarlık bir ekonomik büyüklük. Ne yapacaksınız, tüm bu büyüklük karşılığı ABD Doları'nı bankaya mı yatıracaksınız? Yatırabilirsiniz tabii bir sorun yok ama bu büyüklüğe ulaşmak için geçeceğiniz yolları hem zorlu hale getirecek bu teminat sistemi hem de oldukça yavaşlatacak. Hızlı bir şekilde bu sistemin büyümesi oldukça zor olarak gibi görünüyor.. 
 
 
 
