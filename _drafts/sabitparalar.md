@@ -1,3 +1,6 @@
+# Yazı I
+
+
 Geçtiğimiz günlerde bir yemekte Bitcoin ile konuşurken, bir dostum "İyi ama Bitcoin ile bir mal sattın, parayı alıp dolara dönmek istediğinde bir bakıyorsun o sırada paranın değeri değişivermiş, ne anladım ben işten - neden Bitcoin kullanayım ki?" şeklinde bir serzenişte bulundu. Haklı mı? Mevcut durumda haklı. Baksanıza Bitcoin'in son bir aydaki değişimini gösteren grafiğe: 
 
 [Bitcoin price volatility graph]
@@ -14,6 +17,8 @@ Hatırlarsanız bundan önceki bir yazımızda "[Bitcoin para mıdır, değil mi
 Bitcoin bir para olarak "değer saklama" işlevini gayet iyi yerine getiriyor and "alışverişe aracılık etme" konusunda belli yerlerde kullanılsa da hala genel bir kullanıma girmiş değil. Bunun ana nedeni de, kısa vadeli işlemler için fiat paralara karşı dalgalanmalar olması.  
 
 Ama bu dalgalanmalar için çok alınacak bir önlem yok. Zira Bitcoin'in fiyatını diğer tüm paralarda ya da hisse senetlerinde olduğu için borsalarda alım satım yapanlar belirliyor. Normalde fiat paralarda genelde parayı basan merkezi otorite (merkez bankaları) piyasada bir oyuncu olarak yer alıp fiyattaki ani zıplamaları önlüyorlar. KriptoPara dünyasında böyle bir arkada duran ağır abi yok, kaldı ki bu KriptoParaların özündeki merkezi otoriteye olan ihtiyacı sıfırlamak amacıyla taban taban zıt bu durum. 
+
+Ani zıplamalar, bu tip paraları spekülatif (al-sat) amacıyla tutan kişiler ve kurumlar için bulunmaz nimet. Piyasaları yakından takip eden, 7/24 bu piyasalardaki trendleri izleyenler için çok karlı fırsatlar sunuyor. Ama bu çok ufak bir kesim. Toplumun kalanının ne bu tip bir dalgalanmayı takip etmek için ne isteği ne de zamanı var. Eğer KriptoParaların günlük hayatımıza girmesi hedefleniyor ise, bu paraların getirdiği kolaylıklardan faydalanmak için kullanmak isteyecek büyük çok büyük bir kesimin çok daha stabil bir araca ihtiyacı var. 
 
 Acaba fiyatı sabit olan bir KriptoPara yapılamaz mıydı? Güzel soru ama kendi içinde o kadar çok çelişki barındırıyor ki bu soru. Örneğin sabit para ne demek, neye göre sabit?.. Pekçoğunuzun aklına dolar geldiğine eminim. Peki dolar sabit bir para mı? Yoo, tabii ki hayır. Başka paralar ile bir karşılaştırın bakalım doları.. 
 
@@ -47,6 +52,17 @@ Bunun yanında bir de büyüklük (ölçekleme) sorunu var. Eğer hedeflenen viz
 ### Diğer SabitPara çeşitleri arkası yarın
 
 SabitPara nedir, en bilineni Tether nasıl işler derken bu yazımızın sınırını aşmaya başladık. SabitPara'lar Tether ile sınırlı değil, tam tersine yeni tip SabitParalar çok daha farklı dünyalara açıyor önümüze.. Ona da bir sonraki yazımızda bakalım artık.. 
+
+
+# Yazı II
+
+Geçtiğimiz [yazıda] Bitcoin benzeri KriptoParalar'ın değerinin çok falza oynadğından bahsetmiş ve buna çözüm olarak ortaya çıkmış olan SabitPara kavramından bahsetmiştik. SabitPara olarak en bilinen ABD Doları'na kendini bağlamış olan Tethere bakmış, diğer farklı SabitPara'ları ise bu yazımıza bırakmıştık.. 
+
+Özetler ise, SabitPara olarak adlandırabileceğimiz KriptoParalar, şu an yaşanan ani yükseliş ve düşüşle işi olmayan bu paraları ekonomik aktivitenin 
+
+
+
+
 
 
 SabitParalar ile ilgili olarak en ilgi çekici olanı da bu. Teknolojik olarak bir devrim oldu diyoruz - Bitcoin ve benzeri KriptoParalar çıkıyor. Ama sonra diyoruz ki, "bu paralar çok ilginç, çok farklı işe yarar özellikleri var, ama şu şu nedenden dolayı kullanamayız". OK, girişimciler bunun üzerine durmuyorlar. Gelen geribildirimler ile yeni yeni özellikleri olan bir üst seviye KriptoPara çıkarıyorlar. SabitPara olarak ilk çıkan örnekleri belki yeterli değil, henüz çok erken. Olsun, insanlar bunları kullanıyor, bakıyor, sorunlar ortaya çıkıyor. Bu insanları merak ve daha iyisini yapmaktan alıkoymuyor. Tekrar deniyorlar, bu sefer daha iyisini yapıyorlar. Önemli olan burada bir vizyon olması ve yavaş yavaş, adım adım o vizyona doğru yaklaşılması. Hemen sonuç beklemeyin, ama bir vizyon düşleyin ve o vizyona ulaşmadaki yolculuğun (inişli çıkışlı) tadını çıkarmaya bakın!.. 
