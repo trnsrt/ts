@@ -13,6 +13,8 @@ Hatırlarsanız bundan önceki bir yazımızda "[Bitcoin para mıdır, değil mi
 
 Bitcoin bir para olarak "değer saklama" işlevini gayet iyi yerine getiriyor and "alışverişe aracılık etme" konusunda belli yerlerde kullanılsa da hala genel bir kullanıma girmiş değil. Bunun ana nedeni de, kısa vadeli işlemler için fiat paralara karşı dalgalanmalar olması.  
 
+Ama bu dalgalanmalar için çok alınacak bir önlem yok. Zira Bitcoin'in fiyatını diğer tüm paralarda ya da hisse senetlerinde olduğu için borsalarda alım satım yapanlar belirliyor. Normalde fiat paralarda genelde parayı basan merkezi otorite (merkez bankaları) piyasada bir oyuncu olarak yer alıp fiyattaki ani zıplamaları önlüyorlar. KriptoPara dünyasında böyle bir arkada duran ağır abi yok, kaldı ki bu KriptoParaların özündeki merkezi otoriteye olan ihtiyacı sıfırlamak amacıyla taban taban zıt bu durum. 
+
 Acaba fiyatı sabit olan bir KriptoPara yapılamaz mıydı? Güzel soru ama kendi içinde o kadar çok çelişki barındırıyor ki bu soru. Örneğin sabit para ne demek, neye göre sabit?.. Pekçoğunuzun aklına dolar geldiğine eminim. Peki dolar sabit bir para mı? Yoo, tabii ki hayır. Başka paralar ile bir karşılaştırın bakalım doları.. 
 
 [Dolar vs euro graph]
