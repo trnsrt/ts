@@ -14,7 +14,7 @@ Sadece Bitcoin değil tabii. Diğer KriptoParalar da öyle - hatta onların duru
 
 | ![tradeview-coin-compare-800.png](/assets/tradeview-coin-compare-800.png) | 
 |:--:| 
-| *Son iki ay % değişim - Bitcoin(Mavi), Ethereum(Kırmızı), Litecoin(Turuncu), Monero(Sarı)* |
+| *Son iki ay % değişim - Bitcoin(Mavi), Ethereum(Kırmızı), Litecoin(Turuncu), Monero(Sarı)* Kaynak [Tradewiev](https://www.multicoincharts.com/?chart=COINBASE:BTCUSD)|
 
 
 Hatırlarsanız bundan önceki bir yazımızda "[Bitcoin para mıdır, değil midir?](http://ademimerkezi.com/genel/2018/03/22/Bitcoin-para-mi-gercekten.html)" diye uzun uzun tartışmış, Bitcoin'i Altın ve şu an tedavülde olan devletler tarafından basılı kağıt para (fiat para da deniyor) ile karşılaştırmıştık. 
