@@ -27,9 +27,14 @@ Ama bu dalgalanmalar için çok alınacak bir önlem yok. Zira Bitcoin'in fiyat�
 
 Ani zıplamalar, bu tip paraları spekülatif (al-sat) amacıyla tutan kişiler ve kurumlar için bulunmaz nimet. Piyasaları yakından takip eden, 7/24 bu piyasalardaki trendleri izleyenler için çok karlı fırsatlar sunuyor. Ama bu çok ufak bir kesim. Toplumun kalanının ne bu tip bir dalgalanmayı takip etmek için ne isteği ne de zamanı var. Eğer KriptoParaların günlük hayatımıza girmesi hedefleniyor ise, bu paraların getirdiği kolaylıklardan faydalanmak için kullanmak isteyecek büyük çok büyük bir kesimin çok daha stabil bir araca ihtiyacı var. 
 
-Acaba fiyatı sabit olan bir KriptoPara yapılamaz mıydı? Güzel soru ama kendi içinde o kadar çok çelişki barındırıyor ki bu soru. Örneğin sabit para ne demek, neye göre sabit?.. Pekçoğunuzun aklına dolar geldiğine eminim. Peki dolar sabit bir para mı? Yoo, tabii ki hayır. Başka paralar ile bir karşılaştırın bakalım doları.. 
+Acaba fiyatı sabit olan bir KriptoPara yapılamaz mıydı? Güzel soru ama kendi içinde o kadar çok çelişki barındırıyor ki bu soru. Örneğin sabit para ne demek, neye göre sabit?.. Pekçoğunuzun aklına dolar geldiğine eminim. Peki dolar sabit bir para mı? Yoo, tabii ki hayır.
 
-[Dolar vs euro graph]
+
+
+| ![dollar-yagmurlu-226717_400.jpg](/assets/dollar-yagmurlu-226717_400.jpg) | 
+|:--:| 
+| *Yağmurlu havalarda sığınılacak şemsiye* |
+
 
 Stabil bir para aslında kendi içinde oximoron (zıt şekilde çelişkili) bir ifade. O zaman belki şu soruyu sormak daha mantıklı: Tamam, öyle stabil olmasın da en azından doların euro karşısında yaşadığı gibi, dalgalanmalar hafif olsun, denizde hafif dalgalanmalar hissedelim, öyle her akşam yattığımızda acaba yarın sabah %10 zengin mi uyanacağım yoksa %10 fakir mi diye yüreğimiz ağzımızda olmasa. Bakın bu daha mantıklı bir soru - cevabı için de şu günlerde harıl harıl çalışıyor insanlar.. Çalıştıkları konu ise SabitPara (Stable coin) konsepti. Örnekleri uzun zamandır etrafta, ancak kullanım olarak hala gerideler.. 
 
