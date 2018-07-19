@@ -9,7 +9,7 @@ Geçtiğimiz günlerde bir yemekte Bitcoin ile konuşurken, bir dostum "İyi ama
 | *Bitcoin - Aylık Değişim Kaynak: [Coindesk](https://www.coindesk.com/price/)* |
 
 
-Sadece Bitcoin değil tabii. Diğer KriptoParalar da öyle - hatta onların durumu daha da kötü
+Sadece Bitcoin değil tabii. Diğer KriptoParalar da öyle - hatta onların durumu daha da kötü. Son iki ayın grafiği var aşağıda. İki ay öncesine göre % olarak dört büyük KriptoPara'nın değişimi. Genelde hepsi değer kaybetmiş ama oranları o kadar değişken ki. Örneğin iki ay öncesine göre bir ara %27'e varan oranda değer kaybetmiş ama son zamanlarda toparlayıp, yazı tarihi itibariyle sadece %7 aşağıda. Benzer dönemde, 23 Mayıs'taki değerine göre bir noktada Ethereum %26, Litecoin %43, Monero ise %37 düşük değerden işlem görmüş. Can mı dayanır bu iniş-çıkışa?
 
 
 | ![tradeview-coin-compare-800.png](/assets/tradeview-coin-compare-800.png) | 
