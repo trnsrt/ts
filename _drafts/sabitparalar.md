@@ -87,6 +87,8 @@ Efendim, Tether'i açıklarkan pekçok sıkıntıları olduğundan bahsetmiştik
 
 Biliyorsunuz teknolojik dünyada çare tükenmez - nerede bir sıkıntı var, onlarca çözüm türer. SabitParanın teminatını merkezi olarak tutma sıkıntı ise o zaman o teminatı da merkezi olmayan dağıtık bir hale getirelim. Nasıl? Teminatı da ABD doları yerıne  bir başka KriptoPara yaparak tabii!. Böyle bayağı bir para çıkmış BitShares ([BitUSD](https://coinmarketcap.com/currencies/bitusd/)), NuBits ([USNBT](https://coinmarketcap.com/currencies/nubits/)), Steem Dollars ([SBD](https://coinmarketcap.com/currencies/steem-dollars/)), Maker DAO ([Dai](https://coinmarketcap.com/currencies/dai/)) gibi (Sırada olanlar da var Alchemint ve BitBay gibi)
 
+![Four-stablecoins-600.png](/assets/Four-stablecoins-600.png) 	
+
 Artıları neler böyle bir SabitParanın? Aslında yukarıda bahsettiğimiz Tether'in merkezi olmasında dolayı duyulan tüm sıkıntıları önlüyor. Bir kere teminat KriptoPara olarak şeffaf bir şekilde tutulacak. Öyle bir bankada var mıymış, yok muymuş endişelenmeye gerek yok. Sonra vay efendim ABD hükümeti gelir de el koyarmış gibi bir dert yok - neye el koyacaksınız? Sonra işin doğasına uygun - hızlı çabuk olarak büyüyebilir gerekirse, sorun da çıkmaz. 
 
 Ama tabii bu tip SabitParaların da henüz alacağı çok yol var. Bir kere, Tether gibi ABD Dolarına endeklemişler kendilerini bu paralar. Burada bir sorun yok, zaten istenen de -şu aşamada- bu. Sorun, teminat olarak KriptoPara gösteriyorsunuz ama KriptoParaların kendisi çok oynak. Ya bu teminatın değeri çok düşer ve SabitParayı da etkilerse? Bunu önlemek için Tether'deki 1 Tether=1 ABD Doları'nın çok üzerinde bir teminat koyuyor SabitParalar - bir nevi önlem almak adına iyi, ama yine de çok dalgalı bir ortamda o da işe yaramayabilir. 
