@@ -39,7 +39,7 @@ Nasıl bir sekteye uğratıyor? Şöyle bir [benzerlik](https://blog.havven.io/w
 
 Yukarıda yazdığımız sorunlara çözüm bulabilmek için nasıl yapalım da bu parayı sabitleyelim düşünürken, ilk akla gelen fikir "öyle bir para yaratalım ki dolara endeklenmiş olsun, bankada dolar tutmakla borsada bu parayı tutmak birbirinin tıpatıp aynısı olsun" olmuş.. Bu düşüncenin sonucu ortaya çıkan pekçok para var. Bu paralar içinde en bilineni ise Tether (USDT).. Nedir bu Tether. Nasıl çalışır?
 
-[Tether Logo]
+![tether-logo-400.png](/assets/tether-logo-400.png) 	
 
 ##### Tether
 2015 yılında kurulmuş olan Tether'in çalışma mantığı aslında basit. Şöyle demiş kuranlar: Tether'i ABD Doları'na endeksleyelim. Öyle ki her zaman 1 Tether 1 Dolara eşit olsun. Tether satın almak isteyen getirsin dolarını o kadarlık Tether alsın. Bunun için de yaratılan (satılan) her Tether için o kadarlık parayı bir bankada hesaba yatırmışlar. Yani piyasada bulunan her Tetherin karşılığı olarak bankada aynı miktarda dolar bulunuyor. 
