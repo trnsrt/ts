@@ -35,16 +35,17 @@ Nasıl bir sekteye uğratıyor? Şöyle bir [benzerlik](https://blog.havven.io/w
 İşte SabitPara'lar da bir nevi bu köprüler.. KriptoParanız var ise bunu kullanmak çok basit. Daha önce anlattık, buradan dünyanın her yerine 10 dakika içinde istediğiniz parayı gönderiyorsunuz. Ama normal kağıt para dünyasından KriptoPara dünyasına girmek hem zahmetli, hem masraflı hem de vakit alıyor. Varlığınızı iniş-çıkışlardan dolayı KriptoPara olarak tutmak istemiyor, ama bir yandan da getirdiği kolaylıklardan faydalanmak istiyorsanız? Alın bir SabitPara, varlığınız SabitPara'da dursun, istediğinizde istediğiniz başka KriptoPara'ya (örneğin Bitcoin'e) anında çevirin işleminizi yapın. Ya da bir yerden Bitcoin mi geldi, değerini kaybetme riski yaşamadan anında SabitPara'ya çevirin, içiniz rahat olsun.
 
 
-#### Fiat paralara bağlı SabitParalar
+#### SabitParalar neye göre sabit?
 
-Yukarıda yazdığımız sorunlara çözüm bulabilmek için nasıl yapalım da bu parayı sabitleyelim düşünürken, ilk akla gelen fikir "öyle bir para yaratalım ki dolara endeklenmiş olsun, bankada dolar tutmakla borsada bu parayı tutmak birbirinin tıpatıp aynısı olsun" olmuş.. Bu düşüncenin sonucu ortaya çıkan pekçok para var. Bu paralar içinde en bilineni ise Tether (USDT).. Nedir bu Tether. Nasıl çalışır?
+Yukarıda yazdığımız sorunlara çözüm bulabilmek için nasıl yapalım da bu parayı sabitleyelim düşünürken, ilk akla gelen fikir "öyle bir para yaratalım ki dolara endeklenmiş olsun, bankada dolar tutmakla borsada bu parayı tutmak birbirinin tıpatıp aynısı olsun" olmuş.. Bu düşüncenin sonucu ortaya çıkan pekçok para var. 
+
+Mantıklı mı? Bir dereceye kadar evet. Neden mi? Bir kere başta dediğimiz gibi ABD Doları'na bağlı olan bir para, diğer paralar karşısında aynen ABD Doları gibi dalgalanacak. Dolayısı ile çok sabit sayılmaz. Teorik olarak yine Dolar gibi ABD'de yıllık enflasyon ne kadar ise senelik o kadar değer kaybına uğrayacak. Ama bunlar zaten bildiğimiz konular - yine de Bitcoin vb paraya göre daha stabil olacak değil mi? Teorik olarak evet. 
+
+Sabitparalar içinde en bilineni ise Tether (USDT).. Nedir bu Tether. Nasıl çalışır?
 
 ![tether-logo-400.png](/assets/tether-logo-400.png) 	
 
-##### Tether
-2015 yılında kurulmuş olan Tether'in çalışma mantığı aslında basit. Şöyle demiş kuranlar: Tether'i ABD Doları'na endeksleyelim. Öyle ki her zaman 1 Tether 1 Dolara eşit olsun. Tether satın almak isteyen getirsin dolarını o kadarlık Tether alsın. Bunun için de yaratılan (satılan) her Tether için o kadarlık parayı bir bankada hesaba yatırmışlar. Yani piyasada bulunan her Tetherin karşılığı olarak bankada aynı miktarda dolar bulunuyor. 
-
-Mantıklı mı? Bir dereceye kadar evet. Neden mi? Bir kere başta dediğimiz gibi ABD Doları'na bağlı olan bir para, diğer paralar karşısında aynen ABD Doları gibi dalgalanacak. Dolayısı ile çok sabit sayılmaz. Teorik olarak yine Dolar gibi ABD'de yıllık enflasyon ne kadar ise senelik o kadar değer kaybına uğrayacak. Ama bunlar zaten bildiğimiz konular - yine de Bitcoin vb paraya göre daha stabil olacak değil mi? Teorik olarak evet. 
+2015 yılında kurulmuş olan Tether'in çalışma mantığı aslında basit. Şöyle demiş kuranlar: Tether'i ABD Doları'na endeksleyelim. Öyle ki her zaman 1 Tether 1 Dolara eşit olsun. Tether satın almak isteyen getirsin dolarını o kadarlık Tether alsın. Bunun için de yaratılan (satılan) her Tether için o kadarlık parayı bir bankada hesaba yatırmışlar. Yani piyasada bulunan her Tetherin karşılığı olarak bankada aynı miktarda dolar bulunuyor. Dolayısıyla, dolar teminatlı bir SabitPara yaratılmış Tether ile. 
 
 Ancak yine de başka sorunları yok değil. Örneğin, KriptoPara dediğimiz dünyanın merkeziyetçilikten uzak olması gerek - neden? Çünkü, merkezi [her kurum aslında bir güvenlik açığı yaratır] (Nick Szabo). Halbuki, burada teminat olarak paralar bir bankaya yatırılıyor. O bankada paralar ne kadar güvenli? Ya banka bir gün sıkıntıya girer ya da batarsa? Teorik bu tehlikeleri geçtik diyelim - gerçekten bankaya yatırıldığı ABD Doları karşılığı kadar mı para yaratıldı? Ya daha fazla yaratıldı ise? Kim denetleyecek? Banka ya da bir denetleme kuruluşu.. Çalışma prensibi olarak şeffaflık ((örneğin açık kaynak bazlı ekosistem) üzerine kurulmuş  KriptoPara dünyasına oldukça yabancı kavramlar..  Nitekim geçtiğimiz yılın Aralık ayında ABD resmi makamları Tether'e [soruşturma açarak](https://www.bloomberg.com/news/articles/2018-01-30/crypto-exchange-bitfinex-tether-said-to-get-subpoenaed-by-cftc) bahsedilen rakamların gerçekten teminat altında olup olmadığı ile ilgili inceleme başlattı. Ya yarın öbür gün ABD hükümeti Tether'in varlıklarına el koyarsa (şu an öyle bir durum yok ama isterse yapma gücü var
 
