@@ -99,6 +99,8 @@ Yukarıda bahsettiğimiz Tether ve diğer SabitParalar biliyorsunuz kendilerine 
 
 Nasıl yapmışlar bunu? Kısacası, hatırlarsanız bir yazımızda [Akıllı Kontratlardan](http://ademimerkezi.com/genel/2018/06/29/bu-kontratlar-cok-akilli-ethereum-ve-akilli-kontratlar.html) bahsetmiştik. İşte bu sistemi kuranlar - sanal bir Merkez Bankası yaratıp, bu bankanın işleyişini bir Akıllı Kontrat'a bağlamışlar. Ne zaman SabitPara'ya talep artıyor, bolcana SabitPara yaratarak paranın değerini 1 ABD Doları seviyesine getiriyorlar. Ne zaman paraya talep düşüyor, mevcut SabitParalar'dan bir kısmını yok ederek (yani parayı azaltarak) değerini artırıyorlar. Bu SabitParalar için öne çıkanlar [Basis]([https://basis.io/) ve Saga([SAGA](https://coinmarketcap.com/currencies/sagacoin/)) 
 
+![basis-logo.7d5c407d-400.png](/assets/basis-logo.7d5c407d-400.png)
+
 Bu SabitPara çeşidi henüz çok daha yeni. Bu konsepte inananlar (ki Kripto dünyasının ağır topları burada) önceki SabitParalara göre çok daha büyük potansiyeli olduğunu düşünüyorlar bu son kategoridekilerin. Henüz daha çok yeni - üzerinden düşünülmesi, açıklarının bulunması, gerçekten çalışıp çalışmadığının görülmesi gerek, bunun için de zamana ihtiyaç var. 
 
 ### Sonuç
