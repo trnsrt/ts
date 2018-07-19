@@ -54,7 +54,7 @@ Bunun yanında bir de büyüklük (ölçekleme) sorunu var. Eğer hedeflenen viz
 Sonuç olarak Tether şu anda belli bir işlevi yerine getiriyor. İşe de yarıyor. Ama biraz mevcut dünyada kullanılan bir işlevin Kripto dünyasına adapte edilmeye çalışılmış halı gibi. Şifreli Harikalar Dünyası'nın içindeki vizyona (bağımsız, başta merkez bankaları olmak üzere merkezi otorite etkisinden uzak, dağıtık yapılı) ise henüz çok uzak. Muhtemelen o vizyona diğer SabitParalar daha yakın olacaklar. 
 
 
-### Diğer SabitPara çeşitleri arkası yarın
+### Diğer SabitParalar - arkası yarında..
 
 SabitPara nedir, en bilineni Tether nasıl işler derken bu yazımızın sınırını aşmaya başladık. Yazdığımız gibi SabitPara'lar Tether ile sınırlı değil, tam tersine yeni tip SabitParalar çok daha farklı dünyalara açıyor önümüze.. Ona da bir sonraki yazımızda bakalım artık.. 
 
@@ -63,13 +63,21 @@ SabitPara nedir, en bilineni Tether nasıl işler derken bu yazımızın sınır
 
 Geçtiğimiz [yazıda] Bitcoin benzeri KriptoParalar'ın değerinin çok falza oynadğından bahsetmiş ve buna çözüm olarak ortaya çıkmış olan SabitPara kavramından bahsetmiştik. SabitPara olarak en bilinen ABD Doları'na kendini bağlamış olan Tethere bakmış, diğer farklı SabitPara'ları ise bu yazımıza bırakmıştık.. 
 
-Özetler ise, SabitParalar, daha stabil fiyat yapısı ile KriptoParaların toplumsal adaptasyonuna büyük katkıda bulunabilirler. Zira, bu paraları sağladığı kolaylıklar nedeniyle günlük ekonomik aktivitenin içinde kullanmak isteyen isteyebilecek büyük bir çoğunluk var ve şu an yaşanan ani yükseliş ve düşüşleri görünce neye uğradıklarını şaşırıp arkalarına bakmadan bu dünyadan uzaklaşıyorlar. Hem Kripto Dünyası'nın nimetlerinden faydalanacak hem de bu tip dalgalardan kaçınmak isteyecek bu insanları Şifreli Harikalar Dünyası'na çekmek ve bu dünyayı kat be kat büyütmek için SabitParalar çok önemli görevler üstlenebilirler. 
+Özetler isek, SabitParalar, daha stabil fiyat yapısı ile KriptoParaların toplumsal adaptasyonuna büyük katkıda bulunabilirler. Zira, bu paraları sağladığı kolaylıklar nedeniyle günlük ekonomik aktivitenin içinde kullanmak isteyen isteyebilecek büyük bir çoğunluk var ve şu an yaşanan ani yükseliş ve düşüşleri görünce neye uğradıklarını şaşırıp arkalarına bakmadan bu dünyadan uzaklaşıyorlar. Hem Kripto Dünyası'nın nimetlerinden faydalanacak hem de bu tip dalgalardan kaçınmak isteyecek bu insanları Şifreli Harikalar Dünyası'na çekmek ve bu dünyayı kat be kat büyütmek için SabitParalar çok önemli görevler üstlenebilirler. 
 
-SabitParalar'ın ile çeşidi olarak ise ABD Doları'na kendini sabitlemiş olan Tether'e baktık. Tether mevcut dünyamızından Şifreli Dünya'ya apartmaya çalıştığımız biraz eğreti ama yine de şimdilik iş gören bir SabitPara. Diğer SabitParalar biraz daha Şifreli Dünyan'nın içinden geliyorlar ama onların da -şimdilik belli sıkıntılar var - Dilerseniz onlara da bir göz atalım.. 
+SabitParalar'ın ilk çeşidi olarak ABD Dolarını teminat olarak kullanan Tether'e baktık. Tether mevcut dünyamızından Şifreli Dünya'ya apartmaya çalıştığımız biraz eğreti ama yine de şimdilik iş gören bir SabitPara. Diğer SabitParalar biraz daha Şifreli Dünyan'nın içinden geliyorlar ama onların da -şimdilik belli sıkıntılar var - Dilerseniz onlara da bir göz atalım.. 
 
-###
+### KriptoPara teminatlı SabitParalar
 
+Başlığa bakarsak eğer konu bir parça çetrefilleşiyor değil mi? Haklısınız. KriptoParayı teminat olarak kullanan SabitParalar da ne demek? Açıklamaya çalışalım: 
 
+Efendim, Tether'i açıklarkan pekçok sıkıntıları olduğundan bahsetmiştik. Bu sıkıntılardan en önemlisi, Tether'in yarattığı her SabitPara için o paraya eşit değerde ABD Dolarını bir bankada tuttuğunu söylemiştik. Yani merkeziyetsiz bir şekilde çalışması gereken şifreli bir KriptoPara için çok çelişkili ve işin ruhuna aykırı bir durum idi bu. Ya bir gün o paraya el konursa? Ne de olsa merkezi olarak bir banka hesabında tutuluyor (bu arada bankanın neresi olduğu gizli tutuluyor. Bir ara ABD'deki Wells Fargo Bank idi ancak Wells Fargo -birilerinin etkisiyle diyelim- onlar ile iş yapmayı bıraktı, şimdilerde Porto Riko'da bir yerde olduğu [söyleniyor](https://www.bloomberg.com/news/articles/2018-05-24/bitfinex-said-to-find-bank-in-puerto-rico-after-wells-fargo-exit)). 
+
+Biliyorsunuz teknolojik dünyada çare tükenmez - nerede bir sıkıntı var, onlarca çözüm türer. SabitParanın teminatını merkezi olarak tutma sıkıntı ise o zaman o teminatı da merkezi olmayan dağıtık bir hale getirelim. Nasıl? Teminatı da ABD doları yerıne  bir başka KriptoPara yaparak tabii!. Böyle bayağı bir para çıkmış BitShares ([BitUSD](https://coinmarketcap.com/currencies/bitusd/)), NuBits ([USNBT](https://coinmarketcap.com/currencies/nubits/)), Steem Dollars ([SBD](https://coinmarketcap.com/currencies/steem-dollars/), Maker DAO ([Dai](https://coinmarketcap.com/currencies/dai/)) gibi (Sırada olanlar da var Alchemint ve BitBay gibi)
+
+Artıları neler böyle bir SabitParanın? Aslında yukarıda bahsettiğimiz Tether'in merkezi olmasında dolayı duyulan tüm sıkıntıları önlüyor. Bir kere teminat KriptoPara olarak şeffaf bir şekilde tutulacak. Öyle bir bankada var mıymış, yok muymuş endişelenmeye gerek yok. Sonra vay efendim ABD hükümeti gelir de el koyarmış gibi bir dert yok - neye el koyacaksınız? Sonra işin doğasına uygun - hızlı çabuk olarak büyüyebilir gerekirse, sorun da çıkmaz. 
+
+Ama tabii bu tip SabitParaların da henüz alacağı çok yol var. Bir kere, Tether gibi ABD Dolarına endeklemişler kendilerini bu paralar. Burada bir sorun yok, zaten istenen de -şu aşamada- bu. Sorun, teminat olarak KriptoPara gösteriyorsunuz ama KriptoParaların kendisi çok oynak. Ya bu teminatın değeri çok düşer ve SabitParayı da etkilerse? Bunu önlemek için Tether'deki 1 Tether=1 ABD Doları'nın çok üzerinde bir teminat koyuyor SabitParalar - bir nevi önlem almak adına iyi, ama yine de çok dalgalı bir ortamda o da işe yaramayabilir. 
 
 
 
