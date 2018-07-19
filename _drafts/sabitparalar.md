@@ -11,7 +11,10 @@ Geçtiğimiz günlerde bir yemekte Bitcoin ile konuşurken, bir dostum "İyi ama
 
 Sadece Bitcoin değil tabii. Diğer KriptoParalar da öyle - hatta onların durumu daha da kötü
 
-[Other coins price volatility graph]
+
+| ![tradeview-coin-compare-800.png](/assets/tradeview-coin-compare-800.png) | 
+|:--:| 
+| *Son iki ay - Bitcoin(Mavi), Ethereum(Kırmızı), Litecoin(Turuncu), Monero(Sarı)* |
 
 
 Hatırlarsanız bundan önceki bir yazımızda "[Bitcoin para mıdır, değil midir?](http://ademimerkezi.com/genel/2018/03/22/Bitcoin-para-mi-gercekten.html)" diye uzun uzun tartışmış, Bitcoin'i Altın ve şu an tedavülde olan devletler tarafından basılı kağıt para (fiat para da deniyor) ile karşılaştırmıştık. 
