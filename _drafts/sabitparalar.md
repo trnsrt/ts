@@ -55,14 +55,18 @@ Sonuç olarak Tether şu anda belli bir işlevi yerine getiriyor. İşe de yarı
 
 ### Diğer SabitPara çeşitleri arkası yarın
 
-SabitPara nedir, en bilineni Tether nasıl işler derken bu yazımızın sınırını aşmaya başladık. SabitPara'lar Tether ile sınırlı değil, tam tersine yeni tip SabitParalar çok daha farklı dünyalara açıyor önümüze.. Ona da bir sonraki yazımızda bakalım artık.. 
+SabitPara nedir, en bilineni Tether nasıl işler derken bu yazımızın sınırını aşmaya başladık. Yazdığımız gibi SabitPara'lar Tether ile sınırlı değil, tam tersine yeni tip SabitParalar çok daha farklı dünyalara açıyor önümüze.. Ona da bir sonraki yazımızda bakalım artık.. 
 
 
 # Yazı II
 
 Geçtiğimiz [yazıda] Bitcoin benzeri KriptoParalar'ın değerinin çok falza oynadğından bahsetmiş ve buna çözüm olarak ortaya çıkmış olan SabitPara kavramından bahsetmiştik. SabitPara olarak en bilinen ABD Doları'na kendini bağlamış olan Tethere bakmış, diğer farklı SabitPara'ları ise bu yazımıza bırakmıştık.. 
 
-Özetler ise, SabitParalar, daha stabil fiyat yapısı ile KriptoParaların toplumsal adaptasyonuna büyük katkıda bulunabilirler. Zira, bu paraları sağladığı kolaylıklar nedeniyle günlük ekonomik aktivitenin içinde kullanmak isteyen isteyebilecek büyük bir çoğunluk var ve şu an yaşanan ani yükseliş ve düşüşleri görünce neye uğradıklarını şaşırıp arkalarına bakmadan bu dünyadan uzaklaşıyorlar. 
+Özetler ise, SabitParalar, daha stabil fiyat yapısı ile KriptoParaların toplumsal adaptasyonuna büyük katkıda bulunabilirler. Zira, bu paraları sağladığı kolaylıklar nedeniyle günlük ekonomik aktivitenin içinde kullanmak isteyen isteyebilecek büyük bir çoğunluk var ve şu an yaşanan ani yükseliş ve düşüşleri görünce neye uğradıklarını şaşırıp arkalarına bakmadan bu dünyadan uzaklaşıyorlar. Hem Kripto Dünyası'nın nimetlerinden faydalanacak hem de bu tip dalgalardan kaçınmak isteyecek bu insanları Şifreli Harikalar Dünyası'na çekmek ve bu dünyayı kat be kat büyütmek için SabitParalar çok önemli görevler üstlenebilirler. 
+
+SabitParalar'ın ile çeşidi olarak ise ABD Doları'na kendini sabitlemiş olan Tether'e baktık. Tether mevcut dünyamızından Şifreli Dünya'ya apartmaya çalıştığımız biraz eğreti ama yine de şimdilik iş gören bir SabitPara. Diğer SabitParalar biraz daha Şifreli Dünyan'nın içinden geliyorlar ama onların da -şimdilik belli sıkıntılar var - Dilerseniz onlara da bir göz atalım.. 
+
+###
 
 
 
