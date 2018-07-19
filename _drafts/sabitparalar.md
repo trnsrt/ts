@@ -3,7 +3,11 @@
 
 Geçtiğimiz günlerde bir yemekte Bitcoin ile konuşurken, bir dostum "İyi ama Bitcoin ile bir mal sattın, parayı alıp dolara dönmek istediğinde bir bakıyorsun o sırada paranın değeri değişivermiş, ne anladım ben işten - neden Bitcoin kullanayım ki?" şeklinde bir serzenişte bulundu. Haklı mı? Mevcut durumda haklı. Baksanıza Bitcoin'in son bir aydaki değişimini gösteren grafiğe: 
 
-[Bitcoin price volatility graph]
+
+| ![coindesk-bpi-chart-monthly-600.png](/assets/coindesk-bpi-chart-monthly-600.png) | 
+|:--:| 
+| *Bitcoin - Aylık Değişim Kaynak: [Coindesk](https://www.coindesk.com/price/)* |
+
 
 Sadece Bitcoin değil tabii. Diğer KriptoParalar da öyle - hatta onların durumu daha da kötü
 
