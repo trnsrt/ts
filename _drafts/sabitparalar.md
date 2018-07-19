@@ -79,7 +79,20 @@ Artıları neler böyle bir SabitParanın? Aslında yukarıda bahsettiğimiz Tet
 
 Ama tabii bu tip SabitParaların da henüz alacağı çok yol var. Bir kere, Tether gibi ABD Dolarına endeklemişler kendilerini bu paralar. Burada bir sorun yok, zaten istenen de -şu aşamada- bu. Sorun, teminat olarak KriptoPara gösteriyorsunuz ama KriptoParaların kendisi çok oynak. Ya bu teminatın değeri çok düşer ve SabitParayı da etkilerse? Bunu önlemek için Tether'deki 1 Tether=1 ABD Doları'nın çok üzerinde bir teminat koyuyor SabitParalar - bir nevi önlem almak adına iyi, ama yine de çok dalgalı bir ortamda o da işe yaramayabilir. 
 
+### Teminatsız SabitParalar!
 
+Buraya kadar hala okumaya devam edip kaybolmadı iseniz bravo. O zaman sizin için konuyu daha da karıştıralım :) 
 
+Yukarıda bahsettiğimiz Tether ve diğer SabitParalar biliyorsunuz kendilerine ABD Dolarına bağlar iken ya ABD Doları ya da değer olarak ona yakın miktarda KriptoParayı teminat olarak alıyorlardı. Bir kısım SabitParalar ise "Boşverin bu teminat vs almayı, biz bir algoritma yapalım, teminatı toptan yok edelim" demişler. 
 
-SabitParalar ile ilgili olarak en ilgi çekici olanı da bu. Teknolojik olarak bir devrim oldu diyoruz - Bitcoin ve benzeri KriptoParalar çıkıyor. Ama sonra diyoruz ki, "bu paralar çok ilginç, çok farklı işe yarar özellikleri var, ama şu şu nedenden dolayı kullanamayız". OK, girişimciler bunun üzerine durmuyorlar. Gelen geribildirimler ile yeni yeni özellikleri olan bir üst seviye KriptoPara çıkarıyorlar. SabitPara olarak ilk çıkan örnekleri belki yeterli değil, henüz çok erken. Olsun, insanlar bunları kullanıyor, bakıyor, sorunlar ortaya çıkıyor. Bu insanları merak ve daha iyisini yapmaktan alıkoymuyor. Tekrar deniyorlar, bu sefer daha iyisini yapıyorlar. Önemli olan burada bir vizyon olması ve yavaş yavaş, adım adım o vizyona doğru yaklaşılması. Hemen sonuç beklemeyin, ama bir vizyon düşleyin ve o vizyona ulaşmadaki yolculuğun (inişli çıkışlı) tadını çıkarmaya bakın!.. 
+Nasıl yapmışlar bunu? Kısacası, hatırlarsanız bir yazımızda [Akıllı Kontratlardan](http://ademimerkezi.com/genel/2018/06/29/bu-kontratlar-cok-akilli-ethereum-ve-akilli-kontratlar.html) bahsetmiştik. İşte bu sistemi kuranlar - sanal bir Merkez Bankası yaratıp, bu bankanın işleyişini bir Akıllı Kontrat'a bağlamışlar. Ne zaman SabitPara'ya talep artıyor, bolcana SabitPara yaratarak paranın değerini 1 ABD Doları seviyesine getiriyorlar. Ne zaman paraya talep düşüyor, mevcut SabitParalar'dan bir kısmını yok ederek (yani parayı azaltarak) değerini artırıyorlar. Bu SabitParalar için öne çıkanlar [Basis]([https://basis.io/) ve Saga([SAGA](https://coinmarketcap.com/currencies/sagacoin/)) 
+
+Bu SabitPara çeşidi henüz çok daha yeni. Bu konsepte inananlar (ki Kripto dünyasının ağır topları burada) önceki SabitParalara göre çok daha büyük potansiyeli olduğunu düşünüyorlar bu son kategoridekilerin. Henüz daha çok yeni - üzerinden düşünülmesi, açıklarının bulunması, gerçekten çalışıp çalışmadığının görülmesi gerek, bunun için de zamana ihtiyaç var. 
+
+### Sonuç
+
+SabitParalar eğer söz verdikleri vizyonu gerçekleştirebilirler ise çok büyük bir potansiyel arzediyorlar. Ancak, yine diğer pekçok KriptoPara ya da Blockchain projesinde olduğu gibi konuşmak için çok erken ve daha alınacak çok yol var. 
+
+Aslında belki de en ilgi çekici olanı da bu. Teknolojik olarak bir devrim oldu diyoruz - Bitcoin ve benzeri KriptoParalar çıkıyor. Ama sonra diyoruz ki, "bu paralar çok ilginç, çok farklı işe yarar özellikleri var, ama şu şu nedenden dolayı kullanamayız". OK, girişimciler durup zaman kaybetmiyorlar, "nasıl oldururuz"un peşinde koşuyorlar. Gelen geribildirimler ile yeni yeni özellikleri olan bir üst seviye ürün çıkarıyorlar. 
+
+SabitPara olarak ilk çıkan örnekleri belki yeterli değil, henüz çok erken. Olsun, insanlar bunları kullanıyor, bakıyor, sorunlar ile karşılaşıyorlar. Ama bu insanları merak ve daha iyisini yapmaktan alıkoymuyor. Tekrar deniyorlar, bu sefer daha iyisini yapıyorlar. Önemli olan burada bir vizyon olması ve yavaş yavaş, adım adım o vizyona doğru yaklaşılması. Hemen sonuç beklemeyin, sabredin ve bir vizyon düşleyin, sonra da o vizyona ulaşırken yapacağınız yolculuğun (inişli çıkışlı) tadını çıkarmaya bakın!.. 
