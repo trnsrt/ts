@@ -82,7 +82,7 @@ Sonuç olarak Tether şu anda belli bir işlevi yerine getiriyor. İşe de yarı
 
 ### Diğer SabitParalar - arkası yarında..
 
-SabitPara nedir, en bilineni Tether nasıl işler derken bu yazımızın sınırını aşmaya başladık. Yazdığımız gibi SabitPara'lar Tether ile sınırlı değil, tam tersine yeni tip SabitParalar çok daha farklı dünyalara açıyor önümüze.. Ona da bir sonraki yazımızda bakalım artık.. 
+SabitPara nedir, en bilineni Tether nasıl işler derken bu yazımızın sınırını aşmaya başladık. Yazdığımız gibi SabitPara'lar Tether ile sınırlı değil, tam tersine yeni tip SabitParalar çok daha farklı dünyalar açıyor önümüze.. Ona da bir sonraki yazımızda bakalım artık.. 
 
 
 &nbsp;
