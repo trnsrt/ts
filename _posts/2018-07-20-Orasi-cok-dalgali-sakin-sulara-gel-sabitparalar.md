@@ -72,7 +72,7 @@ Sabitparalar içinde en bilineni ise Tether (USDT).. Nedir bu Tether? Nasıl ça
 
 &nbsp;
 
-![tether-logo-400.png](/assets/tether-logo-400.png) 	
+![tether-logo-400-v2.png](/assets/tether-logo-400-v2.png) 	
 
 Ancak yine de başka sorunları yok değil. Örneğin, KriptoPara dediğimiz dünyanın merkeziyetçilikten uzak olması gerek - neden? Çünkü, bu işin gurusu Nick Szabo'nun da dediği gibi [merkezi her kurum aslında bir güvenlik açığı yaratır](https://nakamotoinstitute.org/trusted-third-parties/) (Nick Szabo). Halbuki, burada teminat olarak paralar bir bankaya yatırılıyor. O bankada paralar ne kadar güvenli? Ya banka bir gün sıkıntıya girer ya da batarsa? Teorik bu tehlikeleri geçtik diyelim - gerçekten bankaya yatırılan ABD Doları karşılığı kadar mı para yaratıldı? Ya daha fazla yaratıldı ise? Kim denetleyecek? Banka ya da bir denetleme kuruluşu.. Çalışma prensibini şeffaflık üzerine kurulmuş KriptoPara dünyasına (örneğin açık kaynak bazlı ekosistem)) oldukça yabancı kavramlar..  Nitekim geçtiğimiz yılın Aralık ayında ABD resmi makamları Tether'e [soruşturma açarak](https://www.bloomberg.com/news/articles/2018-01-30/crypto-exchange-bitfinex-tether-said-to-get-subpoenaed-by-cftc) bahsedilen rakamların gerçekten teminat altında olup olmadığı ile ilgili inceleme başlattı. Ya yarın öbür gün ABD hükümeti Tether'in varlıklarına el koyarsa? Şu an öyle bir durum yok ama isterse yapma gücü var!
 
