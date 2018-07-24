@@ -14,6 +14,7 @@ Geçtiğimiz günlerde bir yemekte Bitcoin ile ilgili konuşurken, bir dostum "�
 |:--:| 
 | *Bitcoin - Aylık Değişim Kaynak: [Coindesk](https://www.coindesk.com/price/)* |
 
+&nbsp; 
 
 Sadece Bitcoin değil tabii. Diğer KriptoParalar da böyle - hatta onların durumu daha da kötü. Aşağıda son iki ayın grafiği var. İki ay öncesine göre % olarak dört büyük KriptoPara'nın değişimini gösteriyor. Genelde hepsi değer kaybetmiş ama oranları o kadar değişken ki... Örneğin iki ay öncesine göre bir ara %27'ye varan oranda değer kaybetmiş ama son zamanlarda toparlayıp, yazı tarihi itibariyle sadece %7 aşağıda kalmış. Benzer dönemde, 23 Mayıs'taki değerine göre bir noktada Ethereum %26, Litecoin %43, Monero ise %37 daha düşük değerden işlem görmüş. Can mı dayanır bu iniş-çıkışa?
 
@@ -24,6 +25,7 @@ Sadece Bitcoin değil tabii. Diğer KriptoParalar da böyle - hatta onların dur
 |:--:| 
 | *Son iki ay % değişim - Bitcoin(Mavi), Ethereum(Kırmızı), Litecoin(Turuncu), Monero(Sarı) Kaynak: [Tradeview](https://www.multicoincharts.com/?chart=COINBASE:BTCUSD)* |
 
+&nbsp;
 
 Hatırlarsanız bundan önceki bir yazımızda "[Bitcoin para mıdır, değil midir?](http://ademimerkezi.com/genel/2018/03/22/Bitcoin-para-mi-gercekten.html)" diye uzun uzun tartışmış, Bitcoin'i Altın ve devletler tarafından basılan ve şu an tedavülde olan kağıt para (fiat para da deniyor) ile karşılaştırmıştık. 
 
@@ -43,6 +45,7 @@ Acaba fiyatı sabit olan bir KriptoPara yapılamaz mıydı? Güzel soru ama kend
 |:--:| 
 | *Yağmurlu havalarda sığınılacak şemsiye* |
 
+&nbsp;
 
 Stabil bir para aslında kendi içinde oksimoron (zıt şekilde çelişkili) bir ifade. O zaman belki de şu soruyu sormak daha mantıklı: Tamam, öyle stabil olmasın da en azından doların euro karşısında yaşadığı gibi dalgalanmaları hafif olsun, denizde hafif dalgalanmalar hissedelim, öyle her akşam yattığımızda acaba yarın sabah %10 zengin mi uyanacağım yoksa %10 fakir mi diye yüreğimiz ağzımızda olmasın. Bakın bu daha mantıklı bir soru - cevabı için de şu günlerde harıl harıl çalışıyor insanlar... Çalıştıkları konu ise SabitPara (Stable coin) kavramı. Örnekleri uzun zamandır etrafta, ancak kullanım olarak hala gerideler... 
 
