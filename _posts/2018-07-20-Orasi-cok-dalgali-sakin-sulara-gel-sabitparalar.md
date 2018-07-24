@@ -70,7 +70,6 @@ Sabitparalar içinde en bilineni ise Tether (USDT).. Nedir bu Tether? Nasıl ça
 
 2015 yılında kurulan Tether'in çalışma mantığı aslında basit. Şöyle demiş kuranlar: Tether'i ABD Doları'na endeksleyelim. Öyle ki her zaman 1 Tether 1 Dolara eşit olsun. Tether satın almak isteyen getirsin dolarını o kadarlık Tether alsın. Bunun için de yaratılan (satılan) her Tether için o kadarlık parayı bir bankada hesaba yatırmışlar. Yani piyasada bulunan her Tetherin karşılığı olarak bankada aynı miktarda dolar bulundurmuşlar. Dolayısıyla, dolar teminatlı bir SabitPara yaratılmış Tether ile. 
 
-&nbsp;
 
 ![tether-logo-400-v2.png](/assets/tether-logo-400-v2.png) 	
 
