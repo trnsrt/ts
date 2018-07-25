@@ -27,3 +27,19 @@ Konumuz borsalar olmadığı için kısa keseceğim. Ancak bu borsalardan birind
 Gördüğünüz gibi, yazılarımızda dijital dünyanın hayatımızı ne kadar kolaylaştıracağından bahsediyoruz ama gel gör ki girmeye kalktığınızda ciddi bir iş. 
 
 Eğer yukarıdaki zahmete girip bir hesap açtırdı iseniz, hesabınız onaylandıktan sonrası nispeten kolay. Türkiye'deki bir banka hesabından aracının platformuna TL ya da ABD Doları gönderiyorsunuz, para borsadaki hesabınızda görüldükten sonra Bitcoin (ya da sistemde mevcut tüm KriptoParaları) alıp satmaya başlıyorsunuz. 
+
+### Aldık KriptoParayı, ya sonra?
+
+KriptoPara'yı Kripto borsadan satın aldınız. Ya şimdi? Sonrası size kalmış. Bu parayı Borsa'daki hesabınızda tutabilirsiniz, ya da kendinize ait bir elektronik cüzdana gönderebilirsiniz. Ne demek şimdi bu? Anlatalım: 
+
+KriptoPara dediğimiz özünde elektronik olarak saklanan fiziksel olarak elimizde tutamadığımız bir varlık. Zaten bu nedenle pek çok kişi KriptoPara'ya kuşkuyla bakıyor. Ama daha önce de bir çok kez anlatmaya çalıştığımız gibi, günümüzde gelişen ekonomi ve ticaret nedeniyle fiziksel olarak hiçbir parayı elimizde tutmuyoruz. Hepsi sanal ortamda genelde banka hesaplarımızda duruyor. Yastık altında tutanınız da vardır eminim ama ne kadar güvenli ciddi şekilde tartışılır. 
+
+Peki parayı bankada tutmak ne kadar güvenli? Bir parça evet. Devletin 100,000 TL'ye kadar [garantisi](https://www.tmsf.org.tr/tr/Tmsf/Mevduat/mevduat.sss) var. Üstü - maalesef.  
+
+Ya KriptoPara borsalarındaki hesaplarınız. Onlar için böyle bir garanti de yok. Bu borsaların sitelerinde ne kadar güvenli olduklarına dair açıklamalar var. Güvenip güvenmemek size kalmış. Ama başından beri bahsettiğimiz gibi yeni teknolojiler ve KriptoPara dünyası merkezi olmayan bir sistem ruhu ile işliyor. Ama KriptoPara borsası merkezi bir yapı - dolayısı ile bu işin ruhuna aykırı. Zira daha önce de pek çok kez söylediğimiz gibi "üçüncü partiler aslında güvenlik açığıdır("[trusted third parties are security holes](https://nakamotoinstitute.org/trusted-third-parties/)"). Peki ne yapmalı? 
+
+Efendim, biliyorsunuz KriptoParalar'ın en önemli özelliklerinden biri kişileri kurumlara bağımlılıktan kurtarıyor olması.  Bu nedenle çok rahat bir şekilde satın aldığınız parayı kendinizde tutmanız mümkün. İyi ama sanal değil miydi bu paralar? Fiziksel olarak ortada değillerdi. Nasıl olacak da kendimde tutacağım? Cevabı Elektronik Cüzdan
+
+### E-cüzdan nasıl çalışıyor?
+
+
