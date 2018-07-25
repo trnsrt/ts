@@ -28,7 +28,7 @@ Gördüğünüz gibi, yazılarımızda dijital dünyanın hayatımızı ne kadar
 
 Eğer yukarıdaki zahmete girip bir hesap açtırdı iseniz, hesabınız onaylandıktan sonrası nispeten kolay. Türkiye'deki bir banka hesabından aracının platformuna TL ya da ABD Doları gönderiyorsunuz, para borsadaki hesabınızda görüldükten sonra Bitcoin (ya da sistemde mevcut tüm KriptoParaları) alıp satmaya başlıyorsunuz. 
 
-### Aldık KriptoParayı, ya sonra?
+#### Aldık KriptoParayı, ya sonra?
 
 KriptoPara'yı Kripto borsadan satın aldınız. Ya şimdi? Sonrası size kalmış. Bu parayı Borsa'daki hesabınızda tutabilirsiniz, ya da kendinize ait bir elektronik cüzdana gönderebilirsiniz. Ne demek şimdi bu? Anlatalım: 
 
