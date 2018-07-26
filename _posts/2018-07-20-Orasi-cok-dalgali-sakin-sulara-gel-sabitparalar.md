@@ -10,7 +10,7 @@ Geçtiğimiz günlerde bir yemekte Bitcoin ile ilgili konuşurken, bir dostum "�
 
 &nbsp;
 
-| ![coindesk-bpi-chart-monthly-600.png](/assets/coindesk-bpi-chart-monthly-600.png) | 
+| ![coindesk-bpi-chart-monthly-600.jpg](/assets/coindesk-bpi-chart-monthly-600.jpg) | 
 |:--:| 
 | *Bitcoin - Aylık Değişim Kaynak: [Coindesk](https://www.coindesk.com/price/)* |
 
