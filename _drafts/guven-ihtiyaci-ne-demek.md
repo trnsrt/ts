@@ -26,10 +26,11 @@ Dolayısıyla ne oldu? Ayşe bana para göndermiş ve bunu dünyaya ilan etmişt
 
 Normalde şu anki bankacılık sisteminde bu sorun şu şekilde çözülüyor. Ayşe parayı bana banka üzerinden gönderdiğinde banka parayı Ayşe'nin hesabından düşüp benim hesabıma ekliyor. Yani yukarıdaki elektronik zincir örneğinden gidersek, Ayşe dijital olarak zincir üzerindeki işlem ile parayı bankaya transfer ediyor, banka da dijital imzası ile zincire bir işlem daha ekleyerk parayı bana gönderiyor. Ayşe de ben de bankaya güvendiğimiz için bir sorun yok. Ayşe'ye ait para bankadaki hesabında idi ve harcandığı anda hesabında artık para yok. Sorun çözüldü. Ama arada banka yani güveni sağlayan bir aracı var. 
 
-Güveni sağlayacak aracıyı kaldıralım ama bir yandan da bu tip "çifte harcamalar" olmasın. 
+Güveni sağlayacak aracıyı kaldıralım ama bir yandan da bu tip "çifte harcamalar" olmasın. Yani Ayşe bana para gönderdikten sonra aynı parayı başka bir yere göndermesin? Neden? Çünkü bir banka gibi ortada bir hesap defteri yok aslında? Olan şu: Ayşe'ye gelmiş elinde bulunan bir dijital varlık var. Onu bir yere gönderdiğinde gönderiyor. Ya beş dakika sonra başka bir yere göndermek isterse? 
 
-Ne yapıyor Bitcoin bunun için? Ortada bir tek banka olup tüm hesapları tutmasın. Ortada binlerce banka misali kayıt tutan makinelerin olduğu bir yapı olsun. Bütün işlemler şeffaf bir şekilde bütün bu makineler tarafından tutulsun. Bir para transferi yapıldığında işlem saati üzerinden bir damgalama yapılsın ve bu zaman damgası (time stamp) bütün makinelere iletilsin. Daha sonra da öyle bir sistem kuralım ki bütün bu sistemdeki makineler bu zaman damgası ile işlemin olduğu ilk 
+Sistem ilk gönderilen işlemi esas alıyor. Yani bir işlem gerçekleşiyor ve Ayşe bunu tüm dünyaya ilan ediyor ise, bütün makineler bunu alıp işliyorlar. Sonrasında 
 
+Ne yapıyor Bitcoin bunun için? Ortada bir tek banka olup tüm hesapları tutmasın. Ortada binlerce banka misali kayıt tutan makinelerin olduğu bir yapı olsun. Bütün işlemler şeffaf bir şekilde bütün bu makineler tarafından tutulsun. Bir para transferi yapıldığında işlem saati üzerinden bir damgalama yapılsın ve bu zaman damgası (time stamp) bütün makinelere iletilsin. Daha sonra da öyle bir sistem kuralım ki bütün bu sistemdeki makineler bu zaman damgası ile işlemin olduğu ilk an
 
 
 Zaman damgalaması sisteminin işlemesi için kritik bir noktayı açıklamakta fayda var. Normal bir durumda dakikada onlarca yüzlerce işlem olduğunu düşünürsek, bu işlemlerin doğruluğunun bir şekilde teyid edilmesi gerek. Bu teyid işlemi yapılmalı ki
