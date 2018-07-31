@@ -22,13 +22,17 @@ Dijital bir paranız var diyelim (nasıl bu paraya sahip oldunuz, bu gerçekten 
 
 Dolayısıyla ne oldu? Ayşe bana para göndermiş ve bunu dünyaya ilan etmişti (bir hash ile). Bunu yaparken benim Genel Anahtarımı kullandı (ki tüm dünya bana ait olduğunu anladı). Ben de bu hash'i aldım, kendi Özel Anahtarımı kullandım (ki tüm dünya bana ait olduğunu bildiği bu parayı kullanmak istediğimi anladı), Ahmet'in Genel Anahtarını kullandım, yeni bir işlem yarattım ve parayı Ahmet'e gönderdim. Yani Ayşe'nin bana gönderdiği hash'e bir ekleme yaparak bir zincir oluşturdum. Baştaki tanımımıza gelirsek Ayşe'nin, benim ve Ahmet'in dijital imzalarından olşuan bir zincir yarattım. Para Ayşe'den bana, benden de Ahmet'e geçti.
 
-Şimdi başta bahsettiğimiz konuya gelelim. Ben parayı Ayşe'den aldım, ama ya Ayşe bu parayı hem bana hem de başka birine gönderdiyse. Nereden bileceğim? İşte, tüm Blockchain teknolojisinin çözdüğü temel soruna geldik. Güven problemi derken kastettiğimiz ana soruna. Bu paranın Ayşe tarafından sadece bir kez harcandığını nereden bileceğiz? 
+Şimdi başta bahsettiğimiz konuya gelelim. Ben parayı Ayşe'den aldım, ama ya Ayşe bu parayı hem bana hem de başka birine gönderdiyse. Nereden bileceğim? 
+
+Yani Ayşe bana para gönderdikten sonra aynı parayı başka bir yere göndermesin? Neden? Çünkü bir banka gibi ortada bir hesap defteri yok aslında? Olan şu: Ayşe'ye gelmiş elinde bulunan bir dijital varlık var. Bunu alıp Ahmet'e gönderdi. Herhangi bir yerde bir hesabı sıfırlanmadı. Ya iki dakika sonra yine aynı parayı Alper'e göndermeye kalkarsa? Alper Ayşe'den böyle bir işlem aldığında bunun doğru olduğunu nereden bilecek?
 
 Normalde şu anki bankacılık sisteminde bu sorun şu şekilde çözülüyor. Ayşe parayı bana banka üzerinden gönderdiğinde banka parayı Ayşe'nin hesabından düşüp benim hesabıma ekliyor. Yani yukarıdaki elektronik zincir örneğinden gidersek, Ayşe dijital olarak zincir üzerindeki işlem ile parayı bankaya transfer ediyor, banka da dijital imzası ile zincire bir işlem daha ekleyerk parayı bana gönderiyor. Ayşe de ben de bankaya güvendiğimiz için bir sorun yok. Ayşe'ye ait para bankadaki hesabında idi ve harcandığı anda hesabında artık para yok. Sorun çözüldü. Ama arada banka yani güveni sağlayan bir aracı var. 
 
-Güveni sağlayacak aracıyı kaldıralım ama bir yandan da bu tip "çifte harcamalar" olmasın. Yani Ayşe bana para gönderdikten sonra aynı parayı başka bir yere göndermesin? Neden? Çünkü bir banka gibi ortada bir hesap defteri yok aslında? Olan şu: Ayşe'ye gelmiş elinde bulunan bir dijital varlık var. Onu bir yere gönderdiğinde gönderiyor. Ya beş dakika sonra başka bir yere göndermek isterse? 
+İşte, tüm Blockchain teknolojisinin çözdüğü temel soruna geldik. Güven problemi derken kastettiğimiz ana soruna. Bu paranın Ayşe tarafından sadece bir kez harcandığını nereden bileceğiz? . Güveni sağlayacak aracıyı kaldıralım ama bir yandan da bu tip "çifte harcamalar" olmasın. 
 
-Sistem ilk gönderilen işlemi esas alıyor. Yani bir işlem gerçekleşiyor ve Ayşe bunu tüm dünyaya ilan ediyor ise, bütün makineler bunu alıp işliyorlar. Sonrasında 
+Makinelerin iik işlemi dikkate alıyorlar. 
+
+Sistem ilk gönderilen işlemi esas alıyor. Yani bir işlem gerçekleşiyor ve Ayşe bunu tüm dünyaya ilan ediyor ise, bütün makineler bunu alıp işliyorlar. Sonrasında yeni işlem gelmesi durumunda makinelerin bunu reddetmesi gerekiyor. 
 
 Ne yapıyor Bitcoin bunun için? Ortada bir tek banka olup tüm hesapları tutmasın. Ortada binlerce banka misali kayıt tutan makinelerin olduğu bir yapı olsun. Bütün işlemler şeffaf bir şekilde bütün bu makineler tarafından tutulsun. Bir para transferi yapıldığında işlem saati üzerinden bir damgalama yapılsın ve bu zaman damgası (time stamp) bütün makinelere iletilsin. Daha sonra da öyle bir sistem kuralım ki bütün bu sistemdeki makineler bu zaman damgası ile işlemin olduğu ilk an
 
