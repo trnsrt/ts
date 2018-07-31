@@ -18,30 +18,34 @@ Dijital bir paranız var diyelim (nasıl bu paraya sahip oldunuz, bu gerçekten 
 
 1. Bana gönderilen herhangi bir dijital varlığı alabileceğim bir adres (buna Genel Anahtar diyorum, herkes bunu biliyor)
 2. Benim bana ait bir parayı başkasına göndermem için kullandığım bir dijital imza (bunu da Özel Anahtarım ile yapıyorum ve kimseye söylemiyorum, çünkü söylersem biri bu imzayı kullanıp bana ait varlıkları alıp başklarına gönderebilir
-3. Dijital varlık buradaki örnekte para (ki bu da aslında Ayşe'nin bana gönderdiği ve dünyaya ilan ettiği bir önceki mesaj idi, Ayşe'nin bana para gönderdiği işlemi gösteren bir belge var, hash olarak adlandırılan karmaşık bir rakam/harf bütünü -
-Ben, kendime ait özel anahtarımı kullanarak bu)
+3. Dijital varlık buradaki örnekte para (ki bu da aslında Ayşe'nin bana gönderdiği ve dünyaya ilan ettiği bir önceki mesaj idi, Ayşe'nin bana para gönderdiği işlemi gösteren bir belge var, hash olarak adlandırılan karmaşık bir rakam/harf bütünü. Bu konuda daha detaylı yazı [burada](http://ademimerkezi.com/genel/2018/04/26/sifreleme-mi-cok-karisik-degil-mi.html))
 
-Dolayısıyla ne oldu. Ayşe bana para göndermiş ve bunu dünyaya ilan etmişti (bir hash ile). Bunu yaparken benim Genel Anahtarımı kullandı (ki tüm dünya bana ait olduğunu anladı). Ben de bu hash'i aldım, kendi Özel Anahtarımı kullandım (ki tüm dünya bana ait olduğunu bildiği bu parayı kullanmak istediğimi anladı), Ahmet'in Genel Anahtarını kullandım, yeni bir işlem yarattım ve parayı Ahmet'e gönderdim. Yani Ayşe'nin bana gönderdiği hash'e bir ekleme yaparak bir zincir oluşturdum. Baştaki tanımımıza gelirsek Ayşe'nin, benim ve Ahmet'in dijital imzalarından olşuan bir zincir yarattım. Para Ayşe'den bana, benden de Ahmet'e geçti.
+Dolayısıyla ne oldu? Ayşe bana para göndermiş ve bunu dünyaya ilan etmişti (bir hash ile). Bunu yaparken benim Genel Anahtarımı kullandı (ki tüm dünya bana ait olduğunu anladı). Ben de bu hash'i aldım, kendi Özel Anahtarımı kullandım (ki tüm dünya bana ait olduğunu bildiği bu parayı kullanmak istediğimi anladı), Ahmet'in Genel Anahtarını kullandım, yeni bir işlem yarattım ve parayı Ahmet'e gönderdim. Yani Ayşe'nin bana gönderdiği hash'e bir ekleme yaparak bir zincir oluşturdum. Baştaki tanımımıza gelirsek Ayşe'nin, benim ve Ahmet'in dijital imzalarından olşuan bir zincir yarattım. Para Ayşe'den bana, benden de Ahmet'e geçti.
 
 Şimdi başta bahsettiğimiz konuya gelelim. Ben parayı Ayşe'den aldım, ama ya Ayşe bu parayı hem bana hem de başka birine gönderdiyse. Nereden bileceğim? İşte, tüm Blockchain teknolojisinin çözdüğü temel soruna geldik. Güven problemi derken kastettiğimiz ana soruna. Bu paranın Ayşe tarafından sadece bir kez harcandığını nereden bileceğiz? 
 
-Normalde şu anki bankacılık sisteminde bu sorun şu şekilde çözülüyor. Ayşe parayı bana banka üzerinden gönderdiğinde banka parayı Ayşe'nin hesabından düşüp benim hesabıma ekliyor. Yani yukarıdaki elektronik zincir örneğinden gidersek, Ayşe dijital olarak zincir üzerindeki işlem ile parayı bankaya transfer ediyor, banka da dijital imzası ile zincire bir işlem daha ekleyerk parayı bana gönderiyor. Ayşe de ben de bankaya güvendiğimiz için bir sorun yok. Ayşe'ye ait para bankadaki hesabında idi ve harcandığı anda hesabında artık para yok. Sorun çözüldü. 
+Normalde şu anki bankacılık sisteminde bu sorun şu şekilde çözülüyor. Ayşe parayı bana banka üzerinden gönderdiğinde banka parayı Ayşe'nin hesabından düşüp benim hesabıma ekliyor. Yani yukarıdaki elektronik zincir örneğinden gidersek, Ayşe dijital olarak zincir üzerindeki işlem ile parayı bankaya transfer ediyor, banka da dijital imzası ile zincire bir işlem daha ekleyerk parayı bana gönderiyor. Ayşe de ben de bankaya güvendiğimiz için bir sorun yok. Ayşe'ye ait para bankadaki hesabında idi ve harcandığı anda hesabında artık para yok. Sorun çözüldü. Ama arada banka yani güveni sağlayan bir aracı var. 
 
-Ama arada banka yani güveni sağlayan bir aracı var. Bu hizmeti karşılığı hem havale parası, hem hesap işlem ücreti altında para kesen bir aracı. Artı, güvenli olup olmadığı konusunda özellikle kriz zamanı soru işaretleri oluşan bir yapı. Sadece kriz zamanı değil kötü niyetin olduğu başka zamanları hatırlayın, örneğin [İmar Bankası'nın çifte hesap ile mevduatları yok ettiği zamanları](http://www.hurriyet.com.tr/ekonomi/yuzyilin-hayali-hesap-oyunu-38482858) Bitcoin'in özünde çözmeyi amaçladığı sorunu işte bu: Güveni sağlayacak aracıyı kaldıralım ama bir yandan da bu tip "çifte harcamalar" olmasın. 
+Güveni sağlayacak aracıyı kaldıralım ama bir yandan da bu tip "çifte harcamalar" olmasın. 
 
-İyi de şu çifte harcama problemine geri dönsek? Ortada çok makine olması Ayşe'nin hesabındaki parayı birkaç kez harcamasına nasıl engel olacak?
+Ne yapıyor Bitcoin bunun için? Ortada bir tek banka olup tüm hesapları tutmasın. Ortada binlerce banka misali kayıt tutan makinelerin olduğu bir yapı olsun. Bütün işlemler şeffaf bir şekilde bütün bu makineler tarafından tutulsun. Bir para transferi yapıldığında işlem saati üzerinden bir damgalama yapılsın ve bu zaman damgası (time stamp) bütün makinelere iletilsin. Daha sonra da öyle bir sistem kuralım ki bütün bu sistemdeki makineler bu zaman damgası ile işlemin olduğu ilk 
 
-Ne yapıyor Bitcoin bunun için? Ortada bir tek banka olup tüm hesapları tutmasın. Ortada binlerce banka misali kayıt tutan makinelerin olduğu bir yapı olsun. Bütün işlemler şeffaf bir şekilde bütün bu makineler tarafından tutulsun. Bir para transferi yapıldığında işlem saati üzerinden bir damgalama yapılsın ve bu zaman damgası bütün makinelere iletilsin. 
+
+
+Zaman damgalaması sisteminin işlemesi için kritik bir noktayı açıklamakta fayda var. Normal bir durumda dakikada onlarca yüzlerce işlem olduğunu düşünürsek, bu işlemlerin doğruluğunun bir şekilde teyid edilmesi gerek. Bu teyid işlemi yapılmalı ki
+
+Peki ya birileri bu makineleri ele geçirmeye kalkarsa. Ya da çokça makineyi sistemin içinse sokmak isterse? Böyle bir sorun olmasın diye, sistem bütün makinelere bu işlemleri
 
 Sistemin işleyişi şu şekilde oluyor
 1. Bir işlem yapıldı ve tüm sisteme anons edildi
 2. Bütün makineler bu işlemi alıp bir sayfa (blok) üstüne yazdılar
-3. 10 dakikada bir sayfadaki tüm işlemlerin doğru olduğu konusunda 
-
-Peki ya birileri bu makineleri ele geçirmeye kalkarsa. Ya da çokça makineyi sistemin içinse sokmak isterse.
-
+3. 10 dakikada bir sayfadaki tüm işlemlerin doğru olduğu konusunda (çifte harcama olmadığı) hem fikir olsunlar
+4. 
 
 
 
 
 
+
+
+Bu hizmeti karşılığı hem havale parası, hem hesap işlem ücreti altında para kesen bir aracı. Artı, güvenli olup olmadığı konusunda özellikle kriz zamanı soru işaretleri oluşan bir yapı. Sadece kriz zamanı değil kötü niyetin olduğu başka zamanları hatırlayın, örneğin [İmar Bankası'nın çifte hesap ile mevduatları yok ettiği zamanları](http://www.hurriyet.com.tr/ekonomi/yuzyilin-hayali-hesap-oyunu-38482858). 
