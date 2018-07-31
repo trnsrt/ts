@@ -4,7 +4,7 @@ Geçtiğimiz yazılarımızda Blockchain'in sadece finans değil değişik alanl
 
 
 
-![do-I-need-blockchain.jpg](/assets/do-I-need-blockchain.jpg)
+![do-I-need-blockchain.jpg](/assets/do-I-need-blockchain-400.jpg)
 
 
 Bu yazımızda biraz daha Blockchain üzerine bilgi verelim - önümüzdeki yazıda da hangi sektörlere yarayabilir ona bakarız. 
