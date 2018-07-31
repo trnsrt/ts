@@ -29,9 +29,17 @@ Normalde şu anki bankacılık sisteminde bu sorun şu şekilde çözülüyor. A
 
 Ama arada banka yani güveni sağlayan bir aracı var. Bu hizmeti karşılığı hem havale parası, hem hesap işlem ücreti altında para kesen bir aracı. Artı, güvenli olup olmadığı konusunda özellikle kriz zamanı soru işaretleri oluşan bir yapı. Sadece kriz zamanı değil kötü niyetin olduğu başka zamanları hatırlayın, örneğin [İmar Bankası'nın çifte hesap ile mevduatları yok ettiği zamanları](http://www.hurriyet.com.tr/ekonomi/yuzyilin-hayali-hesap-oyunu-38482858) Bitcoin'in özünde çözmeyi amaçladığı sorunu işte bu: Güveni sağlayacak aracıyı kaldıralım ama bir yandan da bu tip "çifte harcamalar" olmasın. 
 
-Ne yapıyor Bitcoin bunun için? Ortada bir tek banka olup tüm hesapları tutmasın. Ortada binlerce banka misali kayıt tutan makinelerin olduğu bir yapı olsun. Bütün işlemler şeffaf bir şekilde bütün bu makineler tarafından tutulsun. 
-
 İyi de şu çifte harcama problemine geri dönsek? Ortada çok makine olması Ayşe'nin hesabındaki parayı birkaç kez harcamasına nasıl engel olacak?
+
+Ne yapıyor Bitcoin bunun için? Ortada bir tek banka olup tüm hesapları tutmasın. Ortada binlerce banka misali kayıt tutan makinelerin olduğu bir yapı olsun. Bütün işlemler şeffaf bir şekilde bütün bu makineler tarafından tutulsun. Bir para transferi yapıldığında işlem saati üzerinden bir damgalama yapılsın ve bu zaman damgası bütün makinelere iletilsin. 
+
+Sistemin işleyişi şu şekilde oluyor
+1. Bir işlem yapıldı ve tüm sisteme anons edildi
+2. Bütün makineler bu işlemi alıp bir sayfa (blok) üstüne yazdılar
+3. 10 dakikada bir sayfadaki tüm işlemlerin doğru olduğu konusunda 
+
+Peki ya birileri bu makineleri ele geçirmeye kalkarsa. Ya da çokça makineyi sistemin içinse sokmak isterse.
+
 
 
 
