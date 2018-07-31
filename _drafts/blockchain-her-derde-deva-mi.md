@@ -42,7 +42,7 @@ Hemen hemen her sektörde Blockchain bazlı sistemleri kullanarak sektörü kök
 
 - Sırf piyasada bu alana büyük ilgi var diye iş yapmaya çalşan kişiler var - ki bunların bir kısmı PR yapmaya çalışan ve altı boş girişimler. Örnek mi? Sierra Leone'de seçimleri Blockchain üzerinden yaptığını [iddia eden](https://techcrunch.com/2018/03/14/sierra-leone-just-ran-the-first-blockchain-based-election/) Agora ve bunu şiddetle [reddeden](https://techcrunch.com/2018/03/19/sierra-leone-government-denies-the-role-of-blockchain-in-its-recent-election/) hükümet.
 
-- "Her ağacın meyvesi olmaz" derler. Her sektörün de aynı şekilde farklı farklı dinamikleri var. Dolayısıyla Blockchain de her alanda faydalı olacak diye düşünmek doğru değil. Bu nedenle Blockchain' ihtiyaç duyulmayan, böyle bir potansiyelin bulunmadığı  sektörlere giren girişimcilerin de hüsrana uğraması kaçınılmaz. 
+- "Her ağacın meyvesi olmaz" derler. Her sektörün farklı farklı dinamikleri var. Dolayısıyla Blockchain de her alanda faydalı olacak diye düşünmek doğru değil. Bu nedenle Blockchain' ihtiyaç duyulmayan, böyle bir potansiyelin bulunmadığı  sektörlere giren girişimcilerin de hüsrana uğraması kaçınılmaz. 
 
 
 ### Arkası yarın... 
