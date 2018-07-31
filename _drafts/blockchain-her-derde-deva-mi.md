@@ -51,7 +51,6 @@ Hemen hemen her sektörde Blockchain bazlı sistemleri kullanarak sektörü kök
 
 - "Her ağacın meyvesi olmaz" derler. Her sektörün farklı farklı dinamikleri var. Dolayısıyla Blockchain de her alanda faydalı olacak diye düşünmek doğru değil. Bu nedenle Blockchain' ihtiyaç duyulmayan, böyle bir potansiyelin bulunmadığı  sektörlere giren girişimcilerin de hüsrana uğraması kaçınılmaz. 
 
-
 ### Arkası yarın... 
 
 Bir sonraki yazımızda, Blockchain hangi sektörlerde başarılı olabilir, onu inceleyelim dilerseniz.. 
@@ -107,6 +106,10 @@ Bunun yanında Blockchain'i kullanmaktan çok aslında dışarıda kalmamaya ça
 İkincisi, özellikle Bilgi Sistemleri çok önce kurulmuş ve doğası gereği yenilenmeye açık olmayan sektörlerde yeni sistem kurmanın imkansızlığı ya da yüksek maliyeti, Blockchain sistemlerine olan ilgiyi artıyor. Örnek mi? Geçen yazılarımızda bahsettiğimiz [havacılık sektörü](http://ademimerkezi.com/genel/2018/07/06/seyahat-icin-blockchain.html). Havacılık için böyle bir ihtiyaç var gibi görünüyor ancak başka pekçok sektörde danışman firmalar tarafından da böyle bir ihtiyaç var havası yaratılıyor maalesef. 
 
 Bir başka neden de, kurumların kendilerini teknoloji lideri olarak göstermek için Blockchain'den bahsetmeleri. Bir nevi "biz çok akıllıyız, bu teknolojileri anlıyoruz, kullanmaya başlıyoruz" diyerek 'hava atmaları'...
+
+O nedenle Blockchain üzerine yatırım yapmadan önce iyi düşünmekte fayda var, yoksa... 
+
+![throwing-money-away.gif](/assets/throwing-money-away.gif)
 
 ### Blockchain hangi sektörlerde başarılı olur? Turnusol kağıdı var mı?
 
