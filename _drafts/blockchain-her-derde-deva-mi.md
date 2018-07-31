@@ -74,8 +74,11 @@ Bilmemiz gereken en önemli nokta, Blockchain'in aslında çok büyük bir datab
 
 - Keza, sistemi işletirken sonrasında yaptığınız yenilikler de sistem üzerindeki binlerce makina tarafından kabul edilmeli ve içselleştirilmeli. Sistem doğası gereği adem-i merkezi bir yapı olduğu için hiçbir makineye zorla bir dayatmada bulunamazsınız. Gönüllü olmalı bu iş. Dolayısıyla, yapacağınız her tür değişiklik geriye dönük olarak eski versiyonlarda da kullanılabilmeli. Bu da her yaptığınız değişikliğin tüm sistem tarafından toplu kabulünü oldukça yavaşlatan bir durum. 
 
+İşte bu nedenle Blockchain ancak gerekli olduğunda başvurulması gereken bir alan. O nedenle Blockchain üzerine yatırım yapmadan önce iyi düşünmekte fayda var, yoksa... 
 
-İşte bu nedenle Blockchain ancak gerekli olduğunda başvurulması gereken bir alan. Hakikaten bir ihtiyaç olmalı Blockchain'e. Geçen yazımızdan hatırlarsak, nedir bu ihtiyaçlar?
+![throwing-money-away.gif](/assets/throwing-money-away.gif)
+
+Hakikaten bir ihtiyaç olmalı Blockchain'e. Geçen yazımızdan hatırlarsak, nedir bu ihtiyaçlar?
 
 #### Merkezi otoriteye ya da aracıya güvensizlik
 
@@ -107,9 +110,6 @@ Bunun yanında Blockchain'i kullanmaktan çok aslında dışarıda kalmamaya ça
 
 Bir başka neden de, kurumların kendilerini teknoloji lideri olarak göstermek için Blockchain'den bahsetmeleri. Bir nevi "biz çok akıllıyız, bu teknolojileri anlıyoruz, kullanmaya başlıyoruz" diyerek 'hava atmaları'...
 
-O nedenle Blockchain üzerine yatırım yapmadan önce iyi düşünmekte fayda var, yoksa... 
-
-![throwing-money-away.gif](/assets/throwing-money-away.gif)
 
 ### Blockchain hangi sektörlerde başarılı olur? Turnusol kağıdı var mı?
 
