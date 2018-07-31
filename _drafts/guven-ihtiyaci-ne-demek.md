@@ -14,4 +14,22 @@ Fiziki ortamda bu iş kolay. Elinizdeki parayı aldığınız mal, hizmet her ne
 
 Eletkronik para tanım olarak "dijital imzalardan oluşan bir zincir" demek. Pardon? Nereden çıktı şimdi bu? Anlatalım: 
 
-Dijital bir paranız var diyelim (nasıl bu paraya sahip oldunuz, bu gerçekten bu sizin paranız mı ona birazdan geleceğiz). Bu parayı Ahmet'e geçirdiğiniz noktada, aslında yaptığınız size gönderilmiş olan bu parayı tüm dünya
+Dijital bir paranız var diyelim (nasıl bu paraya sahip oldunuz, bu gerçekten bu sizin paranız mı ona birazdan geleceğiz). Bu parayı Ahmet'e geçirdiğiniz noktada yaptığınız bunu dünyaya ilan etmek "Ey dünya, bana Ayşe tarafından gönderilmiş olan bu parayı ben de Ahmet'e gönderiyorum). Burada üç tane parça var: 
+
+1. Bana gönderilen herhangi bir dijital varlığı alabileceğim bir adres (buna Genel Anahtar diyorum, herkes bunu biliyor)
+2. Benim bana ait bir parayı başkasına göndermem için kullandığım bir dijital imza (bunu da Özel Anahtarım ile yapıyorum ve kimseye söylemiyorum, çünkü söylersem biri bu imzayı kullanıp bana ait varlıkları alıp başklarına gönderebilir
+3. Dijital varlık buradaki örnekte para (ki bu da aslında Ayşe'nin bana gönderdiği ve dünyaya ilan ettiği bir önceki mesaj idi, Ayşe'nin bana para gönderdiği işlemi gösteren bir belge var, hash olarak adlandırılan karmaşık bir rakam/harf bütünü -
+Ben, kendime ait özel anahtarımı kullanarak bu)
+
+Dolayısıyla ne oldu. Ayşe bana para göndermiş ve bunu dünyaya ilan etmişti (bir hash ile). Bunu yaparken benim Genel Anahtarımı kullandı (ki tüm dünya bana ait olduğunu anladı). Ben de bu hash'i aldım, kendi Özel Anahtarımı kullandım (ki tüm dünya bana ait olduğunu bildiği bu parayı kullanmak istediğimi anladı), Ahmet'in Genel Anahtarını kullandım, yeni bir işlem yarattım ve parayı Ahmet'e gönderdim. Yani Ayşe'nin bana gönderdiği hash'e bir ekleme yaparak bir zincir oluşturdum. Baştaki tanımımıza gelirsek Ayşe'nin, benim ve Ahmet'in dijital imzalarından olşuan bir zincir yarattım. Para Ayşe'den bana, benden de Ahmet'e geçti.
+
+Şimdi başta bahsettiğimiz konuya gelelim. Ben parayı Ayşe'den aldım, ama ya Ayşe bu parayı hem bana hem de başka birine gönderdiyse. Nereden bileceğim? İşte, tüm Blockchain teknolojisinin çözdüğü temel soruna geldik. Güven problemi derken kastettiğimiz ana soruna. Bu paranın Ayşe tarafından sadece bir kez harcandığını nereden bileceğiz? 
+
+Normalde şu anki bankacılık sisteminde bu sorun şu şekilde çözülüyor. Ayşe parayı bana banka üzerinden gönderdiğinde banka parayı Ayşe'nin hesabından düşüp benim hesabıma ekliyor. Sorun çözüldü. Ama arada banka yani güveni sağlayan bir aracı var. Bu hizmeti karşılığı hem havale parası, hem hesap işlem ücreti altında para kesen bir aracı. Artı, güvenli olup olmadığı konusunda özellikle kriz zamanı soru işaretleri oluşan bir yapı. Bitcoin'in özünde çözmeyi amaçladığı sorunun kaynağı: Güveni sağlayacak aracıyı kaldıralım ama bir yandan da bu tip "çifte harcamalar" olmasın. 
+
+Ne yapyıor Bitcoin bunun için? Ortada bir tek banka olup tüm hesapları tutmasın. Ortada binlerce banka misali kayıt tutan makinelerin olduğu bir yapı olsun. Bütün işlemler şeffaf bir şekilde bütün bu makineler tarafından tutulsun. 
+
+
+
+
+
