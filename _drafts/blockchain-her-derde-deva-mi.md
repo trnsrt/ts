@@ -1,6 +1,13 @@
 # Yazı I
 
-Geçtiğimiz yazılarımızda Blockchain'in sadece finans değil değişik alanlardaki kullanımlarına değinmiş, sağlık, sanat, insani yardım alanlarına tek tek bakmıştık. Ancak tüm bu yazılardan Blockchain dünyanın tüm dertlerine deva olacakmış gibi bir izlenim çıkmaması için madalyonun diğer tarafına da bir bakmakta fayda var. Gerçekten Blockchain tüm sorunlarımızı çözebilecek mi? Bu yazımızda biraz daha Blockchain üzerine bilgi verelim - önümüzdeki yazıda da hangi sektörlere yarayabilir ona bakarız. 
+Geçtiğimiz yazılarımızda Blockchain'in sadece finans değil değişik alanlardaki kullanımlarına değinmiş, sağlık, sanat, insani yardım alanlarına tek tek bakmıştık. Ancak tüm bu yazılardan Blockchain dünyanın tüm dertlerine deva olacakmış gibi bir izlenim çıkmaması için madalyonun diğer tarafına da bir bakmakta fayda var. Gerçekten Blockchain tüm sorunlarımızı çözebilecek mi? 
+
+
+
+| ![do-you-need-blockchain.jpeg](/assets/do-you-need-blockchain.jpeg) | 
+
+
+Bu yazımızda biraz daha Blockchain üzerine bilgi verelim - önümüzdeki yazıda da hangi sektörlere yarayabilir ona bakarız. 
 
 ### Blockchain'in faydaları
 
