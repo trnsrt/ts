@@ -18,6 +18,8 @@ Peki bütün bu işlemlerin tüm partilere şeffaf, geriye dönük değiştirile
 
 Şeffalık yalnıza alıcı olarak sizi ilgilendirmiyor. Yapılan işlemlerin doğruluğu, ürünlerin uygunluğu sizin dışınızda dış denetimciler (özel denetim şirketleri ya da hükümetlerin yetkili mercileri) için de önemli. İşlemlerin Blockchain üzerinden şeffaf ve değiştirilemez şekilde tutuluyor olması, dış denetçiler için de büyük kolaylık ve daha az masraf ile çok daha geniş bir alanda işlerin doğru yürüdüğüne emin olmak anlamına geliyor. 
 
+Diğer pek çok alanda olduğu gibi burada da henüz emekleme aşamasındayız. Geniş kesimler tarafından bu teknolojiler adaptasyonu zaman alacak. Şu an en büyük engellerden biri aslında blockchain'e duyulan ihtiyaç ile aynı: güven. Blockchain'i kullanacak ve gerekli olan bilgileri girecek olan yukarıda bahsettiğimiz onlarca parti, kendilerinin ve diğer partilerin doğru datayı gireceklerine şüphe ile bakıyorlar. 
+
 
 
 
