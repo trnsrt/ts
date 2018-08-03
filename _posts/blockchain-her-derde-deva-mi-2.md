@@ -60,3 +60,15 @@ Buraya kadar yazdıklarımızın ötesinde daha net olarak içinde bulunduğunuz
 ### Sonuç
 
 Hep söylediğimizi bir kez daha tekrarlayalım: Blockchain yeni gelişmekte olan bir teknoloji. Güvene dayalı aracıların verimsizleştirdiği her alanda aracıları yıkacak güce ve potansiyele sahip. Şimdi, bu yıl ya da önümüzdeki yıl etkilerini henüz görmeyeceğiz. Ama nasıl internet hiç yokken hayatımıza girdi ve vazgeçilmezimiz oldu Blockchain bazlı teknolojiler de önümüzdeki beş-on yıl aralığında hayatımızı benzer şekilde değiştirecekler. Umuyoruz olumlu yönde olacak bu değişiklikler. 
+
+&nbsp;
+
+
+
+---
+
+
+&nbsp;
+
+
+*Not: Yazdığımız 20+ yazının bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](http://ademimerkezi.com/about/) sayfasına göz atabilirsiniz.* 
