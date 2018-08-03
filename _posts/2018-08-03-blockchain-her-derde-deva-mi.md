@@ -8,7 +8,7 @@ categories: Genel
 
 
 
-Geçtiğimiz yazılarımızda Blockchain'in sadece finans değil değişik alanlardaki kullanımlarına değinmiş, sağlık, sanat, insani yardım alanlarına tek tek bakmıştık. Ancak tüm bu yazılardan Blockchain dünyanın tüm dertlerine deva olacakmış gibi bir izlenim çıkmaması için madalyonun diğer tarafına da bir bakmakta fayda var. Gerçekten Blockchain tüm sorunlarımızı çözebilecek mi? 
+Geçtiğimiz yazılarımızda Blockchain'in sadece finans değil değişik alanlardaki kullanımlarına değinmiş, [sağlık](http://ademimerkezi.com/genel/2018/04/17/saglik-icin-blockchain.html), [sanat](http://ademimerkezi.com/genel/2018/04/06/sanat-icin-blockchain.html), [insani yardım](http://ademimerkezi.com/genel/2018/03/29/Iyilik-icin-blockchain.html), [seyahat](http://ademimerkezi.com/genel/2018/07/06/seyahat-icin-blockchain.html), [geleceği tahmin](http://ademimerkezi.com/genel/2018/07/13/gelecegi-tahmin-icin-blockchain.html) alanlarına tek tek bakmıştık. Ancak tüm bu yazılardan Blockchain dünyanın tüm dertlerine deva olacakmış gibi bir izlenim çıkmaması için madalyonun diğer tarafına da bir bakmakta fayda var. Gerçekten Blockchain tüm sorunlarımızı çözebilecek mi? 
 
 
 
