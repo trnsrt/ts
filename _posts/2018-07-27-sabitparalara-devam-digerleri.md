@@ -45,3 +45,6 @@ SabitParalar eğer söz verdikleri vizyonu gerçekleştirebilirler ise çok büy
 Aslında belki de en ilgi çekici olanı da bu: Teknolojik olarak bir devrim oldu diyoruz. Bitcoin ve benzeri KriptoParalar çıkıyor. Ama sonra diyoruz ki, "Bu paralar çok ilginç, çok farklı işe yarar özellikleri var, ama şu şu nedenden dolayı kullanamayız". Girişimciler bu üzerinde takılıp zaman kaybetmiyorlar, "nasıl oldururuz"un peşinde koşuyorlar. Gelen geribildirimler ile yeni yeni özellikleri olan bir üst seviye ürün çıkarıyorlar. 
 
 SabitPara olarak ilk çıkan örnekler belki yeterli değil, henüz çok erken. Ama bu insanları merak ve daha iyisini yapmaktan alıkoymuyor. Bu paraları kullanıyor, sorunlar ile karşılaşıyorlar. Tekrar deniyorlar, bu sefer daha iyisini yapıyorlar. Önemli olan burada bir vizyon olması ve yavaş yavaş, adım adım o vizyona doğru yaklaşılması. Hemen sonuç beklemeyin, sabredin ve bir vizyon düşleyin, sonra da o vizyona ulaşırken yapacağınız yolculuğun (inişli çıkışlı) tadını çıkarmaya bakın!... 
+
+
+*Not: Yazdığımız 20+ yazının bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](http://ademimerkezi.com/about/) sayfasına göz atabilirsiniz.* 
