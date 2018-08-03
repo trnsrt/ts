@@ -62,3 +62,7 @@ Hemen hemen her sektörde Blockchain bazlı sistemleri kullanarak sektörü kök
 ### Arkası yarın... 
 
 Bir sonraki yazımızda, Blockchain hangi sektörlerde başarılı olabilir, onu inceleyelim dilerseniz.. 
+
+---
+
+*Not: Yazdığımız 20+ yazının bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](http://ademimerkezi.com/about/) sayfasına göz atabilirsiniz.* 
