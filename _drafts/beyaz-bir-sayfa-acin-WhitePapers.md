@@ -13,7 +13,7 @@ Her üç durumda da tavsiyem, kesin olarak bu tip KriptoPara için para harcamay
 
 | ![thb-ad-600.jpg](/assets/thb-ad-600.jpg) | 
 |:--:| 
-| *Times Square'de reklam vermiş olmak kredibilite sağlar mı? |
+| *Times Square'de reklam vermiş olmak kredibilite sağlar mı?* |
 
 &nbsp;
 
