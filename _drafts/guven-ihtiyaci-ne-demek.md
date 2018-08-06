@@ -14,7 +14,7 @@ Fiziki ortamda bu iş kolay. Elinizdeki parayı aldığınız mal, hizmet her ne
 
 Eletkronik para tanım olarak "dijital imzalardan oluşan bir zincir" demek. Pardon? Nereden çıktı şimdi bu? Anlatalım: 
 
-Dijital bir paranız var diyelim (nasıl bu paraya sahip oldunuz, bu gerçekten bu sizin paranız mı ona birazdan geleceğiz). Bu parayı Ahmet'e geçirdiğiniz noktada yaptığınız bunu dünyaya ilan etmek "Ey dünya, bana Ayşe tarafından gönderilmiş olan bu parayı ben de Ahmet'e gönderiyorum). Burada üç tane parça var: 
+Dijital bir paranız var diyelim (nasıl bu paraya sahip oldunuz, bu gerçekten bu sizin paranız mı ona birazdan geleceğiz). Bu parayı yine dijital dünyada Ahmet'e geçirdiğiniz noktada yaptığınız bunu dünyaya ilan etmek "Ey dünya, bana Ayşe tarafından gönderilmiş olan bu parayı ben de Ahmet'e gönderiyorum). Bunu yapabilmek için üç parçaya ihtiyacınız var: 
 
 1. Bana gönderilen herhangi bir dijital varlığı alabileceğim bir adres (buna Genel Anahtar diyorum, herkes bunu biliyor)
 2. Benim bana ait bir parayı başkasına göndermem için kullandığım bir dijital imza (bunu da Özel Anahtarım ile yapıyorum ve kimseye söylemiyorum, çünkü söylersem biri bu imzayı kullanıp bana ait varlıkları alıp başklarına gönderebilir
