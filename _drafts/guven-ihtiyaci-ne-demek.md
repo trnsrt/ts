@@ -6,7 +6,7 @@ Bir parça size Bitcoin'in temelini anlatan Bitcoin [White Paper](https://nakamo
 
 ### Elektronik İşlemler
 
-Bitcoin deyince biliyorsunuz konumuz elektronik para (yani sanal fiziki olmayan ve eletkronik ortamda transfer edilen bir para). 
+Bitcoin deyince biliyorsunuz konumuz elektronik para (yani sanal fiziki olmayan ve elektronik ortamda transfer edilen bir para). 
 
 Para, özellikleri itibariyle kendisine bir değer atfedilerek iki ana işe yarıyor: ya şu andaki değerinin karşılığı olarak başka bir 'şey' almak için yani "alım-satım aracı" olarak kullanılıyor, ya da hemen bir ihtiyaç yoksa gelecekte kullanılmak üzere "değer saklama aracı" olarak bir kenarda tutuluyor.  Dolayısıyla para şu an ya da gelecekte bir kişiden diğerine transfer edilmek için var. 
 
