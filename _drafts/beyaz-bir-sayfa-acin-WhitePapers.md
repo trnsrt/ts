@@ -16,7 +16,8 @@ Herhangi bir konuda yatırım yapacaksanız bu tip dokümanların anlaşılır o
 
 https://www.investitin.com/cryptocurrency-altcoin-investing/
 
-/    What problem is the Cryptocurrency trying to solve – what is the use case?
+/**
+What problem is the Cryptocurrency trying to solve – what is the use case?
     How big is the problem that the solution is trying to address?
     Have others tried to solve the problem before?
     If they are no longer around why did they fail?
