@@ -3,10 +3,21 @@ Token'lardan bahsettik.
 White Paper olarak adlandırılan dokümanlar herhangi bir KriptoPara'yı anlamanın ilk yolu. Genelde bu tip dokümanların oldukça sade yazılması ve kendisini iyi anlatabilmesi gerekiyor. Dolayısıyla eğer bir White Paper'a bakıyor ancak anlamıyorsanız
 - çok teknik yazılmıştır
 - yazan kendini ifade etmeyi becerememiştir
-- yazılanlar hakikaten saçmadır ([bakınız $TNB](https://twitter.com/Melt_Dem/status/1026285256800907266/photo/1)
+- yazılanlar hakikaten saçmadır 
+
 Her üç durumda da tavsiyem, kesin olarak bu tip KriptoPara için para harcamayın. 
 
-KriptoParalar için aslında en anlaşılır olanı Bitcoin White Parper'ı: [Bitcoin: A Peer-to-Peer Electronic Cash System](https://nakamotoinstitute.org/bitcoin/).. 2008 yılında yazılmış bu doküman genel olarak Bitcoin nasıl işleyecek anlatıyor. Teknik konular yok mu içinde, tabii ki var. Ancak yine de meramını düzgün bir şekilde aktarmayı beceriyor. 
+
+
+&nbsp;
+
+| ![thb-ad.jpg](/assets/thb-ad.jpg) | 
+|:--:| 
+| *Times Square'de reklam vermiş olmak kredibilite sağlar mı? |
+
+&nbsp;
+
+KriptoParalar için aslında en anlaşılır olanı Bitcoin White Paper'ı: [Bitcoin: A Peer-to-Peer Electronic Cash System](https://nakamotoinstitute.org/bitcoin/).. 2008 yılında yazılmış bu doküman genel olarak Bitcoin nasıl işleyecek anlatıyor. Teknik konular yok mu içinde, tabii ki var. Ancak yine de meramını düzgün bir şekilde aktarmayı beceriyor. 
 
 Herhangi bir konuda yatırım yapacaksanız bu tip dokümanların anlaşılır olması. 
 
