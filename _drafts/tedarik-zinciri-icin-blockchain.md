@@ -1,33 +1,38 @@
 
 Değişik sektörlerde Blockchain'in açabileceği vizyonlara daha önceki yazılarımızda (sağlık, sanat, hayır işleri, sağlık, seyahat ve tahmin piyasaları) için daha önceki yazılarımızda bakmıştık. Şimdi de albenisi daha düşük ama tüm sektörlere dokunan tedarik zincirlerinde blockchain neler getirebilir kısaca ona bir bakalım.. 
 
-Tedarik zinciri derken kastettiğimiz bir şirketin müşterilerine sunacağı ürün ya da hizmeti kendi bünyesinde oluşturabilmesi için gerekli olan alt ürünler için yaptığı satın almaların (ki satın aldığı şirket de bu malzemeyi başka bir şirketten almış olabilir) işin en başındaki ilk üreticiye kadar uzandığı tüm zincir.   
+### Tedarik zinciri ne demek, Blockchain ne işe yarar burada?
+
+Tedarik zinciri derken bu yazının kapsamında bahsettiğimiz, bir şirketin müşterilerine sunacağı ürün ya da hizmeti oluşturabilmesi için gerekli alt ürünlerin ilk üreticiden itibaren izlediği zincir.
 
 Biliyorsunuz Blockchain'in hayatımıza getirdiği en önemli yeniliğin "güvene olan ihtiyacı minimuma indirmesi" olduğunu daha önce pek çok kez dile getirdik. Daha önceki verdiğimiz örneklerde güvene ihtiyaç duyulduğunda bu görevi yerine getiren ancak yüksek maliyetli aracılar için güzel günlerin sona ermekte olduğunu yazmıştık. Aracının olmadığı iki parti arasındaki ilişkilerde de güven ihtiyacı olduğu malum, tedarik zinciri de aslında buna iyi bir örnek.  Nasıl? Bakalım: 
 
-Bir ürün üretmek için tedarikçinizden bir mal göndermesini istiyorsunuz? Tedarikçi ürünü gönderdi mi? Gerçekten iddia ettiği miktarda mı gönderdi? Ürün şu an nerede? Düzgün, işe yarar durumda mı? Bana ne zaman ulaşacak? 
+Bir ürün üretmek için tedarikçinizden size bir mal göndermesini istiyorsunuz? Tedarikçi ürünü gönderdi mi? Gerçekten iddia ettiği miktarda mı gönderdi? Ürün şu an nerede? Düzgün, işe yarar durumda mı? Bana ne zaman ulaşacak? 
 
 Bütün bu sorulara net bir cevap verilememesinin yarattığı belirsizlikler, sizde 
 * elinizde olduğundan fazla stok tutmak (ürün ya gelmezse), ya da 
-* kendi ürettiğiniz ürünün müşterinize zamanında ulaşaması 
-gibi iki ana risk oluşturuyor. Hele bir de bunun stok ömrü uzun olmayan yiyecek gibi ürünler ürettiğiniz bir alanda olduğunu düşününün. Maliyetleriniz hepten artacak. 
+* kendi ürettiğiniz ürünün müşterinize zamanında ulaşmaması 
+gibi iki ana risk oluşturuyor. Hele bir de bu belirsizliklerin stok ömrü uzun olmayan yiyecek gibi ürünlerde olduğunu düşününün. Maliyetleriniz hepten artacak. 
 
-İyi de bunun için Blockchain'e ihtiyaç var mı? Hep söylediğimiz gibi Blockchain her derde deva olacak diye düşünmek doğru değil. Burada söz konusu olan sadece siz ve tedarikçiniz olsa haklısınız. İki parti arasında olduğunda bir şekilde tedarikçinize uygulayacağınız zorlamalar ile daha şeffaf bir süreç sürdüreblirsiniz. Ancak aslında ikiniz dışında pe çok parti var sürecin içinde. Taşıyıcı firma, gümrük işleri, sigorta, ithalatçı, ihracatçı. Bunların her birinin süreç içinde bir yeri ve sorumluluğu var. Alelade bir dokümanın bu firmalar arasında döndüğünü düşünün. Avrupa'dan Doğu Afrika'ya giden bir soğutucu için 30'un üzerindeki partiden onay ve 200'ün üzerinden bilgi alışverişi yapıldığını [biliyor muydunuz](https://www.reuters.com/article/us-maersk-blockchain-ibm/maersk-ibm-to-launch-blockchain-based-platform-for-global-trade-idUSKBN1F51DE)? Neden gerek var bu kadar iletişime? Çünkü taraflar birbirine (maalesef) güvenemiyor ve oluşan hatalar ve sahtekarlıklar düşünüldüğünde haksız da sayılmazlar. 
+İyi de bunun için Blockchain'e ihtiyaç var mı? Hep söylediğimiz gibi Blockchain her derde deva olacak diye düşünmek doğru değil. Burada söz konusu olan sadece siz ve tedarikçiniz olsa haklısınız. İki parti arasında olduğunda bir şekilde tedarikçinize dayatacağınız kurallar ile daha şeffaf bir süreç sürdüreblirsiniz. Ancak maalesef ikiniz dışında pek çok parti var bu işlemin içinde. Taşıyıcı firma, gümrük işleri, sigorta, ithalatçı, ihracatçı. Bunların her birinin süreç içinde bir yeri ve sorumluluğu var. Alelade bir dokümanın bu firmalar arasında döndüğünü düşünün. Avrupa'dan Doğu Afrika'ya giden bir soğutucu için 30'un üzerindeki partiden onay ve 200'ün üzerinden bilgi alışverişi yapıldığını [biliyor muydunuz](https://www.reuters.com/article/us-maersk-blockchain-ibm/maersk-ibm-to-launch-blockchain-based-platform-for-global-trade-idUSKBN1F51DE)? Neden gerek var bu kadar iletişime? Çünkü taraflar birbirine (maalesef) güvenemiyor ve oluşan hatalar ve sahtekarlıklar düşünüldüğünde haksız da sayılmazlar. 
 
-Peki bütün bu işlemlerin tüm partilere şeffaf, geriye dönük değiştirilemez yapıldığını ve ilgi taraflar ile paylaşıldığını düşününü? Bürokrasinin ve hataların azalmasından sağlanan emek ve zaman tasarrufu hatırı sayılır olacak. Hemen belirtelim IBM ve Maersk bu alanda sektöre hitap edecek bir platform oluşturmak için bir [ortaklık kurdular](https://www.reuters.com/article/us-maersk-blockchain-ibm/maersk-ibm-to-launch-blockchain-based-platform-for-global-trade-idUSKBN1F51DE) ancak sektörün diğer büyükleri iki firma tekelindeki bu girişime şu anda [soğuk bakıyorlar](https://shippingwatch.com/carriers/Container/article10602520.ece). 
+Peki bütün bu işlemlerin tüm partilere şeffaf, geriye dönük değiştirilemez yapıldığını ve ilgili taraflar ile paylaşıldığını düşününün bir de? Bürokrasinin ve hataların azalmasından sağlanan emek ve zaman tasarrufu hatırı sayılır olacak. Bir de düzensiz planlamanın getirdiği ekstra stres, aksamalarda oluşan kendi müşterinize ürün ya da hizmeti zamanında verememeinin getirdiği prestij kaybının ve potansiyel cezaları önlemek var. Bu iki kazanç bile yeter konuya dikkat kesilmek için. 
 
-Şeffalık yalnıza alıcı olarak sizi ilgilendirmiyor. Yapılan işlemlerin doğruluğu, ürünlerin uygunluğu sizin dışınızda dış denetimciler (özel denetim şirketleri ya da hükümetlerin yetkili mercileri) için de önemli. İşlemlerin Blockchain üzerinden şeffaf ve değiştirilemez şekilde tutuluyor olması, dış denetçiler için de büyük kolaylık ve daha az masraf ile çok daha geniş bir alanda işlerin doğru yürüdüğüne emin olmak anlamına geliyor. 
+Hemen belirtelim IBM ve Maersk bu alanda sektöre hitap edecek bir platform oluşturmak için bir [ortaklık kurdular](https://www.reuters.com/article/us-maersk-blockchain-ibm/maersk-ibm-to-launch-blockchain-based-platform-for-global-trade-idUSKBN1F51DE) ancak sektörün diğer büyükleri iki firma tekelindeki bu girişime şu anda [soğuk bakıyorlar](https://shippingwatch.com/carriers/Container/article10602520.ece). 
 
-Diğer pek çok alanda olduğu gibi burada da henüz emekleme aşamasındayız. Geniş kesimler tarafından bu teknolojiler adaptasyonu zaman alacak. Şu an en büyük engellerden biri aslında blockchain'e duyulan ihtiyaç ile aynı: güven. Blockchain'i kullanacak ve gerekli olan bilgileri girecek olan yukarıda bahsettiğimiz onlarca parti, kendilerinin ve diğer partilerin doğru datayı gireceklerine şüphe ile bakıyorlar. 
+Şeffalık yalnıza alıcı olarak sizi ilgilendirmiyor. Yapılan işlemlerin doğruluğu, ürünlerin uygunluğu sizin dışınızda dış denetimciler (özel denetim şirketleri ya da hükümetlerin yetkili mercileri) için de önemli. İşlemlerin Blockchain üzerinden şeffaf ve değiştirilemez şekilde tutuluyor olması, dış denetçiler için de büyük kolaylık ve daha az masraf ile çok daha geniş bir alanda işlerin doğru yürüdüğüne emin olmak anlamına geliyor.
 
+Özellikle bozulabilir ürünlerde tedarik zincirini en başından beri takip edebilmenin bir faydası da şu: Özellikle Batı ülkelerinde bir toptancıdan gelen herhangi bir üründe bozukluk olduğunda, müşteriye sunulan bözuk ürünlerin reputasyona getirdiği sıkıntılardan dolayı büyük marketler bu konuda çok katılar - hiçbir risk almak istemiyorlar ve bütün ürünün tamamı çöpe gidiyor. Halbuki ürünün ilk üreticiden itibaren takibi ve kontrolü yapılabildiğinde bozuk ürünün geldiği alanı nokta atışı belirlemek ve çok daha az ürünü yok ederek israfı engellemek mümkün. 
 
+İşin daha magazinsel tarafına gelirsek, bir de son tüketicilerin ellerindeki ürünün hangi aşamalardan geçtiğini görebilmelerine imkan tanıması da avantajlardan biri. 
 
+Gayet tabii bu son iki örneği Blockchain olmadan da yapabilirsiniz (marketin kendi dahili kontrol mekanizmaları ile) ancak Blokchain girilen bilginin değiştirilemez olması, bağımsız denetçilerin de ürünün kalitesi ve datanın doğruluğunu rahatça kontrol edebilmeleri nedeniyle marketlerin tüketicilerine daha güvenilir bir ürün sunmasını sağlıyor. 
 
+### Madem bu kadar avantajlı, neden kullanılmıyor hemen?
 
+Peki madem bu kadar ciddi getiriler var, neden hemen adapte etmiyor bunu oyuncular? Komik gelecek ama şu an tedarik zincirlerinde blockhain kullanılmasının önündeki en büyük engel, aslında blockchain'in minimize etmeye çalıştığı ana konu ile aynı: güven. Blockchain'i kullanacak ve gerekli olan bilgileri girecek olan yukarıda bahsettiğimiz onlarca parti, kendilerinin ve diğer partilerin doğru datayı gireceklerine şüphe ile bakıyorlar. Ama bu bir süreç. Örnek çalışmalar arttıkça, kurumlar yeni teknolojiye aşina oldukça burada da adaptasyon artacak. Kanuni altyapı düzenlemeleri de önemli tabii. Sadece bir-iki büyük müşterinin dayatması ile belli partileri blokchain'e sokabilirsiniz ama tüm partiler için hükümetlerin gerekli hukuki düzenlemeleri yapması 
 
-Reduce or eliminate fraud and errors
-Improve inventory management
-Minimize courier costs
-Reduce delays from paperwork
-Identify issues faster
-Increase consumer and partner trust
+### Sonuç 
+
+Diğer pek çok alanda olduğu gibi burada da henüz emekleme aşamasındayız.  Geniş kesimler tarafından bu teknolojilerin adaptasyonu zaman alacak. Şu anda altyapılar kuruluyor, mevcut oyuncular harıl harıl üzerine kurulacak sistemler oluşturmaya çalışıyorlar. Sektörlerdeki kuşkucu (skeptik) oyuncuları ikna etmeye çalışıyorlar. Zaman alacak, belki bir on yıl istenen vizyon gerçekleşmeyecek. O zamana kadar aldığımız ürünlerde satıcı kurum ya da kişiye güvenmeye devam.. 
+
