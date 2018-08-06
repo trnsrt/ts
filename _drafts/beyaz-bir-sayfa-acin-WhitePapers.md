@@ -1,4 +1,4 @@
-Token'lardan bahsettik. 
+Şifreli Harikalar Dünyası olarak adlandırdığımız KrıptoAğ dünyasında Bitcoin dışındaki alternatif paraların sayılarının 
 
 White Paper olarak adlandırılan dokümanlar herhangi bir KriptoPara'yı anlamanın ilk yolu. Genelde bu tip dokümanların oldukça sade yazılması ve kendisini iyi anlatabilmesi gerekiyor. Dolayısıyla eğer bir White Paper'a bakıyor ancak anlamıyorsanız
 - çok teknik yazılmıştır
