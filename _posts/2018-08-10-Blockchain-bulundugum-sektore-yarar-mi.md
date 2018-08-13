@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Blockchain bulunduğum sektöre yarar mı?"
+date:   2018-08-10 15:07:15 +0300
+categories: Genel
+---
+
+
 Geçtiğimiz [yazıda](http://ademimerkezi.com/genel/2018/08/03/blockchain-her-derde-deva-mi.html), Blockchain'in iki türü olan Özel ve Genel Blockchain kavramından bahsetmiş ve neden bu Blockchain bazlı çoğu projenin geleceğinin parlak olmayacağını göz atmıştık. Şimdi de neden Blockchain bazlı teknolojiler çalışması zor yapılar, başarılı olması için gerekli kriterler neler onlara bakalım dilerseniz.
 
 ### Her güzelin bir kusuru vardır...
