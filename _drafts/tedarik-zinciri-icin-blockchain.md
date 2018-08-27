@@ -5,6 +5,13 @@ Değişik sektörlerde Blockchain'in açabileceği vizyona daha önceki yazılar
 
 Tedarik zinciri derken bu yazının kapsamında bahsettiğimiz, bir şirketin müşterilerine sunacağı ürün ya da hizmeti oluşturabilmesi için gerekli alt ürünlerin ilk üreticiden itibaren izlediği zincir.
 
+&nbsp;
+
+![logistics-and-freight_640.jpg](/assets/logistics-and-freight_640.jpg)
+
+
+&nbsp;
+
 Biliyorsunuz Blockchain'in hayatımıza getirdiği en önemli yeniliğin "güvene olan ihtiyacı minimuma indirmesi" olduğunu daha önce pek çok kez dile getirdik. Daha önceki verdiğimiz örneklerde güvene ihtiyaç duyulduğunda bu görevi yerine getiren ancak yüksek maliyetli aracılar için güzel günlerin sona ermekte olduğunu yazmıştık. Aracının olmadığı iki parti arasındaki ilişkilerde de güven ihtiyacı olduğu malum, tedarik zinciri de aslında buna iyi bir örnek.  Nasıl? Bakalım: 
 
 Bir ürün üretmek için tedarikçinizden size bir mal göndermesini istiyorsunuz? Tedarikçi ürünü gönderdi mi? Gerçekten iddia ettiği miktarda mı gönderdi? Ürün şu an nerede? Düzgün, işe yarar durumda mı? Bana ne zaman ulaşacak? 
