@@ -29,4 +29,7 @@ Kişisel düşüncem, bir projenin en iyi anlatması gereken aracın Tanıtım N
 
 #### Ekibin yetkinlikleri ve danışmanların kalitesi
 
-Projeyi geliştiren ekibin geçmiş tecrübelerini web sitesinden görebilirsiniz. Genelde ekip üyeleri sitelerine LinkedIn profil bağlantılarını da koyarlar ki, isteyen daha detaylı bakabilsin. Nelere dikkat etmeli? Kripto Dünyası henüz yeni bir dünya olduğu için illa ki bu alanda bir tecrübe olması o kadar kritik değil. Ancak, liderin en azından projenin 
+Projeyi geliştiren ekibin geçmiş tecrübelerini web sitesinden görebilirsiniz. Genelde ekip üyeleri sitelerine LinkedIn profil bağlantılarını da koyarlar ki, isteyen daha detaylı bakabilsin. Nelere dikkat etmeli? Kripto Dünyası henüz yeni bir dünya olduğu için illa ki bu alanda bir tecrübe olması o kadar kritik değil. Ancak, proje liderlerinden en azından birinin içinde bulunulan projeye ait bir sektörden olması önemli. 
+
+Bir diğer önemli konu da projenin danışmanlar kurulunda bulunan kişiler. Bu kişiler KriptoPara ya da ICO ([Initial Coin Offering](http://ademimerkezi.com/genel/2018/05/25/ico-ve-token-dunyasi.html)) piyasalarında ne kadar bilinen kişiler. Örneğin AngelList'in kurucusu ve CEO'su olan Naval Ravikant Şifreli Harikalar Dünyası'nda (Cryptonetworks) pek çok yatırım yapmış ve danışma kurullarında yer almış biri. Onun olduğu bir proje yatırımcılar tarafından bir nevi 'Kalite damgası' olarak görülüyor.  Bir başka dikkat edilmesi gereken nokta ise, bu kişilerin gerçekten bu Danışma Kurulu'nda yer alıp almadıkları. Belki komik gelebilir ama kimi sitelerde danışma kurulunda yazılan kişilerin gerçekten danışman olmadığı durumlar da var. 
+
