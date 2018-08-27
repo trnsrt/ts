@@ -1,5 +1,5 @@
 
-Değişik sektörlerde Blockchain'in açabileceği vizyonlara daha önceki yazılarımızda (sağlık, sanat, hayır işleri, sağlık, seyahat ve tahmin piyasaları) için daha önceki yazılarımızda bakmıştık. Şimdi de albenisi daha düşük ama tüm sektörlere dokunan tedarik zincirlerinde blockchain neler getirebilir kısaca ona bir bakalım.. 
+Değişik sektörlerde Blockchain'in açabileceği vizyona daha önceki yazılarımızda (sağlık, sanat, hayır işleri, sağlık, seyahat ve tahmin piyasaları) için daha önceki yazılarımızda bakmıştık. Şimdi de albenisi daha düşük ama tüm sektörlere dokunan tedarik zincirlerinde blockchain neler getirebilir kısaca ona bir bakalım.. 
 
 ### Tedarik zinciri ne demek, Blockchain ne işe yarar burada?
 
