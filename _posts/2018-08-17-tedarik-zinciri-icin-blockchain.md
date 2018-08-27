@@ -1,4 +1,9 @@
-
+---
+layout: post
+title:  "Tedarik Zinciri için Blockchain"
+date:   2018-08-17 15:07:15 +0300
+categories: Genel
+---
 
 
 
