@@ -25,7 +25,11 @@ Yukarıdaki maddelerden her biri aslında ayrı bir yazı konusu olacak kadar ge
 
 #### Tanıtım Notu (White Paper)
 
-Kişisel düşüncem, bir projenin en iyi anlatması gereken aracın Tanıtım Notu olduğu. Kimi Tanıtım Not'ları oldukça teknik gelebilir. Buna çok takılmayın. Zira bu sizin yetersizliğinizi değil, teknik ekibin konuyu sizin anlayabileceğiniz hale getirme sorumluluğunu yerine getirmediğini gösterir. Çünkü Tanıtım Notu, projenin hangi sorunu hedef aldığını ve onu nasıl çözeceğini çok net ve anlaşılır biçimde anlatıyor olmalı. Bunu yapamıyor ise, ya dediğimiz gibi ekip kendini ifade edemiyordur ya da gerçekten kendileri de bilmiyordur. Her iki durumda da projeden uzak durmakta fayda var. Tanıtım notları ile ilgili daha detaylı bir yazımız daha olacak. 
+Kişisel düşüncem, bir projenin en iyi anlatması gereken aracın Tanıtım Notu olduğu. Kimi Tanıtım Not'ları oldukça teknik gelebilir. Buna çok takılmayın. Zira bu sizin yetersizliğinizi değil, teknik ekibin konuyu sizin anlayabileceğiniz hale getirme sorumluluğunu yerine getirmediğini gösterir. 
+
+Tanıtım Notu, projenin hangi sorunu hedef aldığını, bu sorunu nasıl ve hangi kaynaklar ile çözeceğini çok net ve anlaşılır biçimde anlatıyor olmalı. Aynı zamanda neden bu sorunu çözmek için Blockchain'e ihtiyaç duyulduğunu açıklamalı. Halen mevcut KriptoParaların (örneğin Bitcoin ya da Ethereum) bu sorunları çözmede neden yetersiz kaldığını güzel bir şekilde anlatmalı. 
+
+Eğer Tanıtım Notu, yukarıda yazdıklarımıza net cevaplar veremiyor ise, ya dediğimiz gibi ekip kendini ifade edemiyordur ya da gerçekten kendileri de bilmiyordur. Her iki durumda da projeden uzak durmakta fayda var. Tanıtım notları ile ilgili daha detaylı bir yazımız daha olacak. 
 
 #### Ekibin yetkinlikleri ve danışmanların kalitesi
 
@@ -47,5 +51,6 @@ Keza Telegram da kişiler arası mesajlaşma servisi iken, Twitter benzeri kript
 #### Kod kaynağı (Github)
 
 Daha önce de bahsetmiştik, yeni Kripto dünyasının en önemli özelliklerinden biri, projeler ile ilgili yazılımların herkese açık olması idi. Github geniş ve dağınık olarak çalışan yazılımcıların en çok kullandıkları web sitesi. Yaptığınız yazılımları burası aracılığı ile dünya ile paylaşıyorsunuz. Bu sayede diğer yazılımcılar sizin yazdıklarınıza göz atıp hem ilham alabiliyor (ya da lisans hakları kapsamında kendisine alıyor), hem de hatalarınızı bulup ana ekip bildiriyor. Ekip gerek bu geribildirimler doğrultusunda yaptığı değişiklikleri gerekse gerçekleştirdiği yeni geliştirmeleri bir sonraki iterasyonda burada paylaşıyor.  Kripto alanından bir projenin de Github üzerinden ne kadar sıklıkla geliştirmeye uğradığını takip edebilirsiniz. Eğer çalışan iyi bir ekip ise sık güncellenen bir github sitesi olması önemli. 
+
 
 
