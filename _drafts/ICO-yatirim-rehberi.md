@@ -19,6 +19,7 @@ Efendim, bir KriptoPara'nın gerçekten iyi bir yatırım olup olmadığını an
 * Ekibin iletişim kanalları (Slack, Telegram)  
 * Kod kaynağı (Github üzerindeki)
 * Geçmişte aldığı yatırımlar
+* Gelecek ile ilgili yol haritası
 * KriptoPara'nın üretim süreci ve dağıtımı
 
 Yukarıdaki maddelerden her biri aslında ayrı bir yazı konusu olacak kadar geniş. Şimdilik her birinden kısaca bahsedelim (Eğer daha açmamızı isterseniz yorumlara yazabilirsiniz)
@@ -56,7 +57,14 @@ Daha önce de bahsetmiştik, yeni Kripto dünyasının en önemli özelliklerind
 
 Şifreli dünyanın karmaşık yapısını anlamak kolay değil. Keza anlatmak da öyle. Özellikle kanuni olarak altyapıların çok da oturmadığı bir dünyada. Bu nedenle kimi girişimciler KriptoPara'larının halka açılma aşamasına gelmeden önce (aynı hisse senedi halka arzlarında olduğu gibi) bir miktar parayı özel fonlara plase ederek kendilerine kaynak sağlıyorlar. Özellikle, ICO sürecini gerektirdiği tanıtım ve pazarlama faaliyetine girmek istemeyen girişimlerin sık başvurduğu yöntem. Yukarıda bahsettiğimiz Yatırımcı Notu'nu basit bir şekilde yazabilmek bile büyük bir çaba gerektiriyor. Bunun yerine, teknik olarak daha ileride KriptoPara konusunda uzmanlaşmış fonlar hem projeleri daha hızlı değerlendirebiliyor hem de ciddi miktarda yatırım yapabiliyorlar. İşte bu fonların bir artısı da bir nevi 'kalite damgası' görevini görmeleri. Örneğin, [Polychain Capital](https://polychain.capital/) bu fonlardan biri ve onların yatırım yaptığı bir projenin potansiyelinin yüksek olduğuna öngörmek zor değil. 
 
+#### Gelecek ile ilgili yol haritası
 
+KriptoPara çıkarmayı düşünen her ekip bilinmezler ile dolu bir dünya içinde yüzer. Daha henüz teknolojilerin oturmadığı, sorunların bir yığın halinde önünde olduğu, çözümlerin vakit alacağı bir dünyada boğuşur girişimciler. Bunu da yatırımcı dahil herkes bilir. İşte bu nedenle girişimci ekipten beklenen en azından gerek ekosistemin nasıl gelişeceği, gerekse ICO sürecinin nasıl işleyeceğı ile ilgili tahmini bir zamanlama planını yapmaktır. Genelde girişimlerin sitelerine gittiğinizde sizi ilk karşılayan konulardan biri işte bu yol haritası olur. 
 
+#### KriptoPara'nın üretim süreci ve dağıtımı
+
+İşte KriptoPara dünyasını klasik bir hisse senedi dünyasından ayıran en önemli özelliklerden biri. Klasik piyasalarda, halka arzı yapılan şirket genelde, hisse senetleri ile ilgili olarak mevcut ortakların ellerindeki hisseleri belli sürelerde satmamaları ile ilgili piyasalara belli taahhütler verir - o kadar. Kripto dünyasında ise, daha önce bahsettiğimiz gibi, piyasalara sunulan klasik anlamdaki gibi bir şirket hisse senedi değil, daha çok yaratılacak olan bu ekosistemin çalışmasını sağlayacak para (bir nevi insan vücudunun çalışmasını sağlayan kan). Bu paranın bir kısmı geliştirici ekibe giderken, diğer kısmı dış geliştirici yazılımcılara, bir başka kısmı ise bu ekosistemin çalışmasını sağlayacak parçalara (örneğin madencilere) bir diğer kısmı da ekosistemin içindeki satıcı ve alıcılara gidecek olan para. 
+
+İşte yukarıdaki nedenlerle, bu KriptoParaların başlangıçta ne kadar yaratıldığı, bu yaratılan KriptoPara'nın nasıl bir dağılım ile paylaşıldığı önemli. Yaratıcı ekibin pastanın en büyük parçasını alması soru işaret yaratır örneğin. Keza, bundan sonra yaratılacak KriptoParaların zamanlaması ve miktarı da önemli. Ekip bu konuda belli taahhütleri vermeli ve bu taahhütler yazılımların bir parçası olmalı. Zira, ileride çok fazla para basılması öngörülüyor ise genelde bu KriptoPara'nın değerini negatif etkileyen bir durum olarak görülür. 
 
 
