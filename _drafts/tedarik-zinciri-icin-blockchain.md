@@ -20,7 +20,15 @@ Bütün bu sorulara net bir cevap verilememesinin yarattığı belirsizlikler, s
 * elinizde olduğundan fazla stok tutmak (ürün ya gelmezse), ya da 
 * kendi ürettiğiniz ürünün müşterinize zamanında ulaşmaması 
 
-gibi iki ana risk oluşturuyor. Hele bir de bu belirsizliklerin stok ömrü uzun olmayan yiyecek gibi ürünlerde olduğunu düşününün. Maliyetleriniz hepten artacak. 
+gibi iki ana risk oluşturuyor. Hele bir de bu belirsizliklerin stok ömrü uzun olmayan sebze, meyve gibi ürünlerde olduğunu düşününün. Maliyetleriniz hepten artacak. 
+
+
+&nbsp;
+
+![supermarket_640.jpg](/assets/supermarket_640.jpg)
+
+
+&nbsp;
 
 İyi de bunun için Blockchain'e ihtiyaç var mı? Hep söylediğimiz gibi Blockchain her derde deva olacak diye düşünmek doğru değil. Burada söz konusu olan sadece siz ve tedarikçiniz olsa haklısınız. İki parti arasında olduğunda bir şekilde tedarikçinize dayatacağınız kurallar ile daha şeffaf bir süreç sürdüreblirsiniz. Ancak maalesef ikiniz dışında pek çok parti var bu işlemin içinde. Taşıyıcı firma, gümrük işleri, sigorta, ithalatçı, ihracatçı. Bunların her birinin süreç içinde bir yeri ve sorumluluğu var. Alelade bir dokümanın bu firmalar arasında döndüğünü düşünün. Avrupa'dan Doğu Afrika'ya giden bir soğutucu için 30'un üzerindeki partiden onay ve 200'ün üzerinden bilgi alışverişi yapıldığını [biliyor muydunuz](https://www.reuters.com/article/us-maersk-blockchain-ibm/maersk-ibm-to-launch-blockchain-based-platform-for-global-trade-idUSKBN1F51DE)? Neden gerek var bu kadar iletişime? Çünkü taraflar birbirine (maalesef) güvenemiyor ve oluşan hatalar ve sahtekarlıklar düşünüldüğünde haksız da sayılmazlar. 
 
@@ -35,12 +43,6 @@ Hemen belirtelim IBM ve Maersk bu alanda sektöre hitap edecek bir platform olu�
 Örneğin, geçtiğimiz yıl Kasım-Aralık aylarında ABD ve Kanada'da patlayan E.coli bakterisine bağlı hastalıklardan 60 kişi hastanelik olup 2 kişi ölünce, bakterinin kaynağını belirlemek için yapılan çalışmalarda belirsizlik hakim. Kanadalı yetkililer kaynağın marul olduğunu belirtirken, ABD'li yetkililer nedeni 'yeşil yapraklı sebzeler' olarak [açıklıyor](https://newfoodeconomy.org/blockchain-food-traceability-walmart-ibm/). Bu olay sonrası ABD'de marul satışları bir önceki yıla göre [%45 oranında düştü](https://www.dallasnews.com/business/retail/2018/06/21/could-blockchain-food-chains-answer-romaine-lettuce-e-coli-outbreaks). Böyle bir kriz anından olaya neden olan ürünün tam menşei bölge hatta üretim alanı olarak hızlıca belirlense bu kadar bir düşüş yaşanmayacağı kesin. Nitekim aylar sonra ürünün merkezinin Arizona'daki Yuma bölgesi olduğu belirlendi ama ekonomik olarak hasar çoktan gerçekleşti. 
 
 
-&nbsp;
-
-![supermarket_640.jpg](/assets/supermarket_640.jpg)
-
-
-&nbsp;
 
 Bu olay sonrası Walmart, Güney Amerika'da küçük çiftliklerden ithal ettiği dilimlenmiş mangoların geldiği çiftliği mevcut sistemleri ne kadar zamanda saptayabildiği ile ilgili bir [deneme yaptı](https://www.dallasnews.com/business/retail/2018/06/21/could-blockchain-food-chains-answer-romaine-lettuce-e-coli-outbreaks): Sonuç: 6 gün, 18 saat, 26 dakika. Eğer Blockchain bazlı bir sistem kurulu olsa bu süre saniyeler ile ölçülecekti.  
 
