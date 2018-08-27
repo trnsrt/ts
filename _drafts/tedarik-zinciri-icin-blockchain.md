@@ -26,6 +26,14 @@ Hemen belirtelim IBM ve Maersk bu alanda sektöre hitap edecek bir platform olu�
 
 Örneğin, geçtiğimiz yıl Kasım-Aralık aylarında ABD ve Kanada'da patlayan E.coli bakterisine bağlı hastalıklardan 60 kişi hastanelik olup 2 kişi ölünce, bakterinin kaynağını belirlemek için yapılan çalışmalarda belirsizlik hakim. Kanadalı yetkililer kaynağın marul olduğunu belirtirken, ABD'li yetkililer nedeni 'yeşil yapraklı sebzeler' olarak [açıklıyor](https://newfoodeconomy.org/blockchain-food-traceability-walmart-ibm/). Bu olay sonrası ABD'de marul satışları bir önceki yıla göre [%45 oranında düştü](https://www.dallasnews.com/business/retail/2018/06/21/could-blockchain-food-chains-answer-romaine-lettuce-e-coli-outbreaks). Böyle bir kriz anından olaya neden olan ürünün tam menşei bölge hatta üretim alanı olarak hızlıca belirlense bu kadar bir düşüş yaşanmayacağı kesin. Nitekim aylar sonra ürünün merkezinin Arizona'daki Yuma bölgesi olduğu belirlendi ama ekonomik olarak hasar çoktan gerçekleşti. 
 
+
+&nbsp;
+
+![supermarket_640.jpg](/assets/supermarket_640.jpg)
+
+
+&nbsp;
+
 Bu olay sonrası Walmart, Güney Amerika'da küçük çiftliklerden ithal ettiği dilimlenmiş mangoların geldiği çiftliği mevcut sistemleri ne kadar zamanda saptayabildiği ile ilgili bir [deneme yaptı](https://www.dallasnews.com/business/retail/2018/06/21/could-blockchain-food-chains-answer-romaine-lettuce-e-coli-outbreaks): Sonuç: 6 gün, 18 saat, 26 dakika. Eğer Blockchain bazlı bir sistem kurulu olsa bu süre saniyeler ile ölçülecekti.  
 
 İşin daha magazinsel tarafına gelirsek, bir de son tüketicilerin ellerindeki ürünün hangi aşamalardan geçtiğini görebilmelerine imkan tanıması da avantajlardan biri. 
