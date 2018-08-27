@@ -20,3 +20,13 @@ Efendim, bir KriptoPara'nın gerçekten iyi bir yatırım olup olmadığını an
 * Kod kaynağı (Github üzerindeki)
 * Geçmişte aldığı yatırımlar
 * KriptoPara'nın üretim süreci ve dağıtımı
+
+Yukarıdaki maddelerden her biri aslında ayrı bir yazı konusu olacak kadar geniş. Şimdilik her birinden kısaca bahsedelim (Eğer daha açmamızı isterseniz yorumlara yazabilirsiniz)
+
+#### Tanıtım Notu (White Paper)
+
+Kişisel düşüncem, bir projenin en iyi anlatması gereken aracın Tanıtım Notu olduğu. Kimi Tanıtım Not'ları oldukça teknik gelebilir. Buna çok takılmayın. Zira bu sizin yetersizliğinizi değil, teknik ekibin konuyu sizin anlayabileceğiniz hale getirme sorumluluğunu yerine getirmediğini gösterir. Çünkü Tanıtım Notu, projenin hangi sorunu hedef aldığını ve onu nasıl çözeceğini çok net ve anlaşılır biçimde anlatıyor olmalı. Bunu yapamıyor ise, ya dediğimiz gibi ekip kendini ifade edemiyordur ya da gerçekten kendileri de bilmiyordur. Her iki durumda da projeden uzak durmakta fayda var. Tanıtım notları ile ilgili daha detaylı bir yazımız daha olacak. 
+
+#### Ekibin yetkinlikleri ve danışmanların kalitesi
+
+Projeyi geliştiren ekibin geçmiş tecrübelerini web sitesinden görebilirsiniz. Genelde ekip üyeleri sitelerine LinkedIn profil bağlantılarını da koyarlar ki, isteyen daha detaylı bakabilsin. Nelere dikkat etmeli? Kripto Dünyası henüz yeni bir dünya olduğu için illa ki bu alanda bir tecrübe olması o kadar kritik değil. Ancak, liderin en azından projenin 
