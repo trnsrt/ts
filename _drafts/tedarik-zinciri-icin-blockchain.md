@@ -19,6 +19,7 @@ Bir ürün üretmek için tedarikçinizden size bir mal göndermesini istiyorsun
 Bütün bu sorulara net bir cevap verilememesinin yarattığı belirsizlikler, sizde 
 * elinizde olduğundan fazla stok tutmak (ürün ya gelmezse), ya da 
 * kendi ürettiğiniz ürünün müşterinize zamanında ulaşmaması 
+
 gibi iki ana risk oluşturuyor. Hele bir de bu belirsizliklerin stok ömrü uzun olmayan yiyecek gibi ürünlerde olduğunu düşününün. Maliyetleriniz hepten artacak. 
 
 İyi de bunun için Blockchain'e ihtiyaç var mı? Hep söylediğimiz gibi Blockchain her derde deva olacak diye düşünmek doğru değil. Burada söz konusu olan sadece siz ve tedarikçiniz olsa haklısınız. İki parti arasında olduğunda bir şekilde tedarikçinize dayatacağınız kurallar ile daha şeffaf bir süreç sürdüreblirsiniz. Ancak maalesef ikiniz dışında pek çok parti var bu işlemin içinde. Taşıyıcı firma, gümrük işleri, sigorta, ithalatçı, ihracatçı. Bunların her birinin süreç içinde bir yeri ve sorumluluğu var. Alelade bir dokümanın bu firmalar arasında döndüğünü düşünün. Avrupa'dan Doğu Afrika'ya giden bir soğutucu için 30'un üzerindeki partiden onay ve 200'ün üzerinden bilgi alışverişi yapıldığını [biliyor muydunuz](https://www.reuters.com/article/us-maersk-blockchain-ibm/maersk-ibm-to-launch-blockchain-based-platform-for-global-trade-idUSKBN1F51DE)? Neden gerek var bu kadar iletişime? Çünkü taraflar birbirine (maalesef) güvenemiyor ve oluşan hatalar ve sahtekarlıklar düşünüldüğünde haksız da sayılmazlar. 
