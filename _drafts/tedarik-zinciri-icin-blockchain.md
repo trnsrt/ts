@@ -12,9 +12,9 @@ Tedarik zinciri derken bu yazının kapsamında bahsettiğimiz, bir şirketin m�
 
 &nbsp;
 
-Biliyorsunuz Blockchain'in hayatımıza getirdiği en önemli yeniliğin "güvene olan ihtiyacı minimuma indirmesi" olduğunu daha önce pek çok kez dile getirdik. Daha önceki verdiğimiz örneklerde güvene ihtiyaç duyulduğunda bu görevi yerine getiren ancak yüksek maliyetli aracılar için güzel günlerin sona ermekte olduğunu yazmıştık. Aracının olmadığı iki parti arasındaki ilişkilerde de güven ihtiyacı olduğu malum, tedarik zinciri de aslında buna iyi bir örnek.  Nasıl? Bakalım: 
+Biliyorsunuz Blockchain'in hayatımıza getirdiği en önemli yeniliğin 'güvene olan ihtiyacı minimuma indirmek' olduğunu daha önce pek çok kez dile getirdik. Verdiğimiz örneklerde güvene duyulan ihtiyacı karşılayan ancak maliyeti yüksek aracılar için güzel günlerin sona ermekte olduğunu yazdık. İlk üreticiden (ki bu hammadde de olabilir) son kullanıcıya kadar pek çok aracının olduğu tedarik zincirleri de aslında buna çok açık bir örnek. Ama bunun yanında aracı olmasa bile aslında bir alıcı ile satıcı arasındaki güvene duyulan ihtiyaç yüksek. Nasıl? Bakalım: 
 
-Bir ürün üretmek için tedarikçinizden size bir mal göndermesini istiyorsunuz? Tedarikçi ürünü gönderdi mi? Gerçekten iddia ettiği miktarda mı gönderdi? Ürün şu an nerede? Düzgün, işe yarar durumda mı? Bana ne zaman ulaşacak? 
+Bir ürün üretmek için tedarikçinizden size bir mal göndermesini istiyorsunuz. Peki tedarikçi ürünü gönderdi mi? Gerçekten iddia ettiği miktarda mı gönderdi? Ürün şu an nerede? Düzgün, işe yarar durumda mı? Bana ne zaman ulaşacak? 
 
 Bütün bu sorulara net bir cevap verilememesinin yarattığı belirsizlikler, sizde 
 * elinizde olduğundan fazla stok tutmak (ürün ya gelmezse), ya da 
