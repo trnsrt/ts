@@ -13,10 +13,10 @@ Eğer hala bizimle iseniz, "bir KriptoPara iyi midir bunu nasıl anlarım?" soru
 
 Efendim, bir KriptoPara'nın gerçekten iyi bir yatırım olup olmadığını anlamak, aslında herhangi bir hisse senedininkini anlamaktan çok da farklı değil. Ancak bir parça daha karışık. Nelere bakmamız gerektiğini kısaca listelemeye çalışırsak: 
 
-* Beyaz Kağıt (White Paper) notu
-* Ekibin yetkinlikleri
-* Danışmanların kalitesi
-* Uzman sitelerde (Bitcointalk.org, Reddit) içinde yapılan tartışmalar
+* Tanıtım Notu (Beyaz Rapor - White Paper)
+* Ekibin yetkinlikleri ve danışmanları kalitesi
+* Uzman sitelerde (Bitcointalk.org, Reddit) yapılan tartışmalar
+* Ekibin iletişim kanalları (Slack, Telegram)  
 * Kod kaynağı (Github üzerindeki)
-* Şimdiye kadar aldığı yatırımlar
-* 
+* Geçmişte aldığı yatırımlar
+* KriptoPara'nın üretim süreci ve dağıtımı
