@@ -59,6 +59,11 @@ Gayet tabii bu son iki örneği Blockchain olmadan da yapabilirsiniz (marketin k
 
 ### Madem bu kadar avantajlı, neden kullanılmıyor hemen?
 
+
+| ![tedarik-zinciri.png](/assets/tedarik-zinciri.gif) | 
+|:--:| 
+| *Kaynak: [giphy](https://giphy.com/gifs/dancing-30-rock-tina-fey-lA0pONycTezZK)* | 
+
 Peki madem bu kadar ciddi getiriler var, neden hemen adapte etmiyor bunu oyuncular? Komik gelecek ama şu an tedarik zincirlerinde Blockchain kullanılmasının önündeki en büyük engel, aslında Blockchain'in minimize etmeye çalıştığı ana konu ile aynı: güven. Blockchain'i kullanacak ve gerekli olan bilgileri girecek olan yukarıda bahsettiğimiz onlarca taraf, kendilerinin ve diğer tarafların doğru bilgiyi gireceklerine şüphe ile bakıyorlar. Bunun yanında, kendine ait özel bir datayı başka tarafların görmesinden dolayı duyulan çekince de var. Ama bu bir süreç. Örnek çalışmalar arttıkça, kurumlar yeni teknolojiye aşina oldukça burada da adaptasyon artacak. Kanuni altyapı düzenlemeleri de önemli tabii. Sadece bir-iki büyük müşterinin dayatması ile belli tarafları Blockchain'e sokabilirsiniz ama tüm taraflar için hükümetlerin gerekli hukuki düzenlemeleri yapması sürecin hızlanmasını ve adaptasyonun artmasını sağlayacak.
 
 ### Sonuç 
