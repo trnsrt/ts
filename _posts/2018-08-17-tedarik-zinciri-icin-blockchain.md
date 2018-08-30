@@ -8,7 +8,7 @@ categories: Genel
 
 
 
-Değişik sektörlerde Blockchain'in açabileceği vizyona daha önceki yazılarımızda ([sağlık](http://ademimerkezi.com/genel/2018/04/17/saglik-icin-blockchain.html), [sanat](http://ademimerkezi.com/genel/2018/04/06/sanat-icin-blockchain.html), [hayır işleri](http://ademimerkezi.com/genel/2018/03/29/Iyilik-icin-blockchain.html), [seyahat](http://ademimerkezi.com/genel/2018/07/06/seyahat-icin-blockchain.html) ve [tahmin piyasaları](http://ademimerkezi.com/genel/2018/07/13/gelecegi-tahmin-icin-blockchain.html)) bakmıştık. Şimdi de albenisi daha düşük ama tüm sektörlere dokunan tedarik zincirlerinde blockchain neler getirebilir kısaca ona bir bakalım...
+Değişik sektörlerde Blockchain'in açabileceği vizyona daha önceki yazılarımızda ([sağlık](http://ademimerkezi.com/genel/2018/04/17/saglik-icin-blockchain.html), [sanat](http://ademimerkezi.com/genel/2018/04/06/sanat-icin-blockchain.html), [hayır işleri](http://ademimerkezi.com/genel/2018/03/29/Iyilik-icin-blockchain.html), [seyahat](http://ademimerkezi.com/genel/2018/07/06/seyahat-icin-blockchain.html) ve [tahmin piyasaları](http://ademimerkezi.com/genel/2018/07/13/gelecegi-tahmin-icin-blockchain.html)) bakmıştık. Şimdi de albenisi daha düşük ama tüm sektörlere dokunan tedarik zincirlerinde Blockchain bazlı teknolojiler neler getirebilir kısaca ona bir bakalım...
 
 ### Tedarik zinciri ne demek, Blockchain ne işe yarar burada?
 
