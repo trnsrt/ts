@@ -27,7 +27,7 @@ Komutan bir emir veriyor, bu emir tüm generallere dağıtılıyor. Generaller d
 
 Bizans Hata Tolerans sistemi, Bizans Generalleri Problemi'ni çözmek için kurulmuş olan bir sistem. Bütün hava ulaşım araçlarının motorlarında, nükleer sistemlerde kullanılıyor.  Bu sistem, birbiri ile baplantısı olmayan, belli bir alana dağılmış sensorların verdiği çelişkili uyarılar karşısında nasıl doğru yol bulunur onu belirliyor.  
 
-Bu algoritmaya göre, sistemin içindeki uyarıcıların üçte ikisinin aynı sinyali vermesi durumunda sistem bunu uzlaşma olarak görüyor ve bu sinyal üzerinden hareket ediyor. Yani sistemin içi tüm oyuncularının üçte birine kadarki kısmının hatalı ya da "hain" davranış göstermesini tolere edebiliyor. Konunun teknik açıklaması oldukça uzun ve matematiksel olarak incelemek isterseniz ilgili [araştırmaya göz atabilirsiniz](https://www.microsoft.com/en-us/research/publication/byzantine-generals-problem/)
+Bu algoritmaya göre, sistemin içindeki uyarıcıların üçte ikisinin aynı sinyali vermesi durumunda sistem bunu uzlaşma olarak görüyor ve bu sinyal üzerinden hareket ediyor. Yani sistemin içi tüm oyuncularının üçte birine kadarki kısmının hatalı ya da "hain" davranış göstermesini tolere edebiliyor. Konunun teknik açıklaması oldukça uzun ve matematiksel olarak incelemek isterseniz [şu harika yazıyı]((https://marknelson.us/posts/2007/07/23/byzantine.html)) göz atabilirsiniz 
 
 Yukarıdaki problem generaller arası iletişimin sözlü olarak yapıldığı durumlar için geçerli. Halbuki eğer bir şekilde haber gönderen kişilerin doğruluğu teyid edilebilse hayat çok daha kolay olurdu. İşte daha önce de bahsettiğimiz "öğütme" (hashing) bu konuda bize yardımcı olabilir. Nasıl mı?
 
