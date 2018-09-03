@@ -28,6 +28,8 @@ Buradaki püf noktası öğütme makinasına iki bilgiyi bir anda sokmak. Bu bil
 
 Bizans Hata Tolerans sistemi, Bizans Generalleri Problemi'ni çözmek için kurulmuş olan bir sistem. Bütün hava ulaşım araçlarının motorlarında, nükleer sistemlerde kullanılıyor.  Bu sistem, birbiri ile baplantısı olmayan, belli bir alana dağılmış sensorların verdiği çelişkili uyarılar karşısında nasıl doğru yol bulunur onu belirliyor.  
 
+Bu algoritmaya göre, sistemin içindeki uyarıcıların üçte ikisinin aynı sinyali vermesi durumunda sistem bunu uzlaşma olarak görüyor ve bu sinyal üzerinden hareket ediyor. Yani sistemin içi tüm oyuncularının üçte birine kadarki kısmının hatalı ya da "hain" davranış göstermesini tolere edebiliyor. 
+
 ### Bitcoin nasıl çözüm bulmuş bu soruna?
 
 
