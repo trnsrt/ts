@@ -14,20 +14,22 @@ Peki ama yukarıda bahsettiğimiz bu 10 dakikada bir her makinede işlemler nas�
 
 Efendim, ilginçtir, bu anlaşmazlıklar için kullanılan terim "Bizans Generalleri Problemi" olarak biliniyor. İlk olarak  Prof. Dr. Eralp Akkoyunlu ve ekibi tarafından 1975 yılında yazılan ["Some constraints in and trade-offs in the design of network communications"](http://hydra.infosys.tuwien.ac.at/teaching/courses/AdvancedDistributedSystems/download/1975_Akkoyunlu,%20Ekanadham,%20Huber_Some%20constraints%20and%20tradeoffs%20in%20the%20design%20of%20network%20communications.pdf) isimli bir araştırmada ortaya atıldı. (New York Universitesi'nde Bilgisayar bölümünde kürsü başkanı olan ve 1987 yılında kendi elleri ile yaptığı on iki metrelik teknesi ile bir dünya seyahati gerçekleştiren [Prof. Dr. Akkoyunlu](http://www.wiki-zero.co/index.php?q=aHR0cHM6Ly90ci53aWtpcGVkaWEub3JnL3dpa2kvRXJhbHBfQWtrb3l1bmx1)'yu da bu vesile ile saygıyla analım). Sonrasında da 1982 yılında [Bizans Generallerinin Problemi](https://www.microsoft.com/en-us/research/publication/byzantine-generals-problem/) adıyla geliştirildi. Peki nedir bu problem, kısaca anlatalım. 
 
-Vakti zamanında Bizans Ordusu bir şehri kuşatır. Ancak şehrin etrafında vadiler ve dağlar olduğu için ordu parça parça bölümler halinde kuşatmıştır şehri. Bölümler birbirlerinden uzakta oldukları için aralarındaki haberleşmeyi ulaklar sağlamaktadır. Ancak ordunun asker sayısı oldukça sınırlı, savunmadaki kaledekiler de oldukça dişlidir. Ayrıca Bizans ordusunun içindeki bölüklerin başındaki generaller içinde de hainlerin bulunma ihtimali vardır. Kale ancak ordu dört bir yandan topluca birlikte hareket ederse alınabilecektir. Aksi takdirde, bölümlerin bir kısmı hücum eder diğerleri hücüma katılmazsa hücum edenlerin telef olacağı kuşatma, Bizans ordusunun hezimetiyle sona erecektir. 
+Vakti zamanında Bizans Ordusu bir şehri kuşatır. Ancak şehrin etrafında vadiler ve dağlar olduğu için ordu parça parça bölümler halinde kuşatmıştır şehri. Bölümler birbirlerinden uzakta oldukları için aralarındaki haberleşmeyi ulaklar sağlamaktadır. Ancak ordunun asker sayısı oldukça sınırlı, savunmadaki şehir halkı da oldukça dişlidir. Ayrıca Bizans ordusunun içindeki bölüklerin başındaki generaller içinde (komutan da bunlara dahil) hainlerin bulunma ihtimali vardır. Kale ancak ordu dört bir yandan topluca birlikte hareket ederse alınabilecektir. Aksi takdirde, bölümlerin bir kısmı hücum eder diğerleri hücüma katılmazsa hücum edenlerin telef olacağı kuşatma, Bizans ordusunun hezimetiyle sona erecektir. 
 
-Komutan ve bölümlerin başaındaki generallerin birbiri ile anlaşması ve "hücum" ya da "geri çekil" emrini ortak bir şekilde gerçekleştirmeleri nasıl sağlanabilir?
+Komutan ve bölümlerin başaındaki generallerin birbiri ile anlaşması ve "saat 10:00'da hücum" ya da "geri çekil" emrini ortak bir şekilde gerçekleştirmeleri nasıl sağlanabilir? 
 
-Öncelikle bunu sağlamak için mesajların gerçekten o liderden mi geldiğini anlamak gerekir - yani mesajın tutarlı olup olmadığını, gönderin gerçekten o kişi olup olmadığını. 
+Öncelikle komutanın hain olmadığı senaryoyu düşünelim. Eğer komutan her bir generale "hücum" emri veriyor ise, bu tüm generallere gidecek. Diğer generallerden sie 
+
+
+
+
+Komutan bir emir veriyor, bu emir tüm generallere dağıtılıyor. Generaller de bu emri birbirileri ile paylaşıyorlar. Böylece 
 
 Bizans Hata Tolerans sistemi, Bizans Generalleri Problemi'ni çözmek için kurulmuş olan bir sistem. Bütün hava ulaşım araçlarının motorlarında, nükleer sistemlerde kullanılıyor.  Bu sistem, birbiri ile baplantısı olmayan, belli bir alana dağılmış sensorların verdiği çelişkili uyarılar karşısında nasıl doğru yol bulunur onu belirliyor.  
 
 Bu algoritmaya göre, sistemin içindeki uyarıcıların üçte ikisinin aynı sinyali vermesi durumunda sistem bunu uzlaşma olarak görüyor ve bu sinyal üzerinden hareket ediyor. Yani sistemin içi tüm oyuncularının üçte birine kadarki kısmının hatalı ya da "hain" davranış göstermesini tolere edebiliyor. Konunun teknik açıklaması oldukça uzun ve matematiksel olarak incelemek isterseniz ilgili [araştırmaya göz atabilirsiniz](https://www.microsoft.com/en-us/research/publication/byzantine-generals-problem/)
 
-
-
-
-O günlerde çözülemeyen problem bugün daha önce de bahsettiğimiz şifreleme daha doğrusu "öğütme" (hashing) olsaydı rahatça çözülebilirdi. Nasıl mı?
+Yukarıdaki problem generaller arası iletişimin sözlü olarak yapıldığı durumlar için geçerli. Halbuki eğer bir şekilde haber gönderen kişilerin doğruluğu teyid edilebilse hayat çok daha kolay olurdu. İşte daha önce de bahsettiğimiz "öğütme" (hashing) bu konuda bize yardımcı olabilir. Nasıl mı?
 
 Şöyle düşünün, öğütme makinası içine attığınız bir bilgiyi karmaşık rastgele bir sayı ve harf zincirine çeviriyor. Aynı bilgiyi verdiğinizde her seferinde aynı sayı/harf zincirini veren ama bilginin içindeki bir harfi bile değiştirseniz bambaşka bir sayı/harf zinciri çıkaran bir sistem. 
 
