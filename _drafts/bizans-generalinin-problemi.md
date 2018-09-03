@@ -18,16 +18,33 @@ Vakti zamanında Bizans Ordusu bir şehri kuşatır. Ancak şehrin etrafında va
 
 Komutan ve bölümlerin başaındaki generallerin birbiri ile anlaşması ve "saat 10:00'da hücum" ya da "geri çekil" emrini ortak bir şekilde gerçekleştirmeleri nasıl sağlanabilir? 
 
-Öncelikle komutanın hain olmadığı senaryoyu düşünelim. Eğer komutan her bir generale "hücum" emri veriyor ise, bu tüm generallere gidecek. Diğer generallerden sie 
+Bu problemi çözmeye yarayan sistemin adı. Bizans Hata Tolerans sistemi, Bütün hava ulaşım araçlarının motorlarında, nükleer santrallerde kullanılıyor.  Bu sistem, belli bir alana dağılmış ve birbirlerine sinyaller gönderen değişik parçaların gelen çelişkili sinyaller karşısında nasıl doğru hareket etmeleri gerektiğini belirliyor. 
+
+Bu algoritmada iki temel kural var, o
+
+1. Oyuncular kendilerine gelen mesajlar içinde çoğunluğun gönderdiği mesajı uygularlar. 
+2. Oyuncuların çoğunluğunun ilerlediği şekilde sistem de ilerler. Burada önemli olan bir "doğru" sonuç çıkması değil "bir" sonuç çıkması, ortada bir kararsızlık kalmaması.
+
+Örneğimizden devam edelim: 
+
+Öncelikle şu basit duruma bakalım: 1 komutan ve üç general var. Ve bu generallerden biri hatalı bilgi veriyor (ya da hain). Bu durumda komutanın hücum emri vermesi durumunda nasıl bir sonuç çıkıyor, aşağıda görelim:
+
+
+İki numaralı generalin perspektifinden bakalım: Kendisine üç mesaj geliyor. Bunlardan ikisi "Hücum", biri "Çekil" şeklinde. Bu durumda general, hücum taktiğini uygular. Diğer bütün generaller de benzer şekilde hareket ederler ve konsensus sağlanmış olur. 
+
+Peki ya kumandan hainse? Ve generallere farklı mesajlar yolluyor ise?.. 
+
 
 
 
 
 Komutan bir emir veriyor, bu emir tüm generallere dağıtılıyor. Generaller de bu emri birbirileri ile paylaşıyorlar. Böylece 
 
-Bizans Hata Tolerans sistemi, Bizans Generalleri Problemi'ni çözmek için kurulmuş olan bir sistem. Bütün hava ulaşım araçlarının motorlarında, nükleer sistemlerde kullanılıyor.  Bu sistem, birbiri ile baplantısı olmayan, belli bir alana dağılmış sensorların verdiği çelişkili uyarılar karşısında nasıl doğru yol bulunur onu belirliyor.  
 
-Bu algoritmaya göre, sistemin içindeki uyarıcıların üçte ikisinin aynı sinyali vermesi durumunda sistem bunu uzlaşma olarak görüyor ve bu sinyal üzerinden hareket ediyor. Yani sistemin içi tüm oyuncularının üçte birine kadarki kısmının hatalı ya da "hain" davranış göstermesini tolere edebiliyor. Konunun teknik açıklaması oldukça uzun ve matematiksel olarak incelemek isterseniz [şu harika yazıyı]((https://marknelson.us/posts/2007/07/23/byzantine.html)) göz atabilirsiniz 
+
+Şu şekilde de görebilirsiniz konuyu: 
+
+Konunun teknik açıklaması oldukça uzun ve matematiksel olarak incelemek isterseniz [şu harika yazıyı]((https://marknelson.us/posts/2007/07/23/byzantine.html)) göz atabilirsiniz 
 
 Yukarıdaki problem generaller arası iletişimin sözlü olarak yapıldığı durumlar için geçerli. Halbuki eğer bir şekilde haber gönderen kişilerin doğruluğu teyid edilebilse hayat çok daha kolay olurdu. İşte daha önce de bahsettiğimiz "öğütme" (hashing) bu konuda bize yardımcı olabilir. Nasıl mı?
 
