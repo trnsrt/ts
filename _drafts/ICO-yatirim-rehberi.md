@@ -15,7 +15,7 @@ Birincisi uzun vadede, gerçekten dünyayı değiştirecek sağlam temelli Kript
 
 Eğer hala bizimle iseniz, "bir KriptoPara iyi midir bunu nasıl anlarım?" sorusu aklınızı kurcalıyor demektir. Güzel. O zaman devam edelim konumuza. 
 
-Efendim, bir KriptoPara'nın gerçekten iyi bir yatırım olup olmadığını anlamak, aslında herhangi bir hisse senedininkini anlamaktan çok da farklı değil. Ancak bir parça daha karışık. Nelere bakmamız gerektiğini kısaca listelemeye çalışırsak: 
+Efendim, bir KriptoPara'nın gerçekten iyi bir yatırım olup olmadığını anlamak, aslında herhangi bir hisse senedininkini anlamaktan çok da farklı değil. Ancak bir parça daha karışık. İşin içinde çok fazla şarlatan var. O nedenle bu alandaki tecrübeli kişilerin ağızlarına pelesenk ettikleri bir deyişi hatırlatmakta fayda var. "DYOR - Do Your Own Research" (mutlaka kendi araştırmanızı yapın). Nelere bakmamız gerektiğini kısaca listelemeye çalışırsak: 
 
 * Tanıtım Notu (Beyaz Rapor - White Paper)
 * Ekibin yetkinlikleri ve danışmanları kalitesi
