@@ -34,21 +34,19 @@ Sistem şu şekilde aşağıdaki kurallara bağlı olarak çalışıyor:
 Öncelikle şu basit duruma bakalım: 1 komutan ve üç general var. Ve bu generallerden biri hatalı bilgi veriyor (ya da hain). Bu durumda komutanın hücum emri vermesi durumunda nasıl bir sonuç çıkıyor, aşağıda görelim:
 
 
-İki numaralı generalin perspektifinden bakalım: Kendisine üç mesaj geliyor. Bunlardan ikisi "Hücum", biri "Çekil" şeklinde. Bu durumda general, hücum taktiğini uygular. Diğer bütün generaller de benzer şekilde hareket ederler ve konsensus sağlanmış olur. 
+İki numaralı generalin perspektifinden bakalım: Kendisine üç mesaj geliyor. Bunlardan ikisi "Hücum", biri "Çekil" şeklinde. Bu durumda general, hücum taktiğini uygular. Bir numaralı general de aynı şekilde hareket eder. 3 numaralı hain "Çekil" dese bile sonuçta iki general (yani çoğunluk) "Hücum" emrini verdiği için sistem hücum eder. 
 
-Peki ya kumandan hainse? Ve generallere farklı mesajlar yolluyor ise?.. 
-
-
+Peki ya kumandan hainse? Ve generallere farklı mesajlar yolluyor ise?. O duruma da olaylar şu şekilde gelişir: 
 
 
 
-Komutan bir emir veriyor, bu emir tüm generallere dağıtılıyor. Generaller de bu emri birbirileri ile paylaşıyorlar. Böylece 
+
+
+Komutan bir emir veriyor, bu emir tüm generallere dağıtılıyor. Generaller de bu emri birbirileri ile paylaşıyorlar. Bu durumda her bir generale iki "Hücum" ve bir "Çekil" mesajı gelecek. Bu durumda da generaller "Hücum" emrini uygulayacaklar. 
 
 
 
-Şu şekilde de görebilirsiniz konuyu: 
-
-Konunun teknik açıklaması oldukça uzun ve matematiksel olarak incelemek isterseniz [şu harika yazıyı]((https://marknelson.us/posts/2007/07/23/byzantine.html)) göz atabilirsiniz 
+Konunun teknik açıklaması oldukça uzun ve matematiksel olarak incelemek isterseniz [şu harika yazıya]((https://marknelson.us/posts/2007/07/23/byzantine.html)) da göz atabilirsiniz 
 
 Yukarıdaki problem generaller arası iletişimin sözlü olarak yapıldığı durumlar için geçerli. Halbuki eğer bir şekilde haber gönderen kişilerin doğruluğu teyid edilebilse hayat çok daha kolay olurdu. İşte daha önce de bahsettiğimiz "öğütme" (hashing) bu konuda bize yardımcı olabilir. Nasıl mı?
 
