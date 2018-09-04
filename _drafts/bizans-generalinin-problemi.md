@@ -59,7 +59,7 @@ Peki ya kumandan hainse? Ve generallere farklı mesajlar yolluyor ise?. Bu durum
 
 &nbsp;
 
-Komutan bir emir veriyor, bu emir tüm generallere dağıtılıyor. Generaller de bu emri birbirileri ile paylaşıyorlar. Bu durumda her bir generale iki "Hücum" ve bir "Çekil" mesajı gelecek. Bu durumda da generaller "Hücum" emrini uygulayacaklar. 
+Komutan bir emir veriyor, bu emir tüm generallere dağıtılıyor. Generaller de bu emri birbirileri ile paylaşıyorlar. Bu durumda her bir generale iki "hücum" ve bir "çekil" mesajı gelecek. Bu durumda da generaller "hücum" emrini uygulayacaklar. 
 
 
 
