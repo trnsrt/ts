@@ -48,6 +48,10 @@ Projeyi geliştiren ekibin geçmiş tecrübelerini web sitesinden görebilirsini
 
 Bir diğer önemli konu da projenin danışmanlar kurulunda bulunan kişiler. Bu kişiler KriptoPara ya da ICO ([Initial Coin Offering](http://ademimerkezi.com/genel/2018/05/25/ico-ve-token-dunyasi.html)) piyasalarında ne kadar bilinen kişiler. Örneğin AngelList'in kurucusu ve CEO'su olan Naval Ravikant Şifreli Harikalar Dünyası'nda (Cryptonetworks) pek çok yatırım yapmış ve danışma kurullarında yer almış biri. Onun olduğu bir proje yatırımcılar tarafından bir nevi 'Kalite damgası' olarak görülüyor.  Bir başka dikkat edilmesi gereken nokta ise, bu kişilerin gerçekten bu Danışma Kurulu'nda yer alıp almadıkları. Belki komik gelebilir ama kimi sitelerde danışma kurulunda yazılan kişilerin gerçekten danışman olmadığı durumlar da var. 
 
+| ![naval_640.jpg](/assets/naval_640.jpg) | 
+|:--:| 
+| *Yatırım gurusu [Naval Ravikant](https://twitter.com/naval) - ondan yatırım almak piyango kazanmak gibi) | 
+
 #### Uzman sitelerdeki tartışmalar (Bitcointalk.org, Reddit)
 
 Bu alanda Bitcointalk.org sitesi en önde gelen yerlerden biri. Forum tarzı çalışan sitenin yeni para arzlarının yer aldığı [kısmında](https://bitcointalk.org/index.php?board=159.0) ilgilendiğiniz proje ile ilgili olarak konusunda uzman kişilerin yazdığı yorumlara ve eleştirilere göz atmakta fayda var. Dikkat etmeniz gereken bir-iki noktayı hemen belirltelim. Yazılan yorumlara projenin ekip üyelerinin verdikleri yorumlar önemli. Ekip gelen eleştirileri ne kadar içselleştiriyor, eksik taraflarını kabul ediyor ve sonrasında gerekli düzeltmeleri yapıyor ise o kadar iyi. İnatçı hatta yorumculara karşı kaba davranışlar içinde bulunan projlereden uzak durmakta fayda var. İkincisi ise, yorum yazan "uzman'ların gerçekten uzman olduğuna (bir başka deyişle 'paralı asker' olmadığına) dikkat edin. Bunu yazan kişinin rumuzunun altındaki ne kadar aktif olduğu ve ne kadar emek verdiği ile ilgili "activity" ve "merit" rakamlarından anlayabilirsiniz. Bir de sayfalarca ama sayfalarca saçmasapan yazı okumaya hazırlıklı olun.
