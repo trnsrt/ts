@@ -36,7 +36,7 @@ Tanıtım Notu, projenin hangi sorunu hedef aldığını, bu sorunu nasıl ve ha
 
 
 
-| ![bitcoin-white-paper.png](/assets/bitcoin-white-paper.png) | 
+| ![bitcoin-white-paper-640.png](/assets/bitcoin-white-paper-640.png) | 
 |:--:| 
 | *Tanıtım dokümanlarının şahı: [Bitcoin White Paper](https://bitcoin.org/bitcoin.pdf) | 
 
