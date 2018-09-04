@@ -2,7 +2,7 @@
 
 
 
-Bir önceki yazımızda birbirinden bağımsız (dağıtık) ve çok da güvenmeyen oyuncuların nasıl uzlaşıp birlikte hareket ettiklerine bakmıştık. Kısaba bahsedersek, Bizans Hata Tolerans diye adlandırılan bir sistemi kullanan oyuncular, kendileri gelen mesajların içinde çoğunluğun söylediğ mesajı uygulayarak ilerliyorlar, böylece ortada kararsızlık söz konusu olmuyor idi. 
+Bir önceki yazımızda bağımsız (dağıtık) birbirine güvenmeyen oyuncuların nasıl uzlaşıp beraberce hareket ettiklerine bakmıştık. Kısaba bahsedersek, Bizans Hata Tolerans diye adlandırılan bir sistemi kullanan oyuncular, kendileri gelen mesajların içinde çoğunluğun söylediğ mesajı uygulayarak ilerliyorlar, böylece ortada kararsızlık söz konusu olmuyor idi. 
 
 ### Sorular, sorular.. 
 
