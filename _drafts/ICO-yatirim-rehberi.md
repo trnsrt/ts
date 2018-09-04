@@ -50,7 +50,7 @@ Bir diğer önemli konu da projenin danışmanlar kurulunda bulunan kişiler. Bu
 
 | ![naval_640.jpg](/assets/naval_640.jpg) | 
 |:--:| 
-| *Yatırım gurusu [Naval Ravikant](https://twitter.com/naval) - ondan yatırım almak piyango kazanmak gibi) | 
+| *Yatırım gurusu [Naval Ravikant](https://twitter.com/naval) - ondan yatırım almak piyango kazanmak gibi* | 
 
 #### Uzman sitelerdeki tartışmalar (Bitcointalk.org, Reddit)
 
