@@ -18,8 +18,11 @@ Efendim, ilginçtir, birbirinden bağımsız sistemlerin (bunlara dağıtık sis
 
 Sonrasında da 1982 yılında [Bizans Generallerinin Problemi](https://www.microsoft.com/en-us/research/publication/byzantine-generals-problem/) adıyla geliştirildi. Peki nedir bu problem, kısaca anlatalım. 
 
+&nbsp;
 
 ![bizans-generalleri.jpg](/assets/bizans-generalleri.jpg)
+
+&nbsp;
 
 Vakti zamanında Bizans Ordusu bir şehri kuşatır. Ancak şehrin etrafında vadiler ve dağlar olduğu için ordu parça parça bölümler halinde kuşatmıştır şehri. Bölümler birbirlerinden uzakta oldukları için aralarındaki haberleşmeyi ulaklar sağlamaktadır. Ancak ordunun asker sayısı oldukça sınırlı, savunmadaki şehir halkı da oldukça dişlidir. Ayrıca Bizans ordusunun içindeki bölüklerin başındaki generaller içinde (komutan da bunlara dahil) hainlerin bulunma ihtimali vardır. Kale ancak ordu dört bir yandan topluca birlikte hareket ederse alınabilecektir. Aksi takdirde, bölümlerin bir kısmı hücum eder diğerleri hücüma katılmazsa hücum edenlerin telef olacağı kuşatma, Bizans ordusunun hezimetiyle sona erecektir. 
 
@@ -36,22 +39,25 @@ Sistem şu şekilde aşağıdaki kurallara bağlı olarak çalışıyor:
 
 Öncelikle şu basit duruma bakalım: 1 komutan ve üç general var. Ve bu generallerden biri hatalı bilgi veriyor (ya da hain). Bu durumda komutanın hücum emri vermesi durumunda nasıl bir sonuç çıkıyor, aşağıda görelim:
 
+&nbsp;
 
 | ![bizans-general-problem-1.png](/assets/bizans-general-problem-1.png) | 
 |:--:| 
 | *3. General hain ise?* | 
 
+&nbsp;
 
 İki numaralı generalin perspektifinden bakalım: Kendisine üç mesaj geliyor. Bunlardan ikisi "Hücum", biri "Çekil" şeklinde. Bu durumda general, hücum taktiğini uygular. Bir numaralı general de aynı şekilde hareket eder. 3 numaralı hain "Çekil" dese bile sonuçta iki general (yani çoğunluk) "Hücum" emrini verdiği için sistem hücum eder. 
 
 Peki ya kumandan hainse? Ve generallere farklı mesajlar yolluyor ise?. O duruma da olaylar şu şekilde gelişir: 
 
+&nbsp;
 
 | ![bizans-general-problem-2.png](/assets/bizans-general-problem-2.png) | 
 |:--:| 
 | *Komutan hain ise?* | 
 
-
+&nbsp;
 
 Komutan bir emir veriyor, bu emir tüm generallere dağıtılıyor. Generaller de bu emri birbirileri ile paylaşıyorlar. Bu durumda her bir generale iki "Hücum" ve bir "Çekil" mesajı gelecek. Bu durumda da generaller "Hücum" emrini uygulayacaklar. 
 
