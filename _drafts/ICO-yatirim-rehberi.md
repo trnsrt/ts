@@ -15,7 +15,19 @@ Birincisi uzun vadede, gerçekten dünyayı değiştirecek sağlam temelli Kript
 
 Eğer hala bizimle iseniz, "bir KriptoPara iyi midir bunu nasıl anlarım?" sorusu aklınızı kurcalıyor demektir. Güzel. O zaman devam edelim konumuza. 
 
-Efendim, bir KriptoPara'nın gerçekten iyi bir yatırım olup olmadığını anlamak, aslında herhangi bir hisse senedininkini anlamaktan çok da farklı değil. Ancak bir parça daha karışık. İşin içinde çok fazla şarlatan var. O nedenle bu alandaki tecrübeli kişilerin ağızlarına pelesenk ettikleri bir deyişi hatırlatmakta fayda var. "DYOR - Do Your Own Research" (mutlaka kendi araştırmanızı yapın). Nelere bakmamız gerektiğini kısaca listelemeye çalışırsak: 
+Efendim, bir KriptoPara'nın gerçekten iyi bir yatırım olup olmadığını anlamak, aslında herhangi bir hisse senedininkini anlamaktan çok da farklı değil. Ancak bir parça daha karışık. İşin içinde çok fazla şarlatan var. 
+
+
+&nbsp;
+
+| ![thb-ad-600.jpg](/assets/thb-ad-600.jpg) | 
+|:--:| 
+| *Times Square'de reklam vermiş olmak [kredibilite sağlar mı?](https://twitter.com/Melt_Dem/status/1026285256800907266)* |
+
+&nbsp;
+
+
+O nedenle bu alandaki tecrübeli kişilerin ağızlarına pelesenk ettikleri bir deyişi hatırlatmakta fayda var. "DYOR - Do Your Own Research" (mutlaka kendi araştırmanızı yapın). Nelere bakmamız gerektiğini kısaca listelemeye çalışırsak: 
 
 * Tanıtım Notu (Beyaz Rapor - White Paper)
 * Ekibin yetkinlikleri ve danışmanları kalitesi
@@ -34,13 +46,30 @@ Kişisel düşüncem, bir projenin en iyi anlatması gereken aracın Tanıtım N
 
 Tanıtım Notu, projenin hangi sorunu hedef aldığını, bu sorunu nasıl ve hangi kaynaklar ile çözeceğini çok net ve anlaşılır biçimde anlatıyor olmalı. Aynı zamanda neden bu sorunu çözmek için Blockchain'e ihtiyaç duyulduğunu açıklamalı. Halen mevcut KriptoParaların (örneğin Bitcoin ya da Ethereum) bu sorunları çözmede neden yetersiz kaldığını güzel bir şekilde anlatmalı. 
 
+Eğer Tanıtım Notu, yukarıda yazdıklarımıza net cevaplar veremiyor ise, ya dediğimiz gibi ekip kendini ifade edemiyordur ya da gerçekten kendileri de bilmiyordur. Her iki durumda da projeden uzak durmakta fayda var. 
 
+KriptoParalar için aslında en anlaşılır olanı Bitcoin White Paper'ı: [Bitcoin: A Peer-to-Peer Electronic Cash System](https://nakamotoinstitute.org/bitcoin/).. 2008 yılında yazılmış bu doküman genel olarak Bitcoin nasıl işleyecek anlatıyor. Teknik konular yok mu içinde, tabii ki var. Ancak yine de meramını düzgün bir şekilde aktarmayı beceriyor. 
+
+&nbsp;
 
 | ![bitcoin-white-paper-v2-640.png](/assets/bitcoin-white-paper-v2-640.png) | 
 |:--:| 
 | *Tanıtım dokümanlarının şahı: [Bitcoin White Paper](https://bitcoin.org/bitcoin.pdf) | 
 
-Eğer Tanıtım Notu, yukarıda yazdıklarımıza net cevaplar veremiyor ise, ya dediğimiz gibi ekip kendini ifade edemiyordur ya da gerçekten kendileri de bilmiyordur. Her iki durumda da projeden uzak durmakta fayda var. Tanıtım notları ile ilgili daha detaylı bir yazımız daha olacak. 
+&nbsp;
+
+Peki White Paper'ları nereden bulacağım derseniz. O işin en kolayı. Google sizin en büyük yardımcınız olacaktır. Özellikle inceleme istediğiniz projenin web sitesine gitmeniz durumunda mutlaka White Paper'i altta bir yerde bulacaksınız. Ama tüm White Paper'ları bir arada bulmak isterseniz [ICO Tracker](https://icotracker.net/) iyi bir kaynak. Yalnızca White Paper değil, kısaca proje ne ile ilgili, ekibin başında kim var, nasıl bir planlama düşünüyorlar. iletişim kanalları gibi her türlü bilgiye de buradan ulaşabilirsiniz. 
+
+
+### Arkası Yarın.. 
+
+ICO'lara yatırım yapmak için göz önünde bulundurmamız gereken Tanıtım Notu dışındaki diğer konulara da bir sonraki yazımızda değinelim artık.. 
+
+
+
+
+
+
 
 #### Ekibin yetkinlikleri ve danışmanların kalitesi
 
@@ -48,9 +77,13 @@ Projeyi geliştiren ekibin geçmiş tecrübelerini web sitesinden görebilirsini
 
 Bir diğer önemli konu da projenin danışmanlar kurulunda bulunan kişiler. Bu kişiler KriptoPara ya da ICO ([Initial Coin Offering](http://ademimerkezi.com/genel/2018/05/25/ico-ve-token-dunyasi.html)) piyasalarında ne kadar bilinen kişiler. Örneğin AngelList'in kurucusu ve CEO'su olan Naval Ravikant Şifreli Harikalar Dünyası'nda (Cryptonetworks) pek çok yatırım yapmış ve danışma kurullarında yer almış biri. Onun olduğu bir proje yatırımcılar tarafından bir nevi 'Kalite damgası' olarak görülüyor.  Bir başka dikkat edilmesi gereken nokta ise, bu kişilerin gerçekten bu Danışma Kurulu'nda yer alıp almadıkları. Belki komik gelebilir ama kimi sitelerde danışma kurulunda yazılan kişilerin gerçekten danışman olmadığı durumlar da var. 
 
+&nbsp;
+
 | ![naval_640.jpg](/assets/naval_640.jpg) | 
 |:--:| 
 | *Yatırım gurusu [Naval Ravikant](https://twitter.com/naval) - ondan yatırım almak piyango kazanmak gibi* | 
+
+&nbsp;
 
 #### Uzman sitelerdeki tartışmalar (Bitcointalk.org, Reddit)
 
@@ -62,7 +95,10 @@ Bu alanda Bitcointalk.org sitesi en önde gelen yerlerden biri. Forum tarzı ça
 Slack günümüzde kurum içi iletişim ve ortak çalışma alanında en çok kullanılan araçlardan biri iken, kripto alanında çalışan girişimlerin potansiyel yatırımcılar ve dış geliştiriciler ile iletişimleri için de kullanılan bir yer haline geldi. Burada yazılan her konuyu anlamanız gerekmiyor ancak topluluğun büyüklüğüne bakmak ve benzer projeler ile karşılaştırmak bile projenin uzmanların dünyasında bu işi bilenlerin ne kadar ilgisini çektiğini gösteren önemli bir işaret. 
 
 
+&nbsp;
 ![twitter-slack-telegram-logos-v2_640.png](/assets/twitter-slack-telegram-logos-v2_640.png)
+
+&nbsp;
 
 Keza Telegram da kişiler arası mesajlaşma servisi iken, Twitter benzeri kripto ekiplerinin takipçileri ile iletişimlerini yürüttükleri önemli kanallardan biri oldu. (Bu arada Telegram'ın bu yıl içinde kendi ICO'sunu yapma planını özel yatırımcılardan sağladığı 1.7 milyar ABD Doları sonrası [askıya aldı](https://techcrunch.com/2018/05/03/telegrams-billion-dollar-ico-has-become-a-mess/?guccounter=1))
 
@@ -71,10 +107,12 @@ Keza Telegram da kişiler arası mesajlaşma servisi iken, Twitter benzeri kript
 Daha önce de bahsetmiştik, yeni Kripto dünyasının en önemli özelliklerinden biri, projeler ile ilgili yazılımların herkese açık olması idi. Github geniş ve dağınık olarak çalışan yazılımcıların en çok kullandıkları web sitesi. Yaptığınız yazılımları burası aracılığı ile dünya ile paylaşıyorsunuz. Bu sayede diğer yazılımcılar sizin yazdıklarınıza göz atıp hem ilham alabiliyor (ya da lisans hakları kapsamında kendisine alıyor), hem de hatalarınızı bulup ana ekip bildiriyor. Ekip gerek bu geribildirimler doğrultusunda yaptığı değişiklikleri gerekse gerçekleştirdiği yeni geliştirmeleri bir sonraki iterasyonda burada paylaşıyor.  Kripto alanından bir projenin de Github üzerinden ne kadar sıklıkla geliştirmeye uğradığını takip edebilirsiniz. Eğer çalışan iyi bir ekip ise sık güncellenen bir github sitesi olma ihtimali yüksek. 
 
 
-
+&nbsp;
 | ![ethereum-github_640.png](/assets/ethereum-github_640.png) | 
 |:--:| 
 | *Ethereum [Github sayfası](https://github.com/ethereum/)* | 
+
+&nbsp;
 
 #### Projenin geçmişte aldığı yatırımlar
 
