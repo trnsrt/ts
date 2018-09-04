@@ -77,4 +77,7 @@ KriptoPara çıkarmayı düşünen her ekip bilinmezler ile dolu bir dünya içi
 
 İşte yukarıdaki nedenlerle, bu KriptoParaların başlangıçta ne kadar yaratıldığı, bu yaratılan KriptoPara'nın nasıl bir dağılım ile paylaşıldığı önemli. Yaratıcı ekibin pastanın en büyük parçasını alması soru işaret yaratır örneğin. Keza, bundan sonra yaratılacak KriptoParaların zamanlaması ve miktarı da önemli. Ekip bu konuda belli taahhütleri vermeli ve bu taahhütler yazılımların bir parçası olmalı. Zira, ileride çok fazla para basılması öngörülüyor ise genelde bu KriptoPara'nın değerini negatif etkileyen bir durum olarak görülür. 
 
+### Sonuç
+
+ICO pazarı kolay olmayan bir pazar. Üstelik şu son bir yıldaki tecrübelerden görüldü ki bu pazarda KriptoPara çıkaran girişimlerden hatırı sayılır bir kısmı şimdiden sırra kadem bastılar. O nedenle, bu pazarlara yatırım yapacaksanız, mutlaka ama mutlaka kaybettiğinizde canınızı acımayacak miktarda para yatırın zira kaybetme ihtimaliniz oldukça yüksek. 
 
