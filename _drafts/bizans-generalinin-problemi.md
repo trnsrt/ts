@@ -41,7 +41,7 @@ Sistem şu şekilde aşağıdaki kurallara bağlı olarak çalışıyor:
 
 &nbsp;
 
-| ![bizans-general-problem-1-v2.png](/assets/bizans-general-problem-1-v2.png) | 
+| ![bizans-general-problem-1-v3.png](/assets/bizans-general-problem-1-v3.png) | 
 |:--:| 
 | *2. General'e gelen mesajlar. Ne yapmalı bu general?* | 
 
@@ -53,7 +53,7 @@ Peki ya kumandan hainse? Ve generallere farklı mesajlar yolluyor ise?. Bu durum
 
 &nbsp;
 
-| ![bizans-general-problem-2.png](/assets/bizans-general-problem-2.png) | 
+| ![bizans-general-problem-3.png](/assets/bizans-general-problem-3.png) | 
 |:--:| 
 | *Komutan hain ise, generaller ne yaparlar?* | 
 
