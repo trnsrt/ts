@@ -50,16 +50,15 @@ Keza Telegram da kişiler arası mesajlaşma servisi iken, Twitter benzeri kript
 Daha önce de bahsetmiştik, yeni Kripto dünyasının en önemli özelliklerinden biri, projeler ile ilgili yazılımların herkese açık olması idi. Github geniş ve dağınık olarak çalışan yazılımcıların en çok kullandıkları web sitesi. Yaptığınız yazılımları burası aracılığı ile dünya ile paylaşıyorsunuz. Bu sayede diğer yazılımcılar sizin yazdıklarınıza göz atıp hem ilham alabiliyor (ya da lisans hakları kapsamında kendisine alıyor), hem de hatalarınızı bulup ana ekip bildiriyor. Ekip gerek bu geribildirimler doğrultusunda yaptığı değişiklikleri gerekse gerçekleştirdiği yeni geliştirmeleri bir sonraki iterasyonda burada paylaşıyor.  Kripto alanından bir projenin de Github üzerinden ne kadar sıklıkla geliştirmeye uğradığını takip edebilirsiniz. Eğer çalışan iyi bir ekip ise sık güncellenen bir github sitesi olma ihtimali yüksek. 
 
 
+&nbsp;
+
 | ![ethereum-github_640.png](/assets/ethereum-github_640.png) | 
 |:--:| 
 | *Ethereum [Github sayfası](https://github.com/ethereum/)* | 
 
-&nbsp;
-| ![ethereum-github_640.png](/assets/ethereum-github_640.png) | 
-|:--:| 
-| *Ethereum [Github sayfası](https://github.com/ethereum/) * | 
 
 &nbsp;
+
 
 #### Projenin geçmişte aldığı yatırımlar
 
