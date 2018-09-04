@@ -63,6 +63,12 @@ Keza Telegram da kişiler arası mesajlaşma servisi iken, Twitter benzeri kript
 
 Daha önce de bahsetmiştik, yeni Kripto dünyasının en önemli özelliklerinden biri, projeler ile ilgili yazılımların herkese açık olması idi. Github geniş ve dağınık olarak çalışan yazılımcıların en çok kullandıkları web sitesi. Yaptığınız yazılımları burası aracılığı ile dünya ile paylaşıyorsunuz. Bu sayede diğer yazılımcılar sizin yazdıklarınıza göz atıp hem ilham alabiliyor (ya da lisans hakları kapsamında kendisine alıyor), hem de hatalarınızı bulup ana ekip bildiriyor. Ekip gerek bu geribildirimler doğrultusunda yaptığı değişiklikleri gerekse gerçekleştirdiği yeni geliştirmeleri bir sonraki iterasyonda burada paylaşıyor.  Kripto alanından bir projenin de Github üzerinden ne kadar sıklıkla geliştirmeye uğradığını takip edebilirsiniz. Eğer çalışan iyi bir ekip ise sık güncellenen bir github sitesi olma ihtimali yüksek. 
 
+
+
+| ![ethereum-github_640.png](/assets/ethereum-github_640.png) | 
+|:--:| 
+| *Ethereum [Github sayfası](https://github.com/ethereum/) | 
+
 #### Projenin geçmişte aldığı yatırımlar
 
 Şifreli dünyanın karmaşık yapısını anlamak kolay değil. Keza anlatmak da öyle. Özellikle kanuni olarak altyapıların çok da oturmadığı bir dünyada. Bu nedenle kimi girişimciler KriptoPara'larının halka açılma aşamasına gelmeden önce (aynı hisse senedi halka arzlarında olduğu gibi) bir miktar parayı özel fonlara plase ederek kendilerine kaynak sağlıyorlar. Özellikle, ICO sürecini gerektirdiği tanıtım ve pazarlama faaliyetine girmek istemeyen girişimlerin sık başvurduğu yöntem. Yukarıda bahsettiğimiz Yatırımcı Notu'nu basit bir şekilde yazabilmek bile büyük bir çaba gerektiriyor. Bunun yerine, teknik olarak daha ileride KriptoPara konusunda uzmanlaşmış fonlar hem projeleri daha hızlı değerlendirebiliyor hem de ciddi miktarda yatırım yapabiliyorlar. İşte bu fonların bir artısı da bir nevi 'kalite damgası' görevini görmeleri. Örneğin, [Polychain Capital](https://polychain.capital/) bu fonlardan biri ve onların yatırım yaptığı bir projenin potansiyelinin yüksek olduğunu düşünen ciddi bir kesim var. Bir kısım 'romantik' yazılımcı ise, bu tip fonların aslında ICO'ların çıkışındaki "halka direkt ulaşmak" amacına oldukça ters olduğunu ve yaratılan katma değerden haksız bir şekilde fazlaca pay aldıklarını iddia ediyorlar. 
