@@ -32,8 +32,9 @@ Bu problemi çözmeye yarayan sistemin adı. Bizans Hata Tolerans sistemi, Büt�
 
 Sistem şu şekilde aşağıdaki kurallara bağlı olarak çalışıyor: 
 
-1. Her bir parça kendisine gelen mesajlar içinde çoğunluğun gönderdiği mesajı uygularlar. 
-2. Sistem oyuncuların çoğunluğunun ilerlediği şekilde ilerler. Burada önemli olan bir "doğru" sonuç çıkması değil "bir" sonuç çıkması, ortada bir kararsızlık kalmaması.
+1. Oyuncuların en az 2/3'ü doğru çalışır (yalan söylemez)
+2. Her bir parça kendisine gelen mesajlar içinde çoğunluğun gönderdiği mesajı uygularlar. 
+3. Sistem oyuncuların çoğunluğunun ilerlediği şekilde ilerler. Burada önemli olan bir "doğru" sonuç çıkması değil "bir" sonuç çıkması, ortada bir kararsızlık kalmaması.
 
 Örneğimizden devam edelim: 
 
