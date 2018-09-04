@@ -47,15 +47,15 @@ Sistem şu şekilde aşağıdaki kurallara bağlı olarak çalışıyor:
 
 &nbsp;
 
-İki numaralı generalin perspektifinden bakalım: Kendisine üç mesaj geliyor. Bunlardan ikisi "Hücum", biri "Çekil" şeklinde. Bu durumda general, hücum taktiğini uygular. Bir numaralı general de aynı şekilde hareket eder. 3 numaralı hain "Çekil" dese bile sonuçta iki general (yani çoğunluk) "Hücum" emrini verdiği için sistem hücum eder. 
+İki numaralı generalin perspektifinden bakalım: Kendisine üç mesaj geliyor. Bunlardan ikisi "hücum", biri "çekil" şeklinde. Bu durumda general, "hücum" emrini uygular, çünkü kendisine gelen hücum emirleri daha fazla. Bir numaralı general de aynı şekilde hareket eder. 3 numaralı hain general "çekil" emri gereği dursa bile  sonuçta iki general (yani çoğunluk) "hücum" emrini verdiği için sistem hücum eder. 
 
-Peki ya kumandan hainse? Ve generallere farklı mesajlar yolluyor ise?. O duruma da olaylar şu şekilde gelişir: 
+Peki ya kumandan hainse? Ve generallere farklı mesajlar yolluyor ise?. Bu durumda olaylar şu şekilde gelişiar: 
 
 &nbsp;
 
 | ![bizans-general-problem-2.png](/assets/bizans-general-problem-2.png) | 
 |:--:| 
-| *Komutan hain ise?* | 
+| *Komutan hain ise, generaller ne yaparlar?* | 
 
 &nbsp;
 
