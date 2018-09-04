@@ -1,7 +1,7 @@
 
 
 
-Bir arkadaşınız ile konuşuyordunuz ve size geçtiğimiz sene aldığı bir KriptoPara'dan %300 kazanç sağladığınız söyledi. İçinizden "ben neden böyle fırsatları kaçırıyorum?" diye hayıflandınız tabii. Neden bu fırsatlar benim de ayağıma gelmez? 
+Arkadaşınız ile konuşuyordunuz ve size geçtiğimiz sene aldığı bir KriptoPara'dan %300 kazanç sağladığınız söyledi. İçinizden "ben neden böyle fırsatları kaçırıyorum?" diye hayıflandınız tabii. Neden bu fırsatlar benim de ayağıma gelmez? 
 
 Aslında gelir. Yatırım dünyasında (bunun KriptoPara olmasına gerek yok sermaye piyasalarındaki her yatırım aracı için geçerli) sık kullanılan bir söz vardır "yatırım da fırsatlar tükenmez". Peki nereden bulacağım bu fırsatları?.. Özellikle KriptoPara dünyasında?.. 
 
@@ -62,7 +62,7 @@ Bu alanda Bitcointalk.org sitesi en önde gelen yerlerden biri. Forum tarzı ça
 Slack günümüzde kurum içi iletişim ve ortak çalışma alanında en çok kullanılan araçlardan biri iken, kripto alanında çalışan girişimlerin potansiyel yatırımcılar ve dış geliştiriciler ile iletişimleri için de kullanılan bir yer haline geldi. Burada yazılan her konuyu anlamanız gerekmiyor ancak topluluğun büyüklüğüne bakmak ve benzer projeler ile karşılaştırmak bile projenin uzmanların dünyasında bu işi bilenlerin ne kadar ilgisini çektiğini gösteren önemli bir işaret. 
 
 
-![twitter-slack-telegram-logos_640.png](/assets/twitter-slack-telegram-logos_640.png)
+![twitter-slack-telegram-logos-v2_640.png](/assets/twitter-slack-telegram-logos-v2_640.png)
 
 Keza Telegram da kişiler arası mesajlaşma servisi iken, Twitter benzeri kripto ekiplerinin takipçileri ile iletişimlerini yürüttükleri önemli kanallardan biri oldu. (Bu arada Telegram'ın bu yıl içinde kendi ICO'sunu yapma planını özel yatırımcılardan sağladığı 1.7 milyar ABD Doları sonrası [askıya aldı](https://techcrunch.com/2018/05/03/telegrams-billion-dollar-ico-has-become-a-mess/?guccounter=1))
 
