@@ -48,6 +48,13 @@ Komutan bir emir veriyor, bu emir tüm generallere dağıtılıyor. Generaller d
 
 Konunun teknik açıklaması oldukça uzun ve matematiksel olarak incelemek isterseniz [şu harika yazıya]((https://marknelson.us/posts/2007/07/23/byzantine.html)) da göz atabilirsiniz 
 
+
+### Arkası yarına
+
+Evet, Blockchain bazlı sistemler genel olarak yukarıda bahsedilen Bizans Hata Tolerans sistemine bağlı "Mutabakat Mekanizması"nı kullanarak kendi aralarında uzlaşma sağlıyorlar. Tabii yukarıdaki sistemin Blockchain'e uygulanması sırasında pek çok farklı işlem (örneğin Proof-of-Work) söz konusu. Yazımız çok uzadığı için ona da bir sonraki yazımızda bakalım artık. 
+
+
+
 Yukarıdaki problem generaller arası iletişimin sözlü olarak yapıldığı durumlar için geçerli. Halbuki eğer bir şekilde haber gönderen kişilerin doğruluğu teyid edilebilse hayat çok daha kolay olurdu. İşte daha önce de bahsettiğimiz "öğütme" (hashing) bu konuda bize yardımcı olabilir. Nasıl mı?
 
 Şöyle düşünün, öğütme makinası içine attığınız bir bilgiyi karmaşık rastgele bir sayı ve harf zincirine çeviriyor. Aynı bilgiyi verdiğinizde her seferinde aynı sayı/harf zincirini veren ama bilginin içindeki bir harfi bile değiştirseniz bambaşka bir sayı/harf zinciri çıkaran bir sistem. 
