@@ -4,7 +4,11 @@
 
 Bir önceki yazımızda birbirinden bağımsız (dağıtık) ve çok da güvenmeyen oyuncuların nasıl uzlaşıp birlikte hareket ettiklerine bakmıştık. Kısaba bahsedersek, Bizans Hata Tolerans diye adlandırılan bir sistemi kullanan oyuncular, kendileri gelen mesajların içinde çoğunluğun söylediğ mesajı uygulayarak ilerliyorlar, böylece ortada kararsızlık söz konusu olmuyor idi. 
 
-Peki Blockhain sistemine nasıl uyarlanıyor bu? Geçtiğimiz yazıda sorduğumuz soruları tekrar edelim: 
+Geçtiğimiz yazının başlangıcında pek çoks soru sormuştuk: 
+
+*Peki bu makineler merkezi bir otorite olmadan nasıl hep birlikte aynı anda aynı kararı veriyorlar? Aralarında hiç sorun çıkmıyor mu? Eğer çıkıyorsa bu sorunları nasıl çözüp tekrar aynı yolda ilerliyorlar? Birileri sistemi manipule etmek isterse ne olacak? Olamaz mı? Olur tabii ki.. Sistemin mimarlari buna karşı nasıl önlemler almış ona bir göz atalım şimdi.*
+
+Bu sorulardan yalnızca ilkine bir önceki yazımızda cevap verdik. Şimdi diğer soruların cevaplarını anlamak için bu sistem Blockchain'e nasıl uyarlanmış ona bakalım: 
 
 
 Yukarıdaki problem generaller arası iletişimin sözlü olarak yapıldığı durumlar için geçerli. Halbuki eğer bir şekilde haber gönderen kişilerin doğruluğu teyid edilebilse hayat çok daha kolay olurdu. İşte daha önce de bahsettiğimiz "öğütme" (hashing) bu konuda bize yardımcı olabilir. Nasıl mı?
