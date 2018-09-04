@@ -57,7 +57,7 @@ Komutan bir emir veriyor, bu emir tüm generallere dağıtılıyor. Generaller d
 
 
 
-Konunun teknik açıklaması oldukça uzun ve matematiksel olarak incelemek isterseniz [şu harika yazıya]((https://marknelson.us/posts/2007/07/23/byzantine.html)) da göz atabilirsiniz 
+Konunun teknik açıklaması oldukça uzun ve matematiksel olarak incelemek isterseniz [şu harika yazıya](https://marknelson.us/posts/2007/07/23/byzantine.html)) da göz atabilirsiniz 
 
 
 ### Arkası yarına
