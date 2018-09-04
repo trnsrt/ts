@@ -53,7 +53,7 @@ Daha önce de bahsetmiştik, yeni Kripto dünyasının en önemli özelliklerind
 &nbsp;
 | ![ethereum-github_640.png](/assets/ethereum-github_640.png) | 
 |:--:| 
-| *Ethereum [Github sayfası](https://github.com/ethereum/)* | 
+| *Ethereum [Github sayfası*](https://github.com/ethereum/) | 
 
 &nbsp;
 
