@@ -53,7 +53,7 @@ Peki ya kumandan hainse? Ve generallere farklı mesajlar yolluyor ise?. Bu durum
 
 &nbsp;
 
-| ![bizans-general-problem-3.png](/assets/bizans-general-problem-3.png) | 
+| ![bizans-general-problem-2-v3.png](/assets/bizans-general-problem-2-v3.png) | 
 |:--:| 
 | *Komutan hain ise, generaller ne yaparlar?* | 
 
