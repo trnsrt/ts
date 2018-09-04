@@ -41,9 +41,9 @@ Sistem şu şekilde aşağıdaki kurallara bağlı olarak çalışıyor:
 
 &nbsp;
 
-| ![bizans-general-problem-1.png](/assets/bizans-general-problem-1.png) | 
+| ![bizans-general-problem-1-v2.png](/assets/bizans-general-problem-1-v2.png) | 
 |:--:| 
-| *3. General hain ise?* | 
+| *2. General'e gelen mesajlar. Ne yapmalı bu general?* | 
 
 &nbsp;
 
