@@ -74,7 +74,7 @@ Daha önce de bahsetmiştik, yeni Kripto dünyasının en önemli özelliklerind
 
 | ![ethereum-github_640.png](/assets/ethereum-github_640.png) | 
 |:--:| 
-| *Ethereum [Github sayfası](https://github.com/ethereum/) | 
+| *Ethereum [Github sayfası](https://github.com/ethereum/)* | 
 
 #### Projenin geçmişte aldığı yatırımlar
 
