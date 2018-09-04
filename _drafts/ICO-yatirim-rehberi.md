@@ -34,6 +34,12 @@ Kişisel düşüncem, bir projenin en iyi anlatması gereken aracın Tanıtım N
 
 Tanıtım Notu, projenin hangi sorunu hedef aldığını, bu sorunu nasıl ve hangi kaynaklar ile çözeceğini çok net ve anlaşılır biçimde anlatıyor olmalı. Aynı zamanda neden bu sorunu çözmek için Blockchain'e ihtiyaç duyulduğunu açıklamalı. Halen mevcut KriptoParaların (örneğin Bitcoin ya da Ethereum) bu sorunları çözmede neden yetersiz kaldığını güzel bir şekilde anlatmalı. 
 
+
+
+| ![bitcoin-white-paper.png](/assets/bitcoin-white-paper.png) | 
+|:--:| 
+| *Tanıtım dokümanlarının şahı: [Bitcoin White Paper](https://bitcoin.org/bitcoin.pdf) | 
+
 Eğer Tanıtım Notu, yukarıda yazdıklarımıza net cevaplar veremiyor ise, ya dediğimiz gibi ekip kendini ifade edemiyordur ya da gerçekten kendileri de bilmiyordur. Her iki durumda da projeden uzak durmakta fayda var. Tanıtım notları ile ilgili daha detaylı bir yazımız daha olacak. 
 
 #### Ekibin yetkinlikleri ve danışmanların kalitesi
