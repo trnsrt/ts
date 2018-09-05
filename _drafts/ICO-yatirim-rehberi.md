@@ -65,12 +65,12 @@ KriptoParalar için aslında en anlaşılır olanı Bitcoin White Paper: [Bitcoi
 
 &nbsp;
 
-Peki Tanıtım Notlarını nereden bulacağım derseniz: Bu işin en kolay tarafı. Google sizin en büyük yardımcınız olacaktır. Özellikle incelemek istediğiniz projenin web sitesine gitmeniz durumunda mutlaka altta bir yerde Tanıtım Notu'nu göreceksiniz. Ama tüm Tanıtım Not'larını bir arada bulmak isterseniz [ICO Tracker](https://icotracker.net/) iyi bir kaynak. Yalnızca White Paper değil, kısaca proje ne ile ilgili, ekibin başında kim var, nasıl bir planlama düşünüyorlar. iletişim kanalları gibi her türlü bilgiye de buradan ulaşabilirsiniz. 
+Peki Tanıtım Notlarını nereden bulacağım derseniz: Bu işin en kolay tarafı. Google sizin en büyük yardımcınız olacaktır. Özellikle incelemek istediğiniz projenin web sitesine gitmeniz durumunda mutlaka altta bir yerde Tanıtım Notu'nu göreceksiniz. Ama tüm Tanıtım Not'larını bir arada bulmak isterseniz [ICO Tracker](https://icotracker.net/) iyi bir kaynak. Yalnızca White Paper değil, kısaca proje ne ile ilgili, ekibin başında kim var, nasıl bir planlama düşünüyorlar, iletişim kanalları nedir gibi her türlü bilgiye de buradan ulaşabilirsiniz. 
 
 "Ama Tanıtım Notları İngilizce, dile hakim değilim, üstelik yazılar çok uzun" diyorsanız, bir zamanlar oldukça aktif olan ancak şu aralar yavaşlayan Türkçe içerikli Twitter hesabı [OnePaper](https://twitter.com/OnepaperTeam) geçmiş mesajlarına bakabilirsiniz. 
 
 
-### Arkası Yarın.. 
+### Arkası Yarın... 
 
-ICO'lara yatırım yapmak için göz önünde bulundurmamız gereken Tanıtım Notu dışındaki diğer konulara da bir sonraki yazımızda değinelim artık.. 
+ICO'lara yatırım yapmak için göz önünde bulundurmamız gereken Tanıtım Notu dışındaki diğer konulara da bir sonraki yazımızda değineceğiz artık.. 
 
