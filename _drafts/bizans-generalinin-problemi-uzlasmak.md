@@ -28,7 +28,7 @@ Vakti zamanında Bizans Ordusu bir şehri kuşatır. Ancak şehrin etrafında va
 
 Komutan ve birliklerin başındaki generallerin birbiri ile anlaşması ve "saat 10:00'da hücum" ya da "geri çekil" emrini ortak bir şekilde gerçekleştirmeleri nasıl sağlanabilir? Yani birbirine güvenmeyen (içlerinde hain ya da hatalı sinyaller verebilecek) parçaların ortak hareket etmesi nasıl sağlanır?   Nasıl bir "Mutabakat Mekanizması" olmalı ki aralarında beraberce hareket edebilirler? İşte Bizans Generalleri Problemi bu. 
 
-Bu problemi çözmek için oluşturulan sistemin adı. Bizans Hata Tolerans Sistemi, Bütün hava ulaşım araçlarının motorlarında ve nükleer santrallerde kullanılıyor.  Bu sistem, belli bir alana dağılmış ve birbirlerine sinyaller gönderen değişik parçaların gelen çelişkili sinyaller karşısında nasıl doğru hareket etmeleri gerektiğini belirliyor. 
+Bu problemi çözmek için oluşturulan sistemin adı ise Bizans Hata Tolerans Sistemi. Bütün hava ulaşım araçlarının motorlarında ve nükleer santrallerde kullanılıyor.  Bu sistem, belli bir alana dağılmış ve birbirlerine sinyaller gönderen değişik parçaların gelen çelişkili sinyaller karşısında nasıl doğru hareket etmeleri gerektiğini belirliyor. 
 
 Sistem aşağıdaki kurallara bağlı olarak çalışıyor: 
 
