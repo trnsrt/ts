@@ -8,7 +8,7 @@ categories: Genel
 
 Arkadaşınız ile konuşuyordunuz ve size geçtiğimiz sene aldığı bir KriptoPara'dan %300 kazanç sağladığınız söyledi. İçinizden "ben neden böyle fırsatları kaçırıyorum?" diye hayıflandınız tabii. Neden bu fırsatlar benim de ayağıma gelmez? 
 
-Aslında gelir. Yatırım dünyasında (bunun KriptoPara olmasına gerek yok sermaye piyasalarındaki her yatırım aracı için geçerli) sık kullanılan bir söz vardır "yatırım da fırsatlar tükenmez". Peki nereden bulacağım bu fırsatları?... Özellikle KriptoPara dünyasında?.. 
+Aslında gelir. Yatırım dünyasında (bunun KriptoPara olmasına gerek yok sermaye piyasalarındaki her yatırım aracı için geçerli) sık kullanılan bir söz vardır "yatırım da fırsatlar tükenmez". Peki nereden bulacağım bu fırsatları?... Özellikle KriptoPara dünyasında?... Erken kalkar yol alır diyorsanız, ilk görücüye çıkan KriptoParalar'ın pazarı olan ICO (Initial Coin Offering) dünyasına bakmanız gerek. Ama dikkatlice...  
 
 Burada fırsat ve kazanç olarak hangi zaman periyodundan bahsettiğimizi netleştirmek lazım. Konuya iki perspektiften bakabilirsiniz: 
 
