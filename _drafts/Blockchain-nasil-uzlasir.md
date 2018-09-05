@@ -2,13 +2,13 @@
 
 
 
-Bir önceki yazımızda bağımsız (dağıtık) birbirine güvenmeyen oyuncuların nasıl uzlaşıp beraberce hareket ettiklerine bakmıştık. Kısaba bahsedersek, Bizans Hata Tolerans diye adlandırılan bir sistemi kullanan oyuncular, kendileri gelen mesajların içinde çoğunluğun söylediğ mesajı uygulayarak ilerliyorlar, böylece ortada kararsızlık söz konusu olmuyor idi. 
+Önceki [yazımızda](http://ademimerkezi.com/genel/2018/08/31/bizans-generalinin-problemi-uzla%C5%9Fmak.html) bağımsız (dağıtık), birbirine güvenmeyen oyuncuların nasıl uzlaşıp beraberce hareket ettiklerine bakmıştık. Kısaca bahsedersek, Bizans Hata Tolerans diye adlandırılan bir sistemi kullanan oyuncular, kendilerine gelen mesajların içinde çoğunluğun söylediğ mesajı uygulayarak ilerliyorlar, böylece ortada kararsızlık söz konusu olmuyor idi. 
 
-### Sorular, sorular.. 
+### Sorular, sorular...
 
 Geçtiğimiz yazının başlangıcında akla takılabilecek birkaç soru sormuştuk: 
 
-*Peki bu makineler merkezi bir otorite olmadan nasıl hep birlikte aynı anda aynı kararı veriyorlar? Aralarında hiç sorun çıkmıyor mu? Eğer çıkıyorsa bu sorunları nasıl çözüp tekrar aynı yolda ilerliyorlar? Birileri sistemi manipule etmek isterse ne olacak? Olamaz mı? Olur tabii ki.. Sistemin mimarlari buna karşı nasıl önlemler almış ona bir göz atalım şimdi.*
+*Peki bu makineler merkezi bir otorite olmadan nasıl hep birlikte aynı anda aynı kararı veriyorlar? Aralarında hiç sorun çıkmıyor mu? Eğer çıkıyorsa bu sorunları nasıl çözüp tekrar aynı yolda ilerliyorlar? Birileri sistemi manipüle etmek isterse ne olacak? Olamaz mı? Olur tabii ki... Sistemin mimarları buna karşı nasıl önlemler almış ona bir göz atalım şimdi.*
 
 Bu sorulardan yalnızca ilkine bir önceki yazımızda cevap verdik. Şimdi diğer soruların cevaplarını anlamak için bu sistem Blockchain'e nasıl uyarlanmış ona bakalım: 
 
@@ -65,5 +65,14 @@ Peki ya istisnalar olamaz mı? Olabilir. Bakalım ne olabilir ve çözümü var 
 "Nasıl oluyor da, kendilerine direktif veren bir yönetici olmadan birlikte hareket ediyor" dediğimiz binlerce makine, dışarıdan bakınca bilinmez ve karmaşık gelen ama içine girince matematiksel olarak planlanmış yukarıdaki sistemleri kullanarak Bitcoin örneğinde neredeyse on yıldır tıkır tıkır çalışıyorlar. Şu ana kadar bir sorun olmadı, olursa da teknoloji üzerine çalışanlar bir çözüm yolu bulurlar diye düşünmeden edemiyor insan.. 
 
 
+&nbsp;
+
+---
+
+
+&nbsp;
+
+
+*Not: Yazdığımız 25+ yazının bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](http://ademimerkezi.com/about/) sayfasına göz atabilirsiniz.* 
 
 
