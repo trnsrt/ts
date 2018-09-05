@@ -61,7 +61,7 @@ KriptoParalar için aslında en anlaşılır olanı Bitcoin White Paper: [Bitcoi
 
 | ![bitcoin-white-paper-v2-640.png](/assets/bitcoin-white-paper-v2-640.png) | 
 |:--:| 
-| *Tanıtım dokümanlarının şahı: [Bitcoin White Paper](https://bitcoin.org/bitcoin.pdf) | 
+| *Tanıtım dokümanlarının şahı: [Bitcoin White Paper](https://bitcoin.org/bitcoin.pdf)* | 
 
 &nbsp;
 
