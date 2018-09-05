@@ -35,7 +35,7 @@ Peki nasıl bir işlem yapıyordu bu makineler? Hatırlarsanız bahsetmiştik da
 2. sonra son on dakikada yapılmış bütün işlemleri ekle
 3. bir de eğer sonucu kazanırsan kendine bir ödül olacak (hani şu 50 Bitcoin ile başlayan ve şimdilerde 12.5 Bitcoin'e düşmüş olan), o ödülü de yaratılmış gibi ekle. 
 
-Sonra bu üç bilgiyi kullanarak sistemin sorduğu bulmacayı çözmeye çalışmak. Bu yaklaşık on dakika süren bir çalışma. 
+Sonra bu üç bilgiyi kullanarak sistemin sorduğu bulmacayı çözmeye çalışmak. Bu yaklaşık on dakika süren bir çalışma (Nasıl bir bulmaca bu derseniz detayları bu kısmın başında bahsettiğimiz [yazımızda](http://ademimerkezi.com/genel/2018/05/08/Peki-Blockchain-sifrelemesi-nasil-calisiyor.html) bulabilirsiniz). 
 
 Binlerce makine soruyu çözmeye çalışır ve bunun için de ciddi bir enerji harcar. Çözen makine anında bulmaca sonucunu tüm sisteme yayar. Bilgiyi alan diğer makineler de yukarıdaki üç bilgiyi bir araya getirip sonucu kontrol ederler (bulmacayı çözmek zor ama çözülmüş sonucu kontrol etmek çok basit). 
 
