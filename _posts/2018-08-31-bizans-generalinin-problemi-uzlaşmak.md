@@ -75,7 +75,7 @@ Konunun teknik açıklaması oldukça uzun ve matematiksel olarak incelemek iste
 
 ### Arkası yarına
 
-Evet, Blockchain bazlı sistemler genel olarak yukarıda bahsedilen Bizans Hata Tolerans sistemine bağlı "Mutabakat Mekanizması"nı kullanarak kendi aralarında uzlaşma sağlıyorlar. Tabii yukarıdaki sistemin Blockchain'e uygulanması sırasında pek çok farklı işlem (örneğin Proof-of-Work) söz konusu. Çok uzattığımız için ona da bir sonraki yazımızda bakalım artık. 
+Evet, Blockchain bazlı sistemler genel olarak yukarıda bahsedilen Bizans Hata Tolerans sistemine bağlı "Mutabakat Mekanizması"nı kullanarak kendi aralarında uzlaşma sağlıyorlar. Tabii yukarıdaki sistemin Blockchain'e uygulanması sırasında pek çok farklı işlem (örneğin Proof-of-Work) söz konusu. Çok uzattığımız için ona da bir sonraki sefer bakalım artık. 
 
 &nbsp;
 
