@@ -20,7 +20,7 @@ Peki ama yukarıda bahsettiğimiz bu on dakikada bir her makinede gerçekleşen 
 
 | ![shaking-hands.gif](/assets/shaking-hands.gif) | 
 |:--:| 
-| *Toplu uzlaşma böyle mi oluyor? Kaynak: [giphy](https://giphy.com/gifs/animation-loop-cartoon-26xBD5MpmluSyPggo) | 
+| *Toplu uzlaşma böyle mi oluyor? Kaynak: [giphy](https://giphy.com/gifs/animation-loop-cartoon-26xBD5MpmluSyPggo)* | 
 
 &nbsp;
 
