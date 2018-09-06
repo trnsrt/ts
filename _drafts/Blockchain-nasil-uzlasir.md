@@ -59,7 +59,7 @@ Kontrolün sonunda sonucun doğruluğuna emin oldukları anda sistemdeki bütün
 
 | ![batman-shaking-hands.gif](/assets/batman-shaking-hands.gif) | 
 |:--:| 
-| * Anlaştık dostum...  Kaynak: [giphy](https://https://giphy.com/gifs/smile-batman-dc-ROvT19V4hygmI)* | 
+| *Anlaştık dostum...  Kaynak: [giphy](https://https://giphy.com/gifs/smile-batman-dc-ROvT19V4hygmI)* | 
 
 &nbsp;
 
