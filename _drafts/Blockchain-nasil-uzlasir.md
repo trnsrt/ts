@@ -16,11 +16,15 @@ Geçtiğimiz yazının başlangıcında akla takılabilecek birkaç soru sormuş
 
 > *Peki bu makineler merkezi bir otorite olmadan nasıl hep birlikte aynı anda aynı kararı veriyorlar? Aralarında hiç sorun çıkmıyor mu? Eğer çıkıyorsa bu sorunları nasıl çözüp tekrar aynı yolda ilerliyorlar? Birileri sistemi manipüle etmek isterse ne olacak? Olamaz mı? Olur tabii ki... Sistemin mimarları buna karşı nasıl önlemler almış ona bir göz atalım şimdi.*
 
-&nbsp;
-
-![walking-crowd.gif](/assets/walking-crowd.gif)
 
 &nbsp;
+
+| ![walking-crowd.gif](/assets/walking-crowd.gif) | 
+|:--:| 
+| *Birlikte hareket etmek derken..? Kaynak: [giphy](https://giphy.com/gifs/southparkgifs-l2SqcIUKPcyRtRWJG)* | 
+
+&nbsp;
+
 
 Bu sorulardan yalnızca ilkine bir önceki yazımızda cevap verdik. Şimdi diğer soruların cevaplarını anlamak için bu sistem Blockchain'e nasıl uyarlanmış ona bakalım: 
 
@@ -51,6 +55,13 @@ Kontrolün sonunda sonucun doğruluğuna emin oldukları anda sistemdeki bütün
 
 İşte bu makinelerin Mutabakat Mekanizması. Bizans Hata Toleransı'nın Blockchain'e uyarlanmış hali. Blockchain yukarıdaki Mutabakat Mekanizması'nı kullanarak, en son yapılan balya sonucunu kimin belirleyeceği (yani bir sonraki akında generalin kim olacağı) konusunda mutabakat sağlıyor. İşte buna Bitcoin özelinde Proof-of-Work deniyor.
 
+&nbsp;
+
+| ![batman-shaking-hands.gif](/assets/batman-shaking-hands.gif) | 
+|:--:| 
+| * Anlaştık dostum...  Kaynak: [giphy](https://https://giphy.com/gifs/smile-batman-dc-ROvT19V4hygmI)* | 
+
+&nbsp;
 
 
 ### Peki bu sistem çok maliyetli değil mi?
