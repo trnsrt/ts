@@ -9,12 +9,6 @@ categories: Genel
 
 Blockchain bazlı şifreli sistemlerin birbirine bağlı ancak birbirinden bağımsız binlerce makineden oluştuğundan daha önceki yazılarımızda bahsetmiştik. Peki bu makineler merkezi bir otorite olmadan nasıl hep birlikte aynı anda aynı kararı veriyorlar? Aralarında hiç sorun çıkmıyor mu? Eğer çıkıyorsa bu sorunları nasıl çözüp tekrar aynı yolda ilerliyorlar? Birileri sistemi manipüle etmek isterse ne olacak? Olamaz mı? Olur tabii ki... Sistemin mimarları buna karşı nasıl önlemler almış ona bir göz atalım şimdi. 
 
-### Önce ufak bir hatırlatma... 
-
-
-Konuya başlamadan önce Blockchain sistemini kısaca hatırlatmakta yarar var. Demiştik ki, Blockchain yapılan bir işlemin binlerce makinede kaydının tutulması ve belli aralıklar ile (örneğin Bitcoin'de on dakikada bir) bütün makinelerin ellerindeki kayıtların toplanıp tabiri caiz ise bir balya haline getirilmesi şeklinde çalışan bir sistem idi. Bir araya getirilen bu bilgilerin her makinede aynı şekilde bulunması gerekiyor ki, üzerine yeni bir balya işlem gelebilsin. Dolayısı ile altta kalan balyadaki bilgiler hem tutarlı olsun, hem sonradan değiştirilemesin (balya bağlandıktan sonra binlerce makineye dönüp işlem değişikliği yapamazsınız, imkansıza yakın bu). 
-
-Peki ama yukarıda bahsettiğimiz bu on dakikada bir her makinede gerçekleşen işlemler nasıl aynı şekilde bulunuyor? Ya birileri ortama nifak tohumu ekmeye kalkar ve sahte işlem girmeye kalkarsa? Nasıl sağlanacak bu mutabakat? Öncelikle 'mutabakat' derken ne kastediyoruz ona bir bakalım: 
 
 &nbsp;
 
@@ -23,6 +17,14 @@ Peki ama yukarıda bahsettiğimiz bu on dakikada bir her makinede gerçekleşen 
 | *Toplu uzlaşma böyle mi oluyor? Kaynak: [giphy](https://giphy.com/gifs/animation-loop-cartoon-26xBD5MpmluSyPggo)* | 
 
 &nbsp;
+
+### Önce ufak bir hatırlatma... 
+
+
+Konuya başlamadan önce Blockchain sistemini kısaca hatırlatmakta yarar var. Demiştik ki, Blockchain yapılan bir işlemin binlerce makinede kaydının tutulması ve belli aralıklar ile (örneğin Bitcoin'de on dakikada bir) bütün makinelerin ellerindeki kayıtların toplanıp tabiri caiz ise bir balya haline getirilmesi şeklinde çalışan bir sistem idi. Bir araya getirilen bu bilgilerin her makinede aynı şekilde bulunması gerekiyor ki, üzerine yeni bir balya işlem gelebilsin. Dolayısı ile altta kalan balyadaki bilgiler hem tutarlı olsun, hem sonradan değiştirilemesin (balya bağlandıktan sonra binlerce makineye dönüp işlem değişikliği yapamazsınız, imkansıza yakın bu). 
+
+Peki ama yukarıda bahsettiğimiz bu on dakikada bir her makinede gerçekleşen işlemler nasıl aynı şekilde bulunuyor? Ya birileri ortama nifak tohumu ekmeye kalkar ve sahte işlem girmeye kalkarsa? Nasıl sağlanacak bu mutabakat? Öncelikle 'mutabakat' derken ne kastediyoruz ona bir bakalım: 
+
 
 
 ### Bir varmış bir yokmuş...
