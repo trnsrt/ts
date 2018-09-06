@@ -10,7 +10,18 @@ Arkadaşınız ile konuşuyordunuz ve size geçtiğimiz sene aldığı bir Kript
 
 Aslında gelir. Yatırım dünyasında (bunun KriptoPara olmasına gerek yok sermaye piyasalarındaki her yatırım aracı için geçerli) sık kullanılan bir söz vardır "yatırım da fırsatlar tükenmez". Peki nereden bulacağım bu fırsatları?... Özellikle KriptoPara dünyasında?... Erken kalkar yol alır diyorsanız, ilk görücüye çıkan KriptoParalar'ın pazarı olan ICO (Initial Coin Offering) dünyasına bakmanız gerek. Ama dikkatlice...  
 
-Burada fırsat ve kazanç olarak hangi zaman periyodundan bahsettiğimizi netleştirmek lazım. Konuya iki perspektiften bakabilirsiniz: 
+
+
+&nbsp;
+
+| ![dilbert-stock-market-640.png](/assets/dilbert-stock-market-640.png) | 
+|:--:| 
+| *İnglizcesi için [link](http://www.technologyinvestor.com/?p=29968)* |
+
+&nbsp;
+
+
+Burada öncelikle fırsat ve kazanç olarak hangi zaman periyodundan bahsettiğimizi netleştirmek lazım. Konuya iki perspektiften bakabilirsiniz: 
 
 Birincisi uzun vadede, gerçekten dünyayı değiştirecek sağlam temelli KriptoParalar. Eğer bu tip KriptoPara'lara ilginiz varsa yazımızı okumaya devam edin. 
 
