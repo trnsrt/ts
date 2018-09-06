@@ -16,6 +16,15 @@ Konuya başlamadan önce Blockchain sistemini kısaca hatırlatmakta yarar var. 
 
 Peki ama yukarıda bahsettiğimiz bu on dakikada bir her makinede gerçekleşen işlemler nasıl aynı şekilde bulunuyor? Ya birileri ortama nifak tohumu ekmeye kalkar ve sahte işlem girmeye kalkarsa? Nasıl sağlanacak bu mutabakat? Öncelikle 'mutabakat' derken ne kastediyoruz ona bir bakalım: 
 
+&nbsp;
+
+| ![shaking-hands.gif](/assets/shaking-hands.gif) | 
+|:--:| 
+| *Toplu uzlaşma böyle mi oluyor? Kaynak: [giphy](https://giphy.com/gifs/animation-loop-cartoon-26xBD5MpmluSyPggo) | 
+
+&nbsp;
+
+
 ### Bir varmış bir yokmuş...
 
 Efendim, ilginçtir, birbirinden bağımsız sistemlerin (bunlara dağıtık sistemler de deniyor) arasındaki ilişkiler ve çıkan anlaşmazlıklar literatüre "Bizans Generalleri Problemi" olarak girmiş. 
