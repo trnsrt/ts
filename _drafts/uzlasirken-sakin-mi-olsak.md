@@ -2,16 +2,22 @@
 
 Geçtiğimiz iki yazıda, birbirinden bağımsız olan ve Blockchain sisteminde aktif rol oynayan oyuncuların nasıl olup da birlikte hareket ettiklerinin üzerinden geçmiştik. Önce işin sistematiği (mantığı) nasıl çalışıyor sorusunu geçmişte ortaya çıkmış birbirine güvenmeyen Bizans Generalleri'nin düşmana karşı nasıl ortak hareket ettiğine bakmış, sonra da bu problemin Blockchain özelinde nasıl çözüldüğüne göz atmıştık. 
 
+### Bitcoin'in meşhur ettiği Proof-of-Work
+
 Tabii, Blockchain bazlı dağıtık sistemlerin en meşhuru olan Bitcoin üzerinde bu ortak hareket etme mekanizması olan Proof-of-Work (pOW)  sistemini anlatırken, bunun aslında çok enerji harcayan bir süreç olduğundan bahsetmiştik. Olaylara maalesef yüzeysel olarak bakan medya, bunu "[Bitcoin 159 ülkeden fazla enerji harcıyor](https://www.cnnturk.com/ekonomi/kripto-para/bitcoin-islemleri-159-ulkeden-fazla-enerji-tuketiyor)" ya da "[İzlanda finans bakanı Bitcoin'in ülkede yerleşim bölgelerindekinden fazla tüketimi olduğu konusunda uyarıda bulundu](https://www.wired.co.uk/article/bitcoin-mining-energy-consumption-new-york)" gibi başlıklar ile veriyor. Hakikaten nedir derseniz, [şu yazıda](https://www.ofnumbers.com/2018/08/26/how-much-electricity-is-consumed-by-bitcoin-bitcoin-cash-ethereum-litecoin-and-monero/#footnote_0_5656) detayları var. Özeti: Bitcoin [elektrik harcaması olarak dünyada 37. sıradaki Avusturya'dan daha fazla ](http://www.wikizero.co/index.php?q=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTGlzdF9vZl9jb3VudHJpZXNfYnlfZWxlY3RyaWNpdHlfY29uc3VtcHRpb24).  
 
 
 Bitcoin'in sadık kullanıcıları böyle bir enerji harcamanın uzlaşma mekanizmasının işlemesi için değil ama bu işleyen mekanizmanın dışarıdan sistemi bozmak isteyecek bir tehdite karşı kendini savunma mekanizması olduğunu belirtiyorlar. Zira, uzlaşma mekanizmasının kilit noktası sistem üzerindeki parçaların %51'inin ortak bir kabul üzerinden ilerlemesi şeklinde. Eğer sistemin %51'ini ele geçirmek sadece etrafa makine kurmak ve sisteme bağlanmak ile olsaydı (hatırlarsanız kimseye sormadan Blockchain sistemine bağlanıp siz de bir oyuncu olabilirsiniz), o zaman elinin altında (ya da kullanabileceği) büyük bir makine kapasitesi olan biri sistemi ele geçirebilirdi. Halbuki, Bitcoin'in oyunculara sorduğu bilmeceyi çözmek için ciddi bir enerji harcamak gerekiyor. Sistemi ele geçirmek isteyen "dış tehdit" için oldukça maliyetli bir durum bu. 
 
+Bitcoin dışında aslında Bitcoin'in küçük kardeşleri diğer alternatif KriptoParalar'ın bir çoğu da PoW mekanizması kullanıyor. Ethereum (ki değiştirmek için çalışıyor, bir sonraki bölümde detaylandıracağız), Litecoin, Monero gibi bütün büyük Bitcoin alternatifleri de PoW kullanıyor.
+
+
 Peki bu kadar enerji harcamaya gerek var mı? Başka başka yöntemlerle de makinelerin ortak hareket etmesi sağlanamaz mı? Bu konuda kafa yoranlar var tabii. Onların geliştirdiği alternatifler de var. İsterseniz kısaca bir göz atalım onlara. 
 
 ### Proof-of-Stake (PoS)
 
-### Proof-of-Space
+Proof-of-Stake yukarıda bahsettiğimiz Bitcoin'in Proof-of-Work mekanizmasına en ciddi rakip. Burada, 
+
 
 ### Proof-of-Elapsed-Time (POET)
 
@@ -21,11 +27,11 @@ Peki bu kadar enerji harcamaya gerek var mı? Başka başka yöntemlerle de maki
 
 ### PracticalByzantineFaultTolerance (PBFT)
 
-### SimplifiedByzantineFaultTolerance (#SBFT)
+### SimplifiedByzantineFaultTolerance (SBFT)
 
-### DeligatedByzantineFaultTolerance (#DBFT)
+### DeligatedByzantineFaultTolerance (DBFT)
 
-### DirectedAcyclicGraphs (#DAG)
+### DirectedAcyclicGraphs (DAG)
 
 ### ProofofActivity (#POA)
 
@@ -34,6 +40,11 @@ Peki bu kadar enerji harcamaya gerek var mı? Başka başka yöntemlerle de maki
 ### ProofofCapacity (#PoC)
 
 ### ProofofBurn (#PoB)
+
+
+
+
+### Hashgraph Protocol
 
 
 
