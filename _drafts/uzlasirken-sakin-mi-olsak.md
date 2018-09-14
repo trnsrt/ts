@@ -11,7 +11,6 @@ Peki bu kadar enerji harcamaya gerek var mı? Başka başka yöntemlerle de maki
 
 ### Proof-of-Stake (PoS)
 
-
 ### Proof-of-Space
 
 ### Proof-of-Elapsed-Time (POET)
