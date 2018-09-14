@@ -12,6 +12,32 @@ Peki bu kadar enerji harcamaya gerek var mı? Başka başka yöntemlerle de maki
 ### Proof-of-Stake (PoS)
 
 
+### Proof-of-Space
+
+### Proof-of-Elapsed-Time (POET)
+
+### Delegated-Proof-of-Stake (DPos)
+
+### Leased-Proof-of-Stake (LPos)
+
+### PracticalByzantineFaultTolerance (PBFT)
+
+### SimplifiedByzantineFaultTolerance (#SBFT)
+
+### DeligatedByzantineFaultTolerance (#DBFT)
+
+### #DirectedAcyclicGraphs (#DAG)
+
+### ProofofActivity (#POA)
+
+### ProofofImportance (#POI) 
+
+### ProofofCapacity (#PoC)
+
+### ProofofBurn (#PoB)
+
+
+
 
 
 
