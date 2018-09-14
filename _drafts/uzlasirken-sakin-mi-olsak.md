@@ -26,7 +26,7 @@ Peki bu kadar enerji harcamaya gerek var mı? Başka başka yöntemlerle de maki
 
 ### DeligatedByzantineFaultTolerance (#DBFT)
 
-### #DirectedAcyclicGraphs (#DAG)
+### DirectedAcyclicGraphs (#DAG)
 
 ### ProofofActivity (#POA)
 
