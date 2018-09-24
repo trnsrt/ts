@@ -34,11 +34,23 @@ Yanlış hatırlamıyor isem bu kadar. Dolayısıyla, bir bunları toplayıp int
 
 Gördüğünüz gibi, yazılarımızda dijital dünyanın hayatımızı ne kadar kolaylaştıracağından bahsediyoruz ama gel gör ki girmeye kalktığınızda ciddi bir iş de yaratılıyor. Hele bir de birden fazla borsada işlem yapmak isterseniz aynı dokümanları tekrar toparlamak ve göndermek zorundasınız. Bu konuda size kolaylık sağlamak için çalışan bir Türk girişimi olan [Kimlic](https://kimlic.com/)'den de bu vesile ile bahsetmiş olalım.  
 
-Eğer yukarıdaki zahmete girip bir hesap açtırdı iseniz, hesabınız onaylandıktan sonrası nispeten kolay. Türkiye'deki bir banka hesabından aracının platformuna TL ya da ABD Doları gönderiyorsunuz, para borsadaki hesabınızda görüldükten sonra Bitcoin (ya da sistemde mevcut tüm KriptoParaları) alıp satmaya başlıyorsunuz. 
+Eğer yukarıdaki zahmete girip bir hesap açtırdı iseniz, hesabınız onaylandıktan sonrası nispeten kolay. Türkiye'deki bir banka hesabından aracının platformuna TL ya da ABD Doları gönderiyorsunuz, para borsadaki hesabınızda görüldükten sonra Bitcoin (ya da sistemde mevcut tüm KriptoParaları) alıp satmaya başlıyorsunuz
+
+### Arkadaşım Bitcoin göndermek isterse?
+
+Aslında bu opsiyon da basit, banka transferi gibi. Arkadaşınız kendine ait Bitcoin'i sizin hesabınıza transfer ediyor? Nereye transfer ediyor? Nasıl transfer ediyor? Para nerede duruyor? Bunun için isterseniz, KriptoPara'yı borsadan aldığımız yukarıdaki örneğimiz üzerinden devam edelim. 
 
 #### Aldık KriptoParayı, ya sonra?
 
-KriptoPara'yı Kripto borsadan satın aldınız. Ya şimdi? Sonrası size kalmış. Bu parayı Borsa'daki hesabınızda tutabilirsiniz, ya da kendinize ait bir KriptoCüzdan'a gönderebilirsiniz. Ne demek şimdi bu? Anlatalım: 
+KriptoPara'yı Kripto borsadan satın aldınız. Ya şimdi? Sonrası size kalmış. Bu parayı Borsa'daki hesabınızda tutabilirsiniz, ya da kendinize ait bir KriptoCüzdan'a gönderebilirsiniz. Ne demek şimdi bui KriptoCüzdan da nereden çıktı?  KriptoCüzdan, sizin aldığınız KriptoPara'yı güvenle tutmanıza ve günü geldiğinde istediğiniz yere göndermenizi sağlayan güvenli bir araç. Değişik türleri var, hangisi uyarsa onu kullanırsınız. Neden bir KriptoCüzdan kullanıyorum, param zaten yukarıdaki KriptoBorsa'da durmuyor mu? Evet ama Şifreli Dünya'da ne kadar güvenlik o kadar iyi. Ancak yazımız çok uzamaya başladı. KriptoCüzdan konusunda önümüzdeki hafta devam edeceğiz artık.. 
+
+# Yazı II
+
+Geçtiğimiz hafta KriptoBorsalar'dan nasıl alım yapabileceğimizden bahsetmiş ancak orada kalmıştık. KriptoBorsa'dan aldığınız bir KriptoPara'yı nerede tutmalısınız? KriptoBorsa'da mı durmalı, yoksa başka bir yerde mi? O başka yer neresi? Peki ya KriptoBorsa'dan alım yapmak değil de bir arkadaşınız size direkt KriptoPara göndermek istese? Yapabilir mi? Eğere yapabiliyorsa nereye gönderecek, nasıl gönderecek?
+
+
+
+Anlatalım: 
 
 KriptoPara dediğimiz özünde elektronik olarak saklanan fiziksel olarak elimizde tutamadığımız bir varlık. Zaten bu nedenle pek çok kişi KriptoPara'ya kuşkuyla bakıyor. Ama daha önce de bir çok kez anlatmaya çalıştığımız gibi, günümüzde gelişen ekonomi ve ticaret nedeniyle fiziksel olarak hiçbir parayı elimizde tutmuyoruz. Hepsi sanal ortamda genelde banka hesaplarımızda duruyor. Yastık altında tutanınız da vardır eminim ama ne kadar güvenli ciddi şekilde tartışılır. 
 
