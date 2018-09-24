@@ -4,11 +4,11 @@ Geçenlerde yine KriptoParalara şüphe ile yaklaşan bir arkadaşım (bunlardan
 
 ### Paranız olsun, cüzdan nasıl olsa bulunur
 
-Diyelim, Bitcoin satın aldınız. Şimdi burada eğer konuya yabancı iseniz "Yahu herkes bahsediyor bu Bitcoin satın almaktan, nasıl alacağım kardeşim?" diye çığlık atıyor olabilirsiniz. Peki o zaman kısaca ondan başlayalım. 
+Diyelim, Bitcoin satın aldınız. Şimdi burada eğer konuya yabancı iseniz "Herkes bahsediyor bu Bitcoin satın almaktan, daha nasıl alacağımı bile bilmiyorum ben" diye çığlık atıyor olabilirsiniz. Peki o zaman kısaca ondan başlayalım. 
 
 ### Önce bir KriptoPara nasıl satın alınır ona bakalım
 
-KriptoPara satın almak hem kolay hem zor. Neden? Efendim, KriptoPara (isterseniz kolaylık olsun diye bu yazıda bundan sonra Bitcoin diyelim) satın almak için birkaç basit yol var. 
+KriptoPara satın almak hem kolay hem zor. Neden? Efendim, KriptoPara (isterseniz kolaylık olsun diye bu yazıda bundan sonra Bitcoin diyelim, diğerleri de üç aşağı beş yukarı aynı şekilde gerçekleşiyor) satın almak için birkaç basit yol var. 
 
 1. Bir KriptoPara borsasında hesap açtırır ve nasıl IMKB'den hisse satın alıyorsunuz, aynı şekilde bu borsadan Bitcoin alabilirsiniz
 
@@ -20,11 +20,19 @@ KriptoPara alım satımına aracılık eden şirketler ya da platformlar (kısac
 
 - [BTCTurk](https://www.btcturk.com/) Şu an Türkiye piyasasındaki en yüksek hacimli KriptoPara aracılığı yapan platform. Bitcoin, Ethereum, Ripple ve Tether işlem gören KriptoParalar
 - [Paribu](https://www.paribu.com/) sadece Bitcoin alımsatımına aracılık ediyor ve Bitcoin hacminde Türkiye'de en büyük olduğunu iddia ediyor (mantıklı olabilir BTCTurk diğer paralardan dolayı işlem hacmini büyük tutuyor olabilir
-- Diğerleri: [Koineks](https://koineks.com/), [Koinim](https://koineks.com/) gibi daha ufak borsalar da var. 
+- Diğerleri: [Koineks](https://koineks.com/), [Koinim](https://koineks.com/) gibi daha ufak borsalar da var.
 
-Konumuz borsalar olmadığı için kısa keseceğim. Ancak bu borsalardan birinde hesap açtırmak bile bir miktar zahmetli, onu baştan söylemek lazım. Neden? KriptoPara dünyası ile ilgili çok fazla spekülasyon ve bilgi kirliliği olduğu için bu tip aracılar, müşterilerini tanımak (Know Your Customer) konusunda oldukça hassaslar. Bu nedenle, sadece kayıt olmak yetmiyor, işlem yapabilmek için ekstra bilgi talep ediyorlar. Öyle çok zor bilgiler değil ama uğraştırıcı. Nedir bu bilgiler? Gerçek bir kişi olduğunuzu kanıtlamak için nüfus cüzdanının kopyası, elle yazacağınız bir dilekçe, nüfus cüzdanı ve yazdığınız dilekçe ile birlikte çekilmiş bir fotoğrafınız, Türkiye'de ikamet ettiğinize dair kanıt (adınıza kayıtlı bir elektrik, su faturası. Yanlış hatırlamıyor isem bu kadar. Dolayısıyla, bir bunları toplayıp internet üzerinden onlara gönderiyorsunuz, sonra bilgilerin teyidini bekliyorsunuz - bütün işlem bir-iki gün sürüyor. 
+En son duyduğum rakam şu anda 44 adet KriptoBorsası olduğu şeklinde. Tabii bu borsaların küçük olanları likidite sıkıntısı yaşabilecekleri için çok tavsiye etmem. 
 
-Gördüğünüz gibi, yazılarımızda dijital dünyanın hayatımızı ne kadar kolaylaştıracağından bahsediyoruz ama gel gör ki girmeye kalktığınızda ciddi bir iş. 
+Konumuz borsalar olmadığı için kısa keseceğim. Ancak bu borsalardan birinde hesap açtırmak bile zahmetli bir iş, onu baştan söylemek lazım. Neden? KriptoPara dünyası ile ilgili çok fazla spekülasyon ve bilgi kirliliği olduğu için bu tip aracılar, müşterilerini tanımak (Know Your Customer) konusunda oldukça hassaslar. Bu nedenle, sadece kayıt olmak yetmiyor, işlem yapabilmek için ekstra bilgi talep ediyorlar. Öyle çok zor bilgiler değil ama uğraştırıcı. Nedir bu bilgiler? 
+
+- Gerçek bir kişi olduğunuzu kanıtlamak için nüfus cüzdanının kopyası
+- Elle yazacağınız bir dilekçe, nüfus cüzdanı ve yazdığınız dilekçe ile birlikte çekilmiş bir fotoğrafınız
+- Türkiye'de ikamet ettiğinize dair kanıt (adınıza kayıtlı bir elektrik, su faturası. 
+
+Yanlış hatırlamıyor isem bu kadar. Dolayısıyla, bir bunları toplayıp internet üzerinden onlara gönderiyorsunuz, sonra bilgilerin teyidini bekliyorsunuz - bütün işlem bir-iki gün sürüyor. 
+
+Gördüğünüz gibi, yazılarımızda dijital dünyanın hayatımızı ne kadar kolaylaştıracağından bahsediyoruz ama gel gör ki girmeye kalktığınızda ciddi bir iş de yaratılıyor. Hele bir de birden fazla borsada işlem yapmak isterseniz aynı dokümanları tekrar toparlamak ve göndermek zorundasınız. Bu konuda size kolaylık sağlamak için çalışan bir Türk girişimi olan [Kimlic](https://kimlic.com/)'den de bu vesile ile bahsetmiş olalım.  
 
 Eğer yukarıdaki zahmete girip bir hesap açtırdı iseniz, hesabınız onaylandıktan sonrası nispeten kolay. Türkiye'deki bir banka hesabından aracının platformuna TL ya da ABD Doları gönderiyorsunuz, para borsadaki hesabınızda görüldükten sonra Bitcoin (ya da sistemde mevcut tüm KriptoParaları) alıp satmaya başlıyorsunuz. 
 
@@ -41,5 +49,7 @@ Ya KriptoPara borsalarındaki hesaplarınız. Onlar için böyle bir garanti de 
 Efendim, biliyorsunuz KriptoParalar'ın en önemli özelliklerinden biri kişileri kurumlara bağımlılıktan kurtarıyor olması.  Bu nedenle çok rahat bir şekilde satın aldığınız parayı kendinizde tutmanız mümkün. İyi ama sanal değil miydi bu paralar? Fiziksel olarak ortada değillerdi. Nasıl olacak da kendimde tutacağım? Cevabı Elektronik Cüzdan
 
 ### E-cüzdan nasıl çalışıyor?
+
+
 
 
