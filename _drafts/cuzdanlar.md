@@ -59,7 +59,7 @@ Ya KriptoPara borsalarındaki hesaplarınız. Onlar için böyle bir garanti de 
 
 Efendim, biliyorsunuz KriptoParalar'ın en önemli özelliklerinden biri kişileri kurumlara bağımlılıktan kurtarıyor olması.  Bu nedenle çok rahat bir şekilde satın aldığınız parayı kendinizde tutmanız mümkün. İyi ama sanal değil miydi bu paralar? Fiziksel olarak ortada değillerdi. Nasıl olacak da kendimde tutacağım? Cevabı KriptoCüzdan. 
 
-### KriptoCüzdan nasıl çalışıyor?
+### KriptoCüzdan nedir, nasıl çalışır?
 
 İşin en başından başlar isek. Hatırlarsanız, daha önceki yazılarımızda Bitcoin örneğinden yola çıkarak, bir kişinin diğerine nasıl para gönderdiğini anlatmıştık. Kısaca hatırlatırsak, Blockchain kendi sistemi üzerinden geçen işlemleri binlerce makine üzerinde tutan bir sistem idi. 
 
@@ -67,6 +67,10 @@ Bu sistemde, kullanıcı kişilerin adı belli değil, blinmiyorlar, sadece kend
 
 Bu adreslere girebilmek için ise kendimize ait Özel ve Genel Anahtarlar kullanıyoruz. Bir nevi e-posta adresine girmek için kullandığımız kullanıcı adı ve şifre gibi düşünün. Kullanıcı adını Genel Anahtar'a, şifreyi ise Özel Anahtar'a benzetmek çok da yanlış olmaz. Kullanıcı adını herkese verebilirsiniz (ki size e-posta, ya da burada KriptoPara göndersinler), ama şifrenizi kimseye söylememelisiniz (ki hesabınıza girip mesajlarınızı okumasınlar ya da buradaki örnekte KriptoParanızı yürütmesinler). İşte KriptoCüzdan dediğimiz bu Özel ve Genel Anahtarları depolayan yer. 
 
+KriptoCüzdan'ın pek çok çeşidi var ve bir sonraki bölümde onlardan bahsedeceğiz. Ama nasıl çalıştığına gelince aslında basit. Kullanacağınız KriptoParayı taşıyabilecek bir KriptoCüzdan yaratmak demek, size ait bir Genel Anahtar ile bu KriptoParanın bulunduğu Blockchain sistemine kayıt yaptırmak demek. Sonrasında Genel Anahtarı kullanarak buraya arkadaşınız tarafından para gönderilmesini sağlayabilir, sistem içinde ne kadar paranız olduğuna bakabilir, ya da KripoPara borsasından almış olduğunuz KriptoParaları sadece kendinize ait olan bu KriptoCüzdan'a çekebilirsiniz. 
+
+
+### KriptoCüzdan nasıl yaratılır?
 
 
 
