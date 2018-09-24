@@ -38,7 +38,7 @@ Eğer yukarıdaki zahmete girip bir hesap açtırdı iseniz, hesabınız onaylan
 
 #### Aldık KriptoParayı, ya sonra?
 
-KriptoPara'yı Kripto borsadan satın aldınız. Ya şimdi? Sonrası size kalmış. Bu parayı Borsa'daki hesabınızda tutabilirsiniz, ya da kendinize ait bir elektronik cüzdana gönderebilirsiniz. Ne demek şimdi bu? Anlatalım: 
+KriptoPara'yı Kripto borsadan satın aldınız. Ya şimdi? Sonrası size kalmış. Bu parayı Borsa'daki hesabınızda tutabilirsiniz, ya da kendinize ait bir KriptoCüzdan'a gönderebilirsiniz. Ne demek şimdi bu? Anlatalım: 
 
 KriptoPara dediğimiz özünde elektronik olarak saklanan fiziksel olarak elimizde tutamadığımız bir varlık. Zaten bu nedenle pek çok kişi KriptoPara'ya kuşkuyla bakıyor. Ama daha önce de bir çok kez anlatmaya çalıştığımız gibi, günümüzde gelişen ekonomi ve ticaret nedeniyle fiziksel olarak hiçbir parayı elimizde tutmuyoruz. Hepsi sanal ortamda genelde banka hesaplarımızda duruyor. Yastık altında tutanınız da vardır eminim ama ne kadar güvenli ciddi şekilde tartışılır. 
 
