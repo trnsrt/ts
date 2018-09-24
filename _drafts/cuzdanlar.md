@@ -49,7 +49,6 @@ KriptoPara'yı Kripto borsadan satın aldınız. Ya şimdi? Sonrası size kalmı
 Geçtiğimiz hafta KriptoBorsalar'dan nasıl alım yapabileceğimizden bahsetmiş ancak orada kalmıştık. KriptoBorsa'dan aldığınız bir KriptoPara'yı nerede tutmalısınız? KriptoBorsa'da mı durmalı, yoksa başka bir yerde mi? O başka yer neresi? Peki ya KriptoBorsa'dan alım yapmak değil de bir arkadaşınız size direkt KriptoPara göndermek istese? Yapabilir mi? Eğere yapabiliyorsa nereye gönderecek, nasıl gönderecek?
 
 
-
 Anlatalım: 
 
 KriptoPara dediğimiz özünde elektronik olarak saklanan fiziksel olarak elimizde tutamadığımız bir varlık. Zaten bu nedenle pek çok kişi KriptoPara'ya kuşkuyla bakıyor. Ama daha önce de bir çok kez anlatmaya çalıştığımız gibi, günümüzde gelişen ekonomi ve ticaret nedeniyle fiziksel olarak hiçbir parayı elimizde tutmuyoruz. Hepsi sanal ortamda genelde banka hesaplarımızda duruyor. Yastık altında tutanınız da vardır eminim ama ne kadar güvenli ciddi şekilde tartışılır. 
@@ -58,9 +57,16 @@ Peki parayı bankada tutmak ne kadar güvenli? Bir parça evet. Devletin 100,000
 
 Ya KriptoPara borsalarındaki hesaplarınız. Onlar için böyle bir garanti de yok. Bu borsaların sitelerinde ne kadar güvenli olduklarına dair açıklamalar var. Güvenip güvenmemek size kalmış. Ama başından beri bahsettiğimiz gibi yeni teknolojiler ve KriptoPara dünyası merkezi olmayan bir sistem ruhu ile işliyor. Ama KriptoPara borsası merkezi bir yapı - dolayısı ile bu işin ruhuna aykırı. Zira daha önce de pek çok kez söylediğimiz gibi "üçüncü partiler aslında güvenlik açığıdır("[trusted third parties are security holes](https://nakamotoinstitute.org/trusted-third-parties/)"). Peki ne yapmalı? 
 
-Efendim, biliyorsunuz KriptoParalar'ın en önemli özelliklerinden biri kişileri kurumlara bağımlılıktan kurtarıyor olması.  Bu nedenle çok rahat bir şekilde satın aldığınız parayı kendinizde tutmanız mümkün. İyi ama sanal değil miydi bu paralar? Fiziksel olarak ortada değillerdi. Nasıl olacak da kendimde tutacağım? Cevabı Elektronik Cüzdan
+Efendim, biliyorsunuz KriptoParalar'ın en önemli özelliklerinden biri kişileri kurumlara bağımlılıktan kurtarıyor olması.  Bu nedenle çok rahat bir şekilde satın aldığınız parayı kendinizde tutmanız mümkün. İyi ama sanal değil miydi bu paralar? Fiziksel olarak ortada değillerdi. Nasıl olacak da kendimde tutacağım? Cevabı KriptoCüzdan. 
 
-### E-cüzdan nasıl çalışıyor?
+### KriptoCüzdan nasıl çalışıyor?
+
+İşin en başından başlar isek. Hatırlarsanız, daha önceki yazılarımızda Bitcoin örneğinden yola çıkarak, bir kişinin diğerine nasıl para gönderdiğini anlatmıştık. Kısaca hatırlatırsak, Blockchain kendi sistemi üzerinden geçen işlemleri binlerce makine üzerinde tutan bir sistem idi. 
+
+Bu sistemde, kullanıcı kişilerin adı belli değil, blinmiyorlar, sadece kendilerine ait adresleri var (aynı e-posta adresi gibi). Bu adreslere gönderilen paralar, bu adreslerin gönderdiği paralar ise sistem üzerinden şeffaf bir şekilde tutuluyor yani herkesin görebileceği şekilde ulaşılır (hem de Bitcoin'in başladığı 2009 yılına kadar). 
+
+Bu adreslere girebilmek için ise kendimize ait Özel ve Genel Anahtarlar kullanıyoruz. Bir nevi e-posta adresine girmek için kullandığımız kullanıcı adı ve şifre gibi düşünün. Kullanıcı adını Genel Anahtar'a, şifreyi ise Özel Anahtar'a benzetmek çok da yanlış olmaz. Kullanıcı adını herkese verebilirsiniz (ki size e-posta, ya da burada KriptoPara göndersinler), ama şifrenizi kimseye söylememelisiniz (ki hesabınıza girip mesajlarınızı okumasınlar ya da buradaki örnekte KriptoParanızı yürütmesinler). İşte KriptoCüzdan dediğimiz bu Özel ve Genel Anahtarları depolayan yer. 
+
 
 
 
