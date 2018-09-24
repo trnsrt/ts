@@ -101,7 +101,7 @@ Yukarıdaki üç opsiyonda da bir "kaybolma" senaryosu var. web sitesinin şifre
 
 4. Eğer büyük yatırımcı iseniz ve uzun vadeli olarak KriptoPara tutacaksanız, o zaman Fiziki Cüzdan almak
 
-5. Eğer çok kuşkucu ve hiçbir teknolojik alete güvenmiyorsanız, o zaman kağı
+5. Eğer çok kuşkucu ve hiçbir teknolojik alete güvenmiyorsanız, o zaman yukarıdaki son alternatif olan kağıt kaleme sarılın. Yazın Özel ve Genel Anahtarınızı bir kenara, sonrasında kağıdı kaybetmeyin yeter. 
 
 
 
