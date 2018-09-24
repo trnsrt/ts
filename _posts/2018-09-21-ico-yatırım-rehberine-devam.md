@@ -7,7 +7,7 @@ categories: Genel
 
 
 
-Geçtiğimiz [yazıda] Kripto Dünyası'nın yatırım aracı olan Token'lar yani KriptoParalar'a yatırım yapmadan önce nelere dikkat etmeliyize göz atmaya başlamıştık. 
+Geçtiğimiz [yazıda](https://ademimerkezi.com/genel/2018/09/14/ico-yat%C4%B1r%C4%B1m-rehberi.html) Kripto Dünyası'nın yatırım aracı olan Token'lar yani KriptoParalar'a yatırım yapmadan önce nelere dikkat etmeliyize göz atmaya başlamıştık. 
 
 Kısaca kendi araştımanızı yapmanın önemine değinmiş ve konuları şu şekilde sıralamıştık. 
 
