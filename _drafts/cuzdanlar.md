@@ -72,28 +72,38 @@ Bu adreslere girebilmek için ise kendimize ait Özel ve Genel Anahtarlar kullan
 
 KriptoCüzdan'ın pek çok çeşidi var ve bir sonraki bölümde onlardan bahsedeceğiz. Ama nasıl çalıştığına gelince aslında basit. Kullanacağınız KriptoParayı taşıyabilecek bir KriptoCüzdan yaratmak demek, size ait bir Genel Anahtar ile bu KriptoPara'nın bulunduğu Blockchain sistemine kayıt yaptırmak demek. Sonrasında Genel Anahtarı kullanarak buraya arkadaşınız tarafından para gönderilmesini sağlayabilir, sistem içinde ne kadar paranız olduğuna bakabilir, ya da KripoPara borsasından almış olduğunuz KriptoParaları sadece kendinize ait olan bu KriptoCüzdan'a çekebilirsiniz. 
 
+### Arkası Yarın
+
+Bir sonraki yazıda da KriptoCüzdan çeşitlerine, fayda ve risklerine değinelim ki, hangi KriptoCüzdan size uygun, bilgili bir şekilde karar verebilin.. 
 
 
 
 # Yazı III
 
+Geçtiğimiz iki yazıda, önce KriptoBorsalar'dan nasıl KriptoPara alabileceğimize, sonraki yazıda ise KriptoCüzdan ne demek ona bakmıştık. Bu yazımızda ise KriptoCüzdan çeşitlerine bakıp, farklı 
+
+
+
 ### KriptoCüzdan nasıl yaratılıyor? Çeşitleri ne? Güvenli mi?
 
 KriptoCüzdan'ların hangi araç üzerinde yarattığınıza göre değişen farklı çeşitleri var. Nelermiş kısaca bakalım: 
 
-#### KriptoCüzdan çeşitleri
+#### Web sitesi üzerinden
+Bir web sitesine giriyorsunuz (örneğin [Blockchain Info](https://www.blockchain.com). Oradan kendinize bir kullanıcı adı ve şifre alıyorsunuz. Site size otomatik olarak Özel ve Genel Anahtar yaratıyor. Sonrasında buradaki hesabınıza KriptoPara (bu site örneğinde Bitcoin ve Ethereum) gönderebilir ve alabilirsiniz. Bir bankanın online websitesinden bir farkı yok. Rahat, pratik. Sıkıntısı, online bir site olduğu için yarın öbür gün bir sitenin hack edilmesi (yani bilgilerin dışarı sızdırılması). Ufak bir ihtimal, ancak sonuç olarak burası da bir merkezi sistem. 
 
-a. Internet üzerinden: Bir web sitesine giriyorsunuz (örneğin [Blockchain Info](https://www.blockchain.com). Oradan kendinize bir kullanıcı adı ve şifre alıyorsunuz. Site size otomatik olarak Özel ve Genel Anahtar yaratıyor. Sonrasında buradaki hesabınıza KriptoPara (bu site örneğinde Bitcoin ve Ethereum) gönderebilir ve alabilirsiniz. Bir bankanın online websitesinden bir farkı yok. Rahat, pratik. Sıkıntısı, online bir site olduğu için yarın öbür gün bir sitenin hack edilmesi (yani bilgilerin dışarı sızdırılması). Ufak bir ihtimal, ancak sonuç olarak burası da bir merkezi sistem. 
+#### Bilgisayar ile 
+Güvenilir bir yazılım programı buluyorsunuz ve bu programı bilgisayarınıza yüklüyorsunuz ve burada Özel ve Genel Anahtarlarınızı yaratıyorsunuz. Sonra bu program üzerinden KriptoPara gönderebiliyor ya da alabiliyorsunuz. Bu tip yazılımlar için Açık Kaynak ve bildiğiniz yazılımları tavsiye ederim. Kendi kullandığım programın adı [Electrum](https://electrum.org/#home), ancak hiçbir şekilde güvenliği konusunda garanti veremem. Kendi araştırmanızı yapmanızı ve içinizin rahat edeceği bir programı kullanmanızı tavsiye ederim. Güvenilir bir yöntem ancak bilgisayarınıza dışarıdan bağlantı yapılır, bilgileriniz çalınırsa sıkıntı çekebilirsiniz. Hızlı davranırsanız dünyanın sonu değil, KriptoCüzdanı nasıl yerine koyacaksınız bir sonraki bölüme bakabilirsiniz. 
 
-b. Bilgisayarınız üzerinden: Güvenilir bir yazılım programı buluyorsunuz ve bu programı bilgisayarınıza yüklüyorsunuz ve burada Özel ve Genel Anahtarlarınızı yaratıyorsunuz. Sonra bu program üzerinden KriptoPara gönderebiliyor ya da alabiliyorsunuz. Bu tip yazılımlar için Açık Kaynak ve bildiğiniz yazılımları tavsiye ederim. Kendi kullandığım programın adı [Electrum](https://electrum.org/#home), ancak hiçbir şekilde güvenliği konusunda garanti veremem. Kendi araştırmanızı yapmanızı ve içinizin rahat edeceği bir programı kullanmanızı tavsiye ederim. Güvenilir bir yöntem ancak bilgisayarınıza dışarıdan bağlantı yapılır, bilgileriniz çalınırsa sıkıntı çekebilirsiniz. Hızlı davranırsanız dünyanın sonu değil, KriptoCüzdanı nasıl yerine koyacaksınız bir sonraki bölüme bakabilirsiniz. 
+#### Mobil üzerinden
+Cep telefonunuza App Store ya da Google Play üzerinden program yükleyip (örneğin [My Celium](https://wallet.mycelium.com/)) KriptoParanızı cep telefonunuzda taşıyabilirsiniz. Oldukça pratik bir yöntem ama yukarıda olduğu gibi telefonunuza dışarıdan bağlantı yapılıp bilgileriniz çalınırsa sıkıntı çekebilirsiniz. 
 
-c. Cep telefonunuz üzerinden: Cep telefonunuza App Store ya da Google Play üzerinden program yükleyip (örneğin [My Celium](https://wallet.mycelium.com/)) KriptoParanızı cep telefonunuzda taşıyabilirsiniz. Oldukça pratik bir yöntem ama yukarıda olduğu gibi telefonunuza dışarıdan bağlantı yapılıp bilgileriniz çalınırsa sıkıntı çekebilirsiniz. 
+#### Fiziki (Hardware Wallet)
+Bunlar günlük hayatta kullandığımız USB cinsi küçük ekipmanlar. Özel ve Genel Anahtarınızı burada yaratıp, işlem yapmak istedikçe bu USB çubuğunu bilgisayara takıyor ve online (çevrim içi) olarak kullanıyorsunuz. İşiniz bitince çubuğu çıkarıp offline (çevrim dışı) oluyor ve online dünyadan gelecek tehlikelere karşı kendinizi koruyorsunuz. Pratik ancak USB çubuklar oldukça pahalı. Eğer büyük miktarlarda KriptoParanız var ise, o zaman bu cüzdanlar tavsiye edilebilir. (Örnek: [Ledger](https://www.ledger.com/), [Trevor](https://trezor.io/))
 
-d. Fiziki cüzdanlar(Hardware wallets): Bunlar günlük hayatta kullandığımız USB cinsi küçük ekipmanlar. Özel ve Genel Anahtarınızı burada yaratıp, işlem yapmak istedikçe bu USB çubuğunu bilgisayara takıyor ve online (çevrim içi) olarak kullanıyorsunuz. İşiniz bitince çubuğu çıkarıp offline (çevrim dışı) oluyor ve online dünyadan gelecek tehlikelere karşı kendinizi koruyorsunuz. Pratik ancak USB çubuklar oldukça pahalı. Eğer büyük miktarlarda KriptoParanız var ise, o zaman bu cüzdanlar tavsiye edilebilir. (Örnek: [Ledger](https://www.ledger.com/), [Trevor](https://trezor.io/))
+#### Kağıt Kalem
+Gördünüz mü, yine geldik kalem kağıda :) İsterseniz kendiniz hiçbir programa sahip olmadan da Özel ve Genel Anahtar yaratabilirsiniz. Bunun için yapmanız gerek bu konuda uzmanlaşmış açık kaynak bazlı bir websitesine gidip (Bitcoin için [BitAddress](https://www.bitaddress.org), diğer KriptoParalar için [Wallet Generator](https://walletgenerator.net/) bir örnek olabilir) bir dakika içinde anahtarları yaratabilirsiniz. Sonrasında yapmanız gereken bu anahtarları bir kağıda not etmeniz. İşte bu kadar. Genel Anahtarı bir arkadaşınıza gönderip size KriptoPara göndermesini söyleyin. Sonrasında da [Blockchain Info](https://www.blockchain.com/en/explorer) ya da [Block Explorer](https://blockexplorer.com/) gibi halka açık adreslerden hesap hareketlerinizi inceleyin (tek yapmanız gereken sitedeki arama çubuğuna Genel Anahtarınızı girmek)
 
-e. Fiziki kağıt: Gördünüz mü, yine geldik kalem kağıda :) İsterseniz kendiniz hiçbir programa sahip olmadan da Özel ve Genel Anahtar yaratabilirsiniz. Bunun için yapmanız gerek bu konuda uzmanlaşmış açık kaynak bazlı bir websitesine gidip (Bitcoin için [BitAddress](https://www.bitaddress.org), diğer KriptoParalar için [Wallet Generator](https://walletgenerator.net/) bir örnek olabilir) bir dakika içinde anahtarları yaratabilirsiniz. Sonrasında yapmanız gereken bu anahtarları bir kağıda not etmeniz. İşte bu kadar. Genel Anahtarı bir arkadaşınıza gönderip size KriptoPara göndermesini söyleyin. Sonrasında da [Blockchain Info](https://www.blockchain.com/en/explorer) ya da [Block Explorer](https://blockexplorer.com/) gibi halka açık adreslerden hesap hareketlerinizi inceleyin (tek yapmanız gereken sitedeki arama çubuğuna Genel Anahtarınızı girmek)
-
-#### Peki ya şifremi ya da bilgisayarımı/telefonumu kaybedersem?
+### Peki ya şifremi ya da bilgisayarımı/telefonumu kaybedersem?
 
 Yukarıdaki üç opsiyonda da bir "kaybolma" senaryosu var. web sitesinin şifresini unutabilirsiniz, bilgisayarınız çökebilir, cep telefonunuz çalınabilir. Yukarıdaki yazdığımız örneklerin hemen hepsinin bunun için çözümü benzer (en azından Bitcoin için geçerli bu). Size kayıt olurken (ya da Özel ve Genel Anahtarları yaratırken) 12 adet birbirinden bağımsız kelime veriyorlar. Bu kelimeleri bir yere (mümkünse bir kağıda) yazın ve bir kenarda saklayın. Olası bir kayıp yaşandığında, Özel ve Genel Anahtarlarınızı bu 12 kelimeyi doğru sıra ile yazmanız durumunda geri kazanabileceksiniz. 
 
