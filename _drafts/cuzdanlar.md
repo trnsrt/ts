@@ -95,29 +95,33 @@ Güvenilir bir yazılım programı buluyorsunuz ve bu programı bilgisayarınız
 #### Mobil üzerinden
 Cep telefonunuza App Store ya da Google Play üzerinden program yükleyip (örneğin [My Celium](https://wallet.mycelium.com/)) KriptoParanızı cep telefonunuzda taşıyabilirsiniz. Oldukça pratik bir yöntem ama yukarıda olduğu gibi telefonunuza dışarıdan bağlantı yapılıp bilgileriniz çalınırsa sıkıntı çekebilirsiniz. 
 
-#### Fiziki (Hardware Wallet)
-Bunlar günlük hayatta kullandığımız USB cinsi küçük ekipmanlar. Özel ve Genel Anahtarınızı burada yaratıp, işlem yapmak istedikçe bu USB çubuğunu bilgisayara takıyor ve online (çevrim içi) olarak kullanıyorsunuz. İşiniz bitince çubuğu çıkarıp offline (çevrim dışı) oluyor ve online dünyadan gelecek tehlikelere karşı kendinizi koruyorsunuz. Pratik ancak USB çubuklar oldukça pahalı. Eğer büyük miktarlarda KriptoParanız var ise, o zaman bu cüzdanlar tavsiye edilebilir. (Örnek: [Ledger](https://www.ledger.com/), [Trevor](https://trezor.io/))
+#### Fiziki Cüzdan (Hardware Wallet)
+Bunlar günlük hayatta kullandığımız USB cinsi küçük ekipmanlar. Özel ve Genel Anahtarınızı burada yaratıp, işlem yapmak istedikçe bu USB çubuğunu bilgisayara takıyor ve online (çevrim içi) olarak kullanıyorsunuz. İşiniz bitince çubuğu çıkarıp offline (çevrim dışı) oluyor ve dijital dünyadan gelecek tehlikelere karşı kendinizi koruyorsunuz. Pratik ancak USB çubuklar oldukça pahalı. Eğer büyük miktarlarda KriptoParanız var ise, o zaman bu cüzdanlar tavsiye edilebilir. (Örnek: [Ledger](https://www.ledger.com/), [Trevor](https://trezor.io/))
 
 #### Kağıt Kalem
-Gördünüz mü, yine geldik kalem kağıda :) İsterseniz kendiniz hiçbir programa sahip olmadan da Özel ve Genel Anahtar yaratabilirsiniz. Bunun için yapmanız gerek bu konuda uzmanlaşmış açık kaynak bazlı bir websitesine gidip (Bitcoin için [BitAddress](https://www.bitaddress.org), diğer KriptoParalar için [Wallet Generator](https://walletgenerator.net/) bir örnek olabilir) bir dakika içinde anahtarları yaratabilirsiniz. Sonrasında yapmanız gereken bu anahtarları bir kağıda not etmeniz. İşte bu kadar. Genel Anahtarı bir arkadaşınıza gönderip size KriptoPara göndermesini söyleyin. Sonrasında da [Blockchain Info](https://www.blockchain.com/en/explorer) ya da [Block Explorer](https://blockexplorer.com/) gibi halka açık adreslerden hesap hareketlerinizi inceleyin (tek yapmanız gereken sitedeki arama çubuğuna Genel Anahtarınızı girmek)
+Gördünüz mü, yine geldik kalem kağıda :) İsterseniz kendiniz hiçbir programa sahip olmadan da Özel ve Genel Anahtar yaratabilirsiniz. Bunun için yapmanız gerek bu konuda uzmanlaşmış açık kaynak bazlı bir websitesine gidip (Bitcoin için [BitAddress](https://www.bitaddress.org), diğer KriptoParalar için [Wallet Generator](https://walletgenerator.net/) bir örnek olabilir) bir dakika içinde anahtarları yaratabilirsiniz. Sonrasında yapmanız gereken bu anahtarları bir kağıda not etmeniz. İşte bu kadar. Genel Anahtarı bir arkadaşınıza gönderip size KriptoPara göndermesini söyleyin. Sonrasında da [Blockchain Info](https://www.blockchain.com/en/explorer) ya da [Block Explorer](https://blockexplorer.com/) gibi halka açık adreslerden hesap hareketlerinizi inceleyin (tek yapmanız gereken sitedeki arama çubuğuna Genel Anahtarınızı girmek). Satmak istediğinizde ise yine [Blockchain Info](https://www.blockchain.com/en/explorer) gibi bir siteyi kullanıp paranızı istediğiniz bir KriptoBorsa hesabına gönderebilirsiniz. 
 
 ### Peki ya şifremi ya da bilgisayarımı/telefonumu kaybedersem?
 
-Yukarıdaki üç alternatifte de bir "kaybolma" senaryosu var. Web sitesinin şifresini unutabilirsiniz, bilgisayarınız çökebilir, cep telefonunuz çalınabilir. Hemen hepsinin bu tür durumlar için benzer çözümleri var (en azından Bitcoin için geçerli bu). Size kayıt olurken (ya da Özel ve Genel Anahtarları yaratırken) 12 adet birbirinden bağımsız kelime veriyorlar. Bu kelimeleri bir yere (mümkünse bir kağıda) yazın ve bir kenarda saklayın. Olası bir kayıp yaşandığında, Özel ve Genel Anahtarlarınızı bu 12 kelimeyi doğru sıra ile yazmanız durumunda geri kazanabileceksiniz. 
+Yukarıdaki ilk üç alternatifte de bir "kaybolma" senaryosu var. Web sitesinin şifresini unutabilirsiniz, bilgisayarınız çökebilir, cep telefonunuz çalınabilir. Hemen hepsinin bu tür durumlar için benzer çözümleri var (en azından Bitcoin için geçerli bu). Size kayıt olurken (ya da Özel ve Genel Anahtarları yaratırken) 12 adet birbirinden bağımsız kelime veriyorlar. Bu kelimeleri bir yere (mümkünse bir kağıda) yazın ve bir kenarda saklayın. Olası bir kayıp yaşandığında, Özel ve Genel Anahtarlarınızı bu 12 kelimeyi doğru sıra ile yazmanız durumunda geri kazanabileceksiniz. Fiziki Cüzdanların çok farklı felaket senaryosu çözümleri var, her bir üreticinin sayfasına bakabilirsiniz. Son alternatif, kağıtta ise kağıdı alıp ağzı bağlı bir torbaya koyun (ki su baskını gibi durumda ıslanıp yazılar okunaksız bir hale gelmesin) ve sakın kaybetmeyin, kaybettiğiniz noktada geri dönüş yok. 
 
 ### KriptoCüzdan güvenli mi?
 
-İşin özünde KriptoCüzdanlar oldukça güvenli araçlar. Yukarıda bahsettiğimiz kötü senaryoların herhangi biri bankada işlem yaparsanız da başınıa gelebilir. Önemli olan gerekli önlemleri baştan almak. Nedir bu önlemler?
+İşin özünde KriptoCüzdanlar oldukça güvenli araçlar. Yukarıda bahsettiğimiz kötü senaryoların herhangi biri bankada işlem yaparsanız da başınıza gelebilir. Bankada genelde bu tip senaryolarda yetkililer ile konuşup kaybettiğiniz parayı geri alma ihtimaliniz var. KriptoPara dünyasında ise böyle konuşacağınız bir mercii yok. O nedenle kritik olan gerekli önlemleri baştan almak. Nedir bu önlemler?
 
 1. Yukarıda bahsettiğim 12 kelimeyi unutmayacağınız bir köşede tutmak
 
-2. Pratik olması bakımından işlem yapmayı planladığınız ufak miktarı KriptoBorsa'da tutmak - ki böylece ani değişimlerde hızlıca işlem yapabilin
+2. Pratik olması bakımından işlem yapmayı planladığınız ufak bir miktarı KriptoBorsa'da tutmak - ki böylece ani değişimlerde hızlıca işlem yapabilin
 
-3. Göreceli daha büyük ama yine işlem yapacağınız miktarı bilgisayar ya da cep telefonunda tutmak. Burada da işlem yapmak için parayı KriptoBorsa'ya göndermeniz gerekli ve bu da bir miktar zaman (genelde on dakika ama bazen uzayabilir) alıyor. Hemen işlem yapamıyorsunuz. 
+3. Göreceli daha büyük ama yine işlem yapabileceğiniz bir miktarı bilgisayar ya da cep telefonunda tutmak. Burada da işlem yapmak için parayı KriptoBorsa'ya göndermeniz gerekli ve bu da bir süre (genelde on dakika ama bazen uzayabilir) alıyor. Hemen işlem yapamıyorsunuz. 
 
 4. Eğer büyük yatırımcı iseniz ve uzun vadeli olarak KriptoPara tutacaksanız, Fiziki Cüzdan (Hardware Wallet) almak
 
-5. Eğer çok kuşkucu ve hiçbir teknolojik alete güvenmiyorsanız, o zaman yukarıdaki son alternatif olan kağıt kaleme sarılın. Yazın Özel ve Genel Anahtarınızı bir kenara, sonrasında kağıdı kaybetmeyin yeter. 
+5. Eğer çok kuşkucu biriyseniz ve hiçbir teknolojik alete güvenmiyorsanız, o zaman yukarıdaki son alternatif olan kağıt kaleme sarılın. Yazın Özel ve Genel Anahtarınızı bir kenara, sonrasında kağıdı kaybetmeyin yeter. 
+
+### Sonuç
+
+Bitcoin ve diğer KriptoParaları almak aslında oldukça basit. Başlangıçta prosedurler gözünüzü korkutmasın. Her adımda açıklayıcı bilgiler bulmak mümkün. Yukarıdaki alternatiflerden size en uygununu seçin ve Şifreli Harikalar Dünyası'nda yol almaya başlayın.
 
 
 
