@@ -82,17 +82,15 @@ Bir sonraki yazıda da KriptoCüzdan çeşitlerine, fayda ve risklerine değinel
 
 Geçtiğimiz iki yazıda, önce KriptoBorsalar'dan nasıl KriptoPara alabileceğimize, sonraki yazıda ise KriptoCüzdan ne demek ona bakmıştık. Bu yazımızda ise KriptoCüzdan çeşitlerine bakıp, farklı 
 
-
-
 ### KriptoCüzdan nasıl yaratılıyor? Çeşitleri ne? Güvenli mi?
 
 KriptoCüzdan'ların hangi araç üzerinde yarattığınıza göre değişen farklı çeşitleri var. Nelermiş kısaca bakalım: 
 
 #### Web sitesi üzerinden
-Bir web sitesine giriyorsunuz (örneğin [Blockchain Info](https://www.blockchain.com). Oradan kendinize bir kullanıcı adı ve şifre alıyorsunuz. Site size otomatik olarak Özel ve Genel Anahtar yaratıyor. Sonrasında buradaki hesabınıza KriptoPara (bu site örneğinde Bitcoin ve Ethereum) gönderebilir ve alabilirsiniz. Bir bankanın online websitesinden bir farkı yok. Rahat, pratik. Sıkıntısı, online bir site olduğu için yarın öbür gün bir sitenin hack edilmesi (yani bilgilerin dışarı sızdırılması). Ufak bir ihtimal, ancak sonuç olarak burası da bir merkezi sistem. 
+Bir web sitesine giriyorsunuz (örneğin [Blockchain Info](https://www.blockchain.com)). Oradan kendinize bir kullanıcı adı ve şifre alıyorsunuz. Site size otomatik olarak Özel ve Genel Anahtar yaratıyor. Sonrasında buradaki hesabınıza KriptoPara (bu site örneğinde Bitcoin ve Ethereum) gönderebilir ve alabilirsiniz. Bir bankanın online websitesinden bir farkı yok. Rahat, pratik. Sıkıntısı, online bir site olduğu için yarın öbür gün bir sitenin hack edilmesi (yani bilgilerin dışarı sızdırılması). Ufak bir ihtimal, ancak sonuç olarak burası da merkezi bir sistem. 
 
 #### Bilgisayar ile 
-Güvenilir bir yazılım programı buluyorsunuz ve bu programı bilgisayarınıza yüklüyorsunuz ve burada Özel ve Genel Anahtarlarınızı yaratıyorsunuz. Sonra bu program üzerinden KriptoPara gönderebiliyor ya da alabiliyorsunuz. Bu tip yazılımlar için Açık Kaynak ve bildiğiniz yazılımları tavsiye ederim. Kendi kullandığım programın adı [Electrum](https://electrum.org/#home), ancak hiçbir şekilde güvenliği konusunda garanti veremem. Kendi araştırmanızı yapmanızı ve içinizin rahat edeceği bir programı kullanmanızı tavsiye ederim. Güvenilir bir yöntem ancak bilgisayarınıza dışarıdan bağlantı yapılır, bilgileriniz çalınırsa sıkıntı çekebilirsiniz. Hızlı davranırsanız dünyanın sonu değil, KriptoCüzdanı nasıl yerine koyacaksınız bir sonraki bölüme bakabilirsiniz. 
+Güvenilir bir yazılım programı buluyorsunuz ve bu programı bilgisayarınıza yüklüyorsunuz. Program içinde Özel ve Genel Anahtarlarınızı yaratıyorsunuz. Sonra bu program üzerinden KriptoPara gönderebiliyor ya da alabiliyorsunuz. Bu tip yazılımların özellikle Açık Kaynak  yazılımlar olmasına dikkat etmek gerek. Bu satırların yazarı [Electrum](https://electrum.org/#home) isimli programı kullanıyor ancak hiçbir şekilde güvenliği konusunda garanti verilmez. Kendi araştırmanızı yapmanızı ve içinizin rahat edeceği bir programı kullanmanız tavsiye olunur. Güvenilir bir yöntem ancak bilgisayarınıza dışarıdan bağlantı yapılır, bilgileriniz çalınırsa sıkıntı çekebilirsiniz. Hızlı davranırsanız dünyanın sonu değil, KriptoCüzdanı nasıl kurtarırsnız bir sonraki bölüme bakabilirsiniz. 
 
 #### Mobil üzerinden
 Cep telefonunuza App Store ya da Google Play üzerinden program yükleyip (örneğin [My Celium](https://wallet.mycelium.com/)) KriptoParanızı cep telefonunuzda taşıyabilirsiniz. Oldukça pratik bir yöntem ama yukarıda olduğu gibi telefonunuza dışarıdan bağlantı yapılıp bilgileriniz çalınırsa sıkıntı çekebilirsiniz. 
@@ -105,7 +103,7 @@ Gördünüz mü, yine geldik kalem kağıda :) İsterseniz kendiniz hiçbir prog
 
 ### Peki ya şifremi ya da bilgisayarımı/telefonumu kaybedersem?
 
-Yukarıdaki üç opsiyonda da bir "kaybolma" senaryosu var. web sitesinin şifresini unutabilirsiniz, bilgisayarınız çökebilir, cep telefonunuz çalınabilir. Yukarıdaki yazdığımız örneklerin hemen hepsinin bunun için çözümü benzer (en azından Bitcoin için geçerli bu). Size kayıt olurken (ya da Özel ve Genel Anahtarları yaratırken) 12 adet birbirinden bağımsız kelime veriyorlar. Bu kelimeleri bir yere (mümkünse bir kağıda) yazın ve bir kenarda saklayın. Olası bir kayıp yaşandığında, Özel ve Genel Anahtarlarınızı bu 12 kelimeyi doğru sıra ile yazmanız durumunda geri kazanabileceksiniz. 
+Yukarıdaki üç opsiyonda da bir "kaybolma" senaryosu var. Web sitesinin şifresini unutabilirsiniz, bilgisayarınız çökebilir, cep telefonunuz çalınabilir. Yukarıdaki yazdığımız örneklerin hemen hepsinin bunun için çözümü benzer (en azından Bitcoin için geçerli bu). Size kayıt olurken (ya da Özel ve Genel Anahtarları yaratırken) 12 adet birbirinden bağımsız kelime veriyorlar. Bu kelimeleri bir yere (mümkünse bir kağıda) yazın ve bir kenarda saklayın. Olası bir kayıp yaşandığında, Özel ve Genel Anahtarlarınızı bu 12 kelimeyi doğru sıra ile yazmanız durumunda geri kazanabileceksiniz. 
 
 ### KriptoCüzdan güvenli mi?
 
