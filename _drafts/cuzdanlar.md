@@ -74,7 +74,7 @@ KriptoCüzdan'ın pek çok çeşidi var ve bir sonraki bölümde onlardan bahsed
 
 ### Arkası Yarın
 
-Bir sonraki yazıda da KriptoCüzdan çeşitlerine, fayda ve risklerine değinelim ki, hangi KriptoCüzdan size uygun, bilgili bir şekilde karar verebilin.. 
+Bir sonraki yazıda da KriptoCüzdan çeşitlerine, fayda ve risklerine değinelim ki, hangi KriptoCüzdan size uygun, bilgilenmiş bir şekilde karar verebilin.. 
 
 
 
@@ -103,7 +103,7 @@ Gördünüz mü, yine geldik kalem kağıda :) İsterseniz kendiniz hiçbir prog
 
 ### Peki ya şifremi ya da bilgisayarımı/telefonumu kaybedersem?
 
-Yukarıdaki üç opsiyonda da bir "kaybolma" senaryosu var. Web sitesinin şifresini unutabilirsiniz, bilgisayarınız çökebilir, cep telefonunuz çalınabilir. Yukarıdaki yazdığımız örneklerin hemen hepsinin bunun için çözümü benzer (en azından Bitcoin için geçerli bu). Size kayıt olurken (ya da Özel ve Genel Anahtarları yaratırken) 12 adet birbirinden bağımsız kelime veriyorlar. Bu kelimeleri bir yere (mümkünse bir kağıda) yazın ve bir kenarda saklayın. Olası bir kayıp yaşandığında, Özel ve Genel Anahtarlarınızı bu 12 kelimeyi doğru sıra ile yazmanız durumunda geri kazanabileceksiniz. 
+Yukarıdaki üç alternatifte de bir "kaybolma" senaryosu var. Web sitesinin şifresini unutabilirsiniz, bilgisayarınız çökebilir, cep telefonunuz çalınabilir. Hemen hepsinin bu tür durumlar için benzer çözümleri var (en azından Bitcoin için geçerli bu). Size kayıt olurken (ya da Özel ve Genel Anahtarları yaratırken) 12 adet birbirinden bağımsız kelime veriyorlar. Bu kelimeleri bir yere (mümkünse bir kağıda) yazın ve bir kenarda saklayın. Olası bir kayıp yaşandığında, Özel ve Genel Anahtarlarınızı bu 12 kelimeyi doğru sıra ile yazmanız durumunda geri kazanabileceksiniz. 
 
 ### KriptoCüzdan güvenli mi?
 
@@ -113,9 +113,9 @@ Yukarıdaki üç opsiyonda da bir "kaybolma" senaryosu var. Web sitesinin şifre
 
 2. Pratik olması bakımından işlem yapmayı planladığınız ufak miktarı KriptoBorsa'da tutmak - ki böylece ani değişimlerde hızlıca işlem yapabilin
 
-3. Göreceli daha büyük ama yine işlem yapacağınız miktarı bilgisayar ya da cep telefonunda tutmanız. Burada da işlem yapmak için parayı KriptoBorsa'ya göndermeniz gerekli ve bu da bir miktar zaman alıyor. Hemen işlem yapamıyorsunuz. 
+3. Göreceli daha büyük ama yine işlem yapacağınız miktarı bilgisayar ya da cep telefonunda tutmak. Burada da işlem yapmak için parayı KriptoBorsa'ya göndermeniz gerekli ve bu da bir miktar zaman (genelde on dakika ama bazen uzayabilir) alıyor. Hemen işlem yapamıyorsunuz. 
 
-4. Eğer büyük yatırımcı iseniz ve uzun vadeli olarak KriptoPara tutacaksanız, o zaman Fiziki Cüzdan almak
+4. Eğer büyük yatırımcı iseniz ve uzun vadeli olarak KriptoPara tutacaksanız, Fiziki Cüzdan (Hardware Wallet) almak
 
 5. Eğer çok kuşkucu ve hiçbir teknolojik alete güvenmiyorsanız, o zaman yukarıdaki son alternatif olan kağıt kaleme sarılın. Yazın Özel ve Genel Anahtarınızı bir kenara, sonrasında kağıdı kaybetmeyin yeter. 
 
