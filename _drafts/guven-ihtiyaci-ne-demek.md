@@ -54,3 +54,7 @@ Sistemin işleyişi şu şekilde oluyor
 
 
 Bu hizmeti karşılığı hem havale parası, hem hesap işlem ücreti altında para kesen bir aracı. Artı, güvenli olup olmadığı konusunda özellikle kriz zamanı soru işaretleri oluşan bir yapı. Sadece kriz zamanı değil kötü niyetin olduğu başka zamanları hatırlayın, örneğin [İmar Bankası'nın çifte hesap ile mevduatları yok ettiği zamanları](http://www.hurriyet.com.tr/ekonomi/yuzyilin-hayali-hesap-oyunu-38482858). 
+
+
+
+Not: Aslında enerji harcamanın dış tehditlere karşı korumak dışında önemli bir işlevi de var. "Para nedir, neden para değerli olur ya da değersizleşir?" sorularına yanıt ararken tarih boyunca gelişen örneklere baktığımızda, genelde iki önemli konu var. Birincisi, insanların elinde ne kadar para var. İkincisi, yeni ne kadar para yaratılabilir. Bu ikisi bir paranın değerini belirliyor. Neden? Çünkü insanlar belirsizlik sevmiyorlar - özellikle para ile ilgili konularda. Gelecekte de ellerindeki paranın kullanılabileceğini ve değerini koruyabileceğini bilmek istiyorlar. Bitcoin kendi içindeki mantığı gereği ne kadar stoğu olduğunu ve ne kadar daha yaratılacağını da tam olarak hesaplayabildiğimiz bir para. Bu da onu insanların gözünde değerli hale getiriyor. 
