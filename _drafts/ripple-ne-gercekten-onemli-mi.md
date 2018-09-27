@@ -23,7 +23,7 @@ XRP Ripple şirketi tarafından yaratılan ve RippleNet içinde kullanılması p
 
 ### İlişkileri ne?
 
-Ripple'in kendi sitesindeki [bilgiye göre](https://ripple.com/insights/difference-ripple-xrp/) ikisi kesinlikle farklı. Ripple ticari bir şirket iken, XRP bağımsız bir KriptoPara. Ripple şu anda XRP'inin %60'ini elinde tutuyor. 
+Ripple'in kendi sitesindeki [bilgiye göre](https://ripple.com/insights/difference-ripple-xrp/) ikisi kesinlikle farklı. Ripple ticari bir şirket iken, XRP bağımsız bir KriptoPara. Ripple şu anda XRP'inin %60'ini elinde tutuyor (ki bunun yaklaşık %90'inin bir escrow hesapta ileride kullanım için 
 
 
 
