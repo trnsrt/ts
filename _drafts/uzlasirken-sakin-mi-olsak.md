@@ -2,7 +2,7 @@
 
 Geçtiğimiz iki yazıda, birbirinden bağımsız olan ve Blockchain sisteminde aktif rol oynayan oyuncuların nasıl olup da birlikte hareket ettiklerinin üzerinden geçmiştik. Önce işin sistematiği (mantığı) nasıl çalışıyor sorusunu geçmişte ortaya çıkmış birbirine güvenmeyen Bizans Generalleri'nin düşmana karşı nasıl ortak hareket ettiğine bakmış, sonra da bu problemin Blockchain özelinde nasıl çözüldüğüne göz atmıştık. 
 
-### Kritik nokta
+### İşin özü
 
 Bilmemiz gereken kritik nokta şu: Meşhur Satoshi Nakamoto aslında üç noktayı bir araya getirdi. Birincisi, internet ile dağınık ve bağımsız durumda olan bir dünya vardı. İkincisi, bu dağıtık dünyadaki farklı parçaların birbiri ile güvenli iletişimi için Şifreleme (Kriptografi) geliştirilmişti. Bu ilk iki nokta zaten yaklaşık 20-30 yıllık bir süreç içinde geliştirilmişti. Üçüncü olarak da bu dünyadaki farklı parçaların ortada bir aracı olmadan nasıl çalışacağını (bu şekilde çalışmak için nasıl motive edileceklerini ve nasıl ortak karara varacaklarını) belirlemek gerekiyordu. Satoshi işte bu üçüncü noktayı geliştirdi ve bu üç parçayı birleştirdi. 
 
@@ -35,7 +35,6 @@ PoS işte bunun cevabını şu şekilde veriyor. Yapılan işlemlerin teyidi iç
 
 Bu konuda tartışmalar halen devam etmekte. Proof-of-Stake'i kullanacak olan Ethereum geliştiricileri konu üzerinde çalışmaya devam ediyorlar. Bunun dışında Cardano, OmiseGo, QTUM, Ardor PoS kullanıyorlar. Bir de PoS ile PoW'yi karışık şekilde kullananlar var (Decred, Dash, Stratis, HShare, Pivx gibi)
 
-
 ### Ve diğerleri:
 
 Blockchain gibi değişik bazlı parçaların birbiri ile nasıl çalışacaklarına ilişkin çalışmalar sadece PoW ve PoS ile sınırlı değil tabii.. Teknoloji alanında bir sorun olduğunda onlarca çözüm ortaya çıkar.. Neler onlar derseniz, sadece isimlerini ve kimlerin kullandığını belirtelim: 
@@ -50,17 +49,7 @@ Blockchain gibi değişik bazlı parçaların birbiri ile nasıl çalışacaklar
 
 ve diğerleri: DirectedAcyclicGraphs (DAG), ProofofImportance (POI), Proof-of-Elapsed-Time (POET), Leased-Proof-of-Stake (LPos), PracticalByzantineFaultTolerance (PBFT), SimplifiedByzantineFaultTolerance (SBFT)
 
-
-
-
-### Hashgraph Protocol
-
-
-
-
-
-
-
+### Sonuç
 
 Yeni teknolojiler ile ilgili hep söylediğimizi tekrar edelim. Bu tip teknolojilerin olgunlaşması zaman alıyor ama güzel tarafı, herhangi bir sistemde bir eksiklik görüldüğünde (ya da hissedildiğinde) hemen birilerin onun üzerinde çalışmaya başlıyorlar. Hatta eksiklik bir demeyelim "daha verimli, daha kolay" bir çözüm arayışı sürekli var. Bu da aslında bu sistemlerin gücü. Zira sürekli bir ilerleme ve gelişme var. Kırk yıldır kullanılan eski sistemlere göre ne kadar büyük bir rahatlık düşünsenize.. 
 
@@ -69,9 +58,3 @@ Yeni teknolojiler ile ilgili hep söylediğimizi tekrar edelim. Bu tip teknoloji
 
 
 
-
-
-
-
-
-Not: Aslında enerji harcamanın dış tehditlere karşı korumak dışında önemli bir işlevi de var. "Para nedir, neden para değerli olur ya da değersizleşir?" sorularına yanıt ararken tarih boyunca gelişen örneklere baktığımızda, genelde iki önemli konu var. Birincisi, insanların elinde ne kadar para var. İkincisi, yeni ne kadar para yaratılabilir. Bu ikisi bir paranın değerini belirliyor. Neden? Çünkü insanlar belirsizlik sevmiyorlar - özellikle para ile ilgili konularda. Gelecekte de ellerindeki paranın kullanılabileceğini ve değerini koruyabileceğini bilmek istiyorlar. Bitcoin kendi içindeki mantığı gereği ne kadar stoğu olduğunu ve ne kadar daha yaratılacağını da tam olarak hesaplayabildiğimiz bir para. Bu da onu insanların gözünde değerli hale getiriyor. 
