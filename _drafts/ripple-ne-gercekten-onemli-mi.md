@@ -4,3 +4,11 @@
 ### Ripple nedir?
 
 Efendim, Ripple özet olarak SWIFT sisteminin yerine geçmeyi amaçlayan bir yapı. Biliyorsunuz SWIFT sistemi uluslararası para transferinde bankaların kullandığı araç. Oldukça pahalı ve işlemlerin sonuçlanması günler sürebiliyor.  
+
+&nbsp;
+
+| ![ripple-chart.png](/assets/ripple-chart.png) | 
+|:--:| 
+| *Kaynak [Coindesk](https://www.coindesk.com/market-center/xrp/)* | 
+
+&nbsp;
