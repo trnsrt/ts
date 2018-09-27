@@ -41,35 +41,14 @@ Bu konuda tartışmalar halen devam etmekte. Proof-of-Stake'i kullanacak olan Et
 Blockchain gibi değişik bazlı parçaların birbiri ile nasıl çalışacaklarına ilişkin çalışmalar sadece PoW ve PoS ile sınırlı değil tabii.. Teknoloji alanında bir sorun olduğunda onlarca çözüm ortaya çıkar.. Neler onlar derseniz, sadece isimlerini ve kimlerin kullandığını belirtelim: 
 
 - Delegated-Proof-of-Stake (DPos) - BitShares, Steemit (sahipleri aynı bu ikisinin), EOS
-- SimplifiedByzantineFaultTolerance (SBFT) - NEO
+- DeligatedByzantineFaultTolerance (DBFT) - NEO
 - ProofofActivity (PoA) - Digital Note, Vechain
 - ProofofCapacity (PoC) - Burstcoin
 - ProofofBurn (PoB) - Slimcoin
 - ProofofRun (PoR) - Runcoin
 - ProofofAssignment - IOTW
 
-
-### Proof-of-Elapsed-Time (POET)
-
-### 
-
-### Leased-Proof-of-Stake (LPos)
-
-### PracticalByzantineFaultTolerance (PBFT)
-
-### 
-
-### DeligatedByzantineFaultTolerance (DBFT)
-
-### DirectedAcyclicGraphs (DAG)
-
-### ProofofActivity (#POA)
-
-### ProofofImportance (#POI) 
-
-### 
-
-### 
+ve diğerleri: DirectedAcyclicGraphs (DAG), ProofofImportance (POI), Proof-of-Elapsed-Time (POET), Leased-Proof-of-Stake (LPos), PracticalByzantineFaultTolerance (PBFT), SimplifiedByzantineFaultTolerance (SBFT)
 
 
 
