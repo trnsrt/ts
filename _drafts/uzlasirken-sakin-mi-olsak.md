@@ -2,10 +2,18 @@
 
 Geçtiğimiz iki yazıda, birbirinden bağımsız olan ve Blockchain sisteminde aktif rol oynayan oyuncuların nasıl olup da birlikte hareket ettiklerinin üzerinden geçmiştik. Önce işin sistematiği (mantığı) nasıl çalışıyor sorusunu geçmişte ortaya çıkmış birbirine güvenmeyen Bizans Generalleri'nin düşmana karşı nasıl ortak hareket ettiğine bakmış, sonra da bu problemin Blockchain özelinde nasıl çözüldüğüne göz atmıştık. 
 
+### Kritik nokta
+
+Bilmemiz gereken kritik nokta şu: Meşhur Satoshi Nakamoto aslında üç noktayı bir araya getirdi. Birincisi, internet ile dağınık ve bağımsız durumda olan bir dünya vardı. İkincisi, bu dağıtık dünyadaki farklı parçaların birbiri ile güvenli iletişimi için Şifreleme (Kriptografi) geliştirilmişti. Bu ilk iki nokta zaten yaklaşık 20-30 yıllık bir süreç içinde geliştirilmişti. Üçüncü olarak da bu dünyadaki farklı parçaların ortada bir aracı olmadan nasıl çalışacağını (bu şekilde çalışmak için nasıl motive edileceklerini ve nasıl ortak karara varacaklarını) belirlemek gerekiyordu. Satoshi işte bu üçüncü noktayı geliştirdi ve bu üç parçayı birleştirdi. 
+
+Sonuç olarak Bitcoin ile bir para yarattı, Blockchain teknolojisini bunun altyapısında kullandı ve bu altyapı çalıştıracak oyuncuların bir arada çalışmasını sağlayacak bir teşvik sistemi kurdu. Daha önce yapılamayan bu son parça idi. Nasıl dağınık yapıdaki parçalar ortada bir aracı olmadan bir arada çalışabilir - işte Bitcoin bu sorunu çözdü ve aracıya olan ihtiyacı kaldırdı. 
+
+
 ### Bitcoin'in meşhur ettiği Proof-of-Work
 
-Tabii, Blockchain bazlı dağıtık sistemlerin en meşhuru olan Bitcoin üzerinde bu ortak hareket etme mekanizması olan Proof-of-Work (pOW)  sistemini anlatırken, bunun aslında çok enerji harcayan bir süreç olduğundan bahsetmiştik. Olaylara maalesef yüzeysel olarak bakan medya, bunu "[Bitcoin 159 ülkeden fazla enerji harcıyor](https://www.cnnturk.com/ekonomi/kripto-para/bitcoin-islemleri-159-ulkeden-fazla-enerji-tuketiyor)" ya da "[İzlanda finans bakanı Bitcoin'in ülkede yerleşim bölgelerindekinden fazla tüketimi olduğu konusunda uyarıda bulundu](https://www.wired.co.uk/article/bitcoin-mining-energy-consumption-new-york)" gibi başlıklar ile veriyor. Hakikaten nedir derseniz, [şu yazıda](https://www.ofnumbers.com/2018/08/26/how-much-electricity-is-consumed-by-bitcoin-bitcoin-cash-ethereum-litecoin-and-monero/#footnote_0_5656) detayları var. Özeti: Bitcoin [elektrik harcaması olarak dünyada 37. sıradaki Avusturya'dan daha fazla ](http://www.wikizero.co/index.php?q=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTGlzdF9vZl9jb3VudHJpZXNfYnlfZWxlY3RyaWNpdHlfY29uc3VtcHRpb24).  
+Proof-of-Work dediğimiz de işte bu parçaların nasıl çalışacağını (sisteme nasıl gireceğini ve neler yapması gerektiğini) belirleyen sistem. O nedenle önemli. Konsensus mekanizmasının çalışması ise, bu bahsettiğimiz makinelerin bu POW'ye göre sistemi girip birlikte çalışıp, o an için oluşan Blockchain zincirlerinden en uzununa doğru evrilmesi, o zincir üzerinde mutabakat sağlanması. Bunun otomatik olması, ve bir aracıya ihtiyaç duyulmaması. 
 
+Tabii, Blockchain bazlı dağıtık sistemlerin en meşhuru olan Bitcoin üzerinde bu ortak hareket etme temellerini belirleyen olan Proof-of-Work (pOW)  sistemini anlatırken, bunun aslında çok enerji harcayan bir süreç olduğundan bahsetmiştik. Olaylara maalesef yüzeysel olarak bakan medya, bunu "[Bitcoin 159 ülkeden fazla enerji harcıyor](https://www.cnnturk.com/ekonomi/kripto-para/bitcoin-islemleri-159-ulkeden-fazla-enerji-tuketiyor)" ya da "[İzlanda finans bakanı Bitcoin'in ülkede yerleşim bölgelerindekinden fazla tüketimi olduğu konusunda uyarıda bulundu](https://www.wired.co.uk/article/bitcoin-mining-energy-consumption-new-york)" gibi başlıklar ile veriyor. Hakikaten nedir derseniz, [şu yazıda](https://www.ofnumbers.com/2018/08/26/how-much-electricity-is-consumed-by-bitcoin-bitcoin-cash-ethereum-litecoin-and-monero/#footnote_0_5656) detayları var. Özeti: Bitcoin [elektrik harcaması olarak dünyada 37. sıradaki Avusturya'dan daha fazla ](http://www.wikizero.co/index.php?q=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTGlzdF9vZl9jb3VudHJpZXNfYnlfZWxlY3RyaWNpdHlfY29uc3VtcHRpb24).  
 
 Bitcoin'in sadık kullanıcıları böyle bir enerji harcamanın uzlaşma mekanizmasının işlemesi için değil ama bu işleyen mekanizmanın dışarıdan sistemi bozmak isteyecek bir tehdite karşı kendini savunma mekanizması olduğunu belirtiyorlar. Zira, uzlaşma mekanizmasının kilit noktası sistem üzerindeki parçaların %51'inin ortak bir kabul üzerinden ilerlemesi şeklinde. Nedir bu kabul? Son 10 dakikada gerçekleşen işlemlerin herkeste aynı şekilde tutulması, tutarlı ve aynı olması. 
 
@@ -19,21 +27,37 @@ Peki bu kadar enerji harcamaya gerek var mı? Başka başka yöntemlerle de maki
 
 Proof-of-Stake yukarıda bahsettiğimiz Bitcoin'in Proof-of-Work mekanizmasına en ciddi rakip. 
 
-Farkını anlatmak için PoW'nun ne yaptığını tekrar hatırlatalım. Siz eğer Bitcoin'i bozmak gibi bir çabaya girerseniz, tüm Bitcoin'in %51'ini ele geçirecek kadar yatırım ve enerji harcamadıkça yaptığınız çaba sonuçsuz kalır, ve yaptığınız tüm masraf boşa gider. Zira sistemin oyuncuları, sizin istediğinizi değil çoğunluğun yolunda giderler, siz de yaptığınız masraf ile geride kalırsınız. 
+Farkını anlatmak için PoW'nun ne yaptığını tekrar hatırlatalım. Siz eğer Bitcoin'i bozmak gibi bir çabaya girerseniz, tüm Bitcoin'in %51'ini ele geçirecek kadar yatırım ve enerji harcamadıkça yaptığınız çaba sonuçsuz kalır ve yaptığınız tüm masraf boşa gider. Zira sistemin oyuncuları, sizin istediğinizi değil çoğunluğun yolunda giderler, siz de yaptığınız masraf ile geride kalırsınız. 
 
 O zaman şöyle bir soru soruyor diğerleri: İyi çok güzel, bu tip mekanizma kurarak dış tehditleri önlüyorsunuz ama öte yandan iyi niyetli mevcut oyuncular da aynı şekilde bulmaca çözmek zorundalar ((Bitcoin kazanmak için gerekli çünkü), ve bu nedenle ortaya çok büyük bir enerji harcaması çıkıyor. Sistemi manipüle edecek birine çok maliyet getirecek ama düzgün çalışan uyumlu oyunculara masraf çıkarmayacak dolayısıyla büyük "israflar" oluşmayacak bir çözüm bulunamaz mı?
 
-PoS işte bunun cevabını şu şekilde veriyor. Yapılan işlemlerin teyidi için bir bulmaca çözüp enerji harcamayalım onun yerine doğru olduğunu düşündüğümüz işlem listesi için elimizdeki tüm parasal değeri rehin olarak verelim. Elimizi taşın altına koyalım yani. Ne kadar çok varlık rehin edersek, sonundaki ödülü kazanmadaki şansımız da o kadar artsın. Eğer sistemi bozmaya çalışan bir dış tehdit isek, (ve eğer çoğunluğa sahip olamazsak) yaptığımız manipülasyon nihai olarak sonuçsuz kalacak ve ceza olarak sistem bizim tüm varlığımızı sıfırlayacak - sıkı bir caydırma durumu.. 
+PoS işte bunun cevabını şu şekilde veriyor. Yapılan işlemlerin teyidi için bir bulmaca çözüp enerji harcamayalım onun yerine doğru olduğunu düşündüğümüz işlem listesi için elimizdeki tüm parasal değeri rehin olarak verelim. Elimizi taşın altına koyalım yani. Sistem de bu rehin edenler içinde birine piyango ile yeni blok yaratma ayrıcalığı versin. Ne kadar çok varlık rehin edersek, o kadar çok piyango biletimizin olsun ve sonundaki ödülü kazanmadaki şansımız da o kadar artsın. Ama eğer sistemi bozmaya çalışan bir dış tehdit isek, (ve eğer çoğunluğa sahip olamazsak) yaptığımız manipülasyon nihai olarak sonuçsuz kalacak ve ceza olarak sistem bizim tüm varlığımızı sıfırlayacak - sıkı bir caydırma durumu.
+
+Bu konuda tartışmalar halen devam etmekte. Proof-of-Stake'i kullanacak olan Ethereum geliştiricileri konu üzerinde çalışmaya devam ediyorlar. Bunun dışında Cardano, OmiseGo, QTUM, Ardor PoS kullanıyorlar. Bir de PoS ile PoW'yi karışık şekilde kullananlar var (Decred, Dash, Stratis, HShare, Pivx gibi)
+
+
+### Ve diğerleri:
+
+Blockchain gibi değişik bazlı parçaların birbiri ile nasıl çalışacaklarına ilişkin çalışmalar sadece PoW ve PoS ile sınırlı değil tabii.. Teknoloji alanında bir sorun olduğunda onlarca çözüm ortaya çıkar.. Neler onlar derseniz, sadece isimlerini ve kimlerin kullandığını belirtelim: 
+
+- Delegated-Proof-of-Stake (DPos) - BitShares, Steemit (sahipleri aynı bu ikisinin), EOS
+- SimplifiedByzantineFaultTolerance (SBFT) - NEO
+- ProofofActivity (PoA) - Digital Note, Vechain
+- ProofofCapacity (PoC) - Burstcoin
+- ProofofBurn (PoB) - Slimcoin
+- ProofofRun (PoR) - Runcoin
+- ProofofAssignment - IOTW
+
 
 ### Proof-of-Elapsed-Time (POET)
 
-### Delegated-Proof-of-Stake (DPos)
+### 
 
 ### Leased-Proof-of-Stake (LPos)
 
 ### PracticalByzantineFaultTolerance (PBFT)
 
-### SimplifiedByzantineFaultTolerance (SBFT)
+### 
 
 ### DeligatedByzantineFaultTolerance (DBFT)
 
@@ -43,9 +67,9 @@ PoS işte bunun cevabını şu şekilde veriyor. Yapılan işlemlerin teyidi iç
 
 ### ProofofImportance (#POI) 
 
-### ProofofCapacity (#PoC)
+### 
 
-### ProofofBurn (#PoB)
+### 
 
 
 
