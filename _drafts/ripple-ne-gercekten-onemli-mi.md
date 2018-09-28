@@ -56,7 +56,7 @@ Ama şu gerçekleri de unutmamak lazım:
 
 &nbsp;
 
-![xrp-eski-yeni-logo.png](/assets/xrp-eski-yeni-logo.png)
+![xrp-eski-yeni-logo-640.png](/assets/xrp-eski-yeni-logo-640.png)
 
 &nbsp;
 
