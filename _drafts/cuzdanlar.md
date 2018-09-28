@@ -70,27 +70,27 @@ Bu sistemde, kullanıcı kişilerin adı belli değil, bilinmiyorlar, sadece ken
 
 Bu adreslere girebilmek için ise kendimize ait Özel ve Genel Anahtarlar kullanıyoruz. Bir nevi e-posta adresine girmek için kullandığımız kullanıcı adı ve şifre gibi düşünün. Kullanıcı adını Genel Anahtar'a, şifreyi ise Özel Anahtar'a benzetmek çok da yanlış olmaz. Kullanıcı adını yani Genel Anahtarınızı herkese verebilirsiniz (ki size e-posta, ya da burada KriptoPara göndersinler), ama şifrenizi yani Özel Anahtarı kimseye söylememelisiniz (ki hesabınıza girip mesajlarınızı okumasınlar ya da buradaki örnekte KriptoParanızı yürütmesinler). İşte KriptoCüzdan dediğimiz bu Özel ve Genel Anahtarları depolayan yer. 
 
-KriptoCüzdan'ın pek çok çeşidi var ve bir sonraki bölümde onlardan bahsedeceğiz. Ama nasıl çalıştığına gelince aslında basit. Kullanacağınız KriptoParayı taşıyabilecek bir KriptoCüzdan yaratmak demek, size ait bir Genel Anahtar ile bu KriptoPara'nın bulunduğu Blockchain sistemine kayıt yaptırmak demek. Sonrasında Genel Anahtarı kullanarak buraya arkadaşınız tarafından para gönderilmesini sağlayabilir, sistem içinde ne kadar paranız olduğuna bakabilir, ya da KripoPara borsasından almış olduğunuz KriptoParaları sadece kendinize ait olan bu KriptoCüzdan'a çekebilirsiniz. 
+KriptoCüzdanın pek çok çeşidi var ve bir sonraki bölümde onlardan bahsedeceğiz. Ama nasıl çalıştığına gelince aslında basit. Kullanacağınız KriptoParayı taşıyabilecek bir KriptoCüzdan yaratmak demek, size ait bir Genel Anahtar ile bu KriptoParanın bulunduğu Blockchain sistemine kayıt yaptırmak demek. Sonrasında Genel Anahtarı kullanarak buraya arkadaşınız tarafından para gönderilmesini sağlayabilir, sistem içinde ne kadar paranız olduğuna bakabilir, ya da KripoPara borsasından almış olduğunuz KriptoParaları sadece kendinize ait olan bu KriptoCüzdan'a çekebilirsiniz. 
 
 ### Arkası Yarın
 
-Bir sonraki yazıda da KriptoCüzdan çeşitlerine, fayda ve risklerine değinelim ki, hangi KriptoCüzdan size uygun, bilgilenmiş bir şekilde karar verebilin.. 
+Bir sonraki yazıda da KriptoCüzdan çeşitlerine, fayda ve risklerine değinelim ki, hangi KriptoCüzdan size uygun, karar vermenize yardımcı olsun.  
 
 
 
 # Yazı III
 
-Geçtiğimiz iki yazıda, önce KriptoBorsalar'dan nasıl KriptoPara alabileceğimize, sonraki yazıda ise KriptoCüzdan ne demek ona bakmıştık. Bu yazımızda ise KriptoCüzdan çeşitlerine bakıp, farklı 
+Geçtiğimiz iki yazıda, önce KriptoBorsalar'dan nasıl KriptoPara alabileceğimize, sonraki yazıda ise KriptoCüzdan ne demek ona bakmıştık. Bu yazımızda ise KriptoCüzdan çeşitlerine bakacağız 
 
 ### KriptoCüzdan nasıl yaratılıyor? Çeşitleri ne? Güvenli mi?
 
 KriptoCüzdan'ların hangi araç üzerinde yarattığınıza göre değişen farklı çeşitleri var. Nelermiş kısaca bakalım: 
 
 #### Web sitesi üzerinden
-Bir web sitesine giriyorsunuz (örneğin [Blockchain Info](https://www.blockchain.com)). Oradan kendinize bir kullanıcı adı ve şifre alıyorsunuz. Site size otomatik olarak Özel ve Genel Anahtar yaratıyor. Sonrasında buradaki hesabınıza KriptoPara (bu site örneğinde Bitcoin ve Ethereum) gönderebilir ve alabilirsiniz. Bir bankanın online websitesinden bir farkı yok. Rahat, pratik. Sıkıntısı, online bir site olduğu için yarın öbür gün bir sitenin hack edilmesi (yani bilgilerin dışarı sızdırılması). Ufak bir ihtimal, ancak sonuç olarak burası da merkezi bir sistem. 
+Bir web sitesine giriyorsunuz (örneğin [Blockchain Info](https://www.blockchain.com)). Oradan kendinize bir kullanıcı adı ve şifre alıyorsunuz. Site size otomatik olarak Özel ve Genel Anahtar yaratıyor. Sonrasında buradaki hesabınıza KriptoPara (bu site örneğinde Bitcoin ve Ethereum) gönderebilir ve alabilirsiniz. Bir bankanın online websitesinden bir farkı yok. Rahat, pratik. Sıkıntısı, online bir site olduğu için yarın öbür gün bu sitenin hack edilmesi (yani bilgilerin dışarı sızdırılması). Ufak bir ihtimal, ancak sonuç olarak burası da merkezi bir sistem. 
 
 #### Bilgisayar ile 
-Güvenilir bir yazılım programı buluyorsunuz ve bu programı bilgisayarınıza yüklüyorsunuz. Program içinde Özel ve Genel Anahtarlarınızı yaratıyorsunuz. Sonra bu program üzerinden KriptoPara gönderebiliyor ya da alabiliyorsunuz. Bu tip yazılımların özellikle Açık Kaynak  yazılımlar olmasına dikkat etmek gerek. Bu satırların yazarı [Electrum](https://electrum.org/#home) isimli programı kullanıyor ancak hiçbir şekilde güvenliği konusunda garanti verilmez. Kendi araştırmanızı yapmanızı ve içinizin rahat edeceği bir programı kullanmanız tavsiye olunur. Güvenilir bir yöntem ancak bilgisayarınıza dışarıdan bağlantı yapılır, bilgileriniz çalınırsa sıkıntı çekebilirsiniz. Hızlı davranırsanız dünyanın sonu değil, KriptoCüzdanı nasıl kurtarırsnız bir sonraki bölüme bakabilirsiniz. 
+Güvenilir bir yazılım programı buluyorsunuz ve bu programı bilgisayarınıza yüklüyorsunuz. Program içinde Özel ve Genel Anahtarlarınızı yaratıyorsunuz. Sonra bu program üzerinden KriptoPara gönderebiliyor ya da alabiliyorsunuz. Bu tip yazılımların özellikle Açık Kaynak  yazılımlar olmasına dikkat etmek gerek. Bu satırların yazarı [Electrum](https://electrum.org/#home) isimli programı kullanıyor ancak hiçbir şekilde güvenliği konusunda garanti veremez. Kendi araştırmanızı yapmanızı ve içinizin rahat edeceği bir programı kullanmanız tavsiye ederim. Güvenilir bir yöntem ancak bilgisayarınıza dışarıdan bağlantı yapılır, bilgileriniz çalınırsa sıkıntı çekebilirsiniz. Hızlı davranırsanız dünyanın sonu değil, KriptoCüzdanı nasıl kurtarırsınız bir sonraki bölüme bakabilirsiniz. 
 
 #### Mobil üzerinden
 Cep telefonunuza App Store ya da Google Play üzerinden program yükleyip (örneğin [My Celium](https://wallet.mycelium.com/)) KriptoParanızı cep telefonunuzda taşıyabilirsiniz. Oldukça pratik bir yöntem ama yukarıda olduğu gibi telefonunuza dışarıdan bağlantı yapılıp bilgileriniz çalınırsa sıkıntı çekebilirsiniz. 
@@ -109,19 +109,19 @@ Yukarıdaki ilk üç alternatifte de bir "kaybolma" senaryosu var. Web sitesinin
 
 İşin özünde KriptoCüzdanlar oldukça güvenli araçlar. Yukarıda bahsettiğimiz kötü senaryoların herhangi biri bankada işlem yaparsanız da başınıza gelebilir. Bankada genelde bu tip senaryolarda yetkililer ile konuşup kaybettiğiniz parayı geri alma ihtimaliniz var. KriptoPara dünyasında ise böyle konuşacağınız bir mercii yok. O nedenle kritik olan gerekli önlemleri baştan almak. Nedir bu önlemler?
 
-1. Yukarıda bahsettiğim 12 kelimeyi unutmayacağınız bir köşede tutmak
+1. Yukarıda bahsettiğim 12 kelimeyi unutmayacağınız bir köşede tutmak. 
 
-2. Pratik olması bakımından işlem yapmayı planladığınız ufak bir miktarı KriptoBorsa'da tutmak - ki böylece ani değişimlerde hızlıca işlem yapabilin
+2. Pratik olması bakımından işlem yapmayı planladığınız ufak bir miktarı KriptoBorsa'da tutmak, ki böylece ani değişimlerde hızlıca işlem yapabilin. 
 
 3. Göreceli daha büyük ama yine işlem yapabileceğiniz bir miktarı bilgisayar ya da cep telefonunda tutmak. Burada da işlem yapmak için parayı KriptoBorsa'ya göndermeniz gerekli ve bu da bir süre (genelde on dakika ama bazen uzayabilir) alıyor. Hemen işlem yapamıyorsunuz. 
 
-4. Eğer büyük yatırımcı iseniz ve uzun vadeli olarak KriptoPara tutacaksanız, Fiziki Cüzdan (Hardware Wallet) almak
+4. Eğer büyük yatırımcı iseniz ve uzun vadeli olarak KriptoPara tutacaksanız, Fiziki Cüzdan (Hardware Wallet) almak.
 
 5. Eğer çok kuşkucu biriyseniz ve hiçbir teknolojik alete güvenmiyorsanız, o zaman yukarıdaki son alternatif olan kağıt kaleme sarılın. Yazın Özel ve Genel Anahtarınızı bir kenara, sonrasında kağıdı kaybetmeyin yeter. 
 
 ### Sonuç
 
-Bitcoin ve diğer KriptoParaları almak aslında oldukça basit. Başlangıçta prosedurler gözünüzü korkutmasın. Her adımda açıklayıcı bilgiler bulmak mümkün. Yukarıdaki alternatiflerden size en uygununu seçin ve Şifreli Harikalar Dünyası'nda yol almaya başlayın.
+Bitcoin ve diğer KriptoParaları almak aslında oldukça basit. Başlangıçta prosedürler gözünüzü korkutmasın. Her adımda açıklayıcı bilgiler bulmak mümkün. Yukarıdaki alternatiflerden size en uygununu seçin ve Şifreli Harikalar Dünyası'nda yol almaya başlayın.
 
 
 
