@@ -1,10 +1,10 @@
 # Yazı I
 
-Geçenlerde yine KriptoParalara şüphe ile yaklaşan bir arkadaşım (bunlardan çok var etrafımda, bitemediler bir türlü :)), "Bak, elimde Dolar var ise, onu cüzdanımda taşıyorum, bu Bitcoin denen zımbırtıyı nerede taşıyacağım" diye sordu. O sırada masadaki bir başka arkadaşım da "Bunların Avrupa'da makineleri var, ATM gibi, oradan alabiliyorsun" dedi. Tabii bu işin magazin kısmı. Bitcoin'i de (ya da herhangi bir KriptoParayı) cüzdanda taşıyabileceğini söyledim. Yüzüme bakışı çok şeyi ifade ediyordu açıkcası :). Neyse, çoğunuzun elektronik cüzdanlardan haberi vardır ama duymayanlar için kısa bir özet yapalım ve sonrasında biraz daha detaylı bakalım konuya.. 
+Geçenlerde yine KriptoParalara şüphe ile yaklaşan bir arkadaşım "Bak, elimde Dolar var ise, onu cüzdanımda taşıyorum, bu Bitcoin denen zımbırtıyı nerede taşıyacağım" diye sordu. O sırada masadaki bir başka arkadaşım da "Bunların Avrupa'da makineleri var, ATM gibi, oradan alabiliyorsun" dedi. Tabii bu işin magazin kısmı. Bitcoin'i de (ya da herhangi bir KriptoParayı) cüzdanda taşıyabileceğini söyledim. Yüzüme bakışı çok şeyi ifade ediyordu açıkçası :). Neyse, çoğunuzun elektronik cüzdanlardan haberi vardır ama duymayanlar için kısa bir özet yapalım ve sonrasında biraz daha detaylı bakalım konuya.. 
 
 ### Paranız olsun, cüzdan nasıl olsa bulunur
 
-Diyelim, Bitcoin satın aldınız. Şimdi burada eğer konuya yabancı iseniz "Herkes bahsediyor bu Bitcoin satın almaktan, daha nasıl alacağımı bile bilmiyorum ben" diye çığlık atıyor olabilirsiniz. Peki o zaman kısaca ondan başlayalım. 
+Diyelim, Bitcoin satın aldınız, şimdi burada eğer konuya yabancı iseniz "Herkes bahsediyor bu Bitcoin satın almaktan, daha nasıl alacağımı bile bilmiyorum ben" diye çığlık atıyor olabilirsiniz. Peki o zaman kısaca ondan başlayalım:
 
 *Başlamadan önce de bu yazının kesinlikle bir yatırım tavsiyesi olmadığını belirtelim. Verebileceğimiz tek tavsiye, Bitcoin de dahil olmak üzere oldukça inişli çıkışlı getirilere sahip bu dijital varlıklara yatırım yapmadan önce mutlaka ama mutlaka kendi araştırmanızı yapmanız.*
 
@@ -18,55 +18,55 @@ KriptoPara satın almak hem kolay hem zor. Neden? Efendim, KriptoPara (isterseni
 
 #### Borsadan Bitcoin almak
 
-KriptoPara alım satımına aracılık eden şirketler ya da platformlar (kısaca KriptoPara borsaları diyelim) pek çok. Türkiye'de ikamet ediyorsanız, ülkemiz sınırları içinde faaliyet gösteren pekçok borsadan birinde hesap açtırabilirsiniz. Neler bu borsalar derseniz, birkaç tanesini sayalım:
+KriptoPara alım satımına aracılık eden şirketler ya da platformlar (kısaca KriptoPara borsaları diyelim) pek çok. Türkiye'de ikamet ediyorsanız, ülkemiz sınırları içinde faaliyet gösteren bu borsalardan birinde hesap açtırabilirsiniz. Neler bu borsalar derseniz, birkaç tanesini sayalım:
 
 - [BTCTurk](https://www.btcturk.com/) Şu an Türkiye piyasasındaki en yüksek hacimli KriptoPara aracılığı yapan platform. Bitcoin, Ethereum, Ripple ve Tether işlem gören KriptoParalar
-- [Paribu](https://www.paribu.com/) sadece Bitcoin alımsatımına aracılık ediyor ve Bitcoin hacminde Türkiye'de en büyük olduğunu iddia ediyor (mantıklı olabilir BTCTurk diğer paralardan dolayı işlem hacmini büyük tutuyor olabilir
-- Diğerleri: [Koineks](https://koineks.com/), [Koinim](https://koineks.com/) gibi daha ufak borsalar da var.
+- [Paribu](https://www.paribu.com/) sadece Bitcoin alımsatımına aracılık ediyor ve Bitcoin hacminde Türkiye'de en büyük olduğunu iddia ediyor (mantıklı olabilir BTCTurk başka KriptoParaların alım-satımına aracılık ettiği içim işlem hacmi daha büyük olabilir)
+- [Koineks](https://koineks.com/), [Koinim](https://koineks.com/) gibi daha ufak borsalar...
 
-Eylül 2018 itibariyle şu anda Türk yatırımcısına yönelik hizmet veren 44 adet KriptoBorsası olduğu şeklinde resmi olmayan bir bilgi var. Tabii bu borsaların özellikle küçük olanlarının likidite sıkıntısı yaşabileceklerini unutmamak gerek. 
+Eylül 2018 itibariyle şu anda Türk yatırımcısına yönelik hizmet veren 44 adet KriptoBorsası olduğu şeklinde resmi olmayan bir bilgi var. Tabii bu borsaların özellikle küçük olanlarının likidite sıkıntısı yaşayabileceklerini unutmamak gerek. 
 
 Konumuz borsalar olmadığı için kısa tutalım. Ancak bu borsalardan birinde hesap açtırmak bile zahmetli bir iş, onu baştan söylemek lazım. Neden? KriptoPara dünyası ile ilgili çok fazla spekülasyon ve bilgi kirliliği olduğu için bu tip aracılar, kara para aklama (anti-money-laundering kısaca AML) ve müşterilerini tanımak (know-your-customer kısaca KYC) konusunda oldukça hassaslar. Bu nedenle, sadece kayıt olmak yetmiyor, işlem yapabilmek için ekstra bilgi talep ediyorlar. Öyle çok zor bilgiler değil ama uğraştırıcı. Ne gibi bilgiler? 
 
 - Gerçek bir kişi olduğunuzu kanıtlamak için nüfus cüzdanının kopyası
-- Elle yazacağınız bir dilekçe, nüfus cüzdanı ve yazdığınız dilekçe ile birlikte çekilmiş bir fotoğrafınız
+- Elle yazacağınız bir dilekçe, nüfus cüzdanı ve yazdığınız dilekçe ile birlikte çekilmiş bir fotoğrafınız (evet yanlış okumadınız, bir elinize kimliğinizi, öbür elinize el yazısıyla yazdığınız dilekçeyi alıp fotoğraf çekiyor ve fotoğrafı onlara gönderiyorsunuz)
 - Türkiye'de ikamet ettiğinize dair kanıt (adınıza kayıtlı bir elektrik, su faturası gibi)
 
-Yanlış hatırlamıyor isem bu kadar. Dolayısıyla, önce bu bilgi ve dokümanları toplayıp internet üzerinden onlara gönderiyorsunuz, sonra bilgilerin teyidini bekliyorsunuz - bütün işlem bir-iki gün sürüyor. 
+Yanlış hatırlamıyorsam bu kadar. Dolayısıyla, önce bu bilgi ve dokümanları toplayıp onlara web üzerinden gönderiyorsunuz, sonra bilgilerin teyidini bekliyorsunuz. Bütün işlem bir-iki gün sürüyor. 
 
 Gördüğünüz gibi, yazılarımızda dijital dünyanın hayatımızı ne kadar kolaylaştıracağından bahsediyoruz ama gel gör ki girmeye kalktığınızda ciddi bir iş de yaratılıyor. Hele bir de birden fazla borsada işlem yapmak isterseniz aynı dokümanları tekrar toparlamak ve göndermek zorundasınız. Bu konuda size kolaylık sağlamak için çalışan bir Türk girişimi olan [Kimlic](https://kimlic.com/)'den de bu vesile ile bahsetmiş olalım.  
 
-Eğer yukarıdaki zahmete girip bir hesap açtırdı iseniz, hesabınız onaylandıktan sonrası nispeten kolay. Türkiye'deki bir banka hesabından aracının platformuna TL ya da ABD Doları gönderiyorsunuz, para borsadaki hesabınızda görüldükten sonra Bitcoin (ya da sistemde mevcut tüm KriptoParaları) alıp satmaya başlıyorsunuz
+Eğer yukarıdaki zahmete girip bir hesap açtırdıysanız, hesabınız onaylandıktan sonrası nispeten kolay. Türkiye'deki bir banka hesabından aracının platformuna TL ya da ABD Doları gönderiyorsunuz, para borsadaki hesabınızda görüldükten sonra Bitcoin (ya da sistemde mevcut tüm KriptoParaları) alıp satmaya başlıyorsunuz
 
 ### Arkadaşım Bitcoin göndermek isterse?
 
-Aslında bu opsiyon da basit, banka transferi gibi. Arkadaşınız kendine ait Bitcoin'i sizin hesabınıza transfer ediyor? Nereye transfer ediyor? Nasıl transfer ediyor? Para nerede duruyor? Bunun için isterseniz, KriptoPara'yı borsadan aldığımız yukarıdaki örneğimiz üzerinden devam edelim. 
+Aslında bu opsiyon da basit, banka transferi gibi... Arkadaşınız kendine ait Bitcoin'i sizin hesabınıza transfer ediyor? Nereye transfer ediyor? Nasıl transfer ediyor? Para nerede duruyor? Bunun için isterseniz, KriptoPara'yı borsadan aldığımız yukarıdaki örneğimiz üzerinden devam edelim. 
 
 #### Aldık KriptoParayı, ya sonra?
 
-KriptoPara'yı Kripto borsadan satın aldınız. Ya şimdi? Sonrası size kalmış. Bu parayı Borsa'daki hesabınızda tutabilirsiniz, ya da kendinize ait bir KriptoCüzdan'a gönderebilirsiniz. İşte yazının başında bahsettiğimiz cüzdana geldik:  KriptoCüzdan, sizin aldığınız KriptoPara'yı güvenle tutmanıza ve günü geldiğinde istediğiniz yere göndermenizi sağlayan güvenli bir araç. Değişik türleri var, hangisi uyarsa onu kullanırsınız. Neden bir KriptoCüzdan kullanıyorum, param zaten yukarıdaki KriptoBorsa'da durmuyor mu? Evet ama Şifreli Dünya'da ne kadar güvenlik o kadar iyi. Ancak yazımız çok uzamaya başladı. KriptoCüzdan konusunda önümüzdeki hafta devam edeceğiz artık.. 
+KriptoPara'yı Kripto borsadan satın aldınız. Ya şimdi? Sonrası size kalmış. Bu parayı Borsa'daki hesabınızda tutabilirsiniz, ya da kendinize ait bir KriptoCüzdan'a gönderebilirsiniz. İşte yazının başında bahsettiğimiz cüzdana geldik:  KriptoCüzdan, sizin aldığınız KriptoPara'yı güvenle tutmanızı ve günü geldiğinde istediğiniz yere göndermenizi sağlayan güvenli bir araç. Değişik türleri var, hangisi uyarsa onu kullanırsınız. Neden bir KriptoCüzdan kullanıyorum, param zaten yukarıdaki KriptoBorsa'da durmuyor mu? Evet ama Şifreli Dünya'da ne kadar güvenlik o kadar iyi. Ancak yazımız çok uzamaya başladı. KriptoCüzdan konusuna önümüzdeki hafta devam edeceğiz artık...
 
 # Yazı II
 
-Geçtiğimiz hafta KriptoBorsalar'dan nasıl alım yapabileceğimizden bahsetmiş ancak orada kalmıştık. KriptoBorsa'dan aldığınız bir KriptoPara'yı nerede tutmalısınız? KriptoBorsa'da mı durmalı, yoksa başka bir yerde mi? O başka yer neresi? Peki ya KriptoBorsa'dan alım yapmak değil de bir arkadaşınız size direkt KriptoPara göndermek istese? Yapabilir mi? Eğer yapabiliyorsa nereye gönderecek, nasıl gönderecek?
+Geçtiğimiz [yazıda] KriptoBorsalar'dan nasıl alım yapabileceğimizden bahsetmiş ancak devamını bu yazıya bırakmıştık. KriptoBorsa'dan aldığınız bir KriptoPara'yı nerede tutmalısınız? KriptoBorsa'da mı durmalı, yoksa başka bir yerde mi? O başka yer neresi? Peki ya KriptoBorsa'dan alım yapmak değil de bir arkadaşınız size direkt KriptoPara göndermek istese? Yapabilir mi? Eğer yapabiliyorsa nereye gönderecek, nasıl gönderecek?
 
 Anlatalım: 
 
 ### KriptoBorsalar güvenli mi?
 
-KriptoPara dediğimiz özünde elektronik olarak saklanan fiziksel olarak elimizde tutamadığımız bir varlık. Zaten bu nedenle pek çok kişi KriptoPara'ya kuşkuyla bakıyor. Ama daha önce de bir çok kez anlatmaya çalıştığımız gibi, günümüzde gelişen ekonomi ve ticaret nedeniyle fiziksel olarak hiçbir parayı elimizde tutmuyoruz. Hepsi sanal ortamda genelde banka hesaplarımızda duruyor. Yastık altında tutanınız da vardır eminim ama ne kadar güvenli ciddi şekilde tartışılır. 
+KriptoPara dediğimiz özünde elektronik olarak saklanan fiziksel olarak elimizde tutamadığımız bir varlık. Zaten bu nedenle pek çok kişi KriptoPara'ya kuşkuyla bakıyor. Ama daha önce de birçok kez anlatmaya çalıştığımız gibi, günümüzde gelişen ekonomi ve ticaret nedeniyle fiziksel olarak hiçbir parayı elimizde tutmuyoruz. Hepsi sanal ortamda genelde banka hesaplarımızda duruyor. Yastık altında tutanınız da vardır eminim ama ne kadar güvenli ciddi şekilde tartışılır. 
 
-Peki parayı bankada tutmak ne kadar güvenli? Bir parça evet. Devletin 100,000 TL'ye kadar [garantisi](https://www.tmsf.org.tr/tr/Tmsf/Mevduat/mevduat.sss) var. Üstü - maalesef.  
+Peki parayı bankada tutmak ne kadar güvenli? Devletin 100,000 TL'ye kadar [garantisi](https://www.tmsf.org.tr/tr/Tmsf/Mevduat/mevduat.sss) var. Üstü için risk her zaman mevcut maalesef.  
 
-Ya KriptoBorsa'daki hesaplarınız? Onlar için böyle bir garanti de yok. Bu borsaların sitelerinde ne kadar güvenli olduklarına dair açıklamalar var. Güvenip güvenmemek size kalmış. Ama başından beri bahsettiğimiz gibi yeni teknolojiler ve KriptoPara dünyası merkezi olmayan bir sistem ruhu ile işliyor. Ama KriptoBorsa merkezi bir yapı - dolayısı ile bu işin ruhuna aykırı. Zira daha önce de pek çok kez söylediğimiz gibi "üçüncü partiler aslında güvenlik açığıdır("[trusted third parties are security holes](https://nakamotoinstitute.org/trusted-third-parties/)"). KriptoBorsalar'a soracak olursanız ne kadar güvenli oldukları ile ilgili web sitelerinde pek çok argümanları var. Örneğin çalınmaya ve dışarıdan sızmaya karşı, bu borsalar ellerindeki müşterilere ait KriptoParalar'ın %90'ından fazlasını online değil, off-line (çevrim dışı) tutuyorlar ki, dışarıdan giriş olsa da ulaşılamasın. Ancak yine insanın olduğu her yerde tedbirli olmakta fayda var. Peki ne yapmalı? 
+Ya KriptoBorsa'daki hesaplarınız? Onlar için böyle bir garanti yok. Bu borsaların sitelerinde ne kadar güvenli olduklarına dair açıklamalar var. Güvenip güvenmemek size kalmış. Ama başından beri bahsettiğimiz gibi yeni teknolojiler ve KriptoPara dünyası merkezi olmayan bir sistem ruhu ile işliyor. Ama KriptoBorsa merkezi bir yapı, dolayısı ile bu işin ruhuna aykırı. Zira daha önce de pek çok kez söylediğimiz gibi "üçüncü partiler aslında güvenlik açığıdır("[trusted third parties are security holes](https://nakamotoinstitute.org/trusted-third-parties/)"). KriptoBorsalar'a soracak olursanız ne kadar güvenli oldukları ile ilgili web sitelerinde pek çok argümanları var. Örneğin çalınmaya ve dışarıdan sızmaya karşı, bu borsalar ellerindeki müşterilere ait KriptoParalar'ın %90'ından fazlasını online değil, off-line (çevrim dışı) tutuyorlar ki, dışarıdan giriş olsa da ulaşılamasın. Ancak yine insanın olduğu her yerde tedbirli olmakta fayda var. Peki ne yapmalı? 
 
 Efendim, biliyorsunuz KriptoParalar'ın en önemli özelliklerinden biri kişileri kurumlara bağımlılıktan kurtarıyor olması.  Bu nedenle çok rahat bir şekilde satın aldığınız parayı kendinizde tutmanız mümkün. İyi ama sanal değil miydi bu paralar? Fiziksel olarak ortada değillerdi. Nasıl olacak da kendimde tutacağım? Cevabı KriptoCüzdan. 
 
 ### KriptoCüzdan nedir, nasıl çalışır?
 
-İşin en başından başlar isek. Hatırlarsanız, daha önceki [yazılarımızda](https://ademimerkezi.com/genel/2018/05/08/Peki-Blockchain-sifrelemesi-nasil-calisiyor.html) Bitcoin örneğinden yola çıkarak, bir kişinin diğerine nasıl para gönderdiğini anlatmıştık. Kısaca hatırlatırsak, Blockchain kendi sistemi üzerinden geçen işlemleri binlerce makine üzerinde tutan bir kayıt defteri idi. 
+İşin en başından başlarsak, daha önceki [yazılarımızda](https://ademimerkezi.com/genel/2018/05/08/Peki-Blockchain-sifrelemesi-nasil-calisiyor.html) Bitcoin örneğinden yola çıkarak, bir kişinin diğerine nasıl para gönderdiğini anlatmıştık. Kısaca hatırlatırsak, Blockchain kendi sistemi üzerinden geçen işlemleri binlerce makine üzerinde tutan bir kayıt defteri idi. 
 
-Bu sistemde, kullanıcı kişilerin adı belli değil, bilinmiyorlar, sadece kendilerine ait adresleri var (aynı e-posta adresi gibi). Bu adreslere gönderilen paralar, bu adreslerin gönderdiği paralar ise sistem üzerinden şeffaf bir şekilde tutuluyor yani herkesin görebileceği şekilde ulaşılabiliyor (hem de Bitcoin'in başladığı 2009 yılından bugüne kadar). 
+Bu sistemde, kullanıcı kişilerin adı belli değil, bilinmiyorlar, sadece kendilerine ait adresleri var (aynı e-posta adresi gibi). Bu adreslere gönderilen ve bu adreslerin gönderdiği paralar ise sistem üzerinden şeffaf bir şekilde tutuluyor, yani herkesin görebileceği şekilde ulaşılabiliyor (hem de Bitcoin'in başladığı 2009 yılından bugüne kadar). 
 
 Bu adreslere girebilmek için ise kendimize ait Özel ve Genel Anahtarlar kullanıyoruz. Bir nevi e-posta adresine girmek için kullandığımız kullanıcı adı ve şifre gibi düşünün. Kullanıcı adını Genel Anahtar'a, şifreyi ise Özel Anahtar'a benzetmek çok da yanlış olmaz. Kullanıcı adını yani Genel Anahtarınızı herkese verebilirsiniz (ki size e-posta, ya da burada KriptoPara göndersinler), ama şifrenizi yani Özel Anahtarı kimseye söylememelisiniz (ki hesabınıza girip mesajlarınızı okumasınlar ya da buradaki örnekte KriptoParanızı yürütmesinler). İşte KriptoCüzdan dediğimiz bu Özel ve Genel Anahtarları depolayan yer. 
 
