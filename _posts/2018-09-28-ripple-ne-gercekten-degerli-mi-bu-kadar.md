@@ -23,21 +23,19 @@ Efendim, öncelikle şunu belirtelim XRP ile Ripple aynı değil. Ripple bir tek
 
 ### Ripple ne?
 
-&nbsp;
-
-![ripple-logo.png](/assets/ripple-logo.png) 
 
 
-&nbsp;
+![ripple-logo-400.png](/assets/ripple-logo-400.png) 
+
+
+
 
 
 Ripple dediğimiz gibi bir teknoloji şirketi. Teknoloji üretiyor. Ürettiği en önemli teknoloji RippleNet. RippleNet SWIFT sisteminin yerine geçmeyi amaçlayan bir yapı. Biliyorsunuz Belçika bazlı SWIFT sistemi uluslararası para transferinde bankaların kullandığı araç. Oldukça pahalı ve McKinsey'nin bir raporuna göre işlemlerin sonuçlanması [3-5 gün arası sürebiliyor](https://www.mckinsey.com/industries/financial-services/our-insights/rethinking-correspondent-banking). İşte RippleNet bu süreyi iki dakikaya indirebileceğini iddia ediyor. Üstelik örneğin ABD ile Meksika arasındaki işlemlerde [%40-70 arası bir tasarruf](https://cointelegraph.com/news/ripple-cross-border-payments-pilot-financial-institutions-report-significant-time-cost-savings) ile...
 
-&nbsp;
 
-![insights-ripplenet-640.jpg](/assets/insights-ripplenet-640.jpg) 
+![ripplenet-400.jpg](/assets/ripplenet-400.jpg) 
 
-&nbsp;
 
 RippleNet özet olarak global bir mutabakat/anlaşma (*settlement*), para ödeme ve kambiyo sistemi. Ripple'in bu altyapısını en azından test etmek isteyen pekçok banka ve şirket var (sayıları 75'in üzerinde). Türkiye'den de [Akbank bu saygın bankalardan](https://ripple.com/insights/ten-new-customers-join-ripples-global-payment-network/) sadece bir tanesi. 
 
