@@ -17,9 +17,8 @@ Efendim, öncelikle şunu belirtelim XRP ile Ripple aynı değil. Ripple bir tek
 
 &nbsp;
 
-| ![ripple-logo.png](/assets/ripple-logo.png) | 
-|:--:| 
-| *Ripple* | 
+![ripple-logo.png](/assets/ripple-logo.png) 
+
 
 &nbsp;
 
@@ -28,9 +27,7 @@ Ripple dediğimiz gibi bir teknoloji şirketi. Teknoloji üretiyor. Ürettiği e
 
 &nbsp;
 
-| ![insights-ripplenet-640.jpg](/assets/insights-ripplenet-640.jpg) | 
-|:--:| 
-| *RippleNet* | 
+![insights-ripplenet-640.jpg](/assets/insights-ripplenet-640.jpg) 
 
 &nbsp;
 
