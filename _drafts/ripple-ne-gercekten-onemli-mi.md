@@ -83,7 +83,7 @@ Bu konuda [birkaç teori var](https://cointelegraph.com/news/from-adoption-to-fo
 
 ### Sonuç
 
-Özet olarak düşüncem şu şekilde: Ripple, XRP'yi KriptoPara olarak bir yan ürün olsun diye yarattı. Piyasalardaki ani yükseliş sonrası bundan iyi gelir elde edebileceğini düşünerek ciddi bir PR yatırımı yaptı ve XRP'yi geleceğin KriptoParası olarak sundu. Kendisi için gerekli olan finasmanı da buradan sağladı. Şimdi ise RippleNet gibi kendi platformlarına potansiyel zarar vermemesi için kendisi ile XRP arasında kesin çizgiler koymaya çalışıyor. Görüşüm, Ripple'ın platformunu pazarlama ve PR konusundaki yeteneği ile başarılı olmak için potansiyeli olduğu, XRP için ise geleceğin çok sisli göründüğü şeklinde. 
+Özet olarak düşüncem şu: Ripple, XRP'yi KriptoPara olarak bir yan ürün olsun diye yarattı. Piyasalardaki ani yükseliş sonrası bundan iyi gelir elde edebileceğini düşünerek ciddi bir PR yatırımı yaptı ve XRP'yi geleceğin KriptoParası olarak sundu. Kendisi için gerekli olan finasmanı da buradan sağladı. Şimdi ise RippleNet gibi kendi platformlarına potansiyel zarar vermemesi için kendisi ile XRP arasında kesin çizgiler koymaya çalışıyor. Görüşüm, Ripple'ın platformunu pazarlama ve PR konusundaki yeteneği ile başarılı olmak için potansiyeli olduğu, XRP için ise geleceğin çok sisli göründüğü şeklinde. 
 
 
 
