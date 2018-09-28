@@ -57,11 +57,11 @@ Ama şu gerçekleri de unutmamak lazım:
 - Ripple, şirket olarak Venture Capital sermayesi almış olmasına rağmen, XRP için büyük bir PR kampanyası yaptı ve 2017 yılı içinde elindeki XRP'lerden satarak 200 milyon ABD Doları gelir sağladı.
 - 2018 yılı başında itibaren ise Ripple XRP'nin kendi başına bir ekosistem olduğunu ve sahip olduğu XRP'lerin %90'ınını emanet (*escrow*) bir hesapta ileride dağıtılmak üzere tuttuğunu belirtiyor. Hatta bu yıl ortasında XRP logosunu değiştirdiler.
 
-&nbsp;
+
 
 ![xrp-eski-yeni-logo-640.png](/assets/xrp-eski-yeni-logo-640.png)
 
-&nbsp;
+
 
 ### PRipple'in kurduğu sistemin çalışması için XRP gerekli mi?
 
