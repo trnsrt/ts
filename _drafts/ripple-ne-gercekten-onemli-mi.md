@@ -15,9 +15,26 @@ Efendim, öncelikle şunu belirtelim XRP ile Ripple aynı değil. Ripple bir tek
 
 ### Ripple ne?
 
-Ripple dediğimiz gibi bir teknoloji şirketi. Teknoloji üretiyor. Ürettiği en önemli teknoloji RippleNet. RippleNet özet olarak SWIFT sisteminin yerine geçmeyi amaçlayan bir yapı. Biliyorsunuz SWIFT sistemi uluslararası para transferinde bankaların kullandığı araç. Oldukça pahalı ve McKinsey raporuna göre işlemlerin sonuçlanması [3-5 gün arası sürebiliyor](https://www.mckinsey.com/industries/financial-services/our-insights/rethinking-correspondent-banking). İşte RippleNet bu süreyi iki dakikaya indirebileceğini iddia ediyor. Üstelik örneğin ABD ile Meksika arasındaki işlemlerde [%40-70 arası bir tasarruf](https://cointelegraph.com/news/ripple-cross-border-payments-pilot-financial-institutions-report-significant-time-cost-savings) ile. 
+&nbsp;
 
-Ripple ise global bir mutabakat/anlaşma (settlement), para ödeme ve kambiyo sistemi. Ripple'in bu altyapısını en azından test etmeyen isteyen pekçok banka ve şirket var (75'in üzerinde). Türkiye'den de [Akbank bu saygın bankalardan](https://ripple.com/insights/ten-new-customers-join-ripples-global-payment-network/) sadece bir tanesi. 
+| ![ripple-logo.png](/assets/ripple-logo.png) | 
+|:--:| 
+| *Ripple* | 
+
+&nbsp;
+
+
+Ripple dediğimiz gibi bir teknoloji şirketi. Teknoloji üretiyor. Ürettiği en önemli teknoloji RippleNet. RippleNet SWIFT sisteminin yerine geçmeyi amaçlayan bir yapı. Biliyorsunuz Belçika bazlı SWIFT sistemi uluslararası para transferinde bankaların kullandığı araç. Oldukça pahalı ve McKinsey raporuna göre işlemlerin sonuçlanması [3-5 gün arası sürebiliyor](https://www.mckinsey.com/industries/financial-services/our-insights/rethinking-correspondent-banking). İşte RippleNet bu süreyi iki dakikaya indirebileceğini iddia ediyor. Üstelik örneğin ABD ile Meksika arasındaki işlemlerde [%40-70 arası bir tasarruf](https://cointelegraph.com/news/ripple-cross-border-payments-pilot-financial-institutions-report-significant-time-cost-savings) ile. 
+
+&nbsp;
+
+| ![insights-ripplenet-640.jpg](/assets/insights-ripplenet-640.jpg) | 
+|:--:| 
+| *RippleNet* | 
+
+&nbsp;
+
+RippleNet özet olarak global bir mutabakat/anlaşma (settlement), para ödeme ve kambiyo sistemi. Ripple'in bu altyapısını en azından test etmeyen isteyen pekçok banka ve şirket var (75'in üzerinde). Türkiye'den de [Akbank bu saygın bankalardan](https://ripple.com/insights/ten-new-customers-join-ripples-global-payment-network/) sadece bir tanesi. 
 
 ### XRP ne?
 
@@ -35,7 +52,13 @@ Ama şu gerçekleri de unutmamak lazım:
 - 2016 yılının sonlarına KriptoPara piyasalarındaki yükseliş ile Ripple XRP'yi tekrar "Global Rezerv Para" olma yolunda çalışmaya itti
 - Ripple, XRP'nin ekzotik paralar için "köprü para" olarak kullanılabileceğini öne sürüyor. Yani, diyelim Apple'sınız ve onlarca ülkeye para göndermeniz gerekiyor, değişik ülke paraları tutmak yerine XRP tutabilirsiniz ve her ülke parasını istediğiniz zaman XRP'den dönebilirsiniz"
 - Ripple, şirket olarak Venture Capital sermayesi almış olmasına rağmen, XRP için büyük bir PR kampanyası yaptı ve 2017 yılı içinde elindeki XRP'lerden satarak 200 milyon ABD Doları gelir sağladı
+- 2018 yılı başında itibaren ise Ripple XRP'nin kendi başına bir ekosistem olduğunu ve sahip olduğu XRP'lerin %90'ını geçici bir hesapta ileride dağıtılmak üzere tuttuğunu belirtiyor. Hatta bu yıl ortasında XRP logosunu değiştirdiler.
 
+&nbsp;
+
+![xrp-eski-yeni-logo.png](/assets/xrp-eski-yeni-logo.png)
+
+&nbsp;
 
 ### Peki ya XRP? Ripple'in kurduğu sistemin çalışması için XRP gerekli mi?
 
