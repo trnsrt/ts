@@ -63,7 +63,7 @@ Ama şu gerçekleri de unutmamak lazım:
 
 
 
-### PRipple'in kurduğu sistemin çalışması için XRP gerekli mi?
+### Ripple'in kurduğu sistemin çalışması için XRP gerekli mi?
 
 Peki RippleNet kullanımı sadece XRP ile mi olacak? Bir başka deyişle XRP RippleNet için gerekli mi? Ripple CTO'su David Schwartz'a göre [cevap](https://www.quora.com/Is-XRP-not-required-for-the-Ripple-Swift-replacement/answer/David-Schwartz-9): "Hayır. Yıllardır insanları XRP kullanmaya ikna etmeye çalışıyoruz ve sonunda bunun yanlış bir strateji olduğuna karar verdik"
 
