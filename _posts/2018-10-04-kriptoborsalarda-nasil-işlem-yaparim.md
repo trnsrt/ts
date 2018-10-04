@@ -55,10 +55,10 @@ Gördüğünüz gibi, yazılarımızda dijital dünyanın hayatımızı ne kadar
 
 Eğer yukarıdaki zahmete girip bir hesap açtırdıysanız, hesabınız onaylandıktan sonrası nispeten kolay. Türkiye'deki bir banka hesabından aracının platformuna TL ya da ABD Doları gönderiyorsunuz, para borsadaki hesabınızda görüldükten sonra Bitcoin (ya da sistemde mevcut tüm KriptoParaları) alıp satmaya başlıyorsunuz
 
-### Arkadaşım Bitcoin göndermek isterse?
+#### Arkadaşım Bitcoin göndermek isterse?
 
 Aslında bu opsiyon da basit, banka transferi gibi... Arkadaşınız kendine ait Bitcoin'i sizin hesabınıza transfer ediyor? Nereye transfer ediyor? Nasıl transfer ediyor? Para nerede duruyor? Bunun için isterseniz, KriptoPara'yı borsadan aldığımız yukarıdaki örneğimiz üzerinden devam edelim. 
 
-#### Aldık KriptoParayı, ya sonra?
+### Aldık KriptoParayı, ya sonra?
 
 KriptoPara'yı Kripto borsadan satın aldınız. Ya şimdi? Sonrası size kalmış. Bu parayı Borsa'daki hesabınızda tutabilirsiniz, ya da kendinize ait bir KriptoCüzdan'a gönderebilirsiniz. İşte yazının başında bahsettiğimiz cüzdana geldik:  KriptoCüzdan, sizin aldığınız KriptoPara'yı güvenle tutmanızı ve günü geldiğinde istediğiniz yere göndermenizi sağlayan güvenli bir araç. Değişik türleri var, hangisi uyarsa onu kullanırsınız. Neden bir KriptoCüzdan kullanıyorum, param zaten yukarıdaki KriptoBorsa'da durmuyor mu? Evet ama Şifreli Dünya'da ne kadar güvenlik o kadar iyi. Ancak yazımız çok uzamaya başladı. KriptoCüzdan konusuna önümüzdeki hafta devam edeceğiz artık...
