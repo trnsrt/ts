@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "KriptoBorsa'larda nasıl işlem yaparım?"
+title:  "KriptoBorsalar'da nasıl işlem yaparım?"
 date:   2018-10-04 18:03:34 +0300
 categories: Genel
 ---
