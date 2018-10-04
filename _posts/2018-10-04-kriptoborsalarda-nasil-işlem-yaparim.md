@@ -15,16 +15,14 @@ Diyelim, Bitcoin satın aldınız, şimdi burada eğer konuya yabancı iseniz "H
 
 *Başlamadan önce de bu yazının kesinlikle bir yatırım tavsiyesi olmadığını belirtelim. Verebileceğimiz tek tavsiye, Bitcoin de dahil olmak üzere oldukça inişli çıkışlı getirilere sahip bu dijital varlıklara yatırım yapmadan önce mutlaka ama mutlaka kendi araştırmanızı yapmanız.*
 
+&nbsp;
+
 ### Önce bir KriptoPara nasıl satın alınır ona bakalım
 
-
-&nbsp;
 
 | ![exchange-money-600.jpg](/assets/exchange-money-600.jpg) | 
 |:--:| 
 | *Almalı mı, almamalı mı? Daha önemlisi nasıl almalı? [Kaynak](https://photos.icons8.com/im-a-bit-suspicious-of-this-coin-5acb35328b658800016e8ef6)* | 
-
-&nbsp;
 
 
 KriptoPara satın almak hem kolay hem zor. Neden? Efendim, KriptoPara (isterseniz kolaylık olsun diye bu yazıda bundan sonra Bitcoin diyelim, diğerleri de üç aşağı beş yukarı aynı şekilde gerçekleşiyor) satın almak için birkaç basit yol var. 
@@ -62,3 +60,8 @@ Aslında bu opsiyon da basit, banka transferi gibi... Arkadaşınız kendine ait
 ### Aldık KriptoParayı, ya sonra?
 
 KriptoPara'yı Kripto borsadan satın aldınız. Ya şimdi? Sonrası size kalmış. Bu parayı Borsa'daki hesabınızda tutabilirsiniz, ya da kendinize ait bir KriptoCüzdan'a gönderebilirsiniz. İşte yazının başında bahsettiğimiz cüzdana geldik:  KriptoCüzdan, sizin aldığınız KriptoPara'yı güvenle tutmanızı ve günü geldiğinde istediğiniz yere göndermenizi sağlayan güvenli bir araç. Değişik türleri var, hangisi uyarsa onu kullanırsınız. Neden bir KriptoCüzdan kullanıyorum, param zaten yukarıdaki KriptoBorsa'da durmuyor mu? Evet ama Şifreli Dünya'da ne kadar güvenlik o kadar iyi. Ancak yazımız çok uzamaya başladı. KriptoCüzdan konusuna önümüzdeki hafta devam edeceğiz artık...
+
+&nbsp;
+
+
+*Not: Yazdığımız 25+ yazının bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](http://ademimerkezi.com/about/) sayfasına göz atabilirsiniz.* 
