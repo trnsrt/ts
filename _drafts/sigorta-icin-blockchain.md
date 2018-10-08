@@ -16,3 +16,4 @@ Client On-boarding
 Today, every customer is required to verifying their KYC with the insurance company. Insurers and customers waste a lot of time verifying their documents and identity. This can be reduced with a blockchain platform that can talk to other blockchain platforms to verify the identity of the user.
 The records in the blockchain can be made available with the ones who has permission to view the information. All the user records are securely stored in the blockchain using secure cryptographic techniques.
 
+IBM industry-platforms-unit-insurance-industry-iu-white-paper-external-iuw03053usen-20180316.pdf
