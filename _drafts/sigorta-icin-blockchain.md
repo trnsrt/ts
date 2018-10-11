@@ -1,19 +1,44 @@
 
+Geçtiğimiz yazılarda Blockchain bazlı dağıtık sistemlerin faydalı olabileceği alanlardan [sağlık](https://ademimerkezi.com/genel/2018/04/17/saglik-icin-blockchain.html), [sanat](https://ademimerkezi.com/genel/2018/04/06/sanat-icin-blockchain.html), [seyahat](https://ademimerkezi.com/genel/2018/07/06/seyahat-icin-blockchain.html) sektörleri ile [hayır işleri](https://ademimerkezi.com/genel/2018/03/29/Iyilik-icin-blockchain.html), [tahmin piyasaları](https://ademimerkezi.com/genel/2018/07/13/gelecegi-tahmin-icin-blockchain.html) ve [tedarik zincirlerine](https://ademimerkezi.com/genel/2018/08/17/tedarik-zinciri-icin-blockchain.html) bakmıştık.  Şimdi gelin biraz daha finansal piyasalara yakın olan sigorta sektörüne bakalım. 
 
-Transparency and relevant record keepingReduced opportunities for insurance fraudReduced cost and time of processing insurance claimsImproved customer engagement
+Sigorta sektörü için Blockchain
 
-Smart contracts, combined with event triggers from oﬀ-chain oracles (trusted and secure sources of information) can be used to partially or fully automate operation of CAT Bonds 
+Blockchain'in şu ana kadar en göz önünde olan faydası güvene olan ihtiyacı ortadan kaldırması (ve o ihtiyacı sağlayan kurumların etkisini azaltması) ve bürokrasiyi azaltarak para, zaman, emek tasarrufu sağlaması idi. Ama her derde deva olmadığını da [şu yazımızda](https://ademimerkezi.com/genel/2018/08/03/blockchain-her-derde-deva-mi.html) bahsetmiştik. 
 
-Underwriting
-Underwriting is one of the most important part of a insurance company. The department that is responsible for verifying the authenticity of the claim, and decide on how much percentage of the claim can be covered is always in need of a trustworthy repository of data.
-Blockchain offers to be the central repository of truth. Using blockchain, underwriters can source data from external sources to automate some aspects of underwriting, since the data in the blockchain is trustable and is from a verified source.
+Bu anlamda güven ihtiyacı sağlayan kurumların etkisinin azalacağından bahsettik. Finansal kurumların ana görevinin güven sağlamak olduğunu varsayarsak, bu sektördekilerin [geceleri uykularının kaçması normal](https://ademimerkezi.com/genel/2018/03/01/Geceleri-uykunuzu-ne-kaciriyor.html).
 
-Claims Processing
-Improving the claims processing methods is always on the to-do list of insurance companies. And for the user, the submitting a claims and getting it approved is yet another tedious process. The processing can take quite a while, considering the number of data points to verify and also the amount of manual effort required.
-With blockchain, most of the necessary information that is required for claims verification can be processed in no-time. Since blockchain can take inputs from a variety of difference sources without tampering any information, insurers can use the data available in the blockchain to track the usage of a asset. Provenance is one major area where insurers can take advantage of blockchain.
+Sigorta sektörü için durum bir miktar farklı. Uzun vadede dağıtık sistemler zarar verir mi sektöre tartışılır ancak kısa vadede sigorta sektörünün ihtiyacı olan güveni sağlaması açısından bu sistemlerin sektöre yarar sağlayacağı çok aşikar görünüyor. Nedir bu faydalar. Bir kaç örnek üzerinden bakalım dilerseniz:
 
-Client On-boarding
-Today, every customer is required to verifying their KYC with the insurance company. Insurers and customers waste a lot of time verifying their documents and identity. This can be reduced with a blockchain platform that can talk to other blockchain platforms to verify the identity of the user.
-The records in the blockchain can be made available with the ones who has permission to view the information. All the user records are securely stored in the blockchain using secure cryptographic techniques.
+### Afet sigortası ve Akıllı Kontratlar
 
-IBM industry-platforms-unit-insurance-industry-iu-white-paper-external-iuw03053usen-20180316.pdf
+Sigortacılığın en büyük parçalarından biri Afet Sigortası. Hiçbirimiz istemeyiz ama doğal afetler maalesef hayatın bir parçası - üstelik küresel ısınma ve benzeri çevresel bozulmadan dolayı sıklığı giderek artan hayatın gerçekleri. Bireysel kaza ve benzeri durumların aksine bu tip doğal afetler daha az yaşanıyor (ve bazen uzun süre yaşanmıyor) ama yıkım genele yayıldığı için oluşan zarar sigorta şirketleri için karşılanamaz olabiliyor. Bu nedenle, sigorta şirketlerinin bu tip riskleri "satma"sı sektörün en temel uygulamalarından biri. 
+
+Afet sonrası hasarın tesbiti, bir kısmının riski satın almış partilere devredilmesi, oldukça uzun ve zahmetli bir süreç. Hele irili ufaklı pek çok olayın (sel baskını vb) getirdiği operasyonel yükler çok daha yüksek. Peki bu süreç otomatikleştirilemez mi? Daha önceki bir yazımızda bahsettiğimiz [Akıllı Kontratlar](https://ademimerkezi.com/genel/2018/06/29/bu-kontratlar-cok-akilli-ethereum-ve-akilli-kontratlar.html) ile aslında mümkün. 
+
+Akıllı Kontratlar aslında adı ile çelişir şekilde, akıllı olmaktan ziyade oldukça basit şekilde işleyen ve belli olaylar gerçekleştiğinde (tetikçi olay diyelim) otomatik olarak aktive olan işlemler idi. Şimdi bunu Blockchain sistemi içine uyarlamaya çalışalım aşağıdaki senaryoda: 
+
+* Sigorta şirketi Akıllı Kontrat oluşturur: Bu kontratın içinde olma ihtimali olan olay, bu olayın hakikaten gerçekleştiğini teyid edecek bir üçüncü parti (buna oracle - kahin deniyor), gerçekleştiği durumda zarar gören parti için verilecek rakam başta olmak üzere tüm gerekli bilgiler girilir. 
+
+* Akıllı Kontrat, Blockchain üzerine işlenir. Neden? Blockchain'in temel faydalarından yararlanmak için. Bağımsız olması, geçmişe yönelik olarak değiştirilememesi. 
+
+* Sigorta şirketi bu Akıllı Kontratları ilgilenen yatırımcılara satar. Kim bunlar? İlgili afetin olmayacağını düşünen ve buna göre pozisyon alan kurumsal/bireysel yatırımclar. 
+
+* Afetin gerçekleşmesi durumunda, Blockchain üzerindeki Akıllı Kontrat, gerçekleştiği konusunda önceden belirlenmiş kahinlerden (oracle) teyid alır, koşulları işletir ve ilgili partilere zararın miktarını gönderir
+
+* Afetin gerçekleşmemesi durumunda, Akıllı Kontrat, satın alan yatırımcısına yaptığı yatırım ve faizini öder. 
+
+Tabii ki yukarıdaki senaryoda Akıllı Kontrat içindeki koşulların oluşturulması aşamasında ciddi bir çaba sarfedilmesi gerekecek - dışarıdan çok kolay görünmesine rağmen ayrıntılar çok fazla ancak çok özel durumlar dışında pek çok alanda bu kullanılabilir. 
+
+### Rutin olaylar ve tazmin talepleri
+
+Keza şunu düşünün. Sigorta şirketleri, yukarıdaki afet, kaza, yağmur vb pek çok durumda hakikaten olayın gerçekleştiğini öğrenmek için bile ciddi miktarda para harcıyorlar (eksper tutma, olay yerine gönderme gibi). Bunun yerine, bu tip olayları o bölgedeki insanlar otomatik olarak bildirse (ve bunun karşılığı bir miktar kazanç elde etseler)?. Sigorta şirketleri de ortak bir Blockchain veritabanından bu bilgileri alsa.  Sektör oyuncuları için güzel bir tasarruf olabilir. 
+
+### Peki Blockchain gerekli mi bunun için?
+
+Hep sorduğumuz soruyu da sormamazlık etmeyelim: Peki bütün bunları yapmak için ortak bir veritabanı kullanılamaz mı? İlla ki Blockchain'e ihtiyaç var mı bunun için? Tabii ki bunu sigorta şirketlerinin ortak oluşturduğu bir veritabanı ile yapabilirsiniz.   Sigorta sektörünün büyümesinin önündeki engellerden birinin müşterilerin şirketlere olan güven erozyonu olduğu düşülürse, Blockchain bazlı tarafsız ve şeffaf bir sistemin sigortalanan gözündeki değerinin daha yüksek olacağı kesin. Ayrıca birbirinden farklı sistemlerin birbiri ile çalışması ciddi bir yatırım - bunun yerine ortak yeni bir Blockchain'e entegre olmak nispeten daha kolay. Birlikte çalışmak için gerekli olan güven konusunu Blockchain üzerindeki sistemlere bıraktığınızda sektör oyuncuları olarak çok daha rahat hareket edebilir, çok daha paylaşımcı olabilirsiniz. 
+
+Nitekim, global anlamda büyük oyuncuların yarısı önümüzdeki iki yıl içinde Blockchain bazlı sistemler ile entegre olmayı bekliyor ve %84'ü de Akıllı Kontrat ve Blockchain bazlı dağıtık sistemlerin sektörün yeni ortaklar ile iş yapma şekillerini değiştireceğini [belirtiyor](https://insuranceblog.accenture.com/ultimate-guide-to-blockchain-in-insurance).
+
+### Sonuç
+
+İçinde bulunduğumuz ekonomik koşullarda, yukarıda anlattıklarım hayal gibi gelebilir. Daha önceki yazılarımızda da belirttiğimiz gibi bu bir vizyon ve dünyanın dört bir yanında, mevcut sigorta oyuncuları, girişimciler, yazılımcılar bu vizyona ulaşabilmek için çalışıyorlar. Vizyonu gerçekleştirmek vakit alacak orası kesin, ama düşündüğünüzden erken olabilir, hazırlıklı olmak ve sigortanızı şimdiden yaptırmakta fayda var. 
