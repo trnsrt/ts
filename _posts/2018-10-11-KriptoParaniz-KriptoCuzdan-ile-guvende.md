@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "KriptoParanız KriptoCüzdan ile güvende"
-date:   2018-10-18 12:03:34 +0300
+date:   2018-10-11 12:03:34 +0300
 categories: Genel
 ---
 
