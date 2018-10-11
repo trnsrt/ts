@@ -13,7 +13,7 @@ Geçtiğimiz iki yazıda, önce KriptoBorsalar'dan [nasıl KriptoPara alabilece�
 
 ![purse-420917_640.jpg](/assets/purse-420917_640.jpg)
 
-### KriptoCüzdan nasıl yaratılıyor? Çeşitleri ne? Güvenli mi?
+### KriptoCüzdan nasıl yaratılıyor? Çeşitleri ne? 
 
 KriptoCüzdan'ların hangi araç üzerinde yarattığınıza göre değişen farklı çeşitleri var. Nelermiş kısaca bakalım: 
 
