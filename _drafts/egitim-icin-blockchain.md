@@ -24,6 +24,18 @@ Sadece aldığınız dersler değil, kazandığınız sertifikalar almak için �
 
 Bu konuda bir uç örnek de [Woolf Üniversitesi](http://www.gettingsmart.com/2018/06/imagining-a-blockchain-university/). Geçenlerde bir arkadaşım dünyanın ilk Blockchain bazlı üniversitesi olarak kendinin lanse eden girişimden bahsettiğinde  "bunun bir sonraki adımı herhalde Blockchain aromalı dondurma olacak" diye içimden geçirdim. 
 
+Ancak burada özellikle burs verenler, özellikle ABD ve Avrupa'da gördüğümüz hükümetlerin kişileri fonlaması konusunda yeni teknolojiler mevcut iş yükünü azaltmada yardımcı olabilirler. Nasıl mı? Örneğin, öğrenciye burs taahhüdünde bulunan kurumlar, ancak başarı ya da derse katılım bazlı kriterler karşılığında bu tip yardımları öğrencinin kullanımına açabilirler. Gayet tabii böyle bir sistemi merkezi halde de uygulayabilirsiniz ama Akıllı Kontratlar aracılığı ile farklı kurumları farklı sistemleri bir tek sisteme entegre etmek yerine tüm kurumları kullanabileceği, güvenliği ve tutarlılığı dağıtık teknolojiler tarafından sağlanan bir yapı daha "ucuz" bir alternatif sunabilir size. 
+
+### Eğitimciler ile öğrencileri bir araya getiren sistemler
+
+Eğitim alanındaki insiyatiflerden bahsederken ülkemizden çıkan bir girişime de bakmamak olmaz. [Krypted](http://www.krypted.org/), özellikle Blockchain ve Kripto alanında eğitim verenler ile eğitim almak isteyenleri bir araya getiren bir ekosistem kurmak amacıyla yola çıkmış bir ekip. Kişiler arasında eğitimler (ve bu eğitimler karşılığı kendi tokenları üzerinden ödendiği) dışında bu alanda bir dijital kütüphane olmayı amaçlayan girişim, ükemizden Blockchain alanında çıkan ve dikkatle izlenmesi gereken birkaç oluşumdan biri. 
+
+### Sonuç
+
+Blockchain bazlı sistemlerin eğitim alanında yeni ufuklar açacağını görmek için kahin olmak gerekmiyor. Bu alanda girişimler içinde en hızlı yol alacak olanlar, sistem içindeki verimsizlikleri ve buna bağlı maliyetleri azaltacak olan girişimler. Eğitim sektörü her ne kadar dışarıdan yenilikçi görünse de, işin eğitimci kısmında oldukça muhafazakar ve statükocu bir sektör. Statükonun kırılması ancak tüketici tarafından gelecek taleplere bağlı. Bu da sektörün maliyet azaltımı dışında yeni teknolojilerin getirdiği avantajları kullanma açısından bir süre daha bekleyeceğimizi söylemekte. 
+
+
+
 
 
 
