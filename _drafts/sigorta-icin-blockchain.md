@@ -1,9 +1,9 @@
 
 Geçtiğimiz yazılarda Blockchain bazlı dağıtık sistemlerin faydalı olabileceği alanlardan [sağlık](https://ademimerkezi.com/genel/2018/04/17/saglik-icin-blockchain.html), [sanat](https://ademimerkezi.com/genel/2018/04/06/sanat-icin-blockchain.html), [seyahat](https://ademimerkezi.com/genel/2018/07/06/seyahat-icin-blockchain.html) sektörleri ile [hayır işleri](https://ademimerkezi.com/genel/2018/03/29/Iyilik-icin-blockchain.html), [tahmin piyasaları](https://ademimerkezi.com/genel/2018/07/13/gelecegi-tahmin-icin-blockchain.html) ve [tedarik zincirlerine](https://ademimerkezi.com/genel/2018/08/17/tedarik-zinciri-icin-blockchain.html) bakmıştık.  Şimdi gelin biraz daha finansal piyasalara yakın olan sigorta sektörüne bakalım. 
 
-Sigorta sektörü için Blockchain
+### Sigorta sektörü için Blockchain
 
-Blockchain'in şu ana kadar en göz önünde olan faydası güvene olan ihtiyacı ortadan kaldırması (ve o ihtiyacı sağlayan kurumların etkisini azaltması) ve bürokrasiyi azaltarak para, zaman, emek tasarrufu sağlaması idi. Ama her derde deva olmadığını da [şu yazımızda](https://ademimerkezi.com/genel/2018/08/03/blockchain-her-derde-deva-mi.html) bahsetmiştik. 
+Blockchain'in şu ana kadar en göz önünde olan faydası güvene olan ihtiyacı ortadan kaldırması (ve o ihtiyacı sağlayan kurumların etkisini azaltması) ve bürokrasiyi azaltarak para, zaman, emek tasarrufu sağlaması idi. Ama her derde deva olmadığını da [şu yazımızda](https://ademimerkezi.com/genel/2018/08/03/blockchain-her-derde-deva-mi.html) belirtmiştik. 
 
 Bu anlamda güven ihtiyacı sağlayan kurumların etkisinin azalacağından bahsettik. Finansal kurumların ana görevinin güven sağlamak olduğunu varsayarsak, bu sektördekilerin [geceleri uykularının kaçması normal](https://ademimerkezi.com/genel/2018/03/01/Geceleri-uykunuzu-ne-kaciriyor.html).
 
@@ -35,7 +35,7 @@ Keza şunu düşünün. Sigorta şirketleri, yukarıdaki afet, kaza, yağmur vb 
 
 ### Peki Blockchain gerekli mi bunun için?
 
-Hep sorduğumuz soruyu da sormamazlık etmeyelim: Peki bütün bunları yapmak için ortak bir veritabanı kullanılamaz mı? İlla ki Blockchain'e ihtiyaç var mı bunun için? Tabii ki bunu sigorta şirketlerinin ortak oluşturduğu bir veritabanı ile yapabilirsiniz.   Sigorta sektörünün büyümesinin önündeki engellerden birinin müşterilerin şirketlere olan güven erozyonu olduğu düşülürse, Blockchain bazlı tarafsız ve şeffaf bir sistemin sigortalanan gözündeki değerinin daha yüksek olacağı kesin. Ayrıca birbirinden farklı sistemlerin birbiri ile çalışması ciddi bir yatırım - bunun yerine ortak yeni bir Blockchain'e entegre olmak nispeten daha kolay. Birlikte çalışmak için gerekli olan güven konusunu Blockchain üzerindeki sistemlere bıraktığınızda sektör oyuncuları olarak çok daha rahat hareket edebilir, çok daha paylaşımcı olabilirsiniz. 
+Hep sorduğumuz şu soruyu da sormamazlık etmeyelim: Peki bütün bunları yapmak için ortak bir veritabanı kullanılamaz mı? İlla ki Blockchain'e ihtiyaç var mı bunun için? Tabii ki bunu sigorta şirketlerinin ortak oluşturduğu bir veritabanı ile yapabilirsiniz.   Sigorta sektörünün büyümesinin önündeki engellerden birinin müşterilerin şirketlere olan güven erozyonu olduğu düşülürse, Blockchain bazlı tarafsız ve şeffaf bir sistemin sigortalanan gözündeki değerinin daha yüksek olacağı kesin. Ayrıca birbirinden farklı sistemlerin birbiri ile çalışması ciddi bir yatırım - bunun yerine ortak yeni bir Blockchain'e entegre olmak nispeten daha kolay. Birlikte çalışmak için gerekli olan güven konusunu Blockchain üzerindeki sistemlere bıraktığınızda sektör oyuncuları olarak çok daha rahat hareket edebilir, çok daha paylaşımcı olabilirsiniz. 
 
 Nitekim, global anlamda büyük oyuncuların yarısı önümüzdeki iki yıl içinde Blockchain bazlı sistemler ile entegre olmayı bekliyor ve %84'ü de Akıllı Kontrat ve Blockchain bazlı dağıtık sistemlerin sektörün yeni ortaklar ile iş yapma şekillerini değiştireceğini [belirtiyor](https://insuranceblog.accenture.com/ultimate-guide-to-blockchain-in-insurance).
 
