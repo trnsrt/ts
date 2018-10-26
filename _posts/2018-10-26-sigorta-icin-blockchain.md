@@ -1,13 +1,8 @@
 --
-
 layout: post
-
 title:  "Hangi KriptoCüzdan bana uygun?"
-
 date:   2018-10-12 12:03:34 +0300
-
 categories: Genel
-
 ---
 
 
