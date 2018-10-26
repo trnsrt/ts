@@ -1,7 +1,10 @@
 
 Geçtiğimiz yazılarda Blockchain bazlı dağıtık sistemlerin faydalı olabileceği alanlardan [sağlık](https://ademimerkezi.com/genel/2018/04/17/saglik-icin-blockchain.html), [sanat](https://ademimerkezi.com/genel/2018/04/06/sanat-icin-blockchain.html), [seyahat](https://ademimerkezi.com/genel/2018/07/06/seyahat-icin-blockchain.html) sektörleri ile [hayır işleri](https://ademimerkezi.com/genel/2018/03/29/Iyilik-icin-blockchain.html), [tahmin piyasaları](https://ademimerkezi.com/genel/2018/07/13/gelecegi-tahmin-icin-blockchain.html) ve [tedarik zincirlerine](https://ademimerkezi.com/genel/2018/08/17/tedarik-zinciri-icin-blockchain.html) bakmıştık.  Şimdi gelin finansal piyasalara daha yakın olan sigorta sektörüne bakalım. 
 
-water-975728_640.jpg
+![water-975728_640.jpg](/assets/water-975728_640.jpg)
+
+
+
 
 ### Sigorta sektörü için Blockchain
 
