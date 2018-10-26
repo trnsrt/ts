@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sigorta-için-Blockchain"
+title:  "Sigorta için Blockchain"
 date:   2018-10-26 10:03:34 +0300
 categories: Genel
 ---
