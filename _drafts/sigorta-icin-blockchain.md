@@ -23,21 +23,21 @@ Akıllı Kontratlar aslında adı ile çelişir şekilde, akıllı olmaktan ziya
 
 * Sigorta şirketi bu Akıllı Kontratları ilgilenen yatırımcılara satar. Kim bunlar? Böyle bir afetin olmayacağını düşünen ve buna göre pozisyon alan kurumsal/bireysel yatırımcılar. 
 
-* Afetin gerçekleşmesi durumunda, Blockchain üzerindeki Akıllı Kontrat, gerçekleştiği konusunda önceden belirlenmiş kahinlerden (oracle) teyit alır, koşulları işletir ve ilgili partilere zararın miktarını gönderir
+* Afetin gerçekleşmesi durumunda, Blockchain üzerindeki Akıllı Kontrat, gerçekleştiği konusunda önceden belirlenmiş kahinlerden (oracle) teyit alır, koşulları işletir ve ilgili partilere zararın miktarını gönderir. 
 
 * Afetin gerçekleşmemesi durumunda, Akıllı Kontrat, satın alan yatırımcısına yaptığı yatırım ve faizini öder. 
 
-Tabii ki yukarıdaki senaryoda Akıllı Kontrat içindeki koşulların oluşturulması aşamasında ciddi bir çaba sarfedilmesi gerekecek - dışarıdan çok kolay görünmesine rağmen ayrıntılar çok fazla ancak çok özel durumlar dışında pek çok alanda bu kullanılabilir. 
+Tabii ki yukarıdaki senaryoda Akıllı Kontrat içindeki koşulların oluşturulması aşamasında ciddi bir çaba sarfedilmesi gerekecek - dışarıdan çok kolay görünmesine rağmen ayrıntılar çok fazla. Yine de çok özel durumlar dışında pek çok alanda bu kullanılabilir. 
 
 ### Rutin olaylar ve tazmin talepleri
 
-Keza şunu düşünün. Sigorta şirketleri, yukarıdaki afet, kaza, yağmur vb pek çok durumda hakikaten olayın gerçekleştiğini öğrenmek için bile ciddi miktarda para harcıyorlar (eksper tutma, olay yerine gönderme gibi). Bunun yerine, bu tip olayları o bölgedeki insanlar otomatik olarak bildirse (ve bunun karşılığı bir miktar kazanç elde etseler)?. Sigorta şirketleri de ortak bir Blockchain veritabanından bu bilgileri alsa.  Sektör oyuncuları için güzel bir tasarruf olabilir. 
+Keza şunu düşünün: Sigorta şirketleri, yukarıdaki afet, kaza, yağmur vb. pek çok durumda hakikaten olayın gerçekleştiğini öğrenmek için bile ciddi miktarda para harcıyorlar (eksper tutma, olay yerine gönderme gibi). Bunun yerine, bu tip olayları o bölgedeki insanlar otomatik olarak bildirse (ve bunun karşılığı bir miktar kazanç elde etseler)? Sigorta şirketleri de ortak bir Blockchain veritabanından bu bilgileri alsa... Sektör oyuncuları için güzel bir tasarruf olabilir. 
 
 ### Peki Blockchain gerekli mi bunun için?
 
-Hep sorduğumuz şu soruyu da sormamazlık etmeyelim: Peki bütün bunları yapmak için ortak bir veritabanı kullanılamaz mı? İlla ki Blockchain'e ihtiyaç var mı bunun için? Tabii ki bunu sigorta şirketlerinin ortak oluşturduğu bir veritabanı ile yapabilirsiniz.   Sigorta sektörünün büyümesinin önündeki engellerden birinin müşterilerin şirketlere olan güven erozyonu olduğu düşülürse, Blockchain bazlı tarafsız ve şeffaf bir sistemin sigortalanan gözündeki değerinin daha yüksek olacağı kesin. Ayrıca birbirinden farklı sistemlerin birbiri ile çalışması ciddi bir yatırım - bunun yerine ortak yeni bir Blockchain'e entegre olmak nispeten daha kolay. Birlikte çalışmak için gerekli olan güven konusunu Blockchain üzerindeki sistemlere bıraktığınızda sektör oyuncuları olarak çok daha rahat hareket edebilir, çok daha paylaşımcı olabilirsiniz. 
+Hep sorduğumuz şu soruyu da sormamazlık etmeyelim: Peki bütün bunları yapmak için ortak bir veri tabanı kullanılamaz mı? İlla ki Blockchain'e ihtiyaç var mı bunun için? Tabii ki bunu sigorta şirketlerinin ortak oluşturduğu bir veri tabanı ile yapabilirsiniz.   Sigorta sektörünün büyümesinin önündeki engellerden birinin müşterilerin şirketlere olan güven erozyonu olduğu düşülürse, Blockchain bazlı tarafsız ve şeffaf bir sistemin sigortalanan gözündeki değerinin daha yüksek olacağı kesin. Ayrıca birbirinden farklı sistemlerin birbiri ile çalışması ciddi bir yatırım - bunun yerine ortak yeni bir Blockchain'e entegre olmak nispeten daha kolay. Birlikte çalışmak için gerekli olan güven konusunu Blockchain üzerindeki sistemlere bıraktığınızda sektör oyuncuları olarak çok daha rahat hareket edebilir, çok daha paylaşımcı olabilirsiniz. 
 
-Nitekim, global anlamda büyük oyuncuların yarısı önümüzdeki iki yıl içinde Blockchain bazlı sistemler ile entegre olmayı bekliyor ve %84'ü de Akıllı Kontrat ve Blockchain bazlı dağıtık sistemlerin sektörün yeni ortaklar ile iş yapma şekillerini değiştireceğini [belirtiyor](https://insuranceblog.accenture.com/ultimate-guide-to-blockchain-in-insurance).
+Nitekim, küresel anlamda büyük oyuncuların yarısı önümüzdeki iki yıl içinde Blockchain bazlı sistemler ile entegre olmayı bekliyor ve %84'ü de Akıllı Kontrat ve Blockchain bazlı dağıtık sistemlerin sektörün yeni ortaklar ile iş yapma şekillerini değiştireceğini [belirtiyor](https://insuranceblog.accenture.com/ultimate-guide-to-blockchain-in-insurance).
 
 ### Sonuç
 
