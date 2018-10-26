@@ -1,7 +1,7 @@
---
+---
 layout: post
-title:  "Hangi KriptoCüzdan bana uygun?"
-date:   2018-10-12 12:03:34 +0300
+title:  "Sigorta-için-Blockchain"
+date:   2018-10-26 10:03:34 +0300
 categories: Genel
 ---
 
