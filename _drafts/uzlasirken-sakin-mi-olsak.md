@@ -2,16 +2,24 @@
 
 Geçtiğimiz iki yazıda, birbirinden bağımsız olan ve Blockchain sisteminde aktif rol oynayan oyuncuların nasıl olup da birlikte hareket ettiklerinin üzerinden geçmiştik. Önce işin sistematiği (mantığı) nasıl çalışıyor sorusunu geçmişte ortaya çıkmış birbirine güvenmeyen Bizans Generalleri'nin düşmana karşı nasıl ortak hareket ettiğine bakmış, sonra da bu problemin Blockchain özelinde nasıl çözüldüğüne göz atmıştık. 
 
+Geçtiğimiz günlerde Ekim ayının sonunda 10. yılını kutladığımız Bitcoin'in yaratıcısı Satoshi Nakamoto'yu bir kez daha analım ve yaptığı devrim niteliğindeki yeniliğe bir kez daha dikkat çekelim.
+
 ### İşin özü
 
-Bilmemiz gereken kritik nokta şu: Meşhur Satoshi Nakamoto aslında üç noktayı bir araya getirdi. Birincisi, internet ile dağınık ve bağımsız durumda olan bir dünya vardı. İkincisi, bu dağıtık dünyadaki farklı parçaların birbiri ile güvenli iletişimi için Şifreleme (Kriptografi) geliştirilmişti. Bu ilk iki nokta zaten yaklaşık 20-30 yıllık bir süreç içinde geliştirilmişti. Üçüncü olarak da bu dünyadaki farklı parçaların ortada bir aracı olmadan nasıl çalışacağını (bu şekilde çalışmak için nasıl motive edileceklerini ve nasıl ortak karara varacaklarını) belirlemek gerekiyordu. Satoshi işte bu üçüncü noktayı geliştirdi ve bu üç parçayı birleştirdi. 
+Bilmemiz gereken kritik nokta şu: Meşhur Satoshi Nakamoto aslında üç parçayı bir araya getirdi. Bu parçalardan ikisi zaten ortada idi. Satoshi, üçüncü kritik parçayı geliştirdi ve bu üç parçanın birbirleri ile sağlam ve durdurulamaz şekilde çalışmasını sağladı. Neydi bu üç parça?
 
-Sonuç olarak Bitcoin ile bir para yarattı, Blockchain teknolojisini bunun altyapısında kullandı ve bu altyapı çalıştıracak oyuncuların bir arada çalışmasını sağlayacak bir teşvik sistemi kurdu. Daha önce yapılamayan bu son parça idi. Nasıl dağınık yapıdaki parçalar ortada bir aracı olmadan bir arada çalışabilir - işte Bitcoin bu sorunu çözdü ve aracıya olan ihtiyacı kaldırdı. 
+Birincisi, internet. Internet sayesinde birbirinde uzakta ve bağımsız makineler birbirleri ile bağlantı kurabildiler. İkincisi ise şifreleme. Bu dağınık dünyadaki farklı parçaların birbiri ile güvenli iletişimi için Şifreleme (Kriptografi) geliştirildi. 
+
+Bu ilk iki nokta zaten yaklaşık 20-30 yıllık bir süreç içinde geliştirilmişti. Eksik olan bu birbirinden uzakta makinelerin ortada bir aracı olmadan nasıl birlikte çalışacağı ve bu şekilde çalışabilmek için nasıl motive edilecekleri (ve nasıl ortak karara varacaklarını) idi. 
+
+Satoshi Bitcoin adını verdiği fikrinde kurduğu sistemin altyapını işletecek oyuncuların bir arada çalışmasını sağlayan bir teşvik sistemi kurdu. İşte bu daha önce yapılmamış olan bulmacadaki eksik son parça idi. Nasıl dağınık yapıdaki parçalar ortada bir aracı olmadan bir arada çalışabilir - işte Bitcoin bu sorunu çözdü ve aracıya olan ihtiyacı kaldırdı.  Bu sayede Satoshi, herhangi bir otoritenin uhdesinde olmadan kendi kendine çalışan, dış tehditlere karşı kendini koruyan ve on yıldır sarsılmadan ayakta duran bir dijital para yarattı,
+
+Bu üçüncü parçadan biraz daha bahsedelim. Nedir ona bakalım, başka ne tip alternatifleri var onlara da göz gezdirelim. 
 
 
 ### Bitcoin'in meşhur ettiği Proof-of-Work
 
-Proof-of-Work dediğimiz de işte bu parçaların nasıl çalışacağını (sisteme nasıl gireceğini ve neler yapması gerektiğini) belirleyen sistem. O nedenle önemli. Konsensus mekanizmasının çalışması ise, bu bahsettiğimiz makinelerin bu POW'ye göre sistemi girip birlikte çalışıp, o an için oluşan Blockchain zincirlerinden en uzununa doğru evrilmesi, o zincir üzerinde mutabakat sağlanması. Bunun otomatik olması, ve bir aracıya ihtiyaç duyulmaması. 
+Proof-of-Work (POW) işte bu parçaların nasıl çalışacağını (sisteme nasıl gireceğini ve neler yapması gerektiğini) belirleyen kurallar. O nedenle önemli. Konsensus mekanizmasının çalışması ise, bu bahsettiğimiz makinelerin bu POW'ye göre sistemi girip birlikte çalışıp, o an için oluşan Blockchain zincirlerinden en uzununa doğru evrilmesi, o zincir üzerinde mutabakat sağlanması. Bunun otomatik olması, ve bir aracıya ihtiyaç duyulmaması. 
 
 Tabii, Blockchain bazlı dağıtık sistemlerin en meşhuru olan Bitcoin üzerinde bu ortak hareket etme temellerini belirleyen olan Proof-of-Work (pOW)  sistemini anlatırken, bunun aslında çok enerji harcayan bir süreç olduğundan bahsetmiştik. Olaylara maalesef yüzeysel olarak bakan medya, bunu "[Bitcoin 159 ülkeden fazla enerji harcıyor](https://www.cnnturk.com/ekonomi/kripto-para/bitcoin-islemleri-159-ulkeden-fazla-enerji-tuketiyor)" ya da "[İzlanda finans bakanı Bitcoin'in ülkede yerleşim bölgelerindekinden fazla tüketimi olduğu konusunda uyarıda bulundu](https://www.wired.co.uk/article/bitcoin-mining-energy-consumption-new-york)" gibi başlıklar ile veriyor. Hakikaten nedir derseniz, [şu yazıda](https://www.ofnumbers.com/2018/08/26/how-much-electricity-is-consumed-by-bitcoin-bitcoin-cash-ethereum-litecoin-and-monero/#footnote_0_5656) detayları var. Özeti: Bitcoin [elektrik harcaması olarak dünyada 37. sıradaki Avusturya'dan daha fazla ](http://www.wikizero.co/index.php?q=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTGlzdF9vZl9jb3VudHJpZXNfYnlfZWxlY3RyaWNpdHlfY29uc3VtcHRpb24).  
 
