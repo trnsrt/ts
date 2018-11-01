@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Bitcoin Uzlaşması Proof of Work"
