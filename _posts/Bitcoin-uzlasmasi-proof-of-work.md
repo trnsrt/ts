@@ -19,6 +19,10 @@ Bu üçüncü parçadan biraz daha bahsedelim. Nedir ona bakalım, başka ne tip
 
 ### Bitcoin'in meşhur ettiği Proof-of-Work
 
+
+![bitcoin-uzlasma.gif](/assets/bitcoin-uzlasma.gif)
+
+
 Proof-of-Work (PoW) işte bu makinelerin nasıl çalışacağını (sisteme nasıl gireceğini ve sistemde iken neler yapması gerektiğini) belirleyen kurallar. Parçalar sistemin içindeyken de birlikte uyumlu bir şekilde çalışmaları gerek, bu da izledikleri bir uzlaşma mekanizması sayesinde oluyor. Nasıl bir mekanizma bu? Bu bahsettiğimiz parçaların, o an için oluşan Blockchain zincirlerinden en uzununa doğru evrilmesi ve o zincir üzerinde mutabakat sağlanması. Bunun otomatik olması ve bir aracıya ihtiyaç duyulmaması. 
 
 Tabii, Blockchain bazlı dağıtık sistemlerin en meşhuru olan Bitcoin üzerinde bu ortak hareket etme temellerini belirleyen PoW sistemini anlatırken, bunun aslında çok enerji harcayan bir süreç olduğundan bahsetmiştik. Olaylara maalesef yüzeysel olarak bakan medya, bunu "[Bitcoin 159 ülkeden fazla enerji harcıyor](https://www.cnnturk.com/ekonomi/kripto-para/bitcoin-islemleri-159-ulkeden-fazla-enerji-tuketiyor)" ya da "[İzlanda finans bakanı Bitcoin'in ülkede yerleşim bölgelerindekinden fazla tüketimi olduğu konusunda uyarıda bulundu](https://www.wired.co.uk/article/bitcoin-mining-energy-consumption-new-york)" gibi başlıklar ile veriyor. Hakikaten nedir derseniz, [şu yazıda](https://www.ofnumbers.com/2018/08/26/how-much-electricity-is-consumed-by-bitcoin-bitcoin-cash-ethereum-litecoin-and-monero/#footnote_0_5656) detayları var. Özeti: Bitcoin [elektrik harcaması olarak dünyada 37. sıradaki Avusturya'dan daha fazla ](http://www.wikizero.co/index.php?q=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTGlzdF9vZl9jb3VudHJpZXNfYnlfZWxlY3RyaWNpdHlfY29uc3VtcHRpb24).  
