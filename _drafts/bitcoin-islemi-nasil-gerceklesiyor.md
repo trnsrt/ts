@@ -10,7 +10,9 @@ Eğer kriptoparalara ve Bitcoin'e biraz ilgi duyduysanız ya da konuyu biraz ara
 
 Kulağa ilginç ve hoş gelen söylemler. peki ama ne menem bir şeydir bu para transferi? Nasıl emin olabiliyoruz bu kadar? Gelin isterseniz gerçek bir Bitcoin işlemi nasıl oluyor bakalım ve ona göre hakikaten güvenli mi değil mi karar verelim. 
 
+### Bir Bitcoin işlemi
 
+Aşağıda bir Bitcoin işlemi görüyorsunuz. Önemli olan satırlara kısaca bakalım. 
 
 
 
