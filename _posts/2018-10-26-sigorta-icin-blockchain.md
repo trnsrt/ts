@@ -54,3 +54,7 @@ Nitekim, küresel anlamda büyük oyuncuların yarısı önümüzdeki iki yıl i
 ### Sonuç
 
 İçinde bulunduğumuz ekonomik koşullarda, yukarıda anlattıklarım hayal gibi gelebilir. Daha önceki yazılarımızda da belirttiğimiz gibi bu bir vizyon ve dünyanın dört bir yanında, mevcut sigorta oyuncuları, girişimciler, yazılımcılar bu vizyona ulaşabilmek için çalışıyorlar. Vizyonu gerçekleştirmek vakit alacak orası kesin, ama düşündüğünüzden erken olabilir, hazırlıklı olmak ve sigortanızı şimdiden yaptırmakta fayda var. 
+
+& nbsp;
+
+*Not: Yazdığımız 30+ yazının bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](http://ademimerkezi.com/about/) sayfasına göz atabilirsiniz.* 
