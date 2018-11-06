@@ -40,4 +40,9 @@ Bitcoin dışında aslında Bitcoin'in küçük kardeşleri diğer alternatif Kr
 
 ### Arkası yarın
 
-Peki bu kadar enerji harcamaya gerek var mı? Başka başka yöntemlerle de makinelerin ortak hareket etmesi sağlanamaz mı? Bu konuda kafa yoranlar var tabii. Onların geliştirdiği alternatifler de var. İsterseniz bir sonraki yazıda da ona bir göz atalım. 
+Peki bu kadar enerji harcamaya gerek var mı? Başka başka yöntemlerle de makinelerin ortak hareket etmesi sağlanamaz mı? Bu konuda kafa yoranlar var tabii. Onların geliştirdiği alternatifler de var. İsterseniz bir sonraki yazıda da ona bir göz atalım.
+
+&nbsp;
+
+*Not: Yazdığımız 30+ yazının bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](http://ademimerkezi.com/about/) sayfasına göz atabilirsiniz.* 
+
