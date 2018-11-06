@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Proof of Work'ün rakipleri kimler"
+title:  "Proof of Work'ün rakipleri kimler?"
 date:   2018-11-01 10:03:34 +0300
 categories: Genel
 ---
