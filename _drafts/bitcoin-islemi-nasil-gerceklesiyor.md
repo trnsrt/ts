@@ -22,7 +22,7 @@ Transaction ID: Yapılan her işlemin kendine ait bir numarası var. İşte bu o
 
 | ![Bitcoin-first-transaction.png](/assets/Bitcoin-first-transaction.png) | 
 |:--:| 
-| *Mona Lisa'nın bir parçasına sahip olmak ister misiniz?* |
+| *Satoshi'nin gönderdiği ilk Bitcoin* |
 
 &nbsp;
 
