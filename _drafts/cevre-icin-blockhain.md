@@ -22,7 +22,7 @@ Dünyada şu anda çevresel olarak sıkıntı yaratan konular şu şekilde:
 * Temiz hava: İnsanların %91'i Dünya Sağlık Örgütü'nün belirlediği değerden daha kötü hava koşullarına sahip bölgelerde yaşıyor. Yılda 7 milyon insan hava kirliliğinden dolayı yaşamını yitiriyor
 * Doğal felaketler: 2017 yılında 710 felaket yaşandı. Bu 1980 yılının tam üç katı. Toplam 330 Milyar ABD Doları hasar meydana geldi ve 23 milyon insan bu felaketler sonucu yer değiştirdi. 
 
-
+İşte Blockchain bazlı sistemler bu alanlarda ciddi iyileştirmeler sağlayabilir. Neden blockchain? Çünkü, çok fazla oyuncu var, bu oyuncular arasında güven kısmi olarak sağlanmış durumda, denetim/ölçüm mekanizmaları henüz yeterli değil ve kurulması zaman alacak. Girişimler piyasa oyuncuların maliyetlerini kısabilir, koruyucu kurumlara denetimde kolaylıklar sağlayabilir. Özellikle Blockchain teknolojilerinin zaman damgası özelliği ve akıllı kontratların işletileceği mekanizmalar verimli çalışan bir sistem kurulmasına yardımcı olabilir. 
 
 Rapor mevcut sistemleri iyileştirmek amacı güden blockchain bazlı girişimleri şu şekilde grupluyor: 
 * Daha temiz ve verimli merkezi olmayan sistemlere geçişi sağlayanlar
