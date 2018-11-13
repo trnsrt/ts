@@ -10,7 +10,7 @@ Global olarak yaşadığımız dünyayı ciddi şekilde kirlettiğimizin artık 
 
 90'ların başından beri yapılan müzakereler sonucu pekçok alanda hükümetler arası anlaşmalar yapıldı, ülkelerin önüne özellikle çevre kirliliğini azaltma yolunda ödül/ceza sistemleri ve hedefler konuldu. Bu konuda gerek çevreyi kirleten gerekse yaptıkları yeşil yatırımlar ile çevrenin kirletilmesinin önüne geçen firmalar için çevreye verilen ya da önlenen hasarların ölçümlemeleri de yapılıyor. Bu ölçümler sonucu önlenen hasarlar ile ilgili ödül kazanan firmalar bu ödüllerini çevreye zarar veren firmalara satarak, kendi yatırımlarını daha karlı hale getiriyor. 
 
-Yavaş yavaş çark dönmeye başladı. Ancak henüz daha yolun başındayız. Sistemin doğru işlemesi için daha yapılacak çok iyileştirme var. Ve burada Blockchain bazlı teknolojiler bize yardımcı olabilir. Sadece mevcut sistemin iyileşmesi olarak düşünmemek lazım. Sıfırdan yepyeni sistemler de kurulabilir. Bu alanda yapılacaklar o kadar çok ki, World Economic Forum bu alanda yapılabilecek 65 farklı senaryoyu içeren bir rapor bile hazırladı
+Yavaş yavaş çark dönmeye başladı. Ancak henüz daha yolun başındayız. Sistemin doğru işlemesi için daha yapılacak çok iyileştirme var. Ve burada Blockchain bazlı teknolojiler bize yardımcı olabilir. Sadece mevcut sistemin iyileşmesi olarak düşünmemek lazım. Sıfırdan yepyeni sistemler de kurulabilir. Bu alanda yapılacaklar o kadar çok ki, World Economic Forum bu alanda yapılabilecek 65 farklı senaryoyu içeren bir [rapor bile hazırladı](https://www.weforum.org/reports/building-block-chain-for-a-better-planet). (raporun pdf versiyonuna [buradan](http://www3.weforum.org/docs/WEF_Building-Blockchains.pdf) ulaşabilirsiniz)
 
 
 
