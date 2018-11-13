@@ -12,6 +12,7 @@ Global olarak yaşadığımız dünyayı ciddi şekilde kirlettiğimizin artık 
 
 Yavaş yavaş çark dönmeye başladı. Ancak henüz daha yolun başındayız. Sistemin doğru işlemesi için daha yapılacak çok iyileştirme var. Ve burada Blockchain bazlı teknolojiler bize yardımcı olabilir. Sadece mevcut sistemin iyileşmesi olarak düşünmemek lazım. Sıfırdan yepyeni sistemler de kurulabilir. Bu alanda yapılacaklar o kadar çok ki, World Economic Forum bu alanda yapılabilecek 65 farklı senaryoyu içeren bir [rapor bile hazırladı](https://www.weforum.org/reports/building-block-chain-for-a-better-planet). (raporun pdf versiyonuna [buradan](http://www3.weforum.org/docs/WEF_Building-Blockchains.pdf) ulaşabilirsiniz)
 
+PwC ve Stanford Woods Institute ile birlikte hazırlanan bu rapora kısaca göz atmak faydalı olabilir.
 
 
 Uluslararası
