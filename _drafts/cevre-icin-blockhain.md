@@ -12,19 +12,8 @@ Global olarak yaşadığımız dünyayı ciddi şekilde kirlettiğimizin artık 
 
 Yavaş yavaş çark dönmeye başladı. Ancak henüz daha yolun başındayız. Sistemin doğru işlemesi için daha yapılacak çok iyileştirme var. Ve burada Blockchain bazlı teknolojiler bize yardımcı olabilir. Sadece mevcut sistemin iyileşmesi olarak düşünmemek lazım. Sıfırdan yepyeni sistemler de kurulabilir. Bu alanda yapılacaklar o kadar çok ki, World Economic Forum bu alanda yapılabilecek 65 farklı senaryoyu içeren bir [rapor bile hazırladı](https://www.weforum.org/reports/building-block-chain-for-a-better-planet). (raporun pdf versiyonuna [buradan](http://www3.weforum.org/docs/WEF_Building-Blockchains.pdf) ulaşabilirsiniz)
 
-PwC ve Stanford Woods Institute ile birlikte hazırlanan bu rapor, özellikle iklim değişikliği, doğal çeşitliliğin kaybı ve su arzının kısıtlılığı gibi çevresel problemlerde blockchain nasıl uygulanabilir konusuna odaklanıyor. 
+PwC ve Stanford Woods Institute ile birlikte hazırlanan bu rapor, özellikle iklim değişikliği, doğal çeşitliliğin kaybı ve su arzının kısıtlılığı gibi çevresel problemlerde blockchain nasıl uygulanabilir konusuna odaklanıyor. Doğru kurgulandığındai blockchain teknolojisinin daha temiz, kaynakları daha doğru kullanan merkeziyetsiz çözümler sunma ve doğal kaynakları açığa çıkarma ve toplumları güçlendirme potansiyeli olduğundan bahsediliyor. Bu sütunlarda daha önce dile getirilen iki konuya burada da dikkat çekiliyor. Birincisi yeni teknolojilerin mevcut geleneksek ekonomik sistemleri değiştirir hatta ters-yüz ederken yaratılan değeri sadece sermayedarlara değil tüm paydaşlara dağıtma gücü. İkincisi ise bu tip büyük değişimlerin kendiliğinden bir anda olmasının imkansızlığı. Değişim gerçekleşmesi için teknoloji sağlayanlardan politika üreten yapılara farklı paydaşların birlikte çalışma yetisi kazanması. Sadece teknolojik olarak bir platformun uygulanması yeterli değil, sistemlerin de değişmesi gerek bu değişimin kalıcı olması için. 
 
-
-
-
-
-This report focuses on the application of blockchain to address pressing environmental challenges 
-such as climate change, biodiversity loss and water scarcity. It looks at emerging applications, 
-including those that might be the biggest game changers in managing our global environmental 
-commons, while assessing the potential challenges and developing recommendations to address 
-them. Some of these applications could dramatically improve current systems and approaches, while 
-others could completely transform the way humans interact with – and manage – our environmental 
-stability and natural resources
 
 
 Uluslararası
