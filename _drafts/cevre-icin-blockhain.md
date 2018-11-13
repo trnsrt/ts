@@ -47,7 +47,7 @@ Sun Exchange isimli Afrika bazlı bir proje, evlere ücretsiz güneş enerjisi m
 
 *Döngüsel ekonomileri teşvik*: Yeterli teşvik mekanizmaları olmadığı için pek çok ürün çöp haline geliyor. 2050 yılında okyanuslarda balıktan çok plastik atık olacağı tahmin ediliyor. Plastik atıkların geri dönüşümü karşılığı KriptoPara veren birkaç girişim mevcut. Bu KriptoParaları sonrasında yiyecek, su gibi ihtiyaçlar için kullanabiliyorsunuz. Ne kadar başarılı olur tartışılır. Ama daha ilginç projeler de var: Ormanların yok edilmesine karşı, GainForest isimli girişim çiftçilere ilginç bir finansal teşvik sağlıyor. Ormanlara yerleştirilen uydu sistemleri ile ağaç kesimleri takip edilebiliyor ve ormansal alanda değişim olmaması durumunda akıllı kontratlar devreye giriyor ve çiftçilerin hesabına belli miktar para yatıyor. 
 
-
+*Karbon emisyon pazarlarını değiştirmek*: 
 
 
 Uluslararası
