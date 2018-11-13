@@ -62,7 +62,7 @@ Yukarıda yazılan pek çok konuda fikirler henüz ham, daha olgunlaşmamış. G
 
 ### Sonuç
 
-Evet, gördüğünüz gibi, kendi içinde bulunduğumuz ülkemiz ve küçük dünyamızı aşıp uluslararası alan baktığımızda, sınır ötesi işlemlerde Blockchain bazlı sistemlerin aracıları ortadan kaldıran yapısının hemen hemen her alanda gerek çevresel olarak gerekse maddi olarak sağlayacağı faydalar olduğu çok açık. Ulusal yapılar ve politikalar 
+Evet, gördüğünüz gibi, kendi içinde bulunduğumuz ülkemiz ve küçük dünyamızı aşıp uluslararası alan baktığımızda, sınır ötesi işlemlerde Blockchain bazlı sistemlerin aracıları ortadan kaldıran yapısının hemen hemen her alanda gerek çevresel olarak gerekse maddi olarak sağlayacağı faydalar olduğu çok açık. Ulusal yapılar ve politik çıkarlar bu faydaları yaşamamıza ne kadar izin verecek bunu hep birlikte yaşayarak göreceğiz. 
 
 
 
