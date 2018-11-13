@@ -15,7 +15,12 @@ Yavaş yavaş çark dönmeye başladı. Ancak henüz daha yolun başındayız. S
 PwC ve Stanford Woods Institute ile birlikte hazırlanan bu rapor, özellikle iklim değişikliği, doğal çeşitliliğin kaybı ve su arzının kısıtlılığı gibi çevresel problemlerde blockchain nasıl uygulanabilir konusuna odaklanıyor. Doğru kurgulandığındai blockchain teknolojisinin daha temiz, kaynakları daha doğru kullanan merkeziyetsiz çözümler sunma ve doğal kaynakları açığa çıkarma ve toplumları güçlendirme potansiyeli olduğundan bahsediliyor. Bu sütunlarda daha önce dile getirilen iki konuya burada da dikkat çekiliyor. Birincisi yeni teknolojilerin mevcut geleneksek ekonomik sistemleri değiştirir hatta ters-yüz ederken yaratılan değeri sadece sermayedarlara değil tüm paydaşlara dağıtma gücü. İkincisi ise bu tip büyük değişimlerin kendiliğinden bir anda olmasının imkansızlığı. Değişim gerçekleşmesi için teknoloji sağlayanlardan politika üreten yapılara farklı paydaşların birlikte çalışma yetisi kazanması. Sadece teknolojik olarak bir platformun uygulanması yeterli değil, sistemlerin de değişmesi gerek bu değişimin kalıcı olması için. 
 
 Dünyada şu anda çevresel olarak sıkıntı yaratan konular şu şekilde: 
-* 
+* İklim değişikliği: Şu anda sera gazı 3 milyon yılın en yükseğinde. 2100 yılında sadece Avrupa'da yılda 150,000 kişinin aşırı sıcaktan ölmesi bekleniyor. 
+* Doğal çeşitliliğin azalması: Mevcut canlı türlerinin beşte biri yok olma tehlikesinde ve yüzyılın sonunda bu oran %50 seviyelerinde olacak. Amazonlardaki ağaç kesiminin 2050 yılında bölgedeki yağış oranını %8 oranında azaltacak ve tüm dünyad ekolojik olarak bu durumdan etkilenecek
+* Sağlıklı okyanuslar: Gerek plastik atıklar gerekse okyanusların sera gazını emmesi sebebiyle okyanuslarda asidite ve sıcaklık artışı hem balık sayı ve çeşidini hem de deniz altı zenginliklerini ciddi şekilde azaltacak
+* Temiz suya erişim: Yılda %1 oranında artan temiz su ihtiyacı şu anda 1.9 milyar insan için bir eksiklik ve 2050 yılında bu rakamın 3 milyara çıkması bekleniyor
+* Temiz hava: İnsanların %91'i Dünya Sağlık Örgütü'nün belirlediği değerden daha kötü hava koşullarına sahip bölgelerde yaşıyor. Yılda 7 milyon insan hava kirliliğinden dolayı yaşamını yitiriyor
+* Doğal felaketler: 2017 yılında 710 felaket yaşandı. Bu 1980 yılının tam üç katı. Toplam 330 Milyar ABD Doları hasar meydana geldi ve 23 milyon insan bu felaketler sonucu yer değiştirdi. 
 
 
 
