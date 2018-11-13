@@ -14,6 +14,25 @@ Yavaş yavaş çark dönmeye başladı. Ancak henüz daha yolun başındayız. S
 
 PwC ve Stanford Woods Institute ile birlikte hazırlanan bu rapor, özellikle iklim değişikliği, doğal çeşitliliğin kaybı ve su arzının kısıtlılığı gibi çevresel problemlerde blockchain nasıl uygulanabilir konusuna odaklanıyor. Doğru kurgulandığındai blockchain teknolojisinin daha temiz, kaynakları daha doğru kullanan merkeziyetsiz çözümler sunma ve doğal kaynakları açığa çıkarma ve toplumları güçlendirme potansiyeli olduğundan bahsediliyor. Bu sütunlarda daha önce dile getirilen iki konuya burada da dikkat çekiliyor. Birincisi yeni teknolojilerin mevcut geleneksek ekonomik sistemleri değiştirir hatta ters-yüz ederken yaratılan değeri sadece sermayedarlara değil tüm paydaşlara dağıtma gücü. İkincisi ise bu tip büyük değişimlerin kendiliğinden bir anda olmasının imkansızlığı. Değişim gerçekleşmesi için teknoloji sağlayanlardan politika üreten yapılara farklı paydaşların birlikte çalışma yetisi kazanması. Sadece teknolojik olarak bir platformun uygulanması yeterli değil, sistemlerin de değişmesi gerek bu değişimin kalıcı olması için. 
 
+Dünyada şu anda çevresel olarak sıkıntı yaratan konular şu şekilde: 
+* 
+
+
+
+Rapor mevcut sistemleri iyileştirmek amacı güden blockchain bazlı girişimleri şu şekilde grupluyor: 
+* Daha temiz ve verimli merkezi olmayan sistemlere geçişi sağlayanlar
+* Kaynak ya da ruhsatların kişiden-kişiye (Peer-to-peer P2P) ticareti
+* Tedarik zinciri yönetimi ve şeffaflık
+* Çevresel sonuçları değerlendirecek finansal modeller
+* Doğal sermayenin ve finansal olmayan değerlerin ortaya çıkarılması
+
+
+
+
+
+Mevcut sistemleri iyileştirmek dışında ezber bozan girişimler de var. Hangi alanlarda?
+* 
+
 
 
 Uluslararası
