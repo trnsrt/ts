@@ -53,7 +53,16 @@ Yeterli teşvik mekanizmaları olmadığı için pek çok ürün çöp haline ge
 
 *Karbon emisyon pazarlarını değiştirmek*: Karbon emisyon ticaretinin başladığı ilk günlerden bu yana işlemlerin görünür ve izlenebilir olmaması, değişik ğlkelerde uygulanan değişik standartlar ve kanunlar, çifte harcama (double counting) gibi konular hep şüphe uyandırıyor. Bu sorunlara gidermeye yönelik IBM ile Enerji Blockchain Labs'in ortaklaşa gerçekleştirdiği "Çin'de Karbon Kredi Yönetim Programı" başarılı olursa tüm dünyaya yayılmayı planlıyor. 
 
-*Yeni Generasyon Sürdürülebilirlik İzleme ve Raporlamalar*: Tedarik zincirine benzer şekilde tüm dünyada önde gelen kurum ve kuruluşların sürdürülebilirlik konularında iş modellerini revize etmek yönünde ciddi taahütleri var ancak bunu tam layıkıyla gösterebilecekleri mekanizmalar az. Blockchain bazlı sistemler şirketlere kendilerini daha iyi ifade etme imkanı verirken, son kullanıcılara da şirketlerin performansını değerlendirme ve tüketim tercihlerini daha doğru yapabilme imkanı veriyor. 
+*Yeni Generasyon Sürdürülebilirlik İzleme ve Raporlamalar*: 
+Tedarik zincirine benzer şekilde tüm dünyada önde gelen kurum ve kuruluşların sürdürülebilirlik konularında iş modellerini revize etmek yönünde ciddi taahütleri var ancak bunu tam layıkıyla gösterebilecekleri mekanizmalar az. Blockchain bazlı sistemler şirketlere kendilerini daha iyi ifade etme imkanı verirken, son kullanıcılara da şirketlerin performansını değerlendirme ve tüketim tercihlerini daha doğru yapabilme imkanı veriyor. 
+
+### Engeller
+
+Yukarıda yazılan pek çok konuda fikirler henüz ham, daha olgunlaşmamış. Gerçekleşebilmelerinin önünde engeller de var. Nedir bu engeller? Öncelikle, bahsettiğimiz değişiklerin hepsi tüketici alışkanlıklarında bir değişim gerektiriyor. Ekonomik menfaatler bu tip değişiklikleri hızlandırsa da, kimi projeler pratik olmayabilir ve bu nedenle yaygınlaşmayabilir. Bunun yanında, bu sistemlerin gelişmesine destek olacak endüstriyel değişimler yeterince hızlı gelişmeyebilir ya da yenilikler blockchain sistemleri ile uyumlu olmayabilir. Tedarik zincirleri için blockchain yazımızda belirttiğimiz gibi, çok partinin taraf olduğu sistemlerde oyunculardan bir kısmı hassas bilgileri diğerleri ile paylaşmak istemeyebilirler. Bunun dışında her ülkede kanunların farklı olması özellikle uluslararası nitelikteki projelerde adaptasyon ve canlılığa ket vuracak sıkıntılar doğurabilir. Keza, pek çok alanda değişik oyuncular tarafından geliştirilecek Blockchain sistemlerinin birbirleri ile iletişimi de sıkıntı yaratabilir ancak kişisel olarak bu sorunun teknolojik bir sorun olarak yukarıdaki kültürel ya da kanuni sorunlara göre çok daha kolay şekilde aşılabileceğini düşünüyorum. 
+
+### Sonuç
+
+Evet, gördüğünüz gibi, kendi içinde bulunduğumuz ülkemiz ve küçük dünyamızı aşıp uluslararası alan baktığımızda, sınır ötesi işlemlerde Blockchain bazlı sistemlerin aracıları ortadan kaldıran yapısının hemen hemen her alanda gerek çevresel olarak gerekse maddi olarak sağlayacağı faydalar olduğu çok açık. Ulusal yapılar ve politikalar 
 
 
 
