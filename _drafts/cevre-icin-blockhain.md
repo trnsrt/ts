@@ -22,21 +22,31 @@ Dünyada şu anda çevresel olarak sıkıntı yaratan konular şu şekilde:
 * Temiz hava: İnsanların %91'i Dünya Sağlık Örgütü'nün belirlediği değerden daha kötü hava koşullarına sahip bölgelerde yaşıyor. Yılda 7 milyon insan hava kirliliğinden dolayı yaşamını yitiriyor
 * Doğal felaketler: 2017 yılında 710 felaket yaşandı. Bu 1980 yılının tam üç katı. Toplam 330 Milyar ABD Doları hasar meydana geldi ve 23 milyon insan bu felaketler sonucu yer değiştirdi. 
 
-İşte Blockchain bazlı sistemler bu alanlarda ciddi iyileştirmeler sağlayabilir. Neden blockchain? Çünkü, çok fazla oyuncu var, bu oyuncular arasında güven kısmi olarak sağlanmış durumda, denetim/ölçüm mekanizmaları henüz yeterli değil ve kurulması zaman alacak. Girişimler piyasa oyuncuların maliyetlerini kısabilir, koruyucu kurumlara denetimde kolaylıklar sağlayabilir. Özellikle Blockchain teknolojilerinin zaman damgası özelliği ve akıllı kontratların işletileceği mekanizmalar verimli çalışan bir sistem kurulmasına yardımcı olabilir. 
+İşte Blockchain bazlı sistemler bu alanlarda ciddi iyileştirmeler sağlayabilir. Neden Blockchain? Çünkü, çok fazla oyuncu var, bu oyuncular arasında güven kısmi olarak sağlanmış durumda, denetim/ölçüm mekanizmaları henüz yeterli değil ve kurulması zaman alacak. Girişimler piyasa oyuncuların maliyetlerini kısabilir, koruyucu kurumlara denetimde kolaylıklar sağlayabilir. Özellikle Blockchain teknolojilerinin zaman damgası özelliği ve akıllı kontratların işletileceği mekanizmalar verimli çalışan bir sistem kurulmasına yardımcı olabilir. 
 
-Rapor mevcut sistemleri iyileştirmek amacı güden blockchain bazlı girişimleri şu şekilde grupluyor: 
+#### Mevcut durumu iyileştirmeye yönelik girişimler
+
+Rapor mevcut durumu iyileştirmek amacı güden blockchain bazlı girişimleri şu şekilde grupluyor: 
 * Daha temiz ve verimli merkezi olmayan sistemlere geçişi sağlayanlar
 * Kaynak ya da ruhsatların kişiden-kişiye (Peer-to-peer P2P) ticareti
 * Tedarik zinciri yönetimi ve şeffaflık
 * Çevresel sonuçları değerlendirecek finansal modeller
 * Doğal sermayenin ve finansal olmayan değerlerin ortaya çıkarılması
 
+#### Ezber bozan girişimler
 
+Mevcut sistemleri iyileştirmek dışında ezber bozan girişimler de var. Ne demek bu? Endüstriyel alandaki gelişmeleri de içine alarak mevcut iş yapış biçimlerini değiştirecek, reform yapacak girişimler. Hangi alanlarda? Aşağıda bakacağız. Ancak hemen hatırlatalım, bu fikirlerin pek çoğu daha henüz test aşamasında - henüz yaygın adapte edilecek kadar olgun değiller. 
 
+*Şeffar tedarik zinciri*: Pekçok kurum çevresel olarak hükümetlere ve topluma karşı taahhütlerde bulunuyor. Ancak şirketler ne kadar samimi olsalar da taahhütlerin ne şekilde yerine getirildiği ile ilgili şeffaflık yok - özellikle tedarik zincirlerinde. Kaynaktan son kullanıcıya değiştirilemez ve şeffaf şekilde tutulan blockchain verisi kurumlara hem risk yönünden kendi iç sistemlerini yönetmek hem de dış dünyaya yaptıklarını göstermek açısında yardımcı olabilir. Son tüketici, sivil toplum kuruluşu ve hükümet gibi dış paydaşlara da bu eforu görme ve takip etme imkanı. 
 
+*Merkezi olmayan ve sürdürülebilir kaynak yönetimi*:  Mevcut merkezi elektrik-su-doğalgaz hizmet sağlayıcıların arz-talep dengesini sağlayamama, dağıtımda kaçakları önleyememe, tekil arıza noktası olma gibi sorunları var. Evlerde kullanılacak akıllı sensör gibi endüstriyel yenilikleri kullanacak platformlar son kullancıları kullanım alışkanlığı ve datası konusunda daha donanımlı hale getirecek ve merkezi olmayan yapıları kullanma konusunda ellerini güçlendirecek. Neler bu yapılar? Kişiden kişiye ticaretten tutun, dinamik olarak fiyatlamadan yararlanmaya, arz-talep içinde en optimal yapılara bulmaya kadar. Şu an için çok ütopik geliyor kulağa. Ama bu konuda [Brooklyn MicroGrid Project](https://www.brooklyn.energy/) adında bir projenin New York'ta başlatıldığını hatırlatalım. 
 
-Mevcut sistemleri iyileştirmek dışında ezber bozan girişimler de var. Hangi alanlarda?
-* 
+*Sürdürülebilir finans için kaynak sağlama* Birleşmiş Milletlerin belirlemiş olduğu [Sürdürülebilir Gelişim Hedefleri](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)'nin gerçekleştirilebilmesi için gerekli kaynaklarını bulunmasında yıllık 5-7 Trilyon ABD Doları açık var ve bunun 2,5 Trilyon ABD Dolarlık kısmı gelişmekte olan ülkelerde. Bu açık boşa gidecek bir açık da değil bu arada. Bu alanda yapılacak yatırımlardan ciddi bir geri dönüş sağlanabilir - yani oldukça fizibl yatırımlar. Bu alana yatırım yapmak isteyenler de var. Ancak veri eksikliğinden tutun, finansal olarak oldukça kompleks yapılar gerektiren bu alanda yatırımcılar ile ihtiyaç sahipleri bir türlü bir araya gelemiyor. Geldiği durumda başarı hikayeleri de ortaya çıkmıyor değil. 
+
+Sun Exchange isimli Afrika bazlı bir proje, evlere ücretsiz güneş enerjisi modülleri takma, ev sahiplerinin elektrik faturası ödemek yerine tasarruf ettikleri paranın bir kısmını kira olarak ödemesi şeklinde bir model geliştirmiş. Kira olarak ödenen rakam, kullanım bazlı olarak sensorlar aracılığıyla üreticiye gönderiliyor. Eğer evde oturan kirayı ödemez ise yine uzaktan kumanda ile hizmet kesiliyor. Hatta bu sistemi Afrika dışında Filipinler'de kurma gibi girişimleri de olmuş ancak yabancı bir para cinsinden para tahsil ve transfer etmede sorun yaşıyorlar. Bunu çözebilmek için Filipinler'de KriptoPara kullanımının yaygınlaşmasını beklemek zorundalar :) 
+
+*Döngüsel ekonomileri teşvik*: Yeterli teşvik mekanizmaları olmadığı için pek çok ürün çöp haline geliyor. 2050 yılında okyanuslarda balıktan çok plastik atık olacağı tahmin ediliyor. Plastik atıkların geri dönüşümü karşılığı KriptoPara veren birkaç girişim mevcut. Bu KriptoParaları sonrasında yiyecek, su gibi ihtiyaçlar için kullanabiliyorsunuz. Ne kadar başarılı olur tartışılır. Ama daha ilginç projeler de var: Ormanların yok edilmesine karşı, GainForest isimli girişim çiftçilere ilginç bir finansal teşvik sağlıyor. Ormanlara yerleştirilen uydu sistemleri ile ağaç kesimleri takip edilebiliyor ve ormansal alanda değişim olmaması durumunda akıllı kontratlar devreye giriyor ve çiftçilerin hesabına belli miktar para yatıyor. 
+
 
 
 
