@@ -10,7 +10,6 @@ Geçtiğimiz yazılarda Blockchain bazlı dağıtık sistemlerin faydalı olabil
 
 ![environmental-protection-1_640.jpg](/assets/environmental-protection-1_640.jpg)
 
-&nbsp;
 
 ### Blockchain çevre için neden önemli?
 
@@ -32,11 +31,6 @@ PwC ve Stanford Woods Institute ile birlikte hazırlanan bu [rapor](https://www.
 Bu arada bu sütunlarda daha önce dile getirilen iki konuya burada da dikkat çekiliyor. Birincisi yeni teknolojilerin, mevcut geleneksel ekonomik sistemleri değiştirirken (hatta ters-yüz ederken) yaratılan değeri sadece sermayedarlara değil tüm paydaşlara dağıtma gücü. İkincisi ise bu tip büyük değişimlerin kendiliğinden bir anda olmayacağı. Değişimin gerçekleşebilmesi için teknoloji sağlayıcılardan politika üreten kurumlara kadar farklı her bir paydaşın birlikte çalışma kabiliyeti kazanması gerek. Sadece teknolojik olarak bir platformun uygulanması yeterli değil, sistemlerin de değişmesi gerek bu değişimin kalıcı olması için. 
 
 
-![environmental-protection-2_640.jpg](/assets/environmental-protection-2_640.jpg)
-
-
-&nbsp;
-
 ### Çevresel sorunlar neler?
 
 Dünyada şu anda çevresel olarak sıkıntı yaratan konuları sıralarsak: 
@@ -46,6 +40,10 @@ Dünyada şu anda çevresel olarak sıkıntı yaratan konuları sıralarsak:
 * Temiz suya erişim: Yılda %1 oranında artan temiz su ihtiyacı şu anda 1,9 milyar insan için bir eksiklik ve 2050 yılında bu rakamın 3 milyara çıkması bekleniyor.
 * Temiz hava: İnsanların %91'i Dünya Sağlık Örgütü'nün belirlediği değerden daha kötü hava koşullarına sahip bölgelerde yaşıyor. Yılda 7 milyon insan hava kirliliğinden dolayı yaşamını yitiriyor.
 * Doğal felaketler: 2017 yılında 710 felaket yaşandı. Bu 1980 yılının tam üç katı. Toplam 330 Milyar ABD Doları hasar meydana geldi ve 23 milyon insan bu felaketler sonucu yer değiştirdi. 
+
+
+![environmental-protection-2_640.jpg](/assets/environmental-protection-2_640.jpg)
+
 
 ###  Arkası yarın: Blockchain nasıl işe yarar?
 
