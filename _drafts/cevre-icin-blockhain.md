@@ -49,24 +49,24 @@ Bu girişimler daha çok süreci iyileştirmeye yarayacak getirileri nispeten ma
 
 Mevcut sistemleri iyileştirmek dışında ezber bozan girişimler de var. Ne demek bu? Mevcut iş yapış biçimlerini değişitirecek, reform yapacak girişimler. Bunu yaparken de bir yandan endüstriyel alandaki son yıllarda yaşanan yenilikleri de içine alacak biraz da onlar sayesinde vizyonlarına ulaşacak fikirler (Ancak hemen hatırlatalım, bu fikirlerin pek çoğu daha test aşamasında - henüz yaygın adapte edilecek kadar olgun değiller) 
 
-*Şeffaf tedarik zinciri*:   
+##### *Şeffaf tedarik zinciri*:   
 Pek çok kurum çevresel olarak hükümetlere ve topluma karşı taahhütlerde bulunuyor. Ancak şirketler ne kadar samimi olsalar da bu taahhütlerin ne şekilde yerine getirildiği ile ilgili bir açıklık yok - özellikle tedarik zincirlerinde. Kaynaktan son kullanıcıya değiştirilemez ve şeffaf şekilde tutulan Blockchain verisi şirketlere hem riski algılamak ve kendi iç sistemlerini yönetmek hem de dış dünyaya aldıkları bu aksiyonları gösterebilmek açısından yardımcı olabilir. Şirketlere faydasının yanında son tüketici, sivil toplum kuruluşu ve hükümet gibi dış paydaşlara da bu eforu görme, takip ve takdir etme imkanı verebilir.
 
-*Merkezi olmayan ve sürdürülebilir kaynak yönetimi*:  
+##### *Merkezi olmayan ve sürdürülebilir kaynak yönetimi*:  
 Mevcut merkezi elektrik-su-doğalgaz hizmet sağlayıcıların arz-talep dengesini sağlayamama, dağıtımda kaçakları önleyememe, tekil arıza noktası olma gibi sorunları var. Evlere yerleştirilecek akıllı sensör gibi endüstriyel yenilikleri kullanacak platformlar son kullanıcıların bu alanda yeni kapılar açıyor. Nasıl? Kullanım bilgisi ve alışkanlıklar konusunda onları daha bilgili ve donanımlı hale getiriyor ve merkezi olmayan yapıları kullanma konusunda ellerini güçlendiriyor. Hangi alanlarda? Kişiden kişiye ticaretten tutun, dinamik fiyatlama yapmaya, arz-talep dengesi içinde kendilerine en optimal hizmet sağlayıcıyı bulmaya kadar. Şu an için çok ütopik gelmekle birlikte bu konuda [Brooklyn MicroGrid Project](https://www.brooklyn.energy/) isimli bir projenin New York'ta başlatıldığını hatırlatalım. 
 
-*Sürdürülebilir finans için kaynak sağlama*:   
+##### *Sürdürülebilir finans için kaynak sağlama*:   
 Birleşmiş Milletlerin belirlemiş olduğu [Sürdürülebilir Gelişim Hedefleri](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)'nin gerçekleştirilebilmesi için gerekli kaynaklar anlamında yıllık 5-7 Trilyon ABD Doları yatırım açığı var ve bunun 2,5 Trilyon ABD Dolarlık kısmı gelişmekte olan ülkelerde. Bu boşa harcanan bir para da değil bu arada. Bu alanda yapılacak yatırımlardan ciddi bir geri dönüş sağlanabilir - yani oldukça karlı yatırımlar ve bu alana yatırım yapmak isteyenler de var. Ancak veri eksikliğinden tutun, finansal karmaşlıklığa pek çok sorun nedeniyle yatırımcılar ile ihtiyaç sahipleri bir türlü bir araya gelemiyor. Geldiği durumda başarı hikayeleri de ortaya çıkmıyor değil, şöyle ki:
 
 Sun Exchange isimli Afrika bazlı bir proje, evlere ücretsiz güneş enerjisi modülleri takma ve ev sahiplerinin elektrik faturası yerine tasarruf ettikleri paranın bir kısmını kira olarak ödemesi şeklinde bir model geliştirmiş. Kira olarak ödenen rakam, kullanım bazlı olarak sensorlar aracılığıyla bu firmaya gönderiliyor. Eğer evde oturanlar kirayı ödemez ise yine uzaktan kumanda ile hizmet kesiliyor. Hatta bu sistemi Afrika dışında Filipinler'de kurma gibi girişimleri de olmuş ancak yabancı para cinsinden para tahsil ve transfer etmede sorun yaşıyorlar. Bunu çözebilmek için Filipinler'de KriptoPara kullanımının yaygınlaşmasını beklemek zorundalar :) 
 
-*Döngüsel ekonomileri teşvik*:   
+##### *Döngüsel ekonomileri teşvik*:   
 Yeterli teşvik mekanizmaları olmadığı için pek çok ürün çöp haline geliyor. 2050 yılında okyanuslarda balıktan çok plastik atık olacağı tahmin ediliyor. Plastik atıkların geri dönüşümü karşılığı KriptoPara veren birkaç girişim mevcut. Bu KriptoParaları sonrasında yiyecek, su gibi ihtiyaçlar için kullanabiliyorsunuz. Ne kadar başarılı olur tartışılır. Ama daha ilginç projeler de var: Ormanların yok edilmesine karşı, GainForest isimli girişim çiftçilere ilginç bir finansal teşvik sağlıyor. Ormanlara yerleştirilen uydu sistemleri ile ağaç kesimleri takip edilebiliyor. Orman alanında değişim olmaması durumunda akıllı kontratlar devreye giriyor ve çiftçilerin hesabına belli miktar para yatıyor. 
 
-*Karbon emisyon pazarlarını değiştirmek*:   
+##### *Karbon emisyon pazarlarını değiştirmek*:   
 Karbon emisyon ticaretinin başladığı ilk günlerden bu yana işlemlerin görünür ve izlenebilir olmaması, değişik ülkelerde uygulanan farklı standartlar ve kanunlar, çifte harcama (double counting) gibi konular hep şüphe uyandırıyor. Bu sorunları gidermeye yönelik IBM ile Enerji Blockchain Labs'in ortaklaşa gerçekleştirdiği "Çin'de Karbon Kredi Yönetim Programı" başarılı olursa tüm dünyaya yayılmayı planlıyor. 
 
-*Yeni nesil sürdürülebilirlik izleme ve raporlama sistemleri*:   
+##### *Yeni nesil sürdürülebilirlik izleme ve raporlama sistemleri*:   
 Tedarik zincirine benzer şekilde tüm dünyada önde gelen kurum ve kuruluşların sürdürülebilirlik konusunda iş modellerini revize etmek yönünde ciddi taahhütleri var ancak bunu tam layıkıyla gösterebilecekleri mekanizmalar az. Blockchain bazlı sistemler şirketlere kendilerini daha iyi ifade etme imkanı verirken, son kullanıcılara da bu şirketlerin performansını değerlendirme ve tüketim tercihlerini daha doğru yapabilme imkanı veriyor. 
 
 ### Engeller
