@@ -11,6 +11,9 @@ Geçtiğimiz [yazıda](https://ademimerkezi.com/genel/2018/11/16/cevre-icin-bloc
 
 >Blockchain bazlı sistemler çevre alanında ciddi iyileştirmeler sağlayabilir. Neden Blockchain? Çünkü çok fazla oyuncu var. Bu oyuncular arasında tam olmasa da bir güvensizlik var (ve yaşanan pek çok felaketin ihmal ve daha korkuncu gizlemeden dolayı olduğu biliniyor). Denetim/ölçüm mekanizmaları henüz yeterli değil ve kurulması zaman alacak. Blockchain bazlı yenilikler piyasa oyuncuların maliyetlerini azaltabilir, yatırımların tamamlanma süresini kısaltabilir ve koruyucu kurumlara denetimde kolaylıklar sağlayabilir. Özellikle Blockchain teknolojilerinin zaman damgası özelliği ve akıllı kontratların işletileceği mekanizmalar verimli çalışan bir sistem kurulmasına yardımcı olabilir.
 
+
+&nbsp;
+
 ![planet-1_640.jpg](/assets/planet-1_640.jpg)
 
 ### Mevcut durumu iyileştirmeye yönelik girişimler
@@ -65,3 +68,9 @@ Teknolojik olarak ise pek çok alanda değişik oyuncular tarafından geliştiri
 ### Sonuç
 
 Evet, gördüğünüz gibi, kendi içinde bulunduğumuz ülkemiz ve küçük dünyamızı aşıp uluslararası alana baktığımızda, sınır ötesi işlemlerde Blockchain bazlı sistemlerin aracıları ortadan kaldıran yapısının hemen hemen her alanda gerek çevresel kazanç olarak gerekse finansal anlamda sağlayacağı faydalar olduğu çok açık. Ulusal yapılar ve politik çıkarlar Blockchain ile ortaya çıkabilecek bu faydaları deneyimlememize ne kadar izin verecek bunu hep birlikte yaşayarak göreceğiz. 
+
+
+
+&nbsp;
+
+*Not: Yazdığımız 30+ yazının bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](http://ademimerkezi.com/about/) sayfasına göz atabilirsiniz.* 
