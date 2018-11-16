@@ -22,7 +22,7 @@ PwC ve Stanford Woods Institute ile birlikte hazırlanan bu [rapor](https://www.
 
 Bu arada bu sütunlarda daha önce dile getirilen iki konuya burada da dikkat çekiliyor. Birincisi yeni teknolojilerin, mevcut geleneksel ekonomik sistemleri değiştirirken (hatta ters-yüz ederken) yaratılan değeri sadece sermayedarlara değil tüm paydaşlara dağıtma gücü. İkincisi ise bu tip büyük değişimlerin kendiliğinden bir anda olmayacağı. Değişimin gerçekleşebilmesi için teknoloji sağlayıcılardan politika üreten kurumlara kadar farklı her bir paydaşın birlikte çalışma kabiliyeti kazanması gerek. Sadece teknolojik olarak bir platformun uygulanması yeterli değil, sistemlerin de değişmesi gerek bu değişimin kalıcı olması için. 
 
-#### Çevresel sorunlar neler?
+### Çevresel sorunlar neler?
 
 Dünyada şu anda çevresel olarak sıkıntı yaratan konuları sıralarsak: 
 * İklim değişikliği: Şu anda sera gazı 3 milyon yılın en yüksek seviyesinde. 2100 yılında sadece Avrupa'da yılda 150,000 kişinin aşırı sıcaktan ölmesi bekleniyor. 
@@ -34,7 +34,7 @@ Dünyada şu anda çevresel olarak sıkıntı yaratan konuları sıralarsak:
 
 İşte Blockchain bazlı sistemler bu alanlarda ciddi iyileştirmeler sağlayabilir. Neden Blockchain? Çünkü çok fazla oyuncu var. Bu oyuncular arasında tam olmasa da bir güvensizlik var (yaşanan pek çok felaketin ihmal ve daha korkuncu gizlemeden dolayı olduğu biliniyor). Denetim/ölçüm mekanizmaları henüz yeterli değil ve kurulması zaman alacak. Blockchain bazlı yenilikler piyasa oyuncuların maliyetlerini azaltabilir, yatırımların tamamlanma süresini kısaltabilir ve koruyucu kurumlara denetimde kolaylıklar sağlayabilir. Özellikle Blockchain teknolojilerinin zaman damgası özelliği ve akıllı kontratların işletileceği mekanizmalar verimli çalışan bir sistem kurulmasına yardımcı olabilir. 
 
-#### Mevcut durumu iyileştirmeye yönelik girişimler
+### Mevcut durumu iyileştirmeye yönelik girişimler
 
 Rapor mevcut durumu iyileştirmek amacı güden blockchain bazlı girişimleri şu şekilde grupluyor: 
 * Daha temiz ve verimli, merkezi olmayan sistemlere geçişi sağlayanlar
@@ -45,14 +45,14 @@ Rapor mevcut durumu iyileştirmek amacı güden blockchain bazlı girişimleri �
 
 Bu girişimler daha çok süreci iyileştirmeye yarayacak getirileri nispeten marjinal fikirler. Bunların üzerinde fazla durmadan vizyon açan başka fikirler de var. Dilerseniz hemen onlara bakalım.  
 
-#### Ezber bozan girişimler
+### Ezber bozan girişimler
 
 Mevcut sistemleri iyileştirmek dışında ezber bozan girişimler de var. Ne demek bu? Mevcut iş yapış biçimlerini değişitirecek, reform yapacak girişimler. Bunu yaparken de bir yandan endüstriyel alandaki son yıllarda yaşanan yenilikleri de içine alacak biraz da onlar sayesinde vizyonlarına ulaşacak fikirler (Ancak hemen hatırlatalım, bu fikirlerin pek çoğu daha test aşamasında - henüz yaygın adapte edilecek kadar olgun değiller) 
 
 **Şeffaf tedarik zinciri:**   
 Pek çok kurum çevresel olarak hükümetlere ve topluma karşı taahhütlerde bulunuyor. Ancak şirketler ne kadar samimi olsalar da bu taahhütlerin ne şekilde yerine getirildiği ile ilgili bir açıklık yok - özellikle tedarik zincirlerinde. Kaynaktan son kullanıcıya değiştirilemez ve şeffaf şekilde tutulan Blockchain verisi şirketlere hem riski algılamak ve kendi iç sistemlerini yönetmek hem de dış dünyaya aldıkları bu aksiyonları gösterebilmek açısından yardımcı olabilir. Şirketlere faydasının yanında son tüketici, sivil toplum kuruluşu ve hükümet gibi dış paydaşlara da bu eforu görme, takip ve takdir etme imkanı verebilir.
 
-##### *Merkezi olmayan ve sürdürülebilir kaynak yönetimi*:  
+**Merkezi olmayan ve sürdürülebilir kaynak yönetimi**:  
 Mevcut merkezi elektrik-su-doğalgaz hizmet sağlayıcıların arz-talep dengesini sağlayamama, dağıtımda kaçakları önleyememe, tekil arıza noktası olma gibi sorunları var. Evlere yerleştirilecek akıllı sensör gibi endüstriyel yenilikleri kullanacak platformlar son kullanıcıların bu alanda yeni kapılar açıyor. Nasıl? Kullanım bilgisi ve alışkanlıklar konusunda onları daha bilgili ve donanımlı hale getiriyor ve merkezi olmayan yapıları kullanma konusunda ellerini güçlendiriyor. Hangi alanlarda? Kişiden kişiye ticaretten tutun, dinamik fiyatlama yapmaya, arz-talep dengesi içinde kendilerine en optimal hizmet sağlayıcıyı bulmaya kadar. Şu an için çok ütopik gelmekle birlikte bu konuda [Brooklyn MicroGrid Project](https://www.brooklyn.energy/) isimli bir projenin New York'ta başlatıldığını hatırlatalım. 
 
 ##### *Sürdürülebilir finans için kaynak sağlama*:   
