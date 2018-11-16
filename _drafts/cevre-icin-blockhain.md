@@ -73,14 +73,16 @@ Tedarik zincirine benzer şekilde tüm dünyada önde gelen kurumların sürdür
 
 Yukarıda fikirlerin çoğu henüz ham, daha olgunlaşmamış. Gerçekleşebilmelerinin önünde engeller de var. Nedir bu engeller? 
 
-Öncelikle, bahsettiğimiz değişiklerin bir çoğu tüketici alışkanlıklarında bir değişim gerektiriyor. Ekonomik menfaatler bu tip değişimleri hızlandırsa da, kimi projeler pratik olmayabilir ve bu nedenle de yaygınlaşmayabilir. 
+Öncelikle, bahsettiğimiz değişiklerin bir çoğu tüketici alışkanlıklarında bir değişim gerektiriyor. Ekonomik menfaatler bu tip değişimleri hızlandırsa da kimi projeler pratik olmayabilir ve bu nedenle de yaygınlaşmayabilir. 
 
-Bunun yanında, bu sistemlerin gelişmesine destek olacak endüstriyel değişimler yeterince hızlı gelişmeyebilir ya da yenilikler Blockchain sistemleri ile uyumlu olmayabilir. 
+Bunun yanında, bu sistemlerin destek olacak endüstriyel değişimler yeterince hızlı gelişmeyebilir ya da yenilikler Blockchain sistemleri ile uyumlu olmayabilir. 
 
-[Tedarik zincirleri için Blockchain](https://ademimerkezi.com/genel/2018/08/17/tedarik-zinciri-icin-blockchain.html) yazımızda belirttiğimiz gibi, çok partinin taraf olduğu sistemlerde oyunculardan bir kısmı hassas bilgileri diğerleri ile paylaşmak istemeyebilirler. 
+[Tedarik zincirleri için Blockchain](https://ademimerkezi.com/genel/2018/08/17/tedarik-zinciri-icin-blockchain.html) yazımızda belirttiğimiz gibi, çok partinin taraf olduğu sistemlerde oyunculardan bir kısmı hassas bilgileri diğerleri ile paylaşmak istemeyebilir. 
 
-Bunun dışında her ülkede kanunların farklı olması özellikle uluslararası nitelikteki projelerde adaptasyon ve canlılığa ket vuracak sıkıntılar doğurabilir. Pek çok alanda değişik oyuncular tarafından geliştirilecek Blockchain sistemlerinin birbirleri ile iletişiminin sıkıntı yaratabileceğini ancak sorunun teknolojik özelliğinden dolayı yukarıdaki kültürel ya da kanuni sorunlara göre çok daha kolay şekilde aşılabileceğini düşünüyorum.
+Bunun dışında her ülkede kanunların farklı olması özellikle uluslararası nitelikteki projelerde adaptasyon ve canlılığa ket vuracak sıkıntılar doğurabilir. 
+
+Teknolojik olarak ise pek çok alanda değişik oyuncular tarafından geliştirilecek farklı Blockchain sistemlerinin birbirleri ile iletişiminin sıkıntı yaratabilir ancak yukarıdaki kültürel ya da kanuni sorunlara göre teknolojik sıkıntıların çok daha kolay şekilde aşılabileceğini düşünüyorum.
 
 ### Sonuç
 
-Evet, gördüğünüz gibi, kendi içinde bulunduğumuz ülkemiz ve küçük dünyamızı aşıp uluslararası alanlara baktığımızda, sınır ötesi işlemlerde Blockchain bazlı sistemlerin aracıları ortadan kaldıran yapısının hemen hemen her alanda gerek çevresel kazanç olarak gerekse finansal olarak sağlayacağı faydalar olduğu çok açık. Ulusal yapılar ve politik çıkarlar Blockchain ile ortaya çıkabilecek bu faydaları deneyimlememize ne kadar izin verecek bunu hep birlikte yaşayarak göreceğiz. 
+Evet, gördüğünüz gibi, kendi içinde bulunduğumuz ülkemiz ve küçük dünyamızı aşıp uluslararası alana baktığımızda, sınır ötesi işlemlerde Blockchain bazlı sistemlerin aracıları ortadan kaldıran yapısının hemen hemen her alanda gerek çevresel kazanç olarak gerekse finansal anlamda sağlayacağı faydalar olduğu çok açık. Ulusal yapılar ve politik çıkarlar Blockchain ile ortaya çıkabilecek bu faydaları deneyimlememize ne kadar izin verecek bunu hep birlikte yaşayarak göreceğiz. 
