@@ -1,5 +1,16 @@
+---
+layout: post
+title:  "Çevre için Blockchain"
+date:   2018-11-16 10:03:34 +0300
+categories: Genel
+---
+
 
 Geçtiğimiz yazılarda Blockchain bazlı dağıtık sistemlerin faydalı olabileceği bazı konulardan [sağlık](https://ademimerkezi.com/genel/2018/04/17/saglik-icin-blockchain.html), [sigorta](https://ademimerkezi.com/genel/2018/10/26/sigorta-icin-blockchain.html), [sanat](https://ademimerkezi.com/genel/2018/04/06/sanat-icin-blockchain.html), [seyahat](https://ademimerkezi.com/genel/2018/07/06/seyahat-icin-blockchain.html) sektörleri ile [hayır işleri](https://ademimerkezi.com/genel/2018/03/29/Iyilik-icin-blockchain.html), [tahmin piyasaları](https://ademimerkezi.com/genel/2018/07/13/gelecegi-tahmin-icin-blockchain.html) ve [tedarik zincirlerine](https://ademimerkezi.com/genel/2018/08/17/tedarik-zinciri-icin-blockchain.html) bakmıştık.  Şimdi de bu çözümlerin en işe yarayabileceği alanlardan biri olan çevresel konulara bir göz atalım. 
+
+![environmental-protection-1_640.jpg](/assets/environmental-protection-1_640.jpg)
+
+&nbsp;
 
 ### Blockchain çevre için neden önemli?
 
@@ -20,6 +31,12 @@ PwC ve Stanford Woods Institute ile birlikte hazırlanan bu [rapor](https://www.
 
 Bu arada bu sütunlarda daha önce dile getirilen iki konuya burada da dikkat çekiliyor. Birincisi yeni teknolojilerin, mevcut geleneksel ekonomik sistemleri değiştirirken (hatta ters-yüz ederken) yaratılan değeri sadece sermayedarlara değil tüm paydaşlara dağıtma gücü. İkincisi ise bu tip büyük değişimlerin kendiliğinden bir anda olmayacağı. Değişimin gerçekleşebilmesi için teknoloji sağlayıcılardan politika üreten kurumlara kadar farklı her bir paydaşın birlikte çalışma kabiliyeti kazanması gerek. Sadece teknolojik olarak bir platformun uygulanması yeterli değil, sistemlerin de değişmesi gerek bu değişimin kalıcı olması için. 
 
+
+![environmental-protection-2_640.jpg](/assets/environmental-protection-2_640.jpg)
+
+
+&nbsp;
+
 ### Çevresel sorunlar neler?
 
 Dünyada şu anda çevresel olarak sıkıntı yaratan konuları sıralarsak: 
@@ -35,3 +52,8 @@ Dünyada şu anda çevresel olarak sıkıntı yaratan konuları sıralarsak:
 İşte Blockchain bazlı sistemler bu alanlarda ciddi iyileştirmeler sağlayabilir. Neden Blockchain? Çünkü çok fazla oyuncu var. Bu oyuncular arasında tam olmasa da bir güvensizlik var (yaşanan pek çok felaketin ihmal ve daha korkuncu gizlemeden dolayı olduğu biliniyor). Denetim/ölçüm mekanizmaları henüz yeterli değil ve kurulması zaman alacak. Blockchain bazlı yenilikler piyasa oyuncuların maliyetlerini azaltabilir, yatırımların tamamlanma süresini kısaltabilir ve koruyucu kurumlara denetimde kolaylıklar sağlayabilir. Özellikle Blockchain teknolojilerinin zaman damgası özelliği ve akıllı kontratların işletileceği mekanizmalar verimli çalışan bir sistem kurulmasına yardımcı olabilir. 
 
 Çevre konularında Blockchain bazlı ne tip fikirler var, hangi alanlarda neleri çözebilir, önlerindeki engeller neler bunlara da önümüzdeki yazıda bakacağız.. 
+
+
+&nbsp;
+
+*Not: Yazdığımız 30+ yazının bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](http://ademimerkezi.com/about/) sayfasına göz atabilirsiniz.* 
