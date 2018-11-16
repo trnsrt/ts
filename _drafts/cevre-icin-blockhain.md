@@ -49,7 +49,7 @@ Bu girişimler daha çok süreci iyileştirmeye yarayacak getirileri nispeten ma
 
 Mevcut sistemleri iyileştirmek dışında ezber bozan girişimler de var. Ne demek bu? Mevcut iş yapış biçimlerini değişitirecek, reform yapacak girişimler. Bunu yaparken de bir yandan endüstriyel alandaki son yıllarda yaşanan yenilikleri de içine alacak biraz da onlar sayesinde vizyonlarına ulaşacak fikirler (Ancak hemen hatırlatalım, bu fikirlerin pek çoğu daha test aşamasında - henüz yaygın adapte edilecek kadar olgun değiller) 
 
-###### *Şeffaf tedarik zinciri*:   
+###### Şeffaf tedarik zinciri:   
 Pek çok kurum çevresel olarak hükümetlere ve topluma karşı taahhütlerde bulunuyor. Ancak şirketler ne kadar samimi olsalar da bu taahhütlerin ne şekilde yerine getirildiği ile ilgili bir açıklık yok - özellikle tedarik zincirlerinde. Kaynaktan son kullanıcıya değiştirilemez ve şeffaf şekilde tutulan Blockchain verisi şirketlere hem riski algılamak ve kendi iç sistemlerini yönetmek hem de dış dünyaya aldıkları bu aksiyonları gösterebilmek açısından yardımcı olabilir. Şirketlere faydasının yanında son tüketici, sivil toplum kuruluşu ve hükümet gibi dış paydaşlara da bu eforu görme, takip ve takdir etme imkanı verebilir.
 
 ##### *Merkezi olmayan ve sürdürülebilir kaynak yönetimi*:  
