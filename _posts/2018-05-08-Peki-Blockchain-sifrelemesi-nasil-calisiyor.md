@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Peki Blockhain şifrelemesi nasıl çalışıyor?"
+title:  "Peki Blockchain şifrelemesi nasıl çalışıyor?"
 date:   2018-05-08 12:39:45 +0300
 categories: Genel
 ---
