@@ -14,7 +14,7 @@ Geçtiğimiz [yazıda](https://ademimerkezi.com/genel/2018/11/16/cevre-icin-bloc
 
 &nbsp;
 
-![planet-1_640.jpg](/assets/planet-1_640.jpg)
+![planet-1_b_640.jpg](/assets/planet-1_b_640.jpg)
 
 ### Mevcut durumu iyileştirmeye yönelik girişimler
 
