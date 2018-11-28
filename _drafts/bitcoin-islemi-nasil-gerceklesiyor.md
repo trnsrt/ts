@@ -12,21 +12,22 @@ Kulağa ilginç ve hoş gelen söylemler. peki ama ne menem bir şeydir bu para 
 
 ### Bir Bitcoin işlemi
 
-Aşağıda bir Bitcoin işlemi görüyorsunuz. Önemli olan satırlara kısaca bakalım. 
-
-
-Transaction ID: Yapılan her işlemin kendine ait bir numarası var. İşte bu o. Bu numarayı herhangi bir Bitcoin kaydını tutan siteye girin ve o işlem ile ilgili bilgilere ulaşın. Örneğin f4184fc596403b9d638783cf57adfe4c75c605f6356fbc91338530e9831e9e16 no'lu hash'i bir siteye (www.blockchain.info) girin, karşınıza Bitcoin ile yapılmış ilk işlem (2009 Ocak ayından) çıkacak. 
+Aşağıda bir Bitcoin işlemi görüyorsunuz (linkine [buradan](https://www.blockchain.com/btc/tx/f1cd43bc5be1309c8e76d4584a8f6dfbfca37399588416042f8a85603c5f4995) ulaşabilirsiniz). Önemli olan satırlara kısaca bakalım. 
 
 
 &nbsp;
 
-| ![Bitcoin-first-transaction.png](/assets/Bitcoin-first-transaction.png) | 
+| ![transaction-sample-640.png](/assets/transaction-sample-640.png) | 
 |:--:| 
-| *Satoshi'nin gönderdiği ilk Bitcoin* |
+| *28 Kasım 2018 tarihli bir örnek işlem* |
 
 &nbsp;
 
-Boşuna dememişler Bitcoin ile yapılan her işlem kayıt altında diye. 
+
+
+Transaction ID: Yapılan her işlemin kendine ait bir numarası var. İşte bu o. Bu numarayı herhangi bir Bitcoin kaydını tutan siteye girin ve o işlem ile ilgili bilgilere ulaşın. Örneğin f4184fc596403b9d638783cf57adfe4c75c605f6356fbc91338530e9831e9e16 no'lu hash'i bir siteye (www.blockchain.info) girin, karşınıza Bitcoin ile yapılmış ilk işlem (2009 Ocak ayından) çıkacak. Boşuna dememişler Bitcoin ile yapılan her işlem kayıt altında diye. Gördüğünüz gibi 2009 yılından itibaren yapılan her işlem tek tek görülebiliyor bu şekilde. 
+
+Gelin bir 
 
 
 
