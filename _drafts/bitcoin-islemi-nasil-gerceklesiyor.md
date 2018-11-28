@@ -19,7 +19,7 @@ Aşağıda bir Bitcoin işlemi görüyorsunuz (linkine [buradan](https://www.blo
 
 | ![transaction-sample-640.png](/assets/transaction-sample-640.png) | 
 |:--:| 
-| *28 Kasım 2018 tarihli bir örnek işlem* |
+| *28 Kasım 2018 tarihli gerçek bir [işlem](https://www.blockchain.com/btc/tx/f1cd43bc5be1309c8e76d4584a8f6dfbfca37399588416042f8a85603c5f4995)* |
 
 &nbsp;
 
