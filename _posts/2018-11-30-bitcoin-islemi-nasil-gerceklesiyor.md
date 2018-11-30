@@ -6,7 +6,7 @@ categories: Genel
 ---
 
 
-Eğer kriptoparalara ve Bitcoin'e biraz ilgi duyduysanız ya da konuyu biraz araştırdıysanız mutlaka duymuşssunuzdur aşağıdaki yorumları:
+Eğer kriptoparalara ve Bitcoin'e biraz ilgi duyduysanız ya da konuyu biraz araştırdıysanız mutlaka duymuşsunuzdur aşağıdaki yorumları:
 
 - Bitcoin işlemleri 10 dakika içinde bitiyor, dünyanın öbür ucuna 10 dakika içinde dijital bir varlığı gönderebiliyorsunuz
 - Bitcoin, kişilerin ellerindeki varlığı birden fazla kez harcamasına olanak sağlamayan bir yapıda
