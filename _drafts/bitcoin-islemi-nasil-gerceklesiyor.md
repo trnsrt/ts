@@ -29,9 +29,9 @@ Bitcoin işlemi özünde herhangi bir miktarda paranın (bu sistemde bu para BTC
 
 Örneğin f4184fc596403b9d638783cf57adfe4c75c605f6356fbc91338530e9831e9e16 no'lu hash'i bir siteye (www.blockchain.info) girin, karşınıza Bitcoin ile yapılmış ilk işlem (2009 Ocak ayından) çıkacak. Boşuna dememişler Bitcoin ile yapılan her işlem kayıt altında diye. Gördüğünüz gibi 2009 yılından itibaren yapılan her işlem tek tek görülebiliyor bu şekilde. Hani hep deniyor ya, bütün bilgisayarlar yapılan işlemlerin tüm kaydını tutuyor diye. İşte bu o. 
 
-**Alıcının adresi**: Gönderdiğiniz parayı alanın adresi. Yukarıda pembe renk ile gördüğünüz alan. Gönderilen Bitcoin her zaman bir adrese gider. Burada iki adres görüyorsunuz. Neden? Bunun nedenine az sonra değineceğiz. 
+**Alıcının adresi**: Gönderdiğiniz parayı alanın adresi. Yukarıda pembe renk ile gördüğünüz alan. Kişi adı yok (gizlilik bu şekilde oluyor) sadece rakam ve harflerden oluşan eşi benzeri olmayan bir başka numara. Gönderilen Bitcoin her zaman bir adrese gider. Burada iki adres görüyorsunuz. Yani para iki adrese gitmiş. Genelde de böyle olur. Neden? Az sonra değineceğiz. 
 
-**Göndericinin adresi**: Aldığınız Bitcoin bir adrese gelir ama siz onu birisine göndermek isterseniz bunu cüzdanınızı kullanırsınız. Adres size ait posta kutusu iken, cüzdan size ait Özel Anahtarların olduğu ve bu sayede bu parayı sizin harcamanıza olanak veren sistem. Aşağıdaki örnekte biraz daha anlatacağız bunu. 
+**Göndericinin adresi**: Aldığınız Bitcoin bir adrese gelir ama siz onu birisine göndermek isterseniz bunun için cüzdanınızı kullanırsınız. Paranın size geldiği adres size ait bir posta kutusu iken, cüzdan size ait bir Özel Anahtar ile açabildiğiniz ve bu sayede bu parayı sadece sizin harcamanıza olanak veren bir oda. Neden bir cüzdan da adres değil? Az sonra örnekte göreceksiniz.  
 
 **Kullanılan para (Total input)**: Bu işlemde alıcıdan cüzdanından gönderilen toplam para miktarı - yeşil renk ile gösterilen yer. 
 
@@ -52,6 +52,8 @@ Bitcoin'in karışmaması, herhangi bir şekilde rahat takip edilebilmesi için 
 Sistem şöyle çalışır: Ali'den gelmiş 0.5 BTC alınır. Sonrasında bu paranın 0.2 BTC'si Barış'a gönderilir, kalan 0.3 BTC benim adıma yaratılan yeni bir Bitcoin adresine gönderilir (ve benim cüzdanıma geri döner). Yani bir nevi elimde 0.5 BTC bütün banknot var, Barış'a 0.3 BTC verdim, kalan 0.2 BTC de "paranın üstü" olarak bana geri döndü. 
 
 Bu ortaya çıkan iki paraya (0.3 BTC ve 0.2 BTC) UTXO Unspent Transaction Amount denir. Yani benim cüzdanımda duran 0.5 BTC yok edildi, yerine ben de ve Barış'ta iki parça halinde 0.5 BTC (eksi komisyon) yaratıldı. İşte bu yüzden yukarıdaki ilk orijinal örnekte de paranın gittiği iki adres görüyosunuz pembe renkte. Üstteki pembe renkli olan alıcının, alttaki ise gönderici için yaratılan yeni adres. Artık cüzdanımda Ayşe'den gelen 0.4 BTC ve Barış'a gönderdiğim paradan geri dönen 0.2 BTC toplam 0.6 BTC var (yine ayrı ayrı duruyorlar). 
+
+İşte bu nedenle para bir adrese geliyor ama çıkarken cüzdandan çıkıyor. Çünkü gönderilen paranın üstünün geri alınması cüzdana (onun için yaratılan yeni adrese) yapılıyor. Gönderilen adres yok oluyor. Aynı şekilde kimi zaman, gönderilecek para eldeki tek bir adresten değil, birkaç adresten gönderilmek zorunda kalıyoruz. Yukarıdaki durumda 0.7 BTC göndermek zorunda olsaydım hem Ali'den gelen parayı hem de Ayşe'den gelen parayı kullanacaktım. O nedenle de para cüzdandan çıkıyor. 
 
 Bu UTXO kavramı önemli. Çünkü bütün UTXO'ları toplarsanız o ana kadar oluşmuş bütün Bitcoin toplamına ulaşıyorsunuz. Bu da birilerinin sahte para ortaya çıkarmasını önlüyor. Bütün makineler bu UTXO'lara bakarak yapılan işlemlerin doğru olduğunu anlıyorlar. Hani deniyor ya, "Ya birisi çıkar da bütün makinelere ele geçirirse? Kendisine para yaratırsa?" Nasıl yaratacak ki? Bir anda sıfırdan para yaratmak isteseniz yaratamazsınız çünkü para bir adresten gelmek zorunda. Şimdiye kadar yaratılmış bütün paralar belli, hangi adreslerde olduğu belli. O adreslerden o paraları ancak o adresin sahipleri kendi Özel Anahtarları ile çıkarabilirler. 
 
