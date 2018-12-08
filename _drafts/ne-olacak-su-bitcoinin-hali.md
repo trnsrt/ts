@@ -4,22 +4,22 @@ Kriptoparalar'ın ve onların en büyüğü Bitcoin'in 2017 sonlarında zirveler
 
 ### Ne olacak bu KriptoParalar'ın hali?
 
-KriptoParaların ama özellikle Bitcoin'in geleceğinin ne olacağı konusunda malum her kafadan bir ses çıkıyor. Ağırlıklı bir grup bunun aslında yeni yaklaşan büyük bir yükseliş öncesi yaşanan "fırtına öncesi sessizlik" olduğunu düşünüyor. Bir başka kesim ise (ki çoğunluğu Kripto dünyasına baştan itibaren şüpheci bakanların oluşturduğu bir grup) zaten baştan beri bu dünyada yaratılan değerin hayali olduğunu öne sürerek "işte balon patladı" yorumu yapıyor.  
+KriptoParaların ama özellikle Bitcoin'in geleceğinin ne olacağı konusunda malum her kafadan bir ses çıkıyor. Ağırlıklı bir grup bunun aslında yeni yaklaşan büyük bir yükseliş öncesi yaşanan "fırtına öncesi sessizlik" olduğunu düşünüyor. Bir başka kesim ise (ki çoğunluğu kripto dünyasına baştan itibaren şüpheci bakanların oluşturduğu bir grup) zaten baştan beri bu dünyada yaratılan değerin hayali olduğunu öne sürerek "işte balon patladı" yorumları yapıyor.  
 
 Bu iki tarafın da aslında ellerinde çok da veri olmadan sadece kendi önyargılarını topluma kabul ettirmeye çalıştıklarını söyleyebiliriz. 
 
 ![seinfeld2.gif](/assets/seinfeld2.gif)
 
-Olaya daha objektif yaklaşmak gerekirse, asıl anlamaya çalışmamız gereken bu KriptoParalar hakikaten bir değer yaratıyor mu, buna bakmak. Zira hakikaten bir değer yaratıyor ise o zaman isteyen istediğini söylesin bu paraların bir değeri olacak. 
+Olaya daha objektif yaklaşmak gerekirse, asıl anlamaya çalışmamız gereken "bu KriptoParalar bir değer yaratıyor mu?" ona bakmak. Zira hakikaten bir değer yaratıyor ise o zaman isteyen istediğini söylesin bu paraların bir değeri olacak. 
 
-Değer yarattığını nasıl anlarız? Bunun iki bacağı var. Birincisi hakikaten insanların işine yarıyor mu bu paralar? İkincisi de geniş kesimler tarafından kullanılıyor mu ya da kullanılacak mı? 
+Değer yarattığını nasıl anlarız? Bunun iki bacağı var. Birincisi hakikaten insanların işine yarıyor mu bu paralar? İkincisi de geniş kesimler tarafından kullanılıyor mu (ya da kullanılacak mı)? 
 
-KriptoParalar'ın de çeşit çeşit olduğunu biliyoruz ama öncelikle hem içlerinde en büyük olan hem de sahipsiz yapısı nedeniyle diğer paralardan ayrışan Bitcoin örneğine bakalım öncelikle. 
+KriptoParalar'ın çeşit çeşit olduğunu biliyoruz ama öncelikle hem içlerinde en büyük olan hem de sahipsiz yapısı nedeniyle diğer paralardan ayrışan Bitcoin örneğine bakalım. 
 
 
 ### Asıl önemlisi Bitcoin ne olacak?
 
-Yukarıda bahsettiğimiz birinci soru, yani "hakikaten insanların işine yarıyor mu?" sorusuna evet yanıtını vermek çok da zor değil. Bitcoin'in avantajlarını gelişmiş ve demokratik bir ülkede anlamak çok kolay olmayabilir. Zira para giriş çıkışlarının fazla kontrol altında olmadığı ülkelerde Bitcoin'in faydası göreceli olarak az. Bitcoin'in asıl faydası baskıcı rejimlerde ortaya çıkıyor. Zira Bitcoin insanlara bir anlamda 'ekonomik özgürlük' sağlayan bir araç (neden nasıl özgürlük sağladığını şu yazımızda açıklamıştık). 
+Yukarıda bahsettiğimiz birinci soru, yani "hakikaten insanların işine yarıyor mu?" sorusuna Bitcoin için "evet" yanıtını vermek çok da zor değil. Bitcoin'in avantajlarını gelişmiş ve demokratik bir ülkede anlamak çok kolay olmayabilir. Zira para giriş çıkışlarının fazla kontrol altında olmadığı ülkelerde Bitcoin'in faydası göreceli olarak az. Bitcoin'in asıl faydası baskıcı rejimlerde ortaya çıkıyor. Zira Bitcoin özünde insanlara 'ekonomik özgürlük' sağlayan bir araç (neden nasıl özgürlük sağladığını şu [yazımızda](https://ademimerkezi.com/genel/2018/03/02/Sahi-nedir-bu-blockchain-allah-askina.html) açıklamıştık). 
 
 Ancak burada ikinci soru daha önemli. "Geniş kesimler tarafından kullanılıyor mu?". Eğer Bitcoin faydalarına rağmen geniş kesimler tarafından kullanılmıyor ise, hobi benzeri çok dar kalıplar içine sıkışmış dar (niche) bir ürün olarak kalma tehlikesi var. 
 
