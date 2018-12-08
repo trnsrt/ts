@@ -8,7 +8,7 @@ KriptoParaların ama özellikle Bitcoin'in geleceğinin ne olacağı konusunda m
 
 Bu iki tarafın da aslında ellerinde çok da veri olmadan sadece kendi önyargılarını topluma kabul ettirmeye çalıştıklarını söyleyebiliriz. 
 
-![seinfeld.gif](/assets/seinfeld.gif)
+![seinfeld2.gif](/assets/seinfeld2.gif)
 
 Olaya daha objektif yaklaşmak gerekirse, asıl anlamaya çalışmamız gereken bu KriptoParalar hakikaten bir değer yaratıyor mu, buna bakmak. Zira hakikaten bir değer yaratıyor ise o zaman isteyen istediğini söylesin bu paraların bir değeri olacak. 
 
