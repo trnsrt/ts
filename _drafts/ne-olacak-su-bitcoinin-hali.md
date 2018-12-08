@@ -8,6 +8,8 @@ KriptoParaların ama özellikle Bitcoin'in geleceğinin ne olacağı konusunda m
 
 Bu iki tarafın da aslında ellerinde çok da veri olmadan sadece kendi önyargılarını topluma kabul ettirmeye çalıştıklarını söyleyebiliriz. 
 
+![cats.gif](/assets/cats.gif)
+
 Olaya daha objektif yaklaşmak gerekirse, asıl anlamaya çalışmamız gereken bu KriptoParalar hakikaten bir değer yaratıyor mu, buna bakmak. Zira hakikaten bir değer yaratıyor ise o zaman isteyen istediğini söylesin bu paraların bir değeri olacak. 
 
 Değer yarattığını nasıl anlarız? Bunun iki bacağı var. Birincisi hakikaten insanların işine yarıyor mu bu paralar? İkincisi de geniş kesimler tarafından kullanılıyor mu ya da kullanılacak mı? 
