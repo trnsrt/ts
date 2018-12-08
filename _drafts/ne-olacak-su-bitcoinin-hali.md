@@ -27,11 +27,15 @@ Gelin bunu biraz daha açalım. Bitcoin'in geniş kesimler tarafından kullanıl
 
 Değer saklama aracı olarak Bitcoin'in hakikaten bir işlevi olup olmadığını ancak uzun vadede yatırım yaparsanız anlayabilirsiniz. Kısa vadeli spekülatif hareketlerden ağzınızın yanma ihtimali çok yüksek. 
 
-Uzun vadede değer saklama aracı olarak kullanılıp kullanılamayacağı ise aslında yukarıda bahsettiğimiz ikinci özelliğine bağlı: Bitcoin alışverişlerde ya da değer transferinde (para göndermede) araç olarak kullanılabilecek mi? İşte gerçek kritik soru bu. İnsanlar bir gün Bitcoin'i günlük hayatlarının bir parçası olarak kabul edecekler mi? Eğer bir gün Bitcoin'in geniş kitlelerce adapte edileceğine inanıyorsanız, o zaman Bitcoin'in değerinin üst sınırı yok. Ama böyle bir adaptasyon gerçekleşmez ise, Bitcoin ancak bir hobi aracı olarak kalacak ve değerinin sıfıra düşmese de hakikaten düşük seviyelere inmesi kuvvetle muhtemel . 
+Uzun vadede değer saklama aracı olarak kullanılıp kullanılamayacağı ise aslında yukarıda bahsettiğimiz ikinci özelliğine bağlı: Bitcoin alışverişlerde ya da değer transferinde (para göndermede) araç olarak kullanılabilecek mi? İşte gerçek kritik soru bu. İnsanlar bir gün Bitcoin'i günlük hayatlarının bir parçası olarak kabul edecekler mi? 
+
+Eğer bir gün Bitcoin'in geniş kitlelerce adapte edileceğine inanıyorsanız, o zaman Bitcoin'in değerinin üst sınırı yok. Bunu sadece içinde bulunduğumu şu günü değil geleceği de düşünerek değerlendirin. Eğer otoriter rejimlerin insanların özgürlüklerini daha da kısıtlayacağını ve bu kısıtlamaların ekonomik alana da yayılacağını tahmin ediyorsanız, Bitcoin benzeri araçlara olan talebin şimdikine göre çok daha fazla olacağını da kabul edebilirsiniz. 
+
+Ama böyle bir adaptasyon gerçekleşmez ise, Bitcoin ancak bir hobi aracı olarak kalacak ve küçük bir kesim içinde kullanılmaya devam edecek. Böyle bir durumda değerinin de sıfıra düşmese bile hakikaten düşük seviyelere inmesini öngörmek zor değil . 
 
 ### Arkası yarın
 
-Bitcoin'in geniş adaptasyonu için neler gerekiyor? Yapılan yeni çalışmalar neler? Onlara da bir sonraki yazımızda bakacağız.. 
+İşin talep kısmı sizin değerlendirmenize kalmış. Ancak işin arz tarafında teknolojik olarak Bitcoin'in geniş adaptasyonunun önündeki engeller neler, bunları aşmak için neye ihtiyaç var? Yapılan yeni çalışmalar neler? Onlara da bir sonraki yazımızda bakacağız.. 
 
 
 
