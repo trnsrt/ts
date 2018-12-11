@@ -1,6 +1,6 @@
 Geçtiğimiz yazımızda, Bitcoin'in ileride değerli olup olmayacağının iki ana belirleyicisi olacağını belirtmiştik - hakikaten insanların işine yarayacak mı, ikincisi de geniş kesimler Bitcoin'i kullanabilecek mi? Bu iki soruya ne kadar olumlu cevap verebiliyorsak Bitcoin'in değerinin  de ileride o kadar çok olacağını düşünebiliriz. 
 
-### Lightning Network
+### Bitcoin'in geleceği
 
 Her ne kadar teknoloji hızla gelişiyor olsa da Bitcoin için aynısını söylemek mümkün değil. Bitcoin yavaş gelişen bir sistem - kasıtlı olarak böyle aslında. Efendim, Bitcoin biliyorsunuz bir dijital para. İşin içine para girdiğinde konu ciddileşiyor. Bitcoin geliştiricileri de bu bilinç ile hareket ediyorlar. 
 
@@ -10,8 +10,26 @@ Bu geliştiriciler temel bir prensibi var "Acele işe şeytan karışır", yani 
 
 Peki ne olacak o zaman? Bitcoin bu şekliyle mi devam edecek. Tabii ki hayır. Olacak olan ana hatları ile şu. Bitcoin ana (baz)  katman olarak fonksiyonunu dijital para şeklinde sürdürecek. Bu ana katmanın üzerine inşa edilecek yeni katmanlar, geniş kitlelerin ihtiyacı olan yeni fonksiyonları 
 
+### Kahvenizi Bitcoin ile ödemek mi?
 
 Bitcoin üzerinde yapılan yeniliklerin büyük kısmı işte bu iki alanda ilerleme sağlamaya yönelik çalışmalar. Neler bunlar? En meşhurları Lightning Newtork. Nedir bu Lightning kısaca bakalım:
+
+Bitcoin ile kıtalararası para gönderme yapabiliyorsunuz diyoruz. Bunun yaparken de maliyetleriniz oldukça düşük. Özellikle yurtdışında yaşayanlar için çok iyi haber. Ama bu göreceli olarak küçük bir kitle ve sınırötesi para transferini ayda yılda bir yapıyorlar. Bitcoin'in geniş kitlelere yayılması için yeterli değil. 
+
+Peki ya gündelik hayatta mikro ödemeler için Bitcoin kullanımı. İşte orada da Bitcoin'in kendi iç kısıtlamaları söz konusu. Bitcoin'in saniyede yapabileceği işlem sayısı 7 ile kısıtlanmış. Ethereum için bu sayı 20 işlem. Paypal'in saniyede 450, Visa'nın ise 56.000 işlem yapma kapasitesi olduğunu [söylersek](https://altcointoday.com/bitcoin-ethereum-vs-visa-paypal-transactions-per-second/) Bitcoin'in neden mikro ödemeler için kullanılamayacağını anlayabiliriz sanırım. 
+
+Aslında işlem kısıtının ötesinde başka sorunlar da var mikro ödemeler için, o da hız. Normalde Bitcoin transferi yaptığınızda işlem madenciler tarafından alınıyor ve o anki en son bloğun içine işleniyor. Peki ya bloğun hacminden daha fazla işlem yapıldı ise. O zaman işlem bir sonraki bloğa atılıyor. Her bir blok 10 dakikada bir toplanıp bağlandığı için bu işleminizin gerçekleşmesini 10 dakika sonraya atıyor. Peki neye göre işleminizin o bloğa ya da sonraki bloğa gireceğine karar veriyor madenciler? O yaptığınız için verdiğiniz işlem ücretine. İşlem ücretiniz ne kadar yüksek ise o kadar erken işleminiz gerçekleşiyor. Mikro ödemeler zaten kendileri ufak rakamlar oldukları için işlem ücretleri de çok düşük olmak zorunda, bu nedenle de geç gerçekleşme ihtimalleri yüksek. 
+
+
+### Lightning Network
+
+Aslında bir mikro ödemenin gerçekleşmesi için tüm Bitcoin network'ünün kullanılmasına çok da gerek yok. Çünkü biliyorsunuz Bitcoin ile bir işlem yapıldığında bu binlerce makineye bu işlem yazılıyor. Bir kafeye girip satın aldığınız bir kahvenin işlemi neden binlerce makinede yazılsın ki? 
+
+İşte bu felsefeden yola çıkan geliştiriciler Bitcoin üzerinde mikro işlem yapabilmek için ikinci bir katman yarattılar. Buna da Lightning network adını verdiler. 
+
+
+
+
 
 
 
