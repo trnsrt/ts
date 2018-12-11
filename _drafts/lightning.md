@@ -8,7 +8,7 @@ Bu geliştiriciler temel bir prensibi var "Acele işe şeytan karışır", yani 
 
 İkinci bir prensipleri daha var bu topluluğun "Bir ürüne ne kadar fonksiyon eklerseniz, o kadar güvenlik açığına davet çıkarırsınız" Konu para olunca güvenlik açığının yaratacağı sorunlar daha da dramatik hale gelebiliyor. O nedenle geliştiricilerin Bitcoin'e para dışında yeni fonksiyonlar eklemeleri oldukça zor. 
 
-Peki ne olacak o zaman? Bitcoin bu şekliyle mi devam edecek. Tabii ki hayır. Olacak olan ana hatları ile şu. Bitcoin ana (baz)  katman olarak fonksiyonunu dijital para şeklinde sürdürecek. Bu ana katmanın üzerine inşa edilecek yeni katmanlar, geniş kitlelerin ihtiyacı olan yeni fonksiyonları 
+Peki ne olacak o zaman? Bitcoin bu şekliyle mi devam edecek. Tabii ki hayır. Olacak olan ana hatları ile şu. Bitcoin ana (baz)  katman olarak fonksiyonunu dijital para şeklinde sürdürecek. Bu ana katmanın üzerine inşa edilecek yeni katmanlar, geniş kitlelerin ihtiyacı olan yeni fonksiyonları sunacaklar. 
 
 ### Kahvenizi Bitcoin ile ödemek mi?
 
@@ -27,6 +27,17 @@ Aslında bir mikro ödemenin gerçekleşmesi için tüm Bitcoin network'ünün k
 
 İşte bu felsefeden yola çıkan geliştiriciler Bitcoin üzerinde mikro işlem yapabilmek için ikinci bir katman yarattılar. Buna da Lightning network adını verdiler. 
 
+Lightning'in ana prensibi Bitcoin üzerindeki işlemlerin zincir üzerinden (yani bloklara yazılması yerine) zincir dışına çıkarılması demek. Nasıl çalışıyor peki bu? Bir örnek üzerinden anlatalım. 
+
+İki kişi üzerinden başlayalım. 
+
+* Ali ve Ayşe ticaret ile uğraşıyor ve birbirlerine sık sık para gönderiyorlar. Bu ikili öncelikle beraberce bir kilitli sandık yaratıyorlar (aslında kanal deniyor ama şimdilik anlaşılabilmesi için sandık örneğini kullanıyoruz) Bu sandığa her ikisi de bir miktar Bitcoin koyuyorlar (diyelim 5 BTC). İlk para koyduklarında bu işlem Bitcoin network'üne işleniyor. 
+* Diyelim bir gün Ali Ayşe'ye 1 BTC gönderiyor, ertesi gün de Ayşe Ali'ye 2 BTC. Bu iki işlemi de Bitcoin network'üne binlerce makineye göndermek yerine kendi aralarındaki bu sandık üzerinde hesaplaşıyorlar. İki gün sonunda Ali'nin sandıktaki hakkı 6 BTC, Ayşe'ninki ise 4 BTC oldu. Sandık orada, iki taraf da kendi bakiyelerini biliyorlar. 
+* Eğer iki günün sonunda Ali ya da Ayşe'den biri parayı kendi hesabına çekmek isterse sandığı iptal ediyor, ve her bir tarafın bakiyesi kendi hesaplarına geri aktarılıyor. Bu durumda Ali 6 BTC Ayşe ise 4 BTC alıyor. 
+
+İki kişi üzerinden basit ama böyle ikili ticaret eden kaç kişi var ki? Peki denkleme bir kişi daha ekleyelim: Örneğin Ayça. Ayça'nın Ayşe ile ortak bir sandığı olsun ancak Ali ile herhangi bir para alışverişi bulunmasın. Ayça Ali'ye para (örneğin 0.5 BTC) gönderebilir mi? Gayet tabii. Ayça Ali'ye parayı Ayşe aracılığı ile gönderir. Ayça'dan 0.5 BTC alırsınız, Ayşe'nin Ayça ile olan sandığında 0.5 BTC'si artar, Ali ile olan sandıktaki 0.5 BTC'si azalır, ve o 0.5 BTC Ali'nin olur. 
+
+Peki şimdi bu tip sandıklardan (kanallardan) binlerce kişi ve kurumun açtığını düşünün. Binlerce işlemin Bitcoin üzerinden Blockchain bloklarına yazılmadan güvenli bir şekilde gerçekleştirildiği ikinci bir katman yarattık işte. 
 
 
 
