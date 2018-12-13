@@ -18,6 +18,15 @@ Bitcoin ile kıtalararası para gönderme yapabiliyorsunuz diyoruz. Bunun yapark
 
 Peki ya gündelik hayatta mikro ödemeler için Bitcoin kullanımı. İşte orada da Bitcoin'in kendi iç kısıtlamaları söz konusu. Bitcoin'in saniyede yapabileceği işlem sayısı 7 ile kısıtlanmış. Ethereum için bu sayı 20 işlem. Paypal'in saniyede 450, Visa'nın ise 56.000 işlem yapma kapasitesi olduğunu [söylersek](https://altcointoday.com/bitcoin-ethereum-vs-visa-paypal-transactions-per-second/) Bitcoin'in neden mikro ödemeler için kullanılamayacağını anlayabiliriz sanırım. 
 
+&nbsp;
+
+| ![queue.gif(/assets/queue.gif) | 
+|:--:| 
+| *Mikro ödemeleri Bitcoin üzerinden yapmaya kalkarsak...* |
+
+&nbsp;
+
+
 Aslında işlem kısıtının ötesinde başka sorunlar da var mikro ödemeler için, o da hız. Normalde Bitcoin transferi yaptığınızda işlem madenciler tarafından alınıyor ve o anki en son bloğun içine işleniyor. Peki ya bloğun hacminden daha fazla işlem yapıldı ise. O zaman işlem bir sonraki bloğa atılıyor. Her bir blok 10 dakikada bir toplanıp bağlandığı için bu işleminizin gerçekleşmesini 10 dakika sonraya atıyor. Peki neye göre işleminizin o bloğa ya da sonraki bloğa gireceğine karar veriyor madenciler? O yaptığınız için verdiğiniz işlem ücretine. İşlem ücretiniz ne kadar yüksek ise o kadar erken işleminiz gerçekleşiyor. Mikro ödemeler zaten kendileri ufak rakamlar oldukları için işlem ücretleri de çok düşük olmak zorunda, bu nedenle de geç gerçekleşme ihtimalleri yüksek. 
 
 
