@@ -35,7 +35,7 @@ Peki ya gündelik hayatta mikro ödemeler için Bitcoin kullanımı? İşte orad
 
 Bu işlem kısıtının getirdiği ana sorun işlem hızı. Normalde Bitcoin transferi yaptığınızda işlem madenciler tarafından alınıyor ve o anki en son bloğun içine işleniyor. Peki ya bloğun hacminden daha fazla işlem yapıldı ise? O zaman işlem bir sonraki bloğa atılıyor. Her bir blok 10 dakikada bir toplanıp bağlandığı için böyle bir durumda işleminizin gerçekleşmesi 10 dakika sonraya kalıyor. Peki neye göre işleminizin o bloğa ya da sonraki bloğa gireceğine karar veriyor madenciler? O yaptığınız işlem için verdiğiniz (ya da vermek istediğiniz) komisyona göre. İşlem ücretiniz ne kadar yüksek ise o kadar erken işleminiz gerçekleşiyor. Mikro ödemeler zaten kendileri ufak rakamlar oldukları için işlem ücretleri de çok düşük olmak zorunda, bu nedenle de geç gerçekleşme ihtimalleri yüksek. 
 
-### Lightning Network
+### Bitcoin'i nasıl hızlandırırız?
 
 Aslında bir mikro ödemenin gerçekleşmesi için tüm Bitcoin sisteminin kullanılmasına o kadar da gerek yok. Çünkü biliyorsunuz Bitcoin ile bir işlem yapıldığında binlerce makineye bu işlem yazılıyor. Bir kafeye girip satın aldığınız bir kahvenin işlemi neden binlerce makinede yazılsın ki? Bu işlemler bir bir işlenmek yerine bir araya toplansa?
 
