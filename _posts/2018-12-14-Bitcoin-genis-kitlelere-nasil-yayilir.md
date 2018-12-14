@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bitcoin geniş kitlelere nasıl yayılır?"
-date:   2018-14-07 10:25:34 +0300
+date:   2018-12-14 10:25:34 +0300
 categories: Genel
 ---
 
