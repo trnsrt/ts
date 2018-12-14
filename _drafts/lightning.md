@@ -2,7 +2,7 @@ Geçtiğimiz yazımızda, Bitcoin'in geniş kitlelerce kullanımının önündek
 
 Ama eğer biz her işlemi Blockchain üzerine yazmak yerine bunları toplayıp bir araya getirip o şekilde yazarsak, yani Blockchain'in zinciri üzerine değil zincir dışı işlem yaparsak o zaman bu teknik kısıtlardan kurtulabiliriz. Peki ama, biri bana bir Bitcoin yollarsa benim bu Bitcoin'e sahip olduğumu kanıtlamamın tek yolu bu paranın Bitcoin Blockchain'ine işlenmiş olması değil miydi? Nasıl şimdi emin olacağım Bitcoin'in benim olduğuma eğer Blockchain zincirini kullanmaz isek? İşte Lightning Network dediğimiz sistem hem her işlem için değil ama yapılan onlarca/binlerce işlemin sadece sonuçlarının yazıldığı bir yol öneriyor. 
 
-### Lightning Network
+### Nedir bu Lightning Network?
 
 Önceki yazımızda da belirttiğimiz gibi Lightning Network esasında Bitcoin üzerine kurulmuş ikinci bir katman. 
 
@@ -30,4 +30,8 @@ Nasıl çalışıyor peki bu? Basit bir örnek ile başlayalım sonra detayland�
 İki kişi üzerinden basit ama böyle ikili ticaret eden kaç kişi var ki? Peki denkleme bir kişi daha ekleyelim: Örneğin Ayça. Ayça'nın da Ayşe ile ortak bir sandığı olsun ancak Ali ile daha önce hiçbir para ilişkisi olmasın. Ayça Ali'ye para gönderebilir mi (örneğin 0.5 BTC)? Gayet tabii. Ayça Ali'ye parayı Ayşe aracılığı ile gönderebilir. Ayça'nın Ayşe ile ortak sandığından 0.5 BTC'sini Ayşe'nin yaparsınız, Ayşe'nin Ali ile ortan sandığındaki 0.5 BTC'sini de Ali'nin. 
 
 Peki şimdi bu tip sandıklardan (kanallardan) binlerce kişi ve kurumun açtığını düşünün. Bir kahve zincirisiniz. Ali ile Ayşe içtikleri kahve için size ödeme yaptılar. Siz de bu ödemeleri alıp size kahve çekirdeğı satın almada kullandınız. Size çekirdeği satan firma dijital reklamlarının dizaynını yapan Ayça'ya bu para ile ödeme yaptı. Ayça da Ali'den aldığı internet hosting hizmeti için kendisine bir miktar para yolladı. İşte tüm sistemi Lightning Network üzerinden döndürebilirsiniz.  Binlerce işlemin Bitcoin üzerinden Blockchain bloklarına yazılmadan güvenli bir şekilde gerçekleştirildiği ikinci bir katman yarattık işte. 
+
+### Sonuç
+
+Bitcoin sanal dünyadaki şifreli paralar içinde en kullanılanı. Ancak şu anda hala kısıtlı bir kitle tarafından kullanılıyor. Eğer hakikaten bir değer elde edecek ise faydalarının geniş kitlelere yayılması gerekiyor. Bitcoin geliştiricileri hızlı davranıp Bitcoin'i 'bozma' riski almamak için geniş kitlelerin ihtiyacı olan değişiklikleri çabucak yapmayacaklar. Bunu Lightning Network gibi ikinci katmanlar yapacak. Başarılı olup olmayacaklarını zaman gösterecek ancak şimdiden söyleyebileceğimiz doğru yolda oldukları. 
 
