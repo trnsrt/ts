@@ -17,9 +17,7 @@ Lightning'in ana prensibi Bitcoin üzerindeki işlemlerin zincir üzerinden (yan
 
 ### Nasıl çalışıyor peki bu Lightning Network?
 
-Nasıl çalışıyor peki bu? Basit bir örnek ile başlayalım sonra detaylandıralım: 
-
-İki kişi üzerinden başlayalım. 
+Basit bir örnek ile başlayalım sonra detaylandıralım: 
 
 * Ali ve Ayşe ticaret ile uğraşıyor ve birbirlerine sık sık para gönderiyorlar. Bu ikili öncelikle beraberce bir kilitli sandık yaratıyorlar. Bu sandığa her ikisi de bir miktar Bitcoin koyuyorlar (diyelim 5 BTC). İlk para koyduklarında bu işlem Bitcoin network'üne işleniyor. 
 * Diyelim bir gün Ali Ayşe'ye 1 BTC gönderiyor, ertesi gün de Ayşe Ali'ye 2 BTC. Bu iki işlemi de Bitcoin network'üne binlerce makineye göndermek yerine kendi aralarındaki bu sandık üzerinde hesaplaşıyorlar. İki gün sonunda Ali'nin sandıktaki hakkı 6 BTC, Ayşe'ninki ise 4 BTC oldu. Sandık orada, iki taraf da kendi bakiyelerini biliyorlar. 
