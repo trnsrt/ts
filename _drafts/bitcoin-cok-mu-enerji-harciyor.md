@@ -25,6 +25,7 @@ Orjinalinde 1993 yılında yaratılan PoW, bir sunucuya istekte bulunan makinele
 
 Bu neden önemli? Şu yüzden: Enerji harcamak özünde, fiziksel dünya için 'dijital dünyada gerçekten bir efor sarfedildiğini' en yalın ve adil olarak anlama/doğrulama yolu. Bu anlamda Bitcoin enerjiden üretilen bir süper emtia. PoW de bu emtiayı yaratan yani elektriği dijital altına çeviren araç. 
 
+Bitcoin'in tutulduğu defter ancak ve ancak tutulması maliyetli olduğu sürece (yani tutulması için enerji harcandığı sürece) değiştirilemez olur. Eğer maliyet taşımasa (efor gerektirmese) binlerce makineyi sisteme sokup sistemi ele geçirir ve istediğiniz yaparsınız. Dolayısıyla enerji harcamak aslında Bitcoin sisteminin bir hatası değil, bilerek konulmuş bir özelliği. 
 
 ### Bitcoin ne kadar enerji harcıyor?
 
