@@ -19,7 +19,7 @@ Yukarıdaki benzetmeden yola çıkarsak, para da özünde yapılan iş ya da ser
 
 Gelelim Bitcoin'e. Daha önce [bahsetmiştik](https://ademimerkezi.com/genel/2018/11/01/Bitcoin-uzlasmasi-proof-of-work.html), Satoshi Nakamoto aslında birbirinden bağımsız makinelerin uyumlu çalışması için Proof-of-Work (PoW) diye bir sistem kullandı. 
 
-Orjinalinde 1993 yılında yaratılan PoW, bir sunucuya istekte bulunan makinelerin bu isteklerini yaparken efor sarfetmesi ister. Eğer bir efor sarfedilmez ise, o zaman makine sunucuya binlerce istekte bulunarak onu boğar. Aynı email sisteminde bir adresten maliyetsizce binlerce, milyonlarca adrese email atılması gibi. Email için böyle bir sistem geliştirilmediği için spam'a maruz kalıyoruz, çünkü spam atan makinenin herhangi bir enerji kaybı yok. 
+Orijinalinde 1993 yılında yaratılan PoW, bir sunucuya istekte bulunan makinelerin bu isteklerini yaparken efor sarfetmesi ister. Eğer bir efor sarfedilmez ise, o zaman makine sunucuya binlerce istekte bulunarak onu boğar. Aynı email sisteminde bir adresten maliyetsizce binlerce, milyonlarca adrese email atılması gibi. Email için böyle bir sistem geliştirilmediği için spam'a maruz kalıyoruz, çünkü spam atan makinenin herhangi bir enerji kaybı yok. 
 
 Özünde PoW ile Satoshi'nin yaptığı, insanların kendi aralarında uzlaşabilmek için bireysel olarak oy kullanmak yoluyla kurdukları yönetim sistemini, makinelere uyarlamak oldu. Makineler bu sistemde oy kullanabilmek için enerji harcamak zorundalar (ki önüne gelen sisteme girip sistemi spam yağmuruna tutmasın). Makineler neden oy kullanıyorlar? Gönüllü ya da hayrına değil tabii. Kendilerine bir havuç verildiği için. O havuç da, her 10 dakikada bir işlemlerin toplandığı balyanın ağzını bağlamak için kendilerine verilen bir piyango bileti. Ödül ise şu an için 12.5 Bitoin. Ama bu piyango biletini aldıktan sonra piyangoya katılabilmek için bir bulmaca çözüyorlar. Bu bulmacayı çözebilmek için ise enerji harcamak zorundalar. 
 
@@ -29,6 +29,7 @@ Bitcoin'in tutulduğu defter ancak ve ancak tutulması maliyetli olduğu sürece
 
 ### Bitcoin ne kadar enerji harcıyor?
 
+Bitcoin üretimi için şu anda yıllık yaklaşık 2.5 Milyar ABD Doları değerinde [enerji harcanıyor](https://docs.google.com/spreadsheets/d/e/2PACX-1vTL1a6Nn0RPgNRAruJh1tkgdntFP3D9LXkaHbyegXONaaOU5agCc2DwN42ppAHk57NnC3vhEuWESEZ7/pubhtml?gid=108252637&single=true). (Ağustos ayında bu rakam 4.5 milyar ABD Doları idi). Çok mu? Karşılaştırma yaparsak Altın çıkarmak için harcanan rakam yaklaşık olarak 105 Milyar ABD Doları. Ya da bankacılık sisteminin toplamda yıllık 63 Milyar ABD Doları elektrik enerjisi harcadığı tahmin ediliyor ([pdf](https://drive.google.com/file/d/1TIma781rLFjr-dqeJmL2KN06OpoRkSsj/view)). 
 
 ### Her harcanan enerji bir midir?
 
