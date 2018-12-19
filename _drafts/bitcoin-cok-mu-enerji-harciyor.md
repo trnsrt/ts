@@ -13,8 +13,15 @@ Kaba bir genelleme ile serbest bir ekonomide üretilen her işin maliyeti, aslı
 
 Yukarıdaki benzetmeden yola çıkarsak, para da özünde yapılan iş ya da servisin bir karşılığı olarak aslında bu iş için sarfedilen enerjinin saklandığı bir araç, bir nevi enerji deposu!. 
 
+İlginçtir, Thomas Edison, Henry Ford gibi mucitler geçtiğimiz yüzyılın başlarında altın ya da doları "energy dollar" gibi yeni bir para cinsi ile değiştirmeyi düşünmüşler. Enerjiyi para birimi olarak düşünmek aslında parayı para yapan özelliklerin çoğuna uyuyor (ki bu özelliklere [şu yazımızda](https://ademimerkezi.com/genel/2018/03/22/Bitcoin-para-mi-gercekten.html) değinmiştik), örneğin ölçülebilir olması, parçalara ayrılabilmesi, her bir parçanın diğerine eşit olması gibi. Ancak iki özellik hariç! O da rahatça taşınabilmek ve bir kenarda değerini kaybetmeden uzunca süre tutulabilmek. İşte bu nedenle enerjiyi para olarak kullanmak mümkün olmuyor. Ama bu enerjinin sayesinde yaratılan ürün ve hizmetin değerini para olarak tutabiliyoruz. 
 
+### Bitcoin neden enerji harcıyor?
 
+Gelelim Bitcoin'e. Daha önce [bahsetmiştik](https://ademimerkezi.com/genel/2018/11/01/Bitcoin-uzlasmasi-proof-of-work.html), Satoshi Nakamoto aslında birbirinden bağımsız makinelerin uyumlu çalışması için Proof-of-Work (PoW) diye bir sistem kullandı. 
+
+Orjinalinde 1993 yılında yaratılan PoW, bir sunucuya istekte bulunan makinelerin bu isteklerini yaparken efor sarfetmesi ister. Eğer bir efor sarfedilmez ise, o zaman makine sunucuya binlerce istekte bulunarak onu boğar. Aynı email sisteminde bir adresten maliyetsizce binlerce, milyonlarca adrese email atılması gibi. Email için böyle bir sistem geliştirilmediği için spam'a maruz kalıyoruz, çünkü spam atan makinenin herhangi bir enerji kaybı yok. 
+
+Özünde PoW ile Satoshi'nin yaptığı, insanların kendi aralarında uzlaşabilmek için bireysel olarak oy kullanmak yoluyla kurdukları yönetim sistemini, makinelere uyarlamak oldu. Makineler bu sistemde oy kullanabilmek için enerji harcamak zorundalar (ki önüne gelen sisteme girip sistemi spam yağmuruna tutmasın). Makineler neden oy kullanıyorlar? Gönüllü ya da hayrına değil tabii. Kendilerine bir havuç verildiği için. O havuç da, her 10 dakikada bir işlemlerin toplandığı balyanın ağzını bağlamak için kendilerine verilen bir piyango bileti. Ödül ise şu an için 12.5 Bitoin. Ama bu piyango biletini aldıktan sonra piyangoya katılabilmek için bir bulmaca çözüyorlar. Bu bulmacayı çözebilmek için ise enerji harcamak zorundalar. 
 
 
 ### Bitcoin ne kadar enerji harcıyor?
