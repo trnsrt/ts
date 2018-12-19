@@ -11,7 +11,7 @@ Son birkaç yüzyıldır ise icat ettiğimiz yeni makineler sayesinde verimlili�
 
 Kaba bir genelleme ile serbest bir ekonomide üretilen her işin maliyeti, aslında bir anlamda o iş için sarf edilen enerjinin fiyatına göre ucuzladı ya da pahalandı. Tabii serbest ekonominin en temel özelliği olan maliyetleri minimize etmek prensibine uygun olarak bir iş en ucuz hangi enerji ile üretilebiliyor ise tüketim o enerjiye kaydı. 
 
-Yukarıdaki benzetmeden yola çıkarsak, para da aslında yapılan iş ya da servisin bir karşılığı olarak aslında bu iş için sarfedilen enerjinin depolandığı bir araç. 
+Yukarıdaki benzetmeden yola çıkarsak, para da özünde yapılan iş ya da servisin bir karşılığı olarak aslında bu iş için sarfedilen enerjinin saklandığı bir araç, bir nevi enerji deposu!. 
 
 
 
