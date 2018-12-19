@@ -23,6 +23,8 @@ Orjinalinde 1993 yılında yaratılan PoW, bir sunucuya istekte bulunan makinele
 
 Özünde PoW ile Satoshi'nin yaptığı, insanların kendi aralarında uzlaşabilmek için bireysel olarak oy kullanmak yoluyla kurdukları yönetim sistemini, makinelere uyarlamak oldu. Makineler bu sistemde oy kullanabilmek için enerji harcamak zorundalar (ki önüne gelen sisteme girip sistemi spam yağmuruna tutmasın). Makineler neden oy kullanıyorlar? Gönüllü ya da hayrına değil tabii. Kendilerine bir havuç verildiği için. O havuç da, her 10 dakikada bir işlemlerin toplandığı balyanın ağzını bağlamak için kendilerine verilen bir piyango bileti. Ödül ise şu an için 12.5 Bitoin. Ama bu piyango biletini aldıktan sonra piyangoya katılabilmek için bir bulmaca çözüyorlar. Bu bulmacayı çözebilmek için ise enerji harcamak zorundalar. 
 
+Bu neden önemli? Şu yüzden: Enerji harcamak özünde, fiziksel dünya için 'dijital dünyada gerçekten bir efor sarfedildiğini' en yalın ve adil olarak anlama/doğrulama yolu. Bu anlamda Bitcoin enerjiden üretilen bir süper emtia. PoW de bu emtiayı yaratan yani elektriği dijital altına çeviren araç. 
+
 
 ### Bitcoin ne kadar enerji harcıyor?
 
