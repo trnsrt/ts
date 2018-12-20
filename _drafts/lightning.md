@@ -27,7 +27,7 @@ Basit bir örnek ile başlayalım sonra detaylandıralım:
 * Eğer iki günün sonunda Ali ya da Ayşe'den biri parayı kendi hesabına çekmek isterse sandığı iptal ediyor, ve her bir tarafın bakiyesi kendi hesaplarına geri aktarılıyor. Bu durumda Ali 6 BTC Ayşe ise 4 BTC alıyor.
 ![lightning-1c-400.png](/assets/lightning-1c-400.png)
 
-İşte iki kişi bir sandık yaratınca aslında aralarında bir kanal yaratmış oluyorlar. Sandıktaki para da bu kanalın Bitcoin üzerindeki depozitosu, yani bu kanalı kullanacaklar için güvencesi. 
+İşte iki kişi bir sandık yaratınca aslında aralarında bir kanal yaratmış oluyorlar. Sandıktaki para da bu kanalın Bitcoin üzerindeki depozitosu, yani bu kanalı kullanacakların güvencesi. 
 
 İki kişi üzerinden basit ama böyle ikili ticaret eden kaç kişi var ki? Peki denkleme bir kişi daha ekleyelim: Örneğin Ayça. Ayça'nın da Ayşe ile ortak bir sandığı olsun ancak Ali ile daha önce hiçbir para ilişkisi olmasın. Ayça Ali'ye para gönderebilir mi (örneğin 0.5 BTC)? Gayet tabii. Ayça Ali'ye parayı Ayşe aracılığı ile gönderebilir. Ayça'nın Ayşe ile ortak sandığından 0.5 BTC'sini Ayşe'nin yaparsınız, Ayşe'nin Ali ile olan sandığındaki 0.5 BTC'sini de Ali'nin. 
 
