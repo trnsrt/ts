@@ -19,7 +19,8 @@ Lightning'in ana prensibi Bitcoin üzerindeki işlemlerin zincir üzerinden (yan
 
 Basit bir örnek ile başlayalım sonra detaylandıralım: 
 
-* Ali ve Ayşe ticaret ile uğraşıyor ve birbirlerine sık sık para gönderiyorlar. Bu ikili öncelikle beraberce bir kilitli sandık yaratıyorlar. Bu sandığa her ikisi de bir miktar Bitcoin koyuyorlar (örneğin her biri 5 BTC). İlk para koyduklarında bu işlem Bitcoin Blockchain üzerine işleniyor. 
+* Ali ve Ayşe ticaret ile uğraşıyor ve birbirlerine sık sık para gönderiyorlar. Bu ikili öncelikle beraberce bir kilitli sandık yaratıyorlar. Bu sandığa her ikisi de bir miktar Bitcoin koyuyorlar (örneğin her biri 5 BTC). İlk para koyduklarında bu işlem Bitcoin Blockchain üzerine işleniyor.
+
 ![lightning-1a-400.png](/assets/lightning-1a-400.png)
 * Diyelim bir gün Ali Ayşe'ye 1 BTC gönderiyor, ertesi gün de Ayşe Ali'ye 2 BTC. Bu iki işlemi de Bitcoin network'üne binlerce makineye göndermek yerine kendi aralarındaki bu sandık üzerinde hesaplaşıyorlar. İki gün sonunda Ali'nin sandıktaki hakkı 6 BTC, Ayşe'ninki ise 4 BTC oldu. Sandık orada, iki taraf da kendi bakiyelerini biliyorlar. 
 ![lightning-1b-400.png](/assets/lightning-1b-400.png)
