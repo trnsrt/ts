@@ -7,6 +7,8 @@ categories: Genel
 
 Geçtiğimiz [yazımızda](https://ademimerkezi.com/genel/2018/12/14/Bitcoin-genis-kitlelere-nasil-yayilir.html), Bitcoin'in geniş kitlelerce kullanımının önündeki en büyük engelin teknik olarak kısıtlı kapasitesi olduğundan bahsetmiştik. Özetle tekrarlarlarsak; yapılan her işlem Blockchain üzerine yazılıyor, bunu yapan madenciler ve işlem binlerce makineye yazıldığı ve 10 dakikada bir balya haline getirilip onaylandığı için saniyede maksimum 7 işlem gerçekleşebiliyor. 
 
+![lightning-eiffel.jpg](/assets/lightning-eiffel.jpg)
+
 Ama eğer biz her işlemi Blockchain üzerine yazmak yerine bunları toplayıp bir araya getirsek ve o şekilde yazsak, yani Blockchain'in zinciri üzerine değil zincir dışı işlem yapsak o zaman bu teknik kısıtlardan kurtulabiliriz. Peki ama, biri bana bir Bitcoin yollarsa benim bu Bitcoin'e sahip olduğumu kanıtlamamın tek yolu bu paranın Bitcoin Blockchain'ine işlenmiş olması değil miydi? Nasıl emin olacağım Bitcoin'in benim olduğuma eğer Blockchain zincirini kullanmaz isek? İşte Lightning Network dediğimiz sistem hem zincir dışı hızlı binlerce işlem yapabilen hem de bu binlerce işlemin sadece sonuçlarının Blockchain'e yazıldığı (yani herkesin hakettiği Bitcoin'i günün sonunda kendi cüzdanında görebildiği) bir yol öneriyor. 
 
 ### Nedir bu Lightning Network?
