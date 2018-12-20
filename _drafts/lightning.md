@@ -23,7 +23,7 @@ Basit bir örnek ile başlayalım sonra detaylandıralım:
 
 ![lightning-1a-640.png](/assets/lightning-1a-640.png)
 * Diyelim bir gün Ali Ayşe'ye 1 BTC gönderiyor, ertesi gün de Ayşe Ali'ye 2 BTC. Bu iki işlemi de Bitcoin network'üne binlerce makineye göndermek yerine kendi aralarındaki bu sandık üzerinde hesaplaşıyorlar. İki gün sonunda Ali'nin sandıktaki hakkı 6 BTC, Ayşe'ninki ise 4 BTC oldu. Sandık orada, iki taraf da kendi bakiyelerini biliyorlar. 
-![lightning-1b-640b.png](/assets/lightning-1b-640b.png)
+![lightning-1b-640-b.png](/assets/lightning-1b-640-b.png)
 * Eğer iki günün sonunda Ali ya da Ayşe'den biri parayı kendi hesabına çekmek isterse sandığı iptal ediyor, ve her bir tarafın bakiyesi kendi hesaplarına geri aktarılıyor. Bu durumda Ali 6 BTC Ayşe ise 4 BTC alıyor.
 ![lightning-1c-640.png](/assets/lightning-1c-640.png)
 
