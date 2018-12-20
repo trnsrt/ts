@@ -21,15 +21,17 @@ Basit bir örnek ile başlayalım sonra detaylandıralım:
 
 * Ali ve Ayşe ticaret ile uğraşıyor ve birbirlerine sık sık para gönderiyorlar. Bu ikili öncelikle beraberce bir kilitli sandık yaratıyorlar. Bu sandığa her ikisi de bir miktar Bitcoin koyuyorlar (örneğin her biri 5 BTC). İlk para koyduklarında bu işlem Bitcoin Blockchain üzerine işleniyor.
 
-![lightning-1a-400.png](/assets/lightning-1a-400.png)
+![lightning-1a-640.png](/assets/lightning-1a-640.png)
 * Diyelim bir gün Ali Ayşe'ye 1 BTC gönderiyor, ertesi gün de Ayşe Ali'ye 2 BTC. Bu iki işlemi de Bitcoin network'üne binlerce makineye göndermek yerine kendi aralarındaki bu sandık üzerinde hesaplaşıyorlar. İki gün sonunda Ali'nin sandıktaki hakkı 6 BTC, Ayşe'ninki ise 4 BTC oldu. Sandık orada, iki taraf da kendi bakiyelerini biliyorlar. 
-![lightning-1b-400.png](/assets/lightning-1b-400.png)
+![lightning-1b-640.png](/assets/lightning-1b-640.png)
 * Eğer iki günün sonunda Ali ya da Ayşe'den biri parayı kendi hesabına çekmek isterse sandığı iptal ediyor, ve her bir tarafın bakiyesi kendi hesaplarına geri aktarılıyor. Bu durumda Ali 6 BTC Ayşe ise 4 BTC alıyor.
-![lightning-1c-400.png](/assets/lightning-1c-400.png)
+![lightning-1c-640.png](/assets/lightning-1c-640.png)
 
 İşte iki kişi bir sandık yaratınca aslında aralarında bir kanal yaratmış oluyorlar. Sandıktaki para da bu kanalın Bitcoin üzerindeki depozitosu, yani bu kanalı kullanacakların güvencesi. 
 
 İki kişi üzerinden basit ama böyle ikili ticaret eden kaç kişi var ki? Peki denkleme bir kişi daha ekleyelim: Örneğin Ayça. Ayça'nın da Ayşe ile ortak bir sandığı olsun ancak Ali ile daha önce hiçbir para ilişkisi olmasın. Ayça Ali'ye para gönderebilir mi (örneğin 0.5 BTC)? Gayet tabii. Ayça Ali'ye parayı Ayşe aracılığı ile gönderebilir. Ayça'nın Ayşe ile ortak sandığından 0.5 BTC'sini Ayşe'nin yaparsınız, Ayşe'nin Ali ile olan sandığındaki 0.5 BTC'sini de Ali'nin. 
+
+![lightning-2a-640.png](/assets/lightning-2a-640.png)
 
 Peki şimdi bu tip sandıklardan (kanallardan) binlerce kişi ve kurumun açtığını düşünün. Bir kahve zincirisiniz. Ali ile Ayşe içtikleri kahve için size ödeme yaptılar. Siz de bu ödemeleri alıp size kahve çekirdeğı satın almada kullandınız. Size çekirdeği satan firma dijital reklamlarının dizaynını yapan Ayça'ya bu para ile ödeme yaptı. Ayça da Ali'den aldığı internet hosting hizmeti için kendisine bir miktar para yolladı. İşte tüm sistemi Lightning Network üzerinden döndürebilirsiniz.  Binlerce işlemin Bitcoin üzerinden Blockchain bloklarına yazılmadan güvenli bir şekilde gerçekleştirildiği ikinci bir katman yarattık işte. 
 
