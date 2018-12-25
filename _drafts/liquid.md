@@ -7,7 +7,7 @@ Liquid Network aynı Lightning Network gibi Bitcoin'i üzerine inşa edilmiş bi
 
 Kısaca hatırlayacak olursak, Lightning Network Bitcoin üzerine kurulmuş ikinci bir tabaka idi. Bitcoin üzerinde depozito koyup kanal açan aracılar, bu depozitoyu kullanarak birbirileri üzerinden işlem yapabiliyorlar idi. Böylece hem Bitcoin'in sağladığı güvenlik, gizlilik gibi özellikleri kullanabiliyor hem de Bitcoin ağı üzerinde yük yaratmadan binlerce işlem yapabiliyorlar idi. 
 
-Liquid ise Bitcoin üzerine kurulmuş bir tabaka değil de, Bitcoin'e bağlı yan-zincir (side-chain). Hadi bakalım yeni bir terim daha. Ne demek yan-zincir? Aslında o kadar da karmaşık değil. Özetle, Liquid tarafından kendi zinciri üzerinde yaratılmış bir para var ve Liquid'e giriş çıkış Bitcoin üzerinden yapılıyor. Böylece kullanıcılar BTC sahibi olmaya devam ederken Liquid'in sağladığı ek avantajlardan yararlanabiliyorlar. 
+Liquid ise Bitcoin üzerine kurulmuş bir tabaka değil de, Bitcoin'e bağlı yan-zincir (side-chain). Hadi bakalım yeni bir terim daha. Ne demek yan-zincir? Aslında o kadar da karmaşık değil. Özetle, Liquid tarafından kendi zinciri üzerinde yaratılmış bir para var ve Liquid'e giriş çıkış Bitcoin üzerinden yapılıyor. Böylece kullanıcılar BTC (Bitcoin'in parası) sahibi olmaya devam ederken Liquid'in sağladığı ek avantajlardan yararlanabiliyorlar. Liquid'in yaratıcısı Blockstream'in aynı zamanda Lightning Network'un en büyük destekçilerinden biri olduğunu da belirtelim. 
 
 Biraz daha açalım:  Hatırlarsanız daha önce Sabitparalar'dan bahsetmiştik. Kendilerini ABD Doları gibi Fiat paraya bağlayan sanal paralardan. Liquid de kendini Bitcoin'e bağlamış ayrı bir para yaratmış, adı L-BTC. 
 
@@ -24,6 +24,15 @@ Neden? Her ne kadar KriptoBorsa'lar her tür güvenlik önlemini alsalar da merk
 Paranızı borsada tutmadığınız durumda ise işlem yapmak istediğinizde çok vaktinizi alıyor. Cüzdanınızdan borsaya göndermek Bitcoin üzerinde en kısasından 10 dakika ama borsanın bunu tam olarak alıp (teyid edip) size işlem yaptırması dediğinizde çok daha vakit geçiyor. Özellikle çok işlem yapan biri iseniz bu kimi fırsatları kaçırmanıza yol açabilir. 
 
 İşte Liquid bu iki soruna çözüm getiriyor. Paranızı L-BTC'de tuttuğunuzda, borsaya 1 dakika içinde gönderebilir ve hemen alım satım yapabilirsiniz. Daha sonrasında L-BTC'inizi isterseniz kendi cüzdanınıza çekersiniz, ya da BTC'ye çevirirsiniz (1'e 1 aynı oranda). 
+
+### Var mı sakıncaları?
+
+Teoride yukarıda yazılanlar çok güzel görünse de kuşku ile bakanlar da yok değil. Bu kuşkuların ciddi bir kısmı felsefi aslında. 
+
+Bitcoin'in bağımsız yapısını ön plana çıkaranlar Liquid Network gibi yapıların özel network olmasına takılıyorlar. Dediğimiz gibi işlemleri onaylayanlar madenci değil özel olarak seçilmiş 15 kurum. Ya bu 15 kurum içinde 11'i birlikte hareket ederse. Liquid yaratıcıları da böyle bir riski kabul ediyorlar ama karşılaştırmanız gerekenin paranızı (BTC'ninizi) bir borsada tutmanın riski ile 15 farklı borsada tutmanın riski olması gerektiğini söylüyorlar. Tek bir borsanın risklerini almaktansa, riski 15 ayrı borsaya dağıttınızı belirtiyorlar. Ama nereden bakarsanız bakın, BTC'nin orjinal yaratıcılarının düşlediği özgür dünyadan bir sapma sonuç olarak bu özel yapı. 
+
+İkinci bir eleştiri ise, Blockstream'e yapılıyor. Kar güden bir kurum olan Blockstream, kaynaklarını kullanarak bugün için Bitcoin'in geliştiren hatırı sayılır sayıda geliştiriciye iş olanağı sağlıyor. Eleştirenler, bu kişilerin Bitcoin'i geliştirirken de Blockstream'ın istediği alanlara yönelecekleri ve tarafsızlıklarını kaybedebileceklerini düşünüyor. Şahsen çok katılmadığım bir eleştiri. Zira Bitcoin geliştiricisi olmak için herhangi bir sertifika ya da izin gerekmiyor. İsteyen yazılımcı Bitcoin'i geliştirmek için katkıda bulunabilir. Blockstream'in bu yazılımcılara iş veriyor olması, başka yazılımcıları da Bitcoin üzerinde çalıştırmaya sevk edebilir, ki bu gayet Bitcoin'in yararına bir durum. 
+
 
 
 - Sidechain to Bitcoin
