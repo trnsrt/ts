@@ -13,13 +13,17 @@ Biraz daha açalım:  Hatırlarsanız daha önce Sabitparalar'dan bahsetmiştik.
 
 L-BTC'nin özelliği yazdığımız gibi Bitcoin'in parası BTC'ye birebir bağlı değer olarak. Sadece değer olarak değil. L-BTC yaratılması için aynı oranda karşılığı bir BTC olması gerekiyor. 
 
-Liquid Network, Bitcoin'den farklı olarak özel bir network (permissionless). Ne farkı var yani Bitcoin'den? Şöyle. Bitcoin açık bir network olduğu için hem kullanıcılar hem madenciler istedikleri gibi girip çıkabiliyorlar. Liquid Network'de ise Bitcoin'deki gibi madenciler yok. Sadece şu an sayısı 15 olan borsalar ve kurumsal aracılar var. Yapılan işlemleri madenciler onaylamıyor, o işi bu borsa ve kurumsal aracılar yapıyor. Kullanıcılar ise istedikleri gibi işlem yapabiliyorlar ancak L-BTC satın almak için bu borsaları kullanmak zorundalar. 
-
+Liquid Network, Bitcoin'den farklı olarak özel bir network (permissionless). Ne farkı var yani Bitcoin'den? Şöyle. Bitcoin açık bir network olduğu için hem kullanıcılar hem madenciler istedikleri gibi girip çıkabiliyorlar. Liquid Network'de ise Bitcoin'deki gibi madenciler yok. Sadece şu an sayısı 15 olan borsalar ve kurumsal aracılar var. Yapılan işlemleri madenciler onaylamıyor, o işi bu borsa ve kurumsal aracılar yapıyor. Bitcoin'de madencilerin çoğunluğunun işlemi onaylaması gerekirken burada üçte iki çoğunluk gerekiyor, yani 11 borsanın işlemi onaylaması gerekli. Kullanıcılar ise L-BTC ile istedikleri gibi işlem yapabiliyor ama L-BTC'lerini satmak için yine bu borsaları kullanmak zorundalar. Kullanıcı olarak bir borsaya girip L-BTC aldığınızda, bu L-BTC spesifik bir BTC'ye bağlanıyor ve satmaya kalktığınızda o spesifik BTC üzerinden işlem yapılıyor. Böylece olası sahtekarlıklar önlenmiş oluyor. 
 
 
 #### Nedir sağladığı avantajlar Liquid'in?
-Kullanıcılar
+Kullanıcılar için Liquid'in sağladığı en büyük avantaj SabitParalar ile aynı aslında. Kriptoparanızı (buradaki örnekte BTC'nizi) bir borsada tutmak riskli. 
 
+Neden? Her ne kadar KriptoBorsa'lar her tür güvenlik önlemini alsalar da merkezi yapılar - dış tehdit ve saldırılara açıklar. Hep dediğimiz gibi Fiat paranızı bankada tuttuğunuzda banka riski alıyorsunuz ve kimseye güvenmeyecek kadar paranoyak iseniz alıp yastığınızın altına koyabilirsiniz ama orada da evinize hırsız girebilir. Bitcoin benzeri paralar Kriptocüzdanlar sayesinde kendinizde tutabileceğiniz ve gerçekten sahip olabileceğiniz paralar. Kendi özel anahtarınızı bir kağıda yazdıktan sonra (kağıdı kaybetmemek şartıyla) istediğiniz her yere götürebilirsiniz. 
+
+Paranızı borsada tutmadığınız durumda ise işlem yapmak istediğinizde çok vaktinizi alıyor. Cüzdanınızdan borsaya göndermek Bitcoin üzerinde en kısasından 10 dakika ama borsanın bunu tam olarak alıp (teyid edip) size işlem yaptırması dediğinizde çok daha vakit geçiyor. Özellikle çok işlem yapan biri iseniz bu kimi fırsatları kaçırmanıza yol açabilir. 
+
+İşte Liquid bu iki soruna çözüm getiriyor. Paranızı L-BTC'de tuttuğunuzda, borsaya 1 dakika içinde gönderebilir ve hemen alım satım yapabilirsiniz. Daha sonrasında L-BTC'inizi isterseniz kendi cüzdanınıza çekersiniz, ya da BTC'ye çevirirsiniz (1'e 1 aynı oranda). 
 
 
 - Sidechain to Bitcoin
