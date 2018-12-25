@@ -1,4 +1,24 @@
 
+Geçtiğimiz yazıda Bitcoin'in geniş kitlelere yayılması için üzerinde çalışılan yeniliklerden Lightning Network'den bahsetmiştik. Bu hafta ise bir başka potansiyel yenilik olan Liquid Network'e bakalım birlikte.. 
+
+### Liquid Network? Nedir o?
+
+Liquid Network aynı Lightning Network gibi Bitcoin'i üzerine inşa edilmiş bir yenilik. Ama benzerlikleri orada bitiyor.  
+
+Kısaca hatırlayacak olursak, Lightning Network Bitcoin üzerine kurulmuş ikinci bir tabaka idi. Bitcoin üzerinde depozito koyup kanal açan aracılar, bu depozitoyu kullanarak birbirileri üzerinden işlem yapabiliyorlar idi. Böylece hem Bitcoin'in sağladığı güvenlik, gizlilik gibi özellikleri kullanabiliyor hem de Bitcoin ağı üzerinde yük yaratmadan binlerce işlem yapabiliyorlar idi. 
+
+Liquid ise Bitcoin üzerine kurulmuş bir tabaka değil de, Bitcoin'e bağlı yan-zincir (side-chain). Hadi bakalım yeni bir terim daha. Ne demek yan-zincir? Aslında o kadar da karmaşık değil. Özetle, Liquid tarafından kendi zinciri üzerinde yaratılmış bir para var ve Liquid'e giriş çıkış Bitcoin üzerinden yapılıyor. Böylece kullanıcılar BTC sahibi olmaya devam ederken Liquid'in sağladığı ek avantajlardan yararlanabiliyorlar. 
+
+Biraz daha açalım:  Hatırlarsanız daha önce Sabitparalar'dan bahsetmiştik. Kendilerini ABD Doları gibi Fiat paraya bağlayan sanal paralardan. Liquid de kendini Bitcoin'e bağlamış ayrı bir para yaratmış, adı L-BTC. 
+
+L-BTC'nin özelliği yazdığımız gibi Bitcoin'in parası BTC'ye birebir bağlı değer olarak. Sadece değer olarak değil. L-BTC yaratılması için aynı oranda karşılığı bir BTC olması gerekiyor. 
+
+Liquid Network, Bitcoin'den farklı olarak özel bir network (permissionless). Ne farkı var yani Bitcoin'den? Şöyle. Bitcoin açık bir network olduğu için hem kullanıcılar hem madenciler istedikleri gibi girip çıkabiliyorlar. Liquid Network'de ise Bitcoin'deki gibi madenciler yok. Sadece şu an sayısı 15 olan borsalar ve kurumsal aracılar var. Yapılan işlemleri madenciler onaylamıyor, o işi bu borsa ve kurumsal aracılar yapıyor. Kullanıcılar ise istedikleri gibi işlem yapabiliyorlar ancak L-BTC satın almak için bu borsaları kullanmak zorundalar. 
+
+
+
+#### Nedir sağladığı avantajlar Liquid'in?
+Kullanıcılar
 
 
 
