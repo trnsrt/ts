@@ -8,7 +8,7 @@ categories: Genel
 
 
 
-Önceki [yazımızda](https://ademimerkezi.com/genel/2018/08/31/bizans-generalinin-problemi-uzla%C5%9Fmak.html) bağımsız (dağıtık), birbirine güvenmeyen oyuncuların nasıl uzlaşıp beraberce hareket ettiklerine bakmıştık. Kısaca bahsedersek, Bizans Hata Tolerans diye adlandırılan bir sistemi kullanan oyuncular, kendilerine gelen mesajların içinde çoğunluğun söylediğ mesajı uygulayarak ilerliyorlar, böylece ortada kararsızlık söz konusu olmuyor idi. 
+Önceki [yazımızda](https://ademimerkezi.com/genel/2018/08/31/bizans-generalinin-problemi-uzlasmak.html) bağımsız (dağıtık), birbirine güvenmeyen oyuncuların nasıl uzlaşıp beraberce hareket ettiklerine bakmıştık. Kısaca bahsedersek, Bizans Hata Tolerans diye adlandırılan bir sistemi kullanan oyuncular, kendilerine gelen mesajların içinde çoğunluğun söylediğ mesajı uygulayarak ilerliyorlar, böylece ortada kararsızlık söz konusu olmuyor idi. 
 
 ### Sorular, sorular...
 
