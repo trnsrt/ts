@@ -10,13 +10,13 @@ Dağıtık (merkezi olmayan, adem-i merkezi) her tür teknoloji ve finans dünya
   - "[Geceleri uykunuzu ne kaçırıyor](https://ademimerkezi.com/genel/2018/03/01/Geceleri-uykunuzu-ne-kaciriyor.html)"  
   - "[Sahi nedir bu Blockchain Allah aşkına?](https://ademimerkezi.com/genel/2018/03/02/Sahi-nedir-bu-blockchain-allah-askina.html) 
 - Blockchain'in değişik alanlarda getirdiği potansiyel yenilikler için
-  - **insanı yardımda** "[İyilik için Blockchain](https://ademimerkezi.com/genel/2018/03/29/Iyilik-icin-blockchain.html)", 
-  - **sanatta** "[Sanat için Blockchain](https://ademimerkezi.com/genel/2018/03/29/Iyilik-icin-blockchain.html)", 
-  - **sağlıkta** "[Sağlık için Blockchain](https://ademimerkezi.com/genel/2018/04/17/saglik-icin-blockchain.html)", 
-  - **ulaşımda** "[Seyahat için Blockchain](https://ademimerkezi.com/genel/2018/07/06/seyahat-icin-blockchain.html)", 
-  - **çevrede** "[Çevre için Blockchain](https://ademimerkezi.com/genel/2018/11/16/cevre-icin-blockhain.html)", ve [devamı](https://ademimerkezi.com/genel/2018/11/17/cevre-icin-blockchaine-devam.html) 
-  - **tahmin piyasalarında** "[Geleceği tahmin için Blockchain](https://ademimerkezi.com/genel/2018/07/13/gelecegi-tahmin-icin-blockchain.html)", 
-  - **tedarik zincirlerinde** "[Tedarik zinciri için Blockchain](https://ademimerkezi.com/genel/2018/08/17/tedarik-zinciri-icin-blockchain.html)"
+  - **İnsanı yardımda** "[İyilik için Blockchain](https://ademimerkezi.com/genel/2018/03/29/Iyilik-icin-blockchain.html)", 
+  - **Sanatta** "[Sanat için Blockchain](https://ademimerkezi.com/genel/2018/03/29/Iyilik-icin-blockchain.html)", 
+  - **Sağlıkta** "[Sağlık için Blockchain](https://ademimerkezi.com/genel/2018/04/17/saglik-icin-blockchain.html)", 
+  - **Ulaşımda** "[Seyahat için Blockchain](https://ademimerkezi.com/genel/2018/07/06/seyahat-icin-blockchain.html)", 
+  - **Çevrede** "[Çevre için Blockchain](https://ademimerkezi.com/genel/2018/11/16/cevre-icin-blockhain.html)", ve [devamı](https://ademimerkezi.com/genel/2018/11/17/cevre-icin-blockchaine-devam.html) 
+  - **Tahmin piyasalarında** "[Geleceği tahmin için Blockchain](https://ademimerkezi.com/genel/2018/07/13/gelecegi-tahmin-icin-blockchain.html)", 
+  - **Tedarik zincirlerinde** "[Tedarik zinciri için Blockchain](https://ademimerkezi.com/genel/2018/08/17/tedarik-zinciri-icin-blockchain.html)"
 - Blockchain bazlı teknolojilerin **girişimcilik ve yatırımcılık** ekosistemlerini nasıl değiştirdiğini merak ediyorsanız
   - "[Değişen Girişimcilik ve Yatırımcılık](https://ademimerkezi.com/genel/2018/05/17/degisen-girisimcilik-ve-yatirimcilik.html)"
   - "[Girişimler yeni teknolojiler ile nasıl demokratikleşiyor?](https://ademimerkezi.com/genel/2018/05/21/girisimler-yeni-teknolijler-ile-nasil-demokratiklesiyor.html)"
@@ -31,11 +31,11 @@ Dağıtık (merkezi olmayan, adem-i merkezi) her tür teknoloji ve finans dünya
   - "[Bitcoin üzerinden ışık hızıyla işlem: Lightning Network](https://ademimerkezi.com/genel/2018/12/20/bitcoin-uzerinde-isik-hiziyla-islem-Lightning-network.html)"
   - "(Bitcoin gibi ama değil: Liquid)[https://ademimerkezi.com/genel/2018/12/26/Bitcoin-gibi-ama-degil-Liquid.html]"
 - Daha pekçok yeni teknolojiye altyapı sağlayan **Ethereum**'u merak ediyorsanız
-  - tarihini "[Dünyanın en büyük bilgisayarı: Ethereum'un hikayesi](https://ademimerkezi.com/genel/2018/06/14/dunyanin-en-buyuk-bilgisayari-ethereumun-hikayesi.html)"
-  - en temel taşı olan Akıllı Kontratların ne olduğunu "[Bu kontratlar çok akıllı: Ethereum ve Akıllı Kontratlar](https://ademimerkezi.com/genel/2018/06/29/bu-kontratlar-cok-akilli-ethereum-ve-akilli-kontratlar.html)" 
+  - Ethereum'um tarihi için "[Dünyanın en büyük bilgisayarı: Ethereum'un hikayesi](https://ademimerkezi.com/genel/2018/06/14/dunyanin-en-buyuk-bilgisayari-ethereumun-hikayesi.html)"
+  - En temel taşı olan Akıllı Kontratlar'ı anlamak için "[Bu kontratlar çok akıllı: Ethereum ve Akıllı Kontratlar](https://ademimerkezi.com/genel/2018/06/29/bu-kontratlar-cok-akilli-ethereum-ve-akilli-kontratlar.html)" 
 - Yeni çıkan **Token ve ICO piyasalarını** daha yakından tanımak için 
   - "[Yeni dünyada girişimciler için aranan kan bulundu mu? ICO ve Token Dünyası](https://ademimerkezi.com/genel/2018/05/25/ico-ve-token-dunyasi.html)"
-  - bu piyasaların en ağır oyuncusu Bitcoin için "[Token dünyasının ilk oyuncusu tanıdık bir isim: Bitcoin](https://ademimerkezi.com/genel/2018/06/01/token-dunyasinin-ilk-oyuncusu-tanidik-bir-isim-bitcoin.html)"
+  - Bu piyasaların en ağır oyuncusu Bitcoin için "[Token dünyasının ilk oyuncusu tanıdık bir isim: Bitcoin](https://ademimerkezi.com/genel/2018/06/01/token-dunyasinin-ilk-oyuncusu-tanidik-bir-isim-bitcoin.html)"
   - Bitcoin'in belli özelliklerini taşıyıp belli sıkıntılarını gidermeye çalışan alternatif KriptoParalar için "[Token Dünyası'na devam. Diğer KriptoParalar: Litecoin, Monero, Dash, Zcash](https://ademimerkezi.com/genel/2018/06/07/token-dunyasina-devam-diger-kriptopalar-litecoin-monero-dash-zcash.html)"
   - [Ripple ne? Gerçekten değerli mi bu kadar?](https://ademimerkezi.com/genel/2018/09/28/ripple-ne-gercekten-degerli-mi-bu-kadar.html)
   - ICO dünyasında yatırım yapmaya niyetiniz varsa "[ICO Yatırım Rehberi](https://ademimerkezi.com/genel/2018/09/14/ico-yatirim-rehberi.html)" ve "[ICO Yatırım Rehberi'ne Devam](https://ademimerkezi.com/genel/2018/09/21/ico-yatirim-rehberine-devam.html)"
@@ -51,8 +51,7 @@ Dağıtık (merkezi olmayan, adem-i merkezi) her tür teknoloji ve finans dünya
   - "[Blockchain bulunduğum sektöre yarar mı?](https://ademimerkezi.com/genel/2018/08/10/Blockchain-bulundugum-sektore-yarar-mi.html)"
 - Yeni teknolojileri ayakta tutan en önemli yeniliklerden **Şifreleme**nin ne demek olduğu için 
   - "[Şifreleme ne demek? Neden önemli?](https://ademimerkezi.com/genel/2018/04/25/sifreleme-ne-demek-neden-onemli.html)"
-  - Şifrelemenin temel taşları olan Öğütme (hashing)
-  - Özel Anahtar, Genel Anahtar, Şifreleme (Encryption)‘ye daha detaylı bakmak için "[Şifreleme mi? Çok karışık değil mi?](https://ademimerkezi.com/genel/2018/04/26/sifreleme-mi-cok-karisik-degil-mi.html)"
+  - Şifrelemenin temel taşları olan Öğütme (hashing) Özel Anahtar, Genel Anahtar, Şifreleme (Encryption)‘ye daha detaylı bakmak için "[Şifreleme mi? Çok karışık değil mi?](https://ademimerkezi.com/genel/2018/04/26/sifreleme-mi-cok-karisik-degil-mi.html)"
   - Blockchain mekanizmasında nasıl kullanıldığını anlamak için "[Peki Blockchain şifrelemesi nasıl çalışıyor?](https://ademimerkezi.com/genel/2018/05/08/Peki-Blockchain-sifrelemesi-nasil-calisiyor.html)" 
 - Yeni teknolojilerin dağıtık yapılarında biribirinden bağımsız makinelerin nasıl ortak hareket ettiğini merak ediyorsanız
   - "[Bizans Generallerinin Problemi: Uzlaşma](https://ademimerkezi.com/genel/2018/08/31/bizans-generalinin-problemi-uzla%C5%9Fmak.html)"
