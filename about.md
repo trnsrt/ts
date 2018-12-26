@@ -30,7 +30,7 @@ Dağıtık (merkezi olmayan, adem-i merkezi) her tür teknoloji ve finans dünya
   - "[Bitcoin geniş kitlelere nasıl yayılır?](https://ademimerkezi.com/genel/2018/12/14/Bitcoin-genis-kitlelere-nasil-yayilir.html)"
 - Bitcoin üzerine inşa edilen yeni teknolojilere ilginiz varsa 
   - "[Bitcoin üzerinden ışık hızıyla işlem: Lightning Network](https://ademimerkezi.com/genel/2018/12/20/bitcoin-uzerinde-isik-hiziyla-islem-Lightning-network.html)"
-  - "(Bitcoin gibi ama değil: Liquid)[https://ademimerkezi.com/genel/2018/12/26/Bitcoin-gibi-ama-degil-Liquid.html]"
+  - "[Bitcoin gibi ama değil: Liquid](https://ademimerkezi.com/genel/2018/12/26/Bitcoin-gibi-ama-degil-Liquid.html)"
 - Daha pekçok yeni teknolojiye altyapı sağlayan **Ethereum**'u merak ediyorsanız
   - Ethereum'um tarihi için "[Dünyanın en büyük bilgisayarı: Ethereum'un hikayesi](https://ademimerkezi.com/genel/2018/06/14/dunyanin-en-buyuk-bilgisayari-ethereumun-hikayesi.html)"
   - En temel taşı olan Akıllı Kontratlar'ı anlamak için "[Bu kontratlar çok akıllı: Ethereum ve Akıllı Kontratlar](https://ademimerkezi.com/genel/2018/06/29/bu-kontratlar-cok-akilli-ethereum-ve-akilli-kontratlar.html)" 
