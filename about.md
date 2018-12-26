@@ -8,7 +8,7 @@ Dağıtık (merkezi olmayan, adem-i merkezi) her tür teknoloji ve finans dünya
 
 &nbsp;
 
-- Blockchain teknolojisinin nasıl çıktığını merak ediyorsanız 
+- Blockchain teknolojisinin nasıl çıktığını merak ediyorsanız
   - [Geceleri uykunuzu ne kaçırıyor](https://ademimerkezi.com/genel/2018/03/01/Geceleri-uykunuzu-ne-kaciriyor.html)
   - [Sahi nedir bu Blockchain Allah aşkına?](https://ademimerkezi.com/genel/2018/03/02/Sahi-nedir-bu-blockchain-allah-askina.html) 
 - Blockchain'in değişik alanlarda getirdiği potansiyel yenilikler için
@@ -27,6 +27,7 @@ Dağıtık (merkezi olmayan, adem-i merkezi) her tür teknoloji ve finans dünya
   - [Blockchain bulunduğum sektöre yarar mı?](https://ademimerkezi.com/genel/2018/08/10/Blockchain-bulundugum-sektore-yarar-mi.html)
   
 &nbsp;
+
 - Bu teknolojinin şu anda en olgun şekilde kullanılan uygulamalarından Bitcoin'e ilginiz varsa
   - [Bitcoin ne tam olarak?](https//ademimerkezi.com/genel/2018/03/13/Bitcoin-ne-tam-olarak.html)
   - [Bitcoin para mı gerçekten?](https://ademimerkezi.com/genel/2018/03/22/Bitcoin-para-mi-gercekten.html)
@@ -45,7 +46,8 @@ Dağıtık (merkezi olmayan, adem-i merkezi) her tür teknoloji ve finans dünya
   - En temel taşı olan Akıllı Kontratlar'ı anlamak için [Bu kontratlar çok akıllı: Ethereum ve Akıllı Kontratlar](https://ademimerkezi.com/genel/2018/06/29/bu-kontratlar-cok-akilli-ethereum-ve-akilli-kontratlar.html)
 
 &nbsp;
-- Yeni çıkan Token ve ICO piyasalarını daha yakından tanımak için 
+
+- Yeni çıkan Token ve ICO piyasalarını daha yakından tanımak için
   - [Yeni dünyada girişimciler için aranan kan bulundu mu? ICO ve Token Dünyası](https://ademimerkezi.com/genel/2018/05/25/ico-ve-token-dunyasi.html)
   - Bu piyasaların en ağır oyuncusu Bitcoin için [Token dünyasının ilk oyuncusu tanıdık bir isim: Bitcoin](https://ademimerkezi.com/genel/2018/06/01/token-dunyasinin-ilk-oyuncusu-tanidik-bir-isim-bitcoin.html)
   - Bitcoin'in belli özelliklerini taşıyıp belli sıkıntılarını gidermeye çalışan alternatif KriptoParalar için [Token Dünyası'na devam. Diğer KriptoParalar: Litecoin, Monero, Dash, Zcash](https://ademimerkezi.com/genel/2018/06/07/token-dunyasina-devam-diger-kriptopalar-litecoin-monero-dash-zcash.html)
