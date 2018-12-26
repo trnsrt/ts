@@ -27,7 +27,6 @@ Dağıtık (merkezi olmayan, adem-i merkezi) her tür teknoloji ve finans dünya
   - [Blockchain bulunduğum sektöre yarar mı?](https://ademimerkezi.com/genel/2018/08/10/Blockchain-bulundugum-sektore-yarar-mi.html)
   
 &nbsp;
-
 - Bu teknolojinin şu anda en olgun şekilde kullanılan uygulamalarından Bitcoin'e ilginiz varsa
   - [Bitcoin ne tam olarak?](https//ademimerkezi.com/genel/2018/03/13/Bitcoin-ne-tam-olarak.html)
   - [Bitcoin para mı gerçekten?](https://ademimerkezi.com/genel/2018/03/22/Bitcoin-para-mi-gercekten.html)
