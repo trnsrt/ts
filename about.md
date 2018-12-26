@@ -22,7 +22,7 @@ Dağıtık (merkezi olmayan, adem-i merkezi) her tür teknoloji ve finans dünya
 - Blockchain bazlı teknolojilerin girişimcilik ve yatırımcılık ekosistemlerini nasıl değiştirdiğini merak ediyorsanız
   - [Değişen Girişimcilik ve Yatırımcılık](https://ademimerkezi.com/genel/2018/05/17/degisen-girisimcilik-ve-yatirimcilik.html)
   - [Girişimler yeni teknolojiler ile nasıl demokratikleşiyor?](https://ademimerkezi.com/genel/2018/05/21/girisimler-yeni-teknolijler-ile-nasil-demokratiklesiyor.html)
-  - Blockchain konusuna madalyonun öbür yüzünü de gözden kaçırmamak için 
+- Blockchain konusuna madalyonun öbür yüzünü de gözden kaçırmamak için 
   - [Blockchain her derde deva mı?](https://ademimerkezi.com/genel/2018/08/03/blockchain-her-derde-deva-mi.html)
   - [Blockchain bulunduğum sektöre yarar mı?](https://ademimerkezi.com/genel/2018/08/10/Blockchain-bulundugum-sektore-yarar-mi.html)
   
