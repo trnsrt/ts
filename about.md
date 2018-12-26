@@ -62,7 +62,7 @@ Dağıtık (merkezi olmayan, adem-i merkezi) her tür teknoloji ve finans dünya
   - [SabitParalar’a devam — diğerleri](https://ademimerkezi.com/genel/2018/07/27/sabitparalara-devam-digerleri.html)
 
 &nbsp;
-- Yeni teknolojileri ayakta tutan en önemli yeniliklerden Şifreleme ile ilgili
+- Yeni teknolojileri ayakta tutan en önemli yeniliklerden 'Şifreleme' ile ilgili
   - [Şifreleme ne demek? Neden önemli?](https://ademimerkezi.com/genel/2018/04/25/sifreleme-ne-demek-neden-onemli.html)
   - Temel taşları Öğütme (hashing) Özel Anahtar, Genel Anahtar, Şifreleme (Encryption)‘ye daha detaylı bakmak için [Şifreleme mi? Çok karışık değil mi?](https://ademimerkezi.com/genel/2018/04/26/sifreleme-mi-cok-karisik-degil-mi.html)
   - Blockchain mekanizmasında nasıl kullanıldığını anlamak için [Peki Blockchain şifrelemesi nasıl çalışıyor?](https://ademimerkezi.com/genel/2018/05/08/Peki-Blockchain-sifrelemesi-nasil-calisiyor.html) 
