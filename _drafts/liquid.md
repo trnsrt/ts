@@ -11,7 +11,7 @@ Liquid hisse alım-satımı yapan kurumlar ve borsalar arasında hızlı işlem 
 Liquid'in yaratmış olduğu özel bir Blockchain ve buna bağlı olan bir para var L-BTC adında. Hatırlarsanız daha önce Sabitparalar'dan bahsetmiştik. Kendilerini ABD Doları gibi Fiat paraya bağlayan sanal paralardan. L-BTC de kendini Bitcoin'e bağlamış. Yani hem BTC ile aynı değerde hem de bir L-BTC yaratılması için aynı oranda  bir BTC karşılığının olması gerekiyor. Kullanıcılar BTC (Bitcoin'in parası) sahibi olmaya devam ederken L-BTC'nin sağladığı ek avantajlardan yararlanabiliyorlar.  
 
 
-![liquid_header-min.png](/assets/liquid_header-min.png)
+![liquid_header-min2.png](/assets/liquid_header-min2.png)
 
 Liquid Network, Bitcoin'den farklı olarak özel bir Blockhain (permissionless). Ne farkı var yani Bitcoin'den? Şöyle: Bitcoin açık bir network olduğu için hem kullanıcılar hem madenciler istedikleri gibi girip çıkabiliyorlar. Liquid Network'de ise Bitcoin'deki gibi madenciler yok. Sadece şu an sayısı 15 olan borsalar ve kurumsal aracılar var. Yapılan işlemleri madenciler onaylamıyor, o işi bu borsa ve kurumsal aracılar yapıyor. Bitcoin'de madencilerin çoğunluğunun işlemi onaylaması gerekirken burada üçte iki çoğunluk gerekiyor, yani 11 borsanın işlemi onaylaması gerekli. 
 
