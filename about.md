@@ -15,8 +15,8 @@ Dağıtık (merkezi olmayan, adem-i merkezi) her tür teknoloji ve finans dünya
   - Sağlıkta** "[Sağlık için Blockchain](https://ademimerkezi.com/genel/2018/04/17/saglik-icin-blockchain.html)", 
   - Ulaşımda** "[Seyahat için Blockchain](https://ademimerkezi.com/genel/2018/07/06/seyahat-icin-blockchain.html)", 
   - Çevrede** "[Çevre için Blockchain](https://ademimerkezi.com/genel/2018/11/16/cevre-icin-blockhain.html)", ve [devamı](https://ademimerkezi.com/genel/2018/11/17/cevre-icin-blockchaine-devam.html) 
-  - **Tahmin piyasalarında** "[Geleceği tahmin için Blockchain](https://ademimerkezi.com/genel/2018/07/13/gelecegi-tahmin-icin-blockchain.html)", 
-  - **Tedarik zincirlerinde** "[Tedarik zinciri için Blockchain](https://ademimerkezi.com/genel/2018/08/17/tedarik-zinciri-icin-blockchain.html)"
+  - Tahmin piyasalarında** "[Geleceği tahmin için Blockchain](https://ademimerkezi.com/genel/2018/07/13/gelecegi-tahmin-icin-blockchain.html)", 
+  - Tedarik zincirlerinde** "[Tedarik zinciri için Blockchain](https://ademimerkezi.com/genel/2018/08/17/tedarik-zinciri-icin-blockchain.html)"
 - Blockchain bazlı teknolojilerin **girişimcilik ve yatırımcılık** ekosistemlerini nasıl değiştirdiğini merak ediyorsanız
   - "[Değişen Girişimcilik ve Yatırımcılık](https://ademimerkezi.com/genel/2018/05/17/degisen-girisimcilik-ve-yatirimcilik.html)"
   - "[Girişimler yeni teknolojiler ile nasıl demokratikleşiyor?](https://ademimerkezi.com/genel/2018/05/21/girisimler-yeni-teknolijler-ile-nasil-demokratiklesiyor.html)"
