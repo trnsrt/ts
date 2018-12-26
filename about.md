@@ -4,7 +4,7 @@ title: Hakkımızda
 permalink: /about/
 ---
 
-Dağıtık (merkezi olmayan, adem-i merkezi) her tür teknoloji ve finans dünyasına etkileri üzerine karalamalar. Şu ana kadar yayınladığımız 20+ yazıda nelerden bahsettiğimizi özetleyecek olursak (her bir link ayrı bir yazı, ilginiz çeken konuya ulaşmak için hemen linke tıklayabilirsiniz): 
+Dağıtık (merkezi olmayan, adem-i merkezi) her tür teknoloji ve finans dünyasına etkileri üzerine karalamalar. Şu ana kadar yayınladığımız 40+ yazıda nelerden bahsettiğimizi özetleyecek olursak (her bir link ayrı bir yazı, ilginiz çeken konuya ulaşmak için hemen linke tıklayabilirsiniz): 
 
 - **Blockchain teknolojisinin nasıl çıktığını** merak ediyorsanız 
   - "[Geceleri uykunuzu ne kaçırıyor](https://ademimerkezi.com/genel/2018/03/01/Geceleri-uykunuzu-ne-kaciriyor.html)"  
@@ -23,7 +23,8 @@ Dağıtık (merkezi olmayan, adem-i merkezi) her tür teknoloji ve finans dünya
 - Bu teknolojinin şu anda en olgun şekilde kullanılan uygulamalarından **Bitcoin**'e ilginiz varsa
   - "[Bitcoin ne tam olarak?](https//ademimerkezi.com/genel/2018/03/13/Bitcoin-ne-tam-olarak.html)
   - "[Bitcoin para mı gerçekten?](https://ademimerkezi.com/genel/2018/03/22/Bitcoin-para-mi-gercekten.html)"
-  - "[Bütün bunlar bir balon mu?](https://ademimerkezi.com/genel/2018/03/05/Butun-bunlar-bir-balon-mu.html)", "[Bir Bitcoin işlemi nasıl gerçekleşiyor?](https://ademimerkezi.com/genel/2018/11/30/bitcoin-islemi-nasil-gerceklesiyor.html)"
+  - "[Bütün bunlar bir balon mu?](https://ademimerkezi.com/genel/2018/03/05/Butun-bunlar-bir-balon-mu.html)"
+  - "[Bir Bitcoin işlemi nasıl gerçekleşiyor?](https://ademimerkezi.com/genel/2018/11/30/bitcoin-islemi-nasil-gerceklesiyor.html)"
 - Bitcoin'in geleceğini merak ediyorsanız 
   - "[Ne olacak şu Bitcoin'in hali?](https://ademimerkezi.com/genel/2018/12/07/ne-olacak-su-bitcoinin-hali.html)"
   - "[Bitcoin geniş kitlelere nasıl yayılır?](https://ademimerkezi.com/genel/2018/12/14/Bitcoin-genis-kitlelere-nasil-yayilir.html)"
