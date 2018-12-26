@@ -19,7 +19,7 @@ Dağıtık (merkezi olmayan, adem-i merkezi) her tür teknoloji ve finans dünya
   - Tedarik zincirlerinde [Tedarik zinciri için Blockchain](https://ademimerkezi.com/genel/2018/08/17/tedarik-zinciri-icin-blockchain.html)
 - Blockchain bazlı teknolojilerin girişimcilik ve yatırımcılık ekosistemlerini nasıl değiştirdiğini merak ediyorsanız
   - [Değişen Girişimcilik ve Yatırımcılık](https://ademimerkezi.com/genel/2018/05/17/degisen-girisimcilik-ve-yatirimcilik.html)
-  - "Girişimler yeni teknolojiler ile nasıl demokratikleşiyor?](https://ademimerkezi.com/genel/2018/05/21/girisimler-yeni-teknolijler-ile-nasil-demokratiklesiyor.html)
+  - [Girişimler yeni teknolojiler ile nasıl demokratikleşiyor?](https://ademimerkezi.com/genel/2018/05/21/girisimler-yeni-teknolijler-ile-nasil-demokratiklesiyor.html)
 - Bu teknolojinin şu anda en olgun şekilde kullanılan uygulamalarından **Bitcoin**'e ilginiz varsa
   - [Bitcoin ne tam olarak?](https//ademimerkezi.com/genel/2018/03/13/Bitcoin-ne-tam-olarak.html)
   - [Bitcoin para mı gerçekten?](https://ademimerkezi.com/genel/2018/03/22/Bitcoin-para-mi-gercekten.html)
