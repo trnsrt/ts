@@ -1,4 +1,9 @@
-
+---
+layout: post
+title:  "Bitcoin gibi ama değil: Liquid"
+date:   2018-12-26 12:25:38 +0300
+categories: Genel
+---
 
 Geçtiğimiz yazıda Bitcoin'in geniş kitlelere yayılması için üzerinde çalışılan yeniliklerden Lightning Network'den bahsetmiştik. Bu hafta ise bir başka potansiyel yenilik olan Liquid Network'e bakalım birlikte.. 
 
@@ -19,7 +24,9 @@ Liquid Network, Bitcoin'den farklı olarak özel bir Blockhain (permissionless).
 
 Kullanıcılar ise L-BTC ile istedikleri gibi işlem yapabiliyor ama L-BTC'lerini satmak için yine bu borsaları kullanmak zorundalar. Kullanıcı olarak bir borsaya girip L-BTC aldığınızda, bu spesifik bir BTC'ye bağlanıyor ve satmaya kalktığınızda o spesifik BTC üzerinden işlem yapılıyor. Böylece olası sahtekarlıklar önlenmiş oluyor. 
 
-#### Nedir sağladığı avantajlar Liquid'in?
+
+### Nedir sağladığı avantajlar Liquid'in?
+
 Kullanıcılar için Liquid'in sağladığı en büyük avantaj SabitParalar ile benzer aslında. 
 
 Kriptoparanızı (buradaki örnekte BTC'nizi) bir borsada tutmak riskli. Neden? Her ne kadar KriptoBorsa'lar her tür güvenlik önlemini alsalar da merkezi yapılar - dış tehdit ve saldırılara açıklar*. O nedenle özellikle büyük miktarda parayı kurumsal yatırımcılar borsalarda tutmak istemiyorlar.  
@@ -27,6 +34,7 @@ Kriptoparanızı (buradaki örnekte BTC'nizi) bir borsada tutmak riskli. Neden? 
 Paranızı borsada tutmadığınız durumda ise işlem yapmak istediğinizde çok vaktinizi alıyor. Cüzdanınızdan parayı borsaya göndermek Bitcoin üzerinde en kısasından 10 dakika ama borsanın bunu tam olarak alıp (teyid edip) size işlem yaptırmasına baktığınızda çok daha uzun zaman alıyor. Özellikle çok işlem yapan biri iseniz bu kimi fırsatları kaçırmanıza yol açabilir. 
 
 İşte Liquid bu iki soruna çözüm getiriyor. Paranızı L-BTC'de tuttuğunuzda, borsaya 1 dakika içinde gönderebilir ve hemen alım satım yapabilirsiniz. Daha sonrasında L-BTC'inizi isterseniz kendi cüzdanınıza çekersiniz, ya da BTC'ye çevirirsiniz (1'e 1 aynı oranda). 
+
 
 ### Var mı sakıncaları?
 
@@ -36,6 +44,7 @@ Bitcoin'in bağımsız yapısını ön plana çıkaranlar Liquid Network gibi ya
 
 İkinci bir eleştiri ise, Blockstream'e yapılıyor. Kar güden bir kurum olan Blockstream, kendi kaynaklarını kullanarak bugün için Bitcoin'in geliştiren hatırı sayılır sayıda yazılımcıya iş olanağı sağlıyor. Eleştirenler, bu kişilerin ileride Bitcoin'i geliştirirken de Blockstream'ın istediği alanlara yönelecekleri ve tarafsızlıklarını kaybedebileceklerinden endişe duyuyorlar. Şahsen çok katılmadığım bir kaygı. Zira Bitcoin geliştiricisi olmak için herhangi bir sertifika ya da izin gerekmiyor. İsteyen yazılımcı Bitcoin'i geliştirmek için katkıda bulunabilir. Blockstream'in bu yazılımcılara iş veriyor olması, başka yazılımcıları da Bitcoin üzerinde çalıştırmaya sevk edebilir, ki bu gayet Bitcoin'in yararına bir durum. 
 
+
 ### Sonuç
 
 Her ne kadar yukarıdaki eleştirileri yazsak da, özünde Liquid kullanıcılara fayda sağlayan bir yapı. Riskler de katlanılabilir görünüyor. Bitcoin'in kullanan kişilerinin her birinin ondan beklentisi farklı. Kimi hızlı işlem yapmak isterken, kimi gizlilik kimi de baskılara karşı koyabilme özelliğini nedeniyle Bitcoin kullanıyor. Liquid hızlı işlem yapmak ve bu işlemler için yüksek komisyon vermek istemeyenlere uygun bir yapı. Bitcoin'in kurumsal yatırımcılar tarafından daha sık kullanılmasını sağlayacağı bunun sonucu da piyasadaki likiditeyi artırıcı bir faydası olacağı düşünülüyor. Yani özünde aynı Lightning Network gibi Bitcoin'in gelecekte geniş kitlelerce adaptasyonuna yardımcı olmaya çalışan bir araç. Başarılı olacaklar mı yakından takip edeceğiz... 
@@ -44,3 +53,7 @@ Her ne kadar yukarıdaki eleştirileri yazsak da, özünde Liquid kullanıcılar
 ---
 
 * Hep dediğimiz gibi Fiat paranızı bankada tuttuğunuzda banka riski alıyorsunuz. Kimseye güvenmeyecek kadar paranoyak iseniz alıp yastığınızın altına koyabilirsiniz ama orada da evinize hırsız girebilir. Bitcoin Kriptocüzdanlar sayesinde kendinizde tutabileceğiniz ve gerçekten sahip olduğunuzu kanıtlayabileceğiniz tek sanal para belki de. Kendi özel anahtarınızı bir kağıda yazdıktan sonra (kağıdı kaybetmemek şartıyla) sizden kimse alamaz ve bu kağıt ile birlikte parayı istediğiniz her yere götürebilirsiniz (isterseniz kağıda bile yazmayın ve hafınıza güveniyorsanız bu karmaşık şifreyi ezberleyin, size kalmış).
+
+&nbsp;
+
+*Not: Yazdığımız 40+ yazının bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](http://ademimerkezi.com/about/) sayfasına göz atabilirsiniz.* 
