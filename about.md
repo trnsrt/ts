@@ -56,8 +56,8 @@ Dağıtık (merkezi olmayan, adem-i merkezi) her tür teknoloji ve finans dünya
   - Blockchain mekanizmasında nasıl kullanıldığını anlamak için [Peki Blockchain şifrelemesi nasıl çalışıyor?](https://ademimerkezi.com/genel/2018/05/08/Peki-Blockchain-sifrelemesi-nasil-calisiyor.html) 
 - Yeni teknolojilerin dağıtık yapılarında biribirinden bağımsız makinelerin nasıl ortak hareket ettiğini merak ediyorsanız
   - [Bizans Generallerinin Problemi: Uzlaşma](https://ademimerkezi.com/genel/2018/08/31/bizans-generalinin-problemi-uzla%C5%9Fmak.html)
-  - "[Blockchain nasıl uzlaşır?](https://ademimerkezi.com/genel/2018/09/07/Peki-blockchain-nasil-uzlasir.html)"
-  - "[Bitcoin ve Proof-of-Work](https://ademimerkezi.com/genel/2018/11/01/Bitcoin-uzlasmasi-proof-of-work.html)"
-  - "[Proof-of-Work'ün rakipleri kimler?](https://ademimerkezi.com/genel/2018/11/01/Proof-of-Workun-rakipleri-kimler.html)" 
+  - [Blockchain nasıl uzlaşır?](https://ademimerkezi.com/genel/2018/09/07/Peki-blockchain-nasil-uzlasir.html)
+  - [Bitcoin ve Proof-of-Work](https://ademimerkezi.com/genel/2018/11/01/Bitcoin-uzlasmasi-proof-of-work.html)
+  - [Proof-of-Work'ün rakipleri kimler?](https://ademimerkezi.com/genel/2018/11/01/Proof-of-Workun-rakipleri-kimler.html)
 
 yazılarımıza göz atabilirsiniz.. 
