@@ -10,11 +10,11 @@ Dağıtık (merkezi olmayan, adem-i merkezi) her tür teknoloji ve finans dünya
   - "[Geceleri uykunuzu ne kaçırıyor](https://ademimerkezi.com/genel/2018/03/01/Geceleri-uykunuzu-ne-kaciriyor.html)"  
   - "[Sahi nedir bu Blockchain Allah aşkına?](https://ademimerkezi.com/genel/2018/03/02/Sahi-nedir-bu-blockchain-allah-askina.html) 
 - Blockchain'in değişik alanlarda getirdiği potansiyel yenilikler için
-  - **İnsanı yardımda** "[İyilik için Blockchain](https://ademimerkezi.com/genel/2018/03/29/Iyilik-icin-blockchain.html)", 
-  - **Sanatta** "[Sanat için Blockchain](https://ademimerkezi.com/genel/2018/03/29/Iyilik-icin-blockchain.html)", 
-  - **Sağlıkta** "[Sağlık için Blockchain](https://ademimerkezi.com/genel/2018/04/17/saglik-icin-blockchain.html)", 
-  - **Ulaşımda** "[Seyahat için Blockchain](https://ademimerkezi.com/genel/2018/07/06/seyahat-icin-blockchain.html)", 
-  - **Çevrede** "[Çevre için Blockchain](https://ademimerkezi.com/genel/2018/11/16/cevre-icin-blockhain.html)", ve [devamı](https://ademimerkezi.com/genel/2018/11/17/cevre-icin-blockchaine-devam.html) 
+  - İnsanı yardımda** "[İyilik için Blockchain](https://ademimerkezi.com/genel/2018/03/29/Iyilik-icin-blockchain.html)", 
+  - Sanatta** "[Sanat için Blockchain](https://ademimerkezi.com/genel/2018/03/29/Iyilik-icin-blockchain.html)", 
+  - Sağlıkta** "[Sağlık için Blockchain](https://ademimerkezi.com/genel/2018/04/17/saglik-icin-blockchain.html)", 
+  - Ulaşımda** "[Seyahat için Blockchain](https://ademimerkezi.com/genel/2018/07/06/seyahat-icin-blockchain.html)", 
+  - Çevrede** "[Çevre için Blockchain](https://ademimerkezi.com/genel/2018/11/16/cevre-icin-blockhain.html)", ve [devamı](https://ademimerkezi.com/genel/2018/11/17/cevre-icin-blockchaine-devam.html) 
   - **Tahmin piyasalarında** "[Geleceği tahmin için Blockchain](https://ademimerkezi.com/genel/2018/07/13/gelecegi-tahmin-icin-blockchain.html)", 
   - **Tedarik zincirlerinde** "[Tedarik zinciri için Blockchain](https://ademimerkezi.com/genel/2018/08/17/tedarik-zinciri-icin-blockchain.html)"
 - Blockchain bazlı teknolojilerin **girişimcilik ve yatırımcılık** ekosistemlerini nasıl değiştirdiğini merak ediyorsanız
