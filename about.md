@@ -23,6 +23,9 @@ Dağıtık (merkezi olmayan, adem-i merkezi) her tür teknoloji ve finans dünya
   - Blockchain konusuna madalyonun öbür yüzünü de gözden kaçırmamak için 
   - [Blockchain her derde deva mı?](https://ademimerkezi.com/genel/2018/08/03/blockchain-her-derde-deva-mi.html)
   - [Blockchain bulunduğum sektöre yarar mı?](https://ademimerkezi.com/genel/2018/08/10/Blockchain-bulundugum-sektore-yarar-mi.html)
+  
+&nbsp;
+
 - Bu teknolojinin şu anda en olgun şekilde kullanılan uygulamalarından Bitcoin'e ilginiz varsa
   - [Bitcoin ne tam olarak?](https//ademimerkezi.com/genel/2018/03/13/Bitcoin-ne-tam-olarak.html)
   - [Bitcoin para mı gerçekten?](https://ademimerkezi.com/genel/2018/03/22/Bitcoin-para-mi-gercekten.html)
@@ -34,9 +37,13 @@ Dağıtık (merkezi olmayan, adem-i merkezi) her tür teknoloji ve finans dünya
 - Bitcoin üzerine inşa edilen yeni teknolojilere ilginiz varsa 
   - [Bitcoin üzerinden ışık hızıyla işlem: Lightning Network](https://ademimerkezi.com/genel/2018/12/20/bitcoin-uzerinde-isik-hiziyla-islem-Lightning-network.html)
   - [Bitcoin gibi ama değil: Liquid](https://ademimerkezi.com/genel/2018/12/26/Bitcoin-gibi-ama-degil-Liquid.html)
+  
+  &nbsp;
 - Daha pekçok yeni teknolojiye altyapı sağlayan Ethereum'u merak ediyorsanız
   - Ethereum'um tarihi için [Dünyanın en büyük bilgisayarı: Ethereum'un hikayesi](https://ademimerkezi.com/genel/2018/06/14/dunyanin-en-buyuk-bilgisayari-ethereumun-hikayesi.html)
   - En temel taşı olan Akıllı Kontratlar'ı anlamak için [Bu kontratlar çok akıllı: Ethereum ve Akıllı Kontratlar](https://ademimerkezi.com/genel/2018/06/29/bu-kontratlar-cok-akilli-ethereum-ve-akilli-kontratlar.html)
+
+&nbsp;
 - Yeni çıkan Token ve ICO piyasalarını daha yakından tanımak için 
   - [Yeni dünyada girişimciler için aranan kan bulundu mu? ICO ve Token Dünyası](https://ademimerkezi.com/genel/2018/05/25/ico-ve-token-dunyasi.html)
   - Bu piyasaların en ağır oyuncusu Bitcoin için [Token dünyasının ilk oyuncusu tanıdık bir isim: Bitcoin](https://ademimerkezi.com/genel/2018/06/01/token-dunyasinin-ilk-oyuncusu-tanidik-bir-isim-bitcoin.html)
@@ -50,6 +57,8 @@ Dağıtık (merkezi olmayan, adem-i merkezi) her tür teknoloji ve finans dünya
 - KriptoParalar’ın inişli-çıkışlı yapısı sizi tedirgin ediyorsa, SabitPara kavramını anlamak için 
   - [Orası çok dalgalı, sakin sulara gel: SabitParalar](https://ademimerkezi.com/genel/2018/07/20/Orasi-cok-dalgali-sakin-sulara-gel-sabitparalar.html)
   - [SabitParalar’a devam — diğerleri](https://ademimerkezi.com/genel/2018/07/27/sabitparalara-devam-digerleri.html)
+
+&nbsp;
 - Yeni teknolojileri ayakta tutan en önemli yeniliklerden Şifreleme ile ilgili
   - [Şifreleme ne demek? Neden önemli?](https://ademimerkezi.com/genel/2018/04/25/sifreleme-ne-demek-neden-onemli.html)
   - Temel taşları Öğütme (hashing) Özel Anahtar, Genel Anahtar, Şifreleme (Encryption)‘ye daha detaylı bakmak için [Şifreleme mi? Çok karışık değil mi?](https://ademimerkezi.com/genel/2018/04/26/sifreleme-mi-cok-karisik-degil-mi.html)
