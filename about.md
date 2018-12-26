@@ -4,7 +4,9 @@ title: Hakkımızda
 permalink: /about/
 ---
 
-Dağıtık (merkezi olmayan, adem-i merkezi) her tür teknoloji ve finans dünyasına etkileri üzerine karalamalar. Şu ana kadar yayınladığımız 40+ yazıda nelerden bahsettiğimizi özetleyecek olursak (her bir link ayrı bir yazı, ilginiz çeken konuya ulaşmak için hemen linke tıklayabilirsiniz): 
+Dağıtık (merkezi olmayan, adem-i merkezi) her tür teknoloji ve finans dünyasına etkileri üzerine karalamalar. Şu ana kadar yayınladığımız 40+ yazıda nelerden bahsettiğimizi özetleyecek olursak (her bir link ayrı bir yazı, ilginiz çeken konuya ulaşmak için linke tıklayabilirsiniz): 
+
+&nbsp;
 
 - Blockchain teknolojisinin nasıl çıktığını merak ediyorsanız 
   - [Geceleri uykunuzu ne kaçırıyor](https://ademimerkezi.com/genel/2018/03/01/Geceleri-uykunuzu-ne-kaciriyor.html)
