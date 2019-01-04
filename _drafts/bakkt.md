@@ -1,4 +1,4 @@
-Bitcoin'in geniş kitleler tarafından kullanılmasına yardımcı olmaya çalışan iki yenilik [Lightning Network](https://ademimerkezi.com/genel/2018/12/20/bitcoin-uzerinde-isik-hiziyla-islem-Lightning-network.html) ve [Liquid](https://ademimerkezi.com/genel/2018/12/20/bitcoin-uzerinde-isik-hiziyla-islem-Lightning-network.html)'e geçtiğimiz iki yazıda baktık. Şimdi da Ağustos ayında açıklanan ve gecikmeler nedeniyle 2019'un ilk yarısında faaliyete geçmesi planlanan Bakkt nedir ona bakalım. 
+Bitcoin'in geniş kitleler tarafından kullanılmasına yardımcı olmaya çalışan iki yenilik [Lightning Network](https://ademimerkezi.com/genel/2018/12/20/bitcoin-uzerinde-isik-hiziyla-islem-Lightning-network.html) ve [Liquid](https://ademimerkezi.com/genel/2018/12/20/bitcoin-uzerinde-isik-hiziyla-islem-Lightning-network.html)'e geçtiğimiz iki yazıda değinmiştik. Şimdi de Ağustos ayında açıklanan ve gecikmeler nedeniyle 2019'un ilk yarısında faaliyete geçmesi planlanan Bakkt nedir ona bakalım. 
 
 ### Bakkt'ın en ilginç tarafı sahibi
 
@@ -6,11 +6,11 @@ Bakkt'ın en ilginç tarafı sahibi: New York Stock Exchange (NYSE)'in sahibi ol
 
 ![bull-vs-bitcoin-400.png](/assets/bull-vs-bitcoin-400.png)
 
-Ana nedeni henüz KriptoParalar ile ilgili kanuni otoritelerin tavır almamış olması ile ilgili. Bir diğer neden de KriptoParalar'a yatırım yapacak teknik altyapının henüz olmaması (ya da hazır olmaması). Zira Özel Anahtarlar ile sahipliğin değiştiği KriptoParalar Wall Street'de yatırım yapan fonlar için risk barındırıyor ve bu riskleri yok edecek araçlar henüz ortaya çıkmadı. 
+Ana nedeni henüz KriptoParalar ile ilgili kanuni otoritelerin tavır almamış olması ile ilgili. Bir diğer neden de KriptoParalar'a yatırım yapacak teknik altyapının olmaması (ya da henüz hazır hale gelmemesi). Zira Özel Anahtarlar ile sahipliğin değiştiği KriptoParalar Wall Street'de yatırım yapan fonlar için risk barındırıyor ve bu riskleri yok edecek araçlar henüz ortaya çıkmadı. 
 
 Ama daha önemli bir nedeni Wall Street'in aslında güven hizmeti veren bir aracı olması. Ve ne diyoruz hep? Blockchain bazlı teknolojiler güven ihtiyacını kurumlardan alıp makinelere vererek aracıları ortadan kaldırmayı planlıyorlar. 
 
-Dolayısıyla, Wall Street kendisi için temelden tehdit unsuru olabilecek bu gelişmeye hep defansif bir şekilde yaklaştı şimdiye kadar. Ancak ICE'in Bakkt ile bu işe adım atması, artık kardan olma ve geride kalma baskısının bu tehlikeye nazaran daha ağır bastığı anlamına geliyor. Tabii, Bakkt'ın bir startup olduğunu unutmamak şartıyla. Yani ICE havuza balıklama atlamak yerine, şimdilik ayağını suya değdirerek bir nevi ortamı daha iyi anlamaya çalışıyor. (Bu arada 2019'un ilk günlerinde Bakkt'ın Boston Consulting Group, Galaxy Digital, Goldfinch Partners, ICE, Pantera Capital, Protocol Ventures and Microsof'tan 182.5 Milyon ABD Doları yatırım aldığını da [belirtelim](https://www.cryptocurrencyguide.org/ices-crypto-exchange-startup-bakkt-raises-182-mln/))  
+Dolayısıyla, Wall Street kendisi için temelden tehdit unsuru olabilecek bu gelişmeye hep defansif bir şekilde yaklaştı. Ancak ICE'in Bakkt ile bu işe adım atması, artık kardan olma ve geride kalma baskısının bu tehlikeye nazaran daha ağır bastığının bir kanıtı. Tabii, Bakkt'ın bir startup olduğunu unutmamak şartıyla (Bakkt 2019'un ilk günlerinde Boston Consulting Group, Galaxy Digital, Goldfinch Partners, ICE, Pantera Capital, Protocol Ventures and Microsof'tan 182.5 Milyon ABD Doları yatırım aldığını da [belirtelim](https://www.cryptocurrencyguide.org/ices-crypto-exchange-startup-bakkt-raises-182-mln/)). Yani ICE havuza balıklama atlamak yerine, şimdilik ayağını suya değdirerek bir nevi ortamı daha iyi anlamaya çalışıyor.
 
 ### Peki Bakkt tam olarak ne yapmaya çalışıyor?
 
