@@ -4,6 +4,8 @@ Bitcoin'in geniş kitleler tarafından kullanılmasına yardımcı olmaya çalı
 
 Bakkt'ın en ilginç tarafı sahibi: New York Stock Exchange (NYSE)'in sahibi olan Intercontinental Exchange (ICE). Neden ilginç? Çünkü finans dünyasının kalbinin attığı Wall Street perde arkasında KriptoParalar'a ilgi gösterip yatırım yapsa da, genel olarak  bu yeniliklere hep şüpheci yaklaştı. Bu yaklaşımın pek çok nedeni var. 
 
+![bull-vs-bitcoin.png](/assets/bull-vs-bitcoin.png)
+
 Ana nedeni henüz KriptoParalar ile ilgili kanuni otoritelerin tavır almamış olması ile ilgili. Bir diğer neden de KriptoParalar'a yatırım yapacak teknik altyapının henüz olmaması (ya da hazır olmaması). Zira Özel Anahtarlar ile sahipliğin değiştiği KriptoParalar Wall Street'de yatırım yapan fonlar için risk barındırıyor ve bu riskleri yok edecek araçlar henüz ortaya çıkmadı. 
 
 Ama daha önemli bir nedeni Wall Street'in aslında güven hizmeti veren bir aracı olması. Ve ne diyoruz hep? Blockchain bazlı teknolojiler güven ihtiyacını kurumlardan alıp makinelere vererek aracıları ortadan kaldırmayı planlıyorlar. 
