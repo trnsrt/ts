@@ -2,6 +2,8 @@
 
 Bundan önceki bir [yazımızda](https://ademimerkezi.com/genel/2018/05/17/degisen-girisimcilik-ve-yatirimcilik.html) yeni teknolojiler ile değişen girişimcilik ve yatırımcılıktan bahsetmiştik. 
 
+### Yatırımcılık artık değişiyor. 
+
 Kısaca özetlersek, değişen teknolojiler ile birlikte bir şirketin yarattığı katma değerin artık sadece şirket kurucuları ve yatırımcıları tarafından değil diğer başka aktörler tarafından da paylaşıldığından bahsetmiştik. Bunun temel nedeninin artık yeni teknolojiler ile bir şirket yaratmanın ötesinde bir ekosistem (bir ağ) yaratılması idi. Ve bu ekosistemde diğer aktörler de sistemin sağlıklı bir şekilde sürmesi ve büyümesi için artık yaratılan katmadeğerden pay istiyorlar. Kim bu aktörler? Örneğin madenciler. 
 
 Herkese açık bir Blockchain sisteminin, dağıtık (birbirinden bağımsız) makineler tarafından yürütülmesini istiyorsanız bu makinelere harcadıkları efor ve enerji karşılığında bir değer vermelisiniz. 
@@ -22,7 +24,7 @@ Bir risk sermayesi şirketi girişime sadece para vermez. Bunun dışında pazar
 
 Burada aslında girişim sermayesi gibi bu alana yatırım yapan yatırımcıların yanında Kripto Fonları da bu kapsamda düşünebiliriz. Zira, özellikle açık (public) Blockhchain yapılarında (Bitcoin gibi) kimi zaman yatırım yapılacak bir girişimci grubu yok ve fonlar ekosistemin içinde dolaşan KriptoParalar'a da yatırım yapıyorlar. Bu KriptoFonlar içinde de sadece KriptoPara alıp satmak dışında uzun vadeli olarak yatırım yapanları için de oyunun kuralları klaşık fonlara göre değişiyor. 
 
-### Girişim Sermayesi başka neler yapabilir? Örneğin Madencilik!
+### Girişim Sermayesi başka neler yapabilir? Madencilik 2.0'a hoş geldiniz!
 
 Peki neler yapabilir Girişim Sermayeleri bu alanda? 
 
@@ -46,8 +48,8 @@ Yeni teknolojiler, klasik anlamda iş yapış biçimlerini ciddi şekilde deği�
 
 Siz bakmayın öyle "ICO piyasaları kurudu, KriptoParalar'ın geleceği yok" gibi söylentilere. Hep söylediğimiz gibi yeni teknolojilerin sunduğu vizyonların bir çoğu ulaşılabilir. Ancak bu vizyonlara ulaşmak için gerekli altyapılar henüz yok, ancak bu alanda çalışmalar tüm hızıyla sürüyor. Aslında KriptoParalar'ın fiyatlarının düşmesi konuya uzun vadeli yaklaşanlar için rahatlatıcı bile oldu. Zira sürekli yükselen fiyatlar, değer yaratmaktan ziyade spekülasyon yapan yatırımcıların piyasayı doldurmasına, yazılımcıların da akıllarının sürekli yükselen fiyatlarda olmasına neden oluyordu. Artık bu spekülatörler piyasadan çekildi (gerçi fiyatlar bir yükselmeye başlasın, ilk onlar geri gelecekler). Siz siz olun, konuya uzun vadeli değer yaratma perspektifinden bakın. Pekçok kurumsal yatırımcı ve girişim sermayesi bu şekilde bakmaya devam ediyor. Bu yatırımcılar bahsedilen vizyonların gerçekleşmesi için gereken altyapı ve yazılım çalışmaları devam ederken sistemin devamını sağlamak için madencilik dahil her yolu deniyorlar. Rahmetli Çetin Altan'ın dediği gibi "Enseyi karartmayın". 
 
+Not: Konu ile ilgili daha detaylı bilgi için Medium'daki "[Blockchain mining 2.0](https://medium.com/notation-capital/notation-blockchain-mining-2-0-dcf46a28f7eb) ve TokenDaily'nin ["Premier on mining 2.0"](https://www.tokendaily.co/blog/a-primer-on-mining-2-0) yazısına göz atabilirsiniz.  
 
-https://medium.com/notation-capital/notation-blockchain-mining-2-0-dcf46a28f7eb
 
-https://www.tokendaily.co/blog/a-primer-on-mining-2-0
+
 
