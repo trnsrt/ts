@@ -33,7 +33,7 @@ Aslında girişim sermayesi gibi bu alana yatırım yapan Kripto Fonları aynı 
 ### Girişim Sermayesi başka neler yapabilir? Madencilik 2.0'a hoş geldiniz!
 
 
-![office-worker-mining.png](/assets/office-worker-mining.png)
+![office-worker-mining-2.png](/assets/office-worker-mining-2.png)
 
 Peki neler yapabilir Girişim Sermayeleri bu alanda? 
 
