@@ -18,6 +18,18 @@ Yine de ICO pazarının kuruması klasik anlamdaki risk sermayelerinin eskisi gi
 
 Bir risk sermayesi şirketi girişime sadece para vermez. Bunun dışında pazar bilgisi ile girişimin yönünü etkiler. Ya da organizasyonel tecrübesi ile şirketin büyümesi sırasında kontrolü kaybetmemesi için ne tip insan kaynağı ya da organizasyon yapısına gitmesi konusunda girişimciye yardımcı olur. Artık yeni teknolojiler ile risk sermayesi şirketi sadece girişime ortak olmuyor, aynı zamanda ekosisteme ortak oluyor. İşte bu nedenle eskiden şirketi etkilemek ve yönlendirmek için kullandığı çabayı artık ekosistemi etkilemede göstermeli. 
 
+Peki neler yapabilir Girişim Sermayeleri bu alanda? 
+
+Birincisi, madencilik işine girebilirler!. Şaşırtıcı değil mi? Yapabilirler mi? Neden yapamasınlar ki? Eğer açık (public) bir Blockchain sisteminden bahsediyorsak, isteyen herkes madenci olabilir. Girişim Sermayesi şirketi de kendisi madencilik yapabilir ya da spesifik girişiminin yarattığı ekosistemde madencilik yapan bir şirkete yatırım yapabilir. 
+
+Peki neden yapsın böyle bir yatırımı? Birkaç nedeni var. 
+
+Öncelikle, madenciler adı üzerinde sistemi yürüten ve aynı zamanda çeşitli protokoller ile ([PoW gibi](https://ademimerkezi.com/genel/2018/11/01/Bitcoin-uzlasmasi-proof-of-work.html)) sistemin güvenliğini sağlayan aktörler. Eğer girişim sermayesi için ekosistem içinde bir değer yaratılacak ise bu değerin sürekli bir şekilde yaşaması ve dış tehditler ile tehlikeye uğramaması gerekiyor. 
+
+Bir başka neden de, madenciler ekosistemin gidişatı konusunda sınırlı da olsa söz hakkına sahipler. Özellikle, yaratılan sistemlerin açık kaynaklı olması nedeniyle çok sık rastlanmasa da kimi durumlarda sistemler klonlanarak (hard fork) farklı adlar altında farklı yollara gidebiliyorlar. Bu tip hard fork durumlarında ekosistem aktörlerinin hangi grupta yer alacaklarına karar vermeleri gerekiyor, ve genellikle bu aktörler çoğunluğa uyuyor. Girişim sermayesi de madenciler içinde pay alarak çoğunluğu etkilemek ve strateji belirlemek konusunda kendilerine avantaj yaratıyor. 
+
+Ama daha da önemlisi, madenciler bu yaptıkları çalışma karşılığında bir değer alıyorlar (token). Girişim Sermayesi de benzer şekilde madencilik yaparak token kazanabilir. Kimi durumlarda bu ekosisteme yaptığı yatırımdan elde ettiği getirinin çok daha fazlasını madencilik faaliyetinden kazanabilir durumdalar. 
+
 Öncelikle risk sermayesi şirketlerinin artık çok daha teknik olarak deneyim sahibi olmaları gerekiyor. 
 
 
