@@ -12,15 +12,23 @@ Eskiden girişimlere klasik şekilde erken yatırım yapan kurumlar (VC'ler, gir
 
 Şimdi yeni teknolojiler ile klasik anlamda girişim sermayeleri de bu tutumlarını değiştirmek durumunda. Çünkü pastadan pay almak isteyenler çoğaldı. 
 
+### Konu ICO'lar mı? Hayır. 
+
 O [yazımızda](https://ademimerkezi.com/genel/2018/05/17/degisen-girisimcilik-ve-yatirimcilik.html) girişimler için girişim sermayelerine alternatif olarak ICO piyasalarından bahsetmiştik. 2018 yılı içinde girişimlere girişim sermayesine alternatif olacak şekilde ciddi miktarda finansman sağlayan ICO piyasaları yılın sonuna doğru tabiri caiz ise kurudu. Bunun pek çok nedeni var, özellikle para arayan pek çok girişimin aslında bu yaratılan heyecanı kullanan hayal tacileri ya da dolandırıcılar oldukları ortaya çıktı. Ama benzer durum internet girişimlerinin ilk çıktığı 90'larda da yaşanmıştı. Dolayısıyla ICO pazarı kurudu ancak yeni mekanizmalar ile ileride pazar tekrar canlanacak muhtemelen. 
 
 Yine de ICO pazarının kuruması klasik anlamdaki risk sermayelerinin eskisi gibi iş yapabileceği anlamına gelmiyor. Çünkü oyun değişti. Ne gibi? Bahsedelim. 
 
 Bir risk sermayesi şirketi girişime sadece para vermez. Bunun dışında pazar bilgisi ile girişimin yönünü etkiler. Ya da organizasyonel tecrübesi ile şirketin büyümesi sırasında kontrolü kaybetmemesi için ne tip insan kaynağı ya da organizasyon yapısına gitmesi konusunda girişimciye yardımcı olur. Artık yeni teknolojiler ile risk sermayesi şirketi sadece girişime ortak olmuyor, aynı zamanda ekosisteme ortak oluyor. İşte bu nedenle eskiden şirketi etkilemek ve yönlendirmek için kullandığı çabayı artık ekosistemi etkilemede göstermeli. 
 
+Burada aslında girişim sermayesi gibi bu alana yatırım yapan yatırımcıların yanında Kripto Fonları da bu kapsamda düşünebiliriz. Zira, özellikle açık (public) Blockhchain yapılarında (Bitcoin gibi) kimi zaman yatırım yapılacak bir girişimci grubu yok ve fonlar ekosistemin içinde dolaşan KriptoParalar'a da yatırım yapıyorlar. Bu KriptoFonlar içinde de sadece KriptoPara alıp satmak dışında uzun vadeli olarak yatırım yapanları için de oyunun kuralları klaşık fonlara göre değişiyor. 
+
+### Girişim Sermayesi başka neler yapabilir? Örneğin Madencilik!
+
 Peki neler yapabilir Girişim Sermayeleri bu alanda? 
 
-Birincisi, madencilik işine girebilirler!. Şaşırtıcı değil mi? Yapabilirler mi? Neden yapamasınlar ki? Eğer açık (public) bir Blockchain sisteminden bahsediyorsak, isteyen herkes madenci olabilir. Girişim Sermayesi şirketi de kendisi madencilik yapabilir ya da spesifik girişiminin yarattığı ekosistemde madencilik yapan bir şirkete yatırım yapabilir. 
+En önemlisi madencilik işine girebilirler!. Şaşırtıcı değil mi? Yapabilirler mi? Neden yapamasınlar ki? Eğer açık (public) bir Blockchain sisteminden bahsediyorsak, isteyen herkes madenci olabilir. Girişim Sermayesi şirketi de kendisi madencilik yapabilir ya da spesifik girişiminin yarattığı ekosistemde madencilik yapan bir şirkete yatırım yapabilir. 
+
+### Girişim Sermayesi neden madencilik yapsın?
 
 Peki neden yapsın böyle bir yatırımı? Birkaç nedeni var. 
 
@@ -30,7 +38,13 @@ Bir başka neden de, madenciler ekosistemin gidişatı konusunda sınırlı da o
 
 Ama daha da önemlisi, madenciler bu yaptıkları çalışma karşılığında bir değer alıyorlar (token). Girişim Sermayesi de benzer şekilde madencilik yaparak token kazanabilir. Kimi durumlarda bu ekosisteme yaptığı yatırımdan elde ettiği getirinin çok daha fazlasını madencilik faaliyetinden kazanabilir durumdalar. 
 
-Öncelikle risk sermayesi şirketlerinin artık çok daha teknik olarak deneyim sahibi olmaları gerekiyor. 
+### Girişim Sermayeleri artık teknik açıdan da gelişmek zorunda
+
+Yeni teknolojiler, klasik anlamda iş yapış biçimlerini ciddi şekilde değiştirmenin yanında ağır bir teknik bilgi birikimi gerektiriyolar. Örneğin yukarıda bahsettiğimiz madencilik işi öyle basitce anlaşılacak gibi değil. Daha doğrusu işi layıkı ile yapmak istediğinizde ciddi olarak teknik donanıma ihtiyacınız var. Kullanacağınız makinalar için ciddi bir yatırım yapacaksınız, sonra enerji harcayacaksınız, bunun en optimal nerede olması gerekir? Her Blockchain kendi özelinde farklılık gösteriyor, madencilik olarak da öyle. Gerekli altyapı farklı, enerji ihtiyaçları farklı.  Bu nedenle bu alana yatırım yapan ve akıllı davranan Girişim Sermayeleri ekiplerini artık teknik donanıma sahip (kimi yazılım kökenli) üyeler ile güçlendiriyorlar. 
+
+### Sonuç
+
+Siz bakmayın öyle "ICO piyasaları kurudu, KriptoParalar'ın geleceği yok" gibi söylentilere. Hep söylediğimiz gibi yeni teknolojilerin sunduğu vizyonların bir çoğu ulaşılabilir. Ancak bu vizyonlara ulaşmak için gerekli altyapılar henüz yok, ancak bu alanda çalışmalar tüm hızıyla sürüyor. Aslında KriptoParalar'ın fiyatlarının düşmesi konuya uzun vadeli yaklaşanlar için rahatlatıcı bile oldu. Zira sürekli yükselen fiyatlar, değer yaratmaktan ziyade spekülasyon yapan yatırımcıların piyasayı doldurmasına, yazılımcıların da akıllarının sürekli yükselen fiyatlarda olmasına neden oluyordu. Artık bu spekülatörler piyasadan çekildi (gerçi fiyatlar bir yükselmeye başlasın, ilk onlar geri gelecekler). Siz siz olun, konuya uzun vadeli değer yaratma perspektifinden bakın. Pekçok kurumsal yatırımcı ve girişim sermayesi bu şekilde bakmaya devam ediyor. Rahmetli Çetin Altan'ın dediği gibi "Enseyi karartmayın". 
 
 
 https://medium.com/notation-capital/notation-blockchain-mining-2-0-dcf46a28f7eb
