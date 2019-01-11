@@ -1,6 +1,6 @@
 
 
-Yeni teknolojilerin geniş kesimlerce adapte edilebilmesi için pekçok girişim var. Bunlardan [Lightning](https://ademimerkezi.com/genel/2018/12/20/bitcoin-uzerinde-isik-hiziyla-islem-Lightning-network.html), [Liquid](https://ademimerkezi.com/genel/2018/12/26/Bitcoin-gibi-ama-degil-Liquid.html) ve [Bakkt](https://ademimerkezi.com/genel/2019/01/04/kurumsal-yatirimci-bakkt-ile-kriptoparalara-girer-mi.html)'a geçmiş yazılarımızda değinmiştik. Şimdi bu trendlerden kurumsal yatırımcıların kafa yorduğu Generalized Mining (ya da Mining 2.0) kavramına bakalım birlikte. 
+Yeni teknolojilerin geniş kesimlerce adapte edilebilmesi için pekçok girişim var. Bunlardan [Lightning](https://ademimerkezi.com/genel/2018/12/20/bitcoin-uzerinde-isik-hiziyla-islem-Lightning-network.html), [Liquid](https://ademimerkezi.com/genel/2018/12/26/Bitcoin-gibi-ama-degil-Liquid.html) ve [Bakkt](https://ademimerkezi.com/genel/2019/01/04/kurumsal-yatirimci-bakkt-ile-kriptoparalara-girer-mi.html)'a geçmiş yazılarımızda değinmiştik. Şimdi bu trendlerden gelecekte daha da önem kazanacak olan bir tanesine, kurumsal yatırımcıların kafa yorduğu Generalized Mining (ya da Mining 2.0) kavramına bakalım birlikte. 
 
 ### Yatırımcılık artık değişiyor, değişmek zorunda
 
