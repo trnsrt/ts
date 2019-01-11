@@ -2,7 +2,7 @@
 
 Yeni teknolojilerin geniş kesimlerce adapte edilebilmesi için pekçok girişim var. Bunlardan [Lightning](https://ademimerkezi.com/genel/2018/12/20/bitcoin-uzerinde-isik-hiziyla-islem-Lightning-network.html), [Liquid](https://ademimerkezi.com/genel/2018/12/26/Bitcoin-gibi-ama-degil-Liquid.html) ve [Bakkt](https://ademimerkezi.com/genel/2019/01/04/kurumsal-yatirimci-bakkt-ile-kriptoparalara-girer-mi.html)'a geçmiş yazılarımızda değinmiştik. Şimdi bu trendlerden gelecekte daha da önem kazanacak olan bir tanesine, kurumsal yatırımcıların kafa yorduğu Generalized Mining (ya da Mining 2.0) kavramına bakalım birlikte. 
 
-### Yatırımcılık artık değişiyor, değişmek zorunda
+### Yatırımcılık değişiyor, değişmek zorunda
 
 Hatırlarsanız geçmiş bir [yazımızda](https://ademimerkezi.com/genel/2018/05/17/degisen-girisimcilik-ve-yatirimcilik.html) yeni teknolojiler ile değişen girişimcilik ve yatırımcılık tanımlarından bahsetmiştik.
 
@@ -38,12 +38,11 @@ Peki neler yapabilir Girişim Sermayeleri bu alanda?
 
 En önemlisi madencilik işine girebilirler!. Şaşırtıcı değil mi? Yapabilirler mi? Neden yapamasınlar ki? Eğer açık (public) bir Blockchain sisteminden bahsediyorsak, isteyen herkes madenci olabilir. Girişim Sermayesi şirketi de kendisi madencilik yapabilir ya da spesifik girişiminin yarattığı ekosistemde madencilik yapan bir şirkete yatırım yapabilir. 
 
-
 ![office-worker-mining-2.png](/assets/office-worker-mining-2.png)
 
 ### Girişim Sermayesi neden madencilik yapsın?
 
- neden yapsın böyle bir yatırımı? Birkaç nedeni var. 
+Birkaç nedeni var. 
 
 Öncelikle, madenciler adı üzerinde sistem içindeki işlemleri gerçekleştiren ve aynı zamanda çeşitli protokoller ile ([PoW gibi](https://ademimerkezi.com/genel/2018/11/01/Bitcoin-uzlasmasi-proof-of-work.html)) sistemin güvenliğini sağlayan aktörler. Eğer girişim sermayesi için uzun vadede bir değer yaratılacak ise bu değeri yaratack olan ekosistemin sürekli bir şekilde yaşaması ve dış tehditlerin tehlikesinden uzak kalması gerekiyor. 
 
