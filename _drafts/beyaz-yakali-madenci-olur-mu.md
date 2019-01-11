@@ -34,11 +34,12 @@ Ancak yeni teknolojiler ile girişim sermayesi artık sadece girişim ile değil
 
 ### Girişim Sermayesi başka neler yapabilir? Madencilik 2.0'a hoş geldiniz!
 
-![office-worker-mining-2.png](/assets/office-worker-mining-2.png)
-
 Peki neler yapabilir Girişim Sermayeleri bu alanda? 
 
 En önemlisi madencilik işine girebilirler!. Şaşırtıcı değil mi? Yapabilirler mi? Neden yapamasınlar ki? Eğer açık (public) bir Blockchain sisteminden bahsediyorsak, isteyen herkes madenci olabilir. Girişim Sermayesi şirketi de kendisi madencilik yapabilir ya da spesifik girişiminin yarattığı ekosistemde madencilik yapan bir şirkete yatırım yapabilir. 
+
+
+![office-worker-mining-2.png](/assets/office-worker-mining-2.png)
 
 ### Girişim Sermayesi neden madencilik yapsın?
 
