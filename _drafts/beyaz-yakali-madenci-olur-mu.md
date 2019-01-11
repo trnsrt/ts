@@ -18,7 +18,11 @@ Sonuçta eskiden girişimlere erken yatırım yapan kurumlar (VC'ler - girişim 
 
 ### Konu ICO'lar mı? Hayır
 
-O [yazımızda](https://ademimerkezi.com/genel/2018/05/17/degisen-girisimcilik-ve-yatirimcilik.html) girişimler için girişim sermayelerine alternatif olarak ortaya çıkan ICO piyasalarından bahsetmiştik. 2018 yılı içinde girişimlere ciddi miktarda finansman sağlayan ICO piyasaları yılın sonuna doğru tabiri caiz ise kurudu. Bunun pek çok nedeni var: girişim adı altında ortaya çıkanların çoğunun aslında bu yaratılan heyecanı kullanan hayal tacileri ya da dolandırıcılar oldukları ortaya çıktı. Ama benzer durum internet girişimlerinin ilk çıktığı 90'larda da yaşanmıştı, o zaman da çok para battı ancak girişimler yatırım almaya devam ettiler, başlangıçtaki heyecan sonrası gerçekten değer yaratan girişimlere özellikle uzun vadeli yatırım yapanlar çok ciddi getiriler elde ettiler. Dolayısıyla şu an ICO pazarı tıkanmış olabilir ancak yeni mekanizmalar ile ileride tekrar canlanması çok muhtemel. 
+O [yazımızda](https://ademimerkezi.com/genel/2018/05/17/degisen-girisimcilik-ve-yatirimcilik.html) girişimler için girişim sermayelerine alternatif olarak ortaya çıkan ICO piyasalarından bahsetmiştik. 2018 yılı içinde girişimlere ciddi miktarda finansman sağlayan ICO piyasaları yılın sonuna doğru tabiri caiz ise kurudu. 
+
+Bunun pek çok nedeni var: en önemlisi, girişim adı altında ortaya çıkanların çoğunun aslında bu yaratılan heyecanı kullanan hayal tacileri ya da dolandırıcılar oldukları ortaya çıktı. 
+
+Ama benzer durum internet girişimlerinin ilk çıktığı 90'larda da yaşanmıştı, o zaman da çok para battı ancak girişimler yatırım almaya devam ettiler. İlk yaşanan balon söndükten sonra özellikle gerçekten değer yaratan girişimlere uzun vadeli yatırım yapanlar çok ciddi getiriler elde ettiler. Dolayısıyla şu an ICO pazarı tıkanmış olabilir ancak yeni mekanizmalar ile ileride tekrar canlanması çok muhtemel. 
 
 Yine de ICO pazarının kuruması klasik anlamdaki risk sermayelerinin artık eskisi gibi at koşturabileceği anlamına gelmiyor. Çünkü oyun değişti. Ne gibi? Bahsedelim. 
 
