@@ -1,6 +1,6 @@
 
 
-Yeni teknolojilerin geniş kesimlerce adapte edilebilmesi için pekçok girişim var. Bunlardan Lightning, Liquid ve Bakkt'a geçmiş yazılarımızda değinmiştik. Şimdi bu piyasalara yatırım yapan girişim sermayeleri yatırımlarının karşılığını alabilmek için bu piyasaların gelişmesine nasıl katkı sağlayorlar. Bunlardan biri olan Generalized Mining (ya da Mining 2.0) kavramına bakalım birlikte. 
+Yeni teknolojilerin geniş kesimlerce adapte edilebilmesi için pekçok girişim var. Bunlardan Lightning, Liquid ve Bakkt'a geçmiş yazılarımızda değinmiştik. Şimdi bu trendlerden kurumsal yatırımcıların kafa yorduğu Generalized Mining (ya da Mining 2.0) kavramına bakalım birlikte. 
 
 ### Yatırımcılık artık değişiyor, değişmek zorunda
 
