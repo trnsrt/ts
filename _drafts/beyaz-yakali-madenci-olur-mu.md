@@ -14,10 +14,7 @@ Neden? Öncelikle bir Blockchain sisteminin, birbirinden bağımsız makineler t
 
 Keza benzer şekilde sistemin kullanıcıları da artık harcadıkları vakit karşılığı sadece sistemin sunduğu kolaylıklardan faydalanmak istemiyorlar Onlar da ortaya çıkan pastadan pay almak istiyorlar, ki sistemi kullanmaya devam etsinler ve büyümesine yardımcı olsunlar. 
 
-Sonuçta
-
-* eskiden girişimlere erken yatırım yapan kurumlar (VC'ler - girişim sermayeleri) koydukları para ve aldıkları riskin karşılığı olarak ciddi bir oranda şirket hissesi alarak ortaya çıkan değerin büyük bir kısmını uhdelerine alıyorlar idi. 
-* şimdi yeni teknolojiler ile klasik anlamda girişim sermayeleri de bu tutumlarını değiştirmek durumunda. Çünkü pastadan pay almak isteyenler çoğaldı.
+Sonuçta eskiden girişimlere erken yatırım yapan kurumlar (VC'ler - girişim sermayeleri) koydukları para ve aldıkları riskin karşılığı olarak ciddi bir oranda şirket hissesi alarak ortaya çıkan değerin büyük bir kısmını uhdelerine alıyorlar idi. Şimdi ise yeni teknolojiler ile pastadan pay alanlar çoğaldığı için girişim sermayeleri de iş yapma biçimlerini değiştirmek durumunda kalıyorlar.
 
 ### Konu ICO'lar mı? Hayır
 
