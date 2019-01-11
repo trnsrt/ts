@@ -67,7 +67,7 @@ Kurumsal yatırımcılar, yeni teknolojiler karşılığında klasik anlamda iş
 
 | ![miners.gif](/assets/miners.gif) | 
 |:--:| 
-| *[Giphy](https://giphy.com/gifs/movie-black-and-white-vintage-l49JCCwJ2zlJUQF1u)*|)
+| *[Giphy](https://giphy.com/gifs/movie-black-and-white-vintage-l49JCCwJ2zlJUQF1u)*|
 
 Örneğin yukarıda bahsettiğimiz madencilik işi öyle basitce anlaşılacak gibi değil. Daha doğrusu işi layıkı ile yapmak istediğinizde ciddi bir teknik donanıma ihtiyacınız var. Kullanacağınız makinalar için yğklü bir yatırım yapacaksınız, sonra enerji harcayacaksınız? Sonra yatırımı nereye yapacaksınız, maliyetler nerede düşük?
 
