@@ -6,15 +6,18 @@ Yeni teknolojilerin geniş kesimlerce adapte edilebilmesi için pekçok girişim
 
 Hatırlarsanız geçmiş bir [yazımızda](https://ademimerkezi.com/genel/2018/05/17/degisen-girisimcilik-ve-yatirimcilik.html) yeni teknolojiler ile değişen girişimcilik ve yatırımcılık tanımlarından bahsetmiştik.
 
-Kısaca özetlersek, değişen teknolojiler ile birlikte bir şirketin yarattığı katma değerin artık sadece şirket kurucuları ve yatırımcıları tarafından değil diğer başka aktörler tarafından da paylaşıldığına değinmiştik. Bunun temel nedenini artık yeni teknolojiler ile bir şirket değil bir ekosistem (bir ağ) yaratılıyor. Ve bu ekosistemin diğer aktörleri de sistemin sağlıklı bir şekilde sürmesi ve büyümesi için artık yaratılan katmadeğerden pay istiyorlar. Kim bu aktörler? Örneğin madenciler ya da kullanıcılar. 
+Kısaca özetlersek, değişen teknolojiler ile birlikte bir şirketin yarattığı katma değerin artık sadece şirket kurucuları ve yatırımcıları tarafından değil diğer başka aktörler tarafından da paylaşıldığına değinmiştik. 
 
-Neden? Öncelikle herkese açık bir Blockchain sisteminin, dağıtık (birbirinden bağımsız) makineler tarafından işletilmesini istiyorsanız bu makinelere harcadıkları efor ve enerjinin karşılığını vermelisiniz. 
+Bunun temel nedeni, 'artık yeni teknolojiler ile bir şirket değil bir ekosistem (bir ağ) yaratılıyor'. Ve bu ekosistemin diğer aktörleri de sistemin sağlıklı bir şekilde sürmesi ve büyümesi için artık yaratılan katma değerden pay istiyorlar. Kim bu aktörler? Örneğin madenciler ya da kullanıcılar. 
 
-Keza benzer şekilde sistemin kullanıcıları da artık harcadıkları vakit karşılığı sadece sistemin sunduğu kolaylıklardan faydalanmak istemiyorlar Onlar da pastadan pay almak istiyorlar, ki sistemi kullanmaya devam etsinler ve büyümesine yardımcı olsunlar. 
+Neden? Öncelikle bir Blockchain sisteminin, birbirinden bağımsız makineler tarafından işletilmesini istiyorsanız bu makinelere harcadıkları efor ve enerjinin karşılığını vermelisiniz, aksi halde neden uğraşsınlar?
 
-Eskiden girişimlere erken yatırım yapan kurumlar (VC'ler, girişim sermayeleri) koydukları para (ve aldıkları risk) karşılığında ciddi bir oranda şirket hissesi alarak yaratılan (ve ileride yaratılacak değerin) büyük bir kısmını uhdelerine alıyorlar idi. 
+Keza benzer şekilde sistemin kullanıcıları da artık harcadıkları vakit karşılığı sadece sistemin sunduğu kolaylıklardan faydalanmak istemiyorlar Onlar da ortaya çıkan pastadan pay almak istiyorlar, ki sistemi kullanmaya devam etsinler ve büyümesine yardımcı olsunlar. 
 
-Şimdi yeni teknolojiler ile klasik anlamda girişim sermayeleri de bu tutumlarını değiştirmek durumunda. Çünkü pastadan pay almak isteyenler çoğaldı. 
+Sonuçta
+
+* eskiden girişimlere erken yatırım yapan kurumlar (VC'ler - girişim sermayeleri) koydukları para ve aldıkları riskin karşılığı olarak ciddi bir oranda şirket hissesi alarak ortaya çıkan değerin büyük bir kısmını uhdelerine alıyorlar idi. 
+* şimdi yeni teknolojiler ile klasik anlamda girişim sermayeleri de bu tutumlarını değiştirmek durumunda. Çünkü pastadan pay almak isteyenler çoğaldı.
 
 ### Konu ICO'lar mı? Hayır
 
