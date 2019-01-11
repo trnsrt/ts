@@ -30,7 +30,7 @@ Yine de ICO pazarının kuruması klasik anlamdaki risk sermayelerinin artık es
 
 Bir risk sermayesi şirketi girişime sadece para vermez. Bunun dışında pazar bilgisi ile girişimin yönünü etkiler. Ya da organizasyonel tecrübesi ile şirketin büyümesi sırasında kontrolü kaybetmemesi için ne tip insan kaynağı ya da organizasyon yapısına gitmesi gerektiği konusunda girişimciye yardımcı olur. 
 
-Ancak yeni teknolojiler ile girişim sermayesi artık sadece girişim ile değil aynı zamanda ekosistemle de ortak oluyor. İşte bu nedenle eskiden şirketi etkilemek ve yönlendirmek için kullandığı çabayı artık ekosistem için de göstermeli.<sub>1</sub>
+Ancak yeni teknolojiler ile girişim sermayesi artık sadece girişim ile değil aynı zamanda ekosistemle de ortak oluyor. İşte bu nedenle eskiden şirketi etkilemek ve yönlendirmek için kullandığı çabayı artık ekosistem için de göstermeli.<sup>1</sup>
 
 ### Girişim Sermayesi başka neler yapabilir? Madencilik 2.0'a hoş geldiniz!
 
