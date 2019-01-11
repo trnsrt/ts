@@ -1,24 +1,26 @@
 
 
-Yeni teknolojilerin geniş kesimlerce adapte edilebilmesi için pekçok girişim var. Bunlardan [Lightning](https://ademimerkezi.com/genel/2018/12/20/bitcoin-uzerinde-isik-hiziyla-islem-Lightning-network.html), [Liquid](https://ademimerkezi.com/genel/2018/12/26/Bitcoin-gibi-ama-degil-Liquid.html) ve [Bakkt](https://ademimerkezi.com/genel/2019/01/04/kurumsal-yatirimci-bakkt-ile-kriptoparalara-girer-mi.html)'a geçmiş yazılarımızda değinmiştik. Şimdi bu trendlerden gelecekte daha da önem kazanacak olan bir tanesine, kurumsal yatırımcıların kafa yorduğu Generalized Mining (ya da Mining 2.0) kavramına bakalım birlikte. 
+Yeni teknolojilerin geniş kesimlerce adapte edilebilmesi için pek çok girişim var. Bunlardan [Lightning](https://ademimerkezi.com/genel/2018/12/20/bitcoin-uzerinde-isik-hiziyla-islem-Lightning-network.html), [Liquid](https://ademimerkezi.com/genel/2018/12/26/Bitcoin-gibi-ama-degil-Liquid.html) ve [Bakkt](https://ademimerkezi.com/genel/2019/01/04/kurumsal-yatirimci-bakkt-ile-kriptoparalara-girer-mi.html)'a geçmiş yazılarımızda değinmiştik. Şimdi bu trendlerden gelecekte daha da önem kazanacak olan bir tanesine, kurumsal yatırımcıların kafa yorduğu Generalized Mining (ya da Mining 2.0) kavramına bakalım birlikte. 
 
 ### Yatırımcılık değişiyor, değişmek zorunda
 
 Hatırlarsanız geçmiş bir [yazımızda](https://ademimerkezi.com/genel/2018/05/17/degisen-girisimcilik-ve-yatirimcilik.html) yeni teknolojiler ile değişen girişimcilik ve yatırımcılık tanımlarından bahsetmiştik.
 
-Kısaca özetlersek, değişen teknolojiler ile birlikte bir şirketin yarattığı katma değerin artık sadece şirket kurucuları ve yatırımcıları tarafından değil diğer başka aktörler tarafından da paylaşıldığına değinmiştik. 
+Kısaca özetlersek, değişen teknolojiler ile birlikte bir şirketin yarattığı katma değer artık sadece şirket kurucuları ve yatırımcıları tarafından değil diğer başka aktörler tarafından da paylaşılıyor. 
 
-Bunun temel nedeni, 'artık yeni teknolojiler ile bir şirket değil bir ekosistem (bir ağ) yaratılıyor'. Ve bu ekosistemin diğer aktörleri de sistemin sağlıklı bir şekilde sürmesi ve büyümesi için artık yaratılan katma değerden pay istiyorlar. Kim bu aktörler? Örneğin madenciler ya da kullanıcılar. 
+Bunun temel nedeni ise '**artık yeni teknolojiler ile bir şirket değil bir ekosistem (bir ağ) yaratılıyor'. Ve yeni teknolojilerin geçmişe göre devrim niteliği taşıyan ana özelliği, yarattıkları ekosistemdeki tüm oyuncuların oyuna devam etmesini sağlamak için kurdukları teşvik mekanizmaları**. 
+
+Peki kim bu diğer oyuncular? Madenciler ve son kullanıcılar. 
 
 Neden? Öncelikle bir Blockchain sisteminin, birbirinden bağımsız makineler tarafından işletilmesini istiyorsanız bu makinelere harcadıkları efor ve enerjinin karşılığını vermelisiniz, aksi halde neden uğraşsınlar?
 
-Keza benzer şekilde sistemin kullanıcıları da artık harcadıkları vakit karşılığı sadece sistemin sunduğu kolaylıklardan faydalanmak istemiyorlar Onlar da ortaya çıkan pastadan pay almak istiyorlar, ki sistemi kullanmaya devam etsinler ve büyümesine yardımcı olsunlar. 
+Keza benzer şekilde sistemin kullanıcıları da artık harcadıkları vakit karşılığı sadece sistemin sunduğu kolaylıklardan faydalanmak ile yetinmiyorlar. Onlar da ortaya çıkan pastadan pay istiyorlar, ki sistemi kullanmaya devam etsinler ve büyümesine yardımcı olsunlar. 
 
 Sonuçta eskiden girişimlere erken yatırım yapan kurumlar (VC'ler - girişim sermayeleri) koydukları para ve aldıkları riskin karşılığı olarak ciddi bir oranda şirket hissesi alarak ortaya çıkan değerin büyük bir kısmını uhdelerine alıyorlar idi. Şimdi ise yeni teknolojiler ile pastadan pay alanlar çoğaldığı için girişim sermayeleri de iş yapma biçimlerini değiştirmek durumunda kalıyorlar.
 
 ### Konu ICO'lar mı? Hayır
 
-O [yazımızda](https://ademimerkezi.com/genel/2018/05/17/degisen-girisimcilik-ve-yatirimcilik.html) girişimler için girişim sermayelerine alternatif olarak ortaya çıkan ICO piyasalarından bahsetmiştik. 2018 yılı içinde girişimlere ciddi miktarda finansman sağlayan ICO piyasaları yılın sonuna doğru tabiri caiz ise kurudu. 
+Yukarıda bahsettiğimiz [yazımızda](https://ademimerkezi.com/genel/2018/05/17/degisen-girisimcilik-ve-yatirimcilik.html) girişimler için girişim sermayelerine alternatif olarak ortaya çıkan ICO piyasalarından bahsetmiştik. 2018 yılı içinde girişimlere ciddi miktarda finansman sağlayan ICO piyasaları yılın sonuna doğru tabiri caiz ise kurudu. 
 
 Bunun pek çok nedeni var: en önemlisi, girişim adı altında ortaya çıkanların çoğunun aslında bu yaratılan heyecanı kullanan hayal tacileri ya da dolandırıcılar oldukları ortaya çıkması. 
 
@@ -36,15 +38,15 @@ Ancak yeni teknolojiler ile girişim sermayesi artık sadece girişim ile değil
 
 Peki neler yapabilir Girişim Sermayeleri bu alanda? 
 
-En önemlisi madencilik işine girebilirler!. Şaşırtıcı değil mi? Yapabilirler mi? Neden yapamasınlar ki? Eğer açık (public) bir Blockchain sisteminden bahsediyorsak, isteyen herkes madenci olabilir. Girişim Sermayesi şirketi de kendisi madencilik yapabilir ya da spesifik girişiminin yarattığı ekosistemde madencilik yapan bir şirkete yatırım yapabilir. 
+En önemlisi madencilik işine girebilirler!. Şaşırtıcı değil mi? Peki yapabilirler mi? Neden yapamasınlar? Eğer açık (public) bir Blockchain sisteminden bahsediyorsak, isteyen herkes madenci olabilir. Girişim Sermayesi şirketi de bu sistem içinde kendisi madencilik yapabilir ya da spesifik girişiminin yarattığı ekosistemde madencilik yapan bir şirkete yatırım yapabilir. 
 
 ![office-worker-mining-2.png](/assets/office-worker-mining-2.png)
 
 ### Girişim Sermayesi neden madencilik yapsın?
 
-Birkaç nedeni var:
+Girişim sermayeleri neden böyle bir işe kalkışsınlar? Birkaç nedeni var:
 
-Öncelikle, madenciler adı üzerinde sistem içindeki işlemleri gerçekleştiren ve aynı zamanda çeşitli protokoller ile ([PoW gibi](https://ademimerkezi.com/genel/2018/11/01/Bitcoin-uzlasmasi-proof-of-work.html)) sistemin güvenliğini sağlayan aktörler. Eğer girişim sermayesi için uzun vadede bir değer yaratılacak ise bu değeri yaratack olan ekosistemin sürekli bir şekilde yaşaması ve dış tehditlerin tehlikesinden uzak kalması gerekiyor. 
+Öncelikle, hatırlayalım; madenciler sistem içindeki işlemleri gerçekleştiren ve aynı zamanda çeşitli protokoller ile ([PoW gibi](https://ademimerkezi.com/genel/2018/11/01/Bitcoin-uzlasmasi-proof-of-work.html)) sistemin güvenliğini sağlayan aktörler. Girişim sermayesi için uzun vadede bir değer yaratılacak ise bu değeri yaratacak olan ekosistemin sürekli bir şekilde yaşaması ve dış tehditlerin tehlikesinden uzak kalması gerekiyor. 
 
 Bir başka neden de, madenciler ekosistemin gidişatı konusunda sınırlı da olsa söz hakkına sahipler. Özellikle, yaratılan sistemlerin açık kaynaklı olması nedeniyle çok sık rastlanmasa da kimi durumlarda sistemler klonlanarak (hard fork) farklı adlar altında strateji değiştirebiliyor ya da farklı bir grubun kontrolü altına girebiliyorlar. Bu tip hard fork durumlarında ekosistem içindeki her bir aktörün hangi grupta yer alacağına karar vermesi gerekiyor. Böyle bir durum ortaya çıktığında ise  aktörler genellikle çoğunluğa uyuyorlar bu işin doğası böyle. Girişim sermayesi de madenciler arasında kendine pay alarak çoğunluğu etkilemek ve strateji belirlemek konusunda kendisine bir avantaj yaratıyor. 
 
