@@ -43,7 +43,7 @@ En önemlisi madencilik işine girebilirler!. Şaşırtıcı değil mi? Yapabili
 
 ### Girişim Sermayesi neden madencilik yapsın?
 
-Peki neden yapsın böyle bir yatırımı? Birkaç nedeni var. 
+ neden yapsın böyle bir yatırımı? Birkaç nedeni var. 
 
 Öncelikle, madenciler adı üzerinde sistem içindeki işlemleri gerçekleştiren ve aynı zamanda çeşitli protokoller ile ([PoW gibi](https://ademimerkezi.com/genel/2018/11/01/Bitcoin-uzlasmasi-proof-of-work.html)) sistemin güvenliğini sağlayan aktörler. Eğer girişim sermayesi için uzun vadede bir değer yaratılacak ise bu değeri yaratack olan ekosistemin sürekli bir şekilde yaşaması ve dış tehditlerin tehlikesinden uzak kalması gerekiyor. 
 
