@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Madencilik 2.0. Beyaz yakalıdan madenci olur mu?"
+title:  "Madencilik 2.0: Beyaz yakalıdan madenci olur mu?"
 date:   2019-01-11 16:25:38 +0300
 categories: Genel
 ---
