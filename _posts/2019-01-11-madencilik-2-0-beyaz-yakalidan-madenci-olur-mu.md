@@ -1,4 +1,9 @@
-
+---
+layout: post
+title:  "Madencilik 2.0. Beyaz yakalıdan madenci olur mu?"
+date:   2019-01-11 16:25:38 +0300
+categories: Genel
+---
 
 Yeni teknolojilerin geniş kesimlerce adapte edilebilmesi için pek çok girişim var. Bunlardan [Lightning](https://ademimerkezi.com/genel/2018/12/20/bitcoin-uzerinde-isik-hiziyla-islem-Lightning-network.html), [Liquid](https://ademimerkezi.com/genel/2018/12/26/Bitcoin-gibi-ama-degil-Liquid.html) ve [Bakkt](https://ademimerkezi.com/genel/2019/01/04/kurumsal-yatirimci-bakkt-ile-kriptoparalara-girer-mi.html)'a geçmiş yazılarımızda değinmiştik. Şimdi bu trendlerden gelecekte daha da önem kazanacak olan bir tanesine, kurumsal yatırımcıların kafa yorduğu Generalized Mining (ya da Mining 2.0) kavramına bakalım birlikte. 
 
@@ -78,6 +83,11 @@ Aslında KriptoParalar'ın fiyatlarının düşmesi konuya uzun vadeli yaklaşan
 
 Pek çok kurumsal yatırımcı ve girişim sermayesi konuya uzun vadeli bakmaya devam ediyor. Bu yatırımcılar bahsedilen vizyonların gerçekleşmesi için gereken altyapı ve yazılım çalışmaları devam ederken sistemin devamını sağlamak için madencilik dahil her yolu deniyor. Tavsiyem siz de onlar gibi konuya uzun vadeli değer yaratma perspektifinden bakmaya çalışın... ve Çetin Altan'ın dediği gibi "Enseyi karartmayın"...
 
-Not 1: Aslında girişim sermayesi gibi bu alana yatırım yapan Kripto Fonları da bu kapsamda düşünebiliriz. Zira, özellikle açık (public) Blockhchain yapılarında (Bitcoin gibi) kimi zaman yatırım yapılacak bir girişimci grubu yok ya da başlangıçta yapılan ICO'ya girmeyen fonlar sonradan ekosistemin içinde dolaşan KriptoParalar'a yatırım yapıyorlar. Bu KriptoFonlar içinde sadece kısa vadeli alıp satmak dışında bu ekosisteme uzun vadeli olarak yatırım yapanları için de oyunun kuralları girişim sermayelerine benzer şekilde değişiyor.  
+*Not 1: Aslında girişim sermayesi gibi bu alana yatırım yapan Kripto Fonları da bu kapsamda düşünebiliriz. Zira, özellikle açık (public) Blockhchain yapılarında (Bitcoin gibi) kimi zaman yatırım yapılacak bir girişimci grubu yok ya da başlangıçta yapılan ICO'ya girmeyen fonlar sonradan ekosistemin içinde dolaşan KriptoParalar'a yatırım yapıyorlar. Bu KriptoFonlar içinde sadece kısa vadeli alıp satmak dışında bu ekosisteme uzun vadeli olarak yatırım yapanları için de oyunun kuralları girişim sermayelerine benzer şekilde değişiyor.*  
 
-Not 2: Konu ile ilgili daha detaylı bilgi için Medium'daki "[Blockchain mining 2.0](https://medium.com/notation-capital/notation-blockchain-mining-2-0-dcf46a28f7eb) ve TokenDaily'nin ["Premier on mining 2.0"](https://www.tokendaily.co/blog/a-primer-on-mining-2-0) yazısına göz atabilirsiniz.  
+*Not 2: Konu ile ilgili daha detaylı bilgi için Medium'daki "[Blockchain mining 2.0](https://medium.com/notation-capital/notation-blockchain-mining-2-0-dcf46a28f7eb) ve TokenDaily'nin ["Premier on mining 2.0"](https://www.tokendaily.co/blog/a-primer-on-mining-2-0) yazısına göz atabilirsiniz.*  
+
+
+&nbsp;
+
+*Son Not: Yazdığımız 40+ yazının bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](http://ademimerkezi.com/about/) sayfasına göz atabilirsiniz.* 
