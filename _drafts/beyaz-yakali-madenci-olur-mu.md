@@ -20,7 +20,7 @@ Sonuçta eskiden girişimlere erken yatırım yapan kurumlar (VC'ler - girişim 
 
 O [yazımızda](https://ademimerkezi.com/genel/2018/05/17/degisen-girisimcilik-ve-yatirimcilik.html) girişimler için girişim sermayelerine alternatif olarak ortaya çıkan ICO piyasalarından bahsetmiştik. 2018 yılı içinde girişimlere ciddi miktarda finansman sağlayan ICO piyasaları yılın sonuna doğru tabiri caiz ise kurudu. 
 
-Bunun pek çok nedeni var: en önemlisi, girişim adı altında ortaya çıkanların çoğunun aslında bu yaratılan heyecanı kullanan hayal tacileri ya da dolandırıcılar oldukları ortaya çıktı. 
+Bunun pek çok nedeni var: en önemlisi, girişim adı altında ortaya çıkanların çoğunun aslında bu yaratılan heyecanı kullanan hayal tacileri ya da dolandırıcılar oldukları ortaya çıkması. 
 
 Ama benzer durum internet girişimlerinin ilk çıktığı 90'larda da yaşanmıştı, o zaman da çok para battı ancak girişimler yatırım almaya devam ettiler. İlk yaşanan balon söndükten sonra özellikle gerçekten değer yaratan girişimlere uzun vadeli yatırım yapanlar çok ciddi getiriler elde ettiler. Dolayısıyla şu an ICO pazarı tıkanmış olabilir ancak yeni mekanizmalar ile ileride tekrar canlanması çok muhtemel. 
 
@@ -30,12 +30,9 @@ Yine de ICO pazarının kuruması klasik anlamdaki risk sermayelerinin artık es
 
 Bir risk sermayesi şirketi girişime sadece para vermez. Bunun dışında pazar bilgisi ile girişimin yönünü etkiler. Ya da organizasyonel tecrübesi ile şirketin büyümesi sırasında kontrolü kaybetmemesi için ne tip insan kaynağı ya da organizasyon yapısına gitmesi gerektiği konusunda girişimciye yardımcı olur. 
 
-Ancak yeni teknolojiler ile risk sermayesi şirketi artık sadece girişime ortak olmuyor, aynı zamanda ekosisteme ortak oluyor. İşte bu nedenle eskiden şirketi etkilemek ve yönlendirmek için kullandığı çabayı artık ekosistem için de göstermeli. 
-
-Aslında girişim sermayesi gibi bu alana yatırım yapan Kripto Fonları aynı kapsamda düşünebiliriz. Zira, özellikle açık (public) Blockhchain yapılarında (Bitcoin gibi) kimi zaman yatırım yapılacak bir girişimci grubu yok ya da başlangıçta yapılan ICO'ya girmeyen fonlar sonradan ekosistemin içinde dolaşan KriptoParalar'a yatırım yapıyorlar. Bu KriptoFonlar içinde sadece kısa vadeli alıp satmak dışında bu ekosisteme uzun vadeli olarak yatırım yapanları için de oyunun kuralları girişim sermayelerine benzer şekilde değişiyor.  
+Ancak yeni teknolojiler ile girişim sermayesi artık sadece girişim ile değil aynı zamanda ekosistemle de ortak oluyor. İşte bu nedenle eskiden şirketi etkilemek ve yönlendirmek için kullandığı çabayı artık ekosistem için de göstermeli.<sub>1</sub>
 
 ### Girişim Sermayesi başka neler yapabilir? Madencilik 2.0'a hoş geldiniz!
-
 
 ![office-worker-mining-2.png](/assets/office-worker-mining-2.png)
 
@@ -71,8 +68,6 @@ Aslında KriptoParalar'ın fiyatlarının düşmesi konuya uzun vadeli yaklaşan
 
 Pekçok kurumsal yatırımcı ve girişim sermayesi bu şekilde bakmaya devam ediyor. Bu yatırımcılar bahsedilen vizyonların gerçekleşmesi için gereken altyapı ve yazılım çalışmaları devam ederken sistemin devamını sağlamak için madencilik dahil her yolu deniyor. Tavsiyem siz de onlar gibi konuya uzun vadeli değer yaratma perspektifinden bakmaya çalışın.  Yani, Çetin Altan'ın ünlü sözünde dediği gibi "Enseyi karartmayın". 
 
-Not: Konu ile ilgili daha detaylı bilgi için Medium'daki "[Blockchain mining 2.0](https://medium.com/notation-capital/notation-blockchain-mining-2-0-dcf46a28f7eb) ve TokenDaily'nin ["Premier on mining 2.0"](https://www.tokendaily.co/blog/a-primer-on-mining-2-0) yazısına göz atabilirsiniz.  
+Not 1: Aslında girişim sermayesi gibi bu alana yatırım yapan Kripto Fonları da bu kapsamda düşünebiliriz. Zira, özellikle açık (public) Blockhchain yapılarında (Bitcoin gibi) kimi zaman yatırım yapılacak bir girişimci grubu yok ya da başlangıçta yapılan ICO'ya girmeyen fonlar sonradan ekosistemin içinde dolaşan KriptoParalar'a yatırım yapıyorlar. Bu KriptoFonlar içinde sadece kısa vadeli alıp satmak dışında bu ekosisteme uzun vadeli olarak yatırım yapanları için de oyunun kuralları girişim sermayelerine benzer şekilde değişiyor.  
 
-
-
-
+Not 2: Konu ile ilgili daha detaylı bilgi için Medium'daki "[Blockchain mining 2.0](https://medium.com/notation-capital/notation-blockchain-mining-2-0-dcf46a28f7eb) ve TokenDaily'nin ["Premier on mining 2.0"](https://www.tokendaily.co/blog/a-primer-on-mining-2-0) yazısına göz atabilirsiniz.  
