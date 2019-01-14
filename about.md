@@ -39,6 +39,8 @@ Dağıtık (merkezi olmayan, adem-i merkezi) her tür teknoloji ve finans dünya
 - Bitcoin üzerine inşa edilen yeni teknolojilere ilginiz varsa 
   - [Bitcoin üzerinden ışık hızıyla işlem: Lightning Network](https://ademimerkezi.com/genel/2018/12/20/bitcoin-uzerinde-isik-hiziyla-islem-Lightning-network.html)
   - [Bitcoin gibi ama değil: Liquid](https://ademimerkezi.com/genel/2018/12/26/Bitcoin-gibi-ama-degil-Liquid.html)
+  - [Kurumsal yatırımcı Bakkt ile KriptoParalar'a girer mi?](https://ademimerkezi.com/genel/2019/01/04/kurumsal-yatirimci-bakkt-ile-kriptoparalara-girer-mi.html)
+  - [Madencilik 2.0: Beyaz yakalıdan madenci olur mu?](https://ademimerkezi.com/genel/2019/01/11/madencilik-2-0-beyaz-yakalidan-madenci-olur-mu.html)
   
   &nbsp;
 - Daha pekçok yeni teknolojiye altyapı sağlayan Ethereum'u merak ediyorsanız
