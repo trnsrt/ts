@@ -31,8 +31,10 @@ Ancak 2018 yılının ikinci yarısında rüzgar tersine döndü. Yapılan ICO'l
 
 Peki bu böyle mi devam eder. Bu işlerin aslında bir daire çizdiğini söylemek belki daha doğru. 
 
-<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Crypto Markets &amp; Development<br><br>2013: Frenzy &amp; Over-Promise<br>2014: Crash &amp; Under-Deliver<br>2015: Consolidate &amp; Ship<br>2016: Lift &amp; Refine for Adoption  <br><br>2017: Frenzy &amp; Over-Promise<br>2018: Crash &amp; Under-Deliver<br>2019: Consolidate &amp; Ship<br>2020: Lift &amp; Refine for Adoption <br><br>2021: Frenzy...</p>&mdash; Chris Burniske (@cburniske) <a href="https://twitter.com/cburniske/status/1084538829384474624?ref_src=twsrc%5Etfw">January 13, 2019</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Crypto Markets &amp; Development<br><br>2013: Frenzy &amp; Over-Promise<br>2014: Crash &amp; Under-Deliver<br>2015: Consolidate &amp; Ship<br>2016: Lift &amp; Refine for Adoption  <br><br>2017: Frenzy &amp; Over-Promise<br>2018: Crash &amp; Under-Deliver<br>2019: Consolidate &amp; Ship<br>2020: Lift &amp; Refine for Adoption <br><br>2021: Frenzy...</p>&mdash; Chris Burniske (@cburniske) <a href="https://twitter.com/cburniske/status/1084538829384474624?ref_src=twsrc%5Etfw">January 13, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 
