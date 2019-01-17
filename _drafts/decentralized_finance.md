@@ -27,7 +27,15 @@ Bu alanda bağımsız olarak dünyayı değiştirmeye çalışan pek çok proje 
 
 ETH üzerinden para toplayan girişimler, ETH'deki artışı gördükçe kazandıkları fonları ETH'de tutmaya devam ettiler, çünkü en iyi getiri ETH'de idi! Böylece kendi kendini besleyen bir sanal sarmal oluştu. 
 
-Ancak 2018 yılının ikinci yarısında rüzgar tersine döndü. Özellikle yapılan ICO'lar sonrası umduğunu bulamayan yatırımcılar "zararın neresinden dönersek kardır" mantığı ile ellerindeki tokenları sattılar. Tabii sattıktan sonra ciddi bir kısmı kendi fiat paralarına döndü. Dönmeyenler ise 
+Ancak 2018 yılının ikinci yarısında rüzgar tersine döndü. Yapılan ICO'lar sonrası umduğunu bulamayan yatırımcılar "zararın neresinden dönersek kardır" mantığı ile ellerindeki tokenları sattılar. Bu satışın ETH üzerinde çok etkisi olmadı, zira token satan yatırımcı ya kendi fiat parasına ya da Bitcoin'e döndü. Ama ETH'yi asıl vuran, ICO yaparak ETH toplayan girişimler oldu. Çünkü bu girişimler, bir yandan yatırımcıları çizdiği vizyon karşılığı gelir getirmeyi başaramazken bir yandan da süregelen masraflarını karşılığı ödemek yapmak zorunda olduklarından yavaş yavaş ellerindeki ETH'leri satmaya başladılar. Bu da ETH üzerinde 2017 yılında yaşananın tam tersi bir sanal sarmal yarattı. 
+
+Peki bu böyle mi devam eder. Bu işlerin aslında bir daire çizdiğini söylemek belki daha doğru. 
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Crypto Markets &amp; Development<br><br>2013: Frenzy &amp; Over-Promise<br>2014: Crash &amp; Under-Deliver<br>2015: Consolidate &amp; Ship<br>2016: Lift &amp; Refine for Adoption  <br><br>2017: Frenzy &amp; Over-Promise<br>2018: Crash &amp; Under-Deliver<br>2019: Consolidate &amp; Ship<br>2020: Lift &amp; Refine for Adoption <br><br>2021: Frenzy...</p>&mdash; Chris Burniske (@cburniske) <a href="https://twitter.com/cburniske/status/1084538829384474624?ref_src=twsrc%5Etfw">January 13, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
 
 
 Maker'da 9 Aralık-9 Ocak tarihleri arasında 35 Milyon ABD Doları tutarında 4,700 adet kredi [kullandırıldı](https://loanscan.io/?query=MakerDao&page=1). 
