@@ -11,7 +11,13 @@ Netflix'de de bulabileceğiniz Peaky Blinders dizisinde güzel bir örnek var. 1
 
 &nbsp;
 
-Maalesef ülkemizde de geçtiğimiz senenin başında büyük bir çoğunluk 1920'lerde Birmingham halkının yaşadığının benzerini yaşadı. Arkadaşının para kazandığını gören, hesapsız kitapsız anlamadan para yatırdılar bilmedikleri paralara. 
+Maalesef ülkemizde de geçtiğimiz senenin başında büyük bir çoğunluk 1920'lerde Birmingham halkının yaşadığının benzerini yaşadı. Arkadaşının para kazandığını görenler, hesapsız kitapsız anlamadan para yatırdılar bilmedikleri paralara. Oysa aslında para isteyenlerin ciddi kısmı ponzi scheme benzeri programlar ile insanlardan para toplayan ama ne yapmak istedikleri çok da anlaşılmayan projelerdi. Bu projeleri şimdilik bir kenara bırakalım. 
+
+Performans olarak kötü gitmesine rağmen aslında belli bir vizyona sahip olan pek çok proje de var. Ancak hep söylediğimiz gibi bu projelerin vakte ihtiyacı var. Zira, hem kendilerini geliştirmek için yazılımcıların çalışması hem de üzerinde bulundukları altyapıların gelişmesi gerekiyor. 
+
+Bu alanda bağımsız olarak dünyayı değiştirmeye çalışan pekçok proje özellikle para toplamak konusunda Ethereum'u kullandılar. Para toplama aşamasında yani 2017 ve 2018 yıllarında bu Ethereum'a korkunç yaradı. Zira, herhangi bir yatırıma girmek isteyen bir yatırımcı elindeki fiat parayı (USD, Euro her ne ise) bozduruyor ya da varsa Bitcoin'ini satıyor ve Ethereum alıyor idi. Bu da Ethereum'a olan talebi ve fiyatını inanılmaz derecede yükseltti. 
+
+<script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script><div class="coinmarketcap-currency-widget" data-currencyid="1027" data-base="USD" data-secondary="" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="USD" data-statsticker="false"></div>
 
 
 Maker'da 9 Aralık-9 Ocak tarihleri arasında 35 Milyon ABD Doları tutarında 4,700 adet kredi [kullandırıldı](https://loanscan.io/?query=MakerDao&page=1). 
