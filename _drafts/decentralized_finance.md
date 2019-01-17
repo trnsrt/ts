@@ -17,7 +17,15 @@ Performans olarak kötü gitmesine rağmen aslında belli bir vizyona sahip olan
 
 Bu alanda bağımsız olarak dünyayı değiştirmeye çalışan pekçok proje özellikle para toplamak konusunda Ethereum'u kullandılar. Para toplama aşamasında yani 2017 ve 2018 yıllarında bu Ethereum'a korkunç yaradı. Zira, herhangi bir yatırıma girmek isteyen bir yatırımcı elindeki fiat parayı (USD, Euro her ne ise) bozduruyor ya da varsa Bitcoin'ini satıyor ve Ethereum alıyor idi. Bu da Ethereum'a olan talebi ve fiyatını inanılmaz derecede yükseltti. 
 
-<script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script><div class="coinmarketcap-currency-widget" data-currencyid="1027" data-base="USD" data-secondary="" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="USD" data-statsticker="false"></div>
+&nbsp;
+
+| ![Etherum_vs_Bitcoin-2017_19.png](/assets/Etherum_vs_Bitcoin-2017_19.png) | 
+|:--:| 
+| *Ethereum ve Bitcoin son iki yıl karşılaştırması* |
+
+&nbsp;
+
+Etherum_vs_Bitcoin-2017_19.png
 
 
 Maker'da 9 Aralık-9 Ocak tarihleri arasında 35 Milyon ABD Doları tutarında 4,700 adet kredi [kullandırıldı](https://loanscan.io/?query=MakerDao&page=1). 
