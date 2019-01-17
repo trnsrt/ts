@@ -15,7 +15,7 @@ Maalesef ülkemizde de geçtiğimiz senenin başında büyük bir çoğunluk 192
 
 Performans olarak kötü gitmesine rağmen aslında belli bir vizyona sahip olan pek çok proje de var. Ancak hep söylediğimiz gibi bu projelerin vakte ihtiyacı var. Zira, hem kendilerini geliştirmek için yazılımcıların çalışması hem de üzerinde bulundukları altyapıların gelişmesi gerekiyor. 
 
-Bu alanda bağımsız olarak dünyayı değiştirmeye çalışan pekçok proje özellikle para toplamak konusunda Ethereum'u kullandılar. Para toplama aşamasında yani 2017 ve 2018 yıllarında bu Ethereum'a korkunç yaradı. Zira, herhangi bir yatırıma girmek isteyen bir yatırımcı elindeki fiat parayı (USD, Euro her ne ise) bozduruyor ya da varsa Bitcoin'ini satıyor ve Ethereum alıyor idi. Bu da Ethereum'a olan talebi ve fiyatını inanılmaz derecede yükseltti. 
+Bu alanda bağımsız olarak dünyayı değiştirmeye çalışan pek çok proje özellikle para toplamak konusunda Ethereum'u kullandılar. Para toplama aşamasında yani 2017 ve 2018 yıllarında bu Ethereum'a korkunç yaradı. Zira, herhangi bir yatırıma girmek isteyen bir yatırımcı elindeki fiat parayı (USD, Euro her ne ise) bozduruyor ya da varsa Bitcoin'ini satıyor ve Ethereum alıyor idi. Bu da Ethereum'a olan talebi ve fiyatını inanılmaz derecede yükseltti. 
 
 &nbsp;
 
@@ -25,7 +25,9 @@ Bu alanda bağımsız olarak dünyayı değiştirmeye çalışan pekçok proje �
 
 &nbsp;
 
-Etherum_vs_Bitcoin-2017_19.png
+ETH üzerinden para toplayan girişimler, ETH'deki artışı gördükçe kazandıkları fonları ETH'de tutmaya devam ettiler, çünkü en iyi getiri ETH'de idi! Böylece kendi kendini besleyen bir sanal sarmal oluştu. 
+
+Ancak 2018 yılının ikinci yarısında rüzgar tersine döndü. Özellikle yapılan ICO'lar sonrası umduğunu bulamayan yatırımcılar "zararın neresinden dönersek kardır" mantığı ile ellerindeki tokenları sattılar. Tabii sattıktan sonra ciddi bir kısmı kendi fiat paralarına döndü. Dönmeyenler ise 
 
 
 Maker'da 9 Aralık-9 Ocak tarihleri arasında 35 Milyon ABD Doları tutarında 4,700 adet kredi [kullandırıldı](https://loanscan.io/?query=MakerDao&page=1). 
