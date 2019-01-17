@@ -29,12 +29,31 @@ ETH üzerinden para toplayan girişimler, ETH'deki artışı gördükçe kazand�
 
 Ancak 2018 yılının ikinci yarısında rüzgar tersine döndü. Yapılan ICO'lar sonrası umduğunu bulamayan yatırımcılar "zararın neresinden dönersek kardır" mantığı ile ellerindeki tokenları sattılar. Bu satışın ETH üzerinde çok etkisi olmadı, zira token satan yatırımcı ya kendi fiat parasına ya da Bitcoin'e döndü. Ama ETH'yi asıl vuran, ICO yaparak ETH toplayan girişimler oldu. Çünkü bu girişimler, bir yandan yatırımcıları çizdiği vizyon karşılığı gelir getirmeyi başaramazken bir yandan da süregelen masraflarını karşılığı ödemek yapmak zorunda olduklarından yavaş yavaş ellerindeki ETH'leri satmaya başladılar. Bu da ETH üzerinde 2017 yılında yaşananın tam tersi bir sanal sarmal yarattı. 
 
-Peki bu böyle mi devam eder. Bu işlerin aslında bir daire çizdiğini söylemek belki daha doğru. 
+Peki bu böyle mi devam eder. Bu işlerin aslında bir daire çizdiğini söylemek belki daha doğru. Bu alanda yazılmış en iyi kitaplardan [Cryptoassets: The Innovative Investor's Guide to Bitcoin and Beyond](https://www.amazon.com/Cryptoassets-Innovative-Investors-Bitcoin-Beyond/dp/1260026671/ref=sr_1_2?ie=UTF8&qid=1547727169&sr=8-2&keywords=cryptoassets)'nın yazarı [Chris Burnske](https://twitter.com/cburniske)'nin Ocak 2019'da attığı şu tweet 
 
 
 ![Chris_Burniske-crypto-cyclicality.png](/assets/Chris_Burniske-crypto-cyclicality.png)
 
+Kısaca Türkçe'ye çevirecek olursak:
 
+KriptoPiyasaları ve gelişimi:
+2013 Çılgınlık ve maksadını aşat vaat
+2014 Çöküş ve vaat edilenin altında gerçekleşme
+2015 Sağlamlaştır/güçlendir ve teslim et
+2016 Geniş kesim adaptasyonu için çıtayı yükselt ve rafine et
+
+2017 Çılgınlık ve maksadını aşat vaat
+2018 Çöküş ve vaat edilenin altında gerçekleşme
+2019 Sağlamlaştır/güçlendir ve teslim et
+2020 Geniş kesim adaptasyonu için öıtayı yükselt ve rafine et
+
+2021 Çılgınlık...
+
+Çok geniş bir genelleme bu. Ancak olaya kısa vadeli değil, uzun vadeli bakanlar ve işin içinde uzun yıllardır olanlar için aslında yaşananlar oldukça tanıdık. O nedenle, bu alanda çalışan pek çok kişi "biz bu filmi görmüştük" diyor ve ileride gerçekleşecek yeni döngü için var güçleriyle çabalıyorlar. 
+
+Şu anda Kripto Dünyası hala çok küçük. Tüm piyasa toplam değeri yaklaşık olarak [128 Milyar ABD Doları](https://coinmarketcap.com/charts/). Sadece Apple'ın kasasında duran nakit paranın [158 Milyar ABD Doları](https://www.cultofmac.com/272570/apples-cash-reserves-30x-10-years-ago/) olduğunu söylersek aslında ne kadar küçük bir pazardan bahsettiğimiz daha anlaşılır oluyor. O nedenle, bu pazarın bize sunduğu vizyonu göz önüne alarak ileride bu pazarın çok çok daha büyüyeceğini söylemek kahinlik sayılmaz. Vizyonun gerçekliği ya da gerçekleştirilebilirliği konusunda şüpheleriniz olabilir ancak geçtiğimiz yılki çılgınlık sonrası hala girişimleri üzerinde çalışanlar ve daha ötesi yatırım almaya devam edenler, kendi sundukları vizyonun bir şekilde gerçeleşeceğinden eminler. Artık soru daha çok "ne zaman?" üzerine odaklanıyor. 
+
+Bir sonraki yazımızda Ethereum üzerinde finans alanında girişimcilerin çalıştıkları projelere bakalım hep birlikte. 
 
 
 
