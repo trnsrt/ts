@@ -32,22 +32,8 @@ Ancak 2018 yılının ikinci yarısında rüzgar tersine döndü. Yapılan ICO'l
 Peki bu böyle mi devam eder. Bu işlerin aslında bir daire çizdiğini söylemek belki daha doğru. Bu alanda yazılmış en iyi kitaplardan [Cryptoassets: The Innovative Investor's Guide to Bitcoin and Beyond](https://www.amazon.com/Cryptoassets-Innovative-Investors-Bitcoin-Beyond/dp/1260026671/ref=sr_1_2?ie=UTF8&qid=1547727169&sr=8-2&keywords=cryptoassets)'nın yazarı [Chris Burnske](https://twitter.com/cburniske)'nin Ocak 2019'da attığı şu tweet 
 
 
-![Chris_Burniske-crypto-cyclicality.png](/assets/Chris_Burniske-crypto-cyclicality.png)
+![Chris_Burniske-crypto-cyclicality-2.png](/assets/Chris_Burniske-crypto-cyclicality-2.png)
 
-Kısaca Türkçe'ye çevirecek olursak:
-
-KriptoPiyasaları ve gelişimi:
-2013 Çılgınlık ve maksadını aşat vaat
-2014 Çöküş ve vaat edilenin altında gerçekleşme
-2015 Sağlamlaştır/güçlendir ve teslim et
-2016 Geniş kesim adaptasyonu için çıtayı yükselt ve rafine et
-
-2017 Çılgınlık ve maksadını aşat vaat
-2018 Çöküş ve vaat edilenin altında gerçekleşme
-2019 Sağlamlaştır/güçlendir ve teslim et
-2020 Geniş kesim adaptasyonu için öıtayı yükselt ve rafine et
-
-2021 Çılgınlık...
 
 Çok geniş bir genelleme bu. Ancak olaya kısa vadeli değil, uzun vadeli bakanlar ve işin içinde uzun yıllardır olanlar için aslında yaşananlar oldukça tanıdık. O nedenle, bu alanda çalışan pek çok kişi "biz bu filmi görmüştük" diyor ve ileride gerçekleşecek yeni döngü için var güçleriyle çabalıyorlar. 
 
