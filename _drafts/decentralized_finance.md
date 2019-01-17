@@ -32,7 +32,7 @@ Ancak 2018 yılının ikinci yarısında rüzgar tersine döndü. Yapılan ICO'l
 Peki bu böyle mi devam eder. Bu işlerin aslında bir daire çizdiğini söylemek belki daha doğru. 
 
 
-![Chris Burniske](https://twitter.com/cburniske/status/1084538829384474624)
+![Chris_Burniske-crypto-cyclicality.png](/assets/Chris_Burniske-crypto-cyclicality.png)
 
 
 
