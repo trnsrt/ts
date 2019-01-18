@@ -27,6 +27,10 @@ how the whitepaper came about?
 
 Grin yaklaşık bir buçuk iki yıldır geliştirme halinde
 
+Bitcoin'de adresler belli olduğu için para nereden geldi, nereye gitti bilindiği için kullanıcıları bir şekilde takip etmek ya da paranın izini sürmek mümkün oluyor idi. Çünkü Bitcoin'de bir işlem yaptığınızda bunu Bitcoin ağındaki bir makineye (düğüm-node) gönderiyorsunuz o da tüm sisteme yayıyor. Buradan da paranın izini sürülebilir oluyor. Burada öyle değil. 
+Privacy olarak çözümü dandelion adı verilen bir protokol kullanıyor. Dandelion kara hindiba çiçeği demek. MW'de siz sisteme bir işlem gönderdiğinizde bunu alan makine rastgele bir başka makineye gönderiyor, o bir başkasına ve böyle böyle ilk gönderen makinanın izinin sürülemeyeceği bir "bozma (fluff)" sürecinden geçiliyor. 
+
+
 solves two problems
 - one is the kind of scaling side of the blocks, and the
 - second appears to be privacy coming as default.
