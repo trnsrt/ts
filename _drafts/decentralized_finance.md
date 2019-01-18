@@ -19,7 +19,7 @@ Bu alanda bağımsız olarak dünyayı değiştirmeye çalışan pek çok proje 
 
 &nbsp;
 
-| ![Etherum_vs_Bitcoin-2017_19.png](/assets/Etherum_vs_Bitcoin-2017_19.png) | 
+| ![ETH_vs_BTC_Index_190117.png](/assets/ETH_vs_BTC_Index_190117.png) | 
 |:--:| 
 | *Ethereum ve Bitcoin son iki yıl karşılaştırması [(Kaynak)](https://www.coindesk.com/price/bitcoin)*  |
 
