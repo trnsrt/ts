@@ -16,7 +16,7 @@ Netflix'de izleyebileceğiniz Peaky Blinders dizisinde güzel bir hikaye var. 19
 
 | ![thomas-shelby.gif](/assets/thomas-shelby.gif) | 
 |:--:| 
-| *Thomas Shelby ve atı ([Kaynak](https://www.wattpad.com/588723147-a-blind-mistake-chapter-six))* |
+| *Thomas Shelby ve atı [(Kaynak)](https://www.wattpad.com/588723147-a-blind-mistake-chapter-six)* |
 
 &nbsp;
 
