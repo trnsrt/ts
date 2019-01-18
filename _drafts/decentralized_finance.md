@@ -50,19 +50,17 @@ Ancak 2018 yılının ikinci yarısında rüzgar tersine döndü. Yapılan ICO'l
 
 ### Bir sarmal içinde miyiz?
 
-Peki bu böyle mi devam eder. Bu işlerin aslında bir daire çizdiğini söylemek belki daha doğru. Bu alanda yazılmış en iyi kitaplardan [Cryptoassets: The Innovative Investor's Guide to Bitcoin and Beyond](https://www.amazon.com/Cryptoassets-Innovative-Investors-Bitcoin-Beyond/dp/1260026671/ref=sr_1_2?ie=UTF8&qid=1547727169&sr=8-2&keywords=cryptoassets)'nın yazarı [Chris Burnske](https://twitter.com/cburniske)'nin Ocak 2019'da attığı şu tweet 
+Peki bu böyle mi devam eder. Bu işlerin aslında bir daire çizdiğini söylemek belki daha doğru. Bu alanda yazılmış en iyi kitaplardan [Cryptoassets: The Innovative Investor's Guide to Bitcoin and Beyond](https://www.amazon.com/Cryptoassets-Innovative-Investors-Bitcoin-Beyond/dp/1260026671/ref=sr_1_2?ie=UTF8&qid=1547727169&sr=8-2&keywords=cryptoassets)'nın yazarı [Chris Burnske](https://twitter.com/cburniske)'nin Ocak 2019'da attığı şu tweet dikkat çekici:
 
 
 ![Chris_Burniske-crypto-cyclicality-4.png](/assets/Chris_Burniske-crypto-cyclicality-4.png)
 
 
-Çok geniş bir genelleme bu. Ancak olaya kısa vadeli değil, uzun vadeli bakanlar ve işin içinde uzun yıllardır olanlar için aslında yaşananlar oldukça tanıdık. O nedenle, bu alanda çalışan pek çok kişi "biz bu filmi görmüştük" diyor ve ileride gerçekleşecek yeni döngü için var güçleriyle çabalıyorlar. 
+Çok geniş bir genelleme bu. Ancak olaya kısa vadeli değil uzun vadeli bakanlar ve işin içinde başından beri bulunanlar için aslında yaşananlar oldukça tanıdık. O nedenle, bu alanda çalışan pek çok kişi "biz bu filmi görmüştük" diyor ve ileride gerçekleşecek yeni döngüyü üst seviyede yakalamak için var güçleriyle çabalıyorlar.
 
 ### Arkası yarın
 
-Şu anda Kripto Dünyası hala çok küçük. Tüm piyasa toplam değeri yaklaşık olarak [128 Milyar ABD Doları](https://coinmarketcap.com/charts/). Sadece Apple'ın kasasında duran nakit paranın [158 Milyar ABD Doları](https://www.cultofmac.com/272570/apples-cash-reserves-30x-10-years-ago/) olduğunu söylersek aslında ne kadar küçük bir pazardan bahsettiğimiz daha anlaşılır oluyor. O nedenle, bu pazarın bize sunduğu vizyonu göz önüne alarak ileride bu pazarın çok çok daha büyüyeceğini söylemek kahinlik sayılmaz. Vizyonun gerçekliği ya da gerçekleştirilebilirliği konusunda şüpheleriniz olabilir ancak geçtiğimiz yılki çılgınlık sonrası hala girişimleri üzerinde çalışanlar ve daha ötesi yatırım almaya devam edenler, kendi sundukları vizyonun bir şekilde gerçeleşeceğinden eminler. Artık soru daha çok "ne zaman?" üzerine odaklanıyor. 
-
-Bir sonraki yazımızda Ethereum üzerinde finans alanında girişimcilerin çalıştıkları projelere bakalım hep birlikte. 
+Şu anda Kripto Dünyası hala çok küçük. Tüm piyasa toplam değeri yaklaşık olarak [128 Milyar ABD Doları](https://coinmarketcap.com/charts/). Sadece Apple'ın kasasında duran nakit paranın [158 Milyar ABD Doları](https://www.cultofmac.com/272570/apples-cash-reserves-30x-10-years-ago/) olduğunu söylersek aslında ne kadar küçük bir pazardan bahsettiğimiz daha anlaşılır oluyor. O nedenle, bu pazarın bize sunduğu vizyonun bir parçasının bile gerçekleşeceğini düşünsek ileride bu pazarın çok çok daha büyüyeceğini söylemek kahinlik sayılmaz. Geçtiğimiz yılki çılgınlık sonrası hala girişimleri üzerinde çalışanlar ve daha ötesi yatırım almaya devam edenler, kendi sundukları vizyonun bir şekilde gerçeleşeceğinden eminler. Artık soru daha çok "ne zaman?" üzerine odaklanıyor. 
 
 
 
