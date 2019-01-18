@@ -54,6 +54,10 @@ block size limits. There’s a waiting because on a Mimblewimble Blockchain outp
 
 *teknik olarak tüm blockchain datasını (GB'lar süren) yüklemek yerine fast sink denen bir metod ile sisteme giren yeni bir kullanıcı (düğüm-node) son 2000 blok'u sync ederek, dakikalar içinde sistemi kullanabilir hale geliyor
 
+*sistemin madencilere sorduğu bulmacanın zorluk derecesini bitcoin iki haftada bir ayarlıyor. Bu zorluk ayarlamasını yaparken bulmacanın çözülme hızına bakıyor ve hızlı yani 10 dakikadan çabuk çözülüyor ise zorlaştırıyor eğer 10 dakikadan uzun sürüyor ise kolaylaştırıyor. Grin bu zorluk ayarlamasını çok daha hızlı bir şekilde yapacak. Aynı Bitcoin sonrası çıkan başka pekçok Blockchain sisteminin yaptığı gibi
+
+
+
 -- mible-wimble
 --- all the developers are harry potter subjects (fans)
 ---
