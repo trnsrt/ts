@@ -56,6 +56,8 @@ block size limits. There’s a waiting because on a Mimblewimble Blockchain outp
 
 *sistemin madencilere sorduğu bulmacanın zorluk derecesini bitcoin iki haftada bir ayarlıyor. Bu zorluk ayarlamasını yaparken bulmacanın çözülme hızına bakıyor ve hızlı yani 10 dakikadan çabuk çözülüyor ise zorlaştırıyor eğer 10 dakikadan uzun sürüyor ise kolaylaştırıyor. Grin bu zorluk ayarlamasını çok daha hızlı bir şekilde yapacak. Aynı Bitcoin sonrası çıkan başka pekçok Blockchain sisteminin yaptığı gibi
 
+*bitcoin 10 dakikada bir blokları toplar iken Grin dakikada bir kere blok toplayacak
+
 
 
 -- mible-wimble
