@@ -52,6 +52,8 @@ if putting transaction data amounts and hiding your private key into a form whic
 *block size will be limited to improve efficiency. If you create anything that fills up the block you will be penalized (pay higher fees)
 block size limits. There’s a waiting because on a Mimblewimble Blockchain outputs can be destroyed, which actually reduces the … When you send and output and spend it off, it reduces the size of the chain, basically. The amount of data that has to be sent around. So transactions are weighted in a certain way that if you’re creating a lot of outputs, you’re penalized. If you destroy a lot of outputs, you’re not penalized as much. Your fees are lower, we have a soft limit and a hard limit. We’re actually still in the middle of adjusting a little bit, but yes, we do have limits.
 
+*teknik olarak tüm blockchain datasını (GB'lar süren) yüklemek yerine fast sink denen bir metod ile sisteme giren yeni bir kullanıcı (düğüm-node) son 2000 blok'u sync ederek, dakikalar içinde sistemi kullanabilir hale geliyor
+
 -- mible-wimble
 --- all the developers are harry potter subjects (fans)
 ---
