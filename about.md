@@ -45,6 +45,7 @@ Dağıtık (merkezi olmayan, adem-i merkezi) her tür teknoloji ve finans dünya
   &nbsp;
 - Daha pekçok yeni teknolojiye altyapı sağlayan Ethereum'u merak ediyorsanız
   - Ethereum'um tarihi için [Dünyanın en büyük bilgisayarı: Ethereum'un hikayesi](https://ademimerkezi.com/genel/2018/06/14/dunyanin-en-buyuk-bilgisayari-ethereumun-hikayesi.html)
+  - 2017-18 yıllarında yaşananlar için [Ethereum'un çıkış ve inişi bir döngünün mü parçası?](https://ademimerkezi.com/genel/2019/01/18/Ethereumun-cikis-ve-inisi-bir-dongunun-mu-parcasi.html)
   - En temel taşı olan Akıllı Kontratlar'ı anlamak için [Bu kontratlar çok akıllı: Ethereum ve Akıllı Kontratlar](https://ademimerkezi.com/genel/2018/06/29/bu-kontratlar-cok-akilli-ethereum-ve-akilli-kontratlar.html)
 
 &nbsp;
