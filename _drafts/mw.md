@@ -59,8 +59,11 @@ block size limits. There’s a waiting because on a Mimblewimble Blockchain outp
 *bitcoin 10 dakikada bir blokları toplar iken Grin dakikada bir kere blok toplayacak
 
 *bitcoin her bir 10 dakikada 12.5 BTC verirken Grin her bir dakikada 60 grin verecek. Bitcoin yaklaşık dört yılda bir 10 dakikada bir verdiği ödülü yarıya düşürürken, Grin'de böyle bir sistem yok. Sistem sonsuza kadar dakika 60 Grin vermeye devam edecek
+* neden böyle bir (steady supply) durumu var?
+*1. bitcoin'in deflationary özelliği nedeniyle para ödeme aracı değil değer saklama aracı olarak kullanıldığı düşünülüyor. Grin sürekli olarak bir supply yaratarak ödeme aracı olarak kullanılmak istiyor
+*2. bitcoin örneğinde ilk madenciler sonrasındaki ciddi değer yükselmesinden dolayı inanılmaz paralar kazandılar (satoshinin kullanmasa bile 1 milyon BTC'si olduğu biliniyor - CHECK!!!!). Grin, daha "adil" bir dağıtım süreci öngörüyor
+*3. 
 
-*
 
 
 
