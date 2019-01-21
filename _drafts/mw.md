@@ -13,7 +13,9 @@
 -- Şimdiden erken bir projede yer alıp "voliyi vurmak"?
 - Fair launch https://twitter.com/lopp/status/1085885684404019200
 https://twitter.com/nic__carter/status/1085886693872492545
-- in terms of scaling?.
+- in terms of scaling?
+- aynı lightning ya da liquid'de olduğu gibi bitcoin'in yavaş hareket etmesi mi?
+-- çünkü bitcoin en popüler para olarak yavaş hareket etmek zorunda, muhafazakar bir yapısı var
 - bitcoin maximalists, interested
 -- completely decentralized project (as opposed to ICO)
 -- technology interesting
@@ -36,6 +38,7 @@ Felsefi olarak bakıldığında
 -- yaratıcılarından kimsenin tanınmadığı, bilinmediği (proje lideri bilinmiyor)
 -- kendi aralarında yaptıkları konferansta bütün yazılımcılarını bir araya getirirken proje lideri ortada yok ve kesinlikle çıkmak istemiyor, onlar da adamı text-to-speech şeklinde çıkarıyorlar (adam sorulara karşı cevap yazıyor, ve bir cihaz okuyor)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k6tCnw6shgQ?start=107" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- funding olarak crowdfunding modeli kullanan bir yapı
 
 
 -- para yaratım sürecinin bile dağıtık ve adil yapmaya çalışan
@@ -54,6 +57,13 @@ Ekip önündeki en kritik konulardan biri
 - Ya da privacy'den ödün vermeden daha küçük ölçekli bir para olarak kalacak
 - Kendilerinin söylediği blockchain'in kendisi privacy özelliğine sahip olacak ve isteyen buradan kullanacak
 - Ama üzerine inşa edilecek olan ikinci seviye katmanlar ile KYC/AML gibi hükümetleri ilgilendiren konularda onları tatmin edecek çözümler yaratılabilir
+
+Diğer bir eleştiri kaynağı ise para politikası
+- Neden satoshi'nin yaptığı gibi belli ve biten enflasyon yaratmayan bir para kurmuyorsunuz diyenler var. 
+- zira yatırım olarak bakıldığında Bitcoin'in değer atfedilmesi ve değerlenmesini sağlayan etmenlerden biri scarcity- yani arzının kısıtlı olması
+- insanlar benzer şekilde Grin'e erken girmek ve az iken çok alıp sonrasında azalınca değerlenmesini istiyorlar
+- Grin buna izin vermeyecek gibi görünüyor
+
 
 - Diğer
 
