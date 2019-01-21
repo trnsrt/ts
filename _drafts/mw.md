@@ -1,4 +1,12 @@
 
+Teknik olmayan (felsefi, ekonomik konular)
+
+Nereden çıktı bu MimbleWimble?
+
+
+
+
+
 
 
 Çıkış amaçları
@@ -6,7 +14,8 @@
 - isim Harry Potter romanlarında
 - çıkaran kişi Tommy Elvis Jedusor da Harry Potter kahramanlarından birinin Woldermore'un isminin Fransızca hali 
 - çıkışı bir gün (Ağustos 2016'da) bir kanala Tommy Elvis adında bir gizli kullanıcının bıraktığı bir white paper
-- 
+- Grin de aynı şekilde bir Harry Potter hikayesi olan Gringott's wizarding bank
+- proje lideri İgnotus Peverell cloak of invisibility'i yaratan kişi 
 
 Gizlilik ve scale edilme blockchain üzerinde olunca birbiri ile çelişiyor. Neden?
 - Çünkü gizlilik çok fazla kriptograhy gerektiriyor ve bu kadar çok kriptografi blockchain üzerindeki yükü artırarak blockchain'in scale edilmesini zorlaştırıyor
@@ -76,6 +85,14 @@ Diğer bir eleştiri kaynağı ise para politikası
 - Diğer
 
 Grin yaklaşık bir buçuk iki yıldır geliştirme halinde
+
+Teknik olarak Rust dili ile yazılıyor - scalability ve speed konusunda ihtisaslaşmış bir dil 
+Bitcoin gibi Proof-of-Work var (adı Cuckoo Cycle) 
+ASIC mining için resistant ama başlarda, ileride böyle bir resistans kalmayacak
+Aynı zamanda grin içindeki işlemlere için kurulan hashing mekanizması quantum resistance olacak şekilde planlanıyor
+
+Scriptng mekanizması içine kurulmadığı için data vs göndermek için kullanılmak yerine sadece para göndermek için kullanılacak bir sistem olacak gibi görünüyor (daha kompleks konular üstüne kurulacak ikinci seviye katmanlar ile yapılabilir gibi görünüyor). 
+
 
 Bitcoin'de adresler belli olduğu için para nereden geldi, nereye gitti bilindiği için kullanıcıları bir şekilde takip etmek ya da paranın izini sürmek mümkün oluyor idi. Çünkü Bitcoin'de bir işlem yaptığınızda bunu Bitcoin ağındaki bir makineye (düğüm-node) gönderiyorsunuz o da tüm sisteme yayıyor. Buradan da paranın izini sürülebilir oluyor. Burada öyle değil. 
 Privacy olarak çözümü dandelion adı verilen bir protokol kullanıyor. Dandelion kara hindiba çiçeği demek. MW'de siz sisteme bir işlem gönderdiğinizde bunu alan makine rastgele bir başka makineye gönderiyor, o bir başkasına ve böyle böyle ilk gönderen makinanın izinin sürülemeyeceği bir "bozma (fluff)" sürecinden geçiliyor. 
