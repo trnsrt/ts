@@ -25,6 +25,22 @@ how the whitepaper came about?
 - mible-wimble a new blockchain
 - another developer (harry potter character) said he is working on grin
 
+Felsefi olarak bakıldığında
+- Açık kaynak olduğu için proje başladı ama iki farklı koldan ilerliyor, ilginç iki yaklaşım görmek mümkün
+- Biri 
+-- yatırım alan
+-- kendisine founders money ayıran
+-- daha organize 
+- Diğeri cypherpunk, daha anarşist
+-- kimseye hesap vermek zorunda hissetmeyen
+-- yaratıcılarından kimsenin tanınmadığı, bilinmediği
+-- para yaratım sürecinin bile dağıtık ve adil yapmaya çalışan
+- Muhtemelen biri çok daha hızlı gelişecek
+-- Yatırımcılar var, beklentileri var, onların karşılanması lazım,
+-- Dedike bir ekip var, bu ekip süreci olabildiğince sürükleyecek
+
+- Diğer
+
 Grin yaklaşık bir buçuk iki yıldır geliştirme halinde
 
 Bitcoin'de adresler belli olduğu için para nereden geldi, nereye gitti bilindiği için kullanıcıları bir şekilde takip etmek ya da paranın izini sürmek mümkün oluyor idi. Çünkü Bitcoin'de bir işlem yaptığınızda bunu Bitcoin ağındaki bir makineye (düğüm-node) gönderiyorsunuz o da tüm sisteme yayıyor. Buradan da paranın izini sürülebilir oluyor. Burada öyle değil. 
