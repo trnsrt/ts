@@ -33,7 +33,11 @@ Felsefi olarak bakıldığında
 -- daha organize 
 - Diğeri cypherpunk, daha anarşist
 -- kimseye hesap vermek zorunda hissetmeyen
--- yaratıcılarından kimsenin tanınmadığı, bilinmediği
+-- yaratıcılarından kimsenin tanınmadığı, bilinmediği (proje lideri bilinmiyor)
+-- kendi aralarında yaptıkları konferansta bütün yazılımcılarını bir araya getirirken proje lideri ortada yok ve kesinlikle çıkmak istemiyor, onlar da adamı text-to-speech şeklinde çıkarıyorlar (adam sorulara karşı cevap yazıyor, ve bir cihaz okuyor)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k6tCnw6shgQ?start=107" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 -- para yaratım sürecinin bile dağıtık ve adil yapmaya çalışan
 -- "teknik olarak exchange'ler ile kaynak yapacağız ama kimseye karşı bir zorunluluğumuz yok" diyebiliyorlar,
 -- Aslında bir nevi FU şeklinde bir attitude'ları var
@@ -48,6 +52,8 @@ Ekip önündeki en kritik konulardan biri
 - Ama Grin özünde privacy özelliğini ön planda tutuyor, iki konu birbiri ile çelişiyor
 - Ya privacy'den ödün verip KYC/AML ile geniş kitlelere yayılacak
 - Ya da privacy'den ödün vermeden daha küçük ölçekli bir para olarak kalacak
+- Kendilerinin söylediği blockchain'in kendisi privacy özelliğine sahip olacak ve isteyen buradan kullanacak
+- Ama üzerine inşa edilecek olan ikinci seviye katmanlar ile KYC/AML gibi hükümetleri ilgilendiren konularda onları tatmin edecek çözümler yaratılabilir
 
 - Diğer
 
