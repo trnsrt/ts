@@ -35,9 +35,19 @@ Felsefi olarak bakıldığında
 -- kimseye hesap vermek zorunda hissetmeyen
 -- yaratıcılarından kimsenin tanınmadığı, bilinmediği
 -- para yaratım sürecinin bile dağıtık ve adil yapmaya çalışan
+-- "teknik olarak exchange'ler ile kaynak yapacağız ama kimseye karşı bir zorunluluğumuz yok" diyebiliyorlar,
+-- Aslında bir nevi FU şeklinde bir attitude'ları var
 - Muhtemelen biri çok daha hızlı gelişecek
 -- Yatırımcılar var, beklentileri var, onların karşılanması lazım,
 -- Dedike bir ekip var, bu ekip süreci olabildiğince sürükleyecek
+
+Ekip önündeki en kritik konulardan biri
+- KYC/AML prosedürleri çok önemli hale gelmeye başladı
+- Otoriteler özellikle exchange'leri bu konuda sorumlu tutuyorlar zira exchange'ler bu dünyaya ana giriş kapıları
+- Geniş kesimlerin adaptasyonu için bu tip prosedürler gerekli olabilir
+- Ama Grin özünde privacy özelliğini ön planda tutuyor, iki konu birbiri ile çelişiyor
+- Ya privacy'den ödün verip KYC/AML ile geniş kitlelere yayılacak
+- Ya da privacy'den ödün vermeden daha küçük ölçekli bir para olarak kalacak
 
 - Diğer
 
