@@ -1,7 +1,15 @@
 
 
 
+Çıkış amaçları
+- MimbleWimble - scale edilebilir ve gizli bir blockhain yaratmak
+- isim Harry Potter romanlarında
+- çıkaran kişi Tommy Elvis Jedusor da Harry Potter kahramanlarından birinin Woldermore'un isminin Fransızca hali 
+- çıkışı bir gün (Ağustos 2016'da) bir kanala Tommy Elvis adında bir gizli kullanıcının bıraktığı bir white paper
+- 
 
+Gizlilik ve scale edilme blockchain üzerinde olunca birbiri ile çelişiyor. Neden?
+- Çünkü gizlilik çok fazla kriptograhy gerektiriyor ve bu kadar çok kriptografi blockchain üzerindeki yükü artırarak blockchain'in scale edilmesini zorlaştırıyor
 
 - mible-wimble https://www.theblockcrypto.com/2019/01/08/mimblewimble-history-technology-and-the-mining-industry/
 - Grin, Beam
