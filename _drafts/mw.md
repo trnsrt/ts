@@ -6,16 +6,20 @@ Konuyu basitleştirmek için iki parçaya ayıracağız. Bu yazıda başlangıç
 
 MibleWimble 2016 Ağustos ayında kriptoparalar üzerine uğraşan yazılımcıların kendi aralarında yazıştıkları chat ortamına birden bire Tom Elvis Jedusor rumuzlu biri tarafından bırakılan bir tanıtım yazısı ile (White Paper) çıktı. 
 
+
+![mimblewimble__400.png](/assets/mimblewimble__400.png)
+
+
 Tom Elvis Jedusor, o yazıyı bıraktıktan sonra kayıplara karıştı. Chat ortamındaki diğer yazılımcılar White Paper'ı incelediler,  bahsedilenlerin gerçekliğini, kripto olarak sağlamlığını test ettiler ve gerçekten yeni bir 'olay' ile karşılaştıklarını anladılar. 2016 yılının sonuna doğru Ignotus Peverell rumuzlu bir başka kullanıcı projenin liderliğini ele aldı ve o günden sonra gittikçe büyüyen bir yazılımcı ordusu etrafında MimbleWimble büyümeye ve gelişmeye başladı. En son 2019 yılının 15 Ocak tarihinde artık perdelerini dünyaya açar hale geldi MimbleWimble'in ilk uygulaması olan Grin.
 
 ### Ne garip isimler bunlar?
-Gerçekten değil mi? Yukarıdaki paragrafta ismi geçen şahışların hiçbiri gerçek değil. Ama hepsinin bir ortak özelliği var. O da Harry Potter! Gelin kim kimdir bakalım: 3
+Gerçekten değil mi? Yukarıdaki paragrafta ismi geçen şahışların hiçbiri gerçek değil. Ama hepsinin bir ortak özelliği var. O da Harry Potter! Gelin kim kimdir bakalım:
 
-*MimbleWimble*: Yeni teknolojinin altyapısı olan protokolün adı. Harry Potter serisinde geçen bir büyü. Büyü yapılan kişinin herhangi bir konu hakkında konuşmasını engellemek için dilini bağlıyor. 
-*Tommy Elvis Jedusor*: MimbleWimble'in kurucusu. Harry Potter'daki kötü karakter Voldemort'un Fransızca'daki adı. 
-*Ignotus Peverell*: MimbleWimble üzerine kurulan Grin projesinin lideri. Hary Potter'daki görünmezlik pelerinini üreten büyücü.
-*Luna Lovegood, Seamus Finnigan, Percy Weasley*: Grin projesindeki diğer kullanıcı isimleri. Hepsi Harry Potter ailesinden
-*Grin*: MimbleWimble üzerine kurulu en tanınmış uygulama (detaylar aşağıda). Yine Harry Potter öykülerinden birindeki Gringott's büyücülük bankasının adı.
+- *MimbleWimble*: Yeni teknolojinin altyapısı olan protokolün adı. Harry Potter serisinde geçen bir büyü. Büyü yapılan kişinin herhangi bir konu hakkında konuşmasını engellemek için dilini bağlıyor. 
+- *Tommy Elvis Jedusor*: MimbleWimble'in kurucusu. Harry Potter'daki kötü karakter Voldemort'un Fransızca'daki adı. 
+- *Ignotus Peverell*: MimbleWimble üzerine kurulan Grin projesinin lideri. Hary Potter'daki görünmezlik pelerinini üreten büyücü.
+- *Luna Lovegood, Seamus Finnigan, Percy Weasley*: Grin projesindeki diğer kullanıcı isimleri. Hepsi Harry Potter ailesinden
+- *Grin*: MimbleWimble üzerine kurulu en tanınmış uygulama (detaylar aşağıda). Yine Harry Potter öykülerinden birindeki Gringott's büyücülük bankasının adı.
 
 ### Nedir özünde MimbleWimble?
 MimbleWimble özünde Bitcoin'in yaşadığı iki ana sıkıntıyı aşmak için yaratıldı: Gizlilik ve hantallık. 
