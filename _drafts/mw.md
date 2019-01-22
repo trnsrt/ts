@@ -16,6 +16,7 @@ Tom Elvis Jedusor, o yazıyı bıraktıktan sonra kayıplara karıştı. Chat or
 Gerçekten değil mi? Yukarıdaki paragrafta ismi geçen şahışların hiçbiri gerçek değil. Ama hepsinin bir ortak özelliği var. O da Harry Potter! Gelin kim kimdir bakalım:
 
 - *MimbleWimble*: Yeni teknolojinin altyapısı olan protokolün adı. Harry Potter serisinde geçen bir büyü. Büyü yapılan kişinin herhangi bir konu hakkında konuşmasını engellemek için dilini bağlıyor. 
+![Lordvoldemort-wikipedia.jpg](/assets/Lordvoldemort-wikipedia.jpg)
 - *Tommy Elvis Jedusor*: MimbleWimble'in kurucusu. Harry Potter'daki kötü karakter Voldemort'un Fransızca'daki adı. 
 - *Ignotus Peverell*: MimbleWimble üzerine kurulan Grin projesinin lideri. Hary Potter'daki görünmezlik pelerinini üreten büyücü.
 - *Luna Lovegood, Seamus Finnigan, Percy Weasley*: Grin projesindeki diğer kullanıcı isimleri. Hepsi Harry Potter ailesinden
