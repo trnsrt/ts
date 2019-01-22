@@ -16,11 +16,17 @@ Tom Elvis Jedusor, o yazıyı bıraktıktan sonra kayıplara karıştı. Chat or
 Gerçekten değil mi? Yukarıdaki paragrafta ismi geçen şahışların hiçbiri gerçek değil. Ama hepsinin bir ortak özelliği var. O da Harry Potter! Gelin kim kimdir bakalım:
 
 - *MimbleWimble*: Yeni teknolojinin altyapısı olan protokolün adı. Harry Potter serisinde geçen bir büyü. Büyü yapılan kişinin herhangi bir konu hakkında konuşmasını engellemek için dilini bağlıyor. 
-![Lordvoldemort-wikipedia.jpg](/assets/Lordvoldemort-wikipedia.jpg)
+
 - *Tommy Elvis Jedusor*: MimbleWimble'in kurucusu. Harry Potter'daki kötü karakter Voldemort'un Fransızca'daki adı. 
+![Lordvoldemort-wikipedia.jpg](/assets/Lordvoldemort-wikipedia.jpg)
+
 - *Ignotus Peverell*: MimbleWimble üzerine kurulan Grin projesinin lideri. Hary Potter'daki görünmezlik pelerinini üreten büyücü.
+'[ingotuspeverelaminoappscom-400.jpg](ingotuspeverelaminoappscom-400.jpg)
+
 - *Luna Lovegood, Seamus Finnigan, Percy Weasley*: Grin projesindeki diğer kullanıcı isimleri. Hepsi Harry Potter ailesinden
+
 - *Grin*: MimbleWimble üzerine kurulu en tanınmış uygulama (detaylar aşağıda). Yine Harry Potter öykülerinden birindeki Gringott's büyücülük bankasının adı.
+![grin-400.png](grin-400.png)
 
 ### Nedir özünde MimbleWimble?
 MimbleWimble özünde Bitcoin'in yaşadığı iki ana sıkıntıyı aşmak için yaratıldı: Gizlilik ve hantallık. 
