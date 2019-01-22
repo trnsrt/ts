@@ -49,13 +49,22 @@ MimbleWimble'in çıktığı ikinci proje olan Grin, Bitcoin'in başlangıcında
 
 Bunun yanında herhangi bir yatırım almadı, bundan sonra da sadece crowdfunding (kitlesel fonlama) ile yatırımcılarına herhangi bir taahhütte bulunmadan ilerlemeyi planlıyor. Bunu özellikle önemsiyorlar zira yatırım aldıklarında aslında gerçekten odaklanmaları gereken gizlilik ve kullanılabilirlik yerine yatırımcıya vaad ettiklerini gerçekleştirmek için  değer artırıcı konulara zaman ayırmak zorunda olmaktan korkuyorlar. Zaten ne bir ofisleri var ne de bir organizasyonu, aynı Bitcoin'in ilk günlerindeki gibiler. 
 
+Grin yaratıcıları, Bitcoin'in para saklama aracı olarak piyasanın ağır ağabeyi olarak hakimiyetini sürdüreceğini, kendi paraları olan Grin'in ise para ödeme aracı olarak kullanıcılara pratik ve tam gizlilik sağlayan bir mekanizma kuracağı düşünüyorlar. Bunu gerçekleştirebilmek için de Bitcoin gibi deflasyona (giderek azalan) bir para yaratım politikası yerine, enflasyonist (sürekli artan) bir para yaratım politikası sürdüreceklerini açıklıyorlar. 
+
 ### Neden popüler oldu bu kadar?
 
+Özellikle Grin'in şu an en büyük 'hype' olarak nitelendirilmesinin en önemli nedeni yukarıda da bahsetmeye çalıştığımız cypherpunk köklere sahip olması. Zira cypherpunk'lar bireyin özgürlüğünü ve devlet benzeri otoritelere karşı bağımsızlığını savunurken, bunu bir organizasyon altında yapmaları durumunda otoritelerin uygulayacakları baskılar ile organizyonları ezeceği, kişileri ise hapis de dahil türlü yaptırımlar ile yıldıracağından korkuyorlar. Yani kişilerin gizliliğini ve bağımsızlığını savunmak için kendilerinin de gizli olması gerektiğini savunuyorlar. Bu nedenle Satoshi ismini gizli tuttu, Wikileaks aracılığıyla Bitcoin ortaya çıktığı anda sırra kadem bastı. 
 
+Bu köklere sahip bir oluşum olarak tipik bir kripto para gibi kurucu ekibin kendine baştan bir pay ayırmaması onları kripto camiası içinde saygın bir yere koyuyor. 
 
+Bunun yanında Bitcoin'in başlangıcındaki hızlı gelişimi ve fırsatı kaçıran ciddi bir kesim de, şimdi yeni çıkan bu oluşuma erken katılarak oluşacak fırsatlardan olabildiğince çabuk faydalanma peşinde - ama bu kesimin bir sonraki kısmı okumasında fayda var. 
+
+Ama sadece cypherpunk topluluğu değil Grin'i popüler yapan. Her ne kadar dışarıdan yatırım almasa da girişim sermayeleri bir şekilde projeye destek oluyorlar. Nasıl mı? Bir önceki yazımızda bahsettiğimiz değişen yatırımcılık kapsamında. Grin 15 Ocak itibari ile çalışmaya başladı ve işlemler karşılığı madencilere para yaratma hakkı verdi. İşte pek çok girişim sermayesi de şu anda para harcayıp makine satın alarak ve enerji harcayarak madencilik yapıyor. Amaçları Grin parasına rekabet artmadan erkenden sahip olabilmek.  
 
 ### Neleri eleştiriliyor?
+Grin ile ilgili eleştirilerin ana odak noktası, aslında kendilerinin övünç duydukları konulardan yatırım almamaları. Yatırım almamaları nedeniyle kendilerini baskı altında hissetmeyeceklerini ve bunun da koydukları hedefleri zamanında gerçekleştirmek için kendilerini zorlamayacaklarını düşünüyor bazıları. 
 
+Bunun dışında eleştirilen konulardan biri de ekonomik: Grin'in ekonomi politikası. Bitcoin'in fiyatının artmasındaki en önemli konulardan biri zamanla yaratılan Bitcoin'in azalması ancak kullanırlığının artacağının düşünülmesi. Grin'in miktarının sürekli artacak olması onu Bitcoin benzeri spekülatif bir değer artışına sürüklemeyebilir. Grin'in buna yanıtı şu: Bitcoin'in başlangıcında yaratılan para, hasbelkader işi başında yakalayanlara inanılmaz kazançlar sağladı, yaratılan değer ufak bir azınlığın elinde kaldı. Biz bu yaratılacak değeri daha geniş bir kitleye dağıtmak için daha egaliter bir yapı öngörüyoruz. 
 
 ### Sonuç
 
