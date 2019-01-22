@@ -59,14 +59,35 @@ Bu köklere sahip bir oluşum olarak tipik bir kripto para gibi kurucu ekibin ke
 
 Bunun yanında Bitcoin'in başlangıcındaki hızlı gelişimi ve fırsatı kaçıran ciddi bir kesim de, şimdi yeni çıkan bu oluşuma erken katılarak oluşacak fırsatlardan olabildiğince çabuk faydalanma peşinde - ama bu kesimin bir sonraki kısmı okumasında fayda var. 
 
-Ama sadece cypherpunk topluluğu değil Grin'i popüler yapan. Her ne kadar dışarıdan yatırım almasa da girişim sermayeleri bir şekilde projeye destek oluyorlar. Nasıl mı? Bir önceki yazımızda bahsettiğimiz değişen yatırımcılık kapsamında. Grin 15 Ocak itibari ile çalışmaya başladı ve işlemler karşılığı madencilere para yaratma hakkı verdi. İşte pek çok girişim sermayesi de şu anda para harcayıp makine satın alarak ve enerji harcayarak madencilik yapıyor. Amaçları Grin parasına rekabet artmadan erkenden sahip olabilmek.  
+Ama sadece cypherpunk topluluğu değil Grin'i popüler yapan. Her ne kadar dışarıdan yatırım almasa da girişim sermayeleri bir şekilde projeye destek oluyorlar. Nasıl mı? Bir önceki yazımızda bahsettiğimiz değişen yatırımcılık kapsamında. Grin 15 Ocak itibari ile çalışmaya başladı ve işlemler karşılığı madencilere para yaratma hakkı verdi. İşte pek çok girişim sermayesi de şu anda para harcayıp makine satın alarak ve enerji harcayarak madencilik yapıyor. Amaçları Grin parasına rekabet artmadan erkenden sahip olabilmek.
+
 
 ### Neleri eleştiriliyor?
 Grin ile ilgili eleştirilerin ana odak noktası, aslında kendilerinin övünç duydukları konulardan yatırım almamaları. Yatırım almamaları nedeniyle kendilerini baskı altında hissetmeyeceklerini ve bunun da koydukları hedefleri zamanında gerçekleştirmek için kendilerini zorlamayacaklarını düşünüyor bazıları. 
 
 Bunun dışında eleştirilen konulardan biri de ekonomik: Grin'in ekonomi politikası. Bitcoin'in fiyatının artmasındaki en önemli konulardan biri zamanla yaratılan Bitcoin'in azalması ancak kullanırlığının artacağının düşünülmesi. Grin'in miktarının sürekli artacak olması onu Bitcoin benzeri spekülatif bir değer artışına sürüklemeyebilir. Grin'in buna yanıtı şu: Bitcoin'in başlangıcında yaratılan para, hasbelkader işi başında yakalayanlara inanılmaz kazançlar sağladı, yaratılan değer ufak bir azınlığın elinde kaldı. Biz bu yaratılacak değeri daha geniş bir kitleye dağıtmak için daha egaliter bir yapı öngörüyoruz. 
 
+Ancak burada akla gelen soru işaretlerinden biri de gizlilik ile geniş kitleler tarafından adaptasyon arasındaki çelişki. Biliyorsunuz özellikle KriptoPara borsaları bu dünyaya adım atmanın en temel yollarından biri. Ancak merkezi çalışan KriptoPara borsaları otoritelerin denetimi altında olduğu için müşterilerinin gerçek bilinen kişiler olduğunu sıkı takip etmek zorundalar (AML/KYC prosedürleri ile). Grin gibi tam gizli olduğunu iddia eden bir para bu borsalarda nasıl işlem görecek? İşlem gördüğü durumda gizlilikten ödün vermiş olacak mı? Ya da hiçbir ödün vermeyecek ve geniş kitleler tarafından adapte edilmeyen sadece baskı altındaki rejimlerde yaşayanlar tarafından kullanılan ufak (niş) bir para olarak mı kalacak? Grin yaratıcıları aynı Bitcoin üzerine inşaa edilen Lightning Network gibi ikinci katman uygulamaların benzerlerinin Grin üzerine kurulabileceğini ve isteyenin bu uygulamalar ile kriptoparalar üzerinde işlem yapabileceğin iddia ediyorlar. Gizlilik ile geniş kitle adaptasyonu bir arada nasıl yürüecek göreceğiz. 
+
+
 ### Sonuç
+KriptoPara dünyasında her gün değişik projeler ortaya çıkıyor. Her ne kadar ICO piyasalarının geçtiğimiz yılın ikinci yarısından bu yana popülerliğinin azalmış olması bu alana kısmı ilgisi olan bir kısım kitlenin hevesini kırmış olsa da, bu alanda çalışan girişimciler üzerinde çalıştıkları projeleri yavaş yavaş ayağa kaldırmaya devam ediyorlar. MimbleWimble ve özellikle Grin, bu alanda Bitcoin'in eksik olduğu düşünülen gizlilik alanında devrim yaratacağını düşünen Monero, Dash, Zcash benzeri yeni bir para. Ancak kimi teknik özellikleri ve kuruluş felsefesi onu diğer paralardan ayırıyor. 
+
+Gizlilik ve geniş kitleler tarafından adaptasyon aslı
+
+
+
+
+
+
+
+
+
+Bunun yanında, bir kısım Bitcoin geliştiricisinin yarın öbür gün Bitcoin'in başına bir 'şey' gelmesi (teknik konular vb) halinde kendilerine bir B planı aradığının ve Grin'in de bu alana önemli bir aday olduğunu düşündüklerini de belirtelim. 
+
+Grin'i Bitcoin geliştiricileri arasında popüler olmasının bir nedeni de Bitcoin'in artık genel kabul gören ciddi bir yapı olması nedeniyle üzerine yapılan değişikliklerin çok yavaş olması. Grin o anlamda bir nevi Lightningn Network gibi hızlı gelişime imkan veren bir yapı içinde. 
+
+
 
 
 
