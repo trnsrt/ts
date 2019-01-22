@@ -14,7 +14,8 @@ Gerçekten değil mi? Yukarıdaki paragrafta ismi geçen şahışların hiçbiri
 *MimbleWimble*: Yeni teknolojinin altyapısı olan protokolün adı. Harry Potter serisinde geçen bir büyü. Büyü yapılan kişinin herhangi bir konu hakkında konuşmasını engellemek için dilini bağlıyor. 
 *Tommy Elvis Jedusor*: MimbleWimble'in kurucusu. Harry Potter'daki kötü karakter Voldemort'un Fransızca'daki adı. 
 *Ignotus Peverell*: MimbleWimble üzerine kurulan Grin projesinin lideri. Hary Potter'daki görünmezlik pelerinini üreten büyücü.
-*Luna Lovegood, Seamus Finnigan, Percy Weasley*: Grin projesindeki diğer kullanıcı isimleri. Hepsi Harry Potter ailesinden. 
+*Luna Lovegood, Seamus Finnigan, Percy Weasley*: Grin projesindeki diğer kullanıcı isimleri. Hepsi Harry Potter ailesinden
+*Grin*: MimbleWimble üzerine kurulu en tanınmış uygulama (detaylar aşağıda). Yine Harry Potter öykülerinden birindeki Gringott's büyücülük bankasının adı.
 
 ### Nedir özünde MimbleWimble?
 MimbleWimble özünde Bitcoin'in yaşadığı iki ana sıkıntıyı aşmak için yaratıldı: Gizlilik ve hantallık. 
@@ -97,18 +98,24 @@ Mimblewimble da ise öyle değil. Burada gizlilik çözümü olarak dandelion ad
 
 #### Basitlik/Hafiflik
 
-*teknik olarak tüm blockchain datasını (GB'lar süren) yüklemek yerine fast sink denen bir metod ile sisteme giren yeni bir kullanıcı (düğüm-node) son 2000 blok'u sync ederek, dakikalar içinde sistemi kullanabilir hale geliyor
+Bitcoin sisteminin teknik olarak sıkıntılarından biri sistem içindeki makinelerin (node-düğüm) işlemleri teyid etmek için kendi içlerinde tüm blockchain sistemini tutuyor olmaları. Bu data şu anda [200 GB](https://www.blockchain.com/en/charts/blocks-size) civarında ve giderek artıyor. Herhangi bir bilgisayarın sistemi girmesi için bu datayı yüklemesi oldukça uzun bir zaman. 
 
-*sistemin madencilere sorduğu bulmacanın zorluk derecesini bitcoin iki haftada bir ayarlıyor. Bu zorluk ayarlamasını yaparken bulmacanın çözülme hızına bakıyor ve hızlı yani 10 dakikadan çabuk çözülüyor ise zorlaştırıyor eğer 10 dakikadan uzun sürüyor ise kolaylaştırıyor. Grin bu zorluk ayarlamasını çok daha hızlı bir şekilde yapacak. Aynı Bitcoin sonrası çıkan başka pekçok Blockchain sisteminin yaptığı gibi
+Grin sisteminde, bir bilgisayar tüm bu datayı tutmak yerine fast sink denen bir metod ile son 2000 bloğu güncelleme (sync) yaparak dakikalar içinde sistemi kullanabilir hale geliyor. 
 
-*bitcoin 10 dakikada bir blokları toplar iken Grin dakikada bir kere blok toplayacak
+#### Diğer konular
 
-*bitcoin her bir 10 dakikada 12.5 BTC verirken Grin her bir dakikada 60 grin verecek. Bitcoin yaklaşık dört yılda bir 10 dakikada bir verdiği ödülü yarıya düşürürken, Grin'de böyle bir sistem yok. Sistem sonsuza kadar dakika 60 Grin vermeye devam edecek
-* neden böyle bir (steady supply) durumu var?
-*1. bitcoin'in deflationary özelliği nedeniyle para ödeme aracı değil değer saklama aracı olarak kullanıldığı düşünülüyor. Grin sürekli olarak bir supply yaratarak ödeme aracı olarak kullanılmak istiyor
-*2. bitcoin örneğinde ilk madenciler sonrasındaki ciddi değer yükselmesinden dolayı inanılmaz paralar kazandılar (satoshinin kullanmasa bile 1 milyon BTC'si olduğu biliniyor - CHECK!!!!). Grin, daha "adil" bir dağıtım süreci öngörüyor
-*3. 
+Bitcoin sistemi içindeki madencilere sorduğu soruların zorluk derecesini iki haftada bir ayarlıyor. Bu zorluk ayarlamasını yaparken bulmacanın çözülme hızına bakıyor ve hızlı yani 10 dakikadan çabuk çözülüyor ise zorlaştırıyor eğer 10 dakikadan uzun sürüyor ise kolaylaştırıyor. Grin bu zorluk ayarlamasını çok daha hızlı bir şekilde yapacak. Aynı Bitcoin sonrası çıkan başka pek çok Blockchain sisteminin yaptığı gibi 
 
+Bitcoin sisteminde işlemler 10 dakikada bir toplanıp blok oluşturulurken Grin'de bu dakikada bir olacak. Bitcoin şu anda 10 dakikalık blok oluşturma sonrası 12.5 BTC ödül verirken Grin dakikada bir 60 Grin verecek. Grin'de Bitcoin'de dört yılda bir yaşanan azalma da yok, dolayısı ile ileride eğer devam ederse piyasada bol miktarda Grin olacak. Neden böyle bir para politikası izliyor Grin?
+
+1. bitcoin'in deflationary özelliği nedeniyle para ödeme aracı değil değer saklama aracı olarak kullanıldığı düşünülüyor. Grin sürekli olarak bir supply yaratarak ödeme aracı olarak kullanılmak istiyor
+2. bitcoin örneğinde ilk madenciler sonrasındaki ciddi değer yükselmesinden dolayı inanılmaz paralar kazandılar (satoshinin kullanmasa bile 1 milyon BTC'si olduğu biliniyor - CHECK!!!!). Grin, daha "adil" bir dağıtım süreci öngörüyor
+
+Peki MimbleWimble bir protokol olarak Lightning Network gibi Bitcoin üzerine ikinci bir katman olarak uyarlanamaz mıydı? Ayrı bir paraya ihtiyaç var mıydı?
+
+Bunun yanında Grin'in Bitcoin'e göre önemli bir eksikliği içinde ayrı bilgi (Scripting) sağlamaya izin vermemesi. Bitcoin'i genelde para transferi için kullanıyoruz ama aslında herhangi bir dijital varlık ya da bilginin transferi için de kullanabiliriz. Bunu sağlayan içindeki Scripting mekanizması. Ancak bu fonksiyon aynı zamanda ekstra yük getirip blokların büyüklüğünün artmasına ve sisteme yük bindirmesine yol açıyor. 
+
+Grin bu tip Scripting mekanizması içermiyor. İşe yaradığı tek alan para transferi. Kendisini ödeme aracı olarak konumlandırdığı için daha hızlı olabilmek adına böyle bir farklılaşmaya gitmiş Grin yazılımcıları. 
 
 
 
@@ -122,44 +129,6 @@ Grin'i Bitcoin geliştiricileri arasında popüler olmasının bir nedeni de Bit
 
 
 
-
-Teknik olmayan (felsefi, ekonomik konular)
-
-Nereden çıktı bu MimbleWimble?
-
-MimbleWimble karakterleri (fotoğraflar ile)
-
-Neden bu kadar popüler oldu?
-Privacy
-Simplicity
-
-İki farklı MimbleWimble uygulaması var, farkları neler?
-
-Bitcoin'den farklı mı?
-
-Para politikası
-
-Neden yazılımcılar bu kadar rağbet ediyor?
-
-
-
-Teknik konular
-
-Kullandığı dil
-
-Bitcoin olamaz mıydı? Neden olmadı?
-Bitcoin ile benzerlikleri, farkları
-Proof-of-Work
-Scripting mekanizması
-Basitlik (neden?)
-
-Grin ile Beam farkları
-
-Cypherpunk felsefesine uyumluluk
-
-KYC/AML konuları
-
-Önündeki en büyük engeller
 
 
 
