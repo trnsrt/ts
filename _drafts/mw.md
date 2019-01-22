@@ -81,20 +81,26 @@ Teknik olarak MimbleWimble ve Grin'i diğerlerinden ayıran nedir diye merak ede
 Geçtiğimiz iki yazıda önce MimbleWimble denen Harry Potter dünyası karakterlerinin hakim olduğu ve gizlilik konusunda yeni bir çığır açan bir teknolojiden bahsetmiş, sonrasında da özellikle cypherpunk dünyasında heyecan yaratan MimbleWimble üzerine kurulu Grin parasına değinmiştik.  Bu iki yazıyı teknik altyapısı olmayanlara tavsiye edebiliriz. Eğer işin teknik olarak daha detayına girmek isterseniz, aşağıdaki yazı ilginizi çekebilir. 
 
 ### MimbleWimble ve Grin: Bitcoin'e benziyor mu, farkları neler?
-Evet, aslında MimbleWimble teknik  altyapı olarak Bitcoin'e benziyor. 
 
-Örneğin, aynı Bitcoin gibi uzlaşma mekanizması olarak makinelerin enerji kullanması prensibinden hareket eden Proof-of-Work mekanizmasını kullanıyor (PoW'yi anlatan detaylı yazımız [burada])
-
-Ayrıca dediğimiz gibi felsefi olarak Bitcoin'e şimdiye kadar en yakın görülen para (Bitcoin Cash, Bitcoin SV gibi paraları kayda değer bulmadığımız için görmezden geliyoruz). Bitcoin içindeki geliştirici kitlenin bir kısmı da bu projeye katkı veriyor. 
 
 #### Gizlilik
 
 Aslında MimbleWimble, Bitcoin'in üzerine kurulduğu teknolojiyi daha gizli hale getirmeye yarayan bir protokol. Ne kastediyoruz bakalım: 
-
-Bitcoin 
+ 
 Bitcoin'de adresler belli olduğu için para nereden geldi, nereye gitti biliniyor. Bu nedenle kullanıcıları bir şekilde takip etmek ya da paranın izini sürmek mümkün oluyor. Çünkü Bitcoin'de bir işlem yaptığınızda bunu Bitcoin ağındaki bir makineye (düğüm-node) gönderiyorsunuz o da tüm sisteme yayıyor. İlk gönderilen node'un biliniyor olması, sizin genelde bu node'u kullanmanız gibi teknik nedenler, aslında bu parayı izi sürülebilir bir hale getiriyor.  
 
 Mimblewimble da ise öyle değil. Burada gizlilik çözümü olarak dandelion adı verilen bir protokol kullanılıyor. (Dandelion kara hindiba çiçeği demek). MW'de siz sisteme bir işlem gönderdiğinizde bunu alan makine rastgele bir başka makineye gönderiyor, o bir başkasına ve böyle böyle ilk gönderen makinanın izinin sürülemeyeceği bir "bozma (fluff)" sürecinden geçiliyor. 
+
+Bunun yanında MimbleWimble'da ne kullanıcılar ne de işlemler görünmeyecek diyoruz. Bu nasıl gerçekleşecek? 
+Öncelikle sistemde paranın gidip geleceği hesaplar olmayacak. Bunun yerine cüzdanlar kullanılacak. 
+
+Normalde Bitcoin sisteminde hesaptan para 'input' olarak sisteme girer, input karşılığı da aynı miktarda output çıkardı (bu output'a UTXO denirdi). Sistemdeki makinalar çıkan bu UTXO'ları toplar ve değişmediğini gördüklerinde "tamam" derlerdi "sistemde çifte harcama yapılmamış" (şu [yazımızda] değinmiştik bu konuya)
+
+Grin sisteminde ise input yok, çünkü input yaratacak adresler kullanılmıyor. Bunun yerine sistemde sadece output yani UTXO var. 
+Sistem iki kullanıcının bir şekilde (on-line ya da off-line) kendi arasında ne tip bir işlem yapacağı konusunda iletişime geçip anlaşma yapması esasına dayanıyor. Yani Ayşe Bora'ya 100 Grin göndermek istiyorsa buna kendi aralarında karar verdikten sonra, kendi Özel Anahtarlarını kullanarak bir işlem yaratacaklar. Sonra bu yarattıkları işlemi sisteme girecekler. Dolayısıyla sistem sadece iki kullanıcının kendi arasında anlaşarak bir işlem gerçekleştirdiğini görecek. Bunun dışında kimin ne parası değişti o özel anahtarlar sayesinde cüzdan seviyesinde olacak, sistemi inceleyen herhangi birinin bunu görme şansı yok. 
+
+
+
 
 #### Basitlik/Hafiflik
 
@@ -102,22 +108,50 @@ Bitcoin sisteminin teknik olarak sıkıntılarından biri sistem içindeki makin
 
 Grin sisteminde, bir bilgisayar tüm bu datayı tutmak yerine fast sink denen bir metod ile son 2000 bloğu güncelleme (sync) yaparak dakikalar içinde sistemi kullanabilir hale geliyor. 
 
-#### Diğer konular
-
-Bitcoin sistemi içindeki madencilere sorduğu soruların zorluk derecesini iki haftada bir ayarlıyor. Bu zorluk ayarlamasını yaparken bulmacanın çözülme hızına bakıyor ve hızlı yani 10 dakikadan çabuk çözülüyor ise zorlaştırıyor eğer 10 dakikadan uzun sürüyor ise kolaylaştırıyor. Grin bu zorluk ayarlamasını çok daha hızlı bir şekilde yapacak. Aynı Bitcoin sonrası çıkan başka pek çok Blockchain sisteminin yaptığı gibi 
-
-Bitcoin sisteminde işlemler 10 dakikada bir toplanıp blok oluşturulurken Grin'de bu dakikada bir olacak. Bitcoin şu anda 10 dakikalık blok oluşturma sonrası 12.5 BTC ödül verirken Grin dakikada bir 60 Grin verecek. Grin'de Bitcoin'de dört yılda bir yaşanan azalma da yok, dolayısı ile ileride eğer devam ederse piyasada bol miktarda Grin olacak. Neden böyle bir para politikası izliyor Grin?
-
-1. bitcoin'in deflationary özelliği nedeniyle para ödeme aracı değil değer saklama aracı olarak kullanıldığı düşünülüyor. Grin sürekli olarak bir supply yaratarak ödeme aracı olarak kullanılmak istiyor
-2. bitcoin örneğinde ilk madenciler sonrasındaki ciddi değer yükselmesinden dolayı inanılmaz paralar kazandılar (satoshinin kullanmasa bile 1 milyon BTC'si olduğu biliniyor - CHECK!!!!). Grin, daha "adil" bir dağıtım süreci öngörüyor
-
-Peki MimbleWimble bir protokol olarak Lightning Network gibi Bitcoin üzerine ikinci bir katman olarak uyarlanamaz mıydı? Ayrı bir paraya ihtiyaç var mıydı?
+Gizlilik aslında ölçeklendirme ile çelişkili bir kavram. Neden? Çünkü ne kadar gizlilik isterseniz o kadar işin içine şifreleme mekanizmaları giriyor. Ne kadar şifreleme mekanizması koyarsanız sistem üzerinde saklayacağınız bilgiyi o kadar artırıyorsunuz. Bu da sistemin ağırlaşmasına neden oluyor. Özellikle sistemi büyütmek ve geniş kitlelere yaymak istediğinizde ölçeklendirme (scaling) problemi yaşar hale geliyorsunuz. 
 
 Bunun yanında Grin'in Bitcoin'e göre önemli bir eksikliği içinde ayrı bilgi (Scripting) sağlamaya izin vermemesi. Bitcoin'i genelde para transferi için kullanıyoruz ama aslında herhangi bir dijital varlık ya da bilginin transferi için de kullanabiliriz. Bunu sağlayan içindeki Scripting mekanizması. Ancak bu fonksiyon aynı zamanda ekstra yük getirip blokların büyüklüğünün artmasına ve sisteme yük bindirmesine yol açıyor. 
 
 Grin bu tip Scripting mekanizması içermiyor. İşe yaradığı tek alan para transferi. Kendisini ödeme aracı olarak konumlandırdığı için daha hızlı olabilmek adına böyle bir farklılaşmaya gitmiş Grin yazılımcıları. 
 
+#### Uzlaşma Mekanizması
 
+Evet, aslında MimbleWimble teknik altyapı olarak Bitcoin'e benziyor. 
+
+Örneğin, aynı Bitcoin gibi uzlaşma mekanizması olarak makinelerin enerji kullanması prensibinden hareket eden Proof-of-Work mekanizmasını kullanıyor (PoW'yi anlatan detaylı yazımız [burada]). 
+
+Grin'in kullandığı PoW versiyonunun adı [Cuckoo Cycle](https://medium.com/codechain/cuckoo-cycle-c337e30c6c99). Bu versiyonun özelliği Bitcoin sistemini domine etmeye başlayan ASIC tipi madencilik yapan ihtisas makinelerinin etkisini azaltmak. Grin başlangıçta ASIC resistant denen sistemi kullanarak olabildiğince küçük bireysel madencinin sistemin içinde olmasını istiyor. Ancak uzun vadede bunun beyhude bir çaba olduğunu düşünüyorlar ve kademeli olarak ASIC tipi makinelerin de sisteme girmesine izin verecekler. 
+
+Aynı zamanda Grin içindeki işlemleri gerçekleştirirken kullanılacak öğütme mekanizmasının ileride çok kuvvetli makinalar (quantum computers) tarafından kırılacağı iddia edilen bitcoin mekanizmalarına benzer akibeti yaşamamak için 'quantum resistant' denen çok güçlü mekanizmalar olması planlanıyor. 
+
+Hız ve ölçeklenme konusunda avantajlı konumda olduğu iddia edilen Rust dilini kullanıyor Grin. 
+
+Ayrıca dediğimiz gibi felsefi olarak Bitcoin'e şimdiye kadar en yakın görülen para (Bitcoin Cash, Bitcoin SV gibi paraları kayda değer bulmadığımız için görmezden geliyoruz). Bitcoin içindeki geliştirici kitlenin bir kısmı da bu projeye katkı veriyor. 
+
+#### Bloklama ve zorluk dereceleri
+
+Bitcoin sistemi içindeki madencilere sorduğu soruların zorluk derecesini iki haftada bir ayarlıyor. Bu zorluk ayarlamasını yaparken bulmacanın çözülme hızına bakıyor ve hızlı yani 10 dakikadan çabuk çözülüyor ise zorlaştırıyor eğer 10 dakikadan uzun sürüyor ise kolaylaştırıyor. Grin bu zorluk ayarlamasını çok daha hızlı bir şekilde yapacak. Aynı Bitcoin sonrası çıkan başka pek çok Blockchain sisteminin yaptığı gibi 
+
+Bitcoin sisteminde işlemler 10 dakikada bir toplanıp blok oluşturulurken Grin'de bu dakikada bir olacak. Bitcoin şu anda 10 dakikalık blok oluşturma sonrası 12.5 BTC ödül verirken Grin dakikada bir 60 Grin verecek. Grin'de Bitcoin'de dört yılda bir yaşanan azalma da yok, dolayısı ile ileride eğer devam ederse piyasada bol miktarda Grin olacak. 
+
+
+
+Peki MimbleWimble bir protokol olarak Lightning Network gibi Bitcoin üzerine ikinci bir katman olarak uyarlanamaz mıydı? Ayrı bir paraya ihtiyaç var mıydı?
+
+
+
+
+
+
+
+#### Sorunları sıkıntıları
+
+Grin'in izleyeceği enflasyon yaratan para politikası aslında gelecekte fiyatının çok değerlenmesinin önündeki en büyük engellerden. Peki neden böyle bir para politikası izliyor Grin?
+
+1. bitcoin'in deflationary özelliği nedeniyle para ödeme aracı değil değer saklama aracı olarak kullanıldığı düşünülüyor. Grin sürekli olarak bir supply yaratarak ödeme aracı olarak kullanılmak istiyor
+2. bitcoin örneğinde ilk madenciler sonrasındaki ciddi değer yükselmesinden dolayı inanılmaz paralar kazandılar (satoshinin kullanmasa bile 1 milyon BTC'si olduğu biliniyor - CHECK!!!!). Grin, daha "adil" bir dağıtım süreci öngörüyor
+
+İşlemlere hız katmak amacıyla scripting özelliğini yok etmesi ileride Grin'in sadece para transferi için kullanılacak bir araç olarak fonksiyonlarında sınırlamalar yaratabilir. Ancak üzerine inşaa edilebilecek ikinci seviye katmanlar ve ek yazılımlar ile bu sorun giderilebilir gibi görünüyor. 
 
 
 
@@ -139,16 +173,6 @@ Grin'i Bitcoin geliştiricileri arasında popüler olmasının bir nedeni de Bit
 
 
 
-Çıkış amaçları
-- MimbleWimble - scale edilebilir ve gizli bir blockhain yaratmak
-- isim Harry Potter romanlarında
-- çıkaran kişi Tommy Elvis Jedusor da Harry Potter kahramanlarından birinin Woldermore'un isminin Fransızca hali 
-- çıkışı bir gün (Ağustos 2016'da) bir kanala Tommy Elvis adında bir gizli kullanıcının bıraktığı bir white paper
-- Grin de aynı şekilde bir Harry Potter hikayesi olan Gringott's wizarding bank
-- proje lideri İgnotus Peverell cloak of invisibility'i yaratan kişi 
-
-Gizlilik ve scale edilme blockchain üzerinde olunca birbiri ile çelişiyor. Neden?
-- Çünkü gizlilik çok fazla kriptograhy gerektiriyor ve bu kadar çok kriptografi blockchain üzerindeki yükü artırarak blockchain'in scale edilmesini zorlaştırıyor
 
 - mible-wimble https://www.theblockcrypto.com/2019/01/08/mimblewimble-history-technology-and-the-mining-industry/
 - Grin, Beam
@@ -167,34 +191,14 @@ https://twitter.com/nic__carter/status/1085886693872492545
 - bitcoin maximalists, interested
 -- completely decentralized project (as opposed to ICO)
 -- technology interesting
--- 
+--
 
-how the whitepaper came about?
-- mysterious creater (like satoshi)
-- came out of nowhere (harry potter character - posted a paper something on an IRC)
-- mible-wimble a new blockchain
-- another developer (harry potter character) said he is working on grin
-
-Felsefi olarak bakıldığında
-- Açık kaynak olduğu için proje başladı ama iki farklı koldan ilerliyor, ilginç iki yaklaşım görmek mümkün
-- Biri 
--- yatırım alan
--- kendisine founders money ayıran
--- daha organize 
-- Diğeri cypherpunk, daha anarşist
--- kimseye hesap vermek zorunda hissetmeyen
--- yaratıcılarından kimsenin tanınmadığı, bilinmediği (proje lideri bilinmiyor)
--- kendi aralarında yaptıkları konferansta bütün yazılımcılarını bir araya getirirken proje lideri ortada yok ve kesinlikle çıkmak istemiyor, onlar da adamı text-to-speech şeklinde çıkarıyorlar (adam sorulara karşı cevap yazıyor, ve bir cihaz okuyor)
-
-- funding olarak crowdfunding modeli kullanan bir yapı
 
 
 -- para yaratım sürecinin bile dağıtık ve adil yapmaya çalışan
 -- "teknik olarak exchange'ler ile kaynak yapacağız ama kimseye karşı bir zorunluluğumuz yok" diyebiliyorlar,
 -- Aslında bir nevi FU şeklinde bir attitude'ları var
-- Muhtemelen biri çok daha hızlı gelişecek
--- Yatırımcılar var, beklentileri var, onların karşılanması lazım,
--- Dedike bir ekip var, bu ekip süreci olabildiğince sürükleyecek
+
 
 Ekip önündeki en kritik konulardan biri
 - KYC/AML prosedürleri çok önemli hale gelmeye başladı
@@ -217,16 +221,7 @@ Diğer bir eleştiri kaynağı ise para politikası
 
 Grin yaklaşık bir buçuk iki yıldır geliştirme halinde
 
-Teknik olarak Rust dili ile yazılıyor - scalability ve speed konusunda ihtisaslaşmış bir dil 
-Bitcoin gibi Proof-of-Work var (adı Cuckoo Cycle) 
-ASIC mining için resistant ama başlarda, ileride böyle bir resistans kalmayacak
-Aynı zamanda grin içindeki işlemlere için kurulan hashing mekanizması quantum resistance olacak şekilde planlanıyor
 
-Scriptng mekanizması içine kurulmadığı için data vs göndermek için kullanılmak yerine sadece para göndermek için kullanılacak bir sistem olacak gibi görünüyor (daha kompleks konular üstüne kurulacak ikinci seviye katmanlar ile yapılabilir gibi görünüyor). 
-
-
-Bitcoin'de adresler belli olduğu için para nereden geldi, nereye gitti bilindiği için kullanıcıları bir şekilde takip etmek ya da paranın izini sürmek mümkün oluyor idi. Çünkü Bitcoin'de bir işlem yaptığınızda bunu Bitcoin ağındaki bir makineye (düğüm-node) gönderiyorsunuz o da tüm sisteme yayıyor. Buradan da paranın izini sürülebilir oluyor. Burada öyle değil. 
-Privacy olarak çözümü dandelion adı verilen bir protokol kullanıyor. Dandelion kara hindiba çiçeği demek. MW'de siz sisteme bir işlem gönderdiğinizde bunu alan makine rastgele bir başka makineye gönderiyor, o bir başkasına ve böyle böyle ilk gönderen makinanın izinin sürülemeyeceği bir "bozma (fluff)" sürecinden geçiliyor. 
 
 
 solves two problems
