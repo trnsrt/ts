@@ -26,7 +26,7 @@ Gerçekten değil mi? Yukarıdaki paragrafta ismi geçen şahışların hiçbiri
 
 - *Luna Lovegood, Seamus Finnigan, Percy Weasley*: Grin projesindeki diğer kullanıcı isimleri. Hepsi Harry Potter ailesinden
 
-![three_harry_potter_characters-400.jpg](/assets/three_harry_potter_characters-400.jpg)
+![three_harry_potter_characters-400-2.jpg](/assets/three_harry_potter_characters-400-2.jpg)
 
 
 - *Grin*: MimbleWimble üzerine kurulu en tanınmış uygulama (detaylar aşağıda). Yine Harry Potter öykülerinden birindeki Gringott's büyücülük bankasının adı.
