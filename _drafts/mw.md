@@ -45,7 +45,7 @@ MimbleWimble üzerine çıkan iki projeden biri olan Beam, İsrailli bir girişi
 #### Grin
 MimbleWimble'in çıktığı ikinci proje olan Grin, Bitcoin'in başlangıcından beri cypherpunk dediğimiz kitlenin ilgisini daha çok çekiyor. Zira, lideri olan Ignotus Peverell'in kesinlikle kim olduğunun bilinmiyor. Örneğin geçtiğimiz yıl yapılan Grin konferansına Ignotus Peverell text-to-speech teknolojisi ile katıldı. Katılımcıların sorularını yazdığı metini okuyan bilgisayar aracılığı ile cevaplandırdı. 
 
-!https://www.youtube.com/embed/k6tCnw6shgQ?start=107
+![](https://www.youtube.com/embed/k6tCnw6shgQ?start=107)
 
 Bunun yanında herhangi bir yatırım almadı, bundan sonra da sadece crowdfunding (kitlesel fonlama) ile yatırımcılarına herhangi bir taahhütte bulunmadan ilerlemeyi planlıyor. Bunu özellikle önemsiyorlar zira yatırım aldıklarında aslında gerçekten odaklanmaları gereken gizlilik ve kullanılabilirlik yerine yatırımcıya vaad ettiklerini gerçekleştirmek için  değer artırıcı konulara zaman ayırmak zorunda olmaktan korkuyorlar. Zaten ne bir ofisleri var ne de bir organizasyonu, aynı Bitcoin'in ilk günlerindeki gibiler. 
 
