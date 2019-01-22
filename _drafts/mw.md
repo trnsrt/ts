@@ -21,12 +21,12 @@ Gerçekten değil mi? Yukarıdaki paragrafta ismi geçen şahışların hiçbiri
 ![Lordvoldemort-wikipedia.jpg](/assets/Lordvoldemort-wikipedia.jpg)
 
 - *Ignotus Peverell*: MimbleWimble üzerine kurulan Grin projesinin lideri. Hary Potter'daki görünmezlik pelerinini üreten büyücü.
-'[ingotuspeverelaminoappscom-400.jpg](ingotuspeverelaminoappscom-400.jpg)
+![ingotuspeverelaminoappscom-400.jpg](/assets/ingotuspeverelaminoappscom-400.jpg)
 
 - *Luna Lovegood, Seamus Finnigan, Percy Weasley*: Grin projesindeki diğer kullanıcı isimleri. Hepsi Harry Potter ailesinden
 
 - *Grin*: MimbleWimble üzerine kurulu en tanınmış uygulama (detaylar aşağıda). Yine Harry Potter öykülerinden birindeki Gringott's büyücülük bankasının adı.
-![grin-400.png](grin-400.png)
+![grin-400.png](/assets/grin-400.png)
 
 ### Nedir özünde MimbleWimble?
 MimbleWimble özünde Bitcoin'in yaşadığı iki ana sıkıntıyı aşmak için yaratıldı: Gizlilik ve hantallık. 
