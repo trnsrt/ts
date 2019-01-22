@@ -13,10 +13,11 @@ Gerçekten değil mi? Yukarıdaki paragrafta ismi geçen şahışların hiçbiri
 
 *MimbleWimble*: Yeni teknolojinin altyapısı olan protokolün adı. Harry Potter serisinde geçen bir büyü. Büyü yapılan kişinin herhangi bir konu hakkında konuşmasını engellemek için dilini bağlıyor. 
 *Tommy Elvis Jedusor*: MimbleWimble'in kurucusu. Harry Potter'daki kötü karakter Voldemort'un Fransızca'daki adı. 
-*Ignotus Peverell*: MimbleWimble üzerine kurulan Grin projesinin lideri. Hary Potter'daki görünmezlik pelerinini üreten büyücü. 
+*Ignotus Peverell*: MimbleWimble üzerine kurulan Grin projesinin lideri. Hary Potter'daki görünmezlik pelerinini üreten büyücü.
+*Luna Lovegood, Seamus Finnigan, Percy Weasley*: Grin projesindeki diğer kullanıcı isimleri. Hepsi Harry Potter ailesinden. 
 
 ### Nedir özünde MimbleWimble?
-MimbleWimble özünde Bitcoin'in yaşadığı iki ana sıkıntıyı aşmak için yaratıldı. Bunlardan en önemlisi gizlilik. 
+MimbleWimble özünde Bitcoin'in yaşadığı iki ana sıkıntıyı aşmak için yaratıldı: Gizlilik ve hantallık. 
 
 #### Gizli
 
@@ -24,7 +25,7 @@ Daha önceki yazılarımızda bahsetmiştik. Bitcoin aslında gizli bir sistem d
 
 Ancak kullanıcı adlarının gizli olması aslında çok da gizlilik yaratmıyor. Adreslerin yaptığı işlemler teknik yapılar tarafından takip edilebiliyor, dolayısı ile kanunsuz biri ile bir alışveriş yapmanız durumunda hesabınızın mimlenme ihtimali olabilir. Bunu sadece kanunsuz bir işlem olarak düşünmeyin. Baskıcı rejimlerde yaşayanların adreslerinin rejimler tarafından belirlenmesi ve o kişilerin rejim tarafından baskı altına alınması da olası. 
 
-İşte Bitcoin üzerindeki bu sıkıntılar, bireylerin özgürlüğünü kendine şiar edinmiş yazılımcı kesiminin (bunlara cypherpunk da deniyor) tam gizlilik sağlayacak bir protokol arayışında olmasına neden oldu. Bu şekilde ortaya çıkmış Monero, Dash benzeri pekçok KriptoPara da var (bu paralara şu yazımızda bahsetmiştik). 
+İşte Bitcoin üzerindeki bu sıkıntılar, bireylerin özgürlüğünü kendine şiar edinmiş yazılımcı kesiminin (bunlara cypherpunk da deniyor) tam gizlilik sağlayacak bir protokol arayışında olmasına neden oldu. Bu şekilde ortaya çıkmış Monero, Dash, Zcash benzeri pekçok KriptoPara da var (bu paralara şu yazımızda bahsetmiştik). 
 
 MimbleWimble kuruluş amacı itibariyle tam bir gizlilik sağlamayı amaçlayan bir protokol. MimbleWimble protokolü ile yapılan işlemlerde işleme taraf olan alıcı ve satıcı ne de işlem miktarı belli. "Öyle olunca hile vs olmuyor mu?" diye soracak olursanız sizi işin teknik kısmını anlattığımız yazımıza bekleriz. 
 
@@ -32,10 +33,21 @@ MimbleWimble kuruluş amacı itibariyle tam bir gizlilik sağlamayı amaçlayan 
 
 Bunun dışında MimbleWimble'in diğer temel özelliği ise basit ve hafif bir program olması. Teknik olmayanları çok da ilgilendiren bir konu değil aslında ancak Bitcoin'de 2009 yılından bugüne yapılmış bütün işlemleri görebiliyorsunuz demiştik. Bu işlemlerin hepsi Bitcoin sistemindeki tüm makineler tarafından tutuluyor. Bu da her bir makine için GB'larca bilgi demek. Bu da sistemin hantallaşmasına sebep oluyor. MimbleWimble üzerine kurulan uygulamalar burada da güvenlikten ödün vermeden basit bir sistem kurmayı hedefliyorlar (detaylar teknik yazımızda). 
 
+
+### Ne gibi uygulamaları var?
+Yukarıda bahsederken iki uygulaması olduğundan bahsetmiştik. Bu iki uygulama Beam ve Grin. 
+
+MimbleWimble başka diğer pek çok proje gibi açık kaynak bir yazılım. Açık kaynak yazılımıların en önemli özelliği isteyenin istediği noktada projeyi istediği şekilde geliştirebilmesi. Burada da iki farklı grup projeyi birbirinden çok farklı yerlere götürmüş durumda. 
+
+#### Beam
+MimbleWimble üzerine çıkan iki projeden biri olan Beam, İsrailli bir girişimci olan [Alexander Zaidelson](https://twitter.com/azaidelson)'un CEO'luk yaptığı bir oluşum. 2018 son baharında 400 Bin ABD Doları yatırım alan proje, derli toplu bir şekilde MimbleWimble üzerine Beam adlı KriptoPara'yı kurmak için uğraşıyor. Dertli toplu derken, bir ekibe sahip olması, kendilerine çizdikleri bir yol planına sahip olması, yatırım alması, Beam parasını açtıklarında kurucular için kendilerine bir para ayırmaları gibi özellikler. Zcash benzeri ICO yapan bir KriptoPara'nın geçtiği tüm süreçlerin benzerini yapmaya çalışıyorlar. 
+
+#### Grin
+MimbleWimble'in çıktığı ikinci proje olan Grin, Bitcoin'in başlangıcından beri cypherpunk dediğimiz kitlenin ilgisini daha çok çekiyor. Zira, lideri olan Ignotus Peverell'in kesinlikle kim olduğunun bilinmiyor. Örneğin geçtiğimiz yıl yapılan Grin konferansına Ignotus Peverell text-to-speech teknolojisi ile katıldı. Katılımcıların sorularını yazdığı metini okuyan bilgisayar aracılığı ile cevaplandırdı. Bunun yanında herhangi bir yatırım almadı, bundan sonra da sadece crowdfunding (kitlesel fonlama) ile yatırımcılarına herhangi bir taahhütte bulunmadan ilerlemeyi planlıyor. Bunu özellikle önemsiyorlar zira yatırım aldıklarında aslında gerçekten odaklanmaları gereken gizlilik ve kullanılabilirlik yerine yatırımcıya vaad ettiklerini gerçekleştirmek için  değer artırıcı konulara zaman ayırmak zorunda olmaktan korkuyorlar. Zaten ne bir ofisleri var ne de bir organizasyonu, aynı Bitcoin'in ilk günlerindeki gibiler. 
+
 ### Neden popüler oldu bu kadar?
 
 
-### Ne gibi uygulamaları var?
 
 
 ### Neleri eleştiriliyor?
@@ -70,6 +82,7 @@ Teknik konular
 
 Kullandığı dil
 
+Bitcoin olamaz mıydı? Neden olmadı?
 Bitcoin ile benzerlikleri, farkları
 Proof-of-Work
 Scripting mekanizması
