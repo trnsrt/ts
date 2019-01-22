@@ -3,6 +3,42 @@ Teknik olmayan (felsefi, ekonomik konular)
 
 Nereden çıktı bu MimbleWimble?
 
+MimbleWimble karakterleri (fotoğraflar ile)
+
+Neden bu kadar popüler oldu?
+Privacy
+Simplicity
+
+İki farklı MimbleWimble uygulaması var, farkları neler?
+
+Bitcoin'den farklı mı?
+
+Para politikası
+
+Neden yazılımcılar bu kadar rağbet ediyor?
+
+
+
+Teknik konular
+
+Kullandığı dil
+
+Bitcoin ile benzerlikleri, farkları
+Proof-of-Work
+Scripting mekanizması
+Basitlik (neden?)
+
+Grin ile Beam farkları
+
+Cypherpunk felsefesine uyumluluk
+
+KYC/AML konuları
+
+Önündeki en büyük engeller
+
+
+
+
 
 
 
