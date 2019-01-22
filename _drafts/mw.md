@@ -183,7 +183,7 @@ Grin'i Bitcoin geliştiricileri arasında popüler olmasının bir nedeni de Bit
 
 
 
-
+https://www.theblockcrypto.com/2019/01/08/mimblewimble-history-technology-and-the-mining-industry/
 
 
 
