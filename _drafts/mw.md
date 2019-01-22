@@ -73,10 +73,41 @@ Ancak burada akla gelen soru işaretlerinden biri de gizlilik ile geniş kitlele
 ### Sonuç
 KriptoPara dünyasında her gün değişik projeler ortaya çıkıyor. Her ne kadar ICO piyasalarının geçtiğimiz yılın ikinci yarısından bu yana popülerliğinin azalmış olması bu alana kısmı ilgisi olan bir kısım kitlenin hevesini kırmış olsa da, bu alanda çalışan girişimciler üzerinde çalıştıkları projeleri yavaş yavaş ayağa kaldırmaya devam ediyorlar. MimbleWimble ve özellikle Grin, bu alanda Bitcoin'in eksik olduğu düşünülen gizlilik alanında devrim yaratacağını düşünen Monero, Dash, Zcash benzeri yeni bir para. Ancak kimi teknik özellikleri ve kuruluş felsefesi onu diğer paralardan ayırıyor. 
 
-Gizlilik ve geniş kitleler tarafından adaptasyon aslı
+Teknik olarak MimbleWimble ve Grin'i diğerlerinden ayıran nedir diye merak ederseniz yazımızın devamına [şuradan] ulaşabilirsiniz. 
 
 
+# YAZI III
+Geçtiğimiz iki yazıda önce MimbleWimble denen Harry Potter dünyası karakterlerinin hakim olduğu ve gizlilik konusunda yeni bir çığır açan bir teknolojiden bahsetmiş, sonrasında da özellikle cypherpunk dünyasında heyecan yaratan MimbleWimble üzerine kurulu Grin parasına değinmiştik.  Bu iki yazıyı teknik altyapısı olmayanlara tavsiye edebiliriz. Eğer işin teknik olarak daha detayına girmek isterseniz, aşağıdaki yazı ilginizi çekebilir. 
 
+### MimbleWimble ve Grin: Bitcoin'e benziyor mu, farkları neler?
+Evet, aslında MimbleWimble teknik  altyapı olarak Bitcoin'e benziyor. 
+
+Örneğin, aynı Bitcoin gibi uzlaşma mekanizması olarak makinelerin enerji kullanması prensibinden hareket eden Proof-of-Work mekanizmasını kullanıyor (PoW'yi anlatan detaylı yazımız [burada])
+
+Ayrıca dediğimiz gibi felsefi olarak Bitcoin'e şimdiye kadar en yakın görülen para (Bitcoin Cash, Bitcoin SV gibi paraları kayda değer bulmadığımız için görmezden geliyoruz). Bitcoin içindeki geliştirici kitlenin bir kısmı da bu projeye katkı veriyor. 
+
+#### Gizlilik
+
+Aslında MimbleWimble, Bitcoin'in üzerine kurulduğu teknolojiyi daha gizli hale getirmeye yarayan bir protokol. Ne kastediyoruz bakalım: 
+
+Bitcoin 
+Bitcoin'de adresler belli olduğu için para nereden geldi, nereye gitti biliniyor. Bu nedenle kullanıcıları bir şekilde takip etmek ya da paranın izini sürmek mümkün oluyor. Çünkü Bitcoin'de bir işlem yaptığınızda bunu Bitcoin ağındaki bir makineye (düğüm-node) gönderiyorsunuz o da tüm sisteme yayıyor. İlk gönderilen node'un biliniyor olması, sizin genelde bu node'u kullanmanız gibi teknik nedenler, aslında bu parayı izi sürülebilir bir hale getiriyor.  
+
+Mimblewimble da ise öyle değil. Burada gizlilik çözümü olarak dandelion adı verilen bir protokol kullanılıyor. (Dandelion kara hindiba çiçeği demek). MW'de siz sisteme bir işlem gönderdiğinizde bunu alan makine rastgele bir başka makineye gönderiyor, o bir başkasına ve böyle böyle ilk gönderen makinanın izinin sürülemeyeceği bir "bozma (fluff)" sürecinden geçiliyor. 
+
+#### Basitlik/Hafiflik
+
+*teknik olarak tüm blockchain datasını (GB'lar süren) yüklemek yerine fast sink denen bir metod ile sisteme giren yeni bir kullanıcı (düğüm-node) son 2000 blok'u sync ederek, dakikalar içinde sistemi kullanabilir hale geliyor
+
+*sistemin madencilere sorduğu bulmacanın zorluk derecesini bitcoin iki haftada bir ayarlıyor. Bu zorluk ayarlamasını yaparken bulmacanın çözülme hızına bakıyor ve hızlı yani 10 dakikadan çabuk çözülüyor ise zorlaştırıyor eğer 10 dakikadan uzun sürüyor ise kolaylaştırıyor. Grin bu zorluk ayarlamasını çok daha hızlı bir şekilde yapacak. Aynı Bitcoin sonrası çıkan başka pekçok Blockchain sisteminin yaptığı gibi
+
+*bitcoin 10 dakikada bir blokları toplar iken Grin dakikada bir kere blok toplayacak
+
+*bitcoin her bir 10 dakikada 12.5 BTC verirken Grin her bir dakikada 60 grin verecek. Bitcoin yaklaşık dört yılda bir 10 dakikada bir verdiği ödülü yarıya düşürürken, Grin'de böyle bir sistem yok. Sistem sonsuza kadar dakika 60 Grin vermeye devam edecek
+* neden böyle bir (steady supply) durumu var?
+*1. bitcoin'in deflationary özelliği nedeniyle para ödeme aracı değil değer saklama aracı olarak kullanıldığı düşünülüyor. Grin sürekli olarak bir supply yaratarak ödeme aracı olarak kullanılmak istiyor
+*2. bitcoin örneğinde ilk madenciler sonrasındaki ciddi değer yükselmesinden dolayı inanılmaz paralar kazandılar (satoshinin kullanmasa bile 1 milyon BTC'si olduğu biliniyor - CHECK!!!!). Grin, daha "adil" bir dağıtım süreci öngörüyor
+*3. 
 
 
 
