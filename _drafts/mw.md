@@ -1,3 +1,50 @@
+Bitcoin'in çıkışını hepimiz kaçırdık? Peki yeni Bitcoin'in çıkışının şu aralar olduğunu söylesem size? 15 Ocak'ta çıktığını? Gerçekten mi? Bunu hiçbirimiz bilemeyiz ama şu aralar Kripto dünyasındaki yeni 'hip' konudan bahsetmek istiyorum size bu yazıda. Nedir bu hip? MimbleWimble, ve şu anki iki uygalaması? Anlamamız gereken yeni bir terim daha, hadi bakalım. Merak etmeyin olabildiğince yalın anlatmaya çalışacağız. 
+
+Konuyu basitleştirmek için iki parçaya ayıracağız. Bu yazıda başlangıç seviyesinde işin teknik olmayan kısmına, felsefi ve ekonomik boyutuna bakacağız. İkinci bir yazıda ise, işin teknik kısmına yani felsefi ve ekonomik olarak bu yazıda bahsedilenlerin teknolojik olarak 'nasıl' gerçekletirildiğine göz atacağız. 
+
+### Nereden çıktı bu MimbleWimble?
+
+MibleWimble 2016 Ağustos ayında kriptoparalar üzerine uğraşan yazılımcıların kendi aralarında yazıştıkları chat ortamına birden bire Tom Elvis Jedusor rumuzlu biri tarafından bırakılan bir tanıtım yazısı ile (White Paper) çıktı. 
+
+Tom Elvis Jedusor, o yazıyı bıraktıktan sonra kayıplara karıştı. Chat ortamındaki diğer yazılımcılar White Paper'ı incelediler,  bahsedilenlerin gerçekliğini, kripto olarak sağlamlığını test ettiler ve gerçekten yeni bir 'olay' ile karşılaştıklarını anladılar. 2016 yılının sonuna doğru Ignotus Peverell rumuzlu bir başka kullanıcı projenin liderliğini ele aldı ve o günden sonra gittikçe büyüyen bir yazılımcı ordusu etrafında MimbleWimble büyümeye ve gelişmeye başladı. En son 2019 yılının 15 Ocak tarihinde artık perdelerini dünyaya açar hale geldi MimbleWimble'in ilk uygulaması olan Grin.
+
+### Ne garip isimler bunlar?
+Gerçekten değil mi? Yukarıdaki paragrafta ismi geçen şahışların hiçbiri gerçek değil. Ama hepsinin bir ortak özelliği var. O da Harry Potter! Gelin kim kimdir bakalım: 3
+
+*MimbleWimble*: Yeni teknolojinin altyapısı olan protokolün adı. Harry Potter serisinde geçen bir büyü. Büyü yapılan kişinin herhangi bir konu hakkında konuşmasını engellemek için dilini bağlıyor. 
+*Tommy Elvis Jedusor*: MimbleWimble'in kurucusu. Harry Potter'daki kötü karakter Voldemort'un Fransızca'daki adı. 
+*Ignotus Peverell*: MimbleWimble üzerine kurulan Grin projesinin lideri. Hary Potter'daki görünmezlik pelerinini üreten büyücü. 
+
+### Nedir özünde MimbleWimble?
+MimbleWimble özünde Bitcoin'in yaşadığı iki ana sıkıntıyı aşmak için yaratıldı. Bunlardan en önemlisi gizlilik. 
+
+#### Gizli
+
+Daha önceki yazılarımızda bahsetmiştik. Bitcoin aslında gizli bir sistem değil, sözde gizli demek daha doğru. Bitcoin ile yapılan bir işlemde gizli olan kısım kullanıcı adları yerine adresler kullanılması. Ama gizli olmayan kısımları da alabildiğine şeffaf. Örneğin bir işlemde gönderilen para miktarı. 2009 yılında yapılmış bir işlemde bile ne kadar para transferi yapıldığını görebiliyorsunuz.
+
+Ancak kullanıcı adlarının gizli olması aslında çok da gizlilik yaratmıyor. Adreslerin yaptığı işlemler teknik yapılar tarafından takip edilebiliyor, dolayısı ile kanunsuz biri ile bir alışveriş yapmanız durumunda hesabınızın mimlenme ihtimali olabilir. Bunu sadece kanunsuz bir işlem olarak düşünmeyin. Baskıcı rejimlerde yaşayanların adreslerinin rejimler tarafından belirlenmesi ve o kişilerin rejim tarafından baskı altına alınması da olası. 
+
+İşte Bitcoin üzerindeki bu sıkıntılar, bireylerin özgürlüğünü kendine şiar edinmiş yazılımcı kesiminin (bunlara cypherpunk da deniyor) tam gizlilik sağlayacak bir protokol arayışında olmasına neden oldu. Bu şekilde ortaya çıkmış Monero, Dash benzeri pekçok KriptoPara da var (bu paralara şu yazımızda bahsetmiştik). 
+
+MimbleWimble kuruluş amacı itibariyle tam bir gizlilik sağlamayı amaçlayan bir protokol. MimbleWimble protokolü ile yapılan işlemlerde işleme taraf olan alıcı ve satıcı ne de işlem miktarı belli. "Öyle olunca hile vs olmuyor mu?" diye soracak olursanız sizi işin teknik kısmını anlattığımız yazımıza bekleriz. 
+
+#### Basit
+
+Bunun dışında MimbleWimble'in diğer temel özelliği ise basit ve hafif bir program olması. Teknik olmayanları çok da ilgilendiren bir konu değil aslında ancak Bitcoin'de 2009 yılından bugüne yapılmış bütün işlemleri görebiliyorsunuz demiştik. Bu işlemlerin hepsi Bitcoin sistemindeki tüm makineler tarafından tutuluyor. Bu da her bir makine için GB'larca bilgi demek. Bu da sistemin hantallaşmasına sebep oluyor. MimbleWimble üzerine kurulan uygulamalar burada da güvenlikten ödün vermeden basit bir sistem kurmayı hedefliyorlar (detaylar teknik yazımızda). 
+
+### Neden popüler oldu bu kadar?
+
+
+### Ne gibi uygulamaları var?
+
+
+### Neleri eleştiriliyor?
+
+
+### Sonuç
+
+
+
 
 Teknik olmayan (felsefi, ekonomik konular)
 
@@ -66,6 +113,7 @@ Gizlilik ve scale edilme blockchain üzerinde olunca birbiri ile çelişiyor. Ne
 -- Şimdiden erken bir projede yer alıp "voliyi vurmak"?
 - Fair launch https://twitter.com/lopp/status/1085885684404019200
 https://twitter.com/nic__carter/status/1085886693872492545
+- Early adaptor olarak "Bitcoin'i kaçırdık başlangıcını, şimdi yeni bir oluşumun başından itibaren olalım" demek için 
 - in terms of scaling?
 - aynı lightning ya da liquid'de olduğu gibi bitcoin'in yavaş hareket etmesi mi?
 -- çünkü bitcoin en popüler para olarak yavaş hareket etmek zorunda, muhafazakar bir yapısı var
