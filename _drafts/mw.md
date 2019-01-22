@@ -50,7 +50,9 @@ MimbleWimble'in çıktığı ikinci proje olan Grin, Bitcoin'in başlangıcında
 
 Bunun yanında herhangi bir yatırım almadı, bundan sonra da sadece crowdfunding (kitlesel fonlama) ile yatırımcılarına herhangi bir taahhütte bulunmadan ilerlemeyi planlıyor. Bunu özellikle önemsiyorlar zira yatırım aldıklarında aslında gerçekten odaklanmaları gereken gizlilik ve kullanılabilirlik yerine yatırımcıya vaad ettiklerini gerçekleştirmek için  değer artırıcı konulara zaman ayırmak zorunda olmaktan korkuyorlar. Zaten ne bir ofisleri var ne de bir organizasyonu, aynı Bitcoin'in ilk günlerindeki gibiler. 
 
-Grin yaratıcıları, Bitcoin'in para saklama aracı olarak piyasanın ağır ağabeyi olarak hakimiyetini sürdüreceğini, kendi paraları olan Grin'in ise para ödeme aracı olarak kullanıcılara pratik ve tam gizlilik sağlayan bir mekanizma kuracağı düşünüyorlar. Bunu gerçekleştirebilmek için de Bitcoin gibi deflasyona (giderek azalan) bir para yaratım politikası yerine, enflasyonist (sürekli artan) bir para yaratım politikası sürdüreceklerini açıklıyorlar. 
+Grin yaratıcıları, Bitcoin'in para saklama aracı olarak piyasanın ağır ağabeyi olarak hakimiyetini sürdüreceğini, kendi paraları olan Grin'in ise para ödeme aracı olarak kullanıcılara pratik ve tam gizlilik sağlayan bir mekanizma kuracağı düşünüyorlar. Bunu gerçekleştirebilmek için de Bitcoin gibi deflasyona (giderek azalan) bir para yaratım politikası yerine, enflasyonist (sabit olarak artan ve bitmeyen) bir [para yaratım politikası](https://www.tokendaily.co/blog/on-grin-mimblewimble-and-monetary-policy) sürdüreceklerini açıklıyorlar. 
+
+Bu para politikası aslında ilginç bir detay: Sabit şekilde para arzı arttığında, ikinci yıl ilk yıl kadar para yaratılacak, üçüncü yıl ilk iki yıl toplamının %50'si kadar, dördüncü yıl %33'ü kadar, onuncu yıl 10%u kadar ve bu şekilde giderek azalacak şekilde. Bu nedenle ilk yıllarda para arzı çok fazla olduğu için insanlar parayı ellerinde tutmak yerine (paranın değer saklama özelliği) alışverişte kullanacaklar (paranın ödeme aracı özelliği). Ancak ilk 15-20 yıl sonrası arz mevcut para miktarına göre iyice azalınca parayı elde tutmak değerli hale gelecek. 
 
 ### Neden popüler oldu bu kadar?
 
@@ -97,8 +99,9 @@ Bunun yanında MimbleWimble'da ne kullanıcılar ne de işlemler görünmeyecek 
 
 Normalde Bitcoin sisteminde hesaptan para 'input' olarak sisteme girer, input karşılığı da aynı miktarda output çıkardı (bu output'a UTXO denirdi). Sistemdeki makinalar çıkan bu UTXO'ları toplar ve değişmediğini gördüklerinde "tamam" derlerdi "sistemde çifte harcama yapılmamış" (şu [yazımızda] değinmiştik bu konuya)
 
-Grin sisteminde ise input yok, çünkü input yaratacak adresler kullanılmıyor. Bunun yerine sistemde sadece output yani UTXO var. 
-Sistem iki kullanıcının bir şekilde (on-line ya da off-line) kendi arasında ne tip bir işlem yapacağı konusunda iletişime geçip anlaşma yapması esasına dayanıyor. Yani Ayşe Bora'ya 100 Grin göndermek istiyorsa buna kendi aralarında karar verdikten sonra, kendi Özel Anahtarlarını kullanarak bir işlem yaratacaklar. Sonra bu yarattıkları işlemi sisteme girecekler. Dolayısıyla sistem sadece iki kullanıcının kendi arasında anlaşarak bir işlem gerçekleştirdiğini görecek. Bunun dışında kimin ne parası değişti o özel anahtarlar sayesinde cüzdan seviyesinde olacak, sistemi inceleyen herhangi birinin bunu görme şansı yok. 
+Grin sisteminde ise input yok, çünkü input yaratacak adresler kullanılmıyor. Bunun yerine sistemde sadece output'lar yani UTXO'lar var. Bunlar da cüzdanlar aracılığı ile kullanılıyor. Sistem iki kullanıcının bir şekilde (on-line ya da off-line) kendi arasında ne tip bir işlem yapacağı konusunda iletişime geçip anlaşma yapması esasına dayanıyor. Yani Ayşe Bora'ya 100 Grin göndermek istiyorsa buna kendi aralarında karar verdikten sonra, kendi Özel Anahtarlarını kullanarak bir işlem yaratır. Bu işlemi yaratırken kendi özel anahtarı ile bir adres yaratır ve bunu Bora'ya gönderir. Bora'nın bu sırada online olmasına gerek yok. Bora Ayşe'nin gönderdiği işlemi kendi Özel Anahtarı ile şifreler. Sonrasında bu işlem sisteme girilir. Dolayısıyla sistem sadece iki kullanıcının kendi arasında anlaşarak bir işlem gerçekleştirdiğini görür. 
+
+Bütün işlemlerin biraraya getirildiği bloklarda da Bitcoin'de olduğu gibi işlemler tek tek görülmüyor. Bunun yerine bütün işlemlerin bir toplamı var - dolayısı ile kim ne işlem yaptı [görmek mümkün değil](https://blockonomi.com/grin-mimblewimble/). 
 
 
 
