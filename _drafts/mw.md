@@ -8,10 +8,13 @@ Konuyu basitleştirmek için üç parçaya ayıracağız. Bu yazıda başlangı�
 ### Nereden çıktı bu MimbleWimble?
 
 MibleWimble 2016 Ağustos ayında kriptoparalar üzerine uğraşan yazılımcıların kendi aralarında yazıştıkları chat ortamına birden bire Tom Elvis Jedusor rumuzlu biri tarafından bırakılan bir tanıtım yazısı ile (White Paper) çıktı. 
+&nbsp;
 
+| ![mimblewimble__400.png](/assets/mimblewimble__400.png) | 
+|:--:| 
+| *MimbleWimble White Paper - Kaynak: [Github](https://github.com/mimblewimble/docs/wiki/MimbleWimble-Origin)* |
 
-![mimblewimble__400.png](/assets/mimblewimble__400.png)
-
+&nbsp;
 
 Tom Elvis Jedusor, o yazıyı bıraktıktan sonra kayıplara karıştı. Chat ortamındaki diğer yazılımcılar White Paper'ı incelediler,  bahsedilenlerin gerçekliğini, kripto olarak sağlamlığını test ettiler ve gerçekten yeni bir 'olay' ile karşılaştıklarını anladılar. 2016 yılının sonuna doğru Ignotus Peverell rumuzlu bir başka kullanıcı projenin liderliğini ele aldı ve o günden sonra gittikçe büyüyen bir yazılımcı ordusu etrafında MimbleWimble büyümeye ve gelişmeye başladı. En son 2019 yılının 15 Ocak tarihinde artık perdelerini dünyaya açar hale geldi MimbleWimble'in ilk uygulaması olan Grin.
 
