@@ -167,14 +167,23 @@ Geçtiğimiz iki yazıda [önce](https://ademimerkezi.com/genel/2019/01/23/mible
 
 Aslında MimbleWimble, Bitcoin'in üzerine kurulduğu teknolojiyi daha gizli hale getirmeye yarayan bir protokol. Ne kastediyoruz bakalım: 
 
-MimbleWimble'da ne kullanıcılar ne de işlemler görünmeyecek. Bu nasıl gerçekleşecek? 
+MimbleWimble'da ne kullanıcılar ne de işlem miktarları görünecek. Nasıl olacak bu? 
+
+###### Adres yok yaşasın cüzdanlar
+
 Öncelikle sistemde paranın gidip geleceği hesaplar olmayacak. Bunun yerine cüzdanlar kullanılacak. 
 
-Normalde Bitcoin sisteminde hesaptan para 'input' olarak sisteme girer, input karşılığı da aynı miktarda output çıkardı (bu output'a UTXO denirdi). Sistemdeki makinalar çıkan bu UTXO'ları toplar ve değişmediğini gördüklerinde "tamam" derlerdi "sistemde çifte harcama yapılmamış" (şu [yazımızda] değinmiştik bu konuya)
+Normalde Bitcoin sisteminde hesaptan para 'input' olarak sisteme girer, input karşılığı da aynı miktarda output çıkardı (bu output'a UTXO denirdi). Sistemdeki makinalar çıkan bu UTXO'ları toplar ve değişmediğini gördüklerinde "tamam" derlerdi "sistemde çifte harcama yapılmamış" (şu [yazımızda](https://ademimerkezi.com/genel/2018/11/30/bitcoin-islemi-nasil-gerceklesiyor.html) değinmiştik bu konuya)
 
-Grin sisteminde ise input yok, çünkü input yaratacak adresler kullanılmıyor. Bunun yerine sistemde sadece output'lar yani UTXO'lar var. Bunlar da cüzdanlar aracılığı ile kullanılıyor. Sistem iki kullanıcının bir şekilde (on-line ya da off-line) kendi arasında ne tip bir işlem yapacağı konusunda iletişime geçip anlaşma yapması esasına dayanıyor. Yani Ayşe Bora'ya 100 Grin göndermek istiyorsa buna kendi aralarında karar verdikten sonra, kendi Özel Anahtarlarını kullanarak bir işlem yaratır. Bu işlemi yaratırken kendi özel anahtarı ile bir adres yaratır ve bunu Bora'ya gönderir. Bora'nın bu sırada online olmasına gerek yok. Bora Ayşe'nin gönderdiği işlemi kendi Özel Anahtarı ile şifreler. Sonrasında bu işlem sisteme girilir. Dolayısıyla sistem sadece iki kullanıcının kendi arasında anlaşarak bir işlem gerçekleştirdiğini görür. 
+Grin sisteminde ise input yok, çünkü input yaratacak adresler kullanılmıyor. Bunun yerine sistemde sadece output'lar yani UTXO'lar var. Bunlar da cüzdanlar aracılığı ile kullanılıyor. Sistem iki kullanıcının bir şekilde (on-line ya da off-line) kendi arasında ne tip bir işlem yapacağı konusunda iletişime geçip anlaşma yapması esasına dayanıyor. 
 
-Bütün işlemlerin biraraya getirildiği bloklarda da Bitcoin'de olduğu gibi işlemler tek tek görülmüyor. Bunun yerine bütün işlemlerin bir toplamı var - dolayısı ile kim ne işlem yaptı [görmek mümkün değil](https://blockonomi.com/grin-mimblewimble/). Benzer şekilde karıştırma/toplamayı CoinJoin denen bir işlem ile Bitcoin üzerinde ikinci bir katman olarak yapmak da mümkün. MimblewWimble CoinJoin'i kendi ana sisteminin bir parçası yapıyor.  
+Örnek ile açıklayalım: Ayşe Bora'ya 100 Grin göndermek istiyorsa iki taraf kendi Özel Anahtarlarını kullanarak bir işlem yaratıyor. Biraz daha açalım: Ayşe bu işlemi başlatırken kendi Özel Anahtarı ile bir adres yaratır ve bunu Bora'ya gönderir. Bora'nın bu sırada online olmasına gerek yok. Bora Ayşe'nin gönderdiği işlemi kendi Özel Anahtarı ile şifreler. Sonrasında bu işlem sisteme girilir. Dolayısıyla sistem sadece iki kullanıcının kendi arasında anlaşarak bir işlem gerçekleştirdiğini görür. 
+
+###### Blok içinde detay bilgi yok
+
+Bütün işlemlerin biraraya getirildiği bloklarda da Bitcoin'de olduğu gibi işlemler tek tek görülmüyor. Bunun yerine bütün işlemlerin bir toplamı var - dolayısı ile kim ne işlem yaptı [görmek mümkün değil](https://blockonomi.com/grin-mimblewimble/). Benzer şekilde karıştırma/toplamayı CoinJoin denen bir işlem ile Bitcoin üzerinde ikinci bir katman olarak yapmak da mümkün. MimblewWimble CoinJoin'i kendi ana sisteminin bir parçası olarak kullanıyor.  
+
+###### IP adresleri de gizleniyor
 
 Bitcoin'de adresler belli olduğu için para nereden geldi, nereye gitti biliniyor. Bu nedenle kullanıcıları bir şekilde takip etmek ya da paranın izini sürmek mümkün oluyor. Çünkü Bitcoin'de bir işlem yaptığınızda bunu Bitcoin ağındaki bir makineye (düğüm-node) gönderiyorsunuz o da tüm sisteme yayıyor. İlk gönderilen node'un biliniyor olması, sizin genelde bu node'u kullanmanız gibi teknik nedenler, aslında bu parayı izi sürülebilir bir hale getiriyor.  
 
@@ -183,11 +192,17 @@ Mimblewimble da ise öyle değil. Burada gizlilik çözümü olarak dandelion ad
 
 #### Basitlik/Hafiflik
 
+###### Tam güncelleme kısmi güncellemeye karşı
+
 Bitcoin sisteminin teknik olarak sıkıntılarından biri sistem içindeki makinelerin (node-düğüm) işlemleri teyid etmek için kendi içlerinde tüm blockchain sistemini tutuyor olmaları. Bu data şu anda [200 GB civarında ve giderek artıyor](https://www.blockchain.com/en/charts/blocks-size) . Herhangi bir bilgisayarın sistemi girmesi için bu datayı yüklemesi oldukça uzun bir zaman. 
 
 Grin sisteminde, bir bilgisayar tüm bu datayı tutmak yerine fast sink denen bir metod ile son 2000 bloğu güncelleme (sync) yaparak dakikalar içinde sistemi kullanabilir hale geliyor. 
 
+##### Gizlilik hafifliğe (ve dolayısıyla ölçeklenmeye) karşı
+
 Gizlilik aslında ölçeklendirme ile çelişkili bir kavram. Neden? Çünkü ne kadar gizlilik isterseniz o kadar işin içine şifreleme mekanizmaları giriyor. Ne kadar şifreleme mekanizması koyarsanız sistem üzerinde saklayacağınız bilgiyi o kadar artırıyorsunuz. Bu da sistemin ağırlaşmasına neden oluyor. Özellikle sistemi büyütmek ve geniş kitlelere yaymak istediğinizde ölçeklendirme (scaling) problemi yaşar hale geliyorsunuz. 
+
+##### Hız fonksiyona karşı
 
 Bunun yanında Grin'in Bitcoin'e göre önemli bir eksikliği içinde ayrı bilgi (Scripting) sağlamaya izin vermemesi. Bitcoin'i genelde para transferi için kullanıyoruz ama aslında herhangi bir dijital varlık ya da bilginin transferi için de kullanabiliriz. Bunu sağlayan içindeki Scripting mekanizması. Ancak bu fonksiyon aynı zamanda ekstra yük getirip blokların büyüklüğünün artmasına ve sisteme yük bindirmesine yol açıyor. 
 
@@ -229,7 +244,6 @@ Grin'in izleyeceği enflasyon yaratan para politikası aslında gelecekte fiyat�
 | *Bitcoin, Altın ve Grin emisyon hacimleri % olarak [Kaynak](https://plot.ly/~Bobby_Digital/1/#/)* |
 
 &nbsp;
-
 
 İşlemlere hız katmak amacıyla scripting özelliğini yok etmesi ileride Grin'in sadece para transferi için kullanılacak bir araç olarak fonksiyonlarında sınırlamalar yaratabilir. Ancak üzerine inşaa edilebilecek ikinci seviye katmanlar ve ek yazılımlar ile bu sorun giderilebilir gibi görünüyor. 
 
