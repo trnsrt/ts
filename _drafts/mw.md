@@ -197,7 +197,7 @@ Grin bu tip Scripting mekanizması içermiyor. İşe yaradığı tek alan para t
 
 Evet, aslında MimbleWimble teknik altyapı olarak Bitcoin'e benziyor. 
 
-Örneğin, aynı Bitcoin gibi uzlaşma mekanizması olarak makinelerin enerji kullanması prensibinden hareket eden Proof-of-Work mekanizmasını kullanıyor (PoW'yi anlatan detaylı yazımız [burada]). 
+Örneğin, aynı Bitcoin gibi uzlaşma mekanizması olarak makinelerin enerji kullanması prensibinden hareket eden Proof-of-Work mekanizmasını kullanıyor (PoW'yi anlatan detaylı yazımız [burada](https://ademimerkezi.com/genel/2018/11/01/Bitcoin-uzlasmasi-proof-of-work.html)). 
 
 Grin'in kullandığı PoW versiyonunun adı [Cuckoo Cycle](https://medium.com/codechain/cuckoo-cycle-c337e30c6c99). Bu versiyonun özelliği Bitcoin sistemini domine etmeye başlayan ASIC tipi madencilik yapan ihtisas makinelerinin etkisini azaltmak. Grin başlangıçta ASIC resistant denen sistemi kullanarak olabildiğince küçük bireysel madencinin sistemin içinde olmasını istiyor. Ancak uzun vadede bunun beyhude bir çaba olduğunu düşünüyorlar ve kademeli olarak ASIC tipi makinelerin de sisteme girmesine izin verecekler. 
 
@@ -219,17 +219,23 @@ Peki MimbleWimble bir protokol olarak Lightning Network gibi Bitcoin üzerine ik
 
 Grin'in izleyeceği enflasyon yaratan para politikası aslında gelecekte fiyatının çok değerlenmesinin önündeki en büyük engellerden. Peki neden böyle bir para politikası izliyor Grin?
 
-1. bitcoin'in deflationary özelliği nedeniyle para ödeme aracı değil değer saklama aracı olarak kullanıldığı düşünülüyor. Grin sürekli olarak bir supply yaratarak ödeme aracı olarak kullanılmak istiyor
-2. bitcoin örneğinde ilk madenciler sonrasındaki ciddi değer yükselmesinden dolayı inanılmaz paralar kazandılar (satoshinin kullanmasa bile [1 milyon BTC'si olduğu biliniyor](http://time.com/money/5002378/bitcoin-creator-nakamoto-billionaire/)). Grin, daha "adil" bir dağıtım süreci öngörüyor
+1. Bitcoin'in deflationary özelliği nedeniyle para ödeme aracı değil değer saklama aracı olarak kullanıldığı düşünülüyor. Grin sürekli olarak bir supply yaratarak ödeme aracı olarak kullanılmak istiyor
+2. Bitcoin örneğinde ilk madenciler sonrasındaki ciddi değer yükselmesinden dolayı inanılmaz paralar kazandılar (satoshinin kullanmasa bile [1 milyon BTC'si olduğu biliniyor](http://time.com/money/5002378/bitcoin-creator-nakamoto-billionaire/)). Grin, daha 'adil' bir dağıtım süreci öngörüyor. 
+
+&nbsp;
+
+| ![btc-gold-grin.png](/assets/btc-gold-grin.png) | 
+|:--:| 
+| *Bitcoin, Altın ve Grin emisyon hacimleri % olarak [Kaynak](https://plot.ly/~Bobby_Digital/1/#/)* |
+
+&nbsp;
+
 
 İşlemlere hız katmak amacıyla scripting özelliğini yok etmesi ileride Grin'in sadece para transferi için kullanılacak bir araç olarak fonksiyonlarında sınırlamalar yaratabilir. Ancak üzerine inşaa edilebilecek ikinci seviye katmanlar ve ek yazılımlar ile bu sorun giderilebilir gibi görünüyor. 
 
-
 ### Sonuç
 
-
-
-Tekrar hatırlatalım. Serimizin MimbleWimble'ı anlatan ilk yazısına [buradan], Grin üzerine yoğunlaşan ikinci yazısına [buradan] ulaşabilirsiniz. 
+Tekrar hatırlatalım. Serimizin MimbleWimble'ı anlatan ilk yazısına [buradan](https://ademimerkezi.com/genel/2019/01/23/miblewimble-aranan-mahremiyet-buyusu-mu.html), Grin üzerine yoğunlaşan ikinci yazısına [buradan](https://ademimerkezi.com/genel/2019/01/24/gelecegin-odeme-araci-grin-mi-olacak.html) ulaşabilirsiniz. 
 
 Bunun yanında, bir kısım Bitcoin geliştiricisinin yarın öbür gün Bitcoin'in başına bir 'şey' gelmesi (teknik konular vb) halinde kendilerine bir B planı aradığının ve Grin'in de bu alana önemli bir aday olduğunu düşündüklerini de belirtelim. 
 
