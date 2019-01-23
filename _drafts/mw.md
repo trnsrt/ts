@@ -158,7 +158,7 @@ Teknik olarak MimbleWimble ve Grin'i diğerlerinden ayıran nedir diye merak ede
 
 
 # YAZI III
-Geçtiğimiz iki yazıda [önce] MimbleWimble denen Harry Potter dünyası karakterlerinin hakim olduğu ve gizlilik konusunda yeni bir çığır açan bir teknolojiden bahsetmiş, [sonrasında] da özellikle cypherpunk dünyasında heyecan yaratan MimbleWimble üzerine kurulu Grin parasına değinmiştik.  Bu iki yazıyı teknik altyapısı olmayanlara tavsiye edebiliriz. Eğer işin teknik olarak daha detayına girmek isterseniz, aşağıdaki yazı ilginizi çekebilir. 
+Geçtiğimiz iki yazıda [önce](https://ademimerkezi.com/genel/2019/01/23/miblewimble-aranan-mahremiyet-buyusu-mu.html) MimbleWimble denen Harry Potter dünyası karakterlerinin hakim olduğu ve gizlilik konusunda yeni bir çığır açan bir teknolojiden bahsetmiş, [sonra](https://ademimerkezi.com/genel/2019/01/24/gelecegin-odeme-araci-grin-mi-olacak.html) da özellikle cypherpunk dünyasında heyecan yaratan MimbleWimble üzerine kurulu Grin parasına değinmiştik.  Bu iki yazıyı teknik altyapısı olmayanlara tavsiye edebiliriz. Eğer işin teknik olarak daha detayına girmek isterseniz, aşağıdaki yazı ilginizi çekebilir. 
 
 ### MimbleWimble ve Grin: Bitcoin'e benziyor mu, farkları neler?
 
@@ -166,19 +166,19 @@ Geçtiğimiz iki yazıda [önce] MimbleWimble denen Harry Potter dünyası karak
 #### Gizlilik
 
 Aslında MimbleWimble, Bitcoin'in üzerine kurulduğu teknolojiyi daha gizli hale getirmeye yarayan bir protokol. Ne kastediyoruz bakalım: 
- 
-Bitcoin'de adresler belli olduğu için para nereden geldi, nereye gitti biliniyor. Bu nedenle kullanıcıları bir şekilde takip etmek ya da paranın izini sürmek mümkün oluyor. Çünkü Bitcoin'de bir işlem yaptığınızda bunu Bitcoin ağındaki bir makineye (düğüm-node) gönderiyorsunuz o da tüm sisteme yayıyor. İlk gönderilen node'un biliniyor olması, sizin genelde bu node'u kullanmanız gibi teknik nedenler, aslında bu parayı izi sürülebilir bir hale getiriyor.  
 
-Mimblewimble da ise öyle değil. Burada gizlilik çözümü olarak dandelion adı verilen bir protokol kullanılıyor. (Dandelion kara hindiba çiçeği demek). MW'de siz sisteme bir işlem gönderdiğinizde bunu alan makine rastgele bir başka makineye gönderiyor, o bir başkasına ve böyle böyle ilk gönderen makinanın izinin sürülemeyeceği bir "bozma (fluff)" sürecinden geçiliyor. 
-
-Bunun yanında MimbleWimble'da ne kullanıcılar ne de işlemler görünmeyecek diyoruz. Bu nasıl gerçekleşecek? 
+MimbleWimble'da ne kullanıcılar ne de işlemler görünmeyecek. Bu nasıl gerçekleşecek? 
 Öncelikle sistemde paranın gidip geleceği hesaplar olmayacak. Bunun yerine cüzdanlar kullanılacak. 
 
 Normalde Bitcoin sisteminde hesaptan para 'input' olarak sisteme girer, input karşılığı da aynı miktarda output çıkardı (bu output'a UTXO denirdi). Sistemdeki makinalar çıkan bu UTXO'ları toplar ve değişmediğini gördüklerinde "tamam" derlerdi "sistemde çifte harcama yapılmamış" (şu [yazımızda] değinmiştik bu konuya)
 
 Grin sisteminde ise input yok, çünkü input yaratacak adresler kullanılmıyor. Bunun yerine sistemde sadece output'lar yani UTXO'lar var. Bunlar da cüzdanlar aracılığı ile kullanılıyor. Sistem iki kullanıcının bir şekilde (on-line ya da off-line) kendi arasında ne tip bir işlem yapacağı konusunda iletişime geçip anlaşma yapması esasına dayanıyor. Yani Ayşe Bora'ya 100 Grin göndermek istiyorsa buna kendi aralarında karar verdikten sonra, kendi Özel Anahtarlarını kullanarak bir işlem yaratır. Bu işlemi yaratırken kendi özel anahtarı ile bir adres yaratır ve bunu Bora'ya gönderir. Bora'nın bu sırada online olmasına gerek yok. Bora Ayşe'nin gönderdiği işlemi kendi Özel Anahtarı ile şifreler. Sonrasında bu işlem sisteme girilir. Dolayısıyla sistem sadece iki kullanıcının kendi arasında anlaşarak bir işlem gerçekleştirdiğini görür. 
 
-Bütün işlemlerin biraraya getirildiği bloklarda da Bitcoin'de olduğu gibi işlemler tek tek görülmüyor. Bunun yerine bütün işlemlerin bir toplamı var - dolayısı ile kim ne işlem yaptı [görmek mümkün değil](https://blockonomi.com/grin-mimblewimble/). 
+Bütün işlemlerin biraraya getirildiği bloklarda da Bitcoin'de olduğu gibi işlemler tek tek görülmüyor. Bunun yerine bütün işlemlerin bir toplamı var - dolayısı ile kim ne işlem yaptı [görmek mümkün değil](https://blockonomi.com/grin-mimblewimble/). Benzer şekilde karıştırma/toplamayı CoinJoin denen bir işlem ile Bitcoin üzerinde ikinci bir katman olarak yapmak da mümkün. MimblewWimble CoinJoin'i kendi ana sisteminin bir parçası yapıyor.  
+
+Bitcoin'de adresler belli olduğu için para nereden geldi, nereye gitti biliniyor. Bu nedenle kullanıcıları bir şekilde takip etmek ya da paranın izini sürmek mümkün oluyor. Çünkü Bitcoin'de bir işlem yaptığınızda bunu Bitcoin ağındaki bir makineye (düğüm-node) gönderiyorsunuz o da tüm sisteme yayıyor. İlk gönderilen node'un biliniyor olması, sizin genelde bu node'u kullanmanız gibi teknik nedenler, aslında bu parayı izi sürülebilir bir hale getiriyor.  
+
+Mimblewimble da ise öyle değil. Burada gizlilik çözümü olarak dandelion adı verilen bir protokol kullanılıyor. (Dandelion kara hindiba çiçeği demek, bu çiçeğin özelliği açmadan önce tek bir sap ve yapraktan oluşup açtıktan sonra serpilmesi). MW'de siz sisteme bir işlem gönderdiğinizde bunu alan makine rastgele bir başka makineye gönderiyor, o bir başkasına ve böyle böyle ilk gönderen makinanın izinin sürülemeyeceği bir "bozma (fluff)" sürecinden geçiliyor. 
 
 
 #### Basitlik/Hafiflik
@@ -213,15 +213,7 @@ Bitcoin sistemi içindeki madencilere sorduğu soruların zorluk derecesini iki 
 
 Bitcoin sisteminde işlemler 10 dakikada bir toplanıp blok oluşturulurken Grin'de bu dakikada bir olacak. Bitcoin şu anda 10 dakikalık blok oluşturma sonrası 12.5 BTC ödül verirken Grin dakikada bir 60 Grin verecek. Grin'de Bitcoin'de dört yılda bir yaşanan azalma da yok, dolayısı ile ileride eğer devam ederse piyasada bol miktarda Grin olacak. 
 
-
-
 Peki MimbleWimble bir protokol olarak Lightning Network gibi Bitcoin üzerine ikinci bir katman olarak uyarlanamaz mıydı? Ayrı bir paraya ihtiyaç var mıydı?
-
-
-
-
-
-
 
 #### Sorunları sıkıntıları
 
