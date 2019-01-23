@@ -1,9 +1,12 @@
 # YAZI I
 
 
-Bitcoin'in çıkışını kaçırdık.  Peki bir sonraki Bitcoin'in çıkışının şu aralar daha doğrusu 15 Ocak'ta olduğunu söylesek size? İddialı bir söylem ve bu hiçbirimiz kesin olarak bilemeyiz ama şu aralar Kripto dünyasındaki yeni 'hip' konudan bahsedeceğiz bu yazıda. Nedir bu yeni dalga? MimbleWimble, ve şu anki iki uygulaması.  Anlamamız gereken yeni bir terim daha, hadi bakalım. Merak etmeyin olabildiğince yalın anlatmaya çalışacağız. 
+"Zamanında buralar hep dutluktu" diyenler gibi bundan on yıl önce Bitcoin'in çıkışını kaçırdık. Peki bir sonraki Bitcoin'in çıkışının şu aralar daha doğrusu 15 Ocak'ta gerçekleştiğini söylesek size? (İddialı bir söylem ve hiçbirimiz kesin olarak bilemeyiz bunu tabii ki). Şu sıralar kripto dünyasındaki yeni 'hip' konudan bahsedeceğiz bu yazıda. Nedir bu yeni dalga? MimbleWimble, ve şu anki iki uygulaması.  Hadi bakalım, anlamamız gereken yeni bir terim daha. Merak etmeyin olabildiğince yalın anlatmaya çalışacağız:
 
-Konuyu basitleştirmek için üç parçaya ayıracağız. Bu yazıda başlangıç seviyesinde işin teknik olmayan kısmına, felsefi ve ekonomik boyutuna MimbleWimble üzerinden bakacağız. [İkinci yazımızda] MimbleWimble üzerine kurulan en heyecanlı uygulama olan Grin parasına değineceğiz. [Üçüncü yazıda] ise, işin teknik kısmına yani felsefi ve ekonomik olarak diğer iki yazıda bahsedilenlerin teknolojik olarak 'nasıl' gerçekleştirildiğine göz atacağız. 
+Teknik olduğu için bir parça karışık ama basitleştirmek gelin üç parçaya ayıralım anlatacağımızı: 
+* Bu yazıda başlangıç seviyesinde işin teknik olmayan kısmına, felsefi ve ekonomik boyutuna MimbleWimble üzerinden bakacağız. 
+* [İkinci yazımızda] MimbleWimble üzerine kurulan en heyecanlı uygulama olan Grin parasına değineceğiz. 
+* [Üçüncü yazıda] ise, işin teknik kısmına yani felsefi ve ekonomik olarak diğer iki yazıda bahsedilenler konuların teknolojik olarak 'nasıl' gerçekleştirildiğine göz atacağız. 
 
 ### Nereden çıktı bu MimbleWimble?
 
@@ -118,22 +121,33 @@ Bu para politikası aslında ilginç bir detay: Sabit şekilde para arzı arttı
 
 ### Neden popüler oldu bu kadar?
 
-Grin'in bu kadar popüler olmasının belki de en önemli nedeni yukarıda da bahsetmeye çalıştığımız Bitcoin benzeri cypherpunk köklere sahip olması. Zira cypherpunk'lar bireyin özgürlüğünü ve devlet benzeri otoritelere karşı bağımsızlığını savunurken, bunu bir organizasyon altında yapmaları durumunda otoritelerin uygulayacakları baskılar ile organizasyonları ezeceği, kişileri ise hapis de dahil türlü yaptırımlar ile yıldıracağı korkusu taşıyorlar. Kişilerin gizliliğini ve bağımsızlığını savunabilmek için kendilerinin de gizli olması gerektiğini savunuyorlar. (Bu nedenle Satoshi ismini gizli tuttu, Wikileaks aracılığıyla Bitcoin ortaya çıktığı anda sırra kadem bastı - tüm hikayesi [bu yazımızda](https://ademimerkezi.com/genel/2018/06/01/token-dunyasinin-ilk-oyuncusu-tanidik-bir-isim-bitcoin.html)). 
+Grin'in bu kadar popüler olmasının belki de en önemli nedeni yukarıda da bahsetmeye çalıştığımız Bitcoin benzeri cypherpunk köklere sahip olması. Zira cypherpunk'lar bireyin özgürlüğünü ve devlet benzeri otoritelere karşı bağımsızlığını savunurken, bunu bir organizasyon altında yapmaları durumunda otoritelerin uygulayacakları baskılar ile organizasyonları ezeceği, kişileri ise hapis de dahil türlü yaptırımlar ile yıldıracağı korkusu taşıyorlar. Kişilerin gizliliğini ve bağımsızlığını savunabilmek için kendilerinin de gizli olması gerektiğine inanıyorlar. (Bu nedenle Satoshi ismini gizli tuttu, Wikileaks aracılığıyla Bitcoin ortaya çıktığı anda sırra kadem bastı - tüm hikayesi [bu yazımızda](https://ademimerkezi.com/genel/2018/06/01/token-dunyasinin-ilk-oyuncusu-tanidik-bir-isim-bitcoin.html)). 
 
-Örneğin, bu köklere sahip bir oluşum olarak tipik bir kripto para gibi kurucu ekibin kendine baştan bir pay ayırmaması onları kripto camiası içinde saygın bir yere koyuyor. Çünkü "[premine](https://www.cryptocompare.com/coins/guides/what-is-a-premine/)" ya da "founders' share" de denen bu tip bir uygulamanın adil bir paylaşım olmayacağına inanıyorlar. 
-
+Örneğin, bu köklere sahip bir oluşum olarak başka KriptoParalar (Monero, Dash, Zcash) gibi kurucu ekibin kendine baştan bir pay ayırmaması onları kripto camiası içinde saygın bir yere koyuyor. Çünkü "[premine](https://www.cryptocompare.com/coins/guides/what-is-a-premine/)" ya da "founders' share" de denen bu tip bir uygulamanın adil bir paylaşım olmayacağına inanıyorlar. 
+ 
 Bunun yanında Bitcoin'in başlangıcındaki hızlı gelişimi ve fırsatı kaçıran ciddi bir kesim de, şimdi yeni çıkan bu oluşuma erken katılarak oluşacak fırsatlardan olabildiğince çabuk faydalanma peşinde - ama bu kesimin bir sonraki kısmı okumasında fayda var. 
 
  ![halfin-vs-jlopp-900.png](/assets/halfin-vs-jlopp-900.png)
 
-Ama sadece cypherpunk topluluğu değil Grin'i popüler yapan. Her ne kadar dışarıdan yatırım almasa da girişim sermayeleri bir şekilde projeye destek oluyorlar. Nasıl mı? Bir önceki yazımızda bahsettiğimiz değişen yatırımcılık kapsamında. Grin 15 Ocak itibari ile çalışmaya başladı ve işlemler karşılığı madencilere para yaratma hakkı verdi. İşte pek çok girişim sermayesi de şu anda para harcayıp makine satın alarak ve enerji harcayarak madencilik yapıyor. Amaçları Grin parasına rekabet artmadan erkenden sahip olabilmek.
+Ama sadece cypherpunk topluluğu değil Grin'i popüler yapan. Her ne kadar dışarıdan yatırım almasa da girişim sermayeleri bir şekilde projeye destek oluyorlar. Nasıl mı? Bir önceki yazımızda bahsettiğimiz değişen yatırımcılık kapsamında. Grin 15 Ocak itibari ile çalışmaya başladı ve işlemler karşılığı madencilere para yaratma hakkı verdi. İşte pek çok girişim sermayesi de şu anda para harcayıp makine satın alarak ve enerji harcayarak madencilik yapıyor. Amaçları Grin parasına rekabet artmadan erkenden sahip olabilmek. 
+
+Yine de bu yatırımcıların, benzer şekilde para yaratımına başlamadan önce büyük sükse yapmış "mahremiyet" esaslı diğer paraların yaratılmaya başladıktan sonraki sürede değer değişimlerini iyi incelemelerinde fayda var. Bakın, Monero, Zcash ve Ravencoin, ilk çıkışlarından sonra değerlerini ne kadar kaybetmişler: 
+
+&nbsp;
+
+| ![Lordvoldemort-wikipedia.jpg](/assets/Lordvoldemort-wikipedia.jpg) | 
+|:--:| 
+| *Lordvoldemort - Kaynak: Wikipedia* |
+
+&nbsp;
+
 
 Bir başka hipotez ise şu:  Bitcoin artık para olarak değer taşıma (SoV- Store of Value) konusunda kendini kanıtladı. İnsanlar ona bir değer atfediyor. Üstelik arzı kısıtlı olması değerinin artacağı yönündeki beklentileri de artırıyor aynı zamanda. Ancak  teknik kısıtlarından ve yavaş gelişiminden dolayı paranın bir diğer önemli özelliği olan ödeme aracı (MoE- Medium of Exchange) olma konusunda ise geride kalıyor. (Lightning Network gibi bu alanda çalışan girişimler var tabii). Ancak pazarda özünde bir ödeme aracı olacak bir para ihtiyacı daha var. Grin de Bitcoin'e yakın felsefesi ve mahremiyet konusunda ön plana çıkan özellikleri ile bu boşluğu doldurmaya en büyük aday. 
 
 ### Neleri eleştiriliyor?
 Grin ile ilgili eleştirilerin ana odak noktası, aslında kendilerinin övünç duydukları konulardan yatırım almamaları. Yatırım almamaları nedeniyle kendilerini baskı altında hissetmeyeceklerini ve bunun da koydukları hedefleri zamanında gerçekleştirmek için kendilerini zorlamayacaklarını düşünüyor bazıları. 
 
-Bunun dışında eleştirilen konulardan biri de ekonomik: Grin'in ekonomi politikası. Bitcoin'in fiyatının artmasındaki en önemli konulardan biri zamanla yaratılan Bitcoin'in azalması ancak kullanırlığının artacağının düşünülmesi. Grin'in miktarının sürekli artacak olması onu Bitcoin benzeri spekülatif bir değer artışına sürüklemeyebilir. Grin'in buna yanıtı şu: Bitcoin'in başlangıcında yaratılan para, hasbelkader işi başında yakalayanlara inanılmaz kazançlar sağladı, yaratılan değer ufak bir azınlığın elinde kaldı. Biz bu yaratılacak değeri daha geniş bir kitleye dağıtmak için daha egaliter bir yapı öngörüyoruz. 
+Bunun dışında eleştirilen konulardan biri de ekonomik: Grin'in ekonomi politikası. Bitcoin'in fiyatının artmasındaki en önemli konulardan biri zamanla yaratılan Bitcoin'in azalması ancak kullanırlığının artacağının düşünülmesi. Grin'in miktarının sürekli artacak olması onu Bitcoin benzeri spekülatif bir değer artışına sürüklemeyebilir. Grin'in buna yanıtı şu: "Bitcoin'in başlangıcında yaratılan para, hasbelkader işi başında yakalayanlara inanılmaz kazançlar sağladı, yaratılan değer ufak bir azınlığın elinde kaldı. Biz bu yaratılacak değeri daha geniş bir kitleye dağıtmak için daha egaliter bir yapı öngörüyoruz."
 
 Ancak burada akla gelen soru işaretlerinden biri de gizlilik ile geniş kitleler tarafından adaptasyon arasındaki çelişki. Biliyorsunuz özellikle KriptoPara borsaları bu dünyaya adım atmanın en temel yollarından biri. Ancak merkezi çalışan KriptoPara borsaları otoritelerin denetimi altında olduğu için müşterilerinin gerçek bilinen kişiler olduğunu sıkı takip etmek zorundalar (AML/KYC prosedürleri ile). Grin gibi tam gizli olduğunu iddia eden bir para bu borsalarda nasıl işlem görecek? İşlem gördüğü durumda gizlilikten ödün vermiş olacak mı? Ya da hiçbir ödün vermeyecek ve geniş kitleler tarafından adapte edilmeyen sadece baskı altındaki rejimlerde yaşayanlar tarafından kullanılan ufak (niş) bir para olarak mı kalacak? Grin yaratıcıları aynı Bitcoin üzerine inşaa edilen Lightning Network gibi ikinci katman uygulamaların benzerlerinin Grin üzerine kurulabileceğini ve isteyenin bu uygulamalar ile kriptoparalar üzerinde işlem yapabileceğin iddia ediyorlar. Gizlilik ile geniş kitle adaptasyonu bir arada nasıl yürüecek göreceğiz. 
 
