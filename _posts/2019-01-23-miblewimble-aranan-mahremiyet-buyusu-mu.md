@@ -10,7 +10,7 @@ categories: Genel
 Teknik olduğu için bir parça karışık ama basitleştirmek gelin üç parçaya ayıralım anlatacağımızı: 
 * Bu yazıda başlangıç seviyesinde işin teknik olmayan kısmına, felsefi ve ekonomik boyutuna MimbleWimble üzerinden bakacağız. 
 * [İkinci yazımızda](https://ademimerkezi.com/genel/2019/01/24/gelecegin-odeme-araci-grin-mi-olacak.html) MimbleWimble üzerine kurulan en heyecanlı uygulama olan Grin parasına değineceğiz.
-* [Üçüncü yazıda](https://ademimerkezi.com/genel/2019/01/25/Grine-teknik-bakis.html) ise, işin teknik kısmına yani felsefi ve ekonomik olarak diğer iki yazıda bahsedilenler konuların teknolojik olarak 'nasıl' gerçekleştirildiğine göz atacağız. 
+* [Üçüncü yazıda](https://ademimerkezi.com/genel/2019/01/25/Grine-teknik-bakis.html) ise, işin teknik kısmına yani felsefi ve ekonomik olarak diğer iki yazıda bahsedilen konuların teknolojik olarak 'nasıl' gerçekleştirildiğine göz atacağız. 
 
 ### Nereden çıktı bu MimbleWimble?
 
