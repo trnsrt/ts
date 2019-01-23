@@ -204,7 +204,7 @@ Peki MimbleWimble bir protokol olarak Lightning Network gibi Bitcoin üzerine ik
 Grin'in izleyeceği enflasyon yaratan para politikası aslında gelecekte fiyatının çok değerlenmesinin önündeki en büyük engellerden. Peki neden böyle bir para politikası izliyor Grin?
 
 1. bitcoin'in deflationary özelliği nedeniyle para ödeme aracı değil değer saklama aracı olarak kullanıldığı düşünülüyor. Grin sürekli olarak bir supply yaratarak ödeme aracı olarak kullanılmak istiyor
-2. bitcoin örneğinde ilk madenciler sonrasındaki ciddi değer yükselmesinden dolayı inanılmaz paralar kazandılar (satoshinin kullanmasa bile 1 milyon BTC'si olduğu biliniyor - CHECK!!!!). Grin, daha "adil" bir dağıtım süreci öngörüyor
+2. bitcoin örneğinde ilk madenciler sonrasındaki ciddi değer yükselmesinden dolayı inanılmaz paralar kazandılar (satoshinin kullanmasa bile [1 milyon BTC'si olduğu biliniyor](http://time.com/money/5002378/bitcoin-creator-nakamoto-billionaire/)). Grin, daha "adil" bir dağıtım süreci öngörüyor
 
 İşlemlere hız katmak amacıyla scripting özelliğini yok etmesi ileride Grin'in sadece para transferi için kullanılacak bir araç olarak fonksiyonlarında sınırlamalar yaratabilir. Ancak üzerine inşaa edilebilecek ikinci seviye katmanlar ve ek yazılımlar ile bu sorun giderilebilir gibi görünüyor. 
 
