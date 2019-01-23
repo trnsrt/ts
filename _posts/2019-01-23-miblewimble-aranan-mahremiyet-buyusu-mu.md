@@ -98,7 +98,7 @@ MimbleWimble'in belki de en ilginç uygulaması [Grin](https://grin-tech.org/). 
 
 ### Serinin devamı.. 
 
-Yazımızın devamında Grin'e bakıyoruz - [buradan] ulaşabilirsiniz..
+Yazımızın devamında Grin'e bakıyoruz - [buradan](https://ademimerkezi.com/genel/2019/01/24/gelecegin-odeme-araci-grin-mi-olacak.html) ulaşabilirsiniz..
 
 ---
 
