@@ -102,3 +102,9 @@ Grin'in izleyeceği enflasyon yaratan para politikası aslında gelecekte fiyat�
 Tekrar hatırlatalım. Serimizin MimbleWimble'ı anlatan ilk yazısına [buradan](https://ademimerkezi.com/genel/2019/01/23/miblewimble-aranan-mahremiyet-buyusu-mu.html), Grin üzerine yoğunlaşan ikinci yazısına [buradan](https://ademimerkezi.com/genel/2019/01/24/gelecegin-odeme-araci-grin-mi-olacak.html) ulaşabilirsiniz. 
 
 Teknik olarak Grin, yıllardır Bitcoin geliştiricilerinin yaşadıkları sıkıntılara çözüm bulma amacı taşıyan, gizlilik özellikleri ile diğer KriptoParalar'a benzeyen, basitliği ile geleceğin ödeme aracı olmayı planlayan yeni bir para. Teknik olarak kuvvetli bir kökten geliyor. Bakalım uzun vadede bu kök kuvvetli bir ağaç yeşermesine olanak verecek mi?
+
+---
+
+&nbsp;
+
+*Not: Yazdığımız 45+ yazının bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](http://ademimerkezi.com/about/) sayfasına göz atabilirsiniz.*
