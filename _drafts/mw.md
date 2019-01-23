@@ -62,7 +62,7 @@ MimbleWimble özünde Bitcoin'in yaşadığı iki ana sıkıntıyı aşmak için
 
 Daha önceki yazılarımızda bahsetmiştik: Bitcoin aslında mahrem bir sistem değil, sözde gizli demek daha doğru. Bitcoin ile yapılan bir işlemde gizli olan kısım sadece kullanıcı adları yerine adresler kullanılması. Ama gizli olmayan kısımları da alabildiğine şeffaf. Örneğin bir işlemde gönderilen para miktarı. 2009 yılında yapılmış bir işlemde bile ne kadar para transferi yapıldığını görebiliyorsunuz.
 
-Ancak kullanıcı adlarının gizli olması aslında çok da mahremiyet yaratmıyor. Adreslerin yaptığı işlemler teknik yapılar tarafından takip edilebiliyor, dolayısı ile kanunsuz biri ile bir alışveriş yapmanız durumunda hesabınızın mimlenme ihtimali var. Bunu sadece kanunsuz bir işlem olarak düşünmeyin. Baskıcı rejimlerde yaşayanların adreslerinin rejimler tarafından belirlenmesi ve o kişilerin rejim tarafından baskı altına alınması da olası. 
+Ancak kullanıcı adlarının gizli olması aslında çok da mahremiyet yaratmıyor. Adreslerin yaptığı işlemler teknik olarak takip edilebiliyor, dolayısı ile kanunsuz biri ile bir alışveriş yapmanız durumunda hesabınızın mimlenme ihtimali var. Bunu sadece kanunsuz bir işlem olarak düşünmeyin. Baskıcı rejimlerde yaşayanların adreslerinin rejimler tarafından belirlenmesi ve o kişilerin rejim tarafından baskı altına alınması da olası. 
 
 İşte Bitcoin üzerindeki bu sıkıntılar, bireylerin özgürlüğünü kendine şiar edinmiş yazılımcı kesiminin (bunlara cypherpunk da deniyor) tam mahremiyet sağlayacak bir protokol arayışına girmesine neden oldu. Bu şekilde ortaya çıkmış Monero, Dash, Zcash benzeri pekçok KriptoPara da var (bu paralara şu [yazımızda](https://ademimerkezi.com/genel/2018/06/07/token-dunyasina-devam-diger-kriptopalar-litecoin-monero-dash-zcash.html) bahsetmiştik). 
 
@@ -94,27 +94,33 @@ MimbleWimble'in belki de en ilginç uygulaması [Grin](https://grin-tech.org/). 
 Yazımızın devamında Grin'e bakıyoruz - [buradan] ulaşabilirsiniz..
 
 # YAZI II
-Bir önceki [yazımızda] en son ortaya çıkan 'hip' teknolojilerden MimbleWimble'a göz atmıştık. MibleWimble Bitcoin benzeri bir Blockchain. Asıl ilginç olan üzerine kurulu uygulamalar. Geçen [yazıda] kısaca bu uygulamalardan Beam'e bakmıştık. Asıl ilginç olanı [Grin])https://grin-tech.org/) ise bu yazımızda.
+Bir önceki [yazımızda] en son ortaya çıkan 'hip' teknolojilerden MimbleWimble'a göz atmıştık. MibleWimble Bitcoin benzeri bir Blockchain. Asıl ilginç olan üzerine kurulu uygulamalar. aynı [yazıda] kısaca bu uygulamalardan Beam'e bakmıştık. Asıl ilginç uygulama [Grin](https://grin-tech.org/) ise bu yazımızda.
 
 
 #### Grin
 ![grin-400.png](/assets/grin-400.png)
 
-MimbleWimble'in çıktığı ikinci proje olan Grin, Bitcoin'in başlangıcından beri cypherpunk dediğimiz kitlenin ilgisini daha çok çekiyor. Zira, lideri olan Ignotus Peverell'in kesinlikle kim olduğunu bilinmiyor. Ignotus Peverell Geçtiğimiz yıl yapılan Grin konferansına text-to-speech teknolojisi ile katıldı. Katılımcıların sorularını yazdığı metini okuyan bilgisayar aracılığı ile cevaplandırdı. 
+MimbleWimble'in çıktığı ikinci proje olan Grin, çıkış olarak Bitcoin' çok benziyor.  
+
+Örneğin, lideri olan Ignotus Peverell'in kim olduğunu kesinlikle bilinmiyor. Ignotus Peverell geçtiğimiz yıl yapılan Grin konferansına text-to-speech teknolojisi ile katıldı. Katılımcıların sorularını yazdığı metni seslendiren bir yazılım aracılığı ile cevaplandırdı. 
+
+&nbsp;
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k6tCnw6shgQ?start=107" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Bunun yanında Grin herhangi bir şekilde girişim sermayesi benzeri bir yatırım almadı, bundan sonra da sadece crowdfunding (kitlesel fonlama) ile yoluna devam etmeyi planlıyor. Bunu özellikle önemsiyorlar zira yatırım aldıklarında aslında gerçekten odaklanmaları gereken gizlilik ve kullanılabilirlik yerine yatırımcıya vaad ettiklerini gerçekleştirmek adına değer artırıcı konulara zaman ayırmak zorunda kalmaktan korkuyorlar. Zaten ne bir ofisleri var ne de bir organizasyonları, aynı Bitcoin'in ilk günlerindeki gibiler. 
+&nbsp;
 
-Grin yaratıcıları, Bitcoin'in para saklama aracı olarak piyasanın ağır ağabeyi olarak hakimiyetini sürdüreceğini, kendi paraları olan Grin'in ise para ödeme aracı olarak kullanıcılara pratik ve tam gizlilik sağlayan bir mekanizma kuracağı düşünüyorlar. Bunu gerçekleştirebilmek için de Bitcoin gibi deflasyona (giderek azalan) bir para yaratım politikası yerine, enflasyonist (sabit olarak artan ve bitmeyen) bir [para yaratım politikası](https://www.tokendaily.co/blog/on-grin-mimblewimble-and-monetary-policy) sürdüreceklerini açıklıyorlar. 
+Bunun yanında Grin girişim sermayesi benzeri herhangi bir yatırım almadı, bundan sonra da sadece crowdfunding (kitlesel fonlama) ile yoluna devam etmeyi planlıyor. Bunu özellikle önemsiyorlar zira yatırım aldıklarında aslında gerçekten odaklanmaları gereken gizlilik ve kullanılabilirlik yerine yatırımcıya vaad ettiklerini gerçekleştirmek adına değer artırıcı konulara zaman ayırmak zorunda kalmaktan korkuyorlar. Zaten ne bir ofisleri var ne de bir organizasyonları, aynı Bitcoin'in ilk günlerindeki gibiler. 
 
-Bu para politikası aslında ilginç bir detay: Sabit şekilde para arzı arttığında, ikinci yıl ilk yıl kadar para yaratılacak, üçüncü yıl ilk iki yıl toplamının %50'si kadar, dördüncü yıl %33'ü kadar, onuncu yıl 10%u kadar ve bu şekilde giderek azalacak şekilde. Bu nedenle ilk yıllarda para arzı çok fazla olduğu için insanlar parayı ellerinde tutmak yerine (paranın değer saklama özelliği) alışverişte kullanacaklar (paranın ödeme aracı özelliği). Ancak ilk 15-20 yıl sonrası arz mevcut para miktarına göre iyice azalınca parayı elde tutmak değerli hale gelecek. 
+Grin yaratıcıları, Bitcoin'in para saklama aracı olarak piyasanın ağır ağabeyi olarak hakimiyetini sürdüreceğini, kendi paraları olan Grin'in ise para ödeme aracı olarak kullanıcılara pratik ve tam gizlilik sağlayan bir mekanizma kuracağı düşünüyorlar. Bunu gerçekleştirebilmek için de Bitcoin gibi deflasyona yol açan (giderek azalan) bir para yaratım politikası yerine, enflasyonist (sabit olarak aynı hızda artan) bir [para yaratım politikası](https://www.tokendaily.co/blog/on-grin-mimblewimble-and-monetary-policy) sürdüreceklerini açıklıyorlar. 
+
+Bu para politikası aslında ilginç bir detay: Sabit şekilde para arzı arttığında, ikinci yıl ilk yıl kadar para yaratılacak.  Üçüncü yıl o ana kadar yaratılmış toplam para stoğunun %50'si, dördüncü yıl %33'ü, onuncu yıl 10%u olacak şekilde giderek azalan oranda. Bu nedenle ilk yıllarda para arzı çok fazla olduğu için insanlar parayı ellerinde tutmak yerine (paranın değer saklama özelliği) alışverişte kullanacaklar (paranın ödeme aracı özelliği). Ancak ilk 15-20 yıl sonrası arz mevcut para miktarına göre iyice azalınca parayı elde tutmak değerli hale gelecek. 
 
 ### Neden popüler oldu bu kadar?
 
-Özellikle Grin'in şu an en büyük 'hype' olarak nitelendirilmesinin en önemli nedeni yukarıda da bahsetmeye çalıştığımız cypherpunk köklere sahip olması. Zira cypherpunk'lar bireyin özgürlüğünü ve devlet benzeri otoritelere karşı bağımsızlığını savunurken, bunu bir organizas 	halfin-vs-jlopp-640.pngyon altında yapmaları durumunda otoritelerin uygulayacakları baskılar ile organizyonları ezeceği, kişileri ise hapis de dahil türlü yaptırımlar ile yıldıracağından korkuyorlar. Yani kişilerin gizliliğini ve bağımsızlığını savunmak için kendilerinin de gizli olması gerektiğini savunuyorlar. Bu nedenle Satoshi ismini gizli tuttu, Wikileaks aracılığıyla Bitcoin ortaya çıktığı anda sırra kadem bastı. 
+Grin'in bu kadar popüler olmasının belki de en önemli nedeni yukarıda da bahsetmeye çalıştığımız Bitcoin benzeri cypherpunk köklere sahip olması. Zira cypherpunk'lar bireyin özgürlüğünü ve devlet benzeri otoritelere karşı bağımsızlığını savunurken, bunu bir organizasyon altında yapmaları durumunda otoritelerin uygulayacakları baskılar ile organizasyonları ezeceği, kişileri ise hapis de dahil türlü yaptırımlar ile yıldıracağı korkusu taşıyorlar. Kişilerin gizliliğini ve bağımsızlığını savunabilmek için kendilerinin de gizli olması gerektiğini savunuyorlar. (Bu nedenle Satoshi ismini gizli tuttu, Wikileaks aracılığıyla Bitcoin ortaya çıktığı anda sırra kadem bastı - tüm hikayesi [bu yazımızda](https://ademimerkezi.com/genel/2018/06/01/token-dunyasinin-ilk-oyuncusu-tanidik-bir-isim-bitcoin.html)). 
 
-Bu köklere sahip bir oluşum olarak tipik bir kripto para gibi kurucu ekibin kendine baştan bir pay ayırmaması onları kripto camiası içinde saygın bir yere koyuyor. 
+Örneğin, bu köklere sahip bir oluşum olarak tipik bir kripto para gibi kurucu ekibin kendine baştan bir pay ayırmaması onları kripto camiası içinde saygın bir yere koyuyor. Çünkü "[premine](https://www.cryptocompare.com/coins/guides/what-is-a-premine/)" ya da "founders' share" de denen bu tip bir uygulamanın adil bir paylaşım olmayacağına inanıyorlar. 
 
 Bunun yanında Bitcoin'in başlangıcındaki hızlı gelişimi ve fırsatı kaçıran ciddi bir kesim de, şimdi yeni çıkan bu oluşuma erken katılarak oluşacak fırsatlardan olabildiğince çabuk faydalanma peşinde - ama bu kesimin bir sonraki kısmı okumasında fayda var. 
 
