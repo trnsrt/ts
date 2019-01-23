@@ -5,7 +5,7 @@ date:   2019-01-24 10:43:45 +0300
 categories: Genel
 ---
 
-Bir önceki [yazımızda](https://ademimerkezi.com/genel/2019/01/23/miblewimble-aranan-mahremiyet-buyusu-mu.html) en son ortaya çıkan 'hip' teknolojilerden MimbleWimble'a göz atmıştık. MibleWimble Bitcoin benzeri bir Blockchain. Asıl ilginç olan üzerine kurulu uygulamalar. aynı [yazıda] kısaca bu uygulamalardan Beam'e bakmıştık. Asıl ilginç uygulama [Grin](https://grin-tech.org/) ise bu yazımızda.
+Bir önceki [yazımızda](https://ademimerkezi.com/genel/2019/01/23/miblewimble-aranan-mahremiyet-buyusu-mu.html) en son ortaya çıkan 'hip' teknolojilerden MimbleWimble'a göz atmıştık. MibleWimble Bitcoin benzeri bir Blockchain. Asıl ilginç olan üzerine kurulu uygulamalar. aynı [yazıda](https://ademimerkezi.com/genel/2019/01/23/miblewimble-aranan-mahremiyet-buyusu-mu.html) kısaca bu uygulamalardan Beam'e bakmıştık. Asıl ilginç uygulama [Grin](https://grin-tech.org/) ise bu yazımızda.
 
 
 #### Grin
@@ -62,7 +62,7 @@ Akla gelen soru işaretlerinden biri de gizlilik ile geniş kitleler tarafından
 ### Sonuç
 KriptoPara dünyasında her gün yeni değişik bir ortaya çıkıyor. Her ne kadar ICO piyasalarının geçtiğimiz yılın ikinci yarısından bu yana popülerliğini kaybetmiş ve KriptoParalara ilgili bir kısım kitlenin hevesini kırmış olsa da, bu alanda çalışan girişimciler üzerinde çalıştıkları projeleri yavaş yavaş ayağa kaldırmaya devam ediyorlar. MimbleWimble ve özellikle Grin, bu alanda Bitcoin'in eksik olduğu düşünülen gizlilik alanında devrim yaratacağını düşünen, aynı Monero, Dash, Zcash benzeri yeni bir para. Ancak kimi teknik özellikleri ve kuruluş felsefesi onu diğer KriptoParalar'dan ayırıyor. 
 
-Teknik olarak MimbleWimble ve Grin'i diğerlerinden ayıran nedir diye merak ederseniz yazımızın devamına [şuradan] ulaşabilirsiniz. 
+Teknik olarak MimbleWimble ve Grin'i diğerlerinden ayıran nedir diye merak ederseniz yazımızın devamına [şuradan](https://ademimerkezi.com/genel/2019/01/25/Grine-teknik-bakis.html) ulaşabilirsiniz. 
 
 
 ---
