@@ -10,7 +10,7 @@ categories: Genel
 Teknik olduğu için bir parça karışık ama basitleştirmek gelin üç parçaya ayıralım anlatacağımızı: 
 * Bu yazıda başlangıç seviyesinde işin teknik olmayan kısmına, felsefi ve ekonomik boyutuna MimbleWimble üzerinden bakacağız. 
 * [İkinci yazımızda](https://ademimerkezi.com/genel/2019/01/24/gelecegin-odeme-araci-grin-mi-olacak.html) MimbleWimble üzerine kurulan en heyecanlı uygulama olan Grin parasına değineceğiz.
-* [Üçüncü yazıda] ise, işin teknik kısmına yani felsefi ve ekonomik olarak diğer iki yazıda bahsedilenler konuların teknolojik olarak 'nasıl' gerçekleştirildiğine göz atacağız. 
+* [Üçüncü yazıda](https://ademimerkezi.com/genel/2019/01/25/Grine-teknik-bakis.html) ise, işin teknik kısmına yani felsefi ve ekonomik olarak diğer iki yazıda bahsedilenler konuların teknolojik olarak 'nasıl' gerçekleştirildiğine göz atacağız. 
 
 ### Nereden çıktı bu MimbleWimble?
 
@@ -73,11 +73,11 @@ Ancak kullanıcı adlarının gizli olması aslında çok da mahremiyet yaratmı
 
 İşte Bitcoin üzerindeki bu sıkıntılar, bireylerin özgürlüğünü kendine şiar edinmiş yazılımcı kesiminin (bunlara cypherpunk da deniyor) tam mahremiyet sağlayacak bir protokol arayışına girmesine neden oldu. Bu şekilde ortaya çıkmış Monero, Dash, Zcash benzeri pekçok KriptoPara da var (bu paralara şu [yazımızda](https://ademimerkezi.com/genel/2018/06/07/token-dunyasina-devam-diger-kriptopalar-litecoin-monero-dash-zcash.html) bahsetmiştik). 
 
-MimbleWimble, kuruluş amacı itibariyle tam bir gizlilik sağlamayı amaçlayan bir protokol. MimbleWimble protokolü ile yapılan işlemlerde işleme taraf olan alıcı ve satıcı ne de işlem miktarı belli. "Öyle olunca hile vs olmuyor mu?" diye soracak olursanız sizi işin teknik kısmını anlattığımız [yazımıza] bekleriz. 
+MimbleWimble, kuruluş amacı itibariyle tam bir gizlilik sağlamayı amaçlayan bir protokol. MimbleWimble protokolü ile yapılan işlemlerde işleme taraf olan alıcı ve satıcı ne de işlem miktarı belli. "Öyle olunca hile vs olmuyor mu?" diye soracak olursanız sizi işin teknik kısmını anlattığımız [yazımıza](https://ademimerkezi.com/genel/2019/01/25/Grine-teknik-bakis.html) bekleriz. 
 
 #### Basit
 
-Bunun dışında MimbleWimble'in diğer temel özelliği ise basit ve hafif bir program olması. Teknik olmayanları çok da ilgilendiren bir konu değil aslında ancak Bitcoin'de 2009 yılından bugüne yapılmış bütün işlemleri görebiliyorsunuz demiştik. Bu işlemlerin hepsi Bitcoin sistemindeki tüm makineler tarafından tutuluyor. Bu da her bir makine için GB'larca bilgi demek. Bu da sistemin hantallaşmasına sebep oluyor. MimbleWimble üzerine kurulan uygulamalar burada da güvenlikten ödün vermeden basit bir sistem kurmayı hedefliyorlar (detaylar teknik [yazımızda]). 
+Bunun dışında MimbleWimble'in diğer temel özelliği ise basit ve hafif bir program olması. Teknik olmayanları çok da ilgilendiren bir konu değil aslında ancak Bitcoin'de 2009 yılından bugüne yapılmış bütün işlemleri görebiliyorsunuz demiştik. Bu işlemlerin hepsi Bitcoin sistemindeki tüm makineler tarafından tutuluyor. Bu da her bir makine için GB'larca bilgi demek. Bu da sistemin hantallaşmasına sebep oluyor. MimbleWimble üzerine kurulan uygulamalar burada da güvenlikten ödün vermeden basit bir sistem kurmayı hedefliyorlar (detaylar teknik [yazımızda](https://ademimerkezi.com/genel/2019/01/25/Grine-teknik-bakis.html)). 
 
 
 ### Ne gibi uygulamaları var?
