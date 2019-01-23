@@ -1,6 +1,9 @@
-Bitcoin'in çıkışını hepimiz kaçırdık? Peki yeni Bitcoin'in çıkışının şu aralar olduğunu söylesem size? 15 Ocak'ta çıktığını? Gerçekten mi? Bunu hiçbirimiz bilemeyiz ama şu aralar Kripto dünyasındaki yeni 'hip' konudan bahsetmek istiyorum size bu yazıda. Nedir bu hip? MimbleWimble, ve şu anki iki uygalaması? Anlamamız gereken yeni bir terim daha, hadi bakalım. Merak etmeyin olabildiğince yalın anlatmaya çalışacağız. 
+# YAZI I
 
-Konuyu basitleştirmek için iki parçaya ayıracağız. Bu yazıda başlangıç seviyesinde işin teknik olmayan kısmına, felsefi ve ekonomik boyutuna bakacağız. İkinci bir yazıda ise, işin teknik kısmına yani felsefi ve ekonomik olarak bu yazıda bahsedilenlerin teknolojik olarak 'nasıl' gerçekletirildiğine göz atacağız. 
+
+Bitcoin'in çıkışını kaçırdık.  Peki yeni Bitcoin'in çıkışının şu aralar olduğunu söylesem size? 15 Ocak'ta çıktığını? Gerçekten mi? Bunu hiçbirimiz bilemeyiz ama şu aralar Kripto dünyasındaki yeni 'hip' konudan bahsetmek istiyorum size bu yazıda. Nedir bu hip? MimbleWimble, ve şu anki iki uygalaması? Anlamamız gereken yeni bir terim daha, hadi bakalım. Merak etmeyin olabildiğince yalın anlatmaya çalışacağız. 
+
+Konuyu basitleştirmek için üç parçaya ayıracağız. Bu yazıda başlangıç seviyesinde işin teknik olmayan kısmına, felsefi ve ekonomik boyutuna MimbleWimble üzerinden bakacağız. [İkinci yazımızda] MimbleWimble üzerine kurulan en heyecanlı uygulama olan Grin parasına göz atacağız. [Üçüncü yazıda] ise, işin teknik kısmına yani felsefi ve ekonomik olarak diğer iki yazıda bahsedilenlerin teknolojik olarak 'nasıl' gerçekleştirildiğine göz atacağız. 
 
 ### Nereden çıktı bu MimbleWimble?
 
@@ -59,6 +62,16 @@ MimbleWimble başka diğer pek çok proje gibi açık kaynak bir yazılım. Aç�
 #### Beam
 MimbleWimble üzerine çıkan iki projeden biri olan Beam, İsrailli bir girişimci olan [Alexander Zaidelson](https://twitter.com/azaidelson)'un CEO'luk yaptığı bir oluşum. 2018 son baharında 400 Bin ABD Doları yatırım alan proje, derli toplu bir şekilde MimbleWimble üzerine Beam adlı KriptoPara'yı kurmak için uğraşıyor. Dertli toplu derken, bir ekibe sahip olması, kendilerine çizdikleri bir yol planına sahip olması, yatırım alması, Beam parasını açtıklarında kurucular için kendilerine bir para ayırmaları gibi özellikler. Zcash benzeri ICO yapan bir KriptoPara'nın geçtiği tüm süreçlerin benzerini yapmaya çalışıyorlar. 
 
+
+#### Grin
+MibleWimble'in belki de en ilginç uygulaması Grin. Yazı çok uzadı. Grin'i bir sonraki yazımızda buradan okuyabilirsiniz. 
+
+
+# YAZI II
+Bir önceki [yazımızda] en son ortaya çıkan 'hip' teknolojilerden MimbleWimble'a göz atmıştık. MibleWimble aslında bir protokol, yani bir nevi bir altyapı projesi gibi de düşünebilirsiniz. Asıl ilginç olan üzerine kurulan uygulamalar. Geçen yazıda kısaca bu uygulamalardan Beam'e bakmıştık. Asıl ilginç olanı bu yazımızda.
+
+![grin-400.png](/assets/grin-400.png)
+
 #### Grin
 MimbleWimble'in çıktığı ikinci proje olan Grin, Bitcoin'in başlangıcından beri cypherpunk dediğimiz kitlenin ilgisini daha çok çekiyor. Zira, lideri olan Ignotus Peverell'in kesinlikle kim olduğunun bilinmiyor. Örneğin geçtiğimiz yıl yapılan Grin konferansına Ignotus Peverell text-to-speech teknolojisi ile katıldı. Katılımcıların sorularını yazdığı metini okuyan bilgisayar aracılığı ile cevaplandırdı. 
 
@@ -72,11 +85,13 @@ Bu para politikası aslında ilginç bir detay: Sabit şekilde para arzı arttı
 
 ### Neden popüler oldu bu kadar?
 
-Özellikle Grin'in şu an en büyük 'hype' olarak nitelendirilmesinin en önemli nedeni yukarıda da bahsetmeye çalıştığımız cypherpunk köklere sahip olması. Zira cypherpunk'lar bireyin özgürlüğünü ve devlet benzeri otoritelere karşı bağımsızlığını savunurken, bunu bir organizasyon altında yapmaları durumunda otoritelerin uygulayacakları baskılar ile organizyonları ezeceği, kişileri ise hapis de dahil türlü yaptırımlar ile yıldıracağından korkuyorlar. Yani kişilerin gizliliğini ve bağımsızlığını savunmak için kendilerinin de gizli olması gerektiğini savunuyorlar. Bu nedenle Satoshi ismini gizli tuttu, Wikileaks aracılığıyla Bitcoin ortaya çıktığı anda sırra kadem bastı. 
+Özellikle Grin'in şu an en büyük 'hype' olarak nitelendirilmesinin en önemli nedeni yukarıda da bahsetmeye çalıştığımız cypherpunk köklere sahip olması. Zira cypherpunk'lar bireyin özgürlüğünü ve devlet benzeri otoritelere karşı bağımsızlığını savunurken, bunu bir organizas 	halfin-vs-jlopp-640.pngyon altında yapmaları durumunda otoritelerin uygulayacakları baskılar ile organizyonları ezeceği, kişileri ise hapis de dahil türlü yaptırımlar ile yıldıracağından korkuyorlar. Yani kişilerin gizliliğini ve bağımsızlığını savunmak için kendilerinin de gizli olması gerektiğini savunuyorlar. Bu nedenle Satoshi ismini gizli tuttu, Wikileaks aracılığıyla Bitcoin ortaya çıktığı anda sırra kadem bastı. 
 
 Bu köklere sahip bir oluşum olarak tipik bir kripto para gibi kurucu ekibin kendine baştan bir pay ayırmaması onları kripto camiası içinde saygın bir yere koyuyor. 
 
 Bunun yanında Bitcoin'in başlangıcındaki hızlı gelişimi ve fırsatı kaçıran ciddi bir kesim de, şimdi yeni çıkan bu oluşuma erken katılarak oluşacak fırsatlardan olabildiğince çabuk faydalanma peşinde - ama bu kesimin bir sonraki kısmı okumasında fayda var. 
+
+ ![halfin-vs-jlopp-640.png](/assets/halfin-vs-jlopp-640.png)
 
 Ama sadece cypherpunk topluluğu değil Grin'i popüler yapan. Her ne kadar dışarıdan yatırım almasa da girişim sermayeleri bir şekilde projeye destek oluyorlar. Nasıl mı? Bir önceki yazımızda bahsettiğimiz değişen yatırımcılık kapsamında. Grin 15 Ocak itibari ile çalışmaya başladı ve işlemler karşılığı madencilere para yaratma hakkı verdi. İşte pek çok girişim sermayesi de şu anda para harcayıp makine satın alarak ve enerji harcayarak madencilik yapıyor. Amaçları Grin parasına rekabet artmadan erkenden sahip olabilmek.
 
@@ -89,7 +104,6 @@ Bunun dışında eleştirilen konulardan biri de ekonomik: Grin'in ekonomi polit
 
 Ancak burada akla gelen soru işaretlerinden biri de gizlilik ile geniş kitleler tarafından adaptasyon arasındaki çelişki. Biliyorsunuz özellikle KriptoPara borsaları bu dünyaya adım atmanın en temel yollarından biri. Ancak merkezi çalışan KriptoPara borsaları otoritelerin denetimi altında olduğu için müşterilerinin gerçek bilinen kişiler olduğunu sıkı takip etmek zorundalar (AML/KYC prosedürleri ile). Grin gibi tam gizli olduğunu iddia eden bir para bu borsalarda nasıl işlem görecek? İşlem gördüğü durumda gizlilikten ödün vermiş olacak mı? Ya da hiçbir ödün vermeyecek ve geniş kitleler tarafından adapte edilmeyen sadece baskı altındaki rejimlerde yaşayanlar tarafından kullanılan ufak (niş) bir para olarak mı kalacak? Grin yaratıcıları aynı Bitcoin üzerine inşaa edilen Lightning Network gibi ikinci katman uygulamaların benzerlerinin Grin üzerine kurulabileceğini ve isteyenin bu uygulamalar ile kriptoparalar üzerinde işlem yapabileceğin iddia ediyorlar. Gizlilik ile geniş kitle adaptasyonu bir arada nasıl yürüecek göreceğiz. 
 
-
 ### Sonuç
 KriptoPara dünyasında her gün değişik projeler ortaya çıkıyor. Her ne kadar ICO piyasalarının geçtiğimiz yılın ikinci yarısından bu yana popülerliğinin azalmış olması bu alana kısmı ilgisi olan bir kısım kitlenin hevesini kırmış olsa da, bu alanda çalışan girişimciler üzerinde çalıştıkları projeleri yavaş yavaş ayağa kaldırmaya devam ediyorlar. MimbleWimble ve özellikle Grin, bu alanda Bitcoin'in eksik olduğu düşünülen gizlilik alanında devrim yaratacağını düşünen Monero, Dash, Zcash benzeri yeni bir para. Ancak kimi teknik özellikleri ve kuruluş felsefesi onu diğer paralardan ayırıyor. 
 
@@ -97,7 +111,7 @@ Teknik olarak MimbleWimble ve Grin'i diğerlerinden ayıran nedir diye merak ede
 
 
 # YAZI III
-Geçtiğimiz iki yazıda önce MimbleWimble denen Harry Potter dünyası karakterlerinin hakim olduğu ve gizlilik konusunda yeni bir çığır açan bir teknolojiden bahsetmiş, sonrasında da özellikle cypherpunk dünyasında heyecan yaratan MimbleWimble üzerine kurulu Grin parasına değinmiştik.  Bu iki yazıyı teknik altyapısı olmayanlara tavsiye edebiliriz. Eğer işin teknik olarak daha detayına girmek isterseniz, aşağıdaki yazı ilginizi çekebilir. 
+Geçtiğimiz iki yazıda [önce] MimbleWimble denen Harry Potter dünyası karakterlerinin hakim olduğu ve gizlilik konusunda yeni bir çığır açan bir teknolojiden bahsetmiş, [sonrasında] da özellikle cypherpunk dünyasında heyecan yaratan MimbleWimble üzerine kurulu Grin parasına değinmiştik.  Bu iki yazıyı teknik altyapısı olmayanlara tavsiye edebiliriz. Eğer işin teknik olarak daha detayına girmek isterseniz, aşağıdaki yazı ilginizi çekebilir. 
 
 ### MimbleWimble ve Grin: Bitcoin'e benziyor mu, farkları neler?
 
