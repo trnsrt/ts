@@ -159,7 +159,7 @@ Bütün işlemlerin biraraya getirildiği bloklarda da Bitcoin'de olduğu gibi i
 
 #### Basitlik/Hafiflik
 
-Bitcoin sisteminin teknik olarak sıkıntılarından biri sistem içindeki makinelerin (node-düğüm) işlemleri teyid etmek için kendi içlerinde tüm blockchain sistemini tutuyor olmaları. Bu data şu anda [200 GB](https://www.blockchain.com/en/charts/blocks-size) civarında ve giderek artıyor. Herhangi bir bilgisayarın sistemi girmesi için bu datayı yüklemesi oldukça uzun bir zaman. 
+Bitcoin sisteminin teknik olarak sıkıntılarından biri sistem içindeki makinelerin (node-düğüm) işlemleri teyid etmek için kendi içlerinde tüm blockchain sistemini tutuyor olmaları. Bu data şu anda [200 GB civarında ve giderek artıyor](https://www.blockchain.com/en/charts/blocks-size) . Herhangi bir bilgisayarın sistemi girmesi için bu datayı yüklemesi oldukça uzun bir zaman. 
 
 Grin sisteminde, bir bilgisayar tüm bu datayı tutmak yerine fast sink denen bir metod ile son 2000 bloğu güncelleme (sync) yaparak dakikalar içinde sistemi kullanabilir hale geliyor. 
 
