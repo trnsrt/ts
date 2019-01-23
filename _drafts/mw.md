@@ -1,4 +1,4 @@
-https://twitter.com/ByteSizeCapital/status/1085155010495709184/photo/1# YAZI I
+# YAZI I
 
 
 "Zamanında buralar hep dutluktu" diyenler gibi bundan on yıl önce Bitcoin'in çıkışını kaçırdık. Peki bir sonraki Bitcoin'in çıkışının şu aralar daha doğrusu 15 Ocak'ta gerçekleştiğini söylesek size? (İddialı bir söylem ve hiçbirimiz kesin olarak bilemeyiz bunu tabii ki). Şu sıralar kripto dünyasındaki yeni 'hip' konudan bahsedeceğiz bu yazıda. Nedir bu yeni dalga? MimbleWimble, ve şu anki iki uygulaması.  Hadi bakalım, anlamamız gereken yeni bir terim daha. Merak etmeyin olabildiğince yalın anlatmaya çalışacağız:
