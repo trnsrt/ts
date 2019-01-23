@@ -93,7 +93,7 @@ MimbleWimble üzerine çıkan iki projeden biri olan [Beam](https://www.beam.mw/
 
 
 #### Grin
-MimbleWimble'in belki de en ilginç uygulaması [Grin](https://grin-tech.org/). Yazı çok uzadı. Grin'i anlattığımız yazımızı [buradan] okuyabilirsiniz. 
+MimbleWimble'in belki de en ilginç uygulaması [Grin](https://grin-tech.org/). Yazı çok uzadı. Grin'i anlattığımız yazımızı [buradan](https://ademimerkezi.com/genel/2019/01/24/gelecegin-odeme-araci-grin-mi-olacak.html) okuyabilirsiniz. 
 
 
 ### Serinin devamı.. 
