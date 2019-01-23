@@ -29,6 +29,14 @@ Gerçekten değil mi? Yukarıdaki paragrafta ismi geçen şahışların hiçbiri
 
 &nbsp;
 
+&nbsp;
+
+| ![Lordvoldemort-wikipedia.jpg](/assets/Lordvoldemort-wikipedia.jpg) | 
+|:--:| 
+| *Lordvoldemort- Kaynak: Wikipedia* |
+
+&nbsp;
+
 - *Ignotus Peverell*: MimbleWimble üzerine kurulan Grin projesinin lideri. Hary Potter'daki görünmezlik pelerinini üreten büyücü.
 
 ![ingotuspeverelaminoappscom-400.jpg](/assets/ingotuspeverelaminoappscom-400.jpg)
