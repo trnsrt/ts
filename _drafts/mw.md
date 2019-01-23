@@ -135,9 +135,9 @@ Yine de bu yatırımcıların, benzer şekilde para yaratımına başlamadan ön
 
 &nbsp;
 
-| ![Lordvoldemort-wikipedia.jpg](/assets/Lordvoldemort-wikipedia.jpg) | 
+| ![monero-zcash-ravencoin.jpg](/assets/monero-zcash-ravencoin.jpg) | 
 |:--:| 
-| *Lordvoldemort - Kaynak: Wikipedia* |
+| *Monero, Zcash ve Ravencoin ilk çıkış sonrası seyirleri - [Kaynak](https://twitter.com/ByteSizeCapital/status/1085155010495709184/photo/1)|
 
 &nbsp;
 
