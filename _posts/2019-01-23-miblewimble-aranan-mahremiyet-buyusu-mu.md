@@ -49,7 +49,7 @@ Gerçekten değil mi? Yukarıdaki paragrafta ismi geçen şahısların hiçbiri 
 
 &nbsp;
 
-- *Grin*: MimbleWimble üzerine kurulu en tanınmış uygulama (detaylar bir sonraki [yazıda]). Yine Harry Potter öykülerinden birindeki Gringott's büyücülük bankasının adı.
+- *Grin*: MimbleWimble üzerine kurulu en tanınmış uygulama (detaylar bir sonraki [yazıda](https://ademimerkezi.com/genel/2019/01/24/gelecegin-odeme-araci-grin-mi-olacak.html)). Yine Harry Potter öykülerinden birindeki Gringott's büyücülük bankasının adı.
 
 ![grin-400.png](/assets/grin-400.png)
 
