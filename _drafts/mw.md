@@ -10,7 +10,7 @@ Teknik olduğu için bir parça karışık ama basitleştirmek gelin üç parça
 
 ### Nereden çıktı bu MimbleWimble?
 
-MibleWimble 2016 Ağustos ayında kriptoparalar üzerine uğraşan bir grup yazılımcının kendi aralarında yazıştıkları chat ortamına birden bire Tom Elvis Jedusor rumuzlu biri tarafından bırakılan bir tanıtım yazısı (White Paper) ile ortaya çıktı. 
+MibleWimble 2016 Ağustos ayında KriptoParalar üzerine uğraşan bir grup yazılımcının kendi aralarında yazıştıkları chat ortamına birden bire Tom Elvis Jedusor rumuzlu biri tarafından bırakılan bir tanıtım yazısı (White Paper) ile ortaya çıktı. 
 
 &nbsp;
 
@@ -23,7 +23,7 @@ MibleWimble 2016 Ağustos ayında kriptoparalar üzerine uğraşan bir grup yaz�
 Tom Elvis Jedusor, o yazıyı bıraktıktan sonra kayıplara karıştı. Chat ortamındaki diğer yazılımcılar White Paper'ı incelediler,  bahsedilenlerin güvenirliğini, kripto olarak sağlamlığını test ettiler ve gerçekten yeni bir 'olay' ile karşılaştıklarını anladılar. 2016 yılının sonuna doğru Ignotus Peverell rumuzlu bir başka kullanıcı projenin liderliğini ele aldı ve o günden sonra gittikçe büyüyen bir yazılımcı ordusu etrafında MimbleWimble büyümeye ve gelişmeye başladı. En son 2019 yılının 15 Ocak tarihinde artık perdelerini dünyaya açar hale geldi MimbleWimble'in ilk uygulaması olan Grin.
 
 ### Ne garip isimler bunlar?
-Gerçekten değil mi? Yukarıdaki paragrafta ismi geçen şahışların hiçbiri gerçek değil. Ama hepsinin bir ortak özelliği var. O da Harry Potter! Gelin kim kimdir bakalım:
+Gerçekten değil mi? Yukarıdaki paragrafta ismi geçen şahısların hiçbiri gerçek değil. Ama hepsinin bir ortak özelliği var. O da Harry Potter! Gelin kim kimdir bakalım:
 
 - *MimbleWimble*: Yeni teknolojinin altyapısı olan protokolün adı. Harry Potter'ın [Deathly Hallows](https://en.0wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows) serisinde geçen bir büyü.  Amacı bir kişinin dilini bağlayarak büyü yapması için gerekli sözleri anlaşılır şekilde söylemesini önlemek. 
 
@@ -35,7 +35,7 @@ Gerçekten değil mi? Yukarıdaki paragrafta ismi geçen şahışların hiçbiri
 
 &nbsp;
 
-- *Tommy Elvis Jedusor*: MimbleWimble'in kurucusu. Harry Potter'daki kötü karakter Voldemort'un Fransızca'daki adı. 
+- *Tommy Elvis Jedusor*: MimbleWimble'in kurucusu. Harry Potter'daki kötü karakter Voldemort'un Fransızca karşılığı. 
 
 &nbsp;
 
@@ -49,7 +49,7 @@ Gerçekten değil mi? Yukarıdaki paragrafta ismi geçen şahışların hiçbiri
 
 ![grin-400.png](/assets/grin-400.png)
 
-- *Ignotus Peverell*: Grin projesinin lideri. Hary Potter'daki görünmezlik pelerinini üreten büyücü.
+- *Ignotus Peverell*: Grin projesinin lideri. Harry Potter'daki görünmezlik pelerinini üreten büyücü.
 
 ![ingotuspeverelaminoappscom-400.jpg](/assets/ingotuspeverelaminoappscom-400.jpg)
 
@@ -79,13 +79,13 @@ Bunun dışında MimbleWimble'in diğer temel özelliği ise basit ve hafif bir 
 ### Ne gibi uygulamaları var?
 Yukarıda bahsederken iki uygulaması olduğundan bahsetmiştik. Bu iki uygulama Beam ve Grin. 
 
-MimbleWimble başka diğer pek çok proje gibi açık kaynak bir yazılım. Açık kaynak yazılımıların en önemli özelliği isteyenin istediği noktada projeyi istediği şekilde geliştirebilmesi. Burada da iki farklı grup projeyi birbirinden çok farklı yerlere götürmüş durumda. 
+MimbleWimble başka diğer pek çok proje gibi açık kaynak bir yazılım. Açık kaynak yazılımların en önemli özelliği isteyenin istediği noktada projeyi istediği şekilde geliştirebilmesi. Burada da iki farklı grup projeyi birbirinden çok farklı yerlere götürmüş durumda. 
 
 #### Beam
 
 ![beam-400.png](/assets/beam-400.png)
 
-MimbleWimble üzerine çıkan iki projeden biri olan [Beam](https://www.beam.mw/), İsrailli bir girişimci olan [Alexander Zaidelson](https://twitter.com/azaidelson)'un CEO'luk yaptığı bir oluşum. 2018 son baharında 400 Bin ABD Doları yatırım alan proje, derli toplu bir şekilde MimbleWimble üzerine Beam adlı KriptoPara'yı kurmak için uğraşıyor. Dertli toplu derken, bir ekibe sahip olması, kendilerine çizdikleri bir yol planına sahip olması, yatırım alması, Beam parasını açtıklarında kurucular için kendilerine bir para ayırmaları gibi özellikler. Zcash benzeri ICO yapan bir KriptoPara'nın geçtiği tüm süreçlerin benzerini yapmaya çalışıyorlar. 
+MimbleWimble üzerine çıkan iki projeden biri olan [Beam](https://www.beam.mw/), İsrailli bir girişimci olan [Alexander Zaidelson](https://twitter.com/azaidelson)'un CEO'luk yaptığı bir oluşum. 2018 sonbaharında 400 Bin ABD Doları yatırım alan proje, derli toplu bir şekilde MimbleWimble üzerine Beam adlı KriptoPara'yı kurmak için uğraşıyor. Dertli toplu derken, bir ekibe sahip olması, kendilerine çizdikleri bir yol planına sahip olması, yatırım alması, Beam parasını açtıklarında kurucular için kendilerine bir para ayırmaları gibi özellikler. Zcash benzeri ICO yapan bir KriptoPara'nın geçtiği tüm süreçlerin benzerini yapmaya çalışıyorlar. 
 
 
 #### Grin
@@ -117,7 +117,7 @@ Bunun yanında Grin girişim sermayesi benzeri herhangi bir yatırım almadı, b
 
 Grin yaratıcıları, Bitcoin'in para saklama aracı olarak piyasanın ağır ağabeyi olarak hakimiyetini sürdüreceğini, kendi paraları olan Grin'in ise para ödeme aracı olarak kullanıcılara pratik ve tam gizlilik sağlayan bir mekanizma kuracağı düşünüyorlar. Bunu gerçekleştirebilmek için de Bitcoin gibi deflasyona yol açan (giderek azalan) bir para yaratım politikası yerine, enflasyonist (sabit olarak aynı hızda artan) bir [para yaratım politikası](https://www.tokendaily.co/blog/on-grin-mimblewimble-and-monetary-policy) sürdüreceklerini açıklıyorlar. 
 
-Bu para politikası aslında ilginç bir detay: Sabit şekilde para arzı arttığında, ikinci yıl ilk yıl kadar para yaratılacak.  Üçüncü yıl o ana kadar yaratılmış toplam para stoğunun %50'si, dördüncü yıl %33'ü, onuncu yıl 10%u olacak şekilde giderek azalan oranda. Bu nedenle ilk yıllarda para arzı çok fazla olduğu için insanlar parayı ellerinde tutmak yerine (paranın değer saklama özelliği) alışverişte kullanacaklar (paranın ödeme aracı özelliği). Ancak ilk 15-20 yıl sonrası arz mevcut para miktarına göre iyice azalınca parayı elde tutmak değerli hale gelecek. 
+Bu para politikası aslında ilginç bir detay: Sabit şekilde para arzı arttığında, ikinci yıl ilk yıl kadar para yaratılacak.  Üçüncü yıl o ana kadar yaratılmış toplam para stokunun %50'si, dördüncü yıl %33'ü, onuncu yıl 10%u olacak şekilde giderek azalan oranda. Bu nedenle ilk yıllarda para arzı çok fazla olduğu için insanlar parayı ellerinde tutmak yerine (paranın değer saklama özelliği) alışverişte kullanacaklar (paranın ödeme aracı özelliği). Ancak ilk 15-20 yıl sonrası arz mevcut para miktarına göre iyice azalınca parayı elde tutmak değerli hale gelecek. 
 
 ### Neden popüler oldu bu kadar?
 
@@ -147,9 +147,9 @@ Bir başka hipotez ise şu:  Bitcoin artık para olarak değer taşıma (SoV- St
 ### Neleri eleştiriliyor?
 Grin ile ilgili eleştirilerin ana odak noktası, aslında övünerek bahsettikleri yatırım almama konusu. Bazıları, Grin yaratıcı ekibinin dış bir yatırım almaması nedeniyle kendisini baskı altında hissetmeyeceklerini ve bunun da koydukları hedefleri zamanında gerçekleştirmek için kendilerini zorlamayacaklarını düşünüyor. 
 
-Bunun dışında eleştirilen konulardan biri de ekonomik: Grin'in para yaratım politikası. Bitcoin'in fiyatının artmasındaki en önemli konulardan biri zamanla kullanımı artarken yaratılan Bitcoin'in azalacak olması. Piyasadaki Grin miktarının sürekli artacak olması onu Bitcoin benzeri spekülatif bir değer artışına gitmesini engelleyebilir. Grin'in buna yanıtı şu: "Bitcoin'in başlangıcında fazla fazla yaratılan para, hasbelkader işi başında dalgayı yakalayanlara inanılmaz kazançlar sağlad ancak yaratılan değer ufak bir azınlığın elinde kaldı. Biz bu yaratılacak değeri daha geniş bir kitleye dağıtmak için daha egaliter bir yapı öngörüyoruz, bu nedenle para arzının sürekli olarak artıracağız"
+Bunun dışında eleştirilen konulardan biri de ekonomik: Grin'in para yaratım politikası. Bitcoin'in fiyatının artmasındaki en önemli konulardan biri zamanla kullanımı artarken yaratılan Bitcoin'in azalacak olması. Piyasadaki Grin miktarının sürekli artacak olması onu Bitcoin benzeri spekülatif bir değer artışına gitmesini engelleyebilir. Grin'in buna yanıtı şu: "Bitcoin'in başlangıcında fazla fazla yaratılan para, hasbelkader işi başında dalgayı yakalayanlara inanılmaz kazançlar sağladı ancak yaratılan değer ufak bir azınlığın elinde kaldı. Biz bu yaratılacak değeri daha geniş bir kitleye dağıtmak için daha egaliter bir yapı öngörüyoruz, bu nedenle para arzının sürekli olarak artıracağız"
 
-Akla gelen soru işaretlerinden biri de gizlilik ile geniş kitleler tarafından adaptasyon arasındaki çelişki. Biliyorsunuz özellikle KriptoPara borsaları bu dünyaya adım atmanın en temel yollarından biri. Ancak merkezi çalışan KriptoPara borsaları otoritelerin denetimi altında olduğu için müşterilerinin gerçek bilinen kişiler olduğunu sıkı takip etmek zorundalar (AML/KYC prosedürleri ile). Grin gibi tam gizli olduğunu iddia eden bir para bu borsalarda nasıl işlem görecek? İşlem gördüğü durumda gizlilikten ödün vermiş olacak mı? Ya da hiçbir ödün vermeyecek ve geniş kitleler tarafından adapte edilmeyen, sadece baskı altındaki rejimlerde yaşayanlar tarafından kullanılan ufak (niş) bir para olarak mı kalacak? Grin yaratıcıları Bitcoin üzerine inşaa edilen Lightning Network gibi ikinci katman uygulamaların benzerlerinin Grin üzerine kurulabileceğini ve isteyenin bu uygulamalar ile KriptoPara borsalarında işlem yapabileceğin iddia ediyorlar. Gizlilik ile geniş kitle adaptasyonu bir arada nasıl yürüecek göreceğiz. 
+Akla gelen soru işaretlerinden biri de gizlilik ile geniş kitleler tarafından adaptasyon arasındaki çelişki. Biliyorsunuz özellikle KriptoPara borsaları bu dünyaya adım atmanın en temel yollarından biri. Ancak merkezi çalışan KriptoPara borsaları otoritelerin denetimi altında olduğu için müşterilerinin gerçek bilinen kişiler olduğunu sıkı takip etmek zorundalar (AML/KYC prosedürleri ile). Grin gibi tam gizli olduğunu iddia eden bir para bu borsalarda nasıl işlem görecek? İşlem gördüğü durumda gizlilikten ödün vermiş olacak mı? Ya da hiçbir ödün vermeyecek ve geniş kitleler tarafından adapte edilmeyen, sadece baskı altındaki rejimlerde yaşayanlar tarafından kullanılan ufak (niş) bir para olarak mı kalacak? Grin yaratıcıları Bitcoin üzerine inşaa edilen Lightning Network gibi ikinci katman uygulamaların benzerlerinin Grin üzerine kurulabileceğini ve isteyenin bu uygulamalar ile KriptoPara borsalarında işlem yapabileceğini iddia ediyorlar. Gizlilik ile geniş kitle adaptasyonu bir arada nasıl yürüyecek göreceğiz. 
 
 ### Sonuç
 KriptoPara dünyasında her gün yeni değişik bir ortaya çıkıyor. Her ne kadar ICO piyasalarının geçtiğimiz yılın ikinci yarısından bu yana popülerliğini kaybetmiş ve KriptoParalara ilgili bir kısım kitlenin hevesini kırmış olsa da, bu alanda çalışan girişimciler üzerinde çalıştıkları projeleri yavaş yavaş ayağa kaldırmaya devam ediyorlar. MimbleWimble ve özellikle Grin, bu alanda Bitcoin'in eksik olduğu düşünülen gizlilik alanında devrim yaratacağını düşünen, aynı Monero, Dash, Zcash benzeri yeni bir para. Ancak kimi teknik özellikleri ve kuruluş felsefesi onu diğer KriptoParalar'dan ayırıyor. 
