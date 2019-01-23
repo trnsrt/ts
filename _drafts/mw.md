@@ -1,13 +1,14 @@
 # YAZI I
 
 
-Bitcoin'in çıkışını kaçırdık.  Peki yeni Bitcoin'in çıkışının şu aralar olduğunu söylesem size? 15 Ocak'ta çıktığını? Gerçekten mi? Bunu hiçbirimiz bilemeyiz ama şu aralar Kripto dünyasındaki yeni 'hip' konudan bahsetmek istiyorum size bu yazıda. Nedir bu hip? MimbleWimble, ve şu anki iki uygalaması? Anlamamız gereken yeni bir terim daha, hadi bakalım. Merak etmeyin olabildiğince yalın anlatmaya çalışacağız. 
+Bitcoin'in çıkışını kaçırdık.  Peki bir sonraki Bitcoin'in çıkışının şu aralar daha doğrusu 15 Ocak'ta olduğunu söylesek size? İddialı bir söylem ve bu hiçbirimiz kesin olarak bilemeyiz ama şu aralar Kripto dünyasındaki yeni 'hip' konudan bahsedeceğiz bu yazıda. Nedir bu yeni dalga? MimbleWimble, ve şu anki iki uygulaması.  Anlamamız gereken yeni bir terim daha, hadi bakalım. Merak etmeyin olabildiğince yalın anlatmaya çalışacağız. 
 
-Konuyu basitleştirmek için üç parçaya ayıracağız. Bu yazıda başlangıç seviyesinde işin teknik olmayan kısmına, felsefi ve ekonomik boyutuna MimbleWimble üzerinden bakacağız. [İkinci yazımızda] MimbleWimble üzerine kurulan en heyecanlı uygulama olan Grin parasına göz atacağız. [Üçüncü yazıda] ise, işin teknik kısmına yani felsefi ve ekonomik olarak diğer iki yazıda bahsedilenlerin teknolojik olarak 'nasıl' gerçekleştirildiğine göz atacağız. 
+Konuyu basitleştirmek için üç parçaya ayıracağız. Bu yazıda başlangıç seviyesinde işin teknik olmayan kısmına, felsefi ve ekonomik boyutuna MimbleWimble üzerinden bakacağız. [İkinci yazımızda] MimbleWimble üzerine kurulan en heyecanlı uygulama olan Grin parasına değineceğiz. [Üçüncü yazıda] ise, işin teknik kısmına yani felsefi ve ekonomik olarak diğer iki yazıda bahsedilenlerin teknolojik olarak 'nasıl' gerçekleştirildiğine göz atacağız. 
 
 ### Nereden çıktı bu MimbleWimble?
 
-MibleWimble 2016 Ağustos ayında kriptoparalar üzerine uğraşan yazılımcıların kendi aralarında yazıştıkları chat ortamına birden bire Tom Elvis Jedusor rumuzlu biri tarafından bırakılan bir tanıtım yazısı ile (White Paper) çıktı. 
+MibleWimble 2016 Ağustos ayında kriptoparalar üzerine uğraşan bir grup yazılımcının kendi aralarında yazıştıkları chat ortamına birden bire Tom Elvis Jedusor rumuzlu biri tarafından bırakılan bir tanıtım yazısı (White Paper) ile ortaya çıktı. 
+
 &nbsp;
 
 | ![mimblewimble__400.png](/assets/mimblewimble__400.png) | 
@@ -16,13 +17,12 @@ MibleWimble 2016 Ağustos ayında kriptoparalar üzerine uğraşan yazılımcıl
 
 &nbsp;
 
-Tom Elvis Jedusor, o yazıyı bıraktıktan sonra kayıplara karıştı. Chat ortamındaki diğer yazılımcılar White Paper'ı incelediler,  bahsedilenlerin gerçekliğini, kripto olarak sağlamlığını test ettiler ve gerçekten yeni bir 'olay' ile karşılaştıklarını anladılar. 2016 yılının sonuna doğru Ignotus Peverell rumuzlu bir başka kullanıcı projenin liderliğini ele aldı ve o günden sonra gittikçe büyüyen bir yazılımcı ordusu etrafında MimbleWimble büyümeye ve gelişmeye başladı. En son 2019 yılının 15 Ocak tarihinde artık perdelerini dünyaya açar hale geldi MimbleWimble'in ilk uygulaması olan Grin.
+Tom Elvis Jedusor, o yazıyı bıraktıktan sonra kayıplara karıştı. Chat ortamındaki diğer yazılımcılar White Paper'ı incelediler,  bahsedilenlerin güvenirliğini, kripto olarak sağlamlığını test ettiler ve gerçekten yeni bir 'olay' ile karşılaştıklarını anladılar. 2016 yılının sonuna doğru Ignotus Peverell rumuzlu bir başka kullanıcı projenin liderliğini ele aldı ve o günden sonra gittikçe büyüyen bir yazılımcı ordusu etrafında MimbleWimble büyümeye ve gelişmeye başladı. En son 2019 yılının 15 Ocak tarihinde artık perdelerini dünyaya açar hale geldi MimbleWimble'in ilk uygulaması olan Grin.
 
 ### Ne garip isimler bunlar?
 Gerçekten değil mi? Yukarıdaki paragrafta ismi geçen şahışların hiçbiri gerçek değil. Ama hepsinin bir ortak özelliği var. O da Harry Potter! Gelin kim kimdir bakalım:
 
 - *MimbleWimble*: Yeni teknolojinin altyapısı olan protokolün adı. Harry Potter'ın [Deathly Hallows](https://en.0wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows) serisinde geçen bir büyü.  Amacı bir kişinin dilini bağlayarak büyü yapması için gerekli sözleri anlaşılır şekilde söylemesini önlemek. 
-
 
 &nbsp;
 
@@ -42,7 +42,11 @@ Gerçekten değil mi? Yukarıdaki paragrafta ismi geçen şahışların hiçbiri
 
 &nbsp;
 
-- *Ignotus Peverell*: MimbleWimble üzerine kurulan Grin projesinin lideri. Hary Potter'daki görünmezlik pelerinini üreten büyücü.
+- *Grin*: MimbleWimble üzerine kurulu en tanınmış uygulama (detaylar bir sonraki [yazıda]). Yine Harry Potter öykülerinden birindeki Gringott's büyücülük bankasının adı.
+
+![grin-400.png](/assets/grin-400.png)
+
+- *Ignotus Peverell*: Grin projesinin lideri. Hary Potter'daki görünmezlik pelerinini üreten büyücü.
 
 ![ingotuspeverelaminoappscom-400.jpg](/assets/ingotuspeverelaminoappscom-400.jpg)
 
@@ -51,26 +55,22 @@ Gerçekten değil mi? Yukarıdaki paragrafta ismi geçen şahışların hiçbiri
 ![three_harry_potter_characters-400-2.jpg](/assets/three_harry_potter_characters-400-2.jpg)
 
 
-- *Grin*: MimbleWimble üzerine kurulu en tanınmış uygulama (detaylar bir sonraki [yazıda]). Yine Harry Potter öykülerinden birindeki Gringott's büyücülük bankasının adı.
-
-![grin-400.png](/assets/grin-400.png)
-
 ### Nedir özünde MimbleWimble?
-MimbleWimble özünde Bitcoin'in yaşadığı iki ana sıkıntıyı aşmak için yaratıldı: Gizlilik ve hantallık. 
+MimbleWimble özünde Bitcoin'in yaşadığı iki ana sıkıntıyı aşmak için yaratıldı: Gizlilik (mahremiyet) ve hantallık. 
 
 #### Gizli
 
-Daha önceki yazılarımızda bahsetmiştik. Bitcoin aslında gizli bir sistem değil, sözde gizli demek daha doğru. Bitcoin ile yapılan bir işlemde gizli olan kısım kullanıcı adları yerine adresler kullanılması. Ama gizli olmayan kısımları da alabildiğine şeffaf. Örneğin bir işlemde gönderilen para miktarı. 2009 yılında yapılmış bir işlemde bile ne kadar para transferi yapıldığını görebiliyorsunuz.
+Daha önceki yazılarımızda bahsetmiştik: Bitcoin aslında mahrem bir sistem değil, sözde gizli demek daha doğru. Bitcoin ile yapılan bir işlemde gizli olan kısım sadece kullanıcı adları yerine adresler kullanılması. Ama gizli olmayan kısımları da alabildiğine şeffaf. Örneğin bir işlemde gönderilen para miktarı. 2009 yılında yapılmış bir işlemde bile ne kadar para transferi yapıldığını görebiliyorsunuz.
 
-Ancak kullanıcı adlarının gizli olması aslında çok da gizlilik yaratmıyor. Adreslerin yaptığı işlemler teknik yapılar tarafından takip edilebiliyor, dolayısı ile kanunsuz biri ile bir alışveriş yapmanız durumunda hesabınızın mimlenme ihtimali olabilir. Bunu sadece kanunsuz bir işlem olarak düşünmeyin. Baskıcı rejimlerde yaşayanların adreslerinin rejimler tarafından belirlenmesi ve o kişilerin rejim tarafından baskı altına alınması da olası. 
+Ancak kullanıcı adlarının gizli olması aslında çok da mahremiyet yaratmıyor. Adreslerin yaptığı işlemler teknik yapılar tarafından takip edilebiliyor, dolayısı ile kanunsuz biri ile bir alışveriş yapmanız durumunda hesabınızın mimlenme ihtimali var. Bunu sadece kanunsuz bir işlem olarak düşünmeyin. Baskıcı rejimlerde yaşayanların adreslerinin rejimler tarafından belirlenmesi ve o kişilerin rejim tarafından baskı altına alınması da olası. 
 
-İşte Bitcoin üzerindeki bu sıkıntılar, bireylerin özgürlüğünü kendine şiar edinmiş yazılımcı kesiminin (bunlara cypherpunk da deniyor) tam gizlilik sağlayacak bir protokol arayışında olmasına neden oldu. Bu şekilde ortaya çıkmış Monero, Dash, Zcash benzeri pekçok KriptoPara da var (bu paralara şu yazımızda bahsetmiştik). 
+İşte Bitcoin üzerindeki bu sıkıntılar, bireylerin özgürlüğünü kendine şiar edinmiş yazılımcı kesiminin (bunlara cypherpunk da deniyor) tam mahremiyet sağlayacak bir protokol arayışına girmesine neden oldu. Bu şekilde ortaya çıkmış Monero, Dash, Zcash benzeri pekçok KriptoPara da var (bu paralara şu [yazımızda](https://ademimerkezi.com/genel/2018/06/07/token-dunyasina-devam-diger-kriptopalar-litecoin-monero-dash-zcash.html) bahsetmiştik). 
 
-MimbleWimble kuruluş amacı itibariyle tam bir gizlilik sağlamayı amaçlayan bir protokol. MimbleWimble protokolü ile yapılan işlemlerde işleme taraf olan alıcı ve satıcı ne de işlem miktarı belli. "Öyle olunca hile vs olmuyor mu?" diye soracak olursanız sizi işin teknik kısmını anlattığımız yazımıza bekleriz. 
+MimbleWimble, kuruluş amacı itibariyle tam bir gizlilik sağlamayı amaçlayan bir protokol. MimbleWimble protokolü ile yapılan işlemlerde işleme taraf olan alıcı ve satıcı ne de işlem miktarı belli. "Öyle olunca hile vs olmuyor mu?" diye soracak olursanız sizi işin teknik kısmını anlattığımız [yazımıza] bekleriz. 
 
 #### Basit
 
-Bunun dışında MimbleWimble'in diğer temel özelliği ise basit ve hafif bir program olması. Teknik olmayanları çok da ilgilendiren bir konu değil aslında ancak Bitcoin'de 2009 yılından bugüne yapılmış bütün işlemleri görebiliyorsunuz demiştik. Bu işlemlerin hepsi Bitcoin sistemindeki tüm makineler tarafından tutuluyor. Bu da her bir makine için GB'larca bilgi demek. Bu da sistemin hantallaşmasına sebep oluyor. MimbleWimble üzerine kurulan uygulamalar burada da güvenlikten ödün vermeden basit bir sistem kurmayı hedefliyorlar (detaylar teknik yazımızda). 
+Bunun dışında MimbleWimble'in diğer temel özelliği ise basit ve hafif bir program olması. Teknik olmayanları çok da ilgilendiren bir konu değil aslında ancak Bitcoin'de 2009 yılından bugüne yapılmış bütün işlemleri görebiliyorsunuz demiştik. Bu işlemlerin hepsi Bitcoin sistemindeki tüm makineler tarafından tutuluyor. Bu da her bir makine için GB'larca bilgi demek. Bu da sistemin hantallaşmasına sebep oluyor. MimbleWimble üzerine kurulan uygulamalar burada da güvenlikten ödün vermeden basit bir sistem kurmayı hedefliyorlar (detaylar teknik [yazımızda]). 
 
 
 ### Ne gibi uygulamaları var?
@@ -157,8 +157,6 @@ Grin sisteminde ise input yok, çünkü input yaratacak adresler kullanılmıyor
 Bütün işlemlerin biraraya getirildiği bloklarda da Bitcoin'de olduğu gibi işlemler tek tek görülmüyor. Bunun yerine bütün işlemlerin bir toplamı var - dolayısı ile kim ne işlem yaptı [görmek mümkün değil](https://blockonomi.com/grin-mimblewimble/). 
 
 
-
-
 #### Basitlik/Hafiflik
 
 Bitcoin sisteminin teknik olarak sıkıntılarından biri sistem içindeki makinelerin (node-düğüm) işlemleri teyid etmek için kendi içlerinde tüm blockchain sistemini tutuyor olmaları. Bu data şu anda [200 GB](https://www.blockchain.com/en/charts/blocks-size) civarında ve giderek artıyor. Herhangi bir bilgisayarın sistemi girmesi için bu datayı yüklemesi oldukça uzun bir zaman. 
@@ -211,6 +209,11 @@ Grin'in izleyeceği enflasyon yaratan para politikası aslında gelecekte fiyat�
 İşlemlere hız katmak amacıyla scripting özelliğini yok etmesi ileride Grin'in sadece para transferi için kullanılacak bir araç olarak fonksiyonlarında sınırlamalar yaratabilir. Ancak üzerine inşaa edilebilecek ikinci seviye katmanlar ve ek yazılımlar ile bu sorun giderilebilir gibi görünüyor. 
 
 
+### Sonuç
+
+
+
+Tekrar hatırlatalım. Serimizin MimbleWimble'ı anlatan ilk yazısına [buradan], Grin üzerine yoğunlaşan ikinci yazısına [buradan] ulaşabilirsiniz. 
 
 Bunun yanında, bir kısım Bitcoin geliştiricisinin yarın öbür gün Bitcoin'in başına bir 'şey' gelmesi (teknik konular vb) halinde kendilerine bir B planı aradığının ve Grin'in de bu alana önemli bir aday olduğunu düşündüklerini de belirtelim. 
 
