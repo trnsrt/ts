@@ -40,7 +40,7 @@ Gerçekten değil mi? Yukarıdaki paragrafta ismi geçen şahışların hiçbiri
 ![three_harry_potter_characters-400-2.jpg](/assets/three_harry_potter_characters-400-2.jpg)
 
 
-- *Grin*: MimbleWimble üzerine kurulu en tanınmış uygulama (detaylar aşağıda). Yine Harry Potter öykülerinden birindeki Gringott's büyücülük bankasının adı.
+- *Grin*: MimbleWimble üzerine kurulu en tanınmış uygulama (detaylar bir sonraki [yazıda]). Yine Harry Potter öykülerinden birindeki Gringott's büyücülük bankasının adı.
 
 ![grin-400.png](/assets/grin-400.png)
 
