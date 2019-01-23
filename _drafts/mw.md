@@ -86,7 +86,7 @@ MimbleWimble üzerine çıkan iki projeden biri olan [Beam](https://www.beam.mw/
 
 
 #### Grin
-MimbleWimble'in belki de en ilginç uygulaması Grin. Yazı çok uzadı. Grin'i anlattığımız yazımızı [buradan] okuyabilirsiniz. 
+MimbleWimble'in belki de en ilginç uygulaması [Grin](https://grin-tech.org/). Yazı çok uzadı. Grin'i anlattığımız yazımızı [buradan] okuyabilirsiniz. 
 
 
 ### Serinin devamı.. 
@@ -94,16 +94,17 @@ MimbleWimble'in belki de en ilginç uygulaması Grin. Yazı çok uzadı. Grin'i 
 Yazımızın devamında Grin'e bakıyoruz - [buradan] ulaşabilirsiniz..
 
 # YAZI II
-Bir önceki [yazımızda] en son ortaya çıkan 'hip' teknolojilerden MimbleWimble'a göz atmıştık. MibleWimble aslında bir protokol, yani bir nevi bir altyapı projesi gibi de düşünebilirsiniz. Asıl ilginç olan üzerine kurulan uygulamalar. Geçen yazıda kısaca bu uygulamalardan Beam'e bakmıştık. Asıl ilginç olanı bu yazımızda.
+Bir önceki [yazımızda] en son ortaya çıkan 'hip' teknolojilerden MimbleWimble'a göz atmıştık. MibleWimble Bitcoin benzeri bir Blockchain. Asıl ilginç olan üzerine kurulu uygulamalar. Geçen [yazıda] kısaca bu uygulamalardan Beam'e bakmıştık. Asıl ilginç olanı [Grin])https://grin-tech.org/) ise bu yazımızda.
 
-![grin-400.png](/assets/grin-400.png)
 
 #### Grin
-MimbleWimble'in çıktığı ikinci proje olan Grin, Bitcoin'in başlangıcından beri cypherpunk dediğimiz kitlenin ilgisini daha çok çekiyor. Zira, lideri olan Ignotus Peverell'in kesinlikle kim olduğunun bilinmiyor. Örneğin geçtiğimiz yıl yapılan Grin konferansına Ignotus Peverell text-to-speech teknolojisi ile katıldı. Katılımcıların sorularını yazdığı metini okuyan bilgisayar aracılığı ile cevaplandırdı. 
+![grin-400.png](/assets/grin-400.png)
+
+MimbleWimble'in çıktığı ikinci proje olan Grin, Bitcoin'in başlangıcından beri cypherpunk dediğimiz kitlenin ilgisini daha çok çekiyor. Zira, lideri olan Ignotus Peverell'in kesinlikle kim olduğunu bilinmiyor. Ignotus Peverell Geçtiğimiz yıl yapılan Grin konferansına text-to-speech teknolojisi ile katıldı. Katılımcıların sorularını yazdığı metini okuyan bilgisayar aracılığı ile cevaplandırdı. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k6tCnw6shgQ?start=107" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Bunun yanında herhangi bir yatırım almadı, bundan sonra da sadece crowdfunding (kitlesel fonlama) ile yatırımcılarına herhangi bir taahhütte bulunmadan ilerlemeyi planlıyor. Bunu özellikle önemsiyorlar zira yatırım aldıklarında aslında gerçekten odaklanmaları gereken gizlilik ve kullanılabilirlik yerine yatırımcıya vaad ettiklerini gerçekleştirmek için  değer artırıcı konulara zaman ayırmak zorunda olmaktan korkuyorlar. Zaten ne bir ofisleri var ne de bir organizasyonu, aynı Bitcoin'in ilk günlerindeki gibiler. 
+Bunun yanında Grin herhangi bir şekilde girişim sermayesi benzeri bir yatırım almadı, bundan sonra da sadece crowdfunding (kitlesel fonlama) ile yoluna devam etmeyi planlıyor. Bunu özellikle önemsiyorlar zira yatırım aldıklarında aslında gerçekten odaklanmaları gereken gizlilik ve kullanılabilirlik yerine yatırımcıya vaad ettiklerini gerçekleştirmek adına değer artırıcı konulara zaman ayırmak zorunda kalmaktan korkuyorlar. Zaten ne bir ofisleri var ne de bir organizasyonları, aynı Bitcoin'in ilk günlerindeki gibiler. 
 
 Grin yaratıcıları, Bitcoin'in para saklama aracı olarak piyasanın ağır ağabeyi olarak hakimiyetini sürdüreceğini, kendi paraları olan Grin'in ise para ödeme aracı olarak kullanıcılara pratik ve tam gizlilik sağlayan bir mekanizma kuracağı düşünüyorlar. Bunu gerçekleştirebilmek için de Bitcoin gibi deflasyona (giderek azalan) bir para yaratım politikası yerine, enflasyonist (sabit olarak artan ve bitmeyen) bir [para yaratım politikası](https://www.tokendaily.co/blog/on-grin-mimblewimble-and-monetary-policy) sürdüreceklerini açıklıyorlar. 
 
