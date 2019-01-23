@@ -28,7 +28,7 @@ Gerçekten değil mi? Yukarıdaki paragrafta ismi geçen şahışların hiçbiri
 
 | ![Tongue_Tying_Curse.png](/assets/Tongue_Tying_Curse.png) | 
 |:--:| 
-| *Harry Potter'daki Dil bağlama büyüsünün el işareti - [Kaynak](https://harrypotter.fandom.com/wiki/Tongue-Tying_Curse?file=Tongue-tying-curse.png)* |
+| *Harry Potter'daki 'Dil Bağlama Büyüsü'nün el işareti - [Kaynak](https://harrypotter.fandom.com/wiki/Tongue-Tying_Curse?file=Tongue-tying-curse.png)* |
 
 &nbsp;
 
