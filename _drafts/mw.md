@@ -1,7 +1,7 @@
 # YAZI I
 
 
-"Zamanında buralar hep dutluktu" diyenler gibi bundan on yıl önce Bitcoin'in çıkışını kaçırdık. Peki bir sonraki Bitcoin'in çıkışının şu aralar daha doğrusu 15 Ocak'ta gerçekleştiğini söylesek size? (İddialı bir söylem ve hiçbirimiz kesin olarak bilemeyiz bunu tabii ki). Şu sıralar kripto dünyasındaki yeni 'hip' konudan bahsedeceğiz bu yazıda. Nedir bu yeni dalga? MimbleWimble, ve şu anki iki uygulaması.  Hadi bakalım, anlamamız gereken yeni bir terim daha. Merak etmeyin olabildiğince yalın anlatmaya çalışacağız:
+"Zamanında buralar hep dutluktu" diyenleri bilirsiniz. Benzer şekilde çoğumuz bundan on yıl önce ortaya çıkan Bitcoin'in ilk yıllarını maalesef kaçırdık. Peki bir sonraki Bitcoin'in çıkışının şu aralar, daha doğrusu 15 Ocak'ta gerçekleştiğini söylesek size? (İddialı bir söylem ve hiçbirimiz kesin olarak bilemeyiz bunu tabii ki). Bugünlerde kripto dünyasındaki yeni 'hip' konudan bahsedeceğiz bu yazıda. Nedir bu yeni dalga? MimbleWimble!.  Hadi bakalım, anlamamız gereken yeni bir terim daha. (Merak etmeyin olabildiğince yalın anlatmaya çalışacağız):
 
 Teknik olduğu için bir parça karışık ama basitleştirmek gelin üç parçaya ayıralım anlatacağımızı: 
 * Bu yazıda başlangıç seviyesinde işin teknik olmayan kısmına, felsefi ve ekonomik boyutuna MimbleWimble üzerinden bakacağız. 
