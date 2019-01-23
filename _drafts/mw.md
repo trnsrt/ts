@@ -83,8 +83,12 @@ MimbleWimble üzerine çıkan iki projeden biri olan Beam, İsrailli bir girişi
 
 
 #### Grin
-MibleWimble'in belki de en ilginç uygulaması Grin. Yazı çok uzadı. Grin'i bir sonraki yazımızda buradan okuyabilirsiniz. 
+MimbleWimble'in belki de en ilginç uygulaması Grin. Yazı çok uzadı. Grin'i anlattığımız yazımızı [buradan] okuyabilirsiniz. 
 
+
+### Serinin devamı.. 
+
+Yazımızın devamında Grin'e bakıyoruz - [buradan] ulaşabilirsiniz..
 
 # YAZI II
 Bir önceki [yazımızda] en son ortaya çıkan 'hip' teknolojilerden MimbleWimble'a göz atmıştık. MibleWimble aslında bir protokol, yani bir nevi bir altyapı projesi gibi de düşünebilirsiniz. Asıl ilginç olan üzerine kurulan uygulamalar. Geçen yazıda kısaca bu uygulamalardan Beam'e bakmıştık. Asıl ilginç olanı bu yazımızda.
