@@ -91,7 +91,7 @@ Bu köklere sahip bir oluşum olarak tipik bir kripto para gibi kurucu ekibin ke
 
 Bunun yanında Bitcoin'in başlangıcındaki hızlı gelişimi ve fırsatı kaçıran ciddi bir kesim de, şimdi yeni çıkan bu oluşuma erken katılarak oluşacak fırsatlardan olabildiğince çabuk faydalanma peşinde - ama bu kesimin bir sonraki kısmı okumasında fayda var. 
 
- ![halfin-vs-jlopp-640.png](/assets/halfin-vs-jlopp-640.png)
+ ![halfin-vs-jlopp-900.png](/assets/halfin-vs-jlopp-900.png)
 
 Ama sadece cypherpunk topluluğu değil Grin'i popüler yapan. Her ne kadar dışarıdan yatırım almasa da girişim sermayeleri bir şekilde projeye destek oluyorlar. Nasıl mı? Bir önceki yazımızda bahsettiğimiz değişen yatırımcılık kapsamında. Grin 15 Ocak itibari ile çalışmaya başladı ve işlemler karşılığı madencilere para yaratma hakkı verdi. İşte pek çok girişim sermayesi de şu anda para harcayıp makine satın alarak ve enerji harcayarak madencilik yapıyor. Amaçları Grin parasına rekabet artmadan erkenden sahip olabilmek.
 
