@@ -38,3 +38,9 @@ Bu alanda en yaygın olarak kullanılan uygulama MakerDAO. Gelin biraz daha yak�
 MakerDAO kişiden kişiye 
 
 
+
+MakerDAO
+ETH: Private fiat money
+Dai: Private bank money
+MKR: Private bank equity
+
