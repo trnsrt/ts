@@ -10,7 +10,7 @@ Tek bir güç tarafından kontrol edilemeyen makineler kendilerine verilen emirl
 
 Finans piyasasındaki aktörlerin yapılan işlemlerdeki ana rolü ise aracıyı oynamaları ve güveni teşkil etmeleri idi. Dolayısıyla Blockchain bazlı işlemler finans piyasasındaki gibi aktörler için varoluşsal bir tehdit oluşturuyor - bugün olmasa bile yakın bir gelecekte. 
 
-### Peki her tür finansal işlem etkilenecek mi? İlk tehdit altında olanlar hangisi?
+### Peki her tür finansal işlem etkilenecek mi? İlk tehdit altında olanlar hangileri?
 
 Bu piyasanın tehdit altında olduğu ilk alan para transferleri oldu. Özellikle yüksek maliyetli olan transferleri - örneğin ülkelerarası SWIFT transferleri. Hem yüksek maliyetli, hem yavaş hem de kimi zaman kimi ülkelerde yaşayanlar için ulaşması imkansız bir sistem. 
 
