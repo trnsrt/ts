@@ -1,6 +1,8 @@
 
 
-Decentralized Finance (DeFi), son zamanlarda en çok konuşulan alanlardan biri. Finans sektörü pek çok taraftan tehlike altında olabilir. Bunun ana nedeni Blockchain bazlı sistemlerin ana amacının merkezi bir aracıya bağlı olan güveni makinelere yayması olduğunu söylüyoruz hep. Bu makineler hep dağınık ve birbirinden bağımsız. Neden? Çünkü dağınık olmaları durumda tek bir güç tarafından kontrol edilmeleri imkansıza yakın hale geliyor. 
+Finans sektörü merkezi olmayan dağıtık sistemlerden en çok etkilenen alanlardan biri olabilir. İşte bu alandaki son zamanlarda en çok konuşulan kavramlardan biri olan Decentralized Finance (DeFi) kavramına bakıyoruz şimdi. 
+
+Blockchain bazlı sistemlerin ana amacının merkezi bir aracıya bağlı olan güveni makinelere yayması olduğunu söylüyoruz hep. Bu makineler hep dağınık ve birbirinden bağımsız. Neden? Çünkü dağınık olmaları durumda tek bir güç tarafından kontrol edilmeleri imkansıza yakın hale geliyor. 
 
 Tek bir güç tarafından kontrol edilemeyen makineler kendilerine verilen emirleri gerekli koşullar oluştuğu anda kimseye sormadan otomatik olarak gerçekleştiriyorlar. Hile yok, hurda yok, gecikme yok. Koşul gerçekleşti, işlem de gerçekleşiyor. Bu da Akıllı Kontratlar ile sağlanıyor. 
 
