@@ -26,4 +26,15 @@ Bu demek değil ki bu KriptoParalar alışveriş için kullanımda başarısız 
 
 ### Başka hangi alanlar etkilenecek?
 
-Peki para transferlerinin ötesinde finansın hangi alanında Blockchain bazlı girişimlerin başarı şansı daha fazla. Decentralized Finance denen bu yeni alanlanda hangi alanlar göreceli basit ve yüksek maliyetli.  En başta basit borç işlemleri geliyor. 
+Peki para transferlerinin ötesinde finansın hangi alanında Blockchain bazlı girişimlerin başarı şansı daha fazla. Decentralized Finance denen bu yeni alanlanda hangi alanlar göreceli basit ve yüksek maliyetli.  En başta basit borç işlemleri geliyor. Bir sonraki yazımızda DeFi nedir daha detaylı olarak bakalım.. 
+
+
+DeFi dediğimizde genel olarak kastedilen, Akıllı Kontratlar ile işlemlerin aracısız olarak gerçekleşmesi. Yani herhangi bir güç tarafından kontrol edilmeyen makinelerin verilen işlemleri baştan belirlenen koşullar gerçekleştiğinde otomatik olarak gerçekleştirmesi. Bu alanda ilk akla gelebilecek uygulamanın para transferi olduğunu belirtmiş ve Bitcoin başta olmak üzere pek çok KriptoPara ile bu alanda belli yol katedildiğini belirtmiş.  İkinci alan olarak da kredi verme ve almadan bahsedebiliriz. 
+
+Bu alanda en yaygın olarak kullanılan uygulama MakerDAO. Gelin biraz daha yakından bakalım.. 
+
+### MakerDAO nedir?
+
+MakerDAO kişiden kişiye 
+
+
