@@ -35,7 +35,11 @@ Bu alanda en yaygın olarak kullanılan uygulama MakerDAO. Gelin biraz daha yak�
 
 ### DeFi nedir?
 
-DeFi - yani Decentralized Finance finans alanında çalışan pekçok girişimin ortaklaşa kurdukları bir protokol. 
+DeFi - yani Decentralized Finance pek çok girişimin ortaklaşa kurdukları bir protokol va açık bir topluluk. Kurucularının ortak özelliği Blockchain sistemleri üzerne girişimler olmaları. Girişimlerin çıkış amacı kurulduktan sonra benzer sıkıntıları paylaşmaları ve vizyonları da silo halinde organize olmuş mevcut finansal altyapıları değiştirmek. Ana [prensipleri](https://medium.com/defi-network/opening-defi-42a5afdb71e0) ise şu üç konu: 
+
+* Karşılıklı kullanılabilirlik ve açık kaynak: Bütün projelerin kurulurken karşılıklı kurulabilirlir olmasına dikkat etmek. Bunun için de özellikle açık kaynak kullanmak. Böylece bütün projelerin birbirleri ile nasıl kullanılabileceği ile ilgili ortak bir bilinç oluşturmak. 
+* Ulaşılabilirlik ve finansal kapsayıcılık: İnternet bağlantısı olan herkesin ulaşabileceği bir finansal sistem hayali. Aynı şekilde "değer"in (ya da bir varlığın) kişinin coğrafi konumundan bağımsız olarak dünyada serbestçe dolaşabilmesi. 
+* Finansal şeffaflık: Finansal hizmetlerin şeffaf olmayan silolarda tutulması yerine kişilerin gizliliği konusunu saklı tutmak kaydıyla tüm piyasa bilgisinin tüm katılımcılara açık olduğu bir sistem inancı. 
 
 ### MakerDAO nedir?
 
