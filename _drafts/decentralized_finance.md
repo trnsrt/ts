@@ -62,6 +62,8 @@ Buna dikkat etmek gerekiyor işte. Zira ETH'nin değeri düşerse ekstra ETH yü
 
 Şu ana kadar iyi gittiklerini söylemek mümkün. Zira şu anda iki milyon ETH'e yakın miktar MakerDAO sistemi üzerinden borçlandırılmış (CDP - Collaterized Debt Positions). ETH'nin şu aralar 120 ABD Doları civarında olduğu düşünülürse yaklaşık 240 Milyon ABD doları bir rakam ediyor bu. Ethereum'un kullanım olarak en işlevsel platformlarından biri MakerDAO. 
 
+<script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script><div class="coinmarketcap-currency-widget" data-currencyid="2308" data-base="USD" data-secondary="" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="USD" data-statsticker="false"></div>
+
 
 
 
