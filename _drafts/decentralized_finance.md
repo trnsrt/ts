@@ -55,7 +55,8 @@ Diyelim ani olarak paraya ihtiyacınız var, mevcut paranızı da ETH'ye yatırd
 #### Kredi maliyeti ne? 
 Şu anda inanılmaz ucuz. Yıllık 0.5% bir faiz maliyeti var (bunu sistem içinde ayrı bir para ile ödüyorsunuz ama şu aşamada çok da gerekli değil bunu bilmek). 
 
-Ya ETH çok düşer de teminatımın altına inerse? Buna dikkat etmek gerekiyor işte. Zira ETH'nin değeri düşerse ekstra ETH yüklemeniz yapmanız lazım. Ya da baştan ihtiyacınız olan nakitten daha fazla ETH koymakta fayda var. Şu anda sistemde kilitli tutulan teminat rakamının kullanılan kredi oranına baktığımızda yaklaşık %200 olduğunu görüyoruz. Yani insanlar gerekli minimum limit olan %150'nin üzerine bir %50'lik bir ekstra teminat koymuşlar kullandıkları krediler için. 
+#### Ya ETH çok düşer de teminatımın altına inerse? 
+Buna dikkat etmek gerekiyor işte. Zira ETH'nin değeri düşerse ekstra ETH yüklemeniz yapmanız lazım. Ya da baştan ihtiyacınız olan nakitten daha fazla ETH koymakta fayda var. Şu anda sistemde kilitli tutulan teminat rakamının kullanılan kredi oranına baktığımızda yaklaşık %200 olduğunu görüyoruz. Yani insanlar gerekli minimum limit olan %150'nin üzerine bir %50'lik bir ekstra teminat koymuşlar kullandıkları krediler için. 
 
 ### Peki başarılı olmuş mu MakerDAO?
 
