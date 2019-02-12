@@ -40,7 +40,7 @@ DeFi - yani Decentralized Finance pek çok girişimin ortaklaşa kurdukları bir
 * Ulaşılabilirlik ve finansal kapsayıcılık: İnternet bağlantısı olan herkesin ulaşabileceği bir finansal sistem hayali. Aynı şekilde "değer"in (ya da bir varlığın) kişinin coğrafi konumundan bağımsız olarak dünyada serbestçe dolaşabilmesi. 
 * Finansal şeffaflık: Finansal hizmetlerin şeffaf olmayan silolarda tutulması yerine kişilerin gizliliği konusunu saklı tutmak kaydıyla tüm piyasa bilgisinin tüm katılımcılara açık olduğu bir sistem inancı. 
 
-DeFi protokolü üye girişimlerin bazıları Dharma Labs, [dy/dx](https://dydx.exchange/), [Compound](https://compound.finance/), [CDx](https://cdxproject.com/), [Coinbase Wallet](https://wallet.coinbase.com/), [Kyber Network](https://kyber.network/), [bZx](https://b0x.network/), [MARKET Protocol](https://marketprotocol.io/), [8x Protocol](https://8xprotocol.com/), [Centrifuge](http://www.centrifuge.io/), [Connext](https://connext.network/), [Loopring](https://loopring.org/). Ama en yaygın kullanılanı [Maker DAO](https://makerdao.com/).. 
+DeFi protokolü üye girişimlerin bazıları [Dharma Labs](https://dharma.io/), [dy/dx](https://dydx.exchange/), [Compound](https://compound.finance/), [CDx](https://cdxproject.com/), [Coinbase Wallet](https://wallet.coinbase.com/), [Kyber Network](https://kyber.network/), [bZx](https://b0x.network/), [MARKET Protocol](https://marketprotocol.io/), [8x Protocol](https://8xprotocol.com/), [Centrifuge](http://www.centrifuge.io/), [Connext](https://connext.network/), [Loopring](https://loopring.org/). Ama en yaygın kullanılanı [Maker DAO](https://makerdao.com/).. 
 
 ### MakerDAO nedir?
 
