@@ -62,6 +62,10 @@ Buna dikkat etmek gerekiyor işte. Zira ETH'nin değeri düşerse ekstra ETH yü
 
 Şu ana kadar iyi gittiklerini söylemek mümkün. Zira şu anda iki milyon ETH'e yakın miktar MakerDAO sistemi üzerinden borçlandırılmış (CDP - Collaterized Debt Positions). ETH'nin şu aralar 120 ABD Doları civarında olduğu düşünülürse yaklaşık 240 Milyon ABD doları bir rakam ediyor bu. Ethereum'un kullanım olarak en işlevsel platformlarından biri MakerDAO. 
 
+MakerDAO tamamen otomatik bir sistem. Arada herhangi bir aracı yok. Karmaşık anlaşmalar yok - kağıt imza vs yok. Sistem tamamen kodlanmış makineler aracılığıyla işliyor. Teminatınızı koyuyorsunuz, paranızı alıyorsunuz. Teminatınız 150%'nin altına düşerse ETH'niz bozduruluyor ve kredi borcunuzun üzerindeki teminatınız hesabınıza yatıyor. 
+
+Kredi veren için ise, benzer şekilde hiçbir aracı vs olmadan paranızı değerlendirebileceğiniz bir sistem. Faiz rakamı düşük olduğu için insanlar neden buraya para yatırsın diye düşünebilirsiniz. Genelde bireysel olarak para yatıran olmuyor. Daha çok kurumsal yatırımcılar sisteme borç veriyorlar. Onlar için bir başka kanal bu. 
+
 <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script><div class="coinmarketcap-currency-widget" data-currencyid="2308" data-base="USD" data-secondary="" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="USD" data-statsticker="false"></div>
 
 
