@@ -44,7 +44,24 @@ DeFi protokolü üye girişimlerin bazıları [Dharma Labs](https://dharma.io/),
 
 ### MakerDAO nedir?
 
-MakerDAO kişilerin ellerinde duran KriptoParaları teminat vererek DAI SabitParası yaratmalarına olanak veren bir dağıtık bir sistem.  
+MakerDAO kişilerin ellerinde duran KriptoParaları teminat vererek DAI SabitParası yaratmalarına olanak veren bir dağıtık bir sistem.  DAI nedir peki? Dai bir ABD Dolarına eşit olan bir SabitPara. SabitParaların ne olduklarına şu iki yazımızda değinmiştik. 
+
+#### Nasıl çalışıyor? 
+Elinizdeki (şu an için Ethereum parası ETH geçerli) KriptoPara'ları teminat olarak gösteriyorsunuz, buradaki deyişiyle ETH'lerinizi sistem içine kilitliyorsunuz. Gönderdiğiniz her 150 birim para için 100 birime kadar DAI alabiliyorsunuz. Sonrasında DAI'yi istediğiniz noktada birebir değerden ABD Doları'na çeviriyor ve kullanıyorsunuz. 
+
+#### Neden insanlar kullanıyor? 
+Diyelim ani olarak paraya ihtiyacınız var, mevcut paranızı da ETH'ye yatırdınız. ETH'nin yükseleceğini düşünüyorsunuz ya da başka herhangi bir nedenle ETH'lerinizden ayrılmak istemiyorsunuz. Bu sistemi kullanarak hem nakit ihtiyacınızı karşılayabilir hem de ETH'nin getireceği kardan yararlanabilirsiniz. 
+
+#### Kredi maliyeti ne? 
+Şu anda inanılmaz ucuz. Yıllık 0.5% bir faiz maliyeti var (bunu sistem içinde ayrı bir para ile ödüyorsunuz ama şu aşamada çok da gerekli değil bunu bilmek). 
+
+Ya ETH çok düşer de teminatımın altına inerse? Buna dikkat etmek gerekiyor işte. Zira ETH'nin değeri düşerse ekstra ETH yüklemeniz yapmanız lazım. Ya da baştan ihtiyacınız olan nakitten daha fazla ETH koymakta fayda var. Şu anda sistemde kilitli tutulan teminat rakamının kullanılan kredi oranına baktığımızda yaklaşık %200 olduğunu görüyoruz. Yani insanlar gerekli minimum limit olan %150'nin üzerine bir %50'lik bir ekstra teminat koymuşlar kullandıkları krediler için. 
+
+### Peki başarılı olmuş mu MakerDAO?
+
+Şu ana kadar iyi gittiklerini söylemek mümkün. Zira şu anda iki milyon ETH'e yakın miktar MakerDAO sistemi üzerinden borçlandırılmış (CDP - Collaterized Debt Positions). ETH'nin şu aralar 120 ABD Doları civarında olduğu düşünülürse yaklaşık 240 Milyon ABD doları bir rakam ediyor bu. Ethereum'un kullanım olarak en işlevsel platformlarından biri MakerDAO. 
+
+
 
 
 
