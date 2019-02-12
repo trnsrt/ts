@@ -28,7 +28,6 @@ Bu demek değil ki bu KriptoParalar alışveriş için kullanımda başarısız 
 
 Peki para transferlerinin ötesinde finansın hangi alanında Blockchain bazlı girişimlerin başarı şansı daha fazla. Decentralized Finance denen bu yeni alanlanda hangi alanlar göreceli basit ve yüksek maliyetli.  En başta basit borç işlemleri geliyor. Bir sonraki yazımızda DeFi nedir daha detaylı olarak bakalım.. 
 
-
 DeFi dediğimizde genel olarak kastedilen, Akıllı Kontratlar ile işlemlerin aracısız olarak gerçekleşmesi. Yani herhangi bir güç tarafından kontrol edilmeyen makinelerin verilen işlemleri baştan belirlenen koşullar gerçekleştiğinde otomatik olarak gerçekleştirmesi. Bu alanda ilk akla gelebilecek uygulamanın para transferi olduğunu belirtmiş ve Bitcoin başta olmak üzere pek çok KriptoPara ile bu alanda belli yol katedildiğini belirtmiş.  İkinci alan olarak da kredi verme ve almadan bahsedebiliriz. 
 
 Bu alanda en yaygın olarak kullanılan uygulama MakerDAO. Gelin biraz daha yakından bakalım.. 
@@ -40,6 +39,8 @@ DeFi - yani Decentralized Finance pek çok girişimin ortaklaşa kurdukları bir
 * Karşılıklı kullanılabilirlik ve açık kaynak: Bütün projelerin kurulurken karşılıklı kurulabilirlir olmasına dikkat etmek. Bunun için de özellikle açık kaynak kullanmak. Böylece bütün projelerin birbirleri ile nasıl kullanılabileceği ile ilgili ortak bir bilinç oluşturmak. 
 * Ulaşılabilirlik ve finansal kapsayıcılık: İnternet bağlantısı olan herkesin ulaşabileceği bir finansal sistem hayali. Aynı şekilde "değer"in (ya da bir varlığın) kişinin coğrafi konumundan bağımsız olarak dünyada serbestçe dolaşabilmesi. 
 * Finansal şeffaflık: Finansal hizmetlerin şeffaf olmayan silolarda tutulması yerine kişilerin gizliliği konusunu saklı tutmak kaydıyla tüm piyasa bilgisinin tüm katılımcılara açık olduğu bir sistem inancı. 
+
+DeFi protokolü üye girişimlerin bazıları Dharma Labs, [dy/dx](https://dydx.exchange/), [Compound](https://compound.finance/), [CDx](https://cdxproject.com/), [Coinbase Wallet](https://wallet.coinbase.com/), [Kyber Network](https://kyber.network/), [bZx](https://b0x.network/), [MARKET Protocol](https://marketprotocol.io/), [8x Protocol](https://8xprotocol.com/), [Centrifuge](http://www.centrifuge.io/), [Connext](https://connext.network/), [Loopring](https://loopring.org/). Ama en yaygın kullanılanı [Maker DAO](https://makerdao.com/).. 
 
 ### MakerDAO nedir?
 
