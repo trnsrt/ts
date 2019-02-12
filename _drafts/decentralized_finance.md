@@ -33,9 +33,13 @@ DeFi dediğimizde genel olarak kastedilen, Akıllı Kontratlar ile işlemlerin a
 
 Bu alanda en yaygın olarak kullanılan uygulama MakerDAO. Gelin biraz daha yakından bakalım.. 
 
+### DeFi nedir?
+
+DeFi - yani Decentralized Finance finans alanında çalışan pekçok girişimin ortaklaşa kurdukları bir protokol. 
+
 ### MakerDAO nedir?
 
-MakerDAO kişiden kişiye 
+MakerDAO kişiden kişiye
 
 
 
