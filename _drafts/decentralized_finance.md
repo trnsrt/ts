@@ -44,7 +44,7 @@ DeFi protokolü üye girişimlerin bazıları [Dharma Labs](https://dharma.io/),
 
 ### MakerDAO nedir?
 
-MakerDAO kişiden kişiye
+MakerDAO kişilerin ellerinde duran KriptoParaları teminat vererek DAI SabitParası yaratmalarına olanak veren bir dağıtık bir sistem.  
 
 
 
