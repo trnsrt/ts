@@ -99,6 +99,9 @@ Sistem şu ana kadar sıkıntı yaşamadan ilerledi. ETH sene içinde çok ciddi
 
 ### MakerDAO her derde deva mı?
 
+| ![swiss-army-knife-640.png](/assets/swiss-army-knife-640.png) | 
+
+
 Tabii ki hayır. Ancak, bir ürünü ne kadar basit ve istisnaları dışarıda bırakarak şekillendirirseniz o kadar otonom (insan eli değmeden) hale yürütebilirsiniz tezine güzel bir örnek. Şu anki rakamlar cesaret verici olsa da ileride gerçekten finans piyasalarını sarsıcı bir devrim haline dönüşür mü? Bunu şimdiden tahmin etmek oldukça zor. Neden?
 
 Öncelikle, kriz anlarında test edilmiş bir ürün değil. Test edebilmenin tek yolu da ancak bir kriz yaşamaktan geçiyor - tabii ki stres test benzeri çalışmalar var ama hiçbiri kriz anında ne olacağını tam gösteremiyor. Yukarıda da yazdığımız gibi ETH 2019 yılında değer kaybetti ve MakerDAO'ya hiç bir sıkıntı yaratmadı bu durum. Peki ya ani düşüşler?
