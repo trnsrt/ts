@@ -123,23 +123,3 @@ MakerDAO kısa sürede kattettiği aşama ile büyük bir potansiyel gösteriyor
 
 
 Not: Teknik olarak çok detaya girmedik ancak DAI dışında MakerDAO'nun bir parası daha var o da MKR. DAI'yi sistemin parası, MKR'yi ise sistemin sermayesi (equity) olarak düşünebiliriz. Para alışverişleri DAI ile yapılırken ve DAI ABD Dolarına sabitlenmiş bir para iken, bu para üzerindeki faiz MKR üzerinden ödeniyor. MKR sahibi olanlar aynı zamanda sistemin yönetiminde söz sahibi oluyorlar - örneğin teminat oranlarının belirlenmesi gibi. Bu arada eğer ola ki bir kriz olması durumunda MKR bir nevi acil durumda kırılacak cam gibi çalışıyor. Eğer teminat rakamları kredi rakamlarını karşılamaz ise o zaman açık MKR bozularak karşılanıyor - bu da MKR için olumsuz bir durum. Dolayısıyla MKR sahipleri ellerindeki değer azalmasın diye teminat oranı vb rakamlarda olabildiğince konservatif davranmak zorundalar. Bir nevi sistem bu alanda da bir otokontrol getiriyor. 
-
-
-MakerDAO'nun şu anda iki ana ürünü var ve bu iki ürün aslında birbirlerini tamamlıyorlar. Bunlardan biri DAI, yani sistemi işleten SabitPara. Diğeri ise CDP - Collaterized Debt Position, yani 
-
-
-<script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script><div class="coinmarketcap-currency-widget" data-currencyid="2308" data-base="USD" data-secondary="" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="USD" data-statsticker="false"></div>
-
-
-DeFi platformlar bize çok
-
-
-
-
-
-
-MakerDAO
-ETH: Private fiat money
-Dai: Private bank money
-MKR: Private bank equity
-
