@@ -16,6 +16,8 @@ Bu piyasanın tehdit altında olduğu ilk alan para transferleri oldu. Özellikl
 
 Dikkat ederseniz, para transferi kişiler arası yapılabilecek finansal işlemlerin en basiti. Bir kişi kendine ait bir parasal değeri bir diğer kişiye koşulsuz olarak transfer ediyor. Dolayısıyla makineler tarafından yapılması en kolay olanı - bu nedenle merkezi olmayan yapılar tarafından ilk olarak fethedilmeye çalışan yerler oldular. 
 
+![counting-money.gif](/assets/counting-money.gif)
+
 Elbette ileride tüm para transferleri bankalardan alınıp makinelere geçecek demek doğru olmaz. Zira eğer bankadan çok cüzi miktarda para transferini EFT sistemi ile hızlı yapabiliyorsanız neden KriptoPara gibi alternatifler ile uğraşasınız ki? Ama dediğimiz gibi SWIFT gibi yüksek maliyetli bir alana girerseniz işte orada KriptoPara şimdiden bir alternatif olmaya başladı. 
 
 Dolayısıyla, Blockchain bazlı yapılar öncelikle basit ve yüksek maliyetli alanlara odaklanacaklar. Teknoloji geliştikçe daha karmaşık alanlara girmeye başlayacaklar. Aslında belki daha doğrusu şu: Blockchain bazlı girişimler finansın her alanında mevcut sistemlere karşı yenilikler çıkaracaklar. Ancak bunlardan basit, yüksek maliyetli ve de geniş kitleler tarafından kullanılanlarının başarı şansı daha yüksek. 
@@ -106,6 +108,15 @@ MakerDAO'nun şu anda iki ana ürünü var ve bu iki ürün aslında birbirlerin
 
 
 DeFi platformlar bize çok
+
+
+&nbsp;
+
+| ![counting-money.gif](/assets/counting-money.gif) | 
+|:--:| 
+| *Bitcoin, Altın ve Grin emisyon hacimleri % olarak [Kaynak](https://plot.ly/~Bobby_Digital/1/#/)* |
+
+&nbsp;
 
 
 
