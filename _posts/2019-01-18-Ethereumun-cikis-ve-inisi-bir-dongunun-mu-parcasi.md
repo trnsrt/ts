@@ -47,7 +47,7 @@ Ancak 2018 yılının ikinci yarısında rüzgar tersine döndü. Yapılan ICO'l
 
 &nbsp;
 
-| ![ETH_vs_BTC_Index_180101-190117.png](/assets/ETH_vs_BTC_Index_180101-190117.png) | 
+| ![ETH_vs_BTC_Index_180101_190117.png](/assets/ETH_vs_BTC_Index_180101_190117.png) | 
 |:--:| 
 | *Yukarıdaki tabloya 2018 başından bakınca düşüş daha iyi anlaşılıyor [(Kaynak)](https://www.coindesk.com/price/bitcoin)*  |
 
