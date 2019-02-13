@@ -49,7 +49,7 @@ DeFi protokolü üye girişimlerin bazıları [Dharma Labs](https://dharma.io/),
 
 &nbsp;
 
-| ![de-fi-platforms.png](/assets/de-fi-platforms.png) | 
+| ![defi-platforms-640.png](/assets/defi-platforms-640.png) | 
 |:--:| 
 | *DeFi kurucu üye platformlar  (Kaynak: [Dharma](https://blog.dharma.io/announcing-de-fi-an-alliance-of-decentralized-finance-platforms-9b4faf50b801))* |
 
