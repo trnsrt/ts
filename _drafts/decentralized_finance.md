@@ -16,7 +16,10 @@ Bu piyasanın tehdit altında olduğu ilk alan para transferleri oldu. Özellikl
 
 Dikkat ederseniz, para transferi kişiler arası yapılabilecek finansal işlemlerin en basiti. Bir kişi kendine ait bir parasal değeri bir diğer kişiye koşulsuz olarak transfer ediyor. Dolayısıyla makineler tarafından yapılması en kolay olanı - bu nedenle merkezi olmayan yapılar tarafından ilk olarak fethedilmeye çalışan yerler oldular. 
 
-![counting-money.gif](/assets/counting-money.gif)
+| ![counting-money.gif](/assets/counting-money.gif) | 
+|:--:| 
+| *Yıllık %0.5 maliyet mi? Al, al, al..  [Kaynak: Giphy](https://media.giphy.com/media/3UOkbxfzxOL7O/giphy.gif)* |
+
 
 Elbette ileride tüm para transferleri bankalardan alınıp makinelere geçecek demek doğru olmaz. Zira eğer bankadan çok cüzi miktarda para transferini EFT sistemi ile hızlı yapabiliyorsanız neden KriptoPara gibi alternatifler ile uğraşasınız ki? Ama dediğimiz gibi SWIFT gibi yüksek maliyetli bir alana girerseniz işte orada KriptoPara şimdiden bir alternatif olmaya başladı. 
 
@@ -62,6 +65,16 @@ Diyelim ani olarak paraya ihtiyacınız var, mevcut paranızı da ETH'ye yatırd
 
 #### Kredi maliyeti ne? 
 Şu anda inanılmaz ucuz. Yıllık 0.5% bir faiz maliyeti var (bunu sistem içinde ayrı bir para ile ödüyorsunuz ama şu aşamada çok da gerekli değil bunu bilmek). 
+
+&nbsp;
+
+| ![money-exchange.gif](/assets/money-exchange.gif) | 
+|:--:| 
+| *Yıllık %0.5 maliyet mi? Al, al, al..  [Kaynak: Giphy](https://media.giphy.com/media/6nXIRmdkjett6/giphy.gif)* |
+
+&nbsp;
+
+
 
 #### Ya ETH çok düşer de teminatımın altına inerse? 
 Buna dikkat etmek gerekiyor işte. Zira ETH'nin değeri düşerse ekstra ETH yüklemeniz yapmanız lazım. Ya da baştan ihtiyacınız olan nakitten daha fazla ETH koymakta fayda var. Şu anda sistemde kilitli tutulan teminat rakamının kullanılan kredi oranına baktığımızda yaklaşık %200 olduğunu görüyoruz. Yani insanlar gerekli minimum limit olan %150'nin üzerine bir %50'lik bir ekstra teminat koymuşlar kullandıkları krediler için. 
@@ -110,13 +123,6 @@ MakerDAO'nun şu anda iki ana ürünü var ve bu iki ürün aslında birbirlerin
 DeFi platformlar bize çok
 
 
-&nbsp;
-
-| ![counting-money.gif](/assets/counting-money.gif) | 
-|:--:| 
-| *Bitcoin, Altın ve Grin emisyon hacimleri % olarak [Kaynak](https://plot.ly/~Bobby_Digital/1/#/)* |
-
-&nbsp;
 
 
 
