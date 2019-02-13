@@ -42,6 +42,12 @@ DeFi - yani Decentralized Finance pek çok girişimin ortaklaşa kurdukları bir
 
 DeFi protokolü üye girişimlerin bazıları [Dharma Labs](https://dharma.io/), [dy/dx](https://dydx.exchange/), [Compound](https://compound.finance/), [CDx](https://cdxproject.com/), [Coinbase Wallet](https://wallet.coinbase.com/), [Kyber Network](https://kyber.network/), [bZx](https://b0x.network/), [MARKET Protocol](https://marketprotocol.io/), [8x Protocol](https://8xprotocol.com/), [Centrifuge](http://www.centrifuge.io/), [Connext](https://connext.network/), [Loopring](https://loopring.org/). Ama en yaygın kullanılanı [Maker DAO](https://makerdao.com/).. 
 
+### Arkası yarın
+
+Bir sonraki yazımızda Decentralized Finance hareketinin en yaygını olan MakerDAO'ya bakalım.. 
+
+# Yazı II
+
 ### MakerDAO nedir?
 
 MakerDAO kişilerin ellerinde duran KriptoParaları teminat vererek DAI SabitParası yaratmalarına olanak veren bir dağıtık bir sistem.  DAI nedir peki? Dai bir ABD Dolarına eşit olan bir SabitPara. SabitParaların ne olduklarına şu iki yazımızda değinmiştik. 
