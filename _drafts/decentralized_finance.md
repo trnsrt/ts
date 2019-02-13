@@ -50,7 +50,7 @@ Bir sonraki yazımızda Decentralized Finance hareketinin en yaygını olan Make
 
 ### MakerDAO nedir?
 
-MakerDAO kişilerin ellerinde duran KriptoParaları teminat vererek DAI SabitParası yaratmalarına olanak veren bir dağıtık bir sistem.  DAI nedir peki? Dai bir ABD Dolarına eşit olan bir SabitPara. SabitParaların ne olduklarına şu iki yazımızda değinmiştik. 
+MakerDAO kişilerin ellerinde duran KriptoParaları teminat vererek DAI SabitParası yaratmalarına olanak veren bir dağıtık bir sistem. Ethereum üzerinde kurulu Akıllı Kontratları kullanıyor bunu yapmak için. DAI nedir peki? Dai bir ABD Dolarına eşit olan bir SabitPara. SabitParaların ne olduklarına şu iki yazımızda ([Orası çok dalgalı, sakin sulara gel](https://ademimerkezi.com/genel/2018/07/20/Orasi-cok-dalgali-sakin-sulara-gel-sabitparalar.html) ve [SabitParalara devam](https://ademimerkezi.com/genel/2018/07/27/sabitparalara-devam-digerleri.html)) değinmiştik. 
 
 #### Nasıl çalışıyor? 
 Elinizdeki (şu an için Ethereum parası ETH geçerli) KriptoPara'ları teminat olarak gösteriyorsunuz, buradaki deyişiyle ETH'lerinizi sistem içine kilitliyorsunuz. Gönderdiğiniz her 150 birim para için 100 birime kadar DAI alabiliyorsunuz. Sonrasında DAI'yi istediğiniz noktada birebir değerden ABD Doları'na çeviriyor ve kullanıyorsunuz. 
