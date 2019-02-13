@@ -18,7 +18,7 @@ Dikkat ederseniz, para transferi kişiler arası yapılabilecek finansal işleml
 
 | ![counting-money.gif](/assets/counting-money.gif) | 
 |:--:| 
-| *Yıllık %0.5 maliyet mi? Al, al, al..  [Kaynak: Giphy](https://media.giphy.com/media/3UOkbxfzxOL7O/giphy.gif)* |
+| *Yıllık %0.5 maliyet mi? Al, al, al..  (Kaynak: [Giphy](https://media.giphy.com/media/3UOkbxfzxOL7O/giphy.gif))* |
 
 
 Elbette ileride tüm para transferleri bankalardan alınıp makinelere geçecek demek doğru olmaz. Zira eğer bankadan çok cüzi miktarda para transferini EFT sistemi ile hızlı yapabiliyorsanız neden KriptoPara gibi alternatifler ile uğraşasınız ki? Ama dediğimiz gibi SWIFT gibi yüksek maliyetli bir alana girerseniz işte orada KriptoPara şimdiden bir alternatif olmaya başladı. 
@@ -70,7 +70,7 @@ Diyelim ani olarak paraya ihtiyacınız var, mevcut paranızı da ETH'ye yatırd
 
 | ![money-exchange.gif](/assets/money-exchange.gif) | 
 |:--:| 
-| *Yıllık %0.5 maliyet mi? Al, al, al..  [Kaynak: Giphy](https://media.giphy.com/media/6nXIRmdkjett6/giphy.gif)* |
+| *Yıllık %0.5 maliyet mi? Al, al, al..  (Kaynak: [Giphy](https://media.giphy.com/media/6nXIRmdkjett6/giphy.gif))* |
 
 &nbsp;
 
