@@ -70,7 +70,7 @@ Diyelim ani olarak paraya ihtiyacınız var, mevcut paranızı da ETH'ye yatırd
 
 | ![money-exchange.gif](/assets/money-exchange.gif) | 
 |:--:| 
-| *Yıllık %0.5 maliyet mi? Al, al, al..  (Kaynak: [Giphy](https://media.giphy.com/media/6nXIRmdkjett6/giphy.gif))* |
+| *Yıllık %0.5 maliyet mi? Ver, hepsini ver...  (Kaynak: [Giphy](https://media.giphy.com/media/6nXIRmdkjett6/giphy.gif))* |
 
 &nbsp;
 
