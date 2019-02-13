@@ -72,13 +72,27 @@ Sistem şu ana kadar sıkıntı yaşamadan ilerledi. ETH sene içinde çok ciddi
 
 Tabii ki hayır. Ancak, bir ürünü ne kadar basit ve istisnaları dışarıda bırakarak şekillendirirseniz o kadar otonom (insan eli değmeden) hale yürütebilirsiniz tezine güzel bir örnek. Şu anki rakamlar cesaret verici olsa da ileride gerçekten finans piyasalarını sarsıcı bir devrim haline dönüşür mü? Bunu şimdiden tahmin etmek oldukça zor. Neden?
 
-Öncelikle, kriz anlarında test edilmiş bir ürün değil. Test edebilmenin tek yolu da ancak bir kriz yaşamaktan geçiyor - tabii ki stres test benzeri çalışmalar var ama hiçbiri kriz anında ne olacağını tam gösteremiyor. Yukarıda da yazdığımız gibi ETH 201 
+Öncelikle, kriz anlarında test edilmiş bir ürün değil. Test edebilmenin tek yolu da ancak bir kriz yaşamaktan geçiyor - tabii ki stres test benzeri çalışmalar var ama hiçbiri kriz anında ne olacağını tam gösteremiyor. Yukarıda da yazdığımız gibi ETH 2019 yılında değer kaybetti ve MakerDAO'ya hiç bir sıkıntı yaratmadı bu durum. Peki ya ani düşüşler?
+
+Bunun yanında kurumsal yatırımcı olarak bu siteden borç verenlerin %0,5 yıllık faiz oranları ile borç vermeleri şu noktada küçük rakamlarda mümkün olabilir ancak büyük rakamlarda çok da gerçekci değil. Yine de mevduat faizi ile kredi faizi arasındaki büyük makas dikkate alındığında otonom bir sistem bu alanda kendine yer bulacaktır. 
+
+En büyük konulardan biri de teminat miktarı. Oldukça yüksek. Ama başta da yazdığımız gibi kredi sisteminin en masraflı ve karmaşık yonlerinden biri kredi derecelendirme ve geri ödememe oranları. Basitlik en başta bu iki özelliği budamaktan geliyor. Tabii ki bunun bir karşı maliyeti olacak, o da yüksek teminat oranları. 
+
+### MakerDAO için sonraki adımlar neler?
+
+MakerDAO özelinde baktığımızda sonraki adımlarda, sistemin organik olarak büyümesi var. Halihazırda tüm ETH miktarının %2'si MakerDAO sistemine kilitlenmiş durumda - bu da onu Ethereum sisteminin en büyük oyuncularından biri yapıyor. Ancak MakerDAO sadece ETH ile işler diye bir kural yok. Başlangıç noktaları bu ancak diğer altyapı protokolleri ile de çalışabilmek onları daha geniş kitlelere yayacak. 
+
+Bunun yanında sistemin daha geniş kitlelere yayılması için aslında farklı yatırımcıların ihtiyaçlarına hitap edecek çözümler üst seviye olarak ortaya çıkabilir (bir nevi Bitcoin üzerine ödemeleri hızlandırmak için kurulan Lightning Network gibi). Örneğin kredi derecelendirmesi gibi daha karmaşık çözümler. Ve bu çözümler merkezi yapılar da olabilir - zira karmaşık çözümler için merkezi yapılar daha efektif yapılar olabiliyor. Dolayısıyla altta merkezi olmayan ve bunun getirdiği kolaylıklardan yararlanan ama üstte daha karmaşık isteklere hitap eden merkezi yapılar (DeFi -Decentralized Finance- üzeri CeFi -Centralized Finance-) yapılar ilginç bir açılım getirebilir. Tanner Hoban'ın şu [yazısı](https://medium.com/@tehoban/defi-constructing-the-foundation-of-a-new-microeconomy-cb7f21f1c6dd) bu anlamda çok daha detaylı bilgi veriyor ilgi duyanlara. 
+
+### Sonuç
+
+MakerDAO kısa sürede kattettiği aşama ile büyük bir potansiyel gösteriyor. Büyümesi sürerken yol üzerinde ufak tefek kazalar geçirmesi de olası - ancak ilk yıllarını kazasız bir şekilde artırdılar. Merkezi bir aracıya ihtiyaç duymadan finans dünyasında farklı bir alanında gösterdikleri başarı onları uzun vadede dikkatle izlenmesi gereken girişimlerden biri yapıyor. 
 
 
 
+Not: Teknik olarak çok detaya girmedik ancak DAI dışında MakerDAO'nun bir parası daha var o da MKR. DAI'yi sistemin parası, MKR'yi ise sistemin sermayesi (equity) olarak düşünebiliriz. Para alışverişleri DAI ile yapılırken ve DAI ABD Dolarına sabitlenmiş bir para iken, bu para üzerindeki faiz MKR üzerinden ödeniyor. MKR sahibi olanlar aynı zamanda sistemin işleyişinde söz sahibi oluyorlar. Bu arada eğer ola ki bir kriz olması durumunda MKR bir nevi acil durumda kırılacak cam gibi çalışıyor. Eğer teminat rakamları kredi rakamlarını karşılamaz ise o zaman açık MKR bozularak karşılanıyor - bu da MKR için olumsuz bir durum. Dolayısıyla MKR sahipleri ellerindeki değer azalmasın diye teminat oranı vb rakamlarda olabildiğince konservatif davranmak zorundalar. Bir nevi sistem bu alanda da bir otokontrol getiriyor. 
 
 
-### MakerDAO teknik bakış: 
 MakerDAO'nun şu anda iki ana ürünü var ve bu iki ürün aslında birbirlerini tamamlıyorlar. Bunlardan biri DAI, yani sistemi işleten SabitPara. Diğeri ise CDP - Collaterized Debt Position, yani 
 
 
@@ -87,7 +101,6 @@ MakerDAO'nun şu anda iki ana ürünü var ve bu iki ürün aslında birbirlerin
 
 DeFi platformlar bize çok 
 
-Tanner Hoban'ın şu [yazısı](https://medium.com/@tehoban/defi-constructing-the-foundation-of-a-new-microeconomy-cb7f21f1c6dd) bu anlamda çok daha detaylı bilgi veriyor ilgi duyanlara. 
 
 
 
