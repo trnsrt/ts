@@ -32,7 +32,7 @@ Bu alanda çalışan pek çok proje özellikle para toplamak konusunda Ethereum'
 
 &nbsp;
 
-| ![ETH_vs_BTC_Index_170101-190117.png](/assets/ETH_vs_BTC_Index_170101-190117.png) | 
+| ![ETH_vs_BTC_Index_170101_190117.png](/assets/ETH_vs_BTC_Index_170101_190117.png) | 
 |:--:| 
 | *Ethereum ve Bitcoin'in son iki yıldaki seyri [(Kaynak)](https://www.coindesk.com/price/bitcoin)*  |
 
