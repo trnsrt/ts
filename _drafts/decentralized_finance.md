@@ -66,7 +66,20 @@ MakerDAO tamamen otomatik bir sistem. Arada herhangi bir aracı yok. Karmaşık 
 
 Kredi veren için ise, benzer şekilde hiçbir aracı vs olmadan paranızı değerlendirebileceğiniz bir sistem. Faiz rakamı düşük olduğu için insanlar neden buraya para yatırsın diye düşünebilirsiniz. Genelde bireysel olarak para yatıran olmuyor. Daha çok kurumsal yatırımcılar sisteme borç veriyorlar. Onlar için bir başka kanal bu. 
 
-Sistem şu ana kadar sıkıntı yaşamadan ilerledi. ETH sene içinde çok ciddi değer kaybetti ama buna rağmen ciddi bir sıkıntı olmadı. Bu ileride de olmayacak anlamına gelmiyor tabii. O da bunun riski. ETH'nin aniden %33'değer kaybetmesi durumunda 150 birimlik teminatlar 100 birime düşebilir ve sistem bu ETH'leri satana kadar kredi miktarının altına da inebilir. (şu an %200 olması biraz daha sistemi rahatlatsa da). Şu an için MakerDAO sistemi daha çok küçük - ama çok daha büyümesi durumunda tüm ETH değerini bile etkileyecek bir hale gelebilir ani düşüşlerde.  
+Sistem şu ana kadar sıkıntı yaşamadan ilerledi. ETH sene içinde çok ciddi değer kaybetti ama buna rağmen ciddi bir sıkıntı olmadı. Bu ileride de olmayacak anlamına gelmiyor tabii. O da bunun riski. ETH'nin aniden %33'değer kaybetmesi durumunda 150 birimlik teminatlar 100 birime düşebilir ve sistem bu ETH'leri satana kadar kredi miktarının altına da inebilir. (şu an %200 olması biraz daha sistemi rahatlatsa da). Şu an için MakerDAO sistemi daha çok küçük - ama çok daha büyümesi durumunda tüm ETH değerini bile etkileyecek bir hale gelebilir ani düşüşlerde. 
+
+### MakerDAO her derde deva mı?
+
+Tabii ki hayır. Ancak, bir ürünü ne kadar basit ve istisnaları dışarıda bırakarak şekillendirirseniz o kadar otonom (insan eli değmeden) hale yürütebilirsiniz tezine güzel bir örnek. Şu anki rakamlar cesaret verici olsa da ileride gerçekten finans piyasalarını sarsıcı bir devrim haline dönüşür mü? Bunu şimdiden tahmin etmek oldukça zor. Neden?
+
+Öncelikle, kriz anlarında test edilmiş bir ürün değil. Test edebilmenin tek yolu da ancak bir kriz yaşamaktan geçiyor - tabii ki stres test benzeri çalışmalar var ama hiçbiri kriz anında ne olacağını tam gösteremiyor. Yukarıda da yazdığımız gibi ETH 201 
+
+
+
+
+
+### MakerDAO teknik bakış: 
+MakerDAO'nun şu anda iki ana ürünü var ve bu iki ürün aslında birbirlerini tamamlıyorlar. Bunlardan biri DAI, yani sistemi işleten SabitPara. Diğeri ise CDP - Collaterized Debt Position, yani 
 
 
 <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script><div class="coinmarketcap-currency-widget" data-currencyid="2308" data-base="USD" data-secondary="" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="USD" data-statsticker="false"></div>
