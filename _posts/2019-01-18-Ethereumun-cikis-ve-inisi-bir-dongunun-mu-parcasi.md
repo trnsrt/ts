@@ -29,7 +29,7 @@ Performans olarak kötü gitmesine rağmen aslında belli bir vizyona sahip olan
 ### Ethereum parası ETH 2017'de neden yükseldi?
 
 Bu alanda çalışan pek çok proje özellikle para toplamak konusunda Ethereum'un altyapısını kullandılar. Bu durum özellikle 2017 yılında Ethereum'a korkunç yaradı. Zira, herhangi bir yatırım için token almak isteyen bir yatırımcı elindeki fiat parayı (USD, Euro her ne ise) bozduruyor ve Ethereum alıyordu. Bu da Ethereum'a olan talebi ve para birimi olan ETH'nin fiyatını inanılmaz derecede yükseltti. 
-
+ 
 &nbsp;
 
 | ![ETH_vs_BTC_Index_170101_190117.png](/assets/ETH_vs_BTC_Index_170101_190117.png) | 
