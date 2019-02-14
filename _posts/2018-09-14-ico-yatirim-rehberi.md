@@ -85,7 +85,7 @@ Peki Tanıtım Notlarını nereden bulacağım derseniz: Bu işin en kolay taraf
 
 ICO'lara yatırım yapmak için göz önünde bulundurmamız gereken Tanıtım Notu dışındaki diğer konulara da bir sonraki yazımızda değineceğiz artık.. 
 
---
+---
 
 
 &nbsp;
