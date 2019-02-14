@@ -1,12 +1,14 @@
 # Yazı 1
 
-Finans sektörü merkezi olmayan dağıtık sistemlerden en çok etkilenen alanlardan biri olabilir. İşte bu alandaki son zamanlarda en çok konuşulan kavramlardan biri olan Decentralized Finance (DeFi) kavramına bakıyoruz şimdi. 
+Blockchain bazlı sistemlerin en çok etkileyeceği alanlardan birinin Finans olduğu ezelden beri söylenir. Gelin neden böyle bir algı var önce ona bakalım sonra da bu alanda son zamanlarda en çok konuşulan konulardan biri olan Decentralized Finance (DeFi) oluşumuna göz atalım.  
 
 ### Neden Finans sektörü Blockchain bazlı teknolojilerden etkilenecek?
 
-Blockchain bazlı sistemlerin ana amacının merkezi bir aracıya bağlı olan güveni makinelere yayması olduğunu söylüyoruz hep. Bu makineler hep dağınık ve birbirinden bağımsız. Neden? Çünkü dağınık olmaları durumda tek bir güç tarafından kontrol edilmeleri imkansıza yakın hale geliyor. 
+Blockchain bazlı sistemlerin ana amacını iki taraf arasında yapılan işlemlerde merkezi bir aracının sağladığı "güven" hizmetini makinelere yaymak. Böylece bu güvene duyulan ihtiyacı ortadan kaldırmak. 
 
-Tek bir güç tarafından kontrol edilemeyen makineler kendilerine verilen emirleri gerekli koşullar oluştuğu anda kimseye sormadan otomatik olarak gerçekleştiriyorlar. Hile yok, hurda yok, gecikme yok. Koşul gerçekleşti, işlem de gerçekleşiyor. Bu da Akıllı Kontratlar ile sağlanıyor. 
+Bu makineler hep dağınık ve birbirinden bağımsız. Neden? Çünkü dağınık olmaları durumda tek bir güç tarafından kontrol edilmeleri neredeyse imkansız hale geliyor. 
+
+Tek bir güç tarafından kontrol edilemeyen makineler kendilerine verilen emirleri gerekli koşullar oluştuğu anda kimseye sormadan otomatik olarak gerçekleştiriyorlar. Hile yok, hurda yok, gecikme yok. Koşul oluştu, işlem de gerçekleşiyor. Bunu da sağlayan bu makineler için yazılmış özel direktifler, bir başka deyişiyle Akıllı Kontratlar. 
 
 Finans piyasasındaki aktörlerin yapılan işlemlerdeki ana rolü ise aracıyı oynamaları ve güveni teşkil etmeleri idi. Dolayısıyla Blockchain bazlı işlemler finans piyasasındaki gibi aktörler için varoluşsal bir tehdit oluşturuyor - bugün olmasa bile yakın bir gelecekte. 
 
