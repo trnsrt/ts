@@ -6,7 +6,7 @@ categories: Genel
 ---
 
 
-Geçtiğimiz [yazıda](http://ademimerkezi.com/genel/2018/07/20/Orasi-cok-dalgali-sakin-sulara-gel-sabitparalar.html) Bitcoin benzeri KriptoParalar'ın değerinin çok fazla oynadığından ve buna çözüm olarak ortaya çıkmış olan SabitPara kavramından bahsetmiştik. SabitPara olarak en bilinen ABD Doları'na kendini bağlamış olan Tether'e bakmış, diğer farklı SabitParaları ise bu yazımıza bırakmıştık.
+Geçtiğimiz [yazıda](/genel/2018/07/20/Orasi-cok-dalgali-sakin-sulara-gel-sabitparalar.html) Bitcoin benzeri KriptoParalar'ın değerinin çok fazla oynadığından ve buna çözüm olarak ortaya çıkmış olan SabitPara kavramından bahsetmiştik. SabitPara olarak en bilinen ABD Doları'na kendini bağlamış olan Tether'e bakmış, diğer farklı SabitParaları ise bu yazımıza bırakmıştık.
 
 Özetler isek, SabitParalar, daha stabil fiyat yapısı ile KriptoParaların toplumsal adaptasyonuna büyük katkıda bulunabilirler. Zira, bu paraları sağladığı kolaylıklar nedeniyle günlük ekonomik aktivitenin içinde kullanmak isteyebilecek büyük bir çoğunluk var ve şu an yaşanan ani yükseliş ve düşüşleri görünce neye uğradıklarını şaşırıp arkalarına bakmadan bu dünyadan uzaklaşıyorlar. Hem Kripto Dünyası'nın nimetlerinden faydalanacak hem de bu tip dalgalardan kaçınmak isteyecek bu insanları Şifreli Harikalar Dünyası'na (Cryptonetworks) çekmek ve bu dünyayı kat be kat büyütmek için SabitParalar çok önemli görevler üstlenebilir. 
 
@@ -32,7 +32,7 @@ Buraya kadar hala okumaya devam edip kaybolmadı iseniz bravo. O zaman sizin iç
 
 Yukarıda bahsettiğimiz Tether ve diğer SabitParalar biliyorsunuz kendilerini ABD Dolarına bağlar iken ya ABD Doları ya da değer olarak ona yakın miktarda KriptoParayı teminat olarak alıyorlardı. Bir kısım SabitParalar ise "Boşverin bu teminat vesaire almayı, biz bir algoritma yapalım, teminatı toptan yok edelim" demişler. 
 
-Nasıl yapmışlar bunu? Kısacası, hatırlarsanız bir yazımızda [Akıllı Kontratlardan](http://ademimerkezi.com/genel/2018/06/29/bu-kontratlar-cok-akilli-ethereum-ve-akilli-kontratlar.html) bahsetmiştik. İşte bu sistemi kuranlar - sanal bir Merkez Bankası yaratıp, bu bankanın işleyişini bir Akıllı Kontrat'a bağlamışlar. Ne zaman SabitPara'ya talep artıyor, bolca SabitPara yaratarak paranın değerini 1 ABD Doları seviyesine getiriyorlar. Ne zaman paraya talep düşüyor, mevcut SabitParalar'dan bir kısmını yok ederek (yani parayı azaltarak) değerini artırıyorlar. Bu SabitParalar için öne çıkanlar [Basis]([https://basis.io/) ve Saga([SAGA](https://coinmarketcap.com/currencies/sagacoin/)) 
+Nasıl yapmışlar bunu? Kısacası, hatırlarsanız bir yazımızda [Akıllı Kontratlardan](/genel/2018/06/29/bu-kontratlar-cok-akilli-ethereum-ve-akilli-kontratlar.html) bahsetmiştik. İşte bu sistemi kuranlar - sanal bir Merkez Bankası yaratıp, bu bankanın işleyişini bir Akıllı Kontrat'a bağlamışlar. Ne zaman SabitPara'ya talep artıyor, bolca SabitPara yaratarak paranın değerini 1 ABD Doları seviyesine getiriyorlar. Ne zaman paraya talep düşüyor, mevcut SabitParalar'dan bir kısmını yok ederek (yani parayı azaltarak) değerini artırıyorlar. Bu SabitParalar için öne çıkanlar [Basis]([https://basis.io/) ve Saga([SAGA](https://coinmarketcap.com/currencies/sagacoin/)) 
 
 ![basis-saga-600.png](/assets/basis-saga-600.png)
 
@@ -46,5 +46,8 @@ Aslında belki de en ilgi çekici olanı da bu: Teknolojik olarak bir devrim old
 
 SabitPara olarak ilk çıkan örnekler belki yeterli değil, henüz çok erken. Ama bu insanları merak ve daha iyisini yapmaktan alıkoymuyor. Bu paraları kullanıyor, sorunlar ile karşılaşıyorlar. Tekrar deniyorlar, bu sefer daha iyisini yapıyorlar. Önemli olan burada bir vizyon olması ve yavaş yavaş, adım adım o vizyona doğru yaklaşılması. Hemen sonuç beklemeyin, sabredin ve bir vizyon düşleyin, sonra da o vizyona ulaşırken yapacağınız yolculuğun (inişli çıkışlı) tadını çıkarmaya bakın!... 
 
+---
+&nbsp;
 
-*Not: Yazdığımız 20+ yazının bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](http://ademimerkezi.com/about/) sayfasına göz atabilirsiniz.* 
+*Not: Yazdığımız tüm yazıların bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](/about/) sayfasına göz atabilirsiniz.*
+
