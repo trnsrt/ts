@@ -8,7 +8,7 @@ categories: Genel
 
 
 
-Geçtiğimiz yazılarımızda Blockchain'in sadece finans değil değişik alanlardaki kullanımlarına değinmiş, [sağlık](http://ademimerkezi.com/genel/2018/04/17/saglik-icin-blockchain.html), [sanat](http://ademimerkezi.com/genel/2018/04/06/sanat-icin-blockchain.html), [insani yardım](http://ademimerkezi.com/genel/2018/03/29/Iyilik-icin-blockchain.html), [seyahat](http://ademimerkezi.com/genel/2018/07/06/seyahat-icin-blockchain.html), [geleceği tahmin](http://ademimerkezi.com/genel/2018/07/13/gelecegi-tahmin-icin-blockchain.html) alanlarına tek tek bakmıştık. Ancak tüm bu yazılardan Blockchain dünyanın tüm dertlerine deva olacakmış gibi bir izlenim çıkmaması için madalyonun diğer tarafına da bir bakmakta fayda var. Gerçekten Blockchain tüm sorunlarımızı çözebilecek mi? 
+Geçtiğimiz yazılarımızda Blockchain'in sadece finans değil değişik alanlardaki kullanımlarına değinmiş, [sağlık](/genel/2018/04/17/saglik-icin-blockchain.html), [sanat](/genel/2018/04/06/sanat-icin-blockchain.html), [insani yardım](/genel/2018/03/29/Iyilik-icin-blockchain.html), [seyahat](/genel/2018/07/06/seyahat-icin-blockchain.html), [geleceği tahmin](/genel/2018/07/13/gelecegi-tahmin-icin-blockchain.html) alanlarına tek tek bakmıştık. Ancak tüm bu yazılardan Blockchain dünyanın tüm dertlerine deva olacakmış gibi bir izlenim çıkmaması için madalyonun diğer tarafına da bir bakmakta fayda var. Gerçekten Blockchain tüm sorunlarımızı çözebilecek mi? 
 
 
 
@@ -63,10 +63,9 @@ Hemen hemen her sektörde Blockchain bazlı sistemleri kullanarak sektörü kök
 
 Bir sonraki yazımızda, Blockchain hangi sektörlerde başarılı olabilir, onu inceleyelim dilerseniz.. 
 
-&nbsp;
-
-&nbsp;
 
 ---
+&nbsp;
 
-*Not: Yazdığımız 20+ yazının bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](http://ademimerkezi.com/about/) sayfasına göz atabilirsiniz.* 
+*Not: Yazdığımız tüm yazıların bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](/about/) sayfasına göz atabilirsiniz.*
+
