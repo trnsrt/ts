@@ -6,7 +6,7 @@ categories: Genel
 ---
 
 
-Geçtiğimiz yazılarda Blockchain bazlı dağıtık sistemlerin faydalı olabileceği bazı konulardan [sağlık](https://ademimerkezi.com/genel/2018/04/17/saglik-icin-blockchain.html), [sigorta](https://ademimerkezi.com/genel/2018/10/26/sigorta-icin-blockchain.html), [sanat](https://ademimerkezi.com/genel/2018/04/06/sanat-icin-blockchain.html), [seyahat](https://ademimerkezi.com/genel/2018/07/06/seyahat-icin-blockchain.html) sektörleri ile [hayır işleri](https://ademimerkezi.com/genel/2018/03/29/Iyilik-icin-blockchain.html), [tahmin piyasaları](https://ademimerkezi.com/genel/2018/07/13/gelecegi-tahmin-icin-blockchain.html) ve [tedarik zincirlerine](https://ademimerkezi.com/genel/2018/08/17/tedarik-zinciri-icin-blockchain.html) bakmıştık.  Şimdi de bu çözümlerin en işe yarayabileceği alanlardan biri olan çevresel konulara bir göz atalım. 
+Geçtiğimiz yazılarda Blockchain bazlı dağıtık sistemlerin faydalı olabileceği bazı konulardan [sağlık](/genel/2018/04/17/saglik-icin-blockchain.html), [sigorta](/genel/2018/10/26/sigorta-icin-blockchain.html), [sanat](/genel/2018/04/06/sanat-icin-blockchain.html), [seyahat](/genel/2018/07/06/seyahat-icin-blockchain.html) sektörleri ile [hayır işleri](/genel/2018/03/29/Iyilik-icin-blockchain.html), [tahmin piyasaları](/genel/2018/07/13/gelecegi-tahmin-icin-blockchain.html) ve [tedarik zincirlerine](/genel/2018/08/17/tedarik-zinciri-icin-blockchain.html) bakmıştık.  Şimdi de bu çözümlerin en işe yarayabileceği alanlardan biri olan çevresel konulara bir göz atalım. 
 
 ![environmental-protection-1_640.jpg](/assets/environmental-protection-1_640.jpg)
 
@@ -51,7 +51,9 @@ Dünyada şu anda çevresel olarak sıkıntı yaratan konuları sıralarsak:
 
 Çevre konularında Blockchain bazlı ne tip fikirler var, hangi alanlarda neleri çözebilir, önlerindeki engeller neler bunlara da önümüzdeki yazıda bakacağız.. 
 
+---
 
 &nbsp;
 
-*Not: Yazdığımız 30+ yazının bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](http://ademimerkezi.com/about/) sayfasına göz atabilirsiniz.* 
+*Not: Yazdığımız tüm yazıların bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](/about/) sayfasına göz atabilirsiniz.*
+
