@@ -5,7 +5,7 @@ date:   2018-12-20 15:25:34 +0300
 categories: Genel
 ---
 
-Geçtiğimiz [yazımızda](https://ademimerkezi.com/genel/2018/12/14/Bitcoin-genis-kitlelere-nasil-yayilir.html), Bitcoin'in geniş kitlelerce kullanımının önündeki en büyük engelin teknik olarak kısıtlı kapasitesi olduğundan bahsetmiştik. Özetle tekrarlarlarsak; yapılan her işlem Blockchain üzerine yazılıyor, bunu yapan madenciler ve işlem binlerce makineye yazıldığı ve 10 dakikada bir balya haline getirilip onaylandığı için saniyede maksimum 7 işlem gerçekleşebiliyor. 
+Geçtiğimiz [yazımızda](/genel/2018/12/14/Bitcoin-genis-kitlelere-nasil-yayilir.html), Bitcoin'in geniş kitlelerce kullanımının önündeki en büyük engelin teknik olarak kısıtlı kapasitesi olduğundan bahsetmiştik. Özetle tekrarlarlarsak; yapılan her işlem Blockchain üzerine yazılıyor, bunu yapan madenciler ve işlem binlerce makineye yazıldığı ve 10 dakikada bir balya haline getirilip onaylandığı için saniyede maksimum 7 işlem gerçekleşebiliyor. 
 
 ![lightning-eiffel.jpg](/assets/lightning-eiffel.jpg)
 
@@ -13,7 +13,7 @@ Ama eğer biz her işlemi Blockchain üzerine yazmak yerine bunları toplayıp b
 
 ### Nedir bu Lightning Network?
 
-Önceki [yazımızda](https://ademimerkezi.com/genel/2018/12/14/Bitcoin-genis-kitlelere-nasil-yayilir.html) da belirttiğimiz gibi Lightning Network esasında Bitcoin üzerine kurulmuş ikinci bir katman. 
+Önceki [yazımızda](/genel/2018/12/14/Bitcoin-genis-kitlelere-nasil-yayilir.html) da belirttiğimiz gibi Lightning Network esasında Bitcoin üzerine kurulmuş ikinci bir katman. 
 
 Lightning'in ana prensibi Bitcoin üzerindeki işlemlerin zincir üzerinden (yani bloklara yazılması yerine) zincir dışına çıkarılması. 
 
@@ -49,6 +49,9 @@ Peki şimdi bu tip sandıklardan (kanallardan) binlerce kişi ve kurumun açtı�
 
 Bitcoin sanal dünyadaki şifreli paralar içinde en kullanılanı. Ancak şu anda hala kısıtlı bir kitle tarafından kullanılıyor. Eğer hakikaten bir değer elde edecek ise faydalarının geniş kitlelere yayılması gerekiyor. Bitcoin geliştiricileri hızlı davranıp Bitcoin'i 'bozma' riski almamak için geniş kitlelerin ihtiyacı olan değişiklikleri çabucak yapmayacaklar. Bu yenilikleri Lightning Network gibi ikinci katmanlar yapacak. Başarılı olup olmayacaklarını zaman gösterecek ancak şimdiden söyleyebileceğimiz doğru yolda oldukları. 
 
+---
+
 &nbsp;
 
-*Not: Yazdığımız 40+ yazının bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](http://ademimerkezi.com/about/) sayfasına göz atabilirsiniz.* 
+*Not: Yazdığımız tüm yazıların bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](/about/) sayfasına göz atabilirsiniz.*
+
