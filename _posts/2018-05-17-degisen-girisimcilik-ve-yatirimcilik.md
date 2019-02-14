@@ -29,7 +29,7 @@ Ancak Web 3.0 ile gelen yeni merkezi olmayan oluşumlarda bu yapı tamamen deği
 
 ![entrepreneur-new_600.jpg](/assets/entrepreneur-new_600.jpg) 
 
-Hatırlarsanız [ilk yazımızda](http://ademimerkezi.com/genel/2018/03/01/Geceleri-uykunuzu-ne-kaciriyor.html), internetin gelişim ve yaygınlaşması ile birlikte ortaya çıkan şirketlerin (Facebook, Google, Amazon ve Apple başta olmak üzere) daha sonra ağırlıklı kar baskısı sebebiyle monopol haline gelip tüm ekosisteme (kullanıcılar, girişimciler, reklamverenler gibi) nasıl zarar verdiklerinden bahsetmiştik. 
+Hatırlarsanız [ilk yazımızda](/genel/2018/03/01/Geceleri-uykunuzu-ne-kaciriyor.html), internetin gelişim ve yaygınlaşması ile birlikte ortaya çıkan şirketlerin (Facebook, Google, Amazon ve Apple başta olmak üzere) daha sonra ağırlıklı kar baskısı sebebiyle monopol haline gelip tüm ekosisteme (kullanıcılar, girişimciler, reklamverenler gibi) nasıl zarar verdiklerinden bahsetmiştik. 
 
 2000'li yıllarda çıkan yeni akımın ise işte bu merkeziyetçilik dalgasına bir tepki olarak doğduğundan bahsetmiştik. Dolayısıyla bu akımdan ortaya çıkan yeni yapılar Web 3.0 dediğimiz bu  akımın temel felsefesini de benimsemiş olarak ortaya çıktılar. İşte o felsefenin temel noktalarından biri tekellerin kırılması; bilginin, kontrolün kısaca gücün tek bir elde toplanmaması. 
 
@@ -42,9 +42,6 @@ Bu son yazdığımız demokratikleşmenin nasıl olduğuna bir sonraki yazımız
 --
 &nbsp;
 
-Geçmişte nelerden bahsettik bakmak isterseniz: 
-- Blockchain teknolojisinin **nasıl çıktığını** merak ediyorsanız, "[Geceleri uykunuzu ne kaçırıyor](http://ademimerkezi.com/genel/2018/03/01/Geceleri-uykunuzu-ne-kaciriyor.html)" ve "[Sahi nedir bu Blockchain Allah aşkına?](http://ademimerkezi.com/genel/2018/03/02/Sahi-nedir-bu-blockchain-allah-askina.html) yazılarımıza, 
-- Bu teknolojinin şu anda en olgun şekilde kullanılan uygulamalarından **Bitcoin**'e ilginiz varsa "[Bitcoin ne tam olarak?](http://ademimerkezi.com/genel/2018/03/13/Bitcoin-ne-tam-olarak.html), "[Bitcoin para mı gerçekten?](http://ademimerkezi.com/genel/2018/03/22/Bitcoin-para-mi-gercekten.html)" ve "[Bütün bunlar bir balon mu?](http://ademimerkezi.com/genel/2018/03/05/Butun-bunlar-bir-balon-mu.html)" yazılarımıza, 
-- Blockchain'in **değişik alanlarda getirdiği potansiyel yenilikler** için, insanı yardım'da [İyilik için Blockchain](http://ademimerkezi.com/genel/2018/03/29/Iyilik-icin-blockchain.html), sanatta [Sanat için Blockchain](http://ademimerkezi.com/genel/2018/03/29/Iyilik-icin-blockchain.html) ve sağlıkta [Sağlık için Blockchain](http://ademimerkezi.com/genel/2018/04/17/saglik-icin-blockchain.html) yazılarımıza
-- Yeni teknolojileri ayakta tutan en önemli yeniliklerden **Şifreleme**nin ne demek olduğu için [Şifreleme ne demek? Neden önemli?](http://ademimerkezi.com/genel/2018/04/25/sifreleme-ne-demek-neden-onemli.html),  şifrelemenin temel taşları olan Öğütme (hashing), Özel Anahtar, Genel Anahtar, Şifreleme (Encryption)‘ye daha detaylı bakmak için [Şifreleme mi? Çok karışık değil mi?](http://ademimerkezi.com/genel/2018/04/26/sifreleme-mi-cok-karisik-degil-mi.html) ve Blockchain mekanizmasında nasıl kullanıldığını anlamak için [Peki Blockhain şifrelemesi nasıl çalışıyor?](http://ademimerkezi.com/genel/2018/05/08/Peki-Blockchain-sifrelemesi-nasil-calisiyor.html) yazılarımıza.
-göz atabilirsiniz
+
+
+*Not: Yazdığımız tüm yazıların bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](/about/) sayfasına göz atabilirsiniz.*
