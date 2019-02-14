@@ -75,16 +75,16 @@ DeFi protokolü üye girişimlerin bazıları [Dharma Labs](https://dharma.io/),
 ![makerdao-dai.png](/assets/makerdao-dai.png) 
 
 
-MakerDAO kişilerin ellerinde duran KriptoParaları teminat vererek DAI SabitParası yaratmalarına olanak veren bir dağıtık bir sistem. Ethereum üzerinde kurulu Akıllı Kontratları kullanıyor bunu yapmak için. DAI nedir peki? Dai bir ABD Dolarına eşit olan bir SabitPara. SabitParaların ne olduklarına şu iki yazımızda ("[Orası çok dalgalı, sakin sulara gel](https://ademimerkezi.com/genel/2018/07/20/Orasi-cok-dalgali-sakin-sulara-gel-sabitparalar.html)" ve "[SabitParalara devam](https://ademimerkezi.com/genel/2018/07/27/sabitparalara-devam-digerleri.html)") değinmiştik. (Dai kelime anlamı olarak Çince'de [borç para vermek](https://www.reddit.com/r/MakerDAO/comments/5q98b1/%E8%B2%B8_dai/) anlamı taşıyor bu arada)
+MakerDAO kişilerin ellerinde duran KriptoParaları teminat vererek DAI SabitParası yaratmalarına olanak veren bir dağıtık bir sistem. Ethereum üzerinde kurulu Akıllı Kontratları kullanıyor bunu yapmak için. Dai nedir peki? Dai bir ABD Dolarına eşit olan bir SabitPara. SabitParaların ne olduklarına şu iki yazımızda ("[Orası çok dalgalı, sakin sulara gel](https://ademimerkezi.com/genel/2018/07/20/Orasi-cok-dalgali-sakin-sulara-gel-sabitparalar.html)" ve "[SabitParalara devam](https://ademimerkezi.com/genel/2018/07/27/sabitparalara-devam-digerleri.html)") değinmiştik. (Dai kelime anlamı olarak Çince'de [borç para vermek](https://www.reddit.com/r/MakerDAO/comments/5q98b1/%E8%B2%B8_dai/) anlamı taşıyor bu arada)
 
 #### Nasıl çalışıyor? 
-Elinizdeki (şu an için Ethereum parası ETH geçerli) KriptoPara'ları teminat olarak gösteriyorsunuz, buradaki deyişiyle ETH'lerinizi sistem içine kilitliyorsunuz. Gönderdiğiniz her 150 birim para için 100 birime kadar DAI alabiliyorsunuz. Sonrasında DAI'yi istediğiniz noktada birebir değerden ABD Doları'na çeviriyor ve kullanıyorsunuz. 
+Elinizdeki KriptoPara'yı (şu an için yalnız Ethereum parası ETH geçerli) teminat olarak gösteriyorsunuz, buradaki deyişiyle ETH'lerinizi sistem içine kilitliyorsunuz. Gönderdiğiniz her 150 birim para için 100 birime kadar Dai yaratabiliyorsunuz. Sonrasında bu DAI'yi istediğiniz noktada bire bir değerden ABD Doları'na çeviriyor ve kullanıyorsunuz. 
 
 #### Neden insanlar kullanıyor? 
 Diyelim ani olarak paraya ihtiyacınız var, mevcut paranızı da ETH'ye yatırdınız. ETH'nin yükseleceğini düşünüyorsunuz ya da başka herhangi bir nedenle ETH'lerinizden ayrılmak istemiyorsunuz. Bu sistemi kullanarak hem nakit ihtiyacınızı karşılayabilir hem de ETH'nin getireceği kardan yararlanabilirsiniz. 
 
 #### Kredi maliyeti ne? 
-Şu anda inanılmaz ucuz. Yıllık 0.5% bir faiz maliyeti var (bunu sistem içinde ayrı bir para ile ödüyorsunuz ama şu aşamada çok da gerekli değil bunu bilmek). 
+Şu anda inanılmaz ucuz. Yıllık 0.5% bir faiz maliyeti var (bunu sistem içinde ayrı bir para ile ödüyorsunuz ama şu aşamada çok da gerekli değil bunu bilmek - en altta notta teknik detayı var). 
 
 &nbsp;
 
@@ -94,18 +94,28 @@ Diyelim ani olarak paraya ihtiyacınız var, mevcut paranızı da ETH'ye yatırd
 
 &nbsp;
 
-
-
 #### Ya ETH çok düşer de teminatımın altına inerse? 
-Buna dikkat etmek gerekiyor işte. Zira ETH'nin değeri düşerse ekstra ETH yüklemeniz yapmanız lazım. Ya da baştan ihtiyacınız olan nakitten daha fazla ETH koymakta fayda var. Şu anda sistemde kilitli tutulan teminat rakamının kullanılan kredi oranına baktığımızda yaklaşık %200 olduğunu görüyoruz. Yani insanlar gerekli minimum limit olan %150'nin üzerine bir %50'lik bir ekstra teminat koymuşlar kullandıkları krediler için. 
+Buna dikkat etmek gerekiyor işte. Zira ETH'nin değeri düşerse ekstra ETH yüklemeniz yapmanız lazım. Ya da baştan ihtiyacınız olan nakitten daha fazla ETH koymakta fayda var. Aksi takdirde sistem ETH'nizi "bozuyor" ve %13 gibi bir ceza sonrası kalan paranızdan borcunuzu düşüp size geri veriyor. 
+
+Şu anda sistemde kilitli tutulan teminat rakamının kullanılan krediye oranının yaklaşık %200 olduğunu görüyoruz. Yani insanlar gerekli minimum limit olan %150'nin üzerine bir %50'lik bir ekstra teminat koymuşlar kullandıkları krediler için.
+
+### Kim borç veriyor bu sisteme?
+Aslında kimse borç vermiyor. Siz elinizdeki ETH'yi teminat gibi kullanıp Dai yaratıyorsunuz. Buradaki soru şu olabilir? Dai'yi satıp ABD Doları aldınız. Kime satıyorsunuz Dai'yi?. Genel olarak SabitPara kullanmak isteyen insanlara. Neden SabitPara kullanmak ister insanlar konusunu daha detaylı önceki yazılarımızda incelemiştik. 
+
+### Dai parası nasıl sabit kalıyor peki?
+Dai, bir ABD dolarına sabitlenmiş. Ama alım satım yapıldığı borsada baktığınızda fiyatı aşağı ya da yukarı gidebiliyor. MakerDAO yaratıcıları fiyatın iniş ve çıkış olduğu durumda tekrar 1 ABD dolarına gelmesi için otomatik bir sistem kurmuşlar. Negative geri bildirim denen sistem şu şekilde çalışıyor: 
+
+Diyelim, Dai fiyatında bir düşüş oldu (insanlar ellerindeki Dai'yi ABD Doları'na dönmek istiyorlar ancak alan kimse yok). Böyle bir durumda geçmişte Dai yaratıp borç almış olanlar, aldıkları borcu yine Dai ile ödeyecekleri için kredilerini ucuza kapatma fırsatı bulabilecekler ve Dai satın alacaklar. 
+
+Aynı şekilde Dai fiyatında bir artış olduğunda (1 ABD dolarından daha yüksek bir fiyata geldiğinde) insanlar ellerindeki ETH'leri sisteme gönderip 1 ABD doları karşılığı olacak şekilde Dai yaratıp bu Dai'yi piyasada 1 ABD Doları'nın üzerinde bozdurma şansı yakalayacaklar.  Bu da piyasada 1 Dai'nin 1 ABD Doları'na yaklaşmasını sağlayacak. 
+
+Bunun yanında Dai fiyatında ekstrem bir düşüş olduğu durumlar için de acil durum senaryoları hazırlanmış ama şu aşamada çok teknik kaldığı için ilginenleri [White Paper]((https://makerdao.com/en/whitepaper/))'ı okumaya davet ederek konuyu kapatıyoruz. 
 
 ### Peki başarılı olmuş mu MakerDAO?
 
 MakerDAO tamamen otomatik bir sistem. Arada herhangi bir aracı yok. Karmaşık anlaşmalar yok - kağıt imza vs yok. Sistem tamamen kodlanmış makineler aracılığıyla işliyor. Teminatınızı koyuyorsunuz, paranızı alıyorsunuz. Teminatınız 150%'nin altına düşerse ETH'niz bozduruluyor ve kredi borcunuzun üzerindeki teminatınız hesabınıza yatıyor.  Bu nedenle kredi vermenin getirdiği kağıt ve bürokrasi masrafından kurtuluş sistemin en önemli avantajlarından biri. 
 
-Şu ana kadar iyi gittiklerini söylemek mümkün. Zira şu anda iki milyon ETH'e yakın miktar MakerDAO sistemi üzerinden borçlandırılmış (CDP - Collaterized Debt Positions). ETH'nin şu aralar 120 ABD Doları civarında olduğu düşünülürse yaklaşık 240 Milyon ABD doları bir rakam ediyor bu. Ethereum'un kullanım olarak en işlevsel platformlarından biri MakerDAO. 
-
-Kredi veren için ise, benzer şekilde hiçbir aracı vs olmadan paranızı değerlendirebileceğiniz bir sistem. Faiz rakamı düşük olduğu için insanlar neden buraya para yatırsın diye düşünebilirsiniz. Genelde bireysel olarak para yatıran olmuyor. Daha çok kurumsal yatırımcılar sisteme borç veriyorlar. Onlar için bir başka kanal bu. 
+Şu ana kadar iyi gittiklerini söylemek mümkün. Zira şu anda iki milyon ETH'e yakın miktar MakerDAO sistemi üzerinden borçlandırılmış (CDP - Collaterized Debt Positions). ETH'nin şu aralar 120 ABD Doları civarında olduğu düşünülürse yaklaşık 240 Milyon ABD doları bir rakama denk geliyor bu. Ethereum'un kullanım olarak en işlevsel platformlarından biri MakerDAO. 
 
 Sistem şu ana kadar sıkıntı yaşamadan ilerledi. ETH sene içinde çok ciddi değer kaybetti ama buna rağmen ciddi bir sıkıntı olmadı. Bu ileride de olmayacak anlamına gelmiyor tabii. O da bunun riski. ETH'nin aniden %33'değer kaybetmesi durumunda 150 birimlik teminatlar 100 birime düşebilir ve sistem bu ETH'leri satana kadar kredi miktarının altına da inebilir. (şu an %200 olması biraz daha sistemi rahatlatsa da). Şu an için MakerDAO sistemi daha çok küçük - ama çok daha büyümesi durumunda tüm ETH değerini bile etkileyecek bir hale gelebilir ani düşüşlerde. 
 
@@ -117,8 +127,6 @@ Sistem şu ana kadar sıkıntı yaşamadan ilerledi. ETH sene içinde çok ciddi
 Tabii ki hayır. Ancak, bir ürünü ne kadar basit ve istisnaları dışarıda bırakarak şekillendirirseniz o kadar otonom (insan eli değmeden) hale yürütebilirsiniz tezine güzel bir örnek. Şu anki rakamlar cesaret verici olsa da ileride gerçekten finans piyasalarını sarsıcı bir devrim haline dönüşür mü? Bunu şimdiden tahmin etmek oldukça zor. Neden?
 
 Öncelikle, kriz anlarında test edilmiş bir ürün değil. Test edebilmenin tek yolu da ancak bir kriz yaşamaktan geçiyor - tabii ki stres test benzeri çalışmalar var ama hiçbiri kriz anında ne olacağını tam gösteremiyor. Yukarıda da yazdığımız gibi ETH 2019 yılında değer kaybetti ve MakerDAO'ya hiç bir sıkıntı yaratmadı bu durum. Peki ya ani düşüşler?
-
-Bunun yanında kurumsal yatırımcı olarak bu siteden borç verenlerin %0,5 yıllık faiz oranları ile borç vermeleri şu noktada küçük rakamlarda mümkün olabilir ancak büyük rakamlarda çok da gerçekci değil. Yine de mevduat faizi ile kredi faizi arasındaki büyük makas dikkate alındığında otonom bir sistem bu alanda kendine yer bulacaktır. 
 
 En büyük konulardan biri de teminat miktarı. Oldukça yüksek. Ama başta da yazdığımız gibi kredi sisteminin en masraflı ve karmaşık yonlerinden biri kredi derecelendirme ve geri ödememe oranları. Basitlik en başta bu iki özelliği budamaktan geliyor. Tabii ki bunun bir karşı maliyeti olacak, o da yüksek teminat oranları. 
 
