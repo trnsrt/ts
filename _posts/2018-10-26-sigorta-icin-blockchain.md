@@ -6,7 +6,7 @@ categories: Genel
 ---
 
 
-Geçtiğimiz yazılarda Blockchain bazlı dağıtık sistemlerin faydalı olabileceği alanlardan [sağlık](https://ademimerkezi.com/genel/2018/04/17/saglik-icin-blockchain.html), [sanat](https://ademimerkezi.com/genel/2018/04/06/sanat-icin-blockchain.html), [seyahat](https://ademimerkezi.com/genel/2018/07/06/seyahat-icin-blockchain.html) sektörleri ile [hayır işleri](https://ademimerkezi.com/genel/2018/03/29/Iyilik-icin-blockchain.html), [tahmin piyasaları](https://ademimerkezi.com/genel/2018/07/13/gelecegi-tahmin-icin-blockchain.html) ve [tedarik zincirlerine](https://ademimerkezi.com/genel/2018/08/17/tedarik-zinciri-icin-blockchain.html) bakmıştık.  Şimdi gelin finansal piyasalara daha yakın olan sigorta sektörüne bakalım. 
+Geçtiğimiz yazılarda Blockchain bazlı dağıtık sistemlerin faydalı olabileceği alanlardan [sağlık](/genel/2018/04/17/saglik-icin-blockchain.html), [sanat](/genel/2018/04/06/sanat-icin-blockchain.html), [seyahat](/genel/2018/07/06/seyahat-icin-blockchain.html) sektörleri ile [hayır işleri](/genel/2018/03/29/Iyilik-icin-blockchain.html), [tahmin piyasaları](/genel/2018/07/13/gelecegi-tahmin-icin-blockchain.html) ve [tedarik zincirlerine](/genel/2018/08/17/tedarik-zinciri-icin-blockchain.html) bakmıştık.  Şimdi gelin finansal piyasalara daha yakın olan sigorta sektörüne bakalım. 
 
 ![water-975728_640.jpg](/assets/water-975728_640.jpg)
 
@@ -15,9 +15,9 @@ Geçtiğimiz yazılarda Blockchain bazlı dağıtık sistemlerin faydalı olabil
 
 ### Sigorta sektörü için Blockchain
 
-Blockchain'in şu ana kadar en göz önünde olan faydası güvene olan ihtiyacı ortadan kaldırması (ve o ihtiyacı sağlayan kurumların etkisini azaltması) ve bürokrasiyi azaltarak para, zaman, emek tasarrufu sağlaması idi. Ama her derde deva olmadığını da [şu yazımızda](https://ademimerkezi.com/genel/2018/08/03/blockchain-her-derde-deva-mi.html) belirtmiştik. 
+Blockchain'in şu ana kadar en göz önünde olan faydası güvene olan ihtiyacı ortadan kaldırması (ve o ihtiyacı sağlayan kurumların etkisini azaltması) ve bürokrasiyi azaltarak para, zaman, emek tasarrufu sağlaması idi. Ama her derde deva olmadığını da [şu yazımızda](/genel/2018/08/03/blockchain-her-derde-deva-mi.html) belirtmiştik. 
 
-Bu anlamda güven ihtiyacı sağlayan kurumların etkisinin azalacağından bahsettik. Finansal kurumların ana görevinin güven sağlamak olduğunu varsayarsak, bu sektördekilerin [geceleri uykularının kaçması normal](https://ademimerkezi.com/genel/2018/03/01/Geceleri-uykunuzu-ne-kaciriyor.html).
+Bu anlamda güven ihtiyacı sağlayan kurumların etkisinin azalacağından bahsettik. Finansal kurumların ana görevinin güven sağlamak olduğunu varsayarsak, bu sektördekilerin [geceleri uykularının kaçması normal](/genel/2018/03/01/Geceleri-uykunuzu-ne-kaciriyor.html).
 
 Sigorta sektörü için durum bir miktar farklı. Uzun vadede dağıtık sistemler sektöre zarar verir mi tartışılır ancak sigorta sektörünün ihtiyacı olan güveni sağlaması açısından bu sistemlerin kısa vadede yarar sağlayacağı çok aşikar görünüyor. Nedir bu faydalar? Bir kaç örnek üzerinden bakalım dilerseniz:
 
@@ -25,7 +25,7 @@ Sigorta sektörü için durum bir miktar farklı. Uzun vadede dağıtık sisteml
 
 Sigortacılığın en büyük parçalarından biri Afet Sigortası. Hiçbirimiz istemeyiz ama doğal afetler maalesef hayatın bir parçası, üstelik küresel ısınma ve benzeri çevresel bozulmalardan dolayı sıklığı giderek artan hayatın gerçekleri... Bireysel kaza ve benzeri durumların aksine bu tip doğal afetler daha az yaşanıyor (ve bazen uzun süre yaşanmıyor) ama yıkım genele yayıldığı için oluşan zarar sigorta şirketleri için karşılanamaz olabiliyor. Bu nedenle, sigorta şirketlerinin bu tip riskleri "satma"sı sektörün en temel uygulamalarından biri. 
 
-Afet sonrası hasarın tespiti, bir kısmının riski satın almış partilere devredilmesi, oldukça uzun ve zahmetli bir süreç. Hele irili ufaklı pek çok olayın (sel baskını vb.) getirdiği operasyonel yükler çok daha yüksek. Peki bu süreç otomatikleştirilemez mi? Daha önceki bir yazımızda bahsettiğimiz [Akıllı Kontratlar](https://ademimerkezi.com/genel/2018/06/29/bu-kontratlar-cok-akilli-ethereum-ve-akilli-kontratlar.html) ile aslında mümkün. 
+Afet sonrası hasarın tespiti, bir kısmının riski satın almış partilere devredilmesi, oldukça uzun ve zahmetli bir süreç. Hele irili ufaklı pek çok olayın (sel baskını vb.) getirdiği operasyonel yükler çok daha yüksek. Peki bu süreç otomatikleştirilemez mi? Daha önceki bir yazımızda bahsettiğimiz [Akıllı Kontratlar](/genel/2018/06/29/bu-kontratlar-cok-akilli-ethereum-ve-akilli-kontratlar.html) ile aslında mümkün. 
 
 Akıllı Kontratlar aslında adı ile çelişir şekilde, akıllı olmaktan ziyade oldukça basit şekilde işleyen ve belli olaylar gerçekleştiğinde (tetikçi olay diyelim) otomatik olarak aktive olan işlemler idi. Şimdi bunu aşağıdaki senaryoda Blockchain sistemi içine uyarlamaya çalışalım: 
 
@@ -55,6 +55,8 @@ Nitekim, küresel anlamda büyük oyuncuların yarısı önümüzdeki iki yıl i
 
 İçinde bulunduğumuz ekonomik koşullarda, yukarıda anlattıklarım hayal gibi gelebilir. Daha önceki yazılarımızda da belirttiğimiz gibi bu bir vizyon ve dünyanın dört bir yanında, mevcut sigorta oyuncuları, girişimciler, yazılımcılar bu vizyona ulaşabilmek için çalışıyorlar. Vizyonu gerçekleştirmek vakit alacak orası kesin, ama düşündüğünüzden erken olabilir, hazırlıklı olmak ve sigortanızı şimdiden yaptırmakta fayda var. 
 
+---
 &nbsp;
 
-*Not: Yazdığımız 30+ yazının bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](http://ademimerkezi.com/about/) sayfasına göz atabilirsiniz.* 
+*Not: Yazdığımız tüm yazıların bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](/about/) sayfasına göz atabilirsiniz.*
+
