@@ -5,7 +5,7 @@ date:   2018-07-06 15:28:15 +0300
 categories: Genel
 ---
 
-Geçtiğimiz yazılarımızda Blockchain'in sadece finans değil değişik alanlardaki kullanımlarına değinmiş, [sağlık](http://ademimerkezi.com/genel/2018/04/17/saglik-icin-blockchain.html), [sanat](http://ademimerkezi.com/genel/2018/04/06/sanat-icin-blockchain.html), [insani yardım](http://ademimerkezi.com/genel/2018/03/29/Iyilik-icin-blockchain.html) alanlarına tek tek bakmıştık. 
+Geçtiğimiz yazılarımızda Blockchain'in sadece finans değil değişik alanlardaki kullanımlarına değinmiş, [sağlık](/genel/2018/04/17/saglik-icin-blockchain.html), [sanat](/genel/2018/04/06/sanat-icin-blockchain.html), [insani yardım](/genel/2018/03/29/Iyilik-icin-blockchain.html) alanlarına tek tek bakmıştık. 
 
 Şimdi de seyahat ettiğimizde Blockchain bize nasıl yardımcı olabilir ona bakalım. Üstelik bu sefer bize yardımcı olmaya aday girişimlerden biri de ülkemizden çıkma. 
 
@@ -60,7 +60,7 @@ Otellere de bakalım: Seyahat acenteleri bir şehirdeki konaklama olanaklarını
 
 Ödeme demişken, son kullanıcı olarak ödediğimiz bu parayı, Akıllı Kontratımız havayolu, seyahat acentesi ve diğer servis verenler arasında otomatik olarak bölüştürecek, arka plandaki pekçok pürüz yok olacak. 
 
-Further Network, yukarıdaki sistemin çalışabilmesi için bir de kendi Token'ı olan Aton'u çıkarıyor. Daha önceki yazılarımızda Token Dünyası'nın nasıl çalıştığından [bahsetmiştik]. Further Network de sadece bir şirket değil bir ekosistem yaratıyor ve hisse senedi çıkarmak yerine Aton'u çıkararak gerek kendisini fonluyor gerekse de sistemin çalışması için gerekli enerjiyi sağlıyor. Örneğin Blockchain içindeki oyuncuların yeni işlem (örneğin Akıllı Bilet) yaratmak için Aton'a ihtiyacı olacak. Ya da sistem içindeki tüm işlemleri Aton üzerinde tutarak, sistem kullanıcılarına dünyadaki mevcut paralardaki kur değişimlerinden bağımsız bir bakiye ölçme aracı sunacak. Bunun yanında taraflar arasında ödeme için Aton kullanılması durumunda eskiden günlerce süren klasik paralar ile ödeme işlemlerinin anında yapılması sağlanacak. Böyle bir sistemin benimsenmesi durumunda, işlemler anlık olacağı için eskiden olduğu gibi acentelerin IATA ya da havayollarından işlem yapması için gerekli olan yüksek kaporalara da gerek kalmayacak. 
+Further Network, yukarıdaki sistemin çalışabilmesi için bir de kendi Token'ı olan Aton'u çıkarıyor. Daha önceki yazılarımızda Token Dünyası'nın nasıl çalıştığından bahsetmiştik. Further Network de sadece bir şirket değil bir ekosistem yaratıyor ve hisse senedi çıkarmak yerine Aton'u çıkararak gerek kendisini fonluyor gerekse de sistemin çalışması için gerekli enerjiyi sağlıyor. Örneğin Blockchain içindeki oyuncuların yeni işlem (örneğin Akıllı Bilet) yaratmak için Aton'a ihtiyacı olacak. Ya da sistem içindeki tüm işlemleri Aton üzerinde tutarak, sistem kullanıcılarına dünyadaki mevcut paralardaki kur değişimlerinden bağımsız bir bakiye ölçme aracı sunacak. Bunun yanında taraflar arasında ödeme için Aton kullanılması durumunda eskiden günlerce süren klasik paralar ile ödeme işlemlerinin anında yapılması sağlanacak. Böyle bir sistemin benimsenmesi durumunda, işlemler anlık olacağı için eskiden olduğu gibi acentelerin IATA ya da havayollarından işlem yapması için gerekli olan yüksek kaporalara da gerek kalmayacak. 
 
 ### ... ve diğerleri
 
@@ -90,3 +90,6 @@ Karmaşık ve eskimiş sistemler nedeniyle şu an yalpalamakta olan seyahat sekt
 
 **Further Network'un yayınladığı [white paper](https://further.network/whitepaper/whitepaper-latest-en.pdf)'dan alındı* 
 
+---
+
+*Not: Yazdığımız tüm yazıların bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](/about/) sayfasına göz atabilirsiniz.*
