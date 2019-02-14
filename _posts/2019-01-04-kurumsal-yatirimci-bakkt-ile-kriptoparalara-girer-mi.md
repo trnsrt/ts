@@ -5,7 +5,7 @@ date:   2019-01-04 13:25:38 +0300
 categories: Genel
 ---
 
-Bitcoin'in geniş kitleler tarafından kullanılmasına yardımcı olmaya çalışan iki yenilik [Lightning Network](https://ademimerkezi.com/genel/2018/12/20/bitcoin-uzerinde-isik-hiziyla-islem-Lightning-network.html) ve [Liquid](https://ademimerkezi.com/genel/2018/12/20/bitcoin-uzerinde-isik-hiziyla-islem-Lightning-network.html)'e geçtiğimiz iki yazıda değinmiştik. Şimdi de Ağustos ayında açıklanan ve gecikmeler nedeniyle 2019'un ilk yarısında faaliyete geçmesi planlanan Bakkt nedir ona bakalım. 
+Bitcoin'in geniş kitleler tarafından kullanılmasına yardımcı olmaya çalışan iki yenilik [Lightning Network](/genel/2018/12/20/bitcoin-uzerinde-isik-hiziyla-islem-Lightning-network.html) ve [Liquid](/genel/2018/12/20/bitcoin-uzerinde-isik-hiziyla-islem-Lightning-network.html)'e geçtiğimiz iki yazıda değinmiştik. Şimdi de Ağustos ayında açıklanan ve gecikmeler nedeniyle 2019'un ilk yarısında faaliyete geçmesi planlanan Bakkt nedir ona bakalım. 
 
 ### Bakkt'ın en ilginç tarafı sahibi
 
@@ -56,7 +56,8 @@ Kanun koyucular diğer varlıklarda olduğu gibi Bitcoin'de de emanet hesaplarda
 ### Sonuç
 Bakkt, Wall Street'in Bitcoin'i kullanmak (ve belki de kontrol altına almak) için giriştiği ilk adım. Özellikle kurumsal yatırımcılara sağladığı faydalar nedeniyle kısa vadede Bitcoin'e değer katma ihtimali yüksek. Uzun vadede, Wall Street onu kendi dümenine kullanır ve üzerinde yaratacağı türev enstrümanlar ile kontrol altına alıp değerini potansiyel olarak düşürücü aksiyonlara girer mi, onu da hep birlikte göreceğiz. Ne olursa olsun, bir köşede duran 'tu kaka' alternatif bir yatırım aracı olarak kalmasındansa, büyük fonların yatırım yapabileceği 'aşina' bir araca dönüşme ihtimali olumlu bir gelişme. 
 
-
+---
 &nbsp;
 
-*Not: Yazdığımız 40+ yazının bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](http://ademimerkezi.com/about/) sayfasına göz atabilirsiniz.* 
+*Not: Yazdığımız tüm yazıların bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](/about/) sayfasına göz atabilirsiniz.*
+
