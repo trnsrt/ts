@@ -5,7 +5,7 @@ date:   2018-12-26 12:25:38 +0300
 categories: Genel
 ---
 
-Geçtiğimiz yazıda Bitcoin'in geniş kitlelere yayılması için üzerinde çalışılan yeniliklerden Lightning Network'den bahsetmiştik. Bu hafta ise bir başka potansiyel yenilik olan Liquid Network'e bakalım birlikte.. 
+Geçtiğimiz [yazıda](/genel/2018/12/20/bitcoin-uzerinde-isik-hiziyla-islem-Lightning-network.html) Bitcoin'in geniş kitlelere yayılması için üzerinde çalışılan yeniliklerden Lightning Network'den bahsetmiştik. Bu hafta ise bir başka potansiyel yenilik olan Liquid Network'e bakalım birlikte.. 
 
 ### Liquid Network? Nedir o?
 
@@ -53,7 +53,9 @@ Her ne kadar yukarıdaki eleştirileri yazsak da, özünde Liquid kullanıcılar
 ---
 
 * Hep dediğimiz gibi Fiat paranızı bankada tuttuğunuzda banka riski alıyorsunuz. Kimseye güvenmeyecek kadar paranoyak iseniz alıp yastığınızın altına koyabilirsiniz ama orada da evinize hırsız girebilir. Bitcoin Kriptocüzdanlar sayesinde kendinizde tutabileceğiniz ve gerçekten sahip olduğunuzu kanıtlayabileceğiniz tek sanal para belki de. Kendi özel anahtarınızı bir kağıda yazdıktan sonra (kağıdı kaybetmemek şartıyla) sizden kimse alamaz ve bu kağıt ile birlikte parayı istediğiniz her yere götürebilirsiniz (isterseniz kağıda bile yazmayın ve hafınıza güveniyorsanız bu karmaşık şifreyi ezberleyin, size kalmış).
+---
 
 &nbsp;
 
-*Not: Yazdığımız 40+ yazının bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](http://ademimerkezi.com/about/) sayfasına göz atabilirsiniz.* 
+*Not: Yazdığımız tüm yazıların bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](/about/) sayfasına göz atabilirsiniz.*
+
