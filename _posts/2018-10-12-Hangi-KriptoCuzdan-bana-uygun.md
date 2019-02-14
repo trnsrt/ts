@@ -7,7 +7,7 @@ categories: Genel
 
 
 
-Geçtiğimiz iki yazıda, önce KriptoBorsalar'dan [nasıl KriptoPara alabileceğimize](https://ademimerkezi.com/genel/2018/10/04/kriptoborsalarda-nasil-islem-yaparim.html), sonraki yazıda ise [KriptoCüzdan ne demek](https://ademimerkezi.com/genel/2018/10/18/KriptoParaniz-KriptoCuzdan-ile-guvende.html) ona bakmıştık. Bu yazımızda ise KriptoCüzdan çeşitlerine bakacağız.
+Geçtiğimiz iki yazıda, önce KriptoBorsalar'dan [nasıl KriptoPara alabileceğimize](/genel/2018/10/04/kriptoborsalarda-nasil-islem-yaparim.html), sonraki yazıda ise [KriptoCüzdan ne demek](/genel/2018/10/18/KriptoParaniz-KriptoCuzdan-ile-guvende.html) ona bakmıştık. Bu yazımızda ise KriptoCüzdan çeşitlerine bakacağız.
 
 
 
@@ -59,5 +59,8 @@ Yukarıdaki ilk üç alternatifte de bir "kaybolma" senaryosu var. Web sitesinin
 
 Bitcoin ve diğer KriptoParaları almak aslında oldukça basit. Başlangıçta prosedürler gözünüzü korkutmasın. Her adımda açıklayıcı bilgiler bulmak mümkün. Yukarıdaki alternatiflerden size en uygununu seçin ve Şifreli Harikalar Dünyası'nda yol almaya başlayın.
 
+---
 
-*Not: Yazdığımız 30+ yazının bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](http://ademimerkezi.com/about/) sayfasına göz atabilirsiniz.* 
+&nbsp;
+
+*Not: Yazdığımız tüm yazıların bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](/about/) sayfasına göz atabilirsiniz.*
