@@ -6,7 +6,7 @@ categories: Genel
 ---
 
 
-Geçtiğimiz son iki yazıda, [önce](http://ademimerkezi.com/genel/2018/05/17/degisen-girisimcilik-ve-yatirimcilik.html) bildiğimiz anlamda klasik girişimci- yatırımcı ilişkisinin yeni teknolojiler ile birlikte değişmeye başladığına, [sonra](http://ademimerkezi.com/genel/2018/05/21/girisimler-yeni-teknolijler-ile-nasil-demokratiklesiyor.html) bu değişim ile birlikte girişim tarafından yaratılan katma değerin girişimci-yatırımcı tekelinden çıkıp tüm kesimlere (geliştiriciler, kaynak sağlayıcılar, kullanıcılar gibi) yayıldığını, bu sayede de daha demokratik, daha sağlam ve sürdürülebilir bir yapı (en azından teoride) oluşturulduğuna değinmiştik. 
+Geçtiğimiz son iki yazıda, [önce](/genel/2018/05/17/degisen-girisimcilik-ve-yatirimcilik.html) bildiğimiz anlamda klasik girişimci- yatırımcı ilişkisinin yeni teknolojiler ile birlikte değişmeye başladığına, [sonra](/genel/2018/05/21/girisimler-yeni-teknolijler-ile-nasil-demokratiklesiyor.html) bu değişim ile birlikte girişim tarafından yaratılan katma değerin girişimci-yatırımcı tekelinden çıkıp tüm kesimlere (geliştiriciler, kaynak sağlayıcılar, kullanıcılar gibi) yayıldığını, bu sayede de daha demokratik, daha sağlam ve sürdürülebilir bir yapı (en azından teoride) oluşturulduğuna değinmiştik. 
 
 Bu yazımızda ise bu katma değerin nasıl bu kesimler tarafından paylaşıldığına bakalım. Ama öncesinde bu sistemi çalıştıran ana öğe olan Token nedir onu bir anlayalım...
 
@@ -55,12 +55,7 @@ Bundan sonraki yazımızda değişik değişik tokenlara yine en bildiğimiz ör
 --
 &nbsp;
 
-Geçmişte nelerden bahsettik bakmak isterseniz: 
-- Blockchain teknolojisinin **nasıl çıktığını** merak ediyorsanız, "[Geceleri uykunuzu ne kaçırıyor](http://ademimerkezi.com/genel/2018/03/01/Geceleri-uykunuzu-ne-kaciriyor.html)" ve "[Sahi nedir bu Blockchain Allah aşkına?](http://ademimerkezi.com/genel/2018/03/02/Sahi-nedir-bu-blockchain-allah-askina.html) yazılarımıza, 
-- Bu teknolojinin şu anda en olgun şekilde kullanılan uygulamalarından **Bitcoin**'e ilginiz varsa "[Bitcoin ne tam olarak?](http://ademimerkezi.com/genel/2018/03/13/Bitcoin-ne-tam-olarak.html), "[Bitcoin para mı gerçekten?](http://ademimerkezi.com/genel/2018/03/22/Bitcoin-para-mi-gercekten.html)" ve "[Bütün bunlar bir balon mu?](http://ademimerkezi.com/genel/2018/03/05/Butun-bunlar-bir-balon-mu.html)" yazılarımıza, 
-- Blockchain'in **değişik alanlarda getirdiği potansiyel yenilikler** için, insanı yardım'da [İyilik için Blockchain](http://ademimerkezi.com/genel/2018/03/29/Iyilik-icin-blockchain.html), sanatta [Sanat için Blockchain](http://ademimerkezi.com/genel/2018/03/29/Iyilik-icin-blockchain.html) ve sağlıkta [Sağlık için Blockchain](http://ademimerkezi.com/genel/2018/04/17/saglik-icin-blockchain.html) yazılarımıza
-- Yeni teknolojileri ayakta tutan en önemli yeniliklerden **Şifreleme**nin ne demek olduğu için [Şifreleme ne demek? Neden önemli?](http://ademimerkezi.com/genel/2018/04/25/sifreleme-ne-demek-neden-onemli.html),  şifrelemenin temel taşları olan Öğütme (hashing), Özel Anahtar, Genel Anahtar, Şifreleme (Encryption)‘ye daha detaylı bakmak için [Şifreleme mi? Çok karışık değil mi?](http://ademimerkezi.com/genel/2018/04/26/sifreleme-mi-cok-karisik-degil-mi.html) ve Blockchain mekanizmasında nasıl kullanıldığını anlamak için [Peki Blockhain şifrelemesi nasıl çalışıyor?](http://ademimerkezi.com/genel/2018/05/08/Peki-Blockchain-sifrelemesi-nasil-calisiyor.html) yazılarımıza.
-göz atabilirsiniz
+*Not: Yazdığımız tüm yazıların bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](/about/) sayfasına göz atabilirsiniz.*
 
 
 
