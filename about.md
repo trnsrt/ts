@@ -19,6 +19,7 @@ Dağıtık (merkezi olmayan, adem-i merkezi) her tür teknoloji ve finans dünya
   - [Çevre için Blockchain](/ademimerkezi.com/genel/2018/11/16/cevre-icin-blockhain.html), ve [devamı](/genel/2018/11/17/cevre-icin-blockchaine-devam.html) 
   - [Geleceği tahmin için Blockchain](/genel/2018/07/13/gelecegi-tahmin-icin-blockchain.html), 
   - [Tedarik zinciri için Blockchain](/genel/2018/08/17/tedarik-zinciri-icin-blockchain.html)
+  - [Blockchain finans dünyasını nasıl etkileyecek?](/genel/2019/02/14/Blockchain-finans-dunyasini-nasil-etkileyecek.html)
 - Blockchain bazlı teknolojilerin girişimcilik ve yatırımcılık ekosistemlerini nasıl değiştirdiğini merak ediyorsanız
   - [Değişen Girişimcilik ve Yatırımcılık](/genel/2018/05/17/degisen-girisimcilik-ve-yatirimcilik.html)
   - [Girişimler yeni teknolojiler ile nasıl demokratikleşiyor?](/genel/2018/05/21/girisimler-yeni-teknolijler-ile-nasil-demokratiklesiyor.html)
@@ -47,6 +48,7 @@ Dağıtık (merkezi olmayan, adem-i merkezi) her tür teknoloji ve finans dünya
   - Ethereum'um tarihi için [Dünyanın en büyük bilgisayarı: Ethereum'un hikayesi](/genel/2018/06/14/dunyanin-en-buyuk-bilgisayari-ethereumun-hikayesi.html)
   - 2017-18 yıllarında yaşananlar için [Ethereum'un çıkış ve inişi bir döngünün mü parçası?](/genel/2019/01/18/Ethereumun-cikis-ve-inisi-bir-dongunun-mu-parcasi.html)
   - En temel taşı olan Akıllı Kontratlar'ı anlamak için [Bu kontratlar çok akıllı: Ethereum ve Akıllı Kontratlar](/genel/2018/06/29/bu-kontratlar-cok-akilli-ethereum-ve-akilli-kontratlar.html)
+  - Finans dünyasına getirdiği yenilikler için  [MakerDAO kredi kullanımında çığır açar mı?](https://ademimerkezi.com/genel/2019/02/15/MakerDAO-kredi-kullaniminda-cigir-acar-mi.html)
 
 &nbsp;
 
