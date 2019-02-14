@@ -7,7 +7,7 @@ categories: Genel
 
 
 
-Geçtiğimiz [yazıda](https://ademimerkezi.com/genel/2018/09/14/ico-yatirim-rehberi.html) Kripto Dünyası'nın yatırım aracı olan Token'lar yani KriptoParalar'a yatırım yapmadan önce nelere dikkat etmeliyize göz atmaya başlamıştık. 
+Geçtiğimiz [yazıda](/genel/2018/09/14/ico-yatirim-rehberi.html) Kripto Dünyası'nın yatırım aracı olan Token'lar yani KriptoParalar'a yatırım yapmadan önce nelere dikkat etmeliyize göz atmaya başlamıştık. 
 
 Kısaca kendi araştımanızı yapmanın önemine değinmiş ve konuları şu şekilde sıralamıştık. 
 
@@ -98,9 +98,7 @@ ICO pazarı kolay olmayan bir pazar. Üstelik şu son bir yıldaki tecrübelerde
 
 --
 
-
 &nbsp;
 
-
-*Not: Yazdığımız 25+ yazının bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](http://ademimerkezi.com/about/) sayfasına göz atabilirsiniz.* 
+*Not: Yazdığımız tüm yazıların bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](/about/) sayfasına göz atabilirsiniz.*
 
