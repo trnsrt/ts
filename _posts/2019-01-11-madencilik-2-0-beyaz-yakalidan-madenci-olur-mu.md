@@ -5,11 +5,11 @@ date:   2019-01-11 16:25:38 +0300
 categories: Genel
 ---
 
-Yeni teknolojilerin geniş kesimlerce adapte edilebilmesi için pek çok girişim var. Bunlardan [Lightning](https://ademimerkezi.com/genel/2018/12/20/bitcoin-uzerinde-isik-hiziyla-islem-Lightning-network.html), [Liquid](https://ademimerkezi.com/genel/2018/12/26/Bitcoin-gibi-ama-degil-Liquid.html) ve [Bakkt](https://ademimerkezi.com/genel/2019/01/04/kurumsal-yatirimci-bakkt-ile-kriptoparalara-girer-mi.html)'a geçmiş yazılarımızda değinmiştik. Şimdi bu trendlerden gelecekte daha da önem kazanacak olan bir tanesine, kurumsal yatırımcıların kafa yorduğu Generalized Mining (ya da Mining 2.0) kavramına bakalım birlikte. 
+Yeni teknolojilerin geniş kesimlerce adapte edilebilmesi için pek çok girişim var. Bunlardan [Lightning](/genel/2018/12/20/bitcoin-uzerinde-isik-hiziyla-islem-Lightning-network.html), [Liquid](/genel/2018/12/26/Bitcoin-gibi-ama-degil-Liquid.html) ve [Bakkt](/genel/2019/01/04/kurumsal-yatirimci-bakkt-ile-kriptoparalara-girer-mi.html)'a geçmiş yazılarımızda değinmiştik. Şimdi bu trendlerden gelecekte daha da önem kazanacak olan bir tanesine, kurumsal yatırımcıların kafa yorduğu Generalized Mining (ya da Mining 2.0) kavramına bakalım birlikte. 
 
 ### Yatırımcılık değişiyor, değişmek zorunda
 
-Hatırlarsanız geçmiş bir [yazımızda](https://ademimerkezi.com/genel/2018/05/17/degisen-girisimcilik-ve-yatirimcilik.html) yeni teknolojiler ile değişen girişimcilik ve yatırımcılık tanımlarından bahsetmiştik.
+Hatırlarsanız geçmiş bir [yazımızda](/genel/2018/05/17/degisen-girisimcilik-ve-yatirimcilik.html) yeni teknolojiler ile değişen girişimcilik ve yatırımcılık tanımlarından bahsetmiştik.
 
 Kısaca özetlersek, değişen teknolojiler ile birlikte bir şirketin yarattığı katma değer artık sadece şirket kurucuları ve yatırımcıları tarafından değil diğer başka aktörler tarafından da paylaşılıyor. 
 
@@ -25,7 +25,7 @@ Sonuçta eskiden girişimlere erken yatırım yapan kurumlar (VC'ler - girişim 
 
 ### Konu ICO'lar mı? Hayır
 
-Yukarıda bahsettiğimiz [yazımızda](https://ademimerkezi.com/genel/2018/05/17/degisen-girisimcilik-ve-yatirimcilik.html) girişimler için girişim sermayelerine alternatif olarak ortaya çıkan ICO piyasalarından bahsetmiştik. 2018 yılı içinde girişimlere ciddi miktarda finansman sağlayan ICO piyasaları yılın sonuna doğru tabiri caiz ise kurudu. 
+Yukarıda bahsettiğimiz [yazımızda](/genel/2018/05/17/degisen-girisimcilik-ve-yatirimcilik.html) girişimler için girişim sermayelerine alternatif olarak ortaya çıkan ICO piyasalarından bahsetmiştik. 2018 yılı içinde girişimlere ciddi miktarda finansman sağlayan ICO piyasaları yılın sonuna doğru tabiri caiz ise kurudu. 
 
 Bunun pek çok nedeni var: en önemlisi, girişim adı altında ortaya çıkanların çoğunun aslında bu yaratılan heyecanı kullanan hayal tacileri ya da dolandırıcılar oldukları ortaya çıkması. 
 
@@ -51,7 +51,7 @@ En önemlisi madencilik işine girebilirler!. Şaşırtıcı değil mi? Peki yap
 
 Girişim sermayeleri neden böyle bir işe kalkışsınlar? Birkaç nedeni var:
 
-Öncelikle, hatırlayalım; madenciler sistem içindeki işlemleri gerçekleştiren ve aynı zamanda çeşitli protokoller ile ([PoW gibi](https://ademimerkezi.com/genel/2018/11/01/Bitcoin-uzlasmasi-proof-of-work.html)) sistemin güvenliğini sağlayan aktörler. Girişim sermayesi açısından eğer uzun vadede bir getiri hedefleniyor ise bu değeri yaratacak olan ekosistemin kesintisiz bir şekilde yaşaması ve dış tehditlerden korunması hayati öneme sahip. 
+Öncelikle, hatırlayalım; madenciler sistem içindeki işlemleri gerçekleştiren ve aynı zamanda çeşitli protokoller ile ([PoW gibi](/genel/2018/11/01/Bitcoin-uzlasmasi-proof-of-work.html)) sistemin güvenliğini sağlayan aktörler. Girişim sermayesi açısından eğer uzun vadede bir getiri hedefleniyor ise bu değeri yaratacak olan ekosistemin kesintisiz bir şekilde yaşaması ve dış tehditlerden korunması hayati öneme sahip. 
 
 Bir yandan da madenciler ekosistemin gidişatı konusunda sınırlı da olsa söz hakkına sahipler. (genellikle uzlaşma sonucunda tamamlanan blokların içinde yarattıkları tokenlar sayesinde) Birçok ekosistemin nasıl yönetileceğine o sistemin yarattığı token'ları ellerinde tutanlar karar veriyor. Ne kadar token o kadar söz hakkı. 
 
@@ -91,4 +91,8 @@ Pek çok kurumsal yatırımcı ve girişim sermayesi konuya uzun vadeli bakmaya 
 
 *Not 2: Konu ile ilgili daha detaylı bilgi için Medium'daki "[Blockchain mining 2.0](https://medium.com/notation-capital/notation-blockchain-mining-2-0-dcf46a28f7eb) ve TokenDaily'nin ["Premier on mining 2.0"](https://www.tokendaily.co/blog/a-primer-on-mining-2-0) yazısına göz atabilirsiniz.*  
 
-*Son Not: Yazdığımız 40+ yazının bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](http://ademimerkezi.com/about/) sayfasına göz atabilirsiniz.* 
+---
+&nbsp;
+
+*Son not: Yazdığımız tüm yazıların bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](/about/) sayfasına göz atabilirsiniz.*
+
