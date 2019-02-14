@@ -7,7 +7,7 @@ categories: Genel
 
 
 
-Geçtiğimiz [yazıda](https://ademimerkezi.com/genel/2018/10/04/kriptoborsalarda-nasil-islem-yaparim.html) KriptoBorsalar'dan nasıl alım yapabileceğimizden bahsetmiş ancak devamını bu yazıya bırakmıştık. KriptoBorsa'dan aldığınız bir KriptoPara'yı nerede tutmalısınız? KriptoBorsa'da mı durmalı, yoksa başka bir yerde mi? O başka yer neresi? Peki ya KriptoBorsa'dan alım yapmak değil de bir arkadaşınız size direkt KriptoPara göndermek istese? Yapabilir mi? Eğer yapabiliyorsa nereye gönderecek, nasıl gönderecek?
+Geçtiğimiz [yazıda](/genel/2018/10/04/kriptoborsalarda-nasil-islem-yaparim.html) KriptoBorsalar'dan nasıl alım yapabileceğimizden bahsetmiş ancak devamını bu yazıya bırakmıştık. KriptoBorsa'dan aldığınız bir KriptoPara'yı nerede tutmalısınız? KriptoBorsa'da mı durmalı, yoksa başka bir yerde mi? O başka yer neresi? Peki ya KriptoBorsa'dan alım yapmak değil de bir arkadaşınız size direkt KriptoPara göndermek istese? Yapabilir mi? Eğer yapabiliyorsa nereye gönderecek, nasıl gönderecek?
 
 Anlatalım: 
 
@@ -29,7 +29,7 @@ Efendim, biliyorsunuz KriptoParalar'ın en önemli özelliklerinden biri kişile
 
 ### KriptoCüzdan nedir, nasıl çalışır?
 
-İşin en başından başlarsak, daha önceki [yazılarımızda](https://ademimerkezi.com/genel/2018/05/08/Peki-Blockchain-sifrelemesi-nasil-calisiyor.html) Bitcoin örneğinden yola çıkarak, bir kişinin diğerine nasıl para gönderdiğini anlatmıştık. Kısaca hatırlatırsak, Blockchain kendi sistemi üzerinden geçen işlemleri binlerce makine üzerinde tutan bir kayıt defteri idi. 
+İşin en başından başlarsak, daha önceki [yazılarımızda](/genel/2018/05/08/Peki-Blockchain-sifrelemesi-nasil-calisiyor.html) Bitcoin örneğinden yola çıkarak, bir kişinin diğerine nasıl para gönderdiğini anlatmıştık. Kısaca hatırlatırsak, Blockchain kendi sistemi üzerinden geçen işlemleri binlerce makine üzerinde tutan bir kayıt defteri idi. 
 
 Bu sistemde, kullanıcı kişilerin adı belli değil, bilinmiyorlar, sadece kendilerine ait adresleri var (aynı e-posta adresi gibi). Bu adreslere gönderilen ve bu adreslerin gönderdiği paralar ise sistem üzerinden şeffaf bir şekilde tutuluyor, yani herkesin görebileceği şekilde ulaşılabiliyor (hem de Bitcoin'in başladığı 2009 yılından bugüne kadar). 
 
@@ -44,5 +44,8 @@ KriptoCüzdanın pek çok çeşidi var ve bir sonraki bölümde onlardan bahsede
 
 Bir sonraki yazıda da KriptoCüzdan çeşitlerine, fayda ve risklerine değinelim ki, hangi KriptoCüzdan size uygun, karar vermenize yardımcı olsun.  
 
+---
+&nbsp;
 
-*Not: Yazdığımız 30+ yazının bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](http://ademimerkezi.com/about/) sayfasına göz atabilirsiniz.* 
+*Not: Yazdığımız tüm yazıların bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](/about/) sayfasına göz atabilirsiniz.*
+
