@@ -5,11 +5,11 @@ date:   2018-04-06 16:25:25 +0300
 categories: Genel
 ---
 
-Geçtiğimiz yazımızda Blockchain'i sadece finans dünyası değil başka pek çok alanda kullanılabileceğine değinmiş ve bunlardan [filantropi ve insani yardım](http://ademimerkezi.com/genel/2018/03/29/Iyilik-icin-blockchain.html) yararına neler yapılabilir bakmıştık. 
+Geçtiğimiz yazımızda Blockchain'i sadece finans dünyası değil başka pek çok alanda kullanılabileceğine değinmiş ve bunlardan [filantropi ve insani yardım](/genel/2018/03/29/Iyilik-icin-blockchain.html) yararına neler yapılabilir bakmıştık. 
 
 Bir konuyu tekrar vurgulamakta yarar var: Blockchain çok yeni bir teknoloji - dolayısıyla kullanım alanlarına baktığımızda gördüğümüz örnekler genellikle çok yeni ve deneysel. Bu teknolojinin pratik hayatta etkilerinin daha iyi hissedilmesi için bu örneklerin hem çoğalması hem de olgunlaşması gerekiyor. Burada okuduğunuz yazılarda amaç, ilgisi olan okuyuculara bu teknolojinin nasıl kullanılacağı konusundaki vizyona dair fikir vermek.
 
-Eğer daha öncesinde Blockchain teknolojisinin nasıl ortaya çıktığını merak ediyorsanız önceki yazılarımızdan "[Geceleri uykunuzu ne kaçırıyor](http://ademimerkezi.com/genel/2018/03/01/Geceleri-uykunuzu-ne-kaciriyor.html)" ve "[Sahi nedir bu Blockchain Allah aşkına?](http://ademimerkezi.com/genel/2018/03/02/Sahi-nedir-bu-blockchain-allah-askina.html)"yı, ya da bu teknolojinin şu anda en olgun şekilde kullanılan uygulamalarından Bitcoin'e ilginiz varsa "[Bitcoin ne tam olarak?](http://ademimerkezi.com/genel/2018/03/13/Bitcoin-ne-tam-olarak.html), "[Bitcoin para mı gerçekten?](http://ademimerkezi.com/genel/2018/03/22/Bitcoin-para-mi-gercekten.html)" ve "[Bütün bunlar bir balon mu?](http://ademimerkezi.com/genel/2018/03/05/Butun-bunlar-bir-balon-mu.html)" yazılarımıza göz atabilirsiniz. 
+Eğer daha öncesinde Blockchain teknolojisinin nasıl ortaya çıktığını merak ediyorsanız önceki yazılarımızdan "[Geceleri uykunuzu ne kaçırıyor](/genel/2018/03/01/Geceleri-uykunuzu-ne-kaciriyor.html)" ve "[Sahi nedir bu Blockchain Allah aşkına?](/genel/2018/03/02/Sahi-nedir-bu-blockchain-allah-askina.html)"yı, ya da bu teknolojinin şu anda en olgun şekilde kullanılan uygulamalarından Bitcoin'e ilginiz varsa "[Bitcoin ne tam olarak?](/genel/2018/03/13/Bitcoin-ne-tam-olarak.html), "[Bitcoin para mı gerçekten?](/genel/2018/03/22/Bitcoin-para-mi-gercekten.html)" ve "[Bütün bunlar bir balon mu?](/genel/2018/03/05/Butun-bunlar-bir-balon-mu.html)" yazılarımıza göz atabilirsiniz. 
 
 Bu yazımızda ise Blockchain'in sanat dünyasının yaratıcı ve tüketicilerine neler sunabileceğine birkaç kullanım örneği üzerinden bakacağız. 
 
