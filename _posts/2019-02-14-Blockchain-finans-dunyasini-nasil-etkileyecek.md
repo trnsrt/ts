@@ -32,7 +32,7 @@ Benzer mantıkla Blockchain bazlı yapılar öncelikle basit ve yüksek maliyetl
 
 Bir örnek daha verelim: Alışverişlerde kredi kartı yerine KriptoPara kullanılması. 
 
-Bu alanda kendine pay almaya çalışan pekçok girişim var. [Litecoin](/genel/2018/06/07/token-dunyasina-devam-diger-kriptopalar-litecoin-monero-dash-zcash.html), ya da geçmiş yazılarda bahsettiğimiz [Grin](https://ademimerkezi.com/genel/2019/01/25/Grine-teknik-bakis.html) bunlardan biri. Ancak unutulmaması gereken bir durum var - o da son kullanıcı gözünde Visa ve Mastercard gibi kartlar hem hızlı işlem sağlıyorlar hem de maliyetleri çok düşük. Dolayısıyla özellikle kredi kartı kullanımının yaygın olduğu gelişmiş ülkelerde KriptoParalara ile alışveriş yapılması ilk aşamada geniş kitlelerin ilgisini çekecek mi - zor görünüyor. 
+Bu alanda kendine pay almaya çalışan pekçok girişim var. [Litecoin](/genel/2018/06/07/token-dunyasina-devam-diger-kriptopalar-litecoin-monero-dash-zcash.html), ya da geçmiş yazılarda bahsettiğimiz [Grin](/genel/2019/01/25/Grine-teknik-bakis.html) bunlardan biri. Ancak unutulmaması gereken bir durum var - o da son kullanıcı gözünde Visa ve Mastercard gibi kartlar hem hızlı işlem sağlıyorlar hem de maliyetleri çok düşük. Dolayısıyla özellikle kredi kartı kullanımının yaygın olduğu gelişmiş ülkelerde KriptoParalara ile alışveriş yapılması ilk aşamada geniş kitlelerin ilgisini çekecek mi - zor görünüyor. 
 
 Bu demek değil ki bu KriptoParalar alışveriş için kullanımda başarısız olacak. Kriptoparalar'ın kredi kartına ya da bankacılık sistemine erişimi olmayanlar tarafından kullanılması daha muhtemel. Aynı şekilde mevcut bankacılık sisteminde şu ya da bu şekilde olmak istemeyen gelişmiş dünyadaki küçük bir kitle de bu paraları kullanabilir. 
 
