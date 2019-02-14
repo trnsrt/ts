@@ -7,7 +7,7 @@ categories: Genel
 
 Blockchain bazlı sistemlerin en çok etkileyeceği alanlardan birinin finans olduğu ezelden beri söylenir. Gelin neden böyle bir algı var önce ona bakalım sonra da bu alanda son zamanlarda en çok konuşulan konulardan biri olan Decentralized Finance (DeFi) oluşumuna göz atalım.  
 
-### Neden Finans sektörü Blockchain bazlı teknolojilerden etkilenecek?
+### Finans sektörü Blockchain bazlı teknolojilerden neden etkilenecek?
 
 Blockchain bazlı sistemlerin ana amacını iki taraf arasında yapılan işlemlerde merkezi bir aracının sağladığı "güven" hizmetini makinelere yaymak. Böylece bu güvene duyulan ihtiyacı ortadan kaldırmak. 
 
