@@ -5,14 +5,14 @@ date:   2018-05-08 12:39:45 +0300
 categories: Genel
 ---
 
-Önceki iki yazımızda, önce merkezi olmayan sistemlerin çalışmasında temel unsur olan ["şifreleme"'nin neden önemli olduğuna](http://ademimerkezi.com/genel/2018/04/25/sifreleme-ne-demek-neden-onemli.html), sonra da şifrelemenin temel taşları olan [Öğütme (hashing), Özel Anahtar, Genel Anahtar, Şifreleme (Encryption)](http://ademimerkezi.com/genel/2018/04/26/sifreleme-mi-cok-karisik-degil-mi.html)'ye daha detaylı bakmıştık. 
+Önceki iki yazımızda, önce merkezi olmayan sistemlerin çalışmasında temel unsur olan ["şifreleme"'nin neden önemli olduğuna](/genel/2018/04/25/sifreleme-ne-demek-neden-onemli.html), sonra da şifrelemenin temel taşları olan [Öğütme (hashing), Özel Anahtar, Genel Anahtar, Şifreleme (Encryption)](/genel/2018/04/26/sifreleme-mi-cok-karisik-degil-mi.html)'ye daha detaylı bakmıştık. 
 
 Şimdi de dilerseniz, bütün bu kavramlar Blockchain içerisinde nasıl hayata geçirilmiş ona bakalım. Bir nevi Blockchain'in sırrını çözelim :) 
 
 
 ### Peki Blockchain şifrelemesi nasıl çalışıyor?
 
-Blockchain teknolojileri önceki yazıda yazdığımız iki kavramı ([öğütme ve şifreleme](http://ademimerkezi.com/genel/2018/04/26/sifreleme-mi-cok-karisik-degil-mi.html)) kullanarak kendi sistemlerini otomatik güvenli hale getiriyorlar (ya da tek bir kişiye duyulan güven ihtiyacını sıfıra indiriyorlar). 
+Blockchain teknolojileri önceki yazıda yazdığımız iki kavramı ([öğütme ve şifreleme](/genel/2018/04/26/sifreleme-mi-cok-karisik-degil-mi.html)) kullanarak kendi sistemlerini otomatik güvenli hale getiriyorlar (ya da tek bir kişiye duyulan güven ihtiyacını sıfıra indiriyorlar). 
 
 #### Şifrele ki senden geldiğini anlasınlar
 
@@ -102,7 +102,7 @@ Para örneğinden yola çıktık ama tekrar edelim. Dijital olarak bana ait olan
 &nbsp;
 
 Geçmişte nelerden bahsettik bakmak isterseniz: 
-- Blockchain teknolojisinin nasıl çıktığını merak ediyorsanız, "[Geceleri uykunuzu ne kaçırıyor](http://ademimerkezi.com/genel/2018/03/01/Geceleri-uykunuzu-ne-kaciriyor.html)" ve "[Sahi nedir bu Blockchain Allah aşkına?](http://ademimerkezi.com/genel/2018/03/02/Sahi-nedir-bu-blockchain-allah-askina.html) yazılarımıza, 
-- Bu teknolojinin şu anda en olgun şekilde kullanılan uygulamalarından Bitcoin'e ilginiz varsa "[Bitcoin ne tam olarak?](http://ademimerkezi.com/genel/2018/03/13/Bitcoin-ne-tam-olarak.html), "[Bitcoin para mı gerçekten?](http://ademimerkezi.com/genel/2018/03/22/Bitcoin-para-mi-gercekten.html)" ve "[Bütün bunlar bir balon mu?](http://ademimerkezi.com/genel/2018/03/05/Butun-bunlar-bir-balon-mu.html)" yazılarımıza, 
-- Blockchain'in değişik alanlarda getirdiği potansiyel yenilikler için, insanı yardım'da [İyilik için Blockchain](http://ademimerkezi.com/genel/2018/03/29/Iyilik-icin-blockchain.html), sanatta [Sanat için Blockchain](http://ademimerkezi.com/genel/2018/03/29/Iyilik-icin-blockchain.html) ve sağlıkta [Sağlık için Blockchain](http://ademimerkezi.com/genel/2018/04/17/saglik-icin-blockchain.html) yazılarımıza
+- Blockchain teknolojisinin nasıl çıktığını merak ediyorsanız, "[Geceleri uykunuzu ne kaçırıyor](/genel/2018/03/01/Geceleri-uykunuzu-ne-kaciriyor.html)" ve "[Sahi nedir bu Blockchain Allah aşkına?](/genel/2018/03/02/Sahi-nedir-bu-blockchain-allah-askina.html) yazılarımıza, 
+- Bu teknolojinin şu anda en olgun şekilde kullanılan uygulamalarından Bitcoin'e ilginiz varsa "[Bitcoin ne tam olarak?](/genel/2018/03/13/Bitcoin-ne-tam-olarak.html), "[Bitcoin para mı gerçekten?](/genel/2018/03/22/Bitcoin-para-mi-gercekten.html)" ve "[Bütün bunlar bir balon mu?](/genel/2018/03/05/Butun-bunlar-bir-balon-mu.html)" yazılarımıza, 
+- Blockchain'in değişik alanlarda getirdiği potansiyel yenilikler için, insanı yardım'da [İyilik için Blockchain](/genel/2018/03/29/Iyilik-icin-blockchain.html), sanatta [Sanat için Blockchain](/genel/2018/03/29/Iyilik-icin-blockchain.html) ve sağlıkta [Sağlık için Blockchain](/genel/2018/04/17/saglik-icin-blockchain.html) yazılarımıza
 göz atabilirsiniz
