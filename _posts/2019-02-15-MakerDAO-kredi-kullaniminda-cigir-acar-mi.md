@@ -51,7 +51,7 @@ Diyelim, Dai fiyatında bir düşüş oldu. Böyle bir durumda geçmişte Dai ya
 
 Aynı şekilde Dai fiyatında bir artış olduğunda (1 ABD dolarından daha yüksek bir fiyata geldiğinde) insanlar ellerindeki ETH'leri sisteme gönderip 1 ABD doları karşılığı olacak şekilde Dai yaratacak ve bu Dai'yi piyasada 1 ABD Doları'nın üzerinde bozdurma şansı yakalayacaklar.  Bu da piyasada 1 Dai'nin 1 ABD Doları'na yaklaşmasını sağlayacak. 
 
-![DAI_ETH_karsilastirma.png](/assets/DAI_ETH_karsilastirma.png)
+![DAI_ETH_karsilastirma_USD.png](/assets/DAI_ETH_karsilastirma_USD.png)
 
 Bunun yanında Dai fiyatında ekstrem bir düşüş olduğu durumlar için de acil durum senaryoları hazırlanmış ama şu aşamada çok teknik kaldığı için ilgilenenleri [White Paper]((https://makerdao.com/en/whitepaper/))'ı okumaya davet ederek konuyu kapatıyoruz. 
 
