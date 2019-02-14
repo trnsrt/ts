@@ -4,7 +4,7 @@ title:  "Sağlık için Blockchain"
 date:   2018-04-17 19:16:43 +0300
 categories: Genel
 ---
-Son iki yazımızda Blockchain'nin sadece finans dünyasında değil başka pek çok alanda da kullanılabileceğini söylemiş ve bunlardan [sanat](http://ademimerkezi.com/genel/2018/04/06/sanat-icin-blockchain.html) ve [insani yardım dünyası](http://ademimerkezi.com/genel/2018/03/29/Iyilik-icin-blockchain.html) yararına yapılabileceklere bakmıştık. 
+Son iki yazımızda Blockchain'nin sadece finans dünyasında değil başka pek çok alanda da kullanılabileceğini söylemiş ve bunlardan [sanat](/genel/2018/04/06/sanat-icin-blockchain.html) ve [insani yardım dünyası](/genel/2018/03/29/Iyilik-icin-blockchain.html) yararına yapılabileceklere bakmıştık. 
 
 Bu yazımızda ise sağlık alanında Blockchain bize ne gibi faydalar sağlayabilir ona göz atacağız. 
 
@@ -49,4 +49,4 @@ Hemen akla şu soru gelebilir: "Sağlık kurumları kendi aralarında anlaşsa v
 
 --
 
-Eğer Blockchain teknolojisinin nasıl çıktığını merak ediyorsanız, "[Geceleri uykunuzu ne kaçırıyor](http://ademimerkezi.com/genel/2018/03/01/Geceleri-uykunuzu-ne-kaciriyor.html)" ve "[Sahi nedir bu Blockchain Allah aşkına?](http://ademimerkezi.com/genel/2018/03/02/Sahi-nedir-bu-blockchain-allah-askina.html) yazılarımıza, bu teknolojinin şu anda en olgun şekilde kullanılan uygulamalarından Bitcoin'e ilginiz varsa "[Bitcoin ne tam olarak?](http://ademimerkezi.com/genel/2018/03/13/Bitcoin-ne-tam-olarak.html), "[Bitcoin para mı gerçekten?](http://ademimerkezi.com/genel/2018/03/22/Bitcoin-para-mi-gercekten.html)" ve "[Bütün bunlar bir balon mu?](http://ademimerkezi.com/genel/2018/03/05/Butun-bunlar-bir-balon-mu.html)" yazılarımıza göze atabilirsiniz. 
+Eğer Blockchain teknolojisinin nasıl çıktığını merak ediyorsanız, "[Geceleri uykunuzu ne kaçırıyor](/genel/2018/03/01/Geceleri-uykunuzu-ne-kaciriyor.html)" ve "[Sahi nedir bu Blockchain Allah aşkına?](/genel/2018/03/02/Sahi-nedir-bu-blockchain-allah-askina.html) yazılarımıza, bu teknolojinin şu anda en olgun şekilde kullanılan uygulamalarından Bitcoin'e ilginiz varsa "[Bitcoin ne tam olarak?](/genel/2018/03/13/Bitcoin-ne-tam-olarak.html), "[Bitcoin para mı gerçekten?](/genel/2018/03/22/Bitcoin-para-mi-gercekten.html)" ve "[Bütün bunlar bir balon mu?](/genel/2018/03/05/Butun-bunlar-bir-balon-mu.html)" yazılarımıza göze atabilirsiniz. 
