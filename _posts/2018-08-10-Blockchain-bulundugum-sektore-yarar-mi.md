@@ -6,7 +6,7 @@ categories: Genel
 ---
 
 
-Geçtiğimiz [yazıda](http://ademimerkezi.com/genel/2018/08/03/blockchain-her-derde-deva-mi.html), Blockchain'in iki türü olan Özel ve Genel Blockchain kavramından bahsetmiş ve neden bu Blockchain bazlı çoğu projenin geleceğinin parlak olmayacağını göz atmıştık. Şimdi de neden Blockchain bazlı teknolojiler çalışması zor yapılar, başarılı olması için gerekli kriterler neler onlara bakalım dilerseniz.
+Geçtiğimiz [yazıda](/genel/2018/08/03/blockchain-her-derde-deva-mi.html), Blockchain'in iki türü olan Özel ve Genel Blockchain kavramından bahsetmiş ve neden bu Blockchain bazlı çoğu projenin geleceğinin parlak olmayacağını göz atmıştık. Şimdi de neden Blockchain bazlı teknolojiler çalışması zor yapılar, başarılı olması için gerekli kriterler neler onlara bakalım dilerseniz.
 
 ### Her güzelin bir kusuru vardır...
 
@@ -50,11 +50,11 @@ Merkezi sistemlerin, kişileri bağlamak, elinde tutmak, kişinin üzerinden izi
 
 Dediğimiz gibi hemen hemen her sektörde gerek yeni girişimler gerekse sistemin içindeki mevcut oyuncular için Blockchain sektörü derinden sarsacak bir olguymuş gibi parlatılıyor. Neden?
 
-Öncelikle bilgi eksikliği diyebiliriz. Daha önce de [bahsettiğimiz](http://ademimerkezi.com/genel/2018/03/02/Sahi-nedir-bu-blockchain-allah-askina.html) gibi, Blockchain anlaması ve algılaması oldukça zor bir kavram. Özünde "merkezi olmayan bir veritabanı" olsa da; şifreleme, bağımsız makineler, aracıya olan güveni ortadan kaldırma gibi terimler alışık olmadığımız, büyürken bize öğretilen doğrulara kimi zaman taban tabana zıt kavramlar. Hem anlamakta zorluk çekiyoruz hem de "startup patlamasında" yaşadğımız gibi uzak kalmak ya da etkilenmek istemiyoruz. Büyük kurumların da insanlardan oluştuğunu unutmamamız gerek. Dolayısıyla kurumlar da bu rüzgardan etkileniyorlar. 
+Öncelikle bilgi eksikliği diyebiliriz. Daha önce de [bahsettiğimiz](/genel/2018/03/02/Sahi-nedir-bu-blockchain-allah-askina.html) gibi, Blockchain anlaması ve algılaması oldukça zor bir kavram. Özünde "merkezi olmayan bir veritabanı" olsa da; şifreleme, bağımsız makineler, aracıya olan güveni ortadan kaldırma gibi terimler alışık olmadığımız, büyürken bize öğretilen doğrulara kimi zaman taban tabana zıt kavramlar. Hem anlamakta zorluk çekiyoruz hem de "startup patlamasında" yaşadğımız gibi uzak kalmak ya da etkilenmek istemiyoruz. Büyük kurumların da insanlardan oluştuğunu unutmamamız gerek. Dolayısıyla kurumlar da bu rüzgardan etkileniyorlar. 
 
 Bunun yanında Blockchain'i kullanmaktan çok aslında dışarıda kalmamaya çalışıyor kimi kurumlar. Bir nevi test ortamında deniyorlar kullanışlı olup olmadığını. Havuz kenarına gelip suyun nasıl olduğunu ayağınızın ucuyla dokumak gibi düşünebilirsiniz bunu.  Ancak kullandıkları Blockchain teknolojilerin hizmetini verenler bunu piyasada ballandıra ballandıra anlatarak küçük bir olayı bambaşka boyutlarda sunuyorlar. Örnek olarak, şahsen, Ripple Network içinde yer aldığını açıklayan onlarca prestijli bankanın sadece ne olduğunu anlayabilmek için bu ortamda olduklarını düşünüyorum.  
 
-İkincisi, özellikle Bilgi Sistemleri çok önce kurulmuş ve doğası gereği yenilenmeye açık olmayan sektörlerde yeni sistem kurmanın imkansızlığı ya da yüksek maliyeti, Blockchain sistemlerine olan ilgiyi artıyor. Örnek mi? Geçen yazılarımızda bahsettiğimiz [havacılık sektörü](http://ademimerkezi.com/genel/2018/07/06/seyahat-icin-blockchain.html). Havacılık için böyle bir ihtiyaç var gibi görünüyor ancak başka pekçok sektörde danışman firmalar tarafından da böyle bir ihtiyaç var havası yaratılıyor maalesef. 
+İkincisi, özellikle Bilgi Sistemleri çok önce kurulmuş ve doğası gereği yenilenmeye açık olmayan sektörlerde yeni sistem kurmanın imkansızlığı ya da yüksek maliyeti, Blockchain sistemlerine olan ilgiyi artıyor. Örnek mi? Geçen yazılarımızda bahsettiğimiz [havacılık sektörü](/genel/2018/07/06/seyahat-icin-blockchain.html). Havacılık için böyle bir ihtiyaç var gibi görünüyor ancak başka pekçok sektörde danışman firmalar tarafından da böyle bir ihtiyaç var havası yaratılıyor maalesef. 
 
 Bir başka neden de, kurumların kendilerini teknoloji lideri olarak göstermek için Blockchain'den bahsetmeleri. Bir nevi "biz çok akıllıyız, bu teknolojileri anlıyoruz, kullanmaya başlıyoruz" diyerek 'hava atmaları'...
 
@@ -78,5 +78,4 @@ Hep söylediğimizi bir kez daha tekrarlayalım: Blockchain yeni gelişmekte ola
 
 &nbsp;
 
-
-*Not: Yazdığımız 20+ yazının bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](http://ademimerkezi.com/about/) sayfasına göz atabilirsiniz.* 
+*Not: Yazdığımız tüm yazıların bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](/about/) sayfasına göz atabilirsiniz.*
