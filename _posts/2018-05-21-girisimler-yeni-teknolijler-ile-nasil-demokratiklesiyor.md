@@ -6,7 +6,7 @@ categories: Genel
 ---
 
 
-Geçtiğimiz [yazımızda](http://ademimerkezi.com/genel/2018/05/17/degisen-girisimcilik-ve-yatirimcilik.html), bildiğimiz alanda klasik girişimcilik ve yatırımcılığın, yeni teknolojiler ile birlikte nasıl bir değişimden geçtiğini anlatmaya başlamıştık. Şimdi dilerseniz bunun nasıl başarıldığına bakalım. 
+Geçtiğimiz [yazımızda](/genel/2018/05/17/degisen-girisimcilik-ve-yatirimcilik.html), bildiğimiz alanda klasik girişimcilik ve yatırımcılığın, yeni teknolojiler ile birlikte nasıl bir değişimden geçtiğini anlatmaya başlamıştık. Şimdi dilerseniz bunun nasıl başarıldığına bakalım. 
 
 Özetlersek, klasik anlamda girişimlerde, bir girişim başarılı olduğunda ortaya çıkan katma değerin tamamına (genelde şirket değeri ile kendini gösterir) girişimci, yatırımcı ve kısıtlı olarak (hisse opsiyonları ile) çalışanlar sahip oluyordu. Yeni teknolojierde ortaya çıkan yapılarda, merkeziyetçilikten uzaklaşma felsefesine paralel olarak, fikrin gelişmesine katkıda bulunan dış geliştiriciler, sistemin çalışmasına yardımcı olan bağımsız dış kaynaklar ve hatta verilen hizmetin kullanıcıları da artık bu katma değerden pay alır hale geliyorlar. Yani gücün yanında getirinin paylaşımı da artık daha demokratik oluyor. 
 
@@ -39,11 +39,5 @@ Evet ama bu sistemin düzgün çalışabilmesi için kaynağa ihtiyaç var. Doğ
 
 --
 &nbsp;
-
-Geçmişte nelerden bahsettik bakmak isterseniz: 
-- Blockchain teknolojisinin **nasıl çıktığını** merak ediyorsanız, "[Geceleri uykunuzu ne kaçırıyor](http://ademimerkezi.com/genel/2018/03/01/Geceleri-uykunuzu-ne-kaciriyor.html)" ve "[Sahi nedir bu Blockchain Allah aşkına?](http://ademimerkezi.com/genel/2018/03/02/Sahi-nedir-bu-blockchain-allah-askina.html) yazılarımıza, 
-- Bu teknolojinin şu anda en olgun şekilde kullanılan uygulamalarından **Bitcoin**'e ilginiz varsa "[Bitcoin ne tam olarak?](http://ademimerkezi.com/genel/2018/03/13/Bitcoin-ne-tam-olarak.html), "[Bitcoin para mı gerçekten?](http://ademimerkezi.com/genel/2018/03/22/Bitcoin-para-mi-gercekten.html)" ve "[Bütün bunlar bir balon mu?](http://ademimerkezi.com/genel/2018/03/05/Butun-bunlar-bir-balon-mu.html)" yazılarımıza, 
-- Blockchain'in **değişik alanlarda getirdiği potansiyel yenilikler** için, insanı yardım'da [İyilik için Blockchain](http://ademimerkezi.com/genel/2018/03/29/Iyilik-icin-blockchain.html), sanatta [Sanat için Blockchain](http://ademimerkezi.com/genel/2018/03/29/Iyilik-icin-blockchain.html) ve sağlıkta [Sağlık için Blockchain](http://ademimerkezi.com/genel/2018/04/17/saglik-icin-blockchain.html) yazılarımıza
-- Yeni teknolojileri ayakta tutan en önemli yeniliklerden **Şifreleme**nin ne demek olduğu için [Şifreleme ne demek? Neden önemli?](http://ademimerkezi.com/genel/2018/04/25/sifreleme-ne-demek-neden-onemli.html),  şifrelemenin temel taşları olan Öğütme (hashing), Özel Anahtar, Genel Anahtar, Şifreleme (Encryption)‘ye daha detaylı bakmak için [Şifreleme mi? Çok karışık değil mi?](http://ademimerkezi.com/genel/2018/04/26/sifreleme-mi-cok-karisik-degil-mi.html) ve Blockchain mekanizmasında nasıl kullanıldığını anlamak için [Peki Blockhain şifrelemesi nasıl çalışıyor?](http://ademimerkezi.com/genel/2018/05/08/Peki-Blockchain-sifrelemesi-nasil-calisiyor.html) yazılarımıza.
-göz atabilirsiniz
+*Not: Yazdığımız tüm yazıların bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](/about/) sayfasına göz atabilirsiniz.*
 
