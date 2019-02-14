@@ -7,7 +7,7 @@ categories: Genel
 
 
 
-Geçtiğimiz [yazıda](https://ademimerkezi.com/genel/2018/11/01/Bitcoin-uzlasmasi-proof-of-work.html) Bitcoin'in kendisinden önce geliştirilmiş pekçok gelişmeyi içine alan ancak bu parçaları birleştirirken devrim niteliğinde bir yenilik getirdiğinden söz etmiştik. Proof-of-Work (PoW) olarak adlandırılan bu yeniliğin kritik yönlerinden bahsetmiştik. Ancak her yenilikte olduğu gibi burada da teknoloji dünyası artıları dışında eksileri de olan bu yeniliği nasıl olur da daha da geliştiririz düşünürken ortaya pek çok yeni alternatif çıktı. Gelin dilerseniz bu alternatiflere kısaca göz atalım. 
+Geçtiğimiz [yazıda](/genel/2018/11/01/Bitcoin-uzlasmasi-proof-of-work.html) Bitcoin'in kendisinden önce geliştirilmiş pekçok gelişmeyi içine alan ancak bu parçaları birleştirirken devrim niteliğinde bir yenilik getirdiğinden söz etmiştik. Proof-of-Work (PoW) olarak adlandırılan bu yeniliğin kritik yönlerinden bahsetmiştik. Ancak her yenilikte olduğu gibi burada da teknoloji dünyası artıları dışında eksileri de olan bu yeniliği nasıl olur da daha da geliştiririz düşünürken ortaya pek çok yeni alternatif çıktı. Gelin dilerseniz bu alternatiflere kısaca göz atalım. 
 
 ![start-1590051_640.jpg](/assets/start-1590051_640.jpg)
 
@@ -43,7 +43,9 @@ Bunları bilmek gerçekten önemli mi? Eğer geliştirici değilseniz çok da ö
 
 Yeni teknolojiler ile ilgili hep söylediğimizi tekrar edelim. Bu tip teknolojilerin olgunlaşması zaman alıyor ama güzel tarafı, herhangi bir sistemde bir eksiklik görüldüğünde (ya da hissedildiğinde) hemen birilerin onun üzerinde çalışmaya başlıyorlar. Hatta eksiklik bir demeyelim "daha verimli, daha kolay" bir çözüm arayışı sürekli var. Bu da aslında bu sistemlerin gücü. Zira sürekli bir ilerleme ve gelişme var. Kırk yıldır kullanılan eski sistemlere göre ne kadar büyük bir rahatlık düşünsenize.. 
 
+---
 &nbsp;
 
-*Not: Yazdığımız 30+ yazının bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](http://ademimerkezi.com/about/) sayfasına göz atabilirsiniz.* 
+*Not: Yazdığımız tüm yazıların bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](/about/) sayfasına göz atabilirsiniz.*
+
 
