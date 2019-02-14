@@ -24,7 +24,7 @@ KriptoParalar'ın çeşit çeşit olduğunu biliyoruz ama öncelikle hem içleri
 
 ### Asıl önemlisi Bitcoin ne olacak?
 
-Yukarıda bahsettiğimiz birinci soru, yani "hakikaten insanların işine yarıyor mu?" sorusuna Bitcoin için "evet" yanıtını vermek çok da zor değil. Bitcoin'in avantajlarını gelişmiş ve demokratik bir ülkede anlamak çok kolay olmayabilir. Zira para giriş çıkışlarının fazla kontrol altında olmadığı ülkelerde Bitcoin'in faydası göreceli olarak az. Bitcoin'in asıl faydası baskıcı rejimlerde ortaya çıkıyor. Zira Bitcoin özünde insanlara 'ekonomik özgürlük' sağlayan bir araç (neden nasıl özgürlük sağladığını şu [yazımızda](https://ademimerkezi.com/genel/2018/03/02/Sahi-nedir-bu-blockchain-allah-askina.html) açıklamıştık). 
+Yukarıda bahsettiğimiz birinci soru, yani "hakikaten insanların işine yarıyor mu?" sorusuna Bitcoin için "evet" yanıtını vermek çok da zor değil. Bitcoin'in avantajlarını gelişmiş ve demokratik bir ülkede anlamak çok kolay olmayabilir. Zira para giriş çıkışlarının fazla kontrol altında olmadığı ülkelerde Bitcoin'in faydası göreceli olarak az. Bitcoin'in asıl faydası baskıcı rejimlerde ortaya çıkıyor. Zira Bitcoin özünde insanlara 'ekonomik özgürlük' sağlayan bir araç (neden nasıl özgürlük sağladığını şu [yazımızda](/genel/2018/03/02/Sahi-nedir-bu-blockchain-allah-askina.html) açıklamıştık). 
 
 Ancak burada ikinci soru daha önemli. "Bitcoin geniş kesimler tarafından kullanılıyor mu?". Eğer Bitcoin faydalarına rağmen geniş kesimler tarafından kullanılmıyor ise dar kalıplar içine sıkışmış dar (niche) bir ürün olarak kalma tehlikesi var. 
 
@@ -44,7 +44,9 @@ Ama böyle bir adaptasyon gerçekleşmez ise, Bitcoin ancak küçük bir kesimin
 
 İşin talep kısmında politik öngörüler sizin değerlendirmenize kalmış. Ancak işin arz tarafında teknolojik olarak Bitcoin'in geniş adaptasyonunun önündeki engeller neler, bunları aşmak için neye ihtiyaç var? Yapılan yeni çalışmalar  var mı, varsa hangi alanda? Onlara da bir sonraki yazımızda bakacağız.. 
 
+---
 
 &nbsp;
 
-*Not: Yazdığımız 30+ yazının bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](http://ademimerkezi.com/about/) sayfasına göz atabilirsiniz.* 
+*Not: Yazdığımız tüm yazıların bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](/about/) sayfasına göz atabilirsiniz.*
+
