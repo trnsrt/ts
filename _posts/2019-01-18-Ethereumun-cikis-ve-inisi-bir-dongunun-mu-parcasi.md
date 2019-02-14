@@ -70,7 +70,6 @@ Peki bu böyle mi devam eder. Bu işlerin aslında bir daire çizdiğini söylem
 
 
 ---
-
 &nbsp;
 
-*Not: Yazdığımız 40+ yazının bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](http://ademimerkezi.com/about/) sayfasına göz atabilirsiniz.*
+*Not: Yazdığımız tüm yazıların bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](/about/) sayfasına göz atabilirsiniz.*
