@@ -27,7 +27,7 @@ Sadece Bitcoin değil tabii. Diğer KriptoParalar da böyle - hatta onların dur
 
 &nbsp;
 
-Hatırlarsanız bundan önceki bir yazımızda "[Bitcoin para mıdır, değil midir?](http://ademimerkezi.com/genel/2018/03/22/Bitcoin-para-mi-gercekten.html)" diye uzun uzun tartışmış, Bitcoin'i Altın ve devletler tarafından basılan ve şu an tedavülde olan kağıt para (fiat para da deniyor) ile karşılaştırmıştık. 
+Hatırlarsanız bundan önceki bir yazımızda "[Bitcoin para mıdır, değil midir?](/genel/2018/03/22/Bitcoin-para-mi-gercekten.html)" diye uzun uzun tartışmış, Bitcoin'i Altın ve devletler tarafından basılan ve şu an tedavülde olan kağıt para (fiat para da deniyor) ile karşılaştırmıştık. 
 
 ### Fazla dalga bulantı yapar
 
@@ -87,4 +87,5 @@ SabitPara nedir, en bilineni Tether nasıl işler derken bu yazımızın sınır
 
 &nbsp;
 
-*Not: Yazdığımız 20+ yazının bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](http://ademimerkezi.com/about/) sayfasına göz atabilirsiniz.* 
+*Not: Yazdığımız tüm yazıların bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](/about/) sayfasına göz atabilirsiniz.*
+
