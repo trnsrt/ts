@@ -5,7 +5,7 @@ date:   2019-01-25 9:42:29 +0300
 categories: Genel
 ---
 
-Geçtiğimiz iki yazıda [önce](https://ademimerkezi.com/genel/2019/01/23/miblewimble-aranan-mahremiyet-buyusu-mu.html) MimbleWimble denen Harry Potter dünyası karakterlerinin hakim olduğu ve gizlilik konusunda yeni bir çığır açan bir teknolojiden bahsetmiş, [sonra](https://ademimerkezi.com/genel/2019/01/24/gelecegin-odeme-araci-grin-mi-olacak.html) da özellikle cypherpunk dünyasında heyecan yaratan MimbleWimble üzerine kurulu Grin parasına değinmiştik.  Bu iki yazıyı teknik altyapısı olmayanlara tavsiye edebiliriz. Eğer işin teknik olarak daha detayına girmek isterseniz, aşağıdaki yazı ilginizi çekebilir. 
+Geçtiğimiz iki yazıda [önce](/genel/2019/01/23/miblewimble-aranan-mahremiyet-buyusu-mu.html) MimbleWimble denen Harry Potter dünyası karakterlerinin hakim olduğu ve gizlilik konusunda yeni bir çığır açan bir teknolojiden bahsetmiş, [sonra](/genel/2019/01/24/gelecegin-odeme-araci-grin-mi-olacak.html) da özellikle cypherpunk dünyasında heyecan yaratan MimbleWimble üzerine kurulu Grin parasına değinmiştik.  Bu iki yazıyı teknik altyapısı olmayanlara tavsiye edebiliriz. Eğer işin teknik olarak daha detayına girmek isterseniz, aşağıdaki yazı ilginizi çekebilir. 
 
 ### Gizlilik
 
@@ -17,7 +17,7 @@ MimbleWimble'da ne kullanıcılar ne de işlem miktarları görünecek. Nasıl o
 
 Öncelikle sistemde paranın gidip geleceği hesaplar olmayacak. Bunun yerine cüzdanlar kullanılacak. 
 
-Normalde Bitcoin sisteminde hesaptan para 'input' olarak sisteme girer, input karşılığı da aynı miktarda output çıkardı (bu output'a UTXO denirdi). Sistemdeki makinalar çıkan bu UTXO'ları toplar ve değişmediğini gördüklerinde "tamam" derlerdi "sistemde çifte harcama yapılmamış" (şu [yazımızda](https://ademimerkezi.com/genel/2018/11/30/bitcoin-islemi-nasil-gerceklesiyor.html) değinmiştik bu konuya)
+Normalde Bitcoin sisteminde hesaptan para 'input' olarak sisteme girer, input karşılığı da aynı miktarda output çıkardı (bu output'a UTXO denirdi). Sistemdeki makinalar çıkan bu UTXO'ları toplar ve değişmediğini gördüklerinde "tamam" derlerdi "sistemde çifte harcama yapılmamış" (şu [yazımızda](/genel/2018/11/30/bitcoin-islemi-nasil-gerceklesiyor.html) değinmiştik bu konuya)
 
 Grin sisteminde ise input yok, çünkü input yaratacak adresler kullanılmıyor. Bunun yerine sistemde sadece output'lar yani UTXO'lar var. Bunlar da cüzdanlar aracılığı ile kullanılıyor. Sistem iki kullanıcının bir şekilde (on-line ya da off-line) kendi arasında ne tip bir işlem yapacağı konusunda iletişime geçip anlaşma yapması esasına dayanıyor. 
 
@@ -56,7 +56,7 @@ Grin bu tip scripting mekanizması içermiyor. İşe yaradığı tek alan para t
 
 Aslında MimbleWimble teknik altyapı olarak Bitcoin'e oldukça benziyor. 
 
-Örneğin, aynı Bitcoin gibi uzlaşma mekanizması olarak makinelerin enerji kullanması prensibinden hareket eden Proof-of-Work mekanizmasını kullanıyor (PoW'yi anlatan detaylı yazımız [burada](https://ademimerkezi.com/genel/2018/11/01/Bitcoin-uzlasmasi-proof-of-work.html)). 
+Örneğin, aynı Bitcoin gibi uzlaşma mekanizması olarak makinelerin enerji kullanması prensibinden hareket eden Proof-of-Work mekanizmasını kullanıyor (PoW'yi anlatan detaylı yazımız [burada](/genel/2018/11/01/Bitcoin-uzlasmasi-proof-of-work.html)). 
 
 Grin'in kullandığı PoW versiyonunun adı [Cuckoo Cycle](https://medium.com/codechain/cuckoo-cycle-c337e30c6c99). Bu versiyonun özelliği Bitcoin sistemini domine etmeye başlayan ASIC tipi madencilik yapan ihtisas makinelerinin etkisini azaltmak. Grin başlangıçta ASIC resistant denen sistemi kullanarak olabildiğince küçük bireysel madencinin sistemin içinde olmasını istiyor. Ancak uzun vadede bunun beyhude bir çaba olduğunu düşünüyorlar ve kademeli olarak ASIC tipi makinelerin de sisteme girmesine izin verecekler. 
 
@@ -99,12 +99,12 @@ Grin'in izleyeceği enflasyon yaratan para politikası aslında gelecekte fiyat�
 
 ### Sonuç
 
-Tekrar hatırlatalım. Serimizin MimbleWimble'ı anlatan ilk yazısına [buradan](https://ademimerkezi.com/genel/2019/01/23/miblewimble-aranan-mahremiyet-buyusu-mu.html), Grin üzerine yoğunlaşan ikinci yazısına [buradan](https://ademimerkezi.com/genel/2019/01/24/gelecegin-odeme-araci-grin-mi-olacak.html) ulaşabilirsiniz. 
+Tekrar hatırlatalım. Serimizin MimbleWimble'ı anlatan ilk yazısına [buradan](/genel/2019/01/23/miblewimble-aranan-mahremiyet-buyusu-mu.html), Grin üzerine yoğunlaşan ikinci yazısına [buradan](/genel/2019/01/24/gelecegin-odeme-araci-grin-mi-olacak.html) ulaşabilirsiniz. 
 
 Teknik olarak Grin, yıllardır Bitcoin geliştiricilerinin yaşadıkları sıkıntılara çözüm bulma amacı taşıyan, gizlilik özellikleri ile diğer KriptoParalar'a benzeyen, basitliği ile geleceğin ödeme aracı olmayı planlayan yeni bir para. Teknik olarak kuvvetli bir kökten geliyor. Bakalım uzun vadede bu kök kuvvetli bir ağaç yeşermesine olanak verecek mi?
 
 ---
-
 &nbsp;
 
-*Not: Yazdığımız 45+ yazının bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](http://ademimerkezi.com/about/) sayfasına göz atabilirsiniz.*
+*Not: Yazdığımız tüm yazıların bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](/about/) sayfasına göz atabilirsiniz.*
+
