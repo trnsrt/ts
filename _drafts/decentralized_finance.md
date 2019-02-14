@@ -99,15 +99,18 @@ Buna dikkat etmek gerekiyor işte. Zira ETH'nin değeri düşerse ekstra ETH yü
 
 Şu anda sistemde kilitli tutulan teminat rakamının kullanılan krediye oranının yaklaşık %200 olduğunu görüyoruz. Yani insanlar gerekli minimum limit olan %150'nin üzerine bir %50'lik bir ekstra teminat koymuşlar kullandıkları krediler için.
 
-### Kim borç veriyor bu sisteme?
-Aslında kimse borç vermiyor. Siz elinizdeki ETH'yi teminat gibi kullanıp Dai yaratıyorsunuz. Buradaki soru şu olabilir? Dai'yi satıp ABD Doları aldınız. Kime satıyorsunuz Dai'yi?. Genel olarak SabitPara kullanmak isteyen insanlara. Neden SabitPara kullanmak ister insanlar konusunu daha detaylı önceki yazılarımızda incelemiştik. 
+#### Kim borç veriyor bu sisteme?
+Aslında kimse kimseye borç vermiyor. Siz elinizdeki ETH'yi teminat gibi kullanıp Dai yaratıyorsunuz. Buradaki soru şu olabilir? Dai'yi satıp ABD Doları aldınız. Kime satıyorsunuz Dai'yi? Genel olarak SabitPara kullanmak isteyen insanlara (ya da daha önce kredi almış ve şu anda borcunu kapatmak için Dai almak isteyenlere). Neden SabitPara kullanmak ister insanlar konusunu daha detaylı önceki yazılarımızda incelemiştik. 
 
-### Dai parası nasıl sabit kalıyor peki?
+#### Dai parası nasıl sabit kalıyor peki?
 Dai, bir ABD dolarına sabitlenmiş. Ama alım satım yapıldığı borsada baktığınızda fiyatı aşağı ya da yukarı gidebiliyor. MakerDAO yaratıcıları fiyatın iniş ve çıkış olduğu durumda tekrar 1 ABD dolarına gelmesi için otomatik bir sistem kurmuşlar. Negative geri bildirim denen sistem şu şekilde çalışıyor: 
 
 Diyelim, Dai fiyatında bir düşüş oldu (insanlar ellerindeki Dai'yi ABD Doları'na dönmek istiyorlar ancak alan kimse yok). Böyle bir durumda geçmişte Dai yaratıp borç almış olanlar, aldıkları borcu yine Dai ile ödeyecekleri için kredilerini ucuza kapatma fırsatı bulabilecekler ve Dai satın alacaklar. 
 
 Aynı şekilde Dai fiyatında bir artış olduğunda (1 ABD dolarından daha yüksek bir fiyata geldiğinde) insanlar ellerindeki ETH'leri sisteme gönderip 1 ABD doları karşılığı olacak şekilde Dai yaratıp bu Dai'yi piyasada 1 ABD Doları'nın üzerinde bozdurma şansı yakalayacaklar.  Bu da piyasada 1 Dai'nin 1 ABD Doları'na yaklaşmasını sağlayacak. 
+
+![DAI_ETH_karsilastirma.png](/assets/DAI_ETH_karsilastirma.png)
+
 
 Bunun yanında Dai fiyatında ekstrem bir düşüş olduğu durumlar için de acil durum senaryoları hazırlanmış ama şu aşamada çok teknik kaldığı için ilginenleri [White Paper]((https://makerdao.com/en/whitepaper/))'ı okumaya davet ederek konuyu kapatıyoruz. 
 
