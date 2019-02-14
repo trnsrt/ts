@@ -66,7 +66,11 @@ DeFi protokolü üye girişimlerin bazıları [Dharma Labs](https://dharma.io/),
 
 ### Arkası yarın
 
-Özet olarak DeFi yani Decentralized Finance'nin özü Akıllı Kontratlar ile işlemlerin aracısız olarak gerçekleşmesi. Yani herhangi bir güç tarafından kontrol edilmeyen makinelerin verilen işlemleri baştan belirlenen koşullar gerçekleştiğinde otomatik olarak gerçekleştirmesi. Bu alanda ilk akla gelebilecek uygulamanın para transferi olduğunu belirtmiş ve Bitcoin başta olmak üzere pek çok KriptoPara ile bu alanda belli yol katedildiğini belirtmiş.  İkinci alan olarak da kredi verme ve almadan bahsedebiliriz. Bir [sonraki yazımızda](/genel/2019/02/15/MakerDAO-kredi-kullaniminda-cigir-acar-mi.html) Decentralized Finance hareketinin en yaygını olan ve kredi konusunda çalışan MakerDAO'ya bakalım.. 
+Özet olarak DeFi yani Decentralized Finance'nin özü Akıllı Kontratlar ile işlemlerin aracısız olarak gerçekleşmesi. Yani herhangi bir güç tarafından kontrol edilmeyen makinelerin verilen işlemleri baştan belirlenen koşullar gerçekleştiğinde otomatik olarak gerçekleştirmesi. 
+
+Bu alanda ilk akla gelebilecek uygulamanın para transferi olduğunu belirtmiş ve Bitcoin başta olmak üzere pek çok KriptoPara ile bu alanda belli yol katedildiğinden bahsetmiştik.  İkinci alan olarak da kredi verme ve almadan bahsedebiliriz. 
+
+Bir [sonraki yazımızda](/genel/2019/02/15/MakerDAO-kredi-kullaniminda-cigir-acar-mi.html) DeFi hareketinin en yaygını olan ve kredi konusunda çalışan MakerDAO'ya bakalım.. 
 
 ---
 
