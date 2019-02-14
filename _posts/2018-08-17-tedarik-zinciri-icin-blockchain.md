@@ -8,7 +8,7 @@ categories: Genel
 
 
 
-Değişik sektörlerde Blockchain'in açabileceği vizyona daha önceki yazılarımızda ([sağlık](http://ademimerkezi.com/genel/2018/04/17/saglik-icin-blockchain.html), [sanat](http://ademimerkezi.com/genel/2018/04/06/sanat-icin-blockchain.html), [hayır işleri](http://ademimerkezi.com/genel/2018/03/29/Iyilik-icin-blockchain.html), [seyahat](http://ademimerkezi.com/genel/2018/07/06/seyahat-icin-blockchain.html) ve [tahmin piyasaları](http://ademimerkezi.com/genel/2018/07/13/gelecegi-tahmin-icin-blockchain.html)) bakmıştık. Şimdi de albenisi daha düşük ama tüm sektörlere dokunan tedarik zincirlerinde Blockchain bazlı teknolojiler neler getirebilir kısaca ona bir bakalım...
+Değişik sektörlerde Blockchain'in açabileceği vizyona daha önceki yazılarımızda ([sağlık](/genel/2018/04/17/saglik-icin-blockchain.html), [sanat](/genel/2018/04/06/sanat-icin-blockchain.html), [hayır işleri](/genel/2018/03/29/Iyilik-icin-blockchain.html), [seyahat](/genel/2018/07/06/seyahat-icin-blockchain.html) ve [tahmin piyasaları](/genel/2018/07/13/gelecegi-tahmin-icin-blockchain.html)) bakmıştık. Şimdi de albenisi daha düşük ama tüm sektörlere dokunan tedarik zincirlerinde Blockchain bazlı teknolojiler neler getirebilir kısaca ona bir bakalım...
 
 ### Tedarik zinciri ne demek, Blockchain ne işe yarar burada?
 
@@ -69,3 +69,10 @@ Peki madem bu kadar ciddi getiriler var, neden hemen adapte etmiyor bunu oyuncul
 ### Sonuç 
 
 Diğer pek çok alanda olduğu gibi burada da yeni teknolojilerin kullanılması konusunda henüz emekleme aşamasındayız.  Geniş kesimler tarafından bu teknolojilerin adaptasyonu zaman alacak. Şu anda altyapılar kuruluyor, mevcut oyuncular harıl harıl üzerine kurulacak sistemler oluşturmaya çalışıyorlar. Sektörlerdeki kuşkucu (skeptik) oyuncuları ikna etmeye çalışıyorlar. Zaman alacak. Belki bir on yıl istenen vizyon gerçekleşmeyecek. O zamana kadar aldığımız ürünlerde satıcı kurum ya da kişiye güvenmeye devam... 
+
+---
+
+&nbsp;
+
+*Not: Yazdığımız tüm yazıların bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](/about/) sayfasına göz atabilirsiniz.*
+
