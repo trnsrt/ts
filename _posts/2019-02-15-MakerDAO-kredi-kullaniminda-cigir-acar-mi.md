@@ -83,7 +83,9 @@ Bunun yanında sistemin daha geniş kitlelere yayılması için aslında farklı
 
 MakerDAO kısa sürede kat ettiği aşama ile büyük bir potansiyel gösteriyor. Büyümesi sürerken yol üzerinde ufak tefek kazalar geçirmesi de olası - ancak ilk yıllarını kazasız bir şekilde atlattılar. Merkezi bir aracıya ihtiyaç duymadan finans dünyasının farklı bir alanında gösterdikleri başarı onları uzun vadede dikkatle izlenmesi gereken girişimlerden biri yapıyor. 
 
+---
 
+&nbsp;
 
 Not: Teknik olarak çok detaya girmedik ancak DAI dışında MakerDAO'nun bir parası daha var o da MKR. DAI'yi sistemin parası, MKR'yi ise sistemin sermayesi (equity) olarak düşünebiliriz. Para alışverişleri DAI ile yapılırken ve DAI ABD Dolarına sabitlenmiş bir para iken, bu para üzerindeki faiz MKR üzerinden ödeniyor. MKR sahibi olanlar aynı zamanda sistemin yönetiminde söz sahibi oluyorlar - örneğin teminat oranlarının belirlenmesi ya da sistemdeki ani düşüşlerde çalıştırılacak mekanizmaların prensiplerinin belirlenmesi gibi. Bu arada olası bir kriz durumunda MKR bir nevi acil durumda kırılacak cam gibi de çalışıyor. Eğer teminat rakamları kredi rakamlarını karşılamaz ise o zaman açık MKR bozularak karşılanıyor - bu da MKR için olumsuz bir durum. Dolayısıyla MKR sahipleri ellerindeki değer azalmasın diye teminat oranı vb rakamlarda olabildiğince konservatif davranmak zorundalar. Bir nevi sistem bu alanda da bir otokontrol getiriyor. 
 
