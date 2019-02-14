@@ -6,7 +6,7 @@ categories: Genel
 ---
 
 
-Bir önceki [yazımızda](http://ademimerkezi.com/genel/2018/06/01/token-dunyasinin-ilk-oyuncusu-tanidik-bir-isim-bitcoin.html) Blockchain bazlı Şifreli Harikalar Dünyası (CrytoNetwork'ler) içinde en büyük yer tutan KriptoPara kısmına bakmış ve bu alanın en büyüğü olan Bitcoin üzerinden geçmiştik. 
+Bir önceki [yazımızda](/genel/2018/06/01/token-dunyasinin-ilk-oyuncusu-tanidik-bir-isim-bitcoin.html) Blockchain bazlı Şifreli Harikalar Dünyası (CrytoNetwork'ler) içinde en büyük yer tutan KriptoPara kısmına bakmış ve bu alanın en büyüğü olan Bitcoin üzerinden geçmiştik. 
 
 Şimdi de Bitcoin'in eksik kaldığı düşünülen alanlarda bu eksikleri kapatmak için kurulmuş olan alternatif paralara kısaca *Altcoin*'lere bakalım. Bitcoin temel olarak değer saklama işlevi görmeyi amaçladığı için onu geliştiren yazılımcılar yeniklikten ziyade güvenirliğe önem veriyorlar ve bu nedenle Bitcoin'in yeterince pratik olmadığı ve bu yönde çalışmalarda ağır kaldığı yönünde eleştiriler var. Bir de Bitcoin size tam olarak gizlilik sağlamıyor, bu yönünü eksik bulanlar da bir hayli fazla. İşte Altcoin'ler temel olarak bu eksiklikleri gidermek amacıyla ortaya çıkmış KriptoParalar. Genel olarak Blockhain bazlı sistemi kullanıyorlar, ancak detaylarda Bitcoin'den ayrılıyorlar. 
 
@@ -79,9 +79,4 @@ Bir sonraki yazımızda, Şifreli Harikalar Dünyası'nda para dışında başka
 
 &nbsp;
 
-Geçmişte nelerden bahsettik bakmak isterseniz: 
-- Blockchain teknolojisinin **nasıl çıktığını** merak ediyorsanız, "[Geceleri uykunuzu ne kaçırıyor](http://ademimerkezi.com/genel/2018/03/01/Geceleri-uykunuzu-ne-kaciriyor.html)" ve "[Sahi nedir bu Blockchain Allah aşkına?](http://ademimerkezi.com/genel/2018/03/02/Sahi-nedir-bu-blockchain-allah-askina.html) yazılarımıza, 
-- Bu teknolojinin şu anda en olgun şekilde kullanılan uygulamalarından **Bitcoin**'e ilginiz varsa "[Bitcoin ne tam olarak?](http://ademimerkezi.com/genel/2018/03/13/Bitcoin-ne-tam-olarak.html), "[Bitcoin para mı gerçekten?](http://ademimerkezi.com/genel/2018/03/22/Bitcoin-para-mi-gercekten.html)" ve "[Bütün bunlar bir balon mu?](http://ademimerkezi.com/genel/2018/03/05/Butun-bunlar-bir-balon-mu.html)" yazılarımıza, 
-- Blockchain'in **değişik alanlarda getirdiği potansiyel yenilikler** için, insanı yardım'da [İyilik için Blockchain](http://ademimerkezi.com/genel/2018/03/29/Iyilik-icin-blockchain.html), sanatta [Sanat için Blockchain](http://ademimerkezi.com/genel/2018/03/29/Iyilik-icin-blockchain.html) ve sağlıkta [Sağlık için Blockchain](http://ademimerkezi.com/genel/2018/04/17/saglik-icin-blockchain.html) yazılarımıza
-- Yeni teknolojileri ayakta tutan en önemli yeniliklerden **Şifreleme**nin ne demek olduğu için [Şifreleme ne demek? Neden önemli?](http://ademimerkezi.com/genel/2018/04/25/sifreleme-ne-demek-neden-onemli.html),  şifrelemenin temel taşları olan Öğütme (hashing), Özel Anahtar, Genel Anahtar, Şifreleme (Encryption)‘ye daha detaylı bakmak için [Şifreleme mi? Çok karışık değil mi?](http://ademimerkezi.com/genel/2018/04/26/sifreleme-mi-cok-karisik-degil-mi.html) ve Blockchain mekanizmasında nasıl kullanıldığını anlamak için [Peki Blockhain şifrelemesi nasıl çalışıyor?](http://ademimerkezi.com/genel/2018/05/08/Peki-Blockchain-sifrelemesi-nasil-calisiyor.html) yazılarımıza.
-göz atabilirsiniz
+*Not: Yazdığımız tüm yazıların bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](/about/) sayfasına göz atabilirsiniz.*
