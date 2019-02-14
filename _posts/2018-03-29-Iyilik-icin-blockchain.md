@@ -7,8 +7,8 @@ categories: Genel
 
 Bundan önceki yazılarımızda, dijital dünyada gelişen teknolojilere kısaca bir göz atmıştık: 
 
-- Dijital dünyadaki gelişimlerin tarihçesine "[Geceleri Uykunuzu Ne Kaçırıyor?](http://ademimerkezi.com/genel/2018/03/01/Geceleri-uykunuzu-ne-kaciriyor.html)", bu gelişmelerin altyapısını oluşturan Blockchain teknolojisine "[Sahi nedir bu Blockchain Allah aşkına](http://ademimerkezi.com/genel/2018/03/02/Sahi-nedir-bu-blockchain-allah-askina.html)" 
-- Blockchain teknolojisinin ilk kullanıldığı dijital varlık olan Bitcoin'in ne olduğuna "[Bitcoin ne tam olarak?](http://ademimerkezi.com/genel/2018/03/13/Bitcoin-ne-tam-olarak.html)", değeri ile ilgili spekülasyonlara "[Bitcoin bir Balon mu yoksa?](http://ademimerkezi.com/genel/2018/03/05/Butun-bunlar-bir-balon-mu.html)" , nasıl olur da para gibi kabul gördüğüne "[Bitcoin para mı gerçekten?](http://ademimerkezi.com/genel/2018/03/22/Bitcoin-para-mi-gercekten.html)" yazılarında baktık
+- Dijital dünyadaki gelişimlerin tarihçesine "[Geceleri Uykunuzu Ne Kaçırıyor?](/genel/2018/03/01/Geceleri-uykunuzu-ne-kaciriyor.html)", bu gelişmelerin altyapısını oluşturan Blockchain teknolojisine "[Sahi nedir bu Blockchain Allah aşkına](/genel/2018/03/02/Sahi-nedir-bu-blockchain-allah-askina.html)" 
+- Blockchain teknolojisinin ilk kullanıldığı dijital varlık olan Bitcoin'in ne olduğuna "[Bitcoin ne tam olarak?](/genel/2018/03/13/Bitcoin-ne-tam-olarak.html)", değeri ile ilgili spekülasyonlara "[Bitcoin bir Balon mu yoksa?](/genel/2018/03/05/Butun-bunlar-bir-balon-mu.html)" , nasıl olur da para gibi kabul gördüğüne "[Bitcoin para mı gerçekten?](/genel/2018/03/22/Bitcoin-para-mi-gercekten.html)" yazılarında baktık
 
 Şimdiye kadar yazdıklarımızı tek bir cümle ile özetlemek gerekirse, **eski dünyada aracılar tarafından yürütülen her işlem ve bu işlemlerin olmazsa olmazı "güven" ihtiyacı, şifreleme teknolojisi sayesinde aracılardan makinelere geçiyor**. 
 
