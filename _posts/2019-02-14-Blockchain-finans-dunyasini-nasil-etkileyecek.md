@@ -28,7 +28,7 @@ Dikkat ederseniz, para transferi kişiler arası gerçekleşen finansal işlemle
 
 Elbette ileride tüm para transferleri bankalardan alınıp makinelere geçecek demek doğru olmaz. Zira eğer bankadan çok cüzi miktarda para transferini EFT sistemi ile daha hızlı yapabiliyorsanız neden KriptoPara gibi alternatifler ile uğraşasınız ki? Ama dediğimiz gibi SWIFT gibi yüksek maliyetli bir alana girerseniz işte orada KriptoPara şimdiden ciddi bir alternatif.
 
-Benzer mantıkla Blockchain bazlı yapılar öncelikle basit ve yüksek maliyetli alanlara odaklanacaklar. Teknoloji geliştikçe daha karmaşık alanlara girmeye başlayacaklar. Aslında belki şöyle demek daha doğru: Blockchain bazlı girişimler finansın her alanında mevcut sistemlere karşı yenilikler çıkaracaklar. Ancak bunlardan basit, yüksek maliyetli ve de geniş kitlelerin kullandığı alanlarlarda çalışan girişimlerin başarı şansı daha yüksek olacak. 
+Benzer mantıkla Blockchain bazlı yapılar öncelikle basit ve yüksek maliyetli alanlara odaklanacaklar. Teknoloji geliştikçe daha karmaşık alanlara girmeye başlayacaklar. Aslında belki şöyle demek daha doğru: Blockchain bazlı girişimler finansın her alanında mevcut sistemlere karşı yenilikler çıkaracaklar. Ancak bunlardan basit, yüksek maliyetli ve de geniş kitlelerin kullandığı alanlarda çalışan girişimlerin başarı şansı daha yüksek olacak. 
 
 Bir örnek daha verelim: Alışverişlerde kredi kartı yerine KriptoPara kullanılması. 
 
