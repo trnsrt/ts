@@ -92,6 +92,11 @@ Peki bunların hangisinin XRP'nin değerine direkt olarak etkisi var? Üçüncü
 
 Ripple için RippleNet daha önemli. XRP ile RippleNet arasında kaldığında (şimdi olduğu gibi) hangi tarafı seçeceği artık belirgin. XRP'nin ileride daha da kuvvetlenmesini istemeyecek Merkez Bankaları'ndan baskı yediği bir durumda Ripple ne yapacak? XRP için RippleNet'i mi feda edecek? Tabii ki hayır. Görüşüm, Ripple'ın RippleNet platformunun pazarlama ve PR konusundaki yeteneği ile başarılı olmak için potansiyeli olduğu, XRP için ise geleceğin o kadar da parlak olmadığı şeklinde...
 
+---
+
+&nbsp;
+
+*Not: Yazdığımız tüm yazıların bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](/about/) sayfasına göz atabilirsiniz.*
 
 
 
