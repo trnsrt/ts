@@ -23,9 +23,7 @@ Bu piyasanın tehdit altında olduğu ilk alan para transferleri oldu. Özellikl
 
 Dikkat ederseniz, para transferi kişiler arası gerçekleşen finansal işlemlerin en basiti. Bir kişi kendine ait bir parasal değeri bir diğer kişiye koşulsuz olarak transfer ediyor. Dolayısıyla makineler tarafından yapılması en kolay olanı - bu nedenle merkezi olmayan yapılar tarafından ilk olarak fethedilmeye çalışan alan burası oldu. 
 
-| ![counting-money.gif](/assets/counting-money.gif) | 
-|:--:| 
-| *Yıllık %0.5 maliyet mi? Al, al, al..  (Kaynak: [Giphy](https://media.giphy.com/media/3UOkbxfzxOL7O/giphy.gif))* |
+![counting-money.gif](/assets/counting-money.gif)
 
 
 Elbette ileride tüm para transferleri bankalardan alınıp makinelere geçecek demek doğru olmaz. Zira eğer bankadan çok cüzi miktarda para transferini EFT sistemi ile daha hızlı yapabiliyorsanız neden KriptoPara gibi alternatifler ile uğraşasınız ki? Ama dediğimiz gibi SWIFT gibi yüksek maliyetli bir alana girerseniz işte orada KriptoPara şimdiden ciddi bir alternatif.
