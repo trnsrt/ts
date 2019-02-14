@@ -70,3 +70,9 @@ Diyebilirsiniz ki, "E birisi makinelerin %51'ini ele geçirip UTXO kaydını da 
 ### Sonuç
 
 İşte böyle. Bir Bitcoin işleminin nasıl gerçekleştiğini görmek size bu karmaşık dünyada içinizi biraz daha rahatlatabilir. Bitcoin aslında sahibi olduğuna emin olabileceğiniz belki de tek varlık. Elinizde banknot varsa sahte çıkabilir. Keza altın varsa da öyle; gerçek olup olmadığını anlamak için testten geçirmeniz gerekir. Bitcoin için öyle değil. Gönderin birine parayı sistem reddetmiyor ise gerçektir. Bitcoin'e sahipseniz yapmanız gereken tek kritik konu Özel Anahtarınızı kaybetmemek. Ona sahip oldukça o para siz istediğiniz sürece sizin olacak - merak etmeyin. 
+
+---
+&nbsp;
+
+*Not: Yazdığımız tüm yazıların bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](/about/) sayfasına göz atabilirsiniz.*
+
