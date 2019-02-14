@@ -5,7 +5,7 @@ date:   2018-12-14 10:25:34 +0300
 categories: Genel
 ---
 
-Geçtiğimiz [yazımızda](https://ademimerkezi.com/genel/2018/12/07/ne-olacak-su-bitcoinin-hali.html), Bitcoin'in ileride değerli olup olmayacağının iki ana belirleyicisi olacağını belirtmiştik: Birincisi hakikaten insanların işine yarayacak mı, ikincisi de geniş kesimler tarafından kullanılacak mı? Bu iki soruya ne kadar olumlu cevap verebiliyorsak Bitcoin'in değerinin de ileride o kadar artacağını düşünebiliriz. 
+Geçtiğimiz [yazımızda](/genel/2018/12/07/ne-olacak-su-bitcoinin-hali.html), Bitcoin'in ileride değerli olup olmayacağının iki ana belirleyicisi olacağını belirtmiştik: Birincisi hakikaten insanların işine yarayacak mı, ikincisi de geniş kesimler tarafından kullanılacak mı? Bu iki soruya ne kadar olumlu cevap verebiliyorsak Bitcoin'in değerinin de ileride o kadar artacağını düşünebiliriz. 
 &nbsp;
 
 | ![some-food-for-thought-about-bitcoin-2.jpg](/assets/some-food-for-thought-about-bitcoin-2.jpg) | 
@@ -48,7 +48,10 @@ Aslında bir mikro ödemenin gerçekleşmesi için tüm Bitcoin sisteminin kulla
 
 İşte bu felsefeden yola çıkan geliştiriciler Bitcoin üzerinde mikro işlem yapabilmek için ikinci bir katman yarattılar. Buna da Lightning Network adını verdiler.  Bir sonraki yazımızda da bu Lightning Network nedir biraz daha yakından bakalım.
 
+---
+
 &nbsp;
 
-*Not: Yazdığımız 35+ yazının bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](http://ademimerkezi.com/about/) sayfasına göz atabilirsiniz.* 
+*Not: Yazdığımız tüm yazıların bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](/about/) sayfasına göz atabilirsiniz.*
+
 
