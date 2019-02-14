@@ -10,40 +10,44 @@ Bu makineler hep dağınık ve birbirinden bağımsız. Neden? Çünkü dağın�
 
 Tek bir güç tarafından kontrol edilemeyen makineler kendilerine verilen emirleri gerekli koşullar oluştuğu anda kimseye sormadan otomatik olarak gerçekleştiriyorlar. Hile yok, hurda yok, gecikme yok. Koşul oluştu, işlem de gerçekleşiyor. Bunu da sağlayan bu makineler için yazılmış özel direktifler, bir başka deyişiyle Akıllı Kontratlar. 
 
-Finans piyasasındaki aktörlerin yapılan işlemlerdeki ana rolü ise aracıyı oynamaları ve güveni teşkil etmeleri idi. Dolayısıyla Blockchain bazlı işlemler finans piyasasındaki gibi aktörler için varoluşsal bir tehdit oluşturuyor - bugün olmasa bile yakın bir gelecekte. 
+Finans piyasasındaki aktörlerin ana rolü işte bu aracıyı oynamaları ve güveni teşkil etmeleri idi. Dolayısıyla Blockchain bazlı sistemler bu aktörler için varoluşsal bir tehdit oluşturuyor - bugün olmasa bile yakın bir gelecekte. 
 
 ### Peki her tür finansal işlem etkilenecek mi? İlk tehdit altında olanlar hangileri?
 
-Bu piyasanın tehdit altında olduğu ilk alan para transferleri oldu. Özellikle yüksek maliyetli olan transferleri - örneğin ülkelerarası SWIFT transferleri. Hem yüksek maliyetli, hem yavaş hem de kimi zaman kimi ülkelerde yaşayanlar için ulaşması imkansız bir sistem. 
+Bu piyasanın tehdit altında olduğu ilk alan para transferleri oldu. Özellikle de ülkelerarası SWIFT transferleri. Neden? Hem yüksek maliyetli, hem yavaş hem de kimi zaman kimi ülkelerde yaşayanlar için ulaşması imkansız bir sistem. 
 
-Dikkat ederseniz, para transferi kişiler arası yapılabilecek finansal işlemlerin en basiti. Bir kişi kendine ait bir parasal değeri bir diğer kişiye koşulsuz olarak transfer ediyor. Dolayısıyla makineler tarafından yapılması en kolay olanı - bu nedenle merkezi olmayan yapılar tarafından ilk olarak fethedilmeye çalışan yerler oldular. 
+Dikkat ederseniz, para transferi kişiler arası gerçekleşen finansal işlemlerin en basiti. Bir kişi kendine ait bir parasal değeri bir diğer kişiye koşulsuz olarak transfer ediyor. Dolayısıyla makineler tarafından yapılması en kolay olanı - bu nedenle merkezi olmayan yapılar tarafından ilk olarak fethedilmeye çalışan alan burası oldu. 
 
 | ![counting-money.gif](/assets/counting-money.gif) | 
 |:--:| 
 | *Yıllık %0.5 maliyet mi? Al, al, al..  (Kaynak: [Giphy](https://media.giphy.com/media/3UOkbxfzxOL7O/giphy.gif))* |
 
 
-Elbette ileride tüm para transferleri bankalardan alınıp makinelere geçecek demek doğru olmaz. Zira eğer bankadan çok cüzi miktarda para transferini EFT sistemi ile hızlı yapabiliyorsanız neden KriptoPara gibi alternatifler ile uğraşasınız ki? Ama dediğimiz gibi SWIFT gibi yüksek maliyetli bir alana girerseniz işte orada KriptoPara şimdiden bir alternatif olmaya başladı. 
+Elbette ileride tüm para transferleri bankalardan alınıp makinelere geçecek demek doğru olmaz. Zira eğer bankadan çok cüzi miktarda para transferini EFT sistemi ile daha hızlı yapabiliyorsanız neden KriptoPara gibi alternatifler ile uğraşasınız ki? Ama dediğimiz gibi SWIFT gibi yüksek maliyetli bir alana girerseniz işte orada KriptoPara şimdiden ciddi bir alternatif.
 
-Dolayısıyla, Blockchain bazlı yapılar öncelikle basit ve yüksek maliyetli alanlara odaklanacaklar. Teknoloji geliştikçe daha karmaşık alanlara girmeye başlayacaklar. Aslında belki daha doğrusu şu: Blockchain bazlı girişimler finansın her alanında mevcut sistemlere karşı yenilikler çıkaracaklar. Ancak bunlardan basit, yüksek maliyetli ve de geniş kitleler tarafından kullanılanlarının başarı şansı daha yüksek. 
+Benzer mantıkla Blockchain bazlı yapılar öncelikle basit ve yüksek maliyetli alanlara odaklanacaklar. Teknoloji geliştikçe daha karmaşık alanlara girmeye başlayacaklar. Aslında belki şöyle demek daha doğru: Blockchain bazlı girişimler finansın her alanında mevcut sistemlere karşı yenilikler çıkaracaklar. Ancak bunlardan basit, yüksek maliyetli ve de geniş kitlelerin kullandığı alanlarlarda çalışan girişimlerin başarı şansı daha yüksek olacak. 
 
-Bir örnek daha verelim. Alışverişlerde kredi kartı yerine KriptoPara kullanılması. Bu alanda kendine pay almaya çalışan pekçok girişim var. Litecoin, geçmiş yazılarda bahsettiğimiz Grin bunlardan biri. Ancak unutulmaması gereken bir durum var - o da son kullanıcı gözünde Visa ve Mastercard gibi kartlar hem hızlı işlem sağlıyorlar hem de maliyetleri çok düşük. Dolayısıyla özellikle kredi kartına erişimi olan gelişmiş ülkelerde KriptoParalara ile alışveriş yapılması ilk aşamada geniş kitlelerin ilgisini çekecek mi - zor görünüyor. 
+Bir örnek daha verelim: Alışverişlerde kredi kartı yerine KriptoPara kullanılması. 
 
-Bu demek değil ki bu KriptoParalar alışveriş için kullanımda başarısız olacak. Kriptoparalar'ın daha çok kredi kartına ya da bankacılık sistemine erişimi olmayanlar tarafından kullanılacak olması daha muhtemel. Aynı şekilde mevcut bankacılık sisteminde şu ya da bu şekilde olmak istemeyen gelişmiş dünyadaki küçük bir kitle de bu paraları kullanabilir. Bu tip paralar ancak KriptoParalar başka ihtiyaçlar nedeniyle geniş kitleler tarafından kullanılır hale gelir, ayrıca kullanıcı deneyimi olarak üstün bir deneyim sağlayabilirler ise, o zaman ikinci bir dalga olarak kitleler tarafından kullanılır hale gelebilirler. 
+Bu alanda kendine pay almaya çalışan pekçok girişim var. Litecoin, geçmiş yazılarda bahsettiğimiz Grin bunlardan biri. Ancak unutulmaması gereken bir durum var - o da son kullanıcı gözünde Visa ve Mastercard gibi kartlar hem hızlı işlem sağlıyorlar hem de maliyetleri çok düşük. Dolayısıyla özellikle kredi kartı kullanımının yaygın olduğu gelişmiş ülkelerde KriptoParalara ile alışveriş yapılması ilk aşamada geniş kitlelerin ilgisini çekecek mi - zor görünüyor. 
 
-### Başka hangi alanlar etkilenecek?
+Bu demek değil ki bu KriptoParalar alışveriş için kullanımda başarısız olacak. Kriptoparalar'ın kredi kartına ya da bankacılık sistemine erişimi olmayanlar tarafından kullanılması daha muhtemel. Aynı şekilde mevcut bankacılık sisteminde şu ya da bu şekilde olmak istemeyen gelişmiş dünyadaki küçük bir kitle de bu paraları kullanabilir. 
 
-Peki para transferlerinin ötesinde finansın hangi alanında Blockchain bazlı girişimlerin başarı şansı daha fazla. Decentralized Finance denen bu yeni alanlanda hangi alanlar göreceli basit ve yüksek maliyetli.  En başta basit borç işlemleri geliyor. Bir sonraki yazımızda DeFi nedir daha detaylı olarak bakalım.. 
+Gelişmiş ülkelerde KriptoParanın ödeme amaçlı kullanımı, eğer başka ihtiyaçlar nedeniyle KriptoPara kullanımı yaygınlaşır ve bu paralar üstün bir kullanıcı deneyimi sağlayabilirler ise, ancak o zaman ikinci bir dalga olarak yaygınlaşır. 
 
-DeFi dediğimizde genel olarak kastedilen, Akıllı Kontratlar ile işlemlerin aracısız olarak gerçekleşmesi. Yani herhangi bir güç tarafından kontrol edilmeyen makinelerin verilen işlemleri baştan belirlenen koşullar gerçekleştiğinde otomatik olarak gerçekleştirmesi. Bu alanda ilk akla gelebilecek uygulamanın para transferi olduğunu belirtmiş ve Bitcoin başta olmak üzere pek çok KriptoPara ile bu alanda belli yol katedildiğini belirtmiş.  İkinci alan olarak da kredi verme ve almadan bahsedebiliriz. 
+### Başka hangi alanlar?
 
-Bu alanda en yaygın olarak kullanılan uygulama MakerDAO. Gelin biraz daha yakından bakalım.. 
+Peki para transferlerinin ötesinde finansın hangi alanında Blockchain bazlı girişimlerin başarı şansı daha fazla? Decentralized Finance (DeFi) olarak da adlandırılan bu yeni dalgada hangi alanlar göreceli basit ve yüksek maliyetli?  
+
+Önce bir DeFi nedir ona bakalım, bir sonraki yazımızda ise en yaygın kullanılan üyesine bakacağız bu yeni kavramın. 
 
 ### DeFi nedir?
 
-DeFi - yani Decentralized Finance pek çok girişimin ortaklaşa kurdukları bir protokol va açık bir topluluk. Kurucularının ortak özelliği Blockchain sistemleri üzerne girişimler olmaları. Girişimlerin çıkış amacı kurulduktan sonra benzer sıkıntıları paylaşmaları ve vizyonları da silo halinde organize olmuş mevcut finansal altyapıları değiştirmek. Ana [prensipleri](https://medium.com/defi-network/opening-defi-42a5afdb71e0) ise şu üç konu: 
+DeFi - yani Decentralized Finance pek çok girişimin ortaklaşa kurdukları bir protokol ve açık bir topluluk. 
 
-* Karşılıklı kullanılabilirlik ve açık kaynak: Bütün projelerin kurulurken karşılıklı kurulabilirlir olmasına dikkat etmek. Bunun için de özellikle açık kaynak kullanmak. Böylece bütün projelerin birbirleri ile nasıl kullanılabileceği ile ilgili ortak bir bilinç oluşturmak. 
+Kurucularının ortak özelliği Blockchain sistemleri üzerine girişimler olmaları. Girişimlerin çıkış amacı kurulduktan sonra benzer sıkıntıları paylaşmaları ve vizyonları da silo halinde organize olmuş mevcut finansal altyapıları değiştirmek. Ana [prensipleri](https://medium.com/defi-network/opening-defi-42a5afdb71e0) ise şu üç konu: 
+
+* Karşılıklı kullanılabilirlik ve açık kaynak: Bütün projelerin kurulurken karşılıklı kullanılabilir olmasına dikkat etmek. Bunun için de özellikle açık kaynak kullanmak. Böylece bütün projelerin daha kuruluşları sırasında birbirlerini inceleyerek ileri aşamalarda birlikte nasıl çalışabilecekleri ile ilgili ortak bir bilinç oluşturmak. 
 * Ulaşılabilirlik ve finansal kapsayıcılık: İnternet bağlantısı olan herkesin ulaşabileceği bir finansal sistem hayali. Aynı şekilde "değer"in (ya da bir varlığın) kişinin coğrafi konumundan bağımsız olarak dünyada serbestçe dolaşabilmesi. 
 * Finansal şeffaflık: Finansal hizmetlerin şeffaf olmayan silolarda tutulması yerine kişilerin gizliliği konusunu saklı tutmak kaydıyla tüm piyasa bilgisinin tüm katılımcılara açık olduğu bir sistem inancı. 
 
@@ -59,13 +63,19 @@ DeFi protokolü üye girişimlerin bazıları [Dharma Labs](https://dharma.io/),
 
 ### Arkası yarın
 
-Bir sonraki yazımızda Decentralized Finance hareketinin en yaygını olan MakerDAO'ya bakalım.. 
+Özet olarak DeFi yani Decentralized Finance'nin özü Akıllı Kontratlar ile işlemlerin aracısız olarak gerçekleşmesi. Yani herhangi bir güç tarafından kontrol edilmeyen makinelerin verilen işlemleri baştan belirlenen koşullar gerçekleştiğinde otomatik olarak gerçekleştirmesi. Bu alanda ilk akla gelebilecek uygulamanın para transferi olduğunu belirtmiş ve Bitcoin başta olmak üzere pek çok KriptoPara ile bu alanda belli yol katedildiğini belirtmiş.  İkinci alan olarak da kredi verme ve almadan bahsedebiliriz. Bir sonraki yazımızda Decentralized Finance hareketinin en yaygını olan ve kredi konusunda çalışan MakerDAO'ya bakalım.. 
 
 # Yazı II
 
+Önceki yazımızda finans dünyasında yeni başlayan DeFi hareketine değinmiş ve para transferi ile başlayan aracılık hizmetlerinin makinelere aktarılması işinin daha başka hangi alanlara yayılabileceğine değinmiştik. İşte karşınızda bu alanlardan ilki olan kredili işlemlerin en yaygın kullanılanı MakerDAO.. 
+
 ### MakerDAO nedir?
 
-MakerDAO kişilerin ellerinde duran KriptoParaları teminat vererek DAI SabitParası yaratmalarına olanak veren bir dağıtık bir sistem. Ethereum üzerinde kurulu Akıllı Kontratları kullanıyor bunu yapmak için. DAI nedir peki? Dai bir ABD Dolarına eşit olan bir SabitPara. SabitParaların ne olduklarına şu iki yazımızda ("[Orası çok dalgalı, sakin sulara gel](https://ademimerkezi.com/genel/2018/07/20/Orasi-cok-dalgali-sakin-sulara-gel-sabitparalar.html)" ve "[SabitParalara devam](https://ademimerkezi.com/genel/2018/07/27/sabitparalara-devam-digerleri.html)") değinmiştik. 
+
+![makerdao-dai.png](/assets/makerdao-dai.png) 
+
+
+MakerDAO kişilerin ellerinde duran KriptoParaları teminat vererek DAI SabitParası yaratmalarına olanak veren bir dağıtık bir sistem. Ethereum üzerinde kurulu Akıllı Kontratları kullanıyor bunu yapmak için. DAI nedir peki? Dai bir ABD Dolarına eşit olan bir SabitPara. SabitParaların ne olduklarına şu iki yazımızda ("[Orası çok dalgalı, sakin sulara gel](https://ademimerkezi.com/genel/2018/07/20/Orasi-cok-dalgali-sakin-sulara-gel-sabitparalar.html)" ve "[SabitParalara devam](https://ademimerkezi.com/genel/2018/07/27/sabitparalara-devam-digerleri.html)") değinmiştik. (Dai kelime anlamı olarak Çince'de [borç para vermek](https://www.reddit.com/r/MakerDAO/comments/5q98b1/%E8%B2%B8_dai/) anlamı taşıyor bu arada)
 
 #### Nasıl çalışıyor? 
 Elinizdeki (şu an için Ethereum parası ETH geçerli) KriptoPara'ları teminat olarak gösteriyorsunuz, buradaki deyişiyle ETH'lerinizi sistem içine kilitliyorsunuz. Gönderdiğiniz her 150 birim para için 100 birime kadar DAI alabiliyorsunuz. Sonrasında DAI'yi istediğiniz noktada birebir değerden ABD Doları'na çeviriyor ve kullanıyorsunuz. 
