@@ -7,7 +7,7 @@ categories: Genel
 
 
 
-Geçtiğimiz [yazıda](https://ademimerkezi.com/genel/2018/11/16/cevre-icin-blockhain.html) çevre ile ilgili sorunları ve Blockchain bazlı teknolojilerin temel olarak nasıl bu sorunları çözebileceğinden bahsetmiştik. Şimdi de gelin biraz daha detaylı olarak nasıl fikirler var bu alanda, neleri çözebilirler, önlerinde nasıl engeller var, ona bakalım. Yazımızı şu şekilde bitirmiştik: 
+Geçtiğimiz [yazıda](/genel/2018/11/16/cevre-icin-blockhain.html) çevre ile ilgili sorunları ve Blockchain bazlı teknolojilerin temel olarak nasıl bu sorunları çözebileceğinden bahsetmiştik. Şimdi de gelin biraz daha detaylı olarak nasıl fikirler var bu alanda, neleri çözebilirler, önlerinde nasıl engeller var, ona bakalım. Yazımızı şu şekilde bitirmiştik: 
 
 >Blockchain bazlı sistemler çevre alanında ciddi iyileştirmeler sağlayabilir. Neden Blockchain? Çünkü çok fazla oyuncu var. Bu oyuncular arasında tam olmasa da bir güvensizlik var (ve yaşanan pek çok felaketin ihmal ve daha korkuncu gizlemeden dolayı olduğu biliniyor). Denetim/ölçüm mekanizmaları henüz yeterli değil ve kurulması zaman alacak. Blockchain bazlı yenilikler piyasa oyuncuların maliyetlerini azaltabilir, yatırımların tamamlanma süresini kısaltabilir ve koruyucu kurumlara denetimde kolaylıklar sağlayabilir. Özellikle Blockchain teknolojilerinin zaman damgası özelliği ve akıllı kontratların işletileceği mekanizmalar verimli çalışan bir sistem kurulmasına yardımcı olabilir.
 
@@ -59,7 +59,7 @@ Yukarıda fikirlerin çoğu henüz ham, daha olgunlaşmamış. Gerçekleşebilme
 
 Bunun yanında, bu sistemlerin destek olacak endüstriyel değişimler yeterince hızlı gelişmeyebilir ya da yenilikler Blockchain sistemleri ile uyumlu olmayabilir. 
 
-[Tedarik zincirleri için Blockchain](https://ademimerkezi.com/genel/2018/08/17/tedarik-zinciri-icin-blockchain.html) yazımızda belirttiğimiz gibi, çok partinin taraf olduğu sistemlerde oyunculardan bir kısmı hassas bilgileri diğerleri ile paylaşmak istemeyebilir. 
+[Tedarik zincirleri için Blockchain](/genel/2018/08/17/tedarik-zinciri-icin-blockchain.html) yazımızda belirttiğimiz gibi, çok partinin taraf olduğu sistemlerde oyunculardan bir kısmı hassas bilgileri diğerleri ile paylaşmak istemeyebilir. 
 
 Bunun dışında her ülkede kanunların farklı olması özellikle uluslararası nitelikteki projelerde adaptasyon ve canlılığa ket vuracak sıkıntılar doğurabilir. 
 
@@ -69,8 +69,9 @@ Teknolojik olarak ise pek çok alanda değişik oyuncular tarafından geliştiri
 
 Evet, gördüğünüz gibi, kendi içinde bulunduğumuz ülkemiz ve küçük dünyamızı aşıp uluslararası alana baktığımızda, sınır ötesi işlemlerde Blockchain bazlı sistemlerin aracıları ortadan kaldıran yapısının hemen hemen her alanda gerek çevresel kazanç olarak gerekse finansal anlamda sağlayacağı faydalar olduğu çok açık. Ulusal yapılar ve politik çıkarlar Blockchain ile ortaya çıkabilecek bu faydaları deneyimlememize ne kadar izin verecek bunu hep birlikte yaşayarak göreceğiz. 
 
-
+---
 
 &nbsp;
 
-*Not: Yazdığımız 30+ yazının bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](http://ademimerkezi.com/about/) sayfasına göz atabilirsiniz.* 
+*Not: Yazdığımız tüm yazıların bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](/about/) sayfasına göz atabilirsiniz.*
+
