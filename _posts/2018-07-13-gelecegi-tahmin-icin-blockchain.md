@@ -6,7 +6,7 @@ categories: Genel
 ---
 
 
-Blockchain'in hayatımızda neler değiştirebileceği ile değişik alanlarda uygulamalarına [sağlık](http://ademimerkezi.com/genel/2018/04/17/saglik-icin-blockchain.html), [sanat](http://ademimerkezi.com/genel/2018/04/06/sanat-icin-blockchain.html), [insani yardım](http://ademimerkezi.com/genel/2018/03/29/Iyilik-icin-blockchain.html) ve en son [seyahat](http://ademimerkezi.com/genel/2018/07/06/seyahat-icin-blockchain.html) ile bundan önceki yazılarımızda kısaca göz atmıştık. Şimdi de Blockchain'i geleceği tahmin etmek için nasıl kullanabiliriz ona bir bakalım isterseniz.  
+Blockchain'in hayatımızda neler değiştirebileceği ile değişik alanlarda uygulamalarına [sağlık](/genel/2018/04/17/saglik-icin-blockchain.html), [sanat](/genel/2018/04/06/sanat-icin-blockchain.html), [insani yardım](/genel/2018/03/29/Iyilik-icin-blockchain.html) ve en son [seyahat](/genel/2018/07/06/seyahat-icin-blockchain.html) ile bundan önceki yazılarımızda kısaca göz atmıştık. Şimdi de Blockchain'i geleceği tahmin etmek için nasıl kullanabiliriz ona bir bakalım isterseniz.  
 
 
 &nbsp;
@@ -25,13 +25,13 @@ Bu tip borsalar şu anda normal olarak var. Özellikle vadeli işlem borsaları 
 
 ### Akıllı kontratlar ve tahmin piyasalarına etkisi
 
-Blockchain'in ana temellerinden birinin Akıllı Kontratlar olduğuna önceki [bir yazımızda] değinmiştik. Özetlemek gerekirse, Akıllı Kontratlar içeriği itibariyle aslında akıllı olmayan gayet basit kontratlar idi. Ancak Akıllı Kontratları güçlü yapan, hiçbir dış etken etkisinde kalmaması ve eğer gerekli koşullar oluştu ise o kontratın gerektirdiği her türlü sonucu "tak" diye yapması idi. 
+Blockchain'in ana temellerinden birinin Akıllı Kontratlar olduğuna önceki [bir yazımızda](/genel/2018/06/29/bu-kontratlar-cok-akilli-ethereum-ve-akilli-kontratlar.html) değinmiştik. Özetlemek gerekirse, Akıllı Kontratlar içeriği itibariyle aslında akıllı olmayan gayet basit kontratlar idi. Ancak Akıllı Kontratları güçlü yapan, hiçbir dış etken etkisinde kalmaması ve eğer gerekli koşullar oluştu ise o kontratın gerektirdiği her türlü sonucu "tak" diye yapması idi. 
 
 Bu ne sağlıyor? Bu insanlar için öncelikle "akıl sağlığı" (piece of mind) sağlıyor. Ne demek bu? Şu demek, bir anlaşma yaptığınızda "acaba karşı taraf sözünü yerine getirmezse" diye geceleri uykunuzun kaçmasına gerek yok. İyi yapılmış bir Akıllı Kontrat size otomatik olarak hakkınız olanı verecek. 
 
 Peki nasıl çalışacak sistem? Şöyle: Herhangi ama herhangi bir konuda gelecek ile ilgili bir tahmininiz var. Örneğin, İstanbul Şişli'de oturuyorsunuz ve yeni yılın ilk günü saat 12:00 ile 16:00 arasında kar yağacağına eminsiniz. Etrafınızdaki insanlara sordunuz, çoğunun bu konuda bir fikri yok; hatta böyle bir iddiada bulunduğunuz için size deli gözüyle bile bakabilirler. Halbuki, o gün İstanbul'da ya da Türkiye'de ya da dünyanın herhangi bir yerinde sizin gibi başka bir 'deli' İstanbul'da havanın aynı saatler içinde günlük güneşlik olacağını düşünüyor ve iddia ediyor olabilir! Birincisi böyle bir düşünen bir insanı normal yollardan çevrenizde bulmanız çok zor. O nedenle internet üzerinden ortak bir platform olması mantıklı. Ama daha önemlisi varsayalım çevrenizde böyle bir insan buldunuz ve iddiaya girdiniz, peki o insanın sözüne nasıl güveneceksiniz? Ya cayarsa?... Hadi diyelim, oturdunuz noterden bir sözleşme imzaladınız, ya yine ödemez ise? Gidip mahkemeye mi vereceksiniz? Uğraş dur, üç kuruş para alacağım diye tonla masrafa gir. Üstelik eminim hakim ve savcılar da böyle gereksiz konularda onları uğraştırdığınız için size çok da sevgiyle bakmayacaklardır. 
 
-Blockchain üzerindeki bir platformdan aynı işlemi gerçekleştirdiğinizde, öncelikle bu tip tahminlerde bulunan pekçok kişi ile aynı ortamda olduğunuz için tahmininizin tersini düşünen birini bulmanız çok daha kolay. Daha da önemlisi böyle bir kişi bulup anlaşma yaptığınız anda artık rahatsınız. Zira, öncelikle bu tahmininiz Blockchain üzerinde kayıt altına alınıyor ve daha önce de pekçok kez [yazdığımız gibi](http://ademimerkezi.com/genel/2018/03/02/Sahi-nedir-bu-blockchain-allah-askina.html) Blockchain üzerindeki kayıtlar hiçbir şekilde hiç kimse tarafından geriye dönük olarak değiştirilemiyor. İkincisi de, Akıllı Kontrat sayesinde yaptığınız tahminin sonucunu aldığınız anda sistem iddiayı kazanan kişiye gerekli ödüllendirmeyi otomatik olarak yapıyor. 
+Blockchain üzerindeki bir platformdan aynı işlemi gerçekleştirdiğinizde, öncelikle bu tip tahminlerde bulunan pekçok kişi ile aynı ortamda olduğunuz için tahmininizin tersini düşünen birini bulmanız çok daha kolay. Daha da önemlisi böyle bir kişi bulup anlaşma yaptığınız anda artık rahatsınız. Zira, öncelikle bu tahmininiz Blockchain üzerinde kayıt altına alınıyor ve daha önce de pekçok kez [yazdığımız gibi](/genel/2018/03/02/Sahi-nedir-bu-blockchain-allah-askina.html) Blockchain üzerindeki kayıtlar hiçbir şekilde hiç kimse tarafından geriye dönük olarak değiştirilemiyor. İkincisi de, Akıllı Kontrat sayesinde yaptığınız tahminin sonucunu aldığınız anda sistem iddiayı kazanan kişiye gerekli ödüllendirmeyi otomatik olarak yapıyor. 
 
 Burada kritik konulardan biri, aranızdaki iddianın ne şekilde sonuçlandığına kimin karar vereceği. Bunun için piyasanın güvendiği bir ortak hakem belirleyebilirsiniz (örneğin maç sonuçları için espn.com, hava tahminleri için accuweather.com, belli ekonomik göstergeler için wallstreetjournal.com gibi), ya da bu iş için özel olarak eğitim almış (bu platformlar için çalışan) aracıları kullanabilirsiniz. 
 
@@ -85,8 +85,8 @@ Bunun yanında Çin piyasasında ön plana çıkan ve Qtum Blockchain platformun
 
 Kişisel olarak gelecek ile ilgili istediğiniz konuda (bir karşı taraf bulabilmek şartıyla) sınırsız şekilde tahmin yapabilme imkanı büyük bir güç. Bunun yanında kişilerin bireysel düşüncelerini toplayarak toplumun (ya da bir kesiminin) kolektif düşüncesini görebilmek/anlayabilmek de belirli olayların nasıl gelişeceğini önceden anlayabilmek için oldukça önemli bir gösterge. Bu alanı şans oyunları gibi dar bir kapsamdan çıkararak çok daha bilimsel tabanlı bir şekilde değerlendirmek gelecek için pekçok konuya daha iyi bakabilme imkanı verecek. Bu alandaki büyük potansiyeli görmek için kahin olmaya gerek yok :)
 
+---
+&nbsp;
 
-
-
-
+*Not: Yazdığımız tüm yazıların bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](/about/) sayfasına göz atabilirsiniz.*
 
