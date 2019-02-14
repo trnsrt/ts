@@ -8,7 +8,7 @@ categories: Genel
 
 
 
-Önceki [yazımızda](https://ademimerkezi.com/genel/2018/08/31/bizans-generalinin-problemi-uzlasmak.html) bağımsız (dağıtık), birbirine güvenmeyen oyuncuların nasıl uzlaşıp beraberce hareket ettiklerine bakmıştık. Kısaca bahsedersek, Bizans Hata Tolerans diye adlandırılan bir sistemi kullanan oyuncular, kendilerine gelen mesajların içinde çoğunluğun söylediğ mesajı uygulayarak ilerliyorlar, böylece ortada kararsızlık söz konusu olmuyor idi. 
+Önceki [yazımızda](/genel/2018/08/31/bizans-generalinin-problemi-uzlasmak.html) bağımsız (dağıtık), birbirine güvenmeyen oyuncuların nasıl uzlaşıp beraberce hareket ettiklerine bakmıştık. Kısaca bahsedersek, Bizans Hata Tolerans diye adlandırılan bir sistemi kullanan oyuncular, kendilerine gelen mesajların içinde çoğunluğun söylediğ mesajı uygulayarak ilerliyorlar, böylece ortada kararsızlık söz konusu olmuyor idi. 
 
 ### Sorular, sorular...
 
@@ -36,7 +36,7 @@ Bitcoin'in de içinde bulunduğu Blockchain bazlı sistemlerde de aynı şekilde
 
 #### Kısa hatırlatma: Blockchain nasıl çalışıyordu?
 
-Efendim bunu anlayabilmek için öncelikle [Bitcoin şifrelemesi](http://ademimerkezi.com/genel/2018/05/08/Peki-Blockchain-sifrelemesi-nasil-calisiyor.html) ile ilgili yazıyı hatırlamakta fayda var. 
+Efendim bunu anlayabilmek için öncelikle [Bitcoin şifrelemesi](/genel/2018/05/08/Peki-Blockchain-sifrelemesi-nasil-calisiyor.html) ile ilgili yazıyı hatırlamakta fayda var. 
 
 Kısaca tekrar etmek gerekirse: Bitcoin ile yapılmış işlemleri sistemdeki bütün makineler bir araya toplayıp kendi defterlerine yazıyorlar.  Sonra da bu işlemleri toplayıp balya haline getiriyorlar (yani madencilik "mining" yapıyorlar)
 
@@ -91,10 +91,8 @@ Peki ya istisnalar olamaz mı? Olabilir. Bakalım ne olabilir ve çözümü var 
 
 ---
 
-
 &nbsp;
 
-
-*Not: Yazdığımız 25+ yazının bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](http://ademimerkezi.com/about/) sayfasına göz atabilirsiniz.* 
+*Not: Yazdığımız tüm yazıların bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](/about/) sayfasına göz atabilirsiniz.*
 
 
