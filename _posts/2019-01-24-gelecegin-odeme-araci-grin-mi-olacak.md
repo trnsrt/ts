@@ -5,7 +5,7 @@ date:   2019-01-24 10:43:45 +0300
 categories: Genel
 ---
 
-Bir önceki [yazımızda](https://ademimerkezi.com/genel/2019/01/23/miblewimble-aranan-mahremiyet-buyusu-mu.html) en son ortaya çıkan 'hip' teknolojilerden MimbleWimble'a göz atmıştık. MibleWimble Bitcoin benzeri bir Blockchain. Asıl ilginç olan üzerine kurulu uygulamalar. aynı [yazıda](https://ademimerkezi.com/genel/2019/01/23/miblewimble-aranan-mahremiyet-buyusu-mu.html) kısaca bu uygulamalardan Beam'e bakmıştık. Asıl ilginç uygulama [Grin](https://grin-tech.org/) ise bu yazımızda.
+Bir önceki [yazımızda](/genel/2019/01/23/miblewimble-aranan-mahremiyet-buyusu-mu.html) en son ortaya çıkan 'hip' teknolojilerden MimbleWimble'a göz atmıştık. MibleWimble Bitcoin benzeri bir Blockchain. Asıl ilginç olan üzerine kurulu uygulamalar. aynı [yazıda](/genel/2019/01/23/miblewimble-aranan-mahremiyet-buyusu-mu.html) kısaca bu uygulamalardan Beam'e bakmıştık. Asıl ilginç uygulama [Grin](https://grin-tech.org/) ise bu yazımızda.
 
 
 #### Grin
@@ -29,7 +29,7 @@ Bu para politikası aslında ilginç bir detay: Sabit şekilde para arzı arttı
 
 ### Neden popüler oldu bu kadar?
 
-Grin'in bu kadar popüler olmasının belki de en önemli nedeni yukarıda da bahsetmeye çalıştığımız Bitcoin benzeri cypherpunk köklere sahip olması. Zira cypherpunk'lar bireyin özgürlüğünü ve devlet benzeri otoritelere karşı bağımsızlığını savunurken, bunu bir organizasyon altında yapmaları durumunda otoritelerin uygulayacakları baskılar ile organizasyonları ezeceği, kişileri ise hapis de dahil türlü yaptırımlar ile yıldıracağı korkusu taşıyorlar. Kişilerin gizliliğini ve bağımsızlığını savunabilmek için kendilerinin de gizli olması gerektiğine inanıyorlar. (Bu nedenle Satoshi ismini gizli tuttu, Wikileaks aracılığıyla Bitcoin ortaya çıktığı anda sırra kadem bastı - tüm hikayesi [bu yazımızda](https://ademimerkezi.com/genel/2018/06/01/token-dunyasinin-ilk-oyuncusu-tanidik-bir-isim-bitcoin.html)). 
+Grin'in bu kadar popüler olmasının belki de en önemli nedeni yukarıda da bahsetmeye çalıştığımız Bitcoin benzeri cypherpunk köklere sahip olması. Zira cypherpunk'lar bireyin özgürlüğünü ve devlet benzeri otoritelere karşı bağımsızlığını savunurken, bunu bir organizasyon altında yapmaları durumunda otoritelerin uygulayacakları baskılar ile organizasyonları ezeceği, kişileri ise hapis de dahil türlü yaptırımlar ile yıldıracağı korkusu taşıyorlar. Kişilerin gizliliğini ve bağımsızlığını savunabilmek için kendilerinin de gizli olması gerektiğine inanıyorlar. (Bu nedenle Satoshi ismini gizli tuttu, Wikileaks aracılığıyla Bitcoin ortaya çıktığı anda sırra kadem bastı - tüm hikayesi [bu yazımızda](/genel/2018/06/01/token-dunyasinin-ilk-oyuncusu-tanidik-bir-isim-bitcoin.html)). 
 
 Örneğin, bu köklere sahip bir oluşum olarak başka KriptoParalar (Monero, Dash, Zcash) gibi kurucu ekibin kendine baştan bir pay ayırmaması onları kripto camiası içinde saygın bir yere koyuyor. Çünkü "[premine](https://www.cryptocompare.com/coins/guides/what-is-a-premine/)" ya da "founders' share" de denen bu tip bir uygulamanın adil bir paylaşım olmayacağına inanıyorlar. 
  
@@ -62,11 +62,11 @@ Akla gelen soru işaretlerinden biri de gizlilik ile geniş kitleler tarafından
 ### Sonuç
 KriptoPara dünyasında her gün yeni değişik bir ortaya çıkıyor. Her ne kadar ICO piyasalarının geçtiğimiz yılın ikinci yarısından bu yana popülerliğini kaybetmiş ve KriptoParalara ilgili bir kısım kitlenin hevesini kırmış olsa da, bu alanda çalışan girişimciler üzerinde çalıştıkları projeleri yavaş yavaş ayağa kaldırmaya devam ediyorlar. MimbleWimble ve özellikle Grin, bu alanda Bitcoin'in eksik olduğu düşünülen gizlilik alanında devrim yaratacağını düşünen, aynı Monero, Dash, Zcash benzeri yeni bir para. Ancak kimi teknik özellikleri ve kuruluş felsefesi onu diğer KriptoParalar'dan ayırıyor. 
 
-Teknik olarak MimbleWimble ve Grin'i diğerlerinden ayıran nedir diye merak ederseniz yazımızın devamına [şuradan](https://ademimerkezi.com/genel/2019/01/25/Grine-teknik-bakis.html) ulaşabilirsiniz. 
+Teknik olarak MimbleWimble ve Grin'i diğerlerinden ayıran nedir diye merak ederseniz yazımızın devamına [şuradan](/genel/2019/01/25/Grine-teknik-bakis.html) ulaşabilirsiniz. 
 
 
 ---
-
 &nbsp;
 
-*Not: Yazdığımız 45+ yazının bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](http://ademimerkezi.com/about/) sayfasına göz atabilirsiniz.*
+*Not: Yazdığımız tüm yazıların bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](/about/) sayfasına göz atabilirsiniz.*
+
