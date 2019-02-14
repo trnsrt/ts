@@ -9,8 +9,8 @@ categories: Genel
 
 Teknik olduğu için bir parça karışık ama basitleştirmek gelin üç parçaya ayıralım anlatacağımızı: 
 * Bu yazıda başlangıç seviyesinde işin teknik olmayan kısmına, felsefi ve ekonomik boyutuna MimbleWimble üzerinden bakacağız. 
-* [İkinci yazımızda](https://ademimerkezi.com/genel/2019/01/24/gelecegin-odeme-araci-grin-mi-olacak.html) MimbleWimble üzerine kurulan en heyecanlı uygulama olan Grin parasına değineceğiz.
-* [Üçüncü yazıda](https://ademimerkezi.com/genel/2019/01/25/Grine-teknik-bakis.html) ise, işin teknik kısmına yani felsefi ve ekonomik olarak diğer iki yazıda bahsedilen konuların teknolojik olarak 'nasıl' gerçekleştirildiğine göz atacağız. 
+* [İkinci yazımızda](/genel/2019/01/24/gelecegin-odeme-araci-grin-mi-olacak.html) MimbleWimble üzerine kurulan en heyecanlı uygulama olan Grin parasına değineceğiz.
+* [Üçüncü yazıda](/genel/2019/01/25/Grine-teknik-bakis.html) ise, işin teknik kısmına yani felsefi ve ekonomik olarak diğer iki yazıda bahsedilen konuların teknolojik olarak 'nasıl' gerçekleştirildiğine göz atacağız. 
 
 ### Nereden çıktı bu MimbleWimble?
 
@@ -49,7 +49,7 @@ Gerçekten değil mi? Yukarıdaki paragrafta ismi geçen şahısların hiçbiri 
 
 &nbsp;
 
-- *Grin*: MimbleWimble üzerine kurulu en tanınmış uygulama (detaylar bir sonraki [yazıda](https://ademimerkezi.com/genel/2019/01/24/gelecegin-odeme-araci-grin-mi-olacak.html)). Yine Harry Potter öykülerinden birindeki Gringott's büyücülük bankasının adı.
+- *Grin*: MimbleWimble üzerine kurulu en tanınmış uygulama (detaylar bir sonraki [yazıda](/genel/2019/01/24/gelecegin-odeme-araci-grin-mi-olacak.html)). Yine Harry Potter öykülerinden birindeki Gringott's büyücülük bankasının adı.
 
 ![grin-400.png](/assets/grin-400.png)
 
@@ -71,13 +71,13 @@ Daha önceki yazılarımızda bahsetmiştik: Bitcoin aslında mahrem bir sistem 
 
 Ancak kullanıcı adlarının gizli olması aslında çok da mahremiyet yaratmıyor. Adreslerin yaptığı işlemler teknik olarak takip edilebiliyor, dolayısı ile kanunsuz biri ile bir alışveriş yapmanız durumunda hesabınızın mimlenme ihtimali var. Bunu sadece kanunsuz bir işlem olarak düşünmeyin. Baskıcı rejimlerde yaşayanların adreslerinin rejimler tarafından belirlenmesi ve o kişilerin rejim tarafından baskı altına alınması da olası. 
 
-İşte Bitcoin üzerindeki bu sıkıntılar, bireylerin özgürlüğünü kendine şiar edinmiş yazılımcı kesiminin (bunlara cypherpunk da deniyor) tam mahremiyet sağlayacak bir protokol arayışına girmesine neden oldu. Bu şekilde ortaya çıkmış Monero, Dash, Zcash benzeri pekçok KriptoPara da var (bu paralara şu [yazımızda](https://ademimerkezi.com/genel/2018/06/07/token-dunyasina-devam-diger-kriptopalar-litecoin-monero-dash-zcash.html) bahsetmiştik). 
+İşte Bitcoin üzerindeki bu sıkıntılar, bireylerin özgürlüğünü kendine şiar edinmiş yazılımcı kesiminin (bunlara cypherpunk da deniyor) tam mahremiyet sağlayacak bir protokol arayışına girmesine neden oldu. Bu şekilde ortaya çıkmış Monero, Dash, Zcash benzeri pekçok KriptoPara da var (bu paralara şu [yazımızda](/genel/2018/06/07/token-dunyasina-devam-diger-kriptopalar-litecoin-monero-dash-zcash.html) bahsetmiştik). 
 
-MimbleWimble, kuruluş amacı itibariyle tam bir gizlilik sağlamayı amaçlayan bir protokol. MimbleWimble protokolü ile yapılan işlemlerde işleme taraf olan alıcı ve satıcı ne de işlem miktarı belli. "Öyle olunca hile vs olmuyor mu?" diye soracak olursanız sizi işin teknik kısmını anlattığımız [yazımıza](https://ademimerkezi.com/genel/2019/01/25/Grine-teknik-bakis.html) bekleriz. 
+MimbleWimble, kuruluş amacı itibariyle tam bir gizlilik sağlamayı amaçlayan bir protokol. MimbleWimble protokolü ile yapılan işlemlerde işleme taraf olan alıcı ve satıcı ne de işlem miktarı belli. "Öyle olunca hile vs olmuyor mu?" diye soracak olursanız sizi işin teknik kısmını anlattığımız [yazımıza](/genel/2019/01/25/Grine-teknik-bakis.html) bekleriz. 
 
 #### Basit
 
-Bunun dışında MimbleWimble'in diğer temel özelliği ise basit ve hafif bir program olması. Teknik olmayanları çok da ilgilendiren bir konu değil aslında ancak Bitcoin'de 2009 yılından bugüne yapılmış bütün işlemleri görebiliyorsunuz demiştik. Bu işlemlerin hepsi Bitcoin sistemindeki tüm makineler tarafından tutuluyor. Bu da her bir makine için GB'larca bilgi demek. Bu da sistemin hantallaşmasına sebep oluyor. MimbleWimble üzerine kurulan uygulamalar burada da güvenlikten ödün vermeden basit bir sistem kurmayı hedefliyorlar (detaylar teknik [yazımızda](https://ademimerkezi.com/genel/2019/01/25/Grine-teknik-bakis.html)). 
+Bunun dışında MimbleWimble'in diğer temel özelliği ise basit ve hafif bir program olması. Teknik olmayanları çok da ilgilendiren bir konu değil aslında ancak Bitcoin'de 2009 yılından bugüne yapılmış bütün işlemleri görebiliyorsunuz demiştik. Bu işlemlerin hepsi Bitcoin sistemindeki tüm makineler tarafından tutuluyor. Bu da her bir makine için GB'larca bilgi demek. Bu da sistemin hantallaşmasına sebep oluyor. MimbleWimble üzerine kurulan uygulamalar burada da güvenlikten ödün vermeden basit bir sistem kurmayı hedefliyorlar (detaylar teknik [yazımızda](/genel/2019/01/25/Grine-teknik-bakis.html)). 
 
 
 ### Ne gibi uygulamaları var?
@@ -93,15 +93,14 @@ MimbleWimble üzerine çıkan iki projeden biri olan [Beam](https://www.beam.mw/
 
 
 #### Grin
-MimbleWimble'in belki de en ilginç uygulaması [Grin](https://grin-tech.org/). Yazı çok uzadı. Grin'i anlattığımız yazımızı [buradan](https://ademimerkezi.com/genel/2019/01/24/gelecegin-odeme-araci-grin-mi-olacak.html) okuyabilirsiniz. 
+MimbleWimble'in belki de en ilginç uygulaması [Grin](https://grin-tech.org/). Yazı çok uzadı. Grin'i anlattığımız yazımızı [buradan](/genel/2019/01/24/gelecegin-odeme-araci-grin-mi-olacak.html) okuyabilirsiniz. 
 
 
 ### Serinin devamı.. 
 
-Yazımızın devamında Grin'e bakıyoruz - [buradan](https://ademimerkezi.com/genel/2019/01/24/gelecegin-odeme-araci-grin-mi-olacak.html) ulaşabilirsiniz..
+Yazımızın devamında Grin'e bakıyoruz - [buradan](/genel/2019/01/24/gelecegin-odeme-araci-grin-mi-olacak.html) ulaşabilirsiniz..
 
 ---
-
 &nbsp;
 
-*Not: Yazdığımız 45+ yazının bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](http://ademimerkezi.com/about/) sayfasına göz atabilirsiniz.*
+*Not: Yazdığımız tüm yazıların bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](/about/) sayfasına göz atabilirsiniz.*
