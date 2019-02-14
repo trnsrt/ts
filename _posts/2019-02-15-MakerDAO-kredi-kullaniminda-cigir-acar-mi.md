@@ -53,7 +53,7 @@ Aynı şekilde Dai fiyatında bir artış olduğunda (1 ABD dolarından daha yü
 
 ![DAI_ETH_karsilastirma_USD.png](/assets/DAI_ETH_karsilastirma_USD.png)
 
-Bunun yanında Dai fiyatında ekstrem bir düşüş olduğu durumlar için de acil durum senaryoları hazırlanmış ama şu aşamada çok teknik kaldığı için ilgilenenleri [White Paper]((https://makerdao.com/en/whitepaper/))'ı okumaya davet ederek konuyu kapatıyoruz. 
+Bunun yanında Dai fiyatında ekstrem bir düşüş olduğu durumlar için de acil durum senaryoları hazırlanmış ama şu aşamada çok teknik kaldığı için ilgilenenleri [White Paper](https://makerdao.com/en/whitepaper/)'ı okumaya davet ederek konuyu kapatıyoruz. 
 
 ### Peki başarılı olmuş mu MakerDAO?
 
