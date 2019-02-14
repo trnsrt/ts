@@ -61,7 +61,9 @@ Aslında bu opsiyon da basit, banka transferi gibi... Arkadaşınız kendine ait
 
 KriptoPara'yı Kripto borsadan satın aldınız. Ya şimdi? Sonrası size kalmış. Bu parayı Borsa'daki hesabınızda tutabilirsiniz, ya da kendinize ait bir KriptoCüzdan'a gönderebilirsiniz. İşte yazının başında bahsettiğimiz cüzdana geldik:  KriptoCüzdan, sizin aldığınız KriptoPara'yı güvenle tutmanızı ve günü geldiğinde istediğiniz yere göndermenizi sağlayan güvenli bir araç. Değişik türleri var, hangisi uyarsa onu kullanırsınız. Neden bir KriptoCüzdan kullanıyorum, param zaten yukarıdaki KriptoBorsa'da durmuyor mu? Evet ama Şifreli Dünya'da ne kadar güvenlik o kadar iyi. Ancak yazımız çok uzamaya başladı. KriptoCüzdan konusuna önümüzdeki hafta devam edeceğiz artık...
 
+---
+
 &nbsp;
 
+*Not: Yazdığımız tüm yazıların bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](/about/) sayfasına göz atabilirsiniz.*
 
-*Not: Yazdığımız 25+ yazının bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](http://ademimerkezi.com/about/) sayfasına göz atabilirsiniz.* 
