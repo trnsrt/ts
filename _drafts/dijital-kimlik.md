@@ -13,4 +13,17 @@ Bu kadar çok siteden faklı parolar istenince ve biz bununla baş edemeyince, a
 
 Ayrıca sadece parola da değildi istenen bizden. Kendimiz ile ilgili pek çok bilgiyi de vermeye başladık sitelere. Bununla da sınırlı kalmadı, bu siteler bizim yaptığımız her hareketi perde arkasından izler oldular. Ticari olarak normal bir aktivite. Çünkü bizi izleyerek nelerden hoşlandığımızı anlayıp ona göre kendi içeriklerinden (yazı olur, satılacak ürün olur) bizim en ilgimizi çekecekleri bulabilmek ve bize sunabilmek için bunu yaptılar. 
 
-Ama bunun sıkıntıları kısa süre sonra ortaya çıktı. Bir baktık, kullandığımız bir site çökertilmiş ve bize ait bilgiler çalınmış. 
+Ama bunun sıkıntıları kısa süre sonra ortaya çıktı. Bir baktık, kullandığımız bir site çökertilmiş ve bize ait bilgiler çalınmış. Şifremiz ve parolamız bir yana, sonuçta onları değiştirirsiniz siteye girip - zaten siteler de bu tip olaylarda gerek kullanıcı adlarını bloke ederek bir nevi size yardımcı oluyorlar. Ama çalınan bilgilerimiz? 
+
+Çalınma bir yana. Bu sitelerin "ticari" amaçlar ile bizim bilgimizi "bizim iznimizi alarak" başkaları ile paylaşmaları?. Gitgide gelişen algoritmalar, güçlenen işlemciler sayesinde, bizi bizden iyi tanıyan ve bizi manipüle etmeye başlayan web siteleri? 2016 başkanlık seçimi sırasında Facebook üzerinden Cambridge Analitica tarafından yapılan kitleleri belli politik hareketlere yönlendirmeler? 
+
+İşte bütün bu yukarıda yazdıklarımız bizim için çok önemli ama birbiri ile çelişkili iki soruyu bir araya getiriyor?
+Dijital dünyada kendime ait bilgilerin çalınmasını ya da bana karşı kullanılmasını nasıl önleyeceğim?
+Bir yandan da benim ben olduğumu kanıtlayarak dijital dünyada rahatça hareket edeceğim?
+
+Bu iki soru birbiri ile çelişkili çünkü dijital dünyada işlem yapabilmek için kendimi diğerlerine kanıtlamak zorundayım. Aksi takdirde başkası benim adıma işlem yapabilir. Ama öte yandan kendimi kanıtlamak için verdiğim bilgiler benim aleyhime kullanılabilir. Peki kısıtlı bilgi vereyim. Bu belki olabilir? Ama kime vereceğim? Merkezi bir otoriteye mi? Facebook'a mı örneğin? Neler karıştırdığını gördük yukarıda. Nasıl güveneceğim merkezi bir otoritenin yarın öbür gün bu bilgileri benim aleyhime kullanmayacağına, bu bilgileri satmayacağına, beni manipüle etmeye kalkışmayacağına?
+
+Üstelik bir yandan da sadece bilgi vermem de önemli değil. Benim aktivitelerimi de takip etmesin. Zira, Facebook'tan belli sayıda "like" ettiğiniz yazı ve fotoğraflara bakarak sizin hakkınızda kimi sizin farkında bile olmadığınız pek çok bilgiyi alabiliyorlar. Bunu nasıl önleyeceğim?
+
+İşte burada asıl kritik soru çıkıyor: Merkezi bir otorite tarafından onaylanmadan, bilgilerimi kimse ile paylaşmadan ya da takip edilmeden, kısaca ben olduğum anlaşılmadan dijital dünyada kredibilite sahibi biri olarak işlem yapmam mümkün mü?
+
