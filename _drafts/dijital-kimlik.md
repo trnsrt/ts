@@ -1,5 +1,5 @@
 
-Bu dünyada kim olduğumuzu ve bize bahşedilen özellikleri hep bir başka bağımsız otoritenin bizi değerlendirmesi ve uygun görmesi ile sahip olduk. Bir ülkenin vatandaşı isek o ülkede yaşabilmek için nüfus cüzdanına sahip olduk, dünyaya seyahat etmek istediğimizde o ülkenin pasaportunu aldık. 
+Bu dünyada kim olduğumuza dair belgelere hep bir başka bağımsız otoritenin bizi değerlendirmesi ve uygun görmesi ile sahip olduk. Bir ülkenin vatandaşı isek o ülkede yaşabilmek için nüfus cüzdanına sahip olduk, dünyaya seyahat etmek istediğimizde o ülkenin pasaportunu aldık. 
 
 Aynı şekilde, alışveriş yapabilmek için kredi kartı sahibi olmaya çalışırken, kredi kartı şirketlerine (Visa, Mastercard gibi) bilgi vermek ve onların istediği özelliklere haiz olmak şartı ile onların verdiği kartlara sahip olduk.
 
