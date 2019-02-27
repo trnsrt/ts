@@ -25,5 +25,5 @@ Bu iki soru birbiri ile çelişkili çünkü dijital dünyada işlem yapabilmek 
 
 Üstelik bir yandan da sadece bilgi vermem de önemli değil. Benim aktivitelerimi de takip etmesin. Zira, Facebook'tan belli sayıda "like" ettiğiniz yazı ve fotoğraflara bakarak sizin hakkınızda kimi sizin farkında bile olmadığınız pek çok bilgiyi alabiliyorlar. Bunu nasıl önleyeceğim?
 
-İşte burada asıl kritik soru çıkıyor: Merkezi bir otorite tarafından onaylanmadan, bilgilerimi kimse ile paylaşmadan ya da takip edilmeden, kısaca ben olduğum anlaşılmadan dijital dünyada kredibilite sahibi biri olarak işlem yapmam mümkün mü?
+İşte burada asıl kritik soru çıkıyor: Merkezi bir otorite tarafından onaylanmadan, bilgilerimi kimse ile paylaşmadan ya da takip edilmeden, kısaca ben olduğum anlaşılmadan dijital dünyada kredibilite sahibi biri olarak işlem yapmam mümkün mü? Kendi kendime hiçbir dış otoriteye bağlı olmadan tamamen kendi kontrolümde bir dijital kredibilite yaratabilir miyim?
 
