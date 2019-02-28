@@ -4,7 +4,7 @@ Blockchain bazlı teknolojilerin en önemli kullanım alanlarından biri, artık
 
 ## Kimlik ihtiyacı ve arayışı
 
-Bu dünyada kim olduğumuzu kanıtlamak için hep bir başka otoritenin bizi değerlendirmesi ve uygun görmesine ihtiyaç duyduk. Bir ülkenin vatandaşı isek o ülkede yaşabilmek için nüfus cüzdanı çıkarttık, ülke dışı dünyayanın başka bir yerine seyahat etmek istediğimizde yine ülkemizin pasaportunu aldık. 
+Bu dünyada kim olduğumuzu kanıtlamak için hep bir başka otoritenin bizi değerlendirmesi ve uygun görmesine ihtiyaç duyduk. Bir ülkenin vatandaşı isek o ülkede yaşayabilmek için nüfus cüzdanı çıkarttık, ülke dışı dünyanın başka bir yerine seyahat etmek istediğimizde yine ülkemizin pasaportunu aldık. 
 
 Aynı şekilde, alışveriş yapabilmek için kredi kartı sahibi olmaya çalışırken, kredi kartı şirketlerine (Visa, Mastercard gibi) bilgi vermek ve onların istediği özelliklere haiz olmak şartı ile onların verdiği kartlara ile alışveriş yapar olduk.
 
@@ -20,9 +20,9 @@ Herhangi bir siteye girerken, biz olduğumuzu göstermek için o siteden bir kul
 
 Ancak bir süre sonra işler karışmaya başladı. Girdiğimiz ya da işlem yaptığımız sitelerin sayıları önce bir kaç tane idi ama kısa zamanda onlarca hatta yüzlerce siteye kullanıcı adı ve parola girmeye başladık. Aynı ad ve parolayı başka sitelerde kullandık, çünkü en nihayetinde insanız, ne kadar farklı parola aklımızda tutabiliriz ki?
 
-Bu kadar çok siteden faklı parolalar istenince ve biz bununla baş edemeyince, ağır abiler yardımımıza koştu. Google ve Facebook bize dediler ki: "Sen gel bana, bir kere kaydol, gerisine karışma, istediğin siteye benim araçlarımı kullanarak gir". Oh ne rahat. Aklımızda tutmamız gereken tek şey Google ya da Facebook kullanıcı adı ve parolamız, o kadar. 
+Bu kadar çok siteden farklı parola istenince ve biz bu hengame ile baş edemeyince, ağır abiler yardımımıza koştu. Google ve Facebook bize dediler ki: "Sen gel bana, bir kere kaydol, gerisine karışma, istediğin siteye benim araçlarımı kullanarak gir". Oh ne rahat. Aklımızda tutmamız gereken tek şey [Google](https://developers.google.com/identity/) ya da [Facebook](https://whatis.techtarget.com/definition/Facebook-Connect) kullanıcı adı ve parolamız, o kadar. 
 
-Ama sadece parola da değildi istenen bizden. Kendimiz ile ilgili pek çok bilgiyi de vermeye başladık sitelere. Bununla da sınırlı kalmadı, bu siteler bizim yaptığımız her hareketi perde arkasından izler oldular. Ticari olarak normal bir aktivite. Çünkü bizi izleyerek nelerden hoşlandığımızı anlayıp ona göre kendi içeriklerinden (okutulacak bir yazı olur, gösterilecek bir reklam olur ya da  satılacak bir ürün olur) bizim en ilgimizi çekebileceği bulabilmek ve bize sunabilmek için bunu yaptılar. 
+Sadece parola da değildi istenen bizden. Kendimiz ile ilgili pek çok bilgiyi de vermeye başladık sitelere. Bununla da sınırlı kalmadı, bu siteler bizim yaptığımız her hareketi perde arkasından izler oldular. Ticari olarak normal bir aktivite. Çünkü bizi izleyerek nelerden hoşlandığımızı anlayıp ona göre kendi içeriklerinden (okutulacak bir yazı olur, gösterilecek bir reklam olur ya da  satılacak bir ürün olur) bizim en ilgimizi çekebileceği bulabilmek ve bize sunabilmek için bunu yaptılar. 
 
 Ama bunun sıkıntıları kısa süre sonra ortaya çıktı. Bir baktık, kullandığımız bir site çökertilmiş ve bize ait bilgiler çalınmış. Şifremiz ve parolamız bir yana, sonuçta onları değiştirirsiniz siteye girip - zaten siteler de bu tip olaylarda gerek kullanıcı adlarını bloke ederek bir nevi size yardımcı oluyorlar. Ama çalınan kişisel bilgilerimiz? Teknik terimi ile dijital ayak izlerimiz? 
 
