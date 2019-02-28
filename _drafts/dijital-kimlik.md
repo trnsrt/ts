@@ -32,5 +32,5 @@ Bu konu önümüzdeki günlerde en önemli tartışma konularından biri olacak 
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Mark Zuckerberg gearing up FB Blockchain. Considers tech use for User Login/Identity and Data storage.<br><br>Though centralization isn&#39;t the definition of decentralization, unless they are really going to give power back to the users and their data to earn.. <a href="https://twitter.com/hashtag/blockchain?src=hash&amp;ref_src=twsrc%5Etfw">#blockchain</a> <a href="https://twitter.com/hashtag/Facebook?src=hash&amp;ref_src=twsrc%5Etfw">#Facebook</a> <a href="https://t.co/DEyHd6n4tC">pic.twitter.com/DEyHd6n4tC</a></p>&mdash; Justin Wu (@hackapreneur) <a href="https://twitter.com/hackapreneur/status/1099341714953781248?ref_src=twsrc%5Etfw">February 23, 2019</a></blockquote>
 
 
-[![Zuckerberg'in Blockchain Düşünceleri](/assets/zuckerberg_blockhain_400.png)] (https://twitter.com/hackapreneur/status/1099341714953781248)
+[![Zuckerberg'in Blockchain Düşünceleri](/assets/zuckerberg_blockhain_400.png)](https://twitter.com/hackapreneur/status/1099341714953781248)
 
