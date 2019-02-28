@@ -20,7 +20,7 @@ Herhangi bir siteye girerken, biz olduğumuzu göstermek için o siteden bir kul
 
 Ancak bir süre sonra işler karışmaya başladı. Girdiğimiz ya da işlem yaptığımız sitelerin sayıları önce bir kaç tane idi ama kısa zamanda onlarca hatta yüzlerce siteye kullanıcı adı ve parola girmeye başladık. Aynı ad ve parolayı başka sitelerde kullandık, çünkü en nihayetinde insanız, ne kadar farklı parola aklımızda tutabiliriz ki?
 
-Bu kadar çok siteden farklı parola istenince ve biz bu hengame ile baş edemeyince, ağır abiler yardımımıza koştu. Google ve Facebook bize dediler ki: "Sen gel bana, bir kere kaydol, gerisine karışma, istediğin siteye benim araçlarımı kullanarak gir". Oh ne rahat. Aklımızda tutmamız gereken tek şey [Google](https://developers.google.com/identity/) ya da [Facebook](https://whatis.techtarget.com/definition/Facebook-Connect) kullanıcı adı ve parolamız, o kadar. 
+Bu kadar çok siteden farklı parola istenince ve biz bu hengame ile baş edemeyince, ağır abiler yardımımıza koştu. Google ve Facebook bize dediler ki: "Sen gel bana, bir kere kaydol, gerisine karışma, istediğin siteye benim araçlarımı kullanarak gir". Oh ne rahat. Aklımızda tutmamız gereken tek şey [Google](https://developers.google.com/identity/) ya da [Facebook](https://developers.facebook.com/docs/facebook-login/) kullanıcı adı ve parolamız, o kadar. 
 
 Sadece parola da değildi istenen bizden. Kendimiz ile ilgili pek çok bilgiyi de vermeye başladık sitelere. Bununla da sınırlı kalmadı, bu siteler bizim yaptığımız her hareketi perde arkasından izler oldular. Ticari olarak normal bir aktivite. Çünkü bizi izleyerek nelerden hoşlandığımızı anlayıp ona göre kendi içeriklerinden (okutulacak bir yazı olur, gösterilecek bir reklam olur ya da  satılacak bir ürün olur) bizim en ilgimizi çekebileceği bulabilmek ve bize sunabilmek için bunu yaptılar. 
 
@@ -42,7 +42,7 @@ Bu iki soru birbiri ile çelişkili çünkü dijital dünyada işlem yapabilmek 
 
 İşte burada asıl kritik soru çıkıyor: Merkezi bir otorite tarafından onaylanmadan, bilgilerimi kimse ile paylaşmadan ya da takip edilmeden, kısaca ben olduğum anlaşılmadan dijital dünyada kredibilite sahibi biri olarak işlem yapmam mümkün mü? Kendi kendime hiçbir dış otoriteye bağlı olmadan tamamen kendi kontrolümde bir dijital kredibilite yaratabilir miyim?
 
-Bu konu önümüzdeki günlerde en önemli tartışma konularından biri olacak belli ki. Facebook kurucusu Mark Zuckerberg de bu konuda yaptığı yorumda, Blockchain teknolojilerinin Kullanıcı girişi/Kimliği ve Kullanıcı bilgisinin depolanması konusunda kullanım alanı olduğundan bahsetmiş. Örnek olarak da Facebook Connect'in yerini bir gün Blockchain bazlı bir çözümün (eminin Facebook'un kendi Blockchain'i olacak bu) alabileceğini belirtmiş. 
+Bu konu önümüzdeki günlerde en önemli tartışma konularından biri olacak belli ki. Facebook kurucusu Mark Zuckerberg de bu konuda yaptığı yorumda, Blockchain teknolojilerinin Kullanıcı girişi/Kimliği ve Kullanıcı bilgisinin depolanması konusunda kullanım alanı olduğundan bahsetmiş. Örnek olarak da [Facebook Connect]((https://whatis.techtarget.com/definition/Facebook-Connect))'in yerini bir gün Blockchain bazlı bir çözümün (eminin Facebook'un kendi Blockchain'i olacak bu) alabileceğini belirtmiş. 
 
 [![Zuckerberg'in Blockchain Düşünceleri](/assets/zuckerberg_blockhain_400.png)](https://twitter.com/hackapreneur/status/1099341714953781248)
 
