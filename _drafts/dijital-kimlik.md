@@ -42,7 +42,7 @@ Bu iki soru birbiri ile çelişkili çünkü dijital dünyada işlem yapabilmek 
 
 İşte burada asıl kritik soru çıkıyor: Merkezi bir otorite tarafından onaylanmadan, bilgilerimi kimse ile paylaşmadan ya da takip edilmeden, kısaca ben olduğum anlaşılmadan dijital dünyada kredibilite sahibi biri olarak işlem yapmam mümkün mü? Kendi kendime hiçbir dış otoriteye bağlı olmadan tamamen kendi kontrolümde bir dijital kredibilite yaratabilir miyim?
 
-Bu konu önümüzdeki günlerde en önemli tartışma konularından biri olacak belli ki. Facebook kurucusu Mark Zuckerberg de bu konuda yaptığı yorumda, Blockchain teknolojilerinin Kullanıcı girişi/Kimliği ve Kullanıcı bilgisinin depolanması konusunda kullanım alanı olduğundan bahsetmiş. Örnek olarak da [Facebook Connect]((https://whatis.techtarget.com/definition/Facebook-Connect))'in yerini bir gün Blockchain bazlı bir çözümün (eminin Facebook'un kendi Blockchain'i olacak bu) alabileceğini belirtmiş. 
+Bu konu önümüzdeki günlerde en önemli tartışma konularından biri olacak belli ki. Facebook kurucusu Mark Zuckerberg de bu konuda yaptığı yorumda, Blockchain teknolojilerinin Kullanıcı girişi/Kimliği ve Kullanıcı bilgisinin depolanması konusunda kullanım alanı olduğundan bahsetmiş. Örnek olarak da [Facebook Connect]((https://whatis.techtarget.com/definition/Facebook-Connect)'in yerini bir gün Blockchain bazlı bir çözümün (eminin Facebook'un kendi Blockchain'i olacak bu) alabileceğini belirtmiş. 
 
 [![Zuckerberg'in Blockchain Düşünceleri](/assets/zuckerberg_blockhain_400.png)](https://twitter.com/hackapreneur/status/1099341714953781248)
 
