@@ -2,7 +2,7 @@
 
 Blockchain bazlı teknolojilerin en önemli kullanım alanlarından biri, artık içinde kaybolmaya başladığımız dijital dünyada kendimize ait kimliğimizi ve bilgilerimizi tekrar bizim emrimize vermesi olabilir. Gelin ne demek istediğimizi biraz daha açalım: 
 
-## Kimlik ihtiyacı ve arayışı
+### Kimlik ihtiyacı ve arayışı
 
 Bu dünyada kim olduğumuzu kanıtlamak için hep bir başka otoritenin bizi değerlendirmesi ve uygun görmesine ihtiyaç duyduk. Bir ülkenin vatandaşı isek o ülkede yaşayabilmek için nüfus cüzdanı çıkarttık, ülke dışı dünyanın başka bir yerine seyahat etmek istediğimizde yine ülkemizin pasaportunu aldık. 
 
@@ -10,7 +10,7 @@ Aynı şekilde, alışveriş yapabilmek için kredi kartı sahibi olmaya çalı�
 
 Yani kendimizi birilerine tanıtırken ya da bir ticari aktivite yaparken hep bir üçüncü partinin bizi onaylamasına ihtiyaç duyduk. Bu çok normal. Zira dünyada milyarlarca insan var, bu insanları tek tek tanımanız mümkün değil. Binlerce sahtekar ve şarlatan da var. Nasıl ve kime güveneceksiniz? Birilerinin size bu kişilere güvenmek için bir tescil sistemi getirmesi zorunlu. 
 
-## Dijital dünyada kimlik
+### Dijital dünyada kimlik
 
 Sonrasında hayatımıza internet girdi. Dijital hayatta kişiler arası temasın yüzyüze yani fiziksel olmaması güvenliğe duyulan ihtiyacı kat be kat artırdı. Dijital hayatta da benzer şekilde kendimizi tanıtmak ve kim olduğumuzu kanıtlamak için bize kredibilite sağlayacak araçlar kullanmak daha büyük bir zorunluluk haline geldi. 
 
@@ -28,7 +28,7 @@ Ama bunun sıkıntıları kısa süre sonra ortaya çıktı. Bir baktık, kullan
 
 Çalınma bir yana. Bu sitelerin "ticari" amaçlar ile bizim bilgimizi "bizim iznimizi alarak" başkaları ile paylaşmaları? Gitgide gelişen algoritmalar, güçlenen işlemciler sayesinde, bizi bizden iyi tanıyan ve bizi manipüle etmeye başlayan web siteleri? 2016 başkanlık seçimi sırasında [Facebook üzerinden Cambridge Analitica tarafından](https://www.vox.com/policy-and-politics/2018/3/23/17151916/facebook-cambridge-analytica-trump-diagram) yapılan kitleleri belli politik hareketlere yönlendirmeler? 
 
-### Yaman çelişkiler
+#### Yaman çelişkiler
 
 İşte bütün bu yukarıda yazdıklarımız bizim için çok önemli ama birbiri ile çelişkili iki soruyu bir araya getiriyor?
 - Dijital dünyada kendime ait bilgilerin çalınmasını ya da bana karşı kullanılmasını nasıl önleyeceğim?
@@ -38,7 +38,7 @@ Bu iki soru birbiri ile çelişkili çünkü dijital dünyada işlem yapabilmek 
 
 Üstelik bir yandan da sadece bilgi vermem de önemli değil. Benim aktivitelerimi de takip etmesin. Zira, yeni algoritmik modellemeler Facebook'tan "like" ettiklerinize bakarak 10 like ile iş arkadaşınıza daha iyi biliyor sizi.  150 like ile aile bireylerinizden. Ve sıkı duru: 300 like'ınızda ise eşinizden bile daha iyi tanıyor büyük veri madencileri sizi. 
 
-### Kritik sorular ve Blockchain
+#### Kritik sorular ve Blockchain
 
 İşte burada asıl kritik soru çıkıyor: Merkezi bir otorite tarafından onaylanmadan, bilgilerimi kimse ile paylaşmadan ya da takip edilmeden, kısaca ben olduğum anlaşılmadan dijital dünyada kredibilite sahibi biri olarak işlem yapmam mümkün mü? Kendi kendime hiçbir dış otoriteye bağlı olmadan tamamen kendi kontrolümde bir dijital kredibilite yaratabilir miyim?
 
