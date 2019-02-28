@@ -30,7 +30,7 @@ Ama bunun sıkıntıları kısa süre sonra ortaya çıktı. Bir baktık, kullan
 
 #### Yaman çelişkiler
 
-İşte bütün bu yukarıda yazdıklarımız bizim için çok önemli ama birbiri ile çelişkili iki soruyu bir araya getiriyor?
+İşte bütün bu yukarıda yazdıklarımız bizim için çok önemli ama birbiri ile çelişkili iki soruyu bir araya getiriyor:
 - Dijital dünyada kendime ait bilgilerin çalınmasını ya da bana karşı kullanılmasını nasıl önleyeceğim?
 - Bir yandan da benim ben olduğumu kanıtlayarak dijital dünyada rahatça hareket edeceğim?
 
@@ -38,14 +38,20 @@ Bu iki soru birbiri ile çelişkili çünkü dijital dünyada işlem yapabilmek 
 
 Üstelik bir yandan da sadece bilgi vermem de önemli değil. Benim aktivitelerimi de takip etmesin. Zira, yeni algoritmik modellemeler Facebook'tan "like" ettiklerinize bakarak 10 like ile iş arkadaşınıza daha iyi biliyor sizi.  150 like ile aile bireylerinizden. Ve sıkı duru: 300 like'ınızda ise eşinizden bile daha iyi tanıyor büyük veri madencileri sizi. 
 
+Yukarıdaki sorular ile bağlantılı bir üçüncü kritik soru da şu: Dijital dünyada kimlik olarak kendim ile özdeşleştirdiğim bana ait bilgilerin doğru olduğunu nasıl kanıtlayacağım?
+
 #### Kritik sorular ve Blockchain
 
 İşte burada asıl kritik soru çıkıyor: Merkezi bir otorite tarafından onaylanmadan, bilgilerimi kimse ile paylaşmadan ya da takip edilmeden, kısaca ben olduğum anlaşılmadan dijital dünyada kredibilite sahibi biri olarak işlem yapmam mümkün mü? Kendi kendime hiçbir dış otoriteye bağlı olmadan tamamen kendi kontrolümde bir dijital kredibilite yaratabilir miyim?
 
-Önceki [yazımızda](https://ademimerkezi.com/genel/2019/02/14/Blockchain-finans-dunyasini-nasil-etkileyecek.html) bahsettiğimiz Decentralized Finance (DeFi) hareketi ile hararetlenen Dijital Kimlik konusu önümüzdeki günlerin en önemli tartışma alanlarından biri olacak belli ki. Facebook kurucusu Mark Zuckerberg de bu konuda yaptığı yorumda, Blockchain teknolojilerinin Kullanıcı girişi/Kimliği ve Kullanıcı bilgisinin depolanması konusunda kullanım alanı olduğundan bahsetmiş. Örnek olarak da [Facebook Connect](https://whatis.techtarget.com/definition/Facebook-Connect)'in yerini bir gün Blockchain bazlı bir çözümün (eminin Facebook'un kendi Blockchain'i olacak bu) alabileceğini belirtmiş. 
+Önceki [yazımızda](https://ademimerkezi.com/genel/2019/02/14/Blockchain-finans-dunyasini-nasil-etkileyecek.html) bahsettiğimiz Decentralized Finance (DeFi) hareketi ile hararetlenen Dijital Kimlik konusu önümüzdeki günlerin en önemli tartışma alanlarından biri olacak belli ki. Neden? DeFi platformlarının önde gelenlerinden MakerDAO, dijital dünyada kredi veriyor. Ancak kredi verilen kişinin kimliğinin belirsizliği, dijital kredibilitesinin olmaması nedeniyle kredi skorlaması yapılamıyor. Kredi skorlaması olmamasının en büyük handikapı, riskleri kişi bazında ayrıştıramamanız, herkesi aynı kategoride yani yüksek risk olarak algılamanız. Bu nedenle, MakerDAO platformundan alacağınız herhangi bir krediyi %150 oranında teminatlandırmak zorundasınız. Eğer dijital bir kimlik yaratabilseniz (bilgilerinizi kimse ile paylaşmadan ama doğru olduklarını teyid ederek) o zaman, daha düşük bir risk grubundan daha az teminat ile borçlanma yapabilirsiniz. 
 
-[![Zuckerberg'in Blockchain Düşünceleri](/assets/zuckerberg_blockhain_400.png)](https://twitter.com/hackapreneur/status/1099341714953781248)
 
 ### Arkası yarın
+
+
+ Facebook kurucusu Mark Zuckerberg de bu konuda yaptığı yorumda, Blockchain teknolojilerinin Kullanıcı girişi/Kimliği ve Kullanıcı bilgisinin depolanması konusunda kullanım alanı olduğundan bahsetmiş. Örnek olarak da [Facebook Connect](https://whatis.techtarget.com/definition/Facebook-Connect)'in yerini bir gün Blockchain bazlı bir çözümün (eminin Facebook'un kendi Blockchain'i olacak bu) alabileceğini belirtmiş. 
+
+[![Zuckerberg'in Blockchain Düşünceleri](/assets/zuckerberg_blockhain_400.png)](https://twitter.com/hackapreneur/status/1099341714953781248)
 
 Dijital dünyada kimliğimiz ve bunun özellikle finans dünyasına yansımalarına ise önümüzdeki yazılarda bakalım artık.
