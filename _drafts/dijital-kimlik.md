@@ -42,7 +42,11 @@ Ama kime vereceğim bu kısıtlı bilgiyi? Merkezi bir otoriteye mi? Facebook'a 
 
 #### Kritik sorular ve Blockchain
 
-İşte burada asıl kritik soru çıkıyor: Merkezi bir otorite tarafından onaylanmadan, bilgilerimi kimse ile paylaşmadan ya da takip edilmeden, kısaca ben olduğum anlaşılmadan dijital dünyada kredibilite sahibi biri olarak işlem yapmam mümkün mü? Kendi kendime hiçbir dış otoriteye bağlı olmadan tamamen kendi kontrolümde bir dijital kredibilite yaratabilir miyim?
+İşte burada Blockchain için önemli bir kullanma alanı yaratabilecek kritik soru önümüze çıkıyor: 
+
+Merkezi bir otorite tarafından onaylanmadan, bilgilerimi kimse ile paylaşmadan ya da takip edilmeden, kısaca ben olduğum anlaşılmadan dijital dünyada kredibilite sahibi biri olarak işlem yapmam mümkün mü? Kendi kendime hiçbir dış otoriteye bağlı olmadan tamamen kendi kontrolümde bir dijital kredibilite yaratabilir miyim?
+
+#### Finans dünyasında dijital kimlik ve kredibilitenin önemi
 
 Önceki [yazımızda](https://ademimerkezi.com/genel/2019/02/14/Blockchain-finans-dunyasini-nasil-etkileyecek.html) bahsettiğimiz Decentralized Finance (DeFi) hareketi ile hararetlenen Dijital Kimlik konusu önümüzdeki günlerin en önemli tartışma alanlarından biri olacak belli ki. Neden? 
 
