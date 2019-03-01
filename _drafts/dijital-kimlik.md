@@ -20,6 +20,9 @@ Herhangi bir siteye girerken, kendimizi tanıtmak için o siteden bir kullanıc�
 
 Ancak bir süre sonra işler karışmaya başladı. Girdiğimiz ya da işlem yaptığımız sitelerin sayıları önce bir kaç tane idi ama kısa zamanda onlarca hatta yüzlerce siteye kullanıcı adı ve parola girmeye başladık. Aynı ad ve parolayı başka sitelerde kullandık, çünkü en nihayetinde insanız, ne kadar farklı parola aklımızda tutabiliriz ki?
 
+
+![password-_640.jpg](/assets/password-_640.jpg)
+
 Bu kadar çok siteden farklı parola istenince ve biz bu hengame ile baş edemeyince, ağır abiler yardımımıza koştu. Google ve Facebook bize dediler ki: "Sen gel bana, bir kere kaydol, gerisine karışma, istediğin siteye benim araçlarımı kullanarak gir". Oh ne rahat. Aklımızda tutmamız gereken tek şey [Google](https://developers.google.com/identity/) ya da [Facebook](https://developers.facebook.com/docs/facebook-login/) kullanıcı adı ve parolamız, o kadar. 
 
 Sadece parola da değildi bizden istenen. Kendimiz ile ilgili pek çok bilgiyi de vermeye başladık sitelere. Bununla da sınırlı kalsa iyi, bu siteler bizim yaptığımız her hareketi de perde arkasından izler oldular. Ticari olarak normal bir aktivite. Çünkü bizi izleyerek nelerden hoşlandığımızı anlayıp ona göre kendi içeriklerinden (okutulacak bir yazı olur, gösterilecek bir reklam  ya da  satılacak bir ürün olur, her ne ise) bizim en ilgimizi çekebileceği bulabilmek ve bize sunabilmek için bunu yaptılar. 
