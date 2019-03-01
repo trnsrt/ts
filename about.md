@@ -12,10 +12,10 @@ Dağıtık (merkezi olmayan, adem-i merkezi) her tür teknoloji ve finans dünya
   - [Geceleri uykunuzu ne kaçırıyor](/genel/2018/03/01/Geceleri-uykunuzu-ne-kaciriyor.html)
   - [Sahi nedir bu Blockchain Allah aşkına?](/genel/2018/03/02/Sahi-nedir-bu-blockchain-allah-askina.html) 
 - Blockchain'in değişik alanlarda getirdiği potansiyel yenilikler için
-  - [İyilik için Blockchain](/genel/2018/03/29/Iyilik-icin-blockchain.html), 
-  - [Sanat için Blockchain](/genel/2018/03/29/Iyilik-icin-blockchain.html), 
-  - [Sağlık için Blockchain](/genel/2018/04/17/saglik-icin-blockchain.html), 
-  - [Seyahat için Blockchain](/ademimerkezi.com/genel/2018/07/06/seyahat-icin-blockchain.html), 
+  - [İyilik için Blockchain](/genel/2018/03/29/Iyilik-icin-blockchain.html) 
+  - [Sanat için Blockchain](/genel/2018/03/29/Iyilik-icin-blockchain.html) 
+  - [Sağlık için Blockchain](/genel/2018/04/17/saglik-icin-blockchain.html) 
+  - [Seyahat için Blockchain](/ademimerkezi.com/genel/2018/07/06/seyahat-icin-blockchain.html)
   - [Çevre için Blockchain](/ademimerkezi.com/genel/2018/11/16/cevre-icin-blockhain.html), ve [devamı](/genel/2018/11/17/cevre-icin-blockchaine-devam.html) 
   - [Geleceği tahmin için Blockchain](/genel/2018/07/13/gelecegi-tahmin-icin-blockchain.html), 
   - [Tedarik zinciri için Blockchain](/genel/2018/08/17/tedarik-zinciri-icin-blockchain.html)
@@ -44,7 +44,7 @@ Dağıtık (merkezi olmayan, adem-i merkezi) her tür teknoloji ve finans dünya
   - [Madencilik 2.0: Beyaz yakalıdan madenci olur mu?](/genel/2019/01/11/madencilik-2-0-beyaz-yakalidan-madenci-olur-mu.html)
   
   &nbsp;
-- Daha pekçok yeni teknolojiye altyapı sağlayan Ethereum'u merak ediyorsanız
+- Daha pek çok yeni teknolojiye altyapı sağlayan Ethereum'u merak ediyorsanız
   - Ethereum'um tarihi için [Dünyanın en büyük bilgisayarı: Ethereum'un hikayesi](/genel/2018/06/14/dunyanin-en-buyuk-bilgisayari-ethereumun-hikayesi.html)
   - 2017-18 yıllarında yaşananlar için [Ethereum'un çıkış ve inişi bir döngünün mü parçası?](/genel/2019/01/18/Ethereumun-cikis-ve-inisi-bir-dongunun-mu-parcasi.html)
   - En temel taşı olan Akıllı Kontratlar'ı anlamak için [Bu kontratlar çok akıllı: Ethereum ve Akıllı Kontratlar](/genel/2018/06/29/bu-kontratlar-cok-akilli-ethereum-ve-akilli-kontratlar.html)
