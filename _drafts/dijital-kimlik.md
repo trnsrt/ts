@@ -1,6 +1,6 @@
 
 
-Blockchain bazlı teknolojilerin en önemli kullanım alanlarından biri, artık içinde kaybolmaya başladığımız dijital dünyada kendimize ait kimliğimizi ve bilgilerimizi tekrar bizim emrimize vermesi olabilir. Gelin ne demek istediğimizi biraz daha açalım: 
+Blockchain bazlı teknolojilerin en önemli kullanım alanlarından biri, artık içinde kaybolmaya başladığımız dijital dünyada kendimize ait kimliğimizi ve bilgilerimizi tekrar bizim emrimize vermesi olabilir. Gelin biraz daha geniş açıdan konuya bir göz atalım: 
 
 ### Kimlik ihtiyacı ve arayışı
 
