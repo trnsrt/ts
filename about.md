@@ -24,7 +24,7 @@ Dağıtık (merkezi olmayan, adem-i merkezi) her tür teknoloji ve finans dünya
   - [Değişen Girişimcilik ve Yatırımcılık](/genel/2018/05/17/degisen-girisimcilik-ve-yatirimcilik.html)
   - [Girişimler yeni teknolojiler ile nasıl demokratikleşiyor?](/genel/2018/05/21/girisimler-yeni-teknolijler-ile-nasil-demokratiklesiyor.html)
 - Dijital dünyada bize nasıl fayda sağlayabileceğini görmek için 
-  - Dijital kimliğinize iyi bakın
+  - [Dijital kimliğinize iyi bakın](https://ademimerkezi.com/genel/2019/03/01/dijital-kimliginize-iyi-bakin.html)
 - Blockchain konusuna madalyonun öbür yüzünü de gözden kaçırmamak için 
   - [Blockchain her derde deva mı?](/genel/2018/08/03/blockchain-her-derde-deva-mi.html)
   - [Blockchain bulunduğum sektöre yarar mı?](/genel/2018/08/10/Blockchain-bulundugum-sektore-yarar-mi.html)
@@ -65,7 +65,8 @@ Dağıtık (merkezi olmayan, adem-i merkezi) her tür teknoloji ve finans dünya
   - MimbleWimble protokolü için - [ MimbleWimble aranan mahremiyet büyüsü mü?](https://ademimerkezi.com/genel/2019/01/23/miblewimble-aranan-mahremiyet-buyusu-mu.html)
   - Bitcoin’e alternatif ödeme araçlarında Grin için  - [Geleceğin ödeme aracı Grin mi olacak?](https://ademimerkezi.com/genel/2019/01/24/gelecegin-odeme-araci-grin-mi-olacak.html)
   - MimbleWimble ve Grin’in teknik olarak Bitcoin ile benzeşen ve ayrışan tarafları için  - [Grin’e teknik bakış](https://ademimerkezi.com/genel/2019/01/25/Grine-teknik-bakis.html)
-  
+
+&nbsp;
   
 - KriptoPara Borsalarına yatırım yapmak istiyor ancak nereden başlayacağınızı bilmiyorsanız 
   - [KriptoBorsa'larda nasıl işlem yaparım?](/genel/2018/10/04/kriptoborsalarda-nasil-islem-yaparim.html)
