@@ -17,7 +17,7 @@ Dağıtık (merkezi olmayan, adem-i merkezi) her tür teknoloji ve finans dünya
   - [Sağlık için Blockchain](/genel/2018/04/17/saglik-icin-blockchain.html) 
   - [Seyahat için Blockchain](/ademimerkezi.com/genel/2018/07/06/seyahat-icin-blockchain.html)
   - [Çevre için Blockchain](/ademimerkezi.com/genel/2018/11/16/cevre-icin-blockhain.html), ve [devamı](/genel/2018/11/17/cevre-icin-blockchaine-devam.html) 
-  - [Geleceği tahmin için Blockchain](/genel/2018/07/13/gelecegi-tahmin-icin-blockchain.html), 
+  - [Geleceği tahmin için Blockchain](/genel/2018/07/13/gelecegi-tahmin-icin-blockchain.html) 
   - [Tedarik zinciri için Blockchain](/genel/2018/08/17/tedarik-zinciri-icin-blockchain.html)
   - [Blockchain finans dünyasını nasıl etkileyecek?](/genel/2019/02/14/Blockchain-finans-dunyasini-nasil-etkileyecek.html)
 - Blockchain bazlı teknolojilerin girişimcilik ve yatırımcılık ekosistemlerini nasıl değiştirdiğini merak ediyorsanız
