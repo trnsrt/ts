@@ -76,4 +76,4 @@ Facebook kurucusu Mark Zuckerberg de bu konuda yaptığı yorumda, Blockchain te
 
 &nbsp;
 
-*Not: Yazdığımız 45+ yazının bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](/about/) sayfasına göz atabilirsiniz.*
+*Not: Yazdığımız 50+ yazının bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](/about/) sayfasına göz atabilirsiniz.*
