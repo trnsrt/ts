@@ -43,11 +43,11 @@ Zira, yeni algoritmik modellemeler Facebook'tan "like" ettiklerinize bakarak 10 
 
 İşte bütün bu yukarıda yazdıklarımız bizim için çok önemli ama birbiri ile çelişkili iki soruyu bir araya getiriyor:
 - Dijital dünyada kendime ait bilgilerin çalınmasını ya da bana karşı kullanılmasını nasıl önleyeceğim?
-- Bir yandan da kendim olduğumu kanıtlayarak dijital dünyada rahatça hareket edeceğim, onun nimetlerinden faydalanacağım?
+- Bir yandan da kendim olduğumu kanıtlayarak dijital dünyada nasıl rahatça hareket edeceğim, onun nimetlerinden nasıl faydalanacağım?
 
-Bu iki soru birbiri ile çelişkili çünkü dijital dünyada işlem yapabilmek için kendimi diğerlerine kanıtlamak zorundayım. Aksi takdirde başkası benim adıma işlem yapabilir. Ama öte yandan kendimi kanıtlamak için verdiğim bilgiler benim aleyhime kullanılabilir. Peki kısıtlı bilgi vereyim. Bu belki olabilir? 
+Bu iki soru birbiri ile çelişkili çünkü dijital dünyada işlem yapabilmek için kendimi diğerlerine kanıtlamak zorundayım. Aksi takdirde başkası benim adıma işlem yapabilir. Ama öte yandan kendimi kanıtlamak için verdiğim bilgiler benim aleyhime kullanılabilir. 
 
-Ama kime vereceğim bu kısıtlı bilgiyi? Merkezi bir otoriteye mi? Facebook'a mı örneğin? Neler karıştırdığını gördük yukarıda. Nasıl güveneceğim merkezi bir otoritenin yarın öbür gün bu bilgileri benim aleyhime kullanmayacağına, bu bilgileri satmayacağına, beni manipüle etmeye kalkışmayacağına?
+Kısıtlı bilgi vereyim o zaman? Peki. Ama kime vereceğim bu kısıtlı bilgiyi? Merkezi bir otoriteye mi? Facebook'a mı örneğin? Neler karıştırdığını gördük yukarıda. Nasıl güveneceğim merkezi bir otoritenin yarın öbür gün bu bilgileri benim aleyhime kullanmayacağına, bu bilgileri satmayacağına, beni manipüle etmeye kalkışmayacağına?
 
 #### Kritik sorular ve Blockchain
 
