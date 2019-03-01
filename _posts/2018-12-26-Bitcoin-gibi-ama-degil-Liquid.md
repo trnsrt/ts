@@ -50,10 +50,10 @@ Bitcoin'in bağımsız yapısını ön plana çıkaranlar Liquid Network gibi ya
 Her ne kadar yukarıdaki eleştirileri yazsak da, özünde Liquid kullanıcılara fayda sağlayan bir yapı. Riskler de katlanılabilir görünüyor. Bitcoin'in kullanan kişilerinin her birinin ondan beklentisi farklı. Kimi hızlı işlem yapmak isterken, kimi gizlilik kimi de baskılara karşı koyabilme özelliğini nedeniyle Bitcoin kullanıyor. Liquid hızlı işlem yapmak ve bu işlemler için yüksek komisyon vermek istemeyenlere uygun bir yapı. Bitcoin'in kurumsal yatırımcılar tarafından daha sık kullanılmasını sağlayacağı bunun sonucu da piyasadaki likiditeyi artırıcı bir faydası olacağı düşünülüyor. Yani özünde aynı Lightning Network gibi Bitcoin'in gelecekte geniş kitlelerce adaptasyonuna yardımcı olmaya çalışan bir araç. Başarılı olacaklar mı yakından takip edeceğiz... 
 
 
----
+--
 
 * Hep dediğimiz gibi Fiat paranızı bankada tuttuğunuzda banka riski alıyorsunuz. Kimseye güvenmeyecek kadar paranoyak iseniz alıp yastığınızın altına koyabilirsiniz ama orada da evinize hırsız girebilir. Bitcoin Kriptocüzdanlar sayesinde kendinizde tutabileceğiniz ve gerçekten sahip olduğunuzu kanıtlayabileceğiniz tek sanal para belki de. Kendi özel anahtarınızı bir kağıda yazdıktan sonra (kağıdı kaybetmemek şartıyla) sizden kimse alamaz ve bu kağıt ile birlikte parayı istediğiniz her yere götürebilirsiniz (isterseniz kağıda bile yazmayın ve hafınıza güveniyorsanız bu karmaşık şifreyi ezberleyin, size kalmış).
----
+
 
 &nbsp;
 
