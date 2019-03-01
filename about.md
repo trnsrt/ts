@@ -23,6 +23,8 @@ Dağıtık (merkezi olmayan, adem-i merkezi) her tür teknoloji ve finans dünya
 - Blockchain bazlı teknolojilerin girişimcilik ve yatırımcılık ekosistemlerini nasıl değiştirdiğini merak ediyorsanız
   - [Değişen Girişimcilik ve Yatırımcılık](/genel/2018/05/17/degisen-girisimcilik-ve-yatirimcilik.html)
   - [Girişimler yeni teknolojiler ile nasıl demokratikleşiyor?](/genel/2018/05/21/girisimler-yeni-teknolijler-ile-nasil-demokratiklesiyor.html)
+- Dijital dünyada bize nasıl fayda sağlayabileceğini görmek için 
+  - Dijital kimliğinize iyi bakın
 - Blockchain konusuna madalyonun öbür yüzünü de gözden kaçırmamak için 
   - [Blockchain her derde deva mı?](/genel/2018/08/03/blockchain-her-derde-deva-mi.html)
   - [Blockchain bulunduğum sektöre yarar mı?](/genel/2018/08/10/Blockchain-bulundugum-sektore-yarar-mi.html)
@@ -58,6 +60,13 @@ Dağıtık (merkezi olmayan, adem-i merkezi) her tür teknoloji ve finans dünya
   - Bitcoin'in belli özelliklerini taşıyıp belli sıkıntılarını gidermeye çalışan alternatif KriptoParalar için [Token Dünyası'na devam. Diğer KriptoParalar: Litecoin, Monero, Dash, Zcash](/genel/2018/06/07/token-dunyasina-devam-diger-kriptopalar-litecoin-monero-dash-zcash.html)
   - [Ripple ne? Gerçekten değerli mi bu kadar?](/genel/2018/09/28/ripple-ne-gercekten-degerli-mi-bu-kadar.html)
   - ICO dünyasında yatırım yapmaya niyetiniz varsa [ICO Yatırım Rehberi](/genel/2018/09/14/ico-yatirim-rehberi.html) ve [ICO Yatırım Rehberi'ne Devam](/genel/2018/09/21/ico-yatirim-rehberine-devam.html)
+  
+- Bitcoin benzeri son çıkan teknolojiler ilginizi çekiyorsa
+  - MimbleWimble protokolü için - [ MimbleWimble aranan mahremiyet büyüsü mü?](https://ademimerkezi.com/genel/2019/01/23/miblewimble-aranan-mahremiyet-buyusu-mu.html)
+  - Bitcoin’e alternatif ödeme araçlarında Grin için  - [Geleceğin ödeme aracı Grin mi olacak?](https://ademimerkezi.com/genel/2019/01/24/gelecegin-odeme-araci-grin-mi-olacak.html)
+  - MimbleWimble ve Grin’in teknik olarak Bitcoin ile benzeşen ve ayrışan tarafları için  - [Grin’e teknik bakış](https://ademimerkezi.com/genel/2019/01/25/Grine-teknik-bakis.html)
+  
+  
 - KriptoPara Borsalarına yatırım yapmak istiyor ancak nereden başlayacağınızı bilmiyorsanız 
   - [KriptoBorsa'larda nasıl işlem yaparım?](/genel/2018/10/04/kriptoborsalarda-nasil-islem-yaparim.html)
   - [Paranız KriptoCüzdan ile güvende](/genel/2018/10/11/KriptoParaniz-KriptoCuzdan-ile-guvende.html)
