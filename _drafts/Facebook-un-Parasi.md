@@ -69,5 +69,5 @@ Neden? Temel nedeni bilinmezlik. Nasıl önlersiniz? Ya kendiniz bakıp öğrene
 
 İşte bu nedenle FaceCoin, bu alanda ortaya çıkan önyargıları yıkmak için çok önemli bir araç. Zira, Facebook insanımızın çok güvendiği bir mecra (Türkiye'deki milyonlarca kullanıcının bütün özel hayatını ortaya döktüğü, kişisel bilgilerini rahatça verdiği bir yer). Facebook'un bu alana girmesi insanların KriptoPara'ya olan bakışını değiştirecek, (zira çevrelerindeki insanların bildikleri bir mecrada kullandıkları bu ürüne zamanla 'aşina' olacaklar), bu kavramın üzerine yapışan "bilinmez" "kanun dışı" gibi yaftaları atmak için faydalı olacak ve KriptoParalar'ın geniş kitlelerce adaptasyonunu kolaylaştıracak bir kritik bir adım. 
 
-FaceCoin özelinde ise bu paranın Facebook'a fayda getireceği kesin. Geniş kitlelere ise önyargılarını yıkmak dışında başka faydası olacak mı? Hep birlikte göreceğiz. 
+FaceCoin özelinde bu paranın Facebook'a fayda getireceği kesin. Geniş kitlelere ise önyargılarını yıkmak dışında başka faydası olacak mı? Hep birlikte göreceğiz. 
 
