@@ -27,18 +27,20 @@ Yine aynı NYTimes [yazısına](https://www.nytimes.com/2019/02/28/technology/cr
 
 ### Ne olacak içinde?
 
-Aslında ilginç olan Facebook'un bir para çıkarması değil, Blockchain bazlı ne tip çalışmalar yaptığı, nasıl iş planları geliştirdiği ve bu paranın bu planların içinde nasıl yer alacağı. Bu arada şunu belirtelim: Her ne yapacaksa yapsın, sonuçta Facebook'un yapmak istediği kendi ağlarında bulunan 2.7 milyar insanın yarattığı ekosistemi sonuna kadar 'sağmak' olacak. 
+Aslında ilginç olan Facebook'un bir para çıkarmasından ziyade, Blockchain bazlı ne tip çalışmalar yaptığı, nasıl iş planları geliştirdiği ve bu paranın bu planların içinde nasıl yer alacağı konusu. 
+
+Bu arada baştan şunu belirtelim: Her ne yapacaksa yapsın, sonuçta Facebook'un amacı kendine ait ağlarında bulunan 2.7 milyar insanın yarattığı ekosistemi sonuna kadar 'sağmak' olacak. 
 
 Neler yapabilir? Çeşitli teoriler var. Gelin kısaca onlara bakalım: 
 
-#### Ödeme aracı olarak
+#### Ödeme aracı kurmak
 Dünyada milyarlarca insan var finansal sisteme girişi olmayan. Facebook bu insanların bir çoğunu kendi ekosistemine almış durumda. Hızlı, ucuz (banka komisyonu olmadan) kişiden kişiye (P2P) para transferini FaceCoin aracılığı ile yapmak ve pastadan pay almak en akla gelir yöntem. 
 
 Halihazırda [Facebook Messenger üzerinden bir başkasına para gönderme sistemi zaten mevcut](https://www.thebalance.com/facebook-messenger-payments-send-and-receive-money-315074) ancak bunun için Paypal kullanmanız gerekiyor (PayPal açmak, komisyonlar vb), Facebook şimdi bu aracıyı ortadan kaldırabilir. 
 
 Bir başka yöntem ise, sevdiğiniz içerik yaratıcılarına (örneğin oyun geliştiricilere) destek olmak. [Facebook Stars](https://www.facebook.com/fbgaminghome/blog/support-your-favorite-creator-with-stars) adında benzer bir sistem zaten mevcut - şimdi bunu bir KriptoPara üzerinden yaparak hem Facebook kullanıcılarına sevdikleri sanatçılara hızlıve rahat para gönderebilecekleri hem de içerik yaratıcılarına düşük komisyon ödeyecekleri (ve tabii tüm komisyonu Facebook'un cebine atacağı) geliştirilmiş bir hizmet planı olabilir. 
 
-#### Değer saklama aracı olarak
+#### Değer saklama aracı yaratmak
 FaceCoin'in kullanıcıların pratik olarak kullanmasını sağlamak için spekülatif hareketlerden uzak olması hedefleniyor. Bunun için de paranın birkaç büyük fiat paranın (ABD Doları, Euro vb) değerine çıpalanacağı belirtiliyor. Bu anlamda aslında bir nevi [daha önce bahsettiğimiz SabitPara](/genel/2018/07/20/Orasi-cok-dalgali-sakin-sulara-gel-sabitparalar.html) kavramına yakın bir para olacak bu. Çıkarılan her paranın ABD Doları ve Euro karşılığının Facebook adına bankalarda tutulduğu bir SabitPara. 
 
 #### Facebook ekosistemini korumak ve büyütmek
