@@ -36,7 +36,7 @@ Neler yapabilir? Çeşitli teoriler var. Gelin kısaca onlara bakalım:
 #### Ödeme aracı kurmak
 Dünyada milyarlarca insan var finansal sisteme girişi olmayan. Facebook bu insanların bir çoğunu kendi ekosistemine almış durumda. Hızlı, ucuz (banka komisyonu olmadan) kişiden kişiye (P2P) para transferini FaceCoin aracılığı ile yapmak ve pastadan pay almak en akla gelir yöntem. 
 
-Halihazırda [Facebook Messenger üzerinden bir başkasına para gönderme sistemi zaten mevcut](https://www.thebalance.com/facebook-messenger-payments-send-and-receive-money-315074) ancak bunun için Paypal kullanmanız gerekiyor (PayPal açmak, komisyonlar vb), Facebook şimdi bu aracıyı ortadan kaldırabilir. 
+Halihazırda [Facebook Messenger üzerinden bir başkasına para gönderme sistemi zaten mevcut](https://www.thebalance.com/facebook-messenger-payments-send-and-receive-money-315074) ancak bunun için Paypal kullanmanız gerekiyor (PayPal açmak, komisyonlar vb gibi bir sürü pürüz var ortada), Facebook şimdi bu aracıyı ortadan kaldırabilir. 
 
 Bir başka yöntem ise, sevdiğiniz içerik yaratıcılarına (örneğin oyun geliştiricilere) destek olmak. [Facebook Stars](https://www.facebook.com/fbgaminghome/blog/support-your-favorite-creator-with-stars) adında benzer bir sistem zaten mevcut - şimdi bunu bir KriptoPara üzerinden yaparak hem Facebook kullanıcılarına sevdikleri sanatçılara hızlıve rahat para gönderebilecekleri hem de içerik yaratıcılarına düşük komisyon ödeyecekleri (ve tabii tüm komisyonu Facebook'un cebine atacağı) geliştirilmiş bir hizmet planı olabilir. 
 
