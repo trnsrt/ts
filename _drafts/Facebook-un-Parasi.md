@@ -25,7 +25,7 @@ Yine aynı NYTimes [yazısına](https://www.nytimes.com/2019/02/28/technology/cr
 |:--:| 
 | *FaceCoin? [Kaynak](https://pixabay.com/vectors/facebook-icon-blue-social-media-1924510/)* |
 
-### Ne olacak içinde?
+### Blockchain kurmaktaki amacı ne Facebook'un?
 
 Aslında ilginç olan Facebook'un bir para çıkarmasından ziyade, Blockchain bazlı ne tip çalışmalar yaptığı, nasıl iş planları geliştirdiği ve bu paranın bu planların içinde nasıl yer alacağı konusu. 
 
