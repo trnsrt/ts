@@ -49,7 +49,7 @@ Kullanıcılara avantajlı bir şekilde verilecek FaceCoin'lerin Facebook ekosis
 
 Birincisi yazımızda da belirttiğimiz gibi Facebook'un kullanıcı bilgilerini satma konusunda geçmişte yaşadığı sıkıntılar aşikar - Mark Zuckerberg'in yukarıda bahsettiğimiz yazısı da bu anlamda bir özeleştiri. Şimdi FaceCoin ile yine kullanıcıları kendilerinde tutacakları ama onların mahremiyetini koruyacakları bir hizmet vaad edebilirler. 
 
-İkincisi ise Facebook Connect daha çok Web 2.0 diye adlandırabileceğimiz online hizmetler için kullanılıyor. Blockchain bazlı sistemlerde şirketten ziyade bir ekosistemden bahsediyor olmamız nedeniyle, Facebook kendi altyapısını ve 2 milyarı aşkın kullanıcısını bir ekosistem olarak düşünüyor olabilir. FaceCoin bu ekosistem üzerine kurulacak olan yeni girişimlerin (dApps'lar olarak adlandırabiliriz bunları) ortak kullanımına sunulan bir para işlevini de görebilir. 
+İkincisi ise Facebook Connect daha çok Web 2.0 diye adlandırabileceğimiz online hizmetler için kullanılıyor. Blockchain bazlı sistemlerde şirketten ziyade bir ekosistemden bahsediyor olmamız nedeniyle, Facebook kendi altyapısını ve 2 milyarı aşkın kullanıcısını bir ekosistem olarak düşünüyor olabilir. FaceCoin bu ekosistem üzerine kurulacak olan yeni girişimlerin (dApps'lar olarak adlandırabiliriz bunları) kullanımına sunulan bir altyapının ortak parası olma işlevini de görebilir. 
 
 ### Sorunlar, sıkıntılar
 Olmaz mı? Var tabii. Ancak Facebook'un Blockhain çözümlerini bile tam olarak bilmez iken, potansiyel sorunlara bakmak için erken olabilir. Ancak yukarıda saydığımız çözümlerin bir kısmı için halihazırda çözümü varken, Facebook neden Blockchain bazlı bir sistem ve buna bağlı bir KriptoPara çıkarır?
