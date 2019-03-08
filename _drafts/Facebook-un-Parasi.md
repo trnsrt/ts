@@ -37,7 +37,14 @@ Olmaz mı? Var tabii. Ancak Facebook'un Blockhain çözümlerini bile tam olarak
 
 Örneğin Blockchain bazlı özel bir sistem kurabilirdi. Kontrolün tamamen kendinde olduğu kapalı bir sistem. Bütün kurallarını kendinin koyduğu, ve geçmişte de olduğu gibi kullacıları kendi içinde tuttuğu. Sanki o yola gitmiyor şimdi. 
 
-Herhalde, en önemli nedeni kanuni regulasyonlar. Facebook doğası gereği her ülkenin kanuni otoriteleri ile uyumlu bir tavır sergilemek zorunda. Kişiden kişiye ödeme sistemlerini, bir değer saklama olarak para çıkarmayı düşündüğünüzde bu tip konularda hükümetler oldukça hassas. Özellikle kara para aklama konularında. Know your customer denen kullanıcının kim olduğunu bilmek olarak adlandırabileceğimiz kurallar oldukça katı. Facebook bu alanda tüm sorumluluğu üstlenmek yerine bir kısım sorumluluğu bu işin yükünü taşıyan KriptoPara borsalarına vermek isteyebilir. 
+Herhalde, en önemli nedeni kanuni regulasyonlar. Facebook doğası gereği her ülkenin kanuni otoriteleri ile uyumlu bir tavır sergilemek zorunda. Kişiden kişiye ödeme sistemlerini, bir değer saklama olarak para çıkarmayı düşündüğünüzde bu tip konularda hükümetler oldukça hassas. Özellikle kara para aklama konularında. Know your customer denen kullanıcının kim olduğunu bilmek olarak adlandırabileceğimiz kurallar oldukça katı. Facebook bu alanda tüm sorumluluğu üstlenmek yerine bir kısım sorumluluğu bu işin yükünü taşıyan KriptoPara borsalarına vermek istiyor olabilir. 
 
+### Sonuç - nereye varır bunun sonu?
+Burada bir örnek vermek istiyorum. Babam, eski bir bilgisayar kullanıcısı olmasına rağmen web ve online dünyayı hiç kullanmayan ve kuşkuyla yaklaşan biri oldu. Ama ne zaman ki kardeşim geçen yıl, bahçesine diktiği ağaçların nasıl aşı yapılacağını gösteren YouTube videoları gösterdi kendisine, bir anda tüm önyargıları yıkıldı (ve kendisine bir akıllı telefon aldı). Kulağa komik geliyor değil mi? 
 
+Aslında KriptoPara (ve bir miktar Blockchain) için de pek çok insan babamın internet'e bakışı gibi çekiniyorlar. Neden? Bilinmemezlikten dolayı. Nasıl önlersiniz, ya kendiniz bakıp öğreneceksiniz ya da çevrenizde insanlar kullanacak ki siz de çevrenizden aldığınız güçle kullanacaksınız. KriptoPara dünyasına baktığınızda, birincisi çok karışık ve teknik. Maalesef günümüzde insanların Blockchain ve KriptoParaları öğrenmek için zamanı ve gücü yok. Çevresine baktığında ise gördükleri maalesef medyada çıkan magazinsel haberler - ki çoğu şarlatanlar ve dolandırıcılar hakkında. 
+
+İşte bu nedenle FaceCoin, bu alanda ortaya çıkan önyargıları yıkmak için çok önemli bir araç. Zira, Facebook insanımızın çok güvendiği bir mecra (kendim için demiyorum ama Türkiye'deki milyonlarca kullanıcının bütün özel hayatını ortaya döktüğü, kişisel bilgilerini rahatça verdiği bir yer). Facebook'un bu alana girmesi insanların KriptoPara'ya olan bakışını değiştirecek ve adaptasyonunu kolaylaştıracak bir adım. 
+
+FaceCoin özelinde ise bu paranın Facebook'a fayda getireceği kesin. İnsanlara ise önyargılarını yıkmak dışında başka faydası olacak mı? Hep birlikte göreceğiz. 
 
