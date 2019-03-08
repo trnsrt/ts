@@ -28,3 +28,8 @@ Bir başka yöntem ise, sevdiğiniz sanatçılara destek olmak. Facebook Stars a
 
 #### Değer saklama aracı olarak
 FaceCoin'in kullanıcıların pratik olarak kullanmasını sağlamak için spekülatif hareketlerden uzak olması hedefleniyor. Bunun için de paranın birkaç büyük fiat paranın (ABD Doları, Euro vb) değerine çıpalanacağı belirtiliyor. Bu anlamda aslında bir nevi daha önce bahsettiğimiz SabitPara kavramına yakın bir para olacak bu. 
+
+#### Facebook ekosistemini korumak ve büyütmek
+Kullanıcılara avantajlı bir şekilde verilecek FaceCoin'lerin Facebook ekosisteminin içinde kullanılması da söz konusu olabilir. Örneğin, belli hizmetlerin satın alınmasında FaceCoin kullanımının belli iskontolar sağlaması gibi. Facebook içinde 6 milyon reklamcı ve 65 milyon küçük işletme olduğunu düşünürseniz, klasik anlamda Visa, Mastercard gibi ödeme sistemleri ile uğraşmak ve komisyon ödemek yerine FaceCoin üzerinden ödeme almak pek çok işletmeye cazip gelebilir. Facebook içinse, kullanıcıları ve ticari işletmeleri sisteminde tutabilmek için bulunmaz bir fırsat. 
+
+
