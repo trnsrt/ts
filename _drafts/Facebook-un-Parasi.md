@@ -19,6 +19,10 @@ Bu aslında çok normal. Mesajlaşma ve ödeme sistemlerinin birbirleri ile sine
 
 Yine aynı NYTimes [yazısında](https://www.nytimes.com/2019/02/28/technology/cryptocurrency-facebook-telegram.html) belirtildiği üzere Facebook dünyadaki belli başlı borsalar ile konuşarak 2019 yılının ilk yarısında bir KriptoPara çıkaracaklarını söylemiş. Yani FBCoin, Facecoin, FacebookCoin, MarkZuckerbergCoin artık ismi ne olacaksa büyük bir coin geliyor piyasalara (biz şimdilik FaceCoin diyelim)
 
+| ![facebook-1924510_640.png](/assets/facebook-1924510_640.png) | 
+|:--:| 
+| *FaceCoin? [Kaynak](https://pixabay.com/vectors/facebook-icon-blue-social-media-1924510/)* |
+
 ### Ne olacak içinde?
 
 Aslında ilginç olan Facebook'un bir para çıkarması değil, Blockchain bazlı ne tip çalışmalar yaptığı, nasıl iş planları geliştirdiği ve bu paranın bu planların içinde nasıl yer alacağı. Bu arada şunu belirtelim: Her ne yapacaksa yapsın, sonuçta Facebook'un yapmak istediği kendi ağlarında bulunan 2.7 milyar insanın yarattığı ekosistemi sonuna kadar sağmak olacak. 
