@@ -7,19 +7,19 @@ Geçtiğimiz günlerde gelen iki haber teknoloji dünyasında ciddi bir tartış
 
 Birbirinden bağımsız görünen ancak birbiri ile oldukça ilintili iki haber. Mark yine neler karıştırıyor acaba? 
 
-Efendim, özetle olay şu: Facebook kurduğu bir ekip ile birlikte Mayıs 2018'den beri büyük bir gizlilik ile kendi Blockchain'i üzerinde [çalışıyor](https://techcrunch.com/2018/08/10/facecoin/). Bu işin başına Facebook Messenger işinin başında [David Marcus](http://www.wikizeroo.net/index.php?q=aHR0cHM6Ly9lbi5tLndpa2lwZWRpYS5vcmcvd2lraS9EYXZpZF9BLl9NYXJjdXM)'u getirdiler. David Marcus sadece mesajlaşma üzerine uzmanlaşmış bir isim değil. Aynı zamanda PayPal'ın eski üst düzey yöneticilerinden. 
+Efendim, özetle olay şu: Facebook kurduğu bir ekip ile birlikte Mayıs 2018'den beri büyük bir gizlilik içinde kendi Blockchain'i üzerinde [çalışıyor](https://techcrunch.com/2018/08/10/facecoin/). Bu işin başına Facebook Messenger'dan sorumlu [David Marcus](http://www.wikizeroo.net/index.php?q=aHR0cHM6Ly9lbi5tLndpa2lwZWRpYS5vcmcvd2lraS9EYXZpZF9BLl9NYXJjdXM)'u getirdiler. David Marcus sadece mesajlaşma üzerine uzmanlaşmış bir isim değil. Aynı zamanda PayPal'ın eski başkanlarından. 
 
 | ![Dave_Marcus_profile_pic_400.png](/assets/Dave_Marcus_profile_pic_400.png) | 
 |:--:| 
 | *David Marcus [Kaynak](http://www.wikizeroo.net/index.php?q=aHR0cHM6Ly91cGxvYWQud2lraW1lZGlhLm9yZy93aWtpcGVkaWEvY29tbW9ucy9mL2ZiL0RhdmVfTWFyY3VzX3Byb2ZpbGVfcGljLnBuZw)* |
 
-Noktaları birleştiriyoruz. PayPal ödeme, Facebook Messenger iletişim araçları. Üzerine Zuckerberg'in yukarıdaki yazısında mahremiyet odaklı bir vizyondan söz ederken, tüm kendilerine ait tüm iletişim araçlarının (Facebook, Whatsapp ve Instagram) birbirleri ile konuşabilmeleri vizyonu.  Bütün bu ipuçları yukarıda belirttiğimiz New York Times makalesinde de yazıldığı gibi Whatsapp odaklı bir Blockchain sistemi üzerine çalıştıklarını gösteriyor. 
+PayPal ödeme sistemi, Facebook Messenger iletişim araçları. Üzerine Zuckerberg'in yukarıdaki yazısında mahremiyet odaklı bir vizyondan söz ederken, kendilerine ait tüm iletişim araçlarının (Facebook, Whatsapp ve Instagram) birbirleri ile konuşması vizyonu.  Bütün bu ipuçları yukarıda belirttiğimiz New York Times makalesinde de yazıldığı gibi Facebook'un Whatsapp odaklı bir Blockchain sistemi üzerine çalıştıklarını gösteriyor. 
 
-Bu aslında çok normal. Mesajlaşma ve ödeme sistemlerinin birbirleri ile sinerji yarattıkları uzunca bir süredir biliniyor. Bu alandaki en önemli ve güçlü örnek ise Çin'deki WeChat'ın yakaladığı olağanüstü başarı. Keza, Telegram, Signal, Güney Koreli Kakao ve Japon Line da aynı şekilde kendi KriptoParaları üzerinde çalışıyorlar. 
+Bu aslında çok normal. Mesajlaşma ve ödeme sistemlerinin birbirleri ile sinerji yarattıkları uzunca bir süredir biliniyor. Bu alandaki en önemli ve güçlü örnek ise Çin'deki WeChat'in yakaladığı olağanüstü başarı. Keza, Telegram, Signal, Güney Koreli Kakao ve Japon Line da aynı şekilde kendi KriptoParaları üzerinde çalışıyorlar. 
 
 ### Hazır olun FaceCoin (?) geliyor!
 
-Yine aynı NYTimes [yazısında](https://www.nytimes.com/2019/02/28/technology/cryptocurrency-facebook-telegram.html) belirtildiği üzere Facebook dünyadaki belli başlı borsalar ile konuşarak 2019 yılının ilk yarısında bir KriptoPara çıkaracaklarını söylemiş. Yani FBCoin, Facecoin, FacebookCoin, MarkZuckerbergCoin artık ismi ne olacaksa büyük bir coin geliyor piyasalara (biz şimdilik FaceCoin diyelim)
+Yine aynı NYTimes [yazısına](https://www.nytimes.com/2019/02/28/technology/cryptocurrency-facebook-telegram.html) göre Facebook dünyadaki belli başlı KriptoPara borsaları ile konuşarak 2019 yılının ilk yarısında kendilerine ait bir KriptoPara çıkaracakları bilgisini iletiyor. Yani FBCoin, Facecoin, FacebookCoin, MarkZuckerbergCoin artık ismi ne olacaksa büyük bir para geliyor piyasalara (biz şimdilik FaceCoin diyelim)
 
 | ![facebook_1924510_400.png](/assets/facebook_1924510_400.png) | 
 |:--:| 
