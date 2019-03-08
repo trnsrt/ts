@@ -26,3 +26,5 @@ Dünyada milyarlarca insan var finansal sisteme girişi olmayan. Facebook bu ins
 
 Bir başka yöntem ise, sevdiğiniz sanatçılara destek olmak. Facebook Stars adında benzer bir sistem zaten mevcut - şimdi bunu bir KriptoPara üzerinden yapmak yine hızlı, daha düşük komisyonlu bir hizmet olabilir Facebook kullanıcılarına (ve tabii bütün komisyonu Facebook'un cebine atacağı bir sistem)
 
+#### Değer saklama aracı olarak
+FaceCoin'in kullanıcıların pratik olarak kullanmasını sağlamak için spekülatif hareketlerden uzak olması hedefleniyor. Bunun için de paranın birkaç büyük fiat paranın (ABD Doları, Euro vb) değerine çıpalanacağı belirtiliyor. Bu anlamda aslında bir nevi daha önce bahsettiğimiz SabitPara kavramına yakın bir para olacak bu. 
