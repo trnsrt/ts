@@ -56,7 +56,7 @@ Olmaz mı? Var tabii. Ancak Facebook'un Blockhain çözümlerini bile tam olarak
 
 Özellikle neden borsalarda işlem görecek bir KriptoPara? Facebook çok rahat Blockchain bazlı özel bir sistem kurabilirdi. Kontrolün tamamen kendinde olduğu kapalı bir sistem. Bütün kurallarını kendisinin koyduğu ve geçmişte de olduğu gibi kullanıcıları kendi içinde tuttuğu. Ama görünen o ki o yola gitmiyor. Neden acaba? 
 
-Herhalde, en önemli nedeni kanuni yükümlülükler ve kısıtlamalar. Facebook doğası gereği her ülkenin kanuni otoriteleri ile uyumlu bir tavır sergilemek zorunda. Kişiden kişiye ödeme sistemlerini, bir değer saklama olarak para çıkarmayı düşündüğünüzde bu tip konularda hükümetler oldukça hassas. Özellikle kara para aklama konularında. Know your customer denen kullanıcının kim olduğunu bilmek olarak adlandırabileceğimiz kurallar oldukça katı. Facebook bu alanda tüm sorumluluğu üstlenmek yerine bir kısım sorumluluğu bu işin yükünü taşıyan KriptoPara borsalarına vermek istiyor olabilir. 
+Herhalde, en önemli nedeni kanuni yükümlülükler ve kısıtlamalar. Facebook doğası gereği her ülkenin kanuni otoriteleri ile uyumlu bir tavır sergilemek zorunda. Kişiden kişiye ödeme sistemleri ya da bir değer saklama olarak bir para çıkarmak konularında hükümetler oldukça hassas. Özellikle kara para aklama söz konusu ise. KYC/AML (Know your customer - Anti Money Laudering) denen kullanıcının kim olduğunu bilmek olarak adlandırabileceğimiz kurallar oldukça katı. Facebook bu alanda tüm sorumluluğu üstlenmek yerine bir kısım sorumluluğu bu işin yükünü taşıyan KriptoPara borsalarına vermek istiyor olabilir. 
 
 ### Sonuç - nereye varır bunun sonu ve Facecoin'in asıl önemi
 Konuyu kişisel bir örnek ile bağlamak istiyorum:
