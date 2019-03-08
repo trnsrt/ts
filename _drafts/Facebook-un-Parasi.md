@@ -10,3 +10,19 @@ Birbirinden bağımsız görünen ancak birbiri ile oldukça ilintili iki haber.
 Noktaları birleştiriyoruz. PayPal ödeme, Facebook Messenger iletişim araçları. Üzerine Zuckerberg'in yukarıdaki yazısında mahremiyet odaklı bir vizyondan söz ederken, tüm kendilerine ait tüm iletişim araçlarının (Facebook, Whatsapp ve Instagram) birbirleri ile konuşabilmeleri vizyonu.  Bütün bu ipuçları yukarıda belirttiğimiz New York Times makalesinde de yazıldığı gibi Whatsapp odaklı bir Blockchain sistemi üzerine çalıştıklarını gösteriyor. 
 
 Bu aslında çok normal. Mesajlaşma ve ödeme sistemlerinin birbirleri ile sinerji yarattıkları uzunca bir süredir biliniyor. Bu alandaki en önemli ve güçlü örnek ise Çin'deki WeChat'ın yakaladığı olağanüstü başarı. Keza, Telegram, Signal, Güney Koreli Kakao ve Japon Line da aynı şekilde kendi KriptoParaları üzerinde çalışıyorlar. 
+
+### Hazır olun FaceCoin (?) geliyor!
+
+Yine NYTimes yazısında belirtildiği üzere Facebook dünyadaki belli başlı borsalar ile konuşarak 2019 yılının ilk yarısında bir coin çıkaracaklarını söylemiş. Yani FBCoin, Facecoin, FacebookCoin, MarkZuckerbergCoin artık ismi ne olacaksa büyük bir coin geliyor piyasalara (biz şimdilik FaceCoin diyelim)
+
+### Ne olacak içinde?
+
+Aslında ilginç olan Facebook'un bir para çıkarması değil, Blockchain bazlı ne tip çalışmalar yaptığı, nasıl iş planları geliştirdiği ve bu paranın bu planların içinde nasıl yer alacağı. Bu arada şunu belirtelim: Her ne yapacaksa yapsın, sonuçta Facebook'un yapmak istediği kendi ağlarında bulunan 2.7 milyar insanın yarattığı ekosistemi sonuna kadar sağmak olacak. 
+
+Neler yapabilir? Çeşitli teoriler var. Gelin kısaca onlara bakalım: 
+
+#### Ödeme aracı olarak
+Dünyada milyarlarca insan var finansal sisteme girişi olmayan. Facebook bu insanların bir çoğunu kendi ekosistemine almış durumda. Hızlı, ucuz (banka komisyonu olmadan) kişiden kişiye (P2P) para transferini FaceCoin aracılığı ile yapmak ve pastadan pay almak en akla gelir yöntem. Halihazırda Facebook Messenger üzerinden bir başkasına para gönderme sistemi zaten mevcut ancak bunun için Paypal kullanmanız gerekiyor (PayPal açmak, komisyonlar vb), Facebook şimdi bu aracıyı ortadan kaldırabilir. 
+
+Bir başka yöntem ise, sevdiğiniz sanatçılara destek olmak. Facebook Stars adında benzer bir sistem zaten mevcut - şimdi bunu bir KriptoPara üzerinden yapmak yine hızlı, daha düşük komisyonlu bir hizmet olabilir Facebook kullanıcılarına (ve tabii bütün komisyonu Facebook'un cebine atacağı bir sistem)
+
