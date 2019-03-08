@@ -7,7 +7,7 @@ Geçtiğimiz günlerde gelen iki haber teknoloji dünyasında ciddi bir tartış
 
 Birbirinden bağımsız görünen ancak birbiri ile oldukça ilintili iki haber. Efendim, olan özetle şu: Facebook kurduğu bir ekip ile birlikte Mayıs 2018'den beri büyük bir gizlilik ile kendi Blockchain'i üzerinde [çalışıyor](https://techcrunch.com/2018/08/10/facecoin/). Bu işin başına Facebook Messenger işinin başında [David Marcus](http://www.wikizeroo.net/index.php?q=aHR0cHM6Ly9lbi5tLndpa2lwZWRpYS5vcmcvd2lraS9EYXZpZF9BLl9NYXJjdXM)'u getirdiler. David Marcus sadece mesajlaşma üzerine uzmanlaşmış bir isim değil. Aynı zamanda PayPal'ın eski üst düzey yöneticilerinden. 
 
-| ![Dave_Marcus_profile_pic.png](/assets/Dave_Marcus_profile_pic.png) | 
+| ![Dave_Marcus_profile_pic_400.png](/assets/Dave_Marcus_profile_pic_400.png) | 
 |:--:| 
 | *David Marcus [Kaynak](http://www.wikizeroo.net/index.php?q=aHR0cHM6Ly91cGxvYWQud2lraW1lZGlhLm9yZy93aWtpcGVkaWEvY29tbW9ucy9mL2ZiL0RhdmVfTWFyY3VzX3Byb2ZpbGVfcGljLnBuZw)* |
 
