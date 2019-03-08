@@ -27,9 +27,7 @@ Yine aynı NYTimes [yazısına](https://www.nytimes.com/2019/02/28/technology/cr
 
 ### Blockchain kurmaktaki amacı ne Facebook'un?
 
-Aslında ilginç olan Facebook'un bir para çıkarmasından ziyade, Blockchain bazlı ne tip çalışmalar yaptığı, nasıl iş planları geliştirdiği ve bu paranın bu planların içinde nasıl yer alacağı konusu. 
-
-Bu arada baştan şunu belirtelim: Her ne yapacaksa yapsın, sonuçta Facebook'un amacı kendine ait ağlarında bulunan 2.7 milyar insanın yarattığı ekosistemi sonuna kadar 'sağmak' olacak. 
+Aslında ilginç olan Facebook'un bir para çıkarmasından ziyade, Blockchain bazlı ne tip çalışmalar yaptığı, nasıl iş planları geliştirdiği ve bu paranın bu planların içinde nasıl yer alacağı konusu. (Bu arada baştan şunu belirtelim: Her ne yapacaksa yapsın, sonuçta Facebook'un amacı kendine ait ağlarında bulunan 2.7 milyar insanın yarattığı ekosistemi sonuna kadar 'sağmak' olacak)
 
 Neler yapabilir? Çeşitli teoriler var. Gelin kısaca onlara bakalım: 
 
