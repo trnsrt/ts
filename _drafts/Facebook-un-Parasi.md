@@ -32,6 +32,11 @@ FaceCoin'in kullanıcıların pratik olarak kullanmasını sağlamak için spek�
 #### Facebook ekosistemini korumak ve büyütmek
 Kullanıcılara avantajlı bir şekilde verilecek FaceCoin'lerin Facebook ekosisteminin içinde kullanılması da söz konusu olabilir. Örneğin, belli hizmetlerin satın alınmasında FaceCoin kullanımının belli iskontolar sağlaması gibi. Facebook içinde 6 milyon reklamcı ve 65 milyon küçük işletme olduğunu düşünürseniz, klasik anlamda Visa, Mastercard gibi ödeme sistemleri ile uğraşmak ve komisyon ödemek yerine FaceCoin üzerinden ödeme almak pek çok işletmeye cazip gelebilir. Facebook içinse, kullanıcıları ve ticari işletmeleri sisteminde tutabilmek için bulunmaz bir fırsat. 
 
+#### Blockchain ile gelen değişimleri yakalamak
+Geçtiğimiz yazıda bahsettiğimiz, Facebook'un sunduğu Facebook Connect hizmeti onları kullanıcılarını kendi sistemlerinde tutmaları için hayati bir önem taşıyor. Burada iki konuda FaceCoin onlara avantaj sağlayabilir. Birincisi yazımızda da belirttiğimiz gibi Facebook'un kullanıcı bilgilerini satma konusunda geçmişte yaşadığı sıkıntılar aşikar - Mark Zuckerberg'in yukarıda bahsettiğimiz yazısı da bu anlamda bir özeleştiri. Şimdi FaceCoin ile yine kullanıcıları kendilerinde tutacakları ama onların mahremiyetini koruyacakları bir hizmet vaad edebilirler. 
+
+İkincisi ise Facebook Connect daha çok Web 2.0 diye adlandırabileceğimiz online hizmetler için kullanılıyor. Blockchain bazlı sistemlerde şirketten ziyade bir ekosistemden bahsediyor olmamız nedeniyle, Facebook kendi altyapısını ve 2 milyarı aşkın kullancısını bir ekosistem olarak düşünüyor olabilir. FaceCoin bu ekosistem üzerine kurulacak olan yeni girişimlerin (dApps'lar olarak adlandırabiliriz bunları) ortak kullanımına sunulan bir para işlevini de görebilir. 
+
 ### Sorunlar, sıkıntılar
 Olmaz mı? Var tabii. Ancak Facebook'un Blockhain çözümlerini bile tam olarak bilmez iken, potansiyel sorunlara bakmak için erken olabilir. Ancak yukarıda saydığımız çözümlerin bir kısmı için halihazırda çözümü varken, Facebook neden Blockchain bazlı bir sistem ve buna bağlı bir KriptoPara çıkarır?
 
