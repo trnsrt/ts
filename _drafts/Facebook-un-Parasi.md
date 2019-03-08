@@ -27,9 +27,15 @@ Dünyada milyarlarca insan var finansal sisteme girişi olmayan. Facebook bu ins
 Bir başka yöntem ise, sevdiğiniz sanatçılara destek olmak. Facebook Stars adında benzer bir sistem zaten mevcut - şimdi bunu bir KriptoPara üzerinden yapmak yine hızlı, daha düşük komisyonlu bir hizmet olabilir Facebook kullanıcılarına (ve tabii bütün komisyonu Facebook'un cebine atacağı bir sistem)
 
 #### Değer saklama aracı olarak
-FaceCoin'in kullanıcıların pratik olarak kullanmasını sağlamak için spekülatif hareketlerden uzak olması hedefleniyor. Bunun için de paranın birkaç büyük fiat paranın (ABD Doları, Euro vb) değerine çıpalanacağı belirtiliyor. Bu anlamda aslında bir nevi daha önce bahsettiğimiz SabitPara kavramına yakın bir para olacak bu. 
+FaceCoin'in kullanıcıların pratik olarak kullanmasını sağlamak için spekülatif hareketlerden uzak olması hedefleniyor. Bunun için de paranın birkaç büyük fiat paranın (ABD Doları, Euro vb) değerine çıpalanacağı belirtiliyor. Bu anlamda aslında bir nevi daha önce bahsettiğimiz SabitPara kavramına yakın bir para olacak bu. Çıkarılan her paranın ABD Doları ve Euro karşılığının Facebook adına bankalarda tutulduğu bir SabitPara. 
 
 #### Facebook ekosistemini korumak ve büyütmek
 Kullanıcılara avantajlı bir şekilde verilecek FaceCoin'lerin Facebook ekosisteminin içinde kullanılması da söz konusu olabilir. Örneğin, belli hizmetlerin satın alınmasında FaceCoin kullanımının belli iskontolar sağlaması gibi. Facebook içinde 6 milyon reklamcı ve 65 milyon küçük işletme olduğunu düşünürseniz, klasik anlamda Visa, Mastercard gibi ödeme sistemleri ile uğraşmak ve komisyon ödemek yerine FaceCoin üzerinden ödeme almak pek çok işletmeye cazip gelebilir. Facebook içinse, kullanıcıları ve ticari işletmeleri sisteminde tutabilmek için bulunmaz bir fırsat. 
 
+### Sorunlar, sıkıntılar
+Olmaz mı? Var tabii. Ancak Facebook'un Blockhain çözümlerini bile tam olarak bilmez iken, potansiyel sorunlara bakmak için erken olabilir. Ancak yukarıda saydığımız çözümlerin bir kısmı için halihazırda çözümü varken, Facebook neden Blockchain bazlı bir sistem ve buna bağlı bir KriptoPara çıkarır?
+
+Örneğin Blockchain bazlı özel bir sistem kurabilirdi. Kontrolün tamamen kendinde olduğu kapalı bir sistem. Bütün kurallarını kendinin koyduğu, ve geçmişte de olduğu gibi kullacıları kendi içinde tuttuğu. Sanki o yola gitmiyor şimdi. 
+
+Herhalde, en önemli nedeni kanuni regulasyonlar. Facebook doğası gereği her ülkenin kanuni otoriteleri ile uyumlu bir tavır sergilemek zorunda. Kişiden kişiye ödeme sistemlerini, bir değer saklama olarak para çıkarmayı düşündüğünüzde bu tip konularda hükümetler oldukça hassas. Özellikle kara para aklama konularında v
 
