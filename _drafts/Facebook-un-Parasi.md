@@ -5,7 +5,11 @@ Geçtiğimiz günlerde gelen iki haber teknoloji dünyasında ciddi bir tartış
 
 ### Neler oluyor yine?
 
-Birbirinden bağımsız görünen ancak birbiri ile oldukça ilintili iki haber. Efendim, olan özetle şu: Facebook kurduğu bir ekip ile birlikte Mayıs 2018'den beri büyük bir gizlilik ile kendi Blockchain'i üzerinde çalışıyor. Bu işin başına Facebook Messenger işinin başında David Marcus'u getirdiler. David Marcus sadece mesajlaşma üzerine uzmanlaşmış bir isim değil. Aynı zamanda PayPal'ın eski üst düzey yöneticilerinden. 
+Birbirinden bağımsız görünen ancak birbiri ile oldukça ilintili iki haber. Efendim, olan özetle şu: Facebook kurduğu bir ekip ile birlikte Mayıs 2018'den beri büyük bir gizlilik ile kendi Blockchain'i üzerinde [çalışıyor](https://techcrunch.com/2018/08/10/facecoin/). Bu işin başına Facebook Messenger işinin başında [David Marcus](http://www.wikizeroo.net/index.php?q=aHR0cHM6Ly9lbi5tLndpa2lwZWRpYS5vcmcvd2lraS9EYXZpZF9BLl9NYXJjdXM)'u getirdiler. David Marcus sadece mesajlaşma üzerine uzmanlaşmış bir isim değil. Aynı zamanda PayPal'ın eski üst düzey yöneticilerinden. 
+
+| ![Dave_Marcus_profile_pic.png](/assets/Dave_Marcus_profile_pic.png) | 
+|:--:| 
+| *David Marcus [Kaynak](http://www.wikizeroo.net/index.php?q=aHR0cHM6Ly91cGxvYWQud2lraW1lZGlhLm9yZy93aWtpcGVkaWEvY29tbW9ucy9mL2ZiL0RhdmVfTWFyY3VzX3Byb2ZpbGVfcGljLnBuZw)* |
 
 Noktaları birleştiriyoruz. PayPal ödeme, Facebook Messenger iletişim araçları. Üzerine Zuckerberg'in yukarıdaki yazısında mahremiyet odaklı bir vizyondan söz ederken, tüm kendilerine ait tüm iletişim araçlarının (Facebook, Whatsapp ve Instagram) birbirleri ile konuşabilmeleri vizyonu.  Bütün bu ipuçları yukarıda belirttiğimiz New York Times makalesinde de yazıldığı gibi Whatsapp odaklı bir Blockchain sistemi üzerine çalıştıklarını gösteriyor. 
 
@@ -13,7 +17,7 @@ Bu aslında çok normal. Mesajlaşma ve ödeme sistemlerinin birbirleri ile sine
 
 ### Hazır olun FaceCoin (?) geliyor!
 
-Yine NYTimes yazısında belirtildiği üzere Facebook dünyadaki belli başlı borsalar ile konuşarak 2019 yılının ilk yarısında bir coin çıkaracaklarını söylemiş. Yani FBCoin, Facecoin, FacebookCoin, MarkZuckerbergCoin artık ismi ne olacaksa büyük bir coin geliyor piyasalara (biz şimdilik FaceCoin diyelim)
+Yine aynı NYTimes [yazısında](https://www.nytimes.com/2019/02/28/technology/cryptocurrency-facebook-telegram.html) belirtildiği üzere Facebook dünyadaki belli başlı borsalar ile konuşarak 2019 yılının ilk yarısında bir KriptoPara çıkaracaklarını söylemiş. Yani FBCoin, Facecoin, FacebookCoin, MarkZuckerbergCoin artık ismi ne olacaksa büyük bir coin geliyor piyasalara (biz şimdilik FaceCoin diyelim)
 
 ### Ne olacak içinde?
 
