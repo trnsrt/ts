@@ -14,7 +14,7 @@ Kripto alım satımınında odaklandıkları konu likidite sağlayarak müşteri
 
 Bir yılı aşkın süren bir hazırlık süreci sonrası henüz Mart ayı başında testlere başlayan Fidelity Digital'in şu anda henüz 5 müşterisi var. 
 
-Dijital varlık olarak da yalnızca Bitcoin saklama ve alım-satımına aracılık edecek Fidelity Digital. Nedeni Bitcoin'in en gelişmiş ve teknik olarak en olgun para olması. Bu alanda Ethereum Classic'in yakın zamanda geçirdiği %51 dışsal saldırı ve Ethereum'un yapacağı yeni bir çatallama (Hard Fork) onları diğer paralar konusunda tedirgin ediyor ve çekingen davranmalarına neden oluyor. 
+Dijital varlık olarak da yalnızca Bitcoin saklama ve alım-satımına aracılık edecek Fidelity Digital. Nedeni Bitcoin'in en gelişmiş ve teknik olarak en olgun para olması. Bu alanda Ethereum Classic'in yakın zamanda geçirdiği %51 dışsal saldırı ve Ethereum'un yapacağı yeni bir çatallama (Hard Fork) [onları diğer paralar konusunda tedirgin ediyor](https://www.theblockcrypto.com/2019/03/08/fidelitys-bitcoin-custody-business-is-live-a-conversation-with-fidelity-digital-assets-head-tom-jessop/) ve çekingen davranmalarına neden oluyor. 
 
 Kurumsal yatırımcıların kripto para pazarlarına yatırım yapması için vaktin henüz erken olduğunu belirten Fidelity Digital'in başı Tom Jessop, daha çok geleceğe yönelik hazırlık yaptıklarını [belirtiyor](https://www.coindesk.com/coindesk-most-influential-blockchain-2018-tom-jessop). 
 
