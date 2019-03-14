@@ -1,7 +1,5 @@
 Geçtiğimiz [yazıların birinde](https://ademimerkezi.com/genel/2019/01/04/kurumsal-yatirimci-bakkt-ile-kriptoparalara-girer-mi.html) kurumsal yatırımcıların Kriptopara yatırımları ile ilgili dertlerinden birçoğuna derman olacak NYSE'nin sahibi [ICE](https://www.theice.com/about)'ın kurduğu Bakkt'dan [bahsetmiştik](https://ademimerkezi.com/genel/2019/01/04/kurumsal-yatirimci-bakkt-ile-kriptoparalara-girer-mi.html). 
 
-Kurumsal yatırımcıların Kripto sistemine ilgisini sadece para yatırmak ve Bitcoin, Ethereum gibi paraların artması olarak bakmamak lazım. Bu yeni nesil girişimcilik için aranan kan olabilir. Zira Blockchain bazlı sistemlere dayanan yeni girişimlerde yatırım girişimciye değil ekosisteme yapılıyor (detayları bu [yazımızda](https://ademimerkezi.com/genel/2018/05/17/degisen-girisimcilik-ve-yatirimcilik.html)).
-
 Şimdi bu tip kurumsal yatırımcılara yardımcı olmak amacıyla ABD'nin en büyük fonlarından Fidelity'nin kurduğu Fidelity Digital Assets'e ([Fidelity Digital](https://www.fidelitydigitalassets.com/overview)) bakalım kısaca.
 
 Fidelity yaklaşık 2.5 trilyon ABD Doları'nı yöneten devasa bir fon. Ancak bu demek değil ki elindeki bu koca fonlar ile kripto piyasasına giriyor. Zira Fidelity Digital özünde başka fonlara hizmet verecek olan bir platform. 
