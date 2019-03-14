@@ -18,4 +18,8 @@ Kurumsal yatırımcıların kripto para pazarlarına yatırım yapmalarının he
 
 ### Neden önemli?
 
-Fidelity gibi bir devin bu alana girmesi ve kimsenin olmadığı bir alanda kaynaklarını harcaması sektörün geleceği için olumlu bir gelişme.
+Fidelity gibi bir devin bu alana girmesi ve kimsenin olmadığı bir alanda kaynaklarını harcaması sektörün geleceği için olumlu bir gelişme. Gerek bu tip konulara ilgi duyan ancak çekinen kurumsal yatırımcılara kanal açıyor olması, gerekse bu alandaki kanun koyucular ile olan diyaloğu sektörün gelişmesine olumlu katkı yapacak. 
+
+Verdikleri iki ana hizmet de kurumsal yatırımcıları pazara çekmek için çok kritik aslında. Hisse senetleri gibi merkezi bir kaydın olmadığı dijital dünyada, dijital varlıkların saklamak ve sahipliğini kanıtlamak hayati bir önem taşıyor. Bunun dışında, Fidelity Dijital'ın OTC hizmeti, kurumsal müşterilere likidite sağlayarak onların alım-satım sırasında potansiyel işlem zararı ile karşı karşıya kalmalarına engel olacak. 
+
+Bu arada aile ofislerinden hedge fonlara geniş bir yelpazede 450 kurumsal yatırmcı ile yaptıkları  araştırmanın sonuçları da ilginç. Bu yatırımcıların %20'si dijital bir varlığa yatırım yaptığını ve portföylerinde dijital varlıkların ağırlığının önümüzdeki 5 yılda yaklaşık iki katına çıkacağına belirtmiş. Pazarda bulunmayan kurumsal yatırımcılar ise bunun nedeni olarak sırasıyla dalgalı pazar, kanuni kesinliğin olmaması ve son olarak da temel veri eksikliğini göstermişler. Volatilite ve veri eksikliği pazarın büyümesi ve daha fazla kurumsal yatırımcının girmesi ile çözülecek problemler. Bir sonraki aşamada da bu kurumsal yatırımcıların yapacağı lobi faaliyetleri kanuni olarak gerekli altyapının oluşturulmasında da etkili olacak.
