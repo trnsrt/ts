@@ -1,12 +1,16 @@
-Geçtiğimiz yazılardan birinde kurumsal yatırımcıların Kriptopara yatırımları ile ilgili dertlerinden bir çoğuna derman olacak NYSE'nin sahibi ICE'ın [] kurduğu Bakkt'dan [bahsetmiştik]. 
+Geçtiğimiz yazılardan [birinde](https://ademimerkezi.com/genel/2019/01/04/kurumsal-yatirimci-bakkt-ile-kriptoparalara-girer-mi.html) kurumsal yatırımcıların Kriptopara yatırımları ile ilgili dertlerinden bir çoğuna derman olacak NYSE'nin sahibi [ICE](https://www.theice.com/about)'ın kurduğu Bakkt'dan [bahsetmiştik](https://ademimerkezi.com/genel/2019/01/04/kurumsal-yatirimci-bakkt-ile-kriptoparalara-girer-mi.html). 
 
-Kurumsal yatırımcıların Kripto sistemine ilgisini sadece para yatırmak ve Bitcoin, Ethereum gibi paraların artması olarak bakmamak lazım. Bu yeni nesil girişimcilik için aranan kan olabilir. Zira Blockchain bazlı sistemlere dayanan yeni girişimlerde yatırım girişimciye değil ekosisteme yapılıyor (detayları bu [yazımızda]).
+Kurumsal yatırımcıların Kripto sistemine ilgisini sadece para yatırmak ve Bitcoin, Ethereum gibi paraların artması olarak bakmamak lazım. Bu yeni nesil girişimcilik için aranan kan olabilir. Zira Blockchain bazlı sistemlere dayanan yeni girişimlerde yatırım girişimciye değil ekosisteme yapılıyor (detayları bu [yazımızda](https://ademimerkezi.com/genel/2018/05/17/degisen-girisimcilik-ve-yatirimcilik.html)).
 
-Şimdi bu tip kurumsal yatırımcılara yardımcı olmak amacıyla ABD'nin en büyük fonlarından Fidelity'nin kurduğu Fidelity Digital Assets'e (Fidelity Digital) bakalım kısaca. 
+Şimdi bu tip kurumsal yatırımcılara yardımcı olmak amacıyla ABD'nin en büyük fonlarından Fidelity'nin kurduğu Fidelity Digital Assets'e ([Fidelity Digital](https://www.fidelitydigitalassets.com/overview)) bakalım kısaca.
 
-Fidelity yaklaşık 2.5 trilyon ABD Doları yöneten devasa bir fon. Ancak bu demek değil ki Fidelity fonları ile kriptoya giriyor. Zira Fidelity Digital başka fonlara hizmet verecek olan bir platform. 
+Fidelity yaklaşık 2.5 trilyon ABD Doları'nı yöneten devasa bir fon. Ancak bu demek değil ki elindeki bu koca fonlar ile kripto piyasasına giriyor. Zira Fidelity Digital özünde başka fonlara hizmet verecek olan bir platform. 
 
-Ana olarak yapacağı konular emanet saklama (aynı Bakkt'ın verdiği servise benzer) ve kripto alım-satımı. Kripto alım satımını yaparken, mevcut bireysel yatırımcıların işlem gördüğü KriptoPara borsalarını kullanmayı düşünümüyorlar. Bunun yerine OTC pazarına odaklanacaklar.
+Ana olarak iki konuda hizmet verecek: emanet saklama ve kripto alım-satımı. 
+
+Emanet saklama, sektördeki diğer büyük oyuncu olan Bakkt'ın da vermeyi planladığı hizmetin aynısı. Kurumsal yatırımcıların satın aldığı dijital varlıkları tutabilecekleri bir emanet depo. 
+
+Kripto alım satımınında ise, mevcut bireysel yatırımcıların işlem gördüğü KriptoPara borsalarını kullanmayacaklar. Bunun yerine OTC pazarına odaklanacaklar.
 
 Bunun temel nedeni, hizmet vereceği fonların genelde büyük işlemler yapmak istemeleri. Mevcut Kriptopara pazarlarının sığ olması yapılan büyük işlemlerin KriptoPara fiyatlarında büyük oynamalara neden olması. 
 
