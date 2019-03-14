@@ -8,7 +8,7 @@ Fidelity yaklaşık 2.5 trilyon ABD Doları'nı yöneten devasa bir kurum. Ancak
 
 Ana olarak iki konuda hizmet verecek: emanet saklama ve kripto alım-satımı. 
 
-Emanet saklama, sektördeki diğer büyük oyuncu olan Bakkt'ın da vermeyi planladığı hizmetin aynısı. Kurumsal yatırımcıların satın aldığı dijital varlıkları tutabilecekleri bir emanet depo. 
+Emanet saklama, sektördeki diğer büyük oyuncu olan [Bakkt'ın da vermeyi planladığı hizmetin benzeri](http://fortune.com/longform/nyse-owner-bitcoin-exchange-startup/). Kurumsal yatırımcıların satın aldığı dijital varlıkları tutabilecekleri bir emanet depo. 
 
 Kripto alım satımınında odaklandıkları konu likidite sağlayarak müşteriye en iyi fiyatı bulabilmek bir aracı olabilmek. Bunun için de sadece onlarca Kriptopara borsasının yanında ağırlıklı OTC pazarında işlem yapacaklar. Zira mevcut Kriptopara borsalarının sığ olması yapılan büyük boyutlu işlemlerin KriptoPara fiyatlarında büyük oynamalara neden oluyor. 
 
