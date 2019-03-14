@@ -5,7 +5,7 @@ date:   2019-03-14 21:42:56 +0300
 categories: Genel
 ---
 
-Geçtiğimiz [yazıların birinde](https://ademimerkezi.com/genel/2019/01/04/kurumsal-yatirimci-bakkt-ile-kriptoparalara-girer-mi.html) kurumsal yatırımcıların Kriptopara yatırımları ile ilgili dertlerinden birçoğuna derman olacak NYSE'nin sahibi [ICE](https://www.theice.com/about)'ın kurduğu Bakkt'dan [bahsetmiştik](https://ademimerkezi.com/genel/2019/01/04/kurumsal-yatirimci-bakkt-ile-kriptoparalara-girer-mi.html). 
+Geçtiğimiz [yazıların birinde](https://ademimerkezi.com/genel/2019/01/04/kurumsal-yatirimci-bakkt-ile-kriptoparalara-girer-mi.html) kurumsal yatırımcıların Kriptopara yatırımları ile ilgili dertlerinden birçoğuna derman olacak NYSE'nin sahibi [ICE](https://www.theice.com/about)'ın kurduğu [Bakkt](https://www.bakkt.com/index)'dan [bahsetmiştik](https://ademimerkezi.com/genel/2019/01/04/kurumsal-yatirimci-bakkt-ile-kriptoparalara-girer-mi.html). 
 
 Şimdi bu tip kurumsal yatırımcılara yardımcı olmak amacıyla ABD'nin en büyük aracı kuruluşlarından Fidelity'nin kurduğu Fidelity Digital Assets'e ([Fidelity Digital](https://www.fidelitydigitalassets.com/overview)) bakalım kısaca.
 
