@@ -36,4 +36,6 @@ Bu arada aile ofislerinden hedge fonlara geniş bir yelpazede 450 kurumsal yatı
 - Bu yatırımcıların %20'si dijital bir varlığa yatırım yaptığını ve portföylerinde dijital varlıkların ağırlığının önümüzdeki 5 yılda yaklaşık iki katına çıkacağına belirtmiş. 
 - Pazarda bulunmayan kurumsal yatırımcılar ise bunun nedeni olarak sırasıyla dalgalı pazar, kanuni kesinliğin olmaması ve son olarak da temel veri eksikliğini göstermişler. 
 
-Volatilite ve veri eksikliği pazarın büyümesi ve daha fazla kurumsal yatırımcının girmesi ile çözülecek problemler. Bir sonraki aşamada bu kurumsal yatırımcıların yapacağı lobi faaliyetleri kanuni olarak gerekli altyapının oluşturulmasında da etkili olacak. Fidelity Digital benzeri aracıların ülkemizde de çıkması dileğiyle...
+Volatilite ve veri eksikliği pazarın büyümesi ve daha fazla kurumsal yatırımcının girmesi ile çözülecek problemler. Bir sonraki aşamada bu kurumsal yatırımcıların yapacağı lobi faaliyetleri kanuni olarak gerekli altyapının oluşturulmasında da etkili olacak. 
+
+Fidelity Digital benzeri aracıların ülkemizde de çıkması dileğiyle...
