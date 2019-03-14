@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Kripto kurumsal pazarının büyümesi için bir dev daha devrede: Fidelity Digital"
+date:   2019-03-14 21:42:56 +0300
+categories: Genel
+---
+
 Geçtiğimiz [yazıların birinde](https://ademimerkezi.com/genel/2019/01/04/kurumsal-yatirimci-bakkt-ile-kriptoparalara-girer-mi.html) kurumsal yatırımcıların Kriptopara yatırımları ile ilgili dertlerinden birçoğuna derman olacak NYSE'nin sahibi [ICE](https://www.theice.com/about)'ın kurduğu Bakkt'dan [bahsetmiştik](https://ademimerkezi.com/genel/2019/01/04/kurumsal-yatirimci-bakkt-ile-kriptoparalara-girer-mi.html). 
 
 Şimdi bu tip kurumsal yatırımcılara yardımcı olmak amacıyla ABD'nin en büyük aracı kuruluşlarından Fidelity'nin kurduğu Fidelity Digital Assets'e ([Fidelity Digital](https://www.fidelitydigitalassets.com/overview)) bakalım kısaca.
@@ -39,3 +46,9 @@ Bu arada aile ofislerinden hedge fonlara geniş bir yelpazede 450 kurumsal yatı
 Volatilite ve veri eksikliği pazarın büyümesi ve daha fazla kurumsal yatırımcının girmesi ile çözülecek problemler. Bir sonraki aşamada bu kurumsal yatırımcıların yapacağı lobi faaliyetleri kanuni olarak gerekli altyapının oluşturulmasında da etkili olacak. 
 
 Fidelity Digital benzeri aracıların ülkemizde de çıkması dileğiyle...
+
+---
+
+&nbsp;
+
+*Not: Yazdığımız 50+ yazının bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](/about/) sayfasına göz atabilirsiniz.*
