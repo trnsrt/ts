@@ -20,7 +20,9 @@ Kurumsal yatırımcıların kripto para pazarlarına yatırım yapması için va
 
 ### Neden önemli?
 
-Fidelity gibi bir devin bu alana girmesi ve kimsenin olmadığı bu alanda ciddi bir kaynak harcaması sektörün geleceği için olumlu bir gelişme. Gerek bu tip konulara ilgi duyan ancak çekinen kurumsal yatırımcılara kanal açıyor olması, gerekse bu alandaki kanun koyucular ile olan diyaloğu sektörün gelişmesine olumlu katkı yapacak.
+Fidelity gibi bir devin kimsenin olmadığı bu alana girmesi ve ciddi bir kaynak harcaması sektörün geleceği için olumlu bir gelişme. 
+
+Gerek bu tip konulara ilgi duyan ancak çekinen kurumsal yatırımcılara kanal açıyor olması, gerekse bu alandaki kanun koyucular ile olan diyaloğu sektörün gelişmesine olumlu katkı yapacak.
 
 Öte yandan bu girişim, Fidelity'in özünde bireysel yatırımcılara hizmet veren ve ABD'nin her yerine yayılmış binlerce şubesi olan bir kurum olması nedeniyle bireysel yatırımcıların farkındalığının (dolayısıyla kriptoparalara duyulan güvenin) artması anlamında da olumlu bir gelişme. 
 
