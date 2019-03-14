@@ -4,7 +4,7 @@ Geçtiğimiz [yazıların birinde](https://ademimerkezi.com/genel/2019/01/04/kur
 
 ### Fidelity Digital Assets
 
-Fidelity yaklaşık 2.5 trilyon ABD Doları'nı yöneten devasa bir fon. Ancak bu demek değil ki elindeki bu koca fonlar ile kripto piyasasına giriyor. Zira Fidelity Digital özünde başka fonlara hizmet verecek olan bir platform. 
+Fidelity yaklaşık 2.5 trilyon ABD Doları'nı yöneten devasa bir kurum. Ancak bu elindeki bu koca fonlar ile kripto piyasasına giriyor anlamına gelmiyor. Zira Fidelity Digital özünde başka fonlara hizmet verecek olan bir platform. 
 
 Ana olarak iki konuda hizmet verecek: emanet saklama ve kripto alım-satımı. 
 
