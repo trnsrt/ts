@@ -39,7 +39,7 @@ Hisse senetleri gibi merkezi bir kaydın olmadığı dijital dünyada, dijital v
 
 Bunun dışında, Fidelity Dijital'ın alım-satım aracılık hizmeti, kurumsal müşterilere likidite sağlayarak onlara alım-satım sırasında potansiyel işlem zararı ile karşı karşıya kalmalarına [engel olacak](https://www.theblockcrypto.com/2019/03/08/fidelitys-bitcoin-custody-business-is-live-a-conversation-with-fidelity-digital-assets-head-tom-jessop/). 
 
-Bu arada aile ofislerinden hedge fonlara geniş bir yelpazede 450 kurumsal yatırmcı ile yaptıkları araştırmanın sonuçları da ilginç: 
+Bu arada aile ofislerinden hedge fonlara geniş bir yelpazede 450 kurumsal yatırımcı ile yaptıkları araştırmanın sonuçları da ilginç: 
 - Bu yatırımcıların %20'si dijital bir varlığa yatırım yaptığını ve portföylerinde dijital varlıkların ağırlığının önümüzdeki 5 yılda yaklaşık iki katına çıkacağına belirtmiş. 
 - Pazarda bulunmayan kurumsal yatırımcılar ise bunun nedeni olarak sırasıyla dalgalı pazar, kanuni kesinliğin olmaması ve son olarak da temel veri eksikliğini göstermişler. 
 
