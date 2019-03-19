@@ -15,16 +15,17 @@ Dağıtık (merkezi olmayan, adem-i merkezi) her tür teknoloji ve finans dünya
   - [İyilik için Blockchain](/genel/2018/03/29/Iyilik-icin-blockchain.html) 
   - [Sanat için Blockchain](/genel/2018/03/29/Iyilik-icin-blockchain.html) 
   - [Sağlık için Blockchain](/genel/2018/04/17/saglik-icin-blockchain.html) 
-  - [Seyahat için Blockchain](/ademimerkezi.com/genel/2018/07/06/seyahat-icin-blockchain.html)
-  - [Çevre için Blockchain](/ademimerkezi.com/genel/2018/11/16/cevre-icin-blockhain.html) ve [devamı](/genel/2018/11/17/cevre-icin-blockchaine-devam.html) 
+  - [Seyahat için Blockchain](/genel/2018/07/06/seyahat-icin-blockchain.html)
+  - [Çevre için Blockchain](/genel/2018/11/16/cevre-icin-blockhain.html) ve [devamı](/genel/2018/11/17/cevre-icin-blockchaine-devam.html) 
   - [Geleceği tahmin için Blockchain](/genel/2018/07/13/gelecegi-tahmin-icin-blockchain.html) 
   - [Tedarik zinciri için Blockchain](/genel/2018/08/17/tedarik-zinciri-icin-blockchain.html)
   - [Blockchain finans dünyasını nasıl etkileyecek?](/genel/2019/02/14/Blockchain-finans-dunyasini-nasil-etkileyecek.html)
 - Blockchain bazlı teknolojilerin girişimcilik ve yatırımcılık ekosistemlerini nasıl değiştirdiğini merak ediyorsanız
   - [Değişen Girişimcilik ve Yatırımcılık](/genel/2018/05/17/degisen-girisimcilik-ve-yatirimcilik.html)
   - [Girişimler yeni teknolojiler ile nasıl demokratikleşiyor?](/genel/2018/05/21/girisimler-yeni-teknolijler-ile-nasil-demokratiklesiyor.html)
-- Dijital dünyada bize nasıl fayda sağlayabileceğini görmek için 
-  - [Dijital kimliğinize iyi bakın](https://ademimerkezi.com/genel/2019/03/01/dijital-kimliginize-iyi-bakin.html)
+- Dijital dünyada bireysel kullanım alanları için 
+  - [Dijital kimliğinize iyi bakın](/genel/2019/03/01/dijital-kimliginize-iyi-bakin.html)
+  - [Facebook'un parası](/genel/2019/03/08/Facebookun-parasi.html)
 - Blockchain konusuna madalyonun öbür yüzünü de gözden kaçırmamak için 
   - [Blockchain her derde deva mı?](/genel/2018/08/03/blockchain-her-derde-deva-mi.html)
   - [Blockchain bulunduğum sektöre yarar mı?](/genel/2018/08/10/Blockchain-bulundugum-sektore-yarar-mi.html)
@@ -43,6 +44,7 @@ Dağıtık (merkezi olmayan, adem-i merkezi) her tür teknoloji ve finans dünya
   - [Bitcoin üzerinden ışık hızıyla işlem: Lightning Network](/genel/2018/12/20/bitcoin-uzerinde-isik-hiziyla-islem-Lightning-network.html)
   - [Bitcoin gibi ama değil: Liquid](/genel/2018/12/26/Bitcoin-gibi-ama-degil-Liquid.html)
   - [Kurumsal yatırımcı Bakkt ile KriptoParalar'a girer mi?](/genel/2019/01/04/kurumsal-yatirimci-bakkt-ile-kriptoparalara-girer-mi.html)
+  - [Kripto kurumsal pazarının büyümesi için bir dev daha devrede: Fidelity Digital](/genel/2019/03/14/kripto-kurumsal-yatirim-pazarinin-buyumesi-icin-bir-dev-daha-devrede-Fidelity-Digital.html)
   - [Madencilik 2.0: Beyaz yakalıdan madenci olur mu?](/genel/2019/01/11/madencilik-2-0-beyaz-yakalidan-madenci-olur-mu.html)
   
   &nbsp;
@@ -50,7 +52,7 @@ Dağıtık (merkezi olmayan, adem-i merkezi) her tür teknoloji ve finans dünya
   - Ethereum'um tarihi için [Dünyanın en büyük bilgisayarı: Ethereum'un hikayesi](/genel/2018/06/14/dunyanin-en-buyuk-bilgisayari-ethereumun-hikayesi.html)
   - 2017-18 yıllarında yaşananlar için [Ethereum'un çıkış ve inişi bir döngünün mü parçası?](/genel/2019/01/18/Ethereumun-cikis-ve-inisi-bir-dongunun-mu-parcasi.html)
   - En temel taşı olan Akıllı Kontratlar'ı anlamak için [Bu kontratlar çok akıllı: Ethereum ve Akıllı Kontratlar](/genel/2018/06/29/bu-kontratlar-cok-akilli-ethereum-ve-akilli-kontratlar.html)
-  - Finans dünyasına getirdiği yenilikler için  [MakerDAO kredi kullanımında çığır açar mı?](https://ademimerkezi.com/genel/2019/02/15/MakerDAO-kredi-kullaniminda-cigir-acar-mi.html)
+  - Finans dünyasına getirdiği yenilikler için  [MakerDAO kredi kullanımında çığır açar mı?](/genel/2019/02/15/MakerDAO-kredi-kullaniminda-cigir-acar-mi.html)
 
 &nbsp;
 
@@ -62,9 +64,9 @@ Dağıtık (merkezi olmayan, adem-i merkezi) her tür teknoloji ve finans dünya
   - ICO dünyasında yatırım yapmaya niyetiniz varsa [ICO Yatırım Rehberi](/genel/2018/09/14/ico-yatirim-rehberi.html) ve [ICO Yatırım Rehberi'ne Devam](/genel/2018/09/21/ico-yatirim-rehberine-devam.html)
   
 - Bitcoin benzeri son çıkan teknolojiler ilginizi çekiyorsa
-  - MimbleWimble protokolü için - [ MimbleWimble aranan mahremiyet büyüsü mü?](https://ademimerkezi.com/genel/2019/01/23/miblewimble-aranan-mahremiyet-buyusu-mu.html)
-  - Bitcoin’e alternatif ödeme araçlarında Grin için  - [Geleceğin ödeme aracı Grin mi olacak?](https://ademimerkezi.com/genel/2019/01/24/gelecegin-odeme-araci-grin-mi-olacak.html)
-  - MimbleWimble ve Grin’in teknik olarak Bitcoin ile benzeşen ve ayrışan tarafları için  - [Grin’e teknik bakış](https://ademimerkezi.com/genel/2019/01/25/Grine-teknik-bakis.html)
+  - MimbleWimble protokolü için - [ MimbleWimble aranan mahremiyet büyüsü mü?](/genel/2019/01/23/miblewimble-aranan-mahremiyet-buyusu-mu.html)
+  - Bitcoin’e alternatif ödeme araçlarında Grin için  - [Geleceğin ödeme aracı Grin mi olacak?](/genel/2019/01/24/gelecegin-odeme-araci-grin-mi-olacak.html)
+  - MimbleWimble ve Grin’in teknik olarak Bitcoin ile benzeşen ve ayrışan tarafları için  - [Grin’e teknik bakış](/genel/2019/01/25/Grine-teknik-bakis.html)
 
 &nbsp;
   
