@@ -6,3 +6,17 @@ Dapps var bu problemi çözmek için
 
 Ama Dapps'ın da sıkıntıları var
 
+Interoperability ne?
+
+
+Ne tip girişimler var?
+
+
+Bireysel kullanıcılar için ne ifade ediyor bu?
+
+
+Girişimler için ne ifade ediyor?
+
+
+Teknik olarak bakış - Polkadot ve Cosmos
+
