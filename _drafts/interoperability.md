@@ -48,8 +48,12 @@ En basit ifadesiyle kullanıcı rahatlığı. Projeler arasında bilgi paylaşı
 
 
 
-Girişimler için ne ifade ediyor?
+### Girişimler için ne ifade ediyor?
+Girişimciler için bir ekosistemde olmanın getirdiği pekçok rahatlık. En önemlilerinden biri, bir Blockhain kurduğunuzda bu Blockchain'in güvenliğini uzlaşma mekanizmalarını da kullanarak bağımsız teyid ediciler ile sağlıyorsunuz (Bitcoin sistemindeki madenciler gibi) Bu teyid edici makinelerin sizin sisteminizde olması ve sisteminizin güvenliğini sağlaması için onlara bir ödül vermeniz gerek. Ayrıca sizin gibi başka pek çok proje de bu makinelerin peşinde. Interoperability içinde yer alırsanız (örneğin Polkadot) makine bulmak için uğraşmıyor ve ortada bulunan bir havuzdan dilediğiniz gibi yararlanıyorsunuz (ücreti mukabilinde). 
 
+Tabii burada şuna da bakmak lazım. Kimi girişimciler için projenin güvenliği hayati önem taşırken, kimileri için o kadar da önemli olmayabiliyor. Normalde bir KriptoPara'dan bahsediyor olsak, sistemin güvenliğinin tehlikeye girmesi o KriptoPara'nın değerini sıfıra indirebilir. Dolayısıyla bu KriptoPara güvenlik için her tür fedakarlığı yapabilir. Bir de Crypto Kitty'leri düşünün. Yani güvenlik iyi güzel de değer taşıyan bir KriptoPara kadar değil. Ama Crypto Kitty'ler de Ethereum ağı üzerinde bu KriptoPara da. Ethereum kendisini süper güvenli yapmak zorunda ve bunun için de ciddi bir maliyeti var. Crypto Kitty sırf Ethereum ağında olduğu için aslında gereksiz yere fazladan bu masrafa katlanmak zorunda. 
+
+Halbuk Interoperability sağlayan bir ağ üzerinde olsa bu alanda güvenlik için gerektiği kadar kullanıp çok daha ekonomik bir şekilde sürecini yönetebilir. 
 
 Teknik olarak bakış - Polkadot ve Cosmos
 
