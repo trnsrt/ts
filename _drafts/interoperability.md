@@ -23,6 +23,14 @@ Ama Ethereum üzerine uygulama yazmanın hayatı kolaylaştırdığı kesin. Bir
 
 Peki o zaman bir orta yol bulunamaz mı? Hem her türlü hakkına sahip olduğum bir Blockchain'im olsun, hem de diğer Blockchain'ler ile rahatça iletişimde olayım? İşte son birkaç yıldır perde arkasından çalışmasını sürdüren ve bu günlerde görücüye çıkan Interoperatibility konusunun iki lideri Polkadot ve Cosmos Network'e geldi sıra. 
 
+### Bir de Binance yeni bir Blockchain başlatmış, o nedir?
+Binance şu an dünyada kullanılan en büyük KriptoPara borsalarından biri. Kurucusu kısaca CZ olarak bilinen bir Çinli. Ülkemizde de çok popüler olan Binance, geçtiğimiz günlerde KriptoPara yanında Binance Chain diye yeni bir Blockchain başlattı. Projenin amacı aslında Ethereum'a yakın. Yeni girişimler için bir altyapı olmayı hedefliyor Binance Chain. Girişimcilere "gelin projenizi Binance Chain üzerinde geliştirin, ya da mevcut geliştirdiğinizi projenizi buraya taşıyın" diyor. Girişimlere önerdiği en büyük avantaj, para yani yatırıma yakınlık. Ciddi bir işlem hacminin döndüğü borsasında, yatırımcılara kendi altyapısı altında kurulmuş girişimlerde erken yatırım fırsatı verdiği gibi, bu girişimlerin de hızlı bir şekilde paraya ulaşmasını sağlamaya çalışıyor. Binance'ın böyle bir hizmeti sadece girişimcilere iyilik olsun diye sunmuyor tabii. 
+
+Kendisi açısından baktığımızda, hem Binance Chain altında çalışan kendi parası BnB(???)'nin kullanımı artırmak hedefi var. Bunun dışında geçmişte çok hızlı bir şekilde büyümüş olan Binance artık yavaş yavaş sıkışmaya başlıyor. Zira üzerinde artan bir baskı var otoriteler tarafından: müşterileri konusunda çok daha seçici davranmasını ve özellikle karapara konusunda ciddi önlemler alması isteniyor. Geçmişte sadece KriptoPara üzerinden işlem yapardı Binance, herhangi bir şekilde ABD Doları, Euro gibi fiat paralarla iş yamadı. Bu sayede otoritelerin gözünden uzak kalmayı becerdi ancak artık mızrak çuvala sığmıyor. 
+
+İşte Binance bundan sonraki adım olarak kendisine Adem-i Merkezi (Decentralized Exchange) bir KriptoPara borsası olmayı hedefliyor. Ancak bu sayede bir merkezi olmayacak. Merkezi olduğunda o merkezin bulunduğu ülkenin kanun ve kurallarına tabi olacaktı - şimdi herhangi bir ülkede olmadığı için tabii olacağı bir ülke de olmayacak. 
+
+
 Interoperability ne?
 
 
