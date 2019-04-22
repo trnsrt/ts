@@ -12,7 +12,6 @@ Temel olarak Blockchain'ler arasında bağlantı kurmak demek, temel olarak onla
 
 Tam olarak birebir sayılmasa da birçok girişim kendi Blockchain'i kurmak yerine mevcut bir Blockchain altyapısını kullanıyor. Örneğin önceki [yazımızda bahsettiğimiz] Crypto Kitties yani Kripto Kedicikler aslında Ethereum üzerine kurulmuş bir oyun. Özellikle Ethereum değişik alanlarda kullanılabilecek (para dışında) bir altyapı oluşturduğu, özellikle de Akıllı Kontratlar konusunda üstüne kurulan uygulamalara esneklik getirdiği için en rağbet gören Blockchain. 
 
-
 ### Peki neden Ethereum üzerine dApps yazarsın, neden kendi Blockchain'ini kurarsın?
 
 Ama Ethereum üzerine uygulama yazmanın hayatı kolaylaştırdığı kesin. Bir kere geniş bir ekosistemin içine giriyorsunuz. Yazılımcı bulmanız kolay, kullanıcılara ulaşmak kolay. Strateji derslerinde sık sık söz edilen Küme Etkisi (Cluster Effect) bir nevi - bütün Kuyumcuların bir çarşıda toplanması gibi.. 
@@ -37,12 +36,16 @@ Kısa vadede başarılı olabilecek bir strateji. Girişim olarak kendinizi büy
 Uzun vadede bu ne kadar başarılı bir strateji tam emin olmak zor. Binance Chain üzerine kurulu girişimleri ne kadar kısıtlayıcı olacak, girişimler Token Migration denen bu Binance Chain'e göçün tam tersini yapma olanağına sahip olacaklar mı kestirmek güç. Ayrıca, girişimler yatırımcılar ile buluşurken Binance ne kadar etkin olacak, ne kadar tarafsız davranacak, bunlar da soru işareti. Aracısız bir yapı için Blockchain kurup ondan sonra Binance gibi bir devi aracı almak ne kadar sağlıklı, girişimcilerin bir değil iki kez düşünmesi gereken bir açmaz. 
 
 ### Interoperability ne?
-Interoperability 
+Interoperability işte bu Ethereum ya da Binance Chain'in yaptığını bir parça daha genişleten bir kavram aslında. Nasıl Ethereum, kendi üzerine kurulan girişimler (dApps) arasında iletişim sağlıyor ancak başka silolara iletişim konusunda sıkıntı yaşanıyor ise, Interoperability sağlayan girişimler aslında bir nevi bunu da aşacak bir çözüm bulmaya çalışıyorlar. Yani, Ethereum üzerine kurulu bir girişimin, başka bir siloda kurulu (örneğin Tezos) başka bir girişim ile iletişimde olmasını sağlıyor. Ya da bir sistemi kullanan bir kullanıcının başka bir sisteme de angaje olabilmesine olanak veriyorlar. 
 
-Ne tip girişimler var?
+### Ne tip girişimler var?
+Interoperability alanında çalışan ve ilerleme sağlamış iki tane girişim bulunmakta. Polkadot ve Cosmos Network. Gelin kısaca neler yaptıklarına ne ile uğraştıklarına bakalım:
 
+Polkadot
 
-Bireysel kullanıcılar için ne ifade ediyor bu?
+### Bireysel kullanıcılar için ne ifade ediyor bu?
+En basit ifadesiyle kullanıcı rahatlığı. Projeler arasında bilgi paylaşımı olması, kullanıcıların kendilerine ait bilgilerinin (kullanıcının izin verdiği kadarının) değişik projelerde kullanılabilmesi anlamına geliyor. Bunu sadece bilginin paylaşılması anlamında düşünmeyin, teyid fonksiyonu olarak da düşünün. 18 yaşından büyük olduğunuz, finansal olarak kabul edilebilir durumda olduğunuz gibi pek çok özelliği. Bilgilerinizi ayrı ayrı projelere tekrar tekrar vermek yerine, bir projeden alacağınız yeterlilik "belgesini" içeriğindeki detayları paylaşmadan diğer projelerde kullanabilmek gibi. 
+
 
 
 Girişimler için ne ifade ediyor?
