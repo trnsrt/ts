@@ -41,7 +41,14 @@ Interoperability işte bu Ethereum ya da Binance Chain'in yaptığını bir par�
 ### Ne tip girişimler var?
 Interoperability alanında çalışan ve ilerleme sağlamış iki tane girişim bulunmakta. Polkadot ve Cosmos Network. Gelin kısaca neler yaptıklarına ne ile uğraştıklarına bakalım:
 
-Polkadot
+#### Polkadot
+
+Polkadot W3Foundation'ın bir projesi. 
+
+#### Cosmos Network
+
+2014 yılında kurulan Cosmos Network, bu alanda çalışan Tendermint'in bir projesi. 
+
 
 ### Bireysel kullanıcılar için ne ifade ediyor bu?
 En basit ifadesiyle kullanıcı rahatlığı. Projeler arasında bilgi paylaşımı olması, kullanıcıların kendilerine ait bilgilerinin (kullanıcının izin verdiği kadarının) değişik projelerde kullanılabilmesi anlamına geliyor. Bunu sadece bilginin paylaşılması anlamında düşünmeyin, teyid fonksiyonu olarak da düşünün. 18 yaşından büyük olduğunuz, finansal olarak kabul edilebilir durumda olduğunuz gibi pek çok özelliği. Bilgilerinizi ayrı ayrı projelere tekrar tekrar vermek yerine, bir projeden alacağınız yeterlilik "belgesini" içeriğindeki detayları paylaşmadan diğer projelerde kullanabilmek gibi. 
