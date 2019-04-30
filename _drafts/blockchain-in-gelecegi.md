@@ -6,14 +6,25 @@ Hadi gelin gelecek ile ilgili (muhtemelen çoğu yanlış çıkacak) bir kaç ö
 
 Basit olanlardan başlayalım: Web 3.0'ın bize yeni bir dünya getireceği artık bir tahmin bile değil, şimdiden görmeye başladığımız bir durum. 
 
-Web 3.0 nedir derseniz, kısaca şu [yazımıza] göz atabilirsiniz, ama bir cümle ile özetler isek: Dijital hayatta ekonomik, sosyal, kültürel her tür ikili ya da çoklu ilişkide aracılara olan ihtiyacı ortadan kaldıran yeni teknolojiler. Nedir bu yeni teknolojilerin aracılar ile derdi? Söyleyelim:
-* Aracılar genelde merkezi yapılar olduğu için bu yeni teknolojiler adem-i merkezi
-* Aracılar bu işi yapmak için çok para isterken maliyetli olduğu için bu teknolojiler daha ucuz ya da ücretsiz
+Web 3.0 nedir derseniz, kısaca şu [yazımıza] göz atabilirsiniz, ama bir cümle ile özetler isek: 
+Dijital hayatta ekonomik, sosyal, kültürel her tür ikili ya da çoklu ilişkide aracılara olan ihtiyacı ortadan kaldıran yeni teknolojiler. Bu teknolojilerin aracılar ile derdi nedir derseniz:
+* Aracılar genelde merkezi yapılar olduğu için bu yeni teknolojiler adem-i merkezi. Merkezi yapılar gücü ellerinde tutarken yeni teknolojiler bu gücü kullanıcı ile paylaşıyor
 * Aracılar kişilerin bilgilerini korumada yetersiz kaldığı ya da parasal değerleri daha ön planda tuttukları için yeni teknolojiler daha mahremiyete önem veriyorlar
+* Aracılar yaptıkları iş için çok para isterken bu teknolojiler daha ucuz ya da ücretsiz
+
+Web 2.0 bize pek çok yeni şirket ve iş modeli getirdi. 20 yıl önce ortada olmayan şirketler bugün dünyanın ne büyüğü oldular. Bakın listeye, en büyükler içinde kaç tanesi 20 yıl önce vardı?
+
+&nbsp;
+
+| ![top_10_in_mcap.png](/assets/top_10_in_mcap.png) | 
+|:--:| 
+| *Dünyanın en büyük 10 şirketi - Mayıs 2019 (Milyar ABD Doları) | 
+
+&nbsp;
+
+
 
 Bu alanda çalışan binlerce girişim var. Hangisi başarılı olacak şu noktada bilmeye ihtimal yok tabii. 
-
-Web 2.0 bize pek çok yeni şirket ve iş modeli getirdi. Geçmişte olmayan şirketler bugün dünyanın ne büyüğü oldular. 
 
 Bu şirketler ne ile uğraşıyor olacaklar? 
 
