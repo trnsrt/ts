@@ -34,7 +34,7 @@ Bu alanda çalışan binlerce girişim var. Hangisi başarılı olacak şu nokta
 
 Bunu yapabilmek için, önlerinde aşmaları gereken uzun ve zahmetli bir yol var. Çünkü karşılarındaki aracıların maddi imkanları çok geniş. Bu gücü kullanarak en iyi yazılımcıları tutup en gelişmiş programları yazdırabilirler. Üstelik bunların bir çoğu müşterilerini çok iyi dinliyorlar, onların taleplerine hızlı cevap veriyorlar. 
 
-İşte bu nedenle yeni girişimlerin ucuz oldukları kadar pratik de olmaları gerekiyor. Merkezi olmayan bir yapı oluşturmak başlı başına karmaşık bir işlem. Girişimler şimdiye kadar bu altyapıyı geliştirmek için çaba sarfettiler. Ancak çıkan ürünler ya da hizmetler son kullanıcı açısından oldukça karmaşık, anlaması ve kullanması zor. Bundan sonrasında hem fonksiyon hem de kullanıcı arayüzü anlamında kullanıcı rahatlığına dönük çaba göstermeleri gerekiyor girişimlerin. 
+İşte bu nedenle yeni girişimlerin ucuz oldukları kadar pratik de olmaları gerekiyor. Merkezi olmayan bir yapı oluşturmak başlı başına karmaşık bir işlem. Girişimler şimdiye kadar bu altyapıyı geliştirmek için çaba sarfettiler. Ancak çıkan ürünler ya da hizmetler son kullanıcı açısından oldukça karmaşık; anlaması ve kullanması zor. Bundan sonrasında hem fonksiyon hem de kullanıcı arayüzü anlamında kullanıcı rahatlığına dönük çaba göstermeleri gerekiyor yeni teknoloji girişimlerinin. 
 
 #### Ya "bedava" hizmet veren merkezi aracılar?
 
