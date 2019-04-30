@@ -57,9 +57,6 @@ Bir Blockchain'in mevcut ve gelecekteki işleyişi üzerindeki karar yetkisinin 
 
 Her bir Blockchain farklı bir yönetim prensibi benimsiyor; açıkçası hangi yönetim biçiminin öne çıkacağına ileride yaşayacağımız olaylar ışık tutacak. Değişik durum ve gelişen olaylara Blockchain içindeki oyuncuların vereceği tepkiler en kullanışlı yönetim modellerini ortaya çıkaracak. Bir modelden çok birden fazla kullanışlı model olacak - uygun model sektör, ihtiyaçlar, oyuncuların beklentileri, Blockchain sisteminin olgunluğu gibi pek çok etkeni göz önüne alırsak farklı farklı modeller göreceğiz. 
 
-#### İşbirliği / Karşılıklı çalışma (interoperability)
-Önümüzdeki dönemin en önemli konularından biri Blockchain'lerin karşılıklı olarak birbirleri ile iletişimde olmaları olacak. Şu an her bir Blockchain kendi dünyası içinde doğuyor ve büyümeye çalışıyor. Bir noktaya kadar bu şekilde gelişim gösterebilirsiniz. Ancak daha fazla büyüme ve kullanıcı adaptasyonu için mutlaka daha geniş bir alanda oynamalı ve diğer Blockchain'ler ile bilgi alışverişi sağlamalısınız.  
-
 #### Finansman modellerinde değişim
 2017 ve kısmen 2018'de yaşanan token çıkarıp yatırımcılardan direkt para toplama modeli (ICO) 2019'a geldiğimizde iyice yavaşlamış durumda. Bunun yerine kripto para borsaları ile direkt anlaşarak borsaların müşterilerine direkt satış yaygınlaşıyor. Merkezi olmayan Blockchain ruhu ile çelişen bu durum ne kadar sürdürülebilir önümüzdeki günlerde göreceğiz. 
 
@@ -70,4 +67,8 @@ Geçtiğimiz yıl içinde Özel/Kapalı (Private) Blockchain alanında yapılan 
 
 Bir yandan da sessiz ama derinden devam eden pek çok proje var. IBM bu konuda desteklediği Hyperledger teknolojisi ile hem kendi iç yatırımına hem de ekosistemi geliştirici hamlelerine devam ediyor. Bunu yaparken de potansiyel olabilecek şirketler ile işbirliğinde tam gaz ilerliyorlar. Kısa vadede çok büyük bir başarı beklentisi yok, uzun vadeli olarak potansiyel devam etmekte. 
 
+#### İşbirliği / Karşılıklı çalışma (interoperability)
+Önümüzdeki dönemin en önemli konularından biri Blockchain'lerin karşılıklı olarak birbirleri ile iletişimde olmaları olacak. Şu an her bir Blockchain kendi dünyası içinde doğuyor ve büyümeye çalışıyor. Bir noktaya kadar bu şekilde gelişim gösterebilirsiniz. Ancak daha fazla büyüme ve kullanıcı adaptasyonu için mutlaka daha geniş bir alanda oynamalı ve diğer Blockchain'ler ile bilgi alışverişi sağlamalısınız.  
 
+### Arkası yarın
+Bir sonraki yazımızda Blockchain dünyasındaki en önemli gelişmelerden olan yukarıdaki son madde işbirliği (interoperability) ne imiş ona bakalım dilerseniz. 
