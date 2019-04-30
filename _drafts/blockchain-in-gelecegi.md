@@ -16,7 +16,7 @@ Peki bu teknolojilerin aracılar ile derdi ne?
 * Aracılar kullanıcılarının bilgilerini korumada yetersiz kaldıkları ya da parasal faydayı daha ön planda tuttukları için kullanıcı tepkisi çekiyorlar; yeni teknolojiler kullanıcı mahremiyetine daha önem veriyor.
 * Aracılar merkezi yapılar olarak zamanla genişliyor ve hantal yapılar haline geliyorlar. Bu da maliyetlerini artırıyor. Bir taraftan da bu yapıların hemen hemen tümü halka açık olduğu için her üç ayda bir borsaya kâr bildirmek, üstelik her seferinde bu kârı ciddi miktarda artırmak zorundalar. Dolayısıyla verdikleri hizmet için kullanıcılardan daha çok para isterken yeni teknolojiler daha ucuz ya da ücretsiz. 
 
-Web 2.0 bize pek çok yeni şirket ve iş modeli getirdi. 20 yıl önce ortada olmayan şirketler bugün dünyanın en büyüğü oldular. Bakın listeye, piyasa değeri en yüksek on şirketin yedisi teknoloji şirketi ve bunların beşi Web 2.0 sonrası doğdular (Apple biraz daha eski ama esasında onun büyümesi de Web 2.0'a bağlı)
+Web 2.0 bize pek çok yeni şirket ve iş modeli getirdi. 20 yıl önce ortada olmayan şirketler bugün dünyanın en büyüğü oldular. Bakın listeye, piyasa değeri en yüksek on şirketin yedisi teknoloji şirketi ve bunların beşi Web 2.0 sonrası doğdular (Apple biraz daha eski ama esasında onun büyümesi de Web 2.0 sayesinde)
 
 &nbsp;
 
