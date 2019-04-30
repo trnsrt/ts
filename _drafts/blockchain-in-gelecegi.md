@@ -30,9 +30,9 @@ Bu alanda çalışan binlerce girişim var. Hangisi başarılı olacak şu nokta
 
 Öncelikle güven ihtiyacını minimuma indirmekle meşgul olacaklar. Neden? Son kullanıcının güven ihtiyacını karşılayarak ondan komisyon tırtıklayan her türlü aracıyı yukarıda saydığımız araçlar ile alt edebilmek için. 
 
-Bunu yapabilmek için, çok çalışmaları gerekiyor. Çünkü karşılarındaki aracıların çok büyük sermayeleri var. Bu sermayeyi kullanarak en iyi yazılımcıları tutup en gelişmiş programları yazdırabilirler. Üstelik bunların bir çoğu müşterilerini çok iyi dinliyorlar. Yaptıkları ürünler müşterinin rahatlığına yönelik. 
+Bunu yapabilmek için, önlerinde aşmaları gereken uzun ve zahmetli bir yol var. Çünkü karşılarındaki aracıların maddi imkanları çok geniş. Bu gücü kullanarak en iyi yazılımcıları tutup en gelişmiş programları yazdırabilirler. Üstelik bunların bir çoğu müşterilerini çok iyi dinliyorlar, onların taleplerine hızlı cevap veriyorlar. 
 
-İşte bu nedenle yeni girişimlerin ucuz oldukları kadar pratik de olmaları gerekiyor.
+İşte bu nedenle yeni girişimlerin ucuz oldukları kadar pratik de olmaları gerekiyor. Merkezi olmayan bir yapı oluşturmak başlı başına karmaşık bir işlem. Girişimler şimdiye kadar bu altyapıyı geliştirmek için çaba sarfettiler. Ancak çıkan ürünler ya da hizmetler son kullanıcı açısından oldukça karmaşık, anlaması ve kullanması zor. Bundan sonrasında hem fonksiyon hem de kullanıcı arayüzü anlamında kullanıcı rahatlığına dönük çaba göstermeleri gerekiyor girişimlerin. 
 
 #### Ya "bedava" hizmet veren merkezi aracılar?
 
