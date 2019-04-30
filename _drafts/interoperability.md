@@ -10,7 +10,7 @@ Temel olarak Blockchain'ler arasında bağlantı kurmak demek, onların birbirle
 
 #### Şu anda kullanılan başka alternatifler var mı?
 
-Tam olarak bire bir olmasa da birçok girişim kendi Blockchain'ini kurmak yerine mevcut bir Blockchain altyapısını kullanıyor. Örneğin önceki bir [yazımızda bahsettiğimiz](/genel/2018/04/06/sanat-icin-blockchain.html) Crypto Kitties yani Kripto Kedicikler aslında Ethereum üzerine kurulmuş bir oyun. Özellikle Ethereum değişik alanlarda kullanılabilecek (para dışında) bir altyapı oluşturduğu, özellikle de Akıllı Kontratlar konusunda üstüne kurulan uygulamalara esneklik getirdiği için en rağbet gören Blockchain. 
+Tam olarak bire bir olmasa da birçok girişim kendi Blockchain'ini kurmak yerine mevcut bir Blockchain altyapısını kullanıyor. Örneğin önceki bir [yazımızda bahsettiğimiz](/posts/genel/2018/04/06/sanat-icin-blockchain.html) Crypto Kitties yani Kripto Kedicikler aslında Ethereum üzerine kurulmuş bir oyun. Özellikle Ethereum değişik alanlarda kullanılabilecek (para dışında) bir altyapı oluşturduğu, özellikle de Akıllı Kontratlar konusunda üstüne kurulan uygulamalara esneklik getirdiği için en rağbet gören Blockchain. 
 
 ### Peki neden Ethereum üzerine dApps yazarsın, neden kendi Blockchain'ini kurarsın?
 
