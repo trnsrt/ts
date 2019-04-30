@@ -12,9 +12,9 @@ Web 3.0 nedir derseniz, kısaca şu [yazımıza](/genel/2018/03/01/Geceleri-uyku
 **"Dijital hayatta ekonomik, sosyal, kültürel her tür ikili ya da çoklu ilişkide aracılara olan ihtiyacı ortadan kaldıran yeni teknolojiler"**
 
 Peki bu teknolojilerin aracılar ile derdi ne?
-* Aracılar genelde merkezi yapılar. Kullanıcılar ile ilişkilerde güç dengesi hep bu merkezi yapıların tarafında. Bu dengeye karşı çıkan kullanıcı tarafındaki yeni teknolojiler ise adem-i merkezi yani merkeziyetsiz. 
-* Aracılar kullanıcılarının bilgilerini korumada yetersiz kaldığı ya da parasal faydayı daha ön planda tuttukları için yeni teknolojiler mahremiyete daha fazla önem veriyorlar
-* Aracılar merkezi yapılar olarak zamanla genişliyor ve hantal yapılar haline geliyorlar. Bu da maliyetlerini artırıyor. Bir taraftan da çoğu halka açık olduğu için her üç ayda bir borsaya kâr bildirmek, üstelik her seferinde bu kârı ciddi miktarda artırmak zorundalar. Dolayısıyla verdikleri hizmet için kullanıcılardan daha çok para isterken bu teknolojiler daha ucuz ya da ücretsiz. 
+* Aracılar genelde merkezi yapılar. Kullanıcılar ile ilişkilerde güç dengesi hep bu merkezi yapıların tarafında. Bu dengeye karşı çıkan kullanıcı tarafındaki yeni teknolojiler ise adem-i merkezi yani gücü kullanıcı da dahil dış oyuncular ile paylaşıyorlar. 
+* Aracılar kullanıcılarının bilgilerini korumada yetersiz kaldıkları ya da parasal faydayı daha ön planda tuttukları için kullanıcı tepkisi çekiyorlar; yeni teknolojiler kullanıcı mahremiyetine daha önem veriyor.
+* Aracılar merkezi yapılar olarak zamanla genişliyor ve hantal yapılar haline geliyorlar. Bu da maliyetlerini artırıyor. Bir taraftan da bu yapıların hemen hemen tümü halka açık olduğu için her üç ayda bir borsaya kâr bildirmek, üstelik her seferinde bu kârı ciddi miktarda artırmak zorundalar. Dolayısıyla verdikleri hizmet için kullanıcılardan daha çok para isterken yeni teknolojiler daha ucuz ya da ücretsiz. 
 
 Web 2.0 bize pek çok yeni şirket ve iş modeli getirdi. 20 yıl önce ortada olmayan şirketler bugün dünyanın en büyüğü oldular. Bakın listeye, piyasa değeri en yüksek 10 şirketin 7'si teknoloji şirketi ve bunların 5'i Web 2.0 sonrası doğdular (Apple biraz daha eski ama esasında onun büyümesi de Web 2.0'a bağlı)
 
