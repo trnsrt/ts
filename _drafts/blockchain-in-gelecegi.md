@@ -8,7 +8,7 @@ Hadi gelin gelecek ile ilgili (muhtemelen çoğu yanlış çıkacak) bir kaç ö
 
 Basit olanlardan başlayalım: Web 3.0'ın bize yeni bir dünya getireceği artık bir tahmin bile değil, şimdiden görmeye başladığımız bir durum. 
 
-Web 3.0 nedir derseniz, kısaca şu [yazımıza] göz atabilirsiniz, ama bir cümle ile özetler isek: 
+Web 3.0 nedir derseniz, kısaca şu [yazımıza](/genel/2018/03/01/Geceleri-uykunuzu-ne-kaciriyor.html) göz atabilirsiniz, ama bir cümle ile özetlersek: 
 Dijital hayatta ekonomik, sosyal, kültürel her tür ikili ya da çoklu ilişkide aracılara olan ihtiyacı ortadan kaldıran yeni teknolojiler. Bu teknolojilerin aracılar ile derdi nedir derseniz:
 * Aracılar genelde merkezi yapılar olduğu için bu yeni teknolojiler adem-i merkezi. Merkezi yapılar gücü ellerinde tutarken yeni teknolojiler bu gücü kullanıcı ile paylaşıyor
 * Aracılar kişilerin bilgilerini korumada yetersiz kaldığı ya da parasal değerleri daha ön planda tuttukları için yeni teknolojiler daha mahremiyete önem veriyorlar
