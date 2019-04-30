@@ -42,13 +42,13 @@ Dolayısıyla eğer girişimler ücretsiz devler ile yarışıyorlar ise, o zama
 
 Kullanım kolaylığı ile kişisel bilginin paylaşımı savaşını bakalım kim kazanacak? 
 
-#### Hala çoğu aracı bedel istiyor ama...
+#### Hâlâ çoğu aracı bedel istiyor ama...
 
-Yine de pek çok alanda aracılar hala çok güçlü ve kullanıcılardan ciddi rakamlar talep ediyorlar. Aracının olacağı her alanda yeni girişimler mevcut oyunculara gittikçe daha artan bir şekilde rakip olacaklar. 
+Yine de pek çok alanda aracılar hâlâ çok güçlü ve kullanıcılardan ciddi rakamlar talep ediyorlar. Aracının olacağı her alanda yeni girişimler mevcut oyunculara gittikçe daha artan bir şekilde rakip olacaklar. 
 
 Peki Blockchain'in geleceği ile ilgili olarak neler söyleyebiliriz. Bizi bu alanda neler bekliyor?
 
-### Kısa vadede Blockchain'de beklenenler
+### Peki kısa vadede neler olacak?
 
 Öncelikle kısa vadeli olarak baktığımızda, Blockchain dünyasında çok tartışılacak konular, 
 
@@ -66,4 +66,8 @@ Her bir Blockchain farklı bir yönetim prensibi benimsiyor; açıkçası hangi 
 Kripto alanında uzmanlaşmış fonlar aracılığı ile halka açılma öncesi finansman modeli de 2017-2018 öncesine göre evrim geçiriyor. O yıllarda (tıpkı internet köpüğünün patladığı 2000'ler öncesinde olduğu gibi) önüne gelen girişime zorla para veren fonlar kalmadı artık. Bunun yerine, seçici davranan ama inandığı fona çok yüksek çekler kesebilen fonlar var artık. Sadece şirkete yatırımla da kalmıyorlar, bunun yanında ekosistemi geliştirici madencilik, girişimin ekosistemini destek olacak daha küçük girişimlere yatırım gibi yan alanlara da kaymış durumdalar. Yani bir nevi "ya herru ya merru" şeklinde yaklaşıyor fonlar. 
 
 #### Çeşitlenen özel Blockchain girişimleri
-Bir yandan da sessiz ama derinden devam eden pek çok deneme var özel Blockchain alanında. IBM bu konuda desteklediği Hyperledger teknolojisi ile hem kendi iç yatırımı hem de ekosistemi geliştirici hamlelerine devam ediyor. Bunu yaparken de potansiyel olabilecek şirketler ile işbirliğine devam ediyorlar. Geçtiğimiz yıl içinde yapılan denemelerde sınırlı başarı elde edildi. Tasarruf odaklı elde edilen kazanımlar yapılan zahmete henüz değmiyor. Bu da Blockchain ile ilgili genel heyecanı biraz södürmüş 
+Geçtiğimiz yıl içinde Özel/Kapalı (Private) Blockchain alanında yapılan denemelerde sınırlı başarı elde edildi. Tasarruf odaklı elde edilen kazanımlar yapılan zahmete henüz değmiyor. Bu da Blockchain ile ilgili genel heyecanı biraz söndürmüş görünüyor.  
+
+Bir yandan da sessiz ama derinden devam eden pek çok proje var. IBM bu konuda desteklediği Hyperledger teknolojisi ile hem kendi iç yatırımına hem de ekosistemi geliştirici hamlelerine devam ediyor. Bunu yaparken de potansiyel olabilecek şirketler ile işbirliğinde tam gaz ilerliyorlar. Kısa vadede çok büyük bir başarı beklentisi yok, uzun vadeli olarak potansiyel devam etmekte. 
+
+
