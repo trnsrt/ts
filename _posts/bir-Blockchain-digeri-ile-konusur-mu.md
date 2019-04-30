@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Bir Blockchain diğeri ile konuşur mu?"
+date:   2019-05-01 12:42:56 +0300
+categories: Genel
+---
+
+
 Burada ve benzer pek çok yazıda Blockchain üzerine değişik girişimleri okuyoruz. Ancak dikkat ettiniz mi bilmiyorum, bu tip girişimlerin her biri genelde ayrı bir Blockchain kuruyorlar. Ve birbirleri ile pek bir bağlantıları yok. Zaten kullanıcıları çok sınırlı, hatta pek çoğunun sıfıra yakın. Yani bir okyanus üzerine kurulmuş ıssız adalar gibiler. Bu ne kadar sağlıklı?
 
 #### Peki Blockchain'leri bağlamak ne demek? 
