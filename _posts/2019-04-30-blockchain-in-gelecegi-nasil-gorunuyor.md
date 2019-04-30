@@ -84,3 +84,7 @@ Bir yandan da sessiz ama derinden devam eden pek çok proje var. IBM bu konuda d
 
 ### Arkası yarın
 Bir sonraki yazımızda Blockchain dünyasındaki en önemli gelişmelerden olan yukarıdaki son madde karşılıklı işbirliği (interoperability) ne imiş ona bakalım dilerseniz. 
+
+&nbsp;
+
+*Not: Yazdığımız 50+ yazının bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](/about/) sayfasına göz atabilirsiniz.*
