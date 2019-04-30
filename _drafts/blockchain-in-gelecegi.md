@@ -1,12 +1,12 @@
+Yurtdışında (özellikle ABD'de) çok rastlarız: İnsalar gelecek için belli öngörülerde bulunurlar ve sonrasında da bu öngörülerin olup olmadığına bakarlar. Hatalarını da göğüslerini gere gere söylerler. Bizde ise bu çok görülmez - en uzman kişiler bile genellikle hata yapmaktan korktukları için geleceğe yönelik tahmin yapmaktan çekinirler (çoktan seçmeli üniversite sisteminin getirdiği sıkıntılardan biri bu - yorumdan çok bilme/ezberlemenin ön planda olduğu ve hata yapıldığında binlerce sıra geriye düşüldüğü bir sistemin çocukları olarak hepimiz böyleyiz)
 
+Hadi gelin gelecek ile ilgili (muhtemelen çoğu yanlış çıkacak) bir kaç öngörüde bulunalım. 
 
-Yurtdışında (özellikle ABD'de) çok rastladığımız bir durumdur. İnsalar gelecek için belli öngörülerde bulunurlar ve sonrasında da bu öngörülerin olup olmadığına bakarlar. Hatalarını da göğüslerini gere gere söylerler. Bizde ise bu çok görülmez - en uzman kişiler bile genellikle hata yapmaktan korktukları için geleceğe yönelik tahmin yapmaktan çekiniler (çoktan seçmeli üniversite sisteminin getirdiği sıkıntılardan biri bu - yorumdan çok bilme/ezberlemenin ön planda olduğu ve hata yapıldığında binlerce sıra geriye düşüldüğü bir sistem)
+### Blockchain'in geleceği nasıl olacak?
 
-Gelin gelecek ile ilgili (muhtemelen çoğu yanlış çıkacak) bir kaç öngörüde bulunalım. 
+Basit olanlardan başlayalım: Web 3.0'ın bize yeni bir dünya getireceği artık bir tahmin bile değil, şimdiden görmeye başladığımız bir durum. 
 
-Öncelikle Web 3.0'ın bize yeni bir dünya getireceğini tahmin etmek kehanet değil. 
-
-Web 3.0 nedir derseniz, kısaca şu [yazımıza] göz atabilirsiniz, ama bir cümle ile özetler isek: Dijital hayatta ekonomik, sosyal, kültürel her tür ikili ya da çoklu ilişkide aracılara olan ihtiyacı ortadan kaldıran yeni teknolojiler. Nedir bu yeni teknolojilerin aracılar ile dertleri? Söyleyelim:
+Web 3.0 nedir derseniz, kısaca şu [yazımıza] göz atabilirsiniz, ama bir cümle ile özetler isek: Dijital hayatta ekonomik, sosyal, kültürel her tür ikili ya da çoklu ilişkide aracılara olan ihtiyacı ortadan kaldıran yeni teknolojiler. Nedir bu yeni teknolojilerin aracılar ile derdi? Söyleyelim:
 * Aracılar genelde merkezi yapılar olduğu için bu yeni teknolojiler adem-i merkezi
 * Aracılar bu işi yapmak için çok para isterken maliyetli olduğu için bu teknolojiler daha ucuz ya da ücretsiz
 * Aracılar kişilerin bilgilerini korumada yetersiz kaldığı ya da parasal değerleri daha ön planda tuttukları için yeni teknolojiler daha mahremiyete önem veriyorlar
