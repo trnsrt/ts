@@ -50,29 +50,31 @@ Kullanım kolaylığı ile kişisel bilginin paylaşımı savaşını bakalım k
 
 Yine de pek çok alanda aracılar hâlâ çok güçlü ve kullanıcılardan ciddi rakamlar talep ediyorlar. Aracının olacağı her alanda yeni girişimler mevcut oyunculara gittikçe daha artan bir şekilde rakip olacaklar. 
 
-Peki Blockchain'in geleceği ile ilgili olarak neler söyleyebiliriz. Bizi bu alanda neler bekliyor?
-
 ### Peki kısa vadede neler olacak?
 
-Öncelikle kısa vadeli olarak baktığımızda, Blockchain dünyasında çok tartışılacak konular, 
+Öncelikle kısa vadeli olarak baktığımızda, Blockchain dünyasında önümüzdeki aylar ve birkaç yıl boyunca en çok tartışılacak konular şunlar görünüyor:  
 
 #### Yönetim şekli (governance):  
 Bir Blockchain'in mevcut ve gelecekteki işleyişi üzerindeki karar yetkisinin kimler tarafından hangi durumlarda kullanılacağı konusunda hâlâ çok net değil. 
 
-Her bir Blockchain farklı bir yönetim prensibi benimsiyor; açıkçası hangi yönetim biçiminin öne çıkacağına ileride yaşayacağımız olaylar ışık tutacak. Değişik durum ve gelişen olaylara Blockchain içindeki oyuncuların vereceği tepkiler en kullanışlı yönetim modellerini ortaya çıkaracak. Bir modelden çok birden fazla kullanışlı model olacak - uygun model sektör, ihtiyaçlar, oyuncuların beklentileri, Blockchain sisteminin olgunluğu gibi pek çok etkeni göz önüne alırsak farklı farklı modeller göreceğiz. 
+Her bir Blockchain farklı bir yönetim prensibi benimsiyor; açıkçası hangi yönetim biçiminin öne çıkacağına ileride yaşayacağımız olaylar ışık tutacak. Değişik durum ve gelişen olaylara oyuncuların vereceği tepkiler en kullanışlı yönetim modellerini ortaya çıkaracak. 
+
+Bir modelden çok birden fazla kullanışlı model olacak - sektör, ihtiyaçlar, oyuncuların beklentileri, Blockchain sisteminin olgunluğu gibi pek çok etkeni göz önüne alan farklı durumlar uygun farklı modeller göreceğiz. 
 
 #### Finansman modellerinde değişim
-2017 ve kısmen 2018'de yaşanan token çıkarıp yatırımcılardan direkt para toplama modeli (ICO) 2019'a geldiğimizde iyice yavaşlamış durumda. Bunun yerine kripto para borsaları ile direkt anlaşarak borsaların müşterilerine direkt satış yaygınlaşıyor. Merkezi olmayan Blockchain ruhu ile çelişen bu durum ne kadar sürdürülebilir önümüzdeki günlerde göreceğiz. 
+2017 ve kısmen 2018'de yaşanan token çıkarıp yatırımcılardan direkt para toplama modeli (ICO) 2019'a geldiğimizde artık eski hızında değil. Bunun yerine kripto para borsaları ile birebir anlaşarak bu borsaların müşterilerine direkt satış yöntemi yaygınlaşıyor. Merkezi olmamak ile övünen Blockchain ruhu ile çelişen bu yöntem daha ne kadar sürdürülebilir önümüzdeki aylarda göreceğiz. 
 
-Kripto alanında uzmanlaşmış fonlar aracılığı ile halka açılma öncesi finansman modeli de 2017-2018 öncesine göre evrim geçiriyor. O yıllarda (tıpkı internet köpüğünün patladığı 2000'ler öncesinde olduğu gibi) önüne gelen girişime zorla para veren fonlar kalmadı artık. Bunun yerine, seçici davranan ama inandığı fona çok yüksek çekler kesebilen fonlar var artık. Sadece şirkete yatırımla da kalmıyorlar, bunun yanında ekosistemi geliştirici madencilik, girişimin ekosistemini destek olacak daha küçük girişimlere yatırım gibi yan alanlara da kaymış durumdalar. Yani bir nevi "ya herru ya merru" şeklinde yaklaşıyor fonlar. 
+Kripto alanında uzmanlaşmış fonlar aracılığı ile halka açılma öncesi finansman modeli de 2017-2018 öncesine göre evrim geçiriyor. O yıllarda (tıpkı internet balonunun patladığı 2000'ler öncesinde olduğu gibi) önüne gelen girişime neredeyse gördüğünde cebine para sokacakmış gibi kolayca para veren fonlar kalmadı artık. Bunun yerine, seçici davranan ama inandığı girişime çok büyük meblağlı çekler kesen fonlar var artık. 
+
+Bu fonlar sadece şirkete yatırımla da kalmıyorlar, bunun yanında ekosistemi geliştirici madencilik ya da yatırım yaptığı ekosisteme destek olacak daha küçük girişimlere yatırım gibi yan alanlara da kaymış durumdalar. Fonlar aktif yatırımcılık yapmaya devam edecekler. 
 
 #### Çeşitlenen özel Blockchain girişimleri
-Geçtiğimiz yıl içinde Özel/Kapalı (Private) Blockchain alanında yapılan denemelerde sınırlı başarı elde edildi. Tasarruf odaklı elde edilen kazanımlar yapılan zahmete henüz değmiyor. Bu da Blockchain ile ilgili genel heyecanı biraz söndürmüş görünüyor.  
+Geçtiğimiz yıl içinde özel/kapalı (private) Blockchain alanında yapılan denemelerde sınırlı başarı elde edildi. Tasarruf odaklı elde edilen kazanımlar yapılan zahmete henüz değmiyor. Bu da iş çevrelerinde Blockchain ile ilgili genel heyecanı biraz söndürmüş görünüyor.  
 
-Bir yandan da sessiz ama derinden devam eden pek çok proje var. IBM bu konuda desteklediği Hyperledger teknolojisi ile hem kendi iç yatırımına hem de ekosistemi geliştirici hamlelerine devam ediyor. Bunu yaparken de potansiyel olabilecek şirketler ile işbirliğinde tam gaz ilerliyorlar. Kısa vadede çok büyük bir başarı beklentisi yok, uzun vadeli olarak potansiyel devam etmekte. 
+Bir yandan da sessiz ama derinden devam eden pek çok proje var. IBM bu konuda desteklediği Hyperledger teknolojisi ile hem kendi iç yatırımına hem de ekosistemi geliştirici hamlelerine devam ediyor. Bunu yaparken de potansiyel olduğunu düşündükleri sektörlerde lider şirketler ile işbirliğinde tam gaz ilerliyorlar. Kısa vadede çok büyük bir başarı beklentisi yok, uzun vadeli olarak potansiyel ne kadar gerçek olacak onu da bekleyip göreceğiz. 
 
 #### İşbirliği / Karşılıklı çalışma (interoperability)
-Önümüzdeki dönemin en önemli konularından biri Blockchain'lerin karşılıklı olarak birbirleri ile iletişimde olmaları olacak. Şu an her bir Blockchain kendi dünyası içinde doğuyor ve büyümeye çalışıyor. Bir noktaya kadar bu şekilde gelişim gösterebilirsiniz. Ancak daha fazla büyüme ve kullanıcı adaptasyonu için mutlaka daha geniş bir alanda oynamalı ve diğer Blockchain'ler ile bilgi alışverişi sağlamalısınız.  
+Önümüzdeki dönemin en önemli konularından biri Blockchain'lerin karşılıklı olarak birbirleri ile iletişimde olmaları olacak. Şu an her bir Blockchain kendi dünyası içinde doğuyor ve büyümeye çalışıyor. Bir noktaya kadar bu şekilde belli bir gelişim gösterebilirsiniz. Ancak daha fazla büyüme ve kullanıcı adaptasyonu için mutlaka daha geniş bir alanda oynamalı ve diğer Blockchain'ler ile bilgi alışverişi sağlamalısınız.  İşte bu konuda interoperability denen karşılıklı işbirliğini artırıcı altyapı çalışmaları da tam gaz devam ediyor. 
 
 ### Arkası yarın
-Bir sonraki yazımızda Blockchain dünyasındaki en önemli gelişmelerden olan yukarıdaki son madde işbirliği (interoperability) ne imiş ona bakalım dilerseniz. 
+Bir sonraki yazımızda Blockchain dünyasındaki en önemli gelişmelerden olan yukarıdaki son madde karşılıklı işbirliği (interoperability) ne imiş ona bakalım dilerseniz. 
