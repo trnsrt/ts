@@ -9,7 +9,9 @@ Hadi gelin gelecek ile ilgili (muhtemelen çoğu yanlış çıkacak) birkaç ön
 Basit olanlardan başlayalım: Web 3.0'ın bize yeni bir dünya getireceği artık bir tahmin bile değil, şimdiden görmeye başladığımız bir durum. 
 
 Web 3.0 nedir derseniz, kısaca şu [yazımıza](/genel/2018/03/01/Geceleri-uykunuzu-ne-kaciriyor.html) göz atabilirsiniz, ama bir cümle ile özetlersek: 
-Dijital hayatta ekonomik, sosyal, kültürel her tür ikili ya da çoklu ilişkide aracılara olan ihtiyacı ortadan kaldıran yeni teknolojiler. Peki bu teknolojilerin aracılar ile derdi ne?
+**"Dijital hayatta ekonomik, sosyal, kültürel her tür ikili ya da çoklu ilişkide aracılara olan ihtiyacı ortadan kaldıran yeni teknolojiler"**
+
+Peki bu teknolojilerin aracılar ile derdi ne?
 * Aracılar genelde merkezi yapılar. Kullanıcılar ile ilişkilerde güç dengesi hep bu merkezi yapıların tarafında. Bu dengeye karşı çıkan kullanıcı tarafındaki yeni teknolojiler ise adem-i merkezi yani merkeziyetsiz. 
 * Aracılar kullanıcılarının bilgilerini korumada yetersiz kaldığı ya da parasal faydayı daha ön planda tuttukları için yeni teknolojiler mahremiyete daha fazla önem veriyorlar
 * Aracılar merkezi yapılar olarak zamanla genişliyor ve hantal yapılar haline geliyorlar. Bu da maliyetlerini artırıyor. Bir taraftan da çoğu halka açık olduğu için her üç ayda bir borsaya kâr bildirmek, üstelik her seferinde bu kârı ciddi miktarda artırmak zorundalar. Dolayısıyla verdikleri hizmet için kullanıcılardan daha çok para isterken bu teknolojiler daha ucuz ya da ücretsiz. 
