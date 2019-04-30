@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Blockchain'in geleceği nasıl görünüyor?"
+date:   2019-04-30 12:42:56 +0300
+categories: Genel
+---
+
+
 Yurtdışında (özellikle ABD'de) çok rastlarız: İnsanlar gelecek için belli öngörülerde bulunurlar ve sonrasında da bu tahminlerinin gerçekleşip gerçekleşmediğine bakarlar. Hatalarını da göğüslerini gere gere söylerler. 
 
 Bizde ise çok görülmez bu; en uzman kişiler bile genellikle hata yapmaktan korktukları için geleceğe yönelik tahmin yapmaktan çekinirler (çoktan seçmeli eğitim sisteminin getirdiği sıkıntılar bunlar aslında - yorumdan çok bilme/ezberlemenin ön planda olduğu ve hata yapıldığında binlerce sıra geriye düşüldüğü bir sistemin çocukları olarak hepimiz böyleyiz)
@@ -18,13 +26,11 @@ Peki bu teknolojilerin aracılar ile derdi ne?
 
 Web 2.0 bize pek çok yeni şirket ve iş modeli getirdi. 20 yıl önce ortada olmayan şirketler bugün dünyanın en büyüğü oldular. Bakın listeye, piyasa değeri en yüksek on şirketin yedisi teknoloji şirketi ve bunların beşi Web 2.0 sonrası doğdular (Apple biraz daha eski ama esasında onun büyümesi de Web 2.0 sayesinde)
 
-&nbsp;
 
 | ![top_10_in_mcap_v3.png](/assets/top_10_in_mcap_v3.png) | 
 |:--:| 
 | *Dünyanın en büyük 10 şirketi - Mayıs 2019 (Milyar ABD Doları)* | 
 
-&nbsp;
 
 #### Yeni girişimlerin uğraş alanı ne olacak?
 
