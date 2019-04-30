@@ -1,8 +1,8 @@
-Yurtdışında (özellikle ABD'de) çok rastlarız: İnsanlar gelecek için belli öngörülerde bulunurlar ve sonrasında da bu öngörülerin olup olmadığına bakarlar. Hatalarını da göğüslerini gere gere söylerler. 
+Yurtdışında (özellikle ABD'de) çok rastlarız: İnsanlar gelecek için belli öngörülerde bulunurlar ve sonrasında da bu tahminlerinin gerçekleşip gerçekleşmediğine bakarlar. Hatalarını da göğüslerini gere gere söylerler. 
 
 Bizde ise çok görülmez bu; en uzman kişiler bile genellikle hata yapmaktan korktukları için geleceğe yönelik tahmin yapmaktan çekinirler (çoktan seçmeli eğitim sisteminin getirdiği sıkıntılar bunlar aslında - yorumdan çok bilme/ezberlemenin ön planda olduğu ve hata yapıldığında binlerce sıra geriye düşüldüğü bir sistemin çocukları olarak hepimiz böyleyiz)
 
-Hadi gelin gelecek ile ilgili (muhtemelen çoğu yanlış çıkacak) birkaç öngörüde bulunalım. 
+Hadi gelin Blockchain ile ilgili (muhtemelen bir kısmı yanlış çıkacak) birkaç öngörüde bulunalım. 
 
 ### Blockchain'in geleceği nasıl görünüyor?
 
