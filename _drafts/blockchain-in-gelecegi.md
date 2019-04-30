@@ -2,7 +2,7 @@ Yurtdışında (özellikle ABD'de) çok rastlarız: İnsanlar gelecek için bell
 
 Bizde ise çok görülmez bu; en uzman kişiler bile genellikle hata yapmaktan korktukları için geleceğe yönelik tahmin yapmaktan çekinirler (çoktan seçmeli eğitim sisteminin getirdiği sıkıntılar bunlar aslında - yorumdan çok bilme/ezberlemenin ön planda olduğu ve hata yapıldığında binlerce sıra geriye düşüldüğü bir sistemin çocukları olarak hepimiz böyleyiz)
 
-Hadi gelin gelecek ile ilgili (muhtemelen çoğu yanlış çıkacak) bir kaç öngörüde bulunalım. 
+Hadi gelin gelecek ile ilgili (muhtemelen çoğu yanlış çıkacak) birkaç öngörüde bulunalım. 
 
 ### Blockchain'in geleceği nasıl görünüyor?
 
@@ -28,7 +28,7 @@ Web 2.0 bize pek çok yeni şirket ve iş modeli getirdi. 20 yıl önce ortada o
 
 Bu alanda çalışan binlerce girişim var. Hangisi başarılı olacak şu noktada bilmeye ihtimal yok tabii. Peki bu şirketler ne ile uğraşıyor olacaklar? 
 
-Öncelikle güven ihtiyacını minimuma indiren şirketler olacak bunlar. Neden? Son kullanıcının güven ihtiyacını karşılayarak ondan komisyon tırtıklayan her türlü aracıyı yukarıda saydığımız araçlar ile alt edebilmek için. 
+Öncelikle güven ihtiyacını minimuma indirmekle meşgul olacaklar. Neden? Son kullanıcının güven ihtiyacını karşılayarak ondan komisyon tırtıklayan her türlü aracıyı yukarıda saydığımız araçlar ile alt edebilmek için. 
 
 Bunu yapabilmek için, çok çalışmaları gerekiyor. Çünkü karşılarındaki aracıların çok büyük sermayeleri var. Bu sermayeyi kullanarak en iyi yazılımcıları tutup en gelişmiş programları yazdırabilirler. Üstelik bunların bir çoğu müşterilerini çok iyi dinliyorlar. Yaptıkları ürünler müşterinin rahatlığına yönelik. 
 
