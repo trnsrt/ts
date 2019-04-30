@@ -79,7 +79,7 @@ Geçtiğimiz yıl içinde özel/kapalı (private) Blockchain alanında yapılan 
 
 Bir yandan da sessiz ama derinden devam eden pek çok proje var. IBM bu konuda desteklediği Hyperledger teknolojisi ile hem kendi iç yatırımına hem de ekosistemi geliştirici hamlelerine devam ediyor. Bunu yaparken de potansiyel olduğunu düşündükleri sektörlerde lider şirketler ile işbirliğinde tam gaz ilerliyorlar. Kısa vadede çok büyük bir başarı beklentisi yok, uzun vadeli olarak potansiyel ne kadar gerçek olacak onu da bekleyip göreceğiz. 
 
-#### İşbirliği / Karşılıklı çalışma (interoperability)
+#### İşbirliği / karşılıklı çalışılabilirlik (interoperability)
 Önümüzdeki dönemin en önemli konularından biri Blockchain'lerin karşılıklı olarak birbirleri ile iletişimde olmaları olacak. Şu an her bir Blockchain kendi dünyası içinde doğuyor ve büyümeye çalışıyor. Bir noktaya kadar bu şekilde belli bir gelişim gösterebilirsiniz. Ancak daha fazla büyüme ve kullanıcı adaptasyonu için mutlaka daha geniş bir alanda oynamalı ve diğer Blockchain'ler ile bilgi alışverişi sağlamalısınız.  İşte bu konuda interoperability denen karşılıklı işbirliğini artırıcı altyapı çalışmaları da tam gaz devam ediyor. 
 
 ### Arkası yarın
