@@ -2,7 +2,7 @@ Yurtdışında (özellikle ABD'de) çok rastlarız: İnsalar gelecek için belli
 
 Hadi gelin gelecek ile ilgili (muhtemelen çoğu yanlış çıkacak) bir kaç öngörüde bulunalım. 
 
-### Blockchain'in geleceği nasıl olacak?
+### Blockchain'in geleceği nasıl görünüyor?
 
 Basit olanlardan başlayalım: Web 3.0'ın bize yeni bir dünya getireceği artık bir tahmin bile değil, şimdiden görmeye başladığımız bir durum. 
 
