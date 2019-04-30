@@ -16,7 +16,7 @@ Web 2.0 bize pek çok yeni şirket ve iş modeli getirdi. 20 yıl önce ortada o
 
 &nbsp;
 
-| ![top_10_in_mcap.png](/assets/top_10_in_mcap.png) | 
+| ![top_10_in_mcap_v2.png](/assets/top_10_in_mcap_v2.png) | 
 |:--:| 
 | *Dünyanın en büyük 10 şirketi - Mayıs 2019 (Milyar ABD Doları) | 
 
