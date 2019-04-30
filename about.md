@@ -29,6 +29,8 @@ Dağıtık (merkezi olmayan, adem-i merkezi) her tür teknoloji ve finans dünya
 - Blockchain konusuna madalyonun öbür yüzünü de gözden kaçırmamak için 
   - [Blockchain her derde deva mı?](/genel/2018/08/03/blockchain-her-derde-deva-mi.html)
   - [Blockchain bulunduğum sektöre yarar mı?](/genel/2018/08/10/Blockchain-bulundugum-sektore-yarar-mi.html)
+- Blockchain'in geleceğini merak ediyorsanız
+  - [Blockchain'in geleceği nasıl görünüyor?](/genel/2019/04/30/blockchain-in-gelecegi-nasil-gorunuyor.html)
   
 &nbsp;
 
