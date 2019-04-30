@@ -38,7 +38,7 @@ Bunu yapabilmek için, önlerinde aşmaları gereken uzun ve zahmetli bir yol va
 
 #### Ya "bedava" hizmet veren merkezi aracılar?
 
-Hatta bu mevcut devlerin bir çoğu aslında müşteriden para da istemiyor hizmetlerini sunmak için. Bedava her şey! Gerçekten öyle mi? Değil tabii. Evet belki para istenmiyor ama bu çağın artık çok daha önemli geçerli akçesi haline gelen bilgi (hem de kişisel mahrem bilgiler) karşılığında veriliyor bu hizmetler. 
+Aslında bu mevcut devlerin bir çoğu müşteriden para da istemiyor hizmetlerini sunmak için. Bedava her şey! Gerçekten öyle mi? Değil tabii. Evet belki para istenmiyor ama bu çağın artık çok daha önemli geçerli akçesi haline gelen bilgi (hem de kişisel mahrem bilgiler) karşılığında veriliyor bu hizmetler. 
 
 İşte son kullanıcılar bu alanda haklarını ve sahibi oldukları bilgileri paylaşmak konusunda ne kadar farkındalık geliştirecekler bunu hep birlikte göreceğiz. Çıkan skandallar hiç kuşkusuz farkındalığı artırıyor ama ne kadar büyük bir kitlenin umurunda bu durum onu bilmiyoruz. 
 
