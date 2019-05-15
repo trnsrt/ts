@@ -1,24 +1,24 @@
-Geçtiğimiz yazıda Interoperability (karşılıklı çalışabilirlik) konusuna bakmış, bu alandaki en önemli iki oyuncu olan Polkadot ve Cosmos Network'ü bu yazıya bırakmıştık. 
+Geçtiğimiz [yazıda](/genel/2019/05/07/bir-Blockchain-digeri-ile-konusur-mu.html) Interoperability (karşılıklı çalışabilirlik) konusuna bakmış, bu alandaki en önemli iki oyuncu olan Polkadot ve Cosmos Network'ü bu yazıya bırakmıştık. 
 
-### Rekabet iyidir
+### Paylaşmak güzeldir, rekabet de iyidir
 
-Bu alanda çalışan pekçok network içinde en önde olan iki tanesi ile başlayalım. Aslında yaptıkları ana hatları ile aynı - Ethereum ile başlayan Blockchain'lerin birbirleri ile etkileşimde olma olayını bir adım öteye götürmek. Sadece detaylarda farklılık gösteriyorlar. 
+Aslında Polkadot ve Cosmos Network'un yaptıkları ana hatları ile aynı - Ethereum ile başlayan Blockchain'lerin birbirleri ile etkileşimde olma olayını bir adım öteye götürmek. Sadece detaylarda farklılık gösteriyorlar. 
 
-Çok teknik detaya girmeden kim olduklarını, ortak yönlerini ve farklarını anlatalım ki, aslında interoperability denen kavram aklımızda daha netleşsin. 
+Çok teknik detaya girmeden kim olduklarını, ortak yönlerini ve farklarını anlatalım ki aslında interoperability denen kavram aklımızda daha netleşsin. 
 
 ### Polkadot
 
-[Polkadot](https://polkadot.network/), Ethereum'un kurucularından ve ana gelişticilerinden [Gavin Wood](http://gavwood.com/)'un çocuğu. Gavin sonradan Ethereum'u bırakarak Polkadot üzerine yoğunlaşmaya karar veriyor. 
+[Polkadot](https://polkadot.network/), Ethereum'un kurucularından ve ana gelişticilerinden [Gavin Wood](http://gavwood.com/)'un çocuğu. Gavin sonradan görüş ayrılığına düştüğü Ethereum Foundation'ı bırakarak Polkadot üzerine yoğunlaşmaya karar veriyor. 
 
-Her ne kadar 2014 yılına kadar uzanan bir geçmişi olsa da, Polkadot'un asıl yazılım süreci 2017 yılının sonlarında [başlıyor](https://medium.com/polkadot-network/polkadot-2018-recap-677dab3e995b). Tabii tek kişi değil çalışan. Tüm altyapının arkasında [Parity](https://www.parity.io/) ve [Web3](https://web3.foundation/) denen iki yapı var. İyi güzel de kim bunlar derseniz:
+Her ne kadar 2014 yılına kadar uzanan bir geçmişi olsa da, Polkadot'un asıl yazılım süreci 2017 yılının sonlarında [başlıyor](https://medium.com/polkadot-network/polkadot-2018-recap-677dab3e995b). Tabii sadece Gavin değil sürecin içinde olan. Tüm altyapının arkasında [Parity](https://www.parity.io/) ve [Web3](https://web3.foundation/) denen iki yapı var. "İyi güzel de kim bunlar?" derseniz:
 
-Web3 foundation Gavin Wood tarafından kurulmuş, adem-i merkezi (merkezi olmayan) bir dünya vizyonu ile hareket eden bir vakıf. Bu amacı gerçekleştirecek projelere destek veriyorlar. Başlangıçta yoğunlukla Ethereum gelişimi üzerine odaklansalar da, sonraları başka alanlara da girmiş durumdalar. 
+[Web3 Foundation](https://web3.foundation/) Gavin Wood tarafından İsviçre'de kurulmuş, adem-i merkezi (merkezi olmayan) bir dünya vizyonu ile hareket eden bir vakıf. Bu amacı gerçekleştirecek projelere destek veriyorlar. Başlangıçta yoğunlukla Ethereum gelişimi üzerine odaklansalar da, sonraları başka alanlara da girmiş durumdalar. 
 
-Parity ise, 80'i aşkın geliştiriciye sahip Blockchain altyapı teknolojisi geliştiren bir yazılımcı şirketi (teknik detay: Rust dili kullanıyorlar). Açık kaynak ürünler geliştiriyorlar. Temel hedefleri Web 3 Foundation'ın vizyonunu hayata geçirereek, kişiden kişiye (P2P) işlemler aracılığı ile yürüyen, merkezi ticari güçlere bağımlı olmayan bir toplum oluşturmak. 
+[Parity](https://www.parity.io/) ise, 80'i aşkın geliştiriciye sahip, Blockchain altyapı teknolojisi geliştiren bir yazılımcı şirketi (teknik detay: Rust dili kullanıyorlar). Açık kaynak ürünler geliştiriyorlar. Temel hedefleri Web 3 Foundation'ın vizyonunu hayata geçirerek, kişiden kişiye (P2P) işlemler aracılığı ile yürüyen, merkezi ticari güçlere bağımlı olmayan bir toplum oluşturmak. 
 
 Adem-i merkezi yeni girişimlere altyapı sağlıyorlar kısacası. Eğer Ethereum üzerine bir proje geliştirmek istiyorsanız Parity Ethereum, yok kendi bağımsız Blockchain'inizi geliştirmek istiyorsanız [Substrate](https://www.parity.io/substrate) yazılımını size sunuyorlar. 
 
-Polkadot'un sahibi olan Web3 Foundation bu projeyi geliştirme işini Parity'e vermiş. (Her ikisinde de Gavin Wood'un olmasının bunda payı vardır elbet :)).  İşte Polkadot da kendi ekosistemleri içindeki projelerin birbirleri ile iletişimini sağlayan bir protokol olarak hizmet veriyor.
+İşte Polkadot da geliştirdikleri bu projelerin birbirleri ile iletişimini sağlayan bir protokol olarak hizmet veriyor. Web3 Foundation sahibi olduğu Polkadot'un yazılımını geliştirme işini Parity'e vermiş. (Her ikisinde de Gavin Wood'un olmasının bunda payı vardır elbet :)).  
 
 ### Cosmos Network
 
@@ -34,7 +34,7 @@ Ortak noktaları çok. Her iki ağ da, bağımsız blockchainlerin birarada yaş
 
 Bütün bunlar Ethereum üzerinde kurulu yapılar arasında yapılabilir. Ancak Ethereum halka açık bir altyapı olduğu için ağır ilerliyor, ayrıca pek çok kısıtı var geliştiriciler için. İşte Polkadot ve Cosmos Network, özel yapılar olarak hem daha hızlı hareket ediyorlar, hem de Blockchain yaratıcıları daha bağımsız yapma vaadleri var. 
 
-Bu arada hem Polkadot hem de Cosmos Network'un sistemi korumak amacıyla Proof-of-Stake algoritmalarını kullandıklarını belirtelim (o nedir diye soracak olursanız teknik olarak şu yazımızda anlatmaya çalışmıştık)
+Bu arada hem Polkadot hem de Cosmos Network'un sistemi korumak amacıyla Proof-of-Stake algoritmalarını kullandıklarını belirtelim (o nedir diye soracak olursanız teknik olarak [şu yazımızda](/genel/2018/11/01/Proof-of-Workun-rakipleri-kimler.html)anlatmaya çalışmıştık)
 
 
 ### Farkları neler peki?
