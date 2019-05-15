@@ -13,6 +13,11 @@ Aslında Polkadot ve Cosmos Network'un yaptıkları ana hatları ile aynı - Eth
 
 Her ne kadar 2014 yılına kadar uzanan bir geçmişi olsa da, Polkadot'un asıl yazılım süreci 2017 yılının sonlarında [başlıyor](https://medium.com/polkadot-network/polkadot-2018-recap-677dab3e995b). Tabii sadece Gavin değil sürecin içinde olan. Tüm altyapının arkasında [Parity](https://www.parity.io/) ve [Web3](https://web3.foundation/) denen iki yapı var. "İyi güzel de kim bunlar?" derseniz:
 
+
+| ![web3_foundation.jpg](/assets/web3_foundation_jpg) | 
+|:--:| 
+| *(Kaynak: [web 3 Foundation](https://web3.foundation/))* |
+
 [Web3 Foundation](https://web3.foundation/) Gavin Wood tarafından İsviçre'de kurulmuş, adem-i merkezi (merkezi olmayan) bir dünya vizyonu ile hareket eden bir vakıf. Bu amacı gerçekleştirecek projelere destek veriyorlar. Başlangıçta yoğunlukla Ethereum gelişimi üzerine odaklansalar da, sonraları başka alanlara da girmiş durumdalar. 
 
 [Parity](https://www.parity.io/) ise, 80'i aşkın geliştiriciye sahip, Blockchain altyapı teknolojisi geliştiren bir yazılımcı şirketi (teknik detay: Rust dili kullanıyorlar). Açık kaynak ürünler geliştiriyorlar. Temel hedefleri Web 3 Foundation'ın vizyonunu hayata geçirerek, kişiden kişiye (P2P) işlemler aracılığı ile yürüyen, merkezi ticari güçlere bağımlı olmayan bir toplum oluşturmak. 
