@@ -27,7 +27,7 @@ Adem-i merkezi yeni girişimlere altyapı sağlıyorlar kısacası. Eğer Ethere
 
 ### Cosmos Network
 
-<img align="left" src="/assets/cosmos_network_v2.png"> Cosmos Network de yapı olarak Polkadot'a benziyor. Arkasında Polkadot gibi iki yapı var: [Tendermint](https://tendermint.com/about) ve [The Interchain Foundation](https://interchain.io/). Onlar da Polkadot gibi 2017 yılında başlıyor ve aynı yılın Nısan ayında token satarak fonlama yapıyorlar - ilginç olan yaklaşık 17 Milyon ABD Doları hedef ile çıkıp [bu rakamı 28 dakika içinde toplayarak](https://icoholder.com/en/cosmos) token satışını bitiriyorlar.  
+<img align="left" src="/assets/cosmos_network_v2.png"> Cosmos Network de yapı olarak Polkadot'a benziyor. Onlar da Polkadot gibi 2017 yılında başlıyor ve aynı yılın Nısan ayında token satarak fonlama yapıyorlar - ilginç olan yaklaşık 17 Milyon ABD Doları hedef ile çıkıp [bu rakamı 28 dakika içinde toplayarak](https://icoholder.com/en/cosmos) token satışını bitiriyorlar.   Arkasında da Polkadot gibi iki yapı var: [Tendermint](https://tendermint.com/about) ve [The Interchain Foundation](https://interchain.io/). 
 
 &nbsp;
 
