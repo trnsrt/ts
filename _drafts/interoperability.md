@@ -45,7 +45,7 @@ Bütün bunlar Ethereum üzerinde kurulu yapılar arasında yapılabilir. Ancak 
 
 Bu arada hem Polkadot hem de Cosmos Network'un sistemi korumak amacıyla Proof-of-Stake algoritmalarını kullandıklarını belirtelim (o nedir diye soracak olursanız teknik olarak [şu yazımızda](/genel/2018/11/01/Proof-of-Workun-rakipleri-kimler.html) anlatmaya çalışmıştık). Bu arada her iki ağ'ın ataklara karşı makinelerin 1/3'ünün fazlasının daha koruyacak 
 
-*Özet olarak her iki network de şu üç noktada ekosistemi geliştirmeye çalışıyorlar. Karşılıklı çalışılabilirlik (interoperability), ölçeklenebilirlik (scalibility) ve güvenlik (security).*
+**Özet olarak her iki network de şu üç noktada ekosistemi geliştirmeye çalışıyorlar. Karşılıklı çalışılabilirlik (interoperability), ölçeklenebilirlik (scalibility) ve güvenlik (security).**
 
 ### Farkları neler peki?
 Farkları aslında ayrıntılarda. Bir benzetme yaparmak gerekirse: Polkadot bir parça tabildot veren yemekhaneler gibi. Cosmos ise daha çok alakart yemek sunuyor sanki. Çok fazla teknik detaya girmeden bahsedelim: 
