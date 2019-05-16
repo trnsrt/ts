@@ -41,6 +41,8 @@ Cosmos Network de yapı olarak Polkadot'a benziyor. Arkasında Polkadot gibi iki
 Tendermint, yukarıda bahsettiğimiz Parity gibi bir teknoloji geliştirme şirketi. The Interchain Foundation da, yine yukarıdaki Web3 Foundation gibi Cosmos Network'unu geliştirmek üzere İsviçre'de kurulmuş bir vakıf. Onlar da Polkadot'da Web3 Foundation'ın yaptığı gibi, Cosmos Network geliştirme işini Tendermint'e vermişler. 
 <img align="right" src="/assets/interchain_foundation_v1.png">
 
+&nbsp;
+&nbsp;
 ### Ortak noktaları neler?
 
 Ortak noktaları çok. Her iki ağ da, bağımsız blockchainlerin birarada yaşayacağı bir ekosistem yaratmaya çalışıyorlar. Bu ekosistemi yaratırken, dünya sadece bu ekosistemlerden oluşacak diye düşünmüyorlar doğal olarak. Diğer büyük şu an mevcut ekosistemler ile de bir köprü kuruyorlar kendilerine. Özellikle Bitcoin'in kullanıcı tarafında ağırlığı olması Bitcoin Blockchain'ine bir bağlantıları var. Yazılımcıların ağırlığının Ethereum'da olması nedeniyle oraya da bağlantıları var. 
