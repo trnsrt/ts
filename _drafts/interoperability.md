@@ -8,28 +8,19 @@ Aslında Polkadot ve Cosmos Network'un yaptıkları ana hatları ile aynı - Eth
 
 ### Polkadot
 
-<img align="right" src="/assets/polkadot.png">
+<img align="left" src="/assets/polkadot.png">
 
 [Polkadot](https://polkadot.network/), Ethereum'un kurucularından ve ana gelişticilerinden [Gavin Wood](http://gavwood.com/)'un çocuğu. Gavin sonradan görüş ayrılığına düştüğü Ethereum Foundation'ı bırakarak Polkadot üzerine yoğunlaşmaya karar veriyor. 
 
 Her ne kadar 2014 yılına kadar uzanan bir geçmişi olsa da, Polkadot'un asıl yazılım süreci 2017 yılının sonlarında [başlıyor](https://medium.com/polkadot-network/polkadot-2018-recap-677dab3e995b). Tabii sadece Gavin değil sürecin içinde olan. Tüm altyapının arkasında [Parity](https://www.parity.io/) ve [Web3](https://web3.foundation/) denen iki yapı var. "İyi güzel de kim bunlar?" derseniz:
 
-
-| ![polkadot.png](/assets/polkadot.png) | 
-|:--:| 
-| *Kaynak: [polkadot](https://polkadot.network/)* |
-
-| ![web3_foundation.jpg](/assets/web3_foundation.jpg) | 
-|:--:| 
-| *Kaynak: [web3 Foundation](https://web3.foundation/)* |
+<img align="left" src="/assets/web3_foundation_v1.jpg">
 
 [Web3 Foundation](https://web3.foundation/) Gavin Wood tarafından İsviçre'de kurulmuş, adem-i merkezi (merkezi olmayan) bir dünya vizyonu ile hareket eden bir vakıf. Bu amacı gerçekleştirecek projelere destek veriyorlar. Başlangıçta yoğunlukla Ethereum gelişimi üzerine odaklansalar da, sonraları başka alanlara da girmiş durumdalar. 
 
 
+<img align="left" src="/assets/parity_v1.png">
 
-| ![parity.png](/assets/parity.png) | 
-|:--:| 
-| *Kaynak: [parity](https://www.parity.io/)* |
 
 [Parity](https://www.parity.io/) ise, 80'i aşkın geliştiriciye sahip, Blockchain altyapı teknolojisi geliştiren bir yazılımcı şirketi (teknik detay: Rust dili kullanıyorlar). Açık kaynak ürünler geliştiriyorlar. Temel hedefleri Web 3 Foundation'ın vizyonunu hayata geçirerek, kişiden kişiye (P2P) işlemler aracılığı ile yürüyen, merkezi ticari güçlere bağımlı olmayan bir toplum oluşturmak. 
 
@@ -39,21 +30,14 @@ Adem-i merkezi yeni girişimlere altyapı sağlıyorlar kısacası. Eğer Ethere
 
 ### Cosmos Network
 
-| ![cosmos_network.png](/assets/cosmos_network.png) | 
-|:--:| 
-| *Kaynak: [cosmos network](https://cosmos.network/)* |
+<img align="left" src="/assets/cosmos_network_v1.png">
+
 
 Cosmos Network de yapı olarak Polkadot'a benziyor. Arkasında Polkadot gibi iki yapı var. [Tendermint](https://tendermint.com/about) ve [The Interchain Foundation](https://interchain.io/) 
 
-| ![tendermint.png](/assets/tendermint.png) | 
-|:--:| 
-| *Kaynak: [tendermint](https://tendermint.com/)* |
-
+<img align="left" src="/assets/tendermint_v1.png">
 Tendermint, yukarıda bahsettiğimiz Parity gibi bir teknoloji geliştirme şirketi. The Interchain Foundation da, yine yukarıdaki Web3 Foundation gibi Cosmos Network'unu geliştirmek üzere İsviçre'de kurulmuş bir vakıf. Onlar da Polkadot'da Web3 Foundation'ın yaptığı gibi, Cosmos Network geliştirme işini Tendermint'e vermişler. 
-
-| ![interchain_foundation.png](/assets/interchain_foundation.png) | 
-|:--:| 
-| *Kaynak: [interchain_foundation](https://interchain.io/)* |
+<img align="right" src="/assets/interchain_foundation_v1.png">
 
 ### Ortak noktaları neler?
 
@@ -89,3 +73,32 @@ Gerek Polkadot gerekse Cosmos, Ethereum tarafından başlatılan interoperabilit
 Bu girişimler henüz yolunda başındalar. Vizyonları çok geniş ancak şu ana kadar çok daha basit işleri yapmaya odaklandılar. Gelecekte fonksiyonları artacak ama buna bağlı olarak ne kadar karmaşıklaşırlar ise o kadar risk barındırır hale gelecekler. Belki de girişimler işlerini şansa bırakmayacak ve şu an piyasa lideri olan ancak yavaş gelişen Ethereum içinde kalmaya devam edecekler. Sonucu görmek için beş on yıl arası beklemek gerekiyor sanırım. 
 
 Not: Konumuz sistemleri tanıtmak olduğu için her iki network'un çıkardığı token'lara özellikle değinmedik. 
+
+
+
+| ![polkadot.png](/assets/polkadot.png) | 
+|:--:| 
+| *Kaynak: [polkadot](https://polkadot.network/)* |
+
+| ![web3_foundation.jpg](/assets/web3_foundation.jpg) | 
+|:--:| 
+| *Kaynak: [web3 Foundation](https://web3.foundation/)* |
+
+
+| ![parity.png](/assets/parity.png) | 
+|:--:| 
+| *Kaynak: [parity](https://www.parity.io/)* |
+
+
+| ![cosmos_network.png](/assets/cosmos_network.png) | 
+|:--:| 
+| *Kaynak: [cosmos network](https://cosmos.network/)* |
+
+
+| ![tendermint.png](/assets/tendermint.png) | 
+|:--:| 
+| *Kaynak: [tendermint](https://tendermint.com/)* |
+
+| ![interchain_foundation.png](/assets/interchain_foundation.png) | 
+|:--:| 
+| *Kaynak: [interchain_foundation](https://interchain.io/)* |
