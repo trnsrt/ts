@@ -42,6 +42,7 @@ Adem-i merkezi yeni girişimlere altyapı sağlıyorlar kısacası. Eğer Ethere
 &nbsp;
 &nbsp;
 &nbsp;
+<div></div>
 <img align="left" src="/assets/tendermint_v1.png"><img align="right" src="/assets/interchain_foundation_v2.png">
 Tendermint, yukarıda bahsettiğimiz Parity gibi bir teknoloji geliştirme şirketi. The Interchain Foundation da, yine yukarıdaki Web3 Foundation gibi Cosmos Network'unu geliştirmek üzere İsviçre'de kurulmuş bir vakıf. Onlar da Polkadot'da Web3 Foundation'ın yaptığı gibi, Cosmos Network geliştirme işini Tendermint'e vermişler. 
 
