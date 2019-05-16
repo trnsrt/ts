@@ -1,8 +1,8 @@
-Geçtiğimiz [yazıda](/genel/2019/05/07/bir-Blockchain-digeri-ile-konusur-mu.html) Interoperability (karşılıklı çalışabilirlik) konusuna bakmış, bu alandaki en önemli iki oyuncu olan Polkadot ve Cosmos Network'ü bu yazıya bırakmıştık. 
+Geçtiğimiz [yazıda](/genel/2019/05/07/bir-Blockchain-digeri-ile-konusur-mu.html) interoperability (karşılıklı çalışabilirlik) konusuna bakmış, bu alandaki en önemli iki oyuncu olan Polkadot ve Cosmos Network'ü bu yazıya bırakmıştık. 
 
 ### Paylaşmak güzeldir, rekabet de iyidir
 
-Aslında Polkadot ve Cosmos Network'un yaptıkları ana hatları ile aynı - Ethereum ile başlayan Blockchain'lerin birbirleri ile etkileşimde olma olayını bir adım öteye götürmek. Sadece detaylarda farklılık gösteriyorlar. 
+Aslında Polkadot ve Cosmos Network'un ana hatları ile aynı misyonu paylaşıyorlar: Ethereum ile başlayan Blockchain'lerin birbirleri ile etkileşimini bir adım öteye götürmek. Sadece detaylarda farklılık gösteriyorlar. 
 
 Çok teknik detaya girmeden kim olduklarını, ortak yönlerini ve farklarını anlatalım ki aslında interoperability denen kavram aklımızda daha netleşsin. 
 
@@ -10,7 +10,7 @@ Aslında Polkadot ve Cosmos Network'un yaptıkları ana hatları ile aynı - Eth
 
 <img align="left" src="/assets/polkadot_v1.png">
 
-[Polkadot](https://polkadot.network/), Ethereum'un kurucularından ve ana gelişticilerinden [Gavin Wood](http://gavwood.com/)'un çocuğu. Gavin sonradan görüş ayrılığına düştüğü Ethereum Foundation'ı bırakarak Polkadot üzerine yoğunlaşmaya karar veriyor. 
+[Polkadot](https://polkadot.network/), Ethereum'un kurucularından ve ana gelişticilerinden [Gavin Wood](http://gavwood.com/)'un çocuğu. Gavin sonradan görüş ayrılığına düştüğü Ethereum Foundation'ı bırakarak Polkadot üzerine yoğunlaşmaya karar veriyor. Temel ayrılış gerekçesini Ethereum'un açık bir ağ olarak yavaş gelimesi olduğunu belirtiyor. 
 
 Her ne kadar 2014 yılına kadar uzanan bir geçmişi olsa da, Polkadot'un asıl yazılım süreci 2017 yılının sonlarında [başlıyor](https://medium.com/polkadot-network/polkadot-2018-recap-677dab3e995b). Tabii sadece Gavin değil sürecin içinde olan. Tüm altyapının arkasında [Parity](https://www.parity.io/) ve [Web3](https://web3.foundation/) denen iki yapı var. "İyi güzel de kim bunlar?" derseniz:
 
@@ -18,13 +18,6 @@ Her ne kadar 2014 yılına kadar uzanan bir geçmişi olsa da, Polkadot'un asıl
 
 <div></div>
 
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 
 <img align="left" src="/assets/parity_v1.png"> [Parity](https://www.parity.io/) ise, 80'i aşkın geliştiriciye sahip, Blockchain altyapı teknolojisi geliştiren bir yazılımcı şirketi (teknik detay: Rust dili kullanıyorlar). Açık kaynak ürünler geliştiriyorlar. Temel hedefleri Web 3 Foundation'ın vizyonunu hayata geçirerek, kişiden kişiye (P2P) işlemler aracılığı ile yürüyen, merkezi ticari güçlere bağımlı olmayan bir toplum oluşturmak. 
 
