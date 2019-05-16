@@ -37,7 +37,7 @@ Adem-i merkezi yeni girişimlere altyapı sağlıyorlar kısacası. Eğer Ethere
 
 ### Ortak noktaları neler?
 
-Ortak noktaları çok. Her iki ağ da, bağımsız blockchainlerin birarada yaşayacağı bir ekosistem yaratmaya çalışıyorlar. Bu ekosistemi yaratırken, dünya sadece bu ekosistemlerden oluşacak diye düşünmüyorlar doğal olarak. Diğer büyük şu an mevcut ekosistemler ile de bir köprü kuruyorlar kendilerine. Özellikle Bitcoin'in kullanıcı tarafında ağırlığı olması Bitcoin Blockchain'ine bir bağlantıları var. Yazılımcıların ağırlığının Ethereum'da olması nedeniyle oraya da bağlantıları var. 
+Ortak noktaları çok. Her iki ağ da, bağımsız blockchainlerin birarada yaşayacağı bir ekosistem yaratmaya çalışıyor. Bu ekosistemi yaratırken, dünya sadece bu ekosistemlerden oluşacak diye düşünmüyorlar doğal olarak. Diğer büyük şu an mevcut ekosistemler ile de bir köprü kuruyorlar kendilerine. Özellikle Bitcoin'in kullanıcı tarafında ağırlığı olması Bitcoin Blockchain'ine bir bağlantıları var. Yazılımcıların ağırlığının Ethereum'da olması nedeniyle oraya da bağlantıları var. 
 
 İyi de bir ekosistem içinde olursa ne olur, ne faydası var diye aklınızdan geçiyor ise: Geçen yazıda bir örnek vermiştik. Bir tane daha verelim. Örneğin Ethereum gibi bir network üzerinde çalışan uygulamaları kullanarak, örneğin [AirSwap](https://www.airswap.io/) kişiden kişiye dijital varlık değişimi yapabilirsiniz, yani bir Blockchain'e ait token'ı bir başka Blockchain'e ait token ile değiştirebilirsiniz. Ya da kimseye başvurmadan herhangi bir kredi skorlamasına tabi olmadan kendi kendinize elinizde olan Ethereum parası ETH'i teminat verip,  DAI sabitparası borçlanabilirsiniz. 
 
