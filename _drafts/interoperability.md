@@ -54,7 +54,7 @@ Bu arada hem Polkadot hem de Cosmos Network'un sistemi korumak amacıyla Proof-o
 ### Farkları neler peki?
 Farkları aslında ayrıntılarda. Bir benzetme yaparmak gerekirse: Polkadot bir parça tabildot veren yemekhaneler gibi. Cosmos ise daha çok alakart yemek sunuyor sanki. Çok fazla teknik detaya girmeden bahsedelim: 
 
-Blockchain'lerin güvenliğini madenciler sağlıyor. Madenciler kısıtlı sayıda olduğu bir Blockchain geliştiricisi olarak yeterli sayıda madenci bulmak zor olabiliyor. Polkadot ve Cosmos Network'un Blockchain'lere verdiği en önemli faydalardan biri sahip oldukları madenci havuzu kullandırmaları. Ama detayda farklılıkları da var: 
+Blockchain'lerin güvenliğini madenciler sağlıyor. Madenciler kısıtlı sayıda olduğu için bir Blockchain geliştiricisi olarak yeterli sayıda madenci bulmak zor olabiliyor. Polkadot ve Cosmos Network'un Blockchain'lere verdiği en önemli faydalardan biri sahip oldukları madenci havuzu kullandırmaları. Ama detayda farklılıkları da var: 
 
 Polkadot, elindeki madencileri sistem içindeki Blockchain'lere eşit olarak dağıtıyor. Cosmos'da ise, öncelikle bir Blockchain gelip ne kadar madenci ihtiyacı olduğunu ve bu hizmet için ne kadar ödül vereceğini açıklıyor. Madenciler istedikleri Blockchain'in güvenliğini sağlıyorlar, daha özgür ama daha az disiplini olan bir yapı. 
 
