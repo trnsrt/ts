@@ -27,9 +27,7 @@ Her ne kadar 2014 yılına kadar uzanan bir geçmişi olsa da, Polkadot'un asıl
 &nbsp;
 &nbsp;
 
-<img align="left" src="/assets/parity_v1.png">
-
-[Parity](https://www.parity.io/) ise, 80'i aşkın geliştiriciye sahip, Blockchain altyapı teknolojisi geliştiren bir yazılımcı şirketi (teknik detay: Rust dili kullanıyorlar). Açık kaynak ürünler geliştiriyorlar. Temel hedefleri Web 3 Foundation'ın vizyonunu hayata geçirerek, kişiden kişiye (P2P) işlemler aracılığı ile yürüyen, merkezi ticari güçlere bağımlı olmayan bir toplum oluşturmak. 
+<img align="left" src="/assets/parity_v1.png"> [Parity](https://www.parity.io/) ise, 80'i aşkın geliştiriciye sahip, Blockchain altyapı teknolojisi geliştiren bir yazılımcı şirketi (teknik detay: Rust dili kullanıyorlar). Açık kaynak ürünler geliştiriyorlar. Temel hedefleri Web 3 Foundation'ın vizyonunu hayata geçirerek, kişiden kişiye (P2P) işlemler aracılığı ile yürüyen, merkezi ticari güçlere bağımlı olmayan bir toplum oluşturmak. 
 
 Adem-i merkezi yeni girişimlere altyapı sağlıyorlar kısacası. Eğer Ethereum üzerine bir proje geliştirmek istiyorsanız Parity Ethereum, yok kendi bağımsız Blockchain'inizi geliştirmek istiyorsanız [Substrate](https://www.parity.io/substrate) yazılımını size sunuyorlar. 
 
