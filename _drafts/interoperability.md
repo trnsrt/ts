@@ -45,7 +45,7 @@ Ortak noktaları çok. Her iki ağ da, bağımsız blockchainlerin birarada yaş
 
 Ethereum gibi bir network üzerinde çalışan uygulamaları kullanarak, örneğin [AirSwap](https://www.airswap.io/) ile kişiden kişiye dijital varlık değişimi yapabilirsiniz, yani bir Blockchain'e ait token'ı bir başka Blockchain'e ait token ile değiştirebilirsiniz. Ya da kimseye başvurmadan herhangi bir kredi skorlamasına tabi olmadan kendi kendinize elinizde olan Ethereum parası ETH'i teminat verip,  [DAI sabitparası borçlanabilirsiniz](/genel/2019/02/15/MakerDAO-kredi-kullaniminda-cigir-acar-mi.html). Ethereum sistemi içinde olmanız farklı Blockchain'ler arası bu işlemleri yapmanıza olanak sağlıyor. 
 
-Bütün bunlar Ethereum üzerinde kurulu yapılar arasında yapılabilir. Ancak Ethereum halka açık bir altyapı olduğu için ağır ilerliyor, ayrıca pek çok kısıtı var geliştiriciler için. İşte Polkadot ve Cosmos Network, özel yapılar olarak hem daha hızlı hareket ediyorlar, hem de Blockchain yaratıcılarına daha fazla bağımsız vaad ediyorlar. 
+Bütün bunlar Ethereum üzerinde kurulu yapılar arasında yapılabilir. Ancak Ethereum halka açık bir altyapı olduğu için ağır ilerliyor, ayrıca pek çok kısıtı var geliştiriciler için. İşte Polkadot ve Cosmos Network, özel yapılar olarak hem daha hızlı hareket ediyorlar, hem de Blockchain geliştiricilerine daha fazla bağımsızlık vaad ediyorlar. 
 
 Bu arada hem Polkadot hem de Cosmos Network'un sistemi korumak amacıyla Proof-of-Stake algoritmalarını kullandıklarını belirtelim (o nedir diye soracak olursanız teknik olarak [şu yazımızda](/genel/2018/11/01/Proof-of-Workun-rakipleri-kimler.html) anlatmaya çalışmıştık). Bu arada her iki ağ'ın ataklara karşı makinelerin 1/3'ünün fazlasının daha koruyacak 
 
