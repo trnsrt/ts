@@ -10,11 +10,11 @@ Aslında Polkadot ve Cosmos Network'un ana hatları ile aynı misyonu paylaşıy
 
 <img align="left" src="/assets/polkadot_v1.png">
 
-[Polkadot](https://polkadot.network/), Ethereum'un kurucularından ve ana gelişticilerinden [Gavin Wood](http://gavwood.com/)'un çocuğu. Gavin sonradan görüş ayrılığına düştüğü Ethereum Foundation'ı bırakarak Polkadot üzerine yoğunlaşmaya karar veriyor. Temel ayrılış gerekçesini Ethereum'un açık bir ağ olarak yavaş gelimesi olduğunu belirtiyor. 
+[Polkadot](https://polkadot.network/), Ethereum'un kurucularından ve ana gelişticilerinden [Gavin Wood](http://gavwood.com/)'un çocuğu. Gavin sonradan görüş ayrılığına düştüğü Ethereum Foundation'ı bırakarak Polkadot üzerine yoğunlaşmaya karar veriyor.
 
-Her ne kadar 2014 yılına kadar uzanan bir geçmişi olsa da, Polkadot'un asıl yazılım süreci 2017 yılının sonlarında [başlıyor](https://medium.com/polkadot-network/polkadot-2018-recap-677dab3e995b). Tabii sadece Gavin değil sürecin içinde olan. Tüm altyapının arkasında [Parity](https://www.parity.io/) ve [Web3](https://web3.foundation/) denen iki yapı var. "İyi güzel de kim bunlar?" derseniz:
+Her ne kadar 2014 yılına kadar uzanan bir geçmişi olsa da, Polkadot'un asıl yazılım süreci 2017 yılının sonlarında [başlıyor](https://medium.com/polkadot-network/polkadot-2018-recap-677dab3e995b). Öncesinde ise Ekim 2017'de 144 Milyon ABD Doları token satışı ile fonlama (topluyorlar](https://cointelegraph.com/news/new-startup-from-ethereum-co-founder-gavin-wood-plans-60-million-ico-wsj). Tabii sadece Gavin değil sürecin içinde olan. Polkadotun arkasında [Parity](https://www.parity.io/) ve [Web3](https://web3.foundation/) isimli iki yapı var. "İyi güzel de kim bunlar?" derseniz:
 
-<img align="left" src="/assets/web3_foundation_v3.jpg"> [Web3 Foundation](https://web3.foundation/) Gavin Wood tarafından İsviçre'de kurulmuş, adem-i merkezi (merkezi olmayan) bir dünya vizyonu ile hareket eden bir vakıf. Bu amacı gerçekleştirecek projelere destek veriyorlar. Başlangıçta yoğunlukla Ethereum gelişimi üzerine odaklansalar da, sonraları başka alanlara da girmiş durumdalar. 
+<img align="left" src="/assets/web3_foundation_v3.jpg"> [Web3 Foundation](https://web3.foundation/) Gavin Wood tarafından İsviçre'de kurulmuş, adem-i merkezi (merkezi olmayan) bir dünya vizyonu ile hareket eden bir vakıf. Bu amacı gerçekleştirecek projelere destek veriyorlar. Başlangıçta Ethereum gelişimi üzerine odaklansalar da, sonraları başka alanlara da girmiş durumdalar. 
 
 &nbsp;
 
@@ -27,13 +27,12 @@ Adem-i merkezi yeni girişimlere altyapı sağlıyorlar kısacası. Eğer Ethere
 
 ### Cosmos Network
 
-<img align="left" src="/assets/cosmos_network_v2.png"> Cosmos Network de yapı olarak Polkadot'a benziyor. Arkasında Polkadot gibi iki yapı var: [Tendermint](https://tendermint.com/about) ve [The Interchain Foundation](https://interchain.io/)
+<img align="left" src="/assets/cosmos_network_v2.png"> Cosmos Network de yapı olarak Polkadot'a benziyor. Arkasında Polkadot gibi iki yapı var: [Tendermint](https://tendermint.com/about) ve [The Interchain Foundation](https://interchain.io/). Onlar da Polkadot gibi 2017 yılında başlıyor ve aynı yılın Nısan ayında token satarak fonlama yapıyorlar - ilginç olan yaklaşık 17 Milyon ABD Doları hedef ile çıkıp [bu rakamı 28 dakika içinde toplayarak](https://icoholder.com/en/cosmos) token satışını bitiriyorlar.  
 
 &nbsp;
 
 <img align="left" src="/assets/interchain_tendermint.png">
 Tendermint, yukarıda bahsettiğimiz Parity gibi bir teknoloji geliştirme şirketi. The Interchain Foundation da, yine yukarıdaki Web3 Foundation gibi Cosmos Network'unu geliştirmek üzere İsviçre'de kurulmuş bir vakıf. Onlar da Polkadot'da Web3 Foundation'ın yaptığı gibi, Cosmos Network geliştirme işini Tendermint'e vermişler. 
-
 
 ### Ortak noktaları neler?
 
