@@ -54,23 +54,21 @@ Bu arada hem Polkadot hem de Cosmos Network'un sistemi korumak amacıyla Proof-o
 ### Farkları neler peki?
 Farkları aslında ayrıntılarda. Bir benzetme yaparmak gerekirse: Polkadot bir parça tabildot veren yemekhaneler gibi. Cosmos ise daha çok alakart yemek sunuyor sanki. Çok fazla teknik detaya girmeden bahsedelim: 
 
-Blockchain'lerin güvenliğini madenciler sağlıyor. Madenciler kısıtlı sayıda olduğu için bir Blockchain geliştiricisi olarak yeterli sayıda madenci bulmak zor olabiliyor. Polkadot ve Cosmos Network'un Blockchain'lere verdiği en önemli faydalardan biri sahip oldukları madenci havuzu kullandırmaları. Ama detayda farklılıkları da var: 
+Blockchain'lerin güvenliğini madenciler sağlıyor. Madenciler kısıtlı sayıda olduğu için bir Blockchain geliştiricisi olarak yeterli sayıda madenci bulmak zor olabiliyor. Polkadot ve Cosmos Network'un Blockchain'lere sunduğu en önemli faydalardan biri sahip oldukları madenci havuzu kullandırmaları. Ama detayda farklılıkları da var: 
 
-Polkadot, elindeki madencileri sistem içindeki Blockchain'lere eşit olarak dağıtıyor. Cosmos'da ise, öncelikle bir Blockchain gelip ne kadar madenci ihtiyacı olduğunu ve bu hizmet için ne kadar ödül vereceğini açıklıyor. Madenciler istedikleri Blockchain'in güvenliğini sağlıyorlar, daha özgür ama daha az disiplini olan bir yapı. 
+Polkadot, elindeki madencileri sistem içindeki Blockchain'lere eşit olarak dağıtıyor. Cosmos'da ise, bir Blockchain sisteme gelip ne kadar madenci ihtiyacı olduğunu ve bu hizmet için ne kadar ödül vereceğini açıklıyor. Madenciler buna göre istedikleri Blockchain'in güvenliğini sağlıyorlar; daha özgür ama daha az disiplinli bir yapı. 
 
-İşte bu güvenlik başta olmak üzere değişik hizmetlerin nasıl verildiği konusunda Polkadot ile Cosmos arasında felsefe farkı var. 
+Polkadot, güvenlik başta olmak üzere tüm Blockchain'lere sabit bir hizmet veriyor. Yani sistemlerine bağlanıyor ve aynı hizmeti alıyorsunuz bir Blockchain olarak. 
 
-Polkadot, tüm Blockchain'lere sabit bir hizmet veriyor. Yani sistemlerine bağlanıyor ve aynı hizmeti alıyorsunuz bir Blockchain olarak. 
+Cosmos Network ise her bir Blockchain'i kendisine bağlamanın çok da gerçekci olmayacağı düşüncesi ile iki katmanlı bir sistem öngörüyor. Bir tarafta altyapı olarak Cosmos var. Bir tarafta da daha üst seviyede Blockchain'lerin başta güvenlik olmak üzere çeşitli ihtiyaçlarını karşılayacak ikinci bir seviye bulunuyor - ki buna Cosmos Hub diyorlar. Cosmos Hub, bir nevi onların neler yapacaklarını göstermek amacıyla kurdukları ağ. Ama ne kadar çok fonksiyonu barındırırsanız, üzerinizdeki (ya da içinizdeki) Blockchain'leri o kadar kısıtlamak zorunda olacağınızı düşünerek, bu ikinci katmanı bir nevi opsiyonel sunuyorlar. 
 
-Cosmos Network ise her bir Blockchain'i kendisine bağlamanın çok da gerçekci olmayacağı düşüncesi ile iki katmanlı bir sistem öngörüyor. Bir tarafta altyapı olarak Cosmos var. Bir tarafta da daha üst seviyede Blockchain'lerin başta güvenlik olmak üzere çeşitli ihtiyaçlarını karşılayacak ikinci bir seviye - ki buna Cosmos Hub diyorlar. Cosmos Hub, bir nevi onların neler yapacaklarını göstermek amacıyla kurdukları ağ. Ama ne kadar çok fonksiyonu barındırırsanız, üzerinizdeki (ya da içinizdeki) Blockchain'leri o kadar kısıtlamak zorunda olacağınızı düşünerek, bunu opsiyonel sunuyorlar. 
-
-Örneğin, duymuşsunuzdur Binance geliştiricilere kendi ekosisteminde kendi kullanıcılarına yönelik [bir sistem kuruyor Binance Chain adında](https://cointelegraph.com/news/binance-chain-launches-firm-expects-to-execute-mainnet-swap-on-april-23). İşte bu sistem için altyapı olarak Cosmos'u kullanacaklar, yani en yalın halinde iletişimi sağlayacak en alttaki ağı. 
+Örneğin duymuşsunuzdur; Binance, girişimlere kendi kullanıcılarına hızlı erişim olanağı veren [bir sistem kuruyor Binance Chain adında](https://cointelegraph.com/news/binance-chain-launches-firm-expects-to-execute-mainnet-swap-on-april-23). İşte bu sistem için altyapı olarak Cosmos'u kullanacaklar. Yani en yalın halinde iletişimi sağlayacak en alttaki ağı Cosmos olacak, Binance Chain bunun üzerine Cosmos Hub gibi bir hub olacak ama örneğin güvenlik için muhtemelen Cosmos'u değil kendi ağlarını kullanacaklar. 
 
 ### Gelecek nasıl olacak?
 
 Gerek Polkadot gerekse Cosmos, Ethereum tarafından başlatılan interoperability kavramının bir sonraki evreye taşımaya adanmış girişimler. Her ne kadar her iki girişimin arkasında özel/kapalı yazılım grupları olsa da, bütün kodları Açık Kaynak. Yeni Blockchain girişimleri için bunları kullanmakta bir sakınca yok. Belirsiz olan, bunlardan hangisinin ivme kazanacağı ve kazanan olacağı. 
 
-Bu girişimler henüz yolunda başındalar. Vizyonları çok geniş ancak şu ana kadar çok daha basit işleri yapmaya odaklandılar. Gelecekte fonksiyonları artacak ama buna bağlı olarak ne kadar karmaşıklaşırlar ise o kadar risk barındırır hale gelecekler. Belki de girişimler işlerini şansa bırakmayacak ve şu an piyasa lideri olan ancak yavaş gelişen Ethereum içinde kalmaya devam edecekler. Sonucu görmek için beş on yıl arası beklemek gerekiyor sanırım. 
+Bu girişimler henüz yolunda başındalar. Vizyonları çok geniş ancak şu ana kadar daha çok basit işlemleri gerçekleştirebilmeye odaklandılar. Gelecekte fonksiyonları artacak ama buna bağlı olarak karmaşıklaşacakları için daha fazla risk barındırır hale gelecekler. Belki de girişimler işlerini şansa bırakmayacak ve şu an piyasa lideri olan ancak yavaş gelişen Ethereum içinde kalmaya devam edecekler. Sonucu görmek için beş on yıl arası beklemek gerekiyor sanırım. 
 
 Not: Konumuz sistemleri tanıtmak olduğu için her iki network'un çıkardığı token'lara özellikle değinmedik. 
 
