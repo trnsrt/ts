@@ -38,7 +38,8 @@ Adem-i merkezi yeni girişimlere altyapı sağlıyorlar kısacası. Eğer Ethere
 ### Cosmos Network
 
 <img align="left" src="/assets/cosmos_network_v2.png">
-Cosmos Network de yapı olarak Polkadot'a benziyor. Arkasında Polkadot gibi iki yapı var. [Tendermint](https://tendermint.com/about) ve [The Interchain Foundation](https://interchain.io/) 
+Cosmos Network de yapı olarak Polkadot'a benziyor. Arkasında Polkadot gibi iki yapı var: [Tendermint](https://tendermint.com/about) ve [The Interchain Foundation](https://interchain.io/)
+
 &nbsp;
 &nbsp;
 &nbsp;
