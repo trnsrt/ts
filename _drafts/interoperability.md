@@ -1,4 +1,4 @@
-Geçtiğimiz [yazıda](/genel/2019/05/07/bir-Blockchain-digeri-ile-konusur-mu.html) interoperability (karşılıklı çalışabilirlik) konusuna bakmış, bu alandaki en önemli iki oyuncu olan Polkadot ve Cosmos Network'ü bu yazıya bırakmıştık. 
+Geçtiğimiz [yazıda](/genel/2019/05/07/bir-Blockchain-digeri-ile-konusur-mu.html) interoperability (karşılıklı çalışabilirlik) konusuna bakmış, bu alandaki en bilinen iki oyuncu Polkadot ve Cosmos Network'ü bu yazıya bırakmıştık. 
 
 ### Paylaşmak güzeldir, rekabet de iyidir
 
