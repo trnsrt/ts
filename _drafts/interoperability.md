@@ -14,7 +14,7 @@ Farklılıkları detaylarda. Çok teknik konulara girmeden kim olduklarını, or
 
 Her ne kadar 2014 yılına kadar uzanan bir geçmişi olsa da, Polkadot'un asıl yazılım süreci 2017 yılının sonlarında [başlıyor](https://medium.com/polkadot-network/polkadot-2018-recap-677dab3e995b). Öncesinde ise Ekim 2017'de 144 Milyon ABD Doları token satışı ile fonlama [topluyorlar](https://cointelegraph.com/news/new-startup-from-ethereum-co-founder-gavin-wood-plans-60-million-ico-wsj). Tabii sadece Gavin değil sürecin içinde olan. Polkadotun arkasında [Parity](https://www.parity.io/) ve [Web3](https://web3.foundation/) isimli iki yapı var. "İyi güzel de kim bunlar?" derseniz:
 
-<img align="left" src="/assets/web3_foundation_v3.jpg"> [Web3 Foundation](https://web3.foundation/) Gavin Wood tarafından İsviçre'de kurulmuş, adem-i merkezi (merkezi olmayan) bir dünya vizyonu ile hareket eden bir vakıf. Bu amacı gerçekleştirecek projelere destek veriyorlar. Başlangıçta Ethereum gelişimi üzerine odaklansalar da, sonraları başka alanlara da girmiş durumdalar. 
+<img align="left" src="/assets/web3_foundation_v3.jpg"> [Web3 Foundation](https://web3.foundation/) Gavin Wood tarafından İsviçre'de kurulmuş, adem-i merkezi (merkezi olmayan) bir dünya vizyonuna sahip bir vakıf. Bu amacı gerçekleştirecek projelere destek veriyorlar. Başlangıçta Ethereum gelişimi üzerine odaklansalar da, sonraları başka alanlara da girmiş durumdalar. 
 
 &nbsp;
 
