@@ -43,7 +43,7 @@ Ortak noktaları çok. Her iki ağ da, bağımsız blockchainlerin birarada yaş
 
 İyi de bir ekosistem içinde olmanın ne faydası var diye aklınızdan geçiyor ise: Geçen [yazıda](/genel/2019/05/07/bir-Blockchain-digeri-ile-konusur-mu.html) açıklamıştık, şimdi bir örnek daha verelim:
 
-Ethereum gibi bir network üzerinde çalışan uygulamaları kullanarak, örneğin [AirSwap](https://www.airswap.io/) ile kişiden kişiye dijital varlık değişimi yapabilirsiniz, yani bir Blockchain'e ait token'ı bir başka Blockchain'e ait token ile değiştirebilirsiniz. Ya da kimseye başvurmadan herhangi bir kredi skorlamasına tabi olmadan kendi kendinize elinizde olan Ethereum parası ETH'i teminat verip,  DAI sabitparası borçlanabilirsiniz. Ethereum sistemi içinde olmanız farklı Blockchain'ler arası bu işlemleri yapmanıza olanak sağlıyor. 
+Ethereum gibi bir network üzerinde çalışan uygulamaları kullanarak, örneğin [AirSwap](https://www.airswap.io/) ile kişiden kişiye dijital varlık değişimi yapabilirsiniz, yani bir Blockchain'e ait token'ı bir başka Blockchain'e ait token ile değiştirebilirsiniz. Ya da kimseye başvurmadan herhangi bir kredi skorlamasına tabi olmadan kendi kendinize elinizde olan Ethereum parası ETH'i teminat verip,  [DAI sabitparası borçlanabilirsiniz](/genel/2019/02/15/MakerDAO-kredi-kullaniminda-cigir-acar-mi.html). Ethereum sistemi içinde olmanız farklı Blockchain'ler arası bu işlemleri yapmanıza olanak sağlıyor. 
 
 Bütün bunlar Ethereum üzerinde kurulu yapılar arasında yapılabilir. Ancak Ethereum halka açık bir altyapı olduğu için ağır ilerliyor, ayrıca pek çok kısıtı var geliştiriciler için. İşte Polkadot ve Cosmos Network, özel yapılar olarak hem daha hızlı hareket ediyorlar, hem de Blockchain yaratıcılarına daha fazla bağımsız vaad ediyorlar. 
 
