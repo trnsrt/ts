@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Blockchain dünyasının büyümesinin yolu karşılıklı konuşup paylaşmaktan geçer"
+title:  "Blockchain'ler için büyümenin yolu karşılıklı konuşup paylaşmak"
 date:   2019-05-07 12:42:56 +0300
 categories: Genel
 ---
