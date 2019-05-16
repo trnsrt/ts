@@ -21,6 +21,8 @@ Her ne kadar 2014 yılına kadar uzanan bir geçmişi olsa da, Polkadot'un asıl
 &nbsp;
 &nbsp;
 &nbsp;
+&nbsp;
+&nbsp;
 
 <img align="left" src="/assets/parity_v1.png">
 
