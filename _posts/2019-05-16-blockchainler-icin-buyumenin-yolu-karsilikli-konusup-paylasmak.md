@@ -52,7 +52,7 @@ Ortak noktaları çok. Her iki ağ da, bağımsız blockchainlerin birarada yaş
 
 Ethereum gibi bir network üzerinde çalışan uygulamaları kullanarak, örneğin [AirSwap](https://www.airswap.io/) ile kişiden kişiye dijital varlık değişimi yapabilirsiniz, yani bir Blockchain'e ait token'ı bir başka Blockchain'e ait token ile değiştirebilirsiniz. Ya da kimseye başvurmadan herhangi bir kredi skorlamasına tabi olmadan kendi kendinize elinizde olan Ethereum parası ETH'i teminat verip,  [DAI sabitparası borçlanabilirsiniz](/genel/2019/02/15/MakerDAO-kredi-kullaniminda-cigir-acar-mi.html). Ethereum sistemi içinde olmanız farklı Blockchain'ler arası bu işlemleri yapmanıza olanak sağlıyor. 
 
-Bütün bunlar Ethereum üzerinde kurulu yapılar arasında yapılabilir. Ancak Ethereum halka açık bir altyapı olduğu için ağır ilerliyor, ayrıca pek çok kısıtı var geliştiriciler için. İşte Polkadot ve Cosmos Network, özel yapılar olarak hem daha hızlı hareket ediyorlar, hem de Blockchain geliştiricilerine daha fazla bağımsızlık vaad ediyorlar. 
+Bütün bunlar Ethereum üzerinde kurulu yapılar arasında yapılabilir. Ancak Ethereum halka açık bir altyapı olduğu için ağır ilerliyor, ayrıca pek çok kısıtı var geliştiriciler için. İşte Polkadot ve Cosmos Network, özel yapılar olarak hem daha hızlı hareket ediyorlar, hem de Blockchain geliştiricilerine daha fazla bağımsızlık vaat ediyorlar. 
 
 Bu arada hem Polkadot hem de Cosmos Network'un sistemi korumak amacıyla Proof-of-Stake algoritmalarının değişik versiyonlarını kullandıklarını belirtelim (o nedir diye soracak olursanız teknik olarak [şu yazımızda](/genel/2018/11/01/Proof-of-Workun-rakipleri-kimler.html) anlatmaya çalışmıştık). 
 
@@ -83,4 +83,4 @@ Bu girişimler henüz yolunda başındalar. Vizyonları çok geniş ancak şu an
 
 &nbsp;
 
-*Not: Yazdığımız 50+ yazının bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](/about/) sayfasına göz atabilirsiniz.*
+*Not 2: Yazdığımız 50+ yazının bir bütünlük içinde nelerden oluştuğuna bakmak isterseniz [Hakkımızda](/about/) sayfasına göz atabilirsiniz.*
