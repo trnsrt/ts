@@ -8,7 +8,7 @@ Aslında Polkadot ve Cosmos Network'un yaptıkları ana hatları ile aynı - Eth
 
 ### Polkadot
 
-![polkadot.png](/assets/polkadot.png){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+<img align="right" src="/assets/polkadot.png">
 
 [Polkadot](https://polkadot.network/), Ethereum'un kurucularından ve ana gelişticilerinden [Gavin Wood](http://gavwood.com/)'un çocuğu. Gavin sonradan görüş ayrılığına düştüğü Ethereum Foundation'ı bırakarak Polkadot üzerine yoğunlaşmaya karar veriyor. 
 
