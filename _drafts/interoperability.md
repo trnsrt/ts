@@ -2,7 +2,7 @@ Geçtiğimiz [yazıda](/genel/2019/05/07/bir-Blockchain-digeri-ile-konusur-mu.ht
 
 ### Paylaşmak güzeldir, rekabet de iyidir
 
-Aslında Polkadot ve Cosmos Network'un ana hatları ile aynı misyonu paylaşıyorlar: Ethereum ile başlayan Blockchain'lerin birbirleri ile etkileşimini bir adım öteye götürmek. Sadece detaylarda farklılık gösteriyorlar. 
+Aslında Polkadot ve Cosmos Network ana hatları ile aynı misyonu paylaşıyorlar: Ethereum ile başlayan Blockchain'lerin birbirleri ile etkileşimini bir adım öteye götürmek. Sadece detaylarda farklılık gösteriyorlar. 
 
 Çok teknik detaya girmeden kim olduklarını, ortak yönlerini ve farklarını anlatalım ki aslında interoperability denen kavram aklımızda daha netleşsin. 
 
