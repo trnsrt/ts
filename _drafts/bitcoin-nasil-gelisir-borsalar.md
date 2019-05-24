@@ -30,7 +30,10 @@ Talepkar olmak lazım
 Paranızı borsada tutmayın
 Kripto cüzdanlar kullanın
 
-Ama bu denilen kolay değil. Pratik de değil. Üstelik bu pazarların büyümesinin önünde büyük engel. 
+Ama bu denilen kolay değil. Şu an tüm Bitcoin'in %17'si borsalarda tutuluyor örneğin
+https://medium.com/coinshares/bitcoin-has-a-branding-problem-its-evolution-not-revolution-aa34fe5facfb
+
+Pratik de değil. Üstelik bu pazarların büyümesinin önünde büyük engel. 
 
 Kolayca kestirip atmak yerine paranızı tutan ve esneklik veren kurumların daha sıkı takip edilmesi mümkün olamaz mı?
 
