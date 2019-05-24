@@ -15,11 +15,15 @@ Talepkar olmak lazım
 Paranızı borsada tutmayın
 Kripto cüzdanlar kullanın
 
-Ama bu denilen kolay değil. Pratik de değil?
+Ama bu denilen kolay değil. Pratik de değil. Üstelik bu pazarların büyümesinin önünde büyük engel. 
+
+Kolayca kestirip atmak yerine paranızı tutan ve esneklik veren kurumların daha sıkı takip edilmesi mümkün olamaz mı?
 
 Başka ne yapılabilir? 
 
-Borsaların kendilerinin denetime tabi olmaları lazım. Oluyorlar mı? Çok zor?
+Borsaların kendilerinin denetime tabi olmaları daha şeffaf olmaları lazım. Oluyorlar mı? Çok zor?
+
+Ancak o zaman güven teşkil eden bir yapı ortaya çıkabilir. İnsanlar daha fazla paralarını bu yapılara koyar, hisse senedi piyasaları da daha likit hale gelir. 
 
 
 Yaptıkları belli kurallar var
