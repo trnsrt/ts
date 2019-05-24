@@ -9,6 +9,21 @@ Giden gider
 Kanuni olarak regülasyon bir yere kadar koruyabilir sizi
 Sigorta vs yok
 
+Kendinizde olduğu sürece Bitcoin sahipliğini ve gerçek olduğunu kanıtlayabileceğiniz belki de tek araç:
+Nasıl kanıtlarsınız?
+Bir Bitcoin'iniz mi var. 
+Şimdiye kadar yapılmış bütün işlemler tutuluyor (120 GB gibi)
+Buraya girip paranızın yaratılış noktasına kadar gidebilir ve sizin olduğunu kanıtlayabilirsiniz
+
+Altın için?
+Alet alıp gerçek mi değil mi diye bakmanız lazım
+Ya da bir kuyumcuya götüreceksiniz
+
+Fiat paralar için?
+Banknot ise sahte olup olmadığını kontrol edeceksiniz
+Parayı basan devlete güveneceksiniz (gerçekten söylediği kadar bastığına - aksi halde para devalüe olur)
+
+
 
 Nasıl korunabilirsiniz? 
 Talepkar olmak lazım
