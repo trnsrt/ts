@@ -1,3 +1,5 @@
+# Yazı I
+
 Blockchain benzeri sistemlerin can suyu olan kripo paraların gelişmesi için öncelikle geniş kitleler tarafından kullanımlarının artması gerekiyor. Bu konuda geçmiş yazılarda kurumsal anlamda getirilmek istenen kimi gelişimlerden bahsetmiştik. Gelin dilerseniz şimdi de kripto para borsalarının bu konuda neler yapabileceğine bakalım. 
 
 ### Önce birkaç korku hikayesi: 
@@ -33,24 +35,31 @@ Peki bu pratik mi? Bu sorunun yanıtı, eğer yatırım amaçlı çok alım sat�
 ### Arkası yarın
 Peki burada bütün sorumluluk biz bireylerde mi? Borsaların bu konuda bireyleri rahatlatacak aksiyonları yok mu? Var tabii. Yeterli mi? O soru işareti işte. Bir sonraki yazımızda sorulara cevap arayalım artık. 
 
+# Yazı II
 
+Geçtiğimiz [yazımızda] kripto para borsalarında yaşanan kimi yanlış olaylara bakmış ve en güvenli yolun bireysel yatırımcılar olarak kendi paranızı kendinize ait cüzdanlarda tutmak olduğunu belirtmiştik. Ancak bunun da borsada işlem yapma ihtiyacı doğduğunda pratik bir yöntem olmadığı için bireysel yatırımcıların içini rahat ettirecek önlemler konusunda borsaların da sorumlu olduğundan dem vurarak neler yapabileceklerini bu yazıya bırakmıştık. 
 
+### Ne gibi önlemler alıyor kripto para borsaları?
 
-Geçtiğimiz yazımızda kripto para borsalarında yaşanan kimi dolandırıcılık olaylarına bakmış ve en güvenli yolun bireysel yatırımcılar olarak kendi paranızı kendinize ait cüzdanlarda tutmak olduğunu belirtmiştik. Ancak bu da borsada işlem yapma ihtiyacı doğduğunda pratik bir yöntem olmadığı için bu tip nahoş olayları önlemede birincil sorumluluğun borsalarda olduğundan dem vurarak borsaların yapabileceklerini bu yazıya bırakmıştık. 
+Kripto para borsaları da durumun farkında ve pek çok önlem alıyorlar doğal olarak. Çoğu kripto para borsasının web sitesine girdiğinizde nasıl paraları sıcak cüzdanlarda (dışarıdan ulaşılma riski olan ancak hızlı işlem yapmak için gerekli olan çevrim içi -online- araçlar) tutmak yerine soğuk cüzdanlara (dışarıdan ulaşma riski olmayan araçlar) kaydırdıklarını, bu soğuk cüzdanlardan kripto para transferlerinde multisig imzalar (paranın tek bir kişinin üzerinden değil de örneğin üç kişiden ikisinin imzası ile hareket ettirilebildiği böylece bir kişinin yapacağı yanlış bir hareket ya da başına gelebilecek nahoş bir hadisede bile işlerin kuralına uygun hareket edebildiği durumlar) kullandıklarını görebilirsiniz. 
 
-Kripto para borsaları da durumun farkında ve pek çok önlem alıyorlar doğal olarak. Çoğu kripto para borsasının web sitesine girdiğinizde nasıl paraları sıcak cüzdanlarda (dışarıdan ulaşılma riski olan ancak hızlı işlem yapmak için gerekli olan çevrim içi -online- araçlar)  değll soğuk cüzdanlarda (dışarıdan ulaşma riski olmayan araçlar) tuttuklarını, bu soğuk cüzdanlardan kripto para transferlerinde multisig imzalar kullandıklarını (paranın tek bir kişinin üzerinden değil de örneğin üç kişiden ikisinin imzası ile hareket ettirilebildiği böylece bir kişinin yapacağı yanlış bir hareket ya da başına gelebilecek nahoş bir hadisede bile işlerin kuralına uygun hareket edebildiği durumlar) göreceksiniz. 
+### Yeterli mi bu tedbirler? Başka riskler var mı?
 
 Bütün bu önlemler dolandırıcılık gibi iç ya da dış tehditlere karşı güzel tedbirler. Yeterli mi? Tartışılır. Riskler sadece bunlar değil ki? Başka riskler de mevcut. Nedir onlar?
 
-Paranızın gerçekten borsada adınıza tutulduğunuzu garantı etmiyor bu iki tedbir örneğin. Ya üç kişi birlikte organize bir hareket içine girerler ise?  Ya borsa müşterilere ait hesapların çoğunluğunu tutar ama bir kısmını kendine ait başka hareketler için kullanırsa?
+Paranızın gerçekten borsada adınıza tutulduğunu garanti etmiyor yukarıda verdiğimiz iki tedbir. Ya üç kişi birlikte organize bir hareket içine girerler ise?  Ya borsa müşterilere ait hesapların çoğunluğunu tutar ama bir kısmını kendine ait başka hareketler için kullanırsa?
 
-Borsaların kendilerinin denetime tabi olmaları daha şeffaf olmaları lazım. Peki ama nasıl?
+### Borsaların kendilerinin denetime tabi olmaları daha şeffaf olmaları lazım. Peki ama nasıl?
 
-Burada Nic Carter'ın bir yazısında dile getirdiği Proof-of-Solvency metodu iyi bir örnek olabilir borsalar için.  Nedir o? 
+Burada Nic Carter'ın [şu yazısında](https://medium.com/@nic__carter/how-to-scale-bitcoin-without-changing-a-thing-bc4750dd16c7) dile getirdiği Proof-of-Solvency metodu iyi bir örnek olabilir borsalar için.  Nedir o? 
 
-Bir borsanın tüm varlık ve borçlarının bir dökümünü yapıp bunu her ay yayınlaması örneğin? Üstelik Blockchain teknolojisinden yararlanarak üretilen, dışarıdan bir denetçinin bakması zorunlu olmayan, herkes tarafından kontrol edilebilen bir rapor. Nasıl mı? Biraz daha içine girelim?
+Borsanın tüm varlık ve borçlarının bir dökümünü yapıp yayınladığı bir rapor mesela. Üstelik Blockchain teknolojisinden yararlanarak üretilen, dışarıdan bir denetçinin inceleyip onaylamasına gerek duymayan, herkes tarafından kontrol edilebilen bir rapor. Nasıl mı? Biraz daha içine girelim:
 
-Öncelikle tüm varlıklar eksi borçlar diyoruz. Neden sadece varlıkların dökümü değil? Çünkü, varlıkların dökümünü alarak tüm müşteri hesaplarının toplamı ile eş bir seviyeye getirebilirsiniz ama ya borsa rapor tarihinden önce bir kaç günlüğüne dışarıdan bir yerden borç alarak varlıkları tam gösteriyor ise? O yüzden varlıklardan borçları çıkararak bakmak önemli. 
+### Proof-of-Solvency nedir?
+
+Proof-of-Solvency (Borç ödeyebilme yeteneği) raporu özet olarak bir Şirket hem varlık hem de borç toplamını içeren, dolayısıyla mali yeterliliğini özetleyen bir rapor. 
+
+Öncelikle tüm varlıklar eksi borçlar diyoruz. Neden sadece varlıkların dökümü değil? Daha pratik olmaz mı? Olur ancak bir risk var: Elinizde tuttuğunuz varlıkların toplamını  Varlıkların dökümünü alarak tüm müşteri hesaplarının toplamı ile eş bir seviyeye getirebilirsiniz ama ya borsa rapor tarihinden önce bir kaç günlüğüne dışarıdan bir yerden borç alarak varlıkları tam gösteriyor ise? O yüzden varlıklardan borçları çıkararak bakmak önemli. 
 
 Daha sonra müşterilere ait tüm emanet hesapların toplamının borsanın elinde olduğunun kanıtlanması? Nasıl olacak bu? Müşterilerin gizli bilgilerini tüm dünyaya mı açacağız? Hayır? Peki o zaman nasıl emin olacağız: Aşağıda İngiltere bazlı Coinfloor kripto para borsasının kullandığı yöntem var. Oldukça pratik. Gelin birlikte inceleyelim. 
 
