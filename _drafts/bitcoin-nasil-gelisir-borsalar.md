@@ -17,10 +17,29 @@ Peki bu pratik mi? Eğer yatırım amaçlı çok alım satım yapmıyorsanız ev
 | *Bitcoin'in tutulduğu yerler - Kaynak [Coinshares Research](https://medium.com/coinshares/bitcoin-has-a-branding-problem-its-evolution-not-revolution-aa34fe5facfb)* | 
 
 ### Arkası yarın
-Peki burada bütün sorumluluk biz bireylerde mi? Borsaların bu konuda yapabilecekleri hamleler yok mu? Var tabii. Hatta çoğu kripto para borsasının web sitesine girdiğinizde nasıl paraları sıcak cüzdanlarda (dışarıdan ulaşılma riski olan ancak hızlı işlem yapmak için gerekli olan online cüzdanlar)  değll soğuk cüzdanlarda (dışarıdan ulaşma riski olmayan araçlar) tuttuklarını, bu soğuk cüzdanlardan kripto para transferlerinde multisig imzalar kullandıklarını (paranın tek bir kişinin ü
+Peki burada bütün sorumluluk biz bireylerde mi? Borsaların bu konuda yapabilecekleri hamleler yok mu? Var tabii. Onlara da bir sonraki yazımızda bakalım artık. 
+
+
+
+
+Geçtiğimiz yazımızda kripto para borsalarında yaşanan kimi dolandırıcılık olaylarına bakmış ve en güvenli yolun bireysel yatırımcılar olarak kendi paranızı kendinize ait cüzdanlarda tutmak olduğunu belirtmiştik. Ancak bu da borsada işlem yapma ihtiyacı doğduğunda pratik bir yöntem olmadığı için bu tip nahoş olayları önlemede birincil sorumluluğun borsalarda olduğundan dem vurarak borsaların yapabileceklerini bu yazıya bırakmıştık. 
+
+Kripto para borsaları da durumun farkında ve pek çok önlem alıyorlar doğal olarak. Çoğu kripto para borsasının web sitesine girdiğinizde nasıl paraları sıcak cüzdanlarda (dışarıdan ulaşılma riski olan ancak hızlı işlem yapmak için gerekli olan çevrim içi -online- araçlar)  değll soğuk cüzdanlarda (dışarıdan ulaşma riski olmayan araçlar) tuttuklarını, bu soğuk cüzdanlardan kripto para transferlerinde multisig imzalar kullandıklarını (paranın tek bir kişinin üzerinden değil de örneğin üç kişiden ikisinin imzası ile hareket ettirilebildiği böylece bir kişinin yapacağı yanlış bir hareket ya da başına gelebilecek nahoş bir hadisede bile işlerin kuralına uygun hareket edebildiği durumlar) göreceksiniz. 
+
+Bütün bu önlemler dolandırıcılık gibi iç ya da dış tehditlere karşı güzel tedbirler. Yeterli mi? Tartışılır. Riskler sadece bunlar değil ki? Başka riskler de mevcut. Nedir onlar?
+
+Örneğin, 
+
+Borsaların kendilerinin denetime tabi olmaları daha şeffaf olmaları lazım. Oluyorlar mı? Çok zor?
+
+
+
+
+
 
 
 Kişilerin bağımsızlığı - your key your Bitcoin
+
 Buralar tehlikeli yerler
 Giden gider
 Kanuni olarak regülasyon bir yere kadar koruyabilir sizi
