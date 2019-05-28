@@ -16,6 +16,8 @@ Peki bu pratik mi? Eğer yatırım amaçlı çok alım satım yapmıyorsanız ev
 |:--:| 
 | *Bitcoin'in tutulduğu yerler - Kaynak [Coinshares Research](https://medium.com/coinshares/bitcoin-has-a-branding-problem-its-evolution-not-revolution-aa34fe5facfb)* | 
 
+### Arkası yarın
+Peki burada bütün sorumluluk biz bireylerde mi? Borsaların bu konuda yapabilecekleri hamleler yok mu? Var tabii. Hatta çoğu kripto para borsasının web sitesine girdiğinizde nasıl paraları sıcak cüzdanlarda (dışarıdan ulaşılma riski olan ancak hızlı işlem yapmak için gerekli olan online cüzdanlar)  değll soğuk cüzdanlarda (dışarıdan ulaşma riski olmayan araçlar) tuttuklarını, bu soğuk cüzdanlardan kripto para transferlerinde multisig imzalar kullandıklarını (paranın tek bir kişinin ü
 
 
 Kişilerin bağımsızlığı - your key your Bitcoin
