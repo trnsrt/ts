@@ -10,11 +10,17 @@ Aslında işin doğası gereği bu tip olayların yaşanması normal. İşin öz
 
 Ancak bu hak ile birlikte büyük bir sorumluluk da geliyor üzerinize: Zira bu hamiline bir hak. Eğer bu paraya sahip olduğunuzu kanıtlayacağınız özel anahtarlar sizde ise kimse sizden bunu alamaz. Ama özel anahtarlar başkasında ise o zaman her tür risk sizi bekliyor. Para verip satın almış bile olsanız, size ait olan bir parayı kripto para borsasında tutmak, esas olarak o paranın anahtarlarını borsaya emanet etmek demek. 
 
+### Bitcoin'in bana ait olduğunu nasıl kanıtlarım?
+
 Burada ayrı bir paragraf açıp, daha temel bir soru soralım kendimize: Bendeki bir Bitcoin'in bana ait olduğunu nasıl kanıtlarım? Ya da bana ait olan (birinin gönderdiği) bir Bitcoin'in gerçek olduğunu (sahte olmadığını) nereden bilebilirim? Bakın o işin en kolay tarafı. Zira hep söylüyoruz, Blockchain sistemi özünde kayıtları binlerce makinede tutulan açık bir defter. Dolayısıyla, siz çok rahat bu defterlerden birini yükleyebilir (biraz büyük yalnız 100 GB üzerinde bir bilgisayar yerine sahip olmanız lazım), sonra kayıtlara tek tek bakabilirsiniz: Bana bu parayı gönderen kişiye parayı kim göndermiş? Ona kim göndermiş. Böyle böyle o paranın yaratıldığı tarihten bugüne kadar nasıl bir rota izlemiş olduğunu takip edebilirsiniz. Dünyadaki binlerce makinede tıpatıp aynı defter tutulduğu için çok rahat bir şekilde paranın size ait gerçek bir para olduğunu anlar ve isteyene kanıtlarsınız. 
+
+### Altın ve fiat parada bu sorun yok mu?
 
 Alternatif yatırım araçları için bu o kadar da kolay değil. Altını ele alalım. Sahip olduğunuz altını fiziki olarak elinize alabilirsiniz. Çok güzel. Ama gerçek olup olmadığını anlamak için bir kuyumcuya götürmeniz, gerçek saf olduğunu kanıtlamanız gerek. Zahmetli bir süreç. Kaydi olduğunda ise size altını satan kurumun gerçekten bu altına sahip olduğuna güvenmeniz gerekiyor. Gidip kurumda kontrol edemezsiniz - kurumu denetleyen iç ve dış denetçilerin işlerini layıkıyla yaptığına güvenmek zorundasınız. 
 
 Kağıt paralar için de benzer durum söz konusu. Fiziki olarak elinize aldığınız bir paranın gerçek olup olmadığını anlamak kolay değil. Her zaman bir risk var. Kaydi olarak bankada duran paranız için de altında olduğu gibi parayı tutan kuruma güvenmek zorundasınız. Ayrıca, parayı basan devletin para politikalarına da güvenmek zorundasınız bir yandan. Ani ve beklenmedik para artışlarının (2008 yılında ABD'de olduğu gibi) enflasyon olarak geri dönerek paranızı reel anlamda eritme riski var. 
+
+### Kripto borsalara geri dönsek?
 
 Geri dönersek, bir önceki paragrafta bahsettiğimiz kripto paraları borsada tutmanın riski yüksek değil mi? Evet, yüksek. Normalde bir kripto borsasından kripto para aldığınızda borsa parayı sizin adınıza bir elekronik cüzdanda tutar. Ancak burada borsaya güvenmek zorundasınız. Eğer güven konusunda sıkıntınız varsa (ki kimse bu konuda sizi suçlayamaz, kimseye güvenmek zorunda değilsiniz) en doğru yol, kripto paranızı satın aldığınız borsada tutmak yerine cep telefonu ya da bilgisayarınıza kuracağınız bir elektronik cüzdana transfer etmek. Zira kripto para konusunda en sık kullanılan deyişlerden biridir: "Senin anahtarın senin paran"
 
