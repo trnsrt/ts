@@ -59,18 +59,22 @@ Borsanın tüm varlık ve borçlarının bir dökümünü yapıp yayınladığı
 
 Proof-of-Solvency (Borç ödeyebilme yeteneği) raporu özet olarak bir Şirket hem varlık hem de borç toplamını içeren, dolayısıyla mali yeterliliğini özetleyen bir rapor. 
 
+Bunu yaparken en kritik nokta müşterilere ait tüm hesapların toplamının kendi emanetinde olduğunu kanıtlanması? Nasıl olacak bu? Müşterilerin gizli bilgilerini tüm dünyaya mı açacağız? Tabii ki hayır. 
 
+Peki o zaman nasıl emin olacağız: Aşağıda İngiltere bazlı Coinfloor kripto para borsasının kullandığı yöntem var. Temel olarak şirket her ay [bir rapor yayınlıyor](https://blog.coinfloor.co.uk/post/184391946481/provable-solvency-report-61-april-2019).  Aşağıdaki işlemleri yaparak borsa müşteri emanetlerinin güvencede olduğunu kanıtlıyor: 
 
-Daha sonra müşterilere ait tüm emanet hesapların toplamının borsanın elinde olduğunun kanıtlanması? Nasıl olacak bu? Müşterilerin gizli bilgilerini tüm dünyaya mı açacağız? Hayır? Peki o zaman nasıl emin olacağız: Aşağıda İngiltere bazlı Coinfloor kripto para borsasının kullandığı yöntem var. Oldukça pratik. Gelin birlikte inceleyelim. 
+1. Şirket müşterilerin elinde olan bütün hesap bakiyelerini [tek tek döküyor](https://s3-eu-west-1.amazonaws.com/provablesolvency/solvency_20190423.txt). Listenin her bir satırda öğütülmüş bir sayı/harf zinciri ve karşılığında bir BTC rakamı bulunuyor. Kişi ismi, hesap numarası yok. Ona sonra sıra gelecek. 
 
-Şirket her ay [bir rapor yayınlıyor](https://blog.coinfloor.co.uk/post/184391946481/provable-solvency-report-61-april-2019
-).  Raporda açıklandığı gibi şirket şu işlemleri yaparak müşteri emanetlerinin güvencede olduğunu kanıtlıyor. 
-
-1. Şirket müşterilerin elinde olan bütün hesap bakiyelerini [tek tek döküyor](https://s3-eu-west-1.amazonaws.com/provablesolvency/solvency_20190423.txt). Bu raporda her bir satırda bir öğütülmüş bir sayı/harf zinciri ve karşılığında bir BTC rakamı bulunuyor. Kişi ismi, hesap numarası yok. Ona sonra sıra gelecek. 
+RAPOR ÖRNEĞİ
 
 2. Bütün bu hesapların toplamı olan miktarı [Blockchain üzerinden bir adresten öbürüne geçiriyor](https://explorer.bitcoin.com/btc/tx/79c0383df1635ef6f95772a746754c250c229137f72887510703104df789e6d6). Böylece bu paraların kendisine ait olduğunu kanıtlamış oluyor. 
 
+BITCOIN TRANSACTION ORNEK
+
+
 3. Yukarıda yaptığı işlemin ayrıntılarının içine tanım olarak ilk  maddedeki tüm bakiyelerin bulunduğu dökümün öğütülmüş özetini de koyuyor (yukarıdaki [bitcoin transfer işleminin](https://explorer.bitcoin.com/btc/tx/79c0383df1635ef6f95772a746754c250c229137f72887510703104df789e6d6) ayrıntılarında görülen OpRETURN numarası). Siz de kontrol edebilirsiniz. İlk maddedeki hesap bakiye dökümü olan text dosyasını kopyalayıp herhangi bir [SHA-256 öğütücüye](https://passwordsgenerator.net/sha256-hash-generator/) atın çıkan sonucun Bitcoin işleminin içindeki OpRETURN satırı ile aynı olduğunu göreceksiniz
+
+SHA-256 GENERATOR ÖRNEĞİ
 
 4. Peki benim işlemim bu hesap döküm listesinin içinde mi? Bunun için hesabınıza girip size özel kod ile ilk maddedeki hesap dökümü listesinin en başında yer alan rakamı öğütücüye sokuyorsunuz. Çıkan sonucu, hesap dökümü listesinde aratıyorsunuz ve viola! Bakiyenizi görüyorsunuz. Paranız güvende. 
 
