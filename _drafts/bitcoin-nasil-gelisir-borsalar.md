@@ -28,13 +28,55 @@ Kripto para borsaları da durumun farkında ve pek çok önlem alıyorlar doğal
 
 Bütün bu önlemler dolandırıcılık gibi iç ya da dış tehditlere karşı güzel tedbirler. Yeterli mi? Tartışılır. Riskler sadece bunlar değil ki? Başka riskler de mevcut. Nedir onlar?
 
-Örneğin, 
+Paranızın gerçekten borsada adınıza tutulduğunuzu garantı etmiyor bu iki tedbir örneğin. Ya üç kişi birlikte organize bir hareket içine girerler ise?  Ya borsa müşterilere ait hesapların çoğunluğunu tutar ama bir kısmını kendine ait başka hareketler için kullanırsa?
 
-Borsaların kendilerinin denetime tabi olmaları daha şeffaf olmaları lazım. Oluyorlar mı? Çok zor?
+Borsaların kendilerinin denetime tabi olmaları daha şeffaf olmaları lazım. Peki ama nasıl?
+
+Burada Nic Carter'ın bir yazısında dile getirdiği Proof-of-Solvency metodu iyi bir örnek olabilir borsalar için.  Nedir o? 
+
+Bir borsanın tüm varlık ve borçlarının bir dökümünü yapıp bunu her ay yayınlaması örneğin? Üstelik Blockchain teknolojisinden yararlanarak üretilen, dışarıdan bir denetçinin bakması zorunlu olmayan, herkes tarafından kontrol edilebilen bir rapor. Nasıl mı? Biraz daha içine girelim?
+
+Öncelikle tüm varlıklar eksi borçlar diyoruz. Neden sadece varlıkların dökümü değil? Çünkü, varlıkların dökümünü alarak tüm müşteri hesaplarının toplamı ile eş bir seviyeye getirebilirsiniz ama ya borsa rapor tarihinden önce bir kaç günlüğüne dışarıdan bir yerden borç alarak varlıkları tam gösteriyor ise? O yüzden varlıklardan borçları çıkararak bakmak önemli. 
+
+Daha sonra müşterilere ait tüm emanet hesapların toplamının borsanın elinde olduğunun kanıtlanması? Nasıl olacak bu? Müşterilerin gizli bilgilerini tüm dünyaya mı açacağız? Hayır? Peki o zaman nasıl emin olacağız: Aşağıda İngiltere bazlı Coinfloor kripto para borsasının kullandığı yöntem var. Oldukça pratik. Gelin birlikte inceleyelim. 
+
+Şirket her ay [bir rapor yayınlıyor](https://blog.coinfloor.co.uk/post/184391946481/provable-solvency-report-61-april-2019
+).  Raporda açıklandığı gibi şirket şu işlemleri yaparak müşteri emanetlerinin güvencede olduğunu kanıtlıyor. 
+
+1. Şirket müşterilerin elinde olan bütün hesap bakiyelerini [tek tek döküyor](https://s3-eu-west-1.amazonaws.com/provablesolvency/solvency_20190423.txt). Bu raporda her bir satırda bir öğütülmüş bir sayı/harf zinciri ve karşılığında bir BTC rakamı bulunuyor. Kişi ismi, hesap numarası yok. Ona sonra sıra gelecek. 
+
+2. Bütün bu hesapların toplamı olan miktarı [Blockchain üzerinden bir adresten öbürüne geçiriyor](https://explorer.bitcoin.com/btc/tx/79c0383df1635ef6f95772a746754c250c229137f72887510703104df789e6d6). Böylece bu paraların kendisine ait olduğunu kanıtlamış oluyor. 
+
+3. Yukarıda yaptığı işlemin ayrıntılarının içine tanım olarak ilk  maddedeki tüm bakiyelerin bulunduğu dökümün öğütülmüş özetini de koyuyor (yukarıdaki [bitcoin transfer işleminin](https://explorer.bitcoin.com/btc/tx/79c0383df1635ef6f95772a746754c250c229137f72887510703104df789e6d6) ayrıntılarında görülen OpRETURN numarası). Siz de kontrol edebilirsiniz. İlk maddedeki hesap bakiye dökümü olan text dosyasını kopyalayıp herhangi bir [SHA-256 öğütücüye](https://passwordsgenerator.net/sha256-hash-generator/) atın çıkan sonucun Bitcoin işleminin içindeki OpRETURN satırı ile aynı olduğunu göreceksiniz
+
+4. Peki benim işlemim bu hesap döküm listesinin içinde mi? Bunun için hesabınıza girip size özel kod ile ilk maddedeki hesap dökümü listesinin en başında yer alan rakamı öğütücüye sokuyorsunuz. Çıkan sonucu, hesap dökümü listesinde aratıyorsunuz ve viola! Bakiyenizi görüyorsunuz. Paranız güvende. 
+
+Şu ana kadar bir borsanın yapabileceği en tatmin edici rapor bu. Bunu yapan borsalar var mı. Şu anda maalesef sadece Coinfloor. Başka borsalarda maalesef bu tip bir uygulama yok. Bu da diğer borsalara olan güvenin tam olmasını engelliyor. 
+
+Eğer Blockchain bazlı sistemlere yatırım yapan küçük yatırımcı sayısını artırmak istiyorsak, bu tip borsaların kendi kendilerine yayınlayacağı raporların önemi büyük. Bu tip yatırımcıya güven veren hamlelere yapılıncaya kadar teknik olarak kendini rahat hissetmeyen yatırımcıların kripto para borsalarında uzak durmasında ya da bir parça teknik öğrenerek kripto paralarını kendi cüzdanlarına çekmesinde fayda var. Geçtiğimiz yazıdaki sık söylenen sözü tekrar edelim: "Senin anahtarın, senin paran". 
 
 
 
 
+Hesabınız mı var? OK. 
+Exchange bütün hesaplarını (ne de olsa kendi tutuyor bunları) ay sonunda bir kere bir hesaptan bir diğerine geçiriyor
+Böylece paranın kendinde olduğunu net olarak gösteriyor 
+Bu işlemin kaydı var Bitcoin'de
+Sonra, bütün hesap bakiyelerinin listesini yapıyor
+Bu listenin öğütülmüş halini hash olarak bu işlemin içine koyuyor (böylece bakiyenizin bu rakam içinde olduğunu görüyorsunuz)
+Hesabınıza girip size özel sayı kümesini (kimse görmesin diye) hash yaptığınızda çıkan sonucu bu listenin içinde aratıyorsunuz. Karşınıza sizin bakiyeniz geliyor.
+
+
+
+
+Nasıl çalışıyor?
+Hesabınız mı var? OK. 
+Exchange bütün hesaplarını (ne de olsa kendi tutuyor bunları) ay sonunda bir kere bir hesaptan bir diğerine geçiriyor
+Böylece paranın kendinde olduğunu net olarak gösteriyor 
+Bu işlemin kaydı var Bitcoin'de
+Sonra, bütün hesap bakiyelerinin listesini yapıyor
+Bu listenin öğütülmüş halini hash olarak bu işlemin içine koyuyor (böylece bakiyenizin bu rakam içinde olduğunu görüyorsunuz)
+Hesabınıza girip size özel sayı kümesini (kimse görmesin diye) hash yaptığınızda çıkan sonucu bu listenin içinde aratıyorsunuz. Karşınıza sizin bakiyeniz geliyor. 
 
 
 
