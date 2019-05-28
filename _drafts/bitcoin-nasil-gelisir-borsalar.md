@@ -10,7 +10,14 @@ Peki bendeki bir Bitcoin'in bana ait olduğunu nasıl kanıtlarım? Ya da bana a
 
 Peki bir önceki paragrafta bahsettiğimiz risk çok yüksel değil mi? Evet, yüksek. Zira, bir kripto borsasında bir kripto para aldığınızda borsa parayı sizin adınıza bir elekronik cüzdanda tutar. Ancak burada borsaya güvenmek zorundasınız. Eğer güven konusunda sıkıntınız varsa (ki kimse bu konuda sizi suçlayamaz, kimseye güvenmek zorunda değilsiniz) en doğru yol, kripto paranızı satın aldığınız borsada tutmak yerine cep telefonu ya da bilgisayarınıza kuracağınız bir elektronik cüzdana transfer etmek. Zira kripto para konusunda en sık kullanılan deyişlerden biridir: "Senin anahtarın senin paran"
 
-Peki bu pratik mi? Eğer yatırım amaçlı çok alım satım yapmıyorsanız evet. Ama alım satım yapayım diyorsanız bu çok da pratik bir yol değil. Parayı kendi cüzdanına geçir, sonra işlem yapmak istediğinizde tekrar cüzdandan borsaya geçir. Hem uğraştırıcı hem zaman alıcı bir iş. Nitekim 
+Peki bu pratik mi? Eğer yatırım amaçlı çok alım satım yapmıyorsanız evet. Ama alım satım yapayım diyorsanız bu çok da pratik bir yol değil. Parayı kendi cüzdanına geçir, sonra işlem yapmak istediğinizde tekrar cüzdandan borsaya geçir. Hem uğraştırıcı hem zaman alıcı bir iş. Nitekim dünyadaki Bitcoin'in [%17'si hala borsalarda müşteri emaneti olarak duruyor](https://medium.com/coinshares/bitcoin-has-a-branding-problem-its-evolution-not-revolution-aa34fe5facfb). 
+
+
+
+| ![kripto-para-emanet-hesaplar.png](/assets/kripto-para-emanet-hesaplar.png) | 
+|:--:| 
+| *Bitcoin'in tutulduğu yerler - Kaynak [Coinshares Research](https://medium.com/coinshares/bitcoin-has-a-branding-problem-its-evolution-not-revolution-aa34fe5facfb)* | 
+
 
 
 Kişilerin bağımsızlığı - your key your Bitcoin
