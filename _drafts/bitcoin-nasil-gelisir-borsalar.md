@@ -87,9 +87,11 @@ Peki o zaman nasıl emin olacağız: Aşağıda İngiltere bazlı Coinfloor krip
 
 Şu ana kadar bir borsanın yapabileceği en tatmin edici rapor bu. Bunu yapan borsalar var mı. Şu anda maalesef sadece Coinfloor. Başka borsalarda maalesef bu tip bir uygulama yok. Bu da diğer borsalara olan güvenin tam olmasını engelliyor. 
 
-Eğer Blockchain bazlı sistemlere yatırım yapan küçük yatırımcı sayısını artırmak istiyorsak, bu tip borsaların kendi kendilerine yayınlayacağı raporların önemi büyük. Bu tip yatırımcıya güven veren hamlelere yapılıncaya kadar teknik olarak kendini rahat hissetmeyen yatırımcıların kripto para borsalarında uzak durmasında ya da bir parça teknik öğrenerek kripto paralarını kendi cüzdanlarına çekmesinde fayda var. Geçtiğimiz yazıdaki sık söylenen sözü tekrar edelim: "Senin anahtarın, senin paran". 
+### Sonuç
 
+Yukarıdaki örnek, Blockchain sistemlerinin şifre ve şeffaflık gücünü kullanarak nasıl biz normal kullanıcılar tarafından denetlenebileceğine çok güzel bir örnek. Eğer Blockchain bazlı sistemlere yatırım yapan küçük yatırımcı sayısını artırmak istiyorsak, bu tip borsaların kendi kendilerine yayınlayacağı raporların önemi büyük. Bu tip yatırımcıya güven veren hamlelere yapılıncaya kadar teknik olarak kendini rahat hissetmeyen yatırımcıların kripto para borsalarında uzak durmasında ya da bir parça teknik öğrenerek kripto paralarını kendi cüzdanlarına çekmesinde fayda var. Geçtiğimiz yazıdaki sık söylenen sözü tekrar edelim: "Senin anahtarın, senin paran". 
 
+---
 
 
 Hesabınız mı var? OK. 
