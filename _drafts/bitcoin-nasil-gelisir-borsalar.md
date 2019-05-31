@@ -65,16 +65,23 @@ Peki o zaman nasıl emin olacağız: Aşağıda İngiltere bazlı Coinfloor krip
 
 1. Şirket müşterilerin elinde olan bütün hesap bakiyelerini [tek tek döküyor](https://s3-eu-west-1.amazonaws.com/provablesolvency/solvency_20190423.txt). Listenin her bir satırda öğütülmüş bir sayı/harf zinciri ve karşılığında bir BTC rakamı bulunuyor. Kişi ismi, hesap numarası yok. Ona sonra sıra gelecek. 
 
-RAPOR ÖRNEĞİ
+| ![coinfloor-hesap-bakiye-600.png](/assets/coinfloor-hesap-bakiye-600.png) | 
+|:--:| 
+| *Coinfloor tüm hesapların dokümü - sol taraf hesap hash sağ taraf hesabın bakiyesi (Nisan 2019)  Kaynak: [Coinfloor](https://s3-eu-west-1.amazonaws.com/provablesolvency/solvency_20190423.txt)* | 
+
 
 2. Bütün bu hesapların toplamı olan miktarı [Blockchain üzerinden bir adresten öbürüne geçiriyor](https://explorer.bitcoin.com/btc/tx/79c0383df1635ef6f95772a746754c250c229137f72887510703104df789e6d6). Böylece bu paraların kendisine ait olduğunu kanıtlamış oluyor. 
 
-BITCOIN TRANSACTION ORNEK
+| ![coinfloor-btc-transaction-v2-640.png](/assets/coinfloor-btc-transaction-v2-640.png) | 
+|:--:| 
+| *Coinfloor tüm hesapların toplamını aylık transfer işlemi - Nisan 2019 Kaynak: [Bitcoin Explorer](https://explorer.bitcoin.com/btc/tx/79c0383df1635ef6f95772a746754c250c229137f72887510703104df789e6d6)* | 
 
 
 3. Yukarıda yaptığı işlemin ayrıntılarının içine tanım olarak ilk  maddedeki tüm bakiyelerin bulunduğu dökümün öğütülmüş özetini de koyuyor (yukarıdaki [bitcoin transfer işleminin](https://explorer.bitcoin.com/btc/tx/79c0383df1635ef6f95772a746754c250c229137f72887510703104df789e6d6) ayrıntılarında görülen OpRETURN numarası). Siz de kontrol edebilirsiniz. İlk maddedeki hesap bakiye dökümü olan text dosyasını kopyalayıp herhangi bir [SHA-256 öğütücüye](https://passwordsgenerator.net/sha256-hash-generator/) atın çıkan sonucun Bitcoin işleminin içindeki OpRETURN satırı ile aynı olduğunu göreceksiniz
 
-SHA-256 GENERATOR ÖRNEĞİ
+| ![coinfloor-sha-256-generator-640.png](/assets/coinfloor-sha-256-generator-640.png) | 
+|:--:| 
+| *İlk maddedeki tüm işlemlerin SHA-256 Hash'i Kaynak: [SHA-256 generator](https://passwordsgenerator.net/sha256-hash-generator/)* | 
 
 4. Peki benim işlemim bu hesap döküm listesinin içinde mi? Bunun için hesabınıza girip size özel kod ile ilk maddedeki hesap dökümü listesinin en başında yer alan rakamı öğütücüye sokuyorsunuz. Çıkan sonucu, hesap dökümü listesinde aratıyorsunuz ve viola! Bakiyenizi görüyorsunuz. Paranız güvende. 
 
