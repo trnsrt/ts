@@ -81,7 +81,7 @@ Peki o zaman nasıl emin olacağız: Aşağıda İngiltere bazlı Coinfloor krip
 
 | ![coinfloor-sha-256-generator-640.png](/assets/coinfloor-sha-256-generator-640.png) | 
 |:--:| 
-| *İlk maddedeki tüm işlemlerin SHA-256 Hash'i Kaynak: [SHA-256 generator](https://passwordsgenerator.net/sha256-hash-generator/)* | 
+| *İlk maddedeki tüm işlemlerin SHA-256 Hash'i. Yukarıdaki raporda ve burada kırmızı daire içindeki sayıların aynı olduğuna dikkat. Kaynak: [SHA-256 generator](https://passwordsgenerator.net/sha256-hash-generator/)* | 
 
 4. Peki benim işlemim bu hesap döküm listesinin içinde mi? Bunun için hesabınıza girip size özel kod ile ilk maddedeki hesap dökümü listesinin en başında yer alan rakamı öğütücüye sokuyorsunuz. Çıkan sonucu, hesap dökümü listesinde aratıyorsunuz ve viola! Bakiyenizi görüyorsunuz. Paranız güvende. 
 
