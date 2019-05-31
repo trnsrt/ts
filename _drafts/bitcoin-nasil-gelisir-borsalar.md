@@ -72,7 +72,7 @@ Peki o zaman nasıl emin olacağız: Aşağıda İngiltere bazlı Coinfloor krip
 
 2. Bütün bu hesapların toplamı olan miktarı [Blockchain üzerinden bir adresten öbürüne geçiriyor](https://explorer.bitcoin.com/btc/tx/79c0383df1635ef6f95772a746754c250c229137f72887510703104df789e6d6). Böylece bu paraların kendisine ait olduğunu kanıtlamış oluyor. 
 
-| ![coinfloor-btc-transaction-v2-800.png](/assets/coinfloor-btc-transaction-v2-800.png) | 
+| ![coinfloor-btc-transaction-v2-1200.png](/assets/coinfloor-btc-transaction-v2-1200.png) | 
 |:--:| 
 | *Coinfloor tüm hesapların toplamını aylık transfer işlemi - Nisan 2019 Kaynak: [Bitcoin Explorer](https://explorer.bitcoin.com/btc/tx/79c0383df1635ef6f95772a746754c250c229137f72887510703104df789e6d6)* | 
 
