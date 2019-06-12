@@ -34,7 +34,7 @@ Peki bu pratik mi? Bu sorunun yanıtı, eğer yatırım amaçlı çok alım sat�
 
 | ![kripto-para-emanet-hesaplar.png](/assets/kripto-para-emanet-hesaplar.png) | 
 |:--:| 
-| *Bitcoin'in tutulduğu yerler - Kaynak [Coinshares Research](https://medium.com/coinshares/bitcoin-has-a-branding-problem-its-evolution-not-revolution-aa34fe5facfb)* | 
+| *Bitcoin'in tutulduğu yerler - (Kaynak [Coinshares Research](https://medium.com/coinshares/bitcoin-has-a-branding-problem-its-evolution-not-revolution-aa34fe5facfb))* | 
 
 ### Arkası yarın
 Peki burada bütün sorumluluk biz bireylerde mi? 
