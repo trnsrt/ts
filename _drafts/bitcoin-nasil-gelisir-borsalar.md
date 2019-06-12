@@ -12,7 +12,7 @@ Aslında kripto paraların doğası gereği bu tip olayların yaşanması normal
 
 Blockchain bazlı sistemler kişiye kendi mülkiyetlerine sahip çıkma konusunda %100 kontrol veriyor. Sizin olan bir varlığın üzerinde başka bir kişinin hak iddia etmesi mümkün değil. 
 
-Ancak bu hak ile birlikte büyük bir sorumluluk da geliyor üzerinize: Zira bu hamiline bir hak. Eğer bu paraya sahip olduğunuzu kanıtlayacağınız özel anahtarlar sizde ise onu kimse sizden alamaz. Ama özel anahtarlar başkasında ise o zaman her tür risk sizi bekliyor. Para verip satın almış bile olsanız, size ait olan bir parayı kripto para borsasında tutmak, esas olarak o paranın anahtarlarını borsaya emanet etmek demek.
+Ancak bu hak ile birlikte büyük bir sorumluluk da geliyor üzerinize: Zira bu hamiline bir hak. Eğer bu paraya sahip olduğunuzu kanıtlayacağınız [özel anahtarlar](/genel/2018/04/26/sifreleme-mi-cok-karisik-degil-mi.html) sizde ise onu kimse sizden alamaz. Ama özel anahtarlar başkasında ise o zaman her tür risk sizi bekliyor. Para verip satın almış bile olsanız, size ait olan bir parayı kripto para borsasında tutmak, esas olarak o paranın anahtarlarını borsaya emanet etmek demek.
 
 #### Bitcoin'in bana ait olduğunu nasıl kanıtlarım?
 
