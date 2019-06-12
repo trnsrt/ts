@@ -63,13 +63,13 @@ Burada Nic Carter'ın [şu yazısında](https://medium.com/@nic__carter/how-to-s
 
 Borsanın tüm varlık ve borçlarının bir dökümünü yapıp yayınladığı bir rapor mesela. Üstelik Blockchain teknolojisinden yararlanarak üretilen, dışarıdan bir denetçinin inceleyip onaylamasına gerek duymayan, herkes tarafından kontrol edilebilen bir rapor. Nasıl mı? Biraz daha içine girelim:
 
-### Proof-of-Solvency ne?
+#### Proof-of-Solvency ne?
 
 Proof-of-Solvency (borç ödeyebilme yeteneği) raporu özet olarak bir şirketin hem varlık hem de borç toplamını içeren, dolayısıyla mali yeterliliğini özetleyen bir rapor. 
 
 Bunu yaparken en kritik nokta borsanın **müşterilerine ait tüm hesapların toplamını kadar paranın kendi sahipliğinde olduğunu kanıtlanması**. Nasıl olacak bu? Müşterilerin gizli bilgilerini tüm dünyaya mı açacağız? Tabii ki hayır. Peki o zaman nasıl emin olacağız? Blockchain'in güzelliğini kullanarak tabii! Bir örnek verelim ki, gerçekten Blockchain bir problemi nasıl çözüyor daha iyi anlaşılsın. 
 
-### Proof-of-Solvency raporunun bir örneğini görelim şimdi.. 
+#### Proof-of-Solvency raporunun bir örneğini görelim şimdi.. 
 
 Aşağıda İngiltere bazlı Coinfloor kripto para borsasının kullandığı Proof-of-Solvency raporu var. Temel olarak şirket her ay [bir rapor yayınlıyor](https://blog.coinfloor.co.uk/post/184391946481/provable-solvency-report-61-april-2019).  Ve aşağıdaki işlemleri yaparak borsa müşteri emanetlerinin güvencede olduğunu kanıtlıyor: 
 
