@@ -45,11 +45,11 @@ Borsaların bu konuda bireyleri rahatlatacak aksiyonları yok mu? Var tabii. Yet
 
 # Yazı II
 
-Geçtiğimiz [yazımızda] kripto para borsalarında yaşanan kimi yanlış olaylara bakmış ve en güvenli yolun bireysel yatırımcılar olarak kendi paranızı kendinize ait cüzdanlarda tutmak olduğunu belirtmiştik. Ancak bunun da borsada işlem yapma ihtiyacı doğduğunda pratik bir yöntem olmadığı için bireysel yatırımcıların içini rahat ettirecek önlemler konusunda borsaların da sorumlu olduğundan dem vurarak neler yapabileceklerini bu yazıya bırakmıştık. 
+Geçtiğimiz [yazımızda] kripto para borsalarında yaşanan kimi nahoş olaylara bakmış ve en güvenli yolun bireysel yatırımcılar olarak kendi paranızı kendinize ait cüzdanlarda tutmak olduğunu belirtmiştik. Öte yandan bu yolun borsada işlem yapma sırasında çok da pratik bir yöntem olmadığından dem vurmuştuk. Sonuçta borsaların bireysel yatırımcıların içini rahat ettirecek ne tip önlemler alabileceği konusunu bu yazıya bırakmıştık. 
 
 ### Ne gibi önlemler alıyor kripto para borsaları?
 
-Kripto para borsaları da durumun farkında ve pek çok önlem alıyorlar doğal olarak. Çoğu kripto para borsasının web sitesine girdiğinizde nasıl paraları sıcak cüzdanlarda (dışarıdan ulaşılma riski olan ancak hızlı işlem yapmak için gerekli olan çevrim içi -online- araçlar) tutmak yerine soğuk cüzdanlara (dışarıdan ulaşma riski olmayan araçlar) kaydırdıklarını, bu soğuk cüzdanlardan kripto para transferlerinde multisig imzalar (paranın tek bir kişinin üzerinden değil de örneğin üç kişiden ikisinin imzası ile hareket ettirilebildiği böylece bir kişinin yapacağı yanlış bir hareket ya da başına gelebilecek nahoş bir hadisede bile işlerin kuralına uygun hareket edebildiği durumlar) kullandıklarını görebilirsiniz. 
+Kripto para borsaları da bu durumun farkında ve pek çok önlem alıyorlar doğal olarak. Çoğu kripto para borsasının web sitesine girdiğinizde nasıl paraları sıcak cüzdanlarda (dışarıdan ulaşılma riski bulunan ancak hızlı işlem yapmak için gerekli olan çevrim içi -online- araçlar) tutmak yerine soğuk cüzdanlara (dışarıdan ulaşma riski olmayan araçlar) kaydırdıklarını, bu soğuk cüzdanlardan kripto para transferlerinde çoklu imzalar (paranın tek bir kişinin üzerinden değil de örneğin üç kişiden ikisinin imzası ile hareket ettirilebildiği böylece bir kişinin yapacağı yanlış bir hareket ya da başına gelebilecek nahoş bir hadisede bile sistemin kurallara uygun hareket ettiği durumlar) kullandıklarını görebilirsiniz. 
 
 ### Yeterli mi bu tedbirler? Başka riskler var mı?
 
@@ -65,11 +65,11 @@ Borsanın tüm varlık ve borçlarının bir dökümünü yapıp yayınladığı
 
 ### Proof-of-Solvency ne?
 
-Proof-of-Solvency (Borç ödeyebilme yeteneği) raporu özet olarak bir Şirket hem varlık hem de borç toplamını içeren, dolayısıyla mali yeterliliğini özetleyen bir rapor. 
+Proof-of-Solvency (borç ödeyebilme yeteneği) raporu özet olarak bir şirketin hem varlık hem de borç toplamını içeren, dolayısıyla mali yeterliliğini özetleyen bir rapor. 
 
-Bunu yaparken en kritik nokta müşterilere ait tüm hesapların toplamının kendi emanetinde olduğunu kanıtlanması? Nasıl olacak bu? Müşterilerin gizli bilgilerini tüm dünyaya mı açacağız? Tabii ki hayır. 
+Bunu yaparken en kritik nokta borsanın müşterilerine ait tüm hesapların toplamını kadar paranın kendi sahipliğinde olduğunu kanıtlanması. Nasıl olacak bu? Müşterilerin gizli bilgilerini tüm dünyaya mı açacağız? Tabii ki hayır. Peki o zaman nasıl emin olacağız? Blockchain'in güzelliğini kullanarak tabii! 
 
-Peki o zaman nasıl emin olacağız: Aşağıda İngiltere bazlı Coinfloor kripto para borsasının kullandığı yöntem var. Temel olarak şirket her ay [bir rapor yayınlıyor](https://blog.coinfloor.co.uk/post/184391946481/provable-solvency-report-61-april-2019).  Aşağıdaki işlemleri yaparak borsa müşteri emanetlerinin güvencede olduğunu kanıtlıyor: 
+Aşağıda İngiltere bazlı Coinfloor kripto para borsasının kullandığı Proof-of-Solvency'nin çok güzel bir örneği var. Temel olarak şirket her ay [bir rapor yayınlıyor](https://blog.coinfloor.co.uk/post/184391946481/provable-solvency-report-61-april-2019).  Aşağıdaki işlemleri yaparak borsa müşteri emanetlerinin güvencede olduğunu kanıtlıyor: 
 
 1. Şirket müşterilerin elinde olan bütün hesap bakiyelerini [tek tek döküyor](https://s3-eu-west-1.amazonaws.com/provablesolvency/solvency_20190423.txt). Listenin her bir satırda öğütülmüş bir sayı/harf zinciri ve karşılığında bir BTC rakamı bulunuyor. Kişi ismi, hesap numarası yok. Ona sonra sıra gelecek. 
 
