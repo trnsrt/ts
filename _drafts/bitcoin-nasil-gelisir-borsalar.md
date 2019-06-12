@@ -79,6 +79,7 @@ Aşağıda İngiltere bazlı Coinfloor kripto para borsasının kullandığı Pr
 |:--:| 
 | *Coinfloor tüm hesapların dokümü - sol taraf hesap öğütülmüş hesap bilgisi, sağ taraf o hesabın bakiyesi (Nisan 2019)  (Kaynak: [Coinfloor](https://s3-eu-west-1.amazonaws.com/provablesolvency/solvency_20190423.txt))* | 
 
+(Bu arada öğütme konusunda daha fazla bilgilenme isterseniz şu [yazımıza](/genel/2018/04/26/sifreleme-mi-cok-karisik-degil-mi.html)) bakabilirsiniz)
 
 2. Sonra şirket bütün bu hesapların toplamı olan Bitcoin miktarını [Blockchain üzerinden bir adresten öbürüne geçiriyor](https://explorer.bitcoin.com/btc/tx/79c0383df1635ef6f95772a746754c250c229137f72887510703104df789e6d6). Bunu yaparak bu kadar bir miktarın kendi sahipliğinde olduğunu kanıtlamış oluyor. 
 
@@ -91,7 +92,7 @@ Aşağıda İngiltere bazlı Coinfloor kripto para borsasının kullandığı Pr
 
 | ![coinfloor-sha-256-generator-640.png](/assets/coinfloor-sha-256-generator-640.png) | 
 |:--:| 
-| *İlk maddedeki tüm işlemlerin SHA-256 Hash'i. Yukarıdaki raporda ve burada kırmızı daire içindeki sayıların aynı olduğuna dikkat. (Kaynak: [SHA-256 generator](https://passwordsgenerator.net/sha256-hash-generator/))* | 
+| *İlk maddedeki tüm işlemlerin SHA-256 öğütülmüş hali. Yukarıdaki raporda ve burada kırmızı daire içindeki sayıların aynı olduğuna dikkat. (Kaynak: [SHA-256 generator](https://passwordsgenerator.net/sha256-hash-generator/))* | 
 
 4. Peki benim işlemim bu hesap döküm listesinin içinde mi? Bunun için hesabınıza girip size özel kod ile ilk maddedeki hesap dökümü listesinin en başında yer alan rakamı öğütücüye sokuyorsunuz. Çıkan sonucu, hesap dökümü listesinde aratıyorsunuz ve viola! Bakiyenizi görüyorsunuz. Paranız güvende. 
 
