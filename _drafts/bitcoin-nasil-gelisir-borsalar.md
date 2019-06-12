@@ -16,7 +16,11 @@ Ancak bu hak ile birlikte büyük bir sorumluluk da geliyor üzerinize: Zira bu 
 
 #### Bitcoin'in bana ait olduğunu nasıl kanıtlarım?
 
-Burada ayrı bir paragraf açıp, daha temel bir soru soralım kendimize: Bendeki bir Bitcoin'in bana ait olduğunu nasıl kanıtlarım? Ya da bana ait olan (birinin gönderdiği) bir Bitcoin'in gerçek olduğunu (sahte olmadığını) nereden bilebilirim? 
+Burada ayrı bir paragraf açıp, daha temel bir soru soralım kendimize: Bendeki bir Bitcoin'in bana ait olduğunu nasıl kanıtlarım? Ya da bana ait olan (birinin gönderdiği) bir Bitcoin'in gerçek olduğunu (sahte olmadığını) nereden bilebilirim?
+
+| ![safe.jpg](/assets/safe.jpg) | 
+|:--:| 
+| *Kripto paranızı bu şekide saklayamazsınız (Image by [mohamed Hassan](https://pixabay.com/users/mohamed_hassan-5229782/) from [Pixabay](https://pixabay.com/images/id-3703193/))* | 
 
 Bakın o işin en kolay tarafı. Zira hep söylüyoruz: Blockchain sistemi özünde kayıtları binlerce makinede tutulan açık bir defter. Dolayısıyla, siz çok rahat bu defterlerden birini yükleyebilir (biraz büyük yalnız - [200 GB üzerinde](https://www.statista.com/statistics/647523/worldwide-bitcoin-blockchain-size/) bir alanı kullanmanız gerek bunun için - ya da o kadar uğraşmak istemiyorsanız bu defterler online sitelerde de var - örneğin [Blockchain Explorer](https://www.blockchain.com/explorer)) sonra kayıtlara tek tek bakabilirsiniz: Bana bu parayı gönderen kişiye parayı kim göndermiş? Ona kim göndermiş. Böyle böyle o paranın yaratıldığı tarihten bugüne kadar nasıl bir rota izlemiş olduğunu takip edebilirsiniz. Dünyadaki binlerce makinede tıpatıp aynı defter tutulduğu için çok rahat bir şekilde paranın size ait gerçek bir para olduğunu anlar ve isteyene kanıtlarsınız.
 
