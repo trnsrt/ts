@@ -1,6 +1,6 @@
 # Yazı I
 
-Blockchain benzeri sistemlerin can suyu olan kripto paraların gelişmesi için öncelikle geniş kitleler tarafından kullanımlarının artması gerekiyor. Bu konuda geçmiş yazılarda bireysel ve kurumsal anlamda getirilmek istenen kimi gelişimlerden ([Lightning Network](/genel/2018/12/20/bitcoin-uzerinde-isik-hiziyla-islem-Lightning-network.html), [Liquid](https://ademimerkezi.com/genel/2018/12/26/Bitcoin-gibi-ama-degil-Liquid.html), [Bakkt](https://ademimerkezi.com/genel/2019/01/04/kurumsal-yatirimci-bakkt-ile-kriptoparalara-girer-mi.html), [Fidelity Digital](https://ademimerkezi.com/genel/2019/03/14/kripto-kurumsal-yatirim-pazarinin-buyumesi-icin-bir-dev-daha-devrede-Fidelity-Digital.html)) bahsetmiştik. Şimdi de gelin kripto para borsaların bu alanda neler yapabileceğine bakalım. 
+Blockchain benzeri sistemlerin can suyu olan kripto paraların gelişmesi için öncelikle geniş kitleler tarafından kullanımlarının artması gerekiyor. Bu konuda geçmiş yazılarda bireysel ve kurumsal anlamda getirilmek istenen kimi girişimlerden ([Lightning Network](/genel/2018/12/20/bitcoin-uzerinde-isik-hiziyla-islem-Lightning-network.html), [Liquid](https://ademimerkezi.com/genel/2018/12/26/Bitcoin-gibi-ama-degil-Liquid.html), [Bakkt](https://ademimerkezi.com/genel/2019/01/04/kurumsal-yatirimci-bakkt-ile-kriptoparalara-girer-mi.html), [Fidelity Digital](https://ademimerkezi.com/genel/2019/03/14/kripto-kurumsal-yatirim-pazarinin-buyumesi-icin-bir-dev-daha-devrede-Fidelity-Digital.html)) bahsetmiştik. Şimdi de gelin kripto para borsaların bu alanda neler yapabileceğine bakalım. 
 
 ### Önce birkaç korku hikayesi: 
 *Mt Gox:* Bir zamanlar Bitcoin alışverişi yapmak için neredeyse tek adres Mt Gox idi. Japonya'da bir ABD'li tarafından kurulan bu borsa zamanında Bitcoin işlem hacminin neredeyse %70'ini gerçekleştiren bir büyüklüğe ulaştı. Sonra ne oldu? 2014 yılının Şubat ayında şirket hesaplarına girildi ve müşterilere ait 740,000 BTC (Bitcoin) [çalındı](https://blockonomi.com/mt-gox-hack/). O zamanlar 460 milyon ABD Dolarına denk geliyordu bu rakam, şimdi ise yaklaşık 5 milyar ABD Doları!. 
@@ -20,7 +20,7 @@ Burada ayrı bir paragraf açıp, daha temel bir soru soralım kendimize: Bendek
 
 | ![safe.jpg](/assets/safe.jpg) | 
 |:--:| 
-| *Kripto paranızı bu şekide saklayamazsınız (Image by [mohamed Hassan](https://pixabay.com/users/mohamed_hassan-5229782/) from [Pixabay](https://pixabay.com/images/id-3703193/))* | 
+| *Kripto paranızı bu şekilde saklayamazsınız (Image by [mohamed Hassan](https://pixabay.com/users/mohamed_hassan-5229782/) from [Pixabay](https://pixabay.com/images/id-3703193/))* | 
 
 Bakın o işin en kolay tarafı. Zira hep söylüyoruz: Blockchain sistemi özünde kayıtları binlerce makinede tutulan açık bir defter. Dolayısıyla, siz çok rahat bu defterlerden birini yükleyebilir (biraz büyük yalnız - [200 GB üzerinde](https://www.statista.com/statistics/647523/worldwide-bitcoin-blockchain-size/) bir alanı kullanmanız gerek - ya da o kadar uğraşmak istemiyorsanız bu defterler online sitelerde de var - örneğin [Blockchain Explorer](https://www.blockchain.com/explorer)) sonra kayıtlara tek tek bakabilirsiniz: Bana bu parayı gönderen kişiye parayı kim göndermiş? Ona kim göndermiş. Böyle böyle o paranın yaratıldığı tarihten bugüne kadar nasıl bir rota izlemiş olduğunu takip edebilirsiniz. Dünyadaki binlerce makinede tıpatıp aynı defter tutulduğu için çok rahat bir şekilde paranın size ait gerçek bir para olduğunu anlar ve isteyene kanıtlarsınız.
 
@@ -32,7 +32,7 @@ Kağıt paralar için de benzer durum söz konusu. Fiziki olarak elinize aldığ
 
 ### Kripto borsalara geri dönsek?
 
-Ana konumuza geri dönersek, kripto paraları borsada tutmanın riski yüksek değil mi? Evet, yüksek. Normalde bir kripto borsasından kripto para aldığınızda borsa parayı sizin adınıza bir elekronik cüzdanda tutar. Ancak burada borsaya güvenmek zorundasınız. Eğer güven konusunda sıkıntınız varsa (ki kimse bu konuda sizi suçlayamaz, kimseye güvenmek zorunda değilsiniz) en doğru yol, kripto paranızı satın aldığınız borsada tutmak yerine cep telefonu ya da bilgisayarınıza kuracağınız bir elektronik cüzdana transfer etmek. Zira kripto para konusunda en sık kullanılan deyişlerden biridir: "Senin anahtarın senin paran". 
+Ana konumuza geri dönersek, kripto paraları borsada tutmanın riski yüksek değil mi? Evet, yüksek. Normalde bir kripto borsasından kripto para aldığınızda borsa parayı sizin adınıza bir elektronik cüzdanda tutar. Ancak burada borsaya güvenmek zorundasınız. Eğer güven konusunda sıkıntınız varsa (ki kimse bu konuda sizi suçlayamaz, kimseye güvenmek zorunda değilsiniz) en doğru yol, kripto paranızı satın aldığınız borsada tutmak yerine cep telefonu ya da bilgisayarınıza kuracağınız bir elektronik cüzdana transfer etmek. Zira kripto para konusunda en sık kullanılan deyişlerden biridir: "Senin anahtarın senin paran". 
 
 Peki bu pratik mi? Bu sorunun yanıtı, eğer yatırım amaçlı çok alım satım yapmıyorsanız bir dereceye kadar evet. Ancak alım satım yapayım diyorsanız bu, çok da pratik bir yol değil. Parayı kendi cüzdanına geçir, sonra işlem yapmak istediğinde tekrar cüzdandan borsaya gönder. Hem uğraştırıcı hem zaman alıcı bir iş. Nitekim dünyadaki Bitcoin'in [%17'si hala borsalarda müşteri emaneti olarak duruyor](https://medium.com/coinshares/bitcoin-has-a-branding-problem-its-evolution-not-revolution-aa34fe5facfb). 
 
@@ -43,7 +43,7 @@ Peki bu pratik mi? Bu sorunun yanıtı, eğer yatırım amaçlı çok alım sat�
 ### Arkası yarın
 Peki burada bütün sorumluluk biz bireylerde mi? 
 
-İşte burada en kritik nokta ortaya çıkıyor: Borsaların, kripto para sahipliğinin bu kadar keskin ve kaygan olduğu bir dünyada yatırımcıların parasını emanetinde tutarken alınabilecek en katı tedbirleri alması ve yatırımcının içini rahat ettirmesi gerekiyor. 
+İşte burada en kritik nokta ortaya çıkıyor: Borsaların, kripto paraya sahip olmanın bu kadar kaygan ve keskin olduğu bir dünyada yatırımcıların parasını emanetinde tutarken alınabilecek en katı tedbirleri alması ve yatırımcının içini rahat ettirmesi gerekiyor. 
 
 Borsaların bu konuda bireyleri rahatlatacak aksiyonları yok mu? Var tabii. Yeterli mi? O soru işareti işte. Bir sonraki yazımızda bu sorulara cevap arayalım artık. 
 
@@ -81,7 +81,7 @@ Aşağıda İngiltere bazlı Coinfloor kripto para borsasının kullandığı Pr
 
 | ![coinfloor-hesap-bakiye-600.png](/assets/coinfloor-hesap-bakiye-600.png) | 
 |:--:| 
-| *Coinfloor tüm hesapların dokümü - sol taraf hesap öğütülmüş hesap bilgisi, sağ taraf o hesabın bakiyesi (Nisan 2019)  (Kaynak: [Coinfloor](https://s3-eu-west-1.amazonaws.com/provablesolvency/solvency_20190423.txt))* | 
+| *Coinfloor tüm hesapların dökümü - sol taraf hesap öğütülmüş hesap bilgisi, sağ taraf o hesabın bakiyesi (Nisan 2019)  (Kaynak: [Coinfloor](https://s3-eu-west-1.amazonaws.com/provablesolvency/solvency_20190423.txt))* | 
 
 (Bu arada öğütme konusunda daha fazla bilgilenme isterseniz şu [yazımıza](/genel/2018/04/26/sifreleme-mi-cok-karisik-degil-mi.html) bakabilirsiniz)
 
@@ -100,7 +100,7 @@ Aşağıda İngiltere bazlı Coinfloor kripto para borsasının kullandığı Pr
 
 4. Peki benim işlemim bu hesap döküm listesinin içinde mi? Bunun için hesabınıza girip size özel kod ile ilk maddedeki hesap dökümü listesinin en başında yer alan rakamı öğütücüye sokuyorsunuz. Çıkan sonucu, hesap dökümü listesinde aratıyorsunuz ve viola! Bakiyenizi görüyorsunuz. Paranız güvende. 
 
-Şu ana kadar bir borsanın yapabileceği en tatmin edici rapor bu. Bunu yapan borsalar var mı? Şu anda sadece Coinfloor bu işe kalkışmış durumda. Başka borsalarda maalesef bu tip bir uygulama yok.
+Şu ana kadar bir borsanın yayınlayabileceği en tatmin edici rapor bu. Bunu yapan borsalar var mı? Şu anda sadece Coinfloor - başka borsalarda maalesef bu tip bir uygulama yok.
 
 ### Sonuç
 
