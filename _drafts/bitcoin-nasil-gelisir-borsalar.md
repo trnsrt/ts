@@ -73,7 +73,7 @@ Bunu yaparken en kritik nokta borsanın **müşterilerine ait tüm hesapların t
 
 Aşağıda İngiltere bazlı Coinfloor kripto para borsasının kullandığı Proof-of-Solvency raporu var. Temel olarak şirket her ay [bir rapor yayınlıyor](https://blog.coinfloor.co.uk/post/184391946481/provable-solvency-report-61-april-2019).  Ve aşağıdaki işlemleri yaparak borsa müşteri emanetlerinin güvencede olduğunu kanıtlıyor: 
 
-1. Öncelikle şirket müşterilerin elinde olan bütün hesap bakiyelerini [tek tek döküyor](https://s3-eu-west-1.amazonaws.com/provablesolvency/solvency_20190423.txt). Listenin her bir satırda öğütülmüş bir sayı/harf zinciri ve karşılığında bir BTC rakamı bulunuyor. Kişi ismi, hesap numarası yok. Ona sonra sıra gelecek. 
+1. Öncelikle şirket müşterilerin elinde olan bütün hesap bakiyelerini [tek tek döküyor](https://s3-eu-west-1.amazonaws.com/provablesolvency/solvency_20190423.txt). Listenin her bir satırda her bir hesabın bilgilerinin bir sayı/harf zinciri olarak öğütülmüş hali ve karşılığında bir BTC rakamı bulunuyor. Kişi ismi, hesap numarası yok. Ona sonra sıra gelecek. 
 
 | ![coinfloor-hesap-bakiye-600.png](/assets/coinfloor-hesap-bakiye-600.png) | 
 |:--:| 
