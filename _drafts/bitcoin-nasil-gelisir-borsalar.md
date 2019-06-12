@@ -67,7 +67,7 @@ Borsanın tüm varlık ve borçlarının bir dökümünü yapıp yayınladığı
 
 Proof-of-Solvency (borç ödeyebilme yeteneği) raporu özet olarak bir şirketin hem varlık hem de borç toplamını içeren, dolayısıyla mali yeterliliğini özetleyen bir rapor. 
 
-Bunu yaparken en kritik nokta borsanın müşterilerine ait tüm hesapların toplamını kadar paranın kendi sahipliğinde olduğunu kanıtlanması. Nasıl olacak bu? Müşterilerin gizli bilgilerini tüm dünyaya mı açacağız? Tabii ki hayır. Peki o zaman nasıl emin olacağız? Blockchain'in güzelliğini kullanarak tabii! Bir örnek verelim ki, gerçekten Blockchain bir problemi nasıl çözüyor daha iyi anlaşılsın. 
+Bunu yaparken en kritik nokta borsanın **müşterilerine ait tüm hesapların toplamını kadar paranın kendi sahipliğinde olduğunu kanıtlanması**. Nasıl olacak bu? Müşterilerin gizli bilgilerini tüm dünyaya mı açacağız? Tabii ki hayır. Peki o zaman nasıl emin olacağız? Blockchain'in güzelliğini kullanarak tabii! Bir örnek verelim ki, gerçekten Blockchain bir problemi nasıl çözüyor daha iyi anlaşılsın. 
 
 ### Proof-of-Solvency raporunun bir örneğini görelim şimdi.. 
 
