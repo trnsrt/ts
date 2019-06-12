@@ -77,7 +77,7 @@ Aşağıda İngiltere bazlı Coinfloor kripto para borsasının kullandığı Pr
 
 | ![coinfloor-hesap-bakiye-600.png](/assets/coinfloor-hesap-bakiye-600.png) | 
 |:--:| 
-| *Coinfloor tüm hesapların dokümü - sol taraf hesap hash sağ taraf hesabın bakiyesi (Nisan 2019)  Kaynak: [Coinfloor](https://s3-eu-west-1.amazonaws.com/provablesolvency/solvency_20190423.txt)* | 
+| *Coinfloor tüm hesapların dokümü - sol taraf hesap öğütülmüş hesap bilgisi, sağ taraf o hesabın bakiyesi (Nisan 2019)  Kaynak: [Coinfloor](https://s3-eu-west-1.amazonaws.com/provablesolvency/solvency_20190423.txt)* | 
 
 
 2. Sonra şirket bütün bu hesapların toplamı olan Bitcoin miktarını [Blockchain üzerinden bir adresten öbürüne geçiriyor](https://explorer.bitcoin.com/btc/tx/79c0383df1635ef6f95772a746754c250c229137f72887510703104df789e6d6). Böylece bu paraların kendisine ait olduğunu kanıtlamış oluyor. 
