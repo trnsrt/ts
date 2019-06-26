@@ -1,6 +1,6 @@
 Artık sağır sultan duydu herhalde: Facebook, kripto para piyasasına Libra ile şaşaalı bir giriş yaptı. Tüm kripto alemine hayırlı olsun!. 
 
-Bir paragrafta özetleyelim: Facebook, yaklaşık xxx kuruluş ile birlikte merkezi Cenevre'de olan bir vakıf kuruyor. Bu vakif Libra adında bir kripto para çıkarıyor. Bu para, aslında arkasından %100 dolar ve benzeri paralar ile desteklenen bir SabitPara (stable coin). Kişiden kişiye para transferi dışında, Facebook sistemi içindeki pek çok hizmet alımının karşılığında ödeme olarak kullanılacak. Biz bireyler elimizdeki TL, dolar vs parayı Facebook'un parası Libra'ya çevireceğiz 
+Bir paragrafta özetleyelim: Facebook, yaklaşık xxx kuruluş ile birlikte merkezi Cenevre'de olan bir vakıf kuruyor. Bu vakif Libra adında bir kripto para çıkaracak. Bu para, aslında arkasından %100 dolar ve benzeri paralar ile desteklenen bir SabitPara (stable coin). Kişiden kişiye para transferi dışında, Facebook (ya da isteyen diğer kuruluşlar, örneğin Über) sistemi içindeki pek çok hizmet alımının karşılığında ödeme olarak kullanılacak. Biz bireyler elimizdeki TL, dolar vs parayı Libra'ya çevirip sistem içinde kullanabileceğiz. Bunu yaparken elekronik cüzdanlar kullanacağız normal olarak. Facebook ise Calibra adıyla bu cüzdanlardan ilk örneği de görücüye çıkardı. 
 
 ### Facebook'un kripto piyasasına girmesi neden önemli?
 Facebook bir dev. Bu devin piyasaya girmesi hem kendisi hem de piyasa oyuncuları için önemli. Gelin bakalım her iki tarafın bakış açısından: 
