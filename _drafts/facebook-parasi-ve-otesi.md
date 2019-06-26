@@ -20,9 +20,26 @@ Facebook'un piyasaya girmesi kripto paralar için en azından üzerine yapışt�
 Facebook yeni çıkardığı sistem ile gerçekte kimin rakibi oluyor? Gelin Blockchain dünyasının oyuncularına bakalım ve karar verelim:
 
 #### Bitcoin?
-İlk akla gelen şüpheli. Piyasanın ağır ağbisi, şimdi mahalle dışından gelen yeni bir rakibe karşı. Gerçekten öyle mi? Bitcoin ile Libra'nın para transferi için kullanılmak dışında ortak pek bir özelliği yok aslında. Blockchain dünyasının iki ayrı ucundalar. Bitcoin, tamamen dağıtık, merkezi ya da lideri olmayan bir yapı. Dolayısıyla sansür edilmesi çok ama çok zor (imkansız da diyebilirsiniz ama büyük konuşmamak lazım). Sisteme giriş çıkış (kullanıcılar, yatırımcılar, madenciler) herkes için serbest. 
+İlk akla gelen şüpheli. Piyasanın ağır ağbisi, şimdi mahalle dışından gelen yeni bir rakibe karşı. Gerçekten öyle mi? Bitcoin ile Libra'nın para transferi için kullanılmak dışında ortak pek bir özelliği yok aslında. Blockchain dünyasının iki ayrı ucundalar. 
 
-Libra ise bir konsorsiyum tarafından 
+##### Merkeziyetçilik
+
+Bitcoin, tamamen dağıtık, merkezi ya da lideri olmayan bir yapı. Dolayısıyla sansür edilmesi çok ama çok zor (imkansız da diyebilirsiniz ama büyük konuşmamak lazım). 
+
+Libra ise bir konsorsiyum tarafından sürülüyor, her ne kadar lideri Facebook olsa da. Bütün konsorsiyum üyeleri, merkezi yapılar. Libra da benzer şekilde Cenevre merkezi bir yapı. Sansür edilmek ağır bir kelime olsa da, gerek kanunlar gerekse başka politik nedenler ile baskı görmeye hazır. Avrupa Birliği "zaten dakika bir gol bir" [başladı baskıya], keza ABD'de de [kaşlar havaya kalktı]. 
+
+##### Dağıtık yapı
+
+Bitcoin'de sisteme giriş çıkış (kullanıcılar, yatırımcılar, madenciler) herkes için serbest.
+
+Libra, izne bağlı/kapalı (permissioned) bir Blockchain olarak kuruluyor - ileride açık (permissionless) bir sisteme girmek gibi bir hedefleri var, ama bu henüz net değil. 
+
+Bu neden önemli? Bir önceki madde ile alakalı aslında. Sisteme giriş çıkışın bir otoriteye bağlı olması sistemi dış tehditlere karşı daha korunaklı hale getiriyor. Ama öte taraftan da, otoriteye karşı yapılacak her türlü politik baskı için de zayıf bir karın yaratıyor. 
+
+##### Para 
+Keza, Bitcoin kendi değerini kendi yaratan, arkasında herhangi bir varlık, güç olmadan bugünlere gelmiş bir para. Yani altın gibi değer korumak için kullanılma özelliği var. Öte yandan, arkasında bir varlık olmaması nedeniyle değeri arz ve talep ile belirleniyor ve özellikle emekleme aşamasında olduğu ilk 10 yıl içinde ciddi dalgalanmalar gösterdi. 
+
+Libra ise dolar, euro benzeri paralar tarafından 
 
 
 
