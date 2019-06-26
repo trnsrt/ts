@@ -12,6 +12,9 @@ Kanun koyucular: Özellikle veri kullanımı konusunda Cambridge Analytica skand
 Maliyetler: Para transferleri için Visa, Mastercard'a ödenen ücretler
 Yeni fırsatlar: 
 
+
+Libra özünde "para merkez bankaları tarafında basılır" görüşünün anti-tezi olma yolunda. Tamam - tabii ki arkasında dolar, euro gibi bir varlık var (ki bu şekilde çalışan Hong Kong gibi ülkeler de bulunmakta). Ancak sonuç olarak baktığınızda özel şirketlerin kurduğu bir yapı merkez bankalarından bağımsız olarak alışveriş aracı olacak bir para çıkarıyor. Bu bile başlı başına hükümetlerin gücüne tehdit olabilecek bir devrim (eğer başarılı olursa). 
+
 #### Kripto para piyasası için ne olacak?
 Facebook'un piyasaya girmesi kripto paralar için en azından üzerine yapıştırılan negatif yaftalar (kara para aklaması ya da uyuşturucu ticaretinde kullanılıyor gibi) nedeniyle insanlarda oluşan önyargıların azalmasına yol açacak. Bir tarafta hiç bilinmez garip garip (!) adamların kullandığı ne idüğü belirsiz paralar, bir tarafta koskoca Facebook!
 
@@ -41,7 +44,12 @@ Keza, Bitcoin kendi değerini kendi yaratan, arkasında herhangi bir varlık, g�
 Libra ise dolar, euro benzeri paraları arkasında alan bir yapı. Yani kendi başına bir değeri olmayacak. Bir sepet kullanacağı için nispeten dalgalanmadan az etkilenecek. Bu  da bir kesim insan için cazip olabilir - özellikle parası çok dalgalanan ya da değer kaybeden ülkelerin vatandaşları için varlıklarının değerini korumada bir alternatif sağlayabilir. 
 
 ### En önemlisi bizim için ne önemi var?
-Libra bizim için önemli kısmı şu: 
+
+Libra'nın belki direkt bu yazıyı okuyan kitle için değil ama bankacılık sistemine dahil olmayan geniş bir kesim için fayda sağlayacağını düşünmek yanlış olmaz. 
+
+Öte yandan, bireyler için kendi merkez bankalarının bastığı paralara alternatif getirmesi, onların mali özgürlüğü açısından önemli. Tabii ki şu anda da bireyler kendi paraları yerine dolar, euro benzeri paraları tutabilirler ancak paraları alma satma ya da başkasına transfer etme konusunda verilen komisyonlar ciddi tutarlar.
+
+
 
 
 
