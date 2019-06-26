@@ -10,7 +10,6 @@ Facebook neden bir kripto para çıkarıyor? Soruyu şöyle sormak daha doğru s
 
 Kanun koyucular: Özellikle veri kullanımı konusunda Cambridge Analytica skandalı sonrası Facebook'un tepesine binmiş durumdalar. Blockchain bazlı bir sistem kurup, iine 
 Maliyetler: Para transferleri için Visa, Mastercard'a ödenen ücretler
-
 Yeni fırsatlar: 
 
 #### Kripto para piyasası için ne olacak?
@@ -44,6 +43,8 @@ Libra ise dolar, euro benzeri paraları arkasında alan bir yapı. Yani kendi ba
 
 
 ### En önemlisi bizim için ne önemi var?
+
+
 
 
 ### Bundan sonra ne olacak?
