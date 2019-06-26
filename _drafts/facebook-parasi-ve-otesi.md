@@ -39,7 +39,7 @@ Bu neden önemli? Bir önceki madde ile alakalı aslında. Sisteme giriş çık�
 ##### Para 
 Keza, Bitcoin kendi değerini kendi yaratan, arkasında herhangi bir varlık, güç olmadan bugünlere gelmiş bir para. Yani altın gibi değer korumak için kullanılma özelliği var. Öte yandan, arkasında bir varlık olmaması nedeniyle değeri arz ve talep ile belirleniyor ve özellikle emekleme aşamasında olduğu ilk 10 yıl içinde ciddi dalgalanmalar gösterdi. 
 
-Libra ise dolar, euro benzeri paralar tarafından 
+Libra ise dolar, euro benzeri paraları arkasında alan bir yapı. Yani kendi başına bir değeri olmayacak. Bir sepet kullanacağı için nispeten dalgalanmadan az etkilenecek. Bu  da bir kesim insan için cazip olabilir - özellikle parası çok dalgalanan ya da değer kaybeden ülkelerin vatandaşları için varlıklarının değerini korumada bir alternatif sağlayabilir. 
 
 
 
