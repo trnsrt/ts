@@ -40,10 +40,8 @@ Keza, Bitcoin kendi değerini kendi yaratan, arkasında herhangi bir varlık, g�
 
 Libra ise dolar, euro benzeri paraları arkasında alan bir yapı. Yani kendi başına bir değeri olmayacak. Bir sepet kullanacağı için nispeten dalgalanmadan az etkilenecek. Bu  da bir kesim insan için cazip olabilir - özellikle parası çok dalgalanan ya da değer kaybeden ülkelerin vatandaşları için varlıklarının değerini korumada bir alternatif sağlayabilir. 
 
-
-
 ### En önemlisi bizim için ne önemi var?
-
+Libra bizim için önemli kısmı şu: 
 
 
 
