@@ -35,7 +35,7 @@ Libra, izne bağlı/kapalı (permissioned) bir Blockchain olarak kuruluyor - ile
 
 Bu neden önemli? Bir önceki madde ile alakalı aslında. Sisteme giriş çıkışın bir otoriteye bağlı olması sistemi dış tehditlere karşı daha korunaklı hale getiriyor. Ama öte taraftan da, otoriteye karşı yapılacak her türlü politik baskı için de zayıf bir karın yaratıyor. 
 
-##### Para 
+##### Paranın değeri (ya da sıkça sorulan malum soru: "Libra'ya alayım mı"?
 Keza, Bitcoin kendi değerini kendi yaratan, arkasında herhangi bir varlık, güç olmadan bugünlere gelmiş bir para. Yani altın gibi değer korumak için kullanılma özelliği var. Öte yandan, arkasında bir varlık olmaması nedeniyle değeri arz ve talep ile belirleniyor ve özellikle emekleme aşamasında olduğu ilk 10 yıl içinde ciddi dalgalanmalar gösterdi. 
 
 Libra ise dolar, euro benzeri paraları arkasında alan bir yapı. Yani kendi başına bir değeri olmayacak. Bir sepet kullanacağı için nispeten dalgalanmadan az etkilenecek. Bu  da bir kesim insan için cazip olabilir - özellikle parası çok dalgalanan ya da değer kaybeden ülkelerin vatandaşları için varlıklarının değerini korumada bir alternatif sağlayabilir. 
