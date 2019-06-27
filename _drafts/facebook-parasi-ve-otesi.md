@@ -43,15 +43,28 @@ Bitcoin kendi değerini kendi yaratan, arkasında herhangi bir varlık, güç ol
 
 Libra ise dolar, euro benzeri paraları arkasında alan bir yapı. Yani kendi başına bir değeri olmayacak. Bir sepet kullanacağı için nispeten dalgalanmadan az etkilenecek. Bu  da bir kesim insan için cazip olabilir - özellikle parası çok dalgalanan ya da değer kaybeden ülkelerin vatandaşları için varlıklarının değerini korumada bir alternatif sağlayabilir. 
 
+### Ethereum?
+Ethereum daha önce de [bahsettiğimiz](/genel/2018/06/14/dunyanin-en-buyuk-bilgisayari-ethereumun-hikayesi.html) gibi [Akıllı kontratlar](/genel/2018/06/29/bu-kontratlar-cok-akilli-ethereum-ve-akilli-kontratlar.html) vasıtasıyla üzerine pek çok farklı girişimleri geliştirilmiş bir platform. Facebook'un kurduğu Libra Blockchain'i bu anlamda Ethereum'a bir rakip gibi görülebilir. Zira Libra yalnızca para transferinde kullanılacak bir para olmanın çok ötesinde üzerine yazılacak yazılımlar ile kullanıcıların finans ile ilgili her tür ihtiyacına çözüm getirmeyi amaçlayan bir platform. Facebook bu amaçla geliştiriciler için Libra sistemi üzerinde uygulama yaratmada kullanılacak bir dil de yayınladı.
+
+Facebook'un geçmişte platformunu kullanan şirketler (oyun şirketleri, reklam ajansları, dijital analitik firmaları) attığı kazıklar düşünüldüğünde yazılımcılar bu suya atlamak konusunda tereddüt edebilirler. Onlar için en büyük cazibe merkezi ise Facebook'un 2.3 milyar aktif kullanıcısı. 
+
+### Diğer kripto paralar?
+Libra'nın ilk aşama para transferi işlemi yapacağını öngörürsek, bu alanda etkileyeceği ilk paralardan birinin XRP olduğunu söylemek yanlış olmaz. Zaten bu nedenle Libra açıklamasının yapıldığı gün XRP'nin sahibi Ripple'in para transfer kuruluşu Moneygram'a 50 milyon ABD Dolarına ulaşacak miktarda bir yatırım yapacağı haberi piyasalara [düştü](https://www.coindesk.com/ripple-could-invest-up-to-50-million-in-moneygram-in-xrp-boosting-deal). 
+
+
+### Bundan sonra ne olacak?
+
+
+
+
+
 ### En önemlisi bizim için ne önemi var?
 
 Libra'nın belki direkt bu yazıyı okuyan kitle için değil ama bankacılık sistemine dahil olmayan geniş bir kesim için fayda sağlayacağını düşünmek yanlış olmaz. 
 
 Öte yandan, bireyler için kendi merkez bankalarının bastığı paralara alternatif getirmesi, onların mali özgürlüğü açısından önemli. Öte yandan parası yeterince değerli olmayan ya da izlediği mali politikalar nedeniyle paraları değer kaybına uğrama ihtimali olan, kısaca yatırımcıya güven vermeyen merkez bankaları karşılarında bir rakip daha bulacaklar. Tabii ki şu anda da bireyler kendi paraları yerine dolar, euro benzeri paraları tutabilirler ancak paraları alma satma ya da başkasına transfer etme konusunda verilen komisyonlar ciddi tutarlar.
 
-
-### Bundan sonra ne olacak?
-
+### Facebook ve dijital dünyadaki özgürlüklerimiz
 Bireysel özgürlükler konusunda Libra belli özgürlükler getirse de aslında belli konularda kaygı yaratmıyor değil. Facebook özünde Google ile birlikte dünyanın en büyük iki reklam ajansından biri. Ve kurduğu benzersiz iş modelinin temeli kullanıcı bilgilerini toplama ve bu bilgiler odağında kullanıcıya nokta atış reklam yapmaya dayanıyor. Ancak Facebook halka açık bir şirket ve Wall Street ondan sürekli olarak kârını artırmasını istiyor. Facebook'un elindeki en büyük varlık ne? 2.3 milyar [kullanıcı](https://zephoria.com/top-15-valuable-facebook-statistics/). Bunlardan bir yere kadar reklam geliri elde edebilir. Daha fazlasını vermesi lazım kârâ susamış fonlara, yoksa hisse senedi tepetaklak gider. 
 
 Fotoğraflarınız, beğendiğiniz makaleler, sevdiklerinin doğum günlerini kutlamak gibi özel hayatınızla ile sizi sizden iyi tanıyan Facebook, şimdi Libra ile sizin harcamalarınızı da görmek ve ona etki etmek istiyor. 
