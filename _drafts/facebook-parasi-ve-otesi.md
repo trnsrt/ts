@@ -33,7 +33,7 @@ Libra ise bir konsorsiyum tarafından sürülüyor, her ne kadar lideri Facebook
 
 Bitcoin'de sisteme giriş çıkış (kullanıcılar, yatırımcılar, madenciler) herkes için serbest.
 
-Libra, izne bağlı/kapalı (permissioned) bir Blockchain olarak kuruluyor - ileride açık (permissionless) bir sisteme girmek gibi bir hedefleri var, ama bu henüz net değil. 
+Libra, izne bağlı/kapalı (permissioned) bir Blockchain olarak kuruluyor - ileride beş yıl içinde açık (permissionless) bir sisteme girmek gibi bir [hedefleri var](https://twitter.com/jerrybrito/status/1140909195925041152/photo/1), ama bu henüz net değil. 
 
 Bu neden önemli? Bir önceki madde ile alakalı aslında. Sisteme giriş çıkışın bir otoriteye bağlı olması sistemi dış tehditlere karşı daha korunaklı hale getiriyor. Ama öte taraftan da, otoriteye karşı yapılacak her türlü politik baskı için de zayıf bir karın yaratıyor. 
 
@@ -60,7 +60,7 @@ Facebook aslında Çin'in dijital anlamdaki en büyük devi olan WeChat'ın yolu
 
 Ama bir yandan da şu anki mevcut modelinin bile zayıf yanları ve bu Cambridge Analytica skandalı ile iyice açığa çıktı. İnsanlar artık dijital dünyada kendilerine ait bilgilerin yavaş yavaş önemini kavramaya başladılar. Facebook da buna eğilime karşı kendi gardını almaya başladı. Mark Zuckerberg "gelecek mahremiyette" [temalı gelecek vizyonlarını paylaştı](https://m.facebook.com/notes/mark-zuckerberg/a-privacy-focused-vision-for-social-networking/10156700570096634/)
 
-Dolayısıyla Facebook geçmişte yaşanan tepkileri de dikkate alarak bu yeni girişimde daha temkinli yaklaşıyor. Yanına pek çok ortak alıyor, bağımsız bir vakıf kurduğunu söylüyor. Bilgilerin mahrem tutulacağını belirtiyor. Yeterli mi? Bence hayır. Şu an yapmaya istediği suyu bulandırmaya çalışmaktan başka bir şey değil. Zira para olarak bilgileri tutmayacak ama parayı harcadığınız yere bilgilerinizi verecek. Dolayısıyla bir şekilde artık harcama bilgileriniz de Facebook'un eline geçecek. 
+Dolayısıyla Facebook geçmişte yaşanan tepkileri de dikkate alarak bu yeni girişimde daha temkinli yaklaşıyor. Yanına pek çok ortak alıyor, bağımsız bir vakıf kurduğunu söylüyor. Bilgilerin mahrem tutulacağını belirtiyor. Yeterli mi? Bence hayır. Şu an yapmaya istediği suyu bulandırmaya çalışmaktan başka bir şey değil. Zira para olarak bilgileri tutmayacak ama parayı harcadığınız yere bilgilerinizi verecek. Dolayısıyla bir şekilde artık harcama bilgileriniz de Facebook'un eline geçecek. Öte yandan vakıf kurup ortakların arkasına sığınarak tekel olarak suçlanma ile başlayan pek çok politik baskıyı azaltmayı planlıyor. 
 
 Toplumun büyük kesimi bu konuda hassas olmayabilir. Ancak bu tip bir genel izlemenin en uç noktası olan Çin aslında işin nerelere gidebileceği konusunda bize ipuçları veriyor. Sosyal medya aktifliğinize göre size bir skor veren ve düşük skorlu olanlara pasaport vermemek gibi yaptırımlar uygulayan baskıcı bir sistem Çin'in yaptığı. Geçtiğimiz ay Hong Kong'da yapılan protestolara giden gençlerin kendilerine ait metro kartlarını kullanmayıp, tek kullanımlık kart almaları bir başka örnek. Protestolara katıldıklarının kullandıkları kartlardan ortaya çıkabileceğinden korkuyorlar. Yaşadıkları acı tecrübeler yüzlerce insanı bu yöne itmiş durumda. 
 
