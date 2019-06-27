@@ -12,7 +12,6 @@ Kanun koyucular: Özellikle veri kullanımı konusunda Cambridge Analytica skand
 Maliyetler: Para transferleri için Visa, Mastercard'a ödenen ücretler
 Yeni fırsatlar: 
 
-
 Libra özünde "para merkez bankaları tarafında basılır" görüşünün anti-tezi olma yolunda. Tamam - tabii ki arkasında dolar, euro gibi bir varlık var (ki bu şekilde çalışan Hong Kong gibi ülkeler de bulunmakta). Ancak sonuç olarak baktığınızda özel şirketlerin kurduğu bir yapı merkez bankalarından bağımsız olarak alışveriş aracı olacak bir para çıkarıyor. Bu bile başlı başına hükümetlerin gücüne tehdit olabilecek bir devrim (eğer başarılı olursa). 
 
 #### Kripto para piyasası için ne olacak?
