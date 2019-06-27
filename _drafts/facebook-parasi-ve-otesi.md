@@ -56,13 +56,15 @@ Bireysel özgürlükler konusunda Libra belli özgürlükler getirse de aslında
 
 Fotoğraflarınız, beğendiğiniz makaleler, sevdiklerinin doğum günlerini kutlamak gibi özel hayatınızla ile sizi sizden iyi tanıyan Facebook, şimdi Libra ile sizin harcamalarınızı da görmek ve ona etki etmek istiyor. 
 
+Facebook aslında Çin'in dijital anlamdaki en büyük devi olan WeChat'ın yolunu izliyor. Kendi halinde masum bir chat programı olarak başlayan WeChat, hükümetin de desteği ile şu anda her tür finansal işlemi dijital olarak gerçekleştirebildiğiniz dev bir platforma dönüşmüş durumda. 
+
 Ama bir yandan da şu anki mevcut modelinin bile zayıf yanları ve bu Cambridge Analytica skandalı ile iyice açığa çıktı. İnsanlar artık dijital dünyada kendilerine ait bilgilerin yavaş yavaş önemini kavramaya başladılar. Facebook da buna eğilime karşı kendi gardını almaya başladı. Mark Zuckerberg "gelecek mahremiyette" [temalı gelecek vizyonlarını paylaştı](https://m.facebook.com/notes/mark-zuckerberg/a-privacy-focused-vision-for-social-networking/10156700570096634/)
 
 Dolayısıyla Facebook geçmişte yaşanan tepkileri de dikkate alarak bu yeni girişimde daha temkinli yaklaşıyor. Yanına pek çok ortak alıyor, bağımsız bir vakıf kurduğunu söylüyor. Bilgilerin mahrem tutulacağını belirtiyor. Yeterli mi? Bence hayır. Şu an yapmaya istediği suyu bulandırmaya çalışmaktan başka bir şey değil. Zira para olarak bilgileri tutmayacak ama parayı harcadığınız yere bilgilerinizi verecek. Dolayısıyla bir şekilde artık harcama bilgileriniz de Facebook'un eline geçecek. 
 
 Toplumun büyük kesimi bu konuda hassas olmayabilir. Ancak bu tip bir genel izlemenin en uç noktası olan Çin aslında işin nerelere gidebileceği konusunda bize ipuçları veriyor. Sosyal medya aktifliğinize göre size bir skor veren ve düşük skorlu olanlara pasaport vermemek gibi yaptırımlar uygulayan baskıcı bir sistem Çin'in yaptığı. Geçtiğimiz ay Hong Kong'da yapılan protestolara giden gençlerin kendilerine ait metro kartlarını kullanmayıp, tek kullanımlık kart almaları bir başka örnek. Protestolara katıldıklarının kullandıkları kartlardan ortaya çıkabileceğinden korkuyorlar. Yaşadıkları acı tecrübeler yüzlerce insanı bu yöne itmiş durumda. 
 
-Facebook aslında Çin'in dijital anlamdaki en büyük devi olan WeChat'ın yolunu izliyor. Kendi halinde masum bir chat programı olarak başlayan WeChat, hükümetin de desteği ile şu anda her tür finansal işlemi dijital olarak gerçekleştirebildiğiniz dev bir platforma dönüşmüş durumda. 
+2020'de başlayacak projenin detayları henüz belli değil. Ancak Facebook'un geçmiş sicili bizi Libra konusuna temkinli yaklaşmaya itiyor. 
 
 #### Yaşanacak ikilem
 
