@@ -1,21 +1,19 @@
 Artık sağır sultan duydu herhalde: Facebook, kripto para piyasasına Libra ile şaşaalı bir giriş yaptı. Tüm kripto alemine hayırlı olsun!. 
 
-Bir paragrafta özetleyelim: Facebook, yaklaşık xxx kuruluş ile birlikte merkezi Cenevre'de olan bir vakıf kuruyor. Bu vakif 2020 yılında Libra adında bir Blockchain kurarak aynı adlı bir kripto para çıkaracak. Bu para, aslında arkasından %100 dolar ve benzeri paralardan oluşan bir sepet ile desteklenen bir SabitPara (stable coin). Kişiden kişiye para transferi dışında, Facebook (ya da isteyen diğer kuruluşlar, örneğin Über) sistemi içindeki pek çok hizmet alımının karşılığında ödeme olarak kullanılacak. Biz bireyler elimizdeki TL, dolar vs parayı Libra'ya çevirip sistem içinde kullanabileceğiz. Bunu yaparken elekronik cüzdanlar kullanacağız normal olarak. Facebook ise Calibra adıyla bu cüzdanlardan ilk örneği de görücüye çıkardı. 
+Bir paragrafta özetleyelim: Facebook, [onlarca kuruluş](https://libra.org/en-US/partners/) ile birlik olarak merkezi Cenevre'de olan bir vakıf kuruyor. Bu vakif 2020 yılında Libra adında bir Blockchain kurarak aynı adlı bir kripto para çıkaracak. Bu para, aslında %100 dolar ve benzeri paralardan oluşan bir sepet ile desteklenen bir SabitPara (stable coin). Kişiden kişiye para transferi dışında, Facebook sistemi içindeki pek çok hizmet alımının karşılığında ödeme olarak kullanılacak (ortaklar örneğin Uber için de geçerli bu). Biz bireyler elimizdeki TL, dolar vs parayı Libra'ya çevirip sistem içinde kullanabileceğiz. Bunu yaparken normal olarak elekronik cüzdanlar kullanacağız. Calibra, bu cüzdanlardan Facebook tarafından çıkarılan örnek. 
 
 ### Facebook'un kripto piyasasına girmesi neden önemli?
 Facebook bir dev. Bu devin piyasaya girmesi hem kendisi hem de piyasa oyuncuları için önemli. Gelin bakalım her iki tarafın bakış açısından: 
 
 #### Facebook için neden önemli?
-Facebook neden bir kripto para çıkarıyor? Soruyu şöyle sormak daha doğru sanki: Facebook neden onlarca farklı kurumu içine alarak geniş bir yapı kuruyor? Çünkü, Facebook bir dev olarak sıkışmaya başladı. Bir çok taraftan. 
+Facebook neden bir kripto para çıkarıyor? Soruyu şöyle sormak daha doğru sanki: Facebook neden onlarca farklı kurumu içine alarak geniş bir yapı kuruyor? 
 
-Kanun koyucular: Özellikle veri kullanımı konusunda Cambridge Analytica skandalı sonrası Facebook'un tepesine binmiş durumdalar. Blockchain bazlı bir sistem kurup, iine 
-Maliyetler: Para transferleri için Visa, Mastercard'a ödenen ücretler
-Yeni fırsatlar: 
+Zira Facebook, şu an kendisini aktif olarak kullanan 2.3 milyar kullanıcısından mevcut durumda yeterince fayda sağlayamadığını düşünüyor. Onları sadece sosyal ilişkilerinden değil ekonomik ilişkilerinden de kendi bağlamak ve tabir-i caiz ise "sağmak" istiyor. Bu konuya az sonra daha detaylı değineceğiz.  
 
-Libra özünde "para merkez bankaları tarafında basılır" görüşünün anti-tezi olma yolunda. Tamam - tabii ki arkasında dolar, euro gibi bir varlık var (ki bu şekilde çalışan Hong Kong gibi ülkeler de bulunmakta). Ancak sonuç olarak baktığınızda özel şirketlerin kurduğu bir yapı merkez bankalarından bağımsız olarak alışveriş aracı olacak bir para çıkarıyor. Bu bile başlı başına hükümetlerin gücüne tehdit olabilecek bir devrim (eğer başarılı olursa). 
+Teknik olarak baktığımızda, Libra özünde "para merkez bankaları tarafında basılır" görüşünün anti-tezi olma yolunda. Tamam - tabii ki arkasında dolar, euro gibi bir varlık var (ki bu şekilde çalışan Hong Kong gibi ülkeler de bulunmakta). Bu nedenle başlı başına "para" özelliği taşıyor mu, tartışılır. Ancak sonuç olarak baktığınızda özel şirketlerin kurduğu bir yapı merkez bankalarından bağımsız olarak alışverişte kullanılacak bir "araç" çıkarıyor. Bu bile başlı başına hükümetlerin tekellerinde tuttukları güce tehdit yaratabilecek bir devrim (eğer başarılı olursa). 
 
 #### Kripto para piyasası için ne olacak?
-Facebook'un piyasaya girmesi kripto paralar için en azından üzerine yapıştırılan negatif yaftalar (kara para aklaması ya da uyuşturucu ticaretinde kullanılıyor gibi) nedeniyle insanlarda oluşan önyargıların azalmasına yol açacak. Bir tarafta hiç bilinmez garip garip (!) adamların kullandığı ne idüğü belirsiz paralar, bir tarafta koskoca Facebook!
+Facebook'un piyasaya girmesinin hem kısa hem de orta ve uzun vadede kripto para piyasaların olumlu etkisi olacağını söylemek hiç de zor değil. Kısa vadede açıklamanın yapıldığı günden sonraki 10 gün içinde Bitcoin'in yaklaşık %50 oranında yükselmesinden de bu anlaşıyor. Zira kripto paralar için en azından üzerine yapıştırılan negatif yaftalar (kara para aklaması ya da uyuşturucu ticaretinde kullanılıyor gibi) nedeniyle insanlarda oluşan önyargıların azalmasına yol açacak. 
 
 ### Facebook gerçekte kimin rakibi?
 Facebook yeni çıkardığı sistem ile gerçekte kimin rakibi oluyor? Gelin Blockchain dünyasının oyuncularına bakalım ve karar verelim:
