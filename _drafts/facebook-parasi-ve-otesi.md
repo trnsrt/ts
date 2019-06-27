@@ -1,3 +1,5 @@
+# Yazı I 
+
 Artık sağır sultan duydu herhalde: Facebook, kripto para piyasasına Libra ile şaşaalı bir giriş yaptı. Tüm kripto alemine hayırlı olsun!. 
 
 Bir paragrafta özetleyelim: Facebook, [onlarca kuruluş](https://libra.org/en-US/partners/) ile birlik olarak merkezi Cenevre'de olan bir vakıf kuruyor. Bu vakif 2020 yılında Libra adında bir Blockchain kurarak aynı adlı bir kripto para çıkaracak. Bu para, aslında %100 dolar ve benzeri paralardan oluşan bir sepet ile desteklenen bir SabitPara (stable coin). Kişiden kişiye para transferi dışında, Facebook sistemi içindeki pek çok hizmet alımının karşılığında ödeme olarak kullanılacak (ortaklar örneğin Uber için de geçerli bu). Biz bireyler elimizdeki TL, dolar vs parayı Libra'ya çevirip sistem içinde kullanabileceğiz. Bunu yaparken normal olarak elekronik cüzdanlar kullanacağız. Calibra, bu cüzdanlardan Facebook tarafından çıkarılan örnek. 
@@ -25,7 +27,7 @@ Facebook yeni çıkardığı sistem ile gerçekte kimin rakibi oluyor? Gelin Blo
 
 Bitcoin, tamamen dağıtık, merkezi ya da lideri olmayan bir yapı. Dolayısıyla sansür edilmesi çok ama çok zor (imkansız da diyebilirsiniz ama büyük konuşmamak lazım). 
 
-Libra ise bir konsorsiyum tarafından sürülüyor, her ne kadar lideri Facebook olsa da. Bütün konsorsiyum üyeleri, merkezi yapılar. Libra da benzer şekilde Cenevre merkezi bir yapı. Sansür edilmek ağır bir kelime olsa da, gerek kanunlar gerekse başka politik nedenler ile baskı görmeye hazır. Avrupa Birliği "zaten dakika bir gol bir" [başladı baskıya], keza ABD'de de [kaşlar havaya kalktı]. 
+Libra ise bir konsorsiyum tarafından sürülüyor, her ne kadar lideri Facebook olsa da. Bütün konsorsiyum üyeleri, merkezi yapılar. Libra da benzer şekilde Cenevre merkezi bir yapı. Sansür edilmek ağır bir kelime olsa da, gerek kanunlar gerekse başka politik nedenler ile baskı görmeye hazır. Avrupa Birliği "zaten dakika bir gol bir" [başladı baskıya](https://www.bloomberg.com/news/articles/2019-06-18/france-calls-for-central-bank-review-of-facebook-cryptocurrency), keza ABD'de de [kaşlar havaya kalktı](https://www.coindesk.com/rep-maxine-waters-says-us-cant-let-facebooks-libra-compete-with-the-dollar). 
 
 ##### Dağıtık yapı
 
@@ -49,18 +51,16 @@ Facebook'un geçmişte platformunu kullanan şirketler (oyun şirketleri, reklam
 ### Diğer kripto paralar?
 Libra'nın ilk aşama para transferi işlemi yapacağını öngörürsek, bu alanda etkileyeceği ilk paralardan birinin XRP olduğunu söylemek yanlış olmaz. Zaten bu nedenle Libra açıklamasının yapıldığı gün XRP'nin sahibi Ripple'in para transfer kuruluşu Moneygram'a 50 milyon ABD Dolarına ulaşacak miktarda bir yatırım yapacağı haberi piyasalara [düştü](https://www.coindesk.com/ripple-could-invest-up-to-50-million-in-moneygram-in-xrp-boosting-deal). 
 
-
-### Bundan sonra ne olacak?
-
-
-
-
-
 ### En önemlisi bizim için ne önemi var?
-
 Libra'nın belki direkt bu yazıyı okuyan kitle için değil ama bankacılık sistemine dahil olmayan geniş bir kesim için fayda sağlayacağını düşünmek yanlış olmaz. 
 
-Öte yandan, bireyler için kendi merkez bankalarının bastığı paralara alternatif getirmesi, onların mali özgürlüğü açısından önemli. Öte yandan parası yeterince değerli olmayan ya da izlediği mali politikalar nedeniyle paraları değer kaybına uğrama ihtimali olan, kısaca yatırımcıya güven vermeyen merkez bankaları karşılarında bir rakip daha bulacaklar. Tabii ki şu anda da bireyler kendi paraları yerine dolar, euro benzeri paraları tutabilirler ancak paraları alma satma ya da başkasına transfer etme konusunda verilen komisyonlar ciddi tutarlar.
+Öte yandan, bireyler için kendi merkez bankalarının bastığı paralara alternatif getirmesi, onların mali özgürlüğü açısından önemli. Öte yandan parası yeterince değerli olmayan ya da izlediği mali politikalar nedeniyle paraları değer kaybına uğrama ihtimali olan, kısaca yatırımcıya güven vermeyen merkez bankaları karşılarında bir rakip daha bulacaklar. 
+
+Tabii ki şu anda da bireyler kendi paraları yerine dolar, euro benzeri paraları tutabilirler ancak paraları alma satma ya da başkasına transfer etme konusunda verilen komisyonlar ciddi tutarlar.
+
+Benzer şekilde internet üzerinden yapılan alışverişlerde belki sizden değil ama satıcılar tarafından kredi kartı şirketlerine ve bankalara verilen komisyonların düşürülmesi, kuşkusuz tüketici lehine maliyet avantajları getirebilir. 
+
+# Yazı II
 
 ### Facebook ve dijital dünyadaki özgürlüklerimiz
 Bireysel özgürlükler konusunda Libra belli özgürlükler getirse de aslında belli konularda kaygı yaratmıyor değil. Facebook özünde Google ile birlikte dünyanın en büyük iki reklam ajansından biri. Ve kurduğu benzersiz iş modelinin temeli kullanıcı bilgilerini toplama ve bu bilgiler odağında kullanıcıya nokta atış reklam yapmaya dayanıyor. Ancak Facebook halka açık bir şirket ve Wall Street ondan sürekli olarak kârını artırmasını istiyor. Facebook'un elindeki en büyük varlık ne? 2.3 milyar [kullanıcı](https://zephoria.com/top-15-valuable-facebook-statistics/). Bunlardan bir yere kadar reklam geliri elde edebilir. Daha fazlasını vermesi lazım kârâ susamış fonlara, yoksa hisse senedi tepetaklak gider. 
