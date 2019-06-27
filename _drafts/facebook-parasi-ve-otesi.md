@@ -55,4 +55,14 @@ Libra'nın belki direkt bu yazıyı okuyan kitle için değil ama bankacılık s
 
 Bireysel özgürlükler konusunda Libra belli özgürlükler getirse de aslında belli konularda kaygı yaratmıyor değil. Facebook özünde Google ile birlikte dünyanın en büyük iki reklam ajansından biri. Ve kurduğu benzersiz iş modelinin temeli kullanıcı bilgilerini toplama ve bu bilgiler odağında kullanıcıya nokta atış reklam yapmaya dayanıyor. Bu modelin zayıf yönleri Cambridge Analytica skandalı ile aslında bir parça açığa çıktı. İnsanlar artık dijital dünyada kendilerine ait bilgilerin yavaş yavaş önemini kavramaya başladılar. Zaten o nedenle Facebook kurucusu Mark Zuckerberg "gelecek mahremiyette" [dedi]
 
-Fotoğraflarınız, beğendiğiniz makaleler, sevdiklerinin doğum günlerini kutlamak gibi özel hayatınızla ile sizi sizden iyi tanıyan Facebook, şimdi Libra ile sizin harcamalarınızı da görmek ve ona etki etmek istiyor. Ama geçmişte yaşanan tepkileri de dikkate alarak şimdi daha temkinli yaklaşıyor. Yanına pekçok ortak alıyor, bağımsız bir vakıf kurduğunu söylüyor. Bilgilerin mahrem tutulacağını belirtiyor. Yeterli mi? Bence hayır. Şu an yapmaya istediği suyu bulandırmaya çalışmaktan başka bir şey değil. 
+Fotoğraflarınız, beğendiğiniz makaleler, sevdiklerinin doğum günlerini kutlamak gibi özel hayatınızla ile sizi sizden iyi tanıyan Facebook, şimdi Libra ile sizin harcamalarınızı da görmek ve ona etki etmek istiyor. Ama geçmişte yaşanan tepkileri de dikkate alarak şimdi daha temkinli yaklaşıyor. Yanına pek çok ortak alıyor, bağımsız bir vakıf kurduğunu söylüyor. Bilgilerin mahrem tutulacağını belirtiyor. Yeterli mi? Bence hayır. Şu an yapmaya istediği suyu bulandırmaya çalışmaktan başka bir şey değil. Zira para olarak bilgileri tutmayacak ama parayı harcadığınız yere bilgilerinizi verecek. Dolayısıyla bir şekilde artık harcama bilgileriniz de Facebook'un eline geçecek. 
+
+Toplumun büyük kesimi bu konuda hassas olmayabilir. Ancak bu tip bir genel izlemenin en uç noktası olan Çin aslında işin ucununun nerelere gidebileceği konusunda bize ipuçları veriyor. Sosyal medya aktifliğinize göre size bir skor veren ve düşük skorlu olanlara pasaport vermemek gibi yaptırımlar uygulayan baskıcı bir sistem Çin'in yaptığı. Geçtiğimiz ay Hong Kong'da yapılan protestolara giden gençlerin kendilerine ait metro kartlarını kullanmayıp, tek kullanımlık kart almaları bir başka örnek. Protestolara katıldıklarının kullandıkları kartlardan ortaya çıkabileceğinden korkuyorlar. Yaşadıkları acı tecrübeler yüzlerce insanı bu yöne itmiş durumda. 
+
+#### Yaşanacak ikilem
+
+Bir tarafta finansal sistem dışında iseniz sisteme dahil olma imkanı, ya da sistem içinde iseniz size ucuz hatta maliyetsiz pratik bir alışveriş aracı kullanma imkanı. Diğer tarafta ise, yaptığınız her tür harcamanın izlendiği, iyi niyetle baktığınızda buna göre size daha özel reklamların sunulduğu, kötü niyetli iseniz alışveriş harcamalarınızdan başlayarak düşünme ve değer verme algılarınızın yönlendirildiği bir dünya. 
+
+Siz hangi tarafta yer alacaksınız? Pratiklik mi yoksa mahremiyet mi?
+
+
