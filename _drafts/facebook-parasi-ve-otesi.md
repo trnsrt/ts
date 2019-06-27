@@ -38,8 +38,9 @@ Libra, izne bağlı/kapalı (permissioned) bir Blockchain olarak kuruluyor - ile
 
 Bu neden önemli? Bir önceki madde ile alakalı aslında. Sisteme giriş çıkışın bir otoriteye bağlı olması sistemi dış tehditlere karşı daha korunaklı hale getiriyor. Ama öte taraftan da, otoriteye karşı yapılacak her türlü politik baskı için de zayıf bir karın yaratıyor. 
 
-##### Paranın değeri (ya da sıkça sorulan malum soru: "Libra'ya alayım mı"?
-Keza, Bitcoin kendi değerini kendi yaratan, arkasında herhangi bir varlık, güç olmadan bugünlere gelmiş bir para. Yani altın gibi değer korumak için kullanılma özelliği var. Öte yandan, arkasında bir varlık olmaması nedeniyle değeri arz ve talep ile belirleniyor ve özellikle emekleme aşamasında olduğu ilk 10 yıl içinde ciddi dalgalanmalar gösterdi. 
+##### Paranın değeri (ya da sıkça sorulan malum soru: "Libra alayım mı"?
+
+Bitcoin kendi değerini kendi yaratan, arkasında herhangi bir varlık, güç olmadan bugünlere gelmiş bir para. Yani altın gibi değer korumak için kullanılma özelliği var. Öte yandan, arkasında bir varlık olmaması nedeniyle değeri arz ve talep ile belirleniyor ve özellikle emekleme aşamasında olduğu ilk 10 yıl içinde ciddi dalgalanmalar gösterdi. 
 
 Libra ise dolar, euro benzeri paraları arkasında alan bir yapı. Yani kendi başına bir değeri olmayacak. Bir sepet kullanacağı için nispeten dalgalanmadan az etkilenecek. Bu  da bir kesim insan için cazip olabilir - özellikle parası çok dalgalanan ya da değer kaybeden ülkelerin vatandaşları için varlıklarının değerini korumada bir alternatif sağlayabilir. 
 
@@ -47,11 +48,11 @@ Libra ise dolar, euro benzeri paraları arkasında alan bir yapı. Yani kendi ba
 
 Libra'nın belki direkt bu yazıyı okuyan kitle için değil ama bankacılık sistemine dahil olmayan geniş bir kesim için fayda sağlayacağını düşünmek yanlış olmaz. 
 
-Öte yandan, bireyler için kendi merkez bankalarının bastığı paralara alternatif getirmesi, onların mali özgürlüğü açısından önemli. Tabii ki şu anda da bireyler kendi paraları yerine dolar, euro benzeri paraları tutabilirler ancak paraları alma satma ya da başkasına transfer etme konusunda verilen komisyonlar ciddi tutarlar.
-
-
-
+Öte yandan, bireyler için kendi merkez bankalarının bastığı paralara alternatif getirmesi, onların mali özgürlüğü açısından önemli. Öte yandan parası yeterince değerli olmayan ya da izlediği mali politikalar nedeniyle paraları değer kaybına uğrama ihtimali olan, kısaca yatırımcıya güven vermeyen merkez bankaları karşılarında bir rakip daha bulacaklar. Tabii ki şu anda da bireyler kendi paraları yerine dolar, euro benzeri paraları tutabilirler ancak paraları alma satma ya da başkasına transfer etme konusunda verilen komisyonlar ciddi tutarlar.
 
 
 ### Bundan sonra ne olacak?
 
+Bireysel özgürlükler konusunda Libra belli özgürlükler getirse de aslında belli konularda kaygı yaratmıyor değil. Facebook özünde Google ile birlikte dünyanın en büyük iki reklam ajansından biri. Ve kurduğu benzersiz iş modelinin temeli kullanıcı bilgilerini toplama ve bu bilgiler odağında kullanıcıya nokta atış reklam yapmaya dayanıyor. Bu modelin zayıf yönleri Cambridge Analytica skandalı ile aslında bir parça açığa çıktı. İnsanlar artık dijital dünyada kendilerine ait bilgilerin yavaş yavaş önemini kavramaya başladılar. Zaten o nedenle Facebook kurucusu Mark Zuckerberg "gelecek mahremiyette" [dedi]
+
+Fotoğraflarınız, beğendiğiniz makaleler, sevdiklerinin doğum günlerini kutlamak gibi özel hayatınızla ile sizi sizden iyi tanıyan Facebook, şimdi Libra ile sizin harcamalarınızı da görmek ve ona etki etmek istiyor. Ama geçmişte yaşanan tepkileri de dikkate alarak şimdi daha temkinli yaklaşıyor. Yanına pekçok ortak alıyor, bağımsız bir vakıf kurduğunu söylüyor. Bilgilerin mahrem tutulacağını belirtiyor. Yeterli mi? Bence hayır. Şu an yapmaya istediği suyu bulandırmaya çalışmaktan başka bir şey değil. 
