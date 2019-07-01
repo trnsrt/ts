@@ -79,7 +79,7 @@ Bireysel özgürlükler konusunda Libra belli özgürlükler getirse de aslında
 
 Fotoğraflarınız, beğendiğiniz makaleler, sevdiklerinin doğum günlerini kutlamak gibi özel hayatınızla ile sizi sizden iyi tanıyan Facebook, şimdi Libra ile sizin harcamalarınızı da görmek ve ona etki etmek istiyor. 
 
-Facebook aslında Çin'in dijital anlamdaki en büyük devi olan WeChat'ın yolunu izliyor. Kendi halinde masum bir chat programı olarak başlayan WeChat, hükümetin de desteği ile şu anda her tür finansal işlemi dijital olarak gerçekleştirebildiğiniz dev bir platforma dönüşmüş durumda. 
+Facebook aslında Çin'in dijital anlamdaki en büyük devi olan WeChat'ın yolunu izliyor. Kendi halinde masum bir chat programı olarak başlayan WeChat, hükümetin de desteği ile şu anda her tür finansal işlemi dijital olarak gerçekleştirebildiğiniz dev bir platforma dönüşmüş durumda. Para transferleri için de benzer şekilde geçtiğimiz yıllarda satın aldığı Whatsapp'ı kullanacak. 
 
 Ama bir yandan da şu anki mevcut modelinin bile zayıf yanları ve bu Cambridge Analytica skandalı ile iyice açığa çıktı. İnsanlar artık dijital dünyada kendilerine ait bilgilerin yavaş yavaş önemini kavramaya başladılar. Facebook da buna eğilime karşı kendi gardını almaya başladı. Mark Zuckerberg "gelecek mahremiyette" [temalı gelecek vizyonlarını paylaştı](https://m.facebook.com/notes/mark-zuckerberg/a-privacy-focused-vision-for-social-networking/10156700570096634/)
 
