@@ -65,7 +65,7 @@ Elbette bu bireyler şu anda da kendi ülke paraları yerine dolar, euro benzeri
 
 Benzer şekilde internet üzerinden yapılan alışverişlerde belki sizden değil ama satıcılar tarafından kredi kartı şirketlerine ve bankalara verilen komisyonların düşürülmesi, kuşkusuz tüketici lehine maliyet avantajları getirebilir. 
 
-#### Arkası yarın: Facebook için neden önemli?
+### Arkası yarın: Facebook için neden önemli?
 Facebook, şu an kendisini aktif olarak kullanan 2.3 milyar kullanıcısından mevcut durumda yeterince fayda sağlayamadığını düşünüyor. Onları sadece sosyal ilişkilerinden değil ekonomik ilişkilerinden de kendi bağlamak ve tabir-i caiz ise "sağmak" istiyor. Facebook deyince aslında Facebook, Whatsapp ve Instagram üçlüsünü bir arada düşünmek gerek. Bu konuya bir sonraki yazımızda daha detaylı gireceğiz. 
 
 
