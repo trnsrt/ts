@@ -54,21 +54,25 @@ Facebook'un geçmişte platformunu kullanan şirketler (oyun şirketleri, reklam
 ### Diğer kripto paralar?
 Libra'nın ilk aşamada para transferi işlemi yapacağını öngörürsek, bu alanda etkileyeceği ilk paralardan birinin XRP olduğunu söylemek yanlış olmaz. Zaten bu nedenle Libra açıklamasının yapıldığı gün XRP'nin sahibi Ripple'in para transfer kuruluşu Moneygram'a 50 milyon ABD Dolarına ulaşacak miktarda bir yatırım yapacağı haberi piyasalara [düştü](https://www.coindesk.com/ripple-could-invest-up-to-50-million-in-moneygram-in-xrp-boosting-deal). 
 
+Bunun yanında Sabit Para olarak piyasada kendine yer bulmaya çalışan Tether benzeri paralarında da Facebook gibi daha geniş kullanıcılı, destekçileri daha güçlü bir rakip karşısında kullanıcı tabanlarını genişletmek anlamında işlerinin çok zor olacağını söyleyebiliriz. 
+
 ### Biz son kullanıcılar için ne önemi var?
-Libra'nın belki direkt bu yazıyı okuyan kitle için değil ama bankacılık sistemine dahil olmayan [1.7 milyar insan](https://globalfindex.worldbank.org/) için fayda sağlayacağını düşünmek yanlış olmaz. 
+Libra'nın en önemli etkisinin, belki bu yazıyı okuyan kitle için değil ama bankacılık sistemine dahil olmayan [1.7 milyar insan](https://globalfindex.worldbank.org/) için olacağını söylemek sanırım yanlış olmaz. Bu kadar geniş bir kitlenin birbirleri ile Facebook (ya da Whatsapp) üzerinden ekonomik ilişkiye girebilmeleri çok kritik. 
 
-Libra'nın merkez bankalarının bastığı paralara bir alternatif getirmesi, bireylerin mali özgürlüğü açısından önemli. Parası yeterince değerli olmayan ya da izlediği mali politikalar nedeniyle paraları değer kaybına uğrama ihtimali olan merkez bankaları vatandaşları gözünde artık karşılarında bir rakip daha bulacaklar. 
+Yalnızca bu değil tabii. Libra'nın merkez bankalarının bastığı paralara bir alternatif getirmesi, bankacılık sistemine dahil bireylerin mali özgürlüğü açısından da önemli. Parası yeterince değerli olmayan ya da izlediği mali politikalar nedeniyle paraları değer kaybına uğrama ihtimali olan merkez bankaları artık karşılarında Libra gibi bir rakip daha bulacaklar. 
 
-Tabii ki şu anda da bireyler kendi ülke paraları yerine dolar, euro benzeri varlıkları tutabilirler ancak bu varlıkları alıp satma ya da başkasına transfer etme sırasında ciddi komisyonlar vermek zorundalar. Dijital dünyada aracısız işlem veren Libra benzeri dijital paralar bu maliyetleri neredeyse sıfıra indiriyorlar. 
+Elbette bu bireyler şu anda da kendi ülke paraları yerine dolar, euro benzeri varlıkları tutabilirler ancak bu varlıkları alıp satma ya da başkasına transfer etme sırasında ciddi komisyonlar vermek zorundalar. Dijital dünyada aracısız işlem veren Libra benzeri dijital paralar bu maliyetleri neredeyse sıfıra indiriyor. 
 
 Benzer şekilde internet üzerinden yapılan alışverişlerde belki sizden değil ama satıcılar tarafından kredi kartı şirketlerine ve bankalara verilen komisyonların düşürülmesi, kuşkusuz tüketici lehine maliyet avantajları getirebilir. 
 
 #### Arkası yarın: Facebook için neden önemli?
-Facebook neden bir kripto para çıkarıyor? Soruyu biraz daha açsak iyi olacak sanki: Facebook neden onlarca farklı kurumu içine alacak geniş bir yapı kurarak bir kripto para çıkarıyor? 
-
 Facebook, şu an kendisini aktif olarak kullanan 2.3 milyar kullanıcısından mevcut durumda yeterince fayda sağlayamadığını düşünüyor. Onları sadece sosyal ilişkilerinden değil ekonomik ilişkilerinden de kendi bağlamak ve tabir-i caiz ise "sağmak" istiyor. Facebook deyince aslında Facebook, Whatsapp ve Instagram üçlüsünü bir arada düşünmek gerek. Bu konuya bir sonraki yazımızda daha detaylı gireceğiz. 
 
+
+
 # Yazı II
+
+Facebook neden bir kripto para çıkarıyor? Soruyu biraz daha açsak iyi olacak sanki: Facebook neden onlarca farklı kurumu içine alacak geniş bir yapı kurarak bir kripto para çıkarıyor? 
 
 ### Facebook ve dijital dünyadaki özgürlüklerimiz
 Bireysel özgürlükler konusunda Libra belli özgürlükler getirse de aslında belli konularda kaygı yaratmıyor değil. Facebook özünde Google ile birlikte dünyanın en büyük iki reklam ajansından biri. Ve kurduğu benzersiz iş modelinin temeli kullanıcı bilgilerini toplama ve bu bilgiler odağında kullanıcıya nokta atış reklam yapmaya dayanıyor. Ancak Facebook halka açık bir şirket ve Wall Street ondan sürekli olarak kârını artırmasını istiyor. Facebook'un elindeki en büyük varlık ne? 2.3 milyar [kullanıcı](https://zephoria.com/top-15-valuable-facebook-statistics/). Bunlardan bir yere kadar reklam geliri elde edebilir. Daha fazlasını vermesi lazım kârâ susamış fonlara, yoksa hisse senedi tepetaklak gider. 
