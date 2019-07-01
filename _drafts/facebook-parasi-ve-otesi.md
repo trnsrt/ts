@@ -44,14 +44,14 @@ Bitcoin kendi değerini kendi yaratan, arkasında herhangi bir varlık ya da gü
 
 Libra ise dolar, euro benzeri paraları arkasına alan bir yapı. Yani kendi başına bir değeri olmayacak. Bir sepet kullanacağı için nispeten dalgalanmadan az etkilenecek. Bu  da bir kesim insan için cazip olabilir - özellikle parası çok dalgalanan ya da değer kaybeden ülkelerin vatandaşları için varlıklarının değerini korumada bir alternatif sağlayabilir. 
 
-### Ethereum?
+#### Ethereum?
 Ethereum daha önce de [bahsettiğimiz](/genel/2018/06/14/dunyanin-en-buyuk-bilgisayari-ethereumun-hikayesi.html) gibi [Akıllı kontratlar](/genel/2018/06/29/bu-kontratlar-cok-akilli-ethereum-ve-akilli-kontratlar.html) vasıtasıyla üzerine pek çok farklı uygulama geliştirilmiş bir platform. 
 
 Facebook'un kurduğu Libra Blockchain'i bu anlamda Ethereum'a bir rakip gibi görülebilir. Zira Libra yalnızca para transferinde kullanılacak bir para olmanın çok ötesinde üzerine yazılacak yazılımlar ile kullanıcıların finans ile ilgili her tür ihtiyacına çözüm getirmeyi amaçlayan bir platform. Facebook bu amaçla geliştiriciler için Libra sistemi üzerinde uygulama yaratmada kullanılacak bir dil de [yayınladı](https://developers.libra.org/).
 
 Facebook'un geçmişte platformunu kullanan şirketler (oyun şirketleri, reklam ajansları, dijital analitik firmaları) [attığı kazıklar](https://andrewchen.co/why-developers-are-leaving-the-facebook-platform/) düşünüldüğünde yazılımcılar bu suya atlamak konusunda tereddüt edebilirler. Tabii karşı argüman olarak, yazılımcılar için Libra altyapısının en büyük cazibe merkezi ise Facebook'un 2.3 milyar aktif kullanıcısı. 
 
-### Diğer kripto paralar?
+#### Diğer kripto paralar?
 Libra'nın ilk aşamada para transferi işlemi yapacağını öngörürsek, bu alanda etkileyeceği ilk paralardan birinin XRP olduğunu söylemek yanlış olmaz. Zaten bu nedenle Libra açıklamasının yapıldığı gün XRP'nin sahibi Ripple'in para transfer kuruluşu Moneygram'a 50 milyon ABD Dolarına ulaşacak miktarda bir yatırım yapacağı haberi piyasalara [düştü](https://www.coindesk.com/ripple-could-invest-up-to-50-million-in-moneygram-in-xrp-boosting-deal). 
 
 Bunun yanında Sabit Para olarak piyasada kendine yer bulmaya çalışan Tether benzeri paralarında da Facebook gibi daha geniş kullanıcılı, destekçileri daha güçlü bir rakip karşısında kullanıcı tabanlarını genişletmek anlamında işlerinin çok zor olacağını söyleyebiliriz. 
