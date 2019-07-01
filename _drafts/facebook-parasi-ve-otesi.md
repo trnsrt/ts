@@ -6,7 +6,7 @@ Bir paragrafta özetleyelim: Facebook, [27 diğer kurum](https://libra.org/en-US
 
 | ![libra_pixabay.png](/assets/libra_pixabay.png) | 
 |:--:| 
-| *Libra, Eski Romalı ağırlık ölçüsü biriminden esinlenmiş (Kaynak: [Pixabay](https://pixabay.com/images/id-1299238/))* | 
+| *Libra, Eski Romalı ağırlık ölçüsü biriminden esinlenme (Kaynak: [Pixabay](https://pixabay.com/images/id-1299238/))* | 
 
 ### Facebook'un kripto piyasasına girmesi neden önemli?
 
