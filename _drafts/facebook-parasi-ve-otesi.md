@@ -4,6 +4,10 @@ Artık sağır sultan duydu herhalde: Facebook, kripto para piyasasına Libra il
 
 Bir paragrafta özetleyelim: Facebook, [27 diğer kurum](https://libra.org/en-US/partners/) ile birlik olarak merkezi Cenevre'de bulunan [bir vakıf kuruyor](https://libra.org/en-US/association/). Bu vakif 2020 yılında Libra adında bir Blockchain kurarak aynı adlı bir kripto para çıkaracak. Bu para, aslında %100 dolar ve benzeri paralardan oluşan bir sepet ile desteklenen bir [SabitPara](/genel/2018/07/20/Orasi-cok-dalgali-sakin-sulara-gel-sabitparalar.html) (stable coin). Kişiden kişiye para transferi dışında, Facebook sistemi içindeki pek çok hizmet alımının karşılığında ödeme olarak kullanılacak (ortaklar örneğin Uber için de geçerli bu). Biz bireyler elimizdeki TL, dolar vs parayı Libra'ya çevirip sistem içinde kullanabileceğiz. Bunu yaparken normal olarak elekronik cüzdanlar kullanacağız. [Calibra](https://calibra.com/), bu cüzdanların [Facebook tarafından]((https://newsroom.fb.com/news/2019/06/coming-in-2020-calibra/)) çıkarılan ilk örneği. 
 
+| ![libra_pixabay.png](/assets/libra_pixabay.png) | 
+|:--:| 
+| *Libra, Eski Romalı ağırlık ölçüsü biriminden esinlenmiş (Kaynak: [Pixabay](https://pixabay.com/images/id-1299238/))* | 
+
 ### Facebook'un kripto piyasasına girmesi neden önemli?
 
 İşin felsefesine baktığımızda, Libra özünde "para merkez bankaları tarafında basılır" görüşünün anti-tezi bir enstrüman. Tamam, tabii ki değer olarak arkasında dolar, euro gibi bir varlık var (ki bu şekilde çalışan Hong Kong gibi ülkeler de bulunmakta). Bu nedenle başlı başına "para" özelliği taşıyor mu, tartışılır. Ancak sonuç olarak baktığınızda merkez bankalarından tamamen bağımsız özel kurumların kurduğu bir yapı alışverişte para yerine geçecek bir araç çıkarıyor. Bu bile tek başına hükümetlerin kendi tekellerinde tuttukları ekonomik güce tehdit yaratabilecek bir devrim (eğer başarılı olursa). 
@@ -24,7 +28,7 @@ Facebook yeni çıkardığı sistem ile gerçekte kimin rakibi oluyor? Gelin Blo
 
 Bitcoin, tamamen dağıtık, merkezi ya da lideri olmayan bir yapı. Dolayısıyla sansür edilmesi çok ama çok zor (imkansız da diyebilirsiniz ama büyük konuşmamak lazım). 
 
-Libra ise bir konsorsiyum tarafından sürülüyor, her ne kadar lideri Facebook olsa da. Bütün konsorsiyum üyeleri, merkezi yapılar. Libra da benzer şekilde Cenevre merkezi bir yapı. Sansür edilmek ağır bir kelime olsa da, gerek kanunlar gerekse başka politik nedenler ile baskı görmeye hazır. Avrupa Birliği "zaten dakika bir gol bir" [başladı baskıya](https://www.bloomberg.com/news/articles/2019-06-18/france-calls-for-central-bank-review-of-facebook-cryptocurrency), keza ABD'de de [kaşlar havaya kalktı](https://www.coindesk.com/rep-maxine-waters-says-us-cant-let-facebooks-libra-compete-with-the-dollar). 
+Libra ise bir konsorsiyum tarafından sürülüyor, her ne kadar lideri 2020 yılına kadar Facebook olsa da. Bütün konsorsiyum üyeleri, merkezi yapılar. Libra da benzer şekilde Cenevre merkezi bir yapı. Sansür edilmek ağır bir kelime olsa da, gerek kanunlar gerekse başka politik nedenler ile baskı görmeye hazır. Avrupa Birliği "zaten dakika bir gol bir" [başladı baskıya](https://www.bloomberg.com/news/articles/2019-06-18/france-calls-for-central-bank-review-of-facebook-cryptocurrency), keza ABD'de de [kaşlar havaya kalktı](https://www.coindesk.com/rep-maxine-waters-says-us-cant-let-facebooks-libra-compete-with-the-dollar). 
 
 ##### Açıklık/kapalılık
 
@@ -51,7 +55,7 @@ Facebook'un geçmişte platformunu kullanan şirketler (oyun şirketleri, reklam
 Libra'nın ilk aşamada para transferi işlemi yapacağını öngörürsek, bu alanda etkileyeceği ilk paralardan birinin XRP olduğunu söylemek yanlış olmaz. Zaten bu nedenle Libra açıklamasının yapıldığı gün XRP'nin sahibi Ripple'in para transfer kuruluşu Moneygram'a 50 milyon ABD Dolarına ulaşacak miktarda bir yatırım yapacağı haberi piyasalara [düştü](https://www.coindesk.com/ripple-could-invest-up-to-50-million-in-moneygram-in-xrp-boosting-deal). 
 
 ### Biz son kullanıcılar için ne önemi var?
-Libra'nın belki direkt bu yazıyı okuyan kitle için değil ama bankacılık sistemine dahil olmayan geniş bir kesim için fayda sağlayacağını düşünmek yanlış olmaz. 
+Libra'nın belki direkt bu yazıyı okuyan kitle için değil ama bankacılık sistemine dahil olmayan [1.7 milyar insan](https://globalfindex.worldbank.org/) için fayda sağlayacağını düşünmek yanlış olmaz. 
 
 Libra'nın merkez bankalarının bastığı paralara bir alternatif getirmesi, bireylerin mali özgürlüğü açısından önemli. Parası yeterince değerli olmayan ya da izlediği mali politikalar nedeniyle paraları değer kaybına uğrama ihtimali olan merkez bankaları vatandaşları gözünde artık karşılarında bir rakip daha bulacaklar. 
 
