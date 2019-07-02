@@ -56,7 +56,7 @@ Facebook'un geçmişte platformunu kullanan şirketler (oyun şirketleri, reklam
 #### Diğer kripto paralar?
 Libra'nın ilk aşamada para transferi işlemi yapacağını öngörürsek, bu alanda etkileyeceği ilk paralardan birinin XRP olduğunu söylemek yanlış olmaz. Zaten bu nedenle Libra açıklamasının yapıldığı gün XRP'nin sahibi Ripple'in para transfer kuruluşu Moneygram'a 50 milyon ABD Dolarına ulaşacak miktarda bir yatırım yapacağı haberi piyasalara [düştü](https://www.coindesk.com/ripple-could-invest-up-to-50-million-in-moneygram-in-xrp-boosting-deal). 
 
-Bunun yanında Sabit Para olarak piyasada kendine yer bulmaya çalışan Tether benzeri paralarında da Facebook gibi daha geniş kullanıcılı, destekçileri daha güçlü bir rakip karşısında kullanıcı tabanlarını genişletmek anlamında işlerinin çok zor olacağını söyleyebiliriz. 
+Bunun yanında SabitPara (stable coin) olarak piyasada kendine yer bulmaya çalışan [Tether](https://tether.to/) benzeri paralar en büyük tehlike altında olanlar. Facebook gibi daha geniş kullanıcılı, destekçileri daha güçlü bir rakip karşısında bu yeni yetme SabitPara'ların kullanıcı tabanlarını genişletmek anlamında işlerinin çok zor olacağını söyleyebiliriz. 
 
 ### Biz son kullanıcılar için ne önemi var?
 Libra'nın en önemli etkisinin, belki bu yazıyı okuyan kitle için değil ama bankacılık sistemine dahil olmayan [1.7 milyar insan](https://globalfindex.worldbank.org/) için olacağını söylemek sanırım yanlış olmaz. Bu kadar geniş bir kitlenin birbirleri ile Facebook (ya da Whatsapp) üzerinden ekonomik ilişkiye girebilmeleri çok kritik. 
@@ -66,6 +66,18 @@ Yalnızca bu değil tabii. Libra'nın merkez bankalarının bastığı paralara 
 Elbette bu bireyler şu anda da kendi ülke paraları yerine dolar, euro benzeri varlıkları tutabilirler ancak bu varlıkları alıp satma ya da başkasına transfer etme sırasında ciddi komisyonlar vermek zorundalar. Dijital dünyada aracısız işlem veren Libra benzeri dijital paralar bu maliyetleri neredeyse sıfıra indiriyor. 
 
 Benzer şekilde internet üzerinden yapılan alışverişlerde belki sizden değil ama satıcılar tarafından kredi kartı şirketlerine ve bankalara verilen komisyonların düşürülmesi, kuşkusuz tüketici lehine maliyet avantajları getirebilir. 
+
+### Kripto dünyası dışındaki aktörler
+
+Facebook'un bu hamlesinin yanlızca kripto dünyasını etkilemiyor. Aslına bakarsanız, asıl tedirgin olması gerekenler mevcut düzenin koruyucuları olan finansal kurumlar. Kim bunlar? Bankalar, kredi kartı şirketleri, para transferi işi ile uğraşan şirketler ve merkez bankaları. 
+
+#### Bankalar: 
+İlk aşamada Libra bankalara bir sorun teşkil etmiyor. Peki ya gelecekte? 
+
+Sisteme göre Libra kullanabilmek için elinizdeki dolar, euro, TL klasik paraları Calibra dijital cüzdanınıza Libra'ya çevireceksiniz. Sizin gönderdiğiniz paralar rezerv olarak tutulacak ve riski düşük enstrümanlarda değerlendirilecek. Şu an için böyle. Sisteme giren milyonlarca insandan toplanan bu paralar böyle kuzu kuzu yatacak mı?  Sanmıyorum. Bir noktada bu paraları daha iyi değerlendirmek isteyecekler. Yalnızca Facebook değil, diğer konsorsiyum üyeleri de. O zaman ne yapılabilir bu paralar ile? Neden Libra kullananlara kredi vermeyelim? 
+
+Bankalar bireylere verdikleri kredilerde, kişinin mali yeterliliklerini göz önüne alarak bir skorlama yaparlar. Ellerinde bilgi yeterli olmadığında kişiyi kredilendirmeden çekinirler. Peki, elinizde Facebook gibi kişi ile ilgili her tür bilgi var ise. Üstelilk şu anda sosyal olarak kişi ile ilgili her tür bilgi var, bundan sonra ekonomik aktivitelerine (Libra sayesinde) hakim olduğunuzu düşünün. Klasik bir bankaya göre kat be kat iyi tanıyorsunuz kişiyi. Riski düşük olan ama bankanın mali varlık açısından yeterli bulmadığı birine kredi vermez misiniz? Vermezseniz, ekonomi teorisyenleri sizi sopayla kovalarlar :)
+
 
 ### Arkası yarın: Facebook için neden önemli?
 Facebook, şu an kendisini aktif olarak kullanan 2.3 milyar kullanıcısından mevcut durumda yeterince fayda sağlayamadığını düşünüyor. Onları sadece sosyal ilişkilerinden değil ekonomik ilişkilerinden de kendi bağlamak ve tabir-i caiz ise "sağmak" istiyor. Facebook deyince aslında Facebook, Whatsapp ve Instagram üçlüsünü bir arada düşünmek gerek. Bu konuya bir sonraki yazımızda daha detaylı gireceğiz. 
