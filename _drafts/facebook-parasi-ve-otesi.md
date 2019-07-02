@@ -8,6 +8,8 @@ Bir paragrafta özetleyelim: Facebook, [27 diğer kurum](https://libra.org/en-US
 |:--:| 
 | *Libra, Eski Romalı ağırlık ölçüsü biriminden esinlenme (Kaynak: [Pixabay](https://pixabay.com/images/id-1299238/))* | 
 
+Tanıtım Dokümanı'nın İngilizcesine [buradan](https://libra.org/en-US/white-paper/) Türkçesine ise [Ebru Güven](https://medium.com/@tasebru)'in çevirisi ile [şuradan](https://t.co/SUMobWOpcg) ulaşabilirsiniz. 
+
 ### Facebook'un kripto piyasasına girmesi neden önemli?
 
 İşin felsefesine baktığımızda, Libra özünde "para merkez bankaları tarafında basılır" görüşünün anti-tezi bir enstrüman. Tamam, tabii ki değer olarak arkasında dolar, euro gibi bir varlık var (ki bu şekilde çalışan Hong Kong gibi ülkeler de bulunmakta). Bu nedenle başlı başına "para" özelliği taşıyor mu, tartışılır. Ancak sonuç olarak baktığınızda merkez bankalarından tamamen bağımsız özel kurumların kurduğu bir yapı alışverişte para yerine geçecek bir araç çıkarıyor. Bu bile tek başına hükümetlerin kendi tekellerinde tuttukları ekonomik güce tehdit yaratabilecek bir devrim (eğer başarılı olursa). 
