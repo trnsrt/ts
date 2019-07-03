@@ -36,14 +36,13 @@ Toplumun büyük kesimi bilgilerini paylaşmak konusunda hassas olmayabilir. Anc
 
 Facebook'un iş modeli daha önce de belirttiğimiz gibi kullanıcıların kişisel bilgilerini kullanmak üzerine kurulu. Benzer iş modeli üzerine kurulan Google da aynı şekilde artan kullanıcı tepkisini göğüslemek durumunda. Öte yandan Apple ya da Microsoft kullanıcı datası üzerine iş modeli inşaa etmedikleri için çok rahatlar. Apple CEO'su Tim Cook çıkıp göğsünü gere gere ürün ve hizmetlerinin [kişisel bilgilerinizi güvenli ve mahrem tutmak üzerine dizayn edildiğini söylüyor](https://www.theverge.com/2019/3/26/18282158/apple-services-privacy-credit-card-tv-data-sharing). Bu hamleler bir yandan da Facebook'u daha köşeye sıkıştırmaya yönelik doğal olarak. 
 
-#### Bütün bunlara karşı Facebook'un hamleleri neler?
+#### Bütün bunlara karşı Facebook ne hamleler planlıyor?
 
 Dolayısıyla Facebook geçmişte yaşanan tepkileri de dikkate alarak bu yeni girişimde daha temkinli yaklaşıyor. Yanına pek çok ortak alıyor, bağımsız bir vakıf kurduğunu söylüyor. Bilgilerin mahrem tutulacağını belirtiyor. Yeterli mi? Bence hayır. 
 
 Şu an yapmaya istediği suyu bulandırmaya çalışmaktan başka bir şey değil. Zira para olarak bilgileri tutmayacak ama parayı harcadığınız yere bilgilerinizi verecek. Dolayısıyla bir şekilde artık harcama bilgileriniz de Facebook'un eline geçecek. Öte yandan vakıf kurup ortakların arkasına sığınarak tekel olarak suçlanma ile başlayan pek çok politik baskıyı azaltmayı planlıyor. 
 
 Sonuç olarak 2020'de hayata geçecek Libra projesinin detayları henüz belli değil. Ancak Facebook'un geçmiş sicili bizi Libra konusuna temkinli yaklaşmaya itiyor. 
-
 
 ### Facebook'un kripto piyasasına girmesi neden önemli?
 
