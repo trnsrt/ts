@@ -122,9 +122,12 @@ Sisteme göre Libra kullanabilmek için elinizdeki dolar, euro, TL klasik parala
 
 Bankalar bireylere verdikleri kredilerde, kişinin mali yeterliliklerini göz önüne alarak bir skorlama yaparlar. Ellerinde bilgi yeterli olmadığında kişiyi kredilendirmeden çekinirler. Peki, elinizde Facebook gibi kişi ile ilgili her tür bilgi var ise. Üstelilk şu anda sosyal olarak kişi ile ilgili her tür bilgi var, bundan sonra ekonomik aktivitelerine (Libra sayesinde) hakim olduğunuzu düşünün. Klasik bir bankaya göre kat be kat iyi tanıyorsunuz kişiyi. Riski düşük olan ama bankanın mali varlık açısından yeterli bulmadığı birine kredi vermez misiniz? Vermezseniz, ekonomi teorisyenleri sizi sopayla kovalarlar :)
 
-### Merkez Bankaları
+#### Merkez Bankaları
 
 Yukarıdaki Libra ile Bitcoin karşılaştırmasında yazdığımız gibi, Libra ABD doları ve Euro gibi paraları arkasına alan bir para olarak, mali olarak güçlük çeken Merkez Bankaları'nın çıkardığı ülke paralarına ciddi bir rakip olma potansiyeline sahip. Ekonomik politikalarınızı iyi düzenleyin, doğru uygulayın, yatırımcılar ve halk nezdinde güveninizi tam tutun aksi takdirde kullancılar telefonlarındaki bir applikasyon kadar kendilerine yakın olan [bu paraya gönüllerini kaptırabilirler](https://www.brookings.edu/opinions/why-policymakers-should-fear-libra/?utm_campaign=Brookings%20Brief&utm_source=hs_email&utm_medium=email&utm_content=74242100). 
+
+
+------
 
 ### Arkası yarın: Facebook için neden önemli?
 Facebook, şu an kendisini aktif olarak kullanan 2.3 milyar kullanıcısından mevcut durumda yeterince fayda sağlayamadığını düşünüyor. Onları sadece sosyal ilişkilerinden değil ekonomik ilişkilerinden de kendi bağlamak ve tabir-i caiz ise "sağmak" istiyor. Facebook deyince aslında Facebook, Whatsapp ve Instagram üçlüsünü bir arada düşünmek gerek. Bu konuya bir sonraki yazımızda daha detaylı gireceğiz. 
