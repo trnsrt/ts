@@ -97,7 +97,7 @@ Bitcoin kendi değerini kendi yaratan, arkasında herhangi bir varlık ya da gü
 Libra ise dolar, euro benzeri paraları arkasına alan bir yapı. Yani kendi başına bir değeri olmayacak. Bir sepet kullanacağı için nispeten dalgalanmadan az etkilenecek. Bu  da bir kesim insan için cazip olabilir - özellikle parası çok dalgalanan ya da değer kaybeden ülkelerin vatandaşları için varlıklarının değerini korumada bir alternatif sağlayabilir. 
 
 #### Ethereum?
-Ethereum daha önce de [bahsettiğimiz](/genel/2018/06/14/dunyanin-en-buyuk-bilgisayari-ethereumun-hikayesi.html) gibi [Akıllı kontratlar](/genel/2018/06/29/bu-kontratlar-cok-akilli-ethereum-ve-akilli-kontratlar.html) vasıtasıyla üzerine pek çok farklı uygulama geliştirilmiş bir platform. 
+Ethereum daha önce de [bahsettiğimiz](/genel/2018/06/14/dunyanin-en-buyuk-bilgisayari-ethereumun-hikayesi.html) gibi [Akıllı Kontratlar](/genel/2018/06/29/bu-kontratlar-cok-akilli-ethereum-ve-akilli-kontratlar.html) vasıtasıyla üzerine pek çok farklı uygulama geliştirilmiş bir platform. 
 
 Facebook'un kurduğu Libra Blockchain'i bu anlamda Ethereum'a bir rakip gibi görülebilir. Zira Libra yalnızca para transferinde kullanılacak bir para olmanın çok ötesinde üzerine yazılacak yazılımlar ile kullanıcıların finans ile ilgili her tür ihtiyacına çözüm getirmeyi amaçlayan bir platform. Facebook bu amaçla geliştiriciler için Libra sistemi üzerinde uygulama yaratmada kullanılacak bir dil de [yayınladı](https://developers.libra.org/).
 
