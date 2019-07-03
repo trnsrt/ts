@@ -124,10 +124,7 @@ Bankalar bireylere verdikleri kredilerde, kişinin mali yeterliliklerini göz ö
 
 ### Merkez Bankaları
 
-Yukarıdaki Libra ile Bitcoin karşılaştırmasında yazdığımız gibi, Libra ABD doları ve Euro gibi paraları arkasına alan bir para olarak, mali olarak güçlük çeken Merkez Bankaları'nın çıkardığı ülke paralarına ciddi bir rakip olma potansiyeline sahip. Ekonomik politikalarınızı iyi düzenleyin, doğru uygulayın, yatırımcılar ve halk nezdinde güveninizi tam tutun aksi takdirde kullancılar telefonlarındaki bir applikasyon kadar kendilerine yakın olan bu parayı 
-
-### Kredi kartı kuruluşları
-
+Yukarıdaki Libra ile Bitcoin karşılaştırmasında yazdığımız gibi, Libra ABD doları ve Euro gibi paraları arkasına alan bir para olarak, mali olarak güçlük çeken Merkez Bankaları'nın çıkardığı ülke paralarına ciddi bir rakip olma potansiyeline sahip. Ekonomik politikalarınızı iyi düzenleyin, doğru uygulayın, yatırımcılar ve halk nezdinde güveninizi tam tutun aksi takdirde kullancılar telefonlarındaki bir applikasyon kadar kendilerine yakın olan bu paraya gönüllerini kaptırabilirler.
 
 ### Arkası yarın: Facebook için neden önemli?
 Facebook, şu an kendisini aktif olarak kullanan 2.3 milyar kullanıcısından mevcut durumda yeterince fayda sağlayamadığını düşünüyor. Onları sadece sosyal ilişkilerinden değil ekonomik ilişkilerinden de kendi bağlamak ve tabir-i caiz ise "sağmak" istiyor. Facebook deyince aslında Facebook, Whatsapp ve Instagram üçlüsünü bir arada düşünmek gerek. Bu konuya bir sonraki yazımızda daha detaylı gireceğiz. 
