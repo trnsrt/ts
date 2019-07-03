@@ -1,6 +1,6 @@
 # Yazı I 
 
-Artık sağır sultan duydu herhalde: Facebook, kripto para piyasasına Libra ile şaşaalı bir giriş yaptı. Tüm kripto alemine hayırlı olsun!. 
+Artık sağır sultan bile duydu herhalde: Facebook, kripto para piyasasına Libra ile şaşaalı bir giriş yaptı. Tüm kripto alemine hayırlı olsun!. 
 
 Bir paragrafta özetleyelim: Facebook, [27 diğer kurum](https://libra.org/en-US/partners/) ile birlik olarak merkezi Cenevre'de bulunan [bir vakıf kuruyor](https://libra.org/en-US/association/). Bu vakif 2020 yılında Libra adında bir Blockchain kurarak aynı adlı bir kripto para çıkaracak. Bu para, aslında %100 dolar ve benzeri paralardan oluşan bir sepet ile desteklenen bir [SabitPara](/genel/2018/07/20/Orasi-cok-dalgali-sakin-sulara-gel-sabitparalar.html) (stable coin). Kişiden kişiye para transferi dışında, Facebook sistemi içindeki pek çok hizmet alımının karşılığında ödeme olarak kullanılacak (ortaklar örneğin Uber için de geçerli bu). Biz bireyler elimizdeki TL, dolar vs parayı Libra'ya çevirip sistem içinde kullanabileceğiz. Bunu yaparken normal olarak elekronik cüzdanlar kullanacağız. [Calibra](https://calibra.com/), bu cüzdanların [Facebook tarafından]((https://newsroom.fb.com/news/2019/06/coming-in-2020-calibra/)) çıkarılan ilk örneği. 
 
@@ -38,7 +38,13 @@ Facebook'un iş modeli daha önce de belirttiğimiz gibi kullanıcıların kişi
 
 #### Bütün bunlara karşı Facebook ne hamleler planlıyor?
 
-Dolayısıyla Facebook geçmişte yaşanan tepkileri de dikkate alarak bu yeni girişimde daha temkinli yaklaşıyor. Yanına pek çok ortak alıyor, bağımsız bir vakıf kurduğunu söylüyor. Bilgilerin mahrem tutulacağını belirtiyor. Yeterli mi? Bence hayır. 
+Dolayısıyla Facebook geçmişte yaşanan tepkileri de dikkate alarak bu yeni girişimde daha temkinli yaklaşıyor. Yanına pek çok ortak alıyor, bağımsız bir vakıf kurduğunu söylüyor. 
+
+| ![Libra-Association-Founding-Partners.png](/assets/Libra-Association-Founding-Partners.png) | 
+|:--:| 
+| *Libra kurucuları: Yok yok, kimi ararsan var (Kaynak: [Libra Association](https://libra.org/en-US/partners/ | 
+
+Bu vakfın Libra'yı yöneteceğini, kendisinin de tüm kurucular gibi vakfın yönetiminde sadece bir oyu olacağını belirtiyor. Bilgilerin mahrem tutulacağını belirtiyor. Yeterli mi? Bence hayır. 
 
 Şu an yapmaya istediği suyu bulandırmaya çalışmaktan başka bir şey değil. Zira para olarak bilgileri tutmayacak ama parayı harcadığınız yere bilgilerinizi verecek. Dolayısıyla bir şekilde artık harcama bilgileriniz de Facebook'un eline geçecek. Öte yandan vakıf kurup ortakların arkasına sığınarak tekel olarak suçlanma ile başlayan pek çok politik baskıyı azaltmayı planlıyor. 
 
