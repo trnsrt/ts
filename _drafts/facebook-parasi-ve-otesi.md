@@ -14,7 +14,7 @@ Tanıtım Dokümanı'nın İngilizcesine [buradan](https://libra.org/en-US/white
 
 Facebook neden bir kripto para çıkarıyor? Soruyu biraz daha açsak iyi olacak sanki: Facebook neden onlarca farklı kurumu içine alacak geniş bir yapı kurarak bir kripto para çıkarıyor? 
 
-#### Facebook'un nereden sıkışıyor?
+#### Facebook'un derdi ne?
 
 Facebook özünde Google ile birlikte dünyanın en büyük iki reklam ajansından biri. Ve kurduğu benzersiz iş modelinin temeli kullanıcı bilgilerini toplama ve bu bilgiler odağında kullanıcıya nokta atış reklam yapmaya dayanıyor. Ancak Facebook halka açık bir şirket ve Wall Street ondan sürekli olarak kârını artırmasını istiyor. Facebook'un elindeki en büyük varlık ne? 2.3 milyar [kullanıcı](https://zephoria.com/top-15-valuable-facebook-statistics/). Bunlardan bir yere kadar reklam geliri elde edebilir. Daha fazlasını vermesi lazım kârâ susamış fonlara, yoksa hisse senedi tepetaklak gider. 
 
