@@ -69,7 +69,7 @@ Facebook bir dev. Bu devin kripto para piyasasına girmesi bu alanın oyuncular�
 ### Kripto para dünyası için ne gibi etkileri olacak?
 Facebook Libra haberlerinin hem kısa hem de orta ve uzun vadede kripto para piyasalarına olumlu etkisi olacağını söylemek hiç de zor değil. 
 
-Kısa vadede açıklamanın yapıldığı günden sonraki 10 gün içinde Bitcoin'in yaklaşık %50 oranında yükselmesinden de bu anlaşıyor. Facebook gibi insanların aşina olduğu bir devin bu alana girmesi, kripto paralar için en azından üzerine yapışan yaftalar (kara para aklaması ya da uyuşturucu ticaretinde kullanılıyor gibi) nedeniyle oluşan toplumda oluşan negatif önyargıların azalmasına yol açtığını şimdiden söyleyebiliriz.   
+Kısa vadede açıklamanın yapıldığı günden sonraki 10 gün içinde Bitcoin'in yaklaşık %50 oranında yükselmesinden de bu anlaşıyor. Facebook gibi insanların aşina olduğu bir devin bu alana girmesi, kripto paralar için en azından üzerine yapışan yaftalar (kara para aklaması ya da uyuşturucu ticaretinde kullanılıyor gibi) nedeniyle toplumda oluşan negatif önyargıların azalmasına yol açtığını şimdiden söyleyebiliriz.   
 
 Facebook yeni çıkardığı sistem ile gerçekte kimin rakibi oluyor? Gelin Blockchain dünyasının oyuncularına bakalım ve karar verelim:
 
