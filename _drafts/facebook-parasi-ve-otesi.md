@@ -2,6 +2,8 @@
 
 Artık sağır sultan bile duydu herhalde: Facebook, kripto para piyasasına Libra ile şaşaalı bir giriş yaptı. Tüm kripto alemine hayırlı olsun!. 
 
+### Özetle nedir olay?
+
 Bir paragrafta özetleyelim: Facebook, [27 diğer kurum](https://libra.org/en-US/partners/) ile birlik olarak merkezi Cenevre'de bulunan [bir vakıf kuruyor](https://libra.org/en-US/association/). Bu vakif 2020 yılında Libra adında bir Blockchain kurarak aynı adlı bir kripto para çıkaracak. Bu para, aslında %100 dolar ve benzeri paralardan oluşan bir sepet ile desteklenen bir [SabitPara](/genel/2018/07/20/Orasi-cok-dalgali-sakin-sulara-gel-sabitparalar.html) (stable coin). Kişiden kişiye para transferi dışında, Facebook sistemi içindeki pek çok hizmet alımının karşılığında ödeme olarak kullanılacak (ortaklar örneğin Uber için de geçerli bu). Biz bireyler elimizdeki TL, dolar vs parayı Libra'ya çevirip sistem içinde kullanabileceğiz. Bunu yaparken normal olarak elekronik cüzdanlar kullanacağız. [Calibra](https://calibra.com/), bu cüzdanların [Facebook tarafından]((https://newsroom.fb.com/news/2019/06/coming-in-2020-calibra/)) çıkarılan ilk örneği. 
 
 | ![libra_pixabay.png](/assets/libra_pixabay.png) | 
