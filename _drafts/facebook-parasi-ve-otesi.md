@@ -50,7 +50,7 @@ Bu vakfın Libra'yı yöneteceğini, kendisinin de tüm kurucular gibi vakfın y
 
 Öte yandan vakıf kurup ortakların arkasına sığınarak tekel olarak suçlanma da dahil kurum ve otoritelerden gelecek politik baskıları azaltmayı planlamakta. 
 
-Sonuç olarak 2020'de hayata geçecek Libra projesinin detayları henüz belli değil. Ancak Facebook'un geçmiş sicili bizi Libra konusuna temkinli yaklaşmaya itiyor. 
+Sonuç olarak 2020 yılının ilk yarısında 100 ortak ile hayata geçmesi planlanan Libra projesinin detayları henüz belli değil. Ancak Facebook'un geçmiş sicili bizi Libra konusuna temkinli yaklaşmaya itiyor. 
 
 ### Facebook'un kripto piyasasına girmesi neden önemli?
 
