@@ -30,7 +30,7 @@ Fotoğraflarınız, beğendiğiniz makaleler, sevdiklerinin doğum günlerini ku
 
 #### Kimi örnek alıyor?
 
-Facebook aslında Çin'in dijital anlamdaki en büyük devi olan WeChat'ın yolunu izliyor. Kendi halinde masum bir chat programı olarak başlayan WeChat, hükümetin de desteği ile şu anda her tür finansal işlemi dijital olarak gerçekleştirebildiğiniz dev bir platforma dönüşmüş durumda. Benzer şekilde Kore'nin en büyük mesajlaşma uygulaması Kakao da 44 milyon kullanıcısı için bir kripto para cüzdanı geliştirerek [kullanıma soktu](https://www.ccn.com/koreas-biggest-messaging-app-kakao-to-integrate-crypto-wallet-for-44-million-users/). Facebook da bu iki kuruluş gibi Whatsapp'ı kullanarak para transferini mesajlaşmanın içine katmayı planlıyor. 
+Facebook aslında Çin'in dijital anlamdaki en büyük devi olan WeChat'ın [yolunu izliyor](https://www.apnews.com/ab55806ba6e54456b4dadadbc795ccc5). Kendi halinde masum bir chat programı olarak başlayan WeChat, hükümetin de desteği ile şu anda her tür finansal işlemi dijital olarak gerçekleştirebildiğiniz dev bir platforma dönüşmüş durumda. Benzer şekilde Kore'nin en büyük mesajlaşma uygulaması Kakao da 44 milyon kullanıcısı için bir kripto para cüzdanı geliştirerek [kullanıma soktu](https://www.ccn.com/koreas-biggest-messaging-app-kakao-to-integrate-crypto-wallet-for-44-million-users/). Facebook da bu iki kuruluş gibi Whatsapp'ı kullanarak para transferini mesajlaşmanın içine katmayı planlıyor. 
 
 #### Hangi alanlarda sıkışıyor?
 
