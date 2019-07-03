@@ -52,22 +52,22 @@ Dolayısıyla Facebook geçmişte yaşanan tepkileri de dikkate alarak bu yeni g
 |:--:| 
 | *Libra kurucuları: Yok yok, kimi ararsan var (Kaynak: [The Block](https://www.theblockcrypto.com/))* | 
 
-Bu vakfın Libra'yı yöneteceğini, kendisinin de tüm kurucular gibi vakfın yönetiminde sadece bir oyu olacağını belirtiyor. Bilgilerin mahrem tutulacağını belirtiyor. Yeterli mi? Bence hayır. 
+Bu vakfın Libra'yı yöneteceğini, kendisinin de tüm kurucular gibi vakfın yönetiminde sadece bir oyu olacağını belirtiyor. Bilgilerin mahrem tutulacağı sözünü veriyor. Yeterli mi? Bence hayır. 
 
-Şu an yapmaya istediği suyu bulandırmaya çalışmaktan başka bir şey değil. Zira para olarak bilgileri tutmayacak ama parayı harcadığınız yere bilgilerinizi verecek. Dolayısıyla bir şekilde artık harcama bilgileriniz de Facebook'un eline geçecek. 
+Şu an yapmaya istediği suyu bulandırmaya çalışmaktan başka bir şey değil. Zira Libra para olarak bilgileri tutmayacak ama parayı harcadığınız yere sizin bilgilerinizi verecek. Dolayısıyla bir şekilde artık harcama bilgileriniz de Facebook'un eline geçecek. 
 
 Öte yandan vakıf kurup ortakların arkasına sığınarak tekel olarak suçlanma da dahil kurum ve otoritelerden gelecek politik baskıları azaltmayı planlamakta. 
 
-Sonuç olarak 2020 yılının ilk yarısında 100 ortak ile hayata geçmesi planlanan Libra projesinin detayları henüz belli değil. Ancak Facebook'un geçmiş sicili bizi Libra konusuna temkinli yaklaşmaya itiyor. 
+2020 yılının ilk yarısında 100 ortak ile hayata geçmesi planlanan Libra projesinin detayları henüz belli değil. Ancak Facebook'un geçmiş sicili bizi Libra konusuna temkinli yaklaşmaya itiyor. 
 
 ### Facebook'un kripto piyasasına girmesi neden önemli?
 
 İşin felsefesine baktığımızda, Libra özünde "para merkez bankaları tarafında basılır" görüşünün anti-tezi bir enstrüman. Tamam, tabii ki değer olarak arkasında dolar, euro gibi bir varlık var (ki bu şekilde çalışan Hong Kong gibi ülkeler de bulunmakta). Bu nedenle başlı başına "para" özelliği taşıyor mu, tartışılır. Ancak sonuç olarak baktığınızda merkez bankalarından tamamen bağımsız özel kurumların kurduğu bir yapı alışverişte para yerine geçecek bir araç çıkarıyor. Bu bile tek başına hükümetlerin kendi tekellerinde tuttukları ekonomik güce tehdit yaratabilecek bir devrim (eğer başarılı olursa). 
 
-Facebook bir dev. Bu devin piyasaya girmesi hem kendisi hem de piyasa oyuncuları için önemli. Gelin bakalım bu iki tarafın bakış açısından işin önemine: 
+Facebook bir dev. Bu devin kripto para piyasasına girmesi bu alanın oyuncuları de için çok önemli. Gelin bakalım bir de bu oyunculara bakalım: 
 
-### Kripto para piyasası için ne olacak?
-Facebook Libra haberlerinn hem kısa hem de orta ve uzun vadede kripto para piyasalarına olumlu etkisi olacağını söylemek hiç de zor değil. 
+### Kripto para dünyası için ne gibi etkileri olacak?
+Facebook Libra haberlerinin hem kısa hem de orta ve uzun vadede kripto para piyasalarına olumlu etkisi olacağını söylemek hiç de zor değil. 
 
 Kısa vadede açıklamanın yapıldığı günden sonraki 10 gün içinde Bitcoin'in yaklaşık %50 oranında yükselmesinden de bu anlaşıyor. Facebook gibi insanların aşina olduğu bir devin bu alana girmesi, kripto paralar için en azından üzerine yapışan yaftalar (kara para aklaması ya da uyuşturucu ticaretinde kullanılıyor gibi) nedeniyle oluşan toplumda oluşan negatif önyargıların azalmasına yol açtığını şimdiden söyleyebiliriz.   
 
