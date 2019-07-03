@@ -126,11 +126,14 @@ Facebook'un bu hamlesinin yanlızca kripto dünyasını etkilemiyor. Aslına bak
 
 Sisteme göre Libra kullanabilmek için elinizdeki dolar, euro, TL klasik paraları Calibra dijital cüzdanınıza Libra'ya çevireceksiniz. Sizin gönderdiğiniz paralar rezerv olarak tutulacak ve riski düşük enstrümanlarda değerlendirilecek. Şu an için böyle. Sisteme giren milyonlarca insandan toplanan bu paralar böyle kuzu kuzu yatacak mı?  Sanmıyorum. Bir noktada bu paraları daha iyi değerlendirmek isteyecekler. Yalnızca Facebook değil, diğer konsorsiyum üyeleri de. O zaman ne yapılabilir bu paralar ile? Neden Libra kullananlara kredi vermeyelim? 
 
-Bankalar bireylere verdikleri kredilerde, kişinin mali yeterliliklerini göz önüne alarak bir skorlama yaparlar. Ellerinde bilgi yeterli olmadığında kişiyi kredilendirmeden çekinirler. Peki, elinizde Facebook gibi kişi ile ilgili her tür bilgi var ise. Üstelilk şu anda sosyal olarak kişi ile ilgili her tür bilgi var, bundan sonra ekonomik aktivitelerine (Libra sayesinde) hakim olduğunuzu düşünün. Klasik bir bankaya göre kat be kat iyi tanıyorsunuz kişiyi. Riski düşük olan ama bankanın mali varlık açısından yeterli bulmadığı birine kredi vermez misiniz? Vermezseniz, ekonomi teorisyenleri sizi sopayla kovalarlar :)
+Bankalar bireylere verdikleri kredilerde, kişinin mali yeterliliklerini göz önüne alarak bir skorlama yaparlar. Ellerinde bilgi yeterli olmadığında kişiyi kredilendirmeden çekinirler. Peki, ya elinizde Facebook gibi bir kişi ile ilgili her tür bilgi var ise? Üstelilk şu anda sosyal olarak o kişi ile ilgili her tür bilgi mevcut, bundan sonra ekonomik aktivitelerine de (Libra sayesinde) hakim olduğunuzu düşünün. Klasik bir bankaya göre kat be kat iyi tanıyorsunuz bu kişiyi. Riski düşük olan ama bankanın mali varlık açısından yeterli bulmadığı birine kredi vermez misiniz? Vermezseniz, hissedarlarınız sizi sopayla kovalarlar :)
 
 #### Merkez Bankaları
 
 Yukarıdaki Libra ile Bitcoin karşılaştırmasında yazdığımız gibi, Libra ABD doları ve Euro gibi paraları arkasına alan bir para olarak, mali olarak güçlük çeken Merkez Bankaları'nın çıkardığı ülke paralarına ciddi bir rakip olma potansiyeline sahip. Ekonomik politikalarınızı iyi düzenleyin, doğru uygulayın, yatırımcılar ve halk nezdinde güveninizi tam tutun aksi takdirde kullancılar telefonlarındaki bir applikasyon kadar kendilerine yakın olan [bu paraya gönüllerini kaptırabilirler](https://www.brookings.edu/opinions/why-policymakers-should-fear-libra/?utm_campaign=Brookings%20Brief&utm_source=hs_email&utm_medium=email&utm_content=74242100). 
+
+### Sonuç
+Libra ile ilgili hâlâ pek çok bilinmez mevcut. Şimdiye kadar bildiklerimizi varsayımlarımız ile birleştirdiğimizde yukarıdaki tablo çıkıyor. Burada en önemli konulardan biri, değişik ülkelerdeki kanun koyucuların Libra'ya nasıl yaklaşacağı, önüne ne gibi engeller çıkaracağı. Keza, kırk birbirine benzemez kurumu Libra Birliği içinde bir araya getirmek güzel ama bu kuruluşların her birinin ayrı bir beklentileri, ayrı korkuları ve istekleri var. Bunları idare etmek de hiç kolay olmayacak. Süreç nasıl işleyecek hep birlikte göreceğiz. 
 
 
 ------
