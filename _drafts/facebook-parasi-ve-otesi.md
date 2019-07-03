@@ -122,6 +122,8 @@ Bankalar bireylere verdikleri kredilerde, kişinin mali yeterliliklerini göz ö
 
 ### Merkez Bankaları
 
+Yukarıdaki Libra ile Bitcoin karşılaştırmasında yazdığımız gibi, Libra ABD doları ve Euro gibi paraları arkasına alan bir para olarak, mali olarak güçlük çeken Merkez Bankaları'nın çıkardığı ülke paralarına ciddi bir rakip olma potansiyeline sahip. Ekonomik politikalarınızı iyi düzenleyin, doğru uygulayın, yatırımcılar ve halk nezdinde güveninizi tam tutun aksi takdirde kullancılar telefonlarındaki bir applikasyon kadar kendilerine yakın olan bu parayı 
+
 ### Kredi kartı kuruluşları
 
 
