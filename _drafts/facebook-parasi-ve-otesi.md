@@ -74,7 +74,7 @@ Kısa vadede açıklamanın yapıldığı günden sonraki 10 gün içinde Bitcoi
 Facebook yeni çıkardığı sistem ile gerçekte kimin rakibi oluyor? Gelin Blockchain dünyasının oyuncularına bakalım ve karar verelim:
 
 #### Bitcoin?
-İlk akla gelen şüpheli. Piyasanın ağır ağbisi şimdi mahalleye yeni taşınan bıçkın gence karşı. Gerçekten öyle mi? Bitcoin ile Libra'nın para transferi için kullanılmak dışında ortak pek bir özelliği yok aslında. Blockchain dünyasının iki ayrı ucundalar: 
+İlk akla gelen şüpheli. Piyasanın ağır ağabeyi şimdi mahalleye yeni taşınan bıçkın gence karşı. Gerçekten öyle mi? Bitcoin ile Libra'nın para transferi için kullanılmak dışında ortak pek bir özelliği yok aslında. Blockchain dünyasının iki ayrı ucundalar: 
 
 ##### Dağıtık/Merkezi yapı
 
