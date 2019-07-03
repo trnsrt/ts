@@ -34,7 +34,7 @@ Facebook aslında Çin'in dijital anlamdaki en büyük devi olan WeChat'ın [yol
 
 #### Hangi alanlarda sıkışıyor?
 
-Ama bir yandan da şu anki mevcut modelinin bile zayıf yanları var ve bu Cambridge Analytica skandalı ile iyice açığa çıktı. İnsanlar artık dijital dünyada kendilerine ait bilgilerin yavaş yavaş önemini kavramaya başladılar. Facebook da bu eğilime karşı kendi gardını almaya başladı. Mark Zuckerberg "gelecek mahremiyette" [temalı ileriye dönük vizyonlarını bizimle paylaştı](https://m.facebook.com/notes/mark-zuckerberg/a-privacy-focused-vision-for-social-networking/10156700570096634/)
+Ama bir yandan da şu anki mevcut modelinin bile birçok zayıf karnı var. Bunlar Cambridge Analytica skandalı [ile iyice açığa çıktı](https://www.theguardian.com/news/series/cambridge-analytica-files). İnsanlar artık dijital dünyada kendilerine ait bilgilerin yavaş yavaş önemini kavramaya başladılar. Facebook da bu eğilime karşı kendi gardını almaya başladı. Mark Zuckerberg "gelecek mahremiyette" [temalı ileriye dönük vizyonlarını bizimle paylaştı](https://m.facebook.com/notes/mark-zuckerberg/a-privacy-focused-vision-for-social-networking/10156700570096634/)
 
 Facebook bir devasa bir yapı, bir dev. Böyle olduğu için de bütün gözler üzerinde. Monopol yapısı dolayısıyla tepkileri üzerine çekiyor. Geçtiğimiz günlerde şirketin ilk kurucularından Chris Hughes, [New York Times'a uzunca bir makale yazarak](https://www.nytimes.com/2019/05/09/opinion/sunday/chris-hughes-facebook-zuckerberg.html) Facebook'un elinde tuttuğu korkunç güç nedeniyle parçalanmasını istedi. 
 
