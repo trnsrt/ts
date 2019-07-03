@@ -126,14 +126,14 @@ Benzer şekilde internet üzerinden yapılan alışverişlerde belki sizden değ
 
 Facebook'un bu hamlesinin sadece kripto dünyasını etkilemiyor. Aslına bakarsanız, asıl tedirgin olması gerekenler mevcut düzenin koruyucuları olan finansal kurumlar. Kim bunlar? Bankalar, kredi kartı şirketleri, para transferi işi ile uğraşan şirketler ve merkez bankaları. 
 
-#### Bankalar: 
+#### Bankalar?
 İlk aşamada Libra bankalara bir sorun teşkil etmiyor. Peki ya gelecekte? 
 
 Sisteme göre Libra kullanabilmek için elinizdeki dolar, euro, TL gibi klasik paraları Libra'ya çevireceksiniz ve Calibra isimli dijital cüzdanda tutacaksınız. Sizin gönderdiğiniz paralar rezerv olarak tutulacak ve riski düşük enstrümanlarda değerlendirilecek. Şu an için böyle. Sisteme giren milyonlarca insandan toplanan bu paralar böyle kuzu kuzu yatacak mı?  Sanmıyorum. Bir noktada bu paraları daha iyi değerlendirmek isteyecekler. Yalnızca Facebook değil, diğer konsorsiyum üyeleri de. O zaman ne yapılabilir bu paralar ile? Neden Libra kullananlara kredi vermeyelim? 
 
 Bankalar bireylere verdikleri kredilerde, kişinin mali yeterliliklerini göz önüne alarak bir skorlama yaparlar. Ellerindekı bilgi yeterli olmadığında kişiyi kredilendirmeden çekinirler. Peki, ya elinizde Facebook'da olduğu gibi kişi ile ilgili her tür bilgi var ise? Üstelik şu anda sosyal olarak o kişi ile ilgili her tür bilgi mevcut, bundan sonra ekonomik aktivitelerine de (Libra sayesinde) hakim olduğunuzu düşünün. Klasik bir bankaya göre kat be kat iyi tanıyorsunuz bu kişiyi. Riski düşük olan ama bankanın mali varlık açısından yeterli bulmadığı birine kredi vermez misiniz? Vermezseniz, hissedarlarınız sizi sopayla kovalarlar :)
 
-#### Merkez Bankaları
+#### Merkez Bankaları?
 
 Yukarıdaki Libra ile Bitcoin karşılaştırmasında yazdığımız gibi, Libra dolar ve euro gibi paraları arkasına alan bir para olarak, mali olarak güçlük çeken Merkez Bankaları'nın çıkardığı ülke paralarına ciddi bir rakip olma potansiyeline sahip. Ekonomik politikalarınızı iyi düzenleyin, doğru uygulayın, yatırımcılar ve halk nezdinde güveninizi yüksek tutun aksi takdirde kullanıcılar telefonlarındaki bir uygulama kadar kendilerine yakın olan [bu paraya gönüllerini kaptırabilirler](https://www.brookings.edu/opinions/why-policymakers-should-fear-libra/?utm_campaign=Brookings%20Brief&utm_source=hs_email&utm_medium=email&utm_content=74242100). 
 
