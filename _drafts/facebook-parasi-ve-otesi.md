@@ -30,18 +30,17 @@ Ama bir yandan da şu anki mevcut modelinin bile zayıf yanları var ve bu Cambr
 
 Facebook bir devasa bir yapı, bir dev. Böyle olduğu için de bütün gözler üzerinde. Monopol yapısı dolayısıyla tepkileri üzerine çekiyor. Geçtiğimiz günlerde şirketin ilk kurucularından Chris Hughes, [New York Times'a uzunca bir makale yazarak](https://www.nytimes.com/2019/05/09/opinion/sunday/chris-hughes-facebook-zuckerberg.html) Facebook'un elinde tuttuğu korkunç güç nedeniyle parçalanmasını istedi. 
 
-
 #### Kullanıcıların öne plana çıkmaya başlayan hassasiyetleri neler?
 
 Toplumun büyük kesimi bilgilerini paylaşmak konusunda hassas olmayabilir. Ancak bu tip bir genel izlemenin en uç noktası olan Çin aslında işin nerelere gidebileceği konusunda bize ipuçları veriyor. Sosyal medya aktifliğinize göre size bir skor veren ve düşük skorlu olanlara pasaport vermemek gibi yaptırımlar uygulayan baskıcı bir sistem [Çin'in planladığı](https://www.businessinsider.com/china-social-credit-system-punishments-and-rewards-explained-2018-4#3-banning-you-or-your-kids-from-the-best-schools-3). Geçtiğimiz ay Hong Kong'da yapılan protestolara giden gençlerin kendilerine ait metro kartlarını kullanmayıp, tek kullanımlık kart almaları [bir başka örnek](https://qz.com/1642441/extradition-law-why-hong-kong-protesters-didnt-use-own-metro-cards/). Protestolara katıldıklarının kullandıkları kartlardan ortaya çıkabileceğinden korkuyorlar. Yaşadıkları acı tecrübeler yüzlerce insanı böyle bir önlem almaya itmiş durumda. 
 
 Facebook'un iş modeli daha önce de belirttiğimiz gibi kullanıcıların kişisel bilgilerini kullanmak üzerine kurulu. Benzer iş modeli üzerine kurulan Google da aynı şekilde artan kullanıcı tepkisini göğüslemek durumunda. Öte yandan Apple ya da Microsoft kullanıcı datası üzerine iş modeli inşaa etmedikleri için çok rahatlar. Apple CEO'su Tim Cook çıkıp göğsünü gere gere ürün ve hizmetlerinin [kişisel bilgilerinizi güvenli ve mahrem tutmak üzerine dizayn edildiğini söylüyor](https://www.theverge.com/2019/3/26/18282158/apple-services-privacy-credit-card-tv-data-sharing). Bu hamleler bir yandan da Facebook'u daha köşeye sıkıştırmaya yönelik doğal olarak. 
 
+#### Bütün bunlara karşı Facebook'un hamleleri neler?
+
 Dolayısıyla Facebook geçmişte yaşanan tepkileri de dikkate alarak bu yeni girişimde daha temkinli yaklaşıyor. Yanına pek çok ortak alıyor, bağımsız bir vakıf kurduğunu söylüyor. Bilgilerin mahrem tutulacağını belirtiyor. Yeterli mi? Bence hayır. 
 
 Şu an yapmaya istediği suyu bulandırmaya çalışmaktan başka bir şey değil. Zira para olarak bilgileri tutmayacak ama parayı harcadığınız yere bilgilerinizi verecek. Dolayısıyla bir şekilde artık harcama bilgileriniz de Facebook'un eline geçecek. Öte yandan vakıf kurup ortakların arkasına sığınarak tekel olarak suçlanma ile başlayan pek çok politik baskıyı azaltmayı planlıyor. 
-
-
 
 Sonuç olarak 2020'de hayata geçecek Libra projesinin detayları henüz belli değil. Ancak Facebook'un geçmiş sicili bizi Libra konusuna temkinli yaklaşmaya itiyor. 
 
