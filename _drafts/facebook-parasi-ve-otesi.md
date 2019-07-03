@@ -46,7 +46,9 @@ Dolayısıyla Facebook geçmişte yaşanan tepkileri de dikkate alarak bu yeni g
 
 Bu vakfın Libra'yı yöneteceğini, kendisinin de tüm kurucular gibi vakfın yönetiminde sadece bir oyu olacağını belirtiyor. Bilgilerin mahrem tutulacağını belirtiyor. Yeterli mi? Bence hayır. 
 
-Şu an yapmaya istediği suyu bulandırmaya çalışmaktan başka bir şey değil. Zira para olarak bilgileri tutmayacak ama parayı harcadığınız yere bilgilerinizi verecek. Dolayısıyla bir şekilde artık harcama bilgileriniz de Facebook'un eline geçecek. Öte yandan vakıf kurup ortakların arkasına sığınarak tekel olarak suçlanma ile başlayan pek çok politik baskıyı azaltmayı planlıyor. 
+Şu an yapmaya istediği suyu bulandırmaya çalışmaktan başka bir şey değil. Zira para olarak bilgileri tutmayacak ama parayı harcadığınız yere bilgilerinizi verecek. Dolayısıyla bir şekilde artık harcama bilgileriniz de Facebook'un eline geçecek. 
+
+Öte yandan vakıf kurup ortakların arkasına sığınarak tekel olarak suçlanma da dahil kurum ve otoritelerden gelecek politik baskıları azaltmayı planlamakta. 
 
 Sonuç olarak 2020'de hayata geçecek Libra projesinin detayları henüz belli değil. Ancak Facebook'un geçmiş sicili bizi Libra konusuna temkinli yaklaşmaya itiyor. 
 
