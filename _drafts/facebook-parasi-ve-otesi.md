@@ -40,9 +40,9 @@ Facebook'un iş modeli daha önce de belirttiğimiz gibi kullanıcıların kişi
 
 Dolayısıyla Facebook geçmişte yaşanan tepkileri de dikkate alarak bu yeni girişimde daha temkinli yaklaşıyor. Yanına pek çok ortak alıyor, bağımsız bir vakıf kurduğunu söylüyor. 
 
-| ![Libra-Association-Founding-Partners.png](/assets/Libra-Association-Founding-Partners.png) | 
+| ![libra-block.jpg](/assets/libra-block.jpg) | 
 |:--:| 
-| *Libra kurucuları: Yok yok, kimi ararsan var (Kaynak: [Libra Association](https://libra.org/en-US/partners/))* | 
+| *Libra kurucuları: Yok yok, kimi ararsan var (Kaynak: [The Block](https://www.theblockcrypto.com/))* | 
 
 Bu vakfın Libra'yı yöneteceğini, kendisinin de tüm kurucular gibi vakfın yönetiminde sadece bir oyu olacağını belirtiyor. Bilgilerin mahrem tutulacağını belirtiyor. Yeterli mi? Bence hayır. 
 
