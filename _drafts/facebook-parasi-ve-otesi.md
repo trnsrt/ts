@@ -10,6 +10,42 @@ Bir paragrafta özetleyelim: Facebook, [27 diğer kurum](https://libra.org/en-US
 
 Tanıtım Dokümanı'nın İngilizcesine [buradan](https://libra.org/en-US/white-paper/) Türkçesine ise [Ebru Güven](https://medium.com/@tasebru)'in çevirisi ile [şuradan](https://t.co/SUMobWOpcg) ulaşabilirsiniz. 
 
+### Facebook neden kripto para dünyasına giriyor?
+
+Facebook neden bir kripto para çıkarıyor? Soruyu biraz daha açsak iyi olacak sanki: Facebook neden onlarca farklı kurumu içine alacak geniş bir yapı kurarak bir kripto para çıkarıyor? 
+
+#### Facebook'un nereden sıkışıyor?
+
+Facebook özünde Google ile birlikte dünyanın en büyük iki reklam ajansından biri. Ve kurduğu benzersiz iş modelinin temeli kullanıcı bilgilerini toplama ve bu bilgiler odağında kullanıcıya nokta atış reklam yapmaya dayanıyor. Ancak Facebook halka açık bir şirket ve Wall Street ondan sürekli olarak kârını artırmasını istiyor. Facebook'un elindeki en büyük varlık ne? 2.3 milyar [kullanıcı](https://zephoria.com/top-15-valuable-facebook-statistics/). Bunlardan bir yere kadar reklam geliri elde edebilir. Daha fazlasını vermesi lazım kârâ susamış fonlara, yoksa hisse senedi tepetaklak gider. 
+
+Fotoğraflarınız, beğendiğiniz makaleler, sevdiklerinin doğum günlerini kutlamak gibi özel hayatınızla ile sizi sizden iyi tanıyan Facebook, şimdi Libra ile sizin harcamalarınızı da görmek ve ona etki etmek istiyor. 
+
+#### Kimi örnek alıyor?
+
+Facebook aslında Çin'in dijital anlamdaki en büyük devi olan WeChat'ın yolunu izliyor. Kendi halinde masum bir chat programı olarak başlayan WeChat, hükümetin de desteği ile şu anda her tür finansal işlemi dijital olarak gerçekleştirebildiğiniz dev bir platforma dönüşmüş durumda. Benzer şekilde Kore'nin en büyük mesajlaşma uygulaması Kakao da 44 milyon kullanıcısı için bir kripto para cüzdanı geliştirerek [kullanıma soktu](https://www.ccn.com/koreas-biggest-messaging-app-kakao-to-integrate-crypto-wallet-for-44-million-users/). Facebook da bu iki kuruluş gibi Whatsapp'ı kullanarak para transferini mesajlaşmanın içine katmayı planlıyor. 
+
+#### Hangi alanlarda sıkışıyor?
+
+Ama bir yandan da şu anki mevcut modelinin bile zayıf yanları var ve bu Cambridge Analytica skandalı ile iyice açığa çıktı. İnsanlar artık dijital dünyada kendilerine ait bilgilerin yavaş yavaş önemini kavramaya başladılar. Facebook da bu eğilime karşı kendi gardını almaya başladı. Mark Zuckerberg "gelecek mahremiyette" [temalı ileriye dönük vizyonlarını bizimle paylaştı](https://m.facebook.com/notes/mark-zuckerberg/a-privacy-focused-vision-for-social-networking/10156700570096634/)
+
+Facebook bir devasa bir yapı, bir dev. Böyle olduğu için de bütün gözler üzerinde. Monopol yapısı dolayısıyla tepkileri üzerine çekiyor. Geçtiğimiz günlerde şirketin ilk kurucularından Chris Hughes, [New York Times'a uzunca bir makale yazarak](https://www.nytimes.com/2019/05/09/opinion/sunday/chris-hughes-facebook-zuckerberg.html) Facebook'un elinde tuttuğu korkunç güç nedeniyle parçalanmasını istedi. 
+
+
+#### Kullanıcıların öne plana çıkmaya başlayan hassasiyetleri neler?
+
+Toplumun büyük kesimi bilgilerini paylaşmak konusunda hassas olmayabilir. Ancak bu tip bir genel izlemenin en uç noktası olan Çin aslında işin nerelere gidebileceği konusunda bize ipuçları veriyor. Sosyal medya aktifliğinize göre size bir skor veren ve düşük skorlu olanlara pasaport vermemek gibi yaptırımlar uygulayan baskıcı bir sistem [Çin'in planladığı](https://www.businessinsider.com/china-social-credit-system-punishments-and-rewards-explained-2018-4#3-banning-you-or-your-kids-from-the-best-schools-3). Geçtiğimiz ay Hong Kong'da yapılan protestolara giden gençlerin kendilerine ait metro kartlarını kullanmayıp, tek kullanımlık kart almaları [bir başka örnek](https://qz.com/1642441/extradition-law-why-hong-kong-protesters-didnt-use-own-metro-cards/). Protestolara katıldıklarının kullandıkları kartlardan ortaya çıkabileceğinden korkuyorlar. Yaşadıkları acı tecrübeler yüzlerce insanı böyle bir önlem almaya itmiş durumda. 
+
+Facebook'un iş modeli daha önce de belirttiğimiz gibi kullanıcıların kişisel bilgilerini kullanmak üzerine kurulu. Benzer iş modeli üzerine kurulan Google da aynı şekilde artan kullanıcı tepkisini göğüslemek durumunda. Öte yandan Apple ya da Microsoft kullanıcı datası üzerine iş modeli inşaa etmedikleri için çok rahatlar. Apple CEO'su Tim Cook çıkıp göğsünü gere gere ürün ve hizmetlerinin [kişisel bilgilerinizi güvenli ve mahrem tutmak üzerine dizayn edildiğini söylüyor](https://www.theverge.com/2019/3/26/18282158/apple-services-privacy-credit-card-tv-data-sharing). Bu hamleler bir yandan da Facebook'u daha köşeye sıkıştırmaya yönelik doğal olarak. 
+
+Dolayısıyla Facebook geçmişte yaşanan tepkileri de dikkate alarak bu yeni girişimde daha temkinli yaklaşıyor. Yanına pek çok ortak alıyor, bağımsız bir vakıf kurduğunu söylüyor. Bilgilerin mahrem tutulacağını belirtiyor. Yeterli mi? Bence hayır. 
+
+Şu an yapmaya istediği suyu bulandırmaya çalışmaktan başka bir şey değil. Zira para olarak bilgileri tutmayacak ama parayı harcadığınız yere bilgilerinizi verecek. Dolayısıyla bir şekilde artık harcama bilgileriniz de Facebook'un eline geçecek. Öte yandan vakıf kurup ortakların arkasına sığınarak tekel olarak suçlanma ile başlayan pek çok politik baskıyı azaltmayı planlıyor. 
+
+
+
+Sonuç olarak 2020'de hayata geçecek Libra projesinin detayları henüz belli değil. Ancak Facebook'un geçmiş sicili bizi Libra konusuna temkinli yaklaşmaya itiyor. 
+
+
 ### Facebook'un kripto piyasasına girmesi neden önemli?
 
 İşin felsefesine baktığımızda, Libra özünde "para merkez bankaları tarafında basılır" görüşünün anti-tezi bir enstrüman. Tamam, tabii ki değer olarak arkasında dolar, euro gibi bir varlık var (ki bu şekilde çalışan Hong Kong gibi ülkeler de bulunmakta). Bu nedenle başlı başına "para" özelliği taşıyor mu, tartışılır. Ancak sonuç olarak baktığınızda merkez bankalarından tamamen bağımsız özel kurumların kurduğu bir yapı alışverişte para yerine geçecek bir araç çıkarıyor. Bu bile tek başına hükümetlerin kendi tekellerinde tuttukları ekonomik güce tehdit yaratabilecek bir devrim (eğer başarılı olursa). 
@@ -30,7 +66,7 @@ Facebook yeni çıkardığı sistem ile gerçekte kimin rakibi oluyor? Gelin Blo
 
 Bitcoin, tamamen dağıtık, merkezi ya da lideri olmayan bir yapı. Dolayısıyla sansür edilmesi çok ama çok zor (imkansız da diyebilirsiniz ama büyük konuşmamak lazım). 
 
-Libra ise bir konsorsiyum tarafından sürülüyor, her ne kadar lideri 2020 yılına kadar Facebook olsa da. Bütün konsorsiyum üyeleri, merkezi yapılar. Libra da benzer şekilde Cenevre merkezi bir yapı. Sansür edilmek ağır bir kelime olsa da, gerek kanunlar gerekse başka politik nedenler ile baskı görmeye hazır. Avrupa Birliği "zaten dakika bir gol bir" [başladı baskıya](https://www.bloomberg.com/news/articles/2019-06-18/france-calls-for-central-bank-review-of-facebook-cryptocurrency), keza ABD'de de [kaşlar havaya kalktı](https://www.coindesk.com/rep-maxine-waters-says-us-cant-let-facebooks-libra-compete-with-the-dollar). 
+Libra ise bir konsorsiyum tarafından sürülüyor, her ne kadar lideri 2020 yılına kadar Facebook olsa da. Bütün konsorsiyum üyeleri, merkezi yapılar. Libra da benzer şekilde Cenevre merkezi bir yapı. Sansür edilmek ağır bir kelime olsa da, gerek kanunlar gerekse başka politik nedenler ile baskı görmeye hazır. Avrupa Birliği "zaten dakika bir gol bir" [başladı baskıya](https://www.bloomberg.com/news/articles/2019-06-18/france-calls-for-central-bank-review-of-facebook-cryptocurrency), keza ABD'de de [kaşlar havaya kalktı](https://www.coindesk.com/rep-maxine-waters-says-us-cant-let-facebooks-libra-compete-with-the-dollar). En son 2 Temmuz tarihinde Amerikan Temsilciler Meclisi Finansanl Hizmetler Komisyonu Facebook'a resmi bir mektup göndererek [Libra geliştirmesini durdumasını](https://twitter.com/APompliano/status/1146208346543804418) istedi. 
 
 ##### Açıklık/kapalılık
 
@@ -90,22 +126,10 @@ Facebook, şu an kendisini aktif olarak kullanan 2.3 milyar kullanıcısından m
 
 # Yazı II
 
-Facebook neden bir kripto para çıkarıyor? Soruyu biraz daha açsak iyi olacak sanki: Facebook neden onlarca farklı kurumu içine alacak geniş bir yapı kurarak bir kripto para çıkarıyor? 
+
 
 ### Facebook ve dijital dünyadaki özgürlüklerimiz
-Bireysel özgürlükler konusunda Libra belli özgürlükler getirse de aslında belli konularda kaygı yaratmıyor değil. Facebook özünde Google ile birlikte dünyanın en büyük iki reklam ajansından biri. Ve kurduğu benzersiz iş modelinin temeli kullanıcı bilgilerini toplama ve bu bilgiler odağında kullanıcıya nokta atış reklam yapmaya dayanıyor. Ancak Facebook halka açık bir şirket ve Wall Street ondan sürekli olarak kârını artırmasını istiyor. Facebook'un elindeki en büyük varlık ne? 2.3 milyar [kullanıcı](https://zephoria.com/top-15-valuable-facebook-statistics/). Bunlardan bir yere kadar reklam geliri elde edebilir. Daha fazlasını vermesi lazım kârâ susamış fonlara, yoksa hisse senedi tepetaklak gider. 
-
-Fotoğraflarınız, beğendiğiniz makaleler, sevdiklerinin doğum günlerini kutlamak gibi özel hayatınızla ile sizi sizden iyi tanıyan Facebook, şimdi Libra ile sizin harcamalarınızı da görmek ve ona etki etmek istiyor. 
-
-Facebook aslında Çin'in dijital anlamdaki en büyük devi olan WeChat'ın yolunu izliyor. Kendi halinde masum bir chat programı olarak başlayan WeChat, hükümetin de desteği ile şu anda her tür finansal işlemi dijital olarak gerçekleştirebildiğiniz dev bir platforma dönüşmüş durumda. Para transferleri için de benzer şekilde geçtiğimiz yıllarda satın aldığı Whatsapp'ı kullanacak. 
-
-Ama bir yandan da şu anki mevcut modelinin bile zayıf yanları ve bu Cambridge Analytica skandalı ile iyice açığa çıktı. İnsanlar artık dijital dünyada kendilerine ait bilgilerin yavaş yavaş önemini kavramaya başladılar. Facebook da buna eğilime karşı kendi gardını almaya başladı. Mark Zuckerberg "gelecek mahremiyette" [temalı gelecek vizyonlarını paylaştı](https://m.facebook.com/notes/mark-zuckerberg/a-privacy-focused-vision-for-social-networking/10156700570096634/)
-
-Dolayısıyla Facebook geçmişte yaşanan tepkileri de dikkate alarak bu yeni girişimde daha temkinli yaklaşıyor. Yanına pek çok ortak alıyor, bağımsız bir vakıf kurduğunu söylüyor. Bilgilerin mahrem tutulacağını belirtiyor. Yeterli mi? Bence hayır. Şu an yapmaya istediği suyu bulandırmaya çalışmaktan başka bir şey değil. Zira para olarak bilgileri tutmayacak ama parayı harcadığınız yere bilgilerinizi verecek. Dolayısıyla bir şekilde artık harcama bilgileriniz de Facebook'un eline geçecek. Öte yandan vakıf kurup ortakların arkasına sığınarak tekel olarak suçlanma ile başlayan pek çok politik baskıyı azaltmayı planlıyor. 
-
-Toplumun büyük kesimi bu konuda hassas olmayabilir. Ancak bu tip bir genel izlemenin en uç noktası olan Çin aslında işin nerelere gidebileceği konusunda bize ipuçları veriyor. Sosyal medya aktifliğinize göre size bir skor veren ve düşük skorlu olanlara pasaport vermemek gibi yaptırımlar uygulayan baskıcı bir sistem Çin'in yaptığı. Geçtiğimiz ay Hong Kong'da yapılan protestolara giden gençlerin kendilerine ait metro kartlarını kullanmayıp, tek kullanımlık kart almaları bir başka örnek. Protestolara katıldıklarının kullandıkları kartlardan ortaya çıkabileceğinden korkuyorlar. Yaşadıkları acı tecrübeler yüzlerce insanı bu yöne itmiş durumda. 
-
-2020'de başlayacak projenin detayları henüz belli değil. Ancak Facebook'un geçmiş sicili bizi Libra konusuna temkinli yaklaşmaya itiyor. 
+Bireysel özgürlükler konusunda Libra belli özgürlükler getirse de aslında belli konularda kaygı yaratmıyor değil. 
 
 #### Yaşanacak ikilem
 
