@@ -58,17 +58,4 @@ Ekonomik olarak çok büyük sorun çıkacağını düşünmüyorum ama sonuçta
 Teknik olarak Libra ile ilgili çalışmaların henüz daha ilk aşamada olduğunu söyleyebiliriz. Zira, Facebook başlangıçta enerjisini tüm konsepti oturtmak için harcadı. Kullanacağı protokoller için piyasada mevcut olanlardan seçimler yaptı ancak şimdi teknik altyapının kotarılması işi var, ve kanuni zorunlulukların getireceği ekstra yükler ile bunun nasıl gerçekleştirileceği belirsiz. Örneğin yukarıda bahsettiğimiz kara para aklaması (AML/KYC) konusunda her bir kanun koyucunun istediği düzenlemeleri ve raporlamaları yapmak için sistem kurmaya başladıklarında altından kalkmaları gereken yük oldukça artıyor.  
 
 
-### Libra'nın sıkıntıları neler?
-- Regülasyonlar
-- 
-
-- Neden Calibra var?*
-
-### Paranın faizi nereye gidecek?
-
-### Ne zaman çıkacak?
-
-
-### Neden Facebook'a güvenilmiyor?
-
 
