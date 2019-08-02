@@ -22,7 +22,7 @@ Libra işte bu iki başarılı denemein ardından ortaya çıkan üçüncü büy
 
 Neden tıkanıyor Facebook? Dünyada 2.7 milyon insana ulaşmış durumda. Daha da fazla insana da ulaşır ancak artık eski hızında değil. Yeni nesil fazla kullanmıyor diye onlara hitap eden Instagram'ı satın aldı. Sonrasında insanların haberleşmede en sık kullandığı uygulama olan Whatsapp'ı bünyesine kattı. Artık ulaşacağı insan sayısı azaldı. Elinde tuttuğu bu insanlara Facebook aracılığıyla reklama boğarak para kazanmaya çalışıyor ama onun da bir sınırı var. Bu insanları daha fazla sağması lazım. İşte burada da Çin'de bulunan WeChat'in yolundan giderek sınır ötesi para transferlerine aracılık etmeyi planlıyor. 
 
-#### Ne gibi engeller var Libra'nın önünde?
+### Ne gibi engeller var Libra'nın önünde?
 
 Libra öyle bir günde ortaya çıkmış bir proje değil. Öncelikle, 2015 yılında işin başına PayPal'de bu işi yapmış David Marcus'u getirerek başladılar projeye. Uzun bir düşünme ve değerlendirme sürecinden geçtiler. Sonuç olarak ortaya çıkardıkları Libra teknik altyapısı itibari ile beğenilen bir yapı oldu. Libra'yı bekleyen asıl sorun teknki değil, başka:  
 
