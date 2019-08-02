@@ -1,20 +1,18 @@
-Facebook'un yeni çıkaracağı Libra Blockchain ile ilgili olarak nedir, ne değildir geçtiğimiz yazıda [bahsetmiştik]. Yazımızdan bu yana pek çok gelişme oldu. Görünen o ki Libra'nın önündeki engellerin en büyüğü kanun koyuculardan gelecek. Gelin bakalım. 
+Facebook'un yeni çıkaracağı Libra Blockchain ile ilgili olarak nedir, ne değildir geçtiğimiz yazıda [bahsetmiştik]. Yazımızdan bu yana pek çok gelişme oldu. Görünen o ki Libra'nın önündeki engellerin en büyüğü kanun koyuculardan gelecek. Gelin birlikte bakalım. 
 
-### Libra türünün ilk örneği mi?
+### Libra kimlerin ayakizini takip ediyor?
 
-Kripto dünyasını yakından takip edenler "İçimiz dışımız Libra oldu, yeter artık" diye sızlanmaya başlamışlardır herhalde. Gerçekten neden Libra üzerinde bu kadar duruyoruz?
-
-Libra, dijital dünyada ödeme aracı olarak klasik sistemlere alternatif kişiden kişiye ödeme olarak ortaya atılan belki de üçüncü büyük deneme. 
+Libra, dijital dünyada ödeme aracı olarak klasik sistemlere alternatif kişiden kişiye ödeme olarak ortaya atılan belki de üçüncü büyük deneme. Diğer iki başarılı örneğe ve Libra'ya önce bir göz atalım. 
 
 #### PayPal
 
-Kişiden kişiye ödemeyi merkezi bir yapı altında yöneten PayPal kısmi de olsa başarılı oldu. Esasında PayPal'ın yaptığı para transferinde hızlı, güvenilir ve ucuz maliyetli bir aracı olmak. Banka transferlerindeki maliyeti azaltmak. Ama onun dışında kendi parasını çıkarmak gibi bir girişimde bulunmadı, hep itibari (fiat) paralara aracılık yapan bir yapı oldu. 
+Kişiden kişiye ödeme konusunda ilk başarılı örnek PayPal oldu. Esasında PayPal'ın yaptığı para transferinde hızlı, güvenilir ve ucuz maliyetli bir aracı olmak. Ama onun dışında kendi parasını çıkarmak gibi bir girişimde bulunmadı, temel olarak itibari paralara (fiat yani merkez bankaları tarafından çıkarılan ABD Doları, Euro gibi paralar) aracılık yapan bir yapı oldu. 
 
-PayPal, merkezi yapısı nedeniyle, kanuni otoriteler ile hep çok sıkı ve uyumlu ilişkiler götürdü. Keza kredi kartı şirketleri ve bankalar ile de. Sonrasında [Wemo], [Square] gibi başka rakipleri de oldu. 
+PayPal, merkezi yapısı nedeniyle, kanuni otoriteler ile hep çok sıkı ve uyumlu ilişkiler götürdü. Keza kredi kartı şirketleri ve bankalar gibi mevcut finansal yapılar ile de benzer şekilde ortak çalıştı. Geçtiğimiz yıllarda [Wemo], [Square] gibi yeni rakipler PayPal'a rakip olarak çıktılar ve belli bir pazar payını kapmayı başardılar. 
 
 #### Bitcoin
 
-Kişiden kişiye para göndermede ikinci büyük deneme olarak Bitcoin'i gösterebiliriz. PayPal'den farkları oldukça fazla. Kendi başına değer taşıma özelliği olan bir parası var - herhangi bir itibari para ile ilişkisi yok. Para transferine aracılık eden bütün finansal aracılara (bankalar, kredi kartı şirketleri) ihtiyaç duymayan bir sistem. 
+Kişiden kişiye para göndermede ikinci büyük deneme Bitcoin ile oldu. PayPal'den farkı oldukça fazla. Kendi başına değer taşıma özelliği olan bir parası var; herhangi bir itibari (fiat) para ile ilişkisi yok. Para transferine aracılık eden hiçbir finansal kuruma (bankalar, kredi kartı şirketleri) ihtiyaç duymayan bir sistem. 
 
 Merkezi bir yapısı yok - dolayısıyla kanuni otoriteler ile çok alıp veremediği de yok. Aslında biraz da bu nedenle büyümesi saman altından su yürütmek misali altan alta gerçekleşti. Zira bir kanuni otorite "hey kendine çeki düzen ver" diye uyarıda bulunmak istese kime yapacak bunu? Ya da yasaklamak istese, neyi yasaklayacak? 
 
