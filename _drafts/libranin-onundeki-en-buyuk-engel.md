@@ -28,7 +28,7 @@ Libra öyle bir günde ortaya çıkmış bir proje değil. Öncelikle, 2015 yıl
 
 Libra'nın önündeki en büyük engel kanun koyucular. Neden? Çünkü devletler para yaratma amaçlı ellerinde olan gücü kaybetmek istemiyorlar - ve Libra'yı bu anlamda kendilerin tehdit olarak görüyorlar. Bu nedenle Libra açıklandığı günden beri kanun koyucuların hedefi haline geldiler. 
 
-Kanun koyucular için Facebook çok rahat bir hedef. Merkezi var- gidip rahatça ulaşabilirsiniz. ABD'de hem Senato hem de Temsilciler Meclisi anında çağırdılar Facebook'u ve sorguya çekmeye başladılar bile. Temsilciler Meclisi tam üç gün boyunca oturup  Libra'yı konuştu. Fransa Libra'nın derhal [yasaklanmasını istedi]. 
+Kanun koyucular için Facebook çok rahat bir hedef. Merkezi var- gidip rahatça ulaşabilirsiniz. ABD'de hem Senato hem de Temsilciler Meclisi anında çağırdılar Facebook'u ve sorguya çekmeye başladılar bile]. Temsilciler Meclisi [tam üç gün boyunca oturup Libra'yı konuştu](https://www.theguardian.com/technology/2019/jul/17/facebook-libra-cryptocurrency-congress). Fransa maliye bakanı, Facebook gibi dijital devlerin demoktratik olmaktan uzak kişilerin hiçbir kontrolünün olmadığı özel ülkeler haline geldiklerini ve buna müsaade edemeyeceklerini belirten [zehir zemberek açıklamalar](https://qz.com/1668070/french-finance-minister-says-facebooks-libra-cannot-become-sovereign-currency/) yaptı.
 
 Aslında Facebook bu kanun koyucuların kendisine koyacağı engellerin gayet farkında idi. Bu nedenle baştan yapıyı ona göre kurdular. 
 
