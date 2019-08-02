@@ -1,12 +1,12 @@
 Facebook'un yeni çıkaracağı Libra Blockchain ile ilgili olarak nedir, ne değildir geçtiğimiz yazıda [bahsetmiştik]. Yazımızdan bu yana pek çok gelişme oldu. Görünen o ki Libra'nın önündeki engellerin en büyüğü kanun koyuculardan gelecek. Gelin birlikte bakalım. 
 
-### Libra kimlerin ayakizini takip ediyor?
+### Libra kimlerin ayak izini takip ediyor?
 
-Libra, dijital dünyada ödeme aracı olarak klasik sistemlere alternatif kişiden kişiye ödeme olarak ortaya atılan belki de üçüncü büyük deneme. Diğer iki başarılı örneğe ve Libra'ya önce bir göz atalım. 
+Libra, dijital dünyada ödeme aracı olarak klasik sistemlere alternatif kişiden kişiye ödeme olarak ortaya atılan belki de üçüncü büyük deneme. Diğer iki başarılı örneği Libra ile bir karşılaştıralım önce: 
 
 #### PayPal
 
-Kişiden kişiye ödeme konusunda ilk başarılı örnek PayPal oldu. Esasında PayPal'ın yaptığı para transferinde hızlı, güvenilir ve ucuz maliyetli bir aracı olmak. Ama onun dışında kendi parasını çıkarmak gibi bir girişimde bulunmadı, temel olarak itibari paralara (fiat yani merkez bankaları tarafından çıkarılan ABD Doları, Euro gibi paralar) aracılık yapan bir yapı oldu. 
+Kişiden kişiye ödeme konusunda ilk başarılı örnek PayPal oldu. Esasında PayPal'ın yaptığı para transferine hızlı, güvenilir ve ekonomik bir aracı olmak. Ama onun dışında kendi parasını çıkarmak gibi bir girişimde bulunmadı, temel olarak itibari paralara (fiat yani merkez bankaları tarafından çıkarılan ABD Doları, Euro gibi paralar) aracılık yapan bir yapı oldu. 
 
 PayPal, merkezi yapısı nedeniyle, kanuni otoriteler ile hep çok sıkı ve uyumlu ilişkiler götürdü. Keza kredi kartı şirketleri ve bankalar gibi mevcut finansal yapılar ile de benzer şekilde ortak çalıştı. Geçtiğimiz yıllarda [Wemo], [Square] gibi yeni rakipler PayPal'a rakip olarak çıktılar ve belli bir pazar payını kapmayı başardılar. 
 
@@ -20,15 +20,15 @@ Merkezi bir yapısı yok - dolayısıyla kanuni otoriteler ile çok alıp vereme
 
 Libra işte bu iki başarılı denemein ardından ortaya çıkan üçüncü büyük deneme. Facebook'un artık tıkanmaya başlayan büyüme trendine destek olsun diye çıkardığı uzun vadeli bir deneme. 
 
-Neden tıkanıyor? Dünyada 2.7 milyon insana ulaşmış durumda. Daha da fazla insana ulaşır ancak eski hızında değil. Yeni nesil fazla kullanmıyor diye onlara hitap eden Instagram'ı satın aldı. Sonrasında insanların iletişimde en sık kullandığı araç olan Whatsapp'ı bünyesine kattı. Artık ulaşacağı insan sayısı azaldı. Elinde tuttuğu bu insanlara Facebook aracılığıyla reklama boğarak para kazanmaya çalışıyor ama onun da bir sınırı var. Bu insanları daha fazla sağması lazım. İşte burada da Çin'de bulunan WeChat'in yolundan giderek sınırlarötesi para transferlerine aracılık etmeyi planlıyor. 
+Neden tıkanıyor Facebook? Dünyada 2.7 milyon insana ulaşmış durumda. Daha da fazla insana da ulaşır ancak artık eski hızında değil. Yeni nesil fazla kullanmıyor diye onlara hitap eden Instagram'ı satın aldı. Sonrasında insanların haberleşmede en sık kullandığı uygulama olan Whatsapp'ı bünyesine kattı. Artık ulaşacağı insan sayısı azaldı. Elinde tuttuğu bu insanlara Facebook aracılığıyla reklama boğarak para kazanmaya çalışıyor ama onun da bir sınırı var. Bu insanları daha fazla sağması lazım. İşte burada da Çin'de bulunan WeChat'in yolundan giderek sınır ötesi para transferlerine aracılık etmeyi planlıyor. 
 
 #### Ne gibi engeller var Libra'nın önünde?
 
-Libra öyle bir günde ortaya çıkmış bir proje değil. Öncelikle, 2015 yılında işin başına PayPal'de bu işi yapmış David Marcus'u getirerek başladılar projeye. Ancak çıkabilecek tehlikelerin farkında idiler. 
+Libra öyle bir günde ortaya çıkmış bir proje değil. Öncelikle, 2015 yılında işin başına PayPal'de bu işi yapmış David Marcus'u getirerek başladılar projeye. Uzun bir düşünme ve değerlendirme sürecinden geçtiler. Sonuç olarak ortaya çıkardıkları Libra teknik altyapısı itibari ile beğenilen bir yapı oldu. Libra'yı bekleyen asıl sorun teknki değil, başka:  
 
-Önlerindeki en büyük engel kanun koyucular. Neden? Çünkü devletler para yaratma amaçlı ellerinde olan gücü kaybetmek istemiyorlar. Bu nedenle Libra'yı açıkladıkları günden beri kanun koyucuların hedefi haline geldiler. 
+Libra'nın önündeki en büyük engel kanun koyucular. Neden? Çünkü devletler para yaratma amaçlı ellerinde olan gücü kaybetmek istemiyorlar - ve Libra'yı bu anlamda kendilerin tehdit olarak görüyorlar. Bu nedenle Libra açıklandığı günden beri kanun koyucuların hedefi haline geldiler. 
 
-Kanun koyucular için Facebook çok rahat bir hedef. Merkezi var - gidip rahatça ulaşabilirsiniz. ABD'de hem Senato hem de Temsilciler Meclisi anında çağırdılar Facebook'u ve sorguya çekmeye başladılar bile. 
+Kanun koyucular için Facebook çok rahat bir hedef. Merkezi var- gidip rahatça ulaşabilirsiniz. ABD'de hem Senato hem de Temsilciler Meclisi anında çağırdılar Facebook'u ve sorguya çekmeye başladılar bile. Temsilciler Meclisi tam üç gün boyunca oturup  Libra'yı konuştu. Fransa Libra'nın derhal [yasaklanmasını istedi]. 
 
 Aslında Facebook bu kanun koyucuların kendisine koyacağı engellerin gayet farkında idi. Bu nedenle baştan yapıyı ona göre kurdular. 
 
