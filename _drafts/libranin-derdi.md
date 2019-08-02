@@ -34,6 +34,15 @@ Aslında Facebook bu kanun koyucuların kendisine koyacağı engellerin gayet fa
 
 Öncelikle oyunu kuralların göre oynadılar. Kripto para ve Blockchain dünyasının en iyi modellerini örnek aldılar kendilerine. 
 
+Kendilerini Libra'da olabildiğince uzaklaştırmaya çalıştılar. Libra bir birlik olarak 27 ortak ile kuruldu. Ortak sayısı en az 100 olacak ve Libra'nın yönetiminde her bir ortağın %1'den fazla oyu olmayacak. Böylece Facebook kanuni otoritelere "bakın ben bu işi yönetmiyorum, benim peşimi bırakın" mesajını baştan vermek istiyor. 
+
+Peki Facebook parayı nereden kazanacak? Orada da Calibra, yani tamamı Facebook'a ait olan elektronik cüzdan ortaya çıkıyor. Facebook diyor ki "ben kullanıcılarımın Libra parasını transfer etmesi için Calibra'yı kullandıracağım". 
+
+Facebook merkezi bir yapı olduğu için kanun koyucular ile iyi geçinmek zorunda - aksi mümkün değil. Ama öte taraftan sınır ötesi para transferi yapacak. Her ülkenin kanunları farklı, uygulamaları farklı. Hiç de kolay değil bu alanda iş yapmak. Neden?
+
+Kanun koyucuların kripto paralar ile ilgili en büyük dertlerinden biri kara para aklanması (AML-anti money laundering) ve parayı transfer edenlerin kimliği (KYC- Know-your-customer). Günümüzde de bankaların bu alandaki enerjilerinin büyük kısmı para transferlerinde olası şüpheli işlemleri taramak ve ayıklamak ile geçiyor - aksi takdirde çok ciddi [cezalar yiyebiliyorlar]. 
+
+Facebook kanun koyuculara bu ilkelere tamamen uyacağına söz veriyor. Ancak, bir taraftan da Libra adında şifreli ve kripto paralar gibi gizlilik içeren bir para yaratacağını söylüyor. İkisi çelişmiyor mu? Gayet tabii. Ama işte burada satır aralarını okumakta fayda var. Facebook AML/KYC kurallarına "Calibra" yani elektronik cüzdanı üzerinden uyacağına söz veriyor. Libra yanı elektronik para ise İsviçre bazlı ve Facebook "orada hem ülke hem de %1'den az oy gücü olan bir ortak olarak benim gücüm yok, kusura bakmayın" diyor. 
 
 
 ### Libra'nın gelişmesi için ne gerekli?
