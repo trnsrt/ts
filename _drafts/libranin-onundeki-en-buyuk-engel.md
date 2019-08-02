@@ -1,6 +1,6 @@
-Facebook'un yeni çıkaracağı Libra Blockchain ile ilgili olarak nedir, ne değildir geçtiğimiz yazıda [bahsetmiştik]. Teknoloji dünyasında bir aylık bir süre bir oldukça uzun. Yazımızdan bu yana pekçok gelişme oldu. Hem onlara bir bakalım, hem de Facebook Libra ile ilgili yeni ortaya çıkan (ya da son yazıda yazmayı unuttuğumuz) konulara göz gezdirelim. 
+Facebook'un yeni çıkaracağı Libra Blockchain ile ilgili olarak nedir, ne değildir geçtiğimiz yazıda [bahsetmiştik]. Yazımızdan bu yana pek çok gelişme oldu. Görünen o ki Libra'nın önündeki engellerin en büyüğü kanun koyuculardan gelecek. Gelin bakalım. 
 
-### Neden Libra'yı bu kadar konuşuyoruz?
+### Libra türünün ilk örneği mi?
 
 Kripto dünyasını yakından takip edenler "İçimiz dışımız Libra oldu, yeter artık" diye sızlanmaya başlamışlardır herhalde. Gerçekten neden Libra üzerinde bu kadar duruyoruz?
 
@@ -24,6 +24,8 @@ Libra işte bu iki başarılı denemein ardından ortaya çıkan üçüncü büy
 
 Neden tıkanıyor? Dünyada 2.7 milyon insana ulaşmış durumda. Daha da fazla insana ulaşır ancak eski hızında değil. Yeni nesil fazla kullanmıyor diye onlara hitap eden Instagram'ı satın aldı. Sonrasında insanların iletişimde en sık kullandığı araç olan Whatsapp'ı bünyesine kattı. Artık ulaşacağı insan sayısı azaldı. Elinde tuttuğu bu insanlara Facebook aracılığıyla reklama boğarak para kazanmaya çalışıyor ama onun da bir sınırı var. Bu insanları daha fazla sağması lazım. İşte burada da Çin'de bulunan WeChat'in yolundan giderek sınırlarötesi para transferlerine aracılık etmeyi planlıyor. 
 
+#### Ne gibi engeller var Libra'nın önünde?
+
 Libra öyle bir günde ortaya çıkmış bir proje değil. Öncelikle, 2015 yılında işin başına PayPal'de bu işi yapmış David Marcus'u getirerek başladılar projeye. Ancak çıkabilecek tehlikelerin farkında idiler. 
 
 Önlerindeki en büyük engel kanun koyucular. Neden? Çünkü devletler para yaratma amaçlı ellerinde olan gücü kaybetmek istemiyorlar. Bu nedenle Libra'yı açıkladıkları günden beri kanun koyucuların hedefi haline geldiler. 
@@ -45,7 +47,15 @@ Kanun koyucuların kripto paralar ile ilgili en büyük dertlerinden biri kara p
 Facebook kanun koyuculara bu ilkelere tamamen uyacağına söz veriyor. Ancak, bir taraftan da Libra adında şifreli ve kripto paralar gibi gizlilik içeren bir para yaratacağını söylüyor. İkisi çelişmiyor mu? Gayet tabii. Ama işte burada satır aralarını okumakta fayda var. Facebook AML/KYC kurallarına "Calibra" yani elektronik cüzdanı üzerinden uyacağına söz veriyor. Libra yanı elektronik para ise İsviçre bazlı ve Facebook "orada hem ülke hem de %1'den az oy gücü olan bir ortak olarak benim gücüm yok, kusura bakmayın" diyor. 
 
 
-### Libra'nın gelişmesi için ne gerekli?
+### Libra'nın geleceğindeki soru işaretleri neler?
+
+Libra'nın önümüzdeki yıl kullanılmaya başlanması planlanıyor ancak bunu çok iddialı bulanlar var. Birinci neden, yukarıda bahsettiğimiz kanun koyucular ile oturup uzlaşması oldukça zaman alacak Facebook'un. Diğer ortaklar buna ne kadar yardımcı olacaklar şu an meçhul. 
+
+Bunun dışında, birliğin yönetim yapısının nasıl olacağı da henüz belirsiz. Yeni üyelerin alımında Facebook ne kadar rol oynayacak? Direksiyonda olduğu sürece kanun koyucular tarafından sıkıştırılmaya devam edeceği bir gerçek (ki soruşturmada bu sorular da yöneltildi kendilerine). 
+
+Ekonomik olarak çok büyük sorun çıkacağını düşünmüyorum ama sonuçta Libra birliğini yönetmek için belli masraflar olacak. Bunların Libra'nın kasada tuttuğu paraların faizlerinden karşılanacağı söyleniyor. Masraflar sonrası kalan faiz ortaklara gideceği için mevcut ortaklar masrafların minimumda tutulması için ısrar edeceklerdir. 
+
+Teknik olarak Libra ile ilgili çalışmaların henüz daha ilk aşamada olduğunu söyleyebiliriz. Zira, Facebook başlangıçta enerjisini tüm konsepti oturtmak için harcadı. Kullanacağı protokoller için piyasada mevcut olanlardan seçimler yaptı ancak şimdi teknik altyapının kotarılması işi var, ve kanuni zorunlulukların getireceği ekstra yükler ile bunun nasıl gerçekleştirileceği belirsiz. Örneğin yukarıda bahsettiğimiz kara para aklaması (AML/KYC) konusunda her bir kanun koyucunun istediği düzenlemeleri ve raporlamaları yapmak için sistem kurmaya başladıklarında altından kalkmaları gereken yük oldukça artıyor.  
 
 
 ### Libra'nın sıkıntıları neler?
