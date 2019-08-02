@@ -54,11 +54,11 @@ Bunun dışında, birliğin yönetim yapısının nasıl olacağı da henüz bel
 
 Ekonomik olarak çok büyük sorun çıkacağını düşünülmüyor ama sonuçta Libra birliğinin belli masrafları olacak. Bunların Libra'nın kasada tuttuğu paraların faizlerinden karşılanacağı söyleniyor. Sonrasında kalan para temettü olarak dağıtılacağı için mevcut ortaklar masrafların minimumda tutulması için ısrar edeceklerdir. 
 
-Teknik olarak Libra ile ilgili çalışmaların daha başlangıç aşamasında olduğunu söyleyebiliriz. Zira, Facebook şu anda kadar enerjisini konsepti tam olarak oturtmak için harcadı. Kullanacağı protokoller için piyasada mevcut olanlardan seçimler yaptı, şimdi teknik altyapının kotarılması işi var, ve kanuni zorunlulukların getireceği ekstra yükler ile bunun nasıl gerçekleştirileceği belirsiz. Örneğin yukarıda bahsettiğimiz kara para aklaması (AML/KYC) konusunda her bir kanun koyucunun istediği düzenlemeleri ve raporlamaları yapmak için sistem kurmaya başladıklarında altından kalkmaları gereken yük oldukça artıyor.  
+Teknik olarak Libra ile ilgili çalışmaların daha başlangıç aşamasında olduğunu söyleyebiliriz. Zira, Facebook şu anda kadar enerjisini konsepti tam olarak oturtmak için harcadı. Kullanacağı protokoller için piyasada mevcut olanlardan seçimler yaptı, şimdi teknik altyapının kotarılması işi var. Burada da kanuni zorunlulukların getireceği ekstra yükler belirsiz. Örneğin yukarıda bahsettiğimiz kara para aklaması (AML/KYC) konusunda her bir kanun koyucunun istediği düzenlemeleri ve raporlamaları yapmak için sistem kurmaya başladıklarında altından kalkmaları gereken yük oldukça artıyor.  
 
 ### Sonuç
 
-Facebook Libra ile arı kovanına çomak soktu - işin içine para girdiğinde bir anda bütün dikkatler üzerine çevrildi. Her ne kadar Libra birliği gibi dağıtık bir yapı kurmuş olsa da özünde merkezi bir yapı olması nedeniyle kanun koyucular hedefleri vizyona ulaşmada Facebook'un önünde en büyük engel olacakmış gibi görünüyor. İlk hedef piyasaya 2020 yılında çıkmak oldukça iddialı. Gerçekleşecek mi hep birlikte göreceğiz. 
+Facebook Libra ile arı kovanına çomak soktu; işin içine para girdiğinde bir anda bütün dikkatler üzerlerine çevrildi. Her ne kadar Libra birliği gibi dağıtık bir yapı kurmuş olsalar da özünde merkezi bir yapıları nedeniyle kanun koyucular Facebook'un düşlediği vizyona ulaşmasının önündeki en büyük engel olacak gibi görünüyor. İlk adım olan piyasaya 2020 yılında çıkma hedefi oldukça iddialı. Gerçekleşecek mi hep birlikte göreceğiz. 
 
 
 
