@@ -67,7 +67,7 @@ Bunun dışında, birliğin yönetim yapısının nasıl olacağı da henüz bel
 
 Ekonomik olarak çok büyük sorun çıkacağı düşünülmüyor ama sonuçta Libra birliğinin belli masrafları olacak. Bunların Libra'nın kasada tuttuğu paraların faizlerinden karşılanacağı söyleniyor. Sonrasında kalan para temettü olarak dağıtılacağından dolayı mevcut ortaklar masrafların minimumda tutulması için ısrar edeceklerdir.
 
-Teknik olarak Libra ile ilgili çalışmaların daha başlangıç aşamasında olduğunu söyleyebiliriz. Zira, Facebook şu anda kadar tüm enerjisini konsepti tam olarak oturtmak için harcadı. Kullanacağı protokoller için piyasada mevcut olanlardan seçimler yaptı, şimdi teknik altyapının kotarılması işi var. Burada da kanuni zorunlulukların getireceği ekstra yükler belirsiz. Örneğin yukarıda bahsettiğimiz kara para aklaması (AML/KYC) konusunda her bir kanun koyucunun istediği düzenlemeleri ve raporlamaları yapmak için sistem kurmaya başladıklarında altından kalkmaları gereken yük oldukça artacakkk.  
+Teknik olarak Libra ile ilgili çalışmaların daha başlangıç aşamasında olduğunu söyleyebiliriz. Zira, Facebook şu anda kadar tüm enerjisini konsepti tam olarak oturtmak için harcadı. Kullanacağı protokoller için piyasada mevcut olanlardan seçimler yaptı, şimdi teknik altyapının kotarılması işi var. Burada da kanuni zorunlulukların getireceği ekstra yükler belirsiz. Örneğin yukarıda bahsettiğimiz kara para aklaması (AML/KYC) konusunda her bir kanun koyucunun istediği düzenlemeleri ve raporlamaları yapmak için sistem kurmaya başladıklarında altından kalkmaları gereken yük oldukça artacak.  
 
 ![libra_developers.png](/assets/libra_developers.png)
 
