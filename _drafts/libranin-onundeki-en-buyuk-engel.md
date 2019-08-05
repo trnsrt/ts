@@ -42,13 +42,11 @@ Aslında Facebook bu kanun koyucuların kendisine koyacağı engellerin gayet fa
 
 Peki Facebook parayı nereden kazanacak? Orada da Calibra, yani tamamı Facebook'a ait olan elektronik cüzdan ortaya çıkıyor. Facebook diyor ki "ben kullanıcılarıma Libra paralarını transfer etmeleri için Calibra'yı kullandıracağım". 
 
-Facebook merkezi bir yapı olduğu için kanun koyucular ile iyi geçinmek zorunda - aksi mümkün değil. Ama öte yandan sınır ötesi para transferi yapacak. Hiç de kolay değil bu.Her ülkenin kanunları farklı, uygulamaları farklı. Neden bu kadar hassas ve bir o kadar da karmaşık bir yapı var bu alanda?
+Facebook merkezi bir yapı olduğu için kanun koyucular ile iyi geçinmek zorunda - aksi mümkün değil. Ama amacı sınır ötesi para transferi yapmak. Bunu da Libra adında kripto paralar gibi gizlilik özelliği olan bir para aracılığı ile yapacağını söylüyor. Hiç de kolay değil bu. Neden?
 
-Kanun koyucuların kripto paralar ile ilgili en büyük dertleri kara para aklanması (AML-anti money laundering) ve parayı transfer edenlerin kimliği (KYC- Know-your-customer), kısaca AML/KYC olarak tanımlanan işlemler. Günümüzde bankaların enerjilerinin ciddi kısmı para transferlerinde olası şüpheli işlemleri taramak ve ayıklamak ile geçiyor - aksi takdirde çok ciddi cezalar var: 2009 yılında bu yana bankalar AML aktivitelerinden dolayı [toplam 32 milyar ABD Doları ceza ödemiş durumdalar](https://www.visualcapitalist.com/why-anti-money-laundering-should-be-a-top-priority-for-financial-institutions/). 
+Kanun koyucuların para transferleri ile ilgili en büyük derdi kara para aklanması (AML-anti money laundering), ve bunun önlenmesi para transferini yapanı tanıma (KYC- Know-your-customer), kısaca AML/KYC olarak tanımlanan işlemler bütünü. Günümüzde bankaların enerjilerinin ciddi kısmı para transferlerinde olası şüpheli işlemleri taramak ve ayıklamak ile geçiyor - aksi takdirde çok ciddi cezalar var: 2009 yılında bu yana bankalar AML aktivitelerinden dolayı [toplam 32 milyar ABD Doları ceza ödemiş durumdalar](https://www.visualcapitalist.com/why-anti-money-laundering-should-be-a-top-priority-for-financial-institutions/). 
 
-Facebook kanun koyuculara bu ilkelere tamamen uyacağına söz veriyor. Ancak, bir taraftan da Libra adında kripto paralar gibi gizlilik özelliği olan  bir para yaratacağını söylüyor. Çelişkili değil mi bunlar?. Ama işte burada satır aralarını okumakta fayda var: 
-
-Facebook AML/KYC kurallarına "Calibra" yani elektronik cüzdanı üzerinden uyacağına söz veriyor. Libra yani bu cüzdanlarda kullandıraağı elektronik para ise İsviçre bazlı. Facebook ABD bazlı bir şirket olarak muhtemelen "hem farklı ülke hem de %1'den az oy gücü olan bir ortak olarak benim gücüm bir yere kadar yeter, kusura bakmayın, üzerime gelmeyin" diyecek. 
+Facebook kanun koyuculara bu ilkelere tamamen uyacağına söz veriyor. Peki bu nasıl olacak? İşte burada satır aralarını okumakta fayda var: Facebook AML/KYC kurallarına "Calibra" yani elektronik cüzdanı üzerinden uyacağına söz veriyor. Libra yani bu cüzdanlarda kullandıracağı elektronik para ise İsviçre bazlı. Facebook ABD bazlı bir şirket olarak muhtemelen "hem farklı ülke hem de %1'den az oy gücü olan bir ortak olarak benim gücüm bir yere kadar yeter, kusura bakmayın, üzerime gelmeyin" diyecek. 
 
 ### Libra'nın geleceğindeki soru işaretleri neler?
 
@@ -58,15 +56,12 @@ Birinci neden, Facebook'un yukarıda bahsettiğimiz nedenlerden dolayı kanun ko
 
 Bunun dışında, birliğin yönetim yapısının nasıl olacağı da henüz belirsiz. Yeni üyelerin alımında Facebook ne kadar rol oynayacak? Direksiyonda olduğu sürece kanun koyucular tarafından sıkıştırılmaya devam edeceği bir gerçek. 
 
-Ekonomik olarak çok büyük sorun çıkacağı düşünülmüyor ama sonuçta Libra birliğinin belli masrafları olacak. Bunların Libra'nın kasada tuttuğu paraların faizlerinden karşılanacağı söyleniyor. Sonrasında kalan para temettü olarak dağıtılacağı için mevcut ortaklar masrafların minimumda tutulması için ısrar edeceklerdir. 
+Ekonomik olarak çok büyük sorun çıkacağı düşünülmüyor ama sonuçta Libra birliğinin belli masrafları olacak. Bunların Libra'nın kasada tuttuğu paraların faizlerinden karşılanacağı söyleniyor. Sonrasında kalan para temettü olarak dağıtılacağından dolayı mevcut ortaklar masrafların minimumda tutulması için ısrar edeceklerdir.
 
-Teknik olarak Libra ile ilgili çalışmaların daha başlangıç aşamasında olduğunu söyleyebiliriz. Zira, Facebook şu anda kadar enerjisini konsepti tam olarak oturtmak için harcadı. Kullanacağı protokoller için piyasada mevcut olanlardan seçimler yaptı, şimdi teknik altyapının kotarılması işi var. Burada da kanuni zorunlulukların getireceği ekstra yükler belirsiz. Örneğin yukarıda bahsettiğimiz kara para aklaması (AML/KYC) konusunda her bir kanun koyucunun istediği düzenlemeleri ve raporlamaları yapmak için sistem kurmaya başladıklarında altından kalkmaları gereken yük oldukça artıyor.  
+Teknik olarak Libra ile ilgili çalışmaların daha başlangıç aşamasında olduğunu söyleyebiliriz. Zira, Facebook şu anda kadar tüm enerjisini konsepti tam olarak oturtmak için harcadı. Kullanacağı protokoller için piyasada mevcut olanlardan seçimler yaptı, şimdi teknik altyapının kotarılması işi var. Burada da kanuni zorunlulukların getireceği ekstra yükler belirsiz. Örneğin yukarıda bahsettiğimiz kara para aklaması (AML/KYC) konusunda her bir kanun koyucunun istediği düzenlemeleri ve raporlamaları yapmak için sistem kurmaya başladıklarında altından kalkmaları gereken yük oldukça artacakkk.  
 
 ![libra_developers.png](/assets/libra_developers.png)
 
 ### Sonuç
 
-Facebook Libra ile arı kovanına çomak soktu; işin içine para girdiğinde bir anda bütün dikkatler üzerlerine çevrildi. Her ne kadar Libra birliği gibi dağıtık bir yapı kurmuş olsalar da özünde merkezi bir yapıları nedeniyle kanun koyucular Facebook'un düşlediği vizyona ulaşmasının önündeki en büyük engel olacak gibi görünüyor. İlk adım olan piyasaya 2020 yılında çıkma hedefi oldukça iddialı. Gerçekleşecek mi hep birlikte göreceğiz. 
-
-
-
+Facebook Libra ile arı kovanına çomak soktu; işin içine para girdiğinde bir anda bütün dikkatler üzerlerine çevrildi. Her ne kadar Libra birliği gibi dağıtık bir yapı kurmuş olsalar da özünde merkezi bir yapıya sahipler. Bu nedenle kanun koyucular Facebook'un düşlediği vizyona ulaşmasının önündeki en büyük engel olacak gibi görünüyor. İlk adım olan piyasaya 2020 yılında çıkma hedefi oldukça iddialı. Gerçekleşecek mi hep birlikte göreceğiz. 
