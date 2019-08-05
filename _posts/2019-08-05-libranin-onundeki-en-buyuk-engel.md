@@ -25,7 +25,7 @@ PayPal, merkezi yapısı nedeniyle, kanuni otoriteler ile hep çok sıkı ve uyu
 
 Kişiden kişiye para göndermede ikinci büyük deneme Bitcoin ile oldu. Bitcoin PayPal'den oldukça farklı: Kendi başına değer taşıyan bir para; herhangi bir itibari (fiat) para ile ilişkisi yok. Para transferine aracılık eden hiçbir finansal kuruma (bankalar, kredi kartı şirketleri) ihtiyaç duymayan bir sistem. Değeri günden güne çok değişse de yaklaşık [200 milyar ABD Doları bir büyüklüğe ulaşmış durumda](https://coinmarketcap.com/currencies/bitcoin/).
 
-Merkezi bir yapısı olmadan kuruldu Bitcoin; ne bir merkezi ofisi var, ne de onu temsil eden bir organizasyon. Dolayısıyla kanuni otoriteler ile çok alıp veremediği de yok. Aslında biraz da bu nedenle büyümesi saman altından su yürütür bir şekilde altan alta gerçekleşti. Zira bir kanuni otorite "hey kendine çeki düzen ver" diye uyarıda bulunmak istese kime yapacak bunu? Ya da yasaklamak istese, neyi yasaklayacak? 
+Merkezi bir yapısı olmadan kuruldu Bitcoin; ne bir merkezi ofisi var, ne de onu temsil eden bir organizasyon. Dolayısıyla kanuni otoriteler ile çok alıp veremediği de yok. Aslında biraz da bu nedenle büyümesi saman altından su yürütür bir şekilde alttan alta gerçekleşti. Zira bir kanuni otorite "hey kendine çeki düzen ver" diye uyarıda bulunmak istese kime yapacak bunu? Ya da yasaklamak istese, neyi yasaklayacak? 
 
 #### Libra
 
