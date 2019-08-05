@@ -1,4 +1,4 @@
-Facebook'un yeni çıkaracağı Libra Blockchain ile ilgili olarak nedir, ne değildir geçtiğimiz yazıda [bahsetmiştik]. Yazımızdan bu yana pek çok gelişme oldu. Görünen o ki Libra'nın önündeki engellerin en büyüğü kanun koyuculardan gelecek. Gelin birlikte bakalım. 
+Facebook'un yeni çıkaracağı Libra Blockchain ile ilgili olarak nedir, ne değildir geçtiğimiz yazıda [bahsetmiştik](/genel/2019/07/03/facebookun-parasi-libra-ile-ilgili-tum-bilmek-isteyecekleriniz.html). Yazımızdan bu yana pek çok gelişme oldu. Görünen o ki Libra'nın önündeki engellerin en büyüğü kanun koyuculardan gelecek. Gelin birlikte bakalım. 
 
 ### Libra kimlerin ayak izini takip ediyor?
 
