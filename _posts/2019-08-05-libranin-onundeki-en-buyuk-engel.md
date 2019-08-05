@@ -5,7 +5,9 @@ date:   2019-08-05 12:42:56 +0300
 categories: Genel
 ---
 
-Facebook'un yeni çıkaracağı Libra Blockchain ile ilgili olarak nedir, ne değildir geçtiğimiz yazıda [bahsetmiştik](/genel/2019/07/03/facebookun-parasi-libra-ile-ilgili-tum-bilmek-isteyecekleriniz.html). Her proje gibi Libra'nın da önü belirsizlik ve engel dolu. Ve görünen o ki Libra'nın önündeki engellerin en büyüğü kanun koyuculardan gelecek. Geçmişte Libra gibi ödeme amaçlı kullanılan projeler var. Gelin önce Libra'yı yapısal olarak bu projeler ile karşılaştıralım sonrasında da Libra'nın kanuni olarak neden daha sıkıntılı yaşayabileceğini anlamaya çalışalım.  
+Facebook'un yeni çıkaracağı Libra Blockchain ile ilgili olarak nedir, ne değildir geçtiğimiz yazıda [bahsetmiştik](/genel/2019/07/03/facebookun-parasi-libra-ile-ilgili-tum-bilmek-isteyecekleriniz.html). Her proje gibi Libra'nın da önü belirsizlik ve engel dolu. Ve görünen o ki Libra'nın önündeki engellerin en büyüğü kanun koyuculardan gelecek. 
+
+Gelin önce Libra'yı geçmişte para transferi konusunda başarılı olmuş benzer projeler ile karşılaştıralım, sonrasında da kanuni açıdan Facebook'un bu projesinin neden daha sıkıntılı olduğunu anlamaya çalışalım.  
 
 ### Libra kimlerin ayak izini takip ediyor?
 
