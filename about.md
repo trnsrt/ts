@@ -25,7 +25,6 @@ Dağıtık (merkezi olmayan, adem-i merkezi) her tür teknoloji ve finans dünya
   - [Girişimler yeni teknolojiler ile nasıl demokratikleşiyor?](/genel/2018/05/21/girisimler-yeni-teknolijler-ile-nasil-demokratiklesiyor.html)
 - Dijital dünyada bireysel kullanım alanları için 
   - [Dijital kimliğinize iyi bakın](/genel/2019/03/01/dijital-kimliginize-iyi-bakin.html)
-  - [Facebook'un parası](/genel/2019/03/08/Facebookun-parasi.html)
 - Blockchain konusuna madalyonun öbür yüzünü de gözden kaçırmamak için 
   - [Blockchain her derde deva mı?](/genel/2018/08/03/blockchain-her-derde-deva-mi.html)
   - [Blockchain bulunduğum sektöre yarar mı?](/genel/2018/08/10/Blockchain-bulundugum-sektore-yarar-mi.html)
@@ -56,6 +55,13 @@ Dağıtık (merkezi olmayan, adem-i merkezi) her tür teknoloji ve finans dünya
   - En temel taşı olan Akıllı Kontratlar'ı anlamak için [Bu kontratlar çok akıllı: Ethereum ve Akıllı Kontratlar](/genel/2018/06/29/bu-kontratlar-cok-akilli-ethereum-ve-akilli-kontratlar.html)
   - Finans dünyasına getirdiği yenilikler için  [MakerDAO kredi kullanımında çığır açar mı?](/genel/2019/02/15/MakerDAO-kredi-kullaniminda-cigir-acar-mi.html)
 
+&nbsp;
+
+- Facebook’un çıkarmayı planladığı yeni para Libra’yı merak ediyorsanız
+  - [Facebook’un parası](/genel/2019/03/08/Facebookun-parasi.html)
+  - [Facebook’un parası Libra ile ilgili tüm bilmek isteyecekleriniz](/genel/2019/07/03/facebookun-parasi-libra-ile-ilgili-tum-bilmek-isteyecekleriniz.html)
+  - [Libra’nın önündeki en büyük engel](/genel/2019/08/05/libranin-onundeki-en-buyuk-engel.html)
+  
 &nbsp;
 
 - Yeni çıkan Token ve ICO piyasalarını daha yakından tanımak için
