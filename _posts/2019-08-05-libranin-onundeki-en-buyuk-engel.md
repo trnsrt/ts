@@ -73,4 +73,4 @@ Teknik olarak Libra ile ilgili çalışmaların daha başlangıç aşamasında o
 
 ### Sonuç
 
-Facebook Libra ile arı kovanına çomak soktu; işin içine para girdiğinde bir anda bütün dikkatler üzerlerine çevrildi. Her ne kadar Libra birliği gibi dağıtık bir yapı kurmuş olsalar da özünde merkezi bir yapıya sahipler. Bu nedenle kanun koyucular Facebook'un düşlediği vizyona ulaşmasının önündeki en büyük engel olacak gibi görünüyor. İlk adım olan piyasaya 2020 yılında çıkma hedefi oldukça iddialı. Gerçekleşecek mi hep birlikte göreceğiz. 
+Facebook Libra ile arı kovanına çomak soktu; işin içine para girdiğinde bir anda bütün dikkatler üzerine çevrildi. Her ne kadar Libra birliği gibi dağıtık bir yapı kurmuş olsalar da özünde merkezi bir yapıya sahipler. Bu nedenle kanun koyucular Facebook'un düşlediği vizyona ulaşmasının önündeki en büyük engel olacak gibi görünüyor. İlk adım olan piyasaya 2020 yılında çıkma hedefi oldukça iddialı. Gerçekleşecek mi hep birlikte göreceğiz. 
