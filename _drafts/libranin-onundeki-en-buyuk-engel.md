@@ -38,7 +38,7 @@ Aslında Facebook bu kanun koyucuların kendisine koyacağı engellerin gayet fa
 
 Öncelikle oyunu kuralların göre oynadılar. Kripto para ve Blockchain dünyasının en iyi modellerini örnek aldılar kendilerine. Bu arada kendilerini Libra'dan olabildiğince uzaklaştırmaya çalıştılar. Libra bir birlik olarak 27 ortak ile kuruldu. Ortak sayısı en az 100 olacak ve Libra'nın yönetiminde her bir ortağın %1'den fazla oyu olmayacak. 
 
-![libra_swiss.png](/assets/libra_swiss.png)
+![libra_swiss.png](/assets/libra_swiss_2.png)
 
 Peki Facebook parayı nereden kazanacak? Orada da Calibra, yani tamamı Facebook'a ait olan elektronik cüzdan ortaya çıkıyor. Facebook diyor ki "ben kullanıcılarıma Libra paralarını transfer etmeleri için Calibra'yı kullandıracağım". 
 
