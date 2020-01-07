@@ -2,5 +2,7 @@
 
 
 Bizde dijital paralar ne durumda?,
-[!https://twitter.com/naval/status/1135236914263384064?lang=en]
+
+![assets/Screen Shot 2020-01-07 at 1.16.33 PM.png](/assets/Screen Shot 2020-01-07 at 1.16.33 PM.png)
+
 
