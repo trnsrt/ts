@@ -71,7 +71,7 @@ Nakit para anonim olması nedeniyle takibi çok zor. Dijital olduğu noktada top
 
 Dijital paranın kullanımının fiziki paraya göre çok daha pratik ve hızlı olması nedeniyle ekonomiye ekstra likidite sağlayacağı da belirtiliyor. Ayrıca, hükümetlerin cezbeden bir başka etken özellikle uluslararası alanda kolay ve masrafsız kullanım özelliğinin kendi ülke paralarına yönelik talebi artıracağı beklentisi.  
 
-### Ne güzel herşey değil mı?
+### Ne güzel herşey değil mi?
 
 Buraya kadar yazılanlar çok güzel görünüyor değil mi? Ancak her şey o kadar toz pembe değil. Bir kaç kesim var bu konuda kaygılanması gereken. 
 
