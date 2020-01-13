@@ -1,6 +1,6 @@
 Ülke dijital paraları 
 
-Kripto değil ama dijital paralar alanındaki yarışa 2019 yılı ile birlikte devletler de dahil oldu. Gelin kısaca dijital paralara bakalım, sonra da devletler niye bu işe soyunuyor, kim neler yapıyor ona göz atalım. 
+Kripto değil ama dijital paralar alanındaki yarışa 2019 yılı ile birlikte devletler de dahil oldu. Gelin bu yazıda kısaca dijital ve kripto paralara devletler nasıl tepki vermiş görelim. Bir sonraki yazıda da ülke ulusal dijital paraları alanında kim ne yapmış ona bakarız. 
 
 ## Kripto paraları kim başlattı?
 
