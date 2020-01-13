@@ -71,7 +71,7 @@ Nakit para anonim olması nedeniyle takibi çok zor. Dijital olduğu noktada top
 
 Dijital paranın kullanımının fiziki paraya göre çok daha pratik ve hızlı olması nedeniyle ekonomiye ekstra likidite sağlayacağı da belirtiliyor. Ayrıca, hükümetlerin cezbeden bir başka etken özellikle uluslararası alanda kolay ve masrafsız kullanım özelliğinin kendi ülke paralarına yönelik talebi artıracağı beklentisi.  
 
- ### Ne güzel herşey değil mı?
+### Ne güzel herşey değil mı?
 
 Buraya kadar yazılanlar çok güzel görünüyor değil mi? Ancak her şey o kadar toz pembe değil. Bir kaç kesim var bu konuda kaygılanması gereken. 
 
@@ -81,13 +81,13 @@ Birincisi mevcut finansal sistemin içindeki bankalar ve diğer oyuncular. Zira 
 
 Devletlerin dijital paraların kullanımı ile ilgili gerekli mahremiyet önlemlerini almaları çok ama çok önemli. Devletlerin bu bilgilerin hem bireylere karşı kullanılmayacağı hem de uygun şekilde saklanması ve kötü amaçlı kişilerin eline geçmeyeceği konularında vatandaşlarına gerekli güvenceleri vermesi gerekiyor. 
 
-### Kimler yarışta şu anda?
+## Kimler yarışta şu anda?
 
 Şu aşamda yarışta en önde olan Çin. Bunun dışında Japonya, Fransa, Avrupa Birliği, Gana ve Tunus da bir şekilde dijital para ile ilgilendiklerini açıkladılar. 
 
 Bunun dışında “başkaları yapsın biz görelim” diyenler de var. Örneğin Rusya Merkez Bankası Başkanı Elvira Nabiullina (ki çok saygıdeğer bir hanımefendidir kendisi) genel olarak [konuya soğuk bakanlardan](https://decrypt.co/15930/head-of-russian-central-bank-lets-companies-test-stablecoins) 
 
-## Çin’in yaptıkları 
+### Çin’in yaptıkları 
 
 Çin’in hemen Facebook’un Libra’sından sonra yaptığı açıklamalarda kısaca DCEP (Digital Currency Electronic Payment- dijital para/elektronik ödeme) olarak adlandırılan dijital parasının mevcut kayıt parasının tıpatıp aynısı olarak onun yerine geçeceği söyleniyor. 
 
@@ -97,7 +97,7 @@ Ne işe yarayacağını söylüyorlar peki? Çinli yetkililere göre dijital par
 
 Çin’in dijital para ile ilgili iki test yapmaya çalıştığı [açıklandı 2019 yılının son ayında](https://www.coindesk.com/chinas-central-bank-likely-to-pilot-digital-currency-in-cities-of-shenzhen-and-suzhou-report). Dijital RMB (yuan) 2020’nin ilk yarısında Shenzen ve Suzhou şehirlerinde pilot kullanıma başlanacak. İlk aşamada ulaşım, eğitim ve sağlık alanında yapılacak testlerde ülkenin dört büyük ticari bankası kendi dizayn ettikleri kullanım senaryolarını deneyecekler.  20 Ocak’ta yapılan açıklamada da dijital paranın ana hatlarıyla [dizayn edildiği belirtildi](https://www.theblockcrypto.com/linked/52616/chinas-central-bank-says-it-has-completed-top-level-design-of-digital-currency)
 
-## Avrupa Birliği ve ABD neler yapıyor buna karşı?
+### Avrupa Birliği ve ABD neler yapıyor buna karşı?
 
 Çin’in dijital para alanındaki çalışmalarının özellikle uluslararası alanda ekonomik olarak yaratacağı avantajlar kendisine rakip ABD ve Avrupalı hükümetlerin gözünden kaçmıyor.
 
@@ -109,7 +109,7 @@ Amerika Birleşik Devletieri ise şu aşamada hala konuyu anlamaya çalışıyor
 
 ABD Doları’nın dünyaya hakim bir para olmasının kibiri seziliyor açıkcası Powell’in açıklamasında. Örneğin başka ülkelerde insanların hızla dijital paralara yöneldiklerinin halbuki ABD’de insanların nakit kullanmaya devam ettiğini söylüyor. Diğer ülkelerdeki ödeme sistemlerinin yavaş ve güvenilmez olduğunu bu nedenle dijital bir paranın bu ülkelerde yaşayanlar için bir avantaj olabileceğini ama kendi ülkelerinde böyle bir durum olmadığını belirtiyor. Çin’in global para olma çalışmalarındaki takındığı vizyon ile karşılaştırıldığında oldukça miyopik bir bakış açısı olduğu kesin. 
 
-## Türkiye’de durum ne?
+### Türkiye’de durum ne?
 Ülkemizde blokzincir ve dijital paralar konusunda toplum olarak bir ilgi var, ancak alınacak aksiyonlar henüz tam net değil. 2019 yılının Temmuz ayında yayınlanan 11. Kalkınma Planı’nda değinilen blokzincir tabanlı merkezi tabanlı dijital merkez bankası parası uygulamaya konulacaktır ibaresi ile dile getirilen niyet daha sonra Kasım ayında açıklanan 2020 Cumhurbaşkanlığı Yıllık Planı’na da konarak ciddiye binmiş durumda. Bu konuda en detaylı yazıyı [İsmail Hakkı Polat’ın kaleme aldığı yazıda](https://ismailhpolat.com/t%C3%BCrkiyenin-dijital-paras%C4%B1-4cd75e3f5f2) bulabilirsiniz - İsmail Hoca’ya göre Türkiye 2020 yılının içinde en azından merkez bankası dijital parasını test etmeye başlayacak. 
 
 Bunun yanında merkez bankası dijital parası olmasa da altına dayalı blok zincir tabanlı transfer platformu olan BIGA Takasbank tarafından 2019 yılının son günü [hizmete açıldı](https://www.takasbank.com.tr/tr/duyurular/duyuru-detay/takasbank-blokzincir-tabanli-transfer-platformu-biga-dijital-altin-ile-hizmete-girdi). 6 bankanın da ortak olduğu proje ile bir gram altına karşılık BIGA isimli bir dijital para çıkartılacak fiziki altının dijital hale getirilmesi ve djijtal olarak varlık transferi imkanı sağlanacak. Ülkemizde kripto para alanında farkındalık yaratmak ve bu alanda geleceğe dönük atılacak adımların ilki olarak desteklenmesi gereken önemli bir proje. 
