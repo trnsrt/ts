@@ -46,7 +46,7 @@ Neden sadece Libra’ya baskı koydular da diğer paralara koymuyorlar? Aslında
 
 Genelde bu aksiyonlar kara para aklanmasını önleme ile ilgili olarak yapıldı. Bizim gündelik hayatta kullandığımız itibari paralardan kripto para dünyasına geçiş artık eskisi kadar kolay değil ve çok sıkı denetim altında. Bunu herhangi bir kripto para borsasında hesap açtırmaya çalıştığınızda rahatlıkla görebilirsiniz. 
 
-Kimi devletler vatandaşların kripto paralara ulaşımını toptan yasaklamak gibi önlemler de alıyorlar (bakınız Hindistan) - tabii bu önlemler ne kadar gerçekçi ciddi olarak düşünülmeli. 
+Kimi devletler vatandaşların kripto paralara ulaşımını toptan yasaklamak gibi önlemler de alıyorlar (bakınız [Hindistan](https://www.entrepreneur.com/article/343604)) - tabii bu önlemler ne kadar gerçekçi ciddi olarak düşünülmeli. 
 
 Bunun dışında devletler daha da baskı kurup kripto paraları yasaklayamaz mı? En çok sorulan sorulardan biri. Evet, ABD hükümeti örneğin Libra’yı yasaklamak için Facebook’a baskı yapabilir. Peki ama Bitcoin’i nasıl yasaklayacak? Hangi nedene dayanarak yasaklayacak onu sorgulamıyorum bile ama diyelim bir neden buldular, yasaklamak için kime baskı yapacak? Neyi yasaklayacak? 
 
