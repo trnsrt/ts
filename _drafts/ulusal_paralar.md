@@ -114,6 +114,8 @@ ABD Doları’nın dünyaya hakim bir para olmasının kibiri seziliyor açıkca
 
 Bunun yanında merkez bankası dijital parası olmasa da altına dayalı blok zincir tabanlı transfer platformu olan BIGA Takasbank tarafından 2019 yılının son günü [hizmete açıldı](https://www.takasbank.com.tr/tr/duyurular/duyuru-detay/takasbank-blokzincir-tabanli-transfer-platformu-biga-dijital-altin-ile-hizmete-girdi). 6 bankanın da ortak olduğu proje ile bir gram altına karşılık BIGA isimli bir dijital para çıkartılacak fiziki altının dijital hale getirilmesi ve djijtal olarak varlık transferi imkanı sağlanacak. Ülkemizde kripto para alanında farkındalık yaratmak ve bu alanda geleceğe dönük atılacak adımların ilki olarak desteklenmesi gereken önemli bir proje. 
 
+---
+
 Bu konuda yazılmış farklı makaleler aşağıda: 
 
 
