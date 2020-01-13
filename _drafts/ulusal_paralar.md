@@ -117,21 +117,9 @@ Bunun yanında merkez bankası dijital parası olmasa da altına dayalı blok zi
 Bu konuda yazılmış farklı makaleler aşağıda: 
 
 
-https://ismailhpolat.com/t%C3%BCrkiyenin-dijital-paras%C4%B1-4cd75e3f5f2
+İsmail Hakkı Polat: [Türkiye'nin Dijital Parası](https://ismailhpolat.com/t%C3%BCrkiyenin-dijital-paras%C4%B1-4cd75e3f5f2)
+ve [Çin ne yapmak nereye varmak istiyor?](https://ismailhpolat.com/%C3%A7in-ne-yapmak-nereye-varmak-istiyor-50b4415c443d)
 
-https://ismailhpolat.com/%C3%A7in-ne-yapmak-nereye-varmak-istiyor-50b4415c443d
+Deniz Özgür: [Blöf mü, gerçek mi? Merkez Bankaları ve Kripto Para](https://medium.com/@denizozzgur/merkez-bankas%C4%B1-kripto-para-bas%C4%B1yor-bl%C3%B6f-m%C3%BC-ger%C3%A7ek-mi-63cbecc29962)
 
-https://medium.com/@denizozzgur/merkez-bankas%C4%B1-kripto-para-bas%C4%B1yor-bl%C3%B6f-m%C3%BC-ger%C3%A7ek-mi-63cbecc29962
-
-
-
-
-
-
-https://twitter.com/naval/status/1135236914263384064?lang=en
-
-
-| ![naval_on_bitcoin.png](/assets/naval_on_bitcoin.png) | 
-|:--:| 
-| *Türkçe meali: Geçtiğimiz on yılın en değerli girişimi hiç para toplamadı, çalışanı yok, sermaye artırım tablosunu baştan yayımladı ve isteyen herkesin kendisine yatırım yapmasına izin verdi  [Orjinali](https://twitter.com/naval/status/1135236914263384064?lang=en)* |
 
