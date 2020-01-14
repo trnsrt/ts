@@ -6,7 +6,7 @@ categories: Genel
 ---
 
 
-Kripto değil ama dijital paralar alanındaki yarışa 2019 yılı ile birlikte devletler de dahil oldu. Gelin bu yazıda kısaca dijital ve kripto paralara devletler nasıl tepki vermiş görelim. Bir sonraki yazıda da ülke ulusal dijital paraları alanında kim ne yapmış ona bakarız. 
+Kripto değil ama dijital paralar alanındaki yarışa 2019 yılı ile birlikte devletler de dahil oldu. Gelin bu yazıda kısaca dijital ve kripto paralara devletler nasıl tepki vermiş görelim. Bir sonraki [yazıda](/genel/2020/01/13/ulusal-dijital-paralar-II.html) da ülke ulusal dijital paraları alanında kim ne yapmış ona bakarız. 
 
 ## Kripto paraları kim başlattı?
 
@@ -56,4 +56,4 @@ Kimi devletler vatandaşların kripto paralara ulaşımını toptan yasaklamak g
 Bunun dışında devletler daha da baskı kurup kripto paraları yasaklayamaz mı? En çok sorulan sorulardan biri. Evet, ABD hükümeti örneğin Libra’yı yasaklamak için Facebook’a baskı yapabilir. Peki ama Bitcoin’i nasıl yasaklayacak? Hangi nedene dayanarak yasaklayacak onu sorgulamıyorum bile ama diyelim bir neden buldular, yasaklamak için kime baskı yapacak? Neyi yasaklayacak? 
 
 ### Arkası yarın
-Çok uzadığı için yazı ikiye bölündü. Ülkeler neden dijital para yarışına katıldı, hangi ülke ne yapıyor o da bir sonraki yazıda - o yazıda hemen [burada]
+Çok uzadığı için yazı ikiye bölündü. Ülkeler neden dijital para yarışına katıldı, hangi ülke ne yapıyor o da bir sonraki yazıda - o yazıda hemen [burada](/genel/2020/01/13/ulusal-dijital-paralar-II.html)
