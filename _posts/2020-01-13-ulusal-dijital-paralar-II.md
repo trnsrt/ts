@@ -5,6 +5,7 @@ date:   2020-01-13 12:42:56 +0300
 categories: Genel
 ---
 
+Önceki [yazımızda](/genel/2020/01/13/ulusal-dijital-paralar-I.html) devletlerin dijital para alanındaki gelişmelere verdikleri tepkilerden bahsetmiştik. Şimdi ise devletler neden dijital para basar, hangi devlet bu alanda ne yapıyor ona bakalım. 
 
 ## Ya yeni paralar?
 
