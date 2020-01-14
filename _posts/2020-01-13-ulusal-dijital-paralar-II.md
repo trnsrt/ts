@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Ulusal Dijital Paralar - II"
+date:   2020-01-13 12:42:56 +0300
+categories: Genel
+---
+
 
 ## Ya yeni paralar?
 
