@@ -1,5 +1,10 @@
+---
+layout: post
+title:  "Ulusal Dijital Paralar - I"
+date:   2020-01-13 12:42:56 +0300
+categories: Genel
+---
 
-Ülke dijital paraları 
 
 Kripto değil ama dijital paralar alanındaki yarışa 2019 yılı ile birlikte devletler de dahil oldu. Gelin bu yazıda kısaca dijital ve kripto paralara devletler nasıl tepki vermiş görelim. Bir sonraki yazıda da ülke ulusal dijital paraları alanında kim ne yapmış ona bakarız. 
 
