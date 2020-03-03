@@ -17,3 +17,9 @@ Blok zincir teknolojileri ilk olarak bankaların sunduğu güven ihtiyacına kar
 Bundan sonraki adımda bu teknolojilerin yavaş yavaş bankaların verdiği her tür servise göz dikeceğini görmek kahinlik sayılmaz. 
 
 Nereden başladı blok zincir bankalar ile rekabete? En basit ve en pahalı servisten. Neydi bu? SWIFT sistemi? Sınır ötesi para transferinin aslında bir yerden diğerine email göndermek kadar basit ve ucuz olmalı. Ama maalesef pahalı (50-100 ABD Doları), uzun süren (bir-iki gün), kimi zaman zor hatta imkansız (sistemsel ya da kanuni sorunlar ya da kullanıcının banka hesabının olmaması gibi nedenlerle). Elbette Bitcoin almak başlangıçta daha zor ve zahmetli ancak elinde Bitcoin olan birinin başka bir ülkedeki bir arkadaşına o parayı göndermesi 10 dakikalık bir süre (ya da çok rahat etmek isterseniz bir saat). Bitcoin çok dalgalı. O zaman sabit para (stable coin) kullanın?
+
+Evet işte en basit ve en pahalı olan hizmet ile başlayan bu "sızma" daha sonra yavaş yavaş diğer alanlara da kaymaya başladı. Henüz emekleme aşamasında girişimler. Örneğin kişilerin kendi kendilerine kredi yarattıkları sistem olan MakerDAO'yı eski bir yazımızda anlatmıştık. 
+
+## Arkası yarın
+
+Söz yine uzadı ancak şunu rahatlıkla görebiliyoruz. Dağıtık finans (Decentralized Finance - DeFi) olarak da adlandırdığımız bu hareket hızlanarak devam edecek (konu ile ilgili yazımıza şuradan ulaşabilirsiniz). Hangi alanlarda neler yapılıyor, sonraki yazılarımızda daha detaylı olarak bu DeFi hareketinin önemli aktörlerine bakacağız... 
