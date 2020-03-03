@@ -14,3 +14,6 @@ Finans dünyası için de benzer şekilde. Eskiden para ile ilgili işlemler iç
 
 Blok zincir teknolojileri ilk olarak bankaların sunduğu güven ihtiyacına karşılık verebilecek temel yetkinliğe karşılık verebilir hale geldiler. Bakmayın siz anlatılan onlarca korku hikayesine. Özellikle açık blok zincir teknolojilerinin en olgun hale gelmiş olanı Bitcoin son on yıldır tıkır tıkır işlediği için en azından güvenlik konusunda kendini bir hayli kanıtlamış durumda. 
 
+Bundan sonraki adımda bu teknolojilerin yavaş yavaş bankaların verdiği her tür servise göz dikeceğini görmek kahinlik sayılmaz. 
+
+Nereden başladı blok zincir bankalar ile rekabete? En basit ve en pahalı servisten. Neydi bu? SWIFT sistemi? Sınır ötesi para transferinin aslında bir yerden diğerine email göndermek kadar basit ve ucuz olmalı. Ama maalesef pahalı (50-100 ABD Doları), uzun süren (bir-iki gün), kimi zaman zor hatta imkansız (sistemsel ya da kanuni sorunlar ya da kullanıcının banka hesabının olmaması gibi nedenlerle). Elbette Bitcoin almak başlangıçta daha zor ve zahmetli ancak elinde Bitcoin olan birinin başka bir ülkedeki bir arkadaşına o parayı göndermesi 10 dakikalık bir süre (ya da çok rahat etmek isterseniz bir saat). Bitcoin çok dalgalı. O zaman sabit para (stable coin) kullanın?
