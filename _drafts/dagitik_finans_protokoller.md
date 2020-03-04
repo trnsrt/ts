@@ -18,3 +18,5 @@ Augur -  REP tokenholders earn fees in ETH (soon Dai) when they report honestly 
 Aave - fees are earned on loan origination which is split between lenders and the protocol. Protocol fees are used to burn LEND tokens
 
 Uniswap - all trading on Uniswap generates a fee distributed to the liquidity providers within each respective liquidity pool. 
+
+https://bankless.substack.com/p/are-defi-tokens-worth-buying 
