@@ -28,7 +28,7 @@ Birincisi kripto varlığa herhangi bir kişi size göndermediği durumda sahip 
 
 Peki kullanıcı açısından tam bağımsızlık iyi midir? Bu tamamen felsefi ve politik bir konu. 
 
-Bir tarafta özellikle Libertan kesim olarak bilinen ve hayatlarının tamamında bağımsızlık isteyen bir kesim, gerek devlet gerekse özel bireyler üzerinde kontrolü olan her güce karşı çıkıyor. Temel desturları, kontrol adı altında yapılan uygulamaların bireyin özgürlüğünü ihlal ettiğini düşünmeleri. 
+Bir tarafta özellikle liberter (Libertarian - özgürlükçü) kesim olarak bilinen ve yaşadıkların hayatın bütününde tam bağımsızlık isteyen bir kesim, gerek devlet gerekse özel bireyler üzerinde kontrolü olan her güce karşı çıkıyor. Temel desturları, kontrol adı altında yapılan uygulamaların bireyin özgürlüğünü ihlal ettiğini düşünmeleri. 
 
 Öte yandan bireye tam bir bağımsızlık verilen bir dünyanın, kötü niyetli kişi ya da kurumların rahatça at koşturduğu korkutucu bir dünya olduğunu düşünenler de var. Libertan'ların bu kişilere karşı en kuvvetli argümanı bu kişi ve kurumların zaten kontrollü olan mevcut dünyamızda da at koşturduğu şeklinde. Yani mevcutta en büyük dolandırıcılık hikayeleri aslında kripto para dünyasından değil gayet kontrollü olan bankacılık dünyasından çıkıyor. 
 
