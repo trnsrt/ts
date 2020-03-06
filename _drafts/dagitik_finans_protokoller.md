@@ -1,7 +1,11 @@
 
 ## DeFi (Decentralized Finans - Dağıtık Finans)'in amacı ne?
 
-DeFi protokollerinin amacı kullanıcıya toptan bir bağımsızlık vermek. Ne demek bu? 
+Blok zincir teknolojisi, bireylerin dijital dünyada gerçekleştirdiği ticari, ekonomik her tür ilişkide onlara aracılık eden kişi ve kurumları makineler ile değiştiriyor. Makineler derken bilgisayarlardan bahsediyoruz ama aslında onlar sadece bir araç. Aslında bunu yapan yazılımlar ve algoritmalar. 
+
+İşte DeFi (Decentralized Finance - Dağıtık Finans) olarak adlandırılan hareket insanlara bankaların verdiği hizmetleri merkezi olmayan makineler aracılığı ile vermeyi hedefliyor. 
+
+DeFi hareketini daha iyi anlamak için aslında öncesinde dijital dünyada varlık sahibi olmak ne demek, biraz daha iyi anlamakta fayda var. 
 
 ### Dijital dünyadaki varlıklarımızın gerçekten sahibi miyiz?
 
