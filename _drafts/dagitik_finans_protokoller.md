@@ -1,18 +1,40 @@
-Aslında DeFi protokollerinin yaptığı kullanıcıya toptan bir bağımsızlık vermek. Ne demek bu?  Kripto paraların en önemli özelliği aslında yaşadığımız dijital dünyada kullanıcı sahiplik konusunda tam bir bağımsızlık vermek. Biraz açalım: Gündelik hayatta paraya sahiplik bir banknotu elimizde tutmak ile oluyor. Dijital dünyaya geçtiğimizde, dijital paralar kullanmaya başlıyoruz. Nasıl? Bankalar aracılığıyla. Bankaya gidip para yatırıyoruz (ya da ne bileyim biri bir para gönderiyor ya da işvereniniz maaşınızı yatırıyor). Sonrasında aslında rakamlardan oluşan bu parayı internet üzerinden birilerine gönderiyor ya da kredi kartı harcamalarımızı ödeyerek kullanıyoruz. Dijital paraya sahip miyiz? Elbette. Ama ne kadar? 
 
-- Bankalar ile ihtilafa düşersek? Bankada bir sorun olursa? Mevduatımız üzerinden sigorta var (150,000 TL'ye kadar), bu parası olanı koruyor bir nebze. Ya üstüne? 
-- Paramızı istediğimiz yere gönderebiliyor muyuz? Belli kurallara bağlı olarak. Örneğin belli saatler içinde (EFT için örneğin). Ancak banka hesabı olan birine (her ne kadar bankaların yeni çıkardığı teknolojiler ile yavaş yavaş değişse de). Ülke dışında izin verilen coğrafyalara
+## DeFi (Decentralized Finans - Dağıtık Finans)'in amacı ne?
+
+DeFi protokollerinin amacı kullanıcıya toptan bir bağımsızlık vermek. Ne demek bu? 
+
+### Dijital dünyadaki varlıklarımızın gerçekten sahibi miyiz?
+
+Kripto paraların en önemli özelliği aslında yaşadığımız dijital dünya içinde kullanıcılara sahip oldukları varlıklar üzerinde tam bir bağımsızlık vermek. Biraz açalım: Gündelik hayatta paraya sahiplik bir banknotu elimizde tutmak ile oluyor (Paranın sahte olmadığını ve arkasında barındırdığı değerin karşılığını verebilecek olan bir merkez bankası olduğunu varsayıyoruz) 
+
+Dijital dünyaya geçtiğimizde ise kağıt para yerine dijital paralar kullanmaya başlıyoruz. Nasıl? Bankalar aracılığıyla. Bankaya gidip para yatırıyoruz (ya da ne bileyim biri bize bir para gönderiyor ya da işvereniniz maaşınızı yatırıyor). Sonrasında aslında rakamlardan oluşan bu dijital parayı internet üzerinden birilerine gönderiyor ya da kredi kartı harcamalarımızı ödeyerek kullanıyoruz. Dijital paraya sahip miyiz? Elbette. Ama ne kadar? 
+
+- Bankalar ile ihtilafa düşersek? Bankada bir sorun olursa? Mevduatımız üzerinden sigorta var (150,000 TL'ye kadar), bu parası olanı koruyor bir nebze. Ya daha fazlasını? 
+- Paramızı istediğimiz yere gönderebiliyor muyuz? Belli kurallara bağlı olarak, evet. Örneğin belli saatler içinde (EFT için örneğin). Ancak banka hesabı olan birine (her ne kadar bankaların yeni çıkardığı teknolojiler ile yavaş yavaş değişse de). Ülke dışında izin verilen coğrafyalara...
+
+### Dijital varlığa tam sahip olmak ne demek?
 
 Tam sahiplik ne demek? Bana ait olan varlığı istediğim zaman, istediğim kişiye, istediğim şekilde gönderebilmek. Ya da istemiyorsam o varlığı istediğim sürece elimde tutmam ve bu varlığın ben istemedikçe kimsenin benden alamaması. 
 
 İşte kripto paralar, yukarıda saydığımız sahiplik olayını kullanıcı lehine bir nebze ileriye götürdüler. Nasıl? Elektronik cüzdanlar ile artık paranın sahipliği tamamen kullanıcının elinde - hiç bir kuruma ihtiyacı olmadan paranın bende olduğuna emin olabilirim. Kripto paranın transferi? İstediğim zaman, istediğim kişiye dünyanın neresinde olursa olsun paramı gönderebilirim. 
 
+### Kripto paralar kullancıya tam sahiplik veriyor mu?
+
 Peki kripto paralar gelince kullanıcılar tam bağımsızlık elde ettiler mi? Bunu söyleyebilmek için henüz çok erken. Daha gidilecek çok yol var. Nerelerde sorun var?
 
 Birincisi kripto varlığa herhangi bir kişi size göndermediği durumda sahip olabilmenin yolu kripto para borsaları. Ancak özellikle büyük kripto paralarının tamamı merkezi yapılar. Bu ne demek? Kripto para dünyasının merkeziyetsiz yapısına ve felsefesine aykırılar. Ne olacak peki merkezi iseler? Merkezi yapıların barındırdığı tehlikelere açık olma riski taşıyorlar. Ve başlangıçta argümanımızda olduğu gibi parayı satın alma noktasında kullanıcının tam sahipliğine engeller. Hele hele satın aldıktan sonra parasını bu borsalarda tutanlar için risk sürekli hale geliyor. Bu dünyadaki en önemli düsturlardan biridir. Kripto paranız var ise size ait elektronik cüzdanlarda tutun. 
 
-Peki kullanıcı açısından tam bağımsızlık iyi midir? Bu tamamen felsefi ve politik bir konu. Bunu o alanda çalışanlara bırakıyoruz. 
+### Dijital dünyadaki varlıklara tam sahip olmak gerçekten önemli mi?
 
+Peki kullanıcı açısından tam bağımsızlık iyi midir? Bu tamamen felsefi ve politik bir konu. 
+
+Bir tarafta özellikle Libertan kesim olarak bilinen ve hayatlarının tamamında bağımsızlık isteyen bir kesim, gerek devlet gerekse özel bireyler üzerinde kontrolü olan her güce karşı çıkıyor. Temel desturları, kontrol adı altında yapılan uygulamaların bireyin özgürlüğünü ihlal ettiğini düşünmeleri. 
+
+Öte yandan bireye tam bir bağımsızlık verilen bir dünyanın, kötü niyetli kişi ya da kurumların rahatça at koşturduğu korkutucu bir dünya olduğunu düşünenler de var. Libertan'ların bu kişilere karşı en kuvvetli argümanı bu kişi ve kurumların zaten kontrollü olan mevcut dünyamızda da at koşturduğu şeklinde. Yani mevcutta en büyük dolandırıcılık hikayeleri aslında kripto para dünyasından değil gayet kontrollü olan bankacılık dünyasından çıkıyor. 
+
+Bu konuda verilen en can alıcı örneklerden biri Danimarka bazlı Danske Bank'ın Estonya şubesinin 2007 ile 2015 yılları arasında [tam 200 milyar ABD Doları şüpheli işlemi üzerinden geçirmiş olması](https://en.wikipedia.org/wiki/Danske_Bank_money_laundering_scandal). Avrupa Birliği gibi son derece regüle, düzgün işleyen bir bankacılık sisteminin olduğu bir alandan bahsediyoruz. 
+
+Konu üzerinde iki tarafın da argümanları böyle sürüp gidiyor. Tek bir gerçek ya da doğru da yok gibi görünüyor. Sonuçta bu bir güç mücadelesi şeklinde sürecek sanki. Tam bağımsızlık isteyen özellikle kripto alanındaki bireyler sınırları zorlamaya devam edecekler, devletler ve kanuni otoriteler teknolojiyi de kullanarak yavaş yavaş kısıtlamalara gidecekler, bu didişmenin bir sonucu muhtemelen olmayacak ancak hangi tarafın ağır basacağını hep birlikte ilerleyen yıllarda göreceğiz. 
 
 
 
