@@ -1,30 +1,36 @@
 
-Blok zincir teknolojisi, bireylerin dijital dünyada gerçekleştirdiği ticari, ekonomik her tür ilişkide onlara aracılık eden kişi ve kurumları makineler ile değiştiriyor. Makineler derken bilgisayarlardan bahsediyoruz ama aslında onlar sadece bir araç. Aslında bunu yapan yazılımlar ve algoritmalar. 
+Blok zincir teknolojisi, bireylerin dijital dünyada gerçekleştirdiği ticari, ekonomik her tür ilişkide onlara aracılık eden kişi ve kurumları makineler ile değiştiriyor. Makineler derken bilgisayarlardan bahsediyoruz ama onlar sadece bir araç. Aslında bunu gerçekleştiren yazılımlar ve algoritmalar. 
 
-İşte DeFi (Decentralized Finance - Dağıtık Finans) olarak adlandırılan hareket insanlara bankaların verdiği hizmetleri merkezi olmayan makineler aracılığı ile vermeyi hedefliyor. 
-
-DeFi hareketini daha iyi anlamak için aslında öncesinde dijital dünyada varlık sahibi olmak ne demek, biraz daha iyi anlamakta fayda var. 
+Bundan sonraki birkaç yazıda, dijital dünyada bankaların yerine geçmeye çalışan DeFi (Decentralized Finance - Dağıtık Finans) hareketine daha yakından bakacağız. Ama öncesinde dijital dünyada varlık sahibi olmak ne demek, bunu biraz daha iyi anlamakta fayda var. 
 
 ### Dijital dünyadaki varlıklarımızın gerçekten sahibi miyiz?
 
-Kripto paraların en önemli özelliği aslında yaşadığımız dijital dünya içinde kullanıcılara sahip oldukları varlıklar üzerinde tam bir bağımsızlık vermek. Biraz açalım: Gündelik hayatta paraya sahiplik bir banknotu elimizde tutmak ile oluyor (Paranın sahte olmadığını ve arkasında barındırdığı değerin karşılığını verebilecek olan bir merkez bankası olduğunu varsayıyoruz) 
+Kripto paraların en önemli özelliği aslında yaşadığımız dijital dünya içinde kullanıcılara sahip oldukları varlıklar üzerinde tam bir bağımsızlık vermek. Biraz açalım: 
+
+Gündelik hayatta paraya sahiplik bir banknotu elimizde tutmak ile oluyor (Paranın sahte olmadığını ve arkasında barındırdığı değerin karşılığını verebilecek olan bir merkez bankası olduğunu varsayıyoruz) 
 
 Dijital dünyaya geçtiğimizde ise kağıt para yerine dijital paralar kullanmaya başlıyoruz. Nasıl? Bankalar aracılığıyla. Bankaya gidip para yatırıyoruz (ya da ne bileyim biri bize bir para gönderiyor ya da işvereniniz maaşınızı yatırıyor). Sonrasında aslında rakamlardan oluşan bu dijital parayı internet üzerinden birilerine gönderiyor ya da kredi kartı harcamalarımızı ödeyerek kullanıyoruz. Dijital paraya sahip miyiz? Elbette. Ama ne kadar? 
 
 - Bankalar ile ihtilafa düşersek? Bankada bir sorun olursa? Mevduatımız üzerinden sigorta var (150,000 TL'ye kadar), bu parası olanı koruyor bir nebze. Ya daha fazlasını? 
-- Paramızı istediğimiz yere gönderebiliyor muyuz? Belli kurallara bağlı olarak, evet. Örneğin belli saatler içinde (EFT için örneğin). Ancak banka hesabı olan birine (her ne kadar bankaların yeni çıkardığı teknolojiler ile yavaş yavaş değişse de). Ülke dışında izin verilen coğrafyalara...
+- Paramızı istediğimiz yere gönderebiliyor muyuz? Belli kurallara ve kısıtlara bağlı olarak, evet. Örneğin belli saatler içinde (EFT için örneğin). Ancak banka hesabı olan birine (her ne kadar bankaların yeni çıkardığı teknolojiler ile yavaş yavaş değişse de). Ülke dışında izin verilen coğrafyalara.
+
+Yani bir sahiplik söz konusu ama tam bir sahiplikten bahsetmek oldukça zor. 
 
 ### Dijital varlığa tam sahip olmak ne demek?
 
-Tam sahiplik ne demek? Bana ait olan varlığı istediğim zaman, istediğim kişiye, istediğim şekilde gönderebilmek. Ya da istemiyorsam o varlığı istediğim sürece elimde tutmam ve bu varlığın ben istemedikçe kimsenin benden alamaması. 
+Tam sahiplik ne demek? Bana ait olan varlık ile ilgili her türlü tasarrufa sahip olmak. Yani istediğim zaman, istediğim kişiye, istediğim şekilde gönderebilmek. Ya da istemiyorsam o varlığı istediğim sürece elimde tutmak ve bu varlığın ben istemedikçe kimsenin benden hiçbir koşulda alamaması. 
 
-İşte kripto paralar, yukarıda saydığımız sahiplik olayını kullanıcı lehine bir nebze ileriye götürdüler. Nasıl? Elektronik cüzdanlar ile artık paranın sahipliği tamamen kullanıcının elinde - hiç bir kuruma ihtiyacı olmadan paranın bende olduğuna emin olabilirim. Kripto paranın transferi? İstediğim zaman, istediğim kişiye dünyanın neresinde olursa olsun paramı gönderebilirim. 
+İşte kripto paralar, yukarıda saydığımız sahiplik olayını kullanıcı lehine bir nebze ileriye götürdüler. Nasıl? 
 
-### Kripto paralar kullancıya tam sahiplik veriyor mu?
+Elektronik cüzdanlar ile artık paranın sahipliği tamamen kullanıcının elinde - hiç bir kuruma ihtiyaç duymadan paranın bende olduğuna emin olabilirim ve istediğim zaman bunu kanıtlayabilirim. Zira sistemde duran parayı üzerindeki her tür hak anahtarları bende olduğu sürece bana ait. 
+
+Ya o paranın başkasına transferi? İstediğim zaman, istediğim kişiye dünyanın neresinde olursa olsun paramı gönderebilirim. 
+
+### Kripto paralar kullanıcıya tam sahiplik veriyor mu?
 
 Peki kripto paralar gelince kullanıcılar tam bağımsızlık elde ettiler mi? Bunu söyleyebilmek için henüz çok erken. Daha gidilecek çok yol var. Nerelerde sorun var?
 
-Birincisi kripto varlığa herhangi bir kişi size göndermediği durumda sahip olabilmenin yolu kripto para borsaları. Ancak özellikle büyük kripto paralarının tamamı merkezi yapılar. Bu ne demek? Kripto para dünyasının merkeziyetsiz yapısına ve felsefesine aykırılar. Ne olacak peki merkezi iseler? Merkezi yapıların barındırdığı tehlikelere açık olma riski taşıyorlar. Ve başlangıçta argümanımızda olduğu gibi parayı satın alma noktasında kullanıcının tam sahipliğine engeller. Hele hele satın aldıktan sonra parasını bu borsalarda tutanlar için risk sürekli hale geliyor. Bu dünyadaki en önemli düsturlardan biridir. Kripto paranız var ise size ait elektronik cüzdanlarda tutun. 
+Birincisi herhangi kripto varlığa - bir kişinin size direkt olarak göndermesi dışında -  sahip olabilmenin yolu kripto para borsaları. Ancak özellikle büyük kripto paralarının tamamı merkezi yapılar. Yani kripto para dünyasının merkeziyetsiz yapısına ve felsefesine aykırı oluşumlar. Ne olacak peki merkezi iseler? Merkezi yapıların barındırdığı tehlikelere açık olma riskini taşıyorlar. Ve başlangıçta argümanımızda olduğu gibi parayı satın alma noktasında kullanıcının tam sahipliğini engelliyorlar. Hele hele satın aldıktan sonra parasını bu borsalarda tutanlar için risk sürekli hale geliyor. Bu dünyadaki en önemli düsturlardan biridir: Kripto paranız var ise size ait elektronik cüzdanlarda tutun, borsalarda değil. 
 
 İkincisi hep söylediğimiz gibi kripto para teknolojileri çok yeni. Konuya yakın olup inceleyenlerin bile çok anlamadığı teknik ayrıntılar ile dolu. Ne kadar teknik ve karmaşık ise, sorun çıkma ihtimali o kadar yüksek. Dışarıdan bunları anlamak çok zor. Bir de ne kadar uzun süredir etrafta ise göreceli olarak diğerlerine göre o kadar kendini kanıtlamış oluyor bu paralar. Dolayısıyla tarihçesi ve göreceli en basit yazılıma (ve en az fonksiyona) sahip olması nedeniyle Bitcoin bu anlamda diğer kripto paralardan bir adım önde görünüyor. 
 
@@ -42,3 +48,6 @@ Konu üzerinde iki tarafın da argümanları böyle sürüp gidiyor. Tek bir ger
 
 ## Arkası yarın
 İşte dijital dünyadaki varlıklarımızı üzerinde tam sahiplik vermeye çalışan 
+
+İşte DeFi (Decentralized Finance - Dağıtık Finans) olarak adlandırılan hareket insanlara bankaların verdiği hizmetleri merkezi olmayan makineler aracılığı ile vermeyi hedefliyor. 
+
