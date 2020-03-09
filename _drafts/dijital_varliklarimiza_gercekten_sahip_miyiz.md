@@ -44,10 +44,8 @@ Bir tarafta özellikle [liberter (Libertarian - özgürlükçü) kesim olarak bi
 
 Baktığınızda günümüzde en büyük dolandırıcılık hikayeleri aslında kripto para dünyasından değil gayet kontrollü olan bankacılık dünyasından çıkıyor. Bu konuda verilen en can alıcı örneklerden biri Danimarka bazlı Danske Bank'ın Estonya şubesinin 2007 ile 2015 yılları arasında [tam 200 milyar ABD Doları şüpheli işlemi üzerinden geçirmiş olması](https://en.wikipedia.org/wiki/Danske_Bank_money_laundering_scandal). Dikkat edin, Avrupa Birliği gibi son derece regüle, düzgün işleyen bir bankacılık sisteminin olduğu bir yerden bahsediyoruz. 
 
-Konu üzerinde iki tarafın da argümanları böyle sürüp gidiyor. Tek bir gerçek ya da doğru da yok gibi görünüyor. Sonuçta bu bir güç mücadelesi şeklinde sürecek sanki. Tam bağımsızlık isteyen özellikle kripto alanındaki bireyler sınırları zorlamaya devam edecekler, devletler ve kanuni otoriteler teknolojiyi de kullanarak yavaş yavaş kısıtlamalara gidecekler, bu didişmenin bir sonucu muhtemelen olmayacak ancak hangi tarafın ağır basacağını hep birlikte ilerleyen yıllarda göreceğiz. 
+Konu üzerinde iki tarafın da argümanları böyle sürüp gidiyor. Tek bir gerçek ya da doğru da yok gibi görünüyor. Sonuçta bu bir güç mücadelesi şeklinde sürecek sanki. Tam bağımsızlık isteyen özellikle kripto alanındaki bireyler sınırları zorlamaya devam edecekler, devletler ve kanuni otoriteler teknolojiyi de kullanarak yavaş yavaş kısıtlamalara gidecekler, bu didişmenin kesin bir kazananı muhtemelen olmayacak ancak hangi tarafın daha ağır basacağını hep birlikte ilerleyen yıllarda göreceğiz. 
 
 ## Arkası yarın
-İşte dijital dünyadaki varlıklarımızı üzerinde tam sahiplik vermeye çalışan 
-
-İşte DeFi (Decentralized Finance - Dağıtık Finans) olarak adlandırılan hareket insanlara bankaların verdiği hizmetleri merkezi olmayan makineler aracılığı ile vermeyi hedefliyor. 
+Dijital dünyada kişilerin sahipliğini bir parça daha artırmayı hedefleyen DeFi hareketinin temel çıkış noktası işte bu. Bundan sonraki yazılarımızda bu harekete ve aktörlerine daha yakından bakacağız. 
 
