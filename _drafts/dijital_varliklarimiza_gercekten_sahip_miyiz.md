@@ -1,20 +1,22 @@
 
-Blok zincir teknolojisi, bireylerin dijital dünyada gerçekleştirdiği ticari, ekonomik her tür ilişkide onlara aracılık eden kişi ve kurumları makineler ile değiştiriyor. Makineler derken bilgisayarlardan bahsediyoruz ama onlar sadece bir araç. Aslında bunu gerçekleştiren yazılımlar ve algoritmalar. 
+Blokzincir teknolojisi, bireylerin dijital dünyada gerçekleştirdiği ticari, ekonomik her tür ilişkide onlara aracılık eden kişi ve kurumları makineler ile değiştiriyor. Makineler derken bilgisayarlardan bahsediyoruz ama onlar sadece bir araç. Aslında bunu gerçekleştiren yazılımlar ve algoritmalar. 
 
 Bundan sonraki birkaç yazıda, dijital dünyada bankaların yerine geçmeye çalışan DeFi (Decentralized Finance - Dağıtık Finans) hareketine daha yakından bakacağız. Ama öncesinde dijital dünyada varlık sahibi olmak ne demek, bunu biraz daha iyi anlamakta fayda var. 
 
 ### Dijital dünyadaki varlıklarımızın gerçekten sahibi miyiz?
 
-Kripto paraların en önemli özelliği aslında yaşadığımız dijital dünya içinde kullanıcılara sahip oldukları varlıklar üzerinde tam bir bağımsızlık vermek. Biraz açalım: 
+Kripto paraların en önemli özelliği yaşadığımız dijital dünya içinde kullanıcılara sahip oldukları varlıklar üzerinde tam bir bağımsızlık vermek. Ne demek tam olarak bu? Biraz açalım: 
 
-Gündelik hayatta paraya sahiplik bir banknotu elimizde tutmak ile oluyor (Paranın sahte olmadığını ve arkasında barındırdığı değerin karşılığını verebilecek olan bir merkez bankası olduğunu varsayıyoruz) 
+Gündelik hayatta paraya sahiplik bir banknotu elimizde tutmak ile oluyor (Paranın sahte olmadığını ve arkasında barındırdığı değerin karşılığını verebilecek olan bir merkez bankası olduğunu varsayıyoruz). Dijital dünyaya geçtiğimizde ise kağıt para yerine dijital paralar kullanmaya başlıyoruz. Nasıl? Bankalar aracılığıyla:
 
-Dijital dünyaya geçtiğimizde ise kağıt para yerine dijital paralar kullanmaya başlıyoruz. Nasıl? Bankalar aracılığıyla. Bankaya gidip para yatırıyoruz (ya da ne bileyim biri bize bir para gönderiyor ya da işvereniniz maaşınızı yatırıyor). Sonrasında aslında rakamlardan oluşan bu dijital parayı internet üzerinden birilerine gönderiyor ya da kredi kartı harcamalarımızı ödeyerek kullanıyoruz. Dijital paraya sahip miyiz? Elbette. Ama ne kadar? 
+Bankaya gidip para yatırıyoruz (ya da ne bileyim biri bize bir para gönderiyor ya da işvereniniz maaşınızı yatırıyor). Sonrasında aslında rakamlardan oluşan bu dijital parayı internet üzerinden birilerine gönderiyor ya da kredi kartı harcamalarımızı ödeyerek kullanıyoruz. 
 
-- Bankalar ile ihtilafa düşersek? Bankada bir sorun olursa? Mevduatımız üzerinden sigorta var (150,000 TL'ye kadar), bu parası olanı koruyor bir nebze. Ya daha fazlasını? 
-- Paramızı istediğimiz yere gönderebiliyor muyuz? Belli kurallara ve kısıtlara bağlı olarak, evet. Örneğin belli saatler içinde (EFT için örneğin). Ancak banka hesabı olan birine (her ne kadar bankaların yeni çıkardığı teknolojiler ile yavaş yavaş değişse de). Ülke dışında izin verilen coğrafyalara.
+Peki, dijital paraya gerçekten sahip miyiz? Elbette. Ama bir yere kadar: 
 
-Yani bir sahiplik söz konusu ama tam bir sahiplikten bahsetmek oldukça zor. 
+- Olur da banka ile ihtilafa düşersek? Bankalarda bir sorun olursa? Mevduatımız üzerinden sigorta var (150,000 TL'ye kadar), bu parası olanı koruyor bir nebze. Ya daha fazlasını? 
+- Paramızı istediğimiz yere gönderebiliyor muyuz? Belli kurallara ve kısıtlara bağlı olarak, evet. Örneğin belli saatler içinde (EFT için örneğin). Yalnızca banka hesabı olan birine (her ne kadar bankaların yeni çıkardığı teknolojiler ile yavaş yavaş değişse de). Ülke dışına sadece izin verilen coğrafyalara. Yani canımız istediği saatte canımızın istediğine göndermek yok. 
+
+Evet, bir sahiplik söz konusu ama tam bir sahiplikten bahsetmek oldukça zor. 
 
 ### Dijital varlığa tam sahip olmak ne demek?
 
@@ -30,15 +32,17 @@ Ya o paranın başkasına transferi? İstediğim zaman, istediğim kişiye düny
 
 Peki kripto paralar gelince kullanıcılar tam bağımsızlık elde ettiler mi? Bunu söyleyebilmek için henüz çok erken. Daha gidilecek çok yol var. Nerelerde sorun var?
 
-Birincisi herhangi kripto varlığa - bir kişinin size direkt olarak göndermesi dışında -  sahip olabilmenin yolu kripto para borsaları. Ancak özellikle büyük kripto paralarının tamamı merkezi yapılar. Yani kripto para dünyasının merkeziyetsiz yapısına ve felsefesine aykırı oluşumlar. Ne olacak peki merkezi iseler? Merkezi yapıların barındırdığı tehlikelere açık olma riskini taşıyorlar. Ve başlangıçta argümanımızda olduğu gibi parayı satın alma noktasında kullanıcının tam sahipliğini engelliyorlar. Hele hele satın aldıktan sonra parasını bu borsalarda tutanlar için risk sürekli hale geliyor. Bu dünyadaki en önemli düsturlardan biridir: Kripto paranız var ise size ait elektronik cüzdanlarda tutun, borsalarda değil. 
+Birincisi herhangi kripto varlığa - bir kişinin size direkt olarak göndermesi dışında -  sahip olabilmenin yolu kripto para borsaları. Ancak özellikle büyük kripto paralarının tamamı merkezi yapılar. Yani kripto para dünyasının merkeziyetsiz yapısına ve felsefesine aykırı oluşumlar. 
 
-İkincisi hep söylediğimiz gibi kripto para teknolojileri çok yeni. Konuya yakın olup inceleyenlerin bile çok anlamadığı teknik ayrıntılar ile dolu. Ne kadar teknik ve karmaşık ise, sorun çıkma ihtimali o kadar yüksek. Dışarıdan bunları anlamak çok zor. Bir de ne kadar uzun süredir etrafta ise göreceli olarak diğerlerine göre o kadar kendini kanıtlamış oluyor bu paralar. Dolayısıyla tarihçesi ve göreceli en basit yazılıma (ve en az fonksiyona) sahip olması nedeniyle Bitcoin bu anlamda diğer kripto paralardan bir adım önde görünüyor. 
+Ne olacak peki merkezi iseler, nesi sorun bunun? Kullanıcılara ait yüklü miktarda para taşıyorlar, bu da onları dış dünyadaki kurtlar için lezzetli bir ava dönüştürüyor . Özellikle işlem yaptıktan sonra ellerinde kalan kripto paraları bu borsalarda tutanlar için risk sürekli hale geliyor. Bu dünyadaki en önemli düsturlardan biridir: Kripto paranız var ise size ait elektronik cüzdanlarda tutun, borsalarda değil. 
+
+İkincisi hep söylediğimiz gibi kripto para teknolojileri çok yeni. Konuya yakın olup inceleyenlerin bile çok anlamadığı teknik ayrıntılar ile dolu. Ne kadar teknik ve karmaşık ise, sorun çıkma ihtimali o kadar yüksek. Dışarıdan bunları anlamak çok zor. Bir de bu paralar ne kadar uzun süredir etrafta ise göreceli olarak diğerlerine göre o kadar kendini kanıtlamış sayılıyor. Dolayısıyla tarihçesi ve göreceli en basit yazılıma (aynı zamanda en az fonksiyona) sahip olması nedeniyle Bitcoin bu anlamda diğer kripto paralardan bir adım önde görünüyor. 
 
 ### Dijital dünyadaki varlıklara tam sahip olmak gerçekten önemli mi?
 
 Peki kullanıcı açısından tam bağımsızlık iyi midir? Bu aslında bir parça felsefi ve politik bir konu. 
 
-Bir tarafta özellikle [liberter (Libertarian - özgürlükçü) kesim olarak bilinen](https://en.wikipedia.org/wiki/Libertarianism) ve hayatlarının her alanında tam bağımsızlık isteyen bir kesim var. Bunlar gerek devlet gerekse özel bireyler üzerinde kontrolü olan her güce karşı çıkıyorlar. Nedeni, kontrol adı altında yapılan uygulamaların bireyin özgürlüğünü ihlal ettiğini düşünmeleri. Ve bu kesimin kripto dünyasında hatırı sayılır bir ağırlığı var. 
+Bir tarafta özellikle [liberter (Libertarian - özgürlükçü) kesim olarak bilinen](https://en.wikipedia.org/wiki/Libertarianism) ve hayatlarının her alanında tam bağımsızlık isteyen bir kesim var. Bunlar gerek devlet gerekse özel bireyler üzerinde kontrolü olan her güce karşı çıkıyorlar. Nedeni, "kontrol/düzenleme" adı altında yapılan uygulamaların bireyin özgürlüğünü ihlal ettiğini düşünmeleri. Ve bu kesimin kripto dünyasında hatırı sayılır bir ağırlığı var. 
 
 Öte yandan bireye tam bağımsızlık verilen bir dünyanın, kötü niyetli kişi ya da kurumların rahatça at koşturduğu korkutucu bir dünya olduğunu düşünenler de var. Liberterler'in bu kişilere karşı en kuvvetli argümanı kötü niyetli kişi ve kurumların zaten  mevcut dünyamızda da yeterince at koşturduğu ve kontrolün aslında çok da sonuç vermediği yönünde. 
 
