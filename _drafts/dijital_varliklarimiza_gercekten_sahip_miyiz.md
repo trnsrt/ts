@@ -1,4 +1,8 @@
 
+Dijital dünyada varlık sahibi olmak ve onu elinde tutmak zor. Kripto paralar bu anlamda bireylere yeni güçler veriyor. Bu gücü daha da artırmak isteyenler var. Gelin bu yazıda varlık ve güç sahibi olmak ne demek ona bakalım, sonraki yazılarda kim bize nasıl yardım etmeye çalışıyor onu göz atarız.
+
+**
+
 Blokzincir teknolojisi, bireylerin dijital dünyada gerçekleştirdiği ticari, ekonomik her tür ilişkide onlara aracılık eden kişi ve kurumları makineler ile değiştiriyor. Makineler derken bilgisayarlardan bahsediyoruz ama onlar sadece bir araç. Aslında bunu gerçekleştiren yazılımlar ve algoritmalar. 
 
 Bundan sonraki birkaç yazıda, dijital dünyada bankaların yerine geçmeye çalışan DeFi (Decentralized Finance - Dağıtık Finans) hareketine daha yakından bakacağız. Ama öncesinde dijital dünyada varlık sahibi olmak ne demek, bunu biraz daha iyi anlamakta fayda var. 
