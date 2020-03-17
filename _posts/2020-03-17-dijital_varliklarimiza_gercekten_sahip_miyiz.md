@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Dijital varlıklarımıza gerçekten sahip miyiz?"
+date:   2020-03-17 12:47:56 +0300
+categories: Genel
+---
 
 Dijital dünyada varlık sahibi olmak ve onu elinde tutmak zor. Kripto paralar bu anlamda bireylere yeni güçler veriyor. Bu gücü daha da artırmak isteyenler var. Gelin bu yazıda varlık ve güç sahibi olmak ne demek ona bakalım, sonraki yazılarda kim bize nasıl yardım etmeye çalışıyor onu göz atarız.
 
