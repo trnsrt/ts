@@ -47,6 +47,12 @@ Ya o paranın başkasına transferi? İstediğim zaman, istediğim kişiye düny
 
 Peki kripto paralar gelince kullanıcılar tam bağımsızlık elde ettiler mi? Bunu söyleyebilmek için henüz çok erken. Daha gidilecek çok yol var. Nerelerde sorun var?
 
+
+| ![skatebirding-1704466_1280](/assets/skatebirding-1704466_1280) | 
+|:--:| 
+| *Kripto paralar ile özgürlük tam da yukarıdaki gibi bir his yaratıyor. Her an düşecekmişsiniz gibi - [Kaynak](https://pixabay.com/photos/skatebirding-freedom-eagle-fly-e-1704466/)* |
+
+
 Birincisi herhangi kripto varlığa - bir kişinin size direkt olarak göndermesi dışında -  sahip olabilmenin yolu kripto para borsaları. Ancak özellikle büyük kripto paralarının tamamı merkezi yapılar. Yani kripto para dünyasının merkeziyetsiz yapısına ve felsefesine aykırı oluşumlar. 
 
 Ne olacak peki merkezi iseler, nesi sorun bunun? Kullanıcılara ait yüklü miktarda para taşıyorlar, bu da onları dış dünyadaki kurtlar için lezzetli bir ava dönüştürüyor . Özellikle işlem yaptıktan sonra ellerinde kalan kripto paraları bu borsalarda tutanlar için risk sürekli hale geliyor. Bu dünyadaki en önemli düsturlardan biridir: Kripto paranız var ise size ait elektronik cüzdanlarda tutun, borsalarda değil. 
