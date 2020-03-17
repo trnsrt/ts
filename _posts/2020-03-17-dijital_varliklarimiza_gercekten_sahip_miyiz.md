@@ -48,7 +48,7 @@ Ya o paranın başkasına transferi? İstediğim zaman, istediğim kişiye düny
 Peki kripto paralar gelince kullanıcılar tam bağımsızlık elde ettiler mi? Bunu söyleyebilmek için henüz çok erken. Daha gidilecek çok yol var. Nerelerde sorun var?
 
 
-| ![skatebirding-1704466_1280](/assets/skatebirding-1704466_1280) | 
+| ![skatebirding-1704466_1280.jpg](/assets/skatebirding-1704466_1280.jpg) | 
 |:--:| 
 | *Kripto paralar ile özgürlük tam da yukarıdaki gibi bir his yaratıyor. Her an düşecekmişsiniz gibi - [Kaynak](https://pixabay.com/photos/skatebirding-freedom-eagle-fly-e-1704466/)* |
 
