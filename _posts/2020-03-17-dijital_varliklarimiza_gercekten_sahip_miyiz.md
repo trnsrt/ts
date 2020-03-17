@@ -50,7 +50,7 @@ Peki kripto paralar gelince kullanıcılar tam bağımsızlık elde ettiler mi? 
 
 | ![skatebirding-1704466_1280.jpg](/assets/skatebirding-1704466_1280.jpg) | 
 |:--:| 
-| *Kripto paralar ile özgürlük tam da yukarıdaki gibi bir his yaratıyor. Her an düşecekmişsiniz gibi*  *[Kaynak](https://pixabay.com/photos/skatebirding-freedom-eagle-fly-e-1704466/)* |
+| *Kripto paralar ile özgürlük tam da yukarıdaki gibi bir his yaratıyor. Her an düşecekmişsiniz gibi...*  *[Kaynak](https://pixabay.com/photos/skatebirding-freedom-eagle-fly-e-1704466/)* |
 
 
 Birincisi herhangi kripto varlığa - bir kişinin size direkt olarak göndermesi dışında -  sahip olabilmenin yolu kripto para borsaları. Ancak özellikle büyük kripto paralarının tamamı merkezi yapılar. Yani kripto para dünyasının merkeziyetsiz yapısına ve felsefesine aykırı oluşumlar. 
