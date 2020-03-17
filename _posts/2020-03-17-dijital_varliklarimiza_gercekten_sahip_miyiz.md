@@ -19,7 +19,8 @@ Kripto paraların en önemli özelliği yaşadığımız dijital dünya içinde 
 
 | ![holding-1149521_1280.jpg](/assets/holding-1149521_1280.jpg) | 
 |:--:| 
-| *Dijital dünyada varlık tutmak her an elinden kayacakmış hissi uyandırmıyor mu? [Kaynak](https://pixabay.com/photos/holding-bird-winter-landscape-1149521/)* |
+| *Dijital dünyada varlık tutmak her an elinden kayacakmış hissi uyandırmıyor mu?
+[Kaynak](https://pixabay.com/photos/holding-bird-winter-landscape-1149521/)* |
 
 
 Gündelik hayatta paraya sahiplik bir banknotu elimizde tutmak ile oluyor (Paranın sahte olmadığını ve arkasında barındırdığı değerin karşılığını verebilecek olan bir merkez bankası olduğunu varsayıyoruz). Dijital dünyaya geçtiğimizde ise kağıt para yerine dijital paralar kullanmaya başlıyoruz. Nasıl? Bankalar aracılığıyla:
