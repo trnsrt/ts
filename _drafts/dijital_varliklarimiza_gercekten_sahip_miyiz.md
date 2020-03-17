@@ -38,7 +38,7 @@ Ne olacak peki merkezi iseler, nesi sorun bunun? Kullanıcılara ait yüklü mik
 
 İkincisi hep söylediğimiz gibi kripto para teknolojileri çok yeni. Konuya yakın olup inceleyenlerin bile çok anlamadığı teknik ayrıntılar ile dolu. Ne kadar teknik ve karmaşık ise, sorun çıkma ihtimali o kadar yüksek. Dışarıdan bunları anlamak çok zor. Bir de bu paralar ne kadar uzun süredir etrafta ise göreceli olarak diğerlerine göre o kadar kendini kanıtlamış sayılıyor. Dolayısıyla tarihçesi ve göreceli en basit yazılıma (aynı zamanda en az fonksiyona) sahip olması nedeniyle Bitcoin bu anlamda diğer kripto paralardan bir adım önde görünüyor. 
 
-### Dijital dünyadaki varlıklara tam sahip olmak gerçekten önemli mi?
+### Dijital varlıklara tam sahiplik gerçekten önemli mi?
 
 Peki kullanıcı açısından tam bağımsızlık iyi midir? Bu aslında bir parça felsefi ve politik bir konu. 
 
