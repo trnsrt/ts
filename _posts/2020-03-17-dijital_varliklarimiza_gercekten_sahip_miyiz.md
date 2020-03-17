@@ -19,7 +19,7 @@ Kripto paraların en önemli özelliği yaşadığımız dijital dünya içinde 
 
 | ![holding-1149521_1280.jpg](/assets/holding-1149521_1280.jpg) | 
 |:--:| 
-| *Dijital dünyada varlık tutmak her an elinden kayacakmış hissi uyandırmıyor mu? - [Kaynak](https://pixabay.com/photos/holding-bird-winter-landscape-1149521/)* |
+| *Dijital dünyada varlık tutmak her an elinden kayacakmış hissi uyandırmıyor mu? [Kaynak](https://pixabay.com/photos/holding-bird-winter-landscape-1149521/)* |
 
 
 Gündelik hayatta paraya sahiplik bir banknotu elimizde tutmak ile oluyor (Paranın sahte olmadığını ve arkasında barındırdığı değerin karşılığını verebilecek olan bir merkez bankası olduğunu varsayıyoruz). Dijital dünyaya geçtiğimizde ise kağıt para yerine dijital paralar kullanmaya başlıyoruz. Nasıl? Bankalar aracılığıyla:
@@ -50,7 +50,7 @@ Peki kripto paralar gelince kullanıcılar tam bağımsızlık elde ettiler mi? 
 
 | ![skatebirding-1704466_1280.jpg](/assets/skatebirding-1704466_1280.jpg) | 
 |:--:| 
-| *Kripto paralar ile özgürlük tam da yukarıdaki gibi bir his yaratıyor. Her an düşecekmişsiniz gibi - [Kaynak](https://pixabay.com/photos/skatebirding-freedom-eagle-fly-e-1704466/)* |
+| *Kripto paralar ile özgürlük tam da yukarıdaki gibi bir his yaratıyor. Her an düşecekmişsiniz gibi [Kaynak](https://pixabay.com/photos/skatebirding-freedom-eagle-fly-e-1704466/)* |
 
 
 Birincisi herhangi kripto varlığa - bir kişinin size direkt olarak göndermesi dışında -  sahip olabilmenin yolu kripto para borsaları. Ancak özellikle büyük kripto paralarının tamamı merkezi yapılar. Yani kripto para dünyasının merkeziyetsiz yapısına ve felsefesine aykırı oluşumlar. 
