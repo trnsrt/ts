@@ -17,6 +17,11 @@ Bundan sonraki birkaç yazıda, dijital dünyada bankaların yerine geçmeye ça
 
 Kripto paraların en önemli özelliği yaşadığımız dijital dünya içinde kullanıcılara sahip oldukları varlıklar üzerinde tam bir bağımsızlık vermek. Ne demek tam olarak bu? Biraz açalım: 
 
+| ![holding-1149521_1280.jpg](/assets/holding-1149521_1280.jpg) | 
+|:--:| 
+| *Dijital dünyada varlık tutmak her an elinden kayacakmış hissi uyandırmıyor mu? - [Kaynak](https://pixabay.com/photos/holding-bird-winter-landscape-1149521/)* |
+
+
 Gündelik hayatta paraya sahiplik bir banknotu elimizde tutmak ile oluyor (Paranın sahte olmadığını ve arkasında barındırdığı değerin karşılığını verebilecek olan bir merkez bankası olduğunu varsayıyoruz). Dijital dünyaya geçtiğimizde ise kağıt para yerine dijital paralar kullanmaya başlıyoruz. Nasıl? Bankalar aracılığıyla:
 
 Bankaya gidip para yatırıyoruz (ya da ne bileyim biri bize bir para gönderiyor ya da işvereniniz maaşınızı yatırıyor). Sonrasında aslında rakamlardan oluşan bu dijital parayı internet üzerinden birilerine gönderiyor ya da kredi kartı harcamalarımızı ödeyerek kullanıyoruz. 
