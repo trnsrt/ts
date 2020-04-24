@@ -2,11 +2,11 @@ Son yayınladığı kitabından yapılan bir alıntıda ünlü yazar Yuval Noah 
 
 Uzun vadeli tahmin işini Harari'ye bırakalım ve yazının içinden dijital dünya ile ilgili gözlemlerine göz gezdilerim*
 
-*Nasıl başarılı olacak gelecekte gençler?
+*Nasıl başarılı olacak gelecekte gençler?*
 
-*Büyüklerini örnek alarak mı? Hızla değişen dünyada büyüklerin size önerdiklerinin hala geçerli olup olmadığını ayırdetmek imkansız.
+*Büyüklerini örnek alarak mı? Hızla değişen dünyada büyüklerin size önerdiklerinin hala geçerli olup olmadığını ayırdetmek imkansız.*
 
-*Peki ya bunun yerine teknolojiye mi güvenmeli? O aslında daha da tehlikeli görüşünde kendisi. Zira ne istediğinizi biliyorsanız teknoloji faydalı ama bilmediğiniz durumda ne amaçladığınızı bile şekillendirerek sizi hizmetkarı yapabilir.
+*Peki ya bunun yerine teknolojiye mi güvenmeli? O aslında daha da tehlikeli görüşünde kendisi. Zira ne istediğinizi biliyorsanız teknoloji faydalı ama bilmediğiniz durumda ne amaçladığınızı bile şekillendirerek sizi hizmetkarı yapabilir.*
 
 *O zaman ne istediğimizi bilmek için kendi iç sesimize mi güvenmeli? Çağlar boyunca en önemli salık verilen öğütlerden biridir "Kendini bil". İyi ama biyoteknoloji ve makine öğrenmesi geliştikçe insanların en derin duygu ve isteklerini manipule edecek hale gelecekler. İçimizde duyduğumuz o sesin kendi sesimiz mi yoksa Coca-Cola, Amazon ya da bir hükümetin kalbimizdeki doğru noktalara temas ederek yarattıkları ses mi olduğunu nasıl ayırd edeceğiz?*
 
