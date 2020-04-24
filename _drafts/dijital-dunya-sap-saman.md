@@ -2,7 +2,7 @@ Son yayınladığı kitabından yapılan bir alıntıda ünlü yazar Yuval Noah 
 
 Uzun vadeli tahmin işini Harari'ye bırakalım ve yazının içinden dijital dünya ile ilgili gözlemlerine göz gezdilerim*
 
-^*Nasıl başarılı olacak gelecekte gençler?*
+^*Nasıl başarılı olacak gelecekte gençler?*^
 
 *Büyüklerini örnek alarak mı? Hızla değişen dünyada büyüklerin size önerdiklerinin hala geçerli olup olmadığını ayırdetmek imkansız.*
 
