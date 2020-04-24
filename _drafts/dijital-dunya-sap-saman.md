@@ -11,7 +11,7 @@ Sonuç olarak bugünkü düşünce kalıplarımız içinde ya da dışında (bil
 >
 >*O zaman ne istediğimizi anlamak için kendi iç sesimize mi güvenmeli? Çağlar boyunca en önemli salık verilen öğütlerden biridir "Kendini bil". İyi ama biyoteknoloji ve makine öğrenmesi, geliştikçe ileride en derin duygu ve isteklerimizi manipule edecek hale gelecekler. İçimizde duyduğumuz o sesin kendi sesimiz mi yoksa Coca-Cola, Amazon ya da bir hükümetin kalbimizdeki doğru noktalara temas ederek yarattıkları ses mi olduğunu nasıl ayırd edeceğiz?*
 
-
+Yazının bir başka yerinde de okullarda çocukların beyinlerine ezber yoluyla bilgi tıkıştırmak yani bir nevi bilgi arsızı olmak yerine, artık üzerimize yığın halinde gelmekte olan çoğu ipe sapa gelmez bilgi sağanağında seçici davranmanın önemini anlatır. Seçici davranmak derken kastedilen, bilgiyi anlamlandırma, gerekli ile gereksiz bilgi arasındaki farkı söyleme, daha önemlisi parça parça bilgileri birleştirerek geniş bir dünya haline getirme yetilerini kazanmak.. 
 
 
 Zira, teknoloji sizi daha çok anladıkça siz ona hizmet etmeye başlarsınız. 
