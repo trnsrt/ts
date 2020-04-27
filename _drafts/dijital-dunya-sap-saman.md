@@ -15,11 +15,11 @@ Sonuç olarak bugünkü düşünce kalıplarımız içinde ya da dışında (bil
 
 Blok zinciri teknolojilerinin ilk çıkış noktası işte bireye ihtiyacı olan bu özgürlüğü vermek aslında. Gelin biraz daha detaylı bakalım buna: 
 
-İnternet'in geniş kitlelerce kullanılmaya başlandığı 2000 yılların başları bireylerin dijital anlamda tam bir özgürlük yaşadığı zamanlardı. Kimileri bunu her tür özgürlüğün yaşandığı bir ütopya kimileri ise "vahşi batı" tarzı kişilerin özlük haklarına saldırıldığı ve hesap sormanın olmadığı bir dönem olarak adlandırır - tamamen hangi perspektiften baktığınıza ve politik eğilimlerinize göre değişir. Ancak herkesin hem fikir olduğu sonrasında bu on yılın ortasından itibaren kitlelerin "ücretsiz" verilen hizmetler aracılığı ile önce ticari bir meta haline getirildiği, sonrasında da gerek internet devleri gerekse hükümetler tarafından 
 
 Gayet tabii, blok zinciri sonraları daha geniş kullanım alanları için kullanılmaya başlandı - daha geniş anlamıyla güvene dayalı aracıları ortadan kaldırmak hedefiyle. Bankaların kendi aralarında maliyeti düşürmek, bürokrasiyi azaltmak için kurdukları blok zinciri konsorsiyumları gibi. Çok güzel. Ama bu yazımızda konuştuğumuz, blok zinciri teknolojilerinin ilk çıkış noktası olan bireyin dijital dünyada ihtiyacı olan özgürlüğüne sahip çıkabilmesini sağlamak. 
 
 
+İnternet'in geniş kitlelerce kullanılmaya başlandığı 2000 yılların başları şimdikinden çok farklıydı. Dijital çağa geçiş ile birlikte kanun ve kuralın olmadığı bir ara dönemdi bu on yıl. Kimileri bunu her tür özgürlüğün yaşandığı bir ütopya kimileri ise "vahşi batı" tarzı kişilerin özlük haklarına saldırıldığı ve hesap sormanın olmadığı bir dönem olarak adlandırır - tamamen hangi perspektiften baktığınıza ve politik eğilimlerinize göre değişir. Ancak herkesin hem fikir olduğu sonrasında bu on yılın ortasından itibaren kitlelerin "ücretsiz" verilen hizmetler aracılığı ile önce ticari bir meta haline getirildi. Başta Facebook ve Google, önce bizim yaptığımız her hareketi mercek altına aldılar. "Like"larımızdan tutun yaptığımız yorumlara kadar. Sonrasında küçük "cookie"ler aracılığıyla bizi izlemeye başladılar. Nereye gidersek arkamızdan geldiler dijital surflerimizde. Ama o da yetmedi tabii, akıllı telefonların gelişmesiyle birlikte, telefonlarımızın mikrofonlarından konuşmalarımıza "dikiz atıp" ona göre reklam vermeye başladılar. 
 
 
 
