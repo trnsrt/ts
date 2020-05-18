@@ -26,11 +26,9 @@ https://www.coindesk.com/price/ethereum
 Bunun üzerine bir de sistem içindeki bir açık nedeniyle yaklaşık 5 milyon ABD Doları bir rakam açığa düştü (o zamanki sistemde bulunan hesapların yaklaşık %1.5'u). Sistemin güvenliğini sağlayan topluluk bu parayı karşılayarak bireylerin mağdur olmasını önledi. (Daha teknik detayı en sondaki dipnot'ta bulabilirsiniz). 
 
 ### Yeni ürünler eklendi mi? Gelişimler ne yönde?
-MakerDAO ilk kurulduğunda para olarak yalnızca ETH kullanıyor idi. 2019 Kasım ayında ETH dışında çok paralı bir sisteme geçtiler. Böylelikle artık teminat olarak ETH değil başka kripto paraların da konabilmesinin yolu açıldı. 
-
+MakerDAO ilk kurulduğunda para olarak yalnızca ETH kullanıyor idi. 2019 Kasım ayında ETH dışında çok paralı bir sisteme geçtiler. Böylelikle  teminat olarak ETH değil başka kripto paraların da konabilmesinin yolu açıldı. İlk aşamada BAT (Brave Token) ve USDC (ABD Dolarına sabitlenmiş bir başka kripto para) da teminat olarak kabul ediliyor artık. 
 
 Bunun yanında artık DAI yatırıp bununla faiz kazanma imkanı da kazandı bireyler. Bunu bir nevi paranızı dolar vadeli hesaba yatırmak olarak düşünebilirsiniz. Bu başlı başına bir yazı konusu ve ayrı bir yazıda bunu değerlendireceğiz. Zira yapılan bu ekleme ile aslında MakerDAO kendi başına bir merkez bankası gibi çalışmaya başladı. Ancak hemen bir parantez açarak, DAI yatırım hesabı olarak adlandırılan bu fonksiyonun deneme aşamasında olduğunu ve şu an için durdurulduğunu belirtelim. 
-
 
 
 ### Gelecek nasıl görünüyor?
@@ -44,7 +42,11 @@ Bunun yanında artık DAI yatırıp bununla faiz kazanma imkanı da kazandı bir
 - Türev olarak kullandıkları alt varlıkların olgunlaşması
 - Ürünlerin üzerine kuruldukları altyapı teknolojilerinın çok daha kusursuz hâle gelmesi
 
-Yukarıdaki her bir başlık kendi içinde birer yazı konusu hakkında. Konuyu uzatmamak için maddeler halinde bırakalım. 
+Yazıyı uzatmamak için maddeler halinde bırakalım zira yukarıdaki her bir başlık kendi içinde birer yazı konusu hakkında. 
+
+
+### Sonuç
+MakerDAO, tamamen dijital dünyada kurulmuş bir merkez bankası deneyi esasında. Şu an için deneysel olarak ilerliyorlar, kâh hızlanıyorlar, kâh tökezliyorlar. Ancak şu ana kadar iyi idare ettiler. Eğer başarılı olurlar ise, önümüzdeki yıllarda ismini çok daha sık duymaya başlayacağımıza emin olabilirsiniz. 
 
 Her zaman söylediklerimiz ile bitirelim o zaman. Eğer aracılar kullanıcıların beklediğini vermekte zorlandıkça bu tip hizmetlere talep de giderek artacak. Nedir insanların istedikleri bu hizmetlerden? Herkese açık olsun (yalnızca parası olana değil finansal sisteme erişimi olmayan milyarlarca insan kullabilsin), pratik olsun (onlarca doküman, belge istemesin kullanmadan önce), ucuz olsun (hizmet verenlerin oturdukları plazaların kiralarını müşteriler ödemesin). Bunlar olmadığı durumda klasik finans hizmeti verenlerin pastadan aldığı pay azalacak, yeni sistemler giderek insanlığın hayatına girecek. 
 
