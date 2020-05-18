@@ -18,7 +18,7 @@ Bu tip özellikle de para gibi değişim isteyen ürünlerde kullanıcı adaptas
 
 Peki aradan geçen zamanda hiç kriz yaşadı mı MakerDAO? Gayet tabii..  Ancak öncelikle şunu belirtmekte fayda var. Bu tip ürünler/platformlar deneysel ve yeni.. Sorun çıkması gayet normal. Neden? Birincisi - nihayetinde bunlar birer yazılım. Yazılımları insanlar yazıyor. Tamam kullanılmadan önce gözden geçiriliyor olsa da hata olması çok normal. Bir diğer neden ise, sistemin tasarımcıların her tür senaryoyu öngörmelerinin mümkün olmaması. İşte zaman içinde kullanıldıkça ortaya sorunlar çıkıyor ve bu sorunlar zamanla gideriliyor, Amerikalıların dediği gibi "kurşun geçirmez" bir hale geliyor. 
 
-MakerDAO da benzer bir krizi 2020'nin Şubat ayı içinde yaşadı. 
+MakerDAO da benzer bir krizi 2020'nin Şubat ayı içinde yaşadı. Olay şu: Sistemin özünde kullanıcıların ellerindeki ETH (Ether)'leri teminat olarak gösterip DAI yaratmaları (borçlanmaları) var. Yatırılan teminatın yaratılan paranın %150'si olması gerekiyor ki sistem işlesin (1)
 
 ### Yeni ürünler eklendi mi?
 
@@ -48,3 +48,5 @@ Her zaman söylediklerimiz ile bitirelim o zaman. Eğer aracılar kullanıcılar
 - Rakipler gelmiş mi?
 - Single DAI'den multi DAI'ye geçiş
 - 
+
+(1) Klasik bankacılıkta karşımıza çıkan karşı partinin borcunu ödememe riski (counter-party risk) burada ekstra teminatlandırma ile çözülüyor. Zira normal hayatta klasik bankacılıkta bu riski bertaraf etmek için bankanın kredi derecelendirme uzmanları, kredinin ödenmemesi durumunda tahsilat için avukatları ve tahsilat elemanları var. Dijital dünyada bunların hiçbiri olmadığı için karşı parti riskini önlemenin tek yolu teminat miktarını olabildiğince fazla tutmak. İleride dijital kimliklerin daha da geliştiği bu kimlikler üzerinden karşı parti riskinin daha yönetilebilir hâle geldiği noktada bu teminat miktarları da azalacak muhtemelen. 
