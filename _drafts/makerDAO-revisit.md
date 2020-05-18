@@ -26,7 +26,7 @@ https://www.coindesk.com/price/ethereum
 Bunun üzerine bir de sistem içindeki bir açık nedeniyle yaklaşık 5 milyon ABD Doları bir rakam açığa düştü (o zamanki sistemde bulunan hesapların yaklaşık %1.5'u). Sistemin güvenliğini sağlayan topluluk bu parayı karşılayarak bireylerin mağdur olmasını önledi. (Daha teknik detayı en sondaki dipnot'ta bulabilirsiniz). 
 
 ### Yeni ürünler eklendi mi? Gelişimler ne yönde?
-MakerDAO ilk kurulduğunda para olarak yalnızca ETH kullanıyor idi. 2019 Kasım ayında ETH dışında çok paralı bir sisteme geçtiler. 
+MakerDAO ilk kurulduğunda para olarak yalnızca ETH kullanıyor idi. 2019 Kasım ayında ETH dışında çok paralı bir sisteme geçtiler. Böylelikle artık teminat olarak ETH değil başka kripto paraların da konabilmesinin yolu açıldı. 
 
 
 Bunun yanında artık DAI yatırıp bununla faiz kazanma imkanı da kazandı bireyler. Bunu bir nevi paranızı dolar vadeli hesaba yatırmak olarak düşünebilirsiniz. Bu başlı başına bir yazı konusu ve ayrı bir yazıda bunu değerlendireceğiz. Zira yapılan bu ekleme ile aslında MakerDAO kendi başına bir merkez bankası gibi çalışmaya başladı. Ancak hemen bir parantez açarak, DAI yatırım hesabı olarak adlandırılan bu fonksiyonun deneme aşamasında olduğunu ve şu an için durdurulduğunu belirtelim. 
