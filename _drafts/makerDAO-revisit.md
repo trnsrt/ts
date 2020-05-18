@@ -18,7 +18,7 @@ Bu tip özellikle de para gibi değişim isteyen ürünlerde kullanıcı adaptas
 
 Peki aradan geçen zamanda hiç kriz yaşadı mı MakerDAO? Gayet tabii..  Ancak öncelikle şunu belirtmekte fayda var. Bu tip ürünler/platformlar deneysel ve yeni.. Sorun çıkması gayet normal. Neden? Birincisi - nihayetinde bunlar birer yazılım. Yazılımları insanlar yazıyor. Tamam kullanılmadan önce gözden geçiriliyor olsa da hata olması çok normal. Bir diğer neden ise, sistemin tasarımcıların her tür senaryoyu öngörmelerinin mümkün olmaması. İşte zaman içinde kullanıldıkça ortaya sorunlar çıkıyor ve bu sorunlar zamanla gideriliyor, Amerikalıların dediği gibi "kurşun geçirmez" bir hale geliyor. 
 
-MakerDAO da benzer bir krizi 2020'nin Şubat ayı içinde yaşadı. Olay şu: Sistemin özünde kullanıcıların ellerindeki ETH (Ether)'leri teminat olarak gösterip DAI yaratmaları (borçlanmaları) var. Yatırılan teminatın yaratılan paranın %150'si olması gerekiyor ki sistem işlesin (1)
+MakerDAO da benzer bir krizi 2020'nin Şubat ayı içinde yaşadı. Olay şu: Sistemin özünde kullanıcıların ellerindeki ETH (Ether)'leri teminat olarak gösterip DAI yaratmaları (borçlanmaları) var. Yatırılan teminatın yaratılan paranın %150'si olması gerekiyor ki sistem işlesin (niye bu kadar yüksek teminat var, yazının sonundaki notta). Ancak 
 
 ### Yeni ürünler eklendi mi?
 
