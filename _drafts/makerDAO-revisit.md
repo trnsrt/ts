@@ -58,6 +58,9 @@ Her zaman söylediklerimiz ile bitirelim o zaman. Eğer aracılar kullanıcılar
 - Single DAI'den multi DAI'ye geçiş
 - 
 
+Bir sonraki yazıda: 
+MakerDAO nasıl bir merkez bankası gibi çalışıyor? DAI Stability Fee bankanın DAI'nin arzı tarafındaki para politikasını belirlemesini sağlarken, DAI savings rate ise DAI'ye talep kısmında politika belirlemesini sağlıyor? Peki bunu kim yapıyor? Yönetim kimin elinde?.. 
+
 
 Basitçe MakerDAO olayını anlatmaya çalışırsak:.Diyelim 100 ETH'ye denk gelecek bir kredi almak istiyorsunuz. Alacağınız kredi DAI cinsinden, DAI ise dolara sabitlenmiş bir para. Bunun için minimum 150 ETH teminat koymanız lazım. Ama siz ihtiyatlı davranıp 200 ETH koydunuz. ETH bir günde %53 değer kaybedince dolar cinsinden 200 ETH teminatınız bırakın aldığınız kredinin 150%'sini karşılamayı, bir anda %94'ünü karşılar hale geliyor (200x(1-0.53)=94). Bu durumda da sistem teminatınızı bozuyor ve paranız yanıyor. 
 
