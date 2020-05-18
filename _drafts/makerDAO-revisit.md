@@ -12,18 +12,18 @@ DeFi ürünlerinin geçtiğimiz bir yıl içinde kullanımının arttığını r
 [DeFi market shares]
 https://defipulse.com/
 
-Bu tip özellikle de para gibi değişim isteyen ürünlerde kullanıcı adaptasyonunun başlangıçta yavaş olması gayet normal.  Ancak 'zaman' geçip ortaya çıkan sorunlar ve krizler aşıldıkça bu tip ürünlere güven de artacak. 
+Bu tip özellikle de para gibi değişim isteyen ürünlerde kullanıcı adaptasyonunun başlangıçta yavaş olması gayet normal.  Ancak 'zaman' geçip ortaya çıkan sorunlar ve krizler aşıldıkça bu tip ürünlere güven artacak bu da ürünlere olan talebe olumlu bir etki yapacak. 
 
 
 ### Sorunlar/krizler çıktı mı?
 
 Peki aradan geçen zamanda hiç kriz yaşadı mı MakerDAO? Gayet tabii..  Ancak öncelikle şunu belirtmekte fayda var. Bu tip ürünler/platformlar deneysel ve yeni.. Sorun çıkması gayet normal. Neden? Birincisi - nihayetinde bunlar birer yazılım. Yazılımları insanlar yazıyor. Tamam kullanılmadan önce gözden geçiriliyor olsa da hata olması çok normal. Bir diğer neden ise, sistemin tasarımcıların her tür senaryoyu öngörmelerinin mümkün olmaması. İşte zaman içinde kullanıldıkça ortaya sorunlar çıkıyor ve bu sorunlar zamanla gideriliyor, Amerikalıların dediği gibi "kurşun geçirmez" bir hale geliyor. 
 
-MakerDAO da benzer bir krizi 2020'nin Şubat ayı içinde yaşadı. Olay şu: Sistemin özünde kullanıcıların ellerindeki ETH (Ether)'leri teminat olarak gösterip DAI yaratmaları (borçlanmaları) var. Yatırılan teminatın yaratılan paranın %150'si olması gerekiyor ki sistem işlesin (niye bu kadar yüksek teminat var, yazının sonundaki notta). Ancak 12 Mart günü ETH fiyatının %53 düşmesi nedeniyle neredeyse bütün kredilerin karşılığı olan teminatlar pula döndü. 
-
+MakerDAO da benzer bir krizi 2020'nin Şubat ayı içinde yaşadı. ETH piyasa değerinin bir günde %53 oranında düşmesi kimsenin beklemediği bir senaryo idi. 
 
 https://www.coindesk.com/price/ethereum
 
+Bunun üzerine bir de sistem içindeki bir açık nedeniyle yaklaşık 5 milyon ABD Doları bir rakam açığa düştü (o zamanki sistemde bulunan hesapların yaklaşık %1.5'u). Sistemin güvenliğini sağlayan topluluk bu parayı karşılayarak bireylerin mağdur olmasını önledi. (Daha teknik detayı en sondaki dipnot'ta bulabilirsiniz). 
 
 ### Yeni ürünler eklendi mi? Gelişimler ne yönde?
 MakerDAO ilk kurulduğunda para olarak yalnızca ETH kullanıyor idi. 2019 Kasım ayında ETH dışında çok paralı bir sisteme geçtiler. 
@@ -63,7 +63,8 @@ Bir sonraki yazıda:
 MakerDAO nasıl bir merkez bankası gibi çalışıyor? DAI Stability Fee bankanın DAI'nin arzı tarafındaki para politikasını belirlemesini sağlarken, DAI savings rate ise DAI'ye talep kısmında politika belirlemesini sağlıyor? [Peki bunu kim yapıyor](https://ethereumprice.org/guides/article/dai-savings-rate-explained/)? Yönetim kimin elinde?.. 
 
 
-Basitçe MakerDAO olayını anlatmaya çalışırsak:.Diyelim 100 ETH'ye denk gelecek bir kredi almak istiyorsunuz. Alacağınız kredi DAI cinsinden, DAI ise dolara sabitlenmiş bir para. Bunun için minimum 150 ETH teminat koymanız lazım. Ama siz ihtiyatlı davranıp 200 ETH koydunuz. ETH bir günde %53 değer kaybedince dolar cinsinden 200 ETH teminatınız bırakın aldığınız kredinin 150%'sini karşılamayı, bir anda %94'ünü karşılar hale geliyor (200x(1-0.53)=94). Bu durumda da sistem teminatınızı bozuyor ve paranız yanıyor. 
+Basitçe MakerDAO olayını anlatmaya çalışırsak:.Olay şu: Sistemin özünde kullanıcıların ellerindeki ETH (Ether)'leri teminat olarak gösterip DAI yaratmaları (borçlanmaları) var. Yatırılan teminatın yaratılan paranın %150'si olması gerekiyor ki sistem işlesin (niye bu kadar yüksek teminat var, yazının sonundaki notta). Ancak 12 Mart günü ETH fiyatının %53 düşmesi nedeniyle neredeyse bütün kredilerin karşılığı olan teminatlar pula döndü. 
+Diyelim 100 ETH'ye denk gelecek bir kredi almak istiyorsunuz. Alacağınız kredi DAI cinsinden, DAI ise dolara sabitlenmiş bir para. Bunun için minimum 150 ETH teminat koymanız lazım. Ama siz ihtiyatlı davranıp 200 ETH koydunuz. ETH bir günde %53 değer kaybedince dolar cinsinden 200 ETH teminatınız bırakın aldığınız kredinin 150%'sini karşılamayı, bir anda %94'ünü karşılar hale geliyor (200x(1-0.53)=94). Bu durumda da sistem teminatınızı bozuyor ve paranız yanıyor. 
 
 Böyle bir durumda makul olanı, ya ekstradan ETH koyarak ya da yarattığınız DAI'lerin bir kısmını yok ederek teminatı yeniden %150'nin üzerine çıkararak kredinizin yanmasını önlemek. Ancak tam o sırada benzer şekilde işlem yapmak isteyenlerden dolayı ETH işlemleri için kullanılan gas ücretlerinin zıplaması ve sistemsel sorunlar nedeniyle pek çok kişi teminatlarını tamamlayamadı. Açıkta kalan krediler açık artırma sistemi ile satılırken, sistemsel bir hatadan dolayı pek çok kontrat sıfır değer ile satıldı. Böyle yaklaşık 5 milyon ABD doları kadar büyüklükte bir kontrat bu durumdan etkilendi. 
 
