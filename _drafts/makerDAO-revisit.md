@@ -11,14 +11,14 @@ DeFi ürünlerinin geçtiğimiz bir yıl içinde kullanımının ciddi bir şeki
 
 [DeFi market shares]
 
-Unutmayalım bu tip özellikle de para gibi değişim isteyen ürünlerde kullanıcı adaptasyonunun başlangıçta yavaş olması gayet normal. Zira bu tip ürünlerin (ya da teknolojik herhangi bir ürünün) olgunlaşması için zaman en iyi ilaç. Özellikle DeFi  geniş kesimlerce adaptasyonu için şu aşağıdaki özelliklerde gelişme kaydetmesi gerekiyor: 
-
-- 
-- 
+Bu tip özellikle de para gibi değişim isteyen ürünlerde kullanıcı adaptasyonunun başlangıçta yavaş olması gayet normal.  Ancak 'zaman' geçip ortaya çıkan sorunlar ve krizler aşıldıkça bu tip ürünlere güven de artacak. 
 
 
 ### Sorunlar/krizler çıktı mı?
 
+Peki aradan geçen zamanda hiç kriz yaşadı mı MakerDAO? Gayet tabii..  Ancak öncelikle şunu belirtmekte fayda var. Bu tip ürünler/platformlar deneysel ve yeni.. Sorun çıkması gayet normal. Neden? Birincisi - nihayetinde bunlar birer yazılım. Yazılımları insanlar yazıyor. Tamam kullanılmadan önce gözden geçiriliyor olsa da hata olması çok normal. Bir diğer neden ise, sistemin tasarımcıların her tür senaryoyu öngörmelerinin mümkün olmaması. İşte zaman içinde kullanıldıkça ortaya sorunlar çıkıyor ve bu sorunlar zamanla gideriliyor, Amerikalıların dediği gibi "kurşun geçirmez" bir hale geliyor. 
+
+MakerDAO da benzer bir krizi 2020'nin Şubat ayı içinde yaşadı. 
 
 ### Yeni ürünler eklendi mi?
 
