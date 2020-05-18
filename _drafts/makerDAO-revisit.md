@@ -24,9 +24,12 @@ MakerDAO da benzer bir krizi 2020'nin Şubat ayı içinde yaşadı. Olay şu: Si
 https://www.coindesk.com/price/ethereum
 
 
+### Yeni ürünler eklendi mi? Gelişimler ne yönde?
+MakerDAO ilk kurulduğunda para olarak yalnızca ETH kullanıyor idi. 2019 Kasım ayında ETH dışında çok paralı bir sisteme geçtiler. 
 
 
-### Yeni ürünler eklendi mi?
+Bunun yanında artık DAI yatırıp bununla faiz kazanma imkanı da kazandı bireyler. Bunu bir nevi paranızı dolar vadeli hesaba yatırmak olarak düşünebilirsiniz. Bu başlı başına bir yazı konusu ve ayrı bir yazıda bunu değerlendireceğiz. Zira yapılan bu ekleme ile aslında MakerDAO kendi başına bir merkez bankası gibi çalışmaya başladı. Ancak hemen bir parantez açarak, DAI yatırım hesabı olarak adlandırılan bu fonksiyonun deneme aşamasında olduğunu ve şu an için durdurulduğunu belirtelim. 
+
 
 
 ### Gelecek nasıl görünüyor?
