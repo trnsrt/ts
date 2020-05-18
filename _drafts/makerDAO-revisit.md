@@ -21,10 +21,10 @@ Peki aradan geçen zamanda hiç kriz yaşadı mı MakerDAO? Gayet tabii..  Ancak
 MakerDAO da benzer bir krizi 2020'nin Şubat ayı içinde yaşadı. Olay şu: Sistemin özünde kullanıcıların ellerindeki ETH (Ether)'leri teminat olarak gösterip DAI yaratmaları (borçlanmaları) var. Yatırılan teminatın yaratılan paranın %150'si olması gerekiyor ki sistem işlesin (niye bu kadar yüksek teminat var, yazının sonundaki notta). Ancak 12 Mart günü ETH fiyatının %53 düşmesi nedeniyle neredeyse bütün kredilerin karşılığı olan teminatlar pula döndü. 
 
 
+https://www.coindesk.com/price/ethereum
 
-Basitçe tekrar anlatırsak. Diyelim 100 ETH'ye denk gelecek bir kredi almak istiyorsunuz. Alacağınız kredi DAI cinsinden, DAI ise dolara sabitlenmiş bir para. Bunun için minimum 150 ETH teminat koymanız lazım. Ama siz ihtiyatlı davranıp 200 ETH koydunuz. ETH bir günde %53 değer kaybedince dolar cinsinden 200 ETH teminatınız bırakın aldığınız kredinin 150%'sini karşılamayı, bir anda %94'ünü karşılar hale geliyor (200x(1-0.53)=94). Bu durumda da sistem teminatınızı bozuyor ve paranız yanıyor. 
 
-Böyle bir durumda makul olanı, ya ekstradan ETH koyarak teminatı yeniden %150'nin üzerine çıkararak kredinizin yanmasını önlemek, ya da yarattığınız 
+
 
 ### Yeni ürünler eklendi mi?
 
@@ -54,5 +54,12 @@ Her zaman söylediklerimiz ile bitirelim o zaman. Eğer aracılar kullanıcılar
 - Rakipler gelmiş mi?
 - Single DAI'den multi DAI'ye geçiş
 - 
+
+
+Basitçe MakerDAO olayını anlatmaya çalışırsak:.Diyelim 100 ETH'ye denk gelecek bir kredi almak istiyorsunuz. Alacağınız kredi DAI cinsinden, DAI ise dolara sabitlenmiş bir para. Bunun için minimum 150 ETH teminat koymanız lazım. Ama siz ihtiyatlı davranıp 200 ETH koydunuz. ETH bir günde %53 değer kaybedince dolar cinsinden 200 ETH teminatınız bırakın aldığınız kredinin 150%'sini karşılamayı, bir anda %94'ünü karşılar hale geliyor (200x(1-0.53)=94). Bu durumda da sistem teminatınızı bozuyor ve paranız yanıyor. 
+
+Böyle bir durumda makul olanı, ya ekstradan ETH koyarak ya da yarattığınız DAI'lerin bir kısmını yok ederek teminatı yeniden %150'nin üzerine çıkararak kredinizin yanmasını önlemek. Ancak tam o sırada benzer şekilde işlem yapmak isteyenlerden dolayı ETH işlemleri için kullanılan gas ücretlerinin zıplaması ve sistemsel sorunlar nedeniyle pek çok kişi teminatlarını tamamlayamadı. Açıkta kalan krediler açık artırma sistemi ile satılırken, sistemsel bir hatadan dolayı pek çok kontrat sıfır değer ile satıldı. Böyle yaklaşık 5 milyon ABD doları kadar büyüklükte bir kontrat bu durumdan etkilendi. 
+
+MakerDAO yöneticileri, sistemin güvenliğini sağlayan MKR token sahiplerine dönerek zarar görenleri zor durumdan kurtaracak bir plan önerdiler. Bu sayde kontratı yananların durumları düzeltildi. 
 
 (1) Klasik bankacılıkta karşımıza çıkan karşı partinin borcunu ödememe riski (counter-party risk) burada ekstra teminatlandırma ile çözülüyor. Zira normal hayatta klasik bankacılıkta bu riski bertaraf etmek için bankanın kredi derecelendirme uzmanları, kredinin ödenmemesi durumunda tahsilat için avukatları ve tahsilat elemanları var. Dijital dünyada bunların hiçbiri olmadığı için karşı parti riskini önlemenin tek yolu teminat miktarını olabildiğince fazla tutmak. İleride dijital kimliklerin daha da geliştiği bu kimlikler üzerinden karşı parti riskinin daha yönetilebilir hâle geldiği noktada bu teminat miktarları da azalacak muhtemelen. 
