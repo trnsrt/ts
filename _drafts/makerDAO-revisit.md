@@ -7,9 +7,10 @@ Yazıyı okumak zor geliyorsa eğer bir paragrafta özetlersek, MakerDAO kullan�
 Aradan geçen zamanda neler oldu? Bu önemli -  özellikle bu alanda teknolojilerin yeni olması aslında bu platformların geniş kitlelerce adaptasyon konusunda ellerindeki en büyük engel. Zira insanlar yeni olana kuşkuyla bakıyorlar. Aynı, örneğin Bitcoin'e başlangıçta kuşkuyla bakanların konuyu anladıktan sonra bu dünyadaki en güvenli paranın yine Bitcoin olduğunu söylemeleri gibi. Neden? Çünkü on yıldır ortada ve tıkır tıkır çalışıyor. Dolayısıyla, 'zaman' bu ürünlerde en önemli test alanı. Aradan geçen zamanda ne gibi sorunlar çıktı, bunlar nasıl giderildi (ya da giderilebildi mi?), kullanımı arttı mı, yeni ürünler geldi mi - bu ürünlerin olgunlaşması hep önemli sorular bunlar? 
 
 ### Adaptasyonu arttı mı?
-DeFi ürünlerinin geçtiğimiz bir yıl içinde kullanımının ciddi bir şekilde arttığını rahatlıkla söyleyebiliriz. 
+DeFi ürünlerinin geçtiğimiz bir yıl içinde kullanımının arttığını rahatlıkla söyleyebiliriz. Mayıs 2020 ortası itibariyle bir önceki yıla göre neredeyse iki katına çıkarak 860 milyon ABD Dolarına ulaşmış. Bunun yaklaşık yarısı MakerDAO'nun sistemi içinde.
 
 [DeFi market shares]
+https://defipulse.com/
 
 Bu tip özellikle de para gibi değişim isteyen ürünlerde kullanıcı adaptasyonunun başlangıçta yavaş olması gayet normal.  Ancak 'zaman' geçip ortaya çıkan sorunlar ve krizler aşıldıkça bu tip ürünlere güven de artacak. 
 
