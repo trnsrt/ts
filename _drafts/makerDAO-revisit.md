@@ -18,7 +18,13 @@ Bu tip özellikle de para gibi değişim isteyen ürünlerde kullanıcı adaptas
 
 Peki aradan geçen zamanda hiç kriz yaşadı mı MakerDAO? Gayet tabii..  Ancak öncelikle şunu belirtmekte fayda var. Bu tip ürünler/platformlar deneysel ve yeni.. Sorun çıkması gayet normal. Neden? Birincisi - nihayetinde bunlar birer yazılım. Yazılımları insanlar yazıyor. Tamam kullanılmadan önce gözden geçiriliyor olsa da hata olması çok normal. Bir diğer neden ise, sistemin tasarımcıların her tür senaryoyu öngörmelerinin mümkün olmaması. İşte zaman içinde kullanıldıkça ortaya sorunlar çıkıyor ve bu sorunlar zamanla gideriliyor, Amerikalıların dediği gibi "kurşun geçirmez" bir hale geliyor. 
 
-MakerDAO da benzer bir krizi 2020'nin Şubat ayı içinde yaşadı. Olay şu: Sistemin özünde kullanıcıların ellerindeki ETH (Ether)'leri teminat olarak gösterip DAI yaratmaları (borçlanmaları) var. Yatırılan teminatın yaratılan paranın %150'si olması gerekiyor ki sistem işlesin (niye bu kadar yüksek teminat var, yazının sonundaki notta). Ancak 
+MakerDAO da benzer bir krizi 2020'nin Şubat ayı içinde yaşadı. Olay şu: Sistemin özünde kullanıcıların ellerindeki ETH (Ether)'leri teminat olarak gösterip DAI yaratmaları (borçlanmaları) var. Yatırılan teminatın yaratılan paranın %150'si olması gerekiyor ki sistem işlesin (niye bu kadar yüksek teminat var, yazının sonundaki notta). Ancak 12 Mart günü ETH fiyatının %53 düşmesi nedeniyle neredeyse bütün kredilerin karşılığı olan teminatlar pula döndü. 
+
+
+
+Basitçe tekrar anlatırsak. Diyelim 100 ETH'ye denk gelecek bir kredi almak istiyorsunuz. Alacağınız kredi DAI cinsinden, DAI ise dolara sabitlenmiş bir para. Bunun için minimum 150 ETH teminat koymanız lazım. Ama siz ihtiyatlı davranıp 200 ETH koydunuz. ETH bir günde %53 değer kaybedince dolar cinsinden 200 ETH teminatınız bırakın aldığınız kredinin 150%'sini karşılamayı, bir anda %94'ünü karşılar hale geliyor (200x(1-0.53)=94). Bu durumda da sistem teminatınızı bozuyor ve paranız yanıyor. 
+
+Böyle bir durumda makul olanı, ya ekstradan ETH koyarak teminatı yeniden %150'nin üzerine çıkararak kredinizin yanmasını önlemek, ya da yarattığınız 
 
 ### Yeni ürünler eklendi mi?
 
