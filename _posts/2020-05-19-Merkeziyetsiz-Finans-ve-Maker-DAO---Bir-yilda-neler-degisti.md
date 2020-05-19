@@ -52,7 +52,7 @@ DeFi yani merkeziyetsiz finansın geniş kesimlerce benimsenmesi için birkaç a
 - Likiditenin artması
 - Volatilite'nin (değerdeki beklenmedik iniş-çıkışların) azalması
 - Türev olarak kullanılan alt varlıkların olgunlaşması (örneğin ETH'de yaşanan yukarıda anlattığımız kriz)
-- Ürünlerin üzerine kuruldukları altyapı teknolojilerinın çok daha kusursuz hâle gelmesi
+- Ürünlerin üzerine kuruldukları altyapı teknolojilerinin çok daha kusursuz hâle gelmesi
 
 Yazıyı uzatmamak için maddeler halinde bırakalım bu gelişmeleri - yukarıdaki her bir başlık kendi içinde birer yazı konusu çünkü. 
 
