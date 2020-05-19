@@ -16,16 +16,18 @@ DeFi ürünlerinin geçtiğimiz bir yıl içinde kullanımının arttığını r
 |:--:| 
 | *DeFi piyasasının son bir yıllık gelişimi*  *[Kaynak](https://defipulse.com/)*|
 
-Bu tip özellikle de para gibi değişim isteyen ürünlerde kullanıcı adaptasyonunun başlangıçta yavaş olması gayet normal.  Ancak 'zaman' geçip ortaya çıkan sorunlar ve krizler aşıldıkça bu tip ürünlere güven artacak bu da ürünlere olan talebe olumlu bir etki yapacak. 
-
+Rakamlar başka kripto paralara bakıldığında küçük gelebilir. Ancak şunu unutmayın: bu tip özellikle de para gibi değer taşıyan ve sorun çıktığında kayıpların potansiyel büyük olduğu konularda kullanıcı adaptasyonunun başlangıçta yavaş olması gayet normal.  Ancak 'zaman' geçip ortaya çıkan sorunlar ve krizler aşıldıkça bu tip ürünlere güven artacak bu da ürünlere olan talebe olumlu bir etki yapacak. 
 
 ### Sorunlar/krizler çıktı mı?
 
-Peki aradan geçen zamanda hiç kriz yaşadı mı MakerDAO? Gayet tabii..  Ancak öncelikle şunu belirtmekte fayda var. Bu tip ürünler/platformlar deneysel ve yeni.. Sorun çıkması gayet normal. Neden? Birincisi - nihayetinde bunlar birer yazılım. Yazılımları insanlar yazıyor. Tamam kullanılmadan önce gözden geçiriliyor olsa da hata olması çok normal. Bir diğer neden ise, sistemin tasarımcıların her tür senaryoyu öngörmelerinin mümkün olmaması. İşte zaman içinde kullanıldıkça ortaya sorunlar çıkıyor ve bu sorunlar zamanla gideriliyor, Amerikalıların dediği gibi "kurşun geçirmez" bir hale geliyor. 
+Peki aradan geçen zamanda hiç kriz yaşadı mı MakerDAO? Gayet tabii..  Ancak öncelikle şunu belirtmekte fayda var. Bu tip ürünler/platformlar deneysel ve yeni.. Sorun çıkması gayet normal. Neden? Birincisi - nihayetinde bunlar birer yazılım. Yazılımları insanlar yazıyor. Tamam kullanılmadan önce gözden geçiriliyor olsa da hata olması çok normal. Bir diğer neden ise, sistemin tasarımcıların her tür senaryoyu öngörmelerinin mümkün olmaması. İşte zaman içinde kullanıldıkça ortaya sorunlar çıkıyor ve bu sorunlar yine zamanla gideriliyor, sistem "kurşun geçirmez" bir hale geliyor. 
 
 MakerDAO da benzer bir krizi 2020'nin Şubat ayı içinde yaşadı. ETH piyasa değerinin bir günde %53 oranında düşmesi kimsenin beklemediği bir senaryo idi. 
 
-https://www.coindesk.com/price/ethereum
+| ![ether_price_March_2010.png](/assets/ether_price_March_2010.png) | 
+|:--:| 
+| *ETH'nin yıllık değişimi ve 12 Mart günü %53 düşmesi*  *[Kaynak](https://www.coindesk.com/price/ethereum)*|
+
 
 Bunun üzerine bir de sistem içindeki bir açık nedeniyle yaklaşık 5 milyon ABD Doları bir rakam açığa düştü (o zamanki sistemde bulunan hesapların yaklaşık %1.5'u). Sistemin güvenliğini sağlayan topluluk bu parayı karşılayarak bireylerin mağdur olmasını önledi. (Daha teknik detayı en sondaki dipnot'ta bulabilirsiniz). 
 
