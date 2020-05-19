@@ -29,40 +29,42 @@ MakerDAO da benzer bir krizi 2020'nin Şubat ayı içinde yaşadı. ETH piyasa d
 | *ETH'nin yıllık değişimi ve 12 Mart günü %53 düşmesi*  *[Kaynak](https://www.coindesk.com/price/ethereum)*|
 
 
-Bunun üzerine bir de sistem içindeki bir açık nedeniyle yaklaşık 5 milyon ABD Doları bir rakam açığa düştü (o zamanki sistemde bulunan hesapların yaklaşık %1.5'u). Sistemin güvenliğini sağlayan topluluk bu parayı karşılayarak bireylerin mağdur olmasını önledi. (Daha teknik detayı en sondaki dipnot'ta bulabilirsiniz). 
+Bunun üzerine bir de sistem içindeki bir açık nedeniyle yaklaşık 5 milyon ABD Doları tutarında kontrat iptal oldu (o zamanki sistemde bulunan hesapların yaklaşık %1.5'u kadar). Sistemin güvenliğini sağlayan topluluk bu parayı karşılayarak bireylerin mağdur olmasını önledi. (Teknik detayı en sondaki dipnot'ta bulabilirsiniz). 
 
 ### Yeni ürünler eklendi mi? Gelişimler ne yönde?
-MakerDAO ilk kurulduğunda para olarak yalnızca ETH kullanıyor idi. 2019 Kasım ayında ETH dışında çok paralı bir sisteme geçtiler. Böylelikle  teminat olarak ETH değil başka kripto paraların da konabilmesinin yolu açıldı. İlk aşamada BAT (Brave Token) ve USDC (ABD Dolarına sabitlenmiş bir başka kripto para) da teminat olarak kabul ediliyor artık. 
+Oldu tabii. Sistem yukarıda anlattığımız tek bir ürünle basit bir şekilde kuruldu ancak nihai vizyonu kendi kendine çalışan bir merkez bankası olmak.  İlk kurulduğunda MakerDAO para olarak yalnızca ETH kullanıyor idi. 2019 Kasım ayında ETH dışında çok paralı bir sisteme geçtiler. Böylelikle  teminat olarak ETH değil başka kripto paraların da sisteme konabilmesinin yolu açıldı. İlk aşamada BAT (Brave Token) ve USDC (ABD Dolarına sabitlenmiş bir başka kripto para) da teminat olarak kabul ediliyor artık. 
 
-Bunun yanında artık DAI yatırıp bununla faiz kazanma imkanı da kazandı bireyler. Bunu bir nevi paranızı dolar vadeli hesaba yatırmak olarak düşünebilirsiniz. Bu başlı başına bir yazı konusu ve ayrı bir yazıda bunu değerlendireceğiz. Zira yapılan bu ekleme ile aslında MakerDAO kendi başına bir merkez bankası gibi çalışmaya başladı. Ancak hemen bir parantez açarak, DAI yatırım hesabı olarak adlandırılan bu fonksiyonun deneme aşamasında olduğunu ve şu an için durdurulduğunu belirtelim. 
-
+Bunun yanında artık DAI yatırıp bununla faiz kazanma imkanı da kazandı bireyler. Bunu bir nevi paranızı dolar vadeli hesaba yatırmak olarak düşünebilirsiniz. Yapılan bu ekleme ile aslında MakerDAO kendi başına bir merkez bankası gibi çalışmaya başladı. Çünkü ilk çıktığında yazının başında bahsettiğimiz kullanıcılara borçlanarak DAI yani para arzı yarattıran ve kullanıcının ödeyeceği faizi değiştirerek esasında bu para arzını kontrol edebilen bir sistem idi MakerDAO. Şimdi bu yeni gelen yenilik ile kullanıcılara yaratılmış DAI'yi yatırım olarak değerlendirme hakkı veriyor ve bu yatırım karşılığı kullanıcıya ödenecek faiz oranını değşitirirek aslında bir nevi para talebini de kontrol ediyor. Böylece hem arz hem talep alanında aslında bir merkez politikasının gösterge faizler ile oynayarak yarattığı sistemin bir benzerini kuruyorlar. Bu başlı başına bir yazı konusu ve ayrı bir yazıda daha kapsamlı değerlendireceğiz.  Ancak hemen bir parantez açarak, DAI yatırım hesabı olarak adlandırılan bu fonksiyonun deneme aşamasında olduğunu ve şu an için durdurulduğunu belirtelim. 
 
 ### Gelecek nasıl görünüyor?
 
-Özellikle DeFi  geniş kesimlerce adaptasyonu için şu aşağıdaki özelliklerde gelişme kaydetmesi gerekiyor: 
+Özellikle DeFi  geniş kesimlerce adaptasyonu için birkaç alanda gelişme kaydetmesi gerekiyor: 
  
-- Kullanıcı arayüzlerinin gelişmesi
+- Kullanıcı dostu arayüzlerin geliştirilmesi
 - Daha geniş kesimlerce ulaşılabilir olması
 - Likiditenin artması
 - Volatilite'nin (değerdeki beklenmedik iniş-çıkışların) azalması
-- Türev olarak kullandıkları alt varlıkların olgunlaşması
+- Türev olarak kullanılan alt varlıkların olgunlaşması (örneğin ETH'nin yaşanan yukarıda anlattığımız kriz)
 - Ürünlerin üzerine kuruldukları altyapı teknolojilerinın çok daha kusursuz hâle gelmesi
 
-Yazıyı uzatmamak için maddeler halinde bırakalım zira yukarıdaki her bir başlık kendi içinde birer yazı konusu hakkında. 
+Yazıyı uzatmamak için maddeler halinde bırakalım bu gelişmeleri - yukarıdaki her bir başlık kendi içinde birer yazı konusu çünkü. 
 
 
 ### Sonuç
 MakerDAO, tamamen dijital dünyada kurulmuş bir merkez bankası deneyi esasında. Şu an için deneysel olarak ilerliyorlar, kâh hızlanıyorlar, kâh tökezliyorlar. Ancak şu ana kadar iyi idare ettiler. Eğer başarılı olurlar ise, önümüzdeki yıllarda ismini çok daha sık duymaya başlayacağımıza emin olabilirsiniz. 
 
-Her zaman söylediklerimiz ile bitirelim o zaman. Eğer aracılar kullanıcıların beklediğini vermekte zorlandıkça bu tip hizmetlere talep de giderek artacak. Nedir insanların istedikleri bu hizmetlerden? Herkese açık olsun (yalnızca parası olana değil finansal sisteme erişimi olmayan milyarlarca insan kullabilsin), pratik olsun (onlarca doküman, belge istemesin kullanmadan önce), ucuz olsun (hizmet verenlerin oturdukları plazaların kiralarını müşteriler ödemesin). Bunlar olmadığı durumda klasik finans hizmeti verenlerin pastadan aldığı pay azalacak, yeni sistemler giderek insanlığın hayatına girecek. 
+Her zaman söylediklerimiz ile bitirelim o zaman. Aracılar kullanıcıların beklediğini vermekte zorlandıkça bu tip hizmetlere talep de giderek artacak. Nedir insanların bu hizmetler ile ilgili beklentileri? Herkese açık olsun (yalnızca parası olana değil finansal sisteme erişimi olmayan milyarlarca insan da kullanabilsin), pratik olsun (onlarca doküman, belge istemesin kullanmadan önce) ve ucuz olsun (kullanıcılar hizmet verenlerin oturdukları plazaların kiralarını ödemek zorunda kalması). Bunun gerçekleşmediği durumlarda klasik finans hizmeti verenlerin pastadan aldığı pay azalacak, yeni sistemler giderek insanlığın hayatına daha çok girmeye başlayacak. 
 
+---
 
+Not: 
+Basitçe MakerDAO olayını anlatmaya çalışırsak, olay şu: Sistemin özünde kullanıcıların ellerindeki ETH (Ether)'leri teminat olarak gösterip DAI yaratmaları (borçlanmaları) var. Yatırılan teminatın yaratılan paranın %150'si olması gerekiyor ki sistem işlesin. Neden bu teminat var?
 
-Basitçe MakerDAO olayını anlatmaya çalışırsak:.Olay şu: Sistemin özünde kullanıcıların ellerindeki ETH (Ether)'leri teminat olarak gösterip DAI yaratmaları (borçlanmaları) var. Yatırılan teminatın yaratılan paranın %150'si olması gerekiyor ki sistem işlesin (niye bu kadar yüksek teminat var, yazının sonundaki notta). Ancak 12 Mart günü ETH fiyatının %53 düşmesi nedeniyle neredeyse bütün kredilerin karşılığı olan teminatlar pula döndü. 
-Diyelim 100 ETH'ye denk gelecek bir kredi almak istiyorsunuz. Alacağınız kredi DAI cinsinden, DAI ise dolara sabitlenmiş bir para. Bunun için minimum 150 ETH teminat koymanız lazım. Ama siz ihtiyatlı davranıp 200 ETH koydunuz. ETH bir günde %53 değer kaybedince dolar cinsinden 200 ETH teminatınız bırakın aldığınız kredinin 150%'sini karşılamayı, bir anda %94'ünü karşılar hale geliyor (200x(1-0.53)=94). Bu durumda da sistem teminatınızı bozuyor ve paranız yanıyor. 
+Klasik bankacılıkta karşımıza çıkan karşı partinin borcunu ödememe riski (counter-party risk) burada ekstra teminatlandırma ile çözülüyor. Zira normal hayatta yani klasik bankacılıkta bu riski bertaraf etmek için bankanın kredi derecelendirme uzmanları, kredinin ödenmemesi durumunda tahsilat için avukatları ve tahsilat elemanları var. Dijital dünyada bunların hiçbiri olmadığı için karşı parti riskini önlemenin tek yolu teminat miktarını olabildiğince fazla tutmak. İleride dijital kimliklerin daha da geliştiği ve bu kimlikler üzerinden karşı parti riskinin daha yönetilebilir hâle geldiği noktada bu yüksek teminat miktarları da azalacak muhtemelen. 
+
+Ancak 12 Mart günü ETH fiyatının %53 düşmesi nedeniyle neredeyse bütün kredilerin karşılığı olan teminatlar pula döndü. 
+Diyelim 100 ETH'ye denk gelecek bir kredi almak istiyorsunuz. Alacağınız kredi DAI cinsinden, DAI ise dolara sabitlenmiş bir para. Bunun için minimum 150 ETH teminat koymanız lazım. Ama siz ihtiyatlı davranıp 200 ETH koydunuz. ETH bir günde %53 değer kaybedince dolar cinsinden 200 ETH teminatınız, bırakın aldığınız kredinin 150%'sini karşılamayı, bir anda %94'ünü karşılar hale geliyor (200x(1-0.53)=94). Bu durumda da sistem teminatınızı bozuyor ve paranız yanıyor. 
 
 Böyle bir durumda makul olanı, ya ekstradan ETH koyarak ya da yarattığınız DAI'lerin bir kısmını yok ederek teminatı yeniden %150'nin üzerine çıkararak kredinizin yanmasını önlemek. Ancak tam o sırada benzer şekilde işlem yapmak isteyenlerden dolayı ETH işlemleri için kullanılan gas ücretlerinin zıplaması ve sistemsel sorunlar nedeniyle pek çok kişi teminatlarını tamamlayamadı. Açıkta kalan krediler açık artırma sistemi ile satılırken, sistemsel bir hatadan dolayı pek çok kontrat sıfır değer ile satıldı. Böyle yaklaşık 5 milyon ABD doları kadar büyüklükte bir kontrat bu durumdan etkilendi. 
 
-MakerDAO yöneticileri, sistemin güvenliğini sağlayan MKR token sahiplerine dönerek zarar görenleri zor durumdan kurtaracak bir plan önerdiler. Bu sayde kontratı yananların durumları düzeltildi. 
-
-(1) Klasik bankacılıkta karşımıza çıkan karşı partinin borcunu ödememe riski (counter-party risk) burada ekstra teminatlandırma ile çözülüyor. Zira normal hayatta klasik bankacılıkta bu riski bertaraf etmek için bankanın kredi derecelendirme uzmanları, kredinin ödenmemesi durumunda tahsilat için avukatları ve tahsilat elemanları var. Dijital dünyada bunların hiçbiri olmadığı için karşı parti riskini önlemenin tek yolu teminat miktarını olabildiğince fazla tutmak. İleride dijital kimliklerin daha da geliştiği bu kimlikler üzerinden karşı parti riskinin daha yönetilebilir hâle geldiği noktada bu teminat miktarları da azalacak muhtemelen. 
+MakerDAO yöneticileri, sistemin güvenliğini sağlayan MKR token sahiplerine dönerek zarar görenleri zor durumdan kurtaracak bir plan önerdiler. Bu sayede kontratı yananların durumları düzeltildi. 
