@@ -12,3 +12,5 @@
 
 Bir sonraki yazıda: 
 MakerDAO nasıl bir merkez bankası gibi çalışıyor? DAI Stability Fee bankanın DAI'nin arzı tarafındaki para politikasını belirlemesini sağlarken, DAI savings rate ise DAI'ye talep kısmında politika belirlemesini sağlıyor? [Peki bunu kim yapıyor](https://ethereumprice.org/guides/article/dai-savings-rate-explained/)? Yönetim kimin elinde?.. 
+
+https://ethereumprice.org/guides/article/dai-savings-rate-explained/
