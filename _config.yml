@@ -27,6 +27,7 @@ logo: "/ts-bg-dark-v2_bant_v3.png"
 header_pages:
   - about.md
   - videos.md
+comments: false
 
 # Build settings
 markdown: kramdown
