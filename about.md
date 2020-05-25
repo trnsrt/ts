@@ -4,7 +4,13 @@ title: Hakkımızda
 permalink: /about/
 ---
 
-Dağıtık (merkezi olmayan, adem-i merkezi) her tür teknoloji ve finans dünyasına etkileri üzerine karalamalar. Şu ana kadar yayınladığımız 40+ yazıda nelerden bahsettiğimizi özetleyecek olursak (her bir link ayrı bir yazı, ilginiz çeken konuya ulaşmak için linke tıklayabilirsiniz): 
+Boğaziçi Üniversitesi İşletme (BA, 1995) ve Harvard Business School (MBA, 2001) mezunu olan Turan Sert, finans ve teknoloji ağırlıklı kariyerine Arthur Andersen'da denetim ve Garanti Bankası'nda yatırım bankacılığı ile başladı.
+
+Booz Allen New York ofisinde üç yıl süren yönetim danışmanlığı sonrası 2005 yılında Türkiye'ye döndü. Çeşitli Fiba Grubu iştiraklerinde murahhas azalık ya da yönetim kurulu üyelikleri ve 2014-16 yılları arasında Özyeğin Üniversitesi’nde CBO'luk görevinde bulundu.
+
+Önce kuruluşundan itibaren içinde yer aldığı Girişim Fabrikası, sonrasında da 2016 yılında kurduğu teknoloji girişimi ile Türkiye'deki ekosistemin büyümesine katkı sağladı. 
+
+Blockchain Türkiye aracılığıyla 2019 yılında yayınlanan "[Sorularla Blockchain](http://bit.ly/Sorularla_Blockchain)" isimli bir kitabı da bulunmakta. 
 
 &nbsp;
 
