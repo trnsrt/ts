@@ -14,6 +14,8 @@ Blockchain Türkiye aracılığıyla 2019 yılında yayınlanan "[Sorularla Bloc
 
 &nbsp;
 
+“Burada nelerden bahsediliyor?” diye merak ediyorsanız, özetle aşağıda görebilirsiniz:
+
 - Blockchain teknolojisinin nasıl çıktığını merak ediyorsanız
   - [Geceleri uykunuzu ne kaçırıyor](/genel/2018/03/01/Geceleri-uykunuzu-ne-kaciriyor.html)
   - [Sahi nedir bu Blockchain Allah aşkına?](/genel/2018/03/02/Sahi-nedir-bu-blockchain-allah-askina.html) 
