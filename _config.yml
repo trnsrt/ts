@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: turansert
-github_username:  
+linkedin_username: turansert
 logo: "/ts_screenshot_2.png"
 
 # Build settings
