@@ -19,9 +19,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   Teknoloji - finans keşişiminde karalamalar. 
   Odak: Dağıtık (merkezi olmayan) her tür teknoloji ve hayatımıza etkileri.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "turansert.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: turansert
 linkedin_username: turansert
+instagram_username: turansert
 logo: "/ts_screenshot_2.png"
 
 # Build settings
