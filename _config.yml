@@ -23,7 +23,7 @@ url: "turansert.com" # the base hostname & protocol for your site, e.g. http://e
 twitter_username: turansert
 linkedin_username: turansert
 instagram_username: turansert
-logo: "/ts-bg-dark-v2_bant_v2.png"
+logo: "/ts-bg-dark-v2_bant_v3.png"
 
 # Build settings
 markdown: kramdown
