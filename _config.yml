@@ -20,9 +20,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   Odak: Dağıtık (merkezi olmayan) her tür teknoloji ve finans dünyasına etkileri.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ademi_merkezi
+twitter_username: turansert
 github_username:  
-logo: "/ademimerkezilogo.png"
+logo: "/ts_screenshot_2.png"
 
 # Build settings
 markdown: kramdown
