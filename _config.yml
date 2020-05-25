@@ -25,8 +25,9 @@ linkedin_username: turansert
 instagram_username: turansert
 logo: "/ts-bg-dark-v2_bant_v3.png"
 header_pages:
-  - about.md
+  - articles.md
   - videos.md
+  - about.md
 comments: false
 
 # Build settings
