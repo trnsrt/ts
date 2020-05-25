@@ -82,8 +82,6 @@ Böyle böyle sırayla tüm sayılar deneniyor. Ta ki bir sayı (diyelim "25264"
 
 &nbsp;
 
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=_160oMzblY8)
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_160oMzblY8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
