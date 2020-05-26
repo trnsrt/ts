@@ -5,14 +5,6 @@
 layout: home
 ---
 
-&nbsp;
 
-Turan Sert kişisel sayfası
-
-&nbsp;
-
----
-
-&nbsp;
 
 
