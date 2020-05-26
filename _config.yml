@@ -28,6 +28,7 @@ header_pages:
   - articles.md
   - videos.md
   - about.md
+  - English.md
 comments: false
 
 # Build settings
