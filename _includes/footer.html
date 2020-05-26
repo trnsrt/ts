@@ -17,7 +17,13 @@
       
       <div class="footer-col footer-col-3">  
         {% include subscription-form.html %}
-       </div>
+      
+      </div>
+          <div>
+      {% if site.tags != "" %}
+  {% include collecttags.html %}
+  {% endif %}
+    </div>
       
     </div>
 
