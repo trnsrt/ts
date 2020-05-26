@@ -9,7 +9,7 @@ You can find all my articles as well as talks on various media, all in one place
 
 See my bio from my [LinkedIn profile](https://www.linkedin.com/in/turansert/). If you are interested to learn more let's connect [there]((https://www.linkedin.com/in/turansert/)) or follow me on [Twitter](https://twitter.com/turansert).
 
-&nbsp
+&nbsp;
 
 
 ---
