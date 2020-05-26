@@ -36,4 +36,15 @@ Bir başka problem: Her bir finans kurumu ile çalışmaya başlarken onlarca bi
 Keza [sistemlerin hack edilmesi ve kredi kartı bilgilerinin çalınması](https://www.bbc.com/turkce/haberler-turkiye-50746265) da artık olağan karşılamaya başladığımız modern çağ problemleri arasında. 
 
 Bunlar mevcut kitle. Öte yandan hepimizin rahat yaşamları ardında göz ardı ettiğimiz çok büyük bir kesim daha var. Dünya Bankası tarafından 1.7 milyar kişi olduğu [tahmin edilen](https://www.worldbank.org/en/news/press-release/2018/04/19/financial-inclusion-on-the-rise-but-gaps-remain-global-findex-database-shows) finans sistemine erişimi olmayan kesim. Ya onlar ne olacak?
+
+#### Merkeziyetsiz Finans ne yapacak bunlara?
+İşte Merkeziyetsiz Finans denen hareket, mevcut finans aktörlerden bambaşka bir oyun planı ile ortaya çıkıyor. Amaç dijital dünyada gerçekleşen finans işlemlerinde aracıların verdiği hizmeti dağıtık yapılara kaydırmak. 
+Nasıl sağlanacak bu? Öncelikle güveni sağlamak adına merkezi olmayan dağıtık yönetim esasına göre kurulacaklar. Böylelikle güven ve sistemin korunması Blokzincir sayesinde gerçekleşecek. Keza sistemin yönetimi de aynı şekilde demoktratik bir biçimde Blokzincir üzerinden olacak. Bunun yanında kurulan sistemler birbirleri ile konuşabilir olacaklar. 
+
+Neden bunları yapıyorlar? Amaç, bu sayede gücü olabildiğince bireye vermek. 
+
+Nedir bu güç? Finansal hizmet aldığı ya da varlığını emanet ettiği yapılarda merkezi bir yönetimin keyfi kararlarından etkilenmemek. Kişisel bilgilerinin yönetiminde bütün kontrolün kendinde tutmak. Şifreleme ve anahtarlar aracılığıyla bu bilgilerin kendisini değil sadece geçerliliğini bu kurumlar ile paylaşmak.  İstediği zaman varlığını bir yapıdan diğerine rahatça geçirebilmek - bunu yaparken gerekli bilgilerin istediği kadarını vermek. Bilginin kontrolü elinde olduğu için ayrıldığı kurumun bu bilgilere erişimini anında kesmek. 
+
+### Arkası yarın
+Uzun bir girizgâh yaptık. Bir sonraki yazıda merkeziyetsiz finansın hangi alanlarda nasıl işler yapacağına bakacağız hep birlikte.. 
  
