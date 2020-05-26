@@ -1,3 +1,9 @@
+---
+layout: page
+title: Abone ol!
+permalink: /subscription-form/
+---
+
 Yeni yazılardan haberdar olmak isterseniz E-posta'nızı bırakın. 
 Kesinlikle pazarlama amaçlı mesajlar almayacaksınız. 
 
