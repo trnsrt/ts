@@ -3,8 +3,8 @@ Kesinlikle pazarlama amaçlı mesajlar almayacaksınız.
 
 <form action="https://getsimpleform.com/messages?form_api_token=142e3c67f698ef66966ef5177d9bff65" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-  <input type='hidden' name='redirect_to' value='</subscription-thank-you.md>' />
+  <input type='hidden' name='redirect_to' value='<www.turansert.com/subscription-thank-you.html>' />
   <!-- E-postanızı girin -->
-  <input type='text' name='E-posta' />
+  <input type='text' name='e-posta' />
   <input type='submit' value='Gönder' />
 </form>
