@@ -8,17 +8,17 @@
     <div class="footer-col-wrapper">
  
       <div class="footer-col footer-col-1">
-        {% include social.html %}
-      </div>
-
-      <div class="footer-col footer-col-2">
         <p>{{ site.description | escape }}</p>
       </div>
       
-      <div class="footer-col footer-col-3">  
+      <div class="footer-col footer-col-2">  
         {% include subscription_form.html %}
-      
       </div>
+      
+      <div class="footer-col footer-col-3">
+        {% include social.html %}
+      </div>
+     
           <div>
       {% if site.tags != "" %}
   {% include collecttags.html %}
