@@ -23,7 +23,7 @@ Yakın zamandaki tüm konuşmaların link'leri aşağıda:
 &nbsp;
 
 
-<iframe width="50%" height="50%" src="https://www.youtube.com/embed/ZYt_9Zp6YaU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>      |  <iframe width="50%" height="50%" src="https://www.youtube.com/embed/gCjw1-4ZOAs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100" height="100" src="https://www.youtube.com/embed/ZYt_9Zp6YaU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>      |  <iframe width="100" height="100" src="https://www.youtube.com/embed/gCjw1-4ZOAs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 :-------------------------:|:-------------------------:
  *Panelistler*  |  *Sunum*
 
