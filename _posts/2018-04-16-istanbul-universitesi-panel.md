@@ -7,7 +7,7 @@ tags: videos Etkinlikler
 ---
 ![](/assets/DSC_0189_v2.JPG)       |  İstanbul Üniversitesi İşletme Fakültesi Beta Gamma Sigma Society tarafından organize edilen "Sistem Değişiyor - Bitcoin & Blockchain" isimli panelden..
 :-------------------------:|:-------------------------:
-
+  |  
 
 
 İstanbul Üniversitesi İşletme Fakültesi Beta Gamma Sigma Society tarafından organize edilen "Sistem Değişiyor - Bitcoin & Blockchain" isimli panelden.. 
