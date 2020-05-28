@@ -3,7 +3,7 @@ layout: post
 title:  "İstanbul Üniversitesi - Panel "
 date:   2018-04-16 13:37:15 +0300
 categories: Genel
-tags: videos konusmalar
+tags: videos Etkinlikler
 ---
 
 
