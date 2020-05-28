@@ -37,7 +37,7 @@ Yakın zamandaki tüm konuşmaların link'leri aşağıda:
 
 <table><tr><td style="width:50%">
 <a href="/genel/2018/04/16/istanbul-universitesi-panel.html">
-   <img src="/assets/iu_blockchain_afis_v3.png" width="100%" height="100%">
+   <img src="/assets/iu_blockchain_afis_v3.png">
 </a>
 <td style="width:50%">
 <a>Beta Gamma Sigma Society tarafından organize edilen "Sistem Değişiyor - Bitcoin & Blockchain" panelinde İstanbul Üniversitesi İşletme Fakültesi öğrencileri ile buluşmadan kareler..
