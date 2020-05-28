@@ -3,7 +3,7 @@ layout: post
 title:  "BlockchainFest İstanbul - Panel "
 date:   2018-09-19 13:37:15 +0300
 categories: Genel
-tags: videos konusmalar etkinlikler
+tags: videos konusmalar Etkinlikler
 ---
 
 19 Eylül 2018'de Kadir Has Üniversitesi'nde yapılan BlockchainFest İstanbul'da "Crypto Talk: Creation a Viable Ecosystem" panelinden. 
