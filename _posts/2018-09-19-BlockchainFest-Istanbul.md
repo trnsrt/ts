@@ -7,7 +7,7 @@ tags: videos Etkinlikler
 ---
 
 <table><tr><td style="width:30%">
-   <img src="assets/blockchain_fest_istanbul.jpg">
+   <img src="/assets/blockchain_fest_istanbul.jpg">
 </a></td>
 <td style="width:70%">
 <p>
@@ -21,11 +21,11 @@ Katılımcılar:
 - [İsmail Hakkı Polat](https://twitter.com/ismailhpolat), Kadir Has Üniversitesi (moderator); 
 
 <table><tr><td style="width:30%">
-<a href="/genel/2018-09-19-BlockchainFest-Istanbul.html"><img src="assets/blockchain_fest_istanbul_roster.jpg">
+<a href="/genel/2018-09-19-BlockchainFest-Istanbul.html"><img src="/assets/blockchain_fest_istanbul_roster.jpg">
 </a></td>
 <td style="width:70%">
 <a href="/genel/2018-09-19-BlockchainFest-Istanbul.html">
-   <img src="assets/blockchain_fest_panel.jpg">
+   <img src="/assets/blockchain_fest_panel.jpg">
 </td></tr>
 <tr><td style="width:30%">
 <p>
