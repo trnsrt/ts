@@ -25,8 +25,8 @@ Katılımcılar:
 </a></td>
 <td style="width:70%">
 <a href="/genel/2018-09-19-BlockchainFest-Istanbul.html"><img src="/assets/blockchain_fest_panel.jpg">
-</td>
-<td style="width:30%">
+   </td></tr>
+<tr><td style="width:30%">
 <p>
 BlockchainFest İstanbul panelistler
 </p></td>
