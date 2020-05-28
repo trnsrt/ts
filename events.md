@@ -27,7 +27,7 @@ Yakın zamandaki tüm konuşmaların link'leri aşağıda:
 - İstanbul Üniversitesi İşletme Fakültesi - 16 Nisan 2018 Panel 
 
 <a href="/genel/2018/04/16/istanbul-universitesi-panel.html">
-   <img src="/assets/iu_blockchain_afis_v3.png" width="560" height="315">
+   <img src="/assets/iu_blockchain_afis_v3.png" width=50% height=50%>
 </a>
 
 
