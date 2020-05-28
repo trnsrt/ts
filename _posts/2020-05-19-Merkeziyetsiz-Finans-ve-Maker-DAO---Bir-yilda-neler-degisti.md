@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Merkeziyetsiz Finans ve Maker DAO - Bir yılda neler değişti?"
-date:   2020-03-17 12:47:56 +0300
+date:   2020-05-19 12:47:56 +0300
 categories: Genel
 ---
 
