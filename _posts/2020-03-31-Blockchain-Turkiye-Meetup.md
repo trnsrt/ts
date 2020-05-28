@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Blockchain Türkiye - 31 Mart 2020 Canlı yayın  "
+title:  "Blockchain Türkiye - 31 Mart 2020 Canlı yayın"
 date:   2020-03-31 13:37:15 +0300
 categories: Genel
 tags: videos Etkinlikler
