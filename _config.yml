@@ -27,7 +27,7 @@ logo: "/ts-bg-dark-v2_bant_v4.png"
 header_pages:
   - about.md
   - articles.md
-  - events.md
+  - Etkinlikler.md
   - subscription-form.md
   - english.md
 comments: false
