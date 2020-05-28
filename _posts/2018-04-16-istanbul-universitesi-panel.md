@@ -11,6 +11,6 @@ Panelistler:
 
 
 
-Panelistler             |  Sunum
+ ![](/assets/DSC_0207_v2.JPG)           |  ![](/assets/DSC_0189_v2.JPG)
 :-------------------------:|:-------------------------:
-![](/assets/DSC_0207_v2.JPG)  |  ![](/assets/DSC_0189_v2.JPG)
+ *Panelistler*  |  *Sunum*
