@@ -16,6 +16,12 @@ tags: videos Etkinlikler
  ![](/assets/DSC_0207_v2.JPG)           |  ![](/assets/DSC_0189_v2.JPG)
 :-------------------------:|:-------------------------:
  *Panelistler*  |  *Sunum*
+ 
+  <img src="/assets/iu_blockchain_afis_v3.png" alt="iu Blockchain"
+	title="IU Blockchain" width=40% height=40% />       |  <img src="/assets/iu_blockchain_afis_v3.png" alt="iu Blockchain"
+	title="IU Blockchain" width=50% height=50% />
+:-------------------------:|:-------------------------:
+ *Panelistler*  |  *Sunum*
 
 Panelistler: 
 - [Burak Bozkurtlar](https://twitter.com/thegreywolves) - Siber Güvenlik Uzmanı
