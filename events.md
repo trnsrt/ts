@@ -34,6 +34,7 @@ Yakın zamandaki tüm konuşmaların link'leri aşağıda:
 
 - [İstanbul Üniversitesi İşletme Fakültesi - 16 Nisan 2018 Panel](/genel/2018/04/16/istanbul-universitesi-panel.html) 
 
+&nbsp;
 
 <table><tr><td style="width:50%">
 <a href="/genel/2018/04/16/istanbul-universitesi-panel.html">
