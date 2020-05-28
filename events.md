@@ -19,7 +19,7 @@ Yakın zamandaki tüm konuşmaların link'leri aşağıda:
 
 - Blockchain Türkiye - 31 Mart 2020 Canlı yayın 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gCjw1-4ZOAs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/gCjw1-4ZOAs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 &nbsp;
