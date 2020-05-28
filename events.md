@@ -12,7 +12,7 @@ Yakın zamandaki tüm konuşmaların link'leri aşağıda:
 
 - BTC Haber ile Salı Buluşmaları - 5 Mayıs 2020 Canlı Yayın 
 
-<iframe width="100%" height="100%" src="https://www.youtube.com/embed/ZYt_9Zp6YaU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/ZYt_9Zp6YaU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 &nbsp;
