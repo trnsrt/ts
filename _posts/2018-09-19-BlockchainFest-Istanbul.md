@@ -8,7 +8,7 @@ tags: videos Etkinlikler
 
 <table><tr><td style="width:30%">
    <img src="/assets/blockchain_fest_istanbul.jpg">
-</a></td>
+</td>
 <td style="width:70%">
 <p>
 19 Eylül 2018'de Kadir Has Üniversitesi'nde yapılan BlockchainFest İstanbul'da "Crypto Talk: Creation a Viable Ecosystem" panelinden. 
