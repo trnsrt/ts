@@ -1,5 +1,5 @@
 ---
 layout: tagpage
 title: "Etkinlikler"
-tag: etkinlikler
+tag: Etkinlikler
 ---
