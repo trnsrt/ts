@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Konuşmalar
-permalink: /videos/
+title: Etkinlikler
+permalink: /events/
 ---
 
 Yakın zamandaki tüm konuşmaların link'leri aşağıda: 
