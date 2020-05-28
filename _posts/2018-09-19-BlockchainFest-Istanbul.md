@@ -18,7 +18,7 @@ tags: videos Etkinlikler
 Panelistler: 
 Katılımcılar: 
 - [Serhat Aydın](https://twitter.com/srht_aydn_82), Bundle Network
-- [İsmail Hakkı Polat](https://twitter.com/ismailhpolat), Kadir Has Üniversitesi (moderator); 
+- [İsmail Hakkı Polat](https://twitter.com/ismailhpolat), Kadir Has Üniversitesi (moderator) 
 
 <table><tr><td style="width:30%">
 <img src="/assets/blockchain_fest_istanbul_roster.jpg">
