@@ -22,3 +22,11 @@ Yakın zamandaki tüm konuşmaların link'leri aşağıda:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gCjw1-4ZOAs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
+&nbsp;
+
+- İstanbul Üniversitesi İşletme Fakültesi - 16 Nisan 2018 Panel 
+
+<img src="assets/iu_blockchain_afis_v3.png" alt="iu_blockchain" title="A cute kitten" width="560" height="315" />
+
+
+
