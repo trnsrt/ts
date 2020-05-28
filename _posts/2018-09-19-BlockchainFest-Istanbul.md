@@ -6,11 +6,6 @@ categories: Genel
 tags: videos Etkinlikler
 ---
 
-blockchain_fest_istanbul_roster.jpeg	
-blockchain_fest_istanbul.jpeg	
-blockchain_fest_panel.jpeg
-
-
 <table><tr><td style="width:30%">
 <a href="/genel/2018-09-19-BlockchainFest-Istanbul.html">
    <img src="assets/blockchain_fest_istanbul.jpeg">
