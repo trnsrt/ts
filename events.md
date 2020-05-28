@@ -53,8 +53,3 @@ Yakın zamandaki tüm konuşmaların link'leri aşağıda:
 
 &nbsp;
 
-<a href="/genel/2018/04/16/istanbul-universitesi-panel.html">
-   <img src="/assets/iu_blockchain_afis_v3.png" width="100%" height="100%">
-</a>
-
-
