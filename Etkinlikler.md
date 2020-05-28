@@ -1,5 +1,5 @@
 ---
-layout: tagpage
+layout: home
 title: "Etkinlikler"
 tag: Etkinlikler
 ---
