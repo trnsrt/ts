@@ -23,9 +23,9 @@ Yakın zamandaki tüm konuşmaların link'leri aşağıda:
 &nbsp;
 
 <table><tr><td style="width:50%">
-<iframe width="450" height="315" src="https://www.youtube.com/embed/ZYt_9Zp6YaU" frameborder="0" allowfullscreen></iframe></td>
+<iframe width="112" height="63" src="https://www.youtube.com/embed/ZYt_9Zp6YaU" frameborder="0" allowfullscreen></iframe></td>
 <td style="width:50%">
-<img src="/pictures/colour_bar.png" width="200" height="315"/>
+<iframe width="112" height="63" src="https://www.youtube.com/embed/ZYt_9Zp6YaU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </td></tr></table>
 
 
