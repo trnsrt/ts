@@ -18,14 +18,15 @@ Yakın zamandaki tüm konuşmaların link'leri aşağıda:
 
 - Blockchain Türkiye - 31 Mart 2020 Canlı yayın 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gCjw1-4ZOAs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZYt_9Zp6YaU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 &nbsp;
 
-
-<iframe width="100" height="100" src="https://www.youtube.com/embed/ZYt_9Zp6YaU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>      |  <iframe width="100" height="100" src="https://www.youtube.com/embed/gCjw1-4ZOAs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-:-------------------------:|:-------------------------:
- *Panelistler*  |  *Sunum*
+<table><tr><td style="width:50%">
+<iframe width="450" height="315" src="https://www.youtube.com/embed/ZYt_9Zp6YaU" frameborder="0" allowfullscreen></iframe></td>
+<td style="width:50%">
+<img src="/pictures/colour_bar.png" width="200" height="315"/>
+</td></tr></table>
 
 
 
