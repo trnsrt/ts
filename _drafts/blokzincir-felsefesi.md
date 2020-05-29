@@ -6,7 +6,7 @@ Bundan sonra haftalık yazılar ile birlikte olacağız. Yazılarımın ana tema
 
 Öncesinde bu yazıda bana sık sorulan bir soruya farklı bir açıdan yanıt vererek başlayalım istiyorum. "Blokzincir nedir?" diye sorulduğunda hepimizin ayrı bir yorumu, ayrı bir cevabı var. Bana sorduklarında tek cümle ile cevabım "Dijital dünyada, ikili her tür ilişkide aracılık yapanları ortadan kaldırmayı hedefleyen felsefenin yarattığı teknoloji" diyorum. 
 
-Gelin dilerseniz Blokzincir'in çıkış noktası olan felsefenin çıkış noktasını kısaca yorumlayalım. İşin özünde bahsettiğimiz bir "güç çekişmesi" ve kökleri çok eskilere dayanıyor. Çekimenin bir tarafında birey diğer tarafında ise bireyin sahip olduğu her tür varlık, hak ve özgürlüklerini sınırlamaya (ya da sahip olmaya) çalışan her tür yapı var.
+Gelin dilerseniz Blokzincir'in çıkış noktası olan felsefenin çıkış noktasını kısaca yorumlayalım. İşin özünde bahsettiğimiz bir "güç çekişmesi*" ve kökleri çok eskilere dayanıyor. Çekişmenin bir tarafında birey diğer tarafında ise bireyin sahip olduğu her tür varlık, hak ve özgürlüklerini sınırlamaya (ya da sahip olmaya) çalışan her tür yapı var.
 
 Bireyin sahip olduğu bu hakların üzerinde sahiplenmeyi hemen "haksız" bir sahiplenme olarak algılamayın lütfen. Bunların pek çoğu bireylerin kendi istekleri ile bu yapılara veriliyordu. Örneğin bir toplum içinde güvenli ve huzurlu yaşamak istiyorsanız, gayet tabii varlığınızın bir kısmını vergi olarak vereceksiniz, aksi halde havadan gelecek değil bu hizmetler. Ya da bir işi yaparken arada bir aracı varsa, o aracı gayet tabii bu hizmeti bir bedel karşılığı size sunacak. 
 
@@ -30,13 +30,17 @@ Birincisi, aslında bize dijital hayatın nimetlerini de getiren internet. Inter
 
 2000'li yıllara geldiğimizde artık gittikçe olgunlaşmaya başlayan internet ve şifreleme teknolojilerinin üzerine Satoshi Nakamoto dediğimiz kişi/grup üçüncü kritik konuyu geliştirdi. Adeta un ve şekeri bir araya getirip kıvamında bir helva yaptı bizlere. Bu da dağıtılmış bir şekilde bir arada duran makinelerin, ortak hareket edebilmelerini sağlayan bir yazılım (uzlaşma mekanizması). Bu sayede, binlerce makine herhangi bir merkezi otoriteden direktif almadan, tamamen serbest bir biçimde kendilerine verilen kodu kullanarak on yıldır tık demeden çalışan bir sistemi yürütüyorlar. İşte devrim de burada.. 
 
+### Felsefinin ötesi
+
+Blokzincir, yukarıda bahsettiğim çekişme içinde bireyin eline verilmiş bir araç. Bireyler bu araçları ne kadar kullanacak, bu araçlara ne kadar adapte olacak zamanla göreceğiz. [Cambridge Analytica](https://www.theguardian.com/news/series/cambridge-analytica-files) ya da [2019 Aralık ayında yaşadığımız 460 binden fazla kredi kartı bilgisinin çalınması](https://www.bbc.com/turkce/haberler-turkiye-50746265) gibi skandallar bu alandaki farkındalığı artırmak anlamında kısmi de olsa etkili oldular. 
+
+Bireylerin hak alanını genişletmek fikrinden ortaya blokzincir teknolojisi aslında aracıların olduğu her alanda işe yarayabileceği umuduyla kurumsal tarafa da sıçradı haliyle. Ağırlıklı olarak kurumlar tarafından kullanılan özel blokzincirler de benzer şekilde oluşan katma değerin aracılar tarafından yenen parçası üzerinde kullanıcıların daha fazla hak iddia edecekleri yapılar kurmak için çalışıyorlar. Özel blokzincirlerin gerekliliği konusunu ise tartışmaya devam edeceğiz zira o alanda daha büyük potansiyelim dağıtık veritabanları ile kullanımında olduğunu söylemek mümkün. 
+
+Elbette bu teknolojinin kullanımı sırasında kendi coğrafi bölgelerinde ülkeler belli regülasyonlar koymaya çalışacaklar. Ülkeler bu denetimleri yaparken dijital dünyada olduğumuzu ve yapılacak her tür baskının gerek teknoloji üretimi gerekse kullanımı anlamında teknolojinin anından ülkeden dışarı kaçacağı gerçeğini unutmazlar. 
+
 ### Bundan sonrası
 
-Blokzincir, yukarıda bahsettiğim çekişme içinde bireyin eline verilmiş bir araç. Bireyler bu araçları ne kadar kullanacak, bu araçlara ne kadar adapte olacak zamanla göreceğiz. [Cambridge Analytica](https://www.theguardian.com/news/series/cambridge-analytica-files) ya da gibi skandallar bu alandaki farkındalığı artırmak anlamında oldukça etkili oldular. 
-
-Yalnızca bireyler tarafından kullanılacak açık blokzincirler değil, kurumlar tarafından kullanılan özel blokzincirler de benzer şekilde oluşan katma değerin aracılar tarafından yenen parçası üzerinde kullanıcıların daha fazla hak iddia edecekleri yapılar kurmak için çalışıyorlar. Özel blokzincirlerin gerekliliği konusunu ise tartışmaya devam edeceğiz zira o alanda daha büyük potansiyelim dağıtık veritabanları ile kullanımında olduğunu söylemek mümkün. 
-
-Geniş kitleler hala 
+Gelecekte her ne olursa olsun şu an için önemli olan blokzincir ile bireylerin eline bir alternatif verilmiş olması. Unutmayalım, rekabet her zaman iyidir. 
 
 
 
@@ -48,4 +52,4 @@ Geniş kitleler hala
 
 
 
-Dikkat ederseniz "çekişme" sözünü kullandım, kimileri "savaş" da der buna. Halbuki savaşların genelde bir noktada galibi olur. Halbuki bu çekişmenin herhangi bir galibi şimdiye kadar yok ve muhtemelen hiçbir zaman da olmayacak. 
+* Dikkat ederseniz "çekişme" (ing. struggle) sözünü kullandım, kimileri "savaş" da der buna. Halbuki savaşların genelde bir noktada galibi olur. Halbuki bu çekişmenin herhangi bir galibi şimdiye kadar yok ve muhtemelen hiçbir zaman da olmayacak. 
