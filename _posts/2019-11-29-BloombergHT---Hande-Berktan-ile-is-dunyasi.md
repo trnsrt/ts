@@ -25,7 +25,7 @@ tags: Etkinlikler
    </td></tr>
 <tr><td style="width:30%">
 <p>
-Gündemin sıcak konusu Facebook'un Libra projesi)
+Gündemin sıcak konusu Facebook'un Libra projesi
 </p></td>
 <td style="width:70%">
 <p>
