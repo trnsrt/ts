@@ -7,7 +7,7 @@ tags: videos Etkinlikler
 ---
 
 <table><tr><td style="width:30%">
-   <img src="/assets/cem_kosmaz_instagram_live.jpg">
+   <img src="/assets/cem_kosmaz_instagram_live_2.jpg">
 </td>
 <td style="width:70%">
 <p>
