@@ -1,0 +1,1 @@
+Hepimiz için 
