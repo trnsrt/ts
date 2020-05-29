@@ -29,7 +29,7 @@ Gündemin sıcak konusu Facebook'un Libra projesi
 </p></td>
 <td style="width:70%">
 <p>
-Sorularla Blockchain" kitabını anlatırken
+"Sorularla Blockchain" kitabını anlatırken
 </p>
 </td></tr>
 </table>
