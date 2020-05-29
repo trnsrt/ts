@@ -11,9 +11,7 @@ tags: videos Etkinlikler
 </td>
 <td style="width:70%">
 <p>
-20 yıllık arkadaşım</p> 
-![Cem Koşmaz](https://www.instagram.com/cemkosmaz1/) 
-<p>davet edince Instagram Live'ı denemek de kısmet oldu. Yaklaşık 40 dakika süren güzel bir sohbetti. Teşekkürler Cem.. 
+20 yıllık arkadaşım Cem Koşmaz davet edince Instagram Live'ı denemek de kısmet oldu. Yaklaşık 40 dakika süren güzel bir sohbetti. Teşekkürler Cem.. 
 </p>
 </td></tr></table>
 
