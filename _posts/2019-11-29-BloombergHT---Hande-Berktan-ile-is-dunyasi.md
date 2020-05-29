@@ -17,13 +17,13 @@ tags: Etkinlikler
 
 &nbsp;
 
-<table><tr><td style="width:30%">
+<table><tr><td style="width:50%">
 <img src="/assets/TS_Bloomberg_191129_5.jpg">
 </td>
 <td style="width:70%">
 <img src="/assets/TS_Bloomberg_191129_4.jpg">
    </td></tr>
-<tr><td style="width:30%">
+<tr><td style="width:50%">
 <p>
 Gündemin sıcak konusu Facebook'un Libra projesi
 </p></td>
