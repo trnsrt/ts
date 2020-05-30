@@ -17,7 +17,7 @@ Önce kuruluşundan itibaren içinde yer aldığı Girişim Fabrikası, son
 <table><tr><td style="width:30%">
    <img src="/assets/Sorularla_Blockchain_Turan_Sert_kapak-2.jpg">
 </td>
-<td style="width:70%"><a>Blockchain Türkiye aracılığıyla 2019 yılında yayınlanan "[Sorularla Blockchain](http://bit.ly/Sorularla_Blockchain)" isimli bir kitabı da bulunmakta. Kitabı pdf versiyonunu ücretsiz olarak</a>
+<td style="width:70%" text-align="top"><a>Blockchain Türkiye aracılığıyla 2019 yılında yayınlanan "[Sorularla Blockchain](http://bit.ly/Sorularla_Blockchain)" isimli bir kitabı da bulunmakta. Kitabı pdf versiyonunu ücretsiz olarak</a>
 <a href="http://bit.ly/Sorularla_Blockchain"> buradan </a><span>indirebilirsiniz</span></a>
 </td></tr></table>
 
