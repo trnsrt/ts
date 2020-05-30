@@ -12,22 +12,4 @@ Önce kuruluşundan itibaren içinde yer aldığı Girişim Fabrikası, son
 
 Blockchain Türkiye aracılığıyla 2019 yılında yayınlanan "[Sorularla Blockchain](http://bit.ly/Sorularla_Blockchain)" isimli bir kitabı da bulunmakta. Kitabı pdf versiyonunu ücretsiz olarak [buradan](http://bit.ly/Sorularla_Blockchain) indirebilirsiniz.  
 
-<a href="http://bit.ly/Sorularla_Blockchain">
-         <img alt="Kitabı indirmek için tıklayin" src="/assets/Sorularla_Blockchain_Turan_Sert_kapak-2.jpg"
-         width="30%">
-      </a>
-
-<img href="http://bit.ly/Sorularla_Blockchain" src="/assets/Sorularla_Blockchain_Turan_Sert_kapak-2.jpg" style="width:30%"> 
-
-<table><tr><td style="width:30%">
-   <img src="/assets/Sorularla_Blockchain_Turan_Sert_kapak-2.jpg">
-</td>
-<td style="width:70%; vertical-align:top"><a><span>Blockchain Türkiye aracılığıyla 2019 yılında yayınlanan "Sorularla Blockchain" isimli bir kitabı da bulunmakta. Kitabı pdf versiyonunu ücretsiz olarak</span></a>
-<a href="http://bit.ly/Sorularla_Blockchain"> buradan </a><span>indirebilirsiniz</span></a>
-</td></tr></table>
-
-
-<a>Blockchain Türkiye aracılığıyla 2019 yılında yayınlanan "[Sorularla Blockchain](http://bit.ly/Sorularla_Blockchain)" isimli bir kitabı da bulunmakta. Kitabı pdf versiyonunu ücretsiz olarak</a>
-<a href="http://bit.ly/Sorularla_Blockchain"> buradan </a><span>indirebilirsiniz</span></a><img src="/assets/Sorularla_Blockchain_Turan_Sert_kapak-2.jpg">
-
-[![Sorularla Blockchain](/assets/Sorularla_Blockchain_Turan_Sert_kapak-2.jpg "ücretsiz indirmek için resme tıklayın")](http://bit.ly/Sorularla_Blockchain) 
+<a href="http://bit.ly/Sorularla_Blockchain"> <img alt="Kitabı indirmek için tıklayin" src="/assets/Sorularla_Blockchain_Turan_Sert_kapak-2.jpg" width="30%"></a>
