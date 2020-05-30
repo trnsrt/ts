@@ -18,17 +18,6 @@ Blockchain Türkiye aracılığıyla 2019 yılında yayınlanan "[Sorularla Bloc
 | Paragraph   | Text        |
 
 
-
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-
-
-
-
-| Header      | Title       |
-| Paragraph   | Text        |
-
 <table><tr><td style="width:30%">
    <img src="/assets/yetgen_3.jpg">
 </td>
