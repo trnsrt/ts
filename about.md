@@ -12,6 +12,10 @@ Önce kuruluşundan itibaren içinde yer aldığı Girişim Fabrikası, son
 
 Blockchain Türkiye aracılığıyla 2019 yılında yayınlanan "[Sorularla Blockchain](http://bit.ly/Sorularla_Blockchain)" isimli bir kitabı da bulunmakta. Kitabı pdf versiyonunu ücretsiz olarak [buradan](http://bit.ly/Sorularla_Blockchain) indirebilirsiniz.  
 
+<a href="http://bit.ly/Sorularla_Blockchain">
+         <img alt="Kitabı indirmek için tıklayin" src="/assets/Sorularla_Blockchain_Turan_Sert_kapak-2.jpg"
+         width="30%" height="30">
+      </a>
 
 <img href="http://bit.ly/Sorularla_Blockchain" src="/assets/Sorularla_Blockchain_Turan_Sert_kapak-2.jpg" style="width:30%"> 
 
