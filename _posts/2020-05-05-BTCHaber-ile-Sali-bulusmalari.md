@@ -20,7 +20,7 @@ BTCHaber.com'un düzenlediği Salı toplantılarının ikincisine Devrim Danyal'
 <table><tr><td style="width:50%">
 <img src="/assets/BTCHaber_Sali_Bulusmalari_screenshot_640.png">
 </td>
-<td style="width:50%; vertical-align:top">
+<td style="width:50%">
 <iframe width="224" height="126" src="https://www.youtube.com/embed/09zcikFwXgg?t=402" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
