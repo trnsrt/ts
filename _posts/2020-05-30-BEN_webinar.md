@@ -27,7 +27,7 @@ https://youtu.be/y-YIugVNmLw?t=741
 <p>
 Blockchain Education Network webinar katılımcılarının ekranlarını açan bir kısmı ile :) 
 </p></td>
-<td style="width:70%" vertical-align:top">
+<td style="width:70%" "vertical-align:top">
 <p>
 Tüm toplantının videosu - 12:21'de başlıyor</p>
 </td></tr>
