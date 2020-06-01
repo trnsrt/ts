@@ -9,7 +9,7 @@ tags: Etkinlikler
 <table><tr><td style="width:30%">
    <img src="/assets/TS_Bloomberg_191129-3.jpg">
 </td>
-<td style="width:70%">
+<td style="width:70%; vertical-align:top">
 <p>
 29 Kasım 2019 Cuma günü sevgili Ahmet Usta ile birlikte Hande Berktan'ın hazırlayıp sunduğu İş Dünyası programı için Bloomberg HT'ye konuk oldum. Keyifli bir sohbetti. Ancak video kaydına ulaşamadım. Birkaç kareyi ekte paylaşıyorum:  
 </p>
@@ -23,11 +23,11 @@ tags: Etkinlikler
 <td style="width:70%">
 <img src="/assets/TS_Bloomberg_191129_4.jpg">
    </td></tr>
-<tr><td style="width:50%">
+<tr><td style="width:50%; vertical-align:top">
 <p>
 Gündemin sıcak konusu Facebook'un Libra projesi
 </p></td>
-<td style="width:70%">
+<td style="width:70%; vertical-align:top">
 <p>
 "Sorularla Blockchain" kitabını anlatırken
 </p>
