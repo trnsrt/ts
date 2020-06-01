@@ -15,6 +15,25 @@ Mehmet Zorlu Vakfı ve Mef Üniversitesi tarafından düzenlenen YetGen - Yetkin
 </p>
 </td></tr></table>
 
+&nbsp;
+
+<table><tr><td style="width:50%">
+<img src="/assets/yetgen_2.jpg">
+</td>
+<td style="width:70%">
+<img src="/assets/TS_Bloomberg_191129_4.jpg">
+   </td></tr>
+<tr><td style="width:50%">
+<p>
+Gündemin sıcak konusu Facebook'un Libra projesi
+</p></td>
+<td style="width:70%">
+<p>
+"Sorularla Blockchain" kitabını anlatırken
+</p>
+</td></tr>
+</table>
+
 
 <table><tr><td style="width:100%">
 <img src="/assets/yetgen_2.jpg">
