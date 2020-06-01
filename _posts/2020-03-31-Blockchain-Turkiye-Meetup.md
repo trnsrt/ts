@@ -8,7 +8,7 @@ tags: videos Etkinlikler
 
 
 
-
+bctr_meetup_640.jpg
 
 
 
