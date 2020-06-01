@@ -25,7 +25,7 @@ https://youtu.be/y-YIugVNmLw?t=741
 <iframe width="224" height="126" src="https://www.youtube.com/embed/y-YIugVNmLw?t=741" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%">
 <p>
-Blockchain Education Network webinarı katılımcılarının ekranlarını açan bir kısmı ile :) 
+Blockchain Education Network webinar katılımcılarının ekranlarını açan bir kısmı ile :) 
 </p></td>
 <td style="width:70%">
 <p>
