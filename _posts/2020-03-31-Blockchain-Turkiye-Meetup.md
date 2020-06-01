@@ -26,6 +26,6 @@ tags: videos Etkinlikler
 <tr>
 <td style="width:70%">
 <p>
-Tüm toplantının videosu</p>
+Etkinliğin videosuu</p>
 </td></tr>
 </table>
