@@ -22,7 +22,7 @@ Blockchain Education Network, çeşitli üniversitelerin Blockchain kluplerinin 
 </td>
 <td style="width:30%">
 <iframe width="112" height="63" src="https://www.youtube.com/embed/y-YIugVNmLw?t=741" frameborder="0" allowfullscreen></iframe></td></tr>
-<tr><td style="width:70%">
+<tr><td style="width:70%; vertical-align:top">
 <p>
 Blockchain Education Network webinar katılımcılarının ekranlarını açan bir kısmı ile :) 
 </p></td>
