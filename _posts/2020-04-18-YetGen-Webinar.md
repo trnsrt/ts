@@ -21,8 +21,7 @@ Mehmet Zorlu Vakfı ve Mef Üniversitesi tarafından düzenlenen YetGen - Yetkin
 <img src="/assets/yetgen_2.jpg">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/tFMYrUdCcJ0?t=1687" frameborder="0" allowfullscreen></iframe></td>
-   </td></tr>
+<iframe width="224" height="126" src="https://www.youtube.com/embed/tFMYrUdCcJ0?t=1687" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%">
 <p>
 Katılımcılar
