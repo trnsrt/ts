@@ -10,7 +10,7 @@ tags: videos Etkinlikler
 
 <table><tr><td style="width:30%">
 <img src="/assets/bctr_meetup_640.jpg"></td>
- <td style="width:70%">
+ <td style="width:70%; vertical-align:top">
 <p>
 "Sorularla Blockchain" kitabımın çıkışı nedeniyle düzenleyeceğimiz meetup COVID salgını nedeniyle webinar olarak yapıldı. Sevgili Ahmet Usta'ya yayın için teşekkürler... 
 </p>
@@ -26,7 +26,7 @@ tags: videos Etkinlikler
 </td>
 </tr>
 <tr>
-<td style="width:70%">
+<td style="width:70%; vertical-align:top">
 <p>
 Etkinliğin videosuu</p>
 </td></tr>
