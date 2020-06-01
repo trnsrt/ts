@@ -20,14 +20,12 @@ tags: videos Etkinlikler
 
 &nbsp;
 
-<table><tr><td style="width:50%">
-<iframe width="112" height="63" src="https://www.youtube.com/embed/gCjw1-4ZOAs" frameborder="0" allowfullscreen></iframe></td>
-<td style="width:70%">
-</td>
+<table><tr><td>
+<iframe width="224" height="126" src="https://www.youtube.com/embed/gCjw1-4ZOAs" frameborder="0" allowfullscreen></iframe></td>
 </tr>
 <tr>
-<td style="width:70%; vertical-align:top">
+<td style="vertical-align:top">
 <p>
-Etkinliğin videosuu</p>
+Etkinliğin videosu</p>
 </td></tr>
 </table>
