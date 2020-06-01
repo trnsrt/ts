@@ -28,6 +28,6 @@ Blockchain Education Network webinar katılımcılarının ekranlarını açan b
 </p></td>
 <td style="width:50%; vertical-align:top">
 <p>
-Tüm toplantının videosu - 12:21'de başlıyor</p>
+Tüm yayın videosu - 12:21'de başlıyor</p>
 </td></tr>
 </table>
