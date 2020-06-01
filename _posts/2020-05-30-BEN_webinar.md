@@ -18,16 +18,16 @@ https://youtu.be/y-YIugVNmLw?t=741
 
 &nbsp;
 
-<table><tr><td style="width:50%">
+<table><tr><td style="width:70%">
 <img src="/assets/ben_webinar_screenshot_640.png">
 </td>
-<td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/y-YIugVNmLw?t=741" frameborder="0" allowfullscreen></iframe></td></tr>
-<tr><td style="width:50%">
+<td style="width:30%">
+<iframe width="112" height="63" src="https://www.youtube.com/embed/y-YIugVNmLw?t=741" frameborder="0" allowfullscreen></iframe></td></tr>
+<tr><td style="width:70%">
 <p>
 Blockchain Education Network webinar katılımcılarının ekranlarını açan bir kısmı ile :) 
 </p></td>
-<td style="width:70%; vertical-align:top">
+<td style="width:30%; vertical-align:top">
 <p>
 Tüm toplantının videosu - 12:21'de başlıyor</p>
 </td></tr>
