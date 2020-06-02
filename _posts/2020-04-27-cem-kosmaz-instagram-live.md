@@ -6,14 +6,13 @@ categories: Genel
 tags: videos Etkinlikler
 ---
 
-<table><tr><td style="width:15%">
-   <img src="/assets/cem_kosmaz_instagram_live_2.jpg">
-</td>
-<td style="width:85%; vertical-align:top">
-<p>
-20 yıllık arkadaşım Cem Koşmaz davet edince Instagram Live'ı denemek de kısmet oldu. Yaklaşık 40 dakika süren güzel bir sohbetti. Teşekkürler Cem.. 
-</p>
-</td></tr></table>
+
+
+<img align="left" src="/assets/cem_kosmaz_instagram_live_2.jpg" style="width:15%; padding-right:20px"> 20 yıllık arkadaşım Cem Koşmaz davet edince Instagram Live'ı denemek de kısmet oldu. Yaklaşık 40 dakika süren güzel bir sohbetti. Teşekkürler Cem.. 
+
+<br />
+
+&nbsp;
 
 
 
