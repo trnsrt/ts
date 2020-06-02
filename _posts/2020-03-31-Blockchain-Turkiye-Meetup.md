@@ -7,7 +7,7 @@ tags: videos Etkinlikler
 ---
 
 
-<img align="left" src="/assets/bctr_meetup_640.jpg" style="width:40%; padding-right:20px"> "Sorularla Blockchain" kitabımın çıkışı nedeniyle düzenleyeceğimiz meetup COVID salgını nedeniyle webinar olarak yapıldı. Sevgili Ahmet Usta'ya yayın için teşekkürler... 
+<img align="left" src="/assets/bctr_meetup_640.jpg" style="width:40%; padding-right:20px"> "Sorularla Blockchain" kitabımın çıkışı nedeniyle düzenleyeceğimiz meetup COVID salgını nedeniyle webinar olarak yapıldı. Sevgili [Ahmet Usta](https://twitter.com/ahmetusta)'ya yayın için teşekkürler... 
 
 <br />
 
