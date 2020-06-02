@@ -6,7 +6,7 @@ categories: Genel
 tags: videos Etkinlikler
 ---
 
-<img align="left" src="/assets/ben_webinar_200530.jpg" style="width:40%; padding-right:20px"> Blockchain Education Network, çeşitli üniversitelerin Blockchain kluplerinin kurduğu bir ağ. Daha önce Habitat derneği toplantısında tanıştığım gençler kendi ağları için de bir webinar yapmak istediler. Yayını organize eden Aybars Dorman ve moderatör Furkan Duran başta olmak üzere tüm katılımcılara teşekkürler..
+<img align="left" src="/assets/ben_webinar_200530.jpg" style="width:40%; padding-right:20px"> Blockchain Education Network, çeşitli üniversitelerin Blockchain kulüplerinin kurduğu bir ağ. Daha önce Habitat derneği toplantısında tanıştığım gençler kendi ağları için de bir webinar yapmak istediler. Yayını organize eden Aybars Dorman ve moderatör Furkan Duran başta olmak üzere tüm katılımcılara teşekkürler..
 
 
 &nbsp;
