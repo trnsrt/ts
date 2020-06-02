@@ -28,7 +28,7 @@ tags: videos Etkinlikler
 
 <br />
 
-----
+Yayının kayıtları "teknik bir aksaklık" nedeniyle kayboldu :) 
 &nbsp;
 &nbsp;
 &nbsp;
