@@ -15,8 +15,7 @@ tags: videos Etkinlikler
 
 &nbsp;
 
-
-&nbsp;
+<br />
 
 <table><tr><td style="width:50%">
 <img src="/assets/BTCHaber_Sali_Bulusmalari_screenshot_640.png">
