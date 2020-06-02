@@ -8,7 +8,7 @@ tags: videos Etkinlikler
 
 
 
-<img align="left" src="/assets/one_block_hackathon_4.png" style="width:15%; padding-right:20px"> 
+<img align="left" src="/assets/one_block_hackathon_4.png" style="width:20%; padding-right:20px"> 
 one.block tarafından İstanbul Maslak Kolektif House'da gerçekleşen One Block Hackathon bu alanda fikirleri olan ya da başka fikirleri dinleyip bunu gerçekleştirmek isteyenleri 20-21 Ekim'de bir araya getirdi. Renkli ve eğlenceli bir organizasyondu.  
 &nbsp;
 &nbsp;
