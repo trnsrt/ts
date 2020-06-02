@@ -6,14 +6,11 @@ categories: Genel, Videos
 tags: Etkinlikler
 ---
 
-<table><tr><td style="width:30%">
-   <img src="/assets/habitat.jpg">
-</td>
-<td style="width:70%; vertical-align:top">
-<p>
-13 Şubat 2020'de İstanbul Blockchain Okulu'nun Maslak Facebook İstasyon'da düzenlediği "Zincirleme Sohbetler" dizisine "Blockchain Her Derde Deva mı?" isimli sohbette sevgili Ozan Onat'ın konuğu oldum. Birkaç kareyi ekte paylaşıyorum:  
-</p>
-</td></tr></table>
+
+<img align="left" src="/assets/habitat.jpg" style="width:40%; padding-right:20px"> 13 Şubat 2020'de İstanbul Blockchain Okulu'nun Maslak Facebook İstasyon'da düzenlediği "Zincirleme Sohbetler" dizisine "Blockchain Her Derde Deva mı?" isimli sohbette sevgili Ozan Onat'ın konuğu oldum. Birkaç kareyi ekte paylaşıyorum:
+
+<br />
+
 
 &nbsp;
 
