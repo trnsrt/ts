@@ -8,7 +8,7 @@ tags: Etkinlikler
 
 
 
-<img align="left" src="/assets/TS_Bloomberg_191129-3.jpg" style="width:15%; padding-right:20px"> 29 Kasım 2019 Cuma günü sevgili Ahmet Usta ile birlikte Hande Berktan'ın hazırlayıp sunduğu İş Dünyası programı için Bloomberg HT'ye konuk oldum. Keyifli bir sohbetti. Ancak video kaydına ulaşamadım. Birkaç kareyi ekte paylaşıyorum:  
+<img align="left" src="/assets/TS_Bloomberg_191129-3.jpg" style="width:40%; padding-right:20px"> 29 Kasım 2019 Cuma günü sevgili Ahmet Usta ile birlikte Hande Berktan'ın hazırlayıp sunduğu İş Dünyası programı için Bloomberg HT'ye konuk oldum. Keyifli bir sohbetti. Ancak video kaydına ulaşamadım. Birkaç kareyi ekte paylaşıyorum:  
 &nbsp;
 &nbsp;
 
