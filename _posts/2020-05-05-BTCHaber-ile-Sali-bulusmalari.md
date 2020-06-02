@@ -15,11 +15,6 @@ tags: videos Etkinlikler
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 ----
 
