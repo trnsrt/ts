@@ -1,0 +1,1 @@
+Merkeziyetsiz Finans (ya da kısaca DeFi diyelim) yazılarımızın ilk aşamada ağırlığını oluşturacak demiştik. Bu alanda pek çok gelişme aynı anda oluyor. Her ne kadar henüz çok küçük olsalar da, toprağa attığınız tohumların yavaş yavaş uçlarını göstermesi gibi, irili ufaklı ama finansın her alanında hemen hemen her gün yeni bir girişim ile karşılaşıyoruz.
