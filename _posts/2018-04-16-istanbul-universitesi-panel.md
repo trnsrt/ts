@@ -9,24 +9,12 @@ tags: videos Etkinlikler
 
 <img align="left" src="/assets/iu_blockchain_afis_v3.png" style="width:10%; padding-right:20px"> 
 Beta Gamma Sigma Society tarafından organize edilen "Sistem Değişiyor - Bitcoin & Blockchain" panelinde İstanbul Üniversitesi İşletme Fakültesi öğrencileri ile buluşmadan kareler..
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 &nbsp;
 
 <br />
 
+&nbsp;
 
 Panelistler: 
 - [Burak Bozkurtlar](https://twitter.com/thegreywolves) - Siber Güvenlik Uzmanı
