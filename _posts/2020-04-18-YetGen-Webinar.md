@@ -17,6 +17,13 @@ Mehmet Zorlu Vakfı ve Mef Üniversitesi tarafından düzenlenen YetGen - Yetkin
 
 &nbsp;
 
+<img align="left" src="/assets/yetgen_3.jpg">Mehmet Zorlu Vakfı ve Mef Üniversitesi tarafından düzenlenen YetGen - Yetkin Gençler programının 18 Nisan 2020'deki "Teknoloji Okur Yazarlığı Eğitimi" webinarında birbirinden değerli isimler ile birlikte 400'ü aşkın fişek gibi gence Blockchain anlattım. Çok renkli ve eğlenceli idi. Erhan Erkut Hoca yine zımba gibi bir ekip yaratmış. 
+
+
+
+
+
+
 <table><tr><td style="width:50%">
 <img src="/assets/yetgen_2.jpg">
 </td>
