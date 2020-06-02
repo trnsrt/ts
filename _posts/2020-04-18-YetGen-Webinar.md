@@ -6,21 +6,11 @@ categories: Genel
 tags: videos Etkinlikler
 ---
 
-<table><tr><td style="width:30%">
-   <img src="/assets/yetgen_3.jpg">
-</td>
-<td style="width:70%; vertical-align:top">
-<p>
-Mehmet Zorlu Vakfı ve Mef Üniversitesi tarafından düzenlenen YetGen - Yetkin Gençler programının 18 Nisan 2020'deki "Teknoloji Okur Yazarlığı Eğitimi" webinarında birbirinden değerli isimler ile birlikte 400'ü aşkın fişek gibi gence Blockchain anlattım. Çok renkli ve eğlenceli idi. Erhan Erkut Hoca yine zımba gibi bir ekip yaratmış. 
-</p>
-</td></tr></table>
-
-&nbsp;
 
 <img align="left" src="/assets/yetgen_3.jpg" style="width:30%; padding-right:10px"> Mehmet Zorlu Vakfı ve Mef Üniversitesi tarafından düzenlenen YetGen - Yetkin Gençler programının 18 Nisan 2020'deki "Teknoloji Okur Yazarlığı Eğitimi" webinarında birbirinden değerli isimler ile birlikte 400'ü aşkın fişek gibi gence Blockchain anlattım. Çok renkli ve eğlenceli idi. Erhan Erkut Hoca yine zımba gibi bir ekip yaratmış.
 
 
-
+&nbsp;
 
 
 
