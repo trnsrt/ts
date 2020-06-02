@@ -7,7 +7,7 @@ tags: videos Etkinlikler
 ---
 
 
-<img align="left" src="/assets/btchaber_sali_bulusmalari_640.jpg" style="width:40%; padding-right:20px"> BTCHaber.com'un düzenlediği Salı toplantılarının ikincisine Devrim Danyal'in moderatörlüğünde Bora Erdamar ile birlikte konuşmacı olarak konuk oldum. 
+<img align="left" src="/assets/btchaber_sali_bulusmalari_640.jpg" style="width:40%; padding-right:20px"> [BTCHaber.com](https://twitter.com/BTCHabercom)'un düzenlediği Salı toplantılarının ikincisine [Devrim Danyal](https://twitter.com/devrimdanyal)'in moderatörlüğünde [Bora Erdamar](https://twitter.com/berdamar/) ile birlikte konuşmacı olarak konuk oldum. 
 
 <br />
 
