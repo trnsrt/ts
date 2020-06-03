@@ -1,6 +1,6 @@
 Merhabalar,
 
-Bundan sonra her hafta burada birlikteyiz. Yazıların ana ekseni, blokzincirin etkileyeceği farklı alanlar olacak. İlk olarak da önümüzdeki haftadan başlayarak finansal hizmetler, özellikle de Merkeziyetsiz Finans (Decentralized Finance - DeFi) hareketine bakacağız. Ama daha öncesinde bu yazıda işin felsefesine kısaca değinelim.  
+Bundan sonra her hafta burada birlikteyiz. Yazıların ana ekseni, Blockchain ya da (artık yaygınlaşmaya başlayan Türkçe çevirisi ile) blokzincirin etkileyeceği farklı alanlar olacak. İlk olarak da önümüzdeki haftadan başlayarak finansal hizmetler, özellikle de Merkeziyetsiz Finans (Decentralized Finance - DeFi) hareketine bakacağız. Ama daha öncesinde bu yazıda işin felsefesine kısaca değinelim.  
 
 ### Nereden ortaya çıktı bu Blokzincir?
 
