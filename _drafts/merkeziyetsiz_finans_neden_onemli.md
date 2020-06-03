@@ -1,10 +1,10 @@
-Blockchain (ya da artık yaygınlaşmaya başlayan Türkçe çevirisi ile Blokzincir) bağımsız, birbirinden uzak binlerce noktanın, ortak hareket edebilmesi sağlayan teknoloji. Bu da dijital dünyada başkaları ile ilişki kurabilmek için ihtiyaç duyduğumuz aracılara olan talebi ortadan kaldırıyor. 
+Blokzincir bağımsız, birbirinden uzak binlerce noktanın, ortak hareket edebilmesi sağlayan teknoloji. Bu da dijital dünyada başkaları ile ilişki kurabilmek için ihtiyaç duyduğumuz aracılara olan talebi ortadan kaldırıyor. 
 
-Bu teknolojinin canlı örneğini gündelik hayatımızda yalnızca kripto paralarla görüyoruz. Aslında kripto paralar bile spekülatif yatırım araçları. İleride sağlayacakları faydalara bugünden ad koymaya çalışıyor olmanın ötesine geçebilmiş değiller henüz. Burada hemen Bitcoin'in son on yılda değer saklama konusunda tabiri caiz ise kaya gibi ayakta duruşu ile bir istisna olduğunu da belirtelim. 
+Bu teknolojinin canlı örneğini gündelik hayatımızda henüz yalnızca kripto paralarla görüyoruz. Aslında kripto paralar bile spekülatif yatırım araçları. Yatırımcılar bu araçların ileride sağlayacakları faydalara bugünden ad koymaya çalışıyor olmanın ötesine geçebilmiş değiller. Burada hemen Bitcoin'in son on yılda değer saklama konusunda tabiri caiz ise kaya gibi ayakta duruşu ile bir istisna olduğunu da belirtelim. 
 
 Ancak şu ana kadar gördüklerimiz kişisel fikrimce buzdağının görünen kısmı. Suyun altında henüz sessizce bekleyen çok büyük bir kitle var - ve bu kütlenin yavaş yavaş su yüzüne çıkıp kendini göstermeye başlayan parçalarından ilk seçebildiklerimiz finans alanında. Özellikle Merkeziyetsiz Finans (Decentralized Finance - DeFi) dediğimiz hareketin içinde. 
 
-Gelin önce Merkeziyetsiz Finans nedir, neden önemli ona bakalım. Sonraki yazılarımızda bu hareketin önemli aktörlerini ve neleri potansiyel olarak değiştirebileceklerine de göz atacağız.
+Gelin önce Merkeziyetsiz Finans - DeFi nedir, neden önemli ona bakalım. Sonraki yazılarımızda bu hareketin önemli aktörlerini ve neleri potansiyel olarak değiştirebileceklerine de göz atacağız.
 
 ### Merkeziyetsiz Finans ne demek?
 Merkeziyetsiz Finans özünde günümüzdeki finans sisteminde yaşanan sıkıntıların nedeninin bu alandaki aktörlerinin mevcut yapıları olduğunu düşünen ve buna karşı kökten farklı bir sistem ortaya koymaya aday bir hareket. 
@@ -19,7 +19,7 @@ Sonra artık yavaş yavaş doyuma ulaşıyor sektör. Bireysel müşterileri dü
 
 Peki ucuza hizmet sunabiliyorlar mı mevcut oyuncular? Şaşaalı genel merkezler, o merkezlerdeki müdürlerin arabaları, şoförleri derken masraflar arşa çıkmış durumda. Birinin bunları ödemesi gerek, öte yandan hissedarlar da kâr beklentisi içinde - onları da unutmamalı. 
 
-Finans sistemi tabii ki bu sıkıntıların farkında. Kendilerini geliştirmek için ciddi bir efor sarfediyorlar son yıllarda. Özellikle Fintech olarak adlandırdığımız sistemin oyuncularını yeni teknolojilere adapte etme anlamında ortaya çıkan pek çok kurum içi ve dışı girişim söz konusu. 
+Finans sistemi tabii ki bu sıkıntıların farkında. Kendilerini geliştirmek için ciddi bir efor sarfediyorlar son yıllarda. Özellikle Fintech olarak adlandırdığımız sistemin oyuncularını yeni teknolojilere adapte etmek için ortaya çıkmış pek çok kurum içi ve dışı girişim söz konusu. 
 
 #### Ya müşteriler?
 
@@ -27,7 +27,7 @@ Yukarıda yazdığımız genelde sistemin mevcut aktörlerinin sıkıntıları. 
 
 Özellikle Fintech alanındaki teknolojik girişimlerin finans kurumlarının dijitalleşmesine yaptıkları katkının hizmet kalitesine de yansıdığını söylemek yanlış olmaz. Ancak, insan hep daha iyisini isteyen ve bekleyen bir varlık. Neden daha hızlı hizmet almayayım, neden daha da ucuza olmasın aldığım hizmet?
 
-Bir başka problem: Bir finans kurumu ile çalışmaya başlarken onlarca bilgi ve belge vermek zorundayım. Hadi hesap açarken nispeten kolay - ayağınıza kadar geliyorlar. Ya hesap kapatmaya çalışırken yaşadığınız çile? Sonra başka bir kuruma git, aynı bilgileri tekrar ver. 
+Bir başka problem: Bir finans kurumu ile çalışmaya başlarken onlarca bilgi ve belge vermek zorundayım. Hadi hesap açarken nispeten kolay - ayağınıza kadar geliyorlar. Ya hesap kapatmaya çalışırken yaşanan çile? Sonra başka bir kuruma git, aynı bilgileri tekrar ver. Kısır döngü.  
 
 Peki ya bizden aldıkları, sonra kampanya benzeri taktikler ile izin koparıp pazarlamacılara sundukları kişisel bilgilerimiz?  
 
@@ -36,12 +36,13 @@ Keza [sistemlerin hack edilmesi ve kredi kartı bilgilerinin çalınması](https
 Bunlar mevcut kitle. Öte yandan hepimizin rahat yaşamları ardında göz ardı ettiğimiz çok büyük bir kesim daha var. Dünya Bankası tarafından 1.7 milyar kişi olduğu [tahmin edilen](https://www.worldbank.org/en/news/press-release/2018/04/19/financial-inclusion-on-the-rise-but-gaps-remain-global-findex-database-shows) finans sistemine erişimi olmayan kesim. Ya onlar ne olacak? Onların canı can değil mi? 
 
 #### Merkeziyetsiz Finans ne yapacak bunlara?
-İşte Merkeziyetsiz Finans denen hareket, mevcut finans aktörlerden bambaşka bir oyun planı ile ortaya çıkıyor. Amaç dijital dünyada gerçekleşen finans işlemlerinde aracıların verdiği hizmeti dağıtık yapılara kaydırmak. 
+İşte Merkeziyetsiz Finans - DeFi denen hareket, mevcut finans aktörlerden bambaşka bir oyun planı ile ortaya çıkıyor. Amaç dijital dünyada gerçekleşen finans işlemlerinde aracıların verdiği hizmeti dağıtık yapılara kaydırmak. 
+
 Nasıl sağlanacak bu? Öncelikle merkezi olmayan dağıtık yönetim esasına göre kurulacaklar. Güven ve sistemin korunması Blokzincir tarafından sağlanacak. Keza sistemin yönetimi de aynı şekilde demokratik bir biçimde blokzincir üzerinden olacak. Bunun yanında kurulan sistemler birbirleri ile konuşabilir olacaklar. 
 
 Neden bunları yapıyorlar? Amaç, bu sayede gücü olabildiğince bireye vermek. 
 
-Nedir bu güç? Finansal hizmet aldığı ya da varlığını emanet ettiği yapılarda merkezi bir yönetimin keyfi kararlarından etkilenmemek. Kişisel bilgilerinin yönetiminde bütün kontrolü kendinde tutmak. Şifreleme ve anahtarlar aracılığıyla bu bilgilerin tamamını değil sadece bilginin geçerli olduğunu gösteren gerekli kısımlarını bu kurumlar ile paylaşmak.  İstediği zaman varlığını bir yapıdan diğerine rahatça geçirebilmek -- bunu yaparken de gerekli bilgilerin istediği kadarını yeni kuruma verirken bilginin kontrolü elinde olduğu için ayrıldığı kurumun bu bilgilere erişimini anında kesmek. 
+Nedir bu güç? Finansal hizmet aldığı ya da varlığını emanet ettiği yapılarda merkezi bir yönetimin keyfi kararlarından etkilenmemek. Kişisel bilgilerinin yönetiminde bütün kontrolü kendinde tutmak. Ne demek bu? Şifreleme ve anahtarlar aracılığıyla kendine ait bilgilerin tamamını değil sadece bilginin geçerli ve kendisine ait olduğunu kanıtlayan kısımları kurumlar le paylaşmak.  İstediği zaman varlığını bir yapıdan diğerine rahatça geçirebilmek -- bunu yaparken de gerekli bilgilerin istediği kadarını yeni kuruma verirken, ayrıldığı kurumun kişisel bilgilerine erişimini anında kesmek. 
 
 ### Arkası yarın
 Uzun bir girizgâh yaptık. Bir sonraki yazıda merkeziyetsiz finansın hangi alanlarda ne tip işler yapacağına bakacağız hep birlikte.
