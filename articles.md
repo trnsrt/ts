@@ -9,7 +9,8 @@ permalink: /articles/
 
 - Blockchain teknolojisinin nasıl çıktığını merak ediyorsanız
   - [Geceleri uykunuzu ne kaçırıyor](/genel/2018/03/01/Geceleri-uykunuzu-ne-kaciriyor.html)
-  - [Sahi nedir bu Blockchain Allah aşkına?](/genel/2018/03/02/Sahi-nedir-bu-blockchain-allah-askina.html) 
+  - [Sahi nedir bu Blockchain Allah aşkına?](/genel/2018/03/02/Sahi-nedir-bu-blockchain-allah-askina.html)
+  - [Blokzincirin çıkış felsefesi ne?](/genel/2020/06/04/blokzincirin-felsefesi-ne.html)
 - Blockchain'in değişik alanlarda getirdiği potansiyel yenilikler için
   - [İyilik için Blockchain](/genel/2018/03/29/Iyilik-icin-blockchain.html) 
   - [Sanat için Blockchain](/genel/2018/03/29/Iyilik-icin-blockchain.html) 
