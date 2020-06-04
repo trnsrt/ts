@@ -1,8 +1,6 @@
-Merhabalar,
-
 Bundan sonra her hafta burada birlikteyiz. Yazıların ana ekseni, Blockchain ya da (artık yaygınlaşmaya başlayan Türkçe çevirisi ile) blokzincirin etkileyeceği farklı alanlar olacak. İlk olarak da önümüzdeki haftadan başlayarak finansal hizmetler, özellikle de Merkeziyetsiz Finans (Decentralized Finance - DeFi) hareketine bakacağız. Ama daha öncesinde bu yazıda işin felsefesine kısaca değinelim.  
 
-### Nereden ortaya çıktı bu Blokzincir?
+### Nereden ortaya çıktı bu blokzincir?
 
 Sık sorulan bir soruyla başlayalım: "Blokzincir nedir?". Buna hepimizin ayrı bir yorumu var. Bana sorduklarında tek cümle ile cevabım: "Dijital dünyada, ikili her tür ilişkide aracılık yapanları ortadan kaldırmayı hedefleyen felsefenin yarattığı teknoloji" oluyor. 
 
@@ -45,6 +43,6 @@ Elbette bu teknolojinin kullanımı sırasında ülke yönetimleri kendi coğraf
 Gelecekte her ne olursa olsun önemli olan blokzincir ile artık bireylerin eline bir alternatif verilmiş olması. Bu merkezi yapıların da kendilerine çeki düzen vermesini sağlayacak. Unutmayalım, rekabet her zaman iyidir. 
 
 
-[^1]: *Dikkat ederseniz "çekişme" (İngilizce "struggle") sözünü kullandım, kimileri "savaş" da der buna.  Savaşların genelde bir noktada galibi olur. Bu çekişmenin herhangi bir galibi şimdiye kadar yok ve muhtemelen hiçbir zaman da olmayacak.*
+[^1]: *Dikkat ederseniz "çekişme" (İngilizce "struggle") sözünü kullandım, kimileri "savaş" olarak da adlandırır bunu.  Savaşların genelde bir noktada galibi olur. Bu çekişmenin herhangi bir galibi şimdiye kadar yok ve muhtemelen hiçbir zaman da olmayacak.*
 
 [^2]: *Eğer hâlâ okumadıysanız Eric Hughes'un [A Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html)'su' (Türkçe çevirisi [burada](http://blog.bluzz.net/bir-sifrepunkun-manifestosu/)) Şifrepunk'ları anlamak için yardımcı olabilir.* 
