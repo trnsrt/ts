@@ -6,7 +6,12 @@ categories: Genel
 tags: Yazılar
 ---
 
-Sık sorulan bir soruyla başlayalım: "Blokzincir nedir?". Buna hepimizin ayrı bir yorumu var. Bana sorduklarında tek cümle ile cevabım: "Dijital dünyada, ikili her tür ilişkide aracılık yapanları ortadan kaldırmayı hedefleyen felsefenin yarattığı teknoloji" oluyor. 
+   <a href="https://pixabay.com/photos/hands-give-take-connect-connected-3065680/">
+         <img alt="Qries" src="/assets/hands_640.jpg"
+         width="40%" padding-right="20px">
+      </a>Sık sorulan bir soruyla başlayalım: "Blokzincir nedir?". Buna hepimizin ayrı bir yorumu var. Bana sorduklarında tek cümle ile cevabım: "Dijital dünyada, ikili her tür ilişkide aracılık yapanları ortadan kaldırmayı hedefleyen felsefenin yarattığı teknoloji" oluyor. 
+
+<img align="left" src="/assets/hands_640.jpg" style="width:40%; padding-right:20px"> https://pixabay.com/photos/hands-give-take-connect-connected-3065680/
 
 Gelin dilerseniz blokzincirin temelinde yattığını düşündüğüm bu felsefenin çıkış noktasına kısaca göz atalım. İşin özü aslında bir "güç çekişmesi"[^1] ve kökü insanlık tarihinin başlangıcına kadar gidiyor. Çekişmenin bir tarafında "birey" diğer tarafında ise "bireyin sahip olduğu her tür varlık, hak ve özgürlükleri sınırlamaya (ya da onlara sahip olmaya) çalışan yapılar' var.
 
