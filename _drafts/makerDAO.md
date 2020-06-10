@@ -60,7 +60,7 @@ Peki MKR sahiplerinin sistemi koruyacağına nasıl emin oluyoruz? Babasının h
 
 Ama bunun yanında MKR sahiplerinin sistem iyi işlemediği zaman zarar etme ihtimalleri de var. Örneğin, eğer teminat olarak kullanılan ETH ani olarak çok hızlı bir şekilde düşer ve kredileri (yani yaratılmış DAI'leri) karşılayamaz ise, o zaman sistem MKR yaratıp açık piyasada satarak kredilerin tekrar teminatlandırılmasını sağlıyor. Piyasaya durup dururken ekstradan arz yapıldığında MKR fiyatı normal olarak düşecek - o nedenle MKR sahipleri olabildiğince bu durumdan kaçacaklar. 
 
-Yani yukarıdaki iki paragrafın özü: MKR sahipleri sistemin sigortası görevini yapıyor. Aldıkları komisyonu sigorta masrafı olarak düşünün, eğer risk gerçekleşirse ödeyecekleri maliyeti de sigortanın karşılığı olarak. 
+Yani yukarıdaki iki paragrafın özü: MKR sahipleri sistemin sigortası görevini yapıyor. Aldıkları komisyonu sigorta masrafı olarak düşünün, eğer risk gerçekleşirse ödeyecekleri maliyeti de sigortanın karşılığı olarak. Ya da daha farklı bir deyişle: Bankaların sendikasyon kredilerinde aldıkları yüklenici ücreti (underwriting fee) gibi; MKR sahipleri açılan kredileri "yükleniyorlar". 
 
 
 
