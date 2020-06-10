@@ -27,9 +27,29 @@ Peki teminat olarak ne tür kripto para gönderebiliyorsunuz? Şu anda [ağırl�
 
 Sonrasında krediyi kapatmak istediğinizde borcunuz kadar DAI'yi  yakıyorsunuz (başta yarattığınız miktarı). Bunun üzerine CDP Akıllı Kontratı da teminat verdiğiniz parayı hesabınıza geri yolluyor. 
 
+#### Ya teminatımın değeri azalırsa?
+
+Sistemde borcunuz DAI yani sabit para - bir ABD Dolarına eşit. Ama teminatınız kripto para. Ya değer kaybederse? Çok da olmayacak bir ihtimal değil bu. 
+
+İki strateji var izleyebileceğiniz. Birincisi teminatı baştan yüksek tutma (yani kredinizin %150'sinden daha fazla) ya da değeri azalırsa ekstra teminat yollamak. Ya da diğer bir alternatif kredinizi kapatarak teminat/kredi oranını yükseltmek. 
+
+Eğer her ikisini de yapmazsanız, o zaman sistem sizin tuttuğunuz ETH'lerden teminatınızı müzayedeye koyuyor. Satılan ETH'ler ile DAI'ler yakılıyor ve teminat/borç oranınız %150 seviyesine çekiliyor. 
+
 #### Peki mevduat nasıl yaratılıyor?
 
 Bunun için de 
+
+
+#### Sistem nasıl yönetiliyor?
+
+DeFi protokollerin en kritik yanlardan biri nasıl yönetildikleri oluyor. İşin ruhuna uygun olarak yönetimlerinin de merkeziyetsiz olmasını bekliyor insan. MakerDAO da kendi yönetimini demokratik bir şekilde gerçekleştirmeye çalışıyor. 
+
+İç yönetim mekanizması için bir kripto para yaratılmış. Bu paranın adı MKR. MKR sahipleri paraları oranında sistem üzerinde söz sahibiler. Hangi konularda? Yukarıda bahsettiğimiz teminat/kredi oranında örneğin. Ya da kredilere uygulanacak faiz oranında. 
+
+Peki MKR sahiplerinin sistemi koruyacağına nasıl emin oluyoruz? Babasının hayrına değil tabii, çıkarları var onların da bu işten. Ne tip bir çıkar? MKR sahipleri sistemi yönetmenin yanında, alınan faizler üzerinden bir komisyon alıyorlar. 
+
+Ama bunun yanında MKR sahiplerinin sistem iyi işlemediği zaman zarar etme ihtimalleri de var. Örneğin, eğer teminat olarak kullanılan ETH ani olarak çok hızlı bir şekilde düşer ve kredileri (yani yaratılmış DAI'leri) karşılayamaz ise, o zaman sistem MKR yaratıp açık piyasada satarak kredilerin tekrar teminatlandırılmasını sağlıyor. Piyasaya durup dururken ekstradan arz yapıldığında MKR fiyatı normal olarak düşecek - o nedenle MKR sahipleri olabildiğince bu durumdan kaçacaklar. 
+
 
 
 
