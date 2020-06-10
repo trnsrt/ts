@@ -39,6 +39,16 @@ Eğer her ikisini de yapmazsanız, o zaman sistem sizin tuttuğunuz ETH'lerden t
 
 Bunun için de 
 
+#### Kim niye kredi alır bu sistemden?
+
+Elinizde ETH var ve yükseleceğini düşünüyorsunuz. Paraya ihtiyacınız varsa ya da bu yükselişten daha da yararlanmak istiyorsanız, ETH'nizi teminat verip DAI yaratabilirsiniz. Sonra bu DAI'yi satıp ihtiyacınızı görebilir ya da karşılığında biraz daha ETH alabilirsiniz. Böylece, efektif olarak margin trading denen kaldıraçlı işlemleri yapma imkanınına kavuşmuş olursunuz. 
+
+#### Kim niye kredi verir peki?
+Sabit/stabil para tutmak istiyorsunuz ancak Tether benzeri kripto paraların tamamen karşılıklı olmamaları sizde şüphe uyandırıyor. O zaman arkasında %150 oranında ETH olan ama ABD Dolarına bağlı tamamen merkeziyetsiz DAI alabilirsiniz. 
+
+Yukarıda yazdığımız gibi "ya aniden ETH çok düşerse" diye kaygınız olursa o zaman da sistemin MKR satarak ödeme yapması gibi bir yol var. 
+
+"Ya satılacak MKR'yi kimse almazsa?" diye iyice şüpheli yaklaşırsanız (ki şüphe bu dünyada her zaman iyidir), o ihtimal de düşünülmüş. Olası her tür varoluşsal kriz için sistem bütün teminatları sahiplerine geri döndürüyor. Yani diyelim elinizde DAI var - sistem bir DAI bir ABD Dolarına eşit olacak şekilde paranız kadar ETH veriyor. Ya da kredi kullanmıştınız ETH teminatlı olarak - sistem kredinizi ödeyip teminatınız olan ETH'yi size geri veriyor. 
 
 #### Sistem nasıl yönetiliyor?
 
