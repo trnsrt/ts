@@ -37,7 +37,7 @@ Eğer her ikisini de yapmazsanız, o zaman sistem sizin tuttuğunuz ETH'lerden t
 
 #### Peki mevduat nasıl yaratılıyor?
 
-Bunun için de 
+Bu da kredi çekmenin tam tersi aslında. Kredi çekerken kişiler ellerindeki ETH'i teminat olarak verip DAI yaratıyorlar - yani DAI olarak borçlanıyor, karşılığında da bir faiz veriyorlar. Bunun tam tersi olarak DAI sahibi olarak paranızı sisteme yatırıp bir faiz alabilirsiniz (Dai Savings Rate - DSR deniyor buna da). Gerçi Mart ayında sistemdeki bir sıkıntıdan dolayı sistemin yöneticisi (MKR tutanlar), bu faiz oranını %0 yaptılar. 
 
 #### Kim niye kredi alır bu sistemden?
 
@@ -60,6 +60,7 @@ Peki MKR sahiplerinin sistemi koruyacağına nasıl emin oluyoruz? Babasının h
 
 Ama bunun yanında MKR sahiplerinin sistem iyi işlemediği zaman zarar etme ihtimalleri de var. Örneğin, eğer teminat olarak kullanılan ETH ani olarak çok hızlı bir şekilde düşer ve kredileri (yani yaratılmış DAI'leri) karşılayamaz ise, o zaman sistem MKR yaratıp açık piyasada satarak kredilerin tekrar teminatlandırılmasını sağlıyor. Piyasaya durup dururken ekstradan arz yapıldığında MKR fiyatı normal olarak düşecek - o nedenle MKR sahipleri olabildiğince bu durumdan kaçacaklar. 
 
+Yani yukarıdaki iki paragrafın özü: MKR sahipleri sistemin sigortası görevini yapıyor. Aldıkları komisyonu sigorta masrafı olarak düşünün, eğer risk gerçekleşirse ödeyecekleri maliyeti de sigortanın karşılığı olarak. 
 
 
 
