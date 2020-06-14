@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Altcointurk Discord buluşması"
+title:  "Altcointurk - 10 Haziran 2020 Discord buluşması"
 date:   2020-06-10 23:37:15 +0300
 categories: Genel
 tags: videos Etkinlikler
