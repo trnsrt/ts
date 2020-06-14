@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cem Koşmaz Instagram Live"
+title:  "Cem Koşmaz - 27 Nisan 2020 Instagram Live"
 date:   2020-04-27 13:37:15 +0300
 categories: Genel
 tags: videos Etkinlikler
