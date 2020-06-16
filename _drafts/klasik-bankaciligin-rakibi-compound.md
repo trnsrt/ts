@@ -25,7 +25,7 @@ paranızı çekebiliyorsunuz. Faizlerin düşmesi durumunda mevduat sahiplerinin
 
 #### Tahsilat riski nasıl aşılıyor?
 
-Peki bankacılığın meşhur olayı "alacak riski" nasıl bertaraf ediliyor? Diğer DeFi projelerine (örneğin MakerDAO) benzer şekilde kredi alanın belli bir kripto parayı teminat olarak yatırması gerekiyor Compound sisteminde. Her kripto paranın teminat oranı farklı. En likit olan örneğin ETH en düşük teminat oranına sahip. 
+Peki bankacılığın meşhur olayı "alacak riski" nasıl bertaraf ediliyor? Diğer DeFi projelerine (örneğin MakerDAO) benzer şekilde kredi alanın belli bir kripto parayı teminat olarak yatırması gerekiyor Compound sisteminde. Her kripto paranın teminat oranı farklı. En likit olan örneğin ETH en düşük teminat oranına sahip.
 
 #### Hangi paralarda işlem yapılabiliyor?
 
