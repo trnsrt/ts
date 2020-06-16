@@ -59,8 +59,6 @@ Daha önce çıkan MKR özellikle Mart 2020'deki genel düşüş sonrasındaki a
 
 Compound ise bu yazının yazıldığı tarih itibariyle henüz çok yeni. Ancak MKR'nin bu kadar ilgi görmesinden sonra FOMO (Fear of missing out - bir şeyleri kaçırma korkusu) nedeniyle yatırımcılar ilk çıktığı fiyata göre bir haftada yaklaşık 80 kat değer kazandı. Piyasa değeri olarak yazının yazıldığı şu ana yaklaşık 520 milyon ABD Doları civarında. 
 
-[https://coincodex.com/crypto/compound-coin/]
-
 COMP tokenı üzerine bir değerlendirme yapmak için henüz çok erken. Yatırımcılar bu parayı MKR ile karşılaştırıyor olsalar da aslında şeytan ayrıntıda gizli. Compound'un COMP'u ile MakerDAO'nun MKR'ı aslında birbirinden çok farklı tokenlar.. Neden?
 
 En  basitinden MKR tokenı sahipleri bu parayı sadece MakerDAO sistemini yönetmek için kullanmıyorlar. Aynı zamanda sistemin kâr ya da zararına da ortaklar (bunun detayına MakerDAO'dan bahsedeceğimiz bir sonraki yazıda değineceğiz). COMP ise Compound'un CEO'sunun kendi ağzından yaptığı açıklama ile herhangi bir ekonomik değer atfedilmeden yalnızca sistemin yönetimi konusunda söz sahibi olacak bir token. Dolayısıyla her iki tokenı aynı kefeye koyup değerlendirmek elma ile armutları karşılaştırma ile eş değer. 
