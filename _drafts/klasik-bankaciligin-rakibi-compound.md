@@ -1,31 +1,35 @@
-Günümüzde klasik bankacılığın karşısına pek çok rakip çıkıyor. Özellikle Avrupa ve Amerika'da Neo-bank denen yeni oluşumlar var. Bunlar mevcut bankacılık hizmetlerini çok daha ucuza veriyorlar. Neden? En başta klasik bankaların geçmişten gelen artık kemikleşmiş maliyetlerinin hiçbirine sahip değiller. 
+Günümüzde klasik bankacılığın karşısına pek çok rakip çıkıyor. Özellikle Avrupa ve Amerika'da adına [Neobank](https://en.wikipedia.org/wiki/Neobank) denen yeni oluşumlara her geçen gün yenileri ekleniyor. Bunlar mevcut bankacılık hizmetlerini çok daha ucuza sağlıyorlar. Neden? Temelde klasik bankaların geçmişten gelen artık kemikleşmiş maliyetlerinin hiçbirine sahip değiller. 
 
-Kripto dünyasında da DeFi hareketi benzer şekilde yeni alternatifler sunuyor. Henüz çok küçük ve deneyseller. Ama belli bir potansiyel sağlayacakları kesin. Gelin bugün bu alandaki ilginç yapılardan Compound'a bakalım: 
+Kripto dünyasında ise DeFi hareketi benzer şekilde bize yeni alternatifler sunuyor. Henüz çok küçük ve deneyseller. Ama belli bir potansiyel sağlayacakları kesin. Gelin bugün bu alandaki ilginç yapılardan Compound'a bakalım: 
 
 ### Nedir bu Compound?
 
-Compound klasik bankacılık sisteminin bir alternatifi. Klasik bankacılık en basit tarifi ile aslında mevduat sahiplerinin yatırdığı paraların ihtiyaç sahiplerine kredi olarak verilmesi. Mevduata verilen ile kredilere uygulanan faizler arasındaki fark da esas olarak bir bankanın kâr marjı (spread). 
+Compound klasik bankacılık sisteminin bir alternatifi. 
 
-Compound da benzer şekilde mevduat sahipleri ile kredi verenler arasında banka benzeri çalışan Ethereum üzerine kurulu bir sistem. Ancak klasik bankacılık ile benzerliği burada bitiyor. 
+Klasik bankacılık en basit tarifi ile aslında mevduat sahiplerinin yatırdığı paraların ihtiyaç sahiplerine kredi olarak verilmesi. Mevduata verilen ile kredilere uygulanan faizler arasındaki fark da esas olarak bir bankanın kâr marjı (spread). 
+
+Compound da benzer şekilde mevduat sahipleri ile kredi verenler arasında banka benzeri çalışan Ethereum üzerine kurulu bir sistem. 
 
 ### Nasıl çalışıyor sistem?
 
-Compound sisteminde bireyler bankalarda olduğu gibi ellerindeki kripto paraları mevduat olarak yatırıp faiz kazanıyorlar. İhtiyacı olan bireyler ise bu faizin bir miktar fazlasına bu kripto paraları kredi olarak kullanıyorlar. Bu "bir miktar fazla" Compound'un bu işten aldığı komisyon. Bankalara göre çok daha az.
+Compound sisteminde bireyler ellerindeki kripto paraları mevduat olarak yatırıp faiz kazanıyorlar. İhtiyacı olan bireyler ise bu faizin bir miktar fazlasına bu kripto paraları kredi olarak kullanıyorlar. Bu "bir miktar fazla" Compound'un bu işten aldığı komisyon. Bankalara göre çok daha az.
 
 #### Faiz nasıl belirleniyor?
 
-Merkeziyetsiz olduğu için sistemin faiz belirleme yöntemi ilginç: Kredi isteyen ve mevduat yatıranların sayısına ve oluşturduğu havuza, yani arz ve talebe göre bir algoritma tarafından hesaplanıyor faiz. 
+Sistemin faiz belirleme yöntemi aslında bankalara benziyor: Kredi isteyen ve mevduat yatıranların sayısına ve oluşturduğu havuza, yani arz ve talebe göre bir algoritma tarafından hesaplanıyor faiz. 
 
-Ne sıklıkla? Ethereum üzerine kurulu bir sistem olarak Ethereum blok zincirine paralel şekilde borç verenlere ya da alanlara uygulanacak faiz her 15 saniyede bir belirleniyor. 
+Ne sıklıkla? Çok! Ethereum üzerine kurulu bir sistem olarak Ethereum blok zincirine paralel şekilde borç verenlere ya da alanlara uygulanacak faiz her 15 saniyede bir belirleniyor. 
 
-#### Faiz çok oynak görünüyor, sisteme giriş-çıkış nasıl oluyor?
+Basitçe denge sistemi ile çalışıyor sistem: Örneğin, faizlerin düşmesi durumunda mevduat sahiplerinin paralarını çekeceği, bunun da faizleri artırarak yeni bir denge oluşturacağı şeklinde özetlenebilecek temel ekonomik prensiplere dayanıyor. 
+
+#### Faiz çok oynak görünüyor, ya sisteme giriş-çıkış nasıl oluyor?
 
 Şunu da hemen belirtelim. neredeyse anlık değişen faize paralel olarak sisteme giriş çıkış da istenildiği zaman yapılabiliyor. Yani kredi aldığınızda istediğiniz zaman geri ödeyebiliyorsunuz. Aynı şekilde mevduat yaptığınızda da istediğiniz zaman 
-paranızı çekebiliyorsunuz. Faizlerin düşmesi durumunda mevduat sahiplerinin paralarını çekeceği, bunun da faizleri artırarak yeni bir denge oluşturacağı şeklinde basitçe özetlenebilecek temel ekonomik prensiplere dayanıyor sistem. 
+paranızı çekebiliyorsunuz. 
 
 #### Tahsilat riski nasıl aşılıyor?
 
-Peki bankacılığın meşhur olayı "alacak riski" nasıl bertaraf ediliyor? Diğer DeFi projelerine (örneğin MakerDAO) benzer şekilde kredi alanın belli bir kripto parayı teminat olarak yatırması gerekiyor Compound sisteminde. Her kripto paranın teminat oranı farklı. En likit olan örneğin ETH en düşük teminat oranına sahip.
+Peki bankacılığın meşhur olayı "alacak riski (counterparty risk)" nasıl bertaraf ediliyor? Diğer DeFi projelerine (örneğin MakerDAO) benzer şekilde kredi alanın belli bir kripto parayı teminat olarak yatırması gerekiyor Compound sisteminde. Her kripto paranın teminat oranı farklı. En likit olan örneğin ETH en düşük teminat oranına sahip.
 
 #### Hangi paralarda işlem yapılabiliyor?
 
@@ -33,7 +37,7 @@ Peki bankacılığın meşhur olayı "alacak riski" nasıl bertaraf ediliyor? Di
 
 #### Kimler kullanıyor?
 
-Neden bir kişi sistemden borç almak ister? Teminat verecek kadar "param" varsa neden borç almak isteyeyim? Temel nedeni spekülatif hareketler. Örneğin bir nedenle sabit bir paraya sıkıştınız ancak elinizdeki ETH'i satmak istemiyorsunuz çünkü artacağını düşünüyorsunuz (bir nevi kaldıraçlı işlem yapıyorsunuz). Böyle bir durumda bu ETH'i teminat gösterip karşılığında ETH kredi alabilirsiniz. 
+Neden bir kişi sistemden borç almak ister? Teminat verecek kadar "param" varsa neden borç almak isteyeyim? Temel nedeni spekülatif hareketler. Örneğin bir nedenle sabit bir paraya sıkıştınız ancak elinizdeki ETH'i satmak istemiyorsunuz çünkü artacağını düşünüyorsunuz. Böyle bir durumda bu ETH'i teminat gösterip karşılığında ETH kredi alabilirsiniz. 
 
 Neden borç verirsiniz peki? Yatırım amaçlı. Bir süreliğine kenarda tutmak istediğiniz bir paraya faiz kazanmak isterseniz bu sistem tam size göre. 
 
@@ -54,9 +58,11 @@ MakerDAO, DeFi dünyasının en büyüğü ancak daha karışık olduğu için D
 
 Compound, MakerDAO'ya göre bir parça daha basit. Bir analoji vermek gerekirse, Compound bir banka, MakerDAO ise merkez bankası. 
 
+Belki de bu nedenle MakerDAO kendi sistemini sürdürmek için bir sabit para (DAI) yaratmışken, Compound'da benzer bir para yok - onlar DAI de dahil başka paraları kullanıyorlar, aynı bir banka gibi. 
+
 Compound'un nihai hedefi, faizi belirlemede bir gösterge olacak, üzerine pek çok başka uygulamanın yazıldığı, kurucularının hakimiyetinden uzaklaşmış merkeziyetsiz bir protokol olmak. 
 
-Öte yandan Compound'un MakerDAO'dan en büyük farkı yönetim kısmında. Her iki sistemde de yönetim hakları için bir token çıkarılmış durumda: MakerDAO için MKR, Compound için ise 2020 Haziran ayında çıkan COMP. 
+Öte yandan Compound'un MakerDAO'dan bir diğer farkı da yönetim kısmında. Her iki sistemde de yönetim hakları için bir token çıkarılmış durumda: MakerDAO için MKR, Compound için ise 2020 Haziran ayında çıkan COMP. 
 
 Daha önce çıkan MKR özellikle Mart 2020'deki genel düşüş sonrasındaki aylarda çok ciddi değer kazandı. Fiyatı çok oynak olsa da yaklaşık 550 milyon ABD doları bir piyasa değerine sahip.
 &nbsp;
@@ -66,6 +72,7 @@ Daha önce çıkan MKR özellikle Mart 2020'deki genel düşüş sonrasındaki a
 | *MakerDAO tokeni MKR'in 2020 yılı piyasa değeri değişimi ([Kaynak](https://www.coingecko.com/en/coins/maker))* |
 
 &nbsp;
+
 Compound ise bu yazının yazıldığı tarih itibariyle henüz çok yeni. Ancak MKR'nin bu kadar ilgi görmesinden üzerine, muhtemelen yatırımcılarda oluşan FOMO (Fear of missing out - bir şeyleri kaçırma korkusu) nedeniyle ilk çıktığı fiyata göre bir haftada yaklaşık 80 kat değer kazandı (sonra düştü). Piyasa değeri yazının yazıldığı hafta içinde yaklaşık 520 milyon ABD Doları civarında. 
 &nbsp;
 
@@ -74,7 +81,7 @@ Compound ise bu yazının yazıldığı tarih itibariyle henüz çok yeni. Ancak
 | *Compound tokeni COMP'un Haziran 2020 fiyat değişimi ([Kaynak](https://coincodex.com/crypto/compound-coin/))* |
 
 &nbsp;
-COMP tokenı üzerine bir değerlendirme yapmak için henüz çok erken. Yatırımcılar bu parayı MKR ile karşılaştırıyor olsalar da aslında şeytan ayrıntıda gizli. Compound'un COMP'u ile MakerDAO'nun MKR'ı aslında birbirinden çok farklı tokenlar. Neden?
+COMP tokenı üzerine bir değerlendirme yapmak için henüz çok erken. Yatırımcılar bu parayı MKR ile karşılaştırıyor olsalar da aslında "şeytan ayrıntıda gizli". Compound'un COMP'u ile MakerDAO'nun MKR'ı aslında birbirinden çok farklı tokenlar. Neden?
 
 En basitinden MKR tokenı sahipleri bu parayı sadece MakerDAO sistemini yönetmek için kullanmıyorlar. Aynı zamanda sistemin kâr ya da zararına da ortaklar (bunun detayına MakerDAO'dan bahsedeceğimiz bir sonraki yazıda değineceğiz). 
 
