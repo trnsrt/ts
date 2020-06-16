@@ -1,6 +1,6 @@
-Günümüzde klasik bankacılığın karşısına pek çok rakip çıkıyor. Özellikle Avrupa ve Amerika'da adına [Neobank](https://en.wikipedia.org/wiki/Neobank) denen yeni oluşumlara her geçen gün yenileri ekleniyor. Bunlar mevcut bankacılık hizmetlerini çok daha ucuza sağlıyorlar. Neden? Temelde klasik bankaların geçmişten gelen artık kemikleşmiş maliyetlerinin hiçbirine sahip değiller. 
-
 Kripto dünyasında ise DeFi hareketi benzer şekilde bize yeni alternatifler sunuyor. Henüz çok küçük ve deneyseller. Ama belli bir potansiyel sağlayacakları kesin. Gelin bugün bu alandaki ilginç yapılardan [Compound](https://compound.finance/)'a bakalım: 
+
+Günümüzde klasik bankacılığın karşısına pek çok rakip çıkıyor. Özellikle Avrupa ve Amerika'da adına [Neobank](https://en.wikipedia.org/wiki/Neobank) denen yeni oluşumlara her geçen gün yenileri ekleniyor. Bunlar mevcut bankacılık hizmetlerini çok daha ucuza sağlıyorlar. Neden? Temelde klasik bankaların geçmişten gelen artık kemikleşmiş maliyetlerinin hiçbirine sahip değiller. 
 
 ### Nedir bu Compound?
 
@@ -9,6 +9,14 @@ Kripto dünyasında ise DeFi hareketi benzer şekilde bize yeni alternatifler su
 Klasik bankacılık en basit tarifi ile aslında mevduat sahiplerinin yatırdığı paraların ihtiyaç sahiplerine kredi olarak verilmesi. Mevduata verilen ile kredilere uygulanan faizler arasındaki fark da esas olarak bir bankanın kâr marjı (spread). 
 
 Compound da benzer şekilde mevduat sahipleri ile kredi verenler arasında banka benzeri çalışan Ethereum üzerine kurulu bir sistem. 
+
+&nbsp;
+
+| ![Bank by Ethereum](/assets/money-3405700_640.jpg)| 
+|:--:| 
+| *([Kaynak](https://pixabay.com/illustrations/money-bank-business-finance-3405700/))* |
+
+&nbsp;
 
 ### Nasıl çalışıyor sistem?
 
@@ -28,7 +36,7 @@ Basitçe denge sistemi ile çalışıyor sistem: Örneğin, faizlerin düşmesi 
 
 #### Tahsilat riski nasıl aşılıyor?
 
-Peki bankacılığın meşhur olayı "alacak riski (counterparty risk)" nasıl bertaraf ediliyor? Diğer DeFi projelerine (örneğin MakerDAO) benzer şekilde kredi alanın belli bir kripto parayı teminat olarak yatırması gerekiyor Compound sisteminde. Her kripto paranın teminat oranı farklı. En likit olan örneğin ETH en düşük teminat oranına sahip.
+Peki bankacılığın meşhur olayı "alacak riski (counter-party risk)" nasıl bertaraf ediliyor? Diğer DeFi projelerine (örneğin MakerDAO) benzer şekilde kredi alanın belli bir kripto parayı teminat olarak yatırması gerekiyor Compound sisteminde. Her kripto paranın teminat oranı farklı. En likit olan örneğin ETH en düşük teminat oranına sahip.
 
 #### Hangi paralarda işlem yapılabiliyor?
 
