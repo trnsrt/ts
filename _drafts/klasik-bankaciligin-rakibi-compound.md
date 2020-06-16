@@ -53,14 +53,22 @@ Compound, MakerDAO'ya göre bir parça daha basit. Bir analoji vermek gerekirse,
 
 Öte yandan Compound'un MakerDAO'dan en büyük farkı yönetim kısmında. Her iki sistemde de yönetim hakları için bir token çıkarılmış durumda: MakerDAO için MKR, Compound için ise 2020 Haziran ayında çıkan COMP. 
 
-Daha önce çıkan MKR özellikle Mart 2020'deki genel düşüş sonrasındaki aylarda çok ciddi değer kazandı. Fiyatı çok oynak olsa da yaklaşık 550 milyon ABD doları bir piyasa değerine sahip. 
+Daha önce çıkan MKR özellikle Mart 2020'deki genel düşüş sonrasındaki aylarda çok ciddi değer kazandı. Fiyatı çok oynak olsa da yaklaşık 550 milyon ABD doları bir piyasa değerine sahip.
+&nbsp;
 
-![MakerDAO market cap](/assets/MKR_market_cap.png) *Kaynak: https://www.coingecko.com/en/coins/maker*
+| ![MakerDAO market cap](/assets/MKR_market_cap.png)| 
+|:--:| 
+| *Kaynak: https://www.coingecko.com/en/coins/maker* |
 
+&nbsp;
 Compound ise bu yazının yazıldığı tarih itibariyle henüz çok yeni. Ancak MKR'nin bu kadar ilgi görmesinden sonra FOMO (Fear of missing out - bir şeyleri kaçırma korkusu) nedeniyle ilk çıktığı fiyata göre bir haftada yaklaşık 80 kat değer kazandı (sonra düştü). Piyasa değeri olarak yazının yazıldığı şu ana yaklaşık 520 milyon ABD Doları civarında. 
+&nbsp;
 
-![Compound price](/assets/COMP_price_chart.png) *Kaynak: https://coincodex.com/crypto/compound-coin/*
+| ![Compound price](/assets/COMP_price_chart.png)| 
+|:--:| 
+| *Kaynak: https://coincodex.com/crypto/compound-coin/* |
 
+&nbsp;
 COMP tokenı üzerine bir değerlendirme yapmak için henüz çok erken. Yatırımcılar bu parayı MKR ile karşılaştırıyor olsalar da aslında şeytan ayrıntıda gizli. Compound'un COMP'u ile MakerDAO'nun MKR'ı aslında birbirinden çok farklı tokenlar.. Neden?
 
 En  basitinden MKR tokenı sahipleri bu parayı sadece MakerDAO sistemini yönetmek için kullanmıyorlar. Aynı zamanda sistemin kâr ya da zararına da ortaklar (bunun detayına MakerDAO'dan bahsedeceğimiz bir sonraki yazıda değineceğiz). COMP ise Compound'un CEO'sunun kendi ağzından yaptığı açıklama ile herhangi bir ekonomik değer atfedilmeden yalnızca sistemin yönetimi konusunda söz sahibi olacak bir token. Dolayısıyla her iki tokenı aynı kefeye koyup değerlendirmek elma ile armutları karşılaştırma ile eş değer. 
