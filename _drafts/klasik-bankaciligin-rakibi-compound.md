@@ -66,7 +66,7 @@ Compound ise bu yazının yazıldığı tarih itibariyle henüz çok yeni. Ancak
 
 | ![Compound price](/assets/COMP_price_chart.png)| 
 |:--:| 
-| *Compound tokenı COMP'un Haziran 2020 fiyat değişimi ([Kaynak](https://coincodex.com/crypto/compound-coin/))* |
+| *Compound tokeni COMP'un Haziran 2020 fiyat değişimi ([Kaynak](https://coincodex.com/crypto/compound-coin/))* |
 
 &nbsp;
 COMP tokenı üzerine bir değerlendirme yapmak için henüz çok erken. Yatırımcılar bu parayı MKR ile karşılaştırıyor olsalar da aslında şeytan ayrıntıda gizli. Compound'un COMP'u ile MakerDAO'nun MKR'ı aslında birbirinden çok farklı tokenlar.. Neden?
