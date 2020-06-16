@@ -55,7 +55,7 @@ Compound, MakerDAO'ya göre bir parça daha basit. Bir analoji vermek gerekirse,
 
 Daha önce çıkan MKR özellikle Mart 2020'deki genel düşüş sonrasındaki aylarda çok ciddi değer kazandı. Fiyatı çok oynak olsa da yaklaşık 550 milyon ABD doları bir piyasa değerine sahip. 
 
-[https://coincodex.com/crypto/maker/?period=YTD]Maker price chart
+![MakerDAO price](/assets/MKR_market_cap.png) Source: https://www.coingecko.com/en/coins/maker
 
 Compound ise bu yazının yazıldığı tarih itibariyle henüz çok yeni. Ancak MKR'nin bu kadar ilgi görmesinden sonra FOMO (Fear of missing out - bir şeyleri kaçırma korkusu) nedeniyle yatırımcılar ilk çıktığı fiyata göre bir haftada yaklaşık 80 kat değer kazandı. Piyasa değeri olarak yazının yazıldığı şu ana yaklaşık 520 milyon ABD Doları civarında. 
 
