@@ -1,10 +1,10 @@
 Günümüzde klasik bankacılığın karşısına pek çok rakip çıkıyor. Özellikle Avrupa ve Amerika'da adına [Neobank](https://en.wikipedia.org/wiki/Neobank) denen yeni oluşumlara her geçen gün yenileri ekleniyor. Bunlar mevcut bankacılık hizmetlerini çok daha ucuza sağlıyorlar. Neden? Temelde klasik bankaların geçmişten gelen artık kemikleşmiş maliyetlerinin hiçbirine sahip değiller. 
 
-Kripto dünyasında ise DeFi hareketi benzer şekilde bize yeni alternatifler sunuyor. Henüz çok küçük ve deneyseller. Ama belli bir potansiyel sağlayacakları kesin. Gelin bugün bu alandaki ilginç yapılardan Compound'a bakalım: 
+Kripto dünyasında ise DeFi hareketi benzer şekilde bize yeni alternatifler sunuyor. Henüz çok küçük ve deneyseller. Ama belli bir potansiyel sağlayacakları kesin. Gelin bugün bu alandaki ilginç yapılardan [Compound](https://compound.finance/)'a bakalım: 
 
 ### Nedir bu Compound?
 
-Compound klasik bankacılık sisteminin bir alternatifi. 
+[Compound](https://compound.finance/) klasik bankacılık sisteminin bir alternatifi. 
 
 Klasik bankacılık en basit tarifi ile aslında mevduat sahiplerinin yatırdığı paraların ihtiyaç sahiplerine kredi olarak verilmesi. Mevduata verilen ile kredilere uygulanan faizler arasındaki fark da esas olarak bir bankanın kâr marjı (spread). 
 
@@ -24,8 +24,7 @@ Basitçe denge sistemi ile çalışıyor sistem: Örneğin, faizlerin düşmesi 
 
 #### Faiz çok oynak görünüyor, ya sisteme giriş-çıkış nasıl oluyor?
 
-Şunu da hemen belirtelim. neredeyse anlık değişen faize paralel olarak sisteme giriş çıkış da istenildiği zaman yapılabiliyor. Yani kredi aldığınızda istediğiniz zaman geri ödeyebiliyorsunuz. Aynı şekilde mevduat yaptığınızda da istediğiniz zaman 
-paranızı çekebiliyorsunuz. 
+Şunu da hemen belirtelim. neredeyse anlık değişen faize paralel olarak sisteme giriş çıkış da istenildiği zaman yapılabiliyor. Yani kredi aldığınızda istediğiniz zaman geri ödeyebiliyorsunuz. Aynı şekilde mevduat yaptığınızda da istediğiniz zaman paranızı çekebiliyorsunuz. 
 
 #### Tahsilat riski nasıl aşılıyor?
 
@@ -42,10 +41,10 @@ Neden bir kişi sistemden borç almak ister? Teminat verecek kadar "param" varsa
 Neden borç verirsiniz peki? Yatırım amaçlı. Bir süreliğine kenarda tutmak istediğiniz bir paraya faiz kazanmak isterseniz bu sistem tam size göre. 
 
 ### Kim kurmuş bu Compound'u? Güvenilir mi peki?
-Compound'u kuran ekip tecrübeli, ayrıca arkalarında teknoloji dünyasının en prestijli girişim sermayeleri var. Daha önce pek çok büyük kripto projesine yatırım yapmış a16z ve polychain capital bunlardan en belirgin ikisi. Bir DeFi hareketinin temel özelliği olarak tamamen şeffaf yürütülen sistem hem yatırımcılara hem de kullanıcılara bir nebze iç rahatlığı verebilir. Görebildiğim kadarıyla sistemdeki tek kapalı noktaya gelelim şimdi. 
+Compound'u kuran ekip tecrübeli, ayrıca arkalarında teknoloji dünyasının en prestijli girişim sermayeleri var. Daha önce pek çok büyük kripto projesine yatırım yapmış [a16z](https://a16z.com/crypto/) ve [polychain capital](https://polychain.capital/) ve ABD'nin en büyük borsası [Coinbase](https://www.coinbase.com/)'in yatırım [fonu](https://ventures.coinbase.com/) bunlardan en belirgin ikisi. Bir DeFi hareketinin temel özelliği olarak tamamen şeffaf yürütülen sistem hem yatırımcılara hem de kullanıcılara bir nebze iç rahatlığı verebilir. Görebildiğim kadarıyla sistemdeki tek kapalı noktaya gelelim şimdi. 
 
 #### Tamamen merkeziyetsiz mi?
-Hayır. Merkeziyetsizlik "uzun ince bir yol" ise Compound bu yolun ilerisinde ama sonunda değil. Olacak mı, o da belli değil açıkçası. 
+Hayır. Merkeziyetsizlik "[uzun ince bir yol](https://www.youtube.com/watch?v=PXw3f9YTqV0)" ise Compound bu yolun ilerisinde ama sonunda değil. Olacak mı, o da belli değil açıkçası. 
 
 Merkezilik nerede var? Öncelikle, geliştiren ekip merkezi ama bu o kadar da kritik değil. 
 
@@ -54,15 +53,15 @@ Asıl kritik olan, kredi alanlara hangi faiz oranı uygulayacağına bir "robot"
 Eğer tam merkeziyetsiz bir yapı düşünüyor olsaydık, o zaman direkt alıcı ile verici  pazaryeri misali birbirleri ile direkt biraraya gelebilirdi. O zaman da böyle bir karar kutuya ihtiyaç olmazdı. Birkaç yıl önce Dharma protokolü böyle bir niyetle ortaya çıktı ancak o projenin çok başarılı olduğu söylenemez. 
 
 ### MakerDAO'dan farkı ne?
-MakerDAO, DeFi dünyasının en büyüğü ancak daha karışık olduğu için DeFi hareketine Compound'u ile başladık. 
+[MakerDAO](https://makerdao.com/en/), DeFi dünyasının en büyüğü ancak daha karışık olduğu için DeFi hareketine Compound'u ile başladık. 
 
 Compound, MakerDAO'ya göre bir parça daha basit. Bir analoji vermek gerekirse, Compound bir banka, MakerDAO ise merkez bankası. 
 
-Belki de bu nedenle MakerDAO kendi sistemini sürdürmek için bir sabit para (DAI) yaratmışken, Compound'da benzer bir para yok - onlar DAI de dahil başka paraları kullanıyorlar, aynı bir banka gibi. 
+Belki de bu nedenle MakerDAO kendi sistemini sürdürmek için bir sabit para ([DAI](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/dai)) yaratmışken, Compound'da benzer bir para yok - onlar DAI de dahil başka paraları kullanıyorlar, aynı bir banka gibi. 
 
 Compound'un nihai hedefi, faizi belirlemede bir gösterge olacak, üzerine pek çok başka uygulamanın yazıldığı, kurucularının hakimiyetinden uzaklaşmış merkeziyetsiz bir protokol olmak. 
 
-Öte yandan Compound'un MakerDAO'dan bir diğer farkı da yönetim kısmında. Her iki sistemde de yönetim hakları için bir token çıkarılmış durumda: MakerDAO için MKR, Compound için ise 2020 Haziran ayında çıkan COMP. 
+Öte yandan Compound'un MakerDAO'dan bir diğer farkı da yönetim kısmında. Her iki sistemde de yönetim hakları için bir token çıkarılmış durumda: MakerDAO için [MKR](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/mkr-token), Compound için ise 2020 Haziran ayında çıkan COMP. 
 
 Daha önce çıkan MKR özellikle Mart 2020'deki genel düşüş sonrasındaki aylarda çok ciddi değer kazandı. Fiyatı çok oynak olsa da yaklaşık 550 milyon ABD doları bir piyasa değerine sahip.
 &nbsp;
