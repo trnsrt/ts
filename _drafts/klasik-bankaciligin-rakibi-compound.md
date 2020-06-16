@@ -56,7 +56,7 @@ Compound, MakerDAO'ya göre bir parça daha basit. Bir analoji vermek gerekirse,
 Daha önce çıkan MKR özellikle Mart 2020'deki genel düşüş sonrasındaki aylarda çok ciddi değer kazandı. Fiyatı çok oynak olsa da yaklaşık 550 milyon ABD doları bir piyasa değerine sahip.
 &nbsp;
 
-| ![MakerDAO market cap](/assets/MKR_market_cap.png)| 
+| ![MakerDAO market cap](/assets/MKR_market_cap_800.png)| 
 |:--:| 
 | *Kaynak: https://www.coingecko.com/en/coins/maker* |
 
