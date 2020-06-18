@@ -1,0 +1,1 @@
+Genel olarak kripto paralar daha da özelinde Merkeziyetsiz Finans (DeFi9  konusunu konuştuğum kişilerden genelde aldığım tepki "İyi ama bunlar çok küçük değil mi? Kocaman bir finans dünyası var ortada, bunlar yanında pire gibi kalıyor" minvalinde oluyor. 
