@@ -100,5 +100,8 @@ COMP ise Compound'un CEO'sunun kendi ağzından yaptığı açıklama ile herhan
 
 Compound DeFi hareketinin MakerDAO ile birlikte ilk öncülerinden. Üzerine kurulacak farklı uygulamalar ile birlikte gelecekte adını daha sık duyma ihtimalimizin yüksek olduğu bir para piyasası aracı. Gelecek heyecan verici - hep birlikte takip edeceğiz.
 
+---
 
-Not: Bu yazı ilk olarak 18 Haziran 2020'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/klasik-bankaciligin-rakibi-compound/)
+* Not 1: Bu yazı ilk olarak 18 Haziran 2020'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/klasik-bankaciligin-rakibi-compound/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
