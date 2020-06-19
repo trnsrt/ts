@@ -8,6 +8,8 @@ Kazın ayağı öyle değil tabii ki. Birlikte yaşayan ve hareket eden her bir 
 #### Nasıl olmuş şimdiye dek
 Sistemlerin yönetilmesi konusundan tamamiyle merkezi yapıdan, olabildiğince merkeziyetsize (adem-i merkezi) geniş bir yelpaze mevcut. 
 
+**Bitcoin:**
+
 Örneğin, yine sistemin ilk örneği Bitcoin'e bakalım. Daha önce belirtmiştik belki de görüp görebileceğini en merkeziyetsiz yapı Bitcoin. İlk kuruluş aşamasında fikir babası olan Satoshi Nakamoto isimli şahsın elinden çıkan sistem sonrasında olabildiğince anonim hale gelmiş. Peki nasıl yönetilmiş/yönetiliyor?
 
 Temel olarak uzlaşma usulüne göre? Sistem işleyişi olarak sistemi yürüten madenciler nasıl ilerleyecekleri konusunda o an içinde bulundukları en uzun zincire yanaşıyorlar. Bir nevi çoğunluğun dediği oluyor yani. 
@@ -20,10 +22,18 @@ Bir de işleyiş ve sürat olayı var. Bu kadar merkeziyetsiz bir yapı olduğun
 
 İşte bu nedenle Bitcoin sansürsüz, değerini nispeten kanıtlamış bir dijital para olarak çok önemli ancak blokzincir teknolojisini daha da ileri götürmede bir altyapı olarak yetersiz görülüyor. 
 
+**Ethereum**
 Ethereum da benzer şekilde yavaş işlemesi nedeniyle eleştiriliyor ancak yine de Bitcoin'e göre daha şanslı. Öncelikle Bitcoin'in yaşadığı temel sorunlar dikkate alınarak kurulduğu ve dijital altın misyonundan ziyade dünyanın en büyük bilgisayarı olma vizyonunda olduğu için daha esnek bir yapısı var. 
 
 Ancak Ethereum'da da 2020 yaz aylarında gelmesi planlanan yeni versiyon Ethereum 2.0 geldikten sonra iki yılı alacak bir sürede ancak tam olarak oturacak. 
 
 Şunu da unutmamak lazım: Bitcoin ve Ethereum, Layer 1 dediğimiz altyapı projeleri. Bu ne demek? Bunların üzerine pek çok proje yapılacak demek. Böyle olunca da çok hızlı değişimler yapmak mümkün olmuyor. Teknoloji dünyasında hep rastlanan bir durum bu aslında. Altyapıya olma iddianız varsa öyle çok hızlı ilerleyemezsiniz - aksi takdirde üstünüze kurulan projeler enerjilerini sizin değişikliklerinize adapte etmeye harcarlar ise, teknolojik olarak ilerleme sağlayamazlar. İlerleme sağlamaya olanak vermediğiniz durumda da projeler hızlı bir şekilden sizden diğer rakip projelere kaymaya başlarlar. 
+
+**Layer 2 projeler**
+İşte, ikinci seviye dediğimiz Bitcoin, Ethereum gibi altyapıların üzerine kurulan projeler, esneklik ve hız anlamında çok daha hızlı hareket edebiliyorlar. Peki ya yönetim olarak?
+
+İşte orada merkezilik ve merkeziyetsizlik açmazı önümüze çıkıyor. Ne kadar merkeziyetsiz olursanız o kadar karar almada yavaşlama riskiniz var. Öte taraftan daha geniş bir kitle tarafından adapte edilme şansına sahipsiniz. Neden? Çünkü kullanıcılar merkezi yapıların keyfe keder hareketlerinden muzdaripler ve kullanacakları sistemin işleyişinde ve geleceğinde söz sahibi olmak istiyorlar. 
+
+Merkezi yapıların keyfe keder uygulamalarında en güzel örnek yine Web 2.0'in monopol yapılarından Facebook'tan gelsin. 2010'lu yılların başında dikkat ederseniz bütün yabancı ve yerli yayınlar haberlerini Facebook'ta post olarak koyuyorlardı. Zira kendi websitelerine kullanıcı çekebilmek için en güzel yol buydu - ve bunu başarabilmek için çok ciddi yatırımlar da yaptılar. Sonra ne oldu? Bir gün Facebook dedi ki "Arkadaşlar - ben algoritmamı değiştirdim, artık postlarınızı daha az göstereceğim". Bir gecede her şey değişti. Tıklanma oranları yerlere indi. Sonra bir başka gün Facebook yine geldi ve dedi ki "Arkadaşlar! harika bir teklifim var, artık postlarınızı daha çok göstereceğim - tabii bana para vermeniz şartıyla"
 
 
