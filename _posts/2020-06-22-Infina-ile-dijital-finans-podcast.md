@@ -12,7 +12,9 @@ tags: videos Etkinlikler
 Yayının linklerine aşağıdan ulaşabilirsiniz: 
 
 [Spotify](https://open.spotify.com/episode/32Rpnd4mjAGUbH2m8o3kfa)
+
 [Apple Podcasts](https://podcasts.apple.com/tr/podcast/25-turan-sert-ile-blokzincir-blockchain-ve-gelecek/id1504730839?i=1000479018383)
+
 [YouTube](https://www.youtube.com/watch?v=evsyn5BSANQ)
 
 <br />
