@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "İnfina ile Dijital Finans - 22 Haziran 2020 Podcast"
-date:   2020-05-05 13:37:15 +0300
+date:   2020-06-22 13:37:15 +0300
 categories: Genel
 tags: videos Etkinlikler
 ---
