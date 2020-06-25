@@ -45,7 +45,9 @@ En önemli nedeni, aslında yavaş yavaş artan token değerinin kendi kendine b
 
 COMP bunu kendi sisteminin geniş kitlelere kullandırmak için yaptı. Zira bu tip DeFi platformların en büyük sıkıntısı likidite sıkıntısı idi. Bu da bir tür sarmal. Kullanıcı olmayınca likidite olmuyor, likidite olmayınca da yeni kullanıcı gelmiyor. Bu sarmalı kırmak gerek. Sanırım Compound, COMP token ile bu sarmalı kırmayı başardı. iki hafta içinde Compound sisteminine bağlanan kripto para değeri dört kat artarak DeFi piyasasının en büyüğü olan MakerDAO sistemine yanaştı. 
 
-[DeFi pulse grafiği]
+| ![Compound Locked ETH](/assets/Compound_Locked_Value.png)| 
+|:--:| 
+| *Compound sisteminde kilitli ETH miktarı (Kaynak:[DeFi Pulse](https://defipulse.com/compound))* |
 
 ### COMP tokenların değeri nereden geliyor?
 
@@ -68,7 +70,6 @@ Sadece Compound'un mevcut yatırımcıları değil COMP'a ilgi duyanlar. İlgin�
 Bunun dışında, çok ilginç bir başka görüş daha var. Biliyorsunuz, dünyanın hemen hemen yerinde, kripto paraların para mı yoksa hisse mi olduğu tartışılıyor. Neden? Vergi yüzünden. Para olarak değerlendirilmeleri durumunda pek çok ülke (örneğin BTC için ABD) vergi uygulamıyor - ancak hisse senedi olursa işler değişiyor, o zaman vergi var. Hisse senedinin teoride en önemli özelliği ne? Sahiplerine temettü yani kâr payı dağıtması. Compound en azından şimdilik böyle olmayacağını söylüyor - ama ileride bu değişebilir. 
 
 Neden şimdi değil de ileride? Birkaç nedeni olabilir. Birincisi, kripto paralar ile ilgili kural ve yorumları değişme ihtimaline karşı şimdiden kendilerine "hisse" damgasının vurulmasını istemiyor olabilirler.  İkincisi, Compound sistemi şu anda yönetim ve işletim olarak ABD'de kurulu bir şirket. İleride bir altyapı haline geçer ve tamamen merkeziyetsiz olarak kripto âleminde yaşar ise Compound'a nasıl ve hangi ülkede vergi uygulayacaksınız?
-
 
 ### Sonuç
 İşte gelecekte karşımıza çok çıkacak olan kripto para sanal dünyası ile fiziki dünyanın arasında yaşanacak zihin açıcı sorulardan bir tanesi size. Bir gün gelip fiziki ülkeler yerine Facebook, Google gibi büyük devlerin ülkelerden daha güçlü olacağını düşünenler var. Peki bu bir şekilde gerçek olursa, benzer şekilde BTC, ETH gibi platformlar da kendi içlerinde bağımsız adacıklar olarak bu merkezi yapıların yanında yerlerini alabilirler mi?
