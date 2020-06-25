@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Klasik bankacılığın rakibi Compound"
-date:   2020-06-18 12:47:56 +0300
+date:   2020-06-18 17:12:56 +0300
 categories: Genel
 tags: Yazılar DeFi
 ---
@@ -102,6 +102,6 @@ Compound DeFi hareketinin MakerDAO ile birlikte ilk öncülerinden. Üzerine kur
 
 ---
 
-* Not 1: Bu yazı ilk olarak 18 Haziran 2020'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/klasik-bankaciligin-rakibi-compound/)*
+* Not 1: Bu yazı ilk olarak 18 Haziran 2020'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/compoundin-yonetim-tokeni-comp-nasil-calisiyor/)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
