@@ -40,10 +40,19 @@ DeFi hareketleri de Bitcoin'in ilk günleri gibiler şu anda. Olgunlaşmaya ihti
 
 Ama olgunlaşmaya doğru giderken pek çok yol kazasına uğrayacakları da kesin. Sürat felaket getirir mi kestirmek zor ama arada bir lastik patlatacağı kesin gibi. Aynı, Mart 2020'de MakerDAO'nun yaşadığı Kara Perşembe gibi. 
 
-### Ama tek eksik teknik değil
+#### Ama tek eksik teknik değil
 DeFi hareketinin teknik olarak uzmanlaşmasının yanında başka ihtiyaçları da var. Aynı Bitcoin'in zamanında yaşadığına benzer. 
 
 Bunlardan biri kullanıcı dostu arayüzlere olan ihtiyaç. Şu anda eğer çok iyi bir finans kullanıcı değilseniz DeFi ürünlerini kullanabilmek gerçekten çok zor. Ne yapacaksınız, nasıl yapacaksınız, hangi riskleri alıyorsunuz bunları anlamak uygulama ya da web sitelerinden anlamak neredeyse imkansız. 
 
 Bunun yanında DeFi'nin en önemli sorunlarından biri değişik uygulamalar arasında işlem yaparken çok fazla kayıp yaşanması. Bunun tabii en önemli nedeni merkeziyetsiz piyasaların hala yeterince likit olmaması. Bu uygulamalar arasında fiyatlar açısından farklılıklar oluşmasına neden oluyor.  Aynı zamanda kimi zaman Ethereum üzerinde işlem yapabilmek için harcamanız gereken gas fiyatlarında da ciddi artışlar olabiliyor. 
+
+#### Hem BTC hem de DeFi'ya yatırım yapmak
+Öte yandan bir yatırımcı olarak DeFi piyasasının tadına bakmak istiyor ama bir şekilde elinizdeki Bitcoin'ler ile vedalaşmak da istemiyorsunuz. Bu da gayet mümkün. DeFi piyasaları dediğimiz gibi finansal olarak size çeşit çeşit alternatif sunabiliyor. Bunlardan biri de WBTC (Wrapped Bitcoin) dediğimiz Ethereum üzerine kurulu bir Akıllı Kontrat. Bu kontrat sayesinde elinizdeki BTC'yi verip karşılığında aynı miktarda WBTC alabiliyorsunuz. İstediğiniz zaman da aynı şekilde bire-bir karşılığı tekrar BTC'ye dönebiliyorsunuz. Ne işe yarıyor bu? Öncelikle elinizde BTC tutmaya devam ediyorsunuz. Ama WBTC'yi kullanarak çeşitli DeFi uygulamalarında faiz kazanabiliyorsunuz. 
+
+Tabii WBTC'nin en önemli çıkma nedeni DeFi aktörlerinin can suyu olan likiditenin artırılabilmesi. Bakmışlar, kripto piyasasında ciddi sayıda insan elinde BTC tutuyor, bundan nasıl fayda sağlayabilirizi düşünürken bu ürün ortaya çıkmış.
+
+Ancak şunu hemen hatırlatmakta fayda var: Elinizde WBTC tutmak ile BTC tutmak bir değil. WBTC tutmak daha riskli. Zira WBTC başta da söylediğimiz gibi bir Akıllı Kontrat. Bu nedenle Akıllı Kontratlarda çıkabilecek riskleri barındırıyor. Her ne kadar sık sık denetime tabi tutulsa, yaratılmış olan WBTC'leri şeffaf bir şekilde izlemek mümkün olsa da sonuçta BTC Bitcoin ağı tarafından korunurken, WBTC Ethereum ağı tarafından korunan ve bir grup insanın yazdığı bir kod bütünü. 
+
+Yine de görünen o ki Temmuz 2020 başı itibariyle yaklaşık [8,600 BTC sisteme kilitlenerek o kadarlık WBTC yaratılmış](https://wbtc.network/dashboard/order-book)
 
