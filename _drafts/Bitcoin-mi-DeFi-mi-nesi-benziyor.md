@@ -1,4 +1,4 @@
-TL; DR:
+### TL; DR:
 
 Her ne kadar Bitcoin maksimalistleri çok eleştirse de, Bitcoin ile DeFi aslında birbirlerinden o kadar da farklı değiller: 
 - İkisi de aynı köklerden. Bitcoin en merkeziyetsiz yapı- belki de ilk DeFi ürünü 
@@ -20,16 +20,19 @@ Sadece rakamlar değil büyüyen. Rakamlarla birlikte aynı zamanda daha da konu
 DeFi oyuncularının yeterince merkezi olmamasından tutun, haddinden fazla barındırdığı risklere, şu an çok popüler olması ile birlikte DeFi'ya giden paranın bundan iki yıl önce başlayan ICO çılgınlığı benzeri bir balon yaratıp sonrasında ciddi bir kayıba neden olacağına kadar pek çok görüş. 
 
 #### Peki yanılıyorlar mı? 
-Maalesef dünyanın 1 ya da 0 gibi ikilem (binary) olduğuna inanan biri olmadığım için şu şekilde cevap vermeliyim. Dedikleri riskler gerçekten var. Ama ne kadar ciddi. Ya da bu riskler var diye DeFi hareketini ciddiye almamak mı lazım? İşte orada durmak gerekiyor. DeFi risklerine önümüzdeki yazılarda çok daha detaylı bakacağız.
+Maalesef dünyanın 1 ya da 0 gibi ikili değer (binary) olduğuna inanan biri olmadığım için şu şekilde cevap vermeliyim: Bahsettikleri riskler gerçekten var. Ama ne kadar ciddi. Ya da bu riskler var diye DeFi hareketini ciddiye almamak mı lazım? İşte orada durmak gerekiyor. DeFi risklerine önümüzdeki yazılarda çok daha detaylı bakacağız.
 
-### Bitcoin ve DeFi - "Yok birbirimizden farkımız"
+### Bitcoin ve DeFi - "Yok birbirimizden farkımız, köklerimiz aynı"
 Bu arada Bitcoin ile DeFi hareketine "biri ya da öbürü" diye bakmaktan çok "yok aslında çok da birbirinden farkları" şeklinde bakmak belki de daha doğru. Neden? Gelin birlikte bakalım: 
 
+
+#### Bitcoin en merkezi olmayan DeFi ürün
 Öncelikle Bitcoin'in kendisi merkeziyetsiz bir finans hareketi. DeFi hareketinin oyuncularının çoğunun nihai hedefi, Bitcoin gibi sadece ürün olarak değil, yönetim olarak da merkeziyetsiz bir hareket olmak. Dolayısıyla Bitcoin bu oyuncuların bir nevi kutup yıldızı. 
 
 Zaten, aslında şu anki DeFi oyuncularının çoğu Bitcoin'in geçtiğine benzer yollardan geçiyorlar. Bitcoin bütün bu sorunları bir bir aşarak ve yıllara meydan okuyarak şu anki durumuna geldi ve sektörün ağır abisi oldu. 
 
-Genelde bu tip hareketlerin olgunlaşması için zamana ihtiyaçları var. Örneğin,Wikileaks Bitcoin ile para toplamaya karar verince Satoshi projenin (ilk çıktığından beri iki yıl geçmiş olsa da) "yavaş büyümesi gerektiğini" belirterek onlardan Bitcoin'i kullanmamalarını ister ve sonrasında da sırra kadem basar. 
+#### Bu işler teknik olarak emek ister
+Genelde bu tip hareketlerin olgunlaşması için zamana ihtiyaçları var. Örneğin, Wikileaks Bitcoin ile para toplamaya karar verince Satoshi projenin (ilk çıktığından beri iki yıl geçmiş olsa da) "yavaş büyümesi gerektiğini" belirterek onlardan Bitcoin'i kullanmamalarını ister ve sonrasında da sırra kadem basar. 
 
 [Satoshi yazısı]
 
@@ -37,4 +40,10 @@ DeFi hareketleri de Bitcoin'in ilk günleri gibiler şu anda. Olgunlaşmaya ihti
 
 Ama olgunlaşmaya doğru giderken pek çok yol kazasına uğrayacakları da kesin. Sürat felaket getirir mi kestirmek zor ama arada bir lastik patlatacağı kesin gibi. Aynı, Mart 2020'de MakerDAO'nun yaşadığı Kara Perşembe gibi. 
 
-Bu arada dışarıdan bakanlar için BTC de itibari paralara göre riskli görünen bir kripto para. Ama BTC maksimalistlerine bakarsanız, 
+### Ama tek eksik teknik değil
+DeFi hareketinin teknik olarak uzmanlaşmasının yanında başka ihtiyaçları da var. Aynı Bitcoin'in zamanında yaşadığına benzer. 
+
+Bunlardan biri kullanıcı dostu arayüzlere olan ihtiyaç. Şu anda eğer çok iyi bir finans kullanıcı değilseniz DeFi ürünlerini kullanabilmek gerçekten çok zor. Ne yapacaksınız, nasıl yapacaksınız, hangi riskleri alıyorsunuz bunları anlamak uygulama ya da web sitelerinden anlamak neredeyse imkansız. 
+
+Bunun yanında DeFi'nin en önemli sorunlarından biri değişik uygulamalar arasında işlem yaparken çok fazla kayıp yaşanması. Bunun tabii en önemli nedeni merkeziyetsiz piyasaların hala yeterince likit olmaması. Bu uygulamalar arasında fiyatlar açısından farklılıklar oluşmasına neden oluyor.  Aynı zamanda kimi zaman Ethereum üzerinde işlem yapabilmek için harcamanız gereken gas fiyatlarında da ciddi artışlar olabiliyor. 
+
