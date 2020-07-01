@@ -1,17 +1,16 @@
 TL; DR:
 
-Her ne kadar BTC maksimalistler çok eleştirse de, BTC ile DeFi aslında birbirlerinden o kadar da farklı değiller: 
-- İkisi de aynı köklerden. BTC en merkeziyetsiz yapı- belki de ilk DeFi ürünü 
-- BTC koruması için en çok para harcanan ürün- DeFi ise Ethereum tarafından korunuyor (artı her bir ürünün kendi içinde Akıllı Kontrat riski var)
-- BTC de bir zamanlar riskli ve deneyseldi (Satoshi yazısı Wikileaks olayı üzerine). BTC olgunlaştı, DeFi da aynı şekilde 
-- BTC de riskli (ama neye göre maksimalist isen 1 BTC = 1 BTC), DeFi ile aslında piyasa anlamında riskini bertaraf edebilirsin (her ne kadar ürün/teknoloji riskin olsa da). Hatta WBTC ile her iki alanda da yatırım yapabilirsin (ama tabii ki daha riskli)
-- BTC geniş kesimlerce benimsenene kadar yaşadığı sorunların hemen hemen aynısı şu anda DeFi'nin de önündeki temel engeller: 
-    - DeFi kullanıcı arayüzleri çok karışık. Ürünler henüz çok karışık.  
-    - Sisteme giriş çıkışta çok fazla kayıp var
+Her ne kadar Bitcoin maksimalistleri çok eleştirse de, Bitcoin ile DeFi aslında birbirlerinden o kadar da farklı değiller: 
+- İkisi de aynı köklerden. Bitcoin en merkeziyetsiz yapı- belki de ilk DeFi ürünü 
+- Bitcoin de de bir zamanlar riskli ve deneyseldi. BTC olgunlaştı, DeFi da aynı şekilde olgunlaşacak.
+- BTC geniş kesimlerce benimsenene kadar yaşadığı sorunların hemen hemen aynısı şu anda DeFi'nin de önünde var: DeFi kullanıcı arayüzleri çok karışık. Ürünler henüz çok karışık.  Ayrıca sisteme giriş çıkışta çok fazla kayıp var
+- Hem BTC hem de DeFi'ya yatırım da yapabilirsiniz. Hatta WBTC ile her iki alanda da yatırım yapabilirsiniz (ama tabii ki daha riskli)
+
 Temel farkları: 
-- BTC altyapı L1 - DeFi L2 ve Ethereum üzerine 
+- BTC altyapı L1 - DeFi L2 ve Ethereum üzerine
+- BTC koruması için en çok para harcanan ürün- DeFi ise Ethereum tarafından korunuyor (artı her bir ürünün kendi içinde Akıllı Kontrat riski var)
 - BTC her zaman en merkeziyetsiz çözüm olarak kalacak. DeFi her zaman daha merkeziyet içerecek
-- Ama DeFi her zaman riskli olacak (çünkü türev ürün)
+- Ayrıca DeFi her zaman genel olarak riskli olacak çünkü özünde türev ürün - stratejik olarak DeFi riskini hedge ederek azaltmak mümkün olsa da merkeziyetsizlikten dolayı riskler hep Bitcoin'e göre fazla olacak
 
 ### DeFi ve Bitcoin maksimalistleri
 Eski arşivlere şöyle bir baktım da, DeFi ile ilgili olarak ilk iki yazımı 15 Şubat 2020'de yazmışım. İlki DeFi hareketi nediri anlatan "[Blockchain finans dünyasını nasıl etkileyecek?](https://medium.com/@turansert/blockchain-finans-d%C3%BCnyas%C4%B1n%C4%B1-nas%C4%B1l-etkileyecek-ae5ef408fc789)", ikincisi ise hareketin en büyük oyuncusuna bakan "[MakerDAO kredi kullanımında çığır açar mı?](https://medium.com/@turansert/makerdao-kredi-kullan%C4%B1m%C4%B1nda-%C3%A7%C4%B1%C4%9F%C4%B1r-a%C3%A7ar-m%C4%B1-5b0d27a60bb1)" olmuş. Zaman çabuk geçiyor - o zamanlar 250 milyon ABD Doları civarında olan sisteme bağlı ETH miktarı şimdilerde Haziran 2020'de 1.7 milyar ABD Dolarına geldi. 
@@ -19,7 +18,7 @@ Eski arşivlere şöyle bir baktım da, DeFi ile ilgili olarak ilk iki yazımı 
 Sadece rakamlar değil büyüyen. Rakamlarla birlikte aynı zamanda daha da konuşulur oldu DeFi hareketi. Daha çok konuşulduğunun ve etkisinin arttığının en önemli göstergelerinden biri BTC maksimalistlerinin ciddi tepkisini çekmeye başlamış olması. 
 
 #### Bitcoin maksimalisti ne demek?
-"BTC maksimalisti de ne ola ki?" diye soracak olursanız. Efendim, kripto dünyasındaki bir grup insan için "tek gerçek bitcoin kalan her şey yalan". Tamamen merkeziyetsiz yapısı sayesinde bireylerin finansal özgürlüğünü her tür sansüre karşı koruması nedeniyle BTC'ye yalnız ekonomik değil felsefe olarak da derinden bağlı bu kişiler için BTC dışındaki her tür alternatif araç oyuncak hatta safsata. Geçtiğimiz yıllarda özellikle Ethereum ile didişen bu grubun şu anki baş düşmanı DeFi hareketinin aktörleri. 
+"Bitcoin maksimalisti de ne ola ki?" diye soracak olursanız. Efendim, kripto dünyasındaki bir grup insan için "tek gerçek bitcoin kalan her şey yalan". Tamamen merkeziyetsiz yapısı sayesinde bireylerin finansal özgürlüğünü her tür sansüre karşı koruması nedeniyle BTC'ye yalnız ekonomik değil felsefe olarak da derinden bağlı bu kişiler için BTC dışındaki her tür alternatif araç oyuncak hatta safsata. Geçtiğimiz yıllarda özellikle Ethereum ile didişen bu grubun şu anki baş düşmanı DeFi hareketinin aktörleri. 
 
 #### Ne iddia ediyor BTC maksimalistleri? 
 DeFi oyuncularının yeterince merkezi olmamasından tutun, haddinden fazla barındırdığı risklere, şu an çok popüler olması ile birlikte DeFi'ya giden paranın bundan iki yıl önce başlayan ICO çılgınlığı benzeri bir balon yaratıp sonrasında ciddi bir kayıba neden olacağına kadar pek çok görüş. 
