@@ -1,4 +1,3 @@
-### TL; DR:
 
 Her ne kadar Bitcoin maksimalistleri çok eleştirse de, Bitcoin ile DeFi aslında birbirlerinden o kadar da farklı değiller. Gelin bu yazıda neleri benziyor görelim, önümüzdeki hafta da farkları neler onlara bakarız. 
 
