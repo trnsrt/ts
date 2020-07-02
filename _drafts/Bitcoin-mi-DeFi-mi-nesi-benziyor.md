@@ -3,27 +3,26 @@
 Her ne kadar Bitcoin maksimalistleri çok eleştirse de, Bitcoin ile DeFi aslında birbirlerinden o kadar da farklı değiller. Gelin bu yazıda neleri benziyor görelim, önümüzdeki hafta da farkları neler onlara bakarız. 
 
 ### DeFi ve Bitcoin maksimalistleri
-Eski arşivlere şöyle bir baktım da, DeFi ile ilgili olarak ilk iki yazımı 15 Şubat 2020'de yazmışım. İlki DeFi hareketini anlatan "[Blockchain finans dünyasını nasıl etkileyecek?](https://medium.com/@turansert/blockchain-finans-d%C3%BCnyas%C4%B1n%C4%B1-nas%C4%B1l-etkileyecek-ae5ef408fc789)", ikincisi ise hareketin en büyük oyuncusu ile ilgili "[MakerDAO kredi kullanımında çığır açar mı?](https://medium.com/@turansert/makerdao-kredi-kullan%C4%B1m%C4%B1nda-%C3%A7%C4%B1%C4%9F%C4%B1r-a%C3%A7ar-m%C4%B1-5b0d27a60bb1)" olmuş. Zaman çabuk geçiyor -  2019 başlarında 250 milyon ABD Doları civarında olan sisteme bağlı ETH miktarı şimdilerde Temmuz 2020'de 1.7 milyar ABD Dolarına geldi. 
+Eski arşivlere şöyle bir baktım da, DeFi ile ilgili olarak ilk iki yazımı 15 Şubat 2020'de yazmışım. İlki DeFi hareketini anlatan "[Blockchain finans dünyasını nasıl etkileyecek?](https://medium.com/@turansert/blockchain-finans-d%C3%BCnyas%C4%B1n%C4%B1-nas%C4%B1l-etkileyecek-ae5ef408fc789)", ikincisi ise hareketin en büyük oyuncusu ile ilgili "[MakerDAO kredi kullanımında çığır açar mı?](https://medium.com/@turansert/makerdao-kredi-kullan%C4%B1m%C4%B1nda-%C3%A7%C4%B1%C4%9F%C4%B1r-a%C3%A7ar-m%C4%B1-5b0d27a60bb1)" olmuş. Zaman çabuk geçiyor -  2019 başlarında 250 milyon ABD Doları civarında olan sisteme bağlı ETH miktarı şimdilerde Temmuz 2020'de 1.7 milyar ABD Doları'na ulaşmış bile. 
 
-Sadece rakamlar değil büyüyen. Rakamlarla birlikte aynı zamanda daha da konuşulur oldu DeFi hareketi. Daha çok konuşulduğunun ve etkisinin arttığının en önemli göstergelerinden biri BTC maksimalistlerinin ciddi tepkisini çekmeye başlamış olması. 
+Sadece rakamlar değil büyüyen. Aynı zamanda daha da konuşulur oldu DeFi hareketi. Daha çok konuşulduğunun ve etkisinin arttığının en önemli göstergelerinden biri Bitcoin maksimalistlerinin ciddi tepkisini çekmeye başlamış olması. 
 
 #### Bitcoin maksimalisti ne demek?
-"Bitcoin maksimalisti de ne ola ki?" diye soracak olursanız. Efendim, kripto dünyasındaki bir grup insan için "tek gerçek bitcoin kalan her şey yalan". Tamamen merkeziyetsiz yapısı sayesinde bireylerin finansal özgürlüğünü her tür sansüre karşı koruması nedeniyle BTC'ye yalnız ekonomik değil felsefe olarak da derinden bağlı bu kişiler için BTC dışındaki her tür alternatif araç oyuncak hatta safsata. Geçtiğimiz yıllarda özellikle Ethereum ile didişen bu grubun şu anki baş düşmanı DeFi hareketinin aktörleri. 
+"Bitcoin maksimalisti de ne?" diye soracak olursanız. Efendim, kripto dünyasındaki bir grup insan için "tek gerçek Bitcoin kalan her şey yalan". Tamamen merkeziyetsiz yapısı sayesinde bireylerin finansal özgürlüğünü her tür sansüre karşı koruması nedeniyle Bitcoin'e yalnız ekonomik değil felsefe olarak da derinden bağlı bu kişiler için Bitcoin dışındaki her tür alternatif araç oyuncak hatta tehlikeli. Geçtiğimiz yıllarda özellikle Ethereum ile sıkça didişen bu grubun şu anki baş düşmanı DeFi hareketinin aktörleri. 
 
 #### Ne iddia ediyor Bitcoin maksimalistleri? 
-DeFi oyuncularının yeterince merkezi olmamasından tutun, haddinden fazla barındırdığı risklere, şu an çok popüler olması ile birlikte DeFi'ya giden paranın bundan iki yıl önce başlayan ICO çılgınlığı benzeri bir balon yaratıp sonrasında ciddi bir kayıba neden olacağına kadar pek çok görüş. 
+DeFi oyuncularının yeterince merkezi olmamasından tutun, haddinden fazla barındırdığı risklere, geçmişte ICO çılgınlığında yaşandığı gibi artan popülarite ile birlikte DeFi'ya giden paranın suni bir balon yaratıp sonrasında ciddi kayıplara neden olacağına kadar pek çok görüş. 
 
 #### Peki yanılıyorlar mı? 
-Maalesef dünyanın 1 ya da 0 gibi ikili değer (binary) olduğuna inanan biri olmadığım için şu şekilde cevap vermeliyim: Bahsettikleri riskler gerçekten var. Ama ne kadar ciddi. Ya da bu riskler var diye DeFi hareketini ciddiye almamak mı lazım? İşte orada durmak gerekiyor. DeFi risklerine önümüzdeki yazılarda çok daha detaylı bakacağız.
+Maalesef dünyanın 1 ya da 0 gibi ikili değer (binary) olduğuna inanan biri olmadığım için şu şekilde cevap vermeliyim: Bahsettikleri riskler var. Ama ne kadar ciddi? Ya da bu riskler var diye DeFi hareketini ciddiye almamak mı lazım? İşte orada durmak gerekiyor. 
 
 ### Bitcoin ve DeFi - "Yok birbirimizden farkımız, köklerimiz aynı"
-Bu arada Bitcoin ile DeFi hareketine "biri ya da öbürü" diye bakmaktan çok "yok aslında çok da birbirinden farkları" şeklinde bakmak belki de daha doğru. Neden? Gelin birlikte bakalım: 
-
+DeFi risklerine önümüzdeki yazılarda çok daha detaylı bakacağız. Ancak Bitcoin ile DeFi hareketine "biri ya da öbürü" diye bakmaktansa "yok aslında çok da birbirinden farkları" şeklinde değerlendirmek belki de daha doğru. Neden? Gelin birlikte üzerinden geçelim: 
 
 #### Bitcoin en merkezi olmayan DeFi ürün
 Öncelikle Bitcoin'in kendisi merkeziyetsiz bir finans hareketi. DeFi hareketinin oyuncularının çoğunun nihai hedefi, Bitcoin gibi sadece ürün olarak değil, yönetim olarak da merkeziyetsiz bir hareket olmak. Dolayısıyla Bitcoin bu oyuncuların bir nevi kutup yıldızı. 
 
-Zaten, aslında şu anki DeFi oyuncularının çoğu Bitcoin'in geçtiğine benzer yollardan geçiyorlar. Bitcoin bütün bu sorunları bir bir aşarak ve yıllara meydan okuyarak şu anki durumuna geldi ve sektörün ağır abisi oldu. 
+Zaten, aslında DeFi oyuncularının çoğu şu anda Bitcoin'in geçtiğine benzer yollardan geçiyorlar. Bitcoin bütün bu sorunları bir bir aşarak ve yıllara meydan okuyarak bulunduğu konuma geldi. Benzerini DeFi oyuncularının da yaşaması gerek. 
 
 #### Bu işler teknik olarak emek ister
 Genelde bu tip hareketlerin olgunlaşması için zamana ihtiyaçları var. Örneğin, Wikileaks Bitcoin ile para toplamaya karar verince Satoshi projenin (ilk çıktığından beri iki yıl geçmiş olsa da) "yavaş büyümesi gerektiğini" belirterek onlardan Bitcoin'i kullanmamalarını ister ve sonrasında da sırra kadem basar. 
