@@ -7,13 +7,13 @@ Eski arşivlere şöyle bir baktım da, DeFi ile ilgili olarak ilk iki yazımı 
 Büyüyen sadece rakamlar değil. Aynı zamanda daha da konuşulur oldu DeFi hareketi. Daha çok konuşulduğunun ve etkisinin arttığının en önemli göstergelerinden biri Bitcoin maksimalistlerinin ciddi tepkisini çekmeye başlamış olması. 
 
 #### Bitcoin maksimalisti ne demek?
-"Bitcoin maksimalisti de ne?" diye soracak olursanız. Efendim, kripto dünyasındaki bir grup insan için "tek gerçek Bitcoin kalan her şey yalan". Tamamen merkeziyetsiz yapısı sayesinde bireylerin finansal özgürlüğünü her tür sansüre karşı koruması nedeniyle Bitcoin'e yalnız ekonomik değil felsefe olarak da derinden bağlı bu kişiler için Bitcoin dışındaki her tür alternatif araç oyuncak hatta tehlikeli. Geçtiğimiz yıllarda özellikle Ethereum ile sıkça didişen bu grubun şu anki baş düşmanı DeFi hareketinin aktörleri. 
+"Bitcoin maksimalisti de ne?" diye soracak olursanız. Efendim, kripto dünyasındaki bir grup insan için "tek gerçek Bitcoin kalan her şey yalan". Tamamen merkeziyetsiz yapısı ve bireylerin finansal özgürlüğünü her tür sansüre karşı koruması nedeniyle Bitcoin'e yalnız ekonomik değil felsefe olarak da derinden bağlı bu kişiler için Bitcoin dışındaki her tür alternatif araç uzak durulması gereken tehlikeli birer oyuncak. Geçtiğimiz yıllarda özellikle Ethereum ile sıkça didişen bu grubun şu anki baş düşmanı DeFi hareketinin aktörleri. 
 
 #### Ne iddia ediyor Bitcoin maksimalistleri? 
-DeFi oyuncularının yeterince merkezi olmamasından tutun, haddinden fazla barındırdığı risklere, geçmişte ICO çılgınlığında yaşandığı gibi artan popülarite ile birlikte DeFi'ya giden paranın suni bir balon yaratıp sonrasında ciddi kayıplara neden olacağına kadar pek çok görüş. 
+DeFi oyuncularının yeterince merkezi olmamasından tutun, barındırdığı haddinden fazla riske, geçmişte ICO çılgınlığında yaşandığı gibi artan popülarite ile birlikte DeFi'ya giden paranın suni bir balon yaratıp sonrasında ciddi kayıplara neden olma ihtimaline kadar pek çok görüş ve argüman var Bitcoin cephesinde. 
 
 #### Peki yanılıyorlar mı? 
-Maalesef dünyanın 1 ya da 0 gibi ikili değer (binary) olduğuna inanan biri olmadığım için şu şekilde cevap vermeliyim: Bahsettikleri riskler var. Ama ne kadar ciddi? Ya da bu riskler var diye DeFi hareketini ciddiye almamak mı lazım? İşte orada durmak gerekiyor. 
+Dünyanın 1 ya da 0 gibi ikili (binary) değerlerden oluştuğuna inanan biri olmadığım için şu şekilde cevap vermeliyim: Bahsettikleri riskler var. Ama ne kadar ciddi? Ya da bu riskler var diye DeFi hareketini ciddiye almamak mı lazım? İşte orada durup düşünmek lazım. 
 
 ### Bitcoin ve DeFi - "Yok birbirimizden farkımız, köklerimiz aynı"
 DeFi risklerine önümüzdeki yazılarda çok daha detaylı bakacağız. Ancak Bitcoin ile DeFi hareketine "biri ya da öbürü" diye bakmaktansa "yok aslında çok da birbirinden farkları" şeklinde değerlendirmek belki de daha doğru. Neden? Gelin birlikte üzerinden geçelim: 
@@ -24,7 +24,7 @@ DeFi risklerine önümüzdeki yazılarda çok daha detaylı bakacağız. Ancak B
 Zaten, aslında DeFi oyuncularının çoğu şu anda Bitcoin'in geçtiğine benzer yollardan geçiyorlar. Bitcoin bütün bu sorunları bir bir aşarak ve yıllara meydan okuyarak bulunduğu konuma geldi. Benzerini DeFi oyuncularının da yaşaması gerek. 
 
 #### Bu işler teknik olarak emek ister
-Genelde bu tip hareketlerin olgunlaşması için zamana ihtiyaçları var. Örneğin, Wikileaks Bitcoin ile para toplamaya karar verince Satoshi projenin (ilk çıktığından beri iki yıl geçmiş olsa da) test aşamasında olduğunu ve yavaş büyümesi gerektiğini belirterek [onlardan Bitcoin'i kullanmamalarını ister](https://news.bitcoin.com/bitcoin-history-part-19-wikileaks-and-the-hornets-nest/) ve sonrasında da sırra kadem basar. 
+Genelde bu tip hareketlerin olgunlaşması için zamana ihtiyaçları var. Örneğin, Wikileaks Bitcoin ile para toplamaya karar verince Aralık 2010'da Satoshi projenin (ilk çıkışının ardından iki yıl geçmiş olsa da) hala test aşamasında olduğunu ve yavaş büyümesi gerektiğini belirterek [onlardan Bitcoin'i kullanmamalarını ister](https://news.bitcoin.com/bitcoin-history-part-19-wikileaks-and-the-hornets-nest/) ve sonrasında da sırra kadem basar. 
 
 DeFi hareketleri de Bitcoin'in ilk günleri gibiler şu anda. Olgunlaşmaya ihtiyaçları var. Farkları ise, 2010 yılına göre çok daha fazla insan ve kaynak bu alana ilgi gösteriyor. Üstelik gerekli pek çok altyapı da aradan geçen zaman içinde (özellikle Ethereum içinde) yavaş yavaş oturdu. O nedenle Bitcoin'e göre daha hızlı ilerlemeleri beklenmeli. 
 
