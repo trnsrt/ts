@@ -6,6 +6,13 @@ Her ne kadar Bitcoin maksimalistleri çok eleştirse de, Bitcoin ile DeFi aslın
 - BTC geniş kesimlerce benimsenene kadar yaşadığı sorunların hemen hemen aynısı şu anda DeFi'nin de önünde var: DeFi kullanıcı arayüzleri çok karışık. Ürünler henüz çok karışık.  Ayrıca sisteme giriş çıkışta çok fazla kayıp var
 - Hem BTC hem de DeFi'ya yatırım da yapabilirsiniz. Hatta WBTC ile her iki alanda da yatırım yapabilirsiniz (ama tabii ki daha riskli)
 
+- İkisi de aynı köklerden. Bitcoin en merkeziyetsiz yapı- belki de ilk DeFi ürünü 
+- Bitcoin de de bir zamanlar riskli ve deneyseldi. BTC olgunlaştı, DeFi da aynı şekilde olgunlaşacak.
+- BTC geniş kesimlerce benimsenene kadar yaşadığı sorunların hemen hemen aynısı şu anda DeFi'nin de önünde var: DeFi kullanıcı arayüzleri çok karışık. Ürünler henüz çok karışık.  Ayrıca sisteme giriş çıkışta çok fazla kayıp var
+- Hem BTC hem de DeFi'ya yatırım da yapabilirsiniz. Hatta WBTC ile her iki alanda da yatırım yapabilirsiniz (ama tabii ki daha riskli)
+
+Temel farkları ise bir sonraki yazıya.. 
+
 Temel farkları: 
 - BTC altyapı L1 - DeFi L2 ve Ethereum üzerine
 - BTC koruması için en çok para harcanan ürün- DeFi ise Ethereum tarafından korunuyor (artı her bir ürünün kendi içinde Akıllı Kontrat riski var)
