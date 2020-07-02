@@ -1,10 +1,9 @@
 ### TL; DR:
 
-Her ne kadar Bitcoin maksimalistleri çok eleştirse de, Bitcoin ile DeFi aslında birbirlerinden o kadar da farklı değiller: 
-
+Her ne kadar Bitcoin maksimalistleri çok eleştirse de, Bitcoin ile DeFi aslında birbirlerinden o kadar da farklı değiller. Gelin bu yazıda neleri benziyor görelim, önümüzdeki hafta da farkları neler onlara bakarız. 
 
 ### DeFi ve Bitcoin maksimalistleri
-Eski arşivlere şöyle bir baktım da, DeFi ile ilgili olarak ilk iki yazımı 15 Şubat 2020'de yazmışım. İlki DeFi hareketi nediri anlatan "[Blockchain finans dünyasını nasıl etkileyecek?](https://medium.com/@turansert/blockchain-finans-d%C3%BCnyas%C4%B1n%C4%B1-nas%C4%B1l-etkileyecek-ae5ef408fc789)", ikincisi ise hareketin en büyük oyuncusuna bakan "[MakerDAO kredi kullanımında çığır açar mı?](https://medium.com/@turansert/makerdao-kredi-kullan%C4%B1m%C4%B1nda-%C3%A7%C4%B1%C4%9F%C4%B1r-a%C3%A7ar-m%C4%B1-5b0d27a60bb1)" olmuş. Zaman çabuk geçiyor - o zamanlar 250 milyon ABD Doları civarında olan sisteme bağlı ETH miktarı şimdilerde Haziran 2020'de 1.7 milyar ABD Dolarına geldi. 
+Eski arşivlere şöyle bir baktım da, DeFi ile ilgili olarak ilk iki yazımı 15 Şubat 2020'de yazmışım. İlki DeFi hareketini anlatan "[Blockchain finans dünyasını nasıl etkileyecek?](https://medium.com/@turansert/blockchain-finans-d%C3%BCnyas%C4%B1n%C4%B1-nas%C4%B1l-etkileyecek-ae5ef408fc789)", ikincisi ise hareketin en büyük oyuncusu ile ilgili "[MakerDAO kredi kullanımında çığır açar mı?](https://medium.com/@turansert/makerdao-kredi-kullan%C4%B1m%C4%B1nda-%C3%A7%C4%B1%C4%9F%C4%B1r-a%C3%A7ar-m%C4%B1-5b0d27a60bb1)" olmuş. Zaman çabuk geçiyor -  2019 başlarında 250 milyon ABD Doları civarında olan sisteme bağlı ETH miktarı şimdilerde Temmuz 2020'de 1.7 milyar ABD Dolarına geldi. 
 
 Sadece rakamlar değil büyüyen. Rakamlarla birlikte aynı zamanda daha da konuşulur oldu DeFi hareketi. Daha çok konuşulduğunun ve etkisinin arttığının en önemli göstergelerinden biri BTC maksimalistlerinin ciddi tepkisini çekmeye başlamış olması. 
 
