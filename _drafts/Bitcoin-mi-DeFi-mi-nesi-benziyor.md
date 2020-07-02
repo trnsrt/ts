@@ -25,27 +25,31 @@ DeFi risklerine önümüzdeki yazılarda çok daha detaylı bakacağız. Ancak B
 Zaten, aslında DeFi oyuncularının çoğu şu anda Bitcoin'in geçtiğine benzer yollardan geçiyorlar. Bitcoin bütün bu sorunları bir bir aşarak ve yıllara meydan okuyarak bulunduğu konuma geldi. Benzerini DeFi oyuncularının da yaşaması gerek. 
 
 #### Bu işler teknik olarak emek ister
-Genelde bu tip hareketlerin olgunlaşması için zamana ihtiyaçları var. Örneğin, Wikileaks Bitcoin ile para toplamaya karar verince Satoshi projenin (ilk çıktığından beri iki yıl geçmiş olsa da) "yavaş büyümesi gerektiğini" belirterek onlardan Bitcoin'i kullanmamalarını ister ve sonrasında da sırra kadem basar. 
-
-[Satoshi yazısı]
+Genelde bu tip hareketlerin olgunlaşması için zamana ihtiyaçları var. Örneğin, Wikileaks Bitcoin ile para toplamaya karar verince Satoshi projenin (ilk çıktığından beri iki yıl geçmiş olsa da) test aşamasında olduğunu ve yavaş büyümesi gerektiğini belirterek [onlardan Bitcoin'i kullanmamalarını ister](https://news.bitcoin.com/bitcoin-history-part-19-wikileaks-and-the-hornets-nest/) ve sonrasında da sırra kadem basar. 
 
 DeFi hareketleri de Bitcoin'in ilk günleri gibiler şu anda. Olgunlaşmaya ihtiyaçları var. Farkları ise, 2010 yılına göre çok daha fazla insan ve kaynak bu alana ilgi gösteriyor. Üstelik gerekli pek çok altyapı da aradan geçen zaman içinde (özellikle Ethereum içinde) yavaş yavaş oturdu. O nedenle Bitcoin'e göre daha hızlı ilerlemeleri beklenmeli. 
 
-Ama olgunlaşmaya doğru giderken pek çok yol kazasına uğrayacakları da kesin. Sürat felaket getirir mi kestirmek zor ama arada bir lastik patlatacağı kesin gibi. Aynı, Mart 2020'de MakerDAO'nun yaşadığı Kara Perşembe gibi. 
+Ama olgunlaşmaya doğru giderken arada pek çok yol kazasına uğrayacaklar gibi görünüyor. Sürat felaket getirir mi kestirmek zor ama arada bir lastik patlatacağı kesin gibi. Aynı, [Mart 2020'de MakerDAO'nun yaşadığı Kara Perşembe](https://medium.com/@whiterabbit_hq/black-thursday-for-makerdao-8-32-million-was-liquidated-for-0-dai-36b83cac56b6) gibi. 
 
 #### Ama tek eksik teknik değil
 DeFi hareketinin teknik olarak uzmanlaşmasının yanında başka ihtiyaçları da var. Aynı Bitcoin'in zamanında yaşadığına benzer. 
 
-Bunlardan biri kullanıcı dostu arayüzlere olan ihtiyaç. Şu anda eğer çok iyi bir finans kullanıcı değilseniz DeFi ürünlerini kullanabilmek gerçekten çok zor. Ne yapacaksınız, nasıl yapacaksınız, hangi riskleri alıyorsunuz bunları anlamak uygulama ya da web sitelerinden anlamak neredeyse imkansız. 
+Bunlardan biri hizmetler hakkında verilen bilgilerin kullanıcılar için yeterince basit ve aydınlatıcı olmaması. Şu anda eğer çok iyi bir finans kullanıcı değilseniz DeFi ürünlerini kullanabilmek gerçekten çok zor. Ne yapacaksınız, nasıl yapacaksınız, hangi riskleri alıyorsunuz bunları anlamak uygulama ya da web sitelerinden anlamak neredeyse imkansız. 
 
-Bunun yanında DeFi'nin en önemli sorunlarından biri değişik uygulamalar arasında işlem yaparken çok fazla kayıp yaşanması. Bunun tabii en önemli nedeni merkeziyetsiz piyasaların hala yeterince likit olmaması. Bu uygulamalar arasında fiyatlar açısından farklılıklar oluşmasına neden oluyor.  Aynı zamanda kimi zaman Ethereum üzerinde işlem yapabilmek için harcamanız gereken gas fiyatlarında da ciddi artışlar olabiliyor. 
+Bir diğer eksiklik de kullanıcı dostu arayüzler - ki örneğin [Argent](https://www.argent.xyz/) bu anlamda ilerlemenin hızlı olduğunu bize gösteriyor. 
+
+Bunun yanında DeFi'nin en önemli sorunlarından biri değişik uygulamalar arasında işlem yaparken çok fazla kayıp (sızıntı) yaşanması. Bunun en önemli nedeni merkeziyetsiz piyasaların hala yeterince likit olmaması. Bu da uygulamalar arasında fiyatlar açısından farklılıklar oluşmasına neden oluyor.  Aynı zamanda kimi zaman yoğun talep olduğu noktada Ethereum üzerinde işlem yapabilmek için harcamanız gereken gas fiyatlarında da ciddi artışlar olabiliyor. 
 
 #### Hem BTC hem de DeFi'ya yatırım yapmak
-Öte yandan bir yatırımcı olarak DeFi piyasasının tadına bakmak istiyor ama bir şekilde elinizdeki Bitcoin'ler ile vedalaşmak da istemiyorsunuz. Bu da gayet mümkün. DeFi piyasaları dediğimiz gibi finansal olarak size çeşit çeşit alternatif sunabiliyor. Bunlardan biri de WBTC (Wrapped Bitcoin) dediğimiz Ethereum üzerine kurulu bir Akıllı Kontrat. Bu kontrat sayesinde elinizdeki BTC'yi verip karşılığında aynı miktarda WBTC alabiliyorsunuz. İstediğiniz zaman da aynı şekilde bire-bir karşılığı tekrar BTC'ye dönebiliyorsunuz. Ne işe yarıyor bu? Öncelikle elinizde BTC tutmaya devam ediyorsunuz. Ama WBTC'yi kullanarak çeşitli DeFi uygulamalarında faiz kazanabiliyorsunuz. 
+Öte yandan bir yatırımcı olarak DeFi piyasasının tadına bakmak istiyor ama bir şekilde elinizdeki Bitcoin'ler ile vedalaşmak da istemiyorsanız şanslısınız. DeFi piyasaları daha önce de yazdığımız gibi finansal olarak size çeşit çeşit alternatif sunabiliyor. 
 
-Tabii WBTC'nin en önemli çıkma nedeni DeFi aktörlerinin can suyu olan likiditenin artırılabilmesi. Bakmışlar, kripto piyasasında ciddi sayıda insan elinde BTC tutuyor, bundan nasıl fayda sağlayabilirizi düşünürken bu ürün ortaya çıkmış.
+Bunlardan biri de WBTC (Wrapped Bitcoin) dediğimiz Ethereum üzerine kurulu bir Akıllı Kontrat. Bu kontrat sayesinde elinizdeki BTC'yi verip karşılığında aynı miktarda WBTC alabiliyorsunuz. Bu WBTC'yi çeşitli DeFi platformlarında kullanarak faiz kazanabiliyorsunuz.  İstediğiniz zaman da aynı şekilde bire-bir karşılığı tekrar BTC'ye dönebiliyorsunuz. Böylece hem varlığınızı Bitcoin olarak tutabiliyor hem de güzel faizler (ya da Compound örneğinde olduğu gibi likidite sağlama karşılığı COMP) kazanabiliyorsunuz. 
 
-Ancak şunu hemen hatırlatmakta fayda var: Elinizde WBTC tutmak ile BTC tutmak bir değil. WBTC tutmak daha riskli. Zira WBTC başta da söylediğimiz gibi bir Akıllı Kontrat. Bu nedenle Akıllı Kontratlarda çıkabilecek riskleri barındırıyor. Her ne kadar sık sık denetime tabi tutulsa, yaratılmış olan WBTC'leri şeffaf bir şekilde izlemek mümkün olsa da sonuçta BTC Bitcoin ağı tarafından korunurken, WBTC Ethereum ağı tarafından korunan ve bir grup insanın yazdığı bir kod bütünü. 
+Tabii WBTC'nin çıkma nedeni DeFi aktörlerinin can suyu olan likiditenin artırılabilmesi. Bakmışlar, kripto piyasasında ciddi sayıda insan Bitcoin'i satın alıyor ama satmak yerine elinde tutmayı tercih ediyor ([alınan BTC'lerin %42'si iki yıldır hiç hareket etmemiş örneğin](https://news.bitcoin.com/chart-bitcoin-2-years/)), bundan nasıl fayda sağlayabiliriz diye düşünürken bu ürün ortaya çıkmış.
 
-Yine de görünen o ki Temmuz 2020 başı itibariyle yaklaşık [8,600 BTC sisteme kilitlenerek o kadarlık WBTC yaratılmış](https://wbtc.network/dashboard/order-book)
+Ancak şunu hemen hatırlatmakta fayda var: Elinizde WBTC tutmak ile BTC tutmak bir değil. WBTC tutmak daha riskli. Zira WBTC başta da söylediğimiz gibi bir Akıllı Kontrat. Bu nedenle Akıllı Kontratlarda çıkabilecek riskleri barındırıyor. Her ne kadar sık sık denetime tabi tutulsa ve yaratılmış olan WBTC'leri şeffaf bir şekilde izlemek mümkün olsa da sonuçta BTC Bitcoin ağı tarafından korunurken, WBTC Ethereum ağı tarafından korunan ve bir grup insanın yazdığı bir kod bütünü. 
 
+Yine de görünen o ki Temmuz 2020 başı itibariyle yaklaşık [8,800 BTC sisteme kilitlenerek o kadarlık WBTC yaratılmış](https://wbtc.network/dashboard/order-book)
+
+### Sonuç
+DeFi hareketi BTC'den ilham alan ve pek çok oyuncusunun uzun vadede Bitcoin gibi tamamen merkeziyetsiz yapılanmayı kendisine vizyon edindiği bir hareket. O vizyon kolay değil, zamana ve kullanımın artmasına bu sayede eksikliklerin giderilip ürünlerin cilalanmasına ve çürük elmaların ayıklanmasına ihtiyaç var. İki yılda aldıkları yol etkileyici. Bakalım gelecekte nereye doğru evrilecekler. 
