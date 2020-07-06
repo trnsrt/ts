@@ -20,7 +20,7 @@ DeFi risklerine önümüzdeki yazılarda çok daha detaylı bakacağız. Ancak B
 
 | ![BTC ile DeFi](/assets/syblings-640.jpg)| 
 |:--:| 
-|*BTC ile DeFi - temsili (Kaynak: Image by (sathyatripodi)[https://pixabay.com/users/sathyatripodi-460273] at (Pixabay)[https://pixabay.com/?amp;utm_content=457234])*|
+|*BTC ile DeFi - temsili (Kaynak: Image by [sathyatripodi](https://pixabay.com/users/sathyatripodi-460273) at [Pixabay](https://pixabay.com/?amp;utm_content=457234))*|
 
 
 #### Bitcoin en merkezi olmayan DeFi ürün
