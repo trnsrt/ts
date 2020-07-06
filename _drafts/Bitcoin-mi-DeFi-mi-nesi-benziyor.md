@@ -18,10 +18,10 @@ Dünyanın 1 ya da 0 gibi ikili (binary) değerlerden oluştuğuna inanan biri o
 ### Bitcoin ve DeFi - "Yok birbirimizden farkımız, köklerimiz aynı"
 DeFi risklerine önümüzdeki yazılarda çok daha detaylı bakacağız. Ancak Bitcoin ile DeFi hareketine "biri ya da öbürü" diye bakmaktansa "yok aslında çok da birbirinden farkları" şeklinde değerlendirmek belki de daha doğru. Neden? Gelin birlikte üzerinden geçelim: 
 
-| ![Compound Locked ETH](/assets/Compound_Locked_Value.png)| 
+| ![BTC ile DeFİ](/assets/syblings-640.jpg)| 
 |:--:| 
-| *Compound sisteminde kilitli ETH miktarı (Kaynak:[DeFi Pulse](https://defipulse.com/compound))* |
-Kaynak: Image by (sathyatripodi)[https://pixabay.com/users/sathyatripodi-460273/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=457234] at (Pixabay)[https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=457234] 
+| *BTC ile DeFi - temsili (Kaynak: Image by (sathyatripodi)[https://pixabay.com/users/sathyatripodi-460273/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=457234] at (Pixabay)[https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=457234])* |
+
 
 #### Bitcoin en merkezi olmayan DeFi ürün
 Öncelikle Bitcoin'in kendisi merkeziyetsiz bir finans hareketi. DeFi hareketinin oyuncularının çoğunun nihai hedefi, Bitcoin gibi sadece ürün olarak değil, yönetim olarak da merkeziyetsiz bir hareket olmak. Dolayısıyla Bitcoin bu oyuncuların bir nevi kutup yıldızı. 
