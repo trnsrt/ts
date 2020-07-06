@@ -2,7 +2,7 @@
 Her ne kadar Bitcoin maksimalistleri çok eleştirse de, Bitcoin ile DeFi aslında birbirlerinden o kadar da farklı değiller. Gelin bu yazıda neleri benziyor ona bakalım. 
 
 ### DeFi ve Bitcoin maksimalistleri
-Eski arşivlere şöyle bir baktım da, DeFi ile ilgili olarak ilk iki yazımı 15 Şubat 2020'de yazmışım. İlki DeFi hareketini anlatan "[Blockchain finans dünyasını nasıl etkileyecek?](https://medium.com/@turansert/blockchain-finans-d%C3%BCnyas%C4%B1n%C4%B1-nas%C4%B1l-etkileyecek-ae5ef408fc789)", ikincisi ise hareketin en büyük oyuncusu ile ilgili "[MakerDAO kredi kullanımında çığır açar mı?](https://medium.com/@turansert/makerdao-kredi-kullan%C4%B1m%C4%B1nda-%C3%A7%C4%B1%C4%9F%C4%B1r-a%C3%A7ar-m%C4%B1-5b0d27a60bb1)" olmuş. Zaman çabuk geçiyor -  2019 başlarında 250 milyon ABD Doları civarında olan DeFi sistemine kilitlenmiş ETH miktarı [şimdilerde Temmuz 2020'de 1.7 milyar ABD Doları'na ulaşmış bile](https://defipulse.com/).  
+Eski arşivlere şöyle bir baktım da, DeFi ile ilgili olarak ilk iki yazımı 15 Şubat 2020'de yazmışım. İlki DeFi hareketini anlatan "[Blockchain finans dünyasını nasıl etkileyecek?](/genel/2019/02/14/Blockchain-finans-dunyasini-nasil-etkileyecek.html)", ikincisi ise hareketin en büyük oyuncusu ile ilgili "[MakerDAO kredi kullanımında çığır açar mı?](/genel/2019/02/15/MakerDAO-kredi-kullaniminda-cigir-acar-mi.html)" olmuş. Zaman çabuk geçiyor -  2019 başlarında 250 milyon ABD Doları civarında olan DeFi sistemine kilitlenmiş ETH miktarı [şimdilerde Temmuz 2020'de 1.7 milyar ABD Doları'na ulaşmış bile](https://defipulse.com/).  
 
 Büyüyen sadece rakamlar değil. Aynı zamanda daha da konuşulur oldu DeFi hareketi. Daha çok konuşulduğunun ve etkisinin arttığının en önemli göstergelerinden biri Bitcoin maksimalistlerinin ciddi tepkisini çekmeye başlamış olması. 
 
@@ -17,6 +17,11 @@ Dünyanın 1 ya da 0 gibi ikili (binary) değerlerden oluştuğuna inanan biri o
 
 ### Bitcoin ve DeFi - "Yok birbirimizden farkımız, köklerimiz aynı"
 DeFi risklerine önümüzdeki yazılarda çok daha detaylı bakacağız. Ancak Bitcoin ile DeFi hareketine "biri ya da öbürü" diye bakmaktansa "yok aslında çok da birbirinden farkları" şeklinde değerlendirmek belki de daha doğru. Neden? Gelin birlikte üzerinden geçelim: 
+
+| ![Compound Locked ETH](/assets/Compound_Locked_Value.png)| 
+|:--:| 
+| *Compound sisteminde kilitli ETH miktarı (Kaynak:[DeFi Pulse](https://defipulse.com/compound))* |
+Kaynak: Image by (sathyatripodi)[https://pixabay.com/users/sathyatripodi-460273/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=457234] at (Pixabay)[https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=457234] 
 
 #### Bitcoin en merkezi olmayan DeFi ürün
 Öncelikle Bitcoin'in kendisi merkeziyetsiz bir finans hareketi. DeFi hareketinin oyuncularının çoğunun nihai hedefi, Bitcoin gibi sadece ürün olarak değil, yönetim olarak da merkeziyetsiz bir hareket olmak. Dolayısıyla Bitcoin bu oyuncuların bir nevi kutup yıldızı. 
@@ -48,7 +53,13 @@ Tabii WBTC'nin çıkma nedeni DeFi aktörlerinin can suyu olan likiditenin artı
 
 Ancak şunu hemen hatırlatmakta fayda var: Elinizde WBTC tutmak ile BTC tutmak bir değil. WBTC tutmak daha riskli. Zira WBTC başta da söylediğimiz gibi bir Akıllı Kontrat. Bu nedenle bu tip kontratlarda ortaya çıkabilecek her tür riske WBTC'de de var. Her ne kadar sık sık denetime tabi tutulsa ve yaratılmış olan WBTC'leri şeffaf bir şekilde izlemek mümkün olsa da sonuçta BTC Bitcoin ağı tarafından korunurken, WBTC Ethereum ağı tarafından korunan ve bir grup insanın yazdığı bir kod bütünü. 
 
-Yine de görünen o ki Temmuz 2020 başı itibariyle yaklaşık [8,800 BTC sisteme kilitlenerek karşılığında WBTC yaratılmış](https://wbtc.network/dashboard/order-book)
+Yine de görünen o ki Temmuz 2020 başı itibariyle yaklaşık [8,800 BTC sisteme kilitlenerek karşılığında WBTC yaratılmış](https://wbtc.network/dashboard/order-book).
 
 ### Sonuç
 DeFi Bitcoin'den ilham alan ve pek çok oyuncusunun uzun vadede Bitcoin gibi tamamen merkeziyetsiz yapılanmayı kendisine vizyon edindiği bir hareket. Zamana, kullanımının artmasına bu sayede eksikliklerin giderilip ürünlerin cilalanmasına ve çürük elmaların ayıklanmasına ihtiyaç var. İki yılda aldıkları yol etkileyici. Bakalım gelecekte nereye doğru evrilecekler. 
+
+---
+
+* Not 1: Bu yazı ilk olarak 2 Temmuz 2020'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/bitcoin-ile-defi-benzer-mi/)*
+
+* Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
