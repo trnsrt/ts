@@ -87,6 +87,6 @@ Neden şimdi değil de ileride? Birkaç nedeni olabilir. Birincisi, kripto paral
 
 ---
 
-* Not 1: Bu yazı ilk olarak 25 Haziran 2020'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/klasik-bankaciligin-rakibi-compound/)*
+*Not 1: Bu yazı ilk olarak 25 Haziran 2020'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/klasik-bankaciligin-rakibi-compound/)*
 
-* Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
