@@ -18,9 +18,9 @@ Dünyanın 1 ya da 0 gibi ikili (binary) değerlerden oluştuğuna inanan biri o
 ### Bitcoin ve DeFi - "Yok birbirimizden farkımız, köklerimiz aynı"
 DeFi risklerine önümüzdeki yazılarda çok daha detaylı bakacağız. Ancak Bitcoin ile DeFi hareketine "biri ya da öbürü" diye bakmaktansa "yok aslında çok da birbirinden farkları" şeklinde değerlendirmek belki de daha doğru. Neden? Gelin birlikte üzerinden geçelim: 
 
-| ![BTC ile DeFİ](/assets/syblings-640.jpg)| 
+| ![BTC ile DeFi](/assets/syblings-640.jpg)| 
 |:--:| 
-| *BTC ile DeFi - temsili (Kaynak: Image by (sathyatripodi)[https://pixabay.com/users/sathyatripodi-460273/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=457234] at (Pixabay)[https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=457234])* |
+|*BTC ile DeFi - temsili (Kaynak: Image by (sathyatripodi)[https://pixabay.com/users/sathyatripodi-460273] at (Pixabay)[https://pixabay.com/?amp;utm_content=457234])*|
 
 
 #### Bitcoin en merkezi olmayan DeFi ürün
