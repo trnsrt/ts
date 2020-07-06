@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Bitcoin ile DeFi benzer mi?"
+date:   2020-06-25 12:47:56 +0300
+categories: Genel
+tags: Yazılar DeFi
+---
+
 
 Her ne kadar Bitcoin maksimalistleri çok eleştirse de, Bitcoin ile DeFi aslında birbirlerinden o kadar da farklı değiller. Gelin bu yazıda neleri benziyor ona bakalım. 
 
