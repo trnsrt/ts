@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bitcoin ile DeFi benzer mi?"
-date:   2020-06-25 12:47:56 +0300
+date:   2020-07-07 12:47:56 +0300
 categories: Genel
 tags: Yazılar DeFi
 ---
