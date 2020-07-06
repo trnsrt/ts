@@ -68,6 +68,6 @@ DeFi Bitcoin'den ilham alan ve pek çok oyuncusunun uzun vadede Bitcoin gibi tam
 
 ---
 
-* Not 1: Bu yazı ilk olarak 2 Temmuz 2020'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/bitcoin-ile-defi-benzer-mi/)*
+*Not 1: Bu yazı ilk olarak 2 Temmuz 2020'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/bitcoin-ile-defi-benzer-mi/)*
 
-* Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
