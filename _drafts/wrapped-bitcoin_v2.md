@@ -14,7 +14,7 @@ Diğer taraftan Ethereum üzerine yeni yeni finansal enstrüman inşa edenlerde 
 ### Nasıl karşılanır bu ihtiyaçlar?
 İşte çözüm: Elinde tuttuğu BTC'den ayrılmak istemeyen ancak bir yanda da ek kazanç sağlamak isteyen kesimlere, BTC'yi teminat göstererek ETH yaratmak ve sonrasında bu ETH'yi DeFi piyasalarında kullanarak faiz ya da benzeri gelirler elde etme fırsatı. 
 
-İşte bu amaçla ortaya çıkan bir çok ürün var: [wBTC](https://www.wbtc.network/), [renBTC](https://renproject.io/), [hBTC](https://www.hbtc.finance/), [imBTC](https://tokenlon.im/), [sBTC](https://www.synthetix.io/), [pBTC](https://ptokens.io/), [tBTC](https://tbtc.network/) gibi.. Türkçesi ile isterseniz "Doğan görünümlü Şahin" deyin ister "içi beni yakar dışı seni" ama özünde, BTC değerini tutan ama Ethereum bazlı DeFi piyasalarında kullanılan, kısaca BTC'yi Ethereum ağına getiren ürünler. 
+İşte bu amaçla ortaya çıkan bir çok ürün var: [wBTC](https://www.wbtc.network/), [renBTC](https://renproject.io/), [hBTC](https://www.hbtc.finance/), [imBTC](https://tokenlon.im/), [sBTC](https://www.synthetix.io/), [pBTC](https://ptokens.io/), [tBTC](https://tbtc.network/) gibi.. Türkçesi ile isterseniz "Doğan görünümlü Şahin" deyin ister "içi beni yakar dışı seni" ama özünde, BTC değerini tutan ama Ethereum bazlı DeFi piyasalarında kullanılan, kısaca BTC'yi Ethereum ağına getiren ürünler - biz genel olarak bu ürünlere sarma BTC ya da xBTC diyelim. 
 
 ### Neden Bitcoin üzerinde değil de Ethereum'da kurulu bu ürünler?
 Bu tip ürünlerin tarihçesi aslında daha önceki bir yazımızda bahsettiğimiz Liquid'e dayanıyor. Ama Bitcoin ağına "yamanmış" bir eklenti olan Liquid kullancılara o kadar da faydalı olacak teknolojik yenilikler getiremediği için çok da başarılı olamadı. 
@@ -25,10 +25,10 @@ Son aylarda, Ethereum tarafında Liquid'e benzeyen ürünler giderek kullanıcı
 
 ### Peki bu ürünün kime ne faydası var?
 #### Kullanıcılar 
-Yatırımcılar için faydalarına kısaca yukarıda değindik. BTC'ye inanıyor ve her tür değer değişimine karşı elinizde tutuyorsunuz. Öte yandan, ETH haline getirdiğiniz yeni ürün ile örneğin DeFi piyasalarında Compound'da sisteme likidite sağlıyor ve karşılığında faiz alıyorsunuz. Üstüne üstlük bir de geçtiğimiz günlerde gündemde olan Compound'un yönetim tokeni COMP kazanma imkanına sahip oluyorsunuz. Yield farming de denen bu yöntem şimdilik iyi getirilere sahip ancak efektif bir piyasa olması durumunda getirilerin daha normal döneceğini tahmin etmek zor değil. 
+Yatırımcılar için faydalarına kısaca yukarıda değindik. BTC'ye inanıyorsanız, gelecekteki kar ya da zararından payınıza düşeni almaya devam ediyorsunuz - bir kaybınız yok. Öte yandan, ETH haline getirdiğiniz yeni ürün ile (örneğin önde gelen DeFi piyasalarından Compound'da) sisteme likidite sağlıyor ve karşılığında faiz alıyorsunuz. Üstüne üstlük bir de geçtiğimiz günlerde gündemde olan Compound'un yönetim tokeni COMP kazanma imkanına sahip oluyorsunuz. (Yield farming de denen bu yöntem şimdilik iyi getirilere sahip ancak efektif bir piyasa olması durumunda getirilerin daha normal döneceğini tahmin etmek zor değil). 
 
 #### DeFi platformları
-ETH üzerine kurulu DeFi oyuncuları ise, geniş kitleleri buraya çekmek için uzun vadeli yavaş bir çabaya girmek yerine, BTC tutan (likidite olarak ETH'nin en az on katı ????) bir kitleye hızlıca ulaşarak sistemlerine bir anda "roket yakıtı" koyuyorlar. 
+ETH üzerine kurulu DeFi oyuncuları ise, geniş kitleleri buraya çekmek için uzun vadeli yavaş bir çabaya girmek yerine, BTC tutan bir kitleye hızlıca ulaşarak sistemlerine bir anda "roket yakıtı" koyuyorlar (BTC, ETH'in piyasa işlem hacmi olarak 2.5 kat, dolaşımda olan para değeri olarak 6 kat bir büyüklüğe sahip). 
 
 #### Bitcoin
 Her ne kadar büyük bir kısmı soğuk baksa da aslında bu ürünlerin uzun vadede Bitcoin'e de fayda getireceğini söylemek yalnış olmaz. Zira Bitcoin çıkış zamanlarında (unutmayın Bitcoin white paper başlığı "Bitcoin kişiden-kişiye elekronik nakit sistemi") düşünülen faydalarından şu ana kadar ancak değer saklama tarafında gerçekten kendini kanıtladı. Ödeme sistemleri olarak beklenen seviyeye gelmedi. 
