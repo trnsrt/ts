@@ -15,7 +15,7 @@ Bu tip ürünlerin tarihçesi aslında [daha önceki bir yazımızda bahsettiği
 
 Ethereum teknolojik olarak Bitcoin'den çok daha esnek ve yenilikler ile dolu olduğu için bu platform üzerine kurulu uygulamalar daha ön plana çıkmaya başladılar (ama öte yandan güvenlik olarak Bitcoin'in Ethereum'dan daha önde olduğunu da hemen belirtelim burada). Son aylardaki yükselişlerine baksanıza: 
 
-[Wrapped Coin'ler grafiği]
+![Ethereum üzerindeki BTC miktarı](/assets/btconethereum-800.jpg)
 
 ### Peki bu ürünlerin kime ne faydası var?
 #### Kullanıcılar 
