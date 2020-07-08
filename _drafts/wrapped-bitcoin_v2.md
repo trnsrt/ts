@@ -5,11 +5,11 @@ Merkeziyetsiz Finans (DeFi) hareketinin en önemli özelliklerinden birinin bire
 
 İşte size yeni gelişen pazarlarla birlikte bir kısım insanda ortaya çıkan bir ihtiyaç:
 
-"Elimde BTC tutan uzun vadeli bir yatırımcıyım. Şu anda henüz geniş kitleler BTC'nin faydalarına aşina değil ve gerçek değerini ancak yıllar içinde bulacak. Peki ama o zamana kadar elimdeki BTC'ler kuzu kuzu yatacak mı? Bunun etinden değil ama sütünden faydalanamaz mıyım?"
+*"Elimde BTC tutan uzun vadeli bir yatırımcıyım. Şu anda henüz geniş kitleler BTC'nin faydalarına aşina değil ve gerçek değerini ancak yıllar içinde bulacak. Peki ama o zamana kadar elimdeki BTC'ler kuzu kuzu yatacak mı? Bunun etinden değil ama sütünden faydalanamaz mıyım?"*
 
 Diğer taraftan Ethereum üzerine yeni yeni finansal enstrüman inşa edenlerde ise şu düşünce var: 
 
-"Ethereum yapısı içinde çalışan pek çok farklı enstrüman üretiyoruz. Ancak özellikle sokaktaki vatandaşın kullanımı için daha çok zamana ihtiyaç var. Bu sistemlerin önce bir ufak kitle tarafından kullanılması lazım. Bunun için de sistemin can suyu olan likiditeyi bir yerlerden bulmak gerekiyor."
+*"Ethereum yapısı içinde çalışan pek çok farklı enstrüman üretiyoruz. Ancak özellikle sokaktaki vatandaşın kullanımı için daha çok zamana ihtiyaç var. Bu sistemlerin önce bir ufak kitle tarafından kullanılması lazım. Bunun için de sistemin can suyu olan likidite lazım, likiditeyi nereden bulabilirim?"*
 
 ### Nasıl karşılanır bu ihtiyaçlar?
 İşte çözüm: Elinde tuttuğu BTC'den ayrılmak istemeyen ancak bir yanda da ek kazanç sağlamak isteyen kesimlere, BTC'yi teminat göstererek ETH yaratmak ve sonrasında bu ETH'yi DeFi piyasalarında kullanarak faiz ya da benzeri gelirler elde etme fırsatı. 
