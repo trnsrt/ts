@@ -1,48 +1,44 @@
-Gelin bu yazımızda, Bitcoin'i sarıp sarmalayıp Ethereum ağına sunan DeFi ürünlerinin faydalarına ve dikkat edilmesi gerekenlere bakalım: 
+Gelin bu yazımızda, yakın zamanlarda yükselişe geçen yeni bir DeFi ürününe bakalım:
 
-### Kimin neye ihtiyacı var?
-Merkeziyetsiz Finans (DeFi) hareketinin en önemli özelliklerinden birinin bireylerin ya da kurumların her tür ihtiyacına teknolojinin de yardımı ile hızlıca yanıt verebilmek kabiliyeti olduğuna değinmiştik. 
+### "DeFi ilgimi çekiyor ama Bitcoin'imden vazgeçmem" diyenler
+Önceki yazılarımızda Merkeziyetsiz Finans (DeFi) hareketinin en önemli avantajlarından birinin bireylerin ya da kurumların her tür ihtiyacını teknolojinin de yardımı ile hızlıca karşılayabilmek olduğuna değinmiştik. Alın size yeni gelişen pazarlarla birlikte bir grup yatırımcıda beliren bir ihtiyaç:
 
-İşte size yeni gelişen pazarlarla birlikte bir kısım insanda ortaya çıkan bir ihtiyaç:
+*"Elimde BTC tutan uzun vadeli bir yatırımcıyım ve varlığımın gerçek değerini ancak yıllar içinde bulacağına inanıyorum. Peki ama o zamana kadar cüzdanımdaki bu varlıklar kuzu kuzu yatacak mı? Bunun etinden değil de en azından sütünden faydalanamaz mıyım?"*
 
-*"Elimde BTC tutan uzun vadeli bir yatırımcıyım. Şu anda henüz geniş kitleler BTC'nin faydalarına aşina değil ve gerçek değerini ancak yıllar içinde bulacak. Peki ama o zamana kadar elimdeki BTC'ler kuzu kuzu yatacak mı? Bunun etinden değil ama sütünden faydalanamaz mıyım?"*
+### Nasıl karşılanır bu ihtiyaç?
+İşte çözüm: Elinde tuttuğu BTC'den ayrılmak istemeyen ancak bir yanda da ek kazanç sağlamak isteyen kesimlere, BTC'yi teminat göstererek eşdeğer bir ETH token yaratmak, sonrasında bu ETH'yi DeFi piyasalarında kullanarak faiz ya da benzeri gelir elde etme fırsatı. 
 
-Diğer taraftan Ethereum üzerine yeni yeni finansal enstrüman inşa edenlerde ise şu düşünce var: 
-
-*"Ethereum yapısı içinde çalışan pek çok farklı enstrüman üretiyoruz. Ancak özellikle sokaktaki vatandaşın kullanımı için daha çok zamana ihtiyaç var. Bu sistemlerin önce bir ufak kitle tarafından kullanılması lazım. Bunun için de sistemin can suyu olan likidite lazım, likiditeyi nereden bulabilirim?"*
-
-### Nasıl karşılanır bu ihtiyaçlar?
-İşte çözüm: Elinde tuttuğu BTC'den ayrılmak istemeyen ancak bir yanda da ek kazanç sağlamak isteyen kesimlere, BTC'yi teminat göstererek ETH yaratmak ve sonrasında bu ETH'yi DeFi piyasalarında kullanarak faiz ya da benzeri gelirler elde etme fırsatı. 
-
-İşte bu amaçla ortaya çıkan bir çok ürün var: [wBTC](https://www.wbtc.network/), [renBTC](https://renproject.io/), [hBTC](https://www.hbtc.finance/), [imBTC](https://tokenlon.im/), [sBTC](https://www.synthetix.io/), [pBTC](https://ptokens.io/), [tBTC](https://tbtc.network/) gibi.. Türkçesi ile isterseniz "Doğan görünümlü Şahin" deyin ister "içi beni yakar dışı seni" ama özünde, BTC değerini tutan ama Ethereum bazlı DeFi piyasalarında kullanılan, kısaca BTC'yi Ethereum ağına getiren ürünler - biz şimdilik bu ürünlere sarma BTC ya da xBTC diyelim. 
+Bu amaçla ortaya çıkan bir çok ürün var: [wBTC](https://www.wbtc.network/), [renBTC](https://renproject.io/), [hBTC](https://www.hbtc.finance/), [imBTC](https://tokenlon.im/), [sBTC](https://www.synthetix.io/), [pBTC](https://ptokens.io/), [tBTC](https://tbtc.network/) gibi.. Türkçesi ile isterseniz "Doğan görünümlü Şahin" deyin ister "içi beni yakar dışı seni" ama özünde BTC'yi Ethereum ağına getiren ürünler (ki bu yazıda örnek olarak ona xBTC diyelim). 
 
 ### Neden Bitcoin üzerinde değil de Ethereum'da kurulu bu ürünler?
-Bu tip ürünlerin tarihçesi aslında daha önceki bir yazımızda bahsettiğimiz Liquid'e dayanıyor. Ama Bitcoin ağına "yamanmış" bir eklenti olan Liquid kullancılara o kadar da faydalı olacak teknolojik yenilikler getiremediği için çok da başarılı olamadı. 
+Bu tip ürünlerin tarihçesi aslında [daha önceki bir yazımızda bahsettiğimiz Liquid](https://medium.com/@turansert/bitcoin-gibi-ama-de%C4%9Fil-liquid-7a6e25778be4)'e dayanıyor. Ama Bitcoin ağına "yamanmış" bir eklenti olan Liquid kullanıcılara çok da fayda sağlamadığı için yeterince başarıya ulaşamadı.
 
-Son aylarda, Ethereum tarafında Liquid'e benzeyen ürünler giderek kullanıcıya sağladıkları fayda nedeniyle artan bir şekilde kullanılmaya başlandı.  Zira bu ürünlerin altyapısını oluşturan Ethereum teknolojik olarak Bitcoin'den çok daha önde ve yeniliklerle dolu (öte yandan güvenlik olarak Bitcoin'in daha önde olduğunu da hemen belirtelim burada). Bakın son aylardaki yükselişlerine: 
+Ethereum teknolojik olarak Bitcoin'den çok daha esnek ve yenilikler ile dolu olduğu için bu platform üzerine kurulu uygulamalar daha ön plana çıkmaya başladılar (ama öte yandan güvenlik olarak Bitcoin'in Ethereum'dan daha önde olduğunu da hemen belirtelim burada). Son aylardaki yükselişlerine baksanıza: 
 
 [Wrapped Coin'ler grafiği]
 
-### Peki bu ürünün kime ne faydası var?
+### Peki bu ürünlerin kime ne faydası var?
 #### Kullanıcılar 
-Yatırımcılar için faydalarına kısaca yukarıda değindik. BTC'ye inanıyorsanız, gelecekteki kar ya da zararından payınıza düşeni almaya devam ediyorsunuz - bir kaybınız yok. Öte yandan, ETH haline getirdiğiniz yeni ürün ile (örneğin önde gelen DeFi piyasalarından Compound'da) sisteme likidite sağlıyor ve karşılığında faiz alıyorsunuz. Üstüne üstlük bir de geçtiğimiz günlerde gündemde olan Compound'un yönetim tokeni COMP kazanma imkanına sahip oluyorsunuz. (Yield farming de denen bu yöntem şimdilik iyi getirilere sahip ancak efektif bir piyasa olması durumunda getirilerin daha normal döneceğini tahmin etmek zor değil). 
+Yatırımcılar için faydalarına kısaca yukarıda değindik. BTC'ye inanıyorsanız, gelecekteki kâr ya da zararı sizin - bir kaybınız yok. Öte yandan, ETH token haline getirdiğiniz yeni ürün (örneğin önde gelen DeFi piyasalarından Compound'a likidite sağlayarak) sistemin büyümesine katkı sağlıyor ve karşılığında faiz alıyorsunuz. Üstüne üstlük bir de geçtiğimiz günlerde gündemde olan Compound'un yönetim tokeni COMP kazanma imkanına sahip oluyorsunuz. (Yield farming de denen bu yöntem şimdilik iyi getirilere sahip ancak uzun vadede klasik yatırım gelirlerine yakınlaşacağını tahmin etmek zor değil).
 
-#### DeFi platformları
-ETH üzerine kurulu DeFi oyuncuları ise, geniş kitleleri buraya çekmek için uzun vadeli yavaş bir çabaya girmek yerine, BTC tutan bir kitleye hızlıca ulaşarak sistemlerine bir anda "roket yakıtı" koyuyorlar (BTC, ETH'in piyasa işlem hacmi olarak 2.5 kat, dolaşımda olan para değeri olarak 6 kat bir büyüklüğe sahip). 
+#### DeFi uygulamaları
+DeFi oyuncuları Ethereum yapısı içinde çalışan pek çok farklı uygulama ürettiler. Ancak özellikle sokaktaki vatandaşın bu ürünleri kullanımı için daha çok zamana ihtiyaç var. Onlar kullanana kadar da tekerleğin dönmeye başlaması için sistemin can suyu olan likidite lazım. 
+
+İşte elinde Bitcoin tuttuğu için kripto paralara aşina ancak DeFi ile henüz haşır neşir olmamış kitleler bu platformlar için ilk hedef. Geniş kitleleri buraya çekmek için uzun vadeli zahmetli ve zaman alıcı bir çabaya girmek yerine, BTC kitlesine hızlıca ulaşarak sistemlerine bir anda "roket yakıtı" koymak çok daha verimli geliyor onlara (unutmayalım BTC, ETH'in piyasa işlem hacmi olarak 2.5 katı, dolaşımda olan para değeri olarak ise yaklaşık 6 katı bir büyüklüğe sahip). 
 
 #### Bitcoin
-Her ne kadar büyük bir kısmı soğuk baksa da aslında bu ürünlerin uzun vadede Bitcoin'e de fayda getireceğini söylemek yanlış olmaz. Zira Bitcoin çıkış zamanlarında (unutmayın Bitcoin white paper başlığı "Bitcoin kişiden-kişiye elekronik nakit sistemi") düşünülen faydalarından şu ana kadar ancak değer saklama tarafında gerçekten kendini kanıtladı. Ödeme sistemleri olarak beklenen seviyeye gelmedi. 
+Her ne kadar Bitcoin maksimalistleri soğuk baksa da aslında bu ürünlerin uzun vadede Bitcoin'e fayda getireceğini söylemek yanlış olmaz. Zira Bitcoin ilk çıktığı zaman düşünülen faydalarından şu ana kadar ancak değer saklama ve sansürsüz olma konularında gerçekten kendini kanıtladı. Ödeme sistemi olarak beklenen seviyeye gelmedi (unutmayın Bitcoin white paper başlığı "Bitcoin kişiden-kişiye elektronik para sistemi" idi).
 
-Bunu Bitcoin'in başarısızlığı şeklinde adlandırmamak lazım. Daha çok güvenirlilik ve teknolojik yenilik konusundaki açmazda Bitcoin topluluğu güvenilir olmayı ve bu nedenle kendinden çok emin yavaş adımlarla gitmeyi seçti. 
+Bunu Bitcoin'in başarısızlığı şeklinde adlandırmamak lazım. Sonuçta bu bir seçim: Güvenilirlik ile teknolojik yenilik ikileminde Bitcoin topluluğu güvenilir olmayı ve bu nedenle kendinden çok emin yavaş adımlarla ilerlemeyi seçti.  
 
-Tabii bu yavaş adımlar nedeniyle Bitcoin temel vaadlerinden birini yerine getirmede şu anda yetersiz kalıyor. Yukarıda bahsettiğimiz ürünler, Bitcoin'e bir fayda daha sağlayarak kullanımının ya da BTC'ye olan talebin artmasına neden olabilirler. 
+Yukarıda bahsettiğimiz ürünler, getirdikleri ek faydalar ile Bitcoin kullanımının  dolayısıyla BTC'ye olan talebin artmasını sağlayabilirler. 
 
 ### Her şey toz pembe değil, dikkat!
 Burada en dikkat edilmesi gereken konu, sarılı Bitcoin'lerin gerçek BTC olmaması. Ne demek bu?
 
-BTC'niz varsa ve bu BTC'yi tuttuğunuz cüzdanın anahtarları sizde ise, ona sizden başka kimse ulaşamaz üzeriden hak iddia edemez - bir nevi mutlak hakimiyetiniz var.
+BTC'niz varsa ve bu parayı tuttuğunuz cüzdanın anahtarları sizde ise, ona sizden başka kimse ulaşamaz, üzeride hak iddia edemez - bir nevi mutlak hakimiyetiniz var.
 
-Eğer bu BTC'yi herhangi bir Ethereum bazlı ürüne çevirdiğinizde (xBTC diyelim), artık BTC sizin elinizde değil. Bu BTC'yi bir Akıllı Kontrat ile kilitliyorsunuz. Ekstra riskler çıkıyor: Kilitleyen kontratın sağlamlığı kritik. Sonra bu xBTC ile herhangi bir yatırımı (örneğin yukarıda değindiğimiz Compound üzerinden likidite sağlama) bir başka Akıllı Kontrat ile yapıyorsunuz, bu da bir başka risk. Öte yandan tüm işlemleri ETH blokzinciri üzerine yazıyorsunuz ve onun güvenliğini de ETH madencileri sağlıyor - fena bir güvenlik değil ancak yine de bir Bitcoin blokzinciri kadar güvenli midir, onu da değerlendirmeniz gerekiyor. 
+Bu BTC'yi herhangi bir Ethereum bazlı ürüne (örneğin xBTC) çevirdiğinizde ise artık sizin değil. Neden? Çünkü onu bir Akıllı Kontrat ile kilitlediniz. Bu da ekstra riskler demek: Bu kontratın sağlamlığı kritik. Sonra bu xBTC ile (örneğin yukarıda değindiğimiz Compound örneğinde olduğu gibi) yatırım yaptığınızda da bir başka Akıllı Kontrat ile kullanıyorsunuz. Öte yandan tüm işlemleri Ethereum blokzinciri üzerine yazıyorsunuz ve onun güvenliğini de kendi madencileri sağlıyor - fena bir güvenlik değil ancak yine de bir Bitcoin blokzinciri kadar güvenli değil. 
 
 ### Sonuç
-Sarma BTC dediğimiz DeFi ürünleri kuşkusuz herkese göre değil ancak Bitcoin'in geleceğine inanan ve daha fazla riski göze alabilen bir kesim için hem Etherum ağı ile tanışmak hem de ekstra gelir kazanabilmek için çeşitli fırsatlar barındırdığı da kesin. 
+Sarma BTC dediğimiz DeFi ürünleri kuşkusuz herkese göre değil ancak Bitcoin'in geleceğine inanan ve daha fazla riski göze alabilen bir kesim için hem Ethereum ağı ile tanışmak hem de ekstra gelir kazanabilmek için çeşitli fırsatlar barındırdığı da kesin. 
