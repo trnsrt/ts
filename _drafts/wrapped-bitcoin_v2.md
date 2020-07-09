@@ -17,7 +17,7 @@ Ethereum teknolojik olarak Bitcoin'den çok daha esnek ve yenilikler ile dolu ol
 
 | ![Ethereum üzerindeki BTC miktarı](/assets/btconethereum-800.jpg)| 
 |:--:| 
-| *(Ethereum üzerindeki BTC miktarı [Kaynak](https://btconethereum.com))* |
+| Ethereum üzerindeki BTC miktarı *([Kaynak](https://btconethereum.com))* |
 
 ### Peki bu ürünlerin kime ne faydası var?
 #### Kullanıcılar 
