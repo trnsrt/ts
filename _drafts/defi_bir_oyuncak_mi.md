@@ -1,6 +1,6 @@
 Genel olarak kripto paralar daha da özelinde Merkeziyetsiz Finans (DeFi9  konusunu konuştuğum kişilerden genelde aldığım tepki "İyi ama bunlar çok küçük değil mi? Kocaman bir finans dünyası var ortada, bunlar yanında pire gibi kalıyor" minvalinde oluyor. 
 
-Web 3.0 kavramının yaratıcılarından, a16z girişim sermayesinin ortaklarından Chris Dixon'un çok sevdiğim bir makalesi var. "(Gelecek büyük 'şey' bir oyuncak gibi başlayacak)[https://cdixon.org/2010/01/03/the-next-big-thing-will-start-out-looking-like-a-toy]" şeklinde dilimize çevrilebilir. 
+Web 3.0 kavramının yaratıcılarından, a16z girişim sermayesinin ortaklarından Chris Dixon'un çok sevdiğim bir makalesi var. "[Gelecek büyük 'şey' bir oyuncak gibi başlayacak](https://cdixon.org/2010/01/03/the-next-big-thing-will-start-out-looking-like-a-toy)" şeklinde dilimize çevrilebilir. 
 
 Özetle makalede hayatımıza ağırlığını koyan her yeniliğin ilk çıktığı zaman piyasanın hakim oyuncuları tarafından bir "oyuncak" gibi değerlendirilerek kaale alınmadığından bahsediyor. Bu rahmetli hocam Clay Christensen'in "yıkıcı teknolojiler" teorisi aslında. 
 
