@@ -25,9 +25,17 @@ Bunu biraz daha açmakta fayda var. Teknik, kodlama, kullanım açısından merk
 Bu arada, DeFi ürünleri kullananlara her tür risk için sigorta hizmeti sunanlar da olduğunu belirtelim. Ama henüz yolun başındalar - onlar da kullanım arttıkça zaman geçtikçe olgunlaşacaklar. 
 
 ### Kaç ölçü merkeziyetsizlik iyi?.. 
-Öte yandan, DeFi yapıların da ne kadar merkeziyetsiz oldukları yanında hangi alanlarda merkeziyetsiz oldukları da önemli. 
+Öte yandan, DeFi yapıların da ne kadar merkeziyetsiz oldukları yanında hangi alanlarda merkeziyetsiz oldukları da önemli. Burada temel olarak üç alan görüyorum:
+**Geliştirici kitlesi:** Sistem geliştirenler ne kadar merkezi. Örnek olarak, daha önceki biz yazımızda bahsettiğimiz MimbleWimble protokolüne bakalım. Kullanıcı mahremiyetine önem veren, MimbleWimble üzerine iki kripto para projesi geliştiriliyor. Birincisi Beam - İsrail merkezli girişim sermayesi (VC) yatırımı almış - göreceli merkezi bir yapıda, belli planlar ve hedefler dahilinde çalışan organize bir grup. Diğeri ise Grin - geliştiricilerinin hemen hemen hepsinin kod adlar kullandığı, Bitcoin benzeri dağınık bir şekilde ilerlemeye çalışan bir yapı. 
+**Yönetim** Sistemin kurulduktan sonra yönetim kurallarının oluşturulması ve değiştirilmesinin ne kadar demokratik yollarla yapıldığı 
+**Kullanıcı hakları** : Herhalde DeFi hareketinde en çok vurgulanan konu bu ve merkeziyetsiz yapılar bu alanda daha ilerideler. Özellikle kullanıcın bilgilerini platformlar arasında taşıyabilmesi konusunda. Merkezi yapıların kullancı hakları konusunda gittikçe daha duyarlı olduğunu görüyoruz ancak yine de kontrolü diğerleri gibi kullanıcıya o kadar da bırakmayacaklardır.  
 
 Bu alanda şahsi olarak en kritik noktanın kullanıcılara kendi varlıklarını platformlar arası rahatça taşıma imkanı veren ve kişisel bilgilerinin şifrelenmiş olarak tamamen kullanıcının uhdesinden olmasının merkezi/merkeziyetsizlikten daha önemli olduğunu düşünüyorum. Günümüzdek pek çok merkezi yapı bu alanda kimi merkeziyetsiz yapılara göre çok daha kullanıcı dostu [ÖRNEK]
 
 ### Regülasyonlar: 
-Merkeziyetsiz yapılar için en kritik konulardan biri hareket ettikleri alan. Zira global ölçekte ve merkeziyetsiz bir yapıda olduğunuzda mevcut ülke denetimlerinden kendinizi koruyup, enerji ve eforunuzu yenilikçi çözümlere yönlendirebiliyorsunuz. Burada daha önemli olan aslında kullanıcı tarafında. Zira kullanıcıların büyük bir kısmı, coğrafi olarak içinde bulundukları ülkeler 
+Merkeziyetsiz yapılar için en kritik konulardan biri hareket ettikleri alan. Zira global ölçekte ve merkeziyetsiz bir yapıda olduğunuzda mevcut ülke denetimlerinden kendinizi koruyup, enerji ve eforunuzu yenilikçi çözümlere yönlendirebiliyorsunuz. Burada daha önemli olan aslında kullanıcı tarafında.  Kullanıcıların büyük bir kısmı, coğrafi olarak içinde bulundukları ülkelerin kanunları ile sınırlılar. Ülke denetleyici kurumlarının bu tip ürünlere karşı getireceği kısıtlamalar merkezi olmayan yapıların geniş kitlelerce benimsenmesinin önündeki en büyük belirsizliklerden biri olmaya aday. 
+
+### Teknolojik yenilik
+Özellikle iç yönetim (governance) bakımından merkezi girişimlerin teknolojik yenilik getirmede daha avantajlı olacağını söylemek mümkün. Bugün Bitcoin için yapılan en büyük eleştirilerden biri teknolojik olarak yenilik getiremiyor olması. Bunda Bitcoin'in bir "para" olmasının ve yapılacak her tür değişikliğin etkilerinin çok detaylıca tartılması gerekliliğinin payı yüksek. Yapılacak hataların direkt bireylerin varlıklarına değerine etkisi olacak - o nedenle "deneysellik" olabildiğince az kullanılabiliyor.  Keza, Ethererum için de benzer bir durum söz konusu. Gerek merkezi olmayan bir grup tarafından sürdürülüyor olması, gerekse üzerinde binlerce uygulama hali hazırda çalıştığı için yenilikler çok yavaş gerçekleşiyor. Ethereum 2.0 denen güncelleme iki yıllık bir süreç içinde hayata geçecek gibi görünüyor. 
+
+
