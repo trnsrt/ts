@@ -9,7 +9,7 @@ Aslında bu konu 1-0 gibi iki sonuçlu bir işlem değil. Merkezi bir yapıdan t
 Ayrıca hangi kritere göre merkeziyetsizlikten bahsediyoruz o da önemli. Sistemin kuruluşu açısından mı, işleyişi bakımından mı, kullanıcıya verdiği güç bakımından mı? Bu kriterleri daha da uzatabiliriz haliyle. 
 
 Çok genel bakarsak şunu söyleyebiliriz: 
-Yelpazenin bir ucu merkezi yapılar. Bildiğimiz klasik, geleneksel her türlü yapı. Bir genel merkezi olan, bütün ticari sırları telifler ile korunan, müşterisini seçen, ona verdiği hizmetlerin kararını kendi veren her tür kurum. 
+Yelpazenin bir ucu merkezi yapılar. Bildiğimiz klasik, geleneksel her türlü yapı. Bir genel merkezi olan, bütün ticari sırları ve teknolojisi telifler ile korunan, müşterisini seçen, ona verdiği hizmetlerin kararını kendi veren her tür kurum. 
 
 Yelpazenin öbür tarafının aslında ucu bucağı yok. Ama şu ana kadar yaşadığımız en uç noktası Bitcoin denebilir. Herhangi bir genel merkezi ya da lideri olmayan, bütün yazılımı açık, sistemin işleyişini sağlayan için makinelerin kimseye sormadan girip çıkabildiği, keza kullanmak (bir başkasından Bitcoin almak ya da göndermek için) hiçbir izin ya da dokümanın gerekmediği biri sistem. 
 
