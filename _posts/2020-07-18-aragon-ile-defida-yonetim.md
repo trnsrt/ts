@@ -6,7 +6,7 @@ categories: Genel
 tags: Yazılar DeFi
 ---
 
-Bu hafta gelin hep birlikte merkeziyetsiz yönetim konusunda enteresan bir deneysel fikir olan [Aragon](https://aragon.org/)'a göz atalım. 
+Bu yazımızda gelin hep birlikte merkeziyetsiz yönetim konusunda enteresan bir deneysel fikir olan [Aragon](https://aragon.org/)'a göz atalım. 
 
 Şu aralar geniş kitleler spekülatif yanını konuşsa da DeFi projelerin kişisel olarak devrim niteliğinde olduğunu düşündüğüm en heyecan verici tarafı merkeziyetsiz bir şekilde yönetiliyor olmaları. Ancak merkeziyetsiz yönetim o kadar da kolay değil. Hatta nasıl yapılır, nasıl yönetilir tam bir fikir birliği de yok. 
 
