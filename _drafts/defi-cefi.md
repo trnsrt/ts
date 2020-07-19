@@ -1,12 +1,12 @@
-DeFi'den CeFi'ya... Merkeziyetsizleştiremediklerimizden misiniz?
+CeFi'den DeFi'ya... Merkeziyetsizleştiremediklerimizden misiniz?
 
-Sık sorulan sorulardan biri de şu: DeFi (Merkeziyetsiz Finans) gerçekten merkeziyetsiz mi? Merkeziyetsiz olmasının avantajı ne, dezavantajı ne? Aslında bu konu 1-0 gibi iki sonuçlu bir işlem değil. Merkezi bir yapıdan tam merkeziyetsiz bir yapıya doğru genişçe bir yelpaze var - ve her birinin kendince belli avantajları var. 
+Sık sorulan sorulardan biri de şu: DeFi (Merkeziyetsiz Finans) gerçekten merkeziyetsiz mi? Merkeziyetsiz olmasının avantajı ne, dezavantajı ne? Aslında bu konu 1-0 gibi iki sonuçlu bir işlem değil. Merkezi bir yapıdan tam merkeziyetsiz bir yapıya doğru genişçe bir yelpaze var - ve bu yelpazenin değişik kısımlarında bulunan her bir alternatif ürünün kendince belli avantajları var. 
 
 Ayrıca hangi kritere göre merkeziyetsizlikten bahsediyoruz o da önemli. Sistemin kuruluşu açısından mı, işleyişi bakımından mı, kullanıcıya verdiği güç bakımından mı? Bu kriterleri daha da uzatabiliriz haliyle. 
 
 ### Nasıl bir yelpaze bu?
 Çok genel bakarsak şunu söyleyebiliriz: 
-Yelpazenin bir ucu merkezi yapılar. Bildiğimiz klasik, geleneksel her türlü yapı. Bir genel merkezi olan, bütün ticari sırları ve teknolojisi telifler ile korunan, müşterisini seçen, ona verdiği hizmetlerin kararını kendi veren her tür kurum. 
+Yelpazenin bir ucu merkezi yapılar  (CeFi - Centralized Finance olarak da adlandırılıyorlar) . Bildiğimiz klasik, geleneksel her türlü yapı. Bir genel merkezi olan, bütün ticari sırları ve teknolojisi telifler ile korunan, müşterisini seçen, ona verdiği hizmetlerin kararını kendi veren her tür kurum. 
 
 Yelpazenin öbür tarafında ise tamamen dağıtık yapılar var ve bu tarafın aslında ucu bucağı yok. Şu ana kadar deneyimlediğimiz en uç noktası Bitcoin denebilir belki: Herhangi bir genel merkezi ya da lideri olmayan, bütün yazılımı açık, sistemin işleyişini sağlayan makinelerin kimseye sormadan girip çıkabildiği, keza kullanıcı olarak kullanmak hiçbir izin ya da dokümanın gerekmediği biri sistem (ki orada bile yazılımcılar arasındaki gruplaşmalar ve politik savaşlar merkeziyetsizlik konusunda soru işaretleri yaratıyor). 
 
