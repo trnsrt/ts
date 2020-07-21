@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "BlockchainIST Center - 24 Haziran 2020 Canlı Yayın"
-date:   2020-06-24 23:37:15 +0300
+title:  "Coinkolik Sohbetler - 20 Temmuz 2020 Canlı Yayın"
+date:   2020-07-20 23:37:15 +0300
 categories: Genel
 tags: videos Etkinlikler
 ---
