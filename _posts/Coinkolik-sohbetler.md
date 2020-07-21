@@ -6,12 +6,12 @@ categories: Genel
 tags: videos Etkinlikler
 ---
 
-<img align="left" src="/assets/blokchainIST_canli_yayin_640.jpg" style="width:40%; padding-right:20px"> Dijital varlık platformu [Coinzo](https://www.coinzo.com/) sponsorluğunda gerçekleşen [Coinkolik](https://www.coinkolik.com) Sohbetler'in 5.sinde, sevgili katılımcılar [Ebru Güven](https://twitter.com/NEbruGuven) ve [Şant Manukyan](https://twitter.com/SantManukyan) ile birlikte başta DeFi uygulamalar olmak üzere Twitter hack'inden regülasyonlara kadar pek çok konuyu konuştuk. Bir saati biraz aşan sohbetimizin linki aşağıda. 
+<img align="left" src="/assets/Coinkolik-poster.jpg" style="width:40%; padding-right:20px"> Dijital varlık platformu [Coinzo](https://www.coinzo.com/) sponsorluğunda gerçekleşen [Coinkolik](https://www.coinkolik.com) Sohbetler'in 5.sinde, sevgili katılımcılar [Ebru Güven](https://twitter.com/NEbruGuven) ve [Şant Manukyan](https://twitter.com/SantManukyan) ile birlikte başta DeFi uygulamalar olmak üzere Twitter hack'inden regülasyonlara kadar pek çok konuyu konuştuk. Bir saati biraz aşan sohbetimizin linki aşağıda. 
 
 &nbsp;
 
 <table><tr><td style="width:50%">
-<img src="/assets/BlockchainIST_yayin_ekran_goruntusu_640.jpg">
+<img src="/assets/Coinkolik_photo.jpg">
 </td>
 <td style="width:50%">
 <iframe width="224" height="126" src="https://www.youtube.com/embed/GaqFTo1rAN" frameborder="0" allowfullscreen></iframe></td></tr>
