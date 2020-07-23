@@ -1,19 +1,34 @@
-DeFi platformların kullanımın artması ve özellikle bu platformların özgün kripto paralarının hızlı sıçramalar yapması nedeniyle bu aralar sıkça sorulmaya başlanan soru: DeFi yeni bir ICO çılgınlığı mı, sonu nasıl bitecek?
-Bu soruya kesin cevap verilemese bile geçmişten ve finans alanındaki benzer oluşumlardan hareket edip belli sonuçlara varmak mümkün. Gelin birlikte geçmişte neler olmuş bakalım ve birlikte karar verelim: 
+DeFi platformların kullanımın artması ve özellikle bu platformlara özgü kripto paralarının hızlı sıçramalar yapması akıllarda soru işaretleri oluşturmaya başladı: DeFi yeni bir ICO çılgınlığı mı, sonu nasıl bitecek?
 
-DeFi ve ICO ilişkisini şahsen bir girişimin ömründeki çeşitli evrelerde yaşadıklarına benzetiyorum. 
+Bu soruya kesin cevap veremesek de geçmişten ve finans alanındaki benzer oluşumlardan hareket edip belli sonuçlara varmak mümkün. Gelin birlikte geçmişte neler olmuş bakalım ve birlikte karar verelim: 
 
-Klasik anlamda bir girişime bakalım. Bir-iki kafadar biraya gelip bir fikir oluştururlar. Fikri bir parça geliştirdikten sonra melek yatırımcıya giderler. Melek yatırımcı fikrin hayata geçebilmesi için girişimcilere finansal destekte bulunur. Bunun karşılığında da hatırı sayılır bir miktarda girişim içinden pay alır. Bunu da istemeye hakkı vardır zira girişim sadece kağıt üzerinde olduğu için alacağı çok yol, geçeceği çok engel bulunur. Hatta pek çok güzel fikir daha ileriki aşamalara gelmeden önce hayata veda eder. 
+### Klasik ve kripto girişimlerin benzerlikleri
 
-Engellerin büyük bir kısmını aşan, ürün-pazar arasındaki uyumu yakalayabilen kendine belli bir sayıda müşteri edinen girişimler ise bir sonraki aşamaya geçerler. Bu aşama da  girişim sermayesi finansmanıdır. Genellikle Seri A olarak başlayan bu yatırımlarda girişim aldığı para ile halihazırda yaratmış oldukları ürün ile pazarda hızlı büyümenin yollarını ararlar. Bir nevi growth hack denen, kısa yoldan hızlı büyümenin yolunu girişim sermayesinden aldıkları yatırımı kullanarak bulmaya çalışırlar. 
+Şahsen ICO ve DeFi sürecini bir girişimin ömründe yaşadığı çeşitli evrelere benzetiyorum. 
 
-İşte ICO’larda yaşananlar da bir nevi melek yatırımcı bulma aşaması idi kripto alanındaki yatırımlar için. Pek çoğunun parlak fikirleri dışında ellerinde olan tek şey, sistemlerinin nasıl çalışacağını ve nasıl bir vizyona sahip olduğu anlatan tanıtım dokümanı (white paper) idi. Ancak klasik girişimlerin ötesinde potansiyel yatırımcıların tüm dünyadan olması ve o zamanlar ‘FOMO’ etkisi dediğimiz bir şeyleri kaçırma korkusunun etkisi ile gereğinden fazla sayıda girişim hak etmedikleri yatırımları aldılar. Aynen melek yatırımcılarda olduğu gibi yüksek risk-yüksek getiri aşaması olan bu ilk yatırımlarda, ICO yatırımcılarının büyük bir kısmı yüksek risk engeline takılarak zarar ettiler. 
 
-Ben şimdiki DeFi alanındaki gelişmeleri ise klasik anlamdaki girişim sermayesi yatırımlarına benzetiyorum. Özellikle, Compound benzeri girişimlerin merkeziyetsiz olmak ve geniş kitlelerce kullanılabilmek için yarattıkları likidite havuzu ve bunu ödüllendiren token’ları aynı girişim sermayelerinin hızlı büyümek için girişimlere yaptıkları yatırımlara benziyor. 
- 
-Dolayısıyla sorunun yanıtına gelirsek. Evet DeFi’lar ICO’lar gibi çok ilgi çekti - hâlâ da çekmeye devam ediyor. Evet DeFi platformların yarattığı token’lar ICO token’ları gibi riskli. Hemen hemen her yeni DeFi platformu bu tokenları çıkarmaya devam edecek. Ancak bu token’lar ICO token’lar gibi vizyon anlatan bir kağıt parçasına yatırım gibi değiller. Halihazırda çalışan bir sistemi daha da genişletme amacı taşıyorlar. 
+#### Klasik girişimcilik
 
-Bu nedenle DeFi platform yatırımcılarının işi hem daha kolay hem daha zor. Eskisine göre yatırım yaparken değerlendirebilecekleri bir ürün var. Ancak oldukça karışık olabilen bir ürün. Ama denemek eğer ETH sahibi iseniz o kadar kolay ki. Tüm yapmanız gereken DeFi ürünlerini bağlayabileceğiniz bir cüzdana sahip olmak (örneğin çoğu Metamask kabul ediyor). Girin yatırım yapmak istediğiniz platforma, ürünleri kullanmayı deneyin. Bakalım hoşunuza gidiyor mu? Eğer gidiyorsa, size bir değer kattığını düşünüyorsanız o zaman daha pozitif bakıp, white paper’ı bir okuyun, sonra kararınızı verin. Ama öyle ‘arkadaşım söyledi’ iyiymiş diye düşünüp yatırım yaparsanız, sonuçta ağzınızın yanma ihtimali çok yüksek, onu da unutmayın lütfen. 
+Klasik anlamda bir girişime bakalım: Bir-iki kafadar biraya gelip ortaya bir fikir atarlar. Fikri bir parça geliştirdikten sonra melek yatırımcıya giderler. Melek yatırımcı fikrin hayata geçebilmesi için girişimcilere finansal destekte bulunur. Bunun karşılığında da girişimin içinden hatırı sayılır bir miktarda pay alır. Bunu da istemeye hakkı vardır zira girişim sadece kağıt üzerinde olduğu için alacağı çok yol, geçeceği çok engel bulunur. Zaten pek çok güzel fikir daha ileri aşamalara gelemeden hayata veda eder, melek yatırımcı da parasının üzerine bir bardak soğuk su içer. 
 
-Sonuç: 
-DeFi platformlar ile finans alanındaki kripto ürünler bir aşama atladılar. Artık ürünler var, müşteriler tarafından kullanılıyor. Bir sonraki engel, bu ürünü geniş kitlelere ulaştırmak. Burada kim platformlar başarılı olurken kimileri çok normal olarak hedeflerine ulaşamayarak kapanacaklar. Kim nerede başarılı olacak hep birlikte göreceğiz. Bu yarışı izlemek bile çok heyecanlı. Takipte kalın.. 
+Engellerin büyük kısmını aşan, ürün-pazar uyumunu yakalayabilen ve kendine belli sayıda müşteri edinebilen girişimler ise bir sonraki aşamaya geçer. Bu aşama da girişim sermayesi (VC) finansmanı olur genellikle. Genellikle Seri A olarak başlayıp B,C şeklinde devam eden bu yatırımlarda girişim aldığı para ile halihazırda yaratmış olduğu ürünü pazarda hızlı büyümenin yolunu arar (buna 'growth hack' de denir - yani çok da alışılmadık yöntemler ile hızlı büyüme)
+
+### ICO ve DeFi
+Kripto alanındaki yatırımlar için ICO’larda yaşanan bir nevi melek yatırımcı bulma aşaması idi. Pek çoğunun parlak fikirleri dışında ellerinde olan tek şey, sistemlerinin nasıl çalışacağını ve sahip oldukları vizyonu anlatan tanıtım dokümanı (white paper) idi. 
+
+Aradaki fark şu oldu: Klasik anlamda girişimciler fikirlerini çevrelerinde bulabildikleri kısıtlı sayıda melek yatırımcıya anlatabilirken, ICO'lar fiziki sınır olmadığı için dünyanın her yerinden binlerce yatırımcıya ulaşabildiler. Üstelik melek yatırımcı için koyduğu para hatırı sayılır bir miktar iken ICO yatırımcıları çok ufak miktarlarda da yatırım yapabildiler. Bir de bunun üzerine ‘FOMO’ etkisi dediğimiz bir şeyleri kaçırma korkusu da eklenince insanlar bu yatırımlara bir nevi piyango gibi bakıp inceleme yapmadan para koymaya başladılar.
+
+İşte bu nedenlerle gereğinden fazla sayıda girişim hak etmedikleri kadar yatırım aldı. Sonrasında yatırımın yüksek risk-yüksek getirili bu ilk fazının sonunda, aynı melek yatırımcılıkta olduğu gibi ICO'lara para yatıranların büyük bir kısmı yüksek risk engeline takılarak zarar etti. 
+
+Şimdiki DeFi ile yaşadığımız sürece kabaca yatırımın ikinci fazı ve klasik anlamdaki girişim sermayesi yatırımlarına benziyor. İlk kısımdaki yüksek risk alanını geçen belli bir ürüne ve kullanıcıya ulaşmış girişimler DeFi ürünler ve platformlar. Özellikle, Compound benzeri yapıların merkeziyetsiz olmak ve geniş kitlelerce kullanılabilmek için yarattıkları likidite havuzu ve bunu ödüllendiren tokenları aynı girişimcilerin hızlı büyümek için girişim sermayelerinden aldıkları yatırımlara benziyor. 
+
+### Yani?
+
+Dolayısıyla sorunun yanıtına gelirsek. Evet DeFi’lar ICO’lar gibi çok ilgi çekti - hâlâ da çekmeye devam ediyor. Evet DeFi platformların yarattığı tokenlar ICO tokenları gibi riskli. Hemen hemen her yeni DeFi platformu bu tokenları çıkarmaya devam edecek. Ancak bu tokenlar ICO tokenlar gibi vizyon anlatan bir kağıt parçasına yapılan yatırım değiller. Halihazırda çalışan bir sistemi daha da genişletme amacı taşıyorlar. 
+
+Bu nedenle DeFi platform yatırımcılarının işi hem daha kolay hem daha zor. Eskisine göre yatırım yaparken değerlendirebilecekleri bir ürün var. Ancak oldukça karışık olabilen bir ürün. Ama bu ürünleri test etmek - eğer bir miktar ETH sahibi iseniz- o kadar kolay ki. Tüm yapmanız gereken DeFi ürünlerini bağlayabileceğiniz bir cüzdana sahip olmak (örneğin çoğu [Metamask](https://metamask.io/) kabul ediyor). 
+
+Girin yatırım yapmak istediğiniz platforma, ürünleri kullanmayı deneyin. Bakalım hoşunuza gidiyor mu? Eğer gidiyorsa, size bir değer kattığını düşünüyorsanız gidin white paper’ı bir okuyun, sonra kararınızı verin. Ama öyle "arkadaşım söyledi, iyiymiş" diye düşünüp yatırım yaparsanız ağzınızın yanma ihtimali çok yüksek, onu da unutmayın lütfen. 
+
+### Sonuç: 
+DeFi platformlar ile finans alanındaki kripto ürünler bir aşama atladılar. Artık ürünler var, müşteriler tarafından kullanılıyor. Bir sonraki engel, bu ürünü geniş kitlelere ulaştırmak. Burada kim platformlar başarılı olurken kimileri çok normal olarak hedeflerine ulaşamayacak ve kapanacaklar. Kim nerede başarılı olacak hep birlikte göreceğiz. Bu yarışı izlemek bile çok heyecanlı. Takipte kalın.. 
