@@ -30,6 +30,8 @@ permalink: /articles/
   - [ETH görünümlü BTC olur mu?](/genel/2020/07/09/eth-gorunumlu-btc-olur-mu.html)
   - [Klasik bankacılığın rakibi Compound](/genel/2020/06/18/klasik-bankaciligin-rakibi-compound.html)
   - [Compound yönetim tokeni COMP nasıl çalışıyor?](/genel/2020/06/25/Compoundun-yonetim-tokeni-COMP-nasil-calisiyor.html)
+  - [Aragon ile DeFi'da yönetim](http/genel/2020/07/18/aragon-ile-defida-yonetim.html)
+  - [DeFi yeni ICO çılgınlığı mı?](/genel/2020/07/23/DeFi-yeni-ICO-cilginligi-mi.html)
 
 
 - Blockchain bazlı teknolojilerin girişimcilik ve yatırımcılık ekosistemlerini nasıl değiştirdiğini merak ediyorsanız
