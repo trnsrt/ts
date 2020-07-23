@@ -9,7 +9,7 @@ Bu soruya kesin cevap veremesek de geçmişten ve finans alanındaki benzer olu�
 
 #### Klasik girişimcilik
 
-Klasik anlamda bir girişime bakalım: Bir-iki kafadar biraya gelip ortaya bir fikir atarlar. Fikri bir parça geliştirdikten sonra melek yatırımcıya giderler. Melek yatırımcı fikrin hayata geçebilmesi için girişimcilere finansal destekte bulunur. Bunun karşılığında da girişimin içinden hatırı sayılır bir miktarda pay alır. Bunu da istemeye hakkı vardır zira girişim sadece kağıt üzerinde olduğu için alacağı çok yol, geçeceği çok engel bulunur. Zaten pek çok güzel fikir daha ileri aşamalara gelemeden hayata veda eder, melek yatırımcı da parasının üzerine bir bardak soğuk su içer. 
+Klasik anlamda bir girişime bakalım: Bir-iki kafadar biraraya gelip ortaya bir fikir atarlar. Fikri bir parça geliştirdikten sonra melek yatırımcıya giderler. Melek yatırımcı fikrin hayata geçebilmesi için girişimcilere finansal destekte bulunur. Bunun karşılığında da girişimin içinden hatırı sayılır bir miktarda pay alır. Bunu da istemeye hakkı vardır zira girişim sadece kağıt üzerinde olduğu için alacağı çok yol, geçeceği çok engel bulunur. Zaten pek çok güzel fikir daha ileri aşamalara gelemeden hayata veda eder, melek yatırımcı da parasının üzerine bir bardak soğuk su içer. 
 
 Engellerin büyük kısmını aşan, ürün-pazar uyumunu yakalayabilen ve kendine belli sayıda müşteri edinebilen girişimler ise bir sonraki aşamaya geçer. Bu aşama da girişim sermayesi (VC) finansmanı olur genellikle. Genellikle Seri A olarak başlayıp B,C şeklinde devam eden bu yatırımlarda girişim aldığı para ile halihazırda yaratmış olduğu ürünü pazarda hızlı büyümenin yolunu arar (buna 'growth hack' de denir - yani çok da alışılmadık yöntemler ile hızlı büyüme)
 
@@ -20,7 +20,7 @@ Aradaki fark şu oldu: Klasik anlamda girişimciler fikirlerini çevrelerinde bu
 
 İşte bu nedenlerle gereğinden fazla sayıda girişim hak etmedikleri kadar yatırım aldı. Sonrasında yatırımın yüksek risk-yüksek getirili bu ilk fazının sonunda, aynı melek yatırımcılıkta olduğu gibi ICO'lara para yatıranların büyük bir kısmı yüksek risk engeline takılarak zarar etti. 
 
-Şimdiki DeFi ile yaşadığımız sürece kabaca yatırımın ikinci fazı ve klasik anlamdaki girişim sermayesi yatırımlarına benziyor. İlk kısımdaki yüksek risk alanını geçen belli bir ürüne ve kullanıcıya ulaşmış girişimler DeFi ürünler ve platformlar. Özellikle, Compound benzeri yapıların merkeziyetsiz olmak ve geniş kitlelerce kullanılabilmek için yarattıkları likidite havuzu ve bunu ödüllendiren tokenları aynı girişimcilerin hızlı büyümek için girişim sermayelerinden aldıkları yatırımlara benziyor. 
+Şimdiki DeFi ile yaşadığımız sürece kabaca yatırımın ikinci fazı ve klasik anlamdaki girişim sermayesi yatırımlarına benziyor. İlk kısımdaki yüksek risk alanını geçen belli bir ürüne ve kullanıcıya ulaşmış girişimler DeFi ürünler ve platformlar. Özellikle, Compound benzeri yapıların merkeziyetsiz olmak ve geniş kitlelerce kullanılmak için yarattıkları likidite havuzu ve bunu ödüllendiren tokenları aynı girişimcilerin hızlı büyümek için girişim sermayelerinden aldıkları yatırımlara benziyor. 
 
 ### Yani?
 
