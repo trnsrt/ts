@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "DeFi yeni ICO çılgınlığı mı?"
+date:   2020-07-23 12:47:56 +0300
+categories: Genel
+tags: Yazılar DeFi
+---
+
 DeFi platformların kullanımın artması ve özellikle bu platformlara özgü kripto paralarının hızlı sıçramalar yapması akıllarda soru işaretleri oluşturmaya başladı: DeFi yeni bir ICO çılgınlığı mı, sonu nasıl bitecek?
 
 Bu soruya kesin cevap veremesek de geçmişten ve finans alanındaki benzer oluşumlardan hareket edip belli sonuçlara varmak mümkün. Gelin birlikte geçmişte neler olmuş bakalım ve birlikte karar verelim: 
@@ -32,3 +40,11 @@ Girin yatırım yapmak istediğiniz platforma, ürünleri kullanmayı deneyin. B
 
 ### Sonuç: 
 DeFi platformlar ile finans alanındaki kripto ürünler bir aşama atladılar. Artık ürünler var, müşteriler tarafından kullanılıyor. Bir sonraki engel, bu ürünü geniş kitlelere ulaştırmak. Burada kim platformlar başarılı olurken kimileri çok normal olarak hedeflerine ulaşamayacak ve kapanacaklar. Kim nerede başarılı olacak hep birlikte göreceğiz. Bu yarışı izlemek bile çok heyecanlı. Takipte kalın.. 
+
+
+
+---
+
+*Not 1: Bu yazı ilk olarak 23 Temmuz 2020'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/aragon-ile-defida-yonetim/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
