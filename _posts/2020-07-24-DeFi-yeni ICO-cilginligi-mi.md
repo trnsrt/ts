@@ -26,6 +26,11 @@ Kripto alanındaki yatırımlar için ICO’larda yaşanan bir nevi melek yatır
 
 Aradaki fark şu oldu: Klasik anlamda girişimciler fikirlerini çevrelerinde bulabildikleri kısıtlı sayıda melek yatırımcıya anlatabilirken, ICO'lar fiziki sınır olmadığı için dünyanın her yerinden binlerce yatırımcıya ulaşabildiler. Üstelik melek yatırımcı için koyduğu para hatırı sayılır bir miktar iken ICO yatırımcıları çok ufak miktarlarda da yatırım yapabildiler. Bir de bunun üzerine ‘FOMO’ etkisi dediğimiz bir şeyleri kaçırma korkusu da eklenince insanlar bu yatırımlara bir nevi piyango gibi bakıp inceleme yapmadan para koymaya başladılar.
 
+
+| ![DeFi projeler](/assets/defi-ico-cilginlik.jpg)| 
+|:--:| 
+| ICO peşindeki yatırımcılar *(Image by [Md Faysal Ahmed](https://pixabay.com/users/faysal_2020-11539818/) on [Unsplash](https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3991306))*|
+
 İşte bu nedenlerle gereğinden fazla sayıda girişim hak etmedikleri kadar yatırım aldı. Sonrasında yatırımın yüksek risk-yüksek getirili bu ilk fazının sonunda, aynı melek yatırımcılıkta olduğu gibi ICO'lara para yatıranların büyük bir kısmı yüksek risk engeline takılarak zarar etti. 
 
 Şimdiki DeFi ile yaşadığımız sürece kabaca yatırımın ikinci fazı ve klasik anlamdaki girişim sermayesi yatırımlarına benziyor. İlk kısımdaki yüksek risk alanını geçen belli bir ürüne ve kullanıcıya ulaşmış girişimler DeFi ürünler ve platformlar. Özellikle, Compound benzeri yapıların merkeziyetsiz olmak ve geniş kitlelerce kullanılmak için yarattıkları likidite havuzu ve bunu ödüllendiren tokenları aynı girişimcilerin hızlı büyümek için girişim sermayelerinden aldıkları yatırımlara benziyor. 
