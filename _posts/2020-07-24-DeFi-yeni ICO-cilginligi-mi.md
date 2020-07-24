@@ -45,6 +45,6 @@ DeFi platformlar ile finans alanındaki kripto ürünler bir aşama atladılar. 
 
 ---
 
-*Not 1: Bu yazı ilk olarak 23 Temmuz 2020'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/aragon-ile-defida-yonetim/)*
+*Not 1: Bu yazı ilk olarak 23 Temmuz 2020'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/defi-yeni-ico-cilginligi-mi/)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
