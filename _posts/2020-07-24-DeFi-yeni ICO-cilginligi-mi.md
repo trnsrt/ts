@@ -29,7 +29,7 @@ Aradaki fark şu oldu: Klasik anlamda girişimciler fikirlerini çevrelerinde bu
 
 | ![DeFi projeler](/assets/defi-ico-cilginlik.jpg)| 
 |:--:| 
-| ICO peşindeki yatırımcılar *(Image by [Md Faysal Ahmed](https://pixabay.com/users/faysal_2020-11539818/) on [Unsplash](https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3991306))*|
+| ICO peşindeki yatırımcılar *(Image by [Md Faysal Ahmed](https://pixabay.com/users/faysal_2020-11539818/) on [Pixabay](https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3991306))*|
 
 İşte bu nedenlerle gereğinden fazla sayıda girişim hak etmedikleri kadar yatırım aldı. Sonrasında yatırımın yüksek risk-yüksek getirili bu ilk fazının sonunda, aynı melek yatırımcılıkta olduğu gibi ICO'lara para yatıranların büyük bir kısmı yüksek risk engeline takılarak zarar etti. 
 
