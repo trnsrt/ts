@@ -7,8 +7,7 @@ Herhangi bir varlığın değerini tespit etmek için ağırlıklı iki yöntem 
 
 Diğeri ise yatırımcı davranışlarını inceleyen ve buna göre varlığın değerinin piyasalarda nasıl değişeceğini hesaplamaya çalışan teknik analiz. 
 
-Kripto dünyasındaki paraların henüz gelir yaratamamaları ve
-daha çok yalnızca geleceğe dönük vizyon sunmaları nedeniyle yatırımcılara bugüne kadar teknik analiz daha yol gösterici oldu.
+Kripto dünyasındaki paraların henüz gelir yaratamamaları ve daha çok yalnızca geleceğe dönük vizyon sunmaları nedeniyle yatırımcılara bugüne kadar teknik analiz daha yol gösterici oldu.
 
 Ancak bu artık yavaş yavaş değişmeye başlıyor. Zira gerek BTC gerekse ETH bize temel olarak değerlendirmemizi sağlamaya yarayacak yeni gelişmeler sunuyorlar. Bu yazıda gelin Ethereum sistemi ETH'nin temel olarak değerine etki edecek neler yapıyor onları inceleyelim: 
 
@@ -27,7 +26,7 @@ Her bir noktanın büyüklüğü o zincirdeki işlem hacmini gösteriyor: ETH: $
 
 Bir diğer neden de kullanıcıların bu dünyada olması. Yukarıdaki grafikten gördüğünüz gibi Ethereum'un aktif kullanıcı sayısı kendisine en yakın zincirin 4 katı, işlem hacmi ise yaklaşık 5 katı.  DeFi projelerin en büyük özelliği gücü kullanıcıya vermeleri. Kullanıcının varlığını kendi cüzdanında tutarak DeFi ürünleri kullanması ve bir DeFi projeden diğerine zahmetsizce geçebilmesi. İşte kullanıcılar farklı ürünleri bir arada kullanabildikleri için Ethereum ağındalar ve dolayısıyla o ağın parası olan ETH'yi kullanıyorlar.  
 
-### Bitcoin ile Ethereum'un farkları nereden geliyor?
+### Bitcoin ile Ethereum'un farkı ne?
 
 Hep bahsettiğimiz gibi Bitcoin yavaş ilerleyen bir teknoloji. Kendince haklı sebepleri de var. Dijital para olmaya soyundukları için en büyük sermayeleri güven. Teknolojik olarak hızlı gitme durumunda sorun çıkma ihtimali doğabilir - bu da güveni zedeler. Bitcoin geliştirici topluluğunun en korktuğu olay işte bu - o nedenle belki de kasıtlı olarak yavaş ilerliyorlar. 
 
