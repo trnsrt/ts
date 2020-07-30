@@ -30,7 +30,7 @@ En basitinden hemen hemen bütün DeFi platformları ve bu platformların işley
 Öncelikle ürünlerinizi yaratabilmek için yazılımcılara ihtiyacınız var. En fazla yazılımcının olduğu platform Ethereum. Yazılımcılar da geliştirilen projeler ağırlıklı Ethereum üzerinde olduğu için bu platforma yöneliyorlar.  Bir nevi tavuk-yumurta sarmalı.
 
 
-| [!Blokzincir kullanım oranları](/assets/blokzincir_kullanma.png)| 
+| ![Blokzincir kullanım oranları](/assets/blokzincir_kullanma.png)| 
 |:--:| 
 | Her bir noktanın büyüklüğü o zincirdeki işlem hacmini gösteriyor: ETH: $10.3 milyar, EOS:$1.9 milyar TRON: $ 0.3 milyar, diğer platformlar: $0,1 milyar. 2020 ikinci çeyrek rakamları Kaynak: [dapp.com](https://www.dapp.com/article/q2-2020-dapp-market-report)*|
 
