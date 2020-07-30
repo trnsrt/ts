@@ -32,7 +32,7 @@ En basitinden hemen hemen bütün DeFi platformları ve bu platformların işley
 
 | ![Blokzincir kullanım oranları](/assets/blokzincir_kullanma.png)| 
 |:--:| 
-| *Her bir noktanın büyüklüğü o zincirdeki işlem hacmini gösteriyor: ETH: $10.3 milyar, EOS:$1.9 milyar TRON: $ 0.3 milyar, diğer platformlar: $0,1 milyar. 2020 ikinci çeyrek rakamları Kaynak: [dapp.com](https://www.dapp.com/article/q2-2020-dapp-market-report)*|
+| *Her bir noktanın büyüklüğü o zincirdeki işlem hacmini gösteriyor: ETH: $10.3 milyar, EOS: $1.9 milyar TRON: $ 0.3 milyar, diğer platformlar: $0,1 milyar. 2020 ikinci çeyrek rakamları Kaynak: [dapp.com](https://www.dapp.com/article/q2-2020-dapp-market-report)*|
 
 
 Bir diğer neden kullanıcıların da bu dünyada olması. Yukarıdaki grafikten gördüğünüz gibi Ethereum'un aktif kullanıcı sayısı kendisine en yakın zincirin 4 katı, işlem hacmi ise yaklaşık 5 katı.  DeFi projelerin en büyük özelliği gücü kullanıcıya vermeleri. Kullanıcının varlığını kendi cüzdanında tutarak DeFi ürünleri kullanması ve bir DeFi projeden diğerine zahmetsizce geçebilmesi. İşte kullanıcılar farklı ürünleri bir arada kullanabildikleri için Ethereum ağındalar ve dolayısıyla o ağın parası olan ETH'yi kullanıyorlar.  
