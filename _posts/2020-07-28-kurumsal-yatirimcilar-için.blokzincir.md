@@ -31,10 +31,6 @@ Her ne kadar henüz çok küçük ve riskli olsalar da zamanın ilerlemesi ile b
 </td></tr>
 </table>
 
-| ![Kurumsal yatırımcı sayfa 1](/assets/kurumsal_yatirimci_sayfa-1.JPG)| | ![Kurumsal yatırımcı sayfa 2](/assets/kurumsal_yatirimci_sayfa-2.JPG)| 
-|:--:| 
-| *Her bir noktanın büyüklüğü o zincirdeki işlem hacmini gösteriyor: ETH: $10.3 milyar, EOS: $1.9 milyar, TRON: $ 0.3 milyar, diğer platformlar: $0,1 milyar. 2020 ikinci çeyrek rakamları Kaynak: [dapp.com](https://www.dapp.com/article/q2-2020-dapp-market-report)*|
-
 ---
 
 *Not 1: Bu yazı ilk olarak Temmuz 2020'de [Kurumsal Yatırımcı](http://www.tkyd.org.tr/home/yayinlar) dergisinde [yayınlandı](http://www.tkyd.org.tr/assets/kurumsal_yatirimci_50-1549eead661fec262ef51f1b1ea212ef.pdf)*
