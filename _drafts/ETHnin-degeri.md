@@ -41,7 +41,7 @@ Evet, bir sonraki yazımızda da ETH değerini yakın ve uzun vadede neler etkil
 
 ### Gelecekte ETH değerini neler etkiler?
 
-Geçtiğimiz yazıda, ETH'nin değerini oluşturan temel değerlere bakmaya başlamıştık. Özetle, kullanıcıların ve yazılımcıların bir arada olduğu bir dünya haline gelen Ethereum ağının "dünyanın en büyük bilgisayarı" olma vizyonunda ciddi aşamalar kaydetti. Bu da ETH'yi yalnızca piyasa hareketleri üzerinden değerlendirme yapan teknik analizin yanında artık yarattığı katma değeri anlamaya çalışan temel analizin de odağı haline getirdi. Gelin şimdi de temel olarak bakıldığında ETH değerini yakın ve uzun vadede etkileyecek etkenler neler onlara bakalım: 
+Geçtiğimiz yazıda, ETH'nin değerini oluşturan temel değerlere bakmaya başlamıştık. Özetle, kullanıcıların ve yazılımcıların bir araya toplaştığı bir dünya haline gelen Ethereum ağının "dünyanın en büyük bilgisayarı" olma vizyonunda ciddi aşamalar kaydetti. Bu da ETH'yi sadece piyasa hareketleri üzerinden değerlendirme yapan teknik analizin yanında artık yarattığı katma değeri anlamaya çalışan temel analizin de ilgi odağı haline getirdi. Gelin şimdi de temel olarak bakıldığında ETH değerini yakın ve uzun vadede etkileyecek etkenler neler onlara bakalım: 
 
 ##### Gas talebi ve fiyatı
 
@@ -49,9 +49,11 @@ ETH’nin gelecek ile ilgili nasıl bir seyir izleyeceği DeFi projelerin nasıl
 
 Bir kere, DeFi projeler ne kadar artarsa Ethereum sistemine olan ihtiyaç da o kadar artacak. Hemen belirtelim Ethereum sistemini yazılımcı ya da kullanıcı olarak kullanmak istediğinizde 'gas' harcamak zorundasınız - 'gas' bir nevi sistemin yakıtı ve kullanabilmek için ETH ödemelisiniz (daha detaylı bilgiye [buradan ulaşabilirsiniz](https://blockgeeks.com/guides/ethereum-gas/)). Ethereum rekabetçi bir sistem. Yani Ethereum sistemini kullanan proje sayısı arttıkça gas ihtiyacı da artacak - özellikle işleminizi hızlı gerçekleştirmek istiyorsanız daha fazla gas harcamak zorunda kalacaksınız. (Finans alanında işlem yapanlar bilir: saniyelerin bile çok önemi vardır, aksi halde fırsat kaçırırsınız). Nitekim artan işlem talebinin etkisi şimdiden görülmeye başlandı. DeFi kullananların en çok şikayetçi oldukları konunun yüksek işlem ücretleri olduğunu belirtelim.  
 
+Kaynak: [Coinmetrics](https://coinmetrics.io/charts/#assets=eth_log=false_roll=7_left=FeeMeanUSD_zoom=1566145123417.0854,1597681123417.0854)
+
 Diğer yandan farklı projeler Ethereum sistemini kullanmaya başlarsa bu sefer yatırımcılar burada bir değer yaratıldığını gördükleri için ETH almaya başlar - aynı Temmuz ayında gördüğümüz gibi.. 
 
-Sonuç olarak hem kullanılan gas hem de birim gas fiyatlarında bir artış olması söz konusu.  Bunun uzun vadede Ethereum sistemine nasıl bir etkisi olacağını göreceğiz ancak çok olumlu olmayacağını tahmin etmek zor değil. 
+Sonuç olarak hem kullanılan gas hem de birim gas fiyatlarında bir artış olması söz konusu.  Bunun uzun vadede Ethereum sistemine nasıl bir etkisi olacağını göreceğiz ancak çok olumlu olmayacağını tahmin etmek zor değil. Bu arada böyle bir senaryonun Ethereum topluluğunda yıllardır konuşulduğunu ve ölçeklenme alanında 
 
 ##### ETH para politikası
 ETH’nin geleceğini belirleyecek bir başka konu ise para politikası. Öyle ya, BTC’yi savunanların en büyük ‘satış noktası’ BTC arzının 21 milyon ile sınırlı olması. Peki ya ETH’de durum ne?
