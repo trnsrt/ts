@@ -52,6 +52,6 @@ Evet, bir sonraki yazımızda da ETH değerini yakın ve uzun vadede neler etkil
 
 ---
 
-*Not 1: Bu yazı ilk olarak 30 Temmuz 2020'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/defi-yeni-ico-cilginligi-mi/)*
+*Not 1: Bu yazı ilk olarak 30 Temmuz 2020'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/ethnin-degeri-var-mi/)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
