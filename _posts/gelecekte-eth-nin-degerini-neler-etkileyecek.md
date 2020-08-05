@@ -33,7 +33,7 @@ ETH’de ise bu biraz daha farklı. ETH’nin BTC gibi ‘sınırlı arz’ duru
 
 | ![BTC ve ETH para arzı](/assets/BTC_ETH_para_arzi.png)|
 |:--:| 
-| *BTC ve ETH para arzı - Kaynak: [Coinmetrics](https://coinmetrics.io/charts/#assets=btc,eth_log=false_roll=90_left=IssContPctAnn_zoom=1446739776000,1596499200000)*|
+| *BTC ve ETH yıllık para arzı (yüzde) - Kaynak: [Coinmetrics](https://coinmetrics.io/charts/#assets=btc,eth_log=false_roll=90_left=IssContPctAnn_zoom=1446739776000,1596499200000)*|
 
 Bu arada yıllık yaratılan miktarın mevcut stoğa oranının [altında %1.6 gümüşte ise %4.5 olduğunu söylersek](https://medium.com/@100trillionUSD/modeling-bitcoins-value-with-scarcity-91fa0fc03e25), neden Bitcoin’e ‘dijital altın’ Ethereum’a ‘dijital gümüş’ dendiği daha iyi anlaşılır sanırım. Son zamanlardaki altında ve onun çok daha fazlası gümüşte yaşanan yükselişi BTC ve ETH’de de görmek ilginç bir tesadüf herhalde. 
 
