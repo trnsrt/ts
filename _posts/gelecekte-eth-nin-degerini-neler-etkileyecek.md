@@ -47,11 +47,13 @@ ETH’ye geri dönersek, para arzı anlamında ETH’nin BTC’den farklı oldu�
 
 Ethereum için ise bu ileride değişecek gibi görünüyor. Zira Ethereum 2.0 ile birlikte sistemi korumak için artık madencilik değil mevcut ETH’leri teminat gösterme yöntemine geçecek. Bu nedenle ileride sistemi korumak için ETH yaratımına çok da ihtiyaç kalmayacak (madenciler BTC’deki gibi para transferinden komisyon almanın yanında Ethereum’daki Akıllı Kontratları çalıştırmak için de işlem ücreti alıyorlar). 
 
-İşte bu nedenle bırakın para arzını artırmayı, ETH arzının BTC'den daha kısıtlı bir hâle gelmesi bile söz konusu önümüzdeki yıllarda. 
+İşte bu nedenle bırakın para yaratımını artırmayı, ETH arzının BTC'den daha kısıtlı bir hâle gelmesi bile söz konusu önümüzdeki yıllarda. 
 
 #### Ethereum 2.0 ve diğer teknolojiler
 
-Temel olarak ETH’nin gelecekteki değerini belirleyecek önemli bir diğer etken başta DeFi olmak üzere üst seviye kullanıcıların Ethereum platformunu kullanmaya devam edip etmeyecekleri. Burada Ethereum geliştiricilerinin yıllardır süregelen blok zinciri bir üst seviyeye çıkarması beklenen yeni versiyonu çok belirleyici olacak. Ethereum 2.0 ya da kısaca eth2 olarak bilinen ve uzun süredir gündemde olan bu yeni versiyonun ne zaman başlayacağını ve nasıl bir zaman dilimi içinde hayata geçeceği merak konusu. (Ethereum 2.0 sürecinin nasıl işleyeceği ile ilgili olarak Çağın Dönmez'in [şu yazısına](https://hackmd.io/@shaun/SklqMn6Fr) bakabilirsiniz)
+Temel olarak ETH’nin gelecekteki değerini belirleyecek önemli bir diğer etken başta DeFi olmak üzere üst seviye kullanıcıların Ethereum platformunu kullanmaya devam edip etmeyecekleri. 
+
+Burada Ethereum geliştiricilerinin yıllardır üzerinde uğraştığı blok zinciri bir üst seviyeye çıkaracak yeni versiyon çok belirleyici olacak. Ethereum 2.0 ya da kısaca eth2 olarak bilinen ve uzun süredir gündemde olan bu yeni versiyonun ne zaman başlayacağını ve nasıl bir zaman dilimi içinde hayata geçeceği merak konusu - beklenti 2020 yılı içinde başlaması (Ethereum 2.0 sürecinin teknik olarak nasıl işleyeceği ile ilgili Çağın Dönmez'in [şu yazısına](https://hackmd.io/@shaun/SklqMn6Fr) bakabilirsiniz)
 
 Şu an için ETH kullanan projeler yarın öbür gün başka rakip platformları kullanır mı? Temmuz ayı içinde [Dr. Emin Gür Sürer’in liderliğinde yeni bir yatırım alan Avalanche](https://tr.avalabs.org/) bu alanda hızlı işlem çıktıları ile Ethereum’a rakip olma iddiasında olan bir platform. Ne kadar başarılı olacaklar her birlikte göreceğiz. 
 
