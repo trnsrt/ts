@@ -6,7 +6,7 @@ categories: Genel
 tags: videos Etkinlikler
 ---
 
-<img align="left" src="/assets/kripto-konusmalar-800.jpg" style="width:40%; padding-right:20px"> İstanbul Blockchain Okulu'nun [Habitat Derneği](https://twitter.com/habitatderneği) sponsorluğunda gerç [Coinzo](https://www.coinzo.com/) sponsorluğunda gerçekleşen [Coinkolik](https://www.coinkolik.com) Sohbetler'in 5.sinde, sevgili [Alp Işık](https://twitter.com/AlppIsik/) ile kitabım ve Blockchain uygulamaları konusunda bir sohbetimiz oldu. Link aşağıda. 
+<img align="left" src="/assets/kripto-konusmalar-800.jpg" style="width:40%; padding-right:20px"> İstanbul Blockchain Okulu'nun [Habitat Derneği](https://twitter.com/habitatderneği) sponsorluğunda gerçekleşenb Kripto Konuşmalar'ın altıncısında, sevgili [Alp Işık](https://twitter.com/AlppIsik/) ile kitabım ve Blockchain uygulamaları konusunda bir sohbetimiz oldu. Link aşağıda. 
 
 &nbsp;
 
