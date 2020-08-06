@@ -6,7 +6,7 @@ categories: Genel
 tags: Yazılar DeFi
 ---
 
-Geçtiğimiz yazıda, ETH'nin değerini oluşturan temel değerlere bakmıştık. Özetle, "dünyanın en büyük bilgisayarı" olma vizyonu ile işe başlayan Ethereum ağı ciddi bir aşama kaydederek kullanıcıların ve yazılımcıların bir araya kümelendiği kocaman bir dünya haline geldi. Bu da ETH'yi sadece piyasa hareketleri üzerinden değerlendirme yapan teknik analizin değil artık yarattığı katma değeri anlamaya çalışan temel analizin de ilgi odağı haline getirdi. Gelin şimdi de temel olarak bakıldığında ETH değerini yakın ve uzun vadede etkileyecek etkenler neler onlara göz atalım: 
+Geçtiğimiz [yazıda](/genel/2020/07/30/ETH-nin-degeri-var-mi.html), ETH'nin değerini oluşturan temel değerlere bakmıştık. Özetle, "dünyanın en büyük bilgisayarı" olma vizyonu ile işe başlayan Ethereum ağı ciddi bir aşama kaydederek kullanıcıların ve yazılımcıların bir araya kümelendiği kocaman bir dünya haline geldi. Bu da ETH'yi sadece piyasa hareketleri üzerinden değerlendirme yapan teknik analizin değil artık yarattığı katma değeri anlamaya çalışan temel analizin de ilgi odağı haline getirdi. Gelin şimdi de temel olarak bakıldığında ETH değerini yakın ve uzun vadede etkileyecek etkenler neler onlara göz atalım: 
 
 #### Gas talebi ve fiyatı
 
