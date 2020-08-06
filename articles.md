@@ -67,6 +67,8 @@ permalink: /articles/
   - Ethereum'um tarihi için [Dünyanın en büyük bilgisayarı: Ethereum'un hikayesi](/genel/2018/06/14/dunyanin-en-buyuk-bilgisayari-ethereumun-hikayesi.html)
   - 2017-18 yıllarında yaşananlar için [Ethereum'un çıkış ve inişi bir döngünün mü parçası?](/genel/2019/01/18/Ethereumun-cikis-ve-inisi-bir-dongunun-mu-parcasi.html)
   - En temel taşı olan Akıllı Kontratlar'ı anlamak için [Bu kontratlar çok akıllı: Ethereum ve Akıllı Kontratlar](/genel/2018/06/29/bu-kontratlar-cok-akilli-ethereum-ve-akilli-kontratlar.html)
+  - ETH'nin değerinin nereden geldiğin anlamak için [ETH'nin değeri var mı?](/genel/2020/07/30/ETH-nin-degeri-var-mi.html)
+  - 2020 ve 2021 yıllarında ETH'nin değerini nelerin etkileyecebileceğini görmek için [Gelecekte ETH'nin değerini neler etkileyecek?](/genel/2020/08/06/gelecekte-eth-nin-degerini-neler-etkileyecek.html)
 
 &nbsp;
 
