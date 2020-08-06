@@ -8,7 +8,7 @@ tags: Yazılar DeFi
 
 Hatırlarsanız geçtiğimiz [yazıda](/genel/2020/07/30/ETH-nin-degeri-var-mi.html), ETH'nin değerini oluşturan temel değerlere bakmıştık. Kısaca özetlersek: "dünyanın en büyük bilgisayarı" olma vizyonu ile işe başlayan Ethereum ağı ciddi bir aşama kaydederek kullanıcıların ve yazılımcıların bir araya kümelendiği kocaman bir dünya haline geldi. Bu da ETH'yi sadece piyasa hareketleri üzerinden değerlendirme yapan teknik analizin değil artık yarattığı katma değeri anlamaya çalışan temel analizin de ilgi odağı haline getirdi. Gelin şimdi de temel olarak bakıldığında ETH değerini yakın ve uzun vadede etkileyecek etkenler neler onlara göz atalım: 
 
-#### Gas talebi ve fiyatı
+### Gas talebi ve fiyatı
 
 ETH’nin gelecek ile ilgili nasıl bir seyir izleyeceği, üzerine kurulu DeFi projelerin nasıl gelişeceği ile yakından ilişkili. Bu da aslına bakarsanız iki ucu keskin bir bıçak. Neden?
 
@@ -24,7 +24,7 @@ Sonuç olarak hem kullanılan gas hem de birim gas fiyatlarında bir artış olm
 
 Bu arada böyle bir senaryonun Ethereum topluluğunda yıllardır konuşulduğunu ve ölçeklenme alanında gerek zincir içinde gerekse zincir dışında pek çok çalışma yapıldığını da belirtelim (daha detaylı bilgilenmek isterseniz plasma ve roll-up gibi ölçekleme çalışmaları ile ilgili İngilizce [şu yazıyı](https://www.tokendaily.co/blog/the-state-of-ethereum-l2) okuyabilirsiniz)
 
-#### ETH para politikası
+### ETH para politikası
 ETH’nin geleceğini belirleyecek bir başka konu ise para politikası. Öyle ya, BTC’yi savunanların en büyük ‘satış noktası’ BTC arzının 21 milyon ile sınırlı olması. Peki ya ETH’de durum ne?
 
 Efendim, BTC’nin şu ana kadar yaratılan parası yaklaşık olarak [18,5 milyon adet](https://www.buybitcoinworldwide.com/how-many-bitcoins-are-there/) bu da toplam BTC miktarının %88’i anlamına geliyor. Kalan 2.5 milyon adet ise önümüzdeki 120 yılda azalarak yaratılmaya devam edecek. Bir başka açıdan baktığımızda yıllık olarak mevcut paranın yaklaşık %1.8’i gibi bir rakam yaratılacak önümüzdeki dört yıl boyunca. 
@@ -41,7 +41,7 @@ ETH’ye geri dönersek, para arzı anlamında ETH’nin BTC’den farklı oldu�
 
 İşte böyle bir grubun kontrolündeki ETH’nin para arzı ileride değişir mi bunu şimdiden kestirmek zor. Geliştiricilerin bu konuda verdiği bir söz de yok. İhtimali az, zira arzı artırmak değeri düşürücü bir etki yapar ama yine de ‘kesin olmaz’ diye kimse söyleyemez. 
 
-##### Madencilere verilen ödül
+### Madencilere verilen ödül
 
 Öte yandan, para olarak ETH’nin de BTC’nin de yaratılma nedeninin sistemin kendini koruma amaçlı madencilere ödül vermek olduğunu belirtmiştik. Yukarıda da bahsettiğimiz gibi Bitcoin sistemi bu ödülü azalarak da olsa vermeye devam edecek. 
 
@@ -49,7 +49,7 @@ Ethereum için ise bu ileride değişecek gibi görünüyor. Zira Ethereum 2.0 i
 
 İşte bu nedenle bırakın para yaratımını artırmayı, ETH arzının BTC'den daha kısıtlı bir hâle gelmesi bile söz konusu önümüzdeki yıllarda. 
 
-#### Ethereum 2.0 ve diğer teknolojiler
+### Ethereum 2.0 ve diğer teknolojiler
 
 Temel olarak ETH’nin gelecekteki değerini belirleyecek önemli bir diğer etken başta DeFi olmak üzere üst seviye kullanıcıların Ethereum platformunu kullanmaya devam edip etmeyecekleri. 
 
