@@ -14,7 +14,7 @@ ETH’nin gelecek ile ilgili nasıl bir seyir izleyeceği, üzerine kurulu DeFi 
 
 Öncelikle DeFi projeler ne kadar artarsa Ethereum sistemine olan ihtiyaç da o kadar artacak. Hemen belirtelim Ethereum sistemini yazılımcı ya da kullanıcı olarak kullanmak istediğinizde 'gas' harcamak zorundasınız - 'gas' bir nevi sistemin yakıtı ve kullanabilmek için ETH ödemelisiniz (daha detaylı bilgiye [buradan ulaşabilirsiniz](https://blockgeeks.com/guides/ethereum-gas/)). Ethereum rekabetçi bir sistem. Daha çok para veren sıranın önüne geçer - özellikle işleminizi hızlı gerçekleştirmek istiyorsanız daha fazla gas harcamak zorunda kalırsınız. (Finans alanında işlem yapanlar bilir, saniyelerin bile çok önemi vardır, aksi halde fırsat kaçırırsınız). Nitekim artan işlem sayılarının etkisi şimdiden görülmeye başlandı. DeFi kullananların en çok şikayetçi oldukları konunun yüksek işlem ücretleri olduğunu belirtelim.  
 
-| ![Ortalama Ethereum işlem ücreti](/assets/ETH_ortalama_islem_ucreti.png)|
+| ![Ortalama Ethereum işlem ücreti](/assets/ETH_ortalama_islem_ucreti-800.jpg)|
 |:--:| 
 | *Ethereum zinciri üzerindeki ortalama işlem ücretleri (ABD Doları) - Kaynak: [Coinmetrics](https://coinmetrics.io/charts/#assets=eth_log=false_roll=7_left=FeeMeanUSD_zoom=1566145123417.0854,1597681123417.0854)*|
 
