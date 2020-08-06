@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kripto konuşmalar - 5 Ağustos"
-date:   2020-07-20 23:37:15 +0300
+date:   2020-08-05 23:37:15 +0300
 categories: Genel
 tags: videos Etkinlikler
 ---
