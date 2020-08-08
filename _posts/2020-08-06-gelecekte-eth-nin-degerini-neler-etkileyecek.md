@@ -64,7 +64,7 @@ Gerek Ethereum gerekse rakip projelerin geliştirdikleri teknolojiler önümüzd
 
 ---
 
-*Not 1: Bu yazı ilk olarak 6 Ağustos 2020'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/defi-yeni-ico-cilginligi-mi/)*
+*Not 1: Bu yazı ilk olarak 6 Ağustos 2020'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/gelecekte-ethnin-degerini-neler-etkileyecek/)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
