@@ -17,8 +17,6 @@ Sık sorulan sorulardan biri de şu: DeFi (Merkeziyetsiz Finans) gerçekten merk
 
 Ayrıca hangi kritere göre merkeziyetsizlikten bahsediyoruz o da önemli. Sistemin kuruluşu açısından mı, işleyişi bakımından mı, kullanıcıya verdiği güç bakımından mı? Bu kriterleri daha da uzatabiliriz haliyle. 
 
-
-
 | ![Rengarenk](/assets/flower-field-250016_640.jpg)|
 |:--:| 
 | *Image by [Kohji Asakawa](https://pixabay.com/users/DeltaWorks-37465/) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=250016)*|
