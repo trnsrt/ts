@@ -47,7 +47,7 @@ Merkeziyetsiz yapılar için en kritik konulardan biri hareket ettikleri alan. Z
 Regülasyon konusunda asıl önemli konu aslında kullanıcı tarafı. Kullanıcıların büyük bir kısmı coğrafi olarak içinde bulundukları ülkelerin kanunları ile sınırlılar. Ülke denetleyici kurumlarının getirebileceği her tür kısıtlama merkezi olmayan yapıların geniş kitlelerce benimsenmesinin önündeki en büyük belirsizliklerden biri olmaya aday. 
 
 ### Sonuç
-Merkezi yapılar hızlı karar alabilme açısından avantaja sahip olsalar da, tabi oldukları regülasyonlar nedeniyle kullanıcılara kısıtlı ama göreceli daha az riskli ürünler sunuyorlar. DeFi yapılar ise başlangıçta yavaş gelişen ve riskli ama yapı itibariyle nihai kullanıcıya verdiği güç ve zaman içinde oturacak risk azaltıcı teknolojik ilerlemeler sayesinde uzun vade için daha büyük bir potansiyel gösteriyor. Öngörümüz gerçekleşecek mi, hep birlikte yaşayarak göreceğiz. 
+Merkezi yapılar hızlı karar alabilme açısından avantaja sahip olsalar da, tâbi oldukları regülasyonlar nedeniyle kullanıcılara kısıtlı ama göreceli riski daha az ürünler sunuyorlar. DeFi yapılar ise başlangıçta yavaş gelişen ve riskli ama yapı itibariyle nihai kullanıcıya verdiği güç ve zaman içinde oturacak risk azaltıcı teknolojik ilerlemeler sayesinde uzun vade için daha büyük bir potansiyel gösteriyor. Öngörümüz gerçekleşecek mi, hep birlikte yaşayarak göreceğiz. 
 
 ---
 
