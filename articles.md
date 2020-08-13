@@ -24,6 +24,7 @@ permalink: /articles/
 - Finans alanındaki potansiyeli en yüksek olan Merkeziyetsiz Finans (DeFi) hareketini yakından tanımak için
   - [Blockchain finans dünyasını nasıl etkileyecek?](/genel/2019/02/14/Blockchain-finans-dunyasini-nasil-etkileyecek.html)
   - [DeFi neden önemli?](/genel/2020/06/11/DeFi-neden-onemli.html)
+  - [CeFi'dan DeFi'ya... Merkeziyetsizleştiremediklerimizden misiniz?](/genel/2020/08/13/cefi-den-defiya-merkeziyetsizlestiremediklerimizden-misiniz.html)
   - [MakerDAO kredi kullanımında çığır açar mı?](/genel/2019/02/15/MakerDAO-kredi-kullaniminda-cigir-acar-mi.html)
   - [Merkeziyetsiz Finans ve MakerDAO — bir yılda neler değişti?](/genel/2020/03/17/Merkeziyetsiz-Finans-ve-Maker-DAO-Bir-yilda-neler-degisti.html)
   - [Bitcoin ile DeFi benzer mi?](/genel/2020/06/25/Bitcoin-ile-DeFi-benzer-mi.html)
