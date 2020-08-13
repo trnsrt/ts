@@ -39,7 +39,7 @@ Bunu biraz daha açmakta fayda var. Teknik, kodlama, kullanım açısından merk
 **Yönetim:** Sistemin kurulduktan sonra yönetim kurallarının oluşturulması ve değiştirilmesinin ne kadar demokratik yollarla yapıldığı
 **Kullanıcı hakları:** Herhalde DeFi hareketinde en çok vurgulanan konu bu ve merkeziyetsiz yapılar bu alanda daha ilerideler. Özellikle kullanıcının kendine ait bilgileri platformlar arasında taşıyabilmesi konusunda. Merkezi yapıların kullanıcı hakları konusunda gittikçe daha duyarlı olduğunu görsek de merkeziyetsiz yapılarda olduğu gibi kontrolü tamamen bırakmalarını beklemek hayalperestlik olur.
 
->Burada şahsi olarak en kritik noktanın merkezi/merkeziyetsizlikten çok kullanıcıya kişisel bilgilerini şifreli olarak kendi uhdesinde tutma ve dijital varlığını farklı platformlar arası rahatça taşıma imkanı vermek olduğunu düşünüyorum.**
+>Burada şahsi olarak en kritik noktanın merkezi/merkeziyetsizlikten çok kullanıcıya kişisel bilgilerini şifreli olarak kendi uhdesinde tutma ve dijital varlığını farklı platformlar arası rahatça taşıma imkanı vermek olduğunu düşünüyorum.
 
 ### Ya regülasyonlar?
 Merkeziyetsiz yapılar için en kritik konulardan biri hareket ettikleri alan. Zira global ölçekte ve merkeziyetsiz bir yapıda olduğunuzda mevcut ülke denetimlerinden kendinizi koruyup, enerji ve eforunuzu yenilikçi çözümlere yönlendirebiliyorsunuz - merkezi yapılar o anlamda daha şanssız. 
