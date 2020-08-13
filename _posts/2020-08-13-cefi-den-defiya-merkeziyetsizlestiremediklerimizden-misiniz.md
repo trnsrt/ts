@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CeFi'den DeFiye. Merkeziyetsizleştiremediklerimizden misiniz?"
-date:   2020-07-23 12:47:56 +0300
+date:   2020-08-13 12:47:56 +0300
 categories: Genel
 tags: Yazılar DeFi
 ---
