@@ -56,6 +56,6 @@ Merkezi yapılar hızlı karar alabilme açısından avantaja sahip olsalar da, 
 
 ---
 
-*Not 1: Bu yazı ilk olarak 13 Ağustos 2020'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/aragon-ile-defida-yonetim/)*
+*Not 1: Bu yazı ilk olarak 13 Ağustos 2020'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/cefiden-defiya-merkeziyetsizlestiremediklerimizden-misiniz/)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
