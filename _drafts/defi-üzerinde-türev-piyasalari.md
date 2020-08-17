@@ -36,7 +36,7 @@ Türev piyasaların yükselen yıldızı Sythetix Avustralya çıkışlı bir ek
 
 Sistem kısaca şöyle çalışıyor. Normalde bir türev piyasasında iki parti olması gerekirken, Synthetix'de sadece siz varsınız, karşı parti yok. Başta da dediğimiz gibi ortada bir varlık da yok, sadece o varlığın riski var. O riski siz yaratıyorsunuz. Nasıl? Öncelikle varlığın sanal bir klonunu Synthetix'de yaratıyorsunuz. Örneğin altın ya da Apple hissesi. Ortada altın yok ancak altın riskini alabilmek için sanal bir altın S.........
 
-Ne tip ürünler var peki Synthetix'de? Beş ayrı kategori var. İtibari paralar, emtialar, kripto paralar, kripto para endeksleri ve ters-kripto-para dediğimiz kripto para borçlanması.. 
+Ne tip ürünler var peki Synthetix'de? Beş ayrı kategori var. İtibari paralar, emtialar, kripto paralar, kripto para endeksleri ve kripto para fiyatlarını tersten izleyen inverse-kripto paralar.. 
 
 Peki karşı parti yok ise fiyatı kim belirliyor? Normalde al-sat yaparken ya almak istediğiniz ürünü belli bir fiyattan satmak isteyen bir karşı parti ya da işlemi kendi hesaplarına alan aracı kurum vardır. Burada ise karşı parti yerine fiyatlar dışarıdan oracle dediğimiz bilgi sağlayıcılardan üç dakikada bir alınıyor. 
 
