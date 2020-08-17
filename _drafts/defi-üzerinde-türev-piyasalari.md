@@ -22,7 +22,9 @@ Türev piyasalarının çalışması için iki parti olması gerekiyor. Bu iki p
 
 ### Peki riskler neler?
 
-Geldik DeFi ile ilgili hemen hemen her yazıda bahsettiğimiz risk olayına. Efendim, DeFi'da riskler çok. Ama türev piyasalarında riskler klasik piyasalara göre çok daha fazla!.. Neden? Çünkü türev piyasalarının ana enstrümanı risk ve bu riski dağıtmak. 2008 yılında ABD'de patlayan krizin temel nedeni olarak gayrimenkul fiyatlarının şişmesi deriz ama hakikaten büyük bir sorun olan bu şişmenin kat be kat artmasının sağlayan da türev piyasaları idi.. 
+Geldik DeFi ile ilgili hemen hemen her yazıda bahsettiğimiz risk olayına. Efendim, DeFi'da riskler çok. Ama türev piyasalarında riskler klasik piyasalara göre çok daha fazla!.. Neden? Çünkü türev piyasalarının ana enstrümanı risk ve bu riski dağıtmak. 2008 yılında ABD'de patlayan krizin temel nedeni olarak gayrimenkul fiyatlarının şişmesi deriz ama hakikaten büyük bir sorun olan bu şişmenin kat be kat artmasının sağlayan da türev piyasaları idi... 
+
+Dolayısıyla DeFi üzerindeki türev piyasaları da benzer şekilde oldukça riskli ürünler. Zira taşıdıkları risk sadece üzerine kurulu oldukları varlıklar ile sınırlı değil. Onun da üstünde hep bahsettiğimiz yazılı oldukları Akıllı Kontratların yazılımındaki hatalar sorun yaratabilir. Keza bu tip ürünleri kullanırken hep teminat vermek zorundasınız. Bu teminatlar DeFi piyasalarında genelde kripto paralar oluyorlar. Bu kripto paralardaki değer değişiminin teminatınızın azaltması riski var. Teminatınız eğer istenen seviyelerin altında kalırsa kontrat bir ceza ile birlikte likidite olur ve ciddi bir kayıba uğrarsınız.  
 
 
 
