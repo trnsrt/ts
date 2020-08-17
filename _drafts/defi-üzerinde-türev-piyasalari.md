@@ -34,7 +34,7 @@ Aslında bu tip ürünler üzerinde soru işareti olması çok normal. Zira bu �
 ### Synthetix ne yapar?
 Türev piyasaların yükselen yıldızı Sythetix Avustralya çıkışlı bir ekip. 
 
-Sistem kısaca şöyle çalışıyor. Normalde bir türev piyasasında iki parti olması gerekirken, Synthetix'de sadece siz varsınız, karşı parti yok. Başta da dediğimiz gibi ortada bir varlık da yok, sadece o varlığın riski var. O riski siz yaratıyorsunuz. Nasıl? Öncelikle varlığın sanal bir klonunu Synthetix'de yaratıyorsunuz. Örneğin altın. Ortada altın yok ancak altın riskini alabilmek için sanal bir altın S.........
+Sistem kısaca şöyle çalışıyor. Normalde bir türev piyasasında iki parti olması gerekirken, Synthetix'de sadece siz varsınız, karşı parti yok. Başta da dediğimiz gibi ortada bir varlık da yok, sadece o varlığın riski var. O riski siz yaratıyorsunuz. Nasıl? Öncelikle varlığın sanal bir klonunu Synthetix'de yaratıyorsunuz. Örneğin altın ya da Apple hissesi. Ortada altın yok ancak altın riskini alabilmek için sanal bir altın S.........
 
 Peki karşı parti yok ise fiyatı kim belirliyor? Normalde al-sat yaparken ya almak istediğiniz ürünü belli bir fiyattan satmak isteyen bir karşı parti ya da işlemi kendi hesaplarına alan aracı kurum vardır. Burada ise karşı parti yerine fiyatlar dışarıdan oracle dediğimiz bilgi sağlayıcılardan üç dakikada bir alınıyor. 
 
