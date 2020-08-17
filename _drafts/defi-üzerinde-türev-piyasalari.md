@@ -38,6 +38,8 @@ Sistem kısaca şöyle çalışıyor. Normalde bir türev piyasasında iki parti
 
 DeFi projelerin en önemli sorunu likit olmamaları. Bir piyasa ne kadar az likit ise al-sat arasındaki fark da o kadar büyük olur ve yatırımcı olarak gereksiz bir kayba uğrarsınız. Synthetix likidite sorunu çözmek için havuz yöntemini kullanıyor. Biraz karışık ama basitçe anlatmak istersek şöyle diyebiliriz. Platformda sunulan pek çok farklı türev ürünü var. Çok ürün olması yatırımcıya alternatif sunmak için iyi ancak gelen likiditenin de her bir ürüne dağılması sonucu sığlık yaratıyor. Bu nedenle, tüm ürünlere ortak likidite sağlayacak SNX diye sistemin kendine özgü bir tokeni var. 
 
+Niye SNX gibi bir ürün çıkmış peki? Temel nedeni sisteme özgü, sistemde duran bir para olan SNX kullanılarak bir türev üründen diğerine hızlı ve ucuz sağlanıyor (ingilizcede friction-sürtünme ve slippage/sızıntı olarak tabir edilen kayıplar önleniyor). 
+
 
 Kim kurmuş?
 Nasıl çalışır?
