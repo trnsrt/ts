@@ -36,6 +36,8 @@ Türev piyasaların yükselen yıldızı Sythetix Avustralya çıkışlı bir ek
 
 Sistem kısaca şöyle çalışıyor. Normalde bir türev piyasasında iki parti olması gerekirken, Synthetix'de sadece siz varsınız, karşı parti yok. Başta da dediğimiz gibi ortada bir varlık da yok, sadece o varlığın riski var. O riski siz yaratıyorsunuz. Nasıl? Öncelikle varlığın sanal bir klonunu Synthetix'de yaratıyorsunuz. Örneğin altın ya da Apple hissesi. Ortada altın yok ancak altın riskini alabilmek için sanal bir altın S.........
 
+Ne tip ürünler var peki Synthetix'de? Beş ayrı kategori var. İtibari paralar, emtialar, kripto paralar, kripto para endeksleri ve ters-kripto-para dediğimiz kripto para borçlanması.. 
+
 Peki karşı parti yok ise fiyatı kim belirliyor? Normalde al-sat yaparken ya almak istediğiniz ürünü belli bir fiyattan satmak isteyen bir karşı parti ya da işlemi kendi hesaplarına alan aracı kurum vardır. Burada ise karşı parti yerine fiyatlar dışarıdan oracle dediğimiz bilgi sağlayıcılardan üç dakikada bir alınıyor. 
 
 DeFi projelerin en önemli sorunu likit olmamaları. Bir piyasa ne kadar az likit ise al-sat arasındaki fark da o kadar büyük olur ve yatırımcı olarak gereksiz bir kayba uğrarsınız. Synthetix likidite sorunu çözmek için havuz yöntemini kullanıyor. Biraz karışık ama basitçe anlatmak istersek şöyle diyebiliriz. Platformda sunulan pek çok farklı türev ürünü var. Çok ürün olması yatırımcıya alternatif sunmak için iyi ancak gelen likiditenin de her bir ürüne dağılması sonucu sığlık yaratıyor. Bu nedenle, tüm ürünlere ortak likidite sağlayacak SNX diye sistemin kendine özgü bir tokeni var. 
