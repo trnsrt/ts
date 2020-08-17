@@ -34,6 +34,8 @@ Aslında bu tip ürünler üzerinde soru işareti olması çok normal. Zira bu �
 ### Synthetix ne yapar?
 Türev piyasaların yükselen yıldızı Sythetix Avustralya çıkışlı bir ekip. 
 
+Sistem kısaca şöyle çalışıyor. Normalde bir türev piyasasında iki parti olması gerekirken, Synthetix'de sadece siz varsınız, karşı parti yok. Başta da dediğimiz gibi ortada bir varlık da yok, sadece o varlığın riski var. O riski siz yaratıyorsunuz. Nasıl? Öncelikle varlığın sanal bir klonunu Synthetix'de yaratıyorsunuz. Örneğin altın. Ortada altın yok ancak altın riskini alabilmek için sanal bir altın S
+
 DeFi projelerin en önemli sorunu likit olmamaları. Bir piyasa ne kadar az likit ise al-sat arasındaki fark da o kadar büyük olur ve yatırımcı olarak gereksiz bir kayba uğrarsınız. Synthetix likidite sorunu çözmek için havuz yöntemini kullanıyor. Biraz karışık ama basitçe anlatmak istersek şöyle diyebiliriz. Platformda sunulan pek çok farklı türev ürünü var. Çok ürün olması yatırımcıya alternatif sunmak için iyi ancak gelen likiditenin de her bir ürüne dağılması sonucu sığlık yaratıyor. Bu nedenle, tüm ürünlere ortak likidite sağlayacak SNX diye sistemin kendine özgü bir tokeni var. 
 
 
