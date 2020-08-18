@@ -34,7 +34,12 @@ Aslında bu tip ürünler üzerinde soru işareti olması çok normal. Zira bu �
 ### Synthetix ne yapar?
 Türev piyasaların yükselen yıldızı Sythetix Avustralya çıkışlı bir ekip. 
 
-Sistem kısaca şöyle çalışıyor. Normalde bir türev piyasasında iki parti olması gerekirken, Synthetix'de sadece siz varsınız, karşı parti yok. Başta da dediğimiz gibi ortada bir varlık da yok, sadece o varlığın riski var. O riski siz yaratıyorsunuz. Nasıl? Öncelikle varlığın sanal bir klonunu Synthetix'de yaratıyorsunuz. Örneğin altın ya da Apple hissesi. Ortada altın yok ancak altın riskini alabilmek için sanal bir altın S.........
+Sistem kısaca şöyle çalışıyor. Normalde bir türev piyasasında iki parti olması gerekirken, Synthetix'de sadece siz varsınız. Daha doğrusu karşıda sizin aldığınız riskin tam tersini almak isteyen bir başka kullanıcı yok. İyi de karşı parti olmadan piyasa çalışmaz ki? Çok haklısınız. Synthetix'de ise karşı taraf olarak bir havuz var. Bu havuz kullanıcıların koymuş olduğu sistemin parası olan SNX'lerden oluşuyor. 
+
+
+
+
+Başta da dediğimiz gibi ortada bir varlık da yok, sadece o varlığın riski var. O riski siz yaratıyorsunuz. Nasıl? Öncelikle varlığın sanal bir klonunu Synthetix'de yaratıyorsunuz. Örneğin altın ya da Apple hissesi. Ortada altın yok ancak altın riskini alabilmek için sanal bir altın S.........
 
 Ne tip ürünler var peki Synthetix'de? Beş ayrı kategori var. İtibari paralar, emtialar, kripto paralar, kripto para endeksleri ve kripto para fiyatlarını tersten izleyen inverse-kripto paralar.. 
 
