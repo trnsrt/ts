@@ -34,18 +34,19 @@ Aslında bu tip ürünler üzerinde soru işareti olması çok normal. Zira bu �
 ### Synthetix ne yapar?
 Türev piyasaların yükselen yıldızı Sythetix Avustralya çıkışlı bir ekip. 
 
-Sistem kısaca şöyle çalışıyor. Normalde bir türev piyasasında iki parti olması gerekirken, Synthetix'de sadece siz varsınız. Daha doğrusu karşıda sizin aldığınız riskin tam tersini almak isteyen bir başka kullanıcı yok. İyi de karşı parti olmadan piyasa çalışmaz ki? Çok haklısınız. Synthetix'de ise karşı taraf olarak bir havuz var. Bu havuz kullanıcıların koymuş olduğu sistemin parası olan SNX'lerden oluşuyor. 
+Sistem kısaca şöyle çalışıyor. Normalde bir türev piyasasında iki parti olması gerekirken, Synthetix'de sadece siz varsınız. Daha doğrusu karşıda sizin aldığınız riskin tam tersini almak isteyen bir başka kullanıcı yok. İyi de karşı parti olmadan piyasa çalışmaz ki? Çok haklısınız. Synthetix'de ise karşı taraf olarak bir havuz var. Bu havuz sistemin parası olan SNX'lerden oluşuyor. Peki nereden geliyor bu SNX? Havuz sistemine SNX koyan ve bunun karşılığında para kazanan yatırımcılardan. 
+
+SNX sistemin temel direği. Zira SNX, DeFi sistemlerin en büyük ihtiyacı olan likiditeyi sağlıyor sistem. Bir piyasa ne kadar az likit ise al-sat arasındaki fark da o kadar büyük olur ve yatırımcı olarak gereksiz bir kayba uğrarsınız. Hele bir de farklı farklı bir sürü ürün olursa, karşı parti bulmak o kadar zorlaşır ve likidite iyice azalır. SNX sistemin ortak parası olarak tüm ürünlerde kullanıcılar için karşı parti oluyor, yani tüm ürünlere bir havuz aracılığıyla likidite sağlıyor. 
 
 
+Ne tip ürünler var peki Synthetix'de? Beş ayrı kategori var. İtibari paralar, emtialar, kripto paralar, kripto para endeksleri ve kripto para fiyatlarını tersten izleyen inverse-kripto paralar.. 
 
 
 Başta da dediğimiz gibi ortada bir varlık da yok, sadece o varlığın riski var. O riski siz yaratıyorsunuz. Nasıl? Öncelikle varlığın sanal bir klonunu Synthetix'de yaratıyorsunuz. Örneğin altın ya da Apple hissesi. Ortada altın yok ancak altın riskini alabilmek için sanal bir altın S.........
 
-Ne tip ürünler var peki Synthetix'de? Beş ayrı kategori var. İtibari paralar, emtialar, kripto paralar, kripto para endeksleri ve kripto para fiyatlarını tersten izleyen inverse-kripto paralar.. 
 
 Peki karşı parti yok ise fiyatı kim belirliyor? Normalde al-sat yaparken ya almak istediğiniz ürünü belli bir fiyattan satmak isteyen bir karşı parti ya da işlemi kendi hesaplarına alan aracı kurum vardır. Burada ise karşı parti yerine fiyatlar dışarıdan oracle dediğimiz bilgi sağlayıcılardan üç dakikada bir alınıyor. 
 
-DeFi projelerin en önemli sorunu likit olmamaları. Bir piyasa ne kadar az likit ise al-sat arasındaki fark da o kadar büyük olur ve yatırımcı olarak gereksiz bir kayba uğrarsınız. Synthetix likidite sorunu çözmek için havuz yöntemini kullanıyor. Biraz karışık ama basitçe anlatmak istersek şöyle diyebiliriz. Platformda sunulan pek çok farklı türev ürünü var. Çok ürün olması yatırımcıya alternatif sunmak için iyi ancak gelen likiditenin de her bir ürüne dağılması sonucu sığlık yaratıyor. Bu nedenle, tüm ürünlere ortak likidite sağlayacak SNX diye sistemin kendine özgü bir tokeni var. 
 
 Niye SNX gibi bir ürün çıkmış peki? Temel nedeni sisteme özgü, sistemde duran bir para olan SNX kullanılarak bir türev üründen diğerine hızlı ve ucuz sağlanıyor (ingilizcede friction-sürtünme ve slippage/sızıntı olarak tabir edilen kayıplar önleniyor). 
 
