@@ -38,6 +38,7 @@ Sistem kısaca şöyle çalışıyor. Normalde bir türev piyasasında iki parti
 
 SNX sistemin temel direği. Zira SNX, DeFi sistemlerin en büyük ihtiyacı olan likiditeyi sağlıyor sistem. Bir piyasa ne kadar az likit ise al-sat arasındaki fark da o kadar büyük olur ve yatırımcı olarak gereksiz bir kayba uğrarsınız. Hele bir de farklı farklı bir sürü ürün olursa, karşı parti bulmak o kadar zorlaşır ve likidite iyice azalır. SNX sistemin ortak parası olarak tüm ürünlerde kullanıcılar için karşı parti oluyor, yani tüm ürünlere bir havuz aracılığıyla likidite sağlıyor. 
 
+Peki SNX koyan yatırımcılar nasıl para kazanıyorlar? Öncelikle havuzu kullanarak alım-satım yapan her kullanıcı bunun karşılığında bir bedel ödüyor. Bu ödenen bedel SNX sahiplerine gidiyor. Bunun yanında tabii ki, kullanıcı yaptığı işlemden kâr ederse bu kâr havuzun zararı oluyor ve havuzdan kullanıcıya ödeniyor. Ya da zarar ederse aynı şekilde bu zarar havuzun kârı olarak havuza aktarılıyor ve sonunda SNX sahiplerinin oluyor. 
 
 Ne tip ürünler var peki Synthetix'de? Beş ayrı kategori var. İtibari paralar, emtialar, kripto paralar, kripto para endeksleri ve kripto para fiyatlarını tersten izleyen inverse-kripto paralar.. 
 
