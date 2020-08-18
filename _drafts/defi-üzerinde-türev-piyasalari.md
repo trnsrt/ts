@@ -61,7 +61,7 @@ Doğru böyle bir risk var. Bu riski bertaraf etmek için başlangıç aşaması
 
 #### Ne tip ürünler var Synhetix'de?
 
-Ne tip ürünler var peki Synthetix'de? Beş ayrı kategori var. İtibari paralar, emtialar, kripto paralar, kripto para endeksleri ve kripto para fiyatlarını tersten izleyen inverse-kripto paralar.. 
+Ne tip ürünler var peki Synthetix'de? Beş ayrı kategori var. İtibari paralar, emtialar, kripto paralar, kripto para endeksleri ve kripto para fiyatlarını tersten izleyen inverse-kripto paralar.. Bu beş kategoride Ağustos 2020 itibariyle [38 adet ürün var](https://dashboard.synthetix.io/) - Synthetix'de yaratılan her bir ürüne Synth deniyor. 
 
 
 Peki karşı parti yok ise fiyatı kim belirliyor? Normalde al-sat yaparken ya almak istediğiniz ürünü belli bir fiyattan satmak isteyen bir karşı parti ya da işlemi kendi hesaplarına alan aracı kurum vardır. Burada ise karşı parti yerine fiyatlar dışarıdan oracle dediğimiz bilgi sağlayıcılardan üç dakikada bir alınıyor. 
