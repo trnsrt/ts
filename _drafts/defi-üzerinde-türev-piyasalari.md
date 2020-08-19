@@ -10,7 +10,7 @@ DeFi zaten yeterince karışık bir de türev piyasalar mı çıktı başımıza
 
 [Bütün piyasalar büyüklükleri balonlar]
 
-| ![Global_volumes](/assets/global_assets.jpg)|
+| ![Global_volumes](/assets/assets_global.jpg)|
 |:--:| 
 | *Tüm dünyadaki ekonomik büyüklükler. Kaynak](https://howmuch.net/articles/visualizing-the-biggest-economic-bubbles)*|
 
