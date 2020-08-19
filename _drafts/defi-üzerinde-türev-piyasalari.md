@@ -48,6 +48,9 @@ Bir kere bu tür ürünleri kullandığınız durumda karşı taraf riskini enge
 
 Aslında bu tip ürünler üzerinde soru işareti olması çok normal. Zira bu ürünler yeni ve yeterince test edilmemişler. Üzerinden zaman geçtikçe, değişik değişik senaryolar yaşadıkça bu ürünler daha kabul görür olacak ve sağlam hâle gelir olacaklar. Tabii o zamana kadar da bu ürünlere talep ciddi şekilde artacak ve ilk başlangıçta yüksek kârlar da talep arttıkça azalacak. Yani piyasa mekanizması çalışacak ve yüksek risk/yüksek getiri denkleminden düşük risk/düşük getiri eksenine doğru geçecek bu ürünlerin bir çoğu. 
 
+### Arkası yarın: Nasıl çalışıyor bu ürünler
+Şimdiye kadar türev ürünlere kabaca baktık ancak ne olduklarına ve sistemin nasıl çalıştığına çok değinmedik. Önümüzdeki yazıda bu alandaki en büyük oyuncu olan Synthetix üzerinden merkeziyetsiz bir türev piyasası nasıl çalışıyor ona bakalım... 
+
 
 ### Synthetix ne yapar?
 Türev piyasaların yükselen yıldızı Sythetix Avustralya çıkışlı bir ekip. 
