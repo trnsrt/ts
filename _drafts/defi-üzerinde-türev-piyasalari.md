@@ -12,7 +12,7 @@ DeFi zaten yeterince karışık bir de türev piyasalar mı çıktı başımıza
 
 | ![Global_volumes](/assets/assets_global.jpg)|
 |:--:| 
-| *Tüm dünyadaki ekonomik büyüklükler (Ocak 2019). En soldaki ufak noktayı okuyamadıysanız dertlenmeyin: "Bitcoin" kendisi :) [Kaynak](https://howmuch.net/articles/visualizing-the-biggest-economic-bubbles)*|
+| *Tüm dünyadaki ekonomik büyüklükler (Ocak 2019). En sağda en büyük pazar olarak Türev piyasaları var. Onu sırasıyla gayrimenkul, kredi, fiziki/dijital para, hisse senedi ve altın izliyor.  En soldaki ufak noktayı okuyamadıysanız dertlenmeyin: "Bitcoin" kendisi :) [Kaynak](https://howmuch.net/articles/visualizing-the-biggest-economic-bubbles)*|
 
 ### Neden merkezi olmayan DeFi türev piyasalarına ihtiyaç var?
 
