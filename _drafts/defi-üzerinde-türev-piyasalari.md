@@ -18,7 +18,7 @@ DeFi zaten yeterince karışık bir de türev piyasalar mı çıktı başımıza
 
 Aslına bakarsanız, türev piyasalarında faaliyet gösteren merkezi oyuncular ve sistemler gayet pratik, hızlı ve müşterinin istediği çözümleri sunabilen sistemler. Peki o zaman bunu merkeziyetsiz olarak sunmaya gerek var mı? Her ne kadar daha çok küçük olsalar da hızla büyümeleri nedeniyle DeFi ürünlere ihtiyaç olduğu görülüyor. Neden?
 
-En önemli nedenlerden biri sisteme giriş kolaylığı. Merkezi olarak türev ürünleri sunan piyasalara girmek için gerekli prosedür hem zahmetli hem de kimileri için (örneğin coğrafi kısıtlar nedeniyle) imkansız. Ama eğer kripto paralar ile bir haşır neşirliğiniz var ise, örneğin ETH tutan bir cüzdana sahipseniz bu borsalarda işlem yapmaya başlamanız bırakın saatleri dakikalar içinde mümkün. 
+En önemli nedenlerden biri sisteme giriş kolaylığı. Merkezi olarak türev ürünleri sunan piyasalara girmek için gerekli prosedür hem zahmetli hem de kimileri için (örneğin coğrafi kısıtlar yeterince maddi servete sahip olmama gibi nedenlerle) imkansız. Ama eğer kripto paralar ile bir haşır neşirliğiniz var ise, örneğin ETH tutan bir cüzdana sahipseniz bu borsalarda işlem yapmaya başlamanız bırakın saatleri dakikalar içinde mümkün. 
 
 Bunun yanında DeFi türev oyuncuları klasik türev hizmeti verenlerin sunabildiği her tür fiziki piyasaya ait varlıkların çok daha ötesinde hizmetler sunabiliyorlar kullanıcılara. Örneğin son zamanlarda adını sıkça duymaya başladığımız yield farming benzeri ürünler ile DeFi üzerinden farklı yollardan ekstra kazanç sağlamak da mümkün.
 
