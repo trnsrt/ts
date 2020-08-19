@@ -43,7 +43,7 @@ Keza bu tip ürünleri kullanırken hep teminat vermek zorundasınız. Bu temina
 
 Şimdi bu kadar riskten bahsedince gözünüz korkabilir - çok normal. Ancak unutmayın, risklerin yanında bu risklerden korunmayı gerektirecek önlemler de var:
 
-Bir kere bu tür ürünleri kullandığınız durumda karşı taraf riskini engellemek için mutlaka teminat yatırılması gerekiyor (hatırlarsanız merkezi olmayan piyasalarda karşı tarafın olmad. Ve bu teminatlar oldukça yüksek rakamlar. 
+Bir kere bu tür ürünleri kullandığınız durumda sistem karşı taraf riskini engellemek için mutlaka teminat yatırılmasını istiyor. Ve bu teminatlar DeFi ürünlerde normalin de üzerinde oldukça yüksek rakamlar. 
 
 İkincisi bu kontratların çoğunluğu dış denetim (audit) geçiriyorlar. Audit geçirmek "a herşey süper kontrat çok güvenli" anlamına gelmiyor tabii ki. Ancak yine de biz konunun dışındakilere en azında kod yazımı anlamında bir hata olmadığı konusunda bir parça rahatlık veriyor. Tabii yine de bunlara güvenmezseniz (ki kimse "neden güvenmiyorsun?" diyemez) o zaman elinizde olmayan teknik risklerden sizi koruyacak sigorta yaptırmak da mümkün.. 
 
