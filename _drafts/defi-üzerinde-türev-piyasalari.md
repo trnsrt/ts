@@ -26,13 +26,15 @@ Bunun yanında DeFi ürünleri kullanmanın bir başka avantajı daha önceleri 
 
 
 ### Kim bu DeFi piyasa oyuncuları?
-DeFi içinde türev piyasaları hızla büyüdüğünden bahsetmiştik. Oyuncular arasında en büyüğü Avustralya bazlı olan [Synthetix](https://www.synthetix.io/) DeFi Pulse'da kilitli ETH miktarı olarak 1 milyar ABD Doları'na yaklaşmış durumda. Synthetix'e önümüzdeki haftaki yazımızda daha detaylı olarak bakacağız. Synthetix yanında [dydx](https://dydx.exchange/), [UMA](https://umaproject.org/) diğer büyük ve ilgi çekici projeler bu alanda... 
+DeFi içinde türev piyasaları hızla büyüdüğünden bahsetmiştik. Oyuncular arasında en büyüğü Avustralya bazlı olan [Synthetix](https://www.synthetix.io/)  üzerine kilitli ETH miktarı olarak 800 milyon ABD Doları'na [yaklaşmış durumda](https://defipulse.com/). (Önümüzdeki haftaki yazımızda daha detaylı olarak bakacağız kendisine). Synthetix yanında [dydx](https://dydx.exchange/), [UMA](https://umaproject.org/) diğer ilgi çekici projeler bu alanda... 
 
 ### Peki riskler neler?
 
-Geldik DeFi ile ilgili hemen hemen her yazıda bahsettiğimiz risk olayına. Efendim, DeFi'da riskler çok. Ama türev piyasalarında riskler klasik piyasalara göre çok daha fazla!.. Neden? Çünkü türev piyasalarının ana enstrümanı risk ve bu riski dağıtmak, ama riski dağıtmak amacıyla oluşturulan yeni türev enstrümanları ile riskin gerçekleştiği durumdaki meydana gelen hasar çok daha fazla hâle gelebiliyor. Örneğin 2008 yılında ABD'de patlayan krizin temel nedeni olarak gayrimenkul fiyatları deriz ama özünde sorunu krize döndür kat be kat artmasının sağlayan da türev piyasaları idi... 
+Geldik DeFi ile ilgili hemen hemen her yazıda bahsettiğimiz risk olayına. Efendim, DeFi'da riskler çok. Ama türev piyasalarında riskler klasik piyasalara göre çok daha fazla!.. 
 
-Dolayısıyla DeFi üzerindeki türev piyasaları da benzer şekilde oldukça riskli ürünler. Öncelikle üzerine kurulu oldukları varlıkların riskini taşıyorlar. Onun da üstünde hep bahsettiğimiz yazılı oldukları Akıllı Kontratların kodlanmasında yaşanabilecek hatalar sorun yaratabiliyor. 
+Neden? Çünkü türev piyasalarının ana enstrümanı risk ve bu riski dağıtmak, ama riski dağıtmak amacıyla oluşturulan yeni türev enstrümanları ile riskin gerçekleştiği durumdaki meydana gelen hasar çok daha fazla hâle gelebiliyor. Örneğin 2008 yılında ABD'de patlayan krizin temel nedeni olarak gayrimenkul fiyatları deriz ama özünde sorunu krize döndür kat be kat artmasının sağlayan da türev piyasaları idi... 
+
+Dolayısıyla DeFi üzerindeki türev piyasaları da benzer şekilde oldukça riskli. Öncelikle üzerine kurulu oldukları varlıkların riskini taşıyorlar. Onun da üstünde hep bahsettiğimiz yazılı oldukları Akıllı Kontratların kodlanmasında yaşanabilecek hatalar sorun yaratabiliyor. 
 
 Keza bu tip ürünleri kullanırken hep teminat vermek zorundasınız. Bu teminatlar DeFi piyasalarında genelde kripto paralar oluyorlar. Bu kripto paralardaki değer değişiminin teminatınızın azaltması riski var. Teminatınız eğer istenen seviyelerin altında kalırsa kontrat bir ceza ile birlikte likidite olur ve ciddi bir kayıba uğrarsınız.  
 
