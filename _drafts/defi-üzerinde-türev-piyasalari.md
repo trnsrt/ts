@@ -8,6 +8,8 @@ Peki ya bu varlığı elinizde tutmak istemiyor ya da tutmuyor ama değer deği�
 
 Aslında türev piyasalarının asıl çıkış amacı getirinin ikiz kardeşi olan riski yönetmek. Özellikle alım-satım yapanların gelecekte oluşabilecek her tür duruma karşı kendilerine korumak ve risklerini azaltmak için türev piyasalarını kullandığını da hızlıca belirtelim. 
 
+TEMINAT KONULUR ve BU TEMINATIN HEPSINI KAYBEDEBİLİRSİNİZ
+
 DeFi zaten yeterince karışık bir de türev piyasalar mı çıktı başımıza? Evet, öyle. Zira türev piyasaları DeFi hareketinin en hızlı büyüyen aktörlerinden. Böyle olması da normal zira klasik anlamda sermaye piyasalarına baktığınızda aslında en hızlı büyüyen ve şu anda da en büyük pazarın türev pazarı olduğunu görüyorsunuz. Aşağıdaki grafik küçük (ve bir parça bayat) olabilir ama büyüklükleri göstermesi açısından oldukça etkileyici. 
 
 | ![Global_volumes](/assets/assets_global.jpg)|
