@@ -14,7 +14,7 @@ DeFi zaten yeterince karışık bir de türev piyasalar mı çıktı başımıza
 |:--:| 
 | *Tüm dünyadaki ekonomik büyüklükler (Ocak 2019). En soldaki ufak noktayı okuyamadıysanız dertlenmeyin: "Bitcoin" kendisi :) [Kaynak](https://howmuch.net/articles/visualizing-the-biggest-economic-bubbles)*|
 
-### DeFi türev piyasalarına neden ihtiyaç var?
+### Neden merkezi olmayan DeFi türev piyasalarına ihtiyaç var?
 
 Aslına bakarsanız, türev piyasalarında faaliyet gösteren merkezi oyuncular ve sistemler gayet pratik, hızlı ve müşterinin istediği çözümleri sunabilen sistemler. Peki o zaman bunu merkeziyetsiz olarak sunmaya gerek var mı? Her ne kadar daha çok küçük olsalar da hızla büyümeleri nedeniyle DeFi ürünlere ihtiyaç olduğu görülüyor. Neden?
 
