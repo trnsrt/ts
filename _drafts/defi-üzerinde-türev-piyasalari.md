@@ -6,7 +6,7 @@ Türev piyasaların ne olduğunu çok detaylı girmeyeceğiz yazımızda. Ancak 
 
 Peki ya bu varlığı elinizde tutmak istemiyor ya da tutmuyor ama değer değişimlerinden fayda sağlamak istiyorsanız? Olabilir mi? Olur tabii, neden olmasın? İşte türev piyasalar temel itibariyle bunu sağlıyor: Herhangi bir varlığı belli bir fiyattan almak isteyen bir taraf ile aynı fiyattan satmak isteyen bir başka tarafı bahsedilen varlığın elde olmasına ihtiyaç duymadan bir araya getiriyor. Örneklerini ise aslında çoğumuz duymuşuzdur, vadeli işlemler olarak geçen futures, forwards, options, swaps gibi... 
 
-Tabii çok basit anlamıyla yukarıda yazdığımızın dışında türev piyasalarının aslında getirinin aksi kardeşi riski yönetmek. Özellikle alım-satım yapanların gelecekte oluşabilecek her tür duruma karşı kendilerine korumak ve risklerini azaltmak için türev piyasalarını kullandığını da hızlıca belirtelim. 
+Aslında türev piyasalarının asıl çıkış amacı getirinin ikiz kardeşi olan riski yönetmek. Özellikle alım-satım yapanların gelecekte oluşabilecek her tür duruma karşı kendilerine korumak ve risklerini azaltmak için türev piyasalarını kullandığını da hızlıca belirtelim. 
 
 DeFi zaten yeterince karışık bir de türev piyasalar mı çıktı başımıza? Evet, öyle. Zira türev piyasaları DeFi hareketinin en hızlı büyüyen aktörlerinden. Böyle olması da normal zira klasik anlamda sermaye piyasalarına baktığınızda aslında en hızlı büyüyen ve şu anda da en büyük pazarın türev pazarı olduğunu görüyorsunuz. Aşağıdaki grafik küçük (ve bir parça bayat) olabilir ama büyüklükleri göstermesi açısından oldukça etkileyici. 
 
@@ -23,7 +23,6 @@ En önemli nedenlerden biri sisteme giriş kolaylığı. Merkezi olarak türev �
 Bunun yanında DeFi türev oyuncuları klasik türev hizmeti verenlerin sunabildiği her tür fiziki piyasaya ait varlıkların çok daha ötesinde hizmetler sunabiliyorlar kullanıcılara. Örneğin son zamanlarda adını sıkça duymaya başladığımız yield farming benzeri ürünler ile DeFi üzerinden farklı yollardan ekstra kazanç sağlamak da mümkün.
 
 Bunun yanında DeFi ürünleri kullanmanın bir başka avantajı daha önceleri de bahsettiğimiz kullanıcıya verilen güç. Özellikle herhangi bir türev pazarından aldığınız herhangi bir ürünü, bir başka DeFi platformu üzerinden satabiliyorsunuz. Ne de olsa kontratı yapan kişi olarak kontrat sizin. O kontrat Ethereum zinciri üzerine işleniyor ama anahtarı sizde. İşlem yapmak için daha karlı bir platform bulduğunuz anda cüzdanınızı saniyeler içinde o platforma bağlayıp işlemi oradan gerçekleştirebilirsiniz. 
-
 
 ### Kim bu DeFi piyasa oyuncuları?
 DeFi içinde türev piyasaları hızla büyüdüğünden bahsetmiştik. Oyuncular arasında en büyüğü Avustralya bazlı olan [Synthetix](https://www.synthetix.io/)  üzerine kilitli ETH miktarı olarak 800 milyon ABD Doları'na [yaklaşmış durumda](https://defipulse.com/). (Önümüzdeki haftaki yazımızda daha detaylı olarak bakacağız kendisine). Synthetix yanında [dydx](https://dydx.exchange/), [UMA](https://umaproject.org/) diğer ilgi çekici projeler bu alanda... 
@@ -48,7 +47,7 @@ Bir kere bu tür ürünleri kullandığınız durumda karşı taraf riskini enge
 
 Aslında bu tip ürünler üzerinde soru işareti olması çok normal. Zira bu ürünler yeni ve yeterince test edilmemişler. Üzerinden zaman geçtikçe, değişik değişik senaryolar yaşadıkça bu ürünler daha kabul görür olacak ve sağlam hâle gelir olacaklar. Tabii o zamana kadar da bu ürünlere talep ciddi şekilde artacak ve ilk başlangıçta yüksek kârlar da talep arttıkça azalacak. Yani piyasa mekanizması çalışacak ve yüksek risk/yüksek getiri denkleminden düşük risk/düşük getiri eksenine doğru geçecek bu ürünlerin bir çoğu. 
 
-### Arkası yarın: Nasıl çalışıyor bu ürünler
+### Arkası yarın: Nasıl çalışıyor bu ürünler?
 Şimdiye kadar türev ürünlere kabaca baktık ancak ne olduklarına ve sistemin nasıl çalıştığına çok değinmedik. Önümüzdeki yazıda bu alandaki en büyük oyuncu olan Synthetix üzerinden merkeziyetsiz bir türev piyasası nasıl çalışıyor ona bakalım... 
 
 
