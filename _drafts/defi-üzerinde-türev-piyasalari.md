@@ -33,7 +33,7 @@ DeFi içinde türev piyasaları hızla büyüdüğünden bahsetmiştik. Oyuncula
 
 Geldik DeFi ile ilgili hemen hemen her yazıda bahsettiğimiz risk olayına. Efendim, DeFi'da riskler çok. Ama türev piyasalarında riskler klasik piyasalara göre çok daha fazla!.. 
 
-Neden? Çünkü türev piyasalarının ana enstrümanı risk ve bu riski dağıtmak, ama riski dağıtmak amacıyla oluşturulan yeni türev enstrümanları ile riskin gerçekleştiği durumdaki meydana gelen hasar çok daha fazla hâle gelebiliyor. Örneğin 2008 yılında ABD'de patlayan krizin temel nedeni olarak gayrimenkul fiyatları deriz ama özünde sorunu krize döndür kat be kat artmasının sağlayan da türev piyasaları idi... 
+Neden? Çünkü türev piyasalarının ana enstrümanı risk ve bu riski dağıtmak, ama riski dağıtmak amacıyla oluşturulan yeni türev enstrümanları ile riskin gerçekleştiği durumdaki meydana gelen hasar çok daha fazla hâle gelebiliyor. Örneğin 2008 yılında ABD'de patlayan krizin temel nedeni olarak gayrimenkul fiyatları deriz ama özünde sorunu krize döndür kat be kat artmasının sağlayan da türev piyasaları idi... KALDIRAC ORANINA GÖRE UNDERLYING ASSET'DEKİ DEĞISIM SIZE KALDIRAÇ ETKİSİNDEN DOLAYI 10 YA DA 100 KAT FAZLASINA MAL OLABİLİYOR
 
 Dolayısıyla DeFi üzerindeki türev piyasaları da benzer şekilde oldukça riskli. Öncelikle üzerine kurulu oldukları varlıkların riskini taşıyorlar. Onun da üstünde hep bahsettiğimiz yazılı oldukları Akıllı Kontratların kodlanmasında yaşanabilecek hatalar sorun yaratabiliyor. 
 
