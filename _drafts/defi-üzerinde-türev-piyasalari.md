@@ -6,7 +6,7 @@ Türev piyasaların ne olduğunu çok detaylı girmeyeceğiz yazımızda. Ancak 
 
 Peki ya bu varlığı elinizde tutmak istemiyor ya da tutmuyor ama değer değişimlerinden fayda sağlamak istiyorsanız? Olabilir mi? Olur tabii neden olmasın? İşte türev piyasalar temel itibariyle bunu sağlıyor: Herhangi bir varlığı belli bir fiyattan almak isteyen bir taraf ile aynı fiyattan satmak isteyen bir başka tarafı bahsedilen varlığın elde olmasına ihtiyaç duymadan bir araya getiriyor. Örneklerini ise aslında çoğumuz duymuşuzdur, vadeli işlemler olarak geçen futures, forwards, options, swaps gibi.. 
 
-DeFi zaten yeterince karışık bir de türev piyasalar mı çıktı başımıza? Evet, öyle. Zira türev piyasalar DeFi hareketinin en hızlı büyüyen aktörlerinden. Böyle olması da normal zira klasik anlamda sermaye piyasalarına baktığınızda aslında en hızlı büyüyen ve şu anda da en büyük pazarın türev pazarı olduğunu görüyorsunuz. Aşağıdaki grafik küçük olabilir ama büyüklükleri göstermesi açısından oldukça etkileyici. 
+DeFi zaten yeterince karışık bir de türev piyasalar mı çıktı başımıza? Evet, öyle. Zira türev piyasalar DeFi hareketinin en hızlı büyüyen aktörlerinden. Böyle olması da normal zira klasik anlamda sermaye piyasalarına baktığınızda aslında en hızlı büyüyen ve şu anda da en büyük pazarın türev pazarı olduğunu görüyorsunuz. Aşağıdaki grafik küçük (ve bir parça bayat) olabilir ama büyüklükleri göstermesi açısından oldukça etkileyici. 
 
 | ![Global_volumes](/assets/assets_global.jpg)|
 |:--:| 
