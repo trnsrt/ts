@@ -27,30 +27,36 @@ Bunun yanında DeFi türev oyuncuları klasik türev hizmeti verenlerin sunabild
 Bunun yanında DeFi ürünleri kullanmanın bir başka avantajı daha önceleri de bahsettiğimiz kullanıcıya verilen güç. Özellikle herhangi bir türev pazarından aldığınız herhangi bir ürünü, bir başka DeFi platformu üzerinden satabiliyorsunuz. Ne de olsa kontratı yapan kişi olarak kontrat sizin. O kontrat Ethereum zinciri üzerine işleniyor ama anahtarı sizde. İşlem yapmak için daha karlı bir platform bulduğunuz anda cüzdanınızı saniyeler içinde o platforma bağlayıp işlemi oradan gerçekleştirebilirsiniz. 
 
 ### Kim bu DeFi piyasa oyuncuları?
-DeFi içinde türev piyasaları hızla büyüdüğünden bahsetmiştik. Oyuncular arasında en büyüğü Avustralya bazlı olan [Synthetix](https://www.synthetix.io/)  üzerine kilitli ETH miktarı olarak 800 milyon ABD Doları'na [yaklaşmış durumda](https://defipulse.com/). (Önümüzdeki haftaki yazımızda daha detaylı olarak bakacağız kendisine). Synthetix yanında [dydx](https://dydx.exchange/), [UMA](https://umaproject.org/) diğer ilgi çekici projeler bu alanda... 
+DeFi içinde türev piyasaları hızla büyüdüğünden bahsetmiştik. Oyuncular arasında en büyüğü Avustralya bazlı olan [Synthetix](https://www.synthetix.io/) adı gibi sentetik türev ürünleri sunuyor ve üzerine kilitli ETH miktarı olarak 800 milyon ABD Doları'na [yaklaşmış durumda](https://defipulse.com/). (Önümüzdeki haftaki yazımızda daha detaylı olarak bakacağız kendisine). Benzer şekilde sentetik ürünler sunan [UMA](https://umaproject.org/) ve kaldıraçlı işlem yapmaya olanak sağlayan [dydx](https://dydx.exchange/) diğer ilgi çekici projeler bu alanda... 
 
 ### Peki riskler neler?
 
-Geldik DeFi ile ilgili hemen hemen her yazıda bahsettiğimiz risk olayına. Efendim, DeFi'da riskler çok. Ama türev piyasalarında riskler klasik piyasalara göre çok daha fazla!.. 
+Geldik DeFi ile ilgili hemen hemen her yazıda bahsettiğimiz risk olayına. Efendim, DeFi'da riskler çok. Ama türev piyasalarında riskler klasik piyasalara göre daha da fazla!.. 
 
-Neden? Çünkü türev piyasalarının ana enstrümanı risk ve bu riski dağıtmak, ama riski dağıtmak amacıyla oluşturulan yeni türev enstrümanları ile riskin gerçekleştiği durumdaki meydana gelen hasar çok daha fazla hâle gelebiliyor. Örneğin 2008 yılında ABD'de patlayan krizin temel nedeni olarak gayrimenkul fiyatları deriz ama özünde sorunu krize döndür kat be kat artmasının sağlayan da türev piyasaları idi... KALDIRAC ORANINA GÖRE UNDERLYING ASSET'DEKİ DEĞISIM SIZE KALDIRAÇ ETKİSİNDEN DOLAYI 10 YA DA 100 KAT FAZLASINA MAL OLABİLİYOR
+Neden? Çünkü türev piyasalarının ana enstrümanı risk ve bu riski dağıtmak, ama riski dağıtmak amacıyla oluşturulan yeni türev enstrümanları ile riskin gerçekleştiği durumdaki meydana gelen hasar çok daha fazla hâle gelebiliyor. Örneğin 2008 yılında ABD'de patlayan krizin temel nedeni olarak gayrimenkul fiyatları deriz ama özünde sorunu krize döndür kat be kat artmasının sağlayan da türev piyasaları idi... 
 
-Dolayısıyla DeFi üzerindeki türev piyasaları da benzer şekilde oldukça riskli. Öncelikle üzerine kurulu oldukları varlıkların riskini taşıyorlar. Onun da üstünde hep bahsettiğimiz yazılı oldukları Akıllı Kontratların kodlanmasında yaşanabilecek hatalar sorun yaratabiliyor. 
+DeFi üzerindeki türev piyasaları da benzer şekilde oldukça riskli. Öncelikle üzerine kurulu oldukları varlıkların riskini taşıyorlar. Eğer kaldıraçlı işlem yapıyorsanız borçlandığınız orana göre çıpaladığınız varlıktaki değişim size 10 ile 100 kat daha fazla etki edebiliyor. 
+
+Onun da üstünde hep bahsettiğimiz yazılı oldukları Akıllı Kontratların kodlanmasında yaşanabilecek hatalar sorun yaratabiliyor. 
 
 Keza bu tip ürünleri kullanırken hep teminat vermek zorundasınız. Bu teminatlar DeFi piyasalarında genelde kripto paralar oluyorlar. Bu kripto paralardaki değer değişiminin teminatınızın azaltması riski var. Teminatınız eğer istenen seviyelerin altında kalırsa kontrat bir ceza ile birlikte likidite olur ve ciddi bir kayıba uğrarsınız.  
 
 Öte yandan, özellikle türev piyasalarında rezerv para olarak kullanılan sabit (ya da stabil) paralar dediğimiz genelde ABD Dolarına bağlı olan kripto paralar (USDT, USDC gibi) aslında kendileri de bir nevi türev ürünler. Akıllı kontratlar ile yazılmış kod parçacıkları. Bu paraların karşılığı ABD Doları olarak gerçekten bankada tutuluyor mu bu da bir risk. 
 
-Şimdi bu kadar riskten bahsedince gözünüz korkabilir - çok normal. Ancak unutmayın, risklerin yanında bu risklerden korunmayı gerektirecek önlemler de var:
+Özetle, protokol üzerine protokol üzerine protokol şeklinde türeyen bu ürünlerde her bir protokolün getirdiği riskleri de göğüslemek zorunda kullanıcılar. 
+
+Şimdi bu kadar riskten bahsedince gözünüz korkabilir - çok normal. Ancak unutmayın, risklerin yanında bu risklerden korunmak için önlemler de var:
 
 Bir kere bu tür ürünleri kullandığınız durumda sistem karşı taraf riskini engellemek için mutlaka teminat yatırılmasını istiyor. Ve bu teminatlar DeFi ürünlerde normalin de üzerinde oldukça yüksek rakamlar. 
 
-İkincisi bu kontratların çoğunluğu dış denetim (audit) geçiriyorlar. Audit geçirmek "a herşey süper kontrat çok güvenli" anlamına gelmiyor tabii ki. Ancak yine de biz konunun dışındakilere en azında kod yazımı anlamında bir hata olmadığı konusunda bir parça rahatlık veriyor. Tabii yine de bunlara güvenmezseniz (ki kimse "neden güvenmiyorsun?" diyemez) o zaman elinizde olmayan teknik risklerden sizi koruyacak sigorta yaptırmak da mümkün.. 
+İkincisi bu kontratların çoğunluğu dış denetim (audit) geçiriyorlar. Audit geçirmek "a herşey süper kontrat çok güvenli" anlamına gelmiyor tabii ki. Ancak yine de biz konunun dışındakilere en azında kod yazımı anlamında bir hata olmadığı konusunda bir parça rahatlık veriyor. 
 
-Aslında bu tip ürünler üzerinde soru işareti olması çok normal. Zira bu ürünler yeni ve yeterince test edilmemişler. Üzerinden zaman geçtikçe, değişik değişik senaryolar yaşadıkça bu ürünler daha kabul görür olacak ve sağlam hâle gelir olacaklar. Tabii o zamana kadar da bu ürünlere talep ciddi şekilde artacak ve ilk başlangıçta yüksek kârlar da talep arttıkça azalacak. Yani piyasa mekanizması çalışacak ve yüksek risk/yüksek getiri denkleminden düşük risk/düşük getiri eksenine doğru geçecek bu ürünlerin bir çoğu. 
+Tabii yine de bunlara güvenmezseniz (ki kimse "neden güvenmiyorsun?" diyemez) o zaman elinizde olmayan teknik risklerden sizi koruyacak sigorta yaptırmak da mümkün.. 
+
+Aslında bu tip ürünler üzerinde soru işareti olması çok normal. Zira bu ürünler yeni ve yeterince test edilmemişler. Üzerinden zaman geçtikçe, değişik değişik senaryolar yaşadıkça bu ürünler daha kabul görür olacak ve sağlam hâle gelir olacaklar. Tabii o zamana kadar da bu ürünlere talep ciddi şekilde artacak ve ilk başlangıçta kazanılan yüksek kârlar da talep arttıkça azalacak. Yani piyasa mekanizması çalışacak ve yüksek risk/yüksek getiri denkleminden düşük risk/düşük getiri eksenine doğru geçış yaşayacağız hep birlikte. 
 
 ### Arkası yarın: Nasıl çalışıyor bu ürünler?
-Şimdiye kadar türev ürünlere kabaca baktık ancak ne olduklarına ve sistemin nasıl çalıştığına çok değinmedik. Önümüzdeki yazıda bu alandaki en büyük oyuncu olan Synthetix üzerinden merkeziyetsiz bir türev piyasası nasıl çalışıyor ona bakalım... 
+Şimdiye kadar türev ürünlere kabaca baktık ancak ne olduklarına ve sistemin nasıl çalıştığına çok değinmedik. Önümüzdeki yazıda bu alandaki en büyük oyuncu olan Synthetix üzerinden sentetik ürünler için bir türev piyayası nasıl merkeziyetsiz olur ona bakalım... 
 
 
 ### Synthetix ne yapar?
