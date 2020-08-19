@@ -8,8 +8,6 @@ Peki ya bu varlığı elinizde tutmak istemiyor ya da tutmuyor ama değer deği�
 
 Aslında türev piyasalarının asıl çıkış amacı getirinin ikiz kardeşi olan riski yönetmek. Özellikle alım-satım yapanların gelecekte oluşabilecek her tür duruma karşı kendilerine korumak ve risklerini azaltmak için türev piyasalarını kullandığını da hızlıca belirtelim. 
 
-TEMINAT KONULUR ve BU TEMINATIN HEPSINI KAYBEDEBİLİRSİNİZ
-
 DeFi zaten yeterince karışık bir de türev piyasalar mı çıktı başımıza? Evet, öyle. Zira türev piyasaları DeFi hareketinin en hızlı büyüyen aktörlerinden. Böyle olması da normal zira klasik anlamda sermaye piyasalarına baktığınızda aslında en hızlı büyüyen ve şu anda da en büyük pazarın türev pazarı olduğunu görüyorsunuz. Aşağıdaki grafik küçük (ve bir parça bayat) olabilir ama büyüklükleri göstermesi açısından oldukça etkileyici. 
 
 | ![Global_volumes](/assets/assets_global.jpg)|
@@ -39,7 +37,7 @@ DeFi üzerindeki türev piyasaları da benzer şekilde oldukça riskli. Öncelik
 
 Onun da üstünde hep bahsettiğimiz yazılı oldukları Akıllı Kontratların kodlanmasında yaşanabilecek hatalar sorun yaratabiliyor. 
 
-Keza bu tip ürünleri kullanırken hep teminat vermek zorundasınız. Bu teminatlar DeFi piyasalarında genelde kripto paralar oluyorlar. Bu kripto paralardaki değer değişiminin teminatınızın azaltması riski var. Teminatınız eğer istenen seviyelerin altında kalırsa kontrat bir ceza ile birlikte likidite olur ve ciddi bir kayıba uğrarsınız.  
+Keza bu tip ürünleri kullanırken hep teminat vermek zorundasınız. Teminat DeFi piyasalarında genelde kripto para. Bu kripto paralardaki değer değişiminin teminatınızın azaltması riski var. Eğer istenen teminat oranlarının altında kalırsanız ceza ile birlikte likidite olur ve ciddi bir kayıba uğrarsınız.  
 
 Öte yandan, özellikle türev piyasalarında rezerv para olarak kullanılan sabit (ya da stabil) paralar dediğimiz genelde ABD Dolarına bağlı olan kripto paralar (USDT, USDC gibi) aslında kendileri de bir nevi türev ürünler. Akıllı kontratlar ile yazılmış kod parçacıkları. Bu paraların karşılığı ABD Doları olarak gerçekten bankada tutuluyor mu bu da bir risk. 
 
