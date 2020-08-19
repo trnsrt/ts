@@ -1,28 +1,30 @@
 DeFi yani Merkeziyetsiz finansın temel amacı klasik anlamda finans alanında bize yardım eden aracıları ortadan kaldırmak (ya da onlara ucuz bir alternatif olmak). Bu aracılar olarak ilk akla gelen de bankalar. Ama DeFi yalnızca bankalara olan ihtiyacı ortadan kaldırmıyor. Sermaye piyasalarındaki her türlü aracı DeFi oyuncularının tehdidi altında. Ve hiçbir klasik piyasa DeFi'dan kendini korumak konusunda rahat olmamalı. Bakın onlardan biri daha: Türev piyasaları.. 
 
-### Nedir türev piyasaları
+### Nedir türev piyasaları?
 
 Türev piyasaların ne olduğunu çok detaylı girmeyeceğiz yazımızda. Ancak türev adı üzerinde türetilmiş demek. Yani herhangi bir varlıktan türemiş enstrümanlar. Ne demek bu? En basit tabiri ile şöyle açıklayalım. Alım satıma açık her varlığın bir değeri vardır. Bu değer zaman içinde azalır ya da artar. Klasik anlamda kazanç sağlamak için bu varlığı elinizde tutar, düşük fiyattan alır (ya da üretir) ve yüksek fiyattan satarsınız. Ama bunu yapabilmek için o varlığı elinizde tutmalısınız. 
 
-Peki ya bu varlığı elinizde tutmak istemiyor ya da tutmuyor ama değer değişimlerinden fayda sağlamak istiyorsanız? Olabilir mi? Olur tabii neden olmasın? İşte türev piyasalar temel itibariyle bunu sağlıyor: Herhangi bir varlığı belli bir fiyattan almak isteyen bir taraf ile aynı fiyattan satmak isteyen bir başka tarafı bahsedilen varlığın elde olmasına ihtiyaç duymadan bir araya getiriyor.  
+Peki ya bu varlığı elinizde tutmak istemiyor ya da tutmuyor ama değer değişimlerinden fayda sağlamak istiyorsanız? Olabilir mi? Olur tabii neden olmasın? İşte türev piyasalar temel itibariyle bunu sağlıyor: Herhangi bir varlığı belli bir fiyattan almak isteyen bir taraf ile aynı fiyattan satmak isteyen bir başka tarafı bahsedilen varlığın elde olmasına ihtiyaç duymadan bir araya getiriyor. Örneklerini ise aslında çoğumuz duymuşuzdur, vadeli işlemler olarak geçen futures, forwards, options, swaps gibi.. 
 
 DeFi zaten yeterince karışık bir de türev piyasalar mı çıktı başımıza? Evet, öyle. Zira türev piyasalar DeFi hareketinin en hızlı büyüyen aktörlerinden. Böyle olması da normal zira klasik anlamda sermaye piyasalarına baktığınızda aslında en hızlı büyüyen ve şu anda da en büyük pazarın türev pazarı olduğunu görüyorsunuz. Aşağıdaki grafik küçük olabilir ama büyüklükleri göstermesi açısından oldukça etkileyici. 
-
-[Bütün piyasalar büyüklükleri balonlar]
 
 | ![Global_volumes](/assets/assets_global.jpg)|
 |:--:| 
 | *Tüm dünyadaki ekonomik büyüklükler (Ocak 2019). En soldaki ufak noktayı okuyamadıysanız dertlenmeyin: "Bitcoin" kendisi :) [Kaynak](https://howmuch.net/articles/visualizing-the-biggest-economic-bubbles)*|
 
+### DeFi türev piyasalarına neden ihtiyaç var?
 
-### DeFi türev piyasalarında nasıl çalışıyor
+Aslına bakarsanız, türev piyasalarında faaliyet gösteren merkezi oyuncular ve sistemler gayet pratik, hızlı ve müşterinin istediği çözümleri sunabilen sistemler. Peki o zaman bunu merkeziyetsiz olarak sunmaya gerek var mı? Her ne kadar daha çok küçük olsalar da hızla büyümeleri nedeniyle DeFi ürünlere ihtiyaç olduğu görülüyor. Neden?
 
-Türev piyasalarının çalışması için iki parti olması gerekiyor. Bu iki partiden biri riski alan diğeri de riski satan. 
+En önemli nedenlerden biri sisteme giriş kolaylığı. Merkezi olarak türev ürünleri sunan piyasalara girmek için gerekli prosedür hem zahmetli hem de kimileri için (örneğin coğrafi kısıtlar nedeniyle) imkansız. Ama eğer kripto paralar ile bir haşır neşirliğiniz var ise, örneğin ETH tutan bir cüzdana sahipseniz bu borsalarda işlem yapmaya başlamanız bırakın saatleri dakikalar içinde mümkün. 
 
+Bunun yanında DeFi türev oyuncuları klasik türev hizmeti verenlerin sunabildiği her tür fiziki piyasaya ait varlıkların çok daha ötesinde hizmetler sunabiliyorlar kullanıcılara. Örneğin son zamanlarda adını sıkça duymaya başladığımız yield farming benzeri ürünler ile DeFi üzerinden farklı yollardan ekstra kazanç sağlamak da mümkün.
 
-### DeFi türev piyasası büyüklüğü ne kadar?
+Bunun yanında DeFi ürünleri kullanmanın bir başka avantajı daha önceleri de bahsettiğimiz kullanıcıya verilen güç. Özellikle herhangi bir türev pazarından aldığınız herhangi bir ürünü, bir başka DeFi platformu üzerinden satabiliyorsunuz. Ne de olsa kontratı yapan kişi olarak kontrat sizin. O kontrat Ethereum zinciri üzerine işleniyor ama anahtarı sizde. İşlem yapmak için daha karlı bir platform bulduğunuz anda cüzdanınızı saniyeler içinde o platforma bağlayıp işlemi oradan gerçekleştirebilirsiniz. 
+
 
 ### Kim bu DeFi piyasa oyuncuları?
+DeFi içinde türev piyasaları hızla büyüdüğünden bahsetmiştik. Oyuncular arasında en büyüğü Avustralya bazlı olan [Synthetix](https://www.synthetix.io/) DeFi Pulse'da kilitli ETH miktarı olarak 1 milyar ABD Doları'na yaklaşmış durumda. Synthetix'e önümüzdeki haftaki yazımızda daha detaylı olarak bakacağız. Synthetix yanında [dydx](https://dydx.exchange/), [UMA](https://umaproject.org/) diğer büyük ve ilgi çekici projeler bu alanda... 
 
 ### Peki riskler neler?
 
