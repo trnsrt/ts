@@ -12,7 +12,7 @@ DeFi zaten yeterince karışık bir de türev piyasalar mı çıktı başımıza
 
 | ![Global_volumes](/assets/assets_global.jpg)|
 |:--:| 
-| *Tüm dünyadaki ekonomik büyüklükler. Kaynak](https://howmuch.net/articles/visualizing-the-biggest-economic-bubbles)*|
+| *Tüm dünyadaki ekonomik büyüklükler. [Kaynak](https://howmuch.net/articles/visualizing-the-biggest-economic-bubbles)*|
 
 
 ### DeFi türev piyasalarında nasıl çalışıyor
