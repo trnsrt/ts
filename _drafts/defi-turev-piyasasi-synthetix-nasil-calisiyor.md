@@ -93,6 +93,6 @@ Birincisi, SNX fiyatının ani olarak düşmesi sonucu paydaşların havuza para
 
 İkinci temel risk - yapılan işlemlerin ağırlık olarak bir tarafa kayması sonucu riskin ve havuzun borcunun bir anda büyümesi olabilir: Örneğin şu anda sistemde sBTC tutanların oranı %22. Bu oran %100’lere yaklaşırsa ve aniden Bitcoin fiyatı iki katına çıkarsa o zaman bu işlem yapanlara havuz bu parayı nasıl ödeyecek? Paydaşlar havuza para koymaya devam edecekler mi? Yoksa “elimde tuttuğum SNX’ler feda olsun, ben borcumu ödemiyorum” deyip sistemden kaçabilirler mi?. Elbette yukarıda bahsettiğimiz gibi teminat miktarı yaklaşık %750 oranlarında - bu endişeleri gidermekte bir miktar faydalı olabilir. Ancak şunu unutmamak lazım - bu teminat SNX fiyatları üzerinden belirleniyor. SNX fiyatı 2019 yazında 30 cent'ten bir yıl sonra 6 ABD Doları'na kadar geldi. SNX değeri artınca paydaşların teminat miktarları da artıyor ve paydaşlar daha fazla sUSD üretebiliyorlar, bu da likiditeyi artırdığı gibi riski de artırıyor. 
 
-
+Yukarıdaki iki konu gibi risk olmasa da sistem ile ilgili bir başka sıkıntı da yüksek gas fiyatları (sistemde borç yaratmak gibi işlemler için Ethereum üzerindeki işlem maliyeti). Bunun temel nedeni türev işlemlerinin çok karmaşık olması nedeniyle sisteme ağır gelmesi. Synthetix ekibi bunun önüne geçmek için Ethereum üzerine [ikinci seviye çözümler üzerinde çalışıyor](https://synthetix.community/docs/why-is-gas-so-high)
 
 [^1] *Synthetix üzerindeki her bir sentetik ürüne kısaca Synth deniyor ancak çok fazla terim olmaması için dipnot olarak buraya bırakıyoruz..* 
