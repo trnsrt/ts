@@ -15,15 +15,15 @@ Synthetix sistemindeki gerçek varlık yok. Onun yerine her bir ürünün sentet
 
 Kullanıcı sonrasında elindeki bu sUSD ile istediği herhangi bir ürünü, örneğin sBTC’yi alıp istediği kadar elinde tutuyor. Canı istediğinde ise sBTC’yi sistemde satarak sUSD alıp, sUSD’yi yine aynı şekilde kripto para borsalarında satarak sistemden çıkabiliyor. 
 
-#### Ne tip ürünler var bu Synthetix'de?
+##### Ne tip ürünler var bu Synthetix'de?
 
 Beş ayrı kategori var. İtibari paralar, emtialar, kripto paralar, kripto para endeksleri ve kripto para fiyatlarını tersten izleyen inverse-kripto paralar.. Bu beş kategoride Ağustos 2020 itibariyle [16 adet ürün var](https://dashboard.synthetix.io/) var. 
 
-#### Peki sistemdeki ürünlerin fiyatları kim belirliyor?
+##### Peki sistemdeki ürünlerin fiyatları kim belirliyor?
 
 Sistemde iki taraf olmadığı ve yaratılan türev ürünlerin hepsi sistem içi ürünler olduğu için bu ürünlerin fiyatlarının belirlenmesinde, piyasa fiyatları alınıyor. Merkezi olmayan sistemlerde piyasa fiyatlamaları genelde Oracle denen dış (off-chain) bilgi sağlayıcılardan üç dakikada bir alınıyor. 
 
-#### Sorular, sorular... 
+##### Sorular, sorular... 
 
 Buraya kadar her şey basit ve anlaşılır umarım. Ancak ortada birkaç soru var sorulması gereken - sizin de aklınıza takılıyor olabilir. 
 - Bu sUSD ne menem bir şeydir? Nereden çıkmış, neden ben kullanıcı olarak sUSD satın almak için para vereyim? 
@@ -67,29 +67,7 @@ Doğru böyle bir risk var. Bu riski bertaraf etmek için başlangıç aşaması
 
 Öte yandan hiçbir ürün sürekli yükselmez, genel anlamda yükselişlerde bile arada düşüşler yaşar. Kişilerin beklentileri de her zaman aynı yönde olmaz. Burada da her bir ürünü alabildiğiniz gibi satabiliyorsunuz da.. Dolayısıyla piyasa ne kadar likit olup yükseliş ve düşüşe oynayanlar karşı karşıya gelirse aslında havuz riski de o kadar düşüyor ve havuz her iki taraftan da işlem ücreti alarak hayatına devam ediyor. 
 
-#### “Peki ben havuzun nimetlerinden yararlanmak istiyorum ancak o riski almak istemiyorum” derseniz? 
+##### “Peki ben havuzun nimetlerinden yararlanmak istiyorum ancak o riski almak istemiyorum” derseniz? 
 
 O da mümkün. Nasıl mı? O zaman, yarattığınız sUSD ile gidin sistem üzerindeki yapılmış işlemlerden oransal olarak aynısını yapın (hatta bunu endeks fonu gibi otomatik yapan araçlar da var). Böylece riskinizi karşılamış (hedge etmiş) olacaksınız, havuz kaybederse siz kullanıcı olarak o kaybettiğiniz parayı işlem yaparak kazanmış olacaksınız. 
 
-
-
-
-##### İyi de karşı parti olmadan piyasa çalışmaz ki? 
-Çok haklısınız. Synthetix'de ise karşı taraf olarak bir havuz var. 
-
-Bu havuz sistemin parası olan SNX'lerden oluşuyor.  SNX sistemin temel direği. Zira SNX, DeFi sistemlerin en büyük ihtiyacı olan likiditeyi sağlıyor sistem. Bir piyasa ne kadar az likit ise al-sat arasındaki fark da o kadar büyük olur ve yatırımcı olarak gereksiz bir kayba uğrarsınız. Hele bir de farklı farklı bir sürü ürün olursa, karşı parti bulmak o kadar zorlaşır ve likidite iyice azalır. SNX sistemin ortak parası olarak tüm ürünlerde kullanıcılar için karşı parti oluyor, yani tüm ürünlere bir havuz aracılığıyla likidite sağlıyor. 
-
-
-
-Niye SNX gibi bir ürün çıkmış peki? Temel nedeni sisteme özgü, sistemde duran bir para olan SNX kullanılarak bir türev üründen diğerine hızlı ve ucuz sağlanıyor (ingilizcede friction-sürtünme ve slippage/sızıntı olarak tabir edilen kayıplar önleniyor). 
-
-
-Kim kurmuş?
-Nasıl çalışır?
-
-### UMA nasıl 
-
-Ortakları kimler?
-Nasıl çalışır
-
-### Synthetix ile UMA'nın farkları
