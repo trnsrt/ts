@@ -62,9 +62,11 @@ Havuzdan borç alarak sUSD yaratanların iki temel kazancı var. Bunlardan biri,
 
 Bunun yanında tabii ki, kullanıcı yaptığı işlemden kâr ederse bu kâr havuzun zararı oluyor ve havuzdan kullanıcıya ödeniyor. Ya da zarar ederse aynı şekilde bu zarar havuzun kârı olarak havuza aktarılıyor ve sonunda SNX sahiplerinin oluyor. 
 
-Son olarak paydaş olarak yarattığınız sUSD ile sBTC ve benzeri türev ürünler de satın alabiliyor paydaşlar ve aynı zamanda sistemin kullanıcısı olabiliyorlar. 
+#### sUSD yaratan paydaş bununla neler yapabilir?
 
-Bunun yanında sUSD yarattığınızda bunu farklı şekillerde değerlendirebilirsiniz. Örneğin borsalarda bire bir ABD Doları karşılığı satıp ihtiyaçlarınızda kullanabilirsiniz. Ancak unutulmaması gereken, sUSD yarattığınız her noktada havuzun diğer işlem yapanlara karşı olan riskini almış oluyorsunuz. 
+Paydaş yarattığı sUSD ile sBTC ve benzeri türev ürünler de satın alabiliyor ve aynı zamanda sistemin kullanıcısı olabiliyorlar. Ya da sUSD'yi borsalarda satıp karşılığında başka kripto paralar alabilir. Son olarak sUSD'yi alıp başka platformlarda borç olarak verebilir. 
+
+Bütün bunların hiçbirini yapmayıp sUSD'yi öylece boşta da tutabilir paydaşlar ancak bunun riskli olduğu unutulmamalı. Zira sUSD yarattığınız her noktada havuzun diğer işlem yapanlara karşı olan riskini (kâr ya da zararı da) almış oluyorsunuz. 
 
 ##### O zaman çok riskli değil mi SNX yatırımcısı olmak? Ya kullanıcılar hep kârlı işlem yapar da havuz zarar ederse? 
 Doğru böyle bir risk var. Bu riski bertaraf etmek için başlangıç aşamasında sistem belli aralıklarla SNX basıp kullanıcılara dağıtarak yatırımcıları teşvik etmeye çalışmış ama bu durum bundan sonra devam edecek mi bir garantisi yok.   [BUNU TEKRAR CHECK ETMEKTE FAYDA VAR]
