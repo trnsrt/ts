@@ -44,6 +44,12 @@ Havuzun çalışma sistemi ise şöyle: Her bir paydaş yarattığı sUSD oranı
 ##### Peki nereden geliyor bu SNX? 
 Havuz sistemine SNX kilitleyip sUSD basan ve bunun karşılığında para kazanan paydaşlardan. SNX bir token - 2018 yılında 100 milyon adet olarak basılıp ekibe, ilk yatırımcılara ve ICO'da genel halka dağıtılmış. Aslında orjinalde planlanan tüm SNX miktarı bu iken, sonrasında ekip para politikasını değiştirmeye karar vermiş ve [2024 yılına kadar ekstra 145 milyon SNX daha dağıtmaya karar vermiş](https://messari.io/asset/synthetix/profile#launch). Nasıl dağıtılacağı bir sonraki bölümde. 
 
+SNX_price_2020.png
+
+
+| ![SNX_price_2020](/assets/SNX_price_2020.png)|
+|:--:| 
+| *SNX'in 2020 yılı içindeki değişimi (2018-2020 arası yatay seyretmiş) [Kaynak](https://www.coingecko.com/en/coins/synthetix-network-token)*|
 
 
 Peki bir paydaş neden SNX alsın ve kendini riske atsın? Öncelikle SNX basılmaya başladığı günden bugüne çok ciddi değer kazandı. Ama bu spekülatif bir değer. SNX tokenin paydaşlara getirisi var mı? Gelin bir de ona bakalım şimdi. 
