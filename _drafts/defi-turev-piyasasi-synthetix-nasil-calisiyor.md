@@ -47,7 +47,7 @@ Havuz sistemine SNX kilitleyip sUSD basan ve bunun karşılığında para kazana
 SNX_price_2020.png
 
 
-| ![SNX_price_2020](/assets/SNX_price_2020.png)|
+| ![SNX_price_2020](/assets/SNX_price_2020_short.png)|
 |:--:| 
 | *SNX'in 2020 yılı içindeki değişimi (2018-2020 arası yatay seyretmiş) [Kaynak](https://www.coingecko.com/en/coins/synthetix-network-token)*|
 
