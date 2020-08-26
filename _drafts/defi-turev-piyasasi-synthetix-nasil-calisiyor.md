@@ -21,7 +21,7 @@ Beş ayrı kategori var. İtibari paralar, emtialar, kripto paralar, kripto para
 
 #### Peki sistemdeki ürünlerin fiyatları kim belirliyor?
 
-Sistemde iki taraf olmadığı ve yaratılan türev ürünlerin hepsi sistem içi ürünler olduğu için bu ürünlerin fiyatlarının belirlenmesinde, piyasa fiyatları alınıyor. Merkezi olmayan sistemlerde piyasa fiyatlamaları genelde Oracle denen dış (off-chain) bilgi sağlayıcılardan üç dakikada bir alınıyor. 
+Sistemde iki taraf olmadığı ve yaratılan türev ürünlerin hepsi sistem içi ürünler olduğu için bu ürünlerin fiyatlarının belirlenmesinde, piyasa fiyatları alınıyor. Merkezi olmayan sistemlerde piyasa fiyatlamaları genelde Oracle denen dış (off-chain) bilgi sağlayıcılardan (Synthetix [Chainlink'i kullanıyor](https://blog.synthetix.io/chainlink-decentralizes-first-wave-of-synthetix-price-feeds/)) üç dakikada bir alınıyor. 
 
 ##### Sorular, sorular... 
 
@@ -46,7 +46,7 @@ sUSD yaratımında teminat olarak konan SNX’ler borsalarda alıp satılan toke
 
 
 ##### Peki nereden geliyor bu SNX? 
-Havuz sistemine SNX kilitleyip sUSD basan ve bunun karşılığında para kazanan paydaşlardan. SNX bir token - 2018 yılında 100 milyon adet olarak basılıp ekibe, ilk yatırımcılara ve ICO'da genel halka dağıtılmış. Aslında orjinalde planlanan tüm SNX miktarı bu iken, sonrasında ekip para politikasını değiştirmeye karar vermiş ve [2024 yılına kadar ekstra 145 milyon SNX daha dağıtmaya karar vermiş](https://messari.io/asset/synthetix/profile#launch). Nasıl dağıtılacağı bir sonraki bölümde. 
+Havuz sistemine SNX kilitleyip sUSD basan ve bunun karşılığında para kazanan paydaşlardan. SNX bir token - 2018 yılında 100 milyon adet olarak basılıp ekibe, ilk yatırımcılara ve ICO'da genel halka dağıtılmış. Aslında orjinalde planlanan tüm SNX miktarı bu iken, sonrasında ekip para politikasını değiştirmeye karar vermiş ve [2024 yılına kadar ekstra 145 milyon SNX daha dağıtmaya karar vermiş](https://messari.io/asset/synthetix/profile#launch). (Nasıl dağıtılacağı bir sonraki bölümde) 
 
 | ![SNX_price_2020](/assets/SNX_price_2020_short_v2.png)|
 |:--:| 
