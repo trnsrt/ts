@@ -41,24 +41,40 @@ Synthetix sistemini aslında sanal bir ülke gibi düşünmek mümkün. Nasıl b
 
 Havuzun çalışma sistemi ise şöyle: Her bir paydaş yarattığı sUSD oranında havuzun borcuna ortak oluyor. Eğer işlem yapanlar sBTC aldılar ve sBTC yükseldi ise, o zaman havuzun borcu büyüyor dolayısıyla havuzdan borç alanların da borcu büyüyor.  Tam tersi durumda işlem yapan zarar ederse (bu örnekte olduğu gibi sBTC fiyatı düşerse) o zaman da havuz kâr etmiş oluyor ve borcu düşüyor. 
 
-
-
-##### İyi de karşı parti olmadan piyasa çalışmaz ki? 
-Çok haklısınız. Synthetix'de ise karşı taraf olarak bir havuz var. 
-
-Bu havuz sistemin parası olan SNX'lerden oluşuyor.  SNX sistemin temel direği. Zira SNX, DeFi sistemlerin en büyük ihtiyacı olan likiditeyi sağlıyor sistem. Bir piyasa ne kadar az likit ise al-sat arasındaki fark da o kadar büyük olur ve yatırımcı olarak gereksiz bir kayba uğrarsınız. Hele bir de farklı farklı bir sürü ürün olursa, karşı parti bulmak o kadar zorlaşır ve likidite iyice azalır. SNX sistemin ortak parası olarak tüm ürünlerde kullanıcılar için karşı parti oluyor, yani tüm ürünlere bir havuz aracılığıyla likidite sağlıyor. 
-
 ##### Peki nereden geliyor bu SNX? 
-Havuz sistemine SNX koyan ve bunun karşılığında para kazanan paydaşlardan. 
+Havuz sistemine SNX kilitleyip sUSD basan ve bunun karşılığında para kazanan paydaşlardan. SNX bir token - 2018 yılında 100 milyon adet olarak basılıp ekibe, ilk yatırımcılara ve ICO'da genel halka dağıtılmış. Aslında orjinalde planlanan tüm SNX miktarı bu iken, sonrasında ekip para politikasını değiştirmeye karar vermiş ve [2024 yılına kadar ekstra 145 milyon SNX daha dağıtmaya karar vermiş](https://messari.io/asset/synthetix/profile#launch). Nasıl dağıtılacağı bir sonraki bölümde. 
 
-SNX koyan yatırımcılar nasıl para kazanıyorlar? Öncelikle havuzu kullanarak alım-satım yapan her kullanıcı bunun karşılığında bir bedel ödüyor. Bu ödenen bedel SNX sahiplerine gidiyor. Bunun yanında tabii ki, kullanıcı yaptığı işlemden kâr ederse bu kâr havuzun zararı oluyor ve havuzdan kullanıcıya ödeniyor. Ya da zarar ederse aynı şekilde bu zarar havuzun kârı olarak havuza aktarılıyor ve sonunda SNX sahiplerinin oluyor. 
+
+
+Peki bir paydaş neden SNX alsın ve kendini riske atsın? Öncelikle SNX basılmaya başladığı günden bugüne çok ciddi değer kazandı. Ama bu spekülatif bir değer. SNX tokenin paydaşlara getirisi var mı? Gelin bir de ona bakalım şimdi. 
+
+##### Peki bu paydaşlar nereden para kazanıyorlar? 
+Havuzdan borç alarak sUSD yaratanların iki temel kazancı var. Bunlardan biri, kullanıcılar havuzda yaptıkları işlemler (örneğin sBTC satın almak gibi) için komisyon ödüyorlar. Bu komisyonlar havuza kâr olarak yazılıyor ve sUSD yaratanlara gidiyor. İkincisi ise sUSD yaratanlar havuza can suyu yani likidite sağladıkları için her hafta sistem tarafından belli bir ödüle sahip oluyorlar. Öncelikle havuzu kullanarak alım-satım yapan her kullanıcı bunun karşılığında bir bedel ödüyor. Bu ödenen bedel sUSD yaratmış paydaşlara gidiyor. 
+
+İkinci temel kazanç ise bir önceki bölümde bahsettiğimiz her yıl basılacak olan SNX'ler. Bunlar, sUSD yaratarak sisteme likidite sağlayan paydaşlara gidiyor. Paydaşlar yarattıkları sUSD bazında oransal olarak ödül olarak verilen bu SNX'lerden kazanıyorlar. 
+
+Bunun yanında tabii ki, kullanıcı yaptığı işlemden kâr ederse bu kâr havuzun zararı oluyor ve havuzdan kullanıcıya ödeniyor. Ya da zarar ederse aynı şekilde bu zarar havuzun kârı olarak havuza aktarılıyor ve sonunda SNX sahiplerinin oluyor. 
+
+Son olarak paydaş olarak yarattığınız sUSD ile sBTC ve benzeri türev ürünler de satın alabiliyor paydaşlar ve aynı zamanda sistemin kullanıcısı olabiliyorlar. 
+
+Bunun yanında sUSD yarattığınızda bunu farklı şekillerde değerlendirebilirsiniz. Örneğin borsalarda bire bir ABD Doları karşılığı satıp ihtiyaçlarınızda kullanabilirsiniz. Ancak unutulmaması gereken, sUSD yarattığınız her noktada havuzun diğer işlem yapanlara karşı olan riskini almış oluyorsunuz. 
 
 ##### O zaman çok riskli değil mi SNX yatırımcısı olmak? Ya kullanıcılar hep kârlı işlem yapar da havuz zarar ederse? 
 Doğru böyle bir risk var. Bu riski bertaraf etmek için başlangıç aşamasında sistem belli aralıklarla SNX basıp kullanıcılara dağıtarak yatırımcıları teşvik etmeye çalışmış ama bu durum bundan sonra devam edecek mi bir garantisi yok.   [BUNU TEKRAR CHECK ETMEKTE FAYDA VAR]
 
 Öte yandan hiçbir ürün sürekli yükselmez, genel anlamda yükselişlerde bile arada düşüşler yaşar. Kişilerin beklentileri de her zaman aynı yönde olmaz. Burada da her bir ürünü alabildiğiniz gibi satabiliyorsunuz da.. Dolayısıyla piyasa ne kadar likit olup yükseliş ve düşüşe oynayanlar karşı karşıya gelirse aslında havuz riski de o kadar düşüyor ve havuz her iki taraftan da işlem ücreti alarak hayatına devam ediyor. 
 
+#### “Peki ben havuzun nimetlerinden yararlanmak istiyorum ancak o riski almak istemiyorum” derseniz? 
 
+O da mümkün. Nasıl mı? O zaman, yarattığınız sUSD ile gidin sistem üzerindeki yapılmış işlemlerden oransal olarak aynısını yapın (hatta bunu endeks fonu gibi otomatik yapan araçlar da var). Böylece riskinizi karşılamış (hedge etmiş) olacaksınız, havuz kaybederse siz kullanıcı olarak o kaybettiğiniz parayı işlem yaparak kazanmış olacaksınız. 
+
+
+
+
+##### İyi de karşı parti olmadan piyasa çalışmaz ki? 
+Çok haklısınız. Synthetix'de ise karşı taraf olarak bir havuz var. 
+
+Bu havuz sistemin parası olan SNX'lerden oluşuyor.  SNX sistemin temel direği. Zira SNX, DeFi sistemlerin en büyük ihtiyacı olan likiditeyi sağlıyor sistem. Bir piyasa ne kadar az likit ise al-sat arasındaki fark da o kadar büyük olur ve yatırımcı olarak gereksiz bir kayba uğrarsınız. Hele bir de farklı farklı bir sürü ürün olursa, karşı parti bulmak o kadar zorlaşır ve likidite iyice azalır. SNX sistemin ortak parası olarak tüm ürünlerde kullanıcılar için karşı parti oluyor, yani tüm ürünlere bir havuz aracılığıyla likidite sağlıyor. 
 
 
 
