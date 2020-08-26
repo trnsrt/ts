@@ -73,7 +73,6 @@ Doğru böyle bir risk var. Bu riski bertaraf etmek için başlangıç aşaması
 
 ##### SNX'in değeri değişince ne oluyor?
 
-
 Peki ya SNX’in değeri değişince ne oluyor? Öyle ya borsada alınıp satılan bir token. SNX’in değer değişikliği teminatın değerinin de aynı şekilde değişmesi anlamına geliyor. Eğer SNX fiyatı artarsa, o zaman fazla teminatınız oluyor ve %700’e gelecek kadar ekstra sUSD basma (yani ekstra borçlanma) hakkına sahip oluyorsunuz. Peki ya düşerse? O zaman da, teminat oranının altına düşüyorsunuz. Bu durumda iki seçeceğiniz var. Ya piyasadan SNX satın alarak teminat oranınızı %700’e yükselteceksiniz, ya da borçlandığınız sUSD’lerin bir kısmını ödeyerek (buna para yakma da deniyor) yine aynı şekilde minimum teminat oranına getireceksiniz. Peki paydaş bu ikisini de yapmaz ise ne oluyor? Öyle ya, sanal dünya bu, nasıl zorlayacaksınız? O zaman öncelikle havuzun paydaşlara verdiği komisyon kârları ve ödül paralardan yararlanamıyor. [Ayrıca bir noktada LIKIDITASYON???]
 
 ##### “Peki ben havuzun nimetlerinden yararlanmak istiyorum ancak o riski almak istemiyorum” derseniz? 
