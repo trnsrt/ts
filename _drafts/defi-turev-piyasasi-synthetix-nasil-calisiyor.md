@@ -1,17 +1,28 @@
-
+Geçtiğimiz yazıda DeFi yani merkeziyetsiz finans alanındaki türev piyasaları nasıl olur ona bakmış, bu piyasaların nasıl çalıştığını bu yazıya bırakmıştık. Gelin şimdi 2020 yılının yaz aylarında bu alanın lideri olan sentetik ürünlerin piyasası Synthetix'i inceleyelim:
 
 ### Synthetix ne yapar?
-Türev piyasaların yükselen yıldızı Sythetix Avustralya çıkışlı bir ekip. 
+Türev piyasaların yükselen yıldızı Sythetix Avustralya çıkışlı ekip. ICO piyasasının en sıcak olduğu 2018 yılının başlarında yaklaşık 30 milyon ABD Doları yatırım alarak projeyi hayata geçirmeye başlamışlar. 
 
 #### Nasıl çalışıyor sistem?
 
-Sistem kısaca şöyle çalışıyor. Normalde bir türev piyasasında iki parti olması gerekirken, Synthetix'de sadece siz varsınız. Başta da dediğimiz gibi ortada bir varlık da yok, sadece o varlığın riski var. O riski siz yaratıyorsunuz. Nasıl? Öncelikle varlığın sanal bir klonunu Synthetix'de yaratıyorsunuz. Örneğin altın ya da Apple hissesi. Ortada altın yok ancak altın riskini alabilmek için sanal bir altın yaratılması durumu var. Daha karıştırmadan şu yazdıklarımızı biraz daha açalım: 
+Sistem kısaca şöyle çalışıyor. Normalde bir türev piyasasında iki parti olması gerekirken, Synthetix'de sadece siz varsınız bir de karşınızda bir havuz. Gelin öncelikle işin basit kısmından, sistemi kullanmak isteyen kişilerden (trader) başlayalım ve bu kişilere "kullanıcı" diyelim. 
 
-Öncelikle herhangi bir al-sat işlemi karşı taraf olmadan nasıl çalışır? Bunu biraz açalım: 
+### Nasıl işlem yapıyor kullanıcılar Synthetix sisteminde?
 
-#### Synthetix havuzu ne yapar? SNX ne?
+Kullanıcılar, herhangi bir varlığa sahip olmadan o varlığın riskini (yani getiri ya da götürüsünü) almak isteyen kişiler. Bunu Synthetix'de yapabilmek için bir kullanıcının öncelikle sisteme girebilmesi gerekiyor. 
 
-Synthetix sisteminde karşıda sizin aldığınız riskin tam tersini almak isteyen bir başka kullanıcı yok. 
+Synthetix sistemindeki gerçek varlık yok. Onun yerine her bir ürünün sentetik denen türevi var. Bu ürünleri alabilmek için kullanıcının öncelikle sistemin parasını almanız lazım. O da sentetik bir ürün: adı sUSD. Bir ABD Dolarına çıpalanmış bir sabit para bu. Bu parayı alabilmenin iki yolu var. Birincisi [çeşitli borsalardan sUSD satın almanız](https://www.coingecko.com/en/coins/susd), ikincisi ise biraz daha aşağıda detaylı anlatacağımız paydaş yöntemi. 
+
+Kullanıcı sonrasında elindeki bu sUSD ile istediği herhangi bir ürünü, örneğin sBTC’yi alıp istediği kadar elinde tutuyor. Canı istediğinde ise sBTC’yi sistemde satarak sUSD alıp, sUSD’yi yine aynı şekilde kripto para borsalarında satarak sistemden çıkabiliyor. 
+
+### Ne tip ürünler var bu Synthetix'de?
+
+Beş ayrı kategori var. İtibari paralar, emtialar, kripto paralar, kripto para endeksleri ve kripto para fiyatlarını tersten izleyen inverse-kripto paralar.. Bu beş kategoride Ağustos 2020 itibariyle [16 adet ürün var](https://dashboard.synthetix.io/) var. 
+
+### Peki sistemdeki ürünlerin fiyatları kim belirliyor?
+
+Sistemde iki taraf olmadığı ve yaratılan türev ürünlerin hepsi sistem içi ürünler olduğu için bu ürünlerin fiyatlarının belirlenmesinde, piyasa fiyatları alınıyor. Merkezi olmayan sistemlerde piyasa fiyatlamaları genelde Oracle denen dış (off-chain) bilgi merkezlerinden sağlanmakta. 
+
 
 ##### İyi de karşı parti olmadan piyasa çalışmaz ki? 
 Çok haklısınız. Synthetix'de ise karşı taraf olarak bir havuz var. 
