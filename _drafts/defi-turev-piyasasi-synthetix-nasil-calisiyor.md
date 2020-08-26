@@ -72,14 +72,9 @@ Paydaş yarattığı sUSD ile sBTC ve benzeri türev ürünler de satın alabili
 
 Bütün bunların hiçbirini yapmayıp sUSD'yi öylece boşta da tutabilir paydaşlar ancak bunun riskli olduğu unutulmamalı. Zira sUSD yarattığınız her noktada havuzun diğer işlem yapanlara karşı olan riskini (kâr ya da zararı da) almış oluyorsunuz. 
 
-##### O zaman çok riskli değil mi SNX yatırımcısı olmak? Ya kullanıcılar hep kârlı işlem yapar da havuz zarar ederse? 
-Doğru böyle bir risk var. Bu riski bertaraf etmek için başlangıç aşamasında sistem belli aralıklarla SNX basıp kullanıcılara dağıtarak yatırımcıları teşvik etmeye çalışmış ama bu durum bundan sonra devam edecek mi bir garantisi yok.   [BUNU TEKRAR CHECK ETMEKTE FAYDA VAR]
-
-Öte yandan hiçbir ürün sürekli yükselmez, genel anlamda yükselişlerde bile arada düşüşler yaşar. Kişilerin beklentileri de her zaman aynı yönde olmaz. Burada da her bir ürünü alabildiğiniz gibi satabiliyorsunuz da.. Dolayısıyla piyasa ne kadar likit olup yükseliş ve düşüşe oynayanlar karşı karşıya gelirse aslında havuz riski de o kadar düşüyor ve havuz her iki taraftan da işlem ücreti alarak hayatına devam ediyor. 
-
 ##### SNX'in değeri değişince ne oluyor?
 
-Peki ya SNX’in değeri değişince ne oluyor? Öyle ya borsada alınıp satılan bir token. SNX’in değer değişikliği teminatın değerinin de aynı şekilde değişmesi anlamına geliyor. Eğer SNX fiyatı artarsa, o zaman fazla teminatınız oluyor ve %700’e gelecek kadar ekstra sUSD basma (yani ekstra borçlanma) hakkına sahip oluyorsunuz. Peki ya düşerse? O zaman da, teminat oranının altına düşüyorsunuz. Bu durumda iki seçeceğiniz var. Ya piyasadan SNX satın alarak teminat oranınızı %700’e yükselteceksiniz, ya da borçlandığınız sUSD’lerin bir kısmını ödeyerek (buna para yakma da deniyor) yine aynı şekilde minimum teminat oranına getireceksiniz. Peki paydaş bu ikisini de yapmaz ise ne oluyor? Öyle ya, sanal dünya bu, nasıl zorlayacaksınız? O zaman öncelikle havuzun paydaşlara verdiği komisyon kârları ve ödül paralardan yararlanamıyor. [Ayrıca bir noktada LIKIDITASYON???]
+Peki ya SNX’in değeri değişince ne oluyor? Öyle ya borsada alınıp satılan bir token. SNX’in değer değişikliği teminatın değerinin de aynı şekilde değişmesi anlamına geliyor. Eğer SNX fiyatı artarsa, o zaman fazla teminatınız oluyor ve %700’e gelecek kadar ekstra sUSD basma (yani ekstra borçlanma) hakkına sahip oluyorsunuz. Peki ya düşerse? O zaman da, teminat oranının altına düşüyorsunuz. Bu durumda iki seçeceğiniz var. Ya piyasadan SNX satın alarak teminat oranınızı %700’e yükselteceksiniz, ya da borçlandığınız sUSD’lerin bir kısmını ödeyerek (buna para yakma da deniyor) yine aynı şekilde minimum teminat oranına getireceksiniz. Peki paydaş bu ikisini de yapmaz ise ne oluyor? Öyle ya, sanal dünya bu, nasıl zorlayacaksınız? O zaman öncelikle havuzun paydaşlara verdiği komisyon kârları ve ödül paralardan yararlanamıyor.
 
 ##### sUSD'nin sabit kalacağını nasıl garanti ediyorlar?
 Aslında böyle bir garanti yok - ancak sistemin işleyişine baktığınızda neden 1 sUSD 1 Amerikan Dolarına eşit olur anlaşılıyor. Başta da yazdığımız gibi paydaşlar sUSD'yi basarak sisteme borçlanıyorlar ve bu borcu kapatmak için sUSD yakmak zorundalar. Eğer sUSD'nin değeri 1 ABD Doları'nın altına düşerse, paydaşların piyasadan ucuza sUSD satın alıp borçlarını kapatmasını beklersiniz. Örneğin sUSD 90 cente düştü. Sistemde 1000 sUSD yaratmış (ve o sırada yaklaşık 1000 ABD Doları eline almış) bir paydaş, hemen gidip 1000 adet sUSD'ye 900 ABD Doları vererek sahip olup borcu olan 1000 sUSD'yi yakar ve 100 ABD Doları kâr eder. 
@@ -89,6 +84,15 @@ Peki ya sUSD'nin değeri yükseldi ve 1.10 ABD Doları'na geldi. O zaman da yine
 ##### “Peki ben havuzun nimetlerinden yararlanmak istiyorum ancak o riski almak istemiyorum” derseniz? 
 
 O da mümkün. Nasıl mı? O zaman, yarattığınız sUSD ile gidin sistem üzerindeki yapılmış işlemlerden oransal olarak aynısını yapın (hatta bunu endeks fonu gibi otomatik yapan araçlar da var). Böylece riskinizi karşılamış (hedge etmiş) olacaksınız, havuz kaybederse siz kullanıcı olarak o kaybettiğiniz parayı işlem yaparak kazanmış olacaksınız. 
+
+#### Riskler, çekinceler
+
+"Sistem çok güzel kurulmuş, riskler yok mu?" derseniz, hâlâ akla takılan ya da risk olarak görülebilecek alanlar var: 
+
+Birincisi, SNX fiyatının ani olarak düşmesi sonucu paydaşların havuza para koymaması gibi bir durum olabilir. Bunun %700’lük teminat nedeniyle ufak bir risk olduğunu belirtelim ancak major felaket durumlarını her zaman düşünmemiz gerek. 
+
+İkinci temel risk - yapılan işlemlerin ağırlık olarak bir tarafa kayması sonucu riskin ve havuzun borcunun bir anda büyümesi olabilir: Örneğin şu anda sistemde sBTC tutanların oranı %22. Bu oran %100’lere yaklaşırsa ve aniden Bitcoin fiyatı iki katına çıkarsa o zaman bu işlem yapanlara havuz bu parayı nasıl ödeyecek? Paydaşlar havuza para koymaya devam edecekler mi? Yoksa “elimde tuttuğum SNX’ler feda olsun, ben borcumu ödemiyorum” deyip sistemden kaçabilirler mi?. Elbette yukarıda bahsettiğimiz gibi teminat miktarı yaklaşık %750 oranlarında - bu endişeleri gidermekte bir miktar faydalı olabilir. Ancak şunu unutmamak lazım - bu teminat SNX fiyatları üzerinden belirleniyor. SNX fiyatı 2019 yazında 30 cent'ten bir yıl sonra 6 ABD Doları'na kadar geldi. SNX değeri artınca paydaşların teminat miktarları da artıyor ve paydaşlar daha fazla sUSD üretebiliyorlar, bu da likiditeyi artırdığı gibi riski de artırıyor. 
+
 
 
 [^1] *Synthetix üzerindeki her bir sentetik ürüne kısaca Synth deniyor ancak çok fazla terim olmaması için dipnot olarak buraya bırakıyoruz..* 
