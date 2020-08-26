@@ -95,4 +95,13 @@ Birincisi, SNX fiyatının ani olarak düşmesi sonucu paydaşların havuza para
 
 Yukarıdaki iki konu gibi risk olmasa da sistem ile ilgili bir başka sıkıntı da yüksek gas fiyatları (sistemde borç yaratmak gibi işlemler için Ethereum üzerindeki işlem maliyeti). Bunun temel nedeni türev işlemlerinin çok karmaşık olması nedeniyle sisteme ağır gelmesi. Synthetix ekibi bunun önüne geçmek için Ethereum üzerine [ikinci seviye çözümler üzerinde çalışıyor](https://synthetix.community/docs/why-is-gas-so-high)
 
+### Sonuç
+
+Öncelikle buraya kadar okuduysanız tebrikler!.. 
+
+| ![SNX_price_2020](/assets/futuresmath.jpg)|
+
+
+
+
 [^1] *Synthetix üzerindeki her bir sentetik ürüne kısaca Synth deniyor ancak çok fazla terim olmaması için dipnot olarak buraya bırakıyoruz..* 
