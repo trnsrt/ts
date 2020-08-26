@@ -27,7 +27,7 @@ Sistemde iki taraf olmadığı ve yaratılan türev ürünlerin hepsi sistem iç
 
 Buraya kadar her şey basit ve anlaşılır umarım. Eğer amacınız sadece sentetik ürün alıp satmak ise o zaman bu kadarı yeterli belki de. Ancak "bu değirmenin suyu nereden geliyor?" ya da "bu işte bir bit yeniği var mı?" şeklinde kafanızda sorular varsa o zaman okumaya devam edebilirsiniz. 
 
-##### Sorular, sorular... 
+#### Sorular, sorular... 
 
 Örneğin birkaç soru var hemen aklınıza takılabilecek:  
 - Bu sUSD ne menem bir şeydir? Nereden çıkmış, neden ben kullanıcı olarak sUSD satın almak için para vereyim? 
