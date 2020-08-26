@@ -99,7 +99,7 @@ Yukarıdaki iki konu gibi risk olmasa da sistem ile ilgili bir başka sıkıntı
 
 Öncelikle buraya kadar okuduysanız tebrikler!.. 
 
-| ![SNX_price_2020](/assets/futuresmath.jpg)|
+![SNX_price_2020](/assets/futuresmath_400.jpg)
 
 
 
