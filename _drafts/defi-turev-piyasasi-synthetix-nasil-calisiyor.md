@@ -17,7 +17,7 @@ Kullanıcı sonrasında elindeki bu sUSD ile istediği herhangi bir ürünü, ö
 
 #### Ne tip ürünler var bu Synthetix'de?
 
-Beş ayrı kategori var. İtibari paralar, emtialar, kripto paralar, kripto para endeksleri ve kripto para fiyatlarını tersten izleyen inverse-kripto paralar.. Bu beş kategoride Ağustos 2020 itibariyle [16 adet ürün var](https://dashboard.synthetix.io/) var. 
+Beş ayrı kategori var. İtibari paralar, emtialar, kripto paralar, kripto para endeksleri ve kripto para fiyatlarını tersten izleyen inverse-kripto paralar.. Bu beş kategoride Ağustos 2020 itibariyle [16 adet ürün](https://dashboard.synthetix.io/) var (ürünü almak ya da satmak olarak bakarsanız aslında iki katı, yani BTC tutmak istiyorsanız sBTC, satmak (yani short kalmak istiyorsanız) iBTC ürünleri var). [1]
 
 #### Peki sistemdeki ürünlerin fiyatları kim belirliyor?
 
@@ -89,3 +89,4 @@ Peki ya sUSD'nin değeri yükseldi ve 1.10 ABD Doları'na geldi. O zaman da yine
 O da mümkün. Nasıl mı? O zaman, yarattığınız sUSD ile gidin sistem üzerindeki yapılmış işlemlerden oransal olarak aynısını yapın (hatta bunu endeks fonu gibi otomatik yapan araçlar da var). Böylece riskinizi karşılamış (hedge etmiş) olacaksınız, havuz kaybederse siz kullanıcı olarak o kaybettiğiniz parayı işlem yaparak kazanmış olacaksınız. 
 
 
+(1) Synthetix üzerindeki her bir sentetik ürüne kısaca Synth deniyor ancak çok fazla terim olmaması için dipnot olarak buraya bırakıyoruz.. 
