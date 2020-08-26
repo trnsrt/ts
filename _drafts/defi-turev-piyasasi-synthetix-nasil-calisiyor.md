@@ -110,4 +110,4 @@ Yukarıdaki iki konu gibi risk olmasa da sistem ile ilgili bir başka sıkıntı
 
 [^2] Kontratların nasıl likidite edileceği ile ilgili detaylı bilgiye [şu linkten](https://blog.synthetix.io/liquidation-faqs/#:~:text=Liquidation%20ratio%3A%20200%25,Liquidation%20penalty%3A%2010%25) ulaşabilirsiniz
 
-[^2] Açılan işlemlerin dağılımını [Synthetix Dashboard](https://dashboard.synthetix.io/)'da alt tarafa doğru Synthetic Distribution tablosunda görebilirsiniz. 
+[^3] Açılan işlemlerin dağılımını [Synthetix Dashboard](https://dashboard.synthetix.io/)'da alt tarafa doğru Synthetic Distribution tablosunda görebilirsiniz. 
