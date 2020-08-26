@@ -23,9 +23,11 @@ Beş ayrı kategori var. İtibari paralar, emtialar, kripto paralar, kripto para
 
 Sistemde iki taraf olmadığı ve yaratılan türev ürünlerin hepsi sistem içi ürünler olduğu için bu ürünlerin fiyatlarının belirlenmesinde, piyasa fiyatları alınıyor. Merkezi olmayan sistemlerde piyasa fiyatlamaları genelde Oracle denen dış (off-chain) bilgi sağlayıcılardan (Synthetix [Chainlink'i kullanıyor](https://blog.synthetix.io/chainlink-decentralizes-first-wave-of-synthetix-price-feeds/)) üç dakikada bir alınıyor. 
 
+Buraya kadar her şey basit ve anlaşılır umarım. Eğer amacınız sadece sentetik ürün alıp satmak ise o zaman bu kadarı yeterli belki. Ancak "bu değirmenin suyu nereden geliyor?" ya da "bu işte bir bit yeniği var mı?" şeklinde kafanızda sorular varsa o zaman okumaya devam edebilirsiniz. 
+
 ##### Sorular, sorular... 
 
-Buraya kadar her şey basit ve anlaşılır umarım. Ancak ortada birkaç soru var sorulması gereken - sizin de aklınıza takılıyor olabilir. 
+Örneğin birkaç soru var hemen aklınıza takılabilecek:  
 - Bu sUSD ne menem bir şeydir? Nereden çıkmış, neden ben kullanıcı olarak sUSD satın almak için para vereyim? 
 - Sonra yarın öbür gün sBTC’mi satmak istediğimde yerine bana verecekleri sUSD’yi alacak biri çıkacak mı? 
 - Bir sUSD bir ABD Doları’na eşit diye kim söylüyor, kim böyle bir garanti veriyor? Verilen garanti ne kadar güvenilir? 
