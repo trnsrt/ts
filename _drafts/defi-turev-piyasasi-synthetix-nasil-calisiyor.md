@@ -15,6 +15,8 @@ Synthetix sistemindeki gerçek varlık yok. Onun yerine her bir ürünün sentet
 
 Kullanıcı sonrasında elindeki bu sUSD ile istediği herhangi bir ürünü, örneğin sBTC’yi alıp istediği kadar elinde tutuyor. Canı istediğinde ise sBTC’yi sistemde satarak sUSD alıp, sUSD’yi yine aynı şekilde kripto para borsalarında satarak sistemden çıkabiliyor. 
 
+Klasik piyasalar yerine neden burada işlem yapsın bir kullanıcı? Bir önceki yazımızda kısaca değinmiştik. DeFi piyasalara interneti olan herkesin erişimi var. Bunun dışında bir diğer önemli neden, ürünlerin sentetik olması nedeniyle kullanıcılar herhangi bir üründen diğerine çok rahat geçebilir ve bu geçişler sırasında herhangi bir kayıp (sızıntı) yaşamazlar. 
+
 #### Ne tip ürünler var bu Synthetix'de?
 
 Beş ayrı kategori var. İtibari paralar, emtialar, kripto paralar, kripto para endeksleri ve kripto para fiyatlarını tersten izleyen inverse-kripto paralar.. Bu beş kategoride Ağustos 2020 itibariyle [16 adet ürün](https://dashboard.synthetix.io/) var (ürünü almak ya da satmak olarak bakarsanız aslında iki katı, yani BTC tutmak istiyorsanız sBTC, satmak (yani short kalmak istiyorsanız) iBTC ürünleri var). [^1]
