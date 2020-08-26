@@ -89,4 +89,4 @@ Peki ya sUSD'nin değeri yükseldi ve 1.10 ABD Doları'na geldi. O zaman da yine
 O da mümkün. Nasıl mı? O zaman, yarattığınız sUSD ile gidin sistem üzerindeki yapılmış işlemlerden oransal olarak aynısını yapın (hatta bunu endeks fonu gibi otomatik yapan araçlar da var). Böylece riskinizi karşılamış (hedge etmiş) olacaksınız, havuz kaybederse siz kullanıcı olarak o kaybettiğiniz parayı işlem yaparak kazanmış olacaksınız. 
 
 
-[^1] Synthetix üzerindeki her bir sentetik ürüne kısaca Synth deniyor ancak çok fazla terim olmaması için dipnot olarak buraya bırakıyoruz.. 
+[^1] *Synthetix üzerindeki her bir sentetik ürüne kısaca Synth deniyor ancak çok fazla terim olmaması için dipnot olarak buraya bırakıyoruz..* 
