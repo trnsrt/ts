@@ -4,9 +4,7 @@ Geçtiğimiz [yazıda](/genel/2020/08/20/defi-turev-piyasalari-nasil-oluyor.html
 Türev piyasaların yükselen yıldızı Synthetix Avustralya çıkışlı (Kripto dünyasının en önemli özelliklerinden biri fiziki dünyada nerede olduğunuzun o kadar da önemli olmaması. O nedenle bir gün Türkiye'den de benzer şekilde başarılı girişimlerin çıkacağını görmek en büyük umudumuz). Ekip, ICO piyasasının en sıcak olduğu 2018 yılının başlarında yaklaşık 30 milyon ABD Doları yatırım alarak projeyi hayata geçirdi. 2020 yılının başlarına kadar likidite sıkıntıları nedeniyle istenen hacimlere ulaşamayan sistem, sonrasında DeFi piyasasına olan ilginin artmasının da etkisi ile yaz ayları içinde adeta uçuşa geçti.  
 
 
-| ![Synthetix Locked Value](/assets/
-Synthetix_locked_value_800.jpg
-)|
+| ![Synthetix Locked Value](/assets/Synthetix_locked_value_800.jpg)|
 |:--:| 
 | *Synthetix'de kilitlenen para miktarı) [Kaynak](https://defipulse.com/synthetix)*|
 
@@ -108,7 +106,7 @@ Yukarıdaki iki konu gibi risk olmasa da sistem ile ilgili bir başka sıkıntı
 
 Öncelikle yazıyı buraya kadar okuduysanız tebrikler!.. 
 
-![SNX_price_2020](/assets/futuresmath_400.jpg)
+![Genius!](/assets/futuresmath_400.jpg)
 
 Özet olarak düşüncemi şuraya bırakayım: 
 
