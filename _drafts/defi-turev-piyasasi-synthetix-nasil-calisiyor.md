@@ -6,50 +6,55 @@ Türev piyasaların yükselen yıldızı Synthetix Avustralya çıkışlı (Krip
 
 | ![Synthetix Locked Value](/assets/Synthetix_locked_value_800.jpg)|
 |:--:| 
-| *Synthetix'de kilitlenen para miktarı) [Kaynak](https://defipulse.com/synthetix)*|
+| *Synthetix'de kilitlenen para miktarı [Kaynak](https://defipulse.com/synthetix)*|
 
 
 #### Nasıl çalışıyor sistem?
 
-Sistem kısaca şöyle çalışıyor. Normalde bir türev piyasasında iki parti olması gerekirken, Synthetix'de sadece siz varsınız bir de karşınızda bir havuz. Havuz kısmına birazdan değineceğin ama gelin öncelikle işin basit kısmından, sistemi kullanmak isteyen kişilerden (trader) başlayalım ve bu kişilere "kullanıcı" diyelim. 
+Sistem çalışması kısaca şöyle: Normalde bir türev piyasasında iki parti olması gerekirken, Synthetix'de sadece siz varsınız bir de karşınızda bir havuz. Havuz kısmına birazdan değineceğin ama gelin öncelikle işin basit kısmından, sistemi kullanmak isteyen al-sat işlemi yapanlardan (trader) başlayalım ve basitlik adına  bu kişilere "kullanıcı" diyelim. 
 
 #### Nasıl işlem yapıyor kullanıcılar Synthetix sisteminde?
 
-Kullanıcılar, herhangi bir varlığa sahip olmadan o varlığın riskini (yani getiri ya da götürüsünü) almak isteyen kişiler. Bunu Synthetix'de yapabilmek için bir kullanıcının öncelikle sisteme girebilmesi gerekiyor. 
+Kullanıcılar, özünde herhangi bir varlığa sahip olmadan o varlığın riskini (yani getiri ya da götürüsünü) almak isteyen kişiler.
 
-Synthetix sistemindeki gerçek varlık yok. Onun yerine her bir ürünün sentetik denen türevi var. Bu ürünleri alabilmek için kullanıcının öncelikle sistemin parasını almanız lazım. O da sentetik bir ürün: adı sUSD. Bir ABD Dolarına çıpalanmış bir sabit para bu. Bu parayı alabilmenin iki yolu var. Birincisi [çeşitli borsalardan sUSD satın almanız](https://www.coingecko.com/en/coins/susd), ikincisi ise biraz daha aşağıda detaylı anlatacağımız paydaş yöntemi. 
+Synthetix sistemindeki gerçek varlık yok. Onun yerine her bir ürünün sentetik denen türevi var. Bu ürünleri alabilmek için kullanıcının öncelikle sistemin parasına sahip olması lazım. O da sentetik bir ürün: adı da sUSD. 
 
-Kullanıcı sonrasında elindeki bu sUSD ile istediği herhangi bir ürünü, örneğin sBTC’yi alıp istediği kadar elinde tutuyor. Canı istediğinde ise sBTC’yi sistemde satarak sUSD alıp, sUSD’yi yine aynı şekilde kripto para borsalarında satarak sistemden çıkabiliyor. 
+sUSD bir ABD Dolarına çıpalanmış bir sabit para. Bu parayı elde edebilmenin iki yolu var. Birincisi çeşitli borsalardan sUSD satın almak - ki o borsaların listesini [şurada](https://www.coingecko.com/en/coins/susd) bulabilirsiniz, ikincisi ise biraz daha aşağıda detaylı anlatacağımız "paydaş" yöntemi. 
 
-Klasik piyasalar yerine neden burada işlem yapsın bir kullanıcı? Bir önceki yazımızda kısaca değinmiştik. DeFi piyasalara interneti olan herkesin erişimi var. Bunun dışında bir diğer önemli neden, ürünlerin sentetik olması nedeniyle kullanıcılar herhangi bir üründen diğerine çok rahat geçebilir ve bu geçişler sırasında herhangi bir kayıp (sızıntı) yaşamazlar. 
+Kullanıcı elindeki sUSD ile sistemde bulunan herhangi bir sentetik ürünü alabiliyor. Örneğin Bitcoin satın almak isterse gerçek BTC'yi değil onun sentetik türevi olan sBTC’yi alıyor. Canı istediğinde ise sBTC’yi sistemde satıp karşılığında sUSD alıp, sUSD’yi yine aynı şekilde kripto para borsalarında satarak sistemden çıkabiliyor. 
 
-#### Ne tip ürünler var bu Synthetix'de?
+Klasik piyasalar yerine neden burada işlem yapsın bir kullanıcı? Bir önceki yazımızda kısaca değinmiştik. DeFi piyasalara interneti olan herkesin erişimi var, klasik borsalarda olduğu gibi "nitelikli" bir kesimin değil. Bunun dışında bir diğer önemli neden, ürünlerin sentetik olması nedeniyle kullanıcılar herhangi bir üründen diğerine çok rahat geçebiliyor ve bu geçişler sırasında herhangi bir kayıp (sızıntı) yaşamıyorlar. 
 
-Beş ayrı kategori var. İtibari paralar, emtialar, kripto paralar, kripto para endeksleri ve kripto para fiyatlarını tersten izleyen inverse-kripto paralar.. Bu beş kategoride Ağustos 2020 itibariyle [16 adet ürün](https://dashboard.synthetix.io/) var (ürünü almak ya da satmak olarak bakarsanız aslında iki katı, yani BTC tutmak istiyorsanız sBTC, satmak (yani short kalmak istiyorsanız) iBTC ürünleri var). [^1]
+#### Ne tip ürünler var Synthetix'de?
 
-#### Peki sistemdeki ürünlerin fiyatları kim belirliyor?
+Beş ayrı kategori var. İtibari paralar, emtialar, kripto paralar, kripto para endeksleri ve kripto para fiyatlarını tersten izleyen inverse-kripto paralar.. Bu beş kategoride Ağustos 2020 itibariyle [32 adet ürün](https://dashboard.synthetix.io/) var. [^1]
 
-Sistemde iki taraf olmadığı ve yaratılan türev ürünlerin hepsi sistem içi ürünler olduğu için bu ürünlerin fiyatlarının belirlenmesinde, piyasa fiyatları alınıyor. Merkezi olmayan sistemlerde piyasa fiyatlamaları genelde Oracle denen dış (off-chain) bilgi sağlayıcılardan (Synthetix [Chainlink'i kullanıyor](https://blog.synthetix.io/chainlink-decentralizes-first-wave-of-synthetix-price-feeds/)) üç dakikada bir alınıyor. 
+#### Peki sistemdeki ürünlerin fiyatlarını kim belirliyor?
 
-Buraya kadar her şey basit ve anlaşılır umarım. Eğer amacınız sadece sentetik ürün alıp satmak ise o zaman bu kadarı yeterli belki de. Ancak "bu değirmenin suyu nereden geliyor?" ya da "bu işte bir bit yeniği var mı?" şeklinde kafanızda sorular varsa o zaman okumaya devam edebilirsiniz. 
+Sistemde iki taraf olmadığı ve yaratılan türev ürünlerin hepsi sistem içi ürünler olduğu için bu ürünlerin fiyatlarının belirlenmesinde, piyasa fiyatları göz önüne alınıyor. Merkezi olmayan sistemlerde piyasa fiyatlamaları genelde oracle denen dış (off-chain) bilgi sağlayıcılardan geliyor. Synthetix oracle olarak [Chainlink'i kullanıyor](https://blog.synthetix.io/chainlink-decentralizes-first-wave-of-synthetix-price-feeds/) ve piyasa bilgilerini her üç dakikada bir alıp güncelliyor. 
+
+Buraya kadar her şey basit ve anlaşılır umarım. Eğer amacınız sadece sentetik ürün alıp satmak ise o zaman bu kadarı yeterli belki de. Ancak "bu değirmenin suyu nereden geliyor, havuz nasıl çalışıyor?" şeklinde kafanızda sorular varsa o zaman okumaya devam. 
 
 #### Sorular, sorular... 
 
-Örneğin birkaç soru var hemen aklınıza takılabilecek:  
+Örneğin birkaç soru var hemen akıllara gelen:  
+- Kullanıcılara karşı risk alan havuz nasıl oluyor? Arkasında kim var? Güvenilir mi? Nasıl merkeziyetsiz oluyor?
 - Bu sUSD ne menem bir şeydir? Nereden çıkmış, neden ben kullanıcı olarak sUSD satın almak için para vereyim? 
 - Sonra yarın öbür gün sBTC’mi satmak istediğimde yerine bana verecekleri sUSD’yi alacak biri çıkacak mı? 
 - Bir sUSD bir ABD Doları’na eşit diye kim söylüyor, kim böyle bir garanti veriyor? Verilen garanti ne kadar güvenilir? 
 - Sonra yarın öbür gün örneğin bütün kullanıcılar Bitcoin’in yükseleceğin düşünüp sBTC alırsa ve BTC iki katına çıkarsa kim ödeyecek bu BTC’leri bu kullanıcılara?
 
-Bunların hepsi çok mâkul sorular ve hepsine tek tek cevap vermeden içimizin rahat etmesi mümkün değil. Gelin tek tek bakalım bu sorulara: 
+Bunların hepsi çok mâkul sorular ve hepsine cevap vermeden içimizin rahat etmesi mümkün değil. Ayrıca kimi sorulara cevap verdikçe yeni sorular da takılacak aklımıza - malum, sistem oldukça karışık. Gelin tek tek bakalım bu sorulara: 
 
-##### Hepimizin çok sevdiği havuz problemi - ne menem şeydir bu havuz?.. 
+##### Hepimizin çok sevdiği havuz problemi - ne menem şeydir bu havuz?
 
-Synthetix sistemini aslında sanal bir ülke gibi düşünmek mümkün. Nasıl bir ülkenin Merkez Bankası, o ülkede dolaşımda olan parayı basar, Synthetix sisteminin para birimi olan sUSD’yi basanlar da aslında o ülkenin Merkez Bankası oluyor - burada sUSD’yi basan bir kurum değil merkezi olmayan binlerce kişi.(Bu kişilere Ingilizce de “staker" deniyor - Türkçe çevirisi tam olarak yok, yatırımcı, para koyucu, hissedar denebilir ama ben bu yazı özelinde “paydaş” terimini kullanacağım). Biliyorsunuz tedavülde olan Merkez Bankası’nın bastığı para esasında bankanın o parayı kullananlara bir borcu. Synthetix’de de benzer şekilde paydaşlar sUSD basıp havuza koyarak sisteme borçlanıyorlar. 
+Synthetix sistemini aslında sanal bir ülke gibi düşünmek mümkün. Nasıl bir ülkenin Merkez Bankası, o ülkede dolaşımda olan parayı basar burada da benzeri var. Synthetix sisteminin para birimi olan sUSD’yi basanlar da aslında o ülkenin Merkez Bankası oluyor. Tek fark burada sUSD’yi basan bir kurum değil merkezi olmayan binlerce kişi.(Bu kişilere İngilizcede “staker" deniyor - Türkçe çevirisi tam olarak yok, yatırımcı, para koyucu, hissedar denebilir ama bu yazı özelinde “paydaş” terimini kullanacağız). 
 
-Şimdilerde artık o nosyonu kaybettik gerçi ama 20. Yüzyılın başlarında Merkez Bankaları para bastıklarında, halka bunun ödemesinin garantisi olarak stokta altın tutarlardı. Synthetix’de de sUSD basan paydaşlar bu borçlarının karşılık Synthetix’in kendi parası olan SNX’i teminat olarak göstermek zorundalar. 
+Biliyorsunuz Merkez Bankası’nın bastığı ve tedavüle soktuğu para esasında bankanın o parayı kullananlara yani halka bir borcudur. Synthetix’de de benzer şekilde paydaşlar sUSD basıp havuza koyarak sisteme borçlanıyorlar. 
 
-Havuzun çalışma sistemi ise şöyle: Her bir paydaş yarattığı sUSD oranında havuzun borcuna ortak oluyor. Eğer işlem yapanlar sBTC aldılar ve sBTC yükseldi ise, o zaman havuzun borcu büyüyor dolayısıyla havuzdan borç alanların da borcu büyüyor.  Tam tersi durumda işlem yapan zarar ederse (bu örnekte olduğu gibi sBTC fiyatı düşerse) o zaman da havuz kâr etmiş oluyor ve borcu düşüyor. 
+Şimdilerde artık o nosyonu kaybettik gerçi ama 20. Yüzyılın başlarında Merkez Bankaları para bastıklarında, halka bunun ödemesinin garantisi olarak stoklarında altın tutarlardı. Synthetix’de de sUSD basan paydaşlar bu borçlarına karşılık Synthetix’in kendi parası olan SNX’i teminat olarak göstermek zorundalar. 
+
+Havuzun çalışma sistemi ise şöyle: Her bir paydaş yarattığı sUSD oranında havuzun borcuna ortak oluyor. Eğer kullanıcılar yani işlem yapanlar sBTC aldı ve sBTC yükseldi ise, o zaman havuzun borcu büyüyor. Dolayısıyla havuzdan borç alanların borcu da büyüyor.  Tam tersi durumda işlem yapan zarar ederse (bu örnekte olduğu gibi sBTC fiyatı düşerse) o zaman da havuz kâr etmiş oluyor ve paydaşlarında aynı oranda borcu düşüyor. 
 
 ##### sUSD nasıl yaratılıyor?
 sUSD yaratımında teminat olarak konan SNX’ler borsalarda alıp satılan tokenlar. Bunları satın alıp sisteme kilitleyip karşılığında sUSD basabiliyorsunuz. Merkez Bankası eskiden bire-bir altın karşılığında para basar idi. Ama altın dediğimiz maden binlerce yıldır ortada olan ve belli bir değeri olan bir varlık. Hiç SNX ile altın bir olur mu? Olmaz tabii. O nedenle, sUSD basarken SNX olarak çok daha fazlasını tutmak zorundasınız. Ne kadar? Şu anda teminat oranı %700. Yani 700 ABD Doları değerinde SNX’i teminat gösterirseniz ancak 100 ABD Doları karşılığı sUSD basabiliyorsunuz. (Karşılaştırma olarak MakerDAO’da bu oran %150, yani bir ABD Doları karşılığı olan bir DAI basmak için 1.5 ABD Doları karşılığı ETH koymanız gerekiyor - ki [Synthetix de ETH teminatlı benzer bir modeli deniyor şu aralar](https://blog.synthetix.io/ether-collateral-second-trial/))
