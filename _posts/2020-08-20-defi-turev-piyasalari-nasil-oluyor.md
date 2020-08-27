@@ -68,6 +68,6 @@ Aslında bu tip ürünler üzerinde soru işareti olması çok normal. Zira bu �
 
 ---
 
-*Not 1: Bu yazı ilk olarak 13 Ağustos 2020'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/defi-turev-piyasalari-nasil-oluyor/)*
+*Not 1: Bu yazı ilk olarak 20 Ağustos 2020'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/defi-turev-piyasalari-nasil-oluyor/)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
