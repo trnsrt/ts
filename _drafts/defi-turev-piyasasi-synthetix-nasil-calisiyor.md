@@ -105,6 +105,8 @@ Yukarıdaki iki konu gibi risk olmasa da sistem ile ilgili bir başka sıkıntı
 
 Özet olarak düşüncemi de yazayım: Synthetix türev piyasaları, internet bağlantısı olan her tür kullanıcıya türev ürünlerini hızlıca alıp satmak ya da ürünler arasından masrafsız geçiş yapabilmek açısından rahatlık sağlıyor. Özellikle DeFi'ya ilginin had safhada olduğu şu günlerde, artan ilgi nedeniyle yükselen komisyonlar ve dağıtılan ödüller nedeniyle SNX tokenların değeri artması da sisteme olan ilgiyi artırıyor. Ancak bu piyasaya sağlanan likiditenin aynı zamanda risk getirdiği unutulmamalı. Özellikle uzun süreli boğa piyasası olması ve Sythetix'de açılan türev işlemlerinin ağırlıklı belli bir yere kayması [^3] durumunda riskin çok artma ihtimali göz önünde bulundurulmalı. 
 
+---
+
 
 [^1] *Synthetix üzerindeki her bir sentetik ürüne kısaca Synth deniyor ancak çok fazla terim olmaması için dipnot olarak buraya bırakıyoruz..* 
 
