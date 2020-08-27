@@ -1,7 +1,15 @@
-Geçtiğimiz yazıda DeFi yani merkeziyetsiz finans alanında türev piyasası olur mu ona bakmış, bu piyasaların nasıl çalıştığını bu yazıya bırakmıştık. Gelin şimdi 2020 yılının yaz aylarında bu alanın lideri olan sentetik ürünler piyasası Synthetix'i inceleyelim:
+Geçtiğimiz [yazıda](/genel/2020/08/20/defi-turev-piyasalari-nasil-oluyor.html) DeFi yani merkeziyetsiz finans alanında türev piyasası olur mu ona bakmış, bu piyasaların nasıl çalıştığını bu yazıya bırakmıştık. Gelin şimdi de 2020 yılının yaz aylarında bu alanın lideri haline gelen sentetik ürünler piyasası Synthetix'i inceleyelim:
 
 #### Synthetix ne yapar?
-Türev piyasaların yükselen yıldızı Sythetix Avustralya çıkışlı ekip. ICO piyasasının en sıcak olduğu 2018 yılının başlarında yaklaşık 30 milyon ABD Doları yatırım alarak projeyi hayata geçirmeye başlamışlar. 
+Türev piyasaların yükselen yıldızı Synthetix Avustralya çıkışlı (Kripto dünyasının en önemli özelliklerinden biri fiziki dünyada nerede olduğunuzun o kadar da önemli olmaması. O nedenle bir gün Türkiye'den de benzer şekilde başarılı girişimlerin çıkacağını görmek en büyük umudumuz). Ekip, ICO piyasasının en sıcak olduğu 2018 yılının başlarında yaklaşık 30 milyon ABD Doları yatırım alarak projeyi hayata geçirdi. 2020 yılının başlarına kadar likidite sıkıntıları nedeniyle istenen hacimlere ulaşamayan sistem, sonrasında DeFi piyasasına olan ilginin artmasının da etkisi ile yaz ayları içinde adeta uçuşa geçti.  
+
+
+| ![Synthetix Locked Value](/assets/
+Synthetix_locked_value_800.jpg
+)|
+|:--:| 
+| *Synthetix'de kilitlenen para miktarı) [Kaynak](https://defipulse.com/synthetix)*|
+
 
 #### Nasıl çalışıyor sistem?
 
@@ -39,7 +47,7 @@ Bunların hepsi çok mâkul sorular ve hepsine tek tek cevap vermeden içimizin 
 
 ##### Hepimizin çok sevdiği havuz problemi - ne menem şeydir bu havuz?.. 
 
-Synthetix sistemini aslında sanal bir ülke gibi düşünmek mümkün. Nasıl bir ülkenin Merkez Bankası, o ülkede dolaşımda olan parayı basar, Sythetix sisteminin para birimi olan sUSD’yi basanlar da aslında o ülkenin Merkez Bankası oluyor - burada sUSD’yi basan bir kurum değil merkezi olmayan binlerce kişi.(Bu kişilere Ingilizce de “staker" deniyor - Türkçe çevirisi tam olarak yok, yatırımcı, para koyucu, hissedar denebilir ama ben bu yazı özelinde “paydaş” terimini kullanacağım). Biliyorsunuz tedavülde olan Merkez Bankası’nın bastığı para esasında bankanın o parayı kullananlara bir borcu. Synthetix’de de benzer şekilde paydaşlar sUSD basıp havuza koyarak sisteme borçlanıyorlar. 
+Synthetix sistemini aslında sanal bir ülke gibi düşünmek mümkün. Nasıl bir ülkenin Merkez Bankası, o ülkede dolaşımda olan parayı basar, Synthetix sisteminin para birimi olan sUSD’yi basanlar da aslında o ülkenin Merkez Bankası oluyor - burada sUSD’yi basan bir kurum değil merkezi olmayan binlerce kişi.(Bu kişilere Ingilizce de “staker" deniyor - Türkçe çevirisi tam olarak yok, yatırımcı, para koyucu, hissedar denebilir ama ben bu yazı özelinde “paydaş” terimini kullanacağım). Biliyorsunuz tedavülde olan Merkez Bankası’nın bastığı para esasında bankanın o parayı kullananlara bir borcu. Synthetix’de de benzer şekilde paydaşlar sUSD basıp havuza koyarak sisteme borçlanıyorlar. 
 
 Şimdilerde artık o nosyonu kaybettik gerçi ama 20. Yüzyılın başlarında Merkez Bankaları para bastıklarında, halka bunun ödemesinin garantisi olarak stokta altın tutarlardı. Synthetix’de de sUSD basan paydaşlar bu borçlarının karşılık Synthetix’in kendi parası olan SNX’i teminat olarak göstermek zorundalar. 
 
@@ -107,7 +115,7 @@ Yukarıdaki iki konu gibi risk olmasa da sistem ile ilgili bir başka sıkıntı
 - Synthetix türev piyasaları, internet bağlantısı olan herkese türev ürünlerini hızlıca alıp satmak ya da farklı türev ürünleri arasında masrafsız geçiş yapabilmek konularında büyük rahatlık sağlıyor. 
 - Genel olarak DeFi'ya ilginin had safhada olmasının getirdiği artan iş hacimleri sayesinde yükselen komisyonlar ve dağıtılan ödüller SNX tokenına olan talebi ve dolayısıyla değerini artırıyor.
 - Ancak bu piyasaya likidite sağlamak amacıyla konan (stake edilen) paranın diğer DeFi platformlardan farklı olarak aynı zamanda risk getirdiği göz önünde bulundurulmalı. 
-- Uzun vadede özellikle uzun süreli boğa piyasası olması ve Sythetix'de açılan türev işlemlerinin ağırlıklı belli bir ürüne kayması [^3] durumunda sistemin yapısından gelen riskleri kaldıramama ihtimali olduğu da unutulmamalı. 
+- Uzun vadede özellikle uzun süreli boğa piyasası olması ve Synthetix'de açılan türev işlemlerinin ağırlıklı belli bir ürüne kayması [^3] durumunda sistemin yapısından gelen riskleri kaldıramama ihtimali olduğu da unutulmamalı. 
 
 ---
 
