@@ -112,7 +112,14 @@ Peki ya sUSD'nin değeri yükseldi ve 1.10 ABD Doları'na geldi. O zaman da yine
 
 Birinci ve en önemlisi, yazıdan anlaşılıyor olmalı ama tekrar edelim: Başka DeFi ürünlerde likidite sağlamak için para koyduğunuzda genel olarak düşük riskli ürünlere yatırım yapıyorsunuz. Synthetix'de ise SNX aldığınız ve sUSD yarattığınız noktada havuzun borcuna ve riskine ortak oluyorsunuz - ve bu ufak bir risk değil. 
 
-Bununla bağlantılı ikinci temel risk ise şu: yapılan işlemlerin ağırlık olarak bir tarafa kayması sonucu riskin ve havuzun borcunun bir anda büyümesi: Örneğin Ağustos 2020 itibariyle sistemde sBTC tutanların oranı %22. Bu oran %100’lere yaklaşırsa ve aniden Bitcoin fiyatı iki katına çıkarsa o zaman bu işlem yapanlara havuz bu parayı nasıl ödeyecek? Paydaşlar havuza para koymaya devam edecekler mi? Yoksa “elimde tuttuğum SNX’ler feda olsun, ben borcumu ödemiyorum” deyip sistemden kaçabilirler mi?. Özellikle bir panik havası ile SNX'in değeri de düşemeye başlarsa. Elbette yukarıda bahsettiğimiz gibi teminat miktarı yaklaşık %700 oranlarında - bu endişeleri gidermekte bir miktar faydalı olabilir - keza %200'ün altında teminat oranlarında kontratın bozulup borcun kapanıyor olması da. Ancak yine de bu ani teminat düşüşlerinde risk olmadığı anlamına gelmiyor. 
+Bununla bağlantılı ikinci temel risk ise şu: yapılan işlemlerin ağırlık olarak bir tarafa kayması sonucu riskin ve havuzun borcunun bir anda büyümesi: Örneğin Ağustos 2020 itibariyle sistemde sBTC tutanların oranı %22. 
+
+
+| ![SNX_price_2020](/assets/synthetix_distribution-640.jpg)|
+|:--:| 
+| *SNX ürünlerinin Ağustos 2020 itibariyle dağılımı [Kaynak](https://dashboard.synthetix.io/)*|
+
+Bu oran %100’lere yaklaşırsa ve aniden Bitcoin fiyatı iki katına çıkarsa o zaman bu işlem yapanlara havuz bu parayı nasıl ödeyecek? Paydaşlar havuza para koymaya devam edecekler mi? Yoksa “elimde tuttuğum SNX’ler feda olsun, ben borcumu ödemiyorum” deyip sistemden kaçabilirler mi?. Özellikle bir panik havası ile SNX'in değeri de düşemeye başlarsa. Elbette yukarıda bahsettiğimiz gibi teminat miktarı yaklaşık %700 oranlarında - bu endişeleri gidermekte bir miktar faydalı olabilir - keza %200'ün altında teminat oranlarında kontratın bozulup borcun kapanıyor olması da. Ancak yine de bu ani teminat düşüşlerinde risk olmadığı anlamına gelmiyor. 
 
 Ayrıca şunu da unutmamak lazım - bu teminat SNX değeri üzerinden belirleniyor. SNX fiyatı 2019 yazında 30 cent'ten bir yıl sonra 6 ABD Doları'na kadar geldi. SNX değeri artınca paydaşların teminat miktarları da artıyor ve paydaşlar daha fazla sUSD üretebiliyorlar, bu da likiditeyi artırdığı gibi riski de artırıyor. Yarın öbür gün SNX fiyatında hızlı bir düşüş yaşanırsa teminatların istenen seviyenin altında kalmasının getirdiği streslere sistem ne kadar dayanıklı önceden tahmin etmek zor. [^2]
 
