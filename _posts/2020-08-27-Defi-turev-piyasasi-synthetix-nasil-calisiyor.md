@@ -158,6 +158,6 @@ Yukarıdaki iki konu gibi risk olmasa da sistem ile ilgili bir başka sıkıntı
 
 ---
 
-*Not 1: Bu yazı ilk olarak 28 Ağustos 2020'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/defi-turev-piyasalari-nasil-oluyor/)*
+*Not 1: Bu yazı ilk olarak 28 Ağustos 2020'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/defi-turev-piyasasi-synthetix-nasil-calisiyor/)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
