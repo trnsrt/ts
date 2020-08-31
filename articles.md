@@ -34,6 +34,7 @@ permalink: /articles/
   - [Compound yönetim tokeni COMP nasıl çalışıyor?](/genel/2020/06/25/Compoundun-yonetim-tokeni-COMP-nasil-calisiyor.html)
   - [Aragon ile DeFi'da yönetim](http/genel/2020/07/18/aragon-ile-defida-yonetim.html)
   - [DeFi türev piyasaları nasıl oluyor?](/genel/2020/08/20/defi-turev-piyasalari-nasil-oluyor.html)
+  - [DeFi türev piyasası Synthetix nasıl çalışıyor?](/genel/2020/08/28/Defi-turev-piyasasi-synthetix-nasil-calisiyor.html)
 
 
 - Blockchain bazlı teknolojilerin girişimcilik ve yatırımcılık ekosistemlerini nasıl değiştirdiğini merak ediyorsanız
