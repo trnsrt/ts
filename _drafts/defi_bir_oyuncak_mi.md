@@ -2,9 +2,9 @@ Kripto paralar daha da özelinde Merkeziyetsiz Finans (DeFi) konusunu konuştuğ
 
 ### "Bir sonraki büyük 'şey' başlangıçta bir oyuncak gibi görünecek"
 
-Web 3.0 kavramının yaratıcılarından, a16z girişim sermayesinin ortaklarından Chris Dixon'un çok sevdiğim bir makalesi var. "[Bir sonraki büyük 'şey' başlangıçta bir oyuncak gibi görünecek](https://cdixon.org/2010/01/03/the-next-big-thing-will-start-out-looking-like-a-toy)" şeklinde dilimize çevrilebilir. 
+Web 3.0 kavramının yaratıcılarından, a16z girişim sermayesinin ortaklarından [Chris Dixon](https://a16z.com/author/chris-dixon/)'un çok sevdiğim bir makalesi var. "[Bir sonraki büyük 'şey' başlangıçta bir oyuncak gibi görünecek](https://cdixon.org/2010/01/03/the-next-big-thing-will-start-out-looking-like-a-toy)" şeklinde dilimize çevrilebilir. 
 
-Özetle makalede hayatımıza ağırlığını koyan her yeniliğin ilk çıktığı zaman piyasanın hakim oyuncuları tarafından bir "oyuncak" gibi değerlendirilerek kaale alınmadığından bahsediyor. (Bu aynı zamanda rahmetli hocam Clay Christensen'in "[yıkıcı yenilik - Disruptive Innovation](https://en.wikipedia.org/wiki/Disruptive_innovation)" teorisi aslında). Özetle: 
+Özetle makalede hayatımıza ağırlığını koyan her yeniliğin ilk çıktığı zaman piyasanın hakim oyuncuları tarafından bir "oyuncak" gibi değerlendirilerek kaale alınmadığından bahsediyor. (Bu aynı zamanda rahmetli hocam Clay Christensen'in "[yıkıcı yenilik - Disruptive Innovation](https://en.wikipedia.org/wiki/Disruptive_innovation)" teorisinin bir türevi aslında). Özetle: 
 
 *"Bir teknoloji genelde ilk çıktığında kullanıcıların ihtiyaçlarının gerisinde kalır. Bu da onların piyasa oyuncuları tarafından küçümsenmesine yol açar. Örnek telefon. İlk çıktığında sadece birkaç mil ötesinden haberleşme sağlamış. Zamanın iletişim şirketlerin bunun müşterileri olan iş yerleri ve demiryollarına nasıl bir yarar getireceğini bilemedikleri için satın almayı reddetmişler.*
 
