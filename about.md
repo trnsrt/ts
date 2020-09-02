@@ -58,7 +58,11 @@ Sert ileri dönemlerde iş hayatında belli bir tecrübe edindikten sonra, yurtd
 
 >“HBS’ye (Harvard Business School) başlamadan önce yabancı öğrenciler için düzenlenen beş haftalık bir MBA öncesi programı var. Ben de bu yüzden Boston’a dönem başlamadan önce gitmişim. İlk sabah kahvaltı yapacak bir yer arıyorum. Bir “bagel” dükkânı gördüm, baktım bizim simitçiler gibi. Girdim içeriye, bir “bagel” ve “iced tea” istedim. Sanıyorum ki “bagel” bizim simit gibi tek başına yenebilir; “iced tea” de bizim Türkiye’de satılan tatlı içecek… Hayatımın en kuru kahvaltısını yaptım o sabah kupkuru hamur parçası ve şekersiz buzlu çay ile…”
 
-<img align="left" src="/assets/TS_4.jpg" style="width:40%; padding-right:20px">  
+&nbsp;
+
+![TS](/assets/TS_4.jpg)
+
+&nbsp;
 
 HBS, genel olarak liderlik yetisini geliştirmek dışında, yönetici olarak sorunlara doğru şekilde yaklaşma becerisini kazandırmış ancak sadece iş dünyasına değil, yaşama ve farklı kültürlere dair ciddi farkındalık kazandıran bir dönem olmuş hayatında. Bu dönemi tam bir ufuk açma deneyimi olarak anlatıyor… Şimdi eşiyle çocuklarına bu farkındalığı, her yıl yeni bir ülkeye giderek daha erken kazandırmaya çalışıyorlar.
 
@@ -79,7 +83,12 @@ Sert, özel sektörde geçirdiği yılların ardından, 2014 yılında Özyeğin
 
 *“Çünkü o zaman aslında doğru olarak kabul ettiğimiz pek çok varsayımı ezbere kabul ettiğimiz ortaya çıkıyor.”*
 
-<img align="left" src="/assets/TS_5.jpg" style="width:40%; padding-right:20px">  
+
+&nbsp;
+
+![TS](/assets/TS_5.jpg)
+
+&nbsp;
 
 2019 yılında, yazdığı yazıları “Sorularla Blockchain” isimli bir kitap haline getiriyor. Amacı blok zincir teknolojisini en basit şekilde okuyucuya anlatmak. Alanda konuyla ilgili Türkçe kaynak halen çok az iken; kitap önemli bir boşluğu dolduruyor.
 
