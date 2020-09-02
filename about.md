@@ -15,7 +15,7 @@ Blockchain Türkiye aracılığıyla 2019 yılında yayınlanan "[Sorularla Bloc
 <a href="http://bit.ly/Sorularla_Blockchain"> <img alt="Kitabı indirmek için tıklayin" src="/assets/Sorularla_Blockchain_Turan_Sert_kapak-2.jpg" width="30%"></a>
 
 
---
+---
 
 Yukarısı kısa özet isteyenler için. Daha detaylı hayat hikayemi duymak isteseniz aşağıda bir kopyası olan Coinbilgi'deki [yazıya göz atabilirsiniz](https://www.coinbilgi.net/turan-sert-kimdir/). 
 
