@@ -81,7 +81,7 @@ Sert, özel sektörde geçirdiği yılların ardından, 2014 yılında Özyeğin
 
 20 yılı aşkın kurumsal hayat sonrası, 2016 yılında üç ortak bir teknoloji girişimi kuruyor. Kendisi bu girişimi bunu bir deneme olarak görüyor. Kariyerindeki her bir işin kattığı ayrı bir özellik ve katma değer olduğunu belirten Sert, bu girişim sırasında da blok zincir ile tanışıyor. Kitabının girişinde de bir iş arkadaşının söylediği söz şöyle yazıyor: “Bitcoin değil ama Blockchain çok önemli”. Sert’in bu alan ilgisini çekiyor. Zamanla çeşitli dergi ve sitelere konuyla ilgili yazmaya başlıyor. Danışmanlık yıllarından gelen alışkanlıkla önce kendisi daha iyi anlamak için yazıyor aslında. Yazarken aklındaki soru en çok da “Bu konuyu donanımı olmayan birine nasıl anlatırım?” oluyor. Kendisi bu durumu şöyle açıklıyor:
 
-*“Çünkü o zaman aslında doğru olarak kabul ettiğimiz pek çok varsayımı ezbere kabul ettiğimiz ortaya çıkıyor.”*
+>*“Çünkü o zaman aslında doğru olarak kabul ettiğimiz pek çok varsayımı ezbere kabul ettiğimiz ortaya çıkıyor.”*
 
 
 &nbsp;
@@ -94,4 +94,4 @@ Sert, özel sektörde geçirdiği yılların ardından, 2014 yılında Özyeğin
 
 Sert, dijital teknolojilerin farklı alanlarda hayatımızı kökten değiştireceğine inanmakta. Kripto paraların bu anlamda blok zincir teknolojilerin ilk kullanım alanı olmasının ardından önümüzdeki yakın dönemde Merkeziyetsiz Finans (DeFi-Decentralized Finance) alanında yaşanacak gelişmeler ile finans sektörünü ciddi bir şekilde etkileyeceğini düşünüyor. Yazılarında da belirttiği gibi şu ifadeyi kullanıyor:
 
-*“Tarihi bir döneme tanıklık ettiğimizi düşünüyorum ve gelecekte bu alanda karşımıza çıkacak yenilikleri merak ve heyecan içinde bekliyorum.”*
+>*“Tarihi bir döneme tanıklık ettiğimizi düşünüyorum ve gelecekte bu alanda karşımıza çıkacak yenilikleri merak ve heyecan içinde bekliyorum.”*
