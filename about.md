@@ -26,6 +26,7 @@ Yukarısı kısa özet isteyenler için. Daha detaylı hayat hikayemi duymak ist
 
 <div>
 
+<div/>
 ### İlk yıllar
 Turan Sert hayata biraz erken başladı. Evde okuma-yazma öğrenince, Hendek’te ilkokula ikinci sınıftan başlatılan Sert’in; babasının işi nedeniyle sık şehir değiştirdiği bir çocukluğu oldu. O zamanlar yapılan lise giriş sınavlarına Safranbolu’daki ilkokulundan giren tek çocuk olarak Ankara Atatürk Anadolu Lisesi’ni kazanınca; diğer sınıf arkadaşlarından bir yaş küçük olarak liseye yatılı gitti.
 
