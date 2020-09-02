@@ -22,9 +22,13 @@ Yukarısı kısa özet isteyenler için. Daha detaylı hayat hikayemi duymak ist
 ## Turan Sert Kimdir?
 
 
-<img align="left" src="/assets/TS_1_800.jpg" style="width:10%; height:20%; padding-right:20px">  
+<img align="left" src="/assets/TS_1_800.jpg" style="width:30%; padding-right:20px">  
 
 Son yıllarda blok zincir teknolojisi alanında yazdığı yazılar ile tanınan Turan Sert, Hendek, Sakarya’da doğdu. Ankara Atatürk Anadolu Lisesi ve Boğaziçi Üniversitesi İktisadi ve İdari Bilimler Fakültesi İşletme Bölümünü bitirdi. Turan Sert’in ilk yılları, iş hayatındaki ilk dönemi, farklı denemeleri ve ülkeye dönüş serüvenini bu yazımızda bulabilirsiniz. İyi okumalar!
+
+
+&nbsp;
+&nbsp;
 
 ### İlk yıllar
 Turan Sert hayata biraz erken başladı. Evde okuma-yazma öğrenince, Hendek’te ilkokula ikinci sınıftan başlatılan Sert’in; babasının işi nedeniyle sık şehir değiştirdiği bir çocukluğu oldu. O zamanlar yapılan lise giriş sınavlarına Safranbolu’daki ilkokulundan giren tek çocuk olarak Ankara Atatürk Anadolu Lisesi’ni kazanınca; diğer sınıf arkadaşlarından bir yaş küçük olarak liseye yatılı gitti.
