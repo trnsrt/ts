@@ -29,6 +29,10 @@ Son yıllarda blok zincir teknolojisi alanında yazdığı yazılar ile tanınan
 ### İlk yıllar
 Turan Sert hayata biraz erken başladı. Evde okuma-yazma öğrenince, Hendek’te ilkokula ikinci sınıftan başlatılan Sert’in; babasının işi nedeniyle sık şehir değiştirdiği bir çocukluğu oldu. O zamanlar yapılan lise giriş sınavlarına Safranbolu’daki ilkokulundan giren tek çocuk olarak Ankara Atatürk Anadolu Lisesi’ni kazanınca; diğer sınıf arkadaşlarından bir yaş küçük olarak liseye yatılı gitti.
 
+![TS](/assets/TS_2.jpg)
+
+
+
 <img align="left" src="/assets/TS_2.jpg" style="width:80%; padding-right:20px">  
 
 Ankara’daki lise yıllarından sonra bu sefer İstanbul’da Boğaziçi Üniversitesi’ni kazandı. İşletme Bölümüne gerçekten isteyerek mi girdi yoksa bölümün dönemdeki popülerliğine mi kapıldı pek bilinmese de; Boğaziçi Üniversitesi camiasından olmaktan gurur duyduğu sözlerinden anlaşılıyor.
@@ -36,7 +40,8 @@ Ankara’daki lise yıllarından sonra bu sefer İstanbul’da Boğaziçi Ünive
 ### İş Hayatındaki İlk Dönem
 Sert, üniversite sonrası hemen iş hayatına giriyor. Önce Arthur Andersen’da denetçi olarak başlayan Sert; buarada  muhasebenin özünü anlayıp, finansal tabloları okuyup yorumlayabilmeyi deneyimliyor. Daha sonra ise iş hayatına Garanti Bankası’nda şirket satın almaları uzmanı olarak devam ediyor. Yatırım bankacılığı gerek Türkiye’nin genel yapısını, gerekse önde gelen şirketlerini tanıma fırsatını kendisine veriyor. Bunun yanında teknik olarak değerleme yapmayı da burada öğreniyor. Az bilinen bir konuyu (şirket birleşmesi ve halka arz gibi) herkesin anlayacağı şekilde anlatabilmeyi becerisi ve alışkanlığını Garanti Bankası’nda çalıştığı zamanlarda ediniyor.
 
-<img align="left" src="/assets/TS_3_800.jpg" style="width:40%; padding-right:20px">  
+<a href="http://bit.ly/Sorularla_Blockchain"> <img alt="Kitabı indirmek için tıklayin" src="/assets//assets/TS_3_800.jpg" width="50%"></a>
+
 
 ### Harvard Business School
 Sert ileri dönemlerde iş hayatında belli bir tecrübe edindikten sonra, yurtdışı deneyimi kazanmak için MBA yapmaya karar veriyor. Harvard Business School’dan kabul almayı belki de kariyerindeki en önemli dönüm noktası olarak görüyor çünkü kendi deyimiyle ne kadar az şey bildiğini öğrendiği zamana denk geliyor. Amerika’daki ilk sabah kahvaltısını gülerek şöyle anlatıyor:
