@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "DeFi bir oyuncak mı?"
+date:   2020-09-03 18:47:56 +0300
+categories: Genel
+tags: Yazılar DeFi
+---
+
+
 Kripto paralar daha da özelinde Merkeziyetsiz Finans (DeFi) konusunu konuştuğum kişilerden aldığım tepki genelde "İyi ama bunlar çok küçük değil mi? Kocaman bir finans dünyası var ortada, bunlar yanında pire gibi kalıyor" oluyor. Tabii bunun hemen arkasında gelen yorum "Bütün bu anlatılanlar çok karışık, çok reel gelmiyor bana" oluyor. Haklılar - ama şu an için. 
 
 ### "Bir sonraki büyük 'şey' başlangıçta bir oyuncak gibi görünecek"
@@ -55,4 +64,9 @@ Ancak bunlarla da sınırlı değil yapabildikleriniz. Geçtiğimiz [bir yazıda
 
 Şu anda hayal, ya da oyuncak gibi görünen bu yapılar bir gün gerçek olacak mı? Bugünden kestirmek zor. Ama hep yazdığımız gibi yapılabilecekleri düşünmek bile çok ama çok heyecan verici.. 
 
+---
+
+*Not 1: Bu yazı ilk olarak 1 Eylül 2020'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/defi-bir-oyuncak-mi/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
