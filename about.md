@@ -21,16 +21,16 @@ Blockchain Türkiye aracılığıyla 2019 yılında yayınlanan "[Sorularla Bloc
 
 &nbsp;
 
-Yukarısı kısa özet isteyenler için. Daha detaylı hayat hikayemi duymak isterseniz aşağıda bir kopyası olan Coinbilgi'deki [yazıya göz atabilirsiniz](https://www.coinbilgi.net/turan-sert-kimdir/). 
+Yukarı kısım kısa özet isteyenler için. Daha detaylı hayat hikayemi duymak isterseniz aşağıda bir kopyası olan Coinbilgi'deki [yazıya göz atabilirsiniz](https://www.coinbilgi.net/turan-sert-kimdir/). 
 
 ## Turan Sert Kimdir?
 
 
-<img align="left" src="/assets/TS_1_800.jpg" style="width:20%; padding-right:20px">  
+<img align="left" src="/assets/TS_1_800.jpg" style="width:40%; padding-right:20px">  
 
 Son yıllarda blok zincir teknolojisi alanında yazdığı yazılar ile tanınan Turan Sert, Hendek, Sakarya’da doğdu. Ankara Atatürk Anadolu Lisesi ve Boğaziçi Üniversitesi İktisadi ve İdari Bilimler Fakültesi İşletme Bölümünü bitirdi. Turan Sert’in ilk yılları, iş hayatındaki ilk dönemi, farklı denemeleri ve ülkeye dönüş serüvenini bu yazımızda bulabilirsiniz. İyi okumalar!
-
-
+ 
+ 
 &nbsp;
 
 ### İlk yıllar
