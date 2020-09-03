@@ -17,6 +17,10 @@ Blockchain Türkiye aracılığıyla 2019 yılında yayınlanan "[Sorularla Bloc
 
 ---
 
+&nbsp;
+
+&nbsp;
+
 Yukarısı kısa özet isteyenler için. Daha detaylı hayat hikayemi duymak isteseniz aşağıda bir kopyası olan Coinbilgi'deki [yazıya göz atabilirsiniz](https://www.coinbilgi.net/turan-sert-kimdir/). 
 
 ## Turan Sert Kimdir?
