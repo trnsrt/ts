@@ -50,10 +50,8 @@ Klonlama ile çıkan platformların pek çoğunu dikkatle izlemekte fayda var. Y
 
 DeFi risklerini hep söylüyoruz: Yukarıda bahsettiğim yearn.finance ürününde üç ayrı plaformda işlem yaparken sayamayacağınız kadar çok Akıllı Kontrat kullanıyorsunuz. Bunların herhangi birinde çıkacak sorun da sizin canınız yanabilir. Keza koyduğunuz para ETH, ETH'nin değerinin ani düşüşlerinde bu sistemlerin sorun yaşama ihtimali (MakerDAO'nın "Kara Perşembe" sırasında yaşadığı gibi) var. 
 
+Peki nasıl korunabiliriz bu risklerden? Bu çok ayrı bir yazı konusu, ayrıca gerek Twitter gerekse internet üzerinde bu konuyla ilgili pek çok yazı var. En basit ve temel olanı - eğer ilginiz ve cesaretiniz var ve yatırım yapmak istiyorsanız, yatıracağınız para canınızı acıtmayacak miktarda olsun. 
 
 
-
-
-
-
-Belki de biz çok yavaşızdır?
+Sonuç
+DeFi piyasaların çok hızlı gittiği, her gün yeni ve riskli ürünler çıktığı, akıl almaz kazanç oranlarının telaffuz edildiği bir gerçek. Bunların geçici olduğu ve uzun vadede normale yaklaşacağı da bir gerçek. Ancak bu hıza bakarak bu ürünlerin tamamını genelleme yaparak Ponzi olarak değerlendirmek ne kadar doğru. İster misiniz aynayı kendimize tutalım? Belki de biz çok yavaşızdır?... 
