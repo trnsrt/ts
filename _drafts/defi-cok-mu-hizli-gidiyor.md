@@ -22,10 +22,26 @@ Ama bankacılık sistemi bu emanet hesapları (belki de kendilerince haklı olar
 
 DeFi da ise, eğer bir elektronik kripto cüzdanınız varsa hükümdar sizsiniz. Zira DeFi ürünlerin çoğunluğu emanet sistemi çalışmıyor. Yani sizin paranıza dokunmuyorlar - size kelimenin doğru anlamı ile aracılık ediyorlar, o kadar. Herhangi bir DeFi ürünün sitesine girdiğinizde genelde sağ üst köşede görünen cüzdan bağla butonuna bastığınızda cüzdanınızı saniyeler içinde bağlayıp, sitede işlem yapıp çıktığınızda artık o siteye bir daha girmek zorunda değilsiniz (pek çok ürün için bu böyle, tabii ki paranızı bağladığınız daha ileri seviyeler için bu böyle olmasa da yine klasik sistemlere göre çok daha rahat)..
 
+
+Pazar nasıl bu kadar hızlı büyüyor? 
+
+Pazarın hızlı büyümesinin temel nedenlerinden biri kullanıcıya verdiği özgürlük. Nasıl bir özgürlük? İstediklerinde bir platformdan diğerine geçebilmeleri. Bu da DeFi'in temel ilkelerinden birinden geliyor - o da uyumluluk. Bu platformlar kendi aralarında kabul görmüş standartlar ile çalışıyorlar. Öncelikle altyapı olarak Ethereum kullanıyor. Token çıkarıyorlar ise ERC20 protokolü ile ETC türevi paralar çıkarıyorlar. Hemen hemen hepsi bütün büyük cüzdanlar ile bağlantı kurabiliyorlar. 
+
+Peki nasıl hergün yeni bir ürün çıkabiliyor? 
+
+Bu uyum yalnızca müşterinin bir aracıdan diğerine geçişi ile sınırlı değil. Bunun yanında farklı ürünler sunan platformların birbirlerinin ürünlerini ya da karmalarını çıkardıklarını görebiliyorsunuz. Karmaşık bir örnek olacak ama örneğin yearn.finance adlı para yönetici sisteme para koyduğunuzda, o paranızı alıp MakerDAO sistemine teminat gösterip DAI borçlanma yapıyor, aldığı DAI'yı stabil paraların alım satımında çok kullanılan Curve isimli borsaya likidite olarak koyup yapılan işlemlerden komisyon kazanıyor. Bakın bu işlemde birbirinden farklı üç adet sistem uyum içinde çalışıyor.
+
+İşte bu uyumluluk da başlangıçta hayal edemeyeceğiniz kadar farklı ürünlerin çıkmasına ve pazarda arbitraj imkanları doğmasına yol açıyor. Bu arbitrajları değerlendiren kimi ürünlerde de uçuk kazanç rakamları görebiliyorsunuz. 
+
+Tabii bununla da sınırlı değil. DeFi platformların bu kadar uyumlu olabilmesinin nedeni yine başlangıç felsefesi olan açık kaynağa dayanmaları. Bu ne demek? Sonuçta birer yazılım olan bu sistemlerin bütün kodlarının apaçık ortada olması demek. Bu aynı zamanda herhangi birinin bu kodu alıp o platformun aynısını saatler içinde yaratabilmesi demek. Çok tehlikeli değil mi bu?
+
+
 İnsanlar nasıl bu kadar hıza yetişebiliyorlar? Nasıl oluyor da bir anda üç gün önce ortada olmayan Sushi denen ürün 700 milyon ABD Doları para toplayabiliyor?
 Bunun birkaç nedeni var. Birincisi, genelde bu tip ürünlerde verilen ödüller genelde günlük/haftalık/aylık olarak sabit miktarlarda veriliyor. Verilecek toplam ödül sistem içindekilere ellerinde tuttukları miktar kadar ödeniyor. O nedenle sisteme erken girmek size büyük kazançlar getirebiliyor - zira ödül az katılımcı arasında paylaşılıyor. Bu nedenle yalnızca bu tip erken açıklanan sistemleri kollayan bir grup yatırımcı var. Bunlar elbette çok daha fazla risk alıyorlar. Ancak özellikle son birkaç ayda yaşadığımız gibi bir boğa piyasası varsa, bir kaç projede kaybetse (ki kaybeden az) bile o kaybı bir projedeki kazançtan çıkarabiliyor. Bu tip yüksek risk alanlar, ne proje denetlenmiş, ne olgunmuş, bunların hiçbirine bakmadan hareket ediyorlar. 
 
+Ancaaaak... 
 
+Evet geldik ancak köşemize: Öncelikle yukarıda bahsettiğimiz uçuk kazançlar kalıcı değil - yalnızca kısa vadeler için geçerli. Aksi de mümkün değil. Arbitraj dediğimiz iki farklı varlığın uyumsuzluğundan çıkar, para ucuz görülen varlığa kaydığında o varlığın değeri artar ve pahalı varlıktan da para çıkışı olup ucuzlar ve bu iki varlık aşağı yukarı bir dengeye oturur. DeFi sisteminde de benzer şekilde dengeler zamanla oturacak. 
 
 
 
