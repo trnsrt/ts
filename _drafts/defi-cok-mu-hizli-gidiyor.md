@@ -15,7 +15,7 @@ Burada önlerindeki en büyük engel yumurta-tavuk hikayesine dönen likidite so
 
 | ![DeFi Kurulus](/assets/DeFi_kurulus.png)|
 |:--:| 
-| Kilitlenmiş değere göre en büyük 20 DeFi protokolünün kuruluş yılı (Not: Her bir noktanın büyüklüğü kilitlenmiş değerin büyüklüğünü ifade eder) - *Kaynaklar: [DeFi Pulse](https://defipulse.com), [Messari](https://messari.io/) ve Platform web siteleri*|
+| Kilitlenmiş değere göre en büyük 20 DeFi protokolün ICO ya da operasyona başladığı yıl (Not: Her bir noktanın büyüklüğü kilitlenmiş değerin büyüklüğünü ifade eder) - *Kaynaklar: [DeFi Pulse](https://defipulse.com), [Messari](https://messari.io/) ve Platform web siteleri*|
 
 
 Peki ne oldu da bu değişti ve merkeziyetsiz sistemler yatırımcıları çekmeye başladılar? Sorun likidite idi - bu likiditeyi çekebilmek için yaptıkları pek çok numara içinde likidite karşılığı yatırımcıları ödüllendirmek metodu tuttu.. Bu işi ilk yapanlardan biri daha önce detaylı bahsettiğimiz Synthetix olsa da, asıl büyük patlama Compound ile oldu. Compound, yatırımcılara sistemlerini kullanmaları karşılığı bir token çıkardı. Yatırımcılara token vermek çok da yeni bir uygulama değil. Örneğin dünyanın en büyük merkezi borsası Binance yıllardır sistemini kullananlara kendi tokeni BNB'yi veriyor. Ancak Compound'un farklı yanı bu token sahiplerinin bir noktada merkeziyetsizlik felsefesine uygun olarak, Compound sisteminin yönetiminde söz sahibi olma hakkı idi. Her ne kadar Compound başta bu tokenların herhangi bir ekonomik değeri olmadığını belirtmiş olsa da yatırımcılar yönetimde söz sahibi olup bir noktada bunu kendi avantajlarına kullanabilecekleri spekülasyonu ile COMP tokena büyük bir ilgi gösterdiler ve DeFi patlaması başladı. 
