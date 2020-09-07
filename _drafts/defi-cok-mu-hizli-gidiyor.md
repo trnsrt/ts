@@ -5,8 +5,6 @@ DeFi’daki hıza yetişmek neredeyse imkansız. Hemen hemen her gün yeni bir �
 
 DeFi alanındaki rojelerin bir-iki günde çıktığı düşünülüyor ama bu çok da doğru sayılmaz. Bu projelerin hatırı sayılır bir kısmı 2017 yılındaki ICO çılgınlığı sırasında çıktılar ve o sırada topladıları paraları 2018-2019 yıllarındaki ayı piyasası sürecini hasarsız geçirebilmek ve projelerini geliştirmek için kullandılar. Bir nevi ağustos böceği-karınca hikayesinde karıncalar gibi.. Bu süre zarfında çeşit çeşit denemelerde bulundular. Token fiyatları uzun bir süre yerlerde süründü. Yaptıkları sistemleri kimseler kullanmadı. Start-up jargonuyla ürün-pazar uyumunu bir türlü yakalayamadılar. 
 
-
-
 | ![DeFi Kurulus](/assets/DeFi_kurulus.png)|
 |:--:| 
 | Kilitlenmiş değere göre en büyük 20 DeFi protokolün ICO ya da operasyona başladığı yıl (Not: Her bir noktanın büyüklüğü platforma kilitlenmiş değeri ifade eder) - *Kaynaklar: [DeFi Pulse](https://defipulse.com), [Messari](https://messari.io/) ve Platform web siteleri*|
@@ -17,18 +15,18 @@ Peki ne oldu da bu değişti ve merkeziyetsiz sistemler yatırımcıları çekme
 
 Yatırımcılara token vermek çok da yeni bir uygulama değil. Örneğin dünyanın en büyük merkezi kripto borsası Binance yıllardır sistemini kullananlara kendi tokeni BNB'yi veriyor. Ancak Compound'un farklı yanı [bu token sahiplerinin bir noktada merkeziyetsizlik felsefesine uygun olarak, Compound sisteminin yönetiminde söz sahibi olma hakkı idi](/genel/2020/06/25/Compoundun-yonetim-tokeni-COMP-nasil-calisiyor.html). Her ne kadar Compound başta bu tokenların herhangi bir ekonomik değeri olmadığını belirtmiş olsa da yatırımcılar yönetimde söz sahibi olup bir noktada bunu kendi avantajlarına kullanabilecekleri spekülasyonu ile COMP tokena büyük bir ilgi gösterdiler.
 
-Yalnızca bir platformun verdiği bir token mı sağladı bu DeFi patlamasını? Tabii ki hayır. Ancak bu olay, geniş kitlelerin bu alana dikkatlerinin çekilmesini sağladı. Yatırımcılar DeFi'in faydaları ile platformları kullanmaya başladıkça tanıştılar. Bunlardan en önemlisi klasik borsaların aksine DeFi piyasasının non-custodial olması yani emanet tutmaması. Bu ne demek? Efendim, gerek fiziksel gerekse dijital dünyada maddi varlıklarımızın çalınmaması, kopyalanmaması için klasik anlamda kullandığımız banka ve finans kuruluşları hep bize yardımcı oldular. Paramızı bankaya koyduğumuzda onu bankaya emanet etmiş oluyoruz. (Zaten bu emanet alma sorumluluğu nedeniyle kanun koyucular haklı olarak finans kurumlarının ensesinin tepesinde. Zira siz biz gibi bireylerin haklarını korumak istiyor devlet yetkilileri..)
+Yalnızca bir platformun verdiği bir token mı sağladı bu DeFi patlamasını? Tabii ki hayır. Ancak bu olay, geniş kitlelerin bu alana dikkatlerinin çekilmesini sağladı. Yatırımcılar DeFi'in faydaları ile platformları kullanmaya başladıkça tanıştılar. Nedir bu faydalar?
 
-Ama bankacılık sistemi bu emanet hesapları (belki de kendilerince haklı olarak) kullanırken tüketicileri ellerinde tutmak için çeşitli zoraki yöntemler kullanmaya başladılar, hâlâ da deniyorlar. Eskiden kurulmuş sistemlerin geriliği nedeniyle müşterinin karşısına getirilen zorluklardan teknoloji artık daha kolayına  imkan verse de bir türlü vazgeçilmiyor. Örneğin paranızı bir bankadan öbürüne taşımak hala masraflı. Para nispeten daha kolay ama yatırımlarınızı bir kurumdan öbürüne taşımak sorun. Her bir aracı kurum için ayrı hesaplar ama aynı evraklar, süreçler her seferinde tekrar tekrar yaşanmak zorunda. 
+En önemlisi klasik borsaların aksine DeFi piyasasının non-custodial olması yani emanet tutmaması. Bu ne demek? Efendim, gerek fiziksel gerekse dijital dünyada maddi varlıklarımızın çalınmaması, kopyalanmaması için klasik anlamda kullandığımız banka ve finans kuruluşları hep bize yardımcı oldular. Paramızı bankaya koyduğumuzda onu bankaya emanet etmiş oluyoruz. (Zaten bu emanet alma sorumluluğu nedeniyle kanun koyucular haklı olarak finans kurumlarının ensesinin tepesinde. Zira siz biz gibi bireylerin haklarını korumak istiyor devlet yetkilileri..) Ama bankacılık sistemi bu emanet hesapları (belki de kendilerince haklı olarak) kullanırken tüketicileri ellerinde tutmak için çeşitli zoraki yöntemler kullanmaya başladılar, hâlâ da deniyorlar. Eskiden kurulmuş sistemlerin geriliği nedeniyle müşterinin karşısına getirilen zoraki isteklerden teknoloji artık daha kolayına imkan verse de bir türlü vazgeçilmiyor. Örneğin paranızı bir bankadan öbürüne taşımak hala masraflı. Para nispeten daha kolay ama yatırımlarınızı bir kurumdan öbürüne taşımak sorun. Her bir aracı kurum için ayrı hesaplar ama aynı evraklar, süreçler her seferinde tekrar tekrar yaşanmak zorunda. 
 
 DeFi da ise, eğer bir elektronik kripto cüzdanınız varsa hükümdar sizsiniz. Zira DeFi ürünlerin çoğunluğu emanet sistemi çalışmıyor. Yani sizin paranıza dokunmuyorlar - size kelimenin doğru anlamı ile aracılık ediyorlar, o kadar. Herhangi bir DeFi ürünün sitesine girdiğinizde genelde sağ üst köşede görünen cüzdan bağla butonuna bastığınızda cüzdanınızı saniyeler içinde bağlayıp, sitede işlem yapıp çıktığınızda artık o siteye bir daha girmek zorunda değilsiniz (pek çok ürün için bu böyle, tabii ki paranızı bağladığınız daha ileri seviyeler için bu böyle olmasa da yine klasik sistemlere göre çok daha rahat)..
 
 
-Pazar nasıl bu kadar hızlı büyüyor? 
+### Pazar nasıl bu kadar hızlı büyüyor? 
 
 Pazarın hızlı büyümesinin temel nedenlerinden biri kullanıcıya verdiği özgürlük. Nasıl bir özgürlük? İstediklerinde bir platformdan diğerine geçebilmeleri. Bu da DeFi'in temel ilkelerinden birinden geliyor - o da uyumluluk. Bu platformlar kendi aralarında kabul görmüş standartlar ile çalışıyorlar. Öncelikle altyapı olarak Ethereum kullanıyor. Token çıkarıyorlar ise ERC20 protokolü ile ETC türevi paralar çıkarıyorlar. Hemen hemen hepsi bütün büyük cüzdanlar ile bağlantı kurabiliyorlar. 
 
-Peki nasıl hergün yeni bir ürün çıkabiliyor? 
+### Peki nasıl hergün yeni bir ürün çıkabiliyor? 
 
 Bu uyum yalnızca müşterinin bir aracıdan diğerine geçişi ile sınırlı değil. Bunun yanında farklı ürünler sunan platformların birbirlerinin ürünlerini ya da karmalarını çıkardıklarını görebiliyorsunuz. Karmaşık bir örnek olacak ama örneğin yearn.finance adlı para yönetici sisteme para koyduğunuzda, o paranızı alıp MakerDAO sistemine teminat gösterip DAI borçlanma yapıyor, aldığı DAI'yı stabil paraların alım satımında çok kullanılan Curve isimli borsaya likidite olarak koyup yapılan işlemlerden komisyon kazanıyor. Bakın bu işlemde birbirinden farklı üç adet sistem uyum içinde çalışıyor.
 
@@ -45,7 +43,7 @@ Bu arada treni kaçırdık diye üzülüyorsanız üzülmeyin. Bu tip ani hareke
 
 Bir başka konu da şu: Geçmişte klasik girişimcilikte de aslında her girişimin başında o girişime para yatıranlar, eğer girişim başarılı olursa korkunç paralar kazandılar. Biz faniler ise bu girişimler belli büyüklüğe gelip riskleri nispeten azaldıktan sonra (ya da bize o şekilde yutturulduktan sonra) yüksek değerlerden girdik, kazancımız da benzer şekilde az oldu. Şimdi DeFi sistemindeki yeni girişimler klasik anlamda girişim sermayelerinin verdikleri paraları kendi kullanıcılarından sistemlerini kullanmaları karşılığı topluyorlar, bu sayede bireysel yatırımcılar da bu girişimlere erken girip yüksek kazanç sağlama imkanınına kavuşuyorlar. Tabii ki girişim sermayelerinin de hep yaşadığı (ama hiç reklamını yapmadığı) on girişimin dokuzunun batmasi gibi bir riski göze alarak.. 
 
-Ancaaaak... 
+### Ancaaaak... 
 
 Evet geldik ancak köşemize: Öncelikle yukarıda bahsettiğimiz uçuk kazançlar kalıcı değil - yalnızca kısa vadeler için geçerli. Aksi de mümkün değil. Arbitraj dediğimiz iki farklı varlığın uyumsuzluğundan çıkar, para ucuz görülen varlığa kaydığında o varlığın değeri artar ve pahalı varlıktan da para çıkışı olup ucuzlar ve bu iki varlık aşağı yukarı bir dengeye oturur. DeFi sisteminde de benzer şekilde dengeler zamanla oturacak. 
 
@@ -56,6 +54,6 @@ DeFi risklerini hep söylüyoruz: Yukarıda bahsettiğim yearn.finance ürünün
 Peki nasıl korunabiliriz bu risklerden? Bu çok ayrı bir yazı konusu, ayrıca gerek Twitter gerekse internet üzerinde bu konuyla ilgili pek çok yazı var. En basit ve temel olanı - eğer ilginiz ve cesaretiniz var ve yatırım yapmak istiyorsanız, yatıracağınız para canınızı acıtmayacak miktarda olsun. 
 
 
-Sonuç:
+### Sonuç:
 
 DeFi piyasaların çok hızlı gittiği, her gün yeni ve riskli ürünler çıktığı, akıl almaz kazanç oranlarının telaffuz edildiği bir gerçek. Bunların geçici olduğu ve uzun vadede normale yaklaşacağı da bir gerçek. Ancak bu hıza bakarak bu ürünlerin tamamını genelleme yaparak Ponzi olarak değerlendirmek ne kadar doğru. İster misiniz aynayı kendimize tutalım? Belki de biz çok yavaşızdır?... 
