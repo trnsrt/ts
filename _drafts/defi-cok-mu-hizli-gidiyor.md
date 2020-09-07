@@ -1,18 +1,22 @@
-DeFi’daki hıza yetişmek neredeyse imkansız. Her gün yeni bir ürün çıkıyor. Bu sağlıklı mı? Yoksa bir numaralar mı dönüyor? Gelin neler oluyor, neden oluyor hızlıca bir bakalım.. 
+DeFi’daki hıza yetişmek neredeyse imkansız. Hemen hemen her gün yeni bir ürün çıkıyor. Bu sağlıklı mı? Yoksa bir numaralar mı dönüyor? Gelin neler oluyor, neden oluyor hızlıca bir bakalım.. 
 
 
-### 
+### Aslında o kadar da yeni değiller
 
+DeFi alanındaki rojelerin bir-iki günde çıktığı düşünülüyor ama bu çok da doğru sayılmaz. Bu projelerin hatırı sayılır bir kısmı 2017 yılındaki ICO çılgınlığı sırasında çıktılar ve o sırada topladıları paraları 2018-2019 yıllarındaki ayı piyasası sürecini hasarsız geçirebilmek ve projelerini geliştirmek için kullandılar. Bir nevi ağustos böceği-karınca hikayesinde karıncalar gibi.. Bu süre zarfında çeşit çeşit denemelerde bulundular. Token fiyatları uzun bir süre yerlerde süründü. Yaptıkları sistemleri kimseler kullanmadı. Start-up jargonuyla ürün-pazar uyumunu bir türlü yakalayamadılar. 
 
+Tether 2014'den beri var, UMA ve Synthetix de öyle.. 
 Verilen ekstra ödüller. 
 
 
-Projelerin bir-iki günde çıktığı düşünülüyor ama pek çok hatırı sayılır proje için bu geçerli değil. Bu projelerin hatırı sayılır bir kısmı 2017 yılındaki ICO çılgınlığı sırasında çıktılar. Bunlar, o sırada topladıları paraları ekiplerini 2018-2019 yıllarında ayı piyasasını geçirebilmek için kullandılar. Bir nevi ağustos böceği-karınca hikayesinde karıncalar gibi.. Bu süre zarfında çeşit çeşit denemelerde bulundular. Token fiyatları uzun bir süre yerlerde süründü. Yaptıkları sistemleri kimseler kullanmadı. Start-up jargonuyla ürün-pazar uyumunu bir türlü yakalayamadılar. 
-
-Tether 2014'den beri var, UMA ve Synthetix de öyle.. 
-
-
 Burada önlerindeki en büyük engel yumurta-tavuk hikayesine dönen likidite sorunu idi. Geleneksel itibari (fiat) paradan kripto dünyasına geçiş hep merkezi borsalar aracılığıyla oldu. Bu borsalar uzunca bir süre yatırımcıları ellerinde tutmayı başardılar - zira giriş-çıkışlar nedeniyle en büyük likidite onlarda idi.. Merkeziyetsiz borsalar kasabın kapısında aç bekleyen sokak hayvanlarına döndüler.. Bu anlamda yatırımcıyı kendisine çekecek havucu bulamadılar bir türlü. 
+
+
+
+| ![DeFi Kurulus](/assets/DeFi_kurulus.png)|
+|:--:| 
+| Kilitlenmiş değere göre en büyük 20 DeFi protokolünün kuruluş yılı (Not: Her bir noktanın büyüklüğü kilitlenmiş değerin büyüklüğünü ifade eder) - *Kaynaklar: [DeFi Pulse](https://defipulse.com), [Messari](https://messari.io/) ve Platform web siteleri*|
+
 
 Peki ne oldu da bu değişti ve merkeziyetsiz sistemler yatırımcıları çekmeye başladılar? Sorun likidite idi - bu likiditeyi çekebilmek için yaptıkları pek çok numara içinde likidite karşılığı yatırımcıları ödüllendirmek metodu tuttu.. Bu işi ilk yapanlardan biri daha önce detaylı bahsettiğimiz Synthetix olsa da, asıl büyük patlama Compound ile oldu. Compound, yatırımcılara sistemlerini kullanmaları karşılığı bir token çıkardı. Yatırımcılara token vermek çok da yeni bir uygulama değil. Örneğin dünyanın en büyük merkezi borsası Binance yıllardır sistemini kullananlara kendi tokeni BNB'yi veriyor. Ancak Compound'un farklı yanı bu token sahiplerinin bir noktada merkeziyetsizlik felsefesine uygun olarak, Compound sisteminin yönetiminde söz sahibi olma hakkı idi. Her ne kadar Compound başta bu tokenların herhangi bir ekonomik değeri olmadığını belirtmiş olsa da yatırımcılar yönetimde söz sahibi olup bir noktada bunu kendi avantajlarına kullanabilecekleri spekülasyonu ile COMP tokena büyük bir ilgi gösterdiler ve DeFi patlaması başladı. 
 
