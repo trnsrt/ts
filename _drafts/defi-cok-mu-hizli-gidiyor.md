@@ -67,7 +67,7 @@ Adil dağıtım (fair launch) olarak adlandırılan değerin paylaşımın adil 
 
 DeFi ürünler ile ilgili her yazımızda belirttiğimiz gibi bu ürünler yap-boz şeklinde gelişiyor, bunların kimileri tutacak belki pek çoğu da batacak. Ancak böyle böyle bu sistemler gelişecek. Bu durumu azımsamak, küçümsemek yerine böyle olduğunu kabullenip ona göre değerlendirmek önemli - zira bu alanda ayakta kalacak projelerin uzun vadede kullanıcılara dijital dünyada finansal özgürlük anlamında ciddi kazanımlar sağlayacağını unutmamak gerekiyor. 
 
-Peki nasıl korunabiliriz bu risklerden? Bu çok ayrı bir yazı konusu, ayrıca gerek Twitter gerekse internet üzerinde bu konuyla ilgili pek çok yazı bulabilirsiniz. En basit ve temel olanı - ilginiz, cesaretiniz var ve yatırım da yapmak istiyorsanız, yatıracağınız para canınızı acıtmayacak miktarda olsun. 
+Peki nasıl korunabiliriz bu risklerden? Bu çok ayrı bir yazı konusu, ayrıca gerek Twitter gerekse internet üzerinde bu konuyla ilgili pek çok yazı bulabilirsiniz. En basit ve temel olanı: ilginiz, cesaretiniz var ve yatırım da yapmak istiyorsanız, yatıracağınız para canınızı acıtmayacak miktarda olsun. 
 
 ### Sonuç:
 
