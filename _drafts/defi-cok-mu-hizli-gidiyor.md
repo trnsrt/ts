@@ -69,6 +69,6 @@ DeFi ürünler ile ilgili her yazımızda belirttiğimiz gibi bu ürünler yap-b
 
 Peki nasıl korunabiliriz bu risklerden? Bu çok ayrı bir yazı konusu, ayrıca gerek Twitter gerekse internet üzerinde bu konuyla ilgili pek çok yazı bulabilirsiniz. En basit ve temel olanı: ilginiz, cesaretiniz var ve yatırım da yapmak istiyorsanız, yatıracağınız para canınızı acıtmayacak miktarda olsun. 
 
-### Sonuç:
+### Sonuç
 
 DeFi piyasaların çok hızlı gittiği, her gün yeni ve riskli ürünler çıktığı, akıl almaz kazanç oranlarının telaffuz edildiği bir gerçek. Bunların geçici olduğu ve uzun vadede normale yaklaşacağı da aynı şekilde bir gerçek. Ancak bu hıza bakarak bu ürünlerin tamamını genelleme yapmak ve Ponzi olarak değerlendirmek ne kadar doğru? İster misiniz aynayı kendimize tutalım? Belki de biz çok yavaşız?... 
