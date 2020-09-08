@@ -83,7 +83,7 @@ DeFi piyasalarının çok hızlı gittiği, her gün yeni ve riskli ürünler ç
 
 ---
 
-*Not 1: Bu yazı ilk olarak 8 Eylül 2020'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/defi-bir-oyuncak-mi/)*
+*Not 1: Bu yazı ilk olarak 8 Eylül 2020'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/defi-cok-mu-hizli-gidiyor/)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
