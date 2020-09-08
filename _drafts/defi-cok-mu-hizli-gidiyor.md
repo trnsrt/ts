@@ -7,7 +7,7 @@ DeFi alanındaki rojelerin bir-iki günde çıktığı düşünülüyor ama bu �
 
 | ![DeFi Kurulus](/assets/DeFi_kurulus_v3.png)|
 |:--:| 
-| Kilitlenmiş değere göre en büyük 20 DeFi protokolün ICO ya da operasyona başladığı yıl (Not: Her bir noktanın büyüklüğü platforma kilitlenmiş değeri ifade eder) - *Kaynaklar: [DeFi Pulse](https://defipulse.com), [Messari](https://messari.io/) ve Platform web siteleri*|
+| Kilitlenmiş değere göre en büyük 20 DeFi protokolün ICO ya da operasyona başladığı yıl (Not: Her bir noktanın büyüklüğü platforma kilitlenmiş değeri ifade eder) - *Kaynaklar: [DeFi Pulse](https://defipulse.com), [Messari](https://messari.io/) ve platform web siteleri*|
 
 Burada önlerindeki en büyük engel yumurta-tavuk hikayesine dönen likidite sorunu idi. Geleneksel itibari (fiat) paradan kripto dünyasına geçiş hep merkezi borsalar aracılığıyla oldu. Bu borsalar uzunca bir süre bu dünyaya yeni yatırımcıları ellerinde tutmayı başardılar - zira giriş-çıkışlar nedeniyle en büyük likidite onlarda idi.. Merkeziyetsiz borsalar ise kasabın kapısında aç-bilaç bekleyen kedilere döndüler.. Bu anlamda yatırımcıyı kendisine çekecek havucu bir türlü bulamadılar. 
 
