@@ -71,4 +71,4 @@ Peki nasıl korunabiliriz bu risklerden? Bu çok ayrı bir yazı konusu, ayrıca
 
 ### Sonuç
 
-DeFi piyasalarının çok hızlı gittiği, her gün yeni ve riskli ürünler çıktığı, akıl almaz kazanç oranlarının telaffuz edildiği bir gerçek. Bunların geçici olduğu ve uzun vadede normale yaklaşacağı da aynı şekilde bir gerçek. Ancak bu hıza bakarak bu ürünlerin tamamını genelleme yapmak ve Ponzi olarak değerlendirmek ne kadar doğru? İster misiniz aynayı kendimize tutalım? Belki de biz çok yavaşız?... 
+DeFi piyasalarının çok hızlı gittiği, her gün yeni ve riskli ürünler çıktığı, akıl almaz kazanç oranlarının telaffuz edildiği bir gerçek. Keza bunların geçici olduğu ve uzun vadede normale yaklaşacağı da benzer şekilde tahmin edilebiliyor. Ancak bu hıza bakarak bu ürünlerin tamamı için genelleme yapmak ve Ponzi olarak değerlendirmek ne kadar doğru? Onun yerine ister misiniz aynayı kendimize tutalım? Belki de biz çok yavaşız?
