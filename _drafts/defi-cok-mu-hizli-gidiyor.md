@@ -1,4 +1,4 @@
-DeFi’daki hıza yetişmek neredeyse imkansız. Hemen hemen her gün yeni bir ürün çıkıyor. Bu sağlıklı mı? Yoksa bir numaralar mı dönüyor? Gelin neler oluyor, neden oluyor hızlıca bir bakalım.. 
+DeFi’daki hıza yetişmek neredeyse imkansız. Hemen hemen her gün yeni bir ürün çıkıyor. Bu sağlıklı mı? Yoksa bir numaralar mı dönüyor? Gelin neler oluyor hızlıca bir bakalım.. 
 
 
 ### Aslında o kadar da yeni değiller
