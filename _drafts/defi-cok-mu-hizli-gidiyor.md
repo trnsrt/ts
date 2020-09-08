@@ -27,7 +27,7 @@ DeFi da ise, eğer bir elektronik kripto cüzdanınız varsa hükümdar sizsiniz
 
 Pazarın hızlı büyümesinin temel nedenlerinden biri kullanıcıya verdiği özgürlük. Nasıl bir özgürlük? İstediklerinde bir platformdan diğerine geçebilmeleri. Bu da DeFi'in temel ilkelerinden birinden geliyor - o da uyumluluk. Bu platformlar kendi aralarında kabul görmüş standartlar ile çalışıyorlar. Öncelikle altyapı olarak Ethereum kullanıyor. Token çıkarıyorlar ise ERC20 protokolü ile ETC türevi paralar çıkarıyorlar. Hemen hemen hepsi bütün büyük cüzdanlar ile bağlantı kurabiliyorlar. 
 
-### Farklı platformları bir arada kullanabilir  
+#### Farklı platformları bir arada kullanabilir  
 
 Peki nasıl hergün yeni bir ürün çıkabiliyor? Bu uyum yalnızca müşterinin bir aracıdan diğerine geçişi ile sınırlı değil. Bunun yanında farklı ürünler sunan platformların birbirlerinin ürünlerini ya da karmalarını çıkardıklarını görebiliyorsunuz. Karmaşık bir örnek olacak ama örneğin yearn.finance adlı para yönetici sisteme para koyduğunuzda, sistem paranızı alıp MakerDAO sistemine teminat gösterip DAI borçlanma yapıyor, aldığı DAI'yı stabil paraların alım satımında çok kullanılan Curve isimli borsaya likidite olarak koyup yapılan işlemlerden komisyon kazanıyor. Bakın bu işlemde birbirinden farklı üç adet sistem uyum içinde çalışıyor.
 
