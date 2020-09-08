@@ -25,6 +25,8 @@ permalink: /articles/
   - [Blockchain finans dünyasını nasıl etkileyecek?](/genel/2019/02/14/Blockchain-finans-dunyasini-nasil-etkileyecek.html)
   - [DeFi neden önemli?](/genel/2020/06/11/DeFi-neden-onemli.html)
   - [Bitcoin ile DeFi benzer mi?](/genel/2020/06/25/Bitcoin-ile-DeFi-benzer-mi.html)
+  - [DeFi bir oyuncak mı?](/genel/2020/09/03/defi_bir_oyuncak_mi.html)
+  - [DeFi çok mu hızlı gidiyor?](/genel/2020/09/08/defi-cok-mu-hizli-gidiyor.html)
   - [DeFi yeni ICO çılgınlığı mı?](/genel/2020/07/23/DeFi-yeni-ICO-cilginligi-mi.html)
   - [CeFi'dan DeFi'ya... Merkeziyetsizleştiremediklerimizden misiniz?](/genel/2020/08/13/cefi-den-defiya-merkeziyetsizlestiremediklerimizden-misiniz.html)
   - [MakerDAO kredi kullanımında çığır açar mı?](/genel/2019/02/15/MakerDAO-kredi-kullaniminda-cigir-acar-mi.html)
