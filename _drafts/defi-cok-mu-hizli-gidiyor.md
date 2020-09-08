@@ -5,7 +5,7 @@ DeFi’daki hıza yetişmek neredeyse imkansız. Hemen hemen her gün yeni bir �
 
 DeFi alanındaki rojelerin bir-iki günde çıktığı düşünülüyor ama bu çok da doğru sayılmaz. Bu projelerin hatırı sayılır bir kısmı 2017 yılındaki ICO çılgınlığı sırasında çıktılar ve o sırada topladıları paraları 2018-2019 yıllarındaki ayı piyasası sürecini hasarsız geçirebilmek ve projelerini geliştirmek için kullandılar. Bir nevi ağustos böceği-karınca hikayesinde karıncalar gibi.. Bu süre zarfında çeşit çeşit denemelerde bulundular. Token fiyatları uzun bir süre yerlerde süründü. Yaptıkları sistemleri kimseler kullanmadı. Start-up jargonuyla ürün-pazar uyumunu bir türlü yakalayamadılar. 
 
-| ![DeFi Kurulus](/assets/DeFi_kurulus.png)|
+| ![DeFi Kurulus](/assets/DeFi_kurulus_v2.png)|
 |:--:| 
 | Kilitlenmiş değere göre en büyük 20 DeFi protokolün ICO ya da operasyona başladığı yıl (Not: Her bir noktanın büyüklüğü platforma kilitlenmiş değeri ifade eder) - *Kaynaklar: [DeFi Pulse](https://defipulse.com), [Messari](https://messari.io/) ve Platform web siteleri*|
 
