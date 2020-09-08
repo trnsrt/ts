@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "DeFi çok mu hızlı gidiyor"
+date:   2020-09-08 18:47:56 +0300
+categories: Genel
+tags: Yazılar DeFi
+---
+
 DeFi’daki hıza yetişmek neredeyse imkansız. Hemen hemen her gün yeni bir ürün çıkıyor. Bu sağlıklı mı? Yoksa bir numaralar mı dönüyor? Küçük yatırımcılar olarak fırsat mı kaçırıyoruz? Gelin neler oluyor hızlıca bir bakalım.. 
 
 
@@ -72,3 +80,11 @@ Peki nasıl korunabiliriz bu risklerden? Bu çok ayrı bir yazı konusu, ayrıca
 ### Sonuç
 
 DeFi piyasalarının çok hızlı gittiği, her gün yeni ve riskli ürünler çıktığı, akıl almaz kazanç oranlarının telaffuz edildiği bir gerçek. Keza bunların geçici olduğu ve uzun vadede normale yaklaşacağı da benzer şekilde tahmin edilebiliyor. Ancak bu hıza bakarak bu ürünlerin tamamı için genelleme yapmak ve Ponzi olarak değerlendirmek ne kadar doğru? Onun yerine ister misiniz aynayı kendimize tutalım? Belki de biz çok yavaşız?
+
+---
+
+*Not 1: Bu yazı ilk olarak 8 Eylül 2020'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/defi-bir-oyuncak-mi/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+
