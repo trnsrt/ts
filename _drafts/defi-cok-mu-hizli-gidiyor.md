@@ -29,7 +29,7 @@ Pazarın hızlı büyümesinin temel nedenlerinden biri kullanıcıya verdiği �
 
 #### Farklı platformları bir arada kullanabilir  
 
-Peki nasıl hergün yeni bir ürün çıkabiliyor?  Farklı ürünler sunan platformların birbirlerinin ürünlerini kullandığını ya da karma ürünler çıkardığını görebiliyorsunuz. Karmaşık bir örnek olacak ama örneğin yearn.finance adlı para yönetici sisteme para koyduğunuzda, sistem paranızı alıp MakerDAO sistemine teminat göstererek DAI borçlanma yapıyor, aldığı DAI'yı stabil paraların alım satımında çok kullanılan Curve isimli borsaya likidite olarak koyup yapılan işlemlerden komisyon kazanıyor. Bakın bu işlemde birbirinden farklı üç adet sistem uyum içinde çalışıyor.
+Peki nasıl hergün yeni bir ürün çıkabiliyor?  Farklı ürünler sunan platformların birbirlerinin ürünlerini kullandığını ya da karma ürünler çıkardığını görebiliyorsunuz. Karmaşık bir örnek olacak ama örneğin [yearn.finance](https://yearn.finance/) adlı para yönetici sisteme para koyduğunuzda, sistem paranızı alıp [MakerDAO](https://makerdao.com/en/) sistemine teminat göstererek [DAI](https://oasis.app/) borçlanma yapıyor, aldığı DAI'yı stabil paraların alım satımında çok kullanılan [Curve](https://www.curve.fi/) isimli borsaya likidite olarak koyup yapılan işlemlerden komisyon kazanıyor. Bakın bu işlemde birbirinden farklı üç adet sistem uyum içinde çalışıyor.
 
 İşte bu uyumluluk da başlangıçta hayal edemeyeceğiniz kadar farklı ürünlerin çıkmasına ve pazarda arbitraj imkanları doğmasına yol açıyor. Bu arbitrajları değerlendiren kimi ürünlerde de uçuk kazanç rakamları görebiliyorsunuz. 
 
