@@ -30,7 +30,7 @@ Dilerseniz bir örnek ile anlatalım:
 Diyelim bir havuz oluşturulacak. Bir bölüme ETH, diğerine ise USDC (bir çeşit sanal ABD Dolarına çıpalı bir stabil para) konacak. 
 
 - İlk başlangıçta kurulurken bu iki havuzun piyasa değerleri birbirine eşit olmalı ki işe doğru bir şekilde başlansın.  Basit olması için başlangıçta havuzu doldururken piyasalarda 1 ETH’nin değerinin 300 USDC olduğunu varsayalım. ETH havuzuna 100 ETH konursa, USDC havuzuna da eşit değerde 30,000 USDC konacak. 
-- Şimdi gelelim temel prensibe: “İki havuzdaki para adedinin (değer değil ADET) çarpımı her zaman sabit olacak”. Kulağa saçma geliyor değil mi? Haklısınız, ama örneğimizden devam edelim: Burada 100 adet ETH ve 30.000 adet USDC olduğu için toplam havuz katsayımız bu iki sayının çarpımı olan 3.000.000. Bu sayı hep sabit. [1]
+- Şimdi gelelim temel prensibe: “İki havuzdaki para adedinin (değer değil ADET) çarpımı her zaman sabit olacak”. Kulağa saçma geliyor değil mi? Haklısınız, ama örneğimizden devam edelim: Burada 100 adet ETH ve 30.000 adet USDC olduğu için toplam havuz katsayımız bu iki sayının çarpımı olan 3.000.000. Bu sayı hep sabit. [^1]
 - İşlem yapmak isteyen biri havuza geldiğinden ETH satmak istiyorsa karşılığında havuzdan bunun karşılığı USDC alacak, eğer ETH almak istiyorsa bunun karşılığı kadar USDC koyacak. Peki bu “karşılık” nasıl belirlenecek? İşte orada temel prensibimize geri dönüyoruz. Yani sabit sayımıza. Örnekten devam edelim:
 - 1. *Diyelim biri gelip 1 adet ETH satmak istiyor.* Bu durumda ETH havuzu bir adet artıp 101 ETH’ye çıkıyor. Sabit sayımız 3,000,000 idi ve bu sayı ETH adedi ile USDC adedinin çarpımına eşit olacaktı. Bu işlem gerçekleştiğinden havuzun büyüklüğünün sabit kalması için havuzda 3,000,000/101=29.703 adet USDC olmalı. Yani ETH alan kişiye havuzdaki ETH’lerin 30,000-29,703=297 adedi gönderilir. (Ama fiyat 300 USDC olacak idi, neden 297 alıyorum? Çünkü likit olmayan bir piyasada büyük bir işlem yaptınız ve piyasayı hareket ettirdiniz. Buna slippage (kaygan düşüş-performans düşüşü) deniyor. Eğer çok büyük bir havuzda küçük işlem yapanlar için böyle büyük bir fark çıkmaz)
 - 2. *Peki biri daha gelip bir ETH daha satmak isterse?* Aynı işlem tekrarlanıyor. Yani ETH sayısı 102’ye çıkar, USDC rakamı ise 3.000.000/102=29,412 adede inmeli. Havuzda ise bir önceki işlemden kalma 29,703 adet USDC var. İkisinin farkı 291 adet USDC kullanıcıya gönderilir. Birinci ile ikinci ETH satanın aldıkları USDC'lerin arasındaki farkın ne kadar ciddi olduğunu görüyorsunuz değil mi? Arz-talep dengesi işte bu şekilde çalışıyor, bir ürünün adedi arttıkça değeri azalıyor. 
@@ -55,29 +55,31 @@ Böyle bir durumda havuza başlangıçta para koymuş birinin durumunu düşüne
 
 Bu komisyonlardan kazanılan para şimdiye kadar ani değişikliklerden kaybedilen paranın önüne geçmiş ama bu ileride de böyle olacağı anlamına gelmiyor. Yani likidite koyanlar ciddi bir risk taşıyorlar. 
 
-USDC_Uniswap_returns_1200.png
-
 | ![USDC getirileri](/assets/USDC_Uniswap_returns_1200.png)|
 |:--:| 
 | *Uniswap içindeki en büyük havuz olan USDC havuzunun son bir yıl getirisi. Kırmızı çizgi gelir, mavi çizgi kayıp, sarı çizgi ise kâr (ROI) - [Kaynak](https://zumzoom.github.io/analytics/uniswap/roi/)*|
 
-Havuzların ani ve kalıcı fiyat değişikliklerinden etkilendiği düşünüldüğünde havuzlar içinde en kârlı olanları aslında değerlerinin tekrar eski haline döneceğini bekleyeceğiniz ikililerin olduğu çiftler. Nedir bunlar derseniz, stabil para havuzları. Örneğin USDC/DAI benzeri havuzlar. Stabil paralar genelde 1 ABD Doları’nın etrafında gezinir dururlar. Bazen üzerine çıkar, bazen altına inerler. Ancak iniş çıkışlar da az rakamlar olur. O nedenle böyle havuzlar likidite koyucular için çok kârlı olabilir. Tabii, madalyonun öbür tarafında bu çiftlerinde işlem yapan çok olur ancak marjların az olduğu bir yerde bir de UniSwap’a 0.3% komisyon vermek ister mi al-sat yapanlar? Tabii ki hayır ve işte bu nedenle stabil paraların ikili havuzlarını yaratan Curve çok popüler oldu. 
+Havuzların ani ve kalıcı fiyat değişikliklerinden etkilendiği düşünüldüğünde havuzlar içinde en kârlı olanları aslında değerlerinin tekrar eski haline döneceğini bekleyeceğiniz çiftler. Nedir bunlar derseniz, stabil para havuzları. Örneğin USDC/DAI çiftinden oluşan havuzlar. Stabil paralar genelde 1 ABD Doları’nın etrafında gezinir dururlar. Bazen üzerine çıkar, bazen altına inerler. Dolayısıyla likidite koyanlar "geçici kayıp" fazla yaşamazlar ve oldukça iyi kâr ederler. 
 
-Rakipler kimler? 
+Tabii, madalyonun öbür tarafında bu çiftlerde fiyat değişimleri de çok küçük boyutlarda olur, işlem yapılınca elde edilen kârlar da az olur. Marjların az olduğu bir yerde bir de UniSwap’a 0.3% komisyon vermek ister mi al-sat yapanlar? Tabii ki hayır ve işte bu nedenle stabil paraların ikili havuzlarını yaratan Curve daha popüler oldu. Gelin bir iki rakibine de bakalım Uniswap'ın.. 
 
-Curve: 
-Curve daha çok sabit paralar üzerine uzmanlaşmış bir sistem. Zira Curve’un komisyonlar UniSwap’un aksine 0.04% oranında ve işlemlerde kullandığı algoritma UniSwap’a nazaran özellikle stabil paralar için daha uygun. O nedenle işlemler ciddi şekilde Curve’e kaymış durumda. [4]
+### Rakipler kimler? 
 
-Balancer: 
-UniSwap’tan bahsederken temel bir özelliğin havuzun iki bölmesine eşit değerde iki para koymak olduğunu belirtmiştik. Balancer temel olarak burada sistemi bir adım öteye götürerek, havuza iki bölmesine konan paraların 50%-50% değil istenen oranlarda olmasına imkan tanıyor. 
+#### Curve: 
+Curve daha çok sabit paralar üzerine uzmanlaşmış bir sistem. Zira Curve’un komisyonlar UniSwap’un aksine 0.04% oranında ve işlemlerde kullandığı algoritma UniSwap’a nazaran özellikle stabil paralar için daha uygun. O nedenle işlemler ciddi şekilde Curve’e kaymış durumda. [4]. Öte yandan Curve likidite sağlayanlara komisyon dışında bir de kendi yönetim tokenini (CRV) veriyor - bu nedenle oldukça rağbet görüyor. 
+
+#### Balancer: 
+UniSwap’tan bahsederken temel bir özelliğin havuzun iki bölmesine eşit değerde iki para koymak olduğunu belirtmiştik. Balancer temel olarak burada sistemi bir adım öteye götürerek, havuza iki bölmesine konan paraların 50%-50% değil istenen oranlarda olmasına imkan tanıyor. Balancer da aynı Curve gibi likidite sağlayacılara BAL token'i dağıtıyor, bu nedenle oldukça sisteme ilgi oldukça yüksek
+
+#### Sushiswap, Mooniswap
+Uniswap'ın birebir klonlanmış benzerleri olan bu sistemler, üzerien Curve ya da Balancer gibi bir de yönetim token'ı verdikleri için yaz ayları içinde oldukça popüler oldular. [Bir önceki yazımızda](https://turansert.com/genel/2020/09/08/defi-cok-mu-hizli-gidiyor.html) da detaylı olarak anlattığımız bu klonlar henüz kendilerini kanıtlamış değiller.
 
 
 
-[1]Basitleştirmek için böyle yazıldı. İki istisnası var havuz büyüklüğünü değiştiren: 
+[^1] Basitleştirmek için böyle yazıldı. İki istisnası var havuz büyüklüğünü değiştiren: 
 Birincisi havuza başka yatırımcılar para koyarsa havuzun toplam büyüklüğü değişiyor normal olarak. Örnek olarak bir yatırımcı gelip 10 ETH ve 350 USDC koyarsa, havuzun toplam büyüklüğü 350,000’den 423,500’e (110 ETH x 3,850 USDC) çıkıyor. 
 İkincisi ise işlem yapanlardan alınan komisyonlar (Uniswap için %0.3) bu havuza ekleniyor, dolayısıyla havuz büyüklüğü otomatik yükseliyor. 
 
-[2] Daha da karışmasın diye basitleştirdik. Bunun için de havuz büyüklüğü sabit sayısının satın alınan token adedine bölünmesi, havuzda ne kadar Dolayısıyla havuzda 99 ETH kalacağı için 1 ETH alan kişinin koyması gereken para 3,500,000/99=35,354 USDC olması lazım. 35,000 adet USDC olduğuna göre koyacağı rakam 354 USDC olacak. Havuz sığ olduğu için 354 ile 350 arasındaki gibi büyük bir fark çıkıyor. Havuz büyük olsaydı bu rakam 350’ye çok yakın olacaktı. Sistem fiyat olarak 350 demesine rağmen kullanıcının işlemi 354 yapması nedeniyle oluşan aradaki farka Price Slippage (fiyat kayması) deniyor. Havuz ne kadar büyük ve işlem havuz büyüklüğüne göre ne kadar küçük ise fiyat kayması o kadar az oluyor. 
 
 [3] Havuzdaki fiyat nereye kadar izin veriyorsa (bu örnekte USDC/ETH’nin 450’ye ve toplam miktarın 3,500,000’e eşit olmasını sağlayacak rakamlara, ki burada 12 ETH satışı ile ulaşılır. 12 ETH satışı 12x350= 4.130 USDC getirir. USD miktarı 35,000’den   39,130’a çıkar
 
