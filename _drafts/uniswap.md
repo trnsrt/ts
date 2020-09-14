@@ -59,7 +59,7 @@ USDC_Uniswap_returns_1200.png
 
 | ![USDC getirileri](/assets/USDC_Uniswap_returns_1200.png)|
 |:--:| 
-| -Uniswap içindeki en büyük havuz olan USDC havuzunun son bir yıl getirisi. Kırmızı çizgi gelir, mavi çizgi kayıp, sarı çizgi ise kâr (ROI) - [Kaynak](https://zumzoom.github.io/analytics/uniswap/roi/)*|
+| *Uniswap içindeki en büyük havuz olan USDC havuzunun son bir yıl getirisi. Kırmızı çizgi gelir, mavi çizgi kayıp, sarı çizgi ise kâr (ROI) - [Kaynak](https://zumzoom.github.io/analytics/uniswap/roi/)*|
 
 Havuzların ani ve kalıcı fiyat değişikliklerinden etkilendiği düşünüldüğünde havuzlar içinde en kârlı olanları aslında değerlerinin tekrar eski haline döneceğini bekleyeceğiniz ikililerin olduğu çiftler. Nedir bunlar derseniz, stabil para havuzları. Örneğin USDC/DAI benzeri havuzlar. Stabil paralar genelde 1 ABD Doları’nın etrafında gezinir dururlar. Bazen üzerine çıkar, bazen altına inerler. Ancak iniş çıkışlar da az rakamlar olur. O nedenle böyle havuzlar likidite koyucular için çok kârlı olabilir. Tabii, madalyonun öbür tarafında bu çiftlerinde işlem yapan çok olur ancak marjların az olduğu bir yerde bir de UniSwap’a 0.3% komisyon vermek ister mi al-sat yapanlar? Tabii ki hayır ve işte bu nedenle stabil paraların ikili havuzlarını yaratan Curve çok popüler oldu. 
 
