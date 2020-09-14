@@ -3,7 +3,7 @@
 
 Uniswap özünde bir merkeziyetsiz borsa - bu borsaların en eskilerinden. Ancak merkeziyetsiz denince eşten-eşe P2P olduğu düşünülmesin - çünkü öyle değil. Bu borsayı kullanan kullanıcılar, birbirleri ile değil bir havuza karşı işlem yapıyorlar. 
 
-Temel olarak iki ana grup var Uniswap'ta. Kullancılar: Bunlar bildiğimiz anlamda işlem yani al-sat yapanlar. Bir de havuza likidite sağlayanlar: ki bunlara yatırımcı, ya da hissedar denebilir ama biz paydaş terimini kullanalım (bir önceki SNX yazımızda olduğu gibi)... 
+Temel olarak iki ana grup var Uniswap'ta. Kullancılar: Bunlar bildiğimiz anlamda işlem yani al-sat yapanlar. Bir de havuza likidite sağlayanlar: ki bunlara yatırımcı, ya da hissedar denebilir ama biz paydaş terimini kullanalım ([bir önceki SNX yazımızda](/genel/2020/08/28/Defi-turev-piyasasi-synthetix-nasil-calisiyor.html) olduğu gibi)... 
 
 Uniswap için borsa desek de aslında İngilizcesi market maket olarak adlandırılan piyasa yapıcı bir havuz aslında. Piyasa yapıcı, bir alım yapmak istediğinizde size istediğiniz ürünü satmak için hazırda bekleyen bir taraf demek. Yani bir işlem yapmak istediğinizde verdiğiniz emri mutlaka karşılayan bir servis sağlayıcı. Peki kimin ne işine yarar bu? Gelin önce kullanıcılar gözünden bakalım:
 
