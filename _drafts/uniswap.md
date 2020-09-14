@@ -46,7 +46,7 @@ Yukarıda verdiğimiz işlem oldukça sığ bir havuz için yapılmış bir örn
 
 Peki kim havuza bu parayı koyuyor? Yatırımcılar ya da likidite sağlayıcılar dediğimiz paydaşlar. Neden koyuyorlar bu parayı? İşlem yapıldığında belli bir komisyon ücreti ortaya çıkıyor (Uniswap için şu anda %0.3 oranında) ve bu likidite sağlayıcılar arasında onu alıyorlar. Dolayısıyla bir önceki paragrafta yazdığımız likidite  hem sistemi yürütüyor, hem de ne kadar fazla olursa o kadar az kayıp olacağı için al-sat yapanı havuza çekiyor, o zaman da kârlılık artıyor. 
 
-Havuza para koymak çok kârlı gibi görünüyor?
+#### Havuza para koymak çok kârlı gibi görünüyor?
 Her zaman için öyle olmayabiliyor. Bakın neden: 
 
 Sistemdeki en kritik nokta ani ve kalıcı fiyat artışlarında ortaya çıkıyor. Eğer piyasalarda ETH fiyatı aniden 400 USDC’ye çıkarsa, Uniswap robot sistem olduğu için ani tepki veremiyor. Bunun ne gibi zararı var? Bir kısım arbitraj yapanlar, anında UniSwap havuzuna USDC koyup ETH’leri ucuzdan çekebiliyorlar (karşılığında 400 USDC olana dek). 
@@ -66,7 +66,7 @@ Tabii, madalyonun öbür tarafında bu çiftlerde fiyat değişimleri de çok k�
 ### Rakipler kimler? 
 
 #### Curve: 
-Curve daha çok sabit paralar üzerine uzmanlaşmış bir sistem. Zira Curve’un komisyonlar UniSwap’un aksine 0.04% oranında ve işlemlerde kullandığı algoritma UniSwap’a nazaran özellikle stabil paralar için daha uygun. O nedenle işlemler ciddi şekilde Curve’e kaymış durumda. [4]. Öte yandan Curve likidite sağlayanlara komisyon dışında bir de kendi yönetim tokenini (CRV) veriyor - bu nedenle oldukça rağbet görüyor. 
+Curve daha çok sabit paralar üzerine uzmanlaşmış bir sistem. Zira Curve’un komisyonlar UniSwap’un aksine 0.04% oranında ve işlemlerde kullandığı algoritma UniSwap’a nazaran özellikle stabil paralar için daha uygun. O nedenle işlemler ciddi şekilde Curve’e kaymış durumda. [^3]. Öte yandan Curve likidite sağlayanlara komisyon dışında bir de kendi yönetim tokenini (CRV) veriyor - bu nedenle oldukça rağbet görüyor. 
 
 #### Balancer: 
 UniSwap’tan bahsederken temel bir özelliğin havuzun iki bölmesine eşit değerde iki para koymak olduğunu belirtmiştik. Balancer temel olarak burada sistemi bir adım öteye götürerek, havuza iki bölmesine konan paraların 50%-50% değil istenen oranlarda olmasına imkan tanıyor. Balancer da aynı Curve gibi likidite sağlayacılara BAL token'i dağıtıyor, bu nedenle oldukça sisteme ilgi oldukça yüksek
@@ -75,15 +75,17 @@ UniSwap’tan bahsederken temel bir özelliğin havuzun iki bölmesine eşit de�
 Uniswap'ın birebir klonlanmış benzerleri olan bu sistemler, üzerien Curve ya da Balancer gibi bir de yönetim token'ı verdikleri için yaz ayları içinde oldukça popüler oldular. [Bir önceki yazımızda](https://turansert.com/genel/2020/09/08/defi-cok-mu-hizli-gidiyor.html) da detaylı olarak anlattığımız bu klonlar henüz kendilerini kanıtlamış değiller.
 
 
+### Sonuç 
+Uniswap, çok basit bir algoritma ile merkeziyetsiz olarak alım-satım yapmayı sağlayan bir platform. Güçlü bir ekibi ve sağlam bir yatırımcı grubu var arkasında. Uniswap'da işlem yapanlar, işlem sırasında kendilerine verilen ile son işlem öncesi fiyatlara dikkat etmeli. Ayrıca, merkeziyetsiz bir borsa olduğu için işlem yapılan tokenların doğru token olduğuna emin olmalı. Uniswap havuzlarına likidite sağlayanlar ise sistemin yetersiz kaldığı noktalara dikkat ederek, "dimyata pirince giderken eldeki bulgurdan olmamalı". Uniswap sonrası çıkan yeni rakipler, hem onun kullanıcılara veremediği özellikleri (daha düşük komisyon, farklı havuz oranları), hem de likidite sağlayıcılara verdikleri ekstra yönetim token'ları ile farklılaşma yaratmaya çalışıyorlar. Önümüzdeki günlerde üçüncü versiyonunu çıkarmayı planlayan Uniswap bakalım bu ataklara nasıl karşılık verecek?
+
+---
+
 
 [^1] Basitleştirmek için böyle yazıldı. İki istisnası var havuz büyüklüğünü değiştiren: 
 Birincisi havuza başka yatırımcılar para koyarsa havuzun toplam büyüklüğü değişiyor normal olarak. Örnek olarak bir yatırımcı gelip 10 ETH ve 350 USDC koyarsa, havuzun toplam büyüklüğü 350,000’den 423,500’e (110 ETH x 3,850 USDC) çıkıyor. 
 İkincisi ise işlem yapanlardan alınan komisyonlar (Uniswap için %0.3) bu havuza ekleniyor, dolayısıyla havuz büyüklüğü otomatik yükseliyor. 
 
+[^2] Havuzun yeterince büyük olduğu durumlarda slippage da yeterince küçük hale geliyor ve matematiksel olarak havuzun içindeki ETH fiyatı USDC adedinin ETH adedine bölünmesi ile ortaya çıkıyor. USD adedi ile ETH adedinin çarpılması ise havuzun sabitini veriyor. Böyle bir durumda ETH fiyatı ile havuz sabitini çarpımının karekökü USDC adedini verir.  Bu işlemi yaparsanız USDC adedi 34,641’i verir. Bu sayıyı toplam havuz değerine bölersek ETH adedi olan 86.60’a ulaşırız.  Sağlama için USDC adedini (34,641) ETH adedine (86.60) bölersek ETH fiyatı olan 400 çıkar. 
 
-[3] Havuzdaki fiyat nereye kadar izin veriyorsa (bu örnekte USDC/ETH’nin 450’ye ve toplam miktarın 3,500,000’e eşit olmasını sağlayacak rakamlara, ki burada 12 ETH satışı ile ulaşılır. 12 ETH satışı 12x350= 4.130 USDC getirir. USD miktarı 35,000’den   39,130’a çıkar
+[^3] Curve’in özelliği stabil paralara uyacak bir algoritma içermesi. Uniswap havuz değeri için A ve B token’larının çarpımını sabit tutarken, Curve A ve B tokenlarının toplamını sabit tutuyor. Böyle olunca, birbirine yakın ve fiyatları genelde çok ayrışmayan (burada stabil paralar gibi 1 ABD Doları’na yakınsayan) paralarda değer çok daha yavaş değişip işlem olduğunda büyük fiyat farkları oluşmuyor. Ama eğer çok büyük hacimler olur ve iki token arasında fiyat farkları oluşursa o zaman Uniswap daha gerçekçi fiyatlar veriyor. 
 
-[4] Curve’in özelliği stabil paralara uyacak bir algoritma içermesi. Uniswap havuz değeri için A ve B token’larının çarpımını sabit tutarken, Curve A ve B tokenlarının toplamını sabit tutuyor. Böyle olunca, birbirine yakın ve fiyatları genelde çok ayrışmayan (burada stabil paralar gibi 1 ABD Doları’na yakınsayan) paralarda değer çok daha yavaş değişip işlem olduğunda büyük fiyat farkları oluşmuyor. Ama eğer çok büyük hacimler olur ve iki token arasında fiyat farkları oluşursa o zaman Uniswap daha gerçekçi fiyatlar veriyor. 
-
-[5] Matematiksel olarak havuzun içindeki ETH fiyatı USDC adedinin ETH adedine bölünmesi ile ortaya çıkıyor. USD adedi ile ETH adedinin çarpılması ise havuzun sabitini veriyor. O zaman ETH fiyatı ile havuz sabitini çarpımının karekökü USDC adedini verir. 
-Bu işlemi yaparsanız USDC adedi 34,641’i verir. Bu sayıyı toplam havuz değerine bölersek ETH adedi olan 86.6025’e ulaşırız.  Sağlama için USDC adedini (34,641) ETH adedine (86.6025) bölersek ETH fiyatı olan 400 çıkar. 
