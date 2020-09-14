@@ -40,20 +40,20 @@ Yukarıdaki üç işlemin sonucu havuzdaki ETH, USDC ve havuz büyüklüğündek
 
 ![Uniswap_islemler_640.png](/assets/Uniswap_islemler_640.png)
 
+Yukarıda verdiğimiz işlem oldukça sığ bir havuz için yapılmış bir örnek. O nedenle ilk örnekte 300 fiyata karşılık işlem 297'den gerçekleşiyor - aradaki bu farka performans farkı (slippage) deniyor. (Adım adım Uniswap işlemlerini nasıl yapılıyor görmek isterseniz şu [Medium yazısına göz atabilirsiniz](https://medium.com/@obiwancoin/uniswap-kullan%C4%B1m-rehberi-obi-wan-bd73503fb9d6)). Havuz ne kadar büyük olursa, ya da yapılan işlemin havuzun büyüklüğüne oranı ne kadar küçük olursa bu fark o kadar az oluyor. İşte bu nedenle bu tip borsalar için likidite hayati bir öneme sahip.
 
-Sistemin kritik noktaları: 
+### Kim neden havuza para koyar?
 
-Sistemdeki kritik nokta ani fiyat artışlarında ortaya çıkabiliyor. Eğer piyasalarda ETH fiyatı aniden 400 USDC’ye çıkarsa, UniSwap robot sistem olduğu için ani tepki veremiyor. Bunun ne gibi zararı var? Bir kısım arbitraj yapanlar, anında UniSwap havuzuna USDC koyup ETH’leri ucuzdan (karşılığında 400 USDC verilmesi gereken noktaya kadar) çekebiliyorlar. 
+Peki kim havuza bu parayı koyuyor? Yatırımcılar ya da likidite sağlayıcılar dediğimiz paydaşlar. Neden koyuyorlar bu parayı? İşlem yapıldığında belli bir komisyon ücreti ortaya çıkıyor (Uniswap için şu anda %0.3 oranında) ve bu likidite sağlayıcılar arasında onu alıyorlar. Dolayısıyla bir önceki paragrafta yazdığımız likidite  hem sistemi yürütüyor, hem de ne kadar fazla olursa o kadar az kayıp olacağı için al-sat yapanı havuza çekiyor, o zaman da kârlılık artıyor. 
 
-Böyle bir durumda havuza başlangıçta para koymuş birinin durumunu düşünelim. Diyelim havuzun bir tarafına 10 ETH diğer tarafına ise 3,000 USDC koydu. ETH fiyatı 400 USDC’ye çıktı ve al-sat’çılar işlem yaparak havuzu da bu orana çektiler. Havuzda şimdi 86.6 ETH ve 34,641 USDC olacak. (Neden derseniz ayrıntılı işlemi dipnotta) [5]. Likidite olarak bu kişinin parası 8.66 ETH ve 3,464 USDC’ye denk geliyor. Bu da USDC cinsinden 8.66 ETH x400=3,464 artı 3,464 USDC toplam 6,928 USDC olur. Halbuki bu kişi elinde 10 ETH’yi tutsaydı USDC cinsinden 10 ETH x 400=4,000 artı 3,000 USDC toplam 7,000 USDC olacaktı. Aradaki para nereye gitti? Sistemde fiyatların ani artışını değerlendiren al-sat’cılara. Buna “geçici kayıp” (impermanent loss) deniyor, zira bir noktada ETH tekrar 300’e gelirse o zaman havuza likidite koyanın zararı ortadan kalkıyor. 
+Havuza para koymak çok kârlı gibi görünüyor?
+Her zaman için öyle olmayabiliyor. Bakın neden: 
 
+Sistemdeki en kritik nokta ani ve kalıcı fiyat artışlarında ortaya çıkıyor. Eğer piyasalarda ETH fiyatı aniden 400 USDC’ye çıkarsa, Uniswap robot sistem olduğu için ani tepki veremiyor. Bunun ne gibi zararı var? Bir kısım arbitraj yapanlar, anında UniSwap havuzuna USDC koyup ETH’leri ucuzdan çekebiliyorlar (karşılığında 400 USDC olana dek). 
 
-Kim neden havuza para koyar?
+Böyle bir durumda havuza başlangıçta para koymuş birinin durumunu düşünelim: Diyelim bu kişi havuzun bir tarafına 10 ETH diğer tarafına ise 3,000 USDC koydu - yani havuzun %10'una sahip. ETH fiyatı 400 USDC’ye çıktı ve al-sat’çılar işlem yaparak havuzdaki ETH'leri alıp yerine USDC ile koydular. Havuzda şimdi toplam 86.6 ETH ve 34,641 USDC olacak. (Neden derseniz ayrıntılı işlemi dipnotta) [5]. Bu kişiye de pay olarak 8.66 ETH ve 3,464 USDC’ye denk geliyor. Bu da USDC cinsinden 8.66 ETH x400=3,464 artı 3,464 USDC toplam 6,928 USDC olur. Halbuki bu kişi elinde 10 ETH’yi tutsaydı USDC cinsinden 10 ETH x 400=4,000 artı 3,000 USDC toplam 7,000 USDC olacaktı. Aradaki para nereye gitti? Sistemde fiyatların ani artışını değerlendiren al-sat’cılara. Buna “geçici kayıp” (impermanent loss) deniyor, zira bir noktada ETH tekrar 300’e gelirse o zaman havuza likidite koyanın zararı ortadan kalkıyor. 
 
-Peki kim havuza bu parayı koyuyor? Yatırımcılar ya da likidite sağlayıcılar dediğimiz kişiler. 
-Neden koyuyorlar bu parayı? İşlem yapıldığında belli bir komisyon ücreti ortaya çıkıyor (Uniswap için şu anda %0.3 oranında), onu alıyorlar. 
-
-“Peki kim neden getirir de havuz kurar?”. Sistemin temelinin işlem hacmine dayandığını söylemek gerek. Yani eğer piyasada alıcı ve satıcılar çok ise ve bunlar işlem yaptıkça UniSwap her bir işlemden %0.3 komisyon alıyor. Bu komisyonlardan kazanılan para şimdiye kadar ani değişikliklerden kaybedilen paranın önüne geçmiş ama bu ileride de böyle olacağı anlamına gelmiyor. Yani likidite koyanlar ciddi bir risk taşıyorlar. 
+Bu komisyonlardan kazanılan para şimdiye kadar ani değişikliklerden kaybedilen paranın önüne geçmiş ama bu ileride de böyle olacağı anlamına gelmiyor. Yani likidite koyanlar ciddi bir risk taşıyorlar. 
 
 [Uniswap içinde USDC koyanların getirisi] [Kaynak](https://zumzoom.github.io/analytics/uniswap/roi/)
 
