@@ -14,6 +14,22 @@ Compound, DeFi hareketinin üç büyüklerinden ama en büyük MakerDAO'nun oldu
 ### Peki rakipleri kimler?
 
 
+---
+
+
+### Rakipler kimler? 
+
+#### Curve: 
+Curve daha çok sabit paralar üzerine uzmanlaşmış bir sistem. Zira Curve’un komisyonlar UniSwap’un aksine 0.04% oranında ve işlemlerde kullandığı algoritma UniSwap’a nazaran özellikle stabil paralar için daha uygun. O nedenle işlemler ciddi şekilde Curve’e kaymış durumda. [^2]. Öte yandan Curve likidite sağlayanlara komisyon dışında bir de kendi yönetim tokenini (CRV) veriyor - bu nedenle oldukça rağbet görüyor. 
+
+#### Balancer: 
+UniSwap’tan bahsederken temel bir özelliğin havuzun iki bölmesine eşit değerde iki para koymak olduğunu belirtmiştik. Balancer temel olarak burada sistemi bir adım öteye götürerek, havuza iki bölmesine konan paraların 50%-50% değil istenen oranlarda olmasına imkan tanıyor. Balancer da aynı Curve gibi likidite sağlayacılara BAL token'i dağıtıyor, bu nedenle oldukça sisteme ilgi oldukça yüksek
+
+#### Sushiswap, Mooniswap, vb:
+Uniswap'ın birebir klonlanmış benzerleri olan bu sistemler, üzerien Curve ya da Balancer gibi bir de yönetim token'ı verdikleri için yaz ayları içinde oldukça popüler oldular. [Bir önceki yazımızda](https://turansert.com/genel/2020/09/08/defi-cok-mu-hizli-gidiyor.html) da detaylı olarak anlattığımız bu klonlar henüz kendilerini kanıtlamış değiller.
+
+
+
 ----
 
 
