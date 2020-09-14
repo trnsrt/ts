@@ -38,7 +38,7 @@ Diyelim bir havuz oluşturulacak. Bir bölüme ETH, diğerine ise USDC (bir çe�
 
 Yukarıdaki üç işlemin sonucu havuzdaki ETH, USDC ve havuz büyüklüğündeki değişimleri bir tabloda toplarsak: 
 
-!/assets/Uniswap_islemler_640.png
+![/assets/Uniswap_islemler_640.png]
 
 
 Sistemin kritik noktaları: 
