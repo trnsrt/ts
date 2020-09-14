@@ -1,7 +1,7 @@
 
 ### Nedir bu Uniswap?
 
-Uniswap özünde bir merkeziyetsiz borsa - bu borsaların en eskilerinden. Ancak merkeziyetsiz denince eşten-eşe P2P olduğu düşünülmesin - çünkü öyle değil. Bu borsayı kullanan kullanıcılar, birbirleri ile değil bir havuz karşı işlem yapıyorlar. 
+Uniswap özünde bir merkeziyetsiz borsa - bu borsaların en eskilerinden. Ancak merkeziyetsiz denince eşten-eşe P2P olduğu düşünülmesin - çünkü öyle değil. Bu borsayı kullanan kullanıcılar, birbirleri ile değil bir havuza karşı işlem yapıyorlar. 
 
 Temel olarak iki ana grup var Uniswap'ta. Kullancılar: Bunlar bildiğimiz anlamda işlem yani al-sat yapanlar. Bir de havuza likidite sağlayanlar: ki bunlara yatırımcı, ya da hissedar denebilir ama biz paydaş terimini kullanalım (bir önceki SNX yazımızda olduğu gibi)... 
 
@@ -71,7 +71,7 @@ Curve daha çok sabit paralar üzerine uzmanlaşmış bir sistem. Zira Curve’u
 #### Balancer: 
 UniSwap’tan bahsederken temel bir özelliğin havuzun iki bölmesine eşit değerde iki para koymak olduğunu belirtmiştik. Balancer temel olarak burada sistemi bir adım öteye götürerek, havuza iki bölmesine konan paraların 50%-50% değil istenen oranlarda olmasına imkan tanıyor. Balancer da aynı Curve gibi likidite sağlayacılara BAL token'i dağıtıyor, bu nedenle oldukça sisteme ilgi oldukça yüksek
 
-#### Sushiswap, Mooniswap
+#### Sushiswap, Mooniswap, vb:
 Uniswap'ın birebir klonlanmış benzerleri olan bu sistemler, üzerien Curve ya da Balancer gibi bir de yönetim token'ı verdikleri için yaz ayları içinde oldukça popüler oldular. [Bir önceki yazımızda](https://turansert.com/genel/2020/09/08/defi-cok-mu-hizli-gidiyor.html) da detaylı olarak anlattığımız bu klonlar henüz kendilerini kanıtlamış değiller.
 
 
