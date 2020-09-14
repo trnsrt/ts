@@ -1,16 +1,23 @@
-Uniswap özünde bir merkeziyetsiz borsa. Ancak bunu biraz daha açmak lazım. Al-sat yapanlar için bir merkeziyetsiz borsa. Ancak bir de bu al-sat’ın karşı tarafı var. Merkeziyetsiz olduğu için eşten-eşe P2P olduğu düşünülmesin - öyle değil çünkü. Bunun yerine al-sat yaparken karşınızda bir havuz var. Bu havuz aslında İngilizce’de market maket olarak adlandırılan piyasa yapıcı aslında. Ne demek bu? Piyasa yapıcı, bir alım yapmak istediğinizde size istediğiniz ürünü satmak için hazırda bekleyen bir taraf demek. 
 
-Kim neden Uniswap’ta işlem yapar?
+### Nedir bu Uniswap?
+
+Uniswap özünde bir merkeziyetsiz borsa - bu borsaların en eskilerinden. Ancak merkeziyetsiz denince eşten-eşe P2P olduğu düşünülmesin - çünkü öyle değil. Bu borsayı kullanan kullanıcılar, birbirleri ile değil bir havuz karşı işlem yapıyorlar. 
+
+Temel olarak iki ana grup var Uniswap'ta. Kullancılar: Bunlar bildiğimiz anlamda işlem yani al-sat yapanlar. Bir de havuza likidite sağlayanlar: ki bunlara yatırımcı, ya da hissedar denebilir ama biz paydaş terimini kullanalım (bir önceki SNX yazımızda olduğu gibi)... 
+
+Uniswap için borsa desek de aslında İngilizcesi market maket olarak adlandırılan piyasa yapıcı bir havuz aslında. Piyasa yapıcı, bir alım yapmak istediğinizde size istediğiniz ürünü satmak için hazırda bekleyen bir taraf demek. Yani bir işlem yapmak istediğinizde verdiğiniz emri mutlaka karşılayan bir servis sağlayıcı. Peki kimin ne işine yarar bu? Gelin önce kullanıcılar gözünden bakalım:
+
+### Kim neden Uniswap’ta işlem yapar?
 
 UniSwap’ın popüler olmasının birkaç temel nedeni var: 
 
-Öncelikle UniSwap ağırlıklı olarak merkezi borsalara çıkmak istemeyen ya da çıkamayan küçük token’ların hızlı bir şekilde işlem görmesi ve değer belirlemesi için kullanılmaya başladı ve bu sayede popüler oldu.. Her ne kadar son zamanlarda Binance, FTX gibi borsalar da çok hızlı bir şekilde DeFi token’ları listelemeye başlasalar da, başlangıçta bu o kadar kolay değildi. Merkezi borsalarda listelenmek için onların koyduğu kuralları uymak ve istedikleri prosedürleri uygulanmanız daha da ötesi listelenmek için ciddi paralar ödemeniz gerekiyor idi. Uniswap, Blokzincir’in “izin gerektirmeyen (permissionless”) ruhuna uygun olarak likidite koydukça isteyen herkesin listeleme yapabileceği bir piyasa. Belki de bu nedenle işlem yapmak isteyen kullanıcılar ekstra dikkatli olmak zorunda zira kopya/sahte token’lar ile işlem yapıp yapmadıklarına dikkat etmeliler. 
+Öncelikle UniSwap ağırlıklı olarak merkezi borsalara çıkmak istemeyen ya da çıkamayan küçük token’ların hızlı bir şekilde işlem görmesi ve değer belirlemesi için kullanılmaya başladı ve bu sayede popüler oldu.. Her ne kadar son zamanlarda Binance, FTX gibi borsalar da çok hızlı bir şekilde DeFi token’ları listelemeye başlasalar da, 2020 yılının ortalarına kadar bu o kadar kolay değildi. Merkezi borsalarda listelenmek için bu borsaların koyduğu kurallara uymak ve istedikleri prosedürleri uygulamanız ama daha da ötesi listelenmek için ciddi paralar ödemeniz gerekiyor idi. Uniswap, Blokzincir’in “izin gerektirmeyen (permissionless”) ruhuna uygun olarak isteyen herkesin listeleme yapabileceği bir pazar. (Belki de bu nedenle işlem yapmak isteyen kullanıcılar ekstra dikkatli olmak zorunda zira kopya/sahte token’lar ile işlem yapıp yapmadıklarına dikkat etmeliler). 
 
-Bunun yanında emir defteri ile çalışan piyasa yapıcılar, verdikleri emir gerçekleşmeden önce pek çok emir yazıp sonra iptal ederler. DeFi dünyasında özellikle yoğunluğu bağlı olarak sistem kullanım ücretlerinin ([daha önce bahsettiğimiz gas ücretleri](/genel/2020/08/06/gelecekte-eth-nin-degerini-neler-etkileyecek.html)) yüksek olması piyasa yapıcıların bu tip emir yazma/iptal işlemlerinin maliyetlerini çok artırıyor. Bu nedenle UniSwap’ın özellikle likit havuzlarında işlem yapmak fiyatın gerçekleştirirken daha az maliyet çıkarabiliyor. 
+Bunun yanında emir defteri ile çalışan piyasa yapıcılar, verdikleri emir gerçekleşmeden önce pek çok emri yazıp sonra iptal ederler. DeFi dünyasında özellikle yoğunluğu bağlı olarak sistem kullanım ücretlerinin ([daha önce bahsettiğimiz gas ücretleri](/genel/2020/08/06/gelecekte-eth-nin-degerini-neler-etkileyecek.html)) yüksek olması piyasa yapıcıların bu tip emir yazma/iptal işlemlerinin maliyetlerini çok artırıyor. Bu nedenle Uniswap’ın özellikle likit havuzlarında işlem yapmak daha az maliyet çıkarabiliyor. 
 
-Özellikle yeni kullanmaya başlayanlar için önemli bir kullanım nedeni daha önceki yazılarda da belirttiğimiz kullanım kolaylığı. Herhangi bir şekilde hiç bir yere kayıt, evrak vs gönderip başvuru sonucu beklemeye gerek yok.  UniSwap’ı kullanmak isteyen birinin tek ihtiyacı olan bir kripto cüzdan. Kullanıcı siteye girdikten sonra sağ üst taraftan cüzdanını bağladığı anda sistemi kullanmaya saniyeler içinde başlayabiliyor. 
+Son olarak özellikle yeni kullanmaya başlayanlar için Uniswap (ya da genel olarak DeFi) kullanmanın önemli bir nedeni daha önceki yazılarda da belirttiğimiz [kullanım kolaylığı](/genel/2020/07/23/DeFi-yeni-ICO-cilginligi-mi.html). Herhangi bir şekilde hiç bir yere kayıt, evrak vs gönderip başvuru sonucu beklemeye gerek yok.  Uniswap’ı kullanmak isteyen birinin tek ihtiyacı olan bir kripto cüzdan. Kullanıcı Uniswap [sitesine](https://app.uniswap.org/#/swap) girdikten sonra sağ üst tarafta bulunan butona basıp cüzdanını bağladığı anda sistemi kullanmaya saniyeler içinde başlayabiliyor. 
 
-Peki nasıl çalışıyor sistem?
+### Peki nasıl çalışıyor sistem?
 
 UniSwap aslında robot (otomatik) bir piyasa yapıcı. Robot denmesinin nedeni fiyatların çok basit bir algoritma ile otomatik olarak “el değmeden” belirlenmesi. Gelin bakalım nasıl çalışıyor bu otomatik sistem: 
 
