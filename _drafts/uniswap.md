@@ -71,8 +71,10 @@ Uniswap, çok basit bir algoritma ile merkeziyetsiz olarak alım-satım yapmayı
 
 
 [^1] Basitleştirmek için böyle yazıldı. İki istisnası var havuz büyüklüğünü değiştiren: 
-Birincisi havuza başka yatırımcılar para koyarsa havuzun toplam büyüklüğü değişiyor normal olarak. Örnek olarak bir yatırımcı gelip 10 ETH ve 350 USDC koyarsa, havuzun toplam büyüklüğü 350,000’den 423,500’e (110 ETH x 3,850 USDC) çıkıyor. 
+Birincisi havuza başka yatırımcılar para koyarsa havuzun toplam büyüklüğü değişiyor normal olarak. Örnek olarak bir yatırımcı gelip 10 ETH ve 300 USDC koyarsa, havuzun toplam büyüklüğü 300,000’den 363,000’e (110 ETH x 3,300 USDC) çıkıyor. 
 İkincisi ise işlem yapanlardan alınan komisyonlar (Uniswap için %0.3) bu havuza ekleniyor, dolayısıyla havuz büyüklüğü otomatik yükseliyor. 
 
 [^2] Curve’in özelliği stabil paralara uyacak bir algoritma içermesi. Uniswap havuz değeri için A ve B token’larının çarpımını sabit tutarken, Curve A ve B tokenlarının toplamını sabit tutuyor. Böyle olunca, birbirine yakın ve fiyatları genelde çok ayrışmayan (burada stabil paralar gibi 1 ABD Doları’na yakınsayan) paralarda değer çok daha yavaş değişip işlem olduğunda büyük fiyat farkları oluşmuyor. Ama eğer çok büyük hacimler olur ve iki token arasında fiyat farkları oluşursa o zaman Uniswap daha gerçekçi fiyatlar veriyor. 
+
+[ADD 5!!!!]
 
