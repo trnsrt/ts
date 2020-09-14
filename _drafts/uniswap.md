@@ -36,7 +36,10 @@ Diyelim bir havuz oluşturulacak. Bir bölüme ETH, diğerine ise USDC (bir çe�
 - 2. Peki biri daha gelip bir ETH daha satmak isterse? Aynı işlem tekrarlanıyor. Yani ETH sayısı 102’ye çıkar, USDC rakamı ise 3.000.000/102=29,412 adede inmeli. Havuzda ise bir önceki işlemden kalma 29,703 adet USDC var. İkisinin farkı 291 adet USDC kullanıcıya gönderilir. Birinci satan ile ikinci satanın aldıkları USDC farkının ne kadar büyük olduğunu görüyorsunuz değil mi? Arz-talep dengesi işte bu şekilde çalışıyor, bir ürünün adedi arttıkça değeri artıyor. 
 - 3. Peki üçüncü bir işlem olarak biri gelir ve bu sefer satmak yerine 1 ETH almak isterse? Farketmişsinizdir sistem hep ne koyacağınıza bakıp size. ETH almak istiyorsunuz o zaman USDC koymak zorundasınız. Havuza 1 ETH almak istiyorum dediğinizde havuz size göndereceğiniz USDC'yi hesaplıyor. Katsayımızın 3,000,000’u yeni oluşacak ETH havuzundaki adet olan olan 101'e böldüğünüzde USDC havuzu rakamının 29,703 olacağını ortaya çıkıyor. Yani kullanıcının bir ETH alabilmesi için 297 adet USDC koyması gerekiyor havuza. Farkı görüyorsunuz değil mi? Piyasada 300 USDC’ye 1 ETH alabilecek iken daha önce iki kişi ETH sattığı için aynı ETH'yi şimdi 297 USDC'ye alabiliyor bir alıcı. 
 
-Üç işlemin sonuçları tablo olarak!!!!
+Yukarıdaki üç işlemin sonucu havuzdaki ETH, USDC ve havuz büyüklüğündeki değişimleri bir tabloda toplarsak: 
+
+!/assets/Uniswap_islemler_640.png
+
 
 Sistemin kritik noktaları: 
 
