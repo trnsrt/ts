@@ -3,15 +3,15 @@
 
 Uniswap özünde bir merkeziyetsiz borsa - bu borsaların en eskilerinden. Ancak merkeziyetsiz denince eşten-eşe P2P olduğu düşünülmesin - çünkü öyle değil. Bu borsayı kullanan kullanıcılar, birbirleri ile değil bir havuza karşı işlem yapıyorlar. 
 
-Temel olarak iki ana grup var Uniswap'ta. Kullancılar: Bunlar bildiğimiz anlamda işlem yani al-sat yapanlar. Bir de havuza likidite sağlayanlar: ki bunlara yatırımcı, ya da hissedar denebilir ama biz paydaş terimini kullanalım ([bir önceki SNX yazımızda](/genel/2020/08/28/Defi-turev-piyasasi-synthetix-nasil-calisiyor.html) olduğu gibi)... 
+Temel olarak iki ana grup var Uniswap'ta. Kullanıcılar: Bunlar bildiğimiz anlamda işlem yani alım-satım yapanlar. Bir de havuza likidite sağlayanlar: ki bunlara hissedar denebilir ama biz paydaş terimini kullanalım ([bir önceki SNX yazımızda](/genel/2020/08/28/Defi-turev-piyasasi-synthetix-nasil-calisiyor.html) olduğu gibi)... 
 
-Uniswap için borsa desek de aslında İngilizcesi market maket olarak adlandırılan piyasa yapıcı bir havuz aslında. Piyasa yapıcı, bir alım yapmak istediğinizde size istediğiniz ürünü satmak için hazırda bekleyen bir taraf demek. Yani bir işlem yapmak istediğinizde verdiğiniz emri mutlaka karşılayan bir servis sağlayıcı. Peki kimin ne işine yarar bu? Gelin önce kullanıcılar gözünden bakalım:
+Uniswap için borsa desek de aslında İngilizcesi market maker olarak adlandırılan piyasa yapıcı bir havuz aslında. Piyasa yapıcı, bir alım ya da satış yapmak istediğinizde size istediğiniz ürünü satmak için hazırda bekleyen bir taraf demek. Yani bir işlem yapmak istediğinizde verdiğiniz emri mutlaka karşılayan bir servis sağlayıcı. Peki kimin ne işine yarar bu? Gelin önce kullanıcılar gözünden bakalım:
 
 ### Kim neden Uniswap’ta işlem yapar?
 
 UniSwap’ın popüler olmasının birkaç temel nedeni var: 
 
-Öncelikle UniSwap ağırlıklı olarak merkezi borsalara çıkmak istemeyen ya da çıkamayan küçük token’ların hızlı bir şekilde işlem görmesi ve değer belirlemesi için kullanılmaya başladı ve bu sayede popüler oldu.. Her ne kadar son zamanlarda Binance, FTX gibi borsalar da çok hızlı bir şekilde DeFi token’ları listelemeye başlasalar da, 2020 yılının ortalarına kadar bu o kadar kolay değildi. Merkezi borsalarda listelenmek için bu borsaların koyduğu kurallara uymak ve istedikleri prosedürleri uygulamanız ama daha da ötesi listelenmek için ciddi paralar ödemeniz gerekiyor idi. Uniswap, Blokzincir’in “izin gerektirmeyen (permissionless”) ruhuna uygun olarak isteyen herkesin listeleme yapabileceği bir pazar. (Belki de bu nedenle işlem yapmak isteyen kullanıcılar ekstra dikkatli olmak zorunda zira kopya/sahte token’lar ile işlem yapıp yapmadıklarına dikkat etmeliler). 
+Öncelikle UniSwap ağırlıklı olarak merkezi kripto borsalara listelenmek istemeyen ya da edilemeyen küçük token’ların hızlı bir şekilde işlem görmesi ve değerinin belirlenmesi için kullanılmaya başlandı. [Her ne kadar son zamanlarda Binance ve FTX gibi borsalar da çok hızlı bir şekilde DeFi token’ları listelemeye başlasalar da, 2020 yılının ortalarına kadar bu o kadar da kolay değildi.REVIZE ET!!!!] Merkezi borsalarda listelenmek için bu borsaların koyduğu kurallara uymak ama daha da ötesi listelenmek için ciddi paralar ödemek gerekiyor idi. Uniswap, Blokzincir’in “izin gerektirmeyen (permissionless”) ruhuna uygun olarak isteyen herkesin listeleme yapabileceği bir pazar.
 
 Bunun yanında emir defteri ile çalışan piyasa yapıcılar, verdikleri emir gerçekleşmeden önce pek çok emri yazıp sonra iptal ederler. DeFi dünyasında özellikle yoğunluğu bağlı olarak sistem kullanım ücretlerinin ([daha önce bahsettiğimiz gas ücretleri](/genel/2020/08/06/gelecekte-eth-nin-degerini-neler-etkileyecek.html)) yüksek olması piyasa yapıcıların bu tip emir yazma/iptal işlemlerinin maliyetlerini çok artırıyor. Bu nedenle Uniswap’ın özellikle likit havuzlarında işlem yapmak daha az maliyet çıkarabiliyor. 
 
@@ -61,18 +61,7 @@ Bu komisyonlardan kazanılan para şimdiye kadar ani değişikliklerden kaybedil
 
 Havuzların ani ve kalıcı fiyat değişikliklerinden etkilendiği düşünüldüğünde havuzlar içinde en kârlı olanları aslında değerlerinin tekrar eski haline döneceğini bekleyeceğiniz çiftler. Nedir bunlar derseniz, stabil para havuzları. Örneğin USDC/DAI çiftinden oluşan havuzlar. Stabil paralar genelde 1 ABD Doları’nın etrafında gezinir dururlar. Bazen üzerine çıkar, bazen altına inerler. Dolayısıyla likidite koyanlar "geçici kayıp" fazla yaşamazlar ve oldukça iyi kâr ederler. 
 
-Tabii, madalyonun öbür tarafında bu çiftlerde fiyat değişimleri de çok küçük boyutlarda olur, işlem yapılınca elde edilen kârlar da az olur. Marjların az olduğu bir yerde bir de UniSwap’a 0.3% komisyon vermek ister mi al-sat yapanlar? Tabii ki hayır ve işte bu nedenle stabil paraların ikili havuzlarını yaratan Curve daha popüler oldu. Gelin bir iki rakibine de bakalım Uniswap'ın.. 
-
-### Rakipler kimler? 
-
-#### Curve: 
-Curve daha çok sabit paralar üzerine uzmanlaşmış bir sistem. Zira Curve’un komisyonlar UniSwap’un aksine 0.04% oranında ve işlemlerde kullandığı algoritma UniSwap’a nazaran özellikle stabil paralar için daha uygun. O nedenle işlemler ciddi şekilde Curve’e kaymış durumda. [^2]. Öte yandan Curve likidite sağlayanlara komisyon dışında bir de kendi yönetim tokenini (CRV) veriyor - bu nedenle oldukça rağbet görüyor. 
-
-#### Balancer: 
-UniSwap’tan bahsederken temel bir özelliğin havuzun iki bölmesine eşit değerde iki para koymak olduğunu belirtmiştik. Balancer temel olarak burada sistemi bir adım öteye götürerek, havuza iki bölmesine konan paraların 50%-50% değil istenen oranlarda olmasına imkan tanıyor. Balancer da aynı Curve gibi likidite sağlayacılara BAL token'i dağıtıyor, bu nedenle oldukça sisteme ilgi oldukça yüksek
-
-#### Sushiswap, Mooniswap, vb:
-Uniswap'ın birebir klonlanmış benzerleri olan bu sistemler, üzerien Curve ya da Balancer gibi bir de yönetim token'ı verdikleri için yaz ayları içinde oldukça popüler oldular. [Bir önceki yazımızda](https://turansert.com/genel/2020/09/08/defi-cok-mu-hizli-gidiyor.html) da detaylı olarak anlattığımız bu klonlar henüz kendilerini kanıtlamış değiller.
+Tabii, madalyonun öbür tarafında bu çiftlerde fiyat değişimleri de çok küçük boyutlarda olur, işlem yapılınca elde edilen kârlar da az olur. Marjların az olduğu bir yerde bir de UniSwap’a 0.3% komisyon vermek ister mi al-sat yapanlar? Tabii ki hayır ve işte bu nedenle stabil paraların ikili havuzlarını yaratan Curve daha popüler oldu. Gelin bir iki rakibine de bakalım Uniswap'ın.. [BİR SONRAKİ YAZIDA BUNLARDAN BAHSEDECEĞİZ]
 
 
 ### Sonuç 
