@@ -49,7 +49,7 @@ Hemen belirtelim: yukarıda verdiğimiz işlemler oldukça sığ bir havuz için
 
 ### Kim neden havuza para koyar?
 
-Peki kim havuza bu parayı koyuyor? Yatırımcılar ya da likidite sağlayıcılar dediğimiz paydaşlar. Neden koyuyorlar bu parayı? İşlem yapıldığında belli bir komisyon ücreti ortaya çıkıyor (Uniswap için şu anda %0.3 oranında) ve toplanan komisyonlar likidite sağlayıcılar arasında pay ediliyor. Dolayısıyla yukarıda yazdığımız likiditenin önemi bir kez daha ortaya çıkıyor. Zira likidite hem sistemi yürütüyor, hem de ne kadar çok olursa o kadar az kayıp olacağı için al-sat yapanı havuza çekiyor ve işlem hacmini büyütüyor, bu da sistemin kârlılığını artırıyor. 
+Peki kim havuza bu parayı koyuyor? Yatırımcılar ya da likidite sağlayıcılar dediğimiz paydaşlar. Neden koyuyorlar bu parayı? İşlem yapıldığında belli bir komisyon ücreti ortaya çıkıyor (Uniswap için şu anda %0,3 oranında) ve toplanan komisyonlar likidite sağlayıcılar arasında pay ediliyor. Dolayısıyla yukarıda yazdığımız likiditenin önemi bir kez daha ortaya çıkıyor. Zira likidite hem sistemi yürütüyor, hem de ne kadar çok olursa o kadar az kayıp olacağı için al-sat yapanı havuza çekiyor ve işlem hacmini büyütüyor, bu da sistemin kârlılığını artırıyor. 
 
 #### Havuza para koymak çok kârlı gibi görünüyor?
 Kulağa çok hoş gelse de havuza para koymak her zaman kârlı olmayabiliyor. Bakın neden: 
@@ -57,12 +57,11 @@ Kulağa çok hoş gelse de havuza para koymak her zaman kârlı olmayabiliyor. B
 Sistemdeki en kritik risk ani ve kalıcı fiyat artışlarında ortaya çıkıyor. Eğer piyasalarda ETH fiyatı aniden 400 USDC’ye çıkarsa, Uniswap robot sistem olduğu için ani tepki veremiyor. Bunun ne gibi zararı var? Bir kısım arbitraj yapanlar, anında UniSwap havuzuna USDC koyup ETH’leri ucuzdan çekebiliyorlar (1 ETH'nin karşılığı 400 USDC'ye denk olana kadar). 
 
 Şimdi yukarıdaki senaryoya sisteme likidite sağlamış bir kişinin perspektifinden bakalım: 
-- Diyelim bu kişi en başta havuzun bir tarafına 10 ETH diğer tarafına ise 3,000 USDC koymuş yani havuzun %10'una sahip olmuştu. 
-- Yukarıda bahsettiğimiz ETH fiyatı artıp 400 USDC’ye çıkınca al-sat’çılar havuzdaki ETH'leri alıp yerine USDC ile koyar. Havuzda şimdi toplam 86.6 ETH ve 34,641 USDC olacak. (Neden derseniz ayrıntılı işlemi dipnotta) [5]. 
-- Bu kişiye de %10 payı olarak 8.66 ETH ve 3,464 USDC’ye düşecek. Bu da USDC cinsinden 8.66 ETH x400=3,464 artı 3,464 USDC toplam 6,928 USDC olur. 
-- Halbuki bu kişi elinde 10 ETH’yi tutsaydı USDC cinsinden 10 ETH x 400=4,000 artı 3,000 USDC toplam 7,000 USDC olacaktı. 
-
-Aradaki para nereye gitti? Sistemde fiyatların ani artışını değerlendiren al-sat’cılara. Buna “geçici kayıp” (impermanent loss) deniyor, zira bir noktada ETH tekrar 300’e gelirse o zaman havuza likidite koyanın zararı ortadan kalkıyor. 
+- Diyelim bu kişi en başta havuzun bir tarafına 10 ETH diğer tarafına ise 3.000 USDC koymuş yani havuzun %10'una sahip olmuştu. 
+- Yukarıda bahsettiğimiz ETH fiyatı artıp 400 USDC’ye çıkınca al-sat’çılar havuzdaki ETH'leri alıp yerine USDC ile koyar. Havuzda şimdi toplam 86,6 ETH ve 34.641 USDC olacak. (Neden derseniz ayrıntılı işlemi dipnotta) [^2]. 
+- Bu kişiye de %10 payı olarak 8,66 ETH ve 3.464 USDC’ye düşecek. Bu da USDC cinsinden 8,66 ETH x400=3.464 artı 3.464 USDC toplam 6.928 USDC olur. 
+- Halbuki bu kişi ETH ve USDC'sini havuza yatırmayıp elinde utsaydı USDC cinsinden 10 ETH x 400=4.000 artı 3.000 USDC toplam 7.000 USDC varlığı olacaktı. 
+- Aradaki para nereye gitti? Sistemde fiyatların ani artışını değerlendiren al-sat’cılara. Buna “geçici kayıp” (impermanent loss) deniyor, zira bir noktada ETH tekrar 300’e gelirse o zaman havuza likidite koyanın zararı ortadan kalkıyor. 
 
 Bu komisyonlardan kazanılan para şimdiye kadar ani değişikliklerden kaybedilen paranın önüne geçmiş ama bu ileride de böyle olacağı anlamına gelmiyor. Yani likidite koyanlar ciddi bir risk taşıyorlar. 
 
@@ -70,13 +69,12 @@ Bu komisyonlardan kazanılan para şimdiye kadar ani değişikliklerden kaybedil
 |:--:| 
 | *Uniswap içindeki en büyük havuz olan USDC havuzunun son bir yıl getirisi. Kırmızı çizgi gelir, mavi çizgi kayıp, sarı çizgi ise kâr (ROI) - [Kaynak](https://zumzoom.github.io/analytics/uniswap/roi/)*|
 
-Havuzların ani ve kalıcı fiyat değişikliklerinden etkilendiği düşünüldüğünde havuzlar içinde en kârlı olanları aslında değerlerinin tekrar eski haline döneceğini bekleyeceğiniz çiftler. Nedir bunlar derseniz, stabil para havuzları. Örneğin USDC/DAI çiftinden oluşan havuzlar. Stabil paralar genelde 1 ABD Doları’nın etrafında gezinir dururlar. Bazen üzerine çıkar, bazen altına inerler. Dolayısıyla likidite koyanlar "geçici kayıp" fazla yaşamazlar ve oldukça iyi kâr ederler. 
+Ani ve kalıcı fiyat değişikliklerinden bu kadar etkilendiği düşünüldüğünde havuzlar içinde en kârlı olanları aslında değerlerinin tekrar eski haline döneceğini bekleyeceğiniz token çiftleri. Nedir bunlar derseniz, stabil para havuzları. Örneğin USDC/DAI çiftinden oluşan havuzlar. Stabil paralar genelde 1 ABD Doları’nın etrafında gezinir dururlar. Bazen üzerine çıkar, bazen altına inerler. Dolayısıyla likidite koyanlar "geçici kayıp" fazla yaşamazlar ve oldukça iyi kâr ederler. 
 
-Tabii, madalyonun öbür tarafında bu çiftlerde fiyat değişimleri de çok küçük boyutlarda olur, işlem yapılınca elde edilen kârlar da az olur. Marjların az olduğu bir yerde bir de UniSwap’a 0.3% komisyon vermek ister mi al-sat yapanlar? Tabii ki hayır ve işte bu nedenle stabil paraların ikili havuzlarını yaratan Curve daha popüler oldu. Gelin bir iki rakibine de bakalım Uniswap'ın.. [BİR SONRAKİ YAZIDA BUNLARDAN BAHSEDECEĞİZ]
-
+Tabii, madalyonun öbür tarafında bu çiftlerde fiyat değişimleri de çok küçük boyutlarda olur, işlem yapılınca elde edilen kârlar da az olur. Marjların az olduğu bir yerde bir de UniSwap’a 0.3% komisyon vermek ister mi al-sat yapanlar? Tabii ki hayır ve işte bu nedenle stabil paraların ikili havuzlarını yaratan Curve daha popüler oldu. Yazı çok uzadı. Sonraki yazılarda gerek Curve gerekse Balancer gibi yenilikçi piyasa yapıcılar ile Sushiswap gibi Uniswap klonlarını inceleyelim. 
 
 ### Sonuç 
-Uniswap, çok basit bir algoritma ile merkeziyetsiz olarak alım-satım yapmayı sağlayan bir platform. Güçlü bir ekibi ve sağlam bir yatırımcı grubu var arkasında. Uniswap'da işlem yapanlar, işlem sırasında kendilerine verilen ile son işlem öncesi fiyatlara dikkat etmeli. Ayrıca, merkeziyetsiz bir borsa olduğu için işlem yapılan tokenların doğru token olduğuna emin olmalı. Uniswap havuzlarına likidite sağlayanlar ise sistemin yetersiz kaldığı noktalara dikkat ederek, "dimyata pirince giderken eldeki bulgurdan olmamalı". Uniswap sonrası çıkan yeni rakipler, hem onun kullanıcılara veremediği özellikleri (daha düşük komisyon, farklı havuz oranları), hem de likidite sağlayıcılara verdikleri ekstra yönetim token'ları ile farklılaşma yaratmaya çalışıyorlar. Önümüzdeki günlerde üçüncü versiyonunu çıkarmayı planlayan Uniswap bakalım bu ataklara nasıl karşılık verecek?
+Uniswap, çok basit bir algoritma ile merkeziyetsiz olarak alım-satım yapmayı sağlayan bir platform. Güçlü bir ekibi ve sağlam bir yatırımcı grubu var arkasında. Uniswap'da işlem yapanlar, işlem sırasında kendilerine verilen ile son işlem öncesi fiyatlara dikkat etmeli. Ayrıca, merkeziyetsiz bir borsa olmasından dolayı isteyen herkes havuz kurabildiği için işlem yapılan tokenların doğru token olduğuna emin olmalı. Uniswap havuzlarına likidite sağlayanlar ise sistemin yetersiz kaldığı noktalara dikkat ederek, "dimyata pirince giderken eldeki bulgurdan olmamalı". Uniswap sonrası çıkan yeni rakipler, hem onun kullanıcılara veremediği özellikler (daha düşük komisyon, farklı havuz oranları), hem de likidite sağlayıcılara verdikleri ekstra yönetim token'ları ile farklılaşma yaratmaya çalışıyorlar. Önümüzdeki günlerde üçüncü versiyonunu çıkarmayı planlayan Uniswap bakalım bu ataklara nasıl karşılık verecek?
 
 ---
 
@@ -85,9 +83,6 @@ Uniswap, çok basit bir algoritma ile merkeziyetsiz olarak alım-satım yapmayı
 Birincisi havuza başka yatırımcılar para koyarsa havuzun toplam büyüklüğü değişiyor normal olarak. Örnek olarak bir yatırımcı gelip 10 ETH ve 300 USDC koyarsa, havuzun toplam büyüklüğü 300.000’den 363.000’e (110 ETH x 3,300 USDC) çıkıyor. 
 İkincisi ise işlem yapanlardan alınan komisyonlar (Uniswap için %0.3) bu havuza ekleniyor, dolayısıyla havuz büyüklüğü otomatik artıyor. 
 
-[^3] Matematiksel olarak havuzun içindeki ETH fiyatı USDC adedinin ETH adedine bölünmesi ile ortaya çıkıyor. USD adedi ile ETH adedinin çarpılması ise havuzun sabitini veriyor. O zaman ETH fiyatı ile havuz sabitini çarpımının karekökü USDC adedini verir. Bu işlemi yaparsanız USDC adedi 34,641’i verir. Bu sayıyı toplam havuz değerine bölersek ETH adedi olan 86.6025’e ulaşırız.  Sağlama için USDC adedini (34,641) ETH adedine (86.6025) bölersek ETH fiyatı olan 400 çıkar. 
+[^2] Matematiksel olarak havuzun içindeki USDC adedinin (A) ETH adedine (B) bölünmesi 1 adet ETH'nin fiyatını (A/B) verir. Neden? Çünkü havuza eşit değerde USDC ve ETH konmuştu. Örneğimizde  havuza 30.000 USDC ve 100 ETH konmuştu dolayısıyla bir ETH'nin fiyatı 30.000/100=300 USDC ediyor idi. Öte yandan USDC adedi ile ETH adedinin çarpılması havuzun sabit sayısını (AxB) veriyor demiştik. O zaman ETH fiyatı (A/B) ile havuz sabitinin (AxB) çarpımının karekökü USDC adedini verir. Bu işlemi yaparsanız USDC adedi 34.641’i çıkar. Bu sayıyı toplam havuz değerine bölersek ETH adedi olan 86,6’e ulaşırız.  Sağlama için USDC adedini (34.641) ETH adedine (86,6) bölersek ETH fiyatı olan 400 çıkar. (Daha detaylı açıklamayı ingilizce olarak [Uniswap sitesindeki şu linkte bulabilirsiniz](https://uniswap.org/docs/v2/advanced-topics/understanding-returns/))
 
-[^2] Curve’in özelliği stabil paralara uyacak bir algoritma içermesi. Uniswap havuz değeri için A ve B token’larının çarpımını sabit tutarken, Curve A ve B tokenlarının toplamını sabit tutuyor. Böyle olunca, birbirine yakın ve fiyatları genelde çok ayrışmayan (burada stabil paralar gibi 1 ABD Doları’na yakınsayan) paralarda değer çok daha yavaş değişip işlem olduğunda büyük fiyat farkları oluşmuyor. Ama eğer çok büyük hacimler olur ve iki token arasında fiyat farkları oluşursa o zaman Uniswap daha gerçekçi fiyatlar veriyor. 
-
-[ADD 5!!!!]
 
