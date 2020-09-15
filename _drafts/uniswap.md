@@ -28,7 +28,7 @@ UniSwap aslında robot (otomatik) bir piyasa yapıcı. Robot denmesinin nedeni f
 
 Uniswap’ta bütün işlemler için çift bölmeli yani iki farklı tokendan oluşan bir havuzlar var. **Siz kullanıcı olarak herhangi bir havuzdan bir token almak istiyorsanız, karşılığında içerideki diğer tokeni havuza bırakmak zorundasınız**.  Yani alım-satım dediğimiz aslında bir swap (bir tokeni diğeri ile değiştirme) işlemi oluyor. 
 
-Havuz ilk kurulurken iki tarafın piyasa değeri birbirine eşit. Her bir bölme içine ne kadar gerekiyorsa o kadar token ile dolduruluyor. Sonrasında bu token adetleri çarpılarak sabit bir toplam havuz büyüklüğü bulunuyor. İşte bu sabit havuz büyüklüğü sayısı kritik, çünkü tüm sistem hesaplamaları bu sayıya dayanıyor. 
+Herhangi bir Havuz ilk kurulurken içindeki iki bölmenin piyasa değeri birbirine eşit oluyor. Her bir bölme içine ne kadar gerekiyorsa o kadar token ile dolduruluyor. Sonrasında bu token adetleri çarpılarak sabit bir toplam havuz büyüklüğü bulunuyor. İşte bu sabit havuz büyüklüğü sayısı kritik, çünkü tüm sistem hesaplamaları bu sayıya dayanıyor. 
 
 Dilerseniz bir örnek ile anlatalım: 
 
