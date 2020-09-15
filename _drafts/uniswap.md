@@ -1,21 +1,27 @@
 
 ### Nedir bu Uniswap?
 
-Uniswap özünde bir merkeziyetsiz borsa - bu borsaların en eskilerinden. Ancak merkeziyetsiz denince eşten-eşe P2P olduğu düşünülmesin - çünkü öyle değil. Bu borsayı kullanan kullanıcılar, birbirleri ile değil bir havuza karşı işlem yapıyorlar. 
+Uniswap bir merkeziyetsiz olarak işlem yapan bir kripto para borsası - ve bu alanın eskilerinden. Her ne kadar borsa olarak adlandırsak da Uniswap özünde İngilizcesi market maker olarak adlandırılan piyasa yapıcı bir havuz. Biraz daha açalım: 
+
+Öncelikle merkeziyetsizliğe bakalım. Merkez olmayınca ilk aklımıza gelen kişiden-kişiye (peer-to-peer P2P) işlem oluyor ancak burası öyle çalışmıyor. Buranın sistemine kişiden-kontrata (peer-to-contract) deniyor. Yani kişi bir işlem yapmak istediğinde karşısında bir kişi yok, bir kontrat var. Ve bu kontrat da bir havuza bağlı. 
+
+Piyasa yapıcı olmak ise bir alım ya da satış yapmak istediğinizde size istediğiniz ürünü satmak ya da sizden o ürünü almak için hazırda bekleyen bir taraf olması anlamına geliyor. 
+
+Sonuç olarak kişiler birbirleri ile değil, onların yapmak istedikleri her işlemi gerçekleştiren bir havuza karşı işlem yapıyorlar. 
 
 Temel olarak iki ana grup var Uniswap'ta. Kullanıcılar: Bunlar bildiğimiz anlamda işlem yani alım-satım yapanlar. Bir de havuza likidite sağlayanlar: ki bunlara hissedar denebilir ama biz paydaş terimini kullanalım ([bir önceki SNX yazımızda](/genel/2020/08/28/Defi-turev-piyasasi-synthetix-nasil-calisiyor.html) olduğu gibi)... 
 
-Uniswap için borsa desek de aslında İngilizcesi market maker olarak adlandırılan piyasa yapıcı bir havuz aslında. Piyasa yapıcı, bir alım ya da satış yapmak istediğinizde size istediğiniz ürünü satmak için hazırda bekleyen bir taraf demek. Yani bir işlem yapmak istediğinizde verdiğiniz emri mutlaka karşılayan bir servis sağlayıcı. Peki kimin ne işine yarar bu? Gelin önce kullanıcılar gözünden bakalım:
 
 ### Kim neden Uniswap’ta işlem yapar?
 
 UniSwap’ın popüler olmasının birkaç temel nedeni var: 
 
-Öncelikle UniSwap ağırlıklı olarak merkezi kripto borsalara listelenmek istemeyen ya da edilemeyen küçük token’ların hızlı bir şekilde işlem görmesi ve değerinin belirlenmesi için kullanılmaya başlandı. [Her ne kadar son zamanlarda Binance ve FTX gibi borsalar da çok hızlı bir şekilde DeFi token’ları listelemeye başlasalar da, 2020 yılının ortalarına kadar bu o kadar da kolay değildi.REVIZE ET!!!!] Merkezi borsalarda listelenmek için bu borsaların koyduğu kurallara uymak ama daha da ötesi listelenmek için ciddi paralar ödemek gerekiyor idi. Uniswap, Blokzincir’in “izin gerektirmeyen (permissionless”) ruhuna uygun olarak isteyen herkesin listeleme yapabileceği bir pazar.
+Öncelikle alım-satım yapan kullanıcılar için Uniswap'ın ve (genel olarak DeFi'nin) en önemli nedeni [kullanım kolaylığı](/genel/2020/07/23/DeFi-yeni-ICO-cilginligi-mi.html). Kullanıcının öyle çok büyük parası olması gerekmiyor, herhangi bir ülkede oturmak gibi coğrafi kısıtları yok. Herhangi bir şekilde hiç bir yere kayıt, evrak vs gönderip başvuru sonucu beklemeyor.  DeFi kullanmak isteyen birinin tek ihtiyacı olan bir kripto cüzdan. Kullanıcı Uniswap [sitesine](https://app.uniswap.org/#/swap) girdikten sonra sağ üst tarafta bulunan butona basıp cüzdanını bağladığı anda sistemi kullanmaya saniyeler içinde başlayabiliyor. Teknik olarak bir öğrenme süreci gerektirse de klasik finans sisteminin çoğunlukla aşılamayan engelleri yok burada. 
 
 Bunun yanında emir defteri ile çalışan piyasa yapıcılar, verdikleri emir gerçekleşmeden önce pek çok emri yazıp sonra iptal ederler. DeFi dünyasında özellikle yoğunluğu bağlı olarak sistem kullanım ücretlerinin ([daha önce bahsettiğimiz gas ücretleri](/genel/2020/08/06/gelecekte-eth-nin-degerini-neler-etkileyecek.html)) yüksek olması piyasa yapıcıların bu tip emir yazma/iptal işlemlerinin maliyetlerini çok artırıyor. Bu nedenle Uniswap’ın özellikle likit havuzlarında işlem yapmak daha az maliyet çıkarabiliyor. 
 
-Son olarak özellikle yeni kullanmaya başlayanlar için Uniswap (ya da genel olarak DeFi) kullanmanın önemli bir nedeni daha önceki yazılarda da belirttiğimiz [kullanım kolaylığı](/genel/2020/07/23/DeFi-yeni-ICO-cilginligi-mi.html). Herhangi bir şekilde hiç bir yere kayıt, evrak vs gönderip başvuru sonucu beklemeye gerek yok.  Uniswap’ı kullanmak isteyen birinin tek ihtiyacı olan bir kripto cüzdan. Kullanıcı Uniswap [sitesine](https://app.uniswap.org/#/swap) girdikten sonra sağ üst tarafta bulunan butona basıp cüzdanını bağladığı anda sistemi kullanmaya saniyeler içinde başlayabiliyor. 
+Kripto alanındaki girişimler için de belli avantajları var Uniswap'ın. Normalde bir kripto paranın merkezi borsalarda işlem görmesi için bu borsaların koyduğu kurallara uymak ama daha da ötesi listelenmek için ciddi paralar ödemesi gerekiyor idi. Uniswap, Blokzincir’in “izin gerektirmeyen (permissionless”) ruhuna uygun olarak isteyen herkesin listeleme yapabileceği bir pazar. Küçük girişimler çıkardıkların tokenlara pazar tarafından değer biçilebilmesi ve likidite sağlanabilmesi için Uniswap'ı kullanmaya başladılar. Uniswap popüler olmaya başlayınca 2020 yaz aylarında Binance ve FTX gibi borsaların da yeni tokenları bir an önce hızlıca listelemeye başladıklarını gördük - ne demişler "rekabet her zaman iyidir". 
+
 
 ### Peki nasıl çalışıyor sistem?
 
