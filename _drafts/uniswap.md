@@ -1,7 +1,7 @@
 
 ### Nedir bu Uniswap?
 
-Uniswap merkeziyetsiz olarak işlem yapılan bir kripto para borsası - ve bu alanın eskilerinden. Her ne kadar borsa olarak adlandırsak da Uniswap özünde İngilizcesi market maker olarak adlandırılan piyasa yapıcı bir havuz. Biraz daha açalım: 
+Uniswap merkeziyetsiz olarak işlem yapılan bir kripto para borsası - ve bu alanın eskilerinden. Her ne kadar borsa olarak adlandırsak da Uniswap özünde İngilizce'de "market maker" olarak adlandırılan piyasa yapıcı bir havuz. Biraz daha açalım: 
 
 Öncelikle merkeziyetsizliğe bakalım. Merkez olmayınca aklımıza ilk olarak kişiden-kişiye (peer-to-peer P2P) işlem geliyor ancak Uniswap biraz daha farklı olarak kişiden-kontrata (peer-to-contract) işlem denen bir sistem ile çalışıyor . Yani kişi bir işlem yapmak istediğinde karşısında bir başka kişi yok, bir kontrat var. Ve bu kontratın arkasında da bir havuz. 
 
