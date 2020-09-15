@@ -87,6 +87,6 @@ Birincisi havuza başka yatırımcılar para koyarsa havuzun toplam büyüklüğ
 - Öte yandan USDC adedi ile ETH adedinin çarpılması havuzun sabit sayısını (BxA) veriyor demiştik. 
 - O zaman ETH fiyatı (B/A) ile havuz sabitinin (BxA) çarpımının karekökü nihai olarak havuzda kalması gereken USDC adedini ((B/A)x(BxA)=B²) verir. Bu işlemi yaparsanız USDC adedi 34.641’i çıkar. 
 - Bu sayıyı toplam havuz değerine bölersek ETH adedi olan 86,6’e ulaşırız.  
-- Sağlama için USDC adedini (34.641) ETH adedine (86,6) bölersek ETH fiyatı olan 400 çıkar. (Daha detaylı açıklamayı ingilizce olarak [Uniswap sitesindeki şu linkte bulabilirsiniz](https://uniswap.org/docs/v2/advanced-topics/understanding-returns/))
+- Sağlama için USDC adedini (34.641) ETH adedine (86,6) bölersek ETH fiyatı olan 400 çıkar. (Daha detaylı açıklamayı İngilizce olarak [Uniswap sitesindeki şu linkte bulabilirsiniz](https://uniswap.org/docs/v2/advanced-topics/understanding-returns/))
 
 
