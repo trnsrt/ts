@@ -29,6 +29,8 @@ permalink: /articles/
   - [DeFi çok mu hızlı gidiyor?](/genel/2020/09/08/defi-cok-mu-hizli-gidiyor.html)
   - [DeFi yeni ICO çılgınlığı mı?](/genel/2020/07/23/DeFi-yeni-ICO-cilginligi-mi.html)
   - [CeFi'dan DeFi'ya... Merkeziyetsizleştiremediklerimizden misiniz?](/genel/2020/08/13/cefi-den-defiya-merkeziyetsizlestiremediklerimizden-misiniz.html)
+  
+ - Farklı DeFi ürünlerinin nasıl çalıştığını görmek için
   - [MakerDAO kredi kullanımında çığır açar mı?](/genel/2019/02/15/MakerDAO-kredi-kullaniminda-cigir-acar-mi.html)
   - [Merkeziyetsiz Finans ve MakerDAO — bir yılda neler değişti?](/genel/2020/03/17/Merkeziyetsiz-Finans-ve-Maker-DAO-Bir-yilda-neler-degisti.html)
   - [ETH görünümlü BTC olur mu?](/genel/2020/07/09/eth-gorunumlu-btc-olur-mu.html)
@@ -37,6 +39,7 @@ permalink: /articles/
   - [Aragon ile DeFi'da yönetim](http/genel/2020/07/18/aragon-ile-defida-yonetim.html)
   - [DeFi türev piyasaları nasıl oluyor?](/genel/2020/08/20/defi-turev-piyasalari-nasil-oluyor.html)
   - [DeFi türev piyasası Synthetix nasıl çalışıyor?](/genel/2020/08/28/Defi-turev-piyasasi-synthetix-nasil-calisiyor.html)
+  - [Nedir bu Uniswap?](/genel/2020/09/15/nedir-bu-uniswap.html)
 
 
 - Blockchain bazlı teknolojilerin girişimcilik ve yatırımcılık ekosistemlerini nasıl değiştirdiğini merak ediyorsanız
