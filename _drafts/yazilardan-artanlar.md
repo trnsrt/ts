@@ -29,6 +29,8 @@ UniSwap’tan bahsederken temel bir özelliğin havuzun iki bölmesine eşit de�
 Uniswap'ın birebir klonlanmış benzerleri olan bu sistemler, üzerien Curve ya da Balancer gibi bir de yönetim token'ı verdikleri için yaz ayları içinde oldukça popüler oldular. [Bir önceki yazımızda](https://turansert.com/genel/2020/09/08/defi-cok-mu-hizli-gidiyor.html) da detaylı olarak anlattığımız bu klonlar henüz kendilerini kanıtlamış değiller.
 
 
+[^2] Curve’in özelliği stabil paralara uyacak bir algoritma içermesi. Uniswap havuz değeri için A ve B token’larının çarpımını sabit tutarken, Curve A ve B tokenlarının toplamını sabit tutuyor. Böyle olunca, birbirine yakın ve fiyatları genelde çok ayrışmayan (burada stabil paralar gibi 1 ABD Doları’na yakınsayan) paralarda değer çok daha yavaş değişip işlem olduğunda büyük fiyat farkları oluşmuyor. Ama eğer çok büyük hacimler olur ve iki token arasında fiyat farkları oluşursa o zaman Uniswap daha gerçekçi fiyatlar veriyor. 
+
 
 ----
 
