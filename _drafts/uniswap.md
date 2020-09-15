@@ -3,13 +3,13 @@
 
 Uniswap merkeziyetsiz olarak işlem yapılan bir kripto para borsası - ve bu alanın eskilerinden. Her ne kadar borsa olarak adlandırsak da Uniswap özünde İngilizcesi market maker olarak adlandırılan piyasa yapıcı bir havuz. Biraz daha açalım: 
 
-Öncelikle merkeziyetsizliğe bakalım. Merkez olmayınca ilk aklımıza gelen kişiden-kişiye (peer-to-peer P2P) işlem oluyor ancak burası öyle çalışmıyor. Buranın sistemine kişiden-kontrata (peer-to-contract) deniyor. Yani kişi bir işlem yapmak istediğinde karşısında bir kişi yok, bir kontrat var. Ve bu kontrat da bir havuza bağlı. 
+Öncelikle merkeziyetsizliğe bakalım. Merkez olmayınca aklımıza ilk olarak kişiden-kişiye (peer-to-peer P2P) işlem geliyor ancak Uniswap biraz daha farklı olarak kişiden-kontrata (peer-to-contract) işlem denen bir sistem ile çalışıyor . Yani kişi bir işlem yapmak istediğinde karşısında bir başka kişi yok, bir kontrat var. Ve bu kontratın arkasında da bir havuz. 
 
 Piyasa yapıcı olmak ise bir alım ya da satış yapmak istediğinizde size istediğiniz ürünü satmak ya da sizden o ürünü almak için hazırda bekleyen bir taraf olması anlamına geliyor. 
 
-Sonuç olarak kişiler birbirleri ile değil, onların yapmak istedikleri her işlemi gerçekleştiren bir havuza karşı işlem yapıyorlar. 
+Sonuç olarak kişiler birbirleri ile değil, yapmak istedikleri her işlemi gerçekleştiren bir havuza karşı işlem yapıyorlar. 
 
-Temel olarak iki ana grup var Uniswap'ta. Kullanıcılar: Bunlar bildiğimiz anlamda işlem yani alım-satım yapanlar. Bir de havuza likidite sağlayanlar: ki bunlara hissedar denebilir ama biz paydaş terimini kullanalım ([bir önceki SNX yazımızda](/genel/2020/08/28/Defi-turev-piyasasi-synthetix-nasil-calisiyor.html) olduğu gibi)... 
+Temel olarak iki ana grup var Uniswap'ta. Kullanıcılar: Bunlar bildiğimiz anlamda işlem yani alım-satım yapanlar. Bir de havuza likidite sağlayanlar: ki bunlara hissedar denebilir ama biz paydaş terimini kullanalım ([bir önceki SNX yazımızda](/genel/2020/08/28/Defi-turev-piyasasi-synthetix-nasil-calisiyor.html) olduğu gibi). Şimdi gelin kim neden kullanır bu sistemi ona bakalım. 
 
 
 ### Kim neden Uniswap’ta işlem yapar?
