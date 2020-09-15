@@ -69,7 +69,7 @@ Bu komisyonlardan kazanılan para şimdiye kadar ani değişikliklerden kaybedil
 |:--:| 
 | *Uniswap içindeki en büyük havuz olan USDC havuzunun son bir yıl getirisi. Kırmızı çizgi gelir, mavi çizgi kayıp, sarı çizgi ise kâr (ROI) - [Kaynak](https://zumzoom.github.io/analytics/uniswap/roi/)*|
 
-Ani ve kalıcı fiyat değişikliklerinden bu kadar etkilendiği düşünüldüğünde havuzlar içinde en kârlı olanları aslında değerlerinin tekrar eski haline döneceğini bekleyeceğiniz token çiftleri. Nedir bunlar derseniz, stabil para havuzları. Örneğin USDC/DAI çiftinden oluşan havuzlar. Stabil paralar genelde 1 ABD Doları’nın etrafında gezinir dururlar. Bazen üzerine çıkar, bazen altına inerler. Dolayısıyla likidite koyanlar "geçici kayıp" fazla yaşamazlar ve oldukça iyi kâr ederler. 
+Ani ve kalıcı fiyat değişikliklerinden bu kadar etkilendiği düşünüldüğünde havuzlar içinde en kârlı olanlar aslında değerlerinin tekrar eski haline döneceğini bekleyeceğiniz token çiftleri. Nedir bunlar derseniz, stabil para havuzları. Örneğin USDC/DAI çiftinden oluşan havuzlar. Stabil paralar genelde 1 ABD Doları’nın etrafında gezinir dururlar. Bazen üzerine çıkar, bazen altına inerler. Dolayısıyla likidite koyanlar "geçici kayıp" fazla yaşamazlar ve oldukça iyi kâr ederler. 
 
 Tabii, madalyonun öbür tarafında bu çiftlerde fiyat değişimleri de çok küçük boyutlarda olur, işlem yapılınca elde edilen kârlar da az olur. Marjların az olduğu bir yerde bir de UniSwap’a 0.3% komisyon vermek ister mi al-sat yapanlar? Tabii ki hayır ve işte bu nedenle stabil paraların ikili havuzlarını yaratan Curve daha popüler oldu. Yazı çok uzadı. Sonraki yazılarda gerek Curve gerekse Balancer gibi yenilikçi piyasa yapıcılar ile Sushiswap gibi Uniswap klonlarını inceleyelim. 
 
