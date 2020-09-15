@@ -9,7 +9,7 @@ Piyasa yapıcı olmak ise bir alım ya da satış yapmak istediğinizde size ist
 
 Sonuç olarak kişiler birbirleri ile değil, yapmak istedikleri her işlemi gerçekleştiren bir havuza karşı işlem yapıyorlar. 
 
-Temel olarak iki ana grup var Uniswap'ta. İlki kullanıcılar; bunlar bildiğimiz anlamda işlem yani alım-satım yapanlar. Bir de havuza likidite sağlayanlar - ki bunlara hissedar denebilir ama biz paydaş terimini kullanalım ([bir önceki SNX yazımızda](/genel/2020/08/28/Defi-turev-piyasasi-synthetix-nasil-calisiyor.html) olduğu gibi). Şimdi gelin kim neden kullanır bu sistemi ona bakalım. 
+Temel olarak iki ana grup var Uniswap'ta. İlki kullanıcılar; bunlar bildiğimiz anlamda işlem yani alım-satım yapanlar. Bir de havuza likidite sağlayanlar - ki bunlara hissedar denebilir ama biz paydaş terimini kullanalım ([bir önceki SNX yazımızda olduğu gibi](/genel/2020/08/28/Defi-turev-piyasasi-synthetix-nasil-calisiyor.html)). Şimdi gelin kim neden kullanır bu sistemi ona bakalım. 
 
 
 ### Kim neden Uniswap’ta işlem yapar?
