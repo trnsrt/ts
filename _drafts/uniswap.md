@@ -65,7 +65,7 @@ Sistemdeki en kritik risk ani ve kalıcı fiyat artışlarında ortaya çıkıyo
 
 Bu komisyonlardan kazanılan para şimdiye kadar ani değişikliklerden kaybedilen paranın önüne geçmiş ama bu ileride de böyle olacağı anlamına gelmiyor. Yani likidite koyanlar ciddi bir risk taşıyorlar. 
 
-| ![USDC getirileri](/assets/USDC_Uniswap_returns_1200.png)|
+| ![USDC getirileri](/assets/USDC_Uniswap_returns_v2_1200.png)|
 |:--:| 
 | *Uniswap içindeki en büyük havuz olan USDC havuzunun son bir yıl getirisi. Kırmızı çizgi gelir, mavi çizgi kayıp, sarı çizgi ise kâr (ROI) - [Kaynak](https://zumzoom.github.io/analytics/uniswap/roi/)*|
 
