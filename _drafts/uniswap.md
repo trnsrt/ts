@@ -57,7 +57,7 @@ Kulağa çok hoş gelse de havuza para koymak her zaman kârlı olmayabiliyor. B
 Sistemdeki en kritik risk ani ve kalıcı fiyat artışlarında ortaya çıkıyor. Eğer piyasalarda ETH fiyatı aniden 400 USDC’ye çıkarsa, Uniswap robot sistem olduğu için ani tepki veremiyor. Bunun ne gibi zararı var? Bir kısım arbitraj yapanlar, anında UniSwap havuzuna USDC koyup ETH’leri ucuzdan çekebiliyorlar (1 ETH'nin karşılığı 400 USDC'ye denk olana kadar). 
 
 Şimdi yukarıdaki senaryoya sisteme likidite sağlamış bir kişinin perspektifinden bakalım: 
-- Diyelim bu kişi en başta havuzun bir tarafına 10 ETH diğer tarafına ise 3.000 USDC koymuş yani havuzun %10'una sahip olmuştu. 
+- Diyelim bu kişi en başta havuzun bir tarafına 10 ETH diğer tarafına ise 3.000 USDC koymuş yani havuzun %10'una sahip olmuş olsun. 
 - Yukarıda bahsettiğimiz ETH fiyatı artıp 400 USDC’ye çıkınca al-sat’çılar havuzdaki ETH'leri alıp yerine USDC ile koyar. Havuzda şimdi toplam 86,6 ETH ve 34.641 USDC olacak. (Neden derseniz ayrıntılı işlemi dipnotta) [^2]. 
 - Bu kişiye de %10 payı olarak 8,66 ETH ve 3.464 USDC’ye düşecek. Bu da USDC cinsinden 8,66 ETH x400=3.464 artı 3.464 USDC toplam 6.928 USDC olur. 
 - Halbuki bu kişi ETH ve USDC'sini havuza yatırmayıp elinde utsaydı USDC cinsinden 10 ETH x 400=4.000 artı 3.000 USDC toplam 7.000 USDC varlığı olacaktı. 
