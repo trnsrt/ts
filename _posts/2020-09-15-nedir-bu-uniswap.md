@@ -1,5 +1,10 @@
-
-### Nedir bu Uniswap?
+---
+layout: post
+title:  "Nedir bu Uniswap?"
+date:   2020-09-15 18:47:56 +0300
+categories: Genel
+tags: Yazılar DeFi
+---
 
 Uniswap merkeziyetsiz olarak işlem yapılan bir kripto para borsası - ve bu alanın eskilerinden. Her ne kadar borsa olarak adlandırsak da Uniswap özünde İngilizce'de "market maker" olarak adlandırılan piyasa yapıcı bir havuz. Biraz daha açalım: 
 
@@ -88,5 +93,12 @@ Birincisi havuza başka yatırımcılar para koyarsa havuzun toplam büyüklüğ
 - O zaman ETH fiyatı (B/A) ile havuz sabitinin (BxA) çarpımının karekökü nihai olarak havuzda kalması gereken USDC adedini ((B/A)x(BxA)=B²) verir. Bu işlemi yaparsanız USDC adedi 34.641’i çıkar. 
 - Bu sayıyı toplam havuz değerine bölersek ETH adedi olan 86,6’e ulaşırız.  
 - Sağlama için USDC adedini (34.641) ETH adedine (86,6) bölersek ETH fiyatı olan 400 çıkar. (Daha detaylı açıklamayı İngilizce olarak [Uniswap sitesindeki şu linkte bulabilirsiniz](https://uniswap.org/docs/v2/advanced-topics/understanding-returns/))
+
+---
+
+*Not 1: Bu yazı ilk olarak 15 Eylül 2020'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/nedir-bu-uniswap/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
 
 
