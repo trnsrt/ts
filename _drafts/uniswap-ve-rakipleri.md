@@ -14,8 +14,7 @@ Sonuçta yukarıdaki bahsettiğimiz sabit sayı ve hesaplaması afaki - yani ist
 
 
 #### Çoklu havuzlar
-Uniswap'daki her bir havuzun iki bölmesi var demiştik - ve her bir bölmede de birer token. İllâ iki token mı olması lazım? Daha çok token koyulamaz mı? Olur tabii - neden olmasın? İşte rakip olarak çıkan kimi sistemler üç, dört hatta 8'e kadar sayıda token koydular sistemlerine. 
-
+Uniswap'daki her bir havuzun iki bölmesi var demiştik - ve her bir bölmede de birer token. İllâ iki token mı olması lazım? Daha çok token koyulamaz mı? Olur tabii - neden olmasın? İşte rakip olarak çıkan kimi sistemler üç, dört hatta 8'e kadar sayıda token koydular sistemlerine. Böylece likidite sağlayıcılara birden fazla tokena aynı anda yatırım yapma imkanı vermiş oldular. 
 
 #### Farklı oranlar
 Uniswap'taki her havuzda iki bölme olmasının yanında algoritmaya göre her bir bölmede eşit değerde token olması gerekiyor. Yani bir havuzun bir tarafında 1000 ETH var ise, ve bir ETH de 300 USDC ise, havuzun diğer tarafından 300,000 USDC olmalı ki sistem dengede olsun. Peki bu oran %50-50 mi olmalı? Uniswap algoritması gereği öyle olabilir ama her zaman %50-50 olmasına gerek yok havuzların. Farklı ağırlıklı havuzlar da gayet rahat şekilde kurulabilir. Neden farklı havuzlara ihtiyaç var? Özellikle likidite sağlayanlar havuza likidite sağladıklarında havuzun her iki tarafına da yatırım yapıyorlar. O nedenle bu iki token ile ilgili beklentilerine göre  farklı ağırlıklarda yatırım yapmak isteyebilirler. Örneğin ETH'nin artacağı konusunda bir beklentisi var ise ETH/USDC havuzuna %50-50 katılmak yerine %80-20 katılmayı isteyebilirler. 
@@ -33,10 +32,9 @@ Curve yukarıdaki Uniswap formülünü farklı bir şekilde uyguluyor. Ne olduğ
 
 
 ### Balancer
+Balancer, Uniswap'a kullanıcı arayüzü olarak da çok benziyor olsa da, getirdiği yenilikler ile yatırımcılara farklı alternatifler sunuyor. İkili değil sekize tokena kadar ve %50-50 değil farklı oranlarda token konabilen havuzlar sağlıyor. Böylece likidite sağlayanlar kendi risk ve beklentilerine uygun olarak istedikleri türden bir endeks fonuna yatırım yapmış oluyorlar. Üstelik klasik bir endesk fonunda fon yöneticisine yönetim payı verirken, burada bunun yerine likidite sağladığı için paydaşlara Balancer'ın yönetim tokenı olan BAL dağıtılıyor. 
 
 
 
 
-
-
-[^1] Curve algoritması 
+[^1] Curve algoritması Uniswap algoritmasına göre birbirine yakın değerdeki iki tokenda arz ve talep sonucu ortaya çıkan farkı minimumda tutuyor. Eğer arz ve talep değişikliği çok yüksek oranlarda olursa o zaman Curve daha dezavantajlı hale geliyor. Ancak Curve havuzları genelde birbirine yakın ve hep 1 ABD Doları'na geri dönen stabil paralardan oluştuğu için Curve algoritması daha kullanışlı oluyor. 
