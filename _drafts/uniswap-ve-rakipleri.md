@@ -16,7 +16,7 @@ Sonuçta yukarıdaki bahsettiğimiz sabit sayı ve hesaplaması afaki - yani ist
 #### Çoklu havuzlar
 Uniswap'daki her bir havuzun iki bölmesi var demiştik - ve her bir bölmede de birer token. İllâ iki token mı olması lazım? Daha çok token koyulamaz mı? Olur tabii - neden olmasın? İşte rakip olarak çıkan kimi sistemler üç, dört hatta 8'e kadar sayıda token koydular sistemlerine. Böylece likidite sağlayıcılara birden fazla tokena aynı anda yatırım yapma imkanı vermiş oldular. 
 
-#### Farklı oranlar
+#### Farklı havuz oranları
 Uniswap'taki her havuzda iki bölme olmasının yanında algoritmaya göre her bir bölmede eşit değerde token olması gerekiyor. Yani bir havuzun bir tarafında 1000 ETH var ise, ve bir ETH de 300 USDC ise, havuzun diğer tarafından 300,000 USDC olmalı ki sistem dengede olsun. Peki bu oran %50-50 mi olmalı? Uniswap algoritması gereği öyle olabilir ama her zaman %50-50 olmasına gerek yok havuzların. Farklı ağırlıklı havuzlar da gayet rahat şekilde kurulabilir. Neden farklı havuzlara ihtiyaç var? Özellikle likidite sağlayanlar havuza likidite sağladıklarında havuzun her iki tarafına da yatırım yapıyorlar. O nedenle bu iki token ile ilgili beklentilerine göre  farklı ağırlıklarda yatırım yapmak isteyebilirler. Örneğin ETH'nin artacağı konusunda bir beklentisi var ise ETH/USDC havuzuna %50-50 katılmak yerine %80-20 katılmayı isteyebilirler. 
 
 #### Yönetim tokenı
@@ -24,6 +24,9 @@ Uniswap'ta likidite sağlayıcıların  Eylül 2020 başına kadar gelirleri yal
 
 #### Diğer projeler ile uyumluluk
 DeFi projelerinin klasik projelere göre en önemli farklarından biri, farklı projelerin birbirleriyle uyumlu çalışabilmesi. Buna "money lego" diyenler de var. İşte, Uniswap rakibi projeler başka başka projeler ile iletişim içinde yeni, kazancı daha yüksek ürünler çıkarabiliyorlar. 
+
+#### Fiyat
+Uniswap her bir işlem için al-sat yapan kullanıcılardan %0.3 komisyon alıyor. Bu oldukça yüksek bir rakam - her ne kadar kendisi üzerinden 1 Eylül 2020 tarihine kadar kendisi üzerinden işlem yapmışlara 400 UNI token vererek bu komisyonların bir kısmını kullanıcılara geri vermiş olsa da.  Uniswap likidite sağlayıcılara gelir olarak yapılan işlemlerden komisyonları önerdiği için rakamı çok da düşüremiyor idi. Ancak son açıklanan, UNI token ile likidite sağlayıcılar ciddi bir ekstra gelir kazanıyorlar. O nedenle bir sonraki Uniswap versiyonunda (v3) bu komisyonların düşmesi beklenebilir. 
 
 
 ### Curve
