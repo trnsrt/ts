@@ -45,6 +45,8 @@ Bitti mi? Hayır. Bu likidite oyununu giderek artırdı Curve. Compound ile orta
 Balancer, Uniswap'a kullanıcı arayüzü olarak da çok benziyor olsa da, getirdiği yenilikler ile yatırımcılara farklı alternatifler sunuyor. İkili değil sekize tokena kadar ve %50-50 değil farklı oranlarda token konabilen havuzlar sağlıyor. Böylece likidite sağlayanlar kendi risk ve beklentilerine uygun olarak istedikleri türden bir endeks fonuna yatırım yapmış oluyorlar. Üstelik klasik bir endesk fonunda fon yöneticisine yönetim payı verirken, burada bunun yerine likidite sağladığı için paydaşlara Balancer'ın yönetim tokenı olan BAL dağıtılıyor. 
 
 
+
+
 #### Uniswap rakiplerine nasıl cevap verecek?
 
 Şu an için Uniswap'ın en büyük avantajı sahip olduğu havuzlardaki likidite ve bunun sağladığı ağ (network) etkisi. Ancak DeFi hızlı ilerlemesine rağmen henüz emekleme aşamasında olan bir sektör, o nedenle her an herşey değişebilir. Bu ağ etkisinin çok kalıcı olmadığını düşünenler de var. Öte yandan, TVL dediğimiz bu platformlara bağlanan paraların küçük yatırımcılardan çok ellerinde büyük miktarlarda kripto tutan balinalardan geldiği biliniyor. Ve bu balinalar hemen yer değiştirebiliyorlar. Baksanıza son üç ayda bu dört büyük platforma bağlanmış para miktarlarının değişkenliğine:
