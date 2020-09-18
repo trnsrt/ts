@@ -7,10 +7,12 @@ Tabii Uniswap'ın rakipleri de yok değil. Uniswap sisteminin belli özellikleri
 ### Nasıl farklılaştı rakipler?
 
 #### Farklı algoritma kullanımı
-Uniswap'ın özünde bir otomatik piyasa yapıcısı olduğundan bahsetmiştik. Bunun anlamı, sistemin işlem yapmak isteyenlere verdikleri fiyatlar otomatik olarak belirleniyor idi. Fiyat derken kastettiğimiz değiş-tokuş değeri. Havuzdaki bir tokeni almak için havuzdaki diğer tokeni oraya koymanız gerekiyor. 
+Uniswap'ın özünde bir otomatik piyasa yapıcısı olduğundan bahsetmiştik [geçen yazımızda]. Bunun anlamı, sistemin işlem yapmak isteyenlere verdikleri fiyatlar otomatik olarak belirleniyor idi. Fiyat derken kastettiğimiz değiş-tokuş değeri. Havuzdaki bir tokeni almak için havuzdaki diğer tokeni oraya koymanız gerekiyor. 
 Ne kadar token koyacağınız için ise basit bir formül var: Her bir havuzun iki tarafını oluşturan token adetlerinin çarpımının her zaman bir sabit sayıya eşit olacak. O kadar. Mantık basit aslında: Bir tokena talep varsa havuzdan çekilir, ve karşılığında diğer tokendan konur. Havuz büyüklüğü dediğimiz sabit sayıyı korumak için hauvzdaki azalan tokendan yeni bir tane almak için diğer tokendan eskisine göre daha fazla vermelisiniz. Basit bir arz-talep dengesi. 
 
-Sonuçta yukarıdaki bahsettiğimiz sabit sayı ve hesaplaması afaki - yani isteyen istediği şekilde bu hesaplamayı değiştirerek yeni bir algoritma oluşturabilir. Nitekim rakiplerin bir kısmı bu algoritmaları değiştirerek kendilerine farklılaştırıyorlar. 
+Uniswap algoritmasının temel hedefi, her ne olursa olsun işlem yapmak isteyenlere sunulabilecek bir token bulundurmak. Bu nedenle kimi zaman bir tokena çok talep olunca o tokenın fiyatı (havuzdaki diğer token ile değişme oranı) saçma yerlere gelebiliyor. Ayrıca, işlem yapmadan önce sistemde bir alım-satım oranı görürken işlem yapmaya başladığınızda birden bunun değiştiğini görebiliyorsunuz - buna performans düşüklüğü (slippage) deniyor. Uniswap için bu iki sıkıntının da bir önemi yok - yeter ki ne pahasına olursa olsun işlem yapmak için gelmiş olan birini eli boş döndürmesin. 
+
+Sonuçta Uniswap algoritması olarak bahsettiğimiz sabit sayı ve hesaplaması afaki - yani isteyen istediği şekilde bu hesaplamayı değiştirerek yeni bir algoritma oluşturabilir. Nitekim rakiplerin bir kısmı bu algoritmaları değiştirerek kendilerine farklılaştırıyorlar. 
 
 
 #### Çoklu havuzlar
@@ -31,7 +33,9 @@ Uniswap her bir işlem için al-sat yapan kullanıcılardan %0.3 komisyon alıyo
 
 ### Curve
 
-Curve yukarıdaki Uniswap formülünü farklı bir şekilde uyguluyor. Ne olduğunun çok önemi yok bu yazı için. Biz kullanılar için bilmemiz gereken şu: Uniswap'da yapılan işlemlerde eğer havuzdaki tokenlardan birinin değeri hızlıca değişirse likidite sağlayanın bir kaybı oluyor. Eğer sonrasında tokenların değeri göreceli olarak eski haline dönerse bu kayıp yok oluyor - o yüzden bu zarara "geçici kayıp- impermanent loss" deniyor. Curve genel olarak  Curve kullandığı algoritma ile daha çok stabil paralara hitap ediyor. Örneğin ABD Doları'na bağlı olan iki stabil kripto paranın (örneğin Tether-USDT- ve USDC) olduğu havuzlar Curve'in algoritması çok daha iyi çalışıyor(1). 
+Curve yukarıdaki Uniswap algoritmasını farklı bir şekilde uyguluyor. Rakamsal olarak ne olduğunun çok önemi yok bu yazı için. Kullanıcıların bilmesi gereken, Uniswap algoritması her ne olursa olsun kullanıcılara işlem yapabilecek bir token sunmak iken, Curve algoritması yukarıda Uniswap için bahsettiğimiz işlem yaparken al-sat yapanın yaşadığı performans düşüklüğünü engellemek.
+
+Curve'un kullandığı bu algoritma, yüksek hacimli ve fiyatı fazla oynamayan ikililerde çok daha avantajlı oluyor al-sat yapanlar kullanıcılar için. Örneğin ABD Doları'na bağlı olan iki stabil kripto paranın (örneğin Tether-USDT- ve USDC) olduğu havuzlar Curve'in algoritması çok daha iyi çalışıyor(1). 
 
 Bunun dışında üç-dört stabil paradan oluşan havuzlar da kuruyor Curve - Uniswap gibi yalnız ikili havuzlar yok. Bunun nedeni, kullanıcıların farklı sabit paralarla işlem yapmak istemeleri, her bir paradan diğerine geçerken ayrı ayrı havuzları kullanmak yerine olabilecek tüm farklı işlem taleplerini bir havuzdan gerçekleştirebilmek. Böylece farklı paralarda alım-satım yapmak isteyen biri Uniswap'ta iki ayrı havuz kullanacağı için çifte komisyon verip, bir de potansiyel olarak daha sığ iki havuzda daha fazla kayganlık (slippage) yaşarken, Curve kullanan bu ekstra kayıplardan kaçınabilecek. 
 
@@ -46,12 +50,24 @@ Balancer, Uniswap'a kullanıcı arayüzü olarak da çok benziyor olsa da, getir
 
 İkili değil sekize tokena kadar ve %50-50 değil farklı oranlarda token konabilen havuzlar sağlıyor öncelikle. Ne işe yarar bu? Böylece likidite sağlayanlar kendi risk ve beklentilerine uygun olarak istedikleri türden bir endeks fonuna yatırım yapmış oluyorlar. Adeta kişiye özel bir yatırım fonu! Üstelik klasik bir endesk fonunda fon yöneticisine yönetim payı verirken, burada bunun yerine likidite sağladığı için paydaşlar hem yapılan işlem üzerinden komisyon hem de Balancer'ın yönetim tokenı olan BAL almaya hak kazanıyor.
 
-Öte yandan Balancer üzerinde kurulan havuzların içinde yapılan işlemlerden alınan komisyon oranları Uniswap gibi sabit değil. Her bir havuz kurucusu farklı bir komisyon belirleyebiliyor. Likidite sağlarken komisyon oranlarını incelemekte fayda var. Bunun yanında kimi likidite sağlayıcılar kurdukları havuzu özel tutup, başka para almıyorlar. Neden böyle yapıyorlar tartışılır - bir örnek olarak, normal şirketler hisse senetlerini geri almak (buy-back) suretiyle dolaşımdaki paralarını kontrol etmek isterler. Burada da kimi girişimler dolaşımda olan tokenlarının emisyonunu kontrol edebilmek için karmaşık hesaplar, yeni token basma ya da token yakma yerine, Balancer üzerindeki havuzlarını kullanıp, genel emisyon rakamları ile oynamak isteyebilirler. Hatta, böyle bir durumda, havuzda manipülasyon yapılmasın diye yüksek işlem komisyonu (örneğin %5) belirleyip ancak çok yüksek fiyat değişikliklerinde son çare olarak havuzlarının kullanılmasını isteyebilirler. Görüyorsunuz, bu tip ürünlerde amaç ve isteğe göre ne kadar farklı senaryo ve alternatifçıkabiliyor.. 
+Öte yandan Balancer üzerinde kurulan havuzların içinde yapılan işlemlerden alınan komisyon oranları Uniswap gibi sabit değil. Her bir havuz kurucusu farklı bir komisyon belirleyebiliyor. Likidite sağlarken komisyon oranlarını incelemekte fayda var. Bunun yanında kimi likidite sağlayıcılar kurdukları havuzu özel tutup, başka para almıyorlar. Neden böyle yapıyorlar tartışılır - bir örnek olarak, normal şirketler hisse senetlerini geri almak (buy-back) suretiyle dolaşımdaki paralarını kontrol etmek isterler. Burada da kimi girişimler dolaşımda olan tokenlarının emisyonunu kontrol edebilmek için karmaşık hesaplar, yeni token basma ya da token yakma yerine, Balancer üzerindeki havuzlarını kullanıp, genel emisyon rakamları ile oynamak isteyebilirler. Hatta, böyle bir durumda, havuzda manipülasyon yapılmasın diye yüksek işlem komisyonu (örneğin %5) belirleyip ancak çok yüksek fiyat değişikliklerinde son çare olarak havuzlarının kullanılmasını isteyebilirler. Görüyorsunuz, bu tip ürünlerde amaç ve isteğe göre ne kadar farklı senaryo ve alternatif çıkabiliyor.. 
+
+
+### Sushiswap
+
+Yukarıda bahsettiğimiz gibi, özünde Uniswap çok basit bir algoritma. Bir DeFi ürünü olduğu için kendisine likidite sağlayanları elinde tutması zor. 
+
 
 
 #### Uniswap rakiplerine nasıl cevap verecek?
 
-Şu an için Uniswap'ın en büyük avantajı sahip olduğu havuzlardaki likidite ve bunun sağladığı ağ (network) etkisi. Ancak DeFi hızlı ilerlemesine rağmen henüz emekleme aşamasında olan bir sektör, o nedenle her an herşey değişebilir. Bu ağ etkisinin çok kalıcı olmadığını düşünenler de var. Öte yandan, TVL dediğimiz bu platformlara bağlanan paraların küçük yatırımcılardan çok ellerinde büyük miktarlarda kripto tutan balinalardan geldiği biliniyor. Ve bu balinalar hemen yer değiştirebiliyorlar. Baksanıza son üç ayda bu dört büyük platforma bağlanmış para miktarlarının değişkenliğine:
+Şu an için Uniswap'ın en büyük avantajı sahip olduğu havuzlardaki likidite ve bunun sağladığı ağ (network) etkisi. Ancak DeFi hızlı ilerlemesine rağmen henüz emekleme aşamasında olan bir sektör, o nedenle her an herşey değişebilir. Bu ağ etkisinin çok kalıcı olmadığını düşünenler de var. 
+
+Klasik pazarlarda strateji ve pazarlama alanında şirketler ve müşterileri konuşulurken, en önemli maddelerden biri müşteri bağlılığı (customer stickiness) olarak geçer. Müşteriyi nasıl kendinize bağlarsınız? Klasik finans sistemi oyuncuları maalesef daha çok kendi sistemlerinden çıkmayı zorlaştırarak müşterilerini bağlıyorlar. Ancak DeFi'da öyle değil - zira varlık platformda değil, kullancının elinde. Al-sat işlemini bugün sizden yapar - yarın daha iyi fiyat bulursa ya da daha az komisyon veriyorsa anında gidip rakip platformdan yapar. Hatta farklı platformlara bakmasına bile gerek yok. [1inch] gibi hizmet sağlayıcılar onun adına hangi platform daha uygun fiyat veriyor anında gidip bulur. 
+
+Likidite sağlayıcılar için de benzer durum. Likiditeyi bugün burada tutar - daha iyi bir imkan bulursa anında çeker, başka bir yere gider. 
+
+Öte yandan, TVL dediğimiz bu platformlara bağlanan paraların küçük yatırımcılardan çok ellerinde büyük miktarlarda kripto tutan balinalardan geldiği biliniyor. Ve bu balinalar hemen yer değiştirebiliyorlar. Baksanıza son üç ayda bu dört büyük platforma bağlanmış para miktarlarının değişkenliğine:
 
 [Dört platform likidite miktarları]
 
