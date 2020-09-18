@@ -55,8 +55,11 @@ Balancer, Uniswap'a kullanıcı arayüzü olarak da çok benziyor olsa da, getir
 
 ### Sushiswap
 
-Yukarıda bahsettiğimiz gibi, özünde Uniswap çok basit bir algoritma. Bir DeFi ürünü olduğu için kendisine likidite sağlayanları elinde tutması zor. 
+Yukarıda bahsettiğimiz gibi, özünde Uniswap çok basit bir algoritma. Bir DeFi platformu olarak aynı zamanda açık kaynak vizyonu ile çalışıyor - yani ürün (yani kod) tamamen açık. Dolayısıyla, Uniswap'ın kodunu çatallayıp (forklamak) benzer bir ürünü çıkarmak o kadar zor değildi, nitekim Sushiswap bu şekilde Uniswap kopyası bir ürün çıkardı. Üzerine tek bir ekleme yaptı, o da parayı kendilerinde tutanlar için Sushi token vaad etti.. Bir anda ciddi bir likidite (ki bunlar ellerinden büyük miktarda token tutan balinalar) Sushiswap'a kaydı. 
 
+Sonrasında DeFi büyük krizlerinden birini yaşadı. Sushiswap'ın kurucusu (ismi bilinmeyen) olan geliştirici, kendine ciddi bir miktarda token alıp piyasalarda bunu bozdurdu. Bunun üzerine büyük bir fırtına koptu ve sonrasında bu kişi o tokenları iade etti. Sinek küçük ama mide bulandırır tarzı bir hareket oldu bu. Sushiswap yoluna devam ediyor - zira gerek kullanıcı gerekse likidite sağlayıcılar aldıkları komisyon ve Sushi token ödüllerine bakıyorlar. Ancak bu olay klonların imajını ciddi şekilde sarstı. 
+
+Her ne kadar "kod" olarak aynı olsalar da, geliştirici ekip ve etrafında kümelenmiş ciddi bir topluluk olmadıkça, Sushiswap benzeri klonların uzun vadede Uniswap'tan geri kalacağını beklemek çok da yanlış bir beklenti olmaz. Yalnız para ile saadet olmuyor maalesef. 
 
 
 #### Uniswap rakiplerine nasıl cevap verecek?
