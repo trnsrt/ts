@@ -51,9 +51,9 @@ Balancer, Uniswap'a kullanıcı arayüzü olarak da çok benziyor olsa da, getir
 
 [Dört platform likidite miktarları]
 
-Rakiplerin kendisine göre hız
+Rakiplerin kendisine göre hızla yol almalarına karşı Uniswap da belli hareketlerde bulunmaya başladı. Örneğin Eylül başında çıkardığı UNI token esas olarak kendi klonu olan Sushiswap'a karşı gösterdiği bir reaksiyon. Uniswap likidite sağlayıcılara gelir olarak yapılan işlemlerden komisyonları önerdiği için işlemlerden aldığı %0.3 ücreti yüksek olmasına rağmen düşüremiyor idi. Ancak UNI token ile likidite sağlayıcılar ciddi bir ekstra gelir kazanacaklar. 
 
-
+Yakında çıkması planlanan Uniswap 3.0 versiyonda, al-sat komisyon ücretlerinin (UNI sayesinde artan diğer gelirler ile birlikte) azalması beklenebilir. Bunun yanında ikili havuzlar yerine çoklu havuzları da uygulamaya alabilir Uniswap. 
 
 
 [^1] Curve algoritması Uniswap algoritmasına göre birbirine yakın değerdeki iki tokenda arz ve talep sonucu ortaya çıkan farkı minimumda tutuyor. Eğer arz ve talep değişikliği çok yüksek oranlarda olursa o zaman Curve daha dezavantajlı hale geliyor. Ancak Curve havuzları genelde birbirine yakın ve hep 1 ABD Doları'na geri dönen stabil paralardan oluştuğu için Curve algoritması daha kullanışlı oluyor. 
