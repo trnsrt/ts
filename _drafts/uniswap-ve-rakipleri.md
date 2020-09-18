@@ -36,6 +36,8 @@ Bunun dışında özellikle diğer projeler ile çalışma anlamında ilginç bi
 
 Likiditenin DeFi ürünlerinde ne kadar önemli olduğunu görüyorsunuz değil mi? Gördüğünüz gibi Curve bir nevi likidite ticareti yapıyor. Likidite sağlayıcılardan aldığı parayı gerek sabit para al-sat yapmak isteyen kullanıcılara, gerekse kendi sistemini kuvvetlendirmek isteyen başka platformlara götürerek ekstra getiriler elde ediyor. 
 
+Bitti mi? Hayır. Bu likidite oyununu giderek artırdı Curve. Compound ile ortak ürün çok güzel. Likidite sağlayan hem işlem üzerinden komisyon, hem CRV tokenı, hem Compound faizi, hem de COMP yönetim tokenı kazanıyor. Ancak ya faiz olarak Compound'un önerdiği faizler az ise? Öyle ya bir tek Compound yok kredi veren platformlar içinde.. Aave var, dYdX var. Ya onlar daha iyi faiz verirse? İşte o nedenle Curve, Yearn isimli bir nevi merkeziyetsiz portföy yönetimi yapan platform ile bir başka ürün daha çıkardı. Bu üründe, likidite sağlayıcı parayı koyuyor Curve sistemine, Yearn bu parayı en yüksek faiz veren kredi platformunda değerlendiriyor. Nasıl? DeFi ürünleri hakikaten akıl sınırlarını zorluyor, değil mi?
+
 ### Balancer
 Balancer, Uniswap'a kullanıcı arayüzü olarak da çok benziyor olsa da, getirdiği yenilikler ile yatırımcılara farklı alternatifler sunuyor. İkili değil sekize tokena kadar ve %50-50 değil farklı oranlarda token konabilen havuzlar sağlıyor. Böylece likidite sağlayanlar kendi risk ve beklentilerine uygun olarak istedikleri türden bir endeks fonuna yatırım yapmış oluyorlar. Üstelik klasik bir endesk fonunda fon yöneticisine yönetim payı verirken, burada bunun yerine likidite sağladığı için paydaşlara Balancer'ın yönetim tokenı olan BAL dağıtılıyor. 
 
