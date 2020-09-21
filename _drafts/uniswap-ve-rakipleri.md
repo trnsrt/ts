@@ -89,9 +89,14 @@ Likidite sağlayıcılar için de durum benzer şekilde. Likiditeyi bugün burad
 | *Dört büyük merkeziyetsiz borsaya bağlanmış olan kripto para miktarı - [Kaynak](https://defipulse.com)*|
 
 
-Rakiplerin kendisine göre hızla yol almalarına karşı Uniswap da belli hareketlerde bulunmaya başladı. Örneğin Eylül başında çıkardığı UNI token esas olarak kendi klonu olan Sushiswap'a karşı gösterdiği bir reaksiyon. Uniswap likidite sağlayıcılara gelir olarak yapılan işlemlerden komisyonları önerdiği için işlemlerden aldığı %0.3 ücreti yüksek olmasına rağmen düşüremiyor idi. Ancak UNI token ile likidite sağlayıcılar ciddi bir ekstra gelir kazanacaklar. 
+Rakiplerin kendisine göre hızla yol almalarına karşı Uniswap da belli aksiyonlar almaya başladı. Örneğin Eylül başında çıkardığı UNI token esas olarak kendi klonu olan Sushiswap'a karşı gösterdiği bir reaksiyon. Uniswap likidite sağlayıcılara gelir olarak yapılan işlemlerden komisyon verdiği için işlemlerden aldığı %0.3 ücreti yüksek olmasına rağmen düşüremiyordu. UNI token ile likidite sağlayıcılar artık ciddi bir ekstra gelir kazanacaklar. 
 
 Yakında çıkması planlanan Uniswap 3.0 versiyonda, al-sat komisyon ücretlerinin (UNI sayesinde artan diğer gelirler ile birlikte) azalması beklenebilir. Bunun yanında ikili havuzlar yerine çoklu havuzları da uygulamaya alabilir Uniswap. 
+
+### Sonuç
+DeFi platformları özünde birbirleri ile uyumlu çalışabilen ve içinde ne olduğunu herkesin görebildiği açık yazılımlar. Bu nedenle, hem de farklı platformlar ile bir araya getirilerek kullanıcılara eşşiz kazanç olanakları sunulabiliyor ama öte yandan hızlıca da kopyalanabiliyorlar. Sektör bağımsız sıklıkla duyarız "rekabet çok artıyor" sözünü. Bunu söyleyenler asıl bir de gelip DeFi dünyasını görsünler. Kullanıcıları elde tutabilmek çok zor. Bunu için platformların kaliteli ve yenilikçi ürünlerı hızlı bir şekilde kullanıcıya sunmaları gerekiyor - hızlı derken günleri kastediyoruz, ayları değil. Ayrıca pla destekleyen gönüllü bir topluluğa sahip olmanız gerekiyor. 
+
+
 
 
 [^1] Curve algoritması Uniswap algoritmasına göre birbirine yakın değerdeki iki tokenda arz ve talep sonucu ortaya çıkan farkı minimumda tutuyor. Eğer arz ve talep değişikliği çok yüksek oranlarda olursa o zaman Curve daha dezavantajlı hale geliyor. Ancak Curve havuzları genelde birbirine yakın ve hep 1 ABD Doları'na geri dönen stabil paralardan oluştuğu için Curve algoritması daha kullanışlı oluyor. 
