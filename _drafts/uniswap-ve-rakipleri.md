@@ -1,6 +1,15 @@
 Hatırlarsanız [geçtiğimiz yazıda](/genel/2020/09/15/nedir-bu-uniswap.html) en büyük merkeziyetsiz borsa olan Uniswap'tan bahsetmiştik. Bu yazımızda ise DeFi dünyasındaki diğer merkeziyetsiz borsalara ve Uniswap'tan ne şekilde farklılaştıklarına bakalım. 
 
+
+
+<img align="left" src="/assets/Uniswap_logo_250.png" style="width:40%; padding-right:20px"> Kısaca hatırlamak gerekirse Uniswap, çiftli (iki tokena sahip) havuzlar aracılığıyla, işlem yapmak isteyenlere emre amade (istendiği anda) alım-ya da satım için fiyat teklifi verebilen bir borsa. Klasik borsalara giriş yapamayan ya da yapmayı zahmetli bulan kullanıcılar ve yine klasik borsalara giremeyen ya da girmek istemeyen tokenlar için adeta çölde bir vaha. 
+
 Kısaca hatırlamak gerekirse Uniswap, çiftli (iki tokena sahip) havuzlar aracılığıyla, işlem yapmak isteyenlere emre amade (istendiği anda) alım-ya da satım için fiyat teklifi verebilen bir borsa. Klasik borsalara giriş yapamayan ya da yapmayı zahmetli bulan kullanıcılar ve yine klasik borsalara giremeyen ya da girmek istemeyen tokenlar için adeta çölde bir vaha. 
+
+curve_logo_250.png
+sushi_logo.png
+Uniswap_logo_250.png
+balancer_logo_250.png
 
 2020 yılının Mart ayından başlayarak artan işlem hacmine paralel Uniswap havuzlara konan para yani likidite arttı (ki bu ikisi yumurta-tavuk misali birbirini etkiler). Özellikle son zamanlarda, kimi günler Uniswap bir büyük merkezi kripto borsasından daha fazla işlem hacmi yaratmaya başladı. 
 
