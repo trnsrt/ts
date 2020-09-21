@@ -2,14 +2,15 @@ Hatırlarsanız [geçtiğimiz yazıda](/genel/2020/09/15/nedir-bu-uniswap.html) 
 
 Kısaca hatırlamak gerekirse Uniswap, çiftli (iki tokena sahip) havuzlar aracılığıyla, işlem yapmak isteyenlere emre amade (istendiği anda) alım-ya da satım için fiyat teklifi verebilen bir borsa. Klasik borsalara giriş yapamayan ya da yapmayı zahmetli bulan kullanıcılar ve yine klasik borsalara giremeyen ya da girmek istemeyen tokenlar için adeta çölde bir vaha. 
 
-2020 yılının Mart ayından başlayarak artan işlem hacmine paralel Uniswap havuzlara konan para yani likidite arttı (ki bu ikisi yumurta-tavuk gibi birbirinin artmasına yol açar). Özellikle son zamanlarda, kimi günler Uniswap bir büyük merkezi kripto borsasından daha fazla işlem hacmi yaratmaya başladı. 
+2020 yılının Mart ayından başlayarak artan işlem hacmine paralel Uniswap havuzlara konan para yani likidite arttı (ki bu ikisi yumurta-tavuk misali birbirini etkiler). Özellikle son zamanlarda, kimi günler Uniswap bir büyük merkezi kripto borsasından daha fazla işlem hacmi yaratmaya başladı. 
 
 Tabii Uniswap'ın rakipleri de yok değil. DeFi sistemleri için "lego gibi" benzetmesi yapılır. Farklı platformlarda yapılabilenleri çok hızlıca bir araya getirerek kullanıcılara yepyeni ürünler sunabilirsiniz. Bu ürünlerine ucu bucağı yok. Bir sistemi iyi anlamak istiyorsanız rakiplerin nasıl farklılaştıklarına bakmak iyi bir yöntem olabilir. Gelin hep birlikte bakalım, rakipler Uniswap'ın hangi özelliklerini kullanıyor, hangilerinde farklılaşıyor: 
 
 ### Nasıl farklılaştı rakipler?
 
 #### Farklı algoritma kullanımı
-Uniswap'ın özünde bir otomatik piyasa yapıcısı olduğundan bahsetmiştik [geçen yazımızda]. Bunun anlamı, sistemin işlem yapmak isteyenlere verdikleri fiyatlar otomatik olarak belirleniyor idi. Fiyat derken kastettiğimiz değiş-tokuş değeri. Havuzdaki bir tokeni almak için havuzdaki diğer tokeni oraya koymanız gerekiyor. 
+Uniswap'ın özünde bir otomatik piyasa yapıcısı olduğundan bahsetmiştik [geçen yazımızda]. Bunun anlamı şu:  Alım-satım yapmak isteyen kullanıcılara sistemin verdiği fiyatlar otomatik olarak belirleniyor. Fiyat derken kastettiğimiz değiş-tokuş değeri. Havuzdaki bir tokeni almak için havuzdaki diğer tokeni oraya koymanız gerekiyor. 
+
 Ne kadar token koyacağınız için ise basit bir formül var: Her bir havuzun iki tarafını oluşturan token adetlerinin çarpımının her zaman bir sabit sayıya eşit olacak. O kadar. Mantık basit aslında: Bir tokena talep varsa havuzdan çekilir, ve karşılığında diğer tokendan konur. Havuz büyüklüğü dediğimiz sabit sayıyı korumak için hauvzdaki azalan tokendan yeni bir tane almak için diğer tokendan eskisine göre daha fazla vermelisiniz. Basit bir arz-talep dengesi. 
 
 Uniswap algoritmasının temel hedefi, her ne olursa olsun işlem yapmak isteyenlere sunulabilecek bir token bulundurmak. Bu nedenle kimi zaman bir tokena çok talep olunca o tokenın fiyatı (havuzdaki diğer token ile değişme oranı) saçma yerlere gelebiliyor. Ayrıca, işlem yapmadan önce sistemde bir alım-satım oranı görürken işlem yapmaya başladığınızda birden bunun değiştiğini görebiliyorsunuz - buna performans düşüklüğü (slippage) deniyor. Uniswap için bu iki sıkıntının da bir önemi yok - yeter ki ne pahasına olursa olsun işlem yapmak için gelmiş olan birini eli boş döndürmesin. 
