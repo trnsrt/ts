@@ -66,24 +66,28 @@ Neden böyle yapıyorlar tartışılır - ama çok uç bir örnek olarak, gelene
 
 #### Sushiswap
 
-Yukarıda bahsettiğimiz gibi, özünde Uniswap çok basit bir algoritma. Bir DeFi platformu olarak aynı zamanda açık kaynak vizyonu ile çalışıyor - yani ürün (yani kod) tamamen açık. Dolayısıyla, Uniswap'ın kodunu çatallayıp (forklamak) benzer bir ürünü çıkarmak o kadar zor değildi, nitekim Sushiswap bu şekilde Uniswap kopyası bir ürün çıkardı. Üzerine tek bir ekleme yaptı, o da parayı kendilerinde tutanlar için Sushi token vaad etti.. Bir anda ciddi bir likidite (ki bunlar ellerinden büyük miktarda token tutan balinalar) Sushiswap'a kaydı. 
+Yukarıda bahsettiğimiz gibi, özünde Uniswap çok basit bir algoritma. Bir DeFi platformu olarak aynı zamanda açık kaynak vizyonu ile çalışıyor - yani ürün (yani kod) tamamen açık. Dolayısıyla, Uniswap'ın kodunu kopyalayıp (forklamak) benzer bir ürünü çıkarmak o kadar zor değil. Nitekim [Sushiswap](https://sushiswapclassic.org/) bu şekilde Uniswap kopyası olarak ortaya çıkmış bir platform. Unsiwap'ın özelliklerini aynen alıp üzerine tek bir ekleme yaptı, o da parayı kendilerinde tutanlara verdiği [Sushi token](https://www.coingecko.com/en/coins/sushi).. Bir anda ciddi bir likidite (ki bunlar ellerinden büyük miktarda token tutan balinalar) Sushiswap'a kaydı. 
 
-Sonrasında DeFi büyük krizlerinden birini yaşadı. Sushiswap'ın kurucusu (ismi bilinmeyen) olan geliştirici, kendine ciddi bir miktarda token alıp piyasalarda bunu bozdurdu. Bunun üzerine büyük bir fırtına koptu ve sonrasında bu kişi o tokenları iade etti. Sinek küçük ama mide bulandırır tarzı bir hareket oldu bu. Sushiswap yoluna devam ediyor - zira gerek kullanıcı gerekse likidite sağlayıcılar aldıkları komisyon ve Sushi token ödüllerine bakıyorlar. Ancak bu olay klonların imajını ciddi şekilde sarstı. 
+Ancak sonrasında DeFi en büyük krizlerinden birini yaşadı. Sushiswap'ın [kurucusu (ismi bilinmeyen) olan yazılımcı](https://twitter.com/NomiChef), geliştiric payı olarak kendine ayırdığı 15 milyon ABD Doları civarındaki Sushi tokenı piyasalarda bozdurdu. Bu topluluk içinde büyük bir fırtınaya neden oldu ve gelen tepkiler üzerine bu kişi sattığı o tokenları iade etti. Sinek küçük ama mide bulandırır tarzı bir hareket oldu bu. Sushiswap yoluna devam ediyor - zira gerek kullanıcı gerekse likidite sağlayıcılar aldıkları komisyon ve Sushi token ödüllerine bakıyorlar. Ancak bu olay klonların imajını ciddi şekilde sarstı. 
 
-Her ne kadar "kod" olarak aynı olsalar da, geliştirici ekip ve etrafında kümelenmiş ciddi bir topluluk olmadıkça, Sushiswap benzeri klonların uzun vadede Uniswap'tan geri kalacağını beklemek çok da yanlış bir beklenti olmaz. Yalnız para ile saadet olmuyor maalesef. 
+Her ne kadar "kod" olarak aynı olsalar da, geliştirici ekip ve etrafında kümelenmiş ciddi bir topluluk olmadıkça, Sushiswap benzeri klonların uzun vadede Uniswap'tan geri kalacağını beklemek çok da yanlış olmaz. Sadece para ile saadet olmuyor maalesef. 
 
 
 #### Uniswap rakiplerine nasıl cevap verecek?
 
 Şu an için Uniswap'ın en büyük avantajı sahip olduğu havuzlardaki likidite ve bunun sağladığı ağ (network) etkisi. Ancak DeFi hızlı ilerlemesine rağmen henüz emekleme aşamasında olan bir sektör, o nedenle her an herşey değişebilir. Bu ağ etkisinin çok kalıcı olmadığını düşünenler de var. 
 
-Klasik pazarlarda strateji ve pazarlama alanında şirketler ve müşterileri konuşulurken, en önemli maddelerden biri müşteri bağlılığı (customer stickiness) olarak geçer. Müşteriyi nasıl kendinize bağlarsınız? Klasik finans sistemi oyuncuları maalesef daha çok kendi sistemlerinden çıkmayı zorlaştırarak müşterilerini bağlıyorlar. Ancak DeFi'da öyle değil - zira varlık platformda değil, kullancının elinde. Al-sat işlemini bugün sizden yapar - yarın daha iyi fiyat bulursa ya da daha az komisyon veriyorsa anında gidip rakip platformdan yapar. Hatta farklı platformlara bakmasına bile gerek yok. [1inch] gibi hizmet sağlayıcılar onun adına hangi platform daha uygun fiyat veriyor anında gidip bulur. 
+Strateji pazarlama alanındaki en önemli konulardan biri müşteri bağlılığıdır (customer stickiness). Müşteriyi nasıl kendinize bağlarsınız? Klasik finans sistemi oyuncuları maalesef daha çok kendi sistemlerinden çıkmayı zorlaştırarak müşterileri kendilerine bağlıyorlar. Ancak DeFi'da öyle değil - zira varlık platformda değil, kullancının elinde. Al-sat işlemini bugün sizden yapar - yarın daha iyi fiyat bulursa ya da daha az komisyon veriyorsa anında gidip rakip platforma geçer. Hatta farklı platformlara bakmasına bile gerek yok. [1inch](https://1inch.exchange/#/) gibi hizmet sağlayıcılar onun adına hangi platform daha uygun fiyat veriyor anında gidip bulur. 
 
-Likidite sağlayıcılar için de benzer durum. Likiditeyi bugün burada tutar - daha iyi bir imkan bulursa anında çeker, başka bir yere gider. 
+Likidite sağlayıcılar için de durum benzer şekilde. Likiditeyi bugün burada tutar - daha iyi bir imkan bulursa anında çeker, başka bir yere gider. 
 
-Öte yandan, TVL dediğimiz bu platformlara bağlanan paraların küçük yatırımcılardan çok ellerinde büyük miktarlarda kripto tutan balinalardan geldiği biliniyor. Ve bu balinalar hemen yer değiştirebiliyorlar. Baksanıza son üç ayda bu dört büyük platforma bağlanmış para miktarlarının değişkenliğine:
+Öte yandan, TVL (Total Value Locked) olarak da bilinen DeFi platformlara bağlanan paraların küçük yatırımcılardan çok ellerinde büyük miktarlarda kripto tutan yatırımcılardan geldiği biliniyor. Balina olarak adlandırılan bu yatırımcılar da anında yer değiştirebiliyorlar. Baksanıza son üç ayda bu dört büyük platforma bağlanmış para miktarlarının değişkenliğine:
 
-[Dört platform likidite miktarları]
+
+| ![Dört platform likidite miktarları](/assets/Four_DiFi_Dexes.png)|
+|:--:| 
+| *Dört büyük merkeziyetsiz borsaya bağlanmış olan kripto para miktarı - [Kaynak](https://defipulse.com)*|
+
 
 Rakiplerin kendisine göre hızla yol almalarına karşı Uniswap da belli hareketlerde bulunmaya başladı. Örneğin Eylül başında çıkardığı UNI token esas olarak kendi klonu olan Sushiswap'a karşı gösterdiği bir reaksiyon. Uniswap likidite sağlayıcılara gelir olarak yapılan işlemlerden komisyonları önerdiği için işlemlerden aldığı %0.3 ücreti yüksek olmasına rağmen düşüremiyor idi. Ancak UNI token ile likidite sağlayıcılar ciddi bir ekstra gelir kazanacaklar. 
 
