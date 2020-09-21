@@ -84,7 +84,7 @@ Likidite sağlayıcılar için de durum benzer şekilde. Likiditeyi bugün burad
 Öte yandan, TVL (Total Value Locked) olarak da bilinen DeFi platformlara bağlanan paraların küçük yatırımcılardan çok ellerinde büyük miktarlarda kripto tutan yatırımcılardan geldiği biliniyor. Balina olarak adlandırılan bu yatırımcılar da anında yer değiştirebiliyorlar. Baksanıza son üç ayda bu dört büyük platforma bağlanmış para miktarlarının değişkenliğine:
 
 
-| ![Dört platform likidite miktarları](/assets/Four_DiFi_Dexes_v2.png)|
+| ![Dört platform likidite miktarları](/assets/Four_DiFi_Dexes_v3_1200.png)|
 |:--:| 
 | *Dört büyük merkeziyetsiz borsaya bağlanmış olan kripto para miktarı - [Kaynak](https://defipulse.com)*|
 
