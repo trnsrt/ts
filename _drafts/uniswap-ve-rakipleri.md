@@ -1,8 +1,10 @@
-Hatırlarsanız geçtiğimiz yazıda en büyük merkeziyetsiz borsa olan Uniswap'tan bahsetmiştik. Kısaca Uniswap, eşli (iki token sahibi) havuzlar aracılığıyla, işlem yapmak isteyenlere emre amade (istendiği anda) fiyat veren bir sistem. Klasik borsalara giriş yapamayan ya da yapmayı zahmetli bulan kullanıcılar, ve yine klasik borsalara giremeyen ya da girmek istemeyen tokenlar için adeta çölde vaha işlevi gördü. 
+Hatırlarsanız [geçtiğimiz yazıda](/genel/2020/09/15/nedir-bu-uniswap.html) en büyük merkeziyetsiz borsa olan Uniswap'tan bahsetmiştik. Bu yazımızda ise DeFi dünyasındaki diğer merkeziyetsiz borsalara ve Uniswap'tan ne şekilde farklılaştıklarına bakalım. 
 
-İşlem hacminin artmasına paralel havuzlara konan para yani likidite arttı (ki bu ikisi yumurta-tavuk gibi birbirinin artmasına yol açar). Popülerliği son zamanlarda o kadar arttı ki, kimi günler bir büyük merkezi kripto borsasından daha fazla işlem hacmi yaratmaya başladı. 
+Kısaca hatırlamak gerekirse Uniswap, çiftli (iki tokena sahip) havuzlar aracılığıyla, işlem yapmak isteyenlere emre amade (istendiği anda) alım-ya da satım için fiyat teklifi verebilen bir borsa. Klasik borsalara giriş yapamayan ya da yapmayı zahmetli bulan kullanıcılar ve yine klasik borsalara giremeyen ya da girmek istemeyen tokenlar için adeta çölde bir vaha. 
 
-Tabii Uniswap'ın rakipleri de yok değil. Uniswap sisteminin belli özelliklerinden bahsederek hangi alanda nasıl rakipler çıktı bakabiliriz: 
+2020 yılının Mart ayından başlayarak artan işlem hacmine paralel Uniswap havuzlara konan para yani likidite arttı (ki bu ikisi yumurta-tavuk gibi birbirinin artmasına yol açar). Özellikle son zamanlarda, kimi günler Uniswap bir büyük merkezi kripto borsasından daha fazla işlem hacmi yaratmaya başladı. 
+
+Tabii Uniswap'ın rakipleri de yok değil. DeFi sistemleri için "lego gibi" benzetmesi yapılır. Farklı platformlarda yapılabilenleri çok hızlıca bir araya getirerek kullanıcılara yepyeni ürünler sunabilirsiniz. Bu ürünlerine ucu bucağı yok. Bir sistemi iyi anlamak istiyorsanız rakiplerin nasıl farklılaştıklarına bakmak iyi bir yöntem olabilir. Gelin hep birlikte bakalım, rakipler Uniswap'ın hangi özelliklerini kullanıyor, hangilerinde farklılaşıyor: 
 
 ### Nasıl farklılaştı rakipler?
 
