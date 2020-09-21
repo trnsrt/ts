@@ -4,13 +4,6 @@ Hatırlarsanız [geçtiğimiz yazıda](/genel/2020/09/15/nedir-bu-uniswap.html) 
 
 <img align="left" src="/assets/Uniswap_logo_250.png" style="width:40%; padding-right:20px"> Kısaca hatırlamak gerekirse Uniswap, çiftli (iki tokena sahip) havuzlar aracılığıyla, işlem yapmak isteyenlere emre amade (istendiği anda) alım-ya da satım için fiyat teklifi verebilen bir borsa. Klasik borsalara giriş yapamayan ya da yapmayı zahmetli bulan kullanıcılar ve yine klasik borsalara giremeyen ya da girmek istemeyen tokenlar için adeta çölde bir vaha. 
 
-Kısaca hatırlamak gerekirse Uniswap, çiftli (iki tokena sahip) havuzlar aracılığıyla, işlem yapmak isteyenlere emre amade (istendiği anda) alım-ya da satım için fiyat teklifi verebilen bir borsa. Klasik borsalara giriş yapamayan ya da yapmayı zahmetli bulan kullanıcılar ve yine klasik borsalara giremeyen ya da girmek istemeyen tokenlar için adeta çölde bir vaha. 
-
-curve_logo_250.png
-sushi_logo.png
-Uniswap_logo_250.png
-balancer_logo_250.png
-
 2020 yılının Mart ayından başlayarak artan işlem hacmine paralel Uniswap havuzlara konan para yani likidite arttı (ki bu ikisi yumurta-tavuk misali birbirini etkiler). Özellikle son zamanlarda, kimi günler Uniswap bir büyük merkezi kripto borsasından daha fazla işlem hacmi yaratmaya başladı. 
 
 Tabii Uniswap'ın rakipleri de yok değil. DeFi sistemleri için "lego gibi" benzetmesi yapılır. Farklı platformlarda yapılabilenleri çok hızlıca bir araya getirerek kullanıcılara yepyeni ürünler sunabilirsiniz. Bu ürünlerine ucu bucağı yok. Bir sistemi iyi anlamak istiyorsanız rakiplerin nasıl farklılaştıklarına bakmak iyi bir yöntem olabilir. Gelin hep birlikte bakalım, rakipler Uniswap'ın hangi özelliklerini kullanıyor, hangilerinde farklılaşıyor: 
@@ -49,7 +42,7 @@ Peki Uniswap'ın hangi rakibi yukarıdaki hangi özellikte ondan farklılaşıyo
 
 #### Curve
 
-[Curve](https://www.curve.fi/) yukarıdaki Uniswap algoritmasını farklı bir şekilde uyguluyor. Rakamsal olarak ne olduğunun çok önemi yok bu yazı için. Kullanıcıların bilmesi gereken, Uniswap algoritmasının amacı her ne olursa olsun kullanıcılara işlem yapabilecek bir token sunmak iken, Curve algoritması için önemli olan yukarıda Uniswap için bahsettiğimiz işlem yaparken al-sat yapanın yaşadığı performans düşüklüğünü en aza indirmek.
+<img align="left" src="/assets/curve_logo_250.png" style="width:40%; padding-right:20px"> [Curve](https://www.curve.fi/) yukarıdaki Uniswap algoritmasını farklı bir şekilde uyguluyor. Rakamsal olarak ne olduğunun çok önemi yok bu yazı için. Kullanıcıların bilmesi gereken, Uniswap algoritmasının amacı her ne olursa olsun kullanıcılara işlem yapabilecek bir token sunmak iken, Curve algoritması için önemli olan yukarıda Uniswap için bahsettiğimiz işlem yaparken al-sat yapanın yaşadığı performans düşüklüğünü en aza indirmek.
 
 Curve'un kullandığı bu algoritma, daha çok al-sat yapan kullanıcılar için yüksek hacimli ve fiyatı fazla oynamayan token çiftlerinde avantajlı sağlıyor. Örneğin ABD Doları'na bağlı olan iki stabil kripto paranın (örneğin Tether yani USDT ve USDC çifti gibi) olduğu havuzlarda Curve'in algoritması çok daha iyi çalışıyor(1). 
 
@@ -64,7 +57,7 @@ Likiditenin DeFi ürünlerinde ne kadar önemli olduğunu görüyorsunuz değil 
 [Bitti mi? Hayır](https://www.youtube.com/watch?v=Im1SqKh9qgg). Bu likidite oyununu giderek artırdı Curve. Compound ile ortak ürün çok güzel. Likidite sağlayan hem işlem üzerinden komisyon, hem CRV tokenı, hem Compound faizi, hem de COMP yönetim tokenı kazanıyor. Ancak ya faiz olarak Compound'un önerdiği faizler az ise? Öyle ya bir tek Compound yok kredi veren platformlar içinde.. [Aave](https://aave.com/) var, [dYdX](https://dydx.exchange/) var. Ya onlar daha iyi faiz verirse? Likidite sağlayıcılar "mağdur" mu olsun? İşte o nedenle Curve, [Yearn](https://yearn.finance/) isimli portföy yönetimi yapan bir platform ile bir başka ürün daha çıkardı. Bu üründe, likidite sağlayıcı parayı koyuyor Curve sistemine, Yearn bu parayı en yüksek faiz veren kredi platformunda otomatik değerlendiriyor, gerekirse birinden alıp öbürüne geçiriyor. Nasıl? DeFi ürünleri hakikaten akıl sınırlarını zorluyor, değil mi?
 
 #### Balancer
-[Balancer](https://balancer.exchange/), Uniswap'a kullanıcı arayüzü olarak da çok benziyor olsa da, getirdiği yenilikler ile yatırımcılara farklı alternatifler sunuyor. Neler bunlar hızlıca bakalım: 
+<img align="left" src="/assets/balancer_logo_250.png" style="width:40%; padding-right:20px"> [Balancer](https://balancer.exchange/), Uniswap'a kullanıcı arayüzü olarak da çok benziyor olsa da, getirdiği yenilikler ile yatırımcılara farklı alternatifler sunuyor. Neler bunlar hızlıca bakalım: 
 
 İkili değil sekize tokena kadar ve %50-50 değil farklı oranlarda token konabilen havuzlar sağlıyor öncelikle. Ne işe yarar bu? Likidite sağlayıcılar için kendi risk ve beklentilerine uygun olarak istedikleri türden bir endeks fonuna yatırım yapma imkanı. Adeta kişiye özel bir yatırım fonu! Üstelik klasik bir endeks fonunda fon yöneticisine yönetim payı verirken, burada likidite sağlayıcılar hem yapılan işlem üzerinden komisyon hem de Balancer'ın yönetim tokenı olan BAL'ı almaya hak kazanıyor.
 
@@ -75,7 +68,7 @@ Neden böyle yapıyorlar tartışılır - ama çok uç bir örnek olarak, gelene
 
 #### Sushiswap
 
-Yukarıda bahsettiğimiz gibi, özünde Uniswap çok basit bir algoritma. Bir DeFi platformu olarak aynı zamanda açık kaynak vizyonu ile çalışıyor - yani ürün (yani kod) tamamen açık. Dolayısıyla, Uniswap'ın kodunu kopyalayıp (forklamak) benzer bir ürünü çıkarmak o kadar zor değil. Nitekim [Sushiswap](https://sushiswapclassic.org/) bu şekilde Uniswap kopyası olarak ortaya çıkmış bir platform. Unsiwap'ın özelliklerini aynen alıp üzerine tek bir ekleme yaptı, o da parayı kendilerinde tutanlara verdiği [Sushi token](https://www.coingecko.com/en/coins/sushi).. Bir anda ciddi bir likidite (ki bunlar ellerinden büyük miktarda token tutan balinalar) Sushiswap'a kaydı. 
+<img align="left" src="/assets/sushi_logo.png" style="width:40%; padding-right:20px"> Yukarıda bahsettiğimiz gibi, özünde Uniswap çok basit bir algoritma. Bir DeFi platformu olarak aynı zamanda açık kaynak vizyonu ile çalışıyor - yani ürün (yani kod) tamamen açık. Dolayısıyla, Uniswap'ın kodunu kopyalayıp (forklamak) benzer bir ürünü çıkarmak o kadar zor değil. Nitekim [Sushiswap](https://sushiswapclassic.org/) bu şekilde Uniswap kopyası olarak ortaya çıkmış bir platform. Unsiwap'ın özelliklerini aynen alıp üzerine tek bir ekleme yaptı, o da parayı kendilerinde tutanlara verdiği [Sushi token](https://www.coingecko.com/en/coins/sushi).. Bir anda ciddi bir likidite (ki bunlar ellerinden büyük miktarda token tutan balinalar) Sushiswap'a kaydı. 
 
 Ancak sonrasında DeFi en büyük krizlerinden birini yaşadı. Sushiswap'ın [kurucusu (ismi bilinmeyen) olan yazılımcı](https://twitter.com/NomiChef), geliştiric payı olarak kendine ayırdığı 15 milyon ABD Doları civarındaki Sushi tokenı piyasalarda bozdurdu. Bu topluluk içinde büyük bir fırtınaya neden oldu ve gelen tepkiler üzerine bu kişi sattığı o tokenları iade etti. Sinek küçük ama mide bulandırır tarzı bir hareket oldu bu. Sushiswap yoluna devam ediyor - zira gerek kullanıcı gerekse likidite sağlayıcılar aldıkları komisyon ve Sushi token ödüllerine bakıyorlar. Ancak bu olay klonların imajını ciddi şekilde sarstı. 
 
