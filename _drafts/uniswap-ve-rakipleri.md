@@ -94,9 +94,14 @@ Rakiplerin kendisine göre hızla yol almalarına karşı Uniswap da belli aksiy
 Yakında çıkması planlanan Uniswap 3.0 versiyonda, al-sat komisyon ücretlerinin (UNI sayesinde artan diğer gelirler ile birlikte) azalması beklenebilir. Bunun yanında ikili havuzlar yerine çoklu havuzları da uygulamaya alabilir Uniswap. 
 
 ### Sonuç
-DeFi platformları özünde birbirleri ile uyumlu çalışabilen ve içinde ne olduğunu herkesin görebildiği açık yazılımlar. Bu nedenle, hem de farklı platformlar ile bir araya getirilerek kullanıcılara eşşiz kazanç olanakları sunulabiliyor ama öte yandan hızlıca da kopyalanabiliyorlar. Sektör bağımsız sıklıkla duyarız "rekabet çok artıyor" sözünü. Bunu söyleyenler asıl bir de gelip DeFi dünyasını görsünler. Kullanıcıları elde tutabilmek çok zor. Bunu için platformların kaliteli ve yenilikçi ürünlerı hızlı bir şekilde kullanıcıya sunmaları gerekiyor - hızlı derken günleri kastediyoruz, ayları değil. Ayrıca pla destekleyen gönüllü bir topluluğa sahip olmanız gerekiyor. 
+DeFi platformları özünde birbirleri ile uyumlu çalışabilen ve içinde ne olduğunu herkesin görebildiği açık yazılımlar. Bu nedenle, farklı platformlar ile bir araya getirilerek kullanıcılara eşşiz kazanç olanakları sunulabiliyor ama öte yandan hızlıca da kopyalanabiliyorlar. 
+
+Sektör bağımsız sıklıkla duyarız "rekabet çok artıyor" sözünü. Bunu söyleyenleri getirip DeFi dünyasını göstermek lazım. Kullanıcıları elde tutabilmek çok zor. Bunu için platformların kaliteli ve yenilikçi ürünlerı hızlı bir şekilde kullanıcıya sunmaları gerekiyor - hızlı derken günleri kastediyoruz, ayları değil. Ayrıca platformu destekleyen gönüllü bir topluluğa sahip olmanız gerekiyor ki - hem ürünü test etsinler, hem platforma yol gösterip teşvik edip yoldan çıkmasını engellesinler. 
+
+Önümüzdeki dönemlerde her tür öne çıkan DeFi platformunda Uniswap'a benzer şekilde rakipler çıkacak, yeni ürünler sunulacak, lider platformlar karşı aksiyonlarda bulunacak. Ve bütün bunlar ışık hızında olacak. Tabii ki bu hız yanında yol kazalarını da beraberinde getirecek. Ama sonuç: sürekli gelişen, ilerleyen ve oturmaya başlayan DeFi ürünleri olacak. Görünen o ki, ok yaydan çıktı ve DeFi geleneksel finans sistemini gün geçtikçe daha hızlı bir şekilde sallamaya devam edecek. 
 
 
 
+---
 
-[^1] Curve algoritması Uniswap algoritmasına göre birbirine yakın değerdeki iki tokenda arz ve talep sonucu ortaya çıkan farkı minimumda tutuyor. Eğer arz ve talep değişikliği çok yüksek oranlarda olursa o zaman Curve daha dezavantajlı hale geliyor. Ancak Curve havuzları genelde birbirine yakın ve hep 1 ABD Doları'na geri dönen stabil paralardan oluştuğu için Curve algoritması daha kullanışlı oluyor. 
+[^1] Curve algoritması Uniswap algoritmasına göre birbirine yakın değerdeki iki tokenda arz ve talep sonucu ortaya çıkan farkı minimumda tutuyor. Buna Stablswap adı veriliyor- detayları [Curve tanıtım yazısı (whitepaper- pdf)](https://www.curve.fi/stableswap-paper.pdf) bulabilirsiniz. Eğer arz ve talep değişikliği çok yüksek oranlarda olursa o zaman Curve daha dezavantajlı hale geliyor. Ancak Curve havuzları genelde birbirine yakın ve hep 1 ABD Doları'na geri dönen stabil paralardan oluştuğu için Curve algoritması bu havuzlarda daha kullanışlı. 
