@@ -10,7 +10,7 @@ tags: Yazılar DeFi
 Her ne kadar Bitcoin maksimalistleri çok eleştirse de, Bitcoin ile DeFi aslında birbirlerinden o kadar da farklı değiller. Gelin bu yazıda neleri benziyor ona bakalım. 
 
 ### DeFi ve Bitcoin maksimalistleri
-Eski arşivlere şöyle bir baktım da, DeFi ile ilgili olarak ilk iki yazımı 15 Şubat 2020'de yazmışım. İlki DeFi hareketini anlatan "[Blockchain finans dünyasını nasıl etkileyecek?](/genel/2019/02/14/Blockchain-finans-dunyasini-nasil-etkileyecek.html)", ikincisi ise hareketin en büyük oyuncusu ile ilgili "[MakerDAO kredi kullanımında çığır açar mı?](/genel/2019/02/15/MakerDAO-kredi-kullaniminda-cigir-acar-mi.html)" olmuş. Zaman çabuk geçiyor -  2019 başlarında 250 milyon ABD Doları civarında olan DeFi sistemine kilitlenmiş ETH miktarı [şimdilerde Temmuz 2020'de 1.7 milyar ABD Doları'na ulaşmış bile](https://defipulse.com/).  
+Eski arşivlere şöyle bir baktım da, DeFi ile ilgili olarak ilk iki yazımı 15 Şubat 2019'de yazmışım. İlki DeFi hareketini anlatan "[Blockchain finans dünyasını nasıl etkileyecek?](/genel/2019/02/14/Blockchain-finans-dunyasini-nasil-etkileyecek.html)", ikincisi ise hareketin en büyük oyuncusu ile ilgili "[MakerDAO kredi kullanımında çığır açar mı?](/genel/2019/02/15/MakerDAO-kredi-kullaniminda-cigir-acar-mi.html)" olmuş. Zaman çabuk geçiyor -  2019 başlarında 250 milyon ABD Doları civarında olan DeFi sistemine kilitlenmiş ETH miktarı [şimdilerde Temmuz 2020'de 1.7 milyar ABD Doları'na ulaşmış bile](https://defipulse.com/).  
 
 Büyüyen sadece rakamlar değil. Aynı zamanda daha da konuşulur oldu DeFi hareketi. Daha çok konuşulduğunun ve etkisinin arttığının en önemli göstergelerinden biri Bitcoin maksimalistlerinin ciddi tepkisini çekmeye başlamış olması. 
 
