@@ -42,7 +42,7 @@ Peki Uniswap'ın hangi rakibi yukarıdaki hangi özellikte ondan farklılaşıyo
 
 #### Curve
 
-<img align="left" src="/assets/curve_logo_250.png" style="width:40%; padding-right:20px"> [Curve](https://www.curve.fi/) yukarıdaki Uniswap algoritmasını farklı bir şekilde uyguluyor. Rakamsal olarak ne olduğunun çok önemi yok bu yazı için. Kullanıcıların bilmesi gereken, Uniswap algoritmasının amacı her ne olursa olsun kullanıcılara işlem yapabilecek bir token sunmak iken, Curve algoritması için önemli olan yukarıda Uniswap için bahsettiğimiz işlem yaparken al-sat yapanın yaşadığı performans düşüklüğünü en aza indirmek.
+<img align="left" src="/assets/curve_logo_250_v2.png" style="width:40%; padding-right:20px"> [Curve](https://www.curve.fi/) yukarıdaki Uniswap algoritmasını farklı bir şekilde uyguluyor. Rakamsal olarak ne olduğunun çok önemi yok bu yazı için. Kullanıcıların bilmesi gereken, Uniswap algoritmasının amacı her ne olursa olsun kullanıcılara işlem yapabilecek bir token sunmak iken, Curve algoritması için önemli olan yukarıda Uniswap için bahsettiğimiz işlem yaparken al-sat yapanın yaşadığı performans düşüklüğünü en aza indirmek.
 
 Curve'un kullandığı bu algoritma, daha çok al-sat yapan kullanıcılar için yüksek hacimli ve fiyatı fazla oynamayan token çiftlerinde avantajlı sağlıyor. Örneğin ABD Doları'na bağlı olan iki stabil kripto paranın (örneğin Tether yani USDT ve USDC çifti gibi) olduğu havuzlarda Curve'in algoritması çok daha iyi çalışıyor[^1]. 
 
