@@ -81,7 +81,7 @@ Ancak sonrasında DeFi en büyük krizlerinden birini yaşadı. Sushiswap'ın [k
 Her ne kadar "kod" olarak aynı olsalar da, geliştirici ekip ve etrafında kümelenmiş ciddi bir topluluk olmadıkça, Sushiswap benzeri klonların uzun vadede Uniswap'tan geri kalacağını beklemek çok da yanlış olmaz. Sadece para ile saadet olmuyor maalesef. 
 
 
-#### Uniswap rakiplerine nasıl cevap verecek?
+### Uniswap rakiplerine nasıl cevap verecek?
 
 Şu an için Uniswap'ın en büyük avantajı sahip olduğu havuzlardaki likidite ve bunun sağladığı ağ (network) etkisi. Ancak DeFi hızlı ilerlemesine rağmen henüz emekleme aşamasında olan bir sektör, o nedenle her an herşey değişebilir. Bu ağ etkisinin çok kalıcı olmadığını düşünenler de var. 
 
