@@ -49,13 +49,23 @@ Sonra işler çok da düşündüğü gibi gitmedi :) Öncelikle birkaç saat son
 Birincisi, proje DeFi alanındaki hemen hemen her yeniliği "ti'ye" alan ama bir taraftan da o yenilikleri içinde bulunduran bir proje. Neler bunlar?
 
 - DeFi piyasasının en kredibilitesi yüksek kişilerinden biri [Andre Cronje](https://twitter.com/AndreCronjeTech). Yearn adı verilen merkeziyetsiz portföy yönetim platformunun kurucusu olan Andre, DeFi alanındaki kontrolsüz hıza eleştirel bakışı ile tanınıyor.  İşte MEME token Andre'nin yaptığı pek çok işi eğlenceli bir şekilde klonlamış. 
+
+
+
+
 Twitter profilinde "I test in prod" yazıyor - yani "o kadar hızlı ürün çıkartıyorum ki, ürünleri test etmeye vaktim bile yok, o nedenle dikkatli olun". Yearn protokolü bir YIF token çıkardı. Tokenin özelliği sadece 30.000 adet olması, adil dağıtım ile sadece kullanıcılara verilmesi (Andre kendisine pay bile ayırmadı). Andre tokeni ilk çıkardığı andan itibaren bangır bangır "bu tokenin değeri yoktur" dedi. Sonuç? Token şu anda 25 bin ABD Doları civarında. 
 
+
+
 MEME tokenın web sitesi https://dontbuymeme.com/ yani "meme satın almayın". İçine girdiğinizde üç buton çıkıyor: "Satın almayın", "Ekim (farm) yapmayın", "Telegram grubuna katılmayın". Çıkardıkları token sadece 28.000 adet ve adil dağıtım ile telegram grubuna ilk girenlere dağıtılmış durumda (55 kişiye 355'şer MEME verilmiş). 
+
+[meme_meme.png]
 
 Bunun dışında başka eğlenceli hareketleri de var. Örneğin girişimlerin token çıkardıklarında değerini bulabilmesi için Uniswap'a listeleme yaptıklarını daha önceki [bir yazımızda anlatmıştık](/genel/2020/09/15/nedir-bu-uniswap.html). MEME topluluğu da Uniswap içinde bir likidite havuzu kurmuş. Bu havuza koyduğu 1000 MEME için Uniswap'tan aldıkları havuz token'ini Ethereum'un kurucusu Vitalik Buterin'in hesabına gönderdiler. Neden? Havuzu bozmayı düşünmüyorlar, bu nedenle aldıkları Uniswap havuz tokenini yakabilirlerdi ama Vitalik nasıl olsa kendisine gönderilen tokenları kabul etmiyor o nedenle espri olsun diye ona göndermişler. 
 
 YAM hareketini duymuş olabilirsiniz. Farming olayını ekstrem noktalara taşıyıp bir anda ünlü olan, ancak sonra [kodlarında sorun çıkması nedeniyle değeri sıfıra inip](https://tr.cointelegraph.com/news/yam-token-holders-burnt-the-hardest-after-price-plunges-to-zero) sonrasında ikinci ve üçüncü versiyonlarının çıktığı token. YAM kendisine logo olarak tatlı patates seçmişti. Bununla dalga geçmek içim MEME kendine ananas logosunu seçti. 
+
+[meme_vs_yam.jpg]
 
 DeFi dünyasındaki son yenilikleri içine alıyor demiştik. İşte öncelikle yarattıkları tokenin en son DeFi çılgınlığı olan "farming" özelliği olmaması düşünülemezdi. O nedenle hemen farming özelliği koydular.  
 
@@ -63,7 +73,7 @@ Bununla da kalmadı yenilikler. Sonuç olarak MEME üretmek alıp satmak güzel 
 
 Peki ne işe yarıyor bu token? Farming sonrası elinize geçen bu tokenları alıp Open Sea adlı platformda bulunan NFT Meme kartlarından satın alabiliyorsunuz. Bu kartların özelliği sınırlı sayıda basılmış olmaları. Aynı [bir zamanlar bahsettiğimiz Cryptokitty'ler gibi](/genel/2018/04/06/sanat-icin-blockchain.html). Dijital dünyada sanat eserlerinin kopyalanması sorunun çözen bu çözüm aynı zamanda hızlı bir şekilde alım-satım yapılmasını da sağlıyor. []
 
-
+Dolayısıyla amaçsız olarak başlayan proje, topluluğun yönlendirmesiyle "NFT tokenları farm eden" bir yapıya büründü haftalar içinde. 
 
 
 ### Sonuç
