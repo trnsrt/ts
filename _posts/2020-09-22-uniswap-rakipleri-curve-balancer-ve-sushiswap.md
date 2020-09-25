@@ -119,3 +119,8 @@ Sektör bağımsız sıklıkla duyarız "rekabet çok artıyor" sözünü. Bunu 
 ---
 
 [^1] Curve algoritması Uniswap algoritmasına göre birbirine yakın değerdeki iki tokenda arz ve talep sonucu ortaya çıkan farkı minimumda tutuyor. Buna Stablswap adı veriliyor- detayları [Curve tanıtım yazısı (whitepaper- pdf)](https://www.curve.fi/stableswap-paper.pdf) bulabilirsiniz. Eğer arz ve talep değişikliği çok yüksek oranlarda olursa o zaman Curve daha dezavantajlı hale geliyor. Ancak Curve havuzları genelde birbirine yakın ve hep 1 ABD Doları'na geri dönen stabil paralardan oluştuğu için Curve algoritması bu havuzlarda daha kullanışlı. 
+
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Introducing The Degenerator. <br><br>Spin up a new <a href="https://twitter.com/hashtag/DeFi?src=hash&amp;ref_src=twsrc%5Etfw">#DeFi</a> project in as little as 5 minutes! <a href="https://t.co/qpiod6uqSf">pic.twitter.com/qpiod6uqSf</a></p>&mdash; Jordan Lyall 🍍 (@JordanLyall) <a href="https://twitter.com/JordanLyall/status/1294466755692081152?ref_src=twsrc%5Etfw">August 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
