@@ -31,6 +31,9 @@ Bunun yanında kripto projelerinin artık klasik girişimlerden farklı olarak a
 
 15 Ağustos 2020'de Jordan Lyall isimli ConsenSys'de çalışan bir ürün geliştirici aşağıdaki tweet'i attı. 
 
+<a href="https://twitter.com/JordanLyall/status/1294466755692081152">
+         <img alt="Tweet" src="/assets/meme_initial_tweet.png">
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Introducing The Degenerator. <br><br>Spin up a new <a href="https://twitter.com/hashtag/DeFi?src=hash&amp;ref_src=twsrc%5Etfw">#DeFi</a> project in as little as 5 minutes! <a href="https://t.co/qpiod6uqSf">pic.twitter.com/qpiod6uqSf</a></p>&mdash; Jordan Lyall 🍍 (@JordanLyall) <a href="https://twitter.com/JordanLyall/status/1294466755692081152?ref_src=twsrc%5Etfw">August 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 DeFi'de çok hızlı gelişen projeler ile "kafa bulan" bir tweet. "Beş dakikada Beşiktaş" diye eskinin Taksim-Beşiktaş dolmuşlarının çağrısı gibi, beş dakika içinde farklı DeFi parçalarını bir araya getirerek hızlıca ürün çıkartmaya yönelik bir Meme. Sonra?
