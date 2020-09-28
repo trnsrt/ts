@@ -14,11 +14,8 @@ Meme dediğimiz "şey", genelde komik ve çoğunlukla ilk bakışta anlaşılmaz
 
 | ![Money_printer](/assets/money_printer.png)|
 |:--:| 
-| *- Hayıırrr. Yapay şekilde para basıp ekonomide enflasyon yaratarak ekonomik bozulma ile savaşamazsın!! Piyasadaki işaretleri sadece para politikası kullanarak değiştiremezsin. Faizlerin doğal hareketini bozamazsınhayyyıııırrr!
-- hahha, çalış para basma makinesi brrrrrr 
-[Kaynak](https://defipulse.com)*|
+| *- Hayıırrr. Yapay şekilde para basıp ekonomide enflasyon yaratarak ekonomik bozulma ile savaşamazsın!! Piyasadaki işaretleri sadece para politikası kullanarak değiştiremezsin. Faizlerin doğal hareketini bozamazsınhayyyıııırrr!  - Hahha, çalış para basma makinesi brrrrrr *|
 
-money_printer.png
 
 Muhtemelen 5 dakikada yaratılmış bir şekil. Oldukça çirkin. Komik mi? Hayır. Ne anlatıyor? Soldaki "genç" kişi makul ve mantıklı olarak para basmanın enflasyonist etkisini anlatmaya çalışıyor. Sağdaki "yaşlı" kişi ise gülerek bir makinede para basıyor. Ne anlamı var? Özellikle ABD'de son yaşanan krizin etkisini önleyebilmek yeniden başlatılan para basma politikasının bir hicvi. Para basmanın geleceği çok da düşünmeyen FED'deki ihtiyarların oturdukları yerden gerçekleştirdikleri akıl dışı bir hareket olduğunu anlatıyor. 
 
