@@ -32,7 +32,8 @@ Bunun yanında kripto projelerinin artık klasik girişimlerden farklı olarak a
 15 Ağustos 2020'de Jordan Lyall isimli ConsenSys'de çalışan bir ürün geliştirici aşağıdaki tweet'i attı. 
 
 <a href="https://twitter.com/JordanLyall/status/1294466755692081152">
-         <img alt="Tweet" src="/assets/meme_initial_tweet.png">
+         <img alt="Tweet" src="/assets/meme_initial_tweet.png"></a>
+
 
 DeFi'de çok hızlı gelişen projeler ile "kafa bulan" bir tweet. "Beş dakikada Beşiktaş" diye eskinin Taksim-Beşiktaş dolmuşlarının çağrısı gibi, beş dakika içinde farklı DeFi parçalarını bir araya getirerek hızlıca ürün çıkartmaya yönelik bir Meme. Sonra?
 
