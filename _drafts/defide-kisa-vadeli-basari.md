@@ -10,12 +10,9 @@ Efendim, bugünkü konumuz olan "Meme" (İngilizce bir kelime olup Türkçe "mii
 
 Meme dediğimiz "şey", genelde komik ve çoğunlukla ilk bakışta anlaşılmaz bir resim, fotoğraf, altyazı, gif ya da kısa video. Komik olması viral dediğimiz hızla yayılmasını sağlıyor. İlk bakışta anlaşılmaz olmasının nedeni genelde referans verdiği konular hakkında belli bir bilgi birikimi sahibi olmayı gerektirmesi. Bunun yanında pek çok kişiye ofansif (rahatsız edici) de gelebiliyor. Kimin yarattığının pek de bir önemi yok. Genelde topluluğun içinden biri yaratıyor ve "tutulursa" topluluk tarafından çevreye yayılıyorlar. Bir örnek verelim: 
 
-
-
 | ![Money_printer](/assets/money_printer.png)|
 |:--:| 
 | *-Hayıırrr. Yapay şekilde para basıp ekonomide enflasyon yaratarak ekonomik bozulma ile savaşamazsın!! Piyasadaki işaretleri sadece para politikası kullanarak değiştiremezsin. Faizlerin doğal hareketini bozamazsınhayyyıııırrr!  - Hahha, çalış para basma makinesi brrrrrr*|
-
 
 Muhtemelen 5 dakikada yaratılmış bir bant. Oldukça çirkin. Komik mi? Çok sayılmaz. Ne anlatıyor? Soldaki "genç" kişi makul ve mantıklı olarak kafaya göre para zararlarını anlatmaya çalışıyor. Sağdaki "yaşlı" kişi ise gülerek bir makinede para basıyor. Ne anlamı var? Özellikle ABD'de son yaşanan krizin etkisini önleyebilmek yeniden başlatılan para basma politikasının bir hicvi (ki Bitcoin de 2008 yılındaki para basma politikasına bir tepki idi). Hesapsiz kitapsiz bir şekilde oturduğu yerden bir düğmeye basarak para yaratan FED'deki ihtiyarların nasıl geleceği tehlike altına atar şekilde sorumsuzca davrandığını anlatıyor. 
 
@@ -54,14 +51,14 @@ Sonra işler çok da düşündüğü gibi gitmedi :) Öncelikle birkaç saat son
 
 Birincisi, proje DeFi alanındaki hemen hemen her yeniliği "ti'ye" alan ama bir taraftan da o yenilikleri içinde bulunduran bir proje. Neler bunlar?
 
-#### Yalnız boş vaad değil hiçbir vaat yok
+#### Yalnız boş değil hiç vaat yok
 DeFi piyasasının en kredibilitesi yüksek kişilerinden biri [Andre Cronje](https://twitter.com/AndreCronjeTech). Yearn adı verilen merkeziyetsiz portföy yönetim platformunun kurucusu olan Andre, DeFi alanındaki kontrolsüz hıza eleştirel bakışı ile tanınıyor.  İşte MEME token Andre'nin yaptığı pek çok işi eğlenceli bir şekilde klonlamış. 
 
 Twitter profilinde "I test in prod" yazıyor - yani "o kadar hızlı ürün çıkartıyorum ki, ürünleri test etmeye vaktim bile yok, o nedenle dikkatli olun". 
 
 MEME tokenın web sitesi https://dontbuymeme.com/ yani "meme satın almayın". İçine girdiğinizde üç buton çıkıyor: "Satın almayın", "Ekim (farm) yapmayın", "Telegram grubuna katılmayın". **Baştan itibaren DeFi konusunda kendini rahat hissetmeyenleri kendinden uzaklaştırmaya çalışıyor - yani "dürüst" davranıyor** (ya da dürüst davrananları ti'ye alıyor, bir başka yorumla ileride kanuni otoriteler üzerine gelirse onlara "bakın ben kimseyi kandırmaya çalışmadım demek için kendine kılıf hazırlıyor) 
 
-[meme_meme.png]
+![meme_meme](/assets/meme_meme.png)
 
 #### Çıkardığı tokeni Uniswap'ta listeleme
 Bunun dışında başka eğlenceli hareketleri de var. **İlk tokenlarını çıkardıklarında değerini bulabilmesi için Uniswap'a listeleme yaptılar.** Girişimlerin neden böyule davrandıklarını daha önceki [bir yazımızda anlatmıştık](/genel/2020/09/15/nedir-bu-uniswap.html). MEME topluluğu da Uniswap içinde bir likidite havuzu kurmuş. Bu havuza koyduğu 1000 MEME için Uniswap'tan aldıkları havuz token'ini Ethereum'un kurucusu Vitalik Buterin'in hesabına gönderdiler. Neden? Havuzu bozmayı düşünmüyorlar, bu nedenle aldıkları Uniswap havuz tokenini yakabilirlerdi ama Vitalik nasıl olsa kendisine gönderilen tokenları kabul etmiyor o nedenle espri olsun diye ona göndermişler. 
@@ -72,23 +69,18 @@ Yukarıda bahsettiğimiz Yearn protokolü bir YIF token çıkardı. Tokenin öze
 #### Getiri çiftçiliği
 YAM hareketini duymuş olabilirsiniz. Farming olayını ekstrem noktalara taşıyıp bir anda ünlü olan, ancak sonra [kodlarında sorun çıkması nedeniyle değeri sıfıra inip](https://tr.cointelegraph.com/news/yam-token-holders-burnt-the-hardest-after-price-plunges-to-zero) sonrasında ikinci versiyonunun çıktığı token. YAM kendisine logo olarak tatlı patates seçmişti. Bununla dalga geçmek içim MEME kendine ananas logosunu seçti. 
 
-[meme_vs_yam.jpg]
+![meme_vs_yam](/assets/meme_vs_yam.jpg)
 
-DeFi dünyasındaki son yenilikleri içine alıyor demiştik. İşte öncelikle yarattıkları tokenin en son DeFi çılgınlığı olan "farming" özelliği olmaması düşünülemezdi. O nedenle hemen farming özelliği koydular.  
+Meme, **DeFi dünyasındaki son yenilikleri içine alıyor** demiştik. İşte öncelikle yarattıkları tokenin en son DeFi çılgınlığı olan "farming" özelliği olmaması düşünülemezdi. O nedenle hemen farming özelliği koydular.  
 
-Bununla da kalmadı yenilikler. Sonuç olarak MEME üretmek alıp satmak güzel de bir değer yaratmadıktan sonra bir anlamı yok. Öbür türlü bir zamanlar piyasaya çıkan Bitcoin klonları ile dalga geçmek için yaratılmış Dogecoin'den ne farkınız kalır? (Dogecoin'in hâlâ 336 milyon ABD Doları piyasa değeri olması ise ayrı bir muamma aslına bakılırsa). MEME topluluğu bakmış şu aralar DeFi piyasasında hangi ürün "sıcak"? NFT non-fungible-tokenlar, yani eşi benzeri olmayan tekil tokenlar. O zaman demişler biz de modaya uyalım. MEME'leri getirip farming yapanlara Pineapple adında bir NFT token dağıtmaya başlamışlar (Teknik detayları ile ilgilenirseniz [Devrim Danyal](https://twitter.com/devrimdanyal)'in şu [tweet](https://twitter.com/devrimdanyal/status/1308684329183334402)'ine göz atabilirsiniz). Kullandıkları NFT token cinsi ise bu alanda en son çıkan ERC1155 standardına uygun tokenlar - yani burada da teknolojinin son ürününü kullanmışlar. 
+#### DeFi'da son moda: NFT'ler
 
-Peki ne işe yarıyor bu token? Farming sonrası elinize geçen bu tokenları alıp Open Sea adlı platformda bulunan NFT Meme kartlarından satın alabiliyorsunuz. Bu kartların özelliği sınırlı sayıda basılmış kolleksiyoner ürünler olmaları (collectibles). Aynı [bir zamanlar bahsettiğimiz Cryptokitty'ler gibi](/genel/2018/04/06/sanat-icin-blockchain.html). Dijital dünyada sanat eserlerinin kopyalanması sorunun çözen bu çözüm aynı zamanda hızlı bir şekilde alım-satım yapılmasını da sağlıyor. []
+Bununla da kalmadı yenilikler. Sonuç olarak MEME **token üretmek alıp satmak güzel de bir değer yaratmadıktan sonra bir anlamı yok**. Öbür türlü bir zamanlar piyasaya çıkan Bitcoin klonları ile dalga geçmek için yaratılmış Dogecoin'den ne farkınız kalır? (Dogecoin'in hâlâ 336 milyon ABD Doları piyasa değeri olması ise ayrı bir muamma aslına bakılırsa). MEME topluluğu bakmış şu aralar DeFi piyasasında hangi ürün "sıcak"? NFT non-fungible-tokenlar, yani eşi benzeri olmayan tekil tokenlar. O zaman demişler biz de modaya uyalım. MEME'leri getirip farming yapanlara Pineapple adında bir NFT token dağıtmaya başlamışlar (Değişik Ethereum tokenlarının teknik detayları ile ilgilenirseniz [Devrim Danyal](https://twitter.com/devrimdanyal)'in şu [tweet](https://twitter.com/devrimdanyal/status/1308684329183334402)'ine göz atabilirsiniz). Kullandıkları NFT token cinsi ise bu alanda en son çıkan ERC1155 standardına uygun tokenlar - yani burada da teknolojinin son ürününü kullanmışlar.)
 
-Dolayısıyla amaçsız olarak başlayan proje, topluluğun yönlendirmesiyle "NFT tokenları farm eden" bir yapıya büründü haftalar içinde. 
+Peki ne işe yarıyor bu token? Farming sonrası elinize geçen bu tokenları alıp Open Sea adlı platformda bulunan NFT MEME kartlarından satın alabiliyorsunuz. Bu kartların özelliği sınırlı sayıda basılmış kolleksiyoner ürünler olmaları (collectibles). Aynı [bir zamanlar bahsettiğimiz Cryptokitty'ler gibi](/genel/2018/04/06/sanat-icin-blockchain.html). Dijital dünyada sanat eserlerinin kopyalanması sorununa olan deva olan bu çözüm aynı zamanda bu eserlerin sahipliğinin hızlı bir şekilde el değiştirilmesi imkanı sağlıyor. NFT tokenlar ile ilgili Fibobülten'in [şu yazısına](https://fibobulten.com/non-fungible-token-nft-dosyasi/) göz atabilirsiniz. 
 
+Dolayısıyla **amaçsız olarak başlayan proje, bir araya getirdiği topluluğun yönlendirmesiyle "NFT tokenları farm eden" bir yapıya büründü haftalar içinde**. 
 
 ### Sonuç
 
-Pek çoğumuz için MEME projesi ve tokenı bir şaka. Zaten başlangıcı da öyle. Sonrasında neden büyüdüğünü yukarıda anlatmaya çalıştık. İkna olmamış olabilirsiniz - çok da haklısınız. Yine de açık fikirli olmakta fayda var. Yüksek ihtimal MEME projesi başarısız olacak - zaten kuranlar da aksini iddia etmiyorlar. Ancak "tutmayacak" diye toptan reddetmek yerine açık fikirli olmakta fayda var: MEME projesi DeFi dünyasından bir projenin "kısa vadede" başarılı olması için neler gerekir, onun ipuçlarını veriyor. Uzun vadede başarılı olabilmenin sırrını ise yaşadıkça göreceğiz. 
-
-İyi güzel de para eder mi bu? 
-
-
-
-
+Pek çoğumuz için MEME projesi ve tokenı bir şaka - zaten başlangıcı tek kelime ile öyle. Sonrasında neden ve nasıl büyüdüğünü yukarıda anlatmaya çalıştık. İkna olmamış olabilirsiniz - çok da haklısınız. Yüksek ihtimal MEME projesi başarısız olacak - zaten kuranlar da aksini iddia etmiyorlar. Ancak "tutmayacak" diye toptan reddetmek yerine açık fikirli olmakta fayda var: MEME projesi DeFi dünyasından bir projenin "kısa vadede" başarılı olması için neler gerekir, onun ipuçlarını veriyor. Uzun vadede başarılı olabilmenin yolu muhtemelen çok daha başka. Onu da yeni yeni gelişmeye başlayan bu alanda yaşayarak göreceğiz. 
