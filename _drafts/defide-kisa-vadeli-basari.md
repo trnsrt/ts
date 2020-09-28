@@ -54,22 +54,23 @@ Sonra işler çok da düşündüğü gibi gitmedi :) Öncelikle birkaç saat son
 
 Birincisi, proje DeFi alanındaki hemen hemen her yeniliği "ti'ye" alan ama bir taraftan da o yenilikleri içinde bulunduran bir proje. Neler bunlar?
 
-- DeFi piyasasının en kredibilitesi yüksek kişilerinden biri [Andre Cronje](https://twitter.com/AndreCronjeTech). Yearn adı verilen merkeziyetsiz portföy yönetim platformunun kurucusu olan Andre, DeFi alanındaki kontrolsüz hıza eleştirel bakışı ile tanınıyor.  İşte MEME token Andre'nin yaptığı pek çok işi eğlenceli bir şekilde klonlamış. 
+#### Yalnız boş vaad değil hiçbir vaat yok
+DeFi piyasasının en kredibilitesi yüksek kişilerinden biri [Andre Cronje](https://twitter.com/AndreCronjeTech). Yearn adı verilen merkeziyetsiz portföy yönetim platformunun kurucusu olan Andre, DeFi alanındaki kontrolsüz hıza eleştirel bakışı ile tanınıyor.  İşte MEME token Andre'nin yaptığı pek çok işi eğlenceli bir şekilde klonlamış. 
 
+Twitter profilinde "I test in prod" yazıyor - yani "o kadar hızlı ürün çıkartıyorum ki, ürünleri test etmeye vaktim bile yok, o nedenle dikkatli olun". 
 
-
-
-Twitter profilinde "I test in prod" yazıyor - yani "o kadar hızlı ürün çıkartıyorum ki, ürünleri test etmeye vaktim bile yok, o nedenle dikkatli olun". Yearn protokolü bir YIF token çıkardı. Tokenin özelliği sadece 30.000 adet olması, adil dağıtım ile sadece kullanıcılara verilmesi (Andre kendisine pay bile ayırmadı). Andre tokeni ilk çıkardığı andan itibaren bangır bangır "bu tokenin değeri yoktur" dedi. Sonuç? Token şu anda 25 bin ABD Doları civarında. 
-
-
-
-MEME tokenın web sitesi https://dontbuymeme.com/ yani "meme satın almayın". İçine girdiğinizde üç buton çıkıyor: "Satın almayın", "Ekim (farm) yapmayın", "Telegram grubuna katılmayın". Çıkardıkları token sadece 28.000 adet ve adil dağıtım ile telegram grubuna ilk girenlere dağıtılmış durumda (55 kişiye 355'şer MEME verilmiş). 
+MEME tokenın web sitesi https://dontbuymeme.com/ yani "meme satın almayın". İçine girdiğinizde üç buton çıkıyor: "Satın almayın", "Ekim (farm) yapmayın", "Telegram grubuna katılmayın". **Baştan itibaren DeFi konusunda kendini rahat hissetmeyenleri kendinden uzaklaştırmaya çalışıyor - yani "dürüst" davranıyor** (ya da dürüst davrananları ti'ye alıyor, bir başka yorumla ileride kanuni otoriteler üzerine gelirse onlara "bakın ben kimseyi kandırmaya çalışmadım demek için kendine kılıf hazırlıyor) 
 
 [meme_meme.png]
 
-Bunun dışında başka eğlenceli hareketleri de var. Örneğin girişimlerin token çıkardıklarında değerini bulabilmesi için Uniswap'a listeleme yaptıklarını daha önceki [bir yazımızda anlatmıştık](/genel/2020/09/15/nedir-bu-uniswap.html). MEME topluluğu da Uniswap içinde bir likidite havuzu kurmuş. Bu havuza koyduğu 1000 MEME için Uniswap'tan aldıkları havuz token'ini Ethereum'un kurucusu Vitalik Buterin'in hesabına gönderdiler. Neden? Havuzu bozmayı düşünmüyorlar, bu nedenle aldıkları Uniswap havuz tokenini yakabilirlerdi ama Vitalik nasıl olsa kendisine gönderilen tokenları kabul etmiyor o nedenle espri olsun diye ona göndermişler. 
+#### Çıkardığı tokeni Uniswap'ta listeleme
+Bunun dışında başka eğlenceli hareketleri de var. **İlk tokenlarını çıkardıklarında değerini bulabilmesi için Uniswap'a listeleme yaptılar.** Girişimlerin neden böyule davrandıklarını daha önceki [bir yazımızda anlatmıştık](/genel/2020/09/15/nedir-bu-uniswap.html). MEME topluluğu da Uniswap içinde bir likidite havuzu kurmuş. Bu havuza koyduğu 1000 MEME için Uniswap'tan aldıkları havuz token'ini Ethereum'un kurucusu Vitalik Buterin'in hesabına gönderdiler. Neden? Havuzu bozmayı düşünmüyorlar, bu nedenle aldıkları Uniswap havuz tokenini yakabilirlerdi ama Vitalik nasıl olsa kendisine gönderilen tokenları kabul etmiyor o nedenle espri olsun diye ona göndermişler. 
 
-YAM hareketini duymuş olabilirsiniz. Farming olayını ekstrem noktalara taşıyıp bir anda ünlü olan, ancak sonra [kodlarında sorun çıkması nedeniyle değeri sıfıra inip](https://tr.cointelegraph.com/news/yam-token-holders-burnt-the-hardest-after-price-plunges-to-zero) sonrasında ikinci ve üçüncü versiyonlarının çıktığı token. YAM kendisine logo olarak tatlı patates seçmişti. Bununla dalga geçmek içim MEME kendine ananas logosunu seçti. 
+#### Adil dağıtım
+Yukarıda bahsettiğimiz Yearn protokolü bir YIF token çıkardı. Tokenin özelliği sadece 30.000 adet olması, adil dağıtım ile sadece kullanıcılara verilmesi (Andre kendisine pay bile ayırmadı). Andre tokeni ilk çıkardığı andan itibaren bangır bangır "bu tokenin değeri yoktur" dedi. Sonuç? Token şu anda 25 bin ABD Doları civarında.  MEME, Andre Cronje'nin yaptığı aynı şekilde kopyaladı. Çıkardıkları token sadece **28.000 adet ve adil dağıtım ile telegram grubuna ilk girenlere dağıtılmış durumda** (55 kişiye 355'şer MEME verilmiş).
+
+#### Getiri çiftçiliği
+YAM hareketini duymuş olabilirsiniz. Farming olayını ekstrem noktalara taşıyıp bir anda ünlü olan, ancak sonra [kodlarında sorun çıkması nedeniyle değeri sıfıra inip](https://tr.cointelegraph.com/news/yam-token-holders-burnt-the-hardest-after-price-plunges-to-zero) sonrasında ikinci versiyonunun çıktığı token. YAM kendisine logo olarak tatlı patates seçmişti. Bununla dalga geçmek içim MEME kendine ananas logosunu seçti. 
 
 [meme_vs_yam.jpg]
 
