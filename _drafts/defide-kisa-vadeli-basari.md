@@ -17,30 +17,34 @@ Meme dediğimiz "şey", genelde komik ve çoğunlukla ilk bakışta anlaşılmaz
 | *-Hayıırrr. Yapay şekilde para basıp ekonomide enflasyon yaratarak ekonomik bozulma ile savaşamazsın!! Piyasadaki işaretleri sadece para politikası kullanarak değiştiremezsin. Faizlerin doğal hareketini bozamazsınhayyyıııırrr!  - Hahha, çalış para basma makinesi brrrrrr*|
 
 
-Muhtemelen 5 dakikada yaratılmış bir şekil. Oldukça çirkin. Komik mi? Hayır. Ne anlatıyor? Soldaki "genç" kişi makul ve mantıklı olarak para basmanın enflasyonist etkisini anlatmaya çalışıyor. Sağdaki "yaşlı" kişi ise gülerek bir makinede para basıyor. Ne anlamı var? Özellikle ABD'de son yaşanan krizin etkisini önleyebilmek yeniden başlatılan para basma politikasının bir hicvi. Para basmanın geleceği çok da düşünmeyen FED'deki ihtiyarların oturdukları yerden gerçekleştirdikleri akıl dışı bir hareket olduğunu anlatıyor. 
+Muhtemelen 5 dakikada yaratılmış bir bant. Oldukça çirkin. Komik mi? Çok sayılmaz. Ne anlatıyor? Soldaki "genç" kişi makul ve mantıklı olarak kafaya göre para zararlarını anlatmaya çalışıyor. Sağdaki "yaşlı" kişi ise gülerek bir makinede para basıyor. Ne anlamı var? Özellikle ABD'de son yaşanan krizin etkisini önleyebilmek yeniden başlatılan para basma politikasının bir hicvi (ki Bitcoin de 2008 yılındaki para basma politikasına bir tepki idi). Hesapsiz kitapsiz bir şekilde oturduğu yerden bir düğmeye basarak para yaratan FED'deki ihtiyarların nasıl geleceği tehlike altına atar şekilde sorumsuzca davrandığını anlatıyor. 
 
-Bir kişinin yarattığı yukarıdaki meme'in özellikle sağ tarafındaki yaşlı adam ve para makinesi artık FED'in para genişlemesi ile ilgili politikalarını eleştirmek için en sık kullanılan göresellerden biri oldu. Bunun da ötesine geçerek, yazı değiştirilerek, genelde mantık dışı ya da kuralları aklınca kitabına uydurarak çiğneyenleri eleştiren bir figur haline geldi. 
+Meme'in özellikle sağ tarafındaki yaşlı adam ve para makinesi  FED'in para genişlemesi ile ilgili politikalarını eleştirmek için en sık kullanılan göresellerden biri oldu. Bunun yanında alttaki yazı duruma göre değiştirilip genelde mantık dışı ya da kuralları aklınca kitabına uydurarak çiğneyenleri eleştiren her durum için kullanılmaya başlandı. 
 
 ### Kripto ile bağlantısı ne bunun?
-Özellikle kripto alanında ortaya çıkan yeni girişimler dört elle sarıldılar bu meme olayına. Neden?
+Özellikle kripto alanında ortaya çıkan yeni girişimler dört elle sarıldılar bu Meme olayına. Neden?
 
-En başta, kripto kendi başına anlaşılması zor bir alan. Uzun uzun paragraflarca yazıp anlatsanız bile insanların anlaması o kadar zor ki.  Üstelik onlarca değil yüzlerce girişim var bu alanda. İnsanlar bir paragraf bile okumaya katlanamıyor, bu kadar projeyi nasıl okuyup öğrenecek? Hem de özellikle yaşı genç olan kitle için, neredeyse imkansız bir iş bu. 
+En başta, kripto kendi başına anlaşılması zor bir alan. Uzun uzun paragraflarca yazıp anlatsanız bile insanların anlaması o kadar zor ki.  Üstelik onlarca değil yüzlerce girişim var bu alanda. İnsanlar bir paragraf bile okumaya katlanamıyor, bu kadar projeyi nasıl okuyup öğrenecek? Hem de özellikle yaşı genç olan kitle için, neredeyse imkansız bu. 
 
-Üstelik, çok hızlı gelişim gösteren bir alan. Her gün yeni bir girişim ortaya çıkıyor. Hemen her gün yeni bir girişim çıkıyor bu arada, nasıl takip edeceğiz bunları?
+Üstelik, çok hızlı gelişim gösteren bir alan. Hemen her gün yeni bir girişim çıkıyor bu arada, nasıl takip edeceğiz bunları?
 
-Bunun yanında kripto projelerinin artık klasik girişimlerden farklı olarak açık hareketler olduğundan bahsetmiştik. İşte bu hareketlerin başarılı ve kalıcı olmaları için en kritik noktalardan biri projeye güç verecek bir topluluğun olması. Hemen her kripto girişiminin ilk yaptığı işlerden biri Telegram ya da Discord üzerinden kendi kanallarını açarak bir topluluk oluşturmaya başlamak. İşte bu topluluğu bir arada tutabilmek için belli tutkallar gerekiyor. Meme'ler bir anlamda bunu sağlıyor. Topluluk üyelerinin başlangıçta girişimin ne olduğunu hızlıca anlamak ve başkalarına anlatmasına yardımcı olacak. Daha sonrasında belki başkalarına saçma gelecek ama sadece topluluk üyelerinin anlayacağı böylece kendilerini ayrıcalıklı, farklı ve biraz da üstün görmelerini sağlayacak. 
+Bunun yanında kripto projelerinin artık klasik girişimlerden farklı olarak açık hareketler olduğundan bahsetmiştik. İşte bu hareketlerin başarılı ve kalıcı olmaları için en kritik noktalardan biri projeye güç verecek bir topluluğun olması. Hemen her kripto girişiminin ilk yaptığı işlerden biri Telegram ya da Discord üzerinden kendi kanallarını açarak bir topluluk oluşturmaya başlamak. İşte bu topluluğu bir arada tutabilmek için belli tutkallar gerekiyor. Meme'ler bir anlamda bunu sağlıyor: Topluluk üyelerinin başlangıçta girişimin ne olduğunu hızlıca anlamak ve başkalarına anlatmasına yardımcı olacak. Daha sonrasında belki başkalarına saçma gelecek ama sadece topluluk üyelerinin anlayacağı böylece kendilerini ayrıcalıklı, farklı ve biraz da üstün görmelerini sağlayacak. 
 
-İşte yukarıda saydığımız nedenlerle meme kültürü kripto dünyasında patladı. Sonrasında ise olaylar bambaşka bir yola evrildi. Gelin kısaca neler olduğuna bakalım: 
+İşte yukarıda saydığımız nedenlerle Meme kültürü kripto dünyasında patladı. Sonrasında ise olaylar bambaşka bir yola evrildi. Gelin kısaca neler olduğuna bakalım: 
 
 15 Ağustos 2020'de Jordan Lyall isimli ConsenSys'de çalışan bir ürün geliştirici aşağıdaki tweet'i attı. 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Introducing The Degenerator. <br><br>Spin up a new <a href="https://twitter.com/hashtag/DeFi?src=hash&amp;ref_src=twsrc%5Etfw">#DeFi</a> project in as little as 5 minutes! <a href="https://t.co/qpiod6uqSf">pic.twitter.com/qpiod6uqSf</a></p>&mdash; Jordan Lyall 🍍 (@JordanLyall) <a href="https://twitter.com/JordanLyall/status/1294466755692081152?ref_src=twsrc%5Etfw">August 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-DeFi'de çok hızlı gelişen projeler ile "kafa bulan" bir tweet. "Beş dakikada Beşiktaş" diye eskinin Taksim-Beşiktaş dolmuşlarının çağrısı gibi, beş dakika içinde farklı DeFi parçalarını bir araya getirerek hızlıca ürün çıkartmaya yönelik bir meme. Sonra?
+DeFi'de çok hızlı gelişen projeler ile "kafa bulan" bir tweet. "Beş dakikada Beşiktaş" diye eskinin Taksim-Beşiktaş dolmuşlarının çağrısı gibi, beş dakika içinde farklı DeFi parçalarını bir araya getirerek hızlıca ürün çıkartmaya yönelik bir Meme. Sonra?
 
-Sonra işler çok da düşündüğü gibi gitmedi :) Öncelikle birkaç saat sonra, fotoğrafını koyduğu siteyi açtı. Herhangi bir fonksiyonu olmayan geleni sadece bir telegram grubuna yollayan bir site. İnsanlar müthiş ilgi gösterdiler. Kısa süre sonra MEME token çıktı. Token bir süre sonra Poloniex borsasında listelendi. Şu anda projenin piyasa değeri 17 milyon ABD Dolar civarında. 
+Sonra işler çok da düşündüğü gibi gitmedi :) Öncelikle birkaç saat sonra, fotoğrafını koyduğu siteyi açtı. Herhangi bir fonksiyonu olmayan geleni sadece bir Telegram grubuna yollayan bir site. İnsanlar müthiş ilgi gösterdiler. Kısa süre sonra MEME token çıktı. Token bir süre sonra Poloniex borsasında listelendi. Şu anda projenin piyasa değeri 16 milyon ABD Dolar civarında. 
 
-[MEME token piyasa değeri]
+
+| ![meme_chart](/assets/meme_chart.png)|
+|:--:| 
+| *MEME çıktıktan sonraki bir aylık hisse değeri. Kaynak: [Coingecko](https://www.coingecko.com/en/coins/meme)*|
+
 
 Şaka gibi değil mi? Şaka olarak başlayan proje şu anda ciddi bir değerden işlem görüyor. Böyle okuduğunuz zaman, herhalde dünyanın en saçma "şeyi" olarak görüp hemen uzaklaşabilirsiniz. Belki haklısınız da. Ama gelin biraz daha derine inelim ve neler olduğuna bir başka gözle bakmaya çalışalım: 
 
