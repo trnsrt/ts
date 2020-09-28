@@ -85,4 +85,6 @@ Dolayısıyla **amaçsız olarak başlayan proje, bir araya getirdiği topluluğ
 
 ### Sonuç
 
-Pek çoğumuz için MEME projesi ve tokenı bir şaka - zaten başlangıcı tek kelime ile öyle. Sonrasında neden ve nasıl büyüdüğünü yukarıda anlatmaya çalıştık. İkna olmamış olabilirsiniz - çok da haklısınız. Yüksek ihtimal MEME projesi başarısız olacak - zaten kuranlar da aksini iddia etmiyorlar. Ancak "tutmayacak" diye toptan reddetmek yerine açık fikirli olmakta fayda var: MEME projesi DeFi dünyasından bir projenin "kısa vadede" başarılı olması için neler gerekir, onun ipuçlarını veriyor. Uzun vadede başarılı olabilmenin yolu muhtemelen çok daha başka. Onu da yeni yeni gelişmeye başlayan bu alanda yaşayarak göreceğiz. 
+Pek çoğumuz için MEME projesi ve tokenı bir şaka - zaten başlangıcı tek kelime ile öyle. Sonrasında neden ve nasıl büyüdüğünü yukarıda anlatmaya çalıştık. İkna olmamış olabilirsiniz - çok da haklısınız. Yüksek ihtimal MEME projesi başarısız olacak - zaten kuranlar da aksini iddia etmiyorlar – hatta kuranların muhtemelen sonradan gelenlere yıktıkları çöp projelerden bile olabilir. Ancak "tutmayacak" diye toptan reddetmek yerine açık fikirli olmakta fayda var: 
+
+MEME projesi DeFi dünyasından bir projenin "kısa vadede" başarılı olması için neler gerekir, onun ipuçlarını veriyor. Uzun vadede başarılı olabilmenin yolu muhtemelen çok daha başka. Onu da yeni yeni gelişmeye başlayan bu alanda yaşayarak göreceğiz. 
