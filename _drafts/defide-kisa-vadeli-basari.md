@@ -1,10 +1,10 @@
-Gelin bugün DeFi içindeki komik bir hikayeden bahsedelim. Komik ama içinden çıkarılacak dersler var - özellikle bu alandaki girişimler için. 
+Gelin bugün DeFi içinde şaka olarak başlayan ancak son bir ay içinde oldukça başarı kazanmış bir projeden bahsedelim. Komik ama içinden çıkarılacak dersler var - özellikle bu alandaki girişimler için. 
 
 Efendim, bugünkü konumuz olan "Meme" (İngilizce bir kelime olup Türkçe "miim" şeklinde okunur), esasında Richard Dawkins'in 1976 yılında yayınlanmış "The Selfish Gene" isimli [kitabına dayanıyor](https://www.coindesk.com/memes-defi-cryptocurrency-yam): Meme, bir kültürde insandan insana atlayan söz ya da davranış demek. Biraz daha açarsak; **Meme, bir fikri olabildiğince çok insana hızlı bir şekilde aktarabilmek amacıyla yaratılmış/ortaya çıkmış kültürel eserlerin genel adı.** 
 
 
 ### Neden önemli bu "Meme"?
-Özellikle,  bilgi bombardımanının had safhada olduğu günümüzde, insanların ilgisini herhangi spesifik bir konuya çekebilmek gittikçe zorlaşır hale geldi. Kişilerin ilgi aralığı gittikçe daralıyor. Hele de öğrenme çağını geçtiğimiz on yılda yaşamış nesil için. "Sadede gel" belki de en çok duyduğumuz ya da içimizden geçirdiğimiz cümle haline geldi. 
+Özellikle,  bilgi bombardımanının had safhada olduğu günümüzde, insanların ilgisini belli bir konuya çekebilmek gittikçe zorlaşır hale geldi. Kişilerin ilgi aralığı gittikçe daralıyor. Hele de öğrenme çağını geçtiğimiz on yılda yaşamış nesil için. "Sadede gel" belki de en çok duyduğumuz ya da içimizden geçirdiğimiz cümle haline geldi. 
 
 İşte meme kültürü, bir fikri ya girişimi anlabilmek için en önemli araçlardan biri haline geldi son yıllarda. 
 
