@@ -19,8 +19,6 @@ permalink: /articles/
   - [Çevre için Blockchain](/genel/2018/11/16/cevre-icin-blockhain.html) ve [devamı](/genel/2018/11/17/cevre-icin-blockchaine-devam.html) 
   - [Geleceği tahmin için Blockchain](/genel/2018/07/13/gelecegi-tahmin-icin-blockchain.html) 
   - [Tedarik zinciri için Blockchain](/genel/2018/08/17/tedarik-zinciri-icin-blockchain.html)
-  
-
 - Finans alanındaki potansiyeli en yüksek olan Merkeziyetsiz Finans (DeFi) hareketini yakından tanımak için
   - [Blockchain finans dünyasını nasıl etkileyecek?](/genel/2019/02/14/Blockchain-finans-dunyasini-nasil-etkileyecek.html)
   - [DeFi neden önemli?](/genel/2020/06/11/DeFi-neden-onemli.html)
@@ -28,9 +26,8 @@ permalink: /articles/
   - [DeFi bir oyuncak mı?](/genel/2020/09/03/defi_bir_oyuncak_mi.html)
   - [DeFi çok mu hızlı gidiyor?](/genel/2020/09/08/defi-cok-mu-hizli-gidiyor.html)
   - [DeFi yeni ICO çılgınlığı mı?](/genel/2020/07/23/DeFi-yeni-ICO-cilginligi-mi.html)
-  - [CeFi'dan DeFi'ya... Merkeziyetsizleştiremediklerimizden misiniz?](/genel/2020/08/13/cefi-den-defiya-merkeziyetsizlestiremediklerimizden-misiniz.html)
-  
- - Farklı DeFi ürünlerinin nasıl çalıştığını görmek için
+  - [CeFi'dan DeFi'ya... Merkeziyetsizleştiremediklerimizden misiniz?](/genel/2020/08/13/cefi-den-defiya-merkeziyetsizlestiremediklerimizden-misiniz.html)  
+- Farklı DeFi ürünlerinin nasıl çalıştığını görmek için
   - [MakerDAO kredi kullanımında çığır açar mı?](/genel/2019/02/15/MakerDAO-kredi-kullaniminda-cigir-acar-mi.html)
   - [Merkeziyetsiz Finans ve MakerDAO — bir yılda neler değişti?](/genel/2020/03/17/Merkeziyetsiz-Finans-ve-Maker-DAO-Bir-yilda-neler-degisti.html)
   - [ETH görünümlü BTC olur mu?](/genel/2020/07/09/eth-gorunumlu-btc-olur-mu.html)
