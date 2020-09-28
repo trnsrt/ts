@@ -1,15 +1,10 @@
+Gelin bugün DeFi içindeki komik bir hikayeden bahsedelim. Komik ama içinden çıkarılacak dersler var - özellikle bu alandaki girişimler için. 
 
+Efendim, bugünkü konumuz olan "Meme" (İngilizce bir kelime olup Türkçe "miim" şeklinde okunur), esasında Richard Dawkins'in 1976 yılında yayınlanmış "The Selfish Gene" isimli [kitabına dayanıyor](https://www.coindesk.com/memes-defi-cryptocurrency-yam): Meme, bir kültürde insandan insana atlayan söz ya da davranış demek. Biraz daha açarsak, meme, bir fikri olabildiğince çok insana hızlı bir şekilde aktarabilmek için oluşturulan kültürel eserlere deniyor. 
 
-DeFi çok anlaşılmaz değil mi?
+Özellikle,  bilgi bombardımanının had safhada olduğu günümüzde, insanların ilgisini herhangi spesifik bir konuya çekebilmek gittikçe zorlaşır hale geldi. Kişilerin ilgi aralığı gittikçe daralıyor. Özellikle de öğrenme çağını geçtiğimiz on yılda geçirmiş nesil için. "Sadede gel" belki de en çok duyduğumuz ya da içimizden geçirdiğimiz cümle haline geldi. 
 
-Gelin bugün biraz "light" konulardan bahsedelim. Ama yazının sonuna geldiğimizde de kendimize soralım - gerçekten light konular diyerek geçiştirilebilecek konular mı bunlar?
-
-
-Efendim, bugünkü konumuz olan meme (İngilizce bir kelime olup "miim ya da miym" şeklinde okunur), esasında Richard Dawkins'in 1976 yılında yayınlanmış "The Selfish Gene" isimli [kitabına dayanıyor](https://www.coindesk.com/memes-defi-cryptocurrency-yam): Meme, bir kültürde insandan insana atlayan söz ya da davranış demek. Biraz daha açarsak, meme, bir fikri olabildiğince çok insana hızlı bir şekilde aktarabilmek için oluşturulan kültürel eserlere deniyor. 
-
-Özellikle, insanların bilgi bombardımanına tutulduğu günümüzde, onların ilgisini çekebilmek en kritik konulardan biri haline geldi. İnsanların ilgi aralığı gittikçe daralıyor. Özellikle de öğrenme çağını son on yılda geçirmiş nesil için. "Sadede gel" belki de en çok duyduğumuz ya da içimizden geçirdiğimiz cümle haline geldi. 
-
-İşte meme kültürü, bir fikri girişimi anlabilmek için en önemli araçlardan biri haline geldi son yıllarda. 
+İşte meme kültürü, bir fikri ya girişimi anlabilmek için en önemli araçlardan biri haline geldi son yıllarda. 
 
 Meme dediğimiz "şey", genelde komik ve çoğunlukla ilk bakışta anlaşılmaz bir resim, fotoğraf, altyazı, gif ya da kısa video. Komik olması viral dediğimiz hızla yayılmasını sağlıyor. İlk bakışta anlaşılmaz olması genelde referans verdiği konular hakkında bilgi birikimi sahibi olmasını gerektirdiği için. Bunun yanında pek çok kişiye ofansif (rahatsız edici) de gelebiliyor. Kimin yarattığının pek de bir önemi yok. Genelde bir topluluğun içinden biri yaratıyor, ve "tutulursa" topluluk tarafından çevreye yayılıyorlar. Bir örnek verelim: 
 
