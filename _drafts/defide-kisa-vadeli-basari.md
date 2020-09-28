@@ -53,7 +53,7 @@ Sonra işler çok da düşündüğü gibi gitmedi :) Öncelikle birkaç saat son
 
 Birincisi, proje DeFi alanındaki hemen hemen her yeniliği "ti'ye" alan ama bir taraftan da o yenilikleri içinde bulunduran bir proje. Neler bunlar?
 
-#### Yalnız boş değil hiç vaat yok
+#### Boş değil hiç vaat yok
 DeFi piyasasının en kredibilitesi yüksek kişilerinden biri [Andre Cronje](https://twitter.com/AndreCronjeTech). Yearn adı verilen merkeziyetsiz portföy yönetim platformunun kurucusu olan Andre, DeFi alanındaki kontrolsüz hıza eleştirel bakışı ile tanınıyor.  İşte MEME token Andre'nin yaptığı pek çok işi eğlenceli bir şekilde klonlamış. 
 
 Twitter profilinde "I test in prod" yazıyor - yani "o kadar hızlı ürün çıkartıyorum ki, ürünleri test etmeye vaktim bile yok, o nedenle dikkatli olun". 
