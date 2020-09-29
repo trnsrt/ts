@@ -64,7 +64,7 @@ MEME tokenın web sitesi https://dontbuymeme.com/ yani "meme satın almayın". �
 
 | ![meme_meme](/assets/meme_meme.png)|
 |:--:| 
-| * Kaynak: [MEME Blog](https://medium.com/@dontbuymeme/dont-buy-meme-defi-s-meme-coin-555c2714486a)*|
+| *Kaynak: [MEME Blog](https://medium.com/@dontbuymeme/dont-buy-meme-defi-s-meme-coin-555c2714486a)*|
 
 
 #### Çıkardığı tokeni Uniswap'ta listeleme
@@ -78,9 +78,9 @@ YAM hareketini duymuş olabilirsiniz. Farming olayını ekstrem noktalara taşı
 
 
 
-| !meme_vs_yam](/assets/meme_vs_yam.jpg)|
+| ![meme_vs_yam](/assets/meme_vs_yam.jpg)|
 |:--:| 
-| * Kaynak: [MEME Blog](https://medium.com/@dontbuymeme/dont-buy-meme-defi-s-meme-coin-555c2714486a)*|
+| *Kaynak: [MEME Blog](https://medium.com/@dontbuymeme/dont-buy-meme-defi-s-meme-coin-555c2714486a)*|
 
 
 Meme, **DeFi dünyasındaki son yenilikleri içine alıyor** demiştik. İşte öncelikle yarattıkları tokenin en son DeFi çılgınlığı olan "farming" özelliği olmaması düşünülemezdi. O nedenle hemen farming özelliği koydular.  
