@@ -62,7 +62,10 @@ Twitter profilinde "I test in prod" yazıyor - yani "o kadar hızlı ürün çı
 
 MEME tokenın web sitesi https://dontbuymeme.com/ yani "meme satın almayın". İçine girdiğinizde üç buton çıkıyor: "Satın almayın", "Ekim (farm) yapmayın", "Telegram grubuna katılmayın". **Baştan itibaren DeFi konusunda kendini rahat hissetmeyenleri kendinden uzaklaştırmaya çalışıyor - yani "dürüst" davranıyor** (ya da dürüst davrananları ti'ye alıyor, bir başka yorumla ileride kanuni otoriteler üzerine gelirse onlara "bakın ben kimseyi kandırmaya çalışmadım" demek için kendine kılıf hazırlıyor) 
 
-![meme_meme](/assets/meme_meme.png)
+| ![meme_meme](/assets/meme_meme.png)|
+|:--:| 
+| * Kaynak: [MEME Blog](https://medium.com/@dontbuymeme/dont-buy-meme-defi-s-meme-coin-555c2714486a)*|
+
 
 #### Çıkardığı tokeni Uniswap'ta listeleme
 Bunun dışında başka eğlenceli hareketleri de var. **İlk tokenlarını çıkardıklarında değerini bulabilmesi için Uniswap'a listeleme yaptılar.** Girişimlerin neden böyle davrandıklarını daha önceki [bir yazımızda anlatmıştık](/genel/2020/09/15/nedir-bu-uniswap.html). MEME topluluğu da Uniswap içinde bir likidite havuzu kurmuş. Bu havuza koyduğu 1000 MEME için Uniswap'tan aldıkları havuz token'ini Ethereum'un kurucusu Vitalik Buterin'in hesabına gönderdiler. Neden? Havuzu bozmayı düşünmüyorlar, bu nedenle aldıkları Uniswap havuz tokenini yakabilirlerdi ama Vitalik nasıl olsa kendisine gönderilen tokenları kabul etmiyor o nedenle espri olsun diye ona göndermişler. 
@@ -73,7 +76,12 @@ Yukarıda bahsettiğimiz Yearn protokolü bir YIF token çıkardı. Tokenin öze
 #### Getiri çiftçiliği
 YAM hareketini duymuş olabilirsiniz. Farming olayını ekstrem noktalara taşıyıp bir anda ünlü olan, ancak sonra [kodlarında sorun çıkması nedeniyle değeri sıfıra inip](https://tr.cointelegraph.com/news/yam-token-holders-burnt-the-hardest-after-price-plunges-to-zero) sonrasında ikinci versiyonunun çıktığı token. [FARMING] YAM kendisine logo olarak tatlı patates seçmişti. Bununla dalga geçmek için MEME kendine ananas logosunu seçti. 
 
-![meme_vs_yam](/assets/meme_vs_yam.jpg)
+
+
+| !meme_vs_yam](/assets/meme_vs_yam.jpg)|
+|:--:| 
+| * Kaynak: [MEME Blog](https://medium.com/@dontbuymeme/dont-buy-meme-defi-s-meme-coin-555c2714486a)*|
+
 
 Meme, **DeFi dünyasındaki son yenilikleri içine alıyor** demiştik. İşte öncelikle yarattıkları tokenin en son DeFi çılgınlığı olan "farming" özelliği olmaması düşünülemezdi. O nedenle hemen farming özelliği koydular.  
 
@@ -89,4 +97,6 @@ Dolayısıyla **amaçsız olarak başlayan proje, bir araya getirdiği topluluğ
 
 Pek çoğumuz için MEME projesi ve tokenı bir şaka - zaten başlangıcı tek kelime ile öyle. Sonrasında neden ve nasıl büyüdüğünü yukarıda anlatmaya çalıştık. İkna olmamış olabilirsiniz - çok da haklısınız. Yüksek ihtimal MEME projesi başarısız olacak - zaten kuranlar da aksini iddia etmiyorlar – hatta kuranların muhtemelen sonradan gelenlere yıktıkları çöp projelerden bile olabilir. Ancak "tutmayacak" diye toptan reddetmek yerine açık fikirli olmakta fayda var: 
 
-MEME projesi DeFi dünyasından bir projenin "kısa vadede" başarılı olması için neler gerekir, onun ipuçlarını veriyor: [OZETLER] Uzun vadede başarılı olabilmenin yolu muhtemelen çok daha başka. Onu da yeni yeni gelişmeye başlayan bu alanda yaşayarak göreceğiz. 
+MEME projesi DeFi dünyasından bir projenin "kısa vadede" başarılı olması için neler gerekir, onun ipuçlarını veriyor. Neler bunlar? Yukarıda kalın harfler ile yazılanlar aslında: İnsanlara karşı her zaman dürüst ol. En baştan kendine bağlı bir topluluk ve ortak kültür yarat. Sadece kültür yetmez onları gönüllü elçiler yapabilmek için adil bir şekilde ödüllendir. Bunu yaparken verdiğin ödüllerin hızlı bir şekilde değerini bulabilmesi için çabala. Yeniklikleri hızlı bir şekilde uygula. 
+
+Uzun vadede başarılı olabilmenin yolu ise muhtemelen yukarıda yazdıklarımızdan çok daha farklı. Hatta kimileri ile taban tabana zıt. Hangisi doğru hangisi yanlış onu da yeni yeni gelişmeye başlayan bu alanda yaşayarak göreceğiz.
