@@ -4,19 +4,19 @@ Efendim, bugünkü konumuz olan "Meme" (İngilizce bir kelime olup Türkçe "mii
 
 
 ### Neden önemli bu "Meme"?
-Özellikle,  bilgi bombardımanının had safhada olduğu günümüzde, insanların ilgisini belli bir konuya çekebilmek gittikçe zorlaşır hale geldi. Kişilerin ilgi aralığı gittikçe daralıyor. Hele de öğrenme çağını geçtiğimiz on yılda yaşamış nesil için. "Sadede gel" belki de en çok duyduğumuz ya da içimizden geçirdiğimiz cümle haline geldi. 
+Özellikle, bilgi bombardımanının had safhada olduğu günümüzde, insanların ilgisini belli bir konuya çekebilmek gittikçe zorlaşır hale geldi. Kişilerin ilgi aralığı gittikçe daralıyor. Hele de öğrenme çağını geçtiğimiz on yılda yaşamış nesil için. "Sadede gel" belki de en çok duyduğumuz ya da içimizden geçirdiğimiz cümlelerden biri artık. 
 
-İşte meme kültürü, bir fikri ya girişimi anlabilmek için en önemli araçlardan biri haline geldi son yıllarda. 
+İşte Meme kültürü, bir fikri ya girişimi anlatabilmenin en önemli araçlarından biri haline geldi son yıllarda.
 
-Meme dediğimiz "şey", genelde komik ve çoğunlukla ilk bakışta anlaşılmaz bir resim, fotoğraf, altyazı, gif ya da kısa video. Komik olması viral dediğimiz hızla yayılmasını sağlıyor. İlk bakışta anlaşılmaz olmasının nedeni genelde referans verdiği konular hakkında belli bir bilgi birikimi sahibi olmayı gerektirmesi. Bunun yanında pek çok kişiye ofansif (rahatsız edici) de gelebiliyor. Kimin yarattığının pek de bir önemi yok. Genelde topluluğun içinden biri yaratıyor ve "tutulursa" topluluk tarafından çevreye yayılıyorlar. Bir örnek verelim: 
+Meme dediğimiz "şey", genelde komik ve çoğunlukla ilk bakışta anlaşılmaz bir resim, fotoğraf, altyazı, gif ya da kısa video. Komik olması viral olarak adlandırdığımız hızlı yayılmayı sağlıyor. İlk bakışta anlaşılmaz olmasının nedeni genelde referans verdiği konular hakkında belli bir bilgi birikimi sahibi olmayı gerektirmesi. Bunun yanında pek çok kişiye ofansif (rahatsız edici) de gelebiliyor. Kimin yarattığının pek de bir önemi yok. Genelde topluluğun içinden biri yaratıyor ve "tutulursa" topluluk tarafından çevreye yayılıyorlar. Bir örnek verelim: 
 
 | ![Money_printer](/assets/money_printer.png)|
 |:--:| 
 | *-Hayıırrr. Yapay şekilde para basıp ekonomide enflasyon yaratarak ekonomik bozulma ile savaşamazsın!! Piyasadaki işaretleri sadece para politikası kullanarak değiştiremezsin. Faizlerin doğal hareketini bozamazsınhayyyıııırrr!  - Hahha, çalış para basma makinesi brrrrrr*|
 
-Muhtemelen 5 dakikada yaratılmış bir bant. Oldukça çirkin. Komik mi? Çok sayılmaz. Ne anlatıyor? Soldaki "genç" kişi makul ve mantıklı olarak kafaya göre para zararlarını anlatmaya çalışıyor. Sağdaki "yaşlı" kişi ise gülerek bir makinede para basıyor. Ne anlamı var? Özellikle ABD'de son yaşanan krizin etkisini önleyebilmek yeniden başlatılan para basma politikasının bir hicvi (ki Bitcoin de 2008 yılındaki para basma politikasına bir tepki idi). Hesapsiz kitapsiz bir şekilde oturduğu yerden bir düğmeye basarak para yaratan FED'deki ihtiyarların nasıl geleceği tehlike altına atar şekilde sorumsuzca davrandığını anlatıyor. 
+Muhtemelen 5 dakikada yaratılmış bir bant. Oldukça çirkin. Komik mi? Çok sayılmaz. Ne anlatıyor? Soldaki "genç" kişi makul ve mantıklı olarak kafaya göre para yaratmanın zararlarını anlatmaya çalışıyor. Sağdaki "yaşlı" kişi ise gülerek bir makinede para basıyor. Ne anlamı var? Özellikle ABD'de son yaşanan krizin etkisini önleyebilmek yeniden başlatılan para basma politikasının bir hicvi. Hesapsız kitapsız bir şekilde oturduğu yerden bir düğmeye basarak para yaratan FED'deki ihtiyarların nasıl geleceği tehlike altına atar şekilde sorumsuzca davrandığını anlatıyor (ki Bitcoin de 2008 yılındaki [para basma politikasına bir tepki idi](/genel/2018/06/01/token-dunyasinin-ilk-oyuncusu-tanidik-bir-isim-bitcoin.html)). 
 
-Meme'in özellikle sağ tarafındaki yaşlı adam ve para makinesi  FED'in para genişlemesi ile ilgili politikalarını eleştirmek için en sık kullanılan göresellerden biri oldu. Bunun yanında alttaki yazı duruma göre değiştirilip genelde mantık dışı ya da kuralları aklınca kitabına uydurarak çiğneyenleri eleştiren her durum için kullanılmaya başlandı. 
+Meme'in özellikle sağ tarafındaki yaşlı adam ve para makinesi FED'in parasal genişleme ile ilgili politikalarını eleştirmek için en sık kullanılan görsellerden biri oldu. Bununla da kalmadı: Alttaki yazı duruma göre değiştirilip genelde mantık dışı ya da kuralları aklınca kitabına uydurarak çiğneyenleri eleştiren her tür durum için de kullanılmaya başlandı.
 
 ### Kripto ile bağlantısı ne bunun?
 Özellikle kripto alanında ortaya çıkan yeni girişimler dört elle sarıldılar bu Meme olayına. Neden?
