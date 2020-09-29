@@ -74,7 +74,7 @@ Bunun dışında başka eğlenceli hareketleri de var. **İlk tokenlarını çı
 Yukarıda bahsettiğimiz Yearn protokolü bir YIF token çıkardı. Tokenin özelliği sadece 30.000 adet olması, adil dağıtım ile sadece kullanıcılara verilmesi (Andre kendisine pay bile ayırmadı). Andre tokeni ilk çıkardığı andan itibaren bangır bangır "bu tokenin değeri yoktur" dedi. Sonuç? Token şu anda 25 bin ABD Doları civarında.  MEME, Andre Cronje'nin yaptığı aynı şekilde kopyaladı. Çıkardıkları token sadece **28.000 adet ve adil dağıtım ile telegram grubuna ilk girenlere dağıtılmış durumda** (55 kişiye 355'şer MEME verilmiş).
 
 #### Getiri çiftçiliği
-YAM hareketini duymuş olabilirsiniz. Farming olayını ekstrem noktalara taşıyıp bir anda ünlü olan, ancak sonra [kodlarında sorun çıkması nedeniyle değeri sıfıra inip](https://tr.cointelegraph.com/news/yam-token-holders-burnt-the-hardest-after-price-plunges-to-zero) sonrasında ikinci versiyonunun çıktığı token. [FARMING] YAM kendisine logo olarak tatlı patates seçmişti. Bununla dalga geçmek için MEME kendine ananas logosunu seçti. 
+YAM hareketini duymuş olabilirsiniz. Farming olayını ekstrem noktalara taşıyıp bir anda ünlü olan, ancak sonra [kodlarında sorun çıkması nedeniyle değeri sıfıra inip](https://tr.cointelegraph.com/news/yam-token-holders-burnt-the-hardest-after-price-plunges-to-zero) sonrasında ikinci versiyonunun çıktığı token. (YAM ve getiri çiftçiliği ile ilgili olarak Ebru Güven'in [BTCHaber'de çıkan şu yazısına göz atabilirsiniz](https://www.btchaber.com/tatli-patatesler-mi-hic-sanmiyorum/)) YAM kendisine logo olarak tatlı patates seçmişti. Bununla dalga geçmek için MEME kendine ananas logosunu seçti. 
 
 
 
