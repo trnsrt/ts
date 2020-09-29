@@ -21,29 +21,33 @@ Meme'in özellikle sağ tarafındaki yaşlı adam ve para makinesi FED'in parasa
 ### Kripto ile bağlantısı ne bunun?
 Özellikle kripto alanında ortaya çıkan yeni girişimler dört elle sarıldılar bu Meme olayına. Neden?
 
-En başta, kripto kendi başına anlaşılması zor bir alan. Uzun uzun paragraflarca yazıp anlatsanız bile insanların anlaması o kadar zor ki.  Üstelik onlarca değil yüzlerce girişim var bu alanda. İnsanlar bir paragraf bile okumaya katlanamıyor, bu kadar projeyi nasıl okuyup öğrenecek? Hem de özellikle yaşı genç olan kitle için, neredeyse imkansız bu. 
+En başta, kripto kendi başına anlaşılması zor bir alan. Uzun uzun paragraflarca yazıp anlatsanız bile insanların anlaması o kadar zor ki.  
 
-Üstelik, çok hızlı gelişim gösteren bir alan. Hemen her gün yeni bir girişim çıkıyor bu arada, nasıl takip edeceğiz bunları?
+Üstelik onlarca değil yüzlerce girişim var bu alanda. İnsanlar bir paragraf bile okumaya katlanamıyor, bu kadar projeyi nasıl okuyup öğrenecek? Hem de özellikle yaşı genç olan kitle için, neredeyse imkansız bu. 
 
-Bunun yanında kripto projelerinin artık klasik girişimlerden farklı olarak açık hareketler olduğundan bahsetmiştik. İşte bu hareketlerin başarılı ve kalıcı olmaları için en kritik noktalardan biri projeye güç verecek bir topluluğun olması. Hemen her kripto girişiminin ilk yaptığı işlerden biri Telegram ya da Discord üzerinden kendi kanallarını açarak bir topluluk oluşturmaya başlamak. İşte bu topluluğu bir arada tutabilmek için belli tutkallar gerekiyor. Meme'ler bir anlamda bunu sağlıyor: Topluluk üyelerinin başlangıçta girişimin ne olduğunu hızlıca anlamak ve başkalarına anlatmasına yardımcı olacak. Daha sonrasında belki başkalarına saçma gelecek ama sadece topluluk üyelerinin anlayacağı böylece kendilerini ayrıcalıklı, farklı ve biraz da üstün görmelerini sağlayacak. 
+Bu da yetmezmiş gibi, bir de çok hızlı gelişim gösteren bir dünya. Hemen her gün yeni bir girişim çıkıyor, nasıl takip edeceğiz bunları?
+
+Bunun yanında kripto projeleri klasik girişimlerden farklı olarak topluma açık girişimler. Bu hareketlerin başarılı ve kalıcı olmaları için en kritik noktalardan biri projeye güç verecek bir topluluğun olması. Hemen her kripto girişiminin ilk yaptığı işlerden biri Telegram ya da Discord üzerinden kendi kanallarını açarak bir topluluk oluşturmaya başlamak. İşte bu topluluğu bir arada tutabilmek için belli tutkallar gerekiyor. 
+
+Meme'ler bir anlamda bunu sağlıyor: **Topluluk üyelerinin başlangıçta girişimin ne olduğunu hızlıca anlayıp başkalarına da aynı kolaylıkla anlatabilmesine yardımcı oluyor. Daha sonrasında ise  belki dış dünyaya saçma gelen ama tam da bu nedenle topluluk üyelerinin kendilerini farklı, ayrıcalıklı ve biraz da üstün görmelerine yol açan özel bir kültür yaratılmasında başrol oynuyor.**
 
 İşte yukarıda saydığımız nedenlerle Meme kültürü kripto dünyasında patladı. Sonrasında ise olaylar bambaşka bir yola evrildi. Gelin kısaca neler olduğuna bakalım: 
 
-15 Ağustos 2020'de Jordan Lyall isimli ConsenSys'de çalışan bir ürün geliştirici aşağıdaki tweet'i attı. 
+15 Ağustos 2020'de [Jordan Lyall](https://twitter.com/JordanLyall) isimli ConsenSys'de çalışan bir ürün geliştirici aşağıdaki tweet'i attı. 
 
 <a href="https://twitter.com/JordanLyall/status/1294466755692081152">
          <img alt="Tweet" src="/assets/meme_initial_tweet.png"></a>
 
 DeFi'de çok hızlı gelişen projeler ile "kafa bulan" bir tweet. "Beş dakikada Beşiktaş" diye eskinin Taksim-Beşiktaş dolmuşlarının çağrısı gibi, beş dakika içinde farklı DeFi parçalarını bir araya getirerek hızlıca ürün çıkartmaya yönelik bir Meme. Sonra?
 
-Sonra işler çok da düşündüğü gibi gitmedi :) Öncelikle birkaç saat sonra, fotoğrafını koyduğu siteyi açtı. Herhangi bir fonksiyonu olmayan geleni sadece bir Telegram grubuna yollayan bir site. İnsanlar müthiş ilgi gösterdiler. Kısa süre sonra MEME token çıktı. Token bir süre sonra Poloniex borsasında listelendi. Şu anda projenin piyasa değeri 16 milyon ABD Dolar civarında. 
+Sonra işler çok da düşündüğü gibi gitmedi :) Öncelikle birkaç saat sonra, yukarıda prototip fotoğrafını gösterdiği sitenin orijinalini açtı. Herhangi bir fonksiyonu olmayan, geleni sadece bir Telegram grubuna yollayan bir site. İnsanlar müthiş ilgi gösterdiler. Kısa süre sonra MEME token çıktı. Token bir süre sonra Poloniex borsasında listelendi. Şu sıralar projenin [piyasa değeri 14 milyon ABD Dolar civarında](https://www.coingecko.com/en/coins/meme). 
 
 | ![meme_chart](/assets/meme_chart.png)|
 |:--:| 
 | *MEME çıktıktan sonraki bir aylık hisse değeri. Kaynak: [Coingecko](https://www.coingecko.com/en/coins/meme)*|
 
 
-Şaka gibi değil mi? Şaka olarak başlayan proje şu anda ciddi bir değerden işlem görüyor. Böyle okuduğunuz zaman, herhalde dünyanın en saçma "şeyi" olarak görüp hemen uzaklaşabilirsiniz. Belki haklısınız da. Ama gelin biraz daha derine inelim ve neler olduğuna bir başka gözle bakmaya çalışalım: 
+Şaka gibi değil mi? Evet, gerçekten de şaka olarak başlayan proje şu anda ciddi bir değerden işlem görüyor. Böyle okuduğunuz zaman, herhalde dünyanın en saçma "şeyi" olarak görüp hemen uzaklaşabilirsiniz. Belki haklısınız da. Ama gelin biraz daha derine inelim ve neler olduğuna bir başka gözle bakmaya çalışalım: 
 
 ### Neden ilgi gördü?
 
