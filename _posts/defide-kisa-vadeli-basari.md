@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Defi'de kısa vadeli başarı"
+date:   2020-09-29 18:47:56 +0300
+categories: Genel
+tags: Yazılar DeFi
+---
+
 Gelin bugün DeFi içinde şaka olarak başlayan ancak son bir ay içinde oldukça başarı kazanmış bir projeden bahsedelim. Komik ama içinden çıkarılacak dersler var - özellikle bu alandaki girişimler için. 
 
 Efendim, bugünkü konumuz olan "Meme" (İngilizce bir kelime olup Türkçe "miim" şeklinde okunur), esasında Richard Dawkins'in 1976 yılında yayınlanmış "The Selfish Gene" isimli [kitabına dayanıyor](https://www.coindesk.com/memes-defi-cryptocurrency-yam): Meme, bir kültürde insandan insana atlayan söz ya da davranış demek. Biraz daha açarsak; **Meme, bir fikri olabildiğince çok insana hızlı bir şekilde aktarabilmek amacıyla yaratılmış/ortaya çıkmış kültürel eserlerin genel adı.** 
@@ -102,3 +110,13 @@ Pek çoğumuz için MEME projesi ve tokenı bir şaka - zaten başlangıcı da t
 MEME projesi DeFi dünyasından bir projenin "kısa vadede" başarılı olması için neler gerekir, onun ipuçlarını veriyor. Neler bunlar? Yukarıda kalın harfler ile yazılanlar aslında: **İnsanlara karşı her zaman dürüst ol. En baştan kendine bağlı bir topluluk ve ortak kültür yarat. Sadece kültür yetmez, gönüllü elçilik yapmalarını sağlamak için onları adil bir şekilde ödüllendir. Bunu yaparken verdiğin ödüllerin hızlı bir şekilde değerini bulması için çabala. Yeniklikleri hızlı bir şekilde uygula.** 
 
 Uzun vadede başarılı olabilmenin yolu ise muhtemelen yukarıda yazdıklarımızdan çok daha farklı. Hatta kimileri ile taban tabana zıt. Hangisi doğru, hangisi yanlış onu da yeni yeni gelişmeye başlayan bu alanda yaşayarak göreceğiz.
+
+---
+
+*Not 1: Bu yazı ilk olarak 29 Eylül 2020'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/defida-kisa-vadeli-basarinin-ipuclari/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
+
+---
