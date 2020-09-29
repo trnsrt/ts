@@ -37,6 +37,8 @@ permalink: /articles/
   - [DeFi türev piyasaları nasıl oluyor?](/genel/2020/08/20/defi-turev-piyasalari-nasil-oluyor.html)
   - [DeFi türev piyasası Synthetix nasıl çalışıyor?](/genel/2020/08/28/Defi-turev-piyasasi-synthetix-nasil-calisiyor.html)
   - [Nedir bu Uniswap?](/genel/2020/09/15/nedir-bu-uniswap.html)
+  - [Uniswap rakipler Curve, Balancer ve Sushiswap](/genel/2020/09/22/uniswap-rakipleri-curve-balancer-ve-sushiswap.html)
+  - [DeFi'de kısa vadeli başarının ipuçları](/genel/2020/09/29/defide-kisa-vadeli-basari.html)
 
 
 - Blockchain bazlı teknolojilerin girişimcilik ve yatırımcılık ekosistemlerini nasıl değiştirdiğini merak ediyorsanız
