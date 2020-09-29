@@ -34,11 +34,9 @@ Bunun yanında kripto projelerinin artık klasik girişimlerden farklı olarak a
 <a href="https://twitter.com/JordanLyall/status/1294466755692081152">
          <img alt="Tweet" src="/assets/meme_initial_tweet.png"></a>
 
-
 DeFi'de çok hızlı gelişen projeler ile "kafa bulan" bir tweet. "Beş dakikada Beşiktaş" diye eskinin Taksim-Beşiktaş dolmuşlarının çağrısı gibi, beş dakika içinde farklı DeFi parçalarını bir araya getirerek hızlıca ürün çıkartmaya yönelik bir Meme. Sonra?
 
 Sonra işler çok da düşündüğü gibi gitmedi :) Öncelikle birkaç saat sonra, fotoğrafını koyduğu siteyi açtı. Herhangi bir fonksiyonu olmayan geleni sadece bir Telegram grubuna yollayan bir site. İnsanlar müthiş ilgi gösterdiler. Kısa süre sonra MEME token çıktı. Token bir süre sonra Poloniex borsasında listelendi. Şu anda projenin piyasa değeri 16 milyon ABD Dolar civarında. 
-
 
 | ![meme_chart](/assets/meme_chart.png)|
 |:--:| 
@@ -47,7 +45,7 @@ Sonra işler çok da düşündüğü gibi gitmedi :) Öncelikle birkaç saat son
 
 Şaka gibi değil mi? Şaka olarak başlayan proje şu anda ciddi bir değerden işlem görüyor. Böyle okuduğunuz zaman, herhalde dünyanın en saçma "şeyi" olarak görüp hemen uzaklaşabilirsiniz. Belki haklısınız da. Ama gelin biraz daha derine inelim ve neler olduğuna bir başka gözle bakmaya çalışalım: 
 
-### Neden ilgi gördü
+### Neden ilgi gördü?
 
 Öncelikle başlangıçta şaka gibi başladığını söyledik. Başlangıcı ile ilgili birkaç ayrıntıyı daha vermek lazım: 
 
