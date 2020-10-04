@@ -27,7 +27,7 @@ xxxxxxxx
 
 Ampleforth'un arzı değiştirdiğinden bahsetmiştik. Ancak bu arzı değiştirmek yalnızca yeni olarak piyasaya sürülecek olan paralara yönelik değil. Akıllı kontratlar marifetiyle, sizin elinizde olan paranın miktarını da değiştiriyorlar!
 
-Ampleforth'da amaç paranın değerini belli bir seviyede tutmak. Seviye derken kastedilen, değerini belli bir hedefin %5 altı ya da üstündeki bir bantta hareket ediyor olması. Eğer değer bu bandın dışına çıkarsa o zaman Akıllı Kontrat devreye giriyor. Peki ne yapıyor bu kontrat? Diyelim değer bir anda arttı ve 1 dolar olan Ampleforth 2 dolara seviyesine geldi. Sizin elinizde 10 AMPL var ise bu paraların değeri de 10 ABD Dolarından 20 ABD Dolarına çıktı. Sistem sizin elinizde olan AMPL miktarını bir anda iki katına çıkarıyor. Dikkat edin, elinizdeki parayı almıyor, tam tersine artırıyor. Burada umulan, arzın bir anda iki katına çıkması ile birlikte değerin tekrar 1 dolar seviyesine düşmesi ve sizin elinizde yine 20 ABD Doları değer olması. Yani fiyat artışının varlığınızdaki değer artışı etkisi korunurken paranın değerinin aynı seviyede kalması. İlginç değil mi?
+Ampleforth'da amaç paranın değerini belli bir seviyede tutmak. Seviye derken kastedilen, değerini belli bir hedefin %5 altı ya da üstündeki bir bantta hareket ediyor olması. Eğer değer bu bandın dışına çıkarsa o zaman Akıllı Kontrat devreye giriyor. Peki ne yapıyor bu kontrat? Diyelim değer bir anda arttı ve 1 dolar olan Ampleforth 2 dolara seviyesine geldi. Sizin elinizde 10 AMPL var ise bu paraların değeri de 10 ABD Dolarından 20 ABD Dolarına çıktı. Sistem sizin elinizde olan AMPL miktarını bir anda iki katına çıkarıyor. Dikkat edin, elinizdeki parayı almıyor, tam tersine artırıyor. Burada umulan, arzın bir anda iki katına çıkması ile birlikte değerin tekrar 1 dolar seviyesine düşmesi ve sizin elinizde yine 20 ABD Doları değer olması. Yani fiyat artışının varlığınızdaki değer artışı etkisi korunurken paranın değerinin aynı seviyede kalması. Bunu yapan kontratın ise tamamen dış manuel etki olmadan yazılı tarafından otomatik gerçekleştirildiğine de belirtelim. Nasıl, ilginç değil mi?
 
 Tabii yukarıdaki senaryodaki kritik nokta arzın iki katına çıkması durumunda paranın değerinin yarıya düşeceği argümanı. Teorik olarak öyle olmalı, ancak pratikte öyle mi?... 
 
@@ -54,6 +54,6 @@ Nelere dikkat etmek gerekiyor?
 
 
 
-SONUC
+### SONUC
 
-Ampleforth, 
+Ampleforth, Bitcoin sonrası ortaya çıkan kripto dünyasının geniş kitlelere yayılabilmesi için ortaya konan deneysel çözümlerden makro ekonomik para politikalarına odaklanan bir tanesi. Ekonomide teori olarak ortaya konan kavramların gerçek hayatta nasıl gelişeceğini göstermesi açısından ilginç bir deney. Nasıl gelişeceği, ne kadar yaygınlaşacağı, çıkan sorunlara nasıl adapte olacağı ve bir gün Bitcoin'e rakip olup olmayacağını ise bize önümüzdeki yıllar gösterecek. Hep dediğimiz gibi, bu heyecanlı bekleyişin sonunu hep birlikte göreceğiz. 
