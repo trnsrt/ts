@@ -39,4 +39,8 @@ xxxxxxxxxx
 
 Ampleforth'un arzı ile oynamak suretiyle üçlü aşamalı bir vizyonu var aslında: 
 
-Bunlardan birincisi arz
+İlk aşama kısa vadede arz konusundaki bu değişiklik sayesinde portföyünde kripto varlık tutanlara risklerini dağıtmaya yardımcı olmak. Çıkış noktaları şu: Bitcoin piyasanın ağır ağabeyi olarak büyük bir ağırlığa sahip. Dolayısıyla piyasadaki bütün kripto paralar ağırlıklı olarak Bitcoin ile ortak hareket ediyorlar. Yani, Bitcoin artarsa artıyorlar, azalırsa azalıyorlar (genellikle bu artış ve azalışları daha uç noktalarda yaşıyorlar). Ampleforth yaratıcıları, paralarının ilk çıkış aşamasında öyle hemen stabil bir hâle gelmesini beklemiyorlar. Bunun yerine yarattıkları strateji sayesinde AMPL değerindeki değişimlerin diğer bütün kripto paralardan farklı şekilde yol alacağının bunun da poftföy yöneticilerine riski çeşitlendirerek azaltmak konusunda bir opsiyon sunacağını düşünüyorlar. 
+
+İkinci aşamada ise AMPL fiyatındaki başta yaşanan volatilitenin zaman geçtikçe azalması sonrası AMPL'nin artık bir rezerv para olarak kullanılabilmesini yaygınlaşması var. AMPL özünde Tether ya da DAI gibi itibari bir paraya bağlı bir para değil - Bitcoin benzeri kıymeti kendinden menkul ve bağımsız, sansürlenemez bir para. Bir yandan da itibari paraların merkez bankalarının hadsiz hudutsuz para basmalarından dolayı ciddi değer kaybetmeleri ve rezerv para fonksiyonlarının ortadan kalkmasını bekleyenler var. Dolayısıyla, rezerv para olarak sansüre uğramayacak tam anlamıyla kullanıcıların sahip olabileceği değeri büyük dalgalanmalar göstermeyen bir rezerv para olma hedefleri var. [REZERV PARA TANIMINI BİRAZ DAHA ANLATMAK LAZIM]
+
+Üçüncü aşamada ise kullanımın yaygınlaşması ve arzın artması ile birlikte artık geniş kitleler tarafından ödemeler için kullanılabilecek güvenli, bağımsız bir para olma hedefi var. Yani aslında bir nevi Satoshi'nin Bitcoin'e başlangıçta koyduğu vizyona ulaşmak. 
