@@ -20,3 +20,23 @@ Bu dalgalanma sorununu çözmek için itibari paralara bağlanmış olan stabil 
 
 Ampleforth, makro ekonomik olarak bir deney aslında. Özü şuna dayanıyor. Bitcoin benzeri sınırlı arza sahip paraların teori olarak güzel. Ancak talebin sürekli olarak değişmesi sabit arz ile birleştiği zaman ortaya son derece oynak bir para çıkıyor. Kısıtlı arz uzun vadede fiyat artışını şimdiye kadar getirdi ancak kısa vadelerdeki bu oynaklık sinirleri zorlayacak seviyede. İşte Ampleforth, bu oynaklığı önlemek adına, talepte meydana gelebilecek değişimlerin fiyata radikal etki etmesinin önüne geçmek yani paranın değerini dengelemek için arzında esnek bir biçimde değişirilmesi prensibine dayanıyor. Hem de ne değiştirmek! Gelin biraz daha açalım bunu: 
 
+xxxxxxxx
+
+
+### Nasıl çalışıyor Ampleforth?
+
+Ampleforth'un arzı değiştirdiğinden bahsetmiştik. Ancak bu arzı değiştirmek yalnızca yeni olarak piyasaya sürülecek olan paralara yönelik değil. Akıllı kontratlar marifetiyle, sizin elinizde olan paranın miktarını da değiştiriyorlar!
+
+Ampleforth'da amaç paranın değerini belli bir seviyede tutmak. Seviye derken kastedilen, değerini belli bir hedefin %5 altı ya da üstündeki bir bantta hareket ediyor olması. Eğer değer bu bandın dışına çıkarsa o zaman Akıllı Kontrat devreye giriyor. Peki ne yapıyor bu kontrat? Diyelim değer bir anda arttı ve 1 dolar olan Ampleforth 2 dolara seviyesine geldi. Sizin elinizde 10 AMPL var ise bu paraların değeri de 10 ABD Dolarından 20 ABD Dolarına çıktı. Sistem sizin elinizde olan AMPL miktarını bir anda iki katına çıkarıyor. Dikkat edin, elinizdeki parayı almıyor, tam tersine artırıyor. Burada umulan, arzın bir anda iki katına çıkması ile birlikte değerin tekrar 1 dolar seviyesine düşmesi ve sizin elinizde yine 20 ABD Doları değer olması. Yani fiyat artışının varlığınızdaki değer artışı etkisi korunurken paranın değerinin aynı seviyede kalması. İlginç değil mi?
+
+Tabii yukarıdaki senaryodaki kritik nokta arzın iki katına çıkması durumunda paranın değerinin yarıya düşeceği argümanı. Teorik olarak öyle olmalı, ancak pratikte öyle mi?... 
+
+Bir de madalyonun öbür yüzü var. Eğer bir olay oldu da AMPL değeri 50 cent'e indi ise o zaman elinizdeki 10 AMPL'nin yarısı "uçuyor" ve sizde 5 AMPL kalıyor. Beklenen fiyatın bir anda 1 ABD Doları seviyesine çıkarak varlığınızın değerinin 5 ABD Doları kalması. Ama böyle bir senaryoda eğer fiyat 1 ABD Doları'na çıkmaz ise, varlığınız 10 ABD Doları'ndan 5 ABD Dolarına inmiyor, 2.5 ABD Dolarına iniyor.
+
+TEORİK PRATİK ÖRNEKLER, BAŞKA BENZER SENARYOLAR, TRADER'LARIN ETKİSİ, FİYATIN NASIL ÇIKACAĞINI NASIL ENSURE EDECEKSİNİZ?
+
+xxxxxxxxxx
+
+Ampleforth'un arzı ile oynamak suretiyle üçlü aşamalı bir vizyonu var aslında: 
+
+Bunlardan birincisi arz
