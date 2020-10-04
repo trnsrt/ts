@@ -17,3 +17,6 @@ Bu dalgalanma sorununu çözmek için itibari paralara bağlanmış olan stabil 
 İşte bu nedenle, Bitcoin benzeri bağımsız ve sansürsüz ama öte yandan fiyat volatilitesi daha düşük kripto paralara bir ihtiyaç var gibi görünüyor. Bu alanda ortaya çıkan yeni deneylerden bir tanesi de Ampleforth. 
 
 ### Nedir Ampleforth?
+
+Ampleforth, makro ekonomik olarak bir deney aslında. Özü şuna dayanıyor. Bitcoin benzeri sınırlı arza sahip paraların teori olarak güzel. Ancak talebin sürekli olarak değişmesi sabit arz ile birleştiği zaman ortaya son derece oynak bir para çıkıyor. Kısıtlı arz uzun vadede fiyat artışını şimdiye kadar getirdi ancak kısa vadelerdeki bu oynaklık sinirleri zorlayacak seviyede. İşte Ampleforth, bu oynaklığı önlemek adına, talepte meydana gelebilecek değişimlerin fiyata radikal etki etmesinin önüne geçmek yani paranın değerini dengelemek için arzında esnek bir biçimde değişirilmesi prensibine dayanıyor. Hem de ne değiştirmek! Gelin biraz daha açalım bunu: 
+
