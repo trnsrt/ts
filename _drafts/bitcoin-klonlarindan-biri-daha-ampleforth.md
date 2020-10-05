@@ -41,34 +41,32 @@ Burada temel olarak düşünülen toplam piyasa değerinin aynı kalması. Piyas
 
 Hisse (ya da token) fiyatını sabit tutmak neden önemli? Ancak değerin "gerçek" anlamda sabit olması durumunda bu para alım-satım ve ticaret için kullanılır. Ama ancak bu paranın değeri artıyor ise o zaman yatırımcılar tarafından rağbet görür. 
 
+#### Ya bir girdabın içinde fiyat düşmeye devam ederse?
+Arz azalımı ancak fiyat belli bir seviyenin altına düştüğü zaman gerçekleşiyor. O zaman akla ilk gelen soru: Ya arz azalımından dolayı fiyat azalırsa ve fiyat geri yükselmez ise, fiyat yükselmediği için arz biraz daha düşerse - acaba sonsuz bir döngüye girer miyiz?
+Bitcoin ya da her tür token için aslında benzer bir risk söz konusu. Fiyat düşünce panik başlar, satışlar artar, sonra fiyat daha da düşer, daha da panik olur gibi.. Ancak geçmişte pek çok kez benzer düşüşleri yaşasa da, Bitcoin sonunda toparlandı. Ampleforth’da da bunu daha dramatik yaşama ihtimali var gibi görünüyor. Sadece fiyat değil, elinizdeki adet de azalıyor. Tamamen farklı alışık olmadığımız bir sistem deneyi. Fiyatın sonrasında geri geleceğine düşünenlerin argümanı şu: Fiyatın ve arzın çok düştüğü durumda tüm sistemin değeri dramatik olarak düşmüş olacak - dolayısı ile bu dışarıdan izleyenlerde ucuza alım fırsatı imkanı doğuracak. Öte taraftan tokeni elinde tutan kişiler fiyatın bu kadar düşmesi durumunda eğer sisteme inanıyorlar ise ellerindeki ürünleri ucuzdan satmak yerine beklemeyi tercih edecekler. 
+
+
 
 TEORİK PRATİK ÖRNEKLER, BAŞKA BENZER SENARYOLAR, TRADER'LARIN ETKİSİ, FİYATIN NASIL ÇIKACAĞINI NASIL ENSURE EDECEKSİNİZ?
 
-xxxxxxxxxx
+### Ampleforth'un vizyonu
 
 Ampleforth'un arzı ile oynamak suretiyle üçlü aşamalı bir vizyonu var aslında: 
 
 İlk aşama kısa vadede arz konusundaki bu değişiklik sayesinde portföyünde kripto varlık tutanlara risklerini dağıtmaya yardımcı olmak. Çıkış noktaları şu: Bitcoin piyasanın ağır ağabeyi olarak büyük bir ağırlığa sahip. Dolayısıyla piyasadaki bütün kripto paralar ağırlıklı olarak Bitcoin ile ortak hareket ediyorlar. Yani, Bitcoin artarsa artıyorlar, azalırsa azalıyorlar (genellikle bu artış ve azalışları daha uç noktalarda yaşıyorlar). Ampleforth yaratıcıları, paralarının ilk çıkış aşamasında öyle hemen stabil bir hâle gelmesini beklemiyorlar. Bunun yerine yarattıkları strateji sayesinde AMPL değerindeki değişimlerin diğer bütün kripto paralardan farklı şekilde yol alacağının bunun da poftföy yöneticilerine riski çeşitlendirerek azaltmak konusunda bir opsiyon sunacağını düşünüyorlar. 
 
-BITCOIN DOMINANCE CHART
-
+Değeri kendinden menkul paraların son 90 gün içindeki değer artış/azalış ilişkisini gösteren aşağıdaki tabloya bakıldığında bu düşüncelerinde çok da haksız sayılmazlar: 
 
 | ![AMPL_chart](/assets/AMPL_correlation_800_v2.png)|
 |:--:| 
-| *Değişik kripto paraların fiyat ilişkileri. 1 değeri birbiri ile aynı hareket eden paraları, 0 değeri ilgisiz, -1 değeri ise ters hareket eden paraları gösterir*|
+| *Değişik kripto paraların fiyat ilişkileri. 1 değeri birbiri ile aynı hareket eden paraları, 0 değeri ilgisiz, -1 değeri ise ters hareket eden paraları gösterir. Kaynak: [Ampleforth](https://www.ampleforth.org/dashboard)*|
 
 
 İkinci aşamada ise AMPL fiyatındaki başta yaşanan volatilitenin zaman geçtikçe azalması sonrası AMPL'nin artık bir rezerv para olarak kullanılabilmesini yaygınlaşması var. AMPL özünde Tether ya da DAI gibi itibari bir paraya bağlı bir para değil - Bitcoin benzeri kıymeti kendinden menkul ve bağımsız, sansürlenemez bir para. Bir yandan da itibari paraların merkez bankalarının hadsiz hudutsuz para basmalarından dolayı ciddi değer kaybetmeleri ve rezerv para fonksiyonlarının ortadan kalkmasını bekleyenler var. Dolayısıyla, rezerv para olarak sansüre uğramayacak tam anlamıyla kullanıcıların sahip olabileceği değeri büyük dalgalanmalar göstermeyen bir rezerv para olma hedefleri var. 
 
 Rezerv para ile kastedilen şu. Daha önceki bir yazımızda MakerDAO sistemi ile merkeziyetsiz olarak kişilerin kendilerine kredi yaratmasını anlatmıştık. Hatırlarsanız basitçe şöyle idi: Kişi sahip olduğu ETH'leri getirip teminat olarak veriyor, karşılığında DAI isimli ABD Doları'na çapalanmış bir stabil para yaratıyor yani borç alıyor. Ancak kredilerde en büyük sorun karşı parti riski - teminat da bunun için alınıyor, ya borç alan borcunu ödemez ise. Ancak teminat alınan ETH kendisi çok inişli çıkışlı bir para, kredi olarak alınan DAI ise gayet stabil bir para olduğu için, sistem riski azaltmak adına %150 oranında teminat istiyordu. 100 birim DAI alacaksanız 150 birime denk gelecek kadar ETH koymalısınız. Tekrar edelim, bu kadar yüksek bir teminat istenmesinin nedeni ETH'nin fiyatının yarın öbür gün ciddi değer kaybetmesi. Peki ya bunun yerine değerini aşağı yukarı koruyan bir para teminat olarak verilebilseydi? O zaman bu kadar yüksek bir teminat vermek, yani borç alan bu kadar yüksek bir teminatı sisteme kilitlemek zorunda kalmazdı. İşte Ampleforth, AMPL'yi ETH ya da Bitcoin gibi değeri kendinden menkul ama sabit bir para olarak DeFi yani merkeziyetsiz sistemlerde rezerv para olarak kullandırmayı hedefliyor. 
 
-Üçüncü aşamada ise kullanımın yaygınlaşması ve arzın artması ile birlikte artık geniş kitleler tarafından ödemeler için kullanılabilecek güvenli, bağımsız bir para olma hedefi var. Yani aslında bir nevi Satoshi'nin Bitcoin'e başlangıçta koyduğu vizyona ulaşmak. 
-
-
-Kısa vadede fiyat hareketleri nasıl gidiyor?
-Nelere dikkat etmek gerekiyor?
-
-
+Üçüncü aşamada ise kullanımın yaygınlaşması ve arzın artması ile birlikte artık geniş kitleler tarafından ödemeler için kullanılabilecek güvenli, bağımsız bir para olma hedefi var. Yani aslında bir nevi Satoshi'nin Bitcoin'e başlangıçta koyduğu vizyona ulaşmak. Uzun vadede yeterli büyüklüğe ulaşıldığında volatilitenin azalması ile birlikte paraya olan talebin ancak büyük makro ekonomik değişiklikler olması durumunda değişiklik göstereceğini, bunun da şimdiki gibi sık olmasa da yapılacak arz değişiklikleri ile yatırımcılara yansıtılacağını düşünüyorlar.  
 
 ### SONUC
 
@@ -94,4 +92,9 @@ Bunlar işin teknoloji yönünden getirilmeye çalışılan yenilikler. Kabul et
 İşte bu dalgalanma sorununu çözebilmek amacıyla itibari paralara çapalanmış stabil paralar çıkarıldı ve büyük de ilgi gördü. Ancak bu paraları çıkaranların ağırlıklı bir kısmının merkezi yapılar olması, ödemeler konusunda sorun çözse de merkezilik nedeniyle yeni sorunlar çıkardı. Yakın zamanda yaşadığımız Tether'in yapılmış işlemleri geçersiz hale getirebilme gücü (ki yakın zamanda gerçekleşen Kucoin hack'inde bunu yaptılar) kripto dünyasının bireylere en büyük faydası olarak da bilinen "dijital varlığa tamamıyle sahip olma" özelliğinin nasıl delik deşik edildiğinin de bir göstergesi aslında. 
 
 İşte bu nedenle, Bitcoin benzeri bağımsız, sansürsüz ama bir yandan da fiyat volatilitesi daha düşük kripto paralara bir ihtiyaç var gibi görünüyor. İşte Ampleforth bu sorunu çözmeye odaklanmış bir kripto para. 
+
+-- 
+
+#### Bu sistemde kimler kazanıyor, kimler kaybediyor?
+Sistemin şu aşamada henüz birinci aşamasındayız. Bu birinci aşama fiyatların henüz tam olarak oturmadığı bir zaman dilimi. Bu da spekülatif hareketlerden dolayı kazanç sağlanabildiği anlamına geliyor. Zaten sistem, fiyatların oturabimesi için fiyat artış ya da azalışlarında sistemdeki dengesizlik üzerine işlem yapıp kar sağlayacak spekülatörlerin desteğine ihtiyaç duyuyor. Burada da hız çok önemli. Ampleforth sistemi için yalnızca fiyat hareketine bakmak yetmiyor. Bunun yanında para arzının ne yöne gittiğini ve toplam sistem büyüklüğünü de iyi kestirmek gerekiyor. Yalnızca kestirmek değil aynı zamanda hızlı hareket edebilmek. Dolayısıyla, sistemi iyi bilen ve al-sat konusunda uzmanlaşmış olanların kar etme olasılığı daha yüksek.  Öte yandan, sistemin doğru çalışacağına inananlar için eğer Bitcoin'de olduğu gibi herhangi bir işlem yapmayıp tokenlarını ellerinden tutmaları durumunda, eğer beklentilerine uygun olarak AMPL sisteminin toplam değeri yükselir ise kar etme olasılıkları da aynı şekilde yükseliyor. Peki o zaman kim kaybediyor bu sistemde? Daha çok, ani fiyat hareketlerini tam olarak izleyemeyen işlem yapan ama geç kalanlar denebilir. 
 
