@@ -47,7 +47,7 @@ Ampleforth'un arzı ile oynamak suretiyle üçlü aşamalı bir vizyonu var asl�
 BITCOIN DOMINANCE CHART
 
 
-| ![AMPL_chart](/assets/AMPL_correlation_800.png)|
+| ![AMPL_chart](/assets/AMPL_correlation_800_v2.png)|
 |:--:| 
 | * Değişik kripto paraların fiyat ilişkileri. 1 değeri birbiri ile aynı hareket eden paraları, 0 değeri ilgisiz, -1 değeri ise ters hareket eden paraları gösterir*|
 
