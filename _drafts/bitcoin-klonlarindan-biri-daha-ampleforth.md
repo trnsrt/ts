@@ -2,41 +2,26 @@ Bugün sizlere geçtiğimiz aylarda ilk çıktığında büyük sükse yapan, so
 
 Gözden ırak olan gönülden de ırak olmaz mı? Neden zaman ayırıp bakalım? Çünkü kripto dünyası pek çok farklı değişkeni bir arada barındırıyor ve bu değişkenlerin her biri ile oynarak pek çok farklı deney yapılabiliyor. Çıkan her proje mevcut yaşanan bir derde deva olabildiği kadar beraberinde başka sorunlar getirebiliyor, ya da kullanıcılarda yeni ihtiyaçlar ortaya çıkarabiliyor. Neyse ki konumuz teknoloji ve özellikle yazılım kullanarak yaşanan sorunlara karşı yeni çözümler getirmek mümkün. Ampleforth da benzer şekilde mevcut bir soruna merkeziyetsiz bir çözüm getirmek hedefiyle ortaya çıkmış bir proje. Gelin bakalım nedir bu sıkıntı:
 
-### Bitcoin'in sıkıntısı
-
-Kripto dünyasında bugüne kadar kendini kanıtlama anlamında en ileriye gitmiş proje Bitcoin. On yılı aşkın bir süredir tıkır tıkır çalışıyor. Durdurmayı ya da sekteye uğratmayı başaran olmadı. Sıkıntıları yok mu var tabii. 
-
-Bitcoin ile ilgili pek çok sıkıntı sayabiliriz aslında - kişiden kişiye de değişir bu sıkıntıların neler olduğu. Teknolojik olarak yavaş evrilmesi (ki bunu bir sorun değil "gerekli bir özellik" olduğunu savunanlar da var), basitliği nedeniyle üzerine kurulacak yeni yapılara çok uygun olmaması genelde şikayetlerin başında gelir. 
-
-Teknolojik olarak yavaş evrilmesine verilen en kritik örneklerden biri kişiden kişiye ödemelerde çok da yaygınlık kazanamamış olması. Hem de Bitcoin'in tanıtım dokümanı (white paper) başlığının "[Bitcoin - Eşten-eşe Elektronik Nakit Sistemi](https://bitcoin.org/bitcoin.pdf)" olmasına rağmen. İşte bu nedenle Bitcoin savunucularının son yıllardaki argümanları daha çok onun bir Dijital Altın olduğu ve ödeme işlemlerinden ziyade değer saklama aracı olarak görülmesi gerektiğine evrilmiş durumda. 
-
-Bitcoin sorunları çözmek amacıyla sonrasında pek çok klonu çıktı. Sayı olarak [100'ün üzerinde]()https://atomicwallet.io/how-many-bitcoins-are-there. Aslında bunda şaşıracak bir durum da yok, zira açık kaynak bir uygulama olduğunuzda isteyen herkes oturup bir klonunu yaratabilir. Çok basit. Asıl zor olan, sisteminize inanmış bir topluluk yaratabilmek. İşte en başarılı Bitcoin klonunun bile (ki muhtemelen Bitcoin Cash'dir bu) en sıkıntı yaşadığı konu hep bu oldu. 
-
-Bitcoin klonları da genellikle bu ödeme özelliği perspektifinden rekabet etmeye çalışıyorlar. Ödeme konusunda Bitcoin'in neden yaygınlaşmadığına ilişkin teşhis ve tedavi yöntemleri de aslında bu klonların kendilerini farklılaştırma stratejilerinde ortaya çıkıyor. Litecoin örneğinde olduğu gibi her 10 dakikada bir uzlaşma yapmak yerine 2.5 dakikada bir yapmak, böylece işlemlerin teyidini hızlandırmak bunlardan biri. Ya da Bitcoin Cash örneğinde olduğu gibi Keza uzlaşma yapılan blok büyüklüğünü artırmak böylece yoğun işlem zamanlarında blokların dolmasında ötürü oluşacak gecikmeleri önlemek bir diğeri. Ve nihayet, Lightning Network gibi Bitcoin üzerine kurulu ikinci seviye çözümler ile blok zincirini daha az kullanarak maliyetleri azaltmak ve ufak ödemeler (örneğin kahve almak gibi) için kullanışlı hâle getirmek bir başkası çözüm örneği. 
-
-Bunlar işin teknoloji yönünden getirilmeye çalışılan yenilikler. Kabul etmemiz gereken bir gerçek var, o da Bitcoin'in genel olarak gündelik hayatımıza girememesinin en önemli nedenlerinden biri aslında fiyat olarak çok dalgalı olması. Bu dalgalanmalar kayıp ve kazanç anlamında riskleri de beraberinde getirdiği için Bitcoin'i alışveriş aracı olarak kullanmak imkansız. Zira alışverişte ihtiyaç duyulan adil ve değeri değişmeyen bir aracı kullanmak - ki tarafların kafası rahat olsun, asıl işlerine odaklanabilsinler. 
-
-İşte bu dalgalanma sorununu çözebilmek amacıyla itibari paralara çapalanmış stabil paralar çıkarıldı ve büyük de ilgi gördü. Ancak bu paraları çıkaranların ağırlıklı bir kısmının merkezi yapılar olması, ödemeler konusunda sorun çözse de merkezilik nedeniyle yeni sorunlar çıkardı. Yakın zamanda yaşadığımız Tether'in yapılmış işlemleri geçersiz hale getirebilme gücü (ki yakın zamanda gerçekleşen Kucoin hack'inde bunu yaptılar) kripto dünyasının bireylere en büyük faydası olarak da bilinen "dijital varlığa tamamıyle sahip olma" özelliğinin nasıl delik deşik edildiğinin de bir göstergesi aslında. 
-
-İşte bu nedenle, Bitcoin benzeri bağımsız, sansürsüz ama bir yandan da fiyat volatilitesi daha düşük kripto paralara bir ihtiyaç var gibi görünüyor. İşte Ampleforth bu sorunu çözmeye odaklanmış bir kripto para. 
-
 ### Nedir Ampleforth?
 
-Ampleforth bir deney - nihai hedefi sonunda olmak istediği alışverişte kullanılabilecek kadar stabil ancak Bitcoin benzeri değeri kendinden menkul bir para olmak. Ve bunu yaparken de hem stabil paraların hem de Bitcoin'in zayıf yanlarını güçlendirecek çözümler getirmeyi hedefliyor: 
-
+Ampleforth bir deney - nihai hedefi alışverişte kullanılabilecek kadar stabil ancak Bitcoin benzeri değeri kendinden menkul bir para olmak. Ve bunu yaparken de hem stabil paraların hem de Bitcoin'in zayıf yanlarını güçlendirecek çözümler getirmeyi hedefliyor: 
 
 #### Stabil paraların sıkıntısı
-Zaten piyasada yeterince stabil kripto para varken neden Ampleforth'a ihtiyaç olsun? Çünkü stabil paralar özünde bir itibari paraya bağlılar. İtibari paralar görünüşte değerlerini koruyor gibi görünselerde aslında uzun vadede sürekli değer kaybı yaşıyorlar. Amerika Birleşik Devletleri altını 1933 yılında onsu 35 ABD Dolarından halktan toplamıştı, şu anda altın 2,000 ABD doları seviyelerinde. Şimdi ABD Dolarının değerinin sabit kaldığını söyleyebilir misiniz? Öte yandan Bitcoin benzeri dış etkilerden etkilenmeyen kendinden menkul paralar da ise kısa vadede volatil olmaları sorunu var ki bu onu alışverişlerde kullanılması imkansız hale sokuyor. **İşte Ampleforth, Bitcoin gibi uzun vadede yatırımcısının varlığının artmasını sağlayacak ama bir yandan da stabil paralar gibi kısa vadede dengeli bir fiyattan ticaret yapmaya yarayacak bir para yaratma hedefinde.** 
+Zaten piyasada yeterince stabil kripto para varken neden Ampleforth'a ihtiyaç olsun? Çünkü stabil paralar özünde bir itibari paraya bağlılar. İtibari paralar görünüşte değerlerini koruyor gibi görünselerde aslında uzun vadede sürekli değer kaybı yaşıyorlar. Amerika Birleşik Devletleri altını 1933 yılında onsu 35 ABD Dolarından halktan toplamıştı, şu anda altın 2,000 ABD doları seviyelerinde. Şimdi ABD Dolarının değerinin sabit kaldığını söyleyebilir misiniz? 
+
+Ayrıca  bu paraları çıkaranların ağırlıklı bir kısmının merkezi yapılar olması, ödemeler konusunda sorun çözse de merkezilik nedeniyle yeni sorunlar çıkardı. Yakın zamanda yaşadığımız Tether'in yapılmış işlemleri geçersiz hale getirebilme gücü (ki yakın zamanda gerçekleşen Kucoin hack'inde bunu yaptılar) kripto dünyasının bireylere en büyük faydası olarak da bilinen "dijital varlığa tamamıyle sahip olma" özelliğinin nasıl delik deşik edildiğinin de bir göstergesi aslında. 
 
 #### Bitcoin'in sıkıntısı
-Bitcoin benzeri sınırlı arza sahip paraların teori olarak güzel. Ancak bu sınırlı arz değişken bir talep ile bir araya geldiğinde ortaya son derece oynak bir para çıkıyor. Bu kısıtlı arz uzun vadede son on yılda yaşanan fiyat artışının en önemli nedenlerinden biri sayıldı ancak kısa vadelerde oluşan oynaklık sinirleri zorlayacak seviyede. İşte Ampleforth, bu oynaklığı önlemek adına, talepte meydana gelebilecek değişimlerin fiyata radikal etki etmesinin önüne geçmek yani paranın değerini dengelemek için arzında esnek bir biçimde değişirilmesi prensibine dayanıyor. Hem de ne değiştirmek! Gelin biraz daha açalım bunu: 
+Bitcoin benzeri sınırlı arza sahip paralar teori olarak güzel: Değer anlamında hiçbir kuruma bağlı olmayan, tamamıyle bağımsız, sansüre karşı dayanıklı ve sınırlı arzı ile değerini teorik olarak koruması gereken bir para. Ancak bu sınırlı arz değişken talep ile bir araya geldiğinde ortaya son derece oynak bir para çıkıyor. Bu kısıtlı arz uzun vadede son on yılda yaşanan fiyat artışının en önemli nedenlerinden biri sayıldı ancak kısa vadelerde oluşan oynaklık sinirleri zorlayacak seviyede. 
 
-xxxxxxxx
+**İşte Ampleforth, Bitcoin gibi uzun vadede yatırımcısının varlığının artmasını sağlayacak ama bir yandan da stabil paralar gibi kısa vadede dengeli bir fiyattan ticaret yapmaya yarayacak bir para yaratma hedefinde.** 
 
 
 ### Nasıl çalışıyor Ampleforth?
 
-Ampleforth'un arzı değiştirdiğinden bahsetmiştik. Ancak bu arzı değiştirmek yalnızca yeni olarak piyasaya sürülecek olan paralara yönelik değil. Akıllı kontratlar marifetiyle, sizin elinizde olan paranın miktarını da değiştiriyorlar!
+İşte Ampleforth, bu oynaklığı önlemek adına, talepte meydana gelebilecek değişimlerin fiyata radikal etki etmesinin önüne geçmek yani paranın değerini dengelemek için para arzının esnek bir biçimde değişirilmesi prensibine dayanıyor. Hem de ne değiştirmek! Gelin biraz daha açalım bunu: 
+
+Ampleforth'un paranın arzını değiştiriyor. "Peki, ortaya çıkan paranın arzını azaltan artıran pekçok farklı parasal politikaya  sahip kripto para var zaten, ne var ki bunda?" Ancak kazın ayağı öyle değil. Ampleforth'da bu değişen arz yalnızca yeni olarak piyasaya sürülecek olan paralara yönelik değil. Akıllı kontratlar marifetiyle, sizin elinizde olan paranın miktarını da değiştiriyorlar!
 
 Ampleforth'da amaç paranın değerini belli bir seviyede tutmak. Seviye derken kastedilen, değerini belli bir hedefin %5 altı ya da üstündeki bir bantta hareket ediyor olması. Eğer değer bu bandın dışına çıkarsa o zaman Akıllı Kontrat devreye giriyor. Peki ne yapıyor bu kontrat? Diyelim değer bir anda arttı ve 1 dolar olan Ampleforth 2 dolara seviyesine geldi. Sizin elinizde 10 AMPL var ise bu paraların değeri de 10 ABD Dolarından 20 ABD Dolarına çıktı. Sistem sizin elinizde olan AMPL miktarını bir anda iki katına çıkarıyor. Dikkat edin, elinizdeki parayı almıyor, tam tersine artırıyor. Burada umulan, arzın bir anda iki katına çıkması ile birlikte değerin tekrar 1 dolar seviyesine düşmesi ve sizin elinizde yine 20 ABD Doları değer olması. Yani fiyat artışının varlığınızdaki değer artışı etkisi korunurken paranın değerinin aynı seviyede kalması. Bunu yapan kontratın ise tamamen dış manuel etki olmadan yazılı tarafından otomatik gerçekleştirildiğine de belirtelim. Nasıl, ilginç değil mi?
 
@@ -75,3 +60,25 @@ Nelere dikkat etmek gerekiyor?
 ### SONUC
 
 Ampleforth, Bitcoin sonrası ortaya çıkan kripto dünyasının geniş kitlelere yayılabilmesi için ortaya konan deneysel çözümlerden makro ekonomik para politikalarına odaklanan bir tanesi. Ekonomide teori olarak ortaya konan kavramların gerçek hayatta nasıl gelişeceğini göstermesi açısından ilginç bir deney. Nasıl gelişeceği, ne kadar yaygınlaşacağı, çıkan sorunlara nasıl adapte olacağı ve bir gün Bitcoin'e rakip olup olmayacağını ise bize önümüzdeki yıllar gösterecek. Hep dediğimiz gibi, bu heyecanlı bekleyişin sonunu hep birlikte göreceğiz. 
+
+
+---
+
+### Bitcoin'in sıkıntısı
+
+Kripto dünyasında bugüne kadar kendini kanıtlama anlamında en ileriye gitmiş proje Bitcoin. On yılı aşkın bir süredir tıkır tıkır çalışıyor. Durdurmayı ya da sekteye uğratmayı başaran olmadı. Sıkıntıları yok mu var tabii. 
+
+Bitcoin ile ilgili pek çok sıkıntı sayabiliriz aslında - kişiden kişiye de değişir bu sıkıntıların neler olduğu. Teknolojik olarak yavaş evrilmesi (ki bunu bir sorun değil "gerekli bir özellik" olduğunu savunanlar da var), basitliği nedeniyle üzerine kurulacak yeni yapılara çok uygun olmaması genelde şikayetlerin başında gelir. 
+
+Teknolojik olarak yavaş evrilmesine verilen en kritik örneklerden biri kişiden kişiye ödemelerde çok da yaygınlık kazanamamış olması. Hem de Bitcoin'in tanıtım dokümanı (white paper) başlığının "[Bitcoin - Eşten-eşe Elektronik Nakit Sistemi](https://bitcoin.org/bitcoin.pdf)" olmasına rağmen. İşte bu nedenle Bitcoin savunucularının son yıllardaki argümanları daha çok onun bir Dijital Altın olduğu ve ödeme işlemlerinden ziyade değer saklama aracı olarak görülmesi gerektiğine evrilmiş durumda. 
+
+Bitcoin sorunları çözmek amacıyla sonrasında pek çok klonu çıktı. Sayı olarak [100'ün üzerinde]()https://atomicwallet.io/how-many-bitcoins-are-there. Aslında bunda şaşıracak bir durum da yok, zira açık kaynak bir uygulama olduğunuzda isteyen herkes oturup bir klonunu yaratabilir. Çok basit. Asıl zor olan, sisteminize inanmış bir topluluk yaratabilmek. İşte en başarılı Bitcoin klonunun bile (ki muhtemelen Bitcoin Cash'dir bu) en sıkıntı yaşadığı konu hep bu oldu. 
+
+Bitcoin klonları da genellikle bu ödeme özelliği perspektifinden rekabet etmeye çalışıyorlar. Ödeme konusunda Bitcoin'in neden yaygınlaşmadığına ilişkin teşhis ve tedavi yöntemleri de aslında bu klonların kendilerini farklılaştırma stratejilerinde ortaya çıkıyor. Litecoin örneğinde olduğu gibi her 10 dakikada bir uzlaşma yapmak yerine 2.5 dakikada bir yapmak, böylece işlemlerin teyidini hızlandırmak bunlardan biri. Ya da Bitcoin Cash örneğinde olduğu gibi Keza uzlaşma yapılan blok büyüklüğünü artırmak böylece yoğun işlem zamanlarında blokların dolmasında ötürü oluşacak gecikmeleri önlemek bir diğeri. Ve nihayet, Lightning Network gibi Bitcoin üzerine kurulu ikinci seviye çözümler ile blok zincirini daha az kullanarak maliyetleri azaltmak ve ufak ödemeler (örneğin kahve almak gibi) için kullanışlı hâle getirmek bir başkası çözüm örneği. 
+
+Bunlar işin teknoloji yönünden getirilmeye çalışılan yenilikler. Kabul etmemiz gereken bir gerçek var, o da Bitcoin'in genel olarak gündelik hayatımıza girememesinin en önemli nedenlerinden biri aslında fiyat olarak çok dalgalı olması. Bu dalgalanmalar kayıp ve kazanç anlamında riskleri de beraberinde getirdiği için Bitcoin'i alışveriş aracı olarak kullanmak imkansız. Zira alışverişte ihtiyaç duyulan adil ve değeri değişmeyen bir aracı kullanmak - ki tarafların kafası rahat olsun, asıl işlerine odaklanabilsinler. 
+
+İşte bu dalgalanma sorununu çözebilmek amacıyla itibari paralara çapalanmış stabil paralar çıkarıldı ve büyük de ilgi gördü. Ancak bu paraları çıkaranların ağırlıklı bir kısmının merkezi yapılar olması, ödemeler konusunda sorun çözse de merkezilik nedeniyle yeni sorunlar çıkardı. Yakın zamanda yaşadığımız Tether'in yapılmış işlemleri geçersiz hale getirebilme gücü (ki yakın zamanda gerçekleşen Kucoin hack'inde bunu yaptılar) kripto dünyasının bireylere en büyük faydası olarak da bilinen "dijital varlığa tamamıyle sahip olma" özelliğinin nasıl delik deşik edildiğinin de bir göstergesi aslında. 
+
+İşte bu nedenle, Bitcoin benzeri bağımsız, sansürsüz ama bir yandan da fiyat volatilitesi daha düşük kripto paralara bir ihtiyaç var gibi görünüyor. İşte Ampleforth bu sorunu çözmeye odaklanmış bir kripto para. 
+
