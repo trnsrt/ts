@@ -22,7 +22,14 @@ Bunlar işin teknoloji yönünden getirilmeye çalışılan yenilikler. Kabul et
 
 ### Nedir Ampleforth?
 
-Ampleforth, makro ekonomik olarak bir deney aslında. Özü şuna dayanıyor. Bitcoin benzeri sınırlı arza sahip paraların teori olarak güzel. Ancak bu sınırlı arz değişken bir talep ile bir araya geldiğinde ortaya son derece oynak bir para çıkıyor. Bu kısıtlı arz uzun vadede son on yılda yaşanan fiyat artışının en önemli nedenlerinden biri sayıldı ancak kısa vadelerde oluşan oynaklık sinirleri zorlayacak seviyede. İşte Ampleforth, bu oynaklığı önlemek adına, talepte meydana gelebilecek değişimlerin fiyata radikal etki etmesinin önüne geçmek yani paranın değerini dengelemek için arzında esnek bir biçimde değişirilmesi prensibine dayanıyor. Hem de ne değiştirmek! Gelin biraz daha açalım bunu: 
+Ampleforth bir deney - nihai hedefi sonunda olmak istediği alışverişte kullanılabilecek kadar stabil ancak Bitcoin benzeri değeri kendinden menkul bir para olmak. Ve bunu yaparken de hem stabil paraların hem de Bitcoin'in zayıf yanlarını güçlendirecek çözümler getirmeyi hedefliyor: 
+
+
+#### Stabil paraların sıkıntısı
+Zaten piyasada yeterince stabil kripto para varken neden Ampleforth'a ihtiyaç olsun? Çünkü stabil paralar özünde bir itibari paraya bağlılar. İtibari paralar görünüşte değerlerini koruyor gibi görünselerde aslında uzun vadede sürekli değer kaybı yaşıyorlar. Amerika Birleşik Devletleri altını 1933 yılında onsu 35 ABD Dolarından halktan toplamıştı, şu anda altın 2,000 ABD doları seviyelerinde. Şimdi ABD Dolarının değerinin sabit kaldığını söyleyebilir misiniz? Öte yandan Bitcoin benzeri dış etkilerden etkilenmeyen kendinden menkul paralar da ise kısa vadede volatil olmaları sorunu var ki bu onu alışverişlerde kullanılması imkansız hale sokuyor. **İşte Ampleforth, Bitcoin gibi uzun vadede yatırımcısının varlığının artmasını sağlayacak ama bir yandan da stabil paralar gibi kısa vadede dengeli bir fiyattan ticaret yapmaya yarayacak bir para yaratma hedefinde.** 
+
+#### Bitcoin'in sıkıntısı
+Bitcoin benzeri sınırlı arza sahip paraların teori olarak güzel. Ancak bu sınırlı arz değişken bir talep ile bir araya geldiğinde ortaya son derece oynak bir para çıkıyor. Bu kısıtlı arz uzun vadede son on yılda yaşanan fiyat artışının en önemli nedenlerinden biri sayıldı ancak kısa vadelerde oluşan oynaklık sinirleri zorlayacak seviyede. İşte Ampleforth, bu oynaklığı önlemek adına, talepte meydana gelebilecek değişimlerin fiyata radikal etki etmesinin önüne geçmek yani paranın değerini dengelemek için arzında esnek bir biçimde değişirilmesi prensibine dayanıyor. Hem de ne değiştirmek! Gelin biraz daha açalım bunu: 
 
 xxxxxxxx
 
