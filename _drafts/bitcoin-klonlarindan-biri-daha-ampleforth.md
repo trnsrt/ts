@@ -33,6 +33,11 @@ Tabii yukarıdaki senaryodaki kritik nokta arzın iki katına çıkması durumun
 
 Bir de madalyonun öbür yüzü var. Eğer bir olay oldu da AMPL değeri 50 cent'e indi ise o zaman elinizdeki 10 AMPL'nin yarısı "uçuyor" ve sizde 5 AMPL kalıyor. Beklenen fiyatın bir anda 1 ABD Doları seviyesine çıkarak varlığınızın değerinin 5 ABD Doları kalması. Ama böyle bir senaryoda eğer fiyat 1 ABD Doları'na çıkmaz ise, varlığınız 10 ABD Doları'ndan 5 ABD Dolarına inmiyor, 2.5 ABD Dolarına iniyor.
 
+Burada temel olarak düşünülen toplam piyasa değerinin aynı kalması. Piyasa değeri dediğimiz hisse (ya da token) adedi ile hisse (ya da token) fiyatının çarpımı. Benzer şekilde sizin hissedar olarak varlığınız elinizdeki hisse adedi ile hisse fiyatının çarpımından oluşuyor. Sabit/stabil kripto paralar söz konusu olduğunda varlığınızın sabit kaldığını düşünüyorsunuz ama o kripto paranın bağlı oldukları itibari paralarda dış etkene bağlı olarak değer değişimlerine karşı korumasızsınız. Değeri kendinden menkul paralarda en azından itibari paralarda olduğu gibi devletlerin para politikalarından etkilenmiyorsunuz. Ama orada da fiyat değişimleri sizin varlığınızı etkiliyor. Peki, nasıl elinizde tuttuğunuz varlığın değerini değiştirmeden hisse fiyatını nasıl sabit tutarsınız? 
+
+Hisse (ya da token) fiyatını sabit tutmak neden önemli? Ancak değerin "gerçek" anlamda sabit olması durumunda bu para alım-satım ve ticaret için kullanılır. Ama ancak bu paranın değeri artıyor ise o zaman yatırımcılar tarafından rağbet görür. 
+
+
 TEORİK PRATİK ÖRNEKLER, BAŞKA BENZER SENARYOLAR, TRADER'LARIN ETKİSİ, FİYATIN NASIL ÇIKACAĞINI NASIL ENSURE EDECEKSİNİZ?
 
 xxxxxxxxxx
