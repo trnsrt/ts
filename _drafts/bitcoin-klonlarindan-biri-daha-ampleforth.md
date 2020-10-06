@@ -101,7 +101,7 @@ Geniş kitlelere yayılmasında teknik olarak belli engeller de olabilir bu arad
 
 ### Sonuç
 
-Ampleforth, Bitcoin sonrası ortaya çıkan kripto dünyasının geniş kitlelere yayılabilmesi için ortaya konan deneysel çözümlerden makro ekonomik para politikalarına odaklanan bir tanesi. Ekonomide teori olarak ortaya konan kavramların gerçek hayatta nasıl gelişeceğini göstermesi açısından ilginç bir deney. Nasıl gelişeceği, ne kadar yaygınlaşacağı, çıkan sorunlara nasıl adapte olacağı ve bir gün Bitcoin'e rakip olup olmayacağını ise bize önümüzdeki yıllar gösterecek. Hep dediğimiz gibi, bu heyecanlı bekleyişin sonunu hep birlikte göreceğiz. 
+Ampleforth, Bitcoin sonrası ortaya çıkan kripto dünyasının geniş kitlelere yayılabilmesi için ortaya konan deneysel çözümlerden makro ekonomik para politikalarına odaklanan bir tanesi. Ekonomide teori olarak ortaya konan kavramların gerçek hayatta nasıl gelişeceğini göstermesi açısından ilginç bir deney. Nasıl gelişeceği, ne kadar yaygınlaşacağı, çıkan sorunlara nasıl adapte olacağı ve bir gün Bitcoin'e rakip olup olmayacağını ise bize önümüzdeki yıllar gösterecek. Hep dediğimiz gibi, bu heyecanlı sonu merakla bekliyoruz. 
 
 
 ---
