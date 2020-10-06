@@ -96,7 +96,7 @@ AMPL'nin son üç aylık toplam değer, arz ve AMPL fiyat hareketlerine baktığ
 
 | ![AMPL_volatility](/assets/ampleforth_price_supply_mcap_v2_1200.png)|
 |:--:| 
-| *Ampleforth sistem değeri (mavi çizgi), toplam AMPL miktarı (kırmızı çizgi) ve AMPL fiyat hareketi (yeşil çizgi). Aşağıda görünen üç kesik çizgi AMPL'nin sistem tarafından izin verilen alt ve üst bandlarını gösteriyor. Kaynak: [Ampleforth](https://www.ampleforth.org/dashboard)*|
+| *Ampleforth sistem değeri (mavi çizgi), toplam AMPL miktarı (kırmızı çizgi) ve AMPL fiyat hareketi (yeşil çizgi). Aşağıda görünen üç kesik çizgi AMPL tokenin sistem tarafından izin verilen hedef 1 ABD Doları çevresindeki alt ve üst bandlarını gösteriyor. Kaynak: [Ampleforth](https://www.ampleforth.org/dashboard)*|
 
 
 Bu arada şunu da hemen belirtelim. Bir DeFi projesi olarak Ampleforth şu aşamada bu alanın en yaygın kullanılan ağı olan Ethereum'u kullanıyor - yani AMPL özünde ERC 20 standardı ile çalışan bir token. Yarın öbür gün, aynı Tether örneğinde olduğu gibi AMPL'nin başka Blockchain altyapılarında da yer almasının önünde herhangi bir engel yok. AMPL kendini Blockchain bağımsız bir ürün olarak konumlandırıyor. Mevcut para politikası ve havuzunun içinde yer aldığı sürece her tür Blockchain içinde token çıkarabilir.  
