@@ -22,19 +22,19 @@ Bitcoin benzeri sınırlı arza sahip paralar teori olarak güzel: Değer anlam�
 
 ### Nasıl çalışıyor Ampleforth?
 
-İşte Ampleforth, bu oynaklığı önlemek adına, talepte meydana gelebilecek değişimlerin fiyata radikal etki etmesinin önüne geçmek yani paranın değerini dengelemek için para arzının esnek bir biçimde değişirilmesi prensibine dayanıyor. Hem de ne değiştirmek! Gelin biraz daha açalım bunu: 
+Ampleforth, fiyat tarafında görülen oynaklığı önlemek adına, talepte meydana gelebilecek değişimlerin fiyata radikal etki etmesinin önüne geçmek yani paranın değerini dengelemek için paranın arzının değişirilmesi prensibine dayanıyor. Hem de ne değiştirmek! Gelin biraz daha açalım bunu: 
 
-Ampleforth otomatik olarak çalışan bir algoritma. Algoritmanın tek bir hedefi var: O da sistemin parası AMPL'yi sabit bir değerde tutmak. Bu değer 2019 yılında yılındaki 1 ABD Doları. Şu an için de enflasyon giydirilmiş olarak 1.019 ABD Doları seviyesinde. 
+Ampleforth otomatik olarak çalışan bir algoritma - insan eli değmiyor, "kod kanun" bir başka deyişle. **Algoritmanın tek bir hedefi var: O da sistemin parası AMPL'yi sabit bir değerde tutmak.** Bu değer 2019 yılındaki 1 ABD Dolarına eşitlenmiş. Şu an için enflasyon giydirilmiş olarak 1.019 ABD Doları seviyesinde. 
 
-Bir sistemin parasını sabit tutup nasıl yatırımcıların ilgisini çekebilirsiniz? İşte burada yatırım ile ilgili klasik metodolojimizi yeniden gözden geçirmekte fayda var:
+Bir sistemin parasını sabit tutup nasıl yatırımcıların ilgisini çekebilirsiniz? İşte burada yatırım ile ilgili kafamızdaki klasik kalıpları yeniden gözden geçirmekte fayda var:
 
-Bir yatırıma sahip olduğumuzda elimizdeki varlığın değeri, o yatırım içindeki payımızın (hisse ya da token) her bir payın değeri ile çarpılması ile ortaya çıkar. Genelde yatırım içindeki payımız (alım ya da satım yapmadığımız varsayalım bir an) sabit olduğu için varlığımızın değerinin artıp azalışını hisse değerindeki hareketlerden çıkarırız. Bir nevi hissenin değeri bizim varlığımızın değerini bulmamızda bize kısa yol olur. 
+Bir yatırım yaptığımızda elimizdeki varlığın değeri, toplam yatırım içindeki payımızın (buna hisse ya da token diyelim), her bir payın değeri ile çarpılması ile ortaya çıkar. Genelde yatırım içindeki payımız sabit olduğu için varlığımızın değerinin artıp azalışını hisse değerindeki hareketlerden çıkarırız (bir an için alım ya da satım yapmadığımızı varsayalım) . Bir nevi hissenin değeri bizim varlığımızın değerini bulmamızda bize 'kısa yol' olur. 
 
-Ama Ampleforth, payın (yani tokenin) değerini sabit tutmak istiyor. Nasıl olacak o zaman? Diyelim bir anda varlığa bir talep oldu, insanlar deli gibi almaya başladılar. Fiyat nasıl aynı kalacak? Kalmalı mı? Token değerini sabit tutmak ile varlığın değerini artırmak birbiri ile çelişiyor mu? İşte burada, yukarıdaki paragraftaki önyargımızı bir kenara bırakma vakti geliyor. Bakmamız gereken tüm sistem değeri ve bizim onun içindeki payımızın değeri. Hissenin değeri değil. Peki nasıl olacak bu? Toplam değerin iki çarpanı var demiştik. Pay adedi ve her bir payın değeri. Eğer tüm sistemin değeri değişecek ise ve payın değerini artıramıyor isek o zaman pay adedini artırırız!
+Ama Ampleforth, her bir payın (yani tokenin) değerini sabit tutmak istiyor. Nasıl olacak o zaman? Diyelim bir anda varlığa bir talep oldu, insanlar deli gibi AMPL almaya başladılar. Fiyat nasıl aynı kalacak? Kalmalı mı? Token değerini sabit tutmak ile varlığın değerini artırmak birbiri ile çelişiyor mu? İşte burada, yukarıdaki paragraftaki önyargımızı bir kenara bırakalım. Bakmamız gereken tüm sistem ve bizim onun içindeki payımızın değeri. Hissenin değeri değil. Peki nasıl olacak bu? Toplam değerin iki çarpanı var demiştik. Pay adedi ve her bir payın değeri. Eğer tüm sistemin değeri değişecek ise ve payın değerini artırmak istemiyorsak o zaman pay adedini artırırız!
 
 Ezberlerimizi yeterince bozduk mu? :) 
 
-Sistemin nasıl çalışacağını da bir örnek üzerinden anlatalım: 
+Sistemin nasıl çalışacağını gelin bir de örnek üzerinden anlatalım: 
 
 #### AMPL token fiyat yükselirse ne oluyor?
 
