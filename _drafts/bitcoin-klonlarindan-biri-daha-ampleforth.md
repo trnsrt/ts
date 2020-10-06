@@ -80,7 +80,7 @@ Yani tekrar edecek olursak, **yatırımcılar AMPL'nin sabit değerli bir para o
 
 Ampleforth'un arzı ile oynamak suretiyle üçlü aşamalı bir vizyonu var aslında: 
 
-İlk aşama kısa vadede portföyünde kripto varlık tutanlara risklerini dağıtmaya yardımcı olmak. Çıkış noktaları şu: Bitcoin piyasanın büyüğü olarak büyük bir ağırlığa sahip. 
+İlk aşama kısa vadede portföyünde kripto varlık tutanlara risklerini dağıtmaya yardımcı olmak. Çıkış noktaları şu: Bitcoin piyasanın büyüğü olarak yüksek bir ağırlığa sahip. 
 
 | ![BTC_dominance](/assets/bitcoin_dominance_v2_800.png)|
 |:--:| 
