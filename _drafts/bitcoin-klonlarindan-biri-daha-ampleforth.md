@@ -48,7 +48,7 @@ Aslına bakarsanız, AMPL sisteminin yapmaya çalıştığı, paranın arzını 
 
 Bir başka bakış açısından, **sistem kendi içinde talebin değişmesinden dolayı oluşabilecek fiyat hareketlerindeki volatilite yükünü, arzı değiştirerek fiyattan yani sistemden alıp, yatırımcıya geçiriyor**. Bir önceki paragrafı tekrar edelim: Arzı değiştiriyor, dolayısıyla yatırımcılar hisse fiyatındaki değişimin daha da fazlasını varlıklarındaki değişimlerde hissedip daha hızlı bir şekilde aksiyon alıyorlar, bu da hisse fiyatını eski haline döndürüyor. 
 
-### Peki ya fiyat düşerse?
+#### Peki ya fiyat düşerse?
 
 Tabii bir de madalyonun öbür yüzü var. Ya, talepte bir azalma olur ve token değeri bir anda düşerse? Diyelim, bir hareket ile hisse değeri %50 değer kaybetti ve 1 AMPL 0.5 ABD Doları'na eşit hale geldi. 
 
@@ -88,7 +88,7 @@ Bu arada şunu da hemen belirtelim. Bir DeFi projesi olarak Ampleforth şu aşam
 
 Geniş kitlelere yayılmasında teknik olarak belli engeller de olabilir bu arada. Özellikle merkezi borsalarda işlem görmek yaygınlaşma için önemli. Ancak böyle bir durumda, müşteri cüzdanlarının merkezi borsalarda nasıl işleneceği teknik bir sorun olabilir gibi görünüyor - özellikle de kullanıcıların verdikleri emirler gerçekleşmeden önce yapılan para arzı artışı ya da kısıtlamaların müşteri cüzdanlarına nasıl yansıtılacağı konusunda. 
 
-### SONUC
+### Sonuç
 
 Ampleforth, Bitcoin sonrası ortaya çıkan kripto dünyasının geniş kitlelere yayılabilmesi için ortaya konan deneysel çözümlerden makro ekonomik para politikalarına odaklanan bir tanesi. Ekonomide teori olarak ortaya konan kavramların gerçek hayatta nasıl gelişeceğini göstermesi açısından ilginç bir deney. Nasıl gelişeceği, ne kadar yaygınlaşacağı, çıkan sorunlara nasıl adapte olacağı ve bir gün Bitcoin'e rakip olup olmayacağını ise bize önümüzdeki yıllar gösterecek. Hep dediğimiz gibi, bu heyecanlı bekleyişin sonunu hep birlikte göreceğiz. 
 
