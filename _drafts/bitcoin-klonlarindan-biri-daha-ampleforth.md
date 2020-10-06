@@ -19,7 +19,38 @@ Bitcoin benzeri sınırlı arza sahip paralar teori olarak güzel: Değer anlam�
 
 ### Nasıl çalışıyor Ampleforth?
 
+
 İşte Ampleforth, bu oynaklığı önlemek adına, talepte meydana gelebilecek değişimlerin fiyata radikal etki etmesinin önüne geçmek yani paranın değerini dengelemek için para arzının esnek bir biçimde değişirilmesi prensibine dayanıyor. Hem de ne değiştirmek! Gelin biraz daha açalım bunu: 
+
+Ampleforth otomatik olarak çalışan bir algoritma. Algoritmanın tek bir hedefi var: O da sistemin parası AMPL'yi sabit bir değerde tutmak. Bu değer 2019 yılında yılındaki 1 ABD Doları. Şu an için de enflasyon giydirilmiş olarak 1.019 ABD Doları seviyesinde. 
+
+Bir sistemin parasını sabit tutup nasıl yatırımcıların ilgisini çekebilirsiniz? İşte burada yatırım ile ilgili klasik metodolojimizi yeniden gözden geçirmekte fayda var:
+
+Bir yatırıma sahip olduğumuzda elimizdeki varlığın değeri, o yatırım içindeki payımızın (hisse ya da token) her bir payın değeri ile çarpılması ile ortaya çıkar. Genelde yatırım içindeki payımız (alım ya da satım yapmadığımız varsayalım bir an) sabit olduğu için varlığımızın değerinin artıp azalışını hisse değerindeki hareketlerden çıkarırız. Bir nevi hissenin değeri bizim varlığımızın değerini bulmamızda bize kısa yol olur. 
+
+Ama Ampleforth, payın (yani tokenin) değerini sabit tutmak istiyor. Nasıl olacak o zaman? Diyelim bir anda varlığa bir talep oldu, insanlar deli gibi almaya başladılar. Fiyat nasıl aynı kalacak? Kalmalı mı? Token değerini sabit tutmak ile varlığın değerini artırmak birbiri ile çelişiyor mu? İşte burada, yukarıdaki paragraftaki önyargımızı bir kenara bırakma vakti geliyor. Bakmamız gereken tüm sistem değeri ve bizim onun içindeki payımızın değeri. Hissenin değeri değil. Peki nasıl olacak bu? Toplam değerin iki çarpanı var demiştik. Pay adedi ve her bir payın değeri. Eğer tüm sistemin değeri değişecek ise ve payın değerini artıramıyor isek o zaman pay adedini artırırız!
+
+Ezberlerimizi yeterince bozduk mu? :) 
+
+Sistemin nasıl çalışacağını da bir örnek üzerinden anlatalım: 
+
+Varsayalım, 1 AMPL 1 ABD Dolarına eşit ve yatırımcımızın da 100 AMPL'si var, yani 100 ABD Doları. Bir anda piyasalarda AMPL'ye talep oldu ve AMPL fiyatı 1.5 AMPL'ye çıktı. İşte o zaman algoritma otomatik olarak devreye giriyor ve her bir AMPL karşılığı yatırımcılara 0.5 AMPL daha veriyor. Yatırımcımızın artık 150 AMPL'si var.  
+
+Buraya kadar herşey otomatik el değmeden çalıştı. Bundan sonrasında sistem, piyasanın davranışsal davranacağını düşünüyor. Ne demiştik, hedef AMPL'nin 1 ABD Doları'na geri dönmesi. Bu hareketin arkasında yatan düşünce şu: Eğer bir anda insanların elindeki varlık, 1 ABD Doları iken, fiyat artışından dolayı 1.5 ABD Doları'na, sonrasında AMPL artışından dolayı 1.5 AMP x 1.5 AMPL = 2.25 ABD Doları'na çıkarsa, insanlar özellikle al-sat yapanlar, kârı realize etmek için ellerindeki AMPL'yi satarlar. Nereye kadar, fiyat tekrar 1 AMPL'ye dönene kadar. 
+
+Böyle olunca ne oldu? Hızlı hareket eden al-satçılar ciddi bir para kazandılar. Sistemin buna bir itirazı yok - zira sistemin istediği AMPL fiyatının tekrar 1 ABD Doları'na dönmesi. Peki alım satım yapmayıp ellerinde tutanlar? Onlar da aslında zarar etmediler. Yukarıdaki yatırımcımızın başlangıçtaki varlığı 100 dolar idi, sonra sistem onlara AMPL verdiği için ellerinde 150 AMPL oldu ve ilk anda 225 ABD Dolarına eşitti ancak fiyat tekrar 1 ABD Dolar seviyesine geldiğinde son durumda varlığı 150 ABD Doları'na çıktı. %50 kâzancı elde etti. 
+
+Aslına bakarsanız, AMPL sisteminin yapmaya çalıştığı, paranın arzını artırarak yatırımcıların aksiyonlarına etkiyi büyütmek ve onların daha hızlı reaksiyon vermesini sağlamak. Biraz açalım bu dediğimizi: Diyelim aldığınız bir tokenda %60 kazanç beklentiniz var, eğer token size %60 kazandırırsa yeterli olduğunu düşünüp satarsınız. Yukarıdaki senaryoda eğer para arzı sabit kalsa idi, fiyat %50 arttığından dolayı satmayacaktınız. Ama elinizdeki tokenların sayısı da artınca toplam kazancınız bir anda %125'e çıktı, hemen harekete geçip satmaz mısınız? Sizin gibi satmaya başlayanlar olacaktır, bunun sonucu fiyat düşer ama hâlâ kazanç yüksek olduğu için bekletinizin gerçekleşeği rakama kadar satamaya devam edersiniz. 
+
+Bir başka bakış açısından, **sistem kendi içinde talebin değişmesinden dolayı oluşabilecek fiyat hareketlerindeki volatiliteyi, arzı değiştirerek fiyattan yani sistemden alıp, yatırımcıya veriyor**. Arzı değiştiriyor, dolayısıyla yatırımcılar hisse fiyatındaki değişimin daha da fazlasını varlıklarındaki değişimlerde hissedip daha hızlı bir şekilde aksiyon alıyorlar, bu da hisse fiyatını eski haline döndürüyor. 
+
+### Peki ya fiyat düşerse?
+
+Tabii bir de madalyonun öbür yüzü var. Ya, talepte bir azalma olur ve token değeri bir anda düşerse? Diyelim, bir hareket ile hisse değeri %50 değer kaybetti ve 1 AMPL 0.5 ABD Doları'na eşit hale geldi. 
+
+İşte orada da sistem tam tersi çalışıyor. Yatırımcıların cüzdanlarındaki AMPL'lerin yarısını ellerinden alıyor! Yok artık! Evet, aynen öyle. Niye? Aslında mantık yukarıda anlattığımızın aynısı. Sistem şöyle düşünüyor: "Ampleforth'un toplam sistem değeri düşüyor - olabilir ama bu beni ilgilendirmiyor. Beni ilgilendiren 1 AMPL'nin tekrar 1 ABD Doları'na denk hale gelmesi. İnsanlar satıyor AMPL'leri, demek ki piyasada AMPL bolluğu var. Ben bu AMPL'leri piyasadan çekersem hem arz azalmış olacak, hem de AMPL sistem değeri düştüğü için ucuzlamış olacak. Bunu gören yatırımcılar nasıl hisse değeri düştüğünde o hisseyi almaya çalışıyorlarsa burada da AMPL sistem değeri kat be kat düştüğü için almaya koşacaklar. 
+
+Yukarıdaki örnekten devam edersek. Başlangıçta 100 ABD Dolarına eş 100 AMPL vardı elinizde. Token değer kaybedince varlığınız önce 100 AMPL x 0.5 cent = 50 ABD Doları seviyesine düştü. Sonra bir de sistem elinizdeki AMPL'lerin yarısını aldı, dolayısıyla varlığınız bir anda geçici olarak 50 AMPL x 0.5 cent = 25 ABD Doları'na geriledi. Sizin sistem içindeki payınız hiç değişmedi. AMPL sistemi değer kaybetti. AMPL kendi içinde %50 değer kaybetti ancak tüm sistem %75 değer kaybetmiş oldu. Bu kadar ucuzlamış bir sistemi almak için üşüşen yatırımcılardan dolayı AMPL tekrar değer kazandı, nereye kadar? Dengenin oturacağı 1 AMPL = 1 ABD Doları seviyesine kadar. O zaman son durumda varlığınız ne oldu? 50 AMPL x 1 ABD Doları = 50 ABD Doları.  Varlığınız değer kaybetti mi? Gayet tabii - zira talep azaldığı için zaten başta kaybetmiştiniz onu. Geçici olarak arz kısılmasından dolayı daha da kaybettiniz ama en sonunda %50 kaybettiğiniz ilk noktaya döndünüz. 
 
 Ampleforth'un paranın arzını değiştiriyor. "Peki, ortaya çıkan paranın arzını azaltan ya da artıran pekçok farklı parasal politikaya  sahip kripto para var zaten, ne var ki bunda?" Ancak kazın ayağı öyle değil. Ampleforth'da bu değişen arz yalnızca yeni olarak piyasaya sürülecek olan paralara yönelik değil. Akıllı kontratlar marifetiyle, sizin cüzdanınızdaki paranın miktarını da değiştiriyorlar!
 
