@@ -88,7 +88,7 @@ Rezerv para ile kastedilen şu. Daha önceki bir yazımızda MakerDAO sistemi il
 
 AMPL'nin son üç aylık toplam değer, arz ve AMPL fiyat hareketlerine baktığımızda ise, volatilitenin azalması alanında daha almaları gereken çok yol olduğu kesin: 
 
-| ![AMPL_volatility](/assets/ampleforth_price_supply_macap_1200.png)|
+| ![AMPL_volatility](/assets/ampleforth_price_supply_mcap_v2_1200.png)|
 |:--:| 
 | *Ampleforth sistem değeri (mavi çizgi), toplam AMPL miktarı (kırmızı çizgi) ve AMPL fiyat hareketi (yeşil çizgi). Aşağıda görünen üç kesik çizgi AMPL'nin sistem tarafından izin verilen alt ve üst bandlarını gösteriyor. Kaynak: [Ampleforth](https://www.ampleforth.org/dashboard)*|
 
