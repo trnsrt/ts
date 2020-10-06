@@ -21,7 +21,7 @@ Bitcoin benzeri sınırlı arza sahip paralar teori olarak güzel: Değer anlam�
 
 | ![BTC_price](/assets/BTC_price_coingecko_800.png)|
 |:--:| 
-| *BTC'nin baş döndürücü dalgaları  Kaynak: [Coingecko](https://www.coingecko.com/en/coins/bitcoin)*|
+| *BTC'nin baş döndürücü dalgaları.  Kaynak: [Coingecko](https://www.coingecko.com/en/coins/bitcoin)*|
 
 
 **İşte Ampleforth, bir yandan Bitcoin gibi uzun vadede yatırımcısına değeri artacak bir varlık sunarken, diğer yandan stabil paralar gibi kısa vadede değeri değişmeyen ve bu sayede alışverişlerde kullanılabilecek bir para yaratma hedefinde.** 
