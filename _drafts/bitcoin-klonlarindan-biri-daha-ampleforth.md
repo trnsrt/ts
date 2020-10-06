@@ -40,7 +40,7 @@ Ezberlerimizi yeterince bozduk mu? :)
 
 Sistemin nasıl çalışacağını gelin bir de örnek üzerinden anlatalım: 
 
-#### AMPL token fiyat yükselirse ne oluyor?
+#### AMPL token fiyatı yükselirse ne oluyor?
 
 Varsayalım, 1 AMPL 1 ABD Dolarına eşit ve yatırımcımızın da 100 AMPL'si var, yani 100 ABD Dolarına eş bir varlık. Bir anda piyasalarda AMPL'ye talep oldu ve AMPL fiyatı 1.5 AMPL'ye çıktı. İşte o zaman algoritma otomatik olarak devreye giriyor ve her bir AMPL karşılığı yatırımcılara 0.5 AMPL daha veriyor. Yatırımcımızın artık 150 AMPL'si var.  
 
