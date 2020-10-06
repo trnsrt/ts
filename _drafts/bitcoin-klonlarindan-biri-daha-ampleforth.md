@@ -65,9 +65,9 @@ Ampleforth'un arzı ile oynamak suretiyle üçlü aşamalı bir vizyonu var asl�
 
 https://coincodex.com/market-overview/
 
-| ![BTC_dominance](/assets/bitcoin_dominance_800.png)|
+| ![BTC_dominance](/assets/bitcoin_dominance_v2_800.png)|
 |:--:| 
-| *Bitcoin'in kripto dünyasındaki ağırlığı. Sarı çizgi Bitcoin - şu ara %60 seviyesinde.  Kaynak: [Coincodex](https://coincodex.com/market-overview/)*|
+| *Bitcoin'in kripto dünyasındaki ağırlığı - şu ara %60 seviyesinde.  Kaynak: [Coincodex](https://coincodex.com/market-overview/)*|
 
 
 Dolayısıyla piyasadaki bütün kripto paralar ağırlıklı olarak Bitcoin ile ortak hareket ediyorlar. Yani, Bitcoin artarsa artıyorlar, azalırsa azalıyorlar (genellikle bu artış ve azalışları daha uç noktalarda yaşıyorlar). Ampleforth yaratıcıları, paralarının ilk çıkış aşamasında öyle hemen stabil bir hâle gelmesini beklemiyorlar. Bunun yerine yarattıkları strateji sayesinde AMPL değerindeki değişimlerin diğer bütün kripto paralardan farklı şekilde yol alacağının bunun da poftföy yöneticilerine riski çeşitlendirerek azaltmak konusunda bir opsiyon sunacağını düşünüyorlar. 
