@@ -1,6 +1,6 @@
 Bugün sizlere geçtiğimiz aylarda ilk çıktığında büyük sükse yapan, sonrasında ardına ardına gelen yeni girişimlerin de etkisiyle ana sahneden uzaklaşan ilginç bir DeFi projesinden bahsedelim. 
 
-Gözden ırak olan gönülden de ırak olmaz mı? Neden zaman ayırıp bakalım? Çünkü kripto dünyası şu anda emekleme aşamasında. İçinde o kadar farklı ve ilginç dinamikler ve değişkenler taşıyor ki bunların her biri ile oynarak pek çok farklı deney yapılabiliyor. Çıkan her proje yaşanmakta olan bir derde deva olabildiği kadar beraberinde başka sorunlar getirebiliyor, ya da kullanıcılarda yeni ihtiyaçlar ortaya çıkarabiliyor. Ampleforth da benzer şekilde mevcut bir soruna merkeziyetsiz bir çözüm getirmek hedefiyle ortaya çıkmış bir proje. Gelin bakalım neymiş:
+Gözden ırak olan gönülden de ırak olmaz mı? Neden zaman ayırıp bakalım? Çünkü kripto dünyası şu anda emekleme aşamasında. İçinde o kadar farklı ve ilginç dinamikler ve değişkenler taşıyor ki bunların her biri ile oynarak pek çok farklı deney yapılabiliyor. Çıkan her proje yaşanmakta olan bir derde deva olabildiği kadar beraberinde başka sorunlar getirebiliyor, ya da kullanıcılarda yeni ihtiyaçlar ortaya çıkarabiliyor. İşte bu yazımızın konusu olan [Ampleforth](https://www.ampleforth.org/) da benzer şekilde mevcut bir soruna merkeziyetsiz bir çözüm getirmek hedefiyle ortaya çıkmış bir proje. Gelin bakalım neymiş:
 
 ### Nedir Ampleforth?
 
@@ -24,7 +24,7 @@ Bitcoin benzeri sınırlı arza sahip paralar teori olarak güzel: Değer anlam�
 
 Ampleforth, fiyat tarafında görülen oynaklığı önlemek adına, talepte meydana gelebilecek değişimlerin fiyata radikal etki etmesinin önüne geçmek yani paranın değerini dengelemek için paranın arzının değişirilmesi prensibine dayanıyor. Hem de ne değiştirmek! Gelin biraz daha açalım bunu: 
 
-Ampleforth otomatik olarak çalışan bir algoritma - insan eli değmiyor, "kod kanun" bir başka deyişle. **Algoritmanın tek bir hedefi var: O da sistemin parası AMPL'yi sabit bir değerde tutmak.** Bu değer 2019 yılındaki 1 ABD Dolarına eşitlenmiş. Şu an için enflasyon giydirilmiş olarak 1.019 ABD Doları seviyesinde. 
+Ampleforth otomatik olarak çalışan bir algoritma - insan eli değmiyor, "kod kanun" bir başka deyişle. **Algoritmanın tek bir hedefi var: O da sistemin parası AMPL'yi sabit bir değerde tutmak.** Bu değer 2019 yılındaki 1 ABD Dolarına eşitlenmiş. Şu an için enflasyon giydirilmiş [olarak 1.019 ABD Doları seviyesinde](https://www.ampleforth.org/dashboard/). 
 
 Bir sistemin parasını sabit tutup nasıl yatırımcıların ilgisini çekebilirsiniz? İşte burada yatırım ile ilgili kafamızdaki klasik kalıpları yeniden gözden geçirmekte fayda var:
 
