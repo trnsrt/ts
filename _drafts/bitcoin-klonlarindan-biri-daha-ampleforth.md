@@ -26,6 +26,8 @@ Peki nasıl bir taşla iki kuş vuracak? Anlatalım:
 
 Ampleforth, fiyat tarafında görülen oynaklığı önlemek adına, talepte meydana gelebilecek değişimlerin fiyata radikal etki etmesinin önüne geçmek yani paranın değerini dengelemek için paranın arzının değişirilmesi prensibine dayanıyor. Hem de ne değiştirmek! Gelin biraz daha açalım bunu: 
 
+#### Önce bir zihnimizi açıp, ezber bozalım
+
 Ampleforth otomatik olarak çalışan bir algoritma - insan eli değmiyor, "kod kanun" bir başka deyişle. **Algoritmanın tek bir hedefi var: O da sistemin parası AMPL'yi sabit bir değerde tutmak.** Bu değer 2019 yılındaki 1 ABD Dolarına eşitlenmiş. Şu an için enflasyon giydirilmiş [olarak 1.019 ABD Doları seviyesinde](https://www.ampleforth.org/dashboard/). 
 
 Bir sistemin parasını sabit tutup nasıl yatırımcıların ilgisini çekebilirsiniz? Öyle ya, hisse değeri sabit kalırsa benim varlığımın değeri de aynı kalır. İşte burada yatırım ile ilgili kafamızdaki klasik kalıpları şöyle bir yeniden gözden geçirmekte fayda var:
