@@ -44,3 +44,61 @@ Uniswap'ın birebir klonlanmış benzerleri olan bu sistemler, üzerien Curve ya
 
 Ancak bunlarla da sınırlı değil yapabildikleriniz. İleride üzerinde daha da duracağız ama örneğin gerçek dünyada kurduğunuz kanuni yapıların (anonim şirket, kooperatif gibi) benzerlerini ama bu sefer arada sınırlar olmadan yüzlerce kişi ile birlikte kurabiliyorsunuz. Üstelik sudan ucuz bir fiyata. Bu yapıları nasıl yönetebileceğiniz konusunda alternatifler sınırsız. Aradaki anlaşmazlıkların nasıl çözüleceği konusunda "kod kanundur" düsturundan gelen Akıllı Kontratları kullanabileceğiniz gibi, arada uyuşmazlık olduğunda size arabulucu ya da mahkeme hizmeti veren (tamamen merkeziyetsiz) hizmetler bile mümkün bu yapılarda. 
 Şu anda hayal, ya da oyuncak gibi görünen bu yapılar bir gün gerçek olacak mı? Bugünden kestirmek zor. Ama hep yazdığımız gibi yapılabilecekleri düşünmek bile çok ama çok heyecan verici.. 
+
+---
+
+
+---
+
+### Bitcoin'in sıkıntısı
+
+Kripto dünyasında bugüne kadar kendini kanıtlama anlamında en ileriye gitmiş proje Bitcoin. On yılı aşkın bir süredir tıkır tıkır çalışıyor. Durdurmayı ya da sekteye uğratmayı başaran olmadı. Sıkıntıları yok mu var tabii. 
+
+Bitcoin ile ilgili pek çok sıkıntı sayabiliriz aslında - kişiden kişiye de değişir bu sıkıntıların neler olduğu. Teknolojik olarak yavaş evrilmesi (ki bunu bir sorun değil "gerekli bir özellik" olduğunu savunanlar da var), basitliği nedeniyle üzerine kurulacak yeni yapılara çok uygun olmaması genelde şikayetlerin başında gelir. 
+
+Teknolojik olarak yavaş evrilmesine verilen en kritik örneklerden biri kişiden kişiye ödemelerde çok da yaygınlık kazanamamış olması. Hem de Bitcoin'in tanıtım dokümanı (white paper) başlığının "[Bitcoin - Eşten-eşe Elektronik Nakit Sistemi](https://bitcoin.org/bitcoin.pdf)" olmasına rağmen. İşte bu nedenle Bitcoin savunucularının son yıllardaki argümanları daha çok onun bir Dijital Altın olduğu ve ödeme işlemlerinden ziyade değer saklama aracı olarak görülmesi gerektiğine evrilmiş durumda. 
+
+Bitcoin sorunları çözmek amacıyla sonrasında pek çok klonu çıktı. Sayı olarak [100'ün üzerinde]()https://atomicwallet.io/how-many-bitcoins-are-there. Aslında bunda şaşıracak bir durum da yok, zira açık kaynak bir uygulama olduğunuzda isteyen herkes oturup bir klonunu yaratabilir. Çok basit. Asıl zor olan, sisteminize inanmış bir topluluk yaratabilmek. İşte en başarılı Bitcoin klonunun bile (ki muhtemelen Bitcoin Cash'dir bu) en sıkıntı yaşadığı konu hep bu oldu. 
+
+Bitcoin klonları da genellikle bu ödeme özelliği perspektifinden rekabet etmeye çalışıyorlar. Ödeme konusunda Bitcoin'in neden yaygınlaşmadığına ilişkin teşhis ve tedavi yöntemleri de aslında bu klonların kendilerini farklılaştırma stratejilerinde ortaya çıkıyor. Litecoin örneğinde olduğu gibi her 10 dakikada bir uzlaşma yapmak yerine 2.5 dakikada bir yapmak, böylece işlemlerin teyidini hızlandırmak bunlardan biri. Ya da Bitcoin Cash örneğinde olduğu gibi Keza uzlaşma yapılan blok büyüklüğünü artırmak böylece yoğun işlem zamanlarında blokların dolmasında ötürü oluşacak gecikmeleri önlemek bir diğeri. Ve nihayet, Lightning Network gibi Bitcoin üzerine kurulu ikinci seviye çözümler ile blok zincirini daha az kullanarak maliyetleri azaltmak ve ufak ödemeler (örneğin kahve almak gibi) için kullanışlı hâle getirmek bir başkası çözüm örneği. 
+
+Bunlar işin teknoloji yönünden getirilmeye çalışılan yenilikler. Kabul etmemiz gereken bir gerçek var, o da Bitcoin'in genel olarak gündelik hayatımıza girememesinin en önemli nedenlerinden biri aslında fiyat olarak çok dalgalı olması. Bu dalgalanmalar kayıp ve kazanç anlamında riskleri de beraberinde getirdiği için Bitcoin'i alışveriş aracı olarak kullanmak imkansız. Zira alışverişte ihtiyaç duyulan adil ve değeri değişmeyen bir aracı kullanmak - ki tarafların kafası rahat olsun, asıl işlerine odaklanabilsinler. 
+
+İşte bu dalgalanma sorununu çözebilmek amacıyla itibari paralara çapalanmış stabil paralar çıkarıldı ve büyük de ilgi gördü. Ancak bu paraları çıkaranların ağırlıklı bir kısmının merkezi yapılar olması, ödemeler konusunda sorun çözse de merkezilik nedeniyle yeni sorunlar çıkardı. Yakın zamanda yaşadığımız Tether'in yapılmış işlemleri geçersiz hale getirebilme gücü (ki yakın zamanda gerçekleşen Kucoin hack'inde bunu yaptılar) kripto dünyasının bireylere en büyük faydası olarak da bilinen "dijital varlığa tamamıyle sahip olma" özelliğinin nasıl delik deşik edildiğinin de bir göstergesi aslında. 
+
+İşte bu nedenle, Bitcoin benzeri bağımsız, sansürsüz ama bir yandan da fiyat volatilitesi daha düşük kripto paralara bir ihtiyaç var gibi görünüyor. İşte Ampleforth bu sorunu çözmeye odaklanmış bir kripto para. 
+
+-- 
+
+#### Bu sistemde kimler kazanıyor, kimler kaybediyor?
+Sistemin şu aşamada henüz birinci aşamasındayız. Bu birinci aşama fiyatların henüz tam olarak oturmadığı bir zaman dilimi. Bu da spekülatif hareketlerden dolayı kazanç sağlanabildiği anlamına geliyor. Zaten sistem, fiyatların oturabimesi için fiyat artış ya da azalışlarında sistemdeki dengesizlik üzerine işlem yapıp kar sağlayacak spekülatörlerin desteğine ihtiyaç duyuyor. Burada da hız çok önemli. Ampleforth sistemi için yalnızca fiyat hareketine bakmak yetmiyor. Bunun yanında para arzının ne yöne gittiğini ve toplam sistem büyüklüğünü de iyi kestirmek gerekiyor. Yalnızca kestirmek değil aynı zamanda hızlı hareket edebilmek. Dolayısıyla, sistemi iyi bilen ve al-sat konusunda uzmanlaşmış olanların kar etme olasılığı daha yüksek.  Öte yandan, sistemin doğru çalışacağına inananlar için eğer Bitcoin'de olduğu gibi herhangi bir işlem yapmayıp tokenlarını ellerinden tutmaları durumunda, eğer beklentilerine uygun olarak AMPL sisteminin toplam değeri yükselir ise kar etme olasılıkları da aynı şekilde yükseliyor. Peki o zaman kim kaybediyor bu sistemde? Daha çok, ani fiyat hareketlerini tam olarak izleyemeyen işlem yapan ama geç kalanlar denebilir. 
+
+-- 
+
+
+Ampleforth'un paranın arzını değiştiriyor. "Peki, ortaya çıkan paranın arzını azaltan ya da artıran pekçok farklı parasal politikaya  sahip kripto para var zaten, ne var ki bunda?" Ancak kazın ayağı öyle değil. Ampleforth'da bu değişen arz yalnızca yeni olarak piyasaya sürülecek olan paralara yönelik değil. Akıllı kontratlar marifetiyle, sizin cüzdanınızdaki paranın miktarını da değiştiriyorlar!
+
+“Eyvah, cüzdanımdan paramı mı alıyor?” Evet aynen öyle. Panik yapmalı mısınız? Şöyle düşünün, eğer sistem teoriye uygun olarak işler ise, sistemin toplam değerinin % kaçı sizin elinizde ise bu hiçbir zaman değişmiyor. Yani eğer sistemin parasal büyüklüğünün binde biri cüzdanınızda ise, sistem herkesten eşit oranda kesim yapacağı için, paranız azalıyor ama sistemin yine binde birine sahip oluyorsunuz. 
+
+Aslında bu durumun Bitcoin’den bir farkı yok. Bitcoin maksimalistlerinin bir deyişi vardır. Fiyat sorulduğunda “1 Bitcoin = 1 Bitcoin, dün de böyleydi, bugün de böyle” derler. Örnek olarak 21 Bitcoin’ininiz var ise (keşke dediğinizi duyar gibiyim) fiyat ne olursa olsun, bugünde toplam sistemin milyonda birine sahipsiniz, yarın da. 
+
+Peki fiyatın tekrar dengeye geleceğini nereden biliyoruz? İşte burada sistem piyasada al-sat yapan ve kar peşinde koşanların rasyonel hareket edeceği mantığına dayanıyor. Sistemi işleyişini tetikleyen marketteki talep.  Marketteki arzın artması ya da azalması sonucu paranın kurunun değişiyor, kur değişimi para arzı hareketini tetikliyor, bu para arzı hareketi sonrası ise paranın kurunun eski haline gelmesi bekleniyor.
+
+Ampleforth'da amaç paranın değerini belli bir seviyede tutmak. Seviye derken kastedilen, değerini belli bir hedefin %5 altı ya da üstündeki bir bantta hareket ediyor olması. Hedef 2019 yılındaki 1 ABD Doları bazının enflasyon ile artırılması ile Ekim 2020 tarihi için 1.019 ABD Doları seviyesinde. 
+
+Eğer hedef değer bu bandın dışına çıkarsa o zaman Akıllı Kontrat devreye giriyor. Peki ne yapıyor bu kontrat? Diyelim talebin artması sonucu değer bir anda arttı ve 1 ABD Doları olan Ampleforth parası AMPL 2 Doları seviyesine geldi. Sizin elinizde 10 AMPL var ise bu paraların değeri de 10 ABD Dolarından 20 ABD Dolarına çıktı. Sistem sizin elinizde olan AMPL miktarını kademeli olarak iki katına çıkarıyor. Dikkat edin, elinizdeki parayı almıyor, tam tersine artırıyor. 
+
+Burada umulan, para miktarının bir anda iki katına çıkması ile birlikte değerin tekrar 1 dolar seviyesine düşmesi ve sizin elinizde yine 20 ABD Doları değerinde bir varlık olması. Yani fiyat artışının varlığınızdaki değer artışı etkisi korunurken paranın değerinin aynı seviyede kalması. Bunu yapan kontratın ise tamamen dış manuel etki olmadan yazılı tarafından otomatik gerçekleştirildiğine de belirtelim. Nasıl, ilginç değil mi?
+
+Peki nasıl olacak da fiyat tekrar 1 dolar seviyesine düşecek? Buradaki düşünce, fiyatın ve elindeki token miktarı artan spekülatörlerin, kâr realizasyonu amacıyla satış yapmaları, bunun da AMPL fiyatına düşürücü bir etkisi olması. 
+
+Tabii yukarıdaki senaryodaki kritik nokta arzın iki katına çıkması durumunda paranın eski sabit değerine düşeceği argümanı. Teorik olarak öyle olmalı, ancak pratikte öyle mi?... 
+
+Bir de madalyonun öbür yüzü var. Eğer bir olay oldu da AMPL değeri 50 cent'e indi ise o zaman elinizdeki 10 AMPL'nin yarısı "uçuyor" ve sizde 5 AMPL kalıyor. Beklenen fiyatın bir anda 1 ABD Doları seviyesine çıkarak varlığınızın değerinin 5 ABD Doları kalması. Ama böyle bir senaryoda eğer fiyat 1 ABD Doları'na çıkmaz ise, varlığınız 10 ABD Doları'ndan 5 ABD Dolarına inmiyor, 2.5 ABD Dolarına iniyor. İşte bir anda içimize düşen kuşku:
+
+#### Ya bir girdabın içinde fiyat düşmeye devam ederse?
+Arz azalımı ancak fiyat belli bir seviyenin altına düştüğü zaman gerçekleşiyor. O zaman akla ilk gelen soru: Ya arz azalımından dolayı fiyat azalırsa ve fiyat geri yükselmez ise, fiyat yükselmediği için arz biraz daha düşerse - acaba sonsuz bir döngüye girer miyiz?
+Bitcoin ya da her tür token için aslında benzer bir risk söz konusu. Fiyat düşünce panik başlar, satışlar artar, sonra fiyat daha da düşer, daha da panik olur gibi.. Ancak geçmişte pek çok kez benzer düşüşleri yaşasa da, Bitcoin sonunda toparlandı. Ampleforth’da da bunu daha dramatik yaşama ihtimali var gibi görünüyor. Sadece fiyat değil, elinizdeki adet de azalıyor. Tamamen farklı alışık olmadığımız bir sistem deneyi. Fiyatın sonrasında geri geleceğine düşünenlerin argümanı şu: Fiyatın ve arzın çok düştüğü durumda tüm sistemin değeri dramatik olarak düşmüş olacak - dolayısı ile bu dışarıdan izleyenlerde ucuza alım fırsatı imkanı doğuracak. Öte taraftan tokeni elinde tutan kişiler fiyatın bu kadar düşmesi durumunda eğer sisteme inanıyorlar ise ellerindeki ürünleri ucuzdan satmak yerine beklemeyi tercih edecekler. 
+
+Burada temel olarak düşünülen toplam piyasa değerinin aynı kalması. Piyasa değeri dediğimiz hisse (ya da token) adedi ile hisse (ya da token) fiyatının çarpımı. Benzer şekilde sizin hissedar olarak varlığınız elinizdeki hisse adedi ile hisse fiyatının çarpımından oluşuyor. Sabit/stabil kripto paralar söz konusu olduğunda varlığınızın sabit kaldığını düşünüyorsunuz ama o kripto paranın bağlı oldukları itibari paralarda dış etkene bağlı olarak değer değişimlerine karşı korumasızsınız. Değeri kendinden menkul paralarda en azından itibari paralarda olduğu gibi devletlerin para politikalarından etkilenmiyorsunuz. Ama orada da fiyat değişimleri sizin varlığınızı etkiliyor. Peki, nasıl elinizde tuttuğunuz varlığın değerini değiştirmeden hisse fiyatını nasıl sabit tutarsınız? 
+
