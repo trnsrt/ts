@@ -1,4 +1,4 @@
-Bugün sizlere geçtiğimiz aylarda ilk çıktığında büyük sükse yapan, sonrasında ortaya çıkan başka girişimlerin etkisiyle gözden uzaklaşan ilginç bir projeden bahsedelim. 
+Bugün sizlere geçtiğimiz aylarda ilk çıktığında büyük sükse yapan, sonrasında ortaya çıkan başka girişimlerin etkisiyle gözden uzaklaşan ilginç bir DeFi projesinden bahsedelim. 
 
 Gözden ırak olan gönülden de ırak olmaz mı? Neden zaman ayırıp bakalım? Çünkü kripto dünyası pek çok farklı değişkeni bir arada barındırıyor ve bu değişkenlerin her biri ile oynarak pek çok farklı deney yapılabiliyor. Çıkan her proje mevcut yaşanan bir derde deva olabildiği kadar beraberinde başka sorunlar getirebiliyor, ya da kullanıcılarda yeni ihtiyaçlar ortaya çıkarabiliyor. Neyse ki konumuz teknoloji ve özellikle yazılım kullanarak yaşanan sorunlara karşı yeni çözümler getirmek mümkün. Ampleforth da benzer şekilde mevcut bir soruna merkeziyetsiz bir çözüm getirmek hedefiyle ortaya çıkmış bir proje. Gelin bakalım nedir bu sıkıntı:
 
@@ -19,7 +19,6 @@ Bitcoin benzeri sınırlı arza sahip paralar teori olarak güzel: Değer anlam�
 
 ### Nasıl çalışıyor Ampleforth?
 
-
 İşte Ampleforth, bu oynaklığı önlemek adına, talepte meydana gelebilecek değişimlerin fiyata radikal etki etmesinin önüne geçmek yani paranın değerini dengelemek için para arzının esnek bir biçimde değişirilmesi prensibine dayanıyor. Hem de ne değiştirmek! Gelin biraz daha açalım bunu: 
 
 Ampleforth otomatik olarak çalışan bir algoritma. Algoritmanın tek bir hedefi var: O da sistemin parası AMPL'yi sabit bir değerde tutmak. Bu değer 2019 yılında yılındaki 1 ABD Doları. Şu an için de enflasyon giydirilmiş olarak 1.019 ABD Doları seviyesinde. 
@@ -33,6 +32,8 @@ Ama Ampleforth, payın (yani tokenin) değerini sabit tutmak istiyor. Nasıl ola
 Ezberlerimizi yeterince bozduk mu? :) 
 
 Sistemin nasıl çalışacağını da bir örnek üzerinden anlatalım: 
+
+#### AMPL token fiyat yükselirse ne oluyor?
 
 Varsayalım, 1 AMPL 1 ABD Dolarına eşit ve yatırımcımızın da 100 AMPL'si var, yani 100 ABD Doları. Bir anda piyasalarda AMPL'ye talep oldu ve AMPL fiyatı 1.5 AMPL'ye çıktı. İşte o zaman algoritma otomatik olarak devreye giriyor ve her bir AMPL karşılığı yatırımcılara 0.5 AMPL daha veriyor. Yatırımcımızın artık 150 AMPL'si var.  
 
@@ -52,39 +53,24 @@ Tabii bir de madalyonun öbür yüzü var. Ya, talepte bir azalma olur ve token 
 
 Yukarıdaki örnekten devam edersek. Başlangıçta 100 ABD Dolarına eş 100 AMPL vardı elinizde. Token değer kaybedince varlığınız önce 100 AMPL x 0.5 cent = 50 ABD Doları seviyesine düştü. Sonra bir de sistem elinizdeki AMPL'lerin yarısını aldı, dolayısıyla varlığınız bir anda geçici olarak 50 AMPL x 0.5 cent = 25 ABD Doları'na geriledi. Sizin sistem içindeki payınız hiç değişmedi. AMPL sistemi değer kaybetti. AMPL kendi içinde %50 değer kaybetti ancak tüm sistem %75 değer kaybetmiş oldu. Bu kadar ucuzlamış bir sistemi almak için üşüşen yatırımcılardan dolayı AMPL tekrar değer kazandı, nereye kadar? Dengenin oturacağı 1 AMPL = 1 ABD Doları seviyesine kadar. O zaman son durumda varlığınız ne oldu? 50 AMPL x 1 ABD Doları = 50 ABD Doları.  Varlığınız değer kaybetti mi? Gayet tabii - zira talep azaldığı için zaten başta kaybetmiştiniz onu. Geçici olarak arz kısılmasından dolayı daha da kaybettiniz ama en sonunda %50 kaybettiğiniz ilk noktaya döndünüz. 
 
-Ampleforth'un paranın arzını değiştiriyor. "Peki, ortaya çıkan paranın arzını azaltan ya da artıran pekçok farklı parasal politikaya  sahip kripto para var zaten, ne var ki bunda?" Ancak kazın ayağı öyle değil. Ampleforth'da bu değişen arz yalnızca yeni olarak piyasaya sürülecek olan paralara yönelik değil. Akıllı kontratlar marifetiyle, sizin cüzdanınızdaki paranın miktarını da değiştiriyorlar!
+#### Fiyat konusundaki bu ısrar neden?
 
-“Eyvah, cüzdanımdan paramı mı alıyor?” Evet aynen öyle. Panik yapmalı mısınız? Şöyle düşünün, eğer sistem teoriye uygun olarak işler ise, sistemin toplam değerinin % kaçı sizin elinizde ise bu hiçbir zaman değişmiyor. Yani eğer sistemin parasal büyüklüğünün binde biri cüzdanınızda ise, sistem herkesten eşit oranda kesim yapacağı için, paranız azalıyor ama sistemin yine binde birine sahip oluyorsunuz. 
-
-Aslında bu durumun Bitcoin’den bir farkı yok. Bitcoin maksimalistlerinin bir deyişi vardır. Fiyat sorulduğunda “1 Bitcoin = 1 Bitcoin, dün de böyleydi, bugün de böyle” derler. Örnek olarak 21 Bitcoin’ininiz var ise (keşke dediğinizi duyar gibiyim) fiyat ne olursa olsun, bugünde toplam sistemin milyonda birine sahipsiniz, yarın da. 
-
-Peki fiyatın tekrar dengeye geleceğini nereden biliyoruz? İşte burada sistem piyasada al-sat yapan ve kar peşinde koşanların rasyonel hareket edeceği mantığına dayanıyor. Sistemi işleyişini tetikleyen marketteki talep.  Marketteki arzın artması ya da azalması sonucu paranın kurunun değişiyor, kur değişimi para arzı hareketini tetikliyor, bu para arzı hareketi sonrası ise paranın kurunun eski haline gelmesi bekleniyor.
-
-Ampleforth'da amaç paranın değerini belli bir seviyede tutmak. Seviye derken kastedilen, değerini belli bir hedefin %5 altı ya da üstündeki bir bantta hareket ediyor olması. Hedef 2019 yılındaki 1 ABD Doları bazının enflasyon ile artırılması ile Ekim 2020 tarihi için 1.019 ABD Doları seviyesinde. 
-
-Eğer hedef değer bu bandın dışına çıkarsa o zaman Akıllı Kontrat devreye giriyor. Peki ne yapıyor bu kontrat? Diyelim talebin artması sonucu değer bir anda arttı ve 1 ABD Doları olan Ampleforth parası AMPL 2 Doları seviyesine geldi. Sizin elinizde 10 AMPL var ise bu paraların değeri de 10 ABD Dolarından 20 ABD Dolarına çıktı. Sistem sizin elinizde olan AMPL miktarını kademeli olarak iki katına çıkarıyor. Dikkat edin, elinizdeki parayı almıyor, tam tersine artırıyor. 
-
-Burada umulan, para miktarının bir anda iki katına çıkması ile birlikte değerin tekrar 1 dolar seviyesine düşmesi ve sizin elinizde yine 20 ABD Doları değerinde bir varlık olması. Yani fiyat artışının varlığınızdaki değer artışı etkisi korunurken paranın değerinin aynı seviyede kalması. Bunu yapan kontratın ise tamamen dış manuel etki olmadan yazılı tarafından otomatik gerçekleştirildiğine de belirtelim. Nasıl, ilginç değil mi?
-
-Peki nasıl olacak da fiyat tekrar 1 dolar seviyesine düşecek? Buradaki düşünce, fiyatın ve elindeki token miktarı artan spekülatörlerin, kâr realizasyonu amacıyla satış yapmaları, bunun da AMPL fiyatına düşürücü bir etkisi olması. 
-
-Tabii yukarıdaki senaryodaki kritik nokta arzın iki katına çıkması durumunda paranın eski sabit değerine düşeceği argümanı. Teorik olarak öyle olmalı, ancak pratikte öyle mi?... 
-
-Bir de madalyonun öbür yüzü var. Eğer bir olay oldu da AMPL değeri 50 cent'e indi ise o zaman elinizdeki 10 AMPL'nin yarısı "uçuyor" ve sizde 5 AMPL kalıyor. Beklenen fiyatın bir anda 1 ABD Doları seviyesine çıkarak varlığınızın değerinin 5 ABD Doları kalması. Ama böyle bir senaryoda eğer fiyat 1 ABD Doları'na çıkmaz ise, varlığınız 10 ABD Doları'ndan 5 ABD Dolarına inmiyor, 2.5 ABD Dolarına iniyor. İşte bir anda içimize düşen kuşku:
-
-#### Ya bir girdabın içinde fiyat düşmeye devam ederse?
-Arz azalımı ancak fiyat belli bir seviyenin altına düştüğü zaman gerçekleşiyor. O zaman akla ilk gelen soru: Ya arz azalımından dolayı fiyat azalırsa ve fiyat geri yükselmez ise, fiyat yükselmediği için arz biraz daha düşerse - acaba sonsuz bir döngüye girer miyiz?
-Bitcoin ya da her tür token için aslında benzer bir risk söz konusu. Fiyat düşünce panik başlar, satışlar artar, sonra fiyat daha da düşer, daha da panik olur gibi.. Ancak geçmişte pek çok kez benzer düşüşleri yaşasa da, Bitcoin sonunda toparlandı. Ampleforth’da da bunu daha dramatik yaşama ihtimali var gibi görünüyor. Sadece fiyat değil, elinizdeki adet de azalıyor. Tamamen farklı alışık olmadığımız bir sistem deneyi. Fiyatın sonrasında geri geleceğine düşünenlerin argümanı şu: Fiyatın ve arzın çok düştüğü durumda tüm sistemin değeri dramatik olarak düşmüş olacak - dolayısı ile bu dışarıdan izleyenlerde ucuza alım fırsatı imkanı doğuracak. Öte taraftan tokeni elinde tutan kişiler fiyatın bu kadar düşmesi durumunda eğer sisteme inanıyorlar ise ellerindeki ürünleri ucuzdan satmak yerine beklemeyi tercih edecekler. 
-
-Burada temel olarak düşünülen toplam piyasa değerinin aynı kalması. Piyasa değeri dediğimiz hisse (ya da token) adedi ile hisse (ya da token) fiyatının çarpımı. Benzer şekilde sizin hissedar olarak varlığınız elinizdeki hisse adedi ile hisse fiyatının çarpımından oluşuyor. Sabit/stabil kripto paralar söz konusu olduğunda varlığınızın sabit kaldığını düşünüyorsunuz ama o kripto paranın bağlı oldukları itibari paralarda dış etkene bağlı olarak değer değişimlerine karşı korumasızsınız. Değeri kendinden menkul paralarda en azından itibari paralarda olduğu gibi devletlerin para politikalarından etkilenmiyorsunuz. Ama orada da fiyat değişimleri sizin varlığınızı etkiliyor. Peki, nasıl elinizde tuttuğunuz varlığın değerini değiştirmeden hisse fiyatını nasıl sabit tutarsınız? 
-
-Hisse (ya da token) fiyatını sabit tutmak neden önemli? Bir paraanın alım satım ve ticaret için kullanımı ancak değerinin "gerçek" anlamda sabit olması durumunda gerçekleşebilir. Öte yandan yatırımcılar tarafından bu paranın rağbet görmesi için varlığın değerinin artması gerekir. 
+Hisse (ya da token) fiyatını sabit tutmak neden önemli? Bir paranın alım satım ve ticaret için kullanımı ancak değerinin "gerçek" anlamda sabit olması durumunda gerçekleşebilir. Öte yandan yatırımcılar tarafından bu paranın rağbet görmesi için varlığın değerinin artması gerekir. İşte Ampleforth, sabit değerli bir para yaratarak alışverişlerde güvenle kullanılabilecek bir para yarattıktan sonra, bu paranın rağbet görmesi durumunda yatırımcısına da değer kazandıracak bir enstrümana dönüşmesini sağlıyor. Sabit paralardan en büyük farkı bu: Kullanan için sabit para, yatırımcısı için eğer kabul görüp yaygınlaşır ise değer kazandırıcı bir enstrüman. 
 
 ### Ampleforth'un vizyonu
 
 Ampleforth'un arzı ile oynamak suretiyle üçlü aşamalı bir vizyonu var aslında: 
 
-İlk aşama kısa vadede arz konusundaki bu değişiklik sayesinde portföyünde kripto varlık tutanlara risklerini dağıtmaya yardımcı olmak. Çıkış noktaları şu: Bitcoin piyasanın ağır ağabeyi olarak büyük bir ağırlığa sahip. Dolayısıyla piyasadaki bütün kripto paralar ağırlıklı olarak Bitcoin ile ortak hareket ediyorlar. Yani, Bitcoin artarsa artıyorlar, azalırsa azalıyorlar (genellikle bu artış ve azalışları daha uç noktalarda yaşıyorlar). Ampleforth yaratıcıları, paralarının ilk çıkış aşamasında öyle hemen stabil bir hâle gelmesini beklemiyorlar. Bunun yerine yarattıkları strateji sayesinde AMPL değerindeki değişimlerin diğer bütün kripto paralardan farklı şekilde yol alacağının bunun da poftföy yöneticilerine riski çeşitlendirerek azaltmak konusunda bir opsiyon sunacağını düşünüyorlar. 
+İlk aşama kısa vadede portföyünde kripto varlık tutanlara risklerini dağıtmaya yardımcı olmak. Çıkış noktaları şu: Bitcoin piyasanın büyüğü olarak büyük bir ağırlığa sahip. 
+
+https://coincodex.com/market-overview/
+
+| ![BTC_dominance](/assets/bitcoin_dominance_800.png)|
+|:--:| 
+| *Bitcoin'in kripto dünyasındaki ağırlığı. Sarı çizgi Bitcoin - şu ara %60 seviyesinde.  Kaynak: [Coincodex](https://coincodex.com/market-overview/)*|
+
+
+Dolayısıyla piyasadaki bütün kripto paralar ağırlıklı olarak Bitcoin ile ortak hareket ediyorlar. Yani, Bitcoin artarsa artıyorlar, azalırsa azalıyorlar (genellikle bu artış ve azalışları daha uç noktalarda yaşıyorlar). Ampleforth yaratıcıları, paralarının ilk çıkış aşamasında öyle hemen stabil bir hâle gelmesini beklemiyorlar. Bunun yerine yarattıkları strateji sayesinde AMPL değerindeki değişimlerin diğer bütün kripto paralardan farklı şekilde yol alacağının bunun da poftföy yöneticilerine riski çeşitlendirerek azaltmak konusunda bir opsiyon sunacağını düşünüyorlar. 
 
 Değeri kendinden menkul paraların son 90 gün içindeki değer artış/azalış ilişkisini gösteren aşağıdaki tabloya bakıldığında bu düşüncelerinde çok da haksız sayılmazlar: 
 
@@ -128,3 +114,31 @@ Bunlar işin teknoloji yönünden getirilmeye çalışılan yenilikler. Kabul et
 #### Bu sistemde kimler kazanıyor, kimler kaybediyor?
 Sistemin şu aşamada henüz birinci aşamasındayız. Bu birinci aşama fiyatların henüz tam olarak oturmadığı bir zaman dilimi. Bu da spekülatif hareketlerden dolayı kazanç sağlanabildiği anlamına geliyor. Zaten sistem, fiyatların oturabimesi için fiyat artış ya da azalışlarında sistemdeki dengesizlik üzerine işlem yapıp kar sağlayacak spekülatörlerin desteğine ihtiyaç duyuyor. Burada da hız çok önemli. Ampleforth sistemi için yalnızca fiyat hareketine bakmak yetmiyor. Bunun yanında para arzının ne yöne gittiğini ve toplam sistem büyüklüğünü de iyi kestirmek gerekiyor. Yalnızca kestirmek değil aynı zamanda hızlı hareket edebilmek. Dolayısıyla, sistemi iyi bilen ve al-sat konusunda uzmanlaşmış olanların kar etme olasılığı daha yüksek.  Öte yandan, sistemin doğru çalışacağına inananlar için eğer Bitcoin'de olduğu gibi herhangi bir işlem yapmayıp tokenlarını ellerinden tutmaları durumunda, eğer beklentilerine uygun olarak AMPL sisteminin toplam değeri yükselir ise kar etme olasılıkları da aynı şekilde yükseliyor. Peki o zaman kim kaybediyor bu sistemde? Daha çok, ani fiyat hareketlerini tam olarak izleyemeyen işlem yapan ama geç kalanlar denebilir. 
 
+-- 
+
+
+Ampleforth'un paranın arzını değiştiriyor. "Peki, ortaya çıkan paranın arzını azaltan ya da artıran pekçok farklı parasal politikaya  sahip kripto para var zaten, ne var ki bunda?" Ancak kazın ayağı öyle değil. Ampleforth'da bu değişen arz yalnızca yeni olarak piyasaya sürülecek olan paralara yönelik değil. Akıllı kontratlar marifetiyle, sizin cüzdanınızdaki paranın miktarını da değiştiriyorlar!
+
+“Eyvah, cüzdanımdan paramı mı alıyor?” Evet aynen öyle. Panik yapmalı mısınız? Şöyle düşünün, eğer sistem teoriye uygun olarak işler ise, sistemin toplam değerinin % kaçı sizin elinizde ise bu hiçbir zaman değişmiyor. Yani eğer sistemin parasal büyüklüğünün binde biri cüzdanınızda ise, sistem herkesten eşit oranda kesim yapacağı için, paranız azalıyor ama sistemin yine binde birine sahip oluyorsunuz. 
+
+Aslında bu durumun Bitcoin’den bir farkı yok. Bitcoin maksimalistlerinin bir deyişi vardır. Fiyat sorulduğunda “1 Bitcoin = 1 Bitcoin, dün de böyleydi, bugün de böyle” derler. Örnek olarak 21 Bitcoin’ininiz var ise (keşke dediğinizi duyar gibiyim) fiyat ne olursa olsun, bugünde toplam sistemin milyonda birine sahipsiniz, yarın da. 
+
+Peki fiyatın tekrar dengeye geleceğini nereden biliyoruz? İşte burada sistem piyasada al-sat yapan ve kar peşinde koşanların rasyonel hareket edeceği mantığına dayanıyor. Sistemi işleyişini tetikleyen marketteki talep.  Marketteki arzın artması ya da azalması sonucu paranın kurunun değişiyor, kur değişimi para arzı hareketini tetikliyor, bu para arzı hareketi sonrası ise paranın kurunun eski haline gelmesi bekleniyor.
+
+Ampleforth'da amaç paranın değerini belli bir seviyede tutmak. Seviye derken kastedilen, değerini belli bir hedefin %5 altı ya da üstündeki bir bantta hareket ediyor olması. Hedef 2019 yılındaki 1 ABD Doları bazının enflasyon ile artırılması ile Ekim 2020 tarihi için 1.019 ABD Doları seviyesinde. 
+
+Eğer hedef değer bu bandın dışına çıkarsa o zaman Akıllı Kontrat devreye giriyor. Peki ne yapıyor bu kontrat? Diyelim talebin artması sonucu değer bir anda arttı ve 1 ABD Doları olan Ampleforth parası AMPL 2 Doları seviyesine geldi. Sizin elinizde 10 AMPL var ise bu paraların değeri de 10 ABD Dolarından 20 ABD Dolarına çıktı. Sistem sizin elinizde olan AMPL miktarını kademeli olarak iki katına çıkarıyor. Dikkat edin, elinizdeki parayı almıyor, tam tersine artırıyor. 
+
+Burada umulan, para miktarının bir anda iki katına çıkması ile birlikte değerin tekrar 1 dolar seviyesine düşmesi ve sizin elinizde yine 20 ABD Doları değerinde bir varlık olması. Yani fiyat artışının varlığınızdaki değer artışı etkisi korunurken paranın değerinin aynı seviyede kalması. Bunu yapan kontratın ise tamamen dış manuel etki olmadan yazılı tarafından otomatik gerçekleştirildiğine de belirtelim. Nasıl, ilginç değil mi?
+
+Peki nasıl olacak da fiyat tekrar 1 dolar seviyesine düşecek? Buradaki düşünce, fiyatın ve elindeki token miktarı artan spekülatörlerin, kâr realizasyonu amacıyla satış yapmaları, bunun da AMPL fiyatına düşürücü bir etkisi olması. 
+
+Tabii yukarıdaki senaryodaki kritik nokta arzın iki katına çıkması durumunda paranın eski sabit değerine düşeceği argümanı. Teorik olarak öyle olmalı, ancak pratikte öyle mi?... 
+
+Bir de madalyonun öbür yüzü var. Eğer bir olay oldu da AMPL değeri 50 cent'e indi ise o zaman elinizdeki 10 AMPL'nin yarısı "uçuyor" ve sizde 5 AMPL kalıyor. Beklenen fiyatın bir anda 1 ABD Doları seviyesine çıkarak varlığınızın değerinin 5 ABD Doları kalması. Ama böyle bir senaryoda eğer fiyat 1 ABD Doları'na çıkmaz ise, varlığınız 10 ABD Doları'ndan 5 ABD Dolarına inmiyor, 2.5 ABD Dolarına iniyor. İşte bir anda içimize düşen kuşku:
+
+#### Ya bir girdabın içinde fiyat düşmeye devam ederse?
+Arz azalımı ancak fiyat belli bir seviyenin altına düştüğü zaman gerçekleşiyor. O zaman akla ilk gelen soru: Ya arz azalımından dolayı fiyat azalırsa ve fiyat geri yükselmez ise, fiyat yükselmediği için arz biraz daha düşerse - acaba sonsuz bir döngüye girer miyiz?
+Bitcoin ya da her tür token için aslında benzer bir risk söz konusu. Fiyat düşünce panik başlar, satışlar artar, sonra fiyat daha da düşer, daha da panik olur gibi.. Ancak geçmişte pek çok kez benzer düşüşleri yaşasa da, Bitcoin sonunda toparlandı. Ampleforth’da da bunu daha dramatik yaşama ihtimali var gibi görünüyor. Sadece fiyat değil, elinizdeki adet de azalıyor. Tamamen farklı alışık olmadığımız bir sistem deneyi. Fiyatın sonrasında geri geleceğine düşünenlerin argümanı şu: Fiyatın ve arzın çok düştüğü durumda tüm sistemin değeri dramatik olarak düşmüş olacak - dolayısı ile bu dışarıdan izleyenlerde ucuza alım fırsatı imkanı doğuracak. Öte taraftan tokeni elinde tutan kişiler fiyatın bu kadar düşmesi durumunda eğer sisteme inanıyorlar ise ellerindeki ürünleri ucuzdan satmak yerine beklemeyi tercih edecekler. 
+
+Burada temel olarak düşünülen toplam piyasa değerinin aynı kalması. Piyasa değeri dediğimiz hisse (ya da token) adedi ile hisse (ya da token) fiyatının çarpımı. Benzer şekilde sizin hissedar olarak varlığınız elinizdeki hisse adedi ile hisse fiyatının çarpımından oluşuyor. Sabit/stabil kripto paralar söz konusu olduğunda varlığınızın sabit kaldığını düşünüyorsunuz ama o kripto paranın bağlı oldukları itibari paralarda dış etkene bağlı olarak değer değişimlerine karşı korumasızsınız. Değeri kendinden menkul paralarda en azından itibari paralarda olduğu gibi devletlerin para politikalarından etkilenmiyorsunuz. Ama orada da fiyat değişimleri sizin varlığınızı etkiliyor. Peki, nasıl elinizde tuttuğunuz varlığın değerini değiştirmeden hisse fiyatını nasıl sabit tutarsınız? 
