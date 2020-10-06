@@ -9,13 +9,11 @@ Ampleforth bir deney - nihai hedefi alışverişte kullanılabilecek kadar stabi
 #### Stabil paraların sıkıntısı
 Piyasada yeterince stabil kripto para varken neden Ampleforth'a ihtiyaç olsun? Çünkü stabil paralar özünde bir itibari paraya bağlılar (itibari paranın devletlerin merkez bankaları tarafından basılan ABD Doları, Euro benzeri paralar olduğunu tekrar hatırlatalım). Bu itibari paralar görünüşte değerlerini koruyor gibi görünseler de aslında uzun vadede sürekli değer kaybı yaşıyorlar. Amerika Birleşik Devletleri altını 1933 yılında onsu [20 ABD Doları'ndan halktan toplamıştı](https://en.wikipedia.org/wiki/Executive_Order_6102) (enflasyon etkisini yedirseniz bile günümüzde 408 ABD Doları'na geliyor), şu anda altın 2,000 ABD doları seviyelerinde. Şimdi ABD Dolarının değerinin sabit kaldığını söyleyebilir misiniz? 
 
-
 | ![BTC_dominance](/assets/Executive_Order_6102_640.jpg)|
 |:--:| 
-| *ABD hükümetinin halktan zorla altın topladığı meşhur 6102 sayılı emir  Kaynak: [Wikipedia](https://https://en.wikipedia.org/wiki/Executive_Order_6102)*|
+| *ABD hükümetinin halktan zorla altın topladığı meşhur 6102 sayılı emir.  Kaynak: [Wikipedia](https://https://en.wikipedia.org/wiki/Executive_Order_6102)*|
 
-
-Ayrıca  bu stabil kripto paralar ödemeler konusunda çözüm olsalar da, bu paraları basanların ağırlıklı bir kısmının merkezi yapılar olması beraberinde yeni sorunlar getiriyor. Yakın zamanda yaşadığımız Tether'in yapılmış işlemleri geçersiz hale getirebilme gücü (ki yakın zamanda gerçekleşen Kucoin hack'inde bunu yaptılar) kripto dünyasının bireylere en büyük faydası olarak da bilinen "dijital varlığa tamamıyle sahip olma" özelliğinin nasıl delik deşik edildiğinin de bir göstergesi aslında. 
+Ayrıca  bu stabil kripto paralar ödemeler konusunda çözüm olsalar da, bu paraları basanların ağırlıklı bir kısmının merkezi yapılar olması beraberinde yeni sorunlar getiriyor. Yakın zamanda yaşadığımız Tether'in müşteri hesaplarını dondurabilme gücü (ki yakın zamanda yaşanan Kucoin hack'inde [33 milyon ABD Doları bir miktar için bunu yaptılar](https://en.ethereumworldnews.com/bitfinex-and-tether-freeze-33m-usdt-from-kucoin-hack/)) kripto dünyasının bireylere en büyük faydası olarak da bilinen "dijital varlığa tamamıyle sahip olma" özelliğinin nasıl delik deşik edildiğinin de bir göstergesi aslında. 
 
 #### Bitcoin'in sıkıntısı
 Bitcoin benzeri sınırlı arza sahip paralar teori olarak güzel: Değer anlamında hiçbir kuruma bağlı olmayan, tamamıyle bağımsız, sansüre karşı dayanıklı ve sınırlı arzı ile değerini teorik olarak koruması gereken bir para. Ancak bu sınırlı arz değişken talep ile bir araya geldiğinde ortaya son derece oynak bir para çıkıyor. Bu kısıtlı arz uzun vadede son on yılda yaşanan fiyat artışının en önemli nedenlerinden biri sayıldı ancak kısa vadelerde oluşan oynaklık sinirleri zorlayacak seviyede. 
