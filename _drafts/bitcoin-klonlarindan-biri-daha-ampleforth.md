@@ -1,15 +1,21 @@
 Bugün sizlere geçtiğimiz aylarda ilk çıktığında büyük sükse yapan, sonrasında ardına ardına gelen yeni girişimlerin de etkisiyle ana sahneden uzaklaşan ilginç bir DeFi projesinden bahsedelim. 
 
-Gözden ırak olan gönülden de ırak olmaz mı? Neden zaman ayırıp bakalım? Çünkü kripto dünyası pek çok farklı değişkeni bir arada barındırıyor ve bu değişkenlerin her biri ile oynarak pek çok farklı deney yapılabiliyor. Çıkan her proje mevcut yaşanan bir derde deva olabildiği kadar beraberinde başka sorunlar getirebiliyor, ya da kullanıcılarda yeni ihtiyaçlar ortaya çıkarabiliyor. Neyse ki konumuz teknoloji ve özellikle yazılım kullanarak yaşanan sorunlara karşı yeni çözümler getirmek mümkün. Ampleforth da benzer şekilde mevcut bir soruna merkeziyetsiz bir çözüm getirmek hedefiyle ortaya çıkmış bir proje. Gelin bakalım nedir bu sıkıntı:
+Gözden ırak olan gönülden de ırak olmaz mı? Neden zaman ayırıp bakalım? Çünkü kripto dünyası şu anda emekleme aşamasında. İçinde o kadar farklı ve ilginç dinamikler ve değişkenler taşıyor ki bunların her biri ile oynarak pek çok farklı deney yapılabiliyor. Çıkan her proje yaşanmakta olan bir derde deva olabildiği kadar beraberinde başka sorunlar getirebiliyor, ya da kullanıcılarda yeni ihtiyaçlar ortaya çıkarabiliyor. Ampleforth da benzer şekilde mevcut bir soruna merkeziyetsiz bir çözüm getirmek hedefiyle ortaya çıkmış bir proje. Gelin bakalım neymiş:
 
 ### Nedir Ampleforth?
 
-Ampleforth bir deney - nihai hedefi alışverişte kullanılabilecek kadar stabil ancak Bitcoin benzeri değeri kendinden menkul bir para olmak. Ve bunu yaparken de hem stabil paraların hem de Bitcoin'in zayıf yanlarını güçlendirecek çözümler getirmeyi hedefliyor: 
+Ampleforth bir deney - nihai hedefi alışverişte kullanılabilecek kadar stabil ancak Bitcoin benzeri değeri kendinden menkul bir para olmak. Ve bunu yaparken de hem stabil paraların hem de Bitcoin'in zayıf yanlarını güçlendirecek çözümler getirmek. Önce bu sıkıntılara bir göz atalım:  
 
 #### Stabil paraların sıkıntısı
-Zaten piyasada yeterince stabil kripto para varken neden Ampleforth'a ihtiyaç olsun? Çünkü stabil paralar özünde bir itibari paraya bağlılar. İtibari paralar görünüşte değerlerini koruyor gibi görünselerde aslında uzun vadede sürekli değer kaybı yaşıyorlar. Amerika Birleşik Devletleri altını 1933 yılında onsu 35 ABD Dolarından halktan toplamıştı, şu anda altın 2,000 ABD doları seviyelerinde. Şimdi ABD Dolarının değerinin sabit kaldığını söyleyebilir misiniz? 
+Piyasada yeterince stabil kripto para varken neden Ampleforth'a ihtiyaç olsun? Çünkü stabil paralar özünde bir itibari paraya bağlılar (itibari paranın devletlerin merkez bankaları tarafından basılan ABD Doları, Euro benzeri paralar olduğunu tekrar hatırlatalım). Bu itibari paralar görünüşte değerlerini koruyor gibi görünseler de aslında uzun vadede sürekli değer kaybı yaşıyorlar. Amerika Birleşik Devletleri altını 1933 yılında onsu [20 ABD Doları'ndan halktan toplamıştı](https://en.wikipedia.org/wiki/Executive_Order_6102) (enflasyon etkisini yedirseniz bile günümüzde 408 ABD Doları'na geliyor), şu anda altın 2,000 ABD doları seviyelerinde. Şimdi ABD Dolarının değerinin sabit kaldığını söyleyebilir misiniz? 
 
-Ayrıca  bu paraları çıkaranların ağırlıklı bir kısmının merkezi yapılar olması, ödemeler konusunda sorun çözse de merkezilik nedeniyle yeni sorunlar çıkardı. Yakın zamanda yaşadığımız Tether'in yapılmış işlemleri geçersiz hale getirebilme gücü (ki yakın zamanda gerçekleşen Kucoin hack'inde bunu yaptılar) kripto dünyasının bireylere en büyük faydası olarak da bilinen "dijital varlığa tamamıyle sahip olma" özelliğinin nasıl delik deşik edildiğinin de bir göstergesi aslında. 
+
+| ![BTC_dominance](/assets/Executive_Order_6102_640.jpg)|
+|:--:| 
+| *ABD hükümetinin halktan zorla altın topladığı meşhur 6102 sayılı emir  Kaynak: [Wikipedia](https://https://en.wikipedia.org/wiki/Executive_Order_6102)*|
+
+
+Ayrıca  bu stabil kripto paralar ödemeler konusunda çözüm olsalar da, bu paraları basanların ağırlıklı bir kısmının merkezi yapılar olması beraberinde yeni sorunlar getiriyor. Yakın zamanda yaşadığımız Tether'in yapılmış işlemleri geçersiz hale getirebilme gücü (ki yakın zamanda gerçekleşen Kucoin hack'inde bunu yaptılar) kripto dünyasının bireylere en büyük faydası olarak da bilinen "dijital varlığa tamamıyle sahip olma" özelliğinin nasıl delik deşik edildiğinin de bir göstergesi aslında. 
 
 #### Bitcoin'in sıkıntısı
 Bitcoin benzeri sınırlı arza sahip paralar teori olarak güzel: Değer anlamında hiçbir kuruma bağlı olmayan, tamamıyle bağımsız, sansüre karşı dayanıklı ve sınırlı arzı ile değerini teorik olarak koruması gereken bir para. Ancak bu sınırlı arz değişken talep ile bir araya geldiğinde ortaya son derece oynak bir para çıkıyor. Bu kısıtlı arz uzun vadede son on yılda yaşanan fiyat artışının en önemli nedenlerinden biri sayıldı ancak kısa vadelerde oluşan oynaklık sinirleri zorlayacak seviyede. 
