@@ -16,10 +16,9 @@ Piyasada yeterince stabil kripto para varken neden Ampleforth'a ihtiyaç olsun? 
 Ayrıca  bu stabil kripto paralar ödemeler konusunda çözüm olsalar da, bu paraları basanların ağırlıklı bir kısmının merkezi yapılar olması beraberinde yeni sorunlar getiriyor. Yakın zamanda yaşadığımız Tether'in müşteri hesaplarını dondurabilme gücü (ki yakın zamanda yaşanan Kucoin hack'inde [33 milyon ABD Doları bir miktar için bunu yaptılar](https://en.ethereumworldnews.com/bitfinex-and-tether-freeze-33m-usdt-from-kucoin-hack/)) kripto dünyasının bireylere en büyük faydası olarak da bilinen "dijital varlığa tamamıyle sahip olma" özelliğinin nasıl delik deşik edildiğinin de bir göstergesi aslında. 
 
 #### Bitcoin'in sıkıntısı
-Bitcoin benzeri sınırlı arza sahip paralar teori olarak güzel: Değer anlamında hiçbir kuruma bağlı olmayan, tamamıyle bağımsız, sansüre karşı dayanıklı ve sınırlı arzı ile değerini teorik olarak koruması gereken bir para. Ancak bu sınırlı arz değişken talep ile bir araya geldiğinde ortaya son derece oynak bir para çıkıyor. Bu kısıtlı arz uzun vadede son on yılda yaşanan fiyat artışının en önemli nedenlerinden biri sayıldı ancak kısa vadelerde oluşan oynaklık sinirleri zorlayacak seviyede. 
+Bitcoin benzeri sınırlı arza sahip paralar teori olarak güzel: Değer anlamında hiçbir kuruma bağlı olmayan, tamamıyle bağımsız, sansüre karşı dayanıklı ve sınırlı arzı ile değerini teorik olarak koruması gereken bir para. Ancak bu sınırlı miktardaki arz, artıp azalan talep ile bir araya geldiğinde ortaya son derece oynak bir para çıkıyor. Her ne kadar uzun vadede son on yılda yaşanan fiyat artışının en önemli nedenlerinden birinin bu kısıtlı arz olduğu düşünülse de kısa vadelerde oluşan oynaklık sinirleri zorlayacak seviyede. 
 
-**İşte Ampleforth, Bitcoin gibi uzun vadede yatırımcısının varlığının artmasını sağlayacak ama bir yandan da stabil paralar gibi kısa vadede dengeli bir fiyattan ticaret yapmaya yarayacak bir para yaratma hedefinde.** 
-
+**İşte Ampleforth, bir yandan Bitcoin gibi uzun vadede yatırımcısına değeri artacak bir varlık sunarken, diğer yandan stabil paralar gibi kısa vadede dengeli fiyat yapısı sayesinde alışverişlerde kullanılmaya yarayacak bir para yaratma hedefinde.** Peki nasıl olacak bu bir taşla iki kuş vurma? Anlatalım: 
 
 ### Nasıl çalışıyor Ampleforth?
 
