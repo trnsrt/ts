@@ -38,7 +38,7 @@ permalink: /articles/
   - [DeFi türev piyasası Synthetix nasıl çalışıyor?](/genel/2020/08/28/Defi-turev-piyasasi-synthetix-nasil-calisiyor.html)
   - [Nedir bu Uniswap?](/genel/2020/09/15/nedir-bu-uniswap.html)
   - [Uniswap rakipler Curve, Balancer ve Sushiswap](/genel/2020/09/22/uniswap-rakipleri-curve-balancer-ve-sushiswap.html)
-  - [DeFi'de kısa vadeli başarının ipuçları](/genel/2020/09/29/defide-kisa-vadeli-basari.html) - $MEME coin
+  - [DeFi'de kısa vadeli başarının ipuçları - $MEME coin](/genel/2020/09/29/defide-kisa-vadeli-basari.html)
   - [İlginç bir parasal DeFi deneyi](/genel/2020/10/06/ilginc-bir-parasal-DeFi-deneyi-Ampleforth.html)
 
 
