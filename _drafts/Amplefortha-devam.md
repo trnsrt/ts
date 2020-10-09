@@ -27,7 +27,10 @@ Bu nedenlerle Bitcoin benzeri bağımsız, sansürsüz ama bir yandan da fiyat v
 
 ### Nedir Ampleforth'un diğer özellikleri?
 
+### Geyser
+Geyser, Ampleforth'un getiri çiftçiliği (yield farming) özelliği. Uniswap'da açılmış bir likidite havuzu. Uniswap likidite havuzları ile ilgili detaylı yazımıza [burada ulaşabilirsiniz]. Bir cümle ile özetlersek, merkeziyetsiz bir borsa olan Uniswap'ta, iki bölmeli havuzlar kuruluyor idi. Genelde bu bölmelerin bir tarafında Ethereum'un parası ETH, diğerinde ise arzu edilen token oluyor. Amaç bu token ile işlem yapmak isteyenlere likidite sağlamak. Bunun karşılığında likidite sağlayanlar hem yapılan işlemlerden %0.3 oranında pay alıyorlar, hem de UNI token'i kazanıyorlar. Ampleforth, bu havuzu özendirmek amacıyla likidite sağlayıcılara aylık toplam 25,000 AMPL dağıtma sözü vermiş. Ancak uzun vadeyi özendirmek amacıyla, ne kadar uzun süre tutarsanız, havuzdan alacağınız pay kat be kat artıyor. Yani bir ay tutarsanız x alıyorsanız, sonraki bir ayda 2x, üçüncüsünde ise aylık 3x. 
 
+Verilen ekstra ödüllerden dolayı ilgi çekici bir program olabilir. Ancak Uniswap havuzların likidite sağlarken amacınız komisyon geliri kazanmak ise, o zaman bu havuza ihtiyatlı bakmakta fayda var. Zira, bu havuzlarda en iyi kazanç değeri birbirine yakın, ya da iniş çıkış gösteren ikili tokenlarda oluyor. AMPL'nin hemen hemen sabit bir token olduğunu -en azından teoride- düşündüğünüzde, paranızı AMPL/ETH token'ında tutarken iki kere düşünmekte fayda var [BURAYI BIRAZ DAHA ACMAKTA FAYDA VAR]
 
 -- 
 
