@@ -63,8 +63,7 @@ Eğer bu ilk aşamayı başarılı bir şekilde geçebildikleri takdirde düşü
 
 Üçüncü aşama ise AMPL değerinin iyice stabil hale gelmesi nedeniyle, yalnızca artbitraj yapıp para kazanmak isteyen portföy yöneticilerin değil, alışverişlerde kullanmak üzere geniş kitlelerin de ilgisini çekecek hale gelmesi. 
 
-Yukarıdaki üç aşamanın hepsi yaygınlaşma ve adaptasyon üzerine kurulu. Bu adaptasyon gerçekleşecek mi? En büyük sorun bu. Öncelikle, portföy yöneticileri önlerinde onlarca kripto içi ve dışı yatırım fırsatı dururken AMPL için zaman harcayacaklar mı? Onun fiyat hareketlerini inceleyip arzın artışlarını tahmin etmek gibi normalde başka kripto paralarda hiç uğraşmadıkları yeni parametrelere kafa yoracaklar mı?
-
+Yukarıdaki üç aşamanın hepsi yaygınlaşma ve adaptasyon üzerine kurulu. Bu adaptasyon gerçekleşecek mi? En büyük sorun bu. Öncelikle, portföy yöneticileri önlerinde onlarca kripto içi ve dışı yatırım fırsatı dururken AMPL için zaman harcayacaklar mı? Onun fiyat hareketlerini inceleyip arzın artışlarını tahmin etmek gibi normalde başka kripto paralarda hiç uğraşmadıkları yeni parametrelere kafa yoracaklar mı? Zira yormazlar ise AMPL fiyat olarak istenen hedef banda gelmez. İlgi az olursa yaygınlaşma da gecikir ya da hiç olmaz. AMPL savunucuları, geçmişte Bitcoin için de benzer tereddütlerin olduğunu ama zamanın bu tip kuşkuları gidermede en iyi ilaç olduğunu düşünüyorlar. 
 
 
 #### Merkezi borsalarda AMPL tutmak
