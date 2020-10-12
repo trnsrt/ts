@@ -36,11 +36,8 @@ Geyser, Ampleforth'un getiri çiftçiliği (yield farming) özelliği. Uniswap v
 Verilen ekstra ödüllerden dolayı ilgi çekici bir program olabilir. Ancak Uniswap havuzların likidite sağlarken amacınız komisyon geliri kazanmak ise, o zaman bu havuza ihtiyatlı bakmakta fayda var. Zira, bu havuzlarda en iyi kazanç değeri birbirine yakın, ya da iniş çıkış gösteren ikili tokenlarda oluyor. AMPL'nin hemen hemen sabit bir token olduğunu -en azından teoride- düşündüğünüzde, paranızı AMPL/ETH token'ında tutarken komisyon gelirinin az olacağını bilmek gerek. Öte yandan, Geyser'in ilgi artırmak için geçici bir program olduğunu da unutmamalı. Geyser programının Mooniswap likiditesi için Kasım 2020'de Uniswap likiditesi için ise Aralık 2020'de bitiyor - yeni programlar olacak mı belli değil. 
 
 #### Balancer "Akıllı Havuzları"
-Bu arada Ampleforth ekibi, geçtiğimiz hafta benzer bir havuzu Balancer'da (Uniswap rakibi) kurdu. Üstelik bu ürün Balancer için de bir ilk. Neden Balancer kullandıklarına gelince: Hatırlarsanız [Uniswap rakiplerini tanıtan yazımızda](/genel/2020/09/22/uniswap-rakipleri-curve-balancer-ve-sushiswap.html) Uniswap havuzlarının %50-%50 olması gerektiğini söylemiştik. Halbuki AMPL sahibi iseniz elinizdeki AMPL miktarı sürekli değişiyor. Balancer'da yeni başlatılan "Akullı Havuz" ile AMPL'nin havuzdaki AMPL miktarının arzındaki artış ya da azalışa göre otomatik olarak değiştirme imkanı verildi. 
+Bu arada Ampleforth ekibi, geçtiğimiz hafta benzer bir havuzu Balancer'da (Uniswap rakibi) kurdu. Üstelik bu ürün Balancer için de bir ilk. Neden Balancer kullandıklarına gelince: Hatırlarsanız [Uniswap rakiplerini tanıtan yazımızda](/genel/2020/09/22/uniswap-rakipleri-curve-balancer-ve-sushiswap.html) Uniswap havuzlarının büyüklüğünün %50-%50 olması gerektiğini söylemiştik. Balancer'da ise istediğiniz oranlarda havuzlar kurabiliyorsunuz. Halbuki AMPL sahibi iseniz elinizdeki AMPL miktarı sürekli değişiyor. Uniswap'ta kurulan havuzdaki AMPL fiyatı her bir arz değişimi sonrası değişiyor, bu da oynaklık yaratıyor. Halbuki Balancer'da yeni başlatılan "Akullı Havuz" ile AMPL'nin havuzdaki AMPL miktarının arzındaki artış ya da azalışa göre otomatik olarak değiştirme imkanı verildi. Bu sayede bu havuzdaki AMPL fiyatı hep hedeflenen değere daha yakın olacak. Bu da Ampleforth'un genel vizyonuna daha uygun. 
 
-Bunun iki farklı etkisi var AMPL'ye. Birincisi, AMPL'nin stabil parala
-
-İşte AMPL kontratı fiyat değiştiğinde havuzdaki AMPL miktarını otomatik olarak değiştirerek, havuz sahiplerinin "impermanent loss" riskini minimuma indirmeyi hedefliyor. Üstelik bunu AMPL/USDC olarak kurdu. Amaç - AMPL de USDC de 1 ABD Doları'na yakınsayan kripto paralar olduğu için, likidite sağlayıcıların en korktuğu havuzdaki iki paradan birinin alıp başını gitmesi nedeniyle zarara uğrama (impermanent loss) riskini önleyen bir havuz daha yaratmış olmak.
 
 ### Sıkıntılar/Riskler neler Ampleforth'da?
 
@@ -57,7 +54,7 @@ Bitcoin ya da her tür token için aslında benzer bir risk söz konusu. Fiyat d
 
 Burada temel olarak düşünülen toplam piyasa değerinin aynı kalması. Piyasa değeri dediğimiz hisse (ya da token) adedi ile hisse (ya da token) fiyatının çarpımı. Benzer şekilde sizin hissedar olarak varlığınız elinizdeki hisse adedi ile hisse fiyatının çarpımından oluşuyor. Sabit/stabil kripto paralar söz konusu olduğunda varlığınızın sabit kaldığını düşünüyorsunuz ama o kripto paranın bağlı oldukları itibari paralarda dış etkene bağlı olarak değer değişimlerine karşı korumasızsınız. Değeri kendinden menkul paralarda en azından itibari paralarda olduğu gibi devletlerin para politikalarından etkilenmiyorsunuz.
 
-#### Türev enstrümanlarında AMPL sorun yaratır mı?
+#### Türev enstrümanları AMPL için sorun yaratır mı?
 
 AMPL ile ilgili soru işaretlerinden bir tanesi de, FTX benzeri merkezi borsalarda kote olan kripto paranın, türev işlemleri sonucunda "açığa satış" durumu. Çok aşina olmayanlar için tekrarlayalım: Açığa satış, elinizde olmayan bir hisseyi (ya da tokeni) sonradan yerine koymak şartıyla şimdiden satmak. Bunu özellikle fiyatın düşmesini beklediğiniz durumlarda yaparsınız. Yukarıda bahsettiğimiz gibi, AMPL denge fiyatına ulaşabilmek adına ilk aşamada tüm ağın değerini azaltan ilginç bir sisteme sahip. Açığa satışlar bu tüm ağ değerindeki değişimlerin çok daha hızlı gerçekleşmesini sağlayabilirler. Dolayısıyla şüphe duyanlar için yukarıdaki girdap çok daha hızlı çalışıp sistemi çökertebilir, AMPL savunucuları için ise, fiyatın hızlı düşmesi ile tekrar toparlanma hızlıca gerçekleşebilir. Hangi tarafa inanmak istersiniz? Seçim sizin. 
 
@@ -71,8 +68,4 @@ Eğer bu ilk aşamayı başarılı bir şekilde geçebildikleri takdirde düşü
 Yukarıdaki üç aşamanın hepsi yaygınlaşma ve adaptasyon üzerine kurulu. Bu adaptasyon gerçekleşecek mi? En büyük sorun bu. Öncelikle, portföy yöneticileri önlerinde onlarca kripto içi ve dışı yatırım fırsatı dururken AMPL için zaman harcayacaklar mı? Onun fiyat hareketlerini inceleyip arzın artışlarını tahmin etmek gibi normalde başka kripto paralarda hiç uğraşmadıkları yeni parametrelere kafa yoracaklar mı? Zira yormazlar ise AMPL fiyat olarak istenen hedef banda gelmez. İlgi az olursa yaygınlaşma da gecikir ya da hiç olmaz. AMPL savunucuları, geçmişte Bitcoin için de benzer tereddütlerin olduğunu ama zamanın bu tip kuşkuları gidermede en iyi ilaç olduğunu düşünüyorlar. 
 
 ### Sonuç
-Ampleforth diğer başka DeFi girişimlerine göre oldukça yeni bir proje - ekip her ne kadar bir yıldır bir arada olsa da asıl çıkışlarını Temmuz 2020'den itibaren yaptılar. Eğer önümüzdeki aylarda büyük bir sorun yaşamaz ve kullanımı ekibin de çabaları ile gelişirse başarı olma ihtimalini konuşabileceğimiz bir proje. Gelişimini heyecanla izlemeye devam edeceğiz. 
-
-
-
-
+Ampleforth diğer başka DeFi girişimlerine göre oldukça yeni bir proje - ekip her ne kadar iki yıldır bir arada olsa da asıl çıkışlarını Temmuz 2020'den itibaren yaptılar. Eğer önümüzdeki aylarda büyük bir sorun yaşamaz ve kullanımı ekibin de çabaları ile gelişirse başarı olma ihtimalini konuşabileceğimiz bir proje. Gelişimini heyecanla izlemeye devam edeceğiz. 
