@@ -1,6 +1,6 @@
 Geçtiğimiz hafta başladığımız Ampleforth yazısına, kaldığımız yerden devam ediyoruz. 
 
-O uzun yazımızı özetlersek: 
+O [uzun yazımızı](/genel/2020/10/06/ilginc-bir-parasal-DeFi-deneyi-Ampleforth.html) özetlersek: 
 
 Ampleforth, bahsettiğimiz gibi çok ilginç bir proje. En ilginç yanı, bir yandan stabil bir para yaratırken diğer yandan yatırımcısı için getirisi olan bir proje olmaya çalışması.  Yani Tether gibi değeri stabil bir para olacak - ki böylece asıl amacı olan alışverişlerde yaygınca kullanılsın. Ama öte yandan Tether gibi bastığı paraların bankada bir karşılığı olmayacak, yani bir nevi Bitcoin gibi bağımsız, sansürlenemez ve değeri kendinden menkul bir paraya sahip olacak.  
 
