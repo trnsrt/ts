@@ -36,6 +36,8 @@ Geyser, Ampleforth'un getiri çiftçiliği (yield farming) özelliği. Uniswap v
 
 Verilen ekstra ödüllerden dolayı ilgi çekici bir program olabilir. Ancak Uniswap havuzların likidite sağlarken amacınız komisyon geliri kazanmak ise, o zaman bu havuza ihtiyatlı bakmakta fayda var. Zira, bu havuzlarda en iyi kazanç değeri birbirine yakın, ya da iniş çıkış gösteren ikili tokenlarda oluyor. AMPL'nin hemen hemen sabit bir token olduğunu -en azından teoride- düşündüğünüzde, paranızı AMPL/ETH token'ında tutarken komisyon gelirinin az olacağını bilmek gerek. Öte yandan, Geyser'in ilgi artırmak için geçici bir program olduğunu da unutmamalı. Geyser programının Mooniswap likiditesi için Kasım 2020'de Uniswap likiditesi için ise Aralık 2020'de bitiyor - yeni programlar olacak mı belli değil. 
 
+Bu arada Ampleforth ekibi, benzer bir havuzu Balancer'da (Uniswap rakibi) AMPL/USDC olarak kurdu. Amaç - AMPL de USDC de 1 ABD Doları'na yakınsayan kripto paralar olduğu için, likidite sağlayıcıların en korktuğu havuzdaki iki paradan birinin alıp başını gitmesi nedeniyle zarara uğrama (impermanent loss) riskini önleyen bir havuz daha yaratmış olmak. Neden Uniswap kullanmayıp Balancer kullandıklarına gelince: Hatırlarsanız [Uniswap rakiplerini tanıtan yazımızda](/genel/2020/09/22/uniswap-rakipleri-curve-balancer-ve-sushiswap.html) Uniswap havuzlarının %50-%50 olması gerektiğini söylemiştik. Halbuki AMPL sahibi iseniz elinizdeki AMPL miktarı değişiyor. İşte AMPL kontratı fiyat değiştiğinde havuzdaki AMPL miktarını otomatik olarak değiştirerek, havuz sahiplerinin "impermanent loss" riskini minimuma indirmeyi hedefliyor. 
+
 -- 
 
 #### Ya bir girdabın içinde fiyat düşmeye devam ederse?
