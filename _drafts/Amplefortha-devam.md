@@ -57,6 +57,15 @@ Burada temel olarak düşünülen toplam piyasa değerinin aynı kalması. Piyas
 
 
 ### Peki ya sıkıntılar neler?
+Ampleforth'un gelecek planları ile ilgili üç aşamadan bahsetmiştik. Başlangıçta, öyle stabil bir para olayım gibi bir derdi yok. Öncelikle, kendine has dalgalanmasından dolayı ellerinde kripto para portföyü tutanlara riski dağıtacakları bir alternatif olmak istiyor. 
+
+Eğer bu ilk aşamayı başarılı bir şekilde geçebildikleri takdirde düşündükleri dünyada portföy yöneticileri ellerinde tuttukları AMPL'deki fiyat değişimlerinde hemen kâr fırsatı görüp harekete geçecekler ve paranın değerini hedef seviyelere getirecekler. Bir yandan da ellerinde tuttukları AMPL'leri rezerv para olarak kullanıp başka paraları borç alabilecek ve başka yatırımlara girecekler. Neden AMPL'yi yeni yatırımlarda kullanmayıp, başka para borç alacaklar? Çünkü AMPL'nin değer olarak aynı kalsa da talebin artması durumunda portföylerinde oluşacak artışları kaçırmak istemeyecekler. Bunun yerine AMPL'yi teminat gösterip örneğin Tether borçlanmak işlerine gelecek. 
+
+Üçüncü aşama ise AMPL değerinin iyice stabil hale gelmesi nedeniyle, yalnızca artbitraj yapıp para kazanmak isteyen portföy yöneticilerin değil, alışverişlerde kullanmak üzere geniş kitlelerin de ilgisini çekecek hale gelmesi. 
+
+Yukarıdaki üç aşamanın hepsi yaygınlaşma ve adaptasyon üzerine kurulu. Bu adaptasyon gerçekleşecek mi? En büyük sorun bu. Öncelikle, portföy yöneticileri önlerinde onlarca kripto içi ve dışı yatırım fırsatı dururken AMPL için zaman harcayacaklar mı? Onun fiyat hareketlerini inceleyip arzın artışlarını tahmin etmek gibi normalde başka kripto paralarda hiç uğraşmadıkları yeni parametrelere kafa yoracaklar mı?
+
+
 
 #### Merkezi borsalarda AMPL tutmak
 
