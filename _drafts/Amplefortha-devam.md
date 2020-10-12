@@ -8,13 +8,14 @@ Bunu yapabilmek için de ilginç bir yol deniyor: Bitcoin'in fiyatının dalgal�
 
 Geçtiğimiz yazı çok uzadığı için, Ampleforth'un bu ilginç para politikasından bahsetmiş ama diğer kısımlarını sonraya bırakmıştık. Gelin şimdi Ampleforth'un diğer özellikleri ile birlikte potansiyel olarak görülebilecek sıkıntılarından bahsedelim: 
 
-#### Bitcoin var, stabil paralar var, Ampleforth'a olan ihtiyaç nereden geliyor?
+### Bitcoin var, stabil paralar var, Ampleforth'a olan ihtiyaç nereden geliyor?
 
 Kripto dünyasında en olgun ve kendini kanıtlamış proje Bitcoin. On yılı aşkın bir süredir tıkır tıkır çalışıyor. Durdurmayı ya da sekteye uğratmayı başaran olmadı. Sıkıntıları yok mu var tabii. Neler onlar?
 
 Kişiden kişiye çok değişsse de teknolojik olarak yavaş gelişmesi (ki bunu bir sorun değil "gerekli bir özellik" olduğunu savunanlar da var), basitliği nedeniyle üzerine kurulacak yeni yapılara çok uygun olmaması genelde Bitcoin ile ilgili şikayetlerin başında gelir. 
 
-Teknolojik olarak yavaş evrilmesine verilen en kritik örneklerden biri kişiden kişiye ödemelerde çok da yaygınlık kazanamamış olması. Hem de Satoshi Nakamoto'nun kaleme aldığı Bitcoin'in tanıtım dokümanı (white paper) başlığının "[Bitcoin - Eşten-eşe Elektronik Nakit Sistemi](https://bitcoin.org/bitcoin.pdf)" olmasına rağmen. Belki de bu sıkıntı nedeniyle, Bitcoin savunucularının son yıllardaki argümanları daha çok onun bir Dijital Altın olduğu ve ödeme işlemlerinden ziyade değer saklama aracı olarak görülmesi gerektiğine evrilmiş durumda. 
+#### Alışverişlerde Bitcoin kullanmak mı? Zor çok zor... 
+Teknolojik olarak yavaş evrilmesine verilen en kritik örneklerden biri kişiden kişiye ödemelerde çok da yaygınlık kazanamamış olması. Hem de Satoshi Nakamoto'nun kaleme aldığı Bitcoin'in tanıtım dokümanı (white paper) başlığının "[Bitcoin - Eşten-eşe Elektronik Nakit Sistemi](https://bitcoin.org/bitcoin.pdf)" olmasına rağmen. Belki de bu sıkıntı nedeniyle, kendisini savunanların son yıllardaki söylemleri Bitcoin'in alışverişler için bir araç olmaktan öte bir nevi Dijital Altın yani değer saklama aracı olarak görülmesi gerektiğine evrilmiş durumda. 
 
 Bitcoin'ın yaşadığı sorunları çözmek amacıyla sonrasında pek çok klonu çıktı. Sayı olarak [100'ün üzerinde]()https://atomicwallet.io/how-many-bitcoins-are-there. Aslında bunda şaşıracak bir durum da yok, zira açık kaynak bir uygulama olduğunuzda isteyen herkes oturup bir klonunu yaratabilir. Çok basit. Asıl zor olan, sisteminize inanmış bir topluluk yaratabilmek. İşte en başarılı Bitcoin klonunun bile (ki en büyüğü Bitcoin Cash herhalde) en sıkıntı yaşadığı konu da hep bu oldu. 
 
