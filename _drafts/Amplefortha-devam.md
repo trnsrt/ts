@@ -55,6 +55,10 @@ Bu arada Ampleforth ekibi, geçtiğimiz hafta benzer bir havuzu Balancer'da (Uni
 #### Ya bir girdabın içinde fiyat düşmeye devam ederse?
 Ampleforth'da arz kısılması ancak fiyat belli bir seviyenin altına düştüğü zaman gerçekleşiyor. O zaman akla ilk gelen soru: Ya arz azalımından dolayı fiyat azalır ve geri yükselmez ise, bir süre sonra fiyat yükselmediği için arz biraz daha düşerse - acaba sonsuz bir döngüye girer miyiz?
 
+| ![girdap](/assets/girdap_800_v2.jpg)|
+|:--:| 
+| *Kaynak: Image by[Gordon Johnson](https://pixabay.com/users/gdj-1086657/) from [Pixabay](https://pixabay.com/)*|
+
 Bitcoin ya da her tür token için aslında benzer bir risk söz konusu. Fiyat düşünce panik başlar, satışlar artar, sonra fiyat daha da düşer, daha da panik olur gibi.. Ancak geçmişte pek çok kez benzer düşüşleri yaşasa da, Bitcoin sonunda toparlandı. Ampleforth’da da bunu daha dramatik yaşama ihtimali var gibi görünüyor. Sadece fiyat değil, elinizdeki adet de azalıyor. Tamamen farklı alışık olmadığımız bir sistem deneyi. 
 
 Fiyatın sonrasında geri geleceğine düşünenlerin argümanı şu: Öncelikle AMPL'deki azalışlara denk gelecek arz değişimleri (rebase de deniyor buna) günlük olarak hesaplansa da, artışlar 10 günlük bir vade içinde yapılıyor. Yani %10'luk bir artış, her gün %1'lik bir arz artışı demek. 
