@@ -57,9 +57,8 @@ Fiyatın sonrasında geri geleceğine düşünenlerin argümanı şu: Öncelikle
 
 Fiyatın ve arzın birlikte düşmesi durumunda aslında tüm sistemin değeri dramatik olarak düşmüş olacak - dolayısı ile bu dışarıdan izleyenlerde ucuza alım fırsatı imkanı doğuracak. Öte yandan tokeni elinde tutan kişilerin fiyatın bu kadar düşmesi halinde ellerindeki ürünleri ucuzdan satma yerine beklemeyi tercih edeceği düşünülüyor -  [aynı geçmişte Bitcoin'de olduğu gibi](https://coincodex.com/article/2703/top-5-largest-bitcoin-crashes-in-history/). **Dolayısıyla sisteme güven çok kritik ve Ampleforth'un da bu güveni inşa edebilmesi için zamana ihtiyaç var.**
 
-BTC_keskin_dususler_400.png
 
-| ![BTC_dusus](/assets/BTC_keskin_dususler_400.png)|
+| ![BTC_dusus](/assets/BTC_keskin_dususler_800.png)|
 |:--:| 
 | *BTC'nin tarihindeki yaptığı dipler. Kaynak: [coincodex](https://coincodex.com/article/2703/top-5-largest-bitcoin-crashes-in-history/)*|
 
