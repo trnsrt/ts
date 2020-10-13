@@ -4,7 +4,7 @@ O [uzun yazımızı](/genel/2020/10/06/ilginc-bir-parasal-DeFi-deneyi-Ampleforth
 
 Ampleforth ilginç bir proje. En ilginç yanı, bir yandan stabil bir para yaratırken diğer yandan yatırımcısı için getirisi olan bir proje olmayı hedeflemesi. Bir başka deyişle bir yandan Tether gibi değeri dar bir bandın içinde hareket eden bir para olacak - ki böylece asıl nihai amacı olan alışverişlerde yaygınca kullanılabilsin. Ama öte yandan sistemin parası olan AMPL'nin Tether'in aksine bankada bir karşılığı olmayacak, bir nevi Bitcoin gibi bağımsız, sansürlenemez ve değeri kendinden menkul bir para olarak yatırımcısına kazanç sağlayacak. 
 
-Bunu yapabilmek için de ilginç bir yol deniyor: Bitcoin'in fiyatının dalgalı olmasının en büyük nedeninin arzının kısıtlı olması argümanından yola çıkarak dalgayı azaltabilmek için arzı oynak tutuyor. Talep olunca arzı artırıyor, azalınca benzer şekilde azaltıyor. Üstelilk bunu, hayatımıza yeni giren teknolojilerden Akıllı Kontratlar sayesinde yatırımcıların cüzdanlarına direkt müdahale edip cüzdana direkt para koyarak ya da cüzdandan para alarak yapıyor. Hem ilginç, hem de korkutucu değil mi?
+Bunu yapabilmek için de ilginç bir yol deniyor: Bitcoin'in fiyatının dalgalı olmasının en büyük nedeninin arzının kısıtlı olması argümanından yola çıkarak dalgayı azaltabilmek için arzı oynak tutuyor. Talep olunca arzı artırıyor, azalınca benzer şekilde azaltıyor. Üstelik bunu, hayatımıza yeni giren teknolojilerden Akıllı Kontratlar sayesinde yatırımcıların cüzdanlarına direkt müdahale edip cüzdana direkt para koyarak ya da cüzdandan para alarak yapıyor. Hem ilginç, hem de korkutucu değil mi?
 
 | ![shop_and_earn](/assets/bag-5000786_640.png)|
 |:--:| 
@@ -16,13 +16,13 @@ Geçtiğimiz yazı çok uzadığı için, Ampleforth'un bu ilginç para politika
 
 Kripto dünyasında en olgun ve kendini kanıtlamış proje Bitcoin. On yılı aşkın bir süredir tıkır tıkır çalışıyor. Durdurmayı ya da sekteye uğratmayı başaran olmadı. Sıkıntıları yok mu var tabii. Neler onlar?
 
-Kişiden kişiye çok değişsse de teknolojik olarak yavaş gelişmesi (ki bunu bir sorun değil "gerekli bir özellik" olduğunu savunanlar da var), basitliği nedeniyle üzerine kurulacak yeni yapılara çok uygun olmaması genelde Bitcoin ile ilgili şikayetlerin başında gelir. 
+Kişiden kişiye çok değişse de teknolojik olarak yavaş gelişmesi (ki bunu bir sorun değil "gerekli bir özellik" olduğunu savunanlar da var), basitliği nedeniyle üzerine kurulacak yeni yapılara çok uygun olmaması genelde Bitcoin ile ilgili şikayetlerin başında gelir. 
 
 #### Alışverişlerde Bitcoin kullanmak mı? Zor çok zor... 
 Teknolojik olarak yavaş evrilmesine verilen en kritik örneklerden biri kişiden kişiye ödemelerde çok da yaygınlık kazanamamış olması. Hem de Satoshi Nakamoto'nun kaleme aldığı Bitcoin'in tanıtım dokümanı (white paper) başlığının "[Bitcoin - Bireyden-Bireye Elektronik Nakit Sistemi](https://bitcoin.org/bitcoin.pdf)" olmasına rağmen. Belki de bu sıkıntı nedeniyle, kendisini savunanların son yıllardaki söylemleri Bitcoin'in alışverişler için kullanılabilecek bir araç olmasından, bir nevi Dijital Altın yani değer saklama aracı olarak görülmesi gerektiğine evrilmiş durumda. 
 
 #### Bitcoin'in rakipleri onu zayıf karnından vurmaya çalışıyor.. 
-Bitcoin'ın yaşadığı sorunları çözmek amacıyla sonrasında pek çok klonu çıktı. Sayı olarak [100'ün üzerinde](https://atomicwallet.io/how-many-bitcoins-are-there). Aslında bunda şaşıracak bir durum da yok, zira açık kaynak bir uygulama olduğunuzda isteyen herkes oturup bir klonunu yaratabilir. Çok basit. (Asıl zor olan, sisteminize inanmış bir topluluk yaratabilmek. İşte en başarılı Bitcoin klonunun bile -ki en büyüğü [Bitcoin Cash](https://www.coingecko.com/en/coins/bitcoin-cash) olur- en sıkıntı yaşadığı konu da hep bu oldu.)
+Bitcoin'in yaşadığı sorunları çözmek amacıyla sonrasında pek çok klonu çıktı. Sayı olarak [100'ün üzerinde](https://atomicwallet.io/how-many-bitcoins-are-there). Aslında bunda şaşıracak bir durum da yok, zira açık kaynak bir uygulama olduğunuzda isteyen herkes oturup bir klonunu yaratabilir. Çok basit. (Asıl zor olan, sisteminize inanmış bir topluluk yaratabilmek. İşte en başarılı Bitcoin klonunun bile -ki en büyüğü [Bitcoin Cash](https://www.coingecko.com/en/coins/bitcoin-cash) olur- en sıkıntı yaşadığı konu da hep bu oldu.)
 
 | ![BTC_clones](/assets/bitcoin_clones_800.jpg)|
 |:--:| 
@@ -34,7 +34,7 @@ Bitcoin klonları da genellikle alışverişler için kullanılabilme noktasınd
 Gördüğünüz gibi yukarıdaki çözüm önerilerinin hepsi teknik. Halbuki kabul etmemiz gereken bir gerçek var, o da Bitcoin'in genel olarak gündelik hayatımıza girememesinin en önemli nedenlerinden biri aslında fiyatının çok dalgalı olması. Bu dalgalanmalar içinde Bitcoin'i alışveriş aracı olarak kullanmak neredeyse imkansız, zira alışverişte tarafların en fazla ihtiyaç duyduğu adil ve değeri çok fazla oynamayacak bir araç - ki kafaları rahat olsun ve asıl işlerine odaklanabilsinler. 
 
 #### Ya stabil paralar?
-İşte bu dalgalanma sorununu çözebilmek amacıyla itibari paralara (fiat para da denen merkez bankaları yönetimindeki ülke paralarına) çapalanmış stabil paralar çıkarıldı ve büyük de ilgi gördü. Ancak [önceki yazımızda](/genel/2020/10/06/ilginc-bir-parasal-DeFi-deneyi-Ampleforth.html) da değindiğimiz gibi bu paraların merkezi yapılar olmaları merkeziyetsiz finans destüruna ters - üstelik sicilleri de o anlamda hiç iyi değil (yeri geldiğinde [bireylere ait paraları dondurmaları](https://en.ethereumworldnews.com/bitfinex-and-tether-freeze-33m-usdt-from-kucoin-hack/) gibi). 
+İşte bu dalgalanma sorununu çözebilmek amacıyla itibari paralara (fiat para da denen merkez bankaları yönetimindeki ülke paralarına) çapalanmış stabil paralar çıkarıldı ve büyük de ilgi gördü. Ancak [önceki yazımızda](/genel/2020/10/06/ilginc-bir-parasal-DeFi-deneyi-Ampleforth.html) da değindiğimiz gibi bu paraların merkezi yapılar olmaları merkeziyetsiz finans düsturuna ters - üstelik sicilleri de o anlamda hiç iyi değil (yeri geldiğinde [bireylere ait paraları dondurmaları](https://en.ethereumworldnews.com/bitfinex-and-tether-freeze-33m-usdt-from-kucoin-hack/) gibi). 
 
 Bunun yanında bu stabil paralar kısa vadeli alışveriş amacına hizmet edebilirler ancak uzun vadede, ABD ve Avrupa merkez bankalarının sürekli genişleme hareketleri sebebiyle itibari paraların değerinin düşeceği sık dile getirilen bir iddia. Bu iddiaya inanan pek çok yatırımcı için stabil paralar kısa vadeli işlemler dışında çok da cazip değil.
 
