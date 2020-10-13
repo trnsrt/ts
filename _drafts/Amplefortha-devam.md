@@ -20,6 +20,10 @@ Teknolojik olarak yavaş evrilmesine verilen en kritik örneklerden biri kişide
 #### Bitcoin'in rakipleri onu zayıf karnından vurmaya çalışıyor.. 
 Bitcoin'ın yaşadığı sorunları çözmek amacıyla sonrasında pek çok klonu çıktı. Sayı olarak [100'ün üzerinde](https://atomicwallet.io/how-many-bitcoins-are-there). Aslında bunda şaşıracak bir durum da yok, zira açık kaynak bir uygulama olduğunuzda isteyen herkes oturup bir klonunu yaratabilir. Çok basit. (Asıl zor olan, sisteminize inanmış bir topluluk yaratabilmek. İşte en başarılı Bitcoin klonunun bile -ki en büyüğü [Bitcoin Cash](https://www.coingecko.com/en/coins/bitcoin-cash) olur- en sıkıntı yaşadığı konu da hep bu oldu.)
 
+| ![BTC_clones](/assets/bitcoin_clones_800.jpg)|
+|:--:| 
+| * Kaynak: Image by [Andrew Martin]((https://pixabay.com/users/aitoff-388338/)) from [Pixabay](https://pixabay.com/)*|
+
 Bitcoin klonları da genellikle alışverişler için kullanılabilme noktasında kendilerini ayrıştırmaya çalışıyorlar. Aslında burada teşhis doğru, tedavi önerileri ise klondan klona değişiyor: [Litecoin örneğinde olduğu gibi her 10 dakikada bir uzlaşma yapmak yerine 2.5 dakikada bir yapmak](/genel/2018/06/07/token-dunyasina-devam-diger-kriptopalar-litecoin-monero-dash-zcash.html), böylece işlemlerin teyidini hızlandırmak bunlardan biri. Ya da Bitcoin Cash örneğinde olduğu gibi uzlaşma yapılan her bir bloğun büyüklüğünü artırmak böylece yoğun işlem zamanlarında blokların dolmasından ötürü oluşacak gecikmeleri önlemek bir diğeri. Ve nihayet, [Lightning Network gibi Bitcoin üzerine kurulu ikinci seviye çözümler ile ana blok zincirini daha az kullanarak maliyetleri azaltmak](/genel/2018/12/20/bitcoin-uzerinde-isik-hiziyla-islem-Lightning-network.html) ve böylece ufak ödemeler (örneğin Bitcoin ile kahve almak) için kullanışlı hale getirmek bir başkası bu örneklerin. 
 
 #### Ama mevcut çözümler hep teknik, halbuki asıl sorun ekonomik... 
