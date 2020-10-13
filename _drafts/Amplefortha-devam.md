@@ -57,6 +57,13 @@ Fiyatın sonrasında geri geleceğine düşünenlerin argümanı şu: Öncelikle
 
 Fiyatın ve arzın birlikte düşmesi durumunda aslında tüm sistemin değeri dramatik olarak düşmüş olacak - dolayısı ile bu dışarıdan izleyenlerde ucuza alım fırsatı imkanı doğuracak. Öte yandan tokeni elinde tutan kişilerin fiyatın bu kadar düşmesi halinde ellerindeki ürünleri ucuzdan satma yerine beklemeyi tercih edeceği düşünülüyor -  [aynı geçmişte Bitcoin'de olduğu gibi](https://coincodex.com/article/2703/top-5-largest-bitcoin-crashes-in-history/). **Dolayısıyla sisteme güven çok kritik ve Ampleforth'un da bu güveni inşa edebilmesi için zamana ihtiyaç var.**
 
+BTC_keskin_dususler_400.png
+
+| ![BTC_dusus](/assets/BTC_keskin_dususler_400.png)|
+|:--:| 
+| *BTC'nin tarihindeki yaptığı dipler. Kaynak: [coincodex](https://coincodex.com/article/2703/top-5-largest-bitcoin-crashes-in-history/)*|
+
+
 AMPL yatırımcısının token ile ilgili değerlendirme yaparken bakması gereken temel endikatör, diğer bütün tokenların aksine, token fiyatı değil, tüm AMPL ağının toplam değeri olmalı.
 
 #### Türev enstrümanları AMPL için sorun yaratır mı?
@@ -73,4 +80,5 @@ Eğer bu ilk aşamayı başarılı bir şekilde geçebilirse hayal ettikleri dü
 Yukarıdaki üç aşamanın hepsi yaygınlaşma ve adaptasyon üzerine kurulu. Bu adaptasyon gerçekleşecek mi? En büyük sorun bu. Öncelikle, portföy yöneticileri önlerinde onlarca kripto içi ve dışı yatırım fırsatı dururken AMPL için zaman harcayacaklar mı? Onun fiyat hareketlerini inceleyip arzın artışlarını tahmin etmek gibi normalde başka kripto paralarda hiç uğraşmadıkları yeni parametrelere kafa yoracaklar mı? Zira yormazlar ise AMPL fiyat olarak istenen hedef aralığına gelmez. İlgi az olursa yaygınlaşma da gecikir ya da hiç olmaz. AMPL savunucuları, geçmişte Bitcoin için de benzer tereddütlerin olduğunu ama zamanın bu tip kuşkuları gidermede en iyi ilaç olduğunu düşünüyorlar. 
 
 ### Sonuç
-Ampleforth diğer başka DeFi girişimlerine göre oldukça yeni bir proje - ekip her ne kadar iki yıldır bir arada olsa da asıl çıkışlarını DeFi'a olan ilginin arttığı  Temmuz 2020'den itibaren yaşadılar . Eğer önümüzdeki aylarda büyük bir sorun yaşamaz ve kullanımı ekibin de çabaları ile gelişirse başarı olma ihtimalini konuşabileceğimiz bir proje. Gördüğümüz kadarıyla yeni ve küçük bir ekip ile oldukça büyük bir yükün altına girmiş durumdalar. Balancer ile yapılan havuz benzeri yenilikler, adaptasyonu artıracak ancak ekibin kaynaklarını da zorlayacak deneyler. Güçleri, nefesleri yetecek mi bekleyip görelim. Gelişimini heyecanla izlemeye devam edeceğiz. 
+Ampleforth diğer başka DeFi girişimlerine göre oldukça yeni bir proje - ekip her ne kadar iki yıldır bir arada olsa da asıl çıkışlarını DeFi'a olan ilginin arttığı  Temmuz 2020'den itibaren yaşadılar . Eğer önümüzdeki aylarda büyük bir sorun yaşamaz ve kullanımı ekibin de çabaları ile gelişirse başarı olma ihtimalini konuşabileceğimiz bir proje. Gördüğümüz kadarıyla yeni ve küçük bir ekip ile oldukça büyük bir yükün altına girmiş durumdalar. Balancer ile yapılan havuz benzeri yenilikler, adaptasyonu artıracak ancak ekibin kaynaklarını da zorlayacak deneyler. Güçleri, nefesleri yetecek mi bekleyip görelim. 
+
