@@ -57,7 +57,7 @@ Ampleforth'da arz kısılması ancak fiyat belli bir seviyenin altına düştü�
 
 | ![girdap](/assets/girdap_400.jpg)|
 |:--:| 
-| *Kaynak: Image by[Gordon Johnson](https://pixabay.com/users/gdj-1086657/) from [Pixabay](https://pixabay.com/)*|
+| *Kaynak: Image by [Gordon Johnson](https://pixabay.com/users/gdj-1086657/) from [Pixabay](https://pixabay.com/)*|
 
 Bitcoin ya da her tür token için aslında benzer bir risk söz konusu. Fiyat düşünce panik başlar, satışlar artar, sonra fiyat daha da düşer, daha da panik olur gibi.. Ancak geçmişte pek çok kez benzer düşüşleri yaşasa da, Bitcoin sonunda toparlandı. Ampleforth’da da bunu daha dramatik yaşama ihtimali var gibi görünüyor. Sadece fiyat değil, elinizdeki adet de azalıyor. Tamamen farklı alışık olmadığımız bir sistem deneyi. 
 
