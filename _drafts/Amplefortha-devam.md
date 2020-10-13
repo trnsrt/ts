@@ -55,7 +55,7 @@ Bu arada Ampleforth ekibi, geçtiğimiz hafta benzer bir havuzu Balancer'da (Uni
 #### Ya bir girdabın içinde fiyat düşmeye devam ederse?
 Ampleforth'da arz kısılması ancak fiyat belli bir seviyenin altına düştüğü zaman gerçekleşiyor. O zaman akla ilk gelen soru: Ya arz azalımından dolayı fiyat azalır ve geri yükselmez ise, bir süre sonra fiyat yükselmediği için arz biraz daha düşerse - acaba sonsuz bir döngüye girer miyiz?
 
-| ![girdap](/assets/girdap_800_v2.jpg)|
+| ![girdap](/assets/girdap_400.jpg)|
 |:--:| 
 | *Kaynak: Image by[Gordon Johnson](https://pixabay.com/users/gdj-1086657/) from [Pixabay](https://pixabay.com/)*|
 
