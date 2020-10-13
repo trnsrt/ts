@@ -6,6 +6,10 @@ Ampleforth ilginç bir proje. En ilginç yanı, bir yandan stabil bir para yarat
 
 Bunu yapabilmek için de ilginç bir yol deniyor: Bitcoin'in fiyatının dalgalı olmasının en büyük nedeninin arzının kısıtlı olması argümanından yola çıkarak dalgayı azaltabilmek için arzı oynak tutuyor. Talep olunca arzı artırıyor, azalınca benzer şekilde azaltıyor. Üstelilk bunu, hayatımıza yeni giren teknolojilerden Akıllı Kontratlar sayesinde yatırımcıların cüzdanlarına direkt müdahale edip cüzdana direkt para koyarak ya da cüzdandan para alarak yapıyor. Hem ilginç, hem de korkutucu değil mi?
 
+| ![shop_and_earn](/assets/ampl_intro_600.jpg)|
+|:--:| 
+| *Kaynak: Image by [bluebudgie]((https://pixabay.com/users/bluebudgie-4333174)) from [Pixabay](https://pixabay.com/)*|
+
 Geçtiğimiz yazı çok uzadığı için, Ampleforth'un bu ilginç para politikasından bahsetmiş ama diğer kısımlarını sonraya bırakmıştık. Gelin şimdi Ampleforth'un diğer özellikleri ile birlikte potansiyel olarak görülebilecek sıkıntılarından bahsedelim: 
 
 ### Bitcoin var, stabil paralar var, Ampleforth'a olan ihtiyaç nereden geliyor?
