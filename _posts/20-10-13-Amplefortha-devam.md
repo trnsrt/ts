@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Ampleforth'a devam"
+date:   2020-10-13 18:47:56 +0300
+categories: Genel
+tags: Yazılar DeFi
+---
+
 Geçtiğimiz hafta başladığımız Ampleforth yazısına, kaldığımız yerden devam ediyoruz. 
 
 O [uzun yazımızı](/genel/2020/10/06/ilginc-bir-parasal-DeFi-deneyi-Ampleforth.html) özetlersek: 
@@ -92,4 +100,14 @@ Yukarıdaki üç aşamanın hepsi yaygınlaşma ve adaptasyon üzerine kurulu. B
 
 ### Sonuç
 Ampleforth diğer başka DeFi girişimlerine göre oldukça yeni bir proje - ekip her ne kadar iki yıldır bir arada olsa da asıl çıkışlarını DeFi'a olan ilginin arttığı  Temmuz 2020'den itibaren yaşadılar. Eğer önümüzdeki aylarda büyük bir sorun yaşamaz ve kullanımı ekibin de çabaları ile gelişirse başarı olma ihtimalini konuşabileceğimiz bir proje. Gördüğümüz kadarıyla yeni ve küçük bir ekip ile oldukça büyük bir yükün altına girmiş durumdalar. Balancer ile yapılan havuz benzeri yenilikler, adaptasyonu artıracak ancak ekibin kaynaklarını da zorlayacak deneyler. Güçleri, nefesleri yetecek mi bekleyip görelim. 
+
+---
+
+*Not 1: Bu yazı ilk olarak 13 Ekim 2020'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/amplefortha-devam/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
+
+---
 
