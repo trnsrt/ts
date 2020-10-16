@@ -78,11 +78,13 @@ Basitçe çalışma bu şekilde. Gelin Nexus Mutual özelinde sistem nasıl çal
 
 
 
+### Hiç ödeme yapmış mı Nexus Mutual: 
 
+Şimdiye kadar bir durumda ödeme yapılmış. 2020 Şubat ayında [bzX sistemindeki bir açıktan dolayı oluşan hasarda](https://bzx.network/blog/postmortem-ethdenver) Nexus Mutual üyeleri [iki adet koruma alan kullanıcının için toplam 500,000 ABD Doları'nı geçen bir ödeme yapmışlar](https://medium.com/nexus-mutual/bzx-flash-loan-event-55753d19e52b)
 
 -- 
 
 
 ### Nexus Mutual başarısı
 
-Nexus Mutual 2020 yılı başlarında yaklaşık 1.5 milyon ABD Doları bir koruma sağlarken, bugün bu rakam 
+Nexus Mutual 2020 yılı başlarında yaklaşık 1.5 milyon ABD Doları bir koruma sağlarken, Ekim aylarına geldiğimizde bu rakam 200 milyon ABD Doları'nı geçmiş durumda. Bunun temel nedeni doğal olarak 2020 yazında hareketlenmeye başlayan DeFi piyasası. İngilizce'de FOMO (Fear-of-Missing-Out) olarak adlandırılan, bir şeyleri kaçırıyor duygusunun da etkisi ile bu alana giren bireysel yatırımcılar sayesinde katlanarak artan pazar. Piyasa yeni giren yatırımcıların teknik olarak yetersiz olmaları Nexus benzeri sigortalara olan ilgiyi artırdı. Keza sonrasında gelen bir kaç haber  
