@@ -78,7 +78,7 @@ Basitçe çalışma bu şekilde. Gelin Nexus Mutual özelinde sistem nasıl çal
 
 
 
-### Hiç ödeme yapmış mı Nexus Mutual: 
+#### Hiç hasar karşılama ödemesi yapmış mı Nexus Mutual?
 
 Şimdiye kadar bir durumda ödeme yapılmış. 2020 Şubat ayında [bzX sistemindeki bir açıktan dolayı oluşan hasarda](https://bzx.network/blog/postmortem-ethdenver) Nexus Mutual üyeleri [iki adet koruma alan kullanıcının için toplam 500,000 ABD Doları'nı geçen bir ödeme yapmışlar](https://medium.com/nexus-mutual/bzx-flash-loan-event-55753d19e52b)
 
