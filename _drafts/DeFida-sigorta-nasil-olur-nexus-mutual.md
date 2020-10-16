@@ -93,9 +93,10 @@ Herhangi bir hasar olayı olduğunda, ilgili üründen koruma almış olanlar, N
 
 
 #### yEarn ve NFT'ler
-Nexus Mutual'un sigortasının başarısı diğer projelerin de ilgisini çekti. Örneğin bu satırlarda sıkça bahsettiğimiz merkeziyetsiz portföy yönetim platformu yEarn, Nexus Mutual sigortalarını kullanarak [yinsure](https://yinsure.finance/) adında bir ürün çıkardı. Benzer şekilde tekil tokenların bulunduğu Rarible platformunda da yNFT denen NXM'e bağlı tokenlar işlem görmeye başladı. 
+Nexus Mutual'un sigortasının başarısı diğer projelerin de ilgisini çekti. Örneğin bu satırlarda sıkça bahsettiğimiz merkeziyetsiz portföy yönetim platformu yEarn, Nexus Mutual sigortalarını kullanarak [yinsure](https://yinsure.finance/) adında bir ürün çıkardı. Benzer şekilde tekil tokenların bulunduğu Rarible platformunda da yNFT denen NXM'e bağlı tokenlar işlem görmeye başladı - farklı Nexus ürünleri ve farklı vadeler için farklı tokenlar yaratıldı.  Benzer şekilde [daha önce bir yazımızda bahsettiğimiz ETC pazarlarında işlem gören BTC](https://turansert.com/genel/2020/07/09/eth-gorunumlu-btc-olur-mu.html)'lerde olduğu gibi ETH tokeni gibi işlem gören WNXM'ler de çıkarıldı. 
 
-[^1]Yapılan oylamada verilen karar %70 çoğunluk ile alınmalı - aksi takdirde tüm sistem tarafından bir oylama daha yapılıyor. 
+Yukarıdaki üç örneğin de çıkış sebebi aslında basit: NXM üyeleri tarafından alınıp satılabilen dolayısıyla KYC prosedürlerine sahip bir token. Merkeziyetsiz Finans dünyasının kullanıcıların gizliliği konusunda hassas olan kesimlerine hitap edemiyor. Bu ürünler KYC olmadan sigorta alınabilmeye olanak sağlıyor. 
+
 
 -- 
 
