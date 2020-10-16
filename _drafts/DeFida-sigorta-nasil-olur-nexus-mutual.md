@@ -93,7 +93,7 @@ Herhangi bir hasar olayı olduğunda, ilgili üründen koruma almış olanlar, N
 
 
 #### yEarn ve NFT'ler
-Nexus Mutual'un sigortasının başarısı diğer projelerin de ilgisini çekti. Örneğin bu satırlarda sıkça bahsettiğimiz merkeziyetsiz portföy yönetim platformu yEarn, Nexus Mutual sigortalarını kullanarak [yinsure](https://yinsure.finance/) adında bir ürün çıkardı. 
+Nexus Mutual'un sigortasının başarısı diğer projelerin de ilgisini çekti. Örneğin bu satırlarda sıkça bahsettiğimiz merkeziyetsiz portföy yönetim platformu yEarn, Nexus Mutual sigortalarını kullanarak [yinsure](https://yinsure.finance/) adında bir ürün çıkardı. Benzer şekilde tekil tokenların bulunduğu Rarible platformunda da yNFT denen NXM'e bağlı tokenlar işlem görmeye başladı. 
 
 [^1]Yapılan oylamada verilen karar %70 çoğunluk ile alınmalı - aksi takdirde tüm sistem tarafından bir oylama daha yapılıyor. 
 
