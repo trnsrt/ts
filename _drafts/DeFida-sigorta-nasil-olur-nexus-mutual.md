@@ -32,7 +32,7 @@ Sistemin çalışması aslında bir havuz şeklinde. Evet, [daha önceki Uniswap
 
 Nexus Mutual havuzu da şimdilik iki paradan oluşuyor. Bunlardan biri Nexus'un kendi parası NXM, diğeri ise Ethereum'un parası ETH. Bu havuz risklerin ve getirilerin paylaşıldığı bir havuz aslında. Öncelikle, NXM'iniz yok ise, gelip bu havuza ETH koyup NXM almalısınız. 
 
-Kim niye NXM alsın? İki neden var. Öncelikle sigorta yaptırmak, pardon Akıllı Kontratlar'a karşı koruma satın almak istiyorsanız, NXM'iniz olmalı. Yaptırmak istediğiniz sigorta miktarı ve süresine bağlı olarak NXM yakmanız gerekiyor. Yani sigorta primi ödemenin benzeri. Koruma yaptırmak için NXM'niz olacak, NXM'i de havuzdan ETH karşılığı alacaksınız, yani primi ETH ile ödüyorsunuz. 
+Kim niye NXM alsın? İki neden var. Öncelikle sigorta yaptırmak, pardon Akıllı Kontratlar'a karşı koruma satın almak istiyorsanız, NXM'iniz olmalı [BUNU KONTROL EDELİM!!!!]. Yaptırmak istediğiniz sigorta miktarı ve süresine bağlı olarak NXM yakmanız gerekiyor. Yani sigorta primi ödemenin benzeri. Koruma yaptırmak için NXM'niz olacak, NXM'i de havuzdan ETH karşılığı alacaksınız, yani primi ETH ile ödüyorsunuz. 
 
 Diğer bir neden ise NXM'i yatırım olarak almak. Sigorta yaptırmak isteyenler gelip bu havuzdan satın alacaklar - bu da NXM'e olan talebi ve fiyatını artıracak. 
 
@@ -52,6 +52,25 @@ Buna göre eğer havuzdaki kapital miktarı minimum kapitale doğru yaklaşırsa
 
 Keza benzer şekilde eğer Nexus sistemindeki kapital çok artar ise o zaman da NXM'in fiyatı hızla yükseliyor. Bu da benzer şekilde yatırımcıların bu artışı değerlendirmek için NXM satmalarına neden oluyor - sistem yeniden dengeye geliyor.  
 
+Bu arada bir konuyu aydınlatmakta fayda var: Her ne kadar merkeziyetsiz bir sistem olsa da Nexus Mutual'ın belli alanlarda kısıtları olduğunu belirtelim. Örneğin, NXM yalnızca Nexus Mutual'un kendi kurduğu platformda işlem görüyor. NXM satın alabilmek için Nexus Mutual sistemine üye olmak zorundasınız. Üye olmak için de müşterini tanı (KYC - Know your customer) işleminden geçmeniz gerekiyor.  
+
+#### Nasıl sigorta yapıyorsunuz?
+Üye olduktan sonra aslında çok da karmaşık değil. Kullanıcı farklı ürünlerden hangisine karşı kendisini korumak istiyor ise onu seçiyor, kaç gün için ve ne kadarlık bir miktar için korunma istediğini belirliyor. Sistem kendisine bir oran veriyor. Burada kullanıcı ödemeyi dilerse NXM dilerse ise ETH ile yapabiliyor. 
+
+Peki bu oranı kim nasıl belirliyor?
+
+
+Bir sorun olduğunda ödeme yapılacağına kim karar veriyor?
+Her ne kadar Akıllı Kontratlar var desek de, ödemeler henüz otomatik yapılacak seviyeye gelmiş değil. Bunu DeFi'nin emekleme aşamasında olmasına bağlayabilirsiniz - belki önümüzdeki dönemde orada da olabildiğince otomatize bir sistem olabilir. Bir sistem sorunu olduğu ve ödeme yapılması gerektiğine Nexus Mutual'a üye olanlar oylama ile karar veriyorlar. Eğer Nexus Mutual üyeleri (ellerinde NXM token tutanlar) sistemsel bir sorun olduğu ve ödeme yapılması gerektiği konusunda bir karar verirlerse işte o zaman Akıllı Kontratlar devreye girip ürün satın almış olan kullanıcılara tazminatlarını ödüyorlar. 
+
+
+### Başka ne özellikler var?
+
+### Staking
+
+Başka pek çok platformda da gördüğümüz tokenlarını rehin verme işlemi Nexus Mutual'da da var. Staking daha fazla risk karşılığı daha da fazla getiri almak isteyenler için kurulmuş bir sistem. Normal Nexus Mutual'a yatırımcı olmak istediğinizde, havuzdan NXM satın alıyor ve tüm sistem risk ve getirisine ortak oluyorsunuz. Ancak staking yaptığınızda bu yatırımı ürün bazında ayrıştırmak mümkün. NXM satın alan genel sisteme yatırım yapmış bir yatırımcı sonrasında dilerse bu NXM'i ile belli bir spesifik ürüne koyarak riskini daha da artırabiliyor. Böyle yaparak bu spesifik ürünü satın almış olanların ödedikleri primlerden bir kısmını havuzdan önce kazanma hakkına sahip oluyor. Risk tarafında ise üründe bir sorun çıkıp da zarar tazminat ödenmesi halinde koymuş olduğu NXM'i toptan kaybetme ihtimali de var. Bu nedenle, ekstra bir riskli ürün olduğu unutulmamalı. 
+
+Aslına bakarsanız, staking bir nevi spesifik Akıllı Kontratların risklerini anlayabilmek için güzel bir endikatör aynı zamanda. Riskleri (yani sigorta yapılmış tutarları) aynı olan iki Akıllı Kontrat'tan birine diğerinin iki katı kadar staking yapılmışsa, bu birinci kontratın genel olarak çok daha az riskli görüldüğü anlamına gelebilir. 
 
 
 Basitçe çalışma bu şekilde. Gelin Nexus Mutual özelinde sistem nasıl çalışıyor daha detaylı bakalım: 
