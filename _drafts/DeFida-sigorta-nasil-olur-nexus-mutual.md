@@ -82,4 +82,7 @@ Basitçe çalışma bu şekilde. Gelin Nexus Mutual özelinde sistem nasıl çal
 
 -- 
 
-Riskler sınırlı
+
+### Nexus Mutual başarısı
+
+Nexus Mutual 2020 yılı başlarında yaklaşık 1.5 milyon ABD Doları bir koruma sağlarken, bugün bu rakam 
