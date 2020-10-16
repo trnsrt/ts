@@ -87,7 +87,7 @@ Herhangi bir hasar olayı olduğunda, ilgili üründen koruma almış olanlar, N
 
 #### Hiç hasar karşılama ödemesi yapmış mı Nexus Mutual?
 
-Şimdiye kadar bir durumda ödeme yapılmış. 2020 Şubat ayında [bzX sistemindeki bir açıktan dolayı oluşan hasarda](https://bzx.network/blog/postmortem-ethdenver) Nexus Mutual üyeleri [iki adet koruma alan kullanıcının için toplam 35,000 ABD Doları'na yakın bir ödeme yapmışlar](https://medium.com/nexus-mutual/bzx-flash-loan-event-55753d19e52b)
+Şimdiye kadar bir durumda ödeme yapılmış. 2020 Şubat ayında [bzX sistemindeki bir açıktan dolayı oluşan hasarda](https://bzx.network/blog/postmortem-ethdenver) Nexus Mutual üyeleri [iki adet koruma alan kullanıcının için toplam 35,000 ABD Doları'na yakın bir ödeme yapmışlar](https://medium.com/nexus-mutual/bzx-flash-loan-event-55753d19e52b). Şu ana kadar toplam 53 hasar talebi geldiğini ve sadece az önce bahsettiğimiz bZx hasarına ait üç talebin karşılandığını, 47 talebin reddedildiğini de hatırlatalım[^2]
 
 
 
@@ -111,7 +111,11 @@ Nexus'un özünde DeFi için yaratılmış bir proje. Başarısı için DeFi paz
 Öte yandan yEarn benzeri yapacakları ortaklıklar da onların daha geniş kitleler tarafından tanınmasını sağlayacak. 
 
 
+---
 
+
+[^1] Yapılan oylamada verilen karar %70 çoğunluk ile alınmalı - aksi takdirde tüm sistem tarafından bir oylama daha yapılıyor. 
+[^2] Üç adet talep henüz değerlendirme aşamasında
 
 ---
 Kaynaklar: 
