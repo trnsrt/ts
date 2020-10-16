@@ -109,3 +109,11 @@ Nexus Mutual 2020 yılı başlarında yaklaşık 1.5 milyon ABD Doları bir koru
 Nexus'un özünde DeFi için yaratılmış bir proje. Başarısı için DeFi pazarının büyümesi gerekli. Daha farklı platformlar için yeni ürünler çıkarmaya devam etmeleri gerekiyor. Ama asıl büyümeyi, farklı riskleri de kapsama alanı için almaları durumunda olacak - yalnızca kontrat hatalarına karşı kullanıcıları koruyarak gidebileceğiniz yol kısıtlı - üstelik mevcut platformların kullanım süreleri arttıkça kullanıcılar daha rahat edip, platform riskine para ödemeyip üzerlerine almak isteyebilirler. 
 
 Öte yandan yEarn benzeri yapacakları ortaklıklar da onların daha geniş kitleler tarafından tanınmasını sağlayacak. 
+
+
+
+
+---
+Kaynaklar: 
+
+https://cryptobriefing.com/defi-review-what-is-nexus-mutual-introduction-nxm/
