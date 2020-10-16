@@ -32,9 +32,14 @@ Sistemin çalışması aslında bir havuz şeklinde. Evet, [daha önceki Uniswap
 
 Nexus Mutual havuzu da şimdilik iki paradan oluşuyor. Bunlardan biri Nexus'un kendi parası NXM, diğeri ise Ethereum'un parası ETH. Bu havuz risklerin ve getirilerin paylaşıldığı bir havuz aslında. Öncelikle, NXM'iniz yok ise, gelip bu havuza ETH koyup NXM almalısınız. 
 
-Kim niye NXM alsın? İki neden var. Öncelikle sigorta yaptırmak, pardon Akıllı Kontratlar'a karşı koruma satın almak istiyorsanız, NXM'iniz olmalı [BUNU KONTROL EDELİM!!!!]. Yaptırmak istediğiniz sigorta miktarı ve süresine bağlı olarak NXM yakmanız gerekiyor. Yani sigorta primi ödemenin benzeri. Koruma yaptırmak için NXM'niz olacak, NXM'i de havuzdan ETH karşılığı alacaksınız, yani primi ETH ile ödüyorsunuz. 
+Kim niye NXM alsın? İki neden var. Öncelikle sigorta yaptırmak, pardon "Akıllı Kontratlar'a karşı koruma satın almak" istiyorsanız, NXM'iniz olmalı [BUNU KONTROL EDELİM!!!!]. Yaptırmak istediğiniz sigorta miktarı ve süresine bağlı olarak NXM yakmanız gerekiyor. Yani sigorta primi ödemenin benzeri. Koruma yaptırmak için NXM'niz olacak, NXM'i de havuzdan ETH karşılığı alacaksınız, yani primi ETH ile ödüyorsunuz. 
 
 Diğer bir neden ise NXM'i yatırım olarak almak. Sigorta yaptırmak isteyenler gelip bu havuzdan satın alacaklar - bu da NXM'e olan talebi ve fiyatını artıracak. 
+
+Peki fiyat neye göre belirleniyor? Hatırlarsanız, Uniswap kendi içinde basit bir algoritma kullanarak al-sat yapmak isteyenlere bir fiyat veriyordu. Bunu yaparken algoritmanın temel hedefi, ne olursa olsun işlem yapmak isteyenlere bir fiyat vermek idi. Nexus Mutual algoritması da benzer şekilde işlem yapmak isteyenlere bir fiyat veriyor ve amacı sistemin finansal sağlığını olabildiğince yansıtabilmek. Gelin biraz daha açalım ne demek istediğimizi:
+
+Havuzdaki toplam değere ETH cinsinden bakılıyor. Dolayısıyla Nexus Mutual dünyasının temeli ETH'e dayanıyor, en azından şimdilik. Bu da anlaşılır, zira koruma verdikleri ürünlerin çoğunluğu da Ethereum üzerinden işlem yaptıkları için risk ETH, bu riske karşı fonları da ETH değerlendirmek mantıklı. 
+
 
 #### Sigortacının havuzu başka olur... 
 
@@ -85,6 +90,11 @@ Herhangi bir hasar olayı olduğunda, ilgili üründen koruma almış olanlar, N
 Şimdiye kadar bir durumda ödeme yapılmış. 2020 Şubat ayında [bzX sistemindeki bir açıktan dolayı oluşan hasarda](https://bzx.network/blog/postmortem-ethdenver) Nexus Mutual üyeleri [iki adet koruma alan kullanıcının için toplam 500,000 ABD Doları'nı geçen bir ödeme yapmışlar](https://medium.com/nexus-mutual/bzx-flash-loan-event-55753d19e52b)
 
 
+
+
+#### yEarn ve NFT'ler
+Nexus Mutual'un sigortasının başarısı diğer projelerin de ilgisini çekti. Örneğin bu satırlarda sıkça bahsettiğimiz merkeziyetsiz portföy yönetim platformu yEarn, Nexus Mutual sigortalarını kullanarak [yinsure](https://yinsure.finance/) adında bir ürün çıkardı. 
+
 [^1]Yapılan oylamada verilen karar %70 çoğunluk ile alınmalı - aksi takdirde tüm sistem tarafından bir oylama daha yapılıyor. 
 
 -- 
@@ -92,4 +102,10 @@ Herhangi bir hasar olayı olduğunda, ilgili üründen koruma almış olanlar, N
 
 ### Nexus Mutual başarısı
 
-Nexus Mutual 2020 yılı başlarında yaklaşık 1.5 milyon ABD Doları bir koruma sağlarken, Ekim aylarına geldiğimizde bu rakam 200 milyon ABD Doları'nı geçmiş durumda. Bunun temel nedeni doğal olarak 2020 yazında hareketlenmeye başlayan DeFi piyasası. İngilizce'de FOMO (Fear-of-Missing-Out) olarak adlandırılan, bir şeyleri kaçırıyor duygusunun da etkisi ile bu alana giren bireysel yatırımcılar sayesinde katlanarak artan pazar. Piyasa yeni giren yatırımcıların teknik olarak yetersiz olmaları Nexus benzeri sigortalara olan ilgiyi artırdı. Keza sonrasında gelen bir kaç haber  
+Nexus Mutual 2020 yılı başlarında yaklaşık 1.5 milyon ABD Doları bir koruma sağlarken, Ekim aylarına geldiğimizde bu rakam 200 milyon ABD Doları'nı geçmiş durumda. Bunun temel nedeni doğal olarak 2020 yazında hareketlenmeye başlayan DeFi piyasası. İngilizce'de FOMO (Fear-of-Missing-Out) olarak adlandırılan, bir şeyleri kaçırıyor duygusunun da etkisi ile bu alana giren bireysel yatırımcılar sayesinde katlanarak artan pazar. Piyasa yeni giren yatırımcıların teknik olarak yetersiz olmaları Nexus benzeri sigortalara olan ilgiyi artırdı. Keza sonrasında getiri çiftçiliği olarak adlandırılan 'yield farming'in Ağustos ve Eylül aylarından arşa çıkması, tokenlarını platformlara emanet eden yatırımcıların duydukları tedirginlik Nexus ürünlerine talebi tetikledi. 
+
+#### Nexus'un önümüzdeki dönemde başarılı olması için neler gerekli?
+
+Nexus'un özünde DeFi için yaratılmış bir proje. Başarısı için DeFi pazarının büyümesi gerekli. Daha farklı platformlar için yeni ürünler çıkarmaya devam etmeleri gerekiyor. Ama asıl büyümeyi, farklı riskleri de kapsama alanı için almaları durumunda olacak - yalnızca kontrat hatalarına karşı kullanıcıları koruyarak gidebileceğiniz yol kısıtlı - üstelik mevcut platformların kullanım süreleri arttıkça kullanıcılar daha rahat edip, platform riskine para ödemeyip üzerlerine almak isteyebilirler. 
+
+Öte yandan yEarn benzeri yapacakları ortaklıklar da onların daha geniş kitleler tarafından tanınmasını sağlayacak. 
