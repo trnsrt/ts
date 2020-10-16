@@ -52,7 +52,7 @@ Buna göre eğer havuzdaki kapital miktarı minimum kapitale doğru yaklaşırsa
 
 Keza benzer şekilde eğer Nexus sistemindeki kapital çok artar ise o zaman da NXM'in fiyatı hızla yükseliyor. Bu da benzer şekilde yatırımcıların bu artışı değerlendirmek için NXM satmalarına neden oluyor - sistem yeniden dengeye geliyor.  
 
-Bu arada bir konuyu aydınlatmakta fayda var: Her ne kadar merkeziyetsiz bir sistem olsa da Nexus Mutual'ın belli alanlarda kısıtları olduğunu belirtelim. Örneğin, NXM yalnızca Nexus Mutual'un kendi kurduğu platformda işlem görüyor. NXM satın alabilmek için Nexus Mutual sistemine üye olmak zorundasınız. Üye olmak için de müşterini tanı (KYC - Know your customer) işleminden geçmeniz gerekiyor.  
+Bu arada bir konuyu aydınlatmakta fayda var: Her ne kadar merkeziyetsiz bir sistem olsa da Nexus Mutual'ın belli alanlarda kısıtları olduğunu belirtelim. Örneğin, NXM yalnızca Nexus Mutual'un kendi kurduğu platformda işlem görüyor. NXM satın alabilmek için Nexus Mutual sistemine üye olmak zorundasınız. Üye olmak için de müşterini tanı (KYC - Know your customer) işleminden geçmeniz gerekiyor.  KYC işlemlerini yapan Nexus Mutual kurucularının girişimi İngiltere merkezli ve lisanslı bir şirket. 
 
 #### Nasıl sigorta yapıyorsunuz?
 Üye olduktan sonra aslında çok da karmaşık değil. Kullanıcı farklı ürünlerden hangisine karşı kendisini korumak istiyor ise onu seçiyor, kaç gün için ve ne kadarlık bir miktar için korunma istediğini belirliyor. Sistem kendisine bir oran veriyor. Burada kullanıcı ödemeyi dilerse NXM dilerse ise ETH ile yapabiliyor. 
