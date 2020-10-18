@@ -49,9 +49,15 @@ Birkaç neden var.
 
 Hatırlarsanız, Uniswap kendi içinde basit bir algoritma kullanarak al-sat yapmak isteyenlere bir fiyat veriyordu. Bunu yaparken algoritmanın temel hedefi, ne olursa olsun işlem yapmak isteyenlere bir fiyat vermek idi. Nexus Mutual algoritması da benzer şekilde işlem yapmak isteyenlere otomatik bir fiyat veriyor. Ama bunu yaparken hem arz ve talebi, hem de Nexus Mutual havuzunun finansal sağlığını korumaya çalışıyor. Gelin nasıl oluyor biraz daha detaylı bakalım: 
 
-Nexux'un havuzunun temel amacı olası hasarlara karşı ödeme yapabilmek - bu sistemin olmazsa olması. Bu nedenle havuzun temel amacı içinde talepleri belirli oranda karşılayabilecek kadar kapital bulunması birinci hedef. Eğer havuzun içinde o belirlenen minimum oran kadar para yoksa öncelikle hiç kimse NXM satıp ETH alamıyor (bu oranın adı MCR - minimum capital requirement oranı). 
+Nexux'un havuzunun temel amacı olası hasarlara karşı ödeme yapabilmek - bu sistemin olmazsa olması. Bu nedenle havuzun temel amacı içinde talepleri belirli oranda karşılayabilecek kadar kapital bulunması birinci hedef. Eğer havuzun içinde o belirlenen minimum oran kadar para yoksa öncelikle hiç kimse NXM satıp ETH alamıyor (bu oranın adı MCR - minimum capital requirement, mininum karşılık olarak düşünülebilir)[^3]. 
 
+Sonrasında ise algoritmanın amacı, NXM fiyatını gelişen arz ve talebe göre sistemi sağlıklı tutacak şekilde ayarlamak. Bunu da otomatik bir formül ile yapıyor[^4]. Bu da şu şekilde oluyor: 
 
+Eğer havuzda toplanan para minimum rakamın %30'dan fazlasına ulaşırsa, formül NXM fiyatını hızlı bir şekilde yükseltmeye başlıyor. Bunun nedeni yüksek NXM fiyatı olduğunda, elinde NXM tutan yatırımcıların NXM satıp havuzdan ETH çekmesini sağlamak. Neden böyle yapıyor? Çünkü havuzda değerlendirilmeden duran para, verimsizlik göstergesi. 
+
+Bu arada, Nexus Mutual yönetiminin elde fazla kapital olması durumunda alacağı bir aksiyon daha var. O da yeni sigorta ürünleri çıkarmak. Bu sayede sistemi büyütebilirler. Yeni ürünler çıkması insanların bu ürünler için de karşılık ayrılmasını gerektireceği için minumum karşılık oranını yükseltecek. 
+
+Yine aynı şekilde 
 
 
 Havuzdaki toplam değere ETH cinsinden bakılıyor. Dolayısıyla Nexus Mutual dünyasının temeli ETH'e dayanıyor, en azından şimdilik. Bu da anlaşılır, zira koruma verdikleri ürünlerin çoğunluğu da Ethereum üzerinden işlem yaptıkları için risk ETH, bu riske karşı fonları da ETH değerlendirmek mantıklı. 
