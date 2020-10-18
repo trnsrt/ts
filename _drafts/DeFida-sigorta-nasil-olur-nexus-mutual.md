@@ -109,6 +109,8 @@ Nexus Mutual 2020 yılı başlarında yaklaşık 1.5 milyon ABD Doları bir koru
 
 Nexus'un özünde DeFi için yaratılmış bir proje. Başarısı için DeFi pazarının büyümesi gerekli. Daha farklı platformlar için yeni ürünler çıkarmaya devam etmeleri gerekiyor. Ama asıl büyümeyi, farklı riskleri de kapsama alanı için almaları durumunda olacak - yalnızca kontrat hatalarına karşı kullanıcıları koruyarak gidebileceğiniz yol kısıtlı - üstelik mevcut platformların kullanım süreleri arttıkça kullanıcılar daha rahat edip, platform riskine para ödemeyip üzerlerine almak isteyebilirler. 
 
+Bunun yanında Nexus Mutual'ın olası risklere karşılamak için elinde tuttuğu bir kapital vaar demiştik - bu 2020 Ekim aylarında  200 bin ETH civarinda - yaklaşık 70 milyon ABD Doları seviyesinde. Nexus şu aşamada bu havuzu ekstra yatırımlar için kullanmıyor. Bunun temel nedeni bu kapitali riske etmeden yapılacak yatırımların yeterli olgunluğa ulaşmamış olması. ETH 2.0 ile birlikte gelecek olan Proof of Stake, yani Ethereum sisteminin güvenliğini sağlamak amacıyla fonların kilitlenmesi süreci başladığında, Nexus Mutual için ellerindeki ETH koyarak ekstradan gelir kazanma ihtimali de doğacak. 
+
 Öte yandan yEarn benzeri yapacakları ortaklıklar da onların daha geniş kitleler tarafından tanınmasını sağlayacak. 
 
 
