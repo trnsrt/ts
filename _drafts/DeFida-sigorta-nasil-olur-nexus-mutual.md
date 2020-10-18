@@ -1,3 +1,5 @@
+# YAZI I
+
 Gelin birlikte DeFi dünyasına sigorta sistemini getirmeye çalışan Nexus Mutual'a bakalım.  İki yazıdan oluşacak bu serinin ilkinde Nexus Mutual sisteminin ekonomik olarak çalışmasına göz atalım. Bir sonraki yazımızda ise teknik olarak Nexus Mutual'ın tokeni NXM nasıl çalışır, fiyat nasıl belirlenir onu inceleriz. 
 
 ### Merkeziyetsiz sigortacılık olur mu?
@@ -40,13 +42,6 @@ Nexus Mutual'un sigortasının başarısı diğer projelerin de ilgisini çekti.
 
 Yukarıdaki üç örneğin de çıkış sebebi aslında basit: NXM üyeleri tarafından alınıp satılabilen dolayısıyla KYC prosedürlerine sahip bir token. Merkeziyetsiz Finans dünyasının kullanıcıların gizliliği konusunda hassas olan kesimlerine hitap edemiyor. Bu ürünler [KYC olmadan sigorta alınabilmeye olanak sağlıyor](https://cryptobriefing.com/nexus-mutual-just-ran-out-defi-coverage-heres-why/). 
 
-
--- 
-
-
-### Nexus Mutual başarısı
-
-
 #### Nexus'un önümüzdeki dönemde başarılı olması için neler gerekli?
 
 Nexus'un özünde DeFi için yaratılmış bir proje. Başarısı için DeFi pazarının büyümesi gerekli. Daha farklı platformlar için yeni ürünler çıkarmaya devam etmeleri gerekiyor. Ama asıl büyümeyi, farklı riskleri de kapsama alanı için almaları durumunda olacak - yalnızca kontrat hatalarına karşı kullanıcıları koruyarak gidebileceğiniz yol kısıtlı - üstelik mevcut platformların kullanım süreleri arttıkça kullanıcılar daha rahat edip, platform riskine para ödemeyip üzerlerine almak isteyebilirler. 
@@ -55,6 +50,17 @@ Bunun yanında Nexus Mutual'ın olası risklere karşılamak için elinde tuttu�
 
 Öte yandan yEarn benzeri yapacakları ortaklıklar da onların daha geniş kitleler tarafından tanınmasını sağlayacak. 
 
+### Arkası yarın
+
+Merkeziyetsiz Finans'ın en ilginç projelerinden biri olan Nexus Mutual sigortacılık konusunda neredeyse tekel, ancak hâlâ önünde alacağı çok yol var. Yeni çıkan DeFi platformları kapsama alanına sokması, kapsadığı risklerin alanını genişletmesi, yapacağı yeni pazarlama ortaklıkları Nexus'un önündeki potansiyeller. Öte yandan sigorta sisteminin karmaşıklığından dolayı sistemin pek çok kısmı hâlâ merkezi. Önümüzdeki yazıda hem Nexus sisteminin merkezi kısımlarından, hem de sistemin tokeni NXM'in nasıl çalıştından bahsedeceğiz. 
+
+---
+
+# YAZI II
+
+Geçtiğimiz yazıda merkeziyetsiz olarak sigorta sistemi olan Nexus Mutual'ın hikayesine bakmıştık. Bu yazımızda ise işin biraz daha tekniğine girerek Nexus Mutual sistemi nasıl çalışır, sistemin tokeni NXM nasıl fiyatlanır ona bakacağız. Arkasından NXM tokenları ile yapılabilecek staking benzeri farklı işlemlerden de bahsedeceğiz. 
+
+[ESKİ YAZIYA LİNK]
 
 ### Peki nasıl çalışıyor Nexus sistemi?
 Nexus Mutual kendisine sigorta demiyor - bunun en önemli nedeni kanuni olarak sigorta mevzuatına takılmamak. Bunun yerine Akıllı Kontratlarda çıkabilecek açıklara karşı "koruma" sağladıklarını belirtiyorlar. 
