@@ -104,12 +104,6 @@ Havuzdaki toplam değere ETH cinsinden bakılıyor. Dolayısıyla Nexus Mutual d
 
 Özetle algoritma dediğimiz basit formül sayesinde hedeflenen, NXM fiyatı ile oynayarak, havuzdaki kapital miktarının belli bir bant içinde oynamasını sağlamak. Bu bandın altı minimum karşılık oranı olan MCR, üstü ise MCR'nin %30 fazlası bir bant içinde oynamasını sağlamak. 
 
----
-
-
-
----
-
 #### Nasıl sigorta yapıyorsunuz?
 Üye olduktan sonra aslında çok da karmaşık değil. Kullanıcı farklı ürünlerden hangisine karşı kendisini korumak istiyor ise onu seçiyor, kaç gün için ve ne kadarlık bir miktar için korunma istediğini belirliyor. Sistem kendisine bir oran veriyor. Burada kullanıcı ödemeyi dilerse NXM dilerse ise ETH ile yapabiliyor. 
 
