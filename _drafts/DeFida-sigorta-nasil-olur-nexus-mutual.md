@@ -30,18 +30,35 @@ Nexus Mutual kendisine sigorta demiyor - bunun en önemli nedeni kanuni olarak s
 
 Sistemin çalışması aslında bir havuz şeklinde. Evet, [daha önceki Uniswap yazımızda bahsettiğimiz havuz sistemi](/genel/2020/09/15/nedir-bu-uniswap.html) burada da geçerli. Hatırlarsak, Uniswap'da iki bölmeli iki paradan oluşan havuzlar vardı. Alım satım yapanlar havuzdaki bir paradan aldıklarında yerine orada bulunan diğer parayı bırakıyorlardı. Buradaki havuzun çalışma prensipleri ise bir parça farklı. 
 
-Nexus Mutual havuzu da şimdilik iki paradan oluşuyor. Bunlardan biri Nexus'un kendi parası NXM, diğeri ise Ethereum'un parası ETH. Bu havuz risklerin ve getirilerin paylaşıldığı bir havuz aslında. Öncelikle, NXM'iniz yok ise, gelip bu havuza ETH koyup NXM almalısınız. 
+Öncelikle Nexus Mutual'in havuzu, aslında alınan risklere karşılık ödenebilecek kapital rakamını gösteriyor. Havuzda para ETH olarak tutuluyor. Dolayısıyla Nexus Mutual dünyasının temeli ETH'e dayanıyor, en azından şimdilik. Bu da anlaşılır, zira koruma verdikleri ürünlerin çoğunluğu da Ethereum üzerinden işlem yaptıkları için risk ETH, bu riske karşı fonları da ETH değerlendirmek mantıklı. 
 
-Kim niye NXM alsın? İki neden var. Öncelikle sigorta yaptırmak, pardon "Akıllı Kontratlar'a karşı koruma satın almak" istiyorsanız, NXM'iniz olmalı [BUNU KONTROL EDELİM!!!!]. Yaptırmak istediğiniz sigorta miktarı ve süresine bağlı olarak NXM yakmanız gerekiyor. Yani sigorta primi ödemenin benzeri. Koruma yaptırmak için NXM'niz olacak, NXM'i de havuzdan ETH karşılığı alacaksınız, yani primi ETH ile ödüyorsunuz. 
+Havuzun sahibi tüm üyeler. Nasıl sahip oluyor bu havuza? Aynı hisse senedinde olduğu gibi havuzun sahipliğini gösteren sistemin parası NXM ile. Dolayısı ile NXM sahibi olmak hem havuzun riskini hem de getirisini paylaşmak demek. 
 
-Diğer bir neden ise NXM'i yatırım olarak almak. Sigorta yaptırmak isteyenler gelip bu havuzdan satın alacaklar - bu da NXM'e olan talebi ve fiyatını artıracak. 
+Peki NXM fiyatı nasıl belirleniyor?
 
-Peki fiyat neye göre belirleniyor? Hatırlarsanız, Uniswap kendi içinde basit bir algoritma kullanarak al-sat yapmak isteyenlere bir fiyat veriyordu. Bunu yaparken algoritmanın temel hedefi, ne olursa olsun işlem yapmak isteyenlere bir fiyat vermek idi. Nexus Mutual algoritması da benzer şekilde işlem yapmak isteyenlere bir fiyat veriyor ve amacı sistemin finansal sağlığını olabildiğince yansıtabilmek. Gelin biraz daha açalım ne demek istediğimizi:
+#### Kim niye NXM alsın? 
+Birkaç neden var. 
+
+Öncelikle sigorta yaptırmak, pardon "Akıllı Kontratlar'a karşı koruma satın almak" istiyorsanız bunu NXM ile yapıyorsunuz.  Yaptırmak istediğiniz sigorta miktarı ve süresine bağlı olarak aldığınız korumanın ücretini NXM olarak veriyorsunuz (burada NXM yakıyorsunuz). Yani sigorta primi ödemenin benzeri. Koruma yaptırmak için NXM'niz olacak, NXM'i de havuzdan ETH karşılığı alacaksınız, yani primi bir nevi ETH ile ödüyorsunuz. 
+
+İkincisi ise yatırım olarak almak. Sonuç olarak NXM aldığınızda havuzdan sahiplik alıyorsunuz. Havuzdan koruma almak için havuza ETH koyup NXM almak ve NXM yakmak gerekiyor demiştik, dolayısıyla poliçe almak havuzdaki ETH'yi çoğaltıp, havuzun sahipliği olan NXM'i azaltmış oluyor, bunun da MXM fiyatına pozitif etkisi oluyor. 
+
+#### NXM fiyatı neye göre belirleniyor?
+
+İşte Nexus Mutual'ın diğer merkeziyetsiz sistemlerden bir farkı daha. Nexus'un tokeni NXM'in değeri serbest piyasadaki alım satıma göre belirlenmiyor, zira NXM merkezi ya da merkezi olmayan borsalarda işlem gören bir token değil. Bunun yerine NXM'in fiyatı bir algoritma ile belirleniyor. 
+
+Hatırlarsanız, Uniswap kendi içinde basit bir algoritma kullanarak al-sat yapmak isteyenlere bir fiyat veriyordu. Bunu yaparken algoritmanın temel hedefi, ne olursa olsun işlem yapmak isteyenlere bir fiyat vermek idi. Nexus Mutual algoritması da benzer şekilde işlem yapmak isteyenlere otomatik bir fiyat veriyor. Ama bunu yaparken hem arz ve talebi, hem de Nexus Mutual havuzunun finansal sağlığını korumaya çalışıyor. Gelin nasıl oluyor biraz daha detaylı bakalım: 
+
+Nexux'un havuzunun temel amacı olası hasarlara karşı ödeme yapabilmek - bu sistemin olmazsa olması. Bu nedenle havuzun temel amacı içinde talepleri belirli oranda karşılayabilecek kadar kapital bulunması birinci hedef. Eğer havuzun içinde o belirlenen minimum oran kadar para yoksa öncelikle hiç kimse NXM satıp ETH alamıyor (bu oranın adı MCR - minimum capital requirement oranı). 
+
+
+
 
 Havuzdaki toplam değere ETH cinsinden bakılıyor. Dolayısıyla Nexus Mutual dünyasının temeli ETH'e dayanıyor, en azından şimdilik. Bu da anlaşılır, zira koruma verdikleri ürünlerin çoğunluğu da Ethereum üzerinden işlem yaptıkları için risk ETH, bu riske karşı fonları da ETH değerlendirmek mantıklı. 
 
-
 #### Sigortacının havuzu başka olur... 
+
+Havuzda 
 
 Aslında sistemin klasik sigortacılıktan çok da farkı yok. Normalde sigorta şirketleri aldıkları toplam riskin tamamı değil bir kısmı kadar kapital tutarlar. Herhangi bir riskin gerçekleşmesi durumunda hasar bu kapitalden ödenir. Risklere karşı ödenen sigorta primleri de bu kapitale eklenir. Burada da yukarıda bahsettiğimiz havuz aslında Nexus sisteminin kapitali. Bu kapitali bireysel yatırımcılar sağlıyor. Zararlar yani hasarlar buradan ödeniyor. Sigorta primleri de kâr olarak bu havuza konuyor. 
 
@@ -119,6 +136,7 @@ Bunun yanında Nexus Mutual'ın olası risklere karşılamak için elinde tuttu�
 
 [^1] Yapılan oylamada verilen karar %70 çoğunluk ile alınmalı - aksi takdirde tüm sistem tarafından bir oylama daha yapılıyor. 
 [^2] Üç adet talep henüz değerlendirme aşamasında
+[^3] (bu oranın adı MCR - minimum capital requirement oranı). 𝑇𝑃 = 𝐴 + (𝑀𝐶𝑅𝐸𝑇𝐻/𝐶)∙ 𝑀𝐶𝑅%4
 
 ---
 Kaynaklar: 
