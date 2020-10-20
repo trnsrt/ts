@@ -1,44 +1,63 @@
 # YAZI I
 
-Gelin birlikte DeFi dünyasına sigorta sistemini getirmeye çalışan Nexus Mutual'a bakalım.  İki yazıdan oluşacak bu serinin ilkinde Nexus Mutual sisteminin ekonomik olarak çalışmasına göz atalım. Bir sonraki yazımızda ise teknik olarak Nexus Mutual'ın tokeni NXM nasıl çalışır, fiyat nasıl belirlenir onu inceleriz. 
+## DeFi'nin sigortası Nexus Mutual
+
+Nexus Mutual, DeFi dünyasına çok ihtiyaç duyulan sigortalamayı getirmeye çalışan girişimlerin en büyüğü. İki yazıdan oluşacak seriminizin ilkinde gelin hep birlikte [Nexus Mutual](https://nexusmutual.io)'a ekonomik ve potansiyel olarak bakalım. Bir sonraki yazımızda ise teknik olarak sistem nasıl çalışıyor, Nexus Mutual'ın tokeni NXM nasıl işliyor ve fiyatlanıyor konularına değiniriz.  
 
 ### Merkeziyetsiz sigortacılık olur mu?
 
-Her ne kadar bildiğimi klasik anlamda finans dünyası ile belli alanlarda keşisse de DeFi yani merkeziyetsiz finans kendi içinde bir dünya olmaya doğru hızla ilerliyor. DeFi aktörlerinin de nihai hedefi bu. Ancak fiziksel dünya ile iletişimi kesebilmek için belli temel gereksinimlerin karşılanması gerekiyor. İşte bu gereksinimlerden en önemlilerinden biri de sigorta. 
+Her ne kadar bildiğimiz klasik anlamda finans ile belli alanlarda kesişse de DeFi yani merkeziyetsiz finans kendi içinde ayrı bir dünya olmaya doğru hızla ilerliyor. DeFi aktörlerinin de nihai hedefi bu. Ancak fiziksel dünya ile iletişimi kesebilmek için belli temel gereksinimlerin karşılanması gerekiyor. İşte bu gereksinimlerden en önemlilerinden biri de sigorta. 
 
-Ne kastediyoruz sigorta derken? Öncelikle hep tekrar ettiğimiz şu düsturu unutmamak gerek: Klasik finans emanet (custodian) sistemi çalışır. Yani siz müşteri olarak finansal varlığınızı çalıştığınız kuruma kuzu kuzu verirsiniz. Zaten bu nedenle finans sektöründe çok sıkı regülasyonlar var - kanun koyucular halkın hakkını korumak için sektörü sıkı kontrol altında tutuyorlar - başkasının varlığına sahip olmak sorumluluk gerektirir, ağır bir yük. 
+Sigorta klasik anlamda bile kritik bir enstrüman iken DeFi dünyasında bu önem daha da artıyor. Neden? Öncelikle daha önce de sıklıkla yazdığımız şu düsturu tekrar hatırlatalım: 
 
-DeFi emanetsiz/velayetsiz (non-custodial) bir sistem ile çalışıyor. Yani, bu kripto dünyasında varlıklarınız tam anlamıyla sahipsiniz, ama elinizden gittiğinde de "yandı gülüm keten helva". 
+Klasik finans emanet/velayet (custodial) sistemi çalışır. Yani siz müşteri olarak finansal varlığınızı çalıştığınız kuruma kuzu kuzu verirsiniz. Zaten bu nedenle finans sektöründe çok sıkı kanun ve denetimler var - kanun koyucular halkın hakkını korumak için sektörü sıkı kontrol altında tutarlar - başkasının varlığına sahip olmak sorumluluk gerektirir, ağır bir yük. Ama bununla da yetinmez kurumlar - bu hesaplar ile ilgili çeşit çeşit sigortalar isterler tüketiciyi korumak için. Örneğin ülkemizde uygulanan mevduatlara 150,000 TL'ye garanti uygulanması gibi. 
 
-Emanetsiz/velayetsiz olma özelliği kullanıcılar için bir yandan finansal özgürlük getiriyor ama bir yandan da onları büyük bir sorumluluk altına sokuyor. Zaten yeterince karışık ve teknik olan bir konuda böyle bir sorumluluk altına girmek aslında DeFi'nin geniş kesimlere adaptasyonunun önündeki en büyük engellerden bir tanesi. 
+DeFi ise emanetsiz/velayetsiz (non-custodial) bir sistem ile çalışıyor. DeFi oyuncuları kullanıcının varlığına dokunmazlar. Dijital varlık sahibinin uhdesinde yani cüzdanında durur.  Dolayısıyla kripto dünyasında varlıklarınıza tam anlamıyla sahipsiniz, ama elinizden gittiğinde de "yandı gülüm keten helva". 
 
-Halbuki DeFi sistemini teknik olarak anlayanlar için aslında bu dünyadaki risk, gerçek dünyadaki merkezi finansa göre daha az. İşte tam da bu noktada bir iş potansiyeli ortaya çıkıyor: Teknik olarak olaya hakim olmayanlar bu dünyanın riskleri almamak pahasına ekstra ücret ödemeye hazır. Konuya hakim olanlar ise bu ekstra ücret karşılığı o riski almaya razı. İşte sigortacılığın temel ilkesi - risk algısındaki fark ve riski dağıtma. 
+Emanetsiz/velayetsiz olma özelliği kullanıcılar için bir yandan finansal özgürlük getiriyor ama bir yandan da onları büyük bir sorumluluk altına sokuyor. Zaten yeterince karışık ve teknik olan bir konuda böyle bir sorumluluk altına girmek kullanıcıları ciddi anlamda tedirgin ediyor. DeFi'nin geniş kesimlere adaptasyonunun önündeki en büyük engellerden bir tanesi de bu. 
 
-Bu alanda ortaya çıkan en büyük girişim Nexus Mutual. Kurucusu uzun yıllar sigortacılık sektöründe çalışmış biri. Temel olarak yapmaya çalıştıkları, klasik anlamda sigortacılık sektörü oyuncularının kullandığı risk-hasar parametrelerini sadık kalarak, klasik sigortacılığın yarattığı kapital toplama, ürün çıkarma, risk primi yaratma, toplama ve hasar toplama işlemlerini olabildiğince merkeziyetsiz hale getirme. 
+Halbuki DeFi dünyasını teknik olarak bilenler ya da projeleri yakından takip edenler için gerçek anlamda risk merkezi finansa göre çok daha düşük. Alın size merkeziyetsiz bir iş modeli: 
+
+Teknik olarak konuya aşina olmayan geniş kesimler, ufak bir ücret karşılığı kendilerini güvende hissetmek ister. Daha işin içinde olanlar ise bu ücret karşılığı o riski almaya hazır. İki tarafı arada masraflı bir aracı olmadan bir araya getirebilirseniz, şahane bir merkeziyetsiz model yaratabilirsiniz. 
 
 ### DeFi'da sigorta sisteminin mantığı nasıl?
-DeFi dünyasındaki sigorta sisteminin aslında fiziki dünyadan çok da farkı yok. En basit anlatımı ile masanın bir tarafında, projelerdeki teknik risklerden korunmak amacıyla sigorta yaptırmaak isteyen kullanıcılaar. Masanın öbür tarafında ise, bahsedilen riski almaya hazır "yatırımcılar" var. 
 
-DeFi'da pek çok işlemin merkeziyetsiz yapılabilmesini sağlayan Akıllı Kontratlar burada da devrede. Ne diyoruz hep: Bu dünyada kod kanun. Hangi durumlarda sigortanın geçerli olduğu baştan belli ve taraflarca kabul edildikten sonra, Akıllı Kontrat'ın yaptığı konu edilen olayın gerçekleşmesi durumunda zarar görene ödeme yapmak. Yatırımcılara da toplanan risk primlerinden gerçekleşen hasarlar düşüldükten sonra kalanını ödemek. Ancak işin detaylarında pek çok farklılık var tabii - gelin onlara da kısaca bakalım. 
+DeFi alanındaki sigortacılık klasik sigortacılığa mantık olarak çok benziyor:
+
+Bu alanın lideri Nexus Mutual örneğinden gidersek temel olarak yapmaya çalıştıkları, mevcut sigortacılık sektörü oyuncularının kullandığı risk-hasar parametrelerine sadık kalarak, klasik sigortacılığın kullandığı kapital toplama, ürün çıkarma, risk primi yaratma, toplama ve hasar ödeme işlemlerini olabildiğince merkeziyetsiz hale getirmek. 
+
+Uygulamada ise DeFi oyuncuları iki konuda mevcut sigortacılıktan farklılaşıyor: 
+
+Birincisi klasik sigortacılar henüz çok küçük oldukları için DeFi dünyasına özel ürünler sunmuyorlar. Başka alanlar için düşünülmüş ürünler ise DeFi piyasasının risklerini tam olarak karşılamıyor ya da çok pahalı kaçıyor. Dolayısıyla merkeziyetsiz sigortacılığın en önemli özelliği DeFi adasının içinde o oyuncular için tasarlanmış ürünler olması. 
+
+İkincisi ise tabii ki, sistemin merkeziyetsiz olması. Sigortacılığı belli bir ücret karşılığı bir risk alma ve sonrasında bu riski yatırımcılara plase etme olarak düşünürseniz, klasik sigortacılar bu riski büyük kurumsal fonlara satıyorlar. DeFi dünyasında ise bu riskleri satın alanlar yine sigorta alanlar gibi, risk alan küçük yatırımcılar oluyor. Alıcı ile satıcı arasında ise merkezi bir ofisi olan bir sigorta şirketi yerine [kodları açık bir yazılım var](https://github.com/somish/NexusMutual). 
+
+DeFi'da pek çok işlemde olduğu gibi Akıllı Kontratlar burada da devrede. Ne diyoruz hep: Bu dünyada kod kanun. Hangi durumlarda sigortanın geçerli olduğu baştan belli ve taraflarca kabul edildikten sonra, Akıllı Kontrat'ın yaptığı konu edilen olayın gerçekleşmesi durumunda zarar görene ödeme yapmak. Yatırımcılara da toplanan risk primlerinden gerçekleşen hasarlar düşüldükten sonra kalanını ödemek. Tabii bu teoride böyle.  İşin detaylarına baktığınızda tam bir merkeziyetsiz yapıya ulaşmak için daha kırk fırın ekmek yenmesi gerektiğini açıkça görüyorsunuz. 
 
 #### Neler sigortalanıyor, neler sigorta dışı?
 
-Öncelikle şunu belirtmekte fayda var - şu aşamada sigorta edilebilen riskler çok kısıtlı. Neler sigorta ediliyor derseniz, temel olarak token satın alan bir kullanıcının, yatırım yaptığı projedeki teknik risklerden dolayı oluşacak zararlar diyebiliriz. 
+Öncelikle şunu belirtmekte fayda var - şu aşamada sigorta edilebilen riskler çok kısıtlı. Neler sigorta ediliyor derseniz, temel olarak sadece token satın alan bir kullanıcının, yatırım yaptığı projedeki teknik risklerden dolayı oluşacak zararlar diyebiliriz. 
 
-Nedir bunlar? Örneğin, Akıllı Kontratın yazılımındaki bir hatadan dolayı dış dünyadan kimi aktörler sistemde kilitli olan tüm parayı çekebilirler. Sigorta işte böyle bir durumda kullanıcının satın aldığı token kadar bir miktarı onun cüzdanına gönderiyor. 
+Nedir bunlar? Örneğin, Akıllı Kontrat'ın yazılımındaki bir hatadan dolayı dış dünyadan kimi aktörler sistemde kilitli olan tüm parayı çekebilir. Sigorta işte böyle bir durumda kullanıcının satın aldığı token kadar bir miktarı onun cüzdanına gönderiyor. 
 
-Şu aşamada Nexus sigortasının yaptığı sadece bu. Hep söylediğimiz gibi DeFi henüz emekleme aşamasında, bu alandaki ürünler de benzer şekilde yeni yeni çıkıyor ortaya. Nexus, farklı alanlardaki riskleri kapsayacak farklı ürünler üzerinden çalıştığını söylüyor. Neler olabilir bunlar dediğimizde yine [Nexus'a kulak vermekte fayda var](https://bankless.substack.com/p/how-to-assess-the-risk-of-lending). 
+Şu aşamada Nexus sigortasının yaptığı sadece bu. Hep söylediğimiz gibi DeFi henüz emekleme aşamasında, bu alandaki ürünler de benzer şekilde yeni yeni çıkıyor ortaya. Nexus, farklı alanlardaki riskleri kapsayacak farklı ürünler üzerinden çalıştığını söylüyor. Neler olabilir bunlar dediğimizde yine [Nexus'a kulak vermekte fayda var](https://bankless.substack.com/p/how-to-assess-the-risk-of-lending): 
 
-Dış riskler: Özellikle kodun düzgün çalıştığı (kod hatası içermeyen) ancak yine de sistemin sorun çıkarabileceği alanlar. Örneğin, sisteme bilgi veren dış kaynaklarda (oracle da dediğimiz) oluşabilecek sorunlar, daha detaya girersek dış kaynaktan sisteme yanlış bilgi gelmesi. Ya da DeFi sistemlerinin yönetim yapıları yeni yeni oturmaya başlıyor, burada çıkabilecek sorunlar. Bir başkası, platformların verdiği yönetim ile ilgili teşviklerin kimi kullanıcılar için özendirici olurken bu kullanıcıların aldığı aksiyonların diğer başka kullanıcılar için en uygun çözüm olmaması gibi. İşte bu tip koda dayanmayan hataları karşılayacak bir sigorta henüz yok.  Nexus Mutual bu alanda yeni ürünler çıkarmak için çalışmalar yapıyor. 
+Özellikle kodun düzgün çalıştığı (kod hatası içermeyen) ancak yine de sistemin sorun çıkarabileceği alanlar henüz kapsam dışı. Nedir bunlar derseniz, örneğin, sisteme bilgi veren dış kaynaklarda (oracle da dediğimiz) oluşabilecek sorunlar yani dış kaynaktan sisteme yanlış bilgi gelmesi. Ya da DeFi sistemlerinin yönetim yapıları yeni yeni oturmaya başlıyor, burada çıkabilecek sorunlar. Bir başka örnek: platformların verdiği yönetim ile ilgili teşviklere göre hareket eden kimi kullanıcıların aldığı aksiyonlar diğer başka kullanıcılar için en uygun çözüm olmayabiliyor. İşte bu tip koda dayanmayan hataları karşılayacak bir sigorta henüz yok.  Nexus Mutual bu alanda yeni ürünler çıkarmak için çalışmalar yapıyor. 
 
-### Nexus Mutual ve parası NXM
+### Nexus Mutual
 
-Nexus Mutual merkeziyetsiz sistemde katılımcıların sistemlerini kullanabilmesi için NXM adında bir token çıkarmış durumda. İlk kuruluş fikri, Ethereum'un ilk krizi olan The DAO hacki üzerine oluyor. 2017 yılında ICO çılgınlığı sırasında kurulan girişim uzun süre kendine ait doğru bir iş modelini kurmak konusunda sıkıntı yaşamış, hatta bir kaç kere kapanmanın eşiğine gelmiş. 
+Bu alanda ortaya çıkan en büyük girişim Nexus Mutual. Kurucusu uzun yıllar sigortacılık sektöründe çalışmış biri. 
 
-2020 yılı başlarında yaklaşık 1.5 milyon ABD Doları bir koruma sağlanırken, Ekim aylarına geldiğimizde bu rakam 200 milyon ABD Doları'nı geçmiş durumda. Bunun temel nedeni doğal olarak 2020 yazında hareketlenmeye başlayan DeFi piyasası. İngilizce'de FOMO (Fear-of-Missing-Out) olarak adlandırılan, bir şeyleri kaçırıyor duygusunun da etkisi ile bu alana giren bireysel yatırımcılar sayesinde katlanarak artan pazar. Piyasa yeni giren yatırımcıların teknik olarak yetersiz olmaları Nexus benzeri sigortalara olan ilgiyi artırdı. Keza sonrasında getiri çiftçiliği olarak adlandırılan 'yield farming'in Ağustos ve Eylül aylarından arşa çıkması, tokenlarını platformlara emanet eden yatırımcıların duydukları tedirginlik Nexus ürünlerine talebi tetikledi. 
+İlk kuruluş fikri, Ethereum'un ilk krizi [The DAO hacki](https://medium.com/@iublocktech/ethereum-ve-dao-hack-daba3f215205) sonrası ortaya çıkıyor. 2017 yılında ICO çılgınlığı sırasında kurulan girişim uzun süre kendine ait doğru bir iş modelini kurmak konusunda sıkıntı yaşamış, hatta bir kaç kere kapanmanın eşiğine kadar gelmiş. 
 
-#### yEarn ve NFT'ler
-Nexus Mutual'un sigortasının başarısı diğer projelerin de ilgisini çekti. Örneğin bu satırlarda sıkça bahsettiğimiz merkeziyetsiz portföy yönetim platformu yEarn, Nexus Mutual sigortalarını kullanarak [yinsure](https://yinsure.finance/) adında bir ürün çıkardı. Benzer şekilde tekil tokenların bulunduğu Rarible platformunda da yNFT denen NXM'e bağlı tokenlar işlem görmeye başladı - farklı Nexus ürünleri ve farklı vadeler için farklı tokenlar yaratıldı.  Benzer şekilde [daha önce bir yazımızda bahsettiğimiz ETC pazarlarında işlem gören BTC](https://turansert.com/genel/2020/07/09/eth-gorunumlu-btc-olur-mu.html)'lerde olduğu gibi ETH tokeni gibi işlem gören WNXM'ler de çıkarıldı. 
+Temel olarak çalışma şekli kullanıcıların Nexus Mutual sistemine üye olduktan sonra sigorta yaptırmak istedikleri DeFi platformunu (örneğin Compound), süreyi ve miktarı [seçmeleri](https://app.nexusmutual.io/cover/buy/select-contract). Bunun karşılığı olarak sistem kendilerine bir oran veriyor. Kullanıcı cüzdanını bağlayıp ETH ya da DAI kullanarak kendini sigortalayabiliyor. Bu arada Nexus Mutual'un sigorta sözcüğünden kaçınarak onun yerine ürünlerine kapsam/koruma (coverage) adını verdiğini de belirtelim. 
+
+Nexus Mutual 2020 yılı başlarında yaklaşık 1.5 milyon ABD Doları bir koruma sağlanırken, Ekim aylarına geldiğimizde [bu rakam 200 milyon ABD Doları'na kadar çıktı](https://nexustracker.io/) [^1]. Bunun temel nedeni doğal olarak 2020 yazında hareketlenmeye başlayan DeFi piyasası. İngilizce'de FOMO (Fear-of-Missing-Out) olarak adlandırılan, bir şeyleri kaçırıyor duygusunun da etkisi ile bu alana giren bireysel yatırımcılar sayesinde [pazar katlanarak arttı](https://defipulse.com/). Piyasa yeni giren yatırımcıların kendilerini teknik olarak yetersiz hissetmeleri Nexus benzeri sigortalara olan ilgiyi artırdı. Keza sonrasında getiri çiftçiliği olarak adlandırılan 'yield farming'in Ağustos ve Eylül aylarından arşa çıkması, tokenlarını platformlara emanet eden yatırımcıların duydukları tedirginlik Nexus ürünlerine talebi daha da tetikledi. 
+
+#### Ortaklıklar
+Nexus Mutual'un sigortasının başarısı diğer projelerin de ilgisini çekti - ve ilginç ortaklıklar/ürünler de gelişmeye başladı. 
+
+Örneğin bu satırlarda sıkça bahsettiğimiz merkeziyetsiz portföy yönetim platformu yEarn, Nexus Mutual sigortalarını kullanarak [yinsure](https://yinsure.finance/) adında bir ürün çıkardı. Benzer şekilde tekil tokenların bulunduğu [Rarible](https://rarible.com/) platformunda da yNFT denen NXM'e bağlı tokenlar bir süreliğine işlem görmeye başladı - farklı Nexus ürünleri ve farklı vadeler için farklı tokenlar yaratıldı.  Benzer şekilde [daha önce bir yazımızda bahsettiğimiz ETC pazarlarında işlem gören BTC](https://turansert.com/genel/2020/07/09/eth-gorunumlu-btc-olur-mu.html)'lerde olduğu gibi [ETH tokeni gibi işlem gören WNXM tokenlar](https://www.coingecko.com/en/coins/wrapped-nxm) da çıkarıldı. 
 
 Yukarıdaki üç örneğin de çıkış sebebi aslında basit: NXM üyeleri tarafından alınıp satılabilen dolayısıyla KYC prosedürlerine sahip bir token. Merkeziyetsiz Finans dünyasının kullanıcıların gizliliği konusunda hassas olan kesimlerine hitap edemiyor. Bu ürünler [KYC olmadan sigorta alınabilmeye olanak sağlıyor](https://cryptobriefing.com/nexus-mutual-just-ran-out-defi-coverage-heres-why/). 
 
@@ -46,13 +65,18 @@ Yukarıdaki üç örneğin de çıkış sebebi aslında basit: NXM üyeleri tara
 
 Nexus'un özünde DeFi için yaratılmış bir proje. Başarısı için DeFi pazarının büyümesi gerekli. Daha farklı platformlar için yeni ürünler çıkarmaya devam etmeleri gerekiyor. Ama asıl büyümeyi, farklı riskleri de kapsama alanı için almaları durumunda olacak - yalnızca kontrat hatalarına karşı kullanıcıları koruyarak gidebileceğiniz yol kısıtlı - üstelik mevcut platformların kullanım süreleri arttıkça kullanıcılar daha rahat edip, platform riskine para ödemeyip üzerlerine almak isteyebilirler. 
 
-Bunun yanında Nexus Mutual'ın olası risklere karşılamak için elinde tuttuğu bir kapital vaar demiştik - bu 2020 Ekim aylarında  200 bin ETH civarinda - yaklaşık 70 milyon ABD Doları seviyesinde. Nexus şu aşamada bu havuzu ekstra yatırımlar için kullanmıyor. Bunun temel nedeni bu kapitali riske etmeden yapılacak yatırımların yeterli olgunluğa ulaşmamış olması. ETH 2.0 ile birlikte gelecek olan Proof of Stake, yani Ethereum sisteminin güvenliğini sağlamak amacıyla fonların kilitlenmesi süreci başladığında, Nexus Mutual için ellerindeki ETH koyarak ekstradan gelir kazanma ihtimali de doğacak. 
+Bunun yanında Nexus Mutual'ın olası risklere karşılamak için elinde tuttuğu bir kapital var demiştik - bu 2020 Ekim aylarında  200 bin ETH civarinda - yaklaşık 70 milyon ABD Doları seviyesinde. Nexus şu aşamada bu havuzu ekstra yatırımlar için kullanmıyor. Bunun temel nedeni bu kapitali riske etmeden yapılacak yatırımların yeterli olgunluğa ulaşmamış olması. ETH 2.0 ile birlikte gelecek olan Proof of Stake, yani Ethereum sisteminin güvenliğini sağlamak amacıyla fonların kilitlenmesi süreci başladığında, Nexus Mutual için ellerindeki ETH koyarak ekstradan gelir kazanma ihtimali de doğacak. 
 
 Öte yandan yEarn benzeri yapacakları ortaklıklar da onların daha geniş kitleler tarafından tanınmasını sağlayacak. 
 
+Bunun yanında her ne kadar merkeziyetsiz desek de Nexus Mutual hâlâ pek çok konuda merkezi. Örneğin, sisteme üye olmak için KYC prosedürlerinden geçmeniz gerekiyor. Sistemi yürüten Nexus, İngiltere'de kurulu bir şirket. Öte yandan hasar taleplerinin değerlendirmesi merkeziyetsiz bir şekilde Nexus yatırımcıları tarafından yapılsa da, bu yatırımcıların kurallara uyup uymadığını denetleyen bir merkezi Danışma Kurulu var. Bütün bunlar, Nexus Mutual'ın merkeziyetsiz olma yolunda önünde çözmesi gereken pek çok konu olduğunu gösteriyor. 
+
 ### Arkası yarın
 
-Merkeziyetsiz Finans'ın en ilginç projelerinden biri olan Nexus Mutual sigortacılık konusunda neredeyse tekel, ancak hâlâ önünde alacağı çok yol var. Yeni çıkan DeFi platformları kapsama alanına sokması, kapsadığı risklerin alanını genişletmesi, yapacağı yeni pazarlama ortaklıkları Nexus'un önündeki potansiyeller. Öte yandan sigorta sisteminin karmaşıklığından dolayı sistemin pek çok kısmı hâlâ merkezi. Önümüzdeki yazıda hem Nexus sisteminin merkezi kısımlarından, hem de sistemin tokeni NXM'in nasıl çalıştından bahsedeceğiz. 
+Merkeziyetsiz Finans'ın en ilginç projelerinden biri olan Nexus Mutual sigortacılık konusunda neredeyse tekel.  Ancak hâlâ önünde alacağı çok yol var. Yeni çıkan DeFi platformları hızlı bir şekilde ürün olarak sunması, kapsama alanını farklı riskleri de içerecek şekilde genişletmesi, yapacağı yeni pazarlama ortaklıkları Nexus'un büyümesine fayda sağlayacak. Öte yandan sigorta sisteminin karmaşıklığından dolayı henüz merkezi olan kısımlarını yavaş yavaş merkeziyetsiz hale getirmeleri de başarılı olmaları için gerekli. Önümüzdeki yazıda hem Nexus sisteminin merkezi kısımlarından, hem de sistemin tokeni NXM'in nasıl çalıştından bahsedeceğiz. 
+
+
+[^1] Eylül ayındaki SAFE olayından sonra bir anda 200 milyon ABD Dolarına çıkan sigorta miktarı, aylık alınan bu poliçelerini dolması ve yenilenmemesi nedeniyle Ekim ayı ortalarında tekrar Eylül ayı öncesi 50 milyon ABD Doları rakamlarına inmiş durumda. 
 
 ---
 
