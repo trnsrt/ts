@@ -82,7 +82,7 @@ Merkeziyetsiz Finans'ın en ilginç projelerinden biri olan Nexus Mutual sigorta
 
 ---
 
-*Not 1: Bu yazı ilk olarak 20 Ekim 2020'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/definin-sigortasi-nexus-mutual/)*
+*Not 1: Bu yazı ilk olarak 20 Ekim 2020'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/defi-sigortasi-nexus-mutual/)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
