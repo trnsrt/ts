@@ -6,7 +6,7 @@ categories: Genel
 tags: videos Etkinlikler
 ---
 
-<img align="left" src="/assets/kripto_para_logo_1200.jpg" style="width:40%; padding-right:20px"> BloombergHT'de Sefer Yüksel'in sunduğu Kripto Para programının Dr. Aytunç Yıldızlı ile birlikte konuğu olduk. 
+<img align="left" src="/assets/kripto_para_logo_1200.jpg" style="width:40%; padding-right:20px"> BloombergHT'de [Sefer Yüksel](https://twitter.com/SeferYuksel/)'in sunduğu Kripto Para programının [Dr. Aytunç Yıldızlı](https://twitter.com/bit_gossip/) ile birlikte konuğu olduk. Skype'da yaşadığım sorunlar nedeniyle görüntünün donuk, sesin ise arada kesintili geldiği yayında kripto para, Merkez Bankası Dijital Paraları ve Ekim 2020'nin diğer önemli bir konusu olan PayPal'ın kripto para işlemlerine aracılık etmeye başlamasını konuştuk. 
 
 &nbsp;
 
