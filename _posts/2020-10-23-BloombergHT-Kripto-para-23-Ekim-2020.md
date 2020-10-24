@@ -6,7 +6,7 @@ categories: Genel
 tags: videos Etkinlikler
 ---
 
-<img align="left" src="/assets/kripto_para_logo_1200.jpg" style="width:20%; padding-right:20px"> BloombergHT'de Sefer Yüksel'in sunduğu Kripto Para programının Dr. Aytunç Yıldızlı ile birlikte konuğu olduk. 
+<img align="left" src="/assets/kripto_para_logo_1200.jpg" style="width:40%; padding-right:20px"> BloombergHT'de Sefer Yüksel'in sunduğu Kripto Para programının Dr. Aytunç Yıldızlı ile birlikte konuğu olduk. 
 
 &nbsp;
 
