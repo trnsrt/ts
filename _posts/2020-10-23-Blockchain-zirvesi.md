@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Blockchain Zirvesi- 23 Ekim 2020 Canlı Yayın"
-date:   2020-10-23 23:37:15 +0300
+date:   2020-10-23 16:37:15 +0300
 categories: Genel
 tags: videos Etkinlikler
 ---
