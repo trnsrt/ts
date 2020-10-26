@@ -14,7 +14,7 @@ tags: videos Etkinlikler
 <img src="/assets/kripto_para_screenshot_1200.jpg">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://youtu.be/M10-aOfy--A" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe width="224" height="126" src="https://www.youtube.com/embed/M10-aOfy--A" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Programdan bir görüntü...  
