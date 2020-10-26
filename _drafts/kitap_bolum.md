@@ -1,13 +1,20 @@
+Kitap_bölüm
+### Giriş
+Blockchain teknolojisinin ilk ve en yaygın kullanım alanının finans olacağı yıllardır konuşulan bir konu idi. Son gelişmelere baktığımızda bu tahminlerin doğru çıktığını görüyoruz. En yaygın blockchain temelli uygulama olan Bitcoin kripto parasının çıkışının üzerinden 10 yıllık bir süre geçti. Bitcoin'i örnek alarak gücü aracılardan (yani finans kurumlarından) alıp kullanıcılara taşımayı amaç edinen girişimler DeFi (Decentralized Finance) yani merkeziyetsiz finans hareketi altında toplandılar. 2017 yılında itibaren ortaya çıkan bu girişimlerin, üç yıl süren çeşitli denemeler sonrası ortaya çıkardıkları ürünlerin tüketici tarafından kabul gördüğü, 2020 yılının yaz aylarında bu alanda yaşanan talep patlamasıyla kanıtlandı. 
 
-### DeFi'nin köklerine blokzincir üzerinden bir bakış... 
+Bu bölümde önce finans kurumlarının dijitalleşme sonrası artırdıkları işlem hacimlerinin, Blockchain temelli teknolojilerin çıkışı sonrası neden tehdit altında olduğuna değineceğiz. Sonrasında ise DeFi ne demek, temel prensipleri ne, hangi sorunlara çözüm buluyor sorularını yanıt aradıktan sonra şu an için en popüler DeFi uygulamaların finansın hangi alanlarda hizmet verdiklerine bakacağız. 
 
-Blokzincir bağımsız, birbirinden uzak binlerce noktanın, ortak hareket edebilmesi sağlayan teknoloji. Bu da dijital dünyada başkaları ile ilişki kurabilmek için ihtiyaç duyduğumuz aracılara olan talebi ortadan kaldırıyor. Blokzincir teknolojisi ile ilgili detaylı bilgiye Ahmet Usta'nın bölümünde göz atabilirsiniz. 
+Bu yazı 2020 yılının Ekim ayında yazıldı. DeFi sektörünün baş döndürücü hızı nedeniyle, siz bu yazıyı okurken muhtemelen daha pek çok girişim pek çok farklı alanda daha büyük hacimlere ulaşmış olacak. Belki de bu yazıda okuduğunuz birkaç girişim DeFi sahnesinden silinecek. Gerçekleşeceğine emin olduğumuz tek öngörü ise bir "roller-coaster" gibi hareket eden DeFi alanında daha çok iniş ve çıkış göreceğimiz. 
 
-Blokzincir teknolojisinin gündelik hayata yansımasını henüz kısıtlı olarak görüyoruz. Bu da normal. Her tür teknolojinin ilk çıkışından geniş kitlelerce adaptasyonu aşama aşama geçilen bir süreç. En nihayetinde bu teknolojinin temelini oluşturan ve aynı zamanda şu ana kadar en olgunlaşmış ve yaygınlaşmış kullanım ürünü olan Bitcoin'in çıkışı 2009 yılına dayanıyor. Bu yolda daha alacak çok yol ve yenecek çok fırın ekmek var. 
+### DeFi'nin köklerine Blockchain üzerinden bir bakış... 
 
-### Fiziksel dünyadan dijital dünyaya geçişte blokzincirin finans sektörüne etkisi 
+Blockchain bağımsız, birbirinden uzak binlerce noktanın, ortak hareket edebilmesi sağlayan teknoloji. Bu da dijital dünyada başkaları ile ilişki kurabilmek için ihtiyaç duyduğumuz aracılara olan talebi ortadan kaldırıyor. Blockchain teknolojisi ile ilgili detaylı bilgiye Ahmet Usta'nın bölümünde göz atabilirsiniz. 
 
-Blokzincir ile ilgili şimdiye kadar yapılan değerlendirmelerde, bu teknolojinin en çok etkileyeceği alanın finans olduğu tahmin ediliyor idi. Çok da haksız sayılmaz bu öngörüler. Neden?
+Blockchain teknolojisinin gündelik hayata yansımasını henüz kısıtlı olarak görüyoruz. Bu da normal. Her tür teknolojinin ilk çıkışından geniş kitlelerce adaptasyonu aşama aşama geçilen bir süreç. En nihayetinde bu teknolojinin temelini oluşturan ve aynı zamanda şu ana kadar en olgunlaşmış ve yaygınlaşmış kullanım ürünü olan Bitcoin'in çıkışı 2009 yılına dayanıyor. Bu yolda daha alacak çok yol ve yenecek çok fırın ekmek var. 
+
+Blockchain ile ilgili şimdiye kadar yapılan değerlendirmelerde, bu teknolojinin en çok etkileyeceği alanın finans olduğu tahmin ediliyor idi. Çok da haksız sayılmaz bu öngörüler. Neden? Gelin kısaca yaşananları özetleyelim:
+
+### Fiziksel dünyadan dijital dünyaya geçişte Blockchain'in finans sektörüne etkisi 
 
 Finans sektörünün temeli güvene dayanıyor. Birbirini tanımayan ya da birbirine tam olarak güvenmeyen birey ve kurumların aralarındaki işlemlerin gerçekleşmesine parasal açıdan yardımcı oldu finansal kurumlar. 
 
@@ -15,7 +22,7 @@ Yüzyıllardır fiziksel dünyada finans kurumları tarafından başarı ile sü
 
 Ancak dijital dünyanın gelişi ile birlikte parlayan finans dünyası için her şey toz pembe değil. Zira dijitalleşme aynı zamanda teknolojik olarak çok hızlı bir ilerleme ve rekabet artışı getirdi.  Bu kitapta diğer bölümlerde sıkça gördüğünüz Fintech alanındaki teknolojik yenilikler tüketicinin hayatını kolaylaştırdığı gibi aynı zamanda önüne çok farklı seçenekler ve fırsatlar koyuyor. 
 
-Bu bölümdeki konumuz olan blokzincire dayanan teknolojiler ise yukarıda bahsedilen Fintech alanındaki gelişmelerden farklı olarak finans sektörünü temelden etkileme potansiyeline sahip. Temel derken ne kastediyoruz, gelin hep birlikte bakalım:
+Bu bölümdeki konumuz olan Blockchain'e dayanan teknolojiler ise yukarıda bahsedilen Fintech alanındaki gelişmelerden farklı olarak finans sektörünü temelden etkileme potansiyeline sahip. Temel derken ne kastediyoruz, gelin hep birlikte bakalım:
 
 ### Fiziki varlık, dijital varlık farkı
 
@@ -31,11 +38,11 @@ Dijitalleşmenin hayatımıza girmesi ile yaşadığımız fiziki dünyadaki var
 
 İşte bu nedenle birey ve kurumların dijital dünyadaki varlıkları finansal kurumlar tarafından tasdik edilen, saklanan, transfer edilen 1 ve 0'lar oldular. Finansal kurumlar dijital dünyanın muhabesebecisi olarak taraflar arasında kritik bir görevi yerine getirdiler. 
 
-### Dijital dünya nasıl etkileyecek finansal kurumları?
+### Dijitalleşme sonrası gelen Blockchain'in finans dünyasına etkisi
 
 Peki ya bu birey ve kurumlara bu dijital varlıklara tamamen sahip olma ve dilediği zaman dilediği kişi ve kuruma transfer edebilme hakkı verilse?
 
-İşte blokzincir teknolojisi dijital dünyadaki muhasebecilik görevini finansal kurumlardan alıp topluma vererek bu kurumların en temel varlık nedenlerinden biri olan güven fonksiyonunu onların ellerinden almaya aday.  
+İşte Blockchain teknolojisi dijital dünyadaki muhasebecilik görevini finansal kurumlardan alıp topluma vererek bu kurumların en temel varlık nedenlerinden biri olan güven fonksiyonunu onların ellerinden almaya aday.  
 
 Yukarıda bahsettiğimiz dijitalleşmenin gelişiyle başlangıçta bireylerin ihtiyacı olan dijital varlığa sahip olma (elinde tutma, kaydetme) ve onu transfer edebilme temel ihtiyaçları karşılayan finans sektörü şimdi üç kulvardan tehdit halinde. Nedir bu üç kulvar derseniz, basitleştirilmiş olarak bir bireyin finansal ilişkide bulunduğu üç grup üzerinden bakalım: 
 
@@ -45,22 +52,22 @@ Birey - devlet (vergi ve ceza)
 
 Dijitalleşme yukarıdaki üç alanda işlem hacimlerini patlatıcı bir etkiye sahip oldu - ve bu patlamada aslan payını da banka ve benzeri finans kurumları kaptılar. Eskiden para göndermek için banka şubesine gitmek bir zulümken, şimdi elimizdeki cihazlar ile dakikada bir ödeme yapabiliyoruz. Benzer şekilde online ürün almak ya da elektrik, su faturası ödemesi artık saniyeler sürüyor. Devletler de bu alanda vergi toplama ya da ceza ödeme konusunda vatandaşlara her tür ödeme alternatifini sunuyorlar. Tabii hepsi bankalar aracılığıyla ve bir komisyon karşılığı. 
 
-### Yolun sonuna mı geliyoruz?
+### Finans kurumlarının temeline üç koldan yapılan atak
 
 Ancak bankaların komisyon karşılığı yüksek kâr ile işlem yaptıkları dönemlerin artık yavaş yavaş sonuna gelmeye başladık. Rekabetten söz etmiyorum, o artarak sürüyor. Daha temel olarak bu kanalların altı oyulmaya başlandı. 
 
 #### Bireyden bireye ödemelerde kripto paralar
-Bireyden biriye transfer konusunda, blokzincir teknolojisi dijital dünyadaki kopyalanabilirliğin önüne geçip dijital varlıkları sınırlı hale getirmeyi başararak bu alanda finansal kurumların şimdiye kadar oluşturduğu kalın finansal surların içinde ufak da olsa bir delik açtı. Bunun ilk gerçek yaşam kullanım örneğini Bitcoin gibi dijital olarak değer saklayabilen ve transfer edilebilen pratik ve kullanılabilir bir kripto para ile görmeye başladık.
+Bireyden biriye transfer konusunda, Blockchain teknolojisi dijital dünyadaki kopyalanabilirliğin önüne geçip dijital varlıkları sınırlı hale getirmeyi başararak bu alanda finansal kurumların şimdiye kadar oluşturduğu kalın finansal surların içinde ufak da olsa bir delik açtı. Bunun ilk gerçek yaşam kullanım örneğini Bitcoin gibi dijital olarak değer saklayabilen ve transfer edilebilen pratik ve kullanılabilir bir kripto para ile görmeye başladık.
 
 #### Alışveriş ödemelerinde teknoloji devleri
-Hizmet ve ürün karşılığı dijital dünyada yapılan işlemlerde blokzincir teknolojisini kullanan pek çok yeni girişim olsa da, bu alanda çığır açacak insiyatifi Libra projesi ile Facebook gösterdi. Neden önemli Facebook? Şöyle düşünün: Ödeme kullanılabilecek herhangi bir kredi kartı ya da banka hesabını kullanan bir tüketici kaç farklı kart ya da hesap kullanabilir? Onlarca. Bu ticari bir işletme için yapacağı tahsilatlarda aracılara ciddi bir komisyon ödemesi demek. Peki, bu ticari işletme Facebook kullansa? Unutmayın "herkesin bir Facebook hesabı var".  Facebook hepimizin cebinde - herkese ulaşıyor, hepimize dokunuyor. Bırakın Türkiye'yi, dünyada 2.7 milyar insana ulaşıyor. Getireceği ödeme sistemleri ile bu müşterilere ulaşmaya çalışan ticari işletmeleri ekosistemi altına alması ne kadar zor olabilir?
+Hizmet ve ürün karşılığı dijital dünyada yapılan işlemlerde Blockchain teknolojisini kullanan pek çok yeni girişim olsa da, bu alanda çığır açacak insiyatifi Libra projesi ile Facebook gösterdi. Neden önemli Facebook? Şöyle düşünün: Ödeme kullanılabilecek herhangi bir kredi kartı ya da banka hesabını kullanan bir tüketici kaç farklı kart ya da hesap kullanabilir? Onlarca. Bu ticari bir işletme için yapacağı tahsilatlarda aracılara ciddi bir komisyon ödemesi demek. Peki, bu ticari işletme Facebook kullansa? Unutmayın "herkesin bir Facebook hesabı var".  Facebook hepimizin cebinde - herkese ulaşıyor, hepimize dokunuyor. Bırakın Türkiye'yi, dünyada 2.7 milyar insana ulaşıyor. Getireceği ödeme sistemleri ile bu müşterilere ulaşmaya çalışan ticari işletmeleri ekosistemi altına alması ne kadar zor olabilir?
 
 Benzer şekilde Facebook'un kurduğu Libra konsorsiyumunda yer alan dünyanın en önemli para transfer aracılarından PayPal, Ekim 2020 yılı içinde [kripto paralar ile ödeme almaya başlayacağını söyledi](https://www.bbc.com/news/technology-54630283). Libra konsorsiyumundan bir süre sonra çıkan PayPal'ın yakın zamanda Libra benzeri kapalı bir dijital para kuracağını söylemek kahinlik olmaz. Zira 300 milyon kullanıcı ve 28 milyon ticari işletmeyi zaten ekosisteminde tutan bir güç, neden bu ekosistemi kendi kapalı sisteminde tutup sağmasın?
 
 Tabii, yalnızca finansal kurumlar değil Facebook'tan korkan. 2.7 milyar insanı eline aldığını gören Merkez Bankaları da bunu kendi ekonomik politikalarını tehdit eder gördüler. İşte bu nedenle, Libra açıklamasının hemen ertesinde [Fransa Maliye Bakanı çığlığı bastı](https://www.marketwatch.com/story/french-finance-minister-says-libra-should-not-be-allowed-in-eu-2019-10-09#:~:text=BRUSSELS%20(AP)%20%E2%80%94%20The%20European,Bruno%20Le%20Maire%20said%20Wednesday.). Amerika Birleşik Devletleri kongresi Mark Zuckerberg ve Libra projesinin başı David Marcus'u neredeyse haftada bir sorgulamaya başladılar. 
 
 #### Ve merkez bankaları
-ABD (ve kısmen Avrupa Birliği) global finans sistemin ağırlıklı sahibi olarak ([dünya ticaretinin %80'inin ABD Doları ile gerçekleştiğini](https://www.swift.com/sites/default/files/documents/swift_bi_currency_evolution_infopaper_57128.pdf) hatırlatalım) bu egemenliklerinin devamı için Libra benzeri blokzincir tabanlı merkeziyetsiz insiyatiflere reaksiyoner olarak bakıyorlar. Ancak öte yandan, dünyanın diğer tarafından ekonomik bir güç olmayı hedefleyen Çin ise Libra projesine tepkisini, üzerinde yıllardır [üzerinde çalışmakta olduğu Merkez Bankası Dijital Parası](https://boxmining.com/dcep/#:~:text=What%20is%20DCEP%3F,Bank%20of%20China%20(PBoC).) projesinde [gaza basarak](https://www.bloomberg.com/news/articles/2020-09-08/how-china-is-closing-in-on-its-own-digital-currency-quicktake) gösterdi. 
+ABD (ve kısmen Avrupa Birliği) global finans sistemin ağırlıklı sahibi olarak ([dünya ticaretinin %80'inin ABD Doları ile gerçekleştiğini](https://www.swift.com/sites/default/files/documents/swift_bi_currency_evolution_infopaper_57128.pdf) hatırlatalım) bu egemenliklerinin devamı için Libra benzeri Blockchain tabanlı merkeziyetsiz insiyatiflere reaksiyoner olarak bakıyorlar. Ancak öte yandan, dünyanın diğer tarafından ekonomik bir güç olmayı hedefleyen Çin ise Libra projesine tepkisini, üzerinde yıllardır [üzerinde çalışmakta olduğu Merkez Bankası Dijital Parası](https://boxmining.com/dcep/#:~:text=What%20is%20DCEP%3F,Bank%20of%20China%20(PBoC).) projesinde [gaza basarak](https://www.bloomberg.com/news/articles/2020-09-08/how-china-is-closing-in-on-its-own-digital-currency-quicktake) gösterdi. 
 
 Merkez Bankası Dijital Paraları, merkez bankalarının halk ile direkt iletişime geçebilme özelliğinden dolayı ülkeler tarafından üzerinde hassasiyetle durulan bir enstrüman. Merkez Bankası'nda bir hesap açmak suretiyle vatandaşa dokunmanın ne gibi faydası olabilir? Öncelikle, vergi, ceza tahsilatı gibi konularda bankalara ödenen komisyon ya da kullandırılan likidite gibi somut ancak ufak faydaları var devlet için - ancak bu böyle bir projeyi geliştirmek için yeterli olmayabilir. Zaten bankalar gerekli teknolojik altyapı yatırımlarını yapmış olduklarından devlet için en kârlı olacak şekilde bu hizmeti vermeye devam edebilirler. Keza, finansal dünyaya erişimi olmayan kesimleri sistem içine sokmak da fikir olarak oldukça güzel bir başka neden olsa da PR etkisinin ötesinde bu insiyatifi tek başına taşıyamaz. 
 
@@ -80,15 +87,15 @@ Birincisi, mevcut işleri olan yüksek kâr marjlı bireysel hizmetlerde, yukar�
 
 ### DeFi yani merkeziyetsiz finansa geliyoruz şimdi... 
 
-İşte Bitcoin ile başlayan blokzinciri teknolojisini kullanarak finansal gücü tüketiciye verme trendi tabii ki kişiden kişiye para transferiyle sınırlı kalmadılar . Bankacılığın hemen her alanında yeni girişimler ile sektörü temelden meydan okumaya başladılar. Merkeziyetsiz Finans olarak da adladırılan bu alana gelin kısaca bir göz atalım şimdi: 
+İşte Bitcoin ile başlayan Blockchain'i teknolojisini kullanarak finansal gücü tüketiciye verme trendi tabii ki kişiden kişiye para transferiyle sınırlı kalmadılar . Bankacılığın hemen her alanında yeni girişimler ile sektörü temelden meydan okumaya başladılar. Merkeziyetsiz Finans olarak da adladırılan bu alana gelin kısaca bir göz atalım şimdi: 
 
 #### Merkeziyetsiz finansın tarihçesi
 
-2015 yılı civarı başlayan ve yavaş yavaş hareketlenen blokzincir alanındaki girişimler, uzunca bir süre kendilerine ürün-piyasa eşleşmesi bulabilmek için uğraştılar. 2017 yılı içinde kağıt üzerindeki fikirlerini hayata geçirebilmek için gerekli finansmanı ICO (Initial Coin Offering) dediğimiz halka arz türevi bir para toplama yöntemi ile bulan girişimler, sonrasında çeşit çeşit deneyler gerçekleştirdiler. Pek çoğu başarısız oldu, bu girişimlerin, çıkarılan ürünler hedeflenen büyüklüklere ulaşamadı. Ta ki 2020 yılının yaz aylarına kadar. 
+2015 yılı civarı başlayan ve yavaş yavaş hareketlenen Blockchain alanındaki girişimler, uzunca bir süre kendilerine ürün-piyasa eşleşmesi bulabilmek için uğraştılar. 2017 yılı içinde kağıt üzerindeki fikirlerini hayata geçirebilmek için gerekli finansmanı ICO (Initial Coin Offering) dediğimiz halka arz türevi bir para toplama yöntemi ile bulan girişimler, sonrasında çeşit çeşit deneyler gerçekleştirdiler. Pek çoğu başarısız oldu, bu girişimlerin, çıkarılan ürünler hedeflenen büyüklüklere ulaşamadı. Ta ki 2020 yılının yaz aylarına kadar. 
 
 /Users/turansert/Downloads/DeFi_pulse.png
 
-Beklendiği gibi blokzincir alanındaki girişimlerin ağırlıklı bir kısmı finans alanına odaklandı. Ürün-piyasa eşleşmesi için çalışan bu girişimler, öncelikle finans dünyasının sorunlarını anlamaya çalışıp, sonrasında ne tip çözümler bulabileceklerine odaklandılar. Bu çalışmalara paralel öncelikle felsefi olarak ne yapılması gerektiği konusunda ortaya genel bir fikir birliği ve ortak bir ad ortaya çıktı. DeFi (decentralized finance yani Merkeziyetsiz Finans).  Gelin önce Merkeziyetsiz Finans - DeFi nedir, neden önemli ona bakalım. 
+Beklendiği gibi Blockchain alanındaki girişimlerin ağırlıklı bir kısmı finans alanına odaklandı. Ürün-piyasa eşleşmesi için çalışan bu girişimler, öncelikle finans dünyasının sorunlarını anlamaya çalışıp, sonrasında ne tip çözümler bulabileceklerine odaklandılar. Bu çalışmalara paralel öncelikle felsefi olarak ne yapılması gerektiği konusunda ortaya genel bir fikir birliği ve ortak bir ad ortaya çıktı. DeFi (decentralized finance yani Merkeziyetsiz Finans).  Gelin önce Merkeziyetsiz Finans - DeFi nedir, neden önemli ona bakalım. 
 
 ### Merkeziyetsiz Finans ne demek?
 
@@ -130,11 +137,11 @@ Bunlar mevcut kitle. Öte yandan hepimizin rahat yaşamları ardında göz ardı
 
 Nasıl yapacaklar bunu? Öncelikle, Merkeziyetsiz Finans ile ilgili bilmemiz gereken bir nokta var. O da şu: Klasik finans sisteminde müşteri sahip olduğu herhangi bir varlığa ilişkin bir aksiyon almak istediğinde  o varlığını bir finans kurumuna emanet eder.  Finans sorumluluk isteyen bir iştir - kanuni otoriteler de bu nedenle finans kurumları üzerinde sıkı bir denetim uygularlar. 
 
-İşte blokzincir teknolojisi öncelikle bu temeli değiştiriyor. Zira bu teknoloji sayesinde tüketici nasıl evinde yastığının altında altın tutuyorsa, benzer şekilde dijital varlığını kendine ait bir elektronik cüzdanda tutabiliyor. Bu varlık ile ilgili herhangi bir tasarrufta bulunmak isterse bunu ister kendisi isterse bir aracıyla yapabiliyor. Ama bir aracı ile yapsa bile varlığını o aracıya emanet etmiyor. Merkeziyetsiz finansta aracı hakikaten adı üstünde sadece işleme aracılık ediyor.  İşte teknolojik anlamda asıl devrim bu!
+İşte Blockchain teknolojisi öncelikle bu temeli değiştiriyor. Zira bu teknoloji sayesinde tüketici nasıl evinde yastığının altında altın tutuyorsa, benzer şekilde dijital varlığını kendine ait bir elektronik cüzdanda tutabiliyor. Bu varlık ile ilgili herhangi bir tasarrufta bulunmak isterse bunu ister kendisi isterse bir aracıyla yapabiliyor. Ama bir aracı ile yapsa bile varlığını o aracıya emanet etmiyor. Merkeziyetsiz finansta aracı hakikaten adı üstünde sadece işleme aracılık ediyor.  İşte teknolojik anlamda asıl devrim bu!
 
 ### Klasik dünyadaki önkabullerimizden sıyrılma vakti... 
 
-Blokzincir ve merkeziyetsiz finans teknolojilerini anlamaya çalışırken klasik dünyadaki alışmış olduğumuz kimi önkabullerden de kurtulmamız gerekiyor. Neler bunlar?
+Blockchain ve merkeziyetsiz finans teknolojilerini anlamaya çalışırken klasik dünyadaki alışmış olduğumuz kimi önkabullerden de kurtulmamız gerekiyor. Neler bunlar?
 
 Birincisi, yukarıda uzun uzun bahsettiğimiz emanet tutmama. 
 
