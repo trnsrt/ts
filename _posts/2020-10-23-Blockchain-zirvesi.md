@@ -15,7 +15,7 @@ tags: videos Etkinlikler
 <img src="/assets/blockchain_zirvesi_yayin_1200.jpg">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://youtu.be/qd6BSTaMYFA?t=8930" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe width="224" height="126" src="https://www.youtube.com/embed/qd6BSTaMYFA?t=8930" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Programdan bir görüntü...  
