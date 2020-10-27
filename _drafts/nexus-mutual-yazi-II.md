@@ -21,9 +21,9 @@ Nexus Mutual havuzunun çalışma prensipleri ise bir parça farklı. Gelin hız
 
 Nexus Mutual'in havuzu özünde sistem tarafından alınan risklere karşılık ödenebilecek kapital rakamının toplamından oluşuyor. Sigorta satın alanların ödedikleri tüm ücretler havuzun içine girişleri oluşturuyor. Yapılan hasar ödemeleri ise temel çıkışları. 
 
-Havuzun sahibi tüm üyeler. Nasıl sahip oluyorlara bu havuza? Aynı hisse senedinde olduğu gibi havuzun sahipliğini gösteren sistemin parası NXM ile. Dolayısı ile NXM sahibi olmak hem havuzun riskini hem de getirisini paylaşmak anlamına geliyor. 
+Havuzun sahibi tüm üyeler. Nasıl sahip oluyorlar bu havuza? Aynı hisse senedinde olduğu gibi havuzun sahipliğini gösteren sistemin parası NXM ile. Dolayısı ile NXM sahibi olmak hem havuzun riskini hem de getirisini paylaşmak anlamına geliyor. 
 
-Peki başlangıçta sistem nasıl başladı? Havuz boş muydu? Hayır, bu alanda tecrübeli riski bilen kişi ve kurumlar başlangıçta ETH koyup karşılığında NXM alarak havuza bir kapital sağladılar. 
+Peki başlangıçta sistem nasıl başladı? Havuz boş muydu? Hayır, bu alanda tecrübeli, riski bilen kişi ve kurumlar başlangıçta Ethereum sisteminin parası olan ETH koyup karşılığında NXM alarak havuza bir kapital sağladılar. 
 
 Havuzdaki para ETH olarak tutuluyor. Dolayısıyla Nexus Mutual dünyasının temeli ETH'e dayanıyor - en azından şimdilik. Bu da anlaşılır, zira koruma verdikleri DeFi platformlarının çoğunluğu da Ethereum üzerinde işlem yaptığı için risk ETH bazlı, o nedenle bu riske karşı fonları da ETH olarak değerlendirmek mantıklı. 
 
@@ -57,7 +57,7 @@ Yine aynı şekilde eğer havuzdaki para minimum rakama doğru yaklaşmaya başl
 Özetle algoritma dediğimiz bu basit formül sayesinde hedeflenen, NXM fiyatı ile oynayarak, havuzdaki kapital miktarının belli bir bant içinde oynamasını sağlamak. Bu bandın altı minimum karşılık oranı olan MCR, üstü ise MCR'nin %30 fazlası. 
 
 ### Nasıl sigorta yapıyor kullanıcılar?
-Üye olduktan sonra aslında çok da karmaşık değil. Kullanıcı farklı ürünlerden hangisine karşı kendisini korumak istiyor ise onu seçiyor, kaç gün için ve ne kadarlık bir miktar için korunma istediğini belirliyor. Sistem kendisine bir oran veriyor. Burada kullanıcı ödemeyi dilerse NXM dilerse ise ETH ile yapabiliyor. 
+Üye olduktan sonra aslında çok da karmaşık değil. Kullanıcı farklı ürünlerden hangisine karşı kendisini korumak istiyor ise onu seçiyor, kaç gün için ve ne kadarlık bir miktar için korunma istediğini belirliyor. Sistem kendisine bir oran veriyor. Burada kullanıcı ödemeyi dilerse NXM dilerse de ETH ile yapabiliyor. 
 
 #### Peki sigorta oranını kim nasıl belirliyor?
 Bu sigorta oranının aslında Nexus Mutual yatırımcıları belirliyor. Bunu da staking dediğimiz rehin verme işlemi ile yapıyorlar. 
