@@ -8,6 +8,7 @@ Sistemin çalışması aslında bir havuz şeklinde. Evet, [daha önceki Uniswap
 
 Hatırlarsak, Uniswap'da iki bölmeli iki paradan oluşan havuzlar vardı. Alım satım yapanlar havuzdaki bir paradan almak istedikleri yerine orada bulunan diğer parayı bırakıyorlardı. 
 
+#### Nexus'un havuzu diğerlerinden farklı... 
 Nexus Mutual havuzunun çalışma prensipleri ise bir parça farklı. Gelin hızlıca bir göz atalım:
 
 Nexus Mutual'in havuzu özünde sistem tarafından alınan risklere karşılık ödenebilecek kapital rakamının toplamından oluşuyor. Sigorta satın alanların ödedikleri tüm ücretler havuzun içine girişleri oluşturuyor. Yapılan hasar ödemeleri ise temel çıkışları. 
