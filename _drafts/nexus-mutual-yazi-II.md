@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "DeFi'de sigortacılığa devam..."
+date:   2020-10-27 18:47:56 +0300
+categories: Genel
+tags: Yazılar DeFi
+---
+
 Geçtiğimiz yazıda merkeziyetsiz bir sigorta sistemi olan [Nexus Mutual'ın hikayesine bakmıştık](/genel/2020/10/20/definin-sigortasi-nexus-mutual.html). Bu yazımızda ise işin biraz daha tekniğine girerek [Nexus Mutual](https://nexusmutual.io/) sistemi nasıl çalışır, sistemin tokeni NXM nasıl fiyatlanır ona bakacağız. Arkasından NXM tokenları ile yapılabilecek staking benzeri farklı işlemlerden de bahsedeceğiz. 
 
 ### Nasıl çalışıyor Nexus sistemi?
@@ -76,17 +84,27 @@ Birinci bölümünde genel olarak başladığımız bu yazıda ise daha teknik d
 ---
 
 
-[^1] Yapılan oylamada verilen karar %70 çoğunluk ile alınmalı - aksi takdirde tüm sistem tarafından bir oylama daha yapılıyor. 
-[^2] Üç adet talep henüz değerlendirme aşamasında
-[^3] (bu oranın adı MCR - minimum capital requirement oranı). 𝑇𝑃 = 𝐴 + (𝑀𝐶𝑅𝐸𝑇𝐻/𝐶)∙ 𝑀𝐶𝑅%4
+- [^1] Yapılan oylamada verilen karar %70 çoğunluk ile alınmalı - aksi takdirde tüm sistem tarafından bir oylama daha yapılıyor.
+- [^2] Üç adet talep henüz değerlendirme aşamasında
+- [^3] (bu oranın adı MCR - minimum capital requirement oranı). 𝑇𝑃 = 𝐴 + (𝑀𝐶𝑅𝐸𝑇𝐻/𝐶)∙ 𝑀𝐶𝑅%4
 
 ---
 Kaynaklar: 
 
-https://cryptobriefing.com/defi-review-what-is-nexus-mutual-introduction-nxm/
-https://cryptobriefing.com/nexus-mutual-just-ran-out-defi-coverage-heres-why/
-https://tokentuesdays.substack.com/p/nexus-mutual
-https://academy.ivanontech.com/blog/introduction-to-defi-insurance-and-nexus-mutual
-https://sci.smithandcrown.com/projects/nexus-mutual
+- https://cryptobriefing.com/defi-review-what-is-nexus-mutual-introduction-nxm/
+- https://cryptobriefing.com/nexus-mutual-just-ran-out-defi-coverage-heres-why/
+- https://tokentuesdays.substack.com/p/nexus-mutual
+- https://academy.ivanontech.com/blog/introduction-to-defi-insurance-and-nexus-mutual
+- https://sci.smithandcrown.com/projects/nexus-mutual
+
+---
+
+---
+
+*Not 1: Bu yazı ilk olarak 27 Ekim 2020'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/defide-sigortaciliga-devam/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
 
 ---
