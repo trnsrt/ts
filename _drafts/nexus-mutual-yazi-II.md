@@ -64,6 +64,10 @@ Bu sigorta oranının aslında Nexus Mutual yatırımcıları belirliyor. Bunu d
 
 Staking daha fazla risk karşılığı daha da fazla getiri almak isteyenler için kurulmuş bir sistem. Normalde Nexus Mutual'a yatırımcı olmak istediğinizde, havuzdan NXM satın alıyor ve tüm sistemin risk ve getirisine ortak oluyorsunuz. Ancak staking yaptığınızda bu riski ürün bazında ayrıştırmak da mümkün oluyor. 
 
+| ![semsiyeler](/assets/umbrella-3289996_640.jpg)|
+|:--:| 
+| *Image by [Sarah Lötscher](https://pixabay.com/users/sarah_loetscher-4248505/) from [Pixabay](https://pixabay.com/))*|
+
 NXM satın alan dolayısıyla genel sisteme yatırım yapmış bir yatırımcı sonrasında dilerse bu NXM'i belli bir spesifik ürüne koyarak riskini daha da artırabiliyor. Böyle yaparak bu spesifik ürünü satın almış olanların ödedikleri primlerden bir kısmını havuzdan önce kazanma hakkına sahip oluyor. Risk tarafında ise üründe bir sorun çıkıp da zarar tazminat ödenmesi halinde koymuş olduğu NXM'i toptan kaybetme ihtimali var. Bu nedenle, staking yapmanın ekstra bir riskli bir yatırım olduğu unutulmamalı. 
 
 Aslına bakarsanız, staking Akıllı Kontratların risklerini anlayabilmek için güzel bir endikatör aynı zamanda. Risk tutarı aynı görünen iki Akıllı Kontrat'tan birine diğerinin iki katı kadar staking yapılmışsa, bu birinci kontratın genel olarak çok daha az riskli görüldüğü anlamına gelebilir. 
