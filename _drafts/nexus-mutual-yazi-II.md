@@ -6,10 +6,10 @@ categories: Genel
 tags: Yazılar DeFi
 ---
 
-Geçtiğimiz yazıda merkeziyetsiz bir sigorta sistemi olan [Nexus Mutual'ın hikayesine bakmıştık](/genel/2020/10/20/definin-sigortasi-nexus-mutual.html). Bu yazımızda ise işin biraz daha tekniğine girerek [Nexus Mutual](https://nexusmutual.io/) sistemi nasıl çalışır, sistemin tokeni NXM nasıl fiyatlanır ona bakacağız. Arkasından NXM tokenları ile yapılabilecek staking benzeri farklı işlemlerden de bahsedeceğiz. 
+Geçtiğimiz yazıda merkeziyetsiz bir sigorta sistemi olan [Nexus Mutual'ın hikayesine bakmıştık](/genel/2020/10/20/definin-sigortasi-nexus-mutual.html). Bu yazımızda ise işin biraz daha tekniğine girerek Nexus Mutual sistemi nasıl çalışır, sistemin tokeni NXM nasıl fiyatlanır ona bakacağız. Arkasından NXM tokenları ile yapılabilecek staking benzeri farklı işlemlerden de bahsedeceğiz. 
 
 ### Nasıl çalışıyor Nexus sistemi?
-Nexus Mutual kendisine sigorta demiyor - bunun en önemli nedeni kanuni olarak sigorta mevzuatına takılmamak. Bunun yerine Akıllı Kontratlarda çıkabilecek açıklara karşı "koruma" sağladıklarını belirtiyorlar. 
+[Nexus Mutual](https://nexusmutual.io/) kendisine sigorta demiyor - bunun en önemli nedeni kanuni olarak sigorta mevzuatına takılmamak. Bunun yerine Akıllı Kontratlarda çıkabilecek açıklara karşı "koruma" sağladıklarını belirtiyorlar. 
 
 #### Havuz problemleri yine karşımızda... 
 Sistemin çalışması aslında bir havuz şeklinde. Evet, [daha önceki Uniswap yazımızda bahsettiğimiz havuz sistemi](/genel/2020/09/15/nedir-bu-uniswap.html) burada da geçerli. 
