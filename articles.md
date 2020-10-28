@@ -40,7 +40,7 @@ permalink: /articles/
   - [Uniswap rakipler Curve, Balancer ve Sushiswap](/genel/2020/09/22/uniswap-rakipleri-curve-balancer-ve-sushiswap.html)
   - [DeFi'de kısa vadeli başarının ipuçları - $MEME coin](/genel/2020/09/29/defide-kisa-vadeli-basari.html)
   - [İlginç bir parasal DeFi deneyi](/genel/2020/10/06/ilginc-bir-parasal-DeFi-deneyi-Ampleforth.html) ve [Ampleforth'a devam](/genel/2020/10/13/Amplefortha-devam.html)
-  - [DeFi'nin sigortası Nexus Mutual](/genel/2020/10/20/definin-sigortasi-nexus-mutual.html)
+  - [DeFi'nin sigortası Nexus Mutual](/genel/2020/10/20/definin-sigortasi-nexus-mutual.html) ve [DeFi'de sigortacılığa-devam](https://turansert.com/genel/2020/10/27/defide-sigortaciliga-devam.html)
 
 
 - Blockchain bazlı teknolojilerin girişimcilik ve yatırımcılık ekosistemlerini nasıl değiştirdiğini merak ediyorsanız
