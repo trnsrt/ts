@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Finans dünyasını değiştirmeye aday üç gelişme"
+date:   2020-11-03 18:47:56 +0300
+categories: Genel
+tags: Yazılar
+---
+
 Bu yazımızda gelin önümüzdeki dönemde finans dünyasına etki edecek üç aktöre bakalım. Finans dünyasının nasıl tepki vereceğini ve nasıl bir dönüşümden geçeceğini tahmin etmeye çalışalım:
 
 Dijital dünyada kişiler arasındaki finansal ilişkinin doğru bir şekilde çalışması için ihtiyaç duyulan kayıt tutma yani muhasebe işlevi şimdiye dek finansal kurumların tekeli altında idi. Blockchain teknolojisi, işte finansal kurumların en temel varlık nedenlerinden biri olan bu "**güven**" fonksiyonunu onların elinden alıp tüm topluma vermeye aday. Tabii buna sebep aslında Blockchain değil, bu teknolojiyi kullananlar. Gelin hep birlikte bakalım kimmiş bunlar?
@@ -63,3 +71,13 @@ Birincisi, **finans kurumları mevcut oyun alanı olan yüksek kâr marjlı bire
 
 ### Sonuç 
 Dijitalleşme ile birlikte hızlı bir dönüşümden geçerek kârlı konumlarını artıran finansal kurumlar, şimdi yeni bir dönüşümün arifesindeler. Üstelik bu sefer masanın diğer tarafındaki müşteriler hem daha donanımlı hem de daha farklı alternatife sahipler. Açık bankacılık alanında olduğu gibi yeni Fintech girişimlerine adapte olmaları onları oyunda bir süre daha tutacak taktiksel davranışlar olabilir. Ancak uzun soluklu bir maraton için kendilerini yeniden konumlandırmaları şart. Bu da finansal kurumlar için hem daha güçlü ve zor ulaşılabilir bir müşteri kitlesi hem de yüksek işlem hacimli ama düşük marjların olduğu bir dünyayı işaret ediyor. 
+
+---
+
+*Not 1: Bu yazı ilk olarak 3 Kasım 2020'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/finans-dunyasini-degistirmeye-aday-uc-gelisme/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
+
+---
