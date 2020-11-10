@@ -1,5 +1,3 @@
-Yedek yazı
-
 Kripto paralar pek çok insan oldukça teknik ve karışık. Sıradan bir kripto para borsasına girmeye çalışsanız bile bir sürü prosedürden geçmek zorundasınız.  Merkeziyetsiz finans alanında durum daha da içler acısı. Neden? Birkaç neden sıralayalım... 
 
 - Bir kere klasik sistemlere göre temel farklar var. Anlamak için çaba sarfetmek, çok okumak ve kendini eğitmek gerekiyor
@@ -73,6 +71,8 @@ Kullanımda olan tüm Yearn ürünleri ile ilgili yatırılmış ya da yatırım
 ### Arkası yarın
 
 Bir sonraki yazımızda, Yearn'ın çıkardığı token olan YFI'ya,  hem protokol hem de token'in nasıl bir yıldız gibi parlayıp sonra neden durulduğuna ve başta kurucu Andre olmak üzere sistemin risklerine bakacağız.. 
+
+----
 
 
 ### Ve YFI
