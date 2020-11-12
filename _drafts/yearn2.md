@@ -59,9 +59,6 @@ Yukarıda bahsettiğimiz özellikler kullanıcıların ilgisini çekti. Ancak bu
 |:--:| 
 | *Kaynak: [DeFi Pulse](https://defipulse.com/yearn.finance)*|
 
-
-![Pulse_grafik](/Users/turansert/Downloads/DeFi_pulse_yearn_800.jpg)
-
 Yearn asıl büyümesini DeFi alanında yeni ortaya çıkan yönetim tokenlarının ilk başta çok hızlı değer kazanmaları sayesinde yaşadı. Bu gelişme, Yearn ürünlerinin de benzer şekilde çok iyi getiriler sağlıyor gibi görünmesine neden oldu. ABD Doları bazında üç haneli rakamlara varan getiriler insanların gözlerini kamaştırdı. Büyük miktarlarda "balina" olarak adlandırılan yatırımcı paralar bu alana ve Yearn'a yığıldı. 
 
 ### Sonra?
