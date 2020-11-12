@@ -55,7 +55,7 @@ Bunun yanında, özellikle yVault gibi, elindeki parayı teminat göstererek kre
 
 Yukarıda bahsettiğimiz özellikler kullanıcıların ilgisini çekti. Ancak bu, tek başına Yearn üzerinde bir milyar ABD Doları para toplanmasına yeterli değil. Baksanıza bu yaz yaşadıklarına. 
 
-| !Pulse_grafik](/assets/DeFi_pulse_yearn_800.jpg)|
+| ![Pulse_grafik](/assets/DeFi_pulse_yearn_800.jpg)|
 |:--:| 
 | *Kaynak: [DeFi Pulse](https://defipulse.com/yearn.finance)*|
 
