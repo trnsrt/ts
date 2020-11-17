@@ -3,7 +3,7 @@ layout: post
 title:  "DeFi'da merkeziyetsiz portföy yönetimi: Yearn Finance"
 date:   2020-11-10 18:47:56 +0300
 categories: Genel
-tags: Yazılar
+tags: Yazılar DeFi
 ---
 
 Kripto paralar pek çok insan için oldukça teknik ve karışık. Sıradan bir kripto para borsasına girmeye çalışsanız bile bir sürü prosedürden geçmek zorundasınız.  Merkeziyetsiz finans alanında durum daha da içler acısı. Neden? Sıralayalım... 
