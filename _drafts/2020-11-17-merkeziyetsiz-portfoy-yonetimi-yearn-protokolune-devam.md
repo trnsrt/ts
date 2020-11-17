@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Merkeziyetsiz portföy yönetimi Yearn Prokolü'ne devam"
+date:   2020-11-17 18:47:56 +0300
+categories: Genel
+tags: Yazılar DeFi
+---
+
 [Geçtiğimiz haftaki yazımızda](/genel/2020/11/10/Defida-merkeziyetsiz-yonetim-platform-yearn-finance.html) merkeziyetsiz portföy yönetim platformu Yearn'e göz atmış, platformun ana ürünleri olan [Earn](https://yearn.finance/earn), [yVaults](https://yearn.finance/vaults) ve [Cover](https://yinsure.finance/)'a bakmıştık.  
 
 <a href="/genel/2020/11/10/Defida-merkeziyetsiz-yonetim-platform-yearn-finance.html">
@@ -102,3 +110,13 @@ Yearn, ilk ürünlerinde zarar etme riskini minimize eden stratejiler üzerine y
 
 ### Sonuç
 Geçtiğimiz yazıda başlayıp bu yazıya uzanan iki bölümlük serimizde, DeFi'nin en ilginç projelerinden biri olan merkeziyetsiz portföy yönetimi platformu Yearn'ı incelemeye çalıştık. Gördüğünüz gibi hareketli, dalgalı, inişli-çıkışlı bir süreci geri bıraktı Yearn. Ama bu süreçte tek bir kişinin tekelinden geniş bir topluluğun aidiyet hissettiği ve büyütmeye çalıştığı bir proje haline geldi. DeFi piyasasındaki gelişmeler, Yearn platformuna da yeni ürünler çıkarması için uygun ortamı yaratacak. Geliştiriciler bu fırsatları değerlendirerek yeni ürünler çıkaracaklar mı? Kullanıcılar bu ürünleri kullanacaklar mı? Hep birlikte yaşayarak göreceğiz. 
+
+---
+
+*Not 1: Bu yazı ilk olarak 17 Kasım 2020'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/merkeziyetsiz-portfoy-yonetimi-yearn-prokolune-devam/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
+
+---
