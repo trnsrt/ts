@@ -8,6 +8,10 @@ Bu yazımızda ise gelin Yearn protokolünün tokeni YFI ile birlikte platformun
 ### Ve YFI
 Daha önce de birkaç kez yazdığımız gibi, merkeziyetsizlik uzun ince bir yol. Bu alanda kurulmuş pek çok girişim gibi Yearn protokolü de merkezilikten merkeziyetsizliğe benzer bir yol izledi. Başlangıçta yazılımcı [Andre Cronje](https://twitter.com/AndreCronjeTech)'den oluşan "tek kişilik bir ordu" tarafından kurulan Yearn zamanla daha geniş bir topluluk haline geldi. 
 
+| ![yearn_complex](/assets/alps-209710_800.jpg)|
+|:--:| 
+| *Image by [Sarah Labbat](https://pixabay.com/users/xoco-89138/) from [Pixabay](https://pixabay.com/)*|
+
 Merkeziyetsizleştirme vizyonundaki adımlara baktığımızda, yol genelde gücün kullanıcılara verilmesi ve kodların açık hale getirilmesi şeklinde başlıyor. Bunun hemen arkasından sıra yazılım/geliştirme faaliyetlerini topluluğa bırakmaya geliyor.  Son olarak platformun yönetiminin de merkeziyetsizleştirilmesi ile vizyon tamamlanıyor. 
 
 Bu süreci planlamak kolay ancak gerçekleştirmek zor ve meşakkatli.  Özellikle son adım. DeFi alanında bu son adımı gerçekleştirmeye yönelik keskin hamle 2020 yazında yönetimi tokenlaştırma oldu (Compound ile başlayan süreç ile ilgili [şu yazımıza göz atabilirsiniz](/genel/2020/06/25/Compoundun-yonetim-tokeni-COMP-nasil-calisiyor.html))
