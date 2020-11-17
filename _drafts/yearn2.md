@@ -37,6 +37,14 @@ YFI token sahiplerinin oylamaları sonucu çıkan kararları 9 kişinin sahip ol
 
 Üstelik bir değil birden fazla platform riski var. Örneğin, [Delegated yVault](https://yearn.finance/vaults) ürününde, i) kullanıcı elinde tuttuğu kripto para (örneğin [Link](https://www.coingecko.com/en/coins/chainlink)), ii) o paranın emanet verildiği platform (örneğin [Aave](https://app.aave.com/home)), iii) karşılığında borç alınan para (mesela [USDC](https://www.coingecko.com/en/coins/usd-coin)), iv) bu paranın değerlendirildiği platform (örneğin [Curve](https://www.curve.fi/)) ve son olarak da tüm bu sistemi yöneten Yearn akıllı kontratının riskini almak zorunda. Üzerine bir de tüm sistemi yöneten Controller denen strateji yürütücünün manuel işlem yapma riskini. 
 
+| ![yearn_complex](/assets/mark-516277_800.jpg)|
+|:--:| 
+| *Image by [Gerd Altmann](https://pixabay.com/users/geralt-9301/) from [Pixabay](https://pixabay.com/)*|
+
+Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=516277">Gerd Altmann</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=516277">Pixabay</a>
+
+Image by Gerd Altmann from Pixabay 
+
 Açıkcası bu alanda kullanıcıyı ferahlatacak mekanizmalar çok az ve yavaş gelişiyorlar. Bunlardan bir tanesi, kod anlamında yapılan denetimler. Pek çok proje çok hızlı ilerlediği için bu denetimleri yaptırmaz iken, kendisi eski bir denetim görevlisi olduğu için Andre'nin bu konuda hassasiyet gösterdiğini görüyoruz. [Yeterli mi](https://github.com/iearn-finance/yearn-audits)? Hayır. 
 
 Andre, hemen hemen her ortamda ürünlerinin yüksek risk içerdiğini söylüyor. Twitter profilinde "I test in prod" yazıyor, Türkçe meali "Ben ürünü çıkartırken test ederim, hatalar çıkabilir, dikkat edin". Dolayısıyla konu hakkında tecrübesi az olanların, en azından başlangıç aşamasında Yearn ürünlerinden uzak durmasında fayda olabilir. 
