@@ -6,7 +6,7 @@
 Bu yazımızda ise gelin Yearn protokolünün tokeni YFI ile birlikte platformun risklerini değerlendirelim. 
 
 ### Ve YFI
-Daha önce de birkaç kez yazdığımız gibi, merkeziyetsizlik uzun ince bir yol. Bu alanda kurulmuş pek çok girişim gibi Yearn protokolü de benzer bir yol izledi. Başlangıçta yazılımcı [Andre Cronje](https://twitter.com/AndreCronjeTech)'den oluşan "tek kişilik bir ordu" tarafından kurulan Yearn zamanla daha geniş bir topluluk haline geldi. 
+Daha önce de birkaç kez yazdığımız gibi, merkeziyetsizlik uzun ince bir yol. Bu alanda kurulmuş pek çok girişim gibi Yearn protokolü de merkezilikten merkeziyetsizliğe benzer bir yol izledi. Başlangıçta yazılımcı [Andre Cronje](https://twitter.com/AndreCronjeTech)'den oluşan "tek kişilik bir ordu" tarafından kurulan Yearn zamanla daha geniş bir topluluk haline geldi. 
 
 Merkeziyetsizleştirme vizyonundaki adımlara baktığımızda, yol genelde gücün kullanıcılara verilmesi ve kodların açık hale getirilmesi şeklinde başlıyor. Bunun hemen arkasından sıra yazılım/geliştirme faaliyetlerini topluluğa bırakmaya geliyor.  Son olarak platformun yönetiminin de merkeziyetsizleştirilmesi ile vizyon tamamlanıyor. 
 
