@@ -32,6 +32,10 @@ Hemen belirtelim, yaklaşık %1-2 civarında bir yatırımını kripto parada de
 
 &nbsp;
 
+&nbsp;
+
+&nbsp;
+
 -- 
 
 <a href="https://twitter.com/blockfolio/status/1325885644548300801">
