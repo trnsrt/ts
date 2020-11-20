@@ -1,5 +1,10 @@
 Son zamanlarda herkesin dilinde Bitcoin ve onun hızlı yükselişi var. Ancak hemen belirtelim, bu yükseliş oldukça spekülatif, zira Bitcoin hâlâ gündelik hayatta kullandığımız bir araç değil. Peki son dönemki bu ilgi nereden geliyor? Suya atılan bir taşın çıkardığı halkalar gibi, Bitcoin de geniş kitlelerce benimsenme yolunda kendine birkaç halka daha ekledi sanki son zamanlarda. Gelin bu yazımızda bu halkalardan önemli bir tanesine değinelim: 
 
+| ![yagmur-damlasi](/assets/drop-of-water-2273845_1280.jpg)|
+|:--:| 
+| *Image by [FelixMittermeier](https://pixabay.com/users/felixmittermeier-4397258/) from [Pixabay](https://pixabay.com/)*|
+
+
 ### Bitcoin hikayesine kapılan yeni kitle kimlerden oluşuyor?
 2009 yılından başlayan Bitcoin hikayesi, 2017 yılının sonlarına doğru hızlı bir ivme kazansa da, saman alevi gibi gelen bu yükseliş, kısa süre sonra yerini iki yıllık bir kış dönemine bırakmıştı. 
 
