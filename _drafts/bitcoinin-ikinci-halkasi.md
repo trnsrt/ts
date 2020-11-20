@@ -76,7 +76,8 @@ Bu arada, "yanlışsam düzeltin" diyerek, karşıt fikirleri dinlemeye hazır o
 #### Ve Nouriel Roubini
 
 <img align="left" src="/assets/Nouriel-Roubini-v2.jpg" style="width:20%; padding-right:20px"> Bir de tabii bu geniş yelpazenin en ucunda [Nouriel Roubini](https://twitter.com/Nouriel) var. Kripto para dünyası için geçmişte [şişirilmiş ve lağım çukuru](https://twitter.com/Nouriel) gibi tanımlamaları kullanmaktan çekinmeyen Bay Kıyamet'in geçtiğimiz hafta Bitcoin'in [alışveriş için kullanılacak bir para olmayacağını ancak algoritma ile korunan para arzından dolayı kısmi değer saklama aracı olarak kullanılabileceğini](https://money.yahoo.com/video/not-scaleable-not-secure-not-220948739.html) söylemesi bile Bitcoin'in kabul görmesi açısından büyük bir olay. Roubini gibiler hep vardı, hep de olacak. Onları bu dünyaya renk katan farklı fikirler olarak görmek gerek.. 
-
+&nbsp;
+&nbsp;
 &nbsp;
 
 ### Bu insanlar neden önemli?
