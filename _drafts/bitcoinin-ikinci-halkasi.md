@@ -79,6 +79,7 @@ Bu arada, "yanlışsam düzeltin" diyerek, karşıt fikirleri dinlemeye hazır o
 &nbsp;
 &nbsp;
 &nbsp;
+--
 
 ### Bu insanlar neden önemli?
 
