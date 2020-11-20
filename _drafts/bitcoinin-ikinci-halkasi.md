@@ -30,10 +30,8 @@ Hemen belirtelim, yaklaşık %1-2 civarında bir yatırımını kripto parada de
 
 9 Kasım 2020'de yaptığı bir konuşmada ise Bitcoin yatırımları olduğunu açıklayarak, [Bitcoin'in değer saklama aracı olarak altının önüne geçtiğini belirtti](https://news.bitcoin.com/stan-druckenmiller-bitcoin/). Bitcoin'den kat be kat fazla altın varlığına da sahip olan Druckenmiller, Bitcoin'in yükseleceğine olan inancının altından daha fazla olduğunu söylüyor. 
 
+&nbsp;
 -
--
--
-
 <a href="https://twitter.com/blockfolio/status/1325885644548300801">
          <img alt="Tweet" src="/assets/druckenmiller_tweet.jpg"></a>
 
