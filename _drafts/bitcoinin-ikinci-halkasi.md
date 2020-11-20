@@ -12,7 +12,7 @@ Son zamanlarda herkesin dilinde Bitcoin ve onun hızlı yükselişi var. Ancak h
 
 #### Paul Tudor Jones
 
-<img align="left" src="/assets/Paul-Tudor-Jones.jpg" style="width:40%; padding-right:20px"> Bitcoin hakkında yapılan yorumların ilki Mayıs 2020'de [Paul Tudor Jones](https://en.wikipedia.org/wiki/Paul_Tudor_Jones)'tan geldi. Aslında Jones, Bitcoin'i yeni tanıyan biri değil. 2017 yılında bu alanda yaptığı yatırım iki katına çıktığında elindeki tüm Bitcoin'leri satarak çıkış yapmış. 
+<img align="left" src="/assets/Paul-Tudor-Jones.jpg" style="width:20%; padding-right:20px"> Bitcoin hakkında yapılan yorumların ilki Mayıs 2020'de [Paul Tudor Jones](https://en.wikipedia.org/wiki/Paul_Tudor_Jones)'tan geldi. Aslında Jones, Bitcoin'i yeni tanıyan biri değil. 2017 yılında bu alanda yaptığı yatırım iki katına çıktığında elindeki tüm Bitcoin'leri satarak çıkış yapmış. 
 
 9 milyar dolarlık bir yatırım fonu yöneten ünlü finansçı, özellikle COVID-19 sonrası ekonomiyi canlandırmak amacı güden merkez bankalarının para basma yarışına karşı yatırımcıların kendilerin korumaları gerektiğini [Bloomberg ile yaptığı bir mülakatta söylüyor](https://www.bloomberg.com/news/articles/2020-05-07/paul-tudor-jones-buys-bitcoin-says-he-s-reminded-of-gold-in-70s). 
 
@@ -24,11 +24,10 @@ Hemen belirtelim, yaklaşık %1-2 civarında bir yatırımını kripto parada de
 
 #### Stan Druckenmiller
 
-<img align="left" src="/assets/Stanley_Druckenmiller_v2.jpg" style="width:40%; padding-right:20px"> Keza, Forbes'a göre 4.4 milyar ABD Doları kişisel servete sahip olan bir başka yatırımcı [Stan Druckenmiller](https://en.wikipedia.org/wiki/Stanley_Druckenmiller) da, 2019 Haziran'ında Bitcoin'in neden bir değere sahip olduğunu anlamadığı için ne alım (long) ne de satım (short) [yapmayacağını açıklamıştı](https://cointelegraph.com/news/i-would-not-long-or-short-bitcoin-says-billionaire-stablecoin-investor-druckenmiller). 
+<img align="left" src="/assets/Stanley_Druckenmiller_v2.jpg" style="width:20%; padding-right:20px"> Keza, Forbes'a göre 4.4 milyar ABD Doları kişisel servete sahip olan bir başka yatırımcı [Stan Druckenmiller](https://en.wikipedia.org/wiki/Stanley_Druckenmiller) da, 2019 Haziran'ında Bitcoin'in neden bir değere sahip olduğunu anlamadığı için ne alım (long) ne de satım (short) [yapmayacağını açıklamıştı](https://cointelegraph.com/news/i-would-not-long-or-short-bitcoin-says-billionaire-stablecoin-investor-druckenmiller). 
 
 9 Kasım 2020'de yaptığı bir konuşmada ise Bitcoin yatırımları olduğunu açıklayarak, [Bitcoin'in değer saklama aracı olarak altının önüne geçtiğini belirtti](https://news.bitcoin.com/stan-druckenmiller-bitcoin/). Bitcoin'den kat be kat fazla altın varlığına da sahip olan Druckenmiller, Bitcoin'in yükseleceğine olan inancının altından daha fazla olduğunu söylüyor. 
 
--
 -
 -
 -
@@ -39,7 +38,7 @@ Hemen belirtelim, yaklaşık %1-2 civarında bir yatırımını kripto parada de
 
 #### Raoul Pal
 
-<img align="left" src="/assets/Raoul-Pal.jpg" style="width:40%; padding-right:20px"> [Raoul Pal](https://twitter.com/RaoulGMI), Goldman Sachs kökenli eski bir fon yöneticisi. 36 yaşında iken fon yöneticiliğinden emekli olup, şu an finans dünyasında saygın bir yere sahip olan [Real Vision](https://www.realvision.com) isimli web sitesini kuruyor. Aynı zamanda [The Global Macro Investor](http://www.globalmacroinvestor.com/about-us/) adında fonlara araştırma hizmeti veren bir yayın çıkarıyıor. 
+<img align="left" src="/assets/Raoul-Pal.jpg" style="width:20%; padding-right:20px"> [Raoul Pal](https://twitter.com/RaoulGMI), Goldman Sachs kökenli eski bir fon yöneticisi. 36 yaşında iken fon yöneticiliğinden emekli olup, şu an finans dünyasında saygın bir yere sahip olan [Real Vision](https://www.realvision.com) isimli web sitesini kuruyor. Aynı zamanda [The Global Macro Investor](http://www.globalmacroinvestor.com/about-us/) adında fonlara araştırma hizmeti veren bir yayın çıkarıyıor. 
 
 İlk olarak 2017 yılında Bitcoin yatırımı yapan Raoul Pal, sonrasında Haziran 2017 yaptığı açıklamada [Bitcoin'in bir çılgınlık olduğunu, herhangi bir para saklama değeri olmadığını belirtip tüm Bitcoin'lerini sattığını](https://www.forbes.com/sites/oliviergarret/2017/06/12/raoul-pal-bitcoin-is-mania-and-not-a-store-of-value-i-sold-out-last-week/?sh=3247723f65ad) söylüyor. 
 
@@ -49,7 +48,7 @@ Merkez bankalarının çıkaracağı dijital paraların mali teşviği hızlı b
 
 #### Michael Saylor
 
-<img align="left" src="/assets/michael-saylor-v2.jpg" style="width:40%; padding-right:20px"> Bir başka teknik değil ama felsefi açıdan Bitcoin'e inanan önemli kişi ise [Michael Saylor](https://twitter.com/michael_saylor). Kurucusu olduğu halka açık teknoloji şirketi [MicroStrategy](https://www.microstrategy.com/en) 2020 yılı içinde [önce 250 milyon ABD Doları, daha sonra 175 milyon ABD Doları Bitcoin satın alması](https://news.bitcoin.com/nasdaq-microstrategy-bitcoin-425-million/) ile dikkat çekti. 
+<img align="left" src="/assets/michael-saylor-v2.jpg" style="width:20%; padding-right:20px"> Bir başka teknik değil ama felsefi açıdan Bitcoin'e inanan önemli kişi ise [Michael Saylor](https://twitter.com/michael_saylor). Kurucusu olduğu halka açık teknoloji şirketi [MicroStrategy](https://www.microstrategy.com/en) 2020 yılı içinde [önce 250 milyon ABD Doları, daha sonra 175 milyon ABD Doları Bitcoin satın alması](https://news.bitcoin.com/nasdaq-microstrategy-bitcoin-425-million/) ile dikkat çekti. 
 
 Saylor'un Bitcoin ile ilgili düşünceleri hiç de hoş değil: [19 Aralık 2013'de attığı bir tweet'](https://twitter.com/michael_saylor/status/413478389329428480?lang=en)de "Bitcoin'in günlerinin sayılı olduğunu, online bahis gibi ile aynı akibete uğramasının an meselesi olduğunu" yazıyor. 
 
@@ -59,7 +58,7 @@ Microstrategy için aldırdığı Bitcoin öncesinde Michael Saylor'un [şahsi o
 
 #### Ray Dalio
 
-<img align="left" src="/assets/ray-dalio-v2.jpg" style="width:40%; padding-right:20px"> Öte yandan, Bitcoin'e hâlâ kuşkuyla bakan [Ray Dalio](https://twitter.com/RayDalio)'yu da unutmayalım. Dünyanın en saygın fon yöneticilerinden olan Ray Dalio özellikle 2019 yılı Temmuz ayında yayınladığı "[Paradigm Shift](https://www.linkedin.com/pulse/paradigm-shifts-ray-dalio/)" adlı yazısında yatırım tezinin temel prensiplerini açıkladıktan sonra bundan sonrası için portföy çeşitlendirmesinde altını önerir. 
+<img align="left" src="/assets/ray-dalio-v2.jpg" style="width:20%; padding-right:20px"> Öte yandan, Bitcoin'e hâlâ kuşkuyla bakan [Ray Dalio](https://twitter.com/RayDalio)'yu da unutmayalım. Dünyanın en saygın fon yöneticilerinden olan Ray Dalio özellikle 2019 yılı Temmuz ayında yayınladığı "[Paradigm Shift](https://www.linkedin.com/pulse/paradigm-shifts-ray-dalio/)" adlı yazısında yatırım tezinin temel prensiplerini açıkladıktan sonra bundan sonrası için portföy çeşitlendirmesinde altını önerir. 
 
 Alternatif yatırım aracı olarak kripto paralara hep soğuk duran Ray Dalio, en son geçtiğimiz hafta içinde attığı bir [twitte](https://twitter.com/RayDalio/status/1328731042690306048) bunun nedenini açıklıyor: Temel olarak Bitcoin'in i)  fazla dalgalı olduğu için alışverişlerde kullanılamadığı ve değer saklama aracı olamayacağı, ii) başarılı olsa da hükümetler tarafından yasadışı hale getirilebileceğini, ve iii) altın gibi merkez bankaları ya da büyük kurumsal yatırımcılar tarafından kullanılmasını hayal edemediğini söylüyor. Bunların hepsi makul sorular. 
 
@@ -67,7 +66,7 @@ Bu arada, "yanlışsam düzeltin" diyerek, karşıt fikirleri dinlemeye hazır o
 
 #### Ve Nouriel Roubini
 
-<img align="left" src="/assets/Nouriel-Roubini-v2.jpg" style="width:40%; padding-right:20px"> Bir de tabii bu geniş yelpazenin en ucunda [Nouriel Roubini](https://twitter.com/Nouriel) var. Kripto para dünyası için geçmişte [şişirilmiş ve lağım çukuru](https://twitter.com/Nouriel) gibi tanımlamaları kullanmaktan çekinmeyen Bay Kıyamet'in geçtiğimiz hafta Bitcoin'in [alışveriş için kullanılacak bir para olmayacağını ancak algoritma ile korunan para arzından dolayı kısmi değer saklama aracı olarak kullanılabileceğini](https://money.yahoo.com/video/not-scaleable-not-secure-not-220948739.html) söylemesi bile Bitcoin'in kabul görmesi açısından büyük bir olay. Roubini gibiler hep vardı, hep de olacak. Onları bu dünyaya renk katan farklı fikirler olarak görmek gerek.. 
+<img align="left" src="/assets/Nouriel-Roubini-v2.jpg" style="width:20%; padding-right:20px"> Bir de tabii bu geniş yelpazenin en ucunda [Nouriel Roubini](https://twitter.com/Nouriel) var. Kripto para dünyası için geçmişte [şişirilmiş ve lağım çukuru](https://twitter.com/Nouriel) gibi tanımlamaları kullanmaktan çekinmeyen Bay Kıyamet'in geçtiğimiz hafta Bitcoin'in [alışveriş için kullanılacak bir para olmayacağını ancak algoritma ile korunan para arzından dolayı kısmi değer saklama aracı olarak kullanılabileceğini](https://money.yahoo.com/video/not-scaleable-not-secure-not-220948739.html) söylemesi bile Bitcoin'in kabul görmesi açısından büyük bir olay. Roubini gibiler hep vardı, hep de olacak. Onları bu dünyaya renk katan farklı fikirler olarak görmek gerek.. 
 
 ### Bu insanlar neden önemli?
 
