@@ -19,6 +19,7 @@ permalink: /articles/
   - [Çevre için Blockchain](/genel/2018/11/16/cevre-icin-blockhain.html) ve [devamı](/genel/2018/11/17/cevre-icin-blockchaine-devam.html) 
   - [Geleceği tahmin için Blockchain](/genel/2018/07/13/gelecegi-tahmin-icin-blockchain.html) 
   - [Tedarik zinciri için Blockchain](/genel/2018/08/17/tedarik-zinciri-icin-blockchain.html)
+  - [Finans dünyasını değiştirmeye aday üç gelişme](/genel/2020/11/03/Finans-dunyasini-degistirmeye-aday-uc-gelisme.html)
 - Finans alanındaki potansiyeli en yüksek olan Merkeziyetsiz Finans (DeFi) hareketini yakından tanımak için
   - [Blockchain finans dünyasını nasıl etkileyecek?](/genel/2019/02/14/Blockchain-finans-dunyasini-nasil-etkileyecek.html)
   - [DeFi neden önemli?](/genel/2020/06/11/DeFi-neden-onemli.html)
@@ -41,6 +42,7 @@ permalink: /articles/
   - [DeFi'de kısa vadeli başarının ipuçları - $MEME coin](/genel/2020/09/29/defide-kisa-vadeli-basari.html)
   - [İlginç bir parasal DeFi deneyi](/genel/2020/10/06/ilginc-bir-parasal-DeFi-deneyi-Ampleforth.html) ve [Ampleforth'a devam](/genel/2020/10/13/Amplefortha-devam.html)
   - [DeFi'nin sigortası Nexus Mutual](/genel/2020/10/20/definin-sigortasi-nexus-mutual.html) ve [DeFi'de sigortacılığa-devam](https://turansert.com/genel/2020/10/27/defide-sigortaciliga-devam.html)
+  - [DeFi'de merkeziyetsiz portföy yönetimi platformu Yearn](/genel/2020/11/10/Defida-merkeziyetsiz-yonetim-platform-yearn-finance.html) ve [Merkeziyetsiz portföy yönetimi Yearn'a devam](/genel/2020/11/17/merkeziyetsiz-portfoy-yonetimi-yearn-protokolune-devam.html)
 
 
 - Blockchain bazlı teknolojilerin girişimcilik ve yatırımcılık ekosistemlerini nasıl değiştirdiğini merak ediyorsanız
