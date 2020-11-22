@@ -1,4 +1,4 @@
-Son zamanlarda herkesin dilinde Bitcoin ve onun hızlı yükselişi var. Ancak bu yükseliş oldukça spekülatif, zira Bitcoin hâlâ gündelik hayatta kullandığımız bir araç değil. Peki son dönemki bu ilgi nereden geliyor? Aynı suya atılan bir taşın yarattığı halkalar gibi, sanki son zamanlarda Bitcoin de geniş kitlelerce benimsenme yolunda kendine yeni birkaç halka daha ekledi. Gelin bu yazımızda bu son gelişmelere değinelim: 
+Bu aralar herkesin dilinde Bitcoin ve onun hızlı yükselişi var. Aynı suya atılan bir taşın yarattığı halkalar gibi, sanki son zamanlarda Bitcoin de geniş kitlelerce benimsenme yolunda etrafına yeni birkaç halka daha ekledi. Gelin bu yazımızda, bu son halkalardan birkaçına değinelim: 
 
 | ![yagmur-damlasi](/assets/drop-of-water-2273845_1280.jpg)|
 |:--:| 
@@ -14,7 +14,7 @@ Son zamanlarda herkesin dilinde Bitcoin ve onun hızlı yükselişi var. Ancak b
 
 <img align="left" src="/assets/Paul-Tudor-Jones.jpg" style="width:20%; padding-right:20px"> Bitcoin hakkında yapılan önemli yorumların [Paul Tudor Jones](https://en.wikipedia.org/wiki/Paul_Tudor_Jones)'tan geldi. 9 milyar dolarlık bir yatırım fonu yöneten ünlü finansçı, aslında Bitcoin'i yeni tanıyan biri değil. 2017 yılında bu alanda yaptığı yatırım iki katına çıktığında elindeki tüm Bitcoin'leri satarak çıkış yapmış.
 
-Jones, [2020 Mayıs'ında yaptığı bir söyleşide](https://www.bloomberg.com/news/articles/2020-05-07/paul-tudor-jones-buys-bitcoin-says-he-s-reminded-of-gold-in-70s), özellikle COVID-19 sonrası ekonomiyi canlandırmak amacı güden merkez bankalarının başlattığı para basma yarışına karşı yatırımcıların mutlaka kendilerini koruması gerektiğini söylüyor. 
+Jones, [2020 Mayıs'ında yaptığı bir söyleşide](https://www.bloomberg.com/news/articles/2020-05-07/paul-tudor-jones-buys-bitcoin-says-he-s-reminded-of-gold-in-70s),  merkez bankalarının özellikle COVID-19 sonrası önce piyasaya likidite sağlamak daha sonra ekonomiyi ayakta tutmak amacıyla çılgın gibi para bastıklarını ve yatırımcıların bu duruma karşı mutlaka kendilerini koruması gerektiğini söylüyor. 
 
 Keza aynı zamanlarda yatırımcılar için yayınladığı ["The Great Monetary Inflation" (pdf)](https://www.docdroid.net/H1fuimX/the-great-monetary-inflation-pdf#page=6) isimli makalesinin 6. sayfasında hükümetlerin para basma politikalarına karşı yatırımcıların kullanabileceği dokuz farklı yatırım aracını sayıyor. Bu varlıklar içinde kendisi için en ilgi çekici ve yatırım yapılabilir olanın ise Bitcoin olduğunu belirtiyor. Bitcoin'in değer saklama alanında altın ve itibari paralar gibi finansal varlıkların yanı sıra sanat eseri, değerli maden ve arsa gibi likit olmayan varlıklar ile de yarışabileceğini söylüyor. 
 
@@ -67,7 +67,7 @@ Saylor'un Bitcoin ile ilgili düşünceleri başlangıçta hiç de olumlu değil
 
 Sonrasında da konu ile fazla ilgilenmeyen Saylor, COVID sırasında herkes gibi eve tıkılınca Bitcoin'i derinlemesine araştırmaya başlıyor. Yaptığı araştırmalar sonucu o kadar inanıyor ki, hem MicroStrategy'e hem de kendi kişisel portföyüne BTC aldırıyor. Satın aldığı Bitcoin'i [100 yıl boyunca elinde tutmayı planladığını](https://cointelegraph.com/news/michael-saylor-claims-the-company-will-hold-bitcoin-for-100-years) belirten Saylor, Bitcoin'in [konuşulmayan kahramanlarının onu geliştirmek için çalışan yazılımcılar olduğunu da söylüyor](https://www.youtube.com/watch?v=ciB4ZiehEIs&t=1637s). Hatta, bu yazılımcıların bir kısmını desteklemek için bir fon da kuruyor. 
 
-Microstrategy için aldırdığı Bitcoin öncesinde Michael Saylor'un [şahsi olarak 240 ABD Doları tutarından Bitcoin almış olduğunu](https://news.bitcoin.com/microstrategy-ceo-million-bitcoin-btc-profit/) da belirtelim. 
+Microstrategy için yaptırdığı bu yatırım Michael Saylor'un [şahsi olarak 240 Milyon ABD Doları tutarından Bitcoin almış olduğunu](https://news.bitcoin.com/microstrategy-ceo-million-bitcoin-btc-profit/) da belirtelim. 
 
 &nbsp;
 
@@ -105,11 +105,11 @@ Büyük fon yöneticilerinin Bitcoin alması ne kadar kritik? Kişisel düşünc
 
 Öte yandan Ray Dalio ve Michael Saylor gibiler ise, Bitcoin’e felsefi olarak da inandıkları için, uzun vadede Bitcoin’in başarılı olması için çalışan inançlı kitleye katılan yeni savaşçılar gibiler. Peki kim bu inançlı kitle?
 
-#### Bu insanlar yokken Bitcoin maksimalistler vardı... 
+### Bu insanlar yokken Bitcoin maksimalistler vardı... 
 
 Bitcoin'in çıkışından bu yana dalgalı da olsa sürekli yükselmesini sağlayanlar, aslında ona felsefi olarak inanan Bitcoin maksimalistleri denen grup. Kripto dünyasında çok yaşadığımız hizipçilik/kabilecilik (tribalism) ya da fanatiklik yapan bir insan grubu da diyebiliriz bunlara. İnandığı sisteme körü körüne bağlı olmak olarak da adlandırabiliriz yaptıklarını. Bitcoin içinde olduğu gibi örneğin son zamanlarda Ethereum alanında da görüyoruz böyle insanları. Zararlı mı böyle insanlar? Hayır. Tam tersine özellikle herhangi bir girişimin en başında böyle insanlar lazım. Neden?
 
-Gerçek ya da sanal hiç farketmez, herhangi bir oluşumun en başı en riskli dönemi aslında. Onlarca, yüzlerce bilinmeyen var. Açık noktalar, riskli alanlar. Analitik bir bakış açısıyla bakan birinin, muhtemelen soracağı sorular sonrası, içinde bulunmaktan imtina edeceği bir zaman dilimi bu. Ama işte böyle bir dönemde oluşumun ihtiyacı olan, ona yürekten bağlı, her ortamda her ortamda onu savunacak ve yatırımı bırakmadan onunla yıllarını geçirecek kadar ona sadık bir kitle. İşte Bitcoin'in en büyük gücü bu aslında.
+Gerçek ya da sanal hiç farketmez, herhangi bir oluşumun en başı en riskli dönemi aslında. Onlarca, yüzlerce bilinmeyen var. Açık noktalar, riskli alanlar. Analitik bir bakış açısıyla bakan birinin, muhtemelen soracağı sorular sonrası, içinde bulunmaktan imtina edeceği bir zaman dilimi bu. Ama işte böyle bir dönemde oluşumun ihtiyacı olan, ona yürekten bağlı, her ortamda onu savunacak ve yatırımı bırakmadan onunla yıllarını geçirecek kadar ona sadık bir kitle. İşte Bitcoin'in en büyük gücü bu aslında.
 
 #### Sonuç
 
