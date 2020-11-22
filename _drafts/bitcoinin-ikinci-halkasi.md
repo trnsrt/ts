@@ -111,7 +111,7 @@ Bitcoin'in çıkışından bu yana dalgalı da olsa sürekli yükselmesini sağl
 
 Gerçek ya da sanal hiç farketmez, herhangi bir oluşumun en başı en riskli dönemi aslında. Onlarca, yüzlerce bilinmeyen var. Açık noktalar, riskli alanlar. Analitik bir bakış açısıyla bakan birinin, muhtemelen soracağı sorular sonrası, içinde bulunmaktan imtina edeceği bir zaman dilimi bu. Ama işte böyle bir dönemde oluşumun ihtiyacı olan, ona yürekten bağlı, her ortamda onu savunacak ve yatırımı bırakmadan onunla yıllarını geçirecek kadar ona sadık bir kitle. İşte Bitcoin'in en büyük gücü bu aslında.
 
-#### Sonuç
+### Sonuç
 
 Bitcoin dijital bir para. Bir paranın değeri insanların ona olan inancı ile doğru orantılı gelişir. İnsanlar, bir parayı eğer onda gelecek görüp ona inanıyorlar ise ellerinde tutmak isterler. Aksi taktirde diğer değerli buldukları varlıklara kayarlar.
 
