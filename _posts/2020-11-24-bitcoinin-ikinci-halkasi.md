@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Bitcoin'in ikinci halkası"
+date:   2020-11-24 16:47:56 +0300
+categories: Genel
+tags: Yazılar
+---
+
 Bu aralar herkesin dilinde Bitcoin ve onun hızlı yükselişi var. Aynı suya atılan bir taşın yarattığı halkalar gibi, sanki son zamanlarda Bitcoin de geniş kitlelerce benimsenme yolunda etrafına yeni birkaç halka daha ekledi. Gelin bu yazımızda, bu son halkalardan birkaçına değinelim: 
 
 | ![yagmur-damlasi](/assets/drop-of-water-2273845_1280.jpg)|
@@ -118,3 +126,13 @@ Bitcoin dijital bir para. Bir paranın değeri insanların ona olan inancı ile 
 Bitcoin maksimalistleri kripto paranın ilk on yılında göz ardı edilemeyecek bir artı değer kattılar. Şimdi ikinci aşamada, Bitcoin'i anlayan ve geniş kitlelerin anlamasına yardımcı olacak kanaat önderlerinin işin içine girmesi gerekiyordu. İşte yukarıda bahsettiğimiz kişiler, taşın yarattığı ikinci halkalar.
 
 Bitcoin dünyasının uzun vadede benimsenmesi için Tudor Jones ya da Druckenmiller'dan çok Raoul Pal ya da Michael Sailor gibilere ihtiyacı var. Roubini konuşup dursun, onu yemeğin baharatı gibi görmeli. Ancak Ray Dalio gibilerin kafasındaki soruları küçümsemeden yanıtlamalılar. Ancak bu şekilde, daha geniş kesimlerce anlaşılabilirler. Anlaşılması sonrası benimsenebilecekler mi, onu da yaşayarak göreceğiz.
+
+
+
+---
+
+*Not 1: Bu yazı ilk olarak 24 Kasım 2020'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/bitcoin-dunyasinin-yeni-halkalari/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
