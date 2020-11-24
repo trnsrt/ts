@@ -66,6 +66,7 @@ permalink: /articles/
 - Bitcoin'in geleceğini merak ediyorsanız 
   - [Ne olacak şu Bitcoin'in hali?](/genel/2018/12/07/ne-olacak-su-bitcoinin-hali.html)
   - [Bitcoin geniş kitlelere nasıl yayılır?](/genel/2018/12/14/Bitcoin-genis-kitlelere-nasil-yayilir.html)
+  - [Bitcoin dünyasının yeni halkası](/genel/2020/11/24/bitcoin-dunyasinin-yeni-halkasi.html)
 - Bitcoin üzerine inşa edilen yeni teknolojilere ilginiz varsa 
   - [Bitcoin üzerinden ışık hızıyla işlem: Lightning Network](/genel/2018/12/20/bitcoin-uzerinde-isik-hiziyla-islem-Lightning-network.html)
   - [Bitcoin gibi ama değil: Liquid](/genel/2018/12/26/Bitcoin-gibi-ama-degil-Liquid.html)
