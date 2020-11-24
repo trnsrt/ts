@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bitcoin'in ikinci halkası"
+title:  "Bitcoin dünyasının yeni halkası"
 date:   2020-11-24 16:47:56 +0300
 categories: Genel
 tags: Yazılar
