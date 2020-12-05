@@ -46,7 +46,7 @@ Bir süre sonra ise ETH 1.0, ETH 2.0'a katılacak ancak bunun ne zaman olacağı
 
 | ![eth_issuance_graph](/assets/eth_issuance_graph_v1_800.jpg)|
 |:--:| 
-| *ETH'nin yıllar içindeki para arzı. 1 Aralık 2020 ETH 2.0 başlangıcına göre revize edildi. Kaynak: [ethhub.io](https://docs.ethhub.io/ethereum-basics/monetary-policy/#proof-of-stake-impact) *|
+| *ETH'nin yıllar içindeki para arzı. 1 Aralık 2020 ETH 2.0 başlangıcına göre revize edildi. Kaynak: [ethhub.io](https://docs.ethhub.io/ethereum-basics/monetary-policy/#proof-of-stake-impact)*|
 
 
 ### ETH işlem ücretleri... 
