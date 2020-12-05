@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Bitcoin yönelik eleştirilere yanıtlar"
+date:   2020-12-01 16:47:56 +0300
+categories: Genel
+tags: Yazılar
+---
+
 Geçtiğimiz haftaki [yazımızda](/genel/2020/11/24/bitcoin-dunyasinin-yeni-halkasi.html), finans dünyasının önde gelen isimlerinin zaman içinde kripto paralar ile ilgili bakış açılarının nasıl değiştiğine bakmıştık... Bu yazımızda ise o dünyanın en önemli yatırım uzmanlarından olan [Ray Dalio](https://twitter.com/RayDalio)'nun Bitcoin ile ilgili çekinceleri ve Bitcoin dünyasının ona cevaplarına bakalım. 
 
 | ![tables](/assets/the-graph-5446678_640.jpg)|
@@ -110,4 +118,12 @@ Bitcoin dünyasındaki karşı argümanlar yukarıdakiler ile sınırlı değil 
 - [Lyn Alden](https://twitter.com/LynAldenContact) - ['3 Reasons I’m Investing in Bitcoin'](https://www.lynalden.com/invest-in-bitcoin/): Finans ve mühendislik geçmişli, şimdilerde ise kurumsal yatırımcılara araştırma hizmeti veren Lyn Adler'in basit ve anlaşılır olarak neden 2017 yılında daha mesafeli iken 2020 yılında daha Bitcoin taraftarı olduğunu açıkladığı harika yazı.
 
 - [Fidelity Digital Assets](https://twitter.com/DigitalAssets) - ['Addressing Persisting Bitcoin Criticisms'](https://www.fidelitydigitalassets.com/articles/addressing-bitcoin-criticisms): İşte tam Dalio gibi fon yöneticilerinin seveceği, prestijli bir kurum tarafından yayınlanmış, Bitcoin ile ilgili bütün eleştirilere yanıt veren ayrıntılı bir yazı. Eğer yukarıdaki yazımız yeterli gelmediyse, eminim bu makale sizi ya da Ray Dalio'yu tatmin edecektir. 
+
+---
+
+*Not 1: Bu yazı ilk olarak 1 Aralık 2020'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/bitcoin-yonelik-elestirilere-yanitlar/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
 
