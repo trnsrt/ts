@@ -3,6 +3,8 @@ ETH'nin değerini gelecekte belirleyecek temel kriterler ile ilgili [geçenlerde
 <a href="https://twitter.com/VitalikButerin/status/1329297577439760384">
          <img alt="Tweet" src="/assets/VB_tweet_on_ETH_supply_800.jpg"></a>
 
+&nbsp;
+
 Tanımayanlar için; Vitalik, Ethereum'un kurucu olarak da adlandırılır ki onun hakkında [şu yazıdan daha detay alabilirsiniz](/genel/2018/06/14/dunyanin-en-buyuk-bilgisayari-ethereumun-hikayesi.html).. 
 
 ### ETH'nin para arzı neden önemli?
