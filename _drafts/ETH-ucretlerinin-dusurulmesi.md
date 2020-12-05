@@ -5,7 +5,7 @@ Ethereum üzerinde işlem yapıyorsanız, ki bunun için yüksek ihtimal DeFi ü
 |:--:| 
 | *2020 yılı ETH işlem ücretleri. Kaynak: [Coinmetrics](https://network-charts.coinmetrics.io)*|
 
-#### Neden yüksek bu ücretler?
+### Neden yüksek bu ücretler?
 Ethereum sistemi, başlangıçtan beri işlem ücretlerini belirleme işini madencilere bırakmış durumda. Her ne kadar kullanıcılar bu ücretleri teklif ediyor olsalar da, sistem müzayede şeklinde işlediği için, madencilerin hangi işlemi gerçekleştireceklerini seçme hakkı var. 
 
 Bu da ücretlerin yükselmesine neden oluyor. Özellikle, 2020 yazında DeFi'nin sık kullanıldığı zamanlarda olduğu gibi. Kullanıcıların yaşadığı birkaç sorun var: İşleminizin ne zaman gerçekleşeceğini bilemiyorsunuz. Keza tam olarak ne ücret ödeyeceğinizi de. Kullandığınız cüzdanınız size bir tahmin veriyor ama o tahmin genelde tutmuyor. Fiyatı manuel olarak ayarlamak herkesin sıklıkla yaptığı ve sevdiği bir seçenek değil. 
