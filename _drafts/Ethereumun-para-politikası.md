@@ -49,6 +49,7 @@ Bir süre sonra ise ETH 1.0, ETH 2.0'a katılacak ancak bunun ne zaman olacağı
 | *ETH'nin yıllar içindeki para arzı. 1 Aralık 2020 ETH 2.0 başlangıcına göre revize edildi. Kaynak: [ethhub.io](https://docs.ethhub.io/ethereum-basics/monetary-policy/#proof-of-stake-impact)*|
 
 
+
 ### ETH işlem ücretleri... 
 
 Bu arada hemen şunu da belirtmekte fayda var. Madenciler sadece yeni yaratılan ETH'lerden para kazanmıyorlar. ETH üzerinde yapılan işlemlerden de pay alıyorlar. Üstelik bu işlemler, Bitcoin gibi basit para transferlerinden öte, Akıllı Kontratların gerçekleşmesi olduğu için sisteme getirdiği yük çok farklı olabiliyor. Bu da bu işlemlerin ücretlerinin çok değişmesine neden olabiliyor. Peki ücret nasıl belirleniyor? 
@@ -74,6 +75,8 @@ Eğer Vitalik'in bahsettiği değişiklikler olursa, ETH 2.0 geldiğinde, ödül
 ETH 1.0, en az bir yıl daha devam edecek. Bu süre içinde ETH 2.0'da parasını rehin etmiş olanlara ödül verilmeye devam edecek. EIP 1559 ise iyimser ihtimalle 2021 yılının sonarına doğru işlerlik kazanabilir. Bir tahminde bulunursak, 2021 yılında hem ETH 1.0 ödülleri hem de ETH 2.0 ödüllerinin devamından dolayı yeni ETH arzında az da olsa bir artış öngörebiliriz. Sonrasında ise 2022 yılında hem ETH 2.0'nin hem de EIP 1559'un girmesi toplam tedavüldeki ETH'yi yavaş yavaş azaltmaya başlayacak. Bu zamanlama ve miktar öngörülerinin tutması durumundaki tablo aşağıdaki gibi olacak: 
 
  ![eth_tahmini_arz](/assets/ETH_tahmini_arz_v2.png)
+ 
+ &nbsp;
 
 ### Sonuç
 Ethereum için arzın azaltılması gayet tabii çok kritik. Ancak bundan daha kritik olan nokta talebin ne şekilde gelişeceği. Eğer ETH'ye talep olmaz ise, bu arzın kısıtlanmasının çok da önemi yok. 
