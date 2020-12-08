@@ -1,6 +1,6 @@
 20201208 Ethereum'un para politikası
 
-ETH'nin değerini gelecekte belirleyecek temel kriterler ile ilgili [geçenlerde bir yazıda](https://turansert.com/genel/2020/08/06/gelecekte-eth-nin-degerini-neler-etkileyecek.html) para arzında da bahsetmiştik. Ancak, birkaç hafta önce [Vitalik Buterin](https://twitter.com/VitalikButerin)'in ETH'nin para politikası ile ilgili bir soruya verdiği uzun yanıt üzerine konuya daha detaylı bakmak farz oldu. 
+ETH'nin değerini gelecekte belirleyecek temel kriterler ile ilgili [geçenlerde bir yazıda](https://turansert.com/genel/2020/08/06/gelecekte-eth-nin-degerini-neler-etkileyecek.html) para arzından da bahsetmiştik. Ancak, birkaç hafta önce [Vitalik Buterin](https://twitter.com/VitalikButerin)'in ETH'nin para politikası ile ilgili bir soruya verdiği uzun yanıt üzerine konuya daha detaylı bakmak farz oldu. 
 
 <a href="https://twitter.com/VitalikButerin/status/1329297577439760384">
          <img alt="Tweet" src="/assets/VB_tweet_on_ETH_supply_800.jpg"></a>
@@ -23,7 +23,7 @@ Biliyorsunuz, Bitcoin'in para arzının kısıtlı olması onun değerli olması
 
 İşte benzer şekilde Bitcoin ile Ethereum arasındaki farklılığı para politikalarında da görüyoruz.  Örneğin, hangi anda ne kadar BTC çıkarılmış, kuruşu kuruşuna sistemi takip eden her bir makinede eş şekilde tutuluyor.  Ayrıca, Jones'un da yukarıda dediği gibi Bitcoin'in para arzı belli ve 2040 yılında sonlanacak şekilde planlanmış.
 
-Ethereum'da ise durum farklı. Örneğin, tedavüldekiETH sayısının ne kadar olduğu konusunda ortak bir sayı elde etmek mümkün değil. Bunun iki temel nedeni var: Birincisi, her bir blok oluşumunun Bitcoin gibi 10 dakika bir değil, 10-20 saniye arasında olması. İkincisi ise bloklar arasındaki Bitcoin gibi senkronize bir yapının olmaması. Bu iki teknik nedenden dolayı, toplam ETH miktarı konusunda her kaynak farklı ama birbirine yakın sonuçlar verir.
+Ethereum'da ise durum farklı. Örneğin, tedavüldeki ETH sayısının ne kadar olduğu konusunda ortak bir sayı elde etmek mümkün değil. Bunun iki temel nedeni var: Birincisi, her bir blok oluşumunun Bitcoin gibi 10 dakika bir değil, 10-20 saniye arasında olması. İkincisi ise bloklar arasındaki Bitcoin gibi senkronize bir yapının olmaması. Bu iki teknik nedenden dolayı, toplam ETH miktarı konusunda her kaynak farklı ama birbirine yakın sonuçlar verir.
 
 Bir süre önce, BTC maksimalistleri bu konu ile ilgili Ethereum topluğu ile çok dalga geçtiler. Ama bu durum açıkcası Ethereum geliştiricilerinin çok umurunda değil. Çünkü dediğimiz gibi onlar için öncelik tedavülde olan ETH miktarı değil sistemin gelişmesi. 
 
