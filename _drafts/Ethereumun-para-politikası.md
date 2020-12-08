@@ -1,6 +1,6 @@
 20201208 Ethereum'un para politikası
 
-ETH'nin değerini gelecekte belirleyecek temel kriterler ile ilgili [geçenlerde yazdığım yazıda](https://turansert.com/genel/2020/08/06/gelecekte-eth-nin-degerini-neler-etkileyecek.html) para arzında da bahsetmiştim. Ancak, birkaç hafta önce [Vitalik Buterin](https://twitter.com/VitalikButerin)'in ETH'nin para politikası ile ilgili bir soruya verdiği uzun yanıt üzerine konuya daha detaylı bakmak farz oldu. 
+ETH'nin değerini gelecekte belirleyecek temel kriterler ile ilgili [geçenlerde bir yazıda](https://turansert.com/genel/2020/08/06/gelecekte-eth-nin-degerini-neler-etkileyecek.html) para arzında da bahsetmiştik. Ancak, birkaç hafta önce [Vitalik Buterin](https://twitter.com/VitalikButerin)'in ETH'nin para politikası ile ilgili bir soruya verdiği uzun yanıt üzerine konuya daha detaylı bakmak farz oldu. 
 
 <a href="https://twitter.com/VitalikButerin/status/1329297577439760384">
          <img alt="Tweet" src="/assets/VB_tweet_on_ETH_supply_800.jpg"></a>
