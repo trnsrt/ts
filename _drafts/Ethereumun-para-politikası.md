@@ -21,7 +21,7 @@ Biliyorsunuz, Bitcoin'in para arzının kısıtlı olması onun değerli olması
 
 "Bitcoin dünyada alınıp satılabilen büyük varlıklar içinde sabit maksimum miktarı bilinen tek varlık. Yeni Bitcoin arzı dört yılda bir azalıyor. Yaratıcısı tarafından ortaya konan bu parlak özellik, Bitcoin'in doğruluğunu ve bütünlüğünü korumasını sağlıyor. Bu, bugünün merkez bankaları ve hükümetlerine oldukça uzak bir düşünce yapısı"([The Great Monetary Inflation, Sf. 7 - Pdf](https://www.docdroid.net/H1fuimX/the-great-monetary-inflation-pdf#page=7))
 
-İşte benzer şekilde Bitcoin ile Ethereum arasındaki farklılığı para politikalarında da görüyoruz.  Örneğin, hangi anda ne kadar BTC çıkarılmış, kuruşu kuruşuna sistemi takip eden her bir makinede eş şekilde tutuluyor.  Ayrıca, Jones'un da yukarıda dediği gibi Bitcoin'in para arzı belli ve 2040 yılında sonlanacak şekilde planlanmış.
+İşte benzer şekilde Bitcoin ile Ethereum arasındaki farklılığı para politikalarında da görüyoruz.  Örneğin, hangi anda ne kadar BTC çıkarılmış, kuruşu kuruşuna sistemi takip eden her bir makinede eş şekilde tutuluyor.  Ayrıca, Jones'un da yukarıda dediği gibi Bitcoin'in para arzı belli ve 2140 yılında sonlanacak şekilde planlanmış.
 
 Ethereum'da ise durum farklı. Örneğin, tedavüldeki ETH sayısının ne kadar olduğu konusunda ortak bir sayı elde etmek mümkün değil. Bunun iki temel nedeni var: Birincisi, her bir blok oluşumunun Bitcoin gibi 10 dakika bir değil, 10-20 saniye arasında olması. İkincisi ise bloklar arasındaki Bitcoin gibi senkronize bir yapının olmaması. Bu iki teknik nedenden dolayı, toplam ETH miktarı konusunda her kaynak farklı ama birbirine yakın sonuçlar verir.
 
