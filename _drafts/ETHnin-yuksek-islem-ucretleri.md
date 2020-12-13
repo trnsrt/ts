@@ -35,11 +35,16 @@ Peki madenciler? Onlar ne kazanacak? Sisteme göre, madenciler kullanıcıların
 - İşlem sürelerinin daha rahat tahmin edilebilmesi
 
 ### Asıl büyük fayda Ethereum sistemine
-Burada asıl büyük faydayı Ethereum sisteminin göreceğini hemen belirtelim. Zira, baz ücretin madencilere ödenmeyip ETH olarak yakılması, piyasadaki para miktarına ciddi bir etki yapacak.  Vitalik'in tahminlerine göre 2020 yılı içindeki DeFi ile hareketlenen pazardaki yoğunluğun devam etmesi durumunda, yıllık olarak 1 milyona yakın ETH'nin yakılması söz konusu olabilir bu iyileştirme sayesinde. 
+Burada asıl büyük faydayı Ethereum sisteminin göreceğini hemen belirtelim. İki temel nedeni var bu öngörünün: 
+Birincisi, yukarıda bahsettiğimiz EIP 1559 ile baz ücretin madencilere ödenmeyip ETH olarak yakılması, piyasadaki para miktarına ciddi bir etki yapacak. Vitalik'in tahminlerine göre, 2020 yılı içindeki DeFi ile hareketlenen pazardaki yoğunluğun benzer şekilde devam etmesi durumunda, yıllık olarak 1 milyona yakın ETH'nin yakılması söz konusu olabilir bu iyileştirme sayesinde.
 
-Şu anda Ethereum sistemi yıllık olarak 4.7 milyon yeni ETH'yi ödül olarak madencilere dağıtıyor. Ethereum sisteminin 1.0'dan 2.0'a geçmesi ile birlikte bu ödül sistemi de değişiyor. Artık, ödül madencilere değil staking yapanlara verilecek. Ödül verilecek rakamın miktarın staking yapanların sayısına göre değişse de 500 bin ile 1 milyon ETH arasında olması bekleniyor.
+İkincisi ise, şu anda Ethereum sistemi yıllık olarak 4,7 milyon yeni ETH'yi ödül olarak madencilere dağıtıyor. Ethereum sisteminin 1.0'dan 2.0'a geçmesi ile birlikte bu ödül sistemi de değişiyor. Artık, ödül madencilere değil staking yapanlara verilecek. Ödül verilecek rakamın miktarın staking yapanların sayısına göre değişse de 500 bin ile 1 milyon ETH arasında olması bekleniyor.
 
-Böyle bir durumda ETH içindeki parasal büyüklüğün 4.7 milyon artması yerine sabit kalması beklenebilir. Neden? Yukarıda bahsettiğimiz iki nedenin sonucunda. Birincisi ETH 2.0 ile yeni para arzı yaklaşık 1 milyona hatta 500 bine inecek. İkincisi, EIP 1559 nedeniyle işlem ücretlerinden 1 milyon ETH yakılması söz konusu. Diyelim, ETH 2.0 para arzı 600 bin ETH oldu. Eğer EIP 1559 ile 1 milyon ETH yakılırsa, bu tedavüldeki ETH sayısının yıllık 400 bin azalması anlamına gelir. Bu da Ethereum'u Bitcoin'in azalan enflasyon rakamlarının ötesinde deflasyon yaratan bir konuma sokabilir. 
+Böyle bir durumda Ethereum içindeki parasal büyüklüğün şu anki gibi yıllık 4,7 milyon ETH artması yerine sabit kalması hatta azalması beklenebilir. Neden? Yukarıda bahsettiğimiz iki nedenin net etkisinden dolayı:  
+
+Örneğin, varsayalım Ethereum 2.0 ile birlikte yıllık yeni para arzı 600 bin ETH oldu. Eğer EIP 1559 ile senede 1 milyon ETH yakılırsa, bu tedavüldeki ETH sayısının yıllık 400 bin azalması anlamına gelir. 
+
+**Bu da Ethereum'u Bitcoin'in azalan enflasyon rakamlarının ötesinde deflasyon yaratan bir konuma sokabilir.** 
 
 ### Bir de roll-up çözümler gelecek
 Yukarıdaki ücretler, Ethereum blokzincirine direkt olarak yazılmak isteyen, yani blok üzerinde bir alan almak isteyenler için söz konusu. Bunun yanında hem Ethereum geliştiricileri hem de DeFi platformları ana zincir üzerinde değil 2. katman dediğimiz bir üst seviyede çözümleri de teşvik ediyorlar. Örneğin [Synthetix böyle bir çözümü test ettiğini açıkladı bile](https://blog.synthetix.io/why-optimism/). 
