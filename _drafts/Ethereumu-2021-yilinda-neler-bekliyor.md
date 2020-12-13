@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Ethereum'un para politikası"
+date:   2020-12-05 16:47:56 +0300
+categories: Genel
+tags: Yazılar
+---
+
 2020 yılı Ethereum topluluğu için önemli bir yıl oldu. 2021 yılı ise farklı ve ilginç gelişmelere gebe. [Bir önceki yazımızda](/genel/2020/12/08/Ethereumun-para-politikas%C4%B1.html) Ethereum'un parası ETH'nin para arzının önümüzdeki yıllarda nasıl değişeceğini yazmıştık. Bu yazımızda ise gelin hep birlikte yakın vadede, yani önümüzdeki yıl için Ethereum topluluğunun en çok konuşacağı konulara değinelim.. 
 
 ### Ethereum'un çıkma nedeni
@@ -70,3 +78,11 @@ Fazla teknik detaya boğmadan, kullanıcı perspektifinden baktığımızda, 202
 
 
 *Kaynaklar: Yazı içinde kullanılan her bir kaynağa, ilgili yerde bulunan linkten ulaşabilirsiniz. Konu ile ilgili teknik olarak yazılmış ayrıntılı bir rapor için Messari sitesindeki [ETH 2.0 Primer](https://messari.io/road-to-eth2)'e de göz atabilirsiniz*
+
+---
+
+*Not 1: Bu yazı ilk olarak 15 Aralık 2020'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı]()*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
