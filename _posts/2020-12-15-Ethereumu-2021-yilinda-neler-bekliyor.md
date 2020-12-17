@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Ethereum'un para politikası"
-date:   2020-12-05 16:47:56 +0300
+title:  "2021'de Ethereum'u neler bekliyor?"
+date:   2020-12-15 16:47:56 +0300
 categories: Genel
 tags: Yazılar
 ---
@@ -81,7 +81,7 @@ Fazla teknik detaya boğmadan, kullanıcı perspektifinden baktığımızda, 202
 
 ---
 
-*Not 1: Bu yazı ilk olarak 15 Aralık 2020'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı]()*
+*Not 1: Bu yazı ilk olarak 15 Aralık 2020'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/2021-ethereum-neler-bekliyor/)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
