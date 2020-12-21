@@ -9,7 +9,7 @@ Efendim, Bitcoin ile başlayan merkeziyetsiz dünyanın, Ethereum ile devam eden
 
 | ![labrador](/assets/labrador-5741850_640.jpg)|
 |:--:| 
-| *Biri bilgiyi kapıp gelsin bunun gibi :) Kaynak: Image by [Jana Schmidt](https://pixabay.com/users/jawika-19109282/) from [Pixabay](https://pixabay.com/)*|
+| *Biri bilgiyi kapıp gelsin - bunun gibi :) Kaynak: Image by [Jana Schmidt](https://pixabay.com/users/jawika-19109282/) from [Pixabay](https://pixabay.com/)*|
 
 
 Örneğin, 2020 yılı ABD seçimleri sonucunda kimin seçileceği ile ilgili yapılan tahminlerde, kaynak olarak [Amerikan hükümetinin resmi web sitesinde yeni başkan olarak kimin yazıldığı](https://www.usa.gov/presidents#item-37462) kullanılıyor. İşte akıllı kontratın sonucu bu siteden alarak çalışması ve doğru tahmin edenleri belirlemesi gerekiyor. Peki akıllı kontrat bunu nasıl alacak?
