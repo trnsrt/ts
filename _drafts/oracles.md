@@ -9,7 +9,7 @@ Efendim, Bitcoin ile başlayan merkeziyetsiz dünyanın, Ethereum ile devam eden
 
 Çok güzel ancak ufak bir sorun var. Kontratın, kendisini harekete geçirecek bu önceden belirlenmiş koşulların oluştuğunu bilmesi gerek. Bu koşulların oluşup oluşmadığını belirleyen bilgilerin büyük çoğunluğu ise, blokzincirin içinde değil, dışından geliyor. Ya biri bu bilgiyi kontrata verecek ya da kontrat bu bilgiyi bir kaynaktan alacak. 
 
-| ![labrador](/assets/labrador-5741850_640)|
+| ![labrador](/assets/labrador-5741850_640.jpg)|
 |:--:| 
 | *Bilgiyi kapıp gelsin bunlar gibi :) Kaynak: Image by [Jana Schmidt](https://pixabay.com/users/jawika-19109282/) from Pixabay [Pixabay](https://pixabay.com/)*|
 
