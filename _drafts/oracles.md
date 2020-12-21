@@ -1,6 +1,6 @@
 Oracles
 
-Bugün son kullanıcı olarak d, ancak Merkeziyetsiz Finans'ın en kritik konularından biri sayılan Oracle konusuna bakıp, ne olduğunu anlamaya çalışalım: 
+Bugün son kullanıcı olarak direkt olarak kullanmadığımız, ancak Merkeziyetsiz Finans'ın en kritik konularından biri olan Oracle konusuna bakıp, nedir ve neye yarar anlamaya çalışalım: 
 
 ### Nedir Oracle?
 Oracle'in tam Türkçesi karışık. Kahin ya da uzman olarak çevrilebilir. Peki ne işe yarar?
