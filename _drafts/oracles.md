@@ -1,5 +1,3 @@
-Oracles
-
 Bugün son kullanıcı olarak direkt olarak kullanmadığımız, ancak Merkeziyetsiz Finans'ın en kritik konularından biri olan Oracle konusuna bakıp, nedir ve neye yarar anlamaya çalışalım: 
 
 ### Nedir Oracle?
@@ -11,7 +9,7 @@ Efendim, Bitcoin ile başlayan merkeziyetsiz dünyanın, Ethereum ile devam eden
 
 | ![labrador](/assets/labrador-5741850_640.jpg)|
 |:--:| 
-| *Bilgiyi kapıp gelsin bunlar gibi :) Kaynak: Image by [Jana Schmidt](https://pixabay.com/users/jawika-19109282/) from [Pixabay](https://pixabay.com/)*|
+| *Biri bilgiyi kapıp gelsin bunun gibi :) Kaynak: Image by [Jana Schmidt](https://pixabay.com/users/jawika-19109282/) from [Pixabay](https://pixabay.com/)*|
 
 
 Örneğin, 2020 yılı ABD seçimleri sonucunda kimin seçileceği ile ilgili yapılan tahminlerde, kaynak olarak [Amerikan hükümetinin resmi web sitesinde yeni başkan olarak kimin yazıldığı](https://www.usa.gov/presidents#item-37462) kullanılıyor. İşte Akıllı Kontratın sonucu bu siteden alarak çalışması ve doğru tahmin edenleri belirlemesi gerekiyor. Peki Akıllı Kontrat bunu nasıl alacak?
@@ -54,7 +52,7 @@ DeFi dünyasının patlamasıyla birlikte doğru ve hızlı veriye olan ihtiyaç
 
 Bu alandaki belli başlı oyuncular Chainlink, Band Protocol, Test Protocol, DIA, DOS Network, Zap ve Tellor olarak sıralanıyor. Ancak hemen belirtelim Chainlink bu piyasanın ağır hakimi.. Bu saydığımız oyuncuların piyasa değerlerine bırakalım hemen aşağıya: 
 
-| ![Oracle_servis_saglayicilar](/assets/Oracle_Servis_Saglayicilar.png)|
+| ![Oracle_servis_saglayicilar](/assets/Oracle_Servis_Saglayicilar_v2.png)|
 |:--:| 
 | *Oracle servis sağlayıcılar 21 Aralık 2020 piyasa değerleri Kaynak: [CoinGecko](https://www.coingecko.com/en)*|
 
