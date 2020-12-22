@@ -13,7 +13,7 @@ Efendim, Bitcoin ile başlayan merkeziyetsiz dünyanın, Ethereum ile devam eden
 
 Örneğin, 2020 yılı ABD seçimleri sonucunda kimin seçileceği ile ilgili yapılan tahminlerde, kaynak olarak [Amerikan hükümetinin resmi web sitesinde yeni başkan olarak kimin yazıldığı](https://www.usa.gov/presidents#item-37462) kullanılıyor. İşte akıllı kontratın sonucu bu siteden alarak çalışması ve doğru tahmin edenleri belirlemesi gerekiyor. Peki akıllı kontrat bunu nasıl alacak?
 
-Bu, en basit ve bariz örnek. İki yıl önce yayınlanan [tahmin piyasaları için blockchain yazımızda](/genel/2018/07/13/gelecegi-tahmin-için-blockchain.html), bu kaynakların blokzincir dünyası dışında, tarafsız olduğu kabul edilen bilgi sağlayıcılardan (örneğin WSJ gazetesi) alınıp blokzincire otomatik ya da uzmanlar tarafından manuel olarak girilmesinden bahsetmiştik. 
+Bu, en basit ve bariz örnek. İki yıl önce yayınlanan ["Tahmin piyasaları için Blockchain" yazımızda](/genel/2018/07/13/gelecegi-tahmin-için-blockchain.html), bu kaynakların blokzincir dünyası dışında, tarafsız olduğu kabul edilen bilgi sağlayıcılardan (örneğin WSJ gazetesi) alınıp blokzincire otomatik ya da uzmanlar tarafından manuel olarak girilmesinden bahsetmiştik. 
 
 ABD seçimi gibi tek bir olaya bağlı tahminlerde işe yarayabilecek olan manuel bilgi aktarımı, merkeziyetsiz dünyada çok da çalışmayacak gibi görünüyor. Gelin bakalım ne gerekiyor DeFi dünyasına: 
 
@@ -66,6 +66,6 @@ Hep bahsettiğimiz emekleme aşamasındaki Merkeziyetsiz Finans dünyasının ay
 Bir sonraki yazımızda Chainlink örneğini daha yakından inceleyerek, farklı ürünler neler olabilir ve bu alan daha nerelere ulaşabilir ona bakacağız.. 
 
 
-[^1]: Merkeziyetsiz dünyada [türev piyasalarının nasıl olabileceğini anlattığımız bir yazımızda](/genel/2020/08/20/defi-turev-piyasalari-nasil-oluyor.html), bu piyasaların en büyüğü olan [Synthetix'in nasıl çalıştığına da bir diğer yazımızda](/genel/2020/08/28/Defi-turev-piyasasi-synthetix-nasil-calisiyor.html) anlatmıştık.  İlgilenirseniz... 
+*[^1]: Merkeziyetsiz dünyada [türev piyasalarının nasıl olabileceğini anlattığımız bir yazımızda](/genel/2020/08/20/defi-turev-piyasalari-nasil-oluyor.html), bu piyasaların en büyüğü olan [Synthetix'in nasıl çalıştığına da bir diğer yazımızda](/genel/2020/08/28/Defi-turev-piyasasi-synthetix-nasil-calisiyor.html) anlatmıştık.  İlgilenirseniz...*
 
-[^2]: Bu anlattığımız sektörün en büyüğü Chainlink. Diğer rakiplerinin çalışma şekilleri farklılık gösterebiliyor. 
+*[^2]: Bu anlattığımız sektörün en büyüğü Chainlink. Diğer rakiplerinin çalışma şekilleri farklılık gösterebiliyor.*
