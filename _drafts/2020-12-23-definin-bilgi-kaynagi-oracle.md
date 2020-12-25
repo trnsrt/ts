@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "DeFi'nin bilgi kaynağı oracle"
+date:   2020-12-22 16:47:56 +0300
+categories: Genel
+tags: Yazılar DeFi
+---
+
 Bu yazımızda, son kullanıcı olarak direkt olarak kullanmadığımız ancak Merkeziyetsiz Finans için kritik konularından biri olan Oracle konusuna bakıp, nedir ve neye yarar anlamaya çalışalım: 
 
 ### Nedir Oracle?
@@ -69,3 +77,12 @@ Bir sonraki yazımızda Chainlink örneğini daha yakından inceleyerek, farklı
 *[^1]: Merkeziyetsiz dünyada [türev piyasalarının nasıl olabileceğini anlattığımız bir yazımızda](/genel/2020/08/20/defi-turev-piyasalari-nasil-oluyor.html), bu piyasaların en büyüğü olan [Synthetix'in nasıl çalıştığına da bir diğer yazımızda](/genel/2020/08/28/Defi-turev-piyasasi-synthetix-nasil-calisiyor.html) anlatmıştık.  İlgilenirseniz...*
 
 *[^2]: Bu anlattığımız sektörün en büyüğü Chainlink. Diğer rakiplerinin çalışma şekilleri farklılık gösterebiliyor.*
+
+---
+---
+
+*Not 1: Bu yazı ilk olarak 23 Aralık 2020'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/definin-bilgi-kaynagi-oracle/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
