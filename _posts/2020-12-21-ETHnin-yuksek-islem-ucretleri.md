@@ -1,4 +1,11 @@
-### ETH'nin yüksek işlem ücretleri
+---
+layout: post
+title:  "ETH'nin yüksek işlem ücretleri"
+date:   2020-12-21 16:47:56 +0300
+categories: Genel
+tags: Yazılar DeFi
+---
+
 Ethereum üzerinde işlem yapıyorsanız yüksek işlem ücretleri canınızı sıkıyor olmalı. 
 
 | ![coinmetrics_eth_median_fees_1yr](/assets/eth_median_fees_coinmetrics_1yr_800_v1.png)|
@@ -58,3 +65,10 @@ Ortada olan pek çok farklı roll-up çözümünden hangisi ya da hangilerinin �
 ### Sonuç
 EIP 1559 ve rollup çözümleri, Ethereum'daki işlem ücretlerinin düşmesi için gerekli iki insiyatif. Bu iki konunun bir an önce hayat geçmesi, Ethereum'un gün geçtikçe artan rakiplerine karşı kendini koruması için kritik. Süreç nasıl işleyecek hep birlikte göreceğiz. 
 
+---
+
+*Not 1: Bu yazı ilk olarak 21 Aralık 2020'de [Cryptonn.com](https://www.btchaber.com/)'da [yayınlandı](https://cryptonn.com/ethereum-yuksek-islem-ucretleri/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
