@@ -79,7 +79,6 @@ Bir sonraki yazımızda Chainlink örneğini daha yakından inceleyerek, farklı
 *[^2]: Bu anlattığımız sektörün en büyüğü Chainlink. Diğer rakiplerinin çalışma şekilleri farklılık gösterebiliyor.*
 
 ---
----
 
 *Not 1: Bu yazı ilk olarak 23 Aralık 2020'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/definin-bilgi-kaynagi-oracle/)*
 
