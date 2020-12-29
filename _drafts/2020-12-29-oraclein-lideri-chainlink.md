@@ -10,7 +10,7 @@ Bir önceki yazımızda, Merkeziyetsiz Finans (DeFi) piyasasına bilgi sağlayan
 
 | ![chainlink](/assets/chain-1995543_640.jpg)|
 |:--:| 
-| * Kaynak: Image by [kalhh](https://pixabay.com/users/kalhh-86169/) from [Pixabay](https://pixabay.com/)*|
+| *Kaynak: Image by [kalhh](https://pixabay.com/users/kalhh-86169/) from [Pixabay](https://pixabay.com/)*|
 
 ### Nedir bu Chainlink?
 
