@@ -94,7 +94,7 @@ Her konuda olduğu gibi bu alanda da sağlıklı bir rekabetin olması, ekosiste
 
 ---
 
-*Not 1: Bu yazı ilk olarak 23 Aralık 2020'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/definin-bilgi-kaynagi-oracle/)*
+*Not 1: Bu yazı ilk olarak 29 Aralık 2020'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/oracle-dunyasinin-lideri-chainlink/)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
