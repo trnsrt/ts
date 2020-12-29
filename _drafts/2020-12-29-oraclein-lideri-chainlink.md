@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Oracle dünyasının lideri Chainlink"
+date:   2020-12-29 16:47:56 +0300
+categories: Genel
+tags: Yazılar DeFi
+---
+
 Bir önceki yazımızda, Merkeziyetsiz Finans (DeFi) piyasasına bilgi sağlayan [oracle (uzman/kahin) servis sağlayıcılardan bahsetmiş](/genel/2020/12/22/definin-bilgi-kaynagi-oracle.html), bu piyasanın tartışmasız en büyüğü olan Chainlink'i ise bu yazımıza saklamıştık. Buyurun hep birlikte bakalım kısaca Chainlink'e... 
 
 ### Nedir bu Chainlink?
@@ -82,5 +90,13 @@ Chainlink, merkeziyetsiz finans platformlarının kritik ihtiyaçları içinde s
 
 Her konuda olduğu gibi bu alanda da sağlıklı bir rekabetin olması, ekosistemin gelişmesi için önemli. Önümüzdeki dönemde bu alanın nasıl gelişeceğini, rakiplerin pastadan daha büyük pay kapmak, Chainlink'in ise mevcut payını kaptırmamak için ne gibi hamleler yapacağını hep birlikte göreceğiz. 
 
-
 [^1] messari-report-crypto-theses-for-2021.pdf Sayfa 67
+
+---
+
+*Not 1: Bu yazı ilk olarak 23 Aralık 2020'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/definin-bilgi-kaynagi-oracle/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
+
