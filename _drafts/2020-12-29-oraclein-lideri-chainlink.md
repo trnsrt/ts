@@ -28,7 +28,7 @@ Bu işin nasıl becerilebileceği konusuna uzunca bir süre kafa yoran ve deneys
 
 ICO sonrasında da devam eden ürün ve platform geliştirme sürecinin devamında, Chainlink nihayet 2019 yılı Mayıs ayında kullanıcılara sunuluyor. 
 
-Her ne kadar hizmet verdiği sektör ağırlıklı olarak Merkeziyetsiz Finans olsa da, Chainlink için merkeziyetsiz bir platform demek doğru değil. Kendine ait bir ağa sahip olup, bu ağ üyeleri dağıtık bir şekilde görev yapıyor olsa da, diğer alanlarda sıkı bir merkezilik söz konusu. Örneğin, LINK tokenlarının herhangi bir yönetim hakkı yok. Zaten, bu tokenların ciddi bir kısmı halen Chainlink Labs kasasında. Ağın yönetimi de elbette Chainlink ekibinin elinde. 
+Her ne kadar hizmet verdiği sektör ağırlıklı olarak Merkeziyetsiz Finans olsa da, Chainlink için merkeziyetsiz bir platform demek doğru değil. Chainlik ağı üyeleri dağıtık bir şekilde görev yapıyor ama diğer alanlarda sıkı bir merkezilik söz konusu. Örneğin, LINK tokenlarının herhangi bir yönetim hakkı yok. Zaten, bu tokenların ciddi bir kısmı halen Chainlink Labs kasasında. Ağın yönetimi de elbette Chainlink ekibinin elinde. 
 
 ### Chainlink tokeni LINK
 
@@ -36,7 +36,7 @@ Chainlink tarafından yapılan ICO ile hayata geçirilen LINK esasında iki ana 
 
 Birincisi, bilgiye ihtiyacınız var ve bunu Chainlink'ten sağlamak istiyorsanız, bu bilgiyi sağlayan Chainlink ağının üyelerine hizmetleri karşılığı ödemeyi LINK ile yapıyorsunuz.
 
-İkincisi ise, Chainlink ağına üye iseniz ve hizmet vermek istiyorsanız, elinizdeki LINK tokenları rehin etmeniz gerekiyor. Üstelik ne kadar çok rehin ederseniz, Chainlink ağını yönetenlerin size hizmet verme ihtimali o kadar yükseliyor. Hemen belirtelim rehin verme (staking) henüz başlamadı. 
+İkincisi ise, Chainlink ağı üyesi iseniz ve hizmet vermek istiyorsanız, elinizdeki LINK tokenları rehin etmeniz gerekiyor. Üstelik ne kadar çok rehin ederseniz, Chainlink ağını yönetenlerin size hizmet verme ihtimali o kadar yükseliyor. (Hemen belirtelim rehin verme - staking - henüz başlamadı). 
 
 ### LINK ile ilgili eleştiriler
 
@@ -44,7 +44,7 @@ LINK ile ilgili birkaç eleştiri var.  Dilerseniz, gelin onlara kısaca göz at
 
 ##### LINK tutmak gerekli mi?
 
-Kripto alanının önemli araştırma şirketlerinden [Messari](https://messari.io)'den [Ryan Selkis](https://twitter.com/twobitidiot)'in şu eleştirilerine önemli: 
+Kripto alanının önemli araştırma şirketlerinden [Messari](https://messari.io)'den [Ryan Selkis](https://twitter.com/twobitidiot)'in şu eleştirileri önemli: 
 
 *"LINK bir ödeme tokeni olduğu için, Chainlink üyelerine ödeme yapmak dışında elde tutmak ve ona bir değer yüklemek anlamsız. Ödemeler için Chainlink kullanıyorsanız, elde daha likit başka tokenları tutup, ihtiyacınız olduğunda bu daha az likit ve kullanışsız LINK tokenına dönebilirsiniz.*
 
@@ -65,7 +65,7 @@ Ripple, XRP kullanımı ile ilgili hangi banka ile "test sürümü" deney yapsa,
 
 Chainlink de aynı şekilde, hangi platform ile hizmet sağlayıcı olarak anlaşsa bunu çok yoğun bir PR faaliyeti ile sunuyor. Ayrıca hem XRP hem de LINK'in, bu tokenlara 'gönülden bağlı' sosyal medya takipçi orduları var.
 
-Bu benzerliklerden dolayı Chainlink Ripple'a, tokeni LINK XRP'ye benzer mi? Gayet tabii hayır. Ancak, böyle yoğun PR faaliyetleri, bu platformların merkeziyetsiz olmaktan çok, arkada ipleri elinde tutan firmalar bulunduğu ve bu yapıların aslında merkezi platformlar olarak değerlendirilmesi gerektiği algısını güçlendiriyor. 
+Bu benzerliklerden dolayı Chainlink Ripple'a, tokeni LINK XRP'ye benzer mi? Gayet tabii hayır. Ancak, böyle yoğun PR faaliyetleri, bu platformların merkeziyetsiz olmaktan çok, arkada ipleri elinde tutan firmalar bulunduğu ve bu yapıların aslında merkezi bir platform olarak değerlendirilmesi gerektiği algısını güçlendiriyor. 
 
 ##### LINK fazla mı değerli?
 
@@ -75,19 +75,19 @@ Değer konusu oldukça subjektif. Bu yazımızın ana konusu da değil. Ancak, y
 
 ##### Chainklink kötü niyetli mi?
 
-Chainlink için [Zeus Capital](https://zeus-capital.com) isimli bir yatırım fonunun 2020 Temmuz'unda yayınladığı rapor ([pdf](https://zeus-capital.com/assets/The_Chainlink_Fraud_Exposed.pdf)) oldukça ilgi çekti. 
+Chainlink için [Zeus Capital](https://zeus-capital.com) isimli bir yatırım fonunun 2020 Temmuz'unda yayınladığı bir rapor ([pdf](https://zeus-capital.com/assets/The_Chainlink_Fraud_Exposed.pdf)) oldukça ilgi çekti. 
 
 Hemen baştan belirtelim, rapora göz attığınızda ve Zeus Capital'in [websitesini](https://zeus-capital.com) incelediğinizde, yazılanların bir çoğunun ve Zeus Capital'in kendisinin de şaibeli olabileceği izlenimine kapılıyorsunuz. O nedenle bu kısımda yazılanları büyük bir soru işareti ile değerlendirmekte fayda var:
 
 Temel olarak bahsedilen, Chainlink'in hizmet sağlayıcı seçiminin şeffaf olmadığı, mevcut hizmet sağlayıcıların ağırlıklı olarak Chainlink ile ilişkili kişiler olduğu ve sistemin, ağ üyelerinden müşterilere hizmet verecek olanları seçerken bu kişileri kayırdığı şeklinde. 
 
-İddialardan bir başkası da, bir DeFi platformu olan bZx'in 2020 başında [yaşadıği iki hack olayının](https://cointelegraph.com/news/decentralized-lending-protocol-bzx-hacked-twice-in-a-matter-of-days) arkasında  Chainlink olduğu yönünde. Hack olayının ana nedeninin bZx'nin tek bir bilgi kaynağı ile çalışması gösterilmişti. Olayın duyulması ile birlikte LINK tokenin fiyatı ciddi bir şekilde arttı. Daha sonrasında da bZx [Chainlink ile çalışmaya başladı](https://coingape.com/bzx-hack-update-exchange-add-chainlink-protocol/). 
+İddialardan bir başkası da, bir DeFi platformu olan [bZx](https://bzx.network)'in 2020 başında [yaşadıği iki hack olayının](https://cointelegraph.com/news/decentralized-lending-protocol-bzx-hacked-twice-in-a-matter-of-days) arkasında  Chainlink olduğu yönünde. Hack olayının ana nedeninin bZx'nin tek bir bilgi kaynağı ile çalışması gösterilmişti. Olayın duyulması ile birlikte LINK tokenin fiyatı ciddi bir şekilde arttı. Daha sonrasında da bZx [Chainlink ile çalışmaya başladı](https://coingape.com/bzx-hack-update-exchange-add-chainlink-protocol/). 
 
-Keza, bu yazıya karşı olarak büyük ihtimal ile Chainlink kaynaklı yayınlanan [bir başka Medium yazısı](https://smartcontentpublication.medium.com/debunking-the-zeus-capital-disinformation-report-on-chainlink-7313d9e1801#e581) olayın bir PR tiyatrosuna dönmüş olduğu izlenimini uyandırıyor. 
+Zeus Capital'in bu yazına karşı olarak büyük ihtimal ile Chainlink kaynaklı yayınlanan [bir başka Medium yazısı](https://smartcontentpublication.medium.com/debunking-the-zeus-capital-disinformation-report-on-chainlink-7313d9e1801#e581) olayın bir PR tiyatrosuna dönmüş olduğu izlenimini uyandırıyor. 
 
 Son zamanlarda çıkan "Link, XRP gibi mi olacak?" söylentilerinin arkasında da Zeus Capital'in attığı bir [tweet](https://twitter.com/ZeusCapitalLLP/status/1341759410884857856?s=20) olduğunu söylersek sanırım şaşırmazsınız. 
 
-Dolayısıyla, yukarıdaki Zeus Capital iddialarını, "çamur at izi kalsın" mı yoksa "ateş olmayan yerden duman çıkmaz" mı şeklinde değerlendirmeli, karar siz okuyucuya kalmış durumda.  
+Dolayısıyla, yukarıdaki Zeus Capital iddiaları, "çamur at izi kalsın" mı yoksa "ateş olmayan yerden duman çıkmaz" mı şeklinde değerlendirilmeli, karar siz okuyucuya kalmış durumda.
 
 ### Sonuç
 Chainlink, merkeziyetsiz finans platformlarının kritik ihtiyaçları içinde sayabileceğimiz 'dış dünyadan bilgi sağlama' görevini yerine getiren oracle servis sağlayıcıların lideri. Kurucusu, şu ana kadar daha çok geleneksel bir dünya şirketi gibi hareket etti. Bu hareketler, LINK token denen sistem parasına son birkaç yılda ciddi bir değer kazandırdı. Ancak uzun vadede bu tip geleneksel hareketler gerek kanuni otoriteler gerekse merkeziyetsizlik felsefesi ile yetişen yeni DeFi girişimlerinin eleştiri ve tepkisine yol açabilir. 
