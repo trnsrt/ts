@@ -8,10 +8,6 @@ tags: Yazılar DeFi
 
 Bir önceki yazımızda, Merkeziyetsiz Finans (DeFi) piyasasına bilgi sağlayan [oracle (uzman/kahin) servis sağlayıcılardan bahsetmiş](/genel/2020/12/22/definin-bilgi-kaynagi-oracle.html), bu piyasanın tartışmasız en büyüğü olan Chainlink'i ise bu yazımıza saklamıştık. Buyurun hep birlikte bakalım kısaca Chainlink'e... 
 
-| ![chainlink](/assets/chain-1995543_640.jpg)|
-|:--:| 
-| *Kaynak: Image by [kalhh](https://pixabay.com/users/kalhh-86169/) from [Pixabay](https://pixabay.com/)*|
-
 ### Nedir bu Chainlink?
 
 En basit şekliyle açıklamak istersek, Chainlink, her tür blokzincir ve DeFi platformuna hizmet veren bir ara yapı. Yaptığı, bu platformların kullandığı akıllı kontratların ihtiyaç duyduğu blokzincir dışı bilgileri bulup kontrata aktarmak. 
@@ -19,6 +15,10 @@ En basit şekliyle açıklamak istersek, Chainlink, her tür blokzincir ve DeFi 
 Normalde akıllı kontratlar blokzincir içinde bulunan bilgiyi çok rahat bir şekilde okuyup işleyebiliyor. Sıkıntı, blokzincir dışı bilgilerde. Bu bilgilerin, birileri tarafından alınıp, işlenip, akıllı kontratın anlayabileceği bir şekilde blokzincir içine, oradan da kontrata aktarılması gerekiyor. 
 
 Chainlink işte bu hizmeti veren aracılar içinde en büyüğü. Bir DeFi platformu olarak bilgi ihtiyacınız var ise, bulunduğunuz blokzincir üzerinden bir akıllı kontrat ile Chainlink'e talepte bulunuyorsunuz. Sistem üyeleri (node/düğüm) bu hizmete talip oluyorlar. Chainlink, bu üyelerden birkaçını hizmeti vermek için seçiyor. Sonrasında, seçilen üyelerden dış dünyadan topladığı bilgiler Chainlink tarafından bulunduğunuz blokzincir üzerinden size aktarılıyor. Birçok kaynaktan birkaçının seçilmesi ve bilgilerin toplanarak sunulması, tek bir kaynaktan bilgi alımının doğurabileceği yanlış ya da çarpıtılmış bilgi ihtimalini en aza indirmeye yarıyor. 
+
+| ![chainlink](/assets/chain-1995543_640.jpg)|
+|:--:| 
+| *Kaynak: Image by [kalhh](https://pixabay.com/users/kalhh-86169/) from [Pixabay](https://pixabay.com/)*|
 
 ### Chainlink'in hikayesi
 
