@@ -67,13 +67,13 @@ Chainlink de aynı şekilde, hangi platform ile hizmet sağlayıcı olarak anla�
 
 Bu benzerliklerden dolayı Chainlink Ripple'a, tokeni LINK XRP'ye benzer mi? Gayet tabii hayır. Ancak, böyle yoğun PR faaliyetleri, bu platformların merkeziyetsiz olmaktan çok, arkada ipleri elinde tutan firmalar bulunduğu ve bu yapıların aslında merkezi platformlar olarak değerlendirilmesi gerektiği algısını güçlendiriyor. 
 
-#### LINK fazla mı değerli?
+##### LINK fazla mı değerli?
 
 Değer konusu oldukça subjektif. Bu yazımızın ana konusu da değil. Ancak, yine yukarıda bahsettiğimiz Ryan Selkis'in bir başka eleştirisini de dikkate almakta fayda var: 
 
 Şu an için LINK tokenin toplam değerinin, tüm DeFi'nin üzerine kurulu olduğu ETH sisteminin değerinin yaklaşık %6'sı olduğunu görüyoruz. LINK tokenın toplam değeri yaklaşık 5 milyar ABD Doları seviyesinde. Görevi ekosisteme bilgi sağlamak olan bir hizmetin tek bir oyuncusunun değeri bu kadar eder mi, değerlendirmesi siz sevgili okuyucunun. 
 
-#### Chainklink kötü niyetli mi?
+##### Chainklink kötü niyetli mi?
 
 Chainlink için [Zeus Capital](https://zeus-capital.com) isimli bir yatırım fonunun 2020 Temmuz'unda yayınladığı rapor ([pdf](https://zeus-capital.com/assets/The_Chainlink_Fraud_Exposed.pdf)) oldukça ilgi çekti. 
 
