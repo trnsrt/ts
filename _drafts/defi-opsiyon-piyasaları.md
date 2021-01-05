@@ -1,6 +1,6 @@
 DeFi yani merkeziyetsiz finans dünyası, klasik finans dünyasında kullanılan her tür aracın bir kopyasını çıkarmaya devam ediyor. Gelin bu yazımızda bu araçlardan opsiyon piyasalarına bir göz atalım. 
 
-Hatırlarsanız daha önceki yazılarımızda, DeFi'nin girmeye başladığı klasik finans alanlarından mevduat ve krediyi [MakerDAO](https://medium.com/turansert/merkeziyetsiz-finans-ve-maker-dao-bir-y%C4%B1lda-neler-de%C4%9Fi%C5%9Fti-f133e9cd4007) ve [Compound](https://www.btchaber.com/klasik-bankaciligin-rakibi-compound/), sigortacılığı [Nexus Mutual](https://www.btchaber.com/defi-sigortasi-nexus-mutual/), borsacılık işlemlerini [Uniswap](https://www.btchaber.com/nedir-bu-uniswap/) ve [rakipleri](https://www.btchaber.com/uniswap-rakipleri-curve-balancer-ve-sushiswap/), sentetik türev ürünlerini [Synthetix](https://www.btchaber.com/defi-turev-piyasasi-synthetix-nasil-calisiyor/) ve portföy yönetimini ise [Yearn](https://www.btchaber.com/merkeziyetsiz-portfoy-yonetimi-platformu-yearn-finance/) örneklerinden yola çıkarak anlatmıştık. Bu yazımızda ise, klasik finansın temel direklerinden biri olan opsiyon piyasaları merkeziyetsiz nasıl oluyor, hızlıca bir göz atacağız. Ama önce tam olarak bilmeyenler için opsiyon nedir, nasıl çalışır ona bakalım: 
+Hatırlarsanız daha önceki yazılarımızda, DeFi'nin girmeye başladığı klasik finans alanlarından mevduat ve krediyi [MakerDAO](https://medium.com/turansert/merkeziyetsiz-finans-ve-maker-dao-bir-y%C4%B1lda-neler-de%C4%9Fi%C5%9Fti-f133e9cd4007) ve [Compound](https://www.btchaber.com/klasik-bankaciligin-rakibi-compound/), sigortacılığı [Nexus Mutual](https://www.btchaber.com/defi-sigortasi-nexus-mutual/), borsacılık işlemlerini [Uniswap](https://www.btchaber.com/nedir-bu-uniswap/) ve [rakipleri](https://www.btchaber.com/uniswap-rakipleri-curve-balancer-ve-sushiswap/), sentetik türev ürünlerini [Synthetix](https://www.btchaber.com/defi-turev-piyasasi-synthetix-nasil-calisiyor/) ve portföy yönetimini ise [Yearn](https://www.btchaber.com/merkeziyetsiz-portfoy-yonetimi-platformu-yearn-finance/) örneklerinden yola çıkarak anlatmıştık. Bu yazımızda ise, klasik finansın temel direklerinden biri olan opsiyon piyasaları merkeziyetsiz nasıl çalıştığına hızlıca bir göz atacağız. Ama önce tam olarak bilmeyenler için opsiyonun ne olduğuna ve nasıl çalıştığına bir bakalım: 
 
 ### Opsiyon nedir, ne işe yarar?
 En basit anlatımı ile opsiyon, herhangi bir varlığı gelecekte istediğiniz bir tarihte, belli bir fiyattan alma ya da satma hakkına sahip olmak demek. 
@@ -8,16 +8,16 @@ En basit anlatımı ile opsiyon, herhangi bir varlığı gelecekte istediğiniz 
 #### Alım opsiyonu
 Varsayalım bir varlığa sahip olmak istiyorsunuz, ancak bugün için alma imkanınız yok. Birkaç hafta sonra olacak, ama o zaman çok geç olabilir, varlık sizin alabileceğinizin çok üstünde bir değere çıkabilir. 
 
-Ne yapacaksınız bu durumda, fırsat kaçacak mı? Hayır. Şimdi almak yerine, ileride belli bir fiyattan o varlığı satın alma hakkına sahip olabilirsiniz. Yani bu varlık için bir **'alım opsiyonu' (Ingilizcesi call option)** kullanabilirsiniz. 
+Ne yapacaksınız bu durumda, fırsat kaçacak mı? Hayır. Şimdi almak yerine, ileride belirli bir fiyattan o varlığı satın alma hakkına sahip olabilirsiniz. Yani bu varlık için bir **'alım opsiyonu' (ingilizcesi 'call option')** kullanabilirsiniz. 
 
-Bu size ne verir? İleride olası bir hızlı yükselişte kârı kaçırmama fırsatı. Bilirsiniz ki, varlığın değeri yükselse bile siz onu belli bir fiyattan alabileceksiniz. Yok, o gün geldi ve varlığın değeri uçup gitmedi, tam tersine düştü, o zaman da bir kaybınız yok. Alım opsiyonunu kullanmazsınız, olur biter.
+Bu size ne verir? İleride olası bir hızlı yükselişte kârı kaçırmama fırsatı. Bilirsiniz ki, varlığın değeri yükselse bile siz onu belli bir fiyattan alabileceksiniz. Yok, o gün geldi ve varlığın değeri uçup gitmedi, tam tersine düştü, o zaman ödediniz prim dışında bir kaybınız yok. Alım opsiyonunu kullanmazsınız, olur biter.
 
 #### Satım opsiyonu 
 Bunun tam tersi de mümkün. Varsayalım, elinizde tuttuğunuz herhangi bir varlığın değerinin gelecekte nasıl bir seyir izleyeceğini kestiremiyorsunuz. 
 
 Bu durumda o varlığı gelecekte belli bir fiyattan satma hakkını almak isterseniz, o varlık için  **'satım opsiyonu' (ingilizcesi 'put option')** kullanabilirsiniz. 
 
-Bu size ne verir? En azından kafa rahatlığı. Bilirsiniz ki, gelecekte o varlığın fiyatı korkunç bir şekilde düşse bile, siz baştan belirlenmiş bir fiyattan varlığı satıp zarar etmekten kurtulabilirsiniz. Eğer korktuğunuz gerçekleşmez ve varlığın değeri tam tersine yükselirse, o zaman da hiç bir zararınız olmaz. Satma hakkını kullanmaz ve varlığı değerlenmiş haliyle elinizde tutmaya devam edersiniz (ya da satıp kârı realize edersiniz).
+Bu size ne verir? En azından kafa rahatlığı. Bilirsiniz ki, gelecekte o varlığın fiyatı korkunç bir şekilde düşerse bile, siz baştan belirlenmiş bir fiyattan varlığı satıp zarar etmekten kurtulabilirsiniz. Eğer korktuğunuz gerçekleşmez ve varlığın değeri tam tersine yükselirse, o zaman da opsiyon maliyeti dışında hiç bir zararınız olmaz. Satma hakkını kullanmaz ve varlığı değerlenmiş haliyle elinizde tutmaya devam edersiniz (ya da satıp kârı realize edersiniz).
 
 #### Rakamsal bir örnek mi versek?
 Call ve put opsiyonlarını bir örnek ile açıklayalım:
@@ -26,7 +26,7 @@ Bir varlığın şu anki değeri 1.000 TL olsun. Bunu bir ay sonra da 1.000 TL'y
 
 Varsayalım bir ay sonra varlığın değeri 1.200 TL'ye yükseldi. Bu durumda, kazancınız varlığın değer artışı olan 200 TL eksi opsiyon maliyeti 50 TL'den net olarak 150 TL olur. Ya da varlık 900 TL'ye düştü. O zaman sadece opsiyonun maliyeti olan 50 TL'ye işin içinden sıyrılma hakkına sahipsiniz. 
 
-'Put' opsiyonu da benzer şekilde çalışıyor. 1.000 TL değerinde bir varlığı bir ay sonra 1.000 TL'ye satma hakkını yani 'put' opsiyonu 40 TL'ye aldığınızı varsayalım. 
+'Put' opsiyonu da benzer şekilde çalışıyor. 1.000 TL değerinde bir varlığı bir ay sonra 1.000 TL'ye satma hakkını yani 'put' opsiyonu 50 TL'ye aldığınızı varsayalım. 
 
 Bir ay sonrasında değer 800 TL'ye düşerse opsiyonu kullanarak varlığı 1.000 TL'ye satabilir ve 50 TL opsiyon bedelini ödedikten sonra net 150 TL kâra sahip olabilirsiniz. Varlığın değeri tam tersi 1.300 TL'ye çıkarsa, o zaman opsiyonu kullanmaz, bunun yerine varlığı piyasada 1.300 TL'ye satar ve opsiyonun maliyeti olan 50 TL düştükten sonra 250 TL'yi cebe atarsınız. 
 
@@ -42,7 +42,7 @@ Kripto dünyasına hizmet veren merkezi borsalar ve finans kurumlarında opsiyon
 
 Ancak, hep söylediğimiz gibi, bu bahsettiğimiz yapıların en büyük handikapı merkezi olmaları. Buralarda işlem yapanlar, aynı zamanda bu merkezi yapıların her tür riskini de almak zorunda. Üstelik, diğer kripto borsa işlemlerinde de bahsettiğimiz gibi, kullanıcılar bu tip mekanizmaları kullanabilmek için nispeten zahmetli bir üyelik ve yeterlilik (minimum işlem hacim, büyüklük gibi) sürecinden geçmek zorunda. 
 
-Oysa merkeziyetsiz dünyanın, elektronik cüzdanını bağlayan herkese saniyeler içinde bu hizmeti verebilmesi, rahatlık ve kolaylık anlamında büyük avantaj.  
+Oysa merkeziyetsiz dünyanın, elektronik cüzdanını bağlayan herkese, saniyeler içinde bu hizmeti verebilmesi, rahatlık ve kolaylık anlamında büyük avantaj.  
 
 Merkeziyetsiz yapıların şu an için temel dezavantajı, likiditenin azlığından dolayı opsiyon fiyatlarının oldukça yüksek olması. Ancak bu alanda likiditeyi artırmak için çalışmalar hızla ilerliyor ve belli bir noktaya gelmiş durumda.
 
@@ -56,9 +56,9 @@ Bir diğer örnek: Kripto paranız var ve likidite sağlayarak para kazanmak ist
 ### Kimler var merkeziyetsiz opsiyon piyasasında?
 Merkeziyetsiz opsiyon piyasasının en büyük oyuncusu [Hegic](https://www.hegic.co/). Onu [Opyn](https://opyn.co/#/) takip ediyor. Bunların yanında yeni çıkan ya da çıkma aşamasında olan [Opium](https://opium.network), [Auctus](https://auctus.org),  [Finnexus](https://finnexus.io/#/), [Primitive](https://primitive.finance), [Pods](https://www.pods.finance) ve [Hedget](https://hedget.com) var.  
 
-Hegic, yaklaşık 100 milyon ABD Doları'na yaklaşan üzerine kilitli para miktarı ile son zamanlarda diğer oyuncuların ciddi şekilde önüne geçmiş durumda. İkinci ile arasındaki farka bakınca bu çok daha iyi anlaşılıyor (her ne kadar Opyn farklı bir sistem izliyor olsa da).. 
+Hegic, yaklaşık 100 milyon ABD Doları'na yaklaşan üzerine kilitli para miktarı ile son zamanlarda diğer oyuncuların ciddi şekilde önüne geçmiş durumda (kilitli para miktarı, yatırımcıların havuzlara koyduğu para demek). Burada Hegic’in havuzunun henüz Ekim 2020’de başladığının da altını çizelim. İkinci ile arasındaki farka bakınca bu çok daha iyi anlaşılıyor (her ne kadar Opyn farklı bir sistem izliyor olsa da).. 
 
- | ![hegic_vs_opyn](/assets/hegic_vs_opyn_TVL.png)|
+ | ![hegic_vs_opyn](/assets/hegic_vs_opyn_TVL_v2.png)|
 |:--:| 
 | *Hegic ve Opyn'da kilitlenen toplam miktar Kaynak:[DeFiPulse](https://defipulse.com/)*|
 
