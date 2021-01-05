@@ -19,6 +19,10 @@ Bu durumda o varlığı gelecekte belli bir fiyattan satma hakkını almak ister
 
 Bu size ne verir? En azından kafa rahatlığı. Bilirsiniz ki, gelecekte o varlığın fiyatı korkunç bir şekilde düşerse bile, siz baştan belirlenmiş bir fiyattan varlığı satıp zarar etmekten kurtulabilirsiniz. Eğer korktuğunuz gerçekleşmez ve varlığın değeri tam tersine yükselirse, o zaman da opsiyon maliyeti dışında hiç bir zararınız olmaz. Satma hakkını kullanmaz ve varlığı değerlenmiş haliyle elinizde tutmaya devam edersiniz (ya da satıp kârı realize edersiniz).
 
+ | ![skyscraper_cleaners](/assets/glass-facade-817732_640.jpg)|
+|:--:| 
+| *Image by [Gerhard Bögner](https://pixabay.com/users/bogitw-851103/) from [Pixabay](https://pixabay.com/)*|
+
 #### Rakamsal bir örnek mi versek?
 Call ve put opsiyonlarını bir örnek ile açıklayalım:
 
