@@ -81,7 +81,7 @@ Bir sonraki yazımızda Hegic örneğinden yola çıkarak opsiyon havuzları nas
 
 ---
 
-*Not 1: Bu yazı ilk olarak 29 Aralık 2020'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/defide-opsiyon-piyasalari/)*
+*Not 1: Bu yazı ilk olarak 6 Ocak 2021'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/defide-opsiyon-piyasalari/)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
