@@ -43,6 +43,9 @@ permalink: /articles/
   - [İlginç bir parasal DeFi deneyi](/genel/2020/10/06/ilginc-bir-parasal-DeFi-deneyi-Ampleforth.html) ve [Ampleforth'a devam](/genel/2020/10/13/Amplefortha-devam.html)
   - [DeFi'nin sigortası Nexus Mutual](/genel/2020/10/20/definin-sigortasi-nexus-mutual.html) ve [DeFi'de sigortacılığa-devam](https://turansert.com/genel/2020/10/27/defide-sigortaciliga-devam.html)
   - [DeFi'de merkeziyetsiz portföy yönetimi platformu Yearn](/genel/2020/11/10/Defida-merkeziyetsiz-yonetim-platform-yearn-finance.html) ve [Merkeziyetsiz portföy yönetimi Yearn'a devam](/genel/2020/11/17/merkeziyetsiz-portfoy-yonetimi-yearn-protokolune-devam.html)
+  - [DeFi'nin bilgi kaynağı oracle](https://turansert.com/genel/2020/12/22/definin-bilgi-kaynagi-oracle.html)
+  - [Oracle dünyasının lideri Chainlink](/genel/2020/12/29/oraclein-lideri-chainlink.html)
+  - [DeFi'da opsiyon piyasaları](/genel/2021/01/05/defi-opsiyon-piyasalar%C4%B1.html)
 
 
 - Blockchain bazlı teknolojilerin girişimcilik ve yatırımcılık ekosistemlerini nasıl değiştirdiğini merak ediyorsanız
@@ -82,6 +85,9 @@ permalink: /articles/
   - En temel taşı olan Akıllı Kontratlar'ı anlamak için [Bu kontratlar çok akıllı: Ethereum ve Akıllı Kontratlar](/genel/2018/06/29/bu-kontratlar-cok-akilli-ethereum-ve-akilli-kontratlar.html)
   - ETH'nin değerinin nereden geldiğin anlamak için [ETH'nin değeri var mı?](/genel/2020/07/30/ETH-nin-degeri-var-mi.html)
   - 2020 ve 2021 yıllarında ETH'nin değerini nelerin etkileyecebileceğini görmek için [Gelecekte ETH'nin değerini neler etkileyecek?](/genel/2020/08/06/gelecekte-eth-nin-degerini-neler-etkileyecek.html)
+  - Ethereum'un para arzının nasıl işlediğini ve gelecekte nasıl gelişeceğini görmek için [](/genel/2020/12/08/Ethereumun-para-politikası.html)
+  - Ethereum topluluğunun 2021 yılında neler ile uğraşacağına bakmak için - [Ethereum'u 2021'de neler bekliyor?](/genel/2020/12/15/Ethereumu-2021-yilinda-neler-bekliyor.html]
+  - Ethereum'da DeFi patlamasıyla birlikte yaşanan pahalılığı ve nasıl giderilebileceğini anlamak için - [Ethereum'un yüksek iş]em ücretleri](/genel/2020/12/21/ETHnin-yuksek-islem-ucretleri.html)
 
 &nbsp;
 
