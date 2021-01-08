@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "DeFi'da opsiyon piyasaları"
+date:   2021-01-05 16:47:56 +0300
+categories: Genel
+tags: Yazılar DeFi
+---
+
 DeFi yani merkeziyetsiz finans dünyası, klasik finans dünyasında kullanılan her tür aracın bir kopyasını çıkarmaya devam ediyor. Gelin bu yazımızda bu araçlardan opsiyon piyasalarına bir göz atalım. 
 
 Hatırlarsanız daha önceki yazılarımızda, DeFi'nin girmeye başladığı klasik finans alanlarından mevduat ve krediyi [MakerDAO](https://medium.com/turansert/merkeziyetsiz-finans-ve-maker-dao-bir-y%C4%B1lda-neler-de%C4%9Fi%C5%9Fti-f133e9cd4007) ve [Compound](https://www.btchaber.com/klasik-bankaciligin-rakibi-compound/), sigortacılığı [Nexus Mutual](https://www.btchaber.com/defi-sigortasi-nexus-mutual/), borsacılık işlemlerini [Uniswap](https://www.btchaber.com/nedir-bu-uniswap/) ve [rakipleri](https://www.btchaber.com/uniswap-rakipleri-curve-balancer-ve-sushiswap/), sentetik türev ürünlerini [Synthetix](https://www.btchaber.com/defi-turev-piyasasi-synthetix-nasil-calisiyor/) ve portföy yönetimini ise [Yearn](https://www.btchaber.com/merkeziyetsiz-portfoy-yonetimi-platformu-yearn-finance/) örneklerinden yola çıkarak anlatmıştık. Bu yazımızda ise, klasik finansın temel direklerinden biri olan opsiyon piyasaları merkeziyetsiz nasıl çalıştığına hızlıca bir göz atacağız. Ama önce tam olarak bilmeyenler için opsiyonun ne olduğuna ve nasıl çalıştığına bir bakalım: 
@@ -68,4 +76,14 @@ Hegic, yaklaşık 100 milyon ABD Doları'na yaklaşan üzerine kilitli para mikt
 
 ### Arkası yarın
 Bir sonraki yazımızda Hegic örneğinden yola çıkarak opsiyon havuzları nasıl işliyor, tokenlar ne işe yarıyor onlara bakacağız. 
+
+---
+
+---
+
+*Not 1: Bu yazı ilk olarak 29 Aralık 2020'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/defide-opsiyon-piyasalari/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
 
