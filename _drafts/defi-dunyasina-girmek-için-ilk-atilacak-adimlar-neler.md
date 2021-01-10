@@ -10,7 +10,14 @@ Bu ve bundan sonraki yazılarımızda, gün geçtikçe önemi artacak olan DeFi 
 
 ### DeFi'nin en büyük avantajı ne?
 
-DeFi'nin, aslına bakarsanız tüm kripto dünyasının, klasik finansa göre en kritik avantajı, **gücü kullanıcıya vermesi**. Bu ne demek? Kullanıcıların yani bireylerin, dijital varlıklara "tam anlamıyla sahip olması" demek. Biraz daha açarsak; bu, klasik dünyada, iş görebilmek için varlıklarını aracılara emanet etmek zorunda kalan bireylerin, bu aracıların onlara getirdiği kısıtlamalardan tamamen kurtulmaları anlamına geliyor. 
+DeFi'nin, aslına bakarsanız tüm kripto dünyasının, klasik finansa göre en kritik avantajı, **gücü kullanıcıya vermesi**. 
+
+ | ![holding_lightning](/assets/man-1069219_640.jpg)|
+|:--:| 
+| *Image by [Rudy and Peter Skitterians](https://pixabay.com/users/skitterphoto-324082/) from [Pixabay](https://pixabay.com/)*|
+
+
+Bu ne demek? Kullanıcıların yani bireylerin, dijital varlıklara "tam anlamıyla sahip olması" demek. Biraz daha açarsak; bu, klasik dünyada, iş görebilmek için varlıklarını aracılara emanet etmek zorunda kalan bireylerin, bu aracıların onlara getirdiği kısıtlamalardan tamamen kurtulmaları anlamına geliyor. 
 
 Nedir bu kısıtlamalar? Örneğin, varlığınızı emanet ettiğiniz ya da işlem yapmak istediğiniz klasik finans alanındaki bir kurumun, sizi önce bir finansal yeterlilikten geçirmesi. Belki bu satırları okuyan bizleri çok etkilemiyor olsa da, realite olarak birçok kişiyi müşteri olarak kabul etmemesi. Ya da işleminizi gerçekleştirmek için sabah 9'dan akşam 5'e kadar izin vermesi. Bir başka örnek olarak, varlığınızı başka bir kuruma geçirmek istediğinizde, o başka kurumun sizi kabul etmesi için onlarca sayfa doküman imzalamak zorunda olmanız. Kısacası, **size hizmet veren kurumun, bu hizmet karşılığı sizi adeta esir alması**.
 
