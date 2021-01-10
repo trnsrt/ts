@@ -1,35 +1,50 @@
-DeFi yani merkeziyetsiz finans dünyasına ilk giriş basit değil. Zor ve zahmetli. Komisyonlar yüksek, kullanıcı arayüzlerinin hâlâ gelişmeye ihtiyacı var.  Bütün bunların temel nedeni, DeFi dünyasının henüz emeklemeye başlamasının üzerinden daha bir yıl bile geçmemiş olması. 
 
-Bunlar DeFi dünyasının dezavantajları. Ancak uzun vadede kendisine üstünlük sağlayacak iki temel avantajı var DeFi'nin. 
 
-- Birincisi, kişi ayırdetmeden, herkesin istediği anda girip çıkabileceği kolaylıkta bir sistem olması. 
-- İkincisi ise, içindeki her tür ürün ve platformun birbiri ile değişken bir biçimde kullanılabilmesi.  
+Günümüz finans dünyasının son yıllarda kullanıcılarına sunduğu olanaklar müthiş. Bir zamanlar, en ufak bir işlem için banka şubesine taşınmamız gerekirken, internet ve mobil araçlar sayesinde artık her işlem elimizin altında saniyeler içinde yapılabiliyor. 
 
-Gelin DeFi'ye uzun vadede avantaj sağlayacak bu özelliklere sırayla bakalım hep birlikte: 
+Son zamanlarda yeni yeni başlayan DeFi yani merkeziyetsiz finans hareketi ise, işte bu yenilikleri bir üst seviyeye taşımaya aday. "Zaten her istediğimi hızlıca yapabiliyorum, başka yeniliğe ihtiyaç var mı?" diye düşünebilirsiniz. Ancak, DeFi belki de şu an farkında bile olmadığınız yepyeni ihtiyaçları karşılamak için kapımızı çalıyor. 
 
-### Klasik dünyanın kısıtları
+Bu ve bundan sonraki yazılarımızda, gün geçtikçe önemi artacak olan DeFi dünyasını ve kullanıcı olarak bu dünyaya girmek için gerekli adımları konuşacağız. 
 
-DeFi dünyasının, aslına bakarsanız tüm kripto dünyasının, en kritik özelliklerinden biri gücü kullanıcıya vermesi. Bu ne demek? Kullanıcıların yani bireylerin, dijital varlıklara "tam anlamıyla sahip olması" demek. Yani? Klasik dünyada, iş görebilmek için varlıklarını aracılara emanet etmek zorunda kalan bireylerin, bu aracıların onlara getirdiği kısıtlamalardan tamamen kurtulmaları demek. 
+Öncelikle, DeFi'nin klasik finansa göre en önemli avantajı ile başlayalım: 
 
-Nedir bu kısıtlamalar? Örneğin, varlığınızı emanet ettiğiniz ya da işlem yapmak istediğiniz klasik finans alanındaki bir kurumun, sizi önce bir finansal yeterlilikten geçirmesi. Belki bu satırları okuyan bizleri çok etkilemiyor olsa da, realite olarak birçok kişiyi müşteri olarak kabul etmemesi. Ya da işleminizi gerçekleştirmek için sabah 9'dan akşam 5'e kadar izin vermesi. Bir başka örnek olarak, varlığınızı başka bir kuruma geçirmek istediğinizde, o başka kurumun sizi kabul etmesi için onlarca sayfa doküman imzalamak zorunda olmanız. Kısacası, size hizmet veren kurumun, bu hizmet karşılığı sizi adeta esir alması... 
+### DeFi'nin en büyük avantajı ne?
 
-### Kriptoya geçince ne oluyor?
-Kullanıcılar, kripto dünyasına geçtiklerinde, şimdilik bu kısıtların ancak bir kısmından kurtuluyorlar. 
+DeFi'nin, aslına bakarsanız tüm kripto dünyasının, klasik finansa göre en kritik avantajı, **gücü kullanıcıya vermesi**. Bu ne demek? Kullanıcıların yani bireylerin, dijital varlıklara "tam anlamıyla sahip olması" demek. Biraz daha açarsak; bu, klasik dünyada, iş görebilmek için varlıklarını aracılara emanet etmek zorunda kalan bireylerin, bu aracıların onlara getirdiği kısıtlamalardan tamamen kurtulmaları anlamına geliyor. 
 
-İlk giriş aşaması aslında klasik dünyaya oldukça benziyor. Herhangi bir kripto para alımı için bir kripto para borsası kullanıldığında, kişi yine belli bürokratik süreçlerden geçmek zorunda. Rekabetin de etkisi ile borsalar bu süreci kolaylaştırmak için ellerinden geleni yapsalar da, henüz ilk kripto parasını alırken "çok basit bir süreçti" diyene rastlamadım açıkçası. 
+Nedir bu kısıtlamalar? Örneğin, varlığınızı emanet ettiğiniz ya da işlem yapmak istediğiniz klasik finans alanındaki bir kurumun, sizi önce bir finansal yeterlilikten geçirmesi. Belki bu satırları okuyan bizleri çok etkilemiyor olsa da, realite olarak birçok kişiyi müşteri olarak kabul etmemesi. Ya da işleminizi gerçekleştirmek için sabah 9'dan akşam 5'e kadar izin vermesi. Bir başka örnek olarak, varlığınızı başka bir kuruma geçirmek istediğinizde, o başka kurumun sizi kabul etmesi için onlarca sayfa doküman imzalamak zorunda olmanız. Kısacası, **size hizmet veren kurumun, bu hizmet karşılığı sizi adeta esir alması**.
 
-Bu ilk aşamayı geçip, bir süre alım satım yapan bireyler, yavaş yavaş kripto dünyasının kendilerine verdiği gücü keşfetmeye başlıyor. Bahsettiğim güçlerden ilki, borsada tuttukları kripto parayı kendilerine ait elektronik cüzdanlara çekebilmek. Bu ilk adım önemli - gelin bu yazıda biraz daha açalım bu konuyu.  
+İşte, gücün bireyden çok hizmet veren kurumda olması, mevcut finansal sistemlerin en büyük handikapı. Kullanıcılar, kendilerine DeFi tarafından yavaş yavaş sunulan bu gücün tadına vardıklarında, bir daha arkalarına bakacaklar mı? Muhtemelen hayır. 
 
-### Cüzdanlar neden önemli?
-Cüzdanların en kritik noktası içindeki varlığın tek sahibinin sadece ve sadece cüzdan sahibi son kullanıcı olması. Bu neden önemli?
+Peki DeFi bu gücü nasıl kullanıcıya verecek? İki temel özelliği var DeFi'nin: Birincisi, kişi ayırdetmeden, herkesin istediği anda girip çıkabileceği kolaylıkta bir sistem olması. İkincisi ise, içindeki her tür ürün ve platformun birbiri ile uyumlu bir şekilde beraberce kullanılabilmesi.  
 
-DeFi dünyasındaki hemen hemen tüm ürünler, size yardım eden araçlar özünde. Bu, aslında bu dünyanın klasik dünyadan en büyük farkı. Zira, klasik dünyadaki aracılar, sizin adınıza işlem yapabilmek için sizin varlığınızı emanet alırlar. 
+### DeFi gelecek tüm dertler bitecek mi?
 
-Diyelim paranızı yatırımda kullanmak ve faiz mi almak istiyorsunuz? Parayı, bankaya emanet vermek zorundasınız. Halbuki DeFi dünyasını, bir nevi evde kasada sakladığınız paranıza bir yandan faiz almak olarak düşünebilirsiniz. 
+Ancak hersey toz pembe değil bu dünyada.  Örneğin DeFi'ye ilk adımı atmak oldukça zor ve zahmetli. Komisyonlar yüksek, kullanıcı arayüzlerinin hâlâ gelişmeye ihtiyacı var.  Bütün bunların temel nedeni, DeFi dünyasının henüz emeklemeye başlamasının üzerinden daha bir yıl bile geçmemiş olması. 
 
-DeFi dünyasının ürünleri için önemli olan, kullanıcının bu ürünleri geçici olarak kullanmasına izin vermesi - onda da paranın sahipliği hep kullanıcıda kalır. İstediği zaman ürüne sahip olur, istediği zaman da o üründen çıkar. Bütün bunları ise sahip olduğu elektronik cüzdan sayesinde yapar. 
+Bunun yanında, asıl zihinsel bariyerler var kullanıcıların aşması gereken. Bir bankaya ya da finansal kuruma varlık emanet etmek kolay. Şubeleri var, çalışanları var. Sıkıntı olduğunda aranabilecek müşteri danışma hatları var. DeFi'da ise öyle değil. Bilmediği bir sitede, daha önce hiç duymadığı bir yazılımın, kendine ait bir varlığı alıp işlem yapmasına izin veriyor kullanıcı. İlk işlemini yaparken eli titremeyen var mıdır, merak ediyorum. 
 
-İşte bu nedenle, elektronik cüzdan kullanıcı için çok önemli. Bu dünyada gücü elinde tutabilmek için kritik. Ve bu dünyaya atılan ilk adım.
+Ancak öncesinde, eskilerin deyimi ile 'teybi biraz daha başa saralım'. DeFi dünyasına girmeden önce nelere ihtiyaç var?
+
+### DeFi'ya girmeden önce ilk gereken kripto paraya sahip olmak
+
+En başından başlarsak, DeFi dünyasını kullanmak için kullanıcının kripto parası olmak zorunda. Bu kripto para, şu an için ağırlıklı olarak Ethereum blok zincirinin parası ETH ama yakın gelecekte başka paralar da aynı işi görebilir. 
+
+Kullanıcı, kripto paraya sahip olabilmek için de bir kripto para borsasına üye olmalı. İşte bu nedenle, kripto dünyasına ilk giriş aşaması, aslında klasik dünyaya oldukça yakın. Herhangi bir kripto para alımı için bir kripto para borsası kullanırken, kişi yine belirli bürokratik süreçlerden geçmek zorunda. Rekabetin de etkisi ile borsalar bu süreci kolaylaştırmak için ellerinden geleni yapsalar da, henüz ilk kripto parasını alırken "çok basit bir süreçti" diyene rastlamadım açıkçası. 
+
+Bu ilk aşamayı geçip, bir süre alım satım yapan bireyler, yavaş yavaş kripto dünyasının kendilerine verdiği gücü keşfetmeye başlıyorlar. Bahsettiğim güçlerden ilki, borsada tuttukları kripto parayı kendilerine ait elektronik cüzdanlara çekebilme olacağı. Ki aslında bu, DeFi dünyasına geçebilmek için ilk yapılması gereken hamle aynı zamanda. Bu ilk adım önemli, o nedenle gelin biraz daha açalım burayı:  
+
+### DeFi dünyasına girişte ilk adım:  Cüzdanlar
+
+Cüzdanların en kritik noktası, içinde tuttukları varlığın tek sahibinin sadece ve sadece cüzdan sahibi son kullanıcı olması. Bu neden önemli?
+
+DeFi dünyasındaki hemen hemen tüm ürünler, özünde size bir işlem yapabilmeniz için yardımcı olan araçlar. Bu, aslında bu dünyanın klasik dünyadan en büyük farkı. Zira, klasik dünyadaki aracılar, sizin adınıza işlem yapabilmek için sizin varlığınızı kendi üzerlerine almak zorundalar, aksi pek mümkün değil. 
+
+Diyelim paranızı yatırımda kullanmak ve faiz mi almak istiyorsunuz? Parayı, bankaya emanet vermek zorundasınız. DeFi dünyasında ise, paranın sahipliği hep kullanıcıda kalır.  Aynı örnekten devam edersek, bunu bir nevi evde kasada sakladığınız paranıza bir yandan faiz almak olarak düşünebiliriz. 
+
+Bu dünyada kullanıcı, istediği zaman ürüne sahip olur, istediği zaman da o üründen çıkar. Bütün bunları ise kendisine ait elektronik cüzdan sayesinde yapar.  Yani, DeFi dünyasında hareket etmek istiyorsanız, kripto paranız olmalı ve bu kripto paranız size ait elektronik cüzdanda durmalı. 
+
+İşte bu nedenle, elektronik cüzdan, bir kullanıcı için çok önemli. Bu dünyaya adım atabilmek ve sonrasında finansal olarak gücü elinde tutabilmek için gerekli. 
 
 ### Arkası Yarın
-Bir sonraki yazımızda, cüzdanların çalışma prensiplerine bakalım ki, içimiz rahat etsin bunları kullanırken. Sonra ne tip cüzdanlar var, onlara göz atarız.
+Bir sonraki yazımızda, cüzdanların çalışma prensiplerine bakalım ki, bunları kullanırken kullanıcıların içi rahat etsin. Daha sonraki yazılarda ise, cüzdan çeşitlerinden yola çıkarak, kullanıcıların DeFi dünyasında yol almasını sağlayacak araçlara teker teker bakmaya başlayacağız...
