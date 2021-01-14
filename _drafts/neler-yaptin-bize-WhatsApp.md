@@ -41,7 +41,7 @@ Asıl çözümün, dijital alanda sadece kendimize ait bir kimilikte olduğunu d
 
 O zaman kadar, bir önceki paragrafta yazdığım bilinçlenmenin devam etmesi için çaba sarfetmek gerekiyor. Son yaşananlar bu anlamda belki de 'Inception' filminde olduğu gibi bir tür bilincin tohumlarını ekti sadece, o da göreceli duyarlı ufak bir topluluğa. Ama olsun, bu da bir ilerlemedir. 
 
-| ![inception](/assets/inception.gif)|
+| ![inception](/assets/inception.gif)*|
 |:--:| 
 | *Kaynak: [Giphy](http://gph.is/1syOaQ3)
 
