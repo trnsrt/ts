@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Neler yaptın bize WhatsApp?"
+date:   2021-01-14 17:47:56 +0300
+categories: Genel
+tags: Yazılar
+---
+
 Son günlerde teknolojik anlamda gündemimiz WhatsApp oldu.. Güvenli mi, değil mi? Kullanmalı mı, kullanmamalı mı?.. Bu soruların ötesinde, asıl konuşmamız gerekenler başka sanki.. Neler mi? Gelin bakalım.. 
 
 ### Nereden başladı?.. 
@@ -48,3 +56,11 @@ O zamana kadar, iki paragraf yukarıda yazdığımız bilinçlenmenin devam etme
 | *Kaynak: [Giphy](http://gph.is/1syOaQ3)*|
 
 *Not: "Peki, bu kadar yazmışsın, sen ne yaptın?" diye soracaklar için: Yayınlanması ile birlikte bu yazının linkini tüm WhatsApp gruplarım ile paylaşıp onlara veda edecek ve WhatsApp'ımı kapatacağım.*
+
+---
+
+*Not 1: Bu yazı ilk olarak 14 Ocak 2021'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/neler-yaptin-bize-whatsapp/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
