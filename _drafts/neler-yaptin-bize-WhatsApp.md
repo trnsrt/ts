@@ -43,8 +43,8 @@ Bun aslında çok hayal bir dünya değil. Benzer yapıya sahip merkeziyetsiz fi
 
 O zamana kadar, iki paragraf yukarıda yazdığımız bilinçlenmenin devam etmesi için çaba sarfetmek gerekiyor. Son yaşananlar, bu anlamda belki de '[Inception](https://www.imdb.com/title/tt1375666/)' filminde gördüğümüz türden bir bilincin tohumlarını ekti. Etkisi az ya da geçici oldu diye küçümsememek gerek, bu bile başlı başına güzel bir ilerleme. 
 
-| ![inception](/assets/inception.gif)*|
+| ![inception](/assets/inception.gif)|
 |:--:| 
-| *Kaynak: [Giphy](http://gph.is/1syOaQ3)|
+| *Kaynak: [Giphy](http://gph.is/1syOaQ3)*|
 
 *Not: "Peki, bu kadar yazmışsın, sen ne yaptın?" diye soracaklar için: Yayınlanması ile birlikte bu yazının linkini tüm WhatsApp gruplarım ile paylaşıp onlara veda edecek ve WhatsApp'ımı kapatacağım.*
