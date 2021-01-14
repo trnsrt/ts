@@ -1,7 +1,7 @@
 Son günlerde teknolojik anlamda gündemimiz WhatsApp oldu.. Güvenli mi, değil mi? Kullanmalı mı, kullanmamalı mı?.. Bu soruların ötesinde, asıl konuşmamız gerekenler başka sanki.. Neler mi? Gelin bakalım.. 
 
 ### Nereden başladı?.. 
-Son yaşadıklarımızın çıkışı aslında eskilere dayanıyor: Internetin ilk hayatımıza girmeye başladığında herkese açık olarak ortaya çıkan altyapılar, bize geniş, daha önce hiç farkında olmadığımız bir dünyanın kapılarını açtı. 
+Son yaşadıklarımızın çıkışı aslında eskilere dayanıyor: İnternetin ilk hayatımıza girmeye başladığında herkese açık olarak ortaya çıkan altyapılar, bize geniş, daha önce hiç farkında olmadığımız bir dünyanın kapılarını açtı. 
 
 Ne var ki bu çok teknik dünyayı kullanmak başta oldukça zordu. İşte bu ilk dönem sonrası, bu dünyada daha rahat hareket etmemizi sağlayacak araçlar, Google ve Facebook gibi devler tarafından önümüze sunuldu. Üstelik de ücretsiz. 
 
@@ -12,7 +12,7 @@ Bu yolda sonun başlangıcı Facebook'un, takip ettiğimiz kişilerden gelen mes
 Sonrasında bu algoritmalar bize kimi ne şekilde isterlerse o şekilde gösterir hale geldiler. Arkadaşlarımızla olan ilişkilerimizde onlardan neyi duyup neyi duymayacağımıza kendileri karar verir hale geldiler. Belki farkında değilsiniz ama, Facebook ya da Twitter'da her arkadaşınızın ya da takip ettiğiniz kişinin mesajını görüyor musun? Hiç sanmıyorum.
 
 ### Geldik günümüze... 
-WhatsApp'ın son kullanıcı hizmet sözleşmesindeki değişiklikleri konuyu tekrar gündeme taşıdı. Yapılan ne kadar haklıdır, WhatsApp ne kadar güçlüdür, başka uygulamalar ile karşılaştırınca durum nedir konularına hiç girmeyeceğim. Eminim bu konu, detaylı olarak WhatsApp gruplarınızda tartışılmış, yapılan incelemeler ve uzman yorumları duyarlı arkadaşlarınız tarafından gruplarınıza 'forward' edilmiştir. 
+WhatsApp'ın son kullanıcı hizmet sözleşmesindeki değişiklikler konuyu tekrar gündeme taşıdı. Yapılan ne kadar haklıdır, WhatsApp ne kadar güçlüdür, başka uygulamalar ile karşılaştırınca durum nedir konularına hiç girmeyeceğim. Eminim bu konu, detaylı olarak WhatsApp gruplarınızda tartışılmış, yapılan incelemeler ve uzman yorumları duyarlı arkadaşlarınız tarafından gruplarınıza iletilmiştir (ya da 'forward' edilmiştir). 
 
 Konunun ortaya çıkması kadar, sonrasında verilen tepkiler daha ilgi çekici aslında. Bir heves ile kurulan WhatsApp alternatifi ağırlıklı Signal ve Telegram'da oluşturulan gruplarda ilk günlerdeki heyecan kalmamış gibi görünüyor. Teknolojik açıdan kendini yeterli hissetmeyen ya da uğraşmak istemeyenlerin WhatsApp'da kalmaya devam etmesi nedeniyle şimdi artık herkes eski gruplarına geri dönüyor gibi görünüyor. 
 
@@ -26,23 +26,25 @@ Bunların bir kısmı haklı argümanlar. Bu nedenle, 'Hayır, her şeyi bırak�
 
 ### Temel sorun nerede?
 
-Temel nedenin ne olduğunu benzer bir başka örnek ile açıklamaya çalışayım: Yukarıdaki söylenenlerin tiryaki arkadaşlarınızın sigarayı neden bırakamadıkları ile ilgili argümanlara ne kadar benzediğini farkettiniz mi? "Zararlı olduğunu biliyorum ama..." ile başlayan "..bırakınca kilo alıyorum", "...stresimi alıyor" ya da  "..bu sayede sosyalleşiyorum" gibi türlü argümana?
+Temel nedeni bir başka örnek ile açıklamaya çalışalım: Yukarıdaki söylenenlerin tiryaki arkadaşlarınızın sigarayı neden bırakamadıkları ile ilgili argümanlara ne kadar benzediğini farkettiniz mi? "Zararlı olduğunu biliyorum ama..." ile başlayan "...bırakınca kilo alıyorum", "...stresimi alıyor" ya da  "...bu sayede sosyalleşiyorum" gibi türlü argümana?
 
-Evet, WhatsApp kullanımının da bir tür bağımlılık olduğunu artık kabul etmemiz gerekiyor. Sosyal medya bağımlılığının ötesinde bir bağımlılık bu. Belki de en tehlikelisi, çünkü bu bir 'platform bağımlılığı'. Teknolojik olarak bir ürüne o kadar bağlı olmak ki, bırakmamak için her tür argümanı yaratmak olarak gösteriyor kendini.  
+**Evet, WhatsApp kullanımının da bir tür bağımlılık olduğunu artık kabul etmemiz gerekiyor. Sosyal medya bağımlılığının ötesinde bir bağımlılık bu. Belki de en tehlikelisi, çünkü bu bir 'platform bağımlılığı'.** Teknolojik olarak bir ürüne o kadar bağlı olmak ki, onu bırakmamak için her tür argümanı yaratmak/inanmak olarak gösteriyor kendini.  
 
-Üstelik işin tehlikeli kısmı, bu tür bağımlılığın zararları konusunda yeterince bilinçli olmamamız. Sigara konusunda, en azından yarattığı tahribatın farkındayız ama içmeye devam ediyoruz. Platform bağımlılığının zararları konuşulmuyor, ayrıca yeni bir tür olduğu için yapılmış araştırma da çok az. O nedenle, bizi konfor alanımızdan çıkmaya zorlayacak bir bilinç de henüz oluşmuş değil. 
+Üstelik işin tehlikeli kısmı, bu tür bağımlılığın zararları konusunda yeterince bilinçli olmamamız. Sigara konusunda, tiryakiler en azından yarattığı tahribatın farkında ama içmeye devam ediyor. Platform bağımlılığının zararları konuşulmuyor, ayrıca yeni bir tür olduğu için yapılmış araştırma da çok az. O nedenle, bizi konfor alanımızdan çıkmaya zorlayacak bir bilinç de henüz oluşmuş değil. 
 
 Burada tehlikenin büyüğünün, uygulama bizi neye zorlarsa zorlasın adeta bir koyun gibi onu kullanmaya devam etmek olduğunu düşünüyorum. Teknolojik olarak bize kolaylık sunmak amacıyla ortaya çıkmış bir ürünün bizi bu kadar kafakola almış olması gerçekten çok ürkütücü. 
 
-### Peki ya çözüm ne?
-Hayır, hepimizin bu konuda bilinçlenmesi, kullandığımız teknolojilerin farkında olması gibi çözümlerden bahsetmeyeceğim. Bunlar haklı, doğru ancak iyi niyetten öteye geçmeyen çözümler. 
+### Peki, çözüm ne?
+Hayır, hepimizin bu konuda bilinçlenmesi, kullandığımız teknolojilerin farkında olması gibi çözümlerden bahsetmeyeceğim. Bunlar haklı ve doğru ancak iyi niyetten öteye geçmeyen çözümler. 
 
-Asıl çözümün, dijital alanda sadece kendimize ait bir kimilikte olduğunu düşüyorum. İsim dahil her tür bilginin bizde olduğu, istediğimiz kısmı istediğimiz kişi ya da platforma verdiğimiz, istediğimiz zaman da geri aldığımız bir kimlik. İstediğimiz kişiler ile bağlantı kurduğumuz ve bu bağlantıları her tür platforma otomatik olarak taşıdığımız platform bağımsız bir kimlik. Bunun çok hayal değil, zaten merkeziyetsiz finans ürünlerini kullananlar, kendi elektronik cüzdanları ile bunun yapılabilir olduğunu görüp bu özgürlüğün tadını çıkarmaya başladılar bile. Bunun daha geniş anlamda dijital dünyada bir kimlik şekline bürünmesinin en fazla bir kaç yıl alacağını düşünüyorum. 
+Asıl çözümün, dijital alanda sadece kendimize ait bir kimlikte olduğunu düşüyorum. İsim dahil her tür bilginin bize ait olduğu, bunların uygun gördüğümüz kısmını istediğimiz kişi ya da platforma verdiğimiz, dilediğimiz zaman da geri alabildiğimiz bir kimlik. Hatta geçmişimizi ya da bağlantılarımızı her tür platforma otomatik olarak taşıyabildiğimiz bir yapı. 
 
-O zaman kadar, bir önceki paragrafta yazdığım bilinçlenmenin devam etmesi için çaba sarfetmek gerekiyor. Son yaşananlar bu anlamda belki de 'Inception' filminde olduğu gibi bir tür bilincin tohumlarını ekti sadece, o da göreceli duyarlı ufak bir topluluğa. Ama olsun, bu da bir ilerlemedir. 
+Bun aslında çok hayal bir dünya değil. Benzer yapıya sahip merkeziyetsiz finans ürünlerini kullananlar, sahip oldukları dijital kimliğe benzer elektronik cüzdanları sayesinde bu özgürlüğün tadını çıkarmaya başladılar bile. Buna benzeri dijital kimliklerin de yakın zaman içinde hayatımıza gireceğini görmek zor değil. 
+
+O zamana kadar, iki paragraf yukarıda yazdığımız bilinçlenmenin devam etmesi için çaba sarfetmek gerekiyor. Son yaşananlar, bu anlamda belki de '[Inception](https://www.imdb.com/title/tt1375666/)' filminde gördüğümüz türden bir bilincin tohumlarını ekti. Etkisi az ya da geçici oldu diye küçümsememek gerek, bu bile başlı başına güzel bir ilerleme. 
 
 | ![inception](/assets/inception.gif)*|
 |:--:| 
 | *Kaynak: [Giphy](http://gph.is/1syOaQ3)
 
-*Not: "Peki bu kadar yazmışsın, sen ne yaptın?" diye soracaklar için: Bu yazımın yayınlanması ile birlikte linki tüm WhatsApp gruplarıma paylaşarak veda edecek ve WhatsApp'ımı kapatacağım.*
+*Not: "Peki, bu kadar yazmışsın, sen ne yaptın?" diye soracaklar için: Yayınlanması ile birlikte bu yazının linkini tüm WhatsApp gruplarım ile paylaşıp onlara veda edecek ve WhatsApp'ımı kapatacağım.*
