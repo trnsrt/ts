@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "DeFi dünyasına girmek için ilk atılacak adımlar neler?"
+date:   2021-01-12 16:47:56 +0300
+categories: Genel
+tags: Yazılar DeFi
+---
 
 
 Günümüz finans dünyasının son yıllarda kullanıcılarına sunduğu olanaklar müthiş. Bir zamanlar, en ufak bir işlem için banka şubesine taşınmamız gerekirken, internet ve mobil araçlar sayesinde artık her işlem elimizin altında saniyeler içinde yapılabiliyor. 
@@ -59,3 +66,14 @@ Bu dünyada kullanıcı, istediği zaman ürüne sahip olur, istediği zaman da 
 
 ### Arkası Yarın
 Bir sonraki yazımızda, cüzdanların çalışma prensiplerine bakalım ki, bunları kullanırken kullanıcıların içi rahat etsin. Daha sonraki yazılarda ise, cüzdan çeşitlerinden yola çıkarak, kullanıcıların DeFi dünyasında yol almasını sağlayacak araçlara teker teker bakmaya başlayacağız...
+
+---
+---
+
+*Not 1: Bu yazı ilk olarak 12 Ocak 2021'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı](https://medium.com/blockchainist-center/defi-d%C3%BCnyas%C4%B1na-girmek-i%CC%87%C3%A7in-i%CC%87lk-at%C4%B1lacak-ad%C4%B1mlar-neler-adbd45547b9)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
+
+
