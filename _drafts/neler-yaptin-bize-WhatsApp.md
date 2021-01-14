@@ -41,7 +41,7 @@ Asıl çözümün, dijital alanda sadece kendimize ait bir kimlikte olduğunu d�
 
 Bun aslında çok hayal bir dünya değil. Benzer yapıya sahip merkeziyetsiz finans ürünlerini kullananlar, sahip oldukları dijital kimliğe benzer elektronik cüzdanları sayesinde bu özgürlüğün tadını çıkarmaya başladılar bile. Buna benzeri dijital kimliklerin de yakın zaman içinde hayatımıza gireceğini görmek zor değil. 
 
-O zamana kadar, iki paragraf yukarıda yazdığımız bilinçlenmenin devam etmesi için çaba sarfetmek gerekiyor. Son yaşananlar, bu anlamda belki de '[Inception](https://www.imdb.com/title/tt1375666/)' filminde gördüğümüz türden bir bilincin tohumlarını ekti. Etkisi az ya da geçici oldu diye küçümsememek gerek, bu bile başlı başına güzel bir ilerleme. 
+O zamana kadar, iki paragraf yukarıda yazdığımız bilinçlenmenin devam etmesi için çaba sarfetmek gerekiyor. Son yaşananlar, bu anlamda belki de '[Inception](https://www.imdb.com/title/tt1375666/)' filminde gördüğümüz türden bir bilincin tohumlarını ekti. Etkisi az ya da geçici oldu diye küçümsememek gerek, bu bile başlı başına güzel bir ilerleme...
 
 | ![inception](/assets/inception.gif)|
 |:--:| 
