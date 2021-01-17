@@ -44,4 +44,5 @@ All is possible, thanks to technology but mainly to blockchain and crypto. This 
 ---
 
 [^1] With public pressure WhatsApp has decided to postpone cut-off date to May 2021.
+
 [^2] US authorities have decided the break-up the telecom monopoly Bell into seven independent Baby Bells in 1984.
