@@ -10,7 +10,7 @@ Millions of reasons but the root cause is simple: We are all addicts. For? Well,
 
 | ![caught_up](/assets/smartphone-3637029_640.jpg)|
 |:--:| 
-| *Image by [Gerd Altmann](https://pixabay.com/users/geralt-9301/) from [Pixabay](https://pixabay.com/) *|
+| *Image by [Gerd Altmann](https://pixabay.com/users/geralt-9301/) from [Pixabay](https://pixabay.com/)*|
 
 Unlike other addictions tough, the worst part is, we are not fully aware of the potential harms. Why? Cyber dependency is a relatively new area with limited research so far. 
 
@@ -31,7 +31,7 @@ I would argue a more radical solution: Fully distribute the power back to users.
 
 | ![seagull](/assets/seagull-5386815_640.jpg)|
 |:--:| 
-| *Image by [Oleg Mityukhin ](https://pixabay.com/users/oleg_mit-16959961/) from [Pixabay](https://pixabay.com/) *|
+| *Image by [Oleg Mityukhin ](https://pixabay.com/users/oleg_mit-16959961/) from [Pixabay](https://pixabay.com/)*|
 
 Well, crypto and DeFi has already shown a path. In DeFi, a user has full control over assets owned via an electronic wallet. All DeFi platforms are just tools to the mean, that is user investing own money without giving up the power.  
 
