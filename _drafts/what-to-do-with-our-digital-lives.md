@@ -7,6 +7,11 @@ I will not argue about the merits of this decision nor which alternative app is 
 
 Millions of reasons but the root cause is simple: We are all addicts. For? Well, the technology but more specifically the platform itself. WhatsApp is ingrained in our skin, so much so that we can come up with any and every excuse not to part ways with it. 
 
+
+| ![caught_up](/assets/smartphone-3637029_640.jpg)|
+|:--:| 
+| *Image by [Gerd Altmann](https://pixabay.com/users/geralt-9301/) from [Pixabay](https://pixabay.com/) *|
+
 Unlike other addictions tough, the worst part is, we are not fully aware of the potential harms. Why? Cyber dependency is a relatively new area with limited research so far. 
 
 ### So what? 
@@ -23,6 +28,10 @@ So is there a cure here? Sure. But first, let's identify the problem:
 Clearly, the problem is power consolidating among few tech giants. So the cure would be distributing this power to others. So, divide them like [they did to Bell in US back in the day](https://en.wikipedia.org/wiki/Breakup_of_the_Bell_System)[^2]? Not sure this would help. Tech is such a dynamic space, it should not take power to consolidate again, among one of the divided parts or even a newcomer in couple of years. 
 
 I would argue a more radical solution: Fully distribute the power back to users. But how?
+
+| ![seagull](/assets/seagull-5386815_640.jpg)|
+|:--:| 
+| *Image by [Oleg Mityukhin ](https://pixabay.com/users/oleg_mit-16959961/) from [Pixabay](https://pixabay.com/) *|
 
 Well, crypto and DeFi has already shown a path. In DeFi, a user has full control over assets owned via an electronic wallet. All DeFi platforms are just tools to the mean, that is user investing own money without giving up the power.  
 
