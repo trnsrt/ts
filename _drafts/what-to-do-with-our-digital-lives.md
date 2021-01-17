@@ -15,7 +15,7 @@ So what to expect in the near future? On a personal level, WhatsApp (and in that
 
 On a global level, this will be another test for big tech vs nation state. The fact that the president of the United States, arguably the most powerful person in the world - who possesses the codes to start a nuclear war - is deplatformed by Twitter is a clear sign of this test. 
 
-Even Jack Dorsey, the CEO of Twitter, [concedes that big tech has too much power(https://twitter.com/jack/status/1349510769268850690). Way too powerful against nation states and clearly against us, the individuals. 
+Even Jack Dorsey, the CEO of Twitter, [concedes that big tech has too much power](https://twitter.com/jack/status/1349510769268850690). Way too powerful against nation states and clearly against us, the individuals. 
 
 ### Do we have any hope?
 So is there a cure here? Sure. But first, let's identify the problem:
