@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "KriptoVeteran - 19 Kasım 2020 Canlı Yayın"
+title:  "KriptoVeteran - 19 Ocak 2021 Canlı Yayın"
 date:   2021-01-19 23:37:15 +0300
 categories: Genel
 tags: videos Etkinlikler
