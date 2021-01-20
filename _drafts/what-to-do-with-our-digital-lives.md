@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "What to do with our digital lives?"
+date:   2021-01-21 17:47:56 +0300
+categories: Genel
+tags: Yazılar, Articles
+---
+
 ### What is going on?
 We just had intense discussions among our social network groups for a week or so. Why? Our beloved messaging app WhatsApp has decided to change its TOS (terms of service) and threatened to end our service if not obliged by Feb 8th[^1]. 
 
