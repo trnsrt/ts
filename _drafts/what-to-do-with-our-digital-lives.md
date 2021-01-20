@@ -38,7 +38,7 @@ Well, crypto and DeFi have already shown a path: In DeFi, a user has full contro
 The same would apply to social media. A fully decentralized digital identity would sort out most of the issues here. Fully controlled by the individual: Would you like to.. use your real name or just a pseudonym? or switch from one platform to the other in seconds? or move your history and connections to the new platform? 
 All should be possible. 
 
-Or even a better solution: Own your identity, history, connections and keep it in a safe place (blockchain?). Give temporary access to platforms and reach your audience instantly and without any restriction. Any problems? Cut the cord and let another platform access your identity/history/connections. That easy. 
+Or even a better solution: Own your identity, history, connections and keep it in a safe place (blockchain?). Give temporary access to platforms and reach your audience instantly and without any restriction. Having problems with a platform? Cut the cord and let another platform access your identity/history/connections. That easy. 
 
 All is possible, thanks to technology but mainly to blockchain and crypto. This is coming. Sooner than you would imagine...
 
