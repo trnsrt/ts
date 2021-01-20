@@ -6,7 +6,7 @@ categories: Genel
 tags: Yazılar, Articles
 ---
 
-WhatsApp decided to gather more data about us and it created a short-lived outcry among our social groups. So, what is next?
+WhatsApp decided to gather more data about us and created a short-lived outcry among our social groups. So, what is next?
 
 ### What is going on?
 We just had intense discussions among our social network groups for a week or so. Why? Our beloved messaging app WhatsApp has decided to change its TOS (terms of service) and threatened to end our service if not obliged by Feb 8th[^1]. 
