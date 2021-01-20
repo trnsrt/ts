@@ -6,7 +6,7 @@ categories: Genel
 tags: videos Etkinlikler
 ---
 
-<img align="left" src="/assets/kriptoveteran_poster_1200.jpg" style="width:40%; padding-right:20px"> Üç değerli kripto ustası [Cemil Şinasi Türün](https://twitter.com/Jetwell), [Erkan Öz](https://twitter.com/_ErkanOz) ve [İsmail Hakkı Polat](https://twitter.com/ismailhpolat)'ın hazırladığı KriptoVeteran programına konuk oldum. Yaklaşık 2 saat süren eğlenceli bir yayında Merkeziyetsiz Finans'ı konuştuk. Yayının [linki burada](https://www.pscp.tv/w/1mnxeakopNnxX). Başta beni programa davet eden Cemil Hoca'ya olmak üzere Erkan Öz, İsmail Hakkı Polat ve [BTC Haber](https://twitter.com/BTCHabercom) ekibine teşekkür ederim. 
+<img align="left" src="/assets/kriptoveteran_poster_1200.jpg" style="width:40%; padding-right:20px"> Üç değerli kripto ustası [Cemil Şinasi Türün](https://twitter.com/Jetwell), [Erkan Öz](https://twitter.com/_ErkanOz) ve [İsmail Hakkı Polat](https://twitter.com/ismailhpolat)'ın hazırladığı KriptoVeteran programına konuk oldum. Yaklaşık 2 saat süren eğlenceli bir yayında Merkeziyetsiz Finans'ı konuştuk. Yayının [linki burada](https://www.pscp.tv/w/1mnxeakopNnxX). Başta beni programa davet eden Cemil Hoca olmak üzere Erkan Öz, İsmail Hakkı Polat ve [BTC Haber](https://twitter.com/BTCHabercom) ekibine teşekkür ederim. 
 &nbsp;
 
 <table><tr><td style="width:50%">
