@@ -3,7 +3,7 @@ We just had intense discussions among our social network groups for a week or so
 
 Let's not argue about the merits of this decision or which alternative app is better (or secure or...). That argument has already been settled: Our friends decided to stay at WhatsApp, whether we like it or not. But why?
 
-### What is the root cause?
+### Tell me more about the root cause...
 
 Millions of reasons but the root cause is simple: **We are all addicts.** For what? Well, the technology but more specifically the platform itself. WhatsApp is ingrained in our skin, so much so that we come up with any and every excuse not to part ways with it. 
 
@@ -48,3 +48,7 @@ All is possible, thanks to technology but mainly to blockchain and crypto. This 
 [^1] With public pressure WhatsApp has decided to postpone cut-off date to May 2021.
 
 [^2] US authorities have decided to break-up Standard Oil into 34 smaller companies 1911 and the telecom monopoly Bell into seven independent Baby Bells in 1984.
+
+---
+*This piece is first published in [BlockchainIST Center](https://medium.com/blockchainist-center) on Jan 21st, 2021.*
+*None of the views expressed in this article should be considered as investment advice*
