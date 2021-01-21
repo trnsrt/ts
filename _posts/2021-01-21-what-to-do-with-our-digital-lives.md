@@ -22,7 +22,7 @@ Millions of reasons but the root cause is simple: **We are all addicts.** For wh
 |:--:| 
 | *Image by [Gerd Altmann](https://pixabay.com/users/geralt-9301/) from [Pixabay](https://pixabay.com/)*|
 
-Unlike other addictions tough, the worst part is, we are not fully aware of the potential harms. Even thought there is some research on technology-dependency, general public awareness is still quite limited. 
+Unlike other addictions tough, the worst part is, we are not fully aware of the potential harms. Even though there is some research on technology-dependency, general public awareness is still quite limited. 
 
 ### So what? 
 
