@@ -47,7 +47,7 @@ Options piyasasındaki oyunculardan Opyn, yukarıda bahsettiğimiz eşten eşe o
 
 Yalnızca kilitli miktar değil ilgi çekici olan. Bu parayı havuzlara kilitleyenlerin aldıkları komisyon gelirleri de üç ay gibi kısa bir sürede ciddi bir rakama ulaştı: 
 
- | ![hegic_revenues](/assets/hegic_revenues.png)|
+ | ![hegic_revenues](/assets/hegic_revenues.PNG)|
 |:--:| 
 | *Hegic 2020 yılı üç aylık gelirler Kaynak:[Messari](https://messari.io/)*|
 
@@ -86,4 +86,4 @@ DeFi dünyası 2020 yılı içinde önündeki engelleri yavaş yavaş aşmaya ba
 
 
 
-Not: Hegic, Opyn ve diğer opsiyon sağlayıcılar ile ilgili daha derin bilgi için [şu Medium yazısına](https://medium.com/coinmonks/a-comparison-of-decentralized-options-platforms-140b1421c71c) ve o makalenin devamı niteliğinde güncellemeler de içeren [şu yazıya](https://medium.com/coinmonks/an-update-of-a-comparison-of-decentralized-options-platforms-91b14d3a6170) göz atabilirsiniz. 
+*Not: Hegic, Opyn ve diğer opsiyon sağlayıcılar ile ilgili daha derin bilgi için [şu Medium yazısına](https://medium.com/coinmonks/a-comparison-of-decentralized-options-platforms-140b1421c71c) ve o makalenin devamı niteliğinde güncellemeler de içeren [şu yazıya](https://medium.com/coinmonks/an-update-of-a-comparison-of-decentralized-options-platforms-91b14d3a6170) göz atabilirsiniz.*
