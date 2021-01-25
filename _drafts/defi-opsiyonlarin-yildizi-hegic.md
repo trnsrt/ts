@@ -33,7 +33,7 @@ DeFi ürünlerinde ise eşten eşe işlem gerçekleştirmek çok zor.  Çünkü,
 
 Kendi merkeziyetsiz kripto borsasında yeterince likidite sağlayamayınca, önce yatırımcılarının koyduğu para ile havuzlar kurdu. Havuzlar likidite sorununa bir parça çözüm oldular ancak büyüklüğü bir türlü istenen seviyelere gelmedi. Sonrasında, Compound'un başlattığı likidite sağlama karşılığı token verme hareketi, likidite sorununu çözme konusunda DeFi platformlara önemli bir eşik atlattı. Benzer modeli Uniswap da uyguladı ve bakın bir yılı aşkın süredir yerlerde sürünen likidite nasıl bir şekil aldı.: 
 
- | ![uniswap_tvl](/assets/uniswap_tvl_v4.png)|
+ | ![uniswap_tvl](/assets/uniswap_tvl_v5.png)|
 |:--:| 
 | *Uniswap için kilitlenen para miktarı Kaynak:[DeFiPulse](https://defipulse.com/)*|
 
