@@ -5,13 +5,14 @@ Bir önceki [yazıda](https://www.btchaber.com/defide-opsiyon-piyasalari/), opsi
 ### Hegic nedir?
 Merkezi olmayan opsiyon borsalarından biri olan [Hegic](https://www.hegic.co) 2020 yılının Şubat ayında [0molly Wintermut3](@0mllwntrmt3) isimli anonim biri ya da birileri tarafından hayata geçirilmiş.
 
-Burayı tekrar etmekte fayda var: Paranızı emanet edeceğiniz bir DeFi platformu ve kurucusu anonim bir 'hesap'. Üstüne üstlük finansal piyasaların en riskli ürünlerinden opsiyon piyasasında faaliyet gösteriyor. Böyle bir platforma paranızı neden yatırasınız ki? 
+Burayı tekrar etmekte fayda var: Paranızı emanet edeceğiniz bir DeFi platformu ve kurucusu anonim bir 'hesap'. Üstüne üstlük finansal piyasaların en riskli ürünlerinden biri olan opsiyon piyasasında faaliyet gösteriyor. Böyle bir platforma paranızı neden yatırasınız ki? 
 
-Birkaç nedeni olabilir aslında: Birincisi, hep söylediğimiz gibi, DeFi'de paranızı birine emanet etmiyorsunuz. Bu platformların çoğunda paranız sizin cüzdanınızda duruyor. 
+Birkaç nedeni olabilir aslında: Birincisi, hep söylediğimiz gibi, DeFi'de paranızı birine emanet etmiyorsunuz. Bu platformların çoğunda paranız sizin cüzdanınızda duruyor.
+Ama eğer likidite sağlıyor iseniz paranızı sisteme kilitliyorsunuz, ki o zaman güvenilir yer konusu daha önemli bir hale geliyor. Oysa burada böyle bir sözüne güveneceğiniz bir şirket, hadi onu geçtik, bir kişi bile yok. Ne var peki? İşte DeFi'nin ikinci kritik özelliği: Biz insanlar duygusal varlıklarız, söz verip yapmayabiliriz. Ama kod için öyle bir durum yok. Kod, eğer düzgün yazılmış ise, ne söylenirse onu yapar.
 
-Ama eğer likidite sağlıyor iseniz paranızı sisteme kilitliyorsunuz, ki o zaman güvenilir yer konusu daha önemli bir hale geliyor. Oysa burada böyle bir sözüne güveneceğiniz bir şirket, hadi onu geçtik, bir kişi bile yok. Ne var peki? İşte DeFi'nin ikinci kritik özelliği: Burada kod eşittir kanun. Biz insanlar duygusal varlıklarız, söz verip yapmayabiliriz. Ama kod için öyle bir durum yok. Kod, eğer düzgün yazılmış ise, ne söylenirse onu yapar. 
+DeFi dünyasında sık kullanılan bir sözü tekrarlayalım: “Burada kod eşittir kanundur”. Hem bu platformları çalıştıran kodlar, hem de platformu kullananların yaptıkları işlemleri gerçekleştiren Akıllı Kontrat dediğimiz yazılımlar herkesin görebileceği şekilde açık. Yani 'bu platform, neyi nasıl yapar?' sorusunun hem açıklaması var, hem de bunu gerçekleştiren kod şeffaf bir şekilde ortada. Biraz kodlamadan anlayan biri bakıp görebilir. 
 
-DeFi dünyasında kod eşittir kanun. Zira hem bu platformların kendileri hem de bu platformu kullananların yaptıkları işlemleri Akıllı Kontrat dediğimiz yazılımlar herkesin görebileceği şekilde açık. Yani 'platform neyi nasıl yapar?' sorusunun hem açıklaması var, hem de bu gerçekleştiren kod şeffaf bir şekilde ortada. Biraz kodlamadan anlayan biri bakıp görür. Ama koddan anlamayan biz kimi faniler için, bu kodların bir çoğunun dış denetlemesi de yapılıyor. İşte böyle bir şeffalığın getirdiği güven, öyle karşınızda gördüğünüz bir kurum ya da kişiye duyacağınızdan çok daha öte. Tam da bu nedenle bu platformlara ciddi paralar konduğunu görüyoruz. 
+Kodlamadan anlamayan biz kimi faniler için, bu yazılımların bir çoğunun dış denetlemesi de yapılıyor bu arada. İşte böyle bir şeffalığın getirdiği güven, öyle karşınızda gördüğünüz bir kurum ya da kişiye duyacağınızdan çok daha öte. Tam da bu nedenle bu platformlara ciddi paralar konduğunu görüyoruz.
 
 Üstelik Hegic platformu, kurulduğu Şubat 2020'den bu yana iki badire de atlatmış durumda. Birincisinde [Nisan 2020'de opsiyon satanlar akıllı kontratın kodunda çıkan bir hatadan dolayı](https://decrypt.co/35038/hegics-molly-wintermute-im-paying-a-high-price-for-the-mainnet-first-approach-to-building) 30,000 ETH değerinde bir rakamın kilitli kalması nedeniyle zarara uğradılar. 0molly Wintermut3, hatayı kabul etti ve yatırımcıları ile birlik olarak [bu kişilerin zararlarını tazmin etti](https://twitter.com/HegicOptions/status/1258889995835842562). 
 
@@ -21,13 +22,15 @@ Deneysel projelerde bu tip problemler oluyor gördüğünüz gibi. Ama sonrasın
 
 ### Nasıl bir sistem kullanıyor Hegic?
 
-Normalde opsiyonlar da, opsiyonu kullanan (alan/tutan) ve satan (yazan) iki parti olur. Bu iki parti, hangi ürünü, ne zaman, kaç paradan alma/satma opsiyonu olacağını ve bu parametreler bazında opsiyonun değerinin ne olacağı konusunda anlaşırlar.  
+Normalde opsiyonlar da, opsiyonu kullanan (alan/tutan) ve satan (yazan) iki parti olur. Bu iki parti, hangi ürünü, ne zaman, hangi fiyattan alma/satma opsiyonu olacağını ve bu parametreler bazında opsiyonun değerinin ne olacağı konusunda anlaşırlar.  
 
 #### Eşten eşe işlem yapmak çok zor. Neden?
 
-Çoğu zaman birbiri ile eşleşen partiler bulmak zor olduğundan, bu işlemi yapan bir kurum, kendine ait parayı kullanarak, opsiyon satın almak isteyenler için karşı parti rolünü üstlenir. Bunu yaparken de, opsiyon fiyatını belirlemek için kompleks modellemeler kullanır, ki günün sonunda kâr elde edebilsin. 
+DeFi ürünlerinde ise eşten eşe işlem gerçekleştirmek çok zor.  Çünkü, bir tavuk-yumurta kısır döngüsüne girme durumunuz var: İnsanlar işlem yapabilmek için opsiyonların makul ücretler ile fiyatlanmasını bekliyorlar. İyi fiyatlama olabilmesi için gerekli en temel girdi ise likidite. Likidite olmayınca insan gelmiyor, insan gelmeyince likidite olmuyor. Bunu aşmanın yolu, başlangıçta tekeri döndürecek bir likidite koymak, bu da bir kapital enjekte etmek ile oluyor. Merkezi bir yapı iseniz bir yerden yatırım alıp bunu koyarsınız ama DeFi ürünleri birer aracılar, kapital tutmuyorlar ve para emaneti almıyorlar. 
 
-DeFi ürünlerinde ise eşten eşe işlem gerçekleştirmek çok zor.  Çünkü, bir tavuk-yumurta kısır döngüsüne girme durumunuz var: İnsanlar işlem yapabilmek için opsiyonların makul ücretler ile fiyatlanmasını bekliyorlar. İyi fiyatlama olabilmesi için gerekli en temel girdi likidite. Zira, ancak likidite olduğunda, yani alım ve satım opsiyonu almak isteyen ile onların istedikleri bu opsiyonu satmayı kabul eden yeteri sayıda ve büyüklükte karşı parti olduğunda, sistem işleyebiliyor. DeFi protokollerde bu tip likiditeyi oluşturmak çok zor. Neden? Çünkü özünde DeFi protokolleri birer aracılar, kapital tutmuyorlar, para emanete almıyorlar. Böyle olunca da insanlar gelmiyorlar. 
+Bu durum opsiyon piyasalarında çok daha belirgin hale geliyor. Çünkü opsiyon bir hisse senedi ya da tokena göre çok daha fazla değişken barındırıyor. Hisse senedinde yalnızca hissenin değeri üzerinden bir alım ya da satım emri veriyorsunuz - tek değişken o. Halbuki opsiyon dediğinizde işin içine vade giriyor. Böyle olunca bir token için bir fiyat üzerinden pazarlık olurken, opsiyonu için değişik vadelerde onlarca farklı fiyat olabiliyor. Eşten eşe işlem yapmaya çalıştığınızda onlarca farklı fiyat için likidite sağlamanın ne kadar zor olabileceğini tahmin edebilirsiniz. 
+
+Yukarıdaki temel sorun nedeniyle DeFi piyasası ürünleri uzunca bir süre ıssız sokaklar gibiydiler. Peki nasıl çözdüler bu problemi? 
 
 #### Ve işte yine geldik DeFi'yi kurtaran havuz modeline... 
 
