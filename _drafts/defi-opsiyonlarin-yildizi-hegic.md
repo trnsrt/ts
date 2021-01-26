@@ -26,9 +26,9 @@ Normalde opsiyonlar da, opsiyonu kullanan (alan/tutan) ve satan (yazan) iki part
 
 #### Eşten eşe işlem yapmak çok zor. Neden?
 
-DeFi ürünlerinde ise eşten eşe işlem gerçekleştirmek çok zor.  Çünkü, bir tavuk-yumurta kısır döngüsüne girme durumunuz var: İnsanlar işlem yapabilmek için opsiyonların makul ücretler ile fiyatlanmasını bekliyorlar. İyi fiyatlama olabilmesi için gerekli en temel girdi ise likidite. Likidite olmayınca insan gelmiyor, insan gelmeyince likidite olmuyor. Bunu aşmanın yolu, başlangıçta tekeri döndürecek bir likidite koymak, bu da bir kapital enjekte etmek ile oluyor. Merkezi bir yapı iseniz bir yerden yatırım alıp bunu koyarsınız ama DeFi ürünleri birer aracılar, kapital tutmuyorlar ve para emaneti almıyorlar. 
+DeFi ürünlerinde ise eşten eşe işlem gerçekleştirmek çok zor.  Çünkü, bir tavuk-yumurta kısır döngüsüne girme durumunuz var: İnsanlar işlem yapabilmek için opsiyonların makul ücretler ile fiyatlanmasını bekliyorlar. İyi fiyatlama olabilmesi için gerekli en temel girdi ise likidite. Likidite olmayınca insan gelmiyor, insan gelmeyince likidite olmuyor. Bunu aşmanın yolu, başlangıçta tekeri döndürecek bir likidite koymak, bu da bir kapital enjekte etmek ile oluyor. Merkezi bir yapı iseniz bir yerden yatırım alıp bunu koyarsınız ama DeFi ürünleri birer aracı; kapital tutmuyorlar ve para emaneti almıyorlar. 
 
-Bu durum opsiyon piyasalarında çok daha belirgin hale geliyor. Çünkü opsiyon bir hisse senedi ya da tokena göre çok daha fazla değişken barındırıyor. Hisse senedinde yalnızca hissenin değeri üzerinden bir alım ya da satım emri veriyorsunuz - tek değişken o. Halbuki opsiyon dediğinizde işin içine vade giriyor. Böyle olunca bir token için bir fiyat üzerinden pazarlık olurken, opsiyonu için değişik vadelerde onlarca farklı fiyat olabiliyor. Eşten eşe işlem yapmaya çalıştığınızda onlarca farklı fiyat için likidite sağlamanın ne kadar zor olabileceğini tahmin edebilirsiniz. 
+Bu durum, opsiyon piyasalarında çok daha belirgin hale geliyor. Çünkü opsiyon bir hisse senedi ya da tokena göre çok daha fazla değişken barındırıyor. Hisse senedinde yalnızca hissenin değeri üzerinden bir alım ya da satım emri veriyorsunuz - tek değişken o. Halbuki opsiyon dediğinizde işin içine vade giriyor. Böyle olunca bir token için bir fiyat üzerinden pazarlık olurken, opsiyonu için değişik vadelerde onlarca farklı fiyat olabiliyor. Eşten eşe işlem yapmaya çalıştığınızda onlarca farklı fiyat için likidite sağlamanın ne kadar zor olabileceğini tahmin edebilirsiniz. 
 
 Yukarıdaki temel sorun nedeniyle DeFi piyasası ürünleri uzunca bir süre ıssız sokaklar gibiydiler. Peki nasıl çözdüler bu problemi? 
 
@@ -36,21 +36,21 @@ Yukarıdaki temel sorun nedeniyle DeFi piyasası ürünleri uzunca bir süre ıs
 
 İşte DeFi piyasaları bu kısır döngüyü "havuz modeli" ile aştılar. Bu havuzların ilk örneklerinden biri Uniswap oldu: 
 
-Kendi merkeziyetsiz kripto borsasında yeterince likidite sağlayamayınca, önce yatırımcılarının koyduğu para ile havuzlar kurdu. Havuzlar likidite sorununa bir parça çözüm oldular ancak büyüklüğü bir türlü istenen seviyelere gelmedi. Sonrasında, Compound'un başlattığı likidite sağlama karşılığı token verme hareketi, likidite sorununu çözme konusunda DeFi platformlara önemli bir eşik atlattı. Benzer modeli Uniswap da uyguladı ve bakın bir yılı aşkın süredir yerlerde sürünen likidite nasıl bir şekil aldı.: 
+Kendi merkeziyetsiz kripto borsasında yeterince likidite sağlayamayınca, önce yatırımcılarının koyduğu para ile havuzlar kurdu. Havuzlar likidite sorununa bir parça çözüm oldular ancak büyüklüğü bir türlü istenen seviyelere ulaşmadı. Sonrasında, Compound'un başlattığı likidite sağlama karşılığı token verme hareketi, likidite sorununu çözme konusunda DeFi platformlara önemli bir eşik atlattı. Benzer modeli Uniswap da uyguladı ve bir yılı aşkın süredir yerlerde sürünen likidite bakın nasıl bir şekil aldı: 
 
  | ![uniswap_tvl](/assets/uniswap_tvl_v5.png)|
 |:--:| 
 | *Uniswap için kilitlenen para miktarı Kaynak:[DeFiPulse](https://defipulse.com/)*|
 
-Token yani teşvik verme başlangıçta "ama bu hormon vermek ile aynı!" şeklinde tepkiler ile karşılaştı. Bu tepkilerde bir parça haklılık payı olduğu Kasım ayında biten token teşviğinin bitmesi ile birlikte TVL'nin ciddi bir şekilde azalmasını getirdi. Ancak birkaç ay içinde bu likidite geri geldi. Yani, arabaya dışarıdan verilen kablo ile sağlanan itici güç, içeride duran atıl gücü çalışır hale getirdi. 
+Token yani teşvik verme başlangıçta "ama bu hormon enjekte etmek ile aynı!" şeklinde tepkiler ile karşılaştı. Bu tepkilerde bir parça haklılık payı olduğu, Kasım ayında  token teşviğinin sona ermesi ile birlikte sisteme kitlenen paranın ciddi bir şekilde azalması ile kendini gösterdi. Ancak birkaç ay içinde bu likidite geri geldi. Yani, arabaya dışarıdan verilen kablo ile sağlanan itici güç, içeride duran atıl gücü çalışır hale getirdi. 
 
-Options piyasasındaki oyunculardan Opyn, yukarıda bahsettiğimiz eşten eşe opsiyonlar ile oyuna başlamışken, Hegic, kendi opsiyon platformunu Uniswap gibi bir havuz şeklinde kurdu. Sonrasında da 2020 Eylül ayı içinde kendi platformuna likidite sağlayanlara yönelik HEGIC token çıkardı. Bu sayede, Hegic üzerindeki kilitli miktar ciddi bir artış kazandı: 
+Opsiyon piyasasındaki oyunculardan Opyn, yukarıda bahsettiğimiz eşten eşe opsiyonlar ile oyuna başlamışken, Hegic, kendi opsiyon platformunu Uniswap gibi bir havuz şeklinde kurdu. Sonrasında da 2020 Eylül ayı içinde kendi platformuna likidite sağlayanlara yönelik HEGIC token çıkardı. Bu sayede, Hegic üzerindeki kilitli miktar ciddi bir artış kazandı: 
 
  | ![hegic_vs_opyn_TVL](/assets/hegic_vs_opyn_tvl_v3.png)|
 |:--:| 
 | *Hegic ve Opyn'da kilitlenen toplam miktar Kaynak:[DeFiPulse](https://defipulse.com/)*|
 
-Yalnızca kilitli miktar değil ilgi çekici olan. Bu parayı havuzlara kilitleyenlerin aldıkları komisyon gelirleri de üç ay gibi kısa bir sürede ciddi bir rakama ulaştı: 
+Hemen dikkatinizi çekmek isterim, Opyn yukarıdaki grafikte yerlede sürünen kırmızı çizgi, yani eşten eşe sistem gerçekten çalışmıyor. Yalnızca kilitli miktar değil ilgi çekici olan. Bu parayı havuzlara kilitleyenlerin aldıkları komisyon gelirleri de üç ay gibi kısa bir sürede ciddi bir rakama ulaştı: 
 
  | ![hegic_revenues](/assets/hegic_revenues.PNG)|
 |:--:| 
@@ -61,9 +61,9 @@ Yalnızca kilitli miktar değil ilgi çekici olan. Bu parayı havuzlara kilitley
 
 Sistemde iki ana aktör var. 
 
-Bunlardan birincisi, opsiyon satın almak isteyenler. Bunlara opsiyon alan/sahip olan (holder) deniyor. Ne satın alıyorlar?  ETH ya da BTC'yi herhangi bir vade için alma (call) ya da satma (put) hakkını. Nereden alıyorlar bu opsiyonu? Kendilerine fiyat veren bir akıllı kontrat var, bu kontratın arkasında da bir havuz (daha önce defalarca örneğini verdiğimiz havuzları hatırlarsınız, hatırlamayanlar [Uniswap](/genel/2020/09/15/nedir-bu-uniswap.html) ve [Synhetix](/genel/2020/08/28/Defi-turev-piyasasi-synthetix-nasil-calisiyor.html) havuzlarına bir göz atabilir dilerlerse). 
+Bunlardan birincisi, opsiyon satın almak isteyenler. Bunlara opsiyon alan/sahip olan (holder) deniyor. Ne satın alıyorlar?  ETH ya da BTC'yi herhangi bir vade için alma (call) ya da satma (put) hakkını. Nereden alıyorlar bu opsiyonu? Kendilerine fiyat veren bir akıllı kontrat var, bu kontratın arkasında da bir havuz (daha önce defalarca örneğini verdiğimiz havuzları hatırlarsınız, hatırlamayanlar dilerlerse [Uniswap](/genel/2020/09/15/nedir-bu-uniswap.html) ve [Synhetix](/genel/2020/08/28/Defi-turev-piyasasi-synthetix-nasil-calisiyor.html) havuzlarına bir göz atabilirler). 
 
-Bu kişiler, akıllı kontratın verdiği fiyatı beğenirler ise, istedikleri opsiyonu yaratıp satın alıyorlar. ([MakerDAO'nun sisteminde kullanıcının kredi yaratması](https://turansert.com/genel/2019/02/15/MakerDAO-kredi-kullaniminda-cigir-acar-mi.html) gibi, ki buna "mint" yani para basmak da deniyor)
+Bu kişiler, akıllı kontratın verdiği fiyatı beğenirler ise, istedikleri opsiyonu yaratıp satın alıyorlar. ([MakerDAO'nun sisteminde kullanıcının kredi yaratması](/genel/2019/02/15/MakerDAO-kredi-kullaniminda-cigir-acar-mi.html) gibi, ki buna "mint" yani para basmak da deniyor)
 
 İkincisi ise, yukarıdaki bu havuza likidite sağlayanlar. Yani, yukarıdaki opsiyonları satanlar, ki onlara da opsiyon yazan/çıkaran (writer) deniyor. Ancak bu kişiler, herhangi bir şekilde opsiyon yazmıyorlar. Yaptıkları sadece bu havuzun suyu olan likiditeyi koymak. Havuza likidite sağlayarak ne kazanç elde ediyorlar? Öncelikle, yukarıdaki satılan opsiyonların ücretlerini kazanıyorlar. Riskleri ise, opsiyonun kullanılması durumunda oluşan zarar...
 
