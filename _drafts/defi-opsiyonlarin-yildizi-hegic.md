@@ -66,11 +66,13 @@ Hemen dikkatinizi çekmek isterim: Opyn yukarıdaki grafikte yerlerde sürünen 
 
 Sistemde iki ana aktör var. 
 
-Bunlardan birincisi, opsiyon satın almak isteyenler. Bunlara opsiyon alan/sahip olan (holder) deniyor. Ne satın alıyorlar?  ETH ya da BTC'yi herhangi bir vade için alma (call) ya da satma (put) hakkını. Nereden alıyorlar bu opsiyonu? Kendilerine fiyat veren bir akıllı kontrat var, bu kontratın arkasında da bir havuz (daha önce defalarca örneğini verdiğimiz havuzları hatırlarsınız, hatırlamayanlar dilerlerse [Uniswap](/genel/2020/09/15/nedir-bu-uniswap.html) ve [Synhetix](/genel/2020/08/28/Defi-turev-piyasasi-synthetix-nasil-calisiyor.html) havuzlarına bir göz atabilirler). 
+Bunlardan birincisi, **opsiyon satın almak isteyenler**. Bunlara opsiyon alan/sahip olan (holder) deniyor. Ne satın alıyorlar?  ETH ya da BTC'yi herhangi bir vade için alma (call) ya da satma (put) hakkını. Nereden alıyorlar bu opsiyonu? Kendilerine fiyat veren bir akıllı kontrat var, bu kontratın arkasında da bir havuz (daha önce defalarca örneğini verdiğimiz havuzları hatırlarsınız, hatırlamayanlar dilerlerse [Uniswap](/genel/2020/09/15/nedir-bu-uniswap.html) ve [Synhetix](/genel/2020/08/28/Defi-turev-piyasasi-synthetix-nasil-calisiyor.html) havuzlarına bir göz atabilirler). 
 
 Bu kişiler, akıllı kontratın verdiği fiyatı beğenirler ise, istedikleri opsiyonu yaratıp satın alıyorlar. ([MakerDAO'nun sisteminde kullanıcının kredi yaratması](/genel/2019/02/15/MakerDAO-kredi-kullaniminda-cigir-acar-mi.html) gibi, ki buna "mint" yani para basmak da deniyor)
 
-İkincisi ise, yukarıdaki bu havuza likidite sağlayanlar. Yani, yukarıdaki opsiyonları satanlar, ki onlara da opsiyon yazan/çıkaran (writer) deniyor. Ancak bu kişiler, herhangi bir şekilde opsiyon yazmıyorlar. Yaptıkları sadece bu havuzun suyu olan likiditeyi koymak. Havuza likidite sağlayarak ne kazanç elde ediyorlar? Öncelikle, yukarıdaki satılan opsiyonların ücretlerini kazanıyorlar. Riskleri ise, opsiyonun kullanılması durumunda oluşan zarar...
+İkincisi ise, yukarıdaki **bu havuza likidite sağlayanlar**. Yani, yukarıdaki opsiyonları satanlar, ki onlara da opsiyon yazan/çıkaran (writer) deniyor. Ancak bu kişiler, herhangi bir şekilde opsiyon yazmıyorlar. Yaptıkları sadece bu havuzun suyu olan likiditeyi koymak. 
+
+Havuza likidite sağlayarak ne kazanç elde ediyorlar? Öncelikle, yukarıdaki satılan opsiyonların ücretlerini kazanıyorlar. Riskleri ise, opsiyonun kullanılması durumunda oluşan zarar...
 
 Özet olarak, opsiyon fiyatları bir algoritma ile belirleniyor. Yukarıdaki birinci grup, opsiyon satın alırken prim ödüyor. Bu primler havuza gidiyor. Opsiyon satın alanlar opsiyonu kullanırlar ise, bunun ödemesini akıllı kontrat havuzdan alarak yapıyor. Havuzda kalan miktar, havuza likidite sağlayanlar arasında bölüşülüyor. 
 
@@ -84,16 +86,15 @@ Birincisi, HEGIC tokenlar sisteme likidite sağlamak için 'rehin' edilebiliyor 
 ### Hegic ve Opyn farkları
 Merkeziyetsiz finans alanında faaliyet gösteren iki büyük oyuncu Hegic ile Opyn arasında birkaç temel fark var:
 
-Öncelikle Hegic, yukarıda da bahsettiğimiz gibi opsiyonların vade tarihine kadar herhangi bir noktada kullanılmasına izin veriyor. Finans piyasasındaki jargonu ile Amerikan opsiyonu yönetimini kullanıyor. Opyn'de ise opsiyonları sadece vade sonunda kullanabiliyorsunuz. Buna ise Avrupa opsiyonu denmekte.  
+Öncelikle Hegic, yukarıda da bahsettiğimiz gibi opsiyonların vade tarihine kadar herhangi bir noktada kullanılmasına izin veriyor. Finans piyasasındaki jargonu ile 'Amerikan opsiyonu' yönetimini kullanıyor. Opyn'de ise opsiyonları sadece vade sonunda kullanabiliyorsunuz. Buna ise 'Avrupa opsiyonu' denmekte.  
 
 Bunun yanında, Opyn havuz kullanmak yerine yukarıda bahsettiğimiz eşten-eşe modelini kullanıyor. Yani, opsiyon satın alanların yanında, opsiyon satanlar (yazanlar) var. Bu çok da pratik bir yöntem değil. Zira, opsiyonun içerdiği pek çok parametreyi (süre, oran, hedef fiyat, opsiyon prim değeri) satıcının belirlemesi gerekiyor. Bu hem zahmetli bir süreç, hem de alıcıların istediği parametreler ile uyumlu olmayabiliyor.
 
-Bu iki temel fark, aslında neden Hegic platformunun daha geç başlamış olsa bile Opyn'e fark attığını anlatmaya yetiyor. Hegic, DeFi dünyasındaki son gelişmeleri yakından takip ederek daha geniş bir kitleye ulaşmış ve likidite anlamında rakibine üstünlük sağlamış görünüyor. 
+Bu iki temel fark, aslında neden Hegic platformunun daha geç başlamış olsa da Opyn'e fark attığını anlatmaya yetiyor. Hegic, DeFi dünyasındaki son gelişmeleri yakından takip ederek daha geniş bir kitleye ulaşmış ve likidite anlamında rakibine üstünlük sağlamış görünüyor. 
 
 ### Sonuç 
 
-DeFi dünyası 2020 yılı içinde önündeki engelleri yavaş yavaş aşmaya başladı.  Bu alana yeni girmiş olan Hegic, merkeziyetsiz finansın takas borsası ya da türev piyasalarındaki platformların geniş kesimlere yayılmak amacıyla kullandığı araçları hızlı bir şekilde sistemine kattı. Bunun sayesinde, yaşadığı türlü badirelere rağmen hızlı bir büyüme gösterdi. Bakalım, 2021 yılı içinde bu büyümeyi devam ettirebilecek mi? Hep birlikte yaşayarak göreceğiz. 
-
+DeFi dünyası 2020 yılı içinde önündeki engelleri yavaş yavaş aşmaya başladı. Bu alana yeni girmiş olan Hegic, merkeziyetsiz takas borsası ya da türev piyasası platformlarının geniş kesimlere yayılmak amacıyla kullandığı araçları hızlı bir şekilde sistemine kattı. Bunun sayesinde, yaşadığı türlü badirelere rağmen hızlı bir büyüme gösterdi. Bakalım, 2021 yılı içinde bu büyümeyi devam ettirebilecek mi? Hep birlikte yaşayarak göreceğiz.
 
 
 *Not: Hegic, Opyn ve diğer opsiyon sağlayıcılar ile ilgili daha derin bilgi için [şu Medium yazısına](https://medium.com/coinmonks/a-comparison-of-decentralized-options-platforms-140b1421c71c) ve o makalenin devamı niteliğinde güncellemeler de içeren [şu yazıya](https://medium.com/coinmonks/an-update-of-a-comparison-of-decentralized-options-platforms-91b14d3a6170) göz atabilirsiniz.*
