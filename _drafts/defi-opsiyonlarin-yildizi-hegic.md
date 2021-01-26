@@ -1,13 +1,13 @@
 DeFi üzerinde küçük ama hızla büyüyen opsiyon platformlarının en büyüğü olan [Hegic](https://www.hegic.co)'e bakıyoruz bu yazımızda... 
 
-Bir önceki [yazıda](https://www.btchaber.com/defide-opsiyon-piyasalari/), opsiyon ne demekti hafızamızı tazelemiş ve bu piyasaların merkeziyetsiz olmasına değinmiştik. Bu yazıda ise şu an için bu alanın en büyüğü Hegic'i inceleyerek, merkeziyetsiz opsiyon piyasaları nasıl çalışıyor, işin detayına gireceğiz. 
+Bir önceki [yazıda](https://www.btchaber.com/defide-opsiyon-piyasalari/), opsiyonun temel özellikleri konusunda hafızamızı tazelemiş ve DeFi opsiyon piyasalarına göz ucuyla bakmıştık. Bu yazıda ise, şu an için bu alanın en büyüğü olan Hegic'i inceleyecek ve merkeziyetsiz opsiyon piyasalarının nasıl çalıştığının detayına gireceğiz.
 
 ### Hegic nedir?
-Merkezi olmayan opsiyon borsalarından biri olan [Hegic](https://www.hegic.co) 2020 yılının Şubat ayında [0molly Wintermut3](@0mllwntrmt3) isimli anonim biri tarafından hayata geçirilmiş.
+Merkezi olmayan opsiyon borsalarından biri olan [Hegic](https://www.hegic.co) 2020 yılının Şubat ayında [0molly Wintermut3](@0mllwntrmt3) isimli anonim biri ya da birileri tarafından hayata geçirilmiş.
 
-Burayı tekrar etmekte fayda var: Paranızı emanet edeceğiniz bir DeFi platformu ve kurucusunun kim olduğunu bile bilmiyorsunuz. Peki neden böyle bir platforma para yatırırsınız? Birkaç nedeni olabilir. 
+Burayı tekrar etmekte fayda var: Paranızı emanet edeceğiniz bir DeFi platformu ve kurucusu anonim bir 'hesap'. Üstüne üstlük finansal piyasaların en riskli ürünlerinden opsiyon piyasasında faaliyet gösteriyor. Böyle bir platforma paranızı neden yatırasınız ki? 
 
-Birincisi, hep söylediğimiz gibi, DeFi'de paranızı birine emanet etmiyorsunuz. Bu platformların çoğunda paranız sizin cüzdanınızda duruyor. Ama eğer likidite sağlıyor iseniz paranızı sisteme kilitliyorsunuz, ki o zaman güvenecek bir yer daha önemli bir hale geliyor.
+Birkaç nedeni olabilir aslında: Birincisi, hep söylediğimiz gibi, DeFi'de paranızı birine emanet etmiyorsunuz. Bu platformların çoğunda paranız sizin cüzdanınızda duruyor. Ama eğer likidite sağlıyor iseniz paranızı sisteme kilitliyorsunuz, ki o zaman güvenecek bir yer daha önemli bir hale geliyor.
 
 Ama burada böyle bir sözüne güveneceğiniz bir şirket hadi onu geçtim bir kişi bile yok. Ne var peki? DeFi'nin ikinci kritik özelliğine geliyoruz: Burada kod kanun. Ve kod aynı kanunlar gibi herkese açık. Platform ne yapar, nasıl yapar, hem açıklaması var, hem de bunu gerçekleştiren kod bir başka deyişle akıllı kontratların içi herkese açık. Bunu denetleyenler var gayet tabii ama herhangi bir kullanıcı da içini açıp bakabilir. Bunun getirdiği güven, öyle karşınızda gördüğünüz kurum ya da kişiden çok daha öte. İşte bu nedenle bu platformlara ciddi paralar konuyor. 
 
