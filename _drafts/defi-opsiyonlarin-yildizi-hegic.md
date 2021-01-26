@@ -7,9 +7,9 @@ Merkezi olmayan opsiyon borsalarından biri olan [Hegic](https://www.hegic.co) 2
 
 Burayı tekrar etmekte fayda var: Paranızı emanet edeceğiniz bir DeFi platformu ve kurucusu anonim bir 'hesap'. Üstüne üstlük finansal piyasaların en riskli ürünlerinden opsiyon piyasasında faaliyet gösteriyor. Böyle bir platforma paranızı neden yatırasınız ki? 
 
-Birkaç nedeni olabilir aslında: Birincisi, hep söylediğimiz gibi, DeFi'de paranızı birine emanet etmiyorsunuz. Bu platformların çoğunda paranız sizin cüzdanınızda duruyor. Ama eğer likidite sağlıyor iseniz paranızı sisteme kilitliyorsunuz, ki o zaman güvenecek bir yer daha önemli bir hale geliyor.
+Birkaç nedeni olabilir aslında: Birincisi, hep söylediğimiz gibi, DeFi'de paranızı birine emanet etmiyorsunuz. Bu platformların çoğunda paranız sizin cüzdanınızda duruyor. 
 
-Ama burada böyle bir sözüne güveneceğiniz bir şirket, hadi onu geçtik, bir kişi bile yok. Ne var peki? İşte DeFi'nin ikinci kritik özelliği: Burada kod eşittir kanun. Biz insanlar duygusal varlıklarız, söz verip yapmayabiliriz. Ama kod için öyle bir durum yok. Kod, eğer düzgün yazılmış ise, ne söylenirse onu yapar. 
+Ama eğer likidite sağlıyor iseniz paranızı sisteme kilitliyorsunuz, ki o zaman güvenilir yer konusu daha önemli bir hale geliyor. Oysa burada böyle bir sözüne güveneceğiniz bir şirket, hadi onu geçtik, bir kişi bile yok. Ne var peki? İşte DeFi'nin ikinci kritik özelliği: Burada kod eşittir kanun. Biz insanlar duygusal varlıklarız, söz verip yapmayabiliriz. Ama kod için öyle bir durum yok. Kod, eğer düzgün yazılmış ise, ne söylenirse onu yapar. 
 
 DeFi dünyasında kod eşittir kanun. Zira hem bu platformların kendileri hem de bu platformu kullananların yaptıkları işlemleri Akıllı Kontrat dediğimiz yazılımlar herkesin görebileceği şekilde açık. Yani 'platform neyi nasıl yapar?' sorusunun hem açıklaması var, hem de bu gerçekleştiren kod şeffaf bir şekilde ortada. Biraz kodlamadan anlayan biri bakıp görür. Ama koddan anlamayan biz kimi faniler için, bu kodların bir çoğunun dış denetlemesi de yapılıyor. İşte böyle bir şeffalığın getirdiği güven, öyle karşınızda gördüğünüz bir kurum ya da kişiye duyacağınızdan çok daha öte. Tam da bu nedenle bu platformlara ciddi paralar konduğunu görüyoruz. 
 
