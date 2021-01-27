@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "DeFi opsiyon piyasalarının lideri Hegic"
+date:   2021-01-26 17:47:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
 DeFi üzerinde küçük ama hızla büyüyen opsiyon platformlarının en büyüğü olan [Hegic](https://www.hegic.co)'e bakıyoruz bu yazımızda... 
 
 Bir önceki [yazıda](/genel/2021/01/05/defi-opsiyon-piyasalari.html), opsiyonun temel özellikleri konusunda hafızamızı tazelemiş ve DeFi opsiyon piyasalarına göz ucuyla bakmıştık. Bu yazıda ise, şu an için bu alanın en büyüğü olan Hegic'i inceleyecek ve merkeziyetsiz opsiyon piyasalarının nasıl çalıştığının detayına gireceğiz.
@@ -98,3 +106,11 @@ DeFi dünyası 2020 yılı içinde önündeki engelleri yavaş yavaş aşmaya ba
 
 
 *Not: Hegic, Opyn ve diğer opsiyon sağlayıcılar ile ilgili daha derin bilgi için [şu Medium yazısına](https://medium.com/coinmonks/a-comparison-of-decentralized-options-platforms-140b1421c71c) ve o makalenin devamı niteliğinde güncellemeler de içeren [şu yazıya](https://medium.com/coinmonks/an-update-of-a-comparison-of-decentralized-options-platforms-91b14d3a6170) göz atabilirsiniz.*
+
+---
+
+*Not 1: Bu yazı ilk olarak 26 Ocak 2021'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/defi-opsiyon-piyasalarinin-lideri-hegic/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
