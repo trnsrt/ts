@@ -46,6 +46,7 @@ permalink: /articles/
   - [DeFi'nin bilgi kaynağı oracle](https://turansert.com/genel/2020/12/22/definin-bilgi-kaynagi-oracle.html)
   - [Oracle dünyasının lideri Chainlink](/genel/2020/12/29/oraclein-lideri-chainlink.html)
   - [DeFi'da opsiyon piyasaları](/genel/2021/01/05/defi-opsiyon-piyasalar%C4%B1.html)
+  - [DeFi opsiyon piyasalarının lideri Hegic](/genel/2021/01/26/defi-opsiyon-piyasalarinin-lideri-hegic.html)
 
 
 - Blockchain bazlı teknolojilerin girişimcilik ve yatırımcılık ekosistemlerini nasıl değiştirdiğini merak ediyorsanız
