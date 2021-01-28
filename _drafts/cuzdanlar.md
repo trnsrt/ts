@@ -1,26 +1,26 @@
 # Yazı I: Elektronik Cüzdan ile DeFi'ye Adım Atmak
 
-Cüzdanlar DeFi dünyasına girişin ilk adımı. Gelin bu yazımızda elektronik cüzdan ne demek, neler kritik, nasıl cüzdan sahibi oluruz ve cüzdanlar ne kadar güvenli sorularına yanıt arayalım:  
+Cüzdanlar DeFi dünyasına girişin ilk adımı. Gelin bu yazımızda elektronik cüzdan ne demek, nasıl cüzdan sahibi oluruz ve cüzdanlar ne kadar güvenli sorularına yanıt arayalım:  
 
-Geçtiğimiz yazıda DeFi dünyasında ilk girişte atılacak adımlardan bahsetmiştik. DeFi'nin tamamen dijital bir dünya olması nedeniyle bu dünyaya giriş için elde kripto para olması gerektiğini söylemiştik. Herhangi bir kripto para borsasından satın alınan paranın borsada kullanıcı adına tutulduğunu ve bu paraya tam sahipliğin bu paranın kripto hesabından kullanıcının kendine ait elektronik cüzdana çekilmesi ile gerçekleşeceğini de eklemiştik. 
+Geçtiğimiz yazıda DeFi dünyasında ilk girişte atılacak adımlardan bahsetmiştik. DeFi'nin tamamen dijital olması nedeniyle bu dünyaya giriş için elde kripto para olması gerektiğini söylemiştik. Herhangi bir kripto para borsasından satın alınan paranın borsada kullanıcı adına tutulduğunu ve bu paraya tam sahipliğin bu paranın kripto hesabından kullanıcının kendine ait elektronik cüzdana çekilmesi ile gerçekleşeceğini de eklemiştik. 
 
 ### Nedir bu elektronik cüzdan?
 
-Evet, kripto cüzdan ya da elektronik cüzdan kişinin kripto dünyasından hür bir şekilde gezebilmesi ve kendini güçlü hissedebilmesi için elindeki en büyük araç. 
+Evet, kripto cüzdan ya da elektronik cüzdan kişinin kripto dünyasında hür bir şekilde gezebilmesi ve varlıkların kontrolünü kendinde hissedebilmesi için elindeki en büyük araç. 
 
-Öncelikle cüzdan dediğimiz 'şeyin' aslında bir email adresinden farksız olduğunu tekrar hatırlatalım. Kripto dünyasında değer, sahiplik olarak da adlandırabileceğimiz her tür bilgi blokzincir üzerinde saklanır. Cüzdan ise blokzincir üzerindeki bu bilgi ya da varlığını bize ait olduğunu kanıtlayan, bir nevi blokzincir ile kullanıcı arasında köprü vazife gören bir araç aslında. 
+Öncelikle cüzdan dediğimiz 'şeyin' aslında bir email adresinden farksız olduğunu tekrar hatırlatalım. Kripto dünyasında değer, sahiplik olarak da adlandırabileceğimiz her tür bilgi blokzincir üzerinde saklanır. Cüzdan ise blokzincir üzerindeki bu bilgi ya da varlığın bize ait olduğunu kanıtlayan, bir nevi blokzincir ile kullanıcı arasında köprü vazifesi gören bir araç aslında. 
 
-### Kritik olan cüzdan değil tohum sözcük gurubu
+### Kritik olan cüzdan değil tohum sözcük grubu
 
-Bu nedenle, cüzdan sahibi olmak ne kadar önemli olsa da, asıl kritik olan bu cüzdan üzerinde saklanan bize ait kritik bilgiler. Bu kritik bilginin adına ise Özel Anahtar diyor. Bu anahtara ait bilgilieri kaybetmemek ve kimse ile paylaşmamak kullanıcı için en kritik olanı. 
+Bu nedenle, cüzdan sahibi olmak ne kadar önemli olsa da, asıl kritik olan bu cüzdan üzerinde saklanan bize ait bilgiler. Kimse görmemesi için şifreli olarak saklanan bu bilgileri açmak sadece Özel Anahtar ile mümkün. Bu anahtara ait bilgileri kaybetmemek ve kimse ile paylaşmamak kullanıcı için son derece önemli. 
 
-Kullanıcı kolaylığı gözetilerek bu kritik bilgiler nispeten kolaylaştırılmış aslında. Genelde 12 ya da 24 adet kelimeden oluşuyor şeklinde düşünülebilir Özel Anahtar. İngilizce bir sözlükte bulunabilecek sözcüklerden oluşan bu kelimeler bütününe seed phrase deniyor (ya da recovery phrase, seed recovery, backup phrase gibi farklı adlandırmaları da var). Türkçeye 'tohum sözcük grubu' şeklinde çevirirsek yanlış olmaz. 
+Kullanıcı kolaylığı olması açısından bu anahtara ait parola nispeten kolay bir hale getirilmiş: Özel Anahtarı genelde 12 ya da 24 adet kelimeli bir parolaya sahipmiş gibi düşünebilirsiniz. İngilizce bir sözlükten seçilen bu kelimelere bir bütün halinde 'seed phrase' deniyor (recovery phrase, seed recovery, backup phrase gibi farklı adlandırmaları da var). Türkçeye 'tohum sözcük grubu' şeklinde çevirirsek yanlış olmaz. 
 
-Bu sözcük grubu elinizin altında olduğu sürece istediğiniz elektronik cüzdan üzerinden blokzincirdeki varlığınıza ulaşabilirsiniz. Konuya başlamadan bunu bilmekte fayda var. 
+Bu sözcük grubu elinizin altında olduğu sürece istediğiniz elektronik cüzdan üzerinden blokzincirdeki varlığınıza ulaşabilirsiniz. Dolayısıyla tek bir elektronik cüzdana bağlı değilsiniz, yeter ki bu kelime grubunu kaybetmeyin. Konuya başlamadan bunu bilmekte fayda var. 
 
 ### Peki nasıl sahip oluyoruz bu cüzdanlara? 
 
-Cüzdanların farklı şekilleri var. Genel olarak dört farklı cüzdan çeşidi sayabiliriz. Bunlar
+Cüzdanların farklı şekilleri var. Genel olarak beş farklı cüzdan çeşidi sayabiliriz. Bunlar:
 - Web sitesi üzerinden
 - Mobil uygulama ile
 - Bilgisayar yazılımı ile
@@ -28,9 +28,9 @@ Cüzdanların farklı şekilleri var. Genel olarak dört farklı cüzdan çeşid
 - Kağıt kalem ile
 
 ###  Cüzdanlar güvenli mi?
-Öncelikle şunu belirtmekte fayda var: Güvenlik göreceli bir konu. Fiziki güvenlik gibi dijital güvenliğin de katmanları var. Bir sonraki yazımızda farklı cüzdanlara baktığımızda hangisi daha güvenli ona da bakacağız. Bir yandan da güvenlik ile kullanım rahatlığı arasında bazen bir taraf öbürüne daha ağır basabiliyor, bunu da hesaba katmakta fayda var. 
+Öncelikle şunu belirtmekte fayda var: Güvenlik göreceli bir konu. Fiziki güvenlik gibi dijital güvenliğin de katmanları var. Bir sonraki yazımızda farklı cüzdanlara baktığımızda hangisi daha güvenli ona da bakacağız. Bir yandan da güvenlik ile kullanım rahatlığı arasında bazen bir taraf öbürüne göre daha ağır basabiliyor, bunu da hesaba katmakta fayda var. 
 
-Kripto dünyası yukarıda bahsettiğimiz çelişkiyi gidermek için son yıllarda önemli adımlar attı. Artık hem güvenli hem de kullanışlı ürünler bulmak mümkün. Cüzdan seçimi oldukça kişisel tercihler (güvenlik ya da rahatlık anlamında) içerdiği için buradan bir tavsiye vermeyeceğiz. Ancak sonraki yazılarımızda sık kullanılan bir kaç cüzdan örneği olacak - bunları daha bir gönül rahatlığı içinde kullanabilirsiniz. 
+Kripto dünyası yukarıda bahsettiğimiz çelişkiyi gidermek için son yıllarda önemli adımlar attı. Artık hem güvenli hem de kullanışlı ürünler bulmak mümkün. Cüzdan seçimi oldukça kişisel tercih (güvenlik ya da pratikliğin seçilmesi anlamında) içerdiği için buradan bir tavsiye vermeyeceğiz. Ancak sonraki yazılarımızda sık kullanılan bir kaç cüzdan örneği olacak - bunları daha bir gönül rahatlığı içinde kullanabilirsiniz. 
 
 Genel olarak bu alanda güvenlik alanında standartlar oturmaya başlamış durumda. O nedenle geniş kesimlere yayılmış, örneğin mobil uygulama olarak milyonlarca indirilmiş cüzdanların nispeten daha güvenli olduğunu düşünebilirsiniz. 
 
