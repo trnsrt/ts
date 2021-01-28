@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "DeFi opsiyon piyasalarının lideri Hegic"
-date:   2021-01-26 17:47:56 +0300
+title:  "Elektronik cüzdan ile DeFi'ye adım atmak "
+date:   2021-01-28 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, DeFi'ye Giriş
 ---
@@ -9,6 +9,10 @@ tags: Yazılar, DeFi, DeFi'ye Giriş
 Cüzdanlar DeFi dünyasına girişin ilk adımı. Gelin bu yazımızda elektronik cüzdan ne demek, nasıl cüzdan sahibi oluruz ve cüzdanlar ne kadar güvenli sorularına yanıt arayalım:  
 
 Geçtiğimiz yazıda DeFi dünyasında ilk girişte atılacak adımlardan bahsetmiştik. DeFi'nin tamamen dijital olması nedeniyle bu dünyaya giriş için elde kripto para olması gerektiğini söylemiştik. Herhangi bir kripto para borsasından satın alınan paranın borsada kullanıcı adına tutulduğunu ve bu paraya tam sahipliğin bu paranın kripto hesabından kullanıcının kendine ait elektronik cüzdana çekilmesi ile gerçekleşeceğini de eklemiştik. 
+
+| ![e-wallet](/assets/electronic-4433604_640.jpg)|
+|:--:| 
+| *Image by [mohamed Hassan](https://pixabay.com/users/mohamed_hassan-5229782) from [Pixabay](https://pixabay.com/)*|
 
 ### Nedir bu elektronik cüzdan?
 
