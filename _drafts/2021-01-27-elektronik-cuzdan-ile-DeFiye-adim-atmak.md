@@ -24,7 +24,7 @@ Evet, kripto cüzdan ya da elektronik cüzdan kişinin kripto dünyasında hür 
 
 Bu nedenle, cüzdan sahibi olmak ne kadar önemli olsa da, asıl kritik olan bu cüzdan üzerinde saklanan bize ait bilgiler. Kimse görmemesi için şifreli olarak saklanan bu bilgileri açmak sadece Özel Anahtar ile mümkün. Bu anahtara ait bilgileri kaybetmemek ve kimse ile paylaşmamak kullanıcı için son derece önemli. 
 
-Kullanıcı kolaylığı olması açısından bu anahtara ait parola nispeten kolay bir hale getirilmiş: Özel Anahtarı genelde 12 ya da 24 adet kelimeli bir parolaya sahipmiş gibi düşünebilirsiniz. İngilizce bir sözlükten seçilen bu kelimelere bir bütün halinde 'seed phrase' deniyor (recovery phrase, seed recovery, backup phrase gibi farklı adlandırmaları da var). Türkçeye 'tohum sözcük grubu' şeklinde çevirirsek yanlış olmaz. 
+Bu arada kullanıcı kolaylığı olması açısından anahtar nispeten basitleştirilmiş: Özel Anahtarı genelde 12 ya da 24 kelimeli bir parola gibi düşünebilirsiniz. İngilizce bir sözlükten seçilen bu kelimelere bir bütün halinde 'seed phrase' deniyor (recovery phrase, seed recovery, backup phrase gibi farklı adlandırmaları da var). Türkçeye 'tohum sözcük grubu' şeklinde çevirirsek yanlış olmaz. 
 
 Bu sözcük grubu elinizin altında olduğu sürece istediğiniz elektronik cüzdan üzerinden blokzincirdeki varlığınıza ulaşabilirsiniz. Dolayısıyla tek bir elektronik cüzdana bağlı değilsiniz, yeter ki bu kelime grubunu kaybetmeyin. Konuya başlamadan bunu bilmekte fayda var. 
 
@@ -42,7 +42,7 @@ Cüzdanların farklı şekilleri var. Genel olarak beş farklı cüzdan çeşidi
 
 Kripto dünyası yukarıda bahsettiğimiz çelişkiyi gidermek için son yıllarda önemli adımlar attı. Artık hem güvenli hem de kullanışlı ürünler bulmak mümkün. Cüzdan seçimi oldukça kişisel tercih (güvenlik ya da pratikliğin seçilmesi anlamında) içerdiği için buradan bir tavsiye vermeyeceğiz. Ancak sonraki yazılarımızda sık kullanılan bir kaç cüzdan örneği olacak - bunları daha bir gönül rahatlığı içinde kullanabilirsiniz. 
 
-Genel olarak bu alanda güvenlik alanında standartlar oturmaya başlamış durumda. O nedenle geniş kesimlere yayılmış, örneğin mobil uygulama olarak milyonlarca indirilmiş cüzdanların nispeten daha güvenli olduğunu düşünebilirsiniz. 
+Genel olarak güvenlik alanında standartlar oturmaya başlamış durumda. O nedenle geniş kesimlere yayılmış, örneğin mobil uygulama olarak milyonlarca indirilmiş cüzdanların nispeten daha güvenli olduğunu düşünebilirsiniz. 
 
 ### Arkası yarın
 
