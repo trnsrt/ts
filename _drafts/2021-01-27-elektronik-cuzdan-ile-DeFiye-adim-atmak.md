@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Elektronik cüzdan ile DeFi'ye adım atmak "
-date:   2021-01-28 17:47:56 +0300
+date:   2021-01-30 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, DeFi'ye Giriş
 ---
@@ -50,7 +50,7 @@ Cüzdanlar DeFİ dünyasına giriş için oldukça önemli.  Yazımız uzadığ�
 
 ---
 
-*Not 1: Bu yazı ilk olarak 28 Ocak 2021'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı](https://medium.com/blockchainist-center/defi-d%C3%BCnyas%C4%B1na-girmek-i%CC%87%C3%A7in-i%CC%87lk-at%C4%B1lacak-ad%C4%B1mlar-neler-adbd45547b9)*
+*Not 1: Bu yazı ilk olarak 30 Ocak 2021'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı](https://medium.com/blockchainist-center/elektronik-c%C3%BCzdan-ile-defi-d%C3%BCnyas%C4%B1na-ad%C4%B1m-atmak-ccab4042c2f6)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
