@@ -1,16 +1,9 @@
 Traditional finance is going through difficult times: Haunted by its own past it is failing to adopt to changing customer demands. What are key problems they are facing? How would DeFi address them?
 
-My last post was about digital identities. In summary: Tech giants are getting more and more powerful everyday posing a thread to privacy and in essence to freedom. Solution: Give power back to individuals. How? A decentralized model, where the users fully own and control their digital identity. 
+My last post was about digital identities. In summary: Tech giants are getting more and more powerful everyday posing a threat to privacy and in essence to freedom. Solution: Give power back to individuals. How? A decentralized model, where the users fully own and control their digital identity. 
 
-The question is: Is it possible to apply the same logic to other parts of our digital lives?
+The question is: Is it possible to apply the same logic to other parts of our digital lives? Let's say finance?
 
-
-
-## Introducing DeFi
-
-This is actually what DeFi (decentralized finance) has been trying to bring to the table. As the main use case of blockchain technologies in financial sector, DeFi focuses on giving the power back to individuals. 
-
-Why do we need blockchain technologies in finance? Let's have a closer look:
 
 ## How have financial players fared along so far?
 
@@ -23,6 +16,12 @@ All great - as long as you adopt to digital life and customers needs. This is wh
 ## What is the problem here?
 
 As life becomes extremely fast in digital world, these institutions stuck in 20th century, with slow archaic technology. They became so big that they are swamped with their own bureaucracy. They kept operating in silos, not a bank's system speaking to another. Regulations did not help either: Bank activities are limited to 9am to 5pm with no weekends. They are only allowed to accept 'eligible' individuals as customers - which resulted in exclusion of 1.7 people globally according to World Bank.. 
+
+## Introducing DeFi
+
+This is actually what DeFi (decentralized finance) has been trying to bring to the table. As the main use case of blockchain technologies in financial sector, DeFi focuses on giving the power back to individuals. 
+
+Why do we need blockchain technologies in finance? Let's have a closer look:
 
 ## How does DeFi address these problems?
 
