@@ -7,7 +7,7 @@ The question is: Is it possible to apply the same logic to other parts of our di
 
 ## How have financial players fared along so far?
 
-Finance as we know it now is a legacy from old times. By old times I mean mainly from 20th century. 
+Finance as we know it today is founded in pre-digital times.  is a legacy from old times. By old times I mean mainly from 20th century. 
 
 While transitioning to digital world, legacy financial systems were the real winners. Why? First of all, economic activity has boomed thanks to digital economy. This, by itself is a source of major growth but even more to the story: A financial intermediary, in essence,  brings 'trust' to relations between parties, an essential piece in financial transactions. With digital economy where parties do not necessarily know or even see each other, the need for trust has grown even bigger. As a result, financial institutions have enjoyed a much higher growth in revenues, profits and market capitalization. 
 
