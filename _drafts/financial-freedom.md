@@ -1,6 +1,6 @@
 Traditional finance is going through difficult times: Haunted by its own past it is failing to adopt to changing customer demands. What are key problems they are facing? How would DeFi address them?
 
-Our last post was about digital identities. In summary: Tech giants are getting more and more powerful everyday posing a threat to privacy and in essence to freedom. Solution: Give power back to individuals. How? A decentralized model, where the users fully own and control their digital identity. 
+Our last post was about digital identities. *Summary:* Tech giants are getting more and more powerful everyday posing a threat to privacy and in essence to freedom. *Solution:* Give power back to individuals. How? A decentralized model, where the users fully own and control their digital identity. 
 
 The question is: Is it possible to apply the same solution to other parts of our digital lives? Let's say finance?
 
@@ -44,7 +44,7 @@ As there is a certain standard among platforms, it is possible to add platforms 
 
 **Inclusive**: Any one can access to DeFi platforms. The only prerequisite is an internet connection. Any eligibility criteria used by legacy institutions is totally irrelevant in this new digital world. A novel approach to bring 'banking the unbankable' buzzword into life.
 
-**Open source** : Another key element of DeFi is openness. All the source codes used in DeFi platform are open to public. This brings a significant amount of transparency. Rather than trusting the institutions and their employees that they act honestly, all that is required is to review the code (or "trust the code" as they say in DeFi).
+**Open source**: Another key element of DeFi is openness. All the source codes used in DeFi platform are open to public. This brings a significant amount of transparency. Rather than trusting the institutions and their employees that they act honestly, all that is required is to review the code (or "trust the code" as they say in DeFi).
 
 Building on the above principles DeFi has a solid starting point. But how do they help individuals? We will look at various uses cases and benefits in our next post. 
 
