@@ -8,13 +8,13 @@ The question is: Is it possible to apply the same solution to other parts of our
 
 Traditional finance has been around since ancient times, and by that I mean pre-digital times. While transitioning to digital world, legacy financial systems emerged as the real winners. Why? First of all, commercial activity has boomed thanks to digitalization. As its identical twin, financial activity has also expanded significantly.  However there is more to the story: 
 
-Digital life came with many perks, such as speed, ease of use, accessibility and so on. However with one key catch: The two sides do not see or even know each other in a digital transaction. So how to trust the other side? The need for trust (or better a trusted intermediary) has grown enormously with the new digital era. 
+Digital life came with many perks, such as speed, ease of use, accessibility and so on. However there is also one key catch: The two sides do not see or even know each other in a digital transaction. So how to trust to the other side? The need for trust - or better word 'a trusted intermediary' - has grown enormously with the new digital era. 
 
-A financial intermediary, in essence,  brings 'trust' to relations between parties, an essential piece in financial transactions. As a result, financial institutions have enjoyed a much higher growth in revenues, profits and market capitalization. 
+A financial intermediary, in essence,  brings 'trust' to the table in a transaction. Having dutifully performed this core function, financial institutions have enjoyed a much higher growth in revenues, profits and market capitalization. 
 
-All great - as long as you adopt to digital life and customers needs. This is where financial institutions failed to meet these expectations. 
+All great, but digital life means speed and constant change. This is where financial institutions failed: meet changing customer demands.
 
-## What is the problem here?
+## So, what is the issue here?
 
 As life becomes extremely fast in digital world, these institutions stuck in 20th century, with slow archaic technology. They became so big that they are swamped with their own bureaucracy. They kept operating in silos, not a bank's system speaking to another. Regulations did not help either: Bank activities are limited to 9am to 5pm with no weekends. They are only allowed to accept 'eligible' individuals as customers - which resulted in exclusion of 1.7 people globally according to World Bank.. 
 
