@@ -1,6 +1,18 @@
+---
+layout: post
+title:  "What to do with our digital lives?"
+date:   2021-02-06 17:47:56 +0300
+categories: Genel
+tags: Yazılar, Articles
+---
+
 Traditional finance is going through difficult times: Haunted by its own past it is failing to adopt to changing customer demands. What are key problems they are facing? How would DeFi address them?
 
 Our last post was about digital identities. *Summary:* Tech giants are getting more and more powerful everyday posing a threat to privacy and in essence to freedom. *Solution:* Give power back to individuals. How? A decentralized model, where the users fully own and control their digital identity. 
+
+| ![freedom](/assets/girl-2940655_800.jpg)|
+|:--:| 
+| *Image by [Myriams-Fotos](https://pixabay.com/users/myriams-fotos-1627417/) from [Pixabay](https://pixabay.com/)*|
 
 The question is: Is it possible to apply the same solution to other parts of our digital lives? Let's say finance?
 
@@ -51,3 +63,7 @@ Building on the above principles DeFi has a solid starting point. But how do the
 ### Last word... 
 
 Let's finish with what we said in previous post: All is possible, thanks to technology but mainly to blockchain and crypto. This is coming. Sooner than you would imagine...
+
+---
+*This piece is first published in [BlockchainIST Center](https://medium.com/blockchainist-center) on Jan 21st, 2021.*
+*None of the views expressed in this article should be considered as investment advice*
