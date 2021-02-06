@@ -2,14 +2,15 @@ Traditional finance is going through difficult times: Haunted by its own past it
 
 My last post was about digital identities. In summary: Tech giants are getting more and more powerful everyday posing a threat to privacy and in essence to freedom. Solution: Give power back to individuals. How? A decentralized model, where the users fully own and control their digital identity. 
 
-The question is: Is it possible to apply the same logic to other parts of our digital lives? Let's say finance?
-
+The question is: Is it possible to apply the same solution to other parts of our digital lives? Let's say finance?
 
 ## How have financial players fared along so far?
 
-Finance as we know it today is founded in pre-digital times.  is a legacy from old times. By old times I mean mainly from 20th century. 
+Traditional finance has been around since ancient times, and by that I mean pre-digital times. This 
 
-While transitioning to digital world, legacy financial systems were the real winners. Why? First of all, economic activity has boomed thanks to digital economy. This, by itself is a source of major growth but even more to the story: A financial intermediary, in essence,  brings 'trust' to relations between parties, an essential piece in financial transactions. With digital economy where parties do not necessarily know or even see each other, the need for trust has grown even bigger. As a result, financial institutions have enjoyed a much higher growth in revenues, profits and market capitalization. 
+While transitioning to digital world, legacy financial systems emerged as the real winners. Why? First of all, economic activity has boomed thanks to digital economy. This, by itself is a source of major growth but even more to the story: 
+
+A financial intermediary, in essence,  brings 'trust' to relations between parties, an essential piece in financial transactions. With digital economy where parties do not necessarily know or even see each other, the need for trust has grown even bigger. As a result, financial institutions have enjoyed a much higher growth in revenues, profits and market capitalization. 
 
 All great - as long as you adopt to digital life and customers needs. This is where financial institutions failed to meet these expectations. 
 
