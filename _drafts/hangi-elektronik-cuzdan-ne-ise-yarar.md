@@ -57,7 +57,7 @@ Yukarıdaki ilk üç alternatifte de bir "kaybolma" senaryosu var. Web sitesinin
 5. Eğer çok kuşkucu biriyseniz ve hiçbir teknolojik alete güvenmiyorsanız, o zaman yukarıdaki son alternatif olan kağıt kaleme sarılın. Yazın Özel ve Genel Anahtarınızı bir kenara, sonrasında kağıdı kaybetmeyin yeter. 
 
 ### Arkası yarın
-Cüzdan çeşitlerine Bitcoin ve Ethereum üzerinden baktıktan sonra bir sonraki yazımızda DeFi için kullanılan cüzdanlara bakıp, kullanılabilecek birkaç örneğin üzerinde duracağız. 
+Cüzdan çeşitlerine Bitcoin ve Ethereum üzerinden göz attıktan sonra bir sonraki yazımızda DeFi için kullanılan cüzdanlara bakıp, kullanılabilecek birkaç örneğin üzerinde duracağız. 
 
 ---
 
