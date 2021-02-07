@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Hangi cüzdan ne işe yarar?"
+date:   2021-02-13 17:47:56 +0300
+categories: Genel
+tags: Yazılar, DeFi, DeFi'ye Giriş
+---
+
 Farklı farklı elektronik cüzdanlar var. Peki hangisini seçmeli? Bunun yanıtı ihtiyaç, beklenti ve risk algınıza göre değişir. Farklı cüzdan çeşitleri neler, hangi cüzdan ne işe yarar gelin birlikte bakalım: 
 
 Geçtiğimiz yazıda DeFi dünyasında ilk giriş için gerekli olan elektronik cüzdanlardan ve güvenli olup olmadıklarından bahsetmiştik. Bu yazımızda ise farklı cüzdan çeşitlerine göz atacağız: 
@@ -46,3 +54,10 @@ Yukarıdaki ilk üç alternatifte de bir "kaybolma" senaryosu var. Web sitesinin
 ### Arkası yarın
 Cüzdan çeşitlerine Bitcoin ve Ethereum üzerinden baktıktan sonra bir sonraki yazımızda DeFi için kullanılan cüzdanlara bakıp, kullanılabilecek birkaç örneğin üzerinde duracağız. 
 
+---
+
+*Not 1: Bu yazı ilk olarak 6 Şubat 2021'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı](https://medium.com/blockchainist-center/elektronik-c%C3%BCzdan-ile-defi-d%C3%BCnyas%C4%B1na-ad%C4%B1m-atmak-ccab4042c2f6)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
