@@ -61,7 +61,7 @@ Cüzdan çeşitlerine Bitcoin ve Ethereum üzerinden göz attıktan sonra bir so
 
 ---
 
-*Not 1: Bu yazı ilk olarak 6 Şubat 2021'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı](https://medium.com/blockchainist-center/elektronik-c%C3%BCzdan-ile-defi-d%C3%BCnyas%C4%B1na-ad%C4%B1m-atmak-ccab4042c2f6)*
+*Not 1: Bu yazı ilk olarak 13 Şubat 2021'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı](https://medium.com/blockchainist-center/elektronik-c%C3%BCzdan-ile-defi-d%C3%BCnyas%C4%B1na-ad%C4%B1m-atmak-ccab4042c2f6)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
