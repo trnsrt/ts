@@ -8,6 +8,11 @@ tags: Yazılar, DeFi, DeFi'ye Giriş
 
 Farklı farklı elektronik cüzdanlar var. Peki hangisini seçmeli? Bunun yanıtı ihtiyaç, beklenti ve risk algınıza göre değişir. Farklı cüzdan çeşitleri neler, hangi cüzdan ne işe yarar gelin birlikte bakalım: 
 
+
+| ![e-wallet](/assets/pexels-skitterphoto-2019_800.jpg)|
+|:--:| 
+| *Image by [Skitterphoto](https://www.pexels.com/photo/books-colorful-colourful-shop-2019/) from [Pexels](https://www.pexels.com/photo/books-colorful-colourful-shop-2019/)*|
+
 Geçtiğimiz yazıda DeFi dünyasında ilk giriş için gerekli olan elektronik cüzdanlardan ve güvenli olup olmadıklarından bahsetmiştik. Bu yazımızda ise farklı cüzdan çeşitlerine göz atacağız: 
 
 ### KriptoCüzdan nasıl yaratılıyor? Çeşitleri ne? 
