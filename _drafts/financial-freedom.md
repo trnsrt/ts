@@ -6,9 +6,9 @@ categories: Genel
 tags: Yazılar, Articles
 ---
 
-Traditional finance is going through difficult times: Haunted by its own past it is failing to adopt to changing customer demands. What are key problems they are facing? How would DeFi address them?
+Traditional finance is going through difficult times: Haunted by its own past it is failing to adapt to changing customer demands. What are the key problems they are facing? How would DeFi address them?
 
-Our last post was about digital identities. *Summary:* Tech giants are getting more and more powerful everyday posing a threat to privacy and in essence to freedom. *Solution:* Give power back to individuals. How? A decentralized model, where the users fully own and control their digital identity. 
+Our last post was about digital identities. *Summary:* Tech giants are getting more and more powerful every day posing a threat to privacy and in essence to freedom. *Solution:* Give power back to individuals. How? A decentralized model, where the users fully own and control their digital identity. 
 
 | ![freedom](/assets/girl-2940655_800.jpg)|
 |:--:| 
@@ -20,7 +20,7 @@ The question is: Is it possible to apply the same solution to other parts of our
 
 Traditional finance has been around since ancient times, and by that I mean pre-digital times. While transitioning to digital world, legacy financial systems emerged as the real winners. Why? First of all, commercial activity has boomed thanks to digitalization. As its identical twin, financial activity has also expanded significantly.  However there is more to the story: 
 
-Digital life comes with many perks, such as speed, ease of use, accessibility and so on. However there is one catch: The two sides involved in a digital transaction do not see or even know each other. So, how to trust to the other side? The need for trust - or a better word 'a trusted intermediary' - has grown enormously with the new digital era.  A financial intermediary, in essence,  brings 'trust' to the table in a transaction. 
+Digital life comes with many perks, such as speed, ease of use, accessibility and so on. However, there is one catch: The two sides involved in a digital transaction do not see or even know each other. So, how to trust to the other side? The need for trust - or a better word 'a trusted intermediary' - has grown enormously with the new digital era.  A financial intermediary, in essence,  brings 'trust' to the table in a transaction. 
 
 Having dutifully performed this core function, financial institutions have enjoyed an enormous growth in revenues, profits and market capitalization over the last couple of decades.
 
@@ -30,13 +30,13 @@ All great, but digital life means speed and constant change. This is where finan
 
 As life becomes extremely fast in digital world, financial players got stuck in 20th century. They have become these outsized organizations that are chained with legacy systems and swamped with their own internal bureaucracy. They insisted on operating in silos meaning not a bank's system works with another.
 
-Regulations do not help either: Brach activities are limited from 9am to 5pm with no weekends. Only certain customers are eligible to do business with bank - which results in exclusion of 1.7 billion people globally according to World Bank.
+Regulations do not help either: Branch activities are limited from 9am to 5pm with no weekends. Only certain customers are eligible to do business with bank - which results in exclusion of 1.7 billion people globally according to World Bank.
 
 In short, banks are now catering to regulators, shareholders and their own staff, rather than us, the millions.. 
 
 ## Introducing DeFi
 
-DeFi (decentralized finance) has been trying to address these issues since its own beginnings couple of years ago: As the main use case of blockchain technologies in financial sector, **DeFi focuses on giving the power back to individuals.** 
+DeFi (decentralized finance) has been trying to address these issues since its own beginnings a couple of years ago: As the main use case of blockchain technologies in the financial sector, **DeFi focuses on giving the power back to individuals.** 
 
 So, why use blockchain technologies in finance? How could DeFi possibly help to the individual? Let's have a closer look:
 
@@ -44,7 +44,7 @@ So, why use blockchain technologies in finance? How could DeFi possibly help to 
 
 DeFi as a philosophy aims to give the financial power to individuals. How do they do that? Couple of key principles to highlight:
 
-**Non-custodial**: Financial institutions, as a general rule, holds the custody of their customers' assets. This is actually the main reason behind many of their problems these financial institutions face today. Why? Holding someone else's money means significant amount of responsibility and brings a lot of legal scrutiny and financial regulation.
+**Non-custodial**: Financial institutions, as a general rule, holds custody of their customers' assets. This is actually the main reason behind many of their problems these financial institutions face today. Why? Holding someone else's money means a significant amount of responsibility and brings a lot of legal scrutiny and financial regulation.
 
 *DeFi platforms, on the contrary do not hold any of their customers' assets. They are merely financial tools, nothing more.* Customers hold keys to their digital assets. They use their assets i) in any platform, ii)) at any time and iii) as long as they would like. They may leave as soon as they are done and never need to look back. 
 
