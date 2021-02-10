@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What to do with our digital lives?"
+title:  "Introducing DeFi"
 date:   2021-02-06 17:47:56 +0300
 categories: Genel
 tags: Yazılar, Articles
@@ -65,5 +65,5 @@ Building on the above principles, DeFi has a solid starting point. But how does 
 Let's finish with what we said in previous post: All is possible, thanks to technology but mainly to blockchain and crypto. This is coming. Sooner than you would imagine...
 
 ---
-*This piece is first published in [BlockchainIST Center](https://medium.com/blockchainist-center) on Jan 21st, 2021.*
+*This piece is [first published](https://medium.com/bcistcenter/introducing-defi-fc027cf48735) in [BlockchainIST Center](https://medium.com/blockchainist-center) on Feb 6th, 2021.*
 *None of the views expressed in this article should be considered as investment advice*
