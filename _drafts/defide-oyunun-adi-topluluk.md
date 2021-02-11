@@ -1,4 +1,4 @@
-DeFi dünyasındaki tüm girişimler için başarının sırrı kendine bağlı ve üretken bir  topluluk oluşturmak. Aslında genel anlamda tüm girişimler için önemli olan bu kural, DeFi için hayati öneme sahip. Bu alana yatırım yapmayı düşünenlerin ilk bakacakları alan bu olmalı. Gelin nedenlerine birlikte bakalım: 
+DeFi dünyasındaki tüm girişimler için başarının sırrı kendine bağlı ve üretken bir topluluk oluşturmak. Aslında genel anlamda tüm girişimler için önemli olan bu kural, DeFi için hayati öneme sahip. Bu alana yatırım yapmayı düşünenlerin ilk bakacakları alan bu olmalı. Gelin nedenlerine birlikte bakalım: 
 
 Genel olarak iş dünyasında hep sorulan, konuşulan ve üzerine en çok kafa yorulan soru şu olur: "Nasıl müşteri bulacağız, daha ötesi bu müşteriyi nasıl elimizde tutacağız?"
 
@@ -27,6 +27,10 @@ Yukarıda anlattığımız iki durumdan dolayı DeFi ürünleri hep uyanık ve a
 ### DeFi oyuncuları neler yapıyor müşteriyi tutabilmek için?
 
 Peki bu dünyada kritik olan ne? Verilen hizmete inanmış bir topluluk yaratmak. Böyle bir topluluğunuz varsa, o zaman işiniz nispeten daha kolay. 
+
+| ![freedom](/assets/gears-5688996_800.jpg)|
+|:--:| 
+| *Image by [mohamed Hassan](https://pixabay.com/users/mohamed_hassan-5229782/) from [Pixabay](https://pixabay.com/)*|
 
 DeFi dünyasına girmek isteyen genç bir geliştirici iseniz ya da bu dünyaya yatırım yapmayı düşünen bireysel ya da kurumsal yatırımcı, ya da bu ürünleri kullanmak isteyen müşteri, yapmanız gereken ilk iş ilgilendiğiniz DeFi ürününün nasıl bir topluluğa sahip olduğunu anlamak. 
 
