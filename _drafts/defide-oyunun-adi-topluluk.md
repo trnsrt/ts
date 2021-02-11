@@ -1,4 +1,4 @@
-DeFi dünyasındaki tüm girişimleri için başarının sırrı kendine bağlı ve üretken bir  topluluk oluşturmak. Aslında genel anlamda tüm girişimler için önemli olan bu kural, DeFi için hayati öneme sahip. Bu alana yatırım yapmayı düşünenlerin ilk bakacakları alan bu olmalı. Gelin nedenlerine birlikte bakalım: 
+DeFi dünyasındaki tüm girişimler için başarının sırrı kendine bağlı ve üretken bir  topluluk oluşturmak. Aslında genel anlamda tüm girişimler için önemli olan bu kural, DeFi için hayati öneme sahip. Bu alana yatırım yapmayı düşünenlerin ilk bakacakları alan bu olmalı. Gelin nedenlerine birlikte bakalım: 
 
 Genel olarak iş dünyasında hep sorulan, konuşulan ve üzerine en çok kafa yorulan soru şu olur: "Nasıl müşteri bulacağız, daha ötesi bu müşteriyi nasıl elimizde tutacağız?"
 
@@ -14,15 +14,15 @@ Dolayısıyla, klasik dünya yukarıdaki müşteriye sahip olma (Customer acquis
 
 ### Peki ya DeFi dünyasında durum nasıl?
 
-DeFi, klasik dünyanın temel taşlarını yeni baştan tasarlayan, oyunun kurallarının yeniden yazan bir oluşum. Buna paralel müşteriye bakış açısı klasik dünyaya göre çok daha farklı.  Nasıl? 
+DeFi, klasik dünyanın temel taşlarını yeni baştan tasarlayan, oyunun kurallarının yeniden yazan bir oluşum. Buna paralel olarak, müşteriye bakış açısı klasik dünyaya göre çok daha farklı.  Nasıl? 
 
 DeFi açık bir protokol. Açık protokol ne demek? Açık protokol, özünde isteyenin istediği zaman gelip kullanabileceği ve istediği zaman çıkabileceği yapılar demek (ingilizcede permissionless yani izin gerektirmeyen). Yalnızca kullanıcı tarafında değil ürün geliştirici tarafında da - isteyenin istediği bir yapının kodlarını alıp yenisini yaratabilmesi demek. Peki bunun doğurduğu sonuçlar neler? 
 
 Kullanıcı tarafından bakarsak, açık protokol gücü kullanıcıya veriyor. Bu sayede, kullanıcı hiçbir DeFi platformuna bağlı kalmak zorunda değil. Bugün kullanır, yarın gider başkasını kullanır, öbür gün geri gelir. Klasik dünyadan oldukça farklı bir dinamik. 
 
-Ürün yaratıcılığı konusunda, DeFi ürünleri klasik dünyadaki telif hakkı, patent koruyucu kalkanlara sahip değiller. Ürettikleri ürün, bir hafta sonra başka biri tarafından kopyalanabilir. Üstelik kanuna aykırı bir durum da yok. Ayrıca açık protokol olması nedeniyle, farklı ürünleri bir araya getirip yepyeni ürünler yaratmak da çok kolay. 
+Ürün yaratıcılığı konusunda, DeFi platformları klasik dünyadaki telif hakkı, patent koruyucu kalkanlara sahip değiller. Ürettikleri ürün, bir hafta sonra başka biri tarafından kopyalanabilir. Üstelik kanuna aykırı bir durum da yok. Ayrıca açık protokol olması nedeniyle, farklı ürünleri bir araya getirip yepyeni ürünler yaratmak da çok kolay. 
 
-Yukarıda anlattığımız iki durumdan dolayı DeFi ürünleri hep uyanık ve atik olmak zorundalar. Bu dünyada, hantallığa ya da müşteriyi kazıklamaya yer yok. Müşteriyi tutabilmek olabildiğince zor ve klasik dünyanın numaraları bu dünyada çalışmıyor. 
+Yukarıda anlattığımız iki durumdan dolayı DeFi ürünleri hep uyanık ve atik olmak zorundalar. Bu dünyada, uzun vadede hantallığa ya da müşteriyi kazıklamaya yer yok. Müşteriyi tutabilmek olabildiğince zor ve klasik dünyanın numaraları bu dünyada çalışmıyor. 
 
 ### DeFi oyuncuları neler yapıyor müşteriyi tutabilmek için?
 
@@ -32,11 +32,11 @@ DeFi dünyasına girmek isteyen genç bir geliştirici iseniz ya da bu dünyaya 
 
 ### Bir DeFi platformunun kaliteli bir topluluğa sahip olduğunu nasıl anlarız?
 
-Peki nasıl anlarsınız bunu? Birkaç yöntemi var:
+Birkaç yöntemi var:
 
-##### Websitesine bakın
+##### Websitesini inceleyin
 
-İşe, ürünün web sitesine bakmak ile başlayabilirsiniz. Ancak bu ilk adım ve muhtemelen size çok fazla ipucu vermeyecek. Sadece ürünü bir parça anlayabilirsiniz, orada bile gerek konunun çok teknik olması gerekse ürünleri yaratanların pazarlama değil yazılımcı olmaları nedeniyle çok fazla şansınız yok.. 
+İşe, platformun web sitesine bakmak ile başlayabilirsiniz. Ancak bu ilk adım ve muhtemelen size çok fazla ipucu vermeyecek. Gerek konunun çok teknik olması, gerekse ürünleri yaratanların pazarlama değil yazılım odaklı olmaları nedeniyle ürünü çok fazla anlama şansınız yok... 
 
 ##### Forumları takip edin
 
@@ -52,15 +52,17 @@ Yukarıdakiler size topluluk hakkında bir parça bilgi verecektir. Bu ön araş
 
 Öncelikle küçük denemeler yapmakta fayda var. Ürünü kullandınız ve beğendiniz, ondan sonrasında platformun merkeziyetsizliğe ne kadar gönül verdiğini anlamakta fayda var. Zira, 'doğan görünümlü şahin' benzeri, DeFi alanında olduğunu söyleyen ama merkezi olan yapılar var (sana bakıyorum Chainlink!). Bunu yazdığım için bu tip yapılar başarılı olamazlar diye bir sonuç çıkmasın sakın.  Meramım şu: Madem merkeziyetsiz bir dünyanın içindeyiz, bu dünyada başarılı olacak olanların bu felsefeyi sadece sözde değil özde de benimsediğini anlamak gerek. 
 
-Girişimlerin, özellikle başlangıç aşamasında merkeziyetsiz olması gerekmiyor - zaten gerekli de değil. Başlangıç aşaması, ürünü geliştirmek adına merkezi bir şekilde yürüyebilir. Ancak grup olgunluk aşamasına geldikçe ürün geliştirmenin yanında özellikle yönetim anlamında girişimlerde demokratikleşme ve kritik yönetim kararlarını topluluğa verme ön plana çıkmalı. 
+Girişimlerin, özellikle başlangıç aşamasında merkeziyetsiz olması gerekmiyor - zaten gerekli de değil. Başlangıç aşaması, ürünü geliştirmek adına merkezi bir şekilde yürüyebilir. Ancak grup belli bir olgunluğa ulaştıkça, ürün geliştirmenin yanında özellikle yönetimi de merkezilikten çıkarmak gerekiyor. Bu nedenle, belli bir büyüklüğe erişmiş girişimlerde demokratikleşme ve kritik yönetim kararlarını topluluğa bırakma ön plana çıkmalı. 
 
 ##### Yönetim kanallarını takip edin
 
 2020 yılının yazından itibaren DeFi alanında yaşanan patlamanın temel nedeni, aslında merkeziyetsizlik yolunda yol alan girişimlerin kendilerine ait yönetim tokenlarını halka dağıtmaları oldu. Bu hamle ile iki amaç bir arada yakalandı. Hem yönetim platformu kullanıcılarına dağıtılarak yönetim dağıtıldı, hem de platforma likidite sağlanmış oldu. 
 
-Likidite DeFi alanındaki bir platform için can suyu demek. Zira, bu platformlar merkezi yapılarda olduğu gibi büyük bir kapitale sahip değiller. Daha önce de sık sık bahsettiğimiz, yumurta-tavuk sarmalı gibi, kullanıcı olmayınca likidite sağlanamıyor, likidite olmayınca yeni kullanıcı gelmiyor. Yönetim tokeni ile hem aktif kullanıcı sayısı artırılarak likidite sağlandı, hem de bu kullanıcılar yönetimine katıldıkları DeFİ platformuna daha gönülden bağlanarak platformları daha geniş kitlelere yaydılar. 
+Likidite DeFi alanındaki bir platform için can suyu demek. Neden? Çünkü, bu platformlar merkezi yapılarda olduğu gibi büyük bir kapitale sahip değiller. Daha önce de sık sık bahsettiğimiz, yumurta-tavuk sarmalı gibi, kullanıcı olmayınca likidite sağlanamıyor, likidite olmayınca yeni kullanıcı gelmiyor. 
 
-DeFi platformların kendi iletişim kanallarında yönetim ile ilgili neler konuşuluyor, ne tip öneriler yapılıyor, hangi kararlar alınıyor, hangileri reddediliyor - bütün bu sorulara yanıt alabilirsiniz. Bu topluluğu ve oluşturdukları kültürü anlamak açısından size oldukça iyi bir fikir verebilir. 
+İşte 2020 yılının bahar aylarında Compound ile başlayan yönetim tokenını topluluğu dağıtma politikası ile hem aktif kullanıcı sayısı artırılarak likidite sağlandı, hem de bu kullanıcılar yönetimine katıldıkları DeFi platformuna daha gönülden bağlanarak verilen hizmetleri daha geniş kitlelere yaydılar.
+
+DeFi platformlarının kendi iletişim kanallarında yönetim ile ilgili neler konuşuluyor, ne tip öneriler yapılıyor, hangi kararlar alınıyor, hangileri reddediliyor - bütün bu sorulara yanıt alabilirsiniz. Bu topluluğu ve oluşturdukları kültürü anlamak açısından size oldukça iyi bir fikir verebilir. 
 
 ### Sonuç
 
