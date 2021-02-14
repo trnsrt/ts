@@ -1,4 +1,5 @@
-Key Challenges to Traditional Finance
+# Key Challenges to Traditional Finance
+
 On our last post, we introduced DeFi - Decentralized Finance, a solution that would potentially empower individuals against legacy financial systems.  
 
 We also touched upon the shortcomings of traditional finance; excessively large, slow and bureaucratic as well as working in silos... We will look into those areas in detail later, but first, let's look at a couple of challenges that traditional finance faces today. 
