@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "DeFi'de oyunun adı topluluk"
+date:   2021-02-11 17:47:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
 DeFi dünyasındaki tüm girişimler için başarının sırrı kendine bağlı ve üretken bir topluluk oluşturmak. Aslında genel anlamda tüm girişimler için önemli olan bu kural, DeFi için hayati öneme sahip. Bu alana yatırım yapmayı düşünenlerin ilk bakacakları alan bu olmalı. Gelin nedenlerine birlikte bakalım: 
 
 Genel olarak iş dünyasında hep sorulan, konuşulan ve üzerine en çok kafa yorulan soru şu olur: "Nasıl müşteri bulacağız, daha ötesi bu müşteriyi nasıl elimizde tutacağız?"
@@ -73,3 +81,11 @@ DeFi platformlarının kendi iletişim kanallarında yönetim ile ilgili neler k
 DeFi kendisi için en büyük zorluk olan topluluk oluşturma işini, kullanıcılarını hem fikren hem de madden doyurarak, onları adeta platformun gönüllü elçisi haline getirmek ile çözdü. Ancak zorluk henüz bitmiş değil, tam tersine oyun yeni başlıyor.  
 
 Daha da kritik olan bu topluluğu elinde tutmak. Şu anda, yeni kullanıcılar geldikçe ve platformlar kullanımları arttıkça işler iyi gidiyor. Bir noktada platoya ulaşıldığında kullanıcıların platform ile bağlarını sıcak tutmak yine kendi içinde bir zorluk. Bakalım DeFi platformları bunu nasıl aşacak? Hep birlikte izleyip göreceğiz... 
+
+---
+
+*Not 1: Bu yazı ilk olarak 11 Şubat 2021'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/defide-oyunun-adi-topluluk/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
