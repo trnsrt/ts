@@ -5,7 +5,7 @@ On our last post, we introduced DeFi - Decentralized Finance, a solution that wo
 We also touched upon the shortcomings of traditional finance; excessively large, slow and bureaucratic as well as working in silos... We will look into those areas in detail later, but first, let's look at a couple of challenges that traditional finance faces today. 
 
 ### Finance today
-Financial players were among key beneficiaries, while we transition from analog life to a digital one. Financial services, after all, require limited physical effort and is perfectly suitable for a digital setup. 
+Financial players have been among key beneficiaries, while we transition from analog life to a digital one. Financial services, after all, require limited physical effort and is perfectly suitable for a digital setup. 
 
 As consumers we loved the  perks of digitalization: No need to go to a bank anymore, use my own phone to meet all my financial needs. 
 
@@ -20,7 +20,7 @@ Nowadays, financial actors are feeling the cold breath of three main external pa
 
 Those are mainly: Individuals (i.e., their customers), governments (i.e. central banks), and tech giants (i.e. Facebooks and PayPals of the digital world). 
 
-What is the common theme here? All three will use the power of technology to challenge banks and other financial institutions. How? Let's have a deeper dive on each one:
+What is the common theme here? All three will use the power of technology to challenge banks and other financial institutions. How? Let's have a deeper dive on each one: 
 
 #### Individuals (or public)
 Why to individuals need financial institutions? Two key needs: Financial and transactional. 
