@@ -13,7 +13,7 @@ Financial players? They loved this consumer demand:  No need to keep more teller
 
 Well, life comes in cycles and nothing lasts forever. Such profits attracted outside attention pretty quickly: "They have all the fancy offices yet they fail to provide basic services properly" says the consumer. "They have all that financial muscle, yet they are reluctant to allocate enough resources to meet our regulatory requirements" says the government.  
 
-| ![looking_phone](/assets/phone-1889392_800)|
+| ![looking_phone](/assets/phone-1889392_800.jpg)|
 |:--:| 
 | *Image by [antonynjoro](https://pixabay.com/users/antonynjoro-2270637/) from [Pixabay](https://pixabay.com/)*|
 
@@ -63,7 +63,7 @@ Is this even feasible? Well, with a Central Bank Digital Currency, this is certa
 #### Tech giants (or Facebook or PayPals of the digital world)
 Facebook has already announced that they will create a digital currency. Initially called Libra now changed to Diem, it will be a stable currency (meaning pegged to a fiat currency such as dollar or euro). This digital currency will be used to accommodate all the financial transactions in Facebook world (in addition to many other partners in the network).
 
-| ![phone](/assets/tiktok-5464739_800)|
+| ![phone](/assets/tiktok-5464739_800.jpg)|
 |:--:| 
 | *Image by [Gerd Altmann](https://pixabay.com/users/geralt-9301/) from [Pixabay](https://pixabay.com/)*|
 
