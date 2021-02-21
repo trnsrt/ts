@@ -13,6 +13,10 @@ Financial players? They loved this consumer demand:  No need to keep more teller
 
 Well, life comes in cycles and nothing lasts forever. Such profits attracted outside attention pretty quickly: "They have all the fancy offices yet they fail to provide basic services properly" says the consumer. "They have all that financial muscle, yet they are reluctant to allocate enough resources to meet our regulatory requirements" says the government.  
 
+| ![looking_phone](/assets/phone-1889392_800)|
+|:--:| 
+| *Image by [antonynjoro](https://pixabay.com/users/antonynjoro-2270637/) from [Pixabay](https://pixabay.com/)*|
+
 Here is the catch: Customers and government authorities, *now* have the power to act rather than simply complain. How? Let's have a closer look at what they have inside their arsenal.
 
 ### Key challenges for financial players
@@ -42,6 +46,10 @@ After being around for ten years, cryptocurrencies have reached a maturity level
 #### Governments (or central banks)
 Central banks deal with banks and other financial institutions to conduct the monetary policy. Mass public have almost no interaction with central banks. Instead, banks act as an intermediary between the central bank and general public. 
 
+| ![controller](/assets/control-427510_800.jpg)|
+|:--:| 
+| *Image by [Michal Jarmoluk](https://pixabay.com/users/jarmoluk-143740/) from [Pixabay](https://pixabay.com/)*|
+
 On the other hand, governments control over fiscal policy. In an overly simplified manner, this is how governments spend money to bring services to people and incentivize the economy. 
 
 What if we coordinate monetary and fiscal policies under one roof such as central banks? 
@@ -54,6 +62,11 @@ Is this even feasible? Well, with a Central Bank Digital Currency, this is certa
 
 #### Tech giants (or Facebook or PayPals of the digital world)
 Facebook has already announced that they will create a digital currency. Initially called Libra now changed to Diem, it will be a stable currency (meaning pegged to a fiat currency such as dollar or euro). This digital currency will be used to accommodate all the financial transactions in Facebook world (in addition to many other partners in the network).
+
+| ![phone](/assets/tiktok-5464739_800)|
+|:--:| 
+| *Image by [Gerd Altmann](https://pixabay.com/users/geralt-9301/) from [Pixabay](https://pixabay.com/)*|
+
 
 PayPal has already accepted cryptocurrencies as a payment method. Their announcement of a native digital currency will not surprise anyone. The question is not if, more like when. Amazon has already started exploring digital currency in Mexico, so it is just a matter of time before they introduce it to North American market following by rest of the world. 
 
@@ -77,6 +90,10 @@ First of all, banks developed their own systems during 70's or 80's (or even 90'
 
 Banks have heavily invested FinTech: They made partnerships with several startups, use their services as part of their core offerings. In some cases they bought these startups and brought their team in-house. Jury is still out on the effectiveness of such strategies:
 
+| ![phone](/assets/tiktok-5464739_800)|
+|:--:| 
+| *Image by [Stefan Coders](https://pixabay.com/users/stefancoders-11782809) from [Pixabay](https://pixabay.com/)*|
+
 On the one hand these startups brought a fresh air to the plazas that banks reside in. On the other hand, inevitably there have been cultural clashes between new kids on the block and the old guard. Who is the winner? In most (almost all cases), the old guard. Resulting in startup employees leaving the financial institutions to pursue other opportunities in outside world. 
 
 However, there is a deeper issue here: Fintech will help banks adapt to new technologies, but not change how they structurally do things. 
@@ -85,6 +102,12 @@ However, there is a deeper issue here: Fintech will help banks adapt to new tech
 In our last post, we mentioned three main threats to banks as individuals, central banks and tech giants. 
 
 Thanks to emerging technologies, all three have the power to challenge banks. Individuals, through the use of decentralized solutions such as cryptocurrencies and DeFi. Centrals banks by issuing Central Banks Digital Currencies (CBDC's). Lastly, tech giants, already having been inside the pockets of customers through mobile phones and now using digital currencies to cut the cord between the bank and customer. 
+
+
+
+| ![security](/assets/digitization-3599925_800.jpg)|
+|:--:| 
+| *Image by [Schluesseldienst](https://pixabay.com/users/schluesseldienst-13794927/) from [Pixabay](https://pixabay.com/)*|
 
 Pattern is clear here. Banks are moving away from their customers. Their core function as the middleman between transactions is no longer needed. Individuals can use currencies or tech giants for their financial activities and central banks can directly interact with their citizens. 
 
