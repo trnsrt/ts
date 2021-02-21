@@ -5,9 +5,9 @@ On our last post, we introduced DeFi - Decentralized Finance, a solution that wo
 We also touched upon the shortcomings of traditional finance; excessively large, slow and bureaucratic as well as working in silos... We will look into those areas in detail later, but first, let's look at a couple of challenges that traditional finance faces today. 
 
 ### Finance today
-Financial players have been among key beneficiaries, while we transition from analog life to a digital one. Financial services, after all, require limited physical effort and is perfectly suitable for a digital setup. 
+While we transition from analog life to a digital one, Financial players have been among key winners. Financial services, after all, require limited physical effort and is a perfect fit for a digital setup. 
 
-As consumers we loved the  perks of digitalization: No need to go to a bank anymore, use my own phone to meet all my financial needs. 
+As for us, the consumers, we love the  perks of digitalization: No need to go to a bank anymore, just use my own phone to meet all financial needs. 
 
 Financial players? They loved this consumer demand:  No need to keep more tellers to serve us. While demand for financial services has grown exponentially, banks were able to meet this with limited additional resources, thanks to digital tools. Result: Skyrocketed fees, profits and market capitalizations for almost any financial player. 
 
