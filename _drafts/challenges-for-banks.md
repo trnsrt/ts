@@ -13,21 +13,21 @@ Financial players? They loved this consumer demand:  No need to keep more teller
 
 Well, life comes in cycles and nothing lasts forever. Such profits attracted outside attention pretty quickly: "They have all the fancy offices yet they fail to provide basic services properly" says the consumer. "They have all that financial muscle, yet they are reluctant to allocate enough resources to meet our regulatory requirements" says the government.  
 
-Here is the catch: Customers and government authorities, *now* have the power to act rather than simply complain. How? Let's have a closer look what they have inside their arsenal.
+Here is the catch: Customers and government authorities, *now* have the power to act rather than simply complain. How? Let's have a closer look at what they have inside their arsenal.
 
 ### Key challenges for financial players
-Nowadays, financial actors are feeling the cold breath of three main external parties (if they are not, then I am sorry for their ignorance, they will be hit even harder in the future). 
+Nowadays, financial actors are feeling the cold breath of three main external parties (if they are not, then I am sorry for their ignorances, they will be hit even harder in the future). 
 
 Those are mainly: Individuals (i.e., their customers), governments (i.e. central banks), and tech giants (i.e. Facebooks and PayPals of the digital world). 
 
 What is the common theme here? All three will use the power of technology to challenge banks and other financial institutions. How? Let's have a deeper dive on each one: 
 
 #### Individuals (or public)
-Why to individuals need financial institutions? Two key needs: Financial and transactional. 
+Why do individuals need financial institutions? Two key needs: Financial and transactional. 
 
-First, humans accumulate wealth, through either working hard or inheritance. They need a safe place to store this wealth and prefer to have some additional benefit such as interest. Banks provide the most optimal solution for such needs. 
+First, humans accumulate wealth, through either working hard or inheritance. They need a safe place to store their wealth and prefer to have some additional benefit such as interest income. Banks provide the most optimal solution for such needs. 
 
-On the other side, some others need financing for immediate needs or longer term investments. Who would provide that better than banks? 
+On the other side, other people need financing for immediate needs or longer term investments. Who would provide that better than banks? 
 
 In short, banks are ideal places to store value and provide this value to those in need. 
 
@@ -37,18 +37,18 @@ Sure, but all these benefits that banks provide, come with some cost and certain
 
 What if people were given an alternative option? Such as, a secure and cheaper value storage with full control? In other words, store your wealth at almost no cost and transfer it to anybody around the world, at any time you want, with no strings attached?
 
-After being around for ten years, cryptocurrencies have reached the maturity to be a solid candidate to store and transfer wealth. Now, slowly and surely they are also attacking other parts of financial services, such as lending, borrowing, insurance, exchanges and so on.. That is what DeFi is for and we will continue to explore this area on our future posts. 
+After being around for ten years, cryptocurrencies have reached a maturity level to be a solid candidate to store and transfer wealth. Now, slowly and surely they are also attacking the other parts of financial services, such as lending, borrowing, insurance, exchanges and so on.. That is what DeFi is for and we will continue to explore this area on our future posts. 
 
 #### Governments (or central banks)
-Governments have the control of monetary policy through central banks. Central banks deal with banks and other financial institutions to meet their monetary demand. Mass public have limited interaction with central banks. Instead, banks act as and intermediary between the government and general public. 
+Central banks deal with banks and other financial institutions to conduct the monetary policy. Mass public have almost no interaction with central banks. Instead, banks act as an intermediary between the central bank and general public. 
 
-Do governments need direct access to individuals? Do they need that? Let's think about it for a second:
+On the other hand, governments control over fiscal policy. In an overly simplified manner, this is how governments spend money to bring services to people and incentivize the economy. 
 
-The other economic tool that governments have on hand is fiscal policy. In an overly simplified manner, this is how governments spend money to bring services to people and incentivize the economy. 
+What if we coordinate monetary and fiscal policies under one roof such as central banks? 
 
-What if we combine monetary and fiscal policies under one roof such as central banks? In this case, the governments will have the chance to create much more effective policies:
+In order to have a much more effective policy they need direct access to individuals so that they remove inefficiencies created by banks. Do they need that? Let's think about it for a second:
 
-By creating a bank account for each and every citizen, central banks will have direct access to every individual. Example> Let's say you want to give some incentive apple growers. Rather than using intermediaries like banks, you can directly put money into the accounts of those registered as apple farmers. Furthermore you can track and even control how they use this incentive (such as permitting them to use it only for fertilizers). 
+By creating a bank account for each and every citizen, central banks will have direct access to every individual. Example: Let's say you are planning to provide some incentive to apple growers. Rather than using intermediaries like banks, you can directly put money into the accounts of those registered as apple farmers. Furthermore you can track and even control how they use this incentive (such as permitting them to use it only for fertilizers). 
 
 Is this even feasible? Well, with a Central Bank Digital Currency, this is certainly possible. There are many more benefits for governments and several drawbacks for individuals but let's leave that for another post.
 
@@ -57,12 +57,12 @@ Facebook has already announced that they will create a digital currency. Initial
 
 PayPal has already accepted cryptocurrencies as a payment method. Their announcement of a native digital currency will not surprise anyone. The question is not if, more like when. Amazon has already started exploring digital currency in Mexico, so it is just a matter of time before they introduce it to North American market following by rest of the world. 
 
-Why is this important for banks? These tech giants hold the end customer under their hands (via their apps). Customers are already tied to them for buying and selling side of a transaction. Now they will hold their grips on the financial side of that exchange as well. 
+Why is this important for banks? These tech giants hold the end customer under their hands (via their apps). Customers already use them for buying and selling. Now these giants will hold their grips on the financial side of that transaction as well. 
 
 They will not let banks touch to their customer. If you do not touch your end user, then the game is over for you - you are out. 
 
 ### Next...
-These are three major challengers for banks. Sure, but what do banks do to tackle these issues? Let's have a look at them on our next post. 
+Individuals, central banks and tech giants are the three major challengers for banks. Sure, but what do banks do to tackle these issues? Let's have a look at them on our next post. 
 
 ---
 # How do banks react to their challenges?
