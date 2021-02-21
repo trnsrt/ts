@@ -9,9 +9,9 @@ While we transition from analog life to a digital one, Financial players have be
 
 As for us, the consumers, we love the  perks of digitalization: No need to go to a bank anymore, just use my own phone to meet all financial needs. 
 
-Financial players? They loved this consumer demand:  No need to keep more tellers to serve us. While demand for financial services has grown exponentially, banks were able to meet this with limited additional resources, thanks to digital tools. Result: Skyrocketed fees, profits and market capitalizations for almost any financial player. 
+Financial players? They loved this consumer demand:  No need to keep more tellers to serve us: While demand for financial services has grown exponentially, banks were able to meet this demand with limited additional resources, thanks to digital tools. Result: Skyrocketed fees, profits and market capitalizations for almost any financial player. 
 
-Well, life comes in cycles and nothing lasts forever. Such profits attracted outside attention pretty quickly: "They earn some much money, yet they fail to provide basic services properly" says the consumer. "They earn some much money, yet are reluctant to allocate enough resources to meet our regulatory requirements" says the government.  Louder and louder by each day. 
+Well, life comes in cycles and nothing lasts forever. Such profits attracted outside attention pretty quickly: "They have all the fancy offices yet they fail to provide basic services properly" says the consumer. "They have all that financial muscle, yet they are reluctant to allocate enough resources to meet our regulatory requirements" says the government.  
 
 Here is the catch: Customers and government authorities, *now* have the power to act rather than simply complain. How? Let's have a closer look what they have inside their arsenal.
 
