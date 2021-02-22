@@ -1,4 +1,4 @@
-ETH'nin rakipleri
+# Yazı 1: Ethereum ve Rakipleri
 Bu yazımızda gelin DeFi alanının ağırlıkla üzerine kurulduğu Ethereum platformunun yaşadığı sıkıntıları, rakiplerin hangi alanda ne çözümler sunduğunu ve Ethereum'un buna karşı ne gibi planları olduğuna bakalım: 
 
 Merkeziyetsiz Finans yani DeFİ büyümesine 2020 yılının ortalarından itibaren başladı. Bu hareketin genel olarak hayat bulduğu alan Ethereum zinciri oldu. Ancak son zamanlarda Ethereum'un rakipleri ivmelenmeye başladı. İsimleri gittikçe duyulmaya başladı. Önce bir Ethereum'un sorunlarına sonra da rakiplerine göz atalım:
