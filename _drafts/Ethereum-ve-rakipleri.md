@@ -21,7 +21,7 @@ Ancak özünde DeFi tokenların değerleri hâlâ oldukça spekülatif. Bu neden
 Değerler oldukça yüklü hale geldiği için fırsat kaçırmak istemeyen alım-satım uzmanları ödeyecekleri ücrete bakmadan olabildiğince hızlı şekilde hareket etmeye çalıştılar. Zaten yüklü olan işlemlerin hacminin üzerine bir de bu hızlı hareket etmek isteyenler binince işlem ücretleri inanılmaz bir biçimde arttı. 
 
 
-| ![eth_median_fees_coinmetrics_1yr_2102_800](/assets/eth_median_fees_coinmetrics_1yr_2102_800.jpg)|
+| ![eth_median_fees_coinmetrics_1yr_2102_800](/assets/eth_median_fees_coinmetrics_1yr_2102_v2_800.png)|
 |:--:| 
 | *Ethereum platformu üzerindeki ortalama (median) işlem ücretleri. Kaynak: [Coinmetrics](https://network-charts.coinmetrics.io)*|
 
@@ -37,7 +37,7 @@ Burada alternatif blokzincirlerin teknik özelliklerinden çok, şu an çok konu
 Polkadot, Cardano ve Avanlanche, başlangıçta Ethereum'u kuran ekipte olup sonrasında felsefi fikir ayrılıkları nedeniyle hareketten ayrılmış saygın isimlerin kurdukları projeler. Polkadot ve Avalanche gerek işlev gerekse yapmak istedikleri açısından Ethereum'a oldukça yakınlar. Hatta Avalanche, Ethereum ile bir köprü kurup orada bulunan tokenlerin kendi platformunda da işlem görmesini sağladı. Bu sayede Ethereum ile olan ilişkisini iyice artırdı. Cardano ise daha çok kurumsal alanda kapalı/açık blokzincir taleplerine karşılık olmayı hedefliyor. Keza diğer bir platform sağlayıcısı Cosmos, Polkadot benzeri farklı blokzincirler arası ortak çalışacak bir altyapı olmayı planlarken, Stellar da ödeme sistemleri konusunda kendisine bir yer kapmaya çalışıyor.
 
 
-| ![Ethereum_ve_diger_platformlar](/assets/Ethereum_ve_diger_platformlar.png)|
+| ![Ethereum_ve_diger_platformlar](/assets/Ethereum_ve_diger_platformlar_v2.png)|
 |:--:| 
 | *Akıllı Kontrat Platformlarının ucu bucağı yok. Kaynak: [CoinGecko](https://www.coingecko.com/en/categories/smart-contract-platform)*|
 
