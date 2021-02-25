@@ -86,7 +86,7 @@ Merkeziyetsizlik felsefesine inananların gözünde Binance tipi bir zincirin sa
 
 Dolayısıyla bir önceki yazımızda bahsettiğimiz DeFİ ürünleri için kritik olan topluluk konusunda Binance'in elinde hazır bir kitle var. Bu gönüllü bir topluluğa dönüşebilecek mi, göreceğiz. 
 
-| ![ETH_vs_BSC](/assets/ETH_BSC_TVL_v3_1000.jpg)|
+| ![ETH_vs_BSC](/assets/ETH_BSC_TVL_v4_1000.jpg)|
 |:--:| 
 | *Kaynak: [TheBlock](https://www.theblockcrypto.com/data/decentralized-finance/total-value-locked-tvl/notional-value-locked-ethereum-vs-binance-smart-chain)*|
 
