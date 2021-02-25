@@ -68,7 +68,7 @@ Ucuz işlem ücretleri. Ethereum'da şu an onlarca dolar verdiğiniz işlemin 1 
 ### Başarı kriterleri neler?
 Binance kendi başına büyük bir dev. Hem işlem hacmi hem de kullanıcı adedi olarak en büyük. Bu büyüklüğün sinerjisinden yararlanmak için doğal olarak ekstra servisler vermeye çalışıyor. 
 
-| ![exchange_volumes](/assets/Exchange_volumes_210225_v2_1000.jpg)|
+| ![exchange_volumes](/assets/Exchange_volumes_210225_v3_1000.jpg)|
 |:--:| 
 | *Kaynak: [TheBlock](https://www.theblockcrypto.com/data/crypto-markets/spot)*|
 
