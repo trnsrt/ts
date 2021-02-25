@@ -68,7 +68,7 @@ Ucuz işlem ücretleri. Ethereum'da şu an onlarca dolar verdiğiniz işlemin 1 
 ### Başarı kriterleri neler?
 Binance kendi başına büyük bir dev. Hem işlem hacmi hem de kullanıcı adedi olarak en büyük. Bu büyüklüğün sinerjisinden yararlanmak için doğal olarak ekstra servisler vermeye çalışıyor. 
 
-| ![exchange_volumes](/assets/exchange_volume_210225_v2_1000.jpg)|
+| ![exchange_volumes](/assets/Exchange_volumes_210225_v2_1000.jpg)|
 |:--:| 
 | *Kaynak: [TheBlock](https://www.theblockcrypto.com/data/crypto-markets/spot)*|
 
@@ -86,7 +86,7 @@ Merkeziyetsizlik felsefesine inananların gözünde Binance tipi bir zincirin sa
 
 Dolayısıyla bir önceki yazımızda bahsettiğimiz DeFİ ürünleri için kritik olan topluluk konusunda Binance'in elinde hazır bir kitle var. Bu gönüllü bir topluluğa dönüşebilecek mi, göreceğiz. 
 
-| ![ETH_vs_BSC](/assets/ETH_BSC_TVL_v2_1000.jpg)|
+| ![ETH_vs_BSC](/assets/ETH_BSC_TVL_v3_1000.jpg)|
 |:--:| 
 | *Kaynak: [TheBlock](https://www.theblockcrypto.com/data/decentralized-finance/total-value-locked-tvl/notional-value-locked-ethereum-vs-binance-smart-chain)*|
 
