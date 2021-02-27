@@ -27,6 +27,8 @@ Binance ise buna çözümü, madencileri aradan çıkararak buluyor. Madencileri
 
 Merkeziyetsiz bir sistem mi? Görünüşte öyle. İşlemleri onaylayanlar bağımsız. Ama aslında o kadar da merkeziyesiz değil, zira işlem onaylayıcılar ağırlıklı Binance himayesi altında. BSC sistemin geliştiren de Binance ekibi. 
 
+Her ne kadar Binance’in sahibi [Changpeng Zhao](https://twitter.com/cz_binance) (daha bilinen adıyla CZ) ve BSC topluluğu ağı merkeziyetsizleştirmek için çeşitli geliştirme ve teşviklerin geleceğini sosyal medyada açıkça ilan etmiş olsa da bu ne kadar hayata dönecek hep birlikte göreceğiz. 
+
 #### Peki merkeziyetsiz olmasına gerek var mı? 
 
 Bu aslında kişisel bir tercih. Gelin biraz açalım bu konuyu:
