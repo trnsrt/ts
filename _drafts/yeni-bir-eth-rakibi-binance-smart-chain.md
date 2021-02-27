@@ -9,7 +9,7 @@ Binance Smart Chain (kısaca BSC) kripto dünyasının en büyük merkezi borsas
 
 #### Bir Ethereum klonu
 
-Hatırlarsanız merkeziyetsiz finansın temel özelliklerinden bahsederken en önemlilerinden birinin açık kaynak olduğunu belirtmiştik. Açık kaynak, kullanılan yazılımların kodlarının herkese açık olması demek. Yazılımın geliştirmesi tamamen açık bir şekilde yapılıyor. Yazılımcılar eklemek istedikleri özelliklerin kodlarını yazdıktan sonra, bunları GitHub denen sitede herkese açık olarak paylaşıyor. Bir başka grup gelip bu yeni özellikleri deniyor, hataları buluyor. Bu hatalar düzeltiliyor, istenen değişiklikler yapılıyor ve son hali eğer ekip tarafından kabul edilirse yeni hali tüm paydaşlar tarafından yürürlüğe konuyor. Ve dediğimiz gibi bütün bu süreç şeffaf bir şekilde işliyor. 
+Hatırlarsanız merkeziyetsiz finansın temel özelliklerinden bahsederken en önemlilerinden birinin açık kaynak olduğunu belirtmiştik. Açık kaynak, kullanılan yazılımların kodlarının herkese açık olması demek. Yazılımın geliştirmesi tamamen açık bir şekilde yapılıyor. Yazılımcılar eklemek istedikleri özelliklerin kodlarını yazdıktan sonra, bunları GitHub denen sitede herkese açık olarak paylaşıyor. Bir başka grup gelip bu yeni özellikleri deniyor, hataları buluyor. Bu hatalar düzeltiliyor, istenen değişiklikler yapılıyor ve son hali eğer ekip tarafından kabul edilirse yeni hali tüm paydaşlar tarafından yürürlüğe konuyor. Ve dediğimiz gibi bütün bu süreç şeffaf bir şekilde işliyor.
 
 Klonlamak denilen hadise ise, o yazılımın aynısını alıp kullanmak oluyor. Lisans var mı? Yok. Yasak mı? Hayır. Ayıp mı? Kimsenin umurunda değil açıkcası.
 
