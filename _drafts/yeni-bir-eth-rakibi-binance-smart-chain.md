@@ -1,4 +1,4 @@
-Geçtiğimiz [yazıda](/genel/2021/02/27/Ethereum-ve-rakipleri.html) ETH'nin rakiplerine kısaca bakmıştık.  Bu yazımızda ise hiç kimsenin beklemediği bir şekilde sağ kulvardan atağa kalkan Binance Chain'den bahsedeceğiz. 
+Akıllı kontrat platformu dünyasının lideri Ethereum'un pek çok alternatifi mevcut. Bunların bir kısmına geçtiğimiz [yazımızda](/genel/2021/02/27/Ethereum-ve-rakipleri.html) değinmiştik. Bu yazımızda ise hiç kimsenin beklemediği bir şekilde sağ kulvardan atağa kalkan Binance Chain'den bahsedeceğiz.
 
 ### Nereden çıktı bu Binance Chain?
 [Binance Smart Chain](https://www.binance.org/en/smartChain) (kısaca BSC) kripto dünyasının en büyük merkezi borsası olan Binance tarafından kurulmuş olan bir blokzincir.  Esasında tam bir Ethereum klonu. Ne anlama geliyor bu? Gelin kısaca bakalım: 
