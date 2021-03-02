@@ -1,7 +1,7 @@
 Geçtiğimiz yazıda ETH'nin rakiplerine kısaca bakmıştık.  Bu yazımızda ise hiç kimsenin beklemediği bir şekilde sağ kulvardan atağa kalkan Binance Chain'den bahsedeceğiz. 
 
 ### Nereden çıktı bu Binance Chain?
-Binance Smart Chain (kısaca BSC) kripto dünyasının en büyük merkezi borsası olan Binance tarafından kurulmuş olan bir blokzincir.  Esasında tam bir Ethereum klonu. Ne anlama geliyor bu? Gelin kısaca bakalım: 
+[Binance Smart Chain](https://www.binance.org/en/smartChain) (kısaca BSC) kripto dünyasının en büyük merkezi borsası olan Binance tarafından kurulmuş olan bir blokzincir.  Esasında tam bir Ethereum klonu. Ne anlama geliyor bu? Gelin kısaca bakalım: 
 
 | ![car_race](/assets/fast-1281627_800.jpg)|
 |:--:| 
@@ -11,7 +11,7 @@ Binance Smart Chain (kısaca BSC) kripto dünyasının en büyük merkezi borsas
 
 Hatırlarsanız merkeziyetsiz finansın temel özelliklerinden bahsederken en önemlilerinden birinin açık kaynak olduğunu belirtmiştik. Açık kaynak, kullanılan yazılımların kodlarının herkese açık olması demek. Yazılımın geliştirilmesi tamamen açık bir şekilde yapılıyor. Yazılımcılar eklemek istedikleri özelliklerin kodlarını yazdıktan sonra, bunları GitHub isimli sitede herkese açık olarak paylaşıyor. Bir başka grup gelip bu yeni özellikleri deniyor, hataları buluyor. Bu hatalar düzeltiliyor, istenen değişiklikler yapılıyor ve son hali eğer ekip tarafından kabul edilirse yeni hali tüm paydaşlar tarafından yürürlüğe konuyor. Ve dediğimiz gibi bütün bu süreç şeffaf bir şekilde işliyor.
 
-Klonlamak denilen hadise ise, o yazılımın aynısını alıp kullanmak oluyor. Lisans var mı? Yok. Yasak mı? Hayır. Ayıp mı? Kimsenin umurunda değil açıkcası.
+Klonlamak denilen hadise ise, o yazılımın aynısını alıp kullanmak oluyor. Lisans var mı? Yok. Yasak mı? Hayır. Ayıp mı? Kimsenin umurunda değil açıkçası.
 
 İşte Binance de Ethereum ağını kopyalayıp onun üzerine ufak birkaç değiştirme yaparak BSC'yi ortaya çıkarıyor. Tabii birkaç temel farklılık var: 
 
@@ -39,7 +39,7 @@ Merkezi bir yapı altında çalışan sistemi kullananların hemen hemen hepsind
 
 Bunun en güzel örneğini, geçmişte Facebook üzerine oyun yazan ya da bu mecrayı bir iletişim kanalı olarak kullananlar yaşadı. Bir gecede Facebook'un yaptığı değişiklikler ile bir anda tüm iş yapış modelleri değişen ve gelirleri sıfıra inen az girişim olmadı. 
 
-İşte Bitcoin ya da Ethereum gibi sistemlerin merkeziyetsiz olmaları, bu anlamda üzerinde çalışanlara ciddi bir güven veriyor. Bu sistemlerin nasıl bir gelişim göstereceği önceden yol haritaları ile belirleniyor. Örneğin, tam olarak tarihi bilinmese de Ethereum'un 2.0'a geçeceği, EIP 1559 ile fahiş fiyatları bir parça da olsa azaltacağı ve para politikasında daraltmaya gideceği belli. 
+İşte Bitcoin ya da Ethereum gibi sistemlerin merkeziyetsiz olmaları, bu anlamda üzerinde çalışanlara ciddi bir güven veriyor. Bu sistemlerin nasıl bir gelişim göstereceği önceden yol haritaları ile belirleniyor. Örneğin, tam olarak tarihi kestirilemese de Ethereum'un 2.0'a geçeceği, EIP 1559 ile fahiş fiyatları bir parça da olsa azaltacağı ve para politikasında daraltmaya gideceği belli. 
 
 Geliştiriciler ya da kullanıcılar için bu alanlarda yaşanacak kısa vadeli bir risk yok. Uzun vade için de kendilerini ayarlayabilirler. 
 
@@ -56,25 +56,25 @@ Binance ise işte bu DeFi paralarını kendi oluşturduğu BEP20 standardı ile 
 
 Sunulan sadece bir transfer altyapısı değil. Binance aynı zamanda Ethereum gibi bir DeFi ekosistem altyapısı da sunuyor. Ethereum’da gördüğünüz hemen hemen her DeFi ürününün bir benzerini BSC’de görmek mümkün. Örneğin, Uniswap yerine PancakeSwap var. Ya da kredi-mevduat işlemleri için Venus isimli bir uygulama oldukça popüler. 
 
-### Ne sorun var BSC kullanmada?
+#### Ne sorun var BSC kullanmakta?
 Dediğimiz gibi aslında bir sorun yok ama potansiyel olarak sorun olma ihtimali var. Merkeziyetsiz bir sistemin gelecek olduğuna inanıyorsanız, bu dünyada sahip olduğunuz paranın Binance tarafından korunmasını ister misiniz?
 
-Eğer Binance üzerinden alım satım yapıyor ve aldığınız kriptoparayı kendi kişisel cüzdanınıza çekmeyip Binance'da tutuyorsanız, o zaman Ethereum yerine BSC kullanmak sizin için bir problem olmamalı. Zira zaten paranızı tuttuğunuz kasanın anahtarlarını çoktan Binance'a vermişsiniz! Bir eksik bir fazla anahtar ne farkeder?
+Eğer Binance üzerinden alım satım yapıyor ve aldığınız kriptoparayı kendi kişisel cüzdanınıza çekmeyip Binance'da tutuyorsanız, o zaman Ethereum yerine BSC kullanmak sizin için bir problem olmamalı. Zira zaten paranızı tuttuğunuz kasanın anahtarlarını çoktan Binance'a vermişsiniz! Bir eksik bir fazla anahtar ne fark eder?
 
 Bu arada Ethereum dünyasının geçer akçesi ETH iken, BSC dünyasınınki BNB. Nedir o diye soracak olursanız, Binance’in kendi kullanıcılarına sunduğu, kendi borsasında yapılan alım-satım işlemlerinde ucuzluk sağlayan bir kriptopara. Yaratıcısı, düzenleyicisi kısaca varlık nedeni Binance olan bir para.  BSC’nin de etkisi ile popülaritesi gittikçe artan BNB, Şubat ayı içinde 37 milyar ABD Doları ile en büyük değere ulaşarak [BTC ve ETH’den sonraki en büyük kriptopara olmayı başardı](https://www.coingecko.com/en). 
 
-### Ne faydası var peki? 
+#### Ne faydası var peki? 
 
 Ucuz işlem ücretleri. Ethereum'da şu an onlarca dolar verdiğiniz işlemin 1 dolar altında gerçekleşmesi. Değer mi? Kişisel tercihe kalmış.. 
 
-### Başarı kriterleri neler?
+#### Başarı kriterleri neler?
 Binance kendi başına büyük bir dev. Hem işlem hacmi hem de kullanıcı adedi olarak en büyük. Bu büyüklüğün sinerjisinden yararlanmak için doğal olarak ekstra servisler vermeye çalışıyor. 
 
 | ![exchange_volumes](/assets/Exchange_volumes_210225_v3_1000.jpg)|
 |:--:| 
 | *Kaynak: [TheBlock](https://www.theblockcrypto.com/data/crypto-markets/spot)*|
 
-BSC bu anlamda, hem müşterilere ucuz bir alternatif sunmak hem de onları kendi sistemi içinde tutabilmek için ideal bir araç. Yani Binance bir nevi klasik dünyanın sıkça başvurduğu müşteriyi tutma (ingilizcesi customer stickiness) stratejisinin bir parçası olarak görüyor bunu. 
+BSC bu anlamda, hem müşterilere ucuz bir alternatif sunmak hem de onları kendi sistemi içinde tutabilmek için ideal bir araç. Yani Binance bir nevi klasik dünyanın sıkça başvurduğu müşteriyi tutma (ingilizcesi 'customer stickiness') stratejisinin bir parçası olarak görüyor bunu. 
 
 Sadece bununla da sınırlı değil yaptıkları: Ellerindeki müthiş büyük alıcı kitlesini olabildiğince kullanıyor. Geliştiricilere ve girişimcilere Binance Chain üzerinde açtığı alanlar ile destek ve hazır bir müşteri kitlesi veriyor. DeFi alanında Ethereum ağı içinde karşılaştığımız hemen hemen her ürünün bir kopyasını kendi ağı içinde müşterilerine sunuyor. Binance bu anlamda kendi ekosistemini kurma yolunda hızlı adımlarla ilerliyor. 
 
@@ -84,7 +84,7 @@ Kuruluşundan bu yana çok az bir süre geçmiş olmasına rağmen 2021 yılı �
 
 Merkeziyetsizlik felsefesine inananların gözünde Binance tipi bir zincirin saygın bir yer kazanması zor görünüyor. Ancak maliyeti ön planda tutan kullanıcı kitlesi zaten Binance içinde ve onların bu zinciri kullanması olası. Ya da  Binance'in bu geniş müşteri kitlesine ulaşmak isteyecek uygulamalar burayı seçebilir. Bunun ötesinde bu girişimlerin başarısına erkenden ortak olmak isteyecek yatırımcılar da aynı Ethereum zincirinde yaptıkları token satın alma, ya da getiri çiftçiliği (yield farming) işlemlerini BSC üzerinde yaparak paralarını değerlendirebilirler. 
 
-Dolayısıyla bir önceki yazımızda bahsettiğimiz DeFİ ürünleri için kritik olan topluluk konusunda Binance'in elinde hazır bir kitle var. Bu gönüllü bir topluluğa dönüşebilecek mi, göreceğiz. 
+Dolayısıyla bir önceki yazımızda bahsettiğimiz DeFi ürünleri için kritik olan topluluk konusunda Binance'in elinde hazır bir kitle var. Bu gönüllü bir topluluğa dönüşebilecek mi, göreceğiz. 
 
 | ![ETH_vs_BSC](/assets/ETH_BSC_TVL_v4_1000.jpg)|
 |:--:| 
@@ -95,4 +95,4 @@ Bu arada, gelecekte Ethereum'un getireceği yeniliklere BSC ne kadar adapte olac
 Öte yandan, başarının ne olduğu da tartışmalı. BSC Binance'in gücünü kullanarak yoluna devam edecektir. Ethereum'un tahtından indirebilir mi? Sanmıyorum. Böyle bir amacı var mı? Ona da yanıtım aynı olacak. Gerek var mı Ethereum'u yok etmeye? Yok tabii ki. Bu dünya yeterince büyük, eminim Ethereum dışında başka zincirler de burada başarılı olacaklar. 
 
 ### Sonuç 
-Bir önceki yazımızda bahsettiğimiz Ethereum rakibi merkeziyetsiz çözümlerin yanında, Binance gibi bir dev, yeni merkezi yapıda bir rakip yaratmış durumda. Üstelik kimi uygulamalarının kullanım hacimlerine baktığımızda, Ethereum ağındaki benzer uygulamalar ile aşık atabilecekmiş gibi görünüyor. Dolayısıyla BSC yabana atılmaması gereken bir alternatif. Şu anda Binance'in rüzgarını arkasına alarak pazarda kendine pay kapması yüksek olasılık. Uzun vadede merkeziyetsizlik yolunda ne kadar ilerleyecek onu da birlikte göreceğiz.
+Bir önceki [yazımızda](/genel/2021/02/27/Ethereum-ve-rakipleri.html) bahsettiğimiz Ethereum rakibi merkeziyetsiz çözümlerin yanında, Binance gibi bir dev, yeni merkezi yapıda bir rakip yaratmış durumda. Üstelik kimi uygulamalarının kullanım hacimlerine baktığımızda, Ethereum ağındaki benzer uygulamalar ile aşık atabilecekmiş gibi görünüyor. Dolayısıyla BSC yabana atılmaması gereken bir alternatif. Şu anda Binance'in rüzgarını arkasına alarak pazarda kendine pay kapması yüksek olasılık. Uzun vadede merkeziyetsizlik yolunda ne kadar ilerleyecek onu da birlikte göreceğiz.
