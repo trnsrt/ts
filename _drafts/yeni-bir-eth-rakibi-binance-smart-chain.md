@@ -54,7 +54,7 @@ Normalde Ethereum zinciri üzerinde işlem gören tokenlar ERC20 denen bir stand
 
 Binance ise işte bu DeFi paralarını kendi oluşturduğu BEP20 standardı ile kullanıcıların elektronik cüzdanlarına transfer ediyor. Hem hızlı hem de ucuz bir şekilde. Peki parayı alan nerede görüyor kriptoparasını? Binance blokzincirinde. Bunun için de kullanıcının Binance blokzincirine bağlanması lazım. Örneğin Metamask üzerinden bunu yapabilir. Metamask normalde Ethereum zincirine bağlı, ancak kullanıcı isterse Metamask’ını BSC’ye bağlayıp parasını görebilir ve cüzdanını BSC üzerindeki uygulamalara bağlayarak işlem yapabilir. 
 
-Sunulan sadece bir transfer altyapısı değil. Binance aynı zamanda Ethereum gibi bir DeFi ekosistem altyapısı da sunuyor. Ethereum’da gördüğünüz hemen hemen her DeFi ürününün bir benzerini BSC’de görmek mümkün. Örneğin, Uniswap yerine PancakeSwap var. Ya da kredi-mevduat işlemleri için Venus isimli bir uygulama oldukça popüler. 
+Sunulan sadece bir transfer altyapısı değil. Binance aynı zamanda Ethereum gibi bir DeFi ekosistem altyapısı da sunuyor. Ethereum’da gördüğünüz hemen hemen her DeFi ürününün bir benzerini BSC’de görmek mümkün. Örneğin, [Uniswap](https://uniswap.org/) yerine [PancakeSwap](https://pancakeswap.finance/) var. Ya da kredi-mevduat işlemleri için [Venus](https://venus.io/) isimli bir uygulama oldukça popüler. 
 
 #### Ne sorun var BSC kullanmakta?
 Dediğimiz gibi aslında bir sorun yok ama potansiyel olarak sorun olma ihtimali var. Merkeziyetsiz bir sistemin gelecek olduğuna inanıyorsanız, bu dünyada sahip olduğunuz paranın Binance tarafından korunmasını ister misiniz?
