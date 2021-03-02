@@ -13,7 +13,7 @@ tags: videos Etkinlikler
 <img src="/assets/hazine-maliye-bildiri-210301.png">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/b_zJXfPPxFE?t=1909" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe width="224" height="126" src="https://www.youtube.com/embed/b_zJXfPPxFE?t=1920" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Bakanlık bildirisi...  
