@@ -19,6 +19,6 @@ tags: videos Etkinlikler
 Bakanlık bildirisi...  
 </p></td>
 <td style="width:50%; vertical-align:top">
-<p>Bu da yayının YouTube linki</p>
+<p>Bu da yayının YouTube linkiç Konuşma 31:50'de başlıyor</p>
 </td></tr> 
 </table>
