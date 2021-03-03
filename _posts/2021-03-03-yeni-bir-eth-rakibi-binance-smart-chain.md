@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Yeni Bir Ethereum Rakibi: Binance Chain"
+date:   2021-03-03 17:47:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
 Akıllı kontrat platformu dünyasının lideri Ethereum'un pek çok alternatifi mevcut. Bunların bir kısmına geçtiğimiz [yazımızda](/genel/2021/02/27/Ethereum-ve-rakipleri.html) değinmiştik. Bu yazımızda ise hiç kimsenin beklemediği bir şekilde sağ kulvardan atağa kalkan Binance Chain'den bahsedeceğiz.
 
 ### Nereden çıktı bu Binance Chain?
@@ -96,3 +104,11 @@ Bu arada, gelecekte Ethereum'un getireceği yeniliklere BSC ne kadar adapte olac
 
 ### Sonuç 
 Önceki [yazımızda](/genel/2021/02/27/Ethereum-ve-rakipleri.html) bahsettiğimiz Ethereum rakibi merkeziyetsiz çözümlerin yanında, Binance gibi bir dev, yeni merkezi yapıda bir rakip yaratmış durumda. Üstelik kimi uygulamalarının kullanım hacimlerine baktığımızda, Ethereum ağındaki benzer uygulamalar ile aşık atabilecekmiş gibi görünüyor. Dolayısıyla BSC yabana atılmaması gereken bir alternatif. Şu anda Binance'in rüzgarını arkasına alarak pazarda kendine pay kapması yüksek olasılık. Uzun vadede merkeziyetsizlik yolunda ne kadar ilerleyecek onu da birlikte göreceğiz.
+
+---
+
+*Not 1: Bu yazı ilk olarak 3 Mart 2021'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/yeni-bir-ethereum-rakibi-binance-smart-chain/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
