@@ -6,7 +6,7 @@ categories: Genel
 tags: videos Etkinlikler
 ---
 
-<img align="left" src="/assets/BloombergHT-210301_800.jpg" style="width:40%; padding-right:20px"> BloombergHT Piyasa Hattı programında, Güzem Yılmaz Ertem'in konuğu olarak Hazine ve Maliye Bakanlığı'nın 1 Mart tarihinde yayınladığı kriptoparalar ile ilgili bildiriyi konuştuk.  
+<img align="left" src="/assets/BloombergHT-210301_800.jpg" style="width:40%; padding-right:20px"> BloombergHT Piyasa Hattı programında, [Güzem Yılmaz Ertem](https://twitter.com/guzemyilmaz)'in konuğu olarak Hazine ve Maliye Bakanlığı'nın 1 Mart tarihinde yayınladığı kriptoparalar ile ilgili bildiriyi konuştuk.  
 &nbsp;
 
 <table><tr><td style="width:50%">
