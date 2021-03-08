@@ -8,20 +8,21 @@ tags: Yazılar, Articles
 
 What tools do banks have to face the pressure from tech giants, central banks and decentralized solutions? What is next for them? Let's have a closer look:
 
-[In our previous post](/genel/2021/02/24/three-key-challenges-to-traditional-finance.html), we discussed three major threats that banks feel behind their necks.  All these challenges have the potential to eliminate the need for banks acting as an intermediary between parties. 
+[In our previous post](/genel/2021/02/24/three-key-challenges-to-traditional-finance.html), we discussed three major threats that banks feel behind their necks. All these challenges have the potential to eliminate the 'need' for banks - namely being a trusted intermediary between two parties.
 
-Do banks just sit idle? Of course not. Let's have a closer look on what they do and what the future looks like for them 
+Do banks just sit idle? Surely not. Let's have a closer look on what they do and what the future looks like for them:
 
 ### What do banks do?
-Banks are well aware of their own shortcomings and have been looking for potential solutions  for a long time. However there are certain internal structural challenges they need to tackle:
+Banks are well aware of their own shortcomings and have been looking for potential solutions  for a long time. However there are certain internal structural challenges that they need to tackle:
 
-First of all, banks developed their own systems during 70's or 80's (or even 90's in some emerging markets). These legacy systems are clearly outdated and it is painstakingly slow to migrate into newer technologies. In order to address changing customer needs quickly without changing their inters systems, they turned to startups for help. So a new sector was born: FinTech. 
+First of all, banks developed their own infrastructure during 70's or 80's (or even 90's in some emerging markets). These legacy systems are clearly outdated and it is painstakingly slow to migrate into newer technologies. In order to address changing customer needs without changing their internal systems, banks has turned to startups for help. So a new sector was born: FinTech.
+
+
+| ![security](/assets/digitization-3599925_800.jpg)|
+|:--:| 
+| *Image by [Schluesseldienst](https://pixabay.com/users/schluesseldienst-13794927/) from [Pixabay](https://pixabay.com/)*|
 
 Banks have heavily invested FinTech: They made partnerships with several startups, use their services as part of their core offerings. In some cases they bought these startups and brought their team in-house. Jury is still out on the effectiveness of such strategies:
-
-| ![phone](/assets/tiktok-5464739_800.jpg)|
-|:--:| 
-| *Image by [Stefan Coders](https://pixabay.com/users/stefancoders-11782809) from [Pixabay](https://pixabay.com/)*|
 
 On the one hand these startups brought a fresh air to the plazas that banks reside in. On the other hand, inevitably there have been cultural clashes between new kids on the block and the old guard. Who is the winner? In most (almost all cases), the old guard. Resulting in startup employees leaving the financial institutions to pursue other opportunities in outside world. 
 
@@ -33,10 +34,11 @@ In our last post, we mentioned three main threats to banks as individuals, centr
 Thanks to emerging technologies, all three have the power to challenge banks. Individuals, through the use of decentralized solutions such as cryptocurrencies and DeFi. Centrals banks by issuing Central Banks Digital Currencies (CBDC's). Lastly, tech giants, already having been inside the pockets of customers through mobile phones and now using digital currencies to cut the cord between the bank and customer. 
 
 
-
-| ![security](/assets/digitization-3599925_800.jpg)|
+| ![phone](/assets/privacy-policy-4521074_800.jpg)|
 |:--:| 
-| *Image by [Schluesseldienst](https://pixabay.com/users/schluesseldienst-13794927/) from [Pixabay](https://pixabay.com/)*|
+| *Image by [Stefan Coders](https://pixabay.com/users/stefancoders-11782809) from [Pixabay](https://pixabay.com/)*|
+
+
 
 Pattern is clear here. Banks are moving away from their customers. Their core function as the middleman between transactions is no longer needed. Individuals can use currencies or tech giants for their financial activities and central banks can directly interact with their citizens. 
 
