@@ -90,7 +90,7 @@ First of all, banks developed their own systems during 70's or 80's (or even 90'
 
 Banks have heavily invested FinTech: They made partnerships with several startups, use their services as part of their core offerings. In some cases they bought these startups and brought their team in-house. Jury is still out on the effectiveness of such strategies:
 
-| ![phone](/assets/tiktok-5464739_800)|
+| ![phone](/assets/tiktok-5464739_800.jpg)|
 |:--:| 
 | *Image by [Stefan Coders](https://pixabay.com/users/stefancoders-11782809) from [Pixabay](https://pixabay.com/)*|
 
