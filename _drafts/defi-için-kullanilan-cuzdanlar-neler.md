@@ -11,7 +11,7 @@ DeFi için yüzlerce cüzdan var.  Bu yazımızda gelin mobil ve tarayıcı bazl
 
 DeFi için genel olarak online, mobil ya da hardware cüzdanlar kullanılıyor. Mobil cüzdan dediğimiz aslında bir uygulama. Telefonunuzun işletim sistemine göre Apple Store ya da Google Play üzerinden indirip çalıştırıyorsunuz. 
 
-Uygulamayı açtığınızda yeni bir hesap oluşturabilir ya da daha önce bahsettiğimiz 12 kelime elinizin altında ise bunları girerek sahip olduğunuz varlıklarınızın bulunduğu hesaba ulaşabilirsiniz. Eğer yeni bir hesap yarattı iseniz, daha önce [yazdığımızı bir kez daha hatırlatalım](https://turansert.com/genel/2021/01/30/elektronik-cuzdan-ile-DeFiye-adim-atmak.html): Bu 12 kelimeyi not alıp güvenli bir yerde saklamak çok kritik, aksi halde cüzdanaı. 
+Uygulamayı açtığınızda yeni bir hesap oluşturabilir ya da daha önce bahsettiğimiz 12 kelime elinizin altında ise bunları girerek sahip olduğunuz varlıklarınızın bulunduğu hesaba ulaşabilirsiniz. Eğer yeni bir hesap yarattı iseniz, daha önce [yazdığımızı bir kez daha hatırlatalım](https://turansert.com/genel/2021/01/30/elektronik-cuzdan-ile-DeFiye-adim-atmak.html): Bu 12 kelimeyi not alıp güvenli bir yerde saklamak çok kritik, aksi halde cüzdanınızda bir sorun olduğunda hesabınızdaki varlıklara bu 12 kelime olmadan ulaşamazsınız!
 
 DeFi dünyası genel olarak Ethereum blokzinciri üzerinden çalıştığı için yazılarımızda genellikle Ethereum üzerinde çalışan cüzdanlardan bahsedeceğiz. Bitcoin ile Ethereum farklı zincirler oldukları için ilk zamanlarda çıkan cüzdanlar genelde ya birinde ya diğerinde çalışıyor idi. Şimdi her iki blokzincire ulaşmaya yarayan cüzdanlar da var.  
 
