@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Hangi elektronik cüzdan ne işe yarar?"
-date:   2021-03-11 17:47:56 +0300
+title:  "DeFi'de cüzdan kullanırken dikkat edilmesi gerekenler"
+date:   2021-03-25 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, DeFi'ye Giriş
 ---
