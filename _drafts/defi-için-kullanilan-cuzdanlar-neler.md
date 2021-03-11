@@ -33,7 +33,7 @@ Wallet Connect gibi 'telefonunu çıkar, uygulamayı açık, ekrandaki QR kodu o
 
 Bu arada 2020 yılının sonuna doğru Metamask, mobil cüzdanlar için de bir uygulama yarattı. Tarayıcınız üzerinden gördüğünüz hesabınızı benzer şekilde telefonunuzdan da görebiliyorsunuz. 
 
-Metamask'ın nasıl kullanılacağı ile ilgil [Aybars Dorman'ın detaylı yazısını okuyabilirsiniz]
+Metamask'ın nasıl kullanılacağı ile ilgili [Aybars Dorman'ın detaylı yazısını okuyabilirsiniz](https://medium.com/blockchainist-center/metamask-dijital-c%C3%BCzdan%C4%B1-nedir-63ebfed21b47)
 
 ### Cüzdanlar alanlarını geliştiriyor
 Perakende sektöründe temel bir anlayış vardır. Son kullanıcıya kim dokunuyor ise en avantajlı olan odur. Kripto dünyasında da kullanıcıya dokunanlar cüzdanlar. Bu nedenle ileride değer olarak ciddi bir avantaja sahipler. 
