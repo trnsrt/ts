@@ -21,17 +21,20 @@ DeFi dünyası genel olarak Ethereum blokzinciri üzerinden çalıştığı içi
 
 Bu yazımızda iki mobil cüzdan tipine değineceğiz: 
 
+
+
+
 #### Wallet Connect
 Wallet Connect, farklı cüzdanlar ile farklı DeFi uygulamalarının bir arada çalışmasını sağlayan bir standart. Kullanımı oldukça basit. Tek bilmeniz gereken telefonunuza yüklediğiniz mobil uygulamanın Wallet Connect standardına sahip olduğuna emin olmanız. Genelde çoğunluğunda bu özellik var. 
 
-Bilgisayarınızdaki tarayıcı üzerinden herhangi bir DeFi uygulamasına girdiğinizde, sağ üstte bulunan 'Cüzdanı Bağla' tuşuna bastığınızda karşınıza gelen alternatiflerden Wallet Connect'i seçiyorsunuz. Bu seçimi yaptığınızda karşınıza bir QR kod çıkıyor.  Sonrasında telefonunuzdaki cüzdan uygulamasını açıp içinden QR kod okuyucu üzerinden bilgisayar ekranındaki kodu okutmak. Bu telefonunuz aracılığıyla bilgisayarınızı blokzincire bağlıyor. 
+<img align="left" src="/assets/wallet_connect.jpg" style="width:20%; padding-right:20px"> Bilgisayarınızdaki tarayıcı üzerinden herhangi bir DeFi uygulamasına girdiğinizde, sağ üstte bulunan 'Cüzdanı Bağla' tuşuna bastığınızda karşınıza gelen alternatiflerden Wallet Connect'i seçiyorsunuz. Bu seçimi yaptığınızda karşınıza bir QR kod çıkıyor.  Sonrasında telefonunuzdaki cüzdan uygulamasını açıp içinden QR kod okuyucu üzerinden bilgisayar ekranındaki kodu okutmak. Bu telefonunuz aracılığıyla bilgisayarınızı blokzincire bağlıyor. 
 
 Wallet Connect standardı ile kurulmuş pek çok cüzdan mevcut. Bunların içinden kullanıcı kolaylığı ile Argent ön plana çıkıyor. Argent tamamen ilk cüzdan deneyimi yaşayanlar için kurgulanmış bir uygulama. Oldukça kullanışlı ve temiz bir arayüze sahip, yukarıda bahsettiğimiz 12 kelimeyi tutmak istemeyen ve parasının çalınmasından çekinenler için alternatif çözümler üreten bir cüzdan.
 
 #### Metamask
 Metamask, neredeyse tüm DeFi dünyasının otomatik cüzdanı olmuş durumda. Bunun temel nedeni kullanım rahatlığı. 
 
-Her ne kadar DeFi platformları mobil telefonlardan kullanılabiliyor olsalar da, işlemlerin karmaşık yapısı nedeniyle bilgisayar başında olmak çok daha verimli oluyor. Farklı web sitelerine bağlanmak için Wallet Connect kullanmak rahat ama daha rahatı Metamask. Neden? Çünkü Metamask tarayıcınız içine yükleyebileceğiniz bir eklenti.
+<img align="left" src="/assets/metamask.png" style="width:20%; padding-right:20px"> Her ne kadar DeFi platformları mobil telefonlardan kullanılabiliyor olsalar da, işlemlerin karmaşık yapısı nedeniyle bilgisayar başında olmak çok daha verimli oluyor. Farklı web sitelerine bağlanmak için Wallet Connect kullanmak rahat ama daha rahatı Metamask. Neden? Çünkü Metamask tarayıcınız içine yükleyebileceğiniz bir eklenti.
 
 Wallet Connect gibi 'telefonunu çıkar, uygulamayı açık, ekrandaki QR kodu okut' gibi detaylar yok burada. DeFi platformunda sağ yukarıdaki 'Cüzdan Bağla' tuşu üzerinden Metamask'ı seçip onay verdiğinizde bağlanmış oluyorsunuz. 
 
