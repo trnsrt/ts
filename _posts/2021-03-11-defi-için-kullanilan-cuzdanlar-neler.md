@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hangi elektronik cüzdan ne işe yarar?"
+title:  "DeFi için kullanılan cüzdanlar neler?"
 date:   2021-03-11 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, DeFi'ye Giriş
