@@ -33,9 +33,9 @@ Wallet Connect standardı ile kurulmuş pek çok cüzdan mevcut. Bunların için
 
 #### Metamask
 
-<img align="left" src="/assets/metamask.png" style="width:20%; padding-right:20px"> Metamask, neredeyse tüm DeFi dünyasının otomatik cüzdanı olmuş durumda. Bunun temel nedeni kullanım rahatlığı. 
+Metamask, neredeyse tüm DeFi dünyasının otomatik cüzdanı olmuş durumda. Bunun temel nedeni kullanım rahatlığı. 
 
-Her ne kadar DeFi platformları mobil telefonlardan kullanılabiliyor olsalar da, işlemlerin karmaşık yapısı nedeniyle bilgisayar başında olmak çok daha verimli oluyor. Farklı web sitelerine bağlanmak için Wallet Connect kullanmak rahat ama daha rahatı Metamask. Neden? Çünkü Metamask tarayıcınız içine yükleyebileceğiniz bir eklenti.
+<img align="left" src="/assets/metamask.png" style="width:20%; padding-right:20px"> Her ne kadar DeFi platformları mobil telefonlardan kullanılabiliyor olsalar da, işlemlerin karmaşık yapısı nedeniyle bilgisayar başında olmak çok daha verimli oluyor. Farklı web sitelerine bağlanmak için Wallet Connect kullanmak rahat ama daha rahatı Metamask. Neden? Çünkü Metamask tarayıcınız içine yükleyebileceğiniz bir eklenti.
 
 Wallet Connect gibi 'telefonunu çıkar, uygulamayı açık, ekrandaki QR kodu okut' gibi detaylar yok burada. DeFi platformunda sağ yukarıdaki 'Cüzdan Bağla' tuşu üzerinden Metamask'ı seçip onay verdiğinizde bağlanmış oluyorsunuz. 
 
