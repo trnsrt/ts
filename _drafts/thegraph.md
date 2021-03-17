@@ -10,7 +10,7 @@ DeFi ürünlerinin temelini ise akıllı kontratlar oluşturuyor. Akıllı kontr
 
 Bu bir nevi, kurulu bir oyuncak arabanın evin içinde dönüp dururken duvara toslayıp durması gibi. Kontratın bu bilgiyi alabileceği bir yer yok. Bu bilginin ona sağlanması gerekiyor. İşte oracle dediğimiz bilgi kaynakları, bu bilgiyi blokzincir dışı dış dünyadan alıp kontratın hazmedeceği bir hale getiriyorlar. Oracle'lar dış dünya ile blokzincir arasında bir köprü vazifesi görüyor adeta. Chainlink de bunların en ünlü ve büyük olanı. 
 
-The Graph de, işlevi Chainlink'ten hayli farklı olsa da benzer şekilde DeFi ürünler ile dışarısı arasında köprü görevi gören bir aracı. Gelin daha detaylı bakalım ne yaptığına:
+[The Graph](https://thegraph.com/) de, işlevi Chainlink'ten hayli farklı olsa da benzer şekilde DeFi ürünler ile dışarısı arasında köprü görevi gören bir aracı. Gelin daha detaylı bakalım ne yaptığına:
 
 ### Nedir Graph? Ne işe yarar? Kimler kullanır?
 The Graph blokzincirlerin ya da onların üzerinde yaşayan DeFi ürünlerinin performansları hakkında bilgi ve analiz sunan bir hizmet. Tam olarak yaptığı blokzincirlerin yarattığı bilgileri (data ya da veri denebilir bunlara) toplamak, arama yapılacak hale sokmak (endekslemek) ve ihtiyaç duyanların hizmetine sunmak.
