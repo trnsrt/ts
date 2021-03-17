@@ -6,7 +6,7 @@ categories: Genel
 tags: videos Etkinlikler
 ---
 
-<img align="left" src="/assets/yollarda_tv_210317_poster_800.jpg" style="width:40%; padding-right:20px"> Sevgili [Koray Bahar]((https://twitter.com/guzemyilmaz)) ve [Arman Eker](https://twitter.com/arman_eker) ile [Yollarda TV](https://twitter.com/YollardaTV)'nin YouTube yayınında [Merkeziyetsiz Finans ve Blockchain konuştuk](https://www.youtube.com/embed/WNmog-JfEbY). Yaklaşık 45 dakika süren oldukça keyifli bir program oldu.. Konuya ilgi duyanlar sohbet havasındaki yayına göz atabilirler. 
+<img align="left" src="/assets/yollarda_tv_210317_poster_800.jpg" style="width:40%; padding-right:20px"> Sevgili [Koray Bahar](https://twitter.com/KorayBahar) ve [Arman Eker](https://twitter.com/arman_eker) ile [Yollarda TV](https://twitter.com/YollardaTV)'nin YouTube yayınında [Merkeziyetsiz Finans ve Blockchain konuştuk](https://www.youtube.com/embed/WNmog-JfEbY). Yaklaşık 45 dakika süren oldukça keyifli bir program oldu.. Konuya ilgi duyanlar sohbet havasındaki yayına göz atabilirler. 
 &nbsp;
 
 <table><tr><td style="width:50%">
