@@ -15,7 +15,7 @@ Bunlar işin güzel tarafı. Bir de madalyonun öbür tarafı var.. Bu kadar esn
 
 Efendim, 2020 yılının Şubat ayında bir haber ile sarsıldı DeFi dünyası...  [bZx hacklenmiş](https://cointelegraph.com/news/decentralized-lending-protocol-bzx-hacked-twice-in-a-matter-of-days).. Yetmedi hemen iki gün sonra 'bZx yeniden hacklenmiş' haberi çıktı.. 
 
-Sonra Ekim ayında bir haber daha duyduk.. '[Value DeFi flash loan atağı yemiş, 6 milyon ABD Doları zarar etmiş])' diye.. Allah Allah.. Ne ola ki bu flash loan'lar?.. Bak DeFi'nin de açığı çıkmış.. 
+Sonra Ekim ayında bir haber daha duyduk.. '[Value DeFi flash loan atağı yemiş, 6 milyon ABD Doları zarar etmiş](https://news.bitcoin.com/defi-protocol-bragged-having-flash-loan-attack-prevention-hacked-6-million/#:~:text=Value%20Defi%20said%20it%20suffered,million%20in%20DAI%20from%20Uniswap.)' diye.. Allah Allah.. Ne ola ki bu flash loan'lar?.. Bak DeFi'nin de açığı çıkmış.. 
 
 Sonra Kasım'da [bir daha](https://www.coindesk.com/value-defi-suffers-6m-flash-loan-attack)... Bir tane daha.. Artık kabak tadı vermeye başladı değil mi?.. Neler oluyor dostlar?.. Gelin bakalım neler olmuş...
 
