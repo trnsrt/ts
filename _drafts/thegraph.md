@@ -24,12 +24,11 @@ Eğer bu bilgiye ihtiyaç duyan bir DeFi ürünü ya da yatırımcı kuruluş is
 İşte Graph size herhangi bir blokzincire ait bilgileri istediğiniz formatta alıp istediğiniz şekilde analiz etmenizi sağlayacak bir platform sunuyor. Üstelik istediğiniz zaman ya da sıklıkta yaptırıyor, kullandığınız kadar para ödüyorsunuz.  Tabii ki en büyük avantajı bunu merkeziyetsiz yani aracılar olmadan daha güvenilir bir şekilde gerçekleştiriyorsunuz. 
 
 ### Bir örnek mi versek?
-Burada basit bir örnek vermek konuyu somutlaştırmak açısından iyi olabilir. (Hemen belirtelim bu ürünü biz son kullanıcıların kullanması oldukça zor. Zira basit de olsa veri tabanlarında bilgi sorgulama ile ilgili bilgi sahibi olmak gerekiyor.) En büyük örnek olan Uniswap'tan başlayalım. (Yine bir hatırlatma. Uniswap, merkeziyetsiz finans dünyasının en büyük takas borsası. İçinde [167 adet farklı havuz](https://info.uniswap.org/pairs) bulunuyor. Daha detay için [şu yazımıza](/genel/2020/09/15/nedir-bu-uniswap.html) bakabilirsiniz)
+Burada basit bir örnek vermek konuyu somutlaştırmak açısından iyi olabilir. (Hemen belirtelim bu ürünü biz son kullanıcıların kullanması oldukça zor. Zira basit de olsa veri tabanlarında bilgi sorgulama ile ilgili bilgi sahibi olmak gerekiyor.) En büyük örnek olan Uniswap'tan başlayalım. (Yine bir hatırlatma. Uniswap, merkeziyetsiz finans dünyasının en büyük takas borsası.  Daha detay için [şu yazımıza](/genel/2020/09/15/nedir-bu-uniswap.html) bakabilirsiniz)
 
-Uniswap, üzerin
+Uniswap, üzerindeki 2020 yılının Şubat ayı içinde toplam [4.2 milyon adet alım-satım işlemi](https://duneanalytics.com/danrobinson/uniswap-combined-metrics) gerçekleşmiş. Bu Ethereum zinciri üzerine yazılmış bu kadar sayıda işlem demek.. Bütün bunlar Uniswap içindeki [167 adet farklı havuz](https://info.uniswap.org/pairs)'da gerçekleşmiş. Gerçekleşmiş tüm işlemler ve havuzun durumu ile ilgili detaylı bilgiyi tarihsel olarak almak isterseniz The Graph üzerinden isteyebilirsiniz. 
 
-
-### Graph'in fonksiyonu ne burada?
+### Graph'in özelliği ne?
 Graph'ı kuran ekip, sistemi olabildiğince merkeziyetsiz yapmak için oldukça çaba sarfetmiş. Örneğin Chainlink sisteminden bahsederken, her ne kadar müşterileri merkeziyetsiz DeFi platformları olsa da, sistemin oldukça merkezi olduğundan bahsetmiştik. 
 
 The Graph'de ise daha merkeziyetsiz bir sistem görüyoruz. Sisteme giriş ve çıkış izne tabi değil herseyde önce. İşleyiş de olabildiğince kendi kendine oluyor. Graph ekibi birkaç yerde işin içinde:
@@ -37,7 +36,6 @@ The Graph'de ise daha merkeziyetsiz bir sistem görüyoruz. Sisteme giriş ve ç
 Ortaya çıkarılan endeks ya da analizlerin, ihtiyaç sahiplerine düzgün bir şekilde tanıtılması için Graph Explorer isimli bir dApp kurmuş ekip. Bu oldukça kritik. Zira küratörler tarafından en kaliteli endeksler ortaya çıkarılmalı ki, bunlar talep sahipleri tarafından görülebilsin, kullanılsın ve küratör ve endeksçilere para kazandırsın. Ham data IPFS denilen merkeziyetsiz protokolde tutulsa da, Graph Explorer'daki endeks ve analiz bilgileri şimdilik merkezi bir yerde tutuluyor. Gelecekte bu hizmetin merkeziyetsiz bir şekilde sunulması için çalışmalar sürüyor. 
 
 Bunun yanında başlangıçta endeksçilerin hatalı bilgi verdiği gibi konularda karar verici olan ekip olsa da bu daha sonra protokolün yönetimine bırakılacak. 
-
 
 ### Rakipleri var mı? Gelecek nasıl görünüyor?
 
@@ -47,8 +45,11 @@ Ancak bütün merkezi servislerde yukarıda bahsettiğimiz güvenirlilik sıkın
 
 Bakalım bu alanda da her alanda olduğu gibi, merkezi platformların hızlı ve kullanıcı dostu arayüzleri ile merkeziyetsiz platformların daha az kullanışlı ama eğilip bükülebilir ve tarafsız yapısı arasındaki bu tatlı rekabette kim ön plana çıkacak. Şu an görünen her iki hizmetin de farklı alıcıları olacağı ve pazarda kendilerine yer bulacakları şeklinde.. 
 
+Ancak şunu unutmamakta fayda var. Oldukça kuvvetli bir yatırımcı ordusunu arkasına alan, token değeri olarak da çok iyi bir yükseliş yakalayan The Graph, şu an için merkezi rakiplerinin önünde değil. Üstelik bu rakiplerden ayrışacağını belirttiği merkeziyetsizlik konusunda ise daha önünde alacağı çok yol var. Muhtemelen yatırımcıları değer olarak The Graph'ın arkasında olmaya devam edecekler ancak başarıyı bu bahsettiği merkeziyetsizliği başarabildiği ölçüde kazanacak.. 
+
 ### Sonuç
 The Graph protokolü, merkeziyetsiz blokzincir dünyasının yarattığı bol veriyi, tarafsız bir şekilde tarayıp, endeksleyip, kullanıcıların sorgulamasına sunan ve bu dünyanın ruhuna uygun olarak merkeziyetsizleşmeyi kendine hedef seçmiş bir DeFi ürünü.. Şu an için Ethereum bazlı olarak çalışan protokol bakalım Chainlink benzeri vazgeçilmez bir DeFi hizmet sağlayıcı olabilecek mi?
+
 
 
 --
