@@ -15,6 +15,10 @@ Bu bir nevi, kurulu bir oyuncak arabanın evin içinde dönüp dururken duvara t
 ### Nedir Graph? Ne işe yarar? Kimler kullanır?
 The Graph blokzincirlerin ya da onların üzerinde yaşayan DeFi ürünlerinin performansları hakkında bilgi ve analiz sunan bir hizmet. Tam olarak yaptığı blokzincirlerin yarattığı bilgileri (data ya da veri denebilir bunlara) toplamak, arama yapılacak hale sokmak (endekslemek) ve ihtiyaç duyanların hizmetine sunmak.
 
+| ![e-wallet](/assets/arrows-2899888_800.jpg)|
+|:--:| 
+| *Image by [Gerd Altmann](https://pixabay.com/users/geralt-9301/) from [Pixabay](https://pixabay.com/)*|
+
 İhtiyaç duyanlar kimler? Başka başka DeFi hizmet sağlayıcılar, yatırımcılar ya da yatırımcılara danışmanlık verenler...
 
 Piyasada bu şekilde data toplama ve analiz hizmeti sağlayan pek çok kurum ve analist var. Ancak bunların tamamı merkezi yapılar. Merkezi yapı oldukları için de güvenilirlikleri tartışmalı. Hangi bilgi kaynağını kullanıyorlar, o aşağı yukarı biliniyor ancak aldıkları bilgiyi eksiksiz olarak kullanıyorlar mı, o belli değil. Ne sıklıkla bilgi alıyorlar ve analizlerini ne sıklıkla tekrar ediyor? Genelleme yapmak zor, çok iyi servisler de var ancak tam bir saydamlık yok. 
