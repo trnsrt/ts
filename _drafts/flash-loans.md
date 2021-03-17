@@ -1,4 +1,4 @@
-Flash loans
+
 Bu yazımızda gelin DeFi dünyasına özgü Flash Loan vakalarını, ne demek olduğunu anlamaya çalışalım.. 
 
 Merkeziyetsiz finansın, klasik finansın mevcut sorunlarına çözüm bulma amacıyla yola çıktığından bahsetmiştik. İnsanların finansal dünyadaki ihtiyaçlarını daha özgür ve gücü ellerinde tutacak şekilde gidermelerini sağlamaya çalışan DeFi, bunu yapabilmek için temelden farklı bir şekilde kuruldu. Bunu da her bir farklı üründe gözler önüne seriyoruz.. 
