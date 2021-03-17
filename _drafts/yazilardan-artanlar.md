@@ -1,3 +1,14 @@
+
+
+Not: 
+İşlemler şu şekilde gerçekleşiyor: 
+- Uniswap üzerinde yapılan bir işlem akıllı kontrat aracılığıyla Ethereum blokzincirine yazılır
+- Graph sisteminin endeksçileri her yeni Ethereum bloğunu tarayarak bu bilgileri yakalarlar
+- Eğer yakalanan kontrat bilgileri içinde sizin istediğiniz koşullara uygun olanlar varsa bu bilgiler bir araya getiriliyor
+
+
+---
+
 Compound: 
 
 ### Ne tip sıkıntıları var?
