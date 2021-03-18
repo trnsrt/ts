@@ -72,7 +72,7 @@ Ancak şunu unutmamakta fayda var. Oldukça kuvvetli bir yatırımcı ordusunu a
 ### Sonuç
 The Graph protokolü, merkeziyetsiz blokzincir dünyasının yarattığı bol veriyi, tarafsız bir şekilde tarayıp, endeksleyip, kullanıcıların sorgulamasına sunan ve bu dünyanın ruhuna uygun olarak merkeziyetsizleşmeyi kendine hedef seçmiş bir DeFi ürünü.. Şu an için Ethereum bazlı olarak çalışan protokol bakalım merkeziyetsizlik yolundaki yürüyüşüne devam edecek ve sonrasında vazgeçilmez bir DeFi hizmet sağlayıcı olabilecek mi? 
 
-Yazıyı daha fazla uzatmamak için The Graph sisteminin nasıl çalıştığı konusundaki detayı bir sonraki yazımızda bulabilrsiniz. 
+Yazıyı daha fazla uzatmamak için The Graph sisteminin nasıl çalıştığı konusundaki detayı bir sonraki yazımızda bulabilirsiniz. 
 
 ---
 
