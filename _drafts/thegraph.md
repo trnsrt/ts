@@ -1,16 +1,16 @@
-Bu yazımızda DeFi dünyasındakilerin data ve analiz ihtiyacını karşılamaya yönelik, nispeten yeni ancak önemli bir işlevi yerine getiren The Graph Protocol'den bahsedeceğiz. 
+Bu yazımızda DeFi dünyası oyuncularının data ve analiz ihtiyacını karşılamaya yönelik yeni ancak önemli bir işlevi yerine getiren The Graph Protocol'den bahsedeceğiz.
 
-### Dış dünya ile bir köprü: Chainlink
+[The Graph Protocol](https://thegraph.com/), DeFi ürünler ile dış dünya arasında köprü görevi gören bir aracı. İşlevi farklı olsa da genel olarak DeFi dünyasının eskilerinden Chainlink’e oldukça benziyor. 
 
-Hatırlayanlar olacaktır, geçmişteki bir [yazımızda](/genel/2020/12/22/definin-bilgi-kaynagi-oracle.html) [Chainlink](https://chain.link/)'ten bahsetmiştik. Öncelikle nedir Chainlink ve bilgi sağlayıcı (oracle) servisleri kısaca hatırlayalım:
+### Benzer bir altyapı projesi olan Chainlink'i hatırlayalım önce... 
 
-DeFi platformları özünde kendi başlarına birer ünya. Herhangi bir DeFi ürünü üzerine kurulu olduğu DeFi platformunun içinde güzel güzel yaşıyor. (Şu an ağırlıklı olarak Ethereum bu platform ancak rakipleri de geliyor). Ancak kimi zaman bu ürünlerin kendi blokzincir dışı ile de irtibatı olması gerekiyor. 
+Hatırlayanlar olacaktır, DeFi’nin önemli altyapı sağlayıcılarından olan [Chainlink](https://chain.link/) üzerine [detaylı bir analiz](/genel/2020/12/22/definin-bilgi-kaynagi-oracle.html) yapmıştık.. Gelin önce Chainlink ne işe yarar kısaca hatırlayalım:
 
-DeFi ürünlerinin temelini ise akıllı kontratlar oluşturuyor. Akıllı kontrat aslında bir yazılım. Kendisine söyleneni otomatik olarak genellikle 'el değmeden' yerine getiriyor. Harekete geçmesi için uygun koşulların oluştuğunu anlaması gerek. Eğer bu 'işlem yapmayı tetikleyici' bilgi blokzincir içinde ise işi nispeten kolay. Kontrat içinde yazılı bilgi kaynağına giderek bilgiyi alıyor. Ancak bilgi dışarıda ise o zaman işi zor. 
+DeFi platformları özünde kendi başlarına birer dünya. Herhangi bir DeFi ürünü üzerine kurulu olduğu DeFi platformunun içinde güzel güzel yaşıyor. (Şu an ağırlıklı olarak Ethereum bu platform ancak rakipleri de geliyor). Ancak kimi zaman bu ürünlerin kendi blokzincir dışı ile de irtibatı olması gerekiyor.
 
-Bu bir nevi, kurulu bir oyuncak arabanın evin içinde dönüp dururken duvara toslayıp durması gibi. Kontratın bu bilgiyi alabileceği bir yer yok. Bu bilginin ona sağlanması gerekiyor. İşte oracle dediğimiz bilgi kaynakları, bu bilgiyi blokzincir dışı dış dünyadan alıp kontratın hazmedeceği bir hale getiriyorlar. Oracle'lar dış dünya ile blokzincir arasında bir köprü vazifesi görüyor adeta. Chainlink de bunların en ünlü ve büyük olanı. 
+DeFi ürünlerinin temelini ise akıllı kontratlar oluşturuyor. Akıllı kontrat aslında bir yazılım. Kendisine söyleneni otomatik olarak genellikle 'el değmeden' yerine getiriyor. Harekete geçmesi için uygun koşulların oluştuğunu anlaması gerek. Eğer bu 'işlem yapmayı tetikleyici' bilgi blokzincir içinde ise işi nispeten kolay. Kontrat içinde yazılı bilgi kaynağına giderek bilgiyi alıyor. Ancak bilgi dışarıda ise o zaman işi zor.
 
-[The Graph](https://thegraph.com/) de, işlevi Chainlink'ten hayli farklı olsa da benzer şekilde DeFi ürünler ile dışarısı arasında köprü görevi gören bir aracı. Gelin daha detaylı bakalım ne yaptığına:
+Bu bilginin ona sağlanması gerekiyor. İşte oracle dediğimiz bilgi kaynakları, bu bilgiyi blokzincir dışı dünyadan alıp kontratın işleyeceği bir hale getiriyorlar. Örneğin altın fiyatları üzerine işlem yapan bir akıllı kontrat dış dünyadaki altın fiyatlarını bilmek zorunda. Oracle'lar dış dünya ile blokzincir arasında bu anlamda  bir köprü vazifesi görüyor adeta. Chainlink de bunların en ünlü ve büyük olanı.
 
 ### Nedir Graph? Ne işe yarar? Kimler kullanır?
 The Graph blokzincirlerin ya da onların üzerinde yaşayan DeFi ürünlerinin performansları hakkında bilgi ve analiz sunan bir hizmet. Tam olarak yaptığı blokzincirlerin yarattığı bilgileri (data ya da veri denebilir bunlara) toplamak, arama yapılacak hale sokmak (endekslemek) ve ihtiyaç duyanların hizmetine sunmak.
@@ -21,18 +21,23 @@ The Graph blokzincirlerin ya da onların üzerinde yaşayan DeFi ürünlerinin p
 
 İhtiyaç duyanlar kimler? Başka başka DeFi hizmet sağlayıcılar, yatırımcılar ya da yatırımcılara danışmanlık verenler...
 
-Piyasada bu şekilde data toplama ve analiz hizmeti sağlayan pek çok kurum ve analist var. Ancak bunların tamamı merkezi yapılar. Merkezi yapı oldukları için de güvenilirlikleri tartışmalı. Hangi bilgi kaynağını kullanıyorlar, o aşağı yukarı biliniyor ancak aldıkları bilgiyi eksiksiz olarak kullanıyorlar mı, o belli değil. Ne sıklıkla bilgi alıyorlar ve analizlerini ne sıklıkla tekrar ediyor? Genelleme yapmak zor, çok iyi servisler de var ancak tam bir saydamlık yok. 
-
 DeFi dünyası 7/24 çalışan bir dünya. Bilgiye nerede ise gerçek zamanlı ihtiyaç duyuyorsunuz. Size bu tip analizler için hazır araçlar sunan siteler de mevcut. Ama tam istediğiniz gibi bir analiz seti bulabiliyor musunuz? Peki o site, analizde kullandığı bilgileri sizin istediğiniz yerden mi alıyor?
 
-Normalde böyle bir bilgiye ihtiyaç duyan bir servis ya da yatırımcı kuruluş iseniz, yapmanız gereken, kendi iç ekiplerinizi kullanıp ihtiyaç duyduğunuz bu araçları sıfırdan yaratmak yani yazmak. İyi de, bir DeFi ürünü olarak zamana karşı yarışıyorsunuz. Rakipler her gün yeni bir özellik sunuyorlar. İnsan kaynağı deseniz zaten kısıtlı. Bu kısıtlı kaynağı kendi öz ürününüzü geliştirmek için mi kullanmak istersiniz, yoksa bu tip bir ikincil ihtiyaç için mi?
+Normalde DeFi alanında bir girişim olarak böyle bir bilgiye ihtiyaç duyuyorsanız, yapmanız gereken, kendi iç ekiplerinizi kullanıp ihtiyaç duyduğunuz bu araçları sıfırdan yaratmak yani yazmak. İyi de, bir DeFi ürünü olarak zamana karşı yarışıyorsunuz. Rakipler her gün yeni bir özellik sunuyorlar. İnsan kaynağı deseniz zaten kısıtlı. Kısıtlı insan kaynağınızı kendi ana ürününüzü geliştirmek için mi kullanmak istersiniz, yoksa bu tip bir ikincil ihtiyaç için mi?
 
 İşte Graph size herhangi bir blokzincire ait bilgileri istediğiniz formatta alıp istediğiniz şekilde analiz etmenizi sağlayacak bir platform sunuyor. Üstelik istediğiniz zaman ya da sıklıkta yaptırıyor, kullandığınız kadar para ödüyorsunuz.  Tabii ki en büyük avantajı, bunu merkeziyetsiz yani aracılar olmadan daha güvenilir bir şekilde gerçekleştiriyorsunuz. 
 
 ### Bir örnek mi versek?
-Burada basit bir örnek vermek konuyu somutlaştırmak açısından iyi olabilir. (Hemen belirtelim bu ürünü biz son kullanıcıların kullanması oldukça zor. Zira basit de olsa veri tabanlarında bilgi sorgulama ile ilgili bilgi sahibi olmak gerekiyor.) En bilinen örnek olan Uniswap'tan başlayalım: (Yine bir hatırlatma: [Uniswap](https://uniswap.org/), merkeziyetsiz finans dünyasının en büyük takas borsası.  Ne olduğu ve nasıl çalıştığı ile ilgili [şu yazımıza](/genel/2020/09/15/nedir-bu-uniswap.html) bakabilirsiniz)
+Burada basit bir örnek vermek konuyu somutlaştırmak açısından iyi olabilir. En bilinen örnek olan Uniswap'tan başlayalım: (Yine bir hatırlatma: [Uniswap](https://uniswap.org/), merkeziyetsiz finans dünyasının en büyük takas borsası.  Ne olduğu ve nasıl çalıştığı ile ilgili [şu yazımıza](/genel/2020/09/15/nedir-bu-uniswap.html) bakabilirsiniz)
 
 Uniswap, üzerindeki 2020 yılının Şubat ayı içinde toplam [4.2 milyon adet alım-satım işlemi](https://duneanalytics.com/danrobinson/uniswap-combined-metrics) gerçekleşmiş. Bu Ethereum zinciri üzerine yazılmış bu kadar sayıda işlem demek. Bütün bunlar Uniswap içindeki [167 adet farklı havuz](https://info.uniswap.org/pairs)'da gerçekleşmiş. Her bir havuzdaki işlemler, hacimler, havuzların durumu - düşünürseniz milyonlarca bilgi var, işleyip analiz edebileceğiniz. İşte bu işlemler ve havuzların durumunu anlık ya da belli tarih aralıkları içinde dönemsel olarak almak isterseniz The Graph sistemini kullanabilirsiniz. 
+
+
+| ![uniswap_on_the_graph](/assets/uniswap-overview_800.jpg)|
+|:--:| 
+| *En basitinden The Graph kullanılan bir Uniswap grafik örneği. Kaynak: [The Graph](https://thegraph.com/blog/uniswap-built-on-the-graph)*|
+
+Hemen belirtelim bu ürünü biz son kullanıcıların kullanması oldukça zor. Zira basit de olsa veri tabanlarında bilgi sorgulama ile ilgili bilgi sahibi olmak gerekiyor.
 
 ### The Graph'in özelliği ne?
 The Graph'ı kuran ekip, sistemi olabildiğince merkeziyetsiz yapmak için oldukça çaba sarfetmiş. Örneğin Chainlink sisteminden bahsederken, her ne kadar müşterileri merkeziyetsiz DeFi platformları olsa da, sistemin oldukça merkezi olduğundan bahsetmiştik. 
