@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "DeFi dünyasının merkeziyetsiz analiz sağlayıcısı 'The Graph'"
+date:   2021-03-20 17:47:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
 Bu yazımızda DeFi dünyası oyuncularının data ve analiz ihtiyacını karşılamaya yönelik yeni ancak önemli bir işlevi yerine getiren The Graph Protocol'den bahsedeceğiz.
 
 [The Graph Protocol](https://thegraph.com/), DeFi ürünler ile dış dünya arasında köprü görevi gören bir aracı. İşlevi farklı olsa da genel olarak DeFi dünyasının eskilerinden Chainlink’e oldukça benziyor. 
@@ -66,5 +74,12 @@ The Graph protokolü, merkeziyetsiz blokzincir dünyasının yarattığı bol ve
 
 Yazıyı daha fazla uzatmamak için The Graph sisteminin nasıl çalıştığı konusundaki detayı bir sonraki yazımızda bulabilrsiniz. 
 
---
+---
+
+*Not 1: Bu yazı ilk olarak 20 Mart 2021'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/yeni-bir-ethereum-rakibi-binance-smart-chain/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
+
 
