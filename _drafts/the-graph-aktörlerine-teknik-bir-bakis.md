@@ -1,4 +1,6 @@
 
+Mrkeziyetsiz bir servis sağlayıcı olan The Graph protokolünde, sistemi yürüten aktörlere büyük iş düşüyor.. Gelin bu yazımızda bu aktörlere ve sistemin nasıl çalıştığına daha yakından bakalım.  
+
 Bir önceki yazımızda The Graph Protokol'ün ne olduğunu ve nasıl işlediğinden bahsetmiştik. Okumadıysanız öncelikle o yazıyı okumanız sonrasında buraya dönmeniz tavsiye edilir. 
 
 ### Sistem nasıl çalışıyor? 
