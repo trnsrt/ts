@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DeFi dünyasının merkeziyetsiz analiz sağlayıcısı 'The Graph'"
-date:   2021-03-20 17:47:56 +0300
+date:   2021-03-19 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
 ---
@@ -76,7 +76,7 @@ Yazıyı daha fazla uzatmamak için The Graph sisteminin nasıl çalıştığı 
 
 ---
 
-*Not 1: Bu yazı ilk olarak 20 Mart 2021'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/yeni-bir-ethereum-rakibi-binance-smart-chain/)*
+*Not 1: Bu yazı ilk olarak 19 Mart 2021'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/defi-dunyasinin-merkeziyetsiz-analiz-saglayicisi-the-graph/)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
