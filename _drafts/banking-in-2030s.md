@@ -35,7 +35,7 @@ Thanks to emerging technologies, all three have the power to challenge banks: In
 
 | ![phone](/assets/privacy-policy-4521074_800.jpg)|
 |:--:| 
-| *Image by [Stefan Coders](https://pixabay.com/users/stefancoders-11782809) from [Pixabay](https://pixabay.com/)*|
+| *Image by [Schluesseldienst](https://pixabay.com/users/schluesseldienst-13794927/) from [Pixabay](https://pixabay.com/)*|
 
 
 Pattern is clear here. **Banks are moving away from their customers. Their core function as the middleman between transactions is no longer needed. Individuals can use currencies or tech giants for their financial activities and central banks can directly interact with their citizens.**
