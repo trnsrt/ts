@@ -3,6 +3,10 @@ Merkeziyetsiz bir servis sağlayıcı olan The Graph protokolünde, sistemi yür
 
 Bir önceki yazımızda The Graph Protokol'ün ne olduğunu ve nasıl işlediğinden bahsetmiştik. Okumadıysanız öncelikle o yazıyı okumanız sonrasında buraya dönmeniz tavsiye edilir. 
 
+
+<a href="genel/2021/03/19/defi-dunyasinin-merkeziyetsiz-analiz-saglayicisi-the-graph.html">
+         <img alt="Tweet" src="/assets/graph_yazi_link_640.jpg"></a>
+
 ### Sistem nasıl çalışıyor? 
 
 Graph tam bir oracle sayılmaz. Zira oracle hizmetine servis sağlayan dış aracılar (oracle düğümleri) dış dünyadan aldıkları bilgiyi akıllı kontrata aktarıyorlar. 
