@@ -10,13 +10,16 @@ tags: videos Etkinlikler
 &nbsp;
 
 
-<table><tr><td style="width:15%">
+<table><tr><td style="width:50%">
 <img src="/assets/sabanci_finans_zirvesİ_tek_800.jpg">
 </td>
-</tr>
-<tr><td style="width:15%; vertical-align:top">
+<td style="width:50%">
+<iframe width="224" height="126"</td></tr>
+<tr><td style="width:50%; vertical-align:top">
 <p>
-Yayından bir görüntü 
+Etkinlik posteri 
 </p></td>
-</tr> 
+<td style="width:50%; vertical-align:top">
+<p>              </p>
+</td></tr> 
 </table>
