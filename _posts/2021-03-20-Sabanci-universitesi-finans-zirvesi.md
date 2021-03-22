@@ -6,7 +6,7 @@ categories: Genel
 tags: videos Etkinlikler
 ---
 
-<img align="left" src="/assets/sabanci_finans_zirvesi_toplu_800.jpg" style="width:15%; padding-right:20px"> Sabancı Üniversitesi İşletme ve Ekonomi Kulübünün düzenlediği Finans Zirvesinde Kripto Para ile ilgili bir sunum yaptım.. Sevgili Şant Manukyan'ın dışında Ali Karabey ve Hüsnü Dinçsoy'un da yer aldığı zirvede kariyerinde doğru adımı atmak isteyen üniversiteliler ile sohbet etmek ve onların blokzincir ve kripto dünyası hakkındaki sorularını yanıtlama fırsatım oldu. Bana bu sunumu yapmamda önayak olan sevgili Soner Canko'ya da buradan sevgi ve saygılarımı iletmiş olayım.. Yayının linki olmadığı için burada paylaşamıyorum. 
+<img align="left" src="/assets/sabanci_finans_zirvesi_toplu_800.jpg" style="width:20%; padding-right:20px"> Sabancı Üniversitesi İşletme ve Ekonomi Kulübünün düzenlediği Finans Zirvesinde Kripto Para ile ilgili bir sunum yaptım.. Sevgili Şant Manukyan'ın dışında Ali Karabey ve Hüsnü Dinçsoy'un da yer aldığı zirvede kariyerinde doğru adımı atmak isteyen üniversiteliler ile sohbet etmek ve onların blokzincir ve kripto dünyası hakkındaki sorularını yanıtlama fırsatım oldu. Bana bu sunumu yapmamda önayak olan sevgili Soner Canko'ya da buradan sevgi ve saygılarımı iletmiş olayım.. Yayının linki olmadığı için burada paylaşamıyorum. 
 &nbsp;
 
 
