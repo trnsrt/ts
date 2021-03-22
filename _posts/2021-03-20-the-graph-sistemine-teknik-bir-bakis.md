@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Graph sistemine teknik bir bakış"
-date:   2021-03-20 17:47:56 +0300
+date:   2021-03-20 09:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
 ---
