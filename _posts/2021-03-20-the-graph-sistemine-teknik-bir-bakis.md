@@ -1,8 +1,14 @@
+---
+layout: post
+title:  "The Graph sistemine teknik bir bakış"
+date:   2021-03-20 17:47:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
 
 Merkeziyetsiz bir servis sağlayıcı olan The Graph protokolünde, sistemi yürüten aktörlere büyük iş düşüyor.. Gelin bu yazımızda bu aktörlere ve sistemin nasıl çalıştığına daha yakından bakalım.  
 
 Bir önceki yazımızda The Graph Protokol'ün ne olduğunu ve nasıl işlediğinden bahsetmiştik. Okumadıysanız öncelikle o yazıyı okumanız sonrasında buraya dönmeniz tavsiye edilir. 
-
 
 <a href="genel/2021/03/19/defi-dunyasinin-merkeziyetsiz-analiz-saglayicisi-the-graph.html">
          <img alt="Tweet" src="/assets/graph_yazi_link_640.jpg"></a>
