@@ -14,7 +14,7 @@ Graph tam bir oracle sayılmaz. Zira oracle hizmetine servis sağlayan dış ara
 The Graph'ta ise köprü biraz daha farklı işliyor. Blokzincir içinden alınan bilgi, anlamlı bir hale getirildikten sonra hem zincir içi hem de zincir dışı ihtiyaç sahiplerine dağıtılıyor. 
 
 
-| ![arrows](/assets/delegate-1969952_640|
+| ![arrows](/assets/delegate-1969952_640.png|
 |:--:| 
 | *Image by [Gerd Altmann](https://pixabay.com/users/geralt-9301/) from [Pixabay](https://pixabay.com/)*|
 
