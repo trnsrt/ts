@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "YetGen Webinar 20 "
+title:  "YetGen Webinar 2021"
 date:   2021-03-20 14:37:15 +0300
 categories: Genel
 tags: videos Etkinlikler
