@@ -6,7 +6,7 @@ categories: Genel
 tags: videos Etkinlikler
 ---
 
-<img align="left" src="/assets/yetgen_210320_poster.jpg" style="width:40%; padding-right:20px"> Mehmet Zorlu Vakfı ve Mef Üniversitesi tarafından düzenlenen YetGen - Yetkin Gençler programının 18 Nisan 2020'deki "Teknoloji Okur Yazarlığı Eğitimi" webinarında birbirinden değerli isimler ile birlikte bir webinarda yer almıştım.. Şimdi aynı webinarın 2021 versiyonunda da konuşma fırsatı buldum.. Erhan Hoca'nın her zamanki dinamik liderliği altında renkli ve eğlenceli bir sunum oldu... 
+<img align="left" src="/assets/yetgen_210320_poster_400.jpg" style="width:20%; padding-right:20px"> Mehmet Zorlu Vakfı ve Mef Üniversitesi tarafından düzenlenen YetGen - Yetkin Gençler programının 18 Nisan 2020'deki "Teknoloji Okur Yazarlığı Eğitimi" webinarında birbirinden değerli isimler ile birlikte bir webinarda yer almıştım.. Şimdi aynı webinarın 2021 versiyonunda da konuşma fırsatı buldum.. Erhan Hoca'nın her zamanki dinamik liderliği altında renkli ve eğlenceli bir sunum oldu... 
 &nbsp;
 
 <table><tr><td style="width:50%">
