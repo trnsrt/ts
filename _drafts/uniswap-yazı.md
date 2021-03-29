@@ -100,11 +100,7 @@ Uniswap yeni versiyonda Optimistic Roll-up'ı kullanacağını açıkladı.. Mal
 
 #### Beni kopyalama!... 
 
-Uniswap'ın geçtiğimiz yaz aylarında yaşadığı büyük sıçramaya kısa süreli de sekte vuran gelişme, ürün kodlarını aynen kopyalayan Sushiswap'ın ciddi bir likiditeyi kendi platformuna çekmiş olmasıydı. Komisyon oranlarını benzer şekilde tutan Sushiswap likiditeyi kazanabilmek için kendi yönetim tokenini likidite sağlayıcılara vererek daha demokratik bir yapı olduğunu ilan etmişti. Bunun üzerine Uniswap da kendi tokenini çıkarıp dağıtmaya başladı ve likidite kanamasını bir nebze durdurmayı başardı. Token dağıtma bittikten sonra tekrar bir kayıp yaşasa da sonrasında  eski seviyelerine dönmeyi başardı. 
-
-Uniswap - Sushiswap likidite rakamları
-
-İşte bu olaydan çok etkilenen Uniswap, yeni versiyonunda BSL denen farklı bir lisanslama kullandı. Buna göre başka platformlar bu kodları iki yıl süresince kopyalayamayacak. Sonrasında lisansın uzatılıp uzatılmayacağına ise Uniswap sahipleri karar verecekler. 
+Geçtiğimiz yazıda detayını yazdığımız Sushiswap kopyalama olayından derin bir şekilde etkilenen Uniswap, yeni versiyonunda BSL denen farklı bir lisanslama kullandı. Buna göre başka platformlar bu kodları iki yıl süresince kopyalayamayacak. Sonrasında lisansın uzatılıp uzatılmayacağına ise Uniswap sahipleri karar verecekler. 
 
 Klasik dünyanın kalıpları ile düşünürsek, "ne var bunda?, o kadar çalışmış uğraşmışlar, tabii ki haklarını koruyacaklar" diyebiliriz. Ancak bu hareketin DeFi dünyasının temel felsefesi ile çeliştiğini de söylemek gerek. Zira DeFi dünyası kökü çok daha eskilere dayanan açık kaynak felsefesine dayanır. Bu dünyada lisans, telif gibi enstrümanlar, yenilikçilik ve gelişmeyi engelleyici olarak görülürler. Zira az önce yukarıda Sushiswap'ın yaptığı direkt kopyalamayı yadırgasak da, Uniswap'ın sırf bu rekabetten dolayı kendi tokenlarını dağıtmasının biz son kullanıcılara ciddi fayda sağladığı gerçeğini yadsıyamayız. Dolayısıyla, şimdi yapılan bu hareket Uniswap ve yatırımcılarına kısa vadede fayda sağlayacak olsa da uzun vadede ekosistem için "acaba DeFi de klasik dünyaya mı dönüyor?" şeklinde soruları da getirebilir. Uniswap'ın hatırı sayılır bir girişim sermayesi yatırımı almış olması bu kuşkuların aslında çok da yersiz olmadığını bize gösteriyor sanki... 
 
