@@ -20,7 +20,7 @@ Birincisi basit ve şeffaf bir sistem.. Token fiyatları çok basit bir algoritm
 
 İkincisi, tamamen merkeziyetsiz ve isteyenin istediği gibi havuz kurabildiği bir sistem.. Bu sayede eskiden finansman bulabilmek ya da tokenlarına likidite kazandırmak için kripto para borsalarının kapısı önünde dilenci gibi bekleyen DeFi ürünleri artık özgürce diledikleri anda halka açılma hakkı elde ettiler. Bu şekilde Uniswap'ta oluşmuş [150'nin üzerinde aktif havuz](https://info.uniswap.org/pairs) var. 
 
-Son olarak, merkeziyetsiz DeFi platformu olarak 'müşterini tanı' yani KYC ilkelerinden uzak olmasının belli kesimleri Uniswap'a çektiğini söylemek de yanlış olmaz.. 
+Son olarak, merkeziyetsiz DeFi platformu olarak 'müşterini tanı' yani KYC ilkelerinden uzak olmasının belli kesimleri Uniswap'a çektiğini söylemek de yanlış olmaz.
 
 ### Gelelim yeni versiyona
 
