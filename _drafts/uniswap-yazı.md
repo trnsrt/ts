@@ -1,11 +1,11 @@
 Bu yazımızda geçtiğimiz hafta içinde açıklanan merkeziyetsiz takas borsası Uniswap'ın yeni versiyonuna bakacağız hep birlikte: 
 
-Uniswap, merkeziyetsiz finans dünyasının ağır toplarından. Daha önce kendisi ile ilgili iki yazı yazmıştık. Birincisi [Uniswap ve sahip olduğu havuz sistemini](https://turansert.com/genel/2020/09/15/nedir-bu-uniswap.html), ikincisi ise [rakiplerini ve farklarını](https://turansert.com/genel/2020/09/22/uniswap-rakipleri-curve-balancer-ve-sushiswap.html) anlatıyor idi.. Önce gelin bir hafızamızı tazeleyecek bir özet geçelim, şu anki sıkıntıları neymiş görelim, sonra da yeni versiyon neler getiriyor ona bakalım: 
+Uniswap, merkeziyetsiz finans dünyasının ağır toplarından. Daha önce kendisi ile ilgili iki yazı yazmıştık: Birincisi [Uniswap ve sahip olduğu havuz sistemini](https://turansert.com/genel/2020/09/15/nedir-bu-uniswap.html), ikincisi ise [rakiplerini ve farklarını](https://turansert.com/genel/2020/09/22/uniswap-rakipleri-curve-balancer-ve-sushiswap.html) anlatıyor. Önce gelin bu yazımızda hafızamızı tazeleyecek bir özet geçelim, şu anki sıkıntıları neymiş görelim, sonraki yazımızda da yeni versiyon neler getiriyor ona bakarız. 
 
 ### Neydi bu Uniswap?
-Uniswap, klasik borsaların yaptığı hisse alım satım işlerini merkeziyetsiz bir şekilde gerçekleştiren bir DeFi protokolü. Sisteminin çalışması klasik borsalardan farklı: 
+Uniswap, klasik borsaların yaptığı hisse alım satım işlemlerini merkeziyetsiz bir şekilde gerçekleştiren bir DeFi protokolü. Sisteminin çalışması klasik borsalardan farklı: 
 
-Klasik borsalarda her bir token ya da hisse senedi için tahtalar vardır. Alıcı ve satıcılar almak ya da satmak istedikleri fiyatlara istedikleri miktarları yazarlar ve eğer karşılık bulurlarsa işlem gerçekleşir. Bunlara emir defteri işlemleri denir. 
+Klasik borsalarda her bir token ya da hisse senedi için işlem ekranları vardır. Alıcı ve satıcılar işlem yapmak istedikleri miktarları ve fiyatları yazarlar, sonrasında bu taleplerine bir karşılık bulurlarsa işlem gerçekleşir. Bunlara emir defteri işlemleri denir. 
 
 Uniswap ise farklı bir şekilde çalışıyor: Merkeziyetsiz borsalar alım satım işlemleri için yeterince likidite bulamadığından çözüm olarak havuz sistemini kullanıyor. 
 
@@ -14,7 +14,7 @@ Uniswap ise farklı bir şekilde çalışıyor: Merkeziyetsiz borsalar alım sat
 Peki havuza tokenları başta kim koymuştu? Likidite sağlayıcı dediğimiz yatırımcılar. Neden likidite sağlıyorlar bu insanlar? Çünkü havuzda takas yapanlar yaptıkları her işlem için komisyon veriyorlar (Uniswap'ta bu binde üç oranında).. İşte bu komisyonların neredeyse tamamı likidite sağlayıcılara gidiyor. 
 
 ### Neden başarılı oldu?
-Uniswap'ın başarılı olmasının pek çok küçük küçük neden var. 
+Uniswap'ın başarılı olmasının küçük büyük pek çok nedeni var. 
 
 Birincisi basit ve şeffaf bir sistem.. Token fiyatları çok basit bir algoritma ile belirleniyor. Her bir havuzda iki token var ve %50-%50 havuzu paylaşıyorlar. Komisyon oranı her havuz için binde üç. Özellikle likidite sahipleri için, 'koy paranı havuza unut git, sonra komisyon gelirlerini topla' şeklinde adlandırılabilecek bir sistem. Al-sat yapanlar için de likidite sıkıntısı olmadan işlem yapabilecekleri bir borsa. 
 
@@ -24,9 +24,9 @@ Son olarak, merkeziyetsiz DeFi platformu olarak 'müşterini tanı' yani KYC ilk
 
 ### Gelelim yeni versiyona
 
-Unsiwap'ın yeni versiyonu (ki buna v3 yani üçüncü versiyon deniyor) 2021'in Mayıs ayı başında [piyasaya sunulacak](https://uniswap.org/blog/uniswap-v3/)... Ethereum blokzinciri üzerinde olacak bu yeni versiyonun  hemen arkasından Mayıs ortası gibi de Optimism denen ikinci seviye çözüm devreye girecek. 
+Unsiwap'ın yeni versiyonu (ki buna v3 yani üçüncü versiyon deniyor) 2021'in Mayıs ayı başında [piyasaya sunulacak](https://uniswap.org/blog/uniswap-v3/). Ethereum blokzinciri üzerinde olacak bu yeni versiyonun  hemen arkasından Mayıs ortası gibi de Optimism denen ikinci seviye çözüm devreye girecek. 
 
-Üçüncü versiyonda temel olarak hissedilen, eskinin basit ve sadeliğinden uzaklaşan daha karmaşık bir yapının gelmekte olduğu. Bu değişim, farklı özellikler arayan al-sat işlemcileri ve büyük montanlı likidite sağlayıcıların işine gelecek ancak küçük montanlı likidite sağlayıcıları yok edecek. UNI token sahipleri de yeni özellikler sayesinde daha fazla gelir kazanma ihtimaline kavuşacaklar. Kısacası Uniswap,  DeFi dünyasını şu an oynadığı kum havuzundan daha büyük sahneye çıkarmak için uğraşıyor. Burada hemen  sonda yapacağımız yorumu da ekleyelim: eğer köklerini unutursa, oturduğu halının ayaklarının altından çekildiğini de görebilir her an.. 
+Üçüncü versiyonda temel olarak hissedilen, eskinin basit ve sadeliğinden uzaklaşan daha karmaşık bir yapının gelmekte olduğu. Bu değişim, farklı özellikler arayan al-sat işlemcileri ve büyük miktarda likidite sağlayanların işine gelecek ancak küçük hacimli likidite sağlayıcıların hayatları çok zorlaşacak. UNI token sahipleri de yeni özellikler sayesinde daha fazla gelir kazanma ihtimaline kavuşacaklar. Kısacası Uniswap,  DeFi dünyasını şu an oynadığı kum havuzundan daha büyük sahneye çıkarmak için uğraşıyor. Burada hemen  sonda yapacağımız yorumu da ekleyelim: eğer köklerini unutursa, oturduğu halının ayaklarının altından çekildiğini de görebilir her an.
 
 Evet, dönelim Uniswap'ın mevcut sıkıntılarına ve yeni versiyonun neler getirdiğine:
 
