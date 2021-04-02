@@ -27,7 +27,8 @@ permalink: /articles/
   - [DeFi bir oyuncak mı?](/genel/2020/09/03/defi_bir_oyuncak_mi.html)
   - [DeFi çok mu hızlı gidiyor?](/genel/2020/09/08/defi-cok-mu-hizli-gidiyor.html)
   - [DeFi yeni ICO çılgınlığı mı?](/genel/2020/07/23/DeFi-yeni-ICO-cilginligi-mi.html)
-  - [CeFi'dan DeFi'ya... Merkeziyetsizleştiremediklerimizden misiniz?](/genel/2020/08/13/cefi-den-defiya-merkeziyetsizlestiremediklerimizden-misiniz.html)  
+  - [CeFi'dan DeFi'ya... Merkeziyetsizleştiremediklerimizden misiniz?](/genel/2020/08/13/cefi-den-defiya-merkeziyetsizlestiremediklerimizden-misiniz.html)
+  - [DeFi'de oyunun adı topluluk](/genel/2021/02/11/defide-oyunun-adi-topluluk.html)  
 - Farklı DeFi ürünlerinin nasıl çalıştığını görmek için
   - [MakerDAO kredi kullanımında çığır açar mı?](/genel/2019/02/15/MakerDAO-kredi-kullaniminda-cigir-acar-mi.html)
   - [Merkeziyetsiz Finans ve MakerDAO — bir yılda neler değişti?](/genel/2020/03/17/Merkeziyetsiz-Finans-ve-Maker-DAO-Bir-yilda-neler-degisti.html)
@@ -39,6 +40,7 @@ permalink: /articles/
   - [DeFi türev piyasası Synthetix nasıl çalışıyor?](/genel/2020/08/28/Defi-turev-piyasasi-synthetix-nasil-calisiyor.html)
   - [Nedir bu Uniswap?](/genel/2020/09/15/nedir-bu-uniswap.html)
   - [Uniswap rakipler Curve, Balancer ve Sushiswap](/genel/2020/09/22/uniswap-rakipleri-curve-balancer-ve-sushiswap.html)
+  - [DeFi'nin lider borsası Uniswap'ın son durumu](/genel/2021/04/02/DeFinin-Lider-Borsasi-son-durumu.html)
   - [DeFi'de kısa vadeli başarının ipuçları - $MEME coin](/genel/2020/09/29/defide-kisa-vadeli-basari.html)
   - [İlginç bir parasal DeFi deneyi](/genel/2020/10/06/ilginc-bir-parasal-DeFi-deneyi-Ampleforth.html) ve [Ampleforth'a devam](/genel/2020/10/13/Amplefortha-devam.html)
   - [DeFi'nin sigortası Nexus Mutual](/genel/2020/10/20/definin-sigortasi-nexus-mutual.html) ve [DeFi'de sigortacılığa-devam](https://turansert.com/genel/2020/10/27/defide-sigortaciliga-devam.html)
@@ -47,6 +49,13 @@ permalink: /articles/
   - [Oracle dünyasının lideri Chainlink](/genel/2020/12/29/oraclein-lideri-chainlink.html)
   - [DeFi'da opsiyon piyasaları](/genel/2021/01/05/defi-opsiyon-piyasalar%C4%B1.html)
   - [DeFi opsiyon piyasalarının lideri Hegic](/genel/2021/01/26/defi-opsiyon-piyasalarinin-lideri-hegic.html)
+  - [DeFi dünyasının merkeziyetsiz analiz sağlayıcısı: The Graph Protokol](/genel/2021/03/19/defi-dunyasinin-merkeziyetsiz-analiz-saglayicisi-the-graph.html)
+- DeFi dünyasına adım atmak istiyorsanız
+  - [Dei dünyasına girmek için ilk atılacak adımlar neler?](/genel/2021/01/12/defi-dunyasina-girmek-icin-ilk-atilacak-adimlar-neler.html)
+  - [Elektronik cüzdan ile DeFi'ye adım atmak](/genel/2021/01/30/elektronik-cuzdan-ile-DeFiye-adim-atmak.html)
+  - [Hangi elektronik cüzdan ne işe yarar?](/genel/2021/02/13/hangi-elektronik-cuzdan-ne-ise-yarar.html)
+  - [DeFi için kullanılan cüzdanlar neler?](/genel/2021/03/11/defi-i%C3%A7in-kullanilan-cuzdanlar-neler.html)
+  - [DeFi'de cüzdan kullanırken dikkat edilmesi gerekenler](/genel/2021/04/01/Defide-cuzdan-kullanirken-dikkat-edilmesi-gerekenler.html)
 
 
 - Blockchain bazlı teknolojilerin girişimcilik ve yatırımcılık ekosistemlerini nasıl değiştirdiğini merak ediyorsanız
@@ -89,6 +98,8 @@ permalink: /articles/
   - Ethereum'un para arzının nasıl işlediğini ve gelecekte nasıl gelişeceğini görmek için [](/genel/2020/12/08/Ethereumun-para-politikası.html)
   - Ethereum topluluğunun 2021 yılında neler ile uğraşacağına bakmak için - [Ethereum'u 2021'de neler bekliyor?](/genel/2020/12/15/Ethereumu-2021-yilinda-neler-bekliyor.html]
   - Ethereum'da DeFi patlamasıyla birlikte yaşanan pahalılığı ve nasıl giderilebileceğini anlamak için - [Ethereum'un yüksek iş]em ücretleri](/genel/2020/12/21/ETHnin-yuksek-islem-ucretleri.html)
+  - Ethereum'a rakip birinci seviye blokzincirler için: [Ethereum ve rakipleri](/genel/2021/02/27/Ethereum-ve-rakipleri.html)
+  - En büyük merkezi borsa olan Binance'in çıkardığı blokzincir için: [Yeni bir Ethereum rakibi: Binance Smart Chain](/genel/2021/03/03/yeni-bir-eth-rakibi-binance-smart-chain.html)
 
 &nbsp;
 
