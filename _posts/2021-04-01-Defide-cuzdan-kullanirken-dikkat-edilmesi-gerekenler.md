@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DeFi'de cüzdan kullanırken dikkat edilmesi gerekenler"
-date:   2021-03-25 17:47:56 +0300
+date:   2021-04-01 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, DeFi'ye Giriş
 ---
@@ -60,7 +60,7 @@ Evet, bu dört yazıdan oluşan serimizde cüzdanlar konusunu ayrıntıları ile
 
 ---
 
-*Not 1: Bu yazı ilk olarak 25 Mart 2021'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı](https://medium.com/blockchainist-center/hangi-elektronik-c%C3%BCzdan-ne-i%CC%87%C5%9Fe-yarar-3f7b2dec538e)*
+*Not 1: Bu yazı ilk olarak 1 Nisan 2021'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı](https://medium.com/blockchainist-center/defide-c%C3%BCzdan-kullan%C4%B1rken-dikkat-edilmesi-gerekenler-3e31a57830b8)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
