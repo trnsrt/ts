@@ -69,6 +69,7 @@ Uniswap'ın geçtiğimiz yaz aylarında yaşadığı büyük sıçramaya kısa s
 Uniswap DeFi dünyasının en ağır toplarından.. DeFi dünyasında altyapıyı sağlayan Ethereum sonrasında değeri en yüksek olan protokol.. Üstelik bu sıçramayı geçtiğimiz bir yıl içinde yaptı.. Bu nedenle yaptıkları ve yapamadıkları yakından izleniyor.. Başta da yazdığımız gibi yeni versiyon bu sıkıntılara çare bulmak amacını taşıyor. Neler bu çareler? Yazı uzadığı için onu bir sonraki yazımıza bırakıyoruz artık... 
 
 --
+
 *Dipnot: Geçici Kayıp (Impermanent Loss) nasıl çalışır?
 Örneğin ETH/USDC gibi bir havuza para koymak isteyen likidite sağlayıcıyı düşünelim. Önünde iki seçeneği var. Ya parasını kenarda ETH ve USDC olarak tutacak ya da havuza likidite koyacak. Eğer ETH fiyatı aniden yükselirse, kenarda para tutmak havuza para koymaktan daha kârlı hale geliyor. Eğer ETH fiyatı geri eski seviyesine düşerse o zaman bu kâr ortadan kalkıyor, ve havuza likidite sağlamak kazanılan komisyon gelirleri nedeniyle daha avantajlı hale geliyor. Bu nedenle bu kâra geçici kayıp dense de eğer ETH'nin sürekli yükseleceğini düşünüyorsanız bu aslında kalıcı hale geliyor.*
 
