@@ -49,7 +49,7 @@ permalink: /articles/
   - [Oracle dünyasının lideri Chainlink](/genel/2020/12/29/oraclein-lideri-chainlink.html)
   - [DeFi'da opsiyon piyasaları](/genel/2021/01/05/defi-opsiyon-piyasalar%C4%B1.html)
   - [DeFi opsiyon piyasalarının lideri Hegic](/genel/2021/01/26/defi-opsiyon-piyasalarinin-lideri-hegic.html)
-  - [DeFi dünyasının merkeziyetsiz analiz sağlayıcısı: The Graph Protokol](/genel/2021/03/19/defi-dunyasinin-merkeziyetsiz-analiz-saglayicisi-the-graph.html)
+  - [DeFi dünyasının merkeziyetsiz analiz sağlayıcısı: The Graph Protokol](/genel/2021/03/19/defi-dunyasinin-merkeziyetsiz-analiz-saglayicisi-the-graph.html) ve devam [yazısı](/genel/2021/03/20/the-graph-sistemine-teknik-bir-bakis.html)
 - DeFi dünyasına adım atmak istiyorsanız
   - [Dei dünyasına girmek için ilk atılacak adımlar neler?](/genel/2021/01/12/defi-dunyasina-girmek-icin-ilk-atilacak-adimlar-neler.html)
   - [Elektronik cüzdan ile DeFi'ye adım atmak](/genel/2021/01/30/elektronik-cuzdan-ile-DeFiye-adim-atmak.html)
