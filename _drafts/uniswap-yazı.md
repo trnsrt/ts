@@ -11,7 +11,7 @@ Uniswap ise farklı bir şekilde çalışıyor: Merkeziyetsiz borsalar alım sat
 
 "Nedir bu havuz sistemi?" diye soracak olursanız: Bu sistemde her bir havuzun içinde iki adet token var. İşlem yapmak isteyenler bu ikili tokenlardan birini alıp diğerini koyuyor havuza, yani takas yapıyor. Dolayısıyla al-sat yapanlar birbirlerine karşı değil sürekli likidite barındıran bir havuza karşı işlem yapıyorlar.  
 
-Peki havuza tokenları başta kim koymuştu? Likidite sağlayıcı dediğimiz yatırımcılar. Neden likidite sağlıyorlar bu insanlar? Çünkü havuzda takas yapanlar yaptıkları her işlem için komisyon veriyorlar (Uniswap'ta bu binde üç oranında).. İşte bu komisyonların neredeyse tamamı likidite sağlayıcılara gidiyor. 
+Peki havuza tokenları başta kim koymuştu? Likidite sağlayıcı dediğimiz yatırımcılar. Neden likidite sağlıyorlar bu insanlar? Çünkü havuzda takas yapanlar yaptıkları her işlem için komisyon veriyorlar (Uniswap'ta bu binde üç oranında). İşte bu komisyonların neredeyse tamamı likidite sağlayıcılara gidiyor. 
 
 ### Neden başarılı oldu?
 Uniswap'ın başarılı olmasının küçük büyük pek çok nedeni var. 
@@ -32,17 +32,17 @@ Evet, dönelim Uniswap'ın mevcut sıkıntılarına ve yeni versiyonun neler get
 
 ### En büyük sorun: Sığ havuzlar.. 
 
-Uniswap, sistemini dizayn ederken birinci temel ilkesini **havuzdaki likiditenin tükenmemesi** üzerine kurmuştu. Ne demek bu? Havuzu oluşturan iki token çeşidinden de her zaman bulunması ve bu tokenların hiçbir şekilde bitmemesi. Likidite bitmemesi güzel bir özellik ama pratikte belli sıkıntıları oluyor. Neler bunlar?
+Uniswap, sistemini dizayn ederken birinci temel ilkesini **havuzdaki likiditenin tükenmemesi** üzerine kurmuştu. Ne demek bu? Havuzu oluşturan iki token çeşidinden de her zaman bulunması ve bu tokenların hiçbir şekilde bitmemesi. Likiditenin bitmemesi güzel bir özellik ama pratikte belli sıkıntıları oluyor. Neler bunlar?
 
 Birincisi, havuzun verimliliğini azaltıyor bu durum. Özellikle likidite sağlayıcılar için. Neden? Çünkü, bu ilke nedeniyle havuzda fiyat her ne olursa olsun alıcılara servis edilecek token bulundurması gerekiyor. Bu da 0'dan sonsuza kadar giden geniş bir aralık için emre amade token bulundurmak demek. 
 
 Bir örnek ile açıklayalım. Geçtiğimiz iki buçuk yıl içinde 1 ETH'nin fiyatı 0.015BTC ile 0.045BTC arasında seyretmiş, bu aralığın dışına çıkmamış. Ama eğer yatırımcı Uniswap'taki ETH/WBTC havuzuna likidite sağlarsa bu para hem bu aralık için hem de aralığın dışı (örneğin 0.0005 BTC ya da 0.95 BTC) için de hazır bekletiliyor. Yani likidite sağlayıcı tarafında ciddi bir para işleme girmeden atıl kalıyor.  Neden atıl kalıyor? Hemen açıklayalım. 
 
-Pratikte bu havuzda işlemler genelde 0.03-0.04 arasında hatta çok daha dar bir aralıkta gerçekleşiyor. Ama havuz parayı bu aralıkta tutmayıp her alana dağıttığından bu alana düşen likidite az kalıyor. Bir bidon suyu on metrekare havuza ya da 100 metrekare havuza döktüğünüz düşünün.  Havuz sığ kalınca, yüksek hacimli işlem olunca fiyatlar ani olarak düşüp yükselebiliyor. Bu hem likidite sağlayıcıya hem de işlem yapana sıkıntı yaratıyor:
+Pratikte bu havuzda işlemler genelde 0.03-0.04 arasında hatta çok daha dar bir aralıkta gerçekleşiyor. Ama havuz parayı bu aralıkta tutmayıp her alana dağıttığından bu alana düşen likidite az kalıyor. Bir bidon suyu on metrekare havuza ya da 100 metrekare havuza döktüğünüzü düşünün.  Havuz sığ kalınca, yüksek hacimli işlem olunca fiyatlar ani olarak düşüp yükselebiliyor. Bu hem likidite sağlayıcıya hem de işlem yapana sıkıntı yaratıyor:
 
 Likidite sağlayıcı aslında havuzda para olmasına rağmen işlem yapılan alana yeterince para düşmediği için yapılan bir işlemin fiyata ani etki etmesi sonucu zarar ediyor (ki buna geçici kayıp ingilizcede impermanent loss adı veriliyor. Ne olduğunu ve nasıl çalıştığını [Uniswap yazımızda](/genel/2020/09/15/nedir-bu-uniswap.html) detaylıca anlatmıştık. Aşağıda dipnot olarak da verdik). Bu kayıp likidite sağlayacılar için kaçınılmaz bir şekilde var, ancak havuz sığ olduğunda etkisi daha vurucu oluyor. 
 
-İşlem yapanlar ise, bir fiyattan almak için teklif verdiklerinde sıkıntı yaşıyorlar. Birincisi büyük bir emir verdiklerinde algoritma istedikleri fiyata çok az likidite bıraktığı için (likiditeyi tüm havuza paylaştırmak zorunda) yapılan işlemin fiyata ciddi bir etkisi oluyor (buna fiyat etkisi ya da 'price impact' deniyor). İkincisi ise havuzda çok sayıda işlem olması ama likiditenin sığ kalmasından dolayı, işlem emri verdiği sırada araya başka işlemler girdiği için verdiği emir fiyatı ile gerçekleşen fiyat arasında aleyhlerine bir fark olduğunu görüyorlar (ki buna ingilizcede slippage deniyor). 
+İşlem yapanlar ise, bir fiyattan almak için teklif verdiklerinde sıkıntı yaşıyorlar. Birincisi büyük bir emir verdiklerinde algoritma istedikleri fiyata çok az likidite bıraktığı için (likiditeyi tüm havuza paylaştırmak zorunda) yapılan işlemin fiyata ciddi bir etkisi oluyor (buna fiyat etkisi ya da 'price impact' deniyor). İkincisi ise havuzda çok sayıda işlem olması ama likiditenin sığ kalmasından dolayı, kullanıcının işlem emri verdiği sırada araya başka işlemler girdiği için verdiği emir fiyatı ile gerçekleşen fiyat arasında aleyhlerine bir fark olduğunu görüyorlar (ki buna ingilizcede slippage deniyor). 
 
 ### Başka ne sorunları var:
 
@@ -56,7 +56,7 @@ Uniswap DeFi dünyasının en ağır toplarından.. DeFi dünyasında altyapıy�
 
 --
 *Dipnot: Geçici Kayıp (Impermanent Loss) nasıl çalışır?
-Örneğin ETH/USDC gibi bir havuza para koymak isteyen likidite sağlayıcı düşünelim. Önünde iki seçeneği var. Ya parasını kenarda ETH ve USDC olarak tutacak ya da havuza likidite koyacak. Eğer ETH fiyatı aniden yükselirse, kenarda para tutmak havuza para koymaktan daha kârlı hale geliyor. Eğer ETH fiyatı geri eski seviyesi düşerse o zaman bu kâr ortadan kalkıyor, ve havuza likidite sağlamak kazanılan komisyon gelirleri nedeniyle daha avantajlı hale geliyor. Bu nedenle bu kâra geçici kayıp dense de eğer ETH'nin sürekli yükseleceğini düşünüyorsanız bu aslında kalıcı hale geliyor.*
+Örneğin ETH/USDC gibi bir havuza para koymak isteyen likidite sağlayıcıyı düşünelim. Önünde iki seçeneği var. Ya parasını kenarda ETH ve USDC olarak tutacak ya da havuza likidite koyacak. Eğer ETH fiyatı aniden yükselirse, kenarda para tutmak havuza para koymaktan daha kârlı hale geliyor. Eğer ETH fiyatı geri eski seviyesine düşerse o zaman bu kâr ortadan kalkıyor, ve havuza likidite sağlamak kazanılan komisyon gelirleri nedeniyle daha avantajlı hale geliyor. Bu nedenle bu kâra geçici kayıp dense de eğer ETH'nin sürekli yükseleceğini düşünüyorsanız bu aslında kalıcı hale geliyor.*
 
 ---
 
