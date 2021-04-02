@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Aydın Adnan Menderes Üniversitesi - Web Paneli"
+title:  "ITU Blockchain - Decentralized Talks"
 date:   2021-03-25 14:37:15 +0300
 categories: Genel
 tags: videos Etkinlikler
