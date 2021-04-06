@@ -6,7 +6,7 @@ categories: Genel
 tags: Yazılar, DeFi
 ---
 
-Geçtiğimiz yazıda DeFi dünyasının en büyük protokolü merkeziyetsiz takas borsası Uniswap'ın yaşadığı sıkıntılara bakmıştık. Bu yazımızda ise, Mayıs 2020'de çıkması planlanan yeni versiyonun bu sıkıntılara ne kadar çare olacağına ve yaratıcı ekibin Uniswap'ı nereye götürmeye çalıştığına değineceğiz... 
+Geçtiğimiz [yazıda](/genel/2021/04/02/DeFinin-Lider-Borsasi-son-durumu.html) DeFi dünyasının en büyük protokolü merkeziyetsiz takas borsası Uniswap'ın yaşadığı sıkıntılara bakmıştık. Bu yazımızda ise, Mayıs 2020'de çıkması planlanan yeni versiyonun bu sıkıntılara ne kadar çare olacağına ve yaratıcı ekibin Uniswap'ı nereye götürmeye çalıştığına değineceğiz... 
 
 #### Çare: Konsantre likidite
 
