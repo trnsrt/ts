@@ -16,6 +16,7 @@ Yeni versiyon ile birlikte Uniswap bir önceki yazıda bahsettiğimiz 'likiditen
 
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/docsearch.js@2/dist/cdn/docsearch.min.js"></script>
 
+
 Örneğin ETH-USDC havuzunda şu işlem göre fiyat 1 ETH=1.800 USDC ise, bir yatırımcı gelip parasını 1.300-1,400 aralığına koyabiliyor.. Normalde havuza eski sistemdeki gibi likidite koysa havuz koyduğu parayı ikiye bölüp eşit olarak ETH ve USDC koyacak idi (havuzların eşit sayıda iki paradan oluşması gerekiyor). Eğer işlem yapanlar gelip bolca ETH satarlarsa (ve örneğin havuzda 1 ETH = 1,400 USDC'ye geriler ise), yatırımcının parası da 1 ETH eşittir 1,400 USDC'ye düşecek idi.  
 
 Halbuki yeni sistemde yatırımcının parası eski hali ile korunacak. Burada likidite sağlayıcı yatırımcının ETH'nin düşüşünü tahmin ettiği için böyle davrandığını söyleyebiliriz. Tabii, fiyatın düşmeyip 1 ETH = 1,800 USDC civarlarında kalma durumunda ise, yatırımcının parası hiçbir şekilde işlemlere konu olmayacağı için %0.3 miktarındaki komisyonu alamayacak olması da madalyonun öbür yüzü... 
