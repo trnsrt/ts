@@ -13,7 +13,7 @@ Geçtiğimiz [yazıda](/genel/2021/04/02/DeFinin-Lider-Borsasi-son-durumu.html) 
 
 Bu yazımızda ise, Mayıs 2020'de çıkması planlanan yeni versiyonun bu sıkıntılara ne kadar çare olacağına ve yaratıcı ekibin Uniswap'ı nereye götürmeye çalıştığına değineceğiz... 
 
-#### Çare: Konsantre likidite
+### Çare: Konsantre likidite
 
 Yeni versiyon ile birlikte Uniswap bir önceki yazıda bahsettiğimiz 'likiditenin tükenmemesi' ilkesini artık terkediyor. Bunun yerine, yeni getirdiği 'konsantre likidite' özelliği ile likidite sağlayıcıların verimlilik problemine çare olmayı tercih ediyor. Bu yeni özelliğe göre likidite sağlayıcı yatırımcılar, havuza koyacakları paranın hangi işlem aralığı içinde işlem görebileceğini belirleyebiliyorlar. Tam olarak ne demek bu? Ne işe yarıyor? Bir iki senaryo ile açıklayalım: 
 
@@ -31,7 +31,7 @@ Tabii bu hibrit karışımın bir sıkıntısı var. O da eskiden havuza konan h
 
 İleride muhtemelen farklı NFT havuz tokenlarını değerlendiren yeni mekanizmalar göreceğiz.  Örneğin; şu anda yatırımcıların mevduatlarını değişik stratejiler ile değerlendiren yearn.finance benzeri yapıların bu system içinde son derece aktif olacağını tahmin etmek zor değil. Bu yapılar, farklı fiyat aralıklarındaki havuz tokenlarını alıp farklı araçlarda değerlendirecek ve risk/kazanç anlamında optimum seçenekler oluşturup yatırımcıların beğenisine sunacaklar. 
 
-#### Farklı komisyon oranları
+### Farklı komisyon oranları
 
 Uniswap ilk iki versiyonunda havuzlardaki işlemler için komisyon oranlarını hep sabit tuttu: Binde 3. Ancak bu durum kimi zaman rekabette onu zor durumda bıraktı. Zira, özellikle stabil paralardan oluşan havuzlarda, paralar arasındaki fiyat farkı çok az olmakta. Örneğin; bir USDC-DAI stabil para havuzunda 0.98-1.02 'den daha geniş bir aralık bulmak neredeyse imkansız. Böyle bir durumda işlem yapmak isteyenlere binde 3 komisyon çok yüksek geliyor. Zaten bu nedenle stabil paralar odaklı olan Curve havuzları düşük komisyon verselerde işlem hacimlerinin yüksek olması nedeniyle likidite sağlayıcılarına hatırı sayılır bir komisyon geliri sağlayarak ciddi bir likiditeyi havuzlarında topladılar. 
 
@@ -39,7 +39,7 @@ Uniswap ilk iki versiyonunda havuzlardaki işlemler için komisyon oranlarını 
 
 Uniswap işlemlerden aldığı binde 3 komisyonun şu anda tamamını likidite sahiplerine veriyor. UNI token tutanların bu komisyonun altıda birini (yani onbinde beşini) kendilerine alma hakkı var (ki kullanılmıyor idi). Şimdi yeni versiyon ile UNI token sahiplerine komisyon oranlarının onda biri ile dörtte biri kadar bir miktarını kendilerine alma hakkı getirildi. Bunun yanında her bir havuzun yukarıdaki üç orandan hangisini kullanacağına da UNI token sahipleri karar verecek. 
 
-#### Ethereum'un yüksek ücretleri 
+### Ethereum'un yüksek ücretleri 
 
 Malum şu ara Ethereum dünyasındaki en büyük şikayetlerden bir tanesi yüksek işlem ücretleri. Eskiden 5-10 dolar verilen basit işlemler için şimdi kapı en az 30-40 ABD Dolarından açılıyor. Uniswap için bu durum ciddi bir sıkıntı. Zira normal bir günde Ethereum blokzinciri üzerindeki en fazla işlem yapan DeFi ürünü genelde Uniswap oluyor.. 
 
@@ -51,7 +51,7 @@ Ethereum üzerindeki DeFi ürünleri de bu konuda yavaş yavaş harekete geçiyo
 
 Uniswap yeni versiyonda Optimistic Roll-up'ı kullanacağını açıkladı.. Maliyetlerin düşmesi açısından güzel bir gelişme olacak gibi görünüyor. Bir diğer DeFi devi olan sentetik türev piyasası Synthetix de Optimistic roll-up kullanacağını açıklamıştı. v3 ilanının hemen ertesi günü [Optimistic'in genel kullanıma açılma tarihinin Nisan'dan Temmuz'a ertelenmesi](https://optimismpbc.medium.com/optimistically-cautious-767a898f90c8) Uniswap'ı nasıl etkileyecek, onu hep birlikte göreceğiz. 
 
-#### Beni kopyalama!... 
+### Beni kopyalama!... 
 
 Geçtiğimiz yazıda detayını yazdığımız Sushiswap kopyalama olayından derin bir şekilde etkilenen Uniswap, yeni versiyonunda BSL denen farklı bir lisanslama kullandı. Buna göre başka platformlar bu kodları iki yıl süresince kopyalayamayacak. Sonrasında lisansın uzatılıp uzatılmayacağına ise Uniswap sahipleri karar verecekler. 
 
@@ -59,7 +59,7 @@ Tam olarak ne gibi bir etkisi olacak bunun? Artık rakipler Uniswap'ın kodunu k
 
 Klasik dünyanın kalıpları ile düşünürsek, "ne var bunda?, o kadar çalışmış uğraşmışlar, tabii ki haklarını koruyacaklar" diyebiliriz. Ancak bu hareketin DeFi dünyasının temel felsefesi ile çeliştiğini de söylemek gerek. Zira, DeFi dünyası kökü çok daha eskilere dayanan açık kaynak felsefesine dayanır. Bu dünyada lisans, telif gibi enstrümanlar, yenilikçilik ve gelişmeyi engelleyici olarak görülürler. Ancak az önce yukarıda Sushiswap'ın yaptığı direkt kopyalamayı yadırgasak da, Uniswap'ın sırf bu rekabetten dolayı kendi tokenlarını dağıtmasının biz son kullanıcılara ciddi fayda sağladığı gerçeğini yadsıyamayız. Dolayısıyla, şimdi yapılan bu hareket Uniswap ve yatırımcılarına kısa vadede fayda sağlayacak olsa da uzun vadede ekosistem için "acaba DeFi de klasik dünyaya mı dönüyor?" şeklinde soruları da getirebilir. Uniswap'ın hatırı sayılır bir girişim sermayesi yatırımı almış olması bu kuşkuların aslında çok da yersiz olmadığını bize gösteriyor sanki... 
 
-#### Diğer ufak yenilikler
+### Diğer ufak yenilikler
 Bunun dışında [daha önceki bir yazımızda bahsettiğimiz DeFi dünyasının oracle yani bilgi sağlayıcılarından](/genel/2020/12/22/definin-bilgi-kaynagi-oracle.html) biri olan Uniswap'ın artık daha tutarlı bilgi sağlayacak yenilikler yaptığını söyleyebiliriz. Bunun kulanıcılar açısından çok büyük bir etkisi olmasa da, gerek bilgi ihtiyacı olan ekosistem oyuncuları gerekse bu bilgiyi satan Uniswap sistemi için faydalı olacağını söyleyebiliriz. 
 
 Bunun dışında Uniswap ekibi artık geliştirme için neler yapacaklarını tamamen UNI token sahiplerine bırakacaklarını açıkladılar. Geçmişte UNI token sahipliğinin çok konsantre olduğu ile ilgili şikayetler olmuştu - bakalım merkeziyetsizlik hakikaten işleyecek mi, yoksa 'miş' gibi mi yapılacak hep birlikte göreceğiz.. 
