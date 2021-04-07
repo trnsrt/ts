@@ -1,12 +1,17 @@
 ---
 layout: post
-title:  "Ye"
-date:   2019-04-02 09:47:56 +0300
+title:  "Uniswap'ın yeni versiyonu neler getiriyor?"
+date:   2021-04-07 16:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
 ---
 
-Geçtiğimiz [yazıda](/genel/2021/04/02/DeFinin-Lider-Borsasi-son-durumu.html) DeFi dünyasının en büyük protokolü merkeziyetsiz takas borsası Uniswap'ın yaşadığı sıkıntılara bakmıştık. Bu yazımızda ise, Mayıs 2020'de çıkması planlanan yeni versiyonun bu sıkıntılara ne kadar çare olacağına ve yaratıcı ekibin Uniswap'ı nereye götürmeye çalıştığına değineceğiz... 
+Geçtiğimiz [yazıda](/genel/2021/04/02/DeFinin-Lider-Borsasi-son-durumu.html) DeFi dünyasının en büyük protokolü merkeziyetsiz takas borsası Uniswap'ın yaşadığı sıkıntılara bakmıştık. 👇
+
+<a href="/genel/2021/04/02/DeFinin-Lider-Borsasi-son-durumu.html">
+         <img alt="Tweet" src="/assets/uniswap_yazi_1.png"></a>
+
+Bu yazımızda ise, Mayıs 2020'de çıkması planlanan yeni versiyonun bu sıkıntılara ne kadar çare olacağına ve yaratıcı ekibin Uniswap'ı nereye götürmeye çalıştığına değineceğiz... 
 
 #### Çare: Konsantre likidite
 
@@ -66,3 +71,11 @@ Uniswap yeni versiyonu ile yeni stratejisinin ilk ipuçlarını veriyor. Neler b
 İkincisi artık küçük ve tembel likidite sağlayıcılara yavaş yavaş güle güle diyor Uniswap. Parayı alıp havuza olduğu gibi koymak artık iyice verimsiz hale geliyor. Bundan sonra devir, likiditesini sıkıca takip eden büyük likidite sağlayıcıların devri. Küçük yatırımcılar da 'belli komisyonlar' karşılığı yearn.finance benzeri aracılardan medet umabilirler. 
 
 Üçüncüsü, Uniswap artık iyice kendisini destekleyen sermayeye teslim olmuş gibi görünüyor. Yukarıda açıklanan verimlilik benzeri süslü cümlelerin sonuna eklenen, özellikle yazılım kodunun iki yıl kullanılamayacak şekilde lisanslanması endişe verici. Aynı şekilde UNI token sahiplerinin likidite sağlayıcılara verdiği komisyonların daha büyük bir kısmını kendilerine alabilme hakkı verilmesi de. İnsan, Web 2.0'daki 'bedava sunulan hizmetler karşılığında giderek kişisel bilgilerin satıldığı ve kullanıcının ticari emtiaya dönüştürüldüğü' o süreci hatırlamıyor değil. Umarız, kaygılarımız yersiz çıkar ve Uniswap DeFi dünyasının açık kaynak merkeziyetsiz çözüm lideri olarak yoluna devam eder... 
+
+---
+
+*Not 1: Bu yazı ilk olarak 7 Nisan 2021'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/uniswap-yeni-versiyonu-neler-getiriyor/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
