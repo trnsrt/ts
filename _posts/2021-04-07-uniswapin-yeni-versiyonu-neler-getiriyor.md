@@ -6,6 +6,8 @@ categories: Genel
 tags: Yazılar, DeFi
 ---
 
+DeFi dünyasının merkeziyetsiz lider borsası[Uniswap](https://uniswap.org/) Mayıs başında üçüncü versiyonunu çıkaracağını açıkladı. Gelin bakalım neler var bu versiyonda:
+
 Geçtiğimiz [yazıda](/genel/2021/04/02/DeFinin-Lider-Borsasi-son-durumu.html) DeFi dünyasının en büyük protokolü merkeziyetsiz takas borsası Uniswap'ın yaşadığı sıkıntılara bakmıştık. 👇
 
 <a href="/genel/2021/04/02/DeFinin-Lider-Borsasi-son-durumu.html">
