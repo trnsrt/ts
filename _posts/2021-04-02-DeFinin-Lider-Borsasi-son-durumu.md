@@ -6,7 +6,7 @@ categories: Genel
 tags: Yazılar, DeFi
 ---
 
-Bu yazımızda geçtiğimiz hafta içinde açıklanan merkeziyetsiz takas borsası Uniswap'ın yeni versiyonuna bakacağız hep birlikte: 
+Bu yazımızda son bir yıl içinde merkeziyetsiz finans dünyasının en değeri yüksek ürünü haline gelen takas borsası Uniswap'ın son dönemde yaşadıklarına bakacağız: 
 
 Uniswap, merkeziyetsiz finans dünyasının ağır toplarından. Daha önce kendisi ile ilgili iki yazı yazmıştık: Birincisi [Uniswap ve sahip olduğu havuz sistemini](/genel/2020/09/15/nedir-bu-uniswap.html), ikincisi ise [rakiplerini ve farklarını](/genel/2020/09/22/uniswap-rakipleri-curve-balancer-ve-sushiswap.html) anlatıyor. Önce gelin bu yazımızda hafızamızı tazeleyecek bir özet geçelim, şu anki sıkıntıları neymiş görelim, sonraki yazımızda da yeni versiyon neler getiriyor ona bakarız. 
 
