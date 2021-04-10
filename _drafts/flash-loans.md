@@ -5,7 +5,7 @@ Merkeziyetsiz finansın, klasik finansın mevcut sorunlarına çözüm bulma ama
 
 ### DeFi ile yeni açılımlar ve yeni sorunlar... 
 
-Tabii kişilerin ihtiyaçlarını karşılarken ilk bakılan şu oldu? Kişinin ne ihtiyacı var ve klasik finans bunu nasıl karşılıyor? Biz benzer şekilde karşılayabilir miyiz? Bu çok normal insan tepkisi. Hiç bilmediğiniz bir alana girdiğinizde, eski bildiklerinizi çıkış noktası alırsınız. Bir nevi tutunacak bir dal ararsınız. DeFi'da ilk ortaya çıkan teknolojiler de bu şekilde yol aldılar başta. 
+Tabii kişilerin ihtiyaçlarını karşılarken ilk bakılan şu oldu? Kişinin ne ihtiyacı var ve klasik finans bunu nasıl karşılıyor? Biz benzer şekilde karşılayabilir miyiz? Bu çok normal insan tepkisi. Hiç bilmediğiniz bir alana girdiğinizde, eski bildiklerinizi çıkış noktası alırsınız. Bir nevi tutunacak bir dal ararsınız. DeFi'da ilk ortaya çıkan teknolojiler de başta bu şekilde yol aldılar. 
 
 Sonrasında işin rengi yavaş yavaş değişmeye başladı. Öncelikle, DeFi'nin sunduğu farklı imkanları keşfeden insanlar daha talepkar oldular. DeFi, mevcut açık yapısı ile klasik finansın sunamadığı pek çok farklı servisi de insanların hizmetine sundu. Örneğin, bir token almak istiyorsunuz. DeFi dünyasının içinde ilk başlarda bunu yapmak için cüzdanınızı bir merkeziyetsiz borsaya bağlamanız ve fiyatları görmeniz gerekiyordu. Artık, cüzdanınızın içinden sekiz-on tane borsanın almak istediğiniz token fiyatlarını anında bulup işlem yapabiliyorsunuz. 
 
