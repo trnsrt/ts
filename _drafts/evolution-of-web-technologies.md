@@ -35,7 +35,7 @@ When valuations were skyrocketed but business plans could not hold their promise
 
 Of course not. Some of the ideas actually managed to have huge success. Such as? Google, Facebook and Amazon.. In fact they become so successful that their global dominance has become unavoidable. Just look at the most valuable companies and see how the list has changed in ten years from 2010 to 2020: 
 
-| ![most_valuables](/assets/op_10_2010_2020_800.jpg)|
+| ![most_valuables](/assets/top_10_2010_2020_800.jpg)|
 |:--:| 
 | *Source: 2010 by [FT](https://www.ft.com/content/3e2e2c2a-68bc-11df-96f1-00144feab49a), 2020 by [Google Finance](https://www.google.com/finance)*|
 
