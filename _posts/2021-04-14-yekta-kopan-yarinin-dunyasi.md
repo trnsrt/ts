@@ -6,7 +6,7 @@ categories: Genel
 tags: videos Etkinlikler
 ---
 
-<img align="left" src="/assets/yekta_kopan_poster_800.jpg" style="width:20%; padding-right:20px"> [Paribu](https://twitter.com/ParibuCom)'nun sunduğu 'Yekta Kopan ile Yarının Dünyası'nda [Yekta Kopan](https://twitter.com/yektakopan) sordu, sevgili [Emre Alkin](https://twitter.com/emrealkin1969) hocam ile bendeniz cevaplamaya çalıştık.. Bu eğlenceli ve sıcak sohbete göz atmak isterseniz, linke buyurun: 
+<img align="left" src="/assets/yekta_kopan_poster_800.jpg" style="width:40%; padding-right:20px"> [Paribu](https://twitter.com/ParibuCom)'nun sunduğu 'Yekta Kopan ile Yarının Dünyası'nda [Yekta Kopan](https://twitter.com/yektakopan) sordu, sevgili [Emre Alkin](https://twitter.com/emrealkin1969) hocam ile bendeniz cevaplamaya çalıştık.. Bu eğlenceli ve sıcak sohbete göz atmak isterseniz, linke buyurun: 
 &nbsp;
 
 <table><tr><td style="width:50%">
