@@ -64,7 +64,7 @@ Aşağıda da Filecoin'in rakipleri ile Ekim 2020 tarihindeki karşılaştırmal
 
 | ![filecoin_rakipler](/assets/filstats_siastats_storj.png)|
 |:--:| 
-| *Kaynak: [Messari](https://messari.io/asset/filecoin/news*|
+| *Kaynak: [Messari](https://messari.io/asset/filecoin/news)*|
 
 ### Sonuç
 
