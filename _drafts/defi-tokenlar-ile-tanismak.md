@@ -14,7 +14,7 @@ Elektronik cüzdan, finansal okuryazarlığı daha ileri seviyede olan, konuyu a
 
 Bu konuda çaba sarfetmeyen ancak DeFi ürünlerini yine de kullanmak isteyenler merkezi borsaları da kullanabilirler. Ancak, kendi dijital varlığını koruma konusunda cüzdanları öğrenmek istemeyecek kadar 'tembel' birinin DeFi ürünlerini kullanmasındaki risk açıkcası çok daha fazla. Tabii ki son tercih son kullanıcının. 
 
-Bunun yanında kitlelerin merkezi borsaları kullanmak istemelerinin bir başka nedeni teknik olarak kendilerini yetersiz hissetmeleri, ve kullanım sırasında oluşacak sıkıntılarda kendilerine yardımcı olabilecek bir destek hizmeti olabilir - ki bu gayet anlaşılabilir bir durum. Son olarak, özellikle kimsenin istemediği can kaybı durumlarında kullanıcı elektronik cüzdan bilgilerini böyle bir durumda ulaşılabilir kılmazsa, bu varlıklar sonsuza kadar yok olur. Merkezi borsalarda ise, özellikle ülke sınırları içinde kurulu olanlarda, kanuni yollardan talep edilmesi halinde borsada duran paranın hak sahiplerine iade edilmesi gibi bir durum söz konusu.. 
+Bunun yanında kitlelerin merkezi borsaları kullanmak istemelerinin bir başka nedeni teknik olarak kendilerini yetersiz hissetmeleri, ve kullanım sırasında oluşacak sıkıntılarda kendilerine yardımcı olabilecek bir destek hizmeti olabilir - ki bu gayet anlaşılabilir bir durum. Son olarak, özellikle kimsenin istemediği can kaybı durumlarında kullanıcı elektronik cüzdan bilgilerini böyle bir durumda ulaşılabilir kılmazsa, bu varlıklar sonsuza kadar yok olur. Merkezi borsalarda ise, özellikle ülke sınırları içinde kurulu olanlarda, kanuni yollardan talep edilmesi halinde borsada duran paranın hak sahiplerine iade edilmesi gibi bir durum söz konusu. 
 
 ### Token nasıl alınıyor?
 DeFi tokenları alabilmek için birkaç farklı yöntem var. Bunlardan da kısa kısa bahsedelim dilerseniz: 
@@ -24,14 +24,14 @@ DeFi dünyasından işlem yapmak için kullanıcının elinde kriptopara olması
 
 Peki bu paralara nasıl ulaşabilir kullanıcı? Öncelikle elindeki itibari paraları (yani devletler tarafından basılan paralar) kriptoparaya çevirmesi gerekiyor. Bunu ise merkezi kriptopara borsaları ile yapabilir. Kendisine ait bir banka hesabından merkezi bir kriptopara borsası hesabına itibari parasını gönderir,  sonrasında o borsanın sunduğu kriptoparalardan satın alabilir. 
 
-DeFi dünyası ağırlıklı olarak Ethereum blokzinciri üzerine kurulu olduğu için DeFi ürünlerinde bu blokzincirin parası olan ETH en sık karşılacağınız ve en likit para ancak bununla sınırlı değil tabii.. Özellikle USDT (Tether) ve USDC de ABD dolarına çıpalanmış paralar olarak rağbet görüyorlar. Kullanıcı ilk adım olarak hemen hemen tüm borsalarda bulunan bu tokenlar ile yatırıma başlayabilir.  
+DeFi dünyası ağırlıklı olarak Ethereum blokzinciri üzerine kurulu olduğu için DeFi ürünlerinde bu blokzincirin parası olan ETH en sık karşılacağınız ve en likit para ancak bununla sınırlı değil tabii. Özellikle USDT (Tether) ve USDC de ABD dolarına çıpalanmış paralar olarak rağbet görüyorlar. Kullanıcı ilk adım olarak hemen hemen tüm borsalarda bulunan bu tokenlar ile yatırıma başlayabilir.  
 
 #### Merkezi borsalar
 Kullanıcılar, daha sonrasında farklı DeFi ürünlerine yatırım yapmak isterler ise kriptopara borsalarının sunduğu tokenlardan alabilirler. Ancak unutulmaması gereken, bu borsalarda tutulan paraların özünde onlara verilmiş emanetler olduğunun unutulmaması. Sonuç olarak bu borsalarda tutulan kriptoparalar henüz devlet tarafından denetlenmedikleri için klasik anlamda mevduat olarak bankadan tutulan paraya göre daha risk taşımaktalar. Bu risk, kullanıcı parayı kendi elektronik cüzdanına taşımadıkça devam eder. 
 
 Bunun yanında yukarıdaki ilk kısımda bahsettiğimiz rahatlık nedeniyle kullanıcılar kısıtlı da olsa borsanın sunduğu kriptoparalar ile yatırım yapmayı sürdürebilirler. 
 
-#### Merkeziyetsiz borsadan 
+#### Merkeziyetsiz borsalar
 Merkezi borsalar doğal olarak piyasada bulunun binlerce coin ya da tokundan sadece en çok kullanılan birkaç tanesine yatırım imkanı sunar. Peki ya kalan binlercesine yatırım yapmak isterse? O zaman, kullanıcı merkeziyetsiz borsalara gidebilir. 
 
 Merkeziyetsiz borsalar, DeFi felsefesine uygun olarak 'açık' bir şekilde çalışırlar. İki şekilde açık olarak tanımlamak mümkün. Birincisi, isteyen herkes, dil, din, ırk, lokasyon, mali durum gibi hiçbir kriter olmaksızın bu borsaları kullanabilir. İkincisi ise dileyen her DeFi girişimi, kendi ağına ilişkin tokenini istediği zaman bu borsalarda dolaşıma sokabilir. 
