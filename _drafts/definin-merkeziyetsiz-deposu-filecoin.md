@@ -1,6 +1,6 @@
 Bu yazımızda gelin merkeziyetsiz dünyanın veri saklayıcısı olma yolunda ilerleyen Filecoin'e bakalım hep birlikte. 
 
-[Filecoin](https://filecoin.io) DeFi dünyasının çok ihtiyacı olabilecek veri saklama hizmetini veren bir yapı. En büyük özelliği ise merkeziyetsiz olması. İyi de blokzincirler zaten merkeziyetsiz değil miydi? Neden Filecoin'e ihtiyaç var?. 
+[Filecoin](https://filecoin.io) DeFi dünyasının çok ihtiyacı olabilecek veri saklama hizmetini veren bir yapı. En büyük özelliği ise merkeziyetsiz olması. İyi de blokzincirler zaten merkeziyetsiz değil miydi? Neden Filecoin'e ihtiyaç var? 
 
 ### Merkeziyetsiz saklamaya neden ihtiyaç var?
 
@@ -18,13 +18,13 @@ Blokzincir yapılan işlemlerin ve son durumun kaydını mermer taşa yazılmı�
 
 Ne demek istediğimizi bir örnek ile anlatalım: non-fungible token dediğimiz tekil (benzersiz) tokenlar (belirteçler), birbirine benzemeyen ürünlerin sahipliğini göstermek için kullanılıyorlar. Tokenları satın alarak gösterdikleri ürünün sahipliğini blokzincir üzerine kaydedip tüm dünyaya kanıtlamış oluyoruz. Peki ya bu ürünlerin kendileri nerede duruyor?
 
-Örneğin bir dijital sanat eserini aldınız. Burada satın aldığınız o sanat eserinin dijital dünyada o blokzincir üzerindeki sahipliği. Peki eserin kendisi nerede?. Eskiden olsa, örneğin bir yağlıboya eseri alır yüklenir evinize getirir duvara asardınız. 
+Örneğin bir dijital sanat eserini aldınız. Burada satın aldığınız o sanat eserinin dijital dünyada o blokzincir üzerindeki sahipliği. Peki eserin kendisi nerede? Eskiden olsa, örneğin bir yağlıboya eseri alır yüklenir evinize getirir duvara asardınız. 
 
 Şimdi dijital sanat eserlerinde sahiplik ona fiziksel olarak sahip olmayı gerektirmiyor. İsteyen herkes o eseri görebilir, hatta ekranında görürken elindeki farenin sağ tuşuna basıp 'kopyala' yı seçerek bilgisayarına indirebilir. Ancak bu, herhangi bir sanat eserinin orijinalini değil başka ressamlar tarafından yapılmış tıpatıp aynısını ya da Google Art üzerinden alınmış olan çıktısını yazıcıdan yazdırıp duvara asmaktan farklı değil aslında. 
 
-Konuyu dağıttık, toparlayalım. Öncelikle bu sanat eserinin ekranda gördüğünüz dosyası eserin orijinali ile aynı boyutta olmayabilir. Genelde yaratıcılar eserlerini yüksek çözünürlükle üretip sonrasında daha düşük çözünürlüklü olarak pazar yerlerlerine koyuyorlar. Peki eserin asıl orjinalini nerede? Sanatçının kendisinde. Peki alıcıya nasıl teslim edilecek?. Alıcı sanatçıya email adresi mi verecek? Dijital dünyanın anonimliğine aykırı değil mi bu? 
+Konuyu dağıttık, toparlayalım. Öncelikle bu sanat eserinin ekranda gördüğünüz dosyası eserin orijinali ile aynı boyutta olmayabilir. Genelde yaratıcılar eserlerini yüksek çözünürlükle üretip sonrasında daha düşük çözünürlüklü olarak pazar yerlerlerine koyuyorlar. Peki eserin asıl orjinalini nerede? Sanatçının kendisinde. Peki alıcıya nasıl teslim edilecek? Alıcı sanatçıya email adresi mi verecek? Dijital dünyanın anonimliğine aykırı değil mi bu? 
 
-Başka sorunlar da var. Ya sanatçının ya da alıcının eseri tuttuğu hard disk bir gün uçarsa?. O zaman ne yapacağız?. NFT'yi bir şey olmuyor ama asıl eser ortada yok!.
+Başka sorunlar da var. Ya sanatçının ya da alıcının eseri tuttuğu hard disk bir gün uçarsa? O zaman ne yapacağız? NFT'yi bir şey olmuyor ama asıl eser ortada yok!.
 
 İşte bu ve benzeri blokzincir üzerinde tutulan verilerin arkasında yer alan daha büyük montanlı ve kaybolması istenmeyen veri ve dosyalar için herhangi bir merkezin dahlinde bulunmayan ve sahibinin istediği zaman istediği koşulda ulaşabileceği bir saklama alanı olması elzem. İşte Filecoin merkeziyetsiz dünyanın ihtiyaç duyduğu bu kritik konuda hizmet veriyor. 
 
