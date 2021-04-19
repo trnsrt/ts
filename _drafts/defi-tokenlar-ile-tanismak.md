@@ -1,3 +1,5 @@
+Bu yazımızda DeFi dünyasının paraları olan tokenlar ile tanışmak için neler yapılır ona bakacağız:
+
 Bundan önceki dört yazılık serimizde DeFi dünyasına ilk girişte ihtiyaç duyulan cüzdanlardan bahsetmiştik. Cüzdan kurduktan sonra DeFi dünyası tokenları ile alım satım nasıl yapılır ona da bu yazımızda bakacağız: 
 
 ### Cüzdanlar neden önemli?
