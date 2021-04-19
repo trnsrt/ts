@@ -4,7 +4,7 @@ Bu yazımızda gelin merkeziyetsiz dünyanın veri saklayıcısı olma yolunda i
 
 ### Merkeziyetsiz saklamaya neden ihtiyaç var?
 
-Hatırlayacağınız gibi, blokzincir, yapılan işlemlerin ve son durumun kaydını mermer taşa yazılmış gibi değiştirilemez bir şekilde tutuyor. Ama nihayetinde kayıt edip saklanan aslında bir işlemin sonucunu  gösteren bilgi. Peki ya işlemin kendisi nerede? 
+Hatırlayacağınız gibi, blokzincir, yapılan işlemlerin ve son durumun kaydını mermer taşa yazılmış gibi değiştirilemez bir şekilde tutuyor. Ama nihayetinde kayıt edip saklanan, aslında bir işlemin sonucunu  gösteren bilgi. Peki ya işlemin kendisi nerede? 
 
 Ne demek istediğimizi bir örnek ile anlatalım: NFT ya da non-fungible token dediğimiz tekil (benzersiz) tokenlar (belirteçler), birbirine benzemeyen ürünlerin 'sahipliğini göstermek' için kullanılıyorlar. Tokenları satın alarak yaratıcısının işaret ettiği ürünün sahipliğini blokzincir üzerine kaydedip tüm dünyaya kanıtlamış oluyoruz. Peki ya bu ürünlerin asılları nerede duruyor?[^1]
 
@@ -32,7 +32,7 @@ Filecoin de tam olarak bu alanda, yani merkeziyetsiz dünyanın ihtiyaç duyduğ
 
 Filecoin, 2014 yılında [Protocol Labs](https://protocol.ai) tarafından kurulan bir girişim. Web 3.0 da olarak adlandırılan, yeni tip web teknolojilerine altyapı sağlama amacıyla o günden beri çalışmalarını sürdürüyor. 
 
-Filecoin'in yıldızı Silikon Vadisi'nin girişimler için geliştirilen en elit hızlandırıcı programlarından [Y-Combinator'e kabul edilmesi](https://www.ycombinator.com/companies/protocol-labs) ile başlıyor. Bu program sonrası girişim sermayesinin A-takımı olarak adlandırılabilecek olan [Sequoia Capital](https://www.sequoiacap.com), [Digital Currency Group](https://dcg.co) ve [AnderseenHorowits](https://a16z.com) (a16z)'den yatırım alıyor ekip. 
+Filecoin'in yıldızı Silikon Vadisi'nin girişimler için geliştirilen en elit hızlandırıcı programlarından [Y-Combinator'e kabul edilmesi](https://www.ycombinator.com/companies/protocol-labs) ile başlıyor. Bu program sonrası girişim sermayesinin A-takımı olarak adlandırılabilecek olan [Sequoia Capital](https://www.sequoiacap.com), [Digital Currency Group](https://dcg.co) ve [AndreessenHorowitz](https://a16z.com) (a16z)'den yatırım alıyor ekip. 
 
 2017 yılındaki ICO'ların en rağbet gördüğü zamanda yaptığı 'ileride size token vereceğim' (SAFT-[Simple Agreement for Future Tokens](https://www.investopedia.com/terms/s/simple-agreement-future-tokens-saft.asp)) sözü ile birlikte o zaman için rekor sayılabilecek toplam 252 milyon ABD Doları finansman sağlıyor. Bu finansman ile birlikte mevcut tokenların %30'u satılıyor. Kalan %70 ise zaman içinde sistemi sürdürecek olan madencilere verilmek üzere bekletiliyor. 
 
@@ -44,7 +44,7 @@ Temel olarak sistemin geliştirmesini Protocol Labs gerçekleştirse de, ekibin 
 
 Filecoin esas olarak, dağıtık yapıda verilerin farklı noktalarda şifreli olarak saklanmasına aracılık ediyor. Bunu yaparken madencilerden yararlanıyor. Madencilerin iki ana fonksiyonu var. Bunlardan birincisi, verileri saklamak. Diğeri ise bu saklanan verileri ihtiyaç olduğunda isteyene iletmek. Bunun karşılığı olarak madenciler [FIL](https://www.coingecko.com/en/coins/filecoin) dediğimiz sistem tokenı almaya hak kazanıyorlar. 
 
-Peki ya bu ilk grup olarak adlandırılan madenciler söz verdikleri verileri saklamazlar ise? Verileri saklayan madenciler aynı zamanda belli bir miktar FIL tokenini teminat olarak veriyorlar. Bu teminat karşılığı belli bir miktar veriyi belli süreler için saklamak zorundalar. Eğer yapmazlar ise koydukları teminat yanıyor. 
+Peki ya bu ilk grup olarak adlandırılan madenciler söz verdikleri verileri saklamazlar ise? Verileri saklayan madenciler aynı zamanda belli bir miktar FIL tokenını teminat olarak veriyorlar. Bu teminat karşılığı belli bir miktar veriyi belli süreler için saklamak zorundalar. Eğer yapmazlar ise koydukları teminat yanıyor. 
 
 Elbette sistem tek bir madencinin 'verdiğim teminat yanacak' korkusu ile emanet edilen veriyi saklamasına güvenmiyor ve pek çok farklı şekilde aynı bilgiyi farklı madenciler ile çoklama ve senkronize etme yetisine sahip. 
 
