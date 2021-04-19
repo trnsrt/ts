@@ -10,27 +10,23 @@ Bu yazımızda gelin merkeziyetsiz dünyanın veri saklayıcısı olma yolunda i
 |:--:| 
 | *Image by [Dennis P](https://pixabay.com/users/dep377-9418974/) from [Pixabay](https://pixabay.com/)*|
 
-Örneğin, Bitcoin ağına bağlı yaklaşık 10,000 düğüm yani makine var. Bu makinelerin çoğunluğun tüm Bitcoin işlemlerinin içeren verinin bir kopyasını tutuyorlar. Bu veri Nisan 2021 itibariyle [yaklaşık 340 GB](https://ycharts.com/indicators/bitcoin_blockchain_size). Bu bilgi her on dakikada bir (maksimum) 1 MB daha büyüyor.
+Blokzincir yapılan işlemlerin ve son durumun kaydını mermer taşa yazılmış gibi değiştirilemez bir şekilde tutuyor. Ama nihayetinde tutulan bir işlemi gösteren bilgi. Peki ya işlemin kendisi nerede? 
 
-Burada tutulan bilgi ise sadece blok başlıkları ve içinde bulunan işlemler. Yani aslında Bitcoin içinde çok fazla bilgi tutulduğu söylenemez. Buna rağmen ciddi bir büyüklüğe ulaşmış durumda. 
+Ne demek istediğimizi bir örnek ile anlatalım: NFT ya da non-fungible token dediğimiz tekil (benzersiz) tokenlar (belirteçler), birbirine benzemeyen ürünlerin 'sahipliğini göstermek' için kullanılıyorlar. Tokenları satın alarak yaratıcısının işaret ettiği ürünün sahipliğini blokzincir üzerine kaydedip tüm dünyaya kanıtlamış oluyoruz. Peki ya bu ürünlerin asılları nerede duruyor?[^1]
 
-Blokzincir yapılan işlemlerin ve son durumun kaydını mermer taşa yazılmış gibi değiştirilemez şekilde tutuyor. Ama nihayetinde tutulan bir işlemi gösteren bilgi. Peki ya işlemin kendisi? 
+Öncelikle dijital bir sanat eserinin ekranda gördüğünüz dosyası eserin orijinali ile aynı boyutta olmayabilir. Genelde yaratıcılar eserlerini yüksek çözünürlükle üretip sonrasında daha düşük çözünürlüklü olarak pazar yerlerlerine koyuyorlar. Dolayısıyla ürünün aslı satıldığı web sitesinde olmayabilir. Peki eserin asıl orjinalini nerede saklıyorlar? Sanatçının kendi bilgisayarında. 
 
-Ne demek istediğimizi bir örnek ile anlatalım: non-fungible token dediğimiz tekil (benzersiz) tokenlar (belirteçler), birbirine benzemeyen ürünlerin sahipliğini göstermek için kullanılıyorlar. Tokenları satın alarak gösterdikleri ürünün sahipliğini blokzincir üzerine kaydedip tüm dünyaya kanıtlamış oluyoruz. Peki ya bu ürünlerin kendileri nerede duruyor?
+İyi de sanatçı eseri alıcıya nasıl teslim edilecek? Alıcı sanatçıya email adresi mi verecek? Dijital dünyanın anonimliğine aykırı değil mi bu? Başka sorunlar da var. Ya sanatçının ya da alıcının eseri tuttuğu bilgisayar bir gün uçarsa? O zaman ne yapacağız? NFT'ye bir şey olmuyor ama asıl eser bir anda yok olabilir!
 
-Örneğin bir dijital sanat eserini aldınız. Burada satın aldığınız o sanat eserinin dijital dünyada o blokzincir üzerindeki sahipliği. Peki eserin kendisi nerede? Eskiden olsa, örneğin bir yağlıboya eseri alır yüklenir evinize getirir duvara asardınız. 
+Ne yapalım peki? Orijinal eserlerin kendisini mi blokzincire koysak? Size bol şans dilerim. Bugün en büyük blokzincir olan Bitcoin'in 10 dakikada bir toplandığı bloklarının her birinin büyüklüğü 1 MB büyüklüğünde. Şu yazıda gördüğünüz resimlerin her biri düşük çözünürlüklü olarak bile 1 MB'dan daha yüksek. Dolayısıyla blokzincir buna uygun değil. 
 
-Şimdi dijital sanat eserlerinde sahiplik ona fiziksel olarak sahip olmayı gerektirmiyor. İsteyen herkes o eseri görebilir, hatta ekranında görürken elindeki farenin sağ tuşuna basıp 'kopyala' yı seçerek bilgisayarına indirebilir. Ancak bu, herhangi bir sanat eserinin orijinalini değil başka ressamlar tarafından yapılmış tıpatıp aynısını ya da Google Art üzerinden alınmış olan çıktısını yazıcıdan yazdırıp duvara asmaktan farklı değil aslında. 
-
-Konuyu dağıttık, toparlayalım. Öncelikle bu sanat eserinin ekranda gördüğünüz dosyası eserin orijinali ile aynı boyutta olmayabilir. Genelde yaratıcılar eserlerini yüksek çözünürlükle üretip sonrasında daha düşük çözünürlüklü olarak pazar yerlerlerine koyuyorlar. Peki eserin asıl orjinalini nerede? Sanatçının kendisinde. Peki alıcıya nasıl teslim edilecek? Alıcı sanatçıya email adresi mi verecek? Dijital dünyanın anonimliğine aykırı değil mi bu? 
-
-Başka sorunlar da var. Ya sanatçının ya da alıcının eseri tuttuğu hard disk bir gün uçarsa? O zaman ne yapacağız? NFT'yi bir şey olmuyor ama asıl eser ortada yok!.
-
-İşte bu ve benzeri blokzincir üzerinde tutulan verilerin arkasında yer alan daha büyük montanlı ve kaybolması istenmeyen veri ve dosyalar için herhangi bir merkezin dahlinde bulunmayan ve sahibinin istediği zaman istediği koşulda ulaşabileceği bir saklama alanı olması elzem. İşte Filecoin merkeziyetsiz dünyanın ihtiyaç duyduğu bu kritik konuda hizmet veriyor. 
+İşte bu tip kaybolması istemediğiniz ama büyük olması nedeniyle blokzincire koyamadığınız dijital varlıklar için merkeziyetsiz bir çözüm elzem gibi görünüyor. 
 
 ### Filecoin ne ve nasıl ortaya çıkmış? 
 
-Filecoin, 2014 yılında [Protocol Labs](https://protocol.ai) tarafından kurulan bir girişim. Web 3.0 da olarak adlandırılan, yeni tip web teknolojilerine altyapı sağlamayı amacıyla o günden beri çalışmalarını sürdürüyor. Sağladığı temel hizmet, her tür yeni teknolojinin kullanabileceği merkeziyetsiz bir saklama alanı. 
+Filecoin de tam olarak bu alanda yani merkeziyetsiz dünyanın ihtiyaç duyduğu hiçbir aracıya bağlı olmayan geniş kapasiteli ve ucuz bir saklama alanı hizmeti sağlıyor. 
+
+Filecoin, 2014 yılında [Protocol Labs](https://protocol.ai) tarafından kurulan bir girişim. Web 3.0 da olarak adlandırılan, yeni tip web teknolojilerine altyapı sağlamayı amacıyla o günden beri çalışmalarını sürdürüyor. 
 
 Filecoin'in yıldızı Silikon Vadisi'nin girişimler için geliştirilen en elit hızlandırıcı programlarından [Y-Combinator'e kabul edilmesi](https://www.ycombinator.com/companies/protocol-labs) ile başlıyor. Bu program sonrası girişim sermayesinin A-takımı olarak adlandırılabilecek olan [Sequoia Capital](https://www.sequoiacap.com), [Digital Currency Group](https://dcg.co) ve [AnderseenHorowits](https://a16z.com) (a16z)'den yatırım alıyor ekip. 
 
@@ -71,4 +67,7 @@ Aşağıda da Filecoin'in rakipleri ile Ekim 2020 tarihindeki karşılaştırmal
 Merkeziyetsiz veri saklama platformları, gerek DeFi gerekse NFT alanında bundan sonra da çok ihtiyaç duyulacak bir hizmeti sunuyorlar. Zira herhangi bir kurumun dahline gerek kalmadan verileri ve dosyaları saklama ve başkasına transfer edebilme işini maliyet düşük bir şekilde gerçekleştirmek oldukça kritik. 
 
 Sektörün en büyüğü olan Filecoin, gerek arkasına aldığı güçlü yatırımcıların sağladığı imkanlar gerekse merkeziyesizlik yolunda attığı adımlar ile ön plana çıkmış durumda. Her alanda olduğu gibi bu konuda da umarız yeni teknolojiler sayesinde yeni rakipler kullanıcılara daha efektif ve güvenli alternatifler sunar. Burası teknolojik bir alan - her geçen gün yeni gelişmelere hazırlıklı olmak gerek. 
+
+
+[^1]Eskiden olsa, bir yağlıboya eseri aldığınızda, yüklenir evinize getirir ve duvara asardınız. Şimdi ise dijital sanat eserlerinde sahiplik ona fiziksel olarak sahip olmayı gerektirmiyor. İsteyen herkes o eseri görebilir, hatta ekranında görürken elindeki farenin sağ tuşuna basıp 'kopyala' yı seçerek bilgisayarına indirebilir. Ancak bu, herhangi bir sanat eserinin orijinalini değil başka ressamlar tarafından yapılmış tıpatıp aynısını ya da Google Art üzerinden alınmış olan çıktısını yazıcıdan yazdırıp duvara asmaktan farklı değil aslında. 
 
