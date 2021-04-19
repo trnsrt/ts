@@ -5,10 +5,12 @@ Bundan önceki dört yazılık serimizde DeFi dünyasına ilk girişte ihtiyaç 
 ### Cüzdanlar neden önemli?
 Elektronik cüzdanlar DeFi dünyasının en kritik parçalarından. Neden?
 
-DeFi yani merkeziyetsiz finans dünyasının en temel prensiplerinden biri gücü kullanıcıya vermek. Yani kullanıcının dijital dünyada elinde olduğu varlıklara tam olarak sahip olması demek. Biraz daha açalım lütfen: Kullanıcı, klasik dünyada işlem yapmak için parasını bir finans kurumuna 'emanet' etmesi gerekirken, DeFi dünyasında böyle bir zorunluluk yok. Dijital varlığın tek sahibi olarak varlığı elektronik cüzdanında tutuyor ve dilediği DeFi ürününü dilediği zaman kullanıp işi bittiği anda da elektronik cüzdanının bağlantısını keserek DeFi ürünü ile ilişkisini bitiriyor. 
+DeFi yani merkeziyetsiz finans dünyasının en temel prensiplerinden biri gücü kullanıcıya vermek. Yani kullanıcının dijital dünyada elinde olduğu varlıklara tam olarak sahip olması demek. 
+
+Biraz daha açalım lütfen: Kullanıcının, klasik dünyada işlem yapmak için parasını bir finans kurumuna 'emanet' etmesi gerekirken, DeFi dünyasında böyle bir zorunluluk yok. Dijital varlığın tek sahibi olarak varlığı elektronik cüzdanında tutuyor ve dilediği DeFi ürününü dilediği zaman kullanıp işi bittiği anda da elektronik cüzdanının bağlantısını keserek DeFi ürünü ile ilişkisini bitiriyor. 
 
 ### Cüzdan gerekli mi? Merkezi borsalar kullanılamaz mı?
-Elektronik cüzdan, finansal okuryazarlığı daha ileri seviyede olan, konuyu araştırmış olan kullanıcıların kullanabileceği araçlar. Öğrenmesi hiç zor değil ancak emek istiyorlar. 
+Elektronik cüzdan, finansal okuryazarlığı daha ileri seviyede olan, konuyu araştırmış olan kullanıcıların kullanabileceği araçlardan. Öğrenmesi hiç zor değil ancak emek istiyorlar. 
 
 | ![man_computer](/assets/man-5782412_800.jpg) | 
 |:--:| 
@@ -29,12 +31,12 @@ Peki bu paralara nasıl ulaşabilir kullanıcı? Öncelikle elindeki itibari par
 DeFi dünyası ağırlıklı olarak Ethereum blokzinciri üzerine kurulu olduğu için DeFi ürünlerinde bu blokzincirin parası olan ETH en sık karşılacağınız ve en likit para ancak bununla sınırlı değil tabii. Özellikle USDT (Tether) ve USDC de ABD dolarına çıpalanmış paralar olarak rağbet görüyorlar. Kullanıcı ilk adım olarak hemen hemen tüm borsalarda bulunan bu tokenlar ile yatırıma başlayabilir.  
 
 #### Merkezi borsalar
-Kullanıcılar, daha sonrasında farklı DeFi ürünlerine yatırım yapmak isterler ise kriptopara borsalarının sunduğu tokenlardan alabilirler. Ancak unutulmaması gereken, bu borsalarda tutulan paraların özünde onlara verilmiş emanetler olduğunun unutulmaması. Sonuç olarak bu borsalarda tutulan kriptoparalar henüz devlet tarafından denetlenmedikleri için klasik anlamda mevduat olarak bankadan tutulan paraya göre daha risk taşımaktalar. Bu risk, kullanıcı parayı kendi elektronik cüzdanına taşımadıkça devam eder. 
+Kullanıcılar, daha sonrasında farklı DeFi ürünlerine yatırım yapmak isterler ise kriptopara borsalarının sunduğu tokenlardan alabilirler. Ancak unutulmaması gereken, bu borsalarda tutulan paraların özünde onlara verilmiş emanetler olduğunun unutulmaması. Sonuç olarak bu borsalarda tutulan kriptoparalar henüz devlet tarafından denetlenmedikleri için klasik anlamda mevduat olarak bankada tutulan paraya göre daha fazla risk taşımaktalar. Bu risk, kullanıcı parayı kendi elektronik cüzdanına taşımadıkça devam eder. 
 
 Bunun yanında yukarıdaki ilk kısımda bahsettiğimiz rahatlık nedeniyle kullanıcılar kısıtlı da olsa borsanın sunduğu kriptoparalar ile yatırım yapmayı sürdürebilirler. 
 
 #### Merkeziyetsiz borsalar
-Merkezi borsalar doğal olarak piyasada bulunun binlerce coin ya da tokundan sadece en çok kullanılan birkaç tanesine yatırım imkanı sunar. Peki ya kalan binlercesine yatırım yapmak isterse? O zaman, kullanıcı merkeziyetsiz borsalara gidebilir. 
+Merkezi borsalar doğal olarak piyasada bulunun binlerce coin ya da tokendan sadece en çok kullanılan birkaç tanesine yatırım imkanı sunar. Peki ya kullanıcı kalan binlercesine yatırım yapmak isterse? O zaman istikamet merkeziyetsiz borsalar. 
 
 Merkeziyetsiz borsalar, DeFi felsefesine uygun olarak 'açık' bir şekilde çalışırlar. İki şekilde açık olarak tanımlamak mümkün. Birincisi, isteyen herkes, dil, din, ırk, lokasyon, mali durum gibi hiçbir kriter olmaksızın bu borsaları kullanabilir. İkincisi ise dileyen her DeFi girişimi, kendi ağına ilişkin tokenini istediği zaman bu borsalarda dolaşıma sokabilir. 
 
@@ -47,7 +49,7 @@ Merkeziyetsiz borsalar içinde en büyüğü Uniswap (ki onunla ilgili, nasıl �
 #### Peki nasıl kullanılır merkeziyetsiz borsalar?
 Merkeziyetsiz borsaları kullanmanın en zor yanı başlangıcı. Aslında bu merkezi borsalar için de benzer şekilde. Zira merkezi borsalar 'müşterini tanı' (know-your-customer) ilkeleri ile çalıştıkları ve itibari paralara dokundukları için oldukça hassaslar. 
 
-Merkeziyetsiz borsalar ise sadece kripto para kabul ediyorlar. 'Kabul etmek ne demek?' Derseniz şöyle hatırlatalım: Herhangi bir merkeziyetsiz borsanın web sitesine girerseniz, yapacağınız ilk iş genelde sağ üst tarafta bulunun 'cüzdanını bağla' (connect your wallet) düğmesine basmak. O zaman site size hangi elektronik cüzdanı kullanmak istediğinizi sorar ki, bunu bir önceki yazımızda detaylı olarak anlatmıştık: 👇
+Merkeziyetsiz borsalar ise sadece kripto para kabul ediyorlar. 'Kabul etmek ne demek?' Derseniz şöyle hatırlatalım: Herhangi bir merkeziyetsiz borsanın web sitesine girerseniz, yapacağınız ilk iş genelde sağ üst tarafta bulunan 'cüzdanını bağla' (connect your wallet) düğmesine basmak. O zaman site size hangi elektronik cüzdanı kullanmak istediğinizi sorar ki, bunu bir önceki yazımızda detaylı olarak anlatmıştık: 👇
 
 <a href="/genel/2021/04/01/Defide-cuzdan-kullanirken-dikkat-edilmesi-gerekenler.html">
          <img alt="Tweet" src="/assets/defide_baslik.png"></a>
@@ -57,4 +59,4 @@ Merkeziyetsiz borsalar ise sadece kripto para kabul ediyorlar. 'Kabul etmek ne d
 İşte daha önce tekrar tekrar yazdığımız, kullanıcının gücü. İlk girdiğinizde sitenin kim olduğunuz hakkında hiçbir fikri yok iken, siz izin verdiğiniz anda sizin bilgilerinizi görüp, sizden herhangi bir belge vs istemeden işlem yapma izni vermesi. Sonrasında aynı düğmede yazan 'cüzdanı ayır' (disconnect wallet)'a basarak yine site ile iki yabancı olarak kalmanız.. 
 
 #### DeFi'nin yenilikleri asıl burada başlıyor
-Kullanıcı DeFi dünyasında işlem yapmak için sadece merkezi borsalar ya da merkeziyetsiz borsalar kullanmıyor.. Aslında DeFi dünyasının 'lego' gibi birbiri ile değişken kullanılabilmesi aslında pek çok farklı ürün de var.. Onlara da önümüzdeki yazımızda bakalım... 
+Kullanıcı, DeFi dünyasında işlem yapmak için sadece merkezi borsalar ya da merkeziyetsiz borsalar kullanmıyor. Aslında DeFi dünyasının 'lego' gibi birbiri ile değişken kullanılabilmesi için pek çok farklı ürün de var. Onlara da önümüzdeki yazımızda bakalım...
