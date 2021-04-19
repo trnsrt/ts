@@ -49,6 +49,8 @@ Merkeziyetsiz borsaları kullanmanın en zor yanı başlangıcı. Aslında bu me
 
 Merkeziyetsiz borsalar ise sadece kripto para kabul ediyorlar. 'Kabul etmek ne demek?' Derseniz şöyle hatırlatalım: Herhangi bir merkeziyetsiz borsanın web sitesine girerseniz, yapacağınız ilk iş genelde sağ üst tarafta bulunun 'cüzdanını bağla' (connect your wallet) düğmesine basmak. O zaman site size hangi elektronik cüzdanı kullanmak istediğinizi sorar ki, bunu bir önceki yazımızda detaylı olarak anlatmıştık: 👇
 
+<a href="/genel/2021/04/01/Defide-cuzdan-kullanirken-dikkat-edilmesi-gerekenler.html">
+         <img alt="Tweet" src="/assets/defide_baslik.png"></a>
 
 Örnek olarak Metamask'ı seçtiğinizde Metamask siteye bağlanmak isteyip istemediğiniz konusunda sizden teyid alır ve onay verirseniz, cüzdanınızdaki varlıkları site içinde görüntüleme imkanı verir. 
 
