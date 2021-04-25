@@ -58,3 +58,9 @@ This was actually beginning of the end of second phase. Started as something tha
 ### The next phase of web
 
 The invasion of privacy and manipulation of masses were actually predicted long before such themes were publicly criticized. A new type of web, where users have more power, meaning owning their footprints on the web and keep them private, has been discussed among certain circles since the early 2000ss.. The result is the third phase of web where we will discuss on our next post... 
+
+---
+*This piece is [first published](https://medium.com/bcistcenter/evolution-of-web-technologies-ffc9c983940c) in [BlockchainIST Center](https://medium.com/blockchainist-center) on April 15th, 2021.*
+
+*None of the views expressed in this article should be considered as investment advice*
+
