@@ -1,8 +1,18 @@
+---
+layout: post
+title:  "Power to the users"
+date:   2021-04-25 17:47:56 +0300
+categories: Genel
+tags: Yazılar, Articles
+---
+
 We continue to look at the latest saga in the evolution of web technologies in this piece: 
 
 Web technologies have evolved significantly over the last couple of decades. What started as a non-profit initiatives led by universities during phase one has turned into a commercial power tool in phase two. Now we are entering into third phase - a still unknown but hopefully a better one for us, individuals. (Please read the first post - link below - before moving on to this one). 
 
-[LINK TO PREVIOUS POST]
+<a href="/genel/2021/04/15/evolution-of-web-technologies.html">
+         <img alt="post" src="evolution_of_web_technologies_800.png"></a>
+
 
 ### Cypherpunk Movement
 A group of people have seen the unprecedented power grab by tech giants way before the masses. In fact seeds of such a movement started even before these giants have any power at all. Look at the quote from Eric Hughes' '[A Cypherpunk's Manifesto](https://nakamotoinstitute.org/static/docs/cypherpunk-manifesto.txt)' dated March 9th, 1993: 
@@ -25,5 +35,14 @@ This enormous money printing was justified as 'saving the economy' from crisis, 
 
 Privacy concerns in digital life coupled with fear of governments toying with inflationary tools resulted in a perfect storm in 2008 that created the first blockchain project, namely bitcoin.. 
 
+| ![power_charge](/assets/flash-3604915_800.jpg)|
+|:--:| 
+| *Image by [Gerd Altmann](https://pixabay.com/users/geralt-9301/) from [Pixabay](https://pixabay.com/)*|
+
 Blockchain technologies in fact constitute the fundamentals of the third wave of internet. So what do we mean by that? Let's dive into blockchain philosophy on our next post. 
+
+---
+*This piece is [first published](https://medium.com/bcistcenter/evolution-of-web-technologies-ffc9c983940c) in [BlockchainIST Center](https://medium.com/blockchainist-center) on April 25th, 2021.*
+
+*None of the views expressed in this article should be considered as investment advice*
 
