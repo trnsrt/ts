@@ -11,12 +11,7 @@ We continue to look at the latest saga in the evolution of web technologies in t
 Web technologies have evolved significantly over the last couple of decades. What started as a non-profit initiatives led by universities during phase one has turned into a commercial power tool in phase two. Now we are entering into third phase - a still unknown but hopefully a better one for us, individuals. (Please read the first post - link below - before moving on to this one). 
 
 <a href="/genel/2021/04/15/evolution-of-web-technologies.html">
-         <img alt="post" src="evolution_of_web_technologies_800.png"></a>
-         
-         
-<a href="/genel/2021/04/02/DeFinin-Lider-Borsasi-son-durumu.html">
-         <img alt="Tweet" src="/assets/uniswap_yazi_1.png"></a>
-
+         <img alt="post" src="/assets/evolution_of_web_technologies_800.png"></a>
 
 ### Cypherpunk Movement
 A group of people have seen the unprecedented power grab by tech giants way before the masses. In fact seeds of such a movement started even before these giants have any power at all. Look at the quote from Eric Hughes' '[A Cypherpunk's Manifesto](https://nakamotoinstitute.org/static/docs/cypherpunk-manifesto.txt)' dated March 9th, 1993: 
