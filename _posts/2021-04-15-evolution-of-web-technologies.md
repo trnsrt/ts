@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Evolution of web technologies"
+date:   2021-04-15 17:47:56 +0300
+categories: Genel
+tags: Yazılar, Articles
+---
+
 Let's have a closer look at the evolution of web in this piece:
 
 Web technologies - as we know it - have been around for a couple of decades. Having gone through significant changes, it would be healthy to have a casual look at their evolution in general.  
