@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "DeFi tokenlar ile tanışmak"
+date:   2021-04-22 17:47:56 +0300
+categories: Genel
+tags: Yazılar, DeFi, DeFi'ye Giriş
+---
+
+
 Bu yazımızda DeFi dünyasının paraları olan tokenlar ile tanışmak için neler yapılır ona bakacağız:
 
 Bundan önceki dört yazılık serimizde DeFi dünyasına ilk girişte ihtiyaç duyulan cüzdanlardan bahsetmiştik. Cüzdan kurduktan sonra DeFi dünyası tokenları ile alım satım nasıl yapılır ona da bu yazımızda bakacağız: 
@@ -60,3 +69,11 @@ Merkeziyetsiz borsalar ise sadece kripto para kabul ediyorlar. 'Kabul etmek ne d
 
 #### DeFi'nin yenilikleri asıl burada başlıyor
 Kullanıcı, DeFi dünyasında işlem yapmak için sadece merkezi borsalar ya da merkeziyetsiz borsalar kullanmıyor. Aslında DeFi dünyasının 'lego' gibi birbiri ile değişken kullanılabilmesi için pek çok farklı ürün de var. Onlara da önümüzdeki yazımızda bakalım...
+
+---
+
+*Not 1: Bu yazı ilk olarak 22 Nisan 2021'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı](https://medium.com/blockchainist-center/defi-tokenlar%C4%B1-i%CC%87le-tan%C4%B1%C5%9Fmak-4d713e59cc3a)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
