@@ -12,6 +12,10 @@ Web technologies have evolved significantly over the last couple of decades. Wha
 
 <a href="/genel/2021/04/15/evolution-of-web-technologies.html">
          <img alt="post" src="evolution_of_web_technologies_800.png"></a>
+         
+         
+<a href="/genel/2021/04/02/DeFinin-Lider-Borsasi-son-durumu.html">
+         <img alt="Tweet" src="/assets/uniswap_yazi_1.png"></a>
 
 
 ### Cypherpunk Movement
