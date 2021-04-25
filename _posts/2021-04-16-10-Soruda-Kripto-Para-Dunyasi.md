@@ -10,7 +10,7 @@ tags: videos Etkinlikler
 &nbsp;
 
 <table><tr><td style="width:50%">
-<img src="/assets/on_soruda_kripto_para_dunyasi_800.jpg">
+<img src="/assets/10-soruda-kripto-poster.png">
 </td>
 <td style="width:50%">
 <iframe width="224" height="126" src="https://www.youtube.com/embed/67HQ_fS-5DE" frameborder="0" allowfullscreen></iframe></td></tr>
