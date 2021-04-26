@@ -1,40 +1,42 @@
 # YAZI I: Nedir bu NFT?
 
-Geçtiğimiz günlerde Gizem Uzuner Gençtürk'ün sunduğu '10 Soruda Kripto Para Dünyası' programında [NFT'ler hakkında](https://www.paribu.com/blog/haberler/10-soruda-kripto-para-dunyasinda-nft-konusuldu-nft-nedir-nft-nerelerde-kullanilir/) konuştuk. Programın linki şurada 👇
+Geçtiğimiz günlerde Gizem Uzuner Gençtürk'ün sunduğu '10 Soruda Kripto Para Dünyası' programında [NFT'ler hakkında](https://www.paribu.com/blog/haberler/10-soruda-kripto-para-dunyasinda-nft-konusuldu-nft-nedir-nft-nerelerde-kullanilir/) analizlerimi paylaştım. Programın linkini aşağıda bulabilirsiniz: 👇
 
 https://www.paribu.com/blog/haberler/10-soruda-kripto-para-dunyasinda-nft-konusuldu-nft-nedir-nft-nerelerde-kullanilir/
 
-Konuştuklarımızı birkaç bölümde özetleyeceğiz. İlk bölümümüzde NFT ne demek, nereden çıktı ve özellikleri neler konularına değineceğiz: 
+Üzerinden geçtiğimiz konuları birkaç bölümde özetleyeceğiz. İlk bölümümüzde NFT ne demek, nereden çıktı ve özellikleri neler konularına değineceğiz: 
 
 ### Ne demek NFT?
 
 NFT non-fungible token teriminin kısaltması ve ne olduğunu anlamak için belki de önce fungible token ne demek ona bakmakta fayda var:  
 
-Fungible birbirinin yerine geçebilen, değiştirilebilen demek. Genelde paralar için kullanılan bu özelliğe sahip varlıkların dijital versiyonları, fungible (birbirinin aynı-değiştirilebilir) token olarak adlandırıldı.  
+Fungible birbirinin yerine geçebilen, değiştirilebilen demek.  
 
 Bir örnek ile anlatırsak; cebinizdeki 10 TL'yi bana verseniz, karşılığında ben de size 10 TL versem, ikimiz için de değişen bir durum yok. Biri diğerinin yerini tutabiliyor.  Paralar için olmazsa olmaz özelliklerden biri bu. 
 
-Non-fungible ise bunun tam tersi, tek, benzersiz, eşsiz anlamına geliyor. Türkçeye tekil token ya da tekil belirteç şeklinde çevirmek mümkün.
+İşte genelde paralar için kullanılan bu özelliğe sahip varlıkların dijital versiyonları, fungible (birbirinin aynı-değiştirilebilir) token olarak adlandırılıyor. 
 
-Aslında para dışındaki fiziksel dünyadaki pek çok varlık tekil olarak yer alır. Sizin ve arkadaşınızın aynı model ve yıl birer arabanız var. Belli bir süre kullandıktan sonra 'bu iki araba birbirinin aynı' diyebilir misiniz? Kullanım süreniz, kullandığınız yol, sürüş şekliniz hepsinin araba üzerinde bir etkisi var. Her iki araba belki sıfır model iken aynı iken, belli bir zaman geçtikten sonra birbirine benzemez hale gelirler. Dolayısıyla fiziksel dünya aslında ağırlıklı olarak tekil varlıklardan oluşan bir dünya. 
+Non-fungible ise bunun tam tersi, tek, benzersiz ya da eşsiz anlamına geliyor. Türkçeye tekil token ya da tekil belirteç şeklinde çevirmek mümkün.
 
-İşte fiziki dünyadaki bu tekilliğin dijital dünyaya uyarlanmış haline de NFT deniyor. 
+Örneğin, bir araba markasının aynı yıl üretilmiş aynı model iki arabası bile farklı sürücülerin kullanımı sonrası birkaç ay içinde birbirlerinden farklı hale gelirler. Kullandığınız bir cep telefonunda da. 
 
-Burada kısaca bir duraksayıp, sürecin geçmişine ve felsefine kısaca değinelim.  
+Fiziki dünya genelde bu tip birbirine benzemeyen tekil varlıklardan oluşur. İşte fiziki dünyadaki bu tekilliğin dijital dünyaya uyarlanmış haline de NFT deniyor. 
+
+Burada kısaca bir durup, sürecin geçmişine ve felsefine kısaca değinelim.  
 
 ### Olayın kökü dijitalleşme ve kısıtlılığa dayanıyor... 
 
-Biz şu an yaşayan kuşaklar çok ilginç bir dönemden geçiyoruz - özellikle yaşı daha ileri olanlar. Zira hem dijital öncesi çağı yaşadık (fiziksel ya da analog çağ diyorum ben buna), hem de dijitalleşmenin tüm evrelerini. 
+Özellikle 60 ile 80 arasında doğanlar çok ilginç bir dönemden geçiyoruz. Zira hem dijital öncesi çağı gördük (fiziksel ya da analog çağ diyorum ben buna), hem de dijitalleşmenin tüm evrelerini tek tek yaşıyoruz.  
 
-Dijital dünyaya geçerken onun getirdiği nimetlerinden olabildiğince faydalandık - örneğin saniyeler içinde elimizin altında cihazlar ile dünyanın neresinde olursa olsun başkaları ile iletişime geçebilme ya da yapmamızın zorunlu olduğu işlemleri koltuğumuzdan kalkmadan gerçekleştirebilme gibi. 
+Dijital dünyaya geçerken onun getirdiği nimetlerinden olabildiğince faydalandık; örneğin saniyeler içinde elimizin altında cihazlar ile dünyanın neresinde olursa olsun başkaları ile iletişime geçebilme ya da yapmamızın zorunlu olduğu işlemleri koltuğumuzdan kalkmadan gerçekleştirebilme gibi. 
 
-Öte yandan kimi zaman da dijital dünyanın belli kısıtlamaları ile karşı karşıya kaldık. Bunlardan en önemlisi dijital dünyada bir kopyalanma problemi olması idi. Herhangi bir dijital esere, örneğin bir dijital resme, 'fiziki olarak' nasıl sahip olursunuz? Üzerine gelip elinizdeki farenin sağ tuşuna tıklar ve kopyalayı seçerseniz rahatça bilgisayarınıza indirebilirsiniz.  
+Öte yandan kimi zaman da dijital dünyanın belirli kısıtlamaları ile karşı karşıya kaldık. Bunlardan en önemlisi dijital dünyada bir kopyalanma problemi olması idi. Herhangi bir dijital esere, örneğin bir dijital resme, 'fiziki olarak' nasıl sahip olursunuz? Üzerine gelip elinizdeki farenin sağ tuşuna tıklar ve kopyalayı seçerseniz rahatça bilgisayarınıza indirebilirsiniz.  
 
-Dijital dünyada eskime gibi bir durum yok, üstüne üstlük kopyalama ve dijital saklamanın ucuz maliyeti nedeniyle bir  ürünün aynısından binlerce yaratabilmek mümkün. Bu da ciddi bir sorun, zira bir ürün ne kadar az ise o kadar değeri yüksek olur, ve ne kadar çok çoğaltılıyor ise değerinde o kadar düşüş meydana gelir. 
+Dijital dünyada eskime gibi bir durum yok, üstüne üstlük kopyalama ve dijital saklamanın ucuz maliyeti nedeniyle bir  ürünün aynısından binlerce yaratabilmek mümkün. Bu da ciddi bir sorun, zira bir ürün ne kadar az ise değeri o kadar yüksek olur ve ne kadar çok çoğaltılıyor ise değerinde o kadar çok düşüş meydana gelir. 
 
 Dijital dünyanın bu temel sorunun çözümü ise blokzincir sayesinde oldu. Blokzincir teknolojisi dijital dünyada herhangi bir merkezi kurumun onayına gerek kalmadan, dijital varlıkların sınırlı sayıda üretilmesine olanak verdi. 
 
-Blokzincir teknolojisini ortaya çıkaran ve kullanan ilk uygulama malumunuz Bitcoin oldu. Sayı olarak 21 milyon ile sınırlanmış bir para birimi yaratmayı becerdi. Bu yönüyle fiziki dünyada paranın en önemli özelliklerinden olan kısıtlılığı (scarcity) dijital dünyada sağlamış oldu . 
+Blokzincir teknolojisini ortaya çıkaran ve kullanan ilk uygulama malumunuz Bitcoin oldu. Sayı olarak 21 milyon ile sınırlanmış bir para birimi yaratmayı becerdi. Bu yönüyle fiziki dünyada paraya değer katan en önemli özelliklerden biri olan kısıtlılığı (scarcity) dijital dünyada sağlamış oldu. 
 
 Öte yandan dijital paraların, fiziksel dünyada kullandığımız kağıt paralar benzeri, gerek alışverişlerde gerekse değer saklama anlamında anonimliğe imkan vermesi gerekiyordu. İşte bu nedenle, her bir adedi diğeri ile değiştirilebilir şekilde dizayn edildiler. 
 
@@ -44,8 +46,8 @@ NFT'ler ise, blokzincir teknolojisinin dijital dünyaya getirdiği bu kısıtlı
 
 Burada biraz kitap bilgisi vermekte fayda var. Ne gibi özellikleri var bu NFT'lerin? Gelin maddeleyelim: 
 
-- *Tekil olması*: Herhangi bir NFT'yi tek bir tane olarak yaratabiliyorsunuz. Bakın, NFT'nin işaret ettiği sahipliğini gösterdiği dijital varlıktan bahsetmiyoruz. O dijital varlığı çoklayabilirsiniz. Ama kimin asıl sahibi olduğunu gösteren NFT bir tanedir. Bunu da blokzincire yazarak, cümle aleme ilan etmiş oluyorsunuz.
-- *Kesin ve tam sahiplik sağlaması*: Bir blokzincirin özelliği, üzerine yazılı bilgilerin sonradan değiştirilemez şekilde kaydediliyor olması. Dolayısıyla, siz herhangi bir NFT'yi satın aldığınızda onun işaret ettiği dijital varlığın sahipliğini anında üzerinize geçirmiş olursunuz. Örneğin, bir sanal bir oyun oynarken yarattığınız bir karakterin NFT'sini satın almanız, o karakteri başka sanal oyunlara aktarma ve orada oynama hakkını da verir size. 
+- *Tekil olması*: Herhangi bir NFT'yi tek bir tane olarak yaratabiliyorsunuz. Bakın, NFT'nin işaret ettiği yani sahipliğini gösterdiği dijital varlıktan bahsetmiyoruz. O dijital varlığı, örneğin .jpeg formatında kolayca çoklayabilirsiniz. Ama kimin asıl sahibi olduğunu gösteren NFT bir tanedir. Bunu da blokzincire yazarak, cümle aleme ilan etmiş oluyorsunuz.
+- *Kesin ve tam sahiplik sağlaması*: Bir blokzincirin özelliği, üzerine yazılı bilgilerin sonradan değiştirilemez şekilde kaydediliyor olması. Dolayısıyla, siz herhangi bir NFT'yi satın aldığınızda onun işaret ettiği dijital varlığın sahipliğini anında üzerinize geçirmiş olursunuz. Örneğin, sanal bir oyun oynarken yarattığınız bir karakterin NFT'sini satın almanız, o karakterin sahipliğinin sadece sizde olduğunu kanıtlar, aynı zamanda size o karakteri başka sanal oyunlara aktarma ve orada oynama hakkını da verir. 
 - *Programlanabilir olması*: Bir NFT özünde akıllı kontrat ile yaratılan dijital varlıklar. Nasıl hareket edeceklerine baştan belirtilmiş ve akıllı kontrata yazılmış kurallar karar veriyor. Bu oldukça önemli bir özellik aslına bakarsanız. Çünkü akıllı kontratın içine istediğiniz kuralları koyabilirsiniz. Bu, örneğin telif haklarında pek çok yenilik getirebilir. Örneğin, sanatçıya yalnızca ürünün ilk satışının geliri değil, daha sonraki satışlarında oluşan kârın %10'unu alma hakkı verirseniz, akıllı kontrat bir sonraki satışta oluşan kârın bu kısmını otomatik olarak sanatçının adresine gönderir. 
 
 ### Arkası yarın
@@ -62,12 +64,12 @@ Bu bölümde ise NFT'ler ile ilgili akıla takılan sorulara yanıt arayacağız
 
 Nasıl bir aktarım bu? Kısaca, dijital ya da fiziki bir varlığın token haline getirilmesi diyebiliriz. Nasıl token haline gelir ki fiziksel bir varlık? Gelmez tabii. *Dijital dünyaya gelen varlığın kendisi değil, bu varlığın sahipliği!*
 
-İşin esası şu: Herhangi bir eserin yaratıcısı, o eserin sahipliğini bir başkasına devretmek istediğinde bunu blokzincir üzerinden gerçekleştiriyor. Verdiği emir sonrası blokzincir bu devri halini ilelebet ve sonradan değiştirilemeyecek şekilde kaydediyor. Kısacası, eserin kendisi değil, sahipliği blokzincire yazılıyor. 
+İşin esası şu: Herhangi bir eserin yaratıcısı, o eserin sahipliğini bir başkasına devretmek istediğinde bunu blokzincir üzerinden gerçekleştiriyor. Blokzincir, eserin sahipliğini devri ilelebet ve sonradan değiştirilemeyecek şekilde kaydediyor. Kısacası, eserin kendisi değil, sahipliği blokzincire yazılıyor. 
 
 #### Ama dijital eserler kolayca kopyalanabilir, öyle değil mi?
 İşte en sık karşılaştığımız ve NFT'lere yan gözle bakılmasına yol açan soru: "Ekranda gördüğüm herhangi bir eseri faremin sağ tuşuna basarak bilgisayarıma indirebilirim". Gayet tabii. Eserin aynısın bilgisayarınızda. Peki değeri de aynı mı? 
 
-Bir örnek ile açıklamaya çalışalım: Meşhur Mono Lisa tablosu. Nerede? Louvre Müzesinde. Ama isterseniz Google Arts üzerinden çok yüksek çözünürlükte [bir kopyasını](https://artsandculture.google.com/asset/mona-lisa-by-ambroise-dubois-ambroise-dubois/fAEaTV3ZVjY_vw) bilgisayarınıza indirebilir, hatta çok kaliteli bir renkli yazıcıda basarak duvarınıza asabilirsiniz? Peki duvarınıza astığınız bu tablonun değeri Louvre'daki ile aynı mı? Değil tabii ki. 
+Bir örnek ile açıklamaya çalışalım: Meşhur Mona Lisa tablosu. Nerede? Louvre Müzesinde. Ama isterseniz Google Arts üzerinden çok yüksek çözünürlükte [bir kopyasını](https://artsandculture.google.com/asset/mona-lisa-by-ambroise-dubois-ambroise-dubois/fAEaTV3ZVjY_vw) bilgisayarınıza indirebilir, hatta çok kaliteli bir renkli yazıcıda basarak duvarınıza asabilirsiniz? Peki duvarınıza astığınız bu tablonun değeri Louvre'daki ile aynı mı? Değil tabii ki. 
 
 #### Dijital dünyada sahiplik kavramını yeniden gözden geçirmek gerekli
 
@@ -75,9 +77,9 @@ Maalesef fiziksel dünyada büyümüş bizler için zihinlerimiz, sahipliğin fi
 
 Halbuki dijital dünyaya geçtiğimizde bu kalıplara bir kenara bırakıp, 'sahiplik' kavramını yeniden gözden geçirmemiz gerekiyor. Zira, dijital dünyada bulunan bir eser aslında dijital 1 ve 0'lardan oluştuğu yani fiziki olarak var olmadığı için onu elimizde tutmaya gerek yok. **Önemli olan bu eserin orijinal sahipliğinin kimde olduğu.**
 
-İşte dijital dünyada bir sanatçının yarattığı eserin sahipliğini blokzincire kaydederek başkasına devrettiğinde aslında tüm dünyaya bunu ilan etmiş oluyor. Burada bu ilişki ve sahipliğin geçmesi değerli olan, o eserin x MB boyutundaki bir kopyasının bilgisayarınızda olması değil. 
+İşte dijital dünyada, bir sanatçı yarattığı eserin sahipliğini blokzincire kaydederek başkasına devrettiğinde, aslında bu devri tüm dünyaya ilan etmiş oluyor. Burada değerli olan bu ilişki ve sahipliğin transfer edilmesi, o eserin megabyte ile ölçülen herhangi bir boyuttaki kopyasının bilgisayarınızda olması değil. 
 
-Şu örnek de olaya başka bir açıdan bakmamıza fayda sağlayabilir: Bir kitabın maliyeti kağıt baskı vs katarsanız beş-on TL'yi geçmez. Bir kitapçıdan aldığınızda 30-40 TL verirsiniz. Güzel. Ama bu kitap eskiden basılmış bir eser ise ve sizin elinizde ilk baskısı var ise, bu muhtemelen değerini artırır. Peki ya, bu ilk baskı aynı zamanda yazar tarafından imzalanmış ise? Değeri birkaç katına çıkar. Gördünüz değil mi, aslında eserin değerini fiziki olarak ne ettiği değer başka pek çok kriter belirliyor. 
+Şu örnek de olaya başka bir açıdan bakmamıza fayda sağlayabilir: Bir kitabın maliyeti kağıt baskı vs katarsanız beş-on TL'yi geçmez. Bir kitapçıdan aldığınızda 30-40 TL verirsiniz. Güzel. Ama bu kitap eskiden basılmış bir eser ise ve sizin elinizde ilk baskısı var ise, bu muhtemelen değerini artırır. Peki ya, bu ilk baskı aynı zamanda yazar tarafından imzalanmış ise? Değeri birkaç katına çıkar. Gördünüz değil mi, aslında eserin değerini fiziki olarak ne kadar tuttuğu değil, başka pek çok farklı faktör belirliyor. 
 
 #### Neden eserin kendisi blokzincire yazılamıyor?
 Aklınıza hemen şöyle bir soru gelebilir: "İyi de dijital bir eserden bahsediyorsak eğer, o eserin kendisini blokzincire kaydetsek? Neden sadece sahipliğini yazıyoruz?". 
@@ -172,3 +174,4 @@ Bunun yanında fiziksel dünyadaki eserlerin dijital dünyaya NFT olarak aktarı
 Binlerce yıldır yaşamakta olduğumuz fiziki dünyadan son otuz kırk yıl içinde geçmeye başladığımız dijital dünya, bize türlü rahatlıklar getirdi. Bunları ilk aşamada fiziki dünyayı dijital dünyada taklit ederek yaşadık. Ancak fiziki engellerin ortadan kalkması aslında çok daha farklı ve aslına bakarsanız büyük potansiyellerin önünü açıyor. Bu potansiyellere ulaşabilmek için dijital dünyanın önünü tıkayan bazı engeller vardı. Blokzincir teknolojisi bu engellerin ciddi bir kısmını ortadan kaldırdı. Bu sayede ortaya çıkan farklı fırsatlardan biri de NFT'ler oldu. 
 
 Yazı dizimizde NFT'ler nedir, ne işe yarar, ne gibi alanlarda yeni fırsatlar doğurur onlara değinmeye çalıştık. Eminiz aslında gerçek potansiyel bunun çok daha ötesinde ve şu an hayal edemediğimiz şekillerde ortaya çıkacak. Yeni gelişimleri izlemek, çıkan alanları keşfetmek, kısacası yarının dünyasına bugünden anlamaya çalışmak çok heyecan verici. Dileriz ki birlikte çıkacağımız bu inişli çıkışlı yolculukta yerimiz hep en önde olsun.
+
