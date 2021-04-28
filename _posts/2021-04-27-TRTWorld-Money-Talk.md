@@ -10,7 +10,7 @@ tags: videos Etkinlikler
 &nbsp;
 
 <table><tr><td style="width:50%">
-<img src="/assets/ts_trtworld_money_talk_800.png">
+<img src="/assets/ts_trtworld_money_talk_v2_800.png">
 </td>
 <td style="width:50%">
 <iframe width="224" height="126" src="https://www.youtube.com/embed/5JwOSR6gElM?t=204" frameborder="0" allowfullscreen></iframe></td></tr>
