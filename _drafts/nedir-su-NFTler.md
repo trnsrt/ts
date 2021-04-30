@@ -1,4 +1,7 @@
+NFT'ler revize versiyon 
+
 # YAZI I: Nedir bu NFT?
+Son zamanların en çok konuşulan konularından NFT'ler nedir, ne işe yarar? Dört bölümlük yazı dizimizin ilk bölümüne buyurun:
 
 Geçtiğimiz günlerde Gizem Uzuner Gençtürk'ün sunduğu '10 Soruda Kripto Para Dünyası' programında [NFT'ler hakkında](https://www.paribu.com/blog/haberler/10-soruda-kripto-para-dunyasinda-nft-konusuldu-nft-nedir-nft-nerelerde-kullanilir/) analizlerimi paylaştım. Programın linkini aşağıda bulabilirsiniz: 👇
 
@@ -8,7 +11,7 @@ https://www.paribu.com/blog/haberler/10-soruda-kripto-para-dunyasinda-nft-konusu
 
 ### Ne demek NFT?
 
-NFT non-fungible token teriminin kısaltması ve ne olduğunu anlamak için belki de önce fungible token ne demek ona bakmakta fayda var:  
+NFT, non-fungible token teriminin kısaltması ve ne olduğunu anlamak için belki de önce fungible token ne demek ona bakmakta fayda var:  
 
 Fungible birbirinin yerine geçebilen, değiştirilebilen demek.  
 
@@ -18,7 +21,7 @@ Bir örnek ile anlatırsak; cebinizdeki 10 TL'yi bana verseniz, karşılığınd
 
 Non-fungible ise bunun tam tersi, tek, benzersiz ya da eşsiz anlamına geliyor. Türkçeye tekil token ya da tekil belirteç şeklinde çevirmek mümkün.
 
-Örneğin, bir araba markasının aynı yıl üretilmiş aynı model iki arabası bile farklı sürücülerin kullanımı sonrası birkaç ay içinde birbirlerinden farklı hale gelirler. Kullandığınız bir cep telefonunda da. 
+Örneğin, bir araba markasının aynı yıl üretilmiş aynı model iki arabası bile farklı sürücülerin kullanımı sonrası birkaç ay içinde birbirlerinden farklı hale gelirler. Kullandığınız bir cep telefonunda da aynı şekilde. 
 
 Fiziki dünya genelde bu tip birbirine benzemeyen tekil varlıklardan oluşur. İşte fiziki dünyadaki bu tekilliğin dijital dünyaya uyarlanmış haline de NFT deniyor. 
 
@@ -34,7 +37,7 @@ Dijital dünyaya geçerken onun getirdiği nimetlerinden olabildiğince faydalan
 
 Dijital dünyada eskime gibi bir durum yok, üstüne üstlük kopyalama ve dijital saklamanın ucuz maliyeti nedeniyle bir  ürünün aynısından binlerce yaratabilmek mümkün. Bu da ciddi bir sorun, zira bir ürün ne kadar az ise değeri o kadar yüksek olur ve ne kadar çok çoğaltılıyor ise değerinde o kadar çok düşüş meydana gelir. 
 
-Dijital dünyanın bu temel sorunun çözümü ise blokzincir sayesinde oldu. Blokzincir teknolojisi dijital dünyada herhangi bir merkezi kurumun onayına gerek kalmadan, dijital varlıkların sınırlı sayıda üretilmesine olanak verdi. 
+Dijital dünyanın bu temel sorununun çözümü ise blokzincir sayesinde oldu. Blokzincir teknolojisi dijital dünyada herhangi bir merkezi kurumun onayına gerek kalmadan, dijital varlıkların sınırlı sayıda üretilmesine olanak verdi. 
 
 Blokzincir teknolojisini ortaya çıkaran ve kullanan ilk uygulama malumunuz Bitcoin oldu. Sayı olarak 21 milyon ile sınırlanmış bir para birimi yaratmayı becerdi. Bu yönüyle fiziki dünyada paraya değer katan en önemli özelliklerden biri olan kısıtlılığı (scarcity) dijital dünyada sağlamış oldu. 
 
@@ -48,17 +51,19 @@ Burada biraz kitap bilgisi vermekte fayda var. Ne gibi özellikleri var bu NFT'l
 
 - *Tekil olması*: Herhangi bir NFT'yi tek bir tane olarak yaratabiliyorsunuz. Bakın, NFT'nin işaret ettiği yani sahipliğini gösterdiği dijital varlıktan bahsetmiyoruz. O dijital varlığı, örneğin .jpeg formatında kolayca çoklayabilirsiniz. Ama kimin asıl sahibi olduğunu gösteren NFT bir tanedir. Bunu da blokzincire yazarak, cümle aleme ilan etmiş oluyorsunuz.
 - *Kesin ve tam sahiplik sağlaması*: Bir blokzincirin özelliği, üzerine yazılı bilgilerin sonradan değiştirilemez şekilde kaydediliyor olması. Dolayısıyla, siz herhangi bir NFT'yi satın aldığınızda onun işaret ettiği dijital varlığın sahipliğini anında üzerinize geçirmiş olursunuz. Örneğin, sanal bir oyun oynarken yarattığınız bir karakterin NFT'sini satın almanız, o karakterin sahipliğinin sadece sizde olduğunu kanıtlar, aynı zamanda size o karakteri başka sanal oyunlara aktarma ve orada oynama hakkını da verir. 
-- *Programlanabilir olması*: Bir NFT özünde akıllı kontrat ile yaratılan dijital varlıklar. Nasıl hareket edeceklerine baştan belirtilmiş ve akıllı kontrata yazılmış kurallar karar veriyor. Bu oldukça önemli bir özellik aslına bakarsanız. Çünkü akıllı kontratın içine istediğiniz kuralları koyabilirsiniz. Bu, örneğin telif haklarında pek çok yenilik getirebilir. Örneğin, sanatçıya yalnızca ürünün ilk satışının geliri değil, daha sonraki satışlarında oluşan kârın %10'unu alma hakkı verirseniz, akıllı kontrat bir sonraki satışta oluşan kârın bu kısmını otomatik olarak sanatçının adresine gönderir. 
+- *Programlanabilir olması*: NFT'ler özünde akıllı kontrat ile yaratılan dijital varlıklar. Nasıl hareket edeceklerine baştan belirtilmiş ve akıllı kontrata yazılmış kurallar karar veriyor. Bu oldukça önemli bir özellik aslına bakarsanız. Çünkü akıllı kontratın içine istediğiniz kuralları koyabilirsiniz. Bu, örneğin telif haklarında pek çok yenilik getirebilir. Örneğin, sanatçıya yalnızca ürünün ilk satışının geliri değil, daha sonraki satışlarında oluşan kârın %10'unu alma hakkı verirseniz, akıllı kontrat bir sonraki satışta oluşan kârın bu kısmını otomatik olarak sanatçının adresine gönderir. 
 
 ### Arkası yarın
 Yazı dizimizin bir sonraki bölümünde NFT ile ilgili aklımıza takılan kimi sorulara değineceğiz. 'Fiziksel varlıklar nasıl dijital dünyaya taşınır?', 'Dijital dünyada 'sahiplik' kavramı fiziksel dünyadan farklı mı olmalı?' gibi. 
 
 --
 
-# YAZI II
-Geçtiğimiz günlerde yayınlanan  '10 Soruda Kripto Para Dünyası' programında [NFT'ler hakkında](https://www.paribu.com/blog/haberler/10-soruda-kripto-para-dunyasinda-nft-konusuldu-nft-nedir-nft-nerelerde-kullanilir/) konuştuklarımızı daha derli toplu bir yazı dizi haline getiriyoruz. İlk kısımda NFT kavramına, tarihçesine ve NFT'lerin özelliklerine değinmiştik. 
+# YAZI II NFT deyince akla takılan sorular
+Dört bölümlük yazı dizimizin bu bölümünde NFT'ler ile ilgili sorulan sorulardan bir derleme yapıp cevaplamaya çalıştık.
 
-Bu bölümde ise NFT'ler ile ilgili akıla takılan sorulara yanıt arayacağız: 
+Geçtiğimiz günlerde yayınlanan  '10 Soruda Kripto Para Dünyası' programında [NFT'ler hakkında](https://www.paribu.com/blog/haberler/10-soruda-kripto-para-dunyasinda-nft-konusuldu-nft-nedir-nft-nerelerde-kullanilir/) konuştuklarımızı daha derli toplu bir yazı dizi haline getiriyoruz. İlk kısımda NFT kavramına, tarihçesine ve NFT'lerin özelliklerine değinmiştik. 👇
+
+Bu bölümde ise NFT'ler ile ilgili akıla takılan kimi sorulara yanıt arayacağız: 
 
 #### Fiziksel varlıklar nasıl dijital dünyaya taşınabiliyor?
 
@@ -67,7 +72,7 @@ Nasıl bir aktarım bu? Kısaca, dijital ya da fiziki bir varlığın token hali
 İşin esası şu: Herhangi bir eserin yaratıcısı, o eserin sahipliğini bir başkasına devretmek istediğinde bunu blokzincir üzerinden gerçekleştiriyor. Blokzincir, eserin sahipliğini devri ilelebet ve sonradan değiştirilemeyecek şekilde kaydediyor. Kısacası, eserin kendisi değil, sahipliği blokzincire yazılıyor. 
 
 #### Ama dijital eserler kolayca kopyalanabilir, öyle değil mi?
-İşte en sık karşılaştığımız ve NFT'lere yan gözle bakılmasına yol açan soru: "Ekranda gördüğüm herhangi bir eseri faremin sağ tuşuna basarak bilgisayarıma indirebilirim". Gayet tabii. Eserin aynısın bilgisayarınızda. Peki değeri de aynı mı? 
+İşte en sık karşılaştığımız ve NFT'lere yan gözle bakılmasına yol açan soru: "Ekranda gördüğüm herhangi bir eseri faremin sağ tuşuna basarak bilgisayarıma indirebilirim". Gayet tabii. Eserin aynısı bilgisayarınızda. Peki değeri de aynı mı? 
 
 Bir örnek ile açıklamaya çalışalım: Meşhur Mona Lisa tablosu. Nerede? Louvre Müzesinde. Ama isterseniz Google Arts üzerinden çok yüksek çözünürlükte [bir kopyasını](https://artsandculture.google.com/asset/mona-lisa-by-ambroise-dubois-ambroise-dubois/fAEaTV3ZVjY_vw) bilgisayarınıza indirebilir, hatta çok kaliteli bir renkli yazıcıda basarak duvarınıza asabilirsiniz? Peki duvarınıza astığınız bu tablonun değeri Louvre'daki ile aynı mı? Değil tabii ki. 
 
