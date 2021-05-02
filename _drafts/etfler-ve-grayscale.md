@@ -58,7 +58,7 @@ Grayscale, 20xx yılında ABD'de kurulmuş bir fon. Kurucusu, kripto alanında A
 
 Grayscale'de her bir kriptopara için ayrı bir fon var (bir tane de karma fonları var). Başlangıçta BTC için [GBTC](https://www.google.com/finance/quote/GBTC:OTCMKTS), sonra ETH için [ETHE](https://www.google.com/finance/quote/ETHE:OTCMKTS) adında kurulan fonların sayısı yakın zamanda 14'e kadar çıktı:
 
- | ![grayscale_funds](/assets/grayscale_funds.png) | 
+ | ![grayscale_funds](/assets/grayscale_funds_v2.png) | 
 |:--:| 
 | *Grayscale fonları - not: prim/iskonto olmayan fonlar henüz borsalarda işlem görmeyen yeni fonlar. Kaynak: [Grayscale](https://twitter.com/Grayscale/status/1388232662960287749)*|
 
