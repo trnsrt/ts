@@ -1,5 +1,5 @@
 # Yazı I: ETF'ler
-Son zamanlarda birkaç kriptopara borsasının kapanması sonrası, yatırımcıların genel olarak borsalarda tuttuğu dijital varlıkların nasıl korunacağı sıkça tartışılmaya başlandı. Gelin biz de bu yazımızda önce yatırımcıların kendi kendilerine alabileceği önlemlere çok kısa bir göz atalım. Sonrasında da klasik piyasalara alışmış yatırımcıların kullanabileceği alternatif bir yatırım aracı önerisinde bulunalım. 
+Son zamanlarda birkaç kriptopara borsasının kapanması sonrası, yatırımcıların genel olarak borsalarda tuttuğu dijital varlıkların nasıl korunacağı sıkça tartışılmaya başlandı. Gelin biz de bu yazımızda önce yatırımcıların kendi kendilerine alabileceği önlemlere kısa bir göz atalım. Sonrasında da klasik piyasalara alışmış yatırımcıların dijital varlıklar için kullanabileceği alternatif bir yatırım aracı önerisinde bulunalım. 
 
 ### Kriptopara alım-satım platformlarında kripto varlık tutmak
 
@@ -11,11 +11,11 @@ Ancak toplumun büyük bir kesimi, yeni tanıştıkları kripto dünyasında ken
 
 Bu varlıkları saklamak aslında bu borsaların öncelikli görevi değil - zaten kendilerinin de bu konuda çok gönüllü olduklarını sanmıyorum. Zira başkasının parasını emanet olarak aldığınızda aslında bir bankadan farkınız kalmıyor ve kanuni denetleyicinin koyduğu sıkı kuralları kabul etmek zorunda kalıyorsunuz. 
 
-Yatırımcı tarafından kripto para borsasında tutulan her para, esasında o yatırımcı tarafından o borsaya verilen borç anlamına geliyor.  Neden? Çünkü blokzincir üzerinde o varlığın sahibi, borsaya para gönderip satın alan değil, kripto para borsası olarak görünür. 
+Kripto para borsasında tutulan her dijital varlık, esasında yatırımcı tarafından o borsaya verilen borç anlamına geliyor.  Neden? Çünkü blokzincir üzerinde bu varlığın sahibi yatırımcı değil, kripto para borsası olarak görünür. 
 
 Bu arada hemen belirtelim: Bu ülkemize özgü bir sorun değil, tüm dünyada da durum benzer şekilde. Örneğin, Bitcoin blokzincirinin parası olan BTC'nin yaklaşık %11'inin [kripto para borsalarında tutulduğu tahmin ediliyor](https://decrypt.co/60021/the-number-of-bitcoin-on-exchanges-is-starting-to-fall-again). 
 
-### Temel konu okuryazarlık ve bilinci artırmak
+### Temel çözüm okuryazarlık ve bilinci artırmak
 O zaman ne yapmalı yatırımcı? 
 
 Hep söylüyoruz: Kripto dünyasında en sık kullanılan sözlerdendir: 'Anahtarlar senin değilse, varlık da senin değildir' ('not your keys, not your coins') diye. Burada anahtar olarak kastedilen, bu varlıkların sahipliği. Kripto varlıklarının sahipliğini eline almak isteyen yatırımcı bu varlığı alım-satım yaptığı borsadan kendisine ait bir elektronik cüzdana çekmeli. 
@@ -24,7 +24,7 @@ Elektronik cüzdan sahibi olmak ve kripto borsasındaki varlığı bu cüzdana a
 
 ### Yatırımcıyı koruyacak düzenlemeler önemli
 
-Yine de cüzdan edinecek olanların ufak bir kesim ile sınırlı kalacağı gerçeğini de kabul etmek gerekiyor. Toplumun büyük kesiminin, 'kişiye finansal özgürlük' vermek fikrinden yola çıkan kriptopara felsefesine inandığını söylemek zor. Bu kesim, daha çok bu paraların getireceği kâra odaklanmış durumda. Yatırım yaparken yeterince finansal ve teknolojik okur-yazarlığa sahip olmayan bu kesimin de bir şekilde korunması gerekiyor. 
+Yine de cüzdan edinecek olanların ufak bir kesim ile sınırlı kalacağı gerçeğini de kabul etmek gerekiyor. Toplumun büyük kesiminin, 'kişiye finansal özgürlük' vermek fikrinden yola çıkan kriptopara felsefesine inandığını söylemek zor. Bu kesim, daha çok bu paraların getireceği getiriye odaklanmış durumda. Yatırım yaparken yeterince finansal ve teknolojik okur-yazarlığa sahip olmayan bu kesimin de bir şekilde korunması gerekiyor. 
 
 İşte burada yapılacak olan düzenlemelerin ne kadar küçük yatırımcıyı korumaya yönelik olacağını hep birlikte göreceğiz. Borsalardan bağımsız özel saklama hizmeti veren kurumların kurulmasına izin verilmesi, varlıkların sigortalanması, borsaların sıkı bir şekilde denetlenmesi, muhasebe ve raporlama ile ilgili düzenlemeler getirilmesi, yatırımcıyı korumak için alınabilecek önlemlerden birkaçı. 
 
@@ -38,19 +38,19 @@ Dahası devlet, bu varlıkların yatırım aracı olarak kullanılması sonucu o
 
 ## Bir çözüm önerisi: Borsa Yatırım Fonları
 
-Kriptoparalar yatırım yapmak isteyen ancak işin 'finansal özgürlük' olarak nitelendirebileceğimiz felsefesi ile ilgilenmeyen genişçe bir kesim var. Bu kesim içinden geleneksel yatırım alışkanlıklarını değiştirmek istemeyenlere yönelik başka alternatifler de mevcut. Bunlardan biri olan borsa yatırım fonları ya da bir başka deyişle ETF'lere (İngilizce 'Exchange Traded Fund' teriminin kısaltması) de hızlıca bir göz atalım şimdi:
+Kriptoparalara yatırım yapmak isteyen ancak işin 'finansal özgürlük' olarak nitelendirebileceğimiz felsefesi ile ilgilenmeyen genişçe bir kesim var. Bu kesim içinden geleneksel yatırım alışkanlıklarını değiştirmek istemeyenlere yönelik başka alternatifler de mevcut. Bunlardan biri olan borsa yatırım fonları ya da bir başka deyişle ETF'lere (İngilizce 'Exchange Traded Fund' teriminin kısaltması) de hızlıca bir göz atalım şimdi:
 
-ETF, temel olarak belirli sayıda varlığı elinde tutup, bu sahipliği daha küçük parçalara bölerek yatırımcılara sunan yatırım araçlarına deniyor. ETF'ler aktif alım-satım yapmaktan çok, önceden açıkladıkları belirli varlıkları sürekli olarak portföylerinde tutarlar. Aktif olarak yönetilmedikleri için pasif fonlar olarak tanımlarÖrneğin, BTC üzerine kurulacak bir ETF fonu, fiyatı BTC'yi takip edecek şekilde hareket eder. 
+ETF, temel olarak belirli sayıda varlığı elinde tutup, bu sahipliği daha küçük parçalara bölerek yatırımcılara sunan yatırım araçlarına deniyor. ETF'ler aktif alım-satım yapmaktan çok, önceden açıkladıkları belirli varlıkları belirli oranlarda portföylerinde tutarlar. Aktif olarak yönetilmedikleri için pasif fonlar olarak tanımlarÖrneğin, BTC üzerine kurulacak bir ETF fonu, fiyatı BTC'yi takip edecek şekilde hareket eder. 
 
 Peki bunun ne faydası var? 
 
-Öncelikle yatırımcı, bu fonlar sayesinde, dijital varlığını borsada tutuyor ise yaşayabileceği kayıp ya da kendisine transfer etti ise sahibi olduğu elektronik cüzdanın anahtarlarını kaybetme ya da çaldırma gibi risklerden korunmuş olur. Bu tip fonlar, dijital varlıkların fiziki kaybı ile ilgili yatırımcı tarafında oluşabilecek tüm riskleri üzerine alır. 
+Öncelikle yatırımcı, bu fonlar sayesinde olası iki farklı senaryoda risklerden konunmuş olur: Birincisi, dijital varlığını borsada tutuyor ise borsadan kaynaklanabilecek kayıplar, ikincisi ise eğer elektronik cüzdanda saklıyor ise anahtarlarını kaybetme ya da çaldırma sonucu yaşayabileceği kişisel zararlar. Yatırım fonları, yatırımcı tarafında oluşabilecek bu tip her tür riski üzerine alır.  
 
-Öte yandan, yatırımcılar kriptoparalar hakkında ekonomik ve teknik yeterince bilgi sahibi olmadıkları için istemedikleri kadar yüksek risk içeren varlıklara yatırım yapabilirler. Fonlar bu anlamda birkaç şekilde yardımcı olur. Birincisi, yapacakları teknik/ekonomik değerlendirme sonucu 'çöp' olarak nitelendirilebilecek varlıklardan kaçınma. İkincisi, her kriptopara aynı olmadığı için, farklı risk gruplarına hitap edecek farklı yatırım fonları oluşturma. Üçüncüsü ise sepet oluşturdukları için tek bir varlığa yatırım yapma sonucu oluşabilecek ani iniş-çıkışlardan korunma. 
+Öte yandan, yatırımcılar kriptoparalar hakkında temel ve teknik yeterince bilgi sahibi olmadıkları için istemedikleri kadar yüksek risk içeren varlıklara yatırım yapabilirler. Fonlar bu anlamda birkaç şekilde yardımcı olur. Birincisi, yapacakları teknik/ekonomik değerlendirme sonucu 'çöp' olarak nitelendirilebilecek varlıklardan kaçınma. İkincisi, her kriptopara aynı olmadığı için, farklı risk gruplarına hitap edecek farklı yatırım fonları oluşturma. Üçüncüsü ise sepet oluşturdukları için tek bir varlığa yatırım yapma sonucu oluşabilecek ani iniş-çıkışlardan korunma. 
 
 Ayrıca bu tip fonlar ülke sınırları içinde faaliyet gösterir ve ülkenin otoritelerinin denetimi altında olur. Türkiye'de bu otorite SPK'dır. Böylece yatırımcılar, hesap sorulabilecek bir muhatap bulma konusunda sıkıntı yaşamazlar. 
 
-Bunun yanında, bu fonların alım-satım işlemleri ülkemiz içinde IMKB'de yapılabilir. Bu sayede, kriptopara alımı için yurtdışına giden paranın ülke için kalması sağlanabilir, ki anladığımız kadarıyla kamu otoritelerinin en rahatsız olduğu durumlardan bir tanesi de bu. 
+Bunun yanında, bu fonların alım-satım işlemleri ülkemiz içinde BIST'de yapılabilir. Bu sayede, kriptopara alımı için yurtdışı borsalarına giden paranın ülke için kalması sağlanabilir, ki anladığımız kadarıyla kamu otoritelerinin en rahatsız olduğu durumlardan bir tanesi de bu. 
 
 Bu arada, sadece küçük yatırımcı olarak düşünmemek gerek. Kanuni altyapının henüz kurulmamış olmasından ötürü bu alana yatırım yapamayan ya da teknik olarak bu varlıkların saklanması konusunda çekinceleri olan kurumsal yatırımcı ya da şirket hazinelerinin de bu tip fonlara ilgi göstereceğini unutmamak gerek. 
 
@@ -59,8 +59,7 @@ Bu öneri, blokzincir felsefesinin kişiyi merkezi aracılardan kurtarmayı ama�
 ### Dünyada durumda ne?
 ETF'ler, şu an için Kanada'da ve Avrupa'da birkaç ülkede faaliyete geçmiş durumda. Bu fonlara kısa sürede ciddi miktarda para girişi olması bu alana ilginin yüksek olduğunu gösteriyor.  Örneğin, Kanada'da kurulu üç fondan en büyüğü olan [Purpose Bitcoin ETF](https://www.purposeinvest.com/funds/purpose-bitcoin-etf) henüz Şubat ayında faaliyete geçmesine rağmen portföy değeri olarak bir milyar ABD Dolarını geçmiş durumda. 
 
-Finans alanında dünya lideri olan Amerika Birleşik Devletleri ise yapılan onlarca başvuruya rağmen henüz ETF'lere izin vermedi. ABD'de kripto varlıklara yatırım yapan en büyük kurumsal yatırımcı Grayscale isimli bir yatırım fonunun yönettiği kripto para tutan fonların toplam değeri 46 milyar dolara ulaşmış durumda. Bir ETF'den bir hayli farklı çalışan Grayscale fonlarına bir sonraki yazımızda değineceğiz... 
-
+Finans alanında dünya lideri olan Amerika Birleşik Devletleri ise yapılan onlarca başvuruya rağmen henüz ETF'lere izin vermedi. ABD'de kripto varlıklara yatırım yapan en büyük kurumsal yatırımcı Grayscale isimli bir yatırım fonunun yönettiği kripto para tutan fonların toplam değeri 46 milyar dolara ulaşmış durumda. Bir ETF'den hayli farklı çalışan Grayscale fonlarına bir sonraki yazımızda değineceğiz... 
 
 ----
 # YAZI II: Grayscale fonları
