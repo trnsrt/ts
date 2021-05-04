@@ -5,15 +5,15 @@ Son zamanlarda birkaç kriptopara borsasının kapanması sonrası, yatırımcı
 
 Genel olarak borsalar, varlık alım-satımına aracılık etmek için kurulurlar.  Satın alınan bu varlıkları saklama hizmeti ise ayrı kurumlar tarafından verilir. 
 
-Kriptopara dünyasının temelinde 'gücü bireye vermek' felsefesi olduğu için, bu varlıkları saklama işi de bireyin kendi sorumluluğuna bırakılmış. Bunun için de tavsiye edilen yöntem, bireyin alım-satım yaptıktan sonra kriptoparasını borsada alıp kendine ait elektronik cüzdana transfer etmesi. 
+Kriptopara dünyasının temelinde 'gücü bireye vermek' felsefesi olduğu için, bu varlıkları saklama işi de bireyin kendi sorumluluğuna bırakılmış. Bunun için de tavsiye edilen yöntem, bireyin alım-satım yaptıktan sonra kriptoparasını borsadan alıp kendine ait elektronik cüzdana transfer etmesi. 
 
 Ancak toplumun büyük bir kesimi, yeni tanıştıkları kripto dünyasında kendilerini teknik olarak yeterince ehil hissetmedikleri için, yatırım yaptıkları kripto varlıkları işlem yaptıkları kripto borsalarında bırakıyorlar. 
 
 Bu varlıkları saklamak aslında bu borsaların öncelikli görevi değil - zaten kendilerinin de bu konuda çok gönüllü olduklarını sanmıyorum. Zira başkasının parasını emanet olarak aldığınızda aslında bir bankadan farkınız kalmıyor ve kanuni denetleyicinin koyduğu sıkı kuralları kabul etmek zorunda kalıyorsunuz. 
 
-Kripto para borsasında tutulan her dijital varlık, esasında yatırımcı tarafından o borsaya verilen borç anlamına geliyor.  Neden? Çünkü blokzincir üzerinde bu varlığın sahibi yatırımcı değil, kripto para borsası olarak görünür. 
+Kriptopara borsasında tutulan her dijital varlık, esasında yatırımcı tarafından o borsaya verilen borç anlamına geliyor.  Neden? Çünkü blokzincir üzerinde bu varlığın sahibi yatırımcı değil, kriptopara borsası olarak görünür. 
 
-Bu arada hemen belirtelim: Bu ülkemize özgü bir sorun değil, tüm dünyada da durum benzer şekilde. Örneğin, Bitcoin blokzincirinin parası olan BTC'nin yaklaşık %11'inin [kripto para borsalarında tutulduğu tahmin ediliyor](https://decrypt.co/60021/the-number-of-bitcoin-on-exchanges-is-starting-to-fall-again). 
+Bu arada hemen belirtelim: Bu ülkemize özgü bir sorun değil, tüm dünyada da durum benzer şekilde. Örneğin, Bitcoin blokzincirinin parası olan BTC'nin yaklaşık %11'inin [kriptopara borsalarında tutulduğu tahmin ediliyor](https://decrypt.co/60021/the-number-of-bitcoin-on-exchanges-is-starting-to-fall-again). 
 
 ### Temel çözüm okuryazarlık ve bilinci artırmak
 O zaman ne yapmalı yatırımcı? 
@@ -24,13 +24,13 @@ Elektronik cüzdan sahibi olmak ve kripto borsasındaki varlığı bu cüzdana a
 
 ### Yatırımcıyı koruyacak düzenlemeler önemli
 
-Yine de cüzdan edinecek olanların ufak bir kesim ile sınırlı kalacağı gerçeğini de kabul etmek gerekiyor. Toplumun büyük kesiminin, 'kişiye finansal özgürlük' vermek fikrinden yola çıkan kriptopara felsefesine inandığını söylemek zor. Bu kesim, daha çok bu paraların getireceği getiriye odaklanmış durumda. Yatırım yaparken yeterince finansal ve teknolojik okur-yazarlığa sahip olmayan bu kesimin de bir şekilde korunması gerekiyor. 
+Yine de cüzdan edinecek olanların ufak bir kesim ile sınırlı kalacağı gerçeğini de kabul etmek gerekiyor. Toplumun büyük kesiminin, 'kişiye finansal özgürlük' vermek fikrinden yola çıkan kriptopara felsefesine inandığını söylemek zor. Bu kesim, daha çok bu paraların getirisine odaklanmış durumda. Yatırım yaparken yeterince finansal ve teknolojik okur-yazarlığa sahip olmayan bu kesimin de bir şekilde korunması gerekiyor. 
 
 İşte burada yapılacak olan düzenlemelerin ne kadar küçük yatırımcıyı korumaya yönelik olacağını hep birlikte göreceğiz. Borsalardan bağımsız özel saklama hizmeti veren kurumların kurulmasına izin verilmesi, varlıkların sigortalanması, borsaların sıkı bir şekilde denetlenmesi, muhasebe ve raporlama ile ilgili düzenlemeler getirilmesi, yatırımcıyı korumak için alınabilecek önlemlerden birkaçı. 
 
-Bu önlemler ekosistemi geliştirmek için çok önemli adımlar. Diğer taraftan, kriptoparalar ile ilgil 'yasaklama' temelli kimi düşüncelerin de sıkça dile getirdiğini görmeye başladı ancak bu 'tedbirlerin' ne kadar faydalı olabileceği konusunda ciddi tereddütler var. 
+Bu önlemler ekosistemi geliştirmek için çok önemli adımlar. Diğer taraftan, kriptoparalar ile ilgil 'yasaklama' temelli kimi düşüncelerin de sıkça dile getirildiğini görmeye başladık ancak bu 'tedbirlerin' ne kadar faydalı olabileceği konusunda ciddi tereddütler var. 
 
-Zira yasaklayıcı yöntemler, uygulaması kolay olup kısa vadede fayda sağlar gibi görünse de, uzun vadede ciddi sonuçlara yol açabilir. Bu tip yasaklamalar, dünyada internetten sonra en büyük devrim olarak nitelendirilen ve ciddi şekilde teşvik edilen blokzincir ekosistemine ciddi bir darbe vurarak ülkemizin büyük bir fırsatı kaçırmasına neden olabilir.  
+Zira yasaklayıcı yöntemler, uygulaması kolay olup kısa vadede fayda sağlar gibi görünse de, uzun vadede ciddi sonuçlara yol açabilir. Bu tip yasaklamalar, dünyada internetten sonra en büyük devrim olarak nitelendirilen ve teşvik edilen blokzincir ekosisteminin büyümesine ciddi bir darbe vurarak ülkemizin büyük bir fırsatı kaçırmasına neden olabilir.
 
 Zaten yasaklama bu varlıkların alım-satımını önlemekten çok bu işlemlerin yeralına inmesi sonucunu doğurur. Böyle bir durumda da mağduriyetler kat be kat artar. 
 
@@ -40,7 +40,7 @@ Dahası devlet, bu varlıkların yatırım aracı olarak kullanılması sonucu o
 
 Kriptoparalara yatırım yapmak isteyen ancak işin 'finansal özgürlük' olarak nitelendirebileceğimiz felsefesi ile ilgilenmeyen genişçe bir kesim var. Bu kesim içinden geleneksel yatırım alışkanlıklarını değiştirmek istemeyenlere yönelik başka alternatifler de mevcut. Bunlardan biri olan borsa yatırım fonları ya da bir başka deyişle ETF'lere (İngilizce 'Exchange Traded Fund' teriminin kısaltması) de hızlıca bir göz atalım şimdi:
 
-ETF, temel olarak belirli sayıda varlığı elinde tutup, bu sahipliği daha küçük parçalara bölerek yatırımcılara sunan yatırım araçlarına deniyor. ETF'ler aktif alım-satım yapmaktan çok, önceden açıkladıkları belirli varlıkları belirli oranlarda portföylerinde tutarlar. Aktif olarak yönetilmedikleri için pasif fonlar olarak tanımlarÖrneğin, BTC üzerine kurulacak bir ETF fonu, fiyatı BTC'yi takip edecek şekilde hareket eder. 
+ETF, temel olarak belirli sayıda varlığı elinde tutup, bu sahipliği daha küçük parçalara bölerek yatırımcılara sunan yatırım araçlarına deniyor. ETF'ler aktif alım-satım yapmaktan çok, önceden açıkladıkları belirli varlıkları belirli oranlarda portföylerinde tutarlar. Aktif olarak yönetilmedikleri için pasif fonlar olarak tanımlar. Örneğin, BTC üzerine kurulacak bir ETF fonu, fiyatı BTC'yi takip edecek şekilde hareket eder. 
 
 Peki bunun ne faydası var? 
 
@@ -50,7 +50,7 @@ Peki bunun ne faydası var?
 
 Ayrıca bu tip fonlar ülke sınırları içinde faaliyet gösterir ve ülkenin otoritelerinin denetimi altında olur. Türkiye'de bu otorite SPK'dır. Böylece yatırımcılar, hesap sorulabilecek bir muhatap bulma konusunda sıkıntı yaşamazlar. 
 
-Bunun yanında, bu fonların alım-satım işlemleri ülkemiz içinde BIST'de yapılabilir. Bu sayede, kriptopara alımı için yurtdışı borsalarına giden paranın ülke için kalması sağlanabilir, ki anladığımız kadarıyla kamu otoritelerinin en rahatsız olduğu durumlardan bir tanesi de bu. 
+Bunun yanında, bu fonların alım-satım işlemleri ülkemiz içinde BIST'de yapılabilir. Bu sayede, kriptopara alımı için yurtdışı borsalarına giden paranın ülke içinde kalması sağlanabilir, ki anladığımız kadarıyla kamu otoritelerinin en rahatsız olduğu durumlardan bir tanesi de bu. 
 
 Bu arada, sadece küçük yatırımcı olarak düşünmemek gerek. Kanuni altyapının henüz kurulmamış olmasından ötürü bu alana yatırım yapamayan ya da teknik olarak bu varlıkların saklanması konusunda çekinceleri olan kurumsal yatırımcı ya da şirket hazinelerinin de bu tip fonlara ilgi göstereceğini unutmamak gerek. 
 
@@ -59,7 +59,69 @@ Bu öneri, blokzincir felsefesinin kişiyi merkezi aracılardan kurtarmayı ama�
 ### Dünyada durumda ne?
 ETF'ler, şu an için Kanada'da ve Avrupa'da birkaç ülkede faaliyete geçmiş durumda. Bu fonlara kısa sürede ciddi miktarda para girişi olması bu alana ilginin yüksek olduğunu gösteriyor.  Örneğin, Kanada'da kurulu üç fondan en büyüğü olan [Purpose Bitcoin ETF](https://www.purposeinvest.com/funds/purpose-bitcoin-etf) henüz Şubat ayında faaliyete geçmesine rağmen portföy değeri olarak bir milyar ABD Dolarını geçmiş durumda. 
 
-Finans alanında dünya lideri olan Amerika Birleşik Devletleri ise yapılan onlarca başvuruya rağmen henüz ETF'lere izin vermedi. ABD'de kripto varlıklara yatırım yapan en büyük kurumsal yatırımcı Grayscale isimli bir yatırım fonunun yönettiği kripto para tutan fonların toplam değeri 46 milyar dolara ulaşmış durumda. Bir ETF'den hayli farklı çalışan Grayscale fonlarına bir sonraki yazımızda değineceğiz... 
+Finans alanında dünya lideri olan Amerika Birleşik Devletleri ise yapılan onlarca başvuruya rağmen henüz ETF'lere izin vermedi. ABD'de kripto varlıklara yatırım yapan en büyük kurumsal yatırımcı Grayscale isimli bir yatırım fonunun yönettiği kriptopara tutan fonların toplam değeri 46 milyar dolara ulaşmış durumda. Bir ETF'den hayli farklı çalışan Grayscale fonlarına bir sonraki yazımızda değineceğiz... 
+
+
+
+----
+# YAZI II: Grayscale fonları
+Geçtiğimiz yazıda ETF'lerin kripto varlıklara yatırım anlamında gerek bireysel gerekse kurumsal yatırımcılar için sağlayacağı kolaylıklara değinmiştik. Yazının sonunda ise, ABD'de henüz ETF'lere onay verilmemişken, kurumsal fon anlamında ortaya çıkan bir dev olan Grayscale'den bahsetmiş ve detayını bu yazımıza bırakmıştık. 
+
+### Nedir Grayscale
+Grayscale, 20xx yılında ABD'de kurulmuş bir fon. Kurucusu, kripto alanında ABD'de faaliyet göstermeye başlayan ilk  finansal kurumlardan  [Digital Currency Group](https://dcg.co).
+
+Grayscale'de her bir kriptopara için ayrı bir fon var (bir tane de karma fonları var). Başlangıçta BTC için [GBTC](https://www.google.com/finance/quote/GBTC:OTCMKTS), sonra ETH için [ETHE](https://www.google.com/finance/quote/ETHE:OTCMKTS) adında kurulan fonların sayısı yakın zamanda 14'e kadar çıktı:
+
+ | ![grayscale_funds](/assets/grayscale_funds.png) | 
+|:--:| 
+| *Grayscale fonları - not: prim/iskonto olmayan fonlar henüz borsalarda işlem görmeyen yeni fonlar. Kaynak: [Grayscale](https://twitter.com/Grayscale/status/1388232662960287749)*|
+
+Ancak Grayscale bir ETF değil bir trust. Nedir ikisinin farkı? ETF, herhangi bir dijital varlığa erişim sağlarken o fonun değerini pasif bir şekilde izler. Yani herhangi bir şekilde pozisyon almaz. Bu nedenle ucuza hizmet verilir. 
+
+Genelde ETF hissesinin değeri izlediği varlıkların değerine yakındır. Hisse değeri ile tutulan varlığın değerinden uzaklaştığı durumda arbitraj imkanı doğar.  Örneğin, hissenin değeri 70 birimden işlem görürken, tutulan varlıkların değeri 100 birim olsun. Böyle bir durumda piyasa yapıcı hemen hisseyi 70 birimden borsadan toplar, getirir ETF'i oluşturan kuruma iade eder, karşılığında o hisseye denk gelen 100 birim varlığı alır, dolayısıyla otomatik olarak 30 birim kâr eder. 
+
+Trust ise ETF'e göre farklı kurallar içeriyor. Yukarıda ETF fonundaki esnekliklerin çoğunu taşımıyor. Örneğin trust hissesini satın almak, işlem yapmak, ya da geri vermek belli kurallara bağlı. Gelin Grayscale ürünleri özelinde bakalım nasıl işlediklerine: 
+
+#### Nasıl çalışıyor bu GBTC?
+
+Grayscale bir trust yöneticisi olarak çıkardığı trustlar aracılığıyla belirli dijital varlıklara yatırım yapıyor. Bunlardan en meşhuru GBTC denen sadece BTC'ye yatırım yapan fon. 
+
+Bu fon yatırım yapmak için belirli aralıklar ile yatırımcılardan 'özel satış (private placement' yoluyla para topluyor. Toplanan para ABD Doları ya da BTC olabiliyor.  Ancak her önüne gelen bu fona yatırım yapamıyor. Bunun için 'akredite' yatırımcı olmak gerekiyor. 
+
+GBTC topladığı bu paralar ile BTC satın alıyor. Aldığı bu dijital varlıkların değerlerine eşit miktarda GBTC hissesini de yatırımcılarına veriyor. Bu hisseyi alan yatırımcılar 12 ay boyunca satamıyorlar (2020 yılı başında bu süre altı aya indirildi). Bu kilitli süre bittikten sonra, hisseleri borsada satma imkanına sahipler.  
+
+Bir başka ilginç konu ise GBTC hisse çıkarıyor ancak hisse geri almıyor. Yani, yatırımcı parasını GBTC'ye koydu, altı ay bekledi, ama karşılığını almak istediğinde ancak borsada satabilir. 
+
+Üstüne üstlük bir de Grayscale GBTC içinde bulunan paradan %2 gibi oldukça yüksek bir yönetim ücreti alıyor. 
+
+İyi de kim niye GBTC'ye bu kadar para koysun? 
+
+Aklı başında herhangi bir yatırımcını bu döngü içinde parasını altı ay bağlaması için, 'özel satış' sırasında değerinden aldığı GBTC'yi bu süre sonunda primli satabileceğine inanması gerekir. Peki geçmişte nasıl olmuş? Gelin bakalım: 
+
+ | ![grayscale_premiums](/assets/grayscale_premiums_800.png) | 
+|:--:| 
+| *GBTC hisse/varlık değeri prim (iskonto) Kaynak: [YCharts](https://ycharts.com/companies/GBTC/discount_or_premium_to_nav)*|
+
+Gördüğünüz gibi Grayscale fonları başlangıçta çok uzunca bir süre primli olarak işlem görüyordu. Ancak daha sonrasına iskontolu fiyat görmeye bile başladılar. 
+
+Tabii bir diğer soru da, hadi diyelim birileri baştan GBTC hissesi aldı, neden biri gidip bu hisseleri borsadan alır? Gelin sırayla bir göz atalım: 
+
+### Grayscale neden primli işlem görüyordu?
+Grayscale özünde yatırım alanında ABD'de yazılı olan belli kural boşluklarından faydalanan bir fon. Nedir bunlar?
+
+Pek çok kurumsal fonun, örneğin bir emelilik fonunun, hangi alana yatırım yapabileceği kendi anayasasında açıkça yazar. Bu fonların bir kısmı kriptopara benzeri varlıklara yatırım yapamıyorlar ya da yaptıkları yatırım toplam portföyleri içindeki çok ufak bir paydan öteye gidemiyor. 
+
+Halbuki Grayscale bir yatırım fonu olarak, farklı bir kategoriye giriyor. Eğer emeliklik fonu yöneticisi, kriptoparaların değer kazanacağına inanıyor ancak fonunu kendi iç yasasından ötürü bu alana yatıramıyorsa, Grayscale'e trust fonuna yatırım yaparak bu kısıtı kenarından dolaşabilir. 
+
+Keza bu bireysel yatırımcılar için de geçerli. Örneğin tasarruflarını vergiden avantajlı emeklilik fonlarında değerlendiren bir bireysel yatırımcı, BTC satın almak istediğinde aracı kurumlar buna izin vermezler. Ancak, bu yatırımcının Grayscale'in fonu GBTC hissesi almasında bir sakınca yok. 
+
+Yani bir nevi, 'akredite' yatırımcılar hisseyi alıp, altı ay tutup sonra borsada akredite olmayan yatırımcılara satıyorlar idi. İşte bu özelliğinden dolayı GBTC uzunca bir süre primli işlem gördü. Ancak hikaye burada bitmiyor. 
+
+#### BlockFi ve Hedge Fonlar
+
+Burada kısa bir ara verip, BlockFi'dan (ve benzeri kurumlardan) bahsedelim:
+ 
+Blockfi, bir nevi mevduat bankacılığı yapan bir kurum. Uzmanlığı ise kripto
 
 ----
 # YAZI II: Grayscale fonları
