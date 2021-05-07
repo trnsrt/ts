@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "DeFi'nin merkeziyetsiz saklama deposu Filecoin"
+date:   2021-04-20 17:47:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
 Bu yazımızda gelin merkeziyetsiz dünyanın veri saklayıcısı olma yolunda ilerleyen Filecoin'e bakalım hep birlikte. 
 
 [Filecoin](https://filecoin.io), DeFi dünyasının çok ihtiyacı olabilecek veri saklama hizmetini veren bir yapı. En büyük özelliği ise merkeziyetsiz olması. İyi de blokzincirler zaten merkeziyetsiz değil miydi? Neden Filecoin'e ihtiyaç var? 
@@ -73,7 +81,7 @@ Sektörün en büyüğü olan Filecoin, gerek arkasına aldığı güçlü yatı
 
 ---
 
-*Not 1: Bu yazı ilk olarak 20 Nisan 2021'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/uniswap-yeni-versiyonu-neler-getiriyor/)*
+*Not 1: Bu yazı ilk olarak 20 Nisan 2021'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/definin-merkeziyetsiz-deposu-filecoin/)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
