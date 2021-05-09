@@ -63,125 +63,60 @@ Finans alanında dünya lideri olan Amerika Birleşik Devletleri ise yapılan on
 
 
 
-----
-# YAZI II: Grayscale fonları
-Geçtiğimiz yazıda ETF'lerin kripto varlıklara yatırım anlamında gerek bireysel gerekse kurumsal yatırımcılar için sağlayacağı kolaylıklara değinmiştik. Yazının sonunda ise, ABD'de henüz ETF'lere onay verilmemişken, kurumsal fon anlamında ortaya çıkan bir dev olan Grayscale'den bahsetmiş ve detayını bu yazımıza bırakmıştık. 
+----# YAZI II: Grayscale fonları
+Geçtiğimiz yazıda ETF'lerin kripto varlıklara yatırım anlamında gerek bireysel gerekse kurumsal yatırımcılar için sağlayacağı kolaylıklara değinmiştik. Yazının sonunda ise, ABD'de henüz ETF'lere onay verilmemişken, kurumsal fon pazarında ortaya çıkan bir dev olan Grayscale'den bahsetmiş ve detayını bu yazımıza bırakmıştık. 
 
-### Nedir Grayscale
-Grayscale, 20xx yılında ABD'de kurulmuş bir fon. Kurucusu, kripto alanında ABD'de faaliyet göstermeye başlayan ilk  finansal kurumlardan  [Digital Currency Group](https://dcg.co).
+### Nedir Grayscale?
+[Grayscale](https://grayscale.com/), 2013 yılında ABD'de kurulmuş bir dijital para varlık yönetim şirketi. Kurucusu, kripto alanında ABD'de faaliyet göstermeye başlayan ilk  finansal kurumlardan  [Digital Currency Group](https://dcg.co).
 
-Grayscale'de her bir kriptopara için ayrı bir fon var (bir tane de karma fonları var). Başlangıçta BTC için [GBTC](https://www.google.com/finance/quote/GBTC:OTCMKTS), sonra ETH için [ETHE](https://www.google.com/finance/quote/ETHE:OTCMKTS) adında kurulan fonların sayısı yakın zamanda 14'e kadar çıktı:
-
- | ![grayscale_funds](/assets/grayscale_funds.png) | 
-|:--:| 
-| *Grayscale fonları - not: prim/iskonto olmayan fonlar henüz borsalarda işlem görmeyen yeni fonlar. Kaynak: [Grayscale](https://twitter.com/Grayscale/status/1388232662960287749)*|
-
-Ancak Grayscale bir ETF değil bir trust. Nedir ikisinin farkı? ETF, herhangi bir dijital varlığa erişim sağlarken o fonun değerini pasif bir şekilde izler. Yani herhangi bir şekilde pozisyon almaz. Bu nedenle ucuza hizmet verilir. 
-
-Genelde ETF hissesinin değeri izlediği varlıkların değerine yakındır. Hisse değeri ile tutulan varlığın değerinden uzaklaştığı durumda arbitraj imkanı doğar.  Örneğin, hissenin değeri 70 birimden işlem görürken, tutulan varlıkların değeri 100 birim olsun. Böyle bir durumda piyasa yapıcı hemen hisseyi 70 birimden borsadan toplar, getirir ETF'i oluşturan kuruma iade eder, karşılığında o hisseye denk gelen 100 birim varlığı alır, dolayısıyla otomatik olarak 30 birim kâr eder. 
-
-Trust ise ETF'e göre farklı kurallar içeriyor. Yukarıda ETF fonundaki esnekliklerin çoğunu taşımıyor. Örneğin trust hissesini satın almak, işlem yapmak, ya da geri vermek belli kurallara bağlı. Gelin Grayscale ürünleri özelinde bakalım nasıl işlediklerine: 
-
-#### Nasıl çalışıyor bu GBTC?
-
-Grayscale bir trust yöneticisi olarak çıkardığı trustlar aracılığıyla belirli dijital varlıklara yatırım yapıyor. Bunlardan en meşhuru GBTC denen sadece BTC'ye yatırım yapan fon. 
-
-Bu fon yatırım yapmak için belirli aralıklar ile yatırımcılardan 'özel satış (private placement' yoluyla para topluyor. Toplanan para ABD Doları ya da BTC olabiliyor.  Ancak her önüne gelen bu fona yatırım yapamıyor. Bunun için 'akredite' yatırımcı olmak gerekiyor. 
-
-GBTC topladığı bu paralar ile BTC satın alıyor. Aldığı bu dijital varlıkların değerlerine eşit miktarda GBTC hissesini de yatırımcılarına veriyor. Bu hisseyi alan yatırımcılar 12 ay boyunca satamıyorlar (2020 yılı başında bu süre altı aya indirildi). Bu kilitli süre bittikten sonra, hisseleri borsada satma imkanına sahipler.  
-
-Bir başka ilginç konu ise GBTC hisse çıkarıyor ancak hisse geri almıyor. Yani, yatırımcı parasını GBTC'ye koydu, altı ay bekledi, ama karşılığını almak istediğinde ancak borsada satabilir. 
-
-Üstüne üstlük bir de Grayscale GBTC içinde bulunan paradan %2 gibi oldukça yüksek bir yönetim ücreti alıyor. 
-
-İyi de kim niye GBTC'ye bu kadar para koysun? 
-
-Aklı başında herhangi bir yatırımcını bu döngü içinde parasını altı ay bağlaması için, 'özel satış' sırasında değerinden aldığı GBTC'yi bu süre sonunda primli satabileceğine inanması gerekir. Peki geçmişte nasıl olmuş? Gelin bakalım: 
-
- | ![grayscale_premiums](/assets/grayscale_premiums_800.png) | 
-|:--:| 
-| *GBTC hisse/varlık değeri prim (iskonto) Kaynak: [YCharts](https://ycharts.com/companies/GBTC/discount_or_premium_to_nav)*|
-
-Gördüğünüz gibi Grayscale fonları başlangıçta çok uzunca bir süre primli olarak işlem görüyordu. Ancak daha sonrasına iskontolu fiyat görmeye bile başladılar. 
-
-Tabii bir diğer soru da, hadi diyelim birileri baştan GBTC hissesi aldı, neden biri gidip bu hisseleri borsadan alır? Gelin sırayla bir göz atalım: 
-
-### Grayscale neden primli işlem görüyordu?
-Grayscale özünde yatırım alanında ABD'de yazılı olan belli kural boşluklarından faydalanan bir fon. Nedir bunlar?
-
-Pek çok kurumsal fonun, örneğin bir emelilik fonunun, hangi alana yatırım yapabileceği kendi anayasasında açıkça yazar. Bu fonların bir kısmı kriptopara benzeri varlıklara yatırım yapamıyorlar ya da yaptıkları yatırım toplam portföyleri içindeki çok ufak bir paydan öteye gidemiyor. 
-
-Halbuki Grayscale bir yatırım fonu olarak, farklı bir kategoriye giriyor. Eğer emeliklik fonu yöneticisi, kriptoparaların değer kazanacağına inanıyor ancak fonunu kendi iç yasasından ötürü bu alana yatıramıyorsa, Grayscale'e trust fonuna yatırım yaparak bu kısıtı kenarından dolaşabilir. 
-
-Keza bu bireysel yatırımcılar için de geçerli. Örneğin tasarruflarını vergiden avantajlı emeklilik fonlarında değerlendiren bir bireysel yatırımcı, BTC satın almak istediğinde aracı kurumlar buna izin vermezler. Ancak, bu yatırımcının Grayscale'in fonu GBTC hissesi almasında bir sakınca yok. 
-
-Yani bir nevi, 'akredite' yatırımcılar hisseyi alıp, altı ay tutup sonra borsada akredite olmayan yatırımcılara satıyorlar idi. İşte bu özelliğinden dolayı GBTC uzunca bir süre primli işlem gördü. Ancak hikaye burada bitmiyor. 
-
-#### BlockFi ve Hedge Fonlar
-
-Burada kısa bir ara verip, BlockFi'dan (ve benzeri kurumlardan) bahsedelim:
- 
-Blockfi, bir nevi mevduat bankacılığı yapan bir kurum. Uzmanlığı ise kripto
-
-----
-# YAZI II: Grayscale fonları
-Geçtiğimiz yazıda ETF'lerin kripto varlıklara yatırım anlamında gerek bireysel gerekse kurumsal yatırımcılar için sağlayacağı kolaylıklara değinmiştik. Yazının sonunda ise, ABD'de henüz ETF'lere onay verilmemişken, kurumsal fon anlamında ortaya çıkan bir dev olan Grayscale'den bahsetmiş ve detayını bu yazımıza bırakmıştık. 
-
-### Nedir Grayscale
-Grayscale, 20xx yılında ABD'de kurulmuş bir fon. Kurucusu, kripto alanında ABD'de faaliyet göstermeye başlayan ilk  finansal kurumlardan  [Digital Currency Group](https://dcg.co).
-
-Grayscale'de her bir kriptopara için ayrı bir fon var (bir tane de karma fonları var). Başlangıçta BTC için [GBTC](https://www.google.com/finance/quote/GBTC:OTCMKTS), sonra ETH için [ETHE](https://www.google.com/finance/quote/ETHE:OTCMKTS) adında kurulan fonların sayısı yakın zamanda 14'e kadar çıktı:
+Grayscale'de belli başlı her kriptopara için ayrı bir fon var (bir tane de karma fonları var). Başlangıçta BTC için [GBTC](https://www.google.com/finance/quote/GBTC:OTCMKTS), sonra ETH için [ETHE](https://www.google.com/finance/quote/ETHE:OTCMKTS) adında kurulan fonların sayısı yakın zamanda 14'e kadar çıktı:
 
  | ![grayscale_funds](/assets/grayscale_funds_v2.png) | 
 |:--:| 
 | *Grayscale fonları - not: prim/iskonto olmayan fonlar henüz borsalarda işlem görmeyen yeni fonlar. Kaynak: [Grayscale](https://twitter.com/Grayscale/status/1388232662960287749)*|
 
-Ancak Grayscale bir ETF değil bir trust. Nedir ikisinin farkı? ETF, herhangi bir dijital varlığa erişim sağlarken o fonun değerini pasif bir şekilde izler. Yani herhangi bir şekilde pozisyon almaz. Bu nedenle ucuza hizmet verilir. 
+Ancak Grayscale bir ETF değil bir trust. Nedir ikisinin farkı? ETF, herhangi bir dijital varlığa erişim sağlarken o fonun değerini pasif bir şekilde izler. Yani herhangi bir şekilde pozisyon almaz, aktif fon yönetimi yapmaz. Bu nedenle ucuza hizmet verir. 
 
-Genelde ETF hissesinin değeri izlediği varlıkların değerine yakındır. Hisse değeri ile tutulan varlığın değerinden uzaklaştığı durumda arbitraj imkanı doğar.  Örneğin, hissenin değeri 70 birimden işlem görürken, tutulan varlıkların değeri 100 birim olsun. Böyle bir durumda piyasa yapıcı hemen hisseyi 70 birimden borsadan toplar, getirir ETF'i oluşturan kuruma iade eder, karşılığında o hisseye denk gelen 100 birim varlığı alır, dolayısıyla otomatik olarak 30 birim kâr eder. 
+Genelde ETF hissesinin değeri izlediği varlıkların değerine yakındır. Hisse değeri ile tutulan varlığın değerinden uzaklaştığı durumda arbitraj imkanı doğar.  Örneğin, hissenin değeri 70 birimden işlem görürken, tutulan varlıkların değeri 100 birim olsun. Böyle bir durumda yatırımcı hemen hisseyi 70 birimden borsadan toplar, önceden belirlenmiş kurallara uygun bir şekilde ETF'i oluşturan kuruma iade eder, karşılığında o hisseye denk gelen 100 birim varlığı alır, sonuç olarak otomatik 30 birim kâr eder. 
 
-Trust ise ETF'e göre farklı kurallar içeriyor. Yukarıda ETF fonundaki esnekliklerin çoğunu taşımıyor. Örneğin trust hissesini satın almak, işlem yapmak, ya da geri vermek belli kurallara bağlı. Gelin Grayscale ürünleri özelinde bakalım nasıl işlediklerine: 
+Trust ise ETF'e göre farklı kurallar içeriyor ve yukarıda ETF fonunda bahsettiğimizi esnekliklerin çoğunu taşımıyor. Örneğin trust hissesi satın almak, işlem yapmak, ya da geri vermek belli kurallara bağlı. Gelin Grayscale ürünleri özelinde bakalım nasıl işlediklerine: 
 
 #### Nasıl çalışıyor bu GBTC?
 
 Grayscale bir trust yöneticisi olarak çıkardığı trustlar aracılığıyla belirli dijital varlıklara yatırım yapıyor. Bunlardan en meşhuru GBTC denen sadece BTC'ye yatırım yapan fon. 
 
-Bu fon yatırım yapmak için belirli aralıklar ile yatırımcılardan 'özel satış (private placement' yoluyla para topluyor. Toplanan para ABD Doları ya da BTC olabiliyor.  Ancak her önüne gelen bu fona yatırım yapamıyor. Bunun için 'akredite' yatırımcı olmak gerekiyor. 
+Bu fon yatırım yapmak için belirli aralıklar ile yatırımcılardan 'özel satış (private placement)' yoluyla para topluyor. Toplanan para ABD Doları ya da BTC olabiliyor.  Ancak her önüne gelen bu fona yatırım yapamıyor. Bunun için 'akredite' yatırımcı olmak gerekiyor. 
 
 GBTC topladığı bu paralar ile BTC satın alıyor. Aldığı bu dijital varlıkların değerlerine eşit miktarda GBTC hissesini de yatırımcılarına veriyor. Bu hisseyi alan yatırımcılar 12 ay boyunca satamıyorlar (2020 yılı başında bu süre altı aya indirildi). Bu kilitli süre bittikten sonra, hisseleri borsada satma imkanına sahipler.  
 
 Bir başka ilginç konu ise GBTC hisse çıkarıyor ancak hisse geri almıyor. Yani, yatırımcı parasını GBTC'ye koydu, altı ay bekledi, ama karşılığını almak istediğinde ancak borsada satabilir. 
 
-Üstüne üstlük bir de Grayscale GBTC içinde bulunan paradan %2 gibi oldukça yüksek bir yönetim ücreti alıyor. 
+Üstüne üstlük bir de Grayscale GBTC içinde bulunan paradan %2 gibi yüksek bir yönetim ücreti alıyor. 
 
 İyi de kim niye GBTC'ye bu kadar para koysun? 
 
-Aklı başında herhangi bir yatırımcını bu döngü içinde parasını altı ay bağlaması için, 'özel satış' sırasında değerinden aldığı GBTC'yi bu süre sonunda primli satabileceğine inanması gerekir. Peki geçmişte nasıl olmuş? Gelin bakalım: 
+### Kim neden GBTC alır?
+Grayscale özünde yatırım alanında ABD'de yazılı belli kural boşluklarından faydalanan bir fon. Nedir bunlar?
+
+Pek çok kurumsal fonun, örneğin bir emelilik fonunun, hangi alana yatırım yapabileceği kendi anayasasında açıkça yazar. Bu fonların bir kısmı kriptopara benzeri varlıklara yatırım yapamıyorlar ya da yaptıkları yatırım toplam portföyleri içinde çok ufak bir paydan öteye gidemiyor. 
+
+Halbuki Grayscale bir yatırım fonu olarak, farklı bir kategoriye giriyor. Eğer emeliklik fonu yöneticisi, kriptoparaların değer kazanacağına inanıyor ancak fonunu kendi iç yasasından ötürü bu alana yatıramıyorsa, Grayscale'e trust fonuna yatırım yaparak bu kısıtı kenarından dolaşabilir. 
+
+Keza bu bireysel yatırımcılar için de geçerli. Örneğin tasarruflarını vergiden avantajlı emeklilik fonlarında değerlendiren bir bireysel yatırımcı, BTC satın almak istediğinde aracı kurumlar bunu sağlayamıyor. Ancak, bu yatırımcının Grayscale'in fonu olan GBTC hissesi almasında bir sakınca yok. 
+
+İşte yukarıdaki nedenler ile GBTC fonları ABD'de oldukça yoğun bir ilgi gördü. Bu ilgi o kadar büyüktü ki, GBTC hisseleri uzunca bir süre aktifler değerlerinden daha yüksek seviyelerde idi. 
 
  | ![grayscale_premiums](/assets/grayscale_premiums_800.png) | 
 |:--:| 
 | *GBTC hisse/varlık değeri prim (iskonto) Kaynak: [YCharts](https://ycharts.com/companies/GBTC/discount_or_premium_to_nav)*|
 
-Gördüğünüz gibi Grayscale fonları başlangıçta çok uzunca bir süre primli olarak işlem görüyordu. Ancak daha sonrasına iskontolu fiyat görmeye bile başladılar. 
-
-Tabii bir diğer soru da, hadi diyelim birileri baştan GBTC hissesi aldı, neden biri gidip bu hisseleri borsadan alır? Gelin sırayla bir göz atalım: 
-
-### Grayscale neden primli işlem görüyordu?
-Grayscale özünde yatırım alanında ABD'de yazılı olan belli kural boşluklarından faydalanan bir fon. Nedir bunlar?
-
-Pek çok kurumsal fonun, örneğin bir emelilik fonunun, hangi alana yatırım yapabileceği kendi anayasasında açıkça yazar. Bu fonların bir kısmı kripto para benzeri varlıklara yatırım yapamıyorlar ya da yaptıkları yatırım toplam portföyleri içindeki çok ufak bir paydan öteye gidemiyor. 
-
-Halbuki Grayscale bir yatırım fonu olarak, farklı bir kategoriye giriyor. Eğer emeliklik fonu yöneticisi, kriptoparaların değer kazanacağına inanıyor ancak fonunu kendi iç yasasından ötürü bu alana yatıramıyorsa, Grayscale'e trust fonuna yatırım yaparak bu kısıtı kenarından dolaşabilir. 
-
-Keza bu bireysel yatırımcılar için de geçerli. Örneğin tasarruflarını vergiden avantajlı emeklilik fonlarında değerlendiren bir bireysel yatırımcı, BTC satın almak istediğinde aracı kurumlar buna izin vermezler. Ancak, bu yatırımcının Grayscale'in fonu GBTC hissesi almasında bir sakınca yok. 
-
-Yani bir nevi, 'akredite' yatırımcılar hisseyi alıp, altı ay tutup sonra borsada akredite olmayan yatırımcılara satıyorlar idi. İşte bu özelliğinden dolayı GBTC uzunca bir süre primli işlem gördü. Ancak hikaye burada bitmiyor. 
+Gördüğünüz gibi Grayscale fonları başlangıçta çok uzunca bir süre primli olarak işlem görüyordu. Ancak 2021 yılının başlarında madalyon tam tersine döndü. Gelin şimdi bu durumun temel nedenine bir göz atalım: 
 
 #### BlockFi ve Hedge Fonlar
 
 Burada kısa bir ara verip, BlockFi'dan (ve benzeri kurumlardan) bahsedelim:
  
-Blockfi, bir nevi mevduat bankacılığı yapan bir kurum. Uzmanlığı ise kripto paralar. Yatırımcılar, ellerindeki paraları BlockFi'ya mevduat vermeleri durumunda ciddi oranda (USD bazında %6'lar civarında) gelir kazanmaları söz konusu.
+Blockfi, bir nevi mevduat bankacılığı yapan bir kurum. Uzmanlığı ise kriptoparalar. Yatırımcılar, ellerindeki kriptoparaları BlockFi'ya mevduat vermeleri durumunda ciddi oranda (USD bazında %6'lar civarında) gelir kazanmaları söz konusu.
 
 Peki BlockFi aldığı bu kriptoparaları ne yapıyor? Nerede değerlendiriyor? Genelde Grayscale'e yatıran hedge fonlarına kredi olarak veriyor. Hedge fonlar borç aldıkları bu BTC'yi götürüp GBTC'ye yatırıyor, karşılığında GBTC hissesi alıyorlar.  Altı aylık kilit süresi bitince de, elindeki bu GBTC hisselerini piyasada satıyorlar. Grayscale hissesi primli olduğu sürece bu 'düzen' güzel bir şekilde devam ediyor. 
 
@@ -191,7 +126,7 @@ Yani BTC borçlan, bu BTC ile gidip GBTC hissesini 'özel satış' yöntemi ile 
 
 Dolayısıyla, Grayscale'in satın aldığını söylediği bu BTC aslında fonun Bitcoin'in geleceğine duyduğu güven ile yaptığı bir yatırım değil. Esasında elinde BTC tutanlardan BlockFi'ye, oradan hedge fonlara, en sonunda da Grayscale'e akan, yani özünde piyasadan borçlanarak alınmış olan BTC'ler. Yani bir cepten öbürüne. Üstelik, arzı sınırlı olan BTC'nin bu alımlar nedeniyle fiyatının fiktif olarak şişirilmesi durumu var. 
 
- Bu nedenle 'Grayscale şu kadar BTC aldı' ya da 'Grayscale'in elinde şu kadar BTC var' haber başlıklarına şüpheyle bakmak gerekiyor.  Zira, Grayscale'in yaptığı aslında bir balon yaratarak BTC fiyatını artırmak ve bunun uzun vadede ters tepme riski var - ki son yaşananlar bunu görme ihtimalini artırıyor. 
+Bu nedenle 'Grayscale şu kadar BTC aldı' ya da 'Grayscale'in elinde şu kadar BTC var' haber başlıklarına şüpheyle bakmak gerekiyor.  Zira, Grayscale'in yaptığı aslında bir balon yaratarak BTC fiyatını artırmak. Bunun uzun vadede ters tepme riski var - ki son yaşananlar bunu görme ihtimalini artırıyor. 
 
 Zira, ya bu prim bir gün biterse?. Bitebilir, nitekim Şubat ayı gibi bitti de.
 
@@ -207,19 +142,20 @@ Ancak bu resmin sadece bir kısmı gibi. Yukarıdaki neden Grayscale'in %0 priml
 
 ### Neden prim iskontoya döndü? 
 
-İşte 2021 yılının ilk ayları ile birlikte ETF'lerin çıkacağına olan beklenti sonrası GBTC'ye olan talep  azaldı. Ama daha ötesinde, Grayscale bir trust olarak, kendisine yatırım yapmak isteyenlere hissesini satıyor ama hisse geri alımı yapmıyor. Yatırımlarını geri almak isteyen yatırımcılar GBTC'yi altı aylık kilit süresi bittikten sonra piyasada satmak zorundalar.
+İşte 2021 yılının ilk ayları ile birlikte ETF'lerin çıkacağına olan beklenti sonrası GBTC'ye olan talep azaldı. Bu arada, yukarıda yazmıştık, Grayscale bir trust olarak kendisine yatırım yapmak isteyenlere hissesini satıyor ama hisse geri alımı yapmıyor. Yatırımlarını geri almak isteyen yatırımcılar GBTC'yi altı aylık kilit süresini bekledikten sonra piyasada satmak zorundalar.
 
 İşte ETF çıkacağına dair beklentiler ile birlikte, daha önce arbitraj yapan fonlar artık primlerin daha da düşeceği beklentisi ile kilitleri açılan GBTC'leri piyasada satmaya başladılar. Her hissede olduğu gibi, satıcıların çoğalması, fiyatın daha da düşeceği beklentisi ile alıcıları tedirgin etti ve fiyat aktif değerinden daha da iskontolu olarak işlem görür hale geldi. 
 
-GBTC'nin piyasadaki değerine yeniden artırmak isteyen  Grayscale'in sahibi Digital Currency Group, [250 milyon ABD Doları'na kadar GBTC hissesini piyasadan satın alacağını](https://www.coindesk.com/digital-currency-group-to-put-up-to-250m-into-grayscales-bitcoin-trust) açıkladı.
+GBTC'nin piyasadaki değerini yeniden artırmak isteyen  Grayscale'in sahibi Digital Currency Group, [750 milyon ABD Doları'na kadar GBTC hissesini piyasadan satın alacağını](https://www.coindesk.com/digital-currency-group-ups-its-gbtc-share-purchases-to-750m-limit) açıkladı.
 
-Ha bu arada hani yatırımcılardan yıllık %6 ile para toplayan BlockFi vardı yukarıda bahsettiğimiz. Onlar da verdikleri faiz oranlarında [indirime gittiler](https://blockfi.com/our-btc-and-eth-rates-are-changing-and-heres-why). 
+Bu arada hani yatırımcılardan yıllık %6 ile para toplayan BlockFi vardı yukarıda bahsettiğimiz. Onlar da verdikleri faiz oranlarında [indirime gittiler](https://blockfi.com/our-btc-and-eth-rates-are-changing-and-heres-why). 
 
 ### Bundan sonra neler olacak?
 Öncelikle, bundan sonrasında GBTC'nin eskisi gibi yüksek primler ile işlem göreceğini söylemek çok zor. Zira sürekli olarak primli işlem gören bir hissede, oluşturduğu mistik havayı sürdürüp prim miktarını daha da artırabilirsiniz, ancak hisse belli bir süre iskontolu işlem gördüğünde o hava artık yok olur. 
 
 Öte yandan GBTC'nin iskontolu hareket etmesinin de bir arbitraj fırsatı getirebileceğini düşünenler çıkabilir - ancak bu şekilde düşünenler, harekete geçmek için belki de fiyatın daha da düşmesini bekliyor olabilirler. 
 
-Bunun ötesinde dijital varlıklara dayalı ETF'lere izin çıktığı noktada Grayscale'in çok büyük bir esprisi kalmayacak. Zaten Grayscale de ETF başvurusu yapmış durumda ve uygun ortam olduğunda fonlarını EFT'e çevirecek.
+Bunun ötesinde dijital varlıklara dayalı ETF'lere izin çıktığı noktada Grayscale'in çok büyük bir esprisi kalmayacak. Zaten Grayscale de ETF başvurusu yapmış durumda ve uygun ortam olduğunda fonlarını ETf'e çevirecek.
 
-Eğer, BTC için büyük bir talep gelir, zaten arzın kısıtlılığı nedeniyle piyasada BTC darlığı olur, bunun yanında fiyatın da uzun vadede yükseleceği şeklinde bir algı oluşur ise, o zaman belki tekrar ilgi GBTC'ye dönüp hisseyi primli hale getirebilir. Ancak kabul edelim bu bir parça Nasreddin Hoca'nın kazak örmek için evin önüne tel çekmesi hikayesini andırıyor. O nedenle GBTC'yi uzaktan izlemekte, arayı soğuk tutmakta fayda var.
+Eğer, BTC için büyük bir talep gelir, zaten arzın kısıtlılığı nedeniyle piyasada BTC darlığı olur, bunun yanında fiyatın da uzun vadede yükseleceği şeklinde bir algı oluşur ise, o zaman belki tekrar ilgi GBTC'ye dönüp fonu primli hale getirebilir. Şu an için zor görünen bu durup gerçekleşen kadar GBTC'yi uzaktan izlemekte ve arayı soğuk tutmakta fayda var.
+
