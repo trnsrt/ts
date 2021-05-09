@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "TRTWorld Strait Talk"
-date:   2021-05-07 14:37:15 +0300
+date:   2021-05-07 21:37:15 +0300
 categories: Genel
 tags: videos Etkinlikler
 ---
