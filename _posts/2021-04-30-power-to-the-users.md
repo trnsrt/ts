@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Power to the users"
-date:   2021-04-25 17:47:56 +0300
+date:   2021-04-30 17:47:56 +0300
 categories: Genel
 tags: Yazılar, Articles
 ---
@@ -41,7 +41,7 @@ Privacy concerns in digital life coupled with fear of governments toying with in
 Blockchain technologies in fact constitute the fundamentals of the third wave of the internet. So what do we mean by that? Let's dive into blockchain philosophy on our next post. 
 
 ---
-*This piece is [first published](https://medium.com/bcistcenter/evolution-of-web-technologies-ffc9c983940c) in [BlockchainIST Center](https://medium.com/blockchainist-center) on April 25th, 2021.*
+*This piece is [first published](https://medium.com/bcistcenter/power-to-the-users-dda312460408) in [BlockchainIST Center](https://medium.com/blockchainist-center) on April 30th, 2021.*
 
 *None of the views expressed in this article should be considered as investment advice*
 
