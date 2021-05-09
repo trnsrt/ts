@@ -1,3 +1,4 @@
+Selim Yazıcı tarafından hazırlanan kitap için gönderilen bölüm... 
 Kitap_bölüm
 ### Giriş
 Blockchain teknolojisinin ilk ve en yaygın kullanım alanının finans olacağı yıllardır konuşulan bir konu idi. Son gelişmelere baktığımızda bu tahminlerin doğru çıktığını görüyoruz. En yaygın blockchain temelli uygulama olan Bitcoin kripto parasının çıkışının üzerinden 10 yıllık bir süre geçti. Bitcoin'i örnek alarak gücü aracılardan (yani finans kurumlarından) alıp kullanıcılara taşımayı amaç edinen girişimler DeFi (Decentralized Finance) yani merkeziyetsiz finans hareketi altında toplandılar. 2017 yılında itibaren ortaya çıkan bu girişimlerin, üç yıl süren çeşitli denemeler sonrası ortaya çıkardıkları ürünlerin tüketici tarafından kabul gördüğü, 2020 yılının yaz aylarında bu alanda yaşanan talep patlamasıyla kanıtlandı. 
