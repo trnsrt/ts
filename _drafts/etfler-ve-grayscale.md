@@ -63,7 +63,8 @@ Finans alanında dünya lideri olan Amerika Birleşik Devletleri ise yapılan on
 
 
 
-----# YAZI II: Grayscale fonları
+----
+# YAZI II: Grayscale fonları
 Geçtiğimiz yazıda ETF'lerin kripto varlıklara yatırım anlamında gerek bireysel gerekse kurumsal yatırımcılar için sağlayacağı kolaylıklara değinmiştik. Yazının sonunda ise, ABD'de henüz ETF'lere onay verilmemişken, kurumsal fon pazarında ortaya çıkan bir dev olan Grayscale'den bahsetmiş ve detayını bu yazımıza bırakmıştık. 
 
 ### Nedir Grayscale?
