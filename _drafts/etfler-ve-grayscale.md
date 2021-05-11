@@ -74,7 +74,7 @@ Grayscale'de belli başlı her kriptopara için ayrı bir fon var (bir tane de k
 
  | ![grayscale_funds](/assets/grayscale_funds_v2.png) | 
 |:--:| 
-| *Grayscale fonları - not: prim/iskonto olmayan fonlar henüz borsalarda işlem görmeyen yeni fonlar. Kaynak: [Grayscale](https://twitter.com/Grayscale/status/1388232662960287749)*|
+| *Grayscale fonları - not: prim/iskonto olmayan fonlar henüz borsalarda işlem görmeyen yeni fonlar. (30 Nisan 2021) Kaynak: [Grayscale](https://twitter.com/Grayscale/status/1388232662960287749)*|
 
 Ancak Grayscale bir ETF değil bir trust. Nedir ikisinin farkı? ETF, herhangi bir dijital varlığa erişim sağlarken o fonun değerini pasif bir şekilde izler. Yani herhangi bir şekilde pozisyon almaz, aktif fon yönetimi yapmaz. Bu nedenle ucuza hizmet verir. 
 
