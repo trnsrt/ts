@@ -97,7 +97,7 @@ Evet. Paranın üzerinde yok. Yani denetim parayı tutanlar üzerinde ya da kuru
 
 ***Bu haliyle kripto parayı cazip hale getiren şey ne, devlet ilgili tarafını konuşmak istiyorum. Devletler yasal çerçevelerine göre basarlar. Bu fiziksel şeklinden, görünüme kadar belirlenmiştir. Aynı zamanda her para biriminin küresel pazarda bir değeri var. Sen buna “öğreti” diyorsun, çünkü böyle bir dünyaya geldik, bunu öğrendik.***
 
-Mesela altını sorgulamıyorsun, neden, çünkü yüzyıllardır, binlerce yıldır var. Peki, altının var mı sahibi ya da altın merkezî mi?*
+Mesela altını sorgulamıyorsun, neden, çünkü yüzyıllardır, binlerce yıldır var. Peki, altının var mı sahibi ya da altın merkezî mi?
 
 ***Değil. Kitapta parayla ilgili bölümde anlattığın evrimsel şemaya baktığımda ironiyi anlayabiliyorum. Bitcoin’in ya da bu kripto para denilen bu para biçimi de ödeme aracına dönüşebilir, kredi kartları gibi ama…***
 
