@@ -4,7 +4,7 @@ Birikim Dergisi güncel websitesi için yayınlanan röportajımı aşağıda bu
 
 **“Bitcoin Dünyayı Özgürleştirmeyecek, İnsanlara Eşitlik Getirmeyecek!”**
 
-**Turan Sert ile Kripto Paralar Üzerine Söyleşi - Polat S. Alpman **
+**Turan Sert ile Kripto Paralar Üzerine Söyleşi - Polat S. Alpman**
 
 
 
