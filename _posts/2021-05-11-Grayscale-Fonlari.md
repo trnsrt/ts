@@ -36,6 +36,10 @@ Grayscale bir trust yöneticisi olarak çıkardığı trustlar aracılığıyla 
 
 Bu fon, yatırım yapmak için belirli aralıklar ile yatırımcılardan 'özel satış (private placement)' yoluyla para topluyor. Toplanan para ABD Doları ya da BTC olabiliyor.  Ancak her önüne gelen bu fona yatırım yapamıyor. Bunun için 'akredite' yatırımcı olmak gerekiyor. 
 
+| ![risks](/assets/fog-3117975_800.jpg)|
+|:--:| 
+| *Image by [William Sinclair](https://pixabay.com/users/williamsinclair-7752345/) from [Pixabay](https://pixabay.com/)*|
+
 GBTC topladığı bu paralar ile BTC satın alıyor. Aldığı bu dijital varlıkların değerlerine eşit miktarda GBTC hissesini de yatırımcılarına veriyor. Bu hisseyi alan yatırımcılar altı ay boyunca satamıyorlar (Önceden 12 ay olan bu süre 2020 yılı başında indirildi). Bu kilitli süre bittikten sonra, hisseleri borsada satma imkanına sahipler.  
 
 Bir başka ilginç konu ise, GBTC hisse çıkarıyor ancak hisse geri almıyor. Yani, yatırımcı parasını GBTC'ye koydu, altı ay bekledi, ama karşılığını almak istediğinde ancak borsada satabilir. 
