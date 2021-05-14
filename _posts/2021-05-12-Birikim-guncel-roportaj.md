@@ -17,7 +17,7 @@ Birikim Dergisi güncel websitesi için yayınlanan röportajımı aşağıda bu
 
 
 
-![ts_profile_1](/assets/_NK_2356_800.jpg)
+![ts_profile_pic](/assets/_NK_2356_800.jpg)
 
 
 Boğaziçi Üniversitesi İşletme ve Harvard Business School’daki eğitimlerinin ardından uluslararası firmalarda finans ve teknoloji alanında çeşitli pozisyonlarda yer alan ve yönetim danışmanlığı yapan Turan Sert’in blockchain ile ilgili Sorularla Blockchain isimli bir kitabı da var.[1] Bu söyleşide Turan Sert ile Thodex vurgunu sonrasında yeniden gündeme gelen ve Türkiye’de epey talep gören bu “yeni” ekonominin olanakları, devletlerle ilişkisi, sunduğu yeni fırsatlar hakkında konuştuk.
