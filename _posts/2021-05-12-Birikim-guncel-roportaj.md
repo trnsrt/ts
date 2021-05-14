@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "Birikim Güncel Röportaj"
+date:   2021-05-12 22:47:56 +0300
+categories: Genel
+tags: Yazılar, Etkinlikler
+---
+
+
 Birikim Dergisi güncel websitesi için yayınlanan röportajımı aşağıda bulabilirsiniz. Röportajın orijinali için Birikim sitesindeki [şu bağlantıya](https://birikimdergisi.com/guncel/10599/bitcoin-dunyayi-ozgurlestirmeyecek-insanlara-esitlik-getirmeyecek) bakabilirsiniz. 
 
 ---
