@@ -17,7 +17,7 @@ Birikim Dergisi güncel websitesi için yayınlanan röportajımı aşağıda bu
 
 
 
-![ts_profile_pic](/assets/_NK_2356_800.jpg)
+![ts_profile_pic](/assets/NK_2356_800.jpg)
 
 
 Boğaziçi Üniversitesi İşletme ve Harvard Business School’daki eğitimlerinin ardından uluslararası firmalarda finans ve teknoloji alanında çeşitli pozisyonlarda yer alan ve yönetim danışmanlığı yapan Turan Sert’in blockchain ile ilgili Sorularla Blockchain isimli bir kitabı da var.[1] Bu söyleşide Turan Sert ile Thodex vurgunu sonrasında yeniden gündeme gelen ve Türkiye’de epey talep gören bu “yeni” ekonominin olanakları, devletlerle ilişkisi, sunduğu yeni fırsatlar hakkında konuştuk.
@@ -96,10 +96,7 @@ Var, yani şöyle, kripto para tanımı yapmış olanlar var. Mesela Japonya’d
 
 ***Blockchain ya da kripto para olgusunu geri dönüşsüz bir süreç olarak mı görüyorsun, yeni bir evreye mi geçtik?***
 
-<img align="left" src="/assets/_NK_2375_800.jpg" style="width:20%; padding-right:20px"> 
-
-
-<img align="left" src="/assets/strait-talk-poster_800.png" style="width:40%; padding-right:20px"> Evet, yeni bir evreye geçtik. Bu dün başlamadı. Başlangıcı 2009 ama blockchain sistemleri, merkezi olmayan sistemler, bunlara açık blokzincirler deniyor, herkese açık, merkezi olmayan blokzincirler uzun zamandır var ve bu yavaş yavaş artıyor. Öncelikle kullanım anlamında, yatırım anlamında artıyordu ama işlevsellik anlamında da artık bir değer oluşmaya başladı. Buradan artık Bitcoin’den sonra yavaş yavaş diğer paralara geçmiş oluyoruz. Şunu söylüyorum: Bitcoin bu işin ilk kullanım alanıdır. İlk ürünüdür diyeyim bu merkeziyetsiz teknolojinin ama çok spesifik bir üründür Bitcoin. Yapmak istediği tek şey var, o da para olmak. Dijital dünyada değer saklayan, sansür edilemeyen para olmak.
+<img align="left" src="/assets/NK_2375_800.jpg" style="width:20%; padding-right:20px">  Evet, yeni bir evreye geçtik. Bu dün başlamadı. Başlangıcı 2009 ama blockchain sistemleri, merkezi olmayan sistemler, bunlara açık blokzincirler deniyor, herkese açık, merkezi olmayan blokzincirler uzun zamandır var ve bu yavaş yavaş artıyor. Öncelikle kullanım anlamında, yatırım anlamında artıyordu ama işlevsellik anlamında da artık bir değer oluşmaya başladı. Buradan artık Bitcoin’den sonra yavaş yavaş diğer paralara geçmiş oluyoruz. Şunu söylüyorum: Bitcoin bu işin ilk kullanım alanıdır. İlk ürünüdür diyeyim bu merkeziyetsiz teknolojinin ama çok spesifik bir üründür Bitcoin. Yapmak istediği tek şey var, o da para olmak. Dijital dünyada değer saklayan, sansür edilemeyen para olmak.
 
 ***Ve herhangi bir yaptırıma ya da engellemeye tabi olmamak.***
 
