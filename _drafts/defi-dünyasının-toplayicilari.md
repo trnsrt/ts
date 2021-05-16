@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "DeFi dünyasının toplayıcıları"
+date:   2021-05-15 17:47:56 +0300
+categories: Genel
+tags: Yazılar, DeFi, DeFi'ye Giriş
+---
+
+
 Bu yazımızda klasik dünyada alışık olmadığımız, daha çok DeFi dünyasının kullanıcılara sunduğu bir yenlik olan toplayıcılardan bahsedeceğiz. 
 
 Bir önceki yazımızda DeFi'de yatırım yapmanın ilk adımlarından bahsederken kullanılabilecek iki yol olarak merkezi ve merkeziyetsiz borsalardan bahsetmiştik. 👇
@@ -70,3 +79,9 @@ Daha önceki yazılarımızda bahsettiğimiz elektronik cüzdanlar da artık cü
 
 ### Sonuç 
 Teklif toplayıcılar DeFi sisteminde kullanıcılara kolaylık sağlayan hizmetlerden bir tanesi.. İleride daha da büyüyecekleri neredeyse kesin gibi.. Bakalım bu yarışın kazananı kim olacak... 
+
+*Not 1: Bu yazı ilk olarak 15 Mayıs 2021'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı](https://medium.com/blockchainist-center/definin-toplay%C4%B1c%C4%B1lar%C4%B1-964b4b4e7fc7)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
