@@ -7,7 +7,7 @@ Goldman Sachs, Banco Santander ve Societe General aracılığında yapılan bu b
 
 #### Blokzincir nasıl kullanılmış?
 
-Öncelikle bono ihracında Ethereum blokzinciri kullanıldığını belirtelim. Zaten o sıralarda 2,500 ABD Doları civarında seyreden ETH fiyatının sonraki on günde 3,500 dolara kadar yükselmesinde bu haberin de bir parça katkısı olduğu söylemek zor değil. 
+Öncelikle bono ihracında Ethereum blokzinciri kullanıldığını belirtelim. Zaten o sıralarda 2,500 ABD Doları civarında seyreden ETH fiyatının sonraki on günde 3,500 dolara kadar yükselmesinde bu haberin de bir parça katkısı olduğunu söylemek zor değil. 
 
 Avrupa Yatırım Bankası yetkilileri, Ethereum zincirinin seçilme nedenini, akıllı kontrat kullanabilme özelliği ve en oturmuş blokzincir olması olarak açıklıyorlar. Ethereum'daki yüksek işlem ücretleri başlangıçta soru işaretlerine yol açsa da, bu tahvil ihracının o kadar da büyük işlem yoğunluğuna neden olmayacağı düşünülerek bu tip kaygılar göz ardı edilmiş. 
 
@@ -26,11 +26,11 @@ Fransa Merkez Bankası (Banque de France - BDF), CBDC (Central Bank Digital Curr
 ### Neden önemli?
 Avrupa Yatırım Bankası tarafından gerçekleşen bu bono ihracının, blokzincirin finans piyasalarında adaptasyonu için oldukça önemli bir adım olduğunu söylemek gerek.  
 
-Henüz daha tam oturmamış olsa da, blokzincir kullanılarak aracıların ortadan kaldırılması ve bu sayede masrafların düşürülebilmesi, zaten düşük borçlanma maliyetleri nedeniyle kâr marjları iyice azalan finans piyasası yatırımcılarına ilaç gibi gelebilir. 
+Henüz bu örnekte tam olarak uygulanmamış olsa da, blokzincir kullanılarak aracıların ortadan kaldırılması ve bu sayede masrafların düşürülebilmesi, zaten düşük borçlanma maliyetleri nedeniyle gelirleri iyice azalan yatırımcılara bir nebze ilaç gibi gelebilir. 
 
-Masraflar sadece aracıların ortadan kalkması ile düşmüyor bu arada. Bankalar, bu tip bono ihraçlarda, sendikasyon masalarının talepleri toplaması, çifte emirleri silmesi gibi hesaplaşma/uzlaşma olarak adlandırılan işlemler için oldukça ciddi mesai harcıyorlar.  Blokzincirde tek bir kaynak olması nedeniyle, yatırımcıların senede birkaç kez olan tahvil ihraçları için koca bir operasyon takımı tutmalarının önüne geçilebiliyor.  
+Masraflar sadece aracıların ortadan kalkması ile düşmüyor bu arada. Bankalar, bu tip bono ihraçlarda, sendikasyon masalarının talepleri toplaması, çifte emirleri silmesi gibi hesaplaşma/uzlaşma olarak adlandırılan işlemler için oldukça ciddi mesai harcıyorlar.  Blokzincirin herkes tarafından görülebilen şeffaf yapısı sayesinde, banka ve aracı kurumlardaki koca operasyon takımlarına duyulan ihtiyaç giderek azalacak.  
 
-Geleneksel piyasalara alışık olan bu yatırımcıların, Avrupa Yatırım Bankası gibi bir finans kuruluşu tarafından bu yeni tip araçları test edebilecekleri güvenli bir ortam sunulmuş olması onların rahat edebilmeleri için çok önemli. 
+Geleneksel piyasalara alışık olan bu yatırımcıların, Avrupa Yatırım Bankası gibi bir finans kuruluşu tarafından bu yeni tip araçları test edebilecekleri güvenli bir ortam sunulmuş olması onların rahat edebilmeleri için çok önemli.
 
 Zaten Avrupa Yatırım Bankası yetkilileri de yatırımcılar, bono ihraç edenler ve medyadan gelen yoğun ilgiden çok memnun olduklarını saklamıyorlar. 
 
