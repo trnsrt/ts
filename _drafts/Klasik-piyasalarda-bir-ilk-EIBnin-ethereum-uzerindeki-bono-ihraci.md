@@ -1,4 +1,4 @@
-Nisan ayının son günlerinde Avrupa Yatırım Bankası tarafından açıklanan 100 milyon Euro'luk tahvil ihracı yoğun gündem içinde çok da konuşulmadı. Gelin olayın hikayesine ve blokzincir açısından önemine birlikte göz atalım. 
+Nisan ayının son günlerinde Avrupa Yatırım Bankası (European Investment Bank - EIB) tarafından açıklanan 100 milyon Euro'luk tahvil ihracı yoğun gündem içinde çok da konuşulmadı. Gelin olayın hikayesine ve blokzincir açısından önemine birlikte göz atalım. 
 
 ### Nedir olay?
 27 Nisan 2020 günü Bloomberg, 'Avrupa Yatırım Bankası'nın blokzincirin gücü ile kuşanmış 'dijital bono' olarak da adlandırılabilecek iki yıllık bir tahvil ihracında bulunacağını' [yazdı](https://news.bloomberglaw.com/banking-law/eu-investment-arm-offers-two-year-notes-in-debut-blockchain-deal). 
@@ -13,7 +13,7 @@ Avrupa Yatırım Bankası yetkilileri, Ethereum zincirinin seçilme nedenini, ak
 
 Zaten 2021 yılı içinde toplam 70 milyar Euro'luk bono ihracı için yetkisi olan EIB'nin, 100 milyon Euro'luk bu ihracının, özünde yatırımcıları bu tip araçlara aşina edebilmek için yapılan bir deneme olduğu anlaşılıyor. Yetkililer, blokzincir kullanılmasını  'Arabayı inşa ettik, evinizin önüne kadar getirdik, ona dokunabilirsiniz, istediğiniz gibi kullanabilir ve sonra sevip sevmediğinize karar verebilirsiniz' şeklinde [açıklıyorlar](https://www.theblockcrypto.com/daily/104446/european-investment-bank-ethereum-bond)
 
-Bu arada EIB yetkilileri bundan sonraki ihraçlar için Ethereum blokzincirini kullanmak gibi bir zorunlulukların olmadığını, değişen teknolojiler ile birlikte farklı blokzincirleri de değerlendirebileceklerini belirtiyorlar. 
+Bu arada EIB yetkilileri bundan sonraki ihraçlar için Ethereum blokzincirini kullanmak gibi bir zorunluluklarının olmadığını, değişen teknolojiler ile birlikte farklı blokzincirleri de değerlendirebileceklerini belirtiyorlar. 
 
 #### Sadece blokzincir değil CBDC de kullanılmış
 
@@ -39,9 +39,9 @@ Hemen burada bir ilk olma özelliği taşıyan bu tahvil ihracının bu anlamda 
 
 Öncelikle, blokzincirin en önemli özelliklerinden birinin, aracıları ortadan kaldırması olduğu biliniyor. Halbuki yukarda en başta belirttik: ECB bu ihraç için üç aracı bankayı yetkilendirmiş.  Zaten ECB kendisini bu konuda yeterince tecrübeli görmediği için, bütün süreci olabildiğince 'dışarıya yaptıracak' şekilde kurgulamış. 
 
-Goldman Sachs ve Banco Santander'in yatırımcılar nezdindeki gücünü. Societe General'e ait Forge'in ise kurumsal yatırımcılara blokzincir üzerinden bono alım/satım konusundaki tecrübesini kullanmayı hedeflemiş EIB.  Bu sayede yatırımcılara teknik tarafta çok zaman ve emek kaybetmeden, işin maliyetindeki avantajları rahatça görebilecekleri bir ortam yaratmayı tasarlamış. 
+Goldman Sachs ve Banco Santander'in yatırımcılar nezdindeki gücünü, Societe General'e ait Forge'in ise kurumsal yatırımcılara blokzincir üzerinden bono alım/satım konusundaki tecrübesini kullanmayı hedeflemiş EIB.  Bu sayede yatırımcılara teknik tarafta çok zaman ve emek kaybetmeden, işin maliyetindeki avantajları rahatça görebilecekleri bir ortam yaratmayı tasarlamış. 
 
-İlk aşamada, gerek EIB gerekse yatırımcıların henüz aşina olmadıkları bu pazarda aracı kullanmasını normal karşılamak gerek. Önümüzdeki dönemde tarafların kendilerini daha ehil hissettikleri noktada, bu aracılara çok da ihtiyaç kalmayacak.
+İlk aşamada, gerek EIB gerekse yatırımcıların henüz aşina olmadıkları bu pazarda aracı kullanmasını normal karşılamak gerek. Önümüzdeki dönemde tarafların kendilerini daha ehil hissettikleri noktada, bu aracılara çok da ihtiyaçları kalmayacak.
 
 ### Sonuç
 Blokzincir teknolojisinin, özellikle kamuya açık Ethereum benzeri blokzincirlerin, finans piyasalarının en klasik köşelerinden biri olan bono piyasalarına bu kadar kısa sürede nüfuz etmeye başlamış olmaları oldukça etkileyici. Yapılan açıklamalardan görülen, bunun arkasının geleceği şeklinde. Gelecek blokzincir teknolojileri için kendini hazırlıyor, peki ya siz?
