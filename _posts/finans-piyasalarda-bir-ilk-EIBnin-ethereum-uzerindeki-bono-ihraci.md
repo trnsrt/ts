@@ -1,7 +1,21 @@
+---
+layout: post
+title:  "Finans piyasalarında bir ilk: EIB'nin Ethereum üzerinde bono ihracı"
+date:   2021-05-18 17:47:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
+
 Nisan ayının son günlerinde Avrupa Yatırım Bankası (European Investment Bank - EIB) tarafından açıklanan 100 milyon Euro'luk tahvil ihracı yoğun gündem içinde çok da konuşulmadı. Gelin olayın hikayesine ve blokzincir açısından önemine birlikte göz atalım. 
 
 ### Nedir olay?
 27 Nisan 2020 günü Bloomberg, 'Avrupa Yatırım Bankası'nın blokzincirin gücü ile kuşanmış 'dijital bono' olarak da adlandırılabilecek iki yıllık bir tahvil ihracında bulunacağını' [yazdı](https://news.bloomberglaw.com/banking-law/eu-investment-arm-offers-two-year-notes-in-debut-blockchain-deal). 
+
+
+| ![euro](/assets/euro-1976614_800.jpg)|
+|:--:| 
+| *Image by [Gerd Altmann](https://pixabay.com/users/geralt-9301/) from [Pixabay](https://pixabay.com/)*|
 
 Goldman Sachs, Banco Santander ve Societe General aracılığında yapılan bu bono ihracı, bir bankanın blokzincir kullanarak yatırımcılara sunduğu ilk bono olma özelliğini taşıyor. 
 
@@ -52,3 +66,12 @@ Not: Bu yazı için kullanılan kaynakların orijinallerini aşağıda bulabilir
 1. https://news.bloomberglaw.com/banking-law/eu-investment-arm-offers-two-year-notes-in-debut-blockchain-deal
 2. https://www.bloomberg.com/news/articles/2021-04-30/european-debt-pioneer-heralds-revolution-to-come-from-blockchain
 3. https://www.theblockcrypto.com/daily/104446/european-investment-bank-ethereum-bond
+
+
+---
+
+*Not 1: Bu yazı ilk olarak 18 Mayıs 2021'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/finans-piyasalarinda-bir-ilk-eibnin-ethereum-uzerinden-bono-ihraci/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
