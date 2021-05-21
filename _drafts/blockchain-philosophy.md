@@ -5,7 +5,7 @@ In our previous post we briefly discussed the main events that have resulted in 
 ### Blockchain philosophy
 Here is how we can define blockchain in one sentence: 
 
-**Blockchain is a technology created by those who believe that people have the right to interact freely without any type of intermediary in digital life**
+**Blockchain is a technology created by those who believe that people have the right to interact freely with each other without any type of intermediary in digital life**
 
 This phrase is pretty self-explanatory, but let's look at each piece one by one.. 
 
@@ -22,7 +22,7 @@ Blockchain technology is created by group of people who are equipped with crypto
 
 Some of these people are actually known around. There are many many names but let's bring up three of them here.. [David Chaum](https://en.wikipedia.org/wiki/David_Chaum), [Nick Szabo](https://en.wikipedia.org/wiki/Nick_Szabo) and [Hal Finney](https://en.wikipedia.org/wiki/Hal_Finney_(computer_scientist)). Those pioneers are each deserve a separate post here but for the time being you can click on the link and read their biographies on Wikipedia. (You can look at our post on these gentlemen for further detail). 
 
-### "...that people have the right to interact freely..."
+#### "...that people have the right to interact freely with each other..."
 Interacting with others would occur on many dimensions. One is to have the ability or means to interact with others.. The other is to interact with anyone regardless the physical boundaries... A third dimension is to interact with them any time...  In other words to interact with others without any limits..
 
 
