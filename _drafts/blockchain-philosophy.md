@@ -2,6 +2,10 @@ Let's have a look at the main philosophy behind blockchain technologies:
 
 In our previous post we briefly discussed the main events that have resulted in emergence of blockchain technologies.. Let's have a deep dive into the main philosophy of blockchain technologies in this post: 
 
+| ![hands](/assets/hands-3348986_800.jpg)|
+|:--:| 
+| *Image by [Gerd Altmann](https://pixabay.com/users/geralt-9301/) from [Pixabay](https://pixabay.com/)*|
+
 ### Blockchain philosophy
 Here is how we can define blockchain in one sentence: 
 
