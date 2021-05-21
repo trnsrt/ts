@@ -1,6 +1,6 @@
 Let's have a look at the main philosophy behind blockchain technologies: 
 
-In our previous post we briefly discussed the main events that have resulted in emergence of blockchain technologies.. Now let's talk about the three pillars of blockchain technologies. 
+In our previous post we briefly discussed the main events that have resulted in emergence of blockchain technologies.. Let's have a deep dive into the main philosophy of blockchain technologies in this post: 
 
 ### Blockchain philosophy
 Here is how we can define blockchain in one sentence: 
