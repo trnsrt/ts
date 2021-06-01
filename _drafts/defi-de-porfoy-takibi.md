@@ -31,14 +31,14 @@ Bütün kripto varlıkların blokzincirde durması aslında pek çok ilginç yen
 
 Klasik finansta, sahip olduğunuz varlıkları görmek için o varlıkları tuttuğunuz finansal kurumun size verdiği olanaklar ile yetinmek zorundasınız. Genelde web sitesinde ne varsa o. Şimdi yeni yeni, son zamanlarda, farklı fintech uygulamaları ile farklı kurumlardaki hesap ya da varlıklarımızı bir arada görme imkanına kavuşmaya başladık ama yirmi yıl sonra hâlâ gelinen noktanın içler acısı olduğunu söylemek mümkün. 
 
-Merkeziyetsiz finansta ise, belli standartlar ile kurulan uygulamaların birbirleri ile çalışma özelliği sayesinde çok farklı uygulamalar kullanılabiliyor bu iş için. Tek gerekli olan, her merkeziyetsiz finans uygulamasında olduğu gibi cüzdanınızı bağlamak.. Kimi zaman bu bile gerekli değil aslında. Neden? Gelin birlikte bakalım alternatiflere: 
+Merkeziyetsiz finansta ise, belli standartlar ile kurulan uygulamaların birbirleri ile çalışma özelliği sayesinde çok farklı uygulamalar kullanılabiliyor bu iş için. Tek gerekli olan, her merkeziyetsiz finans uygulamasında olduğu gibi cüzdanınızı bağlamak. Kimi zaman bu bile gerekli değil aslında. Neden? Gelin birlikte bakalım alternatiflere: 
 
 #### Cüzdanın içinden
 DeFi için kullanılan cüzdanlar içinden önceki yazımızda da belirttiğimiz gibi, token alım satımı yapılabildiği gibi, sahip olunan finansal varlıkları bir arada görmek, ayrıca yapılan tüm geçmiş aktiviteleri gözlemlemek mümkün. 
 
 Örneğin, bu satırlarda sıkça bahsettiğimiz aylık 5 milyon kullanıcısı olan Metamask üzerinden bunu kolayca görmek mümkün. Ancak, ne kadar pratik, bu konu tartışmalı. Satın alınan bir ürün, özelikle de yeni çıktı ise Metamask'ta olmayabiliyor. Böyle bir durumda, varlıkların en altında buluna 'add token' (token ekle) bölümünden varlığı araştırmak ve eklemek mümkün - ancak çok da pratik değil. 
 
-Bu nedenle daha pratik arayüzlere ihtiyaç var. İşte bunu sağlayan iki örnek ile devam edelim.. 
+Bu nedenle daha pratik arayüzlere ihtiyaç var. İşte bunu sağlayan iki örnek ile devam edelim: 
 
 #### Zapper ve Zerion
 [Zapper](https://zapper.fi) ve [Zerion](https://zerion.io) tüm portföyü bir arada gösteren müthiş birer arayüz. Yatırımcının tüm yapması gereken siteye girip cüzdanını bağlaması. Birbirinin rakibi olan bu iki arayüz benzer özellikler gösterdiği için hangisini  kullanmak istediği yatırımcının keyfine kalmış bir durum.
@@ -58,10 +58,10 @@ Bunun yanında bu platformları kullanmak için cüzdan bağlamak gerekli değil
 
 Kısacası bu platformlar komple bir banka gibi çalışarak kullanıcılarına DeFi'nin her tür hizmetine tek bir arayüz ile ulaşma imkanı sağlıyorlar.
 
-#### Bir de etherscan var.. 
+#### Bir de etherscan var... 
 Tabii gerek cüzdanlar gerekse Zapper ve Zerion cinsi arayüzler sonuçta bilgilerini blokzincir üzerinden alıyorlar. 
 
-Kimi insanlar bu arayüzlere güvenmek yerine direkt kaynaktan bilgi almayı tercih edebilirler. Hani kimi teknik insanlar vardır.. Arayüzlerin estetik faydasından ziyade her tür bilgiyi tam ve eksiksiz görüp işlem yapmayı severler. Böylelerinin örneğin MacBook kulanmak yerine Linux işletim sistemi kullandığını görürsünüz (hatta ileri seviyede olanlar MacBook alır içine Linux kurup öyle çalıştırırlar).. 
+Kimi insanlar bu arayüzlere güvenmek yerine direkt kaynaktan bilgi almayı tercih edebilirler. Hani kimi teknik insanlar vardır. Arayüzlerin estetik faydasından ziyade her tür bilgiyi tam ve eksiksiz görüp işlem yapmayı severler. Böylelerinin örneğin MacBook kulanmak yerine Linux işletim sistemi kullandığını görürsünüz (hatta ileri seviyede olanlar MacBook alır içine Linux kurup öyle çalıştırırlar). 
 
 İşte böyleleri için Ethereum zincirinde kayıtların tutulduğu sitelere direkt bağlanmak ve ne olup bittiğini orada kaynağında görmek imkanı da var. Bu alanda da pek çok site var, ama en sık kullanılanı [Etherscan](https://etherscan.io). Yatırımcı tüm işlemlerin kayıtlarını Etherscan üzerinde rahatça görebilir. Hatta yukarıdaki iki bölümde bahsettiğimiz cüzdanlar ve Zapper ve Zerion tipi arayüzler de, yapılan işlemlerin teyidini isteyen yatırımcıları Etherscan'e yönlendirirler içlerinden.
 
