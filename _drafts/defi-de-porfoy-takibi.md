@@ -2,7 +2,7 @@
 ---
 layout: post
 title:  "DeFi portföy takibi nasıl yapılıyor?"
-date:   2021-06-02 17:47:56 +0300
+date:   2021-06-01 08:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, DeFi'ye Giriş
 ---
