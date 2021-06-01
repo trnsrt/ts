@@ -1,5 +1,19 @@
-Portföy takibi
+
+---
+layout: post
+title:  "DeFi portföy takibi nasıl yapılıyor?"
+date:   2021-06-02 17:47:56 +0300
+categories: Genel
+tags: Yazılar, DeFi, DeFi'ye Giriş
+---
+
+
 Geçtiğimiz iki yazıda önce DeFi tokenların elektronik cüzdanlar aracalığı ile nasıl alınabileceği ile ilgili bir giriş yapmış sonrasında da farklı borsaları kulanmak yerine pratik bir çözüm olan toplayıcılardan bahsetmiştik. Bu yazımızda ise, alım yaptıktan sonra portföy takibini yapabilmek için kullanılabilecek bir kaç servisten bahsedeceğiz. 
+
+
+| ![observe](/assets/observe-3539810_800.jpg)|
+|:--:| 
+| *Image by [mohamed Hassan](https://pixabay.com/users/mohamed_hassan-5229782/) from [Pixabay](https://pixabay.com/)*|
 
 ### Satın alınan tokenlar nerede duruyor? 
 Öncelikle daha önce pek çok kez tekrarladığımız şu düsturu tekrar hatırlatalım: Kripto varlık satın alan bir kullanıcı bunu kendi elektronik cüzdanında tutmaz ise aslında o paraya sahip değildir.. 
