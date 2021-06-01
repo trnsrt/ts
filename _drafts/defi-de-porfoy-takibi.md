@@ -41,7 +41,7 @@ DeFi için kullanılan cüzdanlar içinden önceki yazımızda da belirttiğimiz
 Bu nedenle daha pratik arayüzlere ihtiyaç var. İşte bunu sağlayan iki örnek ile devam edelim.. 
 
 #### Zapper ve Zerion
-[Zapper](https://zapper.fi) ve [Zerion](https://zerion.io) tüm portföyü bir arada gösteren müthiş birer arayüz. Yatırımcının tüm yapması gereken siteye girip cüzdanını bağlaması. Birbirinin rakibi olan bu iki arayüz benzer özellikleri gösterdiği için hangisi kullanmak istediği yatırımcının keyfine kalmış bir durum. 
+[Zapper](https://zapper.fi) ve [Zerion](https://zerion.io) tüm portföyü bir arada gösteren müthiş birer arayüz. Yatırımcının tüm yapması gereken siteye girip cüzdanını bağlaması. Birbirinin rakibi olan bu iki arayüz benzer özellikler gösterdiği için hangisini  kullanmak istediği yatırımcının keyfine kalmış bir durum.
 
 Öncelikle, cüzdan bağlandığı noktada, yatırımcı tüm portföyündeki tokenları, bunların ABD Doları cinsinden değerlerini görebiliyor (bu arada her ikisinin de Türk Lirası desteği olduğunu belirtelim).
  
