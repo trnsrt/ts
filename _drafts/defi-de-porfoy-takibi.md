@@ -10,11 +10,6 @@ tags: Yazılar, DeFi, DeFi'ye Giriş
 
 Geçtiğimiz iki yazıda önce DeFi tokenların elektronik cüzdanlar aracalığı ile nasıl alınabileceği ile ilgili bir giriş yapmış sonrasında da farklı borsaları kulanmak yerine pratik bir çözüm olan toplayıcılardan bahsetmiştik. Bu yazımızda ise, alım yaptıktan sonra portföy takibini yapabilmek için kullanılabilecek bir kaç servisten bahsedeceğiz. 
 
-
-| ![observe](/assets/observe-3539810_800.jpg)|
-|:--:| 
-| *Image by [mohamed Hassan](https://pixabay.com/users/mohamed_hassan-5229782/) from [Pixabay](https://pixabay.com/)*|
-
 ### Satın alınan tokenlar nerede duruyor? 
 Öncelikle daha önce pek çok kez tekrarladığımız şu düsturu tekrar hatırlatalım: Kripto varlık satın alan bir kullanıcı bunu kendi elektronik cüzdanında tutmaz ise aslında o paraya sahip değildir.. 
 
@@ -29,6 +24,11 @@ Blokzincirde şeffaf olarak görülen, paralar ve o paraların hangi hesaplarda 
 
 ### Token satın aldıktan sonra nasıl takip edilir?
 Bütün kripto varlıkların blokzincirde durması aslında pek çok ilginç yeniliği de beraberinde getiriyor. Kullanıcı satın aldığı ya da sattığı varlıkların ya da yaptığı finansal işlemlerin takibi için pek çok farklı yöntem kullanabiliyor. 
+
+
+| ![observe](/assets/observe-3539810_800.jpg)|
+|:--:| 
+| *Image by [mohamed Hassan](https://pixabay.com/users/mohamed_hassan-5229782/) from [Pixabay](https://pixabay.com/)*|
 
 Klasik finansta, sahip olduğunuz varlıkları görmek için o varlıkları tuttuğunuz finansal kurumun size verdiği olanaklar ile yetinmek zorundasınız. Genelde web sitesinde ne varsa o. Şimdi yeni yeni, son zamanlarda, farklı fintech uygulamaları ile farklı kurumlardaki hesap ya da varlıklarımızı bir arada görme imkanına kavuşmaya başladık ama yirmi yıl sonra hâlâ gelinen noktanın içler acısı olduğunu söylemek mümkün. 
 
