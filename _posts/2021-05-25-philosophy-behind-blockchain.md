@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Philosophy behing Blockchain"
+date:   2021-05-25 17:47:56 +0300
+categories: Genel
+tags: Yazılar, Articles
+---
+
 Let's have a look at the main philosophy behind blockchain technologies: 
 
 In our previous post, we briefly discussed the main events that have resulted in the emergence of blockchain technologies. Let's have a deep dive into blockchain philosophy in this post:
@@ -38,3 +46,10 @@ While an alternative to these financial institutions were almost impossible in p
 
 ### to be continued... 
 So blockchain technologies showed individuals that there is another way to perform transactions among themselves. Faster, cheaper and accessible to everyone... but with certain responsibilities.. But how does blockchain technology work? That is for our next post... 
+
+---
+*This piece is [first published](https://medium.com/bcistcenter/philosophy-behind-blockchain-d5e3a306f69d) in [BlockchainIST Center](https://medium.com/blockchainist-center) on May 25th, 2021.*
+
+*None of the views expressed in this article should be considered as investment advice*
+
+
