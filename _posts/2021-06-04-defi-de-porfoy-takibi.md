@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DeFi portföy takibi nasıl yapılıyor?"
-date:   2021-06-02 08:47:56 +0300
+date:   2021-06-04 08:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, DeFi'ye Giriş
 ---
@@ -67,3 +67,10 @@ Kimi insanlar bu arayüzlere güvenmek yerine direkt kaynaktan bilgi almayı ter
 
 ### Sonuç
 DeFi dünyasında yatırımcının rahatını düşünen pek çok farklı uygulama var. Bütün bu uygulamaların temel hedefi, yatırımcıyı bu dünyaya adım attığı andan itibaren kendisine bağlı tutmak. Klasik dünyadaki 'müşteriye dokunan kraldır' deyişi burada da geçerli aslında. Rekabet sert, bu rekabet sonucu her gün yeni bir ürün kullanıcıların beğenisine sunuluyor. Emekleme aşamasında olan DeFi sektörü de bu sayede adım atmayı öğrenmeye başlıyor. Henüz değil ama yakın gelecekte hızlı adımı yürüyüşe daha sonra da koşarak sprint atmaya doğru yol aldığını hep birlikte heyecanla izleyeceğiz.
+
+
+*Not 1: Bu yazı ilk olarak 4 Haziran 2021'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı](https://medium.com/blockchainist-center/defide-portf%C3%B6y-takibi-nas%C4%B1l-yap%C4%B1l%C4%B1yor-3ea56fbfa3f3)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.* 
