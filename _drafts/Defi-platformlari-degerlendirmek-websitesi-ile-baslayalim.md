@@ -2,12 +2,12 @@ Bu yazı dizimizde, DeFi protokollerini nasıl değerlendirebiliriz konusuna eğ
 
 Geçtiğimiz yazılarda önce dört bölüm olarak DeFi dünyasına ilk adım atılırken yapılması gerekenlerden ve cüzdanlardan bahsetmiştik:  👇
 
-![/assets/defi_ilk_adimlar_800.png]
+![](/assets/defi_ilk_adimlar_800.png)
 
 
 Sonrasındaki dört bölümlük seride ise DeFi tokenları ile tanışıp, nasıl alım-satım yapılabileceğine bakmıştık: 👇
 
-![/assets/defi-tokenlar-tanismak-800.png]
+![](/assets/defi-tokenlar-tanismak-800.png)
 
 Bu serimizde ise aslında yukarıdaki iki konudan bile daha önemli olan, etrafta ismini duyduğumuz tokenları nasıl değerlendirmek gerekir, ona bakacağız. Bunu yaparken, şu aşamada 'temel analiz' olarak adlandırılan, tokenın yarattığı temel değerleri nasıl anlarız, kısaca göz gezdireceğiz.  Gelin konuya DeFi protokolünün web sitesinden başlayalım: 
 
