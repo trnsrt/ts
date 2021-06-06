@@ -13,6 +13,11 @@ Bildiğiniz gibi DeFi protokolünün arkasında bir girişimci grup var. Genel o
 
 Bu merkezi grup, bir yandan projeyi geliştirmeye çalışırken, diğer yandan dış dünya ile iletişim için ilk olarak olarak bir web sitesini oluştururlar. 
 
+
+| ![website](/assets/online-3461400_800.jpg)|
+|:--:| 
+| *Image by [Mudassar Iqbal](https://pixabay.com/users/kreatikar-8562930/) from [Pixabay](https://pixabay.com/)*|
+
 DeFi websiteleri genelde birbirine benzer yapılar gösterir. Bu yapının içinde yer alan öğelere gelin beraberce bakalım: 
 
 #### Giriş sayfası
