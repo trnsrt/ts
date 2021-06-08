@@ -80,9 +80,9 @@ Flash loan krediler, teminatsız kredi olanağı verdikleri için DeFi alanında
 
 1. Kullanıcı (ya da Hasım), bZx platformundan 7,500 ETH borç alır. 
 2. Aldıkları bu borç para ile gidip Uniswap ve Kyber platformlarındaki sUSD/ETH havuzlarında yaklaşık 4,400 civarı ETH verir ve karşılığında 1.1 milyon sUSD satın alırlar. Sığ bir havuz olduğu için normalde diğer piyasalarda 268 olan ETH/sUSD kuru bu alım sonrası bu iki havuzda yaklaşık 107'e düşer.(BzX'in borç verme platformu platformu ETH/sUSD için referans olarak Uniswap ve Kyber borsalarının bu iki havuzunu kullanıyor)  
-3. Sonra aldıkları sUSD'yi götürüp bZx'de teminat veriyorlar ve karşılığında 6,800 ETH flash loan borç alırlar (%150 teminat istendiği için 1 ETH = 107 x 1.5 = 163 sUSD kurundan).  
-4. Gidip bu aldıkları borç ile ilk işlemdeki borçlarını öderler.  
-5. Üçüncü işlemde aldıkları krediyi de ödemezler.   
+3. Sonra aldıkları sUSD'yi götürüp bZx'de teminat veriyorlar ve karşılığında 6,800 ETH kredi alırlar (%150 teminat istendiği için 1 ETH = 107 x 1.5 = 163 sUSD kurundan).  
+4. Gidip bu aldıkları borç ile ilk işlemdeki flash loan krediyi (7,500 ETH) öderler.  
+5. Üçüncü işlemde aldıkları krediyi (6,800 ETH) ise ödemezler.   
 6. Sonuç:  
 - Hasım, aldığı kredinin 4,400 ETH'lık kısmını kullanıp karşılığında 6,800 ETH aldı. Kârı 2,400 ETH 
 - BzX borsası üçüncü adımda verdiği krediden dolayı zarar etti. Zira, 1,1 milyon sUSD aldılar ama verdikleri kredi 6,800 ETH idi. Piyasaya gidip ETH almak istediklerinde 1.1 milyon /268 = 4,100 ETH alabilecekler. Kalan 4,700 ETH'yi bZx'e para vermiş yatırımcılar zarar olarak yazıyorlar.  
