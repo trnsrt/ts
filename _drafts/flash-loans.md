@@ -15,10 +15,9 @@ Bunlar işin güzel tarafı. Bir de madalyonun öbür tarafı var. Bu kadar esne
 
 Efendim, 2020 yılının Şubat ayında bir haber ile sarsıldı DeFi dünyası: '[bZx hacklenmiş](https://cointelegraph.com/news/decentralized-lending-protocol-bzx-hacked-twice-in-a-matter-of-days)'. Hemen arkasından iki gün sonra yeni haber 'bZx tekrar hacklenmiş'.
 
-Sonra Ekim ayında bir haber daha duyduk. '[Value DeFi flash loan atağı yemiş, 6 milyon ABD Doları zarar etmiş](https://news.bitcoin.com/defi-protocol-bragged-having-flash-loan-attack-prevention-hacked-6-million/#:~:text=Value%20Defi%20said%20it%20suffered,million%20in%20DAI%20from%20Uniswap.)' diye. Allah Allah. Ne ola ki bu flash loan'lar?. Bak DeFi'nin de açığı çıkmış. 
+Sonra Ekim ayında bir haber daha duyduk. '[Value DeFi flash loan atağı yemiş, 6 milyon ABD Doları zarar etmiş](https://news.bitcoin.com/defi-protocol-bragged-having-flash-loan-attack-prevention-hacked-6-million/#:~:text=Value%20Defi%20said%20it%20suffered,million%20in%20DAI%20from%20Uniswap.)' diye. Allah Allah. Ne ola ki bu flash loan' denen 'şey'?. Bak DeFi'nin de açığı çıkmış. 
 
-Sonra Kasım'da [bir daha](https://www.coindesk.com/value-defi-suffers-6m-flash-loan-attack)... Bir tane daha. Artık kabak tadı vermeye başladı değil mi?. Neler oluyor dostlar?. Gelin bakalım neler olmuş...
-
+Sonra Kasım'da [bir daha](https://www.coindesk.com/value-defi-suffers-6m-flash-loan-attack). Sonra bir tane daha. Artık kabak tadı vermeye başladı değil mi?. Neler oluyor dostlar?. Gelin bakalım neler olmuş. 
 
 ### Nedir bu flash loan?... 
 
@@ -26,11 +25,11 @@ Normalde kredi aldığınızda karşılığında teminat verirsiniz. DeFi'daki k
 
 Nasıl oluyor bu? Şu şekilde: Normalde klasik dünyada al-sat yapanlar gün içinde onlarca yüzlerce işlem yaparlar, gün sonunda da bunların hepsini bir araya getirir ve pozisyonlarını kapatırlar. Yani işlemlerin nihayetlendirilmesi gün sonunda olur. Hatta hesaplaşma (settlement) birkaç gün sürer. 
 
-DeFi'de ise her işlem çok hızlı. Malum dijital dünyadayız. Milisaniyeleri konuşuyoruz. Buna paralel olarak hesaplaşma günlerce sürmüyor ama hemen belirtelim anlık da olmuyor: Yapılan işlemlerin kaydını bildiğiniz gibi blokzincirler tutuyor. Blokzincir ise binlerce makinenin bir arada uyumlu çalışmasını gerektiren bir sistem. Bu kayıtlar anlık olarak değil, bloklar halinde bir araya getirilip kesinlik kazandırılıyor. Bu da Bitcoin'de 10 dakikada bir, Ethereum'da ise yaklaşık 15 saniyede bir oluyor. 
+DeFi'de ise her işlem çok hızlı. Malum dijital dünyadayız. Milisaniyeleri konuşuyoruz. Buna paralel olarak hesaplaşma günlerce sürmüyor ama hemen belirtelim anlık da olmuyor: Yapılan işlemlerin kaydını bildiğiniz gibi blokzincirler tutuyor. Blokzincir ise binlerce makinenin bir arada uyumlu çalışmasını gerektiren bir sistem. Bu kayıtlar anlık olarak değil, bloklar halinde bir araya getirilip kesinlik kazandırılıyor. Her bir bloğun zincire eklenmesi ise Bitcoin'de 10 dakikada bir, Ethereum'da ise yaklaşık 15 saniyede bir oluyor. 
 
 Dolayısıyla, siz bir işlem yaptığınızda o işlemin gerçekleşmesi için en az 15 saniye gerekiyor. Siz bir işlemi başlatır ancak 15 saniye içinde sonlandırmazsanız işlem geçersiz oluyor.  Klasik dünyada bir-iki gün süren hesaplaşma burada 15 saniye içinde gerçekleşiyor. 
 
-İşte flash loan,  klasik dünyada gün içinde yapılan bir sürü işlemi DeFi dünyasında 15 saniyeye sığdırmayı sağlayan bir kredi. Kullanıcı şöyle bir yol izliyor: Bir DeFi servisini kullanarak **kredi alıyor**, sonrasında bunu başka DeFi servislerinde **arbitraj işlemlerinde** kullanıyor, sonra 15 saniye içinde krediyi **geri ödüyor** (ekstra bir miktar faiz ve ücret ödeyerek). Dolayısıyla işlem blokzincire yazılmaya gerek olmaksızın sonlanıyor. Kullanıcının diğer arbitraj işlemlerinden kazandığı paralar yanına kâr kalıyor. Zarar eden kim? Kullanıcının işlem yaptığı diğer DeFi hizmetlerine likidite sağlamış olan yatırımcılar. En basit anlatımı bu şekilde (ki farklı daha karmaşık versiyonları da mevcut)... 
+İşte flash loan,  klasik dünyada gün içinde yapılan bir sürü işlemi DeFi dünyasında 15 saniyeye sığdırmayı sağlayan bir kredi. Kullanıcı şöyle bir yol izliyor: Bir DeFi servisini kullanarak **kredi alıyor**, sonrasında bunu başka DeFi servislerinde **arbitraj işlemlerinde** kullanıyor, sonra 15 saniye içinde krediyi **geri ödüyor** (ekstra bir miktar faiz ve ücret ödeyerek). Dolayısıyla işlem aynı blok içinde sonlanıyor. Kullanıcının diğer arbitraj işlemlerinden kazandığı paralar yanına kâr kalıyor. Zarar eden kim? Kullanıcının işlem yaptığı diğer DeFi hizmetlerine likidite sağlamış olan yatırımcılar. En basit anlatımı bu şekilde (ki farklı daha karmaşık versiyonları da mevcut)... 
 
 Peki ya kullanıcı işlemleri zamanında bitiremez ya da zarar ettiği için flash loan kredisini geri ödeyemez ise? O zaman büyük bir sorun yok. Zira henüz 15 saniye geçmeden kredi veren krediyi geri çağırıyor ve blokzincire işlemi yazmıyor. 
 
