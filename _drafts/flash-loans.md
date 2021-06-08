@@ -9,7 +9,7 @@ Tabii kişilerin ihtiyaçlarını karşılarken ilk bakılan şu oldu? Kişinin 
 
 Sonrasında işin rengi yavaş yavaş değişmeye başladı. Öncelikle, DeFi'nin sunduğu farklı imkanları keşfeden insanlar daha talepkar oldular. DeFi, mevcut açık yapısı ile klasik finansın sunamadığı pek çok farklı servisi de insanların hizmetine sundu. Örneğin, bir token almak istiyorsunuz. DeFi dünyasının içinde ilk başlarda bunu yapmak için cüzdanınızı tek tek merkeziyetsiz borsalara bağlamanız ve fiyatları görmeniz gerekiyordu. Artık, cüzdanınızın içinden sekiz-on tane borsanın almak istediğiniz token fiyatlarını anında bulup işlem yapabiliyorsunuz. 
 
-Bunlar işin güzel tarafı. Bir de madalyonun öbür tarafı var. Bu kadar esneklik ve kolaylık bir taraftan da belli açıklar getirebiliyor. Bu açıklar bir şekilde çözülüyor. Ancak bir de işin temeline dokunan boşluklar var ki, onları çözmek vakit alabilir. İşte onlardan biri de son zamanlarda sık sık duymaya başladığımız flash loan hadisesi.. Gelin bir bakalım ne imiş flash loan, neler yaşanmış bu dünyada, ve nasıl bu boşluklar doldurulabilir:
+Bunlar işin güzel tarafı. Bir de madalyonun öbür tarafı var. Bu kadar esneklik ve kolaylık bir taraftan da belli açıklar getirebiliyor. Bu açıklar bir şekilde çözülüyor. Ancak bir de işin temeline dokunan bazı boşluklar var ki, onları çözmek vakit alabilir. İşte onlardan biri de son zamanlarda sık sık duymaya başladığımız flash loan hadisesi. Gelin bir bakalım ne imiş flash loan, neler yaşanmış bu dünyada ve nasıl bu boşluklar doldurulabilir:
 
 ### Olaylar, olaylar 
 
@@ -21,7 +21,7 @@ Sonra Kasım'da [bir daha](https://www.coindesk.com/value-defi-suffers-6m-flash-
 
 ### Nedir bu flash loan?... 
 
-Normalde kredi aldığınızda karşılığında teminat verirsiniz. DeFi'deki kredi platformları da benzer şekilde işliyor:  Verdiğiniz teminatın değeri tipik bir DeFi işleminde aldığınız kredi tutarının yaklaşık 1.5 katı civarında olur... **Flash loan ise teminatsız kredi çekmek, yani herhangi bir teminat göstermeden çok kısa süreli kredi kullanmak demek**. 
+Normalde kredi aldığınızda karşılığında teminat verirsiniz. DeFi'deki kredi platformları da benzer şekilde işliyor:  Verdiğiniz teminatın değeri tipik bir DeFi işleminde aldığınız kredi tutarının yaklaşık 1.5 katı civarında olur. **Flash loan ise teminatsız kredi çekmek, yani herhangi bir teminat göstermeden çok kısa süreli kredi kullanmak demek**. 
 
 Nasıl oluyor bu? Şu şekilde: Normalde klasik dünyada al-sat yapanlar gün içinde onlarca yüzlerce işlem yaparlar, gün sonunda da bunların hepsini bir araya getirir ve pozisyonlarını kapatırlar. Yani işlemlerin nihayetlendirilmesi gün sonunda olur. Hatta hesaplaşma (settlement) birkaç gün sürer. 
 
@@ -29,11 +29,11 @@ DeFi'de ise her işlem çok hızlı. Malum dijital dünyadayız. Milisaniyeleri 
 
 Dolayısıyla, siz bir işlem yaptığınızda o işlemin gerçekleşmesi için en az 15 saniye gerekiyor. Siz bir işlemi başlatır ancak 15 saniye içinde sonlandırmazsanız işlem geçersiz oluyor.  Klasik dünyada bir-iki gün süren hesaplaşma burada 15 saniye içinde gerçekleşiyor. 
 
-İşte flash loan,  klasik dünyada gün içinde yapılan bir sürü işlemi DeFi dünyasında 15 saniyeye sığdırmayı sağlayan bir kredi. Kullanıcı şöyle bir yol izliyor: Bir DeFi servisini kullanarak **kredi alıyor**, sonrasında bunu başka DeFi servislerinde **arbitraj işlemlerinde** kullanıyor, sonra 15 saniye içinde krediyi **geri ödüyor** (ekstra bir miktar faiz ve ücret ödeyerek). Dolayısıyla işlem aynı blok içinde sonlanıyor. Kullanıcının diğer arbitraj işlemlerinden kazandığı paralar yanına kâr kalıyor. Zarar eden kim? Kullanıcının işlem yaptığı diğer DeFi hizmetlerine likidite sağlamış olan yatırımcılar. En basit anlatımı bu şekilde (ki farklı daha karmaşık versiyonları da mevcut)... 
+İşte flash loan,  klasik dünyada gün içinde yapılan bir sürü işlemi DeFi dünyasında 15 saniyeye sığdırmayı sağlayan bir kredi. Kullanıcı şöyle bir yol izliyor: Bir DeFi servisini kullanarak **kredi alıyor**, sonrasında bunu başka DeFi servislerinde **arbitraj işlemlerinde** kullanıyor, sonra 15 saniye içinde krediyi **geri ödüyor** (ekstra bir miktar faiz ve ücret ödeyerek). Dolayısıyla işlem aynı blok içinde sonlanıyor. Kullanıcının diğer arbitraj işlemlerinden kazandığı paralar yanına kâr kalıyor. Zarar eden kim? Kullanıcının işlem yaptığı diğer DeFi hizmetlerine likidite sağlamış olan yatırımcılar. En basit anlatımı bu şekilde (ki farklı daha karmaşık versiyonları da mevcut). 
 
-Peki ya kullanıcı işlemleri zamanında bitiremez ya da zarar ettiği için flash loan kredisini geri ödeyemez ise? O zaman büyük bir sorun yok. Zira henüz 15 saniye geçmeden kredi veren krediyi geri çağırıyor ve blokzincire işlemi yazmıyor. 
+Peki ya kullanıcı işlemleri zamanında bitiremez ya da zarar ettiği için flash loan kredisini geri ödeyemez ise? O zaman büyük bir sorun yok. Zira henüz 15 saniye geçmediği için kredi veren işlemi blokzincire yazmıyor. 
 
-Hemen hatırlatalım bu işlemleri yapanlar öyle elleri çok hızlı hareket eden al-sat'çılar değil. Bunlar daha çok, bu işlemleri hızlı ve koordineli bir şekilde yapmayı sağlayacak akıllı kontratları yazan geliştiriciler. Hem finans hem de kodlama bilgisine sahip insanlar. 
+Hemen hatırlatalım bu işlemleri yapanlar öyle elleri çok hızlı hareket eden al-sat'çılar değil. Bu kişiler daha çok, bu işlemleri hızlı ve koordineli bir şekilde yapmayı sağlayacak akıllı kontratları yazan geliştiriciler. Hem finans hem de kodlama bilgisine sahip insanlar.
 
 | ![robot_human](/assets/brain-5814961_800.jpg)|
 |:--:| 
@@ -41,15 +41,15 @@ Hemen hatırlatalım bu işlemleri yapanlar öyle elleri çok hızlı hareket ed
 
 #### Suç Flash Loan'da mı?
 
-Medyaya yansıyan hack olaylarının temel nedeni flash loanlar değil böyle bir arbitraja imkan veren diğer DeFi servisleri aslında. Peki arbitraj imkanı nasıl doğuyor? Kim bu diğer DeFi servisleri? Her durum farklı ama bir örnek ile açıklayalım: 
+Aslında medyaya yansıyan hack olaylarının temel nedeni flash loanlar değil böyle bir arbitraja imkan veren DeFi servisleri. Peki arbitraj imkanı nasıl doğuyor? Kim bu DeFi servisleri? Her durum farklı ama bir örnek ile açıklayalım:
 
-Genelde size işlem yaptıracak olan DeFi servisleri işlem yapacağınız token ile ilgili olarak fiyat bilgisini bilgi sağlayıcı oracle servislerinden alırlar (bu konuda oracle nedir ile ilgili [şu yazımızda](/genel/2020/12/22/definin-bilgi-kaynagi-oracle.html), bu oracle hizmet verenlerin en büyüğü olan Chainlink ile ilgili de [şu yazımızda](/genel/2020/12/29/oraclein-lideri-chainlink.html) daha fazla detay bulabilirsiniz). 
+DeFi servisleri işlem yapacağınız token ile ilgili fiyat bilgisini genelde bilgi sağlayıcı oracle servislerinden alırlar (bu konuda oracle nedir ile ilgili [şu yazımızda](/genel/2020/12/22/definin-bilgi-kaynagi-oracle.html), bu oracle hizmet verenlerin en büyüğü olan Chainlink ile ilgili de [şu yazımızda](/genel/2020/12/29/oraclein-lideri-chainlink.html) daha fazla detay bulabilirsiniz). 
 
-Oracle servisleri manipülasyon olmaması için veriyi birçok farklı yerden alıp damıtır ve ihtiyaç sahibine verirler. Kimi DeFi servisleri ise gerek maliyet gerekse yeterli insan kaynağı olmadığı için bu oracle servislerini kullanmak yerine  bir-iki kaynaktan (örneğin bir merkeziyetsiz borsadan) bilgi alırlar. 
+Oracle servisleri manipülasyon olmaması için veriyi birçok farklı yerden alıp damıtır ve ihtiyaç sahibine verirler. Kimi DeFi servisleri ise gerek maliyet gerekse yeterli insan kaynağı olmadığı için bu oracle servislerini kullanmak yerine bir-iki kaynaktan (örneğin bir merkeziyetsiz borsadan) bilgi almayı tercih ederler.
 
-İşte arbitraj yapanlar böyle bir durum gördüklerinde aynı avını bekleyen aslanlar gibi tetiğe geçerler. Likiditenin azaldığı manipülasyon yapılacak uygun zamanda flash loan aracılığıyla kredi çeker, bu kredi ile gider o borsada işlem yaparak token fiyatını oynatır, bu oynayan fiyatı referans olarak kullanan DeFi servisinde işlem yaparlar. İstedikleri kârı elde ettikten sonra da ilk aldıkları krediyi kapatırlar ve bütün bunları bir blok kapanmadan 15 saniye içinde bitirirler! (Karmaşık görünüyor ama dipnot'ta Şubat 2020'de yaşanan olayı adım adım rakam ve borsa adları ile bulabilirsiniz). 
+İşte arbitraj yapanlar bilgiyi tek bir yerden alan servisler ile karşılaştıklarında, aynı avını bekleyen aslanlar gibi tetiğe geçerler. Likiditenin azaldığı manipülasyon yapılacak uygun zamanda flash loan aracılığıyla kredi çeker, bu kredi ile gider o borsada işlem yaparak token fiyatını oynatır, bu oynayan fiyatı referans olarak kullanan DeFi servisinde işlem gerçekleştirirler. İstedikleri kârı elde ettikten sonra da ilk aldıkları flash loan'u kapatırlar. Bütün bu işlemleri bir blok kapanmadan 15 saniye içinde bitirirler! (Karmaşık görünüyor ama dipnotta Şubat 2020'de yaşanan olayı adım adım rakam ve borsa adları ile bulabilirsiniz).
 
-'Bir başka deyişle, flash loan isteyen herkesi bir balina haline getiriyor' - [Nikola Jankovic](https://www.bloomberg.com/news/articles/2021-02-07/flash-loans-are-providing-instant-cash-to-crypto-speculators) (DeFi Saver - flash loan sağlayıcısı bir servis). 
+'**Bir başka deyişle, flash loan isteyen herkesi bir balina haline getiriyor**' - [Nikola Jankovic](https://www.bloomberg.com/news/articles/2021-02-07/flash-loans-are-providing-instant-cash-to-crypto-speculators) (DeFi Saver - flash loan sağlayıcısı bir servis). 
 
 | ![flash](/assets/sea-4741178_800.jpg)|
 |:--:| 
@@ -57,21 +57,25 @@ Oracle servisleri manipülasyon olmaması için veriyi birçok farklı yerden al
 
 Tabiri caiz ise, **herhangi bir DeFi ürününde boşluk bulan biri, flash loan kullanarak, eline geçirdiği büyük güç ile bu üründeki boşluğu sonuna kadar sömürüyor**. 
 
-2020 yılı içinde yaşanan on beş DeFi saldırısının dokuz tanesinde flash loan kullanılmış, bunlardan beşinde yukarıdaki 'bilgi sağlayıcının manipüle edilmesi' yöntemi kullanılmış. (Detaylı listeyi TheBlock Crypto'nun hazırladığı [Digital Asset 2021 Outlook](https://www.theblockcrypto.com/post/88463/2021-digital-asset-outlook) raporunda bulabilirsiniz.) 
+2020 yılı içinde yaşanan on beş DeFi saldırısının dokuzunda flash loan kullanılmış, bunlardan beşinde yukarıdaki 'bilgi sağlayıcının manipüle edilmesi' yöntemi kullanılmış. (Detaylı listeyi TheBlock Crypto'nun hazırladığı [Digital Asset 2021 Outlook](https://www.theblockcrypto.com/post/88463/2021-digital-asset-outlook) raporunda bulabilirsiniz.) 
 
 ### Yasak mı Flash Loan'lar? Hayır, tam tersi bu hizmeti verenler var
 
 Flash loan hizmeti veren en büyük DeFi servisi Aave. 2020 yılı içinde 2 milyar ABD Doları'ndan fazla bir miktarı flash loan olarak veren Aave, bir keresinde tek işlemde bir kullanıcısına [200 milyon ABD Doları flash loan kredisi sağlamış](https://www.bloomberg.com/news/articles/2021-02-07/flash-loans-are-providing-instant-cash-to-crypto-speculators). Bunun dışında daha kompleks flash loan işlemleri yapan [DeFi Saver](https://defisaver.com/) [Collateral Swap](https://collateralswap.com/) gibi servisler de mevcut. Hatta kodlama bilgisi olmayanlar için sürükle-bırak şeklinde akıllı kontrat yaratabilecekleri [Furucombo](https://furucombo.app/) adında bir servis bile bulunmakta. 
 
 ### Gerçekten önlemek gerekli mi?
-Basında 'hack' olarak bahsedilen flash loan olayı, aslında piyasanın daha düzgün işlemesini sağlayan bir enstrüman. Zira, likidite azlığı ya da manipülasyon nedeniyle farklı borsalar arasında doğan fiyat farklarını azaltmaya yarayan bir arbitraj aracı aslında. 
+Basında 'hack' olarak bahsedilen flash loan olayı, aslında piyasanın daha düzgün işlemesini sağlayan bir enstrüman. Zira, likidite azlığı ya da manipülasyon nedeniyle farklı borsalar arasında doğan fiyat farklarını azaltmaya yarayan bir arbitraj aracı aslında kendisi. 
 
-Burada bu aracı kötü niyetli kullanan kişiler olabiliyor. Bu kişiler birbirinden bağımsız hareket eden ve koordineli çalışmayan borsalardaki düzensizliği fırsat bilip arbitraj yapmanın ötesinde, manipülasyon yaparak arbitrajı yaratıyorlar. Piyasada kendiliğinden oluşan bir arbitrajı değerlendirmek normal (herkes bunu alkışlar) ancak piyasaları manipüle ederek arbitrajı bizzat yaratmaya gelince orada görüşler farklılaşıyor. 
+Kimi zaman bu aracı kötü niyetli kullanan kişiler de olabiliyor. Bu kişiler birbirinden bağımsız hareket eden ve koordineli çalışmayan borsalardaki düzensizliği fırsat bilip arbitraj yapmanın ötesinde, manipülasyon yaparak arbitrajı yaratıyorlar. Piyasada kendiliğinden oluşan bir arbitrajı değerlendirmek normal (herkes bunu alkışlar) ancak piyasaları manipüle ederek arbitrajı bizzat yaratmaya gelince orada görüşler farklılaşıyor. 
 
-Buna "burası serbest piyasa, isteyen istediğini yapar, buna olanak veren platformların hatası" diye bakanlar da var, bunun piyasanın henüz emekleme aşamasında olmasını fırsat bilen piyasayı öldürmek pahasına fayda kazanmaya çalıştığı kötü niyetli hareketler olarak görenler de. Karar sizin. 
+Buna 'burası serbest piyasa, isteyen istediğini yapar, buna olanak veren servislerin hatası' şeklinde bakanlar da var, bunu 'piyasanın henüz emekleme aşamasında olmasını fırsat bilip piyasayı öldürmek pahasına fayda kazanmaya çalışanların kötü niyetli hareketleri' olarak görenler de. Karar sizin.
 
 ### Sonuç
-Flash loan krediler, teminatsız kredi olanağı verdikleri için DeFi alanında çok farklı fırsatlar yaratabilirler. Bu fırsatları biz son kullanıcılardan daha çok kodlama ve finans alanındaki ekiplerin kullanması daha olası. Arbitraj imkanı ile zararsız olarak kullanılanlar piyasaları daha efektif hale getireceği için faydalı olabilir. Zararlı olarak nitelendirebileceğimiz manipülatif hareketler ise emekleme aşamasındaki bu piyasalarda hizmet verenleri 'seni öldürmeyen güçlendirir' prensibi ile daha kurşun geçirmez hale getirebilirler. Klasik dünyada gördüğümüzden farklı sorunlar ve fırsatlar DeFi ile önümüze geliyor. Yeni bir dünyanın kapıları önümüzde yavaş yavaş aralanıyor. Bakalım arkasından neler çıkacak?. 
+Flash loan krediler, teminatsız kredi olanağı verdikleri için DeFi alanında çok farklı fırsatlar yaratabilirler. Bu fırsatları biz son kullanıcılar değil ama kodlama ve finans alanındaki ekiplerin kullanması daha olası. 
+
+Arbitraj imkanı ile zararsız olarak kullanılanlar piyasaları daha efektif hale getireceği için faydalı olabilir. Zararlı olarak nitelendirebileceğimiz manipülatif hareketler ise emekleme aşamasındaki bu piyasalarda hizmet verenleri 'seni öldürmeyen güçlendirir' prensibi ile daha kurşun geçirmez hale getirebilirler. 
+
+Klasik dünyada gördüğümüzden farklı sorunlar ve fırsatlar DeFi ile önümüze geliyor. Yeni bir dünyanın kapıları önümüzde yavaş yavaş aralanıyor. Bakalım arkasından neler çıkacak?. 
 
 --
 
