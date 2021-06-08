@@ -5,23 +5,23 @@ DeFi hareketinin klasik finansın mevcut sorunlarına çözüm bulma amacıyla y
 
 ### DeFi ile yeni açılımlar ve yeni sorunlar... 
 
-Tabii kişilerin ihtiyaçlarını karşılarken ilk bakılan şu oldu? Kişinin ne ihtiyacı var ve klasik finans bunu nasıl karşılıyor? Biz bunu benzer şekilde karşılayabilir miyiz? Bu çok normal insan tepkisi. Hiç bilmediğiniz bir alana girdiğinizde, eski bildiklerinizi çıkış noktası alırsınız. Bir nevi tutunacak bir dal ararsınız. DeFi'da ilk ortaya çıkan teknolojiler de başta bu şekilde klasik finansı taklit ederek yola koyuldular.
+Tabii kişilerin ihtiyaçlarını karşılarken ilk bakılan şu oldu? Kişinin ne ihtiyacı var ve klasik finans bunu nasıl karşılıyor? Biz bunu benzer şekilde karşılayabilir miyiz? Bu çok normal bir insan tepkisi. Hiç bilmediğiniz bir alana girdiğinizde, eski bildiklerinizi çıkış noktası alırsınız. Bir nevi tutunacak bir dal ararsınız. DeFi'de ilk ortaya çıkan teknolojiler de başta bu şekilde klasik finansı taklit ederek yola koyuldular.
 
 Sonrasında işin rengi yavaş yavaş değişmeye başladı. Öncelikle, DeFi'nin sunduğu farklı imkanları keşfeden insanlar daha talepkar oldular. DeFi, mevcut açık yapısı ile klasik finansın sunamadığı pek çok farklı servisi de insanların hizmetine sundu. Örneğin, bir token almak istiyorsunuz. DeFi dünyasının içinde ilk başlarda bunu yapmak için cüzdanınızı tek tek merkeziyetsiz borsalara bağlamanız ve fiyatları görmeniz gerekiyordu. Artık, cüzdanınızın içinden sekiz-on tane borsanın almak istediğiniz token fiyatlarını anında bulup işlem yapabiliyorsunuz. 
 
-Bunlar işin güzel tarafı. Bir de madalyonun öbür tarafı var. Bu kadar esneklik ve kolaylık bir taraftan da belli açıklar getirebiliyor.. Bu açıklar bir şekilde çözülüyor. Ancak bir de işin temeline dokunan boşluklar var ki, onları çözmek vakit alabilir. İşte onlardan biri de son zamanlarda sık sık duymaya başladığımız flash loan hadisesi.. Gelin bir bakalım ne imiş flash loan, neler yaşanmış bu dünyada, ve nasıl bu boşluklar doldurulabilir:
+Bunlar işin güzel tarafı. Bir de madalyonun öbür tarafı var. Bu kadar esneklik ve kolaylık bir taraftan da belli açıklar getirebiliyor. Bu açıklar bir şekilde çözülüyor. Ancak bir de işin temeline dokunan boşluklar var ki, onları çözmek vakit alabilir. İşte onlardan biri de son zamanlarda sık sık duymaya başladığımız flash loan hadisesi.. Gelin bir bakalım ne imiş flash loan, neler yaşanmış bu dünyada, ve nasıl bu boşluklar doldurulabilir:
 
 ### Olaylar, olaylar 
 
 Efendim, 2020 yılının Şubat ayında bir haber ile sarsıldı DeFi dünyası: '[bZx hacklenmiş](https://cointelegraph.com/news/decentralized-lending-protocol-bzx-hacked-twice-in-a-matter-of-days)'. Hemen arkasından iki gün sonra yeni haber 'bZx tekrar hacklenmiş'.
 
-Sonra Ekim ayında bir haber daha duyduk. '[Value DeFi flash loan atağı yemiş, 6 milyon ABD Doları zarar etmiş](https://news.bitcoin.com/defi-protocol-bragged-having-flash-loan-attack-prevention-hacked-6-million/#:~:text=Value%20Defi%20said%20it%20suffered,million%20in%20DAI%20from%20Uniswap.)' diye. Allah Allah. Ne ola ki bu flash loan' denen 'şey'?. Bak DeFi'nin de açığı çıkmış. 
+Sonra Ekim ayında bir haber daha duyduk. '[Value DeFi flash loan atağı yemiş, 6 milyon ABD Doları zarar etmiş](https://news.bitcoin.com/defi-protocol-bragged-having-flash-loan-attack-prevention-hacked-6-million/#:~:text=Value%20Defi%20said%20it%20suffered,million%20in%20DAI%20from%20Uniswap.)' diye. Allah Allah. Ne ola ki bu flash loan' denen 'şey'? Bak DeFi'nin de açığı çıkmış. 
 
-Sonra Kasım'da [bir daha](https://www.coindesk.com/value-defi-suffers-6m-flash-loan-attack). Sonra bir tane daha. Artık kabak tadı vermeye başladı değil mi?. Neler oluyor dostlar?. Gelin bakalım neler olmuş. 
+Sonra Kasım'da [bir daha](https://www.coindesk.com/value-defi-suffers-6m-flash-loan-attack). Sonra bir tane daha. Artık kabak tadı vermeye başladı değil mi? Neler oluyor dostlar? Gelin bakalım neler olmuş: 
 
 ### Nedir bu flash loan?... 
 
-Normalde kredi aldığınızda karşılığında teminat verirsiniz. DeFi'daki kredi platformlarında da benzer şekilde işliyor:  Verdiğiniz teminatın değeri tipik bir DeFi işleminde aldığınız kredi tutarının yaklaşık 1.5 katı civarında olur... **Flash loan ise teminatsız kredi çekmek, yani herhangi bir teminat göstermeden çok kısa süreli kredi kullanmak demek** 
+Normalde kredi aldığınızda karşılığında teminat verirsiniz. DeFi'deki kredi platformları da benzer şekilde işliyor:  Verdiğiniz teminatın değeri tipik bir DeFi işleminde aldığınız kredi tutarının yaklaşık 1.5 katı civarında olur... **Flash loan ise teminatsız kredi çekmek, yani herhangi bir teminat göstermeden çok kısa süreli kredi kullanmak demek**. 
 
 Nasıl oluyor bu? Şu şekilde: Normalde klasik dünyada al-sat yapanlar gün içinde onlarca yüzlerce işlem yaparlar, gün sonunda da bunların hepsini bir araya getirir ve pozisyonlarını kapatırlar. Yani işlemlerin nihayetlendirilmesi gün sonunda olur. Hatta hesaplaşma (settlement) birkaç gün sürer. 
 
@@ -41,13 +41,13 @@ Hemen hatırlatalım bu işlemleri yapanlar öyle elleri çok hızlı hareket ed
 
 #### Suç Flash Loan'da mı?
 
-Medyaya yansıyan hack olaylarının temel nedeni flash loanlar değil böyle bir arbitraja imkan veren diğer DeFi servisleri aslında. Peki arbitraj imkanı nasıl doğuyor? Kim bu diğer DeFi servisleri?. Her durum farklı ama bir örnek ile açıklayalım: 
+Medyaya yansıyan hack olaylarının temel nedeni flash loanlar değil böyle bir arbitraja imkan veren diğer DeFi servisleri aslında. Peki arbitraj imkanı nasıl doğuyor? Kim bu diğer DeFi servisleri? Her durum farklı ama bir örnek ile açıklayalım: 
 
-Genelde size işlem yaptıracak olan DeFi servisleri işlem yapacağınız token ile ilgili olarak fiyat bilgisini bilgi sağlayıcı oracle servislerinden alırlar (bu konuda oracle nedir ile ilgili [şu yazımızda](/genel/2020/12/22/definin-bilgi-kaynagi-oracle.html), bu oracle hizmet verenlerin en büyüğü olan Chainlink ile ilgili de [şu yazımızda](/genel/2020/12/29/oraclein-lideri-chainlink.html) daha detay bulabilirsiniz). 
+Genelde size işlem yaptıracak olan DeFi servisleri işlem yapacağınız token ile ilgili olarak fiyat bilgisini bilgi sağlayıcı oracle servislerinden alırlar (bu konuda oracle nedir ile ilgili [şu yazımızda](/genel/2020/12/22/definin-bilgi-kaynagi-oracle.html), bu oracle hizmet verenlerin en büyüğü olan Chainlink ile ilgili de [şu yazımızda](/genel/2020/12/29/oraclein-lideri-chainlink.html) daha fazla detay bulabilirsiniz). 
 
 Oracle servisleri manipülasyon olmaması için veriyi birçok farklı yerden alıp damıtır ve ihtiyaç sahibine verirler. Kimi DeFi servisleri ise gerek maliyet gerekse yeterli insan kaynağı olmadığı için bu oracle servislerini kullanmak yerine  bir-iki kaynaktan (örneğin bir merkeziyetsiz borsadan) bilgi alırlar. 
 
-İşte arbitraj yapanlar böyle bir durum gördüklerinde aynı avını bekleyen aslanlar gibi tetiğe geçerler. Likiditenin azaldığı manipülasyon yapılacak uygun zamanda flash loan aracılığıyla kredi çeker, bu kredi ile gider o borsada işlem yaparak token fiyatını oynatır, bu oynayan fiyatı referans olarak kullanan DeFi servisinde işlem yaparlar. İstedikleri kârı elde ettikten sonra da ilk aldıkları krediyi kapatırlar ve bütün bunları bir blok kapanmadan 15 saniye içinde bitirirler!. (Karmaşık görünüyor ama dipnot'ta Şubat 2020'de yaşanan olayı adım adım rakam ve borsa adları ile bulabilirsiniz). 
+İşte arbitraj yapanlar böyle bir durum gördüklerinde aynı avını bekleyen aslanlar gibi tetiğe geçerler. Likiditenin azaldığı manipülasyon yapılacak uygun zamanda flash loan aracılığıyla kredi çeker, bu kredi ile gider o borsada işlem yaparak token fiyatını oynatır, bu oynayan fiyatı referans olarak kullanan DeFi servisinde işlem yaparlar. İstedikleri kârı elde ettikten sonra da ilk aldıkları krediyi kapatırlar ve bütün bunları bir blok kapanmadan 15 saniye içinde bitirirler! (Karmaşık görünüyor ama dipnot'ta Şubat 2020'de yaşanan olayı adım adım rakam ve borsa adları ile bulabilirsiniz). 
 
 'Bir başka deyişle, flash loan isteyen herkesi bir balina haline getiriyor' - [Nikola Jankovic](https://www.bloomberg.com/news/articles/2021-02-07/flash-loans-are-providing-instant-cash-to-crypto-speculators) (DeFi Saver - flash loan sağlayıcısı bir servis). 
 
@@ -55,9 +55,9 @@ Oracle servisleri manipülasyon olmaması için veriyi birçok farklı yerden al
 |:--:| 
 | *Image by [DarkmoonArt_de](https://pixabay.com/users/geralt-9301/) from [Pixabay](https://pixabay.com/)*|
 
-Tabiri caiz ise: **Herhangi bir DeFi ürününde boşluk bulan biri, flash loan kullanarak, eline geçirdiği büyük güç ile bu üründeki boşluğu sonuna kadar sömürüyor**
+Tabiri caiz ise, **herhangi bir DeFi ürününde boşluk bulan biri, flash loan kullanarak, eline geçirdiği büyük güç ile bu üründeki boşluğu sonuna kadar sömürüyor**. 
 
-2020 yılı içinde yaşanan onbeş DeFi saldırısının dokuz tanesinde flash loan kullanılmış, bunlardan beşinde yukarıdaki 'bilgi sağlayıcının manipüle edilmesi' yöntemi kullanılmış. (Detaylı listeyi TheBlock Crypto'nun hazırladığı [Digital Asset 2021 Outlook](https://www.theblockcrypto.com/post/88463/2021-digital-asset-outlook) raporunda bulabilirsiniz.) 
+2020 yılı içinde yaşanan on beş DeFi saldırısının dokuz tanesinde flash loan kullanılmış, bunlardan beşinde yukarıdaki 'bilgi sağlayıcının manipüle edilmesi' yöntemi kullanılmış. (Detaylı listeyi TheBlock Crypto'nun hazırladığı [Digital Asset 2021 Outlook](https://www.theblockcrypto.com/post/88463/2021-digital-asset-outlook) raporunda bulabilirsiniz.) 
 
 ### Yasak mı Flash Loan'lar? Hayır, tam tersi bu hizmeti verenler var
 
