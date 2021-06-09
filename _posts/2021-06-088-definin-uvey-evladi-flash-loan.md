@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "DeFi'nin Üvey Evladı 'Flash Loan'"
+date:   2021-06-08 17:47:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
 
 Bu yazımızda gelin DeFi dünyasında çok konuşulan 'Flash Loan' vakalarının ne anlama geldiğine bakalım.  
 
@@ -92,3 +100,12 @@ Klasik dünyada gördüğümüzden farklı sorunlar ve fırsatlar DeFi ile önü
 - BzX borsası üçüncü adımda verdiği krediden dolayı zarar etti. Zira, 1,1 milyon sUSD aldılar ama verdikleri kredi 6,800 ETH idi. Piyasaya gidip ETH almak istediklerinde 1.1 milyon /268 = 4,100 ETH alabilecekler. Kalan 4,700 ETH'yi bZx'e para vermiş yatırımcılar zarar olarak yazıyorlar.  
 
 Daha da detay arzu ederseniz [şu araştırma raporunun - pdf](https://arxiv.org/pdf/2003.03810.pdf) 8. Sayfasına bakabilirsiniz. 
+
+---
+
+*Not 1: Bu yazı ilk olarak 8 Haziran 2021'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/definin-uvey-evladi-flash-loan/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
+
