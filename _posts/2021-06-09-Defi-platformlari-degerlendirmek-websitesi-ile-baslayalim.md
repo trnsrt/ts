@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "DeFi ürünleri değerlendirmek - web sitesi ile başlayalım"
+date:   2021-06-09 08:47:56 +0300
+categories: Genel
+tags: Yazılar, DeFi, DeFi'ye Giriş
+---
+
 Bu yazı dizimizde, DeFi protokollerini nasıl değerlendirebiliriz konusuna eğileceğiz. İşe ilk olarak protokolün web sitesinden başlıyoruz.
 
 Geçtiğimiz yazılarda önce dört bölüm olarak DeFi dünyasına ilk adım atılırken yapılması gerekenlerden ve cüzdanlardan bahsetmiştik:  👇
@@ -60,3 +68,11 @@ Bir diğer önemli konu projenin başka projeler ile birlikte yaptığı ortakl�
 ### Arkası yarın
 
 Web sitesi bir DeFi projesini incelemek için yolun başı. Serinin diğer yazılarında, ekip ve topluluk ile ilgili diğer konulara birlikte bakacağız.
+
+---
+
+*Not 1: Bu yazı ilk olarak 9 Haziran 2021'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı](https://medium.com/blockchainist-center/defi-protokolleri-nas%C4%B1l-de%C4%9Ferlendirmeli-web-sitesi-i%CC%87le-ba%C5%9Flayal%C4%B1m-f66bb285e493)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.* 
