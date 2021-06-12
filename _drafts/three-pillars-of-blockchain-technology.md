@@ -56,7 +56,7 @@ How are you going to replicate that if your core value is 'eliminate the need fo
 
 The secret recipe that Satoshi Nakamoto has brought to the table, the real innovation was, the consensus mechanism. Consensus mechanism, allows machines to maintain the blockchain system on their own. 
 
-Details of consensus mechanism is a discussion for another day, but was it successful? Well, Bitcoin system has been in effect since Jan 3rd, 2009 and we have not seen any downtime in the system. It has been working like a clockwork for more that 12 years.. Will it continue like that? Well, we will see all together.. 
+Details of consensus mechanism is a discussion for another day, but was it successful? Well, Bitcoin system has been in effect since Jan 3rd, 2009 and we have not seen any downtime in the system. It has been working like a clockwork for more that 12 years. Will it continue like that? We will see all together. 
 
 ### Last word
 Satoshi Nakamoto, the inventor of Bitcoin blockchain, used internet, bring in all the developments in cryptography and then created a consensus mechanism that allows independent machines to work in harmony. By bringing three ingredients, that is internet, cryptography and consensus mechanism, they created a revolutionary mechanism that has potential to change how we do things going forward. We are lucky to witness the birth of this technology and will all see how it will evolve over time. 
