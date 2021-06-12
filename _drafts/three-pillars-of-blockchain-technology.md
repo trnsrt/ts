@@ -1,6 +1,6 @@
 So let's now look at three pillars that has been developed over the years that resulted in emergence of blockchain. In other words, these three ingredients have mixed and cooked together to create a delicious soup for us, the people. 
 
-What are those three ingredients you ask? The internet (the web) itself, cryptography and last but not least consensus mechanism.. 
+What are those three ingredients you ask? The internet (the web) itself, cryptography and last but not least consensus mechanism. 
 
 Let's discuss these three main issues in this post: 
 
@@ -22,8 +22,7 @@ Internet, as available to everybody, has demolished all the barriers to entry. W
 
 Blockchain allows everyone to be a user and a verifier of the system. Not only that, it also allows any machine to be a part ('node' in tech speak) of the system and collaborate. All of this was possible with the help of internet as the main infrastructure. 
 
-Internet or world-wide-web, whichever you want to call it, has developed since 70's and when we start the new millennium has become mature enough to be the major backbone of modern civilization and technologies.. 
-
+Internet or world-wide-web, whichever you want to call it, has developed since 70's and when we start the new millennium has become mature enough to be the major backbone of modern civilization and technologies.
 
 ### Cryptography
 Now, blockchain technology is transparent. That is great. However, financial independence means people and their holdings have certain privacy. 
