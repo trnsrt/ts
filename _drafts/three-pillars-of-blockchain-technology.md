@@ -8,7 +8,7 @@ Let's discuss these three main issues in this post:
 ### Internet
 Internet is the infrastructure, what connects people and machines. 
 
-|![internet](/assets/social-media-3846597_800.png| 
+|![internet](/assets/social-media-3846597_800.png)| 
 |:--:| 
 | *Image by [Gordon Johnson](https://pixabay.com/users/gdj-1086657/) from [Pixabay](https://pixabay.com/)*|
 
@@ -28,7 +28,7 @@ Internet or world-wide-web, whichever you want to call it, has developed since 7
 ### Cryptography
 Now, blockchain technology is transparent. That is great. However, financial independence means people and their holdings have certain privacy. 
 
-|![cryptography](/assets/blockchain-3944194_800.jpg| 
+|![cryptography](/assets/blockchain-3944194_800.jpg)| 
 |:--:| 
 | *Image by [Pete 😀 ](https://pixabay.com/users/thedigitalartist-202249/) from [Pixabay](https://pixabay.com/)*|
 
@@ -50,7 +50,7 @@ Now, you can create scarcity if there is one single authority. You can create di
 
 How are you going to replicate that if your core value is 'eliminate the need for a central authority or intermediary'?. If you are going to distribute the power to thousands of machines that are independent of each other, how are you going to make sure that they move along in a coordinated way and reach a decision?
 
-|![consensus_mechanism](/assets/hands-1697895_800.jpg| 
+|![consensus_mechanism](/assets/hands-1697895_800.jpg)| 
 |:--:| 
 | *Image by [Gerd Altmann](https://pixabay.com/users/geralt-9301/) from [Pixabay](https://pixabay.com/)*|
 
