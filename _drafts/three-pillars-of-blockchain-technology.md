@@ -31,19 +31,18 @@ Now, blockchain technology is transparent. That is great. However, financial ind
 |:--:| 
 | *Image by [Pete 😀 ](https://pixabay.com/users/thedigitalartist-202249/) from [Pixabay](https://pixabay.com/)*|
 
-Why is privacy important? Well this is a topic that requires another post, in fact even a book, but let's keep one thing in mind. Independence means free of censorship. How are you going to ensure that a user's financial holdings would not be confiscated if those in power do not like that person's political views. That sounds like remote idea but ask to those that live under oppressive (or suppressive) regimes.
+Why is privacy important? Well, this is a topic that requires another post, in fact even a book, but let's keep one thing in mind: Independence means free of censorship. How are you going to ensure that a user's financial holdings would not be confiscated if those in power do not like that person's political views? That sounds like a remote idea but ask to those that live under oppressive (or suppressive) regimes.
 
-So how are you going to ensure that people are possessed of certain assets in digital world, without revealing their identity? With cryptography of course. 
+So how are you going to ensure that people are possessed of certain assets in the digital world, without revealing their identity? With cryptography of course.
 
-We are not going to get into details of cryptography in this post. Just bear in mind, this is an area that has been around for decades, and by the time we have come to new millennium it was well researched and quite advanced area. So this was the second pillar of blockchain technologies. 
-
+We are not going to get into the details of cryptography in this post. Just bear in mind, this is an area that has been around for decades, and by the time we have come to the new millennium it was well researched and quite advanced area. So this was the second pillar of blockchain technologies.
 
 ### Consensus mechanism
-This is the real secret part of the recipe here is the consensus mechanism. 
+The real secret part of the recipe here is the consensus mechanism.
 
-So you have internet - which connects users and machines. You have cryptography, which allows users (without revealing their identity) to be on the internet and perform certain activities in a secure way.  But one critical part was missing. 
+So you have internet - which connects users and machines. You have cryptography, which allows users (without revealing their identity) to be on the internet and perform certain activities in a secure way. But one critical part was missing.
 
-Digital technologies, while bringing many advantages to our life, had one drawback. That drawback was the fact that anything digital could be easily copied and reproduces without any major effort. This prevents scarcity in digital goods. Why do we need scarcity? If something can be produced infinitely then that 'thing' would have no value? For an asset to be valuable, it has to finite, in other world there has to be some scarcity around that asset. 
+Digital technologies, while bringing many advantages to our life, had one drawback. That drawback was the fact that anything digital could be easily copied and reproduces without any major effort. This prevents scarcity in digital goods. Why do we need scarcity? If something can be produced infinitely then that 'thing' would have no value? For an asset to be valuable, it has to be finite, in other words there has to be some scarcity around that asset.
 
 Now, you can create scarcity if there is one single authority. You can create digital USD and copy it million times but as long as it was approved and verified by US Fed and by banks authorized by the financial system, that copy would have no value at all.  So that authority defines the amount and ensures that everybody adheres to the rules. 
 
@@ -53,9 +52,9 @@ How are you going to replicate that if your core value is 'eliminate the need fo
 |:--:| 
 | *Image by [Gerd Altmann](https://pixabay.com/users/geralt-9301/) from [Pixabay](https://pixabay.com/)*|
 
-The secret recipe that Satoshi Nakamoto has brought to the table, the real innovation was, the consensus mechanism. Consensus mechanism, allows machines to maintain the blockchain system on their own. 
+The secret recipe that Satoshi Nakamoto has brought to the table, the real innovation was the consensus mechanism. Consensus mechanism, allows machines to maintain the blockchain system on their own.
 
-Details of consensus mechanism is a discussion for another day, but was it successful? Well, Bitcoin system has been in effect since Jan 3rd, 2009 and we have not seen any downtime in the system. It has been working like a clockwork for more that 12 years. Will it continue like that? We will see all together. 
+Details of consensus mechanism is a discussion for another day, but was it successful? Well, Bitcoin system has been in effect since Jan 3rd, 2009 and we have not seen any downtime in the system. It has been working like a clockwork for more than 12 years. Will it continue like this? We will see all together.
 
 ### Last word
 Satoshi Nakamoto, the inventor of Bitcoin blockchain, used internet, bring in all the developments in cryptography and then created a consensus mechanism that allows independent machines to work in harmony. By bringing three ingredients, that is internet, cryptography and consensus mechanism, they created a revolutionary mechanism that has potential to change how we do things going forward. We are lucky to witness the birth of this technology and will all see how it will evolve over time. 
