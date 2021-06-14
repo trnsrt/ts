@@ -6,23 +6,23 @@ Let's discuss these three main issues in this post:
 
 
 ### Internet
-Internet is the infrastructure, what connects people and machines. 
+Internet is the infrastructure that connects people and machines. 
 
 |![internet](/assets/social-media-3846597_800.png)| 
 |:--:| 
 | *Image by [Gordon Johnson](https://pixabay.com/users/gdj-1086657/) from [Pixabay](https://pixabay.com/)*|
 
-The main reason there is a single central authority is logistics purpose. You need one data point to coordinate activities. Eliminating this single centralized unit and distribute this power to many different and independent points requires, above anything else, proper timely communication among those points. 
+A single central authority is mainly required for logistics purposes. You need one data point to coordinate activities. Eliminating this single centralized unit and distributing this power among many independent points requires, above anything else, an almost instant communication among those points.
 
-Internet has enabled that infrastructure. Ability to coordinate instantly, overcoming all the physical boundaries. In other words, even if Einstein would have thought about blockchain technology, that would not be possible at that time. 
+The internet has enabled that infrastructure. Ability to coordinate instantly, overcoming all the physical boundaries. In other words, even if Einstein would have thought about blockchain technology, that would not be possible at that time.
 
-Blockchain technologies, after all are codes written by people. They are kept in servers, and be accessed and maintained by everyone. How? Well, through internet of course. 
+Blockchain technologies, after all are codes written by people. They are kept in servers, and be accessed and maintained by everyone. How? Well, through the internet of course.
 
-Internet, as available to everybody, has demolished all the barriers to entry. With blockchain technology (particularly for public blockchains) it is imperative that everyone has access to the system as long as they have internet connection. Why it is imperative? If you are building a system that is distributed, you need to make sure that everybody trusts this system. How? Make sure that the system is visible to everyone. How visible? All the transactions should be visible. Not only that, they should also be verifiable - by anyone who would like to do so. 
+Internet, available to each and every person, has demolished all the barriers to entry. With blockchain technology (particularly public blockchains) it is imperative that everyone has access to the system as long as they have an internet connection. Why it is imperative? If you are building a system that is distributed then you need to make sure that everybody trusts this system. How? By making the system visible to everyone. Plus, ensuring that all these transactions are verifiable by anyone who would like to do so.
 
-Blockchain allows everyone to be a user and a verifier of the system. Not only that, it also allows any machine to be a part ('node' in tech speak) of the system and collaborate. All of this was possible with the help of internet as the main infrastructure. 
+Blockchain allows everyone to be a user and a verifier of the system. Not only that but it also allows any machine to be a part ('node' in tech speak) of the system and collaborate. All of this was possible with the help of internet being  the main infrastructure.
 
-Internet or world-wide-web, whichever you want to call it, has developed since 70's and when we start the new millennium has become mature enough to be the major backbone of modern civilization and technologies.
+Internet or world-wide-web, whichever you want to call it, has developed since the 70's and when we start the new millennium has become mature enough to be the major backbone of modern civilization and technologies.
 
 ### Cryptography
 Now, blockchain technology is transparent. That is great. However, financial independence means people and their holdings have certain privacy. 
