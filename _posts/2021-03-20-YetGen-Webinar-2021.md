@@ -13,7 +13,7 @@ tags: videos Etkinlikler
 <img src="/assets/yetgen_210320_800.jpg">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/UCOqBGiCtCU?t=10192" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe width="224" height="126" src="https://www.youtube.com/embed/UzMInOO0ec0" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Yayından bir görüntü 
