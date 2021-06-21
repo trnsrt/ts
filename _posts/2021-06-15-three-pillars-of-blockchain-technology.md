@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Three pillars of Blockchain"
+date:   2021-06-15 17:47:56 +0300
+categories: Genel
+tags: Yazılar, Articles
+---
+
 So let's now look at three pillars that has been developed over the years that resulted in emergence of blockchain. In other words, these three ingredients have mixed and cooked together to create a delicious soup for us, the people. 
 
 What are those three ingredients you ask? The internet (the web) itself, cryptography and last but not least consensus mechanism. 
@@ -58,3 +66,8 @@ Details of consensus mechanism is a discussion for another day, but was it succe
 
 ### Last word
 Satoshi Nakamoto, the inventor of Bitcoin blockchain, used internet, bring in all the developments in cryptography and then created a consensus mechanism that allows independent machines to work in harmony. By bringing three ingredients, that is internet, cryptography and consensus mechanism, they created a revolutionary mechanism that has potential to change how we do things going forward. We are lucky to witness the birth of this technology and will all see how it will evolve over time. 
+
+---
+*This piece is [first published](https://medium.com/bcistcenter/three-pillars-of-blockchain-technology-11cf7e6770e) in [BlockchainIST Center](https://medium.com/blockchainist-center) on June 15th, 2021.*
+
+*None of the views expressed in this article should be considered as investment advice*
