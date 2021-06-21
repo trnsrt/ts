@@ -14,7 +14,7 @@ tags: videos Etkinlikler
 <img src="/assets/BloombergHT-210618_800.png">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube/embed/7Qjh5HATOtY" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe width="224" height="126" src="https://www.youtube.com/embed/7Qjh5HATOtY" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Yayından bir görüntü 
