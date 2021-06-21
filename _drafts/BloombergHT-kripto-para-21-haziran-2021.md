@@ -23,3 +23,5 @@ Yayından bir görüntü
 <p>Bu da yayının YouTube linki</p>
 </td></tr> 
 </table>
+
+[url=https://www.hizliresim.com/fjj5u41][img]https://i.hizliresim.com/fjj5u41.png[/img][/url]
