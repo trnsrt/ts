@@ -78,7 +78,7 @@ Kripto dünyasına geçiş ile birlikte, girişimlerin yatırımcılar ile olan 
 
 ---
 
-*Not 1: Bu yazı ilk olarak 24 Haziran 2021'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı](https://medium.com/blockchainist-center/defi-protokolleri-nas%C4%B1l-de%C4%9Ferlendirmeli-web-sitesi-i%CC%87le-ba%C5%9Flayal%C4%B1m-f66bb285e493)*
+*Not 1: Bu yazı ilk olarak 24 Haziran 2021'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı](https://medium.com/blockchainist-center/kripto-d%C3%BCnyas%C4%B1nda-de%C4%9Fi%C5%9Fen-giri%C5%9Fimci-yat%C4%B1r%C4%B1mc%C4%B1-i%CC%87li%C5%9Fkisi-b5e54676180f)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
