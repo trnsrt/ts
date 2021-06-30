@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Goldman Sachs, JPMorgan ve Ethereum aynı cümlede geçer mi?"
+date:   2021-06-29 17:47:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
 Bu satırlarda DeFi yani merkeziyetsiz finanstan bahsederken, ağırlıklı olarak, kişiden kişiye işlemlerde kullanılan blokzincir uygulamalarına değiniyoruz. Bunun temel nedeni, 2020 yılının ortalarından itibaren bu alanda adeta bir patlama yaşanmış olması. 
 
 Kurumsal alanda blokzincir uygulamalarında ise, 2016-2019 yıllarında sıkça okuduğumuz PR içerikli haberler sonrası son dönemde bir yavaşlama söz konusuydu. Özellikle bu alanda en çok adı geçen [Hyperledger](https://www.hyperledger.org/) oluşumunun önde gelen temsilcilerinden IBM'in Blockchain ekibinde yeni bir düzenlemeye gittiği [haberleri](https://www.coindesk.com/ibm-blockchain-revenue-misses-job-cuts-sources) pek çok kişi tarafından "kapalı blokzincirlerin helvasını yeme vakti geldi" şeklinde algılandı. 
@@ -44,3 +52,12 @@ Yukarıda detaylarını paylaştığımız işlem, gerek repo piyasasına hız k
 Kurumlar arasındaki özel blokzincir çözümleri için bile güvenlik ve standart olarak açık bir blokzincirin kullanılması, kapalı/açık blokzincir ayrımı yerine, artık hibrit yapıların ön plana çıkacağının bir göstergesi. Ayrıca, Ethereum'un artık yetkinliğini kanıtlamaya başladığının bir başka örneği. Birbirleri ile acımasızca rekabet eden Wall Street devlerinin, iş maliyetleri kısmaya gelince nasıl bir araya geldiklerini görmek gerçekten göz yaşartıcı ama bunun blokzincirin 'tarafsız' özelliği sayesinde gerçekleşebildiğini de gözden kaçırmamak gerekiyor.
 
 Hayatımıza yeni girmeye başlayan blokzincir teknolojileri, sadece kişiler arası değil, yukarıdaki örnekte de gördüğümüz gibi kurumlar arasında da yavaş yavaş kabul görmeye başlıyor. Standartlar oturdukça, kurumlar kültürel olarak bu teknolojilere daha da aşina oldukça, bu konuda örneklerin artması beklenebilir. Sonuçta 'para konuşur'.
+
+
+---
+
+*Not 1: Bu yazı ilk olarak 29 Haziran 2021'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/goldman-sachs-jpmorgan-ve-ethereum-ayni-cumlede-gecer-mi/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
