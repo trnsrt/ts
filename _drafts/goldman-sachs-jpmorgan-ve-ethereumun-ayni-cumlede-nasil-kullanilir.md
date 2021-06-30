@@ -4,9 +4,16 @@ Kurumsal alanda blokzincir uygulamalarında ise, 2016-2019 yıllarında sıkça 
 
 Son dönemde medyaya yansıyan son iki haber ise, "Bu alanda tekrar bir canlanma mı var?" sorusunu akıllara getiriyor. 
 
-Bunlardan ilki olan Avrupa Yatırım Bankası'nın 100 milyon Avro'luk tahvil ihracı, kurumlar arası gerçekleşen kapalı bir satışın halka açık Ethereum blokzinciri kullanılarak gerçekleştirilmesi nedeniyle, ilginç bir deney olarak algılandı. (Bu ihracı detaylı olarak incelediğimiz yazımızı [şurada](/genel/2021/05/18/finans-piyasalarda-bir-ilk-EIBnin-ethereum-uzerindeki-bono-ihraci.html) bulabilirsiniz). 
+Bunlardan ilki olan Avrupa Yatırım Bankası'nın 100 milyon Avro'luk tahvil ihracı, kurumlar arası gerçekleşen kapalı bir satışın halka açık Ethereum blokzinciri kullanılarak gerçekleştirilmesi nedeniyle, ilginç bir deney olarak algılandı. (Bu ihracı detaylı olarak incelediğimiz yazımızı [şurada](/genel/2021/05/18/finans-piyasalarda-bir-ilk-EIBnin-ethereum-uzerindeki-bono-ihraci.html) bulabilirsiniz).
 
-Geçtiğimiz hafta 'ajanslara düşen' ikinci bir haberde ise, Wall Street'in en prestijli kurumlarından [Goldman Sachs](https://www.goldmansachs.com/)'in, rakibi JPMorgan'ın kurmuş olduğu blokzincir ağına dahil olup [işlem yapmaya başladığını okuduk](https://www.bloomberg.com/news/articles/2021-06-22/goldman-sachs-begins-trading-on-jpmorgan-repo-blockchain-network?sref=VB9Y24MI). Wall Street bankalarınının, müşterilerin ihtiyaçlarını karşılamak için işlem bazlı işbirliklerini sıkça görürüz (örneğin sendikasyonlar) ancak birbirine azılı rakip iki bankadan birinin diğerinin ağına dahil olması nereden bakarsanız bakın ilginç bir haber. Gelin detaylarına birlikte göz atalım: 
+Geçtiğimiz hafta 'ajanslara düşen' ikinci bir haberde ise, Wall Street'in en prestijli kurumlarından [Goldman Sachs](https://www.goldmansachs.com/)'in, rakibi JPMorgan'ın kurmuş olduğu blokzincir ağına dahil olup [işlem yapmaya başladığını okuduk](https://www.bloomberg.com/news/articles/2021-06-22/goldman-sachs-begins-trading-on-jpmorgan-repo-blockchain-network?sref=VB9Y24MI). Wall Street bankalarınının, müşterilerin ihtiyaçlarını karşılamak için işlem bazlı işbirliklerini sıkça görürüz (örneğin sendikasyonlar) ancak birbirine azılı rakip iki bankadan birinin diğerinin ağına dahil olması nereden bakarsanız bakın ilginç bir haber. 
+
+
+| ![euro](/assets/ibex-2462568_800.jpg)|
+|:--:| 
+| *Image by [suju-foto](https://pixabay.com/users/suju-foto-165106/) from [Pixabay](https://pixabay.com/)*|
+
+Gelin detaylarına birlikte göz atalım: 
 
 ### Wall Street'in blokzincir ile imtihanı
 Goldman Sachs, JPMorgan tarafından repo/ters-repo işlemlerinde kullanılmak üzere kurulan blokzincire katılarak, 17 Haziran 2021'de miktarı açıklanmayan bir işlem gerçekleştirdi. 
