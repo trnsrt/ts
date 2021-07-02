@@ -38,9 +38,9 @@ The main contributor to Bitcoin, the first real-life use case of blockchain tech
 
 
 References: 
-https://medium.com/blockwhat/82-the-birth-of-digital-cash-ea08b53379d8
-https://en.wikipedia.org/wiki/David_Chaum
-https://fourweekmba.com/history-of-bitcoin/
-https://en.wikipedia.org/wiki/Nick_Szabo
-https://www.forbes.com/sites/andygreenberg/2014/03/25/satoshi-nakamotos-neighbor-the-bitcoin-ghostwriter-who-wasnt/?sh=66ae17944a37
+- https://medium.com/blockwhat/82-the-birth-of-digital-cash-ea08b53379d8
+- https://en.wikipedia.org/wiki/David_Chaum
+- https://fourweekmba.com/history-of-bitcoin/
+- https://en.wikipedia.org/wiki/Nick_Szabo
+- https://www.forbes.com/sites/andygreenberg/2014/03/25/satoshi-nakamotos-neighbor-the-bitcoin-ghostwriter-who-wasnt/?sh=66ae17944a37
 
