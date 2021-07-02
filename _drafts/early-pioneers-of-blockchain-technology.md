@@ -1,26 +1,32 @@
+Although the 'Satoshi Nakamoto' is associated with Bitcoin and related blockchain technology, there were many early contributors that heavily influenced Satoshi. Let's have a look at three of them today:
+
 Our last post was about the three fundamental ingredients of blockchain technology. 👇
 
 
-We have discussed that, the key concept Satoshi brought to the table was the consensus mechanism (known as Nakamoto consensus). This innovation enables machines work independently, yet move forward without getting orders from a central authority.
+We have discussed that the key concept Satoshi brought to the table was the consensus mechanism (known as Nakamoto consensus). This innovation enables machines to work independently, yet move forward without getting orders from a central authority.
+
 In this post, we are going to talk about other key contributors to the blockchain technology. There are many of them and due to space constraints we will focus on three of these pioneers.
 
+|![pionners](/assets/rhon-1985183_800.jpg)| 
+|:--:| 
+| *Image by [Ruth Reetz](https://pixabay.com/users/r_reetz-4037032/) from [Pixabay](https://pixabay.com/)*|
+
 ### David Chaum
-<img align="left" src="/assets/Chaum_v2.jpg" style="width:40%; padding-right:20px"> [David Chaum](https://twitter.com/chaumdotcom) is known as the inventor of digital cash. As one of the leading technical figures in cypherpunk movement, his dissertation thesis from University of California computer science department in 1982, was known as the first proposal for blockchain protocol. Among his many inventions and projects, DigiCash was the most prominent and ground breaking one. (Photo: CC BY 2.5 <https://creativecommons.org/licenses/by/2.5>, via Wikimedia Commons)
+<img align="left" src="/assets/Chaum_v2.jpg" style="width:40%; padding-right:20px"> [David Chaum](https://twitter.com/chaumdotcom) is known as the inventor of digital cash. As one of the leading technical figures in the [cypherpunk](https://en.wikipedia.org/wiki/Cypherpunk) movement, his dissertation thesis from the University of California computer science department in 1982, was known as the first proposal for blockchain protocol. Among his many inventions and projects, DigiCash was the most prominent and groundbreaking one. (Photo: CC BY 2.5 <https://creativecommons.org/licenses/by/2.5>, via Wikimedia Commons)
 
-[DigiCash](https://www.chaum.com/ecash/) was founded in 1990 but their main invention eCash has come to life in 1993. eCash was the first version of digital money with strong privacy attributes. However, it was a centralized and even though the company managed to team up with couple of banks, David Chaum refused to take the product to the next level. One key example was his refusal to accept the offer from Bill Gates to put eCash into every copy of Windows. In the end, eCash could not get enough traction and declared bankruptcy in 1998. 
+[DigiCash](https://www.chaum.com/ecash/) was founded in 1990 but their main invention eCash has come to life in 1993. eCash was the first version of digital money with strong privacy attributes. However, it was centralized and even though the company managed to team up with a couple of banks, David Chaum refused to take the product to the next level. One key example was his refusal to accept the offer from Bill Gates to put eCash into every copy of Windows. In the end, eCash could not get enough traction and declared bankruptcy in 1998. 
 
-Even though eCash did not end up successful, it still paved the way for other inventions, by creating a digital money that is secured by digital signatures, which gives the power to individuals rather than central authorities. 
+Even though eCash did not end up successful, it still paved the way for other inventions, such as creation of digital money that is secured by digital signatures, which gives the power to individuals rather than central authorities.
 
 ### Nick Szabo
-<img align="left" src="/assets/nick_szabo_250.jpg" style="width:40%; padding-right:20px"> [Nick Szabo](https://twitter.com/nickszabo4), is one the leading pioneers of the blockchain technology whose project is regarded as an early version of Bitcoin architecture. (Photo: [Twitter](https://twitter.com/thebitcoinconf/status/1181597187400228866))
+<img align="left" src="/assets/nick_szabo_250.jpg" style="width:40%; padding-right:20px"> [Nick Szabo](https://twitter.com/nickszabo4), is one of the leading pioneers of the blockchain technology whose project is regarded as an early version of Bitcoin architecture. (Photo: [Twitter](https://twitter.com/thebitcoinconf/status/1181597187400228866))
+While David Chaum's eCash project failed, Nick Szabo, created a decentralized version of digital money, called 'bit gold', around the same time. In bit gold, he has introduced a the concept of dedicating computer power for solving cryptographic puzzles. Let's briefly explain why this is important:In bit gold, he has introduced a the concept of dedicating computer power for solving cryptographic puzzles. Let's briefly explain why this is important:
 
-While David Chaum's eCash project failed, around the same time, Nick Szabo, created a decentralized version of a digital money, called 'bit gold'. In bit gold, he has introduced a the concept of dedicating computer power for solving cryptographic puzzles. Let's briefly explain why this is important:
-
-A key challenge in digital assets was to solve the 'copy' problem. The fact that anything digital (such a .jpeg) can be easily copied makes it impossible to hold any value. Therefore, you need a central party (such as a notary or a bank) to tell the world that there is only one copy of that asset. Szabo has introduced the concept of 'cryptographic puzzles and solution of it to be a part of the next puzzle'. This innovation has enabled a network of independent computers to agree on the solution of the puzzle to move on to the next one. This way, rather than a central party to decide on the outcome, a network of computers decide on it. This is quite similar to gold, where unlike paper money, it was universally accepted without the approval of any central authority.
+A key challenge in digital assets was to solve the 'copy' problem. The fact that anything digital (such a 'jpeg') can be easily copied makes it impossible to hold any value. Therefore, you need a central party (such as a notary or a bank) to tell the world that there is only one copy of that asset. Szabo has introduced the concept of 'cryptographic puzzles and solution of it to be a part of the next puzzle'. This innovation has enabled a network of independent computers to agree on the solution of the puzzle to move on to the next one. This way, rather than a central party to decide on the outcome, a network of computers decide on it. This is quite similar to gold, where, unlike paper money, it was universally accepted without the approval of any central authority.
 
 Nick Szabo is also the inventor of 'smart contract' concept, which is one of the essential parts of blockchain technologies that focus on decentralized applications such as Ethereum (as a side note: Szabo has no involvement with any of the current smart contract platforms)
 
-Even though he writes sporadically, his posts on his personal blog [unenumerated](https://unenumerated.blogspot.com/) are quite interesting. His blog post on [Money, Blockchains and Social Scalability](https://nakamotoinstitute.org/money-blockchains-and-social-scalability/) is a must-read for those who are interested in this field. 
+Even though he writes sporadically, his posts on his blog [unenumerated](https://unenumerated.blogspot.com/) are quite interesting. His blog post on [Money, Blockchains and Social Scalability](https://nakamotoinstitute.org/money-blockchains-and-social-scalability/) is a must-read for those who are interested in this field. 
 
 Nick Szabo, is also one of the usual suspects for Satoshi Nakamoto even though he vehemently denies it. 
 
@@ -36,7 +42,7 @@ He introduced the reusable-proof-of-work system, an earlier version of the POW c
 Just like Nick Szabo, Hal Finney was also considered as the 'real Satoshi' and he denied it on numerous interviews. 
 
 ### Next: The founder of Bitcoin
-David Chaum, Nick Szabo and Hal Finney have all significantly influenced Satoshi Nakamoto during the early phases of Bitcoin development. Nevertheless, the founder ofBitcoin, the first real-life use case of blockchain technology, is Satoshi Nakamoto and we will discuss him in our next post.
+David Chaum, Nick Szabo and Hal Finney have all significantly influenced Satoshi Nakamoto during the early phases of Bitcoin development. Nevertheless, the founder of Bitcoin, the first real-life use case of blockchain technology, is Satoshi Nakamoto and we will discuss him in our next post.
 
 References: 
 - https://medium.com/blockwhat/82-the-birth-of-digital-cash-ea08b53379d8
