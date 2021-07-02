@@ -35,9 +35,8 @@ He introduced the reusable-proof-of-work system, an earlier version of the POW c
 
 Just like Nick Szabo, Hal Finney was also considered as the 'real Satoshi' and he denied it on numerous interviews. 
 
-### Next: Satoshi Nakamoto
-The main contributor to Bitcoin, the first real-life use case of blockchain technology, is Satoshi Nakamoto and we will discuss him in our next post. 
-
+### Next: The founder of Bitcoin
+David Chaum, Nick Szabo and Hal Finney have all significantly influenced Satoshi Nakamoto during the early phases of Bitcoin development. Nevertheless, the founder ofBitcoin, the first real-life use case of blockchain technology, is Satoshi Nakamoto and we will discuss him in our next post.
 
 References: 
 - https://medium.com/blockwhat/82-the-birth-of-digital-cash-ea08b53379d8
