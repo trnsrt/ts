@@ -53,7 +53,6 @@ Yukarıdaki ilk üç alternatifte de bir "kaybolma" senaryosu var. Web sitesinin
 
 4. Eğer büyük yatırımcı iseniz ve uzun vadeli olarak KriptoPara tutacaksanız, Fiziki Cüzdan (Hardware Wallet) almak.
 
-5. Eğer çok kuşkucu biriyseniz ve hiçbir teknolojik alete güvenmiyorsanız, o zaman yukarıdaki son alternatif olan kağıt kaleme sarılın. Yazın Özel ve Genel Anahtarınızı bir kenara, sonrasında kağıdı kaybetmeyin yeter. 
 
 ### Sonuç
 
