@@ -31,7 +31,7 @@ Nick Szabo, is also one of the usual suspects for Satoshi Nakamoto even though h
 He introduced the reusable-proof-of-work system, an earlier version of the POW concept used in Bitcoin. He was one of the first person who spotted the Bitcoin idea introduced by Satoshi Nakamoto in a cypherpunk mailing list. He worked closely with Nakamoto in drafting the white paper and was the first recipient of Bitcoin sent by Nakamoto. His message about Bitcoin is one of the most iconic tweets: 
 
 <a href="https://twitter.com/halfin/status/1110302988">
-         <img alt="Tweet" src="/assets/hal_finney_tweet_640.png"></a>
+         <img alt="Tweet" src="/assets/hal_finney_tweet_640_v2.png"></a>
 
 Just like Nick Szabo, Hal Finney was also considered as the 'real Satoshi' and he denied it on numerous interviews. 
 
