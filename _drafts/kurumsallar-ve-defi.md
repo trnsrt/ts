@@ -2,7 +2,7 @@ Geçtiğimiz yazılarda, önce Avrupa Yatırım Bankası'nın Ethereum üzerinde
 
 Anlaşılan kurumsalların blokzincire ilgisi bununla sınırlı kalmayacak. Şimdilerde DeFi alanında da kurumsalların ilgisini gösteren yeni gelişmeler ön plana çıkıyor. Yani, aslında 'DeFi' de kurumsalların bu ilgisine boş değil 😁. Son günlerde çıkan birkaç haberi sıralayalım: 
 - Coinbase ve [Compound](https://compound.finance/), kurumsal yatırımcıların DeFi alanında USDC olarak borç verecekleri (bir nevi mevduat yapacakları) yıllık %4 sabit faiz veren bir ürün çıkardığını [açıkladılar](https://medium.com/compound-finance/announcing-compound-treasury-for-businesses-institutions-83d4484fb82e). (Ayrı ayrı açıklansa da, Coinbase'in Compound'un yatırımcısı olması nedeniyle bu iki haberin ilişkili olması ihtimali yüksek)
-- Compound'un en büyük rakibi olan [Aave](https://aave.com/) ise, kurumsal yatırımcılar için Aave Pro isimli [yeni bir DeFi havuzu kuracağını açıklandı](https://twitter.com/TraderNoah/status/1411719489947906048) 
+- Compound'un en büyük rakibi olan [Aave](https://aave.com/) ise, kurumsal yatırımcılar için Aave Pro isimli [yeni bir DeFi havuzu kuracağını açıkladı](https://twitter.com/TraderNoah/status/1411719489947906048). 
 
 Aslında kurumsal yatırımcıların DeFi'ye olan ilgisi yeni başlamadı. ABD ve Avrupa'da mevduat faizlerine düşük hatta negatif faiz verildiği bir dönemde, DeFi'nin yüksek getirilerinin kurumsal yatırımcıların ağzını sulandırdığını söylemek yanlış bir gözlem olmaz. Peki bu yüksek getirilerde 'değirmenin suyu nereden geliyor?'. Bu yazımızda, önce bu soruya yanıt arayalım. Bir sonraki yazımızda da, yukarıda bahsettiğimiz iki haber özelinde DeFi'nin nereye gittiğine bakalım. 
 
@@ -43,7 +43,7 @@ Bir sonraki yazıda, DeFi'nin kurumsallar ile buluşmasının akıllarda yaratt�
 Geçtiğimiz yazıda, DeFi'nin kurumsal yatırımcılar ile buluşması adına yaşanan iki gelişmeden bahsetmiştik. Bu iki gelişmeyi kısaca hatırlarsak, 
 
 - Coinbase ve [Compound](https://compound.finance/), kurumsal yatırımcıların DeFi alanında USDC olarak borç verecekleri (bir nevi mevduat yapacakları) yıllık %4 sabit faiz veren bir ürün çıkardığını [açıkladılar](https://medium.com/compound-finance/announcing-compound-treasury-for-businesses-institutions-83d4484fb82e). (Ayrı ayrı açıklansa da, Coinbase'in Compound'un yatırımcısı olması nedeniyle bu iki haberin ilişkili olması ihtimali yüksek)
-- Compound'un en büyük rakibi olan [Aave](https://aave.com/) ise, kurumsal yatırımcılar için Aave Pro isimli [yeni bir DeFi havuzu kuracağını açıklandı](https://twitter.com/TraderNoah/status/1411719489947906048) 
+- Compound'un en büyük rakibi olan [Aave](https://aave.com/) ise, kurumsal yatırımcılar için Aave Pro isimli [yeni bir DeFi havuzu kuracağını açıkladı](https://twitter.com/TraderNoah/status/1411719489947906048). 
 
 ### DeFi kurumsallar ile nasıl buluşacak?
 
