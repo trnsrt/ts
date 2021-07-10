@@ -22,7 +22,7 @@ Yukarıda bahsettiklerimiz, 2020 yılının Haziran ayından, 2021 yılının ba
 
 | ![compound_rates](/assets/compound_borrowing_rates_800.png)|
 |:--:| 
-| *Kaynak: [TheBlock](https://www.theblockcrypto.com/data/decentralized-finance/cryptocurrency-lending)*|
+| *Compound kredi oranları. Kaynak: [TheBlock](https://www.theblockcrypto.com/data/decentralized-finance/cryptocurrency-lending)*|
 
 Yine de DeFi faizlerinin hâlâ mevcut klasik finans mevduat faizlerinden daha yüksek olduğunu belirtelim. 
 
