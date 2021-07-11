@@ -27,7 +27,7 @@ One of these people was an unknown cypherpunk that uses the pseudonym [Satoshi N
 
 After getting numerous feedback from others, Nakamoto started operating Bitcoin network on January 3, 2009. They (from now on Nakamoto will be addressed as 'they') also put a message. The message is a quote from Times newspaper (from UK), stating "Government on the brink of a second bailout for banks"
 
-| ![genesis_block](/assets/genesis-block_800.png|
+| ![genesis_block](/assets/genesis-block_800.png)|
 |:--:| 
 | *First block in Bitcoin, aka Genesis Block [Source](https://en.bitcoin.it/wiki/Genesis_block)*|
 
@@ -39,7 +39,7 @@ While there were many incidents (such as the famous [pizza order](https://financ
 
 Satoshi themselves wrote a message to the organization, stating that Bitcoin is an experiment and should not be used for such purpose. 
 
-| ![satoshi_message](/assets/satoshi_wikileaks.png|
+| ![satoshi_message](/assets/satoshi_wikileaks.png)|
 |:--:| 
 | *Satoshi's post on Wikileaks accepting Bitcoin [Source](https://bitcointalk.org/index.php?topic=1735.msg26999#msg26999)*|
 
