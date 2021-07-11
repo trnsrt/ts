@@ -31,6 +31,8 @@ Gördüğünüz gibi, her iki ürün de aslında birbirlerine çok benziyorlar. 
 |:--:| 
 |*Image by [Devanath](https://pixabay.com/users/devanath-1785462/) from [Pixabay](https://pixabay.com/)*|
 
+### Sorular, sorular...
+
 Zaman içinde konunun detayları da ortaya çıkacak mutlaka. Şimdiden aklımıza takılan soruları da teker teker şuraya bırakalım: 
 
 - AavePro'nun kurumsal yatırımcılara 'özel bir havuz' kuruyor olması ilginç. Bu havuzun diğer havuzlar ile bir bağlantısı olacak mı? Yoksa bireysel yatırımcılar KYC'nin olmadığı halk plajında deve güreşi yaparken, kurumsallar 'özel kapalı havuzda' kokteyllerini mi yudumluyor olacaklar?
