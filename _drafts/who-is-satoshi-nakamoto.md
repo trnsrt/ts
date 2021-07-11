@@ -6,7 +6,7 @@ categories: Genel
 tags: Yazılar, Articles
 ---
 
-There are many theories about who Satoshi Nakamoto is. Let's briefly look at who he might be
+There are many theories about who Satoshi Nakamoto is. Let's briefly address this 'mystery'. 
 
 Satoshi Nakamoto is the most enigmatic figure in crypto world: Who is he? Why is he missing? Many questions on the identity of the person but let's first look at what she/he/they have done. 
 
