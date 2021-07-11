@@ -35,7 +35,7 @@ This was clearly a message to the existing financial system and how government i
 
 The initial reaction to Bitcoin was mixed. As there were many prior projects which failed grandiosely, many people approached the idea with high degree of suspicion. Even Satoshi themselves said on many forums that this is an experimental initiative. 
 
-While there were many incidents (such as the famous [pizza order](https://finance.yahoo.com/news/bitcoin-pizza-day-sees-first-112000121.html) for 10,000 BTC) that helped Bitcoin recognition, the real leap came in when Wikileaks came into the picture. Wikileaks, a non-profit organization located in US, has published many classified documents leaked from the government sources. As a result, Visa and MasterCard cut Wikileaks merchant access, a huge blow as Wiklileaks was an organization dependent on donations. So they [decided to receive donations through Bitcoin](https://twitter.com/wikileaks/status/80774521350668288). 
+While there were many incidents (such as the famous [pizza order](https://finance.yahoo.com/news/bitcoin-pizza-day-sees-first-112000121.html) for 10,000 BTC) that helped Bitcoin recognition, the real leap came in when Wikileaks came into the picture. Wikileaks, a non-profit organization located in US, has published many classified documents leaked from the government sources. As a result, Visa and MasterCard cut Wikileaks merchant access, a huge blow as Wikileaks was an organization dependent on donations. So they [decided to receive donations through Bitcoin](https://twitter.com/wikileaks/status/80774521350668288). 
 
 Satoshi themselves wrote a message to the organization, stating that Bitcoin is an experiment and should not be used for such purpose. 
 
