@@ -47,7 +47,7 @@ Yakınlaşmanın temel nedeni, müşterilerin farklı ihtiyaçlarını karşıla
 
 ---
 
-*Not 1: Bu yazı ilk olarak 13 Temmuz 2021'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/goldman-sachs-jpmorgan-ve-ethereum-ayni-cumlede-gecer-mi/)*
+*Not 1: Bu yazı ilk olarak 19 Temmuz 2021'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/goldman-sachs-jpmorgan-ve-ethereum-ayni-cumlede-gecer-mi/)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
