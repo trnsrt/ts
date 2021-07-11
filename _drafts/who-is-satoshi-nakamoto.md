@@ -49,9 +49,9 @@ When his request remain unanswered, Satoshi stopped being active in the communit
 
 There are various scenarios and candidates on who Satoshi is. Most centered around Dorian Nakamoto a Japanese scientist, who denied being Satoshi. 
 
-Another was Craight Wright, the inventor of Bitcoin SV, who himself claimed he is the Satoshi Nakamoto - however many people in the community dispute his claim. 
+Another was [Craight Wright](https://en.wikipedia.org/wiki/Craig_Steven_Wright), the inventor of Bitcoin SV, who himself claimed he is the Satoshi Nakamoto - however many people in the community dispute his claim. 
 
-A third possible candidate is Nick Szabo, who is a leading expert in cryptography. Lastly Hal Finney, who received the first bitcoin from Satoshi Nakamoto is seen as a potential candidate. 
+A third possible candidate is [Nick Szabo](https://twitter.com/nickszabo4), who is a leading expert in cryptography. Lastly Hal Finney, who received the first bitcoin from Satoshi Nakamoto is seen as a potential candidate. 
 
 ### Does it really matter who Satoshi is?
 
