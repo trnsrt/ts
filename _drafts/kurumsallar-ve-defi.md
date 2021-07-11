@@ -16,6 +16,10 @@ En önemli nedeni, genel olarak DeFi piyasasında yaşanan hızlı yükseliş r�
 
 Bir diğer neden, borç alma-verme protokollerinin, özellikle likidite kazanmak (bu onların için can suyu demek) ve ürünlerinin kullanımını teşvik etmek amacıyla, ilk faaliyete geçtiklerinde dağıttıkları yönetim tokenleri. Mevduat yapma ya da kredi kullanma karşılığı kazanılan bu tokenler, borsalarda hemen işlem görebildiler (herhangi bir süre elde tutma zorunluluğu olmadan). Bu sayede, örneğin, kredi kullanan kullanıcılar, ödedikleri kredi faizinin kat be kat üzerinde getiriler sağlayabildiler. Bunu bir nevi, girişim sermayelerinin (İngilizce'de 'Venture Capital') girişimlere erken yatırım yapma karşılığı yüksek getiri kazanma stratejisine benzetebilirsiniz. DeFi protokollerinin geniş kesimlere yayılmasına yardımcı olan erken kullanıcılar, bu strateji sayesinde ciddi getiriler elde ettiler. 
 
+| ![growth](/assets/growth-4822683_800.jpg)|
+|:--:| 
+|*Image by [Tumisu](https://pixabay.com/users/tumisu-148124/) from [Pixabay](https://pixabay.com/)*|
+
 Yukarıda bahsettiklerimiz, 2020 yılının Haziran ayından, 2021 yılının bahar aylarına kadar yaşanan bir süreç. Aslında bakarsanız bir nevi bireysel yatırımcının DeFi ile yaşadığı 'balayı'. Her güzel 'şey' gibi bunun da bir sonu var tabii. 
 
 Öncelikle, bu tokenler sonsuza kadar dağıtılmıyor, bir noktada bitiyor. Öte yandan, dağıtılan token rakamı da genelde sabit ve yapılan işlem hacmine bölünerek kullanıcılara veriliyor. Bu alana kayan para miktarı arttıkça, dağıtılan bu tokenlerden alınan pay da oransal olarak azaldı. Bir de genel olarak Bitcoin başta olmak üzere kriptoparaların değerlerinde yaşanan azalma, tokenlerden kazanılan getirilerin de düşmesine neden oldu. İşte bunlardan ötürü, bu alandaki faizlerde son zamanlarda bir düşüş görülmeye başlandı. 
