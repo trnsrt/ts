@@ -27,7 +27,7 @@ Aave ise [bir mektup yayınlayarak](https://twitter.com/TraderNoah/status/141171
 
 Gördüğünüz gibi, her iki ürün de aslında birbirlerine çok benziyorlar. Detayları tam olarak bilemesek de, her iki kurum da Fireblocks ile çalışıyor. Fireblocks özünde saklama ve kriptoya geçiş (on-boarding) hizmeti veren bir 'aracı'. Özellikle, bu alana yeni girmek isteyen kurumsal yatırımcıları, hem karmaşık kripto yönetim işlerinden kurtaran hem de regülasyonlar ile uyumlu işlem yapmasına yardımcı olan bir hizmet sağlayıcı.  
 
-| ![rocks](/assets/rock-4239770_800_800.jpg)|
+| ![rocks](/assets/rock-4239770_800.jpg)|
 |:--:| 
 |*Image by [Devanath](https://pixabay.com/users/devanath-1785462/) from [Pixabay](https://pixabay.com/)*|
 
