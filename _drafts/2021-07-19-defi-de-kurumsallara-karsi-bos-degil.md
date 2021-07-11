@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "DeFi de kurumsallara karşı boş değil"
+date:   2021-07-19 17:47:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
 
 Geçtiğimiz yazıda, DeFi'nin kurumsal yatırımcılar ile buluşması adına yaşanan iki gelişmeden bahsetmiştik. Bu iki gelişmeyi kısaca hatırlarsak, 
 
@@ -20,6 +27,10 @@ Aave ise [bir mektup yayınlayarak](https://twitter.com/TraderNoah/status/141171
 
 Gördüğünüz gibi, her iki ürün de aslında birbirlerine çok benziyorlar. Detayları tam olarak bilemesek de, her iki kurum da Fireblocks ile çalışıyor. Fireblocks özünde saklama ve kriptoya geçiş (on-boarding) hizmeti veren bir 'aracı'. Özellikle, bu alana yeni girmek isteyen kurumsal yatırımcıları, hem karmaşık kripto yönetim işlerinden kurtaran hem de regülasyonlar ile uyumlu işlem yapmasına yardımcı olan bir hizmet sağlayıcı.  
 
+| ![rocks](/assets/rock-4239770_800_800.jpg)|
+|:--:| 
+|*Image by [Devanath](https://pixabay.com/users/devanath-1785462/) from [Pixabay](https://pixabay.com/)*|
+
 Zaman içinde konunun detayları da ortaya çıkacak mutlaka. Şimdiden aklımıza takılan soruları da teker teker şuraya bırakalım: 
 
 - AavePro'nun kurumsal yatırımcılara 'özel bir havuz' kuruyor olması ilginç. Bu havuzun diğer havuzlar ile bir bağlantısı olacak mı? Yoksa bireysel yatırımcılar KYC'nin olmadığı halk plajında deve güreşi yaparken, kurumsallar 'özel kapalı havuzda' kokteyllerini mi yudumluyor olacaklar?
@@ -33,3 +44,11 @@ DeFi, klasik finansın eski, sınırlayıcı ve bürokratik yapısını aşabilm
 Yakınlaşmanın temel nedeni, müşterilerin farklı ihtiyaçlarını karşılama arzusu. Bireylerin ve kurumların ihtiyaç, arzu ve hareket alanları kısıtlı. 
 
 Şahsen, bu iki ürünü, DeFi'nin geniş kesimlere yaygınlaşması açısından olumlu bir adım olarak görüyorum. Özellikle yukarıdaki sorulardan sonuncusu olan 'DeFi, başlangıç ideallerinden uzaklaşıyor mu?' kaygısının ise yersiz olduğuna inanıyorum.  İstek ve ihtiyaç oldukça DeFi ürünleri bu ihtiyaca cevap verecek. Eğer bireyler daha özgür yapılar istiyorlarsa, DeFi protokolleri onlara bu hizmeti sunacak. Kanuni baskılar olursa? O zaman, DAO benzeri merkeziyetsiz yönetim ile herhangi bir coğrafi sınırlamaya tabi olmayan, gerekirse isimsiz kurucular ile ortaya çıkacak (ki zaten var bunlardan) yapılar, Aave ile Compound'un yerini alacak. Bunu yapmak o kadar basit ki. DeFi'nin gücü de buradan geliyor zaten.  
+
+---
+
+*Not 1: Bu yazı ilk olarak 13 Temmuz 2021'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/goldman-sachs-jpmorgan-ve-ethereum-ayni-cumlede-gecer-mi/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
