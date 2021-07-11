@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Early pioneers of Blockchain technology"
+date:   2021-07-05 17:47:56 +0300
+categories: Genel
+tags: Yazılar, Articles
+---
+
 Although the 'Satoshi Nakamoto' is associated with Bitcoin and related blockchain technology, there were many early contributors that heavily influenced Satoshi. Let's have a look at three of them today:
 
 Our last post was about the three fundamental ingredients of blockchain technology. 👇
@@ -51,4 +59,9 @@ References:
 - https://fourweekmba.com/history-of-bitcoin/
 - https://en.wikipedia.org/wiki/Nick_Szabo
 - https://www.forbes.com/sites/andygreenberg/2014/03/25/satoshi-nakamotos-neighbor-the-bitcoin-ghostwriter-who-wasnt/?sh=66ae17944a37
+
+---
+*This piece is [first published](https://medium.com/bcistcenter/early-pioneers-of-blockchain-technology-c69da94b0da8) in [BlockchainIST Center](https://medium.com/blockchainist-center) on July 5th, 2021.*
+
+*None of the views expressed in this article should be considered as investment advice*
 
