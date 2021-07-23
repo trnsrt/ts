@@ -52,7 +52,7 @@ Bir sonraki yazıda, DeFi'nin kurumsallar ile buluşmasının akıllarda yaratt�
 
 ---
 
-*Not 1: Bu yazı ilk olarak 13 Temmuz 2021'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/goldman-sachs-jpmorgan-ve-ethereum-ayni-cumlede-gecer-mi/)*
+*Not 1: Bu yazı ilk olarak 12 Temmuz 2021'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/kurumsallarin-defi-sevdasinin-kaynagi-ne/)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
