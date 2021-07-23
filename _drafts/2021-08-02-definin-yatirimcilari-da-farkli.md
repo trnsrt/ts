@@ -8,7 +8,7 @@ tags: Yazılar, DeFi, DeFi'ye Giriş
 
 Bu yazımızda, değişen yatırımcı-girişimci ilişkisi içinde, herhangi bir DeFi projesini inceler iken yatırımcıları nasıl değerlendirmeli konusuna değineceğiz: 
 
-Bir önceki yazımızda klasik teknoloji dünyasından kripto dünyasına geçişte yaşanan temel felsefik dönüşümden bahsetmiş, geçtiğimiz yazıda ise kurucu ekiplere değinmştik. 👇
+Bir önceki yazımızda klasik teknoloji dünyasından kripto dünyasına geçişte yaşanan temel felsefik dönüşümden bahsetmiş, geçtiğimiz yazıda ise kurucu ekiplere değinmiştik. 👇
 
 
 Şimdi de, teknoloji girişimleri için kritik, kriptolar için ise göreceli daha az öneme sahip olan yatırımcılar konusuna değineceğiz. Kripto alanındaki girişimleri incelerken, yatırımcılarına da bakmakta fayda var. 
