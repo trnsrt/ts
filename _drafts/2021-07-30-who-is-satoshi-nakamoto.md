@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Who is Satoshi Nakamoto?"
-date:   2021-07-19 17:47:56 +0300
+date:   2021-07-30 17:47:56 +0300
 categories: Genel
 tags: Yazılar, Articles
 ---
