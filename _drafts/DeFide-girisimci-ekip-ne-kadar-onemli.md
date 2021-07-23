@@ -16,6 +16,10 @@ Kripto dünyasındaki yeni çıkan protokollerle birlikte girişimcilik ciddi bi
 
 Bunun yerini artık birbirlerine hafifçe bir şekilde bağlanmış bir grup insan görüyoruz. Farklı farklı projelerde aynı anda  çalışıyorlar. Birbirlerini hiç görmemişler. Kripto dünyası çok yeni bir sektör olduğu için geçmiş tecrübeleri oldukça az. 
 
+| ![website](/assets/buddha-1128429_800.jpg)|
+|:--:| 
+| *Image by [Peggy und Marco Lachmann-Anke](https://pixabay.com/users/peggy_marco-1553824/) from [Pixabay](https://pixabay.com/)*|
+
 Eskisinin Silikon Vadisi yatırımcılarının baktığı gibi, projeye %100 bağlılık artık söz konusu değil. Girişimciler eskiden çalıştıkları projelerde devam edebilir, yani aynı anda birden fazla projede de çalışıyor olabilirler. 
 
 ### 'Açık kaynak' etkisi
