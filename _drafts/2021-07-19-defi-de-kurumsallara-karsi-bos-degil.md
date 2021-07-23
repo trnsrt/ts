@@ -8,7 +8,7 @@ tags: Yazılar, DeFi
 
 Geçtiğimiz yazıda, DeFi'nin kurumsal yatırımcılar ile buluşması adına yaşanan iki gelişmeden bahsetmiştik. Bu iki gelişmeyi kısaca hatırlarsak, 
 
-- Coinbase ve [Compound](https://compound.finance/), kurumsal yatırımcıların DeFi alanında USDC olarak borç verecekleri (bir nevi mevduat yapacakları) yıllık %4 sabit faiz veren bir ürün çıkardığını [açıkladılar](https://medium.com/compound-finance/announcing-compound-treasury-for-businesses-institutions-83d4484fb82e). (Ayrı ayrı açıklansa da, Coinbase'in Compound'un yatırımcısı olması nedeniyle bu iki haberin ilişkili olması ihtimali yüksek)
+- Coinbase ve [Compound](https://compound.finance/), kurumsal yatırımcıların DeFi alanında USDC olarak borç verecekleri (bir nevi mevduat yapacakları) yıllık %4 sabit faiz veren bir ürün çıkardıklarını [açıkladı](https://medium.com/compound-finance/announcing-compound-treasury-for-businesses-institutions-83d4484fb82e). (Ayrı ayrı açıklansa da, Coinbase'in Compound'un yatırımcısı olması nedeniyle bu iki haberin ilişkili olması ihtimali yüksek)
 - Compound'un en büyük rakibi olan [Aave](https://aave.com/) ise, kurumsal yatırımcılar için Aave Pro isimli [yeni bir DeFi havuzu kuracağını açıkladı](https://twitter.com/TraderNoah/status/1411719489947906048). 
 
 ### DeFi kurumsallar ile nasıl buluşacak?
@@ -17,7 +17,7 @@ Geçtiğimiz yazıda, DeFi'nin kurumsal yatırımcılar ile buluşması adına y
 
 - Ana işi kripto olmayan işyerleri, Compound Treasury hesabına ABD Doları yollayıp, sonrasında USDC üzerinden yıllık %4 sabit faiz kazanabilecekler.
 - Minimum konacak para miktarının düşük, maksimum tavanın olmadığı, herhangi bir vade içermeyen, para yatırma ve çekmenin 24 saat içinde gerçekleşeceği bir sistem.
-- Müşteriler, Fireblocks üzerinden 'müşterini tanı' (İngilizce'de Know-Your-Customer 'KYC') prosedürlerine tabi olacaklar; anahtar yönetimi, kriptopara satın alımı gibi kompleks işlemler ile uğraşmayacakla; istediklerinde ya da aylık olarak denetlenmiş raporlara ulaşabilecekler.
+- Müşteriler, Fireblocks üzerinden 'müşterini tanı' (İngilizce'de Know-Your-Customer 'KYC') prosedürlerine tabi olacaklar; anahtar yönetimi, kriptopara satın alımı gibi kompleks işlemler ile uğraşmayacaklar; istediklerinde ya da aylık olarak denetlenmiş raporlara ulaşabilecekler.
 
 Aave ise [bir mektup yayınlayarak](https://twitter.com/TraderNoah/status/1411719489947906048) Temmuz ayı içinde AavePro hizmetini lanse edeceğini açıkladı. Ürünün temel özellikleri şu şekilde:
 - Fireblocks tarafından KYC'den geçirilerek temize çıkan işyerleri (İngilizce'de 'Whitelisting'), Aave'nin onlar için yarattığı 'özel' havuzlara ulaşabilecekler
