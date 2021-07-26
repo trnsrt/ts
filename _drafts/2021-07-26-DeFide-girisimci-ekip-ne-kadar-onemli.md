@@ -8,7 +8,7 @@ tags: Yazılar, DeFi, DeFi'ye Giriş
 
 DeFi projelerini incelerken nelere dikkat etmeli konusunu araştırdığımız dizimizin bu bölümünde kurucu ekip var: 
 
-Bir önceki yazımızda klasik teknoloji dünyasından kripto dünyasına geçişte yaşanan temel felsefik dönüşümden bahsetmiştik. Bunun anlamak önemli, zira klasik dünyanın yatırımcı kafası ile bu dünyada yatırım yapmak neredeyse imkansız gibi görünebilir. 
+Bir önceki yazımızda klasik teknoloji dünyasından kripto dünyasına geçişte yaşanan temel felsefik dönüşümden bahsetmiştik. Bunu anlamak önemli, zira klasik dünyanın yatırımcı kafası ile bu dünyada yatırım yapmak neredeyse imkansız gibi görünebilir. 
 
 ### Değişen girişimcilik ve ekipler
 
@@ -20,7 +20,7 @@ Bunun yerini artık birbirlerine hafifçe bir şekilde bağlanmış bir grup ins
 |:--:| 
 | *Image by [Peggy und Marco Lachmann-Anke](https://pixabay.com/users/peggy_marco-1553824/) from [Pixabay](https://pixabay.com/)*|
 
-Eskisinin Silikon Vadisi yatırımcılarının baktığı gibi, projeye %100 bağlılık artık söz konusu değil. Girişimciler eskiden çalıştıkları projelerde devam edebilir, yani aynı anda birden fazla projede de çalışıyor olabilirler. 
+Geçmişteki Silikon Vadisi yatırımcılarının baktığı gibi, projeye %100 bağlılık artık söz konusu değil. Girişimciler eskiden çalıştıkları projelerde devam edebilir, yani aynı anda birden fazla projede de çalışıyor olabilirler. 
 
 ### 'Açık kaynak' etkisi
 
@@ -34,7 +34,7 @@ Bu da, fazla bir insan kaynağına ihtiyaç duymadan, çok hızlı bir şekilde 
 
 ### Sonuç
 
-Peki böyle bir ekibi nasıl değerlendireceğiz? Oldukça zor görünüyor. Doğru. Girişimi ekibi detaylıca değerlendirmek yerine belli kısa yollar kullanılabilir. 
+Peki böyle bir ekibi nasıl değerlendireceğiz? Oldukça zor görünüyor. Doğru. Girişimci ekibi detaylıca değerlendirmek yerine belli kısa yollar kullanılabilir. 
 
 Bunlardan ilki, bizim gibi küçük yatırımcılar için bu kısa yollardan ilki, bu alana emek ve para koymuş büyük yatırımcıların yaptıkları yatırımlara bakmak olabilir. Ya da incelediğimiz girişimlere yatırım yapmış olan yatırımcılara göz atmak. 
 
