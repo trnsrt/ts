@@ -41,3 +41,12 @@ Bunlardan ilki, bizim gibi küçük yatırımcılar için bu kısa yollardan ilk
 Bir diğeri ise, Ziya Paşa'nın ünlü beytindeki şu sözünü kendimize kılavuz edinmek olabilir:  'Ayinesi iştir kişinin lafa bakılmaz'.  Yani, girişimci ekibi didiklemek yerine dikkatimizi ekibin ortaya çıkardığı ürüne vermek. 
 
 Önümüzdeki yazıda DeFi protokollerine yatırım yapan yatırımcılara odaklanacağız. Daha sonraki yazılarda ise, DeFi protokollerini yaratan ekiplerin yaptıklarını nasıl değerlendirmek gerekir konusuna eğileceğiz. 
+
+
+---
+
+*Not 1: Bu yazı ilk olarak 26 Temmuz 2021'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı](https://medium.com/blockchainist-center/defide-giri%C5%9Fimci-ekip-ne-kadar-%C3%B6nemli-61d633fe6241)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.* 
