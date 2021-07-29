@@ -11,7 +11,7 @@ Bu yazımızda, değişen yatırımcı-girişimci ilişkisi içinde, herhangi bi
 Bir önceki yazımızda klasik teknoloji dünyasından kripto dünyasına geçişte yaşanan temel felsefik dönüşümden bahsetmiş, geçtiğimiz yazıda ise kurucu ekiplere değinmiştik. 👇
 
 
-Şimdi de, teknoloji girişimleri için kritik, kriptolar için ise göreceli daha az öneme sahip olan yatırımcılar konusuna değineceğiz. Kripto alanındaki girişimleri incelerken, yatırımcılarına da bakmakta fayda var. 
+Şimdi de, teknoloji girişimleri için kritik, kriptolar için ise görece daha az öneme sahip olan yatırımcılar konusuna değineceğiz. Kripto alanındaki girişimleri incelerken, yatırımcılarına da bakmakta fayda var. 
 
 ### Yatırımcılar
 Kripto dünyasının yatımcıları klasik dünyadan oldukça farklılık gösteriyorlar. Öncelikle, hemen belirtelim, klasik dünyada olduğu gibi bu alanda da girişim sermayeleri var. Bu girişim sermayeleri daha çok kripto odaklı fonlardan oluşuyor. 
@@ -28,20 +28,29 @@ Zira artık masada sadece girişimci ve yatırımcı yok. Oluşan katma değerde
 
 Peki yatırımcılar neye yatırım yapıyorlar? Genel olarak, bu ağın çalışması için kullanılan tokenlere. 
 
-Nasıl yatırım yapıyorlar? Burada birkaç farklı yol var, birincisi girişin ilk safhasında girişimciler ile bir anlaşma yapıyor ve ileride çıkarılacak tokenlerın dağıtım tablosunda kendilerine bir pay alıyorlar. Aslında burada da ilişki tamamen bir güven ilişkisi. Zira dijital dünyada özellikle kripto dünyasında yapılan anlaşmaların kanuni olarak yaptırım gücü oldukça zor.  Bunun birkaç nedeni var:
+Nasıl yatırım yapıyorlar? Burada birkaç farklı yol var. Birincisi, girişin ilk safhasında girişimciler ile bir anlaşma yapıyor ve ileride çıkarılacak tokenlerin dağıtım tablosunda kendilerine bir pay alıyorlar. Aslında burada da ilişki tamamen bir güven ilişkisi. Zira dijital dünyada özellikle kripto dünyasında yapılan anlaşmaların kanuni olarak yaptırım gücü oldukça zor.  Bunun birkaç nedeni var:
 
-Öncelikle, dijital dünyada yapılmış bir anlaşmanın hangi fiziki ülke sınırları içinde olacağını belirlemek zor. Kimi zaman, daha çok nispeten daha olgun girişimlerde, girişimi kuranlar bir vakıf altında bir araya gelip kendilerine kanuni bir statü kazandırabiliyorlar. Böyle durumlarda bir ülke kanunları ile belli yaptırımları sağlamak mümkün olabiliyor. Ama pek çok girişimde, özellikle yeni kurulanlarda böyle bir olanak yok. 
+Öncelikle, dijital dünyada yapılmış bir anlaşmanın hangi fiziki ülke sınırları içinde olacağını belirlemek zor. Kimi zaman, daha çok, nispeten daha olgun girişimlerde, girişimi kuranlar bir vakıf altında bir araya gelip kendilerine kanuni bir statü kazandırabiliyorlar. Böyle durumlarda bir ülke kanunları ile belli yaptırımları sağlamak mümkün olabiliyor. Ama pek çok girişimde, özellikle yeni kurulanlarda böyle bir olanak yok. 
 
-Öte yandan, yeni girişimlerin pek çoğunda karşıda bir muhatap yok. Örneğin, kripto dünyasının en büyük opsiyon piyasalarından [Hegic](https://www.hegic.co)'in kurucusu [Molly Wintermute](twitter.com/0mllwntrmt3) takma adlı bir kişi. Gerçek dünyada ortaya çıkmaya bu kişilik, bu rağmen Hegic için ilk token dağıtımında %20 payı ilk yatırımcılara vermiş durumda.  
+Öte yandan, yeni girişimlerin pek çoğunda karşıda bir muhatap yok. Örneğin, kripto dünyasının en büyük opsiyon piyasalarından [Hegic](https://www.hegic.co)'in kurucusu [Molly Wintermute](twitter.com/0mllwntrmt3) takma adlı bir kişi. Gerçek dünyada ortaya çıkmayan bu kişilik, buna rağmen Hegic için ilk token dağıtımında %20 payı ilk yatırımcılara vermiş durumda.  
 
-Bir başka örnek, startup dünyasının ağır toplarından [a16z](https://a16z.com/)'nin kripto [fonunun](https://a16z.com/crypto/) başındaki [Chris Dixon](https://cdixon.org/)'un bir [podcast yayınında](https://shows.banklesshq.com/p/the-fourth-crypto-cycle-chris-dixon), kurucu ekibinin tanımadıkları bir kripto girişimine yatırım yapabileceklerini söylemesi. Bunun temel nedeni ise, **yapılan yatırımın bir şirkete ya da ekibe değil, token satın alarak bir ağa yapılıyor olması**
+Bir başka örnek, startup dünyasının ağır toplarından [a16z](https://a16z.com/)'nin kripto [fonunun](https://a16z.com/crypto/) başındaki [Chris Dixon](https://cdixon.org/)'un bir [podcast yayınında](https://shows.banklesshq.com/p/the-fourth-crypto-cycle-chris-dixon), kurucu ekibinin tanımadıkları bir kripto girişimine yatırım yapabileceklerini söylemesi. Bunun temel nedeni ise, **yapılan yatırımın bir şirkete ya da ekibe değil, token satın alarak bir ağa yapılıyor olması**.
 
 ### Yatırımcılar önemli mi?
 
 Buna rağmen, yatırımcıların tümüyle önemsiz olduğu söylenemez. Özellikle bir DeFi projesine yatırım yapmak istiyorsanız, yatırımcıların kim olduğuna bakmanızda fayda var. Kimi kripto yatırımcıları var ki, adeta altın yumurtlayan tavuk gibiler. Bu fonların yaptıkları yatırımların pek çoğu yatırımcısına ciddi getiriler sağlamış. 
 
-Üstelik, blokzincirin transparan yapısı sayesinde artık yatırımcıların nelere yatırım yaptıklarını web sitelerinden görmenin yanına blokzincir üzerindeki hesaplarında da görebiliyorsunuz. Bunun için oluşturulan özel siteler de var. Örneğin Dove Mountain Partners'a ait [Dove Metrics](https://www.dovemetrics.com/) sitesinde her bir kripto fonunun hangi girişimlere yatırım yaptığını görmek mümkün. 
+Üstelik, blokzincirin transparan yapısı sayesinde artık yatırımcıların nelere yatırım yaptıklarını web sitelerinden görmenin yanında blokzincir üzerindeki hesaplarında da görebiliyorsunuz. Bunun için oluşturulan özel siteler de var. Örneğin Dove Mountain Partners'a ait [Dove Metrics](https://www.dovemetrics.com/) sitesinde her bir kripto fonunun hangi girişimlere yatırım yaptığını görmek mümkün. 
 
-Öte yandan dikkat edilmesi gereken bir başka nokta, bu fonların bir girişime yatırım yaptıkları nokta ile sizin bir bireysel yatırımcı olarak yatırım yaptığının noktanın farklı olduğu. Zira, iki nokta arasındaki zamanda, pek çok gelişme olmuş olabilir. Bu olumlu yönde (ağın kullanımın artması gibi), olabileceği gibi olumsuz yönde (yeni rakiplerin çıkıp pazar payı almaları gibi) olabilir. Zira, fonların hangi değerden yatırım yatırım yaptıkları yani bir token için ne ödedikleri ile sizin satın alırken ne ödeyeceğiniz de getiri anlamında ciddi fark olabilir. Özellikle boğa piyasasında, daha önce yatırım yapmış bir fonun ödediğinden kat be kat fazla ödemek zorunda kalabilecekken, ayı piyasasında daha ucuza token alım fırsatları bile doğabilir. 
+Öte yandan dikkat edilmesi gereken bir başka nokta, bu fonların bir girişime yatırım yaptıkları nokta ile sizin bir bireysel yatırımcı olarak yatırım yaptığınız noktanın farklı olduğu. Zira, iki nokta arasındaki zamanda, pek çok gelişme olmuş olabilir. Bu olumlu yönde (ağın kullanımın artması gibi), olabileceği gibi olumsuz yönde (yeni rakiplerin çıkıp pazar payı almaları gibi) olabilir. Zira, fonların hangi değerden yatırım yaptıkları yani bir token için ne ödedikleri ile sizin satın alırken ne ödeyeceğiniz de getiri anlamında ciddi fark olabilir. Özellikle boğa piyasasında, daha önce yatırım yapmış bir fonun ödediğinden kat be kat fazla ödemek zorunda kalabilecekken, ayı piyasasında daha ucuza token alım fırsatları bile doğabilir. 
 
 Bir sonraki yazımızda, ekibin neler yaptığına ve nasıl çalıştığına dair daha detaylı incelemeler nasıl yapılır, ona bakacağız. Bunlardan biri, ekibin etrafında kümelenmiş olan ağ topluluğu olacak. 
+
+
+---
+
+*Not 1: Bu yazı ilk olarak 2 Ağustos 2021'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı](https://medium.com/blockchainist-center/kripto-d%C3%BCnyas%C4%B1nda-de%C4%9Fi%C5%9Fen-giri%C5%9Fimci-yat%C4%B1r%C4%B1mc%C4%B1-i%CC%87li%C5%9Fkisi-b5e54676180f)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.* 
