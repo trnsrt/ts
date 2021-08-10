@@ -1,4 +1,10 @@
-
+---
+layout: post
+title:  "Dijital Kimlik ve Gelecek"
+date:   2021-08-11 17:47:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
 
 Önümüzdeki dönemde daha sık konuşulmaya başlanan konulardan biri de 'dijital kimlik' olacak. Gelin bu konuda kafa yormaya şimdiden başlayalım: 
 
@@ -49,3 +55,11 @@ Dijital kimlik, önümüzdeki dönemde sıkça konuşacağımız bir konu olacak
 ---
 
 [^1] Bu konuda, başlığını Türkçeye 'Sosyal medya karşılıklı çalışılabilirliğinin zamanı geldi' olarak çevirebileceğimiz '[It’s time for social media interoperability](https://avsa.medium.com/its-time-for-social-media-interoperability-4cee38673fa3)' yazısına göz atabilirsiniz. 
+
+---
+
+*Not 1: Bu yazı ilk olarak 11 Ağustos 2021'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/defi-de-kurumsallara-karsi-bos-degil/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
