@@ -44,4 +44,4 @@ Dijital kimlik, önümüzdeki dönemde sıkça konuşacağımız bir konu olacak
 
 ---
 
-[^1]Bu konuda, başlığını Türkçeye 'Sosyal medya karşılıklı çalışılabilirliğinin zamanı geldi' olarak çevirebileceğimiz '([It’s time for social media interoperability](https://avsa.medium.com/its-time-for-social-media-interoperability-4cee38673fa3)' yazısına göz atabilirsiniz. 
+[^1]Bu konuda, başlığını Türkçeye 'Sosyal medya karşılıklı çalışılabilirliğinin zamanı geldi' olarak çevirebileceğimiz '[It’s time for social media interoperability](https://avsa.medium.com/its-time-for-social-media-interoperability-4cee38673fa3)' yazısına göz atabilirsiniz. 
