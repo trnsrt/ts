@@ -2,17 +2,17 @@
 
 Önümüzdeki dönemde daha sık konuşulmaya başlanan konulardan biri de 'dijital kimlik' olacak. Gelin bu konuda kafa yormaya şimdiden başlayalım: 
 
-Blokzincir teknolojisi bazlı girişimler, 2015-2017 yıllarında özellikle ICO dediğimiz halka arzlar ile çıkışa geçmişti. O zamanlar, elle tutulan bir sonuçtan çok bir tasarım olarak ortada olan bu girişimlerin sonraki yıllarda yavaş yavaş ayağa kalkmaya başladığını gördük. Bu girişimlerden belli bir büyüklüğe ulaşan ilk grup,, 2019 yılından başlayan ama 2020 yılının yaz aylarında artık iyice yükselişe geçen DeFi yani merkeziyetsiz finans oyuncuları oldu.  Sonrasında, non-fungible-token dediğimiz NFT dünyasının ön plana çıkmaya başladığını gördük. NFT henüz emekleme aşamasında olsa da büyük bir potansiyel taşıdığının ipuçlarını şimdiden veriyor. 
+Blokzincir teknolojisi bazlı girişimler, 2015-2017 yıllarında özellikle ICO dediğimiz halka arzlar ile çıkışa geçmişti. O zamanlar, elle tutulan bir sonuçtan çok bir tasarım olarak ortada olan bu girişimlerin sonraki yıllarda yavaş yavaş ayağa kalkmaya başladığını gördük. Bu girişimlerden belli bir büyüklüğe ulaşan ilk grup, 2019 yılından başlayan ama 2020 yılının yaz aylarında artık iyice yükselişe geçen DeFi yani merkeziyetsiz finans oyuncuları oldu.  Sonrasında, non-fungible-token dediğimiz NFT dünyasının ön plana çıkmaya başladığını gördük. NFT henüz emekleme aşamasında olsa da büyük bir potansiyel taşıdığının ipuçlarını şimdiden veriyor. 
 
 İşte dijital kimlik de, 2017 yıllarında çok konuşulan ancak sonrasında DeFi ya da NFT kadar atağa kalkamamış alanlardan bir tanesi. Gelin önce dijital kimlik ne imiş ve blokzincir bu alanda neler yapabilir onu bir hatırlayalım. 
 
 ### 'Dijital Kimlik' hadisesi
 
-Dijital kimlik, özünde biz kullanıcıların dijital dünyada istediğimiz gibi hareket edebilmesi için ihtiyaç duyduğu temel araç. Şu anda hepimiz farklı farklı dijital kimlikler kullanıyoruz zaten. Kamu otoriteleri tarafından verilen kimlikler ve onları dijital versiyonları; finansal kurumlar tarafından uygulanan müşterini-tanı kuralları gereği verdiğimiz bilgiler sonucu aldığımız finansal kimlikler; ya da sosyal medyada oluşturduğumuz kullanıcı adları gibi farklı farklı versiyonlar mevcut. 
+Dijital kimlik, özünde biz kullanıcıların dijital dünyada istediğimiz gibi hareket edebilmesi için ihtiyaç duyduğu temel araç. Şu anda hepimiz farklı farklı dijital kimlikler kullanıyoruz zaten. Kamu otoriteleri tarafından verilen kimlikler ve onların dijital versiyonları; finansal kurumlar tarafından uygulanan müşterini-tanı kuralları gereği verdiğimiz bilgiler sonucu aldığımız finansal kimlikler; ya da sosyal medyada oluşturduğumuz kullanıcı adları gibi farklı farklı versiyonlar mevcut. 
 
-Bütün bu dijital kimliklerin ortak özelliği, merkezi kurumlar tarafından verilmiş olmaları. Bunun sakıncalarının da artık yavaş yavaş ayırdına varıyoruz sanki: Bilgilerin tek bir merkezi veritabanında tutuluyor olması örneğin. 
+Bütün bu dijital kimliklerin ortak özelliği, merkezi kurumlar tarafından verilmiş olmaları. Bunun sakıncalarının da artık yavaş yavaş farkına varıyoruz sanki: Bilgilerin tek bir merkezi veritabanında tutuluyor olması örneğin. 
 
-Veriler neden merkezi bir yerde tutuluyor? Bu sayede kurumlar bilgileri daha verimli/hızlı işleyebiliyorlar. Bir yandan da 'ücretsiz' verilen hizmetlerin arkasında bu bilgileri işleyerek başta reklam olmak üzere başka şirketlere satıyorlar. 
+Veriler neden merkezi bir yerde tutuluyor? Bu sayede kurumlar bilgileri daha verimli/hızlı işleyebiliyorlar. Bir yandan da özellikle sosyal medya devleri 'ücretsiz' verdikleri bu hizmet karşılığı onlara verdiğimiz bilgileri işleyerek başta reklam verenler diğer şirketlere satıyorlar. 
 
 Sorunların temeli de buradan başlıyor işte. Bu veritabanlarının güvenliği oldukça zahmetli, hatta neredeyse imkansız. Sık sık bu veritabanlarının çalındığını ve bilgilerimizin ortaya saçıldığını görüyoruz. Öte yandan, Facebook'un [Cambridge Analityca](https://tr.wikipedia.org/wiki/Facebook-Cambridge_Analytica_veri_skandalı)  skandalından olduğu gibi bilgilerin reklam ötesi kişilerin politik tercihlerini etkilemek için kullanıldığını duyuyoruz. 
 
@@ -20,7 +20,7 @@ Sorunların temeli de buradan başlıyor işte. Bu veritabanlarının güvenliğ
 
 Geçmiş yazılarımızda, Blockchain'in her derde deva bir çözüm olarak sunulmasının sakıncalarından bahsetmiştik. Dijital dünyada kimlik meselesi ise aslında tam da blokzincirin çözebileceği sorunlardan bir tanesi. Neden?
 
-Öncelikle, bir dijital kimliğin üç parçası olduğunu görüyoruz. Kimliği çıkaran, kimliği sahibi kişi, ve hizmet vermek için bu kimliği teyid etmek zorunda olan bir servis sağlayıcı. Blokzincir özünde bu üç gruba da fayda sağlıyor gibi görünüyor. 
+Öncelikle, bir dijital kimliğin üç parçası olduğunu görüyoruz. Kimliği çıkaran, kimlik sahibi ve hizmet vermek için bu kimliği teyid etmek zorunda olan bir servis sağlayıcı. Blokzincir özünde bu üç gruba da fayda sağlıyor gibi görünüyor. 
 
 Blokzincir, kimliği çıkaran kurumları, fiziksel kartların tahrifat ve sahtekarlık olaylara karşı alınan önlemlerin maliyetinden kurtarıyor. Benzer şekilde yukarıda bahsettiğimiz üçüncü grup olan kimlik teyidine ihtiyaç duyan kurumları ise, kullanıcı bilgilerini saklamaktan dolayı ortaya çıkabilecek risklerden koruyor.  
 
