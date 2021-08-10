@@ -8,7 +8,11 @@ Blokzincir teknolojisi bazlı girişimler, 2015-2017 yıllarında özellikle ICO
 
 ### 'Dijital Kimlik' hadisesi
 
-Dijital kimlik, özünde biz kullanıcıların dijital dünyada istediğimiz gibi hareket edebilmesi için ihtiyaç duyduğu temel araç. Şu anda hepimiz farklı farklı dijital kimlikler kullanıyoruz zaten. Kamu otoriteleri tarafından verilen kimlikler ve onların dijital versiyonları; finansal kurumlar tarafından uygulanan müşterini-tanı kuralları gereği verdiğimiz bilgiler sonucu aldığımız finansal kimlikler; ya da sosyal medyada oluşturduğumuz kullanıcı adları gibi farklı farklı versiyonlar mevcut. 
+Dijital kimlik, özünde biz kullanıcıların dijital dünyada istediğimiz gibi hareket edebilmesi için ihtiyaç duyduğu temel araç. Şu anda hepimiz farklı farklı dijital kimlikler kullanıyoruz zaten. Kamu otoriteleri tarafından verilen kimlikler ve onların dijital versiyonları; finansal kurumlar tarafından uygulanan müşterini-tanı kuralları gereği verdiğimiz bilgiler sonucu aldığımız finansal kimlikler; ya da sosyal medyada oluşturduğumuz kullanıcı adları gibi farklı farklı versiyonlar mevcut.
+
+| ![human](/assets/human-1562842_800.jpg)|
+|:--:| 
+| *Image by [Gerd Altmann](https://pixabay.com/users/geralt-9301/) from [Pixabay](https://pixabay.com/)*|
 
 Bütün bu dijital kimliklerin ortak özelliği, merkezi kurumlar tarafından verilmiş olmaları. Bunun sakıncalarının da artık yavaş yavaş farkına varıyoruz sanki: Bilgilerin tek bir merkezi veritabanında tutuluyor olması örneğin. 
 
