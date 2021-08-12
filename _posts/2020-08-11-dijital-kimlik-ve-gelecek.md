@@ -58,7 +58,7 @@ Dijital kimlik, önümüzdeki dönemde sıkça konuşacağımız bir konu olacak
 
 ---
 
-*Not 1: Bu yazı ilk olarak 11 Ağustos 2021'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/defi-de-kurumsallara-karsi-bos-degil/)*
+*Not 1: Bu yazı ilk olarak 11 Ağustos 2021'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/author/turansert/)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
