@@ -58,6 +58,6 @@ A third possible candidate is [Nick Szabo](https://twitter.com/nickszabo4), who 
 As a matter of fact, the identity of Satoshi Nakamoto is totally irrelevant in the current context. Bitcoin itself has grown organically, with the help of volunteers who believed in the idea not the person. Satoshi probably saw the potential of bitcoin and did not want to deal with the legal consequences and decided to withdraw themselves from the spotlight. Another interesting fact is, none of the bitcoin that is owned by Satoshi Nakamoto has moved since they vanished (as bitcoin transactions are totally traceable, we are able to see those bitcoins created by Satoshi and kept in their wallet - which is [estimated to be around 1 million](https://decrypt.co/34810/how-many-bitcoin-does-its-inventor-satoshi-nakamoto-still-own)
 
 ---
-*This piece is [first published](https://medium.com/bcistcenter/who-is-satoshi-nakamoto-83b5f3b0ac2e) in [BlockchainIST Center](https://medium.com/blockchainist-center) on July 19th, 2021.*
+*This piece is [first published](https://medium.com/bcistcenter/who-is-satoshi-nakamoto-83b5f3b0ac2e) in [BlockchainIST Center](https://medium.com/blockchainist-center) on July 31st, 2021.*
 
 *None of the views expressed in this article should be considered as investment advice*
