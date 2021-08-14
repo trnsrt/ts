@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Bitcoin or Blockchain?"
+date:   2021-08-14 17:47:56 +0300
+categories: Genel
+tags: Yazılar, Articles
+---
+
 During 2015-16's, there has been a major discussion among various tech circles. A group of people, which are new to the area, and mostly coming from the corporate side, has voiced a new idea called 'It is Blockchain that matters, not Bitcoin (or cryptocurrencies in that sense)'. 
 
 ## What is the relationship between Bitcoin and Blockchain?
@@ -41,3 +49,8 @@ IBM through Hyperledger was the leader of this initiative. While being a quite h
 We will see. What we know now, is the fact that the flagship [IBM has significantly scaled back its blockchain unit](https://www.coindesk.com/ibm-blockchain-revenue-misses-job-cuts-sources), which was a real blow to proponents of private blockchains.  
 
 We will continue with public blockchains in our following posts. 
+
+---
+*This piece is [first published](https://medium.com/bcistcenter/who-is-satoshi-nakamoto-83b5f3b0ac2e) in [BlockchainIST Center](https://medium.com/blockchainist-center) on August 14th, 2021.*
+
+*None of the views expressed in this article should be considered as investment advice*
