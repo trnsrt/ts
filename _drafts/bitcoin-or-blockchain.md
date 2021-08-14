@@ -6,7 +6,7 @@ Bitcoin, is the first real world adaptation of Blockchain technology. Actually, 
 
 According to Bitcoin maximalists, there is no such separate term as 'Blockchain' but rather, Blockchain is the underlying technology developed thanks to Bitcoin. This is really a 'chicken-and-egg' problem, and quite honestly both sides' arguments have some merit. 
 
-| ![chicken_and_egg](/assets/brain-5814961_800.jpg)|
+| ![chicken_and_egg](/assets/easter-4128118_800.jpg)|
 |:--:| 
 | *Image by [Alexas_Fotos](https://pixabay.com/users/alexas_fotos-686414/) from [Pixabay](https://pixabay.com/)*|
 
