@@ -12,7 +12,7 @@ Matic ekibi, 2021 yılının Şubat ayında ismini Polygon'a çevirdi, ve Ethere
 
 Bu yılın ilk yarısında Ethereum üzerindeki işlem ücretlerinde yaşanan ciddi artış sonrası DeFi dünyasındaki girişimler ve yatırımcılar önce Binance Smart Chain'e (ki o da bir Ethereum klonu) sonra da Matic'e ciddi bir ilgi gösterdiler. 
 
-| ![plaftormlar](/assets/akilli_platform_TVL_800.png|
+| ![plaftormlar](/assets/akilli_platform_TVL_800.png)|
 |:--:| 
 | *Akıllı Kontrat Platformlarına Kilitli Değer. Kaynak [TheBlock](https://www.theblockcrypto.com/data/decentralized-finance/total-value-locked-tvl)*|
 
