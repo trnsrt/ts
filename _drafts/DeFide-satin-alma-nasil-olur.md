@@ -1,4 +1,4 @@
-Bu yazımızda, iki farklı ağ olan Polygon'un Hermez'i nasıl satın aldığına bakacağız:
+Bu yazımızda, gelin iki farklı ağ olan Polygon'un Hermez'i nasıl satın aldığına bakalım.
 
 Geçtiğimiz hafta içinde 'ajanslara bir haber düştü': Ethereum'daki yüksek işlem ücreti sıkıntısı çözmek amacıyla ortaya çıkan Polygon Network, Hermez isimli bir fonu aldığını açıkladı. DeFi'de satın alma ya da birleşme nasıl oluyor? Gelin kısaca bakalım: 
 
