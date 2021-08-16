@@ -1,6 +1,6 @@
-DeFi'de birleşme satın alma nasıl oluyor?
+Bu yazımızda, iki farklı ağ olan Polygon'un Hermez'i nasıl satın aldığına bakacağız:
 
-Geçtiğimiz hafta içinde 'ajanslara bir haber düştü': Ethereum'daki yüksek işlem ücreti sıkıntısı çözmek amacıyla ortaya çıkan Polygon Network, Hermez isimli bir fonu almaya karar verdi. DeFi'de satın alma ya da birleşme nasıl oluyor? Gelin kısaca bakalım: 
+Geçtiğimiz hafta içinde 'ajanslara bir haber düştü': Ethereum'daki yüksek işlem ücreti sıkıntısı çözmek amacıyla ortaya çıkan Polygon Network, Hermez isimli bir fonu aldığını açıkladı. DeFi'de satın alma ya da birleşme nasıl oluyor? Gelin kısaca bakalım: 
 
 ## Polygon nedir? Nasıl çalışır?
 
