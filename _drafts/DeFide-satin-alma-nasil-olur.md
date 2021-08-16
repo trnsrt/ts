@@ -2,6 +2,10 @@ Bu yazımızda, iki farklı ağ olan Polygon'un Hermez'i nasıl satın aldığı
 
 Geçtiğimiz hafta içinde 'ajanslara bir haber düştü': Ethereum'daki yüksek işlem ücreti sıkıntısı çözmek amacıyla ortaya çıkan Polygon Network, Hermez isimli bir fonu aldığını açıkladı. DeFi'de satın alma ya da birleşme nasıl oluyor? Gelin kısaca bakalım: 
 
+| ![merger](/assets/merger-3385425_800.jpg)|
+|:--:| 
+| *Image by [Philip Neumann](https://pixabay.com/users/dcg_mak-5368977/) from [Pixabay](https://pixabay.com/)*|
+
 ## Polygon nedir? Nasıl çalışır?
 
 [Polygon](https://polygon.technology/)'nun tarihçesi aslında 2017 yılına dayanıyor. Hintli bir grup girişimci tarafından ilk olarak Matic adıyla Singapur'da kurulan girişim, kendisine hedef olarak blokzincirlerin ölçeklenme problemini çözmeyi seçiyor. Şu an Ethereum üzerinde yaşanan yoğunluğu düşünürsek, aslında bunun ne kadar öngörülü bir strateji olduğu açık. Ekip, Nisan 2019 yılında yatırımcılardan 5.6 milyon dolar topluyor. Bunu yaparken tokenleri olan MATIC'in tanesini 0.24 centten (0.0024 ABD Doları) satıyorlar.  
