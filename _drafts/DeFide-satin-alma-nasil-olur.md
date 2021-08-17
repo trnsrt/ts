@@ -1,6 +1,6 @@
 Bu yazımızda, gelin iki farklı ağ olan Polygon'un Hermez'i nasıl satın aldığına bakalım.
 
-Geçtiğimiz hafta içinde 'ajanslara bir haber düştü': Ethereum'daki yüksek işlem ücreti sıkıntısı çözmek amacıyla ortaya çıkan Polygon Network, Hermez isimli bir fonu aldığını açıkladı. DeFi'de satın alma ya da birleşme nasıl oluyor? Gelin kısaca bakalım: 
+Geçtiğimiz hafta içinde 'ajanslara bir haber düştü': Ethereum'daki yüksek işlem ücreti sıkıntısını çözmek amacıyla ortaya çıkan Polygon Network, Hermez isimli bir fonu aldığını açıkladı. DeFi'de satın alma ya da birleşme nasıl oluyor? Gelin kısaca bakalım: 
 
 | ![merger](/assets/merger-3385425_800.jpg)|
 |:--:| 
@@ -24,11 +24,11 @@ Bu ilgiden Polygon sisteminin tokeni olan MATIC de payını aldı ve Mayıs 2021
 
 ## Neden Hermez'i satın alıyorlar?
 
-[Hermez](https://hermez.io/), Ethereum ikinci seviye çözümlerden ZK Rollup üzerine yoğunlaşmış yeni bir ekip (Tanıtım dokumanları yani Whitepaper'ları Ekim 2020 tarihli). Üzerinde çalıştıkları projeyi Temmuz 2021'de canlıya geçirerek kullanıcılara sundular.  Hermez'in kullanıcılara sunduğu buZK Rollup ürünün ötesinde, önümüzdeki yıl planladığı [zkEVM adlı yeni bir çözümü](https://blog.hermez.io/introducing-hermez-zkevm/) de bulunmakta. 
+[Hermez](https://hermez.io/), Ethereum ikinci seviye çözümlerden ZK Rollup üzerine yoğunlaşmış yeni bir ekip (Tanıtım dokumanları yani Whitepaper'ları Ekim 2020 tarihli). Üzerinde çalıştıkları projeyi Temmuz 2021'de canlıya geçirerek kullanıcılara sundular.  Hermez'in kullanıcılara sunduğu bu ZK Rollup ürünün ötesinde, önümüzdeki yıl çıkarmayı planladığı [zkEVM adlı yeni bir çözümü](https://blog.hermez.io/introducing-hermez-zkevm/) de bulunmakta. 
 
 Ethereum ölçeklenmesi konusunda standart olmak için yarışan iki temel  çözüm var: Optimistic ve ZK Rollup.  Bunlardan, özellikle Synthetix ve Uniswap'ın tercih etmesi sonucu Optimistic rollup ön plana çıktı. Ancak Ethereum kurucularından Vitalik Buterin'in bu sene başında [yazdığı bir makalede belirttiği](https://vitalik.ca/general/2021/01/05/rollup.html) gibi, Opmistic çözümler kurulumu daha kolay olduğu için ön plana çıksa  da uzun vadede ZK Rollup'ların kazanma ihtimalleri yüksek. Hermez'in sunduğu çözüm, Optimistic'in en büyük avantajı olan Ethereum ağına daha uyumlu olma (EVM uyumluluğu) alanında ZK Rollup'lara arayı kapatma imkanı veriyor. 
 
-Polygon ekibi, mevcut toplam token arzının %20'sini kendi hazinesinde tutuyor. Bu yaklaşık 2 milyar ABD Doları'na eşit bir rakam. Ekip geçenlerde, bu paranın yarısını yani 1 milyar dolarlık kısmını, ZK Rollup çözümleri üzerine harcayacağını açıkladı. Yani bu ikilinin yarışında ZK Rollup tarafının seçtiğini açıkladı. Hermez satın alması da bu planın ilk hamlesi olarak görülebilir. 
+Polygon ekibi, mevcut toplam token arzının %20'sini kendi hazinesinde tutuyor. Bu yaklaşık 2 milyar ABD Doları'na eşit bir rakam. Ekip geçenlerde, bu paranın yarısını yani 1 milyar dolarlık kısmını, ZK Rollup çözümleri üzerine harcayacağını açıkladı. Yani bu ikilinin yarışında ZK Rollup tarafını seçtiğini açıkladı. Hermez satın alması da bu planın ilk hamlesi olarak görülebilir. 
 
 ## Nasıl bir satın alma olacak?
 
