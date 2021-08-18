@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "DeFi'de birleşme/satın alma nasıl oluyor?"
+date:   2021-08-17 17:47:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
 Bu yazımızda, gelin iki farklı ağ olan Polygon'un Hermez'i nasıl satın aldığına bakalım.
 
 Geçtiğimiz hafta içinde 'ajanslara bir haber düştü': Ethereum'daki yüksek işlem ücreti sıkıntısını çözmek amacıyla ortaya çıkan Polygon Network, Hermez isimli bir fonu aldığını açıkladı. DeFi'de satın alma ya da birleşme nasıl oluyor? Gelin kısaca bakalım: 
@@ -47,3 +55,13 @@ Polygon'un bu satın almasını, 'yeni teknoloji geliştirmeyi beceremediler, on
 Nedeni ne olursa olsun bu satın alma Polygon açısından, geçtiğimiz aylarda yaşadıkları büyük yükselişi sürdürmek ve ileride çıkabilecek tehditleri fırsatlara döndürmek anlamında mantıklı bir hareket gibi görünüyor. Üstelik tokenlerinin fiyatı hazır rekor seviyelerde iken bunu gerçekleştirmek oldukça akıllıca. 
 
 Önümüzdeki dönemde, Vitalik'in ve Polygon'un beklediği gibi ZK Rollup'lar Ethereum ikinci seviyenin standart çözümü mü olacak, onu hep birlikte göreceğiz. Öte yandan DeFi dünyasında buna benzer satın alma/birleşme hareketlerini sıkça yaşayacağımız ise neredeyse kesin gibi. 
+
+
+
+---
+
+*Not 1: Bu yazı ilk olarak 17 Ağustos 2021'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/defide-birlesme-satin-alma-nasil-oluyor/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
