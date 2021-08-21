@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bitcoin or Blockchain?"
-date:   2021-08-14 17:47:56 +0300
+date:   2021-08-21 17:47:56 +0300
 categories: Genel
 tags: Yazılar, Articles
 ---
@@ -53,6 +53,6 @@ We will see. What we know now, is the fact that the flagship [IBM has significan
 We will continue with public blockchains in our following posts. 
 
 ---
-*This piece is [first published](https://medium.com/bcistcenter/who-is-satoshi-nakamoto-83b5f3b0ac2e) in [BlockchainIST Center](https://medium.com/blockchainist-center) on August 14th, 2021.*
+*This piece is [first published](https://medium.com/bcistcenter/bitcoin-or-blockchain-73942579255c) in [BlockchainIST Center](https://medium.com/blockchainist-center) on August 21st, 2021.*
 
 *None of the views expressed in this article should be considered as investment advice*
