@@ -10,7 +10,7 @@ Let's have a look at the philosophy behind Bitcoin:
 
 Close followers of this column would remember that we looked into Blockchain philosophy [couple of post ago](/genel/2021/05/25/philosophy-behind-blockchain.html). Then in previous post, we talked about [the difference between Blockchain and Bitcoin]. In order to have a comprehensive understanding of the issue, this time, let's dive into the philosophy of Bitcoin. 
 
-Bitcoin is the first real life use case of blockchain technology. Its origins date back to [Cypherpunk movement which we also covered in a prior post](/genel/2021/04/30/power-to-the-users.html)
+Bitcoin is the first real life use case of blockchain technology. Its origins date back to Cypherpunk movement which we also covered [in a prior post](/genel/2021/04/30/power-to-the-users.html).
 
 In essence, Cypherpunks believe in free software to be used and shared among people to defend themselves against corporates and governments. The open-source movement, which mainly used by created free software that compete with licensed products (such as Open -or Libra- Office vs. Microsoft Office suite). However, while such developments  have been passionately pushed forward by enthusiasts, monetization of such initiatives have always been a weak point. 
 
