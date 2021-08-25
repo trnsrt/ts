@@ -8,7 +8,7 @@ tags: Yazılar, Articles
 
 Let's have a look at the philosophy behind Bitcoin:
 
-Close followers of this column would remember that we looked into Blockchain philosophy [couple of post ago](/genel/2021/05/25/philosophy-behind-blockchain.html). Then in previous post, we talked about [the difference between Blockchain and Bitcoin]. In order to have a comprehensive understanding of the issue, this time, let's dive into the philosophy of Bitcoin. 
+Close followers of this column would remember that we looked into Blockchain philosophy [couple of post ago](/genel/2021/05/25/philosophy-behind-blockchain.html). Then in [our previous post](/genel/2021/08/21/bitcoin-or-blockchain.html), we talked about the difference between Blockchain and Bitcoin. In order to have a comprehensive understanding of the issue, this time, let's dive into the philosophy of Bitcoin. 
 
 Bitcoin is the first real life use case of blockchain technology. Its origins date back to Cypherpunk movement which we also covered [in a prior post](/genel/2021/04/30/power-to-the-users.html).
 
