@@ -12,7 +12,7 @@ Bu yazımızda DeFi'nin en önemli parçalarından biri olan topluluktan bahsede
 
 Geçmişin klasik startup dünyasından kripto dünyasına geçerken yaşanan değişikliklerden bir diğeri de, eski dünyanın bu iki ana aktörünün yanına yeni aktörlerin katılması oldu. Bunlardan biri ve belki de en önemlisi topluluk. 
 
-##Topluluk neden önemli?
+### Topluluk neden önemli?
 Kripto dünyasında topluluğun öne çıkmasının birkaç nedeni var. Bunlardan en önemlisi, girişimlerin artık kapalı kapılar ardında, ufak bir ekip ile yatırımcılar arasında büyütülen yapılar olmaktan çıkması. 
 
 Yeni dünyada, girişimcilerin fikirlerini hayata geçirmesi için gereken zaman son derece kısa. Eskinin, aylarca süren çalışmaları, yatırımcılar ile görüşüp yatırım almaya çalıştığı günler artık yok. Bun durumun en temel nedenlerinden DeFi dünyasının açık kaynak kodlu olarak yürümesi. Bu ne getiriyor? Girişimlerin artık sıfırdan başlamalarına gerek yok. Zaten ortada geliştirilmiş ve kullanılan bir yazılım var. Girişimin yapması gereken, bu yazılımı almak ve belli eklemeler yaparak kullanıcıların beğenisine sunma.  İşte bu durum, kripto dünyasındaki yatırımların çok hızlı gelişmesine neden oluyor. 
