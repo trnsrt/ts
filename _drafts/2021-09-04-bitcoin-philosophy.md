@@ -30,7 +30,6 @@ Nevertheless, several significant changes have been incorporated into Bitcoin in
 
 As you see, there is a four years period between the most recent and the next major change in Bitcoin. This is not a bug itself but a carefully measured decision by the Bitcoin community. In order for a proposal to gain traction, it has to be circulated among developers, first via discussion forums. If and once the idea gets traction then draft codes changes circulated and tested vigorously among developers. If all goes according to plan, the idea is floated among the miners and it is expected that 90% of hash rate would accept such a change by a method called signaling. 
 
-## 
 Bitcoin maximalist philosophy aims to have a solid digital asset, that not only have the core attributes of money (such as being medium-of-exchange, store of value and unit of account), but additionally be censorship resistant. These are significant asks from technological perspective and it is understandable when Bitcoin core community acts slowly but surely going forward. 
 
 In our next post, we will look at those who prioritize technological innovation in front of such core attributes and the emergence of another philosophy: Ethereum.
