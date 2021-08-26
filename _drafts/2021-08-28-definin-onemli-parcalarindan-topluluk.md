@@ -8,16 +8,16 @@ tags: Yazılar, DeFi, DeFi'ye Giriş
 
 Bu yazımızda DeFi'nin en önemli parçalarından biri olan topluluktan bahsedeceğiz. 
 
-Önceki yazılarımızda, DeFi projelerini incelerken dikkat edilmesi gereken konulardan, girişimci ve yatırımcılara bakmıştık. Bu iki kitlenin, eskiye göre ne kadar değiştinden bahsetmiştik. 
+Önceki yazılarımızda, DeFi projelerini incelerken dikkat edilmesi gereken konulardan, girişimci ve yatırımcılara bakmıştık. Bu iki kitlenin, eskiye göre ne kadar değiştiğinden bahsetmiştik. 
 
 Geçmişin klasik startup dünyasından kripto dünyasına geçerken yaşanan değişikliklerden bir diğeri de, eski dünyanın bu iki ana aktörünün yanına yeni aktörlerin katılması oldu. Bunlardan biri ve belki de en önemlisi topluluk. 
 
 ### Topluluk neden önemli?
 Kripto dünyasında topluluğun öne çıkmasının birkaç nedeni var. Bunlardan en önemlisi, girişimlerin artık kapalı kapılar ardında, ufak bir ekip ile yatırımcılar arasında büyütülen yapılar olmaktan çıkması. 
 
-Yeni dünyada, girişimcilerin fikirlerini hayata geçirmesi için gereken zaman son derece kısa. Eskinin, aylarca süren çalışmaları, yatırımcılar ile görüşüp yatırım almaya çalıştığı günler artık yok. Bun durumun en temel nedenlerinden DeFi dünyasının açık kaynak kodlu olarak yürümesi. Bu ne getiriyor? Girişimlerin artık sıfırdan başlamalarına gerek yok. Zaten ortada geliştirilmiş ve kullanılan bir yazılım var. Girişimin yapması gereken, bu yazılımı almak ve belli eklemeler yaparak kullanıcıların beğenisine sunma.  İşte bu durum, kripto dünyasındaki yatırımların çok hızlı gelişmesine neden oluyor. 
+Yeni dünyada, girişimcilerin fikirlerini hayata geçirmesi için gereken zaman son derece kısa. Eskinin, aylarca süren çalışmaları, yatırımcılar ile görüşüp yatırım almaya çalıştığı günler artık yok. Bun durumun en temel nedenlerinden DeFi dünyasının açık kaynak kodlu olarak yürümesi. Bu ne getiriyor? Girişimlerin artık sıfırdan başlamalarına gerek yok. Zaten ortada geliştirilmiş ve kullanılan bir yazılım var. Girişimin yapması gereken, bu yazılımı almak ve belli eklemeler yaparak kullanıcıların beğenisine sunmak.  İşte bu durum, kripto dünyasındaki yatırımların çok hızlı gelişmesine neden oluyor. 
 
-İyi de pek çok girişim var ve hemen hepsi yeni geliştirmeler yapıyorlar. Hangisi aralarından sıyrılacak ve başarılı olacak.  İşte orada, girişimin sahip olduğu topluluk ön plana çıkıyor. Neden?
+Paki ama pek çok girişim var ve hemen hepsi yeni geliştirmeler yapıyorlar. Hangisi aralarından sıyrılacak ve başarılı olacak?  İşte orada, girişimin sahip olduğu topluluk ön plana çıkıyor. Neden?
 
 | ![Community](/assets/family-5099086_800.jpg)|
 |:--:| 
@@ -28,16 +28,16 @@ Kripto dünyasında girişim dediğimiz eskiden olduğu gibi bir şirket değil.
 ### Bir ağın topluluğu nasıl anlaşılır?
 İyi de bir topluluğun iyi ya da kötü, az ya da çok olduğunu nasıl anlarız? Karpuz değil ki bu koklayalım? Haklısınız, ancak bize bu konuda yardımcı olabilecek birkaç ipucu var. 
 
-Öncelikle hemen hemen her kripto girişimin bir discord kanalı bulunmakta. Bu kanal, grubun topluluğunun buluşma alanı sayılıyor. Discord, aslına bakarsanız daha önce kullanmamış olanlar için oldukça karışık ve 'anarşik' gelebilir, ancak aslına bakarsanız kurumsal hayatta olanların genelde kullandıkları Slack programının topluluklar için kullanılan bir benzeri aslında. Discord üzerinden girişimin profesyonel destek ekibiyle iletişim kurabileceğiniz gibi, ekibin topluluk üyeleri ile ilişkisini inceleyebilir ve genel olarak topluluğun eğilimleri ya da trendler konusunda da fikir sahibi olabilirsiniz. 
+Öncelikle hemen hemen her kripto girişimin bir discord kanalı bulunmakta. Bu kanal, grubun topluluğunun buluşma alanı sayılıyor. Discord, aslına bakarsanız daha önce kullanmamış olanlar için oldukça karışık ve 'anarşik' gelebilir, ancak aslına bakarsanız kurumsal hayatta olanların genelde kullandıkları Slack programının topluluklar için kullanılan bir benzeri. Discord üzerinden girişimin profesyonel destek ekibiyle iletişim kurabileceğiniz gibi, ekibin topluluk üyeleri ile ilişkisini inceleyebilir ve genel olarak topluluğun eğilimleri ya da trendler konusunda da fikir sahibi olabilirsiniz. 
 
-Benzer şekilde girişimin kendi sitesindeki forumlar ya da girişim hakkındaki reddit alt forumları (subreddit'ler) de topluluğu anlamak açısından faydalı olabilir. Girişimin discord ya da reddit üye sayılarını rakipleri ile karşılaştırmak da benzer şekilde büyüklükleri anlamak için bir yöntem olarak kullanabilirsiniz. Elbette, girişimin ve ekip üyelerinin twitter hesapları ve topluluk ile iletişimleri de ilginç ipuçları verebilir. 
+Benzer şekilde girişimin kendi sitesindeki forumlar ya da girişim hakkındaki reddit alt forumları (subreddit'ler) de topluluğu anlamak açısından faydalı olabilir. Girişimin discord ya da reddit üye sayılarını rakipleri ile karşılaştırmak da benzer şekilde büyüklüklerini anlamak için bir yöntem olarak kullanabilirsiniz. Elbette, girişimin ve ekip üyelerinin twitter hesapları ve topluluk ile iletişimleri de ilginç ipuçları verebilir. 
 
-Topluluğu sadece kullanıcılar olarak düşünmemek lazım elbet. Aslında topluluk olarak bahsettiğimiz bütün bir ekosistem ve burada yazılımcı/geliştiricilere de büyük bir pay düşünüyor. Girişimin geliştiriciler için ayırdığı sayfalar, onlara sağladığı altyapılar (SDK'ler) oldukça önemli. Kimi daha olgun girişimler, özellikle kendi tokenlerini çıkarmış olanlar, kendi token dağılım tablolarında ekosistemin gelişmesi için ciddi bir pay ayırırlar. Bu pay, genel olarak girişimin çıkardığı hizmetleri kullanacak, hizmetin kullanıcılara fayda sağlayacak ek ürün çıkaracak, girişimin hizmetleri ile entegre olacak geliştiricileri fonlamak için kullanılır. Tabii ki, bütün bu çabanın temel amacının tüm ekosistemin büyümesi ve girişimin bu büyümeden aslan payını alması olarak özetleyebiliriz. 
+Topluluğu sadece kullanıcılar olarak düşünmemek lazım elbet. Aslında topluluk olarak bahsettiğimiz bütün bir ekosistem ve burada yazılımcı/geliştiricilere de büyük bir pay düşünüyor. Girişimin geliştiriciler için ayırdığı sayfalar, onlara sağladığı altyapılar (SDK'ler) oldukça önemli. Kimi daha olgun girişimler, özellikle kendi tokenlerini çıkarmış olanlar, kendi token dağılım tablolarında ekosistemin gelişmesi için ciddi bir pay ayırırlar. Bu pay, genel olarak girişimin çıkardığı hizmetleri kullanacak, hizmetin kullanıcılarına fayda sağlayacak ek ürün çıkaracak, girişimin hizmetleri ile entegre olacak geliştiricileri fonlamak için kullanılır. Tabii ki, bütün bu çabanın temel amacını tüm ekosistemin büyümesi ve girişimin bu büyümeden aslan payını alması olarak özetleyebiliriz. 
 
 Merkeziyetsizliğin uzun ince bir yol olduğundan daha önce defalarca bahsettik biliyorsunuz. Kripto dünyasındaki girişimler de, belli bir olgunluğa ulaştıktan sonra projenin yürütülmesini topluluğa devrederek tam merkeziyetsizlik sağlıyorlar. Bunu önce yönetim tokeni çıkarıp, sonrasında tüm stratejik kararları girişimin web sayfasında yayınlayıp, izlenecek yol haritasının belirlenmesi konusunda kararı token sahiplerinin oylarına bırakarak yapıyorlar. Kısacası, topluluğun önemi ağ ve girişim büyüdükçe daha da önem kazanıyor.  
 
 ### Sonuç 
-Aslında bakarsanız, topluluğu bir girişimi 'rezil de vezir de' edebilir. Bu nedenle kripto dünyasındaki girişimlerin bağlı oldukları topluluklara gözlerinin için gibi bakması, onlar ile iletişimde olması, onları dinlemesi oturup kod yazmaları kadar önemli. 
+Aslına bakarsanız, topluluğu bir girişimi 'rezil de vezir de' edebilir. Bu nedenle kripto dünyasındaki girişimlerin bağlı oldukları topluluklara gözlerinin içi gibi bakması, onlar ile iletişimde olması, onları dinlemesi oturup kod yazmaları kadar önemli. 
 
 ---
 
