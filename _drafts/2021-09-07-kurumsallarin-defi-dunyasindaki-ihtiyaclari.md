@@ -1,4 +1,10 @@
-
+---
+layout: post
+title:  "DeFi kulanamak isteyen kurumların ihtiyaçları neler?"
+date:   2021-09-07 17:47:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
 Gelin bu yazımızda, kurumsal yatırımcıların DeFi dünyasını kullanabilmek için ihtiyaç duyduğu araçlar neler ve DeFi bunların ne kadarını karşılayabiliyor sorularına cevap arayalım: 
 
 ## DeFi'ye artan kurumsal ilgisi 
@@ -40,4 +46,12 @@ Bu alanda, geçtiğimiz bir [yazımızda bahsettiğimiz](https://www.btchaber.co
 
 ### Sonuç 
 
-Kripto ve DeFi dünyası, kurumsal firmalar için yeni bir alan. Belki hâlâ pek çok kurumsal yatırımcı 'kanuni altyapı oturmadı' ya da 'çok fazla risk var' gibi çeşitli bahaneler ile bu alana adım atmaya çekiniyor. Bu alanda, kurumsalların ihtiyaçlarını karşılayacak çözümler gün geçtikçe olgunlaşıyor ve artık kurumların bu alana girmemesi için kullanacağı bahaneler de gittikçe azalıyor. Aman dikkat edin, siz bu bahaneler ile oyalanırken, birileri 'atı alıp Üsküdar'ı geçiyor' olmasın. 
+Kripto ve DeFi dünyası, kurumsal firmalar için yeni bir alan. Belki hâlâ pek çok kurumsal yatırımcı 'kanuni altyapı oturmadı' ya da 'çok fazla risk var' gibi çeşitli bahaneler ile bu alana adım atmaya çekiniyor. Bu alanda, kurumsalların ihtiyaçlarını karşılayacak çözümler gün geçtikçe olgunlaşıyor ve artık kurumların bu alana girmemesi için kullanacağı bahaneler de gittikçe azalıyor. Aman dikkat edin, siz bu bahaneler ile oyalanırken, birileri 'atı alıp Üsküdar'ı geçiyor' olmasın.
+
+---
+
+*Not 1: Bu yazı ilk olarak 7 Eylül 2021'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı]()*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
