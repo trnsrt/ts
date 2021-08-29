@@ -8,7 +8,7 @@ Bu satırlarda geçtiğimiz dönemde kurumsal yatırımcıların DeFi yani merke
 
 | ![debank_tvl](/assets/Debank_TVL_210829_800.png)|
 |:--:| 
-| *Kaynak: [Debank](https://debank.com/ranking/locked_value?chart_date=MAX)*|
+| *DeFi'de kilitli para miktarı (Kesik çizgi brüt, düz çizgi net). Kaynak: [Debank](https://debank.com/ranking/locked_value?chart_date=MAX)*|
 
 Piyasaya yeni yatırımcıların girmesi ile birlikte bu sayıların daha da artması yüksek olasılık. Peki yeni yatırımcılar girecekler mi bu piyasaya? Bunun cevabı muhtemelen evet. Zira, kurumların bu alana girmesinin önündeki en büyük engel regülasyonların netleşmemiş olması idi. Bu nedenle bu alana ilk girenler daha çok küçük fonlar ya da MicroStrategy gibi 'cengaver' oyuncular oldu. (Bu arada MicroStrategy kurucusu ve CEO'su Michael Saylor'un tam bir Bitcoin maksimalisti olduğunu ve satın aldığı BTC'ler ile şirketi bir teknoloji şirketinden bir nevi bir BTC yatırım fonu haline getirdiğini belirtelim). 
 
