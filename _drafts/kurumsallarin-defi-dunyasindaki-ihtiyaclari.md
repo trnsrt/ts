@@ -20,7 +20,7 @@ Küçük fonların bir nevi 'kafa göz yararak' adım attıkları bu dünyada, a
 
 ### Kurumların nelere ihtiyacı var?
 
-Büyük kurumsal yapıların DeFi'ye girmek için ihtiyaç duydukları hizmetler neler peki? Ethereum dünyası içinde bu tip oyunculara hizmet sunan Consensys'in geçtiğimiz günlerde [yayınladığı raporda](https://consensys.net/reports/defi-report-q2-2021) bu ihtiyaçlar şu şekilde sıralanmış: 
+Büyük kurumsal yapıların DeFi'ye girmek için ihtiyaç duydukları hizmetler neler peki? Ethereum dünyası içinde bu tip oyunculara hizmet sunan [ConsenSys](https://consensys.net/)'in geçtiğimiz günlerde [yayınladığı raporda](https://consensys.net/reports/defi-report-q2-2021) bu ihtiyaçlar şu şekilde sıralanmış: 
 
 ***Güvenlik:*** Risk yönetiminin belki de en önemli parçası ve kurumsal yapıların en temel gereksinimi olan güvenlik. Tam olarak kastedilen ise, 'dijital varlıkların hırsızlığa karşı güvenli bir şekilde saklanması ve çoklu onay olmadan dışarıya çıkışının engellenmesi'. Burada alınabilecek temel tedbirler, özel anahtarların güvenli bir şekilde saklanması (storage) ve bu anahtarların kurtarılmasından (recovery) tutun da çoklu imzaya (multi-sig) kadar uzanan geniş bir yelpaze. Bunun yanında, işlem yapılacak platform ve cüzdan adreslerinin güvenlik taramasından geçirilmesi (whitelist) ya da herhangi bir parti yapılacak işlem adet ve büyüklüklerin sınırlanması gibi ek tedbirler de mevcut. 
 
