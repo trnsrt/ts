@@ -40,4 +40,4 @@ Bu alanda, geçtiğimiz bir [yazımızda bahsettiğimiz](https://www.btchaber.co
 
 ### Sonuç 
 
-Kripto ve DeFi dünyası, kurumsal firmalar için yeni bir alan. Belki hâlâ pek çok kurumsal yatırımcı 'regülasyonları oturmadı' ya da 'çok fazla risk var' gibi çeşitli bahaneler ile bu alana adım atmaya çekiniyor. Bu alanda, kurumsalların ihtiyaçlarını karşılayacak çözümler gün geçtikçe olgunlaşıyor ve artık kurumların bu alana girmemesi için kullanacağı bahaneler de gittikçe azalıyor. Aman dikkat edin, siz bu bahaneler ile oyalanırken, birileri 'atı alıp Üsküdar'ı geçiyor' olmasın. 
+Kripto ve DeFi dünyası, kurumsal firmalar için yeni bir alan. Belki hâlâ pek çok kurumsal yatırımcı 'kanuni altyapı oturmadı' ya da 'çok fazla risk var' gibi çeşitli bahaneler ile bu alana adım atmaya çekiniyor. Bu alanda, kurumsalların ihtiyaçlarını karşılayacak çözümler gün geçtikçe olgunlaşıyor ve artık kurumların bu alana girmemesi için kullanacağı bahaneler de gittikçe azalıyor. Aman dikkat edin, siz bu bahaneler ile oyalanırken, birileri 'atı alıp Üsküdar'ı geçiyor' olmasın. 
