@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DeFi'nin önemli parçalarından topluluk"
-date:   2021-08-28:47:56 +0300
+date:   2021-08-28 08:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, DeFi'ye Giriş
 ---
