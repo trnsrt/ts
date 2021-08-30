@@ -41,7 +41,7 @@ Aslına bakarsanız, topluluğu bir girişimi 'rezil de vezir de' edebilir. Bu n
 
 ---
 
-*Not 1: Bu yazı ilk olarak 28 Ağustos 2021'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı]()*
+*Not 1: Bu yazı ilk olarak 28 Ağustos 2021'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı](https://medium.com/blockchainist-center/definin-vazge%C3%A7ilmez-par%C3%A7as%C4%B1-topluluk-416af14143af)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
