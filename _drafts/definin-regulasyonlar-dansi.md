@@ -29,6 +29,10 @@ SEC'nin yapacağı bu hareketler, aslında belki de DeFi protokollerini merkeziy
 
 "Merkeziyetsiz olunca hızlı geliştirme yapabilirler mi?". Burada artık konu geliştirici ekipten çok topluluğa geçiyor gibi. Orada da yine geçtiğimiz hafta içinde kurulan [Loot](https://www.lootproject.com/) projesinin bir hafta içinde aldığı yola [bakacak olursanız](https://techcrunch.com/2021/09/03/loot-games-the-crypto-world/), çok da endişe edilecek bir durum yok gibi görünüyor. 
 
+| ![geyser](/assets/geyser-3242005_800.jpg)|
+|:--:| 
+| *Image by [Hans Braxmeier](https://pixabay.com/users/hans-2/) from [Pixabay](https://pixabay.com/)*|
+
 'Peki ya düzenlemeler gelir de, bu fonlar anonim hesaplara yatırım yapamazlar ise?' diye sorabilirsiniz. Onun da kolayı var, bundan sonra girişimler DAO (Decentralized Autonomous Organization) dediğimiz yapılar üzerinden fonlanacak. Bu yapılar, tamamen sanal dünyada anonim kişiler tarafından kurulmuş ve DeFi ya da NFT dünyasında projelere yatırım yapan girişim sermayeleri. 
 
 Son söz olarak, "su akar yolunu bulur, önüne set çekmeyin yeter" acaba çok mu iddialı konuşmuş oluruz. 
