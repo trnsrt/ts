@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DeFi kulanamak isteyen kurumların ihtiyaçları neler?"
-date:   2021-09-07 17:47:56 +0300
+date:   2021-09-14 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
 ---
@@ -10,13 +10,13 @@ Gelin bu yazımızda, kurumsal yatırımcıların DeFi dünyasını kullanabilme
 ## DeFi'ye artan kurumsal ilgisi 
 Bu satırlarda geçtiğimiz dönemde kurumsal yatırımcıların DeFi yani merkeziyetsiz finansa ilgisi konusunda birkaç örnek paylaşmıştık. 
 
-2020 yılının Mart ayında yaşanan dibe vurma sonrası önce yatırım fonlarının, daha sonra şirketlerin kripto alanına girdiğini görmüştük. Özellikle Bitcoin alanında yaşanan bu para girişinin sonraki aylarda DeFi'ye doğru aktığına tanık olduk. Öyle ki, bu alanın en önemli metriği olan kilitlenmiş para miktarı, Ethereum ağı için Mayıs 2020'de 1 milyar ABD Dolarını aşınca havai fişekler patlatılırken, şimdilerde bu rakamın 80 milyar ABD Dolarını geçmesini pek konuşan yok. Üstelik, Ethereum'un rakibi olan diğer akıllı kontrat platformları da artık yarışa katıldığı için, toplam büyüklük 112 milyar ABD Dolarını aşmış durumda. 
+2020 yılının Mart ayında yaşanan dibe vurma sonrası önce yatırım fonlarının, daha sonra şirketlerin kripto alanına girdiğini görmüştük. Özellikle Bitcoin alanında yaşanan bu para girişinin sonraki aylarda DeFi'ye doğru aktığına tanık olduk. Öyle ki, bu alanın en önemli metriği olan kilitlenmiş para miktarı, Ethereum ağı için Mayıs 2020'de 1 milyar ABD dolarını aşınca havai fişekler patlatılırken, şimdilerde bu rakamın 80 milyar ABD dolarını geçmesini pek konuşan yok. Üstelik, Ethereum'un rakibi olan diğer akıllı kontrat platformları da artık yarışa katıldığı için, toplam büyüklük 112 milyar ABD dolarını aşmış durumda. 
 
 | ![debank_tvl](/assets/Debank_TVL_210829_800.png)|
 |:--:| 
 | *DeFi'de kilitli para miktarı (Kesik çizgi brüt, düz çizgi net). Kaynak: [Debank](https://debank.com/ranking/locked_value?chart_date=MAX)*|
 
-Piyasaya yeni yatırımcıların girmesi ile birlikte bu sayıların daha da artması yüksek olasılık. Peki yeni yatırımcılar girecekler mi bu piyasaya? Bunun cevabı muhtemelen evet. Zira, kurumların bu alana girmesinin önündeki en büyük engel regülasyonların netleşmemiş olması idi. Bu nedenle bu alana ilk girenler daha çok küçük fonlar ya da MicroStrategy gibi 'cengaver' oyuncular oldu. (Bu arada MicroStrategy kurucusu ve CEO'su Michael Saylor'un tam bir Bitcoin maksimalisti olduğunu ve satın aldığı BTC'ler ile şirketi bir teknoloji şirketinden bir nevi bir BTC yatırım fonu haline getirdiğini belirtelim). 
+Piyasaya yeni yatırımcıların girmesi ile birlikte bu sayıların daha da artması yüksek olasılık. Peki yeni yatırımcılar girecekler mi bu piyasaya? Bunun cevabı muhtemelen evet. Zira, kurumların bu alana girmesinin önündeki en büyük engel regülasyonların netleşmemiş olması idi. Bu nedenle bu alana ilk girenler daha çok küçük fonlar ya da MicroStrategy gibi 'cengaver' oyuncular oldu. (Bu arada MicroStrategy kurucusu ve CEO'su Michael Saylor'un tam bir Bitcoin maksimalisti olduğunu ve satın aldığı BTC'ler ile şirketi bir teknoloji şirketinden bir nevi BTC yatırım fonu haline getirdiğini belirtelim). 
 
 Küçük fonların bir nevi 'kafa göz yararak' adım attıkları bu dünyada, artık büyük kurumların da işin içine girmesini sağlayacak gerekli altyapı son aylarda yavaş yavaş oluşmaya başladı. 
 
@@ -38,7 +38,7 @@ Bu alanda, geçtiğimiz bir [yazımızda bahsettiğimiz](https://www.btchaber.co
 
 ***Emir gerçekleştirme:*** Özellikle büyük miktarlı emirleri gerçekleştirmek kurumlar için başlı başına bir dert. Likidite bir sorun, işlem yapılması için verilen emir ile sonuçta gerçekleşen arasındaki yaşanan kayıplar (slippage), bir de son zamanlarda özellikle Ethereum blokzincirinde görülen işlemin önüne geçme olayları (front-running), dikkat edilmesi gereken konular. Bu tip sorunlar klasik finansta da sıkça görülür ancak DeFi piyasalarının daha henüz yeni gelişmekte olmasından dolayı bu olayların etkileri daha fazla hissediliyor.
 
-***Raporlama ve muhasebe:*** DeFi dünyasının karmaşık yapısı, raporlama ve muhasabe açısından bir kabus yaratıyor desek abartmayız herhalde. Başta Ethereum olsa da onu takip eden onlarca akıllı kontrat platformu, bunların üzerine kurulmuş yüzlerce protokol, DeFi'nin lego benzeri birleştirilebilir yapısı nedeniyle oluşturulan onlarca değil yüzlerce farklı ürün. Yapılan yatırım dışında bir de havadan gelen (airdrop) tokenlar var, onları saymıyorum bile. Bunları anlamak bile bir dert iken bir de onun ötesinden bunu raporlayacak ve muhasebesini yapacaksınız. Bol şans dilerim.
+***Raporlama ve muhasebe:*** DeFi dünyasının karmaşık yapısı, raporlama ve muhasabe açısından bir kabus yaratıyor desek abartmayız herhalde. Başta Ethereum olsa da onu takip eden onlarca akıllı kontrat platformu, bunların üzerine kurulmuş yüzlerce protokol, DeFi'nin lego benzeri birleştirilebilir yapısı nedeniyle oluşturulan onlarca değil yüzlerce farklı ürün... Yapılan yatırım dışında bir de havadan gelen (airdrop) tokenlar var, onları saymıyorum bile. Bunları anlamak bile bir dert iken bir de onun ötesinden bunu raporlayacak ve muhasebesini yapacaksınız. Bol şans dilerim.
 
 ***Portföy takibi:*** Yukarıdaki ihtiyacın bir benzeri yapılan yatırımların oluşturduğu portföyü takip alanında söz konusu. Bu alanda [zapper](https://zapper.fi/), [zerion](https://zerion.io/) ve [debank](https://debank.com/) gibi pek çok çözüm mevcut ancak sürekli yeni çıkan ürünlerin bu sistemlere dahil olmaları zaman aldığı için, toplam resmi görmek her zaman mümkün olmayabiliyor. 
 
@@ -50,7 +50,7 @@ Kripto ve DeFi dünyası, kurumsal firmalar için yeni bir alan. Belki hâlâ pe
 
 ---
 
-*Not 1: Bu yazı ilk olarak 7 Eylül 2021'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı]()*
+*Not 1: Bu yazı ilk olarak 14 Eylül 2021'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı]()*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
