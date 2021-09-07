@@ -5,6 +5,7 @@ date:   2021-09-07 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
 ---
+Bu haftaki yazımızda, DeFi'nin, gün geçtikçe daha çok ensesinde hissetmeye başladığı kanuni düzenleyicilerle yaptığı danstaki son hareketler var.
 
 Geçtiğimiz hafta içinde Wall Street Journal'de çıkan bir [habere](https://www.wsj.com/articles/regulators-investigate-crypto-exchange-developer-uniswap-labs-11630666800) göre ABD'nin menkul kıymet piyasalarının denetleyicisi SEC (Security Exchange Commission), DeFi'nin en büyük platformlarından Uniswap hakkında bir inceleme başlattı.
 
