@@ -16,7 +16,7 @@ SEC'in incelemesi ne kadar sürer, inceleme sonrasında iş ne kadar ciddileşir
 
 "İyi de, airdrop bedava veriliyor, bundan protokolün bir kazancı yok ki?" sorusu akla gelebilir ancak SEC'ye göre, bedava verilse bile alan kişinin sonradan kazanç sağladığı ürünler menkul kıymet olarak değerlendiriliyor. Konu ne şekilde ilerleyecek merakla bekliyoruz.
 
-## DeFi buna nasıl tepki verdi?
+### DeFi buna nasıl tepki verdi?
 DeFi dünyası, SEC-Uniswap olayında normal olarak Uniswap çevresinde birleşiyor. SEC'in işi biraz daha zor, zira karşısında XRP olayında olduğu gibi bir şirket (Ripple) değil, koca bir topluluk bulacak (ki XRP olayında SEC gayet haklı bir konumda iken bile kesin bir üstünlük sağlayamadı henüz).
 DeFi dünyasının (aslında genel olarak kripto dünyasının) özellikle ABD'de yerleşik aktörlerinin beklentisi, bu alanda kuralların tüm paydaşlar tarafından açıkça tartışıldıktan sonra belirlenmesi ve net olması. Bunun için de daha henüz başlangıç aşamasında olan ve her gün yeni bir ürünün ortaya çıktığı bu sektöre, belirli bir olgunluğa kavuşması için zaman verilmesi.
 
@@ -26,7 +26,7 @@ ABD'li kripto oyuncularının korkusu DeFi’nin kuruluş temellerini anlamadan 
 
 Bu tip hareketlere, DeFi dünyasının vereceği ilk tepki, yazılımcıların 'takma' isimler ile ürün geliştirmesi olacak. Bu zaten halihazırda yaşadığımız bir durum (bakınız DeFi opsiyon platformu Hegic'in kurucusunun anonim bir hesap olması) ve bu durum daha da genele yayılacak.
 
-## DeFi'de merkeziyesizlik hızlanır mı?
+### DeFi'de merkeziyesizlik hızlanır mı?
 Gary Gensler'in söylediği DeFi protokollerinin merkeziyetsiz göründüğü ama çoğunun merkezi özellikleri olduğu doğru. Üstelik olması gereken de belki bu. Zira, bir protokolün özellikle ilk kurulduğunda lokomotif ufak bir ekibe ihtiyacı var. Bu ekip, ürünü hızlıca geliştirme ve bunun için çekirdek fonlama bulma aşamasında gerekli. Sonrasında ise protokoller yavaş yavaş genele yayılıyor ve merkeziyetsizleşiyorlar. Dolayısıyla, Gensler'in yaptığı gibi anlık bir snapshot alıp bakarsanız merkezi özellikleri gözünüze batabilir, ancak daha doğru olan bunu bir süreç olarak değerlendirerek zaman vermek.
 
 SEC'nin yapacağı bu hareketler, aslında belki de DeFi protokollerini merkeziyetsizleştirmek anlamında yardımcı olacak. Zira, artık ekipler en baştan itibaren anonim olarak kurulacaklar. 'Peki o zaman fonlamayı nasıl bulacaklar, kimler onlara para verecek?'. Onu çok dert etmeyin, daha geçen hafta Avalanche ağı üzerine anonim geliştiriciler tarafından kurulmuş olan alım-satım platformu TraderJoe, belli başlı büyük fonlardan 5 milyon ABD Doları fonlama aldı. Yani proje kaliteli olursa para bulunur.
