@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "DeFi'nin regülasyonla dansı"
+date:   2021-09-07 17:47:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
 Geçtiğimiz hafta içinde Wall Street Journal'de çıkan bir [habere](https://www.wsj.com/articles/regulators-investigate-crypto-exchange-developer-uniswap-labs-11630666800) göre ABD'nin menkul kıymet piyasalarının denetleyicisi SEC (Security Exchange Commission), DeFi'nin en büyük platformlarından Uniswap hakkında bir inceleme başlattı.
 
 Konunun detayları yani incelemenin ne hakkında olduğu konusu henüz çok açık değil, ancak SEC'den geçtiğimiz ay içinde gelen işaretler konunun daha çok airdrop olarak adlandırılan ve ücretsiz olarak dağıtılan tokenler başta olmak üzere bu protokollerin kulanıcılarına verdiği teşvikler olduğu anlaşılıyor.
