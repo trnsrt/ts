@@ -14,7 +14,7 @@ DeFi yani merkeziyetsiz finansın klasik finansa göre temel bazı farklılıkla
 
 DeFi'nin belki de en kritik özelliklerinden biri açık kaynak felsefesini benimsemiş olması. Açık kaynak, özünde yazılımların herhangi bir lisanslama ya da patent altında olmadan üretilmesi ve dağıtılması demek. 
 
-Bu, aslında kökü eskilere dayanan bir oluşum. Bir zamanların teknolojik devleri olan Microsoft, Oracle gibi devlerin, geliştirdikleri yazılımları lisanslama yoluyla binlerce katına satmalarına duyulan tepkinin, bilginin açık olması ve paylaştıkça çoğalacağı felsefesi ile birleşmesi sonucu ortaya çıkıyor. Kripto dünyası ise daha en başında Bitcoin ile bu felsefeyi benimsemiş durumda.  
+Bu, aslında kökü eskilere dayanan bir oluşum. Bir zamanların teknolojik devleri olan Microsoft, Oracle gibi şirketlerin, geliştirdikleri yazılımları lisanslama yoluyla binlerce katına satmalarına duyulan tepkinin, bilginin açık olması ve paylaştıkça çoğalacağı felsefesi ile birleşmesi sonucu ortaya çıkıyor. Kripto dünyası ise daha en başında Bitcoin ile bu felsefeyi benimsemiş durumda.  
 
 Faydalarını ise şu iki temel alanda özetleyebiliriz:
 
@@ -22,7 +22,7 @@ Faydalarını ise şu iki temel alanda özetleyebiliriz:
 
 Klasik finans genel olarak kapalı yazılımlardan oluşur. Bu, genel olarak geliştirilen çözümlerin yazılımların dışarıya kapalı olması anlamına gelir. Müşteri genelde yazılımları kullanır, içinde ne var bilmez, zira risklerinden de habersizdir. Herhangi bir sorun olursa ne de olsa karşısında koskocaman finans kurumları var, bu kurumlar kanuni otoriteler tarafından denetleniyor, elbet zararı tazmin edilir diye düşünür. 
 
-DeFi'de ise hizmet veren büyük kurumlar ve ofisler yok. Bu dünyada müşterinin karşısında olan sadece bir yazılım. Tabii ki ekipler var ancak bu ekiplerin müşteri karşısında herhangi bir sorumluluğu yok.  Hatta kimi durumlarda ekip olsa bile, ekibin üyeleri farklı mahlaslar altında kimliklerini gizliyorlar. 
+DeFi'de ise hizmet veren büyük kurumlar ve ofisler yok. Bu dünyada müşterinin karşısında olan sadece bir yazılım. Tabii ki ekipler var, ancak bu ekiplerin müşteri karşısında herhangi bir sorumluluğu yok.  Hatta kimi durumlarda ekip olsa bile, ekibin üyeleri farklı mahlaslar altında kimliklerini gizliyorlar. 
 
 Peki böyle bir durumda müşteri kime nasıl güvenecek? İşte DeFi'nin açık kaynak özelliği burada imdada yetişiyor. Zira, yazılımların kaynak kodları açık ve ortada. Bu sayede, isteyen istediği gibi yazılımın içinde ne olduğunu görebiliyor ve inceleyebiliyor. 
 
@@ -36,18 +36,18 @@ Bunun en son örneğini, DeFi'nin en büyük protokollerinden [Sushi](https://su
 
 ### Hızlı geliştirme
 
-Açık kaynağın bir başka avantajı ise kaynakların verimli kullanılması. Zira açık kaynak sayesinde, yazılım geliştirirken her seferinden 'Amerika'nın yeniden keşfedilmesine' gerek yok.  
+Açık kaynağın bir başka avantajı ise kaynakların verimli kullanılması. Zira açık kaynak sayesinde, yazılım geliştirirken her seferinde 'Amerika'nın yeniden keşfedilmesine' gerek yok.  
 
 Girişimler bu alanda çalışan ve müşteriler tarafından kullanılan ürünlerin kaynak kodlarını hızlıca kopyalayabilir ve enerjilerini yeni inovatif özellikler geliştirmeye harcayabilirler. 
 
 Ayrıca bu sayede girişimler, çok daha az bir kaynak ile çok daha fazla ürün geliştirebilirler. Klasik sistemlerde, erken aşamalarda geliştirme ihtiyacı nedeniyle insan kaynağına ihtiyaç duyan girişimler, bu ihtiyacı karşılayabilmek için finansman arayışına girerler ve bu finansmanı sağlayan girişim sermayelerine, sonuçta oluşacak katma değerin ciddi bir kısmını 'kaptırırlardı'. Kripto dünyası girişimleri ise, insan kaynağı ihtiyacının azalması ile birlikte artık yarattıkları katma değeri topluluk ile paylaşır hale geldiler. Bu nedenle, kripto dünyasındaki girişimlere token arzı yolu ile yatırım yapan bireysel kullanıcılar ciddi gelir elde eder hale geldiler. 
 
 ### Dezavantajı yok mu?
-Tabii klasik sisteme alışmış olanların aklına gelecek ilk soru şu olacak: "İyi de çocuklar o kadar uğraşıp didinip bir yazılım geliştiriyorlar, sonra birisi gelip onu kopyalıyor. Böyle bir ortamda nasıl rekabetçi olunur?". Bu söylemde bir parça haklılık payı olsa da, konunun özünün ve felsefeyi kaçırmamak gerekiyor. 
+Tabii klasik sisteme alışmış olanların aklına gelecek ilk soru şu olacak: "İyi de çocuklar o kadar uğraşıp didinip bir yazılım geliştiriyorlar, sonra birisi gelip onu kopyalıyor. Böyle bir ortamda nasıl rekabetçi olunur?". Bu söylemde bir parça haklılık payı olsa da, konunun özünü ve felsefesini kaçırmamak gerekiyor. 
 
-Kopyalamak ve yeni bir ürün yaratmak işin kolay kısmı. Asıl zor olan, bu ürünü kulanacak, geliştirecek ve geniş kesimlere yayacak bir topluluk kurabilmek. Bunu da yapabilmenin yolu, sürekli yeni geliştirme yapmaktan geçiyor. Ayrıca hızlı olmak gerekiyor. Bu sayede, kripto dünyasında baş döndürücü bir şekilde yeni ürünler ortay çıkıyor. Bu da sonuçta müşterinin faydasına oluyor. 
+Kopyalamak ve yeni bir ürün yaratmak işin kolay kısmı. Asıl zor olan, bu ürünü kulanacak, geliştirecek ve geniş kesimlere yayacak bir topluluk kurabilmek. Bunu da yapabilmenin yolu, sürekli yeni geliştirme yapmaktan geçiyor. Ayrıca hızlı olmak gerekiyor. Bu sayede, kripto dünyasında baş döndürücü bir şekilde yeni ürünler ortaya çıkıyor. Bu da sonuçta müşterinin faydasına oluyor. 
 
-Bu arada, son zamanlarda ortaya çıkan endişe verici bir trend de oluşmaya başladı, ondan da bahsedelim. Kimi büyük olgunlaşmış DeFi protokolleri geliştirdikleri ürünleri 'kopyalanamaz' lisanslar ile çıkarmaya başladılar (sana bakıyorum Uniswap!). Bunun temel nedenin, bu protokollere yatırım yapan fonların baskısı olduğunu düşünüyorum. DeFi'nin temel felsefesine tamamen aykırı olan bu hareketin uzun vadede başarısı konusunda şüpheler var. Bakalım ilerleyen dönemde bu konuda ne gibi gelişmeler yaşanacak, hangi akım ön plana çıkacak? 
+Bu arada, son zamanlarda endişe verici bir trend de oluşmaya başladı; kısaca ondan da bahsedelim: Kimi büyük olgunlaşmış DeFi protokolleri geliştirdikleri ürünleri 'kopyalanamaz' lisanslar ile çıkarmaya başladılar (sana bakıyorum Uniswap!). Bunun temel nedenin, bu protokollere yatırım yapan fonların baskısı olduğunu düşünüyorum. DeFi'nin temel felsefesine tamamen aykırı olan bu hareketin uzun vadede başarısı konusunda şüpheler var. Bakalım ilerleyen dönemde bu konuda ne gibi gelişmeler yaşanacak, hangi akım ön plana çıkacak? 
 
 ---
 
