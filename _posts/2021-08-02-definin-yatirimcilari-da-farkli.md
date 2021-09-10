@@ -18,9 +18,9 @@ Kripto dünyasının yatımcıları klasik dünyadan oldukça farklılık göste
 
 Kripto fonların klasik girişim sermayesinden en önemli farkları yatırım yapma felsefelerinin belli bir değişimden geçmiş olması. Bir önceki yazımızda bahsetmiştik: Kripto fonları, kripto dünyasında güç dengesinin girişimlere doğru kaymış olduğunun farkındalar.  Eskisi gibi, 'ofisime onlarca girişim gelsin, onları dinleyeyim, ekibi göreyim, tanıyayım' gibi bir dünya yok. Zira, oturup konuşulacak bir dünya yok. 
 
-| ![underwater](/assets/underwater-3237936_800.jpg.jpg)|
+| ![digital](/assets/digitization-2007355_800.jpg)|
 |:--:| 
-| *Image by [Gerald Lobenwein](https://pixabay.com/users/globenwein-8397623/) from [Pixabay](https://pixabay.com/)*|
+| *Image by [Gerd Altmann ](https://pixabay.com/users/geralt-9301/) from [Pixabay](https://pixabay.com/)*|
 
 Eskiden, yatırım yapılacak şirket, bu şirketin hukuki yapısı, yapılacak yatırımın cinsi, girişimcilere verilecek hisse opsiyonları, yatırımın yapılacağı süreler, girişimcilere verilen hedefler gibi girişimci ile yatırımcı arasında pazarlığa tabi pek çok konu vardı. Şimdi artık bunlar da yok. 
 
