@@ -22,7 +22,7 @@ DeFi'de ise hizmet veren büyük kurumlar ve ofisler yok. Bu dünyada müşterin
 
 Peki böyle bir durumda müşteri kime nasıl güvenecek? İşte DeFi'nin açık kaynak özelliği burada imdada yetişiyor. Zira, yazılımların kaynak kodları açık ve ortada. Bu sayede, isteyen istediği gibi yazılımın içinde ne olduğunu görebiliyor ve inceleyebiliyor. 
 
-| ![underwater](/assets/underwater-3237936_800.jpg.jpg)|
+| ![underwater](/assets/underwater-3237936_800.jpg)|
 |:--:| 
 | *Image by [Gerald Lobenwein](https://pixabay.com/users/globenwein-8397623/) from [Pixabay](https://pixabay.com/)*|
 
