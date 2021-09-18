@@ -24,7 +24,7 @@ It was Satoshi himself.
 
 | ![satoshi](/assets/satoshi-statue_v2_800.jpg)|
 |:--:| 
-| *New statue of Satoshi in Hungary Source: [Reddit](https://www.reddit.com/r/Bitcoin/comments/pphoj9/this_is_the_first_satoshi_nakamoto_statue_in_the/)*|
+| *Statue of Satoshi that was recently unveiled in Hungary. Source: [Reddit](https://www.reddit.com/r/Bitcoin/comments/pphoj9/this_is_the_first_satoshi_nakamoto_statue_in_the/)*|
 
 Satoshi thought Bitcoin is not ready yet for the 'prime time', meaning the mass adoption. In Satoshi's eyes, it was still an experiment that had to be fine-tuned. 
 
