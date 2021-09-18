@@ -31,7 +31,7 @@ Satoshi thought Bitcoin is not ready yet for the 'prime time', meaning the mass 
 <a href="https://bitcointalk.org/index.php?topic=1735.msg26999#msg26999">
          <img alt="Tweet" src="/assets/satoshi_response_800.png"></a>
 
-Here comes the beauty (or the disadvantage for some) of the blockchain systems. These systems are not owned by one person. Even though Satoshi objected to the idea, he had no power to block it. After all Bitcoin was an open-source project, which is accessible by anyone - this was the 'whole point' about it anyways. 
+Here comes the beauty (or the drawback for some) of the blockchain systems. These systems are not owned by one person. Even though Satoshi objected to the idea, he had no power to block it. After all Bitcoin was an open-source project, which is accessible by anyone - this was the 'whole point' about it anyways. 
 
 So Wikileaks decided to continue accepting Bitcoin. Actually, one week after the above message, Satoshi username 'faded to black' in other words, disappeared from the existence. (The only message he posted was a couple of years later when he [mentioned](http://p2pfoundation.ning.com/forum/topics/bitcoin-open-source?commentId=2003008%3AComment%3A52186) that "he is not Dorian Nakamoto")
 
