@@ -37,7 +37,7 @@ Aslına bakarsanız bu işin magazinsel yanı. Asıl kritik konu, Yakovenko'nun 
 
 Bir başka açıdan ise, Solana üzerindeki düğümleri kullanmaya yarayan sadece bir aracı (client) var, bu da merkezilik yaratıyor. Örnek olarak Ethereum'da şu an aktif olan 3568 düğümü yöneten [altı tane farklı aracı bulunmakta](https://www.ethernodes.org/).
 
-Bugün bu olay için bir araya gelen validatörler, yarın kullanıcıların aleyhine bir konuda bir araya gelirlerse o zaman ne olacak? Ethereum'un bu kadar işlem yoğunluğuna ve bu kadar yüksek işlem ücretlerine karşın hâlâ kurumların ve kişilerin DeFi için ilk tercih ettiği adres olmasının arkasında yatan en önemli nedenlerden biri uzun süredir tıkır tıkır çalışıyor olması ise, bir diğeri ise, herhangi bir zümrenin etkisi altında olmadığı için 'nötr' bir altyapı sağlayıcı olarak görülmesi. 
+Bugün bu olay için bir araya gelen onaylayıcılar, yarın kullanıcıların aleyhine bir konuda bir araya gelirlerse o zaman ne olacak? Ethereum'un bu kadar işlem yoğunluğuna ve bu kadar yüksek işlem ücretlerine karşın hâlâ kurumların ve kişilerin DeFi için ilk tercih ettiği adres olmasının arkasında yatan en önemli nedenlerden biri uzun süredir tıkır tıkır çalışıyor olması ise, bir diğeri ise, herhangi bir zümrenin etkisi altında olmadığı için 'nötr' bir altyapı sağlayıcı olarak görülmesi. 
 
 ### Sonuç 
 
