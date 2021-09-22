@@ -51,7 +51,7 @@ Bu arada, son zamanlarda endişe verici bir trend de oluşmaya başladı; kısac
 
 ---
 
-*Not 1: Bu yazı ilk olarak 11 Eylül 2021'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı]()*
+*Not 1: Bu yazı ilk olarak 11 Eylül 2021'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı](https://medium.com/blockchainist-center/defi-neden-farkl%C4%B1-a%C3%A7%C4%B1k-kaynak-1dc12a04c4d7)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
