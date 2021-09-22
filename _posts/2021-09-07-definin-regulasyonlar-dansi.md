@@ -41,3 +41,11 @@ SEC'nin yapacağı bu hareketler, aslında belki de DeFi protokollerini merkeziy
 'Peki ya düzenlemeler gelir de, bu fonlar anonim hesaplara yatırım yapamazlar ise?' diye sorabilirsiniz. Onun da kolayı var, bundan sonra girişimler DAO (Decentralized Autonomous Organization) dediğimiz yapılar üzerinden fonlanacak. Bu yapılar, tamamen sanal dünyada anonim kişiler tarafından kurulmuş ve DeFi ya da NFT dünyasında projelere yatırım yapan girişim sermayeleri. 
 
 Son söz olarak, "su akar yolunu bulur, önüne set çekmeyin yeter" desek acaba çok mu iddialı konuşmuş oluruz?
+
+---
+
+*Not 1: Bu yazı ilk olarak 7 Eylül 2021'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/definin-regulasyonla-dansi/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
