@@ -36,6 +36,6 @@ In our next post, we will look at those who prioritize technological innovation 
 
 
 ---
-*This piece is [first published]() in [BlockchainIST Center](https://medium.com/blockchainist-center) on September 4th, 2021.*
+*This piece is [first published](https://medium.com/bcistcenter/philosophy-of-bitcoin-485e21127ada) in [BlockchainIST Center](https://medium.com/blockchainist-center) on September 4th, 2021.*
 
 *None of the views expressed in this article should be considered as investment advice*
