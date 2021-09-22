@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Solana'nın başına gelenler"
+date:   2021-09-21 17:47:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
 Bu yazımızda Solana'nın durması olayı üzerinden blokzincir dünyasındaki kritik konulara değineceğiz. 
 
 Kripto dünyasında son zamanlarda adından sıkça söz edilen Solana blokzincirinin geçtiğimiz hafta içinde yaklaşık 10 saat durmasını, nedenlerini ve üzerinde durulması gereken kritik konuları konuşacağız.
@@ -44,3 +52,11 @@ Bugün bu olay için bir araya gelen onaylayıcılar, yarın kullanıcıların a
 ### Sonuç 
 
 Blokzincirler için merkeziyetsizlik, hem dış ataklara karşı korunma açısından hem de blokzincirin gideceği yolu belirlemek açısından hayati. Hep söylediğimizi tekrar edelim şimdi. Merkeziyetsizlik uzun ince bir yol. Solana bu anlamda bu yolun henüz başında. Merkeziyetsiz bir yapı olduğunu söylemek neredeyse imkansız, ama bu da şu an için normal. Ondan beklenen yavaş yavaş merkeziyetsiz olma yolunda ilerlemesi. Dileriz bu konuda hızla yol alırlar. 
+
+---
+
+*Not 1: Bu yazı ilk olarak 21 Eylül 2021'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/solananin-basina-gelenler/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
