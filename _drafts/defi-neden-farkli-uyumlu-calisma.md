@@ -9,7 +9,7 @@ Bu yazımızda DeFi'yi klasik finanstan farklı kılan özelliklerden uyumlu ça
 
 DeFi'nin klasik finansa göre temelden farklı belli birkaç özelliği var. Bunlardan ilki olan 'açık kaynak' felsefesine yazı dizimizin ilkinde değinmiştik. Bu yazıda ise, ikinci temel farklı özellik olan uyumlu çalışma (composability) özelliğine değineceğiz. 
 
-## Klasik finansın sıkıntıları
+## Klasik finansın sıkıntıları
 Aslına bakarsanız birkaç yüzyıl önceye dayanan klasik finans, 20. Yüzyılın içerisinde ağır ağır belli temellere oturdu. Başlangıçta sadece mevduat toplama ve kredi verme ekseninde gelişen sektör, yüzyılının ikinci yarısından itibaren yeni yeni ürünler ile hızlanmaya başladı. Hız derken yanlış anlaşılma olmasın, genel olarak yeni ürün çıkarma süreçleri genelde yıllarca hatta on yıllarca sürmeye devam etti. 
 
 Teknolojinin hayatımızın içine daha da girmesi ile birlikte bu gelişme hızları artmaya başladı. Kimilerince dijitalleşme olarak da adlandırılan bu sürecin sayesinde artık yeni ürünler daha hızlı bir şekilde müşteri beğenisine sunuluyor. 
