@@ -43,6 +43,6 @@ So after years of being a 'toy' among a group of like-minded people, Bitcoin was
 There were many milestones in Bitcoin's history that helped the cryptocurrency to become the world's leading cryptocurrency and an alternative asset (such as the famous [pizza incident](https://www.news18.com/news/buzz/who-is-infamous-bitcoin-pizza-guy-man-who-blew-365m-haul-says-yet-had-no-regrets-3775664.html)), but Wikileaks incident was the real game changers in that sense.
 
 ---
-*This piece is [first published]() in [BlockchainIST Center](https://medium.com/blockchainist-center) on September 18th, 2021.*
+*This piece is [first published](https://medium.com/bcistcenter/how-did-bitcoin-start-f3d203de7e69) in [BlockchainIST Center](https://medium.com/blockchainist-center) on September 18th, 2021.*
 
 *None of the views expressed in this article should be considered as investment advice*
