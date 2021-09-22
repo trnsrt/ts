@@ -22,7 +22,7 @@ Benzer şekilde bu rekabetin getirdiği 'gizliliğin' bir başka sonucu da, kuru
 
 | ![silol](/assets/silos-tim-hallam_800.jpg)|
 |:--:| 
-| *Kaynak [Tim Hallam](https://www.instagram.com/p/CTXnmzKobMA/) özel izniyle*|
+| *Kaynak: [Tim Hallam](https://www.instagram.com/p/CTXnmzKobMA/) özel izniyle*|
 
 İşte finans devleri de böyle silolar şeklinde çalışır. Yani ürünlerin tüm geliştirmesini kendi içlerinde yapar, lisans ve telif zırhları altında saklar ve en önemlisi başka kurumlar (hele de rakipler) ile ortak çalışma yapmazlar. 
 
