@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DeFi neden farklı? - Uyumlu çalışabilme"
+title:  "DeFi neden farklı? - Uyumlu çalışma"
 date:   2021-09-11 08:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, DeFi'ye Giriş
@@ -20,7 +20,7 @@ Eskinin rekabeti korumacı bir rekabet idi. Yani, bilginin, hizmetin nasıl yap�
 
 Benzer şekilde bu rekabetin getirdiği 'gizliliğin' bir başka sonucu da, kurumların kendi yaptıklarını 'kalın duvarlar' altında saklaması. Bir örnek verelim: Toprak Mahsülleri Ofisi'nin Haydarpaşa'daki siloları dikkatinizi çekmiştir: 
 
-| ![silol](/assets/Debank_TVL_210829_800.png)|
+| ![silol](/assets/silos-tim-hallam_800.jpg)|
 |:--:| 
 | *Kaynak [Tim Hallam](https://www.instagram.com/p/CTXnmzKobMA/) özel izniyle*|
 
