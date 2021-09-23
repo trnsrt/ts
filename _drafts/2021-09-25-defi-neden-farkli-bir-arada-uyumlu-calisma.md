@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DeFi neden farklı? - Uyumlu çalışma"
+title:  "DeFi neden farklı? - Bir arada uyumlu çalışabilme"
 date:   2021-09-25 08:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, DeFi'ye Giriş
