@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DeFi neden farklı? - Uyumlu çalışma"
-date:   2021-09-11 08:47:56 +0300
+date:   2021-09-25 08:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, DeFi'ye Giriş
 ---
