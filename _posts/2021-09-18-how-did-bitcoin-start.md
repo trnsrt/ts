@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How did Bitcoin start"
+title:  "How did Bitcoin start?"
 date:   2021-09-18 17:47:56 +0300
 categories: Genel
 tags: Yazılar, Articles
