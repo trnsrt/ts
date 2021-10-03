@@ -1,0 +1,47 @@
+IMF, 1 Ekim tarihinde yayınladığı yeni raporunun ([IMF Global Financial Stability Report](https://www.imf.org/en/Publications/GFSR/Issues/2021/10/12/global-financial-stability-report-october-2021) October 2021 [pdf](https://www.imf.org/-/media/Files/Publications/GFSR/2021/October/English/ch2.ashx)) 2. bölümünü kriptoya ayırmış. 
+
+### Neden önemli?
+
+IMF'nin raporu kanun koyuculara politika belirleme konusunda yol gösteren bir kılavuz olması nedeniyle incelemeye değer. Genel olarak kripto pazarındaki risklerden bahseden raporun sonunda kanun koyuculara kullanabilecekleri sekiz öneride bulunuyor. 
+
+### İçinde neler var? Kısa bir özet: 
+
+Gelelim raporun içeriğine. Öncelikle rapor yayınlandıktan sonra medyada çıkan yorumlardan farklı düşündüğümü ifade etmeliyim. Bu rapor, daha önceki bu tip kurumlardan çıkmış benzerlerine göre bir hayli yumuşak ve kripto varlığını kabul eder nitelikte. Elbette, riskler üzerinde belki de gereğinden fazla durulmuş ve blokzincirin açık yapısının aslında bu risklerin pek çoğunu minimize etmede etkili olabileceği gibi çözümlerden bahsedilmemiş, ama uluslararası devletlerin çıkarlarını korumaya çalışan bir kurumun çıkardığı rapor ile ilgili beklentileri de belli bir seviyede tutmak gerekir diye düşünüyorum. 
+
+Öncelikle rapor, kripto ekosisteminin teknolojik yenilikler ile birlikte yepyeni fırsatlar getirdiğine yapılan vurgu ile başlıyor. Bu yenlikler temel olarak, ödeme ve finansal hizmetlerin daha ucuz, hızlı, ulaşılabilir ve sınırlar arası rahat bir şekilde dolaşabilmesine olanak sağlamak şeklinde sıralanıyor. Bunun yanında, merkeziyetsiz finansın daha yenlikçi, geniş kesimleri içine alan ve şeffaf bir finans sistemin altyapısı olabileceği de ekleniyor. 
+
+Raporun odak noktasının eskiden çok vurgu yapılan değeri kendinden menkul kriptoparalardan (yani BTC, ETH benzeri alanın eskilerinden) yavaş yavaş stabil paralara doğru kaydığını görüyoruz. Bu, ABD'nin son zamanlarda geliştirdiği söylemler ile paralel aslında. Özelikle ABD Dolarına çıpalanmış sabit para pazarının son bir yılda altı kat artarak 120 milyar ABD Dolarına ulaşmış olması belli ki IMF'yi de rahatsız etmişe benziyor. Bu rahatsızlıktan en büyük payı 70 milyar bir emisyona sahip olan ancak arkasında sadece %34 oranında nakit ya da mevduat olan USDT, yani Tether. Zaten, geçtiğimiz hafta Salı günü Senato'da konuşan FED başkanı Powell da, 'kriptoparaları yasaklamayı düşünüyor musunuz?' sorusuna cevap olarak net bir 'hayır' cevabı verirken, regülasyonlar konusunda aynı SEC Başkanı Gary Gensler gibi stabil paralara vurgu yapmıştı. 
+
+| ![stabil_paralar](/assets/stabil-para-rezervler-2109.png)|
+|:--:| 
+| *Stabil para yaratıcıların sahip olduğu rezervler [IMF](https://www.imf.org/en/Publications/GFSR/Issues/2021/10/12/global-financial-stability-report-october-2021)*|
+
+### Rapora göre riskler neler?
+
+Genel olarak kripto dünyasındaki riskler ise üç temel kategoride ele alınmış. 
+
+Operasyonel risklere örnek olarak, özellikle bazı merkezi borsaların 19 Mayıs günü yaşanan likidasyon sırasında 'ağ sıkışması' nedeniyle operasyonları durdurması gösterilmiş. Merkezi yapıların zaafiyetine güzel bir örnek olan bu olay, ne yazık ki, özensiz ya da hızlı şekilde dizayn edilen merkeziyetsiz borsalarda da yaşanabiliyor (bakınız Solana'nın başına gelenler yazımız).
+
+Siber risklerde ise, ekosistemin merkezi unsurlarına yapılan ataklardan bahsedilmiş (yine bir merkezi unsur vurgusu!), ama bir yandan da blokzincirlerin altında yer alan uzlaşma algoritmalarında da yaşanabileceği belirtilmiş (örnek verilmediği için tam olarak ne kastettiğini bilemiyoruz - uzlaşma noktalarının azlığı/merkeziliği mi acaba?)
+
+Yönetim risklerinde ise, kripto varlıkların basım ve dağıtımında şeffaflığın olmamasından kaynaklanan yatırımcı zararlarından bahsediliyor. Yine örnek verilmediği için tam olarak kastedileni bilemiyoruz ancak bildiğimiz bir gerçek, klasik dünyada merkez bankalarının para emisyonu ve şirketlerin hisse çıkarma konularında şeffaflığın hiçbir şekilde olmadığı. 
+
+Bunun yanında IMF'nin tüketici aldatılması ve piyasadaki dürüstlük konularında örnek olarak 'meme tokenleri'  ve 16,000 tokenden şu anda sadece 9,000'nin kalmasını vermesi de ilginç. Bunun temel nedeninin ekosistemde yeterince açıklama ve gözetim olmaması sonucuna varması ise neresiden bakarsanız bakın zayıf bir argüman. Bu bana, Rusya'da yıllar önce yaşadığım bir olayı anımsatıyor. Moskova'da birkaç gün ara ile döner büfelerinden zehirlenmeler olunca, belediye tüm döner dükkanlarını kapatmıştı. IMF'nin önerdiği de sanki benzer bir reçete. 
+
+Raporda ülkemizin adının birkaç kez geçtiğini de hatırlatalım. Bunlardan ilki, Malezya ve Nijerya ile birlikte global kripto alım-satım platformlarına para transferlerinin kısıtlanması. Bunun aslında çok da etkili olmadığı belirtilirken ilerleyen sayfalardan birinde verilen, global borsaların internet ziyaretçileri tablosunda en büyük beş borsadan ikisinin bir numarasında Türkiye'nin olması aslında bir nevi bu düşünceyi teyit ediyor. 
+
+Bunun dışında, gelişmekte olan piyasalarda cryptoization olarak adlandırılan dollarization teriminden türetilmiş bir olgudan da söz ediliyor. Temel nedeni olarak tutarlı makroekonomik politikaların olmayışının halkı değer saklama aracı  olarak dolar tutmaya yönlendilen bu durum, şimdi artık kriptoparalar için de geçerli olmaya başlıyor. 
+
+### Çözüm önerileri neler?
+Ülkelerin kripto düzenlemeleri konusunda kanun koyucularına verdiği tavsiyelerde, IMF konuyu üç ana başlıkta düzenliyor. Standartların belirlenmesi, stabil paralar ve makro finansal risklerin yönetilmesi. 
+
+IMF'nin, kripto konusunda global standartların belirlenmesini çözümler içinde baş köşeye koymasını doğal karşılamak gerek, zira temel varoluş nedenleri bu. Raporun bu kısmında, global standartların her bir ülkede uygulanması, risklerin kontrol edilmesi, ülkeler arası koordinasyon gibi her IMF raporunun beylik çözüm önerilerini görebiliyoruz. 
+
+Stabil paralar konusunda ise, özelikle bu varlıkların arkasındaki rezervlerin bağımsız denetimi, ağları yönetenler için kurallar konması var. Burada IMF yerden göğe kadar haklı. Stabil paralar, özünde merkezi yapılar ve özellikle merkeziyetsiz finans alanında ciddi bir risk unsuru olarak değerlendirilmeli ve ona göre kanuni denetime tâbi olmalarında hiç bir sakınca yok, hatta ciddi bir gereklilik var. 
+
+Makroekonomik finansal risklerin yönetilmesinde iki temel konudan bahsediliyor. Birincisi, dolarizasyonu önleyici politikalar izlenmesi. Bu yine IMF'nin yılardır hükümetlere söylediği 'kemerleri sıkın, fazla açılmayın' söyleminin aynısı. Ek olarak merkez bankası dijital paralarının ödeme altyapılarını iyileştirecek ise bir faydası olacağından bahsediliyor. Sermaye çıkışlarının sınırlandırılması konusunda ise ülkelerin tek başına alacağı önlemlere kuşkuyla bakılırken, ülkelerarası koordinasyon olmadıkça bu önlemlerin fazla bir faydası olmayacağından bahsediliyor. 
+
+### Sonuç
+IMF'nin 14 sayfalık raporu, regülasyonlarla gözüyle kripto dünyasına bakışı anlamak ve bu bakıştaki zaman içinde gerçekleşen değişimi yakalamak için ilginç veriler barındırıyor. 
+
+Raporu iki şekilde okumak mümkün. Birincisi, BTC, ETH gibi kriptoparaların varlıklarının kabul edildiği, kriptonun yenilikçi tarafının vurgulandığı, merkeziyetsiz finans konusuna geniş verildiği bir rapor bu. Riskler vurgulansa da regülasyonlar konusunda stabil paralara ağırlık verildiğini görüyoruz.  Bir diğer okuma ise, şu anda kanun koyucuların önünde denetleyecek pek çok farklı alan olması nedeniyle önceliğin stabil paralara verildiği ve o alana çeki düzen verildikten sonra sıranın daha haylaz diğer kriptoparalara geleceği şeklinde. Hangisinin daha olası olduğu konusunda karar yine siz sevgili okuyucunun. 
