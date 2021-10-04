@@ -12,7 +12,7 @@ Rapor, daha önceki bu tip kurumlardan çıkmış benzerlerine göre bir hayli y
 
 Öncelikle rapor, kripto ekosisteminin teknolojik yenilikler ile birlikte yepyeni fırsatlar getirdiğine yapılan vurgu ile başlıyor. Bu yenilikler temel olarak, ödeme ve finansal hizmetlerin daha ucuz, hızlı, ulaşılabilir ve sınırlar arası rahat bir şekilde dolaşabilmesine olanak sağlamak şeklinde sıralanıyor. Bunun yanında, merkeziyetsiz finansın daha yenilikçi, geniş kesimleri içine alan ve şeffaf bir finans sisteminin altyapısı olabileceği de ekleniyor. 
 
-| ![transparency](/assets/stabil-para-rezervler-2109.png)|
+| ![transparency](/assets/world-g7d0eaa2d9_800.jpg)|
 |:--:| 
 | *Image by [DrSJS](https://pixabay.com/users/drsjs-149538/) from [Pixabay](https://pixabay.com/)*|
 
