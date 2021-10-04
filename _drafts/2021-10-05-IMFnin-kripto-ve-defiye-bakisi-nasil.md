@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "IMF'nin kripto ve DeFi'ye bakışı nasıl?"
+date:   2021-09-21 17:47:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
 Bu yazımızda gelin IMF'nin son yayınladığı raporun kripto ile ilgili bölümlerini yorumlayalım.
 
 IMF, 1 Ekim tarihinde yayınladığı yeni raporunun ([IMF Global Financial Stability Report](https://www.imf.org/en/Publications/GFSR/Issues/2021/10/12/global-financial-stability-report-october-2021) October 2021 [pdf](https://www.imf.org/-/media/Files/Publications/GFSR/2021/October/English/ch2.ashx)) 2. bölümünü kriptoya ayırmış. 
@@ -51,3 +59,11 @@ Makroekonomik finansal risklerin yönetilmesinde iki temel konudan söz ediliyor
 IMF'nin 14 sayfalık raporu, düzenleme yapıcılar gözüyle kripto dünyasına bakışı anlamak ve bu bakıştaki zaman içinde gerçekleşen değişimi yakalamak için ilginç veriler barındırıyor. 
 
 Raporu iki şekilde okumak mümkün. Birincisi, BTC, ETH gibi kriptoparaların varlıklarının kabul edildiği, kriptonun yenilikçi tarafının vurgulandığı, merkeziyetsiz finans konusuna geniş yer verilen bir rapor bu. Risk vurgusuna rağmen regülasyonların daha dar tutularak sabit paralar etrafında yoğunlaştığını görüyoruz.  Bir diğer okuma ise, şu anda kanun koyucuların önünde denetleyecek pek çok farklı alan olması nedeniyle önceliğin stabil paralara verildiği ve o alana çeki düzen verildikten sonra sıranın daha haylaz diğer kriptoparalara geleceği şeklinde olabilir. Hangisinin daha olası olduğu konusunda karar yine siz sevgili okuyucunun. 
+
+---
+
+*Not 1: Bu yazı ilk olarak 5 Ekim 2021'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı]()*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
