@@ -6,7 +6,7 @@ IMF'nin raporu kanun koyuculara politika belirleme konusunda yol gösteren bir k
 
 ### İçinde neler var? Kısa bir özet: 
 
-Gelelim raporun içeriğine. Öncelikle rapor yayınlandıktan sonra medyada çıkan yorumlardan farklı düşündüğümü ifade etmeliyim. Bu rapor, daha önceki bu tip kurumlardan çıkmış benzerlerine göre bir hayli yumuşak ve kripto varlığını kabul eder nitelikte. Elbette, riskler üzerinde belki de gereğinden fazla durulmuş ve blokzincirin açık yapısının aslında bu risklerin pek çoğunu minimize etmede etkili olabileceği gibi çözümlerden bahsedilmemiş, ama uluslararası devletlerin çıkarlarını korumaya çalışan bir kurumun çıkardığı rapor ile ilgili beklentileri de belli bir seviyede tutmak gerekir diye düşünüyorum. 
+Rapor, daha önceki bu tip kurumlardan çıkmış benzerlerine göre bir hayli yumuşak ve kriptoyu finansal araç olarak kabul eder nitelikte. Önceki raporlar gibi kriptoya yatırımın riskleri üzerinde bir hayli durulmuş ancak blokzincirin açık yapısının aslında bu risklerin pek çoğunu minimize etmede bahsedilmemiş.  ama uluslararası devletlerin çıkarlarını korumaya çalışan bir kurumun çıkardığı rapor ile ilgili beklentileri de belli bir seviyede tutmak gerekir diye düşünüyorum. 
 
 Öncelikle rapor, kripto ekosisteminin teknolojik yenilikler ile birlikte yepyeni fırsatlar getirdiğine yapılan vurgu ile başlıyor. Bu yenlikler temel olarak, ödeme ve finansal hizmetlerin daha ucuz, hızlı, ulaşılabilir ve sınırlar arası rahat bir şekilde dolaşabilmesine olanak sağlamak şeklinde sıralanıyor. Bunun yanında, merkeziyetsiz finansın daha yenlikçi, geniş kesimleri içine alan ve şeffaf bir finans sistemin altyapısı olabileceği de ekleniyor. 
 
