@@ -1,3 +1,5 @@
+Bu yazımızda gelin IMF'nin son yayınladığı raporun kripto ile ilgili bölümlerini yorumlayalım.
+
 IMF, 1 Ekim tarihinde yayınladığı yeni raporunun ([IMF Global Financial Stability Report](https://www.imf.org/en/Publications/GFSR/Issues/2021/10/12/global-financial-stability-report-october-2021) October 2021 [pdf](https://www.imf.org/-/media/Files/Publications/GFSR/2021/October/English/ch2.ashx)) 2. bölümünü kriptoya ayırmış. 
 
 ### Neden önemli?
