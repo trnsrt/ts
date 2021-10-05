@@ -8,7 +8,7 @@ tags: Yazılar, DeFi, DeFi'ye Giriş
 
 DeFi'nin klasik finansa göre farklılıklarından bahsettiğimiz bu yazı dizimizimin bu bölümünden emanet tutmama özelliği üzerinde duruyoruz. 
 
-## Ne demek emanet tutmama
+### Ne demek 'emanet tutmama'?
 Fiziki dünya temelli klasik finansın bu dünyaya özgü en kritik özelliklerinden biri 'emanet tutması'. Tam olarak ne demek bu?
 
 Kullanıcı olarak kullanmak istediğimiz her finans ürününde bize bankalar ya da finans kurumları aracılık yapar. Bizim son kullanıcı olarak finans sistemine direkt bağlantımız bulunmaz. Yani, herhangi bir finansal işlem yapmak istediğinizde, yani örneğin mevduat yapıp faiz kazanmayı arzuladığınızda, bunu gerçekleştirebilmek için paranızı bankaya yatırmak zorundasınız. 
