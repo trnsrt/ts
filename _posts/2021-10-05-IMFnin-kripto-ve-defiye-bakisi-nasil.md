@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "IMF'nin kripto ve DeFi'ye bakışı nasıl?"
-date:   2021-09-21 17:47:56 +0300
+date:   2021-10-05 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
 ---
@@ -62,7 +62,7 @@ Raporu iki şekilde okumak mümkün. Birincisi, BTC, ETH gibi kriptoparaların v
 
 ---
 
-*Not 1: Bu yazı ilk olarak 5 Ekim 2021'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı]()*
+*Not 1: Bu yazı ilk olarak 5 Ekim 2021'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/imf-kripto-ve-defiye-nasil-bakiyor/)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
