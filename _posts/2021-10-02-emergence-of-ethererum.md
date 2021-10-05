@@ -29,6 +29,6 @@ What is important above that price appreciation is the global usage of the Ether
 We will further elaborate on the philosophy of Ethereum in our next post. 
 
 ---
-*This piece is [first published]() in [BlockchainIST Center](https://medium.com/blockchainist-center) on October 2nd, 2021.*
+*This piece is [first published](https://medium.com/bcistcenter/emergence-of-ethereum-cba1e458c0b8) in [BlockchainIST Center](https://medium.com/blockchainist-center) on October 2nd, 2021.*
 
 *None of the views expressed in this article should be considered as investment advice*
