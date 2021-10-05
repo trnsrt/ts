@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Emergence of Ethereum"
-date:   2021-10-04 17:47:56 +0300
+date:   2021-10-02 17:47:56 +0300
 categories: Genel
 tags: Yazılar, Articles
 ---
