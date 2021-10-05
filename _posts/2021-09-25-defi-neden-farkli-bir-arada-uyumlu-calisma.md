@@ -44,7 +44,7 @@ Bir sonraki yazımızda DeFi'yi klasik finanstan ayıran önemli özelliklerden 
 
 ---
 
-*Not 1: Bu yazı ilk olarak 25 Eylül 2021'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı]()*
+*Not 1: Bu yazı ilk olarak 25 Eylül 2021'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı](https://medium.com/blockchainist-center/defi-neden-farkl%C4%B1-bir-arada-uyumlu-%C3%A7al%C4%B1%C5%9Fabilme-8d1e90d0ac89)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
