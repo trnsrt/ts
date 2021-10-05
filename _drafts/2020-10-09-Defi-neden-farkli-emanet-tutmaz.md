@@ -18,7 +18,7 @@ Bu öteden beridir herkesin yaptığı bir işlem olduğu için bize anormal gel
 Çok haklısınız. İşte aslına bakarsanız, bankaların ve finans kurumlarının sıkı kanuni denetim altında olmasının en önemli nedeni, müşteri parasını emanet almalarıdır. Kanuni otoriteler, küçük büyük tüm yatırımcıların paralarının güvence altında olduğunu emin olmak için finans kurumların adeta nefes aldırmazlar. Çok da haklılar bu yaptıklarında. 
 
 
-| ![diamonds](/assets/barb-g3739fe19a_800.jpg)|
+| ![diamonds](/assets/barb-g3739fe19a_800_v2.jpg)|
 |:--:| 
 | *Image by [Clker-Free-Vector-Images](https://pixabay.com/users/clker-free-vector-images-3736/) from [Pixabay](https://pixabay.com/)*|
 
