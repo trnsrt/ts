@@ -8,7 +8,7 @@ tags: Yazılar, Articles
 
 In our previous post, we discussed the emergence of Ethereum. In this post, let's talk about the major differences between Bitcoin and Ethereum. 
 
-### How Ethereum differs from Bitcoin
+### Bitcoin: Ancestor of Ethereum
 Ethereum's origins are coming from its founder Vitalik Buterin's troubles in trying to develop Bitcoin.
 
 Bitcoin itself is a system that is designed mainly to preserve value and provide users the ability to transfer this value to anyone in the world, anytime they want, without any restrictions. As we mentioned in previous posts, money is essentially a belief system and its essense is based on trust. It gain acceptance among people if they believe in it and trust that it would preserve value. 
