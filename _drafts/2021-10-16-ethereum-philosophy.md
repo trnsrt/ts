@@ -11,10 +11,10 @@ In our previous post, we discussed the emergence of Ethereum. In this post, let'
 ### Bitcoin: Ancestor of Ethereum
 Ethereum's origins are coming from its founder Vitalik Buterin's troubles in trying to develop Bitcoin.
 
-Bitcoin itself is a system that is designed mainly to preserve value and provide users the ability to transfer this value to anyone in the world, anytime they want, without any restrictions. As we mentioned in previous posts, money is essentially a belief system and its essense is based on trust. It gain acceptance among people if they believe in it and trust that it would preserve value. 
+Bitcoin itself is a system that is designed mainly to preserve value and provide users the ability to transfer this value to anyone in the world, anytime they want, without any restrictions. As we mentioned in previous posts, money is essentially a belief system and its essence is based on trust. It gains acceptance among people if they believe in it and trust that it would preserve value. 
 
 ### How about Ethereum?
-Ethereum, in essense tries to be the 'world computer' which means be an infrastructure where anyone in the world would use without any restriction. What do we mean by 'use'? Well, that means different thing for different people. For developers, it is, to develop any application and deploy it on Ethereum without any restrictions. For users, to have access to Ethereum system and use these applications without any limitations. 
+Ethereum, in essence tries to be the 'world computer' which means be an infrastructure where anyone in the world would use without any restriction. What do we mean by 'use'? Well, that means different thing for different people. For developers, it is, to develop any application and deploy it on Ethereum without any restrictions. For users, to have access to Ethereum system and use these applications without any limitations. 
 
 | ![eth_image](/assets/cryptocurrency-3424785_800.jpg)|
 |:--:| 
