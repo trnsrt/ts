@@ -29,7 +29,7 @@ Bir diğer kesim ise klasik finans ile merkeziyetsiz finansın bir arada yaşabi
 
 Societe Generale, SG-Forge, MakerDAO ve bir aracı kurumun da yer alacağı bu sistem ile bir taşla birkaç kuş vurmak hedefleniyor.  Neler bunlar?
 
-| ![sg-maker-dao](/assets/sg-maker-dao.png)|
+| ![sg-maker-dao](/assets/sg-maker-dao_v2.png)|
 |:--:| 
 | *Societe General'in MakerDAO'ya sunduğu önerinin şeması. Kaynak: [Maker DAO](https://forum.makerdao.com/t/security-tokens-refinancing-mip6-application-for-ofh-tokens/10605)*|
 
