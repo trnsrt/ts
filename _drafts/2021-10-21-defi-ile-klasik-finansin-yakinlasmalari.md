@@ -10,7 +10,7 @@ Bu yazımızda geçtiğimiz haftalarda çok konuşulan Societe Generale'in Maker
 
 Ekim 2021'in ilk günlerinde, [MakerDAO](https://makerdao.com/en/) forumları yapılan bir [öneri](https://forum.makerdao.com/t/security-tokens-refinancing-mip6-application-for-ofh-tokens/10605) ile hareketlendi. Fransa'nın önde gelen bankalarından Societe Generale DAI borçlanabilmek için MakerDAO'ya [bir başvuruda bulunmuştu](https://www.btchaber.com/societe-generale-makerdao-kredisine-basvurmuştu/). 
 
-| ![dancing](/assets/dancing-g9a690011d_800.jpg)|
+| ![dancing](/assets/bulusma_800.jpg)|
 |:--:| 
 | *Image by [John Hain](https://pixabay.com/users/johnhain-352999/) from [Pixabay](https://pixabay.com/)*|
 
