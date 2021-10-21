@@ -1,6 +1,12 @@
-DeFi ile klasik finans yakınlaşmaları.. 
+---
+layout: post
+title:  "DeFi ile klasik finansın yakınlaşmaları"
+date:   2021-10-21 17:47:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
 
-Bu yazımızda geçtiğimiz haftalarda konuşulan Societe Generale'in MakerDAO'ya yaptığı kredi tahsis başvurusunun detaylarına ve neden önemli olduğuna değineceğiz. 
+Bu yazımızda geçtiğimiz haftalarda çok konuşulan Societe Generale'in MakerDAO'ya yaptığı kredi tahsis başvurusunun detaylarına ve neden önemli olduğuna değineceğiz. 
 
 Ekim 2021'in ilk günlerinde, [MakerDAO](https://makerdao.com/en/) forumları yapılan bir [öneri](https://forum.makerdao.com/t/security-tokens-refinancing-mip6-application-for-ofh-tokens/10605) ile hareketlendi. Fransa'nın önde gelen bankalarından Societe Generale DAI borçlanabilmek için MakerDAO'ya [bir başvuruda bulunmuştu](https://www.btchaber.com/societe-generale-makerdao-kredisine-basvurmuştu/). 
 
@@ -11,7 +17,7 @@ Ekim 2021'in ilk günlerinde, [MakerDAO](https://makerdao.com/en/) forumları ya
 Gelin önce neler olduğuna kısaca bir bakalım. 
  
 ### MakerDAO ne?
-Öncelikle 'MakerDAO da ne?' diye soracak okuyucularımız için; kendileri merkeziyetsiz finans yani DeFi sisteminin en eski oyuncularından olurlar. DeFi sisteminde ağırlıkla kullanılan DAI adlı ABD dolarına çapalı stabil paranın mucididirler. Kullanıcıların, ellerinde bulunan dijital varlıkları teminat göstererek DAI borçlanmasına olanak verirler. Bütün bunları merkeziyetsiz bir şekilde yaparlar, o kadar ki, geçtiğimiz aylarda geliştirici grup bile kendisini lağvetti ve bundan sonra yönetim tamamen MakerDAO tokeni olan MKR sahiplerine geçti. (İlgilenen okuyucularımız, bu satırların yazarı tarafından kaleme alınmış 2019 Şubat ayına ait ['MakerDAO kredi kullanımında çığır açar mı?'](https://medium.com/turansert/makerdao-kredi-kullan%C4%B1m%C4%B1nda-%C3%A7%C4%B1%C4%9F%C4%B1r-a%C3%A7ar-m%C4%B1-5b0d27a60bb1) ve 2020 Mayıs ayına ait ['Maker DAO - Bir yılda neler değişti'](https://medium.com/turansert/merkeziyetsiz-finans-ve-maker-dao-bir-y%C4%B1lda-neler-de%C4%9Fi%C5%9Fti-f133e9cd4007) yazılarına göz gezdirebilirler). 
+Öncelikle 'MakerDAO da ne?' diye soracak okuyucularımız için, kendileri merkeziyetsiz finans yani DeFi sisteminin en eski oyuncularından olurlar. DeFi sisteminde ağırlıkla kullanılan DAI adlı ABD dolarına çapalı stabil paranın mucididirler. Kullanıcıların, ellerinde bulunan dijital varlıkları teminat göstererek DAI borçlanmasına olanak verirler. Bütün bunları merkeziyetsiz bir şekilde yaparlar, o kadar ki, geçtiğimiz aylarda geliştirici grup bile kendisini lağvetti ve bundan sonra yönetim tamamen MakerDAO tokeni olan MKR sahiplerine geçti. (İlgilenen okuyucularımız, bu satırların yazarı tarafından kaleme alınmış 2019 Şubat ayına ait ['MakerDAO kredi kullanımında çığır açar mı?'](https://medium.com/turansert/makerdao-kredi-kullan%C4%B1m%C4%B1nda-%C3%A7%C4%B1%C4%9F%C4%B1r-a%C3%A7ar-m%C4%B1-5b0d27a60bb1) ve 2020 Mayıs ayına ait ['Maker DAO - Bir yılda neler değişti'](https://medium.com/turansert/merkeziyetsiz-finans-ve-maker-dao-bir-y%C4%B1lda-neler-de%C4%9Fi%C5%9Fti-f133e9cd4007) yazılarına göz gezdirebilirler). 
 
 MKR sahibi kişi ya da kurumlar bir diğer deyişle topluluk, MakerDAO'nun stratejik olarak nasıl bir yol izleyeceğine karar veriyor. Bu stratejik kararlar, kredilere uygulanacak faiz oranlarının değiştirilmesinden, teminat olarak kullanılabilecek dijital varlıkların belirlenmesine kadar geniş bir yelpazede yer alabiliyor. DeFi'nin 'izin gerektirmeyen (permissionless)' ruhuna uygun olarak isteyen her kullanıcı, bu stratejik konularda alınmasını istediği kararları öneri olarak sunabiliyor. Öneri, MKR sahipleri tarafından onaylandıktan sonra kabul görürse geçerlik kazanıyor ve akıllık kontratlar vasıtasıyla yürürlüğe konuyor. 
 
@@ -19,7 +25,7 @@ MKR sahibi kişi ya da kurumlar bir diğer deyişle topluluk, MakerDAO'nun strat
 
 İşte Societe Generale de Ekim ayı başında bu tip bir stratejik kararı MakerDAO topluluğunun onayına sundu. Temel olarak öneri, Societe Generale'nin Ethereum blokzinciri üzerinde çıkarmış olduğu tokenlerin MakerDAO sistemine teminat olarak kabul edilmesi ile ilgiliydi. 
 
-Fransa'nın üçüncü büyük bankası olan Societe Generale (SG), klasik finansın DeFi ile tanışması için öncülük eden kurumlardan. Kendilerine ait [SG-Forge](https://www.sgforge.com/) isimli iştirakleri ile uzun zamanda dijital dünyada deneysel projeler yapıyorlar. Bunlar arasında 2019 yılında 100 milyon Euro'luk kendi tahvil ihracı ile bu yıl içinde [bir yazımızda detayını anlattığımız](https://www.btchaber.com/finans-piyasalarinda-bir-ilk-eibnin-ethereum-uzerinden-bono-ihraci/) Avrupa Yatırım Bankası'nın 100 milyon Euro'luk tahvil ihracına aracılık etmek de var. 
+Fransa'nın üçüncü büyük bankası olan Societe Generale (SG), klasik finansın DeFi ile tanışması için öncülük eden kurumlardan. Kendilerine ait [SG-Forge](https://www.sgforge.com/) isimli iştirakleri ile uzun zamandır dijital dünyada deneysel projeler yapıyorlar. Bunlar arasında 2019 yılında 100 milyon Euro'luk kendi tahvil ihracı ile bu yıl içinde [bir yazımızda detayını anlattığımız](https://www.btchaber.com/finans-piyasalarinda-bir-ilk-eibnin-ethereum-uzerinden-bono-ihraci/) Avrupa Yatırım Bankası'nın 100 milyon Euro'luk tahvil ihracına aracılık etmek de var. 
 
 MakerDAO topluluğuna yapılan öneri, SG'nin 2020 yılında ihraç edilmiş olan SG-Forge'a ait beş yıl vadeli 40 milyon Euro tutarındaki tahvilin teminat olarak verilip, karşılığında 6-9 ay vadeli 20 milyon DAI borçlanması. 
 
@@ -43,7 +49,7 @@ Societe Generale, SG-Forge, MakerDAO ve bir aracı kurumun da yer alacağı bu s
 
 Yukarıda karmaşık olduğu için anlaması oldukça zor olan yapıya baktığınızda, bir ilginç detay daha farkediyorsunuz: Ortada Societe Generale, SG-Forge ve Maker DAO dışında bir kurum daha var. En sağda bulunan bir aracı kurum. Bu aracı kurumun kim olacağı henüz belli değil. Bu aracı kurum ABD Doları verecek ve karşılığında DAI alacak, aldığı bu DAI'yi de başka kişi ya da kurumlara plase edecek. Dolayısıyla bu DAI'yi alacak olan kişi ya da kurumlar, aslında bir kriptopara alım-satım platformu ile temasa geçmeden, hesaplarında bulunan ABD Doları ile  DAI almak ve bu DAI'yi merkeziyetsiz finans ortamında kullanma şansına sahip olacaklar. 
 
-Dolayısıyla, bir banka olarak SG bir kriptopara alım-satım platformu faaliyetinde bulunacak. Bu yapı sayesinde müşterilerine kendi üzerinden DeFi dünyasına açılan bir kapı olacak. 
+Sonuçta bir banka olarak SG, bu yapı sayesinde, bir kriptopara alım-satım platformu faaliyetinde bulunarak müşterilerine kendi üzerinden DeFi dünyasına açılan bir kapı olacak.
 
 ### Sonuç
 Fransa'nın üçüncü büyük bankasının, elindeki tahvilleri rehin vererek DeFi dünyasında borçlanma yapabilmek için merkeziyetsiz bir topluluğa başvurması, bundan bir kaç yıl önce hayal bile edilemecek bir hareket olurdu. DeFi'nin son bir yıl içindeki müthiş büyümesi sayesinde bugün gündelik bir haber olmanın ötesinde çok da tartışılmadı bile. 
