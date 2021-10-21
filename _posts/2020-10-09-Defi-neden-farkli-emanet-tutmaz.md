@@ -41,7 +41,7 @@ Kanuni deneticiler bu söylemi ne kadar dinleyecekler hep birlikte göreceğiz. 
 
 ---
 
-*Not 1: Bu yazı ilk olarak 9 Ekim Eylül 2021'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı]()*
+*Not 1: Bu yazı ilk olarak 9 Ekim Eylül 2021'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı](https://medium.com/blockchainist-center/defi-neden-farkl%C4%B1-emanet-tutmama-5a5339e514be)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
