@@ -28,6 +28,6 @@ The technology that allows people to exercise such rights, cannot come from any 
 
 
 ---
-*This piece is [first published]() in [BlockchainIST Center](https://medium.com/blockchainist-center) on October 16th, 2021.*
+*This piece is [first published](https://medium.com/bcistcenter/ethereum-philosophy-ddfb6c1249c9) in [BlockchainIST Center](https://medium.com/blockchainist-center) on October 16th, 2021.*
 
 *None of the views expressed in this article should be considered as investment advice*
