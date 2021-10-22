@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "DeFi neden farklı? - Sorumluluk kullanıcıda"
@@ -19,15 +18,15 @@ Elektronik cüzdan dediğimiz aslında bir aracı. Yaptığı kullanıcının bl
 
 Sorun biz fanilerin bu kadar teknik bir konuya yeterince hakim olamamamızdan kaynaklanıyor. Örneğin, 12/24 kelimeyi güvenli bir yerde tutmak, bu sorunların en büyüklerinden bir tanesi. Zira dijital dünyadaki en büyük sorunlardan biri dış ataklar ve hırsızlıklara karşı son kullanıcıların maalesef çok korunaksız olması. Pek çok kullanıcı bu 12-24 kelimenin ekran görüntüsünü alıp telefonlarında saklıyorlar - yapılabilecek en büyük hatalardan bir tanesi. 
 
-Güvenli yöntem ne peki? Herhangi bir yöntemi %100 güvenli olarak adlandırmak zor, ancak göreceli olarak baktığımızda donanım cüzdanı (hardware wallet) kullanmak en korunaklı gibi görünmekte. Donanım cüzdanı almak istemeyen kullanıcılar ise bu 12-24 kelimeyi korunaklı internet erişimini olmadığı bir yerde saklayabilirler - donanım cüzdanı kadar olmasa da ekran görüntüsü alıp bulut üzerinde saklamaktan daha güvenli bir yöntem olduğu kesin bunun. 
+Güvenli yöntem ne peki? Herhangi bir yöntemi %100 güvenli olarak adlandırmak zor, ancak göreceli olarak baktığımızda donanım cüzdanı (hardware wallet) kullanmak en korunaklı gibi görünmekte. Donanım cüzdanı almak istemeyen kullanıcılar ise bu 12-24 kelimeyi korunaklı, internet erişimini olmadığı bir yerde saklayabilirler - donanım cüzdanı kadar olmasa da ekran görüntüsü alıp bulut üzerinde saklamaktan daha güvenli bir yöntem olduğu kesin bunun. 
 
 | ![security](/assets/cyber-g3b297423d_800.jpg)|
 |:--:| 
 | *Image by [Free stock photos from www.rupixen.com](Image by <a href="https://pixabay.com/users/rupixen-11154019/) from [Pixabay](https://pixabay.com/)*|
 
-Yukarıda bahsettiğimiz örnek en temel güvenlik sorunu ancak konu maalesef bununla bitmiyor. Kullanıcın DeFi ürünlerini kullanırken de çok dikkatli olmasında fayda var. Birkaç örnek verelim: 
+Yukarıda bahsettiğimiz örnek en temel güvenlik sorunu ancak konu maalesef bununla bitmiyor. Kullanıcının DeFi ürünlerini kullanırken de çok dikkatli olmasında fayda var. Birkaç örnek verelim: 
 
-Herhangi bir websitesine girip cüzdanınızı bağlamadan önce cüzdanınız sizden siteye bağlanmak için onay ister. Burada, sitenin sizin cüzdanınız üzerinde ne gibi erişim talebinde bulunduğunu okumakta fayda var. Genelde, ilk erişimde sitenin istediği bilginin kullanıcının hesap numarası ve bakiyeleri site ekranında  göstermek olduğunu belirtelim. 
+Herhangi bir websitesine girip cüzdanınızı bağlamadan önce cüzdanınız sizden siteye bağlanmak için onay ister. Burada, sitenin sizin cüzdanınız üzerinde ne gibi bir erişim talebinde bulunduğunu okumakta fayda var. Genelde, ilk erişimde sitenin istediği bilginin kullanıcının hesap numarası ve bakiyelerini site ekranında  göstermek olduğunu belirtelim. 
 
 Bununla bitmiyor. Sonrasında, kullanıcı herhangi bir işlem yapmak istediğinde site iki ayrı konuda onay almak zorunda. Birincisi, işleme konu olan kriptoparaya 'dokunabilme' hakkı. Burada, kullanıcının dikkat etmesi gereken, DeFi protokolüne bu izni verirken, ne kadarlık bir izin verdiği. Burada iş bir parça karmaşıklaşıyor. Bütün bu izinler, blokzincire yazılmak zorunda. Bu da işlem ücreti ödemek demek. DeFi protokolleri, sürekli kullanıcıdan izin alıp işlem ücreti vermemek için bu izinleri ya yüksek miktarda ya da limitsiz isterler. Burada kullanıcının bir karar vermesi gerekiyor. Kullandığı protokole güveniyor ve sık işlem yapacağını düşünüyor ise bu izni verebilir. Aksi durumda, izin verdiği rakamı sadece o an işlem yapacağı miktar ile sınırlayabilir. Güvenlik uzmanları ikinci yöntemin daha güvenli olduğunu söylerler, benden söylemesi. 
 
