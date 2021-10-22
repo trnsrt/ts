@@ -55,3 +55,13 @@ Sonuçta bir banka olarak SG, bu yapı sayesinde, bir kriptopara alım-satım pl
 Fransa'nın üçüncü büyük bankasının, elindeki tahvilleri rehin vererek DeFi dünyasında borçlanma yapabilmek için merkeziyetsiz bir topluluğa başvurması, bundan bir kaç yıl önce hayal bile edilemecek bir hareket olurdu. DeFi'nin son bir yıl içindeki müthiş büyümesi sayesinde bugün gündelik bir haber olmanın ötesinde çok da tartışılmadı bile. 
 
 Yaygınlık kazanması durumunda, müşterilerin bankaları aracılığıyla DeFi dünyasına adım atmalarını sağlayacak ve bu sayede DeFi'nin geniş kesimlerce kullanılabilmesi için oldukça önemli olabilecek bu hareketin nasıl şekilleneceğini hep birlikte takip edeceğiz. Belki bir gün bu satırlarda bir DeFi protokolünün bir banka satın aldığı gibi bir haberi de tartışıyor oluruz. Kim bilir?.. 
+
+
+
+---
+
+*Not 1: Bu yazı ilk olarak 21 Ekim 2021'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/defi-ile-klasik-finansin-yakinlasmalari/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
