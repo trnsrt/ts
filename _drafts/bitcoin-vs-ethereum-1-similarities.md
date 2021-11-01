@@ -5,6 +5,10 @@ We have talked about what Bitcoin and Ethereum are and their philosophies in our
 ### They look so different?
 There are many similarities between Bitcoin and Ethereum. We will look at just three of them in this post. 
 
+| ![twins](/assets/present-g64f9719a0_800.jpg)|
+|:--:| 
+| *Image by [Ben Fleeson](https://pixabay.com/users/bfleeson-3712926/) from [Pixabay](https://pixabay.com/)*|
+
 #### Ethereum is born out of Bitcoin
 First and foremost, Ethereum is born out of the Bitcoin ecosystem. Vitalik Buterin and other key members of the Ethereum's founding group are all coming from inside the Bitcoin community. 
 
