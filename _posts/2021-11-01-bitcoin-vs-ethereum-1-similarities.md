@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Bitcoin vs. Ethereum — 1: Similarities"
+date:   2021-10-16 17:47:56 +0300
+categories: Genel
+tags: Yazılar, Articles
+---
+
 Let's have a quick look at the similarities and differences between Bitcoin and Ethereum in these mini-series of two posts. 
 
 We have talked about what Bitcoin and Ethereum are and their philosophies in our earlier posts. To sum up, let's quickly recap the similarities between these two systems in this post. We will talk about their differences in our next post.  
@@ -30,3 +38,7 @@ We should note that many of Bitcoin's main properties were used in Ethereum as w
 If you follow crypto media (or Twitter) you may witness many clashed between so-called Bitcoin maximalist and Ethereans. While, much of those discussions have some merit, we should not forget that both systems are coming from the same roots and have many similarities. There are differences as well, which we will glance over in our next post. 
 
 
+---
+*This piece is [first published](https://medium.com/bcistcenter/bitcoin-vs-ethereum-1-similarities-cf38dcd58abf) in [BlockchainIST Center](https://medium.com/blockchainist-center) on November 1st, 2021.*
+
+*None of the views expressed in this article should be considered as investment advice*
