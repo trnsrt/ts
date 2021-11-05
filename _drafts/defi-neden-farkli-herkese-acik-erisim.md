@@ -8,7 +8,7 @@ Bitcoin'in en kritik farklılıklarından biri herkesin erişimine açık olmas�
 
 ### Peki ya klasik finans?
 
-Gelin bir de klasik finansa bakalım. Kişilerin diledikleri gibi klasik finansı kulanabildiklerini söylemek gerçekten çok güç. Zira, klasik finansa erişim için birkaç gereksinim var. 
+Gelin bir de klasik finansa bakalım. Kişilerin diledikleri gibi klasik finansı kullanabildiklerini söylemek gerçekten çok güç. Zira, klasik finansa erişim için birkaç gereksinim var. 
 
 Bunlardan birinci ve en önemlisi, kişilerin yaşadıkları coğrafyada finansal hizmetlerin sunuluyor olması.  Bu durum bizim gibi göreceli gelişmiş ülkelerde önemsiz bir ayrıntı gibi görünmese de, özellikle Afrika kıtası olmak üzere dünyanın hatırı sayılır bir kesiminde ciddi bir sorun teşkil ediyor.  
 
