@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bitcoin vs. Ethereum — 1: Similarities"
-date:   2021-10-16 17:47:56 +0300
+date:   2021-11-01 17:47:56 +0300
 categories: Genel
 tags: Yazılar, Articles
 ---
