@@ -31,7 +31,7 @@ Bir diğer sıkıntı ise finansal hizmetlerin sunulduğu bölgelerde kişilerin
 
 Bitcoin tamamen dijital olmasının yanında asıl kritik olan  'sansür edilememe' özelliğini ekleyerek bu alanda isteyen herkesin kullanımına açık bir ürün sundu kullanıcılara. 
 
-Merkeziyesiz finans hareketi de çıkış noktası olan Bitcoin'in bu özelliğini devam ettiriyor. Kişilerin merkeziyetsiz finansı kullanması için gerekli olan tek araç, kendilerine ait bir elektronik cüzdan ve bu cüzdanda dijital varlık bulunması. Bunun ötesinde DeFi ürünleri, kullanıcının nereden geldiğine ya da kim olduğuna bakmaz.
+Merkeziyetsiz finans hareketi de çıkış noktası olan Bitcoin'in bu özelliğini devam ettiriyor. Kişilerin merkeziyetsiz finansı kullanması için gerekli olan tek araç, kendilerine ait bir elektronik cüzdan ve bu cüzdanda dijital varlık bulunması. Bunun ötesinde DeFi ürünleri, kullanıcının nereden geldiğine ya da kim olduğuna bakmaz.
 
 Kullanıcının finansal geçmişinin bilinmemesi, DeFi için belli dezavantajlar da getiriyor. Klasik finans kurumları, hizmet verdikleri kullanıcının finansal geçmişlerine bakarak, onlara kredilendirme dahil riskli ürünleri sunabilme imkanına sahipler. DeFi ise, kulanıcının geçmişi ve kullanım alışkanlığı konusunda herhangi bir fikre sahip olmadığı için kullanıcıya kullandırdığı herhangi bir kredi benzeri finansal hizmetin yaratacağı riskten çok daha fazlasını teminat olarak almak zorunda. İngilizce'de over-collateralization olarak bilinen bu fazla teminat alma durumu DeFi için aslında ciddi bir ayak bağı. DeFi'nin önümüzdeki dönemde bu durumu aşmak neler yapacak. 
 
