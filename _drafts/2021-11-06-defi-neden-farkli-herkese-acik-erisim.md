@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "DeFi neden farklı? - Emanet tutmama"
-date:   2021-10-09 08:47:56 +0300
+title:  "DeFi neden farklı? - Herkese Açık Erişim"
+date:   2021-11-06 08:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, DeFi'ye Giriş
 ---
