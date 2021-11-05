@@ -19,6 +19,10 @@ Yazı dizimizin geçmiş bölümlerinden birinde, klasik finansın en farklı ya
 
 Kanun koruyucuların finans kurumlarından beklentileri, tutulan defterlerin ya da alınan aksiyonların mevzuata uygun olması ile sınırlı değil. Diğer yandan, alınan risklerin karşılığı olarak bu kurumların sermaye yapılarının kuvvetli olması isteniyor.  İşte, bu maddi gerekliklik sektöre yeni girişimlerin girmesinin önündeki en büyük engel. Zira, bir avuç hevesli tarafından kurulan girişimlerin bu kadar ciddi bir sermaye bulmaları neredeyse imkansız. 
 
+| ![diamonds](/assets/ant-gfaba07ee2_800.jpg)|
+|:--:| 
+| *Image by [juliocb](https://pixabay.com/users/juliocb-7022246/) from [Pixabay](https://pixabay.com/)*|
+
 Peki o zaman bu girişimlerin çıkış yolu ne? İki farklı yol var önlerinde. 
 
 Birincisi, yatırımcı turuna çıkmak ve önce melek yatırımcı, sonra girişim sermayesi, daha sonrasında halka arz olarak adlandırabileceğimiz yollardan geçerek yatırımlarını finanse edebilmek. Neresinden bakarsanız bakın çok büyük bir efor gerektiren bir süreç bu. Finans dışı sektörlerde, alınan dış sermaye, girişimin büyümek için operasyonel faaliyetleri için kullanılıyor. Finans sektörü girişimlerinin ise, operasyonel masraflar dışında bir de kuvvetli bir mali yapı için ek sermaye ihtiyacı bulunmakta. Bu da, finans alanında mevcut finansal oyuncular ile yarışacak girişim sayısını oldukça azaltıyor. 
