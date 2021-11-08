@@ -1,6 +1,6 @@
 Bu yazımızda DeFi'nin önümüzdeki dönemde hangi alanlarda büyüme potansiyeli olduğuna değineceğiz.
 
-BTCHaber'deki bu köşemizde yaklaşık bir buçuk yılı aşkın bir süredir ağırlıklı olarak DeFi yani merkeziyetsiz finans ile ilgili gelişmeleri paylaşıyoruz. DeFi, ilk yazımızın yayınından birkaç ay sonra geçtiğimiz yaz hızlı bir büyüme yaşadı. Başlarda "acaba ne zaman bir milyar doları geçecek?" diye merak ettiğimiz bu alana kilitlenmiş toplam para miktarı (yani projelere yatırılmış kaynak), 2020 yılı sonuna geldiğimizde 20 milyar ABD Doları olmuştu. Geçtiğimiz 10 ayda ise 12 kat artarak 250 milyar ABD Doları seviyesine ulın size eksponensial büyümeye örnek!.
+BTCHaber'deki bu köşemizde yaklaşık bir buçuk yılı aşkın bir süredir ağırlıklı olarak DeFi yani merkeziyetsiz finans ile ilgili gelişmeleri paylaşıyoruz. DeFi, ilk yazımızın yayınından birkaç ay sonra geçtiğimiz yaz hızlı bir büyüme yaşadı. Başlarda "acaba ne zaman bir milyar doları geçecek?" diye merak ettiğimiz bu alana kilitlenmiş toplam para miktarı (yani projelere yatırılmış kaynak), 2020 yılı sonuna geldiğimizde 20 milyar ABD Doları olmuştu. Geçtiğimiz 10 ayda ise 12 kat artarak 250 milyar ABD Doları seviyesine ulaştı. Alın size eksponensial büyümeye örnek!.
 
 | ![TVL_211106](/assets/tvl_defillama_800.png)|
 |:--:| 
