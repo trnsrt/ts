@@ -66,3 +66,11 @@ Gördüğünüz gibi, geçtiğimiz 11 yılda en büyük on şirketin içinde tek
 ### Sonuç
 
 Bundan sonraki dönemde internetin geleceği olarak merkeziyetsiz sistemler ve Metaverse'i görmemiz olası. Merkeziyetsiz Finans da kendini artık bu yeni dünyaya hazırlıyor. Web 3.0 olarak da adlandırılan bu yeni oluşumu önümüzdeki yazılarda detaylı olarak incelemeye devam edeceğiz. 
+  
+  ---
+
+*Not 1: Bu yazı ilk olarak 9 Kasım 2021'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı]()*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
