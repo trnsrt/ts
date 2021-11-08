@@ -51,4 +51,4 @@ Gördüğünüz gibi, geçtiğimiz 11 yılda en büyük on şirketin içinde tek
 
 ### Sonuç
 
-Bundan sonraki dönemde internetin geleceği olarak merkeziyetsiz sistemler ve Metaverse'i görmemiz olası. DeFi de kendini artık bu yeni dünyaya hazırlıyor. Web 3.0 olarak da adlandırılan bu yeni oluşumu önümüzdeki yazılarda detaylı olarak incelemeye devam edeceğiz. 
+Bundan sonraki dönemde internetin geleceği olarak merkeziyetsiz sistemler ve Metaverse'i görmemiz olası. Merkeziyetsiz Finans da kendini artık bu yeni dünyaya hazırlıyor. Web 3.0 olarak da adlandırılan bu yeni oluşumu önümüzdeki yazılarda detaylı olarak incelemeye devam edeceğiz. 
