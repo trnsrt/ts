@@ -26,9 +26,7 @@ Ya sisteme yeni katılanlar? Henüz bankası olmayan az bir kesim kaldı, ama or
 
 Peki ya yeni reşit olan gençler? Orada işiniz daha da zor, çünkü yeni nesil dijital dünyaya doğdu. Onların sizin prestijinize ya da sunduğunuz güvene pek de ihtiyaçları yok, dijital dünyadan korkmuyorlar. Tam tersine, o dünyanın getirdiği potansiyeli değerlendirmek istiyorlar. Riskler mi? Genç onlar, kaybedecek zamandan başka neleri var? Zaman dediğimiz de zaten bolca var ellerinde ve önlerinde. 
 
-Riski siz, daha yaşlı 'boomer' kuşağına anlatın. O kuşak, geçtiğimiz yirmi yıl içinde hatırı bir servet sahibi oldular. Nasıl? Gelişen sermaye piyasalarının yükselen şirketlerinin 'geleceği bugüne indirgemek' yöntemi ile değerlenen hisselerine erken yatırım yaparak. Yani 'bugünden geleceği satın alarak'. Şimdi de "bu gelecek elimden gider mi?" korkusu yaşıyorlar. 
-
-'Boomer'ların kendilerine pastadan hiç pay bırakmadığı yeni nesil ise, hisse senetlerinden kazanacakları %10-20 kazanç yerine daha riskli ama 10 kat - 20 kat kazanacakları dijital dünyadaki yeni fırsatları kovalıyorlar. 
+Yeni nesil, hisse senetlerinden sağlayacağı %10-20 getiri yerine daha riskli ama 10 kat - 20 kat kazanacağı dijital dünyadaki yeni fırsatları kovalıyor.
 
 Dolayısıyla, büyüme devam edecek ancak büyüyen pastadan aslan payını dijital dünya alacak. Hemen söyleyelim, ne kadar çaba gösterseniz de, şu an için bu dijital dünyanın parası kriptoparalar, varlıkları NFT'ler, finans sistemi ise merkeziyetsiz finans olacak gibi görünüyor. 
 
@@ -37,7 +35,7 @@ Merkeziyetsiz finans platformlarında herhangi bir başvuru yapmadan ve hiçbir 
 
 DeFi'nin asıl büyüme alanının fiziksel dünya ile hiç ilgisi olmayan dijital dünyada olacağını belirtelim. Zira, artık önümüzde son zamanlarda çokça duyduğumuz NFT'ler var. NFT'ler ile birlikte, özellikle oyunlar ve oyunlaştırmalarda ciddi bir talep yaşıyoruz. Bu oyunlaştırmalarda en sıcak konu ise play-to-earn dediğimiz, oyun oynarken para kazanmak olayı. GameFi dediğimiz oluşum ile artık DeFi'nin NFT'ler ya da oyunlar içindeki dijital varlık alımlarına aracılık etmesi, katılımcılara dijital varlık alabilmeleri için kredi vermesi mümkün. Diğer taraftan oyuncuların da aynı şekilde ellerindeki dijital varlıkları mevduat gibi kullanıp para kazanmaları da hızla büyüyen bir pazar.
 
-İşte bu nedenle, DeFi bir sonraki büyüme hamlesi fiziki dünya yerine ondan kat be kat fazla fırsatlar sunan dijital dünyadan gelecek. İnanmayanlar için dünyanın en değerli 10 şirketinin 2010 yılından günümüze 11 yılda nasıl değiştiğini özetleyen şu grafik ikna edici olabilir. 
+İşte bu nedenle, DeFi'nin bir sonraki büyüme hamlesi fiziki dünya yerine ondan kat be kat fazla fırsatlar sunan dijital dünyadan gelecek. İnanmayanlar için dünyanın en değerli 10 şirketinin 2010 yılından günümüze 11 yılda nasıl değiştiğini özetleyen şu grafik ikna edici olabilir. 
 
 <table><tr><td style="width:50%">
 <img src="/assets/Top10_2010.png">
@@ -53,7 +51,7 @@ Dünyanın en değerli 10 şirketi 2010 yılı. Ağırlık petrol ve endüstri a
 </td></tr> 
 </table>
 
-Gördüğünüz gibi, geçtiğimiz 11 yılda en büyük on şirketin içinde teknoloji ve internet şirketlerinin payı ne kadar artmış. 'Internet şu ana kadar gelmiş geçmiş en büyük devrimdir' sözü doğru gibi ne dersiniz? 
+Gördüğünüz gibi, geçtiğimiz 11 yılda en büyük on şirketin içinde teknoloji ve internet şirketlerinin payı ne kadar artmış. 'Internet şu ana kadar gelmiş geçmiş en büyük devrimdir' sözü doğru gibi, ne dersiniz? 
 
 ### Sonuç
 
