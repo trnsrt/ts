@@ -33,9 +33,19 @@ DeFi'nin asıl büyüme alanının fiziksel dünya ile hiç ilgisi olmayan dijit
 
 İşte bu nedenle, DeFi bir sonraki büyüme hamlesi fiziki dünya yerine ondan kat be kat fazla fırsatlar sunan dijital dünyadan gelecek. İnanmayanlar için dünyanın en değerli 10 şirketinin 2010 yılından günümüze 11 yılda nasıl değiştiğini özetleyen şu grafik ikna edici olabilir. 
 
-| ![stabil_paralar](/assets/top10_2010vs2021_v2.png)|
-|:--:| 
-| *Dünyanın en değerli 10 şirketi 2010 yılı ve 2021 yılı Kasım ayları. Sağdaki grafikteki kahverengi kısım 2010 yılı piyasa değerini gösterir. 11 yılda nereden nereye geldiklerini görmek ilginç. Kaynak [Google Finance](finance.google.com), Financial Times - Global 500, 01.01.2010*|
+<table><tr><td style="width:50%">
+<img src="/assets/Top10_2010.png">
+</td>
+<td style="width:50%">
+<img src="/assets/Top10_1121.png">
+<tr><td style="width:50%; vertical-align:top">
+<p>
+*Dünyanın en değerli 10 şirketi 2010 yılı. Ağırlık petrol ve endüstri alanından. Kaynak: Financial Times - Global 500, 01.01.2010*
+</p></td>
+<td style="width:50%; vertical-align:top">
+<p>*Dünyanın en değerli 10 şirketi 2021 yılı Kasım ayı. Kahverengi alan 2010 yılındaki değeri. Kaynak [Google Finance](finance.google.com)*</p>
+</td></tr> 
+</table>
 
 Gördüğünüz gibi, geçtiğimiz 11 yılda en büyük 10 şirketin içinde teknoloji ve internet şirketlerinin payı ne kadar artmış. 'Internet şu ana kadar gelmiş geçmiş en büyük devrimdir' sözü doğru gibi ne dersiniz? 
 
