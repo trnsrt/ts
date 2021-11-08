@@ -10,7 +10,7 @@ Gerek yazılara gelen geribildirimlerde gerekse farklı mecralardaki konuşmalar
 
 ### DeFi bir gün mevcut finans sistemini alt eder mi?
 
-Cevabım net. Hayır, geçmez. Finans dünyasındaki okuyucularımız bu cevabı okuyunca hemen rahatlamasınlar lütfen. Zira 'şeytan ayrıntıda gizlidir'. O nedenle gelin biraz ayrıntıya dalalım. 
+Cevabım net. Hayır, etmez. Finans dünyasındaki okuyucularımız bu cevabı okuyunca hemen rahatlamasınlar lütfen. Zira 'şeytan ayrıntıda gizlidir'. O nedenle gelin biraz ayrıntıya dalalım. 
 
 Mevcut finans sistemi oyuncuları, gerek hizmet sağlayıcı finans kurumları gerekse de hizmet alan bireyler ve şirketler mevcut düzende hareket etmeye devam edecekler. Buraya kadar her şey yolunda ancak asıl sıkıntı büyüme konusunda yaşanacak. 
 
