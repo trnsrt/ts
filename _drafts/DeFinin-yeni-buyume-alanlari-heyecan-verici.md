@@ -47,7 +47,7 @@ Dünyanın en değerli 10 şirketi 2010 yılı. Ağırlık petrol ve endüstri a
 </td></tr> 
 </table>
 
-Gördüğünüz gibi, geçtiğimiz 11 yılda en büyük 10 şirketin içinde teknoloji ve internet şirketlerinin payı ne kadar artmış. 'Internet şu ana kadar gelmiş geçmiş en büyük devrimdir' sözü doğru gibi ne dersiniz? 
+Gördüğünüz gibi, geçtiğimiz 11 yılda en büyük on şirketin içinde teknoloji ve internet şirketlerinin payı ne kadar artmış. 'Internet şu ana kadar gelmiş geçmiş en büyük devrimdir' sözü doğru gibi ne dersiniz? 
 
 ### Sonuç
 
