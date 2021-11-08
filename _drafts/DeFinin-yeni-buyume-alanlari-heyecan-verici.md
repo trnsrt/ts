@@ -18,13 +18,13 @@ Mevcut finans sistemi oyuncuları, gerek hizmet sağlayıcı finans kurumları g
 |:--:| 
 | *Image by [Mikes-Photography](https://pixabay.com/users/mikes-photography-1860391/) from [Pixabay](https://pixabay.com/)*|
 
-Nasıl büyürsünüz? Yeni müşteri kazanarak. Yeni müşteri nereden gelecek? Ya mevcut rakiplerinizden ya da sisteme yeni katılanlardan. 
+Nasıl büyür şirketler? Yeni müşteri kazanarak. Yeni müşteri nereden gelecek? Ya mevcut rakiplerden ya da sisteme yeni katılanlardan. 
 
-Mevcut rakiplerden müşteri kazanmak artan rekabet demek ve bunu zaten uzun yıllardır yaşıyorsunuz. Bu rekabet nedeniyle kar marjlarınız zaten tehlikede ve İstanbul'un göbeğindeki plazalarda konumlanmış personelinizin büyük kısmını şehir dışındaki 'üslere' gönderdiniz, aynı zamanda şube kapatıp mobile geçmeye tam gaz devam ediyorsunuz. 
+Mevcut rakiplerden müşteri kazanmak artan rekabet demek ve bunu zaten uzun yıllardır yaşanıyor. Bu rekabet nedeniyle kar marjları zaten tehlikede.
 
-Ya sisteme yeni katılanlar? Henüz bankası olmayan az bir kesim kaldı, ama orada da istenen evraklar, kişilerin kredi geçmişinin olmaması gibi nedenlerle bu kesimden müşteri çekmekte zorlanıyorsunuz. 
+Ya sisteme yeni katılanlar? Henüz bankası olmayan az bir kesim kaldı, ama orada da istenen evraklar, kişilerin kredi geçmişinin olmaması gibi nedenlerle bu kesimden müşteri çekmek zor.
 
-Peki ya yeni reşit olan gençler? Orada işiniz daha da zor, çünkü yeni nesil dijital dünyaya doğdu. Onların sizin prestijinize ya da sunduğunuz güvene pek de ihtiyaçları yok, dijital dünyadan korkmuyorlar. Tam tersine, o dünyanın getirdiği potansiyeli değerlendirmek istiyorlar. Riskler mi? Genç onlar, kaybedecek zamandan başka neleri var? Zaman dediğimiz de zaten bolca var ellerinde ve önlerinde. 
+Peki ya yeni reşit olan gençler? Orada finans kurumlarının işi daha da zor, çünkü yeni nesil dijital dünyaya doğdu. Onların bu kurumların prestijine ya da sunduğu güvene pek de ihtiyaçları yok, dijital dünyadan korkmuyorlar. Tam tersine, o dünyanın getirdiği potansiyeli değerlendirmek istiyorlar. Riskler mi? Genç onlar, kaybedecek zamandan başka neleri var? Zaman dediğimiz de zaten bolca var ellerinde ve önlerinde.
 
 Yeni nesil, hisse senetlerinden sağlayacağı %10-20 getiri yerine daha riskli ama 10 kat - 20 kat kazanacağı dijital dünyadaki yeni fırsatları kovalıyor.
 
@@ -33,7 +33,21 @@ Dolayısıyla, büyüme devam edecek ancak büyüyen pastadan aslan payını dij
 ### 'İyi de bu ürünleri gerçek hayatta kullanabilecek miyiz?'
 Merkeziyetsiz finans platformlarında herhangi bir başvuru yapmadan ve hiçbir evrak vermeden teminat yatırarak kredi almak mümkün. 'İyi de aldığım bu kredi ile ihtiyaçlarımı karşılayabilir miyim? Ev ya da araba alabilir miyim?'. Belki bu, şu anda çok pratik bir yol değil. Dijital dünyadaki varlıkların fiziki dünyaya nasıl aktarılacağı konusunda çok çalışma ve bu yolda pek çok gelişme var.  Yine de DeFi oyuncuları bu konuyu çok da dert etmiyorlar, zira onların gözü başka yerde. 
 
-DeFi'nin asıl büyüme alanının fiziksel dünya ile hiç ilgisi olmayan dijital dünyada olacağını belirtelim. Zira, artık önümüzde son zamanlarda çokça duyduğumuz NFT'ler var. NFT'ler ile birlikte, özellikle oyunlar ve oyunlaştırmalarda ciddi bir talep yaşıyoruz. Bu oyunlaştırmalarda en sıcak konu ise play-to-earn dediğimiz, oyun oynarken para kazanmak olayı. GameFi dediğimiz oluşum ile artık DeFi'nin NFT'ler ya da oyunlar içindeki dijital varlık alımlarına aracılık etmesi, katılımcılara dijital varlık alabilmeleri için kredi vermesi mümkün. Diğer taraftan oyuncuların da aynı şekilde ellerindeki dijital varlıkları mevduat gibi kullanıp para kazanmaları da hızla büyüyen bir pazar.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 İşte bu nedenle, DeFi'nin bir sonraki büyüme hamlesi fiziki dünya yerine ondan kat be kat fazla fırsatlar sunan dijital dünyadan gelecek. İnanmayanlar için dünyanın en değerli 10 şirketinin 2010 yılından günümüze 11 yılda nasıl değiştiğini özetleyen şu grafik ikna edici olabilir. 
 
