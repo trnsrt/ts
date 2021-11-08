@@ -1,6 +1,6 @@
 Bu yazımızda DeFi'nin önümüzdeki dönemde hangi alanlarda büyüme potansiyeli olduğuna değineceğiz.
 
-BTCHaber'deki bu köşemizde yaklaşık bir buçuk yılı aşkın bir süredir ağırlıklı olarak DeFi yani merkeziyetsiz finans ile ilgili gelişmeleri paylaşıyoruz. DeFi, ilk yazımızın yayınından birkaç ay sonra geçtiğimiz yaz hızlı bir büyüme yaşadı yaşadı. Başlarda "acaba ne zaman bir milyar doları geçecek?" diye merak ettiğimiz bu alana kilitlenmiş toplam para miktarı, Haziran başında bu eşiği aşarken sene sonu geldiğimizde 20 milyar ABD dolarına ulaşmıştı. Sonrasında ise şimdilerde 250 milyar ABD Doları seviyesinde.
+BTCHaber'deki bu köşemizde yaklaşık bir buçuk yılı aşkın bir süredir ağırlıklı olarak DeFi yani merkeziyetsiz finans ile ilgili gelişmeleri paylaşıyoruz. DeFi, ilk yazımızın yayınından birkaç ay sonra geçtiğimiz yaz hızlı bir büyüme yaşadı. Başlarda "acaba ne zaman bir milyar doları geçecek?" diye merak ettiğimiz bu alana kilitlenmiş toplam para miktarı, Haziran başında bu eşiği aşarken sene sonu geldiğimizde 20 milyar ABD dolarına ulaşmıştı. Sonrasında ise şimdilerde 250 milyar ABD Doları seviyesinde.
 
 | ![TVL_211106](/assets/tvl_defillama_800.png)|
 |:--:| 
