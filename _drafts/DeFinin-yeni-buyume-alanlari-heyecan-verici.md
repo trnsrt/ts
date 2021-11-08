@@ -33,6 +33,7 @@ Dolayısıyla, büyüme devam edecek ancak büyüyen pastadan aslan payını dij
 ### 'İyi de bu ürünleri gerçek hayatta kullanabilecek miyiz?'
 Merkeziyetsiz finans platformlarında herhangi bir başvuru yapmadan ve hiçbir evrak vermeden teminat yatırarak kredi almak mümkün. 'İyi de aldığım bu kredi ile ihtiyaçlarımı karşılayabilir miyim? Ev ya da araba alabilir miyim?'. Belki bu, şu anda çok pratik bir yol değil. Dijital dünyadaki varlıkların fiziki dünyaya nasıl aktarılacağı konusunda çok çalışma ve bu yolda pek çok gelişme var.  Yine de DeFi oyuncuları bu konuyu çok da dert etmiyorlar, zira onların gözü başka yerde. 
 
+### DeFi’nin fiziki dünya ile çok da derdi yok. Onun gözü başka yerde...
 
 DeFi'nin asıl büyüme alanının fiziksel dünya ile hiç ilgisi olmayan dijital dünyada olacağını belirtelim. Zira, artık önümüzde son zamanlarda çokça duyduğumuz NFT'ler var. NFT'ler ile birlikte, özellikle oyunlar ve oyunlaştırmalarda ciddi bir talep yaşıyoruz. Bu oyunlaştırmalarda en sıcak konu ise play-to-earn dediğimiz, oyun oynarken para kazanmak olayı. GameFi dediğimiz oluşum ile artık DeFi'nin NFT'ler ya da oyunlar içindeki dijital varlık alımlarına aracılık etmesi, katılımcılara dijital varlık alabilmeleri için kredi vermesi mümkün. Aynı şekilde elinde dijital varlık olan diğerlerinin ise bu varlıkları değerlendirme olanağı var.
 
