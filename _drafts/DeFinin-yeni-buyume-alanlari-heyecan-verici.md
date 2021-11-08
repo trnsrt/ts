@@ -1,6 +1,6 @@
 Bu yazımızda DeFi'nin önümüzdeki dönemde hangi alanlarda büyüme potansiyeli olduğuna değineceğiz.
 
-BTCHaber'deki bu köşemizde yaklaşık bir buçuk yılı aşkın bir süredir ağırlıklı olarak DeFi yani merkeziyetsiz finans ile ilgili gelişmeleri paylaşıyoruz. DeFi, ilk yazımızın yayınından birkaç ay sonra geçtiğimiz yaz hızlı bir büyüme yaşadı. Başlarda "acaba ne zaman bir milyar doları geçecek?" diye merak ettiğimiz bu alana kilitlenmiş toplam para miktarı (yani projelere yatırılmış kaynak), 2020 yılı sonuna geldiğimizde 20 milyar ABD Doları olmuştu. Geçtiğimiz 10 ayda ise 12 kat artarak 250 milyar ABD Doları seviyesine ulaştı. Alın size eksponensial büyümeye örnek!.
+BTCHaber'deki bu köşemizde yaklaşık bir buçuk yılı aşkın bir süredir ağırlıklı olarak DeFi yani merkeziyetsiz finans ile ilgili gelişmeleri paylaşıyoruz. DeFi, ilk yazımızın yayınından birkaç ay sonra geçtiğimiz yaz hızlı bir büyüme yaşadı. Başlarda "acaba ne zaman bir milyar doları geçecek?" diye merak ettiğimiz bu alana kilitlenmiş toplam para miktarı (yani projelere yatırılmış kaynak), 2020 yılı sonuna geldiğimizde 20 milyar ABD Doları olmuştu. Geçtiğimiz 10 ayda ise 12 kat artarak 250 milyar ABD Doları seviyesine ulaştı. Alın size katlamalı/üstsel (exponential) büyümeye en güzel örnek!
 
 | ![TVL_211106](/assets/tvl_defillama_800.png)|
 |:--:| 
@@ -12,7 +12,13 @@ Gerek yazılara gelen geribildirimlerde gerekse farklı mecralardaki konuşmalar
 
 Cevabım net. Hayır, geçmez. Finans dünyasındaki okuyucularımız bu cevabı okuyunca hemen rahatlamasınlar lütfen. Zira 'şeytan ayrıntıda gizlidir'. O nedenle gelin biraz ayrıntıya dalalım. 
 
-Mevcut finans sistemi oyuncuları, gerek hizmet sağlayıcı finans kurumları gerekse de hizmet alan bireyler ve şirketler mevcut düzende hareket etmeye devam edecekler. Buraya kadar her şey yolunda ancak asıl sıkıntı büyüme konusunda yaşanacak. Nasıl büyürsünüz? Yeni müşteri kazanarak. Yeni müşteri nereden gelecek? Ya mevcut rakiplerinizden ya da sisteme yeni katılanlardan. 
+Mevcut finans sistemi oyuncuları, gerek hizmet sağlayıcı finans kurumları gerekse de hizmet alan bireyler ve şirketler mevcut düzende hareket etmeye devam edecekler. Buraya kadar her şey yolunda ancak asıl sıkıntı büyüme konusunda yaşanacak. 
+
+| ![twins](/assets/plant-gb3c211afa_800.jpg)|
+|:--:| 
+| *Image by [Mikes-Photography](https://pixabay.com/users/mikes-photography-1860391/) from [Pixabay](https://pixabay.com/)*|
+
+Nasıl büyürsünüz? Yeni müşteri kazanarak. Yeni müşteri nereden gelecek? Ya mevcut rakiplerinizden ya da sisteme yeni katılanlardan. 
 
 Mevcut rakiplerden müşteri kazanmak artan rekabet demek ve bunu zaten uzun yıllardır yaşıyorsunuz. Bu rekabet nedeniyle kar marjlarınız zaten tehlikede ve İstanbul'un göbeğindeki plazalarda konumlanmış personelinizin büyük kısmını şehir dışındaki 'üslere' gönderdiniz, aynı zamanda şube kapatıp mobile geçmeye tam gaz devam ediyorsunuz. 
 
