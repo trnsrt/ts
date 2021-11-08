@@ -43,7 +43,7 @@ DeFi'nin asıl büyüme alanının fiziksel dünya ile hiç ilgisi olmayan dijit
 Dünyanın en değerli 10 şirketi 2010 yılı. Ağırlık petrol ve endüstri alanından. Kaynak: Financial Times - Global 500, 01.01.2010
 </p></td>
 <td style="width:50%; vertical-align:top">
-<p> Dünyanın en değerli 10 şirketi 2021 yılı Kasım ayı. Kahverengi alan 2010 yılındaki değeri. Kaynak [Google Finance](finance.google.com) </p>
+<p> Dünyanın en değerli 10 şirketi 2021 yılı Kasım ayı. Kahverengi alan 2010 yılındaki değeri. Kaynak: finance.google.com </p>
 </td></tr> 
 </table>
 
