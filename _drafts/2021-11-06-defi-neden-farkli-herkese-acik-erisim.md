@@ -41,7 +41,7 @@ Yazı dizimize bir başka DeFi özelliği olan hızlı geliştirme ile devam ede
 
 ---
 
-*Not 1: Bu yazı ilk olarak 6 Kasım 2021'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı]()*
+*Not 1: Bu yazı ilk olarak 6 Kasım 2021'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı](https://medium.com/blockchainist-center/defi-neden-farkl%C4%B1-herkese-a%C3%A7%C4%B1k-eri%C5%9Fim-9d879b5352bd)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
