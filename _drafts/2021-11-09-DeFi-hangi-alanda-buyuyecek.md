@@ -69,7 +69,7 @@ Bundan sonraki dönemde internetin geleceği olarak merkeziyetsiz sistemler ve M
   
   ---
 
-*Not 1: Bu yazı ilk olarak 9 Kasım 2021'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı]()*
+*Not 1: Bu yazı ilk olarak 9 Kasım 2021'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/defi-hangi-alanda-buyuyecek/)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
