@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pareto Spot - Podcast"
-date:   2021-11-02 13:37:15 +0300
+date:   2021-11-01 13:37:15 +0300
 categories: Genel
 tags: videos Etkinlikler
 ---
