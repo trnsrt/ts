@@ -6,7 +6,7 @@ categories: Genel
 tags: videos Etkinlikler
 ---
 
-<img align="left" src="/assets/kriptografik-20211110-poster-800.jpg" style="width:40%; padding-right:20px"> [BTCHaber](https://www.btchaber.com/)'de [Melis Hazal Karagöz](https://twitter.com/melishazalkrgz)'ün sunduğu 'Kriptografik' programında merkeziyetsiz finansın geleceği ve kripto varlıklara yeni regülasyonların gelip gelmeyeceğini konuştuk. BTCHaber aynı zamanda belli aralıklarla yazılarımın yayınlandığı mecra. Kriptografik programı ciddi ve titiz çalışan bir ekip tarafından hazırlanıyor. Takip etmenizi tavsiye ederim.  
+<img align="left" src="/assets/kriptografik-20211110-poster-800.jpg" style="width:40%; padding-right:20px"> [BTCHaber](https://www.btchaber.com/)'de [Melis Hazal Karagöz](https://twitter.com/melishazalkrgz)'ün sunduğu 'Kriptografik' programında Facebook tarafından gündem yapılan Metaverse kavramı ile birlikte merkeziyetsiz finansın geleceği ve kripto varlıklara yeni regülasyonların gelip gelmeyeceğini konuştuk. BTCHaber aynı zamanda belli aralıklarla yazılarımın yayınlandığı mecra. Kriptografik programı ciddi ve titiz çalışan bir ekip tarafından hazırlanıyor. Takip etmenizi tavsiye ederim.  
 &nbsp;
 
 <table><tr><td style="width:50%">
