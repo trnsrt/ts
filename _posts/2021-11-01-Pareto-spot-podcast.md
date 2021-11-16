@@ -18,8 +18,3 @@ tags: videos Etkinlikler
 <br />
 
 &nbsp;
-
-
-
-
-https://twitter.com/paretomag
