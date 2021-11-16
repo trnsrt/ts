@@ -7,7 +7,7 @@ tags: videos Etkinlikler
 ---
 
 
-<img align="left" src="/assets/gelecegi-konusalim-211102-800.jpg" style="width:40%; padding-right:20px"> 40 yıllık arkadaşım tanınmış ekonomi gazetecisi [Cüneyt Toros](https://twitter.com/cuneyttoros)'un hazırlayıp sunduğu Yapı Kredi ile Geleceği Konuşalım'ın 2 Kasım'da yayınlanan bölümünde NFT'lerden konuştuk. Keyifli bir sohbet oldu. Dinlemek isterseniz yayının linkleri aşağıda: 
+<img align="left" src="/assets/gelecegi-konusalim-211102-800.jpg" style="width:40%; padding-right:20px"> 40 yıllık arkadaşım, tanınmış ekonomi gazetecisi [Cüneyt Toros](https://twitter.com/cuneyttoros)'un hazırlayıp sunduğu Yapı Kredi ile Geleceği Konuşalım'ın 2 Kasım'da yayınlanan bölümünde NFT'lerden konuştuk. Keyifli bir sohbet oldu. Dinlemek isterseniz yayının linkleri aşağıda: 
 
 Yayının linklerine aşağıdan ulaşabilirsiniz: 
 
