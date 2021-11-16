@@ -7,7 +7,7 @@ tags: videos Etkinlikler
 ---
 
 
-<img align="left" src="/assets/pareto-podcast-211101-800.jpg" style="width:40%; padding-right:20px"> Keyifle takip ettiğim Aposto! ailesinin finans alanındaki ferdi [Pareto](https://twitter.com/paretomag)'nun hazırladığı Pareto Spot podcast serisinin dördüncüsüne konuk oldum. Genel olarak Merkeziyetsiz Finans üzerine konuştuğumuz oldukça sıcak bir sohbet oldu.  Pareto ekibine profesyonellikleri için teşekkür ederim. 
+<img align="left" src="/assets/pareto-podcast-211101-400.jpg" style="width:40%; padding-right:20px"> Keyifle takip ettiğim Aposto! ailesinin finans alanındaki ferdi [Pareto](https://twitter.com/paretomag)'nun hazırladığı Pareto Spot podcast serisinin dördüncüsüne konuk oldum. Genel olarak Merkeziyetsiz Finans üzerine konuştuğumuz oldukça sıcak bir sohbet oldu.  Pareto ekibine profesyonellikleri için teşekkür ederim. 
 
 İlgilenler için linkleri aşağıda: 
 
