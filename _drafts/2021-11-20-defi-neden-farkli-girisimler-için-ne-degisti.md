@@ -19,7 +19,7 @@ Yazı dizimizin geçmiş bölümlerinden birinde, klasik finansın en farklı ya
 
 Kanun koruyucuların finans kurumlarından beklentileri, tutulan defterlerin ya da alınan aksiyonların mevzuata uygun olması ile sınırlı değil. Diğer yandan, alınan risklerin karşılığı olarak bu kurumların sermaye yapılarının kuvvetli olması isteniyor.  İşte, bu maddi gerekliklik sektöre yeni girişimlerin girmesinin önündeki en büyük engel. Zira, bir avuç hevesli tarafından kurulan girişimlerin bu kadar ciddi bir sermaye bulmaları neredeyse imkansız. 
 
-| ![diamonds](/assets/ant-gfaba07ee2_800.jpg)|
+| ![ants](/assets/ant-gfaba07ee2_800.jpg)|
 |:--:| 
 | *Image by [juliocb](https://pixabay.com/users/juliocb-7022246/) from [Pixabay](https://pixabay.com/)*|
 
