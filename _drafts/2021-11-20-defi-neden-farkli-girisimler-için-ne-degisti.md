@@ -47,7 +47,7 @@ Klasik finans, yüksek giriş çıtası ile yeni oyuncuların girmesi zor, mevcu
 
 Bir yatırımcı için, klasik dünyada başarılı olmuş bir oyuncuya yatırım yapmak bu anlamda mantıklı olabilir. DeFi'de ise yatırımcıların, yatırım yaptıkları girişimlerin altındaki zeminin her an kayabileceğini gerçeği ile yaşamaları gerekiyor.
 
-Kullanıcılar için ise, iki alandan hangisinin avantajlı olduğunu söylemeye gerek yok sanırım. DeFi'deki yoğun rekabet kendisini kullanıcılarının avantajına yenilikler olarak gösteriyor. Kullanım alanında hâlâ ciddi riskler olduğu gerçeğini göz ardı etmeden, bilgili araştıran kullanıcın için DeFi'de fırsatlar çok daha büyük görünüyor.
+Kullanıcılar için ise, iki alandan hangisinin avantajlı olduğunu söylemeye gerek yok sanırım. DeFi'deki yoğun rekabet kendisini kullanıcılarının avantajına yenilikler olarak gösteriyor. Kullanım alanında hâlâ ciddi riskler olduğu gerçeğini göz ardı etmeden, bilgili araştıran kullanıcı için DeFi'de fırsatlar çok daha büyük görünüyor.
 
 ---
 
