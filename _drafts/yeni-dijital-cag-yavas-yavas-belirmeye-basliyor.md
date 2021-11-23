@@ -1,4 +1,4 @@
-Gelin bugünkü yazımızda hızla değişen dünyamızı anlamaya çalışalım. 
+Gelin bugünkü yazımızda hızla değişen dünyamızdaki son gelişmelere kuşbakışı bir göz atalım ve önümüzdeki on yılda neleri konuşacağız tahmin etmeye çalışalım. 
 
 Bu aralar Twitter'ı takip ederken, sanıyorum çoğumuzun sıkça karşılaştığı bir his var: "Her şey çok hızlı gelişiyor, her hafta yepyeni bir konu ortaya atılıyor" Hak vermemek mümkün değil; birkaç ay önce DeFi konuşuyorduk, sonra NFT çıktı, sonra Metaverse, derken DAO'lar. Böyle olunca, çıkan her yeniliği moda olarak addediyor ve gelip geçeceğini düşünüyoruz. Gerçekten öyle mi?
 
