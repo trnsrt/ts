@@ -21,13 +21,13 @@ Bunlardan birincisi blokzincir teknolojisi sayesinde bireylerin  dijital dünyad
 İşte blokzincir ile fiziksel dünyaya karşı zayıf karnını sağlamlaştıran dijital dünya, pandemi ile birlikte 'zihinlerdeki bariyerleri' de ortadan kaldırarak, eskiden sadece teori ve hayal dünyasında olan (plaza diliyle konsept aşamasındaki) kimi yenliklerin artık çok daha rahat konuşulabildiği bir yer haline geldi. 
 
 ## Peki nedir bu dijital dünya? Fiziksel dünya ile karşılaştırsak?
-Peki son zamanlarda moda olan bu kavramların fiziksel dünyada eşi var mı? Var tabii. Malum, hepimiz insanız ve bu yenilikleri kafamızda bir yerlere oturtmaya çalışıyoruz.  Gelin isterseniz buna yardımcı olabilecek bir zihin ekzersizi yapalım.  
+Peki son zamanlarda moda olan bu kavramların fiziksel dünyada eşi var mı? Var tabii. Malum, hepimiz insanız ve bu yenilikleri kafamızda bir yerlere oturtmaya çalışıyoruz.  Gelin isterseniz buna yardımcı olabilecek bir zihin egzersizi yapalım.  
 
 Yeni dünya aracılara ihtiyacın azaldığı ve bu dünyada kullanıcıların daha fazla güç ve kontrol istediği bir yer. Bu nedenle, bu dünyada eski kavramların yenileri ile değiştiğini göreceğiz. Nelerin mi?
 
 - [ ] Para olarak itibari paradan kripto paralara geçeceğiz
 - [ ] Finans işlerimizi klasik finans kurumları yerine merkeziyetsiz finanstan yapacağız
-- [ ] Fiziki varlık tutmak yerine dijital dünyada varlıklarımız NFT olarak tutacağız
+- [ ] Fiziki varlık tutmak yerine dijital dünyada varlıklarımızı NFT olarak tutacağız
 - [ ] Sosyal ilişkilerimizi (iş ile ilgili ya da iş dışı) mevcut sosyal ağlar yerine metaverse ile yürüteceğiz
 - [ ] Projeleri artık şirketler yerine DAO'lar götürecek
 
@@ -43,4 +43,4 @@ Engellerin en büyükleri, fiziki dünyadaki devletlerin bu dünyaya geçişi ne
 Bu merkezi yapılara karşı alternatif nedir? Merkeziyetsiz yapılar mı? Tam olarak kestirmek güç, ancak merkeziyetsiz finans alanındaki girişimlerin açık yapıları ile son bir yıl içinde geldikleri nokta, gelecek için ümit verici. 
 
 ## Sonuç 
-Sürece yukarıdan bakınca fark ettiğimiz, dijitalleşmenin hayatımıza girmesiyle yavaş yavaş hissetmeye başladığımız dönüşümün, bundan sonra ne yöne hareket edeceğinin ipuçları aslında. Siz böyle haftada bir yeni konu çıktığına bakmayın, aslında aslında bu gelişmelerin her biri önümüzdeki on yıl bizim gündemimizde olmaya devam edecek. O nedenle, "yarın nasıl olsa yeni bir trend çıkar" diye düşünmeyip, bu gelişmeleri iyi anlamak önemli. Önümüzdeki yazılarda bunlara daha sık eğileceğiz. 
+Sürece yukarıdan bakınca fark ettiğimiz, dijitalleşmenin hayatımıza girmesiyle yavaş yavaş hissetmeye başladığımız dönüşümün, bundan sonra ne yöne hareket edeceğinin ipuçları aslında. Siz böyle haftada bir yeni konu çıktığına bakmayın, aslında bu gelişmelerin her biri önümüzdeki on yıl bizim gündemimizde olmaya devam edecek. O nedenle, "yarın nasıl olsa yeni bir trend çıkar" diye düşünmeyip, bu gelişmeleri iyi anlamak önemli. Önümüzdeki yazılarda bunlara daha sık eğileceğiz. 
