@@ -27,7 +27,7 @@ Peki o zaman yaratılan katma değeri girişimciler mi alıyor. Tam olarak deği
 
 İşte, bu nedenle, DeFi girişimlerinin kuruluş sonrası yol haritalarına ve çıkaracakları tokenlerin dağıtım tablolarına baktığınızda, hem ekosistemlerinin büyümesine yardımcı olacak geliştiricilere hem de kullanıcılara dağıtılacak olan miktarları ayrı ayrı görürsünüz. 
 
-| ![cake](/assets/swede-cakes-2123191_800)|
+| ![cake](/assets/swede-cakes-2123191_800.jpg)|
 |:--:| 
 | *Image by [Varintorn Kantawong](https://pixabay.com/users/varintorn-2453766/) from [Pixabay](https://pixabay.com/)*|
 
