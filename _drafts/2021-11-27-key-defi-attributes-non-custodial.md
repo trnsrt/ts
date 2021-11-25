@@ -18,6 +18,10 @@ Finance is essentially a game built on trust. The main role of financial organiz
 ### Banks are custodians 
 To hold others' money is a huge responsibility. Keeping thousands or millions of individuals' money is even more significant. In order to ensure that these financial organizations hold on to their promises, the regulatory bodies act  as controllers on behalf their citizens. This is why, you see strong regulations on banks and other financial institutions. Just ask your friends who are bankers and you will hear lots of complaints that nowadays, the largest departments in banks are regulatory compliance divisions. 
 
+| ![castle](/assets/stirling-castle-202103_800.jpg)|
+|:--:| 
+| *Image by [Sophia Hilmar](https://pixabay.com/users/shilmar-73994/) from [Pixabay](https://pixabay.com/)*|
+
 These regulations and compliance issues are actually quite a burden on financial institutions. While one may argue most of these resource allocation to compliance is unnecessary, we also accept the fact that this is fundamental issue of traditional bankings that is almost impossible to change. 
 
 ### How about DeFi?
