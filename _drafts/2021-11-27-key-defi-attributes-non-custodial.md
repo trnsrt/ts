@@ -6,9 +6,9 @@ categories: Genel
 tags: Yazılar, Articles
 ---
 
-Let's have a deep dive into DeFi in these series. This one will be the non-custodial nature of DeFi. 
+In these series, let's have a deep dive into DeFi and its key attributes. First one will be the non-custodial nature of DeFi. 
 
-In one of our first posts, named 'Introducing DeFi' we discussed the emergence of DeFi from user and technology perspective. In that post, we have briefly mentioned key attributes of DeFi.. In this series, we will talk about these attributes in more detail. 
+In one of our first posts, named '[Introducing DeFi](/genel/2021/02/06/introducing-defi.html)' we discussed the emergence of DeFi from user and technology perspective. In that post, we have briefly mentioned key attributes of DeFi.. In this series, we will talk about these attributes in more detail. 
 
 ### Custody
 Custody in finance is a huge issue. Let's explain why: 
