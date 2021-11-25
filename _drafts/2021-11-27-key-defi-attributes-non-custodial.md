@@ -10,7 +10,7 @@ In these series, let's have a deep dive into DeFi and its key attributes. First 
 
 In one of our first posts, named '[Introducing DeFi](/genel/2021/02/06/introducing-defi.html)' we discussed the emergence of DeFi from user and technology perspective. In that post, we have briefly mentioned key attributes of DeFi.. In this series, we will talk about these attributes in more detail. 
 
-### Custody
+### Is custody that important?
 Custody in finance is a huge issue. Let's explain why: 
 
 Finance is essentially a game built on trust. The main role of financial organizations is to ensure trust is available in financial transactions. Why do we need trust? Well, every transaction involves an exchange - a good, service, investment etc and money in return. During that transaction duration, be it ten seconds or ten month, the party that expects the goods and service, has to give their money in advance. That money is held somewhere - and you cannot trust the corresponding party, especially in digital life. Therefore, that money is kept in custodian, usually a financial institution (same holds for if you make an investment with your money and expect a return such as interest). 
