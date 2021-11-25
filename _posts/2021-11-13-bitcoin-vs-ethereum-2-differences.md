@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bitcoin vs. Ethereum — 2: Differences"
-date:   2021-11-01 17:47:56 +0300
+date:   2021-11-13 17:47:56 +0300
 categories: Genel
 tags: Yazılar, Articles
 ---
@@ -47,6 +47,6 @@ As we mentioned in [previous post](/genel/2021/11/01/bitcoin-vs-ethereum-1-simil
 
 
 ---
-*This piece is [first published]() in [BlockchainIST Center](https://medium.com/blockchainist-center) on November 13th, 2021.*
+*This piece is [first published](https://medium.com/bcistcenter/bitcoin-vs-ethereum-2-differences-269e81730f23) in [BlockchainIST Center](https://medium.com/blockchainist-center) on November 13th, 2021.*
 
 *None of the views expressed in this article should be considered as investment advice*
