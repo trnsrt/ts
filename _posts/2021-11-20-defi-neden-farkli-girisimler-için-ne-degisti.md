@@ -51,7 +51,7 @@ Kullanıcılar için ise, iki alandan hangisinin avantajlı olduğunu söylemeye
 
 ---
 
-*Not 1: Bu yazı ilk olarak 20 Kasım 2021'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı]()*
+*Not 1: Bu yazı ilk olarak 20 Kasım 2021'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı](https://www.btchaber.com/yeni-dijital-cag-yavas-yavas-belirmeye-basliyor/)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
