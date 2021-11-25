@@ -27,6 +27,10 @@ Peki o zaman yaratılan katma değeri girişimciler mi alıyor. Tam olarak deği
 
 İşte, bu nedenle, DeFi girişimlerinin kuruluş sonrası yol haritalarına ve çıkaracakları tokenlerin dağıtım tablolarına baktığınızda, hem ekosistemlerinin büyümesine yardımcı olacak geliştiricilere hem de kullanıcılara dağıtılacak olan miktarları ayrı ayrı görürsünüz. 
 
+| ![cake](/assets/ant-gfaba07ee2_800.jpg)|
+|:--:| 
+| *Image by [juliocb](https://pixabay.com/users/juliocb-7022246/) from [Pixabay](https://pixabay.com/)*|
+
 Dağıtılan tokenların geniş kesimlere dağıtılması aslında DeFi'nin felsefesine çok uygun bir durum. Zira, merkeziyetsiz girişimler, başlangıçta hep merkezi başlarlar, sonrasında zamanla merkeziyetsiz bir hale gelirler. Bu merkeziyetsizliğin son aşaması ise protokole ait tokenlerin topluluğa verilmesi suretiyle, alınacak tüm stratejik kararların onlar tarafında alınmasını sağlamaktır. 
 
 Bu konuya ilgi duyuyorsanız, MakerDAO'nun son durumunu inceleyebilirsiniz. Kısa özet: MakerDAO'yu yaratan ekip elindeki tokenları protokol hazinesine vererek kendisini dağıttı (lağvetti). Bundan sonra, MakerDAO'nun hangi alanda ilerleyeceğine token sahipleri oylama ile karar verecekler. 
