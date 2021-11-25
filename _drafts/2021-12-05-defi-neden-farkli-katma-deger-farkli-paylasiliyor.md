@@ -27,9 +27,9 @@ Peki o zaman yaratılan katma değeri girişimciler mi alıyor. Tam olarak deği
 
 İşte, bu nedenle, DeFi girişimlerinin kuruluş sonrası yol haritalarına ve çıkaracakları tokenlerin dağıtım tablolarına baktığınızda, hem ekosistemlerinin büyümesine yardımcı olacak geliştiricilere hem de kullanıcılara dağıtılacak olan miktarları ayrı ayrı görürsünüz. 
 
-| ![cake](/assets/ant-gfaba07ee2_800.jpg)|
+| ![cake](/assets/swede-cakes-2123191_800)|
 |:--:| 
-| *Image by [juliocb](https://pixabay.com/users/juliocb-7022246/) from [Pixabay](https://pixabay.com/)*|
+| *Image by [Varintorn Kantawong](https://pixabay.com/users/varintorn-2453766/) from [Pixabay](https://pixabay.com/)*|
 
 Dağıtılan tokenların geniş kesimlere dağıtılması aslında DeFi'nin felsefesine çok uygun bir durum. Zira, merkeziyetsiz girişimler, başlangıçta hep merkezi başlarlar, sonrasında zamanla merkeziyetsiz bir hale gelirler. Bu merkeziyetsizliğin son aşaması ise protokole ait tokenlerin topluluğa verilmesi suretiyle, alınacak tüm stratejik kararların onlar tarafında alınmasını sağlamaktır. 
 
