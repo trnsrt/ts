@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Key DeFi Attributes: Non-custodal"
+title:  "Key DeFi Attributes: Non-custodial"
 date:   2021-11-27 17:47:56 +0300
 categories: Genel
 tags: Yazılar, Articles
