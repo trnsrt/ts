@@ -12,7 +12,7 @@ Compound, kullanıcılar ürünlerini kullansın diye onlara kendi yönetim toke
 
 Compound'un bu hareketi kısa süre içinde diğer DeFi ürünleri tarafından da taklit edildi. Bu sayede, DeFi protokolleri likiditeye boğuldular.
 
-| ![TVL](/assets/lifeTVL_DefiLlama211206_800.png)|
+| ![TVL](/assets/TVL_DefiLlama211206_800.png)|
 |:--:| 
 | *Kaynak [DefiLlama](https://defillama.com)*|
 
