@@ -6,7 +6,13 @@ Bu haftaki yazımızda son zamanlarda sıkça konuşulmaya başlanan DeFi 2.0 ne
 
 #### DeFi nasıl çıkmıştı? Bir hatırlayalım.. 
 
-Üzerinde uzunca bir süre çalışılan DeFi projelerinin uçuşa geçmesine engel olan, yumurta-tavuk misali yaşadıkları bir sıkıntı vardı. Projeler kullanıcılar için hazır hale getirilmişti ancak içlerinde likidite yoktu. Likidite olmayınca kimse bu ürünleri kullanmıyordu, böyle olunca projeler "boş AVM'lere" dönmüşlerdi. Bu sarmaldan çıkabilmenin yolunu Compound buldu (daha önce Synthetix'in benzer yapıları olsa da Compound'un hareketi mihenk taşı olarak kabul edilir). 
+Üzerinde uzunca bir süre çalışılan DeFi projelerinin uçuşa geçmesine engel olan, yumurta-tavuk misali yaşadıkları bir sıkıntı vardı. Projeler kullanıcılar için hazır hale getirilmişti ancak içlerinde likidite yoktu. 
+
+| ![oasis](/assets/aoasis-1288359_800.jpg)|
+|:--:| 
+| *Image by [Lars Plöger](https://pixabay.com/users/aenigmatis-3d-1894940/) from [Pixabay](https://pixabay.com/)*|
+
+Likidite olmayınca kimse bu ürünleri kullanmıyordu, böyle olunca projeler "boş AVM'lere" dönmüşlerdi. Bu sarmaldan çıkabilmenin yolunu Compound buldu (daha önce Synthetix'in benzer yapıları olsa da Compound'un hareketi mihenk taşı olarak kabul edilir). 
 
 Compound, kullanıcılar ürünlerini kullansın diye onlara kendi yönetim tokenini vermeye başladı. Bu, esasında kelimenin hafif anlamı ile 'teşvik' ağır anlamıyla 'rüşvet' idi.  Kullanıcılar, protokolü kullanıyor, ona likidite sağlıyor, sağladıkları likidite karşılığında yönetim tokeni alıyorlardı. Bu tokenler, bir yandan protokolün yönetiminde söz sahibi olmaya yarıyor, diğer yandan da Uniswap benzeri merkeziyetsiz borsalarda alınıp satılarak kullanıcılara ciddi bir gelir sağlıyordu. 
 
