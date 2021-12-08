@@ -8,7 +8,7 @@ Bu haftaki yazımızda son zamanlarda sıkça konuşulmaya başlanan DeFi 2.0 ne
 
 Üzerinde uzunca bir süre çalışılan DeFi projelerinin uçuşa geçmesine engel olan, yumurta-tavuk misali yaşadıkları bir sıkıntı vardı. Projeler kullanıcılar için hazır hale getirilmişti ancak içlerinde likidite yoktu. 
 
-| ![oasis](/assets/aoasis-1288359_800.jpg)|
+| ![oasis](/assets/oasis-1288359_800.jpg)|
 |:--:| 
 | *Image by [Lars Plöger](https://pixabay.com/users/aenigmatis-3d-1894940/) from [Pixabay](https://pixabay.com/)*|
 
