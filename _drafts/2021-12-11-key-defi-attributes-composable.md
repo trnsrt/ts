@@ -23,9 +23,9 @@ Decentralized finance protocols works with certain set of standards. Why? Couple
 
 DeFi protocols work together like a stack. These protocols are specialized in certain type of offering. For example, Compound focuses on lending, Uniswap focuses on being a decentralized exchange. They operate in crypto land with limited resources and they need to cooperate (or work together) with other services to effectively serve their users. 
 
-| ![legos](/assets/giraffe-gf860793c5_800.jpg)|
+| ![legos](/assets/firewood-gd2e14afb3_800.jpg)|
 |:--:| 
-| *Image by [bjtpro1](https://pixabay.com/users/bjtpro1-6355889/) from [Pixabay](https://pixabay.com/)*|
+| *Image by [cocoparisienne](https://pixabay.com/users/cocoparisienne-127419/) from [Pixabay](https://pixabay.com/)*|
 
 For example, they use their customers digital assets which are recorded on blockchains, so they need to be in compliance with these blockchains. Furthermore, these blockchains act as an infrastructure for them, such as iOS for Apple ecosystem and android for Google. Blockchains provide security for users and these protocols and transfer value between parties (which in turn charge them fees). 
 
