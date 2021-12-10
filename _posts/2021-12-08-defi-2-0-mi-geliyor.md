@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "DeFi 2.0 mı geliyor?"
+date:   2021-12-08 17:47:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
 Bu haftaki yazımızda son zamanlarda sıkça konuşulmaya başlanan DeFi 2.0 nedir, neden ortaya çıktı sorularına cevap bulmaya çalışacağız. 
 
 ### Nedir bu DeFi 2.0? Nereden çıktı?
@@ -54,3 +62,12 @@ Bu yapının, eskinin likidite madenciliğinden farkı ise, daha uzun vadeli bir
 DeFi ürünlerinin, kullanıcı kazanabilmek adına kullandıkları 'likidite kiralama' yöntemi, eskinin ICO'ları (halka arzları)  benzeri klasik dünyayı taklit eden ve ilk başlayan projeler için faydalı oldu, ancak sonraları bunun kısa vadeli ve hormonlu bir çözüm olduğu anlaşıldı.
 
 DeFi 2.0 olarak adlandırılan yeni projeler, DeFi'nin kendine has özelliklerini kullanıp daha önce hiç tecrübe etmediğimiz bir dünyanın kapısını aralamaya başlıyorlar. Başka DAO'ların hazinelerini kullanarak likidite kazanma, yeni projelere uzun vadeli likidite sağlamanın yanında eski projelere hazinelerinde tuttukları rezervleri daha verimli kullanma olanağı da getiriyor. Bu yeni yöntem, görünen o ki, önümüzdeki dönemde de sıklıkla karşılacağımız bir trendin öncü adımları. Önümüzdeki yazıda, DeFi 2.0 projelerinin mevcut DAO hazineleri ile birlikte nasıl çalışacağına daha detaylı bakacağız. 
+
+
+---
+
+*Not 1: Bu yazı ilk olarak 8 Aralık 2021'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/defi-2-0-mi-geliyor/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
