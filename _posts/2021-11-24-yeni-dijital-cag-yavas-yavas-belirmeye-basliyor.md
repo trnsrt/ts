@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Yeni dijital çağ yavaş yavaş belirmeye başlıyor"
+date:   2021-11-24 17:47:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
 Gelin bugünkü yazımızda hızla değişen dünyamızdaki son gelişmelere kuşbakışı bir göz atalım ve önümüzdeki on yılda neleri konuşacağız tahmin etmeye çalışalım. 
 
 Bu aralar Twitter'ı takip ederken, sanıyorum çoğumuzun sıkça karşılaştığı bir his var: "Her şey çok hızlı gelişiyor, her hafta yepyeni bir konu ortaya atılıyor" Hak vermemek mümkün değil; birkaç ay önce DeFi konuşuyorduk, sonra NFT çıktı, sonra Metaverse, derken DAO'lar. Böyle olunca, çıkan her yeniliği moda olarak addediyor ve gelip geçeceğini düşünüyoruz. Gerçekten öyle mi?
@@ -43,4 +51,12 @@ Engellerin en büyükleri, fiziki dünyadaki devletlerin bu dünyaya geçişi ne
 Bu merkezi yapılara karşı alternatif nedir? Merkeziyetsiz yapılar mı? Tam olarak kestirmek güç, ancak merkeziyetsiz finans alanındaki girişimlerin açık yapıları ile son bir yıl içinde geldikleri nokta, gelecek için ümit verici. 
 
 ## Sonuç 
-Sürece yukarıdan bakınca fark ettiğimiz, dijitalleşmenin hayatımıza girmesiyle yavaş yavaş hissetmeye başladığımız dönüşümün, bundan sonra ne yöne hareket edeceğinin ipuçları aslında. Siz böyle haftada bir yeni konu çıktığına bakmayın, aslında bu gelişmelerin her biri önümüzdeki on yıl bizim gündemimizde olmaya devam edecek. O nedenle, "yarın nasıl olsa yeni bir trend çıkar" diye düşünmeyip, bu gelişmeleri iyi anlamak önemli. Önümüzdeki yazılarda bunlara daha sık eğileceğiz. 
+Sürece yukarıdan bakınca fark ettiğimiz, dijitalleşmenin hayatımıza girmesiyle yavaş yavaş hissetmeye başladığımız dönüşümün, bundan sonra ne yöne hareket edeceğinin ipuçları aslında. Siz böyle haftada bir yeni konu çıktığına bakmayın, aslında bu gelişmelerin her biri önümüzdeki on yıl bizim gündemimizde olmaya devam edecek. O nedenle, "yarın nasıl olsa yeni bir trend çıkar" diye düşünmeyip, bu gelişmeleri iyi anlamak önemli. Önümüzdeki yazılarda bunlara daha sık eğileceğiz.
+
+---
+
+*Not 1: Bu yazı ilk olarak 24 Kasım 2021'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/yeni-dijital-cag-yavas-yavas-belirmeye-basliyor/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
