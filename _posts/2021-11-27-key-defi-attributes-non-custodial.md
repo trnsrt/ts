@@ -38,6 +38,6 @@ We will continue to look at different attributes of DeFi in our future posts.
 
 
 ---
-*This piece is [first published]() in [BlockchainIST Center](https://medium.com/blockchainist-center) on November 27th, 2021.*
+*This piece is [first published](https://medium.com/bcistcenter/key-defi-attributes-non-custodial-e927f761609f) in [BlockchainIST Center](https://medium.com/blockchainist-center) on November 27th, 2021.*
 
 *None of the views expressed in this article should be considered as investment advice*
