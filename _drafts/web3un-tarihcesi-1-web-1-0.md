@@ -6,7 +6,7 @@ Aslına bakarsanız Web 1 dediğimiz internetin ilk başlangıcı. Internetin na
 
 | ![web-1_0](/assets/technology-g0454e447f_800.jpg)|
 |:--:| 
-| *Image by [chenspec](https://pixabay.com/users/chenspec-7784448/) from [Pixabay](https://pixabay.com/) *|
+| *Image by [chenspec](https://pixabay.com/users/chenspec-7784448/) from [Pixabay](https://pixabay.com/)*|
 
 #### Internetin tarihi
 Internet dediğimiz aslına bakarsınız, farklı makinelerin birbirleri ile bir ağ içinde bir arada iletişimde olması. Fikir çok eski, teorik olarak 1920'lere dayanıyor. 1950'lerde ilk bilgisayarların kurulması ve bilgisayar biliminin ortaya çıkması ilk yapı temellerini oluşturuyor. 
