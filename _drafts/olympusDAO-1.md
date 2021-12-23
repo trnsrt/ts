@@ -27,7 +27,7 @@ Bu sarmalı Messari'nin aşağıdaki [tablosu]/(https://messari.io/article/olymp
 
 |![TVL](/assets/messari_pool_liquidity_800.png)|
 |:--:| 
-| *Verilen teşvikler kısa vadede likidite sağlasa da, uzun vadede projelere zarar verebiliyor. Kaynak [Messari Crypto Theses for 2022](https://messari.io/crypto-theses-for-2022)*|
+| *Verilen teşvikler kısa vadede likidite sağlasa da, uzun vadede projelere zarar verebiliyor. Kaynak: [Messari Crypto Theses for 2022](https://messari.io/crypto-theses-for-2022)*|
 
 Sonuç olarak, geçici süreliğine token vererek dışarıdan likidite kiralamak, başlangıçta protokolleri ayağa kaldırmak için güzel bir yöntem olsa da uzun vadede ürünlere ciddi bir ayak bağı olmaya başladı.
 
@@ -54,7 +54,9 @@ OlympusDAO, bir nevi bono ihraç ediyor yani piyasadan borç satın alıyor. Bun
 ### Başarılı mı?
 Başarının pek çok tanımı var. OlympusDAO şu aşamada kendi hedeflerine ulaşmış görünüyor. Örneğin, OHM tokenlerin işlem gördüğü en büyük havuz olan Suhsiswap'ta bulunan [OHM-DAI likidite havuzunun](https://analytics.sushi.com/tokens/0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5) %99.99 [sahibi şu anda OlympusDAO hazinesi](https://app.olympusdao.finance/#/dashboard). OlympusDAO'nun elinde bu havuz tokenleri de içeren yaklaşık 700 milyon ABD Doları token mevcut. 
 
-[OlympusDAO hazinesinin dağılımı]
+|![Olympus_DAO_Hazinesi](/assets/OlympusDAO_Hazinesi_800.png)|
+|:--:| 
+| *OlympusDAO hazinesinin sahip olduğu tokenler ve miktarları -  Kaynak: [Dune Analytics](https://dune.xyz/shadow/Olympus-(OHM))*|
 
 Bunun yanında piyasada bulunan OHM'lerin %90'ı OHM'ye stake edilmiş durumda. Dolayısıyla, stabil bir fonlama sağlama konusunda OlympusDAO şimdilik başarılı olmuş gibi görünüyor. 
 
