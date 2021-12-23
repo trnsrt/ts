@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "OlympusDAO nasıl DeFi dünyasının son gözdesi oldu?"
+date:   2021-12-24 17:47:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
+
 Bu yazımızda gelin, son dönemde DeFi dünyasının yeni sevgilisi olan OlympusDAO'ya bakalım. 
 
 Geçtiğimiz yazımızda, DeFi'nin, büyüme sancılarının ilki olan likidite sıkıntısını nasıl aştığından bahsetmiş ancak çözüm olarak bulunan likidite madenciliğinin  yarattığı başkaca problemlere değinmiştik. Sonrasında yeni nesil DeFi protokollerinin bu sorunu çözmek için geliştirdikleri yollara değinmiştik. Bu yazımızda, bu yeni protokollerinden OlympusDAO'nun ortaya attığı yenilik ve bunun sonucu yaşadığı (şimdilik) müthiş başarıyı inceleyeceğiz. 
@@ -66,3 +75,12 @@ Bunun yanında piyasada bulunan OHM'lerin %90'ı OHM'ye stake edilmiş durumda. 
 
 ### Arkası yarın
 Bu haftalık burada bırakalım. Önümüzdeki hafta OlympusDAO nedir, neler yapar, başarısı ve sıkıntılarının detaylarına bakalım. 
+
+
+---
+
+*Not 1: Bu yazı ilk olarak 24 Aralık 2021'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı]()*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
