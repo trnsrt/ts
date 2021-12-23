@@ -23,7 +23,7 @@ Yukarıdaki tablonun temel nedeni, başlangıçta kimse yokken verilen teşvikle
 
 Müthiş güzel bir sarmal. Ta ki, ödül verilen tokenlerin azalmaya başlayıp bu ödülü almaya çalışan havuzun gittikçe genişlemesi, bunun da getirileri düşürmeye başlamasına kadar. Yatırım dediğiniz aslında beklentidir. Bir noktada getirilerin düşeceğini öngören yatırımcılar havuzdan likidite çekmeye başlıyorlar. Likidite çekilip alınan tokenlar satılmaya başlayınca fiyat da azalıyor ve bu sefer negatif sarmala giriyorsunuz.
 
-Bu sarmalı Messari'nin aşağıdaki [tablosu]/(https://messari.io/article/olympus-pro-protocol-owned-liquidity-as-a-service?referrer=grid-view) çok güzel açıklıyor: 
+Bu sarmalı Messari'nin aşağıdaki [tablosu](https://messari.io/article/olympus-pro-protocol-owned-liquidity-as-a-service?referrer=grid-view) çok güzel açıklıyor: 
 
 |![TVL](/assets/messari_pool_liquidity_800.png)|
 |:--:| 
