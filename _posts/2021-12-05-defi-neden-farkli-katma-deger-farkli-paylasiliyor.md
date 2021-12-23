@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DeFi neden farklı? - Katma değer farklı paylaşılıyor"
-date:   2021-12-04 08:47:56 +0300
+date:   2021-12-05 08:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, DeFi'ye Giriş
 ---
