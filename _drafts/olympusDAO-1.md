@@ -9,6 +9,10 @@ Geçtiğimiz yazımızda, DeFi'nin, büyüme sancılarının ilki olan likidite 
 #### Para, para, para...
 DeFi protokolleri ilk olarak kullanıcılara hizmet vermeye başladıklarında ciddi bir problem ile karşılaştılar: Likidite. Ne kadar çok kullanıcı bir protokolü kullanırsa orada ağ etkisi nedeniyle likidite oluyor, likidite oldukça da yeni kullanıcı geliyordu ancak makineye çalıştıracak başlangıç likiditesini bulmak kolay olmuyordu. Neden? Başta kullanıcı henüz gelmemişken sistem kullanılmadığı için konan likidite herhangi bir gelir (burada işlem yapılması sonrası alınan komisyon) kazanmıyordu.
 
+| ![brain_money](/assets/head-6848580_800.png)|
+|:--:| 
+| *Image by [mohamed Hassan](https://pixabay.com/users/mohamed_hassan-5229782/) from [Pixabay](https://pixabay.com/)*|
+
 #### Likidite madenciliği ile geçici çözüm
 DeFi ürünleri bu problemi, protokollere likidite sağlayanlara ekstra teşvikler vererek çözdüler. Normalde protokoller likidite sağlayanlara sağladıkları para karşılığı kazandıkları komisyonun bir kısmını veriyorlardı. Bir de üzerine daha çok likidite çekmek için kendi yönetim tokenlerini teşvik olarak verdiler. Kullanıcı az olduğu için komisyon geliri az olsa da, likidite sağlayıcılar bu aldıkları yönetim tokenlerini piyasada satarak iyi getiriler elde ettiler.  
 
