@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Web3'ün Tarihçesi I - Web 1.0"
+date:   2021-12-25 08:47:56 +0300
+categories: Genel
+tags: Yazılar, DeFi, DeFi'ye Giriş
+---
+
 Son zamanlarda en sık konuşulan konulardan biri Web3 oluyor. Gelin isterseniz "Web 3 nedir?" sorusunun öncesinde vermeden önce Web1 ve Web2 konularını göz atarak işin tarihçesini anlayalım: 
 
 ### Nedir Web 1 ya da Web 1.0?
@@ -30,3 +38,11 @@ Yine aynı şekilde, araştırma çalışma sonuçlarının üniversiteler aras�
 
 ### Sonuç
 Web 1, ticari kaygılardan uzak, daha uzun vadeli ve internetin temel altyapı taşlarını oluşturan protokol ve basit uygulamaların ortaya çıktığı nereden bakarsanız yirmi yılı bulan uzunca bir dönem sonunda ortaya çıktı. Ücretsiz ortaya çıkan temel standartlar, sonrasındaki gelişmenin en itici güçlerinden biri oldu. Bir sonraki yazımızda, Web2 dediğimiz bir sonraki sürece göz atıyor olacağız.  
+
+---
+
+*Not 1: Bu yazı ilk olarak 25 Aralık 2021'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı]()*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.* 
