@@ -49,7 +49,7 @@ Sonuç olarak, geçici süreliğine token vererek dışarıdan likidite kiralama
 Yeni DeFi protokolleri (ki kimileri bunlara DeFi 2.0 diyor) bu sorunu kısa vadeli likidite madenciliğini daha uzun vadeli hale çekerek çözdüler. Bunu yaparken de genelde bireysel yatırımcılar üzerinden likidite madenciliği (yani kiralama yapmak yerine) başka DAO'lar ile anlaşarak onların hazinelerindeki likiditeyi uzun vadeli kullanma yoluna geçtiler. Bu yazımızın konusu olan Olympus ise bunu farklı bir şekilde yapıyor. Gelin şimdi onların yaptıklarına göz atalım hep birlikte.
 
 ### Olympus kendini nasıl fonluyor ?
-Olympus'un, likidite çekebilmek için uzun vadeli ve kısa vadeli iki çözümü var.
+[Olympus](https://www.olympusdao.finance/)'un, likidite çekebilmek için uzun vadeli ve kısa vadeli iki çözümü var.
 
 Bunlardan ilki staking dediğimiz token rehin etme yoluyla para kazanma yöntemi. Bu yöntemin aslına bakarsanız benzer platformlarda yapılanlardan çok da bir farkı yok. Olympus'un farkı, sisteme uzun vadeli stake yapanlara çok yüksek miktarda faiz sözü vermiş olması. Sisteme stake yapmak için projenin değer yaratacağına inanmak gerekiyor, aksi takdirde değeri azalan bir tokenden getiri alsanız ne işe yarar ki? Staking'in uzun vadeli bir yatırım aracı olduğunu söylemeye gerek yok sanırım.
 
@@ -75,7 +75,6 @@ Bunun yanında piyasada bulunan OHM'lerin %90'ı OHM'ye stake edilmiş durumda. 
 
 ### Arkası yarın
 Bu haftalık burada bırakalım. Önümüzdeki hafta Olympus nedir, neler yapar, başarısı ve sıkıntılarının detaylarına bakalım. 
-
 
 ---
 
