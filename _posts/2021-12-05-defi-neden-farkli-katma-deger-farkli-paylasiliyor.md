@@ -42,7 +42,7 @@ Peki ya klasik dünyanın kullanıcıları? Onlar, girişimin sunduğu ürünün
 
 ---
 
-*Not 1: Bu yazı ilk olarak 4 Aralık 2021'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı]()*
+*Not 1: Bu yazı ilk olarak 4 Aralık 2021'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı](https://medium.com/blockchainist-center/defi-neden-farkl%C4%B1-katma-de%C4%9Fer-payla%C5%9F%C4%B1l%C4%B1yor-40d7f3c1ca4a)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
