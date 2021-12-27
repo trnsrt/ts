@@ -44,6 +44,6 @@ These standards allow these protocols, 'not to reinvent the wheel' and to just f
 We will continue to look at different attributes of DeFi in our next posts. Inclusiveness will be the next one. 
 
 ---
-*This piece is [first published](https://medium.com/bcistcenter/key-defi-attributes-non-custodial-e927f761609f) in [BlockchainIST Center](https://medium.com/blockchainist-center) on December 18th, 2021.*
+*This piece is [first published](https://medium.com/bcistcenter/key-defi-attributes-composable-b979d4c3171e) in [BlockchainIST Center](https://medium.com/blockchainist-center) on December 18th, 2021.*
 
 *None of the views expressed in this article should be considered as investment advice*
