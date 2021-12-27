@@ -41,7 +41,7 @@ Web 1, ticari kaygılardan uzak, daha uzun vadeli ve internetin temel altyapı t
 
 ---
 
-*Not 1: Bu yazı ilk olarak 25 Aralık 2021'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı]()*
+*Not 1: Bu yazı ilk olarak 25 Aralık 2021'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı](https://medium.com/blockchainist-center/web3%C3%BCn-tarih%C3%A7esi-i-web-1-0-2725f282d1e9)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
