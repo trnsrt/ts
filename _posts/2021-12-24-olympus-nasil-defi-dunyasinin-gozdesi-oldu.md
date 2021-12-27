@@ -78,7 +78,7 @@ Bu haftalık burada bırakalım. Önümüzdeki hafta Olympus nedir, neler yapar,
 
 ---
 
-*Not 1: Bu yazı ilk olarak 24 Aralık 2021'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı]()*
+*Not 1: Bu yazı ilk olarak 24 Aralık 2021'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/olympus-nasil-definin-gozdesi-haline-geldi/)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
