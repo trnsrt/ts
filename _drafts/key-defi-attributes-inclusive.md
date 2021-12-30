@@ -19,12 +19,12 @@ Those that live in banked societies but have financial difficulties or do not ha
 
 Even though you are 'eligible', think about all the paperwork associated with opening an account: ID's copied, documents signed, files sent, wait period etc. How about when you need to work with another institution? ID copies, documents, files all submitted again and again.. 
 
-All in all there are 1.7 billion people that have no access to financial system and called 'unbanked' by World Bank. 
+All in all there are 1.7 billion people that have no access to financial system and called 'unbanked' by [World Bank](https://globalfindex.worldbank.org/). 
 
 ### What about DeFi?
-Well, for DeFi protocols every user is a stranger and they are OK with it. Users, have no names but merely are accounts with numbers and letters. In order to access to the financial system, all a user needs is a electronic wallet (a software on a computer or an app on a mobile phone) and some money in it. 
+Well, for DeFi protocols every user is a stranger and they are OK with it. Users, have no names rather they are accounts with numbers and letters. In order to access to the financial system, the only thing required is an electronic wallet (a software on a computer or an app on a mobile phone) and some money in it. 
 
-This accessibility characteristics gives DeFi an untapped market of 1.7 billion plus all those that are done with the paperwork required in current financial system. 
+Such accessibility enables DeFi to serve to an untapped market of 1.7 billion unbanked as well as all those that are fed up with the paperwork required in current financial system. 
 
 ### To be continued
 We will continue our series with another attribute in our next post, this time 'open source'.
