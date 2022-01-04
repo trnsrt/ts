@@ -66,8 +66,8 @@ Birinci senaryo basit. OHM piyasa değeri bu seviyelerde kalır ya da daha da y�
 Olympus, rezerv para olma hedefiyle yola çıkan, bunu gerçekleştirebilmek için insanları kendine inandırarak ciddi paralar toplamış bir protokol. İnandıkları ve insanları inandıkları oyun teorisini daha da uzatabilmek için hazinelerinde yeterince para toplamış görünüyorlar. Bundan sonrasında, ekstra gelir olarak likidite komisyonları ve diğer platformlardan kazanacakları ödüller büyük önem arz ediyor. Eğer bu gelir kapılarından gelen paralar insanların sisteme inancını devam ettirirse bu sarmalı devam ettirebilirler. Ancak bu inancın kaybolması durumunda OHM fiyatında ciddi iniş ve çıkışlar görmemiz ve OHM'yi de kendinden önceki pek çok proje gibi tarihin tozlu raflarına kaldırmamız gerekebilir. 
 
 
---
-### Not: Olympus fikrinin arkasında yatan oyun teorisi
+---
+***Not: Olympus fikrinin arkasında yatan oyun teorisi***
 
 Alsına bakarsanız, Olympus genel hareket felsefesini, kişilerin davranışsal olarak nasıl bir arada hareket edecekleri ya da bir başka deyişle '[oyun teorisi](https://docs.olympusdao.finance/main/whitepapers/game-theory) üzerine kuruyor. Temel olarak oyun teorisi, iki parti arasında değişik senaryolar söz konusu olduğunda, kişilerin birbirleri ile uyumlu (kooperatif) hareket etmelerinin tüm kişiler için en kazançlı durumu ortaya çıkaracağını söylüyor. Olympus'un sistem katılcıları için kullandığı ünlü bir 'meme'i var (3,3) şeklinde. Aşağıdaki grafikte anlatılıyor. 
 
