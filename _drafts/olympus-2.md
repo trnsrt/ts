@@ -7,7 +7,7 @@ Olympus, ilk zamanlardaki DeFi protokollerinin aksine, likidite sağlamak için 
 
 | ![Olympus_dagi](/assets/2327758_1289e37434_o_800.jpg)|
 |:--:| 
-| *Olympus Dağı Kaynak: [Fiicker](https://www.flickr.com/photos/jasonpratt/2327758/in/photostream/) by [Jason Pratt](https://www.flickr.com/photos/jasonpratt/) published under [CC by 2.0 license](https://creativecommons.org/licenses/by/2.0/)*|
+| *Olympus Dağı Kaynak: [Flickr](https://www.flickr.com/photos/jasonpratt/2327758/in/photostream/) by [Jason Pratt](https://www.flickr.com/photos/jasonpratt/) published under [CC by 2.0 license](https://creativecommons.org/licenses/by/2.0/)*|
 
 Olympus bu yöntemi uygulayarak şu ana kadar kendini başarılı olmuş addediyor. Başarı kriterleri? 
 - OHM'nin işlem gördüğü en büyük yer olan [OHM-DAI havuzunun](https://analytics.sushi.com/tokens/0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5) katılım paylarının %99.99'u kendine ait (yani şu an 187 milyon ABD doları likiditesi olan havuzun neredeyse tek sahibi o). Bu sayede, havuz içindeki likiditenin ani bir şekilde çekilmesi gibi bir riskten koruyor kendini. 
