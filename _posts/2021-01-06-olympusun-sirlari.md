@@ -1,6 +1,14 @@
+---
+layout: post
+title:  "Olympus'un sırları"
+date:   2022-01-06 17:47:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
 Bu yazımızda gelin, son dönemde DeFi dünyasının yeni sevgilisi olan Olympus’a bakalım.
 
-Geçtiğimiz [yazıda](https://turansert.com/genel/2021/12/24/olympus-nasil-defi-dunyasinin-gozdesi-oldu.html), DeFi'nin son dönemde gözdesi haline gelen Olympus'un nasıl likidite çektiğinden bahsetmiştik.  
+Geçtiğimiz [yazıda](/genel/2021/12/24/olympus-nasil-defi-dunyasinin-gozdesi-oldu.html), DeFi'nin son dönemde gözdesi haline gelen Olympus'un nasıl likidite çektiğinden bahsetmiştik.  
 
 Kısa bir özet geçersek:
 Olympus, ilk zamanlardaki DeFi protokollerinin aksine, likidite sağlamak için çevreye bedava teşvik vermek yerine, bu likiditeyi satın alıyordu. Eski DeFi protokolleri likiditeyi geçici olarak kiralıyor ve karşılığında kendi yönetim tokenlerini dağıtıyorlar, Olympus ise likidite havuzlarına katılım paylarını bono ihracı yoluyla satın alıyor karşılığında kendi yönetim tokeni olan OHM'yi veriyor. 
@@ -98,3 +106,10 @@ Temel olarak bir kullanıcının alabileceği üç temel aksiyon var.
 - Üçüncüsü ise eğer fiyatın düşeceğini öngörüyor ise bu aksiyonların tam tersi kilidi ya da bonoyu çözüp aldığı OHM'yi piyasada satmak.
 
 Olympus oyun teorisi 'staking' yani kilitlemenin fiyata etkisini 3, 'bonding' yani tahvil alımını 1, OHM hissesini ya da bond'u satmanın fiyata etkisini ise -1 olarak adlandırıyor (rakamlara takılmayın, hareketin yönünü gösterdiğini düşünün). Eğer herkes stake eder, yani sisteme inanırsa, herkes kazanıyor. Eğer bir kısım inanır ve stake eder diğer kısım tam olarak emin olamaz ve bono satın alırsa o zaman stake edenler 3, tahvil sahipleri 1 kazanıyor. Eğer inanç kaybolursa, o zaman herkes kaybediyor. Olympus, bu teori gereği sisteme girenlerin inanıp uzun vadeli sistemde kalmaları durumunda kazanacaklarını, ama tüm katılımcıların inancını yitirip satışa geçmeleri durumunda sistemin çökebileceğini (ama bunun ihtimalinin düşük olduğunu) düşünüyor.
+
+
+*Not 1: Bu yazı ilk olarak 6 Ocak 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/olympusun-sirlari/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
