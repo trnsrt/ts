@@ -50,7 +50,7 @@ O zaman, soru 100 dolar likidite değeri olan OHM tokenlerini bu kadar primli ya
 
 ### Olympus'un gelir kaynakları neler?
 
-Birkaç temel kaynağı var. Birincisi, OHM-DAI benzeri havuzların sahipliği sayesinde bu havuzlarda işlem yapıldığında verilen komisyonları alıyorlar. Nisan ayından bu yana bu rakam [29 milyon ABD Dolarına ulaşmış](https://dune.xyz/shadow/Olympus-(OHM)). İkincisi ise şu anda yukarıdaki tahvil modelini başka protokollere de kullandırıyorlar ve [OlympusPRO adlı bir pazar yerinde](https://pro.olympusdao.finance/) sundukları bu hizmetten yaklaşık %3.3 komisyon alıyorlar. Bunun yanında ellerinde tuttukları tokenleri başka protokollere kullandırarak ek kazanç sağlama olanakları da var (örneğin tokenlerin oy hakkını başka ekiplere delege etmek gibi). 
+Birkaç temel kaynağı var. Birincisi, OHM-DAI benzeri havuzların sahipliği sayesinde bu havuzlarda işlem yapıldığında verilen komisyonları alıyorlar. Nisan ayından bu yana bu rakam [29 milyon ABD Dolarına ulaşmış](https://dune.xyz/shadow/Olympus-(OHM)). İkincisi ise şu anda yukarıdaki tahvil modelini başka protokollere de kullandırıyorlar ve [Olympus PRO adlı bir pazar yerinde](https://pro.olympusdao.finance/) sundukları bu hizmetten yaklaşık %3.3 komisyon alıyorlar. Bunun yanında ellerinde tuttukları tokenleri başka protokollere kullandırarak ek kazanç sağlama olanakları da var (örneğin tokenlerin oy hakkını başka ekiplere delege etmek gibi). 
 
 Yine de Olympus'un en önemli gelir kaynağı yukarıda bahsettiğimiz bono ihraçları. OHM değeri ne kadar yüksek olursa, ihraç edilen bonolardan Olympus hazinesine o kadar fazla para giriyor. Dolayısıyla, hazinenin OHM'yi destekleyebilmek için rezervinde tuttuğu para da o kadar artıyor. 
 
