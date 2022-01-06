@@ -1,4 +1,6 @@
-Geçtiğimiz yazıda, DeFi'nin son dönemde gözdesi haline gelen Olympus'un nasıl likidite çektiğinden bahsetmiştik.  
+Bu yazımızda gelin, son dönemde DeFi dünyasının yeni sevgilisi olan Olympus’a bakalım.
+
+Geçtiğimiz [yazıda](https://turansert.com/genel/2021/12/24/olympus-nasil-defi-dunyasinin-gozdesi-oldu.html), DeFi'nin son dönemde gözdesi haline gelen Olympus'un nasıl likidite çektiğinden bahsetmiştik.  
 
 Kısa bir özet geçersek:
 Olympus, ilk zamanlardaki DeFi protokollerinin aksine, likidite sağlamak için çevreye bedava teşvik vermek yerine, bu likiditeyi satın alıyordu. Eski DeFi protokolleri likiditeyi geçici olarak kiralıyor ve karşılığında kendi yönetim tokenlerini dağıtıyorlar, Olympus ise likidite havuzlarına katılım paylarını bono ihracı yoluyla satın alıyor karşılığında kendi yönetim tokeni olan OHM'yi veriyor. 
@@ -22,7 +24,7 @@ Olympus, Mart 2021'de [Zeus](https://twitter.com/ohmzeus) isimli anonim bir hesa
 |:--:| 
 | *Image by [Jeff Chabot ](https://pixabay.com/users/chabotphoto-568036/) from [Pixabay](https://pixabay.com/)*|
 
-Temel hedefi, sistemin tokeni olan OHM'nin altın benzeri bir rezerv para haline gelmesi. Vizyonları, alışverişlerde kullanılan değerini koruyan bir para olmak. Bu parayı bir stabil para gibi değerlendirmemek gerekiyor, zira, OHM'nin herhangi bir itibari paraya çapalanma gibi durumu yok. Bunun temel nedeni, ABD dolarının da zamanla değer kaybettiği için aslında bir stabil para olarak değerlendirilemeyeceğini söylüyorlar. Bunun yerine kullandıkları terim 'arkasında bir değer olan' bir para olmak. Olympus'un hazinesinin sağlamaya çalıştığı temel baz, piyasada dolaşan OHM miktarına denk gelecek bir değeri kendisinde tutmak (en az 1 OHM=1 DAI olacak şekilde).
+Temel hedefi, sistemin tokeni olan OHM'nin altın benzeri bir rezerv para haline gelmesi. Vizyonları, alışverişlerde kullanılan, değerini koruyan bir para olmak. Bu parayı bir stabil para gibi değerlendirmemek gerekiyor, zira, OHM'nin herhangi bir itibari paraya çapalanma gibi durumu yok. Bunun temel nedeni, ABD dolarının da zamanla değer kaybettiği için aslında bir stabil para olarak değerlendirilemeyeceğini söylüyorlar. Bunun yerine kullandıkları terim 'arkasında bir değer olan' bir para olmak. Olympus'un hazinesinin sağlamaya çalıştığı temel baz, piyasada dolaşan OHM miktarına denk gelecek bir değeri kendisinde tutmak (en az 1 OHM=1 DAI olacak şekilde).
 
 Bu vizyon uzun vadeli. Kısa vadede ise öncelik sistemin gelişmesi ve değer yaratması. Bunun için de katılımcılara uzun vadede ciddi kazanç sağlayarak olabildiğince kişi ve kapitali kendilerine çekmeye çalışıyorlar. Bu ilk dönemde OHM'nin değerinin inişli-çıkışlı olacağının farkındalar ve değer kazanma sürecinde bunu normal olarak kabul ediyorlar. Kazanç olarak önerdikleri rakamlar ise dudak uçurtacak cinsten.
 
@@ -84,7 +86,7 @@ Olympus, rezerv para olma hedefiyle yola çıkan bir protokol. İnandıkları ve
 ---
 ***Not: Olympus fikrinin arkasında yatan oyun teorisi***
 
-Aslına bakarsanız, Olympus genel hareket felsefesini, kişilerin davranışsal olarak nasıl bir arada hareket edecekleri ya da bir başka deyişle '[oyun teorisi](https://docs.olympusdao.finance/main/whitepapers/game-theory) üzerine kuruyor. Temel olarak oyun teorisi, iki parti arasında değişik senaryolar söz konusu olduğunda, kişilerin birbirleri ile uyumlu (kooperatif) hareket etmelerinin tüm kişiler için en kazançlı durumu ortaya çıkaracağını söylüyor. Olympus'un sistem katılımcıları için kullandığı ünlü bir 'meme'i var (3,3) şeklinde. Aşağıdaki grafikte anlatılıyor. 
+Aslına bakarsanız, Olympus genel hareket felsefesini, kişilerin davranışsal olarak nasıl bir arada hareket edecekleri ya da bir başka deyişle '[oyun teorisi]'(https://docs.olympusdao.finance/main/whitepapers/game-theory) üzerine kuruyor. Temel olarak oyun teorisi, iki parti arasında değişik senaryolar söz konusu olduğunda, kişilerin birbirleri ile uyumlu (kooperatif) hareket etmelerinin tüm kişiler için en kazançlı durumu ortaya çıkaracağını söylüyor. Olympus'un sistem katılımcıları için kullandığı ünlü bir 'meme'i var (3,3) şeklinde. Aşağıdaki grafikte anlatılıyor. 
 
 | ![Olympus_game_theory](/assets/olympus_3_3_800.jpg)|
 |:--:| 
@@ -92,7 +94,7 @@ Aslına bakarsanız, Olympus genel hareket felsefesini, kişilerin davranışsal
 
 Temel olarak bir kullanıcının alabileceği üç temel aksiyon var. 
 - Birincisi fiyatın uzun vadede yükseleceğini düşünüyor ise kilitleme (staking) yapmak. 
-- İkincisi, eğer fiyatın uzun vadeli ne olacağı konusunda bir fikirleri yok ama kısa vadede çok da büyük bir değişim öngörmüyorlar ise bono satın almak. 
-- Üçüncüsü ise eğer fiyatın düşeceğin öngörüyorlar ise bu aksiyonların tam tersi kilidi ya da bonoyu çözüp aldığı OHM'yi piyasada satmak.
+- İkincisi, eğer fiyatın uzun vadeli ne olacağı konusunda bir fikri yok ama kısa vadede çok da büyük bir değişim öngörmüyor ise bono satın almak. 
+- Üçüncüsü ise eğer fiyatın düşeceğini öngörüyor ise bu aksiyonların tam tersi kilidi ya da bonoyu çözüp aldığı OHM'yi piyasada satmak.
 
-Staking yani kilitlemenin fiyata etkisi 3, bonding yani tahvilde 1, OHM hissesini satışta ise fiyata etkisi -1 olarak adlandırıyor Olympus oyun teorisi (rakamlara takılmayın, hareketin yönünü gösterdiğini düşünün). Eğer herkes stake eder, yani sisteme inanırsa, herkes kazanıyor. Eğer bir kısım inanır ve stake eder diğer kısım tam olarak emin olamaz ve bono satın alırsa o zaman stake edenler 3, tahvil sahipleri 1 kazanıyor. Eğer inanç kaybolursa, o zaman herkes kaybediyor. Olympus, bu teori gereği sisteme girenlerin inanıp uzun vadeli sistemde kalmaları durumunda kazanacaklarını, ama tüm katılımcıların inancını yitirip satışa geçmeleri durumunda sistemin çökebileceğini (ama bunun ihtimalinin düşük olduğunu) düşünüyor.
+Olympus oyun teorisi 'staking' yani kilitlemenin fiyata etkisini 3, 'bonding' yani tahvil alımını 1, OHM hissesini ya da bond'u satmanın fiyata etkisini ise -1 olarak adlandırıyor (rakamlara takılmayın, hareketin yönünü gösterdiğini düşünün). Eğer herkes stake eder, yani sisteme inanırsa, herkes kazanıyor. Eğer bir kısım inanır ve stake eder diğer kısım tam olarak emin olamaz ve bono satın alırsa o zaman stake edenler 3, tahvil sahipleri 1 kazanıyor. Eğer inanç kaybolursa, o zaman herkes kaybediyor. Olympus, bu teori gereği sisteme girenlerin inanıp uzun vadeli sistemde kalmaları durumunda kazanacaklarını, ama tüm katılımcıların inancını yitirip satışa geçmeleri durumunda sistemin çökebileceğini (ama bunun ihtimalinin düşük olduğunu) düşünüyor.
