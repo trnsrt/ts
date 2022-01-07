@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Key DeFi Attributes: Inclusive"
+date:   2022-01-08 17:47:56 +0300
+categories: Genel
+tags: Yazılar, Articles
+---
+
 We continue our series with accessibility or inclusiveness, one of the key attributes of DeFi. 
 
 In our previous two posts we started a new series and deep-dived into key characteristics of DeFi. First one was the 'non-custodial' nature of DeFi followed by 'composability'. In this post we will talk about inclusive nature of DeFi. 
@@ -28,3 +36,9 @@ Such accessibility enables DeFi to serve to an untapped market of 1.7 billion un
 
 ### To be continued
 We will continue our series with another attribute in our next post, this time 'open source'.
+
+---
+*This piece is [first published]() in [BlockchainIST Center](https://medium.com/blockchainist-center) on January 8th, 2022.*
+
+*None of the views expressed in this article should be considered as investment advice*
+
