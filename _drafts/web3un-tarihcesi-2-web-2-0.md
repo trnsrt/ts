@@ -28,6 +28,10 @@ Web 1.0'ın sonlarına doğru artık temel altyapı ve standartlar oturmaya baş
 
 Özel sektörün bu konuya ilgili duyması tek başına yeterli değil tabii. Büyük şirketlerin içindeki araştırma departmanları daha çok donanım kısmına odaklanırken, kullanıcı dostu uygulamaların geliştirilmesi işi yeni girişimlere yani start-up'lara kaldı. Girişim sermayesi ile desteklenen start-up'lar, internetin potansiyelini ortaya çıkaracak binlerce vizyon dokümanlar ile birlikte girişim sermayelerinden milyonlarca dolar para topladılar. Hatta bu süreç bir ara öyle bir noktaya geldi ki, 2001 yılının ortalarında şişen internet balonu patladı ve onlarca start-up söz verdikleri proje ve hedefleri gerçekleştiremedikleri için kapılarını kapatmak zorunda kaldılar. 
 
+| ![bubble](/assets/soap-bubble-g5d1bca873_800.jpg)|
+|:--:| 
+| *Image by [alexas fotos](https://pixabay.com/users/alexas_fotos-686414/) from [Pixabay](https://pixabay.com/)*|
+
 Yine de, bunca başarısızlık içinden Amazon, Google gibi örnekler, Web 2.0'in ticari potansiyelini ortaya çıkarmayı başardılar. 
 
 ### Peki ne idi Web 2.0'in özellikleri?
