@@ -1,9 +1,7 @@
-Web3'ün tarihçesi II - Web 2.0 
-
 Web 3'e bakmaya başladığımız bu yazı dizimizin bu bölümünde Web 2.0 dediğimiz, internetin ikinci evresine bakıyor olacağız. 
 
 ### Bir önceki bölümden özet
-Internetin ilk başladığı zamanlara adını veren Web 1.0, üniversitedeki araştırmacıların ABD hükümetinden aldıkları destek ile geliştirdikleri altyapı protokolleri ve üzerine kurulan basit uygulamaların oluşturulduğu dönem olarak tarih sayfalarına yazıldı. 
+İnternetin ilk başladığı zamanlara adını veren Web 1.0, üniversitedeki araştırmacıların ABD hükümetinden aldıkları destek ile geliştirdikleri altyapı protokolleri ve üzerine kurulan basit uygulamaların oluşturulduğu dönem olarak tarih sayfalarına yazıldı. 
 
 Bu dönemde, ticari kaygılardan uzak, bilginin paylaşıldığı, genelde uzun vadeli bir felsefe gözetilerek ortaya çıkan standartlar ücretsiz olarak kullanıcılara sunuldu. Genelde karmaşık teknik problemler ile uğraşılan bu dönemde, kullanıcının kaygılarından ziyade, doğru düzgün çalışan ve son kullanıcıya çok da dokunmayan konular üzerine yoğunlaşıldı. 
 
@@ -40,13 +38,15 @@ Web 2.0 aslında bir nevi Web 1.0'in anti-tezi gibiydi. Gelin bakalım temel öz
 
 ***Üstyapı uygulamaları:*** Web 1.0 genelde altyapı projelerine odaklanırken, yeni tip Web 2.0 daha çok bu altyapı projelerinin üzerine kurulu uygulamalardan oluştu. Bu uygulamalar, daha çok son kullanıcıya yönelik idi. Temel hedef, olabildiğince çok sayıda kullanıcıya ulaşabilmek idi. Kullanıcıların neyi beğenip neyi beğenmeyeceğini bilmek o kadar da kolay olmuyor. Kimi özellikler geniş kitlelerce benimsenirken, kimileri kullanılmıyor. İşte bu uygulamalar, kullanıcının tepkisine göre hızlı bir şekilde kendilerini geliştirip değiştirdiler. Yani, Web 1.0'in ağır ilerleyen altyapı projelerinin yerini, hızlıca gelişen ve hata yapmaktan korkmayan uygulamalar aldı. 
 
-***Ticari ve kapalı*** Web 2.0 uygulamaları, gelişimlerini fonlamak için girişim sermayesinden para aldılar. Girişim sermayeleri, riskli projelere girerler, bu nedenle gelir beklentileri çok yüksektir. Dolayısıyla, girişimler bu beklentilere cevap verebilmek için çok kısa sürede başarılı olabilmenin yollarını aradılar. Bunu yaparken, klasik dünyanın belli parametrelerini uyguladılar. Hızlı büyümek için, geliştirdikleri ürünler başkaları tarafıdan kopyalanmasın diye mülkiyet ve telif hakları ile onları korudular ve yazılımlarını 'ticari sır' olarak sakladılar. Aynı şekilde, bu girişimler için en kritik başarı kriteri müşteriyi yakalamak ve onu bırakmamak olduğu için, müşterilerin kendilerini rahat hissedeceği tüm ürünleri bir ekosistem halinde geliştirip, onları tamamen kapalı bir dünyanın içine hapsetmeye çalıştılar. 
+***Ticari ve kapalı:*** Web 2.0 uygulamaları, gelişimlerini fonlamak için girişim sermayesinden para aldılar. Girişim sermayeleri, riskli projelere girerler, bu nedenle gelir beklentileri çok yüksektir. Dolayısıyla, girişimler bu beklentilere cevap verebilmek için çok kısa sürede başarılı olabilmenin yollarını aradılar. Bunu yaparken, klasik dünyanın belli parametrelerini uyguladılar. Hızlı büyümek için, geliştirdikleri ürünler başkaları tarafından kopyalanmasın diye mülkiyet ve telif hakları ile onları korudular ve yazılımlarını 'ticari sır' olarak sakladılar. Aynı şekilde, bu girişimler için en kritik başarı kriteri müşteriyi yakalamak ve onu bırakmamak olduğu için, müşterilerin kendilerini rahat hissedeceği tüm ürünleri bir ekosistem halinde geliştirip, onları tamamen kapalı bir dünyanın içine hapsetmeye çalıştılar. 
 
 ***Kullanıcı dostu:*** Internetin geniş kesimlere yayılmasının temel nedeni kullanıcı kolaylığı oldu. Web 2.0 uygulamalarının kullanıcı kolaylığı yaratılması sürecine yaptığı katkılar yadsınamaz. 
 
-***Merkezi yapılar*** Internetin getirdiği büyük ticari potansiyel, bu alanda ortaya çıkan şirketlerin çok ciddi bir şekilde büyümesini sağladı. Ancak bu büyümenin aynı zamanda sektörde öne çıkan şirketlere fayda sağladığını söylememiz gerek. Zira altına hücum anlamında çok kullanıcıya ulaştığınızda, ağ etkisi gereği daha fazla kullanıcı size gelmeye başlıyor. Bu sayede giderek daha çok büyüyor ve hisse senetlerinin değeri artıyor ve daha fazla araştırma-geliştirme yapmak için gerekli para ve insan gücünü kolaylıkla biriktirebiliyorlar. 
+***Merkezi yapılar:*** Internetin getirdiği büyük ticari potansiyel, bu alanda ortaya çıkan şirketlerin çok ciddi bir şekilde büyümesini sağladı. Ancak bu büyümenin aynı zamanda sektörde öne çıkan şirketlere fayda sağladığını söylememiz gerek. Zira altına hücum anlamında çok kullanıcıya ulaştığınızda, ağ etkisi gereği daha fazla kullanıcı size gelmeye başlıyor. Bu sayede giderek daha çok büyüyor ve hisse senetlerinin değeri artıyor ve daha fazla araştırma-geliştirme yapmak için gerekli para ve insan gücünü kolaylıkla biriktirebiliyorlar. 
 
-2010 yılı ile 2021 yıllarında dünyanın en değerli on şirketinin karşılaştırması bu alandaki değişim net bir şekilde ortaya koyuyor: 
+2010 yılı ile 2021 yıllarında dünyanın en değerli on şirketinin karşılaştırması bu alandaki değişimi net bir şekilde ortaya koyuyor: 
+
+![top10_2010_vs_2021](/assets/top10_2010vs2021_v2_800.png)
 
 Gücün konsantre halde belli merkezlerde toplanması kendi başına belli sorunları getirdi ki, bu bir sonraki yazımızın konusu. 
 
