@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Web3'ün Tarihçesi II - Web 2.0"
+date:   2022-01-15 08:47:56 +0300
+categories: Genel
+tags: Yazılar, DeFi, DeFi'ye Giriş
+---
+
 Web 3'e bakmaya başladığımız bu yazı dizimizin bu bölümünde Web 2.0 dediğimiz, internetin ikinci evresine bakıyor olacağız. 
 
 ### Bir önceki bölümden özet
@@ -52,3 +60,12 @@ Gücün konsantre halde belli merkezlerde toplanması kendi başına belli sorun
 
 ### Sonuç
 Web 1.0'in araştırma kökenli yapısı ile temellerini kazdığı internet, Web 2.0'in ticari kaygılara dayalı kullanıcı dostu uygulamaları ile birlikte geniş kesimlere yayıldı. Yaklaşık on yıl süren bu hızlı gelişmenin sonrasında ortaya çıkan belli kaygılar, Web 3.0 hareketinin doğuşuna sebep oldu. Bunlara da bir sonraki yazımızda değineceğiz. 
+
+
+---
+
+*Not 1: Bu yazı ilk olarak 15 Ocak 2021'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı])*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.* 
