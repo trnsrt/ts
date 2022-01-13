@@ -6,7 +6,7 @@ categories: Genel
 tags: Yazılar, DeFi, DeFi'ye Giriş
 ---
 
-Web 3'e bakmaya başladığımız bu yazı dizimizin bu bölümünde Web 2.0 dediğimiz, internetin ikinci evresine bakıyor olacağız. 
+Web 3'e bakmaya başladığımız  yazı dizimizin bu bölümünde Web 2.0 dediğimiz, internetin ikinci evresine bakıyor olacağız. 
 
 ### Bir önceki bölümden özet
 İnternetin ilk başladığı zamanlara adını veren Web 1.0, üniversitedeki araştırmacıların ABD hükümetinden aldıkları destek ile geliştirdikleri altyapı protokolleri ve üzerine kurulan basit uygulamaların oluşturulduğu dönem olarak tarih sayfalarına yazıldı. 
