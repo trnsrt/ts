@@ -33,7 +33,7 @@ Pazar yeri uygulamalarında büyümenin önündeki en büyük engel ilk aşamada
 
 Bir diğer konu da aldıkları yatırımlar. Mart 2021 yılında ilk girişim sermayesi yatırımını (seri A), 23 milyon ABD Doları ile alan OpenSea, bundan üç ay sonra ikinci raunt yatırım turunda 1.5 milyar ABD Doları bir değerleme ile 100 milyon ABD Doları topladı. Bitti mi? Hayır. 2022 yılının Ocak ayının başında ise tam 13.5 milyar ABD Doları değer üzerinden 300 milyon ABD Doları yatırım daha aldılar! Yani 6 ay gibi bir sürede değerlerini 9 kat artırmış oldular. Peki yatırımcıları? Silikon Vadisi ve kripto dünyasının A-listesi adeta: a16z'den Pantera'ya önemli girişim sermayesi fonlardan tutun, melek yatırımcı olarak erken dönem yatırım yapan Naval Ravikant, Mark Cuban, Tim Ferris, Balaji Srinivasan, Alexis Ohanian, Kevin Durant, Ashton Kutcher gibi teknoloji, eğlence ve spor dünyasının önde gelen isimleri girişimin arkasında.  
 
-###Her şey güllük gülistanlık mı?
+### Her şey güllük gülistanlık mı?
 Değil tabii. Teknoloji dünyasındayız. Nasıl böyle bir beklentiniz olabilir? :) Tabii ki OpenSea'nin de sıkıntıları var. 
 
 En büyük sorunları aslında başarılarından kaynaklanıyor. Zira, yaşadıkları korkunç büyüme, bu tür her tür Silikon Vadisi girişiminin yaşadığına benzer. Sunucuların yoğun talebe yetişememesi sonucu durmalar kısa vadede en ciddi sorunlarından bir tanesi. Aslına bakarsanız bu, sorunlar içinde çözümü en basit olanı. OpenSea, girişim sermayelerinden aldığı ciddi yatırım sonucu hem gerekli altyapıyı sağlayacak hem de ekibini büyütmeye yetecek cephaneyi deposuna yüklemiş durumda. Bu konuları çabuk aşacaklardır. 
