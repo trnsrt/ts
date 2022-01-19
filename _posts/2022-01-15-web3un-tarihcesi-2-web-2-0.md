@@ -64,7 +64,7 @@ Web 1.0'in araştırma kökenli yapısı ile temellerini kazdığı internet, We
 
 ---
 
-*Not 1: Bu yazı ilk olarak 15 Ocak 2022'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı]()*
+*Not 1: Bu yazı ilk olarak 15 Ocak 2022'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı](https://medium.com/blockchainist-center/web3%C3%BCn-tarih%C3%A7esi-ii-web-2-0-4f6e67f1683f)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
