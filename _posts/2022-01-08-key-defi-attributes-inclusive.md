@@ -37,7 +37,7 @@ Such accessibility enables DeFi to serve to an untapped market of 1.7 billion un
 We will continue our series with another attribute in our next post, this time 'open source'.
 
 ---
-*This piece is [first published]() in [BlockchainIST Center](https://medium.com/blockchainist-center) on January 8th, 2022.*
+*This piece is [first published](https://medium.com/bcistcenter/key-defi-attributes-inclusive-9d2711b70840) in [BlockchainIST Center](https://medium.com/blockchainist-center) on January 8th, 2022.*
 
 *None of the views expressed in this article should be considered as investment advice*
 
