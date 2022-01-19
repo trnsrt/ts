@@ -6,7 +6,7 @@ categories: Genel
 tags: videos Etkinlikler
 ---
 
-<img align="left" src="/assets/bloomberHT-focus-poster.jpg" style="width:40%; padding-right:20px"> BloombergHT Fokus programında, [Güzem Yılmaz Ertem](https://twitter.com/guzemyilmaz)'in konuğu olarak Metaverse dünyasından gelişmeleri, bu evrenin ne yöne doğru yol aldığını, bunun finans piyasalarına etkisini konuştuk.  
+<img align="left" src="/assets/bloombergHT_fokus_poster.jpg" style="width:40%; padding-right:20px"> BloombergHT Fokus programında, [Güzem Yılmaz Ertem](https://twitter.com/guzemyilmaz)'in konuğu olarak Metaverse dünyasından gelişmeleri, bu evrenin ne yöne doğru yol aldığını, bunun finans piyasalarına etkisini konuştuk.  
 &nbsp;
 
 <table><tr><td style="width:50%">
