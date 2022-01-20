@@ -1,4 +1,4 @@
-Bu yazımızda NFT dünyasının dominant pazar yeri olan OpenSea'ye bakacağız. 
+Bu yazımızda NFT dünyasının alım-satım işlemlerinin gerçekleştiriğildiği dominant pazar yeri OpenSea'ye açılacağız. 
 
 Web3 olarak adlandırdığımız teknolojiler, 2020 yılının ortasından itibaren yükselişe geçen DeFi protokolleri ile hayatımıza girdiler. Bunu 2021 yılı içinde NFT dünyasında yaşanan patlama izledi. Karmaşık yapısı nedeniyle, finans ve teknoloji alandaki ileri kullanıcılara hitap eden DeFi'nin aksine NFT'ler, günlük kullanıcıya da hitap ederek ciddi bir başarı yakaladılar. 
 
