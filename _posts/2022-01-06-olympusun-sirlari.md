@@ -107,6 +107,7 @@ Temel olarak bir kullanıcının alabileceği üç temel aksiyon var.
 
 Olympus oyun teorisi 'staking' yani kilitlemenin fiyata etkisini 3, 'bonding' yani tahvil alımını 1, OHM hissesini ya da bond'u satmanın fiyata etkisini ise -1 olarak adlandırıyor (rakamlara takılmayın, hareketin yönünü gösterdiğini düşünün). Eğer herkes stake eder, yani sisteme inanırsa, herkes kazanıyor. Eğer bir kısım inanır ve stake eder diğer kısım tam olarak emin olamaz ve bono satın alırsa o zaman stake edenler 3, tahvil sahipleri 1 kazanıyor. Eğer inanç kaybolursa, o zaman herkes kaybediyor. Olympus, bu teori gereği sisteme girenlerin inanıp uzun vadeli sistemde kalmaları durumunda kazanacaklarını, ama tüm katılımcıların inancını yitirip satışa geçmeleri durumunda sistemin çökebileceğini (ama bunun ihtimalinin düşük olduğunu) düşünüyor.
 
+---
 
 *Not 1: Bu yazı ilk olarak 6 Ocak 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/olympusun-sirlari/)*
 
