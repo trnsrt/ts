@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "OpenSea - Açık denizlere yol almak"
+date:   2022-01-21 17:47:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
 Bu yazımızda NFT alım-satımının neredeyse tek adresi olan OpenSea'ye açılacağız. 
 
 Web3 olarak adlandırdığımız teknolojiler, 2020 yılının ortasından itibaren yükselişe geçen DeFi protokolleri ile hayatımıza girdiler. Bunu 2021 yılı içinde NFT dünyasında yaşanan patlama izledi. Karmaşık yapısı nedeniyle, finans ve teknoloji alanındaki ileri kullanıcılara hitap eden DeFi'nin aksine NFT'ler, günlük kullanıcıya da hitap ederek ciddi bir başarı yakaladılar. 
@@ -61,3 +69,11 @@ Gelecekte NFT alanının hangi şekilde büyüyeceği OpenSea'nin gelişimini de
 
 ### Sonuç 
 NFT alanında en başarılı hikayelerden birini yazan OpenSea önümüzdeki dönem için ciddi bir yol ayrımında. Aldıkları yatırımların yardımıyla ekiplerini büyütme yoluna gidecekler. Sonrasındaki adımları Web3 dünyasına hizmet veren Web 2.0 şirketi olarak kalmak mı yoksa merkeziyetsizlik yolunda ilerleyerek bir DAO'ya dönüşmek mi olacak bunu yaşayarak göreceğiz. 
+
+---
+
+*Not 1: Bu yazı ilk olarak 21 Ocak 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/opensea-acik-denizlere-yol-almak/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
