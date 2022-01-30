@@ -47,6 +47,6 @@ Not necessarily. DeFi protocols are merely software (as we stated many times in 
 One of the good things about software codes is, they do what they are told to do so. In order to make sure that the software will do what the users want them to do, we need to make sure that the code is written accordingly. Only through open-source code which is published on the internet (almost all on GitHub) auditors would review and confirm it works properly and that exact code is used in smart contracts. 
 
 ---
-*This piece is [first published]() in [BlockchainIST Center](https://medium.com/blockchainist-center) on January 22th, 2022.*
+*This piece is [first published](https://medium.com/bcistcenter/key-defi-attributes-open-source-14860ec0b938) in [BlockchainIST Center](https://medium.com/blockchainist-center) on January 22th, 2022.*
 
 *None of the views expressed in this article should be considered as investment advice*
