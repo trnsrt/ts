@@ -96,7 +96,7 @@ Blokzincirin şeffaflığını kullanan ve olabildiğince objektif hazırlanmaya
 
 ---
 
-*Not 1: Bu yazı ilk olarak 30 Ocak 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı]()*
+*Not 1: Bu yazı ilk olarak 31 Ocak 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/blokzincirin-gelecegi-gelistiricilerin-elinde/)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
