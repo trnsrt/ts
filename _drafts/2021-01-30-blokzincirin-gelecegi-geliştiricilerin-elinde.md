@@ -16,7 +16,7 @@ En sık karşılaşılan sorulardan biridir: Hangi blokzincir daha büyük, hang
 
 "İyi ama işlemler blokzincire yazılıyordu, bilgi zaten şeffaf değil miydi?" Haklısınız. Yine de blokzincire yazılan verilerin bile manipüle edilmesi riski var. İşlem hacimlerinde "wash trading" dediğimiz hacim artırma klasik borsalarda sık yaşanan bir olay, blokzincir üzerinde de pekala yapılabilir. 
 
-Öte yandan ne kadar iyi niyetli olursanız olun ya da elinizde blokzincirin yarattığı milyonlarca data olsun, objektif kriterler ya da standardize olmuş parametreler yok ortada. Hangi kriteri kullandığınıza göre değerlendirmeler çok değişiyor. Bakılabilecek kriterler neler olabilir?
+Öte yandan ne kadar iyi niyetli olursanız olun ya da elinizde blokzincirin yarattığı milyonlarca data olsun, objektif kriterler ya da belli bir standarda oturmuş parametreler yok ortada. Hangi kriteri kullandığınıza göre değerlendirmeler çok değişiyor. Bakılabilecek kriterler neler olabilir?
 
 - Piyasa değerleri (ingilizcede Market Cap kısaca mCap - piyasada dolaşımda olan ya da toplam token adedi üzerinden)
 - Sisteme kilitlenmiş değer (ingilizcede 'Total Value Locked' kısaca TVL)
@@ -32,7 +32,7 @@ Yukarıdaki parametrelerin her biri farklı insanlar tarafından farklı şekill
 ### Neden önemli bu rapor?
 2019 yılından beri toplanan veriler üzerinden yayınlanan [geliştirici raporu](https://medium.com/electric-capital/electric-capital-developer-report-2021-f37874efea6d) ([pdf](https://github.com/electric-capital/developer-reports/blob/master/dev_report_2021_updated_012622.pdf)) blokzincirler üzerinde çalışan geliştirici sayısının yıldan yıla değişimini gözlemeye çalışıyor. 
 
-Geliştirici sayısı bir blokzincir ekosisteminin nereye doğru evrilmekte olduğunu göstermesi açısından önemli. Eğer bir blokzincir üzerinden ne kadar çok geliştirici çalışıyor ise, doğal olarak beklenti o zincirin teknolojik olarak yenilik yapma ya da ürün çıkarma potansiyelinin o kadar yüksek olduğunu gösteriyor. Sadece farklı zincirleri karşılaştırmak için kullanılmıyor bu rapor.  Bir blokzincir üzerinde bir yıl içinde oluşan gelişimci sayısındaki değişimi dolayısıyla o blokzincire olan ilginin ne şekilde geliştiğini anlatması açısından da faydalı.
+Geliştirici sayısı bir blokzincir ekosisteminin nereye doğru evrilmekte olduğunu göstermesi açısından önemli. Bir blokzincir üzerinde ne kadar çok geliştirici çalışıyor ise, beklenti o zincirin teknolojik olarak yenilik yapma ya da ürün çıkarma potansiyelinin o kadar yüksek olması yönünde oluyor. Sadece farklı zincirleri karşılaştırmak için kullanılmıyor bu rapor.  Bir blokzincir üzerinde bir yıl içinde oluşan gelişimci sayısındaki değişimi dolayısıyla o blokzincire olan ilginin ne şekilde geliştiğini anlatması açısından da faydalı.
 
 | ![dandelion](/assets/dandelion-g3a7c93841_800.jpg)|
 |:--:| 
@@ -61,7 +61,7 @@ Peki Web3 ne kadar büyük? Gelin bir de büyük resime bakalım:
 
 Gördüğünüz gibi Web3 henüz emekleme aşamasında. Bunu 'henüz çok küçük, dikkate almaya değmez' ya da 'burada büyük potansiyel var' olarak iki farklı şekilde okuyabilirsiniz, size kalmış.
 
-İyi ama Web3 için çalışan bu geliştirici sayısını nasıl bulunuyor? Yukarıda bahsettiğimiz 500 binin üzerindeki GitHub kaynağına (repository) ekleme/güncelleme yapan geliştiriciler toplanarak (tüm detaya [şu link](https://electric-capital.github.io/)ten ulaşabilirsiniz). 
+İyi ama Web3 için çalışan bu geliştirici sayısı nasıl bulunuyor? Yukarıda bahsettiğimiz 500 binin üzerindeki GitHub kaynağına (repository) ekleme/güncelleme yapan geliştiriciler toplanarak (tüm detaya [şu link](https://electric-capital.github.io/)ten ulaşabilirsiniz). 
 
 Peki tek tek blokzincirleri incelediğimizde durum ne? Ekosisteme bir bütün olarak baktığımızda karşımıza aşağıdaki gibi bir tablo çıkıyor: 
 
@@ -71,7 +71,7 @@ Peki tek tek blokzincirleri incelediğimizde durum ne? Ekosisteme bir bütün ol
 
 Öncelikle grafiği nasıl okuyacağımıza kısaca değinelim: Yatay eksen 2020 yılı sonunda her bir blokzincir üzerinde çalışan toplam geliştirici sayısını gösteriyor. Dikey eksen ise aynı blokzincirin 2021 yılı sonundaki geliştirici sayısını. Grafiği ortadan çapraz bölen kırık çizgiye dikkatinizi çekerim. Bu çizginin üst tarafında bulunan blokzincirler bir yıl içinde geliştirici sayısını artırmış, altında kalanların ise geliştirici sayısı azalmış, çizginin üstü ise sabit kalmış.  Bir nokta daha; eğer bir blokzincir ne kadar dikey eksene yakın ise, bir yıl öncesine göre geliştirici sayısı o kadar fazla artmış anlamına geliyor. 
 
-Gördüğünüz gibi, ekosistem olarak geliştirici sayısı en büyük 'mahşerin beş atlısı' Ethereum, Polkadot, Cosmos, Solana ve Bitcoin olarak sıralanıyor.  Burada en yüksek ivmeyi yaklaşık dört kat artış gösteren Solana'da görüyoruz. Bunun temel nedeni Solana'nın yıl içinde üzerine kurulu olan girişimlere verdiği teşvikler olabilir. Bitcoin geliştirici sayısı ise aynı sayıda kalmış. Bu da beklenen bir durum zira, Bitcoin kendisini teknolojik olarak gelişen bir platform olarak değil güvenilir bir para olarak tanımlıyor. Bu da geliştirmelerin ağır ve emin adımlarla yapılmasına neden oluyor. Bitcoin üzerine yeni sistemler kurmak benzer şekilde oldukça güç, bu da blokzincir dünyasına yeni giren girişimcilerin Bitcoin sistemi yerine diğer sistemlere yönelmesine yol açıyor. 
+Gördüğünüz gibi, ekosistem olarak geliştirici sayısı en büyük 'mahşerin beş atlısı' Ethereum, Polkadot, Cosmos, Solana ve Bitcoin olarak sıralanıyor.  Burada en yüksek ivmeyi yaklaşık dört kat artış gösteren Solana'da görüyoruz. Bunun temel nedeni Solana'nın yıl içinde üzerine kurulu olan girişimlere verdiği teşvikler olabilir. Bitcoin geliştirici sayısı ise aynı kalmış. Bu da beklenen bir durum zira, Bitcoin kendisini teknolojik olarak gelişen bir platform olarak değil güvenilir bir para olarak tanımlıyor. Bu da geliştirmelerin ağır ve emin adımlarla yapılmasına neden oluyor. Bitcoin üzerine yeni sistemler kurmak benzer şekilde oldukça güç, bu da blokzincir dünyasına yeni giren girişimcilerin Bitcoin sistemi yerine diğer sistemlere yönelmesine yol açıyor. 
 
 Tabii grafikteki asıl 'fil' Ethereum. Neredeyse kendinden sonra gelen dört sistemin toplamı kadar geliştiriciye sahip. Üstelik 2021 yılı içinde bile yaklaşık %20 artış göstermiş geliştirici sayısı. Tabii Ethereum diğer blokzincirlere bu kadar fark atınca, grafikteki daha küçük oyuncuları görmek oldukça zor oluyor. Gelin sol alt taraftaki kalabalık gruba zoom yapalım şimdi de: 
 
@@ -79,9 +79,9 @@ Tabii grafikteki asıl 'fil' Ethereum. Neredeyse kendinden sonra gelen dört sis
 |:--:| 
 | *Blokzincir ekosistemi. Ethereum ve Polkadot dışındaki büyük platformlar. Kaynak [Electric Capital Developer Report](https://www.theblockcrypto.com/data/nft-non-fungible-tokens/marketplaces) - Sayfa 67*|
 
-300'den daha fazla geliştiriciye sahip blokzincirleri gösteren bu grafiğe baktığımızda ise, yukarıda bahsettiğimiz beş büyüğün yanına Near, Cardano, Binance Smart Chain, Kusama'nın eklendiğini görüyoruz. Polygon, bir Ethereum yan zinciri olarak geçtiğimiz yıl içinde hem işlem hacmi ve kilitli değer hem de yaptığı satın almalar ile ön plana çıkıyor Binance Smart Chain de Binance ekosistemi ve maddi gücünü arkasına alarak verdiği teşviklerin karşılığını almış görünüyor. Cardano, Near ve Kusama (ki Polkadot'un testneti olur kendisi) henüz çok aktif olmamalarına rağmen ciddi sayıda geliştiriciye sahip olmaları önümüzdeki dönemde buradan çıkacak olan uygulamaların adlarını daha sık duyacağımız anlamına gelebilir (ya da bir ihtimal geliştiriciler Godot'yu bekler gibi bekledikleri Cardano'dan umudu kesip başka zincirlere yönelebilirler). 
+300'den daha fazla geliştiriciye sahip blokzincirleri gösteren bu grafiğe baktığımızda ise, yukarıda bahsettiğimiz beş büyüğün yanına Near, Cardano, Binance Smart Chain, Kusama'nın eklendiğini görüyoruz. Polygon, bir Ethereum yan zinciri olarak geçtiğimiz yıl içinde hem işlem hacmi ve kilitli değer hem de yaptığı satın almalar ile ön plana çıkıyor. Binance Smart Chain de Binance ekosistemi ve maddi gücünü arkasına alarak verdiği teşviklerin karşılığını almış görünüyor. Cardano, Near ve Kusama (ki Polkadot'un testneti olur kendisi) henüz çok aktif olmamalarına rağmen ciddi sayıda geliştiriciye sahip olmaları önümüzdeki dönemde buradan çıkacak olan uygulamaların adlarını daha sık duyacağımız anlamına gelebilir (ya da bir ihtimal geliştiriciler Godot'yu bekler gibi bekledikleri Cardano'dan umudu kesip başka zincirlere yönelebilirler). 
 
-Son olarak sol alttaki buluta son bir zoom daha yapıp yazımızı sonlandıralım: 
+Sol alttaki buluta bir zoom daha yapıp yazımızı sonlandıralım: 
 
 | ![50_300_arasi_blokzincirler](/assets/smart_platform_M_devs_v2_sayfa_72.jpg)|
 |:--:| 
