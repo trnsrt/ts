@@ -25,6 +25,10 @@ Web 2.0 ile başarılı olan şirketlerin genelde girişim sermayesi ile fonland
 
 Bu işin şakası tabii. Girişim sermayesinin getiri beklentisini karşılayabilmek için girişimlerin hızlı büyüme ile birlikte oluşan katma değeri realize etmesinin iki yolu vardı. Bunlardan birincisi, şirketi halka açmak, ikincisi ise daha büyük bir devin kendilerini yutmasına izin vermek. Sonuç olarak ya hızlı bir şekilde müşteri kazanarak halka açık hale gelebilecek büyüklüğe ulaşacak ya da başka bir deve yem olacaksınız. İşte bu sürecin getirdiği en önemli gelişim, gücün belli büyük şirketlerde toplanması oldu. 
 
+| ![cage](/assets/locked-g955295872_800.jpg)|
+|:--:| 
+| *Image by [kalhh](https://pixabay.com/users/kalhh-86169/) from [Pixabay](https://pixabay.com/)*|
+
 Gücün toplandığı bu şirketler ağırlıklı olarak halka açıldılar. Bu sayede girişim sermayesinin hızlı getiri beklentisinden bir nevi korunsalar da, önlerine yeni bir grup çıktı: Wall Street. Halka açık şirketlere yatırım yapan fonların da beklentisi hisse değerinin büyümesi idi. Bu fonların beklentisi girişim sermayesinden bir parça farklı idi. Onlar, şirketin kar ya da büyüme getirmesini, ve yarattığı hikayeye devam etmesini istiyorlardı. Yatırım demek 'beklenti' demek. Bu beklentiyi sürekli karşılamanız gerekir -aksi halde fonlar, ellerinde tuttukları yönetim kurulu üyeliklerini kullanarak şirket üst yönetimini değiştirir ve 'hikaye yaratacak' yeni kişileri işin başına getirebilirler.  
 
 İşte halka açılan teknoloji şirketleri, her üç ayda bir 'earnings call' denilen toplantılar ile karşılarına çıktıkları yatırım fonlarına yeni bir hikaye yaratma telaşına düştüler.  Müşteri büyümesi bir noktaya kadar sizi götürüyor ancak özellikle Facebook, Google gibi tüm kamuoyunun bildiği ve kullandığı dev kurumlarda artık yeni müşteri bulmak imkansız hale geliyor (Facebook'un global olarak 2.5 milyar kullanıcısı olduğunu belirtelim). Dolayısıyla, 'yeni müşteri bulma' hikayesi artık tutmaz oldu.
