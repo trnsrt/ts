@@ -27,8 +27,7 @@ google_analytics: UA-168563834-1
 logo: "/ts-bg-dark-v2_bant_v5.jpg"
 header_pages:
   - blockchain.md
-  - defi-giris.md
-  - defi-ileri-seviye.md
+  - defi.md
   - kitaplar.md
   - Etkinlikler.md
   - about.md
