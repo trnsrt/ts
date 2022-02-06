@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blockchain Yazıları
+title: "Blockchain Yazıları"
 permalink: /blockchain/
 ---
 
