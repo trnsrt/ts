@@ -8,9 +8,9 @@ permalink: /blockchain/
 Blockchain sözünü işitiyor ancak ne işe yaradığını çok da bilmiyorsanız, aşağıdaki yazılar size yardımcı olabilir: 
 
 - Blockchain teknolojisinin nasıl çıktığını merak ediyorsanız
-  - [Geceleri uykunuzu ne kaçırıyor](/genel/2018/03/01/Geceleri-uykunuzu-ne-kaciriyor.html) (1 Mart 2018)
-  - [Sahi nedir bu Blockchain Allah aşkına?](/genel/2018/03/02/Sahi-nedir-bu-blockchain-allah-askina.html) (2 Mart 2018)
-  - [Blokzincirin çıkış felsefesi ne?](/genel/2020/06/04/blokzincirin-felsefesi-ne.html) (4 Haziran 2020)
+  - [Geceleri uykunuzu ne kaçırıyor](/genel/2018/03/01/Geceleri-uykunuzu-ne-kaciriyor.html) *(1 Mart 2018)*
+  - [Sahi nedir bu Blockchain Allah aşkına?](/genel/2018/03/02/Sahi-nedir-bu-blockchain-allah-askina.html) *(2 Mart 2018)*
+  - [Blokzincirin çıkış felsefesi ne?](/genel/2020/06/04/blokzincirin-felsefesi-ne.html) *(4 Haziran 2020)*
 - Blockchain'in değişik alanlarda getirdiği potansiyel yenilikler için
   - [İyilik için Blockchain](/genel/2018/03/29/Iyilik-icin-blockchain.html) (29 Mart 2018)
   - [Sanat için Blockchain](/genel/2018/03/29/Iyilik-icin-blockchain.html) (29 Mart 2018)
@@ -42,7 +42,7 @@ Blockchain sözünü işitiyor ancak ne işe yaradığını çok da bilmiyorsan�
 - Bitcoin'in geleceğini merak ediyorsanız 
   - [Ne olacak şu Bitcoin'in hali?](/genel/2018/12/07/ne-olacak-su-bitcoinin-hali.html) (7 aralık 2018)
   - [Bitcoin geniş kitlelere nasıl yayılır?](/genel/2018/12/14/Bitcoin-genis-kitlelere-nasil-yayilir.html) (14 Aralık 2018)
-  - [Bitcoin dünyasının yeni halkası](/genel/2020/11/24/bitcoin-dunyasinin-yeni-halkasi.html) )24 Kasım 2020)
+  - [Bitcoin dünyasının yeni halkası](/genel/2020/11/24/bitcoin-dunyasinin-yeni-halkasi.html) (24 Kasım 2020)
   - [Bitcoin'e yönelik eleştirilere yanıtlar](/genel/2020/12/01/bitcoine-yonelik-elestirilere-yanitlar.html) (1 Aralık 2020)
 - Bitcoin üzerine inşa edilen yeni teknolojilere ilginiz varsa 
   - [Bitcoin üzerinden ışık hızıyla işlem: Lightning Network](/genel/2018/12/20/bitcoin-uzerinde-isik-hiziyla-islem-Lightning-network.html) (20 Aralık 2018)
