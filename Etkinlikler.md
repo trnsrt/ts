@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Etkinlikler"
+title: "Yayınlar"
 permalink: /Etkinlikler/
 tag: Etkinlikler
 ---
