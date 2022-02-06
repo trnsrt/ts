@@ -4,9 +4,11 @@ title: Kitaplar
 permalink: /Kitaplar/
 ---
 
-Ekosisteme katkı sağlamak amacıyla yayınlanan iki kitabım bulunmakta. Bunlardan ilki Blockchain Türkiye aracılığıyla 2019 yılında yayınlanan "[Sorularla Blockchain](http://bit.ly/Sorularla_Blockchain)". Kitabı pdf versiyonunu ücretsiz olarak [buradan](http://bit.ly/Sorularla_Blockchain) indirebilirsiniz.  
+Ekosisteme katkı sağlamak amacıyla yayınlanan iki kitabım bulunmakta. 
 
-<a href="http://bit.ly/Sorularla_Blockchain"> <img alt="Kitabı indirmek için tıklayin" src="/assets/Sorularla_Blockchain_Turan_Sert_kapak-2.jpg" width="30%"></a>
+Bunlardan ilki Blockchain Türkiye aracılığıyla 2019 yılında yayınlanan "[Sorularla Blockchain](http://bit.ly/Sorularla_Blockchain)". Kitabı pdf versiyonunu ücretsiz olarak [buradan](http://bit.ly/Sorularla_Blockchain) indirebilirsiniz.  
+
+İkinci kitap ise 2022 yılının başında yayınlanan "[Sorularla DeFi - Merkeziyetsiz Finans](https://indd.adobe.com/view/5b99bb77-877f-47f7-a881-33ef427205b6)". Kitabın pdf versiyonunu ücretsiz olarak [buradan](https://indd.adobe.com/view/5b99bb77-877f-47f7-a881-33ef427205b6) indirebilirsiniz. 
 
 &nbsp;
 
@@ -20,7 +22,7 @@ Ekosisteme katkı sağlamak amacıyla yayınlanan iki kitabım bulunmakta. Bunla
 
 </p></td>
 <td style="width:50%; vertical-align:top">
-<p>Sorularla DeFi - Yayın Yılı 2022 </p>
+<p>Sorularla DeFi - Merkeziyetsiz Finans. Yayın Yılı 2022 <a href="https://indd.adobe.com/view/5b99bb77-877f-47f7-a881-33ef427205b6</a> </p>
 </td></tr> 
 </table>
 
