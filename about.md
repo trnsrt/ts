@@ -4,22 +4,13 @@ title: Hakkında
 permalink: /about/
 ---
 
-Boğaziçi Üniversitesi İşletme (BA, 1995) ve Harvard Business School (MBA, 2001) mezunu olan Turan Sert, finans ve teknoloji ağırlıklı kariyerine Arthur Andersen'da denetim ve Garanti Bankası'nda yatırım bankacılığı ile başladı.
+2017 yılından bu yana Web3 olarak adlandırılan blokzincir temelli merkeziyetsiz teknolojiler konusunda araştırmalar yapan Turan Sert, yaptığı çalışmaları düzenli olarak farklı mecralarda paylaşıyor. Bu alandaki temel kavramları bir araya getirdiği “Sorularla Blockchain” isimli ilk kitabının ardından, şimdi de bu teknolojinin finans alanındaki uygulamalarını konu alan “Sorularla DeFi - Merkeziyetsiz Finans” kitabı ile ekosisteme verdiği katkıyı sürdürmeyi amaçlıyor.
 
-Booz Allen New York ofisinde üç yıl süren yönetim danışmanlığı sonrası 2005 yılında Türkiye'ye döndü. Çeşitli Fiba Grubu iştiraklerinde murahhas azalık ya da yönetim kurulu üyelikleri ve 2014-16 yılları arasında Özyeğin Üniversitesi’nde CBO'luk görevinde bulundu.
+Klasik finans ve teknoloji ağırlıklı kariyerine Arthur Andersen’da denetim ve Garanti Bankası’nda yatırım bankacılığı ile başlayan Turan Sert, Booz Allen New York ofisinde üç yıl süren yönetim danışmanlığı sonrası 2005 yılında Türkiye’ye döndü. Çeşitli Fiba Grubu iştiraklerinde murahhas azalık ya da yönetim kurulu üyelikleri ve 2014-16 yılları arasında Özyeğin Üniversitesi’nde CBO’luk görevinde bulundu. Halen blokzincir teknolojileri alanında Paribu ve BlockchainIST Center’a danışmanlık vermekte.
 
-Önce kuruluşundan itibaren içinde yer aldığı Girişim Fabrikası, sonrasında da 2016 yılında kurduğu teknoloji girişimi ile Türkiye'deki ekosistemin büyümesine katkı sağladı. 
-
-Blockchain Türkiye aracılığıyla 2019 yılında yayınlanan "[Sorularla Blockchain](http://bit.ly/Sorularla_Blockchain)" isimli bir kitabı da bulunmakta. Kitabı pdf versiyonunu ücretsiz olarak [buradan](http://bit.ly/Sorularla_Blockchain) indirebilirsiniz.  
-
-<a href="http://bit.ly/Sorularla_Blockchain"> <img alt="Kitabı indirmek için tıklayin" src="/assets/Sorularla_Blockchain_Turan_Sert_kapak-2.jpg" width="30%"></a>
-
+Yüksek öğrenimini Boğaziçi Üniversitesi İşletme (BA, 1995) ve Harvard Business School (MBA, 2001)’da tamamladı.
 
 ---
-
-&nbsp;
-
-&nbsp;
 
 Yukarı kısım kısa özet isteyenler için. Daha detaylı hayat hikayemi duymak isterseniz aşağıda bir kopyası olan Coinbilgi'deki [yazıya göz atabilirsiniz](https://www.coinbilgi.net/turan-sert-kimdir/). 
 
