@@ -3,9 +3,11 @@ layout: page
 title: en
 permalink: /English/
 ---
-Hi! This is my personal blog. 
+Musings on Web3 technologies. 
 
-You can find all my articles as well as talks on various media, all in one place. Unfortunately all my writings are in Turkish. Why? I write mainly about Blockchain and DeFi, and there is a lack of easy-to-read articles in Turkish. 
+All my posts on blockchain and defi as well as talks on various media. Most (almost all) posts in Turkish
+
+You can find all my articles as well as talks on various media, all in one place. Unfortunately all my writings are in Turkish. Why? Lack of comprehensive resources in the market. 
 
 See my bio from my [LinkedIn profile](https://www.linkedin.com/in/turansert/). If you are interested to learn more let's connect [there]((https://www.linkedin.com/in/turansert/)) or follow me on [Twitter](https://twitter.com/turansert).
 
