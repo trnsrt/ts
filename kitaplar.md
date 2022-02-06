@@ -6,7 +6,7 @@ permalink: /Kitaplar/
 
 Ekosisteme katkı sağlamak amacıyla yayınlanan iki kitabım bulunmakta. 
 
-Bunlardan ilki Blockchain Türkiye aracılığıyla 2019 yılında yayınlanan "[Sorularla Blockchain](http://bit.ly/Sorularla_Blockchain)". Kitabı pdf versiyonunu ücretsiz olarak [buradan](http://bit.ly/Sorularla_Blockchain) indirebilirsiniz.  
+Bunlardan ilki Blockchain Türkiye aracılığıyla 2019 yılında yayınlanan "[Sorularla Blockchain](http://bit.ly/Sorularla_Blockchain)". Kitabın pdf versiyonunu ücretsiz olarak [buradan](http://bit.ly/Sorularla_Blockchain) indirebilirsiniz.  
 
 İkinci kitap ise 2022 yılının başında yayınlanan "[Sorularla DeFi - Merkeziyetsiz Finans](https://indd.adobe.com/view/5b99bb77-877f-47f7-a881-33ef427205b6)". Kitabın pdf versiyonunu ücretsiz olarak [buradan](https://indd.adobe.com/view/5b99bb77-877f-47f7-a881-33ef427205b6) indirebilirsiniz. 
 
