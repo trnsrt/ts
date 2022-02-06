@@ -60,7 +60,7 @@ Blockchain sözünü işitiyor ancak ne işe yaradığını çok da bilmiyorsan�
   - 2020 ve 2021 yıllarında ETH'nin değerini nelerin etkileyecebileceğini görmek için [Gelecekte ETH'nin değerini neler etkileyecek?](/genel/2020/08/06/gelecekte-eth-nin-degerini-neler-etkileyecek.html) *(6 Ağustos 2020)*
   - Ethereum'un para arzının nasıl işlediğini ve gelecekte nasıl gelişeceğini görmek için [Ethereum'un Para Politikası](/genel/2020/12/08/Ethereumun-para-politikası.html) *(8 Aralık 2020)*
   - Ethereum topluluğunun 2021 yılında neler ile uğraşacağına bakmak için - [Ethereum'u 2021'de neler bekliyor?](/genel/2020/12/15/Ethereumu-2021-yilinda-neler-bekliyor.html] *(15 Aralık 2020)*
-  - Ethereum'da DeFi patlamasıyla birlikte yaşanan pahalılığı ve nasıl giderilebileceğini anlamak için - [Ethereum'un yüksek iş]em ücretleri](/genel/2020/12/21/ETHnin-yuksek-islem-ucretleri.html) *(21 Aralık 2020)*
+  - Ethereum'da DeFi patlamasıyla birlikte yaşanan pahalılığı ve nasıl giderilebileceğini anlamak için - [Ethereum'un yüksek islem ücretleri](/genel/2020/12/21/ETHnin-yuksek-islem-ucretleri.html) *(21 Aralık 2020)*
   - Ethereum'a rakip birinci seviye blokzincirler için: [Ethereum ve rakipleri](/genel/2021/02/27/Ethereum-ve-rakipleri.html) *(27 Şubat 2021)*
   - En büyük merkezi borsa olan Binance'in çıkardığı blokzincir için: [Yeni bir Ethereum rakibi: Binance Smart Chain](/genel/2021/03/03/yeni-bir-eth-rakibi-binance-smart-chain.html) *(3 Mart 2021)*
 
