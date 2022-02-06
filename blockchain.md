@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Blockchain Yazıları"
+title: "Blockchain Yazılar"
 permalink: /blockchain/
 ---
 
