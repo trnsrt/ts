@@ -14,9 +14,9 @@ Ekosisteme katkı sağlamak amacıyla yayınlanan iki kitabım bulunmakta. Bunla
 <img src="/assets/Sorularla_Blockchain_kapak.jpg">
 </td>
 <td style="width:50%">
-<img src="/assets/Sorularla_DeFi_kapak.jpg"></td></tr>
+<img src="/assets/Sorularla_DeFi_kapak_v2.jpg"></td></tr>
 <tr><td style="width:50%; vertical-align:top">
-<p>Sorularla Blockchain - Yayın Yılı 2019  <a href="https://turansert.com/Etkinlikler/">{{ "Buradan indirebilirsiniz" }}</a> </p>
+<p>Sorularla Blockchain - Yayın Yılı 2019.  <a href="http://bit.ly/Sorularla_Blockchain">Buradan indirebilirsiniz</a> </p>
 
 </p></td>
 <td style="width:50%; vertical-align:top">
