@@ -12,17 +12,19 @@ Bunlardan ilki Blockchain Türkiye aracılığıyla 2019 yılında yayınlanan "
 
 &nbsp;
 
-<table><tr><td style="width:50%">
+<table>
+<tr>
+<td style="width:50%">
 <img src="/assets/Sorularla_Blockchain_kapak.jpg">
 </td>
 <td style="width:50%">
 <img src="/assets/Sorularla_DeFi_kapak_v2.jpg"></td></tr>
-<tr><td style="width:50%; vertical-align:top">
-<p>Sorularla Blockchain - Yayın Yılı 2019.  <a href="http://bit.ly/Sorularla_Blockchain">Buradan indirebilirsiniz</a> </p>
-
-</p></td>
+<tr>
 <td style="width:50%; vertical-align:top">
-<p>Sorularla DeFi - Merkeziyetsiz Finans. Yayın Yılı 2022 <a href="https://indd.adobe.com/view/5b99bb77-877f-47f7-a881-33ef427205b6">Buradan indirebilirsiniz</a> </p>
+<p>Sorularla Blockchain (2019)  <a href="http://bit.ly/Sorularla_Blockchain">Buradan indirebilirsiniz</a> </p> 
+</td>
+<td style="width:50%; vertical-align:top">
+<p>Sorularla DeFi - Merkeziyetsiz Finans (2022) <a href="https://indd.adobe.com/view/5b99bb77-877f-47f7-a881-33ef427205b6">Buradan indirebilirsiniz</a> </p>
 </td></tr> 
 </table>
 
