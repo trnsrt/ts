@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Yazılar
-permalink: /articles/
+title: Blockchain
+permalink: /blockchain/
 ---
 
 
