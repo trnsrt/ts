@@ -26,7 +26,9 @@ youtube_username: UCh5_9-4LQUrJ-yF0plZ0fGg
 google_analytics: UA-168563834-1
 logo: "/ts-bg-dark-v2_bant_v5.jpg"
 header_pages:
-  - articles.md
+  - blokchain.md
+  - defi-giris.md
+  - defi-ileri-seviye.md
   - Etkinlikler.md
   - kitaplar.md
   - about.md
