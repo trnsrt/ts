@@ -10,7 +10,11 @@ Klasik finans ve teknoloji ağırlıklı kariyerine Arthur Andersen’da denetim
 
 Yüksek öğrenimini Boğaziçi Üniversitesi İşletme (BA, 1995) ve Harvard Business School (MBA, 2001)’da tamamladı.
 
+&nbsp;
+
 ---
+
+&nbsp;
 
 Yukarı kısım kısa özet isteyenler için. Daha detaylı hayat hikayemi duymak isterseniz aşağıda bir kopyası olan Coinbilgi'deki [yazıya göz atabilirsiniz](https://www.coinbilgi.net/turan-sert-kimdir/). 
 
