@@ -8,7 +8,7 @@ The web has evolved dramatically over the couple of decades.
 
 It started with Web 1.0, where we saw main infrastructure components such as TCP/IP, DNS and GPS were put in place. This was a phase where development was initiated by university research centers which were funded by governments. As such, the projects were aimed at creating the building blocks of internet and undertaken with a long-term perspective. They were not necessarily aimed at mass adoption and user friendliness was not on the top list of priorities. 
 
-| ![maze](/assets/maze-1804499_800.jpg.jpg)|
+| ![maze](/assets/maze-1804499_800.jpg)|
 |:--:| 
 | *Image by [Arek Socha](https://pixabay.com/users/qimono-1962238/) from [Pixabay](https://pixabay.com/)*|
 
