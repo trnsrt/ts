@@ -8,6 +8,10 @@ Sıkça kullandığım bir benzetme var: Yaşadığımız 'fiziki' dünyayı bir
 
 Blokzincir dediğimiz esasında bir yazılım ve temel işlevi üzerine kurulu olan projelere altyapı olmak. Bunu yaparken, genelde blokzincirler kapalı bir dünya olarak kuruluyorlar. Ne yaparsanız, bu 'ada' içinde yapıyorsunuz.  Peki nasıl bir blokzincirden diğerine geçiş yapacağız? 
 
+| ![L1_ecosistemi](/assets/Layer-1-Ecosystem-Map_800.jpg)|
+|:--:| 
+| *Blokzincir Dünyası Kaynak: [Blockchain Comparison](https://blockchain-comparison.com/blockchain-protocols/)*|
+
 Bunun iki temel yolu var. Birincisi, bir kriptopara borsası kullanabilirsiniz. Bunun oldukça zahmetli bir yöntem olduğunu belirtelim. Bir örnek ile açıklayalım: Elinizde Ethereum ağında tuttuğunuz bir ETH var ve bunu Avalanche ağına geçirmek istiyorsunuz. ETH'nizi bir borsada bulunan hesabınıza aktaracaksınız. Sonra o ETH'yi satacaksınız (muhtemelen en likit olan bir stabil para örneğin USDT ile). Arkasından aldığınız stabil para ile AVAX satın alacaksınız. En sonunda da bu AVAX'ın borsadaki hesabınızdan Avalanche üzerindeki cüzdanınıza çekeceksiniz. Tam dört adım. Boşa zaman kaybının yanında bir de para kaybı: Ethereum ve Avalanche üzerinde  transfer için ödeyeceğiniz ücretin üzerine üzerine bir  de al-sat sırasında uğrayabileceğiniz kayıplar. 
 
 İkinci yol ise bu iş için bir köprü kullanmak. Köprüler sayesinde bir blokzincir üzerindeki cüzdanınızdan paranızı direkt olarak diğer blokzincir üzerindeki hesabınına aktarabilmek. Hangisi kulağa daha kolay geliyor? Teoride ikincisi tabii ama pratiğe gelince henüz orada değiliz. 
