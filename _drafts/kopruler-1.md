@@ -8,7 +8,7 @@ Sıkça kullandığım bir benzetme var: Yaşadığımız 'fiziki' dünyayı bir
 
 Blokzincir dediğimiz esasında bir yazılım ve temel işlevi üzerine kurulu olan projelere altyapı olmak. Bunu yaparken, genelde blokzincirler kapalı bir dünya olarak kuruluyorlar. Ne yaparsanız, bu 'ada' içinde yapıyorsunuz.  Peki nasıl bir blokzincirden diğerine geçiş yapacağız? 
 
-| ![L1_ecosistemi](/assets/Layer-1-Ecosystem-Map_800.jpg)|
+| ![L1_ecosistemi](/assets/Layer-1-Ecosystem-Map_800_v2.jpg)|
 |:--:| 
 | *Blokzincir Dünyası Kaynak: [Blockchain Comparison](https://blockchain-comparison.com/blockchain-protocols/)*|
 
