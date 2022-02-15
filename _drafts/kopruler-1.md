@@ -4,6 +4,12 @@
 
 Sıkça kullandığım bir benzetme var: Yaşadığımız 'fiziki' dünyayı bir kıtaya benzetirsek, blokzincirler ana kara çevresine sıralanmış küçük adalar gibiler. Bizim bu adalara gidebilmemizi, yani itibari (fiat) paradan kriptoparaya geçişimizi genelde kripto alım-satım platformları sağlıyorlar. Peki bu adalar arasında gidip gelmek istersek? Bir blokzincirden öbürüne geçmek istersek? O zaman birkaç yol var ama önümüzdeki dönemde en sık konuşacağımız yol köprüler olacak gibi görünüyor. 
 
+
+| ![island_bridge](/assets/road-2360545_800.jpg)|
+|:--:| 
+| *Image by [Lennart Demes](https://pixabay.com/users/struffelproductions-589546/) from [Pixabay](https://pixabay.com/)*|
+
+
 ### Blokzincir ve köprü ilişkisi
 
 Blokzincir dediğimiz esasında bir yazılım ve temel işlevi üzerine kurulu olan projelere altyapı olmak. Blokzincir genelde kapalı bir dünya olarak kurulur, üzerindeki uygulamalar da esasında bir akıllı kontratların da dış dünyaya erişimi yok; ne yaparsanız, bu 'ada' içinde yapıyorsunuz.  Peki, o zaman bir blokzincirden diğerine nasıl geçiş yapılabilir? Örneğin, bir kullanıcı Ethereum üzerindeki kriptoparasını Avalanche ağına nasıl geçirebilir? 
