@@ -18,7 +18,7 @@ Peki, o zaman bir blokzincirden diğerine nasıl geçiş yapılabilir? Örneğin
 
 | ![L1_ecosistemi](/assets/Layer-1-Ecosystem-Map_1600_v3.jpg)|
 |:--:| 
-| *Blokzincir Dünyası Kaynak: [Blockchain Comparison](https://blockchain-comparison.com/blockchain-protocols/)*|
+| *Blokzincir Dünyası. Kaynak: [Blockchain Comparison](https://blockchain-comparison.com/blockchain-protocols/)*|
 
 Bunun iki temel yolu var. Birincisi, bir kriptopara borsası kullanabilir. Bunun oldukça zahmetli bir yöntem olduğunu belirtelim. Yukarıdaki örnekten devam edelim: Kullanıcının elinde Ethereum ağında tuttuğu bir ETH var ve bunu Avalanche ağına geçirmek istiyor. ETH'sini bir borsada bulunan hesabına aktaracak. Sonra o ETH'yi satacak (muhtemelen USDT ya da USDC gibi en likit stabil paralardan biri aracılığı ile). Arkasından aldığı stabil para ile AVAX satın alacak. En sonunda ise satın aldığı bu AVAX'ı borsadaki hesabından Avalanche üzerindeki cüzdanına çekecek. Tam dört adım. Boşa zaman üstüne üstlük para kaybı; Ethereum ve Avalanche üzerinde transfer için ödeyeceği işlem ücretinin üzerine bir de kriptopara alım-satımı sırasında kayıp yaşayacak.
 
