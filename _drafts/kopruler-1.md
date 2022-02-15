@@ -1,4 +1,4 @@
-Bu yazımızda, 2022 yılında çok konuşacağımız köprüler konusuna değiniyoruz. İlk yazımızda cevaplamaya çalışacağımız soru: Blokzincirlerde neden köprülere ihtiyaç duyuyoruz?
+İki yazıdan oluşacak mini serimizde, 2022 yılında çok konuşacağımız köprüler konusuna değiniyoruz. İlk yazımızda cevaplamaya çalışacağımız soru: Blokzincirlerde neden köprülere ihtiyaç duyuyoruz?
 
 ### Blokzincirler birer ada mı?
 
