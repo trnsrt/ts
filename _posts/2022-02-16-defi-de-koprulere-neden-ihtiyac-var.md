@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "DeFi'de Köprülere Neden İhtiyaç Var?"
+date:   2022-02-16 17:47:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
 İki yazıdan oluşacak mini serimizde, 2022 yılında çok konuşacağımız köprüler konusuna değiniyoruz. İlk yazımızda cevaplamaya çalışacağımız soru "Blokzincirlerde neden köprülere ihtiyaç duyuyoruz?" olacak. 
 
 ### Blokzincirler birer ada mı?
@@ -46,3 +54,12 @@ Ethereum geliştiricilerinin, kullanıcılara ait varlıkların kendi ağlarınd
 
 ### Arkası yarın
 Bir sonraki yazımızda, 'köprü tam olarak ne demek, farklı köprü çeşitleri neler ve geçtiğimiz günlerde duyduğumuz köprü kazalarında ne yaşandı' sorularına yanıt arayacağız.
+
+
+---
+
+*Not 1: Bu yazı ilk olarak 16 Şubat 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/kopruler-neden-onemli/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
