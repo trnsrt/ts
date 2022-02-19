@@ -1,4 +1,10 @@
-Web3'ün tarihçesi IV - Web 3'ün doğuşu
+---
+layout: post
+title:  "Web3'ün tarihçesi IV - Web3'ün doğuşu"
+date:   2022-02-21 08:47:56 +0300
+categories: Genel
+tags: Yazılar, DeFi, DeFi'ye Giriş
+---
 
 Gelin Web3'ün nasıl doğduğuna hep birlikte bakalım. 
 
@@ -30,3 +36,11 @@ Binlerce makine bir arada hareket ettiği zaman birkaç kritik fonksiyonu yerine
 İşte, gücün aracılarda toplanması yerine dağıtılması, esasında gücün bireylere geçmesini sağlıyor. İşin temelinde yatan felsefe bu. Öte yandan bunun daha başlangıç olduğunu belirtmek gerek. Zira, gücün bireylere geçmesinin yaratacağı pek çok potansiyel büyüme fırsatı var ki, Web 3 bunların yolunu açan bir altyapı. 
 
 Sonraki yazılarımızda, Web3'ün getireceği fırsatlara bakacağız. 
+
+---
+
+*Not 1: Bu yazı ilk olarak 21 Şubat 2022'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı]()*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.* 
