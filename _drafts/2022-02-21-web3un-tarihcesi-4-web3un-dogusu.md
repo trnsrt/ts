@@ -25,6 +25,10 @@ Dijital dünyada kişiler arası her tür ilişkiyi aradan aracı olmadan çözm
 
 İşte bütün bu kritik soruların çözümünü blokzincir teknolojisi verdi. 
 
+| ![cage](/assets/british-columbia-3785254_800.jpg)|
+|:--:| 
+| *Image by [James Wheeler](https://pixabay.com/users/jameswheeler-5314099/) from [Pixabay](https://pixabay.com/)*|
+
 ### Ne getiriyor idi blokzincir teknolojisi?
 Blokzincir teknolojisi üç temel unsuru bir araya getirmeyi başardı. Bunlardan ilk ikisi zaten uzun yıllardır hayatımızda idi. Birincisi internet, ki kendisi kişisel görüşüm en büyük teknolojik devrimdir, Web 1.0 ve Web 2.0 ile iyice olgunlaşmış idi. İkincisi, şifreleme teknolojileri, ki bu da 1980'lerden itibaren üniversitelerde yapılan yoğun araştırmalar sonucu günlük hayatta kullanılabilir hale gelmişti. 
 
