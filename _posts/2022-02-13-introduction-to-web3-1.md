@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Introduction to Web3 * I"
+date:   2022-01-213 17:47:56 +0300
+categories: Genel
+tags: Yazılar, Articles
+---
+
 In this mini-series we will have a brief introduction to Web 3 philosophy. Let's jump in. 
 
 Readers of this column would remember one of our early posts where we discussed about the evolution of Web. Let's first summarize this history in couple of sentences: 
@@ -23,3 +31,9 @@ Web 3 promises to give the power back to users. How are they going to do that? W
 ### What is the key principle behind Web 3?
 
 As a result, here comes the main philosophy behind Web 3 initiatives: Give power back to users via decentralization. Whatever you do, always keep decentralization at the core. This is what differentiates Web 3 projects from their predecessor Web 2.0 projects. Additionally, for any project that aspires to be successful in Web 3, this should be their compass - always aim for decentralization going forward.
+
+
+---
+*This piece is [first published](https://medium.com/bcistcenter/introduction-to-web-3-i-da8be4a6606b) in [BlockchainIST Center](https://medium.com/blockchainist-center) on February 13th, 2022.*
+
+*None of the views expressed in this article should be considered as investment advice*
