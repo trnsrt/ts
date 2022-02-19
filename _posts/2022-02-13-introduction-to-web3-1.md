@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introduction to Web3 * I"
+title:  "Introduction to Web3 - I"
 date:   2022-01-213 17:47:56 +0300
 categories: Genel
 tags: Yazılar, Articles
