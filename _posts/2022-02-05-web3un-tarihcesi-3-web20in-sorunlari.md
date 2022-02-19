@@ -43,7 +43,7 @@ Reklamlar para kazanmanın bir yönü, ancak bu da yetmemeye başladı bu devler
 
 ---
 
-*Not 1: Bu yazı ilk olarak 5 Şubat 2022'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı]()*
+*Not 1: Bu yazı ilk olarak 5 Şubat 2022'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı](https://medium.com/blockchainist-center/web3%C3%BCn-tarih%C3%A7esi-ii-web-2-0-%C4%B1n-sorunlar%C4%B1-34427bbb15a8)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
