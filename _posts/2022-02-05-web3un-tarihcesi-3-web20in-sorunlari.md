@@ -3,7 +3,7 @@ layout: post
 title:  "Web3'ün tarihçesi III - Web 2.0'ın sorunları"
 date:   2022-02-05 08:47:56 +0300
 categories: Genel
-tags: Yazılar, DeFi, DeFi'ye Giriş
+tags: Yazılar, Web3, DeFi, DeFi'ye Giriş
 ---
 
 Web3'ün tarihçesine değindiğimiz yazı dizimizin bu bölümünde Web 1.0 ile başlayan ve Web 2.0 ile devam eden sürecin yaşadığı sıkıntılardan bahsederek Web3'ün gelişimine doğru yol alıyoruz. 
