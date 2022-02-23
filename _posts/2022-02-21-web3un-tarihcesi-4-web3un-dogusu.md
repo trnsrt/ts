@@ -43,7 +43,7 @@ Sonraki yazılarımızda, Web3'ün getireceği fırsatlara bakacağız.
 
 ---
 
-*Not 1: Bu yazı ilk olarak 21 Şubat 2022'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı]()*
+*Not 1: Bu yazı ilk olarak 21 Şubat 2022'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı](https://medium.com/blockchainist-center/web3%C3%BCn-tarih%C3%A7esi-iv-web3-%C3%BCn-do%C4%9Fu%C5%9Fu-306baf434221)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
