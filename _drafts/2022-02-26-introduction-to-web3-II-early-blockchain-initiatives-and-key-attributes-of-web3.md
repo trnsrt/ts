@@ -22,7 +22,7 @@ There had been a lot of discussions around how blockchain would affect various p
 
 
 ### ...and in practice
-Reality? None of those promises were fulfilled. Blockchains by nature are natural playgrounds. Permissioned ones (those that are secluded playgrounds that are not open to outsiders) are difficult to understand nor necessary for businesses. If you are going to use a private blockchain better use a centralized database. That would be much more effective and practical.
+Reality? None of those promises were fulfilled. Blockchains by nature are natural playgrounds. Permissioned ones (those that are secluded playgrounds and are not open to outsiders) are difficult to understand nor necessary for businesses. If you are going to use a private blockchain better use a centralized database. That would be much more effective and practical.
 
 Another potential drawback of such concept projects were their doability. Sure, when you closely examine businesses you would see lots of room for improvement:  Many intermediaries that cost money, slow down transactions, create red-tape etc. It would be great to get rid of these parts. However, there is one important condition: You need full digitalization in order to actually use blockchain. 
 
