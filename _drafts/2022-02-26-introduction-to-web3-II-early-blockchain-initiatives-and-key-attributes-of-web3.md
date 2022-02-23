@@ -13,7 +13,13 @@ In second part of our mini-series we will have a look at how recent Web3 project
 
 There had been a lot of discussions around how blockchain would affect various parts of businesses from early 2014's till late 2018's. Tons of papers were published, most from consulting firms who were desperately hungry for fees that they charge to big corporates by selling their 'vision' papers. In short, they promised the world to business: 
 
+
 *Blockchain will change everything, our lives will be completely different. Use blockchain but beware of public ones. They are dangerous. Better use private blockchains - that our engineers would gladly built for you (for a small fee of course!).*
+
+| ![aloft](/assets/balloon-2644416_800.jpg)|
+|:--:| 
+| *Image by [Andrew Martin](https://pixabay.com/users/aitoff-388338/) from [Pixabay](https://pixabay.com/)*|
+
 
 ### ...and in practice
 Reality? None of those promises were fulfilled. Blockchains by nature are natural playgrounds. Permissioned ones (those that are secluded playgrounds that are not open to outsiders) are difficult to understand nor necessary for businesses. If you are going to use a private blockchain better use a centralized database. That would be much more effective and practical.
@@ -38,6 +44,6 @@ Yes, but what exactly are we talking about when we say 'Web 3'. Let's have a loo
 
 
 ---
-*This piece is [first published](https://medium.com/bcistcenter/introduction-to-web-3-i-da8be4a6606b) in [BlockchainIST Center](https://medium.com/blockchainist-center) on February 26th, 2022.*
+*This piece is [first published]() in [BlockchainIST Center](https://medium.com/blockchainist-center) on February 26th, 2022.*
 
 *None of the views expressed in this article should be considered as investment advice*
