@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Introduction to Web3 - II-  Early blockchain initiatives and key attributes of Web3"
-date:   2022-02-13 17:47:56 +0300
+date:   2022-02-26 17:47:56 +0300
 categories: Genel
 tags: Yazılar, Articles
 ---
