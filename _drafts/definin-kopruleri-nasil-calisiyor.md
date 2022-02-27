@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "DeFi'de Köprülere Neden İhtiyaç Var?"
+date:   2022-03-01 17:47:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
 Bu yazımızda, blokzincirler arası köprüler ne demek, farklı köprü çeşitleri neler sorularına cevap vermeye çalışacağız. 
 
 Geçtiğimiz yazımızda, blokzincirler üzerine köprülere neden ihtiyaç duyulduğunu anlamaya çalışmıştık. Özet olarak, kullanıcılar dijital varlıklarını farklı blokzincirler arasında taşımak isteyebiliyorlar. Bunun temel nedenleri arasında, ağırlıklı olarak Ethereum ağında tutulan varlıkların yüksek işlem ücreti nedeniyle istenildiği şekilde değerlendirilememesi ya da diğer ağlarda önerilen yüksek kazançlar var.  Bunun sonucu kullanıcılar ya Ethereum güvenliğini kullanan ikinci seviye çözümlere ya da onlara daha yüksek getiri ve ucuz işlem ücretleri vadeden alternatif ağlara köprüler aracılığıyla geçiyorlar.
@@ -6,6 +14,10 @@ Geçtiğimiz yazımızda, blokzincirler üzerine köprülere neden ihtiyaç duyu
 En basit haliyle ile bir köprünün temel işlevi, kullanıcının sahip olduğu dijital varlığı, bulunduğu ağ üzerinde kilitlemek ve bunun karşılığında kullanıcıya aynı miktarda değeri başka bir ağda sunmak. 
 
 Şimdiye kadar hep değer transferi üzerinden örneklendirdiğimiz bu özellik aslına bakarsanız özünde, bilginin (verinin) bir ağda teyit edilip diğeri ağa gönderilmesi demek. Bu nedenle sadece dijital varlık (değer) değil, herhangi bir bilginin transferi için de kullanılabiliyor köprüler (eski bir yazımızda bahsettiğimiz blokzincire ağ dışında bilgi taşımaya yarayan oracle dediğimiz taşıyıcılar da aslına bakarsanız bir çeşit köprü sayılabilir). 
+
+| ![river_bridge](/assets/river-6175173_800.jpg.jpg)|
+|:--:| 
+| *Image by [Tobias Brunner](https://pixabay.com/users/tobiasbrunner-13708887) from [Pixabay](https://pixabay.com/)*|
 
 Kullanıcıya diğer ağda verilen değerin ne olduğu köprülerin temel dizayn farklılıklarına göre değişebiliyor. Örneğin elinizde Ethereum ağında bulunan ETH'niz var ise, bunu Avalanche ağına geçirdiğinizde köprü size WTHe adında değeri ETH'ye eşit başka bir token veriyor. Kimi ağlarda ise aynı merkeziyetsiz borsalarda olduğu gibi, bir ağın temel tokenini diğer ağın tokeni ile takas edebiliyorsunuz. Örneğin, Ethereum'da verdiğiniz ETH yerine Solana'ya geçip o ağın tokeni SOL'u alabiliyorsunuz. 
 
@@ -40,4 +52,12 @@ Bir diğer konu, köprülerin genelde merkeziyetsiz olmamaları nedeniyle değer
 
 Bunun yanında fonksiyon anlamında köprülerin henüz yolun başında olduğunu söyleyebiliriz. Kullanım kolaylığı, yapılan transferlerin gerçekleşme hızı, işlemlerin gerçekleşebilmesini sağlayacak gerekli likidite, farklı amaçlar için kullanılabilme gibi köprülerin gelişmeleri gereken pek çok alan var. Önümüzdeki dönemde bu alanlarda yeni yeni pek çok yeniliğin biz kullanıcılara sunulacağını söyleyebiliriz.  
 
-Not: Konu ile ilgili daha teknik bilgi sahibi olmak isteyenler şu [Medium makalesine](https://medium.com/1kxnetwork/blockchain-bridges-5db6afac44f8) göz atabilirler. 
+---
+
+*Not 1: Konu ile ilgili daha teknik bilgi sahibi olmak isteyenler şu [Medium makalesine](https://medium.com/1kxnetwork/blockchain-bridges-5db6afac44f8) göz atabilirler.*
+
+*Not 2: Bu yazı ilk olarak 1 Mart 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı]()*
+
+*Not 3: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
