@@ -8,10 +8,10 @@ tags: Yazılar, DeFi
 
 Bu yazımızda, blokzincirler arası köprüler ne demek, farklı köprü çeşitleri neler sorularına cevap vermeye çalışacağız. 
 
-Geçtiğimiz [yazımızda](/genel/2022/02/16/defi-de-koprulere-neden-ihtiyac-var.html), blokzincirler üzerine köprülere neden ihtiyaç duyulduğunu anlamaya çalışmıştık. Özet olarak, kullanıcılar dijital varlıklarını farklı blokzincirler arasında taşımak isteyebiliyorlar. Bunun temel nedenleri arasında, Ethereum ağında yaşanan yüksek işlem ücretlerinin yanında diğer ağların sunduğu fırsatlar var.  Kullanıcılar, Ethereum'a alternatif çözümlere işte bu köprüler aracılığıyla geçiyorlar.
+Geçtiğimiz [yazımızda](/genel/2022/02/16/defi-de-koprulere-neden-ihtiyac-var.html), blokzincirler üzerinde köprülere neden ihtiyaç duyulduğunu anlamaya çalışmıştık. Özet olarak, kullanıcılar dijital varlıklarını farklı blokzincirler arasında taşımak isteyebiliyorlar. Bunun temel nedenleri arasında, Ethereum ağında yaşanan yüksek işlem ücretlerinin yanında diğer ağların sunduğu fırsatlar var.  Kullanıcılar, Ethereum'a alternatif çözümlere işte bu köprüler aracılığıyla geçiyorlar.
 
 ### İyi de tam olarak ne yapar köprüler?
-En basit haliyle ile bir köprünün temel işlevi, kullanıcının sahip olduğu dijital varlığı, bulunduğu ağ üzerinde kilitlemek ve bunun karşılığında kullanıcıya aynı değere sahip dijital varlığı başka bir ağda sunmak. 
+En basit haliyle bir köprünün temel işlevi, kullanıcının sahip olduğu dijital varlığı, bulunduğu ağ üzerinde kilitlemek ve bunun karşılığında kullanıcıya aynı değere sahip dijital varlığı başka bir ağda sunmak. 
 
 Şimdiye kadar hep değer transferi üzerinden örneklendirdiğimiz bu özellik aslına bakarsanız özünde, bilginin (verinin) bir ağda teyit edilip diğer ağa gönderilmesi demek. Bu nedenle sadece dijital varlık (değer) değil, herhangi bir bilginin transferi için de kullanılabiliyor köprüler (eski bir yazımızda bahsettiğimiz blokzincire ağ dışında bilgi taşımaya yarayan oracle dediğimiz taşıyıcılar da aslına bakarsanız bir çeşit köprü sayılabilir). 
 
@@ -19,7 +19,8 @@ En basit haliyle ile bir köprünün temel işlevi, kullanıcının sahip olduğ
 |:--:| 
 | *Image by [Tobias Brunner](https://pixabay.com/users/tobiasbrunner-13708887) from [Pixabay](https://pixabay.com/)*|
 
-Kullanıcıya diğer ağda verilen değerin ne olduğu köprülerin temel dizayn farklılıklarına göre değişebiliyor. Örneğin elinizde Ethereum ağında bulunan ETH'niz var ise, bunu Avalanche ağına geçirdiğinizde köprü size WTHe adında değeri ETH'ye eşit başka bir token veriyor. Kimi ağlarda ise aynı merkeziyetsiz borsalarda olduğu gibi, bir ağın temel tokenini diğer ağın tokeni ile takas edebiliyorsunuz. Örneğin, Ethereum'da ETH verip yerine Solana'da geçip o ağın tokeni SOL'u alabiliyorsunuz. 
+Kullanıcıya diğer ağda verilen değerin ne olduğu köprülerin temel dizayn farklılıklarına göre değişebiliyor. Örneğin elinizde Ethereum ağında bulunan ETH'niz var ise, bunu Avalanche ağına geçirdiğinizde köprü size WTHe adında değeri ETH'ye eşit başka bir token veriyor. Kimi ağlarda ise aynı merkeziyetsiz borsalarda olduğu gibi, bir ağın temel tokenini diğer ağın tokeni ile takas edebiliyorsunuz. Örneğin, Ethereum'da ETH verip yerine Solana'da o ağın tokeni SOL'u alabiliyorsunuz.
+
 
 ### Ne tip köprüler var?
 
@@ -32,7 +33,7 @@ Bu köprülerin ilk çıkanlarından bir tanesi, ***Bitcoin blokzincirinden Ethe
 
 Popüler köprülerden bir diğeri, ***iki blokzincir arasında değer transferi için blokzincirin kendisi tarafından kurulan köprüler.*** Genelde bu tip çözümler Ethereum ile alternatif ağ üzerinde oluşturuluyor. Ethereum Avalanche arasında kurulan [Avalanche Bridge](https://bridge.avax.network/) bu örneklerinden bir tanesi. 
 
-Bir diğer köprü çeşidi ise, ***herhangi bir uygulama tarafından o uygulamaya özel çıkarılan köprüler.*** Bu köprüler, kullancılara kendi uygulamaları üzerinden birden fazla blokzincir üzerinde değer transferi sağlayabiliyor. Bunun en bilinen örneği ise DeFi üzerindeki en büyük kredi verme protokolü olan Compound tarafından geliştirilen [Gateway](https://compound.cash/). Bunun bir benzerini Aave, yakın zamanda çıkaracağı [3. versiyonunun içinde bulunan Portals](https://docs.aave.com/developers/getting-started/v3-overview) özelliği ile kullanıcılara sunuyor.  Bu tip köprüler, dijital varlıkları daha verimli kullanmak açısından faydalı (örneğin bir ağda bir varlığı teminat verip diğer ağda kredi almak), ancak sadece o uygulamada içi kullanım sağlamalarından dolayı işlevleri oldukça kısıtlı. 
+Bir diğer köprü çeşidi ise, ***herhangi bir uygulama tarafından o uygulamaya özel çıkarılan köprüler.*** Bu köprüler, kullancılara kendi uygulamaları üzerinden birden fazla blokzincir üzerinde değer transferi sağlayabiliyor. Bunun en bilinen örneği ise DeFi üzerindeki en büyük kredi verme protokolü olan Compound tarafından geliştirilen [Gateway](https://compound.cash/). Bunun bir benzerini Aave, yakın zamanda çıkaracağı [3. versiyonunun içinde bulunan Portals](https://docs.aave.com/developers/getting-started/v3-overview) özelliği ile kullanıcılara sunuyor.  Bu tip köprüler, dijital varlıkları daha verimli kullanmak açısından faydalı (örneğin bir ağda bir varlığı teminat verip diğer ağda kredi almak), ancak sadece o uygulama içinde kullanım sağlamalarından dolayı işlevleri oldukça kısıtlı. 
 
 Son olarak, ***birden fazla blokzincir arasında birden fazla tokenin transfer edilebilmesini sağlayan, genel kullanım maksatlı köprüler*** de bulunmakta. Bu tip köprülerin kullanımlarının gün geçtikçe arttığını görüyoruz. Tek bir adres üzerinden farklı zincirlere ulaşım büyük kolaylık olsa da, bu tip köprülerin kullanıcı açısından en büyük sıkıntısı yeterli likiditeye sahip olmamaları. Genel olarak en büyük likidite stabil paralarda oluyor ve kullanıcılar USDT, USDC gibi paraları bir ağdan diğerine geçirmek için bu köprüleri kullanıyorlar. 
 
