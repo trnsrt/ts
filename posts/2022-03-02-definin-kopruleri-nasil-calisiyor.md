@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DeFi'de Köprülere Neden İhtiyaç Var?"
-date:   2022-03-01 17:47:56 +0300
+date:   2022-03-02 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
 ---
@@ -61,7 +61,7 @@ Bir sonraki yazımızda, geçtiğimiz ay Solana üzerindeki Wormhole köprüsün
 
 *Not 1: Konu ile ilgili daha teknik bilgi sahibi olmak isteyenler şu [Medium makalesine](https://medium.com/1kxnetwork/blockchain-bridges-5db6afac44f8) göz atabilirler.*
 
-*Not 2: Bu yazı ilk olarak 1 Mart 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı]()*
+*Not 2: Bu yazı ilk olarak 1 Mart 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/definin-kopruleri-nasil-calisiyor/)*
 
 *Not 3: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
