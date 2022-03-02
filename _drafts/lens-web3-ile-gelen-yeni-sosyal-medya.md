@@ -22,7 +22,7 @@ Lens protokolü merkeziyetsiz sosyal medya konusunda bir altyapı protokolü olm
 ### Sistem nasıl çalışıyor?
 Sistemin çalışması aslına bakarsanız Twitter'ı çağrıştıyor. Web2 dünyasının en yaygın ve etkili sosyal medya platformunun verdiği hizmetlerin üzerine bir de Web3 dünyasının getirdiği yenilikler eklenmiş gibi görünüyor. 
 
-| ![lens_gif](/assets/lens_protocol_v2.gif)|
+| ![lens_gif](/assets/lens_protocol_v3.gif)|
 |:--:| 
 | *Lens protokol tanıtımı Kaynak: [Lens protokol](https://lens.dev/)*|
 
