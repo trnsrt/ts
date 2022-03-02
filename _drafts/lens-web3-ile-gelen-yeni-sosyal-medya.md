@@ -24,7 +24,7 @@ Sistemin çalışması aslına bakarsanız Twitter'ı çağrıştıyor. Web2 dü
 
 | ![lens_gif](/assets/lens_protocol_v3.gif)|
 |:--:| 
-| *Lens protokol tanıtımı Kaynak: [Lens protokol](https://lens.dev/)*|
+| *Lens protokol tanıtımı. Kaynak: [Lens protocol](https://lens.dev/)*|
 
 Lens sisteminde 'kripto cüzdan' ve 'profil' denen iki kavram bulunmakta.  Kaba hatları ile kripto cüzdanı 'kullanıcı,' profili ise 'içerik üreten' olarak tanımlamak mümkün. Önce kripto cüzdandan bahsedelim: 
 
