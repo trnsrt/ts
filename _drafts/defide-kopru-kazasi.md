@@ -1,14 +1,14 @@
-Bu yazımızda, geçtiğimiz iki yazıda bahsettiğimiz köprüler üzerinde Şubat ayı başında yaşanan Wormhole olayına detaylıca bakacağız. 
+Bu yazımızda, merkeziyetsiz blokzincirler arası köprüler üzerinde Şubat ayı başında yaşanan Wormhole kazasına detaylıca bakacağız. 
 
 ### Peki geçenlerde yaşanan köprü kazalarında ne olmuştu?
 
-Wormhole, ağlar arası değer transferi hizmeti sunan bir köprü. Sitesinde pek çok farklı ağdan bahsetse de temel olarak Ethereum ile Solana arasında ki transferler için kullanılıyor. 2 Şubat günü, bir hacker, bu ağ üzerinden 120,000 ETH (o zamanki değeri ile 322 milyon ABD Doları) bir rakamı 'çaldı'. 
+Wormhole, ağlar arası varlık transferi hizmeti sunan bir köprü. Sitesinde pek çok farklı ağdan bahsetse de temel olarak Ethereum ile Solana arasında ki transferler için kullanılıyor. 2 Şubat günü, bir hacker, bu ağ üzerinden 120,000 ETH (o zamanki değeri ile 322 milyon ABD Doları) bir rakamı 'çaldı'. 
 
 | ![bridge_accident](/assets/bridge-312873_800.jpg)|
 |:--:| 
 | *Image by [Ulrike Leone](https://pixabay.com/users/ulleo-1834854/) from [Pixabay](https://pixabay.com/)*|
 
-Nasıl oldu bu? Gelin öncelikle Wormhole nasıl çalışıyor ona bakalım: 
+Olayın nasıl gerçekleştiğini anlamak için öncelikle Wormhole nasıl çalışıyor ona bakalım: 
 
 ### Nasıl çalışıyor Wormhole?
 
@@ -26,8 +26,8 @@ Peki bu para yoktan mı yaratıldı? Hayır. Wormhole üzerinde Ethereum üzerin
 
 ### Zarar büyük, peki çıkış yolu var mı?
 
-Sonra ne oldu? Wormhole bir akıllı kontrat ve bir ekip tarafından geliştirilmiş. Bu ekibi de finansal olarak destekleyen yatırımcılar var. Bu yatırımcılar, hemen bir gün içinde kaybolan 320 milyon ABD Dolarını ETH olarak Ethereum tarafına geri koydular. İyi de neden böyle bir hareket de bulundular, ceplerinden bu kadar para yatırdılar? Birkaç nedeni var. Birincisi Wormhole'un geleceğine inanıyorlar ve bu alanda girişime ciddi bir para koymuşlardı. Bu parayı koymasalar şimdiye kadar koydukları bütün yatırımı kaybedeceklerdi. Öte yandan böyle bir durum Solana sistemi için de büyük bir prestij kaybı olabilirdi. Zaten yakın zamanda birden fazla sistem durması yaşayan ağın bir de böyle bir hacki kaldırması zor olabilirdi - zira bu olayın hemen ardından SOL %10 değer [kaybetti](https://www.coindesk.com/markets/2022/02/03/solanas-sol-tumbles-10-after-326m-wormhole-exploit/). dolayısı ile Solana ekibi ile ayrı bir anlaşma yapıp zararın bir kısmını o taraftan almış olabilirler. Bunları net olarak bilemiyoruz. 
+Sonra ne oldu? Wormhole bir akıllı kontrat ve bir ekip tarafından geliştirilmiş. Bu ekibi de finansal olarak destekleyen yatırımcılar var. Bu yatırımcılar, hemen bir gün içinde kaybolan 320 milyon ABD Dolarını ETH olarak Ethereum tarafına geri koydular. İyi de neden böyle bir hareket de bulundular, ceplerinden bu kadar para yatırdılar? Birkaç nedeni var. Birincisi Wormhole'un geleceğine inanıyorlar ve bu alanda girişime ciddi bir para koymuşlardı. Bu parayı koymasalar şimdiye kadar koydukları bütün yatırımı kaybedeceklerdi. Öte yandan böyle bir durum Solana sistemi için de büyük bir prestij kaybı olabilirdi. Zaten yakın zamanda birden fazla sistem durması yaşayan ağın bir de böyle bir açığı kaldırması zor olabilirdi - zira bu olayın hemen ardından SOL %10 değer [kaybetti](https://www.coindesk.com/markets/2022/02/03/solanas-sol-tumbles-10-after-326m-wormhole-exploit/). Dolayısı ile Solana ekibi ile ayrı bir anlaşma yapıp zararın bir kısmını o taraftan almış olabilirler. Bunları net olarak bilemiyoruz. 
 
 ### Sonuç
 
-Wormhole benzeri köprülerdeki sıkıntılar önümüzdeki dönemde de oldukça konuşulacak gibi. Bu tip olaylar dışarıdan bakan birini korkutabilir, bu olaylar ekosistemin gelişmesini yavaşlatabilir, geniş kitlelerin adaptasyonunu geciktirebilir. Aslına bakarsanız, merkeziyetsiz sistemlerin yeni başlayan girişimlerinde bu tip sorunlar yaşanması normal. Zira bu kadar hızlı büyüyen alanlarda hatalar mutlaka olacak. Blokzincirin şeffaf yapısı bir yandan bu olayların hızlıca medyanın ve toplumun gözü önüne serilmesini sağlıyor, diğer yandan benzer girişimlerin bu olaylardan anında ders çıkararak olası açıklarını hızlıca kapatmalarını sağlıyor. Bu sayede sektörün olgunlaşan kısımları 'kurşun geçirmez' hale geliyor.
+Wormhole benzeri köprülerdeki sıkıntılar önümüzdeki dönemde de oldukça konuşulacak gibi. Bu tip olaylar dışarıdan bakanları korkutabilir, ekosistemin gelişmesini yavaşlatabilir ve geniş kitlelerin adaptasyonunu geciktirebilir. Aslına bakarsanız, merkeziyetsiz sistemlerdeki girişimlerin başlangıç aşamalarında bu tip sorunlar yaşanması normal. Zira bu kadar hızlı büyüyen alanlarda hatalar mutlaka olacak. Blokzincirin şeffaf yapısı bir yandan bu olayların hızlıca medyanın ve toplumun gözü önüne serilmesini sağlarken diğer yandan da benzer girişimlerin bu olaylardan anında ders çıkararak olası açıklarını hızlıca kapatmalarına yarıyor. Bu sayede sektörün olgunlaşan kısımları 'kurşun geçirmez' hale geliyor.
