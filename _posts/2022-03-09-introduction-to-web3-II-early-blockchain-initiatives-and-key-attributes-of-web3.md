@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Introduction to Web3 - II-  Early blockchain initiatives and key attributes of Web3"
-date:   2022-02-26 17:47:56 +0300
+date:   2022-03-08 17:47:56 +0300
 categories: Genel
 tags: Yazılar, Articles
 ---
@@ -44,6 +44,6 @@ Yes, but what exactly are we talking about when we say 'Web 3'. Let's have a loo
 
 
 ---
-*This piece is [first published]() in [BlockchainIST Center](https://medium.com/blockchainist-center) on February 26th, 2022.*
+*This piece is [first published](https://medium.com/bcistcenter/introduction-to-web3-ii-early-blockchain-initiatives-and-emergence-of-web3-3c4fe215f3dd) in [BlockchainIST Center](https://medium.com/blockchainist-center) on March 4th, 2022.*
 
 *None of the views expressed in this article should be considered as investment advice*
