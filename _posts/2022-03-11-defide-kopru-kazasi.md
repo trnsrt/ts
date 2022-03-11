@@ -43,7 +43,7 @@ Wormhole benzeri köprülerdeki sıkıntılar önümüzdeki dönemde de oldukça
 
 ---
 
-*Not 1: Bu yazı ilk olarak 11 Mart 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı]()*
+*Not 1: Bu yazı ilk olarak 11 Mart 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/defide-kopru-kazasi/)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
