@@ -20,7 +20,7 @@ Lens, Polygon blokzinciri üzerine kurulu bir Web3 sosyal ilişki ağı (İngili
 Lens protokolü merkeziyetsiz sosyal medya konusunda bir altyapı protokolü olmayı amaçlıyor. Şu an için tasarlanan yapıyı Aave'nin hazırladığı [tanıtım dokümanından](https://docs.lens.dev/docs/what-is-lens) öğreniyoruz. Buyurun detaylarına: 
 
 ### Sistem nasıl çalışıyor?
-Sistemin çalışması aslına bakarsanız Twitter'ı çağrıştıyor. Web2 dünyasının en yaygın ve etkili sosyal medya platformunun verdiği hizmetlerin üzerine bir de Web3 dünyasının getirdiği yenilikler eklenmiş gibi görünüyor. 
+Sistemin çalışması aslına bakarsanız Twitter'ı çağrıştıyor. Web 2.0 dünyasının en yaygın ve etkili sosyal medya platformunun verdiği hizmetlerin üzerine bir de Web3 dünyasının getirdiği yenilikler eklenmiş gibi görünüyor. Gelin tek tek bu özellikleri ve yenilikleri inceleyelim: 
 
 | ![lens_gif](/assets/lens_protocol_v3.gif)|
 |:--:| 
@@ -62,7 +62,7 @@ Takip NFT'leri ile ilgili bir başka ilginç nokta ise, bu NFT'lerin oy kullanma
 Öte yandan, profillerin birer NFT olarak alınıp satılmasının da içerik sağlayıcılara ciddi maddi gelir sağlaması olası. 
 
 #### Aave için önemi?
-Aave bir borç alma-verme platformu. Neden Lens protokol gibi bir hizmeti geliştirmek için çaba sarfediyor?Geliştiricinin bu kadar kıt olduğu şu günlerde, bu alana kaynak ayırmasının nedeni ne?  Kendilerine sorsanız Web3'e katkı yapmak gibi ulu sebepler söyleyecekler ama bu girişimin altında başka nedenler de var gibi. 
+Aave bir borç alma-verme platformu. Neden Lens protokol gibi bir hizmeti geliştirmek için çaba sarfediyor? Geliştiricinin bu kadar kıt olduğu şu günlerde, bu alana kaynak ayırmasının nedeni ne?  Kendilerine sorsanız Web3'e katkı yapmak gibi ulu sebepler söyleyecekler ama bu girişimin altında başka nedenler de var gibi. 
 
 Bunların en önemlisi, profiller ve bunlara sahip kullanıcılar hakkında daha detaylı bilgiye sahip olmak ve bunu bir nevi reputasyon puanı gibi kullanmak olabilir. Şu anda kredi platformları yaklaşık %150 teminat/kredi oranı ile çalışıyorlar. Yani her 100 dolar kredi için 150 dolarlık teminat yatırıyorsunuz. Bunun temel nedeni, teminatın ETH gibi değişken para cinsinden olması ama bir diğer neden de kredi verdiğiniz kişiyi tanımıyor olmanız. DeFi'nin mahremiyet özelliği gereği kullanıcıların kimlikleri bilinmiyor. Kredi verenler eğer kullanıcılar hakkında daha fazla bilgiye sahip olsaydı (gerçek hayatta olduğu gibi) o zaman tanınmış kullanıcılara daha düşük teminatlar ile kredi vermeye razı olabilirlerdi. Zira, verdiğiniz kredi karşılığı profil NFT'yi rehin alabilirsiniz. Profil sahibi, profil NFT'sini kaybetmemek adına kredisini geri ödemeye daha gönüllü olabilir, ne de olsa o profili oluşturmak için ciddi bir zaman ve emek harcıyor, bir anda uçup gitmesini istemeyebilir. 
 
