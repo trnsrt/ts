@@ -8,9 +8,9 @@ tags: Yazılar, DeFi
 
 Bu yazımızda Aave tarafından sunulan Lens protokolü üzerinden merkeziyetsiz sosyal medya ve dijital kimlik konularına göz atacağız. 
 
-Merkeziyetsiz finans dünyasının ağır toplarından [Aave](https://aave.com/), geçtiğimiz haftalarda yaptığı bir açıklama ile [Lens protokolünü](https://lens.dev/) taslağını bizlerle paylaştı. Gelin önce Lens nedir ne yapar ona bakalım: 
+Merkeziyetsiz finans dünyasının ağır toplarından [Aave](https://aave.com/), geçtiğimiz haftalarda yaptığı bir açıklama ile [Lens protokolünün](https://lens.dev/) taslağını bizlerle paylaştı. Gelin önce Lens protokolü nedir ne yapar ona bakalım: 
 
-### Lens nedir, ne yapar?
+### Lens protokolü nedir, ne yapar?
 Lens, Polygon blokzinciri üzerine kurulu bir Web3 sosyal ilişki ağı (İngilizce'de 'sosyal grafik' olarak tanımlanıyor). Bu sosyal ilişki ağının Facebook ya da Twitter gibi mevcut sosyal medya araçlarından en önemli farkı, içerik yaratanların oluşturdukları içeriğe ve bu içeriğe ait tüm bağlantılara tam anlamıyla sahip olmaları. Sistemi bir parça daha tanıyalım, sonra bu konuya tekrar döneceğiz. 
 
 | ![social_media](/assets/man-358816_800.jpg)|
@@ -32,20 +32,20 @@ Kripto cüzdan DeFi'den aşina olduğumuz, blokzincire ulaşmak için kullanıla
 
 Peki profil ne işe yarıyor? Esas olarak içerik üretme adına Twitter'dan aşina olduğunuz tüm işlemleri gerçekleştirmeye. Profil sahibi, içerik üretebiliyor (tweet atmak ya da post yazmak gibi), diğer içeriklere yorum yapabiliyor ya da başkalarının oluşturduğu içerikleri olduğu gibi paylaşabiliyor (yani retweet edebiliyor ki burada buna ayna - mirror- deniyor).  
 
-Twitter'dan aşina olduğumuz bu özelliklerin üzerine Web3'ün getirdiği iki önemli yeniliği ekliyor Lens: Birincisi, bu bahsettiğimiz profil esasında bir NFT olması. Bu profil NFTsi, profil tarafından yaratılan tüm içeriğin (yani yazılar, başka yazılara yorumlar ya da retweet'ler) sahibi. Kripto cüzdanın sahibi bu NFT'nin de sahibi oluyor. Cüzdanından birden fazla profil (yani NFT) bulundurabiliyor ve dilerse bu profili bir başkasına devredebiliyor.
+Twitter'dan aşina olduğumuz bu özelliklerin üzerine Web3'ün getirdiği iki önemli yeniliği ekliyor Lens: Birincisi, bu bahsettiğimiz profil esasında bir NFT olması. Bu profil NFTsi, profil tarafından yaratılan tüm içeriğin (yani yazılar, başka yazılara yorumlar ya da retweet'ler) sahibi. Kripto cüzdanın sahibi bu NFT'nin de sahibi oluyor. Cüzdanında birden fazla profil (yani NFT) bulundurabiliyor ve dilerse bu profili bir başkasına devredebiliyor.
 
-İkincisi ise takipçilere verilen 'takip NFTsi'. Herhangi bir kullanıcı bir profili takip etmek isterse bunu profil tarafından verilen NFT ile yapabiliyor. Profili sahibi bu takip NFT'leri için belli kurallar koyabiliyor; örneğin İçerik başına belli bir ücret ödemek gibi.
+İkincisi ise takipçilere verilen 'takip NFTsi'. Herhangi bir kullanıcı bir profili takip etmek isterse bunu profil tarafından verilen NFT ile yapabiliyor. Profil sahibi bu takip NFT'leri için belli kurallar koyabiliyor; örneğin içerik başına belli bir ücret ödemek gibi.
 
 Hemen belirtelim Lens protokolü konusundaki yukarıdaki bilgileri protokol [sitesinde](https://docs.lens.dev/docs/what-is-lens) bulabilirsiniz. 
 
 ### Neden önemli?
 
-Lens protokolün önemi ne peki?..  Kullanıcılar ve platformlar için birkaç tane saymak şimdiden mümkün: 
+Lens protokolün önemi ne peki?.  Kullanıcılar ve platformlar için birkaç fayda saymak şimdiden mümkün: 
 
 #### Kullanıcı açısından içeriğe tam anlamıyla sahip olmanın getirdiği avantajlar
 Protokolün getireceği en önemli faydanın, Web3'ün temel değer önerisi olan 'gücü kullanıcıya vermek' olduğunu söyleyebiliriz. Yukarıda da bahsettik, Lens sayesinde içerik yaratıcılar ürettikleri içeriğe ve bağlantılarına tam anlamıyla sahip oluyorlar.
 
-'Bağlantıya tam anlamıyla sahip olmak' ne demek? Bunu kripto cüzdan sahipleri aslında gayet iyi biliyor. Kriptoparaların en önemli özelliklerinden biri, kişinin varlığına tam olarak sahip olabilmesi. Bir diğer deyişle cüzdanınızda tuttuğunuz paraya sadece ve sadece sizin ulaşabilmeniz ve istediğiniz kuruma dilediğiniz zaman dilediğiniz kadar yetki ile ulaşım hakkı verip canınız istediğinde bu hakkı geri almanız demek.
+'Bağlantıya tam anlamıyla sahip olmak' ne demek? Bunu kripto cüzdan sahipleri aslında gayet iyi biliyor. Kriptoparaların en önemli özelliklerinden biri, kişinin varlığına tam olarak sahip olabilmesi. Yani? Cüzdanınızda tuttuğunuz paraya sadece ve sadece sizin ulaşabiliyor olmanız. Başka? Sizden paranızı ya da bilgilerinizi isteyen kurumlara, sizin belirlediğiniz kurallar ile ulaşım hakkı vermeniz (yani bu varlıkları ne zaman, ne için, ne kadarını ve hangi süre kullanabileceklerine sizin karar vermeniz). 
 
 İşte Web3 sayesinde sosyal ağlar için de benzer bir durum söz konusu olacak. Şu anda Web2 olarak adlandırılan Facebook ya da Twitter üzerinde paylaştığınız herhangi bir içerik aslında size ait değil. Hepsinin tek sahibi platform. Eğer sahibi siz olsaydınız, yarattığınız içerikleri alıp başka bir platforma götürebilirdiniz. Keza sahip olduğunuz onlarca yüzlerce takipçi de aynı şekilde size ait değil. İnanmıyorsanız, koskoca ABD eski başkanı Donald Trump'a sorun. Pardon soramazsınız, zira 89 milyon takipçisi olan hesap Ocak 2021'de bir anda [kapatıldı](https://en.wikipedia.org/wiki/Social_media_use_by_Donald_Trump#:~:text=The%20%40realdonaldtrump%20handle%20had%20amassed,follower%20count%20thereafter%20increased%20rapidly.). Web2 şirketlerinin böyle bir gücü var işte.
 
