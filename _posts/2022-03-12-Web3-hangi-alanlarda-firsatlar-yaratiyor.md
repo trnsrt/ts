@@ -42,7 +42,7 @@ Dolayısıyla, blokzincir teknolojisinin hayata geçmesi için ya sektörün tam
 
 ---
 
-*Not 1: Bu yazı ilk olarak 12 Mart 2022'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı]()*
+*Not 1: Bu yazı ilk olarak 12 Mart 2022'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı](https://medium.com/blockchainist-center/web3-hangi-alanlarda-f%C4%B1rsatlar-yarat%C4%B1yor-73f7a7788e02)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
