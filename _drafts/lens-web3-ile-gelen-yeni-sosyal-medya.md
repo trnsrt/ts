@@ -53,13 +53,13 @@ Protokolün getireceği en önemli faydanın, Web3'ün temel değer önerisi ola
 |:--:| 
 | *Donald Trump'un Twitter sayfasına girenler bununla karşılaşıyorlar.  Kaynak: [Twitter](https://twitter.com/realDonaldTrump)*|
 
-Kullanıcıların profiller üzerinden maddi kazanç elde etmeleri de mümkün. Yukarıda bahsettiğimiz üretilen içeri görmek için takipçilerden ücret talep etme bir opsiyon (ama bunun takipçi sayısını kısıtlayacağını öngörmek kahinlik sayılmaz). 
+Kullanıcıların profiller üzerinden maddi kazanç elde etmeleri de mümkün. Yukarıda bahsettiğimiz üretilen içeriği görebilmek için takipçilerden ücret talep etme bir opsiyon (ama bunun takipçi sayısını kısıtlayacağını öngörmek kahinlik sayılmaz). 
 
 Bunun yanında takip NFT'lerinin 1'den başlayan numaraları olacak. Kimi ünlüleri takip etmek isteyenlerin ön sıradan yer kapmak için ciddi ücretler ödeyeceğini şimdiden söyleyebiliriz. 
 
 Takip NFT'leri ile ilgili bir başka ilginç nokta ise, bu NFT'lerin oy kullanma hakkı olması. Bu sayede, örneğin herhangi bir profili takip eden NFT'ler kendi aralarında DAO (merkeziyetsiz otonom organizasyonu) kurarak çeşitli projelere gerçekleştirmeye çalışabilirler. 
 
-Öte yandan, profillerin birer NFT olarak alınıp satılmasının da içerik sağlayıcılara ciddi maddi getiriler sağlaması olası. 
+Öte yandan, profillerin birer NFT olarak alınıp satılmasının da içerik sağlayıcılara ciddi maddi gelir sağlaması olası. 
 
 #### Aave için önemi?
 Aave bir borç alma-verme platformu. Neden Lens protokol gibi bir hizmeti geliştirmek için çaba sarfediyor?Geliştiricinin bu kadar kıt olduğu şu günlerde, bu alana kaynak ayırmasının nedeni ne?  Kendilerine sorsanız Web3'e katkı yapmak gibi ulu sebepler söyleyecekler ama bu girişimin altında başka nedenler de var gibi. 
@@ -67,7 +67,7 @@ Aave bir borç alma-verme platformu. Neden Lens protokol gibi bir hizmeti geliş
 Bunların en önemlisi, profiller ve bunlara sahip kullanıcılar hakkında daha detaylı bilgiye sahip olmak ve bunu bir nevi reputasyon puanı gibi kullanmak olabilir. Şu anda kredi platformları yaklaşık %150 teminat/kredi oranı ile çalışıyorlar. Yani her 100 dolar kredi için 150 dolarlık teminat yatırıyorsunuz. Bunun temel nedeni, teminatın ETH gibi değişken para cinsinden olması ama bir diğer neden de kredi verdiğiniz kişiyi tanımıyor olmanız. DeFi'nin mahremiyet özelliği gereği kullanıcıların kimlikleri bilinmiyor. Kredi verenler eğer kullanıcılar hakkında daha fazla bilgiye sahip olsaydı (gerçek hayatta olduğu gibi) o zaman tanınmış kullanıcılara daha düşük teminatlar ile kredi vermeye razı olabilirlerdi. Zira, verdiğiniz kredi karşılığı profil NFT'yi rehin alabilirsiniz. Profil sahibi, profil NFT'sini kaybetmemek adına kredisini geri ödemeye daha gönüllü olabilir, ne de olsa o profili oluşturmak için ciddi bir zaman ve emek harcıyor, bir anda uçup gitmesini istemeyebilir. 
 
 #### Başka neler olabilir?
-Lens protokolü diğer Web3 protokolleri gibi açık kaynak olarak sunuluyor Bu nedenle, yanına ya da üzerine daha pek çok yeni protokol kurulabilir. İşte Web3'ün güzelliği de burada. Yeni kurulacak protokoller ile muhtemelen şu anda öngöremediğimiz daha pek çok yeni özellik ya da hizmet biz kullanıcılara sunulacak gibi görünüyor. 
+Lens protokolü diğer Web3 protokolleri gibi açık kaynak olarak sunuluyor. Bu nedenle, yanına ya da üzerine daha pek çok yeni protokol kurulabilir. İşte Web3'ün güzelliği de burada. Yeni kurulacak protokoller ile muhtemelen şu anda öngöremediğimiz daha pek çok yeni özellik ya da hizmet biz kullanıcılara sunulacak gibi görünüyor. 
 
 ### Sonuç 
 DeFi sayesinde pratik olarak hayatımıza giren ve kullanım alanı olarak kendini kanıtlayan cüzdanlar, artık yalnızca paramızı ya da NFT'lerimizi korumakta işe yaramayacaklar. Görünen o ki, dijital dünyaya adım attığımız andan itibaren bizim elimiz ayağımız olacak, kimliğimizi ve ilişkilerimizi de saklayacak çok önemli birer araç haline gelecekler. Web3 ile birlikte biz kullanıcıların ve kullandığımız araçların önemi artmaya başlıyor. Geleceği en heyecanlı kılan konulardan biri de bu... 
