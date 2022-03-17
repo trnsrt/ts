@@ -8,7 +8,7 @@ tags: Yazılar, DeFi
 
 Bu yazımızda Aave tarafından sunulan Lens protokolü üzerinden merkeziyetsiz sosyal medya ve dijital kimlik konularına göz atacağız. 
 
-Merkeziyetsiz finans dünyasının ağır toplarından [Aave](https://aave.com/), geçtiğimiz haftalarda yaptığı bir açıklama ile [Lens protokolünün](https://lens.dev/) taslağını bizlerle paylaştı. Gelin önce Lens protokolü nedir ne yapar ona bakalım: 
+Merkeziyetsiz finans dünyasının ağır toplarından [Aave](https://aave.com/), geçtiğimiz haftalarda yaptığı bir açıklama ile [Lens protokolünün](https://lens.dev/) taslağını bizlerle paylaştı. Gelin önce Lens protokolü nedir, ne yapar ona bakalım: 
 
 ### Lens protokolü nedir, ne yapar?
 Lens, Polygon blokzinciri üzerine kurulu bir Web3 sosyal ilişki ağı (İngilizce'de 'sosyal grafik' olarak tanımlanıyor). Bu sosyal ilişki ağının Facebook ya da Twitter gibi mevcut sosyal medya araçlarından en önemli farkı, içerik yaratanların oluşturdukları içeriğe ve bu içeriğe ait tüm bağlantılara tam anlamıyla sahip olmaları. Sistemi bir parça daha tanıyalım, sonra bu konuya tekrar döneceğiz. 
@@ -28,11 +28,11 @@ Sistemin çalışması aslına bakarsanız Twitter'ı çağrıştıyor. Web 2.0 
 
 Lens sisteminde 'kripto cüzdan' ve 'profil' denen iki kavram bulunmakta.  Kaba hatları ile kripto cüzdanı 'kullanıcı,' profili ise 'içerik üreten' olarak tanımlamak mümkün. Önce kripto cüzdandan bahsedelim: 
 
-Kripto cüzdan DeFi'den aşina olduğumuz, blokzincire ulaşmak için kullanılan özel anahtarların saklandığı cüzdanın aynısı. Cüzdanın iki temel işlevi var. Birincisi, başkalarının oluşturduğu içerikleri takip edebilmek, ikincisi ise Lens protokol üzerinde Profil yaratabilmek. 
+Kripto cüzdan DeFi'den aşina olduğumuz, blokzincire ulaşmak için kullanılan özel anahtarların saklandığı cüzdanın aynısı. Cüzdanın iki temel işlevi var. Birincisi, başkalarının oluşturduğu içerikleri takip edebilmek, ikincisi ise Lens protokol üzerinde 'profil' yaratabilmek. 
 
 Peki profil ne işe yarıyor? Esas olarak içerik üretme adına Twitter'dan aşina olduğunuz tüm işlemleri gerçekleştirmeye. Profil sahibi, içerik üretebiliyor (tweet atmak ya da post yazmak gibi), diğer içeriklere yorum yapabiliyor ya da başkalarının oluşturduğu içerikleri olduğu gibi paylaşabiliyor (yani retweet edebiliyor ki burada buna ayna - mirror- deniyor).  
 
-Twitter'dan aşina olduğumuz bu özelliklerin üzerine Web3'ün getirdiği iki önemli yeniliği ekliyor Lens: Birincisi, bu bahsettiğimiz profil esasında bir NFT olması. Bu profil NFTsi, profil tarafından yaratılan tüm içeriğin (yani yazılar, başka yazılara yorumlar ya da retweet'ler) sahibi. Kripto cüzdanın sahibi bu NFT'nin de sahibi oluyor. Cüzdanında birden fazla profil (yani NFT) bulundurabiliyor ve dilerse bu profili bir başkasına devredebiliyor.
+Twitter'dan aşina olduğumuz bu özelliklerin üzerine Web3'ün getirdiği iki önemli yeniliği ekliyor Lens: Birincisi, bu bahsettiğimiz profilin esasında bir NFT olması. Bu profil NFTsi, profil tarafından yaratılan tüm içeriğin (yani yazılar, başka yazılara yorumlar ya da retweet'ler) sahibi. Kripto cüzdanın sahibi bu NFT'nin de sahibi oluyor. Cüzdanında birden fazla profil (yani NFT) bulundurabiliyor ve dilerse bu profili bir başkasına devredebiliyor.
 
 İkincisi ise takipçilere verilen 'takip NFTsi'. Herhangi bir kullanıcı bir profili takip etmek isterse bunu profil tarafından verilen NFT ile yapabiliyor. Profil sahibi bu takip NFT'leri için belli kurallar koyabiliyor; örneğin içerik başına belli bir ücret ödemek gibi.
 
@@ -40,7 +40,7 @@ Hemen belirtelim Lens protokolü konusundaki yukarıdaki bilgileri protokol [sit
 
 ### Neden önemli?
 
-Lens protokolün önemi ne peki?.  Kullanıcılar ve platformlar için birkaç fayda saymak şimdiden mümkün: 
+Lens protokolün önemi ne peki?  Kullanıcılar ve platformlar için birkaç fayda saymak şimdiden mümkün: 
 
 #### Kullanıcı açısından içeriğe tam anlamıyla sahip olmanın getirdiği avantajlar
 Protokolün getireceği en önemli faydanın, Web3'ün temel değer önerisi olan 'gücü kullanıcıya vermek' olduğunu söyleyebiliriz. Yukarıda da bahsettik, Lens sayesinde içerik yaratıcılar ürettikleri içeriğe ve bağlantılarına tam anlamıyla sahip oluyorlar.
@@ -57,12 +57,12 @@ Kullanıcıların profiller üzerinden maddi kazanç elde etmeleri de mümkün. 
 
 Bunun yanında takip NFT'lerinin 1'den başlayan numaraları olacak. Kimi ünlüleri takip etmek isteyenlerin ön sıradan yer kapmak için ciddi ücretler ödeyeceğini şimdiden söyleyebiliriz. 
 
-Takip NFT'leri ile ilgili bir başka ilginç nokta ise, bu NFT'lerin oy kullanma hakkı olması. Bu sayede, örneğin herhangi bir profili takip eden NFT'ler kendi aralarında DAO (merkeziyetsiz otonom organizasyonu) kurarak çeşitli projelere gerçekleştirmeye çalışabilirler. 
+Takip NFT'leri ile ilgili bir başka ilginç nokta ise, bu NFT'lerin oy kullanma hakkı olması. Bu sayede, örneğin herhangi bir profili takip eden NFT'ler kendi aralarında DAO (merkeziyetsiz otonom organizasyon) kurarak çeşitli projeler gerçekleştirmeye çalışabilirler.
 
 Öte yandan, profillerin birer NFT olarak alınıp satılmasının da içerik sağlayıcılara ciddi maddi gelir sağlaması olası. 
 
 #### Aave için önemi?
-Aave bir borç alma-verme platformu. Neden Lens protokol gibi bir hizmeti geliştirmek için çaba sarfediyor? Geliştiricinin bu kadar kıt olduğu şu günlerde, bu alana kaynak ayırmasının nedeni ne?  Kendilerine sorsanız Web3'e katkı yapmak gibi ulu sebepler söyleyecekler ama bu girişimin altında başka nedenler de var gibi. 
+Aave bir borç alma-verme platformu. Neden Lens protokol gibi bir hizmeti geliştirmek için çaba sarfediyor? Geliştiricinin bu kadar kıt olduğu şu günlerde bu alana kaynak ayırmasının nedeni ne? Kendilerine sorsanız Web3'e katkı yapmak gibi ulu sebepler söyleyecekler ama bu girişimin altında başka nedenler de var gibi.
 
 Bunların en önemlisi, profiller ve bunlara sahip kullanıcılar hakkında daha detaylı bilgiye sahip olmak ve bunu bir nevi reputasyon puanı gibi kullanmak olabilir. Şu anda kredi platformları yaklaşık %150 teminat/kredi oranı ile çalışıyorlar. Yani her 100 dolar kredi için 150 dolarlık teminat yatırıyorsunuz. Bunun temel nedeni, teminatın ETH gibi değişken para cinsinden olması ama bir diğer neden de kredi verdiğiniz kişiyi tanımıyor olmanız. DeFi'nin mahremiyet özelliği gereği kullanıcıların kimlikleri bilinmiyor. Kredi verenler eğer kullanıcılar hakkında daha fazla bilgiye sahip olsaydı (gerçek hayatta olduğu gibi) o zaman tanınmış kullanıcılara daha düşük teminatlar ile kredi vermeye razı olabilirlerdi. Zira, verdiğiniz kredi karşılığı profil NFT'yi rehin alabilirsiniz. Profil sahibi, profil NFT'sini kaybetmemek adına kredisini geri ödemeye daha gönüllü olabilir, ne de olsa o profili oluşturmak için ciddi bir zaman ve emek harcıyor, bir anda uçup gitmesini istemeyebilir. 
 
