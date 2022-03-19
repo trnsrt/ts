@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Lens: Web3 ile gelen yeni sosyal medya"
-date:   2022-03-16 17:47:56 +0300
+date:   2022-03-18 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
 ---
@@ -74,7 +74,7 @@ DeFi sayesinde pratik olarak hayatımıza giren ve kullanım alanı olarak kendi
 
 ---
 
-*Not 1: Bu yazı ilk olarak 16 Mart 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı]()*
+*Not 1: Bu yazı ilk olarak 18 Mart 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/lens-web3-ile-gelen-yeni-sosyal-medya/)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
