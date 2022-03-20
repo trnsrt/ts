@@ -24,10 +24,10 @@ BTCHaber tarafından yapılan beş dakikalık video
 </td>
 </tr>
 <tr>
-<td style="width:50%">
+<td style>
 <img src="/assets/Sorularla_DeFi_tanitim_photo_001.jpg">
 </td>
-<td style="width:50%"><img src="/assets/Sorularla_DeFi_tanitim_photo_002.jpg">
+<td style><img src="/assets/Sorularla_DeFi_tanitim_photo_002.jpg">
 </td>
 </tr>
 
