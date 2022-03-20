@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sorularla DeFi - Tanıtım"
-date:   2022-01-26 23:37:15 +0300
+date:   2022-03-09 23:37:15 +0300
 categories: Genel
 tags: videos Etkinlikler
 ---
