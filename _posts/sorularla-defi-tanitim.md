@@ -23,6 +23,9 @@ BTCHaber tarafından yapılan beş dakikalık video
 <p>Bu da yayının YouTube linki</p>
 </td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td style>
 <img src="/assets/Sorularla_DeFi_tanitim_photo_001.jpg">
@@ -30,8 +33,6 @@ BTCHaber tarafından yapılan beş dakikalık video
 <td style><img src="/assets/Sorularla_DeFi_tanitim_photo_002.jpg">
 </td>
 </tr>
-
-
 </table>
 
 Sorularla_DeFi_tanitim_photo_11.jpg
