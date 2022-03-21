@@ -3,13 +3,11 @@ layout: page
 title: en
 permalink: /English/
 ---
-Musings on Web3 technologies. 
+Musings on Web3 technologies.  
 
-All my posts on blockchain and defi as well as talks on various media. Most (almost all) posts in Turkish
+You can find all my articles as well as talks on various media here, all in one place. Almost all of my writings are in Turkish. Why? Mainly due to lack of comprehensive resources in the market.
 
-You can find all my articles as well as talks on various media, all in one place. Unfortunately all my writings are in Turkish. Why? Lack of comprehensive resources in the market. 
-
-See my bio from my [LinkedIn profile](https://www.linkedin.com/in/turansert/). If you are interested to learn more let's connect [there]((https://www.linkedin.com/in/turansert/)) or follow me on [Twitter](https://twitter.com/turansert).
+See my bio from my [LinkedIn profile](https://www.linkedin.com/in/turansert/) below. If you are interested to learn more let's [connect]((https://www.linkedin.com/in/turansert/)) or follow me on [Twitter](https://twitter.com/turansert).
 
 &nbsp;
 
