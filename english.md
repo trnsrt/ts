@@ -1,7 +1,7 @@
 ---
 layout: page
 title: en
-permalink: /English/
+permalink: /english/
 ---
 Musings on Web3 technologies.  
 
