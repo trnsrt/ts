@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "BloombergHT Radyon - 23 Mart 2022 Canlı Yayın"
-date:   2022-01-23 23:37:15 +0300
+date:   2022-03-23 23:37:15 +0300
 categories: Genel
 tags: videos Etkinlikler
 ---
