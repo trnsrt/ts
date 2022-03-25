@@ -15,13 +15,13 @@ https://www.bloomberghtradyo.com/song/yarinin-gundemi-6/
 &nbsp;
 
 <table><tr><td style="width:50%">
-<img src="/assets/yarinin_gundemi_program_goruntu_220323_800.jpg">
+<img src="/assets/yarinin-gundemi_poster_v2_800.jpg">
 </td>
 <td style="width:50%">
 <iframe width="224" height="126" src="https://www.youtube.com/embed/dv2exeCrhn0" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
-Programdan bir görüntü...  
+Programın duyurusu...  
 </p></td>
 <td style="width:50%; vertical-align:top">
 <p>Bu da yayının YouTube linki.</p>
