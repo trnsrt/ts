@@ -6,7 +6,7 @@ categories: Genel
 tags: videos Etkinlikler
 ---
 
-<img align="left" src="/assets/bloombergHT_fokus_poster.jpg" style="width:40%; padding-right:20px"> BloombergHT Fokus programında, [Gizem Uzuner](https://twitter.com/gizemuzuner_)'in konuğu olarak Merkeziyetsiz Finans nedir, Web3 hayatımıza neler getiriyor, NFT'lerin geleceği nasıl şekillenecek, oyun ve müzik alanında NFT kullanımları, merkeziyetsiz otonom yapılar (DAO'lar), Metaverse'den arsa alımları ve Tether'e ülkemizdeki talebin nedeni konularını konuştuk.  
+<img align="left" src="/assets/bloombergHT_fokus_poster.jpg" style="width:40%; padding-right:20px"> BloombergHT Fokus programında, [Güzem Yılmaz Ertem](https://twitter.com/guzemyilmaz)'in konuğu olarak Merkeziyetsiz Finans nedir, Web3 hayatımıza neler getiriyor, NFT'lerin geleceği nasıl şekillenecek, oyun ve müzik alanında NFT kullanımları, merkeziyetsiz otonom yapılar (DAO'lar), Metaverse'den arsa alımları ve Tether'e ülkemizdeki talebin nedeni konularını konuştuk.  
 &nbsp;
 
 <table><tr><td style="width:50%">
