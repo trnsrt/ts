@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Introduction to Web3 - III-  Where do we see Web3 projects?"
-date:   2022-03-19 17:47:56 +0300
+date:   2022-03-20 17:47:56 +0300
 categories: Genel
 tags: Yazılar, Articles
 ---
@@ -28,6 +28,6 @@ So where do we see Web 3 projects prevail? Let's have a quick look at five key a
 We will be talking about each of these areas, how Web 3 will be able to change them and how they interact with each other in our following posts. The first topic will be NFTs.
 
 ---
-*This piece is [first published]() in [BlockchainIST Center](https://medium.com/blockchainist-center) on March 19th, 2022.*
+*This piece is [first published](https://medium.com/bcistcenter/introduction-to-web3-iii-where-do-we-see-emerging-new-projects-fcac68e117a4) in [BlockchainIST Center](https://medium.com/blockchainist-center) on March 20th, 2022.*
 
 *None of the views expressed in this article should be considered as investment advice*
