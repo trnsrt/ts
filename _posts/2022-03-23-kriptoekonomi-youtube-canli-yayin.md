@@ -15,7 +15,7 @@ tags: videos Etkinlikler
 </td>
 <td style="width:50%">
 <iframe width="224" height="126" src="https://www.youtube.com/9Gxk3pcZolo" frameborder="0" allowfullscreen></iframe></td></tr>
-<tr><td style="width:50%; vertical-align:top">
+<tr><td style="width:50%; vertical-align:top, font:italic">
 <p>
 Programın duyurusu...  
 </p></td>
