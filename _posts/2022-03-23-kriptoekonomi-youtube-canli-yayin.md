@@ -16,9 +16,9 @@ tags: videos Etkinlikler
 <td style="width:50%">
 <iframe width="224" height="126" src="https://www.youtube.com/9Gxk3pcZolo" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top, font:italic">
-<p>
+<p><em>
 Programın duyurusu...  
-</p></td>
+  </em></p></td>
 <td style="width:50%; vertical-align:top">
 <p>Bu da yayının YouTube linki.</p>
 </td></tr> 
