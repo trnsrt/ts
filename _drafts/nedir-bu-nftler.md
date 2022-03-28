@@ -3,7 +3,7 @@ Bu yazı dizimizde Web3 dünyasının ön plana çıkan NFT uygulama alanlarına
 Geçtiğimiz üç yazıda önce Web3 dünyasına giden yolun tarihçesini anlatmış sonrasında bu dünyada ön plana çıkacak beş alandan bahsetmiştik. Bu ve önümüzdeki birkaç yazıda bu beş alandan NFT dünyasına daha yakından bakmaya çalışacağız. 
 
 ### Nedir bu NFT?
-Duymayan kaldı mı NFT'leri gerçekten? "İyi de herkes konuşuyor ama ne demek tam anlamadık?" şeklinde bir sitem almamak için ne olduğunu yine dilimizin döndüğünce basit bir şekilde anlatmaya çalışalım. 
+Duymayan kaldı mı NFT'leri gerçekten? "İyi de herkes konuşuyor ama ne demek tam anlamadık!" şeklinde bir sitem almamak için ne olduğunu yine dilimizin döndüğünce basit bir şekilde anlatmaya çalışalım. 
 
 Terim olarak NFT Non-Fungible-Token'ın kısaltması. Bu ne demek peki? Tekil (eşsiz) belirteç. Çok teşekkürler açıklama için ama biraz daha açsanız iyi olmaz mı? Gelin açalım o zaman. 
 
@@ -20,7 +20,7 @@ Dijital dünyada ise bu kısıtlılık özelliği bulunmamakta. 1 ve 0'ları rah
 Peki o zaman dijital dünyada nasıl bir varlığa sahip olacağız? İşte burada dijital dünyada değişen 'sahiplik' tanımına geliyoruz. 
 
 ### Dijital dünyada sahiplik
-Dijital ürünlerin rahatça kopyalanabilmesi nedeniyle, ürünleri kilitlemeye ya da şifrelemeye çalışmak fayda etmiyor. Keza, görsel ürünlere arka tarafa 'watermark' yani damga koymak da işe yaramıyor. 
+Dijital ürünlerin rahatça kopyalanabilmesi nedeniyle, ürünleri kilitlemeye ya da şifrelemeye çalışmak fayda etmiyor. Keza, görsel ürünlerin arka tarafına 'watermark' yani damga koymak da işe yaramıyor. 
 
 Bu nedenle, 'sahiplik' anlamında bize öğretilen tüm kavramları yeniden oluşturmak gerekiyor dijital dünyada. Zira sahiplik bir ürünün tek kopyasına sahip olmak değil artık. Sahiplik o ürünün sahibi olduğunuzu tüm dünyaya ilan etmekten geçiyor. 
 
@@ -31,4 +31,4 @@ Blokzinciri sayesinde, artık herhangi bir dijital eseri yaratan bu eserin kendi
 Sanat eserleri de bu bağlamda kamuya açık ürünler haline geliyorlar. Önemli olan bu eserleri bilgisayarınızda tutmak değil. Bu eserin sahibi olduğunuzu tüm dünyaya kanıtlamak ki bu da blokzincirin işi. 
 
 ### Tokenlar
-İşte token dediğimiz kavram da blokzincirde bu sahipliği gösterene ufak kod parçacığı oluyor. Bu ufak programların en önemli yanı programlanabilir olmaları. Bu sayede özellikle ekonomik olarak büyük potansiyeller ortaya çıkıyor ki bunlara bir sonraki yazımızda değiniyor olacağız. 
+İşte token dediğimiz kavram da blokzincirde bu sahipliği gösteren ufak kod parçacığı oluyor. Bu ufak programların en önemli yanı programlanabilir olmaları. Bu sayede özellikle ekonomik olarak büyük potansiyeller ortaya çıkıyor ki bunlara bir sonraki yazımızda değineceğiz.
