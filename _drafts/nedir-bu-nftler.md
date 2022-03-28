@@ -7,6 +7,10 @@ Duymayan kaldı mı NFT'leri gerçekten? "İyi de herkes konuşuyor ama ne demek
 
 Terim olarak NFT Non-Fungible-Token'ın kısaltması. Bu ne demek peki? Tekil (eşsiz) belirteç. Çok teşekkürler açıklama için ama biraz daha açsanız iyi olmaz mı? Gelin açalım o zaman. 
 
+| ![NFT_ethereum](/assets/nft-7020230_800.jpg)|
+|:--:| 
+| *Image by [Pete Linforth](https://pixabay.com/users/thedigitalartist-202249/) from [Pixabay](https://pixabay.com/)*|
+
 Non-Fungible-Token kelimesini tek tek açıklayalım önce. **Token**, Türkçe olarak jeton, konuya biraz aşina olanların bildiği gibi **dijital dünyadaki bir varlığı tanımlamak için kullanılan küçük bir yazılım parçası** demek. İyi de bu ne demek tam olarak?
 
 Dijital dünya, esasında fiziki yani elle tutulur bir yanı olmayan, 1 ve 0'lardan oluşan bir sanal dünya. Fiziki ürünlerin üretilmesi emek ve zaman gerektirir ve doğaları gereği dünyamızdaki materyaller ile üretilirler. Dolayısıyla kısıtlı miktardadırlar. Bir ürün ancak kısıtlı ise değerli olur. Ne kadar fazla ise değeri o kadar azalır. Antalya'da Konyaaltı plajında kum satmaya çalışın bakalım - kimse almayacaktır :) 
