@@ -18,7 +18,7 @@ Peki o zaman dijital dünyada nasıl bir varlığa sahip olacağız? İşte bura
 ### Dijital dünyada sahiplik
 Dijital ürünlerin rahatça kopyalanabilmesi nedeniyle, ürünleri kilitlemeye ya da şifrelemeye çalışmak fayda etmiyor. Keza, görsel ürünlere arka tarafa 'watermark' yani damga koymak da işe yaramıyor. 
 
-İşte bu nedenle, 'sahiplik' anlamında bize öğretilen tüm kavramları yeniden oluşturmak gerekiyor dijital dünyada. Zira sahiplik bir ürünün tek kopyasına sahip olmak değil artık. Sahiplik o ürünün sahibi olduğunuzu tüm dünyaya ilan etmekten geçiyor. 
+Bu nedenle, 'sahiplik' anlamında bize öğretilen tüm kavramları yeniden oluşturmak gerekiyor dijital dünyada. Zira sahiplik bir ürünün tek kopyasına sahip olmak değil artık. Sahiplik o ürünün sahibi olduğunuzu tüm dünyaya ilan etmekten geçiyor. 
 
 İşte blokzinciri de burada devreye giriyor. Blokzincirinin özelliği, herkese açık ve geriye doğru değiştirilemez bir kayıt defteri olması. Herkese açık derken, her isteyenin yazabildiği, her isteyenin de bunu görebildiği bir defter. Üstelik bu kayıt silinemiyor ya da değiştirilmek istenirse orijinali her zaman orada kalıyor. 
 
