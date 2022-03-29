@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Nedir bu NFT'ler?"
+date:   2022-03-28 08:47:56 +0300
+categories: Genel
+tags: Yazılar, Web3, DeFi, DeFi'ye Giriş
+---
+
 Bu yazı dizimizde Web3 dünyasının ön plana çıkan NFT uygulama alanlarına göz atmaya çalışacağız. 
 
 Geçtiğimiz üç yazıda önce Web3 dünyasına giden yolun tarihçesini anlatmış sonrasında bu dünyada ön plana çıkacak beş alandan bahsetmiştik. Bu ve önümüzdeki birkaç yazıda bu beş alandan NFT dünyasına daha yakından bakmaya çalışacağız. 
@@ -32,3 +40,11 @@ Sanat eserleri de bu bağlamda kamuya açık ürünler haline geliyorlar. Öneml
 
 ### Tokenlar
 İşte token dediğimiz kavram da blokzincirde bu sahipliği gösteren ufak kod parçacığı oluyor. Bu ufak programların en önemli yanı programlanabilir olmaları. Bu sayede özellikle ekonomik olarak büyük potansiyeller ortaya çıkıyor ki bunlara bir sonraki yazımızda değineceğiz.
+
+---
+
+*Not 1: Bu yazı ilk olarak 28 Mart 2022'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı](https://medium.com/blockchainist-center/nedir-bu-nftler-2e2bded21464)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.* 
