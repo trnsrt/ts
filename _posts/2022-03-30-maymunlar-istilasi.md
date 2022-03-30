@@ -69,11 +69,9 @@ Hemen bu olayın arkasından iki gelişme daha yaşandı. Bunlardan birincisi 17
 
 ---
 
-*Not 1: Bu yazı ilk olarak 30 Mart 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı]()*
+*Not 1: Bu yazı ilk olarak 30 Mart 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/maymunlarin-web3u-istilasi/)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
 *Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
-
-
 
