@@ -1,5 +1,5 @@
 # Maymunlar Cehennemine Hoş Geldiniz
-Geçtiğimiz [yazıda](/genel/2022/03/30/maymunlar-istilasi.html) başladığımız CryptoPunks'ın haklarının Bored Ape Yacht Club (BAYC) yaratcısı Yuga Labs tarafından satın alınması hikayesine, Yuga Labs'ın gelecek planlarına bakarak devam ediyoruz. 
+Geçtiğimiz [yazıda](/genel/2022/03/30/maymunlar-istilasi.html) başladığımız CryptoPunks'ın haklarının Bored Ape Yacht Club (BAYC) yaratıcısı Yuga Labs tarafından satın alınması hikayesine, Yuga Labs'ın gelecek planlarına bakarak devam ediyoruz. 
 
 ## Kısa özet
 NFT dünyasının ilk koleksiyonlarından olan ve uzunca bir süre en pahalı koleksiyon olarak adlandırılan [CryptoPunks](https://cryptopunks.app/) (ve kuzeni [Meebits](https://www.larvalabs.com/project/meebits)) telif hakları, yakın zamanda koleksiyon değeri CryptoPunks'ı geçen [Bored Ape Yacht Club](https://boredapeyachtclub.com/#/)'ın kurucusu [Yuga Labs](https://yuga.com/) tarafından satın alındı. Konunun tüm detayı bir önceki [yazımızda](/genel/2022/03/30/maymunlar-istilasi.html)... 
@@ -16,7 +16,9 @@ Yuga Labs tarafından çıkarılan ApeCoin, yeni kurulan ApeCoin DAO'nun yöneti
 |:--:| 
 | *ApeCoin logosu. Kaynak: [Twitter](https://twitter.com/apecoin)*|
 
-Toplam 1 milyar adet olarak basılan tokenlerin %15'i Bored Ape Yacht Club (ve kuzenleri Mutant Ape Yacht Club ve Bored Ape Kennel Club) sahiplerine airdrop olarak dağıtıldı. Bu dağıtımdan her bir BAYC sahibine 1000 adet ApeCoin düştü. Genelde token fiyatlarının airdrop başlangıcında yüksek olduğunu sonra hızla düştüğünü görürüz. Burada da yaklaşık 10 dolardan çıkan tokenlerin bir ara 6 dolara düştüğünü görsek de, sonrasında geri toparlayarak 13 dolar seviyelerine geldi. Dolayısıyla bu airdrop, her bir BAYC NFT'si sahibine 130,000 ABD Doları havadan gelen para demek. Geçtiğimiz yıl Nisan ayında ilk çıktığında bir BAYC NFT'sini 200 dolara alan biri şu an isterse tanesini 300,000 ABD Dolarından satabilmesi yetmezmiş gibi şimdi bir de havadan para geliyor. Bazıları doğuştan şanslı oluyor galiba :)
+Toplam 1 milyar adet olarak basılan tokenlerin %15'i Bored Ape Yacht Club (ve kuzenleri Mutant Ape Yacht Club ve Bored Ape Kennel Club) sahiplerine airdrop olarak dağıtıldı. Bu dağıtımdan her bir BAYC sahibine 1000 adet ApeCoin düştü. Burada ilginç bir olaya tanık olduk. 
+
+Genelde token fiyatlarının airdrop başlangıcında yüksek olduğunu sonra hızla düştüğünü görürüz. Burada da yaklaşık 10 dolardan çıkan tokenlerin bir ara 6 dolara düştüğünü görsek de, sonrasında geri toparlayarak 13 dolar seviyelerine geldi. Dolayısıyla bu airdrop, her bir BAYC NFT'si sahibine 130,000 ABD Doları havadan gelen para demek. Geçtiğimiz yıl Nisan ayında ilk çıktığında bir BAYC NFT'sini 200 dolara alan biri şu an isterse tanesini 300,000 ABD Dolarından satabilmesi yetmezmiş gibi şimdi bir de havadan para geliyor. Bazıları doğuştan şanslı oluyor galiba :)
 
 Bu arada kalan %85 nerede diye soracak olursanız: %47'si yukarıda bahsettiğimiz ApeCoin DAO'nun yöneteceği ekosistemi geliştirme fonuna, %10'u Yuga Labs'a, %8'i ise BAYC kurucularına verildi. %6'sı ise bir vakıfa bağışlandı. Kalan %14 ise 'token çıkmasına yardım edenlere' verildi (burası belirsiz ama bu kadar ünlünün BAYC'leri para vererek aldığını düşünecek kadar saf değilsiniz umarım). 
 
