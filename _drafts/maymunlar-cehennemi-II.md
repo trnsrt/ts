@@ -1,24 +1,22 @@
-
-
 # Maymunlar Cehennemine Hoş Geldiniz
-Geçtiğimiz [yazıda]() başladığımız CryptoPunks'ın haklarının Bored Ape Yacht Club (BAYC) tarafından satın alınması hikayesine, BAYC'nin kurucusu Yuga Labs doludizgin süren hikayesi ile devam ediyoruz. 
+Geçtiğimiz [yazıda](/genel/2022/03/30/maymunlar-istilasi.html) başladığımız CryptoPunks'ın haklarının Bored Ape Yacht Club (BAYC) yaratcısı Yuga Labs tarafından satın alınması hikayesine, Yuga Labs'ın gelecek planlarına bakarak devam ediyoruz. 
 
 ## Kısa özet
-NFT dünyasının ilk koleksiyonlarından olan uzunca bir süre en pahalı koleksiyon olarak adlandırılan [CryptoPunks](https://cryptopunks.app/) (ve kuzeni [Meebits](https://www.larvalabs.com/project/meebits)) telif hakları, başarılı PR'ı sayesinde CryptoPunks'ı değer olarak geçen [Bored Ape Yacht Club](https://boredapeyachtclub.com/#/) (BAYC) kurucusu [Yuga Labs](https://yuga.com/) tarafından satın alındı. Konunun tüm detayı bir önceki [yazımızda]()... 
+NFT dünyasının ilk koleksiyonlarından olan ve uzunca bir süre en pahalı koleksiyon olarak adlandırılan [CryptoPunks](https://cryptopunks.app/) (ve kuzeni [Meebits](https://www.larvalabs.com/project/meebits)) telif hakları, yakın zamanda koleksiyon değeri CryptoPunks'ı geçen [Bored Ape Yacht Club](https://boredapeyachtclub.com/#/)'ın kurucusu [Yuga Labs](https://yuga.com/) tarafından satın alındı. Konunun tüm detayı bir önceki [yazımızda](/genel/2022/03/30/maymunlar-istilasi.html)... 
 
 ## Satın alma sonrası yaşanan olaylar, olaylar... 
-Yuga Labs henüz 14 aylık bir proje. Çıkardıkları BAYC henüz bir yaşına girmedi bile ancak görünen o ki, NFT’lerin dünyasının en ağır toplarından biri olmaya adaylar. Projelerinin ve hedeflerinin arkası kesilmiyor. Gelin son bir ayda neler çıktı hızlıca bakalım. 
+Yuga Labs 14 aylık bir proje. Bayrak projeleri BAYC henüz bir yaşına girmedi bile ancak görünen o ki, NFT dünyasının en ağır toplarından biri olmaya adaylar. Projelerinin ve hedeflerinin arkası kesilmiyor. Gelin son bir ayda neler çıktı hızlıca bakalım. 
 
 ### ApeCoin
 17 Mart tarihinde BAYC sahiplerinin [uzunca bir süredir beklediği](https://www.theblockcrypto.com/linked/119966/bored-ape-yacht-club-plans-to-launch-its-own-token-in-q1-of-2022) olay gerçekleşti ve Yugo Labs, [ApeCoin](https://apecoin.com/) isimli tokeni [çıkardı](https://twitter.com/apecoin/status/1504201556165644298) ve BAYC sahiplerine bir airdrop gerçekleştirdi. Ne demek şimdi bu? Gelin hızlıca bakalım: 
 
-Yuga Labs tarafından çıkarılan ApeCoin, yeni kurulan ApeCoin DAO'nun yönetim tokeni. Bunun dışında Yuga Labs'ın bundan sonraki yaratacağı aktivitelerde (birazdan geleceğiz bunlara) alışveriş aracı olarak kullanılmak, ayrıca token sahiplerine çeşitli etkinliklere katılım hakkı vermek gibi işlevleri de var. 
+Yuga Labs tarafından çıkarılan ApeCoin, yeni kurulan ApeCoin DAO'nun yönetim tokeni. Bunun dışında Yuga Labs'ın bundan sonra yaratacağı aktivitelerde (birazdan geleceğiz bunlara) alışveriş aracı olarak kullanılmak ve token sahiplerine çeşitli etkinliklere katılım hakkı vermek gibi işlevleri de var. 
 
 |![ape_coin_logo](/assets/apecoin_logo.jpg)|
 |:--:| 
 | *ApeCoin logosu. Kaynak: [Twitter](https://twitter.com/apecoin)*|
 
-Toplam 1 milyar olarak basılan tokenlerin %15'i Bored Ape Yacht Club (ve kuzenleri Mutant Ape Yacht Club ve Bored Ape Kennel Club) sahiplerine airdrop olarak dağıtıldı. Akıl almaz bir olay oldu bu. Neden derseniz; her bir BAYC sahibine 1000 ApeCoin verildi. Genelde token fiyatlarının airdrop başlangıcında yüksek olduğunu sonra hızla düştüğünü görürüz. Burada da yaklaşık 10 dolardan çıkan tokenlerin bir ara 6 dolara düştüğünü görsek de, sonrasında geri toparlayarak 13 dolar seviyelerine geldi. Dolayısıyla bu airdrop, her bir BAYC NFT'si sahibine 130,000 ABD Doları havadan gelen para demek. Geçtiğimiz yıl Nisan ayında ilk çıktığında bir BAYC NFT'sini 200 dolara alan biri şu an isterse tanesini 300,000 ABD Dolarından satabilmesi yetmezmiş gibi şimdi bir de havadan para geliyor. Bazıları doğuştan şanslı oluyor galiba :)
+Toplam 1 milyar adet olarak basılan tokenlerin %15'i Bored Ape Yacht Club (ve kuzenleri Mutant Ape Yacht Club ve Bored Ape Kennel Club) sahiplerine airdrop olarak dağıtıldı. Bu dağıtımdan her bir BAYC sahibine 1000 adet ApeCoin düştü. Genelde token fiyatlarının airdrop başlangıcında yüksek olduğunu sonra hızla düştüğünü görürüz. Burada da yaklaşık 10 dolardan çıkan tokenlerin bir ara 6 dolara düştüğünü görsek de, sonrasında geri toparlayarak 13 dolar seviyelerine geldi. Dolayısıyla bu airdrop, her bir BAYC NFT'si sahibine 130,000 ABD Doları havadan gelen para demek. Geçtiğimiz yıl Nisan ayında ilk çıktığında bir BAYC NFT'sini 200 dolara alan biri şu an isterse tanesini 300,000 ABD Dolarından satabilmesi yetmezmiş gibi şimdi bir de havadan para geliyor. Bazıları doğuştan şanslı oluyor galiba :)
 
 Bu arada kalan %85 nerede diye soracak olursanız: %47'si yukarıda bahsettiğimiz ApeCoin DAO'nun yöneteceği ekosistemi geliştirme fonuna, %10'u Yuga Labs'a, %8'i ise BAYC kurucularına verildi. %6'sı ise bir vakıfa bağışlandı. Kalan %14 ise 'token çıkmasına yardım edenlere' verildi (burası belirsiz ama bu kadar ünlünün BAYC'leri para vererek aldığını düşünecek kadar saf değilsiniz umarım). 
 
@@ -49,9 +47,9 @@ Yuga Labs kendisini metaverse'in içindeki önemli oyunculardan biri olarak pozi
 
 &nbsp;
 
-Bored Ape Yacht Club, Mutant Ape Yacht Club, Bored Ape Kennel Club gibi kendi ürettikleri ve CryptoPunks ve Meebits gibi sonradan satın aldıkları koleksiyonlar dışında, World of Women, Cool Cats, CrypToadz gibi başka koleksiyonlar ile anlaşma yaparak, bütün bu koleksiyon sahiplerini Otherside içinde aktif hale getirecekler gibi görünüyor. Bu alanda bir oyun geliştirmeye çalıştıkları sızan bilgiler arasında. 
+Bored Ape Yacht Club, Mutant Ape Yacht Club, Bored Ape Kennel Club gibi kendi ürettikleri ve CryptoPunks ve Meebits gibi sonradan satın aldıkları koleksiyonlar dışında, World of Women, Cool Cats, CrypToadz gibi başka koleksiyonlar ile anlaşma yaparak, bütün bu koleksiyon sahiplerini Otherside içinde aktif hale getirecekler gibi görünüyor. Bu alanda bir oyun geliştirmeye çalıştıkları da sızan bilgiler arasında. 
 
-Daha önce de pek çok kez yazdığımız gibi Web3 girişimlerinin başarısının ardındaki en kritik konulardan biri topluluk. Yuga Labs, kendi koleksiyonları ile oluşturdukları 'elit' kulübün ardından, ApeCoin ile çok daha geniş kesimlere ulaşmayı ve ApeCoin DAO ile bu geniş kesimden bir topluluk oluşturmayı da başardı. 160 bine yaklaşan üyesi ile Discord'da en kalabalık ve en aktif [grup](https://discord.com/invite/3P5K3dzgdB) Bored Ape Yacht Club bunun örneklerinden sadece biri. 
+Daha önce de pek çok kez yazdığımız gibi Web3 girişimlerinin başarısının ardındaki en kritik konulardan biri topluluk. Yuga Labs, kendi koleksiyonları ile oluşturdukları 'elit' bir kulübün ardından, ApeCoin ile çok daha geniş kesimlere ulaşmayı ve ApeCoin DAO ile bu geniş kesimden bir topluluk oluşturmayı da başardı. 160 bine yaklaşan üyesi ile Discord'da en kalabalık ve en aktif [grup](https://discord.com/invite/3P5K3dzgdB) Bored Ape Yacht Club bunun örneklerinden sadece biri. 
 
 ApeCoin ise yüksek ihtimalle bu evrendeki tüm alışverişlerde kullanılacak bir kriptopara olacak. Muhtemelen ApeCoin DAO'nun yönetimi altında bulunan 470 milyonun üzerindeki token (şu anki değeri yaklaşık 6 milyar ABD Doları) bu ekosistemi büyütmek için de kullanılacak. Bu arada hemen belirtelim Metaverse'in sahibi ApeCoin değil, Yuga Labs, dolayısı ile Yuga Labs'in yatırımcılardan aldığı 450 milyon doların bir kısmı da kurulacak yeni ortaklıklar için kullanılacak. 
 
