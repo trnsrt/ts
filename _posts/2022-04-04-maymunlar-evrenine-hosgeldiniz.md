@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Maymunlar Evrenine Hoşgeldiniz"
-date:   2022-04-05 17:47:56 +0300
+date:   2022-04-04 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
 ---
@@ -76,7 +76,7 @@ Yuga Labs, metaverse alanında şu an yaşanan 'altına hücum' yarışı içind
 
 ---
 
-*Not 1: Bu yazı ilk olarak 5 Nisan 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı])*
+*Not 1: Bu yazı ilk olarak 4 Nisan 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı(https://www.btchaber.com/maymunlar-evrenine-hosgeldiniz/])*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
