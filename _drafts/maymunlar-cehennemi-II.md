@@ -5,7 +5,13 @@ Geçtiğimiz [yazıda](/genel/2022/03/30/maymunlar-istilasi.html) başladığım
 NFT dünyasının ilk koleksiyonlarından olan ve uzunca bir süre en pahalı koleksiyon olarak adlandırılan [CryptoPunks](https://cryptopunks.app/) (ve kuzeni [Meebits](https://www.larvalabs.com/project/meebits)) telif hakları, yakın zamanda koleksiyon değeri CryptoPunks'ı geçen [Bored Ape Yacht Club](https://boredapeyachtclub.com/#/)'ın kurucusu [Yuga Labs](https://yuga.com/) tarafından satın alındı. Konunun tüm detayı bir önceki [yazımızda](/genel/2022/03/30/maymunlar-istilasi.html)... 
 
 ## Satın alma sonrası yaşanan olaylar, olaylar... 
-Yuga Labs 14 aylık bir proje. Bayrak projeleri BAYC henüz bir yaşına girmedi bile ancak görünen o ki, NFT dünyasının en ağır toplarından biri olmaya adaylar. Projelerinin ve hedeflerinin arkası kesilmiyor. Gelin son bir ayda neler çıktı hızlıca bakalım. 
+Yuga Labs 14 aylık bir proje. Bayrak projeleri BAYC henüz bir yaşına girmedi bile ancak görünen o ki, NFT dünyasının en ağır toplarından biri olmaya adaylar. Projelerinin ve hedeflerinin arkası kesilmiyor. 
+
+|![ape_cookie](/assets/cakes-618102_800.jpg)|
+|:--:| 
+| *Image by [Michael Baragwanath](https://pixabay.com/users/envasa-679813/) from [Pixabay](https://pixabay.com/)*|
+
+Gelin son bir ayda neler çıktı hızlıca bakalım. 
 
 ### ApeCoin
 17 Mart tarihinde BAYC sahiplerinin [uzunca bir süredir beklediği](https://www.theblockcrypto.com/linked/119966/bored-ape-yacht-club-plans-to-launch-its-own-token-in-q1-of-2022) olay gerçekleşti ve Yugo Labs, [ApeCoin](https://apecoin.com/) isimli tokeni [çıkardı](https://twitter.com/apecoin/status/1504201556165644298) ve BAYC sahiplerine bir airdrop gerçekleştirdi. Ne demek şimdi bu? Gelin hızlıca bakalım: 
@@ -16,9 +22,9 @@ Yuga Labs tarafından çıkarılan ApeCoin, yeni kurulan ApeCoin DAO'nun yöneti
 |:--:| 
 | *ApeCoin logosu. Kaynak: [Twitter](https://twitter.com/apecoin)*|
 
-Toplam 1 milyar adet olarak basılan tokenlerin %15'i Bored Ape Yacht Club (ve kuzenleri Mutant Ape Yacht Club ve Bored Ape Kennel Club) sahiplerine airdrop olarak dağıtıldı. Bu dağıtımdan her bir BAYC sahibine 1000 adet ApeCoin düştü. Burada ilginç bir olaya tanık olduk. 
+Toplam 1 milyar adet olarak basılan tokenlerin %15'i Bored Ape Yacht Club (ve kuzenleri Mutant Ape Yacht Club ve Bored Ape Kennel Club) sahiplerine airdrop olarak dağıtıldı. Bu dağıtımdan her bir BAYC sahibine 1000 adet ApeCoin düştü. "İyi para mı bu?" İyi de ne demek - müthiş! Gelin bakalım ne anlama geliyor bu airdop:
 
-Genelde token fiyatlarının airdrop başlangıcında yüksek olduğunu sonra hızla düştüğünü görürüz. Burada da yaklaşık 10 dolardan çıkan tokenlerin bir ara 6 dolara düştüğünü görsek de, sonrasında geri toparlayarak 13 dolar seviyelerine geldi. Dolayısıyla bu airdrop, her bir BAYC NFT'si sahibine 130,000 ABD Doları havadan gelen para demek. Geçtiğimiz yıl Nisan ayında ilk çıktığında bir BAYC NFT'sini 200 dolara alan biri şu an isterse tanesini 300,000 ABD Dolarından satabilmesi yetmezmiş gibi şimdi bir de havadan para geliyor. Bazıları doğuştan şanslı oluyor galiba :)
+Bu tip airdrop dağıtımlarında genelde başlangıçta token fiyatı yüksek seyredip kısa süre sonra hızla düşer. ApeCoin'de de benzer şekilde yaklaşık 10 dolardan çıkan tokenlerin bir ara 6 dolara düştüğünü ancak sonrasında trendin aksi bir hareket ile geri toparlayarak 13 dolar seviyelerine geldiğini gördük. Basit bir hesaplama ile bu airdrop, her bir BAYC NFT'si sahibine 130,000 ABD Doları havadan gelen para demek. 2021 yılı Nisan ayında ilk çıktığında bir BAYC NFT'sini 200 dolara alan biri şu an isterse tanesini 300,000 ABD Dolarından satabilmesi yetmezmiş gibi şimdi bir de havadan para geliyor. Bazıları doğuştan şanslı oluyor galiba :)
 
 Bu arada kalan %85 nerede diye soracak olursanız: %47'si yukarıda bahsettiğimiz ApeCoin DAO'nun yöneteceği ekosistemi geliştirme fonuna, %10'u Yuga Labs'a, %8'i ise BAYC kurucularına verildi. %6'sı ise bir vakıfa bağışlandı. Kalan %14 ise 'token çıkmasına yardım edenlere' verildi (burası belirsiz ama bu kadar ünlünün BAYC'leri para vererek aldığını düşünecek kadar saf değilsiniz umarım). 
 
