@@ -1,20 +1,28 @@
-# Maymunlar Cehennemine Hoş Geldiniz
+---
+layout: post
+title:  "Maymunlar Evrenine Hoşgeldiniz"
+date:   2022-04-05 17:47:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
+
 Geçtiğimiz [yazıda](/genel/2022/03/30/maymunlar-istilasi.html) başladığımız CryptoPunks'ın haklarının Bored Ape Yacht Club (BAYC) yaratıcısı Yuga Labs tarafından satın alınması hikayesine, Yuga Labs'ın gelecek planlarına bakarak devam ediyoruz. 
 
 ## Kısa özet
-NFT dünyasının ilk koleksiyonlarından olan ve uzunca bir süre en pahalı koleksiyon olarak adlandırılan [CryptoPunks](https://cryptopunks.app/) (ve kuzeni [Meebits](https://www.larvalabs.com/project/meebits)) telif hakları, yakın zamanda koleksiyon değeri CryptoPunks'ı geçen [Bored Ape Yacht Club](https://boredapeyachtclub.com/#/)'ın kurucusu [Yuga Labs](https://yuga.com/) tarafından satın alındı. Konunun tüm detayı bir önceki [yazımızda](/genel/2022/03/30/maymunlar-istilasi.html)... 
+NFT dünyasının ilk koleksiyonlarından olan ve uzunca bir süre en pahalı koleksiyon olarak adlandırılan [CryptoPunks](https://cryptopunks.app/)'ın (ve kuzeni [Meebits](https://www.larvalabs.com/project/meebits)'in) telif hakları, yakın zamanda koleksiyon değeri CryptoPunks'ı geçen [Bored Ape Yacht Club](https://boredapeyachtclub.com/#/)'ın kurucusu [Yuga Labs](https://yuga.com/) tarafından satın alındı. Konunun tüm detayı bir önceki [yazımızda](/genel/2022/03/30/maymunlar-istilasi.html)... 
 
 ## Satın alma sonrası yaşanan olaylar, olaylar... 
-Yuga Labs 14 aylık bir proje. Bayrak projeleri BAYC henüz bir yaşına girmedi bile ancak görünen o ki, NFT dünyasının en ağır toplarından biri olmaya adaylar. Projelerinin ve hedeflerinin arkası kesilmiyor. 
+Yuga Labs 14 aylık bir proje. Bayrak projeleri BAYC henüz bir yaşına girmedi bile ancak görünen o ki, NFT dünyasının en ağır toplarından biri olmaya aday bir ekip. Projelerinin ve hedeflerinin arkası kesilmiyor. 
 
 |![ape_cookie](/assets/cakes-618102_800.jpg)|
 |:--:| 
 | *Image by [Michael Baragwanath](https://pixabay.com/users/envasa-679813/) from [Pixabay](https://pixabay.com/)*|
 
-Gelin son bir ayda neler çıktı hızlıca bakalım. 
+Gelin son bir ayda neler oldu hızlıca bakalım: 
 
 ### ApeCoin
-17 Mart tarihinde BAYC sahiplerinin [uzunca bir süredir beklediği](https://www.theblockcrypto.com/linked/119966/bored-ape-yacht-club-plans-to-launch-its-own-token-in-q1-of-2022) olay gerçekleşti ve Yugo Labs, [ApeCoin](https://apecoin.com/) isimli tokeni [çıkardı](https://twitter.com/apecoin/status/1504201556165644298) ve BAYC sahiplerine bir airdrop gerçekleştirdi. Ne demek şimdi bu? Gelin hızlıca bakalım: 
+17 Mart tarihinde BAYC sahiplerinin [uzunca bir süredir beklediği](https://www.theblockcrypto.com/linked/119966/bored-ape-yacht-club-plans-to-launch-its-own-token-in-q1-of-2022) olay gerçekleşti ve Yugo Labs, [ApeCoin](https://apecoin.com/) isimli tokeni [çıkardı](https://twitter.com/apecoin/status/1504201556165644298) ve BAYC sahiplerine bir airdrop gerçekleştirdi. Ne demek şimdi bu?  
 
 Yuga Labs tarafından çıkarılan ApeCoin, yeni kurulan ApeCoin DAO'nun yönetim tokeni. Bunun dışında Yuga Labs'ın bundan sonra yaratacağı aktivitelerde (birazdan geleceğiz bunlara) alışveriş aracı olarak kullanılmak ve token sahiplerine çeşitli etkinliklere katılım hakkı vermek gibi işlevleri de var. 
 
@@ -34,7 +42,7 @@ Bu arada kalan %85 nerede diye soracak olursanız: %47'si yukarıda bahsettiğim
 ApeCoin'in çıkmasından yaklaşık bir hafta sonra 22 Mart'ta Yuga Labs, 4 milyar ABD Doları piyasa değeri üzerinden tam 450 milyon dolar yatırım aldığını açıkladı. Hem de web3 dünyasının en ağır toplarından a16z önderliğindeki bir girişim sermayesi grubundan. 14 ay önce kurulmuş bir şirket! Peki yatırımcılar neden bu parayı veriyorlar bu kadar yeni ve sadece 46 kişinin çalıştığı bir girişime? Gelecek için tabii. İşte burada da Yuga Labs'ın yeni başka bir projesi göze çarpıyor. 
 
 ### Animoca Brands işbirliği
-Yuga Labs'in PR aktiviteleri dışında büyümesine katkı veren en önemli konu yaptığı işbirlikleri. Örneğin Aralık ayında Adidas ile yaptıkları [işbirliği](https://cryptobriefing.com/the-metaverse-is-cool-now-so-adidas-bought-bored-ape-nft/) oldukça konuşuldu. Sonrasında 11 Mart'ta açıkladıkları [Sandbox](https://www.sandbox.game/en/)'ın yaratıcısı olan Animoca Brands [işbirliği](https://twitter.com/BoredApeYC/status/1502056861624946688) ile aslında Yuga Labs'in yol haritası aşağı yukarı ortaya çıkmaya başladı: Metaverse. 
+Yuga Labs'in PR aktiviteleri dışında büyümesine katkı veren en önemli konu yaptığı işbirlikleri. Örneğin, Aralık ayında Adidas ile yaptıkları [işbirliği](https://cryptobriefing.com/the-metaverse-is-cool-now-so-adidas-bought-bored-ape-nft/) oldukça konuşuldu. Sonrasında 11 Mart'ta açıkladıkları [Sandbox](https://www.sandbox.game/en/)'ın yaratıcısı olan Animoca Brands [işbirliği](https://twitter.com/BoredApeYC/status/1502056861624946688) ile aslında Yuga Labs'in yol haritası aşağı yukarı ortaya çıkmaya başladı: Metaverse. 
 
 ## Yuga Labs ne yapmak, nereye varmak istemektedir?
 
@@ -64,3 +72,12 @@ ApeCoin ise yüksek ihtimalle bu evrendeki tüm alışverişlerde kullanılacak 
 ### Sonuç 
 
 Yuga Labs, metaverse alanında şu an yaşanan 'altına hücum' yarışı içinde öne çıkan girişimlerden biri. Web2 dünyasının ağır topu Facebook'un ismini Meta'ya çevirip, sahip olduğu Quest gözlükleri ve milyarlarca doları ile öne geçtiği bu yarışa, Web3 dünyasından gelen bir karşı atak adeta. Tam bir Web3 girişimi olup olmadığı tartışılan ve bu alanda rakipsiz olması nedeniyle kimilerinin eleştiri oklarının hedefi olan girişim, bakalım metaverse dünyasında hayal ettiklerini gerçekleştirerek merkezi yapılara karşı bir rakip olabilecek mi? Hep birlikte göreceğiz. 
+
+
+---
+
+*Not 1: Bu yazı ilk olarak 5 Nisan 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı])*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
