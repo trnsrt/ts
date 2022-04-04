@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Where do NFT's reside in?"
-date:   2022-04-02 17:47:56 +0300
+date:   2022-04-03 17:47:56 +0300
 categories: Genel
 tags: Yazılar, Articles
 ---
@@ -35,6 +35,6 @@ How does 'minting' work? Well, the code generated is written on blockchain and v
 'This is fine but how about the fact that, I as an observer see and download that digital image to my computer?'. This is a question that any person that meets with digital art would raise. That question requires a bit of explanation that we will try to address in our next post.
 
 ---
-*This piece is [first published]() in [BlockchainIST Center](https://medium.com/blockchainist-center) on April 4th, 2022.*
+*This piece is [first published](https://medium.com/bcistcenter/where-do-nfts-reside-in-b485c528262b) in [BlockchainIST Center](https://medium.com/blockchainist-center) on April 3rd, 2022.*
 
 *None of the views expressed in this article should be considered as investment advice*
