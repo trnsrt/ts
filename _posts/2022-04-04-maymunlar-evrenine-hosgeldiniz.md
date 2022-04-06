@@ -6,7 +6,6 @@ categories: Genel
 tags: Yazılar, DeFi
 ---
 
-
 Geçtiğimiz [yazıda](/genel/2022/03/30/maymunlar-istilasi.html) başladığımız CryptoPunks'ın haklarının Bored Ape Yacht Club (BAYC) yaratıcısı Yuga Labs tarafından satın alınması hikayesine, Yuga Labs'ın gelecek planlarına bakarak devam ediyoruz. 
 
 ## Kısa özet
