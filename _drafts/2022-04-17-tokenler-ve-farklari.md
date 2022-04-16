@@ -34,7 +34,7 @@ Günümüzde kullandığımız itibari paralar birbiri ile değiştirilebilir ö
 
  | ![ETH_fiyat_grafigi](/assets/ETH-2017-20_800.jpg)|
 |:--:| 
-| *Mayıs 2017-Mart 2020 arası ETH'nin fiyat grafiği. Kaynak:[Coingecko](https://www.coingecko.com/en/coins/ethereum)*|
+| *Mayıs 2017-Mart 2020 arası ETH'nin fiyat grafiği. Kaynak: [Coingecko](https://www.coingecko.com/en/coins/ethereum)*|
 
 Sonrasında ise rüzgar tersine döndü. 2018 yılının Şubat ayından sonra bu sefer ters döngüye girildi. ICO rüzgarı dindi ve yeni çıkan projelere talep kalmadı. Bu da ETH talebinin azalttı. Öte yandan, ICO'larda ETH toplayan projeler masraflarını karşılamak için hazinelerinde duran ETH'leri satmaya başladılar. Bu da iki yıl süren bir süreçte ETH'nin 100 ABD Doları seviye gerilemesine neden oldu. 
 
