@@ -32,7 +32,7 @@ Günümüzde kullandığımız itibari paralar birbiri ile değiştirilebilir ö
 
 2015 yılında sunulan değiştirilemez tokenler, sonrasında yaşanan ICO (initial coin offering - halka arzlar9 çılgınlığının da öncüsü oldu. Projeler, halktan para toplamak için ERC-20 standardında token çıkardılar ve bunları Ethereum sisteminde ETH karşılığında halka sattılar. Bu tokenleri almak isteyen kitle ilk olarak ETH tokeni almak zorunda idi. Bu da o dönemde ETH'ye olan talebi ciddi şekilde artırdı. ETH fiyatları bir anda 1400 ABD Doları seviyesine geldi. 
 
- | ![ETH_fiyat_grafigi](/assets/ETH-2017-18_800.jpg)|
+ | ![ETH_fiyat_grafigi](/assets/ETH-2017-20_800.jpg)|
 |:--:| 
 | *Mayıs 2017-Mart 2020 arası ETH'nin fiyat grafiği Kaynak:[Coingecko](https://www.coingecko.com/en/coins/ethereum)*|
 
