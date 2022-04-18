@@ -19,8 +19,6 @@ Ethereum kurucu ekibi sistem üzerindeki işlem yoğunluğunu azaltabilmek için
 
 Aslına bakarsanız, geliştirici ekip Haziran diye bir tarih vermedi, bu Ethereum’un iç dinamiklerine bakılarak ortaya attığı bir iddia. Ekip ısrarla tarih vermekten kaçınıyor. 
 
-Bütün bu değişikler olurken ve Haziran ayı hedef olarak beklenirken, bu tarihin gecikeceğinin açıklanması konuyu dışarıdan takip edenler için oldukça hayal kırıklığı yaratmış durumda. (Aslına bakarsanız, geliştirici ekip Haziran diye bir tarih vermedi, bu dışarıdan konuya ilgi duyanların ortaya attığı bir iddia. Ekip ısrarla tarih vermekten kaçınıyor.
-
 Yeni geliştirmenin önde gelen isimlerinden [Tim Beiko](https://twitter.com/TimBeiko)'nun geçtiğimiz hafta [Laura Shin ile yaptığı podcast'e göre](https://open.spotify.com/episode/71A8HGqWNdrl1vt45GmVUR?si=dkrT2nJeQwG1PfKSGtAXbA&context=spotify%3Ashow%3A1cJrrfGY1SKBIRn5noKSAf) göre bu tarihin Haziran olmadığı kesin. Henüz öngörülemeyen 'bilinmezlerden' dolayı bir tarih de vermek istemiyor Tim, ancak satır arasından '1 ile 5 ay arası' bir süreden bahsediyor.
 
 Bu arada, başlangıçta Ethereum 2.0 olarak adlandırılan bu değişim sürecinin ismi de değişmiş durumda.  Kısacası, şu anki sistem (eth1) kalıyor ve PoS mekanizması kullanan bir sisteme (eth2) dönüşüyor. Ethereum dünyası buna Ethereum 2.0 yerine birleşme (ingilizcede 'The Merge') [adını veriyor](https://blog.ethereum.org/2022/01/24/the-great-eth2-renaming/).
