@@ -8,7 +8,7 @@ Efendim, pek çoğunuzun bildiği gibi Ethereum kripto dünyasında Bitcoin'in a
 
 Bu temel felsefe ile yola çıkan Ethereum ekibi başlarına gelen türlü soruna rağmen (DAO hack denen ölümcül hastalıktan kurtulmaktan, Vitalik dışında kurucu ekibin büyük bir kısmının zamanla topluluktan ayrılmasına kadar) Bitcoin'den sonra bu dünyada en büyük ağırlığa sahip oyuncu olmayı başardı. Öyle ki, 2020 yılı başında hayatımıza giren merkeziyetsiz finans ve arkasından gelen NFT dünyasının neredeyse %90'ı Ethereum blokzinciri üzerine kuruldu. 
 
-Gelgelelim, burası teknoloji arenası. Dertler de, fırsatlar da bitmiyor. Başına gelen badireleri birbir atlatan Ethereum blokzinciri bu sefer de, DeFi ve NFT dünyasının yoğun talebi karşısında sıkıntıya girmeye başladı. Daha önce 5-10 dolara yapılan işlemler artık 50-100 dolarlara yapılmaya başlandı. Her ne kadar bu durum Ethereum'a olan ilgiyi azaltmadıysa da, zaman içinde bu durumu fırsat bilen rakip zincirlerin ucuz ve hızlı işlem yapabilmeleri Ethereum'un pazar payını %65'lere doğru çekti. 
+Gelgelelim, burası teknoloji arenası. Dertler de, fırsatlar da bitmiyor. Başına gelen badireleri birbir atlatan Ethereum blokzinciri bu sefer de, DeFi ve NFT dünyasının yoğun talebi karşısında sıkıntıya girmeye başladı. Daha önce 5-10 dolara yapılan işlemler artık 50-100 dolarlara yapılmaya başlandı. Her ne kadar bu durum Ethereum'a olan ilgiyi azaltmadıysa da, zaman içinde bu durumu fırsat bilen rakip zincirlerin ucuz ve hızlı işlem yapabilmeleri Ethereum'un pazar payını %54'lere doğru çekti. 
 
 |![coingecko_tvl](/assets/coingecko_tvl_Q1_2022.png)|
 |:--:| 
