@@ -29,10 +29,9 @@ Kişisel yorumumu soracak olursanız, geçtiğimiz yıl içinde konuyu takip ede
 
 Şu an yaşanan birkaç aylık gecikme aslında gayet normal. Havada uçan bir uçağı tamir etmeye ve değiştirmeye çalışıyorsunuz. Gecikmeler olabilir. Soru işareti 'bu gecikmeler daha ne kadar devam edecek?'. Bu ekibin yaşayacağı sorunlara bağlı. Son yapılan testlerde sorunlar çıksa da bunlar çözülmüş durumda, yani ilerleme var. Ekip bundan sonra ne yapacağını biliyor. Örneğin, artık sistemi küçük bir grup onaylayıcı ile canlı olarak test etmeye başlıyorlar. Burada onaylayıcı tarafında çıkan sorunları önceden görüp sisteme zarar getirmeden çözebilecekler. 
 
-'Sadede gel' diyenlere cevabım, "Yeni sistemin devreye girmesi, 2022 yılı içinde bitme ihtimalini eskiye göre daha kuvvetli görüyorum" olacak. 
+"Sadede gel" diyeceklere cevabım, "Yeni sistemin (yani birleşmenin) 2022 yılı içinde gerçekleşmesini eskiye göre daha yüksek bir ihtimal olarak görüyorum" olacak. 
 
-Bu arada birkaç konuyu da ekleyelim: PoS mekanizmasını güvenli hale getirmek için ETH rehin etmiş olanlar, yeni sistem geldiğinde paralarını hemen geri çekebileceklerinin hayalini kurmasınlar. Para çekmelerin başlaması için herşey bittikten sonra bir altı ay kadar daha beklemek gerekecek. Öte yandan, PoS'a geçiş ile birlikte eskiden 4.7 milyon olan yıllık ETH basımı 0.5 milyona inecek. Eğer EIP-1559 ile ortaya çıkan ETH yakımı bu şekilde devam ederse, yıllık 2.8 milyon ETH ise yakılacak. Bu da net olarak senelik ETH adedinin 2.3 milyon azalması anlamına geliyor. 
-
+Bu arada birkaç konuyu da ekleyelim: PoS mekanizmasını güvenli hale getirmek için ETH rehin etmiş olanlar, yeni sistem geldiğinde paralarını hemen geri çekebileceklerinin hayalini kurmasınlar. Para çekmenin başlaması için herşey bittikten sonra bir altı ay kadar daha beklemek gerekecek. Öte yandan, PoS'a geçiş ile birlikte eskiden 4.7 milyon olan yıllık ETH basımı 0.5 milyona inecek. Eğer EIP-1559 ile ortaya çıkan ETH yakımı bu şekilde devam ederse, yıllık 2.8 milyon ETH ise yakılmış olacak. Bu da net olarak dolaşımdaki ETH adedinin senede 2.3 milyon azalması anlamına geliyor. 
 
 ### Sonuç 
 Ethereum, çok büyük bir evrimden geçiyor. Bu süreçte, başlangıçtaki hedeflerin değişen koşullara göre revize edilmesi ya da gecikmeler olması normal. 2020 yılının Aralık ayında PoS ile başlayan, sonrasında rotada önemli değişikler ile devam eden süreçte yolun büyük bir kısmı alınmış durumda. Son dakikada büyük bir pürüz çıkmaz ise eth2 olarak adlandırılan PoS bazlı yeni Ethereum'u 2022 yılı sonu gelmeden görebiliriz. 
