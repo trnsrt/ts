@@ -1,50 +1,43 @@
 # Yazı I - Yeni Ethereum'u beklerken
-Bu yazımızda, genel olarak Haziran 2022'ye yetişmesi beklenen Ethereum'un yeni versiyonunun başlangıç tarihinin bir süre daha uzamasını üzerine aklımıza gelecek sorulara cevap arayacağız: Ne kadar daha uzayabilir? Bilmediğimiz bir sorun mu var Ethereum'da? Neden uzuyor? Vitalik dünyayı gezeceğine oturup daha mı çok çalışmalı?... 
+Bu yazımızda, Haziran 2022'ye yetişmesi beklenen Ethereum'un yeni versiyonunun gecikmesi sonrası aklımıza takılan sorulara cevap arayacağız: Süreç ne kadar daha uzayabilir? Bilmediğimiz bir sorun mu var Ethereum'da? Neden uzuyor? Vitalik dünyayı gezeceğine oturup daha mı çok çalışmalı?... 
 
-Öncelikle bu yeni versiyon nedir, konuya aşina olmayanlar için bir üzerinden geçelim: 
+Öncelikle, konuya aşina olmayanlar için Ethereum'un geçmişine hızlıca bir göz atalım: 
 
 ### Ethereum'un doğuşu ve dünden bugüne gelişimi
-Efendim, pek çoğunuzun bildiği gibi Ethereum kripto dünyasında Bitcoin'in ardından gelen ikinci büyük blokzincir. Vitalik Buterin denen bir gencin liderliğindeki yedi arkadaşın Bitcoin topluluğundan felsefi olarak ayrışmaları sonrası kurdukları bir platform. Temel ayrılma nedenleri, Bitcoin topluluğunun 'tamamen merkeziyetsiz ve sansür edilemez bir değer saklama aracı bir nevi dijital altın' felsefesine sıkı sıkıya bağlı kalarak gözlerini bu hedeften başka bir yere kaydırmamaları. Vitalik ve arkadaşları ise blokzincir ile hayatımıza giren merkeziyetsizliğin başta finans daha pek çok alanda hayatımızı kökten değiştirebileceğine inanmaları. 
+Efendim, pek çoğunuzun bildiği gibi Ethereum kripto dünyasında Bitcoin'in ardından gelen ikinci büyük blokzincir. Vitalik Buterin denen bir gencin liderliğindeki yedi arkadaşın Bitcoin topluluğundan felsefi olarak ayrışmaları sonrası kurdukları bir platform. Temel ayrılma nedenleri, Bitcoin topluluğunun 'tamamen merkeziyetsiz ve sansür edilemez bir değer saklama aracı bir nevi dijital altın' felsefesine sıkı sıkıya bağlı kalarak gözlerini bu hedeften başka bir yere kaydırmamaları. Vitalik ve arkadaşları ise blokzincir ile hayatımıza giren merkeziyetsizliğin başta finans olmak üzere daha pek çok alanda hayatımızı kökten değiştirebileceğine inanmaları. 
 
-Bu temel felsefe ile yola çıkan Ethereum ekibi başlarına gelen türlü sorunlara rağmen (DAO hack denen ölümcül hastalıktan kurtulmaktan, Vitalik dışındaki neredeyse tüm kurucu ekibin zamanla topluluktan ayrılmasına kadar) Bitcoin'den sonra bu dünyada en büyük ağırlığa sahip oyuncu olmayı başardı. Öyle ki, 2020 yılı başlarından ortaya çıkan merkeziyetsiz finans ve arkasından gelen NFT dünyasının neredeyse %90'ını Ethereum blokzinciri üzerine kuruldu. 
+Bu temel felsefe ile yola çıkan Ethereum ekibi başlarına gelen türlü soruna rağmen (DAO hack denen ölümcül hastalıktan kurtulmaktan, Vitalik dışında kurucu ekibin büyük bir kısmının zamanla topluluktan ayrılmasına kadar) Bitcoin'den sonra bu dünyada en büyük ağırlığa sahip oyuncu olmayı başardı. Öyle ki, 2020 yılı başında hayatımıza giren merkeziyetsiz finans ve arkasından gelen NFT dünyasının neredeyse %90'ı Ethereum blokzinciri üzerine kuruldu. 
 
-Gelgelelim, burası teknoloji arenası. Dertler de, fırsatlar da bitmiyor. Başına gelen badireleri birbir atlatan Ethereum blokzinciri bu sefer de, DeFi ve NFT dünyasının yoğun talebi karşısında sıkıntıya girmeye başladı. Daha önce 5-10 dolara yapılan işlemler artık 50-100 dolarlara yapılmaya başlandı. Her ne kadar bu durum Ethereum'a olan ilgiyi azalmadıysa da, zaman içinde bu durumu fırsat bilen rakip zincirlerin ucuz ve hızlı işlem yapabilmeleri Ethereum'un pazar payını %75'lere doğru çekti. 
+Gelgelelim, burası teknoloji arenası. Dertler de, fırsatlar da bitmiyor. Başına gelen badireleri birbir atlatan Ethereum blokzinciri bu sefer de, DeFi ve NFT dünyasının yoğun talebi karşısında sıkıntıya girmeye başladı. Daha önce 5-10 dolara yapılan işlemler artık 50-100 dolarlara yapılmaya başlandı. Her ne kadar bu durum Ethereum'a olan ilgiyi azaltmadıysa da, zaman içinde bu durumu fırsat bilen rakip zincirlerin ucuz ve hızlı işlem yapabilmeleri Ethereum'un pazar payını %65'lere doğru çekti. 
 
-[Ethereum pazar payı - TVL]
-
-Ethereum kurucu ekibi böyle bir durumun gerçekleşebileceğini önceden sezdikleri için, Ethereum'un üzerindeki bu yoğunluğu azaltabilmek için gerekli geliştirmeleri uzun süredir tasarlıyorlar. Yaklaşık iki yıldır merakla beklene bu gelişmeler, zaman içinde ihtiyaçlar ile birlikte kendilerine verilen Ethereum 2.0 ismi de dahil olmak üzere pek çok kez değiştiler. Değişmenin de ötesinde, tarih verilmese de sözlü olarak önce 2022 ilk çeyreği sonra Haziran ayı olarak belirlenen hedef tarihin, geçtiğimiz hafta daha da gecikeceği açıklanınca soru işaretleri de artmaya başladı. Neler oluyordu?.. 
-
-### Ethereum'un yeni versiyonu 
-Öncelikle şunu gözden geçirmekte fayda var. Ethereum'un yeni versiyonu neler getiriyor? Başlangıçta ne düşünülüyordu, sonra zamanla nasıl evrildi?
-
-Ethereum'un yeni versiyonunun getirdiği pek çok yenilik var ancak özellikle iki tanesini ön plana çıkarmak gerekli. Bunlar, sistem güvenliğinin artık daha enerji tasarrufu sağlar hale gelmesi (PoW'dan PoS'a geçiş), ikincisi ise üzerindeki yoğun işlem baskısını azaltmak için daha ölçeklenebilir bir yapıya bürünmesi. 
-
-İşte Ethereum'un yeni versiyonu bu iki konuya çözüm getiriyor. (Bu çözümlerin neler olduğuna yazı çok uzamasın diye devam yazımızda bakacağız). 
-
-### Ethereum da yeni trende mi uyum sağlıyor?
-Aslına bakarsanız, Ethereum'un blokzincirler arasındaki değer transferi yarışına yukarıdaki çözümler ile ayak uydurmaya başladığını söylemek mümkün. 
-
-Ethereum'un işlem ücretlerinin yüksekliği ve diğer blokzincirlerin likidite çekmek için kullanıcılara verdikleri teşvikler nedeniyle, blokzincir dünyasına giden paranın Ethereum'dan diğer zincirlere kaymaya başladığını söylemiştik. Bu değer kayması, köprüler aracılığı ile oluyordu. Bu nedenle köprüler son zamanlardaki en 'sıcak' konulardan biri haline geldi. İşte Ethereum'da yapılan yenilikler Ethereum'un paranın başka zincirlere kaçmaması için aldığı önlemlerden biri olarak görülebilir. 
-
-Diğer yandan, Polkadot ve Cosmos ile uzun zamandır konuşulan blokzincler arası iletişim ve değer transferi sağlayacak alt tabaka (Layer 0) çözümler de popülerlik kazanmaya başlamıştı. Ethereum'un yaptığı da aslına bakarsanız bir nevi buna benziyor. Bir başka yükselen zincir Avalanche'ın da subnet ile benzer bir çizgiye girdiğini söylemek mümkün. Peki bunların farkları neler? 
-
-Çok fazla detayına girmeden, üzerlerine kurulu zincirleri ne kadar katı kurallar ile bağladıklarının temel farkları olduğu söylenebilir. Ethereum için üzerindeki 64 zincir katı kurallar ile birbirlerine bağlı iken, diğer zincirler sırası ile Polkadot, Cosmos ve Avaz olarak sıralanıyorlar (Cosmos mu daha 'gevşek' Avalanche'mı o başka bir yazının tartışma konusu olabilir. 
+|![coingecko_tvl](/assets/coingecko_tvl_Q1_2022.png)|
+|:--:| 
+| *Akıllık kontrat platformlarına kilitlenen miktar. Kaynak: [Coingecko Q1 Report](https://landing.coingecko.com/coingecko-q1-2022-cryptocurrency-report/)*|
 
 ### Ethereum gecikiyor mu?
-Bütün bu değişikler olurken ve Haziran ayı hedef olarak beklenirken, bu tarihin gecikeceğinin açıklanması konuyu dışarıdan takip edenler için oldukça hayal kırıklığı yaratmış durumda. (Aslına bakarsanız, geliştirici ekip Haziran diye bir tarih vermedi, bu dışarıdan konuya ilgi duyanların ortaya attığı bir iddia. Ekip ısrarla tarih vermekten kaçınıyor.)
+Ethereum kurucu ekibi sistem üzerindeki işlem yoğunluğunu azaltabilmek için gerekli geliştirmeleri uzun süredir tasarlıyorlar. Fakat bu güncellemelerin uygulamaya başlama tarihi sürekli olarak öteleniyor. En son 2022 Haziran ayı olarak ortada dolaşan tarihin, geçtiğimiz hafta daha da gecikeceği açıklanınca soru işaretleri de artmaya başladı. Neler oluyordu? 
 
-Bu arada, başlangıçta Ethereum 2.0 olarak adlandırılan bu değişim sürecinin ismi de değişmiş durumda. Artık Ethereum 2.0 yok, bunun yerine bildiğimiz şu anki Ethereum'un eth1 olarak işlem yapılan katman, yeni gelen zincirin ise eth2 olarak konsensüs katmanı olarak adlandırılması var. Kısacası, yukarıda bahsettiğimiz işlemlerin hesaplamasını blokzincirde yapan şu anki sistem kalıyor, işlemlerin hesaplamasını ikinci seviye çözümlere bırakan ve sadece sonuçları tutan yeni bir katman geliyor. İyi de ne zaman geliyor?
+Aslına bakarsanız, geliştirici ekip Haziran diye bir tarih vermedi, bu Ethereum’un iç dinamiklerine bakılarak ortaya attığı bir iddia. Ekip ısrarla tarih vermekten kaçınıyor. 
 
-Kişisel yorumumu soracak olursanız, geçtiğimiz yıl içinde konuyu takip ederken Ethereum 2.0'un 2022 yılı içinde bitmesini neredeyse imkansız olarak görüyordum. Bunun nedeni, işlemlerin hesaplanmasının 64 zincir arasından paylaşımının getireceği komplikasyonlar idi. Yeni durumda Ethereum, işlem hesaplamasını ikinci seviye çözümlere bırakıp sadece sonuçların blokzincire yazılmasını teşvik ettiği için, aslında teknik olarak işin zorluğunun büyük bir kısmı ortadan kalktı. 
+Bütün bu değişikler olurken ve Haziran ayı hedef olarak beklenirken, bu tarihin gecikeceğinin açıklanması konuyu dışarıdan takip edenler için oldukça hayal kırıklığı yaratmış durumda. (Aslına bakarsanız, geliştirici ekip Haziran diye bir tarih vermedi, bu dışarıdan konuya ilgi duyanların ortaya attığı bir iddia. Ekip ısrarla tarih vermekten kaçınıyor.
+
+Yeni geliştirmenin önde gelen isimlerinden [Tim Beiko](https://twitter.com/TimBeiko)'nun geçtiğimiz hafta [Laura Shin ile yaptığı podcast'e göre](https://open.spotify.com/episode/71A8HGqWNdrl1vt45GmVUR?si=dkrT2nJeQwG1PfKSGtAXbA&context=spotify%3Ashow%3A1cJrrfGY1SKBIRn5noKSAf) göre bu tarihin Haziran olmadığı kesin. Henüz öngörülemeyen 'bilinmezlerden' dolayı bir tarih de vermek istemiyor Tim, ancak satır arasından '1 ile 5 ay arası' bir süreden bahsediyor.
+
+Bu arada, başlangıçta Ethereum 2.0 olarak adlandırılan bu değişim sürecinin ismi de değişmiş durumda.  Kısacası, şu anki sistem (eth1) kalıyor ve PoS mekanizması kullanan bir sisteme (eth2) dönüşüyor. Ethereum dünyası buna Ethereum 2.0 yerine birleşme (ingilizcede 'The Merge') [adını veriyor](https://blog.ethereum.org/2022/01/24/the-great-eth2-renaming/).
+
+Kişisel yorumumu soracak olursanız, geçtiğimiz yıl içinde konuyu takip ederken Ethereum 2.0'un 2022 yılı içinde bitmesini neredeyse imkansız olarak görüyordum. Bunun nedeni, işlemlerin hesaplanmasının 64 zincir arasından paylaşımının (ingilizcede 'sharding') getireceği komplikasyonlar idi. Yeni durumda Ethereum, işlem hesaplamasını ikinci seviye çözümlere bırakıp sadece sonuçların blokzincire yazılmasını teşvik ettiği için, aslında teknik olarak işin zorluğunun büyük bir kısmı ortadan kalktı (ileriye ötelendi). 
 
 Şu an yaşanan birkaç aylık gecikme aslında gayet normal. Havada uçan bir uçağı tamir etmeye ve değiştirmeye çalışıyorsunuz. Gecikmeler olabilir. Soru işareti 'bu gecikmeler daha ne kadar devam edecek?'. Bu ekibin yaşayacağı sorunlara bağlı. Son yapılan testlerde sorunlar çıksa da bunlar çözülmüş durumda, yani ilerleme var. Ekip bundan sonra ne yapacağını biliyor. Örneğin, artık sistemi küçük bir grup onaylayıcı ile canlı olarak test etmeye başlıyorlar. Burada onaylayıcı tarafında çıkan sorunları önceden görüp sisteme zarar getirmeden çözebilecekler. 
 
-Bu arada hemen belirtelim, PoS mekanizmasını güvenli hale getirmek için ETH rehin etmiş olanlar, yeni sistem geldiğinde paralarını hemen geri çekebileceklerinin hayalini kurmasınlar. Para çekmelerin başlaması için herşey bittikten sonra bir altı ay kadar daha beklemek gerekecek. 
-
 'Sadede gel' diyenlere cevabım, "Yeni sistemin devreye girmesi, 2022 yılı içinde bitme ihtimalini eskiye göre daha kuvvetli görüyorum" olacak. 
 
+Bu arada birkaç konuyu da ekleyelim: PoS mekanizmasını güvenli hale getirmek için ETH rehin etmiş olanlar, yeni sistem geldiğinde paralarını hemen geri çekebileceklerinin hayalini kurmasınlar. Para çekmelerin başlaması için herşey bittikten sonra bir altı ay kadar daha beklemek gerekecek. Öte yandan, PoS'a geçiş ile birlikte eskiden 4.7 milyon olan yıllık ETH basımı 0.5 milyona inecek. Eğer EIP-1559 ile ortaya çıkan ETH yakımı bu şekilde devam ederse, yıllık 2.8 milyon ETH ise yakılacak. Bu da net olarak senelik ETH adedinin 2.3 milyon azalması anlamına geliyor. 
+
+
 ### Sonuç 
-Ethereum, çok büyük bir evrimden geçiyor. Bu süreçte, başlangıçtaki hedeflerin değişen koşullara göre değişmesi, ya da gecikmeler olması normal. 2020 yılının Aralık ayında PoS ile başlayan, sonrasında Ethereum 2.0 isminin değişmesi devam eden süreçte yolun büyük bir kısmı alınmış durumda. Son dakikada büyük pürüzler çıkmaz ise eth1 ve eth2'den oluşan yeni Ethereum'u 2022 yılı sonu gelmeden görebiliriz. 
+Ethereum, çok büyük bir evrimden geçiyor. Bu süreçte, başlangıçtaki hedeflerin değişen koşullara göre revize edilmesi ya da gecikmeler olması normal. 2020 yılının Aralık ayında PoS ile başlayan, sonrasında rotada önemli değişikler ile devam eden süreçte yolun büyük bir kısmı alınmış durumda. Son dakikada büyük bir pürüz çıkmaz ise eth2 olarak adlandırılan PoS bazlı yeni Ethereum'u 2022 yılı sonu gelmeden görebiliriz. 
+
+*Not: Bir sonraki yazımızda yeni Ethereum'un yakın ve uzun zamanda planladığı iki önemli yenilik olan PoS ve ölçeklenme konularına değineceğiz.* 
 
 ---
 
