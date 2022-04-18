@@ -12,7 +12,7 @@ Gelgelelim, burası teknoloji arenası. Dertler de, fırsatlar da bitmiyor. Baş
 
 |![coingecko_tvl](/assets/coingecko_tvl_Q1_2022.png)|
 |:--:| 
-| *Akıllık kontrat platformlarına kilitlenen miktar. Kaynak: [Coingecko Q1 Report](https://landing.coingecko.com/coingecko-q1-2022-cryptocurrency-report/)*|
+| *Akıllı kontrat platformlarına kilitlenen miktar. Kaynak: [Coingecko Q1 Report](https://landing.coingecko.com/coingecko-q1-2022-cryptocurrency-report/)*|
 
 ### Ethereum gecikiyor mu?
 Ethereum kurucu ekibi sistem üzerindeki işlem yoğunluğunu azaltabilmek için gerekli geliştirmeleri uzun süredir tasarlıyorlar. Fakat bu güncellemelerin uygulamaya başlama tarihi sürekli olarak öteleniyor. En son 2022 Haziran ayı olarak ortada dolaşan tarihin, geçtiğimiz hafta daha da gecikeceği açıklanınca soru işaretleri de artmaya başladı. Neler oluyordu? 
