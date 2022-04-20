@@ -13,7 +13,7 @@ Bu temel felsefe ile yola çıkan Ethereum ekibi başlarına gelen türlü sorun
 #### Bugün ne durumda?
 Gelgelelim, burası teknoloji arenası. Dertler de, fırsatlar da bitmiyor. Başına gelen badireleri birbir atlatan Ethereum blokzinciri bu sefer de, DeFi ve NFT dünyasının yoğun talebi karşısında sıkıntıya girmeye başladı. Daha önce 5-10 dolara yapılan işlemler artık 50-100 dolarlara yapılmaya başlandı. Her ne kadar bu durum Ethereum'a olan ilgiyi azaltmadıysa da, zaman içinde bu durumu fırsat bilen rakip zincirlerin ucuz ve hızlı işlem yapabilmeleri Ethereum'un pazar payını %54'lere doğru çekti. 
 
-|![coingecko_tvl](/assets/coingecko_tvl_Q1_2022.png)|
+|![coingecko_tvl](/assets/coingecko_tvl_Q1_2002_tr_800.jpg)|
 |:--:| 
 | *Akıllı kontrat platformlarına kilitlenen miktar. Kaynak: [Coingecko Q1 Report](https://landing.coingecko.com/coingecko-q1-2022-cryptocurrency-report/)*|
 
