@@ -1,6 +1,10 @@
 # Yazı I - Yeni Ethereum'u beklerken
 Bu yazımızda, Haziran 2022'ye yetişmesi beklenen Ethereum'un yeni versiyonunun gecikmesi sonrası aklımıza takılan sorulara cevap arayacağız: Süreç ne kadar daha uzayabilir? Bilmediğimiz bir sorun mu var Ethereum'da? Neden uzuyor? Vitalik dünyayı gezeceğine oturup daha mı çok çalışmalı?... 
 
+|![coingecko_tvl](/assets/waiting_for_godot_800.jpg)|
+|:--:| 
+| *'Godot'yu beklerken' - Minnesota Üniversitesi Tiyatro ve Dans Kaynak: [Flickr](https://www.flickr.com/photos/umtad/4642250679) - [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)*|
+
 Öncelikle, konuya aşina olmayanlar için Ethereum'un geçmişine hızlıca bir göz atalım: 
 
 ### Ethereum'un doğuşu ve dünden bugüne gelişimi
