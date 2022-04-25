@@ -59,7 +59,7 @@ Ethereum üzerindeki farklı token standartlarına bakmak bize NFT yani 'eşsiz 
 
 ---
 
-*Not 1: Bu yazı ilk olarak 17 Nisan 2022'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı]()*
+*Not 1: Bu yazı ilk olarak 17 Nisan 2022'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı](https://medium.com/blockchainist-center/tokenler-ve-farklar%C4%B1-578228dca854)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
