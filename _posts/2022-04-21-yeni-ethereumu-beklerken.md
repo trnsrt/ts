@@ -1,4 +1,11 @@
-# Yazı I - Yeni Ethereum'u beklerken
+---
+layout: post
+title:  "Yeni Ethereum'u Beklerken"
+date:   2022-04-20 17:47:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
 Bu yazımızda, Haziran 2022'ye yetişmesi beklenen Ethereum'un yeni versiyonunun gecikmesi sonrası aklımıza takılan sorulara cevap arayacağız: Süreç ne kadar daha uzayabilir? Bilmediğimiz bir sorun mu var Ethereum'da? Neden uzuyor? Vitalik dünyayı gezeceğine oturup daha mı çok çalışmalı?... 
 
 |![Waiting for Godot](/assets/waiting_for_godot_800.jpg)|
@@ -58,5 +65,9 @@ Ethereum, çok büyük bir dönüşümden geçiyor. Bu süreçte, başlangıçta
 
 *Not 2: Yazı konusunda değerli görüşlerini benimle paylaşan (her ne kadar her konuda aynı düşünmesek de) sevgili TobbyKitty'e teşekkürlerimi sunarım.*
 
----
+*Not 3: Bu yazı ilk olarak 20 Nisan 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı(https://www.btchaber.com/yeni-ethereumu-beklerken/)*
+
+*Not 4: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
 
