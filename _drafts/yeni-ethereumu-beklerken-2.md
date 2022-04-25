@@ -14,7 +14,7 @@ Bitcoin topluluğu felsefi olarak PoW'u bırakmayıp devam ederken Ethereum topl
 
 Ethereum'da PoS'e geçiş sadece teoride kalmış değil, uzunca bir süredir pratik olarak da yol almış durumda. PoW mekanizmasında sistemi yürüten madenciler, PoS'da yerlerini ETH kilitleyerek sistemi koruyacak olan onaylayıcılara bırakıyorlar. Aralık 2020'den itibaren başlayan PoS sisteminde insanlar (ya da kurumlar) ellerindeki ETH'yi belirli bir faiz oranı karşılığında rehin etmeye ve onaylayıcı olmaya başladılar. Aradan sadece 15 ay geçmiş olmasına rağmen şu ana kadar [11.7 milyon ETH](https://beaconcha.in/) yani [toplam dolaşımdaki ETH'nin](https://etherscan.io/stat/supply) %9.7'si sisteme kilitlenmiş durumda. 
 
-| ![total_staked_ETH](/assets/Ethereum_ETH_2_0_Staking_Rate_800.png)|
+| ![total_staked_ETH](/assets/Ethereum_ETH_2_0_Staking_Rate_v3_800.png)|
 |:--:| 
 | *2020 Aralık'tan bu yana stake edilen ETH'nin toplam ETH'ye oranı. Kaynak: [CryptoQuant](https://cryptoquant.com/asset/eth/chart/eth2/eth-20-staking-rate-percent?window=DAY&sma=0&ema=0&priceScale=linear&metricScale=linear&chartStyle=column).*|
 
