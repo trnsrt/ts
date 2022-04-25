@@ -8,7 +8,7 @@ Enerji tasarrufu konusu gerek Bitcoin gerekse Ethereum'un zayıf karnı denebili
 
 Bitcoin topluluğu felsefi olarak PoW'u bırakmayıp devam ederken Ethereum topluluğu PoS sistemini sevdi ve kendini o sisteme geçmek için hazırlamaya başladı. PoS sistemi sayesinde Ethereum'un enerji harcaması %99 oranında düşecek. Dolayısıyla bundan sonra bazı politikacıların kulaktan dolma bilgilerde çok sık kullandıkları 'ama blokzincir çok enerji harcıyor' argümanı ile bundan böyle sadece Bitcoin topluluğu muhatap olacak. 
 
-| ![Pow_Pos_consumption](/assets/ethereum_power_consumption_v2_800.png)|
+| ![Pow_Pos_consumption](/assets/ethereum_power_consumption_v3_800.png)|
 |:--:| 
 | *İş Kanıtı (PoW) ve Hisse Kanıtı (PoS) sistemlerinin enerji tüketimi. Kaynak: [Ethereum](https://blog.ethereum.org/2021/05/18/country-power-no-more/).*|
 
