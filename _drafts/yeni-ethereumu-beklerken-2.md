@@ -2,7 +2,7 @@ Ethereum'un yeni hali ile ilgili olarak son durumu incelediğimiz ilk [yazımız
 
 Geçtiğimiz yazıda, Ethereum'un yeni sisteminin getirdiği pek çok yenilik içinde temel olarak en önemli olanlarının, enerji tasarrufu sağlaması ve ölçeklenebilirlik olduğundan bahsetmiştik. Gelin şimdi Ethereum topluluğunun bu iki önemli konuyu nasıl ele aldığına detaylıca bakalım: 
 
-#### Sistem güvenliği (Pos) değişikliği
+#### Sistem güvenliği (PoS) değişikliği
 Enerji tasarrufu konusu gerek Bitcoin gerekse Ethereum'un zayıf karnı denebilir. Zamanında, Bitcoin tarafından başlatılan sonrasında Ethereum tarafından kopyalanan PoW (proof-of-work Türkçesi 'iş kanıtı') mekanizması, blokzincir üzerindeki güvenliğin sağlanabilmesi için sistemi yürüten onbinlerce makinenin belli bir enerji harcaması esasına dayanıyor. Ethereum sonrası çıkan pek çok yeni blokzincir ise, bunun yerine PoS (proof-of-stake Türkçesi 'hisse kanıtı
 ') adı verilen başka bir mekanizma kullandılar. 
 
