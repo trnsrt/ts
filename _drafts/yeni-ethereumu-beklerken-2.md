@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Ethereum'un üzerinde çalıştığı iki konu"
+date:   2022-04-27 17:47:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
 Ethereum'un yeni versiyonunu incelediğimiz bir önceki [yazımızdan](/genel/2022/04/20/yeni-ethereumu-beklerken.html) sonra, şimdi de işin derinine iniyoruz.
 
 Önce geçtiğimiz yazıyı kısaca özetleyelim: Ethereum büyük bir dönüşümden geçiyor. Bunu yaparken başlangıçta koyduğu planın kimi parçalarını hayata geçirirken kimilerini de rafa kaldırdılar. Bu yazımızda, yeni versiyonun üstesinden gelmeyi planladığı iki değişiklik olan enerji tasarrufu ve ölçeklenebilirlik konularına daha detaylı bir şekilde bakacağız. 
@@ -57,3 +65,10 @@ Roll-up sistemlerine verilen ağırlık dışındaki ikinci önemli değişiklik
 
 ### Sonuç
 Ethereum, PoW mekanizmasından PoS'e geçmeye uzun süredir hazırlanıyor ve bu alanda önemli bir sıkıntı görülmüyor. Asıl değişikliklerin yaşandığı ve 'kervanın yolda düzüldüğü' ölçeklenme konusunda, yolun başına göre artık çok daha rahat bir durumdalar. Bakalım, son dakika golleri olmadan rahat bir şekilde maçı bu yıl içinde tamamlayabilecekler mi?
+
+
+*Not 1: Bu yazı ilk olarak 27 Nisan 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı()*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
