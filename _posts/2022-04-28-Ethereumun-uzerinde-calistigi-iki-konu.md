@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ethereum'un üzerinde çalıştığı iki konu"
-date:   2022-04-27 17:47:56 +0300
+date:   2022-04-28 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
 ---
@@ -67,7 +67,7 @@ Roll-up sistemlerine verilen ağırlık dışındaki ikinci önemli değişiklik
 Ethereum, PoW mekanizmasından PoS'e geçmeye uzun süredir hazırlanıyor ve bu alanda önemli bir sıkıntı görülmüyor. Asıl değişikliklerin yaşandığı ve 'kervanın yolda düzüldüğü' ölçeklenme konusunda, yolun başına göre artık çok daha rahat bir durumdalar. Bakalım, son dakika golleri olmadan rahat bir şekilde maçı bu yıl içinde tamamlayabilecekler mi?
 
 
-*Not 1: Bu yazı ilk olarak 27 Nisan 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı()*
+*Not 1: Bu yazı ilk olarak 28 Nisan 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı(https://www.btchaber.com/ethereumun-uzerinde-calistigi-iki-konu/)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
