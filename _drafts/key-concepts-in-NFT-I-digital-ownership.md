@@ -20,7 +20,7 @@ In digital life, this is a bit complicated. Digital ownership does not necessari
 
 How do we know that? Well, as we mentioned in our previous post, the artist that created such image, creates (mints) the ownership certificate on the blockchain. Blockchains are immutable - meaning you cannot change past data - this is almost impossible due to technical specification of blockchains. Blockchains are also transparent (at least public ones) which means anyone can see the information recorded. So by holding the NFT that points to an object, an address would prove to everyone that it owns that object. 
 
-Another way to conceptualize this: Can you own a Mona Lisa portrait. Well, just visit [Google Arts page on Mona Lisa]((https://artsandculture.google.com/asset/portrait-de-lisa-gherardini-%C3%A9pouse-de-francesco-del-giocondo-dite-monna-lisa-la-gioconda-ou-la-joconde/EQEwC4DDeM7qkA?hl=en)) - and you will find extremely high resolution copy of the portrait. 
+Another way to conceptualize this: Can you own a Mona Lisa portrait. Well, just visit [Google Arts page on Mona Lisa](https://artsandculture.google.com/asset/portrait-de-lisa-gherardini-%C3%A9pouse-de-francesco-del-giocondo-dite-monna-lisa-la-gioconda-ou-la-joconde/EQEwC4DDeM7qkA?hl=en)) - and you will find extremely high resolution copy of the portrait. 
 
 | ![mona_lisa](/assets/mona_lisa-1053852_800.jpg)|
 |:--:| 
