@@ -53,6 +53,12 @@ Sorun da aslında burada başlıyor. Yukarıda daha fazla makinenin sistemi yür
 
 Ethereum ekibi başlangıçta bu sorunu çözmek için, Ethereum'u 64 ayrı blokzincire bölerek ('sharding') kapasitesini artırmak gibi bir plan ortaya attı. Böyle bir durumda işlemler ayrı blokzincirlerde yapılacak ve sonra bir ana zincir üzerinde toplanacaktı. Her ne kadar kapasiteyi artırsa da bir süre sonra bu çözümün de yeterli olmayacağı görüldü. İşte o nedenle geçtiğimiz aylarda yavaş yavaş bu planı da değiştirmeye başladılar. Nasıl bir yola girdiler? Birbiri ile bağlantılı iki uygulamaya ağırlık verdiler.
 
+
+|![bullock](/assets/bullock-2830241_800.jpg)|
+|:--:| 
+| *Image by [Bishnu Sarangi](https://pixabay.com/users/sarangib-37542/) from [Pixabay](https://pixabay.com/)*|
+
+
 ##### Birinci çözüm: İkinci seviye çözümler (bir diğer deyişle dürüm yani 'roll-up' sistemler)
 Ethereum geliştiricileri başta Vitalik olmak üzere geçtiğimiz yıl hararetle ikinci seviye çözümleri ön plana çıkarmaya başladılar. 
 
