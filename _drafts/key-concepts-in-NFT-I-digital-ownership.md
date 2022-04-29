@@ -6,7 +6,6 @@ categories: Genel
 tags: Yazılar, Articles, NFT
 ---
 
-Key concepts in NFTs I - Digital Ownership 
 In our mini-series we will explore key concepts of NFTs, which will hopefully help us better understand the fundamentals of NFTs. 
 
 ## 'Yes, but...'
