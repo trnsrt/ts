@@ -3,7 +3,7 @@ Bu yazımızda geçtiğimiz hafta sonu yaşanan Terra ağı çıkışlı stabil 
 Ödeme sistemleri üzerine uzmanlaşmaya çalışan Terra blokzinciri tarafından çıkarılan stabil para UST, geçtiğimiz hafta sonunda yaşanan ataklardan dolayı ABD dolarına olan çıpasını kaybetti. Gelin önce hızlıca stabil para nedir kavramına bakalım, arkasından UST'deki temel sorun neydi ona yanıt arayalım. 
 
 ### Neydi stabil paralar? USDT, USDC, DAI... Farkları ne?
-Stabil para, değeri belirli bir itibari paraya çıpalanmış para demek (İngilizce de 'peg' çakılmış, çivilenmiş anlamında kullanılıyor). İtibari para dediğimiz, ingilizcede fiat para olarak geçen, merkez bankaları tarafından çıkarılmış paralar deniyor. Aslına bakarsanız stabil para pazarının neredeyse tamamı ABD Dolarından oluşuyor. 
+Stabil para, değeri belirli bir itibari paraya çıpalanmış para demek (İngilizce de 'peg' çakılmış, çivilenmiş anlamında kullanılıyor). İtibari para dediğimiz, ingilizcede fiat para olarak geçen, merkez bankaları tarafından çıkarılmış paralar. Aslına bakarsanız stabil para pazarının neredeyse tamamı ABD Dolarından oluşuyor. 
 
 Stabil paralar önemli, zira merkeziyetsiz dünyanın ihtiyaç duyduğu likiditeyi sağlıyorlar. Yatırımcılar için de BTC, ETH gibi temel kriptoparaların dalgalı dünyasında paralarını park edecekleri güvenli bir liman işlevi görüyorlar. Bir yandan da onlara kullandırdıkları bu likidite karşılığı güzel bir kazanç kapısı sağlıyorlar. 
 
@@ -21,7 +21,7 @@ Sistem kısaca şu şekilde çalışıyor: UST almak isteyen, LUNA'sını gönde
 
 #### Niye UST'ye ihtiyaç duyuluyor?
 
-Piyasada o kadar stabil para var. Bir de UST gerekli mi? Terra'nın ödemeler üzerine uzmanlaşmış bir blokzincir olması nedeniyle likit ve kendi sisteminin ihtiyaçlarına göre esneklik gösterebilecek bir para birimine ihtiyacı var. Eğer USDC, USDT gibi bir para kullanmak isteseydi bunun karşılığında bir ödeme yapması gerekecekti. UST için ise öyle bir ödeme yapmasına gerek yok. Talep oldukça LUNA karşılığı basabilir. Eğer insanlar da bu sistemi kabul edip UST kullanılar ise ne ala. İyi da insanlar niye kullansın? 
+Piyasada o kadar stabil para var. Bir de UST gerekli mi? Terra'nın ödemeler üzerine uzmanlaşmış bir blokzincir olması nedeniyle likit ve kendi sisteminin ihtiyaçlarına göre esneklik gösterebilecek bir para birimine ihtiyacı var. Eğer USDC, USDT gibi bir para kullanmak isteseydi bunun karşılığında bir ödeme yapması gerekecekti. UST için ise öyle bir ödeme yapmasına gerek yok. Talep oldukça LUNA karşılığı basabilir. Eğer insanlar da bu sistemi kabul edip UST kullanırlar ise ne ala. İyi da insanlar niye kullansın? 
 
 Teoride, Terra sisteminin ileride büyüyeceği ve yaygınlaşacağına inanıyorsanız, üzerine kurulu uygulamaları kullanmak için UST'yi kabullenebilirsiniz. Ancak başlangıçta böyle bir durum yok. Yumurta tavuk sarmalına girdik. Peki ne yapmalı? DeFi'nin zamanında uyguladığı teşvik sistemi ile UST'nin kullanımını yaygınlaştırmalı. 
 
@@ -33,7 +33,7 @@ Nitekim de istenen gerçekleşti ve ilk kurulduğundan bugüne yaklaşık 18 ayd
 
 UST aslında bugünlere gelmeden önce bir büyük badire atlattı. 2021 yılının Mayıs ayında değeri bir ara 0.96 ABD Dolarına düşse de sonrasında toparlandı. 
 
-UST'nin bu kadar genişlemesi bir anlamda LUNA'ya da yaradı. İnsanlar %20 faiz beklentisi ile UST almak için, LUNA vermeleri gerekiyordu. Bu LUNA'ya ciddi bir talep doğurdu. Bir taraftan da verilen LUNA'lar yakıldığı için LUNA'nın arzı azalıyordu. Bütün bunlar sonucu LUNA'nın değeri 1 ABD Dolarından Nisan ayı başında 112 ABD Dolarına kadar yükseldi. 
+UST'nin bu kadar genişlemesi bir anlamda LUNA'ya da yaradı. İnsanların %20 faiz beklentisi ile UST almak için, LUNA vermeleri gerekiyordu. Bu LUNA'ya ciddi bir talep doğurdu. Bir taraftan da verilen LUNA'lar yakıldığı için LUNA'nın arzı azalıyordu. Bütün bunlar sonucu LUNA'nın değeri 1 ABD Dolarından Nisan ayı başında 112 ABD Dolarına kadar yükseldi. 
 
 İyi ama bu bir sarmal. Yukarı doğru iyi gidiyor da; ya terse dönerse? İnsanlar bir gün UST'ye olan güvenlerini kaybedip paralarını geri verirlerse, karşılığında onlara LUNA verilecek, onlar da aldıkları LUNA'ları piyasada satacaklar ve LUNA fiyatı düşecek.
 
@@ -43,7 +43,7 @@ Görünen o ki bu hamle yeterli olmamış. Geçtiğimiz hafta FED'in açıklamal
 
 ### İşin özü güven
 
-Stabil paraların merkeziyetsiz finansın temel taşı olduğunu söylemek gerek. Bu nedenle, kulanıcılara vereceği güven çok ama çok önemli. Yatırımcı zaten kullandığı uygulamalar ile belli bir getiri beklentisi ile risk alıyor. Bunu yaparken parasını tuttuğu stabil paranın yarın öbür gün kendisine aynı miktarda değer olarak döneceğini düşünüyor. 
+Stabil paraların merkeziyetsiz finansın temel taşı olduğunu söylemek gerek. Bu nedenle, kulanıcılara vereceği güven çok ama çok önemli. Yatırımcı zaten kullandığı uygulamalarda belli bir getiri beklentisi ile yeterince risk alıyor. Bunu yaparken sahibi olduğu stabil paranın yarın öbür gün kendisine aynı miktarda değer olarak döneceğini düşünüyor. 
 
 BUSD, USDC gibi paralarda bu güven 'bakın, basılan tokenin arkasında bankada para var' söylemi ile geliyor. USDT'nin bu anlamda eksikleri var, ama o da ilk olmanın avantajı ile özellikle merkezi borsaların defacto para birimi haline geldi. DAI deseniz arkasında fazla fazla teminat var (ki teminatın kriptopara olması onu bir parça riskli yapıyor elbette, özellikle ani düşüşlerde). 
 
@@ -51,9 +51,9 @@ UST ise bir algoritmik para olarak farklı bir noktada.
 
 Öncelikle algoritmik stabil paraların henüz deneysel olduğunu belirtmekte fayda var. Pekçok eski uygulama (Basis gibi) başarılı olamadı. Hâlâ sürenlerden Ampleforth 1 ABD doları civarında gezinse de yaklaşık 100 milyon ABD Doları piyasa değeriyle geniş kesimlere ulaşamadı. 
 
-Bu paraların uzun vadede başarılı olmaları geniş kesimlerce kabul görmelerine bağlı. Ödemelerde kullanılması, uygulamaların bu parayı kabul etmesi lazım. Bu nedenle öncelikle Terra sisteminin kullanımının artması ya da UST'nin başka blokzincirlere açılması gerekir (bu konuda Terra'nın Avalanche ve Evmos ile kullanım üzerine anlaşmalar yaptığını biliyoruz). Yüksek faiz vererek UST basımı artırabilirsiniz ama insanlar bu parayı alıp faize yatırıyorlar ise bu kullanım anlamına gelmez
+Bu paraların uzun vadede başarılı olmaları geniş kesimlerce kabul görmelerine bağlı. Ödemelerde kullanılması, uygulamaların bu parayı kabul etmesi lazım. Bu nedenle öncelikle Terra sisteminin kullanımının artması ya da UST'nin başka blokzincirlere açılması gerekir (bu konuda Terra'nın Avalanche ve Evmos ile kullanım üzerine anlaşmalar yaptığını biliyoruz). Yüksek faiz vererek UST basımını artırabilirsiniz ama insanlar bu parayı alıp faize yatırıyorlar ise bu kullanım anlamına gelmez
 
-Kısa vadede ise yukarıda bahsettiğimiz başarının gelebilmesi için LUNA'ya olan güvenin tam olması lazım. Yüksek faiz vererek para basımı sürdürülebilir bir yöntem değil. 18 milyar dolar Anchor protokoldeki 18 milyar ABD Doları için yıllık 3.6 milyar ABD Doları faiz ödemesi yapacaksınız. Bunu da efektif olarak LUNA basarak karşılayacaksınız. 
+Kısa vadede ise yukarıda bahsettiğimiz başarının gelebilmesi için LUNA'ya olan güvenin tam olması lazım. Yüksek faiz vererek para basımı sürdürülebilir bir yöntem değil. Anchor protokoldeki 18 milyar ABD Doları için yıllık 3.6 milyar ABD Doları faiz ödemesi yapacaksınız. Bunu da efektif olarak LUNA basarak karşılayacaksınız. 
 
 Kısa vadede yüksek faiz ile hormonlu büyümeye çalışmak oldukça riskli bir hareket. Bir de bunun üzerine UST'ye yapılan ataklara karşı Terra'nın aldığı önlemlerin şeffaf olmaması güveni daha da zedeledi. Piyasadan yüksek miktarda UST çekilmesine karşı Terra'nın cevabı, yaklaşık 1.5 milyar ABD Doları karşılığı bir parayı OTC masası dediğimiz büyük işlemli gruplara vermek ve onlara 'UST'yi koruyun' demek oldu. Bu para nasıl kullanıldı tam olarak belli değil (OTC masaları blokzincir üzerinde değil, merkezi borsalar üzerinden harcama yapıyorlar o nedenle takip edilemiyor). Şeffaflığın olmadığı yerde söylenti ve korku başlar. Yaşananların bir nedeni de bu. 
 
