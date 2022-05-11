@@ -52,7 +52,7 @@ UST ise bir algoritmik para olarak farklı bir noktada.
 
 Öncelikle algoritmik stabil paraların henüz deneysel olduğunu belirtmekte fayda. Pekçok eski uygulama (Basis gibi) başarılı olamadı. Hâlâ sürenlerden Ampleforth 1 ABD doları civarında gezinse de yaklaşık 100 milyon ABD Doları piyasa değeriyle geniş kesimlere ulaşamadı. 
 
-Bu paraların uzun vadede başarılı olmaları geniş kesimlerce kabul görmelerine bağlı. Ödemelerde kullanılması, uygulamaların bu parayı kabul etmesi lazım. Bu nedenle öncelikle Terra sisteminin kullanımının artması ya da UST'nin başka blokzincirlere açılması gerekir (bu konuda Terra'nın Avalanche ise bir anlaşma yaptığını biliyoruz). Yüksek faiz vererek UST basımı artırabilirsiniz ama insanlar bu parayı alıp faize yatırıyorlar ise bu kullanım anlamına gelmez
+Bu paraların uzun vadede başarılı olmaları geniş kesimlerce kabul görmelerine bağlı. Ödemelerde kullanılması, uygulamaların bu parayı kabul etmesi lazım. Bu nedenle öncelikle Terra sisteminin kullanımının artması ya da UST'nin başka blokzincirlere açılması gerekir (bu konuda Terra'nın Avalanche ve Evmos ile kullanım üzerine anlaşmalar yaptığını biliyoruz). Yüksek faiz vererek UST basımı artırabilirsiniz ama insanlar bu parayı alıp faize yatırıyorlar ise bu kullanım anlamına gelmez
 
 Kısa vadede ise yukarıda bahsettiğimiz başarının gelebilmesi için LUNA'ya olan güvenin tam olması lazım. Yüksek faiz vererek para basımı sürdürülebilir bir yöntem değil. 18 milyar dolar Anchor protokoldeki 18 milyar ABD Doları için yıllık 3.6 milyar ABD Doları faiz ödemesi yapacaksınız. Bunu da efektif olarak LUNA basarak karşılayacaksınız. 
 
