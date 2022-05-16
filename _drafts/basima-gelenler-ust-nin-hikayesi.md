@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Başıma Gelenler - UST'nin Hikayesi"
+date:   2022-05-16 17:47:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
 Bu yazımızda geçtiğimiz hafta sonu yaşanan Terra ağı çıkışlı stabil para birimi UST'nin hikayesini anlatmaya çalışacağız. 
 
 Ödeme sistemleri üzerine uzmanlaşmaya çalışan Terra blokzinciri tarafından çıkarılan stabil para UST, geçtiğimiz hafta sonunda yaşanan ataklardan dolayı ABD dolarına olan çıpasını kaybetti. Gelin önce hızlıca stabil para nedir kavramına bakalım, arkasından UST'deki temel sorun neydi ona yanıt arayalım. 
@@ -60,3 +68,9 @@ Kısa vadede yüksek faiz ile hormonlu büyümeye çalışmak oldukça riskli bi
 ### Sonuç
 
 Merkeziyetsiz sistemlerin oyuncularının izlemesi gereken temel yol merkeziyetsizleşmek olmalı. Başlangıçta büyüme aşamasında kurucu ekibin merkezi olması hoş görülebilir ancak bu uzun vadede değişmeli. Merkeziyetsizlik, karar mekanizmalarının şeffaf olması ve sistemin bütün işlemlerinin blokzincirden takip edilebilmesini gerektirir. UST'nin kurucu ekibi bu anlamda hem merkezi bir ekip, hem de aldıkları önlemler şeffaf değil. Paranızın bir kısmını BTC yapmanız sizi merkeziyetsiz yapmaz. Bakalım ekip güveni tekrar kazanıp, UST'yi tekrar 1 ABD Doları seviyesine getirebilecek mi? İşleri oldukça zor görünüyor. 
+
+*Not 1: Bu yazı ilk olarak 11 Mayıs 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı(https://www.btchaber.com/ethereumun-uzerinde-calistigi-iki-konu/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
