@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "UST'de son perde"
+date:   2022-05-20 17:47:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
 Bu haftaki yazımızda, UST ve Luna'nın başına gelenlerin ardından bir 'son-durum incelemesi' (post-mortem) yapmaya çalışıyoruz. 
 
 Geçtiğimiz haftaki yazımızda, stabil paralardan başlayarak UST'nin hikayesine değinmiş son olarak da merkeziyetsizliğin önemini vurgulamıştık. Bu yazımızda ise aradan geçen bir hafta içinde yaşananlara bakarak DeFi'nin geleceğine dönük ne gibi dersler çıkarabiliriz konusunu ele alacağız. 
@@ -64,3 +72,11 @@ Yine de yaşananlar, bize DeFi'nin temel prensiplerinden sapıldığı noktada n
 ### Sonuç
 
 UST'nin ABD Doları çıpasını kaybetmesi ve Luna'nın sıfıra inmesi ile sonuçlanan DeFi'nin şimdiye kadar yaşadığı bu en büyük kriz, şiddetini kaybetmiş olsa da bundan sonra da artçı sarsıntıların devam etmesi olası. DeFi dünyası, bu olanlardan gerekli dersleri çıkardı mı? Bundan sonra daha şeffaf, eleştiriye daha açık, belki daha ihtiyatlı bir büyüme içine girecek mi? Benim görüşüm, büyük protokollerin gerekli dersleri çıkardığı yönünde. Bundan sonra böyle krizler olmaya mutlaka devam edecek. Umudumuz, küçük yatırımcıların bu tip krizleri olabildiğince hasarsız bir şekilde atlatabilmesi. Hep birlikte yaşayarak göreceğiz. 
+
+---
+
+*Not 1: Bu yazı ilk olarak 20 Mayıs 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı]()*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
