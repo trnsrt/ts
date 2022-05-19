@@ -1,0 +1,15 @@
+
+
+#### Sahipliğin ve geçmiş alıcıların teyidi 
+Bir sanat eserinin değerli kılan sadece onu yaratan sanatçı olmuyor. Bu sanat eserinin geçmişte hangi koleksiyonlarda yer aldığı da ona değer katabilen bir başka unsur. Mona Lisa'nın bugün bu kadar ilgi görmesinde, eserin güzelliği, yaratıcısının dahiliği kadar, ona ev sahipliği yapan Louvre Müzesinin de büyük payı var kuşkusuz. 
+
+Yukarıda bahsettiğimiz herkese açık blokzincir veritabanı sayesinde eserin önceki sahiplerini görebilmek de mümkün. Hem de bunun için herhangi bir çaba sarfetmenize gerek yok. Giriyorsunuz Etherscan'a ve eser yaratıcısı tarafından ne zaman kime satılmış, daha sonrasında hangi fiyattan kimlerin eline geçmiş hepsinin anında görmek mümkün. Burada tek sorun, alıcı ve satıcıların isimlerini değil de Ethereum adreslerini görmeniz. Genelde sanatçılar ve büyük koleksiyonerler piyasada tanınmak amacıyla tek adres kullanılar. Kimi zaman da ENS (Ethereum Name Service) isimli uygulama ile Ethereum adreslerine kendi isimlerini verirler. İşte bu adreslerin yaptığı bütün işlemleri ve sahip oldukları eserleri de blokzincir üzerinde görmek mümkün. 
+
+Buradan konudan sapmak pahasına bir detaya da değinelim. Blokzincirin şeffaf yapısı bize daha önce olmadığı kadar fayda sunabiliyor. Örneğin, Context isimli bir websitesinde herhangi bir koleksiyona sahip olan her bir adresin sahip olduğu eserlere tek tek bakabiliyorsunuz (örneğin [CryptoPunk sahipleri](https://context.app/lists/cryptopunks)). Bakmakla kalmayıp, en son hangi eserleri satın almış izleyebiliyor, hatta yeni bir eser aldıklarında size bir bildirim gelmesini bile isteyebiliyorsunuz!
+
+#### Alım-satım sırasındaki maliyetlerin düşürülmesi
+Herhangi bir sanat eserini, fiziksel olarak satın almak istediğinizde ciddi maliyetler ile karşılaşabiliyorsunuz. Eserin bulunduğu lokasyondan size ait başka bir lokasyona taşınması, aynı şehirde olmanızdan ayrı kıtalarda olmanıza göre değişebilecek şekilde ciddi maliyetler çıkarabiliyor. 
+
+Dijital sanat eserlerinde bu sorun nispeten daha rahat bir şekilde çözülüyor. Bu NFT'nin getirdiği bir artı değer değil aslında. NFT'nin getirdiği asıl artı değer, alım-satım sırasındaki başka maliyetleri düşürmesi. Farklı ülkelerdeki insanların sanat eseri satın alırken kredi kartı kullanması sırasında yaşayacakları sorunlardan tutun, bu sanat eserinin kayıt edilmesine kadar uzanan bir sorun yumağı. NFT'lerde ise işlemleri kriptoparalar aracılığıyla çok daha pratik bir şekilde gerçekleştirebiliyorsunuz. Burada kriptoparaya erişim konusunda konuya yabancı olanların başlangıçta geçmeleri gereken bir öğrenme süreci olduğunu belirtelim. Bu süreci bir kez yaşadıktan ve kendinize ait elektronik cüzdana kriptopara attıktan sonra, tek yapmanız gereken beğendiğiniz eserin sergilendiği web sitesine cüzdanınıza bağlamak. Sonrasından dilediğiniz eseri bir tık ile alıp cüzdanınıza koyabiliyorsunuz. 
+
+Alışverişlerde işlemi gerçekleştirmeye engel her tür pürüzün giderilmesi ticari hacmi ciddi şekilde artırır. Benzer şekilde NFT'lerin getirdiği rahatlığın sanat eseri pazarına ciddi bir hacim getirdiğini söylemek mümkün. 
