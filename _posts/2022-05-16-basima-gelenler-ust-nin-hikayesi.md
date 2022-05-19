@@ -69,7 +69,7 @@ Kısa vadede yüksek faiz ile hormonlu büyümeye çalışmak oldukça riskli bi
 
 Merkeziyetsiz sistemlerin oyuncularının izlemesi gereken temel yol merkeziyetsizleşmek olmalı. Başlangıçta büyüme aşamasında kurucu ekibin merkezi olması hoş görülebilir ancak bu uzun vadede değişmeli. Merkeziyetsizlik, karar mekanizmalarının şeffaf olması ve sistemin bütün işlemlerinin blokzincirden takip edilebilmesini gerektirir. UST'nin kurucu ekibi bu anlamda hem merkezi bir ekip, hem de aldıkları önlemler şeffaf değil. Paranızın bir kısmını BTC yapmanız sizi merkeziyetsiz yapmaz. Bakalım ekip güveni tekrar kazanıp, UST'yi tekrar 1 ABD Doları seviyesine getirebilecek mi? İşleri oldukça zor görünüyor. 
 
-*Not 1: Bu yazı ilk olarak 11 Mayıs 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/ethereumun-uzerinde-calistigi-iki-konu/)*
+*Not 1: Bu yazı ilk olarak 16 Mayıs 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/ethereumun-uzerinde-calistigi-iki-konu/)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
