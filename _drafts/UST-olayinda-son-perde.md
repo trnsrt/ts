@@ -32,7 +32,7 @@ Klasik finansta bu daha az riskli ya da risksiz olarak adlandırılan ürünler,
 
 Her fikir ya da proje, özellikle başlangıç aşamasında fanatik bir topluluğa ihtiyaç duyar. Fanatikler, projenin eksik ve gediklerine rağmen onu diri tutar ve olgunlaşma öncesinde projenin düştüğü zamanlarda ayağa kalkmasına yardımcı olurlar. 
 
-Ne ki, aynı fanatiklik proje olgunlaşmaya başladıktan sonra toksiklik de getirebiliyor. Terra sistemi topluluğunda da son zamanlarda buna benzer hareketler görülmeye başlanmıştı. Sisteme yapılan eleştiriler başta Terra kurucusu Do Kwon olmak üzere topluluk üyelerinin adeta saldırısına [uğruyordu](https://twitter.com/stablekwon/status/1464897977793728514?s=20&t=jbrCdOsCTMywLNKXSYk-vA). 
+Ne ki, aynı fanatiklik proje olgunlaşmaya başladıktan sonra toksiklik de getirebiliyor. Terra sistemi topluluğunda da son zamanlarda buna benzer hareketler görülmeye başlanmıştı. Sisteme yapılan eleştiriler başta Terra kurucusu Do Kwon olmak üzere topluluk üyeleri tarafından [aptallıkla suçlanacak derecede](https://twitter.com/stablekwon/status/1464897977793728514?s=20&t=jbrCdOsCTMywLNKXSYk-vA) derecede saldırıya uğruyordu. 
 
 Yapılan eleştirilerin dikkate alınmaması, projelerin içerdiği risklerin tam olarak anlaşılmasına engel oluyor. Eğer gerekli tartışmalar yapılsa ve bu riskler tartışılsaydı, belki de kamuoyunda farkındalık artacak ve proje sahipleri üzerinde gerekli geliştirmeleri yapmaları için bir baskı yaratılabilecekti. 
 
