@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "NFT nasıl değer katar? -1 "
+date:   2022-05-21 08:47:56 +0300
+categories: Genel
+tags: Yazılar, Web3, DeFi, DeFi'ye Giriş
+---
+
 NFT dünyasının incelediğimiz bu yazı dizimizin bu bölümünde bir NFT'nin bir sanat eserine nasıl değer katacağına bakacağız. 
 
 Geçtiğimiz iki bölümde önce NFT yani non-fungible-token tanımından başlamış, önce dijital dünyada sahiplik ne demek anlamaya çalışmış, sonra da dijital dünyada bir eseri tekil kılmayı sağlayan token (jeton) konseptine değinmiştik. Bu bölümde ise, dijital bir sanat eseri örneğinden yola çıkarak NFT'nin dijital bir esere nasıl değer katabileceğini somutlaştırmaya çalışacağız. 
@@ -23,3 +31,10 @@ Benzer bilgiyi aslına bakarsanız NFT üzerine uzmanlaşmış pazaryerlerinden 
 
 ### Devamı bir sonraki yazıya
 Bir sonraki yazımızda NFT'nin bir esere nasıl değer kattığını irdelemeye devam edeceğiz. 
+
+
+*Not 1: Bu yazı ilk olarak 21 Mayıs 2022'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı]()*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.* 
