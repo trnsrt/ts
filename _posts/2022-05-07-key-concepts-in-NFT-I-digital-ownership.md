@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Key concepts in NFT I - Digital Ownership"
-date:   2022-04-29 17:47:56 +0300
+date:   2022-05-07 17:47:56 +0300
 categories: Genel
 tags: Yazılar, Articles, NFT
 ---
@@ -33,6 +33,6 @@ In fact, the owners of many NFTs never hide their collections. Just ask them whe
 We will continue our mini-series with fungibility and non-fungibility concepts.
 
 ---
-*This piece is [first published]() in [BlockchainIST Center](https://medium.com/blockchainist-center) on April 29th, 2022.*
+*This piece is [first published](https://medium.com/bcistcenter/key-concepts-in-nfts-i-digital-ownership-e4e65eb0a20e) in [BlockchainIST Center](https://medium.com/blockchainist-center) on May 7th, 2022.*
 
 *None of the views expressed in this article should be considered as investment advice*
