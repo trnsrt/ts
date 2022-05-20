@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "UST'de son perde"
-date:   2022-05-20 17:47:56 +0300
+date:   2022-05-20 17:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
 ---
