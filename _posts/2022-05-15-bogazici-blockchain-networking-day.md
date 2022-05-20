@@ -6,9 +6,7 @@ categories: Genel
 tags: videos Etkinlikler
 ---
 
-<img align="left" src="/assets/bogazici_networking_day_poster_800.jpg" style="width:40%; padding-right:20px"> [Boğaziçi Üniversitesi Blockchain Topluluğu](https://twitter.com/bogazicichain) tarafından düzenlenen '[Boğaziçi Blockchain Networking Day](https://blockchainnetworkingday.com/)'de [Erinç Albey](https://twitter.com/erincalbey) ve [Tansel Kaya](https://twitter.com/TanselKayaTR) ile birlikte 'Web3'de Trendler ve Veri Analitiği' paneline konuk olduk. Oldukça keyifli geçen panel sonrası, öğrenci toplulukları ile bir arada olmak ayrı bir zevkti. Davetleri için kendilerine teşekkür ederim. 
-
-Bu arada teşekkürlerden bir tanesi de, özellikle şehir dışından gelen öğrenci topluluklarının ulaşım masraflarını üstelenerek kendilerini destekleyen Luna DAO ekibi ve Vidal Arditi'ye. Ekosistemi geliştirmek için verdikleri çabalar umarım başka oluşumlara da ilham verir. 
+<img align="left" src="/assets/bogazici_networking_day_poster_800.jpg" style="width:40%; padding-right:20px"> [Boğaziçi Üniversitesi Blockchain Topluluğu](https://twitter.com/bogazicichain) tarafından düzenlenen '[Boğaziçi Blockchain Networking Day](https://blockchainnetworkingday.com/)'de [Erinç Albey](https://twitter.com/erincalbey) ve [Tansel Kaya](https://twitter.com/TanselKayaTR) ile birlikte 'Web3'de Trendler ve Veri Analitiği' paneline konuk olduk. Oldukça keyifli geçen panel sonrası, öğrenci toplulukları ile bir arada olmak ayrı bir zevkti. Davetleri için kendilerine teşekkür ederim. Bu arada teşekkürlerden bir tanesi de, özellikle şehir dışından gelen öğrenci topluluklarının ulaşım masraflarını üstelenerek kendilerini destekleyen Luna DAO ekibi ve Vidal Arditi'ye. Ekosistemi geliştirmek için verdikleri çabalar umarım başka oluşumlara da ilham verir. 
 
 &nbsp;
 
