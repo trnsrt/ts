@@ -62,4 +62,4 @@ Devredilemez token, değiştirilebilir token (fungible token) ve değiştirileme
 
 Pratik uygulamada özellikle mahremiyet ile işlevsellik arasındaki hassas dengeyi tutturabilirse, önümüzdeki beş yıl içinde adından çokça söz ettirebilir. Hep söylediğimiz gibi, gelecek heyecan verici, hep birlikte yaşayarak göreceğiz. 
 
-[^1] İlk bölümde bahsetiğimiz, Weyl, Ohlhaver ve Buterin tarafından 10 Mayıs 2022'de yayınlanan '[Decentralized Society: Finding Web3's Soul](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763)' isimili makale Sayfa 2'den alıntı. 
+[^1] İlk bölümde bahsettiğimiz, Weyl, Ohlhaver ve Buterin tarafından 10 Mayıs 2022'de yayınlanan '[Decentralized Society: Finding Web3's Soul](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763)' isimili makale Sayfa 2'den alıntı. 
