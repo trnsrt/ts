@@ -1,32 +1,32 @@
 Coindesk için kaleme alacağım bu satırlarda, Web3 olarak adlandırılan merkeziyetsiz sistemlere dayalı yeni dünyanın bugünü ve geleceği ile ilgili ilginç konuları ele almaya çalışacağım. Umarım keyifli bir yolculuk olur. 
 
-Bugünkü konumuz, bu yıl Ocak ayında Ethereum kurucularından Vitalik Buterin tarafından [ortaya atılan](https://vitalik.ca/general/2022/01/26/soulbound.html), geçtiğimiz günlerde de yine Vitalik'in de yer aldığı bir ekip tarafından üzerine bir [araştırma yayınlanan](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763) Soulbound token olacak. 
+Bugünkü konumuz, bu yıl Ocak ayında Ethereum kurucularından Vitalik Buterin tarafından [ortaya atılan](https://vitalik.ca/general/2022/01/26/soulbound.html)ve geçtiğimiz günlerde içinde Vitalik'in de yer aldığı bir ekip tarafından üzerine bir [araştırma yayınlanan](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763) Soulbound token olacak. 
 
-Soulbound token (kısa adıyla SBT) sözlük anlamıyla 'ruhen bağlı', daha anlaşılır bir anlatımla transfer edilemez, devredilemez ya da kişiye 'özden bağlı' yeni nesil bir token standardı. Ne olduğunu açıklamadan önce dilerseniz öncelikle aşina olduğumuz iki token çeşidini tekrar hatırlayalım. 
+Soulbound token ('SBT') tıpatıp çeviride 'ruhen bağlı', daha anlaşılır bir ifadeyle transfer edilemez, devredilemez ya da kişiye 'özden bağlı' anlamında kullanılan yeni nesil bir token standardı. Ne olduğuna ve nasıl çalıştığına girmeden önce dilerseniz öncelikle aşina olduğumuz iki token çeşidini tekrar hatırlayalım.
 
 ### 'Token' ne demek?
 
-Kelime anlamı olarak jeton ya da belirteç olarak Türkçeye çevrilse de gündelik hayatta token kelimesinin İngilizce orijinal haliyle kullanımının yaygınlaştığını görüyoruz. Token ile coin de sıkça karıştırılan kavramlar, bu nedenle ikisinin farkı ile başlayalım. 
+Tam kelime anlamı olarak jeton ya da belirteç olarak Türkçeye çevrilse de gündelik hayatta 'token' kelimesinin İngilizce orijinal haliyle kullanımının yaygınlaştığını görüyoruz. Bunun yanında bir de coin terimi var ki, bunlar token ile sıkça karıştırılan kavramlar, bu nedenle ikisinin farkı ile başlayalım.
 
 Coin herhangi bir blokzincirin ana/temel (native) parası olarak adlandırılabilir. Piyasa değeri en büyük iki tanesi Bitcoin blokzincirinin parası olan BTC ile Ethereum blokzincirinin parası ETH olarak sıralanıyor.  Tokenler ise blokzincirlerin üzerine kurulu uygulamalar tarafından çıkarılan ve herhangi bir dijital varlığı temsil eden kod parçacıkları. Farklı farklı çeşitleri olmakla beraber bugün iki temel token standardına değineceğiz. 
 
 #### Fungible tokenler
 
-Bunlardan ilki, paranın temel özelliklerinden değiştirilebilir olmasıyla ön plana çıkan Fungible tokenler (değiştirilebilir ya da birbirinin aynı tokenler). Aslına bakarsanız kripto dünyasında borsalarda işlem gören hemen hemen her tür token bu kategorinin altına giriyor. Orijinal olduğu sürece tokenlerden hangi birini satın aldığınızın ya da sattığınızın bir önemi olmuyor. Her biri diğerinin aynısı. 
+Bunlardan ilki, paranın temel özelliklerinden değiştirilebilir olmasıyla ön plana çıkan Fungible tokenler (değiştirilebilir ya da birbirinin aynı tokenler). Aslına bakarsanız kripto dünyasında işlem gören hemen hemen her tür token bu kategorinin altına giriyor. Orijinal olduğu sürece tokenlerden hangi birini satın aldığınızın ya da sattığınızın bir önemi olmuyor. Her biri diğerinin aynısı.
 
 #### Non-Fungible tokenler (NFT'ler)
 
-Non-fungible tokenler ise yukarıda saydığımız kategorinin tam tersi. Her bir tokenin diğerinden farklı olarak üretilmesini sağlayan bir standart. Dijital dünyada her tür varlığı aynı fiziki dünyada olduğu gibi tekilleştirmeye yarayan bir sistem. Hayatımıza daha çok sanat eserleri ile girse de, ileride tapulardan noter hizmetlerine dijital dünyada sahiplik gerektiren her tür işlemde kullanılabilecek bir araç olacaklarına hiç şüphe yok.  
+Non-fungible tokenler ise yukarıda saydığımız kategorinin tam tersi. Her bir tokenin diğerinden farklı olarak üretilmesini sağlayan bir standart. Dijital dünyada her tür varlığı aynı fiziki dünyada olduğu gibi tekilleştirmeye yarayan bir sistem. Hayatımıza daha çok sanat eserleri ile girse de, ileride tapulardan noter hizmetlerine dijital dünyada sahiplik gerektiren her tür işlemde kullanılacak bir araç olacaklarına hiç şüphe yok.
 
 #### Tokenlerin sahipliği
-Tokenlerin popüler olmalarının pek çok nedeni olsa da, kullanıcı açısından sağladığı en önemli faydalardan bir tanesi dijital dünyada rahatça el değiştirilebiliyor olmaları. Elektronik cüzdanında token tutan bir kişi, canı istediğinde gece-gündüz, hafta içi-sonu demeden, saniyeler içinde o tokeni dünyanın başka ucunda yaşayan bir kişiye devredebilir ya da finansal işlemlerde kullanabilir. Bu sayede klasik varlıklara göre çok daha likit ve yüksek devir hızına sahip bir enstrüman hayatımıza girmiş oldu. 
+Tokenlerin popüler olmalarının pek çok nedeni olsa da, kullanıcı açısından sağladığı en önemli faydalardan bir tanesi dijital dünyada rahatça el değiştirilebiliyor olmaları. Elektronik cüzdanında token tutan bir kişi, canı istediğinde gece-gündüz, hafta içi-sonu demeden, saniyeler içinde o tokeni dünyanın başka ucunda yaşayan bir kişiye devredebilir ya da finansal işlemlerde kullanabilir. Bu sayede klasik varlıklara göre çok daha likit ve yüksek devir hızına sahip bir enstrüman hayatımıza girmiş oluyor. 
 
 Peki ya, kimi durumlarda tokeni değiştirmeye gerek yoksa? Hatta bu istenmiyorsa? Nasıl mı? Gelin bakalım. 
 
 ### Sıra geldi devredilemez tokenlere... 
-Devredilemez token, kişilerin sahip oldukları tokenleri başkasına transfer edemedikleri yeni bir standart olarak ortaya çıkarılmak isteniyor. İyi de neden böyle bir özelliğe ihtiyaç duyarız?  
+SBT yani Türkçesiyle 'devredilemez token', kişilerin sahip oldukları tokenleri başkasına transfer edemedikleri yeni bir standart olarak ortaya çıkarılmak isteniyor. İyi de neden böyle bir özelliğe ihtiyaç duyarız?  
 
-Yukarıda bahsettiğimiz iki token standardında, tokenlerin anonim kişiler arasında para karşılığı değiştirilebiliyor olması, tokenlere ciddi bir ekstra değer katıyor. Bu sayede, özellikle Web3'ün finans kolu diyebileceğimiz DeFi (merkeziyetsiz finans) alanında hemen hemen her gün daha önce hiç aklımıza bile gelmeyecek farklı ve yaratıcı ürünler ile karşılaşıyoruz.
+Yukarıda bahsettiğimiz iki token standardında, tokenlerin anonim kişiler arasında para karşılığı değiştirilebiliyor olması, tokenlere ciddi bir katma değer sağlıyor. Bu sayede, özellikle Web3'ün finans kolu diyebileceğimiz DeFi (merkeziyetsiz finans) alanında hemen hemen her gün daha önce hiç aklımıza bile gelmeyecek farklı ve yaratıcı ürünler ile karşılaşıyoruz.
 
 'Ne var ki, finansın üzerinde döndüğü ekonomik değer, insanlar ve onların ilişkileri üzerinden yaratılıyor. Web3 dünyası şu anki haliyle, anonim yapısından dolayı, bu tip ilişkileri götürebilecek bir 'sosyal kimlik' temelinden yoksun. Bu durum hem Web3'ün hâlâ Web2 dünyasının merkezi otoritelerine ihtiyaç duymasına neden oluyor, hem de örneğin DeFi alanındaki uygulamaların reel ekonominin aktivitelerine destek olmasını engelliyor'[^1]
 
@@ -61,3 +61,5 @@ Halbuki, kişinin bitirdiği okulları, edindiği sertifikaları, çalıştığ�
 Devredilemez token, değiştirilebilir token (fungible token) ve değiştirilemez token (NFT - non-fungible-token) sonrası hayatımıza girecek üçüncü önemli token çeşidi olabilir. Bu özelliği ile NFT piyasasının yanında hatırı sayılır bir yer kapabilir. Geniş bir kullanım alanı olacağı şimdiden görülüyor. Örneğin, DeFi'nin gerçek hayatla buluşmasının önündeki en büyük engellerden birinin çözülmesinde yardımcı olabilir. Öte yandan, dijital dünyada yeni oluşan topluluklar (DAO'lar - merkeziyetsiz otonom yapılar) için de hayati bir işleve sahip olabilirler (bu konuya sonraki yazılarımızda değineceğiz). 
 
 Pratik uygulamada özellikle mahremiyet ile işlevsellik arasındaki hassas dengeyi tutturabilirse, önümüzdeki beş yıl içinde adından çokça söz ettirebilir. Hep söylediğimiz gibi, gelecek heyecan verici, hep birlikte yaşayarak göreceğiz. 
+
+[^1] İlk bölümde bahsetiğimiz, Weyl, Ohlhaver ve Buterin tarafından 10 Mayıs 2022'de yayınlanan '[Decentralized Society: Finding Web3's Soul](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763)' isimili makale Sayfa 2'den alıntı. 
