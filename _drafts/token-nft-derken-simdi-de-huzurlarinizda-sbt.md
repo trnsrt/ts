@@ -1,6 +1,6 @@
 Coindesk için kaleme alacağım bu satırlarda, Web3 olarak adlandırılan merkeziyetsiz sistemlere dayalı yeni dünyanın bugünü ve geleceği ile ilgili ilginç konuları ele almaya çalışacağım. Umarım keyifli bir yolculuk olur. 
 
-Bugünkü konumuz, bu yıl Ocak ayında Ethereum kurucularından Vitalik Buterin tarafından [ortaya atılan](https://vitalik.ca/general/2022/01/26/soulbound.html)ve geçtiğimiz günlerde içinde Vitalik'in de yer aldığı bir ekip tarafından üzerine bir [araştırma yayınlanan](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763) Soulbound token olacak. 
+Bugünkü konumuz, bu yıl Ocak ayında Ethereum kurucularından Vitalik Buterin tarafından [ortaya atılan](https://vitalik.ca/general/2022/01/26/soulbound.html) ve geçtiğimiz günlerde içinde Vitalik'in de yer aldığı bir ekip tarafından üzerine bir [araştırma yayınlanan](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763) Soulbound token olacak. 
 
 Soulbound token ('SBT') tıpatıp çeviride 'ruhen bağlı', daha anlaşılır bir ifadeyle transfer edilemez, devredilemez ya da kişiye 'özden bağlı' anlamında kullanılan yeni nesil bir token standardı. Ne olduğuna ve nasıl çalıştığına girmeden önce dilerseniz öncelikle aşina olduğumuz iki token çeşidini tekrar hatırlayalım.
 
@@ -32,7 +32,7 @@ Yukarıda bahsettiğimiz iki token standardında, tokenlerin anonim kişiler ara
 
 İşte devredilemez token, kişilerin bir yandan mahremiyetlerini korurken diğer yandan güven sağlayıcı sosyal ilişkiler kurmasına olanak verecek yeni bir sistem yaratmaya çalışıyor. Bu sistemi, kişilerin cüzdanlarında taşıyacakları ve başkasına devredemeyecekleri tokenlerden oluşan bir nevi 'gelişmiş bir CV' olarak düşünebilirsiniz. Bu tokenler, kişinin 'gerçek' kimliğini açık etmeden geçmişte biriktirdiği para ile satın alınamayacak sosyal sermayesinin kanıtı olacak. Örneğin?
 
-Geçmişte gittiğiniz okullar, aldığınız eğitimler, edindiğiniz yetkinliklerden tutun, herhangi bir etkinlikte bulunmaya, herhangi bir oluşumun için erken yer almaya kadar kurduğunuz sosyal ilişkileri kanıtlayacak pek çok farklı alan bu tokenlerin radarına girebilir. Karşı kurumlar tarafından sizlere verilen kimliğinizi açık etmeden yetkinliğinizi kanıtlayabileceğiniz belgeler. 
+Geçmişte gittiğiniz okullar, aldığınız eğitimler, edindiğiniz yetkinliklerden tutun, herhangi bir etkinlikte bulunmaya, herhangi bir oluşumun içinde erken yer almaya kadar kurduğunuz sosyal ilişkileri kanıtlayacak pek çok farklı alan bu tokenlerin radarına girebilir. Karşı kurumlar tarafından sizlere verilen kimliğinizi açık etmeden yetkinliğinizi kanıtlayabileceğiniz belgeler. 
 
 #### Dijital kimlikten farkı ne bunun?
 
@@ -46,15 +46,15 @@ Dijital dünyanın gereksinimleri, dijital kimlik ile çözülemeyecek kadar far
 
 Merkeziyetsiz finans alanında devredilemez tokenlerin ciddi bir ekonomik potansiyeli olabilir. Gelin bir örnek ile bakalım: 
 
-Şu anda DeFi alanında borç veren platformlar, karşı parti riski almamak için yüksek teminat oranları ile çalışıyor. Örneğin MakerDAO protokolünden 100 ABD Doları borç almak isterseniz, karşılığında 150 ABD Doları teminat koymanız gerekir. Oysa ki reel dünyada finans kurumları, kredi verdikleri kişilerden bu oranda yüksek teminat istemez. Bunun temel nedeni, kurumların, müşterilerinin yaptıkları işler, sahip olduğu varlıklar ya da kredi geçmişleri konusunda yıllardır tutulan bilgilere erişimleri olması. (Bilgilerin şeffaflığı ve güvenirliği, bilgi eksikliği nedeniyle belli kesimlerin negatif ayrımcılığa uğraması gibi konular yıllardır tartışılmakta)
+Şu anda DeFi alanında borç veren platformlar, karşı parti riski almamak için yüksek teminat oranları ile çalışıyor. Örneğin, MakerDAO protokolünden 100 ABD Doları borç almak isterseniz, karşılığında 150 ABD Doları teminat koymanız gerekir. Oysa ki reel dünyada finans kurumları, kredi verdikleri kişilerden bu oranda yüksek teminat istemez. Bunun temel nedeni, kurumların, müşterilerinin yaptıkları işler, sahip olduğu varlıklar ya da kredi geçmişleri konusunda yıllardır tutulan bilgilere erişimleri olması. (Bilgilerin şeffaflığı ve güvenirliği, bilgi eksikliği nedeniyle belli kesimlerin negatif ayrımcılığa uğraması gibi konular yıllardır tartışılmakta)
 
 Web3'de de benzer şekilde cüzdanlar aracılığıyla yapılan işlemler görülebilir, cüzdanın sahibi için geçmiş hareketlerinden benzer bir kredi özeti çıkarılabilir. Ancak cüzdan içindeki varlıkların birbirinden bağımsız olmaları ve rahatça dışarıya transfer edilebilmeleri, bu cüzdanların ne kadar güvenilir olduğu konusunda şüphe yaratıyor. 
 
-Halbuki, kişinin bitirdiği okulları, edindiği sertifikaları, çalıştığı kurumları, daha önce aldığı ve geri ödediği kredilerden edindiği devredilemez tokenleri içeren cüzdanlar, kredi alanın 'sosyal sermayesini (reputasyonunu)' ortaya koyduğu için, içinde yeterli varlık olmasa da teminat olarak kabul edilebilir. Kredi verenin, verdiği kredi karşılığı cüzdana koyacağı transfer edilemez tokenler, kredi geri ödendiğinde yakılarak yerine kredinin ödendiğini belirten bir token ile değiştirilerek cüzdanın reputasyonunu artırabilir, ya da geri ödenmediğinde bir kara leke olarak cüzdanın tüm kredibilitesini yerle bir edebilir. 
+Halbuki, kişinin bitirdiği okulları, edindiği sertifikaları, çalıştığı kurumları, daha önce aldığı ve geri ödediği kredilerden edindiği devredilemez tokenleri içeren cüzdanlar, kredi alanın 'sosyal sermayesini (reputasyonunu)' ortaya koyduğu için yeterince 'somut varlık' içermese de teminat olarak kabul edilebilir. Kredi verenin, verdiği kredi karşılığı cüzdana koyacağı transfer edilemez tokenler, kredi geri ödendiğinde yakılarak yerine kredinin ödendiğini belirten bir token ile değiştirilerek cüzdanın reputasyonunu artırabilir, ya da geri ödenmediğinde bir kara leke olarak cüzdanın tüm kredibilitesini yerle bir edebilir. 
 
 #### Geniş kesimlere ne zaman yaygınlaşır? Önündeki engeller neler?
 
-Öncelikle şunu belirtelim. Devredilemez tokenler henüz teori aşamasında. Gelişmesi oldukça zaman alacak. Sistemin önünde çözülmesi gereken sorunlar var. Pratik olarak cüzdanın anahtarlarının kaybolması durumundan ne olacak? Kişilerin mahremiyeti yeterince korunabilecek mi? Tokenleri basıp kişilere veren sonra bunları istedikleri zaman yakabilen kurumlara ne kadar güvenilebilir?  Bütün bu sorulara karşı teorik çözümler getirilmiş olsa da gerçek hayata uygulanmak istendiği noktada pek çok değişiklik, yenilik olacağını öngörmek o kadar da zor değil. 
+Öncelikle şunu belirtelim. Devredilemez tokenler henüz teori aşamasında. Gelişmesi oldukça zaman alacak. Sistemin önünde çözülmesi gereken sorunlar var. Pratik olarak cüzdanın anahtarlarının kaybolması durumunda ne olacak? Kişilerin mahremiyeti yeterince korunabilecek mi? Tokenleri basıp kişilere veren sonra bunları istedikleri zaman yakabilen kurumlara ne kadar güvenilebilir?  Bütün bu sorulara karşı teorik çözümler getirilmiş olsa da gerçek hayata uygulanmak istendiği noktada pek çok değişiklik, yenilik olacağını öngörmek o kadar da zor değil. 
 
 ### Sonuç 
 
