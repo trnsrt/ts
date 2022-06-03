@@ -22,7 +22,7 @@ There are several caveats to the paragraph above. One of these notes might be fa
 
 In crypto world, fungibility is key for cryptocurrencies. Each and every coin or token should be replaced with another one - this is important as that coin or token to be freely used and exchanged between people. This is how you utilize the 'medium of exchange' function of the money. 
 
-Non-fungibility is the polar opposite of this. It means each and every token can be unique. Thanks to emerging blockchain technology, we managed to make digital goods in limitied quantity. This uniqueness brings vast opportunities - this actually enables us to replicate physical life (where each and every item is unique) in digital life. Right now what we have seen so far in NFT area is really the tip of the iceberg. 
+Non-fungibility is the polar opposite of this. It means each and every token can be unique. Thanks to emerging blockchain technology, we managed to make digital goods in limited quantity. This uniqueness brings vast opportunities - this actually enables us to replicate physical life (where each and every item is unique) in digital life. Right now what we have seen so far in NFT area is really the tip of the iceberg. 
 
 We will have a detailed look at scarcity concept in our next post.
 
