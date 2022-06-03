@@ -6,13 +6,13 @@ categories: Genel
 tags: Yazılar, Articles, NFT
 ---
 
-In our series on key NFT concepts, we started with digital ownership in our first post. We continue our series with non-fungibility concept. 
+We continue our series with fungibility and non-fungibility concept. 
 
-In order to understand what a 'non-fungible token is' perhaps it might make sense to look at fungible token first. 
+In our series on key NFT concepts, we started with digital ownership in our first post. We continue our series with non-fungibility concept. In order to understand what a 'non-fungible token is' perhaps it might make sense to look at fungible token first. 
 
-| ![mona_lisa](/assets/mona_lisa-1053852_800.jpg)|
+| ![crowd](/assets/crowd-3513215_800.jpg)|
 |:--:| 
-| *Image by [Bronisław Dróżka ](https://pixabay.com/users/uroburos-325152/) from [Pixabay](https://pixabay.com/)*|
+| *Image by [Gerd Altmann]([https://pixabay.com/users/uroburos-325152/](https://pixabay.com/users/geralt-9301/)) from [Pixabay](https://pixabay.com/)*|
 
 Fungibility is one of the key attributes of money. According to [Wikipedia](https://en.wikipedia.org/wiki/Fungibility) 'fungibility is the property of a good or a commodity whose individual units are essentially interchangeable and each of whose parts is indistinguishable from another part'. 
 
