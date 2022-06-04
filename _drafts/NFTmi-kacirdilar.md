@@ -1,7 +1,17 @@
-Seth Green'in sahip olduğu bir NFT'nin çalınması, bu alandaki telif hakları konusunu bir kez daha gündeme getirdi. Gelin neler yaşandığına sonrasındaki tartışmalar ile birlikte bir göz atalım. 
+Seth Green'in sahip olduğu bir NFT'nin çalınması, bu alandaki telif hakları konusunu bir kez daha gündeme getirdi. 
+
+| ![fear](/assets/fear-1172407_800.jpg)|
+|:--:| 
+| *Image by [ErikaWittlieb]([https://pixabay.com/users/misskursovie2013-6341223/](https://pixabay.com/users/erikawittlieb-427626/)) from [Pixabay](https://pixabay.com/)*|
+
+Gelin neler yaşandığına sonrasındaki tartışmalar ile birlikte bir göz atalım. 
 
 ### Neler oldu?
 [Seth Green](https://en.wikipedia.org/wiki/Seth_Green), Austin Powers filmin Dr. Evil'in oğlunu canlandırdığı [Scott Evil](https://www.imdb.com/title/tt0118655/characters/nm0001293) karakteriyle üne kavuşmuş bir Hollywood aktörü. Sanat ve eğlence dünyasındaki pek çok ünlü gibi yeni teknolojilere ilgili biri ve geçtiğimiz seneden beri NFT'lere [merak salmış](https://opensea.io/SethGreen) durumda. Koleksiyonu içindeki en pahalı ve nadir eserlerden biri de daha önce yazılarımızda sıkça bahsettiğimiz Bored Ape Yacht Club'ın (BAYC) 8398 numaralı üyesi olan aşağıda gördüğünüz maymun (idi). 
+
+| ![bayc_8398](/assets/bayc_8398_800.jpg.jpg)|
+|:--:| 
+| *Seth Green tarafından çaldırılan BAYC #8398 Kaynak: [OpenSea](https://opensea.io/assets/ethereum/0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d/8398)*|
 
 Yukarıdaki cümlemizin sonuna parantez içinde '(idi)' yazdık, zira Green'in altı ay önce koleksiyonuna [kattığı](https://etherscan.io/tx/0x85192cfe46518bf60ec48985815ab392d4c3a23d57f3a9171167d4925734c508) bu parça 8 Mayıs günü [çalındı](https://etherscan.io/tx/0x4337abd5770848c5140769a592e10aaba26213129afd7dbbad7ded5f0880687a). 
 
