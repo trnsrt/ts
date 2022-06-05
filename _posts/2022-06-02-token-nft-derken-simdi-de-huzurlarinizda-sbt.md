@@ -1,4 +1,10 @@
-Coindesk için kaleme alacağım bu satırlarda, Web3 olarak adlandırılan merkeziyetsiz sistemlere dayalı yeni dünyanın bugünü ve geleceği ile ilgili ilginç konuları ele almaya çalışacağım. Umarım keyifli bir yolculuk olur. 
+---
+layout: post
+title:  "Token, NFT derken şimdi de SBT"
+date:   2022-06-02 17:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi, CoindeskTR
+---
 
 Bugünkü konumuz, bu yıl Ocak ayında Ethereum kurucularından Vitalik Buterin tarafından [ortaya atılan](https://vitalik.ca/general/2022/01/26/soulbound.html) ve geçtiğimiz günlerde içinde Vitalik'in de yer aldığı bir ekip tarafından üzerine bir [araştırma yayınlanan](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763) Soulbound token olacak. 
 
@@ -24,7 +30,14 @@ Tokenlerin popüler olmalarının pek çok nedeni olsa da, kullanıcı açısın
 Peki ya, kimi durumlarda tokeni değiştirmeye gerek yoksa? Hatta bu istenmiyorsa? Nasıl mı? Gelin bakalım. 
 
 ### Sıra geldi devredilemez tokenlere... 
-SBT yani Türkçesiyle 'devredilemez token', kişilerin sahip oldukları tokenleri başkasına transfer edemedikleri yeni bir standart olarak ortaya çıkarılmak isteniyor. İyi de neden böyle bir özelliğe ihtiyaç duyarız?  
+SBT yani Türkçesiyle 'devredilemez token', kişilerin sahip oldukları tokenleri başkasına transfer edemedikleri yeni bir standart olarak ortaya çıkarılmak isteniyor. 
+
+
+| ![chain](/assets/pendant-941232_800.jpg)|
+|:--:| 
+| *Image by [Erika Fulop](https://[pixabay.com/users/geralt-9301/](https://pixabay.com/users/efulop-97816/)) from [Pixabay](https://pixabay.com/)*|
+
+İyi de neden böyle bir özelliğe ihtiyaç duyarız?  
 
 Yukarıda bahsettiğimiz iki token standardında, tokenlerin anonim kişiler arasında para karşılığı değiştirilebiliyor olması, tokenlere ciddi bir katma değer sağlıyor. Bu sayede, özellikle Web3'ün finans kolu diyebileceğimiz DeFi (merkeziyetsiz finans) alanında hemen hemen her gün daha önce hiç aklımıza bile gelmeyecek farklı ve yaratıcı ürünler ile karşılaşıyoruz.
 
@@ -63,3 +76,14 @@ Devredilemez token, değiştirilebilir token (fungible token) ve değiştirileme
 Pratik uygulamada özellikle mahremiyet ile işlevsellik arasındaki hassas dengeyi tutturabilirse, önümüzdeki beş yıl içinde adından çokça söz ettirebilir. Hep söylediğimiz gibi, gelecek heyecan verici, hep birlikte yaşayarak göreceğiz. 
 
 [^1] İlk bölümde bahsettiğimiz, Weyl, Ohlhaver ve Buterin tarafından 10 Mayıs 2022'de yayınlanan '[Decentralized Society: Finding Web3's Soul](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763)' isimili makale Sayfa 2'den alıntı. 
+
+
+---
+
+*Not 1: Bu yazı ilk olarak 2 Haziran 2022'de [Coindesk Türkiye](https://www.coindeskturkiye.com/))'de [yayınlandı](https://www.btchaber.com/ust-olayinda-son-perde/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
+
+https://www.coindeskturkiye.com/yazarlar/turan-sert/token-nft-derken-simdi-de-karsinizda-soulbound-token-devredilemez-token-375
