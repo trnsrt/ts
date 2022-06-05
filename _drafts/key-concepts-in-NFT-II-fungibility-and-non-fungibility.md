@@ -6,9 +6,9 @@ categories: Genel
 tags: Yazılar, Articles, NFT
 ---
 
-We continue our series with fungibility and non-fungibility concept. 
+We continue our series with fungibility and non-fungibility concepts. 
 
-In our series on key NFT concepts, we started with digital ownership in our first post. We continue our series with non-fungibility concept. In order to understand what a 'non-fungible token is' perhaps it might make sense to look at fungible token first. 
+In our series on key NFT concepts, we started with digital ownership in the first post. We continue our series with non-fungibility concept. In order to understand what a 'non-fungible token is' perhaps it might make sense to look at fungible token first. 
 
 | ![crowd](/assets/crowd-3513215_800.jpg)|
 |:--:| 
@@ -18,13 +18,13 @@ Fungibility is one of the key attributes of money. According to [Wikipedia](http
 
 In short, if you give me 10 US dollars that you have in your pocket and I gave you the 10 dollars that I have in my wallet, we are even. Nothing changes. That 10 dollars in your pocket and my 10 dollars in my wallet are exactly the same. 
 
-There are several caveats to the paragraph above. One of these notes might be fake and that is a whole different story. Another issue is those two banknotes seems same but they are not as each one has a unique serial number. A better example would be a gold coin certified by an expert. 10 grams of a gold var would be exactly the same of another 10 grams gold var. Back to our original story:
+There are several caveats to the paragraph above. One of these notes might be fake and that is a whole different story. Another issue is those two banknotes seem the same but they are not as each one has a unique serial number. A better example would be a gold coin certified by an expert. 10 grams of a gold bar would be exactly the same as another 10 grams of gold bar. Back to our original story:
 
-In crypto world, fungibility is key for cryptocurrencies. Each and every coin or token should be replaced with another one - this is important as that coin or token to be freely used and exchanged between people. This is how you utilize the 'medium of exchange' function of the money. 
+In the crypto world, fungibility is key for cryptocurrencies. Each and every coin or token should be replaced with another one - this is important as that coin or token is to be freely used and exchanged between people. This is how you utilize the 'medium of exchange' function of money.
 
-Non-fungibility is the polar opposite of this. It means each and every token can be unique. Thanks to emerging blockchain technology, we managed to make digital goods in limited quantity. This uniqueness brings vast opportunities - this actually enables us to replicate physical life (where each and every item is unique) in digital life. Right now what we have seen so far in NFT area is really the tip of the iceberg. 
+Non-fungibility is the polar opposite of this. It means each and every token can be unique. Thanks to emerging blockchain technology, we managed to make digital goods in limited quantity. This uniqueness brings vast opportunities - this actually enables us to replicate physical life (where each and every item is unique) in digital life. Right now what we have seen so far in NFT area is really the tip of the iceberg.
 
-We will have a detailed look at scarcity concept in our next post.
+We will have a detailed look at the scarcity concept in our next post.
 
 
 ---
