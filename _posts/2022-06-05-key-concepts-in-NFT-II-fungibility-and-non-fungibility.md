@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Key concepts in NFT II - Fungibility and non-fungibility"
-date:   2022-06-04 17:47:56 +0300
+date:   2022-06-05 17:47:56 +0300
 categories: Genel
 tags: Yazılar, Articles, NFT
 ---
@@ -28,7 +28,7 @@ We will have a detailed look at the scarcity concept in our next post.
 
 
 ---
-*This piece is [first published]() in [BlockchainIST Center](https://medium.com/blockchainist-center) on June 4th, 2022.*
+*This piece is [first published](https://medium.com/bcistcenter/key-concepts-in-nfts-ii-fungibility-and-non-fungibility-687a7697d7fd) in [BlockchainIST Center](https://medium.com/blockchainist-center) on June 5th, 2022.*
 
 *None of the views expressed in this article should be considered as investment advice*
 
