@@ -9,7 +9,7 @@ Bu yazımızda, Hollywood yıldızı Seth Green'in sahip olduğu NFT'nin çalın
 
 | ![bayc_8398](/assets/bayc_8398_800.jpg)|
 |:--:| 
-| *Seth Green tarafından çaldırılan BAYC #8398 Kaynak: [OpenSea](https://opensea.io/assets/ethereum/0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d/8398)*|
+| *Seth Green tarafından çaldırılan BAYC #8398. Kaynak: [OpenSea](https://opensea.io/assets/ethereum/0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d/8398)*|
 
 Yukarıdaki cümlemizin sonuna parantez içinde '(idi)' yazdık, zira Green'in altı ay önce koleksiyonuna [kattığı](https://etherscan.io/tx/0x85192cfe46518bf60ec48985815ab392d4c3a23d57f3a9171167d4925734c508) bu parça 8 Mayıs günü [çalındı](https://etherscan.io/tx/0x4337abd5770848c5140769a592e10aaba26213129afd7dbbad7ded5f0880687a). 
 
