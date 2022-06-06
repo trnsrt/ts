@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "DeFi geniş kitlelere nasıl yayılır?"
+date:   2022-06-15 17:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi, CoindeskTR
+---
+
 Hemen hemen tüm merkeziyetsiz teknolojilerde olduğu gibi DeFi'de de şu aralar bir yavaşlama söz konusu. 2020 yılının yaz aylarında başlayan DeFi yaz dönemi, 2022 yılı ile birlikte yerini kimine göre sonbahar kimine göre kışa bıraktı.  Gelin DeFi'nin şimdiye kadar yaşadığı büyüme hikayesi ile birlikte önümüzdeki dönemde daha geniş kitlelere ulaşması için nelere ihtiyaç duyduğuna göz atalım. 
 
 ### DeFi nasıl büyüdü?
@@ -62,3 +70,11 @@ Diğer büyük aday ise merkezi kurumlar. Merkezi kurumlardan kastımız, gerek 
 
 ### Sonuç 
 DeFi, kullanıcılara klasik finans ile karşılaştırıldığında oldukça farklı bir dünya sunuyor. Son iki yılda gösterdiği hızlı ivmenin ardından şu an soluklanma aşamasında. Kimilerinin 'ayı piyasası' olarak da adlandırdığı bu dönem, aslına bakarsanız DeFi'nin bir sonraki zıplamasına zemin hazırlayacak geliştirmeleri yapabilmesine olanak sağlayacak harika bir zaman parçası. Umarım bu alandaki girişimlerden gelecek yenilikler ve merkezi kurumlar ile yapılacak işbirlikleri DeFi'nin geniş kesimlerce adaptasyonu konusunda önemli bir katalizör olacak. Gelecek heyecanlı, hep birlikte göreceğiz. 
+
+---
+
+*Not 1: Bu yazı ilk olarak 15 Haziran 2022'de [Coindesk Türkiye](https://www.coindeskturkiye.com/))'de [yayınlandı]()*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
