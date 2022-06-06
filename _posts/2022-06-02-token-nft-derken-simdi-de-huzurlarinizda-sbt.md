@@ -85,5 +85,3 @@ Pratik uygulamada özellikle mahremiyet ile işlevsellik arasındaki hassas deng
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
 *Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
-
-https://www.coindeskturkiye.com/yazarlar/turan-sert/token-nft-derken-simdi-de-karsinizda-soulbound-token-devredilemez-token-375
