@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Bir NFT Çalınma Hikayesi"
+date:   2022-06-08 17:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
 Bu yazımızda, Hollywood yıldızı Seth Green'in sahip olduğu NFT'nin çalınmasının ardından yaşanan dijital dünyada telif hakları konusuna değiniyoruz. 
 
 | ![fear](/assets/fear-1172407_800.jpg)|
@@ -58,3 +66,11 @@ Yukarıdaki olayın, NFT'lerde sahiplik konusunda pek çok soruyu beraberinde ge
 Yukarıdaki sorular daha uzunca bir süre hem NFT dünyası hem de hukukçular tarafından tartışılacak. Tahminim, çok yüksek ihtimalle Seth Green ile DarkWing84 anlaşacaklar ve eser Green'e geri dönecek. Eğer anlaşamazlar da, Green, DarkWing84'ü eseri geri vermesi için dava ederse (ya da benzer şekilde Green diziyi çekmeye devam etmesi durumunda DarkWing84 Green'i mahkemeye verirse), ortaya NFT dünyasının eserlerinin fiziki dünyada kullanım hakları ile bundan sonra yaşanacak olayların çözümüne emsal teşkil edecek bir dava çıkabilir. 
 
 Ne olursa olsun bu olaydan çıkarılabilecek birkaç ders var aslında: Öncelikle kripto dünyasının kurallarının gerçek hayattan farklı olduğunu kabul ederek bu dünyaya girmek gerekiyor. Burada kurallar farklı işliyor, haklar ve onların transferleri fiziki dünyaya benzemiyor. Belki de bu nedenle BAYC olayında olduğu gibi eserlerin değerleri astronomik rakamlara ulaşabiliyor. Kişi olarak bizler, cüzdanımızı bağladığımız siteye ya da işlem yaparken verdiğimiz izinlere bir değil en az üç kez bakmalıyız, okuyup o izinleri neden verdiğimizi düşünmeliyiz ve tereddütte kalırsak, 'fırsat kaçıracağım' korkusuyla ilerlemek yerine şöyle bir sakinleşip 'reddet' tuşuna basmalıyız. Dilerim, hiçbirimiz bu tip tuzaklara düşmeyiz. 
+
+---
+
+*Not 1: Bu yazı ilk olarak 8 Haziran 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı]()*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
