@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "NFT nasıl değer katar? -1 "
-date:   2022-05-21 08:47:56 +0300
+date:   2022-05-25 08:47:56 +0300
 categories: Genel
 tags: Yazılar, Web3, DeFi, DeFi'ye Giriş
 ---
@@ -33,7 +33,7 @@ Benzer bilgiye aslına bakarsanız NFT üzerine uzmanlaşmış pazaryerlerinden 
 Bir sonraki yazımızda NFT'nin bir esere nasıl değer kattığını irdelemeye devam edeceğiz. 
 
 
-*Not 1: Bu yazı ilk olarak 21 Mayıs 2022'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı]()*
+*Not 1: Bu yazı ilk olarak 25 Mayıs 2022'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı](https://medium.com/blockchainist-center/nft-nas%C4%B1l-de%C4%9Fer-katar-1-718f3a1643ff)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
