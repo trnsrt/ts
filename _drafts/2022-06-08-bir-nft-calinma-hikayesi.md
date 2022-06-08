@@ -13,7 +13,7 @@ Bu yazımızda, Hollywood yıldızı Seth Green'in sahip olduğu NFT'nin çalın
 | *Image by [ErikaWittlieb]([https://pixabay.com/users/misskursovie2013-6341223/](https://pixabay.com/users/erikawittlieb-427626/)) from [Pixabay](https://pixabay.com/)*|
 
 ### Neler oldu?
-[Seth Green](https://en.wikipedia.org/wiki/Seth_Green), Austin Powers filmin Dr. Evil'in oğlunu canlandırdığı [Scott Evil](https://www.imdb.com/title/tt0118655/characters/nm0001293) karakteriyle üne kavuşmuş bir Hollywood aktörü. Sanat ve eğlence dünyasındaki pek çok ünlü gibi yeni teknolojilere ilgili biri ve geçtiğimiz seneden beri NFT'lere [merak salmış](https://opensea.io/SethGreen) durumda. Koleksiyonu içindeki en pahalı ve nadir eserlerden biri de daha önce yazılarımızda sıkça bahsettiğimiz [Bored Ape Yacht Club'ın (BAYC) 8398 numaralı üyesi olan](https://opensea.io/assets/ethereum/0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d/8398) aşağıda gördüğünüz maymun (idi). 
+[Seth Green](https://en.wikipedia.org/wiki/Seth_Green), Austin Powers filminde Dr. Evil'in oğlunu canlandırdığı [Scott Evil](https://www.imdb.com/title/tt0118655/characters/nm0001293) karakteriyle üne kavuşmuş bir Hollywood aktörü. Sanat ve eğlence dünyasındaki pek çok ünlü gibi yeni teknolojilere ilgili biri ve geçtiğimiz seneden beri NFT'lere [merak salmış](https://opensea.io/SethGreen) durumda. Koleksiyonu içindeki en pahalı ve nadir eserlerden biri de daha önce yazılarımızda sıkça bahsettiğimiz [Bored Ape Yacht Club'ın (BAYC) 8398 numaralı üyesi olan](https://opensea.io/assets/ethereum/0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d/8398) aşağıda gördüğünüz maymun (idi). 
 
 | ![bayc_8398](/assets/bayc_8398_v2_800.png)|
 |:--:| 
@@ -40,7 +40,7 @@ Seth Green'in bu olaydan canı çok yanmış durumda. 'İyi de zengin bir Hollyw
 
 ### NFT'lerde lisanslama
 
-BAYC'nin üreticisi olan Yuga Labs, bu NFT'lerin üzerindeki lisanslama da dahil her tür kullanım hakkını NFT'lerin [sahibine veriyor](https://boredapeyachtclub.com/#/terms) ve gerisine karışmıyor. Aslına bakarsanız, BAYC'nin bu kadar ünlü olması hatta kendinden daha önce çıkmış ve daha bilinen CryptoPunk koleksiyonunu değer olarak geçmesindeki en önemli etkenlerden bir tanesi, bu kadar geniş bir hakkı sahibine vermesi,
+BAYC'nin üreticisi olan Yuga Labs, bu NFT'lerin üzerindeki lisanslama da dahil her tür kullanım hakkını NFT'lerin [sahibine veriyor](https://boredapeyachtclub.com/#/terms) ve gerisine karışmıyor. Aslına bakarsanız, BAYC'nin bu kadar ünlü olması hatta kendinden daha önce çıkmış ve daha bilinen CryptoPunk koleksiyonunu değer olarak geçmesindeki en önemli etkenlerden bir tanesi, bu kadar geniş bir hakkı sahibine vermesi. 
 
 CryptoPunks sahipleri eserlerinin dijital haklarına sahipken fiziki dünyada kullanabilmek için koleksiyon üreticisi Lava Labs'den izin almaları gerekiyordu. Kimse de böyle bir zahmete girmek istemiyordu. 
 
@@ -50,7 +50,7 @@ Buradaki temel sorun ise, olası bir çalınma durumunda lisans haklarının da 
 
 Tartışmanın bir tarafında Seth Green var. Green, çalınmış bir eseri para ile satın alan kişinin eserin telif haklarına sahip olamayacağını [iddia ediyor](https://twitter.com/SethGreen/status/1529187693984329728). Bu nedenle, eserin sahibi olarak görünen DarkWing84'i dava etmeye hazır olduğunu ama öncesinde müzakereye açık olduğunu da belirtiyor. 
 
-Yine de Seth Green, BAYC #8398'in başrolünde oynadığı diziyi çekmekte sorun yaşayabilir. Zira, dizini ticari hakları başkasının elinde. Dizinin çekimi sonrası o başkası Green'i dava ederse ne olacak? Kimi avukatlar, eserin haklarının ancak 'satın alma' ile bir başkasına devredilebileceğini, 'çalınmanın' satın alma sayılamayacağını [iddia ediyorlar](https://twitter.com/prestonjbyrne/status/1529163822115827713). Onlara göre 'temiz eller' olarak da adlandırılan hukuki temayül gereği eserin yeni sahibinin davayı kazanması mümkün değil. 
+Yine de Seth Green, BAYC #8398'in başrolünde oynadığı diziyi çekmekte sorun yaşayabilir. Zira, dizinin ticari hakları başkasının elinde. Dizinin çekimi sonrası o başkası Green'i dava ederse ne olacak? Kimi avukatlar, eserin haklarının ancak 'satın alma' ile bir başkasına devredilebileceğini, 'çalınmanın' satın alma sayılamayacağını [iddia ediyorlar](https://twitter.com/prestonjbyrne/status/1529163822115827713). Onlara göre 'temiz eller' olarak da adlandırılan hukuki temayül gereği eserin yeni sahibinin davayı kazanması mümkün değil. 
 
 Öte yandan eserin şu anki sahibi olan DarkWing84 ise, satın aldığı sırada eserin çalıntı olduğunu bilmediğini, zaten oldukça yüklü bir para ödediğini, o nedenle geri vermeyi düşünmediğini belirtirken, bir yandan da Seth Green'in kendisi ile temasa geçmesini isteyerek olası bir müzakereye [yeşil ışık yakıyor](https://www.buzzfeednews.com/article/sarahemerson/seth-green-bored-ape-owner).
 
@@ -59,7 +59,7 @@ Yukarıdaki olayın, NFT'lerde sahiplik konusunda pek çok soruyu beraberinde ge
 
 - Seth Green, lisans kuralları açıkça belli olan, hatta bu nedenle bu kadar değerlenmiş, dijital dünya kuralları içinde işlem gören bir eser için, fiziki dünyanın telif haklarını gündeme getirerek hak talep edebilir mi? 
 - Eseri satın alan DarkWing84, eseri satın almadan önce daha detaylı araştırma yapabilir miydi? Eser 'çalıntı' görünmediği için, satın almakta dahası eseri geri vermemekte haklı mı? 
-- Eserin satın alıması sırasında kullanılan OpenSea, eseri 'çalıntı' olarak işaretleme konusunda daha hızlı davranabilir ya da başka farklı 'erken uyarı' önlemleri alabilir miydi?
+- Eserin satın alınması sırasında kullanılan OpenSea, eseri 'çalıntı' olarak işaretleme konusunda daha hızlı davranabilir ya da başka farklı 'erken uyarı' önlemleri alabilir miydi?
 - Yuga Labs, eserin hakları konusunda istisnai durumlar ile ilgili farklı koşullar koyabilir miydi? Koyacağı bu koşullar, kişilerin dijital dünyada herhangi bir esere 'tümüyle sahip olması' ilkesine aykırılık yaratır mıydı?
 
 ### Yorumlar
