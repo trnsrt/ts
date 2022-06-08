@@ -6,11 +6,11 @@ categories: Genel
 tags: Yazılar, DeFi, CoindeskTR
 ---
 
-Hemen hemen tüm merkeziyetsiz teknolojilerde olduğu gibi DeFi'de de şu aralar bir yavaşlama söz konusu. 2020 yılının yaz aylarında başlayan DeFi yaz dönemi, 2022 yılı ile birlikte yerini kimine göre sonbahar kimine göre kışa bıraktı.  Gelin DeFi'nin şimdiye kadar yaşadığı büyüme hikayesi ile birlikte önümüzdeki dönemde daha geniş kitlelere ulaşması için nelere ihtiyaç duyduğuna göz atalım. 
+Hemen hemen tüm merkeziyetsiz teknolojilerde olduğu gibi DeFi'de de şu aralar bir yavaşlama söz konusu. 2020 yılının yaz aylarında başlayan DeFi yaz dönemi, 2022 yılı ile birlikte, yerini kimine göre sonbahar kimine göre kışa bıraktı.  Gelin DeFi'nin şimdiye kadar yaşadığı büyüme hikayesi ile birlikte önümüzdeki dönemde daha geniş kitlelere ulaşması için nelere ihtiyaç duyduğuna bir göz atalım. 
 
 ### DeFi nasıl büyüdü?
 
-DeFi'nin yaz dönemi, protokollerin kendilerine ait yönetim tokenlerini teşvik olarak kullanıcılara dağıtmaları ile başlamıştı. DeFi protokolleri, çıkardıkları yönetim tokenleri sayesinde kurdukları havuzlara likidite sağlayan yatırımcılar ve bu havuzları kullanan kullanıcıları kendilerine çekmeyi başardılar.  Bu sayede büyümek için ihtiyaç duydukları likidite ve işlem hacmine ulaşmış oldular. Bir yanda da bu tokenler aracılığıyla protokollerinin yönetimini daha geniş bir kesime yayarak merkeziyetsizlik yolunda önemli bir yol katettiler. 
+DeFi'nin yaz dönemi, protokollerin kendilerine ait yönetim tokenlerini teşvik olarak kullanıcılara dağıtmaları ile başlamıştı. DeFi protokolleri, çıkardıkları yönetim tokenleri sayesinde kurdukları havuzlara likidite sağlayan yatırımcılar ve bu havuzların kullanıcılarını kendilerine çekmeyi başardılar.  Bu sayede büyümek için ihtiyaç duydukları likidite ve işlem hacmine ulaşmış oldular. Bir yanda da bu tokenler aracılığıyla protokollerinin yönetimini daha geniş bir kesime yayarak merkeziyetsizlik yolunda önemli bir yol katettiler. 
 
 Yönetim tokenlerini dağıtmak, likidite ve işlem hacmini DeFi'ye doğru çekse de, bunun sürdürülebilir bir strateji olmadığı açıktı. Zira, verilecek tokenlerin bir sınırı var. Önemli olan, insanların bu sistemleri sürekli olarak kullanmaları. Bunu nasıl başaracaksınız? 
 
@@ -28,7 +28,7 @@ DeFi sürdürülebilir büyümesi için çok daha geniş kesimlerce kullanılmas
 
 #### Kullanıcı deneyimi
 
-DeFi'nin önündeki birinci sorun kullanım kolaylığı. DeFi, yapı itibari ile klasik finanstan temelinden ayrışıyor: Klasik finans, itibari (fiat) paraların finans kurumları tarafından emanet alınarak işletilmesi üzerinden dönen bir sistem. DeFi ise kriptoparaların, DeFi protokolleri tarafından emanette tutulmadan kullanıcılar tarafından yönetilmesi esasına dayanıyor.
+DeFi'nin önündeki birinci sorun kullanım kolaylığı. DeFi, yapı itibari ile klasik finanstan temelden ayrışıyor: Klasik finans, itibari (fiat) paraların finans kurumları tarafından emanet alınarak işletilmesi üzerinden dönen bir sistem. DeFi ise kriptoparaların, DeFi protokolleri tarafından emanette tutulmadan kullanıcılar tarafından yönetilmesi esasına dayanıyor.
 
 DeFi dünyası göreceli yeni bir alan. Bu alandaki en kıdemli oyuncuların bile geçmişi en fazla beş sene. Bu beş sene içinde protokollerin uğraştıkları temel konu, yukarıda bahsedilen temeli baz alıp klasik finansı taklit etmeye çalışmak oldu. 
 
@@ -52,9 +52,9 @@ Yukarıdaki sorunların çözümü ve DeFi'nin geniş kitlelerce adaptasyonunu s
 
 #### Kendi kendine başarabilecekleri
 
-Öncelikle, DeFi ürünlerinin yolun başında olduğunu unutmamak gerekiyor. Dolayısıyla, temel sorunları çözdükten sonra bir sonraki aşamada odaklanacağı konu kullanıcı deneyimini artırmak olacak. Burada, özellikle son kullanıcıya yönelik ön yüzlerin aslına bakarsanız hızla gelişmeye başladığını görüyoruz (zerion, zapper tarzı hizmet sunucular, argent tarzı kullanım kolaylığı sağlayan cüzdanlar, farklı DeFi ürünlerine ulaşım sağlayan toplayıcılar gibi). Yavaş yavaş kullanıcı deneyimini parça parça iyileştiren bu girişimlerin daha sonrasında farklı alanlarına doğru genişleyerek kullanıcıya geniş bir kapsamda hizmet vermeye başladıkları da görülüyor. Bunlar, kullanıcı deneyimi açısından önemli gelişmeler ve önümüzdeki dönemde hızlanarak devam edecekler. 
+Öncelikle, DeFi ürünlerinin yolun başında olduğunu unutmamak gerekiyor. Dolayısıyla, temel sorunları çözdükten sonra bir sonraki aşamada odaklanacağı konu kullanıcı deneyimini artırmak olacak. Burada, özellikle son kullanıcıya yönelik ön yüzlerin aslına bakarsanız hızla gelişmeye başladığını görüyoruz (zerion, zapper tarzı hizmet sunucular, Argent benzeri kullanım kolaylığı sağlayan cüzdanlar, farklı DeFi ürünlerine ulaşım sağlayan toplayıcılar gibi). Yavaş yavaş kullanıcı deneyimini parça parça iyileştiren bu girişimlerin daha sonrasında farklı alanlarına doğru genişleyerek kullanıcıya geniş bir kapsamda hizmet vermeye başladıkları da görülüyor. Bunlar, kullanıcı deneyimi açısından önemli gelişmeler ve önümüzdeki dönemde hızlanarak devam edecekler. 
 
-Kullanıcının maruz kaldığı riskler konusu ise daha çetrefilli. Protokollerin hacklenmesi, kurucu ekiplerin projeleri suistimal etmesi, piyasalardaki ani dalgalanmaların yarattığı likidasyonlar son kullanıcının gözünü korkutan konular. Bu alanda, kullanıcıların kullanabileceği hedge mekanizmaları son kullanıcıya hitap edemeyecek kadar karmaşık. Merkeziyetsiz sigortacılık ise şu an Nexus Mutual'in sunduğu çok kısıtlı bir ürün yelpazesinin aşamamış durumda. Önümüzdeki dönemde bu alanda geliştirilecek (örneğin Armorfi'nin ease'e dönüşerek yeni ürün gamı sunması gibi) yeni ürünlerin büyük potansiyeli olabilir.  Zaten, girişim finansmanı şirketleri DeFi'nin ve Web3'ün potansiyeline canı gönülden inanmış olacaklar ki, bu alana oluk oluk para akıtmaya devam ediyorlar: 
+Kullanıcının maruz kaldığı riskler konusu ise daha çetrefilli. Protokollerin hacklenmesi, kurucu ekiplerin projeleri suistimal etmesi, piyasalardaki ani dalgalanmaların yarattığı likidasyonlar son kullanıcının gözünü korkutan konular. Bu alanda sunulan hedge mekanizmaları son kullanıcıya hitap edemeyecek kadar karmaşık. Merkeziyetsiz sigortacılık ise şu an Nexus Mutual'in sunduğu çok kısıtlı bir ürün yelpazesini aşamamış durumda. Önümüzdeki dönemde bu alanda geliştirilecek (örneğin merkezsiz sigorta protokolü ArmorFi'nin adını ease olarak değiştirip farklı denenmemiş bir ürün gamı sunması gibi) yeni ürünlerin büyük potansiyeli olabilir.  Zaten, girişim finansmanı şirketleri DeFi'nin ve Web3'ün potansiyeline canı gönülden inanmış olacaklar ki, bu alana oluk oluk para akıtmaya devam ediyorlar: 
 
 | ![the_block_ventures](/assets/Theblock_verture_investments_800.png)|
 |:--:| 
@@ -62,14 +62,14 @@ Kullanıcının maruz kaldığı riskler konusu ise daha çetrefilli. Protokolle
 
 #### Rakipler ile ortak yapabilecekleri
 
-Öte yandan, 'dışarıdan' yardım almak, DeFi'ye önündeki problemleri çözmek konusunda oldukça fayda sağlayabilir. Ne gibi? Gelin iki temel adaya hızlıca bakalım: 
+Öte yandan, 'dışarıdan' yardım almak, DeFi'ye önündeki problemleri çözmek konusunda oldukça fayda sağlayabilir. Gelin DeFi'ye yardımcı olabilecek iki adaya hızlıca bakalım: 
 
 Adaylardan biri fintech şirketleri. Bu şirketler klasik dünyanın finans kurumlarına dijital dünyaya adaptasyon konusunda hizmet verirken, çok ciddi bir kullanıcı deneyimi tecrübesi kazandılar. Edindikleri bu deneyimleri DeFi'ye sunabilirler. Böylece 'önde Fintech arkada DeFi' diye tanımlayabileceğimiz, müşterinin aşina olduğu fiat para bazlı hizmetleri kriptoparaya dayalı ürünler için de sunabilirler.
 
-Diğer büyük aday ise merkezi kurumlar. Merkezi kurumlardan kastımız, gerek klasik anlamda bankalar da dahil finans kurumları gerekse merkezi kripto hizmet sağlayıcılar. Bu kurumlar, hem kullanıcı deneyimi tecrübeleri hem de sigorta benzeri müşterilerine sağladıkları güvenceler ile DeFi ürünlerinin geniş kesimlerce kullanımında çok ciddi bir pay sahibi olabilirler. Her ne kadar kimileri tarafından 'merkeziyetsizlik ruhuna' aykırı olduğu düşünülse de, bu süreç, kullanıcının önüne farklı alternatifler konabilmesi açısından oldukça önemli olabilir.
+Diğer büyük aday ise merkezi kurumlar. Merkezi kurumlardan kastımız, gerek klasik anlamda bankalar da dahil finans kurumları, gerekse merkezi de kripto hizmet sağlayıcılar. Bu kurumlar, hem kullanıcı deneyimi tecrübeleri hem de sigorta benzeri müşterilerine sağladıkları güvenceler ile DeFi ürünlerinin geniş kesimlerce kullanımında çok ciddi bir pay sahibi olabilirler. Her ne kadar kimileri tarafından 'merkeziyetsizlik ruhuna' aykırı olduğu düşünülse de, bu süreç, kullanıcının önüne farklı alternatifler konabilmesi açısından oldukça önemli olabilir.
 
 ### Sonuç 
-DeFi, kullanıcılara klasik finans ile karşılaştırıldığında oldukça farklı bir dünya sunuyor. Son iki yılda gösterdiği hızlı ivmenin ardından şu an soluklanma aşamasında. Kimilerinin 'ayı piyasası' olarak da adlandırdığı bu dönem, aslına bakarsanız DeFi'nin bir sonraki zıplamasına zemin hazırlayacak geliştirmeleri yapabilmesine olanak sağlayacak harika bir zaman parçası. Umarım bu alandaki girişimlerden gelecek yenilikler ve merkezi kurumlar ile yapılacak işbirlikleri DeFi'nin geniş kesimlerce adaptasyonu konusunda önemli bir katalizör olacak. Gelecek heyecanlı, hep birlikte göreceğiz. 
+DeFi, kullanıcılara klasik finans ile karşılaştırıldığında oldukça farklı bir dünya sunuyor. Son iki yılda gösterdiği hızlı ivmenin ardından şu an soluklanma aşamasında. Kimilerinin 'ayı piyasası' olarak da adlandırdığı bu dönem, aslına bakarsanız DeFi'nin bir sonraki zıplamasına zemin hazırlayacak geliştirmeleri yapabilmesine olanak sağlayacak harika bir zaman parçası. Umarım bu alandaki girişimlerden gelecek yenilikler ve merkezi kurumlar ile yapılacak işbirlikleri, DeFi'nin geniş kesimlerce adaptasyonu konusunda önemli bir katalizör olacak. Gelecek heyecanlı, hep birlikte göreceğiz. 
 
 ---
 
