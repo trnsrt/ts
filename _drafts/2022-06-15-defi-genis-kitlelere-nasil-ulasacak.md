@@ -10,7 +10,7 @@ Hemen hemen tüm merkeziyetsiz teknolojilerde olduğu gibi DeFi'de de şu aralar
 
 ### DeFi nasıl büyüdü?
 
-DeFi'nin yaz dönemi, protokollerin kendilerine ait yönetim tokenlerini teşvik olarak kullanıcılara dağıtmaları ile başlamıştı. DeFi protokolleri, çıkardıkları yönetim tokenleri sayesinde kurdukları havuzlara likidite sağlayan yatırımcılar ve bu havuzların kullanıcılarını kendilerine çekmeyi başardılar.  Bu sayede büyümek için ihtiyaç duydukları likidite ve işlem hacmine ulaşmış oldular. Bir yanda da bu tokenler aracılığıyla protokollerinin yönetimini daha geniş bir kesime yayarak merkeziyetsizlik yolunda önemli bir yol katettiler. 
+DeFi'nin yaz dönemi, protokollerin kendilerine ait yönetim tokenlerini teşvik olarak kullanıcılara dağıtmaları ile başlamıştı. DeFi protokolleri, çıkardıkları yönetim tokenleri sayesinde kurdukları havuzlara likidite sağlayan yatırımcıları ve bu havuzların kullanıcılarını kendilerine çekmeyi başardılar.  Bu sayede büyümek için ihtiyaç duydukları likidite ve işlem hacmine ulaşmış oldular. Bir yandan da bu tokenler aracılığıyla protokollerinin yönetimini daha geniş bir kesime yayarak merkeziyetsizlik yolunda önemli bir yol katettiler. 
 
 Yönetim tokenlerini dağıtmak, likidite ve işlem hacmini DeFi'ye doğru çekse de, bunun sürdürülebilir bir strateji olmadığı açıktı. Zira, verilecek tokenlerin bir sınırı var. Önemli olan, insanların bu sistemleri sürekli olarak kullanmaları. Bunu nasıl başaracaksınız? 
 
@@ -24,7 +24,7 @@ Bu çok net bir değer önerisi, ancak yine de yeterli değil. Başka ne gerekli
 
 ### Daha da büyümesi için önünde hangi engeller var?
 
-DeFi sürdürülebilir büyümesi için çok daha geniş kesimlerce kullanılması yani benimsenmesi gerekiyor. Peki bu nasıl olacak? Orada da iki temel sorunun çözülmesi gerektiğini düşünüyorum.  Bunlar kullanım zorluğu ve kullanıcıların aldığı risklerin minimize edilmesi. 
+DeFi'nin sürdürülebilir büyümesi için çok daha geniş kesimlerce kullanılması yani benimsenmesi gerekiyor. Peki bu nasıl olacak? Orada da iki temel sorunun çözülmesi gerektiğini düşünüyorum.  Bunlar kullanım zorluğu ve kullanıcıların aldığı risklerin minimize edilmesi. 
 
 #### Kullanıcı deneyimi
 
@@ -40,9 +40,9 @@ Halbuki bu son kullanıcı için yeterli değil. Ortaya çıkarılan başarılı
 
 #### Riskler
 
-Merkeziyetsiz finansın temel özelliklerinden biri, kişiye dijital dünyadaki varlıkları üzerinde tam sahiplik vermesi. Ne demek 'tam sahiplik'? Sahip olunan varlığa ulaşımın sadece kişinin elinde olması, dolayısıyla varlık üzerindeki her tür aksiyona (örneğin varlığı değerlendirme ya da bir başkasına devretme) haiz olması. Bu büyük bir güç. 
+Merkeziyetsiz finansın temel özelliklerinden biri, kişiye dijital dünyadaki varlıkları üzerinde tam sahiplik vermesi. Ne demek 'tam sahiplik'? Sahip olunan varlığa ulaşmanın sadece kişinin elinde olması, dolayısıyla varlık üzerindeki her tür aksiyona (örneğin varlığı değerlendirme ya da bir başkasına devretme) haiz olması. Bu büyük bir güç. 
 
-Öte yandan bu özellik, belki de DeFi'nin geniş bir kitle için kullanınımın önündeki en büyük engellerden biri. Zira kullanıcının elindeki bu güç aynı zamanda büyük bir sorumluluk da getiriyor. Kullanıcının, farklı blokzincirlerin ve üzerindeki protokollerin risklerini öğrenmesi, riskini buna göre değerlendirmesi ve dağıtması gerekiyor. Halbuki geniş kitlelerin bu sorumluluğu alabilecek ne finansal ve teknolojik okuryazarlığı ne de bunları öğrenmek için hevesi var. Bunu son UST olayında da net olarak gördük. Stabil para olduğu için 'risksiz' olarak değerlendirilen UST'nin temel riskleri pek çok yatırımcı tarafından gözardı edildi ve sonunda olan maalesef yatırımcıya oldu. 
+Öte yandan bu özellik, belki de DeFi'nin geniş bir kitle için kullanımının önündeki en büyük engellerden biri. Zira kullanıcının elindeki bu güç aynı zamanda büyük bir sorumluluk da getiriyor. Kullanıcının, farklı blokzincirlerin ve üzerindeki protokollerin risklerini öğrenmesi, riskini buna göre değerlendirmesi ve dağıtması gerekiyor. Halbuki geniş kitlelerin bu sorumluluğu alabilecek ne finansal ve teknolojik okuryazarlığı ne de bunları öğrenmek için hevesi var. Bunu son UST olayında da net olarak gördük. Stabil para olduğu için 'risksiz' olarak değerlendirilen UST'nin temel riskleri pek çok yatırımcı tarafından gözardı edildi ve sonunda olan maalesef yatırımcıya oldu. 
 
 DeFi'nin bu riskleri geniş kitlelere anlatabilmek için daha basit, daha kolay anlaşılır ürünler sunması ve (belki de 'merkeziyetsizlik' ruhuna aykırı olacak şekilde) kullanıcılara bu riskleri anlatıp onlara yol gösterecek aracılar kullanması gerekiyor. 
 
@@ -54,7 +54,7 @@ Yukarıdaki sorunların çözümü ve DeFi'nin geniş kitlelerce adaptasyonunu s
 
 Öncelikle, DeFi ürünlerinin yolun başında olduğunu unutmamak gerekiyor. Dolayısıyla, temel sorunları çözdükten sonra bir sonraki aşamada odaklanacağı konu kullanıcı deneyimini artırmak olacak. Burada, özellikle son kullanıcıya yönelik ön yüzlerin aslına bakarsanız hızla gelişmeye başladığını görüyoruz (zerion, zapper tarzı hizmet sunucular, Argent benzeri kullanım kolaylığı sağlayan cüzdanlar, farklı DeFi ürünlerine ulaşım sağlayan toplayıcılar gibi). Yavaş yavaş kullanıcı deneyimini parça parça iyileştiren bu girişimlerin daha sonrasında farklı alanlarına doğru genişleyerek kullanıcıya geniş bir kapsamda hizmet vermeye başladıkları da görülüyor. Bunlar, kullanıcı deneyimi açısından önemli gelişmeler ve önümüzdeki dönemde hızlanarak devam edecekler. 
 
-Kullanıcının maruz kaldığı riskler konusu ise daha çetrefilli. Protokollerin hacklenmesi, kurucu ekiplerin projeleri suistimal etmesi, piyasalardaki ani dalgalanmaların yarattığı likidasyonlar son kullanıcının gözünü korkutan konular. Bu alanda sunulan hedge mekanizmaları son kullanıcıya hitap edemeyecek kadar karmaşık. Merkeziyetsiz sigortacılık ise şu an Nexus Mutual'in sunduğu çok kısıtlı bir ürün yelpazesini aşamamış durumda. Önümüzdeki dönemde bu alanda geliştirilecek (örneğin merkezsiz sigorta protokolü ArmorFi'nin adını ease olarak değiştirip farklı denenmemiş bir ürün gamı sunması gibi) yeni ürünlerin büyük potansiyeli olabilir.  Zaten, girişim finansmanı şirketleri DeFi'nin ve Web3'ün potansiyeline canı gönülden inanmış olacaklar ki, bu alana oluk oluk para akıtmaya devam ediyorlar: 
+Kullanıcının maruz kaldığı riskler konusu ise daha çetrefilli. Protokollerin hacklenmesi, kurucu ekiplerin projeleri suistimal etmesi, piyasalardaki ani dalgalanmaların yarattığı likidasyonlar son kullanıcının gözünü korkutan konular. Bu alanda sunulan hedge mekanizmaları son kullanıcıya hitap edemeyecek kadar karmaşık. Merkeziyetsiz sigortacılık ise şu an Nexus Mutual'in sunduğu çok kısıtlı bir ürün yelpazesini aşamamış durumda. Önümüzdeki dönemde bu alanda geliştirilecek (örneğin merkeziyetsiz sigorta protokolü ArmorFi'nin adını ease olarak değiştirip farklı denenmemiş bir ürün gamı sunması gibi) yeni ürünlerin büyük potansiyeli olabilir.  Zaten, girişim finansmanı şirketleri DeFi'nin ve Web3'ün potansiyeline canı gönülden inanmış olacaklar ki, bu alana oluk oluk para akıtmaya devam ediyorlar: 
 
 | ![the_block_ventures](/assets/Theblock_verture_investments_800.png)|
 |:--:| 
