@@ -18,7 +18,13 @@ Bir sanat eserinin temel olarak iki değeri bulunmakta bana sorarsanız: Bunlard
 Dolayısıyla, bir sanat eserinin değeri aslına bakarsanız kriptoparalara verilen değer gibi tamamen pazarda oluşan, dışarıdan bakanlara genelde saçma gelen, ancak bu alana yıllarını ve emeğini vermiş olanların hissedebildiği bir bütünden oluşuyor denebilir. 
 
 ### NFT, sanat eserine somut bir katma değer ekleyebilir mi?
-NFT dediğimiz kavram ise aslında yukarıda saydığımız değerler bütünü içindeki belli parçaların etkisini çok daha somut bir şekilde artırmaya yarıyor. Nasıl? Gelin teker teker bu parçaları incelemeye başlayalım: 
+NFT dediğimiz kavram ise aslında yukarıda saydığımız değerler bütünü içindeki belli parçaların etkisini çok daha somut bir şekilde artırmaya yarıyor. 
+
+
+![nft_value_add](/assets/nft_value_add_800.png)
+
+
+Nasıl? Gelin teker teker bu parçaları incelemeye başlayalım: 
 
 #### Orijinalliğin teyidi
 Bir sanat eseri ile ilgili en büyük kaygılardan biri, eserin orijinal olup olmadığını teyit etmektir. Medyada çokça görürüz, kimi sanat eserlerinin sahte çıktığını. Bu nedenle, müzeler ya da müzayede evleri gibi sanat kurumları, koleksiyonlarına katacakları eserleri titiz bir incelemeden geçirirler. Bu bahsettiğimiz inceleme emek yoğun ve oldukça pahalı bir süreçtir. 
