@@ -32,6 +32,7 @@ Benzer bilgiye aslına bakarsanız NFT üzerine uzmanlaşmış pazaryerlerinden 
 ### Devamı bir sonraki yazıya
 Bir sonraki yazımızda NFT'nin bir esere nasıl değer kattığını irdelemeye devam edeceğiz. 
 
+---
 
 *Not 1: Bu yazı ilk olarak 25 Mayıs 2022'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı](https://medium.com/blockchainist-center/nft-nas%C4%B1l-de%C4%9Fer-katar-1-718f3a1643ff)*
 
