@@ -13,6 +13,10 @@ Serimizin ilk [bölümünde](/genel/2022/05/25/NFTler-nasil-deger-katar-1.html),
 #### Sahipliğin ve geçmiş alıcıların teyidi 
 Bir sanat eserinin değerli kılan sadece onu yaratan sanatçı olmuyor. Bu sanat eserinin geçmişte hangi koleksiyonlarda yer aldığı da ona değer katabilen bir başka unsur. Mona Lisa'nın bugün bu kadar ilgi görmesinde, eserin güzelliği, yaratıcısının dahiliği kadar, ona ev sahipliği yapan Louvre Müzesinin de büyük payı var kuşkusuz. 
 
+|![tokens](/assets/mona-lisa-1357716_800.jpg)|
+|:--:| 
+| *Image by [exoteric](https://pixabay.com/users/exoteric-2345351/) from [Pixabay](https://pixabay.com/)*|
+
 Yukarıda bahsettiğimiz herkese açık blokzincir veritabanı sayesinde eserin önceki sahiplerini görebilmek de mümkün. Hem de bunun için herhangi bir çaba sarfetmenize gerek yok. Giriyorsunuz Etherscan'a ve eser yaratıcısı tarafından ne zaman kime satılmış, daha sonrasında hangi fiyattan kimlerin eline geçmiş hepsinin anında görmek mümkün. Burada tek sorun, alıcı ve satıcıların isimlerini değil de Ethereum adreslerini görmeniz. Genelde sanatçılar ve büyük koleksiyonerler piyasada tanınmak amacıyla tek adres kullanılar. Kimi zaman da ENS (Ethereum Name Service) isimli uygulama ile Ethereum adreslerine kendi isimlerini verirler. İşte bu adreslerin yaptığı bütün işlemleri ve sahip oldukları eserleri de blokzincir üzerinde görmek mümkün. 
 
 Buradan konudan sapmak pahasına bir detaya da değinelim. Blokzincirin şeffaf yapısı bize daha önce olmadığı kadar fayda sunabiliyor. Örneğin, Context isimli bir websitesinde herhangi bir koleksiyona sahip olan her bir adresin sahip olduğu eserlere tek tek bakabiliyorsunuz (örneğin [CryptoPunk sahipleri](https://context.app/lists/cryptopunks)). Bakmakla kalmayıp, en son hangi eserleri satın almış izleyebiliyor, hatta yeni bir eser aldıklarında size bir bildirim gelmesini bile isteyebiliyorsunuz!
