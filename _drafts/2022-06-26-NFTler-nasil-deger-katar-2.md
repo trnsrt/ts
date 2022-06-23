@@ -1,4 +1,14 @@
+---
+layout: post
+title:  "NFT nasıl değer katar? - 2 "
+date:   2022-06-25 08:47:56 +0300
+categories: Genel
+tags: Yazılar, Web3, DeFi, DeFi'ye Giriş
+---
 
+NFT dünyasının incelediğimiz yazı dizimizin bu ikinci bölümünde bir NFT’nin bir sanat eserine nasıl değer kattığını incelemeye devam edeceğiz. 
+
+Serimizin ilk [bölümünde](/genel/2022/05/25/NFTler-nasil-deger-katar-1.html), bir sanat eserinin değerinin nereden geldiğini, konunun dışında bir amatör göz olarak değerlendirmiş, daha sonrasında da NFT'nin bir sanat eserine katabileceği ilk değer olan 'orjinalliğin teyidi'nden bahsetmiştik. Şimdi iki farklı özellik ile konuyu irdelemeye devam ediyoruz. 
 
 #### Sahipliğin ve geçmiş alıcıların teyidi 
 Bir sanat eserinin değerli kılan sadece onu yaratan sanatçı olmuyor. Bu sanat eserinin geçmişte hangi koleksiyonlarda yer aldığı da ona değer katabilen bir başka unsur. Mona Lisa'nın bugün bu kadar ilgi görmesinde, eserin güzelliği, yaratıcısının dahiliği kadar, ona ev sahipliği yapan Louvre Müzesinin de büyük payı var kuşkusuz. 
@@ -13,3 +23,15 @@ Herhangi bir sanat eserini, fiziksel olarak satın almak istediğinizde ciddi ma
 Dijital sanat eserlerinde bu sorun nispeten daha rahat bir şekilde çözülüyor. Bu NFT'nin getirdiği bir artı değer değil aslında. NFT'nin getirdiği asıl artı değer, alım-satım sırasındaki başka maliyetleri düşürmesi. Farklı ülkelerdeki insanların sanat eseri satın alırken kredi kartı kullanması sırasında yaşayacakları sorunlardan tutun, bu sanat eserinin kayıt edilmesine kadar uzanan bir sorun yumağı. NFT'lerde ise işlemleri kriptoparalar aracılığıyla çok daha pratik bir şekilde gerçekleştirebiliyorsunuz. Burada kriptoparaya erişim konusunda konuya yabancı olanların başlangıçta geçmeleri gereken bir öğrenme süreci olduğunu belirtelim. Bu süreci bir kez yaşadıktan ve kendinize ait elektronik cüzdana kriptopara attıktan sonra, tek yapmanız gereken beğendiğiniz eserin sergilendiği web sitesine cüzdanınıza bağlamak. Sonrasından dilediğiniz eseri bir tık ile alıp cüzdanınıza koyabiliyorsunuz. 
 
 Alışverişlerde işlemi gerçekleştirmeye engel her tür pürüzün giderilmesi ticari hacmi ciddi şekilde artırır. Benzer şekilde NFT'lerin getirdiği rahatlığın sanat eseri pazarına ciddi bir hacim getirdiğini söylemek mümkün. 
+
+### Arkası yarın
+Yazı dizimizin bir sonraki bölümünde NFT'nin bir sanat eserine nasıl değer katabileceğini irdelemeye devam edeceğiz. 
+
+---
+
+*Not 1: Bu yazı ilk olarak 25 Haziran 2022'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı]()*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.* 
+
