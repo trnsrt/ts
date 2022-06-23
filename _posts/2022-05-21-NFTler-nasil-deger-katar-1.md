@@ -3,7 +3,7 @@ layout: post
 title:  "NFT nasıl değer katar? -1 "
 date:   2022-05-25 08:47:56 +0300
 categories: Genel
-tags: Yazılar, Web3, DeFi, DeFi'ye Giriş
+tags: Yazılar, Web3, DeFi, DeFi'ye Giriş, NFT
 ---
 
 NFT dünyasının incelediğimiz yazı dizimizin bu bölümünde bir NFT'nin bir sanat eserine nasıl değer katacağına bakacağız. 
