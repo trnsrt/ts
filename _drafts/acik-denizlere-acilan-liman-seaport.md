@@ -2,6 +2,11 @@ Bu yazımızda, geçtiğimiz günlerde OpenSea tarafından kullanılmaya başlan
 
 NFT dünyasının açık ara lideri olan OpenSea, geçtiğimiz ay içinde [açıkladığı](https://opensea.io/blog/announcements/introducing-seaport-protocol/) yeni protokolü Seaport'u geçtiğimiz günlerde [uygulamaya aldı](https://opensea.io/blog/announcements/launching-seaport-saving-the-community-millions-in-fees/). Gelin bu yazımızda, Seaport'un ekosistem için sağlayabileceği faydaları gözden geçirelim. 
 
+
+| ![lighthouse](/assets/lighthouse-gc524e87fc_800.jpg)|
+|:--:| 
+| *Image by [Juan Lopez](https://pixabay.com/users/suddenshutter-7083238/)) from [Pixabay](https://pixabay.com/)*|
+
 ### Nedir Seaport?
 
 Seaport, OpenSea'nin yarattığı yeni bir pazar yeri protokolü. Ne işe yarayacağına OpenSea'nin açıklama [metninde](https://opensea.io/blog/announcements/launching-seaport-saving-the-community-millions-in-fees/) uzun uzun değiniliyor. Satır başlarına hızlıca bakalım: 
