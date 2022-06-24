@@ -12,9 +12,9 @@ Hemen hemen tüm merkeziyetsiz teknolojilerde olduğu gibi DeFi'de de şu aralar
 
 DeFi'nin yaz dönemi, protokollerin kendilerine ait yönetim tokenlerini teşvik olarak kullanıcılara dağıtmaları ile başlamıştı. DeFi protokolleri, çıkardıkları yönetim tokenleri sayesinde kurdukları havuzlara likidite sağlayan yatırımcıları ve bu havuzların kullanıcılarını kendilerine çekmeyi başardılar.  Bu sayede büyümek için ihtiyaç duydukları likidite ve işlem hacmine ulaşmış oldular. Bir yandan da bu tokenler aracılığıyla protokollerinin yönetimini daha geniş bir kesime yayarak merkeziyetsizlik yolunda önemli bir yol katettiler. 
 
-Burada ufak bir bir parantez açalım: Kimi merkezi yapıların yüksek miktarda ve hesap kitap yapmadan kullandıkları kaldıraçlı işlemler ile bu büyümeye hormonlu bir şekilde katkı sağladığını da görüldü. Son zamanlarda yaşanan 'krizlerin' temel nedeni, merkeziyetsiz sistemler değil, aslında bu fütursuz merkezi yapılar olduğunu belirtmek gerek. 
+Burada ufak bir bir parantez açalım: Kimi merkezi yapıların, yüksek miktarda ve hesap kitap yapmadan kullandıkları kaldıraçlı işlemler ile bu büyümeye hormonlu bir şekilde katkı sağladığını da görüldü. Son zamanlarda yaşanan 'krizlerin' temel nedeni, merkeziyetsiz sistemler değil, aslında bu fütursuz merkezi yapılar olduğunu belirtmek gerek. 
 
-Konumuza geri dönelim şimdi: Yönetim tokenlerini dağıtmak, likidite ve işlem hacmini DeFi'ye doğru çekse de, bunun sürdürülebilir bir strateji olmadığı açıktı. Zira, verilecek tokenlerin bir sınırı var. Önemli olan, insanların bu sistemleri sürekli olarak kullanmaları. Bunu nasıl başaracaksınız? 
+Konumuza geri dönelim şimdi. Yönetim tokenlerini dağıtmak, likidite ve işlem hacmini DeFi'ye doğru çekse de, bunun sürdürülebilir bir strateji olmadığı açıktı. Zira, verilecek tokenlerin bir sınırı var. Önemli olan, insanların bu sistemleri sürekli olarak kullanmaları. Bunu nasıl başaracaksınız? 
 
 DeFi'nin klasik finansa göre en büyük avantajlarından biri, nihayetinde birer yazılım olmalarından ötürü, kurulma  ve operasyon maliyetlerinin çok düşük olması. Bu temel bir özellik. Nisan 2022 yılında IMF tarafından yayınlanan Global Stability Report bu avantajı açık bir şekilde ortaya koyuyor:  
 
