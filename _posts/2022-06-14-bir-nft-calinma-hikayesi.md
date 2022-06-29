@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Bir NFT Çalınma Hikayesi"
-date:   2022-06-08 17:17:56 +0300
+title:  "Bir NFT Hırsızlık Hikayesi"
+date:   2022-06-14 17:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
 ---
@@ -69,7 +69,7 @@ Ne olursa olsun bu olaydan çıkarılabilecek birkaç ders var aslında: Önceli
 
 ---
 
-*Not 1: Bu yazı ilk olarak 8 Haziran 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı]()*
+*Not 1: Bu yazı ilk olarak 14 Haziran 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://medium.com/turansert/bir-nft-h%C4%B1rs%C4%B1zl%C4%B1k-hikayesi-27cead413a9e)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
