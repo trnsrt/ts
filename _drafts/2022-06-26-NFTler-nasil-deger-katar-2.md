@@ -33,7 +33,7 @@ Yazı dizimizin bir sonraki bölümünde NFT'nin bir sanat eserine nasıl değer
 
 ---
 
-*Not 1: Bu yazı ilk olarak 25 Haziran 2022'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı]()*
+*Not 1: Bu yazı ilk olarak 25 Haziran 2022'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı](https://medium.com/blockchainist-center/nft-nas%C4%B1l-de%C4%9Fer-katar-ii-fbc49f5346d2)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
