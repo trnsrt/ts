@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Açık denizlere açılan bir liman - Seaport"
+date:   2022-06-30 17:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
 Bu yazımızda, geçtiğimiz günlerde OpenSea tarafından kullanılmaya başlanan Seaport protokolünü ele alıyoruz. Nedir, ne işe yarar, neden önemli?
 
 NFT dünyasının açık ara lideri olan OpenSea, geçtiğimiz ay içinde [açıkladığı](https://opensea.io/blog/announcements/introducing-seaport-protocol/) yeni protokolü Seaport'u geçtiğimiz günlerde [uygulamaya aldı](https://opensea.io/blog/announcements/launching-seaport-saving-the-community-millions-in-fees/). 
@@ -37,4 +45,13 @@ Benzer bir hareketi merkeziyetsiz borsa olan Uniswap yapmış ve kodlarını aç
 
 ### Sonuç 
 
-Merkeziyetsiz dünya, bu aralar yüksek kaldıraçlar aracılığıyla fütursuzca risk alan merkezi kurumların zamanında yediği hurmalardan dolayı sıkıntılı günlerden geçiyor. Özellikle geçtiğimiz iki yılda DeFi’nin baş döndürücü bir hızla büyümesinde baş role sahip olan bu oyuncuların aslında uzun vadede sisteme zarar verdikleri yeni yeni anlaşılıyor. Merkeziyetsiz sistemlerin gerçek büyümesi ancak geniş kesimlerce benimsenirse olacak. Bunun yolu da kullanıcılara kullanım kolaylığını ekonomik bir şekilde sunmaktan geçiyor. Seaport, OpenSea’nin bu anlamda geliştirdiği ve ekosisteme sunduğu güzel bir yenilik ve ‘fiyat indi çıktı’ sarmalında sıkışmış gündeme adeta oksijen çadırı etkisi yapıyor. Bu ve benzeri girişimlerin devamının gelmesi en çok biz kullanıcılara yarayacak..
+Merkeziyetsiz dünya, bu aralar yüksek kaldıraçlar aracılığıyla fütursuzca risk alan merkezi kurumların zamanında yediği hurmalardan dolayı sıkıntılı günlerden geçiyor. Özellikle geçtiğimiz iki yılda DeFi’nin baş döndürücü bir hızla büyümesinde baş role sahip olan bu oyuncuların aslında uzun vadede sisteme zarar verdikleri yeni yeni anlaşılıyor. Merkeziyetsiz sistemlerin gerçek büyümesi ancak geniş kesimlerce benimsenirse olacak. Bunun yolu da kullanıcılara kullanım kolaylığını ekonomik bir şekilde sunmaktan geçiyor. Seaport, OpenSea’nin bu anlamda geliştirdiği ve ekosisteme sunduğu güzel bir yenilik ve ‘fiyat indi çıktı’ sarmalında sıkışmış gündeme adeta oksijen çadırı etkisi yapıyor. Bu ve benzeri girişimlerin devamının gelmesi en çok biz kullanıcılara yarayacak.
+
+
+---
+
+*Not 1: Bu yazı ilk olarak 30 Haziran 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı]()*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
