@@ -1,7 +1,6 @@
 Bu yazımızda, geçtiğimiz günlerde OpenSea tarafından kullanılmaya başlanan Seaport protokolünü ele alıyoruz. Nedir, ne işe yarar, neden önemli?
 
-NFT dünyasının açık ara lideri olan OpenSea, geçtiğimiz ay içinde [açıkladığı](https://opensea.io/blog/announcements/introducing-seaport-protocol/) yeni protokolü Seaport'u geçtiğimiz günlerde [uygulamaya aldı](https://opensea.io/blog/announcements/launching-seaport-saving-the-community-millions-in-fees/). Gelin bu yazımızda, Seaport'un ekosistem için sağlayabileceği faydaları gözden geçirelim. 
-
+NFT dünyasının açık ara lideri olan OpenSea, geçtiğimiz ay içinde [açıkladığı](https://opensea.io/blog/announcements/introducing-seaport-protocol/) yeni protokolü Seaport'u geçtiğimiz günlerde [uygulamaya aldı](https://opensea.io/blog/announcements/launching-seaport-saving-the-community-millions-in-fees/). 
 
 | ![lighthouse](/assets/lighthouse-gc524e87fc_800.jpg)|
 |:--:| 
