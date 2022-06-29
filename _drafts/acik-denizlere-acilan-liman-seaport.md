@@ -12,7 +12,7 @@ NFT dünyasının açık ara lideri olan OpenSea, geçtiğimiz ay içinde [açı
 Seaport, OpenSea'nin yarattığı yeni bir pazar yeri protokolü. Ne işe yarayacağına OpenSea'nin açıklama [metninde](https://opensea.io/blog/announcements/launching-seaport-saving-the-community-millions-in-fees/) uzun uzun değiniliyor. Satır başlarına hızlıca bakalım: 
 
 - En büyük fayda kullanıcılara. Kullanılan akıllı kontratın basitleştirilmesiyle birlikte işlem yaparken ödenen maliyetlerin %35 oranında düşmesi bekleniyor. 
-- Bunun yanında yeni özellikler geliyor. Bunların içinde, tüm bir koleksiyona ya da belli özelliklere sahip eserlere (örneğin bir koleksiyon içinde saçı pembe renkli olanlara) çoklu teklif verebilme özelliği ön plana çıkıyor.  
+- Kullanıcılar için yeni özellikler geliyor. Bunların içinde, tüm bir koleksiyona ya da belli özelliklere sahip eserlere (örneğin bir koleksiyon içinde saçı pembe renkli olanlara) çoklu teklif verebilme özelliği ön plana çıkıyor.  
 - Yeni kullanıcıların OpenSea'ye ilk kez kayıt olurken ödemek zorunda kaldıkları yüksek işlem ücreti ortadan kalkıyor. 
 - Kullanıcıların işlem yaparken neye onay verdikleri artık çok daha anlaşılır hale getiriliyor. 
 
@@ -20,13 +20,13 @@ Seaport, OpenSea'nin yarattığı yeni bir pazar yeri protokolü. Ne işe yaraya
 
 Öncelikle düşük işlem ücretlerinin hem OpenSea kullanıcıları hem de tüm ekosistem için büyük faydaları olduğunu belirtmek lazım. 
 
-OpenSea ilk kurulduğunda gerek işlem hacmi gerekse ETH'nin değerinin düşük olması nedeniyle o kadar göze batmayan işlem ücretleri, son dönemde inanılmaz bir boyuta ulaşmıştı. Rakamlarla açıklayalım: Geçtiğimiz yıl OpenSea kullanıcıları işlem ücreti olarak yaklaşık 1.3 milyar ABD Doları ödediler! Eğer Seaport kontratlarını kullansalardı yaklaşık 460 milyon ABD Doları tasarruf edeceklerdi!
+OpenSea'nin ilk günlerinde bu işlem ücretleri çok da göze batmıyordu. Zira işlem hacimleri düşüktü; Ethereum ağı üzerinde yoğunluk az olduğundan işlemleri hızlı bir şekilde gerçekleştirmek için gereken 'gas' miktarı azdı; ayrıca ETH de nispeten ucuzdu. Sonrasında bu üç alanda da rüzgar tersine döndü ve işlemler için harcanan rakamlar inanılmaz bir boyuta ulaştı. Rakamlarla açıklayalım: Geçtiğimiz yıl OpenSea kullanıcıları Ethereum sistemine işlem ücreti olarak yaklaşık 1.3 milyar ABD Doları ödediler! Eğer Seaport kontratlarını kullansalardı yaklaşık 460 milyon ABD Doları tasarruf edeceklerdi!
 
 Dolayısıyla, Seaport hamlesi başlangıç kayıt ücretlerini ve alım-satım işlemi sırasında Ethereum sistemine ödenecek işlem ücretlerini düşürerek, NFT'lerin daha geniş bir kitle tarafından daha sık bir şekilde kullanılmasına yarayacak. 
 
 Peki bu durum Ethereum sistemi için kötü değil mi? Geçtiğimiz yıl Ağustos ayından beri Ethereum fazla işlem ücretlerini yakıyor (bu piyasadaki ETH miktarını azalttığı için fiyata olumlu etkisi olur diye düşünülüyor) ve şu ana kadar yakılan 2.4 milyon ETH'nin [230 bini OpenSea kullanıcılarından geliyor](https://ultrasound.money/) - neredeyse %10'u. OpenSea'nin bu hamlesi ETH yakılmasına negatif etki etmeyecek mi? Bir parça olabilir, ancak büyüyen bir sistemde öncelik olabildiğince kullanıcıya ulaşmak. Yüksek işlem ücretleri Ethereum'un ayağında bir pranga ve ETH yakımına göre daha büyük bir öncelik. Dolayısıyla OpenSea'nin bu hamlesi ekosistem tarafından gayet olumlu karşılanıyor. 
 
-Bir diğer önemli özellik, Seaport'un tamamen açık kaynak kodu ile yazılmış olması. Bu sayede, isteyen herkes kendi pazar yerini kurabilecek, mevcut Seaport kodlamasını geliştirebilecek, yeni özellikler getirebilecek, tak-çıkar uyumlu tamamlayıcı parçalar üretebilecek. OpenSea de diğerleri gibi Seaport'dan yararlanan bir kullanıcı pazar yeri olacak. Açık kaynak sistemlerin en büyük özelliği olan 'ahenli çalışma - composability' için harika bir örnek. 
+Bir diğer önemli özellik, Seaport'un tamamen açık kaynak kodu ile yazılmış olması. Bu sayede, isteyen herkes kendi pazar yerini kurabilecek, mevcut Seaport kodlamasını geliştirebilecek, yeni özellikler getirebilecek, tak-çıkar uyumlu tamamlayıcı parçalar üretebilecek. OpenSea de diğerleri gibi Seaport'dan yararlanan bir kullanıcı pazar yeri olacak. Açık kaynak sistemlerin en büyük özelliği olan 'ahenkli çalışma - composability' için harika bir örnek. 
 
 Peki token dağıtmaması, aldığı VC yatırımları, kullanıcıları sansürlemesi nedeniyle bir Web3 girişimden çok bir Web2 şirketi olarak görülen OpenSea neden Seaport'u açık kaynak olarak yayınladı? Temel neden şu gibi görünüyor:
 
