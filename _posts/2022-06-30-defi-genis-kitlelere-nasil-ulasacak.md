@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DeFi geniş kitlelere nasıl yayılır?"
-date:   2022-06-15 17:17:56 +0300
+date:   2022-06-30 17:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, CoindeskTR
 ---
@@ -75,7 +75,7 @@ DeFi, kullanıcılara klasik finans ile karşılaştırıldığında oldukça fa
 
 ---
 
-*Not 1: Bu yazı ilk olarak 15 Haziran 2022'de [Coindesk Türkiye](https://www.coindeskturkiye.com/))'de [yayınlandı]()*
+*Not 1: Bu yazı ilk olarak 30 Haziran 2022'de [Coindesk Türkiye](https://www.coindeskturkiye.com/))'de [yayınlandı](https://www.coindeskturkiye.com/yazarlar/turan-sert/defi-genis-kitlelere-nasil-ulasabilir-900)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
