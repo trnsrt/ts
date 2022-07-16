@@ -7,13 +7,13 @@ NFT dünyası 2021 yılı içinde büyük bir patlama yaşadı. Çıkan onlarca 
 |:--:| 
 | *Kaynak: [TheBlock ](https://www.theblock.co/data/nft-non-fungible-tokens/marketplaces), [CryptoArt](https://cryptoart.io/),  [CryptoSlam](https://cryptoslam.io/)*|
 
-Tabii bu tabloda iki noktaya dikkat çekmekte fayda var. Bunlardan birincisi pazarın lideri [OpenSea](https://opensea.io/)'nin, 2022 yılının Ocak ayında [aldığı 300 milyon ABD Doları](https://opensea.io/blog/announcements/announcing-openseas-new-funding/) (toplam 13.3 mliyar ABD Doları değerleme üzerinden) finansman. İnsan düşünmeden edemiyor; 2021 yılı içinde finansman turu öncesi görülen yüksek hacimlerin finansman sonrası düşmesi OpenSea adına doğru zamanlamayı mı, yoksa 'birilerinin' hacim artırmak için 'wash trading' denen afaki al-sat işlemleri yaptığını mı gösteriyor? 
+Tabii bu tabloda iki noktaya dikkat çekmekte fayda var. Bunlardan birincisi pazarın lideri [OpenSea](https://opensea.io/)'nin, 2022 yılının Ocak ayında [aldığı 300 milyon ABD Doları](https://opensea.io/blog/announcements/announcing-openseas-new-funding/) (toplam 13.3 milyar ABD Doları değerleme üzerinden) finansman. İnsan düşünmeden edemiyor; 2021 yılı içinde finansman turu öncesi görülen yüksek hacimlerin finansman sonrası düşmesi OpenSea adına doğru zamanlamayı mı, yoksa 'birilerinin' hacim artırmak için 'wash trading' denen afaki al-sat işlemleri yaptığını mı gösteriyor? 
 
 Bir diğer önemli nokta ise OpenSea'nin hemen ardından gelen [LooksRare](https://looksrare.org/)'rin yakaladığı müthiş hacim. Burada biraz daha rahatlıkla temel sebebin hacim büyütmek olduğunu söyleyebiliriz. Zira LooksRare yönetim tokenlerini işlem hacmine bağlı olarak dağıttı. Zaten sonrasında bu teşviklerin değerinin (biraz da piyasa düşüşüne bağlı olarak) azalması ile birlikte LooksRare hacimlerinin de tekrar doğal seviyelerine geldiğini gördük. 
 
 NFT'ler dijital resimler ya da profil fotoğrafı olarak kullanılan koleksiyonların çok daha ötesinde. Şimdiden noterlik benzeri fiziki dünyadaki sahipliğin dijital dünyaya aktarımı gibi konular konuşuluyor olsa da, gelecekte şu anda kestiremediğimiz daha pek çok kullanım alanının olacağı da kesin gibi. 
 
-Bu yazımızda, konuya yabancı olanlara, en basit anlamıyla bir örnek üzerinden NFT'nin bir sanat eserine nasıl değer katabileceğini bulmaya çalışacağız. Bunun öncelikle klasik anlamda bir eserin değeri nedir sorusuna cevap aramalı:
+Bu yazımızda, konuya yabancı olanlara, en basit anlatımıyla, bir örnek üzerinden NFT'nin bir sanat eserine nasıl değer katabileceğini bulmaya çalışacağız. Bunun için öncelikle klasik anlamda bir eserin değeri nedir sorusuna cevap aramalı:
 
 ### Bir sanat eserinin değeri nereden gelir?
 
