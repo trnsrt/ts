@@ -11,7 +11,7 @@ Tabii bu tabloda iki noktaya dikkat çekmekte fayda var. Bunlardan birincisi paz
 
 Bir diğer önemli nokta ise OpenSea'nin hemen ardından gelen [LooksRare](https://looksrare.org/) ekbinin yakaladığı müthiş hacim. Burada biraz daha rahatlıkla temel sebebin hacim büyütmek olduğunu söyleyebiliriz. Zira LooksRare yönetim tokenlerini işlem hacmine bağlı olarak dağıttı. Zaten sonrasında bu teşviklerin değerinin (biraz da piyasa düşüşüne bağlı olarak) azalması ile birlikte LooksRare hacimlerinin de tekrar doğal seviyelerine geldiğini gördük.
 
-Yavaşlamanın etkilerinin son örneğini OpenSea'nin geçtiğimiz hafta içinde mevcut işgücünün %20'sini [işten çıkartması](https://twitter.com/dfinzer/status/1547648521607659522) ile gördük. 
+Yavaşlamanın etkilerinin son örneğini OpenSea'nin geçtiğimiz hafta içinde mevcut işgücünün %20'sini [işten çıkartması](https://twitter.com/dfinzer/status/1547648521607659522) ile hissettik. 
 
 NFT'ler dijital resimler ya da profil fotoğrafı olarak kullanılan koleksiyonların çok daha ötesinde. Şimdiden noterlik benzeri fiziki dünyadaki sahipliğin dijital dünyaya aktarımı gibi konular konuşuluyor olsa da, gelecekte şu anda kestiremediğimiz daha pek çok kullanım alanının olacağı da kesin gibi. 
 
