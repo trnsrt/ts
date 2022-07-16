@@ -9,7 +9,9 @@ NFT dünyası 2021 yılı içinde büyük bir patlama yaşadı. Çıkan onlarca 
 
 Tabii bu tabloda iki noktaya dikkat çekmekte fayda var. Bunlardan birincisi pazarın lideri [OpenSea](https://opensea.io/)'nin, 2022 yılının Ocak ayında [aldığı 300 milyon ABD Doları](https://opensea.io/blog/announcements/announcing-openseas-new-funding/) (toplam 13.3 milyar ABD Doları değerleme üzerinden) finansman. İnsan düşünmeden edemiyor; 2021 yılı içinde finansman turu öncesi görülen yüksek hacimlerin finansman sonrası düşmesi OpenSea adına doğru zamanlamayı mı, yoksa 'birilerinin' hacim artırmak için 'wash trading' denen afaki al-sat işlemleri yaptığını mı gösteriyor? 
 
-Bir diğer önemli nokta ise OpenSea'nin hemen ardından gelen [LooksRare](https://looksrare.org/)'rin yakaladığı müthiş hacim. Burada biraz daha rahatlıkla temel sebebin hacim büyütmek olduğunu söyleyebiliriz. Zira LooksRare yönetim tokenlerini işlem hacmine bağlı olarak dağıttı. Zaten sonrasında bu teşviklerin değerinin (biraz da piyasa düşüşüne bağlı olarak) azalması ile birlikte LooksRare hacimlerinin de tekrar doğal seviyelerine geldiğini gördük. 
+Bir diğer önemli nokta ise OpenSea'nin hemen ardından gelen [LooksRare](https://looksrare.org/) ekbinin yakaladığı müthiş hacim. Burada biraz daha rahatlıkla temel sebebin hacim büyütmek olduğunu söyleyebiliriz. Zira LooksRare yönetim tokenlerini işlem hacmine bağlı olarak dağıttı. Zaten sonrasında bu teşviklerin değerinin (biraz da piyasa düşüşüne bağlı olarak) azalması ile birlikte LooksRare hacimlerinin de tekrar doğal seviyelerine geldiğini gördük.
+
+Yavaşlamanın etkilerinin son örneğini OpenSea'nin geçtiğimiz hafta içinde mevcut işgücünün %20'sini [işten çıkartması](https://twitter.com/dfinzer/status/1547648521607659522) ile gördük. 
 
 NFT'ler dijital resimler ya da profil fotoğrafı olarak kullanılan koleksiyonların çok daha ötesinde. Şimdiden noterlik benzeri fiziki dünyadaki sahipliğin dijital dünyaya aktarımı gibi konular konuşuluyor olsa da, gelecekte şu anda kestiremediğimiz daha pek çok kullanım alanının olacağı da kesin gibi. 
 
