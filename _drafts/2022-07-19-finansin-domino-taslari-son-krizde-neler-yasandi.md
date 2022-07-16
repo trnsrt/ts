@@ -1,4 +1,10 @@
-# Finansın Domino Taşları - Son Krizde Neler Yaşandı? - 1
+---
+layout: post
+title:  "Finansın Domino Taşları 1- Son Krizde Neler Yaşandı?"
+date:   2022-07-19 17:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi, CoindeskTR
+---
 
 Bu yazımızda, son zamanlarda DeFi'de yaşanan olayları mercek altına alıyoruz. Nasıl başladı, son gelişmeler neler, sorunun kaynağı ne?
 
@@ -114,4 +120,12 @@ Dolayısıyla, kodların hakim olduğu merkeziyetsiz finans dünyası takır tak
 
 2022 yılının Mayıs-Haziran aylarında yaşanan kriz ise bu yükselişin ardındaki yüksek kaldıraçlı spekülatif işlem yapan oyuncuların elenmesine yol açtı. Kriz bitti mi? Bu yatırımcıların her biri birer kapalı kutu olduğu için bunu söylemek şu an için zor. Bir daha tekrar eder mi? Bireysel yatırımcıların hafızası kısa ömürlüdür, unuturlar. Kurumsal yatırımcılar ise biraz daha uzun vadeli bakar ve talepkar olurlar. Bu nedenle, bundan sonra bu alanda sektörün kendi regülasyonlarını ortaya çıkarması muhtemel. Zaten bunun olmadığı noktada kanun koyucular kendi kurallarını getirecekler ve bu kuralların nerede başlayıp nerede biteceğini şu anda kestirmek çok zor. 
 
-Gelecek heyecanlı olduğu kadar, bilinmezliklerle de dolu. Birlikte yaşayıp göreceğiz.  
+Gelecek heyecanlı olduğu kadar, bilinmezliklerle de dolu. Birlikte yaşayıp göreceğiz.
+
+---
+
+*Not 1: Bu yazı ilk olarak 19 Temmuz 2022'de [Coindesk Türkiye](https://www.coindeskturkiye.com/))'de [yayınlandı](https://www.coindeskturkiye.com/yazarlar/turan-sert/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
