@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "NFT'ler Nasıl Deüer Katar?"
+date:   2022-07-20 17:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi, NFT
+---
+
+
 Bu yazımızda, NFT'nin bir esere nasıl değer katabileceğine hızlıca bakalım: 
 
 ### NFT dünyasında son durum ne?
@@ -42,3 +51,12 @@ Yerimiz kısıtlı olduğu için fazla giremesek de, NFT'lerin sanatçı ile hay
 ### Sonuç 
 
 Henüz emekleme aşamasında olan, bu nedenle spekülatif iniş ve çıkışlara maruz kalan, zamanla standartların daha da oturacağı NFT piyasası, önümüzdeki yıllarda kendisini ciddi bir varlık sınıfı olarak kabul ettirecek özelliklere sahip. Bu yol şu an oldukça taşlı, bakalım asfalt yola ne zaman çıkacağız?
+
+
+---
+
+*Not 1: Bu yazı ilk olarak 20 Temmuz 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı]()*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
