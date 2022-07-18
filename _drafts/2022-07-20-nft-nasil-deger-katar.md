@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "NFT'ler Nasıl Deüer Katar?"
+title:  "NFT'ler Nasıl Değer Katar?"
 date:   2022-07-20 17:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, NFT
