@@ -10,7 +10,7 @@ tags: Yazılar, DeFi, NFT
 Bu yazımızda, NFT'nin bir esere nasıl değer katabileceğine hızlıca bakalım: 
 
 ### NFT dünyasında son durum ne?
-NFT dünyası 2021 yılı içinde büyük bir patlama yaşadı. Çıkan onlarca dijital eser, binlerce koleksiyon, ödenen çılgınca rakamlar.. Sonrasında ise 2022 yılı içinde ciddi bir yavaşlama görüldü. NFT üzerine odaklanmış pazar yerlerine baktığınızda hacimlerin değişimi çok ciddi:
+NFT dünyası 2021 yılı içinde büyük bir patlama yaşadı. Çıkan onlarca dijital eser, binlerce koleksiyon, ödenen çılgınca rakamlar... Sonrasında ise 2022 yılı içinde ciddi bir yavaşlama görüldü. NFT üzerine odaklanmış pazar yerlerine baktığınızda hacimlerin değişimi çok ciddi:
 
 | ![nft_pazar_yerleri](/assets/marketplaces_2207_v2_800.png)|
 |:--:| 
@@ -44,9 +44,9 @@ NFT'lerin hızlı ve güvenli bir şekilde global bazda el değiştirebiliyor ol
 
 Öte yandan, eserin orijinalliği dışında ona değer katan bir başka unsur ise, hangi koleksiyonlarda bulunduğu. Eğer ürün geçmişte ünlü bir koleksiyoner tarafından satın alınmış ise bu onun değerine olumlu bir etki yapıyor. NFT'lerin daha önce kimler tarafından ne zaman hangi fiyata satın alındığını ve satıldığını saniyeler içinde görmek mümkün. 
 
-Üreticiler yani sanatçılar için asıl önemli konulardan biri de NFT'lerin programlanabilir kod parçaları olması. Neye yarıyor bu? Sanatçının, eserin sadece ilk satışından değil, daha sonraki satışlarından da pay alabilmesine. Bunun için sanatçının ortaya çıkardığı eser için NFT oluştururken, sonraki satış haklarından x% payın kendisine gönderileceğini belirtmesi yeterli. Sonrasında takibe bile gerek yok. Eser el değiştirdiği anda satılan rakamın önceden belirlen oranı sanatçının adresine otomatik olarak yatabilir. 
+Üreticiler yani sanatçılar için asıl önemli konulardan biri de NFT'lerin programlanabilir kod parçaları olması. Neye yarıyor bu? Sanatçının, eserin sadece ilk satışından değil, daha sonraki satışlarından da pay alabilmesine. Bunun için sanatçının ortaya çıkardığı eser için NFT oluştururken, sonraki satış haklarından x% payın kendisine gönderileceğini belirtmesi yeterli. Sonrasında takibe bile gerek yok. Eser el değiştirdiği anda satılan rakamın önceden belirlenen oranı sanatçının adresine otomatik olarak yatabilir. 
 
-Yerimiz kısıtlı olduğu için fazla giremesek de, NFT'lerin sanatçı ile hayran kitlesi arasındaki iletişimi artırması bunun da hem sanatçıya hem hayran kitlesine ekonomik artılar getirmesi mümkün. Örneğin müzik alanında gruplar hayran kitlerisini NFT'ler sayesinde farklı farklı parçalara bölerek en sıkı hayran kitlesine özel gösteriler düzenleyebilir. NFT'lerin satılabilir olması bunları elinde tutanların daha sonrasında başkalarına karlı bir şekilde devretmesine olanak tanıyor. 
+Yerimiz kısıtlı olduğu için fazla giremesek de, NFT'lerin sanatçı ile hayran kitlesi arasındaki iletişimi artırması bunun da hem sanatçıya hem hayran kitlesine ekonomik artılar getirmesi mümkün. Örneğin müzik alanında gruplar hayran kitlesini NFT'ler sayesinde farklı farklı parçalara bölerek en sıkı hayran kitlesine özel gösteriler düzenleyebilir. NFT'lerin satılabilir olması bunları elinde tutanların daha sonrasında başkalarına karlı bir şekilde devretmesine olanak tanıyor. 
 
 ### Sonuç 
 
