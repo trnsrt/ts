@@ -24,7 +24,7 @@ Yavaşlamanın etkilerinin son örneğini OpenSea'nin geçtiğimiz hafta içinde
 
 NFT'ler dijital resimler ya da profil fotoğrafı olarak kullanılan koleksiyonların çok daha ötesinde. Şimdiden noterlik benzeri fiziki dünyadaki sahipliğin dijital dünyaya aktarımı gibi konular konuşuluyor olsa da, gelecekte şu anda kestiremediğimiz daha pek çok kullanım alanının olacağı da kesin gibi. 
 
-Bu yazımızda, konuya yabancı olanlara, en basit anlatımıyla, bir örnek üzerinden NFT'nin bir sanat eserine nasıl değer katabileceğini bulmaya çalışacağız. Bunun için öncelikle klasik anlamda bir eserin değeri nedir sorusuna cevap aramalı:
+Bu yazımızda, konuya yabancı olanlara, en basit anlatımıyla, bir örnek üzerinden NFT'nin bir sanat eserine nasıl değer katabileceğini bulmaya çalışacağız. Bunun için öncelikle klasik anlamda bir eserin değeri nedir sorusuna cevap arayalım:
 
 ### Bir sanat eserinin değeri nereden gelir?
 
