@@ -14,6 +14,11 @@ While we were heading towards a digital world, one of the key obstacles was the 
 
 In the physical world, the goods or money that we own have a physical presence - meaning they each are unique. When you and I both buy the same model of a car on the same date they are both identical. However, after using it for a certain period of time, let's say, one year, these two cars are not identical at all. I am usually a bad driver so most probably I would hit my car to a wall while parking and even though it is repaired or parts are replaced, it is not the same car anymore. 
 
+
+| ![cars](/assets/citroen-4533220_800.jpg)|
+|:--:| 
+| *Image by [Franck Barske](https://pixabay.com/users/barskefranck-6433778/)) from [Pixabay](https://pixabay.com/)*|
+
 The digital world on the other hand has no depreciation. Any digital asset, be it a picture in jpeg format or an audio file is made up of 1's and 0's... They stay intact forever. One more thing; they can be easily **copied**. This copy feature is extremely important. One of the key attributes of something to be valuable is scarcity. When you have something in abundance people do not attach any value to it. Go to a beach and try to sell sand to people - they will laugh at you. However, try to sell an ice-cold soda at a deserted place and I am pretty sure you will be able to get multiple times of what you bought it for. 
 
 So how did we manage to make things scarce in the digital world then? In the beginning, we trusted an authority. For money we trusted banks. Banks told us that the other party has the ability to pay us for the good that we sell. When we send the good to our counter-party the bank increased our balance. 
