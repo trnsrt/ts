@@ -36,6 +36,10 @@ Spekülatif değer ise, eserin pazar değerini belirleyen ekstra tüm değerleri
 
 NFT'lerin yukarıda bahsettiğimiz spekülatif değerin her bir parçasına artı etki yaptığını söylemek mümkün. 
 
+| ![finger](/assets/finger-3530353_800.jpg)|
+|:--:| 
+| *Image by [Gerd Altmann](https://pixabay.com/users/geralt-9301/) from [Pixabay](https://pixabay.com/)*|
+
 Öncelikle, maliyet konusunda ciddi bir avantaj getiriyor NFT'ler. Örneğin bir sanat eserinin orijinal olduğunu anlamak hayli zahmetli ve pahalı bir iş. Özellikle fiziki eserlerde müzeler ya da koleksiyonerler konunun uzmanı eksperlere başvurmak zorunda kalıyorlar. Halbuki NFT'de bilmeniz gereken tek konu sanatçının adresi. Sonrasında blokzincir size eserin gerçekten sanatçı tarafından mı çıkarıldığını saniyeler içinde söyleyebilir. 
 
 Bir başka artı, transfer maliyetleri konusunda. Fiziki eserlerin bulunduğu ortamdan başka bir ortama taşınmaları, hele ülke ve okyanus ötesine götürülmeleri ciddi bir maliyet. NFT'lerin de içinde olduğu dijital eserlerin ise böyle bir sorunu yok. Bu işin maliyet kısmı. Bu kolay erişim ve transfer, aynı zamanda eserlerin global bir alıcı kitlesine ulaşmasını da sağlıyor. 
