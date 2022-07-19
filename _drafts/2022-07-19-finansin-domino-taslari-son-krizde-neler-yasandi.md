@@ -46,7 +46,7 @@ Birincisi USDT(C) gibi paraları borç alıp UST'ye yatırma stratejisinin, her 
 
 Yukarıda yaşananların dışında 3AC'nin elindeki GBTC'leri farklı kurumlara teminat göstererek kredi aldığı şeklinde iddialar var ki, doğru ise dolandırıcılık olarak adlandırılabilecek bu durumu 3AC'nin kurulu olduğu Singapur otoritelerinin incelemeye aldığını da belirtelim. 
 
-Gelinen son noktada, 3AC, British Virgin Islands'da mahkemelere başvurup [iflasını isteyerek](https://www.coindeskturkiye.com/sirketler/three-arrows-capital-new-yorkta-iflas-basvurusunda-bulundu-939) beyaz bayrağı çekmiş durumda. En son bu hafta Pazartesi günü açıklanan belgelere göre toplam 30 merkezi şirket 3.5 milyar ABD Doları tutarında bir alacağı için iflas sürecini yöneten aracıya başvuruda bulundu. Detaylar yavaş yavaş ortaya dökülmeye devam edecek. 
+Gelinen son noktada, 3AC, British Virgin Islands'da mahkemelere başvurup [iflasını isteyerek](https://www.coindeskturkiye.com/sirketler/three-arrows-capital-new-yorkta-iflas-basvurusunda-bulundu-939) beyaz bayrağı çekmiş durumda. En son bu hafta Pazartesi günü açıklanan belgelere göre toplam 30 merkezi şirket 3.5 milyar ABD Doları tutarında bir alacağı için iflas sürecini yöneten aracıya [başvuruda bulundu](https://www.theblock.co/post/158169/three-arrows-capital-3ac-creditors-list-3-5-billion-crypto-affidavits). Detaylar yavaş yavaş ortaya dökülmeye devam edecek. 
 
 
 ### Arkası yarın 
