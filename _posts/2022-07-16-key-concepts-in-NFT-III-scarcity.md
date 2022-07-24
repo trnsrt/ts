@@ -32,6 +32,6 @@ This is how NFTs are actually born. NFTs in digital life are what physical goods
 In our next post, we will be talking about the benefits of NFTs. 
 
 ---
-*This piece is [first published]() in [BlockchainIST Center](https://medium.com/blockchainist-center) on July 16th, 2022.*
+*This piece is [first published](https://medium.com/bcistcenter/key-concepts-in-nfts-iii-scarcity-44c66946361b) in [BlockchainIST Center](https://medium.com/blockchainist-center) on July 16th, 2022.*
 
 *None of the views expressed in this article should be considered as investment advice*
