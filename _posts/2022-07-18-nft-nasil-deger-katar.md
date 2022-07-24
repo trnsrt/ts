@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "NFT'ler Nasıl Değer Katar?"
-date:   2022-07-20 17:17:56 +0300
+date:   2022-07-18 17:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, NFT
 ---
@@ -59,7 +59,7 @@ Henüz emekleme aşamasında olan, bu nedenle spekülatif iniş ve çıkışlara
 
 ---
 
-*Not 1: Bu yazı ilk olarak 20 Temmuz 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı]()*
+*Not 1: Bu yazı ilk olarak 18 Temmuz 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/nft-nasil-deger-katar/)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
