@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "NFT nasıl değer katar? -1 "
+title:  "NFT'nin Faydaları -1 "
 date:   2022-05-25 08:47:56 +0300
 categories: Genel
 tags: Yazılar, Web3, DeFi, DeFi'ye Giriş, NFT
