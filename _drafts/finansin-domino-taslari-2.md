@@ -1,7 +1,7 @@
 
 
 
-# Finansın Domino Taşları - Son krizde neler yaşandı? 2
+# Finansın Domino Taşları - 2: Kriz nasıl gelişti?
 Bu yazımızda kripto dünyasında yaşanan son krizin, devam eden halkalarına bakıyoruz. 
 
 Geçtiğimiz yazımızda, kriptopara alanında yaşanan son krizin çıkış noktası olan UST'nin ABD Dolarına çıpasını kaybetmesi sonrasında ise  UST'ye en büyük para yatırmış kurumlardan biri olan 3AC fonununun zora girmesine değinmiştik. Bu yazımızda UST ve 3AC'den etkilenen diğer aktörlere değineceğiz. 
