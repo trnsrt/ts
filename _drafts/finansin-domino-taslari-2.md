@@ -53,7 +53,7 @@ BlockFi, Celsius ya da Voyager gibi kurumların ise, kurumsal görüntüleri ve 
 
 ### Sorunları regülasyonlarla çözebilir miyiz? Evet ise nereye kadar?
 
-İşte burada regülasyonun nerede nasıl kullanılması gerektiği de net bir şekilde ortaya çıkıyor aslında: **İnsanın işin içinde olduğu, başkasının parasını emanet alan (çoğu merkezi) yapılar, mutlaka bir regülasyona tabi olmalı. Kodun hakim olduğu, yapılan işlemlerin açık bir şekilde takip edilebildiği ve bu sayede toplum tarafından anlık olarak denetlenebilen DeFi dünyasına getirilmeye çalışılacak her tür regülasyonun ise gereksiz bürokrasi yaratması dışında uygulanabilir olmayacağı da kabul edilmeli.**
+İşte burada regülasyonun nerede nasıl kullanılması gerektiği de net bir şekilde ortaya çıkıyor aslında: İnsanın işin içinde olduğu, başkasının parasını emanet alan (çoğu merkezi) yapılar, mutlaka bir regülasyona tabi olmalı. Kodun hakim olduğu, yapılan işlemlerin açık bir şekilde takip edilebildiği ve bu sayede toplum tarafından anlık olarak denetlenebilen DeFi dünyasına getirilmeye çalışılacak her tür regülasyonun ise gereksiz bürokrasi yaratması dışında uygulanabilir olmayacağı da kabul edilmeli.
 
 ### Sonuç 
 
