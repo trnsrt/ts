@@ -1,7 +1,7 @@
 Geleneksel finansa DeFi'den bir misafir var
-Bu yazımızda DeFi ile klasik finansın yakınlaşmasının son örneklerinden olan MakerDAO sistemi ile ABD bankacılık sektörünü bir  araya gelme çabalarından bahsedeceğiz. 
+Bu yazımızda DeFi ile klasik finansın yakınlaşmasının son örneklerinden olan MakerDAO sistemi ile ABD bankacılık sektörünün bir  araya gelme çabalarından bahsedeceğiz. 
 
-DeFi dünyasının en eskilerinden olan [MakerDAO](https://makerdao.com/en/) son zamanlarda klasik finans dünyası ile DeFi'yi bir araya getirmek konusunda ilginç işlere el atıyor. En son yaptıkları hareket ABD'li bir bankanın kendi sistemlerine entegre etmek oldu. Gelin bu yazıda önce MakerDAO sistemini kısaca hatırlayalım, sonrasında ise yaptıkları son hamlelere hızlı bir göz gezdirelim. 
+DeFi dünyasının en eskilerinden olan [MakerDAO](https://makerdao.com/en/) son zamanlarda klasik finans dünyası ile DeFi'yi bir araya getirmek konusunda ilginç işlere el atıyor. En son yaptıkları hareket ABD'li bir bankayı kendi sistemlerine entegre etmek oldu. Gelin bu yazıda önce MakerDAO sistemini kısaca hatırlayalım, sonrasında ise yaptıkları son hamlelere hızlı bir göz gezdirelim. 
 
 ### Kısa hatırlatma: Neydi MakerDAO?
 
