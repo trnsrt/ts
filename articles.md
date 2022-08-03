@@ -13,7 +13,7 @@ permalink: /articles/
   - [Blokzincirin çıkış felsefesi ne?](/genel/2020/06/04/blokzincirin-felsefesi-ne.html)
 - Blockchain'in değişik alanlarda getirdiği potansiyel yenilikler için
   - [İyilik için Blockchain](/genel/2018/03/29/Iyilik-icin-blockchain.html) 
-  - [Sanat için Blockchain](/genel/2018/03/29/Iyilik-icin-blockchain.html) 
+  - [Sanat için Blockchain](/genel/2018/04/06/sanat-icin-blockchain.html) 
   - [Sağlık için Blockchain](/genel/2018/04/17/saglik-icin-blockchain.html) 
   - [Seyahat için Blockchain](/genel/2018/07/06/seyahat-icin-blockchain.html)
   - [Çevre için Blockchain](/genel/2018/11/16/cevre-icin-blockhain.html) ve [devamı](/genel/2018/11/17/cevre-icin-blockchaine-devam.html) 
