@@ -9,7 +9,7 @@ DeFi dünyasının en eskilerinden olan [MakerDAO](https://makerdao.com/en/) son
 
 İlk olarak ETH olarak başlayan bu teminatlar zamanla başta stabil paralar ve likidite havuz tokenleri olmak üzere farklı kriptoparalara doğru genişledi. 
 
-|![MakerDAO_Varlık_dagilimi](/assets/MakerDAO_Varlik_Dagilimi.png)|
+|![MakerDAO_Varlık_dagilimi](/assets/MakerDAO_Varlik_Dagilimi_v2.png)|
 |:--:| 
 | *MakerDAO varlıklarının dağılımı. Kaynak: [Dune Analytics @SebVentures](https://dune.com/0xbageltoes/mkr-sebventures-dashboard)*|
 
@@ -25,7 +25,7 @@ Bu nedenle, MakerDAO başlangıçta işin dijital kısmına girip fiziki dünyay
 
 Deneysel olarak gerçekleşen gerçek varlıkların tokenleştirilmesi projesi aslına bakarsanız MakerDAO için oldukça kârlı bir alan oldu. Zira kriptopara teminat ile kredi verme oldukça rekabetçi bir iş olduğu için faiz oranları oldukça düşük. Gerçek varlıklar ise ortaya çıkarılması zor ama bir kez gerçekleştirdikten sonra devamında daha kârlı bir alan. Öyle ki, bu gerçek varlıklar toplam MakerDAO sisteminin kilitli teminatlar içinde %1'den daha az bir rakama sahipken, toplam protokol gelirinin neredeyse %10'unu oluşturuyorlar. 
 
-|![MakerDAO_Varlık_dagilimi](/assets/MakerDAO_Yillik_Gelirler.png)|
+|![MakerDAO_Varlık_dagilimi](/assets/MakerDAO_Yillik_Gelirler_v2.png)|
 |:--:| 
 | *MakerDAO yıllıklandırılmış gelir dağılımı. Kaynak: [Dune Analytics @SebVentures](https://dune.com/0xbageltoes/mkr-sebventures-dashboard)*|
 
