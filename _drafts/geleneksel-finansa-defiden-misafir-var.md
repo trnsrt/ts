@@ -31,11 +31,11 @@ Deneysel olarak gerçekleşen gerçek varlıkların tokenleştirilmesi projesi a
 
 ### Finans dünyası ile entegrasyon
 
-Geçtiğimiz günlerde ise bu alandaki önemli tarihsel gelişmelerden biri, ilk kez bir ABD bankasının DeFi ekosistemine bağlanması oldu. Pensilvanya'da kurulu ölçekli bir banka olan [Huntingdon Bank](https://www.myhvb.com/) (NASDAQ: [HVBC](https://www.nasdaq.com/market-activity/stocks/hvbc)), MakerDAO forumuna, sahip olduğu kredilerin bir kısmını teminat göstererek kredi almak için [başvurda bulundu](https://forum.makerdao.com/t/mip6-huntingdon-valley-bank-loan-syndication-collateral-onboarding-application/14219). Başvuru MakerDAO token sahiplerinin %87'sinin oyu ile kabul edildi ve Huntingdon Bank'a 100 milyon ABD Doları bir limit açıldı. 
+Geçtiğimiz günlerde ise bu alandaki önemli tarihsel gelişmelerden biri, ilk kez bir ABD bankasının DeFi ekosistemine bağlanması oldu. Bölgesel küçük ölçekli bir banka olan [Huntingdon Bank](https://www.myhvb.com/) (NASDAQ: [HVBC](https://www.nasdaq.com/market-activity/stocks/hvbc)), sahip olduğu kredilerin bir kısmını teminat göstererek fon almak için MakerDAO forumuna [başvurda bulundu](https://forum.makerdao.com/t/mip6-huntingdon-valley-bank-loan-syndication-collateral-onboarding-application/14219). Başvuru MakerDAO token sahiplerinin %87'sinin oyu ile kabul edildi ve Huntingdon Bank'a 100 milyon ABD Doları bir limit açıldı. 
 
 İlk kez olması nedeniyle oldukça karışık sayılabilecek sistemi basitleştirerek anlatmaya çalışalım. Zira, Huntingdon Bank ABD'de kurulu bir merkezi banka, MakerDAO ise bir merkeziyetsiz bir DAO. Forumda öneri sunmak ve oylamak önemli ama kredilerin teminat olarak kullanılması farklı bir olay. Bunun için Huntingdon Bank tarafından MakerDAO adına hareket edecek bir tröst kurulacak. Huntingdon Bank bu tröst üzerinden kredi alıp geri ödeyecek ve tröstün yönetimi MakerDAO tarafından direkt olarak ya ada oylama ile belirlenecek bir komite tarafından yapılacak. 
 
-Teminat olarak verilen ise Huntigdon Bank'ın müşterilere kullandırdığı kredi portföyü olacak. MakerDAO tarafında riski azaltmak için, portföye yüksek kredibilitesi olan müşteri kredileri konacak. Kredilerin %50'si banka tarafından üstlenilecek, zamanla bankanın payı %5'lere doğru inecek (böylece 'bankanın elini taşın altında tutması' sağlanacak). Bankanın hesaplamalarına göre, MakerDAO'nun bu kredilerden masraflar düştükten sonra yaklaşık %5 oranında bir getirisi olacak. 
+Teminat olarak verilen ise Huntigdon Bank'ın müşterilerine kullandırdığı kredi portföyü olacak. MakerDAO tarafında riski azaltmak için, portföye yüksek kredibilitesi olan müşteri kredileri konacak. Kredilerin %50'si banka tarafından üstlenilecek, zamanla bankanın payı %5'lere doğru inecek (böylece 'bankanın elini taşın altında tutması' sağlanacak). Bankanın hesaplamalarına göre, MakerDAO'nun bu kredilerden masraflar düştükten sonra yaklaşık %5 oranında bir getirisi olacak. 
 
 ### Ne önemi var? 
 
@@ -45,7 +45,7 @@ MakerDAO için, rekabetin arttığı kriptopara teminatlı kredi pazarından dah
 
 Banka için ise, ekstra bir finansman kaynağı; zira normalde banka müşterilerine maksimum 7 milyon ABD Doları kredi verebilirken, bu anlaşma çerçevesinde verebileceği kredi miktarını daha yukarı çıkarabilir. 
 
-DeFi dünyası için ise, ürünlerin spekülatif kriptopara ticari ötesinde kullanım alanı bulması DeFi'nin potansiyelini gösterebilmesi için oldukça önemli. MakerDAO'nun yanında Aave gibi protokoller de klasik finans ile entegrasyon yarışına girmiş durumda.  **Buradaki sinerji ise, DeFi'nin sağlam bir altyapı, klasik finansın ise ihtiyaç sahiplerine ulaşabilecek ve bu ihtiyaçların DeFi tarafından  karşılanmasına yardım edebilecek bir aracı olarak birbirlerini tamamlıyor olması.** 
+DeFi dünyası için ise, ürünlerin spekülatif kriptopara alım-satımının ötesinde kullanım alanı bulması DeFi'nin potansiyelini gösterebilmesi için oldukça önemli. MakerDAO'nun yanında Aave gibi protokoller de klasik finans ile entegrasyon yarışına girmiş durumda.  **Buradaki sinerji ise, DeFi'nin sağlam bir altyapı, klasik finansın ise ihtiyaç sahiplerine ulaşabilecek ve bu ihtiyaçların DeFi tarafından  karşılanmasına yardım edebilecek bir aracı olarak birbirlerini tamamlıyor olması.** 
 
 ### Sonuç 
 
