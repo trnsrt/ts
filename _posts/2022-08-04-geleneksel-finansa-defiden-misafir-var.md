@@ -1,6 +1,21 @@
+---
+layout: post
+title:  "Geleneksel Finansa DeFi'den Misafir Var"
+date:   2022-08-04 17:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi, NFT
+---
+
 Bu yazımızda DeFi ile klasik finansın yakınlaşmasının son örneklerinden olan MakerDAO sistemi ile ABD bankacılık sektörünün bir  araya gelme çabalarından bahsedeceğiz. 
 
-DeFi dünyasının en eskilerinden olan [MakerDAO](https://makerdao.com/en/) son zamanlarda klasik finans dünyası ile DeFi'yi bir araya getirmek konusunda ilginç işlere el atıyor. En son yaptıkları hareket ABD'li bir bankayı kendi sistemlerine entegre etmek oldu. Gelin bu yazıda önce MakerDAO sistemini kısaca hatırlayalım, sonrasında ise yaptıkları son hamlelere hızlıca göz gezdirelim. 
+DeFi dünyasının en eskilerinden olan [MakerDAO](https://makerdao.com/en/) son zamanlarda klasik finans dünyası ile DeFi'yi bir araya getirmek konusunda ilginç işlere el atıyor. En son yaptıkları hareket ABD'li bir bankayı kendi sistemlerine entegre etmek oldu. 
+
+
+| ![connection](/assets/connection-g369f208e6_800.png)|
+|:--:| 
+| *Image by [mohamed Hassan](https://pixabay.com/users/mohamed_hassan-5229782/) from [Pixabay](https://pixabay.com/)*|
+
+Gelin bu yazıda önce MakerDAO sistemini kısaca hatırlayalım, sonrasında ise yaptıkları son hamlelere hızlıca göz gezdirelim. 
 
 ### Kısa hatırlatma: Neydi MakerDAO?
 
@@ -51,4 +66,14 @@ DeFi dünyası için ise, ürünlerin spekülatif kriptopara alım-satımının 
 Klasik finans ile DeFi yavaş yavaş birbirine yakınlaşmaya başlıyor. Adım adım gerçekleşen bu yakınlaşma, gerekli altyapıların kurulması, karşılıklı güvenin pekişmesi ile birlikte önümüzdeki dönemde daha da hızlanabilir. Hep birlikte yaşayarak göreceğiz. 
 
 
-Kaynaklar: [Huntingdon Bank tarafından MakerDAO'ya sunulan teklif](https://forum.makerdao.com/t/mip6-huntingdon-valley-bank-loan-syndication-collateral-onboarding-application/14219) ve [Messari Pro Raporu](https://messari.io/article/makerdao-s-dive-into-real-world-assets?utm_source=twitter_messaricrypto&utm_medium=organic_social&utm_campaign=makerdao_dive_real_world)
+*Kaynaklar: [Huntingdon Bank tarafından MakerDAO'ya sunulan teklif](https://forum.makerdao.com/t/mip6-huntingdon-valley-bank-loan-syndication-collateral-onboarding-application/14219) ve [Messari Pro Raporu](https://messari.io/article/makerdao-s-dive-into-real-world-assets?utm_source=twitter_messaricrypto&utm_medium=organic_social&utm_campaign=makerdao_dive_real_world)*
+
+
+---
+
+*Not 1: Bu yazı ilk olarak 4 Ağustos 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/geleneksel-finansa-defiden-misafir-var/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
+
