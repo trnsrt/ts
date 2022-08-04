@@ -1,7 +1,6 @@
-Geleneksel finansa DeFi'den bir misafir var
 Bu yazımızda DeFi ile klasik finansın yakınlaşmasının son örneklerinden olan MakerDAO sistemi ile ABD bankacılık sektörünün bir  araya gelme çabalarından bahsedeceğiz. 
 
-DeFi dünyasının en eskilerinden olan [MakerDAO](https://makerdao.com/en/) son zamanlarda klasik finans dünyası ile DeFi'yi bir araya getirmek konusunda ilginç işlere el atıyor. En son yaptıkları hareket ABD'li bir bankayı kendi sistemlerine entegre etmek oldu. Gelin bu yazıda önce MakerDAO sistemini kısaca hatırlayalım, sonrasında ise yaptıkları son hamlelere hızlı bir göz gezdirelim. 
+DeFi dünyasının en eskilerinden olan [MakerDAO](https://makerdao.com/en/) son zamanlarda klasik finans dünyası ile DeFi'yi bir araya getirmek konusunda ilginç işlere el atıyor. En son yaptıkları hareket ABD'li bir bankayı kendi sistemlerine entegre etmek oldu. Gelin bu yazıda önce MakerDAO sistemini kısaca hatırlayalım, sonrasında ise yaptıkları son hamlelere hızlıca göz gezdirelim. 
 
 ### Kısa hatırlatma: Neydi MakerDAO?
 
@@ -13,7 +12,7 @@ DeFi dünyasının en eskilerinden olan [MakerDAO](https://makerdao.com/en/) son
 |:--:| 
 | *MakerDAO varlıklarının dağılımı. Kaynak: [Dune Analytics @SebVentures](https://dune.com/0xbageltoes/mkr-sebventures-dashboard)*|
 
-Aave benzeri kredi platformlarının da ortaya çıkması ise kızışan rekabet MakerDAO'yu stratejik olarak farklı hamleler yapmaya doğru itti. Bunlardan bir tanesi de klasik finans ile DeFi'yi birbirine yakınlaştırmak oldu.  (Bu çabalardan bir diğeri olan Societe General'in MakerDAO'ya sunduğu öneri ile ilgili detay yazıya da [şu bağlantıdan](https:///genel/2021/10/21/defi-ile-klasik-finansin-yakinlasmalari.html) ulaşabilirsiniz).
+Aave benzeri kredi platformlarının da ortaya çıkması ile kızışan rekabet MakerDAO'yu stratejik olarak farklı hamleler yapmaya doğru itti. Bunlardan bir tanesi de klasik finans ile DeFi'yi birbirine yakınlaştırmak oldu.  (Bu çabalardan bir diğeri olan Societe General'in MakerDAO'ya sunduğu öneri ile ilgili detay yazıya da [şu bağlantıdan](https:///genel/2021/10/21/defi-ile-klasik-finansin-yakinlasmalari.html) ulaşabilirsiniz).
 
 ### Gerçek varlıkların tokenleştirilmesi
 
@@ -33,7 +32,7 @@ Deneysel olarak gerçekleşen gerçek varlıkların tokenleştirilmesi projesi a
 
 Geçtiğimiz günlerde ise bu alandaki önemli tarihsel gelişmelerden biri, ilk kez bir ABD bankasının DeFi ekosistemine bağlanması oldu. Bölgesel küçük ölçekli bir banka olan [Huntingdon Bank](https://www.myhvb.com/) (NASDAQ: [HVBC](https://www.nasdaq.com/market-activity/stocks/hvbc)), sahip olduğu kredilerin bir kısmını teminat göstererek fon almak için MakerDAO forumuna [başvurda bulundu](https://forum.makerdao.com/t/mip6-huntingdon-valley-bank-loan-syndication-collateral-onboarding-application/14219). Başvuru MakerDAO token sahiplerinin %87'sinin oyu ile kabul edildi ve Huntingdon Bank'a 100 milyon ABD Doları bir limit açıldı. 
 
-İlk kez olması nedeniyle oldukça karışık sayılabilecek sistemi basitleştirerek anlatmaya çalışalım. Zira, Huntingdon Bank ABD'de kurulu bir merkezi banka, MakerDAO ise bir merkeziyetsiz bir DAO. Forumda öneri sunmak ve oylamak önemli ama kredilerin teminat olarak kullanılması farklı bir olay. Bunun için Huntingdon Bank tarafından MakerDAO adına hareket edecek bir tröst kurulacak. Huntingdon Bank bu tröst üzerinden kredi alıp geri ödeyecek ve tröstün yönetimi MakerDAO tarafından direkt olarak ya ada oylama ile belirlenecek bir komite tarafından yapılacak. 
+İlk kez olması nedeniyle oldukça karışık sayılabilecek sistemi basitleştirerek anlatmaya çalışalım. Zira, Huntingdon Bank ABD'de kurulu bir merkezi banka, MakerDAO ise merkeziyetsiz bir DAO. Forumda öneri sunmak ve oylamak önemli ama kredilerin teminat olarak kullanılması farklı bir olay. Bunun için Huntingdon Bank tarafından MakerDAO adına hareket edecek bir tröst kurulacak. Huntingdon Bank bu tröst üzerinden kredi alıp geri ödeyecek ve tröstün yönetimi MakerDAO tarafından direkt olarak ya da oylama ile belirlenecek bir komite tarafından yapılacak. 
 
 Teminat olarak verilen ise Huntigdon Bank'ın müşterilerine kullandırdığı kredi portföyü olacak. MakerDAO tarafında riski azaltmak için, portföye yüksek kredibilitesi olan müşteri kredileri konacak. Kredilerin %50'si banka tarafından üstlenilecek, zamanla bankanın payı %5'lere doğru inecek (böylece 'bankanın elini taşın altında tutması' sağlanacak). Bankanın hesaplamalarına göre, MakerDAO'nun bu kredilerden masraflar düştükten sonra yaklaşık %5 oranında bir getirisi olacak. 
 
@@ -49,7 +48,7 @@ DeFi dünyası için ise, ürünlerin spekülatif kriptopara alım-satımının 
 
 ### Sonuç 
 
-Klasik finans ile DeFi yavaş yavaş birbirine yakınlaşmaya başlıyor. Adım adım gerçekleşen bu yakınlaşma, gerekli altyapıların kurulması, karşılıklı güvenin pekişmesi ile birlikte, önümüzdeki dönemde daha da hızlanabilir. Hep birlikte yaşayarak göreceğiz. 
+Klasik finans ile DeFi yavaş yavaş birbirine yakınlaşmaya başlıyor. Adım adım gerçekleşen bu yakınlaşma, gerekli altyapıların kurulması, karşılıklı güvenin pekişmesi ile birlikte önümüzdeki dönemde daha da hızlanabilir. Hep birlikte yaşayarak göreceğiz. 
 
 
 Kaynaklar: [Huntingdon Bank tarafından MakerDAO'ya sunulan teklif](https://forum.makerdao.com/t/mip6-huntingdon-valley-bank-loan-syndication-collateral-onboarding-application/14219) ve [Messari Pro Raporu](https://messari.io/article/makerdao-s-dive-into-real-world-assets?utm_source=twitter_messaricrypto&utm_medium=organic_social&utm_campaign=makerdao_dive_real_world)
