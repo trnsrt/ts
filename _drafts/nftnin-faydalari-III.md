@@ -8,10 +8,10 @@ Sonraki bölümde ise NFT'nin faydalarından eserin geçmişinin (ilk sahipliği
 
 []
 
-Bu bölümde NFT'nin bir esere katacağı faydaları göz atmaya devam ediyoruz. 
+Bu bölümde NFT'nin bir esere katacağı faydalara göz atmaya devam ediyoruz. 
 
 ### Telif hakları takibi
-Klasik anlamda bir sanat eserine baktığınızda, genellikle sanatçının eserden sağladığı maddi fayda, genel olarak eserin ilk satışı sırasında olur. Sanatçı eseri üretir, belli bir fiyattan satışa koyar, ya da alıcılar eseri inceledikten sonra (ya da öncesinde) bir değer biçerler ve anlaşılması noktasında eser alıcıya ücreti de satıcıya geçerek işlem tamamlanır. 
+Klasik anlamda bir sanat eserine baktığınızda, genellikle sanatçının eserden sağladığı maddi fayda, eserin ilk satışı sırasında olur. Sanatçı eseri üretir, belli bir fiyattan satışa koyar, ya da alıcılar eseri inceledikten sonra (ya da öncesinde) bir değer biçerler ve anlaşılması noktasında eser alıcıya ücreti de satıcıya geçerek işlem tamamlanır. 
 
 NFT dünyasında ise özellikle sanatçının önüne yeni ekonomik potansiyeller çıkabiliyor. Daha önce de bahsettiğimiz gibi, NFT aslında bir kod parçası. Temel görevi, dijital ortamda bulunan herhangi bir eserin kime ait olduğunu göstermek. Bu temel görevin yanında, bu kod parçasına NFT'nin blokzincire eklenmesi sırasında başka işlevler de eklemek mümkün. Bunlardan en kritik olanı, sanatçının eserin sonraki satışlar içinden pay alabilmesi. 
 
