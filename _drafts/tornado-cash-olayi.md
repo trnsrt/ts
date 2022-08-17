@@ -27,7 +27,7 @@ Bu açıklamanın hemen ardından Tornado Cash ile ilgili ardı ardına aksiyonl
 
 * [dydx](https://www.coindeskturkiye.com/sirketler/dydx-bazi-hesaplari-engelledi-1473), Aave, Uniswap, [Balancer](https://twitter.com/BalancerLabs/status/1558212602257231873) benzeri merkeziyetsiz olma hedefinde olan ancak hâlâ merkezi unsurları bulunan protokoller web sitelerinden Tornado Cash ile etkileşime girmiş hesapları [bloke etmeye](https://cryptoslate.com/defi-protocols-aave-uniswap-balancer-ban-users-following-ofac-sanctions-on-tornado-cash/) ya da yetkililere bildirmeye başladılar.
 
-* Tornado Cash'i yürüten DAO kendisini [feshetti](https://cryptoslate.com/tornado-cash-contributor-reveals-dao-shut-down-as-it-cant-fight-the-us-need-to-keep-contributors-safe/).
+* Tornado Cash'i yürüten DAO kendisini [feshetti](https://cryptoslate.com/tornado-cash-contributor-reveals-dao-shut-down-as-it-cant-fight-the-us-need-to-keep-contributors-safe/). Grup, Discord kanalını ve yönetim forumunu [kapattı](https://www.theblock.co/post/163228/tornado-cashs-discord-server-and-governance-forum-shuttered-amid-arrest) 
 
 * Belki de en ilginci, Hollanda resmi otoriteleri Tornado Cash geliştiricilerinden birini tutukladığını [açıkladı](https://www.coindeskturkiye.com/politika/supheli-tornado-cash-gelistiricisi-hollandada-tutuklandi-1493).
 
