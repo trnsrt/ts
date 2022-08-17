@@ -1,6 +1,6 @@
 Bu haftaki yazımızda geçtiğimiz günlerde ABD tarafından yasaklı listesine alınan Tornado Cash uygulamasını ve bu olayın kripto dünyasına etkilerini ele alacağız. 
 
-### Neydi Tornado Cash
+### Neydi Tornado Cash?
 Tornado Cash, Ethereum blokzinciri üzerindeki para akışlarının kaynağını gizlemek için kullanılan bir uygulama. Temel olarak, kendisine gönderilen ETH'leri topluca bir havuza alıp karıştırıp, daha sonra istenilen adrese çekim yapılabilen bir akıllı kontrat, kimilerinin deyişiyle bir karıştırıcı. Bu sayede, herhangi bir adrese gelen paranın hangi adres tarafından gönderildiği belli olmuyor. Hizmete girdiği 2019 yılından bu yana yaklaşık [7,6 milyar ABD Doları](https://blog.chainalysis.com/reports/tornado-cash-ofac-designation-sanctions/) bu uygulama üzerinden geçirilmiş. 
 
 ### Neden otoritelerin ilgisini çekmişti?
