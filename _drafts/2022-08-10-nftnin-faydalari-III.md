@@ -19,6 +19,10 @@ Klasik anlamda bir sanat eserine baktığınızda, genellikle sanatçının eser
 
 NFT dünyasında ise özellikle sanatçının önüne yeni ekonomik potansiyeller çıkabiliyor. Daha önce de bahsettiğimiz gibi, NFT aslında bir kod parçası. Temel görevi, dijital ortamda bulunan herhangi bir eserin kime ait olduğunu göstermek. Bu temel görevin yanında, bu kod parçasına NFT'nin blokzincire eklenmesi sırasında başka işlevler de eklemek mümkün. Bunlardan en kritik olanı, sanatçının eserin sonraki satışlar içinden pay alabilmesi. 
 
+|![path](/assets/path-1468938_800.jpg)|
+|:--:| 
+| *Image by [Thomas Staub](https://pixabay.com/users/thomasstaub-551392/) from [Pixabay](https://pixabay.com/)*|
+
 Nasıl oluyor bu? Aslında çok basit. Sanatçı eseri kaydederken, kod parçacığı içine sonraki satışlarda satış miktarının belli bir kısmının kendi belirteceği hesaba yatırılmasını seçiyor. Bu bahsettiğimiz karmaşık gibi görünse de bunu yapabilen akıllı kontratlar çoktan hazırlanmış ve kullanılır durumda. Blokzincirin en güzel özelliği bütün işlemlerin şeffaf bir şekilde gerçekleşmesi. Dolayısıyla, iki taraf satış için anlaştıkları noktada, alıcının satıcıya ödeyeceği ücretin karşılığında aldığı bir akıllı kontratın sahipliği. Eğer bu akıllı kontratın içinde el değiştirmesi durumunda ödenen ücretin bir kısmının x adrese gönderileceği yazıldıysa, sonrasında sanatçının alması gereken hiçbir aksiyon ya da önlem yok. Akıllı kontrat otomatik olarak çalışacak ve ilgili ücret sanatçının hesabına işlem sırasından anında geçecek. 
 
 ### Parçalara bölebilme
