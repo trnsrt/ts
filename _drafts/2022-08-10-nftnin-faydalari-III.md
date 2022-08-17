@@ -1,12 +1,16 @@
+---
+layout: post
+title:  "NFT'nin faydaları - 3"
+date:   2022-08-10 08:47:56 +0300
+categories: Genel
+tags: Yazılar, Web3, DeFi, DeFi'ye Giriş
+---
+
 NFT'nin bir esere nasıl değer katabileceğine değindiğimiz yazı dizimize kaldığımız yerden devam ediyoruz. 
 
-Yazı dizimizin ilk bölümünde, bir sanat eserinin değerinin nereden geleceğine bakmış, sonrasında NFT'nin getireceği faydalardan ilki olan orjinalliğinin teyidine göz atmıştık 👇
+Yazı dizimizin [ilk bölümünde](/genel/2022/05/25/NFTnin-faydalari-1.html), bir sanat eserinin değerinin nereden geleceğine bakmış, sonrasında NFT'nin getireceği faydalardan ilki olan orjinalliğinin teyidine göz atmıştık. 
 
-[]
-
-Sonraki bölümde ise NFT'nin faydalarından eserin geçmişinin (ilk sahipliği sonrası kimlerin koleksiyonunun parçası olduğu) katacağı değerin blokzincir teknolojisi sayesinde saniyeler içinde görülebildiğinden, benzer şekilde alım-satım işlemlerinin anlık olarak gerçekleşebilmesinin hem maliyetleri düşürme hem de esere yeni pazarlar kazandırma konusunda yapacağı katma değeri görmüştük. 👇
-
-[]
+[Sonraki bölümde](/genel/2022/06/25/NFTnin-faydalari-2.html) ise NFT'nin faydalarından eserin geçmişinin (ilk sahipliği sonrası kimlerin koleksiyonunun parçası olduğu) katacağı değerin blokzincir teknolojisi sayesinde saniyeler içinde görülebildiğinden, benzer şekilde alım-satım işlemlerinin anlık olarak gerçekleşebilmesinin hem maliyetleri düşürme hem de esere yeni pazarlar kazandırma konusunda yapacağı katma değeri görmüştük. 👇
 
 Bu bölümde NFT'nin bir esere katacağı faydalara göz atmaya devam ediyoruz. 
 
@@ -28,3 +32,12 @@ Pazar ne kadar büyür, alıcı topluluğu ne kadar genişlerse, bunun eserin sa
 
 ### Arkası yarın
 Yazı dizimizi, NFT'nin faydalarının son bir tanesine değineceğimiz önümüzdeki yazı ile bitireceğiz. 
+
+
+---
+
+*Not 1: Bu yazı ilk olarak 10 Ağustos 2022'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı](https://medium.com/blockchainist-center/nft-nas%C4%B1l-de%C4%9Fer-katar-ii-fbc49f5346d2)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.* 
