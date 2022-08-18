@@ -21,7 +21,7 @@ Bu açıklamanın hemen ardından Tornado Cash ile ilgili ardı ardına aksiyonl
 
 * Kripto dünyasının ikinci büyük stabil parası olan USDC'yi çıkaran Circle, Tornado Cash ile ilgili yaptırım listesine alınan hesaplardaki 75.000 USDC'yi [dondurdu](https://www.theblock.co/post/162172/circle-freezes-usdc-funds-in-tornado-cashs-us-treasury-sanctioned-wallets) (burada aklınıza 'İyi ama hani kriptoparalar sadece bana ait varlıklardı, başka kimse onlara dokunamazdı?' sorusu gelebilir. O dediğiniz daha çok BTC, ETH gibi merkeziyetsiz olarak kullanıma çıkmış paralarda geçerli bir durum. USDT, USDC gibi paralar merkezi yapılar tarafından çıkarılan akıllı kontratlar oldukları için bir hamle ile kullanıcının cüzdanında bloke edilebilirler).
 
-* Sadece kripto değil tüm açık kaynak dünyasındaki uygulamaların bir arada bulunduğu ve geçtiğimiz yıllarda Microsoft tarafından satın alınan [Github}(https://github.com/), Tornado Cash'in gelişmesine katkı veren hesaplara ait sayfaları [askıya aldı](https://twitter.com/semenov_roman_/status/1556717890308653059?s=20&t=f3MfLgufRQQ3WhQy5oGmkw).
+* Sadece kripto değil tüm açık kaynak dünyasındaki uygulamaların bir arada bulunduğu ve geçtiğimiz yıllarda Microsoft tarafından satın alınan [Github](https://github.com/), Tornado Cash'in gelişmesine katkı veren hesaplara ait sayfaları [askıya aldı](https://twitter.com/semenov_roman_/status/1556717890308653059?s=20&t=f3MfLgufRQQ3WhQy5oGmkw).
 
 * [Infura](https://infura.io/) ve [Alchemy](https://www.alchemy.com/) gibi merkezi altyapı sağlayıcılar, Tornado Cash ön yüzüne [ulaşımı kestiler](https://www.theblock.co/post/162402/infura-and-alchemy-blocking-access-to-tornado-cash).
 
