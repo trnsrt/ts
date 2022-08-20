@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Tornado Cash olayı ve düşündürdükleri"
+date:   2022-08-20 12:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi, CoindeskTR
+---
+
 Bu haftaki yazımızda geçtiğimiz günlerde ABD tarafından yasaklı listesine alınan Tornado Cash uygulamasını ve bu olayın kripto dünyasına etkilerini ele alacağız. 
 
 ### Neydi Tornado Cash?
@@ -16,6 +24,10 @@ Kuzey Kore, ABD'nin [1950'lerden beri yaptırım uyguladığı](https://en.wikip
 ABD Hazine Bakanlığının kara para faaliyetlerini önleme alanında çalışan iki kurumu var. Bunlardan biri [FINCEN](https://www.fincen.gov/) (Financial Crimes Enforcement Network - Mali Suçları Araştırma Ağı)  diğeri ise [OFAC](https://home.treasury.gov/policy-issues/office-of-foreign-assets-control-sanctions-programs-and-information) (Office of Foreign Assets Control - Yabancı Varlıklar Kontrol Dairesi). FinCEN özellikle finansal kurumların şüpheli işlemleri belirleme konusunda izleyecekleri yol konusunda politikalar üretirken, OFAC direkt şüpheli kişi ya da kurumların [belirlenmesi](https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists) ve yaptırım uygulanması ile [uğraşıyor](https://cryptobriefing.com/makerdao-should-seriously-consider-preparing-for-dai-depeg-founder/). 
 
 İşte bu iki kurumdan biri olan OFAC, 8 Ağustos 2022'de yayınladığı [bir bildiri](https://home.treasury.gov/news/press-releases/jy0916) ile Tornado Cash uygulamasını ve bu uygulama ile ilişkilendirdiği 38 adresi [yasaklı listesine](https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20220808) (SDN - Specially Designated Nationals and Persons List) aldığını açıkladı. 
+
+| ![tornado](/assets/cloud-4249184_800.jpg)|
+|:--:| 
+| *Image by [Agricom](https://pixabay.com/users/agricom-5627674/) from [Pixabay](https://pixabay.com/)*|
 
 Bu açıklamanın hemen ardından Tornado Cash ile ilgili ardı ardına aksiyonlar gelmeye başladığını gördük. 
 
@@ -98,3 +110,12 @@ DeFi dünyasında yukarıda bahsettiğim ikiye ayrılma konusunda topluluğun b�
 
 ### Sonuç 
 Tornado Cash olayı, merkezi otoritelerin haklı gerekçelerle olsa bile kripto dünyasına attıkları talihsiz bir adım oldu. Görünen o ki, bu alanda yeni olan herkesin yaşadığı öğrenme eğrisini onlar da yaşayacaklar. Kripto dünyası içinde ise şu an alınan bu önlemin genelleştirilerek korku senaryoları çizildiğini görüyoruz. Umarım gerçek bundan ziyade, bu olayın aslında kriptoya karşı alınan hasmane bir tavırdan öte, otoritenin kendine düşman olarak gördüğü Kuzey Kore'ye yönelik bir aldığı bir aksiyon olduğudur. Eğer böyle ise ileride oluşturulacak kamuoyu ve DeFi ürünlerinin daha iyi tanınmasıyla birlikte kısıtlamaların kapsamının daha da daraltılacağını görebiliriz. Aksi takdirde, otoriteler ile DeFi arasında yaşanacak gereksiz gerilimin DeFi'nin geniş kitlelere yayılmasının önündeki en büyük engel olacağını söylemek hiç de zor değil. 
+
+
+---
+
+*Not 1: Bu yazı ilk olarak 20 Ağustos 2022'de [Coindesk Türkiye](https://www.coindeskturkiye.com/))'de [yayınlandı](https://www.coindeskturkiye.com/yazarlar/turan-sert/tornado-cash-olayi-ve-dusundurdukleri-1602)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
