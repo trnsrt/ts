@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Benefits of NFTs - 1"
-date:   2022-08-20 09:47:56 +0300
+date:   2022-08-19 22:47:56 +0300
 categories: Genel
 tags: Yazılar, Articles, NFT
 ---
@@ -26,6 +26,6 @@ In this post, we tried to address the issue of 'valuing an object' through the l
 
 
 ---
-*This piece is [first published]() in [BlockchainIST Center](https://medium.com/blockchainist-center) on August 19th, 2022.*
+*This piece is [first published](https://medium.com/bcistcenter/benefits-of-nfts-i-c21ee436aacd) in [BlockchainIST Center](https://medium.com/blockchainist-center) on August 19th, 2022.*
 
 *None of the views expressed in this article should be considered as investment advice*
