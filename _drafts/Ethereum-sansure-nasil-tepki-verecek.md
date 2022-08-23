@@ -74,6 +74,6 @@ Burada en önemli konu sosyal konsensusun nerede oluşacağı. Şu an görünen 
 Dolayısıyla şahsi görüşüm, ihtimal dahilinde olan ikiye ayrılmanın önüne sosyal konsensus sayesinde bir çözüm bulunacak ve Ethereum yola tek bir zincir olarak devam edecek. 
 
 ### Sonuç 
-- [ ] OFAC tarafından getirilen yasaklamalar Ethereum dünyasında büyük tartışmalar başlattı. Böyle tartışmaların şimdiden yapılması önemli, zira kafayı devekuşu gibi kuma gömmenin bir faydası yok (küresel iklim konusunda olduğu gibi). Soruna çare bulunana kadar zorlu bir yoldan geçilmesi bu sırada ETH’nin değerinde ciddi dalgalanmalar olması muhtemel. Yine de bir çözüm bulunduktan sonra Ethereum ve kripto dünyasının bu olaydan çok daha güçlenerek çıkacağını görmemiz çok olası. İzleyip göreceğiz. 
+OFAC tarafından getirilen yasaklamalar Ethereum dünyasında büyük tartışmalar başlattı. Böyle tartışmaların şimdiden yapılması önemli, zira kafayı devekuşu gibi kuma gömmenin bir faydası yok (küresel iklim konusunda olduğu gibi). Soruna çare bulunana kadar zorlu bir yoldan geçilmesi bu sırada ETH’nin değerinde ciddi dalgalanmalar olması muhtemel. Yine de bir çözüm bulunduktan sonra Ethereum ve kripto dünyasının bu olaydan çok daha güçlenerek çıkacağını görmemiz çok olası. İzleyip göreceğiz. 
 
 *Not: Burada özellikle madenciler konusunda yer alan ve işlemleri önerenler ile onaylayanların ayrılmasına yönelik halihazırda tartışılan [bir öneri](https://ethresear.ch/t/proposer-block-builder-separation-friendly-fee-market-designs/9725 ) de bulunmakta*
