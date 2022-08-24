@@ -6,9 +6,9 @@ Bundan önceki birkaç yazıda önce Tornado Cash'in yasaklanması sonrası blok
 
 ABD'nin kara para aklama konusundaki otoritelerinden OFAC'ın Tornado Cash ve onunla ilişkili hesapları yasaklı listesine alması sonrası, pek çok DeFİ uygulamasının bu listede yer alan yasaklı hesaplara erişimi engellediğinden bahsetmiştik. 
 
-| ![tornado](/assets/cloud-4249184_800.jpg)|
+| ![no_entry](/assets/cabinets-283847_800.jpg)|
 |:--:| 
-| *Image by [Agricom](https://pixabay.com/users/agricom-5627674/) from [Pixabay](https://pixabay.com/)*|
+| *Image by [Holger Langmaier](https://pixabay.com/users/holgersfotografie-47038/) from [Pixabay](https://pixabay.com/)*|
 
 Buradaki bir ayrıntıyı tekrar hatırlatalım: DeFi uygulamaları (ya da protokolleri) yasaklı adreslerin kullanıcı ön yüzlerine ulaşımını engelliyorlar (yani kendilerine ait web sitelerine erişimi kapatıyorlar).  Bu protokollere ait akıllı kontratlar ise bir kez Ethereum zincirine yüklendikten sonra geliştiricinin elinden çıkmış oluyor. Dolayısıyla bir adres yasaklı bile olsa Ethereum blokzinciri ile direkt ilişikiye girerek akıllı kontratı yani DeFi uygulamasını kullanabiliyor.
 
