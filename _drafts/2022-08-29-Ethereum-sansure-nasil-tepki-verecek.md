@@ -12,7 +12,7 @@ Bundan önceki birkaç yazıda önce Tornado Cash'in yasaklanması sonrası blok
 
 Şu ana kadar yaşananlar daha çok üst tarafta kullanıcı seviyesinde yapılan engellemeler ve etkinlikleri oldukça kısıtlı. Asıl sıkıntı yaratabilecek konu Ethereum’un platform seviyesinde yaşanabilecek sıkıntılar. Neler olabilir gelin hızlıca bir göz atalım. 
 
-### Ethereum seviyesinde sansür mü? O nasıl olabilir?
+### Ethereum ağ seviyesinde sansür olası mı?
 
 ABD'nin kara para aklama konusundaki otoritelerinden OFAC'ın Tornado Cash ve onunla ilişkili hesapları yasaklı listesine alması sonrası, pek çok DeFİ uygulamasının bu listede yer alan yasaklı hesaplara erişimi engellediğinden bahsetmiştik. 
 
