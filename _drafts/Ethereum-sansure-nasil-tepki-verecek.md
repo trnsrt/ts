@@ -1,3 +1,5 @@
+Bu yazımızda, önümüzdeki dönemde çok tartışılacak bir konuya, olası bir sansürün Ethereum dünyasında yaratacağı sarsıntılara değineceğiz. 
+
 Bundan önceki birkaç yazıda önce Tornado Cash'in yasaklanması sonrası blokzincirler üzerindeki uygulamaların getirdiği kısıtlamalardan bahsetmiş, sonrasında ise DeFi dünyasını bundan sonra nelerin beklediğine değinmiştik. 
 
 Şu ana kadar yaşananlar daha çok üst tarafta kullanıcı seviyesinde yapılan engellemeler ve etkinlikleri oldukça kısıtlı. Asıl sıkıntı yaratabilecek konu Ethereum’un platform seviyesinde yaşanabilecek sıkıntılar. Neler olabilir gelin hızlıca bir göz atalım. 
