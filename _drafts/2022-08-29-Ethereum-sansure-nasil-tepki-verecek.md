@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Ethereum sansüre nasıl yanıt verecek?"
+date:   2022-09-29 17:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
 Bu yazımızda, önümüzdeki dönemde çok tartışılacak bir konuya, olası bir sansürün Ethereum dünyasında yaratacağı sarsıntılara değineceğiz. 
 
 Bundan önceki birkaç yazıda önce Tornado Cash'in yasaklanması sonrası blokzincirler üzerindeki uygulamaların getirdiği kısıtlamalardan bahsetmiş, sonrasında ise DeFi dünyasını bundan sonra nelerin beklediğine değinmiştik. 
@@ -82,4 +90,11 @@ Dolayısıyla şahsi görüşüm, sosyal konsensus sayesinde ikiye ayrılmaya gi
 ### Sonuç 
 OFAC tarafından getirilen yasaklamalar Ethereum dünyasında büyük tartışmalar başlattı. Böyle tartışmaların şimdiden yapılması önemli, zira kafayı devekuşu gibi kuma gömmenin bir faydası yok (küresel iklim konusunda olduğu gibi). Soruna çare bulunana kadar zorlu bir yoldan geçilmesi bu sırada ETH’nin değerinde ciddi dalgalanmalar olması muhtemel. Yine de bir çözüm bulunduktan sonra Ethereum ve kripto dünyasının bu olaydan çok daha güçlenerek çıkacağını görmemiz çok olası. İzleyip göreceğiz. 
 
-*Not: Burada özellikle madenciler konusunda yer alan ve işlemleri önerenler ile onaylayanların ayrılmasına yönelik halihazırda tartışılan [bir öneri](https://ethresear.ch/t/proposer-block-builder-separation-friendly-fee-market-designs/9725 ) de bulunmakta*
+*Not 1: Burada özellikle madenciler konusunda yer alan ve işlemleri önerenler ile onaylayanların ayrılmasına yönelik halihazırda tartışılan [bir öneri](https://ethresear.ch/t/proposer-block-builder-separation-friendly-fee-market-designs/9725) de bulunmakta*
+
+*Not 2: Bu yazı ilk olarak 29 Ağustos 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı]()*
+
+*Not 3: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
+
