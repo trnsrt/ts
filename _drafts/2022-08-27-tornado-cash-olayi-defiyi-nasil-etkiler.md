@@ -1,4 +1,10 @@
-
+---
+layout: post
+title:  "Tornado Cash olayı DeFi'yi nasıl etkiler"
+date:   2022-08-27 12:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi, CoindeskTR
+---
 
 Tornado Cash olayını incelediğimiz ikinci yazıda, kripto dünyasının bu olaya verdiği tepkileri ve bu dünya oyuncularını gelecekte nelerin beklediğini irdelemeye çalışacağız. 
 
@@ -7,6 +13,10 @@ Geçtiğimiz yazıda, önce Ethereum blokzinciri üzerindeki Tornado Cash isimli
 ### Verilen tepkiler
 
 Önceki yazımızda da değindiğimiz gibi, ilk tepkiler sansüre uyum gösteren ABD merkezli yapılardan gelmeye başladı.  Merkezi platformlar (Circle, GitHub, Infura, Alchemy gibi) ya da merkeziyetsizlik yolunda ilerleyen ama geliştici ekibi bu ülkede bulunan platformlar (dYdX, Aave, Uniswap, Balancer gibi) Tornado Cash ile ilgili hesaplara erişim konusunda kısıtlama getirmeye başladılar. 
+
+| ![splash](/assets/coffee-1973549_800.jpg)|
+|:--:| 
+| *Image by [David Mark](https://pixabay.com/users/12019-12019/) from [Pixabay](https://pixabay.com/)*|
 
 Bunun yanında, alınan önlemin kripto dünyasının ruhuna aykırı olduğunu gösterebilmek amacıyla, pek çok ünlü kişinin hesabına Tornado Cash üzerinden 0.1 ETH [para atıldı](https://www.coindeskturkiye.com/politika/birisi-tornado-cashten-eth-gondererek-unluleri-trolluyor-1446) (Buna ingilizcede 'dusting' yani 'tozlama' adı veriliyor). Öyle ya, Tornado Cash bir yazılım. Parayı havuza gönderen birileri var ve bu birileri Tornado Cash'e 'parayı şu hesaba gönder' dediklerinde hesap sahibinin alabileceği bir önlem yok. Dolayısıyla Coinbase'in sahibi Brian Armstrong'dan ünlü sunucu Jimmy Fallon'a kadar pek çok ünlünün hesabı şu anda 'lekelenmiş' durumda. 
 
@@ -54,3 +64,14 @@ DeFi dünyasında yukarıda bahsettiğim ikiye ayrılma konusunda topluluğun b�
 
 ### Sonuç 
 Tornado Cash olayı, merkezi otoritelerin haklı gerekçelerle olsa bile kripto dünyasına attıkları talihsiz bir adım oldu. Görünen o ki, bu alanda yeni olan herkesin yaşadığı öğrenme eğrisini onlar da yaşayacaklar. Kripto dünyası içinde ise şu an alınan bu önlemin genelleştirilerek korku senaryoları çizildiğini görüyoruz. Umarım gerçek, bu olayın aslında kriptoya karşı alınan hasmane bir tavırdan öte, otoritenin kendine düşman olarak gördüğü Kuzey Kore'ye yönelik aldığı bir aksiyon olduğudur. Eğer böyle ise ileride oluşturulacak kamuoyu ve DeFi ürünlerinin daha iyi tanınmasıyla birlikte kısıtlamaların kapsamının daha da daraltılacağını görebiliriz. Aksi takdirde, otoriteler ile DeFi arasında yaşanacak gereksiz gerilimin DeFi'nin geniş kitlelere yayılmasının önündeki en büyük engel olacağını söylemek hiç de zor değil. 
+
+
+
+---
+
+*Not 1: Bu yazı ilk olarak 27 Ağustos 2022'de [Coindesk Türkiye](https://www.coindeskturkiye.com/))'de [yayınlandı]()*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
+
