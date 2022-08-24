@@ -35,7 +35,7 @@ Gelin bu üç soruya cevap arayalım şimdi de:
 ### Merkezi kurumlar sansür baskısı gelirse nasıl davranırlar? 
 Şu an Ethereum PoS sisteminde ETH yatırmış onaylayıcılarının yaklaşık olarak %66.1'i kurumlardan oluşuyor. Aşağıdaki tabloda bu kurumların dağılımı görebilirsiniz:
 
-| ![ETH_Stakers](/assets/Ethereum_stakers_800.png)|
+| ![ETH_Stakers](/assets/Ethereum_stakers_800_v2.png)|
 |:--:| 
 | *Ethereum PoS onaylayıcıları (22 Ağustos 2022 itibariyle).  Kaynak: [Rated Network](https://www.rated.network/ )*|
 
