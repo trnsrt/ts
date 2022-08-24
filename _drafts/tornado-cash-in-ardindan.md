@@ -1,3 +1,5 @@
+
+
 Tornado Cash olayını incelediğimiz ikinci yazıda, kripto dünyasının bu olaya verdiği tepkileri ve bu dünya oyuncularını gelecekte nelerin beklediğini irdelemeye çalışacağız. 
 
 Geçtiğimiz yazıda, önce Ethereum blokzinciri üzerindeki Tornado Cash isimli gizlilik uygulamasının ne olduğunu, neden otoritelerin tepkisini çektiğine bakmış, sonrasında kripto dünyasındaki merkezi oyuncuların bu yaptırım kararına nasıl uyduklarının örneklerini inceleyip, bu dünyanın temel oyuncularının görüşlerine değinmiştik. Şimdi ise önce kripto oyuncularının verdiği tepkileri sonrasında ise onları bundan sonra nasıl bir dünyanın beklediğine göz atalım. 
@@ -16,7 +18,9 @@ Bunlar kısa vadeli reaksiyoner alınan önlemler. OFAC'ın bu hareketlerinin uz
 
 Bu hareketin DeFi uygulamalarını (bir diğer deyişle protokollerini) ikiye bölmesi de kuvvetle muhtemel. Bir yanda, kanuni otoritelere uyumlu olmaya çalışan protokoller, bu tip yasaklamalara uyarak gerekli kısıtlamaları yapacaklar. Bu tip kısıtlamaların, otoritelerin desturu alındığı için protokollerin daha geniş bir kitleye hitap edebilmesine katkı sağlayabileceği söylenebilir. Ancak unutulmaması gereken, otoritelerin konuya vakıf olmadıkları için alınmasını istedikleri önlemler protokoller açısından uygulamada ciddi sıkıntı yaratma ihtimali. Yarın öbür gün istenen kısıtlamalar protokollerin ellerini ayaklarını bağlayabilir; bunun somut örneklerini klasik finansta her gün yaşıyoruz. Örneğin, klasik finans dünyasında 'paranın kaynağının nereden geldiği önemli bir konudur'. Bugün ETH üzerinden Tornado Cash kullananlar toplam hesapların %0.03'ü olmasına rağmen bu kullancıların iletişime geçtiği birinci derece hesaplar toplam ağın %2,36'sı, onların ilişkiye geçtiği ikinci derece hesaplar ise toplam [Ethereum ağının neredeyse yarısına denk geliyor](https://twitter.com/ElBarto_Crypto/status/1558428428763815942)! Bu durum, klasik finansa alternatif olarak gösterilen DeFi'nin aslında yavaş yavaş klasik finanslaşması anlamına gelir ki, uzun vadede bu tip yapıların böyle hibrit bir şekilde kullanıcılarına nasıl bir değer önerisi sunabilecekleri tartışma konusu olabilir. 
 
-[Four degrees of separation]
+|![TC ilişkili hesaplar](/assets/TC_iliskili-hesaplar_800.png)|
+|:--:| 
+| *Tornado Cash kullanan hesaplar ve o hesapların ilişkilde olduğu hesaplar. Kaynak: [Twitter @elbarto capital](https://twitter.com/ElBarto_Crypto/status/1558428428763815942)*|
 
 #### Merkeziyetsizleşme hızlanabilr mi?
 Diğer yandan, bu durum protokollerin gittikçe daha hızlı bir şekilde merkeziyetsizleşmesine de yol açabilir. Geliştirici ekipler herhangi bir kanuni sorumluluk altına girmemek için kendilerini dağıtarak, tüm gelişmeyi DAO'lar aracılığıyla topluluğa vermek isteyebilirler. Alternatif olarak, ekiplerin merkezlerini ABD'den daha teknoloji dostu ülkelere (örneğin son dönemde Birleşik Arap Emirlikleri bu anlamda ön plana çıkmaya başladı) taşımaları da söz konusu olabilir. Bu son konu, yani ABD'nin uygun bir kanuni altyapı sağlayamadığı için bu alandaki liderliğini kaybetmesi ihtimali, ülkedeki kanun koyucular için oldukça hassas bir nokta. İnovasyon yarışını kaybetme tehlikesi, OFAC benzeri ofislerin yapacağı müdaheleleri kısıtlamak için gerekli kanuni altyapının hazırlanması konusunda ciddi bir motivasyon kaynağı olabilir. 
