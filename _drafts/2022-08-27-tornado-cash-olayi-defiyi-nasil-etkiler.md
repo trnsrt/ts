@@ -69,7 +69,7 @@ Tornado Cash olayı, merkezi otoritelerin haklı gerekçelerle olsa bile kripto 
 
 ---
 
-*Not 1: Bu yazı ilk olarak 27 Ağustos 2022'de [Coindesk Türkiye](https://www.coindeskturkiye.com/))'de [yayınlandı]()*
+*Not 1: Bu yazı ilk olarak 27 Ağustos 2022'de [Coindesk Türkiye](https://www.coindeskturkiye.com/))'de [yayınlandı](https://www.coindeskturkiye.com/yazarlar/turan-sert/tornado-cash-olayi-defiyi-nasil-etkiler-1700)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
