@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ethereum sansüre nasıl yanıt verecek?"
-date:   2022-09-29 17:17:56 +0300
+date:   2022-09-31 17:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
 ---
