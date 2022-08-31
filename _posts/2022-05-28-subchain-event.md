@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Blockchain and Beyond Summit"
-date:   2022-05-15 23:42:15 +0300
+date:   2022-05-28 23:42:15 +0300
 categories: Genel
 tags: videos Etkinlikler
 ---
