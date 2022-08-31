@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Boğaziçi Blockchain Networking Day"
+title:  "Blockchain and Beyond Summit"
 date:   2022-05-15 23:42:15 +0300
 categories: Genel
 tags: videos Etkinlikler
