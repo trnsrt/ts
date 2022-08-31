@@ -66,7 +66,7 @@ Dolayısıyla, Ethereum topluluğunun ikiye bölünmesi düşük de olsa bir iht
 
 *Not 1: Burada özellikle madenciler konusunda yer alan ve işlemleri önerenler ile onaylayanların ayrılmasına yönelik halihazırda tartışılan [bir öneri](https://ethresear.ch/t/proposer-block-builder-separation-friendly-fee-market-designs/9725) de bulunmakta*
 
-*Not 2: Bu yazı ilk olarak 31 Ağustos 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı]()*
+*Not 2: Bu yazı ilk olarak 31 Ağustos 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/ethereum-sansure-nasil-yanit-verecek/)*
 
 *Not 3: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
