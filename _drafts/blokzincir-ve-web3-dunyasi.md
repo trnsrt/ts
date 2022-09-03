@@ -1,3 +1,5 @@
+# Blokzincir ve Web 3 dünyası
+
 ### Blokzincir nedir? 
 "Blokzincir nedir?". Buna hemen hemen herkesin ayrı bir cevabı var. Buna verilebilecek cevaplardan bir tanesi: "Dijital dünyada, ikili her tür ilişkide aracılık yapanların elinde toplanan gücü biz kullanıcılara geri vermeyi hedefleyen felsefenin yarattığı teknoloji" olabilir. 
 
