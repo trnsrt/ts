@@ -167,21 +167,21 @@ Henüz 13 yıl önce kurulan bu yeni teknoloji daha emekleme aşamasında, bu ne
 
 
 
-[^1]: Eric Hughes'un A Cypherpunk's Manifesto'su' (https://www.activism.net/cypherpunk/manifesto.html) (Türkçe çevirisi: http://blog.bluzz.net/bir-sifrepunkun-manifestosu/) Şifrepunk'ları anlamak için yardımcı olabilir. ↩
-[^2]: https://medium.com/causys/to-blockchain-or-not-to-blockchain-aed05bf08150 ↩
-[^3]: https://turansert.com/genel/2018/04/17/saglik-icin-blockchain.html ↩
-[^4]: https://turansert.com/genel/2018/07/06/seyahat-icin-blockchain.html ↩
-[^5]: https://turansert.com/genel/2018/08/17/tedarik-zinciri-icin-blockchain.html ↩
-[^6]: https://turansert.com/genel/2018/11/16/cevre-icin-blockhain.html ↩
-[^7]: https://compound.finance ↩
-[^8]: http://www.aave.com ↩
-[^9]: https://tether.to/ ↩
-[^10]: https://www.circle.com/en/usdc ↩
-[^11]: https://www.bilira.co/ ↩
-[^12]: https://uniswap.org/ ↩
-[^13]: https://www.curve.fi/ ↩
-[^14]: https://balancer.finance/ ↩
-[^15]: https://synthetix.io/ ↩
-[^16]: https://umaproject.org/ ↩
-[^17]: https://nexusmutual.io/ ↩
-[^18]: https://twitter.com/haydenzadams/status/1346575665940860929?lang=en ↩
+[^1]: Eric Hughes'un A Cypherpunk's Manifesto'su' (https://www.activism.net/cypherpunk/manifesto.html) (Türkçe çevirisi: http://blog.bluzz.net/bir-sifrepunkun-manifestosu/) Şifrepunk'ları anlamak için yardımcı olabilir.
+[^2]: https://medium.com/causys/to-blockchain-or-not-to-blockchain-aed05bf08150
+[^3]: https://turansert.com/genel/2018/04/17/saglik-icin-blockchain.html
+[^4]: https://turansert.com/genel/2018/07/06/seyahat-icin-blockchain.html 
+[^5]: https://turansert.com/genel/2018/08/17/tedarik-zinciri-icin-blockchain.html 
+[^6]: https://turansert.com/genel/2018/11/16/cevre-icin-blockhain.html 
+[^7]: https://compound.finance 
+[^8]: http://www.aave.com 
+[^9]: https://tether.to/ 
+[^10]: https://www.circle.com/en/usdc 
+[^11]: https://www.bilira.co/ 
+[^12]: https://uniswap.org/ 
+[^13]: https://www.curve.fi/ 
+[^14]: https://balancer.finance/ 
+[^15]: https://synthetix.io/ 
+[^16]: https://umaproject.org/ 
+[^17]: https://nexusmutual.io/ 
+[^18]: https://twitter.com/haydenzadams/status/1346575665940860929?lang=en
