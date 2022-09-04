@@ -4,7 +4,9 @@ Before we dive in, here is a brief context:
 
 [Devcon](https://devcon.org/), the main event for Ethereum developers and researchers is having its sixth gathering in Bogota this October. While attendees are putting their final touches on their itineraries for this exciting trip to Latin America, the organizers have already started thinking about the destination for the next event. [A recent survey](https://forum.devcon.org/c/devcon-7-location-suggestions/14) on the Devcon forum received seven suggestions so far. A couple of young Turks [proposed](https://forum.devcon.org/t/proposed-location-istanbul-turkiye/412/28) Istanbul as a candidate and received huge support: The comments and views for the proposal doubles the next candidate. 
 
-Why Istanbul? The answer to that question lies in the potential and perception of the Turkish community and crypto market. 
+## Why Istanbul? 
+
+The answer to that question lies in the potential and perception of the Turkish community and crypto market. 
 
 Crypto adoption in Turkey is not a secret - a recent [market research suggests](https://www.coindeskturkiye.com/sirketler/turkiye-kripto-piyasasinin-mercek-altina-alindigi-arastirmaya-gore-kripto-parayla-islem-yapanlarin-orani-yuzde-74-artti-1342) 8 million Turks are holding crypto assets. In that sense, Turkey is no different than any other emerging market: High inflation (80% YoY) and devaluation of local currency Turkish Lira (126% YoY against USD) are among key reasons why Turks are seeking for alternative investments. While foreign currencies and gold have historically been prominent tools to hedge against inflation, cryptocurrencies have emerged as popular alternative, which led IMF coined the term 'cryptoization' in their last October [Global Stability Report](https://blogs.imf.org/2021/10/01/crypto-boom-poses-new-challenges-to-financial-stability/).
 
