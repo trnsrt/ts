@@ -21,6 +21,3 @@ One more point to add: Let's not forget that the developer ecosystem here is not
 In short: A young population with strong potential but with limited access to global community. A handful of them get scholarship and attend global events (and win prizes). This creates a buzz in local environment. Local events raise the awareness among businesses and also help bringing in new talent.  On top of that, a recent fresh talent inflow from outside to an already vibrant local market. 
 
 Now, let's imagine: If sending couple of students to global events create such an outcome, what would be the effect of bringing all the developers from all around the globe to Istanbul? 
-
-
-Special thanks to Han Tuzun and Ulaş Erdoğan.
