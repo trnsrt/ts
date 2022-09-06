@@ -2,7 +2,7 @@
 
 Turan Sert [^1]
 
-## Öz
+### Öz
 Bu makalenin temel amacı, Web3 olarak adlandırılan merkeziyetsiz sistemlerin temelini oluşturan blokzincir teknolojisi konusunda okuru aydınlatmaktır. Sırasıyla blokzincir teknolojisinin geçmişini, felsefesini, teknik detaylarını, temel bileşenlerini, çeşitlerini ve kullanıcılara getirdiği faydaları özetlemeye çalışan makale, daha sonra kısaca bu teknolojinin hangi alanlarda uygulanabileceğini sorgulamış ve şu anda kadar kullanım alanının en yaygın olduğu finans sektöründeki uygulamaları incelemiştir. Makalenin son bölümünde ise özellikle finans alanında kullanıcıların yaşadığı risklere değinilmiştir. Son bölümde, blokzinciri temel alan merkeziyetsiz teknolojilerin henüz daha emekleme aşamasında olduğu, buna rağmen uzun vadede kullanıcıların önüne mevcut sistemlerin yanında farklı bir alternatif sunma potansiyeli taşıması nedeniyle ilgiye değer bulunduğu sonucuna yer verilmiştir. 
 
 **Anahtar kelimeler:** Blokzincir, Blockchain, Web3, merkeziyetsiz finance, DeFi 
@@ -10,7 +10,7 @@ Bu makalenin temel amacı, Web3 olarak adlandırılan merkeziyetsiz sistemlerin 
 **JEL Sınıflandırması:** 033, O32
 
 
-## The underlying technology used in decentralized systems (aka Web3): Blockchain
+### The underlying technology used in decentralized systems (aka Web3): Blockchain
 
 ### Abstract: 
 This article focuses on blockchain, the underlying technology used in decentralized systems (later popularized with the term Web3). The technology has been used for thirteen years (since the introduction of Bitcoin in 2009) and is still in experimental phase. Nevertheless, decentralized systems represent the potential to be a credible alternative to existing centralized offerings.
