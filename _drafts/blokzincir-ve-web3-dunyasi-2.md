@@ -1,4 +1,4 @@
-# Merkeziyetsiz sistemlerin (Web3) temelini oluşturan blokzincir teknolojisi 
+## Merkeziyetsiz sistemlerin (Web3) temelini oluşturan blokzincir teknolojisi 
 
 Turan Sert [^1]
 
@@ -10,7 +10,7 @@ Bu makalenin temel amacı, Web3 olarak adlandırılan merkeziyetsiz sistemlerin 
 **JEL Sınıflandırması:** 033, O32
 
 
-### The underlying technology used in decentralized systems (aka Web3): Blockchain
+## The underlying technology used in decentralized systems (aka Web3): Blockchain
 
 ### Abstract: 
 This article focuses on blockchain, the underlying technology used in decentralized systems (later popularized with the term Web3). The technology has been used for thirteen years (since the introduction of Bitcoin in 2009) and is still in experimental phase. Nevertheless, decentralized systems represent the potential to be a credible alternative to existing centralized offerings.
