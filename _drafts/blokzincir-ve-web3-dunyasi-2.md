@@ -1,4 +1,4 @@
-## Merkeziyetsiz sistemlerin (Web3) temelini oluşturan blokzincir teknolojisi 
+# Merkeziyetsiz sistemlerin (Web3) temelini oluşturan blokzincir teknolojisi 
 
 Turan Sert [^1]
 
@@ -10,9 +10,9 @@ Bu makalenin temel amacı, Web3 olarak adlandırılan merkeziyetsiz sistemlerin 
 **JEL Sınıflandırması:** 033, O32
 
 
-## The underlying technology used in decentralized systems (aka Web3): Blockchain
+# The underlying technology used in decentralized systems (aka Web3): Blockchain
 
-### Abstract: 
+#### Abstract: 
 This article focuses on blockchain, the underlying technology used in decentralized systems (later popularized with the term Web3). The technology has been used for thirteen years (since the introduction of Bitcoin in 2009) and is still in experimental phase. Nevertheless, decentralized systems represent the potential to be a credible alternative to existing centralized offerings.
 
 **Keywords:** Blockchain, Web3, decentralized systems, DeFi, decentralized finance
@@ -20,7 +20,7 @@ This article focuses on blockchain, the underlying technology used in decentrali
 **JEL Classification:** 033, O32
 
 
-*[^1]: Araştırmacı, 'Sorularla Blockchain' ve 'Sorularla DeFi - Merkeziyetsiz Finans' kitaplarının yazarı* ↩
+*[^1]: Araştırmacı, 'Sorularla Blockchain' ve 'Sorularla DeFi - Merkeziyetsiz Finans' kitaplarının yazarı* 
 
 ### 1. Blokzincir nedir? 
 "Blokzincir nedir?". Hemen hemen herkesin farklı bir yorumunun olacağı bu soruya verilebilecek en temel yanıtlardan biri "Dijital dünyada, ikili her tür ilişkide aracılık yapanların elinde toplanan gücü biz kullanıcılara geri vermeyi hedefleyen felsefenin yarattığı teknoloji" olabilir. 
@@ -191,21 +191,21 @@ Henüz 13 yıl önce kurulan bu yeni teknoloji daha emekleme aşamasında, bu ne
 
 
 
-[^2]: Eric Hughes'un A Cypherpunk's Manifesto'su' (https://www.activism.net/cypherpunk/manifesto.html) (Türkçe çevirisi: http://blog.bluzz.net/bir-sifrepunkun-manifestosu/) Şifrepunk'ları anlamak için yardımcı olabilir. ↩
-[^3]: https://medium.com/causys/to-blockchain-or-not-to-blockchain-aed05bf08150 ↩
-[^4]: https://turansert.com/genel/2018/04/17/saglik-icin-blockchain.html ↩
-[^5]: https://turansert.com/genel/2018/07/06/seyahat-icin-blockchain.html ↩
-[^6]: https://turansert.com/genel/2018/08/17/tedarik-zinciri-icin-blockchain.html ↩
-[^7]: https://turansert.com/genel/2018/11/16/cevre-icin-blockhain.html ↩
-[^8]: https://compound.finance ↩
-[^9]: http://www.aave.com ↩
-[^10]: https://tether.to/ ↩
-[^11]: https://www.circle.com/en/usdc ↩
-[^12]: https://www.bilira.co/ ↩
-[^13]: https://uniswap.org/ ↩
-[^14]: https://www.curve.fi/ ↩
-[^15]: https://balancer.finance/ ↩
-[^16]: https://synthetix.io/ ↩
-[^17]: https://umaproject.org/ ↩
-[^18]: https://nexusmutual.io/ ↩
-[^19]: https://twitter.com/haydenzadams/status/1346575665940860929?lang=en ↩
+[^2]: Eric Hughes'un A Cypherpunk's Manifesto'su' (https://www.activism.net/cypherpunk/manifesto.html) (Türkçe çevirisi: http://blog.bluzz.net/bir-sifrepunkun-manifestosu/) Şifrepunk'ları anlamak için yardımcı olabilir. 
+[^3]: https://medium.com/causys/to-blockchain-or-not-to-blockchain-aed05bf08150 
+[^4]: https://turansert.com/genel/2018/04/17/saglik-icin-blockchain.html 
+[^5]: https://turansert.com/genel/2018/07/06/seyahat-icin-blockchain.html 
+[^6]: https://turansert.com/genel/2018/08/17/tedarik-zinciri-icin-blockchain.html 
+[^7]: https://turansert.com/genel/2018/11/16/cevre-icin-blockhain.html 
+[^8]: https://compound.finance 
+[^9]: http://www.aave.com 
+[^10]: https://tether.to/ 
+[^11]: https://www.circle.com/en/usdc 
+[^12]: https://www.bilira.co/ 
+[^13]: https://uniswap.org/ 
+[^14]: https://www.curve.fi/ 
+[^15]: https://balancer.finance/ 
+[^16]: https://synthetix.io/ 
+[^17]: https://umaproject.org/ 
+[^18]: https://nexusmutual.io/ 
+[^19]: https://twitter.com/haydenzadams/status/1346575665940860929?lang=en 
