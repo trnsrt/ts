@@ -64,10 +64,8 @@ Yine de unutmamak lazım ki, Ethereum topluluğu artık bu bireylerin çok ötes
 Dolayısıyla, Ethereum topluluğunun ikiye bölünmesi düşük de olsa bir ihtimal. Önümüzdeki yazımızda bu durumun geliştiriciler ve kullanıcılar açısından ne ifade edeceğine bakacağız. 
 
 
-*Not 1: Burada özellikle madenciler konusunda yer alan ve işlemleri önerenler ile onaylayanların ayrılmasına yönelik halihazırda tartışılan [bir öneri](https://ethresear.ch/t/proposer-block-builder-separation-friendly-fee-market-designs/9725) de bulunmakta*
+*Not 1: Bu yazı ilk olarak 31 Ağustos 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/ethereum-sansure-nasil-yanit-verecek/)*
 
-*Not 2: Bu yazı ilk olarak 31 Ağustos 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/ethereum-sansure-nasil-yanit-verecek/)*
-
-*Not 3: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
 *Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
