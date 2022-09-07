@@ -1,3 +1,24 @@
+---
+layout: post
+title:  "Olası bir Ethereum çatallaması kullanıcılara ne ifade eder?"
+date:   2022-09-07 17:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
+Bu yazımızda, Ethereum'un olası çatallanmasının uygulamalar ve kullanıcılar açısından ne gibi etkileri olabileceğine bakacağız.  
+
+Geçtiğimiz haftaki yazıda, Tornado Cash sonrasında Ethereum'un protokol seviyesinde çatallanmasından bahsetmiştik. Hemen bir ayrıntıya dikkat çekelim: Bahsettiğimiz konu, Ethereum'un önümüzdeki günlerde hisse-kanıtı sistemine (ingilizcesi PoS - Proof of Stake) geçmesi sonrası, bu durumdan hoşnut olmayan iş-kanıtı (ingilizcesi PoW - Proof of Work) yanlısı ve başını madencilerin çektiği bir grubun çıkarmayı planladığı ETHPoW çatallaması değil. Şahsen, ETHPoW çatallamasının 'olmayacak duaya amin' demenin ötesinde bir etki yaratamayacağı için üzerinde durulmaya değer olduğunu düşünmüyorum. 
+
+### Kısa bir hatırlatma: 
+
+Geçmiş yazıyı çok kısa hatırlatmak gerekirse: Amerika Birleşik Devletlerinde kara para önleme kurumlarından OFAC'ın Tornado Cash uygulamasını ve onunla ilişkilendirilen adresleri yasaklaması sonrası pek çok merkezi kurum (USDC, Aave, dYdX gibi) bu adreslere erişimi kesmişler idi. 
+
+Web sitesi üzerinden erişimi kesmek aslına bakarsanız uygulamaları kullanmayı etkilemiyor. Zira, az bir teknik bilen herhangi biri akıllı kontrata Ethereum zinciri seviyesinde ulaşarak uygulamaları kullanmaya devam edebilir. Asıl sorun, Ethereum'a zincir seviyesinde ulaşımın engellenmesi ihtimali. 
+
+Bu ihtimal, Ethereum'un hisse-kanıtı sistemine (muhtemelen 15 Eylül'de) geçmesi sonrası daha kuvvetlenebilir. Zira, Ethereum üzerinde rehin edilen ETH'lerin hatırı sayılır bir kısmı merkezi kurumlar üzerinden kilitlenmiş. Yarın öbür gün OFAC bu kurumlara "şu adreslerden gelen işlemleri blokzincire dahil etmeyin" diye bir 'ricada' bulunursa ne olacak? 
+
+### İkiye bölünme ihtimali
 
 İşte bu nedenle kamuoyunun ikiye bölünmesi ihtimal dahilinde. Bu yazıda bunun teknik anlamda nasıl yapılacağına değil gerçekleşmesi halinde uygulamalar ve kullanıcılar açısından getireceği komplikasyonlara değineceğiz. Bir ayrılma olması durumunda bu, ağırlığa sahip grubun kalması diğer grubun ise bir çatallanma ile ayrı bir zincire geçmesi şeklinde olacak.
 
@@ -5,7 +26,9 @@ Böyle bir durumda özellikle sansüre karşı olan ekibin, karşı grubun rehin
 
 ### Ayrılma, uygulamalar ve kullanıcılar açısından neler getirebilir?
 
-Buradaki belirsiz nokta topluluğun diğer önemli paydaşı olan geliştiricilerin alacağı pozisyon. Zira bir çatallanma olursa her iki platformda ayrı birer uygulama olacak. Yazılımcılar kaynak ve eforlarını hangi zincire harcayacaklar? İlk gelen tepkiler yazılımcıların sansürsüz tarafı seçecekleri yönünde olsa da, geliştiricilerden kimlikleri belli olanlar regülasyonlara karşı çıkan zincirde yer alıp kariyerlerini ve hayatlarını riske edecekler mi? Bir diğer öngörü ise piyasaya pek çok ‘yeni ve anonim’ geliştiricinin gelmesini beklemek olacak. 
+Buradaki belirsiz olan nokta, topluluğun diğer önemli paydaşı olan geliştiricilerin alacağı pozisyon. Zira bir çatallanma olursa her tür akıllı kontrat yani uygulama her iki platformun içinde de olacak. 
+
+Böyle bir durumda yazılımcılar kaynak ve eforlarını hangi zincire harcayacaklar? İlk gelen tepkiler yazılımcıların sansürsüz tarafı seçecekleri yönünde olsa da, geliştiricilerden kimlikleri belli olanlar regülasyonlara karşı çıkan zincirde yer alıp kariyerlerini ve hayatlarını riske edecekler mi? Bir diğer öngörü ise piyasaya pek çok ‘yeni ve anonim’ geliştiricinin gelmesini beklemek olacak. 
 
 İkinci belirleyici nokta ise stabil para çıkaran kurumlar tarafında yaşanacak. Merkeziyetsiz dünyadaki stabil paraların [yaklaşık %90'ı](https://www.theblock.co/data/decentralized-finance/stablecoins) merkezi stabil paralar olan USDT, USDC ve BUSD üzerinde. Stabil para üreticileri her iki platformu da destekleyemez, zira ellerinde sadece bir paraya yetecek karşılık var. Bu kurumların merkezi olması nedeniyle sansürü kabul eden topluluğa yakın olma ihtimali daha yüksek. Ya da bir şekilde kullanıcılara iki taraftan birini seçmelerini sağlayacak bir çözüm yolu önerecekler. 
 
@@ -28,3 +51,11 @@ Dolayısıyla şahsi görüşüm, sosyal konsensus sayesinde ikiye ayrılmaya gi
 
 ### Sonuç 
 OFAC tarafından getirilen yasaklamalar Ethereum dünyasında büyük tartışmalar başlattı. Böyle tartışmaların şimdiden yapılması önemli, zira kafayı devekuşu gibi kuma gömmenin bir faydası yok (küresel iklim konusunda olduğu gibi). Soruna çare bulunana kadar zorlu bir yoldan geçilmesi bu sırada ETH’nin değerinde ciddi dalgalanmalar olması muhtemel. Yine de bir çözüm bulunduktan sonra Ethereum ve kripto dünyasının bu olaydan çok daha güçlenerek çıkacağını görmemiz çok olası. İzleyip göreceğiz. 
+
+*Not 1: Burada özellikle madenciler konusunda yer alan ve işlemleri önerenler ile onaylayanların ayrılmasına yönelik halihazırda tartışılan [bir öneri](https://ethresear.ch/t/proposer-block-builder-separation-friendly-fee-market-designs/9725) de bulunmakta*
+
+*Not 2: Bu yazı ilk olarak 31 Ağustos 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/ethereum-sansure-nasil-yanit-verecek/)*
+
+*Not 3: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
