@@ -22,6 +22,10 @@ Bu ihtimal, Ethereum'un hisse-kanıtı sistemine (muhtemelen 15 Eylül'de) geçm
 
 İşte bu nedenle kamuoyunun ikiye bölünmesi ihtimal dahilinde. Bu yazıda bunun teknik anlamda nasıl yapılacağına değil gerçekleşmesi halinde uygulamalar ve kullanıcılar açısından getireceği komplikasyonlara değineceğiz. Bir ayrılma olması durumunda bu, ağırlığa sahip grubun kalması diğer grubun ise bir çatallanma ile ayrı bir zincire geçmesi şeklinde olacak.
 
+| ![fork](/assets/threshold-6036413_800.jpg)|
+|:--:| 
+| *Image by [Paul Henri Degrande](https://pixabay.com/users/paul_henri-6735189/) from [Pixabay](https://pixabay.com/)*|
+
 Böyle bir durumda özellikle sansüre karşı olan ekibin, karşı grubun rehin verdiği varlıkları dondurmaktan (oy vermesine engel olmak), bu varlıkların bir kısmını ya da tamamını yakmaya yani bir başka deyişle nükleer silah kullanmaya kadar verebileceği farklı tepkiler olabilir. (Bu son görüşü savunanlar, ABD’nin II. Dünya Savaşı’nda Japonya’ya atom bombası atmasından sonra bir daha 80 yıl boyunca nükleer silah kullanılmamasının, bu yöntemin ne kadar etkili olduğunu gösterdiğini belirtiyorlar.)
 
 ### Ayrılma, uygulamalar ve kullanıcılar açısından neler getirebilir?
