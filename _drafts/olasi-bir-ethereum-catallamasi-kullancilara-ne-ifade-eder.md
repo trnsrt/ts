@@ -8,11 +8,11 @@ tags: Yazılar, DeFi
 
 Bu yazımızda, Ethereum'un olası çatallanmasının uygulamalar ve kullanıcılar açısından ne gibi etkileri olabileceğine bakacağız.  
 
-Geçtiğimiz haftaki yazıda, Tornado Cash sonrasında Ethereum'un protokol seviyesinde çatallanmasından bahsetmiştik. Hemen bir ayrıntıya dikkat çekelim: Bahsettiğimiz konu, Ethereum'un önümüzdeki günlerde hisse-kanıtı sistemine (ingilizcesi PoS - Proof of Stake) geçmesi sonrası, bu durumdan hoşnut olmayan iş-kanıtı (ingilizcesi PoW - Proof of Work) yanlısı ve başını madencilerin çektiği bir grubun çıkarmayı planladığı ETHPoW çatallaması değil. Şahsen, ETHPoW çatallamasının 'olmayacak duaya amin' demenin ötesinde bir etki yaratamayacağı için üzerinde durulmaya değer olduğunu düşünmüyorum. 
+Geçtiğimiz haftaki yazıda, Tornado Cash sonrasında Ethereum'un protokol seviyesinde çatallanmasından bahsetmiştik. Hemen bir ayrıntıya dikkat çekelim: Bahsettiğimiz konu, Ethereum'un önümüzdeki günlerde hisse-kanıtı sistemine (ingilizcesi PoS - Proof of Stake) geçmesi sonrası, bu durumdan hoşnut olmayan iş-kanıtı (ingilizcesi PoW - Proof of Work) yanlısı ve başını madencilerin çektiği bir grubun çıkarmayı planladığı ETHPoW çatallanması değil. Şahsen, ETHPoW çatallamasının 'olmayacak duaya amin' demenin ötesinde bir etki yaratamayacağı için üzerinde durulmaya değer olduğunu düşünmüyorum. 
 
 ### Kısa bir hatırlatma: 
 
-Geçmiş yazıyı çok kısa hatırlatmak gerekirse: Amerika Birleşik Devletlerinde kara para önleme kurumlarından OFAC'ın Tornado Cash uygulamasını ve onunla ilişkilendirilen adresleri yasaklaması sonrası pek çok merkezi kurum (USDC, Aave, dYdX gibi) bu adreslere erişimi kesmişler idi. 
+Geçmiş yazıyı çok kısa hatırlatmak gerekirse: Amerika Birleşik Devletleri'nde kara para önleme kurumlarından OFAC'ın Tornado Cash uygulamasını ve onunla ilişkilendirilen adresleri yasaklaması sonrası pek çok merkezi kurum (USDC, Aave, dYdX gibi) bu adreslere erişimi kesmişler idi. 
 
 Web sitesi üzerinden erişimi kesmek aslına bakarsanız uygulamaları kullanmayı etkilemiyor. Zira, az bir teknik bilen herhangi biri akıllı kontrata Ethereum zinciri seviyesinde ulaşarak uygulamaları kullanmaya devam edebilir. Asıl sorun, Ethereum'a zincir seviyesinde ulaşımın engellenmesi ihtimali. 
 
