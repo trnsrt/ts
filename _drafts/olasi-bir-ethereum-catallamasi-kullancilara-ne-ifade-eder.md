@@ -26,7 +26,7 @@ Bu ihtimal, Ethereum'un hisse-kanıtı sistemine (muhtemelen 15 Eylül'de) geçm
 |:--:| 
 | *Image by [Paul Henri Degrande](https://pixabay.com/users/paul_henri-6735189/) from [Pixabay](https://pixabay.com/)*|
 
-Böyle bir durumda özellikle sansüre karşı olan ekibin, karşı grubun rehin verdiği varlıkları dondurmaktan (oy vermesine engel olmak), bu varlıkların bir kısmını ya da tamamını yakmaya yani bir başka deyişle nükleer silah kullanmaya kadar verebileceği farklı tepkiler olabilir. (Bu son görüşü savunanlar, ABD’nin II. Dünya Savaşı’nda Japonya’ya atom bombası atmasından sonra bir daha 80 yıl boyunca nükleer silah kullanılmamasının, bu yöntemin ne kadar etkili olduğunu gösterdiğini belirtiyorlar.)
+Böyle bir durumda özellikle sansüre karşı olan ekibin, karşı grubun rehin verdiği varlıkları dondurmaktan, bu varlıkların bir kısmını ya da tamamını yakmaya yani bir başka deyişle nükleer silah kullanmaya kadar verebileceği farklı tepkiler olabilir. (Bu son görüşü savunanlar, ABD’nin II. Dünya Savaşı’nda Japonya’ya atom bombası atmasından sonra bir daha 80 yıl boyunca nükleer silah kullanılmamasının, bu yöntemin ne kadar etkili olduğunu gösterdiğini belirtiyorlar.)
 
 ### Ayrılma, uygulamalar ve kullanıcılar açısından neler getirebilir?
 
