@@ -8,18 +8,18 @@ tags: Yazılar, Articles, NFT
 
 We continue on exploring how NFTs add value to any object. 
 
-In our [previous post](/genel/2022/08/19/what-are-the-benefits-of-NFTs.html), we looked at the concept of value and what constitutes 'value' in a typical art object. In this post we will look at how NFT would add value to such an object. 
+In our [previous post](/genel/2022/08/19/what-are-the-benefits-of-NFTs.html), we looked at the concept of value and what constitutes 'value' in a typical art object. In this post, we will look at how NFT would add value to such an object. 
 
 ### First, what is an NFT?
-Let's first refresh our memory and briefly talk about what an NFT is? NFT (non-fungible-token) is a small piece of code  that refers to a specific location. It represents the ownership of what it refers to; in other words, the creator would store an object in a place and transfers the ownership to that NFT. The object can be stored anywhere but it is usually resides in one of those file storage solutions (usually IPFS) such as Filecoin. That object can be anything, a high resolution picture, or an audio file, anything digital would work. 
+Let's first refresh our memory and briefly talk about what an NFT is. NFT (non-fungible token) is a small piece of code that refers to a specific location. It represents the ownership of what it refers to; in other words, the creator would store an object in a place and transfers the ownership to that NFT. The object can be stored anywhere but it usually resides in one of those file storage solutions (usually IPFS) such as Filecoin. That object can be anything, a high-resolution picture, or an audio file, anything digital would work.
 
-| ![snow](/assets/nft-7072864_800.jpg)|
+| ![nft](/assets/nft-7072864_800.jpg)|
 |:--:| 
 | *Image by [Bemrahkarakas](https://pixabay.com/users/emrahkarakas-19331833/)) from [Pixabay](https://pixabay.com/)*|
 
 The NFT itself is written on blockchain therefore cannot be changed later on. When it is transferred that change in ownership is also written on blockchain and becomes permanent. 
 
-The reason for such a design is, due to the limited capacity of blockchains, it is not feasible to put megabytes of files on blockchain. Instead, that small piece of code would suffice to prove the ownership of that megabytes of data. 
+The reason for such a design is the limited capacity of blockchains; it is not feasible to put megabytes of files on blockchain. Instead, that small piece of code would suffice to prove the ownership of that megabytes of data. 
 
 ### How would an NFT add value?
 There are several ways an NFT would add value to an object. Let's have a look at them one by one. 
