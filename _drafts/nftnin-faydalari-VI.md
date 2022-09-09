@@ -18,7 +18,7 @@ Bu bölümümüzde ise resim benzeri sanat eserleri dışında diğer alanlarda 
 
 NFT'lerin sadece resim, fotoğraf benzeri ilk akla gelen sanat eserleri dışında, sanatın başka alanlarında örneğin müzik alanında da çok ilginç kullanım alanları mevcut. Gelin geçmişten ve gelecekten bir karşılaştırma ile ne demek istediğimizi açalım: 
 
-|![notes](/assets/music-5110528_800.jpg.jpg)|
+|![notes](/assets/music-5110528_800.jpg)|
 |:--:| 
 | *Image by [Tomislav Jakupec](https://pixabay.com/users/tommyvideo-3092371/) from [Pixabay](https://pixabay.com/)*|
 
