@@ -25,11 +25,11 @@ The reason for such a design is the limited capacity of blockchains; it is not f
 There are several ways an NFT would add value to an object. Let's have a look at them one by one. 
 
 #### Authenticity 
-Art world has been fighting with forgery for over centuries. Museums and collections have been spending millions of dollars, hiring experts to ensure that the pieces they bough were original pieces. This is a huge business!
+Art world has been fighting with forgery for over centuries. Museums and collections have been spending millions of dollars, hiring experts to ensure that the pieces they bought were original. This is a huge business!
 
-With blockchain technologies, this becomes a non-issue. It takes literally seconds to ensure that any object is created and put in blockchain by the owner. All you need is the address of the creator. After that you can check the NFT on any website. 
+With blockchain technologies, this becomes a non-issue. It takes literally seconds to ensure that any object is created and put in blockchain by the owner. All you need is the address of the creator. After that, you can check the NFT on any website.
 
-This ease of authenticity would bring down the costs as well as eliminate time that is required for such a task. As a result, it would help ease the transaction process significantly, resulting in higher activity and potentially higher value for the seller. 
+This ease of authenticity would bring down the costs as well as eliminate the time that is required for such a task. As a result, it would help ease the transaction process significantly, resulting in higher activity and potentially higher value for the seller.
 
 ### To be continued... 
 We will continue to explore the benefits of NFT in our future posts... 
