@@ -8,7 +8,7 @@ tags: Yazılar, Articles, NFT
 
 We continue on exploring how NFTs add value to any object. 
 
-In our previous post, we looked at the concept of value and what constitutes 'value' in a typical art object. In this post we will look at how NFT would add value to such an object. 
+In our [previous post](/genel/2022/08/19/what-are-the-benefits-of-NFTs.html), we looked at the concept of value and what constitutes 'value' in a typical art object. In this post we will look at how NFT would add value to such an object. 
 
 ### First, what is an NFT?
 Let's first refresh our memory and briefly talk about what an NFT is? NFT (non-fungible-token) is a small piece of code  that refers to a specific location. It represents the ownership of what it refers to; in other words, the creator would store an object in a place and transfers the ownership to that NFT. The object can be stored anywhere but it is usually resides in one of those file storage solutions (usually IPFS) such as Filecoin. That object can be anything, a high resolution picture, or an audio file, anything digital would work. 
