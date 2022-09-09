@@ -15,6 +15,11 @@ We will start with establishing the foundation. What is value and how do we dete
 ### How do you determine the value of a piece of art?
 There is no clear, globally accepted method to value any object. Valuation is an 'art' itself rather than a science. Even 'boring' subjects like the 'value' of a company or a business is cannot be agreed upon. Are you going to use, Discounted Cash Flows (if yes, which cash flows? Free cash flows, EBITDA, net profit or dividends distributed), or look at the valuation of comparable companies or just liquidation value? 
 
+
+| ![snow](/assets/path-1468938_800.jpg)|
+|:--:| 
+| *Image by [Bernd ]([https://pixabay.com/users/https://pixabay.com/users/momentmal-5324081/)) from [Pixabay](https://pixabay.com/)*|
+
 It gets more difficult when it comes to art. In order to avoid any misconceptions (or just out of ignorance) let's just assume a normal art has two major components. 
 
 First is the intrinsic value (again very subjective concept), that is the value of any cost/effort used to create the piece. An example, for a painting, that would be the cost of paints, canvas etc plus the time spent by the artist on the piece. 
