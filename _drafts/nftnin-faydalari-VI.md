@@ -30,6 +30,9 @@ NFT'ler ile bu alanda yeni ekonomik modeller geliştirmek mümkün. Burada yine 
 
 Daha ileri seviye hayran grupları için NFT'ler aracılığıyla sunduğunuz 'tecrübeler' değişebilir. Ultra hayran kitlesine yönelik sadece onların girebildiği özel konserler gibi. Bu konserlere girebilmek için, örneğin üç konsere gitmiş ve ilgili NFT'leri toplamış olmak bir şart olabilir mesela. Böylece, hayran kitleleri kendilerini özel hissedebilirler. Ya da belli NFT'lere sahip olanlara yönelik özel promosyonlar, albümleri daha önce dinleme hakkı gibi onlarca farklı ayrıcalık sağlanabilir. Açıkcası bu alan daha çok sanatçının ve prodüksiyon ekibinin hayal gücüne kalmış. Yapılacak her tür farklı hizmetin ise ekonomik olarak farklı bir karşılığı olabilir ve sanatçı bu sayede yaptığı faaliyetlerden kendisi için en optimum kazancı sağlayabilir. 
 
+### Sonuç
+Evet, dört bölümlük mini dizimizde NFT'nin herhangi bir esere nasıl değer katabileceğini örnekler ile sıralamaya çalıştık. Şu an önümüze çıkan örnekler henüz buzdağının görünen kısmı. Önümüzdeki dönemlerde pek çok farklı ekonomik modelin NFT'ler aracılığıyla hayatımıza girdiğini göreceğiz. Hep söylediğimiz gibi, gelecek heyecanlı, yaşayarak öğreneceğiz. 
+
 ---
 
 *Not 1: Bu yazı ilk olarak 10 Eylül 2022'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı]()*
