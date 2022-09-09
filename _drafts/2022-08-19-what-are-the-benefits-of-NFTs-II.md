@@ -13,6 +13,10 @@ In our previous post, we looked at the concept of value and what constitutes 'va
 ### First, what is an NFT?
 Let's first refresh our memory and briefly talk about what an NFT is? NFT (non-fungible-token) is a small piece of code  that refers to a specific location. It represents the ownership of what it refers to; in other words, the creator would store an object in a place and transfers the ownership to that NFT. The object can be stored anywhere but it is usually resides in one of those file storage solutions (usually IPFS) such as Filecoin. That object can be anything, a high resolution picture, or an audio file, anything digital would work. 
 
+| ![snow](/assets/nft-7072864_800.jpg)|
+|:--:| 
+| *Image by [Bemrahkarakas](https://pixabay.com/users/emrahkarakas-19331833/)) from [Pixabay](https://pixabay.com/)*|
+
 The NFT itself is written on blockchain therefore cannot be changed later on. When it is transferred that change in ownership is also written on blockchain and becomes permanent. 
 
 The reason for such a design is, due to the limited capacity of blockchains, it is not feasible to put megabytes of files on blockchain. Instead, that small piece of code would suffice to prove the ownership of that megabytes of data. 
