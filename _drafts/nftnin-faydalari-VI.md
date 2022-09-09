@@ -10,15 +10,17 @@ NFT'nin bir sanat eserine katabileceği faydalara değinen dizimizin son bölüm
 
 Yazı dizimizin [ilk bölümünde](/genel/2022/08/10/nftnin-faydalari-III.html), bir sanat eserinin değerinin nasıl oluştuğuna ve orjinalliğinin NFT'ler ile nasıl teyit edilebileceğine bakmıştık. [İkinci bölümde]() ise eserin üretici sanatçıdan sonra ait olduğu koleksiyonların ona kattığı değere ve NFT'nin bu takibi nasıl kolaylaştırabileceğine değinmiştik. 
 
-Geçtiğimiz [üçüncü bölümde]() ise NFT'nin programlanabilme özelliği sayesinde, sanatçıların eserin sonraki satışlarından da pay alabilmeleri, ya da eseri satın alanların sahip oldukları NFT belgesini küçük parçalara ayırarak daha geniş bir kitlenin eserin sahibi olmasına olanak vermesinin nasıl olabileceğine göz gezdirmiştik. 👇
-
-[]
+Geçtiğimiz [üçüncü bölümde]() ise NFT'nin programlanabilme özelliği sayesinde, sanatçıların eserin sonraki satışlarından da pay alabilmeleri, ya da eseri satın alanların sahip oldukları NFT belgesini küçük parçalara ayırarak daha geniş bir kitlenin eserin sahibi olmasına olanak vermesinin nasıl olabileceğine göz gezdirmiştik.
 
 Bu bölümümüzde ise resim benzeri sanat eserleri dışında diğer alanlarda NFT'lerin yaratabileceği yeni potansiyellere değineceğiz. 
 
 ### NFT ile açılan yeni kapılar
 
 NFT'lerin sadece resim, fotoğraf benzeri ilk akla gelen sanat eserleri dışında, sanatın başka alanlarında örneğin müzik alanında da çok ilginç kullanım alanları mevcut. Gelin geçmişten ve gelecekten bir karşılaştırma ile ne demek istediğimizi açalım: 
+
+|![notes](/assets/music-5110528_800.jpg.jpg)|
+|:--:| 
+| *Image by [Tomislav Jakupec](https://pixabay.com/users/tommyvideo-3092371/) from [Pixabay](https://pixabay.com/)*|
 
 Müzik gruplarının temel olarak iki gelir kaynağı bulunmakta. Bunlar, plak (kaset) satışları ve konserler. Plak ve kaset satışları genelde sanatçının tanınmasına ve ününü devam ettirmesini sağlayan, üretim ve dağıtım masrafları nedeniyle aslında üreticiye çok bir maddi kazanç sağlamayan eylemler. Özel basım (limited edition), en iyiler (best of), özel basım LP'ler gibi farklı varyasyonlar ile topluluğun özel hayran kitlesi için nadide eserler üretimine genişletilmeye çalışılan bir alan. 
 
