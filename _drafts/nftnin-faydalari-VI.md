@@ -18,7 +18,7 @@ Bu bölümümüzde ise resim benzeri sanat eserleri dışında diğer alanlarda 
 
 ### NFT ile açılan yeni kapılar
 
-NFT'lerin sadece resim, fotoğraf benzeri ilk akla gelen sanat eserleri dışında, sanatın başka alanlarında örneğin müzik alanında da çok ilginç kullanım alanları mevcut. Gelin geçmişten ve gelecekten bir karşılaştırma ile ne demek istediğimi açalım: 
+NFT'lerin sadece resim, fotoğraf benzeri ilk akla gelen sanat eserleri dışında, sanatın başka alanlarında örneğin müzik alanında da çok ilginç kullanım alanları mevcut. Gelin geçmişten ve gelecekten bir karşılaştırma ile ne demek istediğimizi açalım: 
 
 Müzik gruplarının temel olarak iki gelir kaynağı bulunmakta. Bunlar, plak (kaset) satışları ve konserler. Plak ve kaset satışları genelde sanatçının tanınmasına ve ününü devam ettirmesini sağlayan, üretim ve dağıtım masrafları nedeniyle aslında üreticiye çok bir maddi kazanç sağlamayan eylemler. Özel basım (limited edition), en iyiler (best of), özel basım LP'ler gibi farklı varyasyonlar ile topluluğun özel hayran kitlesi için nadide eserler üretimine genişletilmeye çalışılan bir alan. 
 
