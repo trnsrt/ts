@@ -1,10 +1,9 @@
-Merge sonrası Ethereum'da neler olacak?
 Bu yazımızda Ethereum dünyasında bu hafta yaşanan merge olayına ve sırada nelerin olduğunu bakacağız. 
 
 Ethereum dünyası, 15 Eylül'de çıkacak olan yeni versiyonu sonrasında geliştirmelere devam ediyor. Bundan sonrasında sırada neler var, gelin birlikte bakalım. Ama öncelikle duymamış birkaç kişi için 'merge' denilen bu hafta yaşanan olayı hatırlayalım. 
 
-### Neydi 'Merge'?
-"Kripto dünyasında yer gök 'merge' ile inliyor - iyi güzel de nedir bu 'merge'?". Efendim, 'merge' yani Türkçesi ile 'birleşme' uzun zamandır planlanan büyük bir değişim. 
+### Neydi 'The Merge'?
+"Kripto dünyasında yer gök 'merge' ile inliyor - iyi güzel de nedir bu 'The Merge'?". Efendim, 'merge' yani Türkçesi ile 'birleşme' uzun zamandır planlanan büyük bir değişim. 
 
 Değişimin temel nedeni, Ethereum topluluğunun Bitcoin ile birlikte ortaya çıkan, ağın korunması ve işler halde devam etmesi için kullanılan iş-kanıtı (ingilizcesi Proof-of-Work kısaca PoW) sistemini bırakıp daha yeni bir teknoloji olan hisse-kanıtı (ingilizcesi Proof-of-Stake kısaca PoS) sistemine geçmesi. 
 
@@ -116,7 +115,7 @@ Ethereum, geçen hafta yaşadığımız merge sonrası geçmişte yaşadığı d
 
 Bütün bu işlemlerin özünde, Ethereum'u ileride sansüre karşı koruyacak olan merkeziyetsizlik prensibinden vazgeçmeden, yüksek hacimli işlem sayılarını başarıyla işlemek var. Plan karmaşık görünse de aslında Ethereum geliştiricilerinin kafasında oldukça net. Gerçekleşmesi ise uzunca bir süre alacak. Önümüzdeki dönemde aşama aşama hayata geçmeye başladığını hep birlikte göreceğimizi umuyoruz. 
 
-—--
+---
 
 *Kaynaklar:*
 
