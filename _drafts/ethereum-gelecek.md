@@ -119,9 +119,10 @@ Bütün bu işlemlerin özünde, Ethereum'u ileride sansüre karşı koruyacak o
 —-
 
 *Kaynaklar:*
-*[The End Game](https://vitalik.ca/general/2021/12/06/endgame.html) - Vitalik Buterin*
-*[The Hitchhiker's Guide to Ethereum](https://members.delphidigital.io/reports/the-hitchhikers-guide-to-ethereum/) - Delphi Digital*
-*[The Complete Guide to Rollups](https://members.delphidigital.io/reports/the-complete-guide-to-rollups) - Delphi Digital*
+
+- *[The End Game](https://vitalik.ca/general/2021/12/06/endgame.html) - Vitalik Buterin*
+- *[The Hitchhiker's Guide to Ethereum](https://members.delphidigital.io/reports/the-hitchhikers-guide-to-ethereum/) - Delphi Digital*
+- *[The Complete Guide to Rollups](https://members.delphidigital.io/reports/the-complete-guide-to-rollups) - Delphi Digital*
 
 
 [^1]: "Nedir bu yük?" diye soracak olursanız; tam donanımlı düğümlerin yaptığı iki temel iş var. Birincisi, blok içindeki her bir işlemin doğru olup olmadığını anlamak. Bunun için blok öncesi durumu alıyorlar (Ayşe'nin 10 ETH'si, Ali'nin 5 ETH'si var), istenen işlemi yapıyorlar (Ayşe, Ali'ye 1 ETH gönderdi), blok sonundaki durumu kontrol ediyorlar (Ayşe'nin 9 ETH'si, Ali'nin 6 ETH'si var). İkincisi ise, bu bloğa eklenen blokta bu işlemin ve son durumun doğru bir şekilde işlendiğini kontrol edip onaylıyorlar.
