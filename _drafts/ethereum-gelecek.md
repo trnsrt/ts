@@ -116,7 +116,7 @@ Ethereum, geçen hafta yaşadığımız merge sonrası geçmişte yaşadığı d
 
 Bütün bu işlemlerin özünde, Ethereum'u ileride sansüre karşı koruyacak olan merkeziyetsizlik prensibinden vazgeçmeden, yüksek hacimli işlem sayılarını başarıyla işlemek var. Plan karmaşık görünse de aslında Ethereum geliştiricilerinin kafasında oldukça net. Gerçekleşmesi ise uzunca bir süre alacak. Önümüzdeki dönemde aşama aşama hayata geçmeye başladığını hep birlikte göreceğimizi umuyoruz. 
 
-—-
+—--
 
 *Kaynaklar:*
 
