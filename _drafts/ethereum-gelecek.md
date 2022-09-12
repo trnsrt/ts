@@ -118,11 +118,20 @@ Bütün bu işlemlerin özünde, Ethereum'u ileride sansüre karşı koruyacak o
 
 —-
 
-['1]: "Nedir bu yük?" diye soracak olursanız; tam donanımlı düğümlerin yaptığı iki temel iş var.
+*Kaynaklar: 
+
+*[The End Game](https://vitalik.ca/general/2021/12/06/endgame.html) - Vitalik Buterin*
+
+*[The Hitchhiker's Guide to Ethereum](https://members.delphidigital.io/reports/the-hitchhikers-guide-to-ethereum/) - Delphi Digital*
+
+*[The Complete Guide to Rollups](https://members.delphidigital.io/reports/the-complete-guide-to-rollups) - Delphi Digital*
+
+
+[^1]: "Nedir bu yük?" diye soracak olursanız; tam donanımlı düğümlerin yaptığı iki temel iş var.
 - Birincisi, blok içindeki her bir işlemin doğru olup olmadığını anlamak. Bunun için blok öncesi durumu alıyorlar (Ayşe'nin 10 ETH'si, Ali'nin 5 ETH'si var), istenen işlemi yapıyorlar (Ayşe, Ali'ye 1 ETH gönderdi), blok sonundaki durumu kontrol ediyorlar (Ayşe'nin 9 ETH'si, Ali'nin 6 ETH'si var).
 - İkincisi ise, bu bloğa eklenen blokta bu işlemin ve son durumun doğru bir şekilde işlendiğini kontrol edip onaylıyorlar.
 
-['2]: Bu iki çözüm, oluşturulan blokların doğru oluşturulduğunu bulmaya yarayan DAS (data-availability-sampling) ve datanın tam olduğunu anlamaya yarayan KZG committments. KZG sistemi geçici bir çözüm, zira kuantum bilgisayarlar tarafından kırılabilirler ve kurucularına güvenmek zorundasınız. Uzun vadede KZG yerine ZK-proof denen sıfır-bilgi-kanıtı gerektiren STARK'ların kullanılması planlanabilir. Bunun için ZK-proof teknolojisinin daha geliştirilerek sisteme getirdiği hesaplama yükünün hafifletilmesi gerekiyor.
+[^2]: Bu iki çözüm, oluşturulan blokların doğru oluşturulduğunu bulmaya yarayan DAS (data-availability-sampling) ve datanın tam olduğunu anlamaya yarayan KZG committments. KZG sistemi geçici bir çözüm, zira kuantum bilgisayarlar tarafından kırılabilirler ve kurucularına güvenmek zorundasınız. Uzun vadede KZG yerine ZK-proof denen sıfır-bilgi-kanıtı gerektiren STARK'ların kullanılması planlanabilir. Bunun için ZK-proof teknolojisinin daha geliştirilerek sisteme getirdiği hesaplama yükünün hafifletilmesi gerekiyor.
 
 [^3]: İkinci seviye çözümler içinde Optimistic Rollup'lar, yapılan işlemlerin doğruluğuna itiraz için bir haftalık bir süre veriyor. O sürede itiraz olmaz ise işlem zaten onaylanıyor, dolayısıyla bir aylık süre fazlasıyla yeterli. Zk-roll up çözümlerde zaten böyle bir süreye gerek yok, işlemler anında gerçekleşiyor.
 
@@ -131,11 +140,3 @@ Bütün bu işlemlerin özünde, Ethereum'u ileride sansüre karşı koruyacak o
 [^5]: Burada inşaatçı olan ağır işçi oyuncular yine tüm mevcut durumu almak zorundalar ama onlar zaten güçlü makinelere sahip oldukları için bu büyük bir problem yaratmayacak. Burada önemli olan merkeziyetsiz onaylayıcıların üzerindeki yükü olabildiğince azaltmak. Burada bir diğer nokta da, içeriye alınan işlemlere ait mevcut durumların Verkle tree denen daha verimli bir yöntem ile bloğa aktarılması.
 
 [^6]: Burada, blokları oluşturan inşaatçılar, içeri bir an önce girmek isteyen kullanıcılardan 'bahşiş' alabilecekler. Bunun dışında, şu anda da olan ve MEV (miner-extractable-value) denen işlemlerin öncelik sırasında oluşan arbitraj fırsatları da bu inşaatçılar tarafından alınacak. Bunun karşılığında bu inşaatçılar, oluşturdukları bloklar kabul edilsin diye kazandıkları paranın bir kısmını onaylayıcılara verecekler. Düzgün çalışan bir piyasada, kullanıcıların verdiği ücretlerin ve MEV'lerin büyük kısmının inşaatçılar tarafından blokları kabul edilmesini sağlamak için onaylayıcılara verilmesi beklenir. Bu da, onaylayıcıların yani ETH stake edenlerin kazandıkları paranın (faiz gelirinin üzerine) artması anlamına gelir.:
-
-*Kaynaklar: 
-
-*[The End Game](https://vitalik.ca/general/2021/12/06/endgame.html) - Vitalik Buterin*
-
-*[The Hitchhiker's Guide to Ethereum](https://members.delphidigital.io/reports/the-hitchhikers-guide-to-ethereum/) - Delphi Digital*
-
-*[The Complete Guide to Rollups](https://members.delphidigital.io/reports/the-complete-guide-to-rollups) - Delphi Digital*
