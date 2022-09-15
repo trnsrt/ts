@@ -33,7 +33,7 @@ Roll-up çözümlerin birkaç özelliği var. Birincisi, bu çözümler Ethereum
 
 İkinci temel özellik bu roll-up çözümler sayesinde Ethereum üzerinde yapılabilen işlem sayısı kat be kat artabiliyor. Zira, bu çözümler Ethereum'un kısıtlı kapasitesini kullanmıyorlar,; aynı anda onlarcası bir arada çalışabildiği için paralel olarak ölçeklenme sağlıyorlar. Kapasitenin artması, kullanıcı açısından daha ucuza işlem yapabilmeyi olanaklı hale getiriyor. 
 
-Peki ya bu ikinci seviye çözümde bir sorun oldu ve çözüm çalışmamaya başladı? O zaman ne olacak? Çok büyük bir sorun yok, varlık Ethereum seviyesinde hâlâ kullanıcıya ait (bu özellik, alternatif birinci seviye blokzincirler ya da Polygon gibi yan-zincirlere köprüler aracılığıyla varlık transfer edenler için geçerli değil). 
+"Peki ya, bu ikinci seviye çözümde bir sorun olur ve çözüm çalışmamaya başlarsa?" O zaman ne olacak? Çok büyük bir sorun yok, varlık Ethereum seviyesinde hâlâ kullanıcıya ait (bu özellik, alternatif birinci seviye blokzincirler ya da Polygon gibi yan-zincirlere köprüler aracılığıyla varlık transfer edenler için geçerli değil). 
 
 ### Önümüzdeki dönem nelere gebe?
 
