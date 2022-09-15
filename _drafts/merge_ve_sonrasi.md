@@ -19,7 +19,7 @@ Bunun dışında merge ile birlikte gelecek en büyük değişiklik, Ethereum'un
 
 Aslına bakarsanız, merge olarak tanımlanan bu birleşme başlangıçta çok daha farklı bir şekilde kurgulanmıştı. İlk yapılan kurguya göre, Ethereum kendisini 64 farklı parçaya bölerek (ya da çoklayarak) kapasitesini artıracaktı. 
 
-Sonrasında hem çok karmaşık, hem de riskli olacağı düşüncesiyle bu kurgudan vazgeçildi ve Ethereum üzerinden stratejik bir değişiklik yapıldı. Neydi bu değişiklik? Temel olarak, roll-up bazlı bir başka deyişle Ethereum üzerine kurulu ikinci seviye çözümlere bağlı gelecek düşünüldü. Ne demek bu? Gelin biraz açalım: 
+Sonrasında hem çok karmaşık, hem de riskli olacağı düşüncesiyle bu kurgudan vazgeçildi ve Ethereum üzerinden stratejik bir değişiklik yapıldı. Neydi bu değişiklik? Temel olarak, 'roll-up bazlı' bir başka deyişle Ethereum üzerine kurulu ikinci seviye çözümlere bağlı bir gelecek düşünüldü. Ne demek bu? Gelin biraz açalım: 
 
 Blokzincirler temel olarak herkese açık bir defter olarak çalışıyorlar. Ağ üzerindeki tüm transferler bu açık deftere yazılıyor. Ethereum'da sadece basit para transferleri değil, daha karmaşık finansal işlemlerin de yapılması söz konusu. İşte bu karmaşık işlemler, sistem üzerindeki yükü artırmaya başlıyor. 
 
