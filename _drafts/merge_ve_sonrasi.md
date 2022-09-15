@@ -45,4 +45,4 @@ Bu alanda uzun süredir çalışmalarını sürdüren [Polkadot](https://polkado
 
 ### Arkası yarın
 
-Özet olarak, Ethereum'un merge olayı bittikten sonra önümüzdeki dönemde ikinci seviye çözümlerin yanında daha altyapı düzeyinde modüler blokzincirlerin çok konuşulacağını söyleyebiliriz. Ethereum'un da gerek ikinci seviye çözümlerin önünün açılması gerekse kendi altyapısı içinde ölçeklenmeyi sağlayıcı pek çok planı mevcut. Onları da önümüzdeki yazımızda konuşacağız. 
+Özet olarak, Ethereum'un merge olayı bittikten sonra önümüzdeki dönemde ikinci seviye çözümlerin yanında daha altyapı düzeyinde modüler blokzincirlerin çok konuşulacağını söyleyebiliriz. Ethereum'un da gerek ikinci seviye çözümlerin önünün açılması gerekse kendi altyapısı içinde ölçeklenmeyi sağlayacak birçok planı mevcut. Onları da önümüzdeki yazımızda konuşacağız. 
