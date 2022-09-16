@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Ethereum 'The Merge' ve sonrası"
+date:   2022-09-16 12:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi, CoindeskTR
+---
+
 Bu yazımızda Ethereum dünyasında bu hafta yaşanan merge olayına ve sırada nelerin olduğunu bakacağız. 
 
 Ethereum dünyası, 15 Eylül'de çıkan yeni versiyonu sonrasında geliştirmelere devam ediyor. Bundan sonrasında sırada neler var, gelin birlikte bakalım. Ama öncelikle duymamış birkaç kişi için 'merge' denilen bu hafta yaşanan olayı hatırlayalım. 
@@ -8,6 +16,10 @@ Ethereum dünyası, 15 Eylül'de çıkan yeni versiyonu sonrasında geliştirmel
 Değişimin temel nedeni, Ethereum topluluğunun Bitcoin ile birlikte ortaya çıkan, ağın korunması ve işler halde devam etmesi için kullanılan iş-kanıtı (ingilizcesi Proof-of-Work kısaca PoW) sistemini bırakıp, daha yeni bir teknoloji olan hisse-kanıtı (ingilizcesi Proof-of-Stake kısaca PoS) sistemine geçmesi. 
 
 'Merge' ile birlikte, bugüne kadar kullanılan Ethereum sisteminin PoW kısmı atılıyor ve bu sistem Aralık 2020'den beri aktif olarak PoS'u kullanan  yeni Ethereum'un içine katılıyor. 
+
+| ![splash](/assets/puzzle-g9d8d2944d_800)|
+|:--:| 
+| *Image by [DPIRO](https://pixabay.com/users/piro4d-2707530/) from [Pixabay](https://pixabay.com/)*|
 
 PoS sisteminin PoW'dan en büyük farkı enerji tasarrufu sağlaması. Malum, geçtiğimiz hafta Beyaz Saray Bilim ve Teknoloji Komitesi tarafından yayınlanan [raporda](https://www.coindesk.com/policy/2022/09/08/crypto-mining-energy-implications-need-further-study-white-house-report-says/) kripto madenciliğinin çevresel etkisinin en aza indirilmesi için kanuni denetim getirilmesi tavsiye edildi ([full rapor - pdf](https://www.whitehouse.gov/wp-content/uploads/2022/09/09-2022-Crypto-Assets-and-Climate-Report.pdf)]. Anlaşılan medyada geçmişte kara para aklama ve terörist faaliyetler konusunda yoğunlaşan kripto karşıtı eleştirel söylem, yavaş yavaş yerini enerji harcama bazlı çevresel etkilere doğru kayacak. Ethereum, PoS ile birlikte enerji harcamasının %99.5 azaltarak kendini bu tartışmalardan sıyırmış gibi görünüyor (ve hayır, Bitcoin PoS'e geçmeyecek). 
 
@@ -46,3 +58,11 @@ Bu alanda uzun süredir çalışmalarını sürdüren [Polkadot](https://polkado
 ### Arkası yarın
 
 Özet olarak, Ethereum'un merge olayı bittikten sonra önümüzdeki dönemde ikinci seviye çözümlerin yanında daha altyapı düzeyinde modüler blokzincirlerin çok konuşulacağını söyleyebiliriz. Ethereum'un da gerek ikinci seviye çözümlerin önünün açılması gerekse kendi altyapısı içinde ölçeklenmeyi sağlayacak birçok planı mevcut. Onları da önümüzdeki yazımızda konuşacağız. 
+
+---
+
+*Not 1: Bu yazı ilk olarak 16 Eylül 2022'de [Coindesk Türkiye](https://www.coindeskturkiye.com/))'de [yayınlandı](https://www.coindeskturkiye.com/yazarlar/turan-sert/ethereum-the-merge-ve-sonrasi-1984)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
