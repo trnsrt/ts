@@ -37,7 +37,7 @@ Evet, dört bölümlük mini dizimizde NFT'nin herhangi bir esere nasıl değer 
 
 ---
 
-*Not 1: Bu yazı ilk olarak 10 Eylül 2022'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı]()*
+*Not 1: Bu yazı ilk olarak 10 Eylül 2022'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı](https://medium.com/blockchainist-center/nftnin-faydalar%C4%B1-iv-6f01155b5d8e)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
