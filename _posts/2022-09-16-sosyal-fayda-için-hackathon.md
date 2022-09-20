@@ -13,19 +13,14 @@ tags: videos Etkinlikler
 <table>
 <tr>
 <td style="width:50%">
-<img src="/assets/sub-poster_800.jpg">
-</td>
-<td style="width:50%"><iframe width="224" height="126" src="https://www.youtube.com/embed/B_1WuJ9Ee2o?t=1500" frameborder="0" allowfullscreen></iframe>
+<img src="/assets/Yenibirlider_800.png">
 </td>
 </tr>
 <tr>
 <td style="width:50%; vertical-align:top">
 <p>
-Etkinlik ilk gün posteri
+Sunum ekran görüntüsü. Kayıt yayınlanmadı. 
 </p></td>
-<td style="width:50%; vertical-align:top">
-<p>Bu da yayın linki. 24:55'de başlıyor</p>
-</td>
 </tr>
 </table>
 
