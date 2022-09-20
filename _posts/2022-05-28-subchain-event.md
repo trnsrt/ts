@@ -41,7 +41,7 @@ Etkinlik ilk gün posteri
 <td style>
 <img src="/assets/ts-sub-2_800.jpg">
 </td>
-<td style><img src="/assets/ts_sub_5_800.jpgg">
+<td style><img src="/assets/ts_sub_5_800.jpg">
 </td>
 </tr>
 </table>
