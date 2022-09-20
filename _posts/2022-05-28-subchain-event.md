@@ -10,14 +10,16 @@ tags: videos Etkinlikler
 
 &nbsp;
 
-<table><tr>
+<table>
+<tr>
 <td style="width:50%">
 <img src="/assets/sub-poster_800.jpg">
 </td>
 <td style="width:50%"><iframe width="224" height="126" src="https://www.youtube.com/embed//B_1WuJ9Ee2o?t=1500" frameborder="0" allowfullscreen></iframe>
 </td>
 </tr>
-<tr><td style="width:50%; vertical-align:top">
+<tr>
+<td style="width:50%; vertical-align:top">
 <p>
 Etkinlik ilk gün posteri
 </p></td>
