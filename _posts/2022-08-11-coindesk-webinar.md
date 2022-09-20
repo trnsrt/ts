@@ -15,7 +15,7 @@ tags: videos Etkinlikler
 <td style="width:50%">
 <img src="/assets/coindesk-webinar-ss_800.jpg">
 </td>
-<td style="width:50%"><iframe width="224" height="126" src="https://www.youtube.com/ytc4D_G-CT0?t=2417" frameborder="0" allowfullscreen></iframe>
+<td style="width:50%"><iframe width="224" height="126" src="https://www.youtube.com/embed/ytc4D_G-CT0?t=2417" frameborder="0" allowfullscreen></iframe>
 </td>
 </tr>
 <tr>
