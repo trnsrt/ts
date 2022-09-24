@@ -8,7 +8,7 @@ tags: Yazılar, Articles
 
 Hosting Ethereum's biggest event in Turkey can build on what is already strong interest in blockchain and crypto technology.
 
-(This post was first [published](https://www.coindesk.com/layer2/2022/09/22/why-devcon-7-should-be-in-istanbul/) at [Coindesk](https://www.coindesk.com/) US edition on September 22nd, 2022)
+*(This post was first [published](https://www.coindesk.com/layer2/2022/09/22/why-devcon-7-should-be-in-istanbul/) at [Coindesk](https://www.coindesk.com/) US edition on September 22nd, 2022)*
 
 [Devcon](https://devcon.org/), the most important event for Ethereum developers and researchers, might well be in Istanbul next year. If it happens, it would be thanks to a campaign from the Turkish cryptocurrency community, which has evolved into a truly powerful community.
 
