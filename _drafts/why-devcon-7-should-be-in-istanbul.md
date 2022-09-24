@@ -30,7 +30,7 @@ On top of that, recent gatherings such as [Cyptist](https://www.cryptist.org/) a
 
 **Boosting the Potential**
 
-[Kaan](https://twitter.com/kaanuzdogan), aone of the pseudonymous employees of Ethereum Foundation, had a similar experience. He became interested in the area only after he took a blockchain class while anhaving his undergrad at Bogazici University. Most of his friends chose AI/ML back then. Had there been a blockchain club around or events organized at the time, many more of his friends would have opted for blockchain projects.
+[Kaan](https://twitter.com/kaanuzdogan), one of the employees of Ethereum Foundation, had a similar experience. He became interested in the area only after he took a blockchain class while anhaving his undergrad at Bogazici University. Most of his friends chose AI/ML back then. Had there been a blockchain club around or events organized at the time, many more of his friends would have opted for blockchain projects.
 
 Let's not forget that the Turkish developer ecosystem here is not confined to Turks. Recent unfortunate events in Ukraine resulted in a flood of developers from Ukraine and Russia coming into Istanbul and coastal regions of Turkey. A friend of mine alone helped three businesses with close to two hundred software engineers to relocate here. This fresh influx of talent will have a positive impact on the growth of the developer community in the region.
 
