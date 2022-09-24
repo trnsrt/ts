@@ -55,7 +55,7 @@ Sadece birkaç öğrenciyi yurt dışındaki etkinliklere göndermenin bu kadar 
 
 ---
 
-*Not 1: Bu yazı ilk olarak 23 Eylül 2022'de [Coindesk Türkiye](https://www.coindeskturkiye.com/))'de [yayınlandı](https://www.coindeskturkiye.com/yazarlar/turan-sert/devcon-7-neden-istanbulda-olmali-2081)*
+*Not 1: Bu yazı ilk olarak 23 Eylül 2022'de [Coindesk Türkiye](https://www.coindeskturkiye.com/)'de [yayınlandı](https://www.coindeskturkiye.com/yazarlar/turan-sert/devcon-7-neden-istanbulda-olmali-2081)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
