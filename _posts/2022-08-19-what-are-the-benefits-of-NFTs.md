@@ -18,7 +18,7 @@ There is no clear, globally accepted method to value any object. Valuation is an
 
 | ![snow](/assets/path-1468938_800.jpg)|
 |:--:| 
-| *Image by [Bernd ]([https://pixabay.com/users/https://pixabay.com/users/momentmal-5324081/)) from [Pixabay](https://pixabay.com/)*|
+| *Image by [Bernd ]([https://pixabay.com/users/momentmal-5324081/)) from [Pixabay](https://pixabay.com/)*|
 
 It gets more difficult when it comes to art. In order to avoid any misconceptions (or just out of ignorance) let's just assume a normal art has two major components. 
 
