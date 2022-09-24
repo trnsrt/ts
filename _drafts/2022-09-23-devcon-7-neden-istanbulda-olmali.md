@@ -8,6 +8,8 @@ tags: Yazılar, DeFi, CoindeskTR
 
 Ethereum'un en büyük etkinliği olan Devcon'un İstanbul'da düzenlenmesi halihazırda yoğun ilgi gören blokzincir ve kripto teknolojilerinin daha da öne çıkmasına zemin hazırlayabilir.
 
+*Not: Bu yazının [İngilizce orijinali](https://www.coindesk.com/layer2/2022/09/22/why-devcon-7-should-be-in-istanbul/) 22 Eylül 2022'de [Coindesk](https://www.coindesk.com/layer2/2022/09/22/why-devcon-7-should-be-in-istanbul/) ABD'de yayınlandı.*
+
 Ethereum geliştiricileri ve araştırmacıları için en önemli etkinlik olan [Devcon'un](https://devcon.org/) önümüzdeki yıl İstanbul'da düzenlenmemesi için hiçbir sebep yok! Eğer bu gerçekleşirse bu başarıda kısa sürede güçlü bir topluluk haline dönüşen Türkiye kripto ekosisteminin önemli bir payı olacak.
 
 | ![istanbul](/assets/istanbul-4305164_800.jpg)|
