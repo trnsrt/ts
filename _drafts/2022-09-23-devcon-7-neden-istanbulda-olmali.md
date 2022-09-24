@@ -6,8 +6,6 @@ categories: Genel
 tags: Yazılar, DeFi, CoindeskTR
 ---
 
-**Devcon 7 Neden İstanbul'da Olmalı?**
-
 Ethereum'un en büyük etkinliği olan Devcon'un İstanbul'da düzenlenmesi halihazırda yoğun ilgi gören blokzincir ve kripto teknolojilerinin daha da öne çıkmasına zemin hazırlayabilir.
 
 Ethereum geliştiricileri ve araştırmacıları için en önemli etkinlik olan [Devcon'un](https://devcon.org/) önümüzdeki yıl İstanbul'da düzenlenmemesi için hiçbir sebep yok! Eğer bu gerçekleşirse bu başarıda kısa sürede güçlü bir topluluk haline dönüşen Türkiye kripto ekosisteminin önemli bir payı olacak.
