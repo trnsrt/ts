@@ -52,8 +52,6 @@ In short: Turkey has a young population with strong potential but with limited a
 
 If sending a couple of students to global events creates such an outcome, just imagine the effect of bringing developers from all around the globe to Istanbul.
 
-Turan Sert has been active in finance and technology for over two decades. His previous business experience includes, financial audit (Arthur Andersen), investment banking (Garanti Bank), management consulting (Booz Allen), investment management (Fiba Holding), and operations (Ozyegin University) as well as entrepreneurship in a technology startup. He has been focusing on Web3 s over the last five years, and published two books called "Sorularla Blockchain - Questions on Blockchain" (in Turkish) in 2019 and "Sorularla DeFi Merkeziyetsiz Finans - Questions on DeFi Decentralized Finance" in 2022. He currently acts as an advisor to BlockchainIST Center. Mr. Sert holds an BA degree in management from Bogazici University and an MBA from Harvard Business School.
-
 ---
 
 *None of the views expressed in this article should be considered as investment advice*
