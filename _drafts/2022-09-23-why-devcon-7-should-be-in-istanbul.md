@@ -14,7 +14,7 @@ Hosting Ethereum's biggest event in Turkey can build on what is already strong i
 
 | ![istanbul](/assets/galata-4043037_800.jpg)|
 |:--:| 
-| *Image by [Şinasi Müldür]([https://pixabay.com/users/smuldur-5589717/)) from [Pixabay](https://pixabay.com/)*|
+| *Image by [Şinasi Müldür]([https://pixabay.com/users/smuldur-5589717/) from [Pixabay](https://pixabay.com/)*|
 
 The next Devcon will be held in Bogota, Colombia, this October, but the organizers have already started thinking about next year's destination. [A recent survey](https://forum.devcon.org/c/devcon-7-location-suggestions/14) on the Devcon forum received seven suggestions so far. A couple of young Turks [proposed](https://forum.devcon.org/t/proposed-location-istanbul-turkiye/412/28) Istanbul as a candidate and received huge support: The volume of comments and views in favor offor the proposal is far ahead of the nextfollowing candidate, Nha Trang City, Vietnam.
 
