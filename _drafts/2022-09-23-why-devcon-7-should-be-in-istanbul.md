@@ -1,8 +1,20 @@
+---
+layout: post
+title:  "Why Devcon 7 should be in Istanbul?"
+date:   2022-09-23 22:47:56 +0300
+categories: Genel
+tags: Yazılar, Articles
+---
+
 Hosting Ethereum's biggest event in Turkey can build on what is already strong interest in blockchain and crypto technology.
 
-*(This post was first published at [Coindesk US edition](https://www.coindesk.com/layer2/2022/09/22/why-devcon-7-should-be-in-istanbul/) on September 22nd, 2022)*
+*(This post was first [published](https://www.coindesk.com/layer2/2022/09/22/why-devcon-7-should-be-in-istanbul/) at [Coindesk](https://www.coindesk.com/) US edition on September 22nd, 2022)*
 
 [Devcon](https://devcon.org/), the most important event for Ethereum developers and researchers, might well be in Istanbul next year. If it happens, it would be thanks to a campaign from the Turkish cryptocurrency community, which has evolved into a truly powerful community.
+
+| ![istanbul](/assets/galata-4043037_800.jpg)|
+|:--:| 
+| *Image by [Şinasi Müldür]([https://pixabay.com/users/smuldur-5589717/)) from [Pixabay](https://pixabay.com/)*|
 
 The next Devcon will be held in Bogota, Colombia, this October, but the organizers have already started thinking about next year's destination. [A recent survey](https://forum.devcon.org/c/devcon-7-location-suggestions/14) on the Devcon forum received seven suggestions so far. A couple of young Turks [proposed](https://forum.devcon.org/t/proposed-location-istanbul-turkiye/412/28) Istanbul as a candidate and received huge support: The volume of comments and views in favor offor the proposal is far ahead of the nextfollowing candidate, Nha Trang City, Vietnam.
 
@@ -26,7 +38,7 @@ First of all, there is a growing appetite among the new generation for integrati
 
 Despite this such financial difficulties, students in groups have started to attend global events since restrictions due to COVID pandemic were lifted. Following a local [hackathon](https://istanbul.avalanchehacks.com/) last December, more than ten students from three different university clubs joined [Avalanche Barcelona Summit](https://www.avalanchesummit.com/). Soon after, small groups managed to travel to [ETHAmsterdam](https://amsterdam.ethglobal.com/), [ETHPrague](https://ethprague.com/), [ETHBarcelona](https://ethbarcelona.com/), [ETHCC 5](https://ethcc.io/), [Eth Mexico City](https://soliditydeveloper.com/eth-mexico-city) and lastly [ETHBerlin](https://ethberlin.ooo/). A group of ten students are planning to attend Devcon Bogota as well. Those were all made possible by scholarships granted by organizers, local businesses (such as [LykaDAO](https://www.laykadao.space/) and [Paribu](https://www.paribu.com/)) as well as global players (such as [Aave](https://aave.com/) and [Talent House](https://www.talenthouse.com.tr/)).
 
-Several local initiatives have sparked the interest in the local community as well. First, severalhackathons, including [AvalancheHacks](https://istanbul.avalanchehacks.com/), [NFT and Metaverse Hackhaton](https://hackathonturkiye.com/etkinlik/blokzincir-nft-ve-metaverse-hackathonu) and [Blockcircus](https://www.eventbrite.com/e/blockchain-egitim-hackathon-blockcircus-tickets-46836838244). Several and student club organizations such as [Blockchain and Beyond Summit](https://sites.google.com/view/blockchain-beyondsummit/ana-sayfa) and [Blockchain Networking Day](https://twitter.com/bogazicichain/status/1525200754792857601) attracted significant crowds. Then, sSeveral corporate events namely [Blockchain Economy Summit](https://blockchaineconomy.istanbul/en), [NFT Summit](https://nftsummit.ist/), [Eurasia Blockchain Summit](https://www.eurasiablockchain.com/), [Kriptofest](https://kriptofest.org/), [Istanbul Blockchain Week](https://istanbulblockchainweek.com/) all raised the awareness in corporate world (though the quality of such events varies significantly).
+Several local initiatives have sparked the interest in the local community as well. First, severalhackathons, including [AvalancheHacks](https://istanbul.avalanchehacks.com/), [NFT and Metaverse Hackhaton](https://hackathonturkiye.com/etkinlik/blokzincir-nft-ve-metaverse-hackathonu) and [Blockcircus](https://www.eventbrite.com/e/blockchain-egitim-hackathon-blockcircus-tickets-46836838244). Several and student club organizations such as [Blockchain and Beyond Summit](https://sites.google.com/view/blockchain-beyondsummit/ana-sayfa) and [Blockchain Networking Day](https://twitter.com/bogazicichain/status/1525200754792857601) attracted significant crowds. Then, Several corporate events namely [Blockchain Economy Summit](https://blockchaineconomy.istanbul/en), [NFT Summit](https://nftsummit.ist/), [Eurasia Blockchain Summit](https://www.eurasiablockchain.com/), [Kriptofest](https://kriptofest.org/), [Istanbul Blockchain Week](https://istanbulblockchainweek.com/) all raised the awareness in corporate world (though the quality of such events varies significantly).
 
 On top of that, recent gatherings such as [Cyptist](https://www.cryptist.org/) and [Mina Developer Meetup](https://www.eventbrite.com/e/mina-zkapp-developers-meetup-istanbul-tickets-344946232467) also attracted interest from the developer community. The momentum continues with weekly CryptoMondays events, and several people aiming to organize an ETH Istanbul in the near future.
 
@@ -39,3 +51,7 @@ Let's not forget that the Turkish developer ecosystem here is not confined to Tu
 In short: Turkey has a young population with strong potential but with limited access to the global crypto community. A handful of them get scholarships and attend global events (and win prizes). This creates a buzz in the local environment, while . Llocal events raise the awareness among businesses and also help bringing in new talent. On top of that, a recent fresh talent inflow from outside to an already vibrant local market.
 
 If sending a couple of students to global events creates such an outcome, just imagine the effect of bringing developers from all around the globe to Istanbul.
+
+---
+
+*None of the views expressed in this article should be considered as investment advice*
