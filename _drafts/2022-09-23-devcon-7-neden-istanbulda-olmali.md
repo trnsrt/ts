@@ -1,8 +1,20 @@
+---
+layout: post
+title:  "Devcon 7 neden İstanbul'da olmalı?"
+date:   2022-09-23 12:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi, CoindeskTR
+---
+
 **Devcon 7 Neden İstanbul'da Olmalı?**
 
 Ethereum'un en büyük etkinliği olan Devcon'un İstanbul'da düzenlenmesi halihazırda yoğun ilgi gören blokzincir ve kripto teknolojilerinin daha da öne çıkmasına zemin hazırlayabilir.
 
 Ethereum geliştiricileri ve araştırmacıları için en önemli etkinlik olan [Devcon'un](https://devcon.org/) önümüzdeki yıl İstanbul'da düzenlenmemesi için hiçbir sebep yok! Eğer bu gerçekleşirse bu başarıda kısa sürede güçlü bir topluluk haline dönüşen Türkiye kripto ekosisteminin önemli bir payı olacak.
+
+| ![istanbul](/assets/istanbul-4305164_800.jpg)|
+|:--:| 
+| *Image by [Crea Park](https://pixabay.com/users/smuldur-5589717/) from [Pixabay](https://pixabay.com/)*|
 
 Bu yılki Devcon Kolombiya'nın Bogota şehrinde düzenlenecek ancak etkinliği organize edenler gelecek yılın ev sahibi şehri henüz belirlemiş değiller. Devcon forumunda kısa süre önce gerçekleştirilen [bir ankette](https://forum.devcon.org/c/devcon-7-location-suggestions/14) yedi farklı şehir aday konumunda. Bu süreçte [İstanbul da aday gösterildi](https://forum.devcon.org/t/proposed-location-istanbul-turkiye/412/28) ve çok büyük bir desteği arkasına aldı. İstanbul'a dair yorumlar ve destek ikinci sıradaki aday olan Vietnam'ın Nha Trang City'sinin çok daha ötesine geçmiş durumda.
 
@@ -39,3 +51,12 @@ Ethereum Foundation'da çalışan [Kaan](https://twitter.com/kaanuzdogan) da ben
 Özetlemek gerekirse: Türkiye büyük bir potansiyeli ve genç nüfusu olan bir ülke olmasına karşın küresel kripto topluluğuna erişimi sınırlı. Bu topluluğun üyelerinin çok az bir kısmı burs alıp küresel etkinliklere dahil olabiliyor. Bu tür etkinliklere katılımları ve aldıkları ödüller yerel atmosferde hareketlilik oluştururken, düzenlenen yerel organizasyonlar şirketlerin farkındalığının artmasına ve bu alana yetenekli işgücünün kazandırılmasına zemin hazırlıyor. Tüm bunların yanında yurtdışından son zamanlarda gelmeye başlayan yeni yetenekler de pazarın canlanmasına destek veriyor.
 
 Sadece birkaç öğrenciyi yurt dışındaki etkinliklere göndermenin bu kadar büyük etkisi olabiliyorsa dünyanın dört bir yanından geliştiricileri İstanbul'a getirmenin nasıl bir etki yaratacağını hayal edebilir misiniz?
+
+
+---
+
+*Not 1: Bu yazı ilk olarak 23 Eylül 2022'de [Coindesk Türkiye](https://www.coindeskturkiye.com/))'de [yayınlandı](https://www.coindeskturkiye.com/yazarlar/turan-sert/devcon-7-neden-istanbulda-olmali-2081)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
