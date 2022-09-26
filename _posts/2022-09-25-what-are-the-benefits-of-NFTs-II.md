@@ -35,6 +35,6 @@ This ease of authenticity would bring down the costs as well as eliminate the ti
 We will continue to explore the benefits of NFT in our future posts... 
 
 ---
-*This piece is [first published](https://medium.com/bcistcenter/benefits-of-nfts-i-c21ee436aacd) in [BlockchainIST Center](https://medium.com/blockchainist-center) on September 25th, 2022.*
+*This piece is [first published](https://medium.com/me/stats/post/36e41545f5c3) in [BlockchainIST Center](https://medium.com/blockchainist-center) on September 25th, 2022.*
 
 *None of the views expressed in this article should be considered as investment advice*
