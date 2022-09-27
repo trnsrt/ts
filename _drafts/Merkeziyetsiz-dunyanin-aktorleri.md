@@ -46,7 +46,7 @@ DAO, dijital dünyada herhangi bir misyonu gerçekleştirmek amacıyla bir araya
 
 Özellikle Web3 içinde en gelişmiş alan olan DeFi'de DAO'ların çok ciddi bir yer kapladığını görüyoruz. Bu da çok normal. Bu alanda hizmet vermek için kurulan girişimler genelde merkezi küçük bir ekip tarafından kuruluyorlar. Sonrasında zaman geçtikçe, proje olgunlaştıkça merkeziyetsizliğe doğru yol alıyorlar. Bunun da en önemli parçası yönetimlerini geniş bir alana yaymak. Burada da genelde DAO yapısı tercih ediliyor. Zira bu sayede bulundukları dünyada daha güvenilir hale geliyorlar, hem de aslında bir anlamda regülasyonlarla kaçınıyorlar. 
 
-### Sonuç: Daha yolun başındayız 
+## Sonuç: Daha yolun başındayız 
 
 Merkeziyetsiz dünya henüz oluşma aşamasında. Bu dünyanın aktörleri yavaş yavaş ortaya çıkmaya başlıyor. Şu ana kadar ön plana çıkanlar sırasıyla, kriptoparalar, DeFi yani merkeziyetsiz finans, NFT’ler, Metaverse ve DAO’lar oldular. Kim bilir önümüzdeki dönemlerde yeni bambaşka aktörler de sahnede yerini alacak.
 
