@@ -53,8 +53,6 @@ Merkeziyetsiz dünya henüz oluşma aşamasında. Bu dünyanın aktörleri yava�
 Tekrar edelim, bu dünya henüz emekleme dönemini yaşıyor. Bu dünyanın aktörleri de benzer şekilde henüz bebeklikten çıkıp yeni adım atmaya başlayan çocuklar gibi yalpalayarak ve düşe kalka ilerliyorlar. Bu DeFi'de de böyle, DAO'larda da. Özellikle DAO'ların yönetim yapılarının nasıl olması gerektiği konusunda cevapsız pek çok soru var. Öte yandan, yüzlerce binlerce DAO, farklı yapıları deniyorlar ve umuyoruz bunlardan birkaçı başarılı modeller olarak diğerlerine örnek olacaklar. Önümüzdeki yazılarımızda bu ilginç deneylere de göz atmaya çalışacağız. 
 
 
+[^1] Aslına bakarsanız, yeni bir kavram sayılmaz, özellikle internet gibi her tür gelişmenin çok hızlı yaşandığı bir ortamda. Toplum radarına düşmesi Ethereum’un 2016 yılında yaşadığı DAO olayı ile olmasına rağmen sonrasında DeFi alanında pek çok girişim (MakerDAO, CurveDAO vs) bu şekilde kuruldu
 
-
-[^2] Aslına bakarsanız, yeni bir kavram sayılmaz, özellikle internet gibi her tür gelişmenin çok hızlı yaşandığı bir ortamda. Toplum radarına düşmesi Ethereum’un 2016 yılında yaşadığı DAO olayı ile olmasına rağmen sonrasında DeFi alanında pek çok girişim (MakerDAO, CurveDAO vs) bu şekilde kuruldu
-
-[^1] Basitleştirmek için bireylerin diyoruz ama bir araya gelen oyuncular başka topluluklar (başka DAO'lar) hatta şirketler ya da finans kurumları olabilir. Örneğin MakerDAO forumlarına başvuru yapan Societe General ile ilgili yazımıza [şuradan](/genel/2021/10/21/defi-ile-klasik-finansin-yakinlasmalari.html) ulaşabilirsiniz. 
+[^2] Basitleştirmek için bireylerin diyoruz ama bir araya gelen oyuncular başka topluluklar (başka DAO'lar) hatta şirketler ya da finans kurumları olabilir. Örneğin MakerDAO forumlarına başvuru yapan Societe General ile ilgili yazımıza [şuradan](/genel/2021/10/21/defi-ile-klasik-finansin-yakinlasmalari.html) ulaşabilirsiniz. 
