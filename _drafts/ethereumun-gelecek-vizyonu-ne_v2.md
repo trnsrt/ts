@@ -28,7 +28,7 @@ Bu hafta içinde olan meşhur birleşme. Birleşme denmesinin nedeni şu: Az ön
 
 The Surge, tamamen ikinci seviye çözümlerin ölçeklenebilmesi üzerine kurulu. 
 
-Ethereum'un önümüzdeki dönemde artacak işlem talebini ikinci seviye çözümler karşılayacak.  Bu çözümler Ethereum ile sıkı-fıkı çalıştıkları için Ethereum'a ile aralarında çift yönlü bir bilgi akışları söz konusu. Onlarca çözümünün bilgi akışının olacağını düşünürsek, ileride Ethereum üzerindeki düğümler üzerindeki yük yine artmaya başlayacak. İşte böyle bir durumda yapılmakta olan birkaç geliştirme onaylayıcıları rahatlatacak. 
+Ethereum'un önümüzdeki dönemde artacak işlem talebini ikinci seviye çözümler karşılayacak.  Bu çözümler Ethereum ile sıkı-fıkı çalıştıkları için Ethereum'a ile aralarında çift yönlü bir bilgi akışı söz konusu. Onlarca çözümünün bilgi akışının olacağını düşünürsek, ileride Ethereum üzerindeki düğümler üzerindeki yük yine artmaya başlayacak. İşte böyle bir durumda yapılmakta olan birkaç geliştirme onaylayıcıları rahatlatacak. 
 
 Öncelikle orijinal Ethereum planında olan 'sharding' (türkçeye parçalara bölme olarak çevirebiliriz) sayesinde onaylayıcılar tüm datayı değil belli bir parçasını onaylayacaklar.  İlk aşamada blok içindeki bir parçanın tamamını indirip kontrol edecekler (buna PDS proto-dank-sharding deniyor). Aslında bu bir ara çözüm ve arada bir duyabileceğiniz EIP-4844 geliştirmesi ile gelecek. 
 
