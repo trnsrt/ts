@@ -54,6 +54,6 @@ Tekrar edelim, bu dünya henüz emekleme dönemini yaşıyor. Bu dünyanın akt�
 
 --
 
-*[^1] Aslına bakarsanız, yeni bir kavram sayılmaz, özellikle internet gibi her tür gelişmenin çok hızlı yaşandığı bir ortamda. Toplum radarına düşmesi Ethereum’un 2016 yılında yaşadığı DAO olayı ile olmasına rağmen sonrasında DeFi alanında pek çok girişim (MakerDAO, CurveDAO vs) bu şekilde kuruldu-
+*[^1] Aslına bakarsanız, yeni bir kavram sayılmaz, özellikle internet gibi her tür gelişmenin çok hızlı yaşandığı bir ortamda. Toplum radarına düşmesi Ethereum’un 2016 yılında yaşadığı DAO olayı ile olmasına rağmen sonrasında DeFi alanında pek çok girişim (MakerDAO, CurveDAO vs) bu şekilde kuruldu*
 
 *[^2] Basitleştirmek için bireylerin diyoruz ama bir araya gelen oyuncular başka topluluklar (başka DAO'lar) hatta şirketler ya da finans kurumları olabilir. Örneğin MakerDAO forumlarına başvuru yapan Societe General ile ilgili yazımıza [şuradan](/genel/2021/10/21/defi-ile-klasik-finansin-yakinlasmalari.html) ulaşabilirsiniz.*
