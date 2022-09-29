@@ -12,7 +12,7 @@ Hazmı zor bir cümle (Vitalik’in her blog yazısında olduğu gibi). Ethereum
 
 Blokzincirlerin en büyük ölçeklenme sıkıntısı üretilen blok büyüklüğünün (yani kapasitesinin) sınırlı olması. Kapasite sınırlı tutuluyor zira  artırdığınız durumda blokzinciri çalıştıran makinelerin (düğümlerin) tüm işlemleri yapabilmesi için çok güçlü makineler gerekiyor. Ne kadar güç ihtiyacı o kadar basit makinenin devre dışı kalması demek. Bu da sistemin merkezileşmesi bir başka deyişle Ethereum geliştiricilerinin en büyük kabusu anlamına geliyor. 
 
-İşte Ethereum sistemi olabildiğince makinenin sistem içinde olması yani sistemin olabildiğince merkeziyetsiz olabilmesi için, kendi sistemini bölmeye başlıyor. Öncelikle geçen yazımızda da bahsettiğimiz gibi, Ethereum ikinci seviye çözümler ile birlikte artık kendi onaylayıcıların üzerindeki yükü [^1] atmaya çalışıyor. Nasıl yapıyor bunu?
+İşte Ethereum sistemi olabildiğince makinenin sistem içinde olması yani sistemin olabildiğince merkeziyetsiz olabilmesi için, kendi sistemini bölmeye başlıyor. Öncelikle geçen yazımızda da bahsettiğimiz gibi, Ethereum ikinci seviye çözümler ile birlikte artık kendi onaylayıcıların üzerindeki yükü[^1] atmaya çalışıyor. Nasıl yapıyor bunu?
 
 Öncelikle, işlem yapma (ingilizcesi 'execution') rolünü, ağırlıklı olarak ikinci seviye çözümlere paslıyor. Böylece, ağır işlemler ikinci seviye çözümler aracılığıyla gerçekleştiriliyor. İkinci seviye çözümler yaptıkları işlemlerin sonuçlarını ana Ethereum ağına yazıyorlar. Böylece ana Ethereum ağı ikinci seviye üzerindeki her işlemi tekrar yapmak zorunda kalmıyor. 
 
@@ -28,7 +28,7 @@ Bu hafta içinde olan meşhur birleşme. Birleşme denmesinin nedeni şu: Az ön
 
 The Surge , tamamen ikinci seviye çözümlerin ölçeklenebilmesi üzerine kurulu. 
 
-Ethereum'un önümüzdeki dönemde artacak işlem talebini ikinci seviye (roll-up) çözümler karşılayacak.  Bu çözümler Ethereum ile sıkı-fıkı çalıştıkları için Ethereum'a ile aralarında çift yönlü bir bilgi akışları söz konusu. [^2] Onlarca çözümün bilgi akışının olacağını düşünürsek, ileride Ethereum üzerindeki düğümler üzerindeki yük yine artmaya başlayacak. İşte böyle bir durumda yapılmakta olan birkaç geliştirme onaylayıcıları rahatlatacak. 
+Ethereum'un önümüzdeki dönemde artacak işlem talebini ikinci seviye (roll-up) çözümler karşılayacak.  Bu çözümler Ethereum ile sıkı-fıkı çalıştıkları için Ethereum'a ile aralarında çift yönlü bir bilgi akışları söz konusu[^2]. Onlarca çözümün bilgi akışının olacağını düşünürsek, ileride Ethereum üzerindeki düğümler üzerindeki yük yine artmaya başlayacak. İşte böyle bir durumda yapılmakta olan birkaç geliştirme onaylayıcıları rahatlatacak. 
 
 Öncelikle orijinal Ethereum planında olan 'sharding' (türkçeye parçalara bölme olarak çevirebiliriz) sayesinde onaylayıcılar tüm datayı değil belli bir parçasını onaylayacaklar.  İlk aşamada blok içindeki bir parçanın tamamını indirip kontrol edecekler (buna PDS proto-dank-sharding deniyor). Aslında bu bir ara çözüm ve arada bir duyabileceğiniz EIP-4844 geliştirmesi ile gelecek. 
 
