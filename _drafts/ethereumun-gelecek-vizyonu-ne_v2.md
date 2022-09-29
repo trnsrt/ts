@@ -1,6 +1,6 @@
 # Yazı II: Ethereum'un gelecek vizyonu ne?
 
-Önceki yazımızda geçtiğimiz hafta yaşanan Ethereum yeni versiyona geçme süreci olan 'merge' nediri incelemiş ve önümüzdeki dönemin nelere gebe olduğuna bakmaya başlamıştık. Bu yazımızda Ethereum'un gelecek vizyonunu incelemeye devam ediyoruz. 
+Ethereum yeni versiyona geçme süreci olan 'merge' konusunu gerek bu satırlarda gerekse blokzincir dünyasında detaylıca incelendi. Peki bundan sonrasında Ethreum geliştiricileri 'teknik olarak' neler planlıyorlar?  Bu yazımızda Ethereum'un gelecek vizyonunu inceliyoruz. 
 
 ### Ethereum nasıl bir gelecek planlıyor?
 
@@ -26,7 +26,7 @@ Bu hafta içinde olan meşhur birleşme. Birleşme denmesinin nedeni şu: Az ön
 
 #### The Surge (Sıçrama):
 
-The Surge , tamamen ikinci seviye çözümlerin ölçeklenebilmesi üzerine kurulu. 
+The Surge, tamamen ikinci seviye çözümlerin ölçeklenebilmesi üzerine kurulu. 
 
 Ethereum'un önümüzdeki dönemde artacak işlem talebini ikinci seviye çözümler karşılayacak.  Bu çözümler Ethereum ile sıkı-fıkı çalıştıkları için Ethereum'a ile aralarında çift yönlü bir bilgi akışları söz konusu. Onlarca çözümünün bilgi akışının olacağını düşünürsek, ileride Ethereum üzerindeki düğümler üzerindeki yük yine artmaya başlayacak. İşte böyle bir durumda yapılmakta olan birkaç geliştirme onaylayıcıları rahatlatacak. 
 
@@ -57,11 +57,13 @@ Son olarak ise merkeziyetsizlik için oldukça önemli yenilikler getiren The Sp
 
 Ethereum eski sisteminde madenciler blokları oluşturur ve diğer madencilere onaya sunarlardı, yani her iki işi de madenciler yapardı. Eth2 ile birlikte madencilerin yerini onaylayıcılar alacak ve iki işi yapmaya devam edecekler. Ancak dediğimiz gibi ileride kapasitenin çok artması gerektiği durumlarda blok oluşturmak için güçlü makineler gerekecek. İşte bu nedenle, Ethereum bir güçler ayrılığına gidecek. Özel amaçlı inşaatçı makineler blokları oluşturacak, onaylayıcı olan bir başka grup ise bunları onaylayacak. [^6] (Bu ayrıma PBS proposer-builder separation deniyor). 
 
-Burada önemli bir ayrıntı da şu. Blok oluşturanlar bazı işlemleri bloklarına almayarak sansüre kalkışabilirler.  Bunu önlemek için onaylayıcılar sansüre-dayanıklı listeler (Censorship resistance list) oluşturarak, bloklara girmeye uygun tüm işlemlerin bir listesinin yapacaklar. İnşaatçılar blokları oluştururken bu listeleri kullanmak zorunda kalacaklar. Yani, inşaatçılar emek ve güç yoğun ama işlemler üzerinde fazla bir söz hakkı olmayan oyuncular olacaklar. 
+Burada önemli bir ayrıntı da şu. Blok oluşturanlar bazı işlemleri bloklarına almayarak sansüre kalkışabilirler.  Bunu önlemek için onaylayıcılar sansüre-dayanıklı listeler (censorship resistance list kısaca crList) oluşturarak, bloklara girmeye uygun tüm işlemlerin bir listesinin yapacaklar. İnşaatçılar blokları oluştururken bu listeleri kullanmak zorunda kalacaklar. Yani, inşaatçılar emek ve güç yoğun ama işlemler üzerinde fazla bir söz hakkı olmayan oyuncular olacaklar. 
 
 
 ### Sonuç
 Ethereum, geçen hafta yaşadığımız merge sonrası geçmişte yaşadığı darboğazları yaşamamak ve ileride her tür uygulamanın ihtiyacı olan altyapı hizmetine yetebilecek kapasitesi getirebilmek için nasıl bir yol haritası izlemesi gerektiğini belirlemiş durumda. Bunlar, üzerinde kurulu ikinci seviye çözümlerin ölçeklenmesini sağlayacak The Surge, sistemi yürüten onaylayıcıların yükünü hafifleten The Verge, sistem üzerinde ayakbağı oluşturan geçmişi temizleyecek olan The Purge ve son olarak merkeziyetsizlik konusunda iyileştirmeler getiren The Splurge, olarak karşımıza çıkıyor. 
+
+Oldukça karmaşık sayılabilecek beş ayrı koldan (Merge neredeyse bitmiş olarak tanımlanabilir) yürüyen bu süreçte öncelik 'The Surge' kısmı ile Ethereum'un ölçeklendirmek. Burada 'sharding' bir numaralı öncelik. Sonrasında 'The Splurge' içindeki PBS yani blok üretici ile onaylayıcılarının (ve teklif edenlerin) ayrılması geliyor.   Bu ikisi çok önemli, zira en acil problemler olan ölçeklenme ve sansüre karşı dayanıklılık için bu iki geliştirme önemli. Ethereum geliştiricileri bu iki konuya öncelik verebilmek için diğer konuları (örneğin The Verge) geri plana atmaya razılar. 
 
 Bütün bu işlemlerin özünde, Ethereum'u ileride sansüre karşı koruyacak olan merkeziyetsizlik prensibinden vazgeçmeden, yüksek hacimli işlem sayılarını başarıyla işlemek var. Plan karmaşık görünse de aslında Ethereum geliştiricilerinin kafasında oldukça net. Gerçekleşmesi ise uzunca bir süre alacak. Önümüzdeki dönemde aşama aşama hayata geçmeye başladığını hep birlikte göreceğimizi umuyoruz. 
 
