@@ -1,6 +1,6 @@
-# Yazı II: Ethereum'un gelecek vizyonu ne?
+Bu yazımızda Ethereum'un uzun vadeli vizyonu ve bu vizyona ulaşabilmek için kendine çizdiği yol haritasına bakıyoruz.
 
-Ethereum yeni versiyona geçme süreci olan 'merge' konusunu gerek bu satırlarda gerekse blokzincir dünyasında detaylıca incelendi. Peki bundan sonrasında Ethreum geliştiricileri 'teknik olarak' neler planlıyorlar?  Bu yazımızda Ethereum'un gelecek vizyonunu inceliyoruz. 
+Ethereum yeni versiyona geçme süreci olan 'merge' konusunu gerek bu satırlarda gerekse blokzincir dünyasında detaylıca incelendi. Peki Ethereum geliştiricilerinin nihai planı ne ve buna ulaşabilmek için 'teknik olarak' neler planlıyorlar? Gelin sırayla göz atalım.
 
 ### Ethereum nasıl bir gelecek planlıyor?
 
