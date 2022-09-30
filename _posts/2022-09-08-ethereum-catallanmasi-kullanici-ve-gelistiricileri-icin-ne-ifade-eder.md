@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Olası bir Ethereum çatallaması kullanıcılara ne ifade eder?"
+title:  "Ethereum Çatallanması Kullanıcı ve Geliştiriciler İçin Ne Getirir?"
 date:   2022-09-07 17:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
@@ -56,9 +56,11 @@ Dolayısıyla şahsi görüşüm, sosyal konsensus sayesinde ikiye ayrılmaya gi
 ### Sonuç 
 OFAC tarafından getirilen yasaklamalar Ethereum dünyasında büyük tartışmalar başlattı. Böyle tartışmaların şimdiden yapılması önemli, zira kafayı devekuşu gibi kuma gömmenin bir faydası yok (küresel iklim konusunda olduğu gibi). Soruna çare bulunana kadar zorlu bir yoldan geçilmesi bu sırada ETH’nin değerinde ciddi dalgalanmalar olması muhtemel. Yine de bir çözüm bulunduktan sonra Ethereum ve kripto dünyasının bu olaydan çok daha güçlenerek çıkacağını görmemiz çok olası. İzleyip göreceğiz. 
 
+---
+
 *Not 1: Burada özellikle madenciler konusunda yer alan ve işlemleri önerenler ile onaylayanların ayrılmasına yönelik halihazırda tartışılan [bir öneri](https://ethresear.ch/t/proposer-block-builder-separation-friendly-fee-market-designs/9725) de bulunmakta*
 
-*Not 2: Bu yazı ilk olarak 31 Ağustos 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/ethereum-sansure-nasil-yanit-verecek/)*
+*Not 2: Bu yazı ilk olarak 8 Eylül 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/ethereum-catallanmasi-kullanicilari-nasil-etkileyebilir/)*
 
 *Not 3: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
