@@ -1,6 +1,18 @@
+---
+layout: post
+title:  "Ethereum'un Gelecek Vizyonu ve Yol Haritası"
+date:   2022-09-30 17:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
 Bu yazımızda Ethereum'un uzun vadeli vizyonu ve bu vizyona ulaşabilmek için kendine çizdiği yol haritasına bakıyoruz.
 
 Ethereum yeni versiyona geçme süreci olan 'merge' konusunu gerek bu satırlarda gerekse blokzincir dünyasında detaylıca incelendi. Peki Ethereum geliştiricilerinin nihai planı ne ve buna ulaşabilmek için 'teknik olarak' neler planlıyorlar? Gelin sırayla göz atalım.
+
+| ![fork](/assets/road-1579405_800.jpg)|
+|:--:| 
+| *Image by [NicStae](https://pixabay.com/users/nicstae-3062126/) from [Pixabay](https://pixabay.com/)*|
 
 ### Ethereum nasıl bir gelecek planlıyor?
 
@@ -22,7 +34,7 @@ Bu vizyonu gerçekleştirebilmek için paralel olarak devam eden beş teknik gel
 
 #### The Merge (Birleşme): 
 
-Bu hafta içinde olan meşhur birleşme. Birleşme denmesinin nedeni şu: Az önce bahsettiğimiz, işlemleri ikinci seviyeye yüklemenin bir parçası olarak, Ethereum kendisini iki katmana ayırıyor. İşlemleri gerçekleştiren 'execution' katmanı ve işlemleri onaylayan ve zincirin uzlaşı içinde ilerlemesini sağlayan 'consensus' katmanı. Execution katmanı bildiğimiz şu zamana kadar kullandığımız Ethereum aslında. Consensus katmanı ise PoS ile birlikte 2020 yılında hayata geçen 'yeni' Ethereum diğer adıyla eth2. Merge ile birlikte Execution katmanında bulunan PoW yok ediliyor ve bu katman eth2'de altında 'birleştiriliyor'. 
+Bu hafta içinde olan meşhur birleşme. Birleşme denmesinin nedeni şu: Az önce bahsettiğimiz, işlemleri ikinci seviyeye yüklemenin bir parçası olarak, Ethereum kendisini iki katmana ayırıyor. İşlemleri gerçekleştiren 'execution' katmanı ve işlemleri onaylayan ve zincirin uzlaşı içinde ilerlemesini sağlayan 'consensus' katmanı. Execution katmanı bildiğimiz şu zamana kadar kullandığımız Ethereum aslında. Consensus katmanı ise PoS ile birlikte 2020 yılında hayata geçen 'yeni' Ethereum diğer adıyla eth2. Merge ile birlikte Execution katmanında bulunan PoW yok ediliyor ve bu katman eth2 altında 'birleştiriliyor'. 
 
 #### The Surge (Sıçrama):
 
@@ -89,3 +101,13 @@ Bütün bu işlemlerin özünde, Ethereum'u ileride sansüre karşı koruyacak o
 [^6]: Burada inşaatçı olan ağır işçi oyuncular yine tüm mevcut durumu almak zorundalar ama onlar zaten güçlü makinelere sahip oldukları için bu büyük bir problem yaratmayacak. Burada önemli olan merkeziyetsiz onaylayıcıların üzerindeki yükü olabildiğince azaltmak. Burada bir diğer nokta da, içeriye alınan işlemlere ait mevcut durumların Verkle tree denen daha verimli bir yöntem ile bloğa aktarılması.
 
 [^7]: Burada, blokları oluşturan inşaatçılar, içeri bir an önce girmek isteyen kullanıcılardan 'bahşiş' alabilecekler. Bunun dışında, şu anda da olan ve MEV (miner-extractable-value) denen işlemlerin öncelik sırasında oluşan arbitraj fırsatları da bu inşaatçılar tarafından alınacak. Bunun karşılığında bu inşaatçılar, oluşturdukları bloklar kabul edilsin diye kazandıkları paranın bir kısmını onaylayıcılara verecekler. Düzgün çalışan bir piyasada, kullanıcıların verdiği ücretlerin ve MEV'lerin büyük kısmının inşaatçılar tarafından blokları kabul edilmesini sağlamak için onaylayıcılara verilmesi beklenir. Bu da, onaylayıcıların yani ETH stake edenlerin kazandıkları paranın (faiz gelirinin üzerine) artması anlamına gelir.
+
+
+*Not 1: Burada özellikle madenciler konusunda yer alan ve işlemleri önerenler ile onaylayanların ayrılmasına yönelik halihazırda tartışılan [bir öneri](https://ethresear.ch/t/proposer-block-builder-separation-friendly-fee-market-designs/9725) de bulunmakta*
+
+*Not 2: Bu yazı ilk olarak 30 Eylül 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/ethereumun-vizyonu-ve-yol-haritasi/)*
+
+*Not 3: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
+
