@@ -1,3 +1,5 @@
+Bu yazımızda Web3'ün bize sunmayı vadettiği ilginç kullanım alanlarından bilgi paylaşımı alanında kurulu Golden Protocol'e bakacağız. 
+
 Bilgi çağında yaşadığımız şu günlerde, biz bireylerin en büyük problemlerinden biri bilgiye ulaşım. Yanlış anlaşılmasın lütfen, konu bilgi eksikliği değil aslında, asıl büyük problemimiz bilgi kirliliği içinde 'doğru' bilgiye ulaşabilme. 
 
 ### Doğru bilgiye nasıl ulaşılır?
