@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Doğru Bilgiye Ulaşmada Topluluk Gücü Etkili Olabilir mi?"
+date:   2022-10-07 17:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
 Bu yazımızda Web3'ün bize sunmayı vadettiği ilginç kullanım alanlarından bilgi paylaşımı alanında kurulu Golden Protocol'e bakacağız. 
 
 Bilgi çağında yaşadığımız şu günlerde, biz bireylerin en büyük problemlerinden biri bilgiye ulaşım. Yanlış anlaşılmasın lütfen, konu bilgi eksikliği değil aslında, asıl büyük problemimiz bilgi kirliliği içinde 'doğru' bilgiye ulaşabilme. 
@@ -33,6 +41,11 @@ Golden protocol, merkeziyetsiz, izin gerektirmeyen ve doğru olduğu kabul edilm
 ### Ne tip bir bilgiden bahsediyoruz?
 
 Platform bilgiyi üçleme (ingilizcesi triplet) şeklinde tutuyor. Ne demek bu? Bilginin en atomik yani basit hali olarak üçlü bir tanım kullanıyor. Bir örnek versek? Örneğin  'Kim neyin nesi' sorusuna yanıt olarak 'Elon Musk (kim), SpaceX (neyin) CEO'su (nesi)' şeklinde üç farklı bilgiyi bağlama dizini. (Üçlemeler en temel bilgi toplama aracı ve yukarıda verdiğimiz örnek dışında daha pek çok çeşidi var). Daha sonra bu bilgiyi Elon Musk'ın diğer görevleri, SpaceX'in içinde bulunduğu sektör ve sahip olduğu ürünleri ile diğer biligilere bağlıyor. Bu sayede, standardize edilmiş 10 milyardan fazla varlığın  haritasını çıkarıp bu varlıklar ile ilgili gerçek kabul edilen bilgileri bir araya getiriyor. 
+
+| ![network](/assets/road-1579405_800.jpg)|
+|:--:| 
+| *Image by [MJH Shikder](https://pixabay.com/users/21129657-21129657/) from [Pixabay](https://pixabay.com/)*|
+
 
 ### Sistem nasıl çalışıyor?
 Sistemin çalışması aslında o kadar da karmaşık değil. Platformu kullanan üç aktör var. İçerik sağlayıcı ('submitter'), onaylayıcı ('validator') ve müşteriler. 
