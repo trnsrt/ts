@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Doğru Bilgiye Ulaşmada Topluluk Gücü Etkili Olabilir mi?"
+title:  "Doğru bilgiye ulaşmada Wikipedia'ya Web3'den bir rakip: Golden Protocol"
 date:   2022-10-07 17:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
