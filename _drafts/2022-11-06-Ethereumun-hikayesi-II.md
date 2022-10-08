@@ -42,6 +42,10 @@ DeFi'nin açtığı yoldan daha sonra NFT'lerin gelmeye başladığını gördü
 
 DeFi ve NFT'ler üzerindeki yoğun talep, teknik olarak Ethereum üzerinde ciddi bir baskı oluşturmaya başladı. Eskiden bir dolara geldiğinde 'çok pahalı' olarak adlandırılan işlem ücretlerinin bir anda 100 ABD Dolarını aştığı dönemler yaşamaya başladık. 
 
+### Arkası yarın
+
+Ethereum'un yaşadığı kış döneminde yoğun talep olduğunda neler yaşandığı ile ilgili ileriki dönemin adeta bir provası yaşanmıştı. Yazı diziminin bir sonraki bölümünde Ethereum'un ileride karşılaşacağı sorunları çözmeye yönelik üzerinde çalıştığı teknik gelişmelere değineceğiz. 
+
 ---
 
 *Not 1: Bu yazı ilk olarak 6 Kasım 2022'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı]()*
