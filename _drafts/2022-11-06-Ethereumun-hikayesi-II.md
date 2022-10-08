@@ -16,6 +16,10 @@ Bu olay sonrasında, Ethereum için ikinci büyük gelişme, 2017 yılında yaş
 
 Farklı farklı vizyonlara sahip pek çok proje, 2017 yılı içinde görücüye çıktı. Eskinin teknoloji dünyasında yeni projelere sadece girişim sermayesi fonlarının girmesi mümkün iken, ICO'lar ile toplumun her kesiminin bu yatırımlara erken aşamada dahil edilmesi sağlandı. Bu da tahmin edilemez bir ilgi yarattı. 
 
+| ![ethereum_2](/assets/ethereum-6928106_800.jpg)|
+|:--:| 
+| *Image by [Satheesh Sankaran](https://pixabay.com/users/satheeshsankaran-11196627/) from [Pixabay](https://pixabay.com/)*|
+
 ICO'lara girmek isteyen yatırımcılar, ödemeleri ETH ile yapacakları için, ETH'ye inanılmaz bir talep doğdu. Öyle ki, 2017 yılı başı 8 ABD Doları oları olan bir ETH'nin fiyatı sene sonunda 774 ABD Dolarına, bundan sadece iki hafta sonra 13 Ocak'ta 1448 ABD Dolarına çıktı. 
 
 Sonrasında ise piyasalarda yaşanan soğuma sonrası, 2020 yılının Mart ayına kadar süren bir kış sezonu başladı. 2017 yılında topladıkları ETH'leri, faaliyetlerini devam ettirebilmek için satmak zorunda kalan girişimler nedeniyle ETH'nin değeri Nisan 2020'de 117 ABD Dolarına kadar geriledi. 
