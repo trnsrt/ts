@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "Ethereum'un Hikayesi - 1"
+date:   2022-10-10 08:47:56 +0300
+categories: Genel
+tags: Yazılar, Web3, DeFi, DeFi'ye Giriş
+---
+
+
 Ethereum Bitcoin sonrası ilginç bir süreçten geçiyor. Kısaca neler yaşandığını ve bundan sonrasında ağı nelerin beklediğine bakalım: 
 
 ### Kısa bir geçmiş
@@ -5,6 +14,10 @@ Ethereum Bitcoin sonrası ilginç bir süreçten geçiyor. Kısaca neler yaşand
 2015 yılında bir grup gönüllü tarafından hayata geçirilen Ethereum'un temel felsefesi, blokzincir teknolojisinin dijital bir para olarak ortaya çıkan Bitcoin'in çok daha ötesinde kullanım alanaları olabileceğinden yola çıkar. 
 
 Dolayısıyla Ethereum'u telefonlarımızdaki Android ya da iOS işletim sistemlerinin geniş ölçekte kullanılan daha gelişmiş bir versiyonu olarak düşünebiliriz: Üstüne dileyen herkesin özgürce program (uygulama) kurabildiği bir dünya bilgisayarı. 
+
+| ![ethereum_1](/assets/cryptocurrency-3409658_800.jpg)|
+|:--:| 
+| *Image by [WorldSpectrum](https://pixabay.com/users/worldspectrum-7691421/) from [Pixabay](https://pixabay.com/)*|
 
 Çıkışından günümüze Ethereum'un yol haritasında pek çok farklı mihenk taşı var. Gelin onlara da hızlıca bakalım. 
 
@@ -24,4 +37,12 @@ Diğer grup ise yollarına Ethereum Classic (ETC) olarak devam ettiler ancak ço
 
 ### Arkası yarın
 Yazı dizimizin bundan sonraki bölümlerinde 2017 Şubat ayından 2020 Nisan ayına kadar süren kış uykusunu, CryptoKitties olayını, DeFi ve NFT'nin yükselişini ve diğer teknik geliştirmelere göz atacağız. 
+
+---
+
+*Not 1: Bu yazı ilk olarak 10 Ekim 2022'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı]()*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.* 
 
