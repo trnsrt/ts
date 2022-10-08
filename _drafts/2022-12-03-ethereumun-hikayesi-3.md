@@ -14,6 +14,10 @@ Yazı dizimizin ilk bölümünde Ethereum'un ilk döneminde yaşadığı DAO ola
 
 Ethereum üzerindeki yüksek işlem ücretleri, aslında tamamen talepten ve sistemin kısıtlı olması nedeniyle oluşan bir durumdu. Sistem, müzayede tekniği ile çalışıyor ve  yoğun talebi karşılamak için daha yüksek bedel ödemeye razı olanın işlemini öne alıyordu. Ancak burada ödenen ücretler sistemi yürütmekle sorumlu olan madencilerin cebine gidiyordu. 
 
+| ![ethereum_3](/assets/ethereum-7107978_800.jpg)|
+|:--:| 
+| *Image by [Az1975](https://pixabay.com/users/az1975-18732333/) from [Pixabay](https://pixabay.com/)*|
+
 Öte yandan yüksek işlem ücretlerinin bir başka nedeni, talebin ne zaman oluşacağının bilinmemesi, ve ani taleplerde (örneğin bir NFT koleksiyonunun piyasaya çıkması gibi) işlem ücretlerinin çok dengesizlik göstermesi idi. 
 
 İşte bir yandan sistem sıkıntısını madencileri haddinden fazla zengin etmesi, bir yandan da işlem ücretlerini daha öngörülebilir hale getirebilmek amacıyla Ethereum geliştiricileri 4 Ağustos 2021 tarihinde yeni bir güncelleme yaptılar. Bu güncelleme ile birlikte, ödenen yüksek işlem ücretleri madencilere verilmek yerine yakılmaya başlandı. Madenciler ise kendilerine verilen bahşişler ile yetinmek zorunda kaldılar. 
