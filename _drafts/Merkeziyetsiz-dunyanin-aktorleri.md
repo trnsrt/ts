@@ -2,6 +2,11 @@ Yeni merkeziyetsiz dünyanın oyuncuları kimler?
 
 Bu yazımızda merkeziyetsiz dünyanın gelişmesi ile birlikte ortaya çıkan ve hayatımıza giren yeni oluşumlardan bahsedeceğiz.
 
+
+| ![sky](/assets/sky-5445739_800.jpg)|
+|:--:| 
+| *Image by [Ирина Ирина](https://pixabay.com/users/iira116-7776369/) from [Pixabay](https://pixabay.com/)*|
+
 Bu satırlarda bir süredir merkeziyetsiz sistemler üzerinde yazılar yayınlanıyor. Bu yeni dünyaya Web3 diyenler çoğunlukta. Genelde 'Nedir Web3?' Sorusunu daha rahat anlaşılması için Web2 diye adlandırılan fiziki dünyanın aktörleri ile karşılaştırma yaparak cevaplamayı tercih ediyorum. Gelin bir örnek ile Web3 dünyasına gidişi anlamaya çalışalım:
 
 Fiziki dünyamızda, bireyler çalışır, para kazanır, bu parayı ihtiyaç duydukları ya da beğendikleri varlıkları satın alarak ya da iyi vakit geçirecekleri sosyal ilişkiler için harcarlar. Bir taraftan da ihtiyaç fazlası parayı daha sonra kullanmak üzere değerlendirirler. Onlara ihtiyaç duydukları hizmet ya da ürünler şirketler tarafından sağlanır. Şirketler yaptıkları yatırım sonrası insanları çalıştırarak maaş öderler ve bu şekilde döngü tamamlanır. Bütün bu ekonomik ve sosyal ilişkileri yürütmek için kullanılan parayı merkez bankaları basar, yapılan işlemlerin parasal karşılığını çözmek için ise finans kurumları kullanılır (kredi, mevduat, maaş ödemesi vb gibi). 
@@ -57,8 +62,6 @@ DAO, dijital dünyada herhangi bir misyonu gerçekleştirmek amacıyla bir araya
 Özellikle Web3 içinde en gelişmiş alan olan DeFi'de DAO'ların çok ciddi bir yer kapladığını görüyoruz. Bu da çok normal. Bu alanda hizmet vermek için kurulan girişimler genelde merkezi küçük bir ekip tarafından kuruluyorlar. Sonrasında zaman geçtikçe, proje olgunlaştıkça merkeziyetsizliğe doğru yol alıyorlar. Bunun da en önemli parçası yönetimlerini geniş bir alana yaymak. Burada da genelde DAO yapısı tercih ediliyor. Zira bu sayede bulundukları dünyada daha güvenilir hale geliyorlar, hem de aslında bir anlamda regülasyonlarla kaçınıyorlar. 
 
 ## Sonuç: Daha yolun başındayız 
-
----
 
 Merkeziyetsiz dünya henüz oluşma aşamasında. Bu dünyanın aktörleri yavaş yavaş ortaya çıkmaya başlıyor. Şu ana kadar ön plana çıkanlar sırasıyla, kriptoparalar, DeFi yani merkeziyetsiz finans, NFT'ler, metaverse ve DAO'lar oldular. Kim bilir önümüzdeki dönemlerde başka hangi aktörler daha bu sahnede yerini alacak (örneğin dijital kimlik ileride önemini çok daha artıracak). 
 
