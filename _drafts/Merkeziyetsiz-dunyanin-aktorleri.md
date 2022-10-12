@@ -1,7 +1,6 @@
 Yeni merkeziyetsiz dünyanın oyuncuları kimler?
 
-Bu yazımızda merkeziyetsiz dünyanın gelişmesi ile birlikte ortaya çıkan ve hayatımıza giren yeni oluşumlardan bahsedeceğiz.
-
+Bu yazımızda merkeziyetsiz dünyanın gelişmesi ile birlikte ortaya çıkan ve hayatımıza yavaş yavaş girmeye başlayan yeni oluşumlardan bahsedeceğiz.
 
 | ![sky](/assets/sky-5445739_800.jpg)|
 |:--:| 
