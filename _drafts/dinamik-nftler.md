@@ -1,4 +1,3 @@
-Dinamik NFT'ler
 Bu yazımızda adını gelecekte daha çok duyacağımız farklı bir NFT çeşidi olan dinamik NFT'lerden (dNFT) bahsedeceğiz. 
 
 Dijital dünyanın fiziksel dünyaya göre temel farklarından biri, bir ve sıfırlardan oluşuyor olması. Bu da bize burada oluşturulan her tür objenin daha sonra değiştirilebilir ya da çoklanabilir olması özelliğini sağlıyor. Bu özellik bir yandan avantaj bir yandan ise dezavantaj getirmekte. Avantajı, dijital varlıklara inanılmaz bir esneklik sağlaması. Dezavantaj ise dijital varlığın fiziki bir objenin aksine sınırsız sayıda üretilebilmesinin (çoklanmasının) o varlığa değer ifade etme ya da saklama konusunda sıkıntı yaşatması. 
