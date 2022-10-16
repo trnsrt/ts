@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Dinamik NFT'ler"
+date:   2022-10-21 17:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
 Bu yazımızda adını gelecekte daha çok duyacağımız farklı bir NFT çeşidi olan dinamik NFT'lerden (dNFT) bahsedeceğiz. 
 
 Dijital dünyanın fiziksel dünyaya göre temel farklarından biri, bir ve sıfırlardan oluşuyor olması. Bu da bize burada oluşturulan her tür objenin daha sonra değiştirilebilir ya da çoklanabilir olması özelliğini sağlıyor. Bu özellik bir yandan avantaj bir yandan ise dezavantaj getirmekte. Avantajı, dijital varlıklara inanılmaz bir esneklik sağlaması. Dezavantaj ise dijital varlığın fiziki bir objenin aksine sınırsız sayıda üretilebilmesinin (çoklanmasının) o varlığa değer ifade etme ya da saklama konusunda sıkıntı yaşatması. 
@@ -7,6 +15,10 @@ Blokzincirin dijital dünyaya getirdiği temel özelliklerden biri işte bu diji
 Buraya kadar her şey gayet güzel ilerliyor. Artık NFT'ler ile sınırlı sayıda dijital varlık oluşturmak ve bunları blokzincire koyarak sonsuza kadar aynı formda tutmak mümkün.
 
 Peki ya bu NFT'yi bir süre değiştirmek istersek? Ya da farklı ihtiyaçlar nedeniyle NFT'yi değiştirme zorunluluğu doğarsa ne olacak? Mümkün mü bu? Dijital dünyanın en önemli yanı esneklik demiştik. Dolayısıyla bu bahsettiğimiz özellik tabii ki bu dünyada mümkün. Nasıl olabilir? Gelin sizi dinamik NFT'ler ile tanıştıralım.
+
+| ![before_after](/assets/photo-editing-g8b0d4d572_800.jpg)|
+|:--:| 
+| *Image by [Joepet Macariola](https://pixabay.com/users/photoediting-353100/) from [Pixabay](https://pixabay.com/)*|
 
 ### Dinamik NFT'ler
 
