@@ -1,5 +1,10 @@
-Yeni merkeziyetsiz dünyanın oyuncuları kimler?
-
+---
+layout: post
+title:  "Merkeziyetsiz dünyanın Öne Çıkan Aktörleri"
+date:   2022-10-17 12:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi, CoindeskTR
+---
 Bu yazımızda merkeziyetsiz dünyanın gelişmesi ile birlikte ortaya çıkan ve hayatımıza yavaş yavaş girmeye başlayan yeni oluşumlardan bahsedeceğiz.
 
 | ![sky](/assets/sky-5445739_800.jpg)|
@@ -71,3 +76,9 @@ Tekrar edelim, bu dünya henüz emekleme dönemini yaşıyor. Bu dünyanın şim
 [^1]: Aslına bakarsanız, yeni bir kavram sayılmaz, özellikle internet gibi her tür gelişmenin çok hızlı yaşandığı bir ortamda. Kamuoyunun radarına düşmesi Ethereum’un 2016 yılında yaşadığı [DAO Hack olayı](https://www.coindesk.com/learn/2016/06/25/understanding-the-dao-attack/) ile olmasına rağmen sonrasında DeFi alanında pek çok girişim (MakerDAO, CurveDAO vs) bu şekilde kuruldu.
 
 [^2]: Basitleştirmek için bireylerin diyoruz ama bir araya gelen oyuncular başka topluluklar (başka DAO'lar) hatta şirketler ya da finans kurumları olabilir. Örneğin MakerDAO forumlarına başvuru yapan Societe General ile ilgili yazımıza [şuradan](/genel/2021/10/21/defi-ile-klasik-finansin-yakinlasmalari.html) ulaşabilirsiniz.
+
+*Not 1: Bu yazı ilk olarak 17 Ekim 2022'de [Coindesk Türkiye](https://www.coindeskturkiye.com/))'de [yayınlandı](https://www.coindeskturkiye.com/yazarlar/turan-sert/merkeziyetsiz-dunyanin-one-cikan-aktorleri-kimler-2351)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
