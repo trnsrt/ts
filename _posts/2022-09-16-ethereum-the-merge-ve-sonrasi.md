@@ -17,7 +17,7 @@ Değişimin temel nedeni, Ethereum topluluğunun Bitcoin ile birlikte ortaya ç�
 
 'Merge' ile birlikte, bugüne kadar kullanılan Ethereum sisteminin PoW kısmı atılıyor ve bu sistem Aralık 2020'den beri aktif olarak PoS'u kullanan  yeni Ethereum'un içine katılıyor. 
 
-| ![splash](/assets/puzzle-g9d8d2944d_800)|
+| ![splash](/assets/puzzle-g9d8d2944d_800.jpg)|
 |:--:| 
 | *Image by [DPIRO](https://pixabay.com/users/piro4d-2707530/) from [Pixabay](https://pixabay.com/)*|
 
