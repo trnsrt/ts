@@ -14,8 +14,7 @@ tags: videos Etkinlikler
 &nbsp;
 
 <table><tr><td style="width:50%">
-<img src="/assets/
-bloomberght_kriptopara_221020_yayin.jpg">
+<img src="/assets/bloomberght_kriptopara_221020_yayin.jpg">
 </td>
 <td style="width:50%">
 <iframe width="224" height="126" src="https://www.youtube.com/embed/c-e_F5AF718" frameborder="0" allowfullscreen></iframe></td></tr>
