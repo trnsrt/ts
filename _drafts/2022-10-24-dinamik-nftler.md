@@ -16,6 +16,10 @@ Buraya kadar her şey gayet güzel ilerliyor. Artık NFT'ler ile sınırlı say�
 
 Peki ya bu NFT'yi bir süre değiştirmek istersek? Ya da farklı ihtiyaçlar nedeniyle NFT'yi değiştirme zorunluluğu doğarsa ne olacak? Mümkün mü bu? Dijital dünyanın en önemli yanı esneklik demiştik. Dolayısıyla bu bahsettiğimiz özellik tabii ki bu dünyada mümkün. Nasıl olabilir? Gelin sizi dinamik NFT'ler ile tanıştıralım.
 
+| ![walk](/assets/template-3379485_800.jpg)|
+|:--:| 
+| *Image by [Markus Distelrath](https://pixabay.com/users/distelapparath-2726923/) from [Pixabay](https://pixabay.com/)*|
+
 ### Dinamik NFT'ler
 
 Dinamik NFT'ler (kısaca dNFT olarak geçiyor), blokzincire yazıldıktan sonra özelliklerinin değiştirilebildiği NFT'lere deniyor. Bu şimdiye kadar alışık olduğumuz statik NFT kavramından bir parça farklı. Önce statik NFT'lere bir göz atalım: 
