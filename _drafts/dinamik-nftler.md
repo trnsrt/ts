@@ -8,7 +8,7 @@ tags: Yazılar, DeFi
 
 Bu yazımızda adını gelecekte daha çok duyacağımız farklı bir NFT çeşidi olan dinamik NFT'lerden (dNFT) bahsedeceğiz. 
 
-Dijital dünyanın fiziksel dünyaya göre temel farklarından biri, bir ve sıfırlardan oluşuyor olması. Bu da bize burada oluşturulan her tür objenin daha sonra değiştirilebilir ya da çoklanabilir olması özelliğini sağlıyor. Bu özellik bir yandan avantaj bir yandan ise dezavantaj getirmekte. Avantajı, dijital varlıklara inanılmaz bir esneklik sağlaması. Dezavantaj ise dijital varlığın fiziki bir objenin aksine sınırsız sayıda üretilebilmesinin (çoklanmasının) o varlığa değer ifade etme ya da saklama konusunda sıkıntı yaşatması. 
+Dijital dünyanın fiziksel dünyaya göre temel farklarından biri, bir ve sıfırlardan oluşuyor olması. Bu da bize oluşturulan her tür objenin daha sonra değiştirilebilir ya da çoklanabilir olması özelliğini sağlıyor. Bu özellik bir yandan avantaj bir yandan ise dezavantaj getirmekte. Avantajı, dijital varlıklara inanılmaz bir esneklik sağlaması. Dezavantaj ise dijital varlığın fiziki bir objenin aksine sınırsız sayıda üretilebilmesinin (çoklanmasının) o varlığa değer ifade etme ya da saklama konusunda sıkıntı yaşatması. 
 
 Blokzincirin dijital dünyaya getirdiği temel özelliklerden biri işte bu dijital varlıkları sınırlı hale getirebilmesi. Nasıl sağlıyor bunu? Herkese açık bir defteri olarak, üretilen varlığın adedini ve özelliklerini bir daha değiştirilemeyecek şekilde kayıt ediyor ve o şekilde saklıyor. İşte bu özellik, dijital varlıkların fiziksel olanlar ile aynı klasmana tabi tutulmasını sağlayan müthiş bir yenilik olarak hayatımıza giriyor.
 
@@ -24,7 +24,7 @@ Peki ya bu NFT'yi bir süre değiştirmek istersek? Ya da farklı ihtiyaçlar ne
 
 Dinamik NFT'ler (kısaca dNFT olarak geçiyor), blokzincire yazıldıktan sonra özelliklerinin değiştirilebildiği NFT'lere deniyor. Bu şimdiye kadar alışık olduğumuz statik NFT kavramından bir parça farklı. Önce statik NFT'lere bir göz atalım: 
 
-NFT dediğimiz aslında ufak bir kod parçası. Bu kod parçası üzerinde metadata denen bilgiler var. Bu kod parçası, NFT'nin kendine ait tekil bir numarasını ve işaret ettiği varlığın (bu örneğin içinde bir resim barındıran bir dosya olabilir) nerede saklandığını söylüyor.  İşte en basit halinde, statik NFT'de bu kod parçası bir akıllı kontrat olarak blokzincire yazılıyor ve barındırdığı tüm bilgiler değiştirilemez şekilde orada o şekilde kalıyor. 
+NFT dediğimiz aslında ufak bir kod parçası. Bu kod parçası üzerinde metadata denen bilgiler var. Bu kod parçası, NFT'nin kendine ait tekil bir numarasını ve işaret ettiği varlığın (örneğin içinde resim barındıran bir dosya) nerede saklandığını söylüyor.  İşte en basit halinde, statik NFT'de bu kod parçası bir akıllı kontrat olarak blokzincire yazılıyor ve barındırdığı tüm bilgiler değiştirilemez şekilde orada o şekilde kalıyor. 
 
 Dinamik NFT'lerde ise, bu kod parçasına farklı koşullar ve parametreler eklenerek blokzincir üzerinde sonradan değiştirilebilir hale getiriliyor. İyi de tam olarak ne işe yarayacak bu özellik? Birkaç örnek verirsek dinamik NFT'lerin hayatımıza neler katacağı daha iyi anlaşılabilir:
 
@@ -36,15 +36,15 @@ Benzer faydalar sadece dijital alanda yer alan girişimler için de geçerli. Ö
 
 ### Nasıl oluyor dinamik NFT'ler
 
-Aslına bakarsanız, dinamik NFT öyle süper yeni bir teknoloji değil, sadece kullanım alanı olarak henüz fazla duymadık onları. Akıllı kontratlar ile oluşturulan ürünlerin değiştirilebilir olması DeFi'nin (merkeziyetsiz finansın) ilk günlerinden beri hayatımızda. Gerek akıllı kontratların 'güncellenebilir' olması gerekse içine yeni bilgilerin yazılması finans dünyası uygulamalarında sık rastlanan bir durum. NFT'ler tarafında ise genel olarak statik NFT'lerin daha yaygın olduğunu görüyoruz ama dediğimiz gibi ileride bunun değişmesi çok olası. 
+Aslına bakarsanız, dinamik NFT öyle süper yeni bir teknoloji değil, sadece kullanım alanı olarak henüz fazla duymadık onları. Akıllı kontratlar ile oluşturulan ürünlerin değiştirilebilme özelliği DeFi'nin (merkeziyetsiz finansın) ilk günlerinden beri hayatımızda. Gerek akıllı kontratların 'güncellenebilir' olması gerekse içine yeni bilgilerin yazılması finans dünyası uygulamalarında sık rastlanan bir durum. NFT'ler tarafında ise genel olarak statik NFT'lerin daha yaygın olduğunu görüyoruz ama dediğimiz gibi ileride bunun değişmesi çok olası. 
 
-Burada en kritik nokta, özellikle kontratın çalıştırılması sırasında ihtiyaç duyulacak bilginin buraya nasıl sağlanacağı. Zira akıllı kontratlar kod parçacıkları olarak dış dünya ile ilişki kurabilen yapılar değil. Onlara gerek blokzincir üzerinden gerekse dış dünyadan bilgi gerekli, ki NFT üzerideki değişimleri yansıtabilsinler. 
+Burada en kritik nokta, özellikle kontratın çalıştırılması sırasında ihtiyaç duyulacak bilginin buraya nasıl sağlanacağı. Zira akıllı kontratlar kod parçacıkları olarak dış dünya ile ilişki kurabilen yapılar değil. Onlara gerek blokzincir üzerinden gerekse dış dünyadan bilgi gerekli, ki NFT üzerindeki değişimleri yansıtabilsinler. 
 
 Orada da bilgi sağlayıcı (oracle Türkçesiyle kahin) olarak adlandırılan servisler devreye giriyor. Aynı DeFi ürünlerinde olduğu gibi, dış dünyadan ihtiyaç duyulan bilgiler oracle tarafından akıllı kontrata aktarılıyor. Yapılan satın alma ya da kullanımlar sonucu kullanıcının bir üst seviyeye çıkacağı bilgisi dış dünyadan oracle aracılığı ile akıllı kontrata aktarıldığı noktada gerekli değişikler uygulamaya konabiliyor. 
 
 ### Peki statik mi dinamik mi?
 
-Burada üreticiler için temel soru NFT üretilirken statik mi yoksa dinamik bir model seçileceği. Orada da aslına bakarsanız NFT'den ne beklediğinize vereceğiniz cevap size doğru yolu gösterecek. 
+Burada üreticiler için temel soru NFT üretilirken statik mi yoksa dinamik bir model mi seçileceği. Orada da aslına bakarsanız NFT'den ne beklediğinize vereceğiniz cevap size doğru yolu gösterecek. 
 
 Eğer, bir sanat eseri üretiyorsanız, genelde statik model seçmeniz uygun. Eserinizi satın alanlar doğal olarak yarın öbür gün içeriğinin değişmeyeceğini, dolayısıyla eser üzerinde tam sahiplik hakları olacağını beklerler. Bu güvenceyi de onlara ancak statik NFT'ler verebilir.
 
