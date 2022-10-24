@@ -26,9 +26,19 @@ Programdan bir kesit
 <td style="width:50%; vertical-align:top">
 <p>Bu da yayının YouTube linki.</p>
 </td></tr> 
-  <tr><td style="width:50%">
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4gSOZtNNe8hqDbzH1Ea5VA?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+
+  <tr><td style="width:50%">
+</td>
+<td style="width:50%">
+<tr><td style="width:50%; vertical-align:top">
+<p>
+</p></td>
+<td style="width:50%; vertical-align:top">
+</td></tr> 
+  
+<tr><td style="width:50%">
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4gSOZtNNe8hqDbzH1Ea5VA?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </td>
 <td style="width:50%">
 <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/22f845be-a3dd-499d-bf3c-e3e22313d876?dark=false"></iframe></iframe></td>
