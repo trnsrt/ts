@@ -6,7 +6,7 @@ categories: Genel
 tags: videos Etkinlikler
 ---
 
-<img align="left" src="/assets/defitalks-podcast-1.jpg" style="width:40%; padding-right:20px"> Coindesk Türkiye tarafından yayınlanan ve [Baki Er](https://twitter.com/0xbaki) (aka [@DeFiLibrary](https://twitter.com/LibraryDefi) hazırlanan '[Bakı Er ile DeFi Talks](https://www.coindeskturkiye.com/podcast/defitalks)' podcast serisinde, sevgili Baki bana ilk bölümde yer vermiş. İlk bölüm olduğu için DeFi nedir, Merkeziyetsiz Finans'ın temellerini neler oluşturuyor sorularına yanıt aradık birlikte. Baki ile her konuşma çok zevkli. Eğer bir yarım saatinizi ayırmak isterseniz gerek Spotify gerekse tüm podcast uygulamalarından dinleyebileceğiniz linkler aşağıda. 
+<img align="left" src="/assets/defitalks-podcast-1.jpg" style="width:40%; padding-right:20px"> [Coindesk Türkiye](https://www.coindeskturkiye.com/) tarafından yayınlanan ve [Baki Er](https://twitter.com/0xbaki) (aka [@DeFiLibrary](https://twitter.com/LibraryDefi) hazırlanan '[Baki Er ile DeFi Talks](https://www.coindeskturkiye.com/podcast/defitalks)' podcast serisinde, sevgili Baki bana ilk bölümde yer vermiş. İlk bölüm olduğu için DeFi nedir, Merkeziyetsiz Finans'ın temellerini neler oluşturuyor sorularına yanıt aradık birlikte. Baki ile her konuşma çok zevkli. Eğer bir yarım saatinizi ayırmak isterseniz gerek Spotify gerekse tüm podcast uygulamalarından dinleyebileceğiniz linkler aşağıda. 
 
 &nbsp;
 
