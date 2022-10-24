@@ -35,6 +35,6 @@ We will continue to explore the benefits of NFT in our future posts...
 
 
 ---
-*This piece was [first published](https://medium.com/me/stats/post/36e41545f5c3) in [BlockchainIST Center](https://medium.com/blockchainist-center) on October 24th, 2022.*
+*This piece was [first published](https://medium.com/bcistcenter/benefits-of-nfts-iii-a8c996b8a7) in [BlockchainIST Center](https://medium.com/blockchainist-center) on October 24th, 2022.*
 
 *None of the views expressed in this article should be considered as investment advice*
