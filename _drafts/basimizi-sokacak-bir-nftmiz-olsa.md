@@ -6,6 +6,11 @@ Hep söylediğimiz gibi, blokzincir benzeri bir teknolojinin başarılı olması
 
 Geçtiğimiz hafta medyaya düşen, ABD'de bir evin [NFT olarak](https://etherscan.io/nft/0xF928d6285B8a4f9ac5A640ae598D7399C331cea7/0) Ethereum üzerinde [satılması haberi](https://etherscan.io/tx/0xa7b2e89bf6d5cc8e605c1cf8823e532f87790d1816f7f98df77127cc98a1021f), nihayet bu alanda ekilen tohumların yavaş yavaş uç vermeye başladığının bir göstergesi olabilir. Gelin gerçekleşen bu işlemin detayını, taraflarını ve sistemin işleyişini birlikte gözden geçirelim. 
 
+
+| ![nft_city](/assets/iphone-4857114_800.jpg)|
+|:--:| 
+| *Image by [Drajt](https://pixabay.com/users/drajt-3643917/)) from [Pixabay](https://pixabay.com/)*|
+
 ### Neydi işlem?
 
 Olay kısaca, South Carolina'da bulunan iki katlı [bir banliyö evinin](https://www.google.com/maps/place/149+Cottage+Lake+Way,+Columbia,+SC+29209/@33.9594797,-80.9455555,272m/data=!3m1!1e3!4m5!3m4!1s0x88f8b053743f5079:0x8883bce9faf9ed0f!8m2!3d33.9596548!4d-80.9454178)) limited şirket (ingilizcesi LLC) haline getirilip, bu şirketin sahipliğinin [NFT'ye dönüştürülerek](https://opensea.io/assets/ethereum/0xF928d6285B8a4f9ac5A640ae598D7399C331cea7/0) kriptopara ile satılması olarak özetlenebilir. Roofstock ve Origin Protocol ortaklığında gerçekleştirilen işlemde, alıcının NFT rehini karşılığı USDC Homes tarafından kredilendirilmesi ise bir diğer ilginç nokta olarak dikkat çekmekte. 
