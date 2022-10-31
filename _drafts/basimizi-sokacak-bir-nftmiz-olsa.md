@@ -39,6 +39,6 @@ Bu durum, potansiyel pazarı azaltsa da belli durumlarda işe yarayabiliyor. Ör
 
 ### Sonuç
 
-3 odalı iki katlı bir evin sahipliğinin NFT haline getirilmesi, kripto ile satışı ve satışın yine USDC üzerinden kredilendirilmesi, fiziki varlıkların dijital varlığa çevrilmesi konusunda önemli kilometre taşlarından biri. Kullanılan aracıların getirdiği bürokrasi düşünüldüğünde daha hâlâ alınacak bir hayli yol olduğu görülüyor. Yine de bu satış işlemini, teoriyi pratiğe dökme ve süreci daha da iyileştirme anlamında verdiği ipuçları nedeniyle önemli bir deney olarak görmek mümkün. 
+Üç odalı iki katlı bir evin sahipliğinin NFT haline getirilmesi, kripto ile satışı ve satışın yine USDC üzerinden kredilendirilmesi, fiziki varlıkların dijital varlığa çevrilmesi konusunda önemli kilometre taşlarından biri. Kullanılan aracıların getirdiği bürokrasi düşünüldüğünde daha hâlâ alınacak bir hayli yol olduğu görülüyor. Yine de bu satış işlemini, teoriyi pratiğe dökme ve süreci daha da iyileştirme anlamında verdiği ipuçları nedeniyle önemli bir deney olarak görmek mümkün. 
 
 NFT'lerin geniş kesimlerce adaptasyonu öyle bir günde olmayacak, üstelik geçilecek yol üzerinde pek çok engel ve çukur bulunmakta. Ağır aksak da olsa bu yolda ilerleme sağlandığını görmek oldukça ilham verici.
