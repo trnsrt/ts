@@ -9,7 +9,7 @@ Geçtiğimiz hafta medyaya düşen, ABD'de bir evin [NFT olarak](https://ethersc
 
 | ![nft_city](/assets/iphone-4857114_800.jpg)|
 |:--:| 
-| *Image by [Drajt](https://pixabay.com/users/drajt-3643917/)) from [Pixabay](https://pixabay.com/)*|
+| *Image by [Drajt](https://pixabay.com/users/drajt-3643917/) from [Pixabay](https://pixabay.com/)*|
 
 ### Neydi işlem?
 
