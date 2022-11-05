@@ -28,7 +28,7 @@ Sonrasında ise piyasalarda yaşanan soğuma sonrası, 2020 yılının Mart ayı
 
 Fiyat hareketlerinin ötesinde, Ethereum'un teknik olarak yaşadığı en ilginç olay, CrytpoKitties adı verilen bir oyun nedeni ile ağın sıkışması idi. CryptoKitties oyununu oynayan, farklı kedileri alıp satan, onları çiftleştirerek yeni yavrular üretenler bir noktada Ethereum ağındaki kapasitenin %25'ine kadar kullanıp, Aralık 2017 yılında ağın neredeyse durma noktasına [gelmesine neden oldular](https://www.bbc.com/news/technology-42237162). 
 
-Bu, Ethereum geliştiricilerinin yaşadığı ile ölçeklenme problemi idi ve bir nevi sonraki dönemde yaşanacak sıkıntıların bir habercisi olarak değerlendirildi. 
+Bu, Ethereum geliştiricilerinin yaşadığı ilk ölçeklenme problemi idi ve bir nevi sonraki dönemde yaşanacak sıkıntıların bir habercisi olarak değerlendirildi. 
 
 #### DeFi mania
 
@@ -48,7 +48,7 @@ DeFi ve NFT'ler üzerindeki yoğun talep, teknik olarak Ethereum üzerinde ciddi
 
 ### Arkası yarın
 
-Ethereum'un yaşadığı kış döneminde yoğun talep olduğunda neler yaşandığı ile ilgili ileriki dönemin adeta bir provası yaşanmıştı. Yazı diziminin bir sonraki bölümünde Ethereum'un ileride karşılaşacağı sorunları çözmeye yönelik üzerinde çalıştığı teknik gelişmelere değineceğiz. 
+Ethereum'un kış döneminde yoğun talep karşısında yaşadıkları ileriki dönemin adeta bir provası oldu. Yazı dizimizin bir sonraki bölümünde Ethereum'un ileride karşılaşacağı sorunları çözmeye yönelik üzerinde çalıştığı teknik gelişmelere değineceğiz. 
 
 ---
 
