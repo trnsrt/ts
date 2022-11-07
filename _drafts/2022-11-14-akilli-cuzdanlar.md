@@ -10,13 +10,13 @@ Bu yazımızda kripto dünyasının, geniş kesimlere ulaşmasının önündeki 
 
 ### Cüzdanlar kaç çeşit? 
 
-Ethereum dünyasında kullanılan cüzdanları temel olarak ikiye ayırmak mümkün.[^1] Birincisi, önceki yazımızda da bahsettiğimiz en çok kullanılan cüzdan çeşidi olan basit cüzdanlar. Teknik adıyla 'EOA Externally Owned Account' (haricen sahip olunan hesaplar) olarak adlandırılan bu cüzdanların içinde bir adet özel anahtar bulunuyor. 
+Ethereum dünyasında kullanılan cüzdanları temel olarak ikiye ayırmak mümkün[^1]. Birincisi, önceki yazımızda da bahsettiğimiz en çok kullanılan cüzdan çeşidi olan basit cüzdanlar. Teknik adıyla 'EOA Externally Owned Account' (haricen sahip olunan hesaplar) olarak adlandırılan bu cüzdanların içinde bir adet özel anahtar bulunuyor. 
 
 İkinci bir çeşit ise 'akıllı kontrat cüzdanları' olarak karşımıza çıkıyor Bu cüzdanlar, kullanıcı blokzincir ile temasa geçmeden önce belirli kurallar koyarak çok daha verimli bir kullanıcı deneyimi sunma hedefindeler. Bu hedefe ulaşama yolunda bazı sıkıntıları var. İşte bunları temelden çözmek için Ethereum sisteminde değişiklikler gerekiyor. (detayları aşağıda bir sonraki bölümde değineceğiz). Önce akıllı kontrat cüzdanların bize neler vaat ettiğinden bahsedelim. 
 
 ### Akıllı kontrat cüzdanlarının ne gibi faydaları var?
 
-Akıllı kontrat cüzdanları programlanabilir olmalarından dolayı kullanıcıya kişiselleştirilmiş bir cüzdan deneyimi sunuyorlar. Ne demek bu? Güvenlik isteyene, istediği kadar güvenlik, pratiklik isteyene pratiklik - 'seç beğen al'. Temel mantık kullanıcının hiçbir şekilde cüzdana erişimini kaybetmeyeceği, rahat kullanılan ve kullanıcının kafasında yer meşgul etmeyecek bir sistem.[^2] Gelin birkaç potansiyel kullanım alanına değinerek konuyu somutlaştıralım: 
+Akıllı kontrat cüzdanları programlanabilir olmalarından dolayı kullanıcıya kişiselleştirilmiş bir cüzdan deneyimi sunuyorlar. Ne demek bu? Güvenlik isteyene, istediği kadar güvenlik, pratiklik isteyene pratiklik - 'seç beğen al'. Temel mantık kullanıcının hiçbir şekilde cüzdana erişimini kaybetmeyeceği, rahat kullanılan ve kullanıcının kafasında yer meşgul etmeyecek bir sistem[^2]. Gelin birkaç potansiyel kullanım alanına değinerek konuyu somutlaştıralım: 
 
 Şu anki cüzdanların temel sorunu tek bir anahtar ile tek bir işlem yapılabilmeleri. Akıllı kontrat cüzdanları, hesabın tek anahtar boyunduruğundan kurtulmasını ve çoklu anahtar yaratımını sağlıyor. En temel özellikleri bu. Ne işe yarar bu özellik? 
 
@@ -42,7 +42,7 @@ Gelin şimdi de cüzdan çeşitlerine, şu anki sorunlarına ve gelecekte Ethere
 
 #### Cüzdanlar nasıl işlem yapıyor?
 
-Kullanıcı bir işlem yapmak istediğinde bu işlemi özel anahtarı ile imzalıyor [^3]. İmzalanan işlem, bütün işlemlerin toplandığı bir havuza gidiyor. Burada işlem, avcılar tarafından bloklara aktarılıyor ve bu sırada işlemin doğru olup olmadığı kontrol ediliyor[^4]. Doğru işlemler bloğa konarak blokzincire kayıt ediliyor. 
+Kullanıcı bir işlem yapmak istediğinde bu işlemi özel anahtarı ile imzalıyor[^3]. İmzalanan işlem, bütün işlemlerin toplandığı bir havuza gidiyor. Burada işlem, avcılar tarafından bloklara aktarılıyor ve bu sırada işlemin doğru olup olmadığı kontrol ediliyor[^4]. Doğru işlemler bloğa konarak blokzincire kayıt ediliyor. 
 
 #### Basit cüzdanların (EOA) sorunları
 
@@ -62,6 +62,7 @@ Sorunun temelinde EOA cüzdanlarının kullandığı imzalama teknolojisinin esk
 
 Peki Ethereum üzerinde kökten bir çözüm üretilemez mi? Üretilebilir tabii ama önceki yazımızda da değindiğimiz gibi Ethereum geliştiricilerinin başka öncelikleri  (örneğin PoS'a geçiş) ve kısıtlı kaynakları olduğu için buraya odaklanmaları mümkün olmadı. Şimdi sıra bu alana gelmiş gibi görünüyor. Geçtiğimiz ay Kolombiya'nın başkenti Bogota'da yapılan Devcon (Ethereum gelişticileri) konferansında bu konuda bir panel düzenlendi ve uzun zamandır konuşulan ve adına Account Abstraction denen bir iyileştirme masaya yatırıldı[^5].
 
+#### Karşınızda 'Account Abstraction'
 Account abstraction yukarıdaki farklı cüzdanlar tarafından yaratılan derme çatma çözümleri Ethereum'un temelinden çözmeye verilen genel ad[^6]. Burada nasıl bir yol izleneceği henüz tam olarak belli değil. Vitalik'in önerdiği yöntem, kullanıcıların işlemleri öncelikle bir ön havuza göndermeleri, burada bu işlemlerin blok üreticiler tarafından toplanıp kontrol edilmesi ve tüm işlemlerin doğru olduğu anlaşıldıktan sonra tekrar kullanıcı ile temasa geçip kullanıcının onay vermesi şeklinde[^7]. Vitalik bu çözümün ideal olmadığının farkında ancak şu aşamada bununla ile başlanıp ileride daha kökten bir çözüme gidilmesini öneriyor[^8].
 
 Öte yandan Ethereum şu an çok büyük bir yapı olduğu için Account Abstraction konusunu kökten çözemiyor ama bu durum şu anki ikinci seviye çözümler için geçerli değil. İkinci seviye çözümler, daha kapalı ve henüz geliştirme aşamasında oldukları için bu tip yenilikleri kendi altyapılarına 'temelden' dahil edebilirler. Bu sayede, aslında bu çözümlerin pratik olarak nasıl çalışacağını test etmek de mümkün olabilir. Bunu da aslında görmeye başladık: Argent kendi ürettiği derme-çatma çözümlerin Starknet ve zkSync gibi ikinci seviye sistemlerine temelden gömülmesi için bu sistemlerin geliştiricileri ile birlikte çalışıyor (bu iki sistemde Argent'in cüzdan çözümleri yaygın olarak kullanıldığını görebilirsiniz). 
