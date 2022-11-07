@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Akıllı cüzdanların gelişi"
+date:   2022-11-14 17:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
 Bu yazımızda kripto dünyasının, geniş kesimlere ulaşmasının önündeki en büyük engellerden biri olan cüzdan kullanımı sırasında yaşanan problemleri nasıl aşabileceğinden bahsedeceğiz. 
 
 ### Cüzdanlar kaç çeşit? 
@@ -61,7 +69,6 @@ Account abstraction yukarıdaki farklı cüzdanlar tarafından yaratılan derme 
 ### Sonuç
 Akıllı kontrat cüzdanlarını ortaya çıkaracak olan 'Account Abstraction' özelliği, cüzdanların kullanımında büyük bir rahatlık getiriyor. Şu an bu konuda çalışan Argent, Gnosis gibi cüzdanların getirdiği kolaylıkların, tüm Ethereum altyapısına yayılması, geniş kitlelerin bu alana girmesinde kritik eşik (ingilizcede çok kullanılan haliyle 'tipping point') olabilir. Geliştirme süreci maalesef yine yavaş işleyecek - Ethereum geliştiricilerinin en büyük açmazı bu. Bu nedenle ikinci seviye çözümlerin bu yarışta bayrağı almalarında fayda var. İkinci seviye çözümler son bir yılda araştırma-geliştirme anlamında oldukça başarılı işlere imza attılar. Burada da benzer performans göstermelerini beklemek mümkün. Gelişmeleri heyecanla izleyeceğiz. 
 
-
 ---
 [^1]: Yazımızda, Ethereum ve Ethereum ile uyumlu (EVM uyumlu) tüm blokzincirler (Polygon, Avalanche, FTM, BNB Chain gibi) içinde kullanılan cüzdanlardan bahsediyoruz (Solana, Near ve son zamanlarda moda olan Aptos benzeri blokzincirler konumuz dışı). 
 [^2]: Bu konuda Vitalik'in yazdığı [şu makale](https://vitalik.ca/general/2021/01/11/recovery.html) ilginizi çekebilir
@@ -71,3 +78,11 @@ Akıllı kontrat cüzdanlarını ortaya çıkaracak olan 'Account Abstraction' �
 [^6]: Account Abstraction, temel olarak akıllı kontratların kullanım mantığının genişletilmesi demek. Şu an sadece blokzincir üzerinde yapılan işlemlerde geçerli olan akıllı kontrat mantığını işlem için ödenen ücretler ve işlemlerin onaylanması için de kullanmak anlamına geliyor. Bu konuda daha detaylı bilgi için Vitalik Buterin'in '[The Road to Account Abstraction](https://notes.ethereum.org/@vbuterin/account_abstraction_roadmap)' makalesine göz atabilirsiniz.
 [^7]: Vitalik'in önerdiği çözüm ERC 4337 adında bir iyileştirme. İşlemlerin şu anda ve gelecekte nasıl şekilleneceği ile ilgili gerek Vitalik'in bir önceki dipnottaki yazısına ya da daha basit anlatımı için [şu Medium post](https://medium.com/nethermind-eth/ethereum-wallets-today-and-tomorrow-eip-3074-vs-erc-4337-a7732b81efc8)'una göz atabilirsiniz. 
 [^8]: Vitalik'in önerdiği ERC 4337 aslında yavaş yavaş kullanılmaya başlanabilecek bir çözüm. Daha sonrasında bir EIP aracılığıyla protokol seviyesinde oluşan boşlukları kapatmayı düşünüyor. Burada, baştan neden EIP'ye gidilmediği sorulursa, hem EIP'nin bir çatallanma gerektirmesi, hem de oluşturma sürecinin daha uzun sürmesi cevabı verilebilir. 
+
+---
+
+*Not 1: Bu yazı ilk olarak 14 Kasım 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı]()*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
