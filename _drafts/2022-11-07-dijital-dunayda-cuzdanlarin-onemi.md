@@ -23,6 +23,10 @@ Herhangi bir aracıya ihtiyaç duymadan tam bir dijital sahiplik çok büyük bi
 
 DeFi ve diğer merkeziyetsiz sistemlere ulaşabilmenin temel yolu dijital bir cüzdana sahip olmak. Bu dijital cüzdan, telefonunuza yükleyebileceğiniz bir uygulama ya da bilgisayarınıza yükleyeceğiniz bir program olabilir. DeFi üzerinde kullanmak istediğiniz herhangi bir hizmetin web sitesine gittiğinizde genelde sağ üst köşede bulunan 'cüzdanını bağla' tuşuna basarak cüzdanınızın hizmet sağlayıcı ile anında iletişime geçmesini sağlıyorsunuz. Sonrasında yapmak istediğiniz işleme cüzdan üzerinden onay veriyorsunuz ve saniyeler içinde işlem tamamlanıyor. 
 
+| ![computer_world](/assets/computer-repair-west-palm-beach-7159959_800.jpg)|
+|:--:| 
+| *Image by [nyflnerds](https://pixabay.com/users/nyflnerds-26200440/) from [Pixabay](https://pixabay.com/)*|
+
 Belirli bir öğrenme eğrisini geçtikten sonra cüzdan kullanımı oldukça rahat ve pratik bir hale geliyor. Yine de cüzdan kullanımı konusunda hâlâ pek çok sorun mevcut. Neler bunlar? 
 
 #### Dijital cüzdanların sorunları neler?
