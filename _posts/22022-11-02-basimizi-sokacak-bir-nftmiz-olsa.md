@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Ah başımızı sokacak bir NFT'miz olsa!"
+date:   2022-11-02 12:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi, CoindeskTR
+---
+
 Bu yazımızda geçtiğimiz haftalarda blokzincir üzerinden gerçekleşen bir gayrimenkul token satışının hikayesinden bahsedeceğiz. 
 
 Blokzincirin ilk ortaya çıktığı günlerden beri, bu teknolojinin uygulama alanları hayal edildiğinde akla ilk olarak genelde gayrimenkullerin token haline getirilmesi geliyordu. Üzerine bir hayli kafa yorulmuş olsa da fiziki varlıkların blokzincir üzerinde bir dijital varlığa dönüştürülmesi konusu beklentilerin gerisinde kaldı. 
@@ -42,3 +50,11 @@ Bu durum, potansiyel pazarı azaltsa da belli durumlarda işe yarayabiliyor. Ör
 Üç odalı iki katlı bir evin sahipliğinin NFT haline getirilmesi, kripto ile satışı ve satışın yine USDC üzerinden kredilendirilmesi, fiziki varlıkların dijital varlığa çevrilmesi konusunda önemli kilometre taşlarından biri. Kullanılan aracıların getirdiği bürokrasi düşünüldüğünde daha hâlâ alınacak bir hayli yol olduğu görülüyor. Yine de bu satış işlemini, teoriyi pratiğe dökme ve süreci daha da iyileştirme anlamında verdiği ipuçları nedeniyle önemli bir deney olarak görmek mümkün. 
 
 NFT'lerin geniş kesimlerce adaptasyonu öyle bir günde olmayacak, üstelik geçilecek yol üzerinde pek çok engel ve çukur bulunmakta. Ağır aksak da olsa bu yolda ilerleme sağlandığını görmek oldukça ilham verici.
+
+---
+
+*Not 1: Bu yazı ilk olarak 2 Kasım 2022'de [Coindesk Türkiye](https://www.coindeskturkiye.com/))'de [yayınlandı](https://www.coindeskturkiye.com/yazarlar/turan-sert/basimizi-sokacak-bir-nftmiz-olsa-2562)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
