@@ -45,7 +45,7 @@ Blokzincirin temelini oluşturan cüzdanların akıllı kontrat haline getirilme
 
 Bu sayede artık çalınma, kaybedilme ya da unutulma durumunda cüzdanlar hızlıca ulaşılabilir olacak. Diğer yandan sık kullanım sırasında yaşanan gereksiz işlem onayları ve masraflar da ortadan kalkacak. Yani kısaca **cüzdanlara kişiselleştirilmiş bir kullanıcı deneyimi getirebilmek** mümkün olacak [^2].
 
-Nasıl olacak, buna önümüzdeki yazımızda değineceğiz. Üstelik akıllı kontrat cüzdanların getireceği daha nice yeni faydaya değinerek.. Bizde kalın :) .. 
+Nasıl olacak, bunu önümüzdeki yazımızda açacağız. Üstelik akıllı kontrat cüzdanların getireceği daha nice yeni faydaya değinerek.. Bizde kalın :) .. 
 
 [^1]: EOA: Externally Owned Account denen bu cüzdanlar, ESDCA denen artık eski kalmış bir imzalama yöntemi ile işlemleri onaylıyorlar. Bir sonraki yazımızda işin teknik tarafına ağırlık vereceğiz. 
 
