@@ -11,7 +11,7 @@ Bu yazımızda, kripto dünyasını dolaşırken elimiz ayağımız olan cüzdan
 ### Dijital dünyada sahiplik
 Dijital dünyanın hayatımıza girmesiyle oluşan ekonomik potansiyelden en büyük payı, biz bireylerin bu dünyada rahatça hareket etmesine yardım eden aracıların aldığına daha önce sıkça değindik. 
 
-#### BLokzincir dijital dünyada tam sahiplik kavramını getirdi
+#### Blokzincir dijital dünyada tam sahiplik kavramını getirdi
 Biz bireylerin güvenli bir şekilde hareket etmesinin önündeki temel engel neydi? Bu dünyanın herkesin olduğu gibi hackerların da erişimine açık, tehlikeli bir yer olması ve bu vahşi ormanda yolumuzu bulmak için aracıların güvenli kollarına ihtiyaç duymamız. Aynı zamanda bu dijital dünyada herhangi bir varlığa sahip olduğumuzu kanıtlamak için aracıların onayına muhtaç olmamız. Benzer şekilde bir başkasının elindeki bir dijital varlığın tek ve o kişiye ait olduğunu teyit etmek için de yine bu aracılara gitmemiz. Neden? Çünkü dijital dünya akışkan bir yapı ve içindeki bilgiler her an değiştirilebilir. İşte blokzincir bu akışkan dünyada bilginin değiştirilemez bir biçimde tutulabilmesine olanak veriyor. Bu sayede, kişi içi rahat bir şekilde dijital varlık sahibi olabiliyor, üstelik bunu sağlamak için artık herhangi bir aracıya da ihtiyaç duymuyor.
 
 #### Tam dijital sahiplik hem büyük bir güç hem de sorumluluk demek
