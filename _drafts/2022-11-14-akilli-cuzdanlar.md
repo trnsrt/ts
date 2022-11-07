@@ -12,11 +12,17 @@ Bu yazımızda kripto dünyasının, geniş kesimlere ulaşmasının önündeki 
 
 Ethereum dünyasında kullanılan cüzdanları temel olarak ikiye ayırmak mümkün[^1]. Birincisi, önceki yazımızda da bahsettiğimiz en çok kullanılan cüzdan çeşidi olan basit cüzdanlar. Teknik adıyla 'EOA Externally Owned Account' (haricen sahip olunan hesaplar) olarak adlandırılan bu cüzdanların içinde bir adet özel anahtar bulunuyor. 
 
-İkinci bir çeşit ise 'akıllı kontrat cüzdanları' olarak karşımıza çıkıyor Bu cüzdanlar, kullanıcı blokzincir ile temasa geçmeden önce belirli kurallar koyarak çok daha verimli bir kullanıcı deneyimi sunma hedefindeler. Bu hedefe ulaşama yolunda bazı sıkıntıları var. İşte bunları temelden çözmek için Ethereum sisteminde değişiklikler gerekiyor. (detayları aşağıda bir sonraki bölümde değineceğiz). Önce akıllı kontrat cüzdanların bize neler vaat ettiğinden bahsedelim. 
+İkinci bir çeşit ise 'akıllı kontrat cüzdanları' olarak karşımıza çıkıyor Bu cüzdanlar, kullanıcı blokzincir ile temasa geçmeden önce belirli kurallar koyarak çok daha verimli bir kullanıcı deneyimi sunma hedefindeler. Bu hedefe ulaşma yolunda bazı sıkıntıları var. İşte bunları temelden çözmek için Ethereum sisteminde değişiklikler gerekiyor. (detayları aşağıda bir sonraki bölümde değineceğiz). Önce akıllı kontrat cüzdanların bize neler vaat ettiğinden bahsedelim. 
 
 ### Akıllı kontrat cüzdanlarının ne gibi faydaları var?
 
-Akıllı kontrat cüzdanları programlanabilir olmalarından dolayı kullanıcıya kişiselleştirilmiş bir cüzdan deneyimi sunuyorlar. Ne demek bu? Güvenlik isteyene, istediği kadar güvenlik, pratiklik isteyene pratiklik - 'seç beğen al'. Temel mantık kullanıcının hiçbir şekilde cüzdana erişimini kaybetmeyeceği, rahat kullanılan ve kullanıcının kafasında yer meşgul etmeyecek bir sistem[^2]. Gelin birkaç potansiyel kullanım alanına değinerek konuyu somutlaştıralım: 
+Akıllı kontrat cüzdanları programlanabilir olmalarından dolayı kullanıcıya kişiselleştirilmiş bir cüzdan deneyimi sunuyorlar. 
+
+| ![puzzle](/assets/problem-solving-g2de67c0d8_800.png)|
+|:--:| 
+| *Image by [Drajt](https://pixabay.com/users/mohamed_hassan-5229782/) from [Pixabay](https://pixabay.com/)*|
+
+Ne demek bu? Güvenlik isteyene, istediği kadar güvenlik, pratiklik isteyene pratiklik - 'seç beğen al'. Temel mantık kullanıcının hiçbir şekilde cüzdana erişimini kaybetmeyeceği, rahat kullanılan ve kullanıcının kafasında yer meşgul etmeyecek bir sistem[^2]. Gelin birkaç potansiyel kullanım alanına değinerek konuyu somutlaştıralım: 
 
 Şu anki cüzdanların temel sorunu tek bir anahtar ile tek bir işlem yapılabilmeleri. Akıllı kontrat cüzdanları, hesabın tek anahtar boyunduruğundan kurtulmasını ve çoklu anahtar yaratımını sağlıyor. En temel özellikleri bu. Ne işe yarar bu özellik? 
 
