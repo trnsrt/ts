@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dijital dünyada cüzdanların önemi"
-date:   2022-10-24 17:17:56 +0300
+date:   2022-11-07 17:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
 ---
@@ -53,7 +53,7 @@ Nasıl olacak, bunu önümüzdeki yazımızda açacağız. Üstelik akıllı kon
 
 ---
 
-*Not 1: Bu yazı ilk olarak 7 Kasım 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı]()*
+*Not 1: Bu yazı ilk olarak 7 Kasım 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/dijital-dunyada-cuzdanlarin-onemi/)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
