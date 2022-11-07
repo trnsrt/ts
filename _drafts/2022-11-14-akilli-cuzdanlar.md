@@ -20,7 +20,7 @@ Akıllı kontrat cüzdanları programlanabilir olmalarından dolayı kullanıcı
 
 | ![puzzle](/assets/problem-solving-g2de67c0d8_800.png)|
 |:--:| 
-| *Image by [Drajt](https://pixabay.com/users/mohamed_hassan-5229782/) from [Pixabay](https://pixabay.com/)*|
+| *Image by [Mohamed Hassan](https://pixabay.com/users/mohamed_hassan-5229782/) from [Pixabay](https://pixabay.com/)*|
 
 Ne demek bu? Güvenlik isteyene, istediği kadar güvenlik, pratiklik isteyene pratiklik - 'seç beğen al'. Temel mantık kullanıcının hiçbir şekilde cüzdana erişimini kaybetmeyeceği, rahat kullanılan ve kullanıcının kafasında yer meşgul etmeyecek bir sistem[^2]. Gelin birkaç potansiyel kullanım alanına değinerek konuyu somutlaştıralım: 
 
