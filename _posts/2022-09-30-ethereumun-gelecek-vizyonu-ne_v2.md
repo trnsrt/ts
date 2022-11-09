@@ -48,7 +48,7 @@ Başlangıçta düğümler bunu yapabilirler ancak ileride talebin çok artması
 
 Bir diğer önemli değişiklik, ikinci seviye çözümlerin Ethereum üzerinde çok fazla kapasite (gas) kullanması. İşte EIP-4844 ile gelen bir başka yenilik, bu fonksiyonların artık çok daha fazla verinin taşınabildiği ama kapasiteden o kadar yemeyen 'data blob' ('su baloncuğu' diye çevirsek yanlış olmaz sanırım) formatının gelmesi. Bu formatın özelliği hem ucuz olması hem de bir ay sonra sistemden silinmesi sayesinde geçmiş veriyi şişirmemesi. "Geçmiş veriyi kaybetmiyor muyuz bu durumda?" Çok değil, zira burada saklanan en kapsamlı veri, ikinci seviyede işlem bilgisinin doğruluk kanıtları. İşlem gerçekleşip aradan bir ay geçtikten sonra geriye dönüp bakmanın bir anlamı yok.[^4]
 
-Bunların dışında kısa vadede yapılacak bir başka geliştirme ise, ikinci seviye çözümlerin Ethereum üzerindeki kapasite kkullanımını azaltacak.[^5] EIP-4488 olarak adlandırılan bu geliştirme çok basit ve hızlıca kurulacak ve kısa vadedeki ihtiyaçları giderecek. 
+Bunların dışında kısa vadede yapılacak bir başka geliştirme ise, ikinci seviye çözümlerin Ethereum üzerindeki kapasite kullanımını azaltacak.[^5] EIP-4488 olarak adlandırılan bu geliştirme çok basit ve hızlıca kurulacak ve kısa vadedeki ihtiyaçları giderecek. 
 
 #### The Verge (Sınırlandırma)
 The Verge, temel olarak işlemleri onaylamak için gerekli bilgileri sınırlandırarak onaylayıcıların üstlerindeki yükü yükü azaltmaya çalışıyor.  
