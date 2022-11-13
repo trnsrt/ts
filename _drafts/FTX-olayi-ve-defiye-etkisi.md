@@ -74,7 +74,7 @@ Elbette, sorun yaşayan kurumlardan dolayı tüm kripto dünyası imaj ve güven
 Kullanıcılar açısından ise, hep söylediğimizi tekrar edelim. Kripto dünyasının size verdiği en büyük güç, paranıza tamamen egemen olmanız. Bunu lütfen kullanın. Bu dünyada paranızın güvenliği için kriptopara borsalarına ihtiyacınız yok, onu kendiniz sağlayabilirsiniz. Zahmetli mi, evet (orada da yeni gelişmeler daha güvenli ve zahmetsiz hale getirecek bu süreci), ama bunu yapmak zorundasınız. Kendi kişisel kripto cüzdanınıza sahip olmak çok önemli. Bunu yapmayacak kadar kendinizi ehil hissetmiyorsanız, belki de finansal riskleri zaten çok yüksek olan bu dünyadan uzak durmanız sizin için en hayırlısı olabilir. 
 
 ### Sonuç
-FTX/Alameda olayından çıkarılacak pek çok ders var. Çok popüler karşılanmayacak olsa da, bu talihsiz olayın uzun vadede merkeziyetsiz sistemlerin gelişmesi için sağlıklı  olacağını düşünüyorum['2]. FTX gibi kapalı kutu yapıların aksine DeFi, tüm topluma şeffaf ve denetlenebilir bir altyapı sunuyor. 
+FTX/Alameda olayından çıkarılacak pek çok ders var. Çok popüler karşılanmayacak olsa da, bu talihsiz olayın uzun vadede merkeziyetsiz sistemlerin gelişmesi için sağlıklı  olacağını düşünüyorum[^2]. FTX gibi kapalı kutu yapıların aksine DeFi, tüm topluma şeffaf ve denetlenebilir bir altyapı sunuyor. 
 
 Sektör öz denetimin ne kadar önemli olduğunun bir kez daha farkına vardı. Bundan sonra kurumlar, imaj (dahi çocuk, değişen dönem, hızlı davranma vs vs) yerine eski dünyanın temel kriterlerine (değer önerisi, kârlılık, alınan risk, girilen ilişkiler, denetim gibi) çok daha fazla önem vereceklerdir diye umuyorum. 
 
