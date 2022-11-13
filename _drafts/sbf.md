@@ -4,7 +4,7 @@ Bu yazımızda geçtiğimiz hafta yaşanan ve FTX'in iflası ile biten olaylarda
 ### Sağır sultanın bile duyduklarını hatırlayalım önce
 Öncelikle neler olduğunu basında yer aldığı şekliyle hatırlayalım. 
 
-Olaylar zinciri, Coindesk'in 2 Kasım tarihinde FTX (borsa) ve Alameda Research (kardeş kuruluş olan alım-satım firması) arasındaki girift ilişkileri [haber yapmasıyla](https://www.coindeskturkiye.com/sirketler/sam-bankman-friedin-iki-sirketi-ayni-bilancoda-bulusuyor-2581) ile başladı.
+Olaylar zinciri, Coindesk'in 2 Kasım tarihinde FTX (borsa) ve Alameda Research (kardeş kuruluş olan alım-satım firması) arasındaki girift ilişkileri [haber yapmasıyla](https://www.coindeskturkiye.com/sirketler/sam-bankman-friedin-iki-sirketi-ayni-bilancoda-bulusuyor-2581) başladı.
 
 Haber bir-iki kişiyi huylandırsa da başlangıçta finans çevrelerinde çok büyük bir yankı getirmedi. Ne de olsa, FTX'in sahibi olan Sam Bankman Fried ([SBF](https://twitter.com/SBF_FTX)), özellikle ABD'de regülatörler ile kolkola olan, başkent DC'de uzun süredir lobi faaliyetleri yürüten ve başkanlık yarışındaki adaylara yaptığı yardımların da etkisiyle adeta otoritelerin himayesinde hareket ediyormuş gibi görünen kıvırcık bir dahi çocuk idi. 
 
