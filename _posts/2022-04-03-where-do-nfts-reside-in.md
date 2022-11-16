@@ -3,7 +3,7 @@ layout: post
 title:  "Where do NFT's reside in?"
 date:   2022-04-03 17:47:56 +0300
 categories: Genel
-tags: Yazılar, Articles
+tags: Yazılar, NFT, Articles
 ---
 
 In these mini-series, we will look at several potential areas that Web 3 would prevail. We will start with NFT's in this post. 
