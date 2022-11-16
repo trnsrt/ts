@@ -3,7 +3,7 @@ layout: post
 title:  "Key concepts in NFT II - Fungibility and non-fungibility"
 date:   2022-06-05 17:47:56 +0300
 categories: Genel
-tags: Yazılar, Articles, NFT
+tags: Yazılar, NFT, Articles
 ---
 
 We continue our series with fungibility and non-fungibility concepts. 
