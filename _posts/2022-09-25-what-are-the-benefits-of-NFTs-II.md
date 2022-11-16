@@ -3,7 +3,7 @@ layout: post
 title:  "Benefits of NFTs - 2"
 date:   2022-09-25 22:47:56 +0300
 categories: Genel
-tags: Yazılar, Articles, NFT
+tags: Yazılar, NFT, Articles
 ---
 
 We continue on exploring how NFTs add value to any object. 
