@@ -90,3 +90,5 @@ Sert, özel sektörde geçirdiği yılların ardından, 2014 yılında Özyeğin
 Sert, dijital teknolojilerin farklı alanlarda hayatımızı kökten değiştireceğine inanmakta. Kripto paraların bu anlamda blok zincir teknolojilerin ilk kullanım alanı olmasının ardından önümüzdeki yakın dönemde Merkeziyetsiz Finans (DeFi-Decentralized Finance) alanında yaşanacak gelişmeler ile finans sektörünü ciddi bir şekilde etkileyeceğini düşünüyor. Yazılarında da belirttiği gibi şu ifadeyi kullanıyor:
 
 >*“Tarihi bir döneme tanıklık ettiğimizi düşünüyorum ve gelecekte bu alanda karşımıza çıkacak yenilikleri merak ve heyecan içinde bekliyorum.”*
+
+<a rel="me" href="https://mastodon.cloud/@turansert">Mastodon</a>
