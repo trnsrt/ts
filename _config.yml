@@ -24,6 +24,9 @@ linkedin_username: turansert
 instagram_username: turansert
 youtube_username: UCh5_9-4LQUrJ-yF0plZ0fGg
 google_analytics: UA-168563834-1
+mastodon: https://mastodon.cloud
+mst.username: turansqgmail.com
+mst.instance: turansert
 logo: "/ts-bg-dark-v2_bant_v5.jpg"
 header_pages:
   - blockchain.md
