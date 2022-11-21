@@ -8,7 +8,7 @@ tags: Yazılar, NFT, Articles
 
 We continue to look that various ways that an NFT would add value to an object with two important issues: IP rights and ease of transfer. 
 
-In our mini series first we looked at the concept of value and what constitutes ‘value’ in a typical art object. 👇 In the following post, we continue with exploring how NFT would add value to such an object. In our last post, we dived into traceability and fragmentation, two important attributes that NFT has brought to table. 👉
+In our mini series [first](genel/2022/08/19/what-are-the-benefits-of-NFTs.html) we looked at the concept of value and what constitutes ‘value’ in a typical art object. 👇 In the [following post](/genel/2022/09/25/what-are-the-benefits-of-NFTs-II.html), we continue with exploring how NFT would add value to such an object. In [our last post](/genel/2022/10/24/what-are-the-benefits-of-NFTs-3.html), we dived into traceability and fragmentation, two important attributes that NFT has brought to table. 👉
 
 In following post, we continue with exploring how NFT would add value to such an object. This time we will look at IP rights and ease of transfer. Let's get into the subject.  👉
 
