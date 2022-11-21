@@ -25,6 +25,10 @@ One of the main hassles of owning a physical art piece is to transfer it from th
 
 Now with digital art, we mostly eliminate such barriers and significantly expand the potential market for any digital piece. Rather that the closer proximity of the city that the artist lives, now the whole world becomes your potential buyer.  So this is a benefit that comes not with NFT but rather the digital art itself. 
 
+| ![photos](/assets/photos-315170_800.jpg)|
+|:--:| 
+| *Image by [PublicDomainPictures](https://pixabay.com/users/publicdomainpictures-14/)) from [Pixabay](https://pixabay.com/)*|
+
 What NFT would bring is the ease of transfer from one person to the other. You can easily scan through market places, find a piece that you like, make an offer, if accepted can own the piece in seconds and then list it afterwards. Such ease brings enormous NFT transaction volume. 
 
 ### To be continued…
