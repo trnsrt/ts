@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Akıllı cüzdanların gelişi"
-date:   2022-11-14 17:17:56 +0300
+date:   2022-11-21 17:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
 ---
