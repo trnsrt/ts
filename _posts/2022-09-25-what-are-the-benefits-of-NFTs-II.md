@@ -8,7 +8,12 @@ tags: Yazılar, NFT, Articles
 
 We continue on exploring how NFTs add value to any object. 
 
-In our [previous post](/genel/2022/08/19/what-are-the-benefits-of-NFTs.html), we looked at the concept of value and what constitutes 'value' in a typical art object. In this post, we will look at how NFT would add value to such an object. 
+In our [previous post](/genel/2022/08/19/what-are-the-benefits-of-NFTs.html), we looked at the concept of value and what constitutes 'value' in a typical art object. 👇
+
+<a href="/genel/2022/10/24/what-are-the-benefits-of-NFTs-1.html">
+         <img alt="Tweet" src="/assets/benefits-of-ntfs-1_640.png"></a>
+
+In this post, we will look at how NFT would add value to such an object. 
 
 ### First, what is an NFT?
 Let's first refresh our memory and briefly talk about what an NFT is. NFT (non-fungible token) is a small piece of code that refers to a specific location. It represents the ownership of what it refers to; in other words, the creator would store an object in a place and transfers the ownership to that NFT. The object can be stored anywhere but it usually resides in one of those file storage solutions (usually IPFS) such as Filecoin. That object can be anything, a high-resolution picture, or an audio file, anything digital would work.
@@ -33,6 +38,9 @@ This ease of authenticity would bring down the costs as well as eliminate the ti
 
 ### To be continued... 
 We will continue to explore the benefits of NFT in our future posts... 
+
+<a href="/genel/2022/10/24/what-are-the-benefits-of-NFTs-3.html">
+         <img alt="Tweet" src="/assets/benefits-of-ntfs-3_640.png"></a>
 
 ---
 *This piece is [first published](https://medium.com/me/stats/post/36e41545f5c3) in [BlockchainIST Center](https://medium.com/blockchainist-center) on September 25th, 2022.*
