@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Benefits of NFTs - 4"
-date:   2022-11-21 22:47:56 +0300
+date:   2022-11-21 10:47:56 +0300
 categories: Genel
 tags: Yazılar, NFT, Articles
 ---
