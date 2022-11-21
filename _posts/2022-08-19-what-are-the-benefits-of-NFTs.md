@@ -30,6 +30,9 @@ The second part is the speculative value. That would be the difference between i
 In this post, we tried to address the issue of 'valuing an object' through the lens of art ownership. While we accept that this is by no means the only approach this will give us a solid foundation to understand how NFT would enhance the 'value' of that object. We will be looking at that in our next post. 
 
 
+<a href="/genel/2022/10/24/what-are-the-benefits-of-NFTs-2.html">
+         <img alt="Tweet" src="/assets/benefits-of-ntfs-2_640.png"></a>
+
 ---
 *This piece is [first published](https://medium.com/bcistcenter/benefits-of-nfts-i-c21ee436aacd) in [BlockchainIST Center](https://medium.com/blockchainist-center) on August 19th, 2022.*
 
