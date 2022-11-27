@@ -49,7 +49,7 @@ Gelin şimdi de raporun detaylarına hızlıca bakalım:
 
 | ![gelisim](/assets/web3_ecosistem_grafik_sayfa_119_800.jpg)|
 |:--:| 
-| *Yıllar itibariyle Web3 geliştirici sayıları değişimi. Kaynak [Electric Capital Developer Report](https://www.theblockcrypto.com/data/nft-non-fungible-tokens/marketplaces) - Sayfa 119*|
+| *Yıllar itibariyle Web3 geliştirici sayıları değişimi. Kaynak [Electric Capital Developer Report](https://medium.com/electric-capital/electric-capital-developer-report-2021-f37874efea6d) - Sayfa 119*|
 
 2017 yılındaki ICO patlaması ile birlikte ciddi bir artış gösteren Web3 üzerinde çalışan geliştirici sayısı, sonraki üç yıl bir duraksamaya girmişti. Sonrasında Web3'ün finans kolu DeFi'nin (merkeziyetsiz finans) ön plana çıkması ile birlikte geliştiricilere olan talebin ciddi şekilde arttığını görüyoruz. 2021 yılı içinde ekosisteme akan girişim sermayesi rakamının 8 katına çıkmasının, bu alana geliştirici çekmesinde bir etken olduğunu da söyleyebiliriz.  Tabii blokzincirlere ait tokenlerin değerlerinin artmasının da önemli nedenlerden biri olduğunu unutmamak gerek. 
 
@@ -57,7 +57,7 @@ Peki Web3 ne kadar büyük? Gelin bir de büyük resime bakalım:
 
 | ![buyuk_resim](/assets/web3_ekosistem_grafik_sayfa_122_800.jpg)|
 |:--:| 
-| *Web3 ile dünyadaki tüm geliştiricilerin karşılaştırması. Kaynak [Electric Capital Developer Report](https://www.theblockcrypto.com/data/nft-non-fungible-tokens/marketplaces) - Sayfa 122*|
+| *Web3 ile dünyadaki tüm geliştiricilerin karşılaştırması. Kaynak [Electric Capital Developer Report](https://medium.com/electric-capital/electric-capital-developer-report-2021-f37874efea6d) - Sayfa 122*|
 
 Gördüğünüz gibi Web3 henüz emekleme aşamasında. Bunu 'henüz çok küçük, dikkate almaya değmez' ya da 'burada büyük potansiyel var' olarak iki farklı şekilde okuyabilirsiniz, size kalmış.
 
@@ -67,7 +67,7 @@ Peki tek tek blokzincirleri incelediğimizde durum ne? Ekosisteme bir bütün ol
 
 | ![tum_blokzincirler](/assets/smart_platform_L_devs_v2_sayfa_64.jpg)|
 |:--:| 
-| *Blokzincir ekosistemi. En büyük 5 zincir. Kaynak [Electirc Capital Developer Report](https://www.theblockcrypto.com/data/nft-non-fungible-tokens/marketplaces) - Sayfa 64*|
+| *Blokzincir ekosistemi. En büyük 5 zincir. Kaynak [Electirc Capital Developer Report](https://medium.com/electric-capital/electric-capital-developer-report-2021-f37874efea6d) - Sayfa 64*|
 
 Öncelikle grafiği nasıl okuyacağımıza kısaca değinelim: Yatay eksen 2020 yılı sonunda her bir blokzincir üzerinde çalışan toplam geliştirici sayısını gösteriyor. Dikey eksen ise aynı blokzincirin 2021 yılı sonundaki geliştirici sayısını. Grafiği ortadan çapraz bölen kırık çizgiye dikkatinizi çekerim. Bu çizginin üst tarafında bulunan blokzincirler bir yıl içinde geliştirici sayısını artırmış, altında kalanların ise geliştirici sayısı azalmış, çizginin üstü ise sabit kalmış.  Bir nokta daha; eğer bir blokzincir ne kadar dikey eksene yakın ise, bir yıl öncesine göre geliştirici sayısı o kadar fazla artmış anlamına geliyor. 
 
@@ -77,7 +77,7 @@ Tabii grafikteki asıl 'fil' Ethereum. Neredeyse kendinden sonra gelen dört sis
 
 | ![300den_buyuk_blokzincirler](/assets/smart_platform_L_devs_v3_sayfa_67.jpg)|
 |:--:| 
-| *Blokzincir ekosistemi. Ethereum ve Polkadot dışındaki büyük platformlar. Kaynak [Electric Capital Developer Report](https://www.theblockcrypto.com/data/nft-non-fungible-tokens/marketplaces) - Sayfa 67*|
+| *Blokzincir ekosistemi. Ethereum ve Polkadot dışındaki büyük platformlar. Kaynak [Electric Capital Developer Report](https://medium.com/electric-capital/electric-capital-developer-report-2021-f37874efea6d) - Sayfa 67*|
 
 300'den daha fazla geliştiriciye sahip blokzincirleri gösteren bu grafiğe baktığımızda ise, yukarıda bahsettiğimiz beş büyüğün yanına Near, Cardano, Binance Smart Chain, Kusama'nın eklendiğini görüyoruz. Polygon, bir Ethereum yan zinciri olarak geçtiğimiz yıl içinde hem işlem hacmi ve kilitli değer hem de yaptığı satın almalar ile ön plana çıkıyor. Binance Smart Chain de Binance ekosistemi ve maddi gücünü arkasına alarak verdiği teşviklerin karşılığını almış görünüyor. Cardano, Near ve Kusama (ki Polkadot'un testneti olur kendisi) henüz çok aktif olmamalarına rağmen ciddi sayıda geliştiriciye sahip olmaları önümüzdeki dönemde buradan çıkacak olan uygulamaların adlarını daha sık duyacağımız anlamına gelebilir (ya da bir ihtimal geliştiriciler Godot'yu bekler gibi bekledikleri Cardano'dan umudu kesip başka zincirlere yönelebilirler). 
 
@@ -85,7 +85,7 @@ Sol alttaki buluta bir zoom daha yapıp yazımızı sonlandıralım:
 
 | ![50_300_arasi_blokzincirler](/assets/smart_platform_M_devs_v2_sayfa_72.jpg)|
 |:--:| 
-| *Blokzincir ekosistemi. Ethereum ve Polkadot dışındaki büyük platformlar. Kaynak [Electic Capital Developer Report](https://www.theblockcrypto.com/data/nft-non-fungible-tokens/marketplaces) - Sayfa 72*|
+| *Blokzincir ekosistemi. Ethereum ve Polkadot dışındaki büyük platformlar. Kaynak [Electic Capital Developer Report](https://medium.com/electric-capital/electric-capital-developer-report-2021-f37874efea6d) - Sayfa 72*|
 
 Tabloda oldukça çok sayıda blokzincir var. İlgi çekici birkaç noktayı kısaca belirtelim. Ülkemizde de oldukça geniş bir topluluğa sahip olan Avalanche, hem 3,5 kata yakın artışı hem de yüksek geliştirici sayısı ile önümüzdeki yıl en büyük platformlar arasında adını yazdırmaya namzet bir aday gibi görünüyor. Öte yandan gizlilik coini Monero, bir zamanlar çok konuşulan ama son zamanlarda esamesi okunmayan EOS ve yine geçtiğimiz yılın gözdelerinden Filecoin'in geliştirici kaybetmiş olması da dikkate değer. 
 
