@@ -19,6 +19,10 @@ Merkeziyetsiz alanda ortaya çıkan yenilikleri anlamak ve test etmek kamusal ot
 
 Projenin amacı, farklı finansal kurumları bir araya getirerek kurulan bir 'oyun alanı' (ingilizcesi 'Sandbox') ile özellikle fiziki varlıkların token haline getirilerek DeFi'de kullanımının test edilmesi. 
 
+| ![sandbox](/assets/sand-932712_800.jpg)|
+|:--:| 
+| *Image by [tookapic](https://pixabay.com/users/tookapic-1386459/) from [Pixabay](https://pixabay.com/)*|
+
 Banka, projenin ilk pilot uygulamasında ise yanına JPMorgan'ın blokzincir uygulamalarını yürüten Onyx, Singapur'un en büyük bankası [DBS](https://www.dbs.com.sg/index/default.page), Japonya'nın önde gelen gruplarından SBI Holding'e ait olan [SBI Digital Asset Holdings](https://sbidah.com/) aldı.
 
 Proje kapsamında iki önemli deney yapıldı. Birinci deneyde, token haline getirilmiş Singapur Doları, Singapur Devlet Tahvili, Japon Yeni ve Japon devlet tahvillerinden oluşan likidite havuzları kuruldu. Bankalar ve isteyen kullanıcılar, bu havuzlarda hem döviz hem de bono alım-satım işlemleri gerçekleştirdiler. 
