@@ -1,4 +1,11 @@
-DeFi-TradiFi Oyun Havuzundan İlk İzlenimler
+---
+layout: post
+title:  "DeFi-TradiFi Oyun Havuzundan İlk İzlenimler"
+date:   2022-11-28 12:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi, CoindeskTR
+---
+
 Bu yazımızda, Singapur Merkez Bankası'nın organize ettiği ve üç geleneksel kurumun merkeziyetsiz finans platformları üzerinden gerçekleştirdikleri bir deneyin hikayesini anlatacağız.
 
 Merkeziyetsiz finansın gelişmesi ve geniş kitlelere yayılması için önünde iki temel yol var. Birincisi, DeFi ürünlerinin hızla gelişmekte olan Web3 dünyası  (oyunlar, sosyal medya, DAO'lar gibi) ile birlikte büyümesi. 
@@ -55,3 +62,11 @@ DeFi, kişi ve kurumların herhangi bir aracıya ihtiyaç duymadan rahatça birb
 Bundan beş yıl kadar önce finans kurumları tarafından blokzincir üzerinde gerçekleştirilen projelerde genelde özel (kamuya kapalı) blokzincirler kullanılırdı. Bu tip deneylerin bir sonuca varmadığı ve tasarımdan öteye gidemediği görüldü. Bu kez, geçmişten farklı olarak halka açık ve standartları genel kabul görmüş bir blokzincir kullanılıyor. Elbette bu deney katılımcıların kimler olduğunun önceden belirlenmesi nedeniyle tam bir açık blokzincir işlemi olarak adlandırılamayabilir. Yine de, bu tip deneyler, açık blokzincirlerin yavaş yavaş kamusal otoriteler tarafından kabul gördüğünü göstermesi açısından önemli.
 
 Singapur Merkez Bankası'nın bu alanı anlamak için yaptığı çalışmalar ve oluşturduğu ortam kamu otoritelerinin bu alandaki yenilikleri nasıl destekleyebileceği konusunda güzel bir örnek oluşturuyor. Yaptıkları hamleler yakından izlemeye değer. Kamu otoritelerinin, engelleyici ve kısıtlayıcı olmak yerine bu tip deneylere uygun ortam hazırlaması, uzun vadede girişimleri ve kapitali kendilerine çekebilmelerinin en akılcı yolu gibi görünüyor.
+
+---
+
+*Not 1: Bu yazı ilk olarak 28 Kasım 2022'de [Coindesk Türkiye](https://www.coindeskturkiye.com/)'de [yayınlandı]()*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
