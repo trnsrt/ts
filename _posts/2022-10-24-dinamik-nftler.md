@@ -59,7 +59,7 @@ Dinamik NFT'ler fiziki dünya varlıklarının tokenleştirilmesi konusunda orta
 
 ---
 
-*Not 1: Bu yazı ilk olarak 24 Ekim 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı]([https://www.btchaber.com/wikipediaya-web3den-rakip-var-golden-protocol/](https://www.btchaber.com/dinamik-nftler/)*
+*Not 1: Bu yazı ilk olarak 24 Ekim 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/dinamik-nftler/)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
