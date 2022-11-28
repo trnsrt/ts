@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "FTC Olayı ve DeFi'ye Etkisi"
+date:   2022-11-14 12:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi, CoindeskTR
+---
+
 Bu yazımızda sonu FTX'in iflası ile biten geçen hafta yaşanan olaylardan ve bu olayların merkeziyetsiz finansa etkilerinden bahsedeceğiz. 
 
 ### Sağır sultanın bile duyduklarını hatırlayalım önce
@@ -85,3 +93,18 @@ Notlar:
 [^1]: FTX’in BlockFi’yi satın alması sonrası şirketi kendi emanet çözümleri kullanmaya zorladığı ve böylece BlockFi müşterilerinin paralarını kendisine çekmeyi amaçladığı [şeklinde bir söylenti](https://twitter.com/AutismCapital/status/1591103568123408384) de var.  Bir başka spekülasyon ise, Alameda'nın piyasa yapıcılığı işinden sürekli bir zarar yaptığı, normalde böyle bir piyasa yapıcının dükkanı kapatıp gitmesinin mantıklı olduğu ancak bunun FTX'in can damarı olan likiditenin kesilmesine neden olacağı için SBF'nin böyle bir hamle yapamadığını [söylüyor](https://twitter.com/0xdoug/status/1591161987547168768).
 
 [^2]: Bu arada ilk seçenek olan Binance'in FTX'i alma senaryosunun çok daha vahim sonuçları olabilirdi. Zira bu bir kara kutunun diğerini satın alması ile daha büyük bir kara kutunun ortaya çıkması demek olacaktı. Bu da uzun vadede daha büyük riskler doğurabilirdi.
+
+Yazı dışında görsel olarak ilgi duyarsanız, konuya ilişkin hazırladığımız DeFine programına da göz atabilirsiniz. 
+
+<table>
+<td style="width:33%"><iframe width="224" height="126" src="https://www.youtube.com/embed/Ra4x4IF5UAA" frameborder="0" allowfullscreen></iframe>
+</td>
+</table>
+
+---
+
+*Not 1: Bu yazı ilk olarak 17 Ekim 2022'de [Coindesk Türkiye](https://www.coindeskturkiye.com/)'de [yayınlandı](https://www.coindeskturkiye.com/yazarlar/turan-sert/ftx-olayi-ve-defiye-etkisi-2696)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
