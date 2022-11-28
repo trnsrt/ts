@@ -65,7 +65,7 @@ Singapur Merkez Bankası'nın bu alanı anlamak için yaptığı çalışmalar v
 
 ---
 
-*Not 1: Bu yazı ilk olarak 28 Kasım 2022'de [Coindesk Türkiye](https://www.coindeskturkiye.com/)'de [yayınlandı]()*
+*Not 1: Bu yazı ilk olarak 28 Kasım 2022'de [Coindesk Türkiye](https://www.coindeskturkiye.com/)'de [yayınlandı](https://www.coindeskturkiye.com/yazarlar/turan-sert/defi-tradifi-oyun-havuzundan-ilk-izlenimler-2883)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
