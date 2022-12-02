@@ -79,7 +79,7 @@ Ethereum'un 15 Eylül sonrası uygulamaya giren yeni versiyonunda artık madenci
 - Blok üreticileri, blokları üretip onaylayıcıların onayına sunar. 
 - Onaylayıcılar ise kendilerine sunulan bloklardan en kârlısını onaylayarak blok oluşumuna izin verir
 
-| ![Ethereum_sistemi_oyunculari](/assets/ethereum_sistem_oyunculari.jpg)|
+| ![Ethereum_sistemi_oyunculari](/assets/ethereum_sistem_oyunculari_v2.jpg)|
 |:--:| 
 | *Yeni Ethereum sistemindeki oyuncular. Eskiden madenciler hem blok üretimi hem de onaylaması yapıyorlardı. Yeni sistemde, blok üretimi daha merkezi ve güçlü yapılarla, blokların onaylanması ise daha hafif ve merkeziyetsiz onaylayıcılar tarafından yapılacak*|
 
