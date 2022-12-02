@@ -66,7 +66,7 @@ Bu yazımızda, gelin önce MEV konusunda özellikle [Flashbots](https://www.fla
 
 MEV'nin kullanıcılara verdiği zararın ayyuka çıkması sonrası bu soruna çözüm bulunabilmesi amacıyla pek çok çözüm önerisi getirildi. Bu çözüm önerileri içinde en çok tutulanı bir araştırma kuruluşu olan Flashbots'un geliştirmeleri oldu. Hızlıca neler yaptıklarına bir göz atalım:
 
-Flashbots genel olarak MEV sorununu temelden çözmek yerine, yarattığı sorunları azaltmaya ya da idare edilebilir hale getirmeye odaklanan bir oluşum. Adlarını ilk olarak 2020 yılında çıkardıkları [MEV-Geth]https://github.com/flashbots/mev-geth) isimli Ethereum yazılımı ile duyurdular. Yazılımın temel fonksiyonu, madencilere gelen işlem emirlerini açık bir pazaryerinde ihaleye çıkararak daha görünür yapmak. MEV-Geth sayesinde madenciler kendilerine gelen bu emirleri  daha rahat işlemeye başladılar. Sonuçta hem sistem üzerindeki gereksiz işlem kalabalığı önlendi, hem de madencilerin kârları arttı. [^3].
+Flashbots genel olarak MEV sorununu temelden çözmek yerine, yarattığı sorunları azaltmaya ya da idare edilebilir hale getirmeye odaklanan bir oluşum. Adlarını ilk olarak 2020 yılında çıkardıkları [MEV-Geth](https://github.com/flashbots/mev-geth) isimli Ethereum yazılımı ile duyurdular. Yazılımın temel fonksiyonu, madencilere gelen işlem emirlerini açık bir pazaryerinde ihaleye çıkararak daha görünür yapmak. MEV-Geth sayesinde madenciler kendilerine gelen bu emirleri  daha rahat işlemeye başladılar. Sonuçta hem sistem üzerindeki gereksiz işlem kalabalığı önlendi, hem de madencilerin kârları arttı. [^3].
 
 Yazılım o kadar başarılı oldu ki, Nisan 2021 itibariyle ETH üzerindeki işlemlerin %84'ünü gerçekleştiren madenci havuzları MEV-Geth yazılımını kullanır hale geldiler. 
 
