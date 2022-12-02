@@ -132,7 +132,7 @@ Kaynaklar:
 
 [MEV Manifesto](https://members.delphidigital.io/reports/mev-manifesto) Delphi Digital raporu
 
-MEV Markets Part 1 [PoW](https://mirror.xyz/0xshittrader.eth/WiV8DM3I6abNMVsXf-DqioYb2NglnfjmM-zSsw2ruG8),  Part 2 [PoS](https://mirror.xyz/0xshittrader.eth/c6J_PCK87K3joTWmLEtG6qVN6BFXLBZxQniReYSEjLI),  Part 3 - [Payment for Order Flow)(https://mirror.xyz/0xshittrader.eth/f2VSuoZ91vAbCv82MtWM-Gosyf_DeUXfPlDx3EYV3RM) yazıları
+MEV Markets Part 1 [PoW](https://mirror.xyz/0xshittrader.eth/WiV8DM3I6abNMVsXf-DqioYb2NglnfjmM-zSsw2ruG8),  Part 2 [PoS](https://mirror.xyz/0xshittrader.eth/c6J_PCK87K3joTWmLEtG6qVN6BFXLBZxQniReYSEjLI),  Part 3 - [Payment for Order Flow](https://mirror.xyz/0xshittrader.eth/f2VSuoZ91vAbCv82MtWM-Gosyf_DeUXfPlDx3EYV3RM) yazıları
 
 Konuya daha fazla ilgi duyanlar, bu alandaki tüm önemli kaynakları bir araya toplayan [şu GitHub sayfasına](https://github.com/0xemperor/Awesome-MEV) da göz atabilirler. 
 
