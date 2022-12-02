@@ -122,18 +122,7 @@ Kısacası, Flashbots burada Ethereum'un yol haritasında yer alan güçlü blok
 ### Sonuç 
 Flashbots, geliştirdiği MEV çözümleri ile madenciler, tarayıcılar ve blok üreticileri arasında şeffaflık sağlamaya başarırken, merkezilik ve sansür konularında tıkandı. Yeni çıkan SUAVE sürümü ile bu sorunlara da çözüm bulmak için uğraşıyorlar. Bunda başarılı olacaklar mı, hep birlikte göreceğiz. 
 
-Dipnotlar:
-
-[^1]: Genelde bu sorunlar sandwich attack (front running+back running), time-bandit/uncle-bandit attacks, liquidations olarak adlandırılabilir. Genelde arbitrage MEV'lerin %90'ına denk. Bu konuda daha detaylı bilgilere [şu yazıdan](https://etherworld.co/2022/04/05/mev-research-report/) ulaşabilirsiniz. 
-
-[^2]: Bu oluşan değerin %64'ü madencilere işlem ücreti olarak ödendi, kalanı ise bu işlemi yapanlar tarafından cebe atıldı. Tüm detaylı istatistiklere [şu bağlantıdan](https://explore.flashbots.net) ulaşabilirsiniz. 
-
-[^3]: "Bu iki problemi nasıl çözdüler?" diye soracak olursanız: Önceden kullanılan 'en yüksek parayı veren en yukarı çıkar' yönteminde tarayıcılar blokzincir üzerine emir göndererek işlemlerini önceliklendirmeye çalışırlardı. Bu da pek çok başarısız emir nedeniyle zincirin gereksiz yere dolmasına neden oluyordu. MEV-Geth ile işlemleri demetler (ingilizcesi bundle) haline getirip, zincir-dışı olarak göndermeye başladılar. Oluşturulan pazaryerinde tarayıcılar hazırladıkları demetleri gönderiyorlar ve MEV-Geth en kârlı olanları alıp işleme sokuyor. Böylece madencilerin de kârı artıyor. 
-
-[^4]: Bu alanda merkeziyesizliği teşvik etmek için Flashbots'un Flashbots Builder isimli blok üreticisi yazılımı [açık kaynak haline getirdiğini](https://writings.flashbots.net/open-sourcing-the-flashbots-builder) de ekleyelim. 
-
-[^5]: Blok üreticilerindeki merkezileşmeyi en iyi örnek, Kasım ayının son bir haftasında [en büyük 5 üreticinin toplam blokların %85'ini üretmiş](https://www.relayscan.io/overview?t=7d) olması
-
+---
 
 Kaynaklar:
 
@@ -146,3 +135,16 @@ Kaynaklar:
 MEV Markets Part 1 [PoW](https://mirror.xyz/0xshittrader.eth/WiV8DM3I6abNMVsXf-DqioYb2NglnfjmM-zSsw2ruG8),  Part 2 [PoS](https://mirror.xyz/0xshittrader.eth/c6J_PCK87K3joTWmLEtG6qVN6BFXLBZxQniReYSEjLI),  Part 3 - [Payment for Order Flow)(https://mirror.xyz/0xshittrader.eth/f2VSuoZ91vAbCv82MtWM-Gosyf_DeUXfPlDx3EYV3RM) yazıları
 
 Konuya daha fazla ilgi duyanlar, bu alandaki tüm önemli kaynakları bir araya toplayan [şu GitHub sayfasına](https://github.com/0xemperor/Awesome-MEV) da göz atabilirler. 
+
+
+Dipnotlar:
+
+[^1]: Genelde bu sorunlar sandwich attack (front running+back running), time-bandit/uncle-bandit attacks, liquidations olarak adlandırılabilir. Genelde arbitrage MEV'lerin %90'ına denk. Bu konuda daha detaylı bilgilere [şu yazıdan](https://etherworld.co/2022/04/05/mev-research-report/) ulaşabilirsiniz. 
+
+[^2]: Bu oluşan değerin %64'ü madencilere işlem ücreti olarak ödendi, kalanı ise bu işlemi yapanlar tarafından cebe atıldı. Tüm detaylı istatistiklere [şu bağlantıdan](https://explore.flashbots.net) ulaşabilirsiniz. 
+
+[^3]: "Bu iki problemi nasıl çözdüler?" diye soracak olursanız: Önceden kullanılan 'en yüksek parayı veren en yukarı çıkar' yönteminde tarayıcılar blokzincir üzerine emir göndererek işlemlerini önceliklendirmeye çalışırlardı. Bu da pek çok başarısız emir nedeniyle zincirin gereksiz yere dolmasına neden oluyordu. MEV-Geth ile işlemleri demetler (ingilizcesi bundle) haline getirip, zincir-dışı olarak göndermeye başladılar. Oluşturulan pazaryerinde tarayıcılar hazırladıkları demetleri gönderiyorlar ve MEV-Geth en kârlı olanları alıp işleme sokuyor. Böylece madencilerin de kârı artıyor. 
+
+[^4]: Bu alanda merkeziyesizliği teşvik etmek için Flashbots'un Flashbots Builder isimli blok üreticisi yazılımı [açık kaynak haline getirdiğini](https://writings.flashbots.net/open-sourcing-the-flashbots-builder) de ekleyelim. 
+
+[^5]: Blok üreticilerindeki merkezileşmeyi en iyi örnek, Kasım ayının son bir haftasında [en büyük 5 üreticinin toplam blokların %85'ini üretmiş](https://www.relayscan.io/overview?t=7d) olması
