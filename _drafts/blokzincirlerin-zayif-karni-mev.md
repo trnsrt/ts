@@ -22,7 +22,7 @@ MEV'nin buna benzer başka pek çok örneği var, ama yukarıdaki iki konu bu al
 
 | ![mev-over-time](/assets/mev-over-time_v2_800.jpg)|
 |:--:| 
-| *MEV'nin zaman içinde değişimi. Gördüğünüz gibi başlangıçta çok daha fazla iken zaman içinde azalıyor. Kaynak [Flashbots]https://explore.flashbots.net*|
+| *MEV'nin zaman içinde değişimi. Gördüğünüz gibi başlangıçta çok daha fazla iken zaman içinde azalıyor. Kaynak [Flashbots](https://explore.flashbots.net)*|
 
 Bu arada sorunun sadece işlemi gerçekleşmeyen ya da verdiği emirde yüksek fiyattan işlem yapmak zorunda kalan kullanıcılar ile sınırlı olmadığını belirtelim. Hedefledikleri bloklarda işlemlerin yer almasını isteyen kişiler, işlemlerin gerçeklemesini sağlayabilmek için adeta emir üzerine emir yağdırarak, hem blokların dolmasına hem de genel olarak işlem ücretlerinin artmasına neden oluyorlar. 
 
