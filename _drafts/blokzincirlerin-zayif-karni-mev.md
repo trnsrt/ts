@@ -20,7 +20,7 @@ Bu alanda sevilmeyen işlemlere baktığımızda bunların en başında '**sandv
 #### Ne kadar önemli?
 MEV'nin buna benzer başka pek çok örneği var, ama yukarıdaki iki konu bu alandaki gelirin büyük bir kısmını oluşturuyor[^1]. Peki çok önemli bir konu mu bu?  MEV ile şu ana kadar [682 milyon ABD Doları değerin elde edildiğini](https://explore.flashbots.net) söylersek olayın büyüklüğünü kavrayabiliriz belki[^2]. Kimin cebinden çıkıyor peki bu MEV? Kullanıcıların cebinden. 
 
-| ![mev-over-time](/assets/mev-over-time_v3_800.jpg)|
+| ![mev-over-time](/assets/mev-over-time_v3_800_.jpg)|
 |:--:| 
 | *MEV'nin zaman içinde değişimi. Gördüğünüz gibi başlangıçta çok daha fazla iken zaman içinde azalıyor. Kaynak [Flashbots](https://explore.flashbots.net)*|
 
