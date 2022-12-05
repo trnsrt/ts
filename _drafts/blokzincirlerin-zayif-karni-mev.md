@@ -2,15 +2,15 @@ Bu yazımızda başta Ethereum olmak üzere hemen hemen tüm akıllı kontrat pl
 
 Ethereum blokzinciri üzerinde son zamanlarda çok konuşulan ama teknik olduğu için anlaşılması zor konulardan biri de MEV. İlk olarak Miner Extractable Value olarak tanımlanan ama sonradan Maximal Extractable Value olarak değiştirilen bu kavram, kimilerine göre blokzinciri saran bir kangren, kimine göre ise faydalı bir enstrüman. Bu ilk bölümde gelin nedir, neye yarar, ona göz atalım: 
 
-| ![rope](/assets/rope-gaaa6ad70d_800.jpg)|
+| ![squeeze](/assets/orange-gf9bfbc754_800.jpg)|
 |:--:| 
-| *Image by [ Mabel Amber](https://pixabay.com/users/mabelamber-1377835/) from [Pixabay](https://pixabay.com/)*|
+| *Image by [gate74](https://pixabay.com/users/gate74-5942741/) from [Pixabay](https://pixabay.com/)*|
 
 ### Nedir MEV? 
 
 MEV'nin ne olduğu anlamak için öncelikle Ethereum'da işlemler nasıl gerçekleşiyor, onu anlamak gerekli. 
 
-Siz bir kullanıcı olarak işlem yapmak istediğinizde işleminizi Ethereum'da bekleyen işlemlerin olduğu havuz atıyorsunuz. Bunu yaparken cüzdanınızın bağlı olduğu bir bağlantı noktası (buna ingilizcede remote procedure call nodes kısaca RPC deniyor) kullanıyorsunuz. Havuzda toplanan işlemlerin derlenip toparlanıp bloklara yazılmasından eskiden madenciler sorumlu idi. Gelen işlemleri hangi sıra ile yazacaklarına madenciler karar veriyorlardı. Genelde de burada 'parayı basan blokzincirde yerini alır' prensibi geçerliydi (ki bu prensip hâlâ devam ediyor). 
+Siz bir kullanıcı olarak işlem yapmak istediğinizde işleminizi Ethereum'da bekleyen işlemlerin olduğu havuza atıyorsunuz. Bunu yaparken cüzdanınızın bağlı olduğu bir bağlantı noktası (buna ingilizcede remote procedure call nodes kısaca RPC deniyor) kullanıyorsunuz. Havuzda toplanan işlemlerin derlenip toparlanıp bloklara yazılmasından eskiden madenciler sorumlu idi. Gelen işlemleri hangi sıra ile yazacaklarına madenciler karar veriyorlardı. Genelde de burada 'parayı basan blokzincirde yerini alır' prensibi geçerliydi (ki bu prensip hâlâ devam ediyor). 
 
 #### Ne gibi sorunlar yaratıyordu?
 Ethereum yoğun bir ağ ve içinde her bir bloğun üretiminin 12-15 saniye sürdüğü düşünülürse, bu sistemde biriken pek çok işlem emri demek. Havuzda bulunan bütün işlemler herkes tarafından görülebildiği için, gönderilen işlemlerin hangi öncelikle blokzincire yazılacağı konusunda ciddi bir manipülasyon yapılma şansı var. İşte işlemlerin sırasının yeniden düzenlenmesi yoluyla blokzincire ödenen işlem ücretlerini artırma olayına MEV deniyor. Peki kim neden yüksek işlem ücreti verir? Bu zararlı mıdır, yoksa yararlı mı? Birkaç örnek ile anlamaya çalışalım:
@@ -41,7 +41,7 @@ Blokzincirler üzerinde MEV problemine henüz kökten bir çözüm getirildiği 
 Flashbots tarafından geliştirilen yazılımlar ve bunları kullanan taşıyıcılar, başarılı olmasına oldu ama bu sefer de, Ethereum ekosisteminde bir başka sorun ortaya çıktı. Yazılımı geliştiren ABD'li ekip, işlemler üzerinde sansür uygulamaya başladı (ABD'de Tornado Cash ile başlayan sansür konusunu daha önceki [şu yazımızda](/genel/2022/08/31/Ethereum-sansure-nasil-tepki-verecek.html) detaylıca anlatmıştık). 
 
 #### Sorun kökten çözülemez mi?
-Sorunu temelden halledebilecek iki çözüm geliyor akla: Birincisi, işlemleri emir verildiği zaman sırasına göre dizecek bir altyapı (böylece daha fazla para veren öne geçemeyecek). Bu her ne kadar bir çözüm gibi görünse de, gerçekten yapılmalı mı tartışmalı. Zira, MEV içinde piyasaları düzelten arbitraj gibi 'iyi huylu' olanlar da var. Eğer bir kullanıcı arbitraj fırsatı değerlendirmek istiyorsa ve bunun için daha fazla işlem ücreti ödemeye razıysa, neden onu engelleyesiniz ki? Bırakın, daha yüksek ücret versin, böylece sistemi yürütenler kazansın. 
+Sorunu temelden halledebilecek iki çözüm geliyor akla: Birincisi, işlemleri emir verildiği zaman sırasına göre dizecek bir altyapı (böylece daha fazla para veren öne geçemeyecek). Bu her ne kadar bir çözüm gibi görünse de, gerçekten yapılmalı mı tartışmalı. Zira, MEV içinde piyasaları düzelten arbitraj gibi 'iyi huylu' olanlar da var. Eğer bir kullanıcı arbitraj fırsatını değerlendirmek istiyorsa ve bunun için daha fazla işlem ücreti ödemeye razıysa, neden onu engelleyesiniz ki? Bırakın, daha yüksek ücret versin, böylece sistemi yürütenler kazansın. 
 
 Burada ikinci ve asıl konu sandviç atak gibi durumlarıda ortaya çıkan 'kötü huylu' MEV'leri engellemekte. Bunu yapabilmenin yolu da işlem havuzuna düşen emirlerin görünürlüğünü engellemek. Böylece emrin önüne ve arkasına işlem konulamasın. Peki bu nasıl sağlanabilir? Tüm işlem emirlerini şifreleyerek işlemler üzerindeki manipülasyonu önlemek yoluyla.  
 
@@ -49,11 +49,11 @@ Yukarıdaki iki çözümden özellikle ikincisi, daha önce [bir yazımızda det
 
 
 #### Kökten çözüm gelene kadar Flashbots'un yeni önerileri var
-Sorun şu ki, Ethereum'un ana geliştiricilerinin bu çözümleri yürürlüğe koyabilmeleri için daha bir hayli vakte ihtiyaçları var. İşte burada devreye yine Flashbots girme niyetinde. Şu ana kadar sorunları çözme konusunda Ethereum'a bir hayli yardımcı olan Flashbots geliştiricileri, geçtiğimiz hafta içinde [SUAVE adını verdikleri yeni versiyonda](https://writings.flashbots.net/the-future-of-mev-is-suave/), hem MEV'lerin etkisini azaltma hem de Ethereum'daki sansür sorununa çözüm olabilecek daha merkeziyetsiz bir sistem önerisinde bulunuyorlar.  Flashbots konusuna önümüzdeki hafta devam edeceğiz. 
+Sorun şu ki, Ethereum'un ana geliştiricilerinin bu çözümleri yürürlüğe koyabilmeleri için daha bir hayli vakte ihtiyaçları var. İşte burada devreye yine Flashbots girme niyetinde. Şu ana kadar sorunları çözme konusunda Ethereum'a bir hayli yardımcı olan Flashbots geliştiricileri, geçtiğimiz hafta içinde [SUAVE adını verdikleri yeni versiyonda](https://writings.flashbots.net/the-future-of-mev-is-suave/), hem MEV'lerin etkisini azaltma hem de Ethereum'daki sansür sorununa çözüm olabilecek daha merkeziyetsiz bir sistem önerisinde bulundular.  Flashbots konusuna önümüzdeki hafta devam edeceğiz. 
 
 ### Arkası Yarın
 
-MEV, Ethereum başta olmak üzere blokzincirlerin çözmeleri gereken önemli bir sorun. Bu alanda yaptığı geliştimeler  ile bir dereceye kadar başarılı olan Flashbots ekibinin çözümleri şimdilerde sansür nedeniyle zorlanıyor. Ethereum'un ana geliştiricilerinin de sorunlara çözüm bulmak için zamana ihtiyaçları var. Bu süre zarfında Flashbots'un yeni sürümü SUAVE sorunlara ne kadar çözüm olabilecek hep birlikte yakından izleyeceğiz. MEV bir süre daha gündemi meşgul etmeye devam edecek gibi görünüyor. 
+MEV, Ethereum başta olmak üzere blokzincirlerin çözmeleri gereken önemli bir sorun. Bu alanda yaptığı geliştirmeler ile bir dereceye kadar başarılı olan Flashbots ekibinin çözümleri şimdilerde sansür nedeniyle zorlanıyor. Ethereum'un ana geliştiricilerinin de sorunlara çözüm bulmak için zamana ihtiyaçları var. Bu süre zarfında Flashbots'un yeni sürümü SUAVE sorunlara ne kadar çözüm olabilecek hep birlikte yakından izleyeceğiz. MEV bir süre daha gündemi meşgul etmeye devam edecek gibi görünüyor. 
 
 ---
 
