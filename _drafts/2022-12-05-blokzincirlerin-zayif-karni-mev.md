@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Blokzincirlerin zayıf karnı MEV"
+date:   2022-12-05 17:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
 Bu yazımızda başta Ethereum olmak üzere hemen hemen tüm akıllı kontrat platformlarının zayıf karnı olarak adlandırılan MEV olayının üzerine gidiyoruz. 
 
 Ethereum blokzinciri üzerinde son zamanlarda çok konuşulan ama teknik olduğu için anlaşılması zor konulardan biri de MEV. İlk olarak Miner Extractable Value olarak tanımlanan ama sonradan Maximal Extractable Value olarak değiştirilen bu kavram, kimilerine göre blokzinciri saran bir kangren, kimine göre ise faydalı bir enstrüman. Bu ilk bölümde gelin nedir, neye yarar, ona göz atalım: 
@@ -75,3 +83,12 @@ Dipnotlar:
 [^1]: Genelde bu sorunlar sandwich attack (front running+back running), time-bandit/uncle-bandit attacks, liquidations olarak adlandırılabilir. Genelde arbitrage MEV'lerin %90'ına denk. Bu konuda daha detaylı bilgilere [şu yazıdan](https://etherworld.co/2022/04/05/mev-research-report/) ulaşabilirsiniz. 
 
 [^2]: Bu oluşan değerin %64'ü madencilere işlem ücreti olarak ödendi, kalanı ise bu işlemi yapanlar tarafından cebe atıldı. Tüm detaylı istatistiklere [şu bağlantıdan](https://explore.flashbots.net) ulaşabilirsiniz. 
+
+---
+
+
+*Not 1: Bu yazı ilk olarak 5 Aralık 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı]()*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
