@@ -5,6 +5,11 @@ MEV (Maximal Extractable Value), Ethereum (ve Cosmos benzeri diğer blokzincirle
 
 Bu yazımızda, gelin önce MEV konusunda özellikle [Flashbots](https://www.flashbots.net/) tarafından geliştirilen önlemlere bakalım. Sonrasında ise Flashbots'un gelecek planlarına değinelim. 
 
+
+| ![squeeze](/assets/orange-gf9bfbc754_800.jpg)|
+|:--:| 
+| *Image by [gate74](https://pixabay.com/users/gate74-5942741/) from [Pixabay](https://pixabay.com/)*|
+
 ### Flashbots MEV'ye nasıl çözümler getirdi?
 
 MEV'nin kullanıcılara verdiği zararın ayyuka çıkması sonrası, farklı geliştirici grupları tarafından bu soruna çözüm bulunabilmesi amacıyla pek çok öneri ortaya atıldı. Bu çözüm önerileri içinde en çok tutulanı bir araştırma kuruluşu olan Flashbots'un geliştirmeleri oldu. Hızlıca neler yaptıklarına bir göz atalım:
