@@ -80,7 +80,7 @@ Konuya daha fazla ilgi duyanlar, bu alandaki tüm önemli kaynakları bir araya 
 ---
 
 
-*Not 1: Bu yazı ilk olarak 5 Aralık 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı]()*
+*Not 1: Bu yazı ilk olarak 5 Aralık 2022'de [BTCHaber.com](https://www.btchaber.com/)'da [yayınlandı](https://www.btchaber.com/blokzincirlerin-zayif-karni-mev/)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
