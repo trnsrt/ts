@@ -1,8 +1,10 @@
-Blokzincirlerin zayıf karnı MEV
-
 Bu yazımızda başta Ethereum olmak üzere hemen hemen tüm akıllı kontrat platformlarının zayıf karnı olarak adlandırılan MEV olayının üzerine gidiyoruz. 
 
 Ethereum blokzinciri üzerinde son zamanlarda çok konuşulan ama teknik olduğu için anlaşılması zor konulardan biri de MEV. İlk olarak Miner Extractable Value olarak tanımlanan ama sonradan Maximal Extractable Value olarak değiştirilen bu kavram, kimilerine göre blokzinciri saran bir kangren, kimine göre ise faydalı bir enstrüman. Bu ilk bölümde gelin nedir, neye yarar, ona göz atalım: 
+
+| ![rope](/assets/rope-gaaa6ad70d_800.jpg)|
+|:--:| 
+| *Image by [ Mabel Amber](https://pixabay.com/users/mabelamber-1377835/) from [Pixabay](https://pixabay.com/)*|
 
 ### Nedir MEV? 
 
