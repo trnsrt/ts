@@ -1,7 +1,7 @@
 # Yazı II Flashbots MEV sorununu çözebilecek mi?
 Bu yazımızda, Ethereum protokolü oyuncularının en çok tercih ettiği yazılımın sahibi olan Flashbots ekibinin, MEV (Maximal Extractable Value) ve merkezileşme konularında şimdiye kadar yaptıklarını ve bundan sonraki hedeflerini gözden geçireceğiz. 
 
-MEV (Maximal Extractable Value), Ethereum (ve Cosmos benzeri diğer blokzincirler) üzerindeki işlemlerin sıralarının değiştirilerek, işlem ücretlerini artırabilmek için yapılan her tür düzenlemeye verilen ad. Detaylarını ve bu konuda yaşananları bir [önceki yazımızda] bulabilirsiniz. 
+MEV (Maximal Extractable Value), Ethereum (ve Cosmos benzeri diğer blokzincirler) üzerindeki işlemlerin sıralarının değiştirilerek, işlem ücretlerini artırabilmek için yapılan her tür düzenlemeye verilen ad. Detaylarını ve bu konuda yaşananları bir [önceki yazımızda](/genel/2022/12/05/blokzincirlerin-zayif-karni-mev.html) bulabilirsiniz.
 
 Bu yazımızda, gelin önce MEV konusunda özellikle [Flashbots](https://www.flashbots.net/) tarafından geliştirilen önlemlere bakalım. Sonrasında ise Flashbots'un gelecek planlarına değinelim. 
 
@@ -25,13 +25,13 @@ Ethereum'un 15 Eylül sonrası uygulamaya giren yeni versiyonunda artık madenci
 - Kullanıcı işlemini cüzdanı üzerinden imzalar ve genel işlem havuzuna gönderir (ya da bu iş için kurulan özel aracılara) 
 - Araştırmacı/tarayıcı (ingilizcesi 'Searcher') kârlı işlemleri bir araya getirip, blok üreticilerine verir. 
 - Blok üreticileri, blokları üretip onaylayıcıların onayına sunar. 
-- Onaylayıcılar ise kendilerine sunulan bloklardan en kârlısını (en yüksek işlem ücreti önereni) onaylayarak blok oluşumuna izin verir
+- Onaylayıcılar ise kendilerine sunulan bloklardan en kârlısını (en yüksek işlem ücreti önereni) onaylayarak blok oluşumuna izin verir. 
 
 | ![Ethereum_sistemi_oyunculari](/assets/ethereum_sistem_oyunculari_v5.jpg)|
 |:--:| 
 | *Yeni Ethereum sistemindeki oyuncular. Eskiden madenciler hem blok üretimini hem de onaylamasını yapıyorlardı. Yeni sistemde, blok üretimi daha merkezi ve güçlü yapılarla, blokların onaylanması ise daha hafif ve merkeziyetsiz onaylayıcılar tarafından yapılacak*|
 
-Ethereum geliştiricileri, özellikle bloğu oluşturanlar ile onaylayanları ayırarak adeta bir güçler ayrımı yapmaya çalışıyor. Zira, her iki işi bir arada yapabilmek oldukça zahmetli ve yüksek kapasite gerektiriyor. Her makine yüksek kapasite ile işlem yapamayacağı için ikisini bir arada yapmak sistemin merkezileşmesi tehlikesini doğuruyor. O nedenle, Ethereum blok üreticilerinin uzman haline gelip yüksek kapasite ile işlem yapmasına dolayısıyla merkezileşmelerine izin verirken, onaylayıcıların yüklerini hafif tutarak o tarafı merkeziyetsiz hale getirmeye çalışıyor. Yani bir nevi onaylayıcı tarafı için blok üretici tarafını feda ediyor. 
+Ethereum geliştiricileri, özellikle bloğu oluşturanlar ile onaylayanları ayırarak adeta bir güçler ayrımı yapmaya çalışıyorlar. Zira, her iki işi bir arada yapabilmek oldukça zahmetli ve yüksek kapasite gerektiriyor. Her makine yüksek kapasite ile işlem yapamayacağı için ikisini bir arada yapmak sistemin merkezileşmesi tehlikesini doğuruyor. O nedenle, Ethereum blok üreticilerinin uzman haline gelip yüksek kapasite ile işlem yapmasına dolayısıyla merkezileşmelerine izin verirken, onaylayıcıların yüklerini hafif tutarak o tarafı merkeziyetsiz hale getirmeye çalışıyorlar. Yani bir nevi onaylayıcı tarafı için blok üretici tarafını feda ediyor. 
 
 İdeal hedeflenen sistem işleyişi şu şekilde: Tarayıcılar, olabildiğince kârlı işlemleri demet haline getirip blok üreticilerine sunarlar. Blok üreticileri de bunlardan kendilerine en çok işlem ücreti ödeyen tarayıcıların demetlerini seçerler. Benzer şekilde blok üreticileri de, ürettikleri blokların kabul görüp işleme alınması için olabildiğince fazla kârı onaylayıcılara teklif ederler. Yani işlem ücretleri zincirin sonundaki onaylayıcılara doğru akar. 
 
@@ -41,9 +41,9 @@ Yeni durumda MEV ne olacak? Sistem, yukarıdaki tarayıcı, blok üreticileri ar
 
 Ethereum'un yeni versiyonu ile birlikte, Flashbots eski sistemde kullandığı MEV-Geth yazılımının yerine Ethereum'un yeni sistemine hazırlık için [MEV-Boost](https://github.com/flashbots/mev-boost/) yazılımını uygulamaya aldı. 
 
-Aslına bakarsanız MEV-Boost Ethereum'un gelecekteki yol haritasının önemli bir parçası ve sistem oyuncuları arasında 'kuvvetlerin ayrılığı' prensibini getirecek olan PBS (blok teklif edenler ile blok üreticilerin ayrılması İngilizce proposer-builder-separation) geliştirmesinin bir ön provası olarak görülebilir. Bu yazılım, gerek tarayıcılar gerekse blok üreticileri tarafından kullanılan şeffaf bir sistem. Blok üretim işini makinelerin tek başlarına yapmak yerine büyük blok üreticilerine devretmesini (outsource etmesini) sağlayan bu sistem, o kadar başarılı oldu ki, şu an [üretilen blokların %90'ında MEV-Boost yazılımı kullanıyor](https://explore.flashbots.net). 
+Aslına bakarsanız MEV-Boost Ethereum'un gelecekteki yol haritasının önemli bir parçası ve sistem oyuncuları arasında 'kuvvetlerin ayrılığı' prensibini getirecek olan PBS (blok teklif edenler ile blok üreticilerin ayrılması İngilizce proposer-builder-separation) geliştirmesinin bir ön provası olarak görülebilir. Bu yazılım, gerek tarayıcılar gerekse blok üreticileri tarafından kullanılan şeffaf bir sistem. Blok üretim işini makinelerin tek başlarına yapmak yerine büyük blok üreticilerine devretmesini (outsource etmesini) sağlayan bu sistem, o kadar başarılı oldu ki, şu an [üretilen blokların %90'ında MEV-Boost yazılımı kullanılıyor](https://explore.flashbots.net). 
 
-Bu sefer de başka bir sorun ortaya çıktı. O da Flashbots'un işlem taleplerini tarayıcılardan blok üreticilerine ileten kendi aracıları (bunlara taşıyıcı da denebilir ingilizcesi relayer) üzerinden gelen işlemlere sansür uygulaması. Flashbots ABD'de kurulu bir şirket. ABD'nin kara para aklama ile ilgili iki kuruluşundan biri olan OFAC'ın Tornado Cash uygulamasını ve bu uygulamaya kullanan adresleri kara listeye aldığına [önceki bir yazımızda](/genel/2022/08/31/Ethereum-sansure-nasil-tepki-verecek.html) değinmiştik. İşte, Flashbots da bu yaptırımlara uyarak, kendine ait taşıyıcılara sansür uygulamaya başladı. 
+Bu sefer de başka bir sorun ortaya çıktı. O da Flashbots'un işlem taleplerini tarayıcılardan blok üreticilerine ileten kendi aracıları (bunlara taşıyıcı da denebilir ingilizcesi relayer) üzerinden gelen işlemlere sansür uygulaması. Flashbots ABD'de kurulu bir şirket. ABD'nin kara para aklama ile ilgili iki kuruluşundan biri olan OFAC'ın Tornado Cash uygulamasını ve bu uygulamayı kullanan adresleri kara listeye aldığına [önceki bir yazımızda](/genel/2022/08/31/Ethereum-sansure-nasil-tepki-verecek.html) değinmiştik. İşte, Flashbots da bu yaptırımlara uyarak, kendine ait taşıyıcılara sansür uygulamaya başladı. 
 
 Bunun sonucu olarak yeni versiyona geçtikten sonra Ethereum üzerindeki işlemlerin yaklaşık %72'si sansürlenmeye başladı. Aşağıdaki tabloda, 15 Eylül'den bu yana oluşan bloklardaki işlemleri görüyorsunuz.
 
@@ -60,18 +60,18 @@ Bir ara OFAC ile uyumlu blokların sayıları %80'e kadar çıkmışken, sonras�
 
 Flashbots benzeri ürünler, MEV'nin azaltılmasını ve daha adil bölünmesini sağlıyorlar. İleride, Ethereum'un yeni sistemi oturduğu zaman, eğer hedeflenen rekabetçi yapı gerçekleşirse, MEV'in ağırlıklı bir kısmı sistemi koruyan onaylayıcılara gidecek. Onaylayıcılar, ETH stake ederek işlemleri onaylıyorlar ve sistemin güvenliğini sağlıyorlar. Böylece MEV bir nevi sistemin güvenlik bütçesine katkı yapmış olacak.[^2] 
 
-Ethereum'un geliştirmeleri maalesef uzun zaman alıyor. Bu süre zarfında ne olacak peki? Burada Flashbots, geçtiğimiz günlerde [SUAVE isimli yeni çalışma yayınlayarak](https://writings.flashbots.net/the-future-of-mev-is-suave/) oluşan sorunlara çözüm bulmayı hedeflediğini açıkladı. Neler bunlar?
+Ethereum'un geliştirmeleri maalesef uzun zaman alıyor. Bu süre zarfında ne olacak peki? Burada Flashbots, geçtiğimiz günlerde [SUAVE isimli yeni bir çalışma yayınlayarak](https://writings.flashbots.net/the-future-of-mev-is-suave/) oluşan sorunlara çözüm bulmayı hedeflediğini açıkladı. Neler bunlar?
 
 SUAVE'nin birkaç hedefi var. Bunlardan birincisi, MEV ile ortaya çıkan değerin kullanıcılara geri verilmesi - ki bu MEV'in kötü kullanımından kurtulmanın en büyük çözümü olabilir. Nasıl olacak bu? İşlemlerin gizlilik içinde sıralanması yoluyla. 
 
-SUAVE'nin ikici hedefi, blok üreticilerine sadece Ethereum değil, diğer alternatif blokzincir ağlar (Cosmos, Avalanche gibi) ya da ikinci seviye altyapılar (Arbitrum, Optimum gibi) ile entegre olabilecekleri bir sistem sunmak. SUAVE yukarıda yazdığımız sıralama işlemini tüm ağlarda yaparak blok üreticilerine sunacak. Bu sayede blok üreticilerinin de SUAVE kullanımı özendirilecek. 
+SUAVE'nin ikici hedefi, blok üreticilerine sadece Ethereum değil, diğer alternatif blokzincir ağlar (Cosmos, Avalanche gibi) ya da ikinci seviye altyapılar (Arbitrum, Optimum gibi) ile entegre olabilecekleri bir sistem sunmak. SUAVE yukarıda yazdığımız sıralama işlemini tüm ağlarda yaparak blok üreticilerine sunacak. Bu sayede blok üreticileri de SUAVE kullanmaya özendirilecek.
 
 Üçüncü önemli nokta ise, çok güçlü ve sayıca az olan blok üreticilerinin arasındaki rekabetin artabilmesi için oluşturulan SUAVE'nin olabildiğince merkeziyetsiz bir hale getirilmesi.[^3]
 
 Kısacası, Flashbots burada Ethereum'un yol haritasında yer alan güçlü blok üreticilerinin daha merkeziyetsiz olmasını sağlayacak ve bu sayede oluşan rekabet sonucu MEV'nin kullanıcılara geri verileceği bir çözüm vaadi ile geliyor. Bunu başarabilecekler mi, heyecanla izleyeceğiz. Şu ana kadar yaptıkları iki hamlede (MEV-Geth ve MEV-Boost) elde ettikleri pazar payı başarısı, üçüncü hamlenin yapılabilirliği konusunda bir referans sağlasa da, bu sefer altına girdikleri yükün çok daha ağır olduğunu belirtmek gerek. 
 
 ### Sonuç 
-Flashbots, geliştirdiği MEV çözümleri ile madenciler (Ethereum'un eski versiyonunda), tarayıcılar ve blok üreticileri arasında şeffaflık sağlamaya başarırken, merkezilik ve sansür konularında tıkandı. Yeni çıkan SUAVE sürümü ile bu sorunlara da çözüm bulmak için uğraşıyorlar. Bunda başarılı olacaklar mı, hep birlikte göreceğiz. 
+Flashbots, geliştirdiği MEV çözümleri ile madenciler (Ethereum'un eski versiyonunda), tarayıcılar ve blok üreticileri arasında şeffaflık sağlamayı başarırken, merkezilik ve sansür konularında tıkandı. Yeni çıkan SUAVE sürümü ile bu sorunlara da çözüm bulmak için uğraşıyorlar. Bunda başarılı olacaklar mı, hep birlikte göreceğiz. 
 
 ---
 
