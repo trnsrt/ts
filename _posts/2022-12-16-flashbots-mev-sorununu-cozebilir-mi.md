@@ -1,10 +1,15 @@
-# Yazı II Flashbots MEV sorununu çözebilecek mi?
+---
+layout: post
+title:  "Flashbots MEV sorununu çözebilecek mi?V"
+date:   2022-12-16 17:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
 Bu yazımızda, Ethereum protokolü oyuncularının en çok tercih ettiği yazılımın sahibi olan Flashbots ekibinin, MEV (Maximal Extractable Value) ve merkezileşme konularında şimdiye kadar yaptıklarını ve bundan sonraki hedeflerini gözden geçireceğiz. 
 
 MEV (Maximal Extractable Value), Ethereum (ve Cosmos benzeri diğer blokzincirler) üzerindeki işlemlerin sıralarının değiştirilerek, işlem ücretlerini artırabilmek için yapılan her tür düzenlemeye verilen ad. Detaylarını ve bu konuda yaşananları bir [önceki yazımızda](/genel/2022/12/05/blokzincirlerin-zayif-karni-mev.html) bulabilirsiniz.
 
 Bu yazımızda, gelin önce MEV konusunda özellikle [Flashbots](https://www.flashbots.net/) tarafından geliştirilen önlemlere bakalım. Sonrasında ise Flashbots'un gelecek planlarına değinelim. 
-
 
 | ![lightning](/assets/lightning-gd2556cb2a_800.jpg)|
 |:--:| 
@@ -87,6 +92,16 @@ MEV Markets Part 1 - "[PoW](https://mirror.xyz/0xshittrader.eth/WiV8DM3I6abNMVsX
 
 Konuya daha fazla ilgi duyanlar, bu alandaki tüm önemli kaynakları bir araya toplayan [şu GitHub sayfasına](https://github.com/0xemperor/Awesome-MEV) da göz atabilirler. 
 
+---
+
+
+*Not 1: Bu yazı ilk olarak 16 Aralık 2022'de [BTCHaber.com'da yayınlandı](https://www.btchaber.com/flashbots-mev-sorununu-cozebilecek-mi//)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
+
+---
 
 Dipnotlar:
 
