@@ -26,10 +26,10 @@ It is important to note that, even though NFT stands for non-fungible-token, whi
 
 All the main players in art, namely producers, curators, exhibitions are looking at NFTs as a way to reach a wider audience and get a higher return for their efforts. Consumers of such art, namely individuals and collectors have already found an efficient way to get exposed to art with the introduction of digital art. NFTs have actually given them the ability to easily buy (remember: impulse buying is a major part of markets) and sell their collections thereby giving them a decent way to extract maximum value out of their art investments.
 
-All in all, this creates a virtuous circle. The more value collectors get from their art, the more they invest into further art pieces. This, in turn, brings more artists into the space. As the buy and sell keeps on, artists get loyalty fees from such sale. As numbers grow, we start seeing new artists and new technologies being used to create even more interesting art pieces. NFTs are becoming the glue among different components of this exponentially growing cycle.
+All in all, this creates a virtuous circle. The more value collectors get from their art, the more they invest into further art pieces. This, in turn, brings more artists in the space. As the buy and sell keep on, artists get loyalty fees from such sales. As numbers grow, we start seeing new artists and new technologies being used to create even more interesting art pieces. NFTs are becoming the glue among different components of this exponentially growing cycle.
 
 ### To be continued…
-As you see there are several additional benefits that NFTs would bring to the table. Some migth consider it vague or even marginal, but to those in art world the effect of such benefits are enormous. We will continue to explore the benefits of NFT in our future posts... 
+As you see there are several additional benefits that NFTs would bring to the table. Some might consider it vague or even marginal, but to those in teh art world the effects of such benefits are enormous. We will continue to explore the benefits of NFT in our future posts…
 
 ---
 *This piece was [first published]() in [BlockchainIST Center](https://medium.com/blockchainist-center) on December 17th, 2022.*
