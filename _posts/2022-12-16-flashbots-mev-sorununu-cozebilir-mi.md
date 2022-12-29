@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Flashbots MEV sorununu çözebilecek mi?V"
+title:  "Flashbots MEV sorununu çözebilecek mi?"
 date:   2022-12-16 17:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
