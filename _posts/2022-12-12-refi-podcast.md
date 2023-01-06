@@ -6,7 +6,7 @@ categories: Genel
 tags: videos Etkinlikler
 ---
 
-<img align="left" src="/assets/refi-podcast-poster.jpg" style="width:40%; padding-right:20px"> [Imece](https://imece.com/) ekibinden sevgili [Buğra Çelik](https://twitter.com/BugraCelik)'in hazırlayıp sunduğu ReFi Podcast'te Web3’ün daha geniş kitlelere ulaşma çabasını, merkeziyetsizliği, toplulukları ve DAO’ları konuştuk. 
+<img align="left" src="/assets/refi-podcast-poster.jpg" style="width:40%; padding-right:20px"> [Imece](https://imece.com/) ekibinden sevgili [Buğra Çelik](https://twitter.com/BugraCelik)'in hazırlayıp sunduğu ReFi Podcast'te Web3’ün daha geniş kitlelere ulaşma çabasını, merkeziyetsizliği, toplulukları ve DAO’ları konuştuk. Ekibin diğer podcastlerini [şu linkten](https://www.spreaker.com/show/refi-turkiye-podcast) takip edebilirsiniz. Gördüğüm kadarıyla en uzun kayıt bizimki olmuş :). Umarım beğenirsiniz. 
 
 &nbsp;
 
