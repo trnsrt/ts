@@ -12,7 +12,7 @@ tags: videos Etkinlikler
 
 <table><tr>
 <td style="width:50%">
-<img src="/assets/blockchain-days-poster_800.jpg">
+<img src="/assets/odtu-blockchain-days-poster_v2.jpg">
 </td>
 <td style="width:50%">
 <img src="/assets/odtu-blockhaindays-panel.jpg">
