@@ -6,7 +6,7 @@ categories: Genel
 tags: videos Etkinlikler
 ---
 
-<img align="left" src="/assets/finans-kongresi-poster.png" style="width:40%; padding-right:20px"> [ODTÜ İşletme Topluluğu](https://twitter.com/METUBIZ) tarafından düzenlenen '[16. Finans Kongresi](https://www.finanskongresi.net/)'nde "Geleneksel Finanstan Merkeziyetsiz Finans Dünyasına: Nedir, Ne Değildir?" konulu bir konuşma yaptım. ODTÜ KKM salonunda sevgili Efe Bulduk ve Baki Er'in eğlenceli paneli sonrası gerçekleşen konuşmada klasik finans ile  merkeziyetsiz finansın farklarını konuştuk. Beni en güzel şekilde ağırlayan Metubiz ekibine teşekkür ederim. 
+<img align="left" src="/assets/Finans_kongresi.jpg" style="width:40%; padding-right:20px"> [ODTÜ İşletme Topluluğu](https://twitter.com/METUBIZ) tarafından düzenlenen '[16. Finans Kongresi](https://www.finanskongresi.net/)'nde "Geleneksel Finanstan Merkeziyetsiz Finans Dünyasına: Nedir, Ne Değildir?" konulu bir konuşma yaptım. ODTÜ KKM salonunda sevgili Efe Bulduk ve Baki Er'in eğlenceli paneli sonrası gerçekleşen konuşmada klasik finans ile  merkeziyetsiz finansın farklarını konuştuk. Beni en güzel şekilde ağırlayan Metubiz ekibine teşekkür ederim. 
 
 &nbsp;
 
