@@ -20,6 +20,8 @@ tags: videos Etkinlikler
 
 &nbsp;
 
+****
+
 <table><tr>
 <td style="width:50%">
 <img src="/assets/refi-turkiye-podcast_800.jpg">
