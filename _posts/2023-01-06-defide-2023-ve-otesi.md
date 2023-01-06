@@ -85,3 +85,13 @@ Web 3 dünyasına uzun vadeli bakanlar için umut verecek pek çok neden var, ye
 
 
 [^1]: Rakamlar Gemini sahibi Winklewoss Kardeşlerden Cameron'un DCG'nin CEO'su Barry Silbert'e yazdığı açık mektuptan alıntıdır. Barry Silbert DCG'nin Genesis'e bu kadar borcu olmadığını iddia ediyor [yazdığı cevap tweetinde](https://twitter.com/BarrySilbert/status/1609926715454771200). Kapalı yapılar olunca böyle 'ikinci el' kaynaklardan haber almak zorunda kalıyoruz maalesef. 
+
+
+---
+
+
+*Not 1: Bu yazı ilk olarak 6 Ocak 2023'de [BTCHaber.com'da yayınlandı](https://www.btchaber.com/defide-2023-ve-otesi/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
