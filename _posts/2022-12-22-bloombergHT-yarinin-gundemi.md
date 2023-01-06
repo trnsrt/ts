@@ -8,9 +8,6 @@ tags: videos Etkinlikler
 
 <img align="left" src="/assets/yarinin-gundemi-poster_v3_800.jpg" style="width:40%; padding-right:20px"> BloombergHT Radyo'da yayınlanan 'Yarının Gündemi' programında, [Pelin Yantur](https://twitter.com/pelinyantur)'un konuğu olarak 2022 yılının merkeziyetsiz finans için nasıl geçtiğini, merkeziyetsiz finansın önümüzdeki 1, 5 ve 10 yılda hayatımıza nasıl etki edeceğini, geleneksel finans ile merkeziyetsiz finans arasında nasıl bir bağ olduğunu konuştuk. Program aynı zamanda YouTube üzerinden canlı olarak yayınlandı. 
 
-Programın podcast olarak yayını da aşağıda mevcut: 
-
-https://www.bloomberghtradyo.com/song/yarinin-gundemi-6/
 
 &nbsp;
 
