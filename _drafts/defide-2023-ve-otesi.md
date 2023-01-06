@@ -1,34 +1,42 @@
+---
+layout: post
+title:  "DeFi'de 2023 ve Ötesi"
+date:   2023-01-06 17:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
 Bu yazımızda 2023 yılının bize neler getirebileceğinden bahsedeceğiz. 
 
 Geçtiğimiz yılın son [yazısında](/genel/2022/12/31/2022de-neler-yasadik.html) 2022 yılında yaşadığımız olumsuz olayları tekrar hatırlamış, yatırım tarafında işlerin tatsız olmasına rağmen, teknolojik alanda pek çok gelişmenin olduğundan bahsetmiştik. Şimdi gelin önce kısa vadede yeni girdiğimiz yılda neler yaşanabilir onu tahmin etmeye çalışalım, sonra da uzun vadede bizi heyecanlandıran gelişmelere değinelim. 
 
 ### Önümüzdeki yıldan beklentiler neler?
 
-2022 yılına damgasını vuran olay, merkezi yapılar tarafından hesapsızca kullanılan kredilerin yol açtığı balonun patlaması oldu. Balonun merkezinde olan UST-3AC-FTX yalan zincirinin piyasalardaki domino etkisi 2023 yılında da devam edebilir. Burada en büyük sorun, kriz yaşayan bu kurumların birer kapalı kutu olmaları nedeniyle riskin büyüklüğünü tam olarak göremememiz. Krizde ilk 'patlayan' UST oldu, çünkü bir blokzincir ağı olarak ne yaptıkları 'göreceli' en şeffaf olan onlardı ve alınan riskin büyüklüğü erken anlaşıldı. Bununla beraber ellerinde rezerv olarak tutulan BTC'leri kriz sırasındaki nasıl kullanıldıkları ile ilgili ‘karanlık noktalar’ oluştu. Dolayısıyla aslında onların da 'merkeziyetsiz görünümlü merkezi yapılar' olduklarını sonradan anladık. 
+2022 yılına damgasını vuran olay, merkezi yapılar tarafından hesapsızca kullanılan kredilerin yol açtığı balonun patlaması oldu. Balonun merkezinde olan UST-3AC-FTX yalan zincirinin piyasalardaki domino etkisi 2023 yılında da devam edebilir. Burada en büyük sorun, kriz yaşayan bu kurumların birer kapalı kutu olmaları nedeniyle riskin büyüklüğünü tam olarak göremememiz. Krizde ilk 'patlayan' UST oldu, çünkü bir blokzincir ağı olarak ne yaptıkları 'göreceli' en şeffaf olan onlardı ve alınan riskin büyüklüğü erken anlaşıldı. Bunu rağmen kriz sırasında rezervlerinde duran BTC'lerin nasıl kullanıldığı ile ilgili 'karanlık noktalar' vardı. Dolayısıyla aslında onların da 'merkeziyetsiz görünümlü merkezi yapılar' olduklarını sonradan görüldü.
 
-Şu anda en büyük soru işareti Grayscale Trust (GBTC)‘in de sahibi olan Digital Currency Group’un içinde bulunduğu çıkmazdan kurtulup kurtulamayacağı. Domino taşlarında son durum DCG'nin iştiraki olan Genesis'e 1.7 milyar ABD Doları, Genesis'in de Gemini Earn'e 900 milyon ABD Doları borcu olduğu, Gemini'nin de bu para ödenmediği için 340.000 müşterisinin mevduatını [dondurduğu](https://twitter.com/cameron/status/1609913051427524608). [^1]
+Şu an için en büyük soru işareti Grayscale Trust (GBTC)‘in de sahibi olan Digital Currency Group’un (DCG) içinde bulunduğu çıkmazdan kurtulup kurtulamayacağı. Domino taşlarında son durum DCG'nin iştiraki olan Genesis'e 1.7 milyar ABD Doları, Genesis'in de Gemini Earn'e 900 milyon ABD Doları borcu olduğu, Gemini'nin de bu para ödenmediği için 340.000 müşterisinin mevduatını [dondurduğu](https://twitter.com/cameron/status/1609913051427524608). [^1]
 
 #### Makroekonomik beklentiler
 
 2022 yılında, kripto piyasalarının makro ekonomik gelişmelerden fazlaca etkilendiğini gördük. Bu durum, önümüzdeki yıl özellikle kısa vadede devam edebilir. Nedir makro olarak beklentiler? Fed'in, faiz artırımlarında artık sonlara yaklaştığı, sert bir yavaşlama hatta resesyon kaygılarının başlamasıyla birlikte geri adım atmaya eğilimli olacağı düşünülüyor. Bu beklentinin gerçekleşmesi durumunda piyasalara girebilecek likidite kripto alanına da olumlu bir şekilde yansıyabilir. Karşı görüş olarak, 'ABD'de işsizlik oranları düşük seviyelerde kaldıkça FED parasal daralmaya devam edecek' şeklinde düşünenler de var. Böyle bir durumda piyasalar bir süre daha likiditeye hasret kalabilir. 
 
-Merkeziyetsiz finansının büyümesini kısa vadede bu tip makro gelişmelerden ayrışmasını sağlayacak temel bir değişim zor. Bunun temel nedeni de bu alanın hâlâ spekülatif olması. Bu nedenle bu alanda kısa vadede 'blue chip' dediğimiz kendini kanıtlamış belirli bir geçmişi olan projeler yatırımcıların gözdesi olacak. 
+Merkeziyetsiz finansının büyümesini, bu tip makro gelişmelerden ayrıştıracak bir değişimin olması kısa vadede zor. Bunun temel nedeni de bu alanın hâlâ spekülatif olması. Bu nedenle bu alanda kısa vadede 'blue chip' dediğimiz kendini kanıtlamış belirli bir geçmişi olan projeler yatırımcıların gözdesi olacak. 
 
 **Uzun vadede ise kripto dünyasının finansal piyasalardan ayrışıyor ve kendi yolunu çiziyor olması oldukça önemli. Bunun yolu da ancak ve ancak Web3'ün daha geniş kesimlerce benimsenmesi ve kullanımından geçiyor**. Bunu sağlayabilecek kısa vadeli gelişmelere bakalım öncelikle.
 
 #### Regülasyonlar
 
-Önümüzdeki dönemde bu dünyayı etkileyecek bir numaralı etken regülasyonlar olacak. Kripto dünyasına regülasyonların gelmesi neredeyse kesin gibi. Pek çok piyasa oyuncusu bunu bir kabus senaryosu olarak görse de ben aynı fikirde değilim. Konu, regülasyonun gelip gelmemesi değil, ne şekilde geleceği olmalı. Burada da önemli olan 'müşterinin parasını emanet alıp almama' kriteri. Geçtiğimiz yıl yaşanan krizlerin temel nedeni merkezi kredi verme kurumların müşteri paralarını riski hesap etmeden başkalarına kullandırmaları ya da FTX gibi müşteri paralarına pervasızca dokunmaları idi. Bu kurumların regülasyona tabi olmaları gerek. 
+Önümüzdeki dönemde bu dünyayı etkileyecek bir numaralı etken regülasyonlar olacak. Kripto dünyasına regülasyonların gelmesi neredeyse kesin gibi. Pek çok piyasa oyuncusu bunu bir kabus senaryosu olarak görse de ben aynı fikirde değilim. Konu, regülasyonun gelip gelmemesi değil, ne şekilde geleceği olmalı. Burada da önemli olan 'müşterinin parasını emanet alıp almama' kriteri. Geçtiğimiz yıl yaşanan krizlerin temel nedeni merkezi kredi verme kurumlarının müşterilerinin paralarını riski hesap etmeden başkalarına kullandırmaları ya da FTX'in yaptığı gibi müşterilerin paralarına pervasızca dokunmaları idi. Bu kurumların regülasyona tabi olmaları gerek.
 
-Buradaki sıkıntı, kanun koyucuların nerede duracakları. Zira, merkeziyetsiz finansın müşteri parasına dokunmadığı, zaten blokzincir teknolojisinin temel değer önerisinin kullanıcıya 'dijital varlığına tam sahip olma hakkı vermesi' olduğu unutulmamalı. Merkeziyetsiz finans üzerinde uygulanmak isteyecek regülasyon hem uygulanabilirlik açısından etkisiz kalabilir. Üstelik finansal piyasaları bir üst lige taşıyacak büyük bir teknolojinin erken aşamada önünü keserek ülkelerin global yarışta geri kalmasına neden olabilir.
+Buradaki sıkıntı, kanun koyucuların nerede duracakları. Zira, merkeziyetsiz finansın müşteri parasına dokunmadığı, zaten blokzincir teknolojisinin temel değer önerisinin kullanıcıya 'dijital varlığına tam sahip olma hakkı vermesi' olduğu unutulmamalı. Merkeziyetsiz finansa getirilebilecek regülasyon uygulanabilirlik açısından etkisiz kalabilir.  Üstelik finansal piyasaları bir üst lige taşıyacak büyük bir teknolojinin erken aşamada önünü keserek ülkelerin global yarışta geri kalmasına neden olabilir.
 
-Regülasyonların uygulanmaya başladığı noktada merkeziyetsiz finansın geniş kitlelerce kullanımının önündeki en büyük engellerden bir kalkmış olur. Zira regülasyon hem bu alana ilgi duyan ama girmeye korkan küçük yatırımcıları hem de düzenleme eksikliği nedeniyle buraya adım atamayan finansal kurumları Web3 dünyasına çekmek için önemli bir katalizör olacak.
+Regülasyonların uygulanmaya başladığı noktada merkeziyetsiz finansın geniş kitlelerce kullanımının önündeki en büyük engellerden biri kalkmış olur. Zira regülasyon, hem bu alana ilgi duyan ama girmeye korkan küçük yatırımcıları hem de düzenleme eksikliği nedeniyle buraya uzak duran finansal kurumları Web3 dünyasına çekmek için önemli bir katalizör olacak.
 
 #### Ölçeklenme problemleri
 
 2021 yılında yaşanan yoğun talep sonrası özellikle Ethereum sisteminde ortaya çıkan yüksek işlem ücretleri herkesin gözünü korkutmuştu. Bir sonraki boğada benzer sorunların yaşanmaması için hem Ethereum geliştiricileri hem de diğer geliştiriciler harıl harıl çalışmaya devam ediyorlar. 
 
-Ethereum tarafındaki gelişmeler, her zamanki gibi yavaş olduğu için önümüzdeki seneye yetişemeyebilir. Ethereum üzerine kurulu ikinci seviye çözümler bu alanda bayrağı ellerine almış durumdalar. Bu yıl özellikle zk (zero-knowlede) çözümlerin göz önünde olacağını söylemek kahinlik olmaz sanırım. 
+Ethereum tarafındaki gelişmeler, her zamanki gibi yavaş olduğu için önümüzdeki seneye yetişemeyebilir. Ethereum üzerine kurulu ikinci seviye çözümler bu alanda bayrağı ellerine almış durumdalar. Bu yıl özellikle zk (zero-knowledge) çözümlerin göz önünde olacağını söylemek kahinlik olmaz sanırım. 
 
 Aynı zamanda, blokzincirler arası geçişi kolaylaştıracak ve darboğazların olduğu yerlerde ölçeklenme sağlayarak sıkışıklıkları aşmada yardımcı olacak ‘modüler blokzincir’ çözümleri önümüzdeki yıl gündemi işgal edecek. 
 
@@ -48,7 +56,7 @@ Yukarıda da değindiğimiz gibi, DeFi şu an ağırlıklı olarak spekülatif o
 
 #### Kullanıcı arayüzleri ve geleneksel ile DeFi'nin kucaklaşması
 
-Regülasyon sonrasında hızlıca halledilebilecek sorun, bir altyapı olan merkeziyetsiz finansı son kullanıcı ile buluşturacak ara yüzlerin ve kullanıcı dostu uygulamaların gelmesi olacak. Maalesef şu anki kullanıcı ara yüzleri içler acısı denecek kadar karmaşık. Bu alanda çalışan DeFi uygulamaları önümüzdeki dönemde hem yatırım hem kullanıcı tarafında büyük ilgi görecek. 
+Regülasyon sonrasında hızlıca halledilebilecek sorun, bir altyapı olan merkeziyetsiz finansı son kullanıcı ile buluşturacak ara yüzlerin ve kullanıcı dostu uygulamaların gelmesi olacak. Maalesef şu anki kullanıcı ara yüzleri içler acısı denecek kadar karmaşık. Bu alanda çalışan DeFi uygulamaları önümüzdeki dönemde hem yatırımcı hem de kullanıcı tarafında büyük ilgi görecek. 
 
 Burada, 'DeFi'nin arkada Fintech'in önde' olduğu hibrit sistemler bir yol. Bir başka yol ise, kripto dünyasının tam sahiplik özelliğini kullanmakta zorluk çeken (hatta korkan) kişilere hizmet verecek merkezi yapılar olabilir. Burada müşteri tarafında belirli bir güven sağlamış olan banka benzeri geleneksel finans oyuncularının önemli bir avantajı bulunduğunu da hemen ekleyelim. 
 
@@ -60,7 +68,7 @@ Regülasyon ile birlikte önümüzdeki dönemin en önemli konularından biri ku
 
 #### Ekosistem oyuncularının birbirini beslemesi
 
-Bunun ötesinde başta merkeziyetsiz finans olmak üzere tüm Web3 ekosistemi (ki bunların şu ana kadar ön plana çıkanlarının NFT'ler, DAO'lar olduğunu belirtelim) yoğun bir geliştirme sürecinde ve birinde yaşanacak büyüme diğer bütün aktörlerdeki büyümeyi besleyecek. Bu arada, bu alana önümüzdeki dönemde sosyal medya, dijital kimlik ve onarıcı finans gibi alanların yavaş yavaş daha fazla gündeme gelecek. 
+Bunun ötesinde başta merkeziyetsiz finans olmak üzere tüm Web3 ekosistemi (ki bunların şu ana kadar ön plana çıkanlarının NFT'ler, DAO'lar olduğunu belirtelim) yoğun bir geliştirme sürecinde ve birinde yaşanacak büyüme diğer bütün aktörlerdeki büyümeyi besleyecek. Bu arada, bu alanda önümüzdeki dönemde sosyal medya, dijital kimlik ve onarıcı finans gibi konular yavaş yavaş daha fazla gündeme gelecek.
 
 ### Sonuç
 
