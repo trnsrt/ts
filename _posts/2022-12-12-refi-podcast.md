@@ -15,7 +15,7 @@ tags: videos Etkinlikler
 <img src="/assets/refi-turkiye-podcast_800.jpg">
 </td>
 <td style="width:50%">
-<a class="spreaker-player" href="https://www.spreaker.com/user/16696993/turan-sert-ile-merkeziyetsizlik-ve-dao" data-resource="episode_id=52160371" data-theme="light" data-playlist="false" data-cover="https://d3wo5wojvuv7l.cloudfront.net/images.spreaker.com/original/973a0155503e074d6442e1a88e82630d.jpg" data-width="100%" data-height="400px">Listen to "Turan Sert ile Merkeziyetsizlik ve DAO" on Spreaker.</a><script async src="https://widget.spreaker.com/widgets.js"></script></td></tr>
+<iframe src="https://widget.spreaker.com/player?episode_id=52160371&theme=light&playlist=false&cover_image_url=https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F973a0155503e074d6442e1a88e82630d.jpg" width="100%" height="400px" frameborder="0"></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Bölümün posteri
