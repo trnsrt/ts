@@ -44,6 +44,11 @@ Aynı zamanda, blokzincirler arası geçişi kolaylaştıracak ve darboğazları
 
 Makro ekonomik gelişmeler sonucu likiditenin artması, regülasyonun gelmesi ve yeni yatırımcıların girmesi piyasalara kısa vadede olumlu yansıyabilir. Öte yandan, geçmiş krizlerin etkilerinin devam etmesi ya da likiditenin gelmemesinin piyasayı kısa vadede olumsuz etkilemesi de olasılık dahilinde. 
 
+
+| ![lightning](/assets/darling-gfd86e3528_800.jpg)|
+|:--:| 
+| *Image by [María Herrera](https://pixabay.com/users/photos71-44242/) from [Pixabay](https://pixabay.com/)*|
+
 Yine de, uzun vadeli olarak baktığımızda Web3 teknolojilerinin sürekli gelişim göstermesi ve yavaş yavaş topluluklar ile buluşuyor olması asıl heyecan verici olan. **'Kişinin dijital dünyada tam egemenlik' sahibi olması mevcut sistemi temelden değiştirecek ve yeni bir 'kullanıcı ekonomisi' yaratacak bir devrim**. Geniş kitlelerin bunu anlaması zaman alacak olsa da kaçınılmaz bir yol bu. 
 
 Burada en kritik noktayı bir kez daha hatırlatalım: **Bu yolda ilerlemenin temel koşulunun 'merkeziyetsizlik' olduğu unutulmamalı; bu prensip Web3 alanında çalışan girişimlerin 'kutup yıldızı' olmalı**.
