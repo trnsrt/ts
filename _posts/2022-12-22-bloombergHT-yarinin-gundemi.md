@@ -15,7 +15,7 @@ https://www.bloomberghtradyo.com/song/yarinin-gundemi-6/
 &nbsp;
 
 <table><tr><td style="width:50%">
-<img src="/assets/Turan-Sert-Yarinin-Gundemi-Blog.jpg">
+<img src="/assets/Turan-Sert-Yarinin-Gundemi-Blog_800.jpg">
 </td>
 <td style="width:50%">
 <iframe width="224" height="126" src="https://www.youtube.com/embed/9iFEkgIPATs" frameborder="0" allowfullscreen></iframe></td></tr>
