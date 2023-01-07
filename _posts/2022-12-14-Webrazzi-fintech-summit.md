@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "*Webrazzi Fintech Summit*"
+title:  "Webrazzi Fintech Summit"
 date:   2022-12-14 23:42:15 +0300
 categories: Genel
 tags: videos Etkinlikler
