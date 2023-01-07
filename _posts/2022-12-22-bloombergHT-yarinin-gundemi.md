@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "*BloombergHT Radyo - 22 Aralık 2022 Canlı Yayın*"
+title:  "BloombergHT Radyo - 22 Aralık 2022 Canlı Yayın"
 date:   2022-12-22 23:37:15 +0300
 categories: Genel
 tags: videos Etkinlikler
