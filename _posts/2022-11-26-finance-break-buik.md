@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "*Finance Break - Boğaziçi Üniversitesi İşletme ve Ekonomi Kulübü*"
+title:  "Finance Break - Boğaziçi Üniversitesi İşletme ve Ekonomi Kulübü"
 date:   2022-11-26 23:42:15 +0300
 categories: Genel
 tags: videos Etkinlikler
