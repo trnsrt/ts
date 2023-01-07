@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "*16. Finans Kongresi - MetuBiz*"
+title:  "16. Finans Kongresi - MetuBiz"
 date:   2022-12-03 23:42:15 +0300
 categories: Genel
 tags: videos Etkinlikler
