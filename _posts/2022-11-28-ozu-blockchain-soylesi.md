@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "OzU Blockchain Söyleşi"
+title:  "*OzU Blockchain Söyleşi*"
 date:   2022-11-28 23:42:15 +0300
 categories: Genel
 tags: videos Etkinlikler
