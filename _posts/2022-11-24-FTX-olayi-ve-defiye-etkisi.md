@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "FTX Olayı ve DeFi'ye Etkisi"
+title:  "FTX olayı ve DeFi'ye etkisi"
 date:   2022-11-14 12:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, CoindeskTR
