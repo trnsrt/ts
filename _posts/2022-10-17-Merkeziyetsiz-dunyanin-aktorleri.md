@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Merkeziyetsiz dünyanın Öne Çıkan Aktörleri"
+title:  "Merkeziyetsiz dünyanın öne çıkan aktörleri"
 date:   2022-10-17 12:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, CoindeskTR
