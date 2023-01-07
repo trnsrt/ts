@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DeFi-TradFi Oyun Havuzundan İlk İzlenimler"
+title:  "DeFi-TradFi oyun havuzundan ilk izlenimler"
 date:   2022-11-28 12:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, CoindeskTR
