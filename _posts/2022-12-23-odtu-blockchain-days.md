@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "*ODTU Blockchain Days - Panel*"
+title:  "*ODTÜ Blockchain Days - Panel*"
 date:   2022-12-23 23:42:15 +0300
 categories: Genel
 tags: videos Etkinlikler
