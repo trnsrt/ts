@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "*ReFi Podcast*"
+title:  "ReFi Podcast"
 date:   2022-12-12 23:42:15 +0300
 categories: Genel
 tags: videos Etkinlikler
