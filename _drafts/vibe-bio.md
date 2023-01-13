@@ -1,3 +1,4 @@
+Web3’ün uygulama alanları - Sağlık
 Bu yazımızın konusu Web3’ün sağlık alanındaki ilginç bir girişimi olan Vibe Bio. 
 
 Web3 olarak da adlandırılan merkeziyetsiz sistemlerin şimdiye kadar daha çok finansal alandaki uygulamaları ön plana çıktı. Bu alandaki en kalıcı girişimler ise merkeziyetsiz otonom organizasyonlar (decentralized autonomous organization kısaca DAO) şeklinde yapılandılar (MakerDAO, CurveDAO gibi). DAO’ların en büyük özelliği ise, dijital dünyada belirli bir amacı gerçekleştirmek isteyen kişiler arasında teknik ve sosyal koordinasyonu verimli bir şekilde sağlayabilmesi. 
@@ -5,6 +6,10 @@ Web3 olarak da adlandırılan merkeziyetsiz sistemlerin şimdiye kadar daha çok
 Öte yandan Web3 tipi sistemlerin daha geniş kitlelerce benimsenmesi için artık finans dışı farklı kullanım alanlarının da ortaya çıkması gerekiyor. Burada 2015-2019 yılları arasında ‘blockchain’ tabanlı pek çok girişim ortaya çıkmıştı. Bunlardan günümüze çok azı kaldı. Bunun temel nedeni ortaya konulan projelerin vizyonu pratiğe dökme konusunda özellikle topluluk organizasyonunda zayıf kalmaları oldu. 
 
 Son zamanlarda ortaya çıkan girişimler ise, finans alanında başarılı olmuş DAO modelini kendilerine örnek almaya başladılar. Bugünkü yazımızda sağlık alanında bu modeli uygulamaya çalışan bir girişim olan Vibe Bio’dan bahsedeceğiz. Gelin önce projenin başlangıç hikayesine değinelim. 
+
+| ![tubes](/assets/pipette-g25fc9daab_800.jpg)|
+|:--:| 
+| *Image by [ washe4ka](https://pixabay.com/users/washe4ka-8089393/) from [Pixabay](https://pixabay.com/)*|
 
 ### Sağlık sektöründeki bir açmaza değinelim önce
 
