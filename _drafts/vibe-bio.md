@@ -17,7 +17,7 @@ Sağlık sektöründeki hastalara şifa bulmaya çalışan ilaç şirketleri asl
 
 Büyüme ve kar hedeflerine ulaşabilmek için ise iki temel koşulları var. Birincisi üzerinde çalıştıkları konunun yeterince geniş kapsamlı olması, yani olabildiğince çok hastayı ilgilendirmesi (yani pazar potansiyelinin büyüklüğü). İkincisi ise çalıştıkları alanda yapacakları yatırımın ölçüsünün makul olması (böylece getiri/yatırım oranının yatırımcıları tatmin etmesi - buna İngilizcede 'return on investment), kısaca ROI deniyor). 
 
-Dolayısıyla, şirketlerin önünde çare bulabilecekleri pek çok hastalık olsa da, sermaye kısıtı nedeniyle bu hastalıkları belirli bir sıralamaya sokmak zorundalar. Bu nedenle, örneğin nadir görülen hastalıklar maalesef bu listede genelde ‘üvey evlat’ muamelesi görüyorlar. Bir yanda pek çok girişim aynı anda bilinen büyük hastalıklara çare bulmak için çaba harcıyor (yani aslına bakarsanız toplam yatırım verimli kullanılmıyor), diğer yanda kimse bu nadir hastalıklar ile uğraşmıyor. Bir rapora göre, bugüne kadar tespit edilen [10,867 tip nadir hastalık](https://rare-x.org/blog/2022/06/07/rare-x-releases-new-report-that-uncovers-large-number-of-previously-uncounted-rare-diseases/) bulunuyor. İşin ilginç yani, bir başka rapora göre ABD nüfusunu [yaklaşık %10'u bir çeşit nadir hastalıktan muzdarip](https://phrma.org/Scientific-Innovation/Progress-in-Fighting-Rare-Diseases). 
+Dolayısıyla, şirketlerin önünde çare bulabilecekleri pek çok hastalık olsa da, sermaye kısıtı nedeniyle bu hastalıkları belirli bir sıralamaya sokmak zorundalar. Bu nedenle, örneğin nadir görülen hastalıklar maalesef bu listede genelde ‘üvey evlat’ muamelesi görüyorlar. Bir yanda pek çok girişim aynı anda bilinen büyük hastalıklara çare bulmak için çaba harcıyor (yani aslına bakarsanız toplam yatırım verimli kullanılmıyor), diğer yanda kimse bu nadir hastalıklar ile uğraşmıyor. Bir rapora göre, bugüne kadar tespit edilen [10,867 tip nadir hastalık](https://rare-x.org/blog/2022/06/07/rare-x-releases-new-report-that-uncovers-large-number-of-previously-uncounted-rare-diseases/) bulunuyor. İşin ilginç yani, bir başka rapora göre ABD nüfusunun [yaklaşık %10'u bir çeşit nadir hastalıktan muzdarip](https://phrma.org/Scientific-Innovation/Progress-in-Fighting-Rare-Diseases). 
 
 Bugün özellikle ABD’de hemen hemen her hastalıktan muzdarip olanların kurdukları oluşumlar var. Bu oluşumlar, gerek hastalıklar ile ilgili farkındalık sağlanması gerekse biotech firmalarına kendi alanlarında araştırma yapmaları için baskı grupları oluşturması konularında aktifler. Hatta bu alanda [Patients Like Me](https://www.patientslikeme.com/) gibi farklı hastalıklara sahip kişiler ve yakınlarının kurduğu sosyal ağlar bile mevcut. Bu tip oluşumların en büyük sorunu iyi niyetle kurulan bu girişimlerin yeterli finansman desteği olmaması nedeniyle hastaların dertlerine tam olarak çare olamamaları. 
 
@@ -33,7 +33,7 @@ Vibe Bio'nun çalışma prensibi kısaca şu şekilde özetlenebilir: Topluluk �
 
 Hasta yakınları için bu yapının cazibesi, yaşadıkları hastalıkların çözümü için yatırım yapabilecekleri bir mekanizmanın oluşturulması. Token mekanizması sayesinde zaten belirli bir fikirde bir araya gelmiş insanlar somut adımlar atılmasını sağlayabilirler. 
 
-Vibe Bio, aslında DAO'lar açısından da ilginç bir deneyim. Zira genelde bir amaç etrafından bir araya gelen kişilerin yaşadığı en büyük sorun, daha sonrasında sürdürülebilir şekilde hareket etmeye devam edememeleri oluyor.  Vibe'in en azından üyeleri motive etmek konusunda bir sıkıntısı yok.
+Vibe Bio, aslında DAO'lar açısından da ilginç bir deneyim. Zira genelde bir amaç etrafında bir araya gelen kişilerin yaşadığı en büyük sorun, daha sonrasında sürdürülebilir şekilde hareket etmeye devam edememeleri oluyor.  Vibe'in en azından üyeleri motive etmek konusunda bir sıkıntısı yok.
 
 Konu Biotech konusunda çalışan startup’ların da ilgisini çekiyor. Zira, start-up’ların önemli bir sorunu ilaç geliştirmek için finans aramak iken, bir diğeri de geliştirdikleri tedaviler ile ilgili yapacakları deneylere uygun hasta bulmak. DAO onlar için 'bir taşla iki kuş vurmak' anlamına geliyor. Hem klinik deneyler konusunda onlara yardımcı olacak hem de yatırım konusunda destek olabilecek bir topluluk var yanlarında. Tayi, ilk görüşmelerde bu tip startup'ların kendileri ile işbirliği için çok hevesli olduğunu ancak büyük ilaç firmalarının kurdukları sistemin dışına çıkmak konusunda hevesli olmadıkları için projeye soğuk baktıklarını belirtiyor. 
 
@@ -44,7 +44,7 @@ Bir diğer paydaş işin uzmanları. Topluluğun, üzerinde çalışmalar yapıl
 ### Hangi alanlara girmişler?
 Vibe Bio'yu bir deney olarak görmek mümkün. Henüz Haziran 2022’de kurulan girişim, başlangıçta kendisine [12 milyon dolar yatırım almış](https://twitter.com/VibeBio/status/1539580110344491008?s=20). Yatırımcıları arasında Naval Ravikant, Balaji Srinivasan ve Mike Dudas’ın başını çektiği hatırı sayılır bir grup bulunmakta.
 
-Kurulduktan sonraki ilk adım çeşitli hastalık toplulukları ile temas kurmak olmuş. Hatta genetik bozukluk nedeniyle kaslarda bozulmaya yol açan bir tür epilepsi olan Laforma hastalığına tedavi bulmak için çalışan [Chelsea's Hope](https://chelseashope.org/)[^1] adlı araştırma topluluğu ile bir ortaklık bile yapmışlar. 
+Kurulduktan sonraki ilk adımları çeşitli hastalık toplulukları ile temas kurmak olmuş. Hatta genetik bozukluk nedeniyle kaslarda bozulmaya yol açan bir tür epilepsi olan Laforma hastalığına tedavi bulmak için çalışan [Chelsea's Hope](https://chelseashope.org/)[^1] adlı araştırma topluluğu ile bir ortaklık bile yapmışlar. 
 
 İlk aşamada amaçları topluluk oluşturmak; sonrasında aldıkları yatırım ile ekibi güçlendirmek ve konunun uzmanlarını topluluğa dahil etmek. Sonrasında nihai amaçlarını her tür nadir hastalığa çare arayacak topluluklar oluşturmak olarak açıklıyorlar. 
 
@@ -58,7 +58,7 @@ Bir başka önemli soru işareti de regülasyonlar ve fikri mülkiyet konuların
 
 ### Huzurlarınızda Decentralized Science (DeSci)
 
-Vibe Bio çalıştığı alanda tek oluşum değil. Özellikle bilim ve sanat alanında toplulukları bir araya getirmeye çalışan Decentralized Science (kısaca DeSci) oluşumun altında Ekim 2022'ye kadar 117 oluşum toplanmış durumda. 
+Vibe Bio çalıştığı alanda tek oluşum değil. Özellikle bilim ve sanat alanında toplulukları bir araya getirmeye çalışan Decentralized Science (kısaca DeSci) oluşumunun altında Ekim 2022'ye kadar 117 oluşum toplanmış durumda. 
 
 | ![DeSci](/assets/decentralized_science.jpg)|
 |:--:| 
@@ -72,6 +72,6 @@ Vibe Bio ve benzeri merkeziyetsiz bilim (DeSci) oluşumları, Web3 için çok ö
 
 Notlar: 
 
-*Vibe Bio'yu daha yakından tanımak isteyenlere Coindesk'in konu ilgili [makalesini](https://www.coindesk.com/layer2/2022/07/15/a-dao-for-diseases-how-vibe-bio-plans-to-retool-biotech-funding/) ve Tayt ile yapılmış şu [podcast](https://www.theblock.co/post/154203/vibe-bio-ceo-explains-how-this-dao-plans-to-revolutionize-the-trillion-dollar-pharmaceutical-industry)'i önerebilirim*
+*Vibe Bio'yu daha yakından tanımak isteyenlere Coindesk'in konu ilgili [makalesini](https://www.coindesk.com/layer2/2022/07/15/a-dao-for-diseases-how-vibe-bio-plans-to-retool-biotech-funding/) ve Tayt ile yapılmış şu [podcast](https://www.theblock.co/post/154203/vibe-bio-ceo-explains-how-this-dao-plans-to-revolutionize-the-trillion-dollar-pharmaceutical-industry)'i önerebilirim.*
 
 [^1]: Temmuz 2022'deki kuruluş açıklamasında [nft2BioSolutions](https://nf2biosolutions.org/) ile bir ortaklıktan bahsediliyor olsa da, daha sonra herhangi bir bilgi olmaması nedeniyle bu ilişki yazıya dahil edilmedi. 
