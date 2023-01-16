@@ -56,11 +56,11 @@ Oldukça etkileyici ve hayata dokunan bir vizyona sahip olan Vibe Bio'nun henüz
 
 Bir başka önemli soru işareti de regülasyonlar ve fikri mülkiyet konularında. Tayi, regülasyon konusunu büyük bir problem olarak görmüyor. Diğer taraftan Vibe Bio yetkilileri fikri mülkiyet alanında çözüm olarak sunulan [IP-NFT](https://www.molecule.to/blog/ip-nfts-for-researchers-a-new-biomedical-funding-paradigm)'lerin kanuni altyapısının hâlâ bir muamma olduğunu [kabul ediyorlar](https://vibebio.substack.com/p/the-next-wave-of-biotechnology). 
 
-### Huzurlarınızda Decentralized Science (DeSci)
+### Huzurlarınızda Merkeziyetsiz Bilim (DeSci)
 
-Vibe Bio çalıştığı alanda tek oluşum değil. Özellikle bilim ve sanat alanında toplulukları bir araya getirmeye çalışan Decentralized Science (kısaca DeSci) oluşumunun altında Ekim 2022'ye kadar 117 oluşum toplanmış durumda. 
+Vibe Bio çalıştığı alanda tek oluşum değil. Özellikle bilim ve sanat alanında toplulukları bir araya getirmeye çalışan Merkeziyetsiz Bilim (ingilizcede Decentralized Science, kısaca DeSci) çatısı altında Ekim 2022'ye kadar 117 oluşum toplanmış durumda.
 
-| ![DeSci](/assets/decentralized_science.jpg)|
+| ![DeSci](/assets/decentralized_science_v2.jpg)|
 |:--:| 
 | *Decentralized Science ekosistemi - Ekim 2022. Kaynak: [UltraRareBio](https://ultrarare.bio/)*|
 
