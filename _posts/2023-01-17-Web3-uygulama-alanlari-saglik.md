@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Web3'ün sağlık alanındaki uygulamaları: Vibe DAO"
+title:  "Vibe DAO sağlıklı bir Web3 örneği olabilir mi?"
 date:   2023-01-17 12:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, CoindeskTR
