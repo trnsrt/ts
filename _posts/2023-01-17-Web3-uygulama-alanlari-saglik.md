@@ -1,4 +1,11 @@
-Web3’ün uygulama alanları - Sağlık
+---
+layout: post
+title:  "Web3'ün sağlık alanındaki uygulamaları: Vibe DAO"
+date:   2023-01-17 12:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi, CoindeskTR
+---
+
 Bu yazımızın konusu Web3’ün sağlık alanındaki ilginç bir girişimi olan Vibe Bio. 
 
 Web3 olarak da adlandırılan merkeziyetsiz sistemlerin şimdiye kadar daha çok finansal alandaki uygulamaları ön plana çıktı. Bu alandaki en kalıcı girişimler ise merkeziyetsiz otonom organizasyonlar (decentralized autonomous organization kısaca DAO) şeklinde yapılandılar (MakerDAO, CurveDAO gibi). DAO’ların en büyük özelliği ise, dijital dünyada belirli bir amacı gerçekleştirmek isteyen kişiler arasında teknik ve sosyal koordinasyonu verimli bir şekilde sağlayabilmesi. 
@@ -70,8 +77,18 @@ Bu alandaki girişimler içinde ilginç olanları önümüzdeki yazılarda daha 
 
 Vibe Bio ve benzeri merkeziyetsiz bilim (DeSci) oluşumları, Web3 için çok önemli bir kullanım alanı üzerinde çalışıyorlar. Web3'ün içinde bulunduğu dijital dünyasının,  fiziki dünyamıza dokunan projeleri şimdiye kadar hep çetrefilli problemler ile karşılaştılar (örneğin tapuların dijitalleştirilmesi gibi). Yine de geniş kesimlerin Web3'ü benimsemesi için bu tip girişimler oldukça kritik. Başarılı olmaları (zor da olsa) hepimizin dileği. Yolculuklarını yakından izleyeceğiz. 
 
-Notlar: 
-
 *Vibe Bio'yu daha yakından tanımak isteyenlere Coindesk'in konu ilgili [makalesini](https://www.coindesk.com/layer2/2022/07/15/a-dao-for-diseases-how-vibe-bio-plans-to-retool-biotech-funding/) ve Tayt ile yapılmış şu [podcast](https://www.theblock.co/post/154203/vibe-bio-ceo-explains-how-this-dao-plans-to-revolutionize-the-trillion-dollar-pharmaceutical-industry)'i önerebilirim.*
 
 [^1]: Temmuz 2022'deki kuruluş açıklamasında [nft2BioSolutions](https://nf2biosolutions.org/) ile bir ortaklıktan bahsediliyor olsa da, daha sonra herhangi bir bilgi olmaması nedeniyle bu ilişki yazıya dahil edilmedi. 
+
+--
+
+
+
+---
+
+*Not 1: Bu yazı ilk olarak 17 Ocak 2023'de [Coindesk Türkiye'de yayınlandı](https://www.coindeskturkiye.com/yazarlar/turan-sert/web3un-uygulama-alanlari-saglik-3377)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
