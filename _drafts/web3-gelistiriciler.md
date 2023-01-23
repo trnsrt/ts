@@ -10,7 +10,11 @@ Artık geleneksel hale gelmeye başlayan geliştirici [raporunun sonuncusu geçt
 
 Hepimiz hemen her gün Web3 dünyası ile ilgili haberlere boğulmuş durumdayız. "Hangi blokzincir ne kadar büyümüş? Kim ne kadar yatırım almış? Kim geliştiricilere ne kadar teşvik vermiş? Kriz olunca, geliştiriciler Web3'ü terk etmeye mi başlamış?" gibi... Electric Capital'in raporu, işte bu dünyada gerçekten ne olup bittiğini sayılara dayalı somut bir şekilde ortaya koymaya çalışan en kapsamlı çalışmalardan bir tanesi. 
 
-Temel girdi olarak kendilerine 'açık kaynak' projelerin ortak toplanma alanı olan GitHub deposunu alıyorlar. Burada bulunan yaklaşık 250 milyona yakın kod kayıtlarını (ya da yüklemelerini) sıkı bir temizlemeden geçiriyorlar. Örneğin başkasından kopyalanmış orijinal olmayan kodları silerek yaklaşık %65'ini en baştan eliyorlar [^1]. Sonrasında da bu kayıtları geliştiricilerin tipi (tam/yarı zamanlı, tek seferlik) tecrübesi (tecrübeli/yeni girmiş, tek/çoklu ağda çalışan vb), çalıştığı ağ (Ethereum, Bitcoin, alternatif L1'ler, L2'ler vb) ve son raporda olduğu gibi içinde bulundukları kullanım alanı (DeFi, NFT) gibi farklı kriterlerde toplam 180 sayfalık bir rapor haline getiriyorlar. Bu arada raporu oluşturan bütün datayı da 'açık kaynak' olarak ekosisteme sunuyorlar. 
+Temel girdi olarak kendilerine 'açık kaynak' projelerin ortak toplanma alanı olan GitHub deposunu alıyorlar. Burada bulunan yaklaşık 250 milyona yakın kod kayıtlarını (ya da yüklemelerini) sıkı bir temizlemeden geçiriyorlar. Örneğin başkasından kopyalanmış orijinal olmayan kodları silerek yaklaşık %65'ini en baştan eliyorlar [^1]. Sonrasında da bu kayıtları geliştiricilerin tipi (tam/yarı zamanlı, tek seferlik) tecrübesi (tecrübeli/yeni girmiş, tek/çoklu ağda çalışan vb), çalıştığı ağ (Ethereum, Bitcoin, alternatif L1'ler, L2'ler vb) ve son raporda olduğu gibi içinde bulundukları kullanım alanı (DeFi, NFT) gibi farklı kriterlerde toplam 180 sayfalık bir rapor haline getiriyorlar. Bu arada raporu oluşturan bütün datayı da 'açık kaynak' olarak ekosisteme sunuyorlar. Üstelik bu son rapor ile birlikte artık canlı verilerin de yer aldığı bir websitesini de ücretsiz kullanıma açmışlar 👉 www.developerreport.com
+
+| ![sandbox](/assets/arrows-3380595_800.jpg)|
+|:--:| 
+| *Image by [Gerd Altmann](https://pixabay.com/users/geralt-9301/) from [Pixabay](https://pixabay.com/)*|
 
 Rapor şimdiye kadar gördüğümüz en kapsamlı çalışma olsa da, elbette kendi içinde belirli kısıtları var. Bunlardan en önemlisi, kapsamın sadece 'açık kaynak' depoları içeriyor olması; pek çok proje (özellikle NFT'lerde) kapalı olarak çalıştıkları ve sonrasında sonuçları Github'a koydukları için kayıt sayıları düşük olabiliyor. Bu, her ne kadar haklı bir eleştiri olarak görünse de, karşı argüman olarak yazılımları kapalı bir şekilde geliştirmenin tam merkeziyetsizlik ve açık kaynak ruhuna aykırı olduğunu savunanlar da var. Bu arada ileride raporun kapsamına Github depolarının yanında, blokzincire direkt olarak yüklenmiş akıllı kontrat kodlarının da dahil edilmesinin planlandığını belirletelim.
 
@@ -47,7 +51,9 @@ Geliştirici sayısında en tepe nokta Haziran 2022'de 26 bin ile görülürken 
 
 Sektörün ağır topu Ethereum'un liderliği geçen yıl olduğu gibi aynı şekilde devam etmekte. Ethereum tüm sektördeki tam zamanlı geliştiricilerin yaklaşık %25'ine sahip (Sayfa 58) ve kendisine en yakın topluluğun 2,5 katı büyüklüğünde (Sayfa 70). Sektörün 1000'den fazla toplam geliştiriciye sahip büyük beşlisi ise Ethereum, Solana, Polkadot, Cosmos ve Polygon olarak sıralanıyor[^4] (Sayfa 81) 
 
-[Sayfa 81 grafik]
+| ![sandbox](/assets/electric_cap_dev_report_1st_grp_2022.jpg)|
+|:--:| 
+| *Kaynak: [Electric Capital Developer Report](https://github.com/electric-capital/developer-reports/blob/master/dev_report_2022.pdf) - Sayfa 81*|
 
 Anlaşılması zor olabileceği için grafiği kısaca açıklayalım: Grafiğin yatay düzlemi ağların 2021 yılındaki tam zamanlı geliştirici sayısını, dikey düzlem ise 2022 yılındaki aynı sayıları gösteriyor. Ortada gördüğünüz grafiği yarıdan bölen çizgi ise iki yıl sayılarının eşit olduğu nokta. Dolayısıyla, grafikten çıkan sonuç mahşerin beş atlısından sadece Polkadot'un 2022 yılında geliştirici sayısı olarak aynı kaldığı, diğer dört topluluğun geliştirici sayılarının arttığı şeklinde (hatta Solana'daki artış %50'den daha fazla olmuş). 
 
