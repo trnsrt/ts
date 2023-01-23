@@ -147,7 +147,10 @@ NFT'ler ya da oyunlar ile ilgili geliştirici sayılarının güvenirliği olduk
 
 Raporda, yeni açılan cüzdanların yaptığı ilk hareketleri gösteren şu tablo da ilgi çekici: (Sayfa 175)
 
-[Sayfa 175 grafik]
+
+| ![ecdr-defi-nft-wallets](/assets/electric_cap_dev_report_defi_ntf_wallets_2022.jpg)|
+|:--:| 
+| *Kaynak: [Electric Capital Developer Report](https://github.com/electric-capital/developer-reports/blob/master/dev_report_2022.pdf) - Sayfa 175*|
 
 2022 yılı içinde yeni açılan cüzdanların %80'inde ilk yapılan işlem NFT işlemi olmuş! Yani kripto ile ilgisi olmayan kitlenin bu alana giriş noktasının ağırlıklı NFT'lerden geçtiğini gösteren ilginç bir tablo.. 
 
