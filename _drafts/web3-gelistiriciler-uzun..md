@@ -173,3 +173,11 @@ Dipnotlar:
 
 ---
 
+---
+
+
+*Not 1: Bu yazı ilk olarak 23 Ocak 2023'de [BTCHaber.com'da yayınlandı](https://www.btchaber.com/web3-dunyasinda-buyumenin-habercisi-gelistiriciler/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
