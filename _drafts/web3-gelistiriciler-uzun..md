@@ -162,6 +162,14 @@ Electric Capital'in geliştirici raporu pek çok farklı çıkarımlar yapılabi
 
 ---
 
+*Not 1: Bu yazı ilk olarak 23 Ocak 2023'de [BTCHaber.com'da yayınlandı](https://www.btchaber.com/web3-dunyasinda-buyumenin-habercisi-gelistiriciler/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
+
+---
+
 Dipnotlar:
 
 [^1]: Fingerprinting denen yöntem ile yazılımların ilk çıkış noktalarını belirleyip daha sonra başka projelerde kopyala/yapıştır yöntemi ile kullanılmasını, çatallamaları, açık kaynak kitaplıklarını birleştirme yoluyla oluşturulan kayıtları eliyorlar. 
@@ -173,14 +181,3 @@ Dipnotlar:
 [^4]: Tam zamanlı geliştiricilerde 300'den fazla geliştiriciye sahip ilk grup için sıralama Ethereum, Polkadot, Cosmos, Solana ve Bitcoin şeklinde (sayfa 70)
 
 [^5]: En büyük beşli sonrası bir alt seviyede 200'ün üzeri toplam geliştiriciye sahip ekosistemler ise sırasıyla Polygon, Polkadot'un kardeş ağı Kusama, Near, Cardano, Tezos, BNB Chain, Internet Computer ve Starknet olarak sıralanmakta. (Sayfa 74)
-
----
-
----
-
-
-*Not 1: Bu yazı ilk olarak 23 Ocak 2023'de [BTCHaber.com'da yayınlandı](https://www.btchaber.com/web3-dunyasinda-buyumenin-habercisi-gelistiriciler/)*
-
-*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
-
-*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
