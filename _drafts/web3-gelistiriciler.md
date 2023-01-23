@@ -49,7 +49,7 @@ Sektörün ağır topu Ethereum'un liderliği geçen yıl olduğu gibi aynı şe
 
 [Sayfa 81 grafik]
 
-Anlaşılması zor olabileceği için grafiği kısaca açıklayalım: Grafiğin yatay düzlemi ağların 2021 yılındaki tam zamanlı geliştirici sayısını, dikey düzlem ise 2022 yılındaki aynı sayıları gösteriyor. Ortada gördüğünüz grafiği yarıdan bölen çizgi ise iki yıl sayılarının eşit olduğu nokta. Dolayısıyla, grafikten çıkan sonuç mahşerin beş atlısından sadece Polkadot'un 2022 yılında geliştirici sayısı olarak aynı kaldığı, diğer dört topluluğunun geliştirici sayılarının arttığı şeklinde (hatta Solana'daki artış %50'den daha fazla olmuş). 
+Anlaşılması zor olabileceği için grafiği kısaca açıklayalım: Grafiğin yatay düzlemi ağların 2021 yılındaki tam zamanlı geliştirici sayısını, dikey düzlem ise 2022 yılındaki aynı sayıları gösteriyor. Ortada gördüğünüz grafiği yarıdan bölen çizgi ise iki yıl sayılarının eşit olduğu nokta. Dolayısıyla, grafikten çıkan sonuç mahşerin beş atlısından sadece Polkadot'un 2022 yılında geliştirici sayısı olarak aynı kaldığı, diğer dört topluluğun geliştirici sayılarının arttığı şeklinde (hatta Solana'daki artış %50'den daha fazla olmuş). 
 
 ##### Sonraki grup?
 
