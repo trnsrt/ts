@@ -99,7 +99,7 @@ Görüldüğü gibi Ethereum DeFi'nin tartışmasız bir numarası olarak en yak
 
 [^16]
 
-##### Peki ya NFT'ler
+##### Peki ya NFT'ler?
 
 NFT'ler ya da oyunlar ile ilgili geliştirici sayılarının güvenirliği oldukça düşük. Rapor bu durumun özellikle altını çizerek, bir geliştiricinin yazdığı ufak bir kodun, özellikle koleksiyon projelerinde çok büyük bir kitleyi kendine çekebildiğini vurguluyor. İlerisi için topluluğun proje ile bağını ve etkileşimini ölçecek yeni metrikler üzerinde çalışıldığı da ek olarak belirtilmiş. 
 
