@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Web3 dünyasında buyümenin habercisi geliştiricileri - Kısa Versiyon"
-date:   2023-01-22 18:17:56 +0300
+date:   2023-01-23 18:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
 ---
