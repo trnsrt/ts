@@ -171,7 +171,7 @@ Electric Capital'in geliştirici raporu pek çok farklı çıkarımlar yapılabi
 
 ---
 
-*Not 1: Bu yazı ilk olarak 23 Ocak 2023'de [BTCHaber.com'da yayınlandı](https://www.btchaber.com/web3-dunyasinda-buyumenin-habercisi-gelistiriciler/)*
+*Not 1: Bu yazı ilk olarak 23 Ocak 2023'de*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
