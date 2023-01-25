@@ -55,6 +55,15 @@ Geliştirici sayısında en tepe nokta Haziran 2022'de 26 bin ile görülürken 
 
 Sektöre tam zamanlı olarak giren geliştiricilerin sektörde kalışları genel olarak da daha yüksek. Örneğin, tam zamanlıların %30'u bir sonraki yıl da kod girmeye devam ederken, bu oran tüm geliştiricilerde %8 civarında. (Sayfa 39) Benzer şekilde sektörden ayrılan (GitHub'a kayıt yapmayan) geliştiricilerin %95'i yarı-zamanlı ve tek-seferlik geliştiriciler. (Sayfa 41)
 
+Sektöre uzun vadeli yukarıdan baktığımızda ilgi çeken bir nokta ise yıllar itibariyle geliştirici sayılarının ağların toplam değerine oranı (Sayfa 18)
+
+| ![ecdr-dev_vs_network](/assets/electric_cap_dev_report_dev_vs_network.jpg)|
+|:--:| 
+| *Kaynak: [Electric Capital Developer Report](https://github.com/electric-capital/developer-reports/blob/master/dev_report_2022.pdf) - Sayfa 18*|
+
+Kripto ağlarının toplam piyasa değerinin yaşanan ayı piyasası sonrası bir önceki boğa piyasasının zirvesi olan 2018 yılı Ocak ayı ile hemen hemen aynı seviyede olduğunu görüyoruz. Bur rağmen aylık aktif geliştirici sayı aynı dönemde yaklaşık 3 kat artmış durumda. 
+
+
 ##### En büyük beş ağ hangisi?
 
 Sektörün ağır topu Ethereum'un liderliği geçen yıl olduğu gibi aynı şekilde devam etmekte. Ethereum tüm sektördeki tam zamanlı geliştiricilerin yaklaşık %25'ine sahip (Sayfa 58) ve kendisine en yakın topluluğun 2,5 katı büyüklüğünde (Sayfa 70). Sektörün 1000'den fazla toplam geliştiriciye sahip büyük beşlisi ise Ethereum, Solana, Polkadot, Cosmos ve Polygon olarak sıralanıyor[^4] (Sayfa 81) 
