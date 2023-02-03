@@ -1,5 +1,7 @@
 Bu yazımızda sizlere programlama dünyasını yeni baştan inşa etmeye çalışan ve kimine göre 'hırslı' kimine göre 'uçuk' bir proje olarak adlandırılan Urbit'den bahsedeceğiz. 
 
+Dijital dünyada gücü kullanıcıya vermeyi hedefleyen Web3 girişimleri, kullanıcının alışık olduğu sistemleri dönüştürmeye çalışarak yapıyorlar. Bu da eski sistemlerin barındırdığı kısıtlar nedeniyle kullanıcıların 'dijital dünyada tam bağımsız' olmalarını neredeyse imkansız kılıyor. Oyunun kurallarını temelden değiştirmeyi hedefleyen Urbit, bu anlamda diğer girişimlerden ayrılıyor. Gelin birlikte inceleyelim.
+
 ### Nedir Urbit?
 
 [Urbit](https://urbit.org/), altyapıların da merkeziyetsiz olması hayalini hayata geçirmeye çalışan bir oluşum. Üstelik kökleri Bitcoin'in bile öncesi 2002 yıllarına dayanıyor. Kuruluş temelinde yatan felsefe 'kişisel işletim sistemini yeni baştan inşa etmek'. Ne demek bu? 
