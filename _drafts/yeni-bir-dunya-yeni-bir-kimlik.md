@@ -1,6 +1,6 @@
 Bu yazımızda sizlere programlama dünyasını yeni baştan inşa etmeye çalışan ve kimine göre 'hırslı' kimine göre 'uçuk' bir proje olarak adlandırılan Urbit'den bahsedeceğiz. 
 
-Dijital dünyada gücü kullanıcıya vermeyi hedefleyen Web3 girişimleri, kullanıcının alışık olduğu sistemleri dönüştürmeye çalışarak yapıyorlar. Bu da eski sistemlerin barındırdığı kısıtlar nedeniyle kullanıcıların 'dijital dünyada tam bağımsız' olmalarını neredeyse imkansız kılıyor. Oyunun kurallarını temelden değiştirmeyi hedefleyen Urbit, bu anlamda diğer girişimlerden ayrılıyor. Gelin birlikte inceleyelim.
+Dijital dünyada gücü kullanıcıya vermeyi hedefleyen Web3 girişimleri bunu, kullanıcının alışık olduğu sistemleri dönüştürmeye çalışarak yapıyorlar. Bu da eski sistemlerin barındırdığı kısıtlar nedeniyle kullanıcıların 'dijital dünyada tam bağımsız' olmalarını neredeyse imkansız kılıyor. Oyunun kurallarını temelden değiştirmeyi hedefleyen Urbit, bu anlamda diğer girişimlerden ayrılıyor. Gelin birlikte inceleyelim.
 
 ### Nedir Urbit?
 
@@ -10,11 +10,11 @@ Kullanmakta olduğumuz PC'ler ve işletim sistemleri 1970'lerde insanların kull
 
 Oysaki dijital çağda ihtiyaçlar çoktan değişti. Artık masa başında yalnız başına çalışmak yerine sürekli başkaları ile iletişim halindeyiz. İşyeri ya da özel hayattaki arkadaşlarımız ile konuşma, paylaşma ve birlikte çalışmamızı sağlayan uygulamalar, hizmetler, ara yüzler var artık hayatımızda. 50 yıl önce ortaya çıkmış olan PC mimarisi bu gereksinimleri karşılamakta yetersiz kalıyor. 
 
-İşte Urbit, bu yeni dünyanın ihtiyaçlarını karşılamaya yönelik iki temel hizmet le rotaya çıkıyor. Bunlaradan birincisi bir 'işletim sistemi, diğeri ise kişilerin bu sistemi mahrem bir şekilde kullanmalarını sağlayacak olan bir dijital kimlik'. Bu iki hizmetin de temel özelliği kodlarının basit, güvenilir ve açık kaynak olması.
+İşte Urbit, bu yeni dünyanın ihtiyaçlarını karşılamaya yönelik iki temel hizmetle ortaya çıkıyor. Bunlaradan birincisi bir 'işletim sistemi, diğeri ise kişilerin bu sistemi mahrem bir şekilde kullanmalarını sağlayacak olan bir dijital kimlik'. Bu iki hizmetin de temel özelliği kodlarının basit, güvenilir ve açık kaynak olması.
 
 #### Urbit OS
 
-[Urbit OS](https://urbit.org/overview/urbit-os), kişiden kişiye direkt erişim sağlayan ve kontrolü tamamen kişilerde olan bir sunucu hizmeti. Bireylerin beraberce çalışabilmesine ve grup içinde haberleşebilmesini sağlıyor. Bu sayede, aynı fiziki dünyadaki klanlar ya da köyler gibi merkezi bir sunucudan bağımsız ufak küçük bağımsız topluluklar kurabilmelerine olanak veriyor.  
+[Urbit OS](https://urbit.org/overview/urbit-os), kişiden kişiye direkt erişim sağlayan ve kontrolü tamamen kişilerde olan bir sunucu hizmeti. Bireylerin beraberce çalışabilmesini ve grup içinde haberleşebilmesini sağlıyor. Bu sayede, aynı fiziki dünyadaki klanlar ya da köyler gibi merkezi bir sunucudan bağımsız ufak küçük bağımsız topluluklar kurabilmelerine olanak veriyor.  
 
 Bireyi özneye alan böyle bir sistemin en kritik konusu kişinin kimliği. Burada da ikinci ürün olan Urbit ID devreye giriyor. 
 
@@ -24,9 +24,9 @@ Bireyi özneye alan böyle bir sistemin en kritik konusu kişinin kimliği. Bura
 
 ### Kullanım alanına bir örnek:
 
-Peki Urbit OS ve Urbit ID tam olarak nasıl kullanılabilir?  Basit bir örnek ile somulaştırmaya çalışalım: 
+Peki Urbit OS ve Urbit ID tam olarak nasıl kullanılabilir?  Basit bir örnek ile somutlaştırmaya çalışalım: 
 
-Aile bireylerinin kendi aralarında yazıştıkları ve fotoğraf paylaştıkları bir alan olabilir kullanın alanı. İyi de bunu yapan uygulamalar (WhatsApp, Signal) var zaten? Var ama, bu uygulamalara farklı fonksiyonlar eklemek istersek? Mesela beraberce bir video izleyip yorum yapmak? Ya da blokzincir üzerinde ödemeleri görmek? Ya da beraberce piyasaları takip etmek? Bunun için tüm aile bireylerinin ayrı ayrı program yüklemeleri yerine, kurdukları özel alana programcıkları (modülleri) eklemeleri yeterli olacak. 
+Aile bireylerinin kendi aralarında yazıştıkları ve fotoğraf paylaştıkları bir alan olabilir kullanım alanı. İyi de bunu yapan uygulamalar (WhatsApp, Signal) var zaten? Var ama, bu uygulamalara farklı fonksiyonlar eklemek istersek? Mesela beraberce bir video izleyip yorum yapmak? Ya da blokzincir üzerinde ödemeleri görmek? Ya da beraberce piyasaları takip etmek? Bunun için tüm aile bireylerinin ayrı ayrı program yüklemeleri yerine, kurdukları özel alana programcıkları (modülleri) eklemeleri yeterli olacak. 
 
 Üstelik kullandıkları ya da ekledikleri bütün uygulamaların ve yarattıkları bilgilerin (yazı, ses ve görüntü kayıtları) sahipliği tamamen bu topluluğun elinde. Yarın isterlerse tamamını başka platforma taşıyabilirler. 
 
