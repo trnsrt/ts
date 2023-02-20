@@ -78,8 +78,8 @@ Bu nedenle, kısa vadede tedirginlik yaratsa da uzun vadede çıkarılacak yasal
 —-
 
 [^1]: Bir varlığın sermaye piyasası ürünü olup olmadığını belirlemek için Howey Test denen bir kriter uygulanıyor. (i) Bir şirkete (ii) başkasının eforuna bağlı olarak (iii) kâr sağlamak amacıyla (iv) yatırım yapılması bir “yatırım kontratı” anlamına geliyor ve SEC altına giriyor. [Coinbase’e göre](https://www.coinbase.com/blog/coinbases-staking-services-are-not-securities-and-heres-why)?şu nedenler ile staking bu kapsama girmiyor. 
-- (i) Şirket: Kullanıcılar, bir şirkete değil merkeziyetsiz bir ağa kriptoparalarını koyuyorlar. Birbirleri ile bağları nir şirket aracılığıyla değil kullanıcı topluluğu aracılığıyla. Verilen ödüller ve kullanıcı kazancı Coinbase tarafından değil ağ tarafından belirleniyor. 
-- (ii) Başkasının eforu: Kullanıcıların ödüllerini staking hizmeti değil ağ belirlediği için verilen hizmet sadece bir IT hizmeti ve karşılığında da bir hizmet komisyonu alınıyor. 
-- (iii) Kâr beklentisi: Staking yaptığında alınan ödül işlemleri onaylama karşılığı alınıyor ve kimin ne kadar alacağına protokol karar veriyor.
-- (iv) Yatırım: Tanım gereği yatırım yaparken varlığınızı başka bir yere verirsiniz. Staking yaparken paranız tamamen sizin kontrolünüzde, istediğiniz zaman çekebilirsiniz.
+(i) Şirket: Kullanıcılar, bir şirkete değil merkeziyetsiz bir ağa kriptoparalarını koyuyorlar. Birbirleri ile bağları nir şirket aracılığıyla değil kullanıcı topluluğu aracılığıyla. Verilen ödüller ve kullanıcı kazancı Coinbase tarafından değil ağ tarafından belirleniyor. 
+(ii) Başkasının eforu: Kullanıcıların ödüllerini staking hizmeti değil ağ belirlediği için verilen hizmet sadece bir IT hizmeti ve karşılığında da bir hizmet komisyonu alınıyor. 
+(iii) Kâr beklentisi: Staking yaptığında alınan ödül işlemleri onaylama karşılığı alınıyor ve kimin ne kadar alacağına protokol karar veriyor.
+(iv) Yatırım: Tanım gereği yatırım yaparken varlığınızı başka bir yere verirsiniz. Staking yaparken paranız tamamen sizin kontrolünüzde, istediğiniz zaman çekebilirsiniz.
 [^2]: SEC, Paxos'a sadece Wells Notice denen 'seni soruşturmaya hazırlanıyorum' bildirimi göndermiş
