@@ -7,6 +7,11 @@ Yaşananları sessizce izlemeyi tercih eden ABD otoriteleri, 2023'e girmemizle b
 ### Ne yaptı ABD'li otoriteler?
 Aslına bakarsanız, 2022 yılı içinde yaşadığımız önce UST/Luna arkasından 3AC ve en son da FTX'in batışı kamuoyunda otoritelerin artık harekete geçeceği beklentisi yaratmıştı. Pek çok uzman 2023 yılı beklentilerinde bu alandaki kanuni düzenleme ve denetimlerin artacağının altını çiziyorlardı. 
 
+
+| ![order](/assets/sign-2531244_800.jpg)|
+|:--:| 
+| *Image by [falco](https://pixabay.com/users/falco-81448/) from [Pixabay](https://pixabay.com/)*|
+
 Yaşananlar içinde asıl şaşırtıcı olan farklı otoritelerden hızlı bir şekilde peşi sıra hareketler gelmesi oldu. Öyle ki, bu hareketleri 'Yol daraltma harekatı' (ingilizcesi Operation Chokepoint) olarak [adlandıranlar oldu](https://www.piratewires.com/p/crypto-choke-point).  Neler oldu peki? 
 
 - Aralık ayı başında kriptonun en büyük kritiklerinden olan senatör [Elizabeth Warren](https://en.wikipedia.org/wiki/Elizabeth_Warren), birkaç meslektaşı ile birlikte kripto dünyasının büyük oyuncularının kullandığı en büyük banka olan [Silvergate Bank](https://www.silvergate.com/)'e bir [mektup gönderdi](https://www.coindesk.com/business/2022/12/06/crypto-bank-silvergate-slides-further-after-letter-from-senator-warren/). Warren mektupta Silvergate'i FTX ve kardeşi Alameda Research'e hizmet vermekle ve şüpheli işlemlerini raporlamamakla suçladı. Ardından 2 Şubat'ta Adalet Bakanlığı dolandırıcılık birimi, Silvergate Bank'e FTX ve Alameda ile ilişkilerinden dolayı [soruşturma açtı](https://archive.is/fF2i3). 
