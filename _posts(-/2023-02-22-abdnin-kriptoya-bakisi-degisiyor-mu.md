@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "ABD'nin Kriptoya Bakışı Değişiyor mu?"
+date:   2023-02-22 18:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
 Bu yazımızda ABD piyasalarında denetleyici kurumların son zamanlarda aldıkları aksiyonları, nedenlerini ve önümüzdeki dönem beklentilerini ele alacağız.
 
 Kripto yeni gelişen ve yavaş yavaş olgunlaşmaya başlayan bir alan. Bu nedenle kanun koyucu ve denetleyiciler aslında sağduyulu hareket ederek, uzunca bir süre sektörün büyümesini uzaktan seyretmeyi tercih ettiler. Bu bekleyiş sırasında bir yanda da dünya ekonomisinin en büyük oyuncusu olan ABD'nin alacağı tavrı dikkatle izliyorlardı.
@@ -75,6 +83,13 @@ Sürece yukarıdan baktığımızda şunu görüyoruz: Bundan bir süre önceye 
 
 **Bu nedenle, kısa vadede tedirginlik yaratsa da uzun vadede çıkarılacak yasalar ile bu tedirginlik çözülecek**. Kanun koyucu için ise iki temel hedef var: Tüketicinin korunması ve teknolojik inovasyonun sürdürülmesi. Kongre çıkaracağı yasa ile doğru yolu geç de olsa bulacaktır. O zamana kadar, yönetimin farklı organlarından özellikle merkezi kripto oyuncularına karşı seçici olarak aksiyonlar görmeye devam edeceğiz.
 
+---
+
+*Not 1: Bu yazı ilk olarak 22 Şubat 2023'de [BTCHaber'de yayınlandı](https://www.btchaber.com/abdnin-kriptoya-bakisi-degisiyor-mu/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
 
 —-
 
