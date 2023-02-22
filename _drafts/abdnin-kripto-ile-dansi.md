@@ -68,7 +68,7 @@ Sürece yukarıdan baktığımızda şunu görüyoruz: Bundan bir süre önceye 
 
 **Sorun böyle bir kanuni düzenlemenin zaman alacak olması.** Üzerinde konuşulmuş ve belirli bir ilerleme sağlanmış Stabil Para yasası bile geçtiğimiz yıl yaşananlardan sonra ileriye atılmış durumda. **Böyle kanuni belirsizliğin olduğu geçiş döneminde ABD yönetiminin koordineli bir şekilde sıkıntılı alanların üzerine genel değil ama tek tek olay bazlı gittiğini görüyoruz.**
 
-Bu nedenle, kısa vadede tedirginlik yaratsa da uzun vadede çıkarılacak yasalar ile bu tedirginlik çözülecek. Kanun koyucu için ise iki temel hedef var: Tüketicinin korunması ve teknolojik inovasyonun sürdürülmesi. Kongre çıkaracağı yasa ile doğru yolu geç de olsa bulacaktır. O zamana kadar, yönetimin farklı organlarından özellikle merkezi kripto oyuncularına seçici olarak aksiyonlar görmeye devam edeceğiz.
+**Bu nedenle, kısa vadede tedirginlik yaratsa da uzun vadede çıkarılacak yasalar ile bu tedirginlik çözülecek**. Kanun koyucu için ise iki temel hedef var: Tüketicinin korunması ve teknolojik inovasyonun sürdürülmesi. Kongre çıkaracağı yasa ile doğru yolu geç de olsa bulacaktır. O zamana kadar, yönetimin farklı organlarından özellikle merkezi kripto oyuncularına seçici olarak aksiyonlar görmeye devam edeceğiz.
 
 
 —-
