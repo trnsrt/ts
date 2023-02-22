@@ -5,7 +5,7 @@ Kripto yeni gelişen ve yavaş yavaş olgunlaşmaya başlayan bir alan. Bu neden
 Yaşananları sessizce izlemeyi tercih eden ABD otoriteleri, 2023'e girmemizle birlikte bir anda peşi sıra aksiyonlar almaya başladılar. Gelin önce neler yaşandığına bakalım: 
 
 ### Ne yaptı ABD'li otoriteler?
-Aslına bakarsanız, 2022 yılı içinde yaşadığımız önce UST/Luna arkasından 3AC ve en son da FTX'in batışları kamuoyunda otoritelerin artık harekete geçeceği beklentisi yaratmıştı. Pek çok uzman 2023 yılı beklentilerinde bu alandaki kanuni düzenleme ve denetimlerin artacağının altını çiziyorlardı. 
+Aslına bakarsanız, 2022 yılı içinde yaşadığımız önce UST/Luna arkasından 3AC ve en son da FTX'in batışı kamuoyunda otoritelerin artık harekete geçeceği beklentisi yaratmıştı. Pek çok uzman 2023 yılı beklentilerinde bu alandaki kanuni düzenleme ve denetimlerin artacağının altını çiziyorlardı. 
 
 Yaşananlar içinde asıl şaşırtıcı olan farklı otoritelerden hızlı bir şekilde peşi sıra hareketler gelmesi oldu. Öyle ki, bu hareketleri 'Yol daraltma harekatı' (ingilizcesi Operation Chokepoint) olarak [adlandıranlar oldu](https://www.piratewires.com/p/crypto-choke-point).  Neler oldu peki? 
 
@@ -15,7 +15,7 @@ Yaşananlar içinde asıl şaşırtıcı olan farklı otoritelerden hızlı bir 
 - 21 Ocak'ta ise Binance, Signature Bank'ın Aralık başında yaptığı değişiklik üzerine ABD'de sadece 100 bin ABD Doları üzeri havale kabul edebileceklerini [açıkladı](https://www.bloomberg.com/news/articles/2023-01-22/binance-says-signature-sets-transaction-minimum-amid-pullback). Ardından 6 Şubat'ta ABD içinden yapılan banka transferlerini kabul etmeyeceğini [bildirdi](https://www.coindesk.com/business/2023/02/06/crypto-exchange-binance-to-suspend-us-dollar-deposits-this-week/) (Binance US harici) 
 - Ocak ayı sonlarına yaklaşırken, 27 Ocak'ta Fed, kripto alanının önde gelen isimlerinden [Caitlin Long](https://twitter.com/CaitlinLong_)'un Wyoming'de kurduğu [Custodia Bank](https://custodiabank.com/)'ın Fed sistemine girme başvurusunu iki yıl beklettikten sonra [reddetti](https://www.federalreserve.gov/newsevents/pressreleases/orders20230127a.htm). 
 
-Yukarıda gördüğünüz ağırlıklı olarak bankacılık ile ilgili otoritelerin aldıkları kararlar üzerine geçtiğimiz hafta içinde bu sefer ABD'nin sermaye piyasalarının denetleyici otoritesi olan [SEC](https://www.sec.gov/) (Securities and Exchange Commission)  kaynaklı iki olay piyasaların korkusuna tuz biber ekti. Paxos'un BUSD basımını durdurması ve Kraken'in staking hizmetini kapatması.  Şimdi bu iki olaya daha derinden bakalım:
+Yukarıda gördüğünüz ağırlıklı olarak bankacılık ile ilgili otoritelerin aldıkları kararlar üzerine geçtiğimiz hafta içinde bu sefer ABD'nin sermaye piyasalarının denetleyici otoritesi olan [SEC](https://www.sec.gov/) (Securities and Exchange Commission)  kaynaklı iki olay piyasaların korkusuna tuz biber ekti: Paxos'un BUSD basımını durdurması ve Kraken'in staking hizmetini kapatması.  Şimdi bu iki olaya daha derinden bakalım. 
 
 #### Paxos'un BUSD basımını durdurması
 Piyasadaki üçüncü büyük stabil para olan BUSD, ağırlıklı olarak Binance borsası ve BNB zincirinde kullanılıyor. Her ne kadar adı Binance USD olsa da, BUSD aslında ABD'nin New York eyaletinde kurulu bir finans altyapısı hizmet sağlayıcısı olan [Paxos](https://paxos.com/) tarafından basılıyor. Paxos Ethereum blokzinciri üzerinde bastığı tüm BUSD'nin tamamı kadar nakit ya da devlet tahvilini ABD bankalarında tutuyor. 
@@ -24,7 +24,7 @@ Piyasadaki üçüncü büyük stabil para olan BUSD, ağırlıklı olarak Binanc
 
 #### Kraken'in staking hizmetini kapatması
 
-Staking, kullanıcıların bir ağa ait ellerinde bulunan kriptoparayı rehin ederek ağın üzerindeki işlemleri onaylamaları anlamına geliyor. Kullanıcı bu işi normalde direkt ağ üzerinden yapabiliyor ancak teknik bilgi gerektirmesinden dolayı pek çok kullanıcı bu işi için uzmanlaşmış yerler kullanıyor. 
+Staking, kullanıcıların bir ağa ait ellerinde bulunan tokeni rehin ederek ağın üzerindeki işlemleri onaylamaları anlamına geliyor. Kullanıcı bu işi normalde direkt ağ üzerinden yapabiliyor ancak teknik bilgi gerektirmesinden dolayı pek çok kullanıcı bu işi için uzmanlaşmış yerler kullanıyor. 
 
 ABD'nin büyük kriptopara alım-satım platformlarından olan Kraken, 9 Şubat günü SEC ise bir uzlaşmaya gittiğini açıklayarak müşterilerine sunduğu kriptovarlık staking hizmetini ABD içine kapattığını açıkladı. Nedeni, SEC'ye göre bir menkul kıymet hizmeti sayılan staking hizmetlerini sunmadan önce kurumdan izin almamış olması. 
 
@@ -40,7 +40,7 @@ Kanun çıkmadığı durumda, mevcut otoriteler farklı gerekçelerle bu alandak
 
 #### Bankacılık sektörü denetleyici kurumları açısından
 
-FED, FDIC, OCC gibi kurumlar, bankacılık sektörünün kripto ile yakınlaşmasından uzunca bir süredir tedirgin oluyorlar. Bunun temel nedeni, kriptonun oynak bir alan olması nedeniyle, temelinden stabilite yatan bankacılık sektörünü sıkıntıya sokma ihtimali. Konu sadece sektörün prestij kaybına uğraması değil, bir yandan da FDIC'nin bankalardaki mevduatı sigortalaması nedeniyle olası bir zararla karşı karşıya kalacak olması. Özellikle FTX'in Silvergate Bank üzerinden yaptığı şüpheli işlemler, bankacılık otoritelerini hızlı aksiyon alma yoluna itti ('aylar sonra alınan aksiyon hızlı sayılır mı?' diye aklınızdan geçebilir ancak bürokrasinin genel işleyişine baktığınızda henüz hangi kanunların geçerli olduğunun bilinmediği bu alanda kurumların yine de hızlı hareket ettiğini söyleyebiliriz). 
+FED, FDIC, OCC gibi kurumlar, bankacılık sektörünün kripto ile yakınlaşmasından uzunca bir süredir tedirgin oluyorlar. Bunun başlıca nedeni, kriptonun oynak bir alan olması nedeniyle, temelinde stabilite olması gereken bankacılık sektörünü sıkıntıya sokma ihtimali. Konu sadece sektörün prestij kaybına uğraması değil, bir yandan da FDIC'nin bankalardaki mevduatı sigortalaması nedeniyle olası bir zararla karşı karşıya kalacak olması. Özellikle FTX'in Silvergate Bank üzerinden yaptığı şüpheli işlemler, bankacılık otoritelerini hızlı aksiyon alma yoluna itti ('aylar sonra alınan aksiyon hızlı sayılır mı?' diye aklınızdan geçebilir ancak bürokrasinin genel işleyişine baktığınızda henüz hangi kanunların geçerli olduğunun bilinmediği bu alanda kurumların yine de hızlı hareket ettiğini söyleyebiliriz). 
 
 Alınan aksiyonların, özellikle kurumsal yatırımcıları tedirgin etmesi bakımından kripto dünyasına kısa vadede olumsuz bir etki olması beklenebilir. Gerek Silvergate gerekse Signature Bank, sektörde kriptoya hizmet veren öncü bankalardandı. Kimse elini kriptoya sürmezken onlar bu alanda verdikleri hizmetler ile bankacılık sektörünün önünü açtılar. Sonrasında pek çok finansal kurum benzer hizmeti vermeye başladı. Şimdi bu iki kurum ile ilgili gelişmeler diğerlerini de tedirgin edecek, yeni bankalar bu alana girmeyecekler, bu da kurumsal adaptasyonu zorlaştıracak. Aynı şekilde denetleyici kurumların uyarıları sonrası bankaların stabil para çıkarması önümüzdeki birkaç yıl için hayli zor. 
 
@@ -66,7 +66,7 @@ SEC'nin aksiyonlarının ise 'tüketiciyi yanıltan' ya da bu anlamda zayıf hal
 
 Sürece yukarıdan baktığımızda şunu görüyoruz: Bundan bir süre önceye kadar ABD’de mevcut yönetim birimlerinin çeşitli politika kararları ile kripto alanını düzenleyebileceği düşünülüyordu. Geçtiğimiz yıl yaşananlardan sonra bir anlayış değişikliği oldu ve bu alana özgü özel bir kanun çıkarılması gerektiği konusunda artık herkes hemfikir. 
 
-Sorun böyle bir kanuni düzenlemenin zaman alacak olması. Üzerinde konuşulmuş ve belirli bir ilerleme sağlanmış Stabil Para yasası bile geçtiğimiz yol yaşananlardan sonra ileriye atılmış durumda. Böyle kanuni belirsizliğin olduğu geçiş döneminde ABD yönetiminin koordineli bir şekilde sıkıntılı alanların üzerine genel değil ama tek tek olay bazlı gittiğini görüyoruz.
+Sorun böyle bir kanuni düzenlemenin zaman alacak olması. Üzerinde konuşulmuş ve belirli bir ilerleme sağlanmış Stabil Para yasası bile geçtiğimiz yıl yaşananlardan sonra ileriye atılmış durumda. Böyle kanuni belirsizliğin olduğu geçiş döneminde ABD yönetiminin koordineli bir şekilde sıkıntılı alanların üzerine genel değil ama tek tek olay bazlı gittiğini görüyoruz.
 
 Bu nedenle, kısa vadede tedirginlik yaratsa da uzun vadede çıkarılacak yasalar ile bu tedirginlik çözülecek. Kanun koyucu için ise iki temel hedef var: Tüketicinin korunması ve teknolojik inovasyonun sürdürülmesi. Kongre çıkaracağı yasa ile doğru yolu geç de olsa bulacaktır. O zamana kadar, yönetimin farklı organlarından özellikle merkezi kripto oyuncularına seçici olarak aksiyonlar görmeye devam edeceğiz.
 
