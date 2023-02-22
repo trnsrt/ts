@@ -42,7 +42,7 @@ Kanun çıkmadığı durumda, mevcut otoriteler farklı gerekçelerle bu alandak
 
 FED, FDIC, OCC gibi kurumlar, bankacılık sektörünün kripto ile yakınlaşmasından uzunca bir süredir tedirgin oluyorlar. Bunun başlıca nedeni, kriptonun oynak bir alan olması nedeniyle, temelinde stabilite olması gereken bankacılık sektörünü sıkıntıya sokma ihtimali. Konu sadece sektörün prestij kaybına uğraması değil, bir yandan da FDIC'nin bankalardaki mevduatı sigortalaması nedeniyle olası bir zararla karşı karşıya kalacak olması. Özellikle FTX'in Silvergate Bank üzerinden yaptığı şüpheli işlemler, bankacılık otoritelerini hızlı aksiyon alma yoluna itti ('aylar sonra alınan aksiyon hızlı sayılır mı?' diye aklınızdan geçebilir ancak bürokrasinin genel işleyişine baktığınızda henüz hangi kanunların geçerli olduğunun bilinmediği bu alanda kurumların yine de hızlı hareket ettiğini söyleyebiliriz). 
 
-Alınan aksiyonların, özellikle kurumsal yatırımcıları tedirgin etmesi bakımından kripto dünyasına kısa vadede olumsuz bir etki olması beklenebilir. Gerek Silvergate gerekse Signature Bank, sektörde kriptoya hizmet veren öncü bankalardandı. Kimse elini kriptoya sürmezken onlar bu alanda verdikleri hizmetler ile bankacılık sektörünün önünü açtılar. Sonrasında pek çok finansal kurum benzer hizmeti vermeye başladı. Şimdi bu iki kurum ile ilgili gelişmeler diğerlerini de tedirgin edecek, yeni bankalar bu alana girmeyecekler, bu da kurumsal adaptasyonu zorlaştıracak. Aynı şekilde denetleyici kurumların uyarıları sonrası bankaların stabil para çıkarması önümüzdeki birkaç yıl için hayli zor. 
+Alınan aksiyonların, özellikle kurumsal yatırımcıları tedirgin etmesi bakımından kripto dünyasına kısa vadede olumsuz bir etki olması beklenebilir. Gerek Silvergate gerekse Signature Bank, sektörde kriptoya hizmet veren öncü bankalardandı. Kimse elini kriptoya sürmezken onlar bu alanda verdikleri hizmetler ile bankacılık sektörünün önünü açtılar. **Sonrasında pek çok finansal kurum benzer hizmeti vermeye başladı. Şimdi bu iki kurum ile ilgili gelişmeler diğerlerini de tedirgin edecek, yeni bankalar bu alana girmeyecekler, bu da kurumsal adaptasyonu zorlaştıracak. Aynı şekilde denetleyici kurumların uyarıları sonrası bankaların stabil para çıkarması önümüzdeki birkaç yıl için hayli zor.** 
 
 #### SEC açısından 
 
@@ -54,9 +54,7 @@ Her ne kadar [yaptığı açıklamalar](https://cointelegraph.com/news/sec-chair
 
 Paxos BUSD bunun güzel bir örneği aslında. BUSD bir stabil para olarak, nasıl "gelir getirici bir hisse senedi' olup SEC'nin alanına giriyor?" anlamak hayli zor. Burada SEC aksiyona geçmediği için tam gerekçelerini bilemiyoruz[^2]. Gensler'in, stabil paralara verilen yüksek faiz oranları nedeniyle bu paraların aslında sermaye piyasası ürünü olarak görülmesi gerektiği şekilde geçmişte yaptığı [yorumlar](https://media.pli.edu/player/?rid=197YZISbWjH9nzxF6zB9YQ2&cid=k3n7kmfTaIAqLzzN4b_htQ2) var. Paxos'a kapatma emri veren NYDFS'in temel gerekçesinin ise, basılan BUSD ile piyasada dolaşan (özellikle Ethereum'dan BNB Chain'e geçmiş olan) BUSD arasında farklılıklar ve Paxos'un hizmet verdiği müşterisi ile ilgili yeterince kontrol yapmadığı olduğu düşünülüyor.
 
-Kraken olayı ise daha farklı. Zira, Kraken'in verdiği staking hizmeti, DeFi'den bildiğimiz örneğin Lido Finance'in verdiği staking hizmeti gibi değil. Lido Finance benzeri staking platformları aldıkları tüm parayı şeffaf bir biçimde Ethereum üzerinde staking yapıyor ve ufak bir komisyon sonrası tüketiciye aktarıyorlar. Halbuki Kraken, aynı bir mevduat kurumu gibi, tüketicilere belli bir getiri vaad ediyor ve farklı kripto varlıklar için bu servisi veriyor. Üstelik kendi varlıklarını da işin içine katıyor. Dolayısıyla, bu staking servisinin düzenleyicinin eleştiri oklarını üzerine çekmesi normal. Staking hizmeti Kraken için o kadar da büyük değil, o nedenle SEC ile davalık olmak yerine uzlaşmaya gitmeyi tercih ettikleri düşünülüyor. 
-
-Coinbase ise bu anlamda çok daha şeffaf bir hizmet veriyor. Üstelik staking, ayı piyasasından düşen alım-satım komisyonları nedeniyle sıkıntı içindeki şirketin en hızlı büyüyen gelir kalemi. 2022 yılının üçüncü çeyreğin şirket gelirlerinin %11'i oluşturan staking gelirlerinin 2023 yılında %13.4'e çıkması bekleniyor. Bu nedenle, Coinbase burada SEC ile sonuna dek savaşacak. 
+Kraken olayı ise daha farklı. Zira, Kraken'in verdiği staking hizmeti, DeFi'den bildiğimiz örneğin Lido Finance'in verdiği staking hizmeti gibi değil. Lido Finance benzeri staking platformları aldıkları tüm parayı şeffaf bir biçimde Ethereum üzerinde staking yapıyor ve ufak bir komisyon sonrası tüketiciye aktarıyorlar. Halbuki Kraken, aynı bir mevduat kurumu gibi, tüketicilere belli bir getiri vaad ediyor ve farklı kripto varlıklar için bu servisi veriyor. Üstelik kendi varlıklarını da işin içine katıyor. Dolayısıyla, bu staking servisinin düzenleyicinin eleştiri oklarını üzerine çekmesi normal. Staking hizmeti Kraken için o kadar da büyük değil, o nedenle SEC ile davalık olmak yerine uzlaşmaya gitmeyi tercih ettikleri düşünülüyor[^3].
 
 ### Yorumlar
 
@@ -64,15 +62,11 @@ Düzenleyici kurumların aldıkları aksiyonlar her ne kadar kripto dünyasında
 
 SEC'nin aksiyonlarının ise 'tüketiciyi yanıltan' ya da bu anlamda zayıf halka olan merkezi yapılar üzerinde yoğunlaşmasını bekliyorum. Özellikle “staking yasaklanacak” benzeri söylemlerin gereksiz korku (ingilizce FUD) yaratmak dışında bir gerçekliği yok. Servisler ve hizmetler ne kadar merkeziyetsiz olurlarsa o kadar SEC’nin “şefkatli kollarından” uzak kalacaklar. 
 
-Sürece yukarıdan baktığımızda şunu görüyoruz: Bundan bir süre önceye kadar ABD’de mevcut yönetim birimlerinin çeşitli politika kararları ile kripto alanını düzenleyebileceği düşünülüyordu. Geçtiğimiz yıl yaşananlardan sonra bir anlayış değişikliği oldu ve bu alana özgü özel bir kanun çıkarılması gerektiği konusunda artık herkes hemfikir. 
+Sürece yukarıdan baktığımızda şunu görüyoruz: Bundan bir süre önceye kadar ABD’de mevcut yönetim birimlerinin çeşitli politika kararları ile kripto alanını düzenleyebileceği düşünülüyordu. **Geçtiğimiz yıl yaşananlardan sonra bir anlayış değişikliği oldu ve bu alana özgü özel bir kanun çıkarılması gerektiği konusunda artık herkes hemfikir.** 
 
-Sorun böyle bir kanuni düzenlemenin zaman alacak olması. Üzerinde konuşulmuş ve belirli bir ilerleme sağlanmış Stabil Para yasası bile geçtiğimiz yıl yaşananlardan sonra ileriye atılmış durumda. Böyle kanuni belirsizliğin olduğu geçiş döneminde ABD yönetiminin koordineli bir şekilde sıkıntılı alanların üzerine genel değil ama tek tek olay bazlı gittiğini görüyoruz.
+**Sorun böyle bir kanuni düzenlemenin zaman alacak olması.** Üzerinde konuşulmuş ve belirli bir ilerleme sağlanmış Stabil Para yasası bile geçtiğimiz yıl yaşananlardan sonra ileriye atılmış durumda. **Böyle kanuni belirsizliğin olduğu geçiş döneminde ABD yönetiminin koordineli bir şekilde sıkıntılı alanların üzerine genel değil ama tek tek olay bazlı gittiğini görüyoruz.**
 
 Bu nedenle, kısa vadede tedirginlik yaratsa da uzun vadede çıkarılacak yasalar ile bu tedirginlik çözülecek. Kanun koyucu için ise iki temel hedef var: Tüketicinin korunması ve teknolojik inovasyonun sürdürülmesi. Kongre çıkaracağı yasa ile doğru yolu geç de olsa bulacaktır. O zamana kadar, yönetimin farklı organlarından özellikle merkezi kripto oyuncularına seçici olarak aksiyonlar görmeye devam edeceğiz.
-
-
-
-
 
 
 —-
@@ -83,3 +77,4 @@ Bu nedenle, kısa vadede tedirginlik yaratsa da uzun vadede çıkarılacak yasal
 (iii) Kâr beklentisi: Staking yaptığında alınan ödül işlemleri onaylama karşılığı alınıyor ve kimin ne kadar alacağına protokol karar veriyor.
 (iv) Yatırım: Tanım gereği yatırım yaparken varlığınızı başka bir yere verirsiniz. Staking yaparken paranız tamamen sizin kontrolünüzde, istediğiniz zaman çekebilirsiniz.
 [^2]: SEC, Paxos'a sadece Wells Notice denen 'seni soruşturmaya hazırlanıyorum' bildirimi göndermiş
+[^3]: Coinbase ise bu anlamda çok daha şeffaf bir hizmet veriyor. Üstelik staking, ayı piyasasından düşen alım-satım komisyonları nedeniyle sıkıntı içindeki şirketin en hızlı büyüyen gelir kalemi. 2022 yılının üçüncü çeyreğin şirket gelirlerinin %11'i oluşturan staking gelirlerinin 2023 yılında %13.4'e çıkması bekleniyor. Bu nedenle, Coinbase burada SEC ile sonuna dek savaşacak. 
