@@ -40,7 +40,7 @@ Eser sahipleri, OpenSea'nin bu koşulu sonrası ya OpenSea'yi ya da diğer alter
 
 Bunun üzerine Blur gayet akıllıca yeni bir hamle yapıyor: Kendi kontratları yanında OpenSea'nin geçtiğimiz yıl çıkardığı Seaport akıllı kontratların kullanıyor (Seaport ile ilgili şu yazımıza göz atabilirsiniz). OpenSea Blur'u sansürleyebiliyor ama kendi sisteminin de üzerine kurulu olduğu Seaport'u sansürleyemiyor! 
 
-### Üçüncü raunt: Blur token arzı ve sonrası
+#### Üçüncü raunt: Blur token arzı ve sonrası
 
 OpenSea, Blur tangosunda geçtiğimiz haftalarda yeni birkaç gelişme daha yaşandı. Önce Blur'un uzun zamandır beklenen tokeni platformu kullananlara dağıtıldı. Teşvik programı henüz bitmiş değil ve mevcut haliyle bir-iki yıl daha sürecek gibi görünüyor. Bu da Blur'un likidite ve işlem hacmini iyice artırdı. 
 
