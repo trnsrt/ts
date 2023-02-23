@@ -46,7 +46,7 @@ OpenSea, Blur tangosunda geçtiğimiz haftalarda yeni birkaç gelişme daha yaş
 
 | ![nft_marketplaces](/assets/theblock_nft_marketplaces_800.png)|
 |:--:| 
-| *Kaynak: [TheBlock](https://www.theblock.co/data/nft-non-fungible-tokens/marketplaces))*|
+| *Kaynak: [TheBlock](https://www.theblock.co/data/nft-non-fungible-tokens/marketplaces)*|
 
 Artan pazar payı sonrası Blue bir hamle daha yaptı.  Blur'un CEO'su Pacman koleksiyon sahiplerine eserlerini OpenSea'den çekme çağrısında [bulundu](https://mirror.xyz/blurdao.eth/vYOjzk4cQCQ7AtuJWWiZPoNZ04YKQmTMsos0NNq_hYs)[^3]. 
 
