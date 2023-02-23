@@ -50,7 +50,7 @@ OpenSea, Blur tangosunda geçtiğimiz haftalarda yeni birkaç gelişme daha yaş
 
 Artan pazar payı sonrası Blue bir hamle daha yaptı.  Blur'un CEO'su Pacman koleksiyon sahiplerine eserlerini OpenSea'den çekme çağrısında [bulundu](https://mirror.xyz/blurdao.eth/vYOjzk4cQCQ7AtuJWWiZPoNZ04YKQmTMsos0NNq_hYs)[^3]. 
 
-Blur'un bu hamlesi sonrası kimi koleksiyonların kendisinden çekildiğini gören OpenSea de 48 saat sonra yeni bir hamle yaptı. Öncelikle büyük bir değişiklik yaparak 'telif ödemesini zorunlu olmaktan çıkarıp opsiyonel yaptı' (Blur gibi minimum %0.5 telif uygulayacağını belirtti). Belirli bir süreliğine yeni çıkan koleksiyonlardaki komisyon oranlarını %0'a [çektiğini açıkladı](https://support.opensea.io/hc/en-us/articles/14068991090067)['4]. Son olarak da Blur'u kara listeden çıkaracağını açıkladı. 
+Blur'un bu hamlesi sonrası kimi koleksiyonların kendisinden çekildiğini gören OpenSea de 48 saat sonra yeni bir hamle yaptı. Öncelikle büyük bir değişiklik yaparak 'telif ödemesini zorunlu olmaktan çıkarıp opsiyonel yaptı' (Blur gibi minimum %0.5 telif uygulayacağını belirtti). Belirli bir süreliğine yeni çıkan koleksiyonlardaki komisyon oranlarını %0'a [çektiğini açıkladı](https://support.opensea.io/hc/en-us/articles/14068991090067)[^4]. Son olarak da Blur'u kara listeden çıkaracağını açıkladı. 
 
 ### Sonuç
 NFT telif hakları geçtiğimiz yıl çok konuşuldu. Burada, konunun eser sahiplerinin hakları üzerinden döndüğünü düşünseniz de, asıl hikaye pazar yerleri arasındaki savaştan kaynaklanıyor. Telif ücreti ödemesi sanatçılara ek gelir getiren ama ticaret hacmini düşüren bir özellik. OpenSea'nin son hamlesi ile işin ticaretini yapanların bu raundu aldığı görülüyor. NFT eser sahipleri önemli bir avantajı kaybetmiş durumdalar. 
