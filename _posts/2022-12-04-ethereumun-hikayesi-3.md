@@ -41,7 +41,7 @@ Evet yazı dizimizin buraya kadar olan bölümünde Ethereum'un geçmişine odak
 
 ---
 
-*Not 1: Bu yazı ilk olarak 3 Aralık 2022'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı]()*
+*Not 1: Bu yazı ilk olarak 3 Aralık 2022'de [BlockchainIST Center](https://medium.com/blockchainist-center)'da [yayınlandı](https://medium.com/blockchainist-center/ethereumun-hikayesi-iii-417f6ecd1c9a?source=your_stories_page-------------------------------------)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
