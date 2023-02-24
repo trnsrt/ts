@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Yeni bir dünya, yeni bir kimlik"
+date:   2023-02-23 12:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi, CoindeskTR
+---
+
 Bu yazımızda sizlere programlama dünyasını yeni baştan inşa etmeye çalışan ve kimine göre 'hırslı' kimine göre 'uçuk' bir proje olarak adlandırılan Urbit'den bahsedeceğiz. 
 
 Dijital dünyada gücü kullanıcıya vermeyi hedefleyen Web3 girişimleri bunu, kullanıcının alışık olduğu sistemleri dönüştürmeye çalışarak yapıyorlar. Bu da eski sistemlerin barındırdığı kısıtlar nedeniyle kullanıcıların 'dijital dünyada tam bağımsız' olmalarını neredeyse imkansız kılıyor. Oyunun kurallarını temelden değiştirmeyi hedefleyen Urbit, bu anlamda diğer girişimlerden ayrılıyor. Gelin birlikte inceleyelim.
@@ -5,6 +13,10 @@ Dijital dünyada gücü kullanıcıya vermeyi hedefleyen Web3 girişimleri bunu,
 ### Nedir Urbit?
 
 [Urbit](https://urbit.org/), altyapıların da merkeziyetsiz olması hayalini hayata geçirmeye çalışan bir oluşum. Üstelik kökleri Bitcoin'in bile öncesi 2002 yıllarına dayanıyor. Kuruluş temelinde yatan felsefe 'kişisel işletim sistemini yeni baştan inşa etmek'. Ne demek bu? 
+
+| ![hand](/assets/hand-1592415_800.jpg)|
+|:--:| 
+| *Image by [Gerd Altman](https://pixabay.com/users/geralt-9301/) from [Pixabay](https://pixabay.com/)*|
 
 Kullanmakta olduğumuz PC'ler ve işletim sistemleri 1970'lerde insanların kullandıkları çalışma masaları 'taklit edilerek' yapılmış. Masa üzerindeki dosyalar, çekmeceler, raflar PC'de 'dosya, klasör ve pencere' haline gelmiş. İşte biz hâlâ bu sistemleri kullanmaya çalışıyoruz. 
 
@@ -43,3 +55,11 @@ Dijital dünyada kimlik ve bilgilerimize sahip olmak sürekli bir mücadele içe
 Gücü kullanıcıya vermeye çalışan Web3 adı altındaki pek çok girişimde ise, bir an önce geniş kesimlere ulaşabilmek için merkeziyetsizlikten ödün verildiğini görüyoruz. Urbit, bu hedefe merkeziyetsizliği kendisine kutup yıldızı olarak belirlemiş şekilde ilerliyor. Ağır aksak ilerledikleri bu yolda ne kadar başarılı olacaklar hep birlikte göreceğiz. 
 
 [^1]: Kullanıcılar aynı blokzincirde olduğu gibi sisteme birer düğüm (node) olarak bağlanıyorlar.  
+
+---
+
+*Not 1: Bu yazı ilk olarak 23 Şubat 2022'de [Coindesk Türkiye'de yayınlandı](https://www.coindeskturkiye.com/yazarlar/turan-sert/yeni-bir-dunya-yeni-bir-kimlik-3674)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
