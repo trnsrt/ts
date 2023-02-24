@@ -44,9 +44,9 @@ Bunun üzerine Blur gayet akıllıca yeni bir hamle yapıyor: Kendi kontratları
 
 OpenSea ile Blur'un tangosunda geçtiğimiz haftalarda yeni birkaç gelişme daha yaşandı. Önce Blur'un uzun zamandır beklenen tokeni platformu kullananlara dağıtıldı. Teşvik programı henüz bitmiş değil ve mevcut haliyle bir-iki yıl daha sürecek gibi görünüyor. Bu da Blur'un likidite ve işlem hacmini iyice artırdı. 
 
-| ![nft_marketplaces](/assets/theblock_nft_marketplaces_800.png)|
+| ![nft_marketplaces](/assets/nft_pazaryerleri_230224_800.jpg)|
 |:--:| 
-| *Kaynak: [TheBlock](https://www.theblock.co/data/nft-non-fungible-tokens/marketplaces)*|
+| *Kaynak: [Dune Analytics- @hildobby](https://dune.com/hildobby/NFTs)*|
 
 Artan pazar payı sonrası Blur bir hamle daha yaptı.  Blur'un CEO'su Pacman koleksiyon sahiplerine eserlerini OpenSea'den çekme çağrısında [bulundu](https://mirror.xyz/blurdao.eth/vYOjzk4cQCQ7AtuJWWiZPoNZ04YKQmTMsos0NNq_hYs)[^3]. 
 
