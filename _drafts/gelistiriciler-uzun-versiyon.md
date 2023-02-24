@@ -171,6 +171,7 @@ Electric Capital'in geliştirici raporu pek çok farklı çıkarımlar yapılabi
 
 ---
 
+
 Dipnotlar:
 
 [^1]: Fingerprinting denen yöntem ile yazılımların ilk çıkış noktalarını belirleyip daha sonra başka projelerde kopyala/yapıştır yöntemi ile kullanılmasını, çatallamaları, açık kaynak kitaplıklarını birleştirme yoluyla oluşturulan kayıtları eliyorlar. 
