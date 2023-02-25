@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Diğer Web3
-permalink: /diger-web3/
+permalink: /diger_web3/
 ---
 
 Web3, dijital dünyada blokzincir temelli merkeziyetsiz sistemler tarafından ortaya atılan uygulamalara verilen genel ad. Temel olarak ayrıldığı farklı alanlar var: 
