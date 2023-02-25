@@ -1,6 +1,6 @@
 ---
 layout: page
-title: DeFi Yazılar
+title: DeFi
 permalink: /defi/
 ---
 
