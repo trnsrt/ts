@@ -17,7 +17,7 @@ Web3 alanında ortaya çıkan en büyük alanlardan bir tanesi NFT'ler. NFT ingi
 
 - NFT pazar yerleri
   -  OpensSea [NFT pazarının en büyük oyuncusu olan OpenSea](/genel/2022/01/21/open-sea-acik-denizlere-yol-almak.html) *(21 Ocak 2022)
-  -  OpenSea tarafından kurulan Seaport protokolü - [Açık denizlere açılan bir liman - Seaport](/genel/2022/06/30/acik-denizlere-acilan-liman-seaport.html) 
+  -  OpenSea tarafından kurulan Seaport protokolü - [Açık denizlere açılan bir liman - Seaport](/genel/2022/06/30/acik-denizlere-acilan-liman-seaport.html) *30 Haziran 2022* 
 
 - NFT koleksiyonları
   - Bored Ape Yacht Club (BAYC) - [Maymunların Web3'ü istilası](/genel/2022/03/30/maymunlar-istilasi.html) *30 Mart 2022*
