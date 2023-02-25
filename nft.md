@@ -9,12 +9,12 @@ Web3 alanında ortaya çıkan en büyük alanlardan bir tanesi NFT'ler. NFT ingi
 
 
 
-NFT'lerin ne olduğunu anlamak için: 
+- NFT'lerin ne olduğunu anlamak için: 
 
-- NFT'nin genel anlamı [Nedir bu NFT'ler?](/genel/2022/03/28/nedir-bu-nftler.html) *28 Mart 2022*
-- Token ve NFT farkları [Tokenler ve farkları](/genel/2022/04/17/tokenler-ve-farklari.html) *17 Nisan 2022*
-- NFT'nin bir esere nasıl değer katabileceği ile ilgili özet: [NFT'ler nasıl değer katar?](/genel/2022/07/18/nft-nasil-deger-katar.html) *18 Temmuz 2022*
-- NFT'nin bir esere nasıl değer katabileceği ile ilgili mini seri [Yazı 1](/genel/2022/05/25/NFTnin-faydalari-1.html) *25 Mayıs 2022*, [Yazı 2](/genel/2022/06/25/NFTnin-faydalari-2.html) *25 Haziran 2022*, [Yazı 3](/genel/2022/08/10/nftnin-faydalari-III.html) *10 Ağustos 2022* ve [Yazı 4](/genel/2022/09/10/nftnin-faydalari-IV.html) *10 Eylül 2022*
+  - NFT'nin genel anlamı [Nedir bu NFT'ler?](/genel/2022/03/28/nedir-bu-nftler.html) *28 Mart 2022*
+  - Token ve NFT farkları [Tokenler ve farkları](/genel/2022/04/17/tokenler-ve-farklari.html) *17 Nisan 2022*
+  - NFT'nin bir esere nasıl değer katabileceği ile ilgili özet: [NFT'ler nasıl değer katar?](/genel/2022/07/18/nft-nasil-deger-katar.html) *18 Temmuz 2022*
+  - NFT'nin bir esere nasıl değer katabileceği ile ilgili mini seri [Yazı 1](/genel/2022/05/25/NFTnin-faydalari-1.html) *25 Mayıs 2022*, [Yazı 2](/genel/2022/06/25/NFTnin-faydalari-2.html) *25 Haziran 2022*, [Yazı 3](/genel/2022/08/10/nftnin-faydalari-III.html) *10 Ağustos 2022* ve [Yazı 4](/genel/2022/09/10/nftnin-faydalari-IV.html) *10 Eylül 2022*
 
 NFT pazar yerleri
 -  OpensSea [NFT pazarının en büyük oyuncusu olan OpenSea](/genel/2022/01/21/open-sea-acik-denizlere-yol-almak.html) *(21 Ocak 2022)
