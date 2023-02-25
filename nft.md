@@ -4,10 +4,7 @@ title: NFT
 permalink: /nft/
 ---
 
-Web3 alanında ortaya çıkan en büyük alanlardan bir tanesi NFT'ler. NFT ingilizce non-fungible token teriminin kısaltması. Türkçesi için 'birbiri ile değiştirilemez token' denebilir. Buna 'eşsiz token' ya da 'tekil belirteç' diyenler de mevcut. Bu alandaki yayınlanmış tüm yazıları aşağıda bulabilirsiniz. 'Sorularla DeFi - Merkeziyetsiz Finans' kitabının ücretsiz olarak [buradan indirebilirsiniz](https://indd.adobe.com/view/5b99bb77-877f-47f7-a881-33ef427205b6)
-
-
-
+Web3 alanında ortaya çıkan en büyük alanlardan bir tanesi NFT'ler. NFT ingilizce non-fungible token teriminin kısaltması. Türkçesi için 'birbiri ile değiştirilemez token' denebilir. Buna 'eşsiz token' ya da 'tekil belirteç' diyenler de mevcut. Bu alandaki yayınlanmış tüm yazıları aşağıda bulabilirsiniz.
 
 - NFT'lerin ne olduğunu anlamak için: 
 
