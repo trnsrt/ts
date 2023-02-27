@@ -1,6 +1,4 @@
 Bu yazımızda geçtiğimiz yıl NFT dünyasında çok konuşulan eser sahiplerinin telif hakları konusunu ele alacağız. 
-
-### NFT ve sanatçı telif hakları
  
 Web3 dünyasının önemli parçalarından biri NFT’ler (İngilizcede non-fungible-tokens, Türkçesi birbiri ile değiştirilemez token ya da 'tekil belirteç'). Dijital dünyada sahiplik anlamına gelen NFT’ler ilk olarak sanat eserlerinde ön plana çıktı.  NFT’lerin en büyük özelliklerinden biri yaratıcılarına eserin sadece ilk satışından değil, daha sonraki alım-satımlarından da telif hakkı veriyor olması. 
 
