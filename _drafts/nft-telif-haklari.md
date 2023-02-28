@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "NFT telif hakkı savaşları"
+date:   2023-02-28 18:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
 Bu yazımızda geçtiğimiz yıl NFT dünyasında çok konuşulan eser sahiplerinin telif hakları konusunu ele alacağız. 
  
 Web3 dünyasının önemli parçalarından biri NFT’ler (İngilizce'de non-fungible-tokens, Türkçesi birbiri ile değiştirilemez token ya da 'tekil belirteç'). Dijital dünyada sahiplik anlamına gelen NFT’ler ilk olarak sanat eserlerinde ön plana çıktı.  NFT’lerin en büyük özelliklerinden biri yaratıcılarına eserin sadece ilk satışından değil, daha sonraki alım-satımlarından da telif hakkı veriyor olması. 
@@ -60,6 +68,14 @@ NFT telif hakları geçtiğimiz yıl çok konuşuldu. Burada, konunun eser sahip
 Bundan sonra sırada Blur'un teşvikleri azalmaya başladığında hâlâ büyük oyuncuları kendisinde tutup tutamayacağı var (program devam etse de, hacim artışından dolayı işlem yapanların aldığı tokenler azalacaktır). Bu arada OpenSea'nin uzun süredir beklenen token arzı da denklemi tümden değiştirebilir. 
 
 Görününen o ki bu hikaye daha çok su kaldırır. Konu pazar yerlerinin savaşının çok ötesine, sanal zekanın (AI) sanat alanındaki kullanımı ve buradaki telifler gibi bambaşka yerlere doğru evrilme potansiyeline de sahip. Birlikte heyecanla neler olup bittiğini izlemeye devam edeceğiz... 
+
+---
+
+*Not 1: Bu yazı ilk olarak 28 Şubat 2023'de [BTCHaber'de yayınlandı]()*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
 
 
 [^1]: Bu tip teşviklerin başarılı bir örneğini DeFi dünyasında Curve'ün yaptığını görüyoruz. Otomatik piyasa yapıcı modelini kullananan merkeziyetsiz alım-satım platformu Curve, tokenlerini, havuzlarına likidite sağlayanlara dağıtıyor. Bu şekilde likiditeyi sağladıktan sonra piyasa oyuncularını işlem yapmak için kendisine çekmek çok daha rahat oluyor. 
