@@ -6,7 +6,7 @@ Bu yenilik sanatçılar için inanılmaz bir ekonomik potansiyel doğurdu, ancak
 
 NFT'ler üzerine telif hakkı olması, teoride güzel bir model ancak pratikte durum farklı olabiliyor. Zira, sanatçının telif hakkı akıllı kontrat üzerinde protokol seviyesinde yapılamıyor. Pratikte telif hakkının 'geçerli' olup olmayacağına alım-satım işlemine aracılık eden pazar yerleri karar veriyor. 
 
-### NFT Pazar yerleri
+### NFT pazar yerleri
 
 NFT'lerin alınıp satıldığı yerlerin uzun zaman boyunca tek bir hakimi vardı, o da [OpenSea](https://opensea.io/). Daha önceki yazılarımızda sıkça bahsettiğimiz OpenSea, piyasaya erken girme avantajını, sunduğu kullanıcı dostu arayüzler ile pekiştirerek pazarın %90'nı rahatça ele geçirdi. Bunun sonucu, 2022 yılı başlarında aralarında a16z'nin de bulunduğu büyük fonlardan 13.3 milyar ABD Doları değerleme üzerinden [300 milyon ABD Doları yatırım almayı](https://opensea.io/blog/announcements/announcing-openseas-new-funding/) başardı. 
 
