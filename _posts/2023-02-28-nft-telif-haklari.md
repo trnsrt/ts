@@ -71,7 +71,7 @@ Görününen o ki bu hikaye daha çok su kaldırır. Konu pazar yerlerinin sava�
 
 ---
 
-*Not 1: Bu yazı ilk olarak 28 Şubat 2023'de [BTCHaber'de yayınlandı]()*
+*Not 1: Bu yazı ilk olarak 28 Şubat 2023'de [BTCHaber'de yayınlandı](https://www.btchaber.com/nft-telif-hakki-savaslari/)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
