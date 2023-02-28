@@ -61,8 +61,6 @@ Bundan sonra sırada Blur'un teşvikleri azalmaya başladığında hâlâ büyü
 
 Görününen o ki bu hikaye daha çok su kaldırır. Konu pazar yerlerinin savaşının çok ötesine, sanal zekanın (AI) sanat alanındaki kullanımı ve buradaki telifler gibi bambaşka yerlere doğru evrilme potansiyeline de sahip. Birlikte heyecanla neler olup bittiğini izlemeye devam edeceğiz... 
 
----
-
 
 [^1]: Bu tip teşviklerin başarılı bir örneğini DeFi dünyasında Curve'ün yaptığını görüyoruz. Otomatik piyasa yapıcı modelini kullananan merkeziyetsiz alım-satım platformu Curve, tokenlerini, havuzlarına likidite sağlayanlara dağıtıyor. Bu şekilde likiditeyi sağladıktan sonra piyasa oyuncularını işlem yapmak için kendisine çekmek çok daha rahat oluyor. 
 [^2]: OpenSea bu kara listeyi tek başına değil Foundation, KnownOrigin, SuperRare gibi NFT'nin ilk oyuncuları ile birlikte oluşturuyor. 
