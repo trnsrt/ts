@@ -33,14 +33,12 @@ DeFi ve kripto dünyasının içindekilerin olaya bakış açısı ise oldukça 
 #### *"Hani blokzincir üzerindeki hesapların erişimi sadece hesap sahibinde idi? Nasıl oluyor da bu para çalınabiliyor?"*
 Evet, blokzincir üzerindeki hesapların erişimi sadece o hesaba erişen anahtarların elinde; bu hep böyleydi, bundan sonra da böyle olacak. Burada, Wormhole istismarcısı, parasını teminat olarak bir başka akıllı kontrata yatırıyor. Normalde bu akıllı kontratın kullanıcının parasını almak gibi özelliği yok. Sorun, istismarcının seçtiği opsiyon nedeniyle, 'değiştirilebilir bir kontrat'a erişim vermiş olması. Aslında burada da bir sorun yok. Sorun bu değiştirilebilir kontratta bir 'açık' olması ve bu açık sayesinde üçüncü bir partinin emanetteki paraya erişebilir hale gelmesi. (İstismarcı olarak birilerine güvenmek zorunda olmak tam bir oximoron aslında).
 
-*"Hani 'kod kanun' idi, mahkeme kararı DeFi'ye nasıl nüfuz ediyor?"*
-
+#### *"Hani 'kod kanun' idi, mahkeme kararı DeFi'ye nasıl nüfuz ediyor?"*
 Bu çok haklı bir soru. Sıkça kullandığımız bir söz var: Merkeziyetsizlik uzun ince bir yol. Protokoller merkezi başlayıp zamanla merkeziyetsiz oluyorlar. Oasis, MakerDAO'nun merkeziyetsizlik vizyonu gereği ana ekibin ortadan kaldırıldığı 2021 Haziran ayında kurulmuş bir yan ekip. Henüz tam anlamıyla merkeziyetsiz değiller. Bu nedenle, kurucu ekip mahkemeden gelen bir emri uygulamak zorunda kalmış. Neden? Haklı olarak mahkeme kararına uymadıkları durumda ortaya çıkabilecek ceza riskini almak istemedikleri için. 
 
 "İyi işte, mahkeme kararı çıkmış ve suçlular cezalandırılmış" diyebilirsiniz tabii. Peki ya yarın öbür gün biri hakkınızda yapacağı bir şikayet aracılığıyla mahkemeden sizin varlıklarınıza el koyma kararı çıkarırsa? Hani nerede kaldı 'dijital dünyada varlıklara tam sahip olma' özelliği?
 
-*"Merkeziyetsiz olduğunu iddia eden Oasis protokolü nasıl kullanıcının kendisine emanet ettiği paranın çalınmasına 'yataklık' ediyor?"*
-
+#### *"Merkeziyetsiz olduğunu iddia eden Oasis protokolü nasıl kullanıcının kendisine emanet ettiği paranın çalınmasına 'yataklık' ediyor?"*
 Oasis CEO'su, 'akıllı kontrat kodu içinde bulunan ve üçüncü partilere erişim imkanı veren açığı' daha önce farketmediklerini [söylüyor](https://thedefiant.io/oasis-rugs-the-rugger-but-how/) (bir protokol dostu ekip (jump?) bunu farkedip Oasis'e bildiriyor. Sonra da bu açık sayesinden fonlar kurtarılıyor. Sonrasında da 'açık' kapatılıyor (kontratın güncellenebilirlik özelliği kaldırılıyor). Ne kadar inandırıcı? Size kalmış. 
 
 Kontratların değiştirilebilir olması DeFi'nin ruhuna aykırı bir durum. Öte yandan bu durum yeni protokollerde kaçınılmaz olabiliyor. Zira, bu protokoller için 'kullanıcıların fonlarını korumak çok önemli. Kodda bir hata olması durumunda hemen müdahale edilmesi gerekebiliyor. İşte bunu yapabilmek için genelde 'değiştirilebilir' kontrat kullanılıyor.
