@@ -30,8 +30,7 @@ Mahkeme kararını gören Oasis ekibi değiştirilebilir kontratı değiştirme 
 
 DeFi ve kripto dünyasının içindekilerin olaya bakış açısı ise oldukça farklı. Zira, kripto ve DeFi için en kritik konulardan biri yapılan işlemlerin 'kesin' olması. Siz, herhangi bir işlem yaptığınızda blokzincir üzerine yazıldıktan sonra bu işlemin sonlandırıldığını varsayarsınız. Bu durum DeFi'nin hem gücü hem de zayıf karnı olarak değerlendirilebilir. Bir yanda işlem gerçekleştiğinde anında mahsuplaşma olması süreçleri hızlandırır, kapitali çok daha verimli kullanmayı ve varlıklar üzerinde tam egemenlik sağlamayı getirir. Öte yandan herhangi bir hack olduğunda da paranız geri döndürülemez şekilde elinizden kaçar. Benzer şekilde akıllı kontratların kod ne söylerse onu yapacağını ve yapılanların değiştirilemeyeceğini düşünürsünüz. Nereden bakarsanız bakın ortada karmaşık bir durum var. İşte bu nedenle, dilerseniz yukarıda sorduğumuz sorular üzerinden konuyu açıklamaya çalışalım. 
 
-*"Hani blokzincir üzerindeki hesapların erişimi sadece hesap sahibinde idi? Nasıl oluyor da bu para çalınabiliyor?"*
-
+##### *"Hani blokzincir üzerindeki hesapların erişimi sadece hesap sahibinde idi? Nasıl oluyor da bu para çalınabiliyor?"*
 Evet, blokzincir üzerindeki hesapların erişimi sadece o hesaba erişen anahtarların elinde; bu hep böyleydi, bundan sonra da böyle olacak. Burada, Wormhole istismarcısı, parasını teminat olarak bir başka akıllı kontrata yatırıyor. Normalde bu akıllı kontratın kullanıcının parasını almak gibi özelliği yok. Sorun, istismarcının seçtiği opsiyon nedeniyle, 'değiştirilebilir bir kontrat'a erişim vermiş olması. Aslında burada da bir sorun yok. Sorun bu değiştirilebilir kontratta bir 'açık' olması ve bu açık sayesinde üçüncü bir partinin emanetteki paraya erişebilir hale gelmesi. (İstismarcı olarak birilerine güvenmek zorunda olmak tam bir oximoron aslında).
 
 *"Hani 'kod kanun' idi, mahkeme kararı DeFi'ye nasıl nüfuz ediyor?"*
