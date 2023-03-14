@@ -28,6 +28,11 @@ FED'in faiz artırmasının ikinci etkisi ise müşteri tarafında oldu. Müşte
 #### Kapanan üç bankaya has riskler
 İşte tam bu noktada kapatılan üç bankaya özel bir başka risk ortaya çıkıyor. O da sektörel konsantrasyon riski. 
 
+
+| ![canaries](/assets/spain-4823050_800.jpg)|
+|:--:| 
+| *Image by [Muhajir Idi](https://pixabay.com/users/pria_berkarisma-6856757/) from [Pixabay](https://pixabay.com/)*|
+
 Burada ilk olarak zora düşen Silvergate kripto dostu iken arkasından gelen Silicon Valley Bank (SVB) ise teknoloji dünyasına yakın bankalar[^1] (üçüncü kapatılan Signature Bank ise Silvergate'den daha büyük ve kripto dostu bir başka banka). Hizmet verdikleri sektörler, yani kripto ve teknoloji dünyasının kurumları, 2020-21'deki para bolluğunda ciddi yatırım alıp bu paraları bankalara yatırdılar. Para musluklarının kısılması ise teknoloji ve kriptoya yapılan yatırımların azalmasına, bu da, bu firmaların kaynak ihtiyaçları nedeniyle mevduatlarını çekmeye başlamasına yol açtı. Bir başka deyişle, yukarıda bahsettiğimiz makroekonomik politikaların etkisi bu üç bankanın müşterilerinde çok daha fazla şekilde hissedildi. Buna bir de geleneksel müşterilerin aksine çok daha bilgili,  iletişim halinde ve atak bir sektör olan kripto ve teknoloji alanında faaliyet gösteren müşterileri ekleyin[^2]. Alın size FED'in en korktuğu 'stabilitenin zıttı volatilite'. 
 
 Bu durumdan en çok etkilenen banka olan Silvergate bir de üzerine FTX ile olan sıkı ilişkileri ortaya çıkınca Aralık ayı içinde elinde bulunan mevduatın üçte ikisini kaybetti.  Üzerine bir de kriptoya şüpheyle yaklaşan üç senatörün bankaya yazdığı mektup ve bunu kamuoyu ile paylaşmaları olayların üzerine tuz biber ekti. 
