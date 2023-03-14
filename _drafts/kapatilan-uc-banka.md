@@ -69,7 +69,7 @@ ABD'nin dünyada en ileri güç olmasının temel lokomotiflerinden birisi inova
 
 [^4]: Banka yetkilileri Cuma günü başlayan mevduat çıkışının Pazar günü durduğunu belirtiyorlar. Banka 7/24 çalışan bir para sistemi kurduğu için para çıkışları hafta sonu da devam ediyordu. 
 
-[^5]: Her ne kadar New York Times gibi ana akım medya, konuyu kripto eksenine çekmeye çalışsa da, Janet Yellen'in hafta sonu konuk olduğu programda söylediği gibi konu temel de bankaların elindeki değer düşmüş bonolar. 
+[^5]: Her ne kadar New York Times gibi ana akım medya, konuyu kripto eksenine çekmeye çalışsa da, Janet Yellen'in hafta sonu konuk olduğu programda söylediği gibi konu temel de bankaların elindeki değeri düşmüş bonolar. 
 
 [^6]: Amerika'daki start-up'ların yaklaşık yarısının SVB'de hesabı olduğu tahmin ediliyor. Kaynak: [Delphi Digital](https://twitter.com/delphi_digital/status/1634956829058019331)
 
