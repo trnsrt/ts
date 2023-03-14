@@ -65,7 +65,7 @@ ABD'nin dünyada en ileri güç olmasının temel lokomotiflerinden birisi inova
 
 [^2]: 'Çiftçilere hizmet veren bir banka olsaydı olaylar bu kadar hızlı gelişip kontrolden çıkmazdı' gayet geçerli bir argüman haline geliyor. 
 
-[^3]: Sadece geçtiğimiz Perşembe günü SVB'den bir günde 42 milyar ABD Doları yapıldı. Bankanın toplam 175 milyar ABD Doları mevduatı olduğu düşünüldüğünde bu toplam mevduatın %25'i demek! Kaynak: DFPI. Bu arada bankanın geçen haftaya kadar Moody's derecesinin A olduğunu da ekleyelim. 
+[^3]: Sadece geçtiğimiz Perşembe günü SVB'den bir günde 42 milyar ABD Doları transfer yapıldı. Bankanın toplam 175 milyar ABD Doları mevduatı olduğu düşünüldüğünde bu toplam mevduatın %25'i demek! Kaynak: DFPI. Bu arada bankanın geçen haftaya kadar Moody's derecesinin A olduğunu da ekleyelim. 
 
 [^4]: Banka yetkilileri Cuma günü başlayan mevduat çıkışının Pazar günü durduğunu belirtiyorlar. Banka 7/24 çalışan bir para sistemi kurduğu için para çıkışları hafta sonu da devam ediyordu. 
 
