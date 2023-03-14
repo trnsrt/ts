@@ -19,7 +19,7 @@ Müşteriler paralarını neden çeksin? Üç temel nedeni olabilir. Birincisi, 
 
 İşte burada başta bahsettiğimiz FED'in faizlerin artırmasının sonuçlarını geçtiğimiz yılın sonundan itibaren görmeye başladık. Ne gördük? Birincisi, artan bono faizleri nedeniyle bankaların ellerinde tuttuğu bonoların değeri düşmeye başladı. Normalde büyük bir sorun, çünkü zarar ediyorsunuz ama bir muhasebe kuralı bankaların imdadına yetişti; bankalar, 'ben bu tahvili vadesi gelene kadar elimde tutacağım' diyerek bu bonoları piyasa değerinden değil, satın aldıkları değerden ellerinde tuttular. Bu şekilde oluşan olan toplam 620 milyar dolar tutarındaki zarar bankaların bilançolarında gösterilmedi. 
 
-| ![losses](/assets/bank_losses.jpg)|
+| ![losses](/assets/banka_menkul-kiymet-zarar_800.jpg)|
 |:--:| 
 | *Bankaların ellerinde tuttukları hazine bonolarından doğan zararları Kaynak: [FDIC]())*|
 
