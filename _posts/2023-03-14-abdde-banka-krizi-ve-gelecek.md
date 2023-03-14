@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ABD'de banka krizi ve geleceğ etkisi"
+title:  "ABD'de banka krizi ve geleceğe etkisi"
 date:   2023-03-14 12:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, CoindeskTR
