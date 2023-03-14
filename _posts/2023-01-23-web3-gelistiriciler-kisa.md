@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Web3 dünyasında buyümenin habercisi geliştiricileri - Kısa Versiyon"
+title:  "Web3 dünyasında buyümenin habercisi geliştiricileri  Kısa Versiyon"
 date:   2023-01-23 18:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
@@ -171,7 +171,7 @@ Electric Capital'in geliştirici raporu pek çok farklı çıkarımlar yapılabi
 
 ---
 
-*Not 1: Bu yazı ilk olarak 23 Ocak 2023'de*
+*Not 1: Bu yazı ilk olarak 23 Ocak 2023'de [BTCHaber.com'da yayınlandı](https://www.btchaber.com/web3-dunyasinda-buyumenin-habercisi-gelistiriciler/)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
