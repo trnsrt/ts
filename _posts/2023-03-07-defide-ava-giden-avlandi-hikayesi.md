@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "DeFi'de yaşanan bir 'ava giden avlanır' hikayesi"
+date:   2023-03-07 18:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
+
 Bugünkü yazımızda, DeFi'nin en büyük hırsızlıklardan biri sonucu çalınan paranın geçtiğimiz haftalarda geri (ç)alınma hikayesine' ve ardında bıraktığı sorulara göz atacağız.
 
 ### Öncelikle nedir olay?
@@ -51,6 +60,13 @@ Burada Oasis'e yöneltilen önemli sorulardan biri de şu: Normalde değiştiril
 Geçtiğimiz hafta yaşanan olay, en hafifinden "Wormhole istismarcısı ava giderken avlandı" ya da "intikam soğuk yenen bir yemektir, Jump Crypto ise sabırlı bir müşteri" şeklinde yorumlanabilir. Öte yandan konuya "iki yanlış bir doğru etmez" şeklinde bakmak da aynı şekilde mümkün. DeFi'nin önünde alması gereken bir hayli yol var [^6]. Protokoller bu yolda ne şekilde ilerleyecekler, hep birlikte yaşayarak göreceğiz. 
 
 ---
+
+
+*Not 1: Bu yazı ilk olarak 7 Mart 2023'de [BTCHaber'de yayınlandı](https://www.btchaber.com/defide-bir-ava-giden-avlanir-hikayesi/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
 
 
 [^1]: Tam olarak geri alınan para 219 milyon ABD Doları değerinde wstETH (ETH'ye denk Lido tarafından çıkarılan likit staking tokeni) ve 6 milyon ABD Doları değerinde rETH (ETH'ye denk rocketpool tarafından çıkarılan likit staking tokeni). 
