@@ -58,7 +58,7 @@ Gücü kullanıcıya vermeye çalışan Web3 adı altındaki pek çok girişimde
 
 ---
 
-*Not 1: Bu yazı ilk olarak 23 Şubat 2022'de [Coindesk Türkiye'de yayınlandı](https://www.coindeskturkiye.com/yazarlar/turan-sert/yeni-bir-dunya-yeni-bir-kimlik-3674)*
+*Not 1: Bu yazı ilk olarak 23 Şubat 2023'de [Coindesk Türkiye'de yayınlandı](https://www.coindeskturkiye.com/yazarlar/turan-sert/yeni-bir-dunya-yeni-bir-kimlik-3674)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
