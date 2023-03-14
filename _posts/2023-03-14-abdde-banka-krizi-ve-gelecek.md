@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "ABD'de banka krizi ve geleceğ etkisi"
+date:   2023-03-14 12:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi, CoindeskTR
+---
+
 Bu yazımızda üç bankanın batış hikayesinden yola çıkarak finansal piyasalarda bizi nelerin beklediğini anlamaya çalışacağız. 
 
 ABD'de finans piyasaları geçtiğimiz hafta içinde karıştı. İki bankanın kapanması ile başlayan süreçte ABD yetkililerinin hafta sonu açıkladığı kurtarma paketi ile sular durulmuş gibi görünse de gelecek 'her zaman olduğu gibi' belirsizliğini koruyor. Gelin kısaca olanları ve nedenlerini hatırlayalım, sonra da geleceğe bakalım. 
@@ -65,6 +73,15 @@ Otoritelerin bu olaylara hızlı tepki verdiğini düşünenler olsa da Signatur
 ABD'nin dünyada en ileri güç olmasının temel lokomotiflerinden birisi inovasyon oldu. Her ne kadar regülatörler 'stabilite' deseler de, önümüzdeki dönemde özellikle inovasyon konusunda kanun koyucular ile yaşadıkları sürtüşme artarak sürecek. Güçler dengesini iyi oturtmuş olan ABD sisteminin, teknolojiye ayak uydurmakta yavaş ve hantal kalsa da önümüzdeki dönemde çıkaracağı yasalar ile bu alanda öncü olmayı sürdürmesini bekliyorum. 
 
 ---
+
+*Not 1: Bu yazı ilk olarak 14 Mart 2023'de [Coindesk Türkiye'de yayınlandı](https://www.coindeskturkiye.com/yazarlar/turan-sert/abddeki-banka-krizi-ve-gelecek-3851)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
+
+---
+
 
 [^1]: 'Kripto dostu' derken kastettiğimiz şu: Kriptonun yeni bir sektör olması nedeniyle pek çok büyük banka kripto alanında faaliyet gösteren girişimlere uzak duruyor. Bir yanda da bu sektörün ihtiyaçları da geleneksel finansa göre farklı. Örneğin, 7/24 çalışan bir sektörde para transferlerini Pazartesi-Cuma 9'dan '5'e şeklinde sınırlayamıyorsunuz. O nedenle, Silvergate SEN adını verdiği bir ağ ile kendi müşterilerine aralarında günün her saatinde para transferi yapmaya olanak veren bir ağ kurmuştu. Bu da güzel bir ağ etkisi yarattı. Eğer çalıştığınız sektördeki tüm firmalar SEN ağında ise sizin de orada olmanız klasik dünyanın engellerinden birinden kurtulmanız anlamına geliyor. Benzer bir durum SVB için de geçerli. ABD'de bir şirket iseniz yetkili imzaya sahip çalışanlarınızın (ya da kurucularınızın) ABD kimlik numarasına (ingilizcede Social Security Number kısaca SSN) sahip olmadığı durumda pek çok banka size hesap açmaz. Halbuki, ABD'de özellikle Delaware eyaletinde kurulu pek çok girişimin kurucuları yurt dışında yaşıyorlar. SVB, işte bu tip girişimcilere SSN olmadan da hesap açabilme imkanı verdiği için teknoloji şirketlerinin tercih ettiği bir banka olmuştu. 
 
