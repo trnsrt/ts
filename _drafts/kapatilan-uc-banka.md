@@ -1,4 +1,4 @@
-Bu yazımızda üç bankanın batış hikayesinden yola çıkarak finansal piyasalarda bizi nelerin beklediğini anlamaya çalışacağız 
+Bu yazımızda üç bankanın batış hikayesinden yola çıkarak finansal piyasalarda bizi nelerin beklediğini anlamaya çalışacağız. 
 
 ABD'de finans piyasaları geçtiğimiz hafta içinde karıştı. İki bankanın kapanması ile başlayan süreçte ABD yetkililerinin hafta sonu açıkladığı kurtarma paketi ile sular durulmuş gibi görünse de gelecek 'her zaman olduğu gibi' belirsizliğini koruyor. Gelin kısaca olanları ve nedenlerini hatırlayalım, sonra da geleceğe bakalım. 
 
