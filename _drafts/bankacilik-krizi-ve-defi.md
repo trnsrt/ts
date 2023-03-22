@@ -2,6 +2,10 @@ Bu yazımızda geçtiğimiz hafta yaşanan bankacılık sektöründeki krizin kr
 
 ABD bankacılık sektöründe 8 Mart Çarşamba günü Silvergate Bank'ın faaliyetlerini durduracağını açıklaması ile başlayan, 10 Mart Cuma günü sektörün 16. büyüğü Silicon Valley Bank'ın kapatılması ile zirveye çıkan ve 12 Mart Pazar akşamı tüm tasarrufların sigorta altına alınması ile sönen (ha bir de arada Signature Bank'ın kapatılması var) mini bir bankacılık krizi yaşandı.
 
+| ![domino](/assets/domino-ge4c9cd4fc_800.jpg)|
+|:--:| 
+| *Image by [opex-manufaktur](https://pixabay.com/users/opex-manufaktur-15646434/) from [Pixabay](https://pixabay.com/) *|
+
 Sıkıntının özünde ABD'deki tüm bankacılık sektörüne özgü bir sorun olan, düşük faiz döneminde alınmış uzun vadeli hazine bonoların faizlerin yükselmesi ile birlikte değerinin düşmesi var. Ne var ki, bütün bankaları etkileyen bu durum, sadece kripto dünyası ile ilişkisi olan üç bankanın kapatılması sonucunu doğurdu. Acaba ABD'de kripto dünyasına karşı üstü örtülü bir savaş mı var? Kripto dünyası geçtiğimiz hafta içinde bu konuyu hararetle konuştu. 
 
 Konu ile ilgili önceki yazımda da belirttiğim gibi, kriptoya karşı bir düşmanlık ve planlı bir saldırı olduğu kanısında değilim. Peki o zaman, neden sektörün kalanı ayakta kalırken bu üç bankada kriz yaşandı? Bunun temel nedeni, bu üç bankanın da, mevduat yapısı olarak çok oynak sektörlere hitap ediyor olması. Özellikle Silvergate ve SVB, faiz artışı sonrası en yüksek mevduat çıkışını yaşayan kurumlar oldular. Yani otoritelerin en önem verdiği piyasada dengeli seyrine oldukça aykırı bir durum. Bu nedenle bu iki bankanın likidite sorunları nedeniyle kapatılması anlaşılır. Burada hâlâ en büyük soru işareti Signature Bank'ın kapatılması konusu. Bu konu önümüzdeki günlerde de konuşulmaya ve mali otoritelerin başını ağrıtmaya devam edecek ve muhtemelen davalara bile yol açacak [^1]. 
