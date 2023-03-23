@@ -59,6 +59,7 @@ Son yaşanan kriz geçtiğimiz yıl yaşadıklarımız gibi merkezi ama bu sefer
 
 *Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
 
+---
 
 
 [^1]: Kongredeki Cumhuriyetçilerin lideri Tom Emmer şimdiden FDIC’e konu ile ilgili bir mektup gönderdi bile. Sektörün lobi örgütü Blockchain Association tüm finans otoritelerine aynı şekilde [bir yazı gönderip](https://theblockchainassociation.org/blockchain-association-submits-foia-request-to-investigate-de-banking-of-crypto-firms/) bilgi istedi. FED, FDIC benzeri bankacılık regülatörlerinin sektör üzerinde çok büyük bir gücü olduğu için, kapatılan bankaların üst yöneticilerinin açıklama yapmaya çekindikleri belirtiliyor. Bu konuda en iddialı konuşmayı federal bankacılık lisansı isteği FED tarafından reddedilen Custodia Bank'ın kurucusu Caitlin Long [yapıyor](https://youtu.be/AevlOiHc8oY?t=1090). 
