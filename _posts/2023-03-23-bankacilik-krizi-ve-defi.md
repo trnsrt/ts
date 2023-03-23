@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Son bankacılık olayları DeFi'yi nasıl etkiledi?"
+date:   2023-03-23 11:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
 Bu yazımızda geçtiğimiz hafta yaşanan bankacılık sektöründeki krizin kripto dünyasına yansımalarına ve DeFi'yi nasıl etkilediğine değineceğiz. 
 
 ABD bankacılık sektöründe 8 Mart Çarşamba günü Silvergate Bank'ın faaliyetlerini durduracağını açıklaması ile başlayan, 10 Mart Cuma günü sektörün 16. büyüğü Silicon Valley Bank'ın kapatılması ile zirveye çıkan ve 12 Mart Pazar akşamı tüm tasarrufların sigorta altına alınması ile sönen (ha bir de arada Signature Bank'ın kapatılması var) mini bir bankacılık krizi yaşandı.
@@ -40,6 +48,18 @@ DeFi'de yaratılacak merkeziyetsiz stabil paraların en büyük sıkıntısı li
 
 ### Sonuç 
 Son yaşanan kriz geçtiğimiz yıl yaşadıklarımız gibi merkezi ama bu sefer geleneksel taraftaki yapılar kaynaklı oldu. Kriz, kripto ve DeFi dünyasına bu geleneksel yapılar ile ilişkide olan merkezi kripto kurumları aracılığıyla bulaştı. Geleneksel ile DeFi'nin buluşması belki pazarı büyütmek açısından olumlu, ancak risklerin diğer tarafa da sıçraması riskini beraberinde getiriyor. Geleneksel tarafta regülasyon alanında alınacak önlemler, DeFi tarafında ise geleneksel dünyanın araçlarına alternatif çözümlerin ortaya çıkması, yatırımcının sıkışmasını önleyerek ileride oluşacak krizlerin önüne geçebilir. Bulunacak çözümleri hep birlikte yaşararak göreceğiz. 
+
+
+---
+
+
+*Not 1: Bu yazı ilk olarak 23 Mart 2023'de [BTCHaber'de yayınlandı](https://www.btchaber.com/son-bankacilik-olaylari-kripto-ve-defiyi-nasil-etkiledi/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
+
+
 
 [^1]: Kongredeki Cumhuriyetçilerin lideri Tom Emmer şimdiden FDIC’e konu ile ilgili bir mektup gönderdi bile. Sektörün lobi örgütü Blockchain Association tüm finans otoritelerine aynı şekilde [bir yazı gönderip](https://theblockchainassociation.org/blockchain-association-submits-foia-request-to-investigate-de-banking-of-crypto-firms/) bilgi istedi. FED, FDIC benzeri bankacılık regülatörlerinin sektör üzerinde çok büyük bir gücü olduğu için, kapatılan bankaların üst yöneticilerinin açıklama yapmaya çekindikleri belirtiliyor. Bu konuda en iddialı konuşmayı federal bankacılık lisansı isteği FED tarafından reddedilen Custodia Bank'ın kurucusu Caitlin Long [yapıyor](https://youtu.be/AevlOiHc8oY?t=1090). 
 
