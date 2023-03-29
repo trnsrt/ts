@@ -22,7 +22,7 @@ tags: videos Etkinlikler
 Panelin posteri
 </p></td>
 <td style="width:50%; vertical-align:top">
-<p>Panelden bir kare</p>
+<p>Panelin kaydı</p>
 </td>
 </tr>
 </table>
