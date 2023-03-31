@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Web3'ü insanlık için kullanmak"
+date:   2023-03-31 12:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi, CoindeskTR
+---
+
 Bu yazımızda, geleneksel dünya ile Web3'ün harmanlandığında dünyayı nasıl güzelleştirebildiğini gösteren bir örnek olan Lemonade Crypto Climate Coalition'dan bahsedeceğiz. 
 
 Web3 olarak adlandırdığımız merkeziyetsiz sistemler etkilerini ağırlıklı olarak sanal ortamlarda hissettiriyor. Bunun ana. nedeni Web3'ün temelini oluşturan blokzincir teknolojisinin ancak tamamen dijitalleşmiş ortamlarda verimli bir şekilde kullanılabiliyor olması. Web3'ün fiziki dünyamıza dokunduğu kullanım alanlarını ise henüz yeni yeni görmeye başlıyoruz. 
@@ -11,8 +19,14 @@ Oluşumun temel hedefi, değişen iklim koşullarının çiftçilik yaparak haya
 
 Oluşum geçtiğimiz günlerde Afrika'da maş fasulyesi ve hayvan otları yetiştiren çiftçilerin hasat sonrası oluşan zararlarını önlemek amacıyla gerçekleştirdiği pilot projenin sonuçlarını bir [video aracılığıyla](https://www.youtube.com/watch?v=GIg-HWZefaE) paylaştı. 
 
+<iframe width="224" height="126" src="https://www.youtube.com/embed/GIg-HWZefaE" frameborder="0" allowfullscreen></iframe>
+
 ### Neden böyle bir organizasyona ihtiyaç duyulmuş?
 Özellikle Afrika'da hayatını tarım ile kazananan yaklaşık 300 milyon insan var. Bu insanların büyük bir kısmının tek geçim kaynağı ekmekte oldukları ufak tarlalar. Kuraklık ya da sel gibi doğal afetler bu insanlar için adeta ölüm demek çünkü sulama kanalı benzeri altyapının olmamasından dolayı topraklarını sadece yağmur suyu ile sulayabiliyorlar. Özellikle son yıllarda değişmeye başlayan iklim koşulları nedeniyle yaşanan sel ve kuraklık,  neredeyse açlık sınırında yaşayan bu insanları kıtlık tehlikesi ile baş başa bırakmış durumda. 
+
+| ![harvest](/assets/rice-gc5300c8a8_800.jpg)|
+|:--:| 
+| *Image by [Inno Joseph ](https://pixabay.com/users/inno_joseph-9106755/) from [Pixabay](https://pixabay.com/)*|
 
 Batı dünyasında bu tip sorunların panzehiri olan sigortacılık sektörü ise bu insanların bulundukları bölgelere uğramıyor maalesef. Bunun bir kaç nedeni var. Birincisi, teknolojik olarak bu bölgede hava tahmini. sistemlerinin gelişmiş ülkelerin onda biri seviyesinde olması. Bir diğeri ise, sigortacılık sisteminin mevcut işleyişinin (prim üretim, hasar ölçüm, tazminat dağıtım gibi süreçlerin) oldukça masraflı olması ve bu nedenle bölgeye götürülecek hizmetin 'astarının yüzünden pahalıya gelmesi'. 
 
@@ -30,3 +44,11 @@ Sistemin DAO olarak çalışıyor olması, uzun vadede yukarıda belirttiğimiz 
 
 ### Sonuç
 2015 ile 2019 yılları arasında bolca blokzincirin dünyayı nasıl değiştireceğini anlatan vizyon dolu yazılar okuduk. Şimdilerde ise, artık yavaş yavaş bu vizyonların hayata geçtiğini görmek oldukça umut verici. Fiziki dünyaya dokunan Web3 projelerinin tam anlamıyla olgunlaşması çok daha uzun zaman alacak. Yukarıdaki örnekte gördüğümüz henüz prototip aşamasındaki projelerin daha geniş kesimlere yayılacağını görmek için gerekirse on yıllarca beklemeye bile değer. 
+
+---
+
+*Not 1: Bu yazı ilk olarak 31 Mart 2023'de [Coindesk Türkiye'de yayınlandı](https://www.coindeskturkiye.com/yazarlar/turan-sert/web3u-insanlik-icin-kullanmak-4029)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
