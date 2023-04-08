@@ -12,7 +12,7 @@ tags: videos Etkinlikler
 
 <table><tr>
 <td style="width:50%">
-<img src="/assets/sabancı-uni-ies-panel-230319_640.jpg">
+<img src="/assets/sabanci-uni-ies-panel-230319_640.jpg">
 </td>
 </td>
 <td style="width:50%">
