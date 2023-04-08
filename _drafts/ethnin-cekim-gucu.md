@@ -19,7 +19,7 @@ Planın birinci aşamasında, sistem PoW olarak çalışmaya devam ederken, buna
 ### Ne olacak şimdi?
 Tarihin açıklanması ile birlikte yatırımcılar açısından en büyük soru işareti, 'ETH çekilmesinin fiyata nasıl etki edebileceği' oldu. Bunu bilebilmek oldukça zor. Değerlendirme yapabilmek için öncelikle bir verileri ortaya koyalım. 
 
-Şu an piyasada toplam [120 milyon ETH var](https://ultrasound.money/). Rehin edilen ETH ise bunun yaklaşık %15'i yani [18 milyon civarında](https://beaconcha.in/). Bunun yanında bir de 1.1 milyon ETH kadar rehin edenlere verilecek {bir ödül var](https://etherscan.io/stat/supply). Peki, 13 Nisan'da bütün bu rehin edilmiş ETH piyasayı çıkacak mı? 
+Şu an piyasada toplam [120 milyon ETH var](https://ultrasound.money/). Rehin edilen ETH ise bunun yaklaşık %15'i yani [18 milyon civarında](https://beaconcha.in/). Bunun yanında bir de 1.1 milyon ETH kadar rehin edenlere verilecek [bir ödül var](https://etherscan.io/stat/supply). Peki, 13 Nisan'da bütün bu rehin edilmiş ETH piyasayı çıkacak mı? 
 
 Bu sorunun cevabı hayır. Birincisi ve en önemlisi, pek çok kişi ya da kurum rehin tuttuğu parasını çekmek istemeyecek, zira koyduğu paraya güzel bir getiri elde ediyorlar (şu an için [yıllık %4.4 civarında](https://ethereum.org/en/staking/)). Bu durum sadece rehin edilen ETH için geçerli, ödül olarak verilecek ETH'ler faiz kazanmadığı için muhtemelen hemen yatırımcılar tarafından çekilecek. Bu paranın bir kısmı piyasada satılacak bir kısmı da sisteme tekrar geri rehin edilecek (çünkü getiri gayet iyi). 
 
