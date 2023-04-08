@@ -31,7 +31,7 @@ Yukarıdaki rakamların dışında, detay sayılabilecek ama oldukça önemli ba
 
 | ![stake_dagilim](/assets/eth-staker-distribution-dune.jpg)|
 |:--:| 
-| *Kaynak: [Dune Analytics](https://dune.com/xplorer/shanghai-event-dashboard))*|
+| *Kaynak: [Dune Analytics](https://dune.com/xplorer/shanghai-event-dashboard)*|
 
 Sonuç olarak, ortada görünenden daha küçük ama belirsizlik içeren bir denklem var. Burada, benim yazılarımda sıkça referans verdiğim Delphi Digital, Mart ayı içinde yayınlanan ve bu yazıda da yararlandığım bir [raporda](https://members.delphidigital.io/reports/brace-yourselves-shanghai-is-coming/), konuyla ilgili bir senaryo analizi yapmış. Bu analizde, rehin edilmiş tokenlerin yaklaşık olarak %10'unun çekileceğini öngörüyorlar[^3]. **Kısacası, 13 Nisan sonrası ilk dört-beş gün çekilen ödüllerden dolayı piyasaya girecek yüksek miktarda ETH nedeniyle hareketli günler geçirebiliriz. Sonrasında daha düzenli bir seyir izlenmesi beklenebilir.**
 
