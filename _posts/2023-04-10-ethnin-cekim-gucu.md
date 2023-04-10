@@ -80,7 +80,7 @@ Rehin edilen ETH'lerin 13 Nisan'dan itibaren çekilebilmesi, ilk dört-beş gün
 
 --
 
-[^1]: İlk olarak Shangai adı verilen geliştirme, Capella isimli bir başka geliştirme ile aynı anda yürürlüğe gireceği için tüm sürece ikisinin birleşimi Shapella adı verildi. 
+[^1]: Ethereum’da çekimler için gerekli iki farklı iyileştirme Shanghai ve Capella güncellemelerinin aynı anda yapılacak olması nedeniyle iki ismini birleştirilmesi olan Shapella ismi verildi. 
 
 [^2]: Bunun yanında 1468 adet sistemden çıkmış onaylayıcı [var](https://beaconscan.com/validators#exited) (toplam 47 bin ETH). Onlar da ödül kazanmadıkları için sistemden çıkacaklardır.
 
