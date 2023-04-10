@@ -25,7 +25,7 @@ Planın birinci aşamasında, sistem PoW olarak çalışmaya devam ederken, buna
 
 | ![domino](/assets/castle-1086896_800.jpg)|
 |:--:| 
-| *Image by [Andreas Lischka](https://pixabay.com/users/webandi-1460261/) from [Pixabay](https://pixabay.com/) *|
+| *Image by [Andreas Lischka](https://pixabay.com/users/webandi-1460261/) from [Pixabay](https://pixabay.com/)*|
 
 ### Ne olacak şimdi?
 Tarihin açıklanması ile birlikte yatırımcılar açısından en büyük soru işareti, 'ETH çekilmesinin fiyata nasıl etki edebileceği' oldu. Bunu bilebilmek oldukça zor. Değerlendirme yapabilmek için öncelikle verileri bir ortaya koyalım. 
