@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "ETH'nin çekim gücü"
+date:   2023-04-10 11:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
 Bu yazımızda bu hafta başlayacak olan Ethereum'dan çekim olayının ne olduğuna ve kısa/uzun vadeli etkilerine değineceğiz.
 
 Web3 temelli teknolojilerin en büyük altyapılarından olan Ethereum, birkaç yıl önce açıkladığı yol haritasının önemli kilometre taşlarından birine önümüzdeki hafta içinde ulaşacak. Yaklaşık iki yıldan uzun bir süredir sistem üzerine rehin edilmiş kilitli ETH'ler 12 Nisan'dan sonra çekilebilir hâle gelecek.  Gelin şimdi önce kısaca bugünlere nasıl geldik ona bakalım, sonrasında da bu olayın ekosisteme etkilerine değinelim. 
@@ -14,6 +22,10 @@ Planın birinci aşamasında, sistem PoW olarak çalışmaya devam ederken, buna
 İlk başta PoS sisteminin düzgün ve stabil çalışması için rehin edilen bu ETH'lerin geri alınmasına izin verilmiyor idi. (Bu oldukça riskli bir durum aslına bakarsanız. Paranızı sisteme belirsiz bir süreliğine kilitliyorsunuz. Tabii bunu hayrına yapmadıklarını söylemeye gerek yok; koyduğunuz paraya karşılık aldığınız bir ödül var.)
 
 İkinci aşamada ise, topluluk geçtiğimiz yıl 15 Eylül'de PoW'u bırakıp PoS'a geçişi  sorunsuz bir şekide tamamladı. Tabii yatırımcıların bir sonraki sorusu, 'ee, ne zaman çekebileceğiz bu koyduğumuz ETH'leri?' oldu. Geliştiriciler tarih vermeyi sevmezler. Başta "altı ay ile bir yıl arası" minvalinde bir şeyler gevelediler. Nihayetinde yapılan testlerin ardından, Mart ayı içinde [Shapella](https://twitter.com/TimBeiko/status/1638971921168756736)[^1] adını verdikleri ETH'nin çekilebilmesine olanak sağlayan iyileştirmenin tarihini 12 Nisan (Türkiye saati ile 12 Nisan'ı 13 Nisan'a bağlayan gece yarısı) olarak [açıkladılar](https://twitter.com/TimBeiko/status/1640722906744487936). 
+
+| ![domino](/assets/castle-1086896_800.jpg)|
+|:--:| 
+| *Image by [Andreas Lischka](https://pixabay.com/users/webandi-1460261/) from [Pixabay](https://pixabay.com/) *|
 
 ### Ne olacak şimdi?
 Tarihin açıklanması ile birlikte yatırımcılar açısından en büyük soru işareti, 'ETH çekilmesinin fiyata nasıl etki edebileceği' oldu. Bunu bilebilmek oldukça zor. Değerlendirme yapabilmek için öncelikle verileri bir ortaya koyalım. 
@@ -57,6 +69,16 @@ DeFi alanında, liquid staking token bazlı ürünlere ilginin artacağını sö
 ### Sonuç 
 
 Rehin edilen ETH'lerin 13 Nisan'dan itibaren çekilebilmesi, ilk dört-beş gün boyunca piyasalara ciddi bir hareketlilik getirecek. Sonrasında ise ortadan kalkacak belirsizlik, hem yeni ürünlerin piyasaya çıkmasına hem de rehinlerin artmasına yol açacak. Ethereum topluluğu ise yol haritasında sırada bekleyen sistem iyileştirmelerine odaklanacak. 
+
+--
+
+*Not 1: Bu yazı ilk olarak 10 Nisan 2023'de [BTCHaber'de yayınlandı](https://www.btchaber.com/ethnin-cekim-gucu/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
+
+--
 
 [^1]: İlk olarak Shangai adı verilen geliştirme, Capella isimli bir başka geliştirme ile aynı anda yürürlüğe gireceği için tüm sürece ikisinin birleşimi Shapella adı verildi. 
 
