@@ -1,12 +1,11 @@
-Mutlu son ile biten bir DeFi hack hikayesi: Euler Finance
 Bu yazımızda Euler Finance'in başına gelen 200 milyon ABD Doları tutarındaki hack ve sonrasında yaşanan heyecanlı sahneleri konuşacağız. 
 
-Hızla gelişen DeFi dünyasında 'sürat felakettir' sözünün sıkça kullanmamıza neden olan 'hack' (Türkçesine 'sistemin zaafından yararlanma' diyebiliriz) olaylarından birini daha yaşadık geçtiğimiz ay içinde. Bu defa hikaye mutlu sonla bitse de, gerek olayın gelişimi gerekse hack sonrası yaşananlar adeta bir polisiye filmi andırıyor. Gelin önce Euler Finance nedir ve nasıl 'hack' yedi onu anlayalım, sonrasında da peşi sıra gelişen olaylara bakalım.
+Hızla gelişen DeFi dünyasında 'sürat felakettir' sözünün sıkça kullanmamıza neden olan 'hack' (Türkçesine 'sistemin zaafından yararlanma' diyebiliriz) olaylarından birini daha yaşadık geçtiğimiz ay içinde. Bu defa hikaye mutlu sonla bitse de, gerek olayın gelişimi gerekse de hack sonrası yaşananlar adeta bir polisiye filmi andırıyor. Gelin önce Euler Finance nedir ve nasıl 'hack' yedi onu anlayalım, sonrasında da peşi sıra gelişen olaylara bakalım.
 
 ### Ne iş yapar Euler Finance?
-[Euler Finance](https://www.euler.finance/), yenilikçi ürünler barındıran bir kredi verme platformu. (Hatırlayanlar olacaktır, DeFi'nin başlıca kredi verme platformları olarak [Aave'yi](/genel/2021/07/19/defi-de-kurumsallara-karsi-bos-degil.html) ve [MakerDAO'yu](/genel/2019/02/15/MakerDAO-kredi-kullaniminda-cigir-acar-mi.html) daha önce detaylıca incelemiştik)
+[Euler Finance](https://www.euler.finance/), bir kredi verme platformu. Bu alandaki diğer protokollerden farkı her tür kriptoparanın kredi olarak verimesini sağlayan yenilikçi ürünler sunması. (Hatırlayanlar olacaktır, DeFi'nin başlıca kredi verme platformları olarak [Aave'yi](/genel/2021/07/19/defi-de-kurumsallara-karsi-bos-degil.html) ve [MakerDAO'yu](/genel/2019/02/15/MakerDAO-kredi-kullaniminda-cigir-acar-mi.html) daha önce detaylıca incelemiştik)
 
-En basitinden özetleyecek olursak, DeFi'de kredi alabilmek için, alacağınız krediden daha fazla teminatı protokol içine kilitlemeniz gerekiyor. Sonrasında aldığınız krediyi artık ihtiyaçlarınız için mi, yoksa spekülasyon için mi kullanırsınız, o size kalmış. Tek dikkat etmeniz gereken kural, teminatınızın aldığınız krediye oranının belli bir seviyenin altına düşmemesine dikkat etmek. Aksi takdirde sistem gözünüzün yaşına bakmaz, icra memuru da diyebileceğimiz bir akbaba (ingilizcesi 'liquidator') gelir teminatınızı güzel bir iskonto ile satın alır, borcunuz öder, aldığı iskontoyu da cebe atar. 
+En basitinden özetleyecek olursak, DeFi'de kredi alabilmek için, alacağınız krediden daha fazla teminatı protokol içine kilitlemeniz gerekiyor. Sonrasında aldığınız krediyi artık ihtiyaçlarınız için mi, yoksa spekülasyon için mi kullanırsınız, o size kalmış. Tek dikkat etmeniz gereken kural, teminatınızın aldığınız krediye oranının belli bir seviyenin altına düşmemesine dikkat etmek. Aksi takdirde sistem gözünüzün yaşına bakmaz, icra memuru da diyebileceğimiz bir akbaba (ingilizcesi 'liquidator') gelir teminatınızı güzel bir iskonto ile satın alır, borcunuzu öder ve aldığı iskontoyu da cebe atar. 
 
 ### Genel olarak nasıl bir risk var burada? 
 
@@ -16,14 +15,14 @@ Protokoller 'akıllı kontrat riskini' çözmek için bu kontratları genellikle
 
 ### Olay nasıl patlamış?
 
-İşte Euler Finance de, bu şekilde bir kombo problemler zinciri yaşamış. Problemin teknik detayına girmeden özeti şu şekilde: Euler üzerinde bundan sekiz ay önce Temmuz 2022'de uygulamaya aldığı bir [güncelleme](https://forum.euler.finance/t/eip-14-contract-upgrades/305) sırasında yapılan bir değişiklik akıllı kontratta bir açık yaratıyor. Denetimi yapan firma açığı atlıyor ve işin ilginci tam sekiz ay boyunca kimse bunu farketmiyor. 
+İşte Euler Finance de, bu şekilde bir kombo problemler zinciri yaşamış. Problemin teknik detayına girmeden özeti şu şekilde: Euler üzerinde bundan sekiz ay önce Temmuz 2022'de uygulamaya aldığı bir [güncelleme](https://forum.euler.finance/t/eip-14-contract-upgrades/305) sırasında yapılan bir değişiklik akıllı kontratta bir açık yaratıyor. Denetimi yapan firma açığı atlıyor ve işin ilginç tarafı tam sekiz ay boyunca kimse bunu farketmiyor. 
 
 Nihayet, Mart ayı başında bir hacker bu açığı buluyor ve sonuç: Sistemden tam 200 milyon ABD Doları kriptoparayı hesabına çekiyor! (Açık ve çalınan para ile ilgili teknik detayı en sonraki dipnotta bulabilirsiniz[^3]). 
 
 ### Sonrasında yaşananlar neler?
 Tabii bu olay tüm DeFi dünyasında büyük bir şok etkisi yarattı. Hack, [DeFi'de yaşanan en büyük saldırılar tablosunda](https://rekt.news/leaderboard/) kendisine altıncı sıradan yer buldu. Euler'in tokeni [EUL](https://www.coingecko.com/en/coins/euler) yaklaşık %70 oranında değer kaybetti. 
 
-Euler Finance, yaptığı yenilikler ile bilinen ve ekosistemde sevilen bir topluluk. Protokol aynı zamanda pek çok diğer protokolun parasını emanet ettiği bir yer. Yani olay sadece Euler, küçük yatırımcılar değil, ekosistemdeki başka oyuncuları da etkiler hale geldi. Buradan sonrası ise polisiye hikayenin başladığı yer aslında. 
+Euler Finance, yaptığı yenilikler ile bilinen ve ekosistemde sevilen bir topluluk. Protokol aynı zamanda pek çok diğer protokolun parasını emanet ettiği bir yer. Yani olay sadece Euler, ve bireysel yatırımcılarını değil, ekosistemdeki diğer büyük oyuncuları da etkiler hale geldi. Buradan sonrası ise polisiye hikayenin başladığı yer aslında. 
 
 Euler Finance ekibi, öncelikle hacker ile temasa geçtiler. Nasıl? Hımmm, düşünelim bakalım: Elimizde ne var? Açığı bulup parayı çeken [adres](https://etherscan.io/address/0xee009faf00cf54c1b4387829af7a8dc5f0c8c8c5). Başka ne var? Her tür işlemi gösteren, şeffaf bir blokzincir. Evet, bildiniz. [Ekip](https://etherscan.io/address/0xb66cd966670d962c227b3eaba30a872dbfb995db), 13 Mart'ta hacker'a blokzincir üzerinden aşağıdaki [mesajı](https://etherscan.io/tx/0x539c6fff0fce70e02dddd80a5534acf3df57deafbdc40f41abb20aa8f94a6d0d) [^1] gönderdi. 
 
@@ -44,7 +43,7 @@ Burada en büyük alkışı gerek zincir-üstü analizler gerekse zincir-dışı
 
 ### Sonuç 
 
-Her ne kadar büyüklük olarak 2021 yıllarındaki eski günlerini arıyor olsa da, çıkan yeni ürünler ile hızlı bir şekilde gelişmeye devam eden DeFi ekosistemi, hızın getirdiği yol kazalarını yaşamaya devam ediyor. Bu kazalardaki kayıplar, topluluğun kenetlenmesi sayesinde son dönemde daha az hissedilmekte. Bu böyle devam edecek mi - tahmin etmek zor. Zira, her hacker Euler olayında olduğu gibi amatör olmayabilir. Üstelik kaygı verici olan, Euler'deki açığın sekiz ay boyunca fark edilmemiş olması. DeFi protokollerinin riski minimuma indirmesi için yemeleri gereken 'kırk fırın ekmeğin' büyük bir kısmı hâlâ önlerinde duruyor gibi görünüyor.
+Her ne kadar büyüklük olarak 2021 yıllarındaki eski günlerini arıyor olsa da, çıkan yeni ürünler ile hızlı bir şekilde gelişmeye devam eden DeFi ekosistemi, hızın getirdiği yol kazalarını yaşamaya devam ediyor. Bu kazalardaki kayıplar, topluluğun kenetlenmesi sayesinde son dönemde daha az hissedilmekte. Bu böyle devam edecek mi? Tahmin etmek zor. Zira, her hacker Euler olayında olduğu gibi amatör olmayabilir. Üstelik kaygı verici olan, Euler'deki açığın sekiz ay boyunca fark edilmemiş olması. DeFi protokollerinin riski minimuma indirmesi için yemeleri gereken 'kırk fırın ekmeğin' büyük bir kısmı hâlâ önlerinde duruyor gibi görünüyor.
 
 Dipnotlar: 
 [^1]: Mesajı siz de görebilirsiniz. [Şu](https://etherscan.io/tx/0x539c6fff0fce70e02dddd80a5534acf3df57deafbdc40f41abb20aa8f94a6d0d) işlem adresine girin. Aşağı doğru ilerleyin 'gaz fiyatının' ('gas price') hemen altında 'daha fazla detay' ('more details') diye bir yer göreceksiniz. '+' işaretine basarak orayı açın. 'Veri girişi'('input data') kısmına gelin. Karmakarışık rakamlar yazdığını göreceksiniz. Alttaki 'datayı izleme şekli' ('View input as') menüsünden 'UTF-8'i seçin (not: yazıyı görebilmek için etherscan'e ücretsiz kayıt olmanız gerekiyor). 
