@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Mutlu son ile biten bir DeFi hack hikayesi: Euler Finance"
+date:   2023-03-31 12:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi, CoindeskTR
+---
+
 Bu yazımızda Euler Finance'in başına gelen 200 milyon ABD Doları tutarındaki hack ve sonrasında yaşanan heyecanlı sahneleri konuşacağız. 
 
 Hızla gelişen DeFi dünyasında 'sürat felakettir' sözünün sıkça kullanmamıza neden olan 'hack' (Türkçesine 'sistemin zaafından yararlanma' diyebiliriz) olaylarından birini daha yaşadık geçtiğimiz ay içinde. Bu defa hikaye mutlu sonla bitse de, gerek olayın gelişimi gerekse de hack sonrası yaşananlar adeta bir polisiye filmi andırıyor. Gelin önce Euler Finance nedir ve nasıl 'hack' yedi onu anlayalım, sonrasında da peşi sıra gelişen olaylara bakalım.
@@ -23,6 +31,10 @@ Nihayet, Mart ayı başında bir hacker bu açığı buluyor ve sonuç: Sistemde
 Tabii bu olay tüm DeFi dünyasında büyük bir şok etkisi yarattı. Hack, [DeFi'de yaşanan en büyük saldırılar tablosunda](https://rekt.news/leaderboard/) kendisine altıncı sıradan yer buldu. Euler'in tokeni [EUL](https://www.coingecko.com/en/coins/euler) yaklaşık %70 oranında değer kaybetti. 
 
 Euler Finance, yaptığı yenilikler ile bilinen ve ekosistemde sevilen bir topluluk. Protokol aynı zamanda pek çok diğer protokolun parasını emanet ettiği bir yer. Yani olay sadece Euler, ve bireysel yatırımcılarını değil, ekosistemdeki diğer büyük oyuncuları da etkiler hale geldi. Buradan sonrası ise polisiye hikayenin başladığı yer aslında. 
+
+| ![harvest](/assets/detective-g29ed8697a_800.jpg)|
+|:--:| 
+| *Image by [Gerd Altmann](https://pixabay.com/users/geralt-9301/) from [Pixabay](https://pixabay.com/)*|
 
 Euler Finance ekibi, öncelikle hacker ile temasa geçtiler. Nasıl? Hımmm, düşünelim bakalım: Elimizde ne var? Açığı bulup parayı çeken [adres](https://etherscan.io/address/0xee009faf00cf54c1b4387829af7a8dc5f0c8c8c5). Başka ne var? Her tür işlemi gösteren, şeffaf bir blokzincir. Evet, bildiniz. [Ekip](https://etherscan.io/address/0xb66cd966670d962c227b3eaba30a872dbfb995db), 13 Mart'ta hacker'a blokzincir üzerinden aşağıdaki [mesajı](https://etherscan.io/tx/0x539c6fff0fce70e02dddd80a5534acf3df57deafbdc40f41abb20aa8f94a6d0d) [^1] gönderdi. 
 
