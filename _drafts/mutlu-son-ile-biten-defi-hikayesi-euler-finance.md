@@ -61,5 +61,5 @@ vii) En son kredi veren hesabından Euler rezerv hesabına 100 milyon DAI bağı
 viii) Sonuç olarak kredi hesabının elinde 310 milyon eDAI ve 390 milyon borç ile baş başa kalıyor - yani açığa düşüyor
 ix) Burada akbaba hesap devreye giriyor. Kredi alan hesabın 310 milyon eDAI'sinin %25 oranında iskonto (ve bir miktar masraf ile birlikte) 259 milyon DAI borcunu üstüne alıyor
 x) Akbaba hesap, 259 milyon DAI borcu elindeki eDAI'ler ile ödüyor. Geriye kalan paranın tamamını çekebilir ama havuzda 38.9 milyon DAI var. Bu DAI'nin tamamını çekiyor ve gidip aave'ye olan 30 milyon DAI borcunu ödüyor. Böylece aradaki fark (38.9-30) olan 8.9 milyon DAI yanına kar kalıyor. 
-xii) Saldırgan aynı işlemi diğer kredi havuzları için de uyguluyor. Böylece 141 milyon ABD Doları wstETH, 34 milyon ABD Doları USDC, 26 milyon ABD Doları wbtc, 15 milyon ABD Doları wETH, ve 7 milyon ABD Doları stETH olmak üzere bugünün parasıyla toplam 232 milyon ABD Dolarını 'iç' ediyor. 
+xi) Saldırgan aynı işlemi diğer kredi havuzları için de uyguluyor. Böylece 141 milyon ABD Doları wstETH, 34 milyon ABD Doları USDC, 26 milyon ABD Doları wbtc, 15 milyon ABD Doları wETH, ve 7 milyon ABD Doları stETH olmak üzere bugünün parasıyla toplam 232 milyon ABD Dolarını 'iç' ediyor. 
 
