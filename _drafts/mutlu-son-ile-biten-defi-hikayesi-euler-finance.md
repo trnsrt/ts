@@ -17,7 +17,7 @@ Protokoller 'akıllı kontrat riskini' çözmek için bu kontratları genellikle
 
 İşte Euler Finance de, bu şekilde bir kombo problemler zinciri yaşamış. Problemin teknik detayına girmeden özeti şu şekilde: Euler üzerinde bundan sekiz ay önce Temmuz 2022'de uygulamaya aldığı bir [güncelleme](https://forum.euler.finance/t/eip-14-contract-upgrades/305) sırasında yapılan bir değişiklik akıllı kontratta bir açık yaratıyor. Denetimi yapan firma açığı atlıyor ve işin ilginç tarafı tam sekiz ay boyunca kimse bunu farketmiyor. 
 
-Nihayet, Mart ayı başında bir hacker bu açığı buluyor ve sonuç: Sistemden tam 200 milyon ABD Doları kriptoparayı hesabına çekiyor! (Açık ve çalınan para ile ilgili teknik detayı en sonraki dipnotta bulabilirsiniz[^3]). 
+Nihayet, Mart ayı başında bir hacker bu açığı buluyor ve sonuç: Sistemden tam 200 milyon ABD Doları kriptoparayı hesabına çekiyor! (Açık ve çalınan para ile ilgili teknik detayı dipnotta bulabilirsiniz[^3]). 
 
 ### Sonrasında yaşananlar neler?
 Tabii bu olay tüm DeFi dünyasında büyük bir şok etkisi yarattı. Hack, [DeFi'de yaşanan en büyük saldırılar tablosunda](https://rekt.news/leaderboard/) kendisine altıncı sıradan yer buldu. Euler'in tokeni [EUL](https://www.coingecko.com/en/coins/euler) yaklaşık %70 oranında değer kaybetti. 
