@@ -4,12 +4,12 @@ Ethereum ekosistemi 13 Nisan Perşembe gününün ilk saatlerinde Shapella günc
 
 Düzenlemenin ilk günleri Ethereum açısından nispeten sorunsuz geçiyor. Ethereum geliştiricileri planladıkları düzenli bir çıkışı şu ana kadar gerçekleştirmiş görünüyorlar. Üstelik [çıkışların yaklaşık üçte biri kadar yeni para girişi](https://token.unlocks.app/ethereum-shanghai) var. Yatırımcı gözünde, çıkışların büyük olmasının getirdiği korkudan çok, 'kilitlerin ne zaman açılacağı' belirsizliğinin ortadan kalkması galip geldi ve ilk günlerde [ETH fiyatı artış gösterdi](https://www.coingecko.com/en/coins/ethereum).
 
-Yatırımcı ve kullanıcılar açısından soru aslına bakarsanız hiç değişmiyor: "Peki bundan sonra ne olacak?". Önümüzdeki dönem için beklenti kilitlenen (ya da rehin edilen ingilizcesi 'stake' edilen) ETH'lerin iki katlanarak piyasadaki toplam ETH'nin %30'una kadar çıkacağı şeklinde.
+Yatırımcı ve kullanıcılar açısından soru aslına bakarsanız hiç değişmiyor: "Peki bundan sonra ne olacak?". Önümüzdeki dönem için beklenti kilitlenen (ya da rehin edilen ingilizcesi 'stake' edilen) ETH'lerin ikiye katlanarak piyasadaki toplam ETH'nin %30'una kadar çıkacağı şeklinde.
 
 Bu artışın büyük kısmının ise Liquid Staking Derivatives (LSD) denen likit token pazarından gelmesi bekleniyor. O nedenle gelin önce LSD pazarının neden bu kadar cazip olduğunu anlamaya çalışalım, sonra da alternatif farklı önerilere de değinelim. Önümüzdeki yazımızda ise LSD pazarının oyuncularını detaylıca inceleyelim. 
 
 ### Nedir LSD?
-Liquid Staking Derivative (LSD), Ethereum kilitleme işlemlerinin başladığı Aralık 2020 ile birlikte uygulamaya geçen bir türev enstrümanı. Adından da anlaşılacağı gibi, temel işlevi yatırımcının sistemde kilitli halde duran ETH'sinin likit hale getirmek. Neye yarar peki bu?
+Liquid Staking Derivative (LSD), Ethereum kilitleme işlemlerinin başladığı Aralık 2020 ile birlikte uygulamaya geçen bir türev enstrümanı. Adından da anlaşılacağı gibi, temel işlevi yatırımcının sistemde kilitli halde duran ETH'nin likit hale getirmek. Neye yarar peki bu?
 
 #### Nedir LSD hizmetinin faydası?
 
@@ -37,13 +37,11 @@ Madalyonun öbür tarafında ise akla şu soru gelebilir: "İyi de yatırımcı 
 
 Bu sorunun yarattığı ikinci durum ise, yatırımcıların bu alanı kullanırken likiditenin en bol olduğu LSD araçlarına yönelmesi oldu. Bu da piyasanın en büyüğü olan Lido'nun çıkardığı stETH'nin pazarın büyük bir bölümünü ele geçirmesine neden oldu. 
 
-|![lsd-pazar-paylari](/assets/LSD-pazar-paylari_v1.png)|
+| ![lsd-pazar-paylari](/assets/LSD-pazar-paylari_v1.png)|
 |:--:| 
 | *Kaynak: [Dune Analytics](https://dune.com/hildobby/eth2-staking)*|
 
 Bir önceki paragrafta söze başlarken 'normal' piyasa dönemleri dedik. Piyasanın kriz yaşadığı 2022 yılının yaz aylarında LSD pazarı, özellikle Lido ciddi bir badire de atlattı. Likidite sıkıntısı nedeniyle ellerindeki LSD'leri satan yatırımcılar stETH'in değerini bir önceki grafikte gördüğünüz gibi Temmuz 2022'de 0.94 ETH'ye kadar düşürdüler. Peki krizin nedeni neydi?
-
-[BU AŞAĞIDAKİ BÖLÜM (İKİ PARAGRAF) DİPNOT OLARAK DA KALABİLİR. NE DERSİN??]
 
 #### 3AC'nin Lido'ya yaptıkları
 
