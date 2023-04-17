@@ -56,7 +56,7 @@ Shapella güncellemesi ile ETH'lerin çekilebilir olması LSD'lerin de üzerinde
 
 Dolayısıyla, bundan sonra artık LSD pazarı daha da büyüme imkanına kavuşuyor. Yatırımcı perspektifinden düşünürseniz, elinizde iki alternatif var: ETH'yi düz bir şekilde tutmak ya da LSD haline getirip yıllık belirli bir kazanç elde etmek (şu an için yaklaşık %4.9 oranında). Elbette, LSD'nin getirdiği bir akıllı kontrat riski var ama bu risk zaman geçip ürünler kullanıldıkça azalıyor[^2]. 
 
-Tabii yatırımcı, parasını ETH olarak tutmak yerine mevduat yapmak ya da teminat göstermek farklı şekillerde de kullanabilir. Benzer durum LSD tokenlerde de geçerli. Kullanımın artmasıyla birlikte bu tokenler için de aynı ETH gibi ürünlerin çıkmaya başladığını görüyoruz. Hatta şimdiden LSD-Fi denen bir alt kategori oluşmaya başladı bile [^1]
+Tabii yatırımcı, parasını ETH olarak tutmak yerine mevduat yapmak ya da teminat göstermek farklı şekillerde de kullanabilir. Benzer durum LSD tokenlerde de geçerli. Kullanımın artmasıyla birlikte bu tokenler için de aynı ETH gibi ürünlerin çıkmaya başladığını görüyoruz. Hatta şimdiden LSD-Fi denen bir alt kategori oluşmaya başladı bile[^1].
 
 #### Lido'nun pazar hakimiyeti
 
