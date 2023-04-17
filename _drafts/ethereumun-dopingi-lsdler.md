@@ -2,7 +2,7 @@ Bu yazımızda, Ethereum'da başarı ile sonuçlanan Shapella güncellemesi sonr
 
 Ethereum ekosistemi 13 Nisan Perşembe gününün ilk saatlerinde Shapella güncellemesini başarı ile uygulamaya soktu. Güncelleme sayesinde kullanıcıların uzunca bir süredir kilitli duran ETH'lerini geri çekebilmenin yolu açılmış oldu. 
 
-Düzenlemenin ilk günleri Ethereum açısından nispeten sorunsuz geçiyor. Ethereum geliştiricileri planladıkları düzenli bir çıkışı şu ana kadar gerçekleştirmiş görünüyorlar. Üstelik [çıkışların yaklaşık üçte biri kadar yeni para girişi](https://token.unlocks.app/ethereum-shanghai) var. Yatırımcı gözünde, çıkışların büyük olmasının getirdiği korkudan çok, 'kilitlerin ne zaman açılacağı' belirsizliğinin ortadan kalkması galip geldi ve ilk günlerde[ETH fiyatı artış gösterdi](https://www.coingecko.com/en/coins/ethereum).
+Düzenlemenin ilk günleri Ethereum açısından nispeten sorunsuz geçiyor. Ethereum geliştiricileri planladıkları düzenli bir çıkışı şu ana kadar gerçekleştirmiş görünüyorlar. Üstelik [çıkışların yaklaşık üçte biri kadar yeni para girişi](https://token.unlocks.app/ethereum-shanghai) var. Yatırımcı gözünde, çıkışların büyük olmasının getirdiği korkudan çok, 'kilitlerin ne zaman açılacağı' belirsizliğinin ortadan kalkması galip geldi ve ilk günlerde [ETH fiyatı artış gösterdi](https://www.coingecko.com/en/coins/ethereum).
 
 Yatırımcı ve kullanıcılar açısından soru aslına bakarsanız hiç değişmiyor: "Peki bundan sonra ne olacak?". Önümüzdeki dönem için beklenti kilitlenen (ya da rehin edilen ingilizcesi 'stake' edilen) ETH'lerin iki katlanarak piyasadaki toplam ETH'nin %30'una kadar çıkacağı şeklinde.
 
