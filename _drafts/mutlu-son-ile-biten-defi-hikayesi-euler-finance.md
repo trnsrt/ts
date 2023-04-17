@@ -8,10 +8,10 @@ tags: Yazılar, DeFi, CoindeskTR
 
 Bu yazımızda Euler Finance'in başına gelen 200 milyon ABD Doları tutarındaki hack ve sonrasında yaşanan heyecanlı sahneleri konuşacağız. 
 
-Hızla gelişen DeFi dünyasında 'sürat felakettir' sözünün sıkça kullanmamıza neden olan 'hack' (Türkçesine 'sistemin zaafından yararlanma' diyebiliriz) olaylarından birini daha yaşadık geçtiğimiz ay içinde. Bu defa hikaye mutlu sonla bitse de, gerek olayın gelişimi gerekse de hack sonrası yaşananlar adeta bir polisiye filmi andırıyor. Gelin önce Euler Finance nedir ve nasıl 'hack' yedi onu anlayalım, sonrasında da peşi sıra gelişen olaylara bakalım.
+Hızla gelişen DeFi dünyasında 'sürat felakettir' sözünü sıkça kullanmamıza neden olan 'hack' (Türkçesine 'sistemin zaafından yararlanma' diyebiliriz) olaylarından birini daha yaşadık geçtiğimiz ay içinde. Bu defa hikaye mutlu sonla bitse de, gerek olayın gelişimi gerekse de hack sonrası yaşananlar adeta bir polisiye filmi andırıyor. Gelin önce Euler Finance nedir ve nasıl 'hack' yedi onu anlayalım, sonrasında da peşi sıra gelişen olaylara bakalım.
 
 ### Ne iş yapar Euler Finance?
-[Euler Finance](https://www.euler.finance/), bir kredi verme platformu. Bu alandaki diğer protokollerden farkı her tür kriptoparanın kredi olarak verimesini sağlayan yenilikçi ürünler sunması. (Hatırlayanlar olacaktır, DeFi'nin başlıca kredi verme platformları olarak [Aave'yi](/genel/2021/07/19/defi-de-kurumsallara-karsi-bos-degil.html) ve [MakerDAO'yu](/genel/2019/02/15/MakerDAO-kredi-kullaniminda-cigir-acar-mi.html) daha önce detaylıca incelemiştik)
+[Euler Finance](https://www.euler.finance/), bir kredi verme platformu. Bu alandaki diğer protokollerden farkı her tür kriptoparanın kredi olarak verilmesini sağlayan yenilikçi ürünler sunması. (Hatırlayanlar olacaktır, DeFi'nin başlıca kredi verme platformları olarak [Aave'yi](/genel/2021/07/19/defi-de-kurumsallara-karsi-bos-degil.html) ve [MakerDAO'yu](/genel/2019/02/15/MakerDAO-kredi-kullaniminda-cigir-acar-mi.html) daha önce detaylıca incelemiştik)
 
 En basitinden özetleyecek olursak, DeFi'de kredi alabilmek için, alacağınız krediden daha fazla teminatı protokol içine kilitlemeniz gerekiyor. Sonrasında aldığınız krediyi artık ihtiyaçlarınız için mi, yoksa spekülasyon için mi kullanırsınız, o size kalmış. Tek dikkat etmeniz gereken kural, teminatınızın aldığınız krediye oranının belli bir seviyenin altına düşmemesine dikkat etmek. Aksi takdirde sistem gözünüzün yaşına bakmaz, icra memuru da diyebileceğimiz bir akbaba (ingilizcesi 'liquidator') gelir teminatınızı güzel bir iskonto ile satın alır, borcunuzu öder ve aldığı iskontoyu da cebe atar. 
 
@@ -19,11 +19,11 @@ En basitinden özetleyecek olursak, DeFi'de kredi alabilmek için, alacağınız
 
 Kredi alma, geri ödeme, likide olma gibi süreçlerin gerçekleşmesi ise, malumunuz akıllı kontrat dediğimiz küçük programlar aracılığıyla oluyor. Yukarıda anlattığımız her bir adım için bir akıllı kontratın çalışması gerekiyor ve en ciddi sorunlardan biri işte burada başlıyor. Akıllı kontrat içindeki birkaç adımın yanlış yazılması, hem kontratın zaafiyet vermesine yol açıyor, hem de bu durum onunla iletişime geçen diğer kontratları da etkiliyor. Bu da, DeFi'nin en büyük açıklarından biri olan 'kontrat riskini' doğuruyor.
 
-Protokoller 'akıllı kontrat riskini' çözmek için bu kontratları genellikle dış denetimden geçiriyorlar. Ne var ki, kontratların değişik ihtiyaçlardan dolayı yenilendiği durumda, yeni güncellemeleri gerek maliyet gerekse denetçilerin iş yükünden dolayı ihmal edilebiliyor Ya da kimi zaman denetçiler bile yoğunluktan dolayı işlerini layıkıyla yerine getirmeyip kontrattaki hataları atlayabiliyorlar.  
+Protokoller 'akıllı kontrat riskini' çözmek için bu kontratları genellikle dış denetimden geçiriyorlar. Ne var ki, kontratların değişik ihtiyaçlardan dolayı yenilendiği durumda, yeni güncellemeleri gerek maliyet gerekse denetçilerin iş yükünden dolayı ihmal edilebiliyor. Ya da kimi zaman denetçiler bile yoğunluktan dolayı işlerini layıkıyla yerine getirmeyip kontrattaki hataları atlayabiliyorlar.  
 
 ### Olay nasıl patlamış?
 
-İşte Euler Finance de, bu şekilde bir kombo problemler zinciri yaşamış. Problemin teknik detayına girmeden özeti şu şekilde: Euler üzerinde bundan sekiz ay önce Temmuz 2022'de uygulamaya aldığı bir [güncelleme](https://forum.euler.finance/t/eip-14-contract-upgrades/305) sırasında yapılan bir değişiklik akıllı kontratta bir açık yaratıyor. Denetimi yapan firma açığı atlıyor ve işin ilginç tarafı tam sekiz ay boyunca kimse bunu farketmiyor. 
+İşte Euler Finance de, bu şekilde bir kombo problemler zinciri yaşamış. Problemin teknik detayına girmeden özeti şu şekilde: Euler üzerinde bundan sekiz ay önce Temmuz 2022'de uygulamaya alınan bir [güncelleme](https://forum.euler.finance/t/eip-14-contract-upgrades/305) sırasında yapılan bir değişiklik akıllı kontratta bir açık yaratıyor. Denetimi yapan firma açığı atlıyor ve işin ilginç tarafı tam sekiz ay boyunca kimse bunu farketmiyor. 
 
 Nihayet, Mart ayı başında bir hacker bu açığı buluyor ve sonuç: Sistemden tam 200 milyon ABD Doları kriptoparayı hesabına çekiyor! (Açık ve çalınan para ile ilgili teknik detayı dipnotta bulabilirsiniz[^3]). 
 
@@ -62,16 +62,16 @@ Dipnotlar:
 
 [^2]: Örneğin, a16z'den geçtiğimiz yıl ayrılıp kendi fonu olan Haun Ventures'ı kuran Kathryn Haun'un eski bir adalet bakanlığı avukatı olduğunu ve ekibinin hackerı enselemek konusunda ciddi bir çaba gösterdiğini belirtelim. 
 
-[^3]: Euler denetçilerinden birinin yazdığı [rapora](https://medium.com/@omniscia.io/euler-finance-incident-post-mortem-1ce077c28454) göre detaylar şu şekilde: Öncelikle, sorunun temeli, Euler'in hesabına para gönderildiğinde, sistemin bunu gönderenin mali durumuna bakmadan kabul etmesi. Ne gibi bir problem yaratıyor bu? Gönderen para gönderdiği için teminatı kredinin altında kalırsa likide olmak durumunda kalıyor. Akbabalar gönderenin teminatını likide ederken %20 iskonto alıyorlar. İşte saldırgan kredi aldığı hesaptan büyük miktarlarda parayı teminat gösterip, hesabı iflas durumuna sürüklüyor. Diğer yandan akbaba gibi davranıp teminatı ucuzdan çözerek parayı cebe atıyor. Burada kaybeden kim? Protokol. Adımlar şu şekilde  
+[^3]: Euler denetçilerinden birinin yazdığı [rapora](https://medium.com/@omniscia.io/euler-finance-incident-post-mortem-1ce077c28454) göre detaylar şu şekilde: Öncelikle, sorunun temeli, Euler'in hesabına para gönderildiğinde, sistemin bunu gönderenin mali durumuna bakmadan kabul etmesi. Ne gibi bir problem yaratıyor bu? Gönderen para gönderdiği için teminatı kredinin altında kalırsa likide olmak durumunda kalıyor. Akbabalar gönderenin teminatını likide ederken %20 iskonto alıyorlar. İşte saldırgan kredi aldığı hesaptan büyük miktarlarda parayı teminat gösterip, hesabı iflas durumuna sürüklüyor. Diğer yandan akbaba gibi davranıp teminatı ucuzdan çözerek parayı cebe atıyor. Burada kaybeden kim? Protokol. Adımlar şu şekilde 
 i) Saldırgan, iki farklı hesap açıyor. Birine kredi alan, öbürüne akbaba hesabı diyelim. 
 ii) Sonra gidip aave'den 30 milyon DAI flash loan alıyor ve bu parayı krediyi alacak hesaba yatırıyor. 
 iii) Kredi alan hesap 20 milyon dolar DAI'yi mevduat olarak yatırıyor. 
 iv) Bu sayede 195 milyon eDAI (Euler'in DAI karşılığı parası) yaratıp kendisini 200 milyon DAI borçlandırıyor (20 milyon mevduatı da teminat olarak gösteriyor). 
 v) Sonra elinde kalan 10 milyon DAI ile 200 milyon DAI'lik borcunu 190 milyona indiriyor.
-vi) Ardınan yukarıdaki işlemleri bir kez daha tekrarlıyor
-vii) En son kredi veren hesabından Euler rezerv hesabına 100 milyon DAI bağış yapıyor
-viii) Sonuç olarak kredi hesabının elinde 310 milyon eDAI ve 390 milyon borç ile baş başa kalıyor - yani açığa düşüyor
-ix) Burada akbaba hesap devreye giriyor. Kredi alan hesabın 310 milyon eDAI'sinin %25 oranında iskonto (ve bir miktar masraf ile birlikte) 259 milyon DAI borcunu üstüne alıyor
+vi) Ardınan yukarıdaki işlemleri bir kez daha tekrarlıyor.
+vii) En son kredi veren hesabından Euler rezerv hesabına 100 milyon DAI bağış yapıyor.
+viii) Sonuç olarak kredi hesabının elinde 310 milyon eDAI ve 390 milyon borç ile baş başa kalıyor - yani açığa düşüyor.
+ix) Burada akbaba hesap devreye giriyor. Kredi alan hesabın 310 milyon eDAI'sinin %25 oranında iskonto (ve bir miktar masraf ile birlikte) 259 milyon DAI borcunu üstüne alıyor.
 x) Akbaba hesap, 259 milyon DAI borcu elindeki eDAI'ler ile ödüyor. Geriye kalan paranın tamamını çekebilir ama havuzda 38.9 milyon DAI var. Bu DAI'nin tamamını çekiyor ve gidip aave'ye olan 30 milyon DAI borcunu ödüyor. Böylece aradaki fark (38.9-30) olan 8.9 milyon DAI yanına kar kalıyor. 
 xi) Saldırgan aynı işlemi diğer kredi havuzları için de uyguluyor. Böylece 141 milyon ABD Doları wstETH, 34 milyon ABD Doları USDC, 26 milyon ABD Doları wbtc, 15 milyon ABD Doları wETH, ve 7 milyon ABD Doları stETH olmak üzere bugünün parasıyla toplam 232 milyon ABD Dolarını 'iç' ediyor. 
 
