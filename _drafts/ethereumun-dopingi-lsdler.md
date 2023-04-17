@@ -37,10 +37,6 @@ Madalyonun öbür tarafında ise akla şu soru gelebilir: "İyi de yatırımcı 
 
 Bu sorunun yarattığı ikinci durum ise, yatırımcıların bu alanı kullanırken likiditenin en bol olduğu LSD araçlarına yönelmesi oldu. Bu da piyasanın en büyüğü olan Lido'nun çıkardığı stETH'nin pazarın büyük bir bölümünü ele geçirmesine neden oldu. 
 
-| ![stake_dagilim](/assets/eth-staker-distribution-dune.jpg)|
-|:--:| 
-| *Kaynak: [Dune Analytics](https://dune.com/xplorer/shanghai-event-dashboard)*|
-
 |![lsd-pazar-paylari](/assets/LSD-pazar-paylari_v1.png)|
 |:--:| 
 | *Kaynak: [Dune Analytics](https://dune.com/hildobby/eth2-staking)*|
