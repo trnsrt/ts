@@ -41,7 +41,7 @@ Bu sorunun yarattığı ikinci durum ise, yatırımcıların bu alanı kullanır
 |:--:| 
 | *Kaynak: [Dune Analytics](https://dune.com/xplorer/shanghai-event-dashboard)*|
 
-|![lsd-pazar-paylari(/assets/LSD-pazar-paylari_v1.png)|
+|![lsd-pazar-paylari](/assets/LSD-pazar-paylari_v1.png)|
 |:--:| 
 | *Kaynak: [Dune Analytics](https://dune.com/hildobby/eth2-staking)*|
 
