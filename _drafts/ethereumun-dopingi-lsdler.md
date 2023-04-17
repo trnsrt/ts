@@ -31,13 +31,13 @@ Madalyonun öbür tarafında ise akla şu soru gelebilir: "İyi de yatırımcı 
 
 İki temel etkiden bahsedebiliriz. Öncelikle 'normal' piyasa dönemlerinde bu likidite eksikliğinden dolayı LSD'lerin fiyatının kilitli olduğu ETH'ye göre daha düşük kaldığını gördük. 
 
-| ![seth-eth-peg](/assets/)|
+| ![seth-eth-peg](/assets/seth-eth-price-dune-lido-analytical.jpg)|
 |:--:| 
 | *Kaynak: [Dune Analytics](https://dune.com/LidoAnalytical/Curve-ETHstETH)*|
 
 Bu sorunun yarattığı ikinci durum ise, yatırımcıların bu alanı kullanırken likiditenin en bol olduğu LSD araçlarına yönelmesi oldu. Bu da piyasanın en büyüğü olan Lido'nun çıkardığı stETH'nin pazarın büyük bir bölümünü ele geçirmesine neden oldu. 
 
-| ![lsd-pazar-paylari](/assets/LSD-pazar-paylari_v1.png)|
+| ![lsd-pazar-paylari](/assets/Ethereum-Staking-Pazar-Paylari.png)|
 |:--:| 
 | *Kaynak: [Dune Analytics](https://dune.com/hildobby/eth2-staking)*|
 
