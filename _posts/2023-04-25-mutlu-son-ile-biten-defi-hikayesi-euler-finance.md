@@ -3,7 +3,7 @@ layout: post
 title:  "Mutlu son ile biten bir DeFi hack hikayesi: Euler Finance"
 date:   2023-04-25 12:17:56 +0300
 categories: Genel
-tags: Yazılar, DeFi, CoindeskTR
+tags: Yazılar, DeFi
 ---
 
 Bu yazımızda Euler Finance'in başına gelen 200 milyon ABD Doları tutarındaki hack ve sonrasında yaşanan heyecanlı sahneleri konuşacağız. 
