@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Ethereum'un dopingi LSD'ler"
+date:   2023-04-18 12:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi, CoindeskTR
+---
+
 Bu yazımızda, Ethereum'da başarı ile sonuçlanan Shapella güncellemesi sonrası gözlerin çevrildiği Liquid Staking Derivatives (LSD) pazarına ışık tutmaya çalışıyoruz. 
 
 Ethereum ekosistemi 13 Nisan Perşembe gününün ilk saatlerinde Shapella güncellemesini başarı ile uygulamaya soktu. Güncelleme sayesinde kullanıcıların uzunca bir süredir kilitli duran ETH'lerini geri çekebilmenin yolu açılmış oldu. 
@@ -74,6 +82,16 @@ Rakiplerin ise pazar payı kapmak için ya teşvikler vermesi ya da farklı yeni
 
 Liquid Staking Derivatives, Ethereum'un yeni döneminin önemli aktörlerinden biri olmaya aday. Yatırımcılara ek gelir kapısı vaat eden bu servisler, çok büyüyüp merkezileşmek suretiyle Ethereum'u risk altına sokmadıkları sürece, bu ekosistemin gelişmesi için katkı sağlayacaklar gibi görünüyor. LSD'ler önümüzdeki dönemde nereye evrilecekler, ilgiyle izlemeye devam edeceğiz. 
 
+
+---
+
+*Not 1: Bu yazı ilk olarak 18 Nisan 2023'de [Coindesk Türkiye'de yayınlandı](https://www.coindeskturkiye.com/yazarlar/turan-sert/ethereumun-dopingi-lsdler-4191)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
+
+--
 
 
 [^1]: Bu alanı da önümüzdeki yazımızda değerlendirmeye çalışacağız. 
