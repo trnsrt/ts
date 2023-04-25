@@ -57,6 +57,16 @@ Burada en büyük alkışı gerek zincir-üstü analizler gerekse zincir-dışı
 
 Her ne kadar büyüklük olarak 2021 yıllarındaki eski günlerini arıyor olsa da, çıkan yeni ürünler ile hızlı bir şekilde gelişmeye devam eden DeFi ekosistemi, hızın getirdiği yol kazalarını yaşamaya devam ediyor. Bu kazalardaki kayıplar, topluluğun kenetlenmesi sayesinde son dönemde daha az hissedilmekte. Bu böyle devam edecek mi? Tahmin etmek zor. Zira, her hacker Euler olayında olduğu gibi amatör olmayabilir. Üstelik kaygı verici olan, Euler'deki açığın sekiz ay boyunca fark edilmemiş olması. DeFi protokollerinin riski minimuma indirmesi için yemeleri gereken 'kırk fırın ekmeğin' büyük bir kısmı hâlâ önlerinde duruyor gibi görünüyor.
 
+---
+
+*Not 1: Bu yazı ilk olarak 25 Nisan 2023'de [BTCHaber'de yayınlandı](https://www.btchaber.com/mutlu-sonla-biten-bir-defi-hack-hikayesi-euler-finance/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
+
+---
+
 Dipnotlar: 
 [^1]: Mesajı siz de görebilirsiniz. [Şu](https://etherscan.io/tx/0x539c6fff0fce70e02dddd80a5534acf3df57deafbdc40f41abb20aa8f94a6d0d) işlem adresine girin. Aşağı doğru ilerleyin 'gaz fiyatının' ('gas price') hemen altında 'daha fazla detay' ('more details') diye bir yer göreceksiniz. '+' işaretine basarak orayı açın. 'Veri girişi'('input data') kısmına gelin. Karmakarışık rakamlar yazdığını göreceksiniz. Alttaki 'datayı izleme şekli' ('View input as') menüsünden 'UTF-8'i seçin (not: yazıyı görebilmek için etherscan'e ücretsiz kayıt olmanız gerekiyor). 
 
@@ -74,4 +84,3 @@ viii) Sonuç olarak kredi hesabının elinde 310 milyon eDAI ve 390 milyon borç
 ix) Burada akbaba hesap devreye giriyor. Kredi alan hesabın 310 milyon eDAI'sinin %25 oranında iskonto (ve bir miktar masraf ile birlikte) 259 milyon DAI borcunu üstüne alıyor.
 x) Akbaba hesap, 259 milyon DAI borcu elindeki eDAI'ler ile ödüyor. Geriye kalan paranın tamamını çekebilir ama havuzda 38.9 milyon DAI var. Bu DAI'nin tamamını çekiyor ve gidip aave'ye olan 30 milyon DAI borcunu ödüyor. Böylece aradaki fark (38.9-30) olan 8.9 milyon DAI yanına kar kalıyor. 
 xi) Saldırgan aynı işlemi diğer kredi havuzları için de uyguluyor. Böylece 141 milyon ABD Doları wstETH, 34 milyon ABD Doları USDC, 26 milyon ABD Doları wbtc, 15 milyon ABD Doları wETH, ve 7 milyon ABD Doları stETH olmak üzere bugünün parasıyla toplam 232 milyon ABD Dolarını 'iç' ediyor. 
-
