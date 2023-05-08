@@ -2,7 +2,7 @@ Bu yazımızda Ethereum ekosisteminde gittikçe önem kazanan Liquid Staking Der
 
 Geçtiğimiz [yazımızda](/genel/2023/04/18/ethereumun-dopingi-lsdler.html) Ethereum'un Shapella güncellemesi sonrası çekimlere izin vermesinin ekosisteme etkilerini incelerken, bu alanda en büyük değişimin kısaca LSD olarak adlandırılan Liquid Staking Derivatives cephesinden geleceğini belirtmiştik. Bu yazımızda, staking alanındaki en büyük alan olan LSD pazarının büyük oyuncuları yanında diğer alanlardan rakiplerine değineceğiz. 
 
-#### Nedir bu LSD tokenler?
+### Nedir bu LSD tokenler?
 LSD (Liquid Staking Derivatives), sisteme kilitli ETH'leri likit hale getiren türev tokenlere verilen genel isim. Kısaca hatırlayacak olursak Ethereum Aralık 2020'de Ethereum'un yüksek enerji sarfeden hisse kanıtı (ingilizcesi Proof-of-Work kısaca PoW) sisteminden kapital yoğun hisse (rehin) kanıtı (ingilizcesi Proof-of-Stake kısaca PoS) sistemine geçmişti. Bu sistemin işlemesi için gerekli olan işleri ise onaylayıcı dediğimiz oyuncular yapıyor. Onaylayıcılar bu işi layıkıyla yaptıklarını kanıtlamak için sisteme en az 32 ETH kilitliyorlar (ya da rehin ediyorlar, ingilizcede 'Stake' olarak geçiyor) ve yaptıkları bu iş karşılığı ödül kazanıyorlar. 
 
 İşte bu geçiş sorası ortaya çıkan LSD'ler sayesinde kullanıcılar, hem sisteme minimum 32 ETH yerine daha az miktarda kilitleme yaparak sistemin verdiği ödülden yararlanabiliyor hem de LSD tokenleri bir varlık olarak kullanarak DeFi'de ekstra gelir kazanma fırsatı elde ediyorlar. O günden bu yana çeşitli badireler atlatsalar da, hızlı bir şekilde büyüyen LSD'lerin, özellikle Nisan ayında gerçekleşen Shapella güncellemesi ile birlikte seviye atlamaları bekleniyor. Bunun en temel nedeni de artan likidite. 
