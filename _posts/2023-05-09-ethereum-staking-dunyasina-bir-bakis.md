@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Ethereum staking oyuncularına bir bakış"
+date:   2023-05-09 12:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi, CoindeskTR
+---
+
 Bu yazımızda Ethereum ekosisteminde gittikçe önem kazanan Liquid Staking Derivatives alanı oyuncularına ve rakiplerine göz atacağız. 
 
 Geçtiğimiz [yazımızda](/genel/2023/04/18/ethereumun-dopingi-lsdler.html) Ethereum'un Shapella güncellemesi sonrası çekimlere izin vermesinin ekosisteme etkilerini incelerken, bu alanda en büyük değişimin kısaca LSD olarak adlandırılan Liquid Staking Derivatives cephesinden geleceğini belirtmiştik. Bu yazımızda, staking alanındaki en büyük alan olan LSD pazarının büyük oyuncuları yanında diğer alanlardan rakiplerine değineceğiz. 
@@ -6,6 +14,10 @@ Geçtiğimiz [yazımızda](/genel/2023/04/18/ethereumun-dopingi-lsdler.html) Eth
 LSD (Liquid Staking Derivatives), sisteme kilitli ETH'leri likit hale getiren türev tokenlere verilen genel isim. Kısaca hatırlayacak olursak Ethereum Aralık 2020'de Ethereum'un yüksek enerji sarfeden hisse kanıtı (ingilizcesi Proof-of-Work kısaca PoW) sisteminden kapital yoğun hisse (rehin) kanıtı (ingilizcesi Proof-of-Stake kısaca PoS) sistemine geçmişti. Bu sistemin işlemesi için gerekli olan işleri ise onaylayıcı dediğimiz oyuncular yapıyor. Onaylayıcılar bu işi layıkıyla yaptıklarını kanıtlamak için sisteme en az 32 ETH kilitliyorlar (ya da rehin ediyorlar, ingilizcede 'Stake' olarak geçiyor) ve yaptıkları bu iş karşılığı ödül kazanıyorlar. 
 
 İşte bu geçiş sorası ortaya çıkan LSD'ler sayesinde kullanıcılar, hem sisteme minimum 32 ETH yerine daha az miktarda kilitleme yaparak sistemin verdiği ödülden yararlanabiliyor hem de LSD tokenleri bir varlık olarak kullanarak DeFi'de ekstra gelir kazanma fırsatı elde ediyorlar. O günden bu yana çeşitli badireler atlatsalar da, hızlı bir şekilde büyüyen LSD'lerin, özellikle Nisan ayında gerçekleşen Shapella güncellemesi ile birlikte seviye atlamaları bekleniyor. Bunun en temel nedeni de artan likidite. 
+
+| ![harvest](/assets/pond-3136439_800.jpg)|
+|:--:| 
+| *Image by [是巧 巩](https://pixabay.com/users/fxxy-424796/) from [Pixabay](https://pixabay.com/)*|
 
 Shapella güncellemesi öncesi Ethereum sistemine rehin edilen ETH'lerin çekimine izin verilmediği için LSD tokenleri sadece ikinci pazarda alınıp satılabiliyorlardı; bu da arz talebe göre tokenin ETH ile olan 1'e 1 dengesini bozabiliyordu. Artık bundan sonra LSD tokenler geri verilip yerine ETH alınabiliyor olacak. Bu da LSD tokenlerin üzerindeki en büyük belirsizliği ortadan kaldırıyor. Bunun yanında, LSD tokenlerin kullanımını artıracak yeni DeFi ürünleri sayesinde bu tokenlerin pazar payının artması neredeyse kesin gibi.
 
@@ -89,6 +101,17 @@ Bu alandaki bir başka yenilik olan DVT sistemi (Distributed Validator Technolog
 ### Sonuç
 LSD'ler staking geliri sağlamak amacıyla Ethereum üzerine rehin edilen kapitalin daha verimli kullanılması amacıyla geliştirilen, kendini geçtiğimiz iki yılda kanıtlamış ve adını önümüzdeki dönemde daha da sık duymaya başlayacağımız bir türev token türü. Merkezi borsalar da LSD tokenlerin rakibi olarak piyasada kendilerini gösteriyorlar. Önümüzdeki dönemde LSD'leri kapital olarak kullanan yeni DeFi ürünleri ya da restaking benzeri yenilikler bu verimliliği daha da ileri götürüp ETH'den elde edilecek geliri daha da artırabilir. Yenilikleri hep birlikte izlemeye devam edeceğiz. 
 
+---
+
+*Not 1: Bu yazı ilk olarak 9 Mayıs 2023'de [Coindesk Türkiye'de yayınlandı](https://www.coindeskturkiye.com/yazarlar/turan-sert/eth-staking-dunyasinin-oyuncularina-bakis-4360)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
+
+--
+
 [^1]: Staking pazarında LSD'ler dışında staking havuzları ve bireysel staking yapanlar da var. Burada verdiğimiz %90 rakamı sadece LSD tokenler için geçerli. 
 
 [^2]: Nitekim, çekim işlemleri başladıktan sonra en fazla çekim yapan kurum Kraken oldu
+
