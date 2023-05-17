@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Web3 dünyasında buyümenin habercisi geliştiricileri - Uzun versiyon"
+date:   2023-03-27 18:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
 Bu yazımızda, artık geleneksel hale gelmeye başlayan Electric Capital'in hazırladığı 'Geliştirici Raporu'ndan ilginç çıkarımları paylaşacağız.
 
 Kullanıcılara daha fazla söz hakkı ve oluşan katma değerden daha fazla pay vermeyi hedefleyen Web3'ün itici gücünü topluluklar oluşturuyor. Temeline insanı alan bu oluşumun kullanıcılar dışında kilit taşlarından biri de, bu dünyayı inşa eden yazılımcılar (bir başka deyişle geliştiriciler). 
@@ -138,6 +146,14 @@ Raporda, yeni açılan cüzdanların yaptığı ilk hareketleri gösteren şu ta
 Geliştiriciler, teknoloji dünyasının önce temellerini daha sonra üzerine katlarını çıkan ve ekosistemin en kritik parçalarından birini oluşturan bir grup. Bu grubun hareketleri bize gelecek ile ilgili çok ilginç ipuçları verebiliyor. 
 
 Electric Capital'in geliştirici raporu pek çok farklı çıkarımlar yapılabilecek bir hazine adeta. Eminim geliştirici camiası içinden rapora dudak bükecekler olacaktır. Yine de daha iyisi yapılana kadar en azından trendleri görebilmek için elimizdeki en kapsamlı çalışmalardan biri olan bu rapor dikkatlice okunmayı ve üzerine tartışılmayı hak ediyor. 
+
+---
+
+*Not 1: Bu yazı ilk olarak 27 Mart 2023'de [Yazılım Dünyasında 2023 Trendleri](https://medium.com/@mhkoca/yaz%C4%B1l%C4%B1m-d%C3%BCnyas%C4%B1nda-2023-trendleri-fdd228a3ae02) adlı Medium makalesinin içinde yayınlandı *
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
 
 
 
