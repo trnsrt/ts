@@ -1,10 +1,10 @@
-Bu yazımızda Wall Street'in önemli oyuncularında VanEck tarafından Ethereum için yapılan değerleme çalışmasını inceleyeceğiz. 
+Bu yazımızda Wall Street'in önemli oyuncularından VanEck tarafından Ethereum için yapılan değerleme çalışmasını inceleyeceğiz. 
 
-Kripto dünyasında yer alan yatırım araçlarını klasik metodlar ile değerlemek oldukça zor. Bunun temel nedeni, bu araçların henüz yatırım sahiplerine klasik anlamda değer yaratacak kadar gündelik hayatta kullanıma girmemiş olmaları. Bu durum, kriptoparaların değerinin tamamen spekülatif olarak belirlenmesine neden oluyor ve fiyat üzerinde ciddi dalgalanmalar yaratıyor. Bu da kriptoparaların kurumsal yatırımcı tarafında gerek anlaşılmasını gerekse de yatırım yapılmasını zorlaştırıyor. 
+Kripto dünyasında yer alan yatırım araçlarını klasik metodlar ile değerlemek oldukça zor. Bunun temel nedeni, çok yeni olduklarının potansiyel kullanım alanlarının henüz daha kestirilememesi. Bu durum, kriptoparaların değerinin tamamen spekülatif olarak belirlenmesine neden oluyor ve fiyat üzerinde ciddi dalgalanmalar yaratıyor. Bu da kriptoparaların kurumsal yatırımcı tarafında gerek anlaşılmasını gerekse de yatırım yapılmasını zorlaştırıyor. 
 
-Tabii bu dediğimiz durum, belirli ağların yavaş yavaş oturması ve değer yaratmaya başlaması ile birlikte yavaş yavaş değişmeye başladı. Özellikle gerçekleşen son iyileştirmeler sonrası Wall Street'in Ethereum'a olan ilgisinin artmaya başladığını görmeye başladık. Nedir bu iyileştirmeler? Geçtiğimiz yıl Eylül ayında PoW'den PoS'e geçiş ile birlikte enerji tüketimini %99 oranında azalması, daha önce Ağustos 2022'de hayata geçen fazla ödenen işlem ücretlerinin yakılması ve son olarak Mart 2023'de hayata geçen staking yapılan ETH'lerin çekilmesine olanak sağlanması gibi. 
+Tabii bu dediğimiz durum, belirli ağların oturması ve değer yaratmaya başlaması ile birlikte yavaş yavaş değişmeye başladı. Özellikle gerçekleşen son iyileştirmeler sonrası Wall Street'in Ethereum'a olan ilgisinin artmaya başladığını görmeye başladık. Nedir bu iyileştirmeler? Geçtiğimiz yıl Eylül ayında PoW'den PoS'e geçiş ile birlikte enerji tüketimini %99 oranında azalması, daha önce Ağustos 2022'de hayata geçen fazla ödenen işlem ücretlerinin yakılması ve son olarak Mart 2023'de hayata geçen staking yapılan ETH'lerin çekilmesine olanak sağlanması gibi. 
 
-İşte Wall Street'in önemli oyuncularından VanEck (ki ETF'lerin ile ünlü olan bu fonun yönettiği 76 milyar ABD Dolarından fazla parası var) son gelişmeler ışığında Ethereum'un önümüzdeki dönemdeki nakit akımlarını tahmin etmeye çalışmış. Gelin hep birlikte Wall Street'in Ethereum'un şu anki iş modelini ve geleceğini nasıl değerlendirdiğine bir göz atalım. 
+İşte Wall Street'in önemli oyuncularından VanEck (ki ETF'lerin ile ünlü olan bu fonun yönettiği 76 milyar ABD Dolarından fazla parası var) son gelişmeler ışığında Ethereum'un önümüzdeki dönemdeki nakit akımlarını tahmin etmeye [çalışmış](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-ethereum-price-prediction-118k-by-2030/). Gelin hep birlikte Wall Street'in Ethereum'un şu anki iş modelini ve geleceğini nasıl değerlendirdiğine bir göz atalım. 
 
 ### Wall Street Ethereum'un iş modelini nasıl görüyor?
 
@@ -12,14 +12,14 @@ Tabii bu dediğimiz durum, belirli ağların yavaş yavaş oturması ve değer y
 
 Ethereum internet üzerinde ticaretin güvenli bir şekilde yapılmasını sağlayan bir alışveriş merkezi olarak tanımlanmış. Kullanıcılar bu alışveriş merkezinde cüzdanları ile etkileşime giriyorlar. Alışveriş yaptıkları yerler ise akıllı kontratlar. Ethereum yazılımı bu merkezin yapısını ve kurallarını belirliyor, onaylayıcılar kuralların uygulandığını kontrol ediyor ve yapılan işlemlerin çetelesini tutarak merkezin güvenliğini sağlıyorlar. Ethereum, sunduğu kısıtlı alanda işlem yapabilmeleri karşılığında kullanıcılardan bir ücret kesiyor. Niye kullanıcılar buna razı? Çünkü Ethereum'un kodu onlara anlaşılır ve güçlü sahiplik hakları sağlayan basit ve kanıtlanabilir kurallar sunuyor. Bu kurallar, kısıtlanamaz (engellenemez) işletmeler ve özgür bir alışveriş ortamı sağlayan bir platform yaratıyor. 
 
-İşte Ethereum'un şu anki temel iş modeli, üzerinde işlem yapılmasını sağlayacak sonradan değiştirilemez kısıtlı bir alan (ingilizcesi blockspace) ve bu kısıtlı alanda işlem yapanları sıraya koyma hakkından [^2] (MEV maksimal-extractable value) oluşuyor. 
+İşte Ethereum'un şu anki temel iş modeli, üzerinde işlem yapılmasını sağlayacak sonradan değiştirilemez kısıtlı bir alan (ingilizcesi blockspace) ve bu kısıtlı alanda işlem yapanları sıraya koyma hakkından [^2] (MEV maximal-extractable value) oluşuyor. 
 
 ### Peki gelir modeli ne?
 Ethereum'un sattığı bu alan üzerindeki her tür aktivite gelir olarak sayılıyor. Bu gelirler birkaç temel kaleme ayrılmış. Baz, kötümser (ayı) ve iyimser (boğa) olarak adlandırılan bu senaryolara göre ETH'nin gelir kalemlerinin özetini aşağıdaki tabloda bulabilirsiniz.
 
 | ![VanEck_gelir_kalemleri](/assets/ETH-gelir-senaryosu-VanEck.png)|
 |:--:| 
-| *ETH'nin 2030 yılında beklenen gelir kalemleri. Kaynak:[VanEck Research](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-ethereum-price-prediction-118k-by-2030/))*|
+| *ETH'nin 2030 yılında beklenen gelir kalemleri. Kaynak: [VanEck Research](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-ethereum-price-prediction-118k-by-2030/)*|
 
 Gelin şimdi de bu gelir kalemleri ile birlikte değerlemeyi oluşturan temel varsayımlara bakalım şimdi de. 
 
@@ -37,7 +37,7 @@ Tabii burada hemen akla, EIP 1559 ile birlikte yakılmaya başlayan tokenler gel
 #### İşlemleri sıraya koyma hakkı (bir başka deyişle MEV) gelirleri
 Yukarıda iş modelinin bir parçası olarak saydığımız işlemleri sıraya koyma hakkı da bir gelir kalemi olarak yazılıyor. Neden? Normalde işlemleri öne koyma ücreti eskiden madencilere verilirken şimdilerde blokları oluşturan özel blok yapıcılara (inşaatçılar ya da ingilizcesi builders) veriliyor. Önümüzdeki dönemde özellikle bu alanda uzmanlaşmış Flashbots'un yeni güncellemeleri ile birlikte, kullanılacak blok alanı müzayede karşılığı satılacak ve geliri onaylayıcılara aktarılacak. 
 
-Peki bu gelir nasıl hesaplanmış? MEV'nin zincir üzerindeki aktivite ile bağlantısından dolayı tahmin edilmesi oldukça zor. Bunun yerine MEV'nin bir nevi zincir üzerindeki varlıklar üzerindeki bir 'yönetim ücreti' gibi değerlendirilebileceği düşünülmüş. Bunun sonucu bugün sisteme kilitlenmiş varlıkların %2'si gibi bir oran hesaplanmış. Önümüzdeki dönemde ise gerek protokol ve uygulamaların MEV önlemek için yapacakları çalışmalar, zincir üzerindeki varlıkların dönüş hızının azalması ve uygulamaların kazandıkları MEV ücretinin bir kısmını kullanıcılara geri vermelerinden ötürü bu rakamın %0.10'e kadar ineceği öngörülmüş. 
+Peki bu gelir nasıl hesaplanmış? MEV'nin zincir üzerindeki aktivite ile bağlantısından dolayı tahmin edilmesi oldukça zor. Bunun yerine MEV'nin bir nevi zincir üzerindeki varlıklar üzerindeki bir 'yönetim ücreti' gibi değerlendirilebileceği düşünülmüş. Bunun sonucu bugün sisteme kilitlenmiş varlıkların %2'si gibi bir oran hesaplanmış. Önümüzdeki dönemde ise gerek protokol ve uygulamaların MEV'yi önlemek için yapacakları çalışmalar, zincir üzerindeki varlıkların dönüş hızının azalması ve uygulamaların kazandıkları MEV ücretinin bir kısmını kullanıcılara geri vermelerinden ötürü bu rakamın %0.10'e kadar ineceği öngörülmüş.
 
 #### Gelecekte çıkacak olan restaking gelirleri
 Rapor için ilgi çeken bir nokta, gelecekte oluşacak bir gelir modeli olarak önceki bir yazımızda kısaca değindiğimiz Eigenlayer tarzı gelirlerin konmuş olması. Ethereum üzerine rehin edilmiş ETH'lerin başka ağ ya da uygulamaların güvenliğini sağlayabilmek için tekrar rehin edilebilmesi (ingilizcesi restaking) onaylayıcıların kazanabileceği ekstra bir gelir kalemi olarak yer alıyor. 
@@ -45,9 +45,9 @@ Rapor için ilgi çeken bir nokta, gelecekte oluşacak bir gelir modeli olarak �
 Burada gelecekte ETH'lerin %10'unun başka zincirlere ödünç verilebileceğini ancak artan risk nedeniyle normalde staking için kazanılan ücretin iki katının gelir olarak beklenebileceği vurgulanmış. 
 
 #### Peki ya 2. Seviye çözümler
-Ethereum'un yüksek işlem ücretleri herkesin bildiği bir gerçek. Bunun çözümü olarak Ethereum'un sunduğu öneri işlemlerin ikinci seviye çözümlere kayarak, değerli blok alanını meşgul etmemesi. İkinci seviye çözümlerinin gelir modelinin aynı birinci seviyede olduğu gibi, işlemlerden alınacak işlem ücreti ile birlikte işlemleri sıraya koyma ve önceliğe alma karşılığı alacakları komisyonlar olacak. Şu anda ikinci seviye çözümler gas ücretlerine bağlı olarak aldıkların komisyonların %15 ile %40'ını Ethereum'a güvenlik ücreti olarak veriyorlar. 
+Ethereum'un yüksek işlem ücretleri herkesin bildiği bir gerçek. Bunun çözümü olarak Ethereum'un sunduğu öneri işlemlerin ikinci seviye çözümlere kayarak, değerli blok alanını meşgul etmemesi. İkinci seviye çözümlerinin gelir modelinin aynı birinci seviyede olduğu gibi, işlemlerden alınacak işlem ücreti ile birlikte işlemleri sıraya koyma ve önceliğe alma karşılığı alacakları komisyonlar olacak. Şu anda ikinci seviye çözümler gas ücretlerine bağlı olarak aldıkları komisyonların %15 ile %40'ını Ethereum'a güvenlik ücreti olarak veriyorlar. 
 
-Uzun vadede, Ethereum üzerindeki işlemlerin %98'inin ikinci seviye çözümler üzerinde yapılacağı düşünülmüş. İkinci seviyedeki işlem maliyetlerinin birinci seviyenin %1'ine denk olanacağı söyleniyor. Her ikisi de mantıklı. Yine de kurulacak onlarca ikinci seviye çözümün yaratacağı rekabet nedeniyle bu çözümlerin kazandıkları komisyonun sadece %10'unu tutup kalanını Ethereum'a işlem ücreti vereceği öngörülmüş. Bu arada bunca işlemin ikinci seviye çözümlere kaymasına rağmen, sisteme kilitlenen paranın hâlâ %50'sinin Ethereum birinci seviyede kalacağı düşünülmüş. Bu da mantıklı, zira özellikle büyük varlık ya da işlemler ikinci seviye çözümlere güvenmeyerek Ethereum üzerinde yaşayacaklar. Zaten belki de uzun vadede 'astarı yüzünden pahalıya geldiği için' hiçbir ufak işlem için Ethereum kullanılmayacak. 
+Uzun vadede, Ethereum üzerindeki işlemlerin %98'inin ikinci seviye çözümler üzerinde yapılacağı düşünülmüş. İkinci seviyedeki işlem maliyetlerinin birinci seviyenin %1'ine denk olanacağı söyleniyor. Her ikisi de mantıklı. Yine de kurulacak onlarca ikinci seviye çözümün yaratacağı rekabet nedeniyle bu çözümlerin kazandıkları komisyonun sadece %10'unu tutup kalanını Ethereum'a işlem ücreti vereceği öngörülmüş. Bu arada bunca işlemin ikinci seviye çözümlere kaymasına rağmen, sistemde duran paranın hâlâ %50'sinin Ethereum birinci seviyede kalacağı düşünülmüş. Bu da mantıklı, zira özellikle büyük varlık ya da işlemler ikinci seviye çözümlere güvenmeyerek Ethereum üzerinde yaşayacaklar. Zaten belki de uzun vadede 'astarı yüzünden pahalıya geldiği için' hiçbir ufak işlem için Ethereum kullanılmayacak. 
 
 ### Ve değerleme hesabı
 
@@ -55,20 +55,10 @@ Biliyorum, pek çoğunuz üst kısımları okumadan buraya atladı. Aşağıda, 
 
 | ![VanEck_ETH_tum-varsayimlar](/assets/ETH-tum-senaryolar-VanEck.png)|
 |:--:| 
-| *ETH'nin 2030 yılı değerlemesinin tüm varsayımları. Kaynak:[VanEck Research](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-ethereum-price-prediction-118k-by-2030/))*|
+| *ETH'nin 2030 yılı değerlemesinin tüm varsayımları. Kaynak:[VanEck Research](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-ethereum-price-prediction-118k-by-2030/)*|
 
 ### Sonuç 
 VanEck'in yaptığı değerleme çalışması Wall Street'in Ethereum'a nasıl baktığını göstermesi açısından güzel bir örnek. Rakamların genişliğine, varsayımların bulanıklığına çok da takılmayın. Raporun ilginç olan kısmı gelecekten Ethereum üzerindeki büyümenin nereden olabileceğini, hangi alanlardan gelir kazanılabileceğini göstermesi.  Her ne kadar,  'degen' kültürü etkisiyle hiç bir işe yaramayan kurbağa tokenleri milyar dolar seviyesinde değerlemelere ulaşabiliyor olsalar da, uzun vadede hâlâ finansın temel prensiplerini göz ardı etmemek ve yatırımları ona göre değerlendirmekte fayda var. 
-
-
-
-
-
-
-
-
-
-Hele bir de Bitcoin gibi sadece dijital para olmayı amaçlayan bir yatırım aracı iseniz işiniz daha da zor. Neyse, Bitcoin'i bir tarafa bırakacak 
 
 [^2]: İşlemleri sıraya koymak önemli, çünkü erken işlem pek çok avantaj getirebiliyor. Bu nedenle kullanıcılar işlemleri çabuk bitsin diye ekstradan ciddi bir işlem ücreti ödüyorlar. 
 
