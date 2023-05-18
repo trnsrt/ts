@@ -58,7 +58,7 @@ Biliyorum, pek çoğunuz üst kısımları okumadan buraya atladı. Aşağıda, 
 | *ETH'nin 2030 yılı değerlemesinin tüm varsayımları. Kaynak:[VanEck Research](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-ethereum-price-prediction-118k-by-2030/)*|
 
 ### Sonuç 
-VanEck'in yaptığı değerleme çalışması Wall Street'in Ethereum'a nasıl baktığını göstermesi açısından güzel bir örnek. Rakamların genişliğine, varsayımların bulanıklığına çok da takılmayın. Raporun ilginç olan kısmı gelecekten Ethereum üzerindeki büyümenin nereden olabileceğini, hangi alanlardan gelir kazanılabileceğini göstermesi.  Her ne kadar,  'degen' kültürü etkisiyle hiç bir işe yaramayan kurbağa tokenleri milyar dolar seviyesinde değerlemelere ulaşabiliyor olsalar da, uzun vadede hâlâ finansın temel prensiplerini göz ardı etmemek ve yatırımları ona göre değerlendirmekte fayda var. 
+VanEck'in yaptığı değerleme çalışması Wall Street'in Ethereum'a nasıl baktığını göstermesi açısından güzel bir örnek. Rakamların genişliğine, varsayımların bulanıklığına çok da takılmayın. Raporun ilginç olan kısmı gelecekten Ethereum üzerindeki büyümenin nereden olabileceğini, hangi alanlardan gelir kazanılabileceğini göstermesi.  Her ne kadar,  'degen' kültürü etkisiyle hiç bir işe yaramayan kurbağa tokenleri milyar dolar seviyesinde piyasa değerlerine ulaşabiliyor olsalar da, uzun vadede hâlâ finansın temel prensiplerini göz ardı etmemek ve yatırımları ona göre değerlendirmekte fayda var. 
 
 [^2]: İşlemleri sıraya koymak önemli, çünkü erken işlem pek çok avantaj getirebiliyor. Bu nedenle kullanıcılar işlemleri çabuk bitsin diye ekstradan ciddi bir işlem ücreti ödüyorlar. 
 
