@@ -62,7 +62,7 @@ VanEck'in yaptığı değerleme çalışması Wall Street'in Ethereum'a nasıl b
 
 [^2]: İşlemleri sıraya koymak önemli, çünkü erken işlem pek çok avantaj getirebiliyor. Bu nedenle kullanıcılar işlemleri çabuk bitsin diye ekstradan ciddi bir işlem ücreti ödüyorlar. 
 
-[^3]: Genelde gelir modellemesi yapılırken sadece baz ücret alınıyor, verilen bahşişler onaylayıcılara ödendiği için gelir sayılmıyor. VanEck sonuçta bu ödenen bahşişin de blok alanı satış aktivitesini bir parçası olduğunu öne sürerek burada diğer modellemelerden ayrılıyor. 
+[^3]: Genelde gelir modellemesi yapılırken sadece baz ücret alınıyor, verilen bahşişler onaylayıcılara ödendiği için gelir sayılmıyor. VanEck sonuçta bu ödenen bahşişin de blok alanı satış aktivitesinin bir parçası olduğunu öne sürerek burada diğer modellemelerden ayrılıyor. 
 
 [^4]: Bu konuda yazılmış [Blokzincirlerin zayıf karnı MEV](/genel/2022/12/05/blokzincirlerin-zayif-karni-mev.html) yazımıza göz atabilirsiniz. 
 
