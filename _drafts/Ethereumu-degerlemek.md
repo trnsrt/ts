@@ -12,7 +12,7 @@ Tabii bu dediğimiz durum, belirli ağların oturması ve değer yaratmaya başl
 
 Ethereum internet üzerinde ticaretin güvenli bir şekilde yapılmasını sağlayan bir alışveriş merkezi olarak tanımlanmış. Kullanıcılar bu alışveriş merkezinde cüzdanları ile etkileşime giriyorlar. Alışveriş yaptıkları yerler ise akıllı kontratlar. Ethereum yazılımı bu merkezin yapısını ve kurallarını belirliyor, onaylayıcılar kuralların uygulandığını kontrol ediyor ve yapılan işlemlerin çetelesini tutarak merkezin güvenliğini sağlıyorlar. Ethereum, sunduğu kısıtlı alanda işlem yapabilmeleri karşılığında kullanıcılardan bir ücret kesiyor. Niye kullanıcılar buna razı? Çünkü Ethereum'un kodu onlara anlaşılır ve güçlü sahiplik hakları sağlayan basit ve kanıtlanabilir kurallar sunuyor. Bu kurallar, kısıtlanamaz (engellenemez) işletmeler ve özgür bir alışveriş ortamı sağlayan bir platform yaratıyor. 
 
-İşte Ethereum'un şu anki temel iş modeli, üzerinde işlem yapılmasını sağlayacak sonradan değiştirilemez kısıtlı bir alan (ingilizcesi blockspace) ve bu kısıtlı alanda işlem yapanları sıraya koyma hakkından [^2] (MEV maximal-extractable value) oluşuyor. 
+İşte Ethereum'un şu anki temel iş modeli, üzerinde işlem yapılmasını sağlayacak sonradan değiştirilemez kısıtlı bir alan (ingilizcesi blockspace) ve bu kısıtlı alanda işlem yapanları sıraya koyma hakkından [^2] (MEV maximal-extractable value) oluşuyor[^4]. 
 
 ### Peki gelir modeli ne?
 Ethereum'un sattığı bu alan üzerindeki her tür aktivite gelir olarak sayılıyor. Bu gelirler birkaç temel kaleme ayrılmış. Baz, kötümser (ayı) ve iyimser (boğa) olarak adlandırılan bu senaryolara göre ETH'nin gelir kalemlerinin özetini aşağıdaki tabloda bulabilirsiniz.
