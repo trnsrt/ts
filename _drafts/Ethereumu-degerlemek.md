@@ -53,7 +53,7 @@ Uzun vadede, Ethereum üzerindeki işlemlerin %98'inin ikinci seviye çözümler
 
 Biliyorum, pek çoğunuz üst kısımları okumadan buraya atladı. Aşağıda, yukarıdaki verilen kriterlere baz olarak oluşturulmuş üç farklı senaryoya göre kullanılan varsayımları ve sonucunda ETH'nin 2030 yılında alması beklenen değerleri bulacaksınız. Değerin bu kadar dipte ve ayda bulunmasının temel nedeni, blokzincir gibi yeni ve gelişmekte olan bir teknolojide bundan 7 yıl sonrasını tahmin etmeye çalışmanın imkansızlığı. 
 
-| ![VanEck_ETH_tum-varsayimlar](/assets/ETH-tum-senaryolar-VanEck.png)|
+| ![VanEck_ETH_tum-varsayimlar](/assets/ETH-tum-senaryolar-VanEck_v2.png)|
 |:--:| 
 | *ETH'nin 2030 yılı değerlemesinin tüm varsayımları. Kaynak:[VanEck Research](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-ethereum-price-prediction-118k-by-2030/)*|
 
