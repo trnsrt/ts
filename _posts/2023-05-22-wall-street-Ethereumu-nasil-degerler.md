@@ -1,10 +1,23 @@
+---
+layout: post
+title:  "Wall Street Ethereum'u nasıl değerler?"
+date:   2023-05-22 12:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
 Bu yazımızda Wall Street'in önemli oyuncularından VanEck tarafından Ethereum için yapılan değerleme çalışmasını inceleyeceğiz. 
 
 Kripto dünyasında yer alan yatırım araçlarını klasik metodlar ile değerlemek oldukça zor. Bunun temel nedeni, çok yeni olduklarından potansiyel kullanım alanlarının henüz daha kestirilememesi. Bu durum, kriptoparaların değerinin tamamen spekülatif olarak belirlenmesine neden oluyor ve fiyat üzerinde ciddi dalgalanmalar yaratıyor. Bu da kriptoparaların kurumsal yatırımcı tarafında gerek anlaşılmasını gerekse de yatırım yapılmasını zorlaştırıyor. 
 
 Tabii bu dediğimiz durum, belirli ağların oturması ve değer yaratmaya başlaması ile birlikte yavaş yavaş değişmeye başladı. Özellikle gerçekleşen son iyileştirmeler sonrası Wall Street'in Ethereum'a olan ilgisinin artmaya başladığını görmeye başladık. Nedir bu iyileştirmeler? Geçtiğimiz yıl Eylül ayında PoW'den PoS'e geçiş ile birlikte enerji tüketiminin %99 oranında azalması, daha önce Ağustos 2022'de hayata geçen fazla ödenen işlem ücretlerinin yakılması ve son olarak Mart 2023'de hayata geçen staking yapılan ETH'lerin çekilmesine olanak sağlanması gibi. 
 
-İşte Wall Street'in önemli oyuncularından VanEck (ki ETF'leri ile ünlü olan bu fonun yönettiği 76 milyar ABD Dolarından fazla parası var) son gelişmeler ışığında Ethereum'un önümüzdeki dönemdeki nakit akımlarını tahmin etmeye [çalışmış](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-ethereum-price-prediction-118k-by-2030/). Gelin hep birlikte Wall Street'in Ethereum'un şu anki iş modelini ve geleceğini nasıl değerlendirdiğine bir göz atalım. 
+İşte Wall Street'in önemli oyuncularından VanEck (ki ETF'leri ile ünlü olan bu fonun yönettiği 76 milyar ABD Dolarından fazla parası var) son gelişmeler ışığında Ethereum'un önümüzdeki dönemdeki nakit akımlarını tahmin etmeye [çalışmış](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-ethereum-price-prediction-118k-by-2030/). Gelin hep birlikte Wall Street'in Ethereum'un şu anki iş modelini ve geleceğini nasıl değerlendirdiğine bir göz atalım.
+
+| ![wall-street](/assets/wall-street-4758079_800.jpg)|
+|:--:| 
+| *Image by [Tumisu ](https://pixabay.com/users/tumisu-148124/) from [Pixabay](https://pixabay.com/)*|
+
 
 ### Wall Street Ethereum'un iş modelini nasıl görüyor?
 
@@ -59,6 +72,16 @@ Biliyorum, pek çoğunuz üst kısımları okumadan buraya atladı. Aşağıda, 
 
 ### Sonuç 
 VanEck'in yaptığı değerleme çalışması Wall Street'in Ethereum'a nasıl baktığını göstermesi açısından güzel bir örnek. Rakamların genişliğine, varsayımların bulanıklığına çok da takılmayın. Raporun ilginç olan kısmı gelecekten Ethereum üzerindeki büyümenin nereden olabileceğini, hangi alanlardan gelir kazanılabileceğini göstermesi.  Her ne kadar,  'degen' kültürü etkisiyle hiç bir işe yaramayan kurbağa tokenleri milyar dolar seviyesinde piyasa değerlerine ulaşabiliyor olsalar da, uzun vadede hâlâ finansın temel prensiplerini göz ardı etmemek ve yatırımları ona göre değerlendirmekte fayda var. 
+---
+
+*Not 1: Bu yazı ilk olarak 22 Mayıs 2023'de [BTCHaber'de yayınlandı](https://www.btchaber.com/wall-street-ethereumu-nasil-degerliyor/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
+
+---
+
 
 [^2]: İşlemleri sıraya koymak önemli, çünkü erken işlem pek çok avantaj getirebiliyor. Bu nedenle kullanıcılar işlemleri çabuk bitsin diye ekstradan ciddi bir işlem ücreti ödüyorlar. 
 
