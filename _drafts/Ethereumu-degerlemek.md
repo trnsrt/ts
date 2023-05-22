@@ -44,7 +44,7 @@ Raporda ilgi çeken bir nokta, gelecekte oluşacak bir gelir modeli olarak önce
 
 Burada gelecekte ETH'lerin %10'unun başka zincirlere ödünç verilebileceği ancak artan risk nedeniyle normalde staking için kazanılan ücretin iki katının gelir olarak beklenebileceği vurgulanmış. 
 
-#### Peki ya 2. Seviye çözümler
+#### Peki ya 2. seviye çözümler
 Ethereum'un yüksek işlem ücretleri herkesin bildiği bir gerçek. Bunun çözümü olarak Ethereum'un sunduğu öneri işlemlerin ikinci seviye çözümlere kayarak, değerli blok alanını meşgul etmemesi. İkinci seviye çözümlerinin gelir modelinin aynı birinci seviyede olduğu gibi, işlemlerden alınacak işlem ücreti ile birlikte işlemleri sıraya koyma ve önceliğe alma karşılığı alacakları komisyonlar olacak. Şu anda ikinci seviye çözümler gas ücretlerine bağlı olarak aldıkları komisyonların %15 ile %40'ını Ethereum'a güvenlik ücreti olarak veriyorlar. 
 
 Uzun vadede, Ethereum üzerindeki işlemlerin %98'inin ikinci seviye çözümler üzerinde yapılacağı düşünülmüş. İkinci seviyedeki işlem maliyetlerinin birinci seviyenin %1'ine denk olacağı söyleniyor. Her ikisi de mantıklı. Yine de kurulacak onlarca ikinci seviye çözümün yaratacağı rekabet nedeniyle bu çözümlerin kazandıkları komisyonun sadece %10'unu tutup kalanını Ethereum'a işlem ücreti vereceği öngörülmüş. Bu arada bunca işlemin ikinci seviye çözümlere kaymasına rağmen, sistemde duran paranın hâlâ %50'sinin Ethereum birinci seviyede kalacağı düşünülmüş. Bu da mantıklı, zira özellikle büyük varlık ya da işlemler ikinci seviye çözümlere güvenmeyerek Ethereum üzerinde yaşayacaklar. Zaten belki de uzun vadede 'astarı yüzünden pahalıya geldiği için' hiçbir ufak işlem için Ethereum kullanılmayacak. 
