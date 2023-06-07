@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "SEC'nin Binance ve Coinbase davaları"
+date:   2023-06-07 12:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
 Bu yazımızda SEC'in bu hafta başında peş peşe açtığı iki davanın ortaya çıkardığı sorulara yanıtlar arayacağız. 
 
 Kripto dünyasında yavaş hafta diye bir kavram yok. Bu haberciler ve köşe yazarları için bulunmaz bir nimet. Başka sektörlerde yaşanan 'bir şirket bir ürün piyasaya sürse de onun PR açıklamasından bir yazı çıkarsak' derdi bu alanda kesinlikle yok. Bakın işte, daha bu hafta ABD'nin Sermaye Piyasaları Kurumu olan SEC'nin (Securities Exchange Commission) kripto dünyasının iki büyük alım-satım platformuna açtığı davalar bir anda [gündeme oturuverdi](https://www.btchaber.com/sec-coinbasee-dava-acti/). Gelin bu yazımızda bu davaların önemi ile Binance, Coinbase ve genel olarak kripto dünyasına etkilerini anlamaya çalışalım. 
@@ -34,7 +42,16 @@ Coinbase davasında ise SEC'nin elini çok daha zayıf görüyorum. Coinbase ABD
 Diğer taraftan bir başka önemli konu ise SEC'nin menkul kıymet olarak nitelediği kriptopaların akibetinde. Bu kriptoparalar yeni kanun çıkana kadar yüksek ihtimalle ABD'deki kriptopara alım-satım platformlarında işlem göremeyecekler. Coinbase'in şu aşamada nasıl bir aksiyon alacağı bilinmemekle birlikte, geçmişte SEC'nin XRP'ye açtığı dava sonrası bu kriptoparayı listelemeyi bıraktığı biliniyordu. Coinbase'in önünde üç yol bulunuyor. Birincisi hemen bu kriptopaları alım-satıma kapatmak - ki bu zayıf bir ihtimal. İkincisi, SEC ile kendi davası bitene kadar listelemeye devam etmeleri - ki bu da iyimser bir ihtimal.  Üçüncü ve olmasını beklediğim ihtimal ise, SEC'nin XRP davasının sonucuna göre hareket etmeleri.
 
 ### Sonuç
-SEC'nin davasını felaket olarak niteleyenler olsa da, bunu belirsizliğin ortadan kalkmasına yönelik bir adım olarak görmek daha doğru olabilir. Binance'in geçmişte 'sınırları zorlayarak/çiğneyerek' yaptığı hareketlerin sonuçlarına katlanması gerekecek. Coinbase'in ise üzerindeki en büyük belirsizliğin ortadan kalkması ve en azından ne ile suçlandıklarını bildikleri için daha rahat hareket edeceğini tahmin ediyorum. Kriptoparalar tarafında ise ABD'li yasa koyucuların hareketlerini merakla bekliyoruz. 
+SEC'nin davasını felaket olarak niteleyenler olsa da, bunu belirsizliğin ortadan kalkmasına yönelik bir adım olarak görmek daha doğru olabilir. Binance'in geçmişte 'sınırları zorlayarak/çiğneyerek' yaptığı hareketlerin sonuçlarına katlanması gerekecek. Coinbase'in ise üzerindeki en büyük belirsizliğin ortadan kalkması ve en azından ne ile suçlandıklarını bildikleri için daha rahat hareket edeceğini tahmin ediyorum. Kriptoparalar tarafında ise ABD'li yasa koyucuların hareketlerini merakla bekliyoruz.
 
+---
 
-[^1]: ABD'nin bu alanda aldığı aksiyonları merak edenler '[ABD'nin kriptoya bakışı değişiyor mu?](https://www.btchaber.com/abdnin-kriptoya-bakisi-degisiyor-mu/)' başlıklı yazımıza göz atabilirler. 
+*Not 1: Bu yazı ilk olarak 7 Haziran 2023'de [BTCHaber'de yayınlandı](https://www.btchaber.com/secnin-binance-ve-coinbase-davalari/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
+
+---
+
+[^1]: ABD'nin bu alanda aldığı aksiyonları merak edenler '[ABD'nin kriptoya bakışı değişiyor mu?](/genel/2023/02/22/abdnin-kriptoya-bakisi-degisiyor-mu.html)' başlıklı yazımıza göz atabilirler. 
