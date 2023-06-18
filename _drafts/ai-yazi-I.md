@@ -12,7 +12,7 @@ Zamanla bu alanda yapılan araştırmalar iki ana kola ayrılmaya başlıyor. Bu
 
 Hayatımıza dokunan ilk örnekleri bu iki alandan ilkinde görüyoruz (IBM'in insanları yenen satranç zekası gibi). Son zamanlarda ise diğer ekol, yani AGI da denen (ingilizcesi Artificial General Intelligence, Türkçeye genel -kapsamlı- yapay zeka) farklı çoklu işleri gerçekleştirebilen uygulamaların ön plana çıkışına tanıklık ediyoruz. 
 
-Her ne kadar uzunca bir süredir aktif olarak kullanılıyor olsa da, özellikle geçtiğimiz yıl ortaya çıkan ChatGPT bu alanın popülerleşmesinde bir dönüm noktası oldu. Zira, birebir olarak deneyimleyebildiğimiz bu uygulama, yapay zeka alanında yaşanan gelişmeleri ve hayatımıza getirebileceği potansiyel değişimi adeta bir tokat gibi yüzümüze vurdu. Öyle ki, sıfırdan yüz milyon kullanıcıya sadece iki ayda ulaşan ChatGPT uygulaması bu alanda bir [rekor kırdı}(https://www.reuters.com/technology/chatgpt-sets-record-fastest-growing-user-base-analyst-note-2023-02-01/) (Bundan önceki rekor dokuz ay ile TikTok'a aitti. Üçüncü sıradaki Instagram ise bu sayıya ancak iki buçuk yılda varabildi). 
+Her ne kadar uzunca bir süredir aktif olarak kullanılıyor olsa da, özellikle geçtiğimiz yıl ortaya çıkan ChatGPT bu alanın popülerleşmesinde bir dönüm noktası oldu. Zira, birebir olarak deneyimleyebildiğimiz bu uygulama, yapay zeka alanında yaşanan gelişmeleri ve hayatımıza getirebileceği potansiyel değişimi adeta bir tokat gibi yüzümüze vurdu. Öyle ki, sıfırdan yüz milyon kullanıcıya sadece iki ayda ulaşan ChatGPT uygulaması bu alanda bir [rekor kırdı](https://www.reuters.com/technology/chatgpt-sets-record-fastest-growing-user-base-analyst-note-2023-02-01/) (Bundan önceki rekor dokuz ay ile TikTok'a aitti. Üçüncü sıradaki Instagram ise bu sayıya ancak iki buçuk yılda varabildi). 
 
 ### İyi de tam olarak neler yapabilir yapay zeka? Neden bu kadar ilgi çekti? 
 
@@ -48,7 +48,7 @@ Meşhur Gartner'in hype döngüsüne baktığımızda genelde şunu görürüz: 
 
 | ![gartner-hype-cycle](/assets/gartner-hype-cycle-2022_v2.png)|
 |:--:| 
-| *Kaynak:[Gartner](https://www.gartner.co.uk/en/articles/what-s-new-in-the-2022-gartner-hype-cycle-for-emerging-technologies))*|
+| *Kaynak:[Gartner](https://www.gartner.co.uk/en/articles/what-s-new-in-the-2022-gartner-hype-cycle-for-emerging-technologies)*|
 
 Yapay zekada bu durumun çok da geçerli olmadığını belirtmeliyim. Zira, yapay zeka kendi kış dönemini bundan yıllar önce yaşadı. Başta da bahsettik; yapay zeka aslına bakarsanız çok eski bir kavram. Gerçekleşmesinin önündeki en büyük engel kullanması gerekli veri setinin büyüklüğü nedeniyle onu hızlı şekilde işleyecek donanım gücünün (çiplerin) yeterli olmaması idi. Son on yılda bu alandaki gelişmeler yapay zekanın önündeki bu en büyük engeli kaldırmış gibi görünüyor. 
 
