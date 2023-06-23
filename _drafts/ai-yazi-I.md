@@ -10,7 +10,7 @@ Aslına bakarsanız, yapay zeka kavramı üzerine yapılan çalışmalar yetmiş
 
 Zamanla bu alanda yapılan araştırmalar iki ana kola ayrılmaya başlıyor. Bunlardan ilki, tek bir işte uzmanlaşmaya çalışan yapay zeka araçları. İkincisi ise; aynı bir insan gibi, önüne gelen herhangi bir iş ya da problemin üstesinden gelmeye çalışan genel amaçlı yapay zeka uygulamaları. 
 
-Hayatımıza dokunan ilk örnekleri bu iki alandan ilkinde görüyoruz (IBM'in insanları yenen satranç zekası gibi). Son zamanlarda ise diğer ekol, yani AGI da denen (ingilizcesi Artificial General Intelligence, Türkçesi genel -kapsamlı- yapay zeka) farklı ve çoklu işleri gerçekleştirebilen uygulamaların ön plana çıkışına tanıklık ediyoruz. 
+Hayatımıza dokunan ilk örnekleri bu iki alandan birincisinde görüyoruz (IBM'in insanları yenen satranç zekası gibi). Son zamanlarda ise diğer ekol, yani AGI da denen (ingilizcesi Artificial General Intelligence, Türkçesi genel -kapsamlı- yapay zeka) farklı ve çoklu işleri gerçekleştirebilen uygulamaların ön plana çıkışına tanıklık ediyoruz. 
 
 Her ne kadar uzunca bir süredir aktif olarak kullanılsa da, özellikle geçtiğimiz yıl ortaya çıkan ChatGPT bu alanın popülerleşmesinde bir dönüm noktası oldu. Zira, birebir olarak deneyimleyebildiğimiz bu uygulama, yapay zeka alanında yaşanan gelişmeleri ve hayatımıza getirebileceği potansiyel değişimi adeta bir tokat gibi yüzümüze vurdu. Öyle ki, sıfırdan yüz milyon kullanıcıya sadece iki ayda ulaşan ChatGPT uygulaması bu alanda bir [rekor kırdı](https://www.reuters.com/technology/chatgpt-sets-record-fastest-growing-user-base-analyst-note-2023-02-01/) (Bundan önceki rekor dokuz ay ile TikTok'a aitti. Üçüncü sıradaki Instagram ise bu sayıya ancak iki buçuk yılda ulaşabildi). 
 
@@ -34,13 +34,13 @@ Derin öğrenmenin atası sayılabilecek makine öğrenmesinin temel gereksiniml
 
 Hepimiz kendimizden ya da arkadaşlarımızdan biliriz; bulmaca tutkunu olanlar bir süre sonra hem parçaları bulma hem onları birleştirme hem de nihai resmi anlama konusunda çok daha hızlanırlar. İşte makineler de kendini geliştirebilmek için bolca tekrar yapıyorlar. Peki tekrar ederek kendilerini nasıl geliştiriyorlar? Bize sunduğu sonuçlara verdiğimiz cevaplara göre (iyi-kötü, mantıklı-yanlış, güzel-çirkin, gerçekçi-absürt gibi) kendi içinde bulunan yapay sinirlerin arasındaki ilişkileri ve bunların ağırlığını değiştirerek[^5].
 
-Buradaki büyük potansiyel de işte bu kendini geliştirebilme noktasında ortaya çıkıyor. Zira, insanlarla girdiği her etkileşim sonra kendisini daha da geliştirebiliyor olması müthiş bir özellik. (ChatGPT'nin neden bedava olduğunu hiç düşündünüz mü? Biz onu bedava kullanırken o da bizim ona verdiğimiz tepkilere göre kendisini geliştiriyor çünkü!). 
+Buradaki büyük potansiyel de işte bu kendini geliştirebilme noktasında ortaya çıkıyor. Zira, insanlarla girdiği her etkileşim sonrası kendisini daha da geliştirebiliyor olması müthiş bir özellik. (ChatGPT'nin neden bedava olduğunu hiç düşündünüz mü? Biz onu bedava kullanırken o da bizim ona verdiğimiz tepkilere göre kendisini geliştiriyor çünkü!). 
 
 Geçmişte büyük veri setlerinin taranması ya da işlenmesi için gerekli olan donanım teknolojisi (çipler, sunucular) oldukça pahalı olduğu için yapay zeka sadece kurumsal tarafta kısıtlı uygulamalar için kullanılabiliyordu. Son yıllarda gelişen çip teknolojileri ile birlikte hem yapay zekanın işlem hızı ciddi şekilde arttı hem de bireysel kullanıma açılabilecek kadar ucuz bir hale geldi.
 
 Öte yandan unutmamamız gereken bir başka nokta, yapay zeka mimarisinde yaşanan hızlı evrimleşme. Örneğin bir insanı düşünürseniz, yapım süresi dokuz ay, hayatı kavraması ve verimli bir varlık haline gelmesi yaklaşık on sekiz yıl sürüyor. Jenerasyon olarak kendini geliştirmesi yüzyıllar, evrimleşmesi ise onbinlerce yıl alıyor. Yapay zekanın bir insan gibi her seferinde sıfırdan öğrenmek zorunda olmamasının onun gelişimine yapacağı katkıyı hayal edebiliyor musunuz?
 
-Şu an henüz basit işleri yapmayı başaran yapay zekanın, önümüzdeki üç-beş yıl içinde insan seviyesinde zekaya sahip olması, ardından kısa bir süre içinde yukarıda bahsettiğimiz iterasyonlar sayesinde insan zekasından kat be kat üstün süper-zeka (super-intelligence) seviyesine gelmesinin kişilere, kurumlara ve topluma yaratacağı etkileri şimdiden düşünmekte fayda var. 
+Şu an henüz basit işleri yapmayı başaran yapay zekanın, önümüzdeki üç-beş yıl içinde insan seviyesinde zekaya sahip olması muhtemel. Bunun hemen ardından yukarıda bahsettiğimiz iterasyonlar sayesinde insan zekasından kat be kat üstün süper-zeka (super-intelligence) seviyesine çıkmasının kişilere, kurumlara ve topluma yaratacağı etkileri şimdiden düşünmekte fayda var. 
 
 ### AI bir balon mu? Bu hype bir süre sonra geçer mi?
 
@@ -48,9 +48,9 @@ Meşhur Gartner'in hype döngüsüne baktığımızda genelde şunu görürüz: 
 
 | ![gartner-hype-cycle](/assets/gartner-hype-cycle-2022_v2.png)|
 |:--:| 
-| *Kaynak:[Gartner](https://www.gartner.co.uk/en/articles/what-s-new-in-the-2022-gartner-hype-cycle-for-emerging-technologies)*|
+| *Kaynak: [Gartner](https://www.gartner.co.uk/en/articles/what-s-new-in-the-2022-gartner-hype-cycle-for-emerging-technologies)*|
 
-Yapay zekada bu durumun çok da geçerli olmadığını belirtmeliyim. Zira, yapay zeka kendi kış dönemini bundan yıllar önce yaşadı. Başta da bahsettik; yapay zeka aslına bakarsanız çok eski bir kavram. Gerçekleşmesinin önündeki en büyük engel kullanması gerekli veri setinin büyüklüğü nedeniyle onu hızlı şekilde işleyecek donanım gücünün (çiplerin) yeterli olmamasıydı. Son on yılda bu alandaki gelişmeler yapay zekanın önündeki bu en büyük engeli kaldırmış gibi görünüyor. 
+Yapay zekada bu durumun çok da geçerli olmadığını belirtmeliyim. Zira, yapay zeka kendi kış dönemini bundan yıllar önce yaşadı. Başta da bahsettik; yapay zeka aslına bakarsanız çok eski bir kavram. Gerçekleşmesinin önündeki en büyük engel kullanması gerekli veri setinin büyüklüğü nedeniyle onu hızlı şekilde işleyecek donanım gücünün (çiplerin) yeterli olmamasıydı. Son on yılda yaşanan gelişmeler yapay zekanın önündeki bu en büyük engeli kaldırmış gibi görünüyor. 
 
 Bundan sonra yapay zekanın önündeki iş yazılımının geliştirilmesi, o da zaten yukarıda yazdığımız gibi, kendi kendine olabiliyor. Teknolojik gelişmeler içinde en kolay aşılacak engel yazılım alanında[^1]. 
 
@@ -62,7 +62,7 @@ Burada bir noktayı hatırlatmakta fayda var. Yapay zeka önümüzdeki üç-beş
 Yazımızın bu bölümünde yapay zekayı en basit haliyle [^2] anlamaya ve potansiyelini kavramaya çalıştık. Bundan sonraki bölümde bu yenilikleri hayatımızda nasıl kullanabiliriz, bize ne gibi faydalar sağlayabilir konusuna değineceğiz. Sonrasında bu alanda yaşanan kaygılara ve açık kaynak ile bu sorunlara bir nebze de çare olup olamayacağımıza değineceğiz. 
 
 
-[^1]: Web3 ile ilgili yaptığım tüm konuşmalarda bu noktaya vurgu yapmaya çalışıyorum. Örneğin Metaverse, herkes için çok cazip gibi görünse de, günlük hayata girmesi için daha uzun süre beklememiz gerekiyor. Zira, donanımsal anlamda alınacak çok yol var - kullanılacak ara araçlar (gözlük?), bilgisayarlarımızın işlem kapasitesi (uzakta işleyip makineye indirmek?), kullandığımız ağların kapasitesi (5g ağlar?) gibi çözülmesi için zamana ihtiyaç duyan engeller var. Öte yandan, DeFi benzeri sadece yazılımı dayalı alanlarda ise, özellikle açık kaynağın da desteği ile gelişmelerin olabildiğince hızlı bir şekilde yaşandığını görüyoruz. 
+[^1]: Web3 ile ilgili yaptığım tüm konuşmalarda bu noktaya vurgu yapmaya çalışıyorum. Örneğin Metaverse, herkes için çok cazip gibi görünse de, günlük hayata girmesi için daha uzun süre beklememiz gerekiyor. Zira, donanımsal anlamda alınacak çok yol var - kullanılacak ara araçlar (gözlük?), bilgisayarlarımızın işlem kapasitesi (uzakta işleyip makineye indirmek?), kullandığımız ağların kapasitesi (5G ağlar?) gibi çözülmesi için zamana ihtiyaç duyan engeller var. Öte yandan, DeFi benzeri sadece yazılıma dayalı alanlarda ise, özellikle açık kaynağın da desteği ile gelişmelerin olabildiğince hızlı bir şekilde yaşandığını görüyoruz. 
 
 [^2]: Basitleştirmek adına atladığımız önemli kısımlar için işin uzmanlarından af dileyelim!
 
