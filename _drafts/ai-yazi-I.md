@@ -6,6 +6,10 @@ Yapay zeka bu aralar teknoloji ile ilgilenenlerin bir numaralı gündemi. Hemen 
 
 Yapay zeka en basit anlatımıyla, zeka olarak da nitelendirilen ileri düzey aktiviteleri yapmayı öğrenebilen sistemlerin genel adı. Bu sistemler, tarih boyunca insanların tekelinde olan bu tip entelektüel aktiviteleri sadece öğrenmekle kalmayıp çoğunlukla biz insanlardan daha iyi bir şekilde gerçekleştirebiliyorlar. 
 
+| ![deep_Learning](/assets/deep-learning_800.jpg)|
+|:--:| 
+| *Kaynak: [Dall-E](https://labs.openai.com/s/yevGTNXDHCzV1bKFrAR2TujM)*|
+
 Aslına bakarsanız, yapay zeka kavramı üzerine yapılan çalışmalar yetmiş yıl öncesine dayanıyor[^6]. İlk olarak 1943 yılında yayınlanan bir makale ile açılan defterdeki önemli mihenk taşları arasında, Alan Turing'in 1950 yılında yayınladığı 'Bilgi İşlem Makineleri ve Zeka' makalesi ile 1959 yılında MIT'de kurulan yapay zeka laboratuarı sayılıyor. 
 
 Zamanla bu alanda yapılan araştırmalar iki ana kola ayrılmaya başlıyor. Bunlardan ilki, tek bir işte uzmanlaşmaya çalışan yapay zeka araçları. İkincisi ise; aynı bir insan gibi, önüne gelen herhangi bir iş ya da problemin üstesinden gelmeye çalışan genel amaçlı yapay zeka uygulamaları. 
