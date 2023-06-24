@@ -3,7 +3,7 @@ layout: post
 title:  "Yapay zeka neden bu kadar popüler oldu?"
 date:   2023-06-24 12:17:56 +0300
 categories: Genel
-tags: Yazılar, DeFi
+tags: Yazılar, AI
 ---
 
 
