@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "Yapay zeka neden bu kadar popüler oldu?"
+date:   2023-06-24 12:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
+
 Bir dizi yazıdan oluşacak bu mini serimizin ilkinde yapay zeka kavramının ne olduğunu ve yaratabileceği potansiyeli anlamaya çalışacağız. 
 
 Yapay zeka bu aralar teknoloji ile ilgilenenlerin bir numaralı gündemi. Hemen her gün ortaya çıkan yeni bir ürün ile hem başımız dönüyor hem de içimizi bir tedirginlik kaplıyor. Gelin önce hep birlikte bu yapay zeka denen kavramı anlamaya çalışalım, sonra da neden bu kadar popülerlik kazandığına bakalım[^4].
@@ -65,6 +74,15 @@ Burada bir noktayı hatırlatmakta fayda var. Yapay zeka önümüzdeki üç-beş
 ### Arkası yarın
 Yazımızın bu bölümünde yapay zekayı en basit haliyle [^2] anlamaya ve potansiyelini kavramaya çalıştık. Bundan sonraki bölümde bu yenilikleri hayatımızda nasıl kullanabiliriz, bize ne gibi faydalar sağlayabilir konusuna değineceğiz. Sonrasında bu alanda yaşanan kaygılara ve açık kaynak ile bu sorunlara bir nebze de çare olup olamayacağımıza değineceğiz. 
 
+--
+
+*Not 1: Bu yazı ilk olarak 24 Haziran 2023'de [BTCHaber'de yayınlandı](https://www.btchaber.com/yapay-zeka-neden-bu-kadar-populer-oldu/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
+
+---
 
 [^1]: Web3 ile ilgili yaptığım tüm konuşmalarda bu noktaya vurgu yapmaya çalışıyorum. Örneğin Metaverse, herkes için çok cazip gibi görünse de, günlük hayata girmesi için daha uzun süre beklememiz gerekiyor. Zira, donanımsal anlamda alınacak çok yol var - kullanılacak ara araçlar (gözlük?), bilgisayarlarımızın işlem kapasitesi (uzakta işleyip makineye indirmek?), kullandığımız ağların kapasitesi (5G ağlar?) gibi çözülmesi için zamana ihtiyaç duyan engeller var. Öte yandan, DeFi benzeri sadece yazılıma dayalı alanlarda ise, özellikle açık kaynağın da desteği ile gelişmelerin olabildiğince hızlı bir şekilde yaşandığını görüyoruz. 
 
