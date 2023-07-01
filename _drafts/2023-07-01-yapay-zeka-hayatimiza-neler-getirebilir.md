@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Yapay zeka hayatımıza neler getirebilir?"
+date:   2023-07-01 12:17:56 +0300
+categories: Genel
+tags: Yazılar, AI
+---
+
 Bu yazımızda yapay zekaya pembe gözlükler ile bakarak hayatımıza getireceği olumlu örneklere değineceğiz. 
 
 Yapay zekanın ne kadar büyük bir potansiyeli olabileceğine [bir önceki yazımızda](/genel/2023/06/24/yapay-zeka-neden-bu-kadar-populer-oldu.html) ayrıntıları ile değinmiştik. 
@@ -47,5 +55,11 @@ Yapay zekanın hayatımıza katabilecekleri gerçekten çok etkileyici. Bu deği
 
 —-
 
+*Not 1: Bu yazı ilk olarak 1 Temmuz 2023'de [BTCHaber'de yayınlandı]()*
 
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
+
+---
 [^1]: Örneğin, Mark Zuckerberg'in kurucusu olduğu Facebook, ismini Meta yapacak kadar büyük bir dönüşümün ardından, Nisan 2023'deki ilk çeyrek açıklamasında metaverse aktivitelerini azaltıp yapay zekaya odaklanacağını [açıkladığı](https://www.theguardian.com/technology/2023/apr/26/meta-q1-earnings-report-2023) gün hisse fiyatında %9 artış yaşadı.
