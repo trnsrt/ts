@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Yapay zeka hayatımıza neler getirebilir?"
-date:   2023-07-01 12:17:56 +0300
+date:   2023-07-03 12:17:56 +0300
 categories: Genel
 tags: Yazılar, AI
 ---
@@ -33,6 +33,10 @@ Andreessen'e göre insanlık tarihinde yaşanan her tür gelişmenin temel neden
 
 Sonuç olarak Andreessen'e göre yapay zekanın medeniyetimizin yarattığı, elektrik ve mikroçipler ile eş değer hatta onların daha ötesinde önemli bir 'şey' olma ihtimali yüksek. 
 
+| ![ai_positive](/assets/yapay-zeka-yazi-II_800.jpg)|
+|:--:| 
+| *Kaynak: [Dall-E](https://labs.openai.com/s/BcrEGSoDIwjuUmnBsrlXpCYJ)*|
+
 Andreessen 7000 kelimelik uzun yazısının son bölümünü yapay zeka konusundaki eleştiri ve kaygıların neden yersiz olduğuna ayırıyor. Yapay zeka konusunda madalyonun öbür tarafına bir sonraki yazımızda bakacağız. 
 
 ### Büyük vizyonlardan günümüze gelelim
@@ -55,7 +59,7 @@ Yapay zekanın hayatımıza katabilecekleri gerçekten çok etkileyici. Bu deği
 
 —-
 
-*Not 1: Bu yazı ilk olarak 1 Temmuz 2023'de [BTCHaber'de yayınlandı]()*
+*Not 1: Bu yazı ilk olarak 3 Temmuz 2023'de [BTCHaber'de yayınlandı]()*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
