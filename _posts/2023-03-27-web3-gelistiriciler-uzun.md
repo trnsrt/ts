@@ -148,7 +148,7 @@ Electric Capital'in geliştirici raporu pek çok farklı çıkarımlar yapılabi
 
 ---
 
-*Not 1: Bu yazı ilk olarak 27 Mart 2023'de [Yazılım Dünyasında 2023 Trendleri](https://medium.com/@mhkoca/yaz%C4%B1l%C4%B1m-d%C3%BCnyas%C4%B1nda-2023-trendleri-fdd228a3ae02) adlı Medium makalesinin içinde yayınlandı *
+*Not 1: Bu yazı ilk olarak 27 Mart 2023'de [Yazılım Dünyasında 2023 Trendleri](https://medium.com/@mhkoca/yaz%C4%B1l%C4%B1m-d%C3%BCnyas%C4%B1nda-2023-trendleri-fdd228a3ae02) adlı Medium makalesinin içinde yayınlandı*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
