@@ -12,13 +12,13 @@ Kullanıcılara daha fazla söz hakkı ve oluşan katma değerden daha fazla pay
 
 Hatırlayanlar olacaktır, bundan bir yıl önce yine [bu satırlarda](/genel/2022/01/31/blokzincirin-gelecegi-geli%C5%9Ftiricilerin-elinde.html) Electric Capital tarafından yayınlanan geliştirici raporunu detaylıca ele almıştık. (Konu hakkında hiçbir bilgisi olmayanların öncelikle [o yazıya](/genel/2022/01/31/blokzincirin-gelecegi-geli%C5%9Ftiricilerin-elinde.html) göz atmasını şiddetle tavsiye ederim.)
  
-Artık geleneksel hale gelmeye başlayan geliştirici [raporunun sonuncusu geçtiğimiz hafta içinde yayınlandı](https://github.com/electric-capital/developer-reports/blob/master/dev_report_2022.pdf). Gelin bu yazımızda raporun önemli noktalarına göz gezdirelim, ancak daha öncesinde bu rapor neden önemli, ne kadar kapsayıcı ve eksik yönleri neler sorularına yanıt arayalım. 
+Artık geleneksel hale gelmeye başlayan geliştirici [raporunun sonuncusu geçtiğimiz hafta içinde yayınlandı](https://www.developerreport.com/developer-report). Gelin bu yazımızda raporun önemli noktalarına göz gezdirelim, ancak daha öncesinde bu rapor neden önemli, ne kadar kapsayıcı ve eksik yönleri neler sorularına yanıt arayalım. 
 
 ### Neden önemli bir rapor bu?
 
 Hepimiz hemen her gün Web3 dünyası ile ilgili haberlere boğulmuş durumdayız. "Hangi blokzincir ne kadar büyümüş? Kim ne kadar yatırım almış? Kim geliştiricilere ne kadar teşvik vermiş? Kriz olunca, geliştiriciler Web3'ü terk etmeye mi başlamış?" gibi... Electric Capital'in raporu, işte bu dünyada gerçekten ne olup bittiğini sayılara dayalı somut bir şekilde ortaya koymaya çalışan en kapsamlı çalışmalardan bir tanesi. 
 
-Temel girdi olarak kendilerine 'açık kaynak' projelerin ortak toplanma alanı olan GitHub deposunu alıyorlar. Burada bulunan yaklaşık 250 milyona yakın kod kayıtlarını (ya da yüklemelerini) sıkı bir temizlemeden geçiriyorlar. Örneğin başkasından kopyalanmış orijinal olmayan kodları silerek yaklaşık %65'ini en baştan eliyorlar [^1]. Sonrasında da bu kayıtları geliştiricilerin tipi (tam/yarı zamanlı, tek seferlik) tecrübesi (tecrübeli/yeni girmiş, tek/çoklu ağda çalışan vb), çalıştığı ağ (Ethereum, Bitcoin, alternatif L1'ler, L2'ler vb) ve son raporda olduğu gibi içinde bulundukları kullanım alanı (DeFi, NFT) gibi farklı kriterlerde toplam 180 sayfalık bir rapor haline getiriyorlar. Bu arada raporu oluşturan bütün datayı da 'açık kaynak' olarak ekosisteme sunuyorlar. Üstelik bu son rapor ile birlikte artık canlı verilerin de yer aldığı bir websitesini de ücretsiz kullanıma açmışlar 👉 www.developerreport.com
+Temel girdi olarak kendilerine 'açık kaynak' projelerin ortak toplanma alanı olan GitHub deposunu alıyorlar. Burada bulunan yaklaşık 250 milyona yakın kod kayıtlarını (ya da yüklemelerini) sıkı bir temizlemeden geçiriyorlar. Örneğin başkasından kopyalanmış orijinal olmayan kodları silerek yaklaşık %65'ini en baştan eliyorlar [^1]. Sonrasında da bu kayıtları geliştiricilerin tipi (tam/yarı zamanlı, tek seferlik) tecrübesi (tecrübeli/yeni girmiş, tek/çoklu ağda çalışan vb), çalıştığı ağ (Ethereum, Bitcoin, alternatif L1'ler, L2'ler vb) ve son raporda olduğu gibi içinde bulundukları kullanım alanı (DeFi, NFT) gibi farklı kriterlerde toplam 180 sayfalık bir rapor haline getiriyorlar. Bu arada raporu oluşturan bütün datayı da 'açık kaynak' olarak ekosisteme sunuyorlar. Üstelik bu son rapor ile birlikte artık canlı verilerin de yer aldığı bir websitesini de ücretsiz kullanıma açmışlar 👉 [www.developerreport.com](https://www.developerreport.com/developer-report)
 
 | ![sandbox](/assets/arrows-3380595_800.jpg)|
 |:--:| 
@@ -53,7 +53,7 @@ Yukarıda raporun ekosistem ile kuşbakışı özetini gördük. Detaylarda ilgi
 
 Geliştirici sayısında en tepe nokta Haziran 2022'de 26 bin ile görülürken sonrasında altı ay içinde yaklaşık %11'lik bir düşüş gerçekleşmiş. (Sayfa 35) Yarı-zamanlı ve tek-seferlik geliştiricilerin katkılarının tam zamanlılara göre çok daha fazla düşüş gösterdiğini de belirtelim (yarı zamanlı %13, tek seferlik %14'e karşılık tam zamanlı %7). (Sayfa 36)
 
-[^11]
+Sektöre tam zamanlı olarak giren geliştiricilerin sektörde kalışları genel olarak da daha yüksek. Örneğin, tam zamanlıların %30'u bir sonraki yıl da kod girmeye devam ederken, bu oran tüm geliştiricilerde %8 civarında. (Sayfa 39) Benzer şekilde sektörden ayrılan (GitHub'a kayıt yapmayan) geliştiricilerin %95'i yarı-zamanlı ve tek-seferlik geliştiriciler. (Sayfa 41)
 
 ##### En büyük beş ağ hangisi?
 
@@ -61,7 +61,7 @@ Sektörün ağır topu Ethereum'un liderliği geçen yıl olduğu gibi aynı şe
 
 | ![ecdr-1st](/assets/electric_cap_dev_report_1st_grp_2022_v2.jpg)|
 |:--:| 
-| *Kaynak: [Electric Capital Developer Report](https://github.com/electric-capital/developer-reports/blob/master/dev_report_2022.pdf) - Sayfa 81*|
+| *Kaynak: [Electric Capital Developer Report](https://www.developerreport.com/developer-report) - Sayfa 81*|
 
 Anlaşılması zor olabileceği için grafiği kısaca açıklayalım: Grafiğin yatay düzlemi ağların 2021 yılındaki tam zamanlı geliştirici sayısını, dikey düzlem ise 2022 yılındaki aynı sayıları gösteriyor. Ortada gördüğünüz grafiği yarıdan bölen çizgi ise iki yıl sayılarının eşit olduğu nokta. Dolayısıyla, grafikten çıkan sonuç mahşerin beş atlısından sadece Polkadot'un 2022 yılında geliştirici sayısı olarak aynı kaldığı, diğer dört topluluğun geliştirici sayılarının arttığı şeklinde (hatta Solana'daki artış %50'den daha fazla olmuş). 
 
@@ -71,7 +71,7 @@ En büyük beşli sonrası bir alt seviyede 300'ün üzeri toplam geliştiriciye
 
 | ![ecdr-2nd](/assets/electric_cap_dev_report_2nd_grp_2022.jpg)|
 |:--:| 
-| *Kaynak: [Electric Capital Developer Report](https://github.com/electric-capital/developer-reports/blob/master/dev_report_2022.pdf) - Sayfa 83*|
+| *Kaynak: [Electric Capital Developer Report](https://www.developerreport.com/developer-report) - Sayfa 83*|
 
 Burada dikkat çekici iki nokta, geçtiğimiz yıl sadece 40 geliştiricisi olan Starknet'in bu sayıyı üç katına çıkardığı, bunun yanında BNB Chain, Tezos ve Avalanche'in geliştirici sayılarında bir azalış görüldüğü. Starknet, özellikle zk (zero-knowledge) teknolojisi geliştiricisi olarak sektörün potansiyeli yüksek adaylarından biri olarak görülüyor. BNB Chain'de ise geçmişte verilen teşvikler nedeniyle görülen geliştirici akımının ters yönlü olarak diğer ağlara doğru kaydığını söylemek mümkün. Avalanche ise geçtiğimiz yıl piyasaya sunduğu subnet'lerindeki geliştirmelerin daha çok kapalı olması nedeniyle sayının düşük göründüğünü belirtiyor. 
 
@@ -79,14 +79,13 @@ Geçtiğimiz yıl ilk beş içinde yer alan Bitcoin ise bu sene bir alt lige dü
 
 | ![ecdr-btc-new_dev](/assets/electric_cap_dev_report_bitcoin_new_devs_2022.jpg)|
 |:--:| 
-| *Kaynak: [Electric Capital Developer Report](https://github.com/electric-capital/developer-reports/blob/master/dev_report_2022.pdf) - Sayfa 53*|
+| *Kaynak: [Electric Capital Developer Report](https://www.developerreport.com/developer-report) - Sayfa 53*|
 
 2018 yılı başından bu yana kriptopara piyasa değerleri ciddi artışlar ve azalışlar gösterse de, Bitcoin ekosistemi düzenli bir şekilde hemen her ay kendisine ortalama 100 yeni geliştirici kazandırıyor. Bu da bize Bitcoin'in piyasa koşullarından etkilenmeyen 'dirençli' bir yapısı olduğunu gösteriyor. 
 
-[^12]
+Biraz daha alt gruba 'zoom' yapalım mı? Yukarıdaki listelerde yer alan isimler (belki Starknet dışında) şimdiye kadar duyulmuş ve konuşulan ağlar. Yeni neler geliyor derseniz, yukarıdaki tablonun sol altında yer alan gruba 'zoom' yapmanız gerekiyor. (Sayfa 77) [Sayfa 77 grafik] Bu grupta en dikkat çeken iki isim, Facebook'un Diem (önceki adıyla Libra) projesinin kapanması sonrası oluşan iki ekip Aptos ve Sui. Bu ekipler Facebook sonrası toplu olarak bu projelere geçiş yaptıkları ve sonrasında ciddi yatırım aldıkları için geliştirici sayısında ciddi bir artış göstermiş durumdalar. Bunun yanında Flow, Algorand, Stacks, XRP, Stellar'ın geliştirici sayılarında bir azalış gözlemleniyor. 
 
-[^13]
-
+Rapor çok daha detaya inerek sayıca daha aktif geliştiricilere  de iniyor. İlgilenenlere raporu detaylıca incelemelerini hararetle tavsiye ederim. 
 
 ##### Geliştiriciler büyük projelere doğru toplanıyorlar
 Rapordaki bir diğer ilginç nokta ise, 2018 yılından bu yana geliştiricilerin büyük projelere doğru yönelmeye başladıkları (Sayfa 97)
@@ -94,21 +93,21 @@ Rapordaki bir diğer ilginç nokta ise, 2018 yılından bu yana geliştiricileri
 
 | ![ecdr-btc-new_dev](/assets/electric_cap_dev_report_top200-eth-btc_2022.jpg)|
 |:--:| 
-| *Kaynak: [Electric Capital Developer Report](https://github.com/electric-capital/developer-reports/blob/master/dev_report_2022.pdf) - Sayfa 97*|
+| *Kaynak: [Electric Capital Developer Report](https://www.developerreport.com/developer-report) - Sayfa 97*|
 
 Bitcoin ve Ethereum dışındaki en büyük 200 proje 2018 yılı başında toplamın %25'i kadar aktif geliştiriciye sahip iken bu rakam 2022 yılı sonunda neredeyse %50'ye gelmiş durumda. Görünen o ki, eskinin 'vizyoner' ama havada kalan binlerce projesine dağılan geliştiriciler, şimdilerde daha ayağı yere basan projelere doğru kayıyorlar. 
 
-[^14]
+Bu arada geliştiriciler için önemli bir nokta, ağlardan ziyade hangi teknolojiye odaklanmaları gerektiği olabilir. Orada da Ethereum Virtual Machine (EVM) kullanan ağların ağırlığı olduğunu görüyoruz. Ethereum'un 5,734 geliştiricisinin yanında, EVM kullanan diğer birinci ve ikinci seviye ağların 2,817 geliştiricisi eklendiğinde, tüm EVM kullanan ekosistemin 8,390 geliştirici ile toplam Web3 geliştiricilerinin %36'sını oluşturduğunu görüyoruz. [Sayfa 138]
 
 Rapordaki bir başka ilginç gözlem ise, farklı projelerin farklı başlangıç tarihlerini eşleştirerek yapılan analiz olmuş. (Sayfa 122)
 
 | ![ecdr-L1-aging](/assets/electric_cap_dev_report_L1_aging_2022.jpg)|
 |:--:| 
-| *Kaynak: [Electric Capital Developer Report](https://github.com/electric-capital/developer-reports/blob/master/dev_report_2022.pdf) - Sayfa 122*|
+| *Kaynak: [Electric Capital Developer Report](https://www.developerreport.com/developer-report) - Sayfa 122*|
 
 Böyle bakıldığında ilginç görünen nokta, büyük projelerin 200 tam zamanlı geliştiriciye ulaşmasının yaklaşık 4 yıl sürüyor olması (2.2 yıl süren Polkadot hariç). 
 
-[^15]
+Raporda geliştiricilerin artık yavaş yavaş birden fazla ağ için geliştirme yapmaya başladıklarını da görmekteyiz. (Sayfa 145)
 
 ##### DeFi'de durum nasıl?
 
@@ -118,7 +117,7 @@ Ağ bazında baktığımızda ise karşımıza şu tablo çıkıyor (Sayfa 166):
 
 | ![ecdr-defi-grps](/assets/electric_cap_dev_report_defi_grps_2022.jpg)|
 |:--:| 
-| *Kaynak: [Electric Capital Developer Report](https://github.com/electric-capital/developer-reports/blob/master/dev_report_2022.pdf) - Sayfa 166*|
+| *Kaynak: [Electric Capital Developer Report](https://www.developerreport.com/developer-report) - Sayfa 166*|
 
 Görüldüğü gibi Ethereum DeFi'nin tartışmasız bir numarası olarak en yakın rakibine geliştirici sayısında yaklaşık 3 kat fark atıyor. 
 
@@ -127,7 +126,7 @@ Görüldüğü gibi Ethereum DeFi'nin tartışmasız bir numarası olarak en yak
 
 | ![ecdr-defi-eth-dominance](/assets/electric_cap_dev_report_defi_eth_dominance_2022.jpg)|
 |:--:| 
-| *Kaynak: [Electric Capital Developer Report](https://github.com/electric-capital/developer-reports/blob/master/dev_report_2022.pdf) - Sayfa 169*|
+| *Kaynak: [Electric Capital Developer Report](https://www.developerreport.com/developer-report) - Sayfa 169*|
 
 DeFi'nin ilk çıktığı 2020 yazında tüm geliştiricilerin %70'i Ethereum üzerinde iken şimdi bu rakam %50'lere düşmüş durumda. Bu da sektöre yeni giren geliştiricilerin ağırlıklı olarak alternatif ağlara yöneldiğini gösteriyor bize. 
 
@@ -167,18 +166,5 @@ Electric Capital'in geliştirici raporu pek çok farklı çıkarımlar yapılabi
 
 [^5]: En büyük beşli sonrası bir alt seviyede 200'ün üzeri toplam geliştiriciye sahip ekosistemler ise sırasıyla Polygon, Polkadot'un kardeş ağı Kusama, Near, Cardano, Tezos, BNB Chain, Internet Computer ve Starknet olarak sıralanmakta. (Sayfa 74)
 
-[^10]: 
-
-[^11]: Sektöre tam zamanlı olarak giren geliştiricilerin sektörde kalışları genel olarak da daha yüksek. Örneğin, tam zamanlıların %30'u bir sonraki yıl da kod girmeye devam ederken, bu oran tüm geliştiricilerde %8 civarında. (Sayfa 39) Benzer şekilde sektörden ayrılan (GitHub'a kayıt yapmayan) geliştiricilerin %95'i yarı-zamanlı ve tek-seferlik geliştiriciler. (Sayfa 41)
-
-[^12]: Biraz daha alt gruba 'zoom' yapalım mı? Yukarıdaki listelerde yer alan isimler (belki Starknet dışında) şimdiye kadar duyulmuş ve konuşulan ağlar. Yeni neler geliyor derseniz, yukarıdaki tablonun sol altında yer alan gruba 'zoom' yapmanız gerekiyor. (Sayfa 77) [Sayfa 77 grafik] Bu grupta en dikkat çeken iki isim, Facebook'un Diem (önceki adıyla Libra) projesinin kapanması sonrası oluşan iki ekip Aptos ve Sui. Bu ekipler Facebook sonrası toplu olarak bu projelere geçiş yaptıkları ve sonrasında ciddi yatırım aldıkları için geliştirici sayısında ciddi bir artış göstermiş durumdalar. Bunun yanında Flow, Algorand, Stacks, XRP, Stellar'ın geliştirici sayılarında bir azalış gözlemleniyor. 
 
 
-[^13]: Rapor çok daha detaya inerek sayıca daha aktif geliştiricilere  de iniyor. İlgilenenlere raporu detaylıca incelemelerini hararetle tavsiye ederim. 
-
-[^14]: Bu arada geliştiriciler için önemli bir nokta, ağlardan ziyade hangi teknolojiye odaklanmaları gerektiği olabilir. Orada da Ethereum Virtual Machine (EVM) kullanan ağların ağırlığı olduğunu görüyoruz. Ethereum'un 5,734 geliştiricisinin yanında, EVM kullanan diğer birinci ve ikinci seviye ağların 2,817 geliştiricisi eklendiğinde, tüm EVM kullanan ekosistemin 8,390 geliştirici ile toplam Web3 geliştiricilerinin %36'sını oluşturduğunu görüyoruz. [Sayfa 138]
-
-
-[^15]: Raporda geliştiricilerin artık yavaş yavaş birden fazla ağ için geliştirme yapmaya başladıklarını da görmekteyiz. (Sayfa 145)
-
-[^16]: 
