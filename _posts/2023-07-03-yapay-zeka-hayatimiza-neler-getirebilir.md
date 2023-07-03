@@ -59,7 +59,7 @@ Yapay zekanın hayatımıza katabilecekleri gerçekten çok etkileyici. Bu deği
 
 —-
 
-*Not 1: Bu yazı ilk olarak 3 Temmuz 2023'de [BTCHaber'de yayınlandı]()*
+*Not 1: Bu yazı ilk olarak 3 Temmuz 2023'de [BTCHaber'de yayınlandı](https://www.btchaber.com/yapay-zeka-hayatimiza-neler-getirebilir/)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
