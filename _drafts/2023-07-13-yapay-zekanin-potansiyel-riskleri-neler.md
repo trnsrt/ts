@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Yapay zekanın potansiyel riskleri neler?"
+date:   2023-07-13 12:17:56 +0300
+categories: Genel
+tags: Yazılar, AI
+---
+
 Mini-serimize yapay zekanın neden olabileceği potansiyel sorunlar ile devam ediyoruz. 
 
 Yapay zeka ile ilgili potansiyel onunla en azından ChatGPT aracılığıyla tanışmış olan herkes tarafından bizzat test edildi ve çoğunluk tarafından onaylandı. Bununla birlikte gerek kullanıcılarda, gerekse de bu alandaki uzmanlar kişiler arasında yapay zekanın sebep olabileceği tehlikeler konusunda ciddi bir kamuoyu oluştu. Gelin şimdi de bu potansiyel tehlikelerin 'bir kısmına' göz atalım. 
@@ -53,6 +61,14 @@ ChatGPT'yi kuran OpenAI'ın CEO'su Sam Altman gibi isimlerin [yapay zeka konusun
 ### Sonuç
 
 Yapay zekanın faydalarının yanında bizlerin şu anki konforlu hayatını değiştirecek kimi etkileri olacağı kesin gibi. Bu etkileri en aza indirmek için doğru yol, felaket senaryosu altında hızlı aksiyonlar ile alanı 'denetim' altına almak mı, yoksa teknolojinin ilerlemesini serbest bırakıp insanları potansiyel tehlikelerden koruyacak mekanizmaları kendi kendine geliştirmesini beklemek mi? Bu sorunun yanıtı konusunda bir uzlaşma yok.  Bu tartışma önümüzdeki dönemde de gündem olmaya devam edecek. 
+—-
+
+*Not 1: Bu yazı ilk olarak 3 Temmuz 2023'de [BTCHaber'de yayınlandı](https://www.btchaber.com/yapay-zeka-hayatimiza-neler-getirebilir/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
+
 
 
 [^1]: Nedense bu araştırmayı referans gösteren yazılarıdan, aynı araştırmada katılımcıların %25'inin bu riski sıfır olarak gördüğünden bahsedilmiyor. 
