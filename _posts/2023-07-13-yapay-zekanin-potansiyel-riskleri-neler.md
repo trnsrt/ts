@@ -67,7 +67,7 @@ ChatGPT'yi kuran OpenAI'ın CEO'su Sam Altman gibi isimlerin [yapay zeka konusun
 Yapay zekanın faydalarının yanında bizlerin şu anki konforlu hayatını değiştirecek kimi etkileri olacağı kesin gibi. Bu etkileri en aza indirmek için doğru yol, felaket senaryosu altında hızlı aksiyonlar ile alanı 'denetim' altına almak mı, yoksa teknolojinin ilerlemesini serbest bırakıp insanları potansiyel tehlikelerden koruyacak mekanizmaları kendi kendine geliştirmesini beklemek mi? Bu sorunun yanıtı konusunda bir uzlaşma yok.  Bu tartışma önümüzdeki dönemde de gündem olmaya devam edecek. 
 —-
 
-*Not 1: Bu yazı ilk olarak 3 Temmuz 2023'de [BTCHaber'de yayınlandı](https://www.btchaber.com/yapay-zeka-hayatimiza-neler-getirebilir/)*
+*Not 1: Bu yazı ilk olarak 14 Temmuz 2023'de [BTCHaber'de yayınlandı](https://www.btchaber.com/yapay-zekanin-potansiyel-riskleri-neler/)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
