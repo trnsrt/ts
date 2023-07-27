@@ -18,7 +18,7 @@ tags: videos Etkinlikler
 <iframe width="224" height="126" src="https://www.youtube.com/embed/F6GuNmHVfgI" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
-Programın duyurusu...  
+Programın kamera arkası...   
 </p></td>
 <td style="width:50%; vertical-align:top">
 <p>Bu da yayının YouTube linki.</p>
