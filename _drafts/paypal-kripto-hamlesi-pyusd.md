@@ -14,7 +14,7 @@ Aslına bakarsanız, PayPal'ın Paxos ile ilişikisi çok daha eskilere dayanıy
 ### Stabil para alanındaki diğer rakipler ile karşılaştırırsak?
 Stabil para pazarında sıkı bir rekabet söz konusu olsa da piyasanın büyük oyunucusu her zaman [Tether](https://tether.to/) (USDT) oldu. 
 
-| ![stabil_para_piyasa-degerleri](/assets/stabil_para_gelisim.2308_800.png)|
+| ![stabil_para_piyasa-degerleri](/assets/stabil_para_gelisim_2308_800.png)|
 |:--:| 
 | *Stabil para piyasası oyuncularının piyasa değerlerinin değişimi Kaynak:[TheBlock Research](https://www.theblock.co/data/stablecoins/usd-pegged/total-stablecoin-supply)*|
 
