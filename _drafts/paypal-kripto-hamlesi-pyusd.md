@@ -59,4 +59,4 @@ Müşteri bakiyelerini tutmak, özellikle faizlerin %5'lere kadar geldiği bir o
 ### Sonuç
 PayPal'in çıkardığı PYUSD, gerek piyasaya getireceği milyonlarca yeni kullanıcı gerekse basılan paranın karşılığının daha güvenli bir şekilde tutulacak olması nedeniyle kripto için olumlu sayılacak bir hamle. Merkezi bir yapı olmasının getirdiği olumsuzluklar elbette eleştiri konusu olan ancak eleştirenlerin buna karşı düşünmesi gereken, merkeziyetsiz stabil paraların bu dünya içinde kullanımını artırmak için geliştirilecek hamleler olmalı. 
 
-['1]: Bu konuda daha önce yazılmış '[Oralar çok dalgalı sakin sulara gel: Sabit Paralar](/genel/2018/07/20/Orasi-cok-dalgali-sakin-sulara-gel-sabitparalar.html) ve [Sabit paralara devam](/genel/2018/07/27/sabitparalara-devam-digerleri.html) yazılarımıza göz atabilirsiniz. 
+[^1]: Bu konuda daha önce yazılmış '[Oralar çok dalgalı sakin sulara gel: Sabit Paralar](/genel/2018/07/20/Orasi-cok-dalgali-sakin-sulara-gel-sabitparalar.html) ve [Sabit paralara devam](/genel/2018/07/27/sabitparalara-devam-digerleri.html) yazılarımıza göz atabilirsiniz. 
