@@ -16,7 +16,7 @@ Stabil para pazarında sıkı bir rekabet söz konusu olsa da piyasanın büyük
 
 | ![stabil_para_piyasa-degerleri](/assets/stabil_para_gelisim_2308_800.png)|
 |:--:| 
-| *Stabil para piyasası oyuncularının piyasa değerlerinin değişimi Kaynak:[TheBlock Research](https://www.theblock.co/data/stablecoins/usd-pegged/total-stablecoin-supply)*|
+| *Stabil para piyasası oyuncularının piyasa değerlerinin değişimi.  Kaynak: [TheBlock Research](https://www.theblock.co/data/stablecoins/usd-pegged/total-stablecoin-supply)*|
 
 Sahip olduğu varlıkları nerede ve nasıl tuttuğu her zaman bir soru işareti olan Tether, ABD yetkili makamları tarafından hiç sevilmiyor. Neden sevsinler ki? Hiçbir şekilde kontrolleri altında olmayan bir kriptopara. Bu nedenle Tether'in ağırlıklı olarak ABD dışı pazarlarda, özellikle Asya'da çok popüler olduğunu söyleyebiliriz. 
 
