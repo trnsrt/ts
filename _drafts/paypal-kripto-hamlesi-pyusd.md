@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "PayPal'in son kripto hamlesi: PYUSD"
+date:   2023-08-24 18:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
 Bu yazımızda Fintech dünyasının devlerinden olan PayPal'in gectiğimiz hafta çıkardığı stabil para PYUSD'yi inceleyeceğiz. 
 
 ABD'de yaşanan kanuni belirsizlik ve özellikle 2023 başından beri kanuni otoritelerin hasmane tutumları kripto dünyasının üzerine bir kâbus gibi çökmüştü. İşte tüm bu kötü haberlerin arasında PayPal'in PYUSD adında bir stabil para çıkaracağını açıklaması, sektörün üzerindeki kara bulutların arasından bir güneş ışığı gibi belirdi. Gelin hep birlikte önce PayPal'ın bu hamlesini anlayalım, sonra da sektörün geleceğine yapabileceği etkileri tahmin etmeye çalışalım. 
@@ -33,6 +41,10 @@ Tabii Paxos'un New York eyaleti kanunlarına tabi olmasının getirdiği KYC (m�
 ### Kripto dünyası PYUSD için ne düşünüyor?
 PYUSD haberi piyasalara düştüğünde kripto dünyasının ikiye ayrıldığını gördük. 
 
+| ![wall-street](/assets/street-sign-141361_800.jpg)|
+|:--:| 
+| *Image by [Gerd Altmann](https://pixabay.com/users/geralt-9301/) from [Pixabay](https://pixabay.com/)*|
+
 Bir kampta, ardı ardına gelen haberler sonrası "ABD artık kripto pazarından çekiliyor mu?" şeklinde düşüncelere gark eden bir kesim, PayPal'ın stabil para çıkaracağı haberine 'mal bulmuş mağrip' gibi sarıldı. 'Öyle ya, ABD'nin en büyük fintech kurumu bu işe giriyorsa demek ki kriptoda hâlâ bir umut var' diye düşündü bu kamptakiler.
 
 Diğer taraftakiler ise, 'iyi de hani biz devletlerin güdümünden uzakta, yepyeni bir dünya kuracaktık, PayPal ile birlikte geleneksel ve merkezi tarafın ağırlığı daha da artacak, nerede o eski güzel günler?' şeklinde sızlanmalara başladı. 
@@ -61,4 +73,16 @@ PayPal'in çıkardığı PYUSD, gerek piyasaya getireceği milyonlarca yeni kull
 
 ---
 
+*Not 1: Bu yazı ilk olarak 24 Ağustos 2023'de [BTCHaber'de yayınlandı](https://www.btchaber.com/paypalin-son-kripto-hamlesi-pyusd/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
+
+---
+
 [^1]: Bu konuda daha önce yazılmış '[Oralar çok dalgalı sakin sulara gel: Sabit Paralar](/genel/2018/07/20/Orasi-cok-dalgali-sakin-sulara-gel-sabitparalar.html) ve [Sabit paralara devam](/genel/2018/07/27/sabitparalara-devam-digerleri.html) yazılarımıza göz atabilirsiniz. 
+
+https://www.btchaber.com/paypalin-son-kripto-hamlesi-pyusd/
+
+
