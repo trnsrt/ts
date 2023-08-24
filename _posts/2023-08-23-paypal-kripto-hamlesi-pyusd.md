@@ -45,7 +45,7 @@ PYUSD haberi piyasalara düştüğünde kripto dünyasının ikiye ayrıldığı
 |:--:| 
 | *Image by [Gerd Altmann](https://pixabay.com/users/geralt-9301/) from [Pixabay](https://pixabay.com/)*|
 
-Bir kampta, ardı ardına gelen haberler sonrası "ABD artık kripto pazarından çekiliyor mu?" şeklinde düşüncelere gark eden bir kesim, PayPal'ın stabil para çıkaracağı haberine 'mal bulmuş mağrip' gibi sarıldı. 'Öyle ya, ABD'nin en büyük fintech kurumu bu işe giriyorsa demek ki kriptoda hâlâ bir umut var' diye düşündü bu kamptakiler.
+Bir kampta, ardı ardına gelen haberler sonrası "ABD artık kripto pazarından çekiliyor mu?" şeklinde düşüncelere gark eden bir kesim, PayPal'ın stabil para çıkaracağı haberine 'mal bulmuş mağribi' gibi sarıldı. 'Öyle ya, ABD'nin en büyük fintech kurumu bu işe giriyorsa demek ki kriptoda hâlâ bir umut var' diye düşündü bu kamptakiler.
 
 Diğer taraftakiler ise, 'iyi de hani biz devletlerin güdümünden uzakta, yepyeni bir dünya kuracaktık, PayPal ile birlikte geleneksel ve merkezi tarafın ağırlığı daha da artacak, nerede o eski güzel günler?' şeklinde sızlanmalara başladı. 
 
