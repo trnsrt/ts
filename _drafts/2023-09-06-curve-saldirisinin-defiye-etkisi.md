@@ -23,6 +23,10 @@ Konumuza geri dönersek: 30 Temmuz Pazar sabahı, Curve'ün sahip olduğu havuzl
 #### Saldırı sonrası yaşananlar
 Saldırgan havuzlardan para kaçırırken birkaç ilginç gelişme de yaşandı. Örneğin, saldırganın hareketlerini takip eden kimi botlar, havuzdaki paraları saldırgandan önce 'çaldılar'. Beyaz şapkalı saldırgan (ingilizcesi 'white hat hacker') olarak adlandırılan bu hackerler sayesinde çalınan paraların yaklaşık %30'luk bir kısmı geri alındı (bu savaşın detaylarına bir sonraki yazımızda değineceğiz).
 
+| ![dogs](/assets/dogs-2921382_800.jpg)|
+|:--:| 
+| *Image by [Anja](https://pixabay.com/users/cocoparisienne-127419/) from [Pixabay](https://pixabay.com/)*|
+
 Bu arada Curve protokolü saldırıyı düzenleyenlere çalınan parayı geri vermeleri karşılığında (artık bu tip işlemlerde standart halini almaya başlayan) bu paranın %10'unu ödül olarak [vaat etti](https://etherscan.io/tx/0xc45e47f6e7d3e74763032e2fb991fa9a003d8ed55c13c93c6a5368ff322d7742). Hackerlara 6 Ağustos tarihine kadar süre veren protokol, eğer bu tarihe kadar para geri dönmezse ödülü saldırganları açığa çıkaranlara vereceğini ve bu kişiler ile mahkemede hesaplaşacaklarını da mesajına ekledi. 
 
 Sonrasında saldırgan, iki Curve havuzunda duran yaklaşık 33 milyon ABD Dolarını iade etti. İşin ilginç yanı, iade ederken gönderdiği [mesajda](https://etherscan.io/tx/0x23c4799784c91023204bd68a94ec7a963486f2485dc43c13d8b804d5301b8041) "Bu hafta saçma sapan yorumlar gördüm. Şunu açıklığa kavuşturmak isterim ki, paraları geri iade etme nedenim beni bulma ihtimaliniz değil, projelerinizi mahvetmek istememem. Bu para pek çok insan için büyük bir para ama benim için değil. Hepinizden daha akıllıyım." yazmasıydı. Görüyorsunuz değil mi, pek çoğumuza inanılmaz gelen rakamlar, birkaç 'degen' diye adlandırılabilecek kişi için 'önemsiz' bir hale gelmiş.
