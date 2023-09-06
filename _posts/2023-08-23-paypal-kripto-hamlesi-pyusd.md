@@ -83,6 +83,4 @@ PayPal'in çıkardığı PYUSD, gerek piyasaya getireceği milyonlarca yeni kull
 
 [^1]: Bu konuda daha önce yazılmış '[Oralar çok dalgalı sakin sulara gel: Sabit Paralar](/genel/2018/07/20/Orasi-cok-dalgali-sakin-sulara-gel-sabitparalar.html) ve [Sabit paralara devam](/genel/2018/07/27/sabitparalara-devam-digerleri.html) yazılarımıza göz atabilirsiniz. 
 
-https://www.btchaber.com/paypalin-son-kripto-hamlesi-pyusd/
-
 
