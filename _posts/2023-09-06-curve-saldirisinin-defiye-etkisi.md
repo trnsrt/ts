@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Curve saldırısının DeFi'ye etkileri - 1"
-date:   2023-09-26 18:17:56 +0300
+date:   2023-09-06 18:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
 ---
