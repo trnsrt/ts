@@ -1,7 +1,7 @@
 Geçtiğimiz hafta başladığımız Curve olayı konusuna, olayın DeFi'ye etkilerine bakarak devam ediyoruz. 
 
 ### Geçen haftanın kısa özeti
-İki saat süren Türk dizilerinin bir sonraki hafta yayınlanan bir saatlik özeti gibi olmaması için hızlı bir şekilde olayı hatırlayalım.
+İki saat süren Türk dizilerinin bir sonraki hafta yayınlanan bir saatlik özeti gibi olmaması için hızlı bir şekilde [olayı](/genel/2023/09/06/curve-saldirisinin-defiye-etkisi.html) hatırlayalım.
 
 DeFi'nin ağır toplarından merkeziyetsiz alım-satım platformu Curve, Temmuz ayı sonunda bir saldırıya uğramış ve dört ayrı Curve havuzundan 73 milyon ABD Doları çalınmıştı. Fonların % 73'ü ya saldırgandan önce onun önüne geçen botlar tarafından kurtarılmış ya da saldırgan tarafından iade edilmişti. Bu arada Curve'ün tokeni olan CRV'nin fiyatı 70 centlerden 50 centlere kadar düşmüştü. Bu düşüş, Curve'ün kurucusu Michael Egorov'un CRV'yi teminat göstererek almış olduğu kredilerin likide olma ihtimalini doğurmuştu. Egorov bu durumdan elindeki CRV tokenlerin bir kısmını şaibeli bir grup insana tezgah üstünde 40 centten satıp borçlarını kapatarak sıyrılabildi. 
 
