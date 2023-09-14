@@ -28,7 +28,7 @@ Saldırının ortaya çıkması sonrası, pek çok farklı saldırgan da aynı y
 
 | ![mev-vs-gas](/assets/mev-gaz-ucreti_800.png)|
 |:--:| 
-| *Ethereum üzerinde sisteme ve madencilere ödenen günlük ücretlerde 30 Temmuz günü tarihin en yüksek rakamlarından biri görüldü.. Kaynak: [MevBoost Dashboard](https://mevboost.pics/))*|
+| *Ethereum üzerinde sisteme ve madencilere ödenen günlük ücretlerde 30 Temmuz günü tarihin en yüksek rakamlarından biri görüldü.. Kaynak: [MevBoost Dashboard](https://mevboost.pics/)*|
 
 Bu tip front-running yapan botlar DeFi üzerinden fazlasıyla eleştiri alıyorlar. Zira normalde masumane bir şekilde kâr almak için kafa patlatıp yaptığınız bir işlem ile alacağınız kâr, bir bot tarafından anında kopyalanıp elinizden kaçabiliyor. Belki de ilk kez bu olayla birlikte bu botların 'hayırlı bir iş' için kullanıldığını gördük. c0ffeebabe.eth isimli bir bot operatörü saldırganın önüne geçip tam 5.4 milyon ABD Dolarına eş parayı eline geçirdi ve Curve'e [geri gönderdi](https://www.theblock.co/post/242136/mev-bot-runner-c0ffeebabe-eth-returns-5-4-million-amid-curve-exploit).
 
