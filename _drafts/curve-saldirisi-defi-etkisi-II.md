@@ -27,6 +27,10 @@ Curve'ün yaşadığı durum ise biraz daha farklı. Elbette burada da akıllı 
 
 İşte bu da DeFi'deki temel sıkıntılardan biri. DeFi'deki protokoller genelde açık kaynaklı olarak yazılıyorlar. Bu protokolleri geliştiren yazılımcılar da ürün geliştirirken daha önce açık kaynak ile yazılmış araç ve dilleri kullanıyorlar.  Dolayısıyla ortaya birbirine geçmiş lego parçalarından oluşan projeler çıkıyor. Protokollerin akıllı kontratları denetimden geçiyor, zaten Curve ekibi de bu anlamda en sağlam iş çıkaran yerlerden biri. Burada sorun, akıllı kontratın yazıldığı dilin (Curve'un kullandığı versiyonlarında) bir sorun çıkması. Sonuçta yazılımcılar yazdıkları kodun işleyip işlemediğini kontrol ediyorlar ama kullandıkları dili sorgulamak kimsenin aklına gelmiyor[^2].
 
+| ![legos](/assets/duplo-1981724_800.jpg)|
+|:--:| 
+| *Image by [Bruno](https://pixabay.com/users/bru-no-1161770/) from [Pixabay](https://pixabay.com/)*|
+
 Yazılımlarda ya da dillerde hata olması beklenebilir, zira  sonuçta hepsi insanlar tarafından kurgulanıyor. DeFi'nin şanssızlığı (ya da belki de şansı) bu tip olayların zincir üzerinde olması nedeniyle herkes tarafından anında görülebiliyor olması. Büyük şirketlerin ve ekiplerinin kullandığı yazılımlarda da benzer hatalar oluyor ancak bu hatalar bir şekilde anında çözülüp, hasır altı ediliyor. DeFi'de ise kontratları yazdıktan sonra gerekli testleri yapıp ortalığa salıyorsunuz. Bu kontratlarda problem çıktığında kontratı geri çağırmak mümkün değil. Kontratı güncellenebilir yapabilirsiniz ama o zaman da kimse yarın öbür gün parametreleri değiştirilebilecek bir kontrat ile iş yapmak istemiyor. Çare ne o zaman? Çare, her zaman olduğu gibi bu alandaki kontratların bu tip saldırılar sonrası 'kurşun geçirmez' hale gelecek kadar olgunlaşmasını beklemek. 
 
 #### Beyaz şapkalı hacker ve botlar nereye kadar işin içine girmeli?
