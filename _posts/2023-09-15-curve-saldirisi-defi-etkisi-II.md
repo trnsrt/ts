@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Curve saldırısının DeFi'ye etkileri - 2"
-date:   2023-09-14 18:17:56 +0300
+date:   2023-09-15 18:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
 ---
@@ -72,7 +72,7 @@ Curve saldırısı DeFi tarihine kara bir leke olarak geçecek. Yine de, bu olay
 
 ---
 
-*Not 1: Bu yazı ilk olarak 14 Eylül 2023'de [BTCHaber'de yayınlandı]()*
+*Not 1: Bu yazı ilk olarak 15 Eylül 2023'de [BTCHaber'de yayınlandı](https://www.btchaber.com/curve-saldirisinin-defiye-etkileri-ii/)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
