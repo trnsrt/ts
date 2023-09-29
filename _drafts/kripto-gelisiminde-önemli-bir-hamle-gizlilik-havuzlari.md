@@ -1,4 +1,4 @@
-Bu yazımızda, Vitalik Buterin ve arkadaşları tarafından Eylül ayı başında yayınlanan yeni bir makaleye göz atacağız. 
+Bu yazımızda, Vitalik Buterin ve arkadaşları tarafından Eylül ayı başında yayınlanan yeni bir [makaleye](https://ssrn.com/abstract=4563364) göz atacağız. 
 
 ### Kriptoparaların düzenlemeler ile uyum sorunu
 Kriptoparaların geniş kesimlerce kullanımının önündeki en büyük engellerden bir tanesi düzenleyici kurumların bu paralara mesafeli yaklaşması. Bu tutumun arkasında yatan temel neden bu paraların yasa dışı aktiviteler ile ilişkilendiriliyor olması. Kripto dünyasının buna karşı seslendirdiği "İyi ama en büyük kara para aklama olayları ABD Doları ile üstelik sıkı kuralların uygulandığı bankacılık sektöründe oluyor?" argümanı oldukça makul olsa da maalesef kabul görmüyor. 
@@ -22,7 +22,7 @@ Bu tip 'karıştırıcı akıllı kontratların' en büyüğü olarak bilinen To
 
 Kullanıcıların mahremiyet isteği temel bir hak ve özgürlük. Öte yandan, bunu sağlayan Tornado Cash benzeri yazılımların masum insanların yanında saldırganlar tarafından da kullanılmasının getirdiği sıkıntılar var. Peki burada her iki tarafı da memnun edecek bir orta yol bulunamaz mı?
 
-İşte Ethereum'un kurucusu Vitalik Buterin'in önderliğinde dört kişi tarafından kaleme alınan son makale, bu konuda bir çözüm önerisi ortaya atıyor. Nedir önerilen?  Temel olarak kullanıcıların Tornado Cash benzeri bir yapıyı kullanırken mal varlıklarının 'kirli para' ile olan ilişkisini kopartmak.
+İşte Ethereum'un kurucusu Vitalik Buterin'in önderliğinde dört kişi tarafından kaleme alınan son [makale](https://ssrn.com/abstract=4563364), bu konuda bir çözüm önerisi ortaya atıyor. Nedir önerilen?  Temel olarak kullanıcıların Tornado Cash benzeri bir yapıyı kullanırken mal varlıklarının 'kirli para' ile olan ilişkisini kopartmak.
 
 Nasıl olacak bu? Kişi hiç kimseye 'çaktırmadan' hesabın sahipliğini kanıtlayacak. Yani 'karda yürüyecek ama izini belli etmeyecek'. İyi de blokzincir gibi şeffaf bir yapıda bu olası mı? Orada da gizlilik üzerine kullanımı gün geçtikçe gelişen teknolojiler imdada yetişiyorlar. Bu teknolojiler sayesinde kullanıcı mal varlığını, 'gizlilik havuzlarında' bulunan 'temiz paralar' ile ilişkilendirebilecek (ya da alternatif olarak 'kirli paralar' ile ilişkisini kesecek). Bunu yapabildiği noktada, artık düzenleyici kurumlardan gelen "Hesaba gelen paranın kaynağı neresi?" sorusuna makul bir cevap verebilecek. 
 
