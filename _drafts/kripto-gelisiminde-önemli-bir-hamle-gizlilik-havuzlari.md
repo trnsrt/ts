@@ -29,7 +29,7 @@ Nasıl olacak bu? Kişi hiç kimseye 'çaktırmadan' hesabın sahipliğini kanı
 #### Teknik olarak nasıl çalışıyor?
 İyi güzel de nasıl çalışıyor sistem tam olarak? Şimdi gelin işin teknik kısmına da göz atalım. 
 
-Sistemin çalışma prensibi, kullanıcıların paralarını kendi hesapları yerine, 'ilişkili bir para kümesi' (ingilizcesi association-set) içine çekmeleri şeklinde açıklanabilir. Bu bağlantılı para kümesinin nasıl oluşturulacağı tamamen kullanıcıya bırakılmış. [^1]
+Sistemin çalışma prensibi, kullanıcıların paralarını kendi hesapları yerine, 'ilişkili bir para kümesi' (ingilizcesi association-set) içine çekmeleri şeklinde açıklanabilir. Bu bağlantılı para kümesinin nasıl oluşturulacağı tamamen kullanıcıya bırakılmış[^1].
 
 Burada pratik pek çok soru akla geliyor. Birincisi, kullanıcı 'temiz' ve 'kirli' ayrımını nasıl yapacak? Bu oldukça zor ve zahmetli bir iş. Burada kullanıcıya bu iş için uzmanlaşmış aracıların yardım edeceği varsayılıyor. İlişkili küme sağlayıcısı (ingilizcesi 'association set provider') denen bu aracılar, aslında kredi derecelendirme kuruluşları gibi çalışıyorlar. Zincir üzerinde ya da dışında faaliyet gösterebilecek bu aracılar oluşturdukları ilişkili küme listelerini (tercihen zincir üzerinde açıklayarak) kişi ve kurumların hizmetine sunacaklar. Kişi, parasının içinde bulunduğu herhangi bir havuzdan para çektiğinde, parasının 'kirli' işlere bulaşmadığını kanıtlamış olacak. 
 
