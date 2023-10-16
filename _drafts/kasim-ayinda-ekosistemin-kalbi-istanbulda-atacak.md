@@ -2,7 +2,7 @@ Bu yazımızda 13 Kasım haftasında İstanbul'da yapılacak olan Devconnect'e d
 
 Blokzincir teknolojilerinin temelini oluşturduğu Web3 dünyasının ilerlemesi için birkaç temel koşul var. Bunlardan en önemlisi bu teknolojilerin olabildiğince insan tarafından kullanılması. Şu ana kadar Web3 dünyasının temel büyümesi Ethereum blokzincirinden geldi. (Aşağıda en bilinen kullanım metriği olan kilitli değer miktarı açısından blokzincirlerin bir karşılaştırmasını görüyorsunuz). 
 
-| ![l1-kilitli-miktar](/assets/L1-TVL.png)|
+| ![l1-kilitli-miktar](/assets/L1-TVL_v2.png)|
 |:--:| 
 | *En büyük ekosistemlere kilitli değer miktarı Kaynak: [TheBlock](https://www.theblock.co/data/decentralized-finance/total-value-locked-tvl)*|
 
