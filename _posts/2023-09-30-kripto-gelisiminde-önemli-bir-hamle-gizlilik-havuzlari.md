@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "Kriptonun gelişiminde önemli bir hamle: Gizlilik havuzları"
+date:   2023-09-30 18:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
+
 Bu yazımızda, Vitalik Buterin ve arkadaşları tarafından Eylül ayı başında yayınlanan yeni bir [makaleye](https://ssrn.com/abstract=4563364) göz atacağız. 
 
 ### Kriptoparaların düzenlemeler ile uyum sorunu
@@ -46,6 +55,13 @@ Bu tepkilerden en önemlisi, sektörün ağır toplarından ve gizlilik alanınd
 
 ### Sonuç
 Mahremiyet havuzu fikri, sektörün gelişmesinin önündeki en büyük engellerden birine çözüm bulmaya çalışması nedeniyle alkışa değer bir çözüm arayışı. Henüz 'kavram' aşamasında olan bu öneri, sektör içindekiler tarafından tartışılıp özümsendikçe, farklı şekilde uygulamalarının ortaya çıkması da olası. Sonuçta bir gün,, kriptoparalara ilgi duyan ancak otoritelerin negatif tutumu nedeniyle bu alana girmekten imtina eden kesimler bu çözümler aracılığıyla kripto alanına adım atarlarsa, mahremiyet havuzları misyonunu başarıyla gerçekleştirmiş olacak. Hemen bugün yarın değil ama birkaç yıl içinde bu alandaki olumlu gelişmeleri görebilmek dileğiyle. 
+
+---
+*Not 1: Bu yazı ilk olarak 30 Eylül 2023'de [BTCHaber'de yayınlandı](https://www.btchaber.com/kriptonun-gelisiminde-onemli-bir-hamle-gizlilik-havuzlari/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
 
 ---
 
