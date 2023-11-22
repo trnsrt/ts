@@ -1,0 +1,52 @@
+Bu yazımızda 2024 yılı içinde hangi blockchain bazlı finansal uygulamaların ön plana çıkacağını tahmin etmeye çalışacağız. Bundan önce konuya aşina olmayan okurlarımız için yazının başlığındaki tanımların kısaca üzerinden geçelim. 
+
+Blockchain kısaca, dijital dünyadaki kişi ya da kurumların birbirleri arasında veri ve değer transferi yapmak için başka herhangi bir aracıya ihtiyaç duymadan koordine olabilmelerini sağlayan teknolojiyi ifade ediyor. 
+
+Şunun şurasında 14 yıllık bir geçmişe sahip olan bu teknolojinin henüz hayatımıza tam olarak girdiğini söylemek hayalcilik olur.  Şu ana kadar daha çok bu teknolojinin altyapısının oluşturulmaya çalışıldığını gördük. Dijital dünyadaki ilişkileri temelden değiştirmeyi hedefleyen bu teknolojilerin daha alacağı çok yol var. 
+
+Blockchain bazlı teknolojilerin uygulama alanlarına baktığımızda ise, daha çok finans sektörünün ön plana çıktığını görüyoruz. Bunun temel nedeni, blokzincirin etki edebilmesi için uygulandığı alanın tamamen dijitalleşmiş olması zorunluluğu. Finans sektörü, geçtiğimiz yirmi yılda kendini hızla dijitalleştirmesi sayesinde değişen dünyanın getirdiği fırsatları iyi kullanarak ciddi bir büyüme kaydetti. Öte yandan bu dijitalleşme onun, blockchain benzeri yeni teknolojilerden daha fazla etkilenir hale getiriyor. 
+
+Merkeziyetsiz finans olarak adlandırılan blockchain bazlı finansal uygulamalar ağırlıklı olarak 2020 yılı ile birlikte kullanıcıların beğenisine sunulmuş durumda. Bildiğimiz anlamda klasik finansın bize sunduğu hemen her hizmeti kullanıcılarına aracısız olarak sunmaya çalışan bu teknolojilerin henüz oturduğu söylenemez. Henüz deney aşamasında olan bu uygulamaların ilk yıllarında yaşanan heyecan sonrası geniş kesimlerce kabul görebilmesi için önlerinde aşmaları gereken zorlu engeller var. 
+
+Bu durum kullanıcı ya da kurumlarda merkeziyetsiz finansın potansiyeli konusunda soru işaretleri yaratıyor mu? Eminim kimileri için bu sorunun cevabı evet olacak ama geçtiğimiz yıl içinde gerçekleşen kimi deneyler bize gelecek konusunda iyimser olmaya yöneltiyor. Gelin önce hep birlikte özellikle kurumsal tarafta yaşanan gelişmeler bir göz atalım: 
+
+### Gerçek dünya varlıklarının tokenleştirilmesi
+Tamamen dijital olarak ortaya çıkmış varlıklar (örneğin kriptoparalar) merkeziyetsiz finansın şimdiye kadar büyümesinde en önemli rolü oynadı. Yine de uzun vadede merkeziyetsiz finansın büyümesi için fiziki dünya ile dijital dünyanın yollarının kesişmesi gerekiyor. Bu alanda şimdiye kadar pek çok farklı denemenin olduğunu söylemek gerek. Birkaç tanesine hızlıca göz atalım: 
+
+- Avrupa Yatırım Bankası, tamamen blokzincir üzerinde gerçekleşen 100 milyon Avro değerinde bir bono ihracında [bulundu](https://news.bloomberglaw.com/banking-law/eu-investment-arm-offers-two-year-notes-in-debut-blockchain-deal). (Daha öncesinde Fransa Merkez Bankası Societe General ile birlikte 40 milyon Avro değerinde bir tahvil ihracı ve mutabakatını blokzincir üzerinden [gerçekleştirmişti](https://www.ledgerinsights.com/banque-de-france-tests-digital-euro-cbdc-bonds-societe-generale/))
+- Franklin Tempelton'a ait bir para piyasası fonu Ethereum ve Polygon zincirleri üzerinden fon hisselerinin işlem ve kayıtlarını [gerçekleştirdi](https://www.franklintempleton.com/press-releases/news-room/2023/franklin-templeton-money-market-fund-launches-on-polygon-blockchain)
+- Blackrock, JPMorgan'a ait Ethereum klonu Onyx zinciri üzerinde ilk işlemini [gerçekleştirdi](https://www.forbes.com/sites/digital-assets/2023/10/17/blackrock-and-jpmorgan-are-quietly-are-quietly-laying-the-groundwork-for-the-next-bitcoin-ethereum-xrp-and-crypto-price-bull-run/). Şirket, para piyasası fonuna ait tokenleştirilmiş payları, tezgah üstü bir türev işleminde teminat olarak göstererek üzere İngiltere'deki Barclays'e yolladı. 
+- Yine benzer şekilde JPMorgan ve Citi, avalanche zinciri üzerine kurulu özel ağlar ile portföy yönetimi ve FX işlemlerinin fiyatlanması ve işlenmesi konusunda deneyler yaptıklarını [açıkladılar](https://thedefiant.io/jp-morgan-s-onyx-teams-up-with-avalanche-to-automate-portfolio-management). 
+- Societe General, müşterilerine verdiği kredilerin karşılığı oluşturduğu tokenleri merkeziyetsiz bir platform olan MakerDAO'ya teminat olarak göstererek platform üzerinden kredi [kullandı](https://www.sgforge.com/refinancing-dai-stablecoin-defi-makerdao/).
+- Ethereum zinciri üzerine kurulu olan merkeziyetsiz finans platformu MakerDAO hazinesinde duran 500 milyon ABD Doları ile ABD hazine bonosu [satın aldı](https://www.coindesk.com/business/2022/10/06/stablecoin-issuer-makerdao-allocates-500m-for-treasuries-corporate-bond-investment/). 
+- ABD'de şimdiye kadar beşten fazla evin NFT (nitelikli fikri tapu) haline getirilerek [satışı gerçekleştirildi](https://nftnow.com/news/roofstock-onchain-origin-story-sell-third-property-via-nft-marketplace/)
+
+Önümüzdeki dönemde bu trendin daha da artacağını söylemek kâhinlik sayılmaz.  Yine de bunun hemen önümüzdeki yıl gerçekleşmesini de beklememek gerek. Gerçek dünya varlıklarının tokenleştirilmesinin önündeki en büyük engel, fiziki dünya ile dijital dünya arasındaki ilişkinin kurulabilmesinde görülüyor. Gerekli kanuni mevzuatın zaman içinde oturmasının mevcut riskleri azaltması ile birlikte dijital varlıkların getirdiği avantajlar (hız, düşük maliyet, global erişim gibi) bu alanda bir patlama yaşanmasına neden olabilir. 
+
+### Regülasyonlarla ile birlikte finans kurumlarının merkeziyetsiz finans ile kucaklaşması
+Fiziki dünyanın dijital dünya ile kesişmesini beklerken, finans kurumlarının bu alanda hazırlık yapmaları da oldukça önemli. Henüz kullanıcılara reel anlamda bir kazanç sağlamayan ve daha çok spekülatif bir yatırım aracı olarak görülen merkeziyetsiz finans ürünleri kullanıcılardan yoğun bir ilgi görüyor. 
+
+Özellikle bu alanda en dominant oyuncu olan Amerika Birleşik Devletleri'nde onay sürecinde olan Bitcoin ve Ethereum ETF'leri 2024 yılının belki de en çok beklenen olayı. Bireysel yatırımcılara ve emeklilik fonlarına sunulması beklenen endeks yatırım fonları, bu alandaki talebin ciddi şeklide artırabilir. 
+
+Kanuni altyapı konusu ABD'de hâlâ belirsizliğini korumakta. İlk aşamada stabil paralar konusunda bir tasarının yasalaşması beklense de, genel bir dijital varlık yasasının yaklaşan başkanlık seçimleri sonrasına kalması olası. Avrupa ise MiCA ile birlikte genel çerçevesini çizdiği kanuni altyapının içini doldurmakla meşgul olacak. 
+
+Ülkemizde de bu alanda gerekli yasal mevzuatın çıkarılması ile birlikte, finans kurumlarının gerek saklama gerekse alım-satım alanından başlayarak, klasik itibari paralar ile verdikleri hizmetleri kriptoparalar için de sunmaya başladıklarını görebiliriz. Merkeziyetsiz finans, doğası itibariyle kullanıcılarına dijital varlıkları üzerinden tam bir egemenlik veriyor olsa da, bunun yanında kullanıcıya yüklediği ciddi bir sorumluluk da bulunmakta. Geniş bir kesimin bu sorumluluğu almak istemeyeceği noktada, finans kurumlarına bu alanda müşterilerine sunabilecekleri ciddi fırsatlar doğabilir. 
+
+### Merkez bankası dijital paraları (CBDC'ler)
+Dijital dünyada değer taşıyan varlıklar ağırlıklı olarak kıymeti kendinden menkul kriptoparalar ve değeri bir itibari paraya çıpalanmış olan stabil paralardan oluşuyor. Özellikle kimi yaygın stabil kripto paralarda kullanıcılar parayı çıkaran kurumun riskini almak zorundalar. Bu nedenle, merkez bankaları tarafından çıkarılacak olan dijital paralar (CBDC'ler) en azından bu riski ortadan kaldırmaya aday. 
+
+CBDC alanında merkez bankaları tarafında çalışmalar tüm hızıyla devam etmekte. Bunun sonuçlarını hemen 2024 yılında göreceğimizi söylemek oldukça zor, ancak yine de finans alanındaki girişimlerin orta vadede dolaşıma girecek bu paralar için gerekli altyapıları oluşturmaları onları yarışta ön plana geçirebilir. 
+
+Öte yandan en çok kullanılan stabil para olan ABD Dolarında  ABD'li kamu otoriteleri tarafında bir CBDC gelmesi kısa vadede mümkün görünmüyor. ABD'de politikacı ve sivil toplum kuruluşlarının CBDC'ler konusundaki haklı endişelerini bu alanda ön planda yer almak isteyen diğer merkez bankalarının da dikkate alması oldukça önemli. 
+
+### Merkeziyetsiz finans ürünlerine Fintech desteği
+Merkeziyetsiz finans oyuncuları genelde bu alanda altyapı gelişimine odaklandıkları için ürünlerin kullanıcıya dokunan kısımlarını şimdiye dek ihmal ettiler. Bu ürünler eğer bir gün bir milyar kullanıcıya ulaşmak istiyorlarsa, kullanıcı deneyimlerinde ciddi iyileştirme yapmaları şart.  Bu konuda son yıllarda oldukça aşama kaydeden Fintech girişimleri onların imdadına yetişebilir. Önümüzdeki dönemde altyapının DeFi, kullanıcının dokunduğu alanların fintech'ler tarafından hazırlandığı ürünleri görmemiz olası. 
+
+### ZK teknolojilerinin yükselişi
+Fintech oyuncuları kullanıcılara erişim konusunda çalışırken, merkeziyetsiz finansın altyapısında önümüzdeki yıl en sık duyacağımız konuların başında sıfır-bilgi kanıtı teknolojisi (zero-knowledge proof) geliyor. Bu yeni teknoloji dijital dünyada bireylerin hem mahremiyetini koruyup hem blockchain teknolojisinin ölçeklenmesini sağlayacak. Bu sayede merkeziyetsiz finansta yeni kullanım alanları yaratacak olan bu kriptografik gelişime finans teknolojilerinde çalışan her tür girişim dikkatle eğilmeli.
+
+### Yapay zeka (AI) ile blockchain bir arada olur mu?
+Peki 2023 yılının gözdesi olan yapay zeka ile blokzincirler arasında ne tip bir ilişki var? Bu konuda, yapay zeka ile blokzincirin birbirlerine nasıl yardımcı olabileceği konusunda pek çok 'tez' ortaya atılmış durumda. Eminim bu alanda önümüzdeki dönemde pek çok girişim ve yenilik duyacağız. Yine de bu alandaki en önemli konunun, blokzincirin kısıtlı ve otantik yapısının, yapay zeka ile ortaya çıkan bilgi çokluğu/kirliliğinin ayıklanması/doğrulanmasında bir 'turnusol kağıdı' görevi görmek olduğunu belirterek bu maddeyi kapatalım.
+
+### Sonuç
+2024 gerekli kanuni altyapının uygulamaya konması sonrası gerek ülkemizde gerekse global anlamda blockchain bazlı teknolojilerin daha geniş kitleler tarafından benimsenmesi yolunda önemli bir aşama kaydettiğimiz bir yıl olacak. Yatırım anlamında klasik finans kurumları ve fintech girişimlerinin müşterilerine merkeziyetsiz finans ürünlerini sunduğunu göreceğiz. Öte yandan daha uzun vadede hayatımıza girecek olan fiziki varlıkların tokenleştirilmesi trendinin ilk ipuçlarını da yine bu dönemde yakalayacağız. Merkeziyetsiz finans altyapısında geliştirilen yeni gelişmeler, bu teknolojinin geniş kitlelerce kullanılmasının yolunu açacak. Önümüzdeki dönemde bize getireceği yenilikleri heyecanla takip edeceğiz. 
