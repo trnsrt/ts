@@ -8,7 +8,7 @@ Blokzincir bazlı uygulamaların genel adı olan merkeziyetsiz finans 2020 yıl�
 
 Bu durum merkeziyetsiz finansın potansiyeli konusunda soru işaretleri yaratıyor mu? Eminim kimileri için bu sorunun cevabı evet olacak ama geçtiğimiz yıl içinde gerçekleşen kimi deneyler bize gelecek konusunda iyimser olmaya yöneltiyor. Gelin önce hep birlikte özellikle kurumsal tarafta yaşanan gelişmeler bir göz atalım: 
 
-### Gerçek dünya varlıklarının tokenleştirilmesi
+### Gerçek dünya varlıklarının tokenleştirilmesiblokzincir
 Merkeziyetsiz finansın bugüne kadarki büyümesinde lokomotif görevini tamamen dijital olarak ortaya çıkmış varlıklar (örneğin kriptoparalar) üstlendi. Bundan sonra bu büyümenin devam etmesi için artık fiziki dünya varlıklarının da işin içine girmesi gerekiyor. Bu alanda şimdiye kadar pek çok farklı denemenin olduğunu söylemek gerek. Birkaç tanesine hızlıca göz atalım: 
 
 - Avrupa Yatırım Bankası, tamamen blokzincir üzerinde gerçekleşen 100 milyon Avro değerinde bir bono ihracında [bulundu](https://news.bloomberglaw.com/banking-law/eu-investment-arm-offers-two-year-notes-in-debut-blockchain-deal). (Daha öncesinde Fransa Merkez Bankası Societe General ile birlikte 40 milyon Avro değerinde bir tahvil ihracı ve mutabakatını blokzincir üzerinden [gerçekleştirmişti](https://www.ledgerinsights.com/banque-de-france-tests-digital-euro-cbdc-bonds-societe-generale/))
@@ -41,9 +41,9 @@ CBDC alanında merkez bankaları tarafında çalışmalar tüm hızıyla devam e
 Merkeziyetsiz finans oyuncuları genelde bu alanda altyapı gelişimine odaklandıkları için ürünlerin kullanıcıya dokunan kısımlarını şimdiye dek ihmal ettiler. Bu ürünler eğer bir gün bir milyar kullanıcıya ulaşmak istiyorlarsa, kullanıcı deneyimlerinde ciddi iyileştirme yapmaları şart.  Bu konuda son yıllarda oldukça aşama kaydeden Fintech girişimleri onların imdadına yetişebilir. Önümüzdeki dönemde DeFi altyapısını kullanan yeni fintech ürünlerini görmemiz olası. 
 
 ### ZK teknolojilerinin yükselişi
-Fintech oyuncuları kullanıcılara erişim konusunda çalışırken, merkeziyetsiz finansın altyapısında önümüzdeki yıl en sık duyacağımız konuların başında sıfır-bilgi kanıtı teknolojisi (zero-knowledge proof) geliyor. Bu yeni teknoloji dijital dünyada bireylerin hem mahremiyetini koruyup hem blockzicir teknolojisinin ölçeklenmesini sağlayacak. Bu sayede merkeziyetsiz finansta yeni kullanım alanları yaratacak olan bu kriptografik gelişime finans teknolojilerinde çalışan her tür girişim dikkatle eğilmeli.
+Fintech oyuncuları kullanıcılara erişim konusunda çalışırken, merkeziyetsiz finansın altyapısında önümüzdeki yıl en sık duyacağımız konuların başında sıfır-bilgi kanıtı teknolojisi (zero-knowledge proof) geliyor. Bu yeni teknoloji dijital dünyada bireylerin hem mahremiyetini koruyup hem blokzincir teknolojisinin ölçeklenmesini sağlayacak. Bu sayede merkeziyetsiz finansta yeni kullanım alanları yaratacak olan bu kriptografik gelişime finans teknolojilerinde çalışan her tür girişim dikkatle eğilmeli.
 
-### Yapay zeka (AI) ile blockzicir bir arada olur mu?
+### Yapay zeka (AI) ile blokzincir bir arada olur mu?
 Peki 2023 yılının gözdesi olan yapay zeka ile blokzincirler arasında ne tip bir ilişki var? Bu konuda, yapay zeka ile blokzincirin birbirlerine nasıl yardımcı olabileceği konusunda pek çok 'tez' ortaya atılmış durumda. Eminim bu alanda önümüzdeki dönemde pek çok girişim ve yenilik duyacağız. Yapay zekanın hayatımıza getireceği bir çok faydanın yanında ortaya çıkaracağı ciddi bir bilgi çokluğu/kirliliği söz konusu. Blokzincirin, hangi bilginin insanlar tarafından üretildiğini kanıtlayabilme noktasında yapay zekaya karşı bir 'turnusol kağıdı' görevi görebileceğini belirterek bu maddeyi kapatalım.
 
 ### Sonuç
