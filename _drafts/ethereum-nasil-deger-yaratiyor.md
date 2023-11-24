@@ -64,7 +64,7 @@ Yukarıdaki üç temel gelir kaleminin 2023 yılının ilk üç çeyreğindeki d
 ### Peki giderleri neler?
 Ethereum'un çok basit olarak gelirleri yukarıdaki gibi. Peki bunları yaparken giderleri ne? Giderlere baktığımızda aslında çok da fazla gideri olmadığını görüyoruz.  İşin özünde Ethereum bir ağ ve bu ağın işlemesi için gerekli olan ağı kullanan binlerce makinenin yaptığı enerji harcaması. Bu elektrik harcaması, özellikle Bitcoin gibi madenciler üzerinden yürütülen sistemlerde oldukça dramatik bir boyutta. Ethereum ise 15 Eylül 2022'de sistemini değiştirerek (Bitcoin'in kullandığı proof-of-work, kısaca PoW Türkçesi iş kanıtı sisteminden, daha yeni ağlarda kullanılan proof-of-stake kısaca PoS Türkçesi hisse kanıtı  sistemine geçerek) enerji tüketimini %99 oranında azalttı. 
 
-| ![enerji-harcamasi](/assets/ethereum-energy-consumption-v2.png)|
+| ![enerji-harcamasi](/assets/ethereum-energy-consumption-v3.png)|
 |:--:| 
 | *Farklı sistemlerin enerji harcamaları karşılaştırması Kaynak: [Ethereum Foundation](https://ethereum.org/en/energy-consumption/)*|
 
