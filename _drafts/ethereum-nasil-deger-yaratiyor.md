@@ -30,7 +30,7 @@ Ethereum'un birkaç gelir kalemi mevcut. Bu kalemlere bakmadan önce Ethereum'un
 
 | ![ethereum-blok-alaninini-kullananlar](/assets/ethereum-blok-alanini-kullananlar.png)|
 |:--:| 
-| *Kullanıcılar, defi platformları ve ikinci seviye çözümler Ethereum'un blok alanının sistemin operasyon (işleyiş ve güvenlik) görevini yürütenlere işlem ücreti öderler *|
+| *Kullanıcılar, defi platformları ve ikinci seviye çözümler Ethereum'un blok alanının sistemin operasyon (işleyiş ve güvenlik) görevini yürütenlere işlem ücreti öderler*|
 
 ### İşlem gelirleri
 Kullanıcılar bu blok alanını kullanabilmek için bir işlem ücreti ödüyorlar. İşte işlem ücretleri Ethereum'un en önemli ve büyük gelir kalemi. Kişi herhangi bir başka kişi ya da bir platform ile etkileşime geçip işlem yapmak istediğinde bu işlemin güvenli bir şekilde yapılması ve sonrası için değiştirilemez şekilde saklanması için Ethereum altyapısına bir ücret ödemek zorunda. Bahsettiğimiz işlemler bir başkasına para göndermekten, platformu oluşturan akıllı kontratı kullanarak finansal işlemler (örneğin mevduat yatırma ya da kredi alma gibi) yapmaya uzanan geniş bir yelpaze içinde yer alabiliyor. 
