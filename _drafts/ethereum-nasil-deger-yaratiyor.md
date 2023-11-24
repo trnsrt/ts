@@ -1,3 +1,5 @@
+Bu yazımızda Ethereum ağının ekonomisine değineceğiz. Bir sonraki yazımızda ise Ethereum’un önde gelenleri tarafından çıkarılan ‘ultrasound money’ kavramına bakacağız. 
+
 Bu yazımızda Ethereum'un ağının ekonomisine ve ultrasound money kavramına değineceğiz. 
 
 Ethereum, üzerinde pek çok uygulamanın yeşerdiği bir altyapı. Yaklaşık sekiz yıldır sürmekte olan bu altyapının inşa edilmesi ve gelecekteki büyümesinin lokomotifi ise geliştiriciler. İşte Ethereum'un geliştiricileri için düzenlediği en büyük konferans olan Devconnect bu yıl Kasım ayında İstanbul'da gerçekleşti.
@@ -72,7 +74,11 @@ Ethereum güvenliğini sağlamak amacıyla dış dünyaya minimal bir enerji kul
 
 Onaylayıcılara verilen ödül ETH cinsinden. Bu da piyasadaki ETH miktarının artmasına neden oluyor. Bu verilen ödül Ethereum sisteminin bir gider kalemi midir, yoksa piyasadaki ETH'nin artması, kazanılan gelirin daha fazla ETH'ye bölünmesi nedeniyle, para basan bir merkez bankası misali sadece emisyon olarak mı değerlendirilmeli, bu ekosistem içinden bir tartışma konusu. Bir sonraki bölümde ETH yani token olarak baktığımızda bu konuda daha detaylı değineceğiz. 
 
+### Arkası yarın
 Bunlar dışında, gelir kalemleri içinde saydığımız MEV, kullanıcılardan blokları oluşturanlara akan bir para olarak sistemin içinde bir gider kalemi olarak görülebilir. 
-
+Bir sonraki yazımızda ultrasound money kavramına, Ethereum’un önümüzdeki dönem planladığı değişikliklere ve bu değişikliklerin piyasadaki ether miktarını nasıl etkileyeceğine değineceğiz. 
 
 ----
+
+[^4]: Uygulamaların Ethereum'a ücret ödediği yerler var tabii ama bunlar işlemlerin yanında daha küçük boyutta. Örneğin, uygulamanın yazıldığı akıllı kontratın Ethereum sistemine işlenmesi ya da uygulama tarafından kullanıcılara gönderilen her tür varlık Iörneğin airdroplar) gibi.
+
