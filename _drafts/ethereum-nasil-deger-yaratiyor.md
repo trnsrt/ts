@@ -11,7 +11,7 @@ Akla ilk gelen soru "acaba bir şirket mi Ethereum oluyor?" ama bunun yerine Eth
 
 | ![ethereum-birleşik-devletleri](/assets/ethereum-birlesik-devletleri.png)|
 |:--:| 
-| * Kullanıcılar, kullandıkları uygulamalar, ikinci seviye çözümler ve en altta ana zincir ile birlikte karşınızda Ethereum birleşik devletleri*|
+| *Kullanıcılar, kullandıkları uygulamalar, ikinci seviye çözümler ve en altta ana zincir ile birlikte karşınızda Ethereum birleşik devletleri*|
 
 ### Ethereum sistemini kimler kullanıyor?
 
