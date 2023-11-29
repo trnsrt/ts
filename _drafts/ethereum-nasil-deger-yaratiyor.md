@@ -11,7 +11,7 @@ Akla ilk gelen soru "acaba bir şirket mi Ethereum?" oluyor ama pek öyle değil
 
 | ![ethereum-birleşik-devletleri](/assets/ethereum-birlesik-devletleri.png)|
 |:--:| 
-| * Kullanıcılar, kullandıkları uygulamalar, ikinci seviye çözümler ve en altta ana zincir ile birlikte karşınızda Ethereum birleşik devletleri*|
+| *Kullanıcılar, kullandıkları uygulamalar, ikinci seviye çözümler ve en altta ana zincir ile birlikte karşınızda Ethereum birleşik devletleri*|
 
 ### Ethereum sistemini kimler kullanıyor?
 
@@ -30,14 +30,14 @@ Ethereum'un birkaç gelir kalemi mevcut. Bu kalemlere bakmadan önce Ethereum'un
 
 | ![ethereum-blok-alaninini-kullananlar](/assets/ethereum-blok-alanini-kullananlar.png)|
 |:--:| 
-| * Kullanıcılar, defi platformları ve ikinci seviye çözümler Ethereum'un blok alanının sistemin operasyon (işleyiş ve güvenlik) görevini yürütenlere işlem ücreti öderler *|
+| *Kullanıcılar, defi platformları ve ikinci seviye çözümler Ethereum'un blok alanının sistemin operasyon (işleyiş ve güvenlik) görevini yürütenlere işlem ücreti öderler*|
 
 ### İşlem gelirleri
 Kullanıcılar bu blok alanını kullanabilmek için bir işlem ücreti ödüyorlar. İşte işlem ücretleri Ethereum'un en önemli ve büyük gelir kalemi. Kişi herhangi bir başka kişi ya da bir platform ile etkileşime geçip işlem yapmak istediğinde bu işlemin güvenli bir şekilde yapılması ve sonrası için değiştirilemez şekilde saklanması için Ethereum altyapısına bir ücret ödemek zorunda. Bahsettiğimiz işlemler bir başkasına para göndermekten, platformu oluşturan akıllı kontratı kullanarak finansal işlemler (örneğin mevduat yatırma ya da kredi alma gibi) yapmaya uzanan geniş bir yelpaze içinde yer alabiliyor. 
 
 | ![ethereum-blok-alaninda-olusan-deger](/assets/ethereum-blok-alaninda-olusan-deger.png)|
 |:--:| 
-| * Dört farklı şekilde oluşan gelirler kullanıcılardan aracılara doğru yukarıdaki gibi akar*|
+| *Dört farklı şekilde oluşan gelirler kullanıcılardan aracılara doğru yukarıdaki gibi akar*|
 
 Kısıtlı bir hizmet alanına sahip olan Ethereum sisteminde, kullanıcıların yapmak istedikleri işlemler, mempool olarak adlandırılan bir 'bekleme odasına' alınır. Bu odadan hangi işlemlerin hangi sıra ile gerçekleşeceğini belirlemek için bir haraç-mezat sistemi işler. Genel olarak daha yüksek ücret ödeyenlerin işlemleri sırada öne geçer. Kullanıcılar burada Ethereum'a ödenecek '**baz ücret**'i yüksek tutmanın yanında sistemin işleyişini sağlayan token rehin etmiş onaylayıcılara bir parça '**bahşiş**' vererek öne geçmeye çalırlar. İşlem ücretlerinin içinde önemli bir kısmı kimi kullanıcıların işlemlerini daha hızlı yapabilmek için ödedikleri fazla ücretlerden gelmekte. 
 
@@ -59,7 +59,7 @@ Yukarıdaki üç temel gelir kaleminin 2023 yılının ilk üç çeyreğindeki d
 
 | ![ethereum-gelir-dagilimi](/assets/ethereum-gelir-dagilimi.png)|
 |:--:| 
-| * Kaynak: [Token Terminal](https://tokenterminal.com/resources/crypto-research/ethereum-investment-framework#the-business-model)*|
+| *Kaynak: [Token Terminal](https://tokenterminal.com/resources/crypto-research/ethereum-investment-framework#the-business-model)*|
 
 ### Peki giderleri neler?
 Ethereum'un çok basit olarak gelirleri yukarıdaki gibi. Peki bunları yaparken giderleri ne? Giderlere baktığımızda aslında çok da fazla gideri olmadığını görüyoruz.  İşin özünde Ethereum bir ağ ve bu ağın işlemesi için gerekli olan ağı kullanan binlerce makinenin yaptığı enerji harcaması. Bu elektrik harcaması, özellikle Bitcoin gibi madenciler üzerinden yürütülen sistemlerde oldukça dramatik bir boyutta. Ethereum ise 15 Eylül 2022'de sistemini değiştirerek (Bitcoin'in kullandığı proof-of-work, kısaca PoW Türkçesi iş kanıtı sisteminden, daha yeni ağlarda kullanılan proof-of-stake kısaca PoS Türkçesi hisse kanıtı  sistemine geçerek) enerji tüketimini %99 oranında azalttı. 
