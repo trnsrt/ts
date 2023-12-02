@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "Kasım ayında Ethereum ekosisteminin kalbi İstanbu'da atacak"
+date:   2023-10-16 18:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
+
 Bu yazımızda 13 Kasım haftasında İstanbul'da yapılacak olan Devconnect'e değineceğiz. 
 
 Blokzincir teknolojilerinin temelini oluşturduğu Web3 dünyasının ilerlemesi için birkaç temel koşul var. Bunlardan en önemlisi bu teknolojilerin olabildiğince insan tarafından kullanılması. Şu ana kadar Web3 dünyasının temel büyümesi Ethereum blokzincirinden geldi. (Aşağıda en bilinen kullanım metriği olan kilitli değer miktarı açısından blokzincirlerin bir karşılaştırmasını görüyorsunuz). 
@@ -42,6 +51,16 @@ Kripto dünyasının lider ekosistemi Ethereum'un 2023 yılında bir araya gelec
 
 ---
 
+*Not 1: Bu yazı ilk olarak 16 Ekim 2023'de [BTCHaber'de yayınlandı](https://www.btchaber.com/ekosistemin-kalbi-kasim-ayinda-istanbulda-atacak/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
+
+---
+
 [^1]: Ethereum'un geliştiriciler için düzenlediği iki büyük konferans bulunmakta. Bunlardan birincisi çok daha merkezi bir yapıda olan [Devcon](https://devcon.org/) - ki bu sene düzenlenmeyecek ve önümüzdeki yıl güneydoğu Asya'da yapılacak.  İkincisi ise ülkemizde düzenlenen Devconnect. 
 
 [^2]: Etkinliklerin listesi sadece [Devconnect](https://devconnect.org/schedule) sayfası ile sınırlı değil. Bunun yanında [web3events](https://www.web3event.org/topic/5#Topic), [Crypto Events](https://cryptoevents.xyz/DevconnectWeek) ve [luma](https://lu.ma/devconnect) üzerinde listelenmiş onlarca etkinlik daha var.
+
+---
