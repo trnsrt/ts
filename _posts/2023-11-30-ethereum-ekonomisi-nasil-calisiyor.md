@@ -1,4 +1,10 @@
-Ethereum'un ekonomisi
+---
+layout: post
+title:  "Ethereum ekonomisi nasıl çalışıyor?"
+date:   2023-11-30 18:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
 
 Bu yazımızda Ethereum ağının ekonomisinin nasıl çalıştığına, önemli aktörlerine ve üzerinde ne tip bir değer yaratıldığına değineceğiz. 
 
@@ -78,6 +84,14 @@ Bunlar dışında, gelir kalemleri içinde saydığımız MEV, kullanıcılardan
 
 ### Arkası yarın
 Bir sonraki yazımızda Ethereum’un geliştirici ekibi tarafından ortaya atılan ‘ultrasound money’ kavramına, önümüzdeki dönem planlanan değişikliklere ve bu değişikliklerin piyasadaki ether miktarını nasıl etkileyeceğine bakacağız. 
+
+---
+
+*Not 1: Bu yazı ilk olarak 30 Kasım 2023'de [BTCHaber'de yayınlandı](https://www.btchaber.com/ethereumun-ekonomisi-nasil-calisiyor/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
 
 ---
 
