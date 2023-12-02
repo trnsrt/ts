@@ -24,10 +24,10 @@ Etkinlik posteri
 <p>Bu da yayının YouTube linki.</p>
 </td></tr> 
 <tr><td style="width:50%">
-<img src="/assets/eth-gunu-sahne-2">
+<img src="/assets/eth-gunu-sahne-2.jpg">
 </td>
 <td style="width:50%">
-<img src="/assets/eth-gunu-sahne-3">
+<img src="/assets/eth-gunu-sahne-3.jpg">
 </td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
