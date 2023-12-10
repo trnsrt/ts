@@ -13,7 +13,7 @@ Ethereum'un ekosistemini incelediğimiz bu mini yazı dizisinin geçen bölümü
 ### Peki bütün bunlar ether token için ne ifade ediyor?
 Ether token sahipleri, Ethereum üzerindeki gelirlere doğrudan ya da dolaylı şekilde sahip oluyorlar. Nasıl mı? Anlatalım: 
 
-| ![ether-akisi](/assets/ether-akisi.jpg)|
+| ![ether-akisi](/assets/ether-akisi_v2.jpg)|
 |:--:| 
 |*Etherin doğuşu ve yakılışının sistem aktörleri ile ilişkisi. Sol taraf sistemin bastığı parayı, sağ taraf ise sistemin yaktığı parayı göstermekte. Çizgili bağlantılar dolaylı etkiyi, düz çizgi bağlantılar ise direkt değer aktarımını göstermekte.*|
 
