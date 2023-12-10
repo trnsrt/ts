@@ -15,7 +15,7 @@ Ether token sahipleri, Ethereum üzerindeki gelirlere doğrudan ya da dolaylı �
 
 | ![ether-akisi](/assets/ether-akisi.jpg)|
 |:--:| 
-|*Geçtiğimiz yazıda verdiğimiz şemanın bir benzeri; çizgili bağlantılar dolaylı değer transferini, düz çizgi bağlantılar ise direkt değer aktarımını göstermekte. Burada dikkate edilmesi gereken nokta, Ethereum sisteminin verdiği ödüllerin bir önceki şemaya eklenmiş olması. Bunun nedeni, bu ödülün sistemin yarattığı bir değer olmayıp 'havadan' basılıyor olması. Ekonomik olarak etkisi ise artan token miktarı, dolayısıyla yaratılan toplam değerden token başına düşen payı azaltıyor olması. Bu durum, token sahipleri için azalan değer anlamına gelirken, onaylayıcılar için ödüller ellerindeki token miktarını artırdığı için ellerindeki toplam değerin aynı kalması sonucu doğuruyor.*|
+|*Etherin doğuşu ve yakılışının sistem aktörleri ile ilişkisi. Sol taraf sistemin bastığı parayı, sağ taraf ise sistemin yaktığı parayı göstermekte. Çizgili bağlantılar dolaylı etkiyi, düz çizgi bağlantılar ise direkt değer aktarımını göstermekte.*|
 
 Ether token sahiplerinin, Ethereum sisteminin yarattığı gelire direkt olarak sahip olabilmelerinin yolu sistemin güvenliği ve işleyişine katkı vermelerinden geçiyor. Bunun için de Ethereum sisteminde bir onaylayıcı olmaları ve ellerindeki etheri sisteme rehin etmeleri gerekiyor. Bu da ether tokeni Ethereum sistemine kilitlemek (ingilizcesi Stake etmek) yoluyla mümkün [^1]. 
 
@@ -29,7 +29,7 @@ Ethereum PoS sistemine geçtiğinden beri, piyasadaki ether miktarının nasıl 
 
 | ![ethereum-para-arzi](/assets/ethereum-para-arzi.jpg)|
 |:--:| 
-|* Ethereum sisteminde yıllar itibariyle para miktarının değişimi. Kaynak: [Token Terminal](https://tokenterminal.com/resources/crypto-research/ethereum-investment-framework#the-business-model)*|
+|*Ethereum sisteminde yıllar itibariyle para miktarının değişimi. Kaynak: [Token Terminal](https://tokenterminal.com/resources/crypto-research/ethereum-investment-framework#the-business-model)*|
 
 Her ne kadar hâlâ toplam ether arzının gelecekte ne olacağı bitcoin kadar belli olmasa da, en azından piyasadaki etherin yıllık artış miktarı %1.5 ile sınırlanmış durumda. (Bu da teorik ve gerçekçi olmayan bir rakam: Piyasadaki tüm etherlerin sisteme kilitlendiği ve hiç işlem yapılmadığı durumu gösteriyor. Şu anki durumda toplam arzın sadece %20’si kilitli ve yakılan miktar ile birlikte piyasadaki toplam ether azalıyor). 
 
@@ -48,13 +48,13 @@ Ethereum topluluğu ilk kuruluşunda işin teknolojisine odaklanıp para tarafı
 
 | ![ethereum-degisiklikler](/assets/ethereum-degisiklikler.jpg)|
 |:--:| 
-|* Ethereum sisteminde gerçekleşen iki büyük değişim. Kaynak: [Token Terminal](https://tokenterminal.com/resources/crypto-research/ethereum-investment-framework#the-business-model)*|
+|*Ethereum sisteminde gerçekleşen iki büyük değişim. Kaynak: [Token Terminal](https://tokenterminal.com/resources/crypto-research/ethereum-investment-framework#the-business-model)*|
 
 Bu iki devrim niteliğindeki gelişme sonrası ether arzı, BTC'nin çok daha altında gelmeye hatta pek çok zaman eksiye dönmeye başladı. Yani ether sadece gümüş gibi işlevsel bir maden olmanın ötesinde altın gibi kısıtlı bir madene dönüşmeye başladı. İşte bu nedenle, Ethereum topluluğu "Eğer Bitcoin'e sağlıklı para (sound money) diyorsanız, ETH'ye 'ultra-sağlıklı para' (ultra-sound money) demelisiniz" şeklinde bir söylem geliştirdiler. 
 
 | ![ether-vs-btc-para-arzi](/assets/ether-vs-btc-para-arzi.jpg)|
 |:--:| 
-|* Ethereum sisteminde gerçekleşen iki büyük değişim. Kaynak: [Token Terminal](https://tokenterminal.com/resources/crypto-research/ethereum-investment-framework#the-business-model)*|
+|*Ethereum sisteminde gerçekleşen iki büyük değişim. Kaynak: [Token Terminal](https://tokenterminal.com/resources/crypto-research/ethereum-investment-framework#the-business-model)*|
 
 Şaka (İngilizce 'meme)' olarak başlayan bu söylemin arkasında önemli bir mantık var aslına bakarsanız: Etherum PoS sistemine geçtikten sonra sistemin güvenliğini etherlerini rehin veren onaylayıcılar sağlıyorlar demiştik. Ether ne kadar ultra-sağlıklı para olarak kabul edilirse, üzerindeki parasal prim o kadar artacak. Bu artış etherin değerini artıracak. Etherin artan değeri, ethereum sisteminin güvenliğini de artırmış olacak. 
 
