@@ -13,7 +13,7 @@ Ethereum'un ekosistemini incelediğimiz bu mini yazı dizisinin geçen bölümü
 ### Peki bütün bunlar ether token için ne ifade ediyor?
 Ether token sahipleri, Ethereum üzerindeki gelirlere doğrudan ya da dolaylı şekilde sahip oluyorlar. Nasıl mı? Anlatalım: 
 
-| ![ether-akisi](/assets/ether-akisi-jpg)|
+| ![ether-akisi](/assets/ether-akisi.jpg)|
 |:--:| 
 |*Geçtiğimiz yazıda verdiğimiz şemanın bir benzeri; çizgili bağlantılar dolaylı değer transferini, düz çizgi bağlantılar ise direkt değer aktarımını göstermekte. Burada dikkate edilmesi gereken nokta, Ethereum sisteminin verdiği ödüllerin bir önceki şemaya eklenmiş olması. Bunun nedeni, bu ödülün sistemin yarattığı bir değer olmayıp 'havadan' basılıyor olması. Ekonomik olarak etkisi ise artan token miktarı, dolayısıyla yaratılan toplam değerden token başına düşen payı azaltıyor olması. Bu durum, token sahipleri için azalan değer anlamına gelirken, onaylayıcılar için ödüller ellerindeki token miktarını artırdığı için ellerindeki toplam değerin aynı kalması sonucu doğuruyor.*|
 
