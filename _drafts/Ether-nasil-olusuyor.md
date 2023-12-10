@@ -52,7 +52,7 @@ Ethereum topluluğu ilk kuruluşunda işin teknolojisine odaklanıp para tarafı
 
 Bu iki devrim niteliğindeki gelişme sonrası ether arzı, BTC'nin çok daha altında gelmeye hatta pek çok zaman eksiye dönmeye başladı. Yani ether sadece gümüş gibi işlevsel bir maden olmanın ötesinde altın gibi kısıtlı bir madene dönüşmeye başladı. İşte bu nedenle, Ethereum topluluğu "Eğer Bitcoin'e sağlıklı para (sound money) diyorsanız, ETH'ye 'ultra-sağlıklı para' (ultra-sound money) demelisiniz" şeklinde bir söylem geliştirdiler. 
 
-| ![ether-vs-btc-para-arzi](/assets/ether-vs-btc-para-arzi.jpg)|
+| ![ether-vs-btc-para-arzi](/assets/ether-vs-btc-para-arzi_v2.jpg)|
 |:--:| 
 |*Ethereum sisteminde gerçekleşen iki büyük değişim. Kaynak: [Token Terminal](https://tokenterminal.com/resources/crypto-research/ethereum-investment-framework#the-business-model)*|
 
