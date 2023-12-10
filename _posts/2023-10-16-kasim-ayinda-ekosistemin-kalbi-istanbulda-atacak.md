@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Kasım ayında Ethereum ekosisteminin kalbi İstanbu'da atacak"
+title:  "Kasım ayında Ethereum ekosisteminin kalbi İstanbul'da atacak"
 date:   2023-10-16 18:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
