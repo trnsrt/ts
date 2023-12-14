@@ -27,7 +27,7 @@ Piyasadaki ether miktarı verilen ödüller nedeniyle artıyor, kullanıcıları
 
 Ethereum PoS sistemine geçtiğinden beri, piyasadaki ether miktarının nasıl değiştiğini aşağıdaki tablo net olarak açıklıyor. 
 
-| ![ethereum-para-arzi](/assets/ethereum-para-arzi_v2.jpg)|
+| ![ethereum-para-arzi](/assets/ethereum-para-arzi.jpg)|
 |:--:| 
 |*Ethereum sisteminde yıllar itibariyle para miktarının değişimi. Kaynak: [Token Terminal](https://tokenterminal.com/resources/crypto-research/ethereum-investment-framework#the-business-model)*|
 
@@ -52,7 +52,7 @@ Ethereum topluluğu kuruluşunda ilk olarak işin teknolojisine odaklanıp para 
 
 Bu iki devrim niteliğindeki gelişme sonrası ether arzı, BTC'nin çok daha altında gelmeye hatta pek çok zaman eksiye dönmeye başladı. Yani ether sadece gümüş gibi işlevsel bir maden olmanın ötesinde altın gibi kısıtlı bir madene dönüşmeye başladı. İşte bu nedenle, Ethereum topluluğu "Eğer Bitcoin'e sağlıklı para (sound money) diyorsanız, ETH'ye 'ultra-sağlıklı para' (ultra-sound money) demelisiniz" şeklinde bir söylem geliştirdiler. 
 
-| ![ether-vs-btc-para-arzi](/assets/ether-vs-btc-para-arzi.jpg)|
+| ![ether-vs-btc-para-arzi](/assets/ether-vs-btc-para-arzi_v2.jpg)|
 |:--:| 
 |*Ethereum ve Bitcoin para basımının Ethereum PoS sistemine geçtikten sonraki dönem için karşılaştırması. Beyaz çizgi Ethereum PoS sistemine geçmeseydi yaşanacak artış miktarını, mavi çizgi ise PoS sistemine geçtikten sonra yaşanan artış miktarını gösteriyor. Mavi çizginin eksiyi göstermesi sistemin bastığından daha fazlasını yaktığını yani sistemdeki paranın azaldığını gösteriyor. Ortadaki turuncu çizgi ise Bitcoin'in toplam para miktarı. Kaynak: [Ultrasound Money](https://ultrasound.money)*|
 
