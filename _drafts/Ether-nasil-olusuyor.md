@@ -11,21 +11,21 @@ Bu yazımızda Ethereum ekonomisi aktörlerinin yarattığı değerin sistemin p
 Ethereum'un ekosistemini incelediğimiz bu mini yazı dizisinin geçen bölümünde Ethereum'un nasıl bir ekonomi olduğuna ve içinde bulunan aktörlerin bu ekonominin değer yaratımında nasıl bir rol üstlendiğine değinmiştik. Şimdi gelin öncelikle bu aktörlerin kullandığı temel para olan ethere bakalım:  
 
 ### Ethereum’un parası ether (ETH)
-Ether token sahipleri, Ethereum üzerindeki gelirlere doğrudan ya da dolaylı şekilde sahip oluyorlar. Nasıl mı? Anlatalım: 
+Ether token sahipleri, Ethereum üzerinde yaratılan değere doğrudan ya da dolaylı şekilde sahip oluyorlar. Nasıl mı? Anlatalım: 
 
 | ![ether-akisi](/assets/ether-akisi_v2.jpg)|
 |:--:| 
 |*Etherin doğuşu ve yakımının sistem aktörleri ile ilişkisi. Sol taraf sistemin bastığı parayı, sağ taraf ise sistemin yaktığı parayı göstermekte. Çizgili bağlantılar dolaylı etkiyi, düz çizgi bağlantılar ise direkt değer aktarımını göstermekte.*|
 
-Ether token sahiplerinin, Ethereum sisteminin yarattığı gelire direkt olarak sahip olabilmelerinin yolu sistemin güvenliği ve işleyişine katkı vermelerinden geçiyor. Bunun için de Ethereum sisteminde bir onaylayıcı olmaları ve ellerindeki etheri sisteme rehin etmeleri (ingilizcesi 'staking' ya da 'stake') gerekiyor[^1].
+Ether token sahiplerinin, Ethereum sisteminin yarattığı değere direkt olarak sahip olabilmelerinin yolu sistemin güvenliği ve işleyişine katkı vermelerinden geçiyor. Bunun için de Ethereum sisteminde bir onaylayıcı olmaları ve ellerindeki etheri sisteme rehin etmeleri (ingilizcesi 'staking' ya da 'stake') gerekiyor[^1].
 
-Onaylayıcılar yaptıkları işlemler aracılığıyla iki çeşit gelire sahipler. Bunlardan birincisi güvenliği sağladıkları için Ethereum sisteminin onlara verdiği ödül. Piyasadaki toplam ether miktarı sistemin verdiği ödüller oranında yeni ether basılarak artıyor.  Bunun dışında, bir de kullanıcıların ödedikleri işlem ücretlerinin 'bahşiş olarak verilen' ufak bir kısmı onaylayıcılara ödeniyor. Bu para, kullanıcıdan onaylayıcıya akıyor ve piyasadaki toplam ether miktarını değiştirmiyor. 
+Onaylayıcılar yaptıkları işlemler aracılığıyla iki çeşit kazanç elde ediyorlar.  Bunlardan birincisi güvenliği sağladıkları için Ethereum sisteminin onlara verdiği ödül. Piyasadaki toplam ether miktarı sistemin verdiği ödüller oranında yeni ether basılarak artıyor.  Bunun dışında, bir de kullanıcıların ödedikleri işlem ücretlerinin 'bahşiş olarak verilen' ufak bir kısmı onaylayıcılara ödeniyor. Bu para, kullanıcıdan onaylayıcıya akıyor ve piyasadaki toplam ether miktarını değiştirmiyor. 
 
-Dolaylı yoldan gelir ise, elde edilen ücretlerin bir kısmının yakılması sonucu piyasadaki ether miktarının azalması yoluyla oluyor.  Yukarıda bahsettiğimiz 'bahşiş' dışında kullanıcıların ödediği tüm işlem ücretleri yakılıyor. Yani tedavülden kalkıyor. 
+Dolaylı yoldan elde edilen kazanç ise, verilen ücretlerin bir kısmının yakılması sonucu piyasadaki ether miktarının azalması yoluyla oluyor.  Yukarıda bahsettiğimiz 'bahşiş' dışında kullanıcıların ödediği tüm işlem ücretleri yakılıyor. Yani tedavülden kalkıyor. 
 
 Piyasadaki ether miktarı verilen ödüller nedeniyle artıyor, kullanıcıların ödedikleri ücretlerin yakılması nedeniyle azalıyor. Peki bunun kullanıcılara nasıl bir etkisi var? Ether sayısı artınca, toplam oluşan değerden her bir ether başına düşen pay azalıyor. Bu durumda, eğer elinde ether tutan bir kullanıcı iseniz, sizin payınıza düşen değer de aynı oranda düşüyor. Diğer yandan, eğer tokeninizi sisteme kilitlediyseniz, ödülleri siz de aldığınız için toplam içindeki payınızı koruyorsunuz, dolayısıyla oluşan toplam değerden size düşen kısım aynı kalıyor.
 
-Ethereum PoS sistemine geçtiğinden beri, piyasadaki ether miktarının nasıl değiştiğini aşağıdaki tablo net olarak açıklıyor. 
+Başlangıçtan bu yana piyasada bulunan ether miktarının 2021 Ağustos’un yakım işlemlerinin başlaması ve 2022 Eylül’ünde PoS sistemine geçiş sonrası nasıl değiştiğini aşağıdaki tablo net olarak açıklıyor.
 
 | ![ethereum-para-arzi](/assets/ethereum-para-arzi.jpg)|
 |:--:| 
