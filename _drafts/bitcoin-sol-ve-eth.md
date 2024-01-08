@@ -57,7 +57,7 @@ Yukarıdaki söylemin son kullanıcı açısından bir albenisi yok. Yeni gelen 
 
 | ![btc_eth_sol_aylik_ag_ucretleri](/assets/btc_eth_sol_aylik_ag_ucretleri.png)|
 |:--:| 
-|*Üç büyük ağda son iki yılın aylık işlem ücretleri. 'Solana nerede?' diye soracak olursanız, haklısınız. Kullanıcılara ucuz işlem ücreti sunduğunuzda, ağ olarak geliriniz olmuyor maalesef. Kaynak: Dune Analytics/[@sankin](https://dune.com/queries/3275250/5482283)*|
+|*Üç büyük ağda son iki yılın aylık işlem ücretleri. 'Solana nerede?' diye soracak olursanız, haklısınız. Kullanıcılara ucuz işlem ücreti sunduğunuzda, ağ olarak geliriniz olmuyor maalesef. Kaynak: Dune Analytics-[@sankin](https://dune.com/queries/3275250/5482283)*|
 
 
 Kurumsal yatırımcılar ise öncelikle beklenti olarak daha net söylemler içeren bitcoine yöneldiler. Bitcoin ETF'lerinin onaylanması sonrası ise bu yatırımcıların gözü Ethereum ETF'lerinin onayında olacak. Bununla birlikte kurumsal tarafta Ethereum'a ilgiyi artırabilecek birkaç gelişme daha var. Ethereum ağında planlanan yeni geliştirmeler ile ikinci seviye çözümlerin Solana benzeri rakipler ile işlem ücret açısından yarışabilir hale gelmesi sağlanacak. Bunun yanında Ethereum'un rehin edilmesi halinde yatırımcıya bonoya benzer ciddi bir getiri kazandırma özelliği var. Buna bir de, son zamanlarda popüler, rehin edilen etherlerin aynı zamanda başka platformlarda kullanılarak ekstra getiri sağlanması gibi bir özelliğin de (ingilizcede buna ‘restaking deniyor)  eklendiğini düşününün. 
