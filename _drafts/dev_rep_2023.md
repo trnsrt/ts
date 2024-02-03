@@ -26,15 +26,17 @@ Yukarıdaki maddelerden de gördüğünüz gibi, rapordaki en çarpıcı nokta, 
 |:--:| 
 |*Tecrübe bakımından aylık aktif geliştirici sayıları gelişimi. Kaynak: [Electric Capital Developer Report 2023](https://www.developerreport.com/developer-report) Sayfa 12*|
 
-[SLIDE 1A dev report s 12]
-
 Pek öyle sayılmaz. Bu azalmanın temel nedeni, sektöre yeni katkı yapan geliştirici sayısında 2022 yılında görülen patlamanın geçtiğimiz yıl 'sönmüş' olması. Bu da çok normal aslına bakarsanız. 2020 ve 2021 yılında ciddi yatırım alan kripto girişimleri, ürünlerini pazara hazır hale getirebilmek için piyasadaki geliştiricileri adeta havada kapıyorlardı. Bu ortamda, kripto dışı teknoloji tarafındaki pek çok geliştiricinin de alana çok inanmasalar da, verilen yüksek ücretlerin cazibesi ile kripto alanına giriş yaptığını gördük. 2022 yılının ikinci yarısı yaşanan büyük krizler (Terra Luna, 3AC ve FTX) sektöre akan girişim sermayesinin bir anda kurumasına yol açtı. Piyasadaki kış mevsimi etkisiyle projeler, daha uzun süre ayakta kalabilmek için 'yorganı ayaklarına göre uzatmaya' başladılar. Bu da geçtiğimiz yıl geliştirici sayılarında ciddi bir azalmaya yol açtı. 
 
-[SLIDE 1B  s21]
+| ![dev_rep_2023_new_dev-network_value](/assets/dev_rep_2023_p_021.jpg)|
+|:--:| 
+|*Yeni gelen geliştirici sayısı ile ağ değerinin tarihsel karşılaştırması. Kaynak: [Electric Capital Developer Report 2023](https://www.developerreport.com/developer-report) Sayfa 21*|
 
 Burada asıl önemli olan nokta, sektörde uzun süredir olan geliştiricilerin katkı vermeye devam etmesi. Zira, bulunduklar süre ve verdikleri katkı olarak bakıldığında, bu alanda yaratılan kodların  %75'i bir yıldan daha uzun süre bu alanda üreten geliştiriciler tarafından geliyor. 
 
-[SLIDE 1C s15]
+| ![dev_rep_2023_act_devs_tenure](/assets/dev_rep_2023_p_015.jpg)|
+|:--:| 
+|*Tecrübesine göre geliştiricilerin yaptığı katkılar. Kaynak: [Electric Capital Developer Report 2023](https://www.developerreport.com/developer-report) Sayfa 15*|
 
 Geçtiğimiz yıllara göre raporun önemli farklarından biri, bu yıl geliştiricilerin tecrübesine göre farklı pek çok analizi barındırıyor olması. Yerimizi dar olduğu için bu kısımları atlıyoruz ama ilginizi çekiyor ise [rapora](https://www.developerreport.com/developer-report) derinlemesine bakmakta fayda bulabilirsiniz. 
 
@@ -42,7 +44,9 @@ Geçtiğimiz yıllara göre raporun önemli farklarından biri, bu yıl gelişti
 
 Her yıl raporun en ilgi çeken kısmı, farklı ağların kaç adet geliştirici çektiği ve bu sayının bir önceki yıla göre nasıl değiştiği. 2023 yılında farklı ağlara katkı yapan geliştirici sayıları şu şekilde oldu: 
 
-[SLIDE 2A s98]
+| ![dev_rep_2023_dev_growth_top](/assets/dev_rep_2023_p_098.jpg)|
+|:--:| 
+|*Zirvedeki ağların 2022-23 arası geliştirici sayısı gelişimi. Kaynak: [Electric Capital Developer Report 2023](https://www.developerreport.com/developer-report) Sayfa 98*|
 
 Raporu ilk göz görenler için ufak bir açıklama yapalım. Öncelikle tabloda ismi yazanlar, büyük ağlar diyebileceğimiz 2000'in üzerinde geliştiriciye sahip ağlar. Yatay eksen, ağların 2022 yılı sonunda, dikey eksen ise 2023 yılı sonundaki geliştirici sayılarını gösteriyor. Eğer bir ağ, yukarıda gördüğünüzü 0% çizgisinin solunda yer alırsa, bir yıl içinde geliştirici sayısını artırmış anlamına geliyor. Altında ise, geliştirici sayısında azalma var. Gördüğünüz gibi geçtiğimiz yıl geliştirici sayısını artıran büyük bir ağ yok. 
 
@@ -50,16 +54,21 @@ Ethereum'un liderliğinin bu yıl da değişmediği görüyoruz. Aslına bakarsa
 
 Ethereum'un bu kadar ön planda olmasının temel nedenlerinden biri elbette ekosisteminin çok geniş olması. Bunun yanında, Ethereum üzerine geliştirme yapılan programlama aracının (Ethereum Virtual Machine kısaca EVM) yeni çıkan pek çok zincir tarafından da kullanıldığını görüyoruz. Mevcut programcıların alıştıkları bu aracı kullanarak kendileri için de hızlıca geliştirmesi amacıyla EVM uyumlu olarak ortaya çıkan bu zincirler, EVM'in sektör için bir standart haline gelmesine de yol açıyorlar. 
 
-[SLIDE 2B s32]
+| ![dev_rep_2023_dev_multi-chain](/assets/dev_rep_2023_p_032.jpg)|
+|:--:| 
+|*Geliştiricilerin geliştirme yaptığı farklı ağ sayısı. Kaynak: [Electric Capital Developer Report 2023](https://www.developerreport.com/developer-report) Sayfa 32*|
 
 Nitekim, EVM'in sektör standardı haline gelmesiyle birlikte, birden fazla ağ üzerine geliştirme yapan yazılımcıların sayılarının da arttığını görüyoruz. Aşağıdaki grafikte, birden fazla ağa geliştirme yapanların içinde EVM, karışık ve EVM dışı olarak ayrımını yıllar itibariyle görebilirsiniz. Birden fazla ağ için akıllı kontrat geliştirenlerin %87'si en az bir EVM ağ için geliştirme yapıyorlar. 
 
-[SLIDE 2C s47]
-
+| ![dev_rep_2023_dev_multi-chain_EVM_non-EVM](/assets/dev_rep_2023_p_047.jpg)|
+|:--:| 
+|*Birden çok zincirde çalışan geliştiricilerin EVM ya da EVM dışı çalıştıkları ağa göre dağılımı. Kaynak: [Electric Capital Developer Report 2023](https://www.developerreport.com/developer-report) Sayfa 47*|
 
 EVM üzerine geliştirme yapan geliştiricilerin genel olarak izlediği yol, programı (bir başka deyişle akıllı kontratın) ilk olarak Ethereum üzerine kurmak ve oradan diğer EVM uyumlu ağlara yaymak şeklinde.  Aşağıda, EVM uyumlu kontratların ilk olarak hangi ağa yüklendiğini görüyorsunuz. 
 
-[SLIDE 2D s59]
+| ![dev_rep_2023_initial_deployments](/assets/dev_rep_2023_p_059.jpg)|
+|:--:| 
+|*Akıllı kontratların ilk yüklendiği zincirlerin dağılımı. Kaynak: [Electric Capital Developer Report 2023](https://www.developerreport.com/developer-report) Sayfa 59*|
 
 Burada, Electric Capital'in yaptığı ilginç bir diğer inceleme ise, herhangi bir ağa yüklenen akıllı kontratın (ve mantığının) ilk olarak nereden alındığı, yani kaynağı. Buna baktığımızda, EVM uyumlu ağların büyük çoğunluğunda yeni akıllı kontratların kaynağının Ethereum olduğu görülüyor. 
 
@@ -67,7 +76,9 @@ Burada, Electric Capital'in yaptığı ilginç bir diğer inceleme ise, herhangi
 
 Grafiklerin okunmasını zorlaştıran Ethereum'un farklı liderliğini bir kenara bırakarak, diğer büyük ağlarda durumun nasıl olduğuna zoom yaptığımızda karşımıza şu şekilde bir tablo çıkıyor. 
 
-[SLIDE 3A s100]
+| ![dev_rep_2023_dev_growth_large](/assets/dev_rep_2023_p_100.jpg)|
+|:--:| 
+|*Ethereum dışı 2000'den fazla geliştiriciye sahip 'büyük' ağların 2022-23 arası geliştirici sayısı gelişimi. Kaynak: [Electric Capital Developer Report 2023](https://www.developerreport.com/developer-report) Sayfa 100*|
 
 Tablodan genel olarak yapabileceğimiz çıkarımlar şu şekilde:
 * Bütün ağlarda genel olarak geliştirici sayısında bir azalma var. O nedenle, ağların performansını sektör ortalaması olan %23'in altında ve üstünde olmalarına bağlı olarak göreceli olarak değerlendirmek mümkün. 
@@ -76,41 +87,51 @@ Tablodan genel olarak yapabileceğimiz çıkarımlar şu şekilde:
 
 Büyük ağları geçip daha da küçük ağlara baktığımızda ise şimdiye kadar gördüğümüz düşüş tablosunun bir parça kırıldığını görüyoruz. 
 
-[SLIDE 3B s102]
+| ![dev_rep_2023_dev_growth_medium](/assets/dev_rep_2023_p_102.jpg)|
+|:--:| 
+|*500 ile 2000 arası geliştiriciye sahip göreceli 'küçük' ağların 2022-23 arası geliştirici sayısı gelişimi. Kaynak: [Electric Capital Developer Report 2023](https://www.developerreport.com/developer-report) Sayfa 102*|
 
 Grafikte ilgi çekici noktalar şu şekilde. 
 * Daha küçük ağlardan özellikle yeni kurulanlarda geçtiğimiz içinde ciddi bir geliştirici sayısı artışı görülüyor. Bunun yanı sıra kimi eski ağların yıldızının yavaş yavaş sönmeye başladığı da ayan beyan ortada. 
 * En ciddi gelişimi gösterenler, Scroll (%453), ICP (%37), zkSync (%32) ve Moonbeam (%5) olarak sıralanıyor. 
-* Geride kalanlarda ise Algoran (-%57), Filecoin (%-44) ve IPFS (-%42) başı çekiyor. 
+* Geride kalanlarda ise Algorand (-%57), Filecoin (%-44) ve IPFS (-%42) başı çekiyor. 
 
 ### Geliştiriciler hangi kullanım alanlarında yoğunlaşıyorlar?
 
 Geliştiricilerin ağlarda katkı yaptıkları uygulamalara baktığımızda ağırlığın DeFi ve NFT alanında olduğunu görüyoruz. Örneğin Ethereum üzerinde en çok trafik alan en büyük 15 akıllı kontratın 10 tanesinin merkeziyetsiz finans (DeFi), ikisinin ise NFT alanında olduğunu görüyoruz. 
 
-[SLIDE 4A s146]
+| ![dev_rep_2023_highest_traffic_smart_contracts](/assets/dev_rep_2023_p_146.jpg)|
+|:--:| 
+|*En yüksek trafiğe sahip Ethereum akıllı kontratları. Kaynak: [Electric Capital Developer Report 2023](https://www.developerreport.com/developer-report) Sayfa 146*|
 
 Peki ya DeFi içinde hangi alanlara rağbet ediyor geliştiriciler diye soracak olursanız, aşağıdaki tablo bu konuda yıllar itibariyle nasıl bir gelişim olduğu konusunda güzel bir fikir verebilir bizlere. 
 
-[SLIDE 4B s155]
+| ![dev_rep_2023_defi_devs_app_categories](/assets/dev_rep_2023_p_155.jpg)|
+|:--:| 
+|*DeFi üzerindeki uygulama alanlarında geliştiricilerin yıllar itibariyle dağılımı. Kaynak: [Electric Capital Developer Report 2023](https://www.developerreport.com/developer-report) Sayfa 155*|
 
 Gördüğünüz gibi, DeFi alanındaki geliştirimelerin yaklaşık yarısı merkeziyetsiz alım-satım platformları (bir diğer deyişler merkeziyetsiz borsalar) ve stabil paralar alanında olmuş. Onları, likit staking, kredi verme, mevduat, köprü ve gerçek dünya varlıklarının tokenleştirilmesi projeleri izlemiş. 
 
 NFT alanında ise karşımıza ilginç bir tablo çıkıyor. Aşağıda ay ay NFT alanında yapılan akıllı kontrat geliştirmeleri görüyorsunuz. 
 
-[SLIDE 4C s165]
+| ![dev_rep_2023_NFT_deployments](/assets/dev_rep_2023_p_165.jpg)|
+|:--:| 
+|*Farklı ağlara yüklenen NFT kontratlarının aylık olarak gelişimi/dağılımı. Kaynak: [Electric Capital Developer Report 2023](https://www.developerreport.com/developer-report) Sayfa 165*|
 
 Geliştirici sayılarında ciddi bir hakimiyeti olan Ethereum'un NFT geliştirmesi alanında geride kaldığını görüyoruz. Burada liderliği geçtiğimiz yıl ortaya çıkan Ordinals akımının sürüklediği Bitcoin ve ucuz işlem ücretlerinin hareketlilik getirdiği Solana'da olduğu görülüyor. Ethereum yüksek işlem ücretleri nedeniyle NFT'ye değil ancak DeFi gibi büyük meblağların oynadığı alana hitap edebiliyor artık. 
 
 ### Nerelerde konumlanıyor geliştiriciler?
 Son olarak, geliştiricilerin hangi bölgelerde yoğunlaştığına baktığımızda, ABD'nin liderliğini korusa da, kripto dünyasındaki geliştiricilerin %74'ünün ABD dışında olduğu dikkat çekiyor.
 
-[SLIDE 5A s177]
+| ![dev_rep_2023_dev_locations](/assets/dev_rep_2023_p_177.jpg)|
+|:--:| 
+|*Ülkelere göre geliştiricilerin dağılımı. Ülkemiz için rakam tam olarak verilmese de, renk skalasından yaklaşık %3 civarı olduğu görülüyor. Kaynak: [Electric Capital Developer Report 2023](https://www.developerreport.com/developer-report) Sayfa 177*|
 
-Geliştiricilerin coğrafi olarak dağılımına baktığımızda ise dağılımın zaman içinde gelişmiş ülkelerden gelişmekte olanlara doğru kaydığını görüyoruz. 
+Geliştiricilerin coğrafi olarak dağılımına baktığımızda ise dağılımın zaman içinde gelişmiş bölgelerden gelişmekte olanlara doğru kaydığını görüyoruz. 
 
-[SLIDE 5A s174]
+| ![dev_rep_2023_dev_location_change](/assets/dev_rep_2023_p_175.jpg)|
+|:--:| 
+|*Bölgelere göre geliştiricilerin paylarının yıllar içinde değişimi. Kaynak: [Electric Capital Developer Report 2023](https://www.developerreport.com/developer-report) Sayfa 175*|
 
 ### Sonuç
 Geliştiriciler kripto ekosisteminin can damarı ve geliştirici sayılarındaki değişimler kripto için geleceğin bir öncü göstergesi. 2022 yılında yaşanan krizlerin arkasından gelen kripto kışının geliştirici sayılarında uzun süredir devam eden yükseliş trendine bir darbe vurduğu kesin. Yine de, ekosisteme daha çok katkı veren, tecrübeli geliştiricilerin üretmeye devam etmesi, gelecek için hâlâ umutlarını sürdürdüklerini gösteriyor. Geliştiricilerin üretim yaptıkları ağların konusunda seçici davranıyor olmaları, bize gelecekte hangi ağların kullanıcıya farklı ve gelişmiş uygulamalar sunabileceği konusunda ilginç ipuçları da veriyor. Developer Report bu ve benzeri pek çok çıkarımı yapmak için bize engin bir veri hazinesi sunuyor. Önümüzdeki dönemde de çıkardıkları raporları yakından takip etmeye devam edeceğiz. 
-
-
