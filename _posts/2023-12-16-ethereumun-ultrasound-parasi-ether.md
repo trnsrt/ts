@@ -63,6 +63,9 @@ Bu iki devrim niteliğindeki gelişme sonrası ether arzı, BTC'nin çok daha al
 Bir sonraki yazımızda Ethereum geliştiricilerinin önümüzdeki dönemde planladığı geliştirmelerin neler olduğunu ve bunların Ethereum'un para politikasına nasıl bir etki yapabileceğine değineceğiz. 
 
 ---
+[^1]: Onaylayıcı olmak en az 32 ether kilitlemek gibi bir minimum kapital ile sürekli çalışacak bir makine sahibi olmak ve Ethereum ağına bağlanacak uygun yazılımları yüklemek gibi teknik yetkinlikler gerektiriyor. Kullanıcılar bunun yerine belli bir ücret karşılığı (%5 ile %25 arası değişen komisyonlar ile) daha az miktarda ether vererek likit staking tokenler aracılığıyla da ether staking gelirinden faydalanabiliyorlar. 
+
+---
 
 *Not 1: Bu yazı ilk olarak 16 Aralık 2024'de [BTCHaber'de yayınlandı](https://www.btchaber.com/ethereumun-ultra-sound-parasi-ether/)*
 
