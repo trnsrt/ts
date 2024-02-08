@@ -71,8 +71,8 @@ Bir sonraki yazımızda Ethereum geliştiricilerinin önümüzdeki dönemde plan
 *Genel not: Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
 
 
-[^4]: Uygulamaların Ethereum'a ücret ödediği yerler var tabii ama bunlar işlemlerin yanında daha küçük boyutta. Örneğin, uygulamanın yazıldığı akıllı kontratın Ethereum sistemine işlenmesi ya da uygulama tarafından kullanıcılara gönderilen her tür varlık Iörneğin airdroplar) gibi.
+[^1]: Uygulamaların Ethereum'a ücret ödediği yerler var tabii ama bunlar işlemlerin yanında daha küçük boyutta. Örneğin, uygulamanın yazıldığı akıllı kontratın Ethereum sistemine işlenmesi ya da uygulama tarafından kullanıcılara gönderilen her tür varlık Iörneğin airdroplar) gibi.
 
-[^5]: Ethereum'un para artışını merkez bankasının para basarak emisyonu artırması ya da bir şirketin hisse çıkarması şeklinde düşünebiliriz. Aynı şekilde ether yakılmasını merkez bankasının piyasadan para çekmesi ya da bir şirketin hisselerini satın alması (İngilizcede buy-back) şeklinde değerlendirebiliriz. 
+[^2]: Ethereum'un para artışını merkez bankasının para basarak emisyonu artırması ya da bir şirketin hisse çıkarması şeklinde düşünebiliriz. Aynı şekilde ether yakılmasını merkez bankasının piyasadan para çekmesi ya da bir şirketin hisselerini satın alması (İngilizcede buy-back) şeklinde değerlendirebiliriz. 
 
 
