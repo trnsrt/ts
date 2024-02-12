@@ -1,4 +1,16 @@
+---
+layout: post
+title:  "Bitcoin, Solana ve Ethereum"
+date:   2024-01-16 18:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
 Bu yazımızda, piyasanın en büyük üç oyuncusunun son dönem performanslarına bakıp, bizi gelecekte nelerin beklediğini anlamaya çalışacağız. 
+
+| ![three_pigeons](/assets/pigeons-1242067_800.jpg)|
+|:--:| 
+| *Image by [Makamuki](https://pixabay.com/users/makamuki0-1102736/) from [Pixabay](https://pixabay.com/)*|
 
 ### Son dönemde neler yaşadık?
 
@@ -73,8 +85,13 @@ Ethereum tarafında ise, kısa vadede ETF beklentisi olumlu bir hava estiriyor. 
 
 ---
 
+*Not 1: Bu yazı ilk olarak 16 Ocak 2024'de [Paribulog'da yayınlandı](https://www.paribu.com/blog/perspektif/btc-sol-ve-ethnin-performanslari/)*
 
-Not: Piyasada oluşacak ihtimalleri değerlendiren bu yazıyı, yatırım tavsiyesi olarak almamanızı rica ederiz. 
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Piyasada oluşacak ihtimalleri değerlendiren bu yazıyı, yatırım tavsiyesi olarak almamanızı rica ederiz. Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
+
+---
 
 [^1]: Bu Ethereum ile Solana arasındaki en temel fark aslında. Ethereum kullanıcılara blokzincirin farklı parçalarının farklı oyuncular tarafından sunulabileceği bir dünyayı hedeflerken, Solana daha çok temel işlevlerin tamamının kendi tarafından verildiği bir dünyaya oynuyor.
 
