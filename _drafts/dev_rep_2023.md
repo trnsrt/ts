@@ -66,7 +66,8 @@ Nitekim, EVM'in sektör standardı haline gelmesiyle birlikte, birden fazla ağ 
 
 EVM üzerine geliştirme yapan geliştiricilerin genel olarak izlediği yol, programı (bir başka deyişle akıllı kontratı) ilk olarak Ethereum üzerine kurmak ve oradan diğer EVM uyumlu ağlara yaymak şeklinde.  Aşağıda, EVM uyumlu kontratların ilk olarak hangi ağa yüklendiğini görüyorsunuz. 
 
-| ![dev_rep_2023_initial_deployments](/assets/dev_rep_2023_p_059.jpg)|
+| ![dev_rep_2023_initial_deployments](/assets/dev_rep_2023_p_059_v2
+.jpg)|
 |:--:| 
 |*Akıllı kontratların ilk yüklendiği zincirlerin dağılımı. Kaynak: [Electric Capital Developer Report 2023](https://www.developerreport.com/developer-report) Sayfa 59*|
 
