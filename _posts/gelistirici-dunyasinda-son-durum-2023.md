@@ -1,3 +1,4 @@
+
 Bu yazımızda artık bir gelenek haline gelen, kripto dünyasının lokomotifi olan geliştiriciler tarafında yaşanan değişimlere göz atalım. 
 
 Blockchain bazlı teknolojilerin uygulama alanları olarak da adlandırılan Web3 dünyası halen gelişmekte olan bir sektör. Bu sektörün gelecekte nasıl şekil alacağını gösteren en önemli göstergelerden biri de, bu dünyanın yapı taşlarını kurmak ile uğraşan geliştiriciler. Geliştirici dünyasında yaşanan hareketler bize gelecek ile ilgili önemli ipuçları verebiliyor. 
