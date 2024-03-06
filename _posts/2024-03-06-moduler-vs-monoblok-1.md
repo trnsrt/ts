@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Modüler ve monoblok zinciler - 1"
-date:   2024-03-07 18:17:56 +0300
+date:   2024-03-06 18:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
 ---
@@ -58,7 +58,7 @@ Yelpazenin öbür ucunda ise, yukarıda saydığımız fonksiyonları farklı fa
 
 ---
 
-*Not 1: Bu yazı ilk olarak 6 Mart 2024'de [BTC Haber'de yayınlandı]()*
+*Not 1: Bu yazı ilk olarak 6 Mart 2024'de [BTC Haber'de yayınlandı](https://www.btchaber.com/monoblok-ve-moduler-zincirler/)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
