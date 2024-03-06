@@ -58,6 +58,14 @@ Yelpazenin öbür ucunda ise, yukarıda saydığımız fonksiyonları farklı fa
 
 ---
 
+*Not 1: Bu yazı ilk olarak 6 Mart 2024'de [BTC Haber'de yayınlandı]()*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Piyasada oluşacak ihtimalleri değerlendiren bu yazıyı, yatırım tavsiyesi olarak almamanızı rica ederiz. Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
+
+---
+
 [^1]: Duran blokzincirler yok mu? Var tabii. Bu alanda sabıkası olan zincirler var ama onların henüz yeterince olgunlaşmamış olduğunu söyleyerek şimdilik istisna olarak görüp konumuz dışında bırakıyoruz.
 [^2]: Meşhur 'çifte harcama' problemi, ingilizcesi double spending. Kişi aynı parayı A ve B kişine aynı anda göndermeye çalışabilir. Bunu yaptığında makinelerden bir kısmı A kişisine giden işlemi alır, kimileri ise B kişisine giden işlemi. Böyle bir durumda iki ayrı blok sisteme girer. Zaman içinde topluluk ya A kişine giden bloğun peşine takılır ya da B kişisine giden bloğun. Böylece konsensus oluşmuş olur.
 [^3]: 'Data publishing' olarak adlandırılan bu özellik, kimi zaman 'data availability' olarak yanlış adlandırılabiliyor. 'Data availability' geçmiş tüm işlemlerin saklanması olarak düşünülebilir (bir başka deyişle ingilizcede data storage olarak adlandırılan kavram) - onun blokzincir üzerindeki tüm makinelerde saklanmasına gerek yok. Birkaç makine bütün geçmişi (ya da arşivi) saklayabilir.
