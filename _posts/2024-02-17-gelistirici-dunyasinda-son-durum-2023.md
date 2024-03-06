@@ -1,4 +1,10 @@
-
+---
+layout: post
+title:  "Geliştirici dünyasında son durum - 2023 baskısı"
+date:   2024-02-17 18:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
 Bu yazımızda artık bir gelenek haline gelen, kripto dünyasının lokomotifi olan geliştiriciler tarafında yaşanan değişimlere göz atalım. 
 
 Blockchain bazlı teknolojilerin uygulama alanları olarak da adlandırılan Web3 dünyası halen gelişmekte olan bir sektör. Bu sektörün gelecekte nasıl şekil alacağını gösteren en önemli göstergelerden biri de, bu dünyanın yapı taşlarını kurmak ile uğraşan geliştiriciler. Geliştirici dünyasında yaşanan hareketler bize gelecek ile ilgili önemli ipuçları verebiliyor. 
@@ -136,3 +142,13 @@ Geliştiricilerin coğrafi olarak dağılımına baktığımızda ise dağılım
 
 ### Sonuç
 Geliştiriciler kripto ekosisteminin can damarı ve geliştirici sayılarındaki değişimler kripto için geleceğin bir öncü göstergesi. 2022 yılında yaşanan krizlerin arkasından gelen kripto kışının geliştirici sayılarında uzun süredir devam eden yükseliş trendine bir darbe vurduğu kesin. Yine de, ekosisteme daha çok katkı veren, tecrübeli geliştiricilerin üretmeye devam etmesi, gelecek için hâlâ umutlarını sürdürdüklerini gösteriyor. Geliştiricilerin üretim yaptıkları ağlar konusunda seçici davranıyor olmaları, bize gelecekte hangi ağların kullanıcıya farklı ve gelişmiş uygulamalar sunabileceği konusunda ilginç ipuçları da veriyor. Developer Report bu ve benzeri pek çok çıkarımı yapmak için bize engin bir veri hazinesi sunuyor. Önümüzdeki dönemde de çıkardıkları raporları yakından takip etmeye devam edeceğiz. 
+
+---
+
+*Not 1: Bu yazı ilk olarak 17 Şubat 2024'de [BTC Haber'de yayınlandı](https://www.btchaber.com/gelistirici-dunyasinda-son-durum-2023-edition/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Piyasada oluşacak ihtimalleri değerlendiren bu yazıyı, yatırım tavsiyesi olarak almamanızı rica ederiz. Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
+
+---
