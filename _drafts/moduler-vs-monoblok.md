@@ -1,3 +1,6 @@
+Modüler ve monoblok zincirler
+#YAZI I
+
 Blokzincir altyapıları konusunda en çok konuşulan ve üzerine kafa yorulan konulardan biri monoblok ve modüler blokzincir yapıları. Ne demek, ne işe yarar, gelin hep birlikte bakalım. 
 
 ### Blokzincir üzerindeki uygulamaların uyumu
@@ -42,7 +45,7 @@ Bitcoin ve Solana'nın başını çektiği ağlar, monoblok yapı dediğimiz bir
 
 Solana ise, çok daha genele hitap eden, üzerinde akıllı kontrat çalışan bir ağ. Onlar ise, ölçeklenme problemini blokları büyüterek çözdüler. Bu durumun yan etkisi, sistemi yürüten makinelerin yüksek kapasite ihtiyacı, bunu karşılayacak makine sayısı az olduğu için sistemin merkezileşme riski. 
 
-Yelpazenin öbür ucunda ise, yukarıda saydığımız fonksiyonları farklı farklı yapan yerler var. Örneğin, son birkaç yıldır en çok konuşulan konu Ethereum üzerine kurulu ikinci seviye çözümler. Gelin önce ikinci seviye çözümlerin mantığını anlamaya çalışalım. 
+Yelpazenin öbür ucunda ise, yukarıda saydığımız fonksiyonları farklı farklı yapan yerler var. Örneğin, son birkaç yıldır en çok konuşulan konu Ethereum üzerine kurulu ikinci seviye çözümler. Bir sonraki yazımızda ikinci seviye çözümlere modülerlik açısından bakacağız. 
 
 #YAZI II
 
