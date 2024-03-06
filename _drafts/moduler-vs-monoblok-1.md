@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Modüler ve monoblok zinciler - 1"
-date:   2024-01-16 18:17:56 +0300
+date:   2024-03-07 18:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
 ---
