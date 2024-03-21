@@ -24,7 +24,7 @@ Bunlardan ilki Blockchain Türkiye aracılığıyla 2019 yılında yayınlanan "
 <p>Sorularla Blockchain (2019)  <a href="http://bit.ly/Sorularla_Blockchain">Buradan indirebilirsiniz</a> </p> 
 </td>
 <td style="width:50%; vertical-align:top">
-<p>Sorularla DeFi - Merkeziyetsiz Finans (2022) <a href="https://indd.adobe.com/view/5b99bb77-877f-47f7-a881-33ef427205b6">Buradan indirebilirsiniz</a> </p>
+<p>Sorularla DeFi - Merkeziyetsiz Finans (2022) <a href="https://indd.adobe.com/view/5b99bb77-877f-47f7-a881-33ef427205b6">Buradan okuyabilirsiniz</a> </p>
 </td></tr> 
 </table>
 
