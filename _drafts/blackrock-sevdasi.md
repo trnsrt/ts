@@ -17,7 +17,7 @@ Bitcoin ETF'lerinin Ocak ayında kabul olması Blackrock'un genel piyasa havası
 
 | ![etf_inflows](/assets/blackrock-etf_original_w_headline.png)|
 |:--:| 
-| *Kaynak: [The Block](https://www.theblock.co/data/crypto-markets/bitcoin-etf))*|
+| *Tabloda ilk çıkışından itibaren ETF'lere girişileri görüyorsunuz. Kısaltmalarını gördüğünüz fonları çıkaranlar ise şu şekilde: IBIT-Blackrock, FBTC-Fidelity, ARKB-Ark Invest, BITB-Bitwise, HODL-VanEck. Kaynak: [The Block](https://www.theblock.co/data/crypto-markets/bitcoin-etf)*|
 
 ### Gelelim son olaya. Ne oldu?
 Bu alanda Blackrock'un yaptığı son hamle ise 100 milyon ABD Doları büyüklüğünde bir fon kurmak oldu. Fon, ABD'deki nakit, tahvil, bono ve repo'lara yatırım yapacak. En büyük özelliği ise fonun hisselerinin birer dolarlık tokenler halinde blokzincir üzerinde işlenmesi olacak[^5]. Fonun yaptığı işlemlerden kazandığı gelir, her ay sonunda hesaplanıp token sahiplerinin blokzincirdeki hesaplarına ekstra token olarak gönderilecek. Bu arada Blackrock, kripto dünyasına şık bir selam çakarak fonun ismini BUIDL koymuş[^3].
