@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "BlackRock'ın kripto sevdası"
-date:   2024-03-27 18:17:56 +0300
+date:   2024-03-27 12:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
 ---
@@ -52,7 +52,7 @@ Wall Street'in ETF'ler ile başlayan kripto dünyası ile flörtü, BlackRock'ı
 ---
 
 
-*Not 1: Bu yazı ilk olarak 27 Mart 2024'de [BTC Haber'de yayınlandı]()*
+*Not 1: Bu yazı ilk olarak 27 Mart 2024'de [BTC Haber'de yayınlandı](https://www.btchaber.com/blackrockin-kripto-sevdasi/)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
