@@ -1,11 +1,23 @@
+---
+layout: post
+title:  "Modüler ve monoblok zinciler - II: İkinci seviye çözümler"
+date:   2024-03-20 18:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
 Yazı dizimizin bu bölümünde modüler blokzincir yapısına, Ethereum üzerine inşa edilmiş ikinci seviye ağlar üzerinden bakıyoruz. 
 
-Geçtiğimiz [yazıda](https://www.btchaber.com/monoblok-ve-moduler-zincirler/) blokzincir ağlarının temel sıkıntısı olan ölçeklenme sorununa değinmiştik. Bu sorunu çözmeye yönelik olarak, eskiden beri süregelen monoblok (yani tek ya da yekpare) blokzincir yapısına karşı son dönemde ön plana çıkan modüler (yani legolar gibi birbirine kenetlenen farklı parçalardan oluşan) blokzincir yapılarını anlatmıştık. (Konuya uzak iseniz başlamadan önce [o yazıyı](https://www.btchaber.com/monoblok-ve-moduler-zincirler/) okumanızı tavsiye ederim)
+Geçtiğimiz [yazıda](https://www.btchaber.com/monoblok-ve-moduler-zincirler/) blokzincir ağlarının temel sıkıntısı olan ölçeklenme sorununa değinmiştik. Bu sorunu çözmeye yönelik olarak, eskiden beri süregelen monoblok (yani tek ya da yekpare) blokzincir yapısına karşı son dönemde ön plana çıkan modüler (yani legolar gibi birbirine kenetlenen farklı parçalardan oluşan) blokzincir yapılarını anlatmıştık. (Konuya uzak iseniz başlamadan önce [o yazıyı](/genel/2024/03/06/moduler-vs-monoblok-1.html) okumanızı tavsiye ederim)
 
 Şimdi gelin hep birlikte, bu modüler yapıya akıllı kontrat platformlarının en büyüğü olan Ethereum'un üzerine inşa edilen ikinci seviye blokzincirlere bir göz atalım.  
 
 ### İkinci seviye çözümler 
 Ethereum'un kısıtları konusunda da değindiğimiz gibi, üstüne gelen yoğun talebi karşılayamayan Ethereum sistemi, merkeziyetsizlikten ödün vermeden büyüyebilmenin yolunu kimi fonksiyonlarını dışarıya atmakta buldu. Burada ön plana çıkan konu ikinci seviye çözümler oldu. 
+
+| ![house](/assets/house-1961182_800.jpg)|
+|:--:| 
+| *Image by [photosforyou](https://pixabay.com/users/photosforyou-124319/) from [Pixabay](https://pixabay.com/)*|
 
 İkinci seviye çözümler, yukarıda saydığımız dört fonksiyon içinden Ethereum üzerinde en çok yer işgal eden 'işlem gerçekleştirme'yi Ethereum üzerinden almaya talip. Tam olarak ne demek bu? Açıklayalım: 
 
@@ -30,6 +42,16 @@ Peki ikinci seviye çözümler, aralarındaki rekabet sonucu işlem ücretlerini
 ### Arkası yarın
 
 Modüler yapının en uç örneklerinden biri olan Celestia, bir sonraki yazımızın konusu olacak. 
+
+---
+
+*Not 1: Bu yazı ilk olarak 20 Mart 2024'de [BTC Haber'de yayınlandı](https://www.btchaber.com/monoblok-ve-moduler-zincirler-ii-ikinci-seviye-cozumler/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Piyasada oluşacak ihtimalleri değerlendiren bu yazıyı, yatırım tavsiyesi olarak almamanızı rica ederiz. Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
+
+---
 
 [^1]: Meşhur 'çifte harcama' problemi, ingilizcesi double spending. Kişi aynı parayı A ve B kişine aynı anda göndermeye çalışabilir. Bunu yaptığında makinelerden bir kısmı A kişisine giden işlemi alır, kimileri ise B kişisine giden işlemi. Böyle bir durumda iki ayrı blok sisteme girer. Zaman içinde topluluk ya A kişine giden bloğun peşine takılır ya da B kişisine giden bloğun. Böylece konsensus oluşmuş olur. 
 [^2]: 'Data publishing' olarak adlandırılan bu özellik, kimi zaman 'data availability' olarak yanlış adlandırılabiliyor. 'Data availability' geçmiş tüm işlemlerin saklanması olarak düşünülebilir  (bir başka deyişle ingilizcede data storage olarak adlandırılan kavram) - onun blokzincir üzerindeki tüm makinelerde saklanmasına gerek yok. Birkaç makine bütün geçmişi (ya da arşivi) saklayabilir. 
