@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "BlackRock'ın kripto sevdası"
+date:   2024-03-27 18:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
 Bu haftaki yazımızda, ABD'nin en büyük varlık yöneticilerinden BlackRock'ın Ethereum blokzinciri üzerine kurduğu tokenleştirilmiş menkul kıymet hizmetinden bahsedeceğiz. 
 
 Kripto dünyasının Wall Street ile olan ilişkisinde artık son safhaya geçmeye başladık. Bu durum yanlış bir şekilde Gandhi'ye ithaf edilen 'Önce seni görmezden gelirler, sonra sana gülerler, arkasından seninle savaşırlar ve sonrasında sen kazanırsın'[^1] sözünü hatırlatıyori. Bunun son örneği ise ünlü fon yöneticisi BlackRock'ın geçtiğimiz hafta içinde Ethereum ağı üzerinde çıkardığı 100 milyon ABD Doları değerindeki tokenleştirilmiş menkul kıymet oldu. Şimdi gelin önce olayı daha net anlayalım, sonrasında da neden bu kadar önemli bir olay olduğuna göz atalım: 
@@ -7,7 +15,7 @@ BlackRock, toplam 10 trilyon ABD Doları (evet, yanlış yazım yok, tam tamına
 
 | ![rocks](/assets/basalt-bars-2173278_800.jpg)|
 |:--:| 
-| *Image by [ JimboChan](https://pixabay.com/users/jimbochan-1645900/) from [Pixabay](https://pixabay.com/)*|
+| *Image by [JimboChan](https://pixabay.com/users/jimbochan-1645900/) from [Pixabay](https://pixabay.com/)*|
 
 BlackRock'ın kripto ile ilişkisi, başlangıçta hemen hemen her Wall Street fonu gibi oldukça mesafeliydi. Öyle ki bir Wall Street efsanesi olan BlackRock CEO'su Larry Fink, 2017 yılında yaptığı bir söyleşide Bitcoin için 'para aklamanın en büyük göstergesi' tabirini [kullanmıştı](https://www.cnbc.com/2017/10/13/BlackRock-ceo-larry-fink-calls-bitcoin-an-index-of-money-laundering.html).  
 
@@ -38,8 +46,17 @@ Peki, ya bu fon BlackRock'ın şu günlerde esen kripto rüzgarından faydalanma
 Bir başka önemli nokta ise, BlackRock'ın fonu kamuya açık bir blokzincir olan Ethereum üzerinde kurması. Bu bir zamanlar kurumsal tarafta çokça denemesi yapılan özel (kapalı) blokzincir üzerine kurulu yapılardan ayrışıyor. BlackRock'ın bu işlemi birlikte yürüttüğü Securitize'in kurucusu Carlos Domingo, yaptığı bir söyleşide JPMorgan gibi bankaların kanuni zorunluluktan dolayı kapalı blokzincirler kullandıklarını ama bunun ideal bir yapı olmadığını belirtiyor. Zira, bir dolara eşitlenmiş bir token çıkardığınızda, diğer girişimlerin bu tokenin kullanılabileceği farklı ürünler geliştirebilmesinin tek yolunun herkese açık bir blokzincir kullanmak olduğunu vurguluyor. İzinle girilen blokzincirler bu anlamda imtiyazlı birkaç kurumun oyun oynadığı kum havuzu olmanın ötesine geçemiyorlar. Domingo, BlackRock'ın vizyon sahibi bir kurum olarak token varlıkların geleceğinin açık blokzincirlerde olacağını öngördüğünü söylüyor. Bbu nedenle onları açık zincir kullanmak konusunda ikna etmek zorunda kalmamış. Bu arada, Ethereum kullanılmasının temel nedenini hem en olgun hem de en büyük akıllı kontrat platformu olmasına bağlıyor. Bunu söylerken, geleceğin farklı zincirlerin bir arada yaşayacağı (ingilizcede multi-chain denen) bir dünyadan geçtiğini belirterek, diğer blokzincirlere de göz kırpmayı ihmal etmiyor. 
 
 ### Sonuç
+
 Wall Street'in ETF'ler ile başlayan kripto dünyası ile flörtü, BlackRock'ın açıkladığı BUIDL fonu ile bir sonraki aşamaya geçti gibi. Bu fon açık blokzincir üzerine geliştirilmiş bir ürün;  JPMorgan'ın liderliğini yaptığı 'mış' gibi yaparak ilerleyen özel blokzincir üzerine kurulu 'steril' girişimlerinden değil. Devamını merakla bekliyoruz.
 
+---
+
+
+*Not 1: Bu yazı ilk olarak 27 Mart 2024'de [BTC Haber'de yayınlandı]()*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Piyasada oluşacak ihtimalleri değerlendiren bu yazıyı, yatırım tavsiyesi olarak almamanızı rica ederiz. Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
 
 ---
 
