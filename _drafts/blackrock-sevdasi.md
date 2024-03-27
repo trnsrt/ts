@@ -5,6 +5,10 @@ Kripto dünyasının Wall Street ile olan ilişkisinde artık son safhaya geçme
 ### BlackRock'ın kripto ile ilişkisi nereden nereye evrildi?
 BlackRock, toplam 10 trilyon ABD Doları (evet, yanlış yazım yok, tam tamına 10 trilyon!) bir portföye sahip olan dünyanın en büyük varlık yöneticisi. O kadar büyük ve önemli bir fon ki, "BlackRock bir yana diğer bütün fonlar bir yana" desek çok da yanılmış olmayız. 
 
+| ![rocks](/assets/basalt-bars-2173278_800.jpg)|
+|:--:| 
+| *Image by [ JimboChan](https://pixabay.com/users/jimbochan-1645900/) from [Pixabay](https://pixabay.com/)*|
+
 BlackRock'ın kripto ile ilişkisi, başlangıçta hemen hemen her Wall Street fonu gibi oldukça mesafeliydi. Öyle ki bir Wall Street efsanesi olan BlackRock CEO'su Larry Fink, 2017 yılında yaptığı bir söyleşide Bitcoin için 'para aklamanın en büyük göstergesi' tabirini [kullanmıştı](https://www.cnbc.com/2017/10/13/BlackRock-ceo-larry-fink-calls-bitcoin-an-index-of-money-laundering.html).  
 
 Zaman içinde özellikle 2020 yılındaki pandemi sırasında kurumsal dünyanın kriptoparalara karşı duruşunun yavaş yavaş değişmeye başlaması BlackRock'ı da etkiledi. Fon, 2022 yılının Ağustos ayında artan ilgi karşısında kurumsal yatırımcılara kriptoya erişim hizmeti verebilmek için Coinbase ile ortaklık yaptığını [açıkladı](https://www.coindesk.com/business/2022/08/04/BlackRock-to-offer-crypto-for-institutional-investors-through-coinbase-prime/). Asıl bomba ise geçtiğimiz yıl Haziran ayında BlackRock'ın spot Bitcoin ETF başvurusunda bulunduğu [haberi ile geldi](https://www.investopedia.com/BlackRock-files-for-a-spot-bitcoin-etf-7547609). ABD'de hemen hemen her ürün için çıkarılan ETF'ler temel olarak, temsil ettikleri ürünün (örneğin altın, bakır gibi) değerine bağlı olarak değişen ve klasik borsalarda işlem gören hisse senetlerine deniyor. Bitcoin ETF'i hem Bitcoin'in artık kendini bir yatırım aracı olarak kabul ettirmesi hem de kriptoya uzak ama Bitcoin'in getirisinden faydalanmak isteyen geniş bir kitleyi kendine çekmesi olasılığı nedeniyle oldukça önemli bir eşik noktası olarak görülüyordu. 
