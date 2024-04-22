@@ -88,7 +88,7 @@ Runes'un BRC-20'ye göre belki de tek ciddi dezavantajı token transferlerinde b
 ### Peki ne işe yarayacak bu Runes?
 Runes, bir standart olarak Bitcoin üzerinde token yaratılmasını sağlıyor olacak. Bu tokenlerin ne işe yarayacağını şu andan kestirebilmek zor. Tek bildiğimiz Bitcoin üzerinde çok ciddi bir değer tutulmakta ancak bu değer atıl olarak duruyor.  
 
-| ![bitcoin-islem-potansiyeli](/assets/bitcoin-token-potansiyel.png)|
+| ![bitcoin-islem-potansiyeli](/assets/bitcoin-token-potansiyel_v2.png)|
 |:--:| 
 | *Bitcoin üzerinde çok ciddi bir değer dururken, üzerinde bulunan tokenlerin değeri Ethereum ve Solana’ya göre neredeyse yok denecek kadar az. Kaynak: [Franklin Templeton Digital Assets](https://twitter.com/FTI_DA/status/1779979775651561691)*|
 
