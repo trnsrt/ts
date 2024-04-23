@@ -21,6 +21,9 @@ Yarılanma olayı en çok madencileri etkiliyor. Öyle ya, aldıkları ödüller
 
 İşte bugünkü asıl konumuz, Bitcoin sisteminin daha fazla kullanılmasını ve daha fazla madenci geliri yaratılmasını sağlayacak olan yeni bir standart üzerine olacak: Runes. 
 
+| ![runes](/assets/runes-7031879_800.jpg)|
+|:--:| 
+| *Image by [kay](https://pixabay.com/users/yaky_x-25675739/) from [Pixabay](https://pixabay.com/)*|
 
 ### Nedir Runes?
 
