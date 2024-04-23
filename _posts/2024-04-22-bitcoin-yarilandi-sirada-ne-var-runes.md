@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bitcoin yarılandı, sırada ne var?"
+title:  "Bitcoin yarılandı, sırada ne var? Runes Protocol"
 date:   2024-04-22 12:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
@@ -36,7 +36,7 @@ Peki Bitcoin üzerinde benzer standartlar kurulamaz mıydı? Kurulabilirdi tabii
 |:--:| 
 | *Bitcoin sisteminde ödenen işlem ücretleri (kırmızı ve gri olanlar ordinals standardı kullanılarak yapılan işlemlere ödenen ücretler). Normal transferler hâlâ yüksek olsa da, kimi dönemlerde BRC-20 işlemlerin ciddi artış gösterdiği görülüyor. Kaynak: [Dune Analytics @cryptokoryo](https://dune.com/cryptokoryo/brc20)*|
 
-Ordinals'ın başarısı sonrası, aslında NFT'ler için yaratılmış bu standardı değiştirilebilir tokenlere uyarlayan bir dizi standart daha ortaya çıktı. Bunlar içinde en tutulanı Ethereum'un ERC-20'sinden esinlenerek isimlendirilen BRC-20 standardı oldu. Oldu olmasına ama bu standartlar henüz çok kabul görmüş değiller. Bunun iki temel nedeni var: Birincisi, Ordinals'ın NFT'ler için tasarlanmış olması ve normal tokenler için kullanıldığında işlem maliyetlerinin yüksek olması. İkincisi ise, BRC-20 standardını ortaya çıkaran kişinin konuyu bir taslak olarak ortaya atıp bırakması ve devamını getiren kişilerin farklı farklı versiyonlar üretmesi nedeniyle gerçek bir standardizasyon sağlanamaması.
+Ordinals'ın başarısı sonrası, aslında NFT'ler için yaratılmış bu standardı değiştirilebilir tokenlere uyarlayan bir dizi standart daha ortaya çıktı. Bunlar içinde en tutulanı Ethereum'un ERC-20'sinden esinlenerek isimlendirilen BRC-20 standardı oldu. Oldu olmasına ama bu standartlar henüz çok kabul görmüş değiller. Bunun iki temel nedeni var: Birincisi, Ordinals'ın NFT'ler için tasarlanmış olması ve normal tokenler için kullanıldığında işlem maliyetlerinin yüksek olması. İkincisi ise, BRC-20 standardını ortaya çıkaran kişinin konuyu bir taslak olarak ortaya atması ve devamını getiren kişilerin farklı farklı versiyonlar üretmesi nedeniyle gerçek bir standardizasyon sağlanamaması.
 
 İşte yukarıda saydığımız tüm bu olayların ardından, Ordinals protokolünü yazan kişi sadece değiştirilebilir tokenlerin kullanımına uygun sıfırdan yeni bir standart yazarak topluluğun hizmetine sundu. Casey Rodarmor isimli bu geliştiricinin yarattığı Runes standardı, Bitcoin'in yarılanması ile birlikte dolaşıma girdi. 
 
@@ -103,7 +103,7 @@ Sonuç olarak, tutması halinde Runes, Bitcoin sistemini daha da canlandıracak 
 ---
 
 
-*Not 1: Bu yazı ilk olarak 22 Nisan 2024'de [BTC Haber'de yayınlandı]()*
+*Not 1: Bu yazı ilk olarak 22 Nisan 2024'de [BTC Haber'de yayınlandı](https://www.btchaber.com/bitcoin-yarilandi-sirada-ne-var/)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
