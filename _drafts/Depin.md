@@ -1,3 +1,27 @@
+Bu yazımızda önümüzdeki bir değil belki on yıl boyunca çok konuşulacak konulardan olan merkeziyetsiz fiziksel altyapı dünyasına bakacağız. 
+
+### Merkeziyetsizlik ama bir yere kadar
+
+Merkeziyetsizlik kavramı aracıları ortadan kaldırarak gücü kullanıcılara veriyor olması nedeniyle önemli bir konu. Bu söylem kulağa çok hoş geliyor olsa da, aslına bakarsanız merkeziyetsizlik anlamında yolun daha henüz başındayız. Kullandığımız blokzincir sistemlerinin sadece ufak bir kısmı merkeziyetsiz yani birbirinden bağımsız olarak hareket eden küçük parçalardan oluşuyor. 
+
+Özellikle altyapının derinliklerine indiğimizde ise göz korkutucu bir merkeziliğin olduğunu görüyoruz. Örneğin, sistemleri işleten makinelerin büyük çoğunluğu Amazon Web Services (AWS) gibi büyük servis sağlayıcıların sunucularında. Projelerin de kullanıcıların da datalarının büyük bir kısmı yine merkezi kurumların elinde ve bu durum [Cambridge Analytica örneğinden](https://tr.wikipedia.org/wiki/Facebook-Cambridge_Analytica_veri_skandal%C4%B1) de hatırlayacağımız gibi biz son kullanıcılar için büyük bir sorun. 
+
+Peki Web3 dünyasının altyapılarını bu tip merkezi kurumların hegemonyasından kurtarıp, hizmet sağlayıcı ile kullanıcı arasındaki bu güç dengesizliğini biraz daha adil bir eşitliğe doğru çekebilir miyiz (merkeziyetsiz finans örneğinde olduğu gibi)?
+
+### Karşınızda DePIN
+
+İşte DePIN diye adlandırılan hareketin içinde bulunan farklı girişimler uzun bir süredir, merkezi kurumların egemenliğindeki altyapıyı merkeziyetsiz hale getirmek için çabalıyorlar. DePIN, ingilizce Decentralized Physical Infrastructure Network (türkçe çevirisiyle Merkeziyetsiz Fiziksel Altyapı Ağları) teriminin kısaltması. Bu girişimlerin temel hedefi, Web2 ve merkezi kurumlar tarafından sunulan ve kritik sayılabilecek altyapıları topluluğun da yardımıyla müşterilere merkeziyetsiz bir şekilde ulaştırmak. 
+
+Peki ne tip altyapılardan bahsediyoruz? Aslına bakarsanız, altyapı hizmetlerinin kapsadığı en alt seviyeden en üst seviyeye her katman için farklı girişimler kurulmuş durumda ancak bir kaç alanın daha öne çıktığını görüyoruz. Nedir bunlar? 
+
+İlerleyen satırlarda daha detaylı bahsedeceğiz ama şu an için zihninizde canlanması için üç örneğin ismini verelim. Birincisi, daha önce bu satırlarda detaylıca incelediğimiz merkeziyetsiz [veri depolama hizmeti Filecoin](/genel/2021/04/20/definin-merkeziyetsiz-deposu-filecoin.html). İkincisi, merkeziyetsiz olarak wi-fi ve mobil telefon hizmeti sunan [Helium](https://www.helium.com/). Üçüncü ise,  merkeziyetsiz harita depolama hizmeti veren (bir nevi Google Maps'in rakibi olan) [Hivemapper](https://hivemapper.com/explorer). 
+
+Henüz emekleme aşamasında olsa da, ortaya çıkan örneklerden şu an için bu alanı altı temel parçaya ayırmak mümkün[^1].  Her biri ayrı birer yazı konusu olabilecek bu altı alanın birer paragraf özetini şuraya bırakalım:
+
+- **İşlemci gücü**: Belki de en gelişmiş DePIN alanı burası. Genel olarak işlemci gücüne ihtiyaç duyan müşterilere hizmet veren servislerin bulunduğu bir pazar yeri burası. Bu hizmetleri üç ana bölüme ayırmak mümkün: Veri saklama (ingilizcesi 'storage'), CPU ve GPU işlem gücü (ingilizcesi 'compute'), bilgi çekme/erişim (ingilizcesi 'retrieval').
+
+- **Wireless hizmeti**: Internete erişim için kullanılan her tür aracının merkeziyetsiz hale getirilmesi olarak tanımlayabiliriz bu alanı. Bir ara bu kategoriye DeWi (İngilizce 'decentralized wireless'ın kısaltması) denirdi ancak DePIN'in ortaya çıkışıyla birlikte gözden düşerek bu kavramın altına girdi. Temel olarak üç kısma ayrılıyor: Mobil hizmetler, sabit internet ve WiFi. ana alt kablosuz hizmetler. 
+
 - **Toptan veri satışı**: Veri satışı konusunu kavramak başta zor gelebilir. Belki şu şekilde düşünmek bize yardımcı olabilir: Bize 'ücretsiz' olarak sunulduğunu sandığımız hemen hemen her Web2 uygulaması aslında bizim verimizi satarak para kazanıyor ve dünyanın en çok para kazanan ve en değerli şirketleri arasında tepede yer alıyorlar. Dolayısıyla veri satışı çok ama çok büyük bir alan. DePIN içinde ön plana çıkan girişimler ise kişisel verilerden ziyade, genel kullanım amaçlı verileri toplama ve satma konusuna odaklanmışlar. Ön plana çıkan girişimler, (yukarıda da  bahsettiğimiz) haritalar ve özellikle telefonları sensörlerini kullanarak navigasyon benzeri hizmetler sunuyorlar. Bu alanda özellikle ileride yapay zekanın da yardımı ile sensörlerin ürettiği verinin oldukça değerli veri setleri haline getirilmesi mümkün.
 
 - **Hizmet pazar yerleri**: Burada öne çıkan konu, özellikle veriye dayalı her tür fiziki dünya hizmetinin merkeziyetsiz olarak verilmesi. İlk akla gelen örneğimiz de Uber. Temel işlevi şoförler ile kullanıcıları bir araya getirmek olan Über yaptığı bu basit aracılık hizmeti karşılığı ciddi bir komisyon kesen bir Web2 şirketi. Bu alandaki girişimler, sahiplik ve kontrolü lokal operatörlere geri vermeyi hedefliyorlar. Bir başka örnek, özellikle Web3 alanında önemli bir alan haline gelmeye başlayan güvenlik (audit) hizmetlerinin, merkezi kurumlar yerine geliştiriciler ve bağımsız aracılar tarafından verilmesi olarak görülüyor.
