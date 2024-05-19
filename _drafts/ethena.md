@@ -10,7 +10,7 @@ Stabil para deyince ne anlamamız gerektiğini artık üç aşağı beş yukarı
 
 Neyse, stabil paralara geri dönecek olursak, bu alanda liderliği açık ara USDT (Tether ve USDC'nin aldığını görüyoruz). Bu iki stabil paranın ortak özellikleri, merkezi yapılar tarafından çıkarılmış olmaları ve arkasında (en azından teorik olarak) basıldığı miktar kadar itibari paranın banka hesaplarında tutuluyor olması. 
 
-| ![stabil_para-pazari](/assets/stabil-para-pazar-paylari.png)|
+| ![stabil_para-pazari](/assets/stabil-para-pazar-paylari_v2.png)|
 |:--:| 
 | *Dolara çıpalanmış stabil paraların pazar payları. Kaynak: [TheBlock](https://www.theblock.co/data/stablecoins/usd-pegged)*|
 
