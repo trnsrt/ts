@@ -145,9 +145,8 @@ Ethena'nın çıkardığı iki token hem rezerv para olma hem de bir bono gibi k
 
 --
 
-USDe can therefore play an important role as a reserve asset supporting other DeFi applications that require backing (for example, stablecoin issuers) or as a collateral asset on money markets.
 
-Bu yazının hazırlanmasında [Ethena](https://ethena-labs.gitbook.io/ethena-labs) ve Delphi Digital'in 'The rise of Ethena - Unpacking the Emerging Synthetic Dollar' yazısı kaynak olarak kullanıldı. 
+*Bu yazının hazırlanmasında [Ethena](https://ethena-labs.gitbook.io/ethena-labs) ve Delphi Digital'in 'The rise of Ethena - Unpacking the Emerging Synthetic Dollar' yazısı kaynak olarak kullanıldı.*
 
 Notlar:
 [^1]: Yazının hazırlanması sırasında bu oran [%0 seviyesinde idi](https://app.spark.fi/dashboard). 
