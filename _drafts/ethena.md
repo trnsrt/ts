@@ -24,7 +24,7 @@ Burada bir başka önemli nokta da kullanıcının elde ettiği kazanç. Kullan�
 
 [Tether gelirleri]
 
-Bir diğer para olan DAI ise, kullanıcılara ellerindeki DAI'yi sisteme kilitlemeleri durumunda protokol tarafından belirlenen oranda bir faiz veriyor.[^1]
+Bir diğer para olan DAI ise, kullanıcılara ellerindeki DAI'yi sisteme kilitlemeleri durumunda protokol tarafından belirlenen oranda bir faiz veriyor[^1].
 
 İşte son aylarda ortaya çıkan yeni bir stabil para, hem USDT ve USDC'nin merkezi olma, hem de DAI'nin sermaye verimliliği problemlerini çözdüğünü iddia ediyor. Gelin şimdi bu parayı birlikte inceleyelim.
 
@@ -133,7 +133,7 @@ Ethena kurulduktan yana geçen üç ay içinde 2.3 milyar ABD Doları bir büyü
 ### Ethena'nın parası ENA
 Geçtiğimiz dönemde Ethena'nın çok kullanılmasının nedenlerinden biri de sistemi kullananlara verdikleri ENA yönetim tokeni. ENA her ne kadar yönetim tokeni olsa da ileride Ethena'nın kazançlarından bir kısmını almasını bekleyebiliriz. 
 
-Peki Ethena nasıl bir gelir yaratır? Burada üç tane varsayım yapmak gerekiyor. Sisteme teminat olarak yatırılan para ortalama ne kadar olacak? Bu paranın ne kadarı sUSDe olarak geri sisteme konacak? Son olarak da bu para nasıl bir getiri sağlayacak? Eğer mevcut rakamlar devam ederse Eğer Ethena sistemine yatırılan para şu anki gibi 2 milyar ABD Doları civarında olmaya devam ederse, sUSDe olarak kilitlenen para toplam miktarın %50'si olursa, bu Ethena'nın kalan 1 milyar ABD Dolarından gelen kazancı cebine atması demek. 2024 yılının ilk altı ayındaki short pozisyon gelirlerinin yaklaşık %12 olduğunu varsayarsak [^4], Ethena'nın yıllık olarak 120 milyon ABD Doları bir geli kazanması işten bile değil. Bu durumda Ethena, en karlı DeFi ürünlerinden biri olarak tarihe geçecek. 
+Peki Ethena nasıl bir gelir yaratır? Burada üç tane varsayım yapmak gerekiyor. Sisteme teminat olarak yatırılan para ortalama ne kadar olacak? Bu paranın ne kadarı sUSDe olarak geri sisteme konacak? Son olarak da bu para nasıl bir getiri sağlayacak? Eğer mevcut rakamlar devam ederse Eğer Ethena sistemine yatırılan para şu anki gibi 2 milyar ABD Doları civarında olmaya devam ederse, sUSDe olarak kilitlenen para toplam miktarın %50'si olursa, bu Ethena'nın kalan 1 milyar ABD Dolarından gelen kazancı cebine atması demek. 2024 yılının ilk altı ayındaki short pozisyon gelirlerinin yaklaşık %12 olduğunu varsayarsak [^3], Ethena'nın yıllık olarak 120 milyon ABD Doları bir geli kazanması işten bile değil. Bu durumda Ethena, en karlı DeFi ürünlerinden biri olarak tarihe geçecek. 
 
 Bu arada şu anki short pozisyon gelirlerinin geçmiş yıllara göre az olduğunu, normalde bu ortalamanın yaklaşık %30'lar seviyesinde olduğunu belirtelim. Yine de Ethena, long ve short pazarındaki dengesizlikten yararlanarak bu kadar yüksek getiriler elde ediyor. İleride, bu pazara girecek kurumsal oyuncular da benzer şekilde short pozisyon açarak bu gelirden pay almak isteyecekler. Bu da short pozisyonların miktarını artırıp long pozisyonlara yaklaştırdığı için elde edilen 'finansman geliri' haliyle azalacak. 
 
@@ -143,13 +143,16 @@ Bu arada yaşanan ilginç bir gelişme daha var. Piyasanın merkeziyetsiz oyuncu
 ### Sonuç 
 Ethena'nın çıkardığı iki token hem rezerv para olma hem de bir bono gibi kazanç sağlama anlamında yatırımcıların bir kısmını tatmin edebilecek ürünler. Kompleks ürünler olmaları nedeniyle riskleri, yazımızda da anlattığımız gibi oldukça fazla - üstelik henüz keşfedilmemiş yenilerinin de gelmesi olası. Ne var ki, getirilerin yüksek olması uzun vadede yatırımcıları kendine çekecek gibi görünüyor. Buna bir de kısa vadede bu yıl sonuna kadar sistemi kullananlara verilecek ENA token teşvikleri eklediğinizde Ethena'nın bir anda bu kadar popüler olmasını anlamak zor değil. Burada üzerinde düşünülmesi ve takip edilmesi gerekenler, uzun vadede yukarıda bahsedilen risklerin Ethena ekibi tarafından nasıl minimize edildiğini görmek, oluşturulan zırhların risklere karşı ne kadar koruyacağını zamana karşı test etmek olacak. Öte yandan, piyasalardaki dengesizlik nedeniyle ortaya çıkan fonlama kazançlarının, Ethena daha da büyüdüğünde nereye evrileceğini, bu kadar kârlı kalıp kalmayacağını gözlemek de önemli. Dikkatle takip ediyor olacağız. 
 
----
+--
+
+USDe can therefore play an important role as a reserve asset supporting other DeFi applications that require backing (for example, stablecoin issuers) or as a collateral asset on money markets.
+
+Bu yazının hazırlanmasında [Ethena](https://ethena-labs.gitbook.io/ethena-labs) ve Delphi Digital'in 'The rise of Ethena - Unpacking the Emerging Synthetic Dollar' yazısı kaynak olarak kullanıldı. 
 
 Notlar:
 [^1]: Yazının hazırlanması sırasında bu oran [%0 seviyesinde idi](https://app.spark.fi/dashboard). 
 
 [^2]: Basitleştirmek amacıyla 'kullanıcı' terimini kullandık. Aslında, bu para basma işinin sadece önceden onaylanmış (ingilizcesi white-listed) oyuncular yapabiliyor. 
 
-[^3]: Bu yazının hazırlanmasında [Ethena](https://ethena-labs.gitbook.io/ethena-labs) ve Delphi Digital'in 'The rise of Ethena - Unpacking the Emerging Synthetic Dollar' yazısı kaynak olarak kullanıldı. 
+[^3]: Short pozisyon gelirleri 2024 yılının ilk çeyreğinde %17.6, ikinci çeyrek Mayıs ayı ortasına kadar %7.92 olarak gerçekleşmiş durumda. 
 
-[^4]: Short pozisyon gelirleri 2024 yılının ilk çeyreğinde %17.6, ikinci çeyrek Mayıs ayı ortasına kadar %7.92 olarak gerçekleşmiş durumda. 
