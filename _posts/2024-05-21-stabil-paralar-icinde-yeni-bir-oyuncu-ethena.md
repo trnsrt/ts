@@ -66,7 +66,7 @@ Kripto piyasalarındaki oyuncular genelde fiyatların yükseleceğini düşünd�
 
 | ![eth-ceyrek-gelirleri](/assets/ortalama-eth-perp-gelirleri_v2.png)|
 |:--:| 
-| *ETH perpetuals piyasalarında çeyrek bazında getiri oranları (yıllandırılmış). Kaynak: [Ethena Labs](https://app.ethena.fi/dashboards/hedging/ETH)*|
+| *ETH perpetuals piyasalarında çeyrek bazında ortalama getiri oranları (yıllandırılmış). Kaynak: [Ethena Labs](https://app.ethena.fi/dashboards/hedging/ETH)*|
 
 Yukarıda üç aylık ortalamalar var. sUSD’nin geçtiğimiz üç ay boyunca sağladığı getirilerinin kimi günlerde %100’lere vardığını, [ortalamada ise %30-40 civarında olduğunu görüyoruz](https://app.ethena.fi/dashboards/yields). 
 
