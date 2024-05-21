@@ -22,7 +22,7 @@ Bu özellik, kullanıcıya bir gün parasını geri almak istediğinde bire bir 
 
 Bu iki büyük paranın dışında, kendini merkeziyetsiz dolayısıyla sansüre karşı daha dayanıklı olarak konumlandıran üçüncü bir küçük oyuncu var, o da MakerDAO tarafından çıkarılan DAI. DAI'nin temel özelliği herhangi bir kurum tarafından değil kullanıcılar tarafından basılıyor olması. Arkasındaki teminat ise başta ETH olmak üzere kriptoparalar ve gerçek dünya varlıklarından oluşuyor (USDC de var). DAI gerçekten merkeziyetsiz olması nedeniyle belli avantajlara sahip olsa da kripto dünyasında bir türlü istediği büyüklüğe ulaşamıyor. Bunun da temel nedeni, arkasında duran teminatların değerinin sürekli değişkenlik gösteriyor olması. Sistem, teminatların olası değer düşüşlerine karşı DAI'nin arkasının sağlam durabilmesi için yüksek teminat istiyor. Örneğin şu anda piyasada olan DAI'nin yaklaşık 2.5 katı bir miktar teminat olarak sisteme kilitlenmiş durumda. Böyle olunca, DAI'nin sermaye verimliliği çok düşük kalıyor. Yani kullanım alanlarına baktığınızda elde edeceğiniz potansiyel gelir, bağladığınız paranın yanında yetersiz kalıyor. 
 
-Burada bir başka önemli nokta da kullanıcının elde ettiği kazanç. Ne Tether ne de USDC'yi çıkaran Circle, paralarını elinde tutan kullanıcılara herhangi bir getiri vaat etmiyor[^6]. Elinizde USDT tuttuğunuzda efektif olarak Tether şirketine faizsiz borç vermiş oluyorsunuz. Zaten, Tether'in en büyük gelir kalemi kendisine verilen bu paralar üzerinden kazandığı faiz geliri. Baksanıza, içinde yaklaşık [110 kişinin çalıştığı](https://www.apollo.io/companies/Tether-to/5569974e736964255dc85c00) Tether'in 2023 yılı gelirleri, o şanlı Wall Street'in en büyük para yöneticisi olan BlackRock'tan bile daha fazla: 
+Burada bir başka önemli nokta da kullanıcının elde ettiği kazanç. Ne Tether ne de USDC'yi çıkaran Circle, paralarını elinde tutan kullanıcılara herhangi bir getiri vaat etmiyor[^3]. Elinizde USDT tuttuğunuzda efektif olarak Tether şirketine faizsiz borç vermiş oluyorsunuz. Zaten, Tether'in en büyük gelir kalemi kendisine verilen bu paralar üzerinden kazandığı faiz geliri. Baksanıza, içinde yaklaşık [110 kişinin çalıştığı](https://www.apollo.io/companies/Tether-to/5569974e736964255dc85c00) Tether'in 2023 yılı gelirleri, o şanlı Wall Street'in en büyük para yöneticisi olan BlackRock'tan bile daha fazla: 
 
 | ![tether_gelirleri](/assets/tether-gelirleri-delphi-digital_v2.png)|
 |:--:| 
@@ -80,11 +80,5 @@ Notlar:
 
 [^2]: Basitleştirmek amacıyla 'kullanıcı' terimini kullandık. Aslında, bu para basma işinin sadece önceden onaylanmış (ingilizcesi white-listed) oyuncular yapabiliyor.  Bu arada her ne kadar Ethena sansüre dayanıklı olduğunu iddia etse de, yarın öbür gün piyasadaki kimi USDe'leri dondurması istenince nasıl bir davranış sergileyecek, bunu tam olarak bilmiyoruz. 
 
-[^3]: Short pozisyon gelirleri 2024 yılının ilk çeyreğinde %17.6, ikinci çeyrek Mayıs ayı ortasına kadar %7.92 olarak gerçekleşmiş durumda. 
-
-[^4]: Bu aslında klasik anlamda bildiğimiz futures vadeli piyasanın bir başka versiyonu. Klasik anlamdaki futures'dan farkı, perpetuals piyasasında herhangi bir vade yok. 
-
-[^5]: Peki bu durumun MakerDAO için riskleri yok mu? Var ancak konumuz bu olmadığı için şimdilik dışarıda bırakıyoruz. Bu riskleri merak edenler Delphi Digital'in yukarıda kaynak olarak verdiğimiz raporunu inceleyebilirler. 
-
-[^6]: Circle'in eski ortağı olan Coinbase USDC'yi kendisine kilitleyenlere [belirli bir oranda getiri veriyor](https://help.coinbase.com/en/coinbase/coinbase-staking/rewards/usd-coin-rewards-faq).
+[^3]: Circle'in eski ortağı olan Coinbase USDC'yi kendisine kilitleyenlere [belirli bir oranda getiri veriyor](https://help.coinbase.com/en/coinbase/coinbase-staking/rewards/usd-coin-rewards-faq).
 
