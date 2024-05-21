@@ -1,6 +1,10 @@
-Stabil paralar içinde yeni bir oyuncu Ethena
-
-# Yazı 1: Stabil para dünyası ve Ethena - nedir?
+---
+layout: post
+title:  "Stabil paralar içinde yeni bir oyuncu (mu?): Ethena"
+date:   2024-05-21 12:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
 
 Bu yazımızda stabil para dünyasında son duruma bir göz attıktan sonra mahalleye yeni gelen çocuk Ethena ve parası olan USDe'den bahsedeceğiz. Bir sonraki yazımızda ise Ethena'nın nasıl bir potansiyel taşıdığına ve olası risklerine değineceğiz. 
 
@@ -81,4 +85,15 @@ Notlar:
 [^2]: Basitleştirmek amacıyla 'kullanıcı' terimini kullandık. Aslında, bu para basma işinin sadece önceden onaylanmış (ingilizcesi white-listed) oyuncular yapabiliyor.  Bu arada her ne kadar Ethena sansüre dayanıklı olduğunu iddia etse de, yarın öbür gün piyasadaki kimi USDe'leri dondurması istenince nasıl bir davranış sergileyecek, bunu tam olarak bilmiyoruz. 
 
 [^3]: Circle'in eski ortağı olan Coinbase USDC'yi kendisine kilitleyenlere [belirli bir oranda getiri veriyor](https://help.coinbase.com/en/coinbase/coinbase-staking/rewards/usd-coin-rewards-faq).
+
+
+---
+
+*Not 1: Bu yazı ilk olarak 21 Mayıs 2024'de [BTC Haber'de yayınlandı](https://www.btchaber.com/stabil-para-dunyasinda-yeni-bir-oyuncu-mu-ethena/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Piyasada oluşacak ihtimalleri değerlendiren bu yazıyı, yatırım tavsiyesi olarak almamanızı rica ederiz. Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
+
+--- 
 
