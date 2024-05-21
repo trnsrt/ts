@@ -79,7 +79,6 @@ Yukarıda üç aylık ortalamalar var. sUSD’nin geçtiğimiz üç ay boyunca s
 
 *Bu yazının hazırlanmasında [Ethena](https://ethena-labs.gitbook.io/ethena-labs) ve Delphi Digital'in 'The rise of Ethena - Unpacking the Emerging Synthetic Dollar' yazısı kaynak olarak kullanıldı.*
 
-Notlar:
 [^1]: Yazının hazırlanması sırasında bu oran [%0 seviyesinde idi](https://app.spark.fi/dashboard). 
 
 [^2]: Basitleştirmek amacıyla 'kullanıcı' terimini kullandık. Aslında, bu para basma işinin sadece önceden onaylanmış (ingilizcesi white-listed) oyuncular yapabiliyor.  Bu arada her ne kadar Ethena sansüre dayanıklı olduğunu iddia etse de, yarın öbür gün piyasadaki kimi USDe'leri dondurması istenince nasıl bir davranış sergileyecek, bunu tam olarak bilmiyoruz. 
@@ -95,5 +94,6 @@ Notlar:
 
 *Genel not: Piyasada oluşacak ihtimalleri değerlendiren bu yazıyı, yatırım tavsiyesi olarak almamanızı rica ederiz. Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
 
+Dipnotlar:
 --- 
 
