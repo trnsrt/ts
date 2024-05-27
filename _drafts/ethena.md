@@ -129,12 +129,12 @@ Bu riski yok etmek mümkün değil ancak Ethena riski azaltmak için çeşitli a
 
 Peki ya Ethena takımı elinde tuttuğu bu paraları 'iç ederse'? Varlıklar üzerindeki bütün kontrolü elinde tutan Ethena saklama ve mahsuplaşma için Copper, Ceffu ve Cobo'yu kullanıyor. Peki ya Copper'a bir şey olursa? Orada da müşteri bakiyeleri olası bir iflastan etkilenmeyen kanuni bir yapıda saklanıyor (ingilizcesi bankruptcy-remote). 
 
-Peki bakiyemizi borsada shortladık,, para da kazanıyorduk ama borsa gitti battı. Ana bakiyeyi kaybetmedik ama kazancımız gitti. Şimdi ne olacak? Bunu önlemek için Ethena, genelde 8 ile 24 saatte bir,elde ettiği kârı borsalardan alıyor. Dolayısıyla risk sadece bu süre ile kısıtlı. 
+Peki bakiyemizi borsada shortladık, para da kazanıyorduk ama borsa gitti battı. Ana bakiyeyi kaybetmedik ama kazancımız gitti. Şimdi ne olacak? Bunu önlemek için Ethena, genelde 8 ile 24 saatte bir,elde ettiği kârı borsalardan alıyor. Dolayısıyla risk sadece bu süre ile kısıtlı. 
 
 Ethena tüm bakiyeleri ve short pozisyonlarını API'ler aracılığıyla alıp sitesinde yayınlıyor. Bunun dışında aylık olarak da emanet tuttuğu yerlerde duran bakiyelerin tam olduğunun teyidini (İngilizce attestation) alıp duyuracak. 
 
 #### Kaldı mı başka risk?
-Olmaz mı? Örneğin tüm DeFİ'de olduğu gibi Ethena'nın kullandığı akıllı kontratlar da risk barındırıyor. Sonuçta bu yeni bir ürün, henüz savaş alanında test edilmedi. 
+Olmaz mı? Örneğin tüm DeFi'de olduğu gibi Ethena'nın kullandığı akıllı kontratlar da risk barındırıyor. Sonuçta bu yeni bir ürün, henüz savaş alanında test edilmedi. 
 
 Sonra, Ethena uygulamasını kullanırken dışarıdan pek çok piyasa bilgisi almak zorunda. Bunun için de oracle dediğimiz bilgi sağlayıcıları kullanıyor. Buralarda oluşabilecek sorunlar Ethena'yı etkileyebilir. Ethena bu riski önlemek için hem Chainlink hem de Pyth bilgi sağlayıcılarını kullanmakta. 
 
