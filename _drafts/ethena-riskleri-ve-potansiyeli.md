@@ -111,7 +111,14 @@ Burada üzerinde düşünülmesi ve takip edilmesi gereken, uzun vadede yukarıd
 
 *Bu yazının hazırlanmasında [Ethena](https://ethena-labs.gitbook.io/ethena-labs) ve Delphi Digital'in 'The rise of Ethena - Unpacking the Emerging Synthetic Dollar' yazısı kaynak olarak kullanıldı.*
 
-Notlar:
+*Not 1: Bu yazı ilk olarak 30 Mayıs 2024'de [BTC Haber'de yayınlandı]()*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Piyasada oluşacak ihtimalleri değerlendiren bu yazıyı, yatırım tavsiyesi olarak almamanızı rica ederiz. Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
+
+**Dipnotlar**
+
 [^1]: Yazının hazırlanması sırasında bu oran [%0 seviyesinde idi](https://app.spark.fi/dashboard). 
 
 [^2]: Basitleştirmek amacıyla 'kullanıcı' terimini kullandık. Aslında, bu para basma işinin sadece önceden onaylanmış (ingilizcesi white-listed) oyuncular yapabiliyor.  Bu arada her ne kadar Ethena sansüre dayanıklı olduğunu iddia etse de, yarın öbür gün piyasadaki kimi USDe'leri dondurması istenince nasıl bir davranış sergileyecek, bunu tam olarak bilmiyoruz. 
@@ -123,13 +130,3 @@ Notlar:
 [^5]: Peki bu durumun MakerDAO için riskleri yok mu? Var ancak konumuz bu olmadığı için şimdilik dışarıda bırakıyoruz. Bu riskleri merak edenler Delphi Digital'in yukarıda kaynak olarak verdiğimiz raporunu inceleyebilirler. 
 
 [^6]: Circle'in eski ortağı olan Coinbase USDC'yi kendisine kilitleyenlere [belirli bir oranda getiri veriyor](https://help.coinbase.com/en/coinbase/coinbase-staking/rewards/usd-coin-rewards-faq).
-
----
-
-*Not 1: Bu yazı ilk olarak 30 Mayıs 2024'de [BTC Haber'de yayınlandı]()*
-
-*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
-
-*Genel not: Piyasada oluşacak ihtimalleri değerlendiren bu yazıyı, yatırım tavsiyesi olarak almamanızı rica ederiz. Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
-
-**Dipnotlar**
