@@ -1,4 +1,11 @@
-# Yazı 2: Ethena: Nasıl çalışır ve riskleri neler?
+---
+layout: post
+title:  "Ethena: Riskleri ve potansiyeli"
+date:   2024-05-30 12:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
 Bu yazımızda, geçtiğimiz hafta başladığımız Ethena sisteminin derinliklerine iniyoruz. 
 
 Geçtiğimiz haftaki yazımızda stabil paralardaki son duruma göz atmış ve bu alanda son çıkan ürün olan Ethena'nın kapısını şöyle bir aralamıştık. 
@@ -117,3 +124,12 @@ Notlar:
 
 [^6]: Circle'in eski ortağı olan Coinbase USDC'yi kendisine kilitleyenlere [belirli bir oranda getiri veriyor](https://help.coinbase.com/en/coinbase/coinbase-staking/rewards/usd-coin-rewards-faq).
 
+---
+
+*Not 1: Bu yazı ilk olarak 30 Mayıs 2024'de [BTC Haber'de yayınlandı]()*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Piyasada oluşacak ihtimalleri değerlendiren bu yazıyı, yatırım tavsiyesi olarak almamanızı rica ederiz. Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
+
+**Dipnotlar**
