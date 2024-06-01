@@ -22,7 +22,7 @@ USDe'nin sisteme kitlenmesi sonrası oluşturulan sUSDe tokeninin getirisi deği
 Ethena'nın kurduğu bu sistem oldukça kompleks ve bu nedenle üzerinde fazlaca risk barındırıyor. Zaten Ethena da bu riskleri tek tek ortaya koyup, nasıl önlemler aldığını açık açık yazıyor. Gelir sırayla bakalım bu risklere: 
 
 #### Short'lamak her zaman gelir getirmiyor ya uzun süre negatif gidip zarar yazarsa?
-Kendinizi sağlama almak için riskinizi satmak istediğinizde (İngilizce buna 'hedge' etmek deniyor) kullandığınız vadeli piyasalara perpetuals (kısaca 'perp') piyasalar deniyor[^4]. Bu piyasalarda risk almak isteyenler ile riski satmak isteyenler bir araya geliyorlar. Hangi taraf ağırlıkta ise diğerine 'fonlama maliyeti' adı altında bir ödeme yapıyor. 
+Kendinizi sağlama almak için riskinizi satmak istediğinizde (İngilizce buna 'hedge' etmek deniyor) kullandığınız vadeli piyasalara perpetuals (kısaca 'perp') piyasalar deniyor[^2]. Bu piyasalarda risk almak isteyenler ile riski satmak isteyenler bir araya geliyorlar. Hangi taraf ağırlıkta ise diğerine 'fonlama maliyeti' adı altında bir ödeme yapıyor. 
 
 Genelde bu piyasalarda işlem yapanlar risk alma iştahına sahipler. Yani işlem yaptıkları varlığın fiyatının yükseleceğini düşünüyorlar ve bu nedenle o varlığın riskini (ve değerinin yükselmesi beklentisini) satın alıyorlar (ingilizcesi 'long' olmak). Long gidenler bunun tam tersi riski satmak isteyen (ingilizcesi 'short' olmak) taraflara ödeme yapıyorlar. Kimi durumlarda, özellikle ayı piyasası hakimken bunun tam tersi de olabiliyor. Yani 'short' olanlar 'long' olanlara ödeme yapıyorlar. 
 
@@ -91,12 +91,12 @@ Ethena kurulduktan bu yana geçen üç ay içinde 2.3 milyar ABD doları büyük
 ### Ethena'nın yönetişim tokeni ENA
 Geçtiğimiz dönemde Ethena'nın çok kullanılmasının nedenlerinden biri de sistemi kullananlara verdikleri ENA yönetişim tokeni. ENA her ne kadar yönetişim tokeni olsa da ileride Ethena'nın kazançlarından bir kısmını almasını bekleyebiliriz.
 
-Peki Ethena nasıl bir gelir yaratır? Burada üç tane varsayım yapmak gerekiyor. Sisteme teminat olarak yatırılan para ortalama ne kadar olacak? Bu paranın ne kadarı sUSDe olarak geri sisteme konacak? Son olarak da bu para nasıl bir getiri sağlayacak? Eğer i) Ethena sistemine yatırılan para şu anki gibi 2 milyar ABD doları civarında olmaya devam ederse ve ii) sUSDe olarak kilitlenen para toplam miktarın %50'si olursa; bu Ethena'nın kalan 1 milyar ABD dolarından gelen kazancı cebine atması demek. 2024 yılının ilk altı ayındaki short pozisyon gelirlerinin yaklaşık %12 olduğunu varsayarsak[^3], Ethena'nın yıllık olarak 120 milyon ABD doları bir gelir kazanması işten bile değil. Bu durumda Ethena, en karlı DeFi ürünlerinden biri olarak tarihe geçecek.
+Peki Ethena nasıl bir gelir yaratır? Burada üç tane varsayım yapmak gerekiyor. Sisteme teminat olarak yatırılan para ortalama ne kadar olacak? Bu paranın ne kadarı sUSDe olarak geri sisteme konacak? Son olarak da bu para nasıl bir getiri sağlayacak? Eğer i) Ethena sistemine yatırılan para şu anki gibi 2 milyar ABD doları civarında olmaya devam ederse ve ii) sUSDe olarak kilitlenen para toplam miktarın %50'si olursa; bu Ethena'nın kalan 1 milyar ABD dolarından gelen kazancı cebine atması demek. 2024 yılının ilk altı ayındaki short pozisyon gelirlerinin yaklaşık %12 olduğunu varsayarsak[^1], Ethena'nın yıllık olarak 120 milyon ABD doları bir gelir kazanması işten bile değil. Bu durumda Ethena, en karlı DeFi ürünlerinden biri olarak tarihe geçecek.
 
 Bu arada şu anki short pozisyon gelirlerinin geçmiş yıllara göre az olduğunu, normalde bu ortalamanın yaklaşık %30'lar seviyesinde olduğunu belirtelim. Yine de Ethena, long ve short pazarındaki dengesizlikten yararlanarak bu kadar yüksek getiriler elde ediyor. İleride, bu pazara girecek kurumsal oyuncular da benzer şekilde short pozisyon açarak bu gelirden pay almak isteyecekler. Bu da short pozisyonları long pozisyonlara yaklaştıracağı için, elde edilen 'finansman geliri' haliyle azalacak.
 
 ### Bir nokta daha: MakerDAO da trene bindi
-Bu arada yaşanan ilginç bir gelişme daha var. Piyasanın merkeziyetsiz oyuncusu olan DAI'yi çıkaran MakerDAO, yakın bir zaman önce açılan DAI/USDe ve DAI/sUSDe havuzlarına 300 milyon DAI enjekte etti. Temel olarak yapılmak istenen şu: ellerinde sUSDe tutan kullanıcılar, bu parayı getirip bu havuza koyarak karşılığında DAI borçlanabilecekler. Sonrasında bu DAI'yi satıp USDe alacak ve aldıkları bu USDe'yi tekrar Ethena sistemine kilitleyerek sUSDe alacak ve bunu tekrar bu havuza koyacaklar. Bu durum, sUSDe getirisi DAI borçlanma getirisinden yüksek olduğu sürece devam edebilecek[^5]. 
+Bu arada yaşanan ilginç bir gelişme daha var. Piyasanın merkeziyetsiz oyuncusu olan DAI'yi çıkaran MakerDAO, yakın bir zaman önce açılan DAI/USDe ve DAI/sUSDe havuzlarına 300 milyon DAI enjekte etti. Temel olarak yapılmak istenen şu: ellerinde sUSDe tutan kullanıcılar, bu parayı getirip bu havuza koyarak karşılığında DAI borçlanabilecekler. Sonrasında bu DAI'yi satıp USDe alacak ve aldıkları bu USDe'yi tekrar Ethena sistemine kilitleyerek sUSDe alacak ve bunu tekrar bu havuza koyacaklar. Bu durum, sUSDe getirisi DAI borçlanma getirisinden yüksek olduğu sürece devam edebilecek[^3]. 
 
 MakerDAO, kendisinden borçlanma yoluyla alınan DAI'ler için [şu anda  %20.82 oranında bir faiz uyguluyor](https://app.morpho.org/market?id=0xc581c5f70bd1afa283eed57d1418c6432cbff1d862f94eaf58fdd4e46afbb67f).  Bu durum hem USDe'nin kullanımını artırıyor, hem de MakerDAO için ekstra bir gelir kapısı yaratıyor. İki tarafı için de kazan-kazan (win-win) bir durum bu. 
 
@@ -111,7 +111,7 @@ Burada üzerinde düşünülmesi ve takip edilmesi gereken, uzun vadede yukarıd
 
 *Bu yazının hazırlanmasında [Ethena](https://ethena-labs.gitbook.io/ethena-labs) ve Delphi Digital'in 'The rise of Ethena - Unpacking the Emerging Synthetic Dollar' yazısı kaynak olarak kullanıldı.*
 
-*Not 1: Bu yazı ilk olarak 30 Mayıs 2024'de [BTC Haber'de yayınlandı]()*
+*Not 1: Bu yazı ilk olarak 30 Mayıs 2024'de [BTC Haber'de yayınlandı](https://www.btchaber.com/ethena-riskleri-ve-potansiyeli/)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
@@ -119,14 +119,9 @@ Burada üzerinde düşünülmesi ve takip edilmesi gereken, uzun vadede yukarıd
 
 **Dipnotlar**
 
-[^1]: Yazının hazırlanması sırasında bu oran [%0 seviyesinde idi](https://app.spark.fi/dashboard). 
 
-[^2]: Basitleştirmek amacıyla 'kullanıcı' terimini kullandık. Aslında, bu para basma işinin sadece önceden onaylanmış (ingilizcesi white-listed) oyuncular yapabiliyor.  Bu arada her ne kadar Ethena sansüre dayanıklı olduğunu iddia etse de, yarın öbür gün piyasadaki kimi USDe'leri dondurması istenince nasıl bir davranış sergileyecek, bunu tam olarak bilmiyoruz. 
+[^1]: Short pozisyon gelirleri 2024 yılının ilk çeyreğinde %17.6, ikinci çeyrek Mayıs ayı ortasına kadar %7.92 olarak gerçekleşmiş durumda. 
 
-[^3]: Short pozisyon gelirleri 2024 yılının ilk çeyreğinde %17.6, ikinci çeyrek Mayıs ayı ortasına kadar %7.92 olarak gerçekleşmiş durumda. 
+[^2]: Bu aslında klasik anlamda bildiğimiz futures vadeli piyasanın bir başka versiyonu. Klasik anlamdaki futures'dan farkı, perpetuals piyasasında herhangi bir vade yok. 
 
-[^4]: Bu aslında klasik anlamda bildiğimiz futures vadeli piyasanın bir başka versiyonu. Klasik anlamdaki futures'dan farkı, perpetuals piyasasında herhangi bir vade yok. 
-
-[^5]: Peki bu durumun MakerDAO için riskleri yok mu? Var ancak konumuz bu olmadığı için şimdilik dışarıda bırakıyoruz. Bu riskleri merak edenler Delphi Digital'in yukarıda kaynak olarak verdiğimiz raporunu inceleyebilirler. 
-
-[^6]: Circle'in eski ortağı olan Coinbase USDC'yi kendisine kilitleyenlere [belirli bir oranda getiri veriyor](https://help.coinbase.com/en/coinbase/coinbase-staking/rewards/usd-coin-rewards-faq).
+[^3]: Peki bu durumun MakerDAO için riskleri yok mu? Var ancak konumuz bu olmadığı için şimdilik dışarıda bırakıyoruz. Bu riskleri merak edenler Delphi Digital'in yukarıda kaynak olarak verdiğimiz raporunu inceleyebilirler. 
