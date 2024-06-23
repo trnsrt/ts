@@ -32,7 +32,7 @@ Bununla da bitmiyor madencilerin çilesi. Ödül kazanmak için amansız bir mü
 
 Uzunca bir süredir Bitcoin üzerinde ödenen işlem ücretleri ödüllerin yanında yok denecek kadar az idi, ta ki geçtiğimiz yıla kadar, 2023 yılı başında ortaya çıkan Ordinals protokolü sayesinde, işlem ücretlerinin madencilerin gelir kalemleri içinde %5 civarına çıktığını gördük. 
 
-| ![hash-rate](/assets/hash-rate.png)|
+| ![hash-rate](/assets/bitcoin-madenci-odulleri.png)|
 |:--:| 
 | *Madencilerin günlük kazançları (milyon ABD Doları - 7 günlük ortalamalar). Kaynak:  [TheBlock](https://www.theblock.co/data/on-chain-metrics/bitcoin)*|
 
