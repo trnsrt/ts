@@ -64,7 +64,3 @@ Bitcoin sistemini kurgulayan Satoshi Nakamoto, yarattığı tanıtım dokümanı
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
 *Genel not: Piyasada oluşacak ihtimalleri değerlendiren bu yazıyı, yatırım tavsiyesi olarak almamanızı rica ederiz. Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
-
-
-
-https://www.btchaber.com/bitcoin-ozerine-cozumler-i/
