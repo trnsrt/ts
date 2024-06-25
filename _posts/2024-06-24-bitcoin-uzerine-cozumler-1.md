@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Bitcoin üzerine ikinci seviye çözümler - I"
+date:   2024-06-25 11:17:56 +0300
+categories: Genel
+tags: Yazılar, DeFi
+---
+
 Gelin önümüzdeki iki yazıda, özellikle son bir yıldır adını daha sık duymaya başladığımız Bitcoin üzerine geliştirilen ikinci seviye çözümlere bakalım. Bu yazımızda, Bitcoin’in daha geniş kesimlerce kullanımının önemini ve bunu kimlerin istediğine göz atacağız. Bir sonraki yazımızda ise Bitcoin üzerindeki çözümlerin tarihçesini, son zamanlarda hızlanmalarına neden olan gelişmeleri ve bu gelişmelerin geleceğini inceleyeceğiz.
 
 ### Blokzincirlerin ölçeklenme sorunu
@@ -46,3 +54,15 @@ Bitcoin sistemini kurgulayan Satoshi Nakamoto, yarattığı tanıtım dokümanı
 Öte yandan, Bitcoin'in 1 ile 2 trilyon ABD Doları arası değişen bir piyasa değeri var.  Kullanıcılar için büyük bir değer ama finansal olarak verimli kullanıldığını söylemek zor. Finansal piyasalarda ya da Ethereum gibi akıllı kontrat platformlarında, elinizde bir değer varsa bunu başkalarına kullandırarak (ya da teminat olarak koyup borç alarak) ekstra bir kazanç elde etmeniz, bir başka deyişle kapitalinizin verimini artırmanız mümkün. Bitcoin sistemi için aynısını söylemek mümkün değil. Dolayısıyla, büyük bir değer sistem içinde atıl olarak duruyor. 
 
 İşte yukarıda saydığımız madenciler ve kullanıcıların taleplerini bir iş fırsatı olarak gören bir grup geliştirici Bitcoin sistemi üzerine aynı Ethereum sisteminde olduğu gibi ikinci seviye çözümler üretmek için kolları sıvadılar. 
+
+---
+
+*Not 1: Bu yazı ilk olarak 25 Haziran 2024'de [BTC Haber'de yayınlandı](https://www.btchaber.com/bitcoin-ozerine-cozumler-i/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Piyasada oluşacak ihtimalleri değerlendiren bu yazıyı, yatırım tavsiyesi olarak almamanızı rica ederiz. Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
+
+
+
+https://www.btchaber.com/bitcoin-ozerine-cozumler-i/
