@@ -53,7 +53,7 @@ Bitcoin sistemini kurgulayan Satoshi Nakamoto, yarattığı tanıtım dokümanı
 
 Öte yandan, Bitcoin'in 1 ile 2 trilyon ABD Doları arası değişen bir piyasa değeri var.  Kullanıcılar için büyük bir değer ama finansal olarak verimli kullanıldığını söylemek zor. Finansal piyasalarda ya da Ethereum gibi akıllı kontrat platformlarında, elinizde bir değer varsa bunu başkalarına kullandırarak (ya da teminat olarak koyup borç alarak) ekstra bir kazanç elde etmeniz, bir başka deyişle kapitalinizin verimini artırmanız mümkün. Bitcoin sistemi için aynısını söylemek mümkün değil. Dolayısıyla, büyük bir değer sistem içinde atıl olarak duruyor. 
 
-#### Arkası yarın
+### Arkası yarın
 
 İşte yukarıda saydığımız madenciler ve kullanıcıların taleplerini bir iş fırsatı olarak gören bir grup geliştirici Bitcoin sistemi üzerine aynı Ethereum sisteminde olduğu gibi ikinci seviye çözümler üretmek için kolları sıvadılar. 
 
