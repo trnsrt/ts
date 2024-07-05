@@ -81,6 +81,14 @@ Ordinals'ın araladığı kapıdan girmeye çalışan farklı çözümler, Bitco
 *Yazıyı gözden geçirerek yorumlarını ileten Citrea kurucularından [Orkun Mahir Kılıç](https://twitter.com/0x_orkun)'a teşekkürlerimi sunarım.*
 *Kaynaklar. 'The Future of Bitcoin - Scaling Bitcoin protocols' Binance Research, 'The Dawn of Bitcoin Programmability - Paving the Way for Rollups' Delphi Research.* 
 
+---
+
+*Not 1: Bu yazı ilk olarak 5 Temmuz  2024'de [BTC Haber'de yayınlandı]()*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Piyasada oluşacak ihtimalleri değerlendiren bu yazıyı, yatırım tavsiyesi olarak almamanızı rica ederiz. Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
+
 
 [^1]: Yan zincirler (örneğin Stacks) güvenlik için farklı protokoller kullanırken, yapılan işlemlerin mahsuplaşmasını da üzerine kurulu oldukları ana zincirin parası olan bitcoin üzerinden değil, kendi paraları üzerinden yapıyorlar. 
 
