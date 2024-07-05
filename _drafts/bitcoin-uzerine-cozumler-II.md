@@ -6,7 +6,7 @@ categories: Genel
 tags: Yazılar, DeFi
 ---
 
-Bundan önceki yazımızda madenci ve kullanıcıların Bitcoin’in üzerindeki işlem miktarının artmasına yönelik taleplerine bakmıştık. 
+Bundan önceki yazımızda madenci ve kullanıcıların Bitcoin’in üzerindeki işlem miktarının artmasına yönelik taleplerine bakmıştık. Şimdi ise bu taleplere karşılık vermeye çalışan Bitcoin üzerine kurulu ikinci seviye çözümlere göz atacağız.
 
 Bitcoin'in sadece bir 'değer saklama aracı' olarak kalması yerine geniş kesimlerce farklı şekillerde kullanılmasını hayal eden bir grup geliştirici Bitcoin sistemi üzerine aynı Ethereum’da olduğu gibi ikinci seviye çözümler üretmek için kolları sıvadılar. Bu geliştiriciler için bu tip çözümlerin üretilmesi hem Bitcoin üzerindeki işlem gelirini artırarak madencilere ek gelir kapısı yaratacak, hem de kullanıcılar için ellerindeki kapitali daha verimli kullanma fırsatı sunacak. Bütün bunların sonunda da geniş kesimler tarafından daha çok kullanılan Bitcoin sistemi değer kazanacak. 
 
