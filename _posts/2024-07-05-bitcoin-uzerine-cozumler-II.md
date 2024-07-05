@@ -83,6 +83,7 @@ Ordinals'ın araladığı kapıdan girmeye çalışan farklı çözümler, Bitco
 ---
 
 *Yazıyı gözden geçirerek yorumlarını ileten Citrea kurucularından [Orkun Mahir Kılıç](https://twitter.com/0x_orkun)'a teşekkürlerimi sunarım.*
+
 *Kaynaklar. 'The Future of Bitcoin - Scaling Bitcoin protocols' Binance Research, 'The Dawn of Bitcoin Programmability - Paving the Way for Rollups' Delphi Research.* 
 
 ---
