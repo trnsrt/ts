@@ -72,7 +72,7 @@ Buradaki tek sorun, Bitcoin üzerindeki geliştirmelerin topluluk tarafından be
 ### Sonuç 
 Bitcoin 'sansürlenemez bir değer saklama aracı' değer önerisi içine sıkışmış durumda. Ödemeler için kullanılması zaman içinde yaygınlaşmadı, hatta tam tersine gerilemeye başladı. Lightning Network benzeri üzerine kurulu ödeme odaklı ölçeklenme çözümleri ise güdük kaldı. 
 
-Bitcoin'in kullanımının ödemeler ile sınırlı kalması, sistemin güvenliğini sağlayan madencilere gelir kapısı olarak sadece blok yaratmada kazanılan ödülleri bırakıyor. Ödüllerin dört yılda bir yarılanması ise ileride madencilerin yavaş yavaş devre dışı kalması ve sistemin sürdürülebilirliğini uzun vadede sıkıntıya girmesi ihtimalini doğuruyor.
+Bitcoin'in kullanımının ödemeler ile sınırlı kalması, sistemin güvenliğini sağlayan madencilere gelir kapısı olarak sadece blok yaratmada kazanılan ödülleri bırakıyor. Ödüllerin dört yılda bir yarılanması ise ileride madencilerin yavaş yavaş devre dışı kalması ve sistemin sürdürülebilirliğinin uzun vadede sıkıntıya girmesi ihtimalini doğuruyor.
 
 Bitcoin'in ödemeler dışında kullanımı ise Ordinals ile başladı ve işlem gelirlerini artırarak madenciler için bir çıkış yolu açtı. 
 
@@ -87,7 +87,7 @@ Ordinals'ın araladığı kapıdan girmeye çalışan farklı çözümler, Bitco
 
 ---
 
-*Not 1: Bu yazı ilk olarak 5 Temmuz  2024'de [BTC Haber'de yayınlandı]()*
+*Not 1: Bu yazı ilk olarak 5 Temmuz  2024'de [BTC Haber'de yayınlandı](https://www.btchaber.com/bitcoin-uzerine-ikinci-seviye-cozumler-ii/)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
