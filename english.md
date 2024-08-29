@@ -14,6 +14,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/turansert
 
 ---
 
+&nbsp;
 
 Seasoned Business Leader | Finance, Technology & Education | Blockchain Enthusiast
 
