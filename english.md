@@ -16,7 +16,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/turansert
 
 &nbsp;
 
-Seasoned Business Leader | Finance, Technology & Education | Blockchain Enthusiast
+Seasoned Business Leader  |  Finance, Technology & Education  |  Blockchain Enthusiast
 
 With over two decades of board-level experience across the US and Europe, I specialize in:
 - Driving business growth and shareholder value
