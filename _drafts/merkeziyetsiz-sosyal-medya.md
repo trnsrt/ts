@@ -5,7 +5,7 @@ date:   2024-08-29 11:17:56 +0300
 categories: Genel
 tags: Yazılar, Web3
 ---
-Bu kısımda gün geçtikçe daha çok gözümüze batmaya başlayan sosyal medya devlerine alternatif olarak ortaya çıkan merkeziyetsiz sosyal medya platformlarından bahsedeceğiz.
+Bu yazımızda gün geçtikçe daha çok gözümüze batmaya başlayan sosyal medya devlerine alternatif olarak ortaya çıkan merkeziyetsiz sosyal medya platformlarından bahsedeceğiz.
 
 ### Sosyal medyanın sorunları
 
