@@ -24,7 +24,7 @@ Yaşanan sarsıntının temelinde Terra sisteminin stabil parası olan UST'nin b
 
 Daha önceki iki yazıda ayrıntılarını incelediğimiz gibi dolara sabit olmakla birlikte Anchor Protokol tarafından yıllık %20 gibi ağız sulandırıcı bir faiz oranı ile yatırımcılara sunulan UST, bir yıldan kısa bir zaman içinde yaklaşık 18 milyar ABD Doları gibi bir büyüklüğe ulaştı. (Yazıların [ilkine](https://medium.com/turansert/ba%C5%9F%C4%B1ma-gelenler-ustnin-hikayesi-21324bb4969f) ve [ikincisine](https://medium.com/turansert/ust-olay%C4%B1nda-son-perde-cd48c9c6e15b) bağlantılardan okuyabilirsiniz)
 
-| ![domino_falls](/assets/ust_piyasa_değeri_800.jpg)|
+| ![domino_falls](/assets/ust_piyasa_degeri_800.jpg)|
 |:--:| 
 | *UST Piyasa Değeri. Kaynak: [CoinGecko](https://www.coingecko.com/en/coins/terraclassicusd)*|
 
