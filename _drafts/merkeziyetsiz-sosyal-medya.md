@@ -49,6 +49,11 @@ Platformsuzlaştırmanın bir başka örneğini, bir zamanlar Facebook üzerinde
 
 Web3 dünyasının son zamanlarda yükselen alanlarından biri olan merkeziyetsiz sosyal medya, kullanıcı ve içerik üreticilerinin yukarıda saydığımız sıkıntılarına çare olmaya çabalıyor.
 
+| ![network](/assets/play-stone-1237497_800.jpg)|
+|:--:| 
+| *Image by [Gerd Altmann](https://pixabay.com/users/geralt-9301/) from [Pixabay](https://pixabay.com/)*|
+
+
 Bu yazımızda sosyal medya alanının hakimi olan merkezi yapılara karşı alternatif olarak ortaya çıkan ve altyapı hizmeti veren platformlara değineceğiz. Merkeziyetsiz bir şekilde yapılanan bu platformların temeli  ‘kullanıcının dijital dünyada ürettiği içerik ve kurduğu ilişkiler üzerinde tam sahipliğinin olması’ prensibine dayanıyor. 
 
 İçerik üreticileri, kullanıcıların beğenisine sundukları içerikleri platformlara ait, genelde dağıtık halde bulunan sunuculara yüklüyorlar. Kullanıcılar ise bu içeriklere tek bir uygulamadan değil birbirinden farklı onlarca uygulama aracılığıyla ulaşabiliyorlar. Hatırlayanlarınız vardır; eskiden Twitter’a farklı farklı uygulamalar kullanarak girebiliyordunuz, sonra bir gün Twitter platformunu bütün bu uygulamalara kapattı. İşte merkeziyetsiz platformların bir çoğunda böyle bir risk söz konusu değil.  
