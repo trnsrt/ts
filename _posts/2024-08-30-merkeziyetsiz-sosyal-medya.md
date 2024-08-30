@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Merkeziyetsiz sosyal medya"
-date:   2024-08-29 11:17:56 +0300
+date:   2024-08-30 08:17:56 +0300
 categories: Genel
 tags: Yazılar, Web3
 ---
@@ -118,7 +118,7 @@ Bu alanda kimi platformlar belli toplulukların himayesinde olmaları sayesinde 
 
 ---
 
-*Not 1: Bu yazı ilk olarak 29 Ağustos 2024'de [BTC Haber'de yayınlandı]()*
+*Not 1: Bu yazı ilk olarak 29 Ağustos 2024'de [BTC Haber'de yayınlandı](https://www.btchaber.com/merkeziyetsiz-sosyal-medya/)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
