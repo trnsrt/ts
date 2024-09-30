@@ -12,6 +12,10 @@ Halbuki gerçek bundan daha farklı. Web3’ün temel değer önerilerinden bir 
 
 Onarıcı finansı (ingilizcesi Regenerative Finance \- ReFi) kısaca finansa yeni bir bakış açısı getirmeyi hedefleyen bir hareket. Amaç genel olarak ‘içine ettiğimiz’ doğayı ve çevreyi onarmak yoluyla toplumun genel olarak refahını artırmak[^2].
 
+| ![network](/assets/refugees-1015310_800.jpg)|
+|:--:| 
+| *Image by [Peggy und Marco Lachmann-Anke](https://pixabay.com/users/elisariva-1348268/) from [Pixabay](https://pixabay.com/)*|
+
 İçinde yaşadığımız sistem, kapital sahiplerinin kârını maksimize etmeye çalışan, büyümeyi yakalamak adına çevresel etkileri hiçe sayan bir sistem. 
 
 ReFi bu anlamda kâr anlayışını değiştirmeye, oluşan değerin sadece kapital sahiplerine değil topluluklara ve çevrenin korunmasına/iyileştirilmesine aktığı bir dünya kurmayı amaçlıyor. 
