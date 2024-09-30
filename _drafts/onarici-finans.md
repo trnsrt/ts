@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Onarıcı Finans (Regenerative Finance - ReFi)"
+date:   2024-09-30 17:17:56 +0300
+categories: Genel
+tags: Yazılar, Web3
+---
+
 ## **Onarıcı Finans (Regenerative Finance)**
 
 Bu yazıda, Web3’ün kendini farklı bir misyona adamış  bir kolu olan onarıcı (yenileyici) finans (ReFi)’den bahsedeceğiz. 
@@ -79,3 +87,12 @@ Onarıcı finans (ReFi), Web3 dünyasının birey odaklı değer önerisi geniş
 [^3]:  Bu tanımlamalar, Toucan’ın ‘What is ReFi’ [yazısından](https://blog.toucan.earth/what-is-refi-regenerative-finance/) alındı. 
 
 [^4]:  Bu arada, ReFi Türkiye’nin yazarınız tarafından iki yıl üst üste verilmiş ücretsiz bir Web3 eğitimi de bulunmakta. 
+
+---
+
+*Not 1: Bu yazı ilk olarak 30 Eylül 2024'de [BTC Haber'de yayınlandı]()*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Piyasada oluşacak ihtimalleri değerlendiren bu yazıyı, yatırım tavsiyesi olarak almamanızı rica ederiz. Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
+
