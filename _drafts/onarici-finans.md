@@ -26,8 +26,9 @@ Mevcut ekonomik sistemlerin doğru teşvik mekanizmalarına sahip olduğunu söy
 
 ReFi, blokzincir teknolojisini kullanarak, kişilerin toplum yararına olan hizmetleri dünyanın neresinde olursa olsun hızlı, şeffaf ve engel tanımadan fonlamasına olanak sağlıyor. Bu hizmetleri fonlamada özellikle bir sonraki bölümümüzde daha detaylı bakacağımız gerçek dünya varlıklarının tokenleştirilmesini kullanıyor.
 
-![][image1]  
-*Ekonomilerin gelenekselden yenileyiciye evrimi. Bill Reed (Regenesis)'in 'Ekolojik dizaynın önündeki yol' makalesinden adapte edilmiştir. Kaynak: [ReFi Türkiye](https://www.refiturkiye.com/)*
+| ![network](/assets/refi-evolving-ecological-economics-v3.jpg)|
+|:--:| 
+| *Ekonomilerin gelenekselden yenileyiciye evrimi. Bill Reed (Regenesis)'in 'Ekolojik dizaynın önündeki yol' makalesinden adapte edilmiştir. Kaynak: [ReFi Türkiye](https://www.refiturkiye.com/)*|
 
 ReFi, bizlere açık kaynak ve defter teknolojisi ile blokzincirin uzlaşma ağlarını kullanarak klasik sistemlere göre çok daha demokratik ve kapsayıcı bir altyapı sunuyor. Bu altyapı ile doğru kişileri ödüllendirmek ve kaynakları en çok ihtiyacı olanlara aktarmak mümkün. Tabii bunu yaparken unutulmaması gereken bir başka nokta da katılımcıların üzerine düşen sorumluluğu aldıklarına emin olmak yani onları hesap verir kılmak. 
 
