@@ -6,8 +6,6 @@ categories: Genel
 tags: Yazılar, Web3
 ---
 
-## **Onarıcı Finans (Regenerative Finance)**
-
 Bu yazıda, Web3’ün kendini farklı bir misyona adamış  bir kolu olan onarıcı (yenileyici) finans (ReFi)’den bahsedeceğiz. 
 
 Web3’ün ne olduğunu anlatırken genelde ilk tanımlamalardan biri gücü bireylere vermek oluyor. Buna bir de Web3’ün altyapısı olan blokzincir teknolojisinin içinden çıktığı ilk ürün olan Bitcoin’i kuranların felsefesini ekleyin. ‘Ne pahasına olursa olsun bireyselliği ön plana çıkaran[^1]’ bu felsefeye de bakınca, Web3’ün toplumu çok da önemsemeyen ve bencil bir oluşum olduğu izlenimi doğabiliyor. 
