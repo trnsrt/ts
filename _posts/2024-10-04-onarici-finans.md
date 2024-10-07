@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Onarıcı Finans (Regenerative Finance - ReFi)"
-date:   2024-09-30 17:17:56 +0300
+date:   2024-10-04 17:17:56 +0300
 categories: Genel
 tags: Yazılar, Web3
 ---
@@ -90,7 +90,7 @@ Onarıcı finans (ReFi), Web3 dünyasının birey odaklı değer önerisi geniş
 
 ---
 
-*Not 1: Bu yazı ilk olarak 30 Eylül 2024'de [BTC Haber'de yayınlandı]()*
+*Not 1: Bu yazı ilk olarak 4 Ekim 2024'de [BTC Haber'de yayınlandı](https://www.btchaber.com/onarici-finans-regenerative-finance-refi/#1)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
