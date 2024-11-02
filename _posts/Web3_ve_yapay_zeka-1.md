@@ -34,7 +34,7 @@ Yapay zeka dediğimiz aslına bakarsanız altyapılardan uygulamalara kadar üst
 
 | ![ai-stack](/assets/ai-stack-a16z_800.jpg)|
 |:--:| 
-| *Yapay zeka teknoloji destesi. Kaynak: [az16 ai](https://a16z.com/who-owns-the-generative-ai-platform/))*|
+| *Yapay zeka teknoloji destesi. Kaynak: [az16 ai](https://a16z.com/who-owns-the-generative-ai-platform/)*|
 
 Destenin en altında koyu lacivert renkli ‘altyapı katmanı’ var. Yapay zekanın yukarıda saydığımız tüm işlemleri yaparak bize istediğimiz sonucu anında verebilmesi için çok ciddi bir donanım ihtiyacı bulunuyor. Gerek işlemciler (çipler) gerekse bulut platformları bu ihtiyacı karşılıyor. İşte bu nedenle Nvidia gibi çip devlerinin hisse değerleri uçuyor. Amazon ve Microsoft’un sahip olduğu AWS ve Azure, kendi şirketlerinin en büyük kâr kaynakları haline geliyor. 
 
