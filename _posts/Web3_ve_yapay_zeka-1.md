@@ -50,7 +50,7 @@ Karşınızda yemeyen içmeyen, sadece ‘enerji harcayan’, gece gündüz çal
 
 | ![ai_capabilities](/assets/our-world-ai-capability_800.jpg)|
 |:--:| 
-| *Her bir alan içinde yapay zekanın ilk performansı \-100’e konulmuş. İnsan performansı ise baz alınarak sıfıra ayarlanmış. Yapay zeka 0 çizgisine geldiğinde insan performansına ulaşmış oluyor. Gördüğünüz gibi yapay zeka okuduğunu anlama, görüntü tanıma, dil anlama konularında insanları geçti. El yazısı ya da ses tanıma ile tahmini akıl yürütme konularında ise bizleri yakalamış durumda. Kaynak: [Our World in Data](https://ourworldindata.org/artificial-intelligence))*|
+| *Her bir alan içinde yapay zekanın ilk performansı \-100’e konulmuş. İnsan performansı ise baz alınarak sıfıra ayarlanmış. Yapay zeka 0 çizgisine geldiğinde insan performansına ulaşmış oluyor. Gördüğünüz gibi yapay zeka okuduğunu anlama, görüntü tanıma, dil anlama konularında insanları geçti. El yazısı ya da ses tanıma ile tahmini akıl yürütme konularında ise bizleri yakalamış durumda. Kaynak: [Our World in Data](https://ourworldindata.org/artificial-intelligence)*|
 
 World Economic Forum, önümüzdeki on yılda YZ’nin Gayrisafi Milli Hasılaya etkisinin yıllık ortalama %0.5 ile %1.5 arasında olacağını [tahmin ediyor](https://www.weforum.org/agenda/2024/05/these-5-countries-are-leading-the-global-ai-race-heres-how-theyre-doing-it/)[^14]. Bu toplamda 1.2 trilyon ile 3.8 trilyon ABD doları bir büyüklük demek\!
 
@@ -62,7 +62,7 @@ Teknoloji dünyasının devleri uzun zamandır yapay zekanın kendilerini nasıl
 
 | ![top_4_ai_spend](/assets/top4_ai_spend_800.jpg)|
 |:--:| 
-| *Her bir alan içinde yapay zekanın ilk performansı \-100’e konulmuş. İnsan performansı ise baz alınarak sıfıra ayarlanmış. Yapay zeka 0 çizgisine geldiğinde insan performansına ulaşmış oluyor. Gördüğünüz gibi yapay zeka okuduğunu anlama, görüntü tanıma, dil anlama konularında insanları geçti. El yazısı ya da ses tanıma ile tahmini akıl yürütme konularında ise bizleri yakalamış durumda. Kaynak: [Our World in Data](https://ourworldindata.org/artificial-intelligence))*|
+| *Her bir alan içinde yapay zekanın ilk performansı \-100’e konulmuş. İnsan performansı ise baz alınarak sıfıra ayarlanmış. Yapay zeka 0 çizgisine geldiğinde insan performansına ulaşmış oluyor. Gördüğünüz gibi yapay zeka okuduğunu anlama, görüntü tanıma, dil anlama konularında insanları geçti. El yazısı ya da ses tanıma ile tahmini akıl yürütme konularında ise bizleri yakalamış durumda. Kaynak: [Our World in Data](https://ourworldindata.org/artificial-intelligence)*|
 
 Bu alana en büyük yatırımı yapanlar teknoloji devleri olunca akıllara şu soru geliyor: Acaba kullanıcıların Web2 dünyasında teknoloji devlerinin tekelleşmesinden dolayı yaşadığı sıkıntılar yapay zekada da tekrarlanacak mı? Acaba Web3’de olduğu gibi merkeziyetsiz çözümler bu tekelleşmeye karşı alternatif bir yol sunabilir mi?
 
