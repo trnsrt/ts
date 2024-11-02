@@ -32,8 +32,6 @@ Yapay zeka dediğimiz aslına bakarsanız altyapılardan uygulamalara kadar üst
 |:--:| 
 | *Yapay zeka teknoloji destesi. Kaynak: [az16 ai](https://a16z.com/who-owns-the-generative-ai-platform/))*|
 
-###### *Yapay zeka teknoloji destesi. Kaynak: [az16 ai](https://a16z.com/who-owns-the-generative-ai-platform/)*
-
 Destenin en altında koyu lacivert renkli ‘altyapı katmanı’ var. Yapay zekanın yukarıda saydığımız tüm işlemleri yaparak bize istediğimiz sonucu anında verebilmesi için çok ciddi bir donanım ihtiyacı bulunuyor. Gerek işlemciler (çipler) gerekse bulut platformları bu ihtiyacı karşılıyor. İşte bu nedenle Nvidia gibi çip devlerinin hisse değerleri uçuyor. Amazon ve Microsoft’un sahip olduğu AWS ve Azure, kendi şirketlerinin en büyük kâr kaynakları haline geliyor. 
 
 Bizim çok konuştuğumuz ChatGPT gibi yapay zeka modelleri ise bu altyapının üzerine konuşlandırılıyorlar. Yukarıdaki grafikte koyu mavi olarak gördüğünüz bu ‘orta katman’ işte bu yapay zeka modellerinin bulunduğu yer. Burada pek çok farklı model mevcut. ChatGPT gibi kapalı olanların yanında Microsoft’un Llama’sı gibi yarı-açık[^10] ya da Stable Diffusion gibi tam açık kaynak modeller de bulunmakta[^11].
@@ -50,8 +48,6 @@ Karşınızda yemeyen içmeyen, sadece ‘enerji harcayan’, gece gündüz çal
 |:--:| 
 | *Her bir alan içinde yapay zekanın ilk performansı \-100’e konulmuş. İnsan performansı ise baz alınarak sıfıra ayarlanmış. Yapay zeka 0 çizgisine geldiğinde insan performansına ulaşmış oluyor. Gördüğünüz gibi yapay zeka okuduğunu anlama, görüntü tanıma, dil anlama konularında insanları geçti. El yazısı ya da ses tanıma ile tahmini akıl yürütme konularında ise bizleri yakalamış durumda. Kaynak: [Our World in Data](https://ourworldindata.org/artificial-intelligence))*|
 
-###### *Her bir alan içinde yapay zekanın ilk performansı \-100’e konulmuş. İnsan performansı ise baz alınarak sıfıra ayarlanmış. Yapay zeka 0 çizgisine geldiğinde insan performansına ulaşmış oluyor. Gördüğünüz gibi yapay zeka okuduğunu anlama, görüntü tanıma, dil anlama konularında insanları geçti. El yazısı ya da ses tanıma ile tahmini akıl yürütme konularında ise bizleri yakalamış durumda. Kaynak: [Our World in Data](https://ourworldindata.org/artificial-intelligence)*
-
 World Economic Forum, önümüzdeki on yılda YZ’nin Gayrisafi Milli Hasılaya etkisinin yıllık ortalama %0.5 ile %1.5 arasında olacağını [tahmin ediyor](https://www.weforum.org/agenda/2024/05/these-5-countries-are-leading-the-global-ai-race-heres-how-theyre-doing-it/)[^14]. Bu toplamda 1.2 trilyon ile 3.8 trilyon ABD doları bir büyüklük demek\!
 
 Bunu bir de hızla gelişmekte olan robotlar ile birleştirin. Sunduğunuz hizmetin maliyetinden, kazandığınız gelire kadar her yönden sizi ciddi şekilde etkileyeceğini tahmin edebilirsiniz[^15].
@@ -63,8 +59,6 @@ Teknoloji dünyasının devleri uzun zamandır yapay zekanın kendilerini nasıl
 | ![top_4_ai_spend](/assets/top4_ai_spend_800.jpg)|
 |:--:| 
 | *Her bir alan içinde yapay zekanın ilk performansı \-100’e konulmuş. İnsan performansı ise baz alınarak sıfıra ayarlanmış. Yapay zeka 0 çizgisine geldiğinde insan performansına ulaşmış oluyor. Gördüğünüz gibi yapay zeka okuduğunu anlama, görüntü tanıma, dil anlama konularında insanları geçti. El yazısı ya da ses tanıma ile tahmini akıl yürütme konularında ise bizleri yakalamış durumda. Kaynak: [Our World in Data](https://ourworldindata.org/artificial-intelligence))*|
-
-###### *Dört teknoloji devinin 2022-24 arası üç yıllık dönemde toplam harcaması tam 465 milyar ABD doları\! Kaynak: [Delphi Digital](https://members.delphidigital.io/reports/the-tower-the-square#the-tower---the-square-b517)*
 
 Bu alana en büyük yatırımı yapanlar teknoloji devleri olunca akıllara şu soru geliyor: Acaba kullanıcıların Web2 dünyasında teknoloji devlerinin tekelleşmesinden dolayı yaşadığı sıkıntılar yapay zekada da tekrarlanacak mı? Acaba Web3’de olduğu gibi merkeziyetsiz çözümler bu tekelleşmeye karşı alternatif bir yol sunabilir mi?
 
