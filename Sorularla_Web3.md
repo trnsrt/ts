@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sorularla Web3
-permalink: /about/
+permalink: /Sorularla_Web3/
 ---
 
 Merhaba!
