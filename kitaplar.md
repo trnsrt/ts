@@ -22,7 +22,7 @@ Bunlardan ilki Blockchain Türkiye aracılığıyla 2019 yılında yayınlanan "
 <td style="width:50%">
 <img src="/assets/Sorularla_DeFi_kapak_v2.jpg"></td>
 <td style="width:50%">
-<img src="/assets/Sorularla_Web3_kapak_v2.jpg"></td>
+<img src="/assets/Sorularla_Web3_kapak_v3.jpg"></td>
 </tr>
 <tr>
 <td style="width:50%; vertical-align:top">
@@ -32,7 +32,7 @@ Bunlardan ilki Blockchain Türkiye aracılığıyla 2019 yılında yayınlanan "
 <p>Sorularla DeFi - Merkeziyetsiz Finans (2022) <a href="https://indd.adobe.com/view/5b99bb77-877f-47f7-a881-33ef427205b6">Buradan okuyabilirsiniz</a> </p>
 </td>
 <td style="width:50%; vertical-align:top">
-<p>Sorularla Web3 (2025)  <a href="[http://bit.ly/Sorularla_Blockchai](https://www.scalakitapci.com/sorularla-web3)n">Buradan sipariş verebilirsiniz</a> </p>
+<p>Sorularla Web3 (2025)  <a href="https://www.scalakitapci.com/sorularla-web3">Buradan sipariş verebilirsiniz</a> </p>
 </td>
 </tr> 
   
