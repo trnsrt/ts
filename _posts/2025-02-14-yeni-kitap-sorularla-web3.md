@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Yeni Kitap! 'Sorularla Web3'"
-date:   2024-11-01 17:17:56 +0300
+date:   2025-02-14 17:17:56 +0300
 categories: Genel
 tags: Yazılar, Web3
 ---
