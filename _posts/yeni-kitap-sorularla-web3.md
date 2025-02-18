@@ -39,3 +39,5 @@ Gelin bu soruları beraber soralım.
 
 <a href="https://www.scalakitapci.com/sorularla-web3"><img src="/assets/scala_sorularla_Web3_ilan.jpg" width="250" height="250"></a>
 
+[Link](https://www.scalakitapci.com/sorularla-web3)
+
