@@ -6,8 +6,6 @@ categories: Genel
 tags: Yazılar, Web3
 ---
 
-## **Web3 ve Yapay Zeka \- I**
-
 Bu yazımızda yapay zeka ile Web3’ün arasındaki ilişkiyi ve birbirlerini nasıl etkileyeceğini anlamaya çalışacağız[^1]. 
 
 Yapay zeka (YZ) uzun süredir üzerinde çalışılan, yatırım yapılan ve geliştirilen bir alan. Kimi kaynaklar başlangıcını 1950’lere kadar [götürüyor](https://coderspace.io/blog/yapay-zekanin-tarihi-dunden-bugune-yapay-zeka/). Son zamanlarda çok konuşulan ‘genel yapay zeka’ üzerine çalışmalar[^2] ise yirmi yıldan fazla bir süredir devam ediyor. Başlangıçta yavaş seyreden bu gelişmeler, özellikle son yıllarda donanım alanındaki yaşanan gelişmeler sayesinde inanılmaz bir seviyeye geldi.
