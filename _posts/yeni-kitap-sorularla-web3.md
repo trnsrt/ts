@@ -37,5 +37,5 @@ Gelin bu soruları beraber soralım.
 ‘Sorularla Web3’ tüm kitapçılarda ve online olarak aşağıdaki adreste 👇
 
 
-[![Scala Link](/assets/scala_sorularla_Web3_ilan.jpg =250x250)](https://www.scalakitapci.com/sorularla-web3)
+[![Scala](/assets/scala_sorularla_Web3_ilan.jpg =250x250)](https://www.scalakitapci.com/sorularla-web3)
 
