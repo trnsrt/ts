@@ -16,7 +16,7 @@
 title: "Turan Sert - Kişisel Blog"
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Teknoloji - finans keşişiminde, Blockchain (blokzincir) ve DeFi (merkeziyetsiz finans) üzerine karalamalar
+  Web3 olarak da adlandırılan, blokzincir üzerine kurulu merkeziyetsiz uygulamalar üzerine karalamalar
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "turansert.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: turansert
