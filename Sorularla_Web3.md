@@ -4,9 +4,18 @@ title: Sorularla Web3
 permalink: /Sorularla_Web3/
 ---
 
+| ![Sorularla Web3](/assets/Sorularla_Web3_kapak_x.jpg)|
+|:--:| 
+| *Sorularla Web3 - Şubat 2025*|
+
 Merhaba!
 
-2025 yılı Ocak ayında çıkan Sorularla Web3 içinde bulunan tüm linklere buradan ulaşabilirsiniz. Gösterdiğiniz ilgiye teşekkürler!
+2025 yılı Ocak ayında çıkan Sorularla Web3 içinde bulunan tüm linklere buradan ulaşabilirsiniz. 
+
+Kitap [Scala Yayıncılık web sitesinde](https://www.scalakitapci.com/sorularla-web3) online olarak satışta. 
+
+Gösterdiğiniz ilgiye teşekkürler!
+
 
 
 | **Sayfa** | **Bağlantı adı** |
