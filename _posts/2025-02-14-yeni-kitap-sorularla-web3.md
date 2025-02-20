@@ -32,7 +32,11 @@ Neden ‘sorular’?
 
 Gelin bu soruları beraber soralım.
 
+&nbsp;
+
 ---
+
+&nbsp;
 
 ‘Sorularla Web3’ tüm kitapçılarda ve online olarak aşağıdaki adreste 👇
 
