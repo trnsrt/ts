@@ -8,6 +8,8 @@ permalink: /Sorularla_Web3/
 |:--:| 
 | *Sorularla Web3 - Şubat 2025*|
 
+&nbsp;
+
 Merhaba!
 
 2025 yılı Ocak ayında çıkan Sorularla Web3 içinde bulunan tüm linklere buradan ulaşabilirsiniz. 
@@ -16,7 +18,7 @@ Kitap [Scala Yayıncılık web sitesinde](https://www.scalakitapci.com/sorularla
 
 Gösterdiğiniz ilgiye teşekkürler!
 
-
+&nbsp;
 
 | **Sayfa** | **Bağlantı adı** |
 | ----- | :---- |
