@@ -1,8 +1,14 @@
-**Yeniden başlarken…**
+---
+layout: post
+title:  "Yeniden Başlarken"
+date:   2025-02-25 17:17:56 +0300
+categories: Genel
+tags: Yazılar, Web3, AI
+---
 
 Uzun bir aradan sonraki bu ilk yazımda sizlere, önümüzdeki dönemde paylaşmayı planladığım yazılar ile ilgili küçük bir özet vermek istiyorum. 
 
-### **Neler yaşadım?**
+### Neler yaşadım?
 
 2024 yılının ikinci yarısı, son kitabım 'Sorularla Web3'ün hazırlık çalışmalarıyla geçti. Bu nedenle yazılarıma uzunca bir süre ara vermek zorunda kaldım. 
 
@@ -16,7 +22,7 @@ O zaman başlayan DeFi merakı Ocak 2022'de 'Sorularla DeFi' kitabını getirdi.
 
 Sonuç olarak ilk iki kitabın aksine 'Sorularla Web3' önceki yazıların toplanmasının yanında yeni yazılmış ve yayınlanmamış pek çok bölüme sahip. Belki de bu nedenle, önceki kitapların aksine içindekileri 'kalın' sayılabilecek 330 sayfaya ancak sığdırabildik. 
 
-### **Peki ya sırada ne var?**
+### Peki ya sırada ne var?
 
 Sorularla Web3’ün içine koymak için farklı pek çok alanı incelerken vaktimi en çok alan konu yapay zeka oldu. Bu konuda önce 2023 yılında üç yazı yayınladım, yetmedi arkasından bir yıl sonra bir yazı dizisi daha hazırladım.
 
@@ -32,9 +38,16 @@ O zaman, şimdi de benzer bir yolu izleyeyim ve öğrenme sürecini sevgili okur
 
 Bu nedenle, yazıları biraz daha bilgi sahibi olduğum Web3 ile yapay zekanın kesişiminde odaklamaya karar verdim. Bu sayede, belki de Web3'ün de en heyecanlı alanlarının birinde potansiyel projeleri erken fark etme fırsatı elde ederiz. 
 
-### **Plan ne?**
+### Plan ne?
 
 Şimdilik planım öncelikle yapay zeka alanında merkeziyetsiz çözümlere gerçekten ihtiyaç var mı sorusuna odaklanmak olacak. Bu konuyu anlamaya çalışırken, merkeziyetsiz çözümler içinde ilgimi çeken projelere 'derin dalış' yaparak sizlere daha detaylı bilgiler vermeyi amaçlıyorum. Plan böyle ama yol üzerinde değişiklikler olur mu onu zaman gösterecek. 
 
 Bu yolculukta bana eşlik ederseniz mutlu olurum. Hep söylediğimiz gibi “Gelecek heyecanlı, hep birlikte yaşayarak göreceğiz".
 
+---
+
+*Not 1: Bu yazı ilk olarak 25 Şubat 2025'de [BTC Haber'de yayınlandı](https://www.btchaber.com/yeniden-baslarken/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Piyasada oluşacak ihtimalleri değerlendiren bu yazıyı, yatırım tavsiyesi olarak almamanızı rica ederiz. Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
