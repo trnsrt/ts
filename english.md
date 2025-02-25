@@ -11,6 +11,8 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/turansert
 
 If you are curious about my story, here is the GRTIQ podcast episode on my and my latest book (recorded in Feb 2025)👇
 
+<img src="/assets/GRTiQ-Podcast__Turan-Sert_800.jpg">
+
 <table><tr><td style="width:50%">
 <iframe width="224" height="126" src="https://open.spotify.com/embed/episode/5QbmflKjKmrIKIIgpwPLdF" frameborder="0" allowfullscreen></iframe>
 </td>
