@@ -11,7 +11,26 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/turansert
 
 If you are curious about my story, here is the GRTIQ podcast episode on my and my latest book (recorded in Feb 2025)👇
 
+<table><tr><td style="width:50%">
 <iframe width="224" height="126" src="https://open.spotify.com/embed/episode/5QbmflKjKmrIKIIgpwPLdF" frameborder="0" allowfullscreen></iframe>
+</td>
+<td style="width:50%">
+<iframe width="224" height="126" src="https://embed.podcasts.apple.com/us/podcast/turan-sert/id1559587482" frameborder="0" allowfullscreen></iframe>
+</td></tr>
+<tr><td style="width:50%; vertical-align:top">
+<p>
+Spotify
+</p></td>
+<td style="width:50%; vertical-align:top">
+<p>
+Apple Podcast
+</p>
+</td></tr> 
+</table>
+
+<iframe width="224" height="126" src="https://open.spotify.com/embed/episode/5QbmflKjKmrIKIIgpwPLdF" frameborder="0" allowfullscreen></iframe>
+
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/turan-sert/id1559587482?i=1000692350521"></iframe>
 
 &nbsp;
 
