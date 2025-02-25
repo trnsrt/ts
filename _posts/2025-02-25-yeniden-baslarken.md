@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Yeniden Başlarken"
-date:   2025-02-25 17:17:56 +0300
+date:   2025-02-25 13:17:56 +0300
 categories: Genel
 tags: Yazılar, Web3, AI
 ---
