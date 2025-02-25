@@ -11,7 +11,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/turansert
 
 If you are curious about my story, here is the GRTIQ podcast episode on my and my latest book (recorded in Feb 2025)👇
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5QbmflKjKmrIKIIgpwPLdF?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe width="224" height="126" src="https://open.spotify.com/embed/episode/5QbmflKjKmrIKIIgpwPLdF" frameborder="0" allowfullscreen></iframe>
 
 &nbsp;
 
