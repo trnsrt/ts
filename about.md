@@ -4,11 +4,11 @@ title: Hakkında
 permalink: /about/
 ---
 
-2017 yılından bu yana Web3 olarak adlandırılan blokzincir temelli merkeziyetsiz teknolojiler konusunda araştırmalar yapan Turan Sert, yaptığı çalışmaları düzenli olarak farklı mecralarda paylaşıyor. Bu alandaki temel kavramları bir araya getirdiği “Sorularla Blockchain” isimli ilk kitabının ardından, şimdi de bu teknolojinin finans alanındaki uygulamalarını konu alan “Sorularla DeFi - Merkeziyetsiz Finans” kitabı ile ekosisteme verdiği katkıyı sürdürmeyi amaçlıyor.
+2017 yılından bu yana Web3 olarak adlandırılan blokzincir temelli merkeziyetsiz teknolojiler konusunda araştırmalar yapan Turan Sert, yaptığı çalışmaları düzenli olarak farklı mecralarda paylaşıyor. Bu alandaki temel kavramlara değinen "Sorularla Blockchain" ve finans alanındaki uygulamalarını konu alan "Sorularla DeFi - Merkeziyetsiz Finans" isimli kitaplarının ardından, şimdi de bu teknolojinin altyapısı ve uygulama alanlarını bir araya getiren "Sorularla Web3" kitabı ile ekosisteme verdiği katkıyı sürdürmeyi amaçlıyor.
 
-Klasik finans ve teknoloji ağırlıklı kariyerine Arthur Andersen’da denetim ve Garanti Bankası’nda yatırım bankacılığı ile başlayan Turan Sert, Booz Allen New York ofisinde üç yıl süren yönetim danışmanlığı sonrası 2005 yılında Türkiye’ye döndü. Çeşitli Fiba Grubu iştiraklerinde murahhas azalık ya da yönetim kurulu üyelikleri ve 2014-16 yılları arasında Özyeğin Üniversitesi’nde CBO’luk görevinde bulundu. Halen blokzincir teknolojileri alanında Paribu ve BlockchainIST Center’a danışmanlık vermekte.
+Klasik finans ve teknoloji ağırlıklı kariyerine Arthur Andersen'da denetim ve Garanti Bankası'nda yatırım bankacılığı ile başlayan Turan Sert, Booz Allen New York ofisinde üç yıl süren yönetim danışmanlığı sonrası 2005 yılında Türkiye'ye döndü. Çeşitli Fiba Grubu iştiraklerinde murahhas azalığı ya da yönetim kurulu üyelikleri ve 2014-16 yılları arasında Özyeğin Üniversitesi'nde CBO'luk görevinde bulundu. Halen BlockchainIST Center danışma kurulu üyeliği dışında çeşitli kurumlarda danışmanlık ve yönetim kurulu üyeliği görevlerini sürdürmekte.
 
-Yüksek öğrenimini Boğaziçi Üniversitesi İşletme (BA, 1995) ve Harvard Business School (MBA, 2001)’da tamamladı.
+Yüksek öğrenimini Boğaziçi Üniversitesi İşletme (BA, 1995) ve Harvard Business School (MBA, 2001) da tamamladı. Evli ve iki kız babası.
 
 &nbsp;
 
