@@ -16,7 +16,30 @@ Yüksek öğrenimini Boğaziçi Üniversitesi İşletme (BA, 1995) ve Harvard Bu
 
 &nbsp;
 
-Yukarı kısım kısa özet isteyenler için. Daha detaylı hayat hikayemi duymak isterseniz aşağıda bir kopyası olan Coinbilgi'deki [yazıya göz atabilirsiniz](https://www.coinbilgi.net/turan-sert-kimdir/). 
+Yukarı kısım kısa özet isteyenler için. GRTIQ ile gerçekleştirdiğim podcast yine hayatımı ve yaptıklarımı anlattım. İngilizce olarak dinlemek isterseniz 👇
+
+&nbsp;
+
+<table><tr><td style="width:40%">
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5QbmflKjKmrIKIIgpwPLdF?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</td>
+<td style="width:60%">
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/turan-sert/id1559587482?i=1000692350521"></iframe>
+</td></tr>
+<tr><td style="width:40%; vertical-align:top">
+<p>
+Spotify
+</p></td>
+<td style="width:60%; vertical-align:top">
+<p>
+Apple Podcast
+</p>
+</td></tr> 
+</table>
+
+&nbsp;
+
+Daha detaylı hayat hikayemi duymak isterseniz aşağıda bir kopyası olan Coinbilgi'deki [yazıya göz atabilirsiniz](https://www.coinbilgi.net/turan-sert-kimdir/). 
 
 ## Turan Sert Kimdir?
 
@@ -90,5 +113,3 @@ Sert, özel sektörde geçirdiği yılların ardından, 2014 yılında Özyeğin
 Sert, dijital teknolojilerin farklı alanlarda hayatımızı kökten değiştireceğine inanmakta. Kripto paraların bu anlamda blok zincir teknolojilerin ilk kullanım alanı olmasının ardından önümüzdeki yakın dönemde Merkeziyetsiz Finans (DeFi-Decentralized Finance) alanında yaşanacak gelişmeler ile finans sektörünü ciddi bir şekilde etkileyeceğini düşünüyor. Yazılarında da belirttiği gibi şu ifadeyi kullanıyor:
 
 >*“Tarihi bir döneme tanıklık ettiğimizi düşünüyorum ve gelecekte bu alanda karşımıza çıkacak yenilikleri merak ve heyecan içinde bekliyorum.”*
-
-<a rel="me" href="https://mastodon.cloud/@turansert">Mastodon</a>
