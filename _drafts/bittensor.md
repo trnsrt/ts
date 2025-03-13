@@ -1,7 +1,7 @@
 Bu yazımızda merkeziyetsiz yapay zeka projelerinin en eskilerinden olan Bittensor'u inceleyeceğiz. 
 
 ### Neden Bittensor'a bakıyoruz?
-Bir önceki yazımızda bundan sonra Web3 ile yapay zekanın kesişimindeki projelere odaklanacağımızı belirtmiştik.  Bunlardan ilki, bu alanın en eski ve aynı zamanda piyasa değeri en büyük projelerinden olan [Bittensor](https://www.bittensor.ai/). 
+[Bir önceki yazımızda](/genel/2025/02/25/yeniden.html) bundan sonra Web3 ile yapay zekanın kesişimindeki projelere odaklanacağımızı belirtmiştik.  Bunlardan ilki, bu alanın en eski ve aynı zamanda piyasa değeri en büyük projelerinden olan [Bittensor](https://www.bittensor.ai/). 
 
 Bittensor'u ilgi çekici yapan eski olması değil; aynı zamanda diğer bağımsız yapay zeka projelerine de ev sahipliği yapması. Bu haliyle merkeziyetsiz yapay zeka alanının hem potansiyelini hem de zaaflarını içinde barındıran güzel bir örnek olması. Gelin önce ne iş yaptığından bahsederek konumuza başlayalım. 
 
