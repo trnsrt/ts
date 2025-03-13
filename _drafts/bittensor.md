@@ -10,6 +10,10 @@ Yapay zeka çok geniş ve farklı katmanları olan bir alan. Temel parçaların�
 
 Bittensor, işte bu büyük alanın oldukça geniş bir kısmında aktif olan bir pazar yeri. Temel işlevi, veri modelleri üzerinde çalışan bağımsız girişimleri[^1], bu modelleri kullanacak uygulamalar ya da son kullanıcılar ile bir araya getirmek. 
 
+| ![Marketplace](/assets/bittensor-marketplace_800)|
+|:--:| 
+| *Image generated using OpenAI’s ChatGPT (2025).*|
+
 Ne sağlıyor bu? Hatırlayacaksınız, Web3 dediğimiz dünya, Web 2.0'da yaşanan teknoloji devlerinin hegemonyasına alternatif olmak için [çıkmıştı](https://www.scalakitapci.com/sorularla-web3). Teknoloji dünyasında geçmişte yaşadığımız bu gelişmenin bir benzerini şimdi yapay zeka alanında da yaşıyoruz. Neredeyse sonsuz kapitale erişimi olan merkezi teknoloji devlerinin yapay zeka alanını parsellediğini görüyoruz[^2]. 
 
 Bittensor, bu devlerin kontrolü altına girmek istemeyen bağımsız girişimler için 'çölde bir vaha' adeta. Girişimlere, ürün ve servislerine uygun müşteri bulmada yardımcı oluyor. Bunun yanında onlara diğer girişimler ile hem rekabet edebilecekleri hem de birlikte çalışabilecekleri ortak bir alan sunuyor. 
