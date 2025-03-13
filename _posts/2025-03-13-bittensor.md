@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Merkeziyetsiz Yapay Zeka'nın pazaryeri: Bittensor"
+date:   2025-03-13 13:17:56 +0300
+categories: Genel
+tags: Yazılar, Web3, AI
+---
+
 Bu yazımızda merkeziyetsiz yapay zeka projelerinin en eskilerinden olan Bittensor'u inceleyeceğiz. 
 
 ### Neden Bittensor'a bakıyoruz?
@@ -95,3 +103,12 @@ Bittensor önündeki engellerden dolayı belki de hedeflediği büyüklüklere u
 [^8]: Geçtiğimiz yıl yapılan bir güncelleme ile Bittensor'un blokzincirine EVM (Ethereum işlemcisi) uyumu geldi. Bu sayede, Ethereum üzerinde uygulama üreten programcılar bu uygulamaları Bittensor zinciri üzerinde de kurabilecekler. Bu sayede, Bittensor üzerinde örneğin merkeziyetsiz finans uygulamaları da gelişecek. TAO bu uygulamaların temel parası işlevi görecek. 
 [^9]: Yazı hazırlandığı sırada TAO fiyatı 285 ABD doları idi. 
 [^10]: Bittensor bu değerlendirme için Yuma Consensus adlı bir uzlaşma mekanizması kullanıyor ama bu mekanizma ne kadar şeffaf ya da anlaşılır, o biraz tartışmalı.
+
+---
+
+*Not 1: Bu yazı ilk olarak 11 Mart 2025'de [BTC Haber'de yayınlandı](https://www.btchaber.com/merkeziyetsiz-yapay-zekanin-pazaryeri-bittensor/)*
+
+*Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
+
+*Genel not: Piyasada oluşacak ihtimalleri değerlendiren bu yazıyı, yatırım tavsiyesi olarak almamanızı rica ederiz. Bu ve diğer yazılarımızın hiçbiri yatırım tavsiyesi değildir. Özellikle DeFi yani merkeziyetsiz finans sektörünün denetime tabi olmamasından dolayı klasik piyasalara göre çok daha riskli olabileceğini göz önünde bulundurun.*
+
