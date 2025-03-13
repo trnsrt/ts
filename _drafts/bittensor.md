@@ -10,7 +10,7 @@ Yapay zeka çok geniş ve farklı katmanları olan bir alan. Temel parçaların�
 
 Bittensor, işte bu büyük alanın oldukça geniş bir kısmında aktif olan bir pazar yeri. Temel işlevi, veri modelleri üzerinde çalışan bağımsız girişimleri[^1], bu modelleri kullanacak uygulamalar ya da son kullanıcılar ile bir araya getirmek. 
 
-| ![Marketplace](/assets/bittensor-marketplace_800)|
+| ![Marketplace](/assets/bittensor-marketplace_800.jpg)|
 |:--:| 
 | *Image generated using OpenAI’s ChatGPT (2025).*|
 
