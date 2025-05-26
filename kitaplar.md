@@ -32,7 +32,7 @@ Bunlardan ilki Blockchain Türkiye aracılığıyla 2019 yılında yayınlanan "
 <p>Sorularla DeFi - Merkeziyetsiz Finans (2022) <a href="https://indd.adobe.com/view/5b99bb77-877f-47f7-a881-33ef427205b6">Buradan okuyabilirsiniz</a> </p>
 </td>
 <td style="width:34%; vertical-align:top">
-<p>Sorularla Web3 (2025)  <a href="https://www.scalakitapci.com/sorularla-web3">Buradan sipariş verebilirsiniz. Ya da <a href="https://play.google.com/store/books/details?id=mNVFEQAAQBAJ">buradan okuyabilirsiniz</a> </p>
+<p>Sorularla Web3 (2025)  <a href="https://www.scalakitapci.com/sorularla-web3">Buradan sipariş verebilirsiniz.</p> <p>Ya da buradan <a href="https://play.google.com/store/books/details?id=mNVFEQAAQBAJ"></a> okuyabilirsiniz</a> </p>
 </td>
 </tr> 
   
