@@ -10,7 +10,7 @@ Bunlardan ilki Blockchain Türkiye aracılığıyla 2019 yılında yayınlanan "
 
 İkinci kitap ise 2022 yılının başında yayınlanan "[Sorularla DeFi - Merkeziyetsiz Finans](https://indd.adobe.com/view/f27e44be-3413-4473-a6a6-32b7f5165835)". Kitabın pdf versiyonune ücretsiz olarak [buradan](https://indd.adobe.com/view/f27e44be-3413-4473-a6a6-32b7f5165835) ulaşabilirsiniz. 
 
-Üçüncü kitap ise 2025 Şubat ayında yayınlanan "[Sorularla Web3](https://www.scalakitapci.com/sorularla-web3)". Kitap [Scala Yayıncılık websitesinde](https://www.scalakitapci.com/sorularla-web3) sizlerle buluşuyor. 
+Üçüncü kitap ise 2025 Şubat ayında yayınlanan "[Sorularla Web3](https://www.scalakitapci.com/sorularla-web3)". Kitap [Scala Yayıncılık websitesinde](https://www.scalakitapci.com/sorularla-web3) sizlerle buluşuyor. Kitabın pdf versiyonuna ücretsiz olarak [buradan](https://play.google.com/store/books/details?id=mNVFEQAAQBAJ) ulaşabilirsiniz. 
 
 &nbsp;
 
