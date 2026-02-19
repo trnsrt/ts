@@ -446,7 +446,7 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 <br>
 <b>Page 96:</b>
 
-[The Block Pro Research - 2024 Blockchain Venture Funding Recap](https://www.theblock.pro/research/2024-blockchain-venture-funding-recap-334524)  
+[The Block Pro Research - 2024 Blockchain Venture Funding Recap (subscription required)](https://www.theblock.pro/research/2024-blockchain-venture-funding-recap-334524)  
 
 <br>
 <b>Page 98:</b>
@@ -783,7 +783,7 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 <br>
 <b>Page 183:</b>
 
-[$465 billion into AI](https://members.delphidigital.io/reports/the-tower-the-square#the-tower---the-square-b517)  
+[$465 billion into AI (subscription required)](https://members.delphidigital.io/reports/the-tower-the-square#the-tower---the-square-b517)  
 
 [Bond Capital](https://www.bondcap.com/report/pdf/Trends_Artificial_Intelligence.pdf)  
 
@@ -932,7 +932,7 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 
 [allocating](https://x.com/lfg_org/status/1526126703046582272)  
 
-[openly reflected](https://members.delphidigital.io/reports/learnings-from-last-week/)  
+[openly reflected (subscription required)](https://members.delphidigital.io/reports/learnings-from-last-week/)  
 
 <br>
 <b>Page 216:</b>
