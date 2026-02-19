@@ -96,7 +96,7 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 
 [approval of spot Bitcoin ETFs in the US](https://investorplace.com/2024/01/11-spot-bitcoin-etfs-received-sec-approval-heres-the-complete-list/)  
 
-[they have evolved](https://moderntechera.com/challenges-of-using-blockchain-for-web3-development/)  
+[they have evolved](https://pangea.ai/resources/top-8-web3-development-challenges-and-solutions)  
 
 <br>
 <b>Page 34:</b>
@@ -196,7 +196,7 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 
 [complex wealth transfer within the ecosystem](https://www.esma.europa.eu/sites/default/files/2025-07/ESMA50-481369926-29744_Maximal_Extractable_Value_Implications_for_crypto_markets.pdf)  
 
-[destroyed](https://paxful.com/university/ethereum-burn-explained)  
+[destroyed]([https://paxful.com/university/ethereum-burn-explained](https://omni.app/learn/ethereum-burn-explained))  
 
 [battle](https://cryptodamus.io/en/articles/news/eip-1559-eth-burning-why-ethereum-is-still-inflationary-shocking-data-inside)  
 
@@ -1230,7 +1230,7 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 
 [signed](https://www.whitehouse.gov/fact-sheets/2025/07/fact-sheet-president-donald-j-trump-signs-genius-act-into-law/#:~:text=Act%2520into%2520Law-,The%2520White%2520House,%253A%2520Today%252C%2520President%2520Donald%2520J.)  
 
-[GENIUS Act](https://www.congress.gov/bill/116th-congress/house-bill/3736?q=%257B%2522search%2522:%2522genius+act%2522%257D&s=1&r=1)  
+[GENIUS Act](https://www.congress.gov/bill/119th-congress/senate-bill/1582)  
 
 [passed](https://micapapers.com/guide/timeline/)  
 
