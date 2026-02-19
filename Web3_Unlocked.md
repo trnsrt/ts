@@ -279,6 +279,11 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 [Will Solana surpass Ethereum?](https://www.nasdaq.com/articles/could-solana-overtake-ethereum-2026)  
 
 <br>
+<b>Page: 64:</b>
+
+[Florin Digital](https://florindigital.substack.com/p/verifiable-off-chain-compute-enabling)
+
+<br>
 <b>Page 64:</b>
 
 [abandoning Bitcoin-like energy consumption](https://www.investopedia.com/how-green-is-ethereum-2-0-6666266)  
@@ -1309,7 +1314,3 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 
 [USDC Homes](https://usdc.homes/)  
 
-<br>
-<b>Page: NOT FOUND:</b>
-
-[Florin Digital](https://florindigital.substack.com/p/verifiable-off-chain-compute-enabling)
