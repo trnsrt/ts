@@ -176,3 +176,27 @@ img + em {
 .site-nav .page-link {
   margin-left: 0;
 }
+
+/* === Force header flex layout === */
+
+.site-header .wrapper {
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: space-between !important;
+  align-items: center !important;
+  flex-wrap: nowrap !important;
+}
+
+.site-nav {
+  display: flex !important;
+  flex-direction: row !important;
+  gap: 12px !important;
+  flex-wrap: wrap !important;
+  position: static !important;
+  float: none !important;
+}
+
+.site-nav .page-link {
+  margin-left: 0 !important;
+  display: inline !important;
+}
