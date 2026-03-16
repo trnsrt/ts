@@ -4,6 +4,7 @@ title:  "BloombergHT Radyo - 23 Mart 2022 Canlı Yayın"
 date:   2022-03-23 23:37:15 +0300
 categories: Genel
 tags: videos Etkinlikler
+image: /assets/yarinin-gundemi_poster_800.jpg
 ---
 
 <img align="left" src="/assets/yarinin-gundemi_poster_800.jpg" style="width:40%; padding-right:20px"> BloombergHT Radyo'da yayınlanan 'Yarının Gündemi' programında, [Gizem Uzuner](https://twitter.com/gizemuzuner_)'in konuğu olarak DeFi nedir, hangi alanlarda hayatımıza dokunur, klasik finanstan farkları nelerdir, regülasyonlar DeFi'yi nasıl etkileyebilir ve son çıkan kitabım 'Sorularla DeFi'yi' konuştuk. Program aynı zamanda YouTube üzerinden canlı olarak yayınlandı. 

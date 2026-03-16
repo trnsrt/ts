@@ -4,6 +4,7 @@ title:  "One Block - 21 Ekim 2018 Hackathon "
 date:   2018-10-20 13:37:15 +0300
 categories: Genel
 tags: videos Etkinlikler
+image: /assets/one_block_hackathon_4.png
 ---
 
 

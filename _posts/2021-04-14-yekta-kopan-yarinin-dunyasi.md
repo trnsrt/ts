@@ -4,6 +4,7 @@ title:  "Yekta Kopan ile Yarının Dünyası"
 date:   2021-04-14 14:37:15 +0300
 categories: Genel
 tags: videos Etkinlikler
+image: /assets/yekta_kopan_poster_800.jpg
 ---
 
 <img align="left" src="/assets/yekta_kopan_poster_800.jpg" style="width:40%; padding-right:20px"> [Paribu](https://twitter.com/ParibuCom)'nun sunduğu 'Yekta Kopan ile Yarının Dünyası'nda [Yekta Kopan](https://twitter.com/yektakopan) sordu, sevgili [Emre Alkin](https://twitter.com/emrealkin1969) hocam ile bendeniz cevaplamaya çalıştık.. Bu eğlenceli ve sıcak sohbete göz atmak isterseniz, linke buyurun: 

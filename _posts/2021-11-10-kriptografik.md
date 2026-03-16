@@ -4,6 +4,7 @@ title:  "Kriptografik YouTube"
 date:   2021-11-10 14:37:15 +0300
 categories: Genel
 tags: videos Etkinlikler
+image: /assets/kriptografik-20211110-poster-800.jpg
 ---
 
 <img align="left" src="/assets/kriptografik-20211110-poster-800.jpg" style="width:40%; padding-right:20px"> [BTCHaber](https://www.btchaber.com/)'de [Melis Hazal Karagöz](https://twitter.com/melishazalkrgz)'ün sunduğu 'Kriptografik' programında Facebook tarafından gündem yapılan Metaverse kavramı ile birlikte merkeziyetsiz finansın geleceği ve kripto varlıklara yeni regülasyonların gelip gelmeyeceğini konuştuk. BTCHaber aynı zamanda belli aralıklarla yazılarımın yayınlandığı mecra. Kriptografik programı ciddi ve titiz çalışan bir ekip tarafından hazırlanıyor. Takip etmenizi tavsiye ederim.  

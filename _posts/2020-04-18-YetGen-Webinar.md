@@ -4,6 +4,7 @@ title:  "YetGen (Yetkin Gençler) - 18 Nisan 2020 Webinar"
 date:   2020-04-18 13:37:15 +0300
 categories: Genel
 tags: videos Etkinlikler
+image: /assets/yetgen_3.jpg
 ---
 
 

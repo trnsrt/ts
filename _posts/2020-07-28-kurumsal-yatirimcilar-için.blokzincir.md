@@ -4,6 +4,7 @@ title:  "Kurumsal Yatırımcılar için Blokzincir"
 date:   2020-07-28 12:47:56 +0300
 categories: Genel
 tags: Yazılar
+image: /assets/kurumsal_yatirimci_sayfa-1.JPG
 ---
 
 

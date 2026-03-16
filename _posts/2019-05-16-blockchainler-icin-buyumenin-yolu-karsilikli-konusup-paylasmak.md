@@ -3,6 +3,7 @@ layout: post
 title:  "Blockchain'ler için büyümenin yolu karşılıklı konuşup paylaşmak"
 date:   2019-05-07 12:42:56 +0300
 categories: Genel
+image: /assets/polkadot_v1.png
 ---
 
 Geçtiğimiz [yazıda](/genel/2019/05/07/bir-Blockchain-digeri-ile-konusur-mu.html) interoperability (karşılıklı çalışabilirlik) konusuna bakmış, bu alandaki en bilinen iki oyuncu Polkadot ve Cosmos Network'ü bu yazıya bırakmıştık. 

@@ -4,6 +4,7 @@ title:  "BloombergHT - Kriptopara 20 Ekim 2022 Canlı Yayın"
 date:   2022-10-20 23:37:15 +0300
 categories: Genel
 tags: videos Etkinlikler
+image: /assets/bloomberg-ht-kripto-para-poster_800.jpg
 ---
 
 <img align="left" src="/assets/bloomberg-ht-kripto-para-poster_800.jpg" style="width:40%; padding-right:20px"> BloombergHT Kripto Para programında, [Sefer Yüksel](https://twitter.com/SeferYuksel)'in tekrar konuğu oldum. Şu konuları konuştuk: 

@@ -4,6 +4,7 @@ title:  "BEN - Blockchain Education Network - 30 Mayıs 2020 Canlı Yayın"
 date:   2020-05-30 23:37:15 +0300
 categories: Genel
 tags: videos Etkinlikler
+image: /assets/ben_webinar_200530.jpg
 ---
 
 <img align="left" src="/assets/ben_webinar_200530.jpg" style="width:40%; padding-right:20px"> [Blockchain Education Network](https://twitter.com/BlockchainEduTR/), çeşitli üniversitelerin Blockchain kulüplerinin kurduğu bir ağ. Daha önce Habitat derneği toplantısında tanıştığım gençler kendi ağları için de bir webinar yapmak istediler. Yayını organize eden [Aybars Dorman](https://twitter.com/blockhoood) ve moderatör Furkan Duran başta olmak üzere tüm katılımcılara teşekkürler..

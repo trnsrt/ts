@@ -4,6 +4,7 @@ title:  "16. Finans Kongresi - MetuBiz"
 date:   2022-12-03 23:42:15 +0300
 categories: Genel
 tags: videos Etkinlikler
+image: /assets/Finans_kongresi.jpg
 ---
 
 <img align="left" src="/assets/Finans_kongresi.jpg" style="width:40%; padding-right:20px"> [ODTÜ İşletme Topluluğu](https://twitter.com/METUBIZ) tarafından düzenlenen '[16. Finans Kongresi](https://www.finanskongresi.net/)'nde "Geleneksel Finanstan Merkeziyetsiz Finans Dünyasına: Nedir, Ne Değildir?" konulu bir konuşma yaptım. ODTÜ KKM salonunda sevgili Efe Bulduk ve Baki Er'in eğlenceli paneli sonrası gerçekleşen konuşmada klasik finans ile  merkeziyetsiz finansın farklarını konuştuk. Beni en güzel şekilde ağırlayan Metubiz ekibine teşekkür ederim. 

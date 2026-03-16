@@ -4,6 +4,7 @@ title:  "Tomorrow - Girişimcilik Çağı Web3 ve DeFi - 13 Temmuz 2023 Canlı Y
 date:   2023-07-13 23:37:15 +0300
 categories: Genel
 tags: videos Etkinlikler
+image: /assets/tomorrow-girsimcinin-cagi-poster_800.jpg
 ---
 
 <img align="left" src="/assets/tomorrow-girsimcinin-cagi-poster_800.jpg" style="width:40%; padding-right:20px"> Tomorrow tarafından YouTube ve LinkedIn üzerinden canlı yayınlanan 'Girişimcilik Çağı' programında, İş Bankası Genel Müdür Yardımcısı [Sabri Gökmenler](https://www.linkedin.com/in/sabri-gokmenler/) ile birlikte [Ferhat Yalçın](https://www.linkedin.com/in/ferhatyalcin/)'ın konuğu olduk. Konumuz Web3 ve DeFi idi. Türkiye'nin en köklü bankalarından biri olan İş Bankası'nın üst düzey bir yöneticisinin teknolojinin bu uç noktası hakkında bu kadar bilgili olması doğrusu beni şaşırttı. Sizlere de bu programı seyretmenizi hararetle tavsiye ederim. Ferhat Bey'e daveti için tekrar teşekkürler. 
