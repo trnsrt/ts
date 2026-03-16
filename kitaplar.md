@@ -4,7 +4,7 @@ title: Kitaplar
 permalink: /Kitaplar/
 ---
 
-Ekosisteme katkı sağlamak amacıyla yayınlanan iki kitabım bulunmakta. 
+Ekosisteme katkı sağlamak amacıyla yayınlanan üç kitabım bulunmakta. 
 
 Bunlardan ilki Blockchain Türkiye aracılığıyla 2019 yılında yayınlanan "[Sorularla Blockchain](http://bit.ly/Sorularla_Blockchain)". Kitabın pdf versiyonunu ücretsiz olarak [buradan](http://bit.ly/Sorularla_Blockchain) indirebilirsiniz.  
 
