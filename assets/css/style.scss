@@ -200,3 +200,20 @@ img + em {
   margin-left: 0 !important;
   display: inline !important;
 }
+
+/* === Clean up post list === */
+
+/* Hide the Devamı read-more link */
+.post-list a[href]:not(.post-link) {
+  display: none;
+}
+
+/* Hide the dashed separator line */
+.home hr, .home p:has(> strong:only-child) {
+  display: none;
+}
+
+/* Remove extra spacing between post items */
+.post-list li {
+  padding: 20px 0 !important;
+}
