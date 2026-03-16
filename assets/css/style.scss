@@ -11,3 +11,29 @@
     }
 }
 img + em { display: block; text-align: center;}
+
+
+/* === Medium-style redesign === */
+
+/* Center and constrain the content */
+.wrapper {
+  max-width: 740px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* Clean white background, readable font */
+body {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 18px;
+  line-height: 1.8;
+  color: #333;
+  background-color: #fff;
+}
+
+/* Post titles */
+h1, h2, h3 {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-weight: 700;
+  color: #111;
+}
