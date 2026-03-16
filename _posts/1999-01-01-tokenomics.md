@@ -1,3 +1,6 @@
+---
+image: /assets/stock_image_02.png
+---
 Bu bölümde kripto ekosisteminin en çok tartışılan alanlarından biri olan tokenomics konusuna değineceğiz.
 
 

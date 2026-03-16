@@ -4,6 +4,7 @@ title:  "Blokzincirin çıkış felsefesi ne?"
 date:   2020-06-04 12:47:56 +0300
 categories: Genel
 tags: Yazılar
+image: /assets/stock_image_08.png
 ---
 
 Sık sorulan bir soruyla başlayalım: "Blokzincir nedir?". Buna hepimizin ayrı bir yorumu var. Bana sorduklarında tek cümle ile cevabım: "Dijital dünyada, ikili her tür ilişkide aracılık yapanları ortadan kaldırmayı hedefleyen felsefenin yarattığı teknoloji" oluyor. 

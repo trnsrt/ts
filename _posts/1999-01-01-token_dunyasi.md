@@ -1,3 +1,6 @@
+---
+image: /assets/stock_image_01.png
+---
 Bu bölümde sizlere son zamanların en çok konuşulan konularından token dünyasına adım atacağız. 
 
 ## Nedir bu tokenler?

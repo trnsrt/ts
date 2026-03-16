@@ -4,6 +4,7 @@ title:  "DeFi'de cüzdan kullanırken dikkat edilmesi gerekenler"
 date:   2021-04-01 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, DeFi'ye Giriş
+image: /assets/stock_image_11.png
 ---
 
 
