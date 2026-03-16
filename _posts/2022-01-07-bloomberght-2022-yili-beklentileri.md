@@ -4,6 +4,7 @@ title:  "BloombergHT - 2022 yılı beklentileri"
 date:   2022-01-07 23:37:15 +0300
 categories: Genel
 tags: videos Etkinlikler
+image: /assets/bloomberght_kripto_para.jpg
 ---
 
 <img align="left" src="/assets/bloomberght_kripto_para.jpg" style="width:40%; padding-right:20px"> BloombergHT websitesi için 2022 yılı beklentilerimi paylaştım. Genel olarak Web3'ün tüm hızıyla devam edeceğini, merkeziyetsiz finansın gelişmesiyle birlikte merkeziyetsizliğin başka hangi alanlarda uygulanabileceğini ve bu uygulamaların gerçekleştirilebilmesi için yeni yeni gelişmeye başlayan DAO'ları konuştuk. Benimle ilgili kısmı aşağıda okuyabilirsiniz. Yazının tamamına ise [şuradan](https://www.bloomberght.com/2022-yilinda-kripto-para-ekosisteminde-beklentiler-ne-yonde-2296069) ulaşabilirsiniz. 

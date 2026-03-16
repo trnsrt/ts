@@ -4,6 +4,7 @@ title:  "Tüm zamanların en yükseği - YouTube"
 date:   2022-01-26 23:37:15 +0300
 categories: Genel
 tags: videos Etkinlikler
+image: /assets/tum_zamanlarin_en_yuksegi_poster.jpg
 ---
 
 <img align="left" src="/assets/tum_zamanlarin_en_yuksegi_poster.jpg" style="width:40%; padding-right:20px"> YouTube'da yayınlanan Paribu tarafından hazırlanan 'Tüm Zamanların En Yükseği' programında BloombergHT Fokus programında, [Cem İşçiler](https://twitter.com/cemisciler) ve [Fazlı Polat](https://twitter.com/FAZLIPOLAT)'ın kriptoparalar ve dijital paralar ile ilgili sorularına cevap vermeye çalıştım. Format gereği oldukça basit bir anlatıma sahip programı, konuya hakim olmayan ya da eğlenceli bir yarım saat geçirmek isteyenlere tavsiye edebilirsiniz.  

@@ -4,6 +4,7 @@ title:  "BloombergHT - 1 Mart 2021 Canlı Yayın"
 date:   2021-03-01 23:37:15 +0300
 categories: Genel
 tags: videos Etkinlikler
+image: /assets/BloombergHT-210301_800.jpg
 ---
 
 <img align="left" src="/assets/BloombergHT-210301_800.jpg" style="width:40%; padding-right:20px"> BloombergHT Piyasa Hattı programında, [Güzem Yılmaz Ertem](https://twitter.com/guzemyilmaz)'in konuğu olarak Hazine ve Maliye Bakanlığı'nın 1 Mart tarihinde yayınladığı kriptoparalar ile ilgili bildiriyi konuştuk.  

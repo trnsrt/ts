@@ -4,6 +4,7 @@ title:  "BlockchainFest İstanbul - 19 Eylül 2018 Panel"
 date:   2018-09-19 13:37:15 +0300
 categories: Genel
 tags: videos Etkinlikler
+image: /assets/blockchain_fest_istanbul.jpg
 ---
 
 

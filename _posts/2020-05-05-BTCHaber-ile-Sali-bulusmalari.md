@@ -4,6 +4,7 @@ title:  "BTC Haber ile Salı Buluşmaları - 5 Mayıs 2020 Canlı Yayın"
 date:   2020-05-05 13:37:15 +0300
 categories: Genel
 tags: videos Etkinlikler
+image: /assets/btchaber_sali_bulusmalari_640.jpg
 ---
 
 

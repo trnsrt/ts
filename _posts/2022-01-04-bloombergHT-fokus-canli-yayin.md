@@ -4,6 +4,7 @@ title:  "BloombergHT Fokus - 4 Ocak 2022 Canlı Yayın"
 date:   2022-01-04 23:37:15 +0300
 categories: Genel
 tags: videos Etkinlikler
+image: /assets/bloombergHT_fokus_poster.jpg
 ---
 
 <img align="left" src="/assets/bloombergHT_fokus_poster.jpg" style="width:40%; padding-right:20px"> BloombergHT Fokus programında, [Güzem Yılmaz Ertem](https://twitter.com/guzemyilmaz)'in konuğu olarak Metaverse dünyasından gelişmeleri, bu evrenin ne yöne doğru yol aldığını, bunun finans piyasalarına etkisini konuştuk.  

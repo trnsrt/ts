@@ -4,6 +4,7 @@ title:  "Pareto Spot - Podcast"
 date:   2021-11-01 13:37:15 +0300
 categories: Genel
 tags: videos Etkinlikler
+image: /assets/pareto-podcast-211101-400.jpg
 ---
 
 

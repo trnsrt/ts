@@ -4,6 +4,7 @@ title:  "Yollarda TV - 17 Mart 2021 Canlı Yayın"
 date:   2021-03-17 22:37:15 +0300
 categories: Genel
 tags: videos Etkinlikler
+image: /assets/yollarda_tv_210317_poster_800.jpg
 ---
 
 <img align="left" src="/assets/yollarda_tv_210317_poster_800.jpg" style="width:40%; padding-right:20px"> Sevgili [Koray Bahar](https://twitter.com/KorayBahar) ve [Arman Eker](https://twitter.com/arman_eker) ile [Yollarda TV](https://twitter.com/YollardaTV)'nin YouTube yayınında [Merkeziyetsiz Finans ve Blockchain konuştuk](https://www.youtube.com/embed/WNmog-JfEbY). Yaklaşık 45 dakika süren oldukça keyifli bir program oldu.. Konuya ilgi duyanlar sohbet havasındaki yayına göz atabilirler. 

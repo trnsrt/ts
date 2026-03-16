@@ -4,6 +4,7 @@ title:  "İstanbul Fintech Week - 10 Kasım 2020 Panel"
 date:   2020-11-10 23:37:15 +0300
 categories: Genel
 tags: videos Etkinlikler
+image: /assets/fintech-week-poster.jpg
 ---
 
 <img align="left" src="/assets/fintech-week-poster.jpg" style="width:40%; padding-right:20px"> İstanbul Fintech Week kapsamındaki "DeFi - An upcoming revolution?" panelinde, Global One CEO'su [Mohammed Sh. Al-Rashidi](https://www.linkedin.com/in/msrashidi/) and DeFi konusunda en önde gelen girişimlerden olan [Aave](https://aave.com/) kurucusu [Stani Kulechov](https://twitter.com/StaniKulechov) ile konuşma fırsatı buldum.. Yaklaşık 45 dakikalık panelin YouTube linkini aşağıda bulabilirsiniz. 

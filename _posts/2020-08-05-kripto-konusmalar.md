@@ -4,6 +4,7 @@ title:  "Kripto konuşmalar - 5 Ağustos"
 date:   2020-08-05 23:37:15 +0300
 categories: Genel
 tags: videos Etkinlikler
+image: /assets/kripto-konusmalar-800.jpg
 ---
 
 <img align="left" src="/assets/kripto-konusmalar-800.jpg" style="width:40%; padding-right:20px"> [İstanbul Blockchain Okulu](https://twitter.com/BlockchainOkulu)'nun [Habitat Derneği](https://twitter.com/habitatderneği) sponsorluğunda gerçekleşenb Kripto Konuşmalar'ın altıncısında, sevgili [Alp Işık](https://twitter.com/AlppIsik/) ile kitabım ve Blockchain uygulamaları konusunda bir sohbetimiz oldu. Link aşağıda. 
