@@ -7,9 +7,9 @@ layout: default
 
 {% assign first_post = site.posts.first %}
 <div style="max-width:1000px; margin:0 auto; padding:0 24px 40px 24px; border-bottom:1px solid #e8e8e8;">
-  <a href="{{ first_post.url | relative_url }}" style="display:flex; gap:32px; text-decoration:none; color:inherit; align-items:center;">
+ <a class="featured-post-link" href="{{ first_post.url | relative_url }}" style="display:flex; gap:32px; text-decoration:none; color:inherit; align-items:center;">
     {% if first_post.image %}
-    <div style="flex:0 0 320px; height:220px; overflow:hidden; border-radius:4px;">
+    <div class="featured-post-image" style="flex:0 0 320px; height:220px; overflow:hidden; border-radius:4px;">
       <img src="{{ first_post.image }}" style="width:100%; height:100%; object-fit:cover;">
     </div>
     {% endif %}
