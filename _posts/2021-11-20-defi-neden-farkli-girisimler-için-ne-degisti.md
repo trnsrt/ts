@@ -4,7 +4,7 @@ title:  "DeFi neden farklı? - Girişimler için ne değişti?"
 date:   2021-11-20 08:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, DeFi'ye Giriş
-image: /assets/ant-gfaba07ee2_800.jpg
+image: /assets/juliocb-ant-4902223_640.jpg
 ---
 
 DeFi'nin klasik finanstan farklarına değindiğimiz yazı dizimizimin bu bölümünde her iki alanda girişimlerin yaşadığı zorluk ve engellerden bahsedeceğiz. 
@@ -20,7 +20,7 @@ Yazı dizimizin geçmiş bölümlerinden birinde, klasik finansın en farklı ya
 
 Kanun koruyucuların finans kurumlarından beklentileri, tutulan defterlerin ya da alınan aksiyonların mevzuata uygun olması ile sınırlı değil. Diğer yandan, alınan risklerin karşılığı olarak bu kurumların sermaye yapılarının kuvvetli olması isteniyor.  İşte, bu maddi gerekliklik sektöre yeni girişimlerin girmesinin önündeki en büyük engel. Zira, bir avuç hevesli tarafından kurulan girişimlerin bu kadar ciddi bir sermaye bulmaları neredeyse imkansız. 
 
-| ![ants](/assets/ant-gfaba07ee2_800.jpg)|
+| ![ants](/assets/juliocb-ant-4902223_640.jpg)|
 |:--:| 
 | *Image by [juliocb](https://pixabay.com/users/juliocb-7022246/) from [Pixabay](https://pixabay.com/)*|
 
