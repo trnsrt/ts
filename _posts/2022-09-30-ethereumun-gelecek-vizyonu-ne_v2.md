@@ -4,6 +4,7 @@ title:  "Ethereum'un Gelecek Vizyonu ve Yol Haritası"
 date:   2022-09-30 17:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/road-1579405_800.jpg
 ---
 
 Bu yazımızda Ethereum'un uzun vadeli vizyonu ve bu vizyona ulaşabilmek için kendine çizdiği yol haritasına bakıyoruz.

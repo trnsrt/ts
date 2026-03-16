@@ -3,6 +3,7 @@ layout: post
 title:  "ICO Yatırım Rehberi'ne devam"
 date:   2018-09-21 10:03:34 +0300
 categories: Genel
+image: /assets/naval_640.jpg
 ---
 
 

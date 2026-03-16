@@ -4,6 +4,7 @@ title:  "DeFi'nin lider borsası Uniswap'ın son durumu"
 date:   2021-04-02 09:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/pool-406743_800.jpg
 ---
 
 Bu yazımızda son bir yıl içinde merkeziyetsiz finans dünyasının en değeri yüksek ürünü haline gelen takas borsası Uniswap'ın son dönemde yaşadıklarına bakacağız: 

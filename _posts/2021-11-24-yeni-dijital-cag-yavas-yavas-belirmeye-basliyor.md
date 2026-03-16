@@ -4,6 +4,7 @@ title:  "Yeni dijital çağ yavaş yavaş belirmeye başlıyor"
 date:   2021-11-24 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/lifebuoy-g071a9ee62_800.jpg
 ---
 
 Gelin bugünkü yazımızda hızla değişen dünyamızdaki son gelişmelere kuşbakışı bir göz atalım ve önümüzdeki on yılda neleri konuşacağız tahmin etmeye çalışalım. 

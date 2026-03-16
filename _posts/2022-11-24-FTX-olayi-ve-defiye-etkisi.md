@@ -4,6 +4,7 @@ title:  "FTX olayı ve DeFi'ye etkisi"
 date:   2022-11-14 12:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, CoindeskTR
+image: /assets/sand-2549096_800.jpg
 ---
 
 Bu yazımızda sonu FTX'in iflası ile biten geçen hafta yaşanan olaylardan ve bu olayların merkeziyetsiz finansa etkilerinden bahsedeceğiz. 

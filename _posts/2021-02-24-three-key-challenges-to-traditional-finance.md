@@ -4,6 +4,7 @@ title:  "Three challenges to traditional finance"
 date:   2021-02-24 17:47:56 +0300
 categories: Genel
 tags: Yazılar, Articles
+image: /assets/phone-1889392_800.jpg
 ---
 
 In our last post, we introduced DeFi — Decentralized Finance, a solution that would potentially empower individuals against legacy financial systems.

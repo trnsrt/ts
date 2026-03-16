@@ -4,6 +4,7 @@ title:  "Birikim Güncel Röportaj"
 date:   2021-05-12 22:47:56 +0300
 categories: Genel
 tags: Yazılar, Etkinlikler
+image: /assets/NK_2356_800.jpg
 ---
 
 

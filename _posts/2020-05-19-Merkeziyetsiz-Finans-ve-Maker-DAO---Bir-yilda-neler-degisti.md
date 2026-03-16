@@ -3,6 +3,7 @@ layout: post
 title:  "Merkeziyetsiz Finans ve Maker DAO - Bir yılda neler değişti?"
 date:   2020-05-19 12:47:56 +0300
 categories: Genel
+image: /assets/DeFi_value_market_share.png
 ---
 
 Blokzincir teknolojilerinin en etki yapacağı alanın finans. 2019 yılının başlarında hepimizin yakından bildiği değer koruma ve transferi işlemlerinde kullanılan kripto paralar dışında finansın başka alanlarında uygulamalar gelişebilire bakarken MakerDAO'ya değinmiştik. Aradan bir yıldan fazla bir süre geçti. Gelin hep birlikte merkeziyetsiz finans (Decentralized Finance - DeFi) hareketinin o zaman en gözde uygulaması olan MakerDAO arada ne aşamalardan geçmiş, şu an ne durumda ve gelecek tahminlerinde bir değişim var mı birlikte bakalım. 

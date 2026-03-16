@@ -4,6 +4,7 @@ title:  "Kasım ayında Ethereum ekosisteminin kalbi İstanbul'da atacak"
 date:   2023-10-16 18:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/L1-TVL_v2.png
 ---
 
 

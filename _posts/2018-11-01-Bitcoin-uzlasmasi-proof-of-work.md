@@ -3,6 +3,7 @@ layout: post
 title:  "Bitcoin Uzlaşması Proof of Work"
 date:   2018-11-01 10:03:34 +0300
 categories: Genel
+image: /assets/bitcoin-uzlasma.gif
 ---
 
 Geçtiğimiz ayki iki yazıda Blockchain sisteminde aktif rol oynayan birbirinden bağımsız oyuncuların nasıl olup da birlikte hareket ettiklerinin üzerinden geçmiştik. Önce işin sistematiği (mantığı) nasıl çalışıyor sorusunu geçmişte ortaya çıkmış birbirine güvenmeyen Bizans Generalleri'nin düşmana karşı [nasıl ortak hareket ettiğine](/genel/2018/08/31/bizans-generalinin-problemi-uzla%C5%9Fmak.html) bakmış, sonra da bu problemin [Blockchain özelinde nasıl çözüldüğüne](/genel/2018/09/07/Blockchain-nasil-uzlasir.html) göz atmıştık. 

@@ -4,6 +4,7 @@ title:  "Bitcoin ne tam olarak?"
 date:   2018-03-13 14:25:15 +0300
 categories: Genel
 tags: kriptoPara bitcoin blockchain giriş Web3.0 dağıtık adem-i_merkezi
+image: /assets/Screenshot-2018-3-13 Google Trends.png
 ---
 
 Önceki yazılarımızda dijital dünyada son yaşanan gelişmelere farklı bir prespektiften bakmış ve bu gelişmelerin temelinde yer alan Blockchain teknojosine göz atarak bu dünyaya hızlı bir giriş yapmıştık. 

@@ -3,6 +3,7 @@ layout: post
 title:  "SabitParalar'a devam - Diğerleri"
 date:   2018-07-27 14:50:15 +0300
 categories: Genel
+image: /assets/Four-stablecoins-600.png
 ---
 
 

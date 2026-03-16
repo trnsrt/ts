@@ -4,6 +4,7 @@ title:  "ABD'de banka krizi ve geleceğe etkisi"
 date:   2023-03-14 12:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, CoindeskTR
+image: /assets/banka_menkul-kiymet-zarar_800.jpg
 ---
 
 Bu yazımızda üç bankanın batış hikayesinden yola çıkarak finansal piyasalarda bizi nelerin beklediğini anlamaya çalışacağız. 

@@ -4,6 +4,7 @@ title:  "Ethereum'un ultrasound parası ether"
 date:   2023-12-16 18:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/ether-akisi_v2.jpg
 ---
 
 Bu yazımızda Ethereum ekonomisi aktörlerinin yarattığı değerin sistemin parası olan ether üzerindeki etkisine bakacağız. Sonrasında ise Ethereum sisteminde son birkaç yıldır dolaşan 'ultrasound money' söylemini anlamaya çalışacağız. 

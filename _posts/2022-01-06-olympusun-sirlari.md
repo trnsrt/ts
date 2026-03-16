@@ -4,6 +4,7 @@ title:  "Olympus'un sırları"
 date:   2022-01-06 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/2327758_1289e37434_o_800.jpg
 ---
 
 Bu yazımızda gelin, son dönemde DeFi dünyasının yeni sevgilisi olan Olympus’a bakalım.

@@ -4,6 +4,7 @@ title:  "DeFi'de 2023 ve Ötesi"
 date:   2023-01-06 17:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/darling-gfd86e3528_800.jpg
 ---
 
 Bu yazımızda 2023 yılının bize neler getirebileceğinden bahsedeceğiz. 

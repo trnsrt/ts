@@ -4,6 +4,7 @@ title:  "2022'de neler yaşadık"
 date:   2022-12-31 12:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, CoindeskTR
+image: /assets/new-year-6752813_800.png
 ---
 
 Gelin bu yazımızda bitirmekte olduğumuz 2022'ye genel bir bakış atalım. 

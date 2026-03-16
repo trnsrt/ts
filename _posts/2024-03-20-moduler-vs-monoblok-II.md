@@ -4,6 +4,7 @@ title:  "Modüler ve monoblok zinciler - II: İkinci seviye çözümler"
 date:   2024-03-20 18:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/house-1961182_800.jpg
 ---
 
 Yazı dizimizin bu bölümünde modüler blokzincir yapısına, Ethereum üzerine inşa edilmiş ikinci seviye ağlar üzerinden bakıyoruz. 

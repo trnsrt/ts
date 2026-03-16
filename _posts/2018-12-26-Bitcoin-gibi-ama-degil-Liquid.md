@@ -3,6 +3,7 @@ layout: post
 title:  "Bitcoin gibi ama değil: Liquid"
 date:   2018-12-26 12:25:38 +0300
 categories: Genel
+image: /assets/liquid_header-min2.png
 ---
 
 Geçtiğimiz [yazıda](/genel/2018/12/20/bitcoin-uzerinde-isik-hiziyla-islem-Lightning-network.html) Bitcoin'in geniş kitlelere yayılması için üzerinde çalışılan yeniliklerden Lightning Network'den bahsetmiştik. Bu hafta ise bir başka potansiyel yenilik olan Liquid Network'e bakalım birlikte.. 

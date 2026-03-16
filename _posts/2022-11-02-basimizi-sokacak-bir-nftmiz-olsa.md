@@ -4,6 +4,7 @@ title:  "Ah başımızı sokacak bir NFT'miz olsa!"
 date:   2022-11-02 12:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, CoindeskTR
+image: /assets/iphone-4857114_800.jpg
 ---
 
 Bu yazımızda geçtiğimiz haftalarda blokzincir üzerinden gerçekleşen bir gayrimenkul token satışının hikayesinden bahsedeceğiz. 

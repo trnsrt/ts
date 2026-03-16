@@ -4,6 +4,7 @@ title:  "NFT'nin faydaları - 4"
 date:   2022-09-10 08:47:56 +0300
 categories: Genel
 tags: Yazılar, Web3, DeFi, DeFi'ye Giriş
+image: /assets/music-5110528_800.jpg
 ---
 
 NFT'nin bir sanat eserine katabileceği faydalara değinen dizimizin son bölümü ile karşınızdayız. 

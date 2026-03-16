@@ -3,6 +3,7 @@ layout: post
 title:  "MimbleWimble aranan mahremiyet büyüsü mü?"
 date:   2019-01-23 15:43:15 +0300
 categories: Genel
+image: /assets/mimblewimble__400.png
 ---
 
 "Zamanında buralar hep dutluktu" diyenleri bilirsiniz. Benzer şekilde çoğumuz bundan on yıl önce ortaya çıkan Bitcoin'in ilk yıllarını maalesef kaçırdık. Peki bir sonraki Bitcoin'in çıkışının şu aralar, daha doğrusu 15 Ocak'ta gerçekleştiğini söylesek size? (İddialı bir söylem ve hiçbirimiz kesin olarak bilemeyiz bunu tabii ki). Bugünlerde kripto dünyasındaki yeni 'hip' konudan bahsedeceğiz bu yazıda. Nedir bu yeni dalga? MimbleWimble!.  Hadi bakalım, anlamamız gereken yeni bir terim daha. (Merak etmeyin olabildiğince yalın anlatmaya çalışacağız):

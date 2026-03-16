@@ -3,6 +3,7 @@ layout: post
 title:  "Yeni dünyada girişimciler için aranan kan bulundu mu? ICO ve Token Dünyası"
 date:   2018-05-25 17:56:34 +0300
 categories: Genel
+image: /assets/Telefon-jetonu-2-400.png
 ---
 
 

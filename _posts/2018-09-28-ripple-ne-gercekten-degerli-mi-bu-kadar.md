@@ -3,6 +3,7 @@ layout: post
 title:  "Ripple ne? Gerçekten değerli mi bu kadar?"
 date:   2018-09-28 22:03:34 +0300
 categories: Genel
+image: /assets/ripple-chart.png
 ---
 
 

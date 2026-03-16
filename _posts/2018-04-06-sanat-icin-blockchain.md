@@ -3,6 +3,7 @@ layout: post
 title:  "Sanat için Blockchain"
 date:   2018-04-06 16:25:25 +0300
 categories: Genel
+image: /assets/Mona_Lisa_piece.png
 ---
 
 Geçtiğimiz yazımızda Blockchain'i sadece finans dünyası değil başka pek çok alanda kullanılabileceğine değinmiş ve bunlardan [filantropi ve insani yardım](/genel/2018/03/29/Iyilik-icin-blockchain.html) yararına neler yapılabilir bakmıştık. 

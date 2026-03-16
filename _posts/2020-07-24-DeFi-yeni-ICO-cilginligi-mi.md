@@ -4,6 +4,7 @@ title:  "DeFi yeni ICO çılgınlığı mı?"
 date:   2020-07-23 12:47:56 +0300
 categories: Genel
 tags: Yazılar DeFi
+image: /assets/defi-ico-cilginlik.jpg
 ---
 
 DeFi platformların kullanımın artması ve özellikle bu platformlara özgü kripto paralarının hızlı sıçramalar yapması akıllarda soru işaretleri oluşturmaya başladı: DeFi yeni bir ICO çılgınlığı mı, sonu nasıl bitecek?

@@ -4,6 +4,7 @@ title:  "DeFi'de Köprü Kazası"
 date:   2022-03-11 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/bridge-312873_800.jpg
 ---
 
 Bu yazımızda, merkeziyetsiz blokzincirler arası köprüler üzerinde Şubat ayı başında yaşanan Wormhole kazasına detaylıca bakacağız. 

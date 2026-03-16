@@ -4,6 +4,7 @@ title:  "Bitcoin üzerine ikinci seviye çözümler - II"
 date:   2024-07-05 11:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/castle-4430019_800.jpg
 ---
 
 Bundan önceki yazımızda madenci ve kullanıcıların Bitcoin’in üzerindeki işlem miktarının artmasına yönelik taleplerine bakmıştık. Şimdi ise bu taleplere karşılık vermeye çalışan Bitcoin üzerine kurulu ikinci seviye çözümlere göz atacağız.

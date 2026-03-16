@@ -4,6 +4,7 @@ title:  "Defi'de ilginç bir parasal deney: Ampleforth"
 date:   2020-10-06 18:47:56 +0300
 categories: Genel
 tags: Yazılar DeFi
+image: /assets/Executive_Order_6102_640.jpg
 ---
 
 Bugün sizlere geçtiğimiz aylarda ilk çıktığında büyük sükse yapan, sonrasında ardına ardına gelen yeni girişimlerin de etkisiyle ana sahneden uzaklaşan ilginç bir DeFi projesinden bahsedelim. 

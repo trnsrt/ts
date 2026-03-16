@@ -4,6 +4,7 @@ title:  "Modüler ve monoblok zinciler - 1"
 date:   2024-03-06 18:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/zebra_real_lego.jpg
 ---
 
 Blokzincir altyapıları konusunda en çok konuşulan ve üzerine kafa yorulan konulardan biri monoblok ve modüler blokzincir yapıları. Ne demek, ne işe yarar, gelin hep birlikte bakalım. 

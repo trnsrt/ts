@@ -3,6 +3,7 @@ layout: post
 title:  "Ethereum'un çıkış ve inişi bir döngünün mü parçası?"
 date:   2019-01-18 10:43:45 +0300
 categories: Genel
+image: /assets/thomas-shelby.gif
 ---
 
 

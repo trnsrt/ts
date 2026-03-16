@@ -3,6 +3,7 @@ layout: post
 title:  "Ne olacak şu Bitcoin'in hali?"
 date:   2018-12-07 18:05:34 +0300
 categories: Genel
+image: /assets/seinfeld2.gif
 ---
 
 Kriptoparalar'ın ve onların en büyüğü Bitcoin'in 2017 sonlarında zirveleri görmesi sonrası yaşadığı %70'lere yaklaşan düşüş, konuya heves edip giren pekçok kişinin hayal kırıklığı ile konudan uzaklaşmalarına neden oldu. Peki her şey bitti mi? Rüya buraya kadar mıydı? Gelin işin temeline bir göz atalım. 

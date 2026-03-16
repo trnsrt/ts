@@ -3,6 +3,7 @@ layout: post
 title:  "Bu kontratlar çok akıllı: Ethereum ve Akıllı Kontratlar"
 date:   2018-06-29 14:32:15 +0300
 categories: Genel
+image: /assets/dilbert-smart-contracts-400.png
 ---
 
 

@@ -4,6 +4,7 @@ title:  "DeFi neden farklı? - Sorumluluk kullanıcıda"
 date:   2021-10-23 08:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, DeFi'ye Giriş
+image: /assets/cyber-g3b297423d_800.jpg
 ---
 
 Bu yazımızda DeFi'nin klasik finansa göre farklarında kullanıcılara yüklediği sorumluluklara değineceğiz. 

@@ -3,6 +3,7 @@ layout: post
 title:  "Peki Blockchain şifrelemesi nasıl çalışıyor?"
 date:   2018-05-08 12:39:45 +0300
 categories: Genel
+image: /assets/Transaction_Bitcoin_Block_519273.png
 ---
 
 Önceki iki yazımızda, önce merkezi olmayan sistemlerin çalışmasında temel unsur olan ["şifreleme"'nin neden önemli olduğuna](/genel/2018/04/25/sifreleme-ne-demek-neden-onemli.html), sonra da şifrelemenin temel taşları olan [Öğütme (hashing), Özel Anahtar, Genel Anahtar, Şifreleme (Encryption)](/genel/2018/04/26/sifreleme-mi-cok-karisik-degil-mi.html)'ye daha detaylı bakmıştık. 

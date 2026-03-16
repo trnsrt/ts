@@ -4,6 +4,7 @@ title:  "Tornado Cash olayı ve düşündürdükleri"
 date:   2022-08-20 12:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, CoindeskTR
+image: /assets/TC_kaynaklar_800.png
 ---
 
 Bu haftaki yazımızda geçtiğimiz günlerde ABD tarafından yasaklı listesine alınan Tornado Cash uygulamasını ve bu olayın kripto dünyasına etkilerini ele alacağız. 

@@ -3,6 +3,7 @@ layout: post
 title:  "Sağlık için Blockchain"
 date:   2018-04-17 19:16:43 +0300
 categories: Genel
+image: /assets/healthureum2.png
 ---
 Son iki yazımızda Blockchain'nin sadece finans dünyasında değil başka pek çok alanda da kullanılabileceğini söylemiş ve bunlardan [sanat](/genel/2018/04/06/sanat-icin-blockchain.html) ve [insani yardım dünyası](/genel/2018/03/29/Iyilik-icin-blockchain.html) yararına yapılabileceklere bakmıştık. 
 

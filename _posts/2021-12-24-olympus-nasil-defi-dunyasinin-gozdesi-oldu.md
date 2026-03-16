@@ -4,6 +4,7 @@ title:  "Olympus nasıl DeFi dünyasının son gözdesi oldu?"
 date:   2021-12-24 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/head-6848580_800.png
 ---
 
 

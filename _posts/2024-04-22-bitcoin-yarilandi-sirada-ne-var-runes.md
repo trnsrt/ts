@@ -4,6 +4,7 @@ title:  "Bitcoin yarılandı, sırada ne var? Runes Protocol"
 date:   2024-04-22 12:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/runes-7031879_800.jpg
 ---
 
 

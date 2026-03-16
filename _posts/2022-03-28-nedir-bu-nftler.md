@@ -4,6 +4,7 @@ title:  "Nedir bu NFT'ler?"
 date:   2022-03-28 08:47:56 +0300
 categories: Genel
 tags: Yazılar, Web3, DeFi, DeFi'ye Giriş
+image: /assets/nft-7020230_v3_800.jpg
 ---
 
 Bu yazı dizimizde Web3 dünyasının ön plana çıkan NFT uygulama alanlarına göz atmaya çalışacağız. 

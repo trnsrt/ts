@@ -3,6 +3,7 @@ layout: post
 title:  "Borsalar kripto para dünyasına güveni nasıl artırabilir? - II"
 date:   2019-06-12 12:42:56 +0300
 categories: Genel
+image: /assets/coinfloor-hesap-bakiye-600.png
 ---
 
 Geçtiğimiz [yazımızda](/genel/2019/06/05/borsalar-kripto-para-dunyasina-guveni-nasil-artirabilir-I.html) kripto para borsalarında yaşanan kimi nahoş olaylara bakmış ve en güvenli yolun bireysel yatırımcılar olarak kendi paranızı kendinize ait cüzdanlarda tutmak olduğunu belirtmiştik. Öte yandan bu yolun borsada işlem yapma sırasında çok da pratik bir yöntem olmadığından dem vurmuştuk. Sonuçta borsaların bireysel yatırımcıların içini rahat ettirecek ne tip önlemler alabileceği konusunu bu yazıya bırakmıştık. 

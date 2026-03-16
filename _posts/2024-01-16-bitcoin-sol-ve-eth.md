@@ -4,6 +4,7 @@ title:  "Bitcoin, Solana ve Ethereum"
 date:   2024-01-16 18:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/pigeons-1242067_800.jpg
 ---
 
 Bu yazımızda, piyasanın en büyük üç oyuncusunun son dönem performanslarına bakıp, bizi gelecekte nelerin beklediğini anlamaya çalışacağız. 

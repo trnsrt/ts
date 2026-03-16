@@ -4,6 +4,7 @@ title:  "Bitcoin üzerine ikinci seviye çözümler - I"
 date:   2024-06-25 11:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/hash-rate.png
 ---
 
 Gelin önümüzdeki iki yazıda, özellikle son bir yıldır adını daha sık duymaya başladığımız Bitcoin üzerine geliştirilen ikinci seviye çözümlere bakalım. Bu yazımızda, Bitcoin’in daha geniş kesimlerce kullanımının önemini ve bunu kimlerin istediğine göz atacağız. Bir sonraki yazımızda ise Bitcoin üzerindeki çözümlerin tarihçesini, son zamanlarda hızlanmalarına neden olan gelişmeleri ve bu gelişmelerin geleceğini inceleyeceğiz.

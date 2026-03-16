@@ -4,6 +4,7 @@ title:  "Introducing DeFi"
 date:   2021-02-06 17:47:56 +0300
 categories: Genel
 tags: Yazılar, Articles
+image: /assets/girl-2940655_800.jpg
 ---
 
 Traditional finance is going through difficult times: Haunted by its own past it is failing to adapt to changing customer demands. What are the key problems they are facing? How would DeFi address them?

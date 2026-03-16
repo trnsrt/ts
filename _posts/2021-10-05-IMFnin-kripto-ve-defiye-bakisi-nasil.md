@@ -4,6 +4,7 @@ title:  "IMF'nin kripto ve DeFi'ye bakışı nasıl?"
 date:   2021-10-05 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/world-g7d0eaa2d9_800.jpg
 ---
 
 Bu yazımızda gelin IMF'nin son yayınladığı raporun kripto ile ilgili bölümlerini yorumlayalım.

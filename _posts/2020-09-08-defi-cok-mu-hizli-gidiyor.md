@@ -4,6 +4,7 @@ title:  "DeFi çok mu hızlı gidiyor"
 date:   2020-09-08 18:47:56 +0300
 categories: Genel
 tags: Yazılar DeFi
+image: /assets/DeFi_kurulus_v3.png
 ---
 
 DeFi’daki hıza yetişmek neredeyse imkansız. Hemen hemen her gün yeni bir ürün çıkıyor. Bu sağlıklı mı? Yoksa bir numaralar mı dönüyor? Küçük yatırımcılar olarak fırsat mı kaçırıyoruz? Gelin neler oluyor hızlıca bir bakalım.. 

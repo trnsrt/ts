@@ -4,6 +4,7 @@ title:  "Finans piyasalarında bir ilk: EIB'nin Ethereum üzerinde bono ihracı"
 date:   2021-05-18 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/euro-1976614_800.jpg
 ---
 
 

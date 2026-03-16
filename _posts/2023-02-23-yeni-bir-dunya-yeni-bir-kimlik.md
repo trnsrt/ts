@@ -4,6 +4,7 @@ title:  "Yeni bir dünya, yeni bir kimlik"
 date:   2023-02-23 12:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, CoindeskTR
+image: /assets/hand-1592415_800.jpg
 ---
 
 Bu yazımızda sizlere programlama dünyasını yeni baştan inşa etmeye çalışan ve kimine göre 'hırslı' kimine göre 'uçuk' bir proje olarak adlandırılan Urbit'den bahsedeceğiz. 

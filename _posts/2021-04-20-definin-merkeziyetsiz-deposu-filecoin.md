@@ -4,6 +4,7 @@ title:  "DeFi'nin merkeziyetsiz saklama deposu Filecoin"
 date:   2021-04-20 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/sd-card-5206408_800.jpg
 ---
 
 Bu yazımızda gelin merkeziyetsiz dünyanın veri saklayıcısı olma yolunda ilerleyen Filecoin'e bakalım hep birlikte. 

@@ -4,6 +4,7 @@ title:  "Blokzincirin geleceği geliştiricilerin elinde"
 date:   2022-01-31 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/dandelion-g3a7c93841_800.jpg
 ---
 
 Bu yazımızda Ocak ayı başında yayınlanan Electric Capital'in Geliştirici (Developer) Raporu üzerinden farklı blokzincir platformları ve üstlerine kurulu girişimlerin gelişimine bakacağız. 

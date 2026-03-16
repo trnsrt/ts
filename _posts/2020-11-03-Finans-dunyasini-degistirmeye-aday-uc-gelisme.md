@@ -4,6 +4,7 @@ title:  "Finans dünyasını değiştirmeye aday üç gelişme"
 date:   2020-11-03 18:47:56 +0300
 categories: Genel
 tags: Yazılar
+image: /assets/hands-4718659_640.jpg
 ---
 
 Bu yazımızda gelin önümüzdeki dönemde finans dünyasına etki edecek üç aktöre bakalım. Finans dünyasının nasıl tepki vereceğini ve nasıl bir dönüşümden geçeceğini tahmin etmeye çalışalım:

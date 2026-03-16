@@ -4,6 +4,7 @@ title:  "Bitcoin yönelik eleştirilere yanıtlar"
 date:   2020-12-01 16:47:56 +0300
 categories: Genel
 tags: Yazılar
+image: /assets/the-graph-5446678_640.jpg
 ---
 
 Geçtiğimiz haftaki [yazımızda](/genel/2020/11/24/bitcoin-dunyasinin-yeni-halkasi.html), finans dünyasının önde gelen isimlerinin zaman içinde kripto paralar ile ilgili bakış açılarının nasıl değiştiğine bakmıştık... Bu yazımızda ise o dünyanın en önemli yatırım uzmanlarından olan [Ray Dalio](https://twitter.com/RayDalio)'nun Bitcoin ile ilgili çekinceleri ve Bitcoin dünyasının ona cevaplarına bakalım. 

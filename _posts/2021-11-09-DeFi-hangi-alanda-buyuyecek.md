@@ -4,6 +4,7 @@ title:  "DeFi hangi alanda büyüyecek"
 date:   2021-11-09 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/tvl_defillama_800.png
 ---
 
 Bu yazımızda DeFi'nin önümüzdeki dönemde hangi alanlarda büyüme potansiyeli olduğuna değineceğiz.

@@ -4,6 +4,7 @@ title:  "DeFi dünyasının merkeziyetsiz analiz sağlayıcısı 'The Graph'"
 date:   2021-03-19 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/arrows-2899888_800.jpg
 ---
 
 Bu yazımızda DeFi dünyası oyuncularının data ve analiz ihtiyacını karşılamaya yönelik yeni ancak önemli bir işlevi yerine getiren The Graph Protocol'den bahsedeceğiz.

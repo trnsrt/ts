@@ -4,6 +4,7 @@ title:  "Bitcoin dünyasının yeni halkası"
 date:   2020-11-24 16:47:56 +0300
 categories: Genel
 tags: Yazılar
+image: /assets/drop-of-water-2273845_1280.jpg
 ---
 
 Bu aralar herkesin dilinde Bitcoin ve onun hızlı yükselişi var. Aynı suya atılan bir taşın yarattığı halkalar gibi, sanki son zamanlarda Bitcoin de geniş kitlelerce benimsenme yolunda etrafına yeni birkaç halka daha ekledi. Gelin bu yazımızda, bu son halkalardan birkaçına değinelim: 

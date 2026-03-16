@@ -4,6 +4,7 @@ title:  "Kripto dünyasında değişen girişimci-yatırımcı ilişkileri"
 date:   2021-06-24 08:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, DeFi'ye Giriş
+image: /assets/defi-giris-210624.png
 ---
 
 

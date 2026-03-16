@@ -4,6 +4,7 @@ title:  "Finansın Domino Taşları 1- Son Krizde Neler Yaşandı?"
 date:   2022-07-22 17:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, CoindeskTR
+image: /assets/domino-163523_800.jpg
 ---
 
 Bu yazımızda, son zamanlarda DeFi'de yaşanan olayları mercek altına alıyoruz. Nasıl başladı, son gelişmeler neler, sorunun kaynağı ne?

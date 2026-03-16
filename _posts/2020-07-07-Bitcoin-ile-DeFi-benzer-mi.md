@@ -4,6 +4,7 @@ title:  "Bitcoin ile DeFi benzer mi?"
 date:   2020-07-07 12:47:56 +0300
 categories: Genel
 tags: Yazılar DeFi
+image: /assets/syblings-640.jpg
 ---
 
 

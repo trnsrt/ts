@@ -4,6 +4,7 @@ title:  "Yapay zekanın potansiyel riskleri neler?"
 date:   2023-07-13 12:17:56 +0300
 categories: Genel
 tags: Yazılar, AI
+image: /assets/yapay-zeka-yazi-III_800.jpg
 ---
 
 Mini-serimize yapay zekanın neden olabileceği potansiyel sorunlar ile devam ediyoruz. 

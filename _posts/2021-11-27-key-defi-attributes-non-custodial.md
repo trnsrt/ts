@@ -4,6 +4,7 @@ title:  "Key DeFi Attributes: Non-custodial"
 date:   2021-11-27 17:47:56 +0300
 categories: Genel
 tags: Yazılar, Articles
+image: /assets/stirling-castle-202103_800.jpg
 ---
 
 In these series, let's have a deep dive into DeFi and its key attributes. First one will be the non-custodial nature of DeFi. 

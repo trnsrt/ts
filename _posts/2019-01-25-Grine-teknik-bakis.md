@@ -3,6 +3,7 @@ layout: post
 title:  "Grin'e teknik bakış"
 date:   2019-01-25 9:42:29 +0300
 categories: Genel
+image: /assets/btc-gold-grin-800.png
 ---
 
 Geçtiğimiz iki yazıda [önce](/genel/2019/01/23/miblewimble-aranan-mahremiyet-buyusu-mu.html) MimbleWimble denen Harry Potter dünyası karakterlerinin hakim olduğu ve gizlilik konusunda yeni bir çığır açan bir teknolojiden bahsetmiş, [sonra](/genel/2019/01/24/gelecegin-odeme-araci-grin-mi-olacak.html) da özellikle cypherpunk dünyasında heyecan yaratan MimbleWimble üzerine kurulu Grin parasına değinmiştik.  Bu iki yazıyı teknik altyapısı olmayanlara tavsiye edebiliriz. Eğer işin teknik olarak daha detayına girmek isterseniz, aşağıdaki yazı ilginizi çekebilir. 

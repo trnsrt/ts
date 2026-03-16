@@ -4,6 +4,7 @@ title:  "Curve saldırısının DeFi'ye etkileri - 1"
 date:   2023-09-06 18:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/dogs-2921382_800.jpg
 ---
 
 Bu yazımızda Ağustos ayı başlarında DeFi dünyasını çalkalayan ve başta Curve olmak üzere birçok platformu etkileyen hack olayını ve DeFi dünyasına etkilerini anlamaya çalışacağız. 

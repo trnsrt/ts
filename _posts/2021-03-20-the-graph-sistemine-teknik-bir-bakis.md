@@ -4,6 +4,7 @@ title:  "The Graph sistemine teknik bir bakış"
 date:   2021-03-20 09:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/delegate-1969952_640.png
 ---
 
 Merkeziyetsiz bir servis sağlayıcı olan The Graph protokolünde, sistemi yürüten aktörlere büyük iş düşüyor.. Gelin bu yazımızda bu aktörlere ve sistemin nasıl çalıştığına daha yakından bakalım.  

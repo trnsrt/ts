@@ -4,6 +4,7 @@ title:  "Blokzincir - Dijitalleşmenin son halkası"
 date:   2021-11-05 08:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, DeFi'ye Giriş
+image: /assets/aposto-wired-photo.jpg
 ---
 
 Gelin bu yazıda, blokzincir ve merkeziyetsiz finansın ne olduğunun yanında nasıl ortaya çıktığına daha geniş bir perspektifte dijitalleşmenin tarihi üzerinden bakalım: 

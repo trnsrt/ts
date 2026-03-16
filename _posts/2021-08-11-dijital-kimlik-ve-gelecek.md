@@ -4,6 +4,7 @@ title:  "Dijital Kimlik ve Gelecek"
 date:   2021-08-11 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/human-1562842_800.jpg
 ---
 
 Önümüzdeki dönemde daha sık konuşulmaya başlanan konulardan biri de 'dijital kimlik' olacak. Gelin bu konuda kafa yormaya şimdiden başlayalım: 

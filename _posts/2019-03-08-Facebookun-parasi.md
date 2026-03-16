@@ -3,6 +3,7 @@ layout: post
 title:  "Facebook'un Parası"
 date:   2019-03-08 14:42:56 +0300
 categories: Genel
+image: /assets/TS_Zuckerberg_tweet_190307_400.png
 ---
 
 

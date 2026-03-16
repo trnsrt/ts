@@ -4,6 +4,7 @@ title:  "Ethereum'un para politikası"
 date:   2020-12-08 16:47:56 +0300
 categories: Genel
 tags: Yazılar
+image: /assets/eth_issuance_graph_v1_800.jpg
 ---
 
 ETH'nin değerini gelecekte belirleyecek temel kriterler ile ilgili [geçenlerde bir yazıda](https://turansert.com/genel/2020/08/06/gelecekte-eth-nin-degerini-neler-etkileyecek.html) para arzından da bahsetmiştik. Ancak, birkaç hafta önce [Vitalik Buterin](https://twitter.com/VitalikButerin)'in ETH'nin para politikası ile ilgili bir soruya verdiği uzun yanıt üzerine konuya daha detaylı bakmak farz oldu. 

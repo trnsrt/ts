@@ -4,6 +4,7 @@ title:  "DeFi opsiyon piyasalarının lideri Hegic"
 date:   2021-01-26 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/uniswap_tvl_v5.png
 ---
 
 DeFi üzerinde küçük ama hızla büyüyen opsiyon platformlarının en büyüğü olan [Hegic](https://www.hegic.co)'e bakıyoruz bu yazımızda... 

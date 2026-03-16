@@ -4,6 +4,7 @@ title:  "Ethereum'un dopingi LSD'ler"
 date:   2023-04-18 12:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, CoindeskTR
+image: /assets/seth-eth-price-dune-lido-analytical.jpg
 ---
 
 Bu yazımızda, Ethereum'da başarı ile sonuçlanan Shapella güncellemesi sonrası gözlerin çevrildiği Liquid Staking Derivatives (LSD) pazarına ışık tutmaya çalışıyoruz. 

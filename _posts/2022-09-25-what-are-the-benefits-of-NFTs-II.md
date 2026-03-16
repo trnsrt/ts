@@ -4,6 +4,7 @@ title:  "Benefits of NFTs - 2"
 date:   2022-09-25 22:47:56 +0300
 categories: Genel
 tags: Yazılar, NFT, Articles
+image: /assets/nft-7072864_800.jpg
 ---
 
 We continue on exploring how NFTs add value to any object. 

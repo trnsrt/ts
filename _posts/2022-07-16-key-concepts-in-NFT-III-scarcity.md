@@ -4,6 +4,7 @@ title:  "Key concepts in NFT III - Scarcity"
 date:   2022-07-16 17:47:56 +0300
 categories: Genel
 tags: Yazılar, NFT, Articles
+image: /assets/citroen-4533220_800.jpg
 ---
 
 In our [previous post](/genel/2022/06/05/key-concepts-in-NFT-II-fungibility-and-non-fungibility.html), we mentioned that NFT stands for non-fungible token and described fungibility. Non-fungibility is essential to create scarcity and we will touch upon that subject in this post. 

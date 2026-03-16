@@ -4,6 +4,7 @@ title:  "Grayscale Fonları"
 date:   2021-05-11 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/grayscale_funds_v2.png
 ---
 
 Bu yazımızda, ABD’nin en büyük kriptopara yatırımcısı olarak ‘görünen’ Grayscale Trust fonlarına bakacağız.

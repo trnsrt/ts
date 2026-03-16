@@ -3,6 +3,7 @@ layout: post
 title:  "Dijital Kimliğinize İyi Bakın"
 date:   2019-03-01 12:42:56 +0300
 categories: Genel
+image: /assets/password-400.jpg
 ---
 
 

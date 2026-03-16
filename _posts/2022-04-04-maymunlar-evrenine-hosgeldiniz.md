@@ -4,6 +4,7 @@ title:  "Maymunlar Evrenine Hoşgeldiniz"
 date:   2022-04-04 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/cakes-618102_800.jpg
 ---
 
 Geçtiğimiz [yazıda](/genel/2022/03/30/maymunlar-istilasi.html) başladığımız CryptoPunks'ın haklarının Bored Ape Yacht Club (BAYC) yaratıcısı Yuga Labs tarafından satın alınması hikayesine, Yuga Labs'ın gelecek planlarına bakarak devam ediyoruz. 

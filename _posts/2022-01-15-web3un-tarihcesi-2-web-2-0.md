@@ -4,6 +4,7 @@ title:  "Web3'ün Tarihçesi II - Web 2.0"
 date:   2022-01-15 08:47:56 +0300
 categories: Genel
 tags: Yazılar, Web3, DeFi, DeFi'ye Giriş
+image: /assets/soap-bubble-g5d1bca873_800.jpg
 ---
 
 Web 3'e bakmaya başladığımız  yazı dizimizin bu bölümünde Web 2.0 dediğimiz, internetin ikinci evresine bakıyor olacağız. 

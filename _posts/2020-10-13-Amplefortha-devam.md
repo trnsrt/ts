@@ -4,6 +4,7 @@ title:  "Ampleforth'a devam"
 date:   2020-10-13 18:47:56 +0300
 categories: Genel
 tags: Yazılar DeFi
+image: /assets/bag-5000786_640.png
 ---
 
 Geçtiğimiz hafta başladığımız Ampleforth yazısına, kaldığımız yerden devam ediyoruz. 

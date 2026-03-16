@@ -4,6 +4,7 @@ title:  "Early pioneers of Blockchain technology"
 date:   2021-07-05 17:47:56 +0300
 categories: Genel
 tags: Yazılar, Articles
+image: /assets/three-pillar-of-blockchain-technology_800.png
 ---
 
 Although the 'Satoshi Nakamoto' is associated with Bitcoin and related blockchain technology, there were many early contributors that heavily influenced Satoshi. Let's have a look at three of them today:

@@ -4,6 +4,7 @@ title:  "DeFi türev piyasaları nasıl oluyor?"
 date:   2020-08-20 12:47:56 +0300
 categories: Genel
 tags: Yazılar DeFi
+image: /assets/assets_global.jpg
 ---
 
 DeFi yani Merkeziyetsiz finansın temel amacı klasik anlamda finans alanında bize yardım eden aracıları ortadan kaldırmak (ya da onlara ucuz bir alternatif olmak). Bu aracılar olarak ilk akla gelen de bankalar. Ama DeFi yalnızca bankalara olan ihtiyacı ortadan kaldırmıyor. Sermaye piyasalarındaki her türlü aracı DeFi oyuncularının tehdidi altında. Ve hiçbir klasik piyasa DeFi'dan kendini korumak konusunda rahat olmamalı. Bakın onlardan biri daha: Türev piyasaları.. 

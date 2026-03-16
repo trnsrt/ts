@@ -4,6 +4,7 @@ title:  "Dinamik NFT'ler"
 date:   2022-10-24 17:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/template-3379485_800.jpg
 ---
 
 Bu yazımızda adını gelecekte daha çok duyacağımız farklı bir NFT çeşidi olan dinamik NFT'lerden (dNFT) bahsedeceğiz. 

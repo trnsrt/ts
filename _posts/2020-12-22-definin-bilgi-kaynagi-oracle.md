@@ -4,6 +4,7 @@ title:  "DeFi'nin bilgi kaynağı oracle"
 date:   2020-12-22 16:47:56 +0300
 categories: Genel
 tags: Yazılar DeFi
+image: /assets/labrador-5741850_640.jpg
 ---
 
 Bu yazımızda, son kullanıcı olarak direkt olarak kullanmadığımız ancak Merkeziyetsiz Finans için kritik konularından biri olan Oracle konusuna bakıp, nedir ve neye yarar anlamaya çalışalım: 

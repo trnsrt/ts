@@ -4,6 +4,7 @@ title:  "ABD'nin Kriptoya Bakışı Değişiyor mu?"
 date:   2023-02-22 18:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/sign-2531244_800.jpg
 ---
 
 Bu yazımızda ABD piyasalarında denetleyici kurumların son zamanlarda aldıkları aksiyonları, nedenlerini ve önümüzdeki dönem beklentilerini ele alacağız.

@@ -3,6 +3,7 @@ layout: post
 title:  "Libra'nın önündeki en büyük engel"
 date:   2019-08-05 12:42:56 +0300
 categories: Genel
+image: /assets/facebook_kullanici.png
 ---
 
 Facebook'un yeni çıkaracağı Libra Blockchain ile ilgili olarak nedir, ne değildir geçtiğimiz yazıda [bahsetmiştik](/genel/2019/07/03/facebookun-parasi-libra-ile-ilgili-tum-bilmek-isteyecekleriniz.html). Her proje gibi Libra'nın da önü belirsizlik ve engel dolu. Ve görünen o ki Libra'nın önündeki engellerin en büyüğü kanun koyuculardan gelecek. 

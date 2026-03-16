@@ -3,6 +3,7 @@ layout: post
 title:  "Blockchain bulunduğum sektöre yarar mı?"
 date:   2018-08-10 15:07:15 +0300
 categories: Genel
+image: /assets/throwing-money-away.gif
 ---
 
 

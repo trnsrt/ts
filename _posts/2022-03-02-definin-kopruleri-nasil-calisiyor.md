@@ -4,6 +4,7 @@ title:  "DeFi'de Köprülere Neden İhtiyaç Var?"
 date:   2022-03-02 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/river-6175173_800.jpg
 ---
 
 Bu yazımızda, blokzincirler arası köprüler ne demek, farklı köprü çeşitleri neler sorularına cevap vermeye çalışacağız. 

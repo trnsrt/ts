@@ -4,6 +4,7 @@ title:  "Benefits of NFTs - 5"
 date:   2022-12-17 10:47:56 +0300
 categories: Genel
 tags: Yazılar, NFT, Articles
+image: /assets/dandelions-g3162baa09_800.jpg
 ---
 
 We continue to look the ways how an NFT would add value to any object or service. 

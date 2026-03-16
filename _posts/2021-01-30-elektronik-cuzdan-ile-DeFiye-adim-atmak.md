@@ -4,6 +4,7 @@ title:  "Elektronik cüzdan ile DeFi'ye adım atmak "
 date:   2021-01-30 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, DeFi'ye Giriş
+image: /assets/electronic-4433604_640.jpg
 ---
 
 Cüzdanlar DeFi dünyasına girişin ilk adımı. Gelin bu yazımızda elektronik cüzdan ne demek, nasıl cüzdan sahibi oluruz ve cüzdanlar ne kadar güvenli sorularına yanıt arayalım:  

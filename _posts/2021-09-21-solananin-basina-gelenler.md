@@ -4,6 +4,7 @@ title:  "Solana'nın başına gelenler"
 date:   2021-09-21 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/pulse-3530383_800.jpg
 ---
 
 Bu yazımızda Solana'nın durması olayı üzerinden blokzincir dünyasındaki kritik konulara değineceğiz. 

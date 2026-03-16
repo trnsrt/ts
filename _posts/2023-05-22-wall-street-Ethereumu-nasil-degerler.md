@@ -4,6 +4,7 @@ title:  "Wall Street Ethereum'u nasıl değerler?"
 date:   2023-05-22 12:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/wall-street-4758079_800.jpg
 ---
 
 Bu yazımızda Wall Street'in önemli oyuncularından VanEck tarafından Ethereum için yapılan değerleme çalışmasını inceleyeceğiz. 

@@ -4,6 +4,7 @@ title:  "Neler yaptın bize WhatsApp?"
 date:   2021-01-14 17:47:56 +0300
 categories: Genel
 tags: Yazılar
+image: /assets/inception.gif
 ---
 
 Son günlerde teknolojik anlamda gündemimiz WhatsApp oldu.. Güvenli mi, değil mi? Kullanmalı mı, kullanmamalı mı?.. Bu soruların ötesinde, asıl konuşmamız gerekenler başka sanki.. Neler mi? Gelin bakalım.. 

@@ -4,6 +4,7 @@ title:  "Ethereum'un Hikayesi - 3"
 date:   2022-12-04 08:47:56 +0300
 categories: Genel
 tags: Yazılar, Web3, DeFi, DeFi'ye Giriş
+image: /assets/ethereum-7107978_800.jpg
 ---
 
 Yazı dizimizin bu bölümünde Ethereum'un yakın geçmişte yaşadığı iki temel teknik gelişme olan EIP 1559 ve PoS sistemine geçişten bahsedeceğiz. 

@@ -4,6 +4,7 @@ title:  "Ethereum 'The Merge' ve sonrası"
 date:   2022-09-16 12:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, CoindeskTR
+image: /assets/puzzle-g9d8d2944d_800.jpg
 ---
 
 Bu yazımızda Ethereum dünyasında bu hafta yaşanan merge olayına ve sırada nelerin olduğunu bakacağız. 

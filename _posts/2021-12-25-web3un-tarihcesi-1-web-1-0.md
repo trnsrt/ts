@@ -4,6 +4,7 @@ title:  "Web3'ün Tarihçesi I - Web 1.0"
 date:   2021-12-25 08:47:56 +0300
 categories: Genel
 tags: Yazılar, Web3, DeFi, DeFi'ye Giriş
+image: /assets/technology-g0454e447f_800.jpg
 ---
 
 Son zamanlarda en sık konuşulan konulardan biri Web3 oluyor. Gelin isterseniz "Web 3 nedir?" sorusunun öncesinde vermeden önce Web1 ve Web2 konularını göz atarak işin tarihçesini anlayalım: 

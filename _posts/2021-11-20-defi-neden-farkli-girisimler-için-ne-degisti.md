@@ -4,6 +4,7 @@ title:  "DeFi neden farklı? - Girişimler için ne değişti?"
 date:   2021-11-20 08:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, DeFi'ye Giriş
+image: /assets/ant-gfaba07ee2_800.jpg
 ---
 
 DeFi'nin klasik finanstan farklarına değindiğimiz yazı dizimizimin bu bölümünde her iki alanda girişimlerin yaşadığı zorluk ve engellerden bahsedeceğiz. 

@@ -4,6 +4,7 @@ title:  "DeFi-TradFi oyun havuzundan ilk izlenimler"
 date:   2022-11-28 12:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, CoindeskTR
+image: /assets/sand-932712_800.jpg
 ---
 
 Bu yazımızda, Singapur Merkez Bankası'nın organize ettiği ve üç geleneksel kurumun merkeziyetsiz finans platformları üzerinden gerçekleştirdikleri bir deneyin hikayesini anlatacağız.

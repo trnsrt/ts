@@ -3,6 +3,7 @@ layout: post
 title:  "Blockchain'in geleceği nasıl görünüyor?"
 date:   2019-04-30 12:42:56 +0300
 categories: Genel
+image: /assets/top_10_in_mcap_v3.png
 ---
 
 

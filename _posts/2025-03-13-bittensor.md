@@ -4,6 +4,7 @@ title:  "Merkeziyetsiz Yapay Zeka'nın pazaryeri: Bittensor"
 date:   2025-03-13 13:17:56 +0300
 categories: Genel
 tags: Yazılar, Web3, AI
+image: /assets/bittensor-marketplace_800.jpg
 ---
 
 Bu yazımızda merkeziyetsiz yapay zeka projelerinin en eskilerinden olan Bittensor'u inceleyeceğiz. 

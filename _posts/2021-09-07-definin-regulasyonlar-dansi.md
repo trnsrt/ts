@@ -4,6 +4,7 @@ title:  "DeFi'nin regülasyonla dansı"
 date:   2021-09-07 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/geyser-3242005_800.jpg
 ---
 Bu haftaki yazımızda, DeFi'nin, gün geçtikçe daha çok ensesinde hissetmeye başladığı kanuni düzenleyicilerle yaptığı danstaki son hareketler var.
 

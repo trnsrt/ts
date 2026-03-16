@@ -4,6 +4,7 @@ title:  "Yatırımcının kripto borsasındaki risklerini azaltmak için öneril
 date:   2021-05-07 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/investing-4013413_800.jpg
 ---
 
 Son zamanlarda birkaç kriptopara borsasının kapanması sonrası, yatırımcıların genel olarak borsalarda tuttuğu dijital varlıkların nasıl korunacağı sıkça tartışılmaya başlandı. Gelin biz de bu yazımızda önce yatırımcıların kendi kendilerine alabileceği önlemlere kısa bir göz atalım. Sonrasında da klasik piyasalara alışmış yatırımcıların dijital varlıklar için kullanabileceği alternatif bir yatırım aracı önerisinde bulunalım. 

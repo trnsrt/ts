@@ -4,6 +4,7 @@ title:  "DeFi ile klasik finansın yakınlaşmaları"
 date:   2021-10-21 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/bulusma_800.jpg
 ---
 
 Bu yazımızda geçtiğimiz haftalarda çok konuşulan Societe Generale'in MakerDAO'ya yaptığı kredi tahsis başvurusunun detaylarına ve neden önemli olduğuna değineceğiz. 

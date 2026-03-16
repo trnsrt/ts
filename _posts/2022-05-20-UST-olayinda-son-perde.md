@@ -4,6 +4,7 @@ title:  "UST'de son perde"
 date:   2022-05-20 17:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/airshow-6145574_800.jpg
 ---
 
 Bu haftaki [yazımızda](/genel/2022/05/16/basima-gelenler-ust-nin-hikayesi.html), UST ve Luna'nın başına gelenlerin ardından bir 'son-durum incelemesi' (post-mortem) yapmaya çalışıyoruz. 

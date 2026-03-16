@@ -4,6 +4,7 @@ title:  "Ethena: Riskleri ve potansiyeli"
 date:   2024-05-30 12:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/eth-perp-kazanc-kayip-oranlav2.png
 ---
 
 Bu yazımızda, geçtiğimiz hafta başladığımız Ethena sisteminin derinliklerine iniyoruz. 

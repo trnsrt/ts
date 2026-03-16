@@ -4,6 +4,7 @@ title:  "Açık denizlere açılan bir liman - Seaport"
 date:   2022-06-30 17:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/lighthouse-gc524e87fc_800.jpg
 ---
 
 Bu yazımızda, geçtiğimiz günlerde OpenSea tarafından kullanılmaya başlanan Seaport protokolünü ele alıyoruz. Nedir, ne işe yarar, neden önemli?

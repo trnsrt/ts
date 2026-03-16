@@ -3,6 +3,7 @@ layout: post
 title:  "Geleceği tahmin için Blockchain"
 date:   2018-07-13 12:16:43 +0300
 categories: Genel
+image: /assets/coffe-mug_400.jpg
 ---
 
 

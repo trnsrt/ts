@@ -4,6 +4,7 @@ title:  "ETH'nin yüksek işlem ücretleri"
 date:   2020-12-21 16:47:56 +0300
 categories: Genel
 tags: Yazılar DeFi
+image: /assets/eth_median_fees_coinmetrics_1yr_800_v1.png
 ---
 
 Ethereum üzerinde işlem yapıyorsanız yüksek işlem ücretleri canınızı sıkıyor olmalı. 

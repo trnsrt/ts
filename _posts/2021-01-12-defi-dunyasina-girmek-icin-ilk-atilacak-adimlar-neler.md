@@ -4,6 +4,7 @@ title:  "DeFi dünyasına girmek için ilk atılacak adımlar neler?"
 date:   2021-01-12 16:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, DeFi'ye Giriş
+image: /assets/man-1069219_640.jpg
 ---
 
 

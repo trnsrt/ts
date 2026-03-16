@@ -4,6 +4,7 @@ title:  "NFT telif hakkı savaşları"
 date:   2023-02-28 18:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/opensea-blur_800.jpg
 ---
 
 Bu yazımızda geçtiğimiz yıl NFT dünyasında çok konuşulan eser sahiplerinin telif hakları konusunu ele alacağız. 

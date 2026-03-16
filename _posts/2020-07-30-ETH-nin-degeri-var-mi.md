@@ -4,6 +4,7 @@ title:  "ETH'nin değeri var mı?"
 date:   2020-07-30 12:47:56 +0300
 categories: Genel
 tags: Yazılar DeFi
+image: /assets/blokzincir_kullanma.png
 ---
 
 

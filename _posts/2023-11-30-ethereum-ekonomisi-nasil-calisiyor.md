@@ -4,6 +4,7 @@ title:  "Ethereum ekonomisi nasıl çalışıyor?"
 date:   2023-11-30 18:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/ethereum-birlesik-devletleri.png
 ---
 
 Bu yazımızda Ethereum ağının ekonomisinin nasıl çalıştığına, önemli aktörlerine ve üzerinde ne tip bir değer yaratıldığına değineceğiz. 
