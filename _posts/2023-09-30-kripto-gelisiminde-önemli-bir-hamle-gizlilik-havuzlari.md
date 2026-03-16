@@ -4,6 +4,7 @@ title:  "Kriptonun gelişiminde önemli bir hamle: Gizlilik havuzları"
 date:   2023-09-30 18:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/dimhou-swimming-pool-4638912_640.jpg
 ---
 
 
