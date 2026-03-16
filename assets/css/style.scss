@@ -2,138 +2,159 @@
 ---
 
 @import "{{ site.theme }}";
-.image-wrapper {
-    text-align: center;
 
-    .image-caption {
-        color: $grey-color;
-        margin-top: $spacing-unit / 3;
-    }
-}
-img + em { display: block; text-align: center;}
+/* ============================================
+   MEDIUM-STYLE REDESIGN
+   ============================================ */
 
-
-/* === Medium-style redesign === */
-
-/* Center and constrain the content */
-.wrapper {
-  max-width: 740px;
-  margin: 0 auto;
-  padding: 0 20px;
-}
-
-/* Clean white background, readable font */
+/* Base */
 body {
   font-family: Georgia, 'Times New Roman', serif;
   font-size: 18px;
   line-height: 1.8;
   color: #333;
   background-color: #fff;
+  margin: 0;
+  padding: 0;
 }
 
-/* Post titles */
-h1, h2, h3 {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-  font-weight: 700;
-  color: #111;
+/* All wrappers centered and narrow */
+.wrapper,
+.page-content .wrapper,
+.site-header .wrapper,
+.site-footer .wrapper,
+.home {
+  max-width: 680px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: 24px !important;
+  padding-right: 24px !important;
+  box-sizing: border-box;
 }
 
-/* === Minimal header === */
-
-/* Make the header clean and simple */
+/* Header */
 .site-header {
   background-color: #fff;
-  border-top: none;
+  border-top: none !important;
   border-bottom: 1px solid #e8e8e8;
   padding: 16px 0;
-  min-height: auto;
+  min-height: auto !important;
 }
 
-/* Hide the big banner image */
 .site-header img {
-  display: none;
+  display: none !important;
 }
 
-/* Style the site title */
 .site-title {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-  font-size: 20px;
+  font-size: 20px !important;
   font-weight: 700;
   color: #111 !important;
-  letter-spacing: -0.5px;
+  letter-spacing: -0.3px;
 }
 
-/* Make nav links smaller and cleaner */
 .site-nav .page-link {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
   font-size: 14px;
-  color: #555;
+  color: #555 !important;
 }
 
-/* === Center the page content === */
-
+/* Page content */
 .page-content {
-  padding: 40px 0;
+  padding: 48px 0;
 }
 
-.page-content .wrapper {
-  max-width: 680px;
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 24px;
-  padding-right: 24px;
+/* Headings */
+h1, h2, h3, h4 {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-weight: 700;
+  color: #111;
+  line-height: 1.3;
 }
 
-.site-header .wrapper {
-  max-width: 680px;
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 24px;
-  padding-right: 24px;
-}
-
-.site-footer .wrapper {
-  max-width: 680px;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-/* === Fix homepage width === */
-
-.home {
-  max-width: 680px;
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 24px;
-  padding-right: 24px;
-}
-
-/* Clean up the post list */
+/* Post list on homepage */
 .post-list {
-  list-style: none;
-  margin-left: 0;
-  padding-left: 0;
+  list-style: none !important;
+  margin-left: 0 !important;
+  padding-left: 0 !important;
 }
 
 .post-list li {
   border-bottom: 1px solid #e8e8e8;
-  padding: 24px 0;
+  padding: 28px 0;
+  margin: 0;
 }
 
 .post-meta {
   font-size: 14px;
   color: #999;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  display: block;
+  margin-bottom: 6px;
 }
 
 .post-link {
-  font-size: 22px;
+  font-size: 22px !important;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
   font-weight: 700;
-  color: #111;
-  text-decoration: none;
+  color: #111 !important;
+  text-decoration: none !important;
+  display: block;
+  margin-bottom: 8px;
 }
 
 .post-link:hover {
-  text-decoration: underline;
+  color: #555 !important;
+}
+
+/* Post excerpt */
+.post-list p {
+  font-size: 16px;
+  color: #555;
+  margin: 0;
+  line-height: 1.6;
+}
+
+/* Individual post page */
+.post-header {
+  margin-bottom: 32px;
+  border-bottom: 1px solid #e8e8e8;
+  padding-bottom: 24px;
+}
+
+.post-title {
+  font-size: 36px !important;
+  line-height: 1.2 !important;
+  color: #111;
+}
+
+.post-content {
+  font-size: 18px;
+  line-height: 1.9;
+}
+
+.post-content p {
+  margin-bottom: 28px;
+}
+
+/* Footer */
+.site-footer {
+  border-top: 1px solid #e8e8e8;
+  padding: 24px 0;
+  font-size: 14px;
+  color: #999;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+}
+
+/* Image captions */
+.image-wrapper {
+  text-align: center;
+}
+
+img + em {
+  display: block;
+  text-align: center;
+  font-size: 14px;
+  color: #999;
+  margin-top: 8px;
 }
