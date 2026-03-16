@@ -4,6 +4,7 @@ title:  "Web3 hangi alanlarda fırsatlar getirecek"
 date:   2022-03-12 08:47:56 +0300
 categories: Genel
 tags: Yazılar, Web3, DeFi, DeFi'ye Giriş
+image: /assets/elephant-3675670_800.jpg
 ---
 
 Bu yazımızda Web3'ün potansiyel olarak hangi alanlarda hayatımıza etki edebileceğine bakacağız. 

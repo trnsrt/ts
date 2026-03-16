@@ -4,6 +4,7 @@ title:  "Kurumsalların DeFi Sevdasının Kaynağı Ne?"
 date:   2021-07-13 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/growth-4822683_800.jpg
 ---
 
 Geçtiğimiz yazılarda, önce Avrupa Yatırım Bankası'nın Ethereum üzerinden [bono ihracı](/genel/2021/05/18/finans-piyasalarda-bir-ilk-EIBnin-ethereum-uzerindeki-bono-ihraci.html), sonrasında da Goldman Sachs'ın JPMorgan'ın Ethereum bazlı blockchain ağına dahil olarak [repo piyasası işlemleri](/genel/2021/06/29/goldman-sachs-jpmorgan-ve-ethereumun-ayni-cumlede-nasil-kullanilir.html) yapmasına değinmiştik. 

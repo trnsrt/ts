@@ -4,6 +4,7 @@ title:  "DeFi'de girişimci ekip ne kadar önemli?"
 date:   2021-07-26 08:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, DeFi'ye Giriş
+image: /assets/buddha-1128429_800.jpg
 ---
 
 DeFi projelerini incelerken nelere dikkat etmeli konusunu araştırdığımız dizimizin bu bölümünde kurucu ekip var: 

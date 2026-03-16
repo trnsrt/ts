@@ -4,6 +4,7 @@ title:  "Ethereum'un Hikayesi - 2"
 date:   2022-11-06 08:47:56 +0300
 categories: Genel
 tags: Yazılar, Web3, DeFi, DeFi'ye Giriş
+image: /assets/ethereum-6928106_800.jpg
 ---
 
 Ethereum'un geçmiş ve geleceğine bakacağımız yazı dizimizin bu bölümünde 2017-2020 yılı arası yaşanan kış döneminde yaşananlara değineceğiz. 

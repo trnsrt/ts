@@ -4,6 +4,7 @@ title:  "DeFi'nin sigortası Nexus Mutual"
 date:   2020-10-20 18:47:56 +0300
 categories: Genel
 tags: Yazılar DeFi
+image: /assets/umbrella-4510667_640.jpg
 ---
 
 [Nexus Mutual](https://nexusmutual.io), DeFi dünyasına çok ihtiyaç duyulan sigortalamayı getirmeye çalışan girişimlerin en büyüğü. İki yazıdan oluşacak seriminizin ilkinde gelin hep birlikte Nexus Mutual'a ekonomik ve potansiyel olarak bakalım. Bir sonraki yazımızda ise teknik olarak sistem nasıl çalışıyor, tokeni [NXM](https://www.coingecko.com/en/coins/nexus-mutual) nasıl fiyatlanıyor konularına değiniriz.  

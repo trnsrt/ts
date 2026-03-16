@@ -4,6 +4,7 @@ title:  "Ethereum staking oyuncularına bir bakış"
 date:   2023-05-09 12:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, CoindeskTR
+image: /assets/pond-3136439_800.jpg
 ---
 
 Bu yazımızda Ethereum ekosisteminde gittikçe önem kazanan Liquid Staking Derivatives alanı oyuncularına ve rakiplerine göz atacağız. 

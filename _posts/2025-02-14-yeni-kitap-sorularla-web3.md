@@ -4,6 +4,7 @@ title:  "Yeni Kitap! 'Sorularla Web3'"
 date:   2025-02-14 17:17:56 +0300
 categories: Genel
 tags: Yazılar, Web3
+image: /assets/Sorularla_Web3_kapak_x.jpg
 ---
 
 #### ‘Sorularla Blockchain’ ve ‘Sorularla DeFi’ sonrası üçüncü kitabım raflarda yerini aldı!

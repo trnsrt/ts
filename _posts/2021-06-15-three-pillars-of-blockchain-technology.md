@@ -4,6 +4,7 @@ title:  "Three pillars of Blockchain"
 date:   2021-06-15 17:47:56 +0300
 categories: Genel
 tags: Yazılar, Articles
+image: /assets/social-media-3846597_800.png
 ---
 
 So let's now look at three pillars that has been developed over the years that resulted in emergence of blockchain. In other words, these three ingredients have mixed and cooked together to create a delicious soup for us, the people. 

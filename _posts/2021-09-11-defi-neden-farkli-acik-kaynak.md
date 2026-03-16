@@ -4,6 +4,7 @@ title:  "DeFi neden farklı? - Açık kaynak"
 date:   2021-09-11 08:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, DeFi'ye Giriş
+image: /assets/doctor-fish-191181_800.jpg
 ---
 
 Bu yazı dizimizde DeFi'nin klasik finans karşısında başarılı olabilmesini sağlayabilecek ya da buna engel olabilecek temel özellikleri ele alacağız. 

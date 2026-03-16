@@ -4,6 +4,7 @@ title:  "Lens: Web3 ile gelen yeni sosyal medya"
 date:   2022-03-18 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/man-358816_800.jpg
 ---
 
 Bu yazımızda Aave tarafından sunulan Lens protokolü üzerinden merkeziyetsiz sosyal medya ve dijital kimlik konularına göz atacağız. 

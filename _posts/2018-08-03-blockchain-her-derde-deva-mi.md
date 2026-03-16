@@ -3,6 +3,7 @@ layout: post
 title:  "Blockchain her derde deva mı?"
 date:   2018-08-03 16:07:15 +0300
 categories: Genel
+image: /assets/do-I-need-blockchain-400.jpg
 ---
 
 

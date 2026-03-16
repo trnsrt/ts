@@ -4,6 +4,7 @@ title:  "DeFi'de sigortacılığa devam..."
 date:   2020-10-27 18:47:56 +0300
 categories: Genel
 tags: Yazılar DeFi
+image: /assets/umbrella-3289996_640.jpg
 ---
 
 Geçtiğimiz yazıda merkeziyetsiz bir sigorta sistemi olan [Nexus Mutual'ın hikayesine bakmıştık](/genel/2020/10/20/definin-sigortasi-nexus-mutual.html). Bu yazımızda ise işin biraz daha tekniğine girerek Nexus Mutual sistemi nasıl çalışır, sistemin tokeni NXM nasıl fiyatlanır ona bakacağız. Arkasından NXM tokenları ile yapılabilecek staking benzeri farklı işlemlerden de bahsedeceğiz. 

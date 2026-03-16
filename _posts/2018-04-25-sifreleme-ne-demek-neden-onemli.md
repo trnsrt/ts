@@ -3,6 +3,7 @@ layout: post
 title:  "Şifreleme ne demek? Neden önemli?"
 date:   2018-04-25 14:25:15 +0300
 categories: Genel
+image: /assets/sifreleme-neden-onemli-v2.jpg
 ---
 
 Şifreleme deyince aklımıza çok karışık anlaşılmaz konular geliyor değil mi? Normal. Aslında o kadar da zor değil ama anlayabilmek için biraz çaba sarfetmek gerek - her türlü konuda olduğu gibi. Peki neden önemli bu şifreleme?  Çünkü şifreleme bize pekçok kişiye dağılan bilginin doğru ve tam olduğunu anlamamızı sağlıyor. Peki ama ne demek şimdi bu?

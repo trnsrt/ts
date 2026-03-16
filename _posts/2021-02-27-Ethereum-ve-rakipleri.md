@@ -4,6 +4,7 @@ title:  "Ethereum ve rakipleri"
 date:   2021-02-27 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/horse-2629042_800.jpg
 ---
 
 Bu yazımızda gelin DeFi alanının ağırlıkla üzerine kurulduğu Ethereum platformunun yaşadığı sıkıntıları, rakiplerin hangi alanda ne çözümler sunduğunu ve Ethereum'un buna karşı ne gibi planları olduğuna bakalım:

@@ -4,6 +4,7 @@ title:  "Merkeziyetsiz dünyanın öne çıkan aktörleri"
 date:   2022-10-17 12:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, CoindeskTR
+image: /assets/sky-5445739_800.jpg
 ---
 Bu yazımızda merkeziyetsiz dünyanın gelişmesi ile birlikte ortaya çıkan ve hayatımıza yavaş yavaş girmeye başlayan yeni oluşumlardan bahsedeceğiz.
 

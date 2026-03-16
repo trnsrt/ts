@@ -4,6 +4,7 @@ title:  "Yeni Bir Ethereum Rakibi: Binance Chain"
 date:   2021-03-03 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/fast-1281627_800.jpg
 ---
 
 Akıllı kontrat platformu dünyasının lideri Ethereum'un pek çok alternatifi mevcut. Bunların bir kısmına geçtiğimiz [yazımızda](/genel/2021/02/27/Ethereum-ve-rakipleri.html) değinmiştik. Bu yazımızda ise hiç kimsenin beklemediği bir şekilde sağ kulvardan atağa kalkan Binance Chain'den bahsedeceğiz.

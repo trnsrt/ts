@@ -4,6 +4,7 @@ title:  "Bitcoin vs. Ethereum — 1: Similarities"
 date:   2021-11-01 17:47:56 +0300
 categories: Genel
 tags: Yazılar, Articles
+image: /assets/present-g64f9719a0_800.jpg
 ---
 
 Let's have a quick look at the similarities and differences between Bitcoin and Ethereum in these mini-series of two posts. 

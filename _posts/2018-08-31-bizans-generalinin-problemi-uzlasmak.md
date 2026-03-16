@@ -3,6 +3,7 @@ layout: post
 title:  "Bizans Generalinin Problemi: Uzlaşmak"
 date:   2018-08-31 13:03:34 +0300
 categories: Genel
+image: /assets/shaking-hands.gif
 ---
 
 

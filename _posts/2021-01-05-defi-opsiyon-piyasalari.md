@@ -4,6 +4,7 @@ title:  "DeFi'da opsiyon piyasaları"
 date:   2021-01-05 16:47:56 +0300
 categories: Genel
 tags: Yazılar DeFi
+image: /assets/glass-facade-817732_640.jpg
 ---
 
 DeFi yani merkeziyetsiz finans dünyası, klasik finans dünyasında kullanılan her tür aracın bir kopyasını çıkarmaya devam ediyor. Gelin bu yazımızda bu araçlardan opsiyon piyasalarına bir göz atalım. 

@@ -4,6 +4,7 @@ title:  "Akıllı cüzdanların gelişi"
 date:   2022-11-21 17:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/problem-solving-g2de67c0d8_800.png
 ---
 
 Bu yazımızda kripto dünyasının, geniş kesimlere ulaşmasının önündeki en büyük engellerden biri olan cüzdan kullanımı sırasında yaşanan problemleri nasıl aşabileceğinden bahsedeceğiz. 

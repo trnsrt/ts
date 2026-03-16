@@ -4,6 +4,7 @@ title:  "Web3 dünyasında büyümenin habercisi geliştiriciler - Kısa versiyo
 date:   2023-01-23 18:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/arrows-3380595_800.jpg
 ---
 
 Bu yazımızda, artık geleneksel hale gelmeye başlayan Electric Capital'in hazırladığı 'Geliştirici Raporu'ndan ilginç çıkarımları paylaşacağız.

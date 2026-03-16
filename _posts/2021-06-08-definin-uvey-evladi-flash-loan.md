@@ -4,6 +4,7 @@ title:  "DeFi'nin Üvey Evladı 'Flash Loan'"
 date:   2021-06-08 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/brain-5814961_800.jpg
 ---
 
 

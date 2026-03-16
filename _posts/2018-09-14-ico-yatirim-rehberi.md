@@ -3,6 +3,7 @@ layout: post
 title:  "ICO Yatırım Rehberi"
 date:   2018-09-14 10:03:34 +0300
 categories: Genel
+image: /assets/dilbert-stock-market-640.png
 ---
 
 

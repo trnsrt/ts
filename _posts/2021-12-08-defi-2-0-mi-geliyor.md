@@ -4,6 +4,7 @@ title:  "DeFi 2.0 mı geliyor?"
 date:   2021-12-08 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/oasis-1288359_800.jpg
 ---
 
 Bu haftaki yazımızda son zamanlarda sıkça konuşulmaya başlanan DeFi 2.0 nedir, neden ortaya çıktı sorularına cevap bulmaya çalışacağız. 

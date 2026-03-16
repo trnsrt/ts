@@ -4,6 +4,7 @@ title:  "Gelecekte ETH'nin değerini neler etkileyecek?"
 date:   2020-08-06 12:47:56 +0300
 categories: Genel
 tags: Yazılar DeFi
+image: /assets/ETH_ortalama_islem_ucreti-800.jpg
 ---
 Geçtiğimiz [yazıda](/genel/2020/07/30/ETH-nin-degeri-var-mi.html), ETH'nin değerini oluşturan temel değerlere bakmıştık. Gelin şimdi de temel olarak bakıldığında ETH değerini yakın ve uzun vadede etkileyecek etkenler neler onlara göz atalım: 
 

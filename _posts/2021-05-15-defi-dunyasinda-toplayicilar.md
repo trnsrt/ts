@@ -4,6 +4,7 @@ title:  "DeFi dünyasının toplayıcıları"
 date:   2021-05-15 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, DeFi'ye Giriş
+image: /assets/time-4559218_800.jpg
 ---
 
 

@@ -3,6 +3,7 @@ layout: post
 title:  "Çevre için Blockchain"
 date:   2018-11-16 10:03:34 +0300
 categories: Genel
+image: /assets/environmental-protection-1_640.jpg
 ---
 
 

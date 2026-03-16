@@ -4,6 +4,7 @@ title:  "Yapay zeka hayatımıza neler getirebilir?"
 date:   2023-07-03 12:17:56 +0300
 categories: Genel
 tags: Yazılar, AI
+image: /assets/yapay-zeka-yazi-II_800.jpg
 ---
 
 Bu yazımızda yapay zekaya pembe gözlükler ile bakarak hayatımıza getireceği olumlu örneklere değineceğiz. 

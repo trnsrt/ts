@@ -4,6 +4,7 @@ title:  "Key DeFi Attributes: Open Source"
 date:   2022-01-22 17:47:56 +0300
 categories: Genel
 tags: Yazılar, Articles
+image: /assets/statue-1217630_800_v2.jpg
 ---
 
 We keep on looking at key attributes of DeFi, this time 'open source'. 

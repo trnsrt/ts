@@ -4,6 +4,7 @@ title:  "DeFi de kurumsallara karşı boş değil"
 date:   2021-07-19 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/rock-4239770_800.jpg
 ---
 
 Geçtiğimiz yazıda, DeFi'nin kurumsal yatırımcılar ile buluşması adına yaşanan iki gelişmeden bahsetmiştik. Bu iki gelişmeyi kısaca hatırlarsak, 

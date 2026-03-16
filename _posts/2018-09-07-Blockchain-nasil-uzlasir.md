@@ -3,6 +3,7 @@ layout: post
 title:  "Blockchain nasıl uzlaşır?"
 date:   2018-09-07 12:03:34 +0300
 categories: Genel
+image: /assets/walking-crowd.gif
 ---
 
 

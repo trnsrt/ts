@@ -3,6 +3,7 @@ layout: post
 title:  "Geleceğin ödeme aracı Grin mi olacak?"
 date:   2019-01-24 10:43:45 +0300
 categories: Genel
+image: /assets/grin-400.png
 ---
 
 Bir önceki [yazımızda](/genel/2019/01/23/miblewimble-aranan-mahremiyet-buyusu-mu.html) en son ortaya çıkan 'hip' teknolojilerden MimbleWimble'a göz atmıştık. MibleWimble Bitcoin benzeri bir Blockchain. Asıl ilginç olan üzerine kurulu uygulamalar. aynı [yazıda](/genel/2019/01/23/miblewimble-aranan-mahremiyet-buyusu-mu.html) kısaca bu uygulamalardan Beam'e bakmıştık. Asıl ilginç uygulama [Grin](https://grin-tech.org/) ise bu yazımızda.

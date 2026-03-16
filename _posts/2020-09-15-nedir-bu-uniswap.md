@@ -4,6 +4,7 @@ title:  "Nedir bu Uniswap?"
 date:   2020-09-15 18:47:56 +0300
 categories: Genel
 tags: Yazılar DeFi
+image: /assets/Uniswap_islemler_640.png
 ---
 
 Uniswap merkeziyetsiz olarak işlem yapılan bir kripto para borsası - ve bu alanın eskilerinden. Her ne kadar borsa olarak adlandırsak da Uniswap özünde İngilizce'de "market maker" olarak adlandırılan piyasa yapıcı bir havuz. Biraz daha açalım: 

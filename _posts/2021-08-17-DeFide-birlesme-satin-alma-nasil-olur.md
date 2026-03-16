@@ -4,6 +4,7 @@ title:  "DeFi'de birleşme/satın alma nasıl oluyor?"
 date:   2021-08-17 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/merger-3385425_800.jpg
 ---
 
 Bu yazımızda, gelin iki farklı ağ olan Polygon'un Hermez'i nasıl satın aldığına bakalım.

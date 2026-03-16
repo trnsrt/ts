@@ -4,6 +4,7 @@ title:  "DeFi neden farklı? - Bir arada uyumlu çalışabilme"
 date:   2021-09-25 08:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, DeFi'ye Giriş
+image: /assets/silos-tim-hallam_800.jpg
 ---
 Bu yazımızda DeFi'yi klasik finanstan farklı kılan özelliklerden uyumlu çalışmaya bakıyoruz. 
 

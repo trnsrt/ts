@@ -3,6 +3,7 @@ layout: post
 title:  "Token dünyasının ilk oyuncusu tanıdık bir isim: Bitcoin"
 date:   2018-06-01 17:22:15 +0300
 categories: Genel
+image: /assets/cryptocurrency-bitcoin.png
 ---
 
 

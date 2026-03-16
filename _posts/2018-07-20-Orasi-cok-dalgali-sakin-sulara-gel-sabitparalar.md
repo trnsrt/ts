@@ -3,6 +3,7 @@ layout: post
 title:  "Orası çok dalgalı, sakin sulara gel: SabitParalar"
 date:   2018-07-20 14:46:15 +0300
 categories: Genel
+image: /assets/coindesk-bpi-chart-600.jpg
 ---
 
 Geçtiğimiz günlerde bir yemekte Bitcoin ile ilgili konuşurken, bir dostum "İyi ama Bitcoin ile bir mal sattın, parayı alıp dolara dönmek istediğinde bir bakıyorsun o sırada paranın değeri değişivermiş, ne anladım bu işten - neden Bitcoin kullanayım ki?" şeklinde bir serzenişte bulundu. Haklı mı? Mevcut durumda haklı. Baksanıza Bitcoin'in son bir aydaki değişimini gösteren grafiğe: 

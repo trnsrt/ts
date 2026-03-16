@@ -4,6 +4,7 @@ title:  "DeFi'de Köprülere Neden İhtiyaç Var?"
 date:   2022-02-16 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/road-2360545_800.jpg
 ---
 
 İki yazıdan oluşacak mini serimizde, 2022 yılında çok konuşacağımız köprüler konusuna değiniyoruz. İlk yazımızda cevaplamaya çalışacağımız soru "Blokzincirlerde neden köprülere ihtiyaç duyuyoruz?" olacak. 

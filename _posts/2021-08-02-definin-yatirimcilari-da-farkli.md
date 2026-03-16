@@ -4,6 +4,7 @@ title:  "DeFi'nin yatırımcıları da farklı"
 date:   2021-08-02 08:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, DeFi'ye Giriş
+image: /assets/digitization-2007355_800.jpg
 ---
 
 Bu yazımızda, değişen yatırımcı-girişimci ilişkisi içinde, herhangi bir DeFi projesini inceler iken yatırımcıları nasıl değerlendirmeli konusuna değineceğiz: 

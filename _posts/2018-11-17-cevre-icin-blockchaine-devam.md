@@ -3,6 +3,7 @@ layout: post
 title:  "Çevre için Blockchain'e devam"
 date:   2018-11-17 10:05:34 +0300
 categories: Genel
+image: /assets/planet-1_b_640.jpg
 ---
 
 

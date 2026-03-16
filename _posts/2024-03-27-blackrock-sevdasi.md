@@ -4,6 +4,7 @@ title:  "BlackRock'ın kripto sevdası"
 date:   2024-03-27 12:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/basalt-bars-2173278_800.jpg
 ---
 
 Bu haftaki yazımızda, ABD'nin en büyük varlık yöneticilerinden BlackRock'ın Ethereum blokzinciri üzerine kurduğu tokenleştirilmiş menkul kıymet hizmetinden bahsedeceğiz. 

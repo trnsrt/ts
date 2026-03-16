@@ -4,6 +4,7 @@ title:  "Geleneksel Finansa DeFi'den Misafir Var"
 date:   2022-08-04 17:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, NFT
+image: /assets/connection-g369f208e6_800.png
 ---
 
 Bu yazımızda DeFi ile klasik finansın yakınlaşmasının son örneklerinden olan MakerDAO sistemi ile ABD bankacılık sektörünün bir  araya gelme çabalarından bahsedeceğiz. 

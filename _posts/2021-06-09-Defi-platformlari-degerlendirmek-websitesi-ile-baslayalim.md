@@ -4,6 +4,7 @@ title:  "DeFi ürünleri değerlendirmek - web sitesi ile başlayalım"
 date:   2021-06-09 08:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, DeFi'ye Giriş
+image: /assets/defi_ilk_adimlar_800.png
 ---
 
 Bu yazı dizimizde, DeFi protokollerini nasıl değerlendirebiliriz konusuna eğileceğiz. İşe ilk olarak protokolün web sitesinden başlıyoruz.

@@ -4,6 +4,7 @@ title:  "Ethereum sansüre nasıl yanıt verecek?"
 date:   2022-08-31 17:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/cabinets-283847_800.jpg
 ---
 
 Geçtiğimiz yazılarda önce Tornado Cash'in yasaklanması sonrası blokzincirler üzerindeki uygulamaların getirdiği kısıtlamalardan [bahsetmiş](/genel/2022/08/20/tornado-cash-olayi.html), sonrasında ise DeFi dünyasını bundan sonra nelerin beklediğine [değinmiştik](/genel/2022/08/27/tornado-cash-olayi-defiyi-nasil-etkiler.html). 

@@ -4,6 +4,7 @@ title:  "Web3'ün tarihçesi IV - Web3'ün doğuşu"
 date:   2022-02-21 08:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, DeFi'ye Giriş
+image: /assets/british-columbia-3785254_800.jpg
 ---
 
 Gelin Web3'ün nasıl doğduğuna hep birlikte bakalım. 

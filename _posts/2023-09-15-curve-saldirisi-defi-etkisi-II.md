@@ -4,6 +4,7 @@ title:  "Curve saldırısının DeFi'ye etkileri - 2"
 date:   2023-09-15 18:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/duplo-1981724_800.jpg
 ---
 
 Geçtiğimiz hafta başladığımız Curve olayı konusuna, olayın DeFi'ye etkilerine bakarak devam ediyoruz. 

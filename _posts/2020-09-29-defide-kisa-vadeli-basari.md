@@ -4,6 +4,7 @@ title:  "Defi'de kısa vadeli başarı"
 date:   2020-09-29 18:47:56 +0300
 categories: Genel
 tags: Yazılar DeFi
+image: /assets/money_printer.png
 ---
 
 Gelin bugün DeFi içinde şaka olarak başlayan ancak son bir ay içinde oldukça başarı kazanmış bir projeden bahsedelim. Komik ama içinden çıkarılacak dersler var - özellikle bu alandaki girişimler için. 

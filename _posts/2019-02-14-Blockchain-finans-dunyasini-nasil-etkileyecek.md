@@ -3,6 +3,7 @@ layout: post
 title:  "Blockchain finans dünyasını nasıl etkileyecek?"
 date:   2019-02-14 15:42:29 +0300
 categories: Genel
+image: /assets/counting-money.gif
 ---
 
 Blockchain bazlı sistemlerin en çok etkileyeceği alanlardan birinin finans olduğu ezelden beri söylenir. Gelin neden böyle bir algı var önce ona bakalım sonra da bu alanda son zamanlarda en çok konuşulan konulardan biri olan Decentralized Finance (DeFi) oluşumuna göz atalım.  

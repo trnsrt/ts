@@ -4,6 +4,7 @@ title:  "Aragon ile DeFi'da yönetim"
 date:   2020-07-18 12:47:56 +0300
 categories: Genel
 tags: Yazılar DeFi
+image: /assets/Aragon-defi.jpg
 ---
 
 Bu yazımızda gelin hep birlikte merkeziyetsiz yönetim konusunda enteresan bir deneysel fikir olan [Aragon](https://aragon.org/)'a göz atalım. 

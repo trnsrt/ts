@@ -4,6 +4,7 @@ title:  "Token, NFT derken şimdi de SBT"
 date:   2022-06-02 17:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, CoindeskTR
+image: /assets/pendant-941232_800.jpg
 ---
 
 Bugünkü konumuz, bu yıl Ocak ayında Ethereum kurucularından Vitalik Buterin tarafından [ortaya atılan](https://vitalik.ca/general/2022/01/26/soulbound.html) ve geçtiğimiz günlerde içinde Vitalik'in de yer aldığı bir ekip tarafından üzerine bir [araştırma yayınlanan](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763) Soulbound token olacak. 

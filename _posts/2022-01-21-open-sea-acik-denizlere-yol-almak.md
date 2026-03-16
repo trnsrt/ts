@@ -4,6 +4,7 @@ title:  "OpenSea - Açık denizlere yol almak"
 date:   2022-01-21 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/sky-g3d48705d3_800.jpg
 ---
 
 Bu yazımızda NFT alım-satımının neredeyse tek adresi olan OpenSea'ye açılacağız. 

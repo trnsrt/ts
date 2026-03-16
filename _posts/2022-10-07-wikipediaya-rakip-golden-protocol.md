@@ -4,6 +4,7 @@ title:  "Doğru bilgiye ulaşmada Wikipedia'ya Web3'den bir rakip: Golden Protoc
 date:   2022-10-07 17:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/technology-6873012_800.jpg
 ---
 
 Bu yazımızda Web3'ün bize sunmayı vadettiği ilginç kullanım alanlarından bilgi paylaşımı alanında kurulu Golden Protocol'e bakacağız. 

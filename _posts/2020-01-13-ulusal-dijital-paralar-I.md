@@ -3,6 +3,7 @@ layout: post
 title:  "Ulusal Dijital Paralar - I"
 date:   2020-01-13 12:42:56 +0300
 categories: Genel
+image: /assets/naval_on_bitcoin.png
 ---
 
 

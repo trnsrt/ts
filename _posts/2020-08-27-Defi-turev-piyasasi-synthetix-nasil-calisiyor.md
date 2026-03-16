@@ -4,6 +4,7 @@ title:  "DeFi türev piyasası Synthetix nasıl çalışıyor?"
 date:   2020-08-28 18:47:56 +0300
 categories: Genel
 tags: Yazılar DeFi
+image: /assets/Synthetix_locked_value_800.jpg
 ---
 
 

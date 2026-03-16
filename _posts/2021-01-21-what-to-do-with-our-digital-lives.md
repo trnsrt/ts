@@ -4,6 +4,7 @@ title:  "What to do with our digital lives?"
 date:   2021-01-21 17:47:56 +0300
 categories: Genel
 tags: Yazılar, Articles
+image: /assets/smartphone-3637029_640.jpg
 ---
 
 WhatsApp decided to gather more data about us and created a short-lived outcry among our social groups. So, what is next?

@@ -4,6 +4,7 @@ title:  "ETH görünümlü BTC olur mu?"
 date:   2020-07-09 12:47:56 +0300
 categories: Genel
 tags: Yazılar DeFi
+image: /assets/btconethereum-800.jpg
 ---
 
 Gelin bu yazımızda, yakın zamanlarda yükselişe geçen yeni bir DeFi ürününe bakalım:

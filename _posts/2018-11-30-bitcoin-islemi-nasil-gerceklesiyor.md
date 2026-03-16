@@ -3,6 +3,7 @@ layout: post
 title:  "Bitcoin işlemi nasıl gerçekleşiyor?"
 date:   2018-11-30 10:05:34 +0300
 categories: Genel
+image: /assets/transaction-sample-640-b.png
 ---
 
 

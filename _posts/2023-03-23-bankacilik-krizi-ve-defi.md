@@ -4,6 +4,7 @@ title:  "Son bankacılık olayları DeFi'yi nasıl etkiledi?"
 date:   2023-03-23 11:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/domino-ge4c9cd4fc_800.jpg
 ---
 
 Bu yazımızda geçtiğimiz hafta yaşanan bankacılık sektöründeki krizin kripto dünyasına yansımalarına ve DeFi'yi nasıl etkilediğine değineceğiz. 

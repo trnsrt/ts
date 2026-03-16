@@ -4,6 +4,7 @@ title:  "DeFi neden farklı? - Katma değer farklı paylaşılıyor"
 date:   2021-12-05 08:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, DeFi'ye Giriş
+image: /assets/swede-cakes-2123191_800.jpg
 ---
 
 DeFi'nin klasik finanstan farklarına değindiğimiz yazı dizimizimin bu bölümünde yaratılan katma değerin nasıl paylaşıldığına bakacağız. 

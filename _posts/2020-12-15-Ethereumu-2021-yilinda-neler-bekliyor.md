@@ -4,6 +4,7 @@ title:  "2021'de Ethereum'u neler bekliyor?"
 date:   2020-12-15 16:47:56 +0300
 categories: Genel
 tags: Yazılar
+image: /assets/eth_total_fees_coinmetrics_1yr_800_v2.png
 ---
 
 2020 yılı Ethereum topluluğu için önemli bir yıl oldu. 2021 yılı ise farklı ve ilginç gelişmelere gebe. [Bir önceki yazımızda](/genel/2020/12/08/Ethereumun-para-politikas%C4%B1.html) Ethereum'un parası ETH'nin para arzının önümüzdeki yıllarda nasıl değişeceğini yazmıştık. Bu yazımızda ise gelin hep birlikte yakın vadede, yani önümüzdeki yıl için Ethereum topluluğunun en çok konuşacağı konulara değinelim.. 

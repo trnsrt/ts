@@ -4,6 +4,7 @@ title:  "Bir NFT Hırsızlık Hikayesi"
 date:   2022-06-14 17:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/fear-1172407_800.jpg
 ---
 
 Bu yazımızda, Hollywood yıldızı Seth Green'in sahip olduğu NFT'nin çalınmasının ardından yaşanan dijital dünyada telif hakları konusuna değiniyoruz. 

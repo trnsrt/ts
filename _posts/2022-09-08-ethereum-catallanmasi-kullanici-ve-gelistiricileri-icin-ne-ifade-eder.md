@@ -4,6 +4,7 @@ title:  "Ethereum Çatallanması Kullanıcı ve Geliştiriciler İçin Ne Getiri
 date:   2022-09-07 17:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/threshold-6036413_800.jpg
 ---
 
 Bu yazımızda, Ethereum'un olası çatallanmasının uygulamalar ve kullanıcılar açısından ne gibi etkileri olabileceğine bakacağız.  

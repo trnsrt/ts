@@ -4,6 +4,7 @@ title:  "Hangi elektronik cüzdan ne işe yarar?"
 date:   2021-02-13 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, DeFi'ye Giriş
+image: /assets/pexels-skitterphoto-2019_800.jpg
 ---
 
 Farklı farklı elektronik cüzdanlar var. Peki hangisini seçmeli? Bunun yanıtı ihtiyaç, beklenti ve risk algınıza göre değişir. Farklı cüzdan çeşitleri neler, hangi cüzdan ne işe yarar gelin birlikte bakalım: 

@@ -4,6 +4,7 @@ title:  "Ethereum'un Hikayesi - 1"
 date:   2022-10-10 08:47:56 +0300
 categories: Genel
 tags: Yazılar, Web3, DeFi, DeFi'ye Giriş
+image: /assets/cryptocurrency-3409658_800.jpg
 ---
 
 

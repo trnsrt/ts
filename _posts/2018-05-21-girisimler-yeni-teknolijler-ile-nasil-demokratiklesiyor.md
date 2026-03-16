@@ -3,6 +3,7 @@ layout: post
 title:  "Girişimler yeni teknolojiler ile nasıl demokratikleşiyor?"
 date:   2018-05-21 17:12:15 +0300
 categories: Genel
+image: /assets/human-2944065_600.jpg
 ---
 
 

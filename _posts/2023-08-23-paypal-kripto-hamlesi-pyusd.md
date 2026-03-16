@@ -4,6 +4,7 @@ title:  "PayPal'in son kripto hamlesi: PYUSD"
 date:   2023-08-24 18:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/stabil_para_gelisim_2308_800.png
 ---
 
 Bu yazımızda Fintech dünyasının devlerinden olan PayPal'in gectiğimiz hafta çıkardığı stabil para PYUSD'yi inceleyeceğiz. 

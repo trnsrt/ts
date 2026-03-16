@@ -4,6 +4,7 @@ title:  "Yeni Ethereum'u Beklerken"
 date:   2022-04-20 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/waiting_for_godot_800.jpg
 ---
 
 Bu yazımızda, Haziran 2022'ye yetişmesi beklenen Ethereum'un yeni versiyonunun gecikmesi sonrası aklımıza takılan sorulara cevap arayacağız: Süreç ne kadar daha uzayabilir? Bilmediğimiz bir sorun mu var Ethereum'da? Neden uzuyor? Vitalik dünyayı gezeceğine oturup daha mı çok çalışmalı?... 

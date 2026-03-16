@@ -3,6 +3,7 @@ layout: post
 title:  "Seyahat için Blockchain"
 date:   2018-07-06 15:28:15 +0300
 categories: Genel
+image: /assets/world-640.jpg
 ---
 
 Geçtiğimiz yazılarımızda Blockchain'in sadece finans değil değişik alanlardaki kullanımlarına değinmiş, [sağlık](/genel/2018/04/17/saglik-icin-blockchain.html), [sanat](/genel/2018/04/06/sanat-icin-blockchain.html), [insani yardım](/genel/2018/03/29/Iyilik-icin-blockchain.html) alanlarına tek tek bakmıştık. 

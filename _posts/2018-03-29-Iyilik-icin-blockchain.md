@@ -3,6 +3,7 @@ layout: post
 title:  "İyilik için Blockchain"
 date:   2018-03-29 14:25:15 +0300
 categories: Genel
+image: /assets/wfp-syria.jpg
 ---
 
 Bundan önceki yazılarımızda, dijital dünyada gelişen teknolojilere kısaca bir göz atmıştık: 

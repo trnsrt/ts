@@ -4,6 +4,7 @@ title:  "Stabil paralar içinde yeni bir oyuncu (mu?): Ethena"
 date:   2024-05-21 12:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/stabil-para-pazar-paylari_v2.png
 ---
 
 Bu yazımızda stabil para dünyasında son duruma bir göz attıktan sonra mahalleye yeni gelen çocuk Ethena ve parası olan USDe'den bahsedeceğiz. Bir sonraki yazımızda ise Ethena'nın nasıl bir potansiyel taşıdığına ve olası risklerine değineceğiz. 

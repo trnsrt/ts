@@ -4,6 +4,7 @@ title:  "Goldman Sachs, JPMorgan ve Ethereum aynı cümlede geçer mi?"
 date:   2021-06-29 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/ibex-2462568_800.jpg
 ---
 
 Bu satırlarda DeFi yani merkeziyetsiz finanstan bahsederken, ağırlıklı olarak, kişiden kişiye işlemlerde kullanılan blokzincir uygulamalarına değiniyoruz. Bunun temel nedeni, 2020 yılının ortalarından itibaren bu alanda adeta bir patlama yaşanmış olması. 

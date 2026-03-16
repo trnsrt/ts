@@ -4,6 +4,7 @@ title:  "Web3'ü insanlık için kullanmak"
 date:   2023-03-31 12:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, CoindeskTR
+image: /assets/rice-gc5300c8a8_800.jpg
 ---
 
 Bu yazımızda, geleneksel dünya ile Web3'ün harmanlandığında dünyayı nasıl güzelleştirebildiğini gösteren bir örnek olan Lemonade Crypto Climate Coalition'dan bahsedeceğiz. 

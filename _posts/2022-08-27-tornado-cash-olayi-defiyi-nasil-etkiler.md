@@ -4,6 +4,7 @@ title:  "Tornado Cash olayı DeFi'yi nasıl etkiler"
 date:   2022-08-27 12:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, CoindeskTR
+image: /assets/coffee-1973549_800.jpg
 ---
 
 Tornado Cash olayını incelediğimiz ikinci yazıda, kripto dünyasının bu olaya verdiği tepkileri ve bu dünya oyuncularını gelecekte nelerin beklediğini irdelemeye çalışacağız. 

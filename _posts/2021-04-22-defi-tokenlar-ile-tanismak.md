@@ -4,6 +4,7 @@ title:  "DeFi tokenlar ile tanışmak"
 date:   2021-04-22 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, DeFi'ye Giriş
+image: /assets/man-5782412_800.jpg
 ---
 
 

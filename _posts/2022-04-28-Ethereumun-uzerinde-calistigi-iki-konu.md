@@ -4,6 +4,7 @@ title:  "Ethereum'un üzerinde çalıştığı iki konu"
 date:   2022-04-28 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/ethereum_power_consumption_v3_800.png
 ---
 
 Ethereum'un yeni versiyonunu incelediğimiz bir önceki [yazımızdan](/genel/2022/04/20/yeni-ethereumu-beklerken.html) sonra, şimdi de işin derinine iniyoruz.

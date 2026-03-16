@@ -3,6 +3,7 @@ layout: post
 title:  "Madencilik 2.0: Beyaz yakalıdan madenci olur mu?"
 date:   2019-01-11 16:25:38 +0300
 categories: Genel
+image: /assets/office-worker-mining-2.png
 ---
 
 Yeni teknolojilerin geniş kesimlerce adapte edilebilmesi için pek çok girişim var. Bunlardan [Lightning](/genel/2018/12/20/bitcoin-uzerinde-isik-hiziyla-islem-Lightning-network.html), [Liquid](/genel/2018/12/26/Bitcoin-gibi-ama-degil-Liquid.html) ve [Bakkt](/genel/2019/01/04/kurumsal-yatirimci-bakkt-ile-kriptoparalara-girer-mi.html)'a geçmiş yazılarımızda değinmiştik. Şimdi bu trendlerden gelecekte daha da önem kazanacak olan bir tanesine, kurumsal yatırımcıların kafa yorduğu Generalized Mining (ya da Mining 2.0) kavramına bakalım birlikte. 

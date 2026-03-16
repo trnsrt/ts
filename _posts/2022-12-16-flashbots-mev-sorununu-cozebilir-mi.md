@@ -4,6 +4,7 @@ title:  "Flashbots MEV sorununu çözebilecek mi?"
 date:   2022-12-16 17:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/lightning-gd2556cb2a_800.jpg
 ---
 Bu yazımızda, Ethereum protokolü oyuncularının en çok tercih ettiği yazılımın sahibi olan Flashbots ekibinin, MEV (Maximal Extractable Value) ve merkezileşme konularında şimdiye kadar yaptıklarını ve bundan sonraki hedeflerini gözden geçireceğiz. 
 

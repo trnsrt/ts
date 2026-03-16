@@ -4,6 +4,7 @@ title:  "Vibe Bio sağlıklı bir Web3 örneği olabilir mi?"
 date:   2023-01-17 12:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, CoindeskTR
+image: /assets/pipette-g25fc9daab_800.jpg
 ---
 
 Bu yazımızın konusu Web3’ün sağlık alanındaki ilginç bir girişimi olan Vibe Bio. 

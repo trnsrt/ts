@@ -3,6 +3,7 @@ layout: post
 title:  "Şifreleme mi? Çok karışık değil mi?"
 date:   2018-04-26 07:45:15 +0300
 categories: Genel
+image: /assets/ogutme-mekanizmasi-v4.png
 ---
 
 [Geçtiğimiz yazımızda](/genel/2018/04/25/sifreleme-ne-demek-neden-onemli.html) neden şifrelemenin Blockchain'in temel taşı olduğundan bahsetmiştik. 

@@ -3,6 +3,7 @@ layout: post
 title:  "Dünyanın en büyük bilgisayarı: Ethereum'un hikayesi"
 date:   2018-06-14 15:35:15 +0300
 categories: Genel
+image: /assets/vitalik-buterin.jpg
 ---
 
 

@@ -4,6 +4,7 @@ title:  "Maymunların Web3'ü istilası"
 date:   2022-03-30 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/cryptopunk_5822.png
 ---
 
 Bu yazımızda geçtiğimiz günlerde NFT dünyasının ağır toplarından Cryptopunks koleksiyonunu satın alan Bored Apes Yacht Club (BAYC) üreticisi Yuga Brands'ı inceleyeceğiz. NFT koleksiyonları tam olarak ne demek? BAYC nasıl başarılı oldu? Yuga Brands neden böyle bir satın alma yaptı? Detaylar için buyurun yazımıza. 

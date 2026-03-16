@@ -4,6 +4,7 @@ title:  "DeFi'de oyunun adı topluluk"
 date:   2021-02-11 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/gears-5688996_800.jpg
 ---
 
 DeFi dünyasındaki tüm girişimler için başarının sırrı kendine bağlı ve üretken bir topluluk oluşturmak. Aslında genel anlamda tüm girişimler için önemli olan bu kural, DeFi için hayati öneme sahip. Bu alana yatırım yapmayı düşünenlerin ilk bakacakları alan bu olmalı. Gelin nedenlerine birlikte bakalım: 

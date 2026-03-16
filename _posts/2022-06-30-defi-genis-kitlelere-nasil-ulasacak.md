@@ -4,6 +4,7 @@ title:  "DeFi geniş kitlelere nasıl yayılır?"
 date:   2022-06-30 17:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, CoindeskTR
+image: /assets/imf_global_stability_report_800.png
 ---
 
 Hemen hemen tüm merkeziyetsiz teknolojilerde olduğu gibi DeFi'de de şu aralar bir yavaşlama söz konusu. 2020 yılının yaz aylarında başlayan DeFi yaz dönemi, 2022 yılı ile birlikte, yerini kimine göre sonbahar kimine göre kışa bıraktı.  Gelin DeFi'nin şimdiye kadar yaşadığı büyüme hikayesi ile birlikte önümüzdeki dönemde daha geniş kitlelere ulaşması için nelere ihtiyaç duyduğuna bir göz atalım. 

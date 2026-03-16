@@ -3,6 +3,7 @@ layout: post
 title:  "Değişen Girişimcilik ve Yatırımcılık"
 date:   2018-05-17 14:30:15 +0300
 categories: Genel
+image: /assets/entrepreneur-classic-600.jpg
 ---
 
 Geçtiğimiz yazılarda, merkezi olmayan yapılara bakmış ve neden önemli olduklarını anlatmaya çalışmıştık.  Özetle, merkezi yapılar, tek bir merkezden yönetildikleri için güvenlik açısından sakıncalar yaşarlar. Tek merkezli yapılar, iç ve dış tehditler için kolayca hedef tahtası haline gelirler. Oysa ki merkezi olmayan sistemler ele avuca sığmayan cıva gibilier, nereye saldıracaksınız ki?. İşte bu özellikleri merkezi olmayan yapıları daha sağlam hale getiriyor. 

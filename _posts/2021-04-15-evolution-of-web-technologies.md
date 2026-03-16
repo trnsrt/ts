@@ -4,6 +4,7 @@ title:  "Evolution of web technologies"
 date:   2021-04-15 17:47:56 +0300
 categories: Genel
 tags: Yazılar, Articles
+image: /assets/ornament-4729903_800.jpg
 ---
 
 Let's have a closer look at the evolution of web in this piece:

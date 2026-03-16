@@ -4,6 +4,7 @@ title:  "ETH'nin çekim gücü"
 date:   2023-04-10 11:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/castle-1086896_800.jpg
 ---
 
 Bu yazımızda bu hafta başlayacak olan Ethereum'dan çekim olayının ne olduğuna ve kısa/uzun vadeli etkilerine değineceğiz.

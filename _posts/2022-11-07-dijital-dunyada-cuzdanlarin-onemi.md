@@ -4,6 +4,7 @@ title:  "Dijital dünyada cüzdanların önemi"
 date:   2022-11-07 17:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/computer-repair-west-palm-beach-7159959_800.jpg
 ---
 
 Bu yazımızda, kripto dünyasını dolaşırken elimiz ayağımız olan cüzdanların kullanımında yaşanan sorunlara değineceğiz. Bir sonraki yazımızda ise bu sorunların önümüzdeki dönemde nasıl çözüleceğine bakacağız. 

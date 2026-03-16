@@ -4,6 +4,7 @@ title:  "Compound'un yönetim tokeni COMP nasıl çalışıyor?"
 date:   2020-06-25 12:47:56 +0300
 categories: Genel
 tags: Yazılar DeFi
+image: /assets/Compound_Locked_Value.png
 ---
 
 

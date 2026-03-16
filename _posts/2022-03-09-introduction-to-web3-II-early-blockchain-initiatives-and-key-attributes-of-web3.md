@@ -4,6 +4,7 @@ title:  "Introduction to Web3 - II-  Early blockchain initiatives and key attrib
 date:   2022-03-08 17:47:56 +0300
 categories: Genel
 tags: Yazılar, Articles
+image: /assets/balloon-2644416_800.jpg
 ---
 
 

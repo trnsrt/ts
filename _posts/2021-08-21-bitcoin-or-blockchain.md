@@ -4,6 +4,7 @@ title:  "Bitcoin or Blockchain?"
 date:   2021-08-21 17:47:56 +0300
 categories: Genel
 tags: Yazılar, Articles
+image: /assets/easter-4128118_800.jpg
 ---
 
 Let's have a look at a decade-long discussion in this post. 'Which one matters? Bitcoin or Blockchain?'

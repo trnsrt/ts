@@ -3,6 +3,7 @@ layout: post
 title:  "Kurumsal yatırımcı Bakkt ile KriptoParalar'a girer mi?"
 date:   2019-01-04 13:25:38 +0300
 categories: Genel
+image: /assets/bull-vs-bitcoin-400.png
 ---
 
 Bitcoin'in geniş kitleler tarafından kullanılmasına yardımcı olmaya çalışan iki yenilik [Lightning Network](/genel/2018/12/20/bitcoin-uzerinde-isik-hiziyla-islem-Lightning-network.html) ve [Liquid](/genel/2018/12/20/bitcoin-uzerinde-isik-hiziyla-islem-Lightning-network.html)'e geçtiğimiz iki yazıda değinmiştik. Şimdi de Ağustos ayında açıklanan ve gecikmeler nedeniyle 2019'un ilk yarısında faaliyete geçmesi planlanan Bakkt nedir ona bakalım. 

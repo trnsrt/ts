@@ -4,6 +4,7 @@ title:  "SEC'nin Binance ve Coinbase davaları"
 date:   2023-06-07 12:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/graffiti-gad1388ea3_800.jpg
 ---
 
 Bu yazımızda SEC'in bu hafta başında peş peşe açtığı iki davanın ortaya çıkardığı sorulara yanıtlar arayacağız. 

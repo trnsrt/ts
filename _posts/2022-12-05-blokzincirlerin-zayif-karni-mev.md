@@ -4,6 +4,7 @@ title:  "Blokzincirlerin zayıf karnı MEV"
 date:   2022-12-05 17:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/orange-gf9bfbc754_800.jpg
 ---
 
 Bu yazımızda başta Ethereum olmak üzere hemen hemen tüm akıllı kontrat platformlarının zayıf karnı olarak adlandırılan MEV olayının üzerine gidiyoruz. 

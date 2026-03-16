@@ -4,6 +4,7 @@ title:  "Merkeziyetsiz portföy yönetimi Yearn Prokolü'ne devam"
 date:   2020-11-17 18:47:56 +0300
 categories: Genel
 tags: Yazılar DeFi
+image: /assets/alps-209710_800.jpg
 ---
 
 [Geçtiğimiz haftaki yazımızda](/genel/2020/11/10/Defida-merkeziyetsiz-yonetim-platform-yearn-finance.html) merkeziyetsiz portföy yönetim platformu Yearn'e göz atmış, platformun ana ürünleri olan [Earn](https://yearn.finance/earn), [yVaults](https://yearn.finance/vaults) ve [Cover](https://yinsure.finance/)'a bakmıştık.  

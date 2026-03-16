@@ -3,6 +3,7 @@ layout: post
 title:  "Bitcoin geniş kitlelere nasıl yayılır?"
 date:   2018-12-14 10:25:34 +0300
 categories: Genel
+image: /assets/some-food-for-thought-about-bitcoin-2.jpg
 ---
 
 Geçtiğimiz [yazımızda](/genel/2018/12/07/ne-olacak-su-bitcoinin-hali.html), Bitcoin'in ileride değerli olup olmayacağının iki ana belirleyicisi olacağını belirtmiştik: Birincisi hakikaten insanların işine yarayacak mı, ikincisi de geniş kesimler tarafından kullanılacak mı? Bu iki soruya ne kadar olumlu cevap verebiliyorsak Bitcoin'in değerinin de ileride o kadar artacağını düşünebiliriz. 

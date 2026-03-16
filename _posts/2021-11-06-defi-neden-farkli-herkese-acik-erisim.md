@@ -4,6 +4,7 @@ title:  "DeFi neden farklı? - Herkese Açık Erişim"
 date:   2021-11-06 08:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, DeFi'ye Giriş
+image: /assets/lock-g5750bbffd_800.jpg
 ---
 
 DeFi'nin klasik finansa göre farklılıklarından bahsettiğimiz dizimizin bu bölümünde finansal erişimden bahsedeceğiz 

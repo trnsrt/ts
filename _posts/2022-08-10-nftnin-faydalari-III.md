@@ -4,6 +4,7 @@ title:  "NFT'nin faydaları - 3"
 date:   2022-08-10 08:47:56 +0300
 categories: Genel
 tags: Yazılar, Web3, DeFi, DeFi'ye Giriş
+image: /assets/path-1468938_800.jpg
 ---
 
 NFT'nin bir esere nasıl değer katabileceğine değindiğimiz yazı dizimize kaldığımız yerden devam ediyoruz. 

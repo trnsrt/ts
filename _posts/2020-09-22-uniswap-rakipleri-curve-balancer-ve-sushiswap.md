@@ -4,6 +4,7 @@ title:  "Uniswap rakipleri: Curve, Balancer ve Sushiswap"
 date:   2020-09-22 18:47:56 +0300
 categories: Genel
 tags: Yazılar DeFi
+image: /assets/Four_DiFi_Dexes_v3_1200.png
 ---
 
 Hatırlarsanız [geçtiğimiz yazıda](/genel/2020/09/15/nedir-bu-uniswap.html) en büyük merkeziyetsiz borsa olan Uniswap'tan bahsetmiştik. Bu yazımızda ise DeFi dünyasındaki diğer merkeziyetsiz borsalara ve Uniswap'tan ne şekilde farklılaştıklarına bakalım. 

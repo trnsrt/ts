@@ -4,6 +4,7 @@ title:  "NFT'nin faydaları - 2 "
 date:   2022-06-25 08:47:56 +0300
 categories: Genel
 tags: Yazılar, Web3, DeFi, DeFi'ye Giriş
+image: /assets/mona-lisa-1357716_800.jpg
 ---
 
 NFT dünyasını incelediğimiz yazı dizimizin ikinci bölümünde NFT'nin bir sanat eserine nasıl değer kattığını incelemeye devam edeceğiz.

@@ -4,6 +4,7 @@ title:  "Geliştirici dünyasında son durum - 2023 baskısı"
 date:   2024-02-17 18:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/dev_rep_2023_p_012.jpg
 ---
 Bu yazımızda artık bir gelenek haline gelen, kripto dünyasının lokomotifi olan geliştiriciler tarafında yaşanan değişimlere göz atalım. 
 

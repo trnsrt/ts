@@ -4,6 +4,7 @@ title:  "İstanbul Üniversitesi - 16 Nisan 2018 Panel "
 date:   2018-04-16 13:37:15 +0300
 categories: Genel
 tags: videos Etkinlikler
+image: /assets/DSC_0207_v2.JPG
 ---
 
 

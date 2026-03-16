@@ -3,6 +3,7 @@ layout: post
 title:  "Borsalar kripto para dünyasına güveni nasıl artırabilir? - I"
 date:   2019-06-05 12:42:56 +0300
 categories: Genel
+image: /assets/safe.jpg
 ---
 
 Blockchain benzeri sistemlerin can suyu olan kripto paraların gelişmesi için öncelikle geniş kitleler tarafından kullanımlarının artması gerekiyor. Bu konuda geçmiş yazılarda bireysel ve kurumsal anlamda getirilmek istenen kimi girişimlerden ([Lightning Network](/genel/2018/12/20/bitcoin-uzerinde-isik-hiziyla-islem-Lightning-network.html), [Liquid](https://ademimerkezi.com/genel/2018/12/26/Bitcoin-gibi-ama-degil-Liquid.html), [Bakkt](https://ademimerkezi.com/genel/2019/01/04/kurumsal-yatirimci-bakkt-ile-kriptoparalara-girer-mi.html), [Fidelity Digital](https://ademimerkezi.com/genel/2019/03/14/kripto-kurumsal-yatirim-pazarinin-buyumesi-icin-bir-dev-daha-devrede-Fidelity-Digital.html)) bahsetmiştik. Şimdi de gelin kripto para borsaların bu alanda neler yapabileceğine bakalım. 

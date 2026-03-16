@@ -3,6 +3,7 @@ layout: post
 title:  "KriptoBorsalar'da nasıl işlem yaparım?"
 date:   2018-10-04 18:03:34 +0300
 categories: Genel
+image: /assets/exchange-money-600.jpg
 ---
 
 
