@@ -261,3 +261,15 @@ img + em {
     grid-template-columns: 1fr !important;
   }
 }
+
+/* === Fix featured post on mobile === */
+@media (max-width: 600px) {
+  .featured-post-link {
+    flex-direction: column !important;
+  }
+  .featured-post-image {
+    width: 100% !important;
+    flex: none !important;
+    height: 200px !important;
+  }
+}
