@@ -70,3 +70,30 @@ h1, h2, h3 {
   color: #555;
 }
 
+/* === Center the page content === */
+
+.page-content {
+  padding: 40px 0;
+}
+
+.page-content .wrapper {
+  max-width: 680px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+.site-header .wrapper {
+  max-width: 680px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+.site-footer .wrapper {
+  max-width: 680px;
+  margin-left: auto;
+  margin-right: auto;
+}
