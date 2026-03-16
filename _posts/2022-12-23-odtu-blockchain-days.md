@@ -4,6 +4,7 @@ title:  "ODTÜ Blockchain Days - Panel"
 date:   2022-12-23 23:42:15 +0300
 categories: Genel
 tags: videos Etkinlikler
+image: /assets/odtu-blockchain-days-poster_v2.jpg
 ---
 
 <img align="left" src="/assets/odtu-blockchain-days-poster_v2.jpg" style="width:40%; padding-right:20px"> [ODTÜ Blockchain](https://twitter.com/odtublockchain) tarafından 23-24 Aralık tarihlerinde düzenlenen '[Blockchain Days](https://www.blockchaindays.org/)'in ilk gününde "The Future of Financial Technologies - Finansal Teknolojilerin Geleceeği" konulu bir panelee Akbank'ta blockchain konulu insiyatiflerin liderlerinden sevgili [Selim Yüksel](https://twitter.com/selimyksl) ile birlikte konuk olduk. Organizasyonu düzenleyen ODTÜ Blockchain ve ilk gece beni ağırlayan sevgili Lytera ekibine teşekkürlerimi sunarım.. 
