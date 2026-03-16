@@ -4,6 +4,7 @@ title:  "DeFi'de yaşanan bir 'ava giden avlanır' hikayesi"
 date:   2023-03-07 18:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/heidelx-fishing-net-1583687_640.jpg
 ---
 
 
