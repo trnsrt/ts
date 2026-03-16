@@ -4,6 +4,7 @@ title:  "Devconnect İstanbul - ITU Blockchain notdevcon- Panel"
 date:   2023-11-14 23:37:15 +0300
 categories: Genel
 tags: videos Etkinlikler
+image: /assets/itu-notdevcon.jpg
 ---
 
 <img align="left" src="/assets/not-devcon-poster-3.jpg" style="width:40%; padding-right:20px">  Ethereum Foundation tarafından organize edilen ve Ethereum ekosisteminin en büyük etkinliği olan [Devconnect](https://devconnect.org/) bu yıl 13-19 Kasım tarihleri arasında İstanbul'da düzenlendi. Devconnect'te resmi olarak yer alan 50 etkinlikten biri olan ve [ITU Blockchain](https://www.itublockchain.com/) tarafından düzenlenen [notdevcon](https://www.itublockchain.com/)'nda sevgili [Baki Er](https://twitter.com/LibraryDefi)'in moderatörlüğünde [Doruk İşmen](https://twitter.com/dorukismen) ve [Kaan Uzdoğan](https://twitter.com/kaanuzdogan) ile birlikte Türk blokzincir ekosistemini konuştuk. Ülkemizin en büyük blokzincir topluluğu olan ITU Blockchain gerek yaptığı etkinlikler gerekse içinden çıkardığı girişimciler ile diğer üniversite kulüplerine örnek olmaya devam ediyor. Düzenleyici tüm ekibe sevgilerimle. 
