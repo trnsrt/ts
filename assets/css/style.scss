@@ -261,15 +261,3 @@ img + em {
     grid-template-columns: 1fr !important;
   }
 }
-```
-
-4. Click **"Commit changes"** then **"Commit changes"** again
-
-Then we need to add class names to the grid in `home.html` so these rules can target them. Go to **`_layouts/home.html`**, click edit, and find:
-```
-<div style="display:grid; grid-template-columns:1fr 1fr 1fr; gap:32px;">
-```
-
-Change it to:
-```
-<div class="post-grid" style="display:grid; grid-template-columns:1fr 1fr 1fr; gap:32px;">
