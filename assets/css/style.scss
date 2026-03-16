@@ -158,3 +158,21 @@ img + em {
   color: #999;
   margin-top: 8px;
 }
+
+/* === Fix header layout === */
+
+.site-header .wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.site-nav {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.site-nav .page-link {
+  margin-left: 0;
+}
