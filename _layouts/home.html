@@ -22,8 +22,8 @@ layout: default
 </div>
 
 <div style="max-width:1000px; margin:40px auto 0 auto; padding:0 24px;">
-<div class="post-grid" style="display:grid; grid-template-columns:minmax(0,1fr) minmax(0,1fr) minmax(0,1fr); gap:32px; width:100%; box-sizing:border-box;">
-    {% for post in site.posts %}
+<div class="post-grid" style="display:grid; grid-template-columns:repeat(3, minmax(0, 1fr)); gap:32px; width:100%; box-sizing:border-box;">
+  {% for post in site.posts %}
       {% unless forloop.first %}
       <div style="box-sizing:border-box; min-width:0;">
         <a href="{{ post.url | relative_url }}" style="text-decoration:none; color:inherit; display:block;">
