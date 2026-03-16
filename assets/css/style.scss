@@ -204,7 +204,7 @@ img + em {
 /* === Clean up post list === */
 
 /* Hide the Devamı read-more link */
-.post-list a[href]:not(.post-link) {
+.post-list a[href]:not(.post-link):not(.post-excerpt-link) {
   display: none;
 }
 
