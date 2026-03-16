@@ -3,13 +3,12 @@ layout: page
 title: en
 permalink: /english/
 ---
-Reflections on Web3 Technologies
 
 Explore a comprehensive collection of my articles and talks across various platforms, all available in one place. The majority of my writings are in Turkish, primarily due to the limited availability of comprehensive resources in this language.
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/turansert/) or follow me on [Twitter](https://twitter.com/turansert) to stay updated on my work.
 
-If you are curious about my story, here is the GRTIQ podcast episode on my and my latest book (recorded in Feb 2025)👇
+If you are curious about my story, here is the GRTIQ podcast episode on me and my latest book (recorded in Feb 2025)👇
 
 <img src="/assets/GRTiQ-Podcast__Turan-Sert_800.jpg">
 
