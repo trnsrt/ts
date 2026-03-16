@@ -4,6 +4,7 @@ title:  "DeFi neden önemli?"
 date:   2020-06-11 12:47:56 +0300
 categories: Genel
 tags: Yazılar DeFi
+image: /assets/stock_image_09.png
 ---
 
 

@@ -4,6 +4,7 @@ title:  "Başıma Gelenler - UST'nin Hikayesi"
 date:   2022-05-16 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
+image: /assets/stock_image_12.png
 ---
 
 Bu yazımızda geçtiğimiz hafta sonu yaşanan Terra ağı çıkışlı stabil para birimi UST'nin hikayesini anlatmaya çalışacağız. 

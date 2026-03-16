@@ -3,6 +3,7 @@ layout: post
 title:  "Bir Blockchain diğeri ile konuşur mu?"
 date:   2019-05-07 12:42:56 +0300
 categories: Genel
+image: /assets/stock_image_06.png
 ---
 
 

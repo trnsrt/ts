@@ -4,6 +4,7 @@ title:  "DeFi bir oyuncak mı?"
 date:   2020-09-03 18:47:56 +0300
 categories: Genel
 tags: Yazılar DeFi
+image: /assets/stock_image_10.png
 ---
 
 
