@@ -4,6 +4,7 @@ title:  "GRTIQ Podcast"
 date:   2025-02-14 09:17:56 +0300
 categories: Genel
 tags: Yazılar, Web3, AI
+image: /assets/GRTiQ-Podcast__Turan-Sert_800.jpg
 ---
 
 
