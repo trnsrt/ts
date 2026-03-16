@@ -231,3 +231,10 @@ img + em {
 .post-excerpt-link:hover {
   color: #111;
 }
+
+/* === Force equal grid columns === */
+.home {
+  max-width: 100% !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
