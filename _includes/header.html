@@ -1,23 +1,18 @@
 <header class="site-header" role="banner">
-  <div class="wrapper">
+  <div class="wrapper" style="display:flex; justify-content:space-between; align-items:center; max-width:680px; margin:0 auto; padding:16px 24px;">
 
-    <a class="site-title" href="{{ "/" | relative_url }}">
+    <a style="font-family:-apple-system,sans-serif; font-size:20px; font-weight:700; color:#111; text-decoration:none;" href="{{ "/" | relative_url }}">
       {{ site.title | escape }}
     </a>
 
-    <nav class="site-nav">
-      {% assign default_paths = site.pages | map: "path" %}
-      {% assign page_paths = site.header_pages | default: default_paths %}
-      {% if page_paths %}
-        {% for path in page_paths %}
-          {% assign my_page = site.pages | where: "path", path | first %}
-          {% if my_page.title %}
-            <a class="page-link" href="{{ my_page.url | relative_url }}">
-              {{ my_page.title | escape }}
-            </a>
-          {% endif %}
-        {% endfor %}
-      {% endif %}
+    <nav style="display:flex; gap:16px; flex-wrap:wrap;">
+      {% assign page_paths = site.header_pages %}
+      {% for path in page_paths %}
+        {% assign my_page = site.pages | where: "path", path | first %}
+        {% if my_page.title %}
+          <a style="font-family:-apple-system,sans-serif; font-size:14px; color:#555; text-decoration:none;" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+        {% endif %}
+      {% endfor %}
     </nav>
 
   </div>
