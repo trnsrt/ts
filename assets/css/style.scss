@@ -238,3 +238,38 @@ img + em {
   padding: 0 !important;
   margin: 0 !important;
 }
+
+/* === Responsive grid for smaller screens === */
+
+/* Medium screens — 2 columns */
+@media (max-width: 768px) {
+  .post-grid {
+    grid-template-columns: 1fr 1fr !important;
+  }
+  .featured-post {
+    flex-direction: column !important;
+  }
+  .featured-post .featured-image {
+    width: 100% !important;
+    flex: none !important;
+  }
+}
+
+/* Small screens — 1 column */
+@media (max-width: 480px) {
+  .post-grid {
+    grid-template-columns: 1fr !important;
+  }
+}
+```
+
+4. Click **"Commit changes"** then **"Commit changes"** again
+
+Then we need to add class names to the grid in `home.html` so these rules can target them. Go to **`_layouts/home.html`**, click edit, and find:
+```
+<div style="display:grid; grid-template-columns:1fr 1fr 1fr; gap:32px;">
+```
+
+Change it to:
+```
+<div class="post-grid" style="display:grid; grid-template-columns:1fr 1fr 1fr; gap:32px;">
