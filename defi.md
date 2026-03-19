@@ -16,6 +16,17 @@ Blockchain'in finans alanındaki uygulamalarına DeFi (decentralized finance - m
   - [DeFi yeni ICO çılgınlığı mı?](/genel/2020/07/23/DeFi-yeni-ICO-cilginligi-mi.html) *(23 Temmuz 2020)*
   - [CeFi'dan DeFi'ya... Merkeziyetsizleştiremediklerimizden misiniz?](/genel/2020/08/13/cefi-den-defiya-merkeziyetsizlestiremediklerimizden-misiniz.html) *(13 Ağustos 2020)*
   - [DeFi'de oyunun adı topluluk](/genel/2021/02/11/defide-oyunun-adi-topluluk.html) *(11 Şubat 2021)*
+  - FTX krizi sonrası DeFi ekosisteminin 2023 yılı beklentileri. [DeFi'de 2023 ve Ötesi](/genel/2023/01/06/defide-2023-ve-otesi.html) *(6 Ocak 2023)*
+  - Electric Capital 2022 geliştirici raporunun kısa özeti. [Web3 dünyasında büyümenin habercisi geliştiriciler - Kısa versiyon](/genel/2023/01/23/web3-gelistiriciler-kisa.html) *(23 Ocak 2023)*
+  - ABD düzenleyicilerinin 2023'te kriptoya yönelik sert aksiyonları. [ABD'nin Kriptoya Bakışı Değişiyor mu?](/genel/2023/02/22/abdnin-kriptoya-bakisi-degisiyor-mu.html) *(22 Şubat 2023)*
+  - SVB ve Silvergate krizinin finans dünyasına etkileri. [ABD'de banka krizi ve geleceğe etkisi](/genel/2023/03/14/abdde-banka-krizi-ve-gelecek.html) *(14 Mart 2023)*
+  - ABD bankacılık krizinin DeFi ekosistemine yansımaları. [Son bankacılık olayları DeFi'yi nasıl etkiledi?](/genel/2023/03/23/bankacilik-krizi-ve-defi.html) *(23 Mart 2023)*
+  - Electric Capital 2022 geliştirici raporunun kapsamlı analizi. [Web3 dünyasında büyümenin habercisi geliştiriciler - Uzun versiyon](/genel/2023/03/27/web3-gelistiriciler-uzun.html) *(27 Mart 2023)*
+  - Lemonade ile Web3'ün iklim sigortasında kullanım örneği. [Web3'ü insanlık için kullanmak](/genel/2023/03/31/web3u-insanlik-icin-kullanmak.html) *(31 Mart 2023)*
+  - PayPal'ın Ethereum üzerinde çıkardığı PYUSD stabil parası. [PayPal'ın son kripto hamlesi: PYUSD](/genel/2023/08/23/paypal-kripto-hamlesi-pyusd.html) *(23 Ağustos 2023)*
+  - Devconnect Kasım 2023'te İstanbul'da; Türkler için ETHGünü. [Kasım ayında Ethereum ekosisteminin kalbi İstanbul'da atacak](/genel/2023/10/16/kasim-ayinda-ekosistemin-kalbi-istanbulda-atacak.html) *(16 Ekim 2023)*
+  - Electric Capital 2023 geliştirici raporunun temel bulguları. [Geliştirici dünyasında son durum - 2023 baskısı](/genel/2024/02/17/gelistirici-dunyasinda-son-durum-2023.html) *(17 Şubat 2024)*
+  - BlackRock Ethereum üzerinde tokenleştirilmiş fon çıkardı. [BlackRock'ın kripto sevdası](/genel/2024/03/27/blackrock-sevdasi.html) *(27 Mart 2024)*
 - Farklı DeFi ürünlerinin nasıl çalıştığını görmek için
   - [MakerDAO kredi kullanımında çığır açar mı?](/genel/2019/02/15/MakerDAO-kredi-kullaniminda-cigir-acar-mi.html) *(15 Şubat 2019)*
   - [Merkeziyetsiz Finans ve MakerDAO — bir yılda neler değişti?](/genel/2020/03/17/Merkeziyetsiz-Finans-ve-Maker-DAO-Bir-yilda-neler-degisti.html) *(17 Mart 2020)*
@@ -38,6 +49,25 @@ Blockchain'in finans alanındaki uygulamalarına DeFi (decentralized finance - m
   - [DeFi'da opsiyon piyasaları](/genel/2021/01/05/defi-opsiyon-piyasalar%C4%B1.html) *(15 Ocak 2021)*
   - [DeFi opsiyon piyasalarının lideri Hegic](/genel/2021/01/26/defi-opsiyon-piyasalarinin-lideri-hegic.html) *(26 Ocak 2021)*
   - [DeFi dünyasının merkeziyetsiz analiz sağlayıcısı: The Graph Protokol](/genel/2021/03/19/defi-dunyasinin-merkeziyetsiz-analiz-saglayicisi-the-graph.html) *(19 Mart 2021)* ve devam [yazısı](/genel/2021/03/20/the-graph-sistemine-teknik-bir-bakis.html) *(20 Mart 2021)*
+  - Wormhole hack'inde çalınan para mahkeme kararıyla geri alındı. [DeFi'de yaşanan bir 'ava giden avlanır' hikayesi](/genel/2023/03/07/defide-ava-giden-avlandi-hikayesi.html) *(7 Mart 2023)*
+  - Shapella ile kilitli ETH'ler çekilebilir hale geldi. [ETH'nin çekim gücü](/genel/2023/04/10/ethnin-cekim-gucu.html) *(10 Nisan 2023)*
+  - Shapella sonrası LSD pazarının işleyişi ve önemi. [Ethereum'un dopingi LSD'ler](/genel/2023/04/18/ethereumun-dopingi-lsdler.html) *(18 Nisan 2023)*
+  - Euler Finance'e 200 milyon dolarlık hack ve mutlu son. [Mutlu son ile biten bir DeFi hack hikayesi: Euler Finance](/genel/2023/04/25/mutlu-son-ile-biten-defi-hikayesi-euler-finance.html) *(25 Nisan 2023)*
+  - LSD pazarında Lido ve rakiplerinin karşılaştırmalı analizi. [Ethereum staking oyuncularına bir bakış](/genel/2023/05/09/ethereum-staking-dunyasina-bir-bakis.html) *(9 Mayıs 2023)*
+  - VanEck'in nakit akımı yöntemiyle Ethereum değerleme çalışması. [Wall Street Ethereum'u nasıl değerler?](/genel/2023/05/22/wall-street-Ethereumu-nasil-degerler.html) *(22 Mayıs 2023)*
+  - Curve'e yapılan 73 milyon dolarlık hack'in ayrıntıları (1. bölüm). [Curve saldırısının DeFi'ye etkileri - 1](/genel/2023/09/06/curve-saldirisinin-defiye-etkisi.html) *(6 Eylül 2023)*
+  - Curve saldırısının DeFi'nin yapısal zafiyetlerini ortaya koyması (2. bölüm). [Curve saldırısının DeFi'ye etkileri - 2](/genel/2023/09/15/curve-saldirisi-defi-etkisi-II.html) *(15 Eylül 2023)*
+  - Vitalik'in gizlilik havuzları: mahremiyet ile uyumu bir arada. [Kriptonun gelişiminde önemli bir hamle: Gizlilik havuzları](/genel/2023/09/30/kripto-gelisiminde-önemli-bir-hamle-gizlilik-havuzlari.html) *(30 Eylül 2023)*
+  - Ethereum ekonomisi; aktörler, gelirler ve değer döngüsü. [Ethereum ekonomisi nasıl çalışıyor?](/genel/2023/11/30/ethereum-ekonomisi-nasil-calisiyor.html) *(30 Kasım 2023)*
+  - ETH yakma-basma mekanizması ve 'ultrasound money' söylemi. [Ethereum'un ultrasound parası ether](/genel/2023/12/16/ethereumun-ultrasound-parasi-ether.html) *(16 Aralık 2023)*
+  - 2023'te Bitcoin ve Solana öne, Ethereum neden geride? [Bitcoin, Solana ve Ethereum](/genel/2024/01/16/bitcoin-sol-ve-eth.html) *(16 Ocak 2024)*
+  - Monoblok ve modüler blokzincir mimarilerinin karşılaştırması (1. bölüm). [Modüler ve monoblok zinciler - 1](/genel/2024/03/06/moduler-vs-monoblok-1.html) *(6 Mart 2024)*
+  - Ethereum L2 rollupları ve monoblok alternatiflere karşı avantajları (2. bölüm). [Modüler ve monoblok zinciler - II: İkinci seviye çözümler](/genel/2024/03/20/moduler-vs-monoblok-II.html) *(20 Mart 2024)*
+  - Bitcoin'in dördüncü yarılanması ve Runes token standardı. [Bitcoin yarılandı, sırada ne var? Runes Protocol](/genel/2024/04/22/bitcoin-yarilandi-sirada-ne-var-runes.html) *(22 Nisan 2024)*
+  - ETH teminatlı delta-nötr stabil para Ethena ve USDe. [Stabil paralar içinde yeni bir oyuncu (mu?): Ethena](/genel/2024/05/21/stabil-paralar-icinde-yeni-bir-oyuncu-ethena.html) *(21 Mayıs 2024)*
+  - Ethena'nın yüksek getirilerinin ardındaki riskler ve güvenceler. [Ethena: Riskleri ve potansiyeli](/genel/2024/05/30/ethena-riskleri-ve-potansiyeli.html) *(30 Mayıs 2024)*
+  - Bitcoin'i ölçeklendirmek isteyenler ve taleplerin ardındaki aktörler (1. bölüm). [Bitcoin üzerine ikinci seviye çözümler - I](/genel/2024/06/24/bitcoin-uzerine-cozumler-1.html) *(24 Haziran 2024)*
+  - Bitcoin L2 tarihçesi; Lightning'den güncel çözümlere (2. bölüm). [Bitcoin üzerine ikinci seviye çözümler - II](/genel/2024/07/05/bitcoin-uzerine-cozumler-II.html) *(5 Temmuz 2024)*
 - DeFi dünyasına adım atmak istiyorsanız
   - [Dei dünyasına girmek için ilk atılacak adımlar neler?](/genel/2021/01/12/defi-dunyasina-girmek-icin-ilk-atilacak-adimlar-neler.html) *(12 Ocak 2021)*
   - [Elektronik cüzdan ile DeFi'ye adım atmak](/genel/2021/01/30/elektronik-cuzdan-ile-DeFiye-adim-atmak.html) *(30 Ocak 2021)*
