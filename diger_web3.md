@@ -33,7 +33,8 @@ Bu alanların her biri ile ilgili yazılara yukarıdaki linklerden ulaşabilirsi
 
 - NFT pazar yerleri
   -  OpensSea [NFT pazarının en büyük oyuncusu olan OpenSea](/genel/2022/01/21/open-sea-acik-denizlere-yol-almak.html) *(21 Ocak 2022)*
-  -  OpenSea tarafından kurulan Seaport protokolü - [Açık denizlere açılan bir liman - Seaport](/genel/2022/06/30/acik-denizlere-acilan-liman-seaport.html) *(30 Haziran 2022)* 
+  -  OpenSea tarafından kurulan Seaport protokolü - [Açık denizlere açılan bir liman - Seaport](/genel/2022/06/30/acik-denizlere-acilan-liman-seaport.html) *(30 Haziran 2022)*
+  - NFT pazar yeri rekabetinde telif hakları savaşları. [NFT telif hakkı savaşları](/genel/2023/02/28/nft-telif-haklari.html) *(28 Şubat 2023)*
 
 - NFT koleksiyonları
   - Bored Ape Yacht Club (BAYC) - [Maymunların Web3'ü istilası](/genel/2022/03/30/maymunlar-istilasi.html) *(30 Mart 2022)*
@@ -42,6 +43,7 @@ Bu alanların her biri ile ilgili yazılara yukarıdaki linklerden ulaşabilirsi
 
 - Sosyal Medya
   - Lens Protocol [Lens - Web3 ile gelen yeni sosyal medya](/genel/2022/03/18/lens-web3-ile-gelen-yeni-sosyal-medya.html) *(18 Mart 2022)*
+  - Farcaster ve Lens; merkezi sosyal medyaya merkeziyetsiz alternatifler. [Merkeziyetsiz sosyal medya](/genel/2024/08/30/merkeziyetsiz-sosyal-medya.html) *(30 Ağustos 2024)*
 
 - Dijital Kimlik
   - Değiştirilemez token (Soulbound Token) [Token, NFT derken şimde de SBT](/genel/2022/06/02/token-nft-derken-simdi-de-huzurlarinizda-sbt.html) *(2 Haziran 2022)*
@@ -52,4 +54,11 @@ Bu alanların her biri ile ilgili yazılara yukarıdaki linklerden ulaşabilirsi
 - Diğer alanlar
   - Merkeziyetsiz bilgi sağlayıcı [Doğru bilgiye ulaşmada Wikipedia'ya Web3'den bir rakip: Golden Protocol](/genel/2022/10/07/wikipediaya-rakip-golden-protocol.html) *(7 Ekim 2022)*
   - Merkeziyetsiz tedavi geliştirme [Vibe sağlıklı bir Web3 örneği olabilir mi?](/genel/2023/01/17/Web3-uygulama-alanlari-saglik.html) *(17 Ocak 2023)*
+  - DePIN hareketi; merkezi altyapıyı merkeziyetsizleştirmenin altı alanı. [Merkeziyetsiz fiziksel altyapılar - DePIN](/genel/2024/07/25/Depin.html) *(25 Temmuz 2024)*
+  - ReFi; kâr yerine çevre ve toplum odaklı finans. [Onarıcı Finans (Regenerative Finance - ReFi)](/genel/2024/10/04/onarici-finans.html) *(4 Ekim 2024)*
+  - Yapay zeka ve Web3'ün kesişimi; birbirini güçlendiren iki teknoloji. [Web3 ve Yapay Zeka - I](/genel/2024/11/01/Web3_ve_yapay_zeka-1.html) *(1 Kasım 2024)*
+  - The Graph'ın GRTIQ Podcast'inde Türk ekosistemi üzerine söyleşi. [GRTIQ Podcast](/genel/2025/02/14/grtiq-podcast.html) *(14 Şubat 2025)*
+  - 'Sorularla Web3' kitabı yayımlandı. [Yeni Kitap! 'Sorularla Web3'](/genel/2025/02/14/yeni-kitap-sorularla-web3.html) *(14 Şubat 2025)*
+  - Uzun aranın ardından yeni Web3-AI yazı serisi duyurusu. [Yeniden Başlarken](/genel/2025/02/25/yeniden.html) *(25 Şubat 2025)*
+  - Bittensor; merkeziyetsiz yapay zeka modelleri için pazar yeri. [Merkeziyetsiz Yapay Zeka'nın pazaryeri: Bittensor](/genel/2025/03/13/bittensor.html) *(13 Mart 2025)*
 
