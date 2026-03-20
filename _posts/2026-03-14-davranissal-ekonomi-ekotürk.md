@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Davranışsal Ekonomi - Ekotürk TV"
-date: 2026-03-20
+date: 2026-03-14
 categories: Genel
 tags: videos Etkinlikler
 image: /assets/Davranissal_ekonomi_logo.png
