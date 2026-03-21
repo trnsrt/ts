@@ -1,30 +1,18 @@
 ---
 layout: default
 ---
+<div style="max-width:680px; margin:0 auto; padding:48px 24px;">
 
-<div class="post">
- <h1>{{ page.tag }}</h1>
- 
-  <h2 class="page-heading"></h1>
+  <header style="margin-bottom:32px; border-bottom:1px solid #e8e8e8; padding-bottom:24px;">
+    <h1 style="font-family:-apple-system,sans-serif; font-size:36px; font-weight:700; color:#111; margin:0;">{{ page.tag }}</h1>
+  </header>
 
-
-
-  <ul class="post-list">
-   {% for post in site.tags[page.tag] %}
-      <li>
-        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
-        
-        <p>{{ post.excerpt }} <a href="{{ post.url | relative_url }}">{{ "Devamı" }}</a> </p>
-        
-        &nbsp;
-        
-        
-        
+  <ul style="list-style:none; margin:0; padding:0;">
+    {% for post in site.tags[page.tag] %}
+      <li style="border-bottom:1px solid #e8e8e8; padding:24px 0;">
+        <span style="font-size:14px; color:#999; font-family:-apple-system,sans-serif; display:block; margin-bottom:6px;">{{ post.date | date: "%b %d, %Y" }}</span>
+        <a style="font-size:20px; font-family:-apple-system,sans-serif; font-weight:700; color:#111; text-decoration:none; display:block; margin-bottom:8px;" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        <a class="post-excerpt-link" href="{{ post.url | relative_url }}">{{ post.excerpt | strip_html | truncate: 120 }}</a>
       </li>
     {% endfor %}
   </ul>
