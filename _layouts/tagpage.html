@@ -1,20 +1,27 @@
 ---
 layout: default
 ---
-<div style="max-width:680px; margin:0 auto; padding:48px 24px;">
+<div style="max-width:1000px; margin:0 auto; padding:48px 24px;">
 
-  <header style="margin-bottom:32px; border-bottom:1px solid #e8e8e8; padding-bottom:24px;">
+  <header style="margin-bottom:40px; border-bottom:1px solid #e8e8e8; padding-bottom:24px;">
     <h1 style="font-family:-apple-system,sans-serif; font-size:36px; font-weight:700; color:#111; margin:0;">{{ page.tag }}</h1>
   </header>
 
-  <ul style="list-style:none; margin:0; padding:0;">
+  <div class="post-grid" style="display:grid; grid-template-columns:repeat(3, minmax(0,1fr)); gap:32px; width:100%; box-sizing:border-box;">
     {% for post in site.tags[page.tag] %}
-      <li style="border-bottom:1px solid #e8e8e8; padding:24px 0;">
-        <span style="font-size:14px; color:#999; font-family:-apple-system,sans-serif; display:block; margin-bottom:6px;">{{ post.date | date: "%b %d, %Y" }}</span>
-        <a style="font-size:20px; font-family:-apple-system,sans-serif; font-weight:700; color:#111; text-decoration:none; display:block; margin-bottom:8px;" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        <a class="post-excerpt-link" href="{{ post.url | relative_url }}">{{ post.excerpt | strip_html | truncate: 120 }}</a>
-      </li>
+      <div style="box-sizing:border-box; min-width:0;">
+        <a href="{{ post.url | relative_url }}" style="text-decoration:none; color:inherit; display:block;">
+          <div style="width:100%; height:160px; overflow:hidden; border-radius:4px; margin-bottom:12px; background:#f0f0f0;">
+            {% if post.image %}
+            <img src="{{ post.image }}" style="width:100%; height:100%; object-fit:cover;">
+            {% endif %}
+          </div>
+          <p style="font-size:12px; color:#999; font-family:-apple-system,sans-serif; margin:0 0 6px 0;">{{ post.date | date: "%b %d, %Y" }}</p>
+          <h3 style="font-family:-apple-system,sans-serif; font-size:16px; font-weight:700; color:#111; margin:0 0 8px 0; line-height:1.4;">{{ post.title | escape }}</h3>
+          <p style="font-size:13px; color:#555; line-height:1.5; margin:0;">{{ post.excerpt | strip_html | truncate: 80 }}</p>
+        </a>
+      </div>
     {% endfor %}
-  </ul>
+  </div>
 
 </div>
