@@ -4,7 +4,10 @@ title: Web3 Unlocked
 permalink: /Web3_Unlocked/
 ---
 
-Thank you for reading *Web3 Unlocked*. For your convenience, all links referenced in the book are collected below. Enjoy!
+<a href="https://books.google.com.tr/books?id=ZA7KEQAAQBAJ&printsec=frontcover&hl=tr" target="_blank"><img src="/assets/web3_front_cover.jpg" alt="Web3 Unlocked cover" width="220" style="display:block; margin: 0 auto 1.5rem auto;"></a>
+
+Thank you for reading *Web3 Unlocked*. For your convenience, all links referenced in the book are collected below. If you would like to read it on Google Books, you can find it [here](https://books.google.com.tr/books?id=ZA7KEQAAQBAJ&printsec=frontcover&hl=tr). Enjoy!
+
 
 <br>
 <b>Page 21:</b>
