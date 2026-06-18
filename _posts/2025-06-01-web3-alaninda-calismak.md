@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Web3 Alanında Çalışmak"
-date: 2026-06-01
+date: 2025-06-01
 categories: Genel
 tags: Etkinlikler
 image: /assets/You_tube_logo.png
