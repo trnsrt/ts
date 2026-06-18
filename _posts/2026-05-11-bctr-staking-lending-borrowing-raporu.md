@@ -16,8 +16,8 @@ image: /assets/bctr_logo.png
 <img src="/assets/bctr_staking_lending_borrowing_grup.jpg">
 </td></tr>
 <tr><td style="width:50%; vertical-align:top">
-<p>Etkinlik posteri.</p></td>
+<p>Etkinlik posteri</p></td>
 <td style="width:50%; vertical-align:top">
-<p>Etkinlikten bir görüntü.</p>
+<p>Etkinlikten bir görüntü</p>
 </td></tr>
 </table>
