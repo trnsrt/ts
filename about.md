@@ -44,7 +44,7 @@ Daha detaylı hayat hikayemi duymak isterseniz aşağıda bir kopyası olan Coin
 ## Turan Sert Kimdir?
 
 
-<img align="left" src="/assets/TS_1_800.jpg" style="width:40%; padding-right:20px">  
+<img align="left" src="/assets/TS_profile_pic_2606_reduced.jpg" style="width:40%; padding-right:20px">  
 
 Son yıllarda blok zincir teknolojisi alanında yazdığı yazılar ile tanınan Turan Sert, Hendek, Sakarya’da doğdu. Ankara Atatürk Anadolu Lisesi ve Boğaziçi Üniversitesi İktisadi ve İdari Bilimler Fakültesi İşletme Bölümünü bitirdi. Turan Sert’in ilk yılları, iş hayatındaki ilk dönemi, farklı denemeleri ve ülkeye dönüş serüvenini bu yazımızda bulabilirsiniz. İyi okumalar!
 
