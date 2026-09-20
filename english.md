@@ -8,7 +8,11 @@ Explore a comprehensive collection of my articles and talks across various platf
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/turansert/) or follow me on [Twitter](https://twitter.com/turansert) to stay updated on my work.
 
-If you are curious about my story, here is the GRTIQ podcast episode on me and my latest book (recorded in Feb 2025)👇
+My fourth book, *[Web3 Unlocked](/Web3_Unlocked/)*, is the English translation of *Sorularla Web3*. It offers a friendly guide to the next era of the internet, making the world of Web3 accessible to English-speaking readers. You can find it on [Google Books](https://books.google.com.tr/books?id=ZA7KEQAAQBAJ&printsec=frontcover&hl=en).
+
+<a href="https://books.google.com.tr/books?id=ZA7KEQAAQBAJ&amp;printsec=frontcover&amp;hl=en"><img src="/assets/Web3_Unlocked_kapak.jpg" alt="Web3 Unlocked by Turan Sert — English translation of Sorularla Web3" width="220" style="display:block; max-width:100%; height:auto; margin:0 auto 1.5rem auto;"></a>
+
+If you are curious about my story, here is the GRTIQ podcast episode about me and *Sorularla Web3* (recorded in February 2025)👇
 
 <img src="/assets/GRTiQ-Podcast__Turan-Sert_800.jpg">
 
