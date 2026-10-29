@@ -7,7 +7,7 @@ tags: Yazılar, DeFi, CoindeskTR
 image: /assets/pendant-941232_800.jpg
 ---
 
-Bugünkü konumuz, bu yıl Ocak ayında Ethereum kurucularından Vitalik Buterin tarafından [ortaya atılan](https://vitalik.ca/general/2022/01/26/soulbound.html) ve geçtiğimiz günlerde içinde Vitalik'in de yer aldığı bir ekip tarafından üzerine bir [araştırma yayınlanan](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763) Soulbound token olacak. 
+Bugünkü konumuz, bu yıl Ocak ayında Ethereum kurucularından Vitalik Buterin tarafından [ortaya atılan](https://vitalik.eth.limo/general/2022/01/26/soulbound.html) ve geçtiğimiz günlerde içinde Vitalik'in de yer aldığı bir ekip tarafından üzerine bir [araştırma yayınlanan](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763) Soulbound token olacak. 
 
 Soulbound token ('SBT') tıpatıp çeviride 'ruhen bağlı', daha anlaşılır bir ifadeyle transfer edilemez, devredilemez ya da kişiye 'özden bağlı' anlamında kullanılan yeni nesil bir token standardı. Ne olduğuna ve nasıl çalıştığına girmeden önce dilerseniz öncelikle aşina olduğumuz iki token çeşidini tekrar hatırlayalım.
 

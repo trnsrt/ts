@@ -39,7 +39,7 @@ Gösterdiğiniz ilgiye teşekkürler!
 | 62 | ["CoinGecko"](https://www.coingecko.com/en/coins/ethereum/historical_data?start=2022-12-31&end=2024-01-05,#panel) |
 | 66 | ["Florin Digital"](https://florindigital.substack.com/p/verifiable-off-chain-compute-enabling) |
 | 68 | ["@sankin"](https://dune.com/queries/3275250/5482283) |
-| 77 | ["Clave"](https://www.getclave.io/) |
+| 77 | ["Clave"](https://getclave.io/) |
 | 79 | ["X"](https://x.com/hmalviya9/status/1787714421084520862) |
 | 79 | ["GrowThePie"](https://www.growthepie.xyz/fundamentals/transaction-count) |
 | 81 | ["GrowthThePie"](https://www.growthepie.xyz/fundamentals/total-value-locked) |
@@ -238,7 +238,7 @@ Gösterdiğiniz ilgiye teşekkürler!
 | 228 | ["Robonet"](https://robonet.finance/) |
 | 229 | ["Botto"](https://www.botto.com/) |
 | 229 | ["ChainGPT"](https://www.chaingpt.org/) |
-| 229 | ["Guardrail"](https://www.getguardrail.xyz/) |
+| 229 | ["Guardrail"](https://www.guardrail.ai/) |
 | 229 | ["Chaos Labs,"](https://chaoslabs.xyz/) |
 | 229 | ["Gauntlet"](https://www.gauntlet.xyz/) |
 | 229 | ["Minerva"](https://www.gominerva.com/) |
@@ -305,7 +305,7 @@ Gösterdiğiniz ilgiye teşekkürler!
 | 245 | ["Redstone"](https://redstone.finance/) |
 | 245 | ["Pyth Network"](https://www.pyth.network/) |
 | 245 | ["kullanmakta"](https://ethena-labs.gitbook.io/ethena-labs/solution-design/use-of-oracles) |
-| 247 | ["%20 oranında bir faiz uyguluyor"](https://app.morpho.org/market?id=0xc581c5f70bd1afa283eed57d1418c6432cbff1d862f94eaf58fdd4e46afbb67f) |
+| 247 | ["%20 oranında bir faiz uyguluyor"](https://app.morpho.org/ethereum/market/0xc581c5f70bd1afa283eed57d1418c6432cbff1d862f94eaf58fdd4e46afbb67f) |
 | 252 | ["Delphi Digital"](https://delphidigital.io) |
 | 252 | ["öz eleştiride"](https://members.delphidigital.io/reports/learnings-from-last-week/) |
 | 254 | ["aptallıkla suçlayacak"](https://twitter.com/stablekwon/status/1464897977793728514?s=20&t=jbrCdOsCTMywLNKXSYk-vA) |
@@ -383,7 +383,7 @@ Gösterdiğiniz ilgiye teşekkürler!
 | 315 | ["giriyorsunuz"](https://crystalintelligence.com/crypto-regulations/nfts-and-mica-what-you-need-to-know/) |
 | 315 | ["geçiş süreci söz konusu"](https://technologyquotient.freshfields.com/post/102jake/grandfathering-under-mica-how-member-states-approach-the-transitional-regime) |
 | 315 | ["yürürlüğe giren"](https://www.aa.com.tr/tr/ekonomi/kripto-varliklara-iliskin-yasa-resmi-gazetede-yayimlandi-/3263941) |
-| 317 | ["kullanmıştı"](https://www.cnbc.com/2017/10/13/BlackRock-ceo-larry-fink-calls-bitcoin-an-index-of-money-laundering.html) |
+| 317 | ["kullanmıştı"](https://www.cnbc.com/id/104771986?view=story) |
 | 318 | ["açıkladı"](https://www.coindesk.com/business/2022/08/04/BlackRock-to-offer-crypto-for-institutional-investors-through-coinbase-prime/) |
 | 318 | ["haberi ile geldi"](https://www.investopedia.com/BlackRock-files-for-a-spot-bitcoin-etf-7547609) |
 | 318 | ["yaptı"](https://www.coindesk.com/business/2023/10/17/BlackRock-ceo-larry-fink-seeing-client-demand-for-crypto-around-the-world/) |

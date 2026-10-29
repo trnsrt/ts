@@ -26,7 +26,7 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 
 [google.com](http://google.com)  
 
-[a researcher at CERN](https://www.home.cern/science/computing/birth-web)  
+[a researcher at CERN](https://home.cern/science/computing/the-birth-of-the-web)  
 
 [building the fundamental rails](https://www.ebsco.com/research-starters/computer-science/web-10)  
 
@@ -65,7 +65,7 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 
 [they were listening to our private conversations](https://www.wired.com/story/facebooks-listening-smartphone-microphone/)  
 
-[Cambridge Analytica scandal](https://en.wikipedia.org/wiki/Facebook%25E2%2580%2593Cambridge_Analytica_data_scandal)  
+[Cambridge Analytica scandal](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal)  
 
 <br>
 <b>Page 29:</b>
@@ -176,7 +176,7 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 
 [EigenCloud](https://www.eigencloud.xyz/)  
 
-[marketplace](https://cointelegraph.com/explained/what-is-eigenlayer-ethereums-restaking-protocol-explained)  
+[marketplace](https://tr.tradingview.com/news/cointelegraph:2858f018f094b:0-what-is-eigenlayer-ethereum-s-restaking-protocol-explained)  
 
 <br>
 <b>Page 52:</b>
@@ -578,7 +578,7 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 
 [slow and expensive](https://www.netsuite.com/portal/resource/articles/inventory-management/international-logistics.shtml)  
 
-[borrow against their NFTs](https://cointelegraph.com/explained/what-is-nft-lending-and-how-does-it-work)  
+[borrow against their NFTs](https://tr.tradingview.com/news/cointelegraph%3A9d4ae997e094b%3A0-what-is-nft-lending-and-how-does-it-work)  
 
 [code a royalty](https://pontem.network/posts/nft-royalties-and-how-they-work)  
 
@@ -705,7 +705,7 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 <br>
 <b>Page 161:</b>
 
-[Facebook-Cambridge Analytica](https://en.wikipedia.org/wiki/Facebook%25E2%2580%2593Cambridge_Analytica_data_scandal)  
+[Facebook-Cambridge Analytica](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal)  
 
 <br>
 <b>Page 163:</b>
@@ -723,7 +723,7 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 <br>
 <b>Page 164:</b>
 
-[Cambridge Analytica](https://en.wikipedia.org/wiki/Facebook%25E2%2580%2593Cambridge_Analytica_data_scandal)  
+[Cambridge Analytica](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal)  
 
 <br>
 <b>Page 166:</b>
@@ -1254,7 +1254,7 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 
 [Larry Fink](https://trustwallet.com/blog/cryptocurrency/who-is-larry-fink-black-rock)  
 
-[dismissed](https://www.cnbc.com/2017/10/13/BlackRock-ceo-larry-fink-calls-bitcoin-an-index-of-money-laundering.html)  
+[dismissed](https://www.cnbc.com/id/104771986?view=story)  
 
 [announced](https://www.coindesk.com/business/2022/08/04/BlackRock-to-offer-crypto-for-institutional-investors-through-coinbase-prime/)  
 
@@ -1280,7 +1280,7 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 
 [the fund invests in low-risk assets](https://zerocap.com/insights/snippets/what-is-buidl-blackrock/)  
 
-[paid out directly](https://cointelegraph.com/explained/blackrocks-buidl-fund-explained-why-it-matters-for-crypto-and-tradfi)  
+[paid out directly](https://tr.tradingview.com/news/cointelegraph:1855fa700094b:0-blackrock-s-buidl-fund-explained-why-it-matters-for-crypto-and-tradfi)  
 
 [Anchorage](https://www.anchorage.com/)  
 
