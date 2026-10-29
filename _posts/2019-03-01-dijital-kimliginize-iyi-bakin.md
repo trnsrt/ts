@@ -58,7 +58,7 @@ Merkezi bir otorite tarafından onaylanmadan, bilgilerimi kimse ile paylaşmadan
 
 #### Finans dünyasında dijital kimlik ve kredibilitenin önemi
 
-Önceki [yazımızda](https://ademimerkezi.com/genel/2019/02/14/Blockchain-finans-dunyasini-nasil-etkileyecek.html) bahsettiğimiz Decentralized Finance (DeFi) hareketi ile hararetlenen Dijital Kimlik konusu önümüzdeki günlerin en önemli tartışma alanlarından biri olacak belli ki. Neden? 
+Önceki [yazımızda](/genel/2019/02/14/Blockchain-finans-dunyasini-nasil-etkileyecek.html) bahsettiğimiz Decentralized Finance (DeFi) hareketi ile hararetlenen Dijital Kimlik konusu önümüzdeki günlerin en önemli tartışma alanlarından biri olacak belli ki. Neden? 
 
 DeFi platformlarının önde gelenlerinden MakerDAO, dijital dünyada merkezi bir otoriteye bağlı olmaksızın size kredi sağlıyor. Ancak kredi alan kişinin dijital kredibilitesinin olmaması nedeniyle kredi skorlaması yapılamıyor. Kredi skorlaması olmamasının en büyük handikapı, riskleri kişi bazında ayrıştıramamanız, herkesi aynı kategoride yani yüksek risk olarak algılamanız. Bu nedenle, MakerDAO platformundan alacağınız herhangi bir krediyi %150 oranında teminatlandırmak zorundasınız. Eğer dijital bir kimlik yaratabilseniz (bilgilerinizi kimse ile paylaşmadan ama doğru olduklarını bir şekilde teyid ettirerek) o zaman, daha düşük bir risk grubundan daha az teminat ile borçlanma yapabilme imkanına kavuşabilirsiniz. 
 
