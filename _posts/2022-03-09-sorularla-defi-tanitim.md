@@ -7,7 +7,7 @@ tags: videos Etkinlikler
 image: /assets/Sorularla_DeFi_kapak_kesit.jpg
 ---
 
-<img align="left" src="/assets/Sorularla_DeFi_kapak_kesit.jpg" style="width:40%; padding-right:20px"> Ocak 2022 yılında piyasa çıkan ikinci kitabım 'Sorularla DeFi Merkeziyetsiz Finans' için kitabın sponsoru tarafından bir etkinlik düzenlendi. Ortaköy Feriye Kült'de yapılan etkinlikte, sektörün ileri gelenleri bir araya geldi. Aşağıda, BTCHaber'in konu ile ilgili gerçekleştirdiği ufak bir söyleşiyi de bulabilirsiniz.   
+<img alt="Sorularla #DeFi kitabının kapağı" align="left" src="/assets/Sorularla_DeFi_kapak_kesit.jpg" style="width:40%; padding-right:20px"> Ocak 2022 yılında piyasa çıkan ikinci kitabım 'Sorularla DeFi Merkeziyetsiz Finans' için kitabın sponsoru tarafından bir etkinlik düzenlendi. Ortaköy Feriye Kült'de yapılan etkinlikte, sektörün ileri gelenleri bir araya geldi. Aşağıda, BTCHaber'in konu ile ilgili gerçekleştirdiği ufak bir söyleşiyi de bulabilirsiniz.   
 &nbsp;
 
 <table><tr>
@@ -15,7 +15,7 @@ image: /assets/Sorularla_DeFi_kapak_kesit.jpg
 <iframe loading="lazy" title="Sorularla #DeFi (MERKEZİYET.SİZ FİNANS) Kitabının Buluşması | Turan Sert" width="224" height="126" src="https://www.youtube-nocookie.com/embed/vIn76AKiuz8" frameborder="0" allowfullscreen></iframe></td>
 </td>
 <td style="width:50%">
-<img src="/assets/Sorularla_DeFi_tanitim_photo_001.jpg"></tr>
+<img alt="Kitap buluşmasında mikrofonla konuşan Turan Sert" src="/assets/Sorularla_DeFi_tanitim_photo_001.jpg"></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 BTCHaber tarafından yapılan beş dakikalık video  
@@ -31,16 +31,16 @@ BTCHaber tarafından yapılan beş dakikalık video
 <table>
 <tr>
 <td style>
-<img src="/assets/Sorularla_DeFi_tanitim_photo_002.jpg">
+<img alt="Sorularla kitabını imzalayan el" src="/assets/Sorularla_DeFi_tanitim_photo_002.jpg">
 </td>
-<td style><img src="/assets/Sorularla_DeFi_tanitim_photo_01.jpg">
+<td style><img alt="Etkinlikte iki konukla sohbet eden Turan Sert" src="/assets/Sorularla_DeFi_tanitim_photo_01.jpg">
 </td>
 </tr>
 <tr>
 <td style>
-<img src="/assets/Sorularla_DeFi_tanitim_photo_03.jpg">
+<img alt="Etkinlikte konuşurken jest yapan Turan Sert" src="/assets/Sorularla_DeFi_tanitim_photo_03.jpg">
 </td>
-<td style><img src="/assets/Sorularla_DeFi_tanitim_photo_11.jpg">
+<td style><img alt="Etkinlik salonunda ayakta sohbet eden konuklar" src="/assets/Sorularla_DeFi_tanitim_photo_11.jpg">
 </td>
 </tr>
 </table>

@@ -7,11 +7,11 @@ tags: videos Etkinlikler
 image: /assets/yekta_kopan_poster_800.jpg
 ---
 
-<img align="left" src="/assets/yekta_kopan_poster_800.jpg" style="width:40%; padding-right:20px"> [Paribu](https://twitter.com/ParibuCom)'nun sunduğu 'Yekta Kopan ile Yarının Dünyası'nda [Yekta Kopan](https://twitter.com/yektakopan) sordu, sevgili [Emre Alkin](https://twitter.com/emrealkin1969) hocam ile bendeniz cevaplamaya çalıştık.. Bu eğlenceli ve sıcak sohbete göz atmak isterseniz, linke buyurun: 
+<img alt="Yekta Kopan ile Yarının Dünyası kapağı, Emre Alkin ve Turan Sert" align="left" src="/assets/yekta_kopan_poster_800.jpg" style="width:40%; padding-right:20px"> [Paribu](https://twitter.com/ParibuCom)'nun sunduğu 'Yekta Kopan ile Yarının Dünyası'nda [Yekta Kopan](https://twitter.com/yektakopan) sordu, sevgili [Emre Alkin](https://twitter.com/emrealkin1969) hocam ile bendeniz cevaplamaya çalıştık.. Bu eğlenceli ve sıcak sohbete göz atmak isterseniz, linke buyurun: 
 &nbsp;
 
 <table><tr><td style="width:50%">
-<img src="/assets/Yekta_kopan_yayin_800.png">
+<img alt="Yarının Dünyası yayınından bir kare, iki kişi sohbet ederken" src="/assets/Yekta_kopan_yayin_800.png">
 </td>
 <td style="width:50%">
 <iframe loading="lazy" title="Yekta Kopan ile Yarının Dünyası: Emre Alkin ve Turan Sert" width="224" height="126" src="https://www.youtube-nocookie.com/embed/9aYCmifx1oU" frameborder="0" allowfullscreen></iframe></td></tr>

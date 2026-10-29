@@ -7,12 +7,12 @@ tags: videos Etkinlikler
 image: /assets/ben_webinar_200530.jpg
 ---
 
-<img align="left" src="/assets/ben_webinar_200530.jpg" style="width:40%; padding-right:20px"> [Blockchain Education Network](https://twitter.com/BlockchainEduTR/), çeşitli üniversitelerin Blockchain kulüplerinin kurduğu bir ağ. Daha önce Habitat derneği toplantısında tanıştığım gençler kendi ağları için de bir webinar yapmak istediler. Yayını organize eden [Aybars Dorman](https://twitter.com/blockhoood) ve moderatör Furkan Duran başta olmak üzere tüm katılımcılara teşekkürler..
+<img alt="Blockchain Education Network webinar afişi, 30 Mayıs 2020" align="left" src="/assets/ben_webinar_200530.jpg" style="width:40%; padding-right:20px"> [Blockchain Education Network](https://twitter.com/BlockchainEduTR/), çeşitli üniversitelerin Blockchain kulüplerinin kurduğu bir ağ. Daha önce Habitat derneği toplantısında tanıştığım gençler kendi ağları için de bir webinar yapmak istediler. Yayını organize eden [Aybars Dorman](https://twitter.com/blockhoood) ve moderatör Furkan Duran başta olmak üzere tüm katılımcılara teşekkürler..
 
 &nbsp;
 
 <table><tr><td style="width:50%">
-<img src="/assets/ben_webinar_screenshot_640.png">
+<img alt="BEN webinarına katılanların Zoom ekran görüntüsü" src="/assets/ben_webinar_screenshot_640.png">
 </td>
 <td style="width:50%">
 <iframe loading="lazy" title="BEN - Blockchain Education Network - 30 Mayıs 2020 Canlı Yayın - video" width="224" height="126" src="https://www.youtube-nocookie.com/embed/y-YIugVNmLw?t=741" frameborder="0" allowfullscreen></iframe></td></tr>

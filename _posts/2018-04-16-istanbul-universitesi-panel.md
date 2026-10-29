@@ -8,7 +8,7 @@ image: /assets/DSC_0207_v2.JPG
 ---
 
 
-<img align="left" src="/assets/iu_blockchain_afis_v3.png" style="width:10%; padding-right:20px"> 
+<img alt="Sistem Değişiyor Bitcoin ve Blockchain paneli afişi" align="left" src="/assets/iu_blockchain_afis_v3.png" style="width:10%; padding-right:20px"> 
 Beta Gamma Sigma Society tarafından organize edilen "Sistem Değişiyor - Bitcoin & Blockchain" panelinde İstanbul Üniversitesi İşletme Fakültesi öğrencileri ile buluşmadan kareler..
 
 

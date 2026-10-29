@@ -7,7 +7,7 @@ tags: videos Etkinlikler
 image: /assets/sosyal-fayda-icin-hackathon_800.jpg
 ---
 
-<img align="left" src="/assets/sosyal-fayda-icin-hackathon_800.jpg" style="width:40%; padding-right:20px"> [Yeni Bir Lider Derneği](https://yenibirlider.org/) tarafından düzenlenen '[Sosyal Fayda İçin Hackathon](https://yenibirlider.org/sf-hackathon/) etkinliğinde 60'a yakın katılımcı ile Web3 ve merkeziyetsiz sistemleri sosyal fayda perspektifinden konuştuk. Web3 sistemleri özellikle blokzincir altyapısı nedeniyle bağışların takibi gibi alanlarda oluşan sızıntıları önlemede kullanılabilir. Yine de blokzincir sistemlerinin daha çok dijital dünyada etkili olabileceği unutulmamalı. 
+<img alt="Sosyal Fayda İçin Hackathon afişi, konuşmacılar" align="left" src="/assets/sosyal-fayda-icin-hackathon_800.jpg" style="width:40%; padding-right:20px"> [Yeni Bir Lider Derneği](https://yenibirlider.org/) tarafından düzenlenen '[Sosyal Fayda İçin Hackathon](https://yenibirlider.org/sf-hackathon/) etkinliğinde 60'a yakın katılımcı ile Web3 ve merkeziyetsiz sistemleri sosyal fayda perspektifinden konuştuk. Web3 sistemleri özellikle blokzincir altyapısı nedeniyle bağışların takibi gibi alanlarda oluşan sızıntıları önlemede kullanılabilir. Yine de blokzincir sistemlerinin daha çok dijital dünyada etkili olabileceği unutulmamalı. 
 
 Daha sonrasında yapılan yarışmada da jüri üyesi oldum. Hackhaton'da biribirinden ilginç 19 projenin sunumlarını dinledik. Katılan ekiplere teşekkür ederim. 
 
@@ -17,7 +17,7 @@ Daha sonrasında yapılan yarışmada da jüri üyesi oldum. Hackhaton'da biribi
 <table>
 <tr>
 <td style="width:50%">
-<img src="/assets/Yenibirlider_800.png">
+<img alt="Turan Sert ile merkeziyetsizlik konuşmasının ekran görüntüsü" src="/assets/Yenibirlider_800.png">
 </td>
 </tr>
 <tr>

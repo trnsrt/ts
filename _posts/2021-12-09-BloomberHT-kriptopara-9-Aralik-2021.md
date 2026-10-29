@@ -7,7 +7,7 @@ tags: videos Etkinlikler
 image: /assets/bloomberg-ht-kripto-para-poster_800.jpg
 ---
 
-<img align="left" src="/assets/bloomberg-ht-kripto-para-poster_800.jpg" style="width:40%; padding-right:20px"> BloombergHT Kripto Para programında, [Sefer Yüksel](https://twitter.com/SeferYuksel)'in tekrar konuğu oldum. Şu konuları konuştuk: 
+<img alt="BloombergHT Kripto Para programı afişi" align="left" src="/assets/bloomberg-ht-kripto-para-poster_800.jpg" style="width:40%; padding-right:20px"> BloombergHT Kripto Para programında, [Sefer Yüksel](https://twitter.com/SeferYuksel)'in tekrar konuğu oldum. Şu konuları konuştuk: 
 - Kripto piyasasında Evergrande korkusu
 - ABD'de kriptopara düzenlemeleri 
 - Teknoloji dünyasından önemli isimlerin kriptopara alanına geçişi

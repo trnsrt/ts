@@ -15,7 +15,7 @@ My fourth book, *[Web3 Unlocked](/Web3_Unlocked/)*, is the English translation o
 
 If you are curious about my story, here is the GRTIQ podcast episode about me and *Sorularla Web3* (recorded in February 2025)👇
 
-<img src="/assets/GRTiQ-Podcast__Turan-Sert_800.jpg">
+<img alt="GRTiQ Podcast episode 208 featuring Turan Sert" src="/assets/GRTiQ-Podcast__Turan-Sert_800.jpg">
 
 <style>
 .english-podcast-players {

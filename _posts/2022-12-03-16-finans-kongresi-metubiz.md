@@ -7,16 +7,16 @@ tags: videos Etkinlikler
 image: /assets/Finans_kongresi.jpg
 ---
 
-<img align="left" src="/assets/Finans_kongresi.jpg" style="width:40%; padding-right:20px"> [ODTÜ İşletme Topluluğu](https://twitter.com/METUBIZ) tarafından düzenlenen '[16. Finans Kongresi](https://www.finanskongresi.net/)'nde "Geleneksel Finanstan Merkeziyetsiz Finans Dünyasına: Nedir, Ne Değildir?" konulu bir konuşma yaptım. ODTÜ KKM salonunda sevgili Efe Bulduk ve Baki Er'in eğlenceli paneli sonrası gerçekleşen konuşmada klasik finans ile  merkeziyetsiz finansın farklarını konuştuk. Beni en güzel şekilde ağırlayan Metubiz ekibine teşekkür ederim. 
+<img alt="16. Finans Kongresi logosu" align="left" src="/assets/Finans_kongresi.jpg" style="width:40%; padding-right:20px"> [ODTÜ İşletme Topluluğu](https://twitter.com/METUBIZ) tarafından düzenlenen '[16. Finans Kongresi](https://www.finanskongresi.net/)'nde "Geleneksel Finanstan Merkeziyetsiz Finans Dünyasına: Nedir, Ne Değildir?" konulu bir konuşma yaptım. ODTÜ KKM salonunda sevgili Efe Bulduk ve Baki Er'in eğlenceli paneli sonrası gerçekleşen konuşmada klasik finans ile  merkeziyetsiz finansın farklarını konuştuk. Beni en güzel şekilde ağırlayan Metubiz ekibine teşekkür ederim. 
 
 &nbsp;
 
 <table><tr>
 <td style="width:50%">
-<img src="/assets/metubiz_16-finans-kongresi-poster.jpg">
+<img alt="16. Finans Kongresi afişi, konuşmacı Turan Sert" src="/assets/metubiz_16-finans-kongresi-poster.jpg">
 </td>
 <td style="width:50%">
-<img src="/assets/metubiz-sunum-photo-6.jpg">
+<img alt="Salonda slayt önünde konuşan Turan Sert" src="/assets/metubiz-sunum-photo-6.jpg">
 </td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
@@ -33,16 +33,16 @@ Panelin posteri
 <table>
 <tr>
 <td style>
-<img src="/assets/metubiz-sunum-photo-1.jpg">
+<img alt="Sahnede konuşan Turan Sert, ekranda konuşma başlığı" src="/assets/metubiz-sunum-photo-1.jpg">
 </td>
-<td style><img src="/assets/metubiz-sunum-photo3.jpg">
+<td style><img alt="Sahnede tokalaşma anı, 16. Finans Kongresi" src="/assets/metubiz-sunum-photo3.jpg">
 </td>
 </tr>
 <tr>
 <td style>
-<img src="/assets/metubiz-sunum-photo-5.jpg">
+<img alt="Konferans salonunun genel görünümü, sahnede Turan Sert" src="/assets/metubiz-sunum-photo-5.jpg">
 </td>
-<td style><img src="/assets/metubiz-sunum-photo-7.jpg">
+<td style><img alt="Küçük ama hızlı büyüyor başlıklı TVL grafiği, sahnede konuşmacı" src="/assets/metubiz-sunum-photo-7.jpg">
 </td>
 </tr>
 </table>

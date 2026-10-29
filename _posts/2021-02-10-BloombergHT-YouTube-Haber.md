@@ -7,11 +7,11 @@ tags: videos Etkinlikler
 image: /assets/BloombergHT_Hizli_Bakis.jpg
 ---
 
-<img align="left" src="/assets/BloombergHT_Hizli_Bakis.jpg" style="width:40%; padding-right:20px"> BloombergHT sitesi ve YouTube kanalı için, kripto dünyasında 2020'nin Şubat ayında konuşulan gündemin değerlendirmesi. Konular: Tesla'nın Bitcoin alımı, Elon Musk'un kriptopara sevgisi, Bitcoin'e olan ilgi ve gelecekte neler yaşanabileceği. Konu ile ilgili BloombergHT websitesinde [yayınlanan yazıya buradan ulaşabilirsiniz](https://www.bloomberght.com/seri-girisimci-musk-nasil-kripto-bogasi-oldu-2274312)
+<img alt="Hızlı Bakış kapağı: Musk nasıl kripto boğası oldu" align="left" src="/assets/BloombergHT_Hizli_Bakis.jpg" style="width:40%; padding-right:20px"> BloombergHT sitesi ve YouTube kanalı için, kripto dünyasında 2020'nin Şubat ayında konuşulan gündemin değerlendirmesi. Konular: Tesla'nın Bitcoin alımı, Elon Musk'un kriptopara sevgisi, Bitcoin'e olan ilgi ve gelecekte neler yaşanabileceği. Konu ile ilgili BloombergHT websitesinde [yayınlanan yazıya buradan ulaşabilirsiniz](https://www.bloomberght.com/seri-girisimci-musk-nasil-kripto-bogasi-oldu-2274312)
 &nbsp;
 
 <table><tr><td style="width:50%">
-<img src="/assets/BloombergHT_YouTube_210210.jpg">
+<img alt="Turan Sert'in YouTube videosundan ekran görüntüsü" src="/assets/BloombergHT_YouTube_210210.jpg">
 </td>
 <td style="width:50%">
 <iframe loading="lazy" title="Seri girişimci Elon Musk nasıl Bitcoin boğası oldu? | Hızlı Bakış" width="224" height="126" src="https://www.youtube-nocookie.com/embed/tonX_-BKIIw" frameborder="0" allowfullscreen></iframe></td></tr>

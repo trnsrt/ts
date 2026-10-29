@@ -7,12 +7,12 @@ tags: videos Etkinlikler
 image: /assets/bloomberght_kripto_para.jpg
 ---
 
-<img align="left" src="/assets/bloomberght_kripto_para.jpg" style="width:40%; padding-right:20px"> BloombergHT websitesi için 2022 yılı beklentilerimi paylaştım. Genel olarak Web3'ün tüm hızıyla devam edeceğini, merkeziyetsiz finansın gelişmesiyle birlikte merkeziyetsizliğin başka hangi alanlarda uygulanabileceğini ve bu uygulamaların gerçekleştirilebilmesi için yeni yeni gelişmeye başlayan DAO'ları konuştuk. Benimle ilgili kısmı aşağıda okuyabilirsiniz. Yazının tamamına ise [şuradan](https://www.bloomberght.com/2022-yilinda-kripto-para-ekosisteminde-beklentiler-ne-yonde-2296069) ulaşabilirsiniz. 
+<img alt="" align="left" src="/assets/bloomberght_kripto_para.jpg" style="width:40%; padding-right:20px"> BloombergHT websitesi için 2022 yılı beklentilerimi paylaştım. Genel olarak Web3'ün tüm hızıyla devam edeceğini, merkeziyetsiz finansın gelişmesiyle birlikte merkeziyetsizliğin başka hangi alanlarda uygulanabileceğini ve bu uygulamaların gerçekleştirilebilmesi için yeni yeni gelişmeye başlayan DAO'ları konuştuk. Benimle ilgili kısmı aşağıda okuyabilirsiniz. Yazının tamamına ise [şuradan](https://www.bloomberght.com/2022-yilinda-kripto-para-ekosisteminde-beklentiler-ne-yonde-2296069) ulaşabilirsiniz. 
 
 &nbsp;
 
 <table><tr><td style="width:50%">
-<img src="/assets/bloomberght_2022_beklentileri_220107.jpg">
+<img alt="BloombergHT videosundan kare, konuşan Turan Sert" src="/assets/bloomberght_2022_beklentileri_220107.jpg">
 </td>
 <td style="width:50%">
 <iframe loading="lazy" title="2022 Yılında Kripto Para Ekosisteminde Beklentiler Ne Yönde? | Turan Sert" width="224" height="126" src="https://www.youtube-nocookie.com/embed/Jb5Ly0KFZzM" frameborder="0" allowfullscreen></iframe></td></tr>

@@ -7,13 +7,13 @@ tags: Etkinlikler
 image: /assets/socar_baki_ali_neft_logo.jpg
 ---
 
-<img align="left" src="/assets/socar_baki_ali_neft_logo.jpg" style="width:40%; padding-right:20px"> Socar Capital'in Azerbaycan'ın başkenti Bakü'de düzenlediği etkinlikte Bakü Yüksek Petrol Okulu'nun sevgili öğrencileri ile bir araya geldik. Sevgili dostum Tolga Kotan ve ben birer sunum yaptık.
+<img alt="SOCAR Capital ve Baku Higher Oil School logoları" align="left" src="/assets/socar_baki_ali_neft_logo.jpg" style="width:40%; padding-right:20px"> Socar Capital'in Azerbaycan'ın başkenti Bakü'de düzenlediği etkinlikte Bakü Yüksek Petrol Okulu'nun sevgili öğrencileri ile bir araya geldik. Sevgili dostum Tolga Kotan ve ben birer sunum yaptık.
 &nbsp;
 <table><tr><td style="width:50%">
-<img src="/assets/Socar_Capital_poster.jpg">
+<img alt="Kapital Bazarlarının Geleceği etkinlik posteri, Turan Sert ve Tolga Kotan" src="/assets/Socar_Capital_poster.jpg">
 </td>
 <td style="width:50%">
-<img src="/assets/Kotan_socar_sunum_260306.jpg">
+<img alt="Bakü'de sahnede sunum yapan Tolga Kotan" src="/assets/Kotan_socar_sunum_260306.jpg">
 </td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>Etkinliğin posteri...</p>

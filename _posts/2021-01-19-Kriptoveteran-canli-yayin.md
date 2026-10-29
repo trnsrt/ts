@@ -7,11 +7,11 @@ tags: videos Etkinlikler
 image: /assets/kriptoveteran_poster_1200.jpg
 ---
 
-<img align="left" src="/assets/kriptoveteran_poster_1200.jpg" style="width:40%; padding-right:20px"> Üç değerli kripto ustası [Cemil Şinasi Türün](https://twitter.com/Jetwell), [Erkan Öz](https://twitter.com/_ErkanOz) ve [İsmail Hakkı Polat](https://twitter.com/ismailhpolat)'ın hazırladığı KriptoVeteran programına konuk oldum. Yaklaşık 2 saat süren eğlenceli bir yayında Merkeziyetsiz Finans'ı konuştuk. Yayının [linki burada](https://www.pscp.tv/w/1mnxeakopNnxX). Başta beni programa davet eden Cemil Hoca olmak üzere Erkan Öz, İsmail Hakkı Polat ve [BTC Haber](https://twitter.com/BTCHabercom) ekibine teşekkür ederim. 
+<img alt="KriptoVeteran 8. Bölüm afişi, 19 Ocak 2021" align="left" src="/assets/kriptoveteran_poster_1200.jpg" style="width:40%; padding-right:20px"> Üç değerli kripto ustası [Cemil Şinasi Türün](https://twitter.com/Jetwell), [Erkan Öz](https://twitter.com/_ErkanOz) ve [İsmail Hakkı Polat](https://twitter.com/ismailhpolat)'ın hazırladığı KriptoVeteran programına konuk oldum. Yaklaşık 2 saat süren eğlenceli bir yayında Merkeziyetsiz Finans'ı konuştuk. Yayının [linki burada](https://www.pscp.tv/w/1mnxeakopNnxX). Başta beni programa davet eden Cemil Hoca olmak üzere Erkan Öz, İsmail Hakkı Polat ve [BTC Haber](https://twitter.com/BTCHabercom) ekibine teşekkür ederim. 
 &nbsp;
 
 <table><tr><td style="width:50%">
-<img src="/assets/kriptoveteran_screenshot.jpg">
+<img alt="KriptoVeteran yayınından ekran görüntüsü, dört konuşmacı" src="/assets/kriptoveteran_screenshot.jpg">
 </td>
 <td style="width:50%">
 <iframe loading="lazy" title="Merkezsiz Finans - DeFi Özel Yayını #KriptoVeteran + 1 (Konuk: Turan Sert)" width="224" height="126" src="https://www.youtube-nocookie.com/embed/dI5R1P9Hl50" frameborder="0" allowfullscreen></iframe></td></tr>

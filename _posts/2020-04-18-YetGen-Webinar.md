@@ -8,7 +8,7 @@ image: /assets/yetgen_3.jpg
 ---
 
 
-<img align="left" src="/assets/yetgen_3.jpg" style="width:40%; padding-right:20px"> Mehmet Zorlu Vakfı ve Mef Üniversitesi tarafından düzenlenen YetGen - Yetkin Gençler programının 18 Nisan 2020'deki "Teknoloji Okur Yazarlığı Eğitimi" webinarında birbirinden değerli isimler ile birlikte 400'ü aşkın fişek gibi gence Blockchain anlattım. Çok renkli ve eğlenceli idi. [Erhan Erkut](https://twitter.com/ErhanErkut) Hoca yine zımba gibi bir ekip yaratmış.
+<img alt="YetGen Teknoloji Okuryazarlığı Eğitimi konuşmacıları afişi" align="left" src="/assets/yetgen_3.jpg" style="width:40%; padding-right:20px"> Mehmet Zorlu Vakfı ve Mef Üniversitesi tarafından düzenlenen YetGen - Yetkin Gençler programının 18 Nisan 2020'deki "Teknoloji Okur Yazarlığı Eğitimi" webinarında birbirinden değerli isimler ile birlikte 400'ü aşkın fişek gibi gence Blockchain anlattım. Çok renkli ve eğlenceli idi. [Erhan Erkut](https://twitter.com/ErhanErkut) Hoca yine zımba gibi bir ekip yaratmış.
 
 
 &nbsp;
@@ -16,7 +16,7 @@ image: /assets/yetgen_3.jpg
 
 
 <table><tr><td style="width:50%">
-<img src="/assets/yetgen_2.jpg">
+<img alt="YetGen Teknoloji Okuryazarlığı Eğitimi konuşmacıları afişi" src="/assets/yetgen_2.jpg">
 </td>
 <td style="width:50%">
 <iframe loading="lazy" title="MZV-MEF YetGen | Teknoloji Okuryazarlığı" width="224" height="126" src="https://www.youtube-nocookie.com/embed/tFMYrUdCcJ0?t=1687" frameborder="0" allowfullscreen></iframe></td></tr>

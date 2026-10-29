@@ -7,13 +7,13 @@ tags: Etkinlikler
 image: /assets/iau_logo.jpg
 ---
 
-<img align="left" src="/assets/iau_logo.jpg" style="width:40%; padding-right:20px"> İstanbul Aydın Üniversitesi Finans ve Yatırım Kulübü tarafından düzenlenen İAU Finans Zirvesi 2026 etkinliğinde kulüp başkanı sevgili Amir ile bir panel yaptık. Davetleri için kendilerine teşekkür ederim.
+<img alt="Yatırım ve Trade Kulübü logosu, İstanbul Aydın Üniversitesi" align="left" src="/assets/iau_logo.jpg" style="width:40%; padding-right:20px"> İstanbul Aydın Üniversitesi Finans ve Yatırım Kulübü tarafından düzenlenen İAU Finans Zirvesi 2026 etkinliğinde kulüp başkanı sevgili Amir ile bir panel yaptık. Davetleri için kendilerine teşekkür ederim.
 &nbsp;
 <table><tr><td style="width:50%">
-<img src="/assets/iau_poster.jpg">
+<img alt="İAÜ Finans Zirvesi 2026 afişi, Turan Sert konuşmacı" src="/assets/iau_poster.jpg">
 </td>
 <td style="width:50%">
-<img src="/assets/iau_sahne.jpg">
+<img alt="İAÜ etkinliğinde kürsüde Sorularla Web3 kitabı" src="/assets/iau_sahne.jpg">
 </td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>Etkinlik posteri.</p></td>
