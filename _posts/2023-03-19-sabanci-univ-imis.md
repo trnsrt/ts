@@ -7,13 +7,13 @@ tags: videos Etkinlikler
 image: /assets/resilience-imis-poster.jpg
 ---
 
-<img align="left" src="/assets/resilience-imis-poster.jpg" style="width:40%; padding-right:20px"> [Sabancı Üniversitesi Industrial Engineering Society](https://clubs.sabanciuniv.edu/en/clubs/industrial-engineering-society-ies) tarafından 18-19 Mart tarihlerinde düzenlenen '[Blockchain Days](https://www.blockchaindays.org/)'in etkinliğinin ikinci gününde [Sabancı Blockchain](https://twitter.com/Sublockchain) tarafından organize edilen "Blockchain" konulu bir panelde sevgili [Dr. Hale Cide Demir](https://twitter.com/DrHaleCideDemir) ve [Vidal Arditi](https://twitter.com/vidal_arditi) ile birlikte DAO'lar üzerine söyleştik. Panelin kaydını sanırım amatör biri yapmış. Aşağıda bulabilirsiniz. Organize edenlere ve kaydı yapan kişiye teşekkürler. 
+<img alt="Resilience IMIS 2023 afişi, 18-19 Mart, Sabancı Üniversitesi" align="left" src="/assets/resilience-imis-poster.jpg" style="width:40%; padding-right:20px"> [Sabancı Üniversitesi Industrial Engineering Society](https://clubs.sabanciuniv.edu/en/clubs/industrial-engineering-society-ies) tarafından 18-19 Mart tarihlerinde düzenlenen '[Blockchain Days](https://www.blockchaindays.org/)'in etkinliğinin ikinci gününde [Sabancı Blockchain](https://twitter.com/Sublockchain) tarafından organize edilen "Blockchain" konulu bir panelde sevgili [Dr. Hale Cide Demir](https://twitter.com/DrHaleCideDemir) ve [Vidal Arditi](https://twitter.com/vidal_arditi) ile birlikte DAO'lar üzerine söyleştik. Panelin kaydını sanırım amatör biri yapmış. Aşağıda bulabilirsiniz. Organize edenlere ve kaydı yapan kişiye teşekkürler. 
 
 &nbsp;
 
 <table><tr>
 <td style="width:50%">
-<img src="/assets/sabanci-uni-ies-panel-230319_640.jpg">
+<img alt="Resilience IMIS 2023 blockchain panel afişi, üç konuşmacı" src="/assets/sabanci-uni-ies-panel-230319_640.jpg">
 </td>
 </td>
 <td style="width:50%">
