@@ -17,7 +17,7 @@ Bunu yapabilmek için de ilginç bir yol deniyor: Bitcoin'in fiyatının dalgal�
 
 | ![shop_and_earn](/assets/bag-5000786_640.png)|
 |:--:| 
-| *Kaynak: Image by [Megan Rexain]((https://pixabay.com/users/megan_rexazin-6742250)) from [Pixabay](https://pixabay.com/)*|
+| *Kaynak: Image by [Megan Rexain](https://pixabay.com/users/megan_rexazin-6742250) from [Pixabay](https://pixabay.com/)*|
 
 Geçtiğimiz yazı çok uzadığı için, Ampleforth'un bu ilginç para politikasından bahsetmiş ama diğer kısımlarını sonraya bırakmıştık. Gelin şimdi Ampleforth'un diğer özellikleri ile birlikte potansiyel olarak görülebilecek sıkıntılarından bahsedelim: 
 
@@ -35,7 +35,7 @@ Bitcoin'in yaşadığı sorunları çözmek amacıyla sonrasında pek çok klonu
 
 | ![BTC_clones](/assets/bitcoin_clones_800.jpg)|
 |:--:| 
-| *Kaynak: Image by [Andrew Martin]((https://pixabay.com/users/aitoff-388338/)) from [Pixabay](https://pixabay.com/)*|
+| *Kaynak: Image by [Andrew Martin](https://pixabay.com/users/aitoff-388338/) from [Pixabay](https://pixabay.com/)*|
 
 Bitcoin klonları da genellikle alışverişler için kullanılabilme noktasında kendilerini ayrıştırmaya çalışıyorlar. Aslında burada teşhis doğru, tedavi önerileri ise klondan klona değişiyor: [Litecoin örneğinde olduğu gibi her 10 dakikada bir uzlaşma yapmak yerine 2.5 dakikada bir yapmak](/genel/2018/06/07/token-dunyasina-devam-diger-kriptopalar-litecoin-monero-dash-zcash.html), böylece işlemlerin teyidini hızlandırmak bunlardan biri. Ya da Bitcoin Cash örneğinde olduğu gibi uzlaşma yapılan her bir bloğun büyüklüğünü artırmak böylece yoğun işlem zamanlarında blokların dolmasından ötürü oluşacak gecikmeleri önlemek bir diğeri. Ve nihayet, [Lightning Network gibi Bitcoin üzerine kurulu ikinci seviye çözümler ile ana blok zincirini daha az kullanarak maliyetleri azaltmak](/genel/2018/12/20/bitcoin-uzerinde-isik-hiziyla-islem-Lightning-network.html) ve böylece ufak ödemeler (örneğin Bitcoin ile kahve almak) için kullanışlı hale getirmek bir başkası bu örneklerin. 
 

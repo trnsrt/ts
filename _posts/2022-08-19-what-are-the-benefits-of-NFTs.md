@@ -19,7 +19,7 @@ There is no clear, globally accepted method to value any object. Valuation is an
 
 | ![snow](/assets/path-1468938_800.jpg)|
 |:--:| 
-| *Image by [Bernd ]([https://pixabay.com/users/momentmal-5324081/)) from [Pixabay](https://pixabay.com/)*|
+| *Image by [Bernd ](https://pixabay.com/users/momentmal-5324081/) from [Pixabay](https://pixabay.com/)*|
 
 It gets more difficult when it comes to art. In order to avoid any misconceptions (or just out of ignorance) let's just assume a normal art has two major components. 
 
@@ -31,7 +31,7 @@ The second part is the speculative value. That would be the difference between i
 In this post, we tried to address the issue of 'valuing an object' through the lens of art ownership. While we accept that this is by no means the only approach this will give us a solid foundation to understand how NFT would enhance the 'value' of that object. We will be looking at that in our next post. 
 
 
-<a href="/genel/2022/10/24/what-are-the-benefits-of-NFTs-2.html">
+<a href="/genel/2022/09/25/what-are-the-benefits-of-NFTs-II.html">
          <img alt="Tweet" src="/assets/benefits-of-ntfs-2_640.png"></a>
 
 ---

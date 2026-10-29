@@ -11,7 +11,7 @@ We continue on exploring how NFTs add value to any object.
 
 In our [previous post](/genel/2022/08/19/what-are-the-benefits-of-NFTs.html), we looked at the concept of value and what constitutes 'value' in a typical art object. 👇
 
-<a href="/genel/2022/10/24/what-are-the-benefits-of-NFTs-1.html">
+<a href="/genel/2022/08/19/what-are-the-benefits-of-NFTs.html">
          <img alt="Tweet" src="/assets/benefits-of-ntfs-1_640.png"></a>
 
 In this post, we will look at how NFT would add value to such an object. 

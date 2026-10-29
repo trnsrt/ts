@@ -9,7 +9,7 @@ image: /assets/photos-315170_800.jpg
 
 We continue to look that various ways that an NFT would add value to an object with two important issues: IP rights and ease of transfer. 
 
-In our mini series [first](genel/2022/08/19/what-are-the-benefits-of-NFTs.html) we looked at the concept of value and what constitutes ‘value’ in a typical art object.  In the [following post](/genel/2022/09/25/what-are-the-benefits-of-NFTs-II.html), we continue with exploring how NFT would add value to such an object. In [our last post](/genel/2022/10/24/what-are-the-benefits-of-NFTs-3.html), we dived into traceability and fragmentation, two important attributes that NFT has brought to table. 👇
+In our mini series [first](/genel/2022/08/19/what-are-the-benefits-of-NFTs.html) we looked at the concept of value and what constitutes ‘value’ in a typical art object.  In the [following post](/genel/2022/09/25/what-are-the-benefits-of-NFTs-II.html), we continue with exploring how NFT would add value to such an object. In [our last post](/genel/2022/10/24/what-are-the-benefits-of-NFTs-3.html), we dived into traceability and fragmentation, two important attributes that NFT has brought to table. 👇
 
 <a href="/genel/2022/10/24/what-are-the-benefits-of-NFTs-3.html">
          <img alt="Tweet" src="/assets/benefits-of-ntfs-3_640.png"></a>

@@ -16,7 +16,7 @@ Bir paragrafta özetleyelim:
 - Bu vakıf 2020 yılında Libra adında bir Blockchain kurarak aynı adlı bir kripto para çıkaracak. 
 - Bu para, aslında %100 dolar ve benzeri paralardan oluşan bir sepet ile desteklenen bir [SabitPara](/genel/2018/07/20/Orasi-cok-dalgali-sakin-sulara-gel-sabitparalar.html) (stable coin). 
 - Kişiden kişiye para transferi dışında, Facebook sistemi içindeki pek çok hizmet alımının karşılığında ödeme olarak da kullanılabilecek (ortaklar, örneğin Uber için de geçerli bu). 
-- Biz bireyler, elimizdeki TL, ABD Doları vb parayı Libra'ya çevirip sistem içinde kullanabileceğiz. Bunu yaparken normal olarak dijital cüzdanlar kullanacağız. [Calibra](https://calibra.com/), bu cüzdanların [Facebook tarafından]((https://newsroom.fb.com/news/2019/06/coming-in-2020-calibra/)) çıkarılan ilk örneği. 
+- Biz bireyler, elimizdeki TL, ABD Doları vb parayı Libra'ya çevirip sistem içinde kullanabileceğiz. Bunu yaparken normal olarak dijital cüzdanlar kullanacağız. [Calibra](https://calibra.com/), bu cüzdanların [Facebook tarafından](https://newsroom.fb.com/news/2019/06/coming-in-2020-calibra/) çıkarılan ilk örneği. 
 
 | ![libra_pixabay.png](/assets/libra_pixabay.png) | 
 |:--:| 

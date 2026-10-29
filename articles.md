@@ -23,7 +23,7 @@ permalink: /articles/
 - Finans alanındaki potansiyeli en yüksek olan Merkeziyetsiz Finans (DeFi) hareketini yakından tanımak için
   - [Blockchain finans dünyasını nasıl etkileyecek?](/genel/2019/02/14/Blockchain-finans-dunyasini-nasil-etkileyecek.html)
   - [DeFi neden önemli?](/genel/2020/06/11/DeFi-neden-onemli.html)
-  - [Bitcoin ile DeFi benzer mi?](/genel/2020/06/25/Bitcoin-ile-DeFi-benzer-mi.html)
+  - [Bitcoin ile DeFi benzer mi?](/genel/2020/07/07/Bitcoin-ile-DeFi-benzer-mi.html)
   - [DeFi bir oyuncak mı?](/genel/2020/09/03/defi_bir_oyuncak_mi.html)
   - [DeFi çok mu hızlı gidiyor?](/genel/2020/09/08/defi-cok-mu-hizli-gidiyor.html)
   - [DeFi yeni ICO çılgınlığı mı?](/genel/2020/07/23/DeFi-yeni-ICO-cilginligi-mi.html)
@@ -31,11 +31,11 @@ permalink: /articles/
   - [DeFi'de oyunun adı topluluk](/genel/2021/02/11/defide-oyunun-adi-topluluk.html)  
 - Farklı DeFi ürünlerinin nasıl çalıştığını görmek için
   - [MakerDAO kredi kullanımında çığır açar mı?](/genel/2019/02/15/MakerDAO-kredi-kullaniminda-cigir-acar-mi.html)
-  - [Merkeziyetsiz Finans ve MakerDAO — bir yılda neler değişti?](/genel/2020/03/17/Merkeziyetsiz-Finans-ve-Maker-DAO-Bir-yilda-neler-degisti.html)
+  - [Merkeziyetsiz Finans ve MakerDAO — bir yılda neler değişti?](/genel/2020/05/19/Merkeziyetsiz-Finans-ve-Maker-DAO-Bir-yilda-neler-degisti.html)
   - [ETH görünümlü BTC olur mu?](/genel/2020/07/09/eth-gorunumlu-btc-olur-mu.html)
   - [Klasik bankacılığın rakibi Compound](/genel/2020/06/18/klasik-bankaciligin-rakibi-compound.html)
   - [Compound yönetim tokeni COMP nasıl çalışıyor?](/genel/2020/06/25/Compoundun-yonetim-tokeni-COMP-nasil-calisiyor.html)
-  - [Aragon ile DeFi'da yönetim](http/genel/2020/07/18/aragon-ile-defida-yonetim.html)
+  - [Aragon ile DeFi'da yönetim](/genel/2020/07/18/aragon-ile-defida-yonetim.html)
   - [DeFi türev piyasaları nasıl oluyor?](/genel/2020/08/20/defi-turev-piyasalari-nasil-oluyor.html)
   - [DeFi türev piyasası Synthetix nasıl çalışıyor?](/genel/2020/08/28/Defi-turev-piyasasi-synthetix-nasil-calisiyor.html)
   - [Nedir bu Uniswap?](/genel/2020/09/15/nedir-bu-uniswap.html)
@@ -48,7 +48,7 @@ permalink: /articles/
   - [DeFi'de merkeziyetsiz portföy yönetimi platformu Yearn](/genel/2020/11/10/Defida-merkeziyetsiz-yonetim-platform-yearn-finance.html) ve [Merkeziyetsiz portföy yönetimi Yearn'a devam](/genel/2020/11/17/merkeziyetsiz-portfoy-yonetimi-yearn-protokolune-devam.html)
   - [DeFi'nin bilgi kaynağı oracle](/genel/2020/12/22/definin-bilgi-kaynagi-oracle.html)
   - [Oracle dünyasının lideri Chainlink](/genel/2020/12/29/oraclein-lideri-chainlink.html)
-  - [DeFi'da opsiyon piyasaları](/genel/2021/01/05/defi-opsiyon-piyasalar%C4%B1.html)
+  - [DeFi'da opsiyon piyasaları](/genel/2021/01/05/defi-opsiyon-piyasalari.html)
   - [DeFi opsiyon piyasalarının lideri Hegic](/genel/2021/01/26/defi-opsiyon-piyasalarinin-lideri-hegic.html)
   - [DeFi dünyasının merkeziyetsiz analiz sağlayıcısı: The Graph Protokol](/genel/2021/03/19/defi-dunyasinin-merkeziyetsiz-analiz-saglayicisi-the-graph.html) ve devam [yazısı](/genel/2021/03/20/the-graph-sistemine-teknik-bir-bakis.html)
 - DeFi dünyasına adım atmak istiyorsanız
@@ -96,7 +96,7 @@ permalink: /articles/
   - En temel taşı olan Akıllı Kontratlar'ı anlamak için [Bu kontratlar çok akıllı: Ethereum ve Akıllı Kontratlar](/genel/2018/06/29/bu-kontratlar-cok-akilli-ethereum-ve-akilli-kontratlar.html)
   - ETH'nin değerinin nereden geldiğin anlamak için [ETH'nin değeri var mı?](/genel/2020/07/30/ETH-nin-degeri-var-mi.html)
   - 2020 ve 2021 yıllarında ETH'nin değerini nelerin etkileyecebileceğini görmek için [Gelecekte ETH'nin değerini neler etkileyecek?](/genel/2020/08/06/gelecekte-eth-nin-degerini-neler-etkileyecek.html)
-  - Ethereum'un para arzının nasıl işlediğini ve gelecekte nasıl gelişeceğini görmek için [](/genel/2020/12/08/Ethereumun-para-politikası.html)
+  - Ethereum'un para arzının nasıl işlediğini ve gelecekte nasıl gelişeceğini görmek için [](/genel/2020/12/08/Ethereumun-para-politikasi.html)
   - Ethereum topluluğunun 2021 yılında neler ile uğraşacağına bakmak için - [Ethereum'u 2021'de neler bekliyor?](/genel/2020/12/15/Ethereumu-2021-yilinda-neler-bekliyor.html]
   - Ethereum'da DeFi patlamasıyla birlikte yaşanan pahalılığı ve nasıl giderilebileceğini anlamak için - [Ethereum'un yüksek iş]em ücretleri](/genel/2020/12/21/ETHnin-yuksek-islem-ucretleri.html)
   - Ethereum'a rakip birinci seviye blokzincirler için: [Ethereum ve rakipleri](/genel/2021/02/27/Ethereum-ve-rakipleri.html)
@@ -140,7 +140,7 @@ permalink: /articles/
   - Blockchain mekanizmasında nasıl kullanıldığını anlamak için [Peki Blockchain şifrelemesi nasıl çalışıyor?](/genel/2018/05/08/Peki-Blockchain-sifrelemesi-nasil-calisiyor.html) 
 - Yeni teknolojilerin dağıtık yapılarında biribirinden bağımsız makinelerin nasıl ortak hareket ettiğini merak ediyorsanız
   - [Bizans Generallerinin Problemi: Uzlaşma](/genel/2018/08/31/bizans-generalinin-problemi-uzlasmak.html)
-  - [Blockchain nasıl uzlaşır?](/genel/2018/09/07/Peki-blockchain-nasil-uzlasir.html)
+  - [Blockchain nasıl uzlaşır?](/genel/2018/09/07/Blockchain-nasil-uzlasir.html)
   - [Bitcoin ve Proof-of-Work](/genel/2018/11/01/Bitcoin-uzlasmasi-proof-of-work.html)
   - [Proof-of-Work'ün rakipleri kimler?](/genel/2018/11/01/Proof-of-Workun-rakipleri-kimler.html)
 

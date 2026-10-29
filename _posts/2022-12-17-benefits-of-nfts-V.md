@@ -11,7 +11,7 @@ We continue to look the ways how an NFT would add value to any object or service
 
 In our previous posts, we have identified several solid components of value-add that an NFT would specifically bring.  In our very last post, we covered two key attributes, namely IP rights and ease of transfer👇
 
-<a href="/genel/2022/10/24/what-are-the-benefits-of-NFTs-IV.html">
+<a href="/genel/2022/11/21/benefits-of-nfts-IV.html">
          <img alt="Tweet" src="/assets/benefits-of-ntfs-4_640.png"></a>
 
 In addition to those there are also a couple of side benefits that NFT would bring. While these are all vague, we will try to look at couple of them in this post. 👉

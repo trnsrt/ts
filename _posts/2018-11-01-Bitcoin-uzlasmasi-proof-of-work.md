@@ -6,7 +6,7 @@ categories: Genel
 image: /assets/bitcoin-uzlasma.gif
 ---
 
-Geçtiğimiz ayki iki yazıda Blockchain sisteminde aktif rol oynayan birbirinden bağımsız oyuncuların nasıl olup da birlikte hareket ettiklerinin üzerinden geçmiştik. Önce işin sistematiği (mantığı) nasıl çalışıyor sorusunu geçmişte ortaya çıkmış birbirine güvenmeyen Bizans Generalleri'nin düşmana karşı [nasıl ortak hareket ettiğine](/genel/2018/08/31/bizans-generalinin-problemi-uzla%C5%9Fmak.html) bakmış, sonra da bu problemin [Blockchain özelinde nasıl çözüldüğüne](/genel/2018/09/07/Blockchain-nasil-uzlasir.html) göz atmıştık. 
+Geçtiğimiz ayki iki yazıda Blockchain sisteminde aktif rol oynayan birbirinden bağımsız oyuncuların nasıl olup da birlikte hareket ettiklerinin üzerinden geçmiştik. Önce işin sistematiği (mantığı) nasıl çalışıyor sorusunu geçmişte ortaya çıkmış birbirine güvenmeyen Bizans Generalleri'nin düşmana karşı [nasıl ortak hareket ettiğine](/genel/2018/08/31/bizans-generalinin-problemi-uzlasmak.html) bakmış, sonra da bu problemin [Blockchain özelinde nasıl çözüldüğüne](/genel/2018/09/07/Blockchain-nasil-uzlasir.html) göz atmıştık. 
 
 Geçtiğimiz günlerde Ekim ayı sonunda 10. yılını kutladığımız Bitcoin'in yaratıcısı Satoshi Nakamoto'yu bir kez daha analım ve yaptığı devrim niteliğindeki yeniliğe bir kez daha dikkat çekelim.
 

@@ -43,7 +43,7 @@ Buna dikkat etmek gerekiyor işte. Zira ETH'nin değeri düşerse ekstra ETH yü
 Şu anda sistemde kilitli tutulan teminat rakamının kullanılan krediye oranının yaklaşık %200 olduğunu görüyoruz. Yani insanlar gerekli minimum limit olan %150'nin üzerine bir %50'lik bir ekstra teminat koymuşlar kullandıkları krediler için.
 
 #### Kim borç veriyor bu sisteme?
-Aslında kimse kimseye borç vermiyor. Siz elinizdeki ETH'yi teminat gibi kullanıp Dai yaratıyorsunuz. Buradaki soru şu olabilir? Dai'yi satıp ABD Doları aldınız. Kime satıyorsunuz Dai'yi? Genel olarak SabitPara kullanmak isteyen insanlara (ya da daha önce kredi almış ve şu anda borcunu kapatmak için Dai almak isteyenlere). Neden SabitPara kullanmak ister insanlar konusunu daha detaylı önceki yazılarımızda [incelemiştik]((https://ademimerkezi.com/genel/2018/07/20/Orasi-cok-dalgali-sakin-sulara-gel-sabitparalar.html)). 
+Aslında kimse kimseye borç vermiyor. Siz elinizdeki ETH'yi teminat gibi kullanıp Dai yaratıyorsunuz. Buradaki soru şu olabilir? Dai'yi satıp ABD Doları aldınız. Kime satıyorsunuz Dai'yi? Genel olarak SabitPara kullanmak isteyen insanlara (ya da daha önce kredi almış ve şu anda borcunu kapatmak için Dai almak isteyenlere). Neden SabitPara kullanmak ister insanlar konusunu daha detaylı önceki yazılarımızda [incelemiştik](https://ademimerkezi.com/genel/2018/07/20/Orasi-cok-dalgali-sakin-sulara-gel-sabitparalar.html). 
 
 #### Dai parası nasıl sabit kalıyor peki?
 Dai, bir ABD dolarına sabitlenmiş. Ama alım satım yapıldığı borsada baktığınızda fiyatı aşağı ya da yukarı gidebiliyor. MakerDAO yaratıcıları fiyatın iniş ve çıkış olduğu durumda tekrar 1 ABD dolarına gelmesinin otomatik olacağını düşünüyorlar. Şöyle ki:
