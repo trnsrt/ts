@@ -33,7 +33,7 @@ Dijitalleşmenin hayatımıza girmesi ile birlikte bireylerin ihtiyaç duyduğu 
 
 | ![uc_silahsorler](/assets/geograph-3927600-by-Chris-Morgan_800.jpg)|
 |:--:| 
-| *Photo © [Chris Morgan](https://www.geograph.org.uk/profile/69729) ([cc-by-sa/2.0](http://creativecommons.org/licenses/by-sa/2.0/))*|
+| *Photo © [Chris Morgan](https://www.geograph.org.uk/profile/69729) ([cc-by-sa/2.0](https://creativecommons.org/licenses/by-sa/2.0/))*|
 
 #### Bireyden bireye ödemelerde kripto paralar
 **Blockchain teknolojisi dijital dünyanın en büyük sorunu olan kopyalanabilirliğin önüne geçerek dijital varlıkları aynı fiziksel varlıklar gibi sınırlı ve tek kullanımlık bir şekle sokmayı başardı.** Bu da bireyden bireye transfer alanında finansal kurumların şimdiye kadar elinde tuttuğu kalın finansal surların içinde ufak da olsa bir delik açtı. Bunun gündelik hayatta ilk kullanım örneğini, 'değer tutabilen ve istenen kişiye istenen zamanda herhangi bir kısıtlama olmadan transfer edilebilen dijital para Bitcoin' ile görmeye başladık.

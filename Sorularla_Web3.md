@@ -204,8 +204,8 @@ Gösterdiğiniz ilgiye teşekkürler!
 | 223 | ["Kiva AI"](https://www.kivaai.com/) |
 | 223 | ["Fraction.AI"](http://Fraction.AI) |
 | 224 | ["Akash Network"](https://akash.network/) |
-| 224 | ["Aethir"](http://aethir.com/) |
-| 224 | ["io.net"](http://io.net) |
+| 224 | ["Aethir"](https://aethir.com/) |
+| 224 | ["io.net"](https://io.net) |
 | 224 | ["Gensyn"](https://www.gensyn.ai/) |
 | 224 | ["Prime Intellect"](https://www.primeintellect.ai/) |
 | 224 | ["Hyperbolic"](https://hyperbolic.xyz/) |
@@ -229,9 +229,9 @@ Gösterdiğiniz ilgiye teşekkürler!
 | 225 | ["Allora"](https://www.allora.network/) |
 | 225 | ["Sentient"](https://sentient.foundation/) |
 | 226 | ["Generative AI’ Act o1"](https://www.sequoiacap.com/article/generative-ais-act-o1/) |
-| 227 | ["venice.ai"](http://venice.ai) |
+| 227 | ["venice.ai"](https://venice.ai) |
 | 227 | ["Parallel Colony"](https://parallel.life/colony/signup) |
-| 228 | ["Venice.ai"](http://Venice.ai) |
+| 228 | ["Venice.ai"](https://Venice.ai) |
 | 228 | ["Veldt"](https://theveldt.ai/) |
 | 228 | ["Taoshi"](https://www.taoshi.io/) |
 | 228 | ["Intent.Trade"](https://intent.trade/) |
@@ -265,7 +265,7 @@ Gösterdiğiniz ilgiye teşekkürler!
 | 230 | ["Pluralis"](https://pluralis.ai/) |
 | 230 | ["Macrocosmos"](https://www.macrocosmos.ai/) |
 | 230 | ["Neuromesh"](https://www.nmesh.io/) |
-| 230 | ["Flock.io"](http://Flock.io) |
+| 230 | ["Flock.io"](https://Flock.io) |
 | 230 | ["Morpheus"](https://morpheusdata.com/) |
 | 230 | ["Theoriq"](https://www.theoriq.ai/) |
 | 230 | ["Grass"](https://www.getgrass.io) |
@@ -353,7 +353,7 @@ Gösterdiğiniz ilgiye teşekkürler!
 | 279 | ["Hannover Re"](https://www.hannover-re.com/) |
 | 279 | ["Pula"](https://www.pula-advisors.com/) |
 | 279 | ["Etherisc"](https://etherisc.com/) |
-| 279 | ["Tomorrow.io"](http://Tomorrow.io) |
+| 279 | ["Tomorrow.io"](https://Tomorrow.io) |
 | 280 | ["video aracılığıyla"](https://www.youtube.com/watch?v=GIg-HWZefaE) |
 | 282 | ["10,867 tip nadir hastalık"](https://rare-x.org/blog/2022/06/07/rare-x-releases-new-report-that-uncovers-large-number-of-previously-uncounted-rare-diseases/) |
 | 282 | ["yaklaşık %10’u bir çeşit nadir hastalıktan muzdarip"](https://phrma.org/Scientific-Innovation/Progress-in-Fighting-Rare-Diseases) |
