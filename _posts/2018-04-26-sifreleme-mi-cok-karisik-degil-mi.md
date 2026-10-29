@@ -34,7 +34,7 @@ Bir örnek yapalım dilerseniz:
 
 &nbsp;
 
-Siz de [deneyebilirsiniz bu link üzerinden](http://www.xorbin.com/tools/sha256-hash-calculator) - aynı sonucu bulacaksınız (bu sonuca teknik olarak **hash** deniyor). 
+Siz de [deneyebilirsiniz bu link üzerinden](https://www.xorbin.com/tools/sha256-hash-calculator) - aynı sonucu bulacaksınız (bu sonuca teknik olarak **hash** deniyor). 
 
 | Girdi  | Şifreli Sonuç  |
 |---|---|
@@ -42,7 +42,7 @@ Siz de [deneyebilirsiniz bu link üzerinden](http://www.xorbin.com/tools/sha256-
 
 
 
-İşte işin özü bu. Değişik öğütme mekanizmalarından en popüler olan SHA-256 böyle çalışıyor. Girin herhangi bir SHA-256 [şifreleme sitesine](http://www.xorbin.com/tools/sha256-hash-calculator) "Merhaba" yazın, yukarıdaki sonucun aynısını verecek size: 64 karakterli bir dizi. 
+İşte işin özü bu. Değişik öğütme mekanizmalarından en popüler olan SHA-256 böyle çalışıyor. Girin herhangi bir SHA-256 [şifreleme sitesine](https://www.xorbin.com/tools/sha256-hash-calculator) "Merhaba" yazın, yukarıdaki sonucun aynısını verecek size: 64 karakterli bir dizi. 
 
 -- 
 

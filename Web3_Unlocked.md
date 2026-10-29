@@ -24,7 +24,7 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 <br>
 <b>Page 22:</b>
 
-[google.com](http://google.com)  
+[google.com](https://google.com)  
 
 [a researcher at CERN](https://home.cern/science/computing/the-birth-of-the-web)  
 
@@ -238,7 +238,7 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 <br>
 <b>Page 59:</b>
 
-[Ultrasound Money](http://ultrasound.money)  
+[Ultrasound Money](https://ultrasound.money)  
 
 <br>
 <b>Page 60:</b>
@@ -817,7 +817,7 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 <br>
 <b>Page 191:</b>
 
-[venice.ai](http://venice.ai)  
+[venice.ai](https://venice.ai)  
 
 [Colony](https://parallel.life/colony/signup)  
 

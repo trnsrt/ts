@@ -44,7 +44,7 @@ Nick Szabo, is also one of the usual suspects for Satoshi Nakamoto even though h
 
 ### Hal Finney
 
-<img alt="Hal Finney, black and white portrait" align="left" src="/assets/Hal_Finney_bw.jpg" style="width:40%; padding-right:20px"> As one of the early contributors of the cypherpunk movement, [Hal Finney](https://twitter.com/halfin)  was an activist and dedicated much of his life on privacy matters. He also closely followed the ideas planted by David Chaum. (Photo: By Unknown - Original publication: 14:13, 23 June 2007 according to EXIFImmediate source: http://www.independent.com/obits/2014/sep/02/hal-finney/, Fair use, https://en.wikipedia.org/w/index.php?curid=56231886)
+<img alt="Hal Finney, black and white portrait" align="left" src="/assets/Hal_Finney_bw.jpg" style="width:40%; padding-right:20px"> As one of the early contributors of the cypherpunk movement, [Hal Finney](https://twitter.com/halfin)  was an activist and dedicated much of his life on privacy matters. He also closely followed the ideas planted by David Chaum. (Photo: By Unknown - Original publication: 14:13, 23 June 2007 according to EXIFImmediate source: https://www.independent.com/obits/2014/sep/02/hal-finney/, Fair use, https://en.wikipedia.org/w/index.php?curid=56231886)
 
 He introduced the reusable-proof-of-work system, an earlier version of the POW concept used in Bitcoin. He was one of the first person who spotted the Bitcoin idea introduced by Satoshi Nakamoto in a cypherpunk mailing list. He worked closely with Nakamoto in drafting the white paper and was the first recipient of Bitcoin sent by Nakamoto. His message about Bitcoin is one of the most iconic tweets: 
 

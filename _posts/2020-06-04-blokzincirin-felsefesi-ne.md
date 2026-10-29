@@ -50,4 +50,4 @@ Gelecekte her ne olursa olsun önemli olan blokzincir ile artık bireylerin elin
 
 [^1]: *Dikkat ederseniz "çekişme" (İngilizce "struggle") sözünü kullandım, kimileri "savaş" olarak da adlandırır bunu.  Savaşların genelde bir noktada galibi olur. Bu çekişmenin herhangi bir galibi şimdiye kadar yok ve muhtemelen hiçbir zaman da olmayacak.*
 
-[^2]: *Eğer hâlâ okumadıysanız Eric Hughes'un [A Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html)'su' (Türkçe çevirisi [burada](http://blog.bluzz.net/bir-sifrepunkun-manifestosu/)) Şifrepunk'ları anlamak için yardımcı olabilir.* 
+[^2]: *Eğer hâlâ okumadıysanız Eric Hughes'un [A Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html)'su' (Türkçe çevirisi [burada](https://blog.bluzz.net/bir-sifrepunkun-manifestosu/)) Şifrepunk'ları anlamak için yardımcı olabilir.* 

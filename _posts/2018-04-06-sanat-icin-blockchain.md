@@ -30,7 +30,7 @@ Size bu resmin tamamına değil ama bir parçasına sahip olabilirsiniz desem? �
 
 &nbsp;
 
-Hayal gibi ama bir gün bu da olacak. Şu an Blockchain teknolojisini kullanan "start-up"lar size bu imkanı verecek platformlar için çalışıyor. Örneğin [Artrium](http://artrium.co/) "Art-sharing" denen bir konsepte sahip. Nasıl çalışıyor sistem? Üç ana adım var: Satın alınacak resim önce eksperler tarafından dikkatlice kontrol ediliyor ve orijinalliği teyid ediliyor. Satın alım sonrası Blockchain üzerinden küçük parçalara bölünüyor ve bu parçalar onlarca müşteriye satılıyor. Daha sonra kendi içinde mini bir borsa ile parçalar yatırımcılar arasında el değiştirebiliyor. Blockchain burada gerek sanat eserinin tümünün gerekse ona ait bölünmüş her bir parçanın tek tek aidiyetini ve alınıp satıldığında yeni sahipliğini hem takip hem de kayıt ediyor. 
+Hayal gibi ama bir gün bu da olacak. Şu an Blockchain teknolojisini kullanan "start-up"lar size bu imkanı verecek platformlar için çalışıyor. Örneğin [Artrium](https://artrium.co/) "Art-sharing" denen bir konsepte sahip. Nasıl çalışıyor sistem? Üç ana adım var: Satın alınacak resim önce eksperler tarafından dikkatlice kontrol ediliyor ve orijinalliği teyid ediliyor. Satın alım sonrası Blockchain üzerinden küçük parçalara bölünüyor ve bu parçalar onlarca müşteriye satılıyor. Daha sonra kendi içinde mini bir borsa ile parçalar yatırımcılar arasında el değiştirebiliyor. Blockchain burada gerek sanat eserinin tümünün gerekse ona ait bölünmüş her bir parçanın tek tek aidiyetini ve alınıp satıldığında yeni sahipliğini hem takip hem de kayıt ediyor. 
 
 --
 
@@ -56,7 +56,7 @@ Nasıl? Neden? Psikolojik bir yanı olduğu kesin. Sahip olma isteği. Özellikl
 
 ### CD bitti, yaşasın Spotify... mı acaba?
 
-Geçtğimiz yıl Temmuz ayında RAC adıyla dans müziği üreten André Anjos, son albümü EGO'yu bilinen dijital kanallar yanında kendi websitesinden Ether KriptoParası karşılığında da dinleyicilere [sundu](http://musically.com/2017/08/04/ujo-music-blockchain-uphill-battle-existing-companies/). Bunu yaparken de [Ujo Platormu](https://ujomusic.com/)'nu kullandı. 
+Geçtğimiz yıl Temmuz ayında RAC adıyla dans müziği üreten André Anjos, son albümü EGO'yu bilinen dijital kanallar yanında kendi websitesinden Ether KriptoParası karşılığında da dinleyicilere [sundu](https://musically.com/2017/08/04/ujo-music-blockchain-uphill-battle-existing-companies/). Bunu yaparken de [Ujo Platormu](https://ujomusic.com/)'nu kullandı. 
 
 
 &nbsp;
@@ -78,7 +78,7 @@ Birincisi bahsettiğimiz komisyonlar ciddi olarak düşüyor. İkincisi ise lisa
 - Bir müzisyen olarak, müziğimi platform bazlı olarak bağlamak yerine platform bağımsız olarak istediğim yere taşıyabileceğim - ne de olsa sahipliği bende, nasıl kullanacağımı da ben belirlerim.
 - Özellikle ticari alanda şarkılarımı kullanmak isteyen start-up ya da uygulamaların bu eserleri sanatçı olarak ancak benim belirlediğim lisans hakkı ve dağıtım politikaları çerçevesinde kullanabildikleri bir sistem. Parçayı direkt kullanmanın yanında örneğin bir YouTube fenomeninin müziğimi remix yaparak kendine ait YouTube videosunda kullanma koşullarına da ben karar vereceğim. Eğer müziğim tek bir platforma bağlı olursa bunu yapabilmek uzun zahmetli bir iş. Hem müzisyen olarak benim için hem de müziğimi kullanmak isteyenler için... Bunun yerine, her tür platformda geçen otomatize edilmiş bir lisans sistemi olsa aradaki bürokrasi de azalacak.  
 
-Tabii bu konuda şüpheci davranıp müzik alanında yukarıdaki gelişmelerin reklam amaçlı olduğunu, UjoMusic'in "[doğru soruları sorduğunu ama henüz cevapları bulamadığını](http://www.hypebot.com/hypebot/2017/11/ujo-attempts-music-on-the-blockchain-a-second-time-with-ego-by-rac.html)" düşünenler de var. 
+Tabii bu konuda şüpheci davranıp müzik alanında yukarıdaki gelişmelerin reklam amaçlı olduğunu, UjoMusic'in "[doğru soruları sorduğunu ama henüz cevapları bulamadığını](https://www.hypebot.com/hypebot/2017/11/ujo-attempts-music-on-the-blockchain-a-second-time-with-ego-by-rac.html)" düşünenler de var. 
 
 
 ### Sonuç?

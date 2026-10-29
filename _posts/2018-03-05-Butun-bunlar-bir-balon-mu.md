@@ -36,11 +36,11 @@ Bir tarafta Bitcoin’e kuşku ile bakan oldukça saygın kişiler var:
 
 ![Screenshot-2018-3-15_Paul_Krugman_on_Twitter.png](/assets/Screenshot-2018-3-15_Paul_Krugman_on_Twitter.png)
 
-(Gerçi Krugman’ın 1998 yılında yaptığı  “2005 yılına geldiğimizde, Internetin ekonomi üzerindeki etkisinin fax makinesininkinden büyük olmayacağı açıkça görülecek” şeklinde bir yorumu da [var](http://web.archive.org/web/19980610100009/www.redherring.com/mag/issue55/economics.html), belki de bu alandaki yorumlarını çok ciddiye almamak gerek ) 
+(Gerçi Krugman’ın 1998 yılında yaptığı  “2005 yılına geldiğimizde, Internetin ekonomi üzerindeki etkisinin fax makinesininkinden büyük olmayacağı açıkça görülecek” şeklinde bir yorumu da [var](https://web.archive.org/web/19980610100009/www.redherring.com/mag/issue55/economics.html), belki de bu alandaki yorumlarını çok ciddiye almamak gerek ) 
 * JP Morgan’ın başı Jamie Dimon’un Eylül 2017’de söylediği “Bitcoin sahtekârlık” [sözünü](https://www.cnbc.com/2017/09/12/jpmorgan-ceo-jamie-dimon-raises-flag-on-trading-revenue-sees-20-percent-fall-for-the-third-quarter.html) duymayan kalmadı (sonradan bunu sözden dolayı [utandığını belirterek](https://www.cnbc.com/2018/01/09/jamie-dimon-says-he-regrets-calling-bitcoin-a-fraud.html) kendini düzeltse de artık ilk söyledikleri damga gibi yapıştı üzerine). 
 
 Diğer tarafta Bitcoin’in ekonomik bir faydası olduğunu düşünenler de mevcut: 
-* Bill Gates daha 2014 yılında Bitcoin için “Teknolojik bir başyapıt” şeklinde bir düşüncesi olduğunu hem de Warren Buffett ile yaptığı tartışmada [söylüyor](http://video.foxbusiness.com/v/2359385547001/?#sp=show-clips)  
+* Bill Gates daha 2014 yılında Bitcoin için “Teknolojik bir başyapıt” şeklinde bir düşüncesi olduğunu hem de Warren Buffett ile yaptığı tartışmada [söylüyor](https://video.foxbusiness.com/v/2359385547001/?#sp=show-clips)  
 * Starbucks CEO’su Howard Schultz tam olarak Bitcoin için olmasa da Blockchain konusunda “Blockchain teknolojisinin bize tüketiciler için kullanılabilecek önemli seviyede dijital para sunacağını” [belirtiyor](https://www.bloomberg.com/news/articles/2018-01-26/starbucks-chairman-big-on-cryptocurrency-just-maybe-not-bitcoin) 
 * Japon Merkez Bankası Başkanı Mart 2018'deki G20 toplantısında gazetecilere "[KriptoParalar finansal sistemler için bir artıdır](https://www.zerohedge.com/news/2018-03-19/bitcoin-spikes-after-bojs-kuroda-praises-cryptocurrencies)" şeklinde bir yorum yaptı. 
 * Ünlü McAfee virüs programlarının kurucusu John McAfee’nin iddiası ise [2020 yılında Bitcoin 500 bin ABD Doları’na çıkmazsa vücudunun bir organının yiyeceği](https://twitter.com/officialmcafee/status/935900326007328768) şeklinde 

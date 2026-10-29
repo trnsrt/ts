@@ -17,7 +17,7 @@ Aslında gelir. Yatırım dünyasında (bunun KriptoPara olmasına gerek yok ser
 
 | ![dilbert-stock-market-640.png](/assets/dilbert-stock-market-640.png) | 
 |:--:| 
-| *İnglizcesi için [link](http://www.technologyinvestor.com/?p=29968)* |
+| *İnglizcesi için [link](https://www.technologyinvestor.com/?p=29968)* |
 
 &nbsp;
 

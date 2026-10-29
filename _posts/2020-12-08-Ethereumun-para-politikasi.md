@@ -97,7 +97,7 @@ Bitcoin için baktığınızda, kısıtlı arz ile birlikte artan talebin fiyat�
 
 Ethereum için talep argümanları farkı olmalı, zira Ethereum'un kendi parası ETH'nin BTC gibi değer saklama amacı yok. Dolayısı ile ETH'ye olan talebi, Ethereum sisteminin kullanım oranı belirleyecek. 2020 yılı ortalarında merkeziyetsiz finans alanındaki hemen hemen her uygulamanın Ethereum üzerinde yapılması bu sisteme olan talebi, dolayısıyla ETH fiyatını olumlu şekilde etkiledi. Bundan sonra talebi etkileyecek olan  Ethereum geliştiricilerinin yapacakları teknik gelişmeler ile yeni çıkacak uygulamaların ihtiyaçları karşılayıp karşılamayacağı olacak. 
 
-*Kaynaklar: Yazı içinde kullanılan her bir kaynağa, ilgili yerde bulunan linkten ulaşabilirsiniz. Konu ile ilgili teknik olarak yazılmış ayrıntılı bir rapor için Messari sitesindeki [ETH 2.0 Primer](https://messari.io/road-to-eth2)'e de göz atabilirsiniz. Bunun yanında EIP 1559 ile ilgili olarak Columbia Universitesi'nden Tim Rough Garden'in yazdığı şu [araştırma makalesine (pdf)](http://timroughgarden.org/papers/eip1559.pdf) göz atabilirsiniz*
+*Kaynaklar: Yazı içinde kullanılan her bir kaynağa, ilgili yerde bulunan linkten ulaşabilirsiniz. Konu ile ilgili teknik olarak yazılmış ayrıntılı bir rapor için Messari sitesindeki [ETH 2.0 Primer](https://messari.io/road-to-eth2)'e de göz atabilirsiniz. Bunun yanında EIP 1559 ile ilgili olarak Columbia Universitesi'nden Tim Rough Garden'in yazdığı şu [araştırma makalesine (pdf)](https://timroughgarden.org/papers/eip1559.pdf) göz atabilirsiniz*
 
 ---
 

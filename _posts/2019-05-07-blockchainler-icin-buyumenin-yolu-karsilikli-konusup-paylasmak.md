@@ -18,7 +18,7 @@ Farklılıkları detaylarda. Çok teknik konulara girmeden kim olduklarını, or
 
 <img alt="Polkadot logosu" align="left" src="/assets/polkadot_v1.png">
 
-[Polkadot](https://polkadot.network/), Ethereum'un kurucularından ve ana gelişticilerinden [Gavin Wood](http://gavwood.com/)'un çocuğu. Gavin sonradan görüş ayrılığına düştüğü Ethereum Foundation'ı bırakarak Polkadot üzerine yoğunlaşmaya karar veriyor.
+[Polkadot](https://polkadot.network/), Ethereum'un kurucularından ve ana gelişticilerinden [Gavin Wood](https://gavwood.com/)'un çocuğu. Gavin sonradan görüş ayrılığına düştüğü Ethereum Foundation'ı bırakarak Polkadot üzerine yoğunlaşmaya karar veriyor.
 
 Her ne kadar 2014 yılına kadar uzanan bir geçmişi olsa da, Polkadot'un asıl yazılım süreci 2017 yılının sonlarında [başlıyor](https://medium.com/polkadot-network/polkadot-2018-recap-677dab3e995b). Öncesinde ise Ekim 2017'de 144 Milyon ABD Doları token satışı ile fonlama [topluyorlar](https://cointelegraph.com/news/new-startup-from-ethereum-co-founder-gavin-wood-plans-60-million-ico-wsj). Tabii sadece Gavin değil sürecin içinde olan. Polkadotun arkasında [Parity](https://www.parity.io/) ve [Web3](https://web3.foundation/) isimli iki yapı var. "İyi güzel de kim bunlar?" derseniz:
 
