@@ -22,7 +22,7 @@ Bitcoin'i bir ödeme sistemi olarak ölçeklemek için oldukça fonksiyonel olan
 
 ### Peki nasıl yapılacak bu çözümler?
 
-Bitcoin'in daha geniş kesimlerce kullanılması için üzerinde sadece para transferi değil her tür işlem yapılabilmesi gerekiyor. Ancak [bir önceki yazımızda](genel/2024/06/25/bitcoin-uzerine-cozumler-1.html) da belirttiğimiz gibi Bitcoin'in üzerinde akıllı kontrat çalıştırabilmek mümkün değil daha doğrusu çok çok sınırlı.
+Bitcoin'in daha geniş kesimlerce kullanılması için üzerinde sadece para transferi değil her tür işlem yapılabilmesi gerekiyor. Ancak [bir önceki yazımızda](/genel/2024/06/25/bitcoin-uzerine-cozumler-1.html) da belirttiğimiz gibi Bitcoin'in üzerinde akıllı kontrat çalıştırabilmek mümkün değil daha doğrusu çok çok sınırlı.
 
 Peki ya Ethereum'da olduğu gibi ikinci seviye çözümler ile Bitcoin'i ölçeklendirsek? Onda da en büyük problem, Bitcoin’in kendi üzerinde çalışacak herhangi bir çözümü destekleyecek bir ortam sunmuyor olması. Ne demek tam olarak bu? Kısaca açıklayalım:
 

@@ -304,7 +304,7 @@ Gösterdiğiniz ilgiye teşekkürler!
 | 245 | ["Pyth Network"](https://www.pyth.network/) |
 | 245 | ["kullanmakta"](https://ethena-labs.gitbook.io/ethena-labs/solution-design/use-of-oracles) |
 | 247 | ["%20 oranında bir faiz uyguluyor"](https://app.morpho.org/market?id=0xc581c5f70bd1afa283eed57d1418c6432cbff1d862f94eaf58fdd4e46afbb67f) |
-| 252 | ["Delphi Digital"](https://turansert.com/genel/2022/05/20/delphidigital.io) |
+| 252 | ["Delphi Digital"](https://delphidigital.io) |
 | 252 | ["öz eleştiride"](https://members.delphidigital.io/reports/learnings-from-last-week/) |
 | 254 | ["aptallıkla suçlayacak"](https://twitter.com/stablekwon/status/1464897977793728514?s=20&t=jbrCdOsCTMywLNKXSYk-vA) |
 | 254 | ["Galaxy Digital"](https://www.galaxydigital.io/) |
@@ -346,7 +346,7 @@ Gösterdiğiniz ilgiye teşekkürler!
 | 279 | ["lansmanı yapılan"](https://www.lemonade.com/blog/crypto-climate-coalition/) |
 | 279 | ["Lemonade Foundation"](https://lemonade.org/) |
 | 279 | ["Avalanche"](https://www.avax.network/) |
-| 279 | ["Chainlink"](https://turansert.com/genel/2023/03/31/chain.link) |
+| 279 | ["Chainlink"](https://chain.link) |
 | 279 | ["DAOStack"](https://daostack.io/) |
 | 279 | ["Hannover Re"](https://www.hannover-re.com/) |
 | 279 | ["Pula"](https://www.pula-advisors.com/) |

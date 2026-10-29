@@ -8,7 +8,7 @@ image: /assets/purse-420917_640.jpg
 
 
 
-Geçtiğimiz iki yazıda, önce KriptoBorsalar'dan [nasıl KriptoPara alabileceğimize](/genel/2018/10/04/kriptoborsalarda-nasil-islem-yaparim.html), sonraki yazıda ise [KriptoCüzdan ne demek](/genel/2018/10/18/KriptoParaniz-KriptoCuzdan-ile-guvende.html) ona bakmıştık. Bu yazımızda ise KriptoCüzdan çeşitlerine bakacağız.
+Geçtiğimiz iki yazıda, önce KriptoBorsalar'dan [nasıl KriptoPara alabileceğimize](/genel/2018/10/04/kriptoborsalarda-nasil-islem-yaparim.html), sonraki yazıda ise [KriptoCüzdan ne demek](/genel/2018/10/11/KriptoParaniz-KriptoCuzdan-ile-guvende.html) ona bakmıştık. Bu yazımızda ise KriptoCüzdan çeşitlerine bakacağız.
 
 
 

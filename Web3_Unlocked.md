@@ -199,7 +199,7 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 
 [complex wealth transfer within the ecosystem](https://www.esma.europa.eu/sites/default/files/2025-07/ESMA50-481369926-29744_Maximal_Extractable_Value_Implications_for_crypto_markets.pdf)  
 
-[destroyed]([https://paxful.com/university/ethereum-burn-explained](https://omni.app/learn/ethereum-burn-explained))  
+[destroyed](https://omni.app/learn/ethereum-burn-explained)  
 
 [battle](https://cryptodamus.io/en/articles/news/eip-1559-eth-burning-why-ethereum-is-still-inflationary-shocking-data-inside)  
 

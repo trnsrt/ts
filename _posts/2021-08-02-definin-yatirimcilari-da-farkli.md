@@ -33,7 +33,7 @@ Nasıl yatırım yapıyorlar? Burada birkaç farklı yol var. Birincisi, girişi
 
 Öncelikle, dijital dünyada yapılmış bir anlaşmanın hangi fiziki ülke sınırları içinde olacağını belirlemek zor. Kimi zaman, daha çok, nispeten daha olgun girişimlerde, girişimi kuranlar bir vakıf altında bir araya gelip kendilerine kanuni bir statü kazandırabiliyorlar. Böyle durumlarda bir ülke kanunları ile belli yaptırımları sağlamak mümkün olabiliyor. Ama pek çok girişimde, özellikle yeni kurulanlarda böyle bir olanak yok. 
 
-Öte yandan, yeni girişimlerin pek çoğunda karşıda bir muhatap yok. Örneğin, kripto dünyasının en büyük opsiyon piyasalarından [Hegic](https://www.hegic.co)'in kurucusu [Molly Wintermute](twitter.com/0mllwntrmt3) takma adlı bir kişi. Gerçek dünyada ortaya çıkmayan bu kişilik, buna rağmen Hegic için ilk token dağıtımında %20 payı ilk yatırımcılara vermiş durumda.  
+Öte yandan, yeni girişimlerin pek çoğunda karşıda bir muhatap yok. Örneğin, kripto dünyasının en büyük opsiyon piyasalarından [Hegic](https://www.hegic.co)'in kurucusu [Molly Wintermute](https://x.com/0mllwntrmt3) takma adlı bir kişi. Gerçek dünyada ortaya çıkmayan bu kişilik, buna rağmen Hegic için ilk token dağıtımında %20 payı ilk yatırımcılara vermiş durumda.  
 
 Bir başka örnek, startup dünyasının ağır toplarından [a16z](https://a16z.com/)'nin kripto [fonunun](https://a16z.com/crypto/) başındaki [Chris Dixon](https://cdixon.org/)'un bir [podcast yayınında](https://shows.banklesshq.com/p/the-fourth-crypto-cycle-chris-dixon), kurucu ekibinin tanımadıkları bir kripto girişimine yatırım yapabileceklerini söylemesi. Bunun temel nedeni ise, **yapılan yatırımın bir şirkete ya da ekibe değil, token satın alarak bir ağa yapılıyor olması**.
 

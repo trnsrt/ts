@@ -11,7 +11,7 @@ Bu yazımızda, Hollywood yıldızı Seth Green'in sahip olduğu NFT'nin çalın
 
 | ![fear](/assets/fear-1172407_800.jpg)|
 |:--:| 
-| *Image by [ErikaWittlieb]([https://pixabay.com/users/misskursovie2013-6341223/](https://pixabay.com/users/erikawittlieb-427626/)) from [Pixabay](https://pixabay.com/)*|
+| *Image by [ErikaWittlieb](https://pixabay.com/users/erikawittlieb-427626/) from [Pixabay](https://pixabay.com/)*|
 
 ### Neler oldu?
 [Seth Green](https://en.wikipedia.org/wiki/Seth_Green), Austin Powers filminde Dr. Evil'in oğlunu canlandırdığı [Scott Evil](https://www.imdb.com/title/tt0118655/characters/nm0001293) karakteriyle üne kavuşmuş bir Hollywood aktörü. Sanat ve eğlence dünyasındaki pek çok ünlü gibi yeni teknolojilere ilgili biri ve geçtiğimiz seneden beri NFT'lere [merak salmış](https://opensea.io/SethGreen) durumda. Koleksiyonu içindeki en pahalı ve nadir eserlerden biri de daha önce yazılarımızda sıkça bahsettiğimiz [Bored Ape Yacht Club'ın (BAYC) 8398 numaralı üyesi olan](https://opensea.io/assets/ethereum/0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d/8398) aşağıda gördüğünüz maymun (idi). 
@@ -47,7 +47,7 @@ CryptoPunks sahipleri eserlerinin dijital haklarına sahipken fiziki dünyada ku
 
 BAYC'de böyle bir kısıtlama olmaması nedeniyle, BAYC sahiplerinin eserlerini t-shirt olarak basmanın çok ötesinde eserlerinin isimleri ile [restoran açtıklarını](https://decrypt.co/98741/bored-hungry-we-check-it-out), metaverse dünyasında [grup kurduklarını](https://decrypt.co/85863/universal-metaverse-band-bored-ape-yacht-club-nfts) gördük. Hatta geçtiğimiz hafta çıkan bir habere göre ünlü rapçı Snoop Dog da NFT'si adına bir [tatlıcı açmaya](https://www.btchaber.com/snoop-dogg-bored-ape-nft-temali-tatli-restorani-acacak/) karar verdiğini açıkladı.
 
-Buradaki temel sorun ise, olası bir çalınma durumunda lisans haklarının da eseri 'çalana' geçiyor olması. Zira [lisans sözleşmesinde]((https://boredapeyachtclub.com/#/terms)) 'çalınma' gibi istisnai durumlarda ne olacağı belirtilmemiş. İşte bu nedenle ortada bir 'gri alan' söz konusu. Neden? Gelin ona da bakalım. 
+Buradaki temel sorun ise, olası bir çalınma durumunda lisans haklarının da eseri 'çalana' geçiyor olması. Zira [lisans sözleşmesinde](https://boredapeyachtclub.com/#/terms) 'çalınma' gibi istisnai durumlarda ne olacağı belirtilmemiş. İşte bu nedenle ortada bir 'gri alan' söz konusu. Neden? Gelin ona da bakalım. 
 
 Tartışmanın bir tarafında Seth Green var. Green, çalınmış bir eseri para ile satın alan kişinin eserin telif haklarına sahip olamayacağını [iddia ediyor](https://twitter.com/SethGreen/status/1529187693984329728). Bu nedenle, eserin sahibi olarak görünen DarkWing84'i dava etmeye hazır olduğunu ama öncesinde müzakereye açık olduğunu da belirtiyor. 
 
