@@ -39,6 +39,6 @@ What NFT would bring is the ease of transfer from one person to the other. You c
 We will continue to explore the benefits of NFT in our future posts... 
 
 ---
-*This piece was [first published]() in [BlockchainIST Center](https://medium.com/blockchainist-center) on November 21st, 2022.*
+*This piece was [first published](https://medium.com/bcistcenter/benefits-of-nfts-iv-276713b1277c) in [BlockchainIST Center](https://medium.com/blockchainist-center) on November 21st, 2022.*
 
 *None of the views expressed in this article should be considered as investment advice*

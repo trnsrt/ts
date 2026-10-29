@@ -25,7 +25,7 @@ Dolayısıyla, blokzincir teknolojisinin hayata geçmesi için ya sektörün tam
 
 | ![elephants](/assets/elephant-3675670_800.jpg)|
 |:--:| 
-| *Image by [Christel SAGNIEZ](https://https://pixabay.com/users/christels-3741991/) from [Pixabay](https://pixabay.com/)*|
+| *Image by [Christel SAGNIEZ](https://pixabay.com/users/christels-3741991/) from [Pixabay](https://pixabay.com/)*|
 
 **Oyun ve sosyal medya:** Zaten dijital doğmuş, aracıların özellikle kullanıcılara ait bilgileri kullandığı ve manipüle ettiği bir pazar. Ortaya çıkan katma değer, ya stüdyolar ya da sosyal medya aracıları tarafından parsellenmiş durumda. Yeni başlayan play-to-earn modeller ile bu alana Web 3'ün sızması başladı bile. Bundan sonraki büyük savaş Facebook gibi donanımlı güçler ile DAO benzeri merkeziyetsiz oluşumlar arasında geçecek gibi görünüyor. 
 

@@ -33,6 +33,6 @@ All in all, this creates a virtuous circle. The more value collectors get from t
 As you see there are several additional benefits that NFTs would bring to the table. Some might consider it vague or even marginal, but to those in teh art world the effects of such benefits are enormous. We will continue to explore the benefits of NFT in our future posts…
 
 ---
-*This piece was [first published]() in [BlockchainIST Center](https://medium.com/blockchainist-center) on December 17th, 2022.*
+*This piece was [first published](https://medium.com/bcistcenter/benefits-of-nfts-v-8a1a6af99033) in [BlockchainIST Center](https://medium.com/blockchainist-center) on December 17th, 2022.*
 
 *None of the views expressed in this article should be considered as investment advice*

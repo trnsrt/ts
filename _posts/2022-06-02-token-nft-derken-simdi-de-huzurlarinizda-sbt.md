@@ -36,7 +36,7 @@ SBT yani Türkçesiyle 'devredilemez token', kişilerin sahip oldukları tokenle
 
 | ![chain](/assets/pendant-941232_800.jpg)|
 |:--:| 
-| *Image by [Erika Fulop](https://[pixabay.com/users/geralt-9301/](https://pixabay.com/users/efulop-97816/)) from [Pixabay](https://pixabay.com/)*|
+| *Image by [Erika Fulop](https://pixabay.com/users/efulop-97816/) from [Pixabay](https://pixabay.com/)*|
 
 İyi de neden böyle bir özelliğe ihtiyaç duyarız?  
 

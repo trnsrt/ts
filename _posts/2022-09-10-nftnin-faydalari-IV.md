@@ -9,9 +9,9 @@ image: /assets/music-5110528_800.jpg
 
 NFT'nin bir sanat eserine katabileceği faydalara değinen dizimizin son bölümü ile karşınızdayız. 
 
-Yazı dizimizin [ilk bölümünde](/genel/2022/08/10/nftnin-faydalari-III.html), bir sanat eserinin değerinin nasıl oluştuğuna ve orjinalliğinin NFT'ler ile nasıl teyit edilebileceğine bakmıştık. [İkinci bölümde]() ise eserin üretici sanatçıdan sonra ait olduğu koleksiyonların ona kattığı değere ve NFT'nin bu takibi nasıl kolaylaştırabileceğine değinmiştik. 
+Yazı dizimizin [ilk bölümünde](/genel/2022/08/10/nftnin-faydalari-III.html), bir sanat eserinin değerinin nasıl oluştuğuna ve orjinalliğinin NFT'ler ile nasıl teyit edilebileceğine bakmıştık. [İkinci bölümde](/genel/2022/06/25/NFTnin-faydalari-2.html) ise eserin üretici sanatçıdan sonra ait olduğu koleksiyonların ona kattığı değere ve NFT'nin bu takibi nasıl kolaylaştırabileceğine değinmiştik. 
 
-Geçtiğimiz [üçüncü bölümde]() ise NFT'nin programlanabilme özelliği sayesinde, sanatçıların eserin sonraki satışlarından da pay alabilmeleri, ya da eseri satın alanların sahip oldukları NFT belgesini küçük parçalara ayırarak daha geniş bir kitlenin nasıl eserin sahibi olabildiğine göz gezdirmiştik.
+Geçtiğimiz [üçüncü bölümde](/genel/2022/08/10/nftnin-faydalari-III.html) ise NFT'nin programlanabilme özelliği sayesinde, sanatçıların eserin sonraki satışlarından da pay alabilmeleri, ya da eseri satın alanların sahip oldukları NFT belgesini küçük parçalara ayırarak daha geniş bir kitlenin nasıl eserin sahibi olabildiğine göz gezdirmiştik.
 
 Bu bölümümüzde ise resim benzeri sanat eserleri dışında diğer alanlarda NFT'lerin yaratabileceği yeni potansiyellere değineceğiz. 
 
