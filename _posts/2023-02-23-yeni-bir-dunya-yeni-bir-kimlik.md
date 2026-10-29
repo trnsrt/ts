@@ -47,7 +47,7 @@ Gördüğünüz gibi, Urbit'in bize sunmaya çalıştığı bir blokzincirin dah
 
 ### Sorular, sorular
 
-Urbit'in ilgi çeken yanı, Web3 dünyasının gerekliliklerine göre temelden dizayn edilmiş olması. Kulağa oldukça hoş geliyor ama bu projelerin kısa vadede başarıya ulaşması oldukça zor. Urbit'in kısa vadede başarı gibi bir amacı olmadığını, mevcut altyapının son kullanıcıya ulaşması için [en az iki yıla ihtiyaçları olduğunu](https://roadmap.urbit.org/) belirtelim. Yine de bu yavaşlığa rağmen sundukları vizyon, belki de uzun vadede tüm merkeziyetsiz projelerin düşünmesi ve yol alması gereken bir hedef. 
+Urbit'in ilgi çeken yanı, Web3 dünyasının gerekliliklerine göre temelden dizayn edilmiş olması. Kulağa oldukça hoş geliyor ama bu projelerin kısa vadede başarıya ulaşması oldukça zor. Urbit'in kısa vadede başarı gibi bir amacı olmadığını, mevcut altyapının son kullanıcıya ulaşması için [en az iki yıla ihtiyaçları olduğunu](https://web.archive.org/web/20230219170841/https://roadmap.urbit.org/) belirtelim. Yine de bu yavaşlığa rağmen sundukları vizyon, belki de uzun vadede tüm merkeziyetsiz projelerin düşünmesi ve yol alması gereken bir hedef. 
 
 ### Sonuç
 

@@ -38,7 +38,7 @@ Malum, dijital dünyanın fiziksel dünyaya göre avantajı işlerinizi daha hı
 
 Aragon üzerine kurulu olan DAO'ların olması gereken üç temel özellik var. Üyelik ve oylama hakkı için bir **token**, grubun sahip olduğu varlıkları korumak için bir **cüzdan** ve her tür oylama sonucu oluşan kararı ve işlemleri takip etmek için bir **blokzincir**. 
 
-İşte bu üç temel özelliği ihtiyacınıza göre şekillendirerek gruplar kurabilir, projeler ortaya çıkarabilirsiniz. Temmuz 2020'ye kadar bu şekilde [Aragon üzerinde kurulmuş 5,700 üyeye sahip 1,400'ün üzerinde DAO ](https://poweredby.aragon.org/) var ve bu yapılar yaklaşık 19 Milyon ABD Dolarına eşdeğer bir dijital varlığı cüzdanlarında tutuyorlar. 
+İşte bu üç temel özelliği ihtiyacınıza göre şekillendirerek gruplar kurabilir, projeler ortaya çıkarabilirsiniz. Temmuz 2020'ye kadar bu şekilde [Aragon üzerinde kurulmuş 5,700 üyeye sahip 1,400'ün üzerinde DAO ](https://web.archive.org/web/20200719233041/https://poweredby.aragon.org/) var ve bu yapılar yaklaşık 19 Milyon ABD Dolarına eşdeğer bir dijital varlığı cüzdanlarında tutuyorlar. 
 
 Tabii projeleri kurmak nispeten kolay. Asıl büyük sorun genelde üyeler arasında anlaşmazlıklar çıktığında oluyor. Fiziksel dünyada sorunlar çözülmez ise mahkemeye gidiyorsunuz. Burada? Aragon'un bu tip sorunlar için de ilginç bir çözümü var: 
 

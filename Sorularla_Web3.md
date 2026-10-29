@@ -134,7 +134,7 @@ Gösterdiğiniz ilgiye teşekkürler!
 | 192 | ["Mastadon"](https://mastodon.social/explore) |
 | 192 | ["bu listedeki isimlerden"](https://github.com/2gatherproject/decentralized-social-apps-guide) |
 | 193 | ["mümkün"](https://web.archive.org/web/20240820051123/https://docs.farcaster.xyz/developers/frames/) |
-| 193 | ["eklenebiliyor"](https://goldrush.dev/docs/unified-api/guides/what-is-decentralized-social-lens-farcaster-and-others/) |
+| 193 | ["eklenebiliyor"](https://web.archive.org/web/20240807085901/https://goldrush.dev/docs/unified-api/guides/what-is-decentralized-social-lens-farcaster-and-others/) |
 | 195 | ["Cambridge Analytica"](https://tr.wikipedia.org/wiki/Facebook-Cambridge_Analytica_veri_skandal%C4%B1) |
 | 197 | ["Ontology"](https://ont.io/) |
 | 197 | ["SelfKey"](https://selfkey.org/) |
@@ -152,7 +152,7 @@ Gösterdiğiniz ilgiye teşekkürler!
 | 207 | ["Credit Nature"](https://creditnature.com/) |
 | 207 | ["EthicHub"](https://www.ethichub.com/en) |
 | 207 | ["yardımcı oluyor"](https://www.engage.hoganlovells.com/knowledgeservices/news/where-finance-digital-sustainability-and-impact-meet-what-is-regenerative-finance-refi) |
-| 207 | ["desteklemekten"](https://rsfsocialfinance.org/get-funding/meet-the-entrepreneurs-2/) |
+| 207 | ["desteklemekten"](https://web.archive.org/web/20240911001955/https://rsfsocialfinance.org/get-funding/meet-the-entrepreneurs-2/) |
 | 207 | ["götürmeye"](https://www.ethichub.com/en) |
 | 208 | ["Akbank Lab"](https://www.akbanklab.com/tr/ana-sayfa) |
 | 208 | ["imece"](https://imece.com/) |
@@ -186,7 +186,7 @@ Gösterdiğiniz ilgiye teşekkürler!
 | 223 | ["Vana"](https://www.vana.org/) |
 | 223 | ["NVG8"](https://nvg8.io/) |
 | 223 | ["Dria"](https://dria.co/) |
-| 223 | ["Mizu"](https://mizu.global/) |
+| 223 | ["Mizu"](https://web.archive.org/web/20241123105901/https://mizu.global/) |
 | 223 | ["Grass"](https://www.getgrass.io/) |
 | 223 | ["Synesis One"](https://www.synesis.one/) |
 | 223 | ["First Batch"](https://www.firstbatch.xyz/) |
@@ -256,7 +256,7 @@ Gösterdiğiniz ilgiye teşekkürler!
 | 230 | ["Marlin"](https://www.marlin.org/) |
 | 230 | ["Chainlink"](https://chain.link/) |
 | 230 | ["Ora"](https://www.ora.io/) |
-| 230 | ["OpenLayer"](https://www.openlayer.tech/) |
+| 230 | ["OpenLayer"](https://web.archive.org/web/20241009183739/https://www.openlayer.tech/) |
 | 230 | ["Pond"](https://cryptopond.xyz/) |
 | 230 | ["RPS"](https://www.rpslabs.io/) |
 | 230 | ["Nous"](https://nousresearch.com/) |
@@ -318,7 +318,7 @@ Gösterdiğiniz ilgiye teşekkürler!
 | 259 | ["Zhu Su"](https://twitter.com/zhusu) |
 | 259 | ["Kyle Davies"](https://twitter.com/kyleldavies) |
 | 259 | ["tarafından Singapur’da"](https://en.wikipedia.org/wiki/Three_Arrows_Capital) |
-| 259 | ["Three Arrows Capital"](https://www.threearrowscap.com/about-us/) |
+| 259 | ["Three Arrows Capital"](https://web.archive.org/web/20220711133355/https://www.threearrowscap.com/about-us/) |
 | 260 | ["Lido Finance"](https://lido.fi/) |
 | 260 | ["stETH"](https://www.coingecko.com/en/coins/lido-staked-ether) |
 | 262 | ["geriledi"](https://ycharts.com/companies/GBTC/discount_or_premium_to_nav) |
@@ -371,7 +371,7 @@ Gösterdiğiniz ilgiye teşekkürler!
 | 292 | ["olarak belirlendi"](https://www.aa.com.tr/tr/bilim-teknoloji/nftnin-turkce-karsiligi-nitelikli-fikri-tapu-olarak-belirlendi/2570316) |
 | 295 | ["Tokenization of Off-Chain Assets- Presented by Avalanche and Ava Labs"](https://www.theblock.co/post/241500/tokenization-of-off-chain-assets-presented-by-avalanche-and-ava-labs) |
 | 296 | ["mümkün hale geliyor"](https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-tokenization) |
-| 296 | ["Finoa"](https://www.finoa.io/blog/cost-savings-tokenization/) |
+| 296 | ["Finoa"](https://web.archive.org/web/20250122115015/https://www.finoa.io/blog/cost-savings-tokenization/) |
 | 297 | ["Tokenization of Off-Chain Assets- Presented by Avalanche and Ava Labs"](https://www.theblock.co/post/241500/tokenization-of-off-chain-assets-presented-by-avalanche-and-ava-labs) |
 | 307 | ["Compound"](https://compound.finance/) |
 | 307 | ["Uniswap"](https://app.uniswap.org/) |

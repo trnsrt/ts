@@ -38,7 +38,7 @@ Kripto para dünyasında da buna benzer bir durum gerçekleşti. Başta bireyler
 
 Aslında uzunca bir süredir pek çok devlet perde arkasında dijital paralar ile ilgili çalışmalar yapıyordu. Ancak 2019 yılında konu birdenbire gündeme oturdu.  
 
-Peki neden şimdi duymaya başladık? Çünkü ufak tefek bir azınlığa hitap eden kripto paralar (dünyanın sadece %1’inin bir şekilde kriptolara ‘bulaştığı’ [tahmin ediliyor](https://ethereumworldnews.com/bitcoin-btc-super-bullish-in-use-by-less-than-one-percent-of-world-population/)) kamuoyu için sinek vızıltısından farksızdı işin doğrusu. Ama Facebook’un Librası konuyu bir anda ekonomik gündemin en önlerine taşıdı. 
+Peki neden şimdi duymaya başladık? Çünkü ufak tefek bir azınlığa hitap eden kripto paralar (dünyanın sadece %1’inin bir şekilde kriptolara ‘bulaştığı’ [tahmin ediliyor](https://web.archive.org/web/20191119200317/https://ethereumworldnews.com/bitcoin-btc-super-bullish-in-use-by-less-than-one-percent-of-world-population/)) kamuoyu için sinek vızıltısından farksızdı işin doğrusu. Ama Facebook’un Librası konuyu bir anda ekonomik gündemin en önlerine taşıdı. 
 
 Neden? Pek çok nedeni var ama öncelikle Facebook gibi dünyanın her köşesinde 3 milyara yakın insanın kullandığı bir devin kripto para piyasasına giriyor olması, insanların hükümetlere “peki siz ne yapıyorsunuz?” diye hesap sormasına neden oluyor. Unutmayalım; ne kadar güçlü görünüyor olsalar da hükümetler de sonuç olarak PR çalışması yapmak zorundalar. Peki ne gibi tepkiler geldi Libra açıklaması sonrası?
 

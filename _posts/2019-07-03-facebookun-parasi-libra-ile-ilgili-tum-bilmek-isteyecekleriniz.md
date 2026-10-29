@@ -12,7 +12,7 @@ Artık sağır sultan bile duydu herhalde: Facebook, kripto para piyasasına Lib
 
 Bir paragrafta özetleyelim: 
 
-- Facebook, [27 diğer kurum](https://libra.org/en-US/partners/) ile birlik olarak merkezi Cenevre'de bulunan [bir vakıf kuruyor](https://libra.org/en-US/association/). 
+- Facebook, [27 diğer kurum](https://web.archive.org/web/20190703200846/https://libra.org/en-US/partners/) ile birlik olarak merkezi Cenevre'de bulunan [bir vakıf kuruyor](https://web.archive.org/web/20190703200847/https://libra.org/en-US/association/). 
 - Bu vakıf 2020 yılında Libra adında bir Blockchain kurarak aynı adlı bir kripto para çıkaracak. 
 - Bu para, aslında %100 dolar ve benzeri paralardan oluşan bir sepet ile desteklenen bir [SabitPara](/genel/2018/07/20/Orasi-cok-dalgali-sakin-sulara-gel-sabitparalar.html) (stable coin). 
 - Kişiden kişiye para transferi dışında, Facebook sistemi içindeki pek çok hizmet alımının karşılığında ödeme olarak da kullanılabilecek (ortaklar, örneğin Uber için de geçerli bu). 
@@ -22,7 +22,7 @@ Bir paragrafta özetleyelim:
 |:--:| 
 | *Libra, Eski Romalı ağırlık ölçüsü biriminden esinlenme (Kaynak: [Pixabay](https://pixabay.com/images/id-1299238/))* | 
 
-Tanıtım Dokümanının İngilizcesine [buradan](https://libra.org/en-US/white-paper/) Türkçesine ise [Ebru Güven](https://medium.com/@tasebru)'in çevirisi ile [şuradan](https://t.co/SUMobWOpcg) ulaşabilirsiniz. 
+Tanıtım Dokümanının İngilizcesine [buradan](https://web.archive.org/web/20190703074516/https://libra.org/en-US/white-paper/) Türkçesine ise [Ebru Güven](https://medium.com/@tasebru)'in çevirisi ile [şuradan](https://t.co/SUMobWOpcg) ulaşabilirsiniz. 
 
 ### Facebook neden kripto para dünyasına giriyor?
 

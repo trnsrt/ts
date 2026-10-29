@@ -48,7 +48,7 @@ Yuga Labs'in PR aktiviteleri dışında büyümesine katkı veren en önemli kon
 
 Yuga Labs kendisini metaverse'in içindeki önemli oyunculardan biri olarak pozisyonlamaya çalışıyor. Bu nedenle yukarıdaki üç gelişmenin (artı bir önceki yazıda bahsettiğimiz CryptoPunks satın almasının) kendi içinde bir tutarlılığı var. Her gelişme, Yuga Labs'in metaverse içinde kendi kendine yetecek büyük bir ekosistem olmasının yolundaki yapı taşları. 
 
-[Animoca Brands](https://www.animocabrands.com/) ile açıklanan işbirliği, [Otherside](https://somethingisbrewing.xyz/) adında metaverse içinde arazi satışı. Proje ile ilgili bilinenler bir [fragman](https://www.youtube.com/watch?v=qt1equGhkQE) 'teaser' film ve projenin KYC isteyen bir [websitesi](https://somethingisbrewing.xyz/). Yuga Labs'ın yatırım turuna çıktığı dokümandan öğrendiğimize göre bu metaverse içerisinde 100,000 parça arazi satılacak. 
+[Animoca Brands](https://www.animocabrands.com/) ile açıklanan işbirliği, [Otherside](https://web.archive.org/web/20220331070735/https://somethingisbrewing.xyz/) adında metaverse içinde arazi satışı. Proje ile ilgili bilinenler bir [fragman](https://www.youtube.com/watch?v=qt1equGhkQE) 'teaser' film ve projenin KYC isteyen bir [websitesi](https://web.archive.org/web/20220331070735/https://somethingisbrewing.xyz/). Yuga Labs'ın yatırım turuna çıktığı dokümandan öğrendiğimize göre bu metaverse içerisinde 100,000 parça arazi satılacak. 
 
 &nbsp;
 

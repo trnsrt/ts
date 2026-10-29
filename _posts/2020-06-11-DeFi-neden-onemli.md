@@ -43,7 +43,7 @@ Peki ya bizden aldıkları, sonra kampanya benzeri taktikler ile izin koparıp p
 
 Keza [sistemlerin hack edilmesi ve kredi kartı bilgilerinin çalınması](https://www.bbc.com/turkce/haberler-turkiye-50746265) da artık olağan karşılamaya başladığımız modern çağ problemleri arasında. 
 
-Bunlar mevcut kitle. Öte yandan hepimizin rahat yaşamları ardında göz ardı ettiğimiz çok büyük bir kesim daha var. Dünya Bankası tarafından 1.7 milyar kişi olduğu [tahmin edilen](https://www.worldbank.org/en/news/press-release/2018/04/19/financial-inclusion-on-the-rise-but-gaps-remain-global-findex-database-shows) finans sistemine erişimi olmayan kesim. Ya onlar ne olacak? Onların canı can değil mi? 
+Bunlar mevcut kitle. Öte yandan hepimizin rahat yaşamları ardında göz ardı ettiğimiz çok büyük bir kesim daha var. Dünya Bankası tarafından 1.7 milyar kişi olduğu [tahmin edilen](https://web.archive.org/web/20200605124513/https://www.worldbank.org/en/news/press-release/2018/04/19/financial-inclusion-on-the-rise-but-gaps-remain-global-findex-database-shows) finans sistemine erişimi olmayan kesim. Ya onlar ne olacak? Onların canı can değil mi? 
 
 #### Merkeziyetsiz Finans ne yapacak bunlara?
 İşte Merkeziyetsiz Finans - DeFi denen hareket, mevcut finans aktörlerden bambaşka bir oyun planı ile ortaya çıkıyor. Amaç dijital dünyada gerçekleşen finans işlemlerinde aracıların verdiği hizmeti dağıtık yapılara kaydırmak. Herhangi bir kişinin herhangi bir yerden borç alma, verme, sigorta alma, ya da dijital varlıklara yatırım yapabilmesine imkan vermek. 
