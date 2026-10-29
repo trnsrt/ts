@@ -8,7 +8,7 @@ image: /assets/Synthetix_locked_value_800.jpg
 ---
 
 
-Geçtiğimiz [yazıda](/genel/2020/08/20/defi-turev-piyasalari-nasil-oluyor.html) DeFi yani merkeziyetsiz finans alanında türev piyasası olur mu ona bakmış, bu piyasaların nasıl çalıştığını bu yazıya bırakmıştık. Gelin şimdi de 2020 yılının yaz aylarında bu alanın lideri haline gelen sentetik ürünler piyasası [Synthetix](https://www.synthetix.io/community)'i inceleyelim:
+Geçtiğimiz [yazıda](/genel/2020/08/20/defi-turev-piyasalari-nasil-oluyor.html) DeFi yani merkeziyetsiz finans alanında türev piyasası olur mu ona bakmış, bu piyasaların nasıl çalıştığını bu yazıya bırakmıştık. Gelin şimdi de 2020 yılının yaz aylarında bu alanın lideri haline gelen sentetik ürünler piyasası Synthetix'i inceleyelim:
 
 ### Synthetix ne yapar?
 
@@ -38,7 +38,7 @@ Klasik piyasalar yerine neden burada işlem yapsın bir kullanıcı? Bir önceki
 
 ### Ne tip ürünler var Synthetix'de?
 
-Beş ayrı kategori var: İtibari paralar, emtialar, kripto paralar, kripto para endeksleri ve kripto para fiyatlarını tersten izleyen inverse-kripto paralar.. Bu beş kategoride Ağustos 2020 itibariyle [32 adet ürün](https://dashboard.synthetix.io/) bulunuyor. [^1]
+Beş ayrı kategori var: İtibari paralar, emtialar, kripto paralar, kripto para endeksleri ve kripto para fiyatlarını tersten izleyen inverse-kripto paralar.. Bu beş kategoride Ağustos 2020 itibariyle 32 adet ürün bulunuyor. [^1]
 
 ### Peki sistemdeki ürünlerin fiyatlarını kim belirliyor?
 Sistemde iki taraf olmadığı ve yaratılan türev ürünlerin hepsi sistem içi ürünler olduğu için bu ürünlerin fiyatlarının belirlenmesinde, piyasa fiyatları göz önüne alınıyor. Merkezi olmayan sistemlerde piyasa fiyatlamaları genelde oracle denen dış (off-chain) bilgi sağlayıcılardan geliyor. Synthetix oracle olarak [Chainlink'i kullanıyor](https://blog.synthetix.io/chainlink-decentralizes-first-wave-of-synthetix-price-feeds/) ve piyasa bilgilerini her üç dakikada bir alıp güncelliyor. 
@@ -127,7 +127,7 @@ Bununla bağlantılı ikinci temel risk ise şu: yapılan işlemlerin ağırlık
 
 | ![SNX_price_2020](/assets/synthetix_distribution-640.jpg)|
 |:--:| 
-| *SNX ürünlerinin Ağustos 2020 itibariyle dağılımı [Kaynak](https://dashboard.synthetix.io/)*|
+| *SNX ürünlerinin Ağustos 2020 itibariyle dağılımı Kaynak*|
 
 Bu oran %100’lere yaklaşırsa ve aniden Bitcoin fiyatı iki katına çıkarsa o zaman bu işlem yapanlara havuz bu parayı nasıl ödeyecek? Paydaşlar havuza para koymaya devam edecekler mi? Yoksa “elimde tuttuğum SNX’ler feda olsun, ben borcumu ödemiyorum” deyip sistemden kaçabilirler mi?. Özellikle bir panik havası ile SNX'in değeri de düşemeye başlarsa. Elbette yukarıda bahsettiğimiz gibi teminat miktarı yaklaşık %700 oranlarında - bu endişeleri gidermekte bir miktar faydalı olabilir - keza %200'ün altında teminat oranlarında kontratın bozulup borcun kapanıyor olması da. Ancak yine de bu ani teminat düşüşlerinde risk olmadığı anlamına gelmiyor. 
 
@@ -155,7 +155,7 @@ Yukarıdaki iki konu gibi risk olmasa da sistem ile ilgili bir başka sıkıntı
 
 [^2]: *Kontratların nasıl likidite edileceği ile ilgili detaylı bilgiye [şu linkten](https://blog.synthetix.io/liquidation-faqs/#:~:text=Liquidation%20ratio%3A%20200%25,Liquidation%20penalty%3A%2010%25) ulaşabilirsiniz*
 
-[^3]: *Açılan işlemlerin dağılımını [Synthetix Dashboard](https://dashboard.synthetix.io/)'da alt tarafa doğru Synthetic Distribution tablosunda görebilirsiniz.* 
+[^3]: *Açılan işlemlerin dağılımını Synthetix Dashboard'da alt tarafa doğru Synthetic Distribution tablosunda görebilirsiniz.* 
 
 ---
 

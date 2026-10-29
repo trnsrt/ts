@@ -81,7 +81,7 @@ Gösterdiğiniz ilgiye teşekkürler!
 | 154 | ["Delphi Digital"](https://x.com/Delphi_Digital/status/1869463499530965052) |
 | 155 | ["TheBlock"](https://www.theblock.co/data/stablecoins/usd-pegged) |
 | 158 | ["öngörülüyor"](https://anlatilaninotesi.com.tr/20241119/2025e-dogru-yeni-nesil-para-biriminin-tum-detaylari-dijital-turk-lirasi-turkiye-icin-neden-oldukca-1090381254.html) |
-| 159 | ["110 kişinin çalıştığı"](https://www.apollo.io/companies/Tether-to/5569974e736964255dc85c00) |
+| 159 | "110 kişinin çalıştığı" |
 | 162 | ["Consensys"](https://web.archive.org/web/20231123035412/https://consensys.net/knowledge-base/defi/) |
 | 165 | ["IMF Global Study Report, April 2022, Sayfa 80"](https://www.imf.org/en/Publications/GFSR/Issues/2022/04/19/global-financial-stability-report-april-2022) |
 | 167 | ["adamın hikayesini"](https://pulitzercenter.org/stories/my-money-or-your-life-bank-robbers-beirut) |
@@ -122,7 +122,7 @@ Gösterdiğiniz ilgiye teşekkürler!
 | 191 | ["hey"](https://hey.xyz/) |
 | 191 | ["orb"](https://orb.ac/) |
 | 191 | ["Kaira"](https://kaira.network/) |
-| 191 | ["Bonsai"](https://www.bonsai.meme/) |
+| 191 | "Bonsai" |
 | 191 | ["Farcaster"](https://www.farcaster.xyz/) |
 | 191 | ["Warpcast"](https://warpcast.com/) |
 | 191 | ["Supercast"](https://www.supercast.xyz/) |
@@ -144,7 +144,7 @@ Gösterdiğiniz ilgiye teşekkürler!
 | 198 | ["Cambridge Analytica örneğinden"](https://tr.wikipedia.org/wiki/Facebook-Cambridge_Analytica_veri_skandal%C4%B1) |
 | 199 | ["veri depolama hizmeti veren Filecoin"](https://turansert.com/genel/2021/04/20/definin-merkeziyetsiz-deposu-filecoin.html) |
 | 199 | ["Helium"](https://www.helium.com/) |
-| 199 | ["Hivemapper"](https://hivemapper.com/explorer) |
+| 199 | "Hivemapper" |
 | 201 | ["Render"](https://rendernetwork.com/) |
 | 201 | ["peaq"](https://www.peaq.network/) |
 | 206 | ["ReFi Türkiye"](https://www.refiturkiye.com/) |
@@ -217,7 +217,7 @@ Gösterdiğiniz ilgiye teşekkürler!
 | 225 | ["LLama3"](https://ai.meta.com/blog/meta-llama-3/) |
 | 225 | ["Mistral"](https://mistral.ai/) |
 | 225 | ["Stability AI"](https://stability.ai/) |
-| 225 | ["Bagel Network"](https://www.bagel.net/) |
+| 225 | "Bagel Network" |
 | 225 | ["Arcium"](https://www.arcium.com/) |
 | 225 | ["ZAMA"](https://www.zama.ai/) |
 | 225 | ["Modulus Labs"](https://www.modulus.xyz/) |
@@ -264,7 +264,7 @@ Gösterdiğiniz ilgiye teşekkürler!
 | 230 | ["Prime Intellect"](https://www.primeintellect.ai/) |
 | 230 | ["Pluralis"](https://pluralis.ai/) |
 | 230 | ["Macrocosmos"](https://www.macrocosmos.ai/) |
-| 230 | ["Neuromesh"](https://www.nmesh.io/) |
+| 230 | "Neuromesh" |
 | 230 | ["Flock.io"](https://Flock.io) |
 | 230 | ["Morpheus"](https://morpheusdata.com/) |
 | 230 | ["Theoriq"](https://www.theoriq.ai/) |

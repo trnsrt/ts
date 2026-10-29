@@ -122,7 +122,7 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 <br>
 <b>Page 37:</b>
 
-[are solving this problem](https://encrypthos.com/question/can-smart-contract-wallets-truly-eliminate-the-need-for-seed-phrases-and-what-are-the-trade-offs/)  
+are solving this problem  
 
 <br>
 <b>Page 38:</b>
@@ -737,7 +737,7 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 
 [IoTeX](https://iotex.io/)  
 
-[incentivize suppliers to build out the network](https://web.archive.org/web/20241128174227/https://cointelegraph.com/explained/decentralized-physical-infrastructure-network-depin-explained)  
+incentivize suppliers to build out the network  
 
 <br>
 <b>Page 171:</b>

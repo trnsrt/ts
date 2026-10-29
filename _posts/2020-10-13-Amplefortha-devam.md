@@ -52,7 +52,7 @@ Bu nedenlerle Bitcoin benzeri bağımsız, sansürsüz ama bir yandan da fiyat v
 ### Nedir Ampleforth'un diğer özellikleri?
 
 #### Geyser
-[Geyser](https://web.archive.org/web/20200928125932/https://www.ampleforth.org/dapps/), Ampleforth'un getiri çiftçiliği (yield farming)  amacıyla [Uniswap](https://www.ampleforth.org/geyser/beehiveV2-uniswap-weth-ampl) ve [Mooniswap](https://www.ampleforth.org/geyser/enceladus-mooniswap-link-ampl#)'da çıkardığı bir program. (Uniswap likidite havuzları ile ilgili detaylı yazımıza [buradan ulaşabilirsiniz](/genel/2020/09/15/nedir-bu-uniswap.html).)
+[Geyser](https://web.archive.org/web/20200928125932/https://www.ampleforth.org/dapps/), Ampleforth'un getiri çiftçiliği (yield farming)  amacıyla Uniswap ve Mooniswap'da çıkardığı bir program. (Uniswap likidite havuzları ile ilgili detaylı yazımıza [buradan ulaşabilirsiniz](/genel/2020/09/15/nedir-bu-uniswap.html).)
 
 Havuzları bir cümle ile özetlersek, merkeziyetsiz bir borsa olan Uniswap'ta, iki bölmeli havuzlar kuruluyor idi. Genelde bu bölmelerin bir tarafında Ethereum'un parası ETH, diğerinde ise arzu edilen bir token oluyor. Amaç bu token ile işlem yapmak isteyenlere likidite sağlayarak Uniswap'ın gerçek bir merkeziyetsiz borsa gibi çalışmasını sağlamak. Bunun karşılığında likidite sağlayanlar hem yapılan işlemlerden %0.3 oranında pay alıyorlar, hem de UNI token'i kazanıyorlar. 
 
