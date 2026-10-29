@@ -11,7 +11,7 @@ image: /assets/tum_zamanlarin_en_yuksegi_poster.jpg
 &nbsp;
 
 <table><tr><td style="width:50%">
-<img src="/assets/Tum_zamanlarin_en_yüksegi_2101_800.jpg">
+<img src="/assets/Tum_zamanlarin_en_yuksegi_2101_800.jpg">
 </td>
 <td style="width:50%">
 <iframe width="224" height="126" src="https://www.youtube.com/embed/9TipN2j4S_A" frameborder="0" allowfullscreen></iframe></td></tr>
