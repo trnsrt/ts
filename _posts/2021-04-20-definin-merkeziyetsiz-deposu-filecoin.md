@@ -15,7 +15,7 @@ Bu yazımızda gelin merkeziyetsiz dünyanın veri saklayıcısı olma yolunda i
 
 Hatırlayacağınız gibi, blokzincir, yapılan işlemlerin ve son durumun kaydını mermer taşa yazılmış gibi değiştirilemez bir şekilde tutuyor. Ama nihayetinde kayıt edip saklanan, aslında bir işlemin sonucunu  gösteren bilgi. Peki ya işlemin kendisi nerede? 
 
-Ne demek istediğimizi bir örnek ile anlatalım: NFT ya da non-fungible token dediğimiz tekil (benzersiz) tokenlar (belirteçler), birbirine benzemeyen ürünlerin 'sahipliğini göstermek' için kullanılıyorlar. Tokenları satın alarak yaratıcısının işaret ettiği ürünün sahipliğini blokzincir üzerine kaydedip tüm dünyaya kanıtlamış oluyoruz. Peki ya bu ürünlerin asılları nerede duruyor?
+Ne demek istediğimizi bir örnek ile anlatalım: NFT ya da non-fungible token dediğimiz tekil (benzersiz) tokenlar (belirteçler), birbirine benzemeyen ürünlerin 'sahipliğini göstermek' için kullanılıyorlar. Tokenları satın alarak yaratıcısının işaret ettiği ürünün sahipliğini blokzincir üzerine kaydedip tüm dünyaya kanıtlamış oluyoruz. Peki ya bu ürünlerin asılları nerede duruyor?[^1]
 
 | ![sd_cards](/assets/sd-card-5206408_800.jpg)|
 |:--:| 
@@ -78,7 +78,7 @@ Merkeziyetsiz veri saklama platformları, gerek DeFi gerekse NFT alanında bunda
 Sektörün en büyüğü olan Filecoin, gerek arkasına aldığı güçlü yatırımcıların sağladığı imkanlar gerekse merkeziyesizlik yolunda attığı adımlar ile ön plana çıkmış durumda. Her alanda olduğu gibi bu konuda da umarız yeni teknolojiler sayesinde yeni rakipler kullanıcılara daha efektif ve güvenli alternatifler sunar. Burası teknolojik bir alan - her geçen gün yeni gelişmelere hazırlıklı olmak gerek. 
 
 
-[1]Eskiden olsa, bir yağlıboya eseri aldığınızda, yüklenir evinize getirir ve duvara asardınız. Şimdi ise dijital sanat eserlerinde sahiplik ona fiziksel olarak sahip olmayı gerektirmiyor. İsteyen herkes o eseri görebilir, hatta ekranında görürken elindeki farenin sağ tuşuna basıp 'kopyala' yı seçerek bilgisayarına indirebilir. Ancak bu, herhangi bir sanat eserinin orijinalini değil başka ressamlar tarafından yapılmış tıpatıp aynısını ya da Google Art üzerinden alınmış olan çıktısını yazıcıdan yazdırıp duvara asmaktan farklı değil aslında. 
+[^1]: Eskiden olsa, bir yağlıboya eseri aldığınızda, yüklenir evinize getirir ve duvara asardınız. Şimdi ise dijital sanat eserlerinde sahiplik ona fiziksel olarak sahip olmayı gerektirmiyor. İsteyen herkes o eseri görebilir, hatta ekranında görürken elindeki farenin sağ tuşuna basıp 'kopyala' yı seçerek bilgisayarına indirebilir. Ancak bu, herhangi bir sanat eserinin orijinalini değil başka ressamlar tarafından yapılmış tıpatıp aynısını ya da Google Art üzerinden alınmış olan çıktısını yazıcıdan yazdırıp duvara asmaktan farklı değil aslında. 
 
 ---
 
