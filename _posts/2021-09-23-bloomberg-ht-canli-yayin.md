@@ -14,7 +14,7 @@ image: /assets/bloomberg-ht-kripto-para-poster_800.jpg
 <img src="/assets/bloomberg-ht-210923.jpg">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/BX34Rwgfa7w" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe loading="lazy" title="ABD'de SEC'in açıklamaları kripto paraların geleceği için ne ifade ediyor? Fokus | 23.09.2021" width="224" height="126" src="https://www.youtube-nocookie.com/embed/BX34Rwgfa7w" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Yayından bir görüntü...  

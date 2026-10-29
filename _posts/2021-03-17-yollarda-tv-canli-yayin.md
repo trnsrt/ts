@@ -14,7 +14,7 @@ image: /assets/yollarda_tv_210317_poster_800.jpg
 <img src="/assets/yollarda_tv_210317_yayin_800.png">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/WNmog-JfEbY" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe loading="lazy" title="DeFi Nedir? Turan Sert ile Merkeziyetsiz Finans ve Blockchain | Yollarda #265" width="224" height="126" src="https://www.youtube-nocookie.com/embed/WNmog-JfEbY" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Yayından bir görüntü 

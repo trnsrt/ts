@@ -16,7 +16,7 @@ image: /assets/paranin-yonu-211026-poster-800.jpg
 <img src="/assets/paranin-yonu-211026-ss-800.jpg">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/1PH6ZRNuRqg?t=1953" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe loading="lazy" title="Kripto para yatırımları neden tercih ediliyor? | Murat Tufan | Piyasa Yönü" width="224" height="126" src="https://www.youtube-nocookie.com/embed/1PH6ZRNuRqg?t=1953" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Yayından bir görüntü 

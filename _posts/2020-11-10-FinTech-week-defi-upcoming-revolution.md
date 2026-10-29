@@ -14,7 +14,7 @@ image: /assets/fintech-week-poster.jpg
 <img src="/assets/fintech-week-panel-picture.jpg">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/bXDmsvt_sBM" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe loading="lazy" title="De-Fi an upcoming revolution" width="224" height="126" src="https://www.youtube-nocookie.com/embed/bXDmsvt_sBM" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Panelden bir görüntü...  

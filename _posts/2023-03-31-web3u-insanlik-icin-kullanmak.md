@@ -20,7 +20,7 @@ Oluşumun temel hedefi, değişen iklim koşullarının çiftçilik yaparak haya
 
 Oluşum geçtiğimiz günlerde Afrika'da maş fasulyesi ve hayvan otları yetiştiren çiftçilerin hasat sonrası oluşan zararlarını önlemek amacıyla gerçekleştirdiği pilot projenin sonuçlarını bir [video aracılığıyla](https://www.youtube.com/watch?v=GIg-HWZefaE) paylaştı. 
 
-<iframe width="224" height="126" src="https://www.youtube.com/embed/GIg-HWZefaE" frameborder="0" allowfullscreen></iframe>
+<iframe loading="lazy" title="Lemonade Crypto Climate Coalition | The Lemonade Foundation" width="224" height="126" src="https://www.youtube-nocookie.com/embed/GIg-HWZefaE" frameborder="0" allowfullscreen></iframe>
 
 ### Neden böyle bir organizasyona ihtiyaç duyulmuş?
 Özellikle Afrika'da hayatını tarım ile kazananan yaklaşık 300 milyon insan var. Bu insanların büyük bir kısmının tek geçim kaynağı ekmekte oldukları ufak tarlalar. Kuraklık ya da sel gibi doğal afetler bu insanlar için adeta ölüm demek çünkü sulama kanalı benzeri altyapının olmamasından dolayı topraklarını sadece yağmur suyu ile sulayabiliyorlar. Özellikle son yıllarda değişmeye başlayan iklim koşulları nedeniyle yaşanan sel ve kuraklık,  neredeyse açlık sınırında yaşayan bu insanları kıtlık tehlikesi ile baş başa bırakmış durumda. 

@@ -19,7 +19,7 @@ Web 2.0 ile başarılı olan şirketlerin genelde girişim sermayesi ile fonland
 
 &nbsp;
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BzAdXyPYKQo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe loading="lazy" title="Silicon Valley No Revenue | Radio On Internet" width="560" height="315" src="https://www.youtube-nocookie.com/embed/BzAdXyPYKQo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 &nbsp;
 

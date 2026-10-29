@@ -19,7 +19,7 @@ image: /assets/yetgen_3.jpg
 <img src="/assets/yetgen_2.jpg">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/tFMYrUdCcJ0?t=1687" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe loading="lazy" title="MZV-MEF YetGen | Teknoloji Okuryazarlığı" width="224" height="126" src="https://www.youtube-nocookie.com/embed/tFMYrUdCcJ0?t=1687" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Katılımcılar

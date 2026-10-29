@@ -15,7 +15,7 @@ image: /assets/kripto_para_logo_1200.jpg
 <img src="/assets/kripto_para_screenshot_1200.jpg">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/M10-aOfy--A" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe loading="lazy" title="Kripto Para | 23.10.2020" width="224" height="126" src="https://www.youtube-nocookie.com/embed/M10-aOfy--A" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Programdan bir görüntü...  

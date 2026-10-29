@@ -14,7 +14,7 @@ image: /assets/money_talks_poster.png
 <img src="/assets/ts_trtworld_money_talk_v2_800.png">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/5JwOSR6gElM?t=204" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe loading="lazy" title="Government eyeing tougher regulations to protect investors  | Money Talks" width="224" height="126" src="https://www.youtube-nocookie.com/embed/5JwOSR6gElM?t=204" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Yayından bir görüntü 

@@ -13,7 +13,7 @@ image: /assets/invest_tech_logo.jpg
 <img src="/assets/invest_tech_summit_photo.jpg">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/JBeXRZA95PQ" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe loading="lazy" title="ForInvest InvestTech Summit 2025 - Merkeziyetsiz Yapay Zeka" width="224" height="126" src="https://www.youtube-nocookie.com/embed/JBeXRZA95PQ" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Panelden bir görüntü...

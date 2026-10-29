@@ -16,7 +16,7 @@ image: /assets/itu-notdevcon.jpg
 <img src="/assets/itu-notdevcon.jpg">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/A3IegnVi2ig?si=_7KtUMC57UyyCor6&t=518" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe loading="lazy" title="notDEVCON by ITU Blockchain" width="224" height="126" src="https://www.youtube-nocookie.com/embed/A3IegnVi2ig?si=_7KtUMC57UyyCor6&t=518" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Etkinlik posteri   

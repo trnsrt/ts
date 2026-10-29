@@ -16,7 +16,7 @@ image: /assets/tomorrow-girsimcinin-cagi-poster_800.jpg
 <img src="/assets/tomorrow-girsimcinin-cagi-sahne_800.jpg">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/F6GuNmHVfgI" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe loading="lazy" title="Girişimcilik Çağı: Web 3.0 ve DeFi" width="224" height="126" src="https://www.youtube-nocookie.com/embed/F6GuNmHVfgI" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Programın kamera arkası...   

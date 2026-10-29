@@ -15,7 +15,7 @@ image: /assets/ben_webinar_200530.jpg
 <img src="/assets/ben_webinar_screenshot_640.png">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/y-YIugVNmLw?t=741" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe loading="lazy" title="BEN - Blockchain Education Network - 30 Mayıs 2020 Canlı Yayın - video" width="224" height="126" src="https://www.youtube-nocookie.com/embed/y-YIugVNmLw?t=741" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Blockchain Education Network webinar katılımcılarının ekranlarını açan bir kısmı ile :) 

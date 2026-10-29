@@ -14,7 +14,7 @@ image: /assets/yetgen_210320_poster_400.jpg
 <img src="/assets/yetgen_210320_800.jpg">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/UzMInOO0ec0" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe loading="lazy" title="Teknoloji Okuryazarlığı | Blok Zincir | Turan Sert #6" width="224" height="126" src="https://www.youtube-nocookie.com/embed/UzMInOO0ec0" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Yayından bir görüntü 

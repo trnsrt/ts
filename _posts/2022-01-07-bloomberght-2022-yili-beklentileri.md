@@ -15,7 +15,7 @@ image: /assets/bloomberght_kripto_para.jpg
 <img src="/assets/bloomberght_2022_beklentileri_220107.jpg">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/Jb5Ly0KFZzM" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe loading="lazy" title="2022 Yılında Kripto Para Ekosisteminde Beklentiler Ne Yönde? | Turan Sert" width="224" height="126" src="https://www.youtube-nocookie.com/embed/Jb5Ly0KFZzM" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Programdan bir görüntü...  

@@ -19,7 +19,7 @@ image: /assets/btchaber_sali_bulusmalari_640.jpg
 <img src="/assets/BTCHaber_Sali_Bulusmalari_screenshot_640.png">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/09zcikFwXgg?t=402" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe loading="lazy" title="Paribu BTCHaber Devrim Danyal Bora Erdamar Turan Sert Sohbeti" width="224" height="126" src="https://www.youtube-nocookie.com/embed/09zcikFwXgg?t=402" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Sevgili Bora Erdamar ve moderatörümüz Devrim Danyal ile...

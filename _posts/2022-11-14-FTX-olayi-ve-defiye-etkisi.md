@@ -98,7 +98,7 @@ Notlar:
 Yazı dışında görsel olarak ilgi duyarsanız, konuya ilişkin hazırladığımız DeFine programına da göz atabilirsiniz. 
 
 <table>
-<td style="width:33%"><iframe width="224" height="126" src="https://www.youtube.com/embed/Ra4x4IF5UAA" frameborder="0" allowfullscreen></iframe>
+<td style="width:33%"><iframe loading="lazy" title="FTX Borsası Battı! | Bundan Sonra Ne Olacak? | DeFine" width="224" height="126" src="https://www.youtube-nocookie.com/embed/Ra4x4IF5UAA" frameborder="0" allowfullscreen></iframe>
 </td>
 </table>
 

@@ -15,7 +15,7 @@ image: /assets/bogazici_networking_day_poster_800.jpg
 <td style="width:50%">
 <img src="/assets/bogazici_bc_panel_poster_800.jpg"></td>
 </td>
-<td style="width:50%"><iframe width="224" height="126" src="https://www.youtube.com/embed/YjtnBNw7u-4?t=1583" frameborder="0" allowfullscreen></iframe>
+<td style="width:50%"><iframe loading="lazy" title="Boğaziçi Blockchain Networking Day 15 Mayıs 2022" width="224" height="126" src="https://www.youtube-nocookie.com/embed/YjtnBNw7u-4?t=1583" frameborder="0" allowfullscreen></iframe>
 </tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>

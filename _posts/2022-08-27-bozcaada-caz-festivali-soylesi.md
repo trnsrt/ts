@@ -16,7 +16,7 @@ image: /assets/bozcaada-caz-poster_800.jpg
 <td style="width:50%">
 <img src="/assets/bcf-kesif-soylesi-poster_800.jpg">
 </td>
-<td style="width:50%"><iframe width="224" height="126" src="" frameborder="0" allowfullscreen></iframe>
+<td style="width:50%"><iframe loading="lazy" title="Bozcaada Caz Festivali söyleşisi (video henüz yayımlanmadı)" width="224" height="126" src="" frameborder="0" allowfullscreen></iframe>
 </td>
 </tr>
 <tr>

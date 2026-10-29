@@ -13,7 +13,7 @@ image: /assets/You_tube_logo.png
 <img src="/assets/Web3_de_calismak.jpg">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/NpKdTn_PP5Y" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe loading="lazy" title="25 Yıllık web2 Kariyerinden Sonra web3 Kariyeri İnşa Etmek | Hardvard &amp; Fiba &amp; Paribu - Turan Sert" width="224" height="126" src="https://www.youtube-nocookie.com/embed/NpKdTn_PP5Y" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Yayından bir görüntü...

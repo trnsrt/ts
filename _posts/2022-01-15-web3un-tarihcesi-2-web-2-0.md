@@ -26,7 +26,7 @@ Web 1.0'ın sonlarına doğru artık temel altyapı ve standartlar oturmaya baş
 
 &nbsp;
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jgLiCNgRFZ8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe loading="lazy" title="Bill Gates on Late Show, November 27, 1995 (full, stereo)" width="560" height="315" src="https://www.youtube-nocookie.com/embed/jgLiCNgRFZ8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 &nbsp;
 
