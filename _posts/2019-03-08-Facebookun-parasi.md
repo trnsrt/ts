@@ -17,11 +17,11 @@ Geçtiğimiz günlerde gelen iki haber teknoloji dünyasında ciddi bir tartış
 
 Birbirinden bağımsız görünen ancak birbiri ile oldukça ilintili iki haber. Mark yine neler karıştırıyor acaba? 
 
-Efendim, özetle olay şu: Facebook kurduğu bir ekip ile birlikte Mayıs 2018'den beri büyük bir gizlilik içinde kendi Blockchain'i üzerinde [çalışıyor](https://techcrunch.com/2018/08/10/facecoin/). Bu işin başına Facebook Messenger'dan sorumlu [David Marcus](http://www.wikizeroo.net/index.php?q=aHR0cHM6Ly9lbi5tLndpa2lwZWRpYS5vcmcvd2lraS9EYXZpZF9BLl9NYXJjdXM)'u getirdiler. David Marcus sadece mesajlaşma üzerine uzmanlaşmış bir isim değil. Aynı zamanda PayPal'ın eski başkanlarından. 
+Efendim, özetle olay şu: Facebook kurduğu bir ekip ile birlikte Mayıs 2018'den beri büyük bir gizlilik içinde kendi Blockchain'i üzerinde [çalışıyor](https://techcrunch.com/2018/08/10/facecoin/). Bu işin başına Facebook Messenger'dan sorumlu [David Marcus](https://en.wikipedia.org/wiki/David_A._Marcus)'u getirdiler. David Marcus sadece mesajlaşma üzerine uzmanlaşmış bir isim değil. Aynı zamanda PayPal'ın eski başkanlarından. 
 
-| ![Dave_Marcus_profile_pic_400.png](/assets/Dave_Marcus_profile_pic_400.png) | 
+| ![David Marcus](/assets/Dave_Marcus_profile_pic_400.png) | 
 |:--:| 
-| *David Marcus [Kaynak](http://www.wikizeroo.net/index.php?q=aHR0cHM6Ly91cGxvYWQud2lraW1lZGlhLm9yZy93aWtpcGVkaWEvY29tbW9ucy9mL2ZiL0RhdmVfTWFyY3VzX3Byb2ZpbGVfcGljLnBuZw)* |
+| *David Marcus (Kaynak: Wikimedia Commons)* |
 
 PayPal ödeme sistemi, Facebook Messenger iletişim araçları. Üzerine Zuckerberg'in yukarıdaki yazısında mahremiyet odaklı bir vizyondan söz ederken, kendilerine ait tüm iletişim araçlarının (Facebook, Whatsapp ve Instagram) birbirleri ile konuşması vizyonu.  Bütün bu ipuçları yukarıda belirttiğimiz New York Times makalesinde de yazıldığı gibi Facebook'un Whatsapp odaklı bir Blockchain sistemi üzerine çalıştıklarını gösteriyor. 
 
