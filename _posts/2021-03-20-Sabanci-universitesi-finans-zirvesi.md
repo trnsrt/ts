@@ -15,7 +15,7 @@ image: /assets/sabanci_finans_zirvesi_toplu_800.jpg
 <img alt="Sabancı Üniversitesi Finans Zirvesi afişi, Turan Sert" src="/assets/sabanci_finans_zirvesi_tek_800.jpg">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126"</td></tr>
+</td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Etkinlik posteri 
