@@ -82,7 +82,7 @@ Bunun yanında Nexus Mutual'ın olası riskleri karşılamak için elinde tuttu�
 Merkeziyetsiz Finans'ın en ilginç projelerinden biri olan Nexus Mutual sigortacılık konusunda neredeyse tekel.  Ancak hâlâ önünde alacağı çok yol var. Yeni çıkan DeFi platformları hızlı bir şekilde ürün olarak sunması, kapsama alanını farklı riskleri de içerecek şekilde genişletmesi, yapacağı yeni pazarlama ortaklıkları Nexus'un büyümesine fayda sağlayacak. Öte yandan sigorta sisteminin karmaşıklığından dolayı henüz merkezi olan kısımlarını yavaş yavaş merkeziyetsiz hale getirmeleri de başarılı olmaları için gerekli. Önümüzdeki yazıda hem Nexus sisteminin merkezi kısımlarından, hem de sistemin tokeni NXM'in nasıl çalıştığından bahsedeceğiz. 
 
 
-[^1] Eylül ayındaki SAFE olayından sonra bir anda 200 milyon ABD Dolarına çıkan sigorta miktarı, aylık alınan bu poliçelerini dolması ve yenilenmemesi nedeniyle Ekim ayı ortalarında tekrar Eylül ayı öncesi 50 milyon ABD Doları rakamlarına inmiş durumda. 
+[^1]: Eylül ayındaki SAFE olayından sonra bir anda 200 milyon ABD Dolarına çıkan sigorta miktarı, aylık alınan bu poliçelerini dolması ve yenilenmemesi nedeniyle Ekim ayı ortalarında tekrar Eylül ayı öncesi 50 milyon ABD Doları rakamlarına inmiş durumda. 
 
 
 ---

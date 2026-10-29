@@ -95,7 +95,7 @@ Chainlink, merkeziyetsiz finans platformlarının kritik ihtiyaçları içinde s
 
 Her konuda olduğu gibi bu alanda da sağlıklı bir rekabetin olması, ekosistemin gelişmesi için önemli. Önümüzdeki dönemde bu alanın nasıl gelişeceğini, rakiplerin pastadan daha büyük pay kapmak, Chainlink'in ise mevcut payını kaptırmamak için ne gibi hamleler yapacağını hep birlikte göreceğiz. 
 
-[^1] messari-report-crypto-theses-for-2021.pdf Sayfa 67
+[^1]: messari-report-crypto-theses-for-2021.pdf Sayfa 67
 
 ---
 

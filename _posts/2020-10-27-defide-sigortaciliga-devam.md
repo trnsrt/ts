@@ -89,9 +89,13 @@ Birinci bölümünde genel olarak başladığımız bu yazıda ise daha teknik d
 ---
 
 
-- [^1] Yapılan oylamada verilen karar %70 çoğunluk ile alınmalı - aksi takdirde tüm sistem tarafından bir oylama daha yapılıyor.
-- [^2] Üç adet talep henüz değerlendirme aşamasında
-- [^3] (bu oranın adı MCR - minimum capital requirement oranı). 𝑇𝑃 = 𝐴 + (𝑀𝐶𝑅𝐸𝑇𝐻/𝐶)∙ 𝑀𝐶𝑅%4
+[^1]: Yapılan oylamada verilen karar %70 çoğunluk ile alınmalı - aksi takdirde tüm sistem tarafından bir oylama daha yapılıyor.
+
+[^2]: Üç adet talep henüz değerlendirme aşamasında
+
+[^3]: (bu oranın adı MCR - minimum capital requirement oranı).
+
+[^4]: 𝑇𝑃 = 𝐴 + (𝑀𝐶𝑅𝐸𝑇𝐻/𝐶)∙ 𝑀𝐶𝑅%4
 
 ---
 Kaynaklar: 

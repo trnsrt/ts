@@ -53,6 +53,7 @@ DeFi'nin asıl büyüme alanının fiziksel dünya ile hiç ilgisi olmayan dijit
 </td>
 <td style="width:50%">
 <img src="/assets/Top10_1121.png">
+</td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Dünyanın en değerli 10 şirketi 2010 yılı. Ağırlık petrol ve endüstri alanından. Kaynak: Financial Times - Global 500, 01.01.2010

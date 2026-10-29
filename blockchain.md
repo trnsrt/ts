@@ -13,7 +13,7 @@ Blockchain sözünü işitiyor ancak ne işe yaradığını çok da bilmiyorsan�
   - [Blokzincirin çıkış felsefesi ne?](/genel/2020/06/04/blokzincirin-felsefesi-ne.html) *(4 Haziran 2020)*
 - Blockchain'in değişik alanlarda getirdiği potansiyel yenilikler için
   - [İyilik için Blockchain](/genel/2018/03/29/Iyilik-icin-blockchain.html) *(29 Mart 2018)*
-  - [Sanat için Blockchain](/genel/2018/03/29/Iyilik-icin-blockchain.html) *(29 Mart 2018)*
+  - [Sanat için Blockchain](/genel/2018/04/06/sanat-icin-blockchain.html) *(6 Nisan 2018)*
   - [Sağlık için Blockchain](/genel/2018/04/17/saglik-icin-blockchain.html) *(17 Nisan 2018)*
   - [Seyahat için Blockchain](/genel/2018/07/06/seyahat-icin-blockchain.html) *(6 Temmuz 2018)*
   - [Çevre için Blockchain](/genel/2018/11/16/cevre-icin-blockhain.html) ve [devamı](/genel/2018/11/17/cevre-icin-blockchaine-devam.html) *(16 Kasım 2018)*
