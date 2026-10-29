@@ -85,10 +85,10 @@ Uniswap, çok basit bir algoritma ile merkeziyetsiz olarak alım-satım yapmayı
 ---
 
 
-[^1] Basitleştirmek için böyle yazıldı. İki istisnası var havuz büyüklüğünü değiştiren: 
+[^1]: Basitleştirmek için böyle yazıldı. İki istisnası var havuz büyüklüğünü değiştiren: 
 Birincisi havuza başka yatırımcılar para koyarsa havuzun toplam büyüklüğü değişiyor normal olarak. Örnek olarak bir yatırımcı gelip havuza 10 ETH ve 300 USDC daha koyarsa, havuzun toplam büyüklüğü 300.000'den 363.000'e (110 ETH x 3.300 USDC) çıkıyor. İkincisi ise işlem yapanlardan alınan komisyonlar (Uniswap için %0,3) bu havuza ekleniyor, dolayısıyla havuz büyüklüğü otomatik olarak artıyor.
 
-[^2] Matematiksel olarak havuzun içindeki USDC adedinin (B) ETH adedine (A) bölünmesi 1 adet ETH'nin fiyatını (B/A) verir. Neden? 
+[^2]: Matematiksel olarak havuzun içindeki USDC adedinin (B) ETH adedine (A) bölünmesi 1 adet ETH'nin fiyatını (B/A) verir. Neden? 
 - Çünkü havuza eşit değerde USDC ve ETH konmuştu. Örneğimizde  havuza 30.000 USDC ve 100 ETH konmuştu dolayısıyla bir ETH'nin fiyatı 30.000/100=300 USDC ediyor idi. 
 - Öte yandan USDC adedi ile ETH adedinin çarpılması havuzun sabit sayısını (BxA) veriyor demiştik. 
 - O zaman ETH fiyatı (B/A) ile havuz sabitinin (BxA) çarpımının karekökü nihai olarak havuzda kalması gereken USDC adedini ((B/A)x(BxA)=B²) verir. Bu işlemi yaparsanız USDC adedi 34.641’i çıkar. 
