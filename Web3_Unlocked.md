@@ -916,7 +916,7 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 <br>
 <b>Page 212:</b>
 
-[recap](https://blockapps.net/blog/the-timeline-of-usts-collapse-understanding-the-failures-and-implications-of-algorithmic-stablecoins/)  
+[recap](https://web.archive.org/web/20250408164914/https://blockapps.net/blog/the-timeline-of-usts-collapse-understanding-the-failures-and-implications-of-algorithmic-stablecoins/)  
 
 <br>
 <b>Page 213:</b>
