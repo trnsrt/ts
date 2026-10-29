@@ -6,7 +6,7 @@ categories: Genel
 image: /assets/entrepreneur-classic-600.jpg
 ---
 
-Geçtiğimiz yazılarda, merkezi olmayan yapılara bakmış ve neden önemli olduklarını anlatmaya çalışmıştık.  Özetle, merkezi yapılar, tek bir merkezden yönetildikleri için güvenlik açısından sakıncalar yaşarlar. Tek merkezli yapılar, iç ve dış tehditler için kolayca hedef tahtası haline gelirler. Oysa ki merkezi olmayan sistemler ele avuca sığmayan cıva gibilier, nereye saldıracaksınız ki?. İşte bu özellikleri merkezi olmayan yapıları daha sağlam hale getiriyor. 
+Geçtiğimiz yazılarda, merkezi olmayan yapılara bakmış ve neden önemli olduklarını anlatmaya çalışmıştık.  Özetle, merkezi yapılar, tek bir merkezden yönetildikleri için güvenlik açısından sakıncalar yaşarlar. Tek merkezli yapılar, iç ve dış tehditler için kolayca hedef tahtası haline gelirler. Oysa ki merkezi olmayan sistemler ele avuca sığmayan cıva gibiler, nereye saldıracaksınız ki?. İşte bu özellikleri merkezi olmayan yapıları daha sağlam hale getiriyor. 
 
 Tabii iki yapı arasındaki farklar bununla sınırlı değil. Bu yeni yapılar kendi ekosistemlerindeki tüm oyuncuların davranış biçimlerini de değiştiriyorlar. Örneğin girişimciler ve yatırımcılar... Merkezi olmayan yapı ile kurulan sistemlerin ortaya çıkışıyla aslında girişim ve yatırım anlamında büyük bir değişimden geçiyoruz. Bildiğimiz klasik anlamdaki bu terimler kökten değişiyorlar. Nasıl mı? Anlatalım.  
 

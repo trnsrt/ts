@@ -7,7 +7,7 @@ tags: Etkinlikler
 image: /assets/yildiz-logo_v2.png
 ---
 
-<img align="left" src="/assets/yildiz-logo_v2.png" style="width:40%; padding-right:20px"> Yıldız Blockchain Kulübü'nün düzenlediği etkinlikte Yıldız Üniversitesi'nden gençler ile bir arada güzel bir sohbet yaptık.
+<img alt="Yıldız Blockchain Kulübü logosu" align="left" src="/assets/yildiz-logo_v2.png" style="width:40%; padding-right:20px"> Yıldız Blockchain Kulübü'nün düzenlediği etkinlikte Yıldız Üniversitesi'nden gençler ile bir arada güzel bir sohbet yaptık.
 &nbsp;
 
-<img src="/assets/Yildiz_etkinlik_v2.jpg" style="width:100%">
+<img alt="YTÜ Blockchain pankartının önünde etkinlik grup fotoğrafı" src="/assets/Yildiz_etkinlik_v2.jpg" style="width:100%">

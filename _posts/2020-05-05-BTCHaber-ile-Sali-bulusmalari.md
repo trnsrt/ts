@@ -8,7 +8,7 @@ image: /assets/btchaber_sali_bulusmalari_640.jpg
 ---
 
 
-<img align="left" src="/assets/btchaber_sali_bulusmalari_640.jpg" style="width:40%; padding-right:20px"> [BTCHaber.com](https://twitter.com/BTCHabercom)'un düzenlediği Salı toplantılarının ikincisine [Devrim Danyal](https://twitter.com/devrimdanyal)'in moderatörlüğünde [Bora Erdamar](https://twitter.com/berdamar/) ile birlikte konuşmacı olarak konuk oldum. 
+<img alt="BTCHaber ile Salı Buluşmaları duyuru afişi, 5 Mayıs 2020" align="left" src="/assets/btchaber_sali_bulusmalari_640.jpg" style="width:40%; padding-right:20px"> [BTCHaber.com](https://twitter.com/BTCHabercom)'un düzenlediği Salı toplantılarının ikincisine [Devrim Danyal](https://twitter.com/devrimdanyal)'in moderatörlüğünde [Bora Erdamar](https://twitter.com/berdamar/) ile birlikte konuşmacı olarak konuk oldum. 
 
 <br />
 
@@ -16,10 +16,10 @@ image: /assets/btchaber_sali_bulusmalari_640.jpg
 
 
 <table><tr><td style="width:50%">
-<img src="/assets/BTCHaber_Sali_Bulusmalari_screenshot_640.png">
+<img alt="Zoom ile canlı yayın ekran görüntüsü, dört katılımcı" src="/assets/BTCHaber_Sali_Bulusmalari_screenshot_640.png">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/09zcikFwXgg?t=402" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe loading="lazy" title="Paribu BTCHaber Devrim Danyal Bora Erdamar Turan Sert Sohbeti" width="224" height="126" src="https://www.youtube-nocookie.com/embed/09zcikFwXgg?t=402" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Sevgili Bora Erdamar ve moderatörümüz Devrim Danyal ile...

@@ -38,15 +38,15 @@ Dileriz ki bu alanda yapılacak kanuni düzenlemeler, ülke olarak cari açığ�
 Her ne kadar henüz çok küçük ve riskli olsalar da zamanın ilerlemesi ile birlikte kripto paraların finansal olarak olgunlaşmaları bu alandaki kurumsal yatırımcı ilgisini artıracak gibi görünüyor. Arada bir bir kaç yol kazası yaşanması muhtemel olsa da, hacimlerde yaşanan artışlar bu alanda daha gidilecek çok yol ve gittikçe cazip hale gelecek büyük bir pazar olduğunu gösteriyor.
 
 <table><tr><td style="width:50%">
-<img src="/assets/kurumsal_yatirimci_sayfa-1.JPG">
+<img alt="Kurumsal Yatırımcı dergisinde yayınlanan yazının ilk sayfası" src="/assets/kurumsal_yatirimci_sayfa-1.JPG">
 </td>
 <td style="width:50%">
-<img src="/assets/kurumsal_yatirimci_sayfa-2.JPG">
+<img alt="Kurumsal Yatırımcı dergisinde yazının ikinci sayfası, Turan Sert" src="/assets/kurumsal_yatirimci_sayfa-2.JPG">
 </td></tr>
 </table>
 
 ---
 
-*Not 1: Bu yazı ilk olarak Temmuz 2020'de [Kurumsal Yatırımcı](http://www.tkyd.org.tr/home/yayinlar) dergisinde [yayınlandı](http://www.tkyd.org.tr/assets/kurumsal_yatirimci_50-1549eead661fec262ef51f1b1ea212ef.pdf)*
+*Not 1: Bu yazı ilk olarak Temmuz 2020'de [Kurumsal Yatırımcı](https://web.archive.org/web/20200731180419/http://www.tkyd.org.tr/home/yayinlar) dergisinde [yayınlandı](http://www.tkyd.org.tr/assets/kurumsal_yatirimci_50-1549eead661fec262ef51f1b1ea212ef.pdf)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*

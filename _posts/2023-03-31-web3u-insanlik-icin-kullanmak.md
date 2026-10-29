@@ -14,13 +14,13 @@ Web3 olarak adlandırdığımız merkeziyetsiz sistemler etkilerini ağırlıkl�
 Bugünkü yazımızda, işte bu teknolojinin fiziki dünyamıza hem de çok güzel bir konuda, etki yapabileceği bir örneği tanıtacağız sizlere. Yaklaşık bir yıl önce kurulan Lemonade Crypto Climate Coalition  bugünkü konumuz. Gelin başlayalım: 
 
 ### Nedir Crypto Climate Coalition?
-Mart 2022 yılında [lansmanı yapılan]((https://investor.lemonade.com/news-and-events/news/news-details/2022/The-Lemonade-Foundation-Turns-to-Blockchain-to-Protect-Subsistence-Farmers-from-Climate-Change/default.aspx)) Lemonade Crypto Climate Coalition (kısaca LCCC diyelim), Amerikalı sigorta kuruluşu Lemonade'in kar amacı gütmeyen vakfı [Lemonade Foundation](https://lemonade.org/) tarafından kurulan bir oluşum. 
+Mart 2022 yılında [lansmanı yapılan](https://investor.lemonade.com/news-and-events/news/news-details/2022/The-Lemonade-Foundation-Turns-to-Blockchain-to-Protect-Subsistence-Farmers-from-Climate-Change/default.aspx) Lemonade Crypto Climate Coalition (kısaca LCCC diyelim), Amerikalı sigorta kuruluşu Lemonade'in kar amacı gütmeyen vakfı [Lemonade Foundation](https://lemonade.org/) tarafından kurulan bir oluşum. 
 
-Oluşumun temel hedefi, değişen iklim koşullarının çiftçilik yaparak hayatını kazanan yoksul insanların hayatına etkisini minimum indirecek bir sigortacılık hizmeti sunmak. Bir merkeziyetsiz otonom organizasyon (ingilizcesi Decentralized Autonomus Organization kısaca 'DAO') olarak kurulan oluşumun diğer ortakları arasında kripto dünyasının önde gelen isimlerinden [Avalanche](https://www.avax.network/), [Chainlink](chain.link), [DAOStack](https://daostack.io/),  sigortacılık reasürans devi [Hannover Re](https://www.hannover-re.com/), bu alana hizmet veren Insurtech girişimleri [Pula](https://www.pula-advisors.com/) ve [Etherisc](https://etherisc.com/)  ile iklim koşulları ve hava tahmini üzerine çalışan Tomorrow.io organizasyonları var. 
+Oluşumun temel hedefi, değişen iklim koşullarının çiftçilik yaparak hayatını kazanan yoksul insanların hayatına etkisini minimum indirecek bir sigortacılık hizmeti sunmak. Bir merkeziyetsiz otonom organizasyon (ingilizcesi Decentralized Autonomus Organization kısaca 'DAO') olarak kurulan oluşumun diğer ortakları arasında kripto dünyasının önde gelen isimlerinden [Avalanche](https://www.avax.network/), [Chainlink](https://chain.link), [DAOStack](https://daostack.io/),  sigortacılık reasürans devi [Hannover Re](https://www.hannover-re.com/), bu alana hizmet veren Insurtech girişimleri [Pula](https://www.pula-advisors.com/) ve [Etherisc](https://etherisc.com/)  ile iklim koşulları ve hava tahmini üzerine çalışan Tomorrow.io organizasyonları var. 
 
 Oluşum geçtiğimiz günlerde Afrika'da maş fasulyesi ve hayvan otları yetiştiren çiftçilerin hasat sonrası oluşan zararlarını önlemek amacıyla gerçekleştirdiği pilot projenin sonuçlarını bir [video aracılığıyla](https://www.youtube.com/watch?v=GIg-HWZefaE) paylaştı. 
 
-<iframe width="224" height="126" src="https://www.youtube.com/embed/GIg-HWZefaE" frameborder="0" allowfullscreen></iframe>
+<iframe loading="lazy" title="Lemonade Crypto Climate Coalition | The Lemonade Foundation" width="224" height="126" src="https://www.youtube-nocookie.com/embed/GIg-HWZefaE" frameborder="0" allowfullscreen></iframe>
 
 ### Neden böyle bir organizasyona ihtiyaç duyulmuş?
 Özellikle Afrika'da hayatını tarım ile kazananan yaklaşık 300 milyon insan var. Bu insanların büyük bir kısmının tek geçim kaynağı ekmekte oldukları ufak tarlalar. Kuraklık ya da sel gibi doğal afetler bu insanlar için adeta ölüm demek çünkü sulama kanalı benzeri altyapının olmamasından dolayı topraklarını sadece yağmur suyu ile sulayabiliyorlar. Özellikle son yıllarda değişmeye başlayan iklim koşulları nedeniyle yaşanan sel ve kuraklık,  neredeyse açlık sınırında yaşayan bu insanları kıtlık tehlikesi ile baş başa bırakmış durumda. 
@@ -48,7 +48,7 @@ Sistemin DAO olarak çalışıyor olması, uzun vadede yukarıda belirttiğimiz 
 
 ---
 
-*Not 1: Bu yazı ilk olarak 31 Mart 2023'de [Coindesk Türkiye'de yayınlandı](https://www.coindeskturkiye.com/yazarlar/turan-sert/web3u-insanlik-icin-kullanmak-4029)*
+*Not 1: Bu yazı ilk olarak 31 Mart 2023'de [Coindesk Türkiye'de yayınlandı](https://web.archive.org/web/20230331081439/https://www.coindeskturkiye.com/yazarlar/turan-sert/web3u-insanlik-icin-kullanmak-4029)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 

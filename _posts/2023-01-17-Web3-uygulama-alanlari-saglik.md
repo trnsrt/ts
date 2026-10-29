@@ -88,7 +88,7 @@ Vibe Bio ve benzeri merkeziyetsiz bilim (DeSci) oluşumları, Web3 için çok ö
 
 ---
 
-*Not 1: Bu yazı ilk olarak 17 Ocak 2023'de [Coindesk Türkiye'de yayınlandı](https://www.coindeskturkiye.com/yazarlar/turan-sert/web3un-uygulama-alanlari-saglik-3377)*
+*Not 1: Bu yazı ilk olarak 17 Ocak 2023'de [Coindesk Türkiye'de yayınlandı](https://web.archive.org/web/20230117090941/https://www.coindeskturkiye.com/yazarlar/turan-sert/web3un-uygulama-alanlari-saglik-3377)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 

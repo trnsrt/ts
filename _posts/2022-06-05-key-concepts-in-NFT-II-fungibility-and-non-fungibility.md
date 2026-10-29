@@ -5,6 +5,7 @@ date:   2022-06-05 17:47:56 +0300
 categories: Genel
 tags: Yazılar, NFT, Articles
 image: /assets/crowd-3513215_800.jpg
+lang: en
 ---
 
 We continue our series with fungibility and non-fungibility concepts. 
@@ -13,7 +14,7 @@ In our series on key NFT concepts, we started with digital ownership in the firs
 
 | ![crowd](/assets/crowd-3513215_800.jpg)|
 |:--:| 
-| *Image by [Gerd Altmann]([https://pixabay.com/users/uroburos-325152/](https://pixabay.com/users/geralt-9301/)) from [Pixabay](https://pixabay.com/)*|
+| *Image by [Gerd Altmann](https://pixabay.com/users/geralt-9301/) from [Pixabay](https://pixabay.com/)*|
 
 Fungibility is one of the key attributes of money. According to [Wikipedia](https://en.wikipedia.org/wiki/Fungibility) 'fungibility is the property of a good or a commodity whose individual units are essentially interchangeable and each of whose parts is indistinguishable from another part'. 
 

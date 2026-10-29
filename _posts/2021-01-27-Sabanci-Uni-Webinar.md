@@ -7,7 +7,7 @@ tags: videos Etkinlikler
 image: /assets/Upgrade Yourself_240.png
 ---
 
-<img align="left" src="/assets/Upgrade Yourself_240.png" style="width:15%; padding-right:20px">  Sabancı Üniversitesi Tezsiz Yüksek Lisans Programları tarafından düzenlenen "Upgrade yourself" webinar serisinin 27 Ocak tarihli etkinliğinde 'Blokzincir ve Merkeziyetsiz Finans' konuştuk. Yüksek lisans programı katılımcılarının sorularıyla yaklaşık 2 saate uzayan keyifli bir sohbet oldu. Programa davet eden Özden Karakışla ve moderatör Ekin Başat'a teşekkür ederim. 
+<img alt="Sabancı Üniversitesi Upgrade Yourself webinar afişi, 27 Ocak" align="left" src="/assets/Upgrade Yourself_240.png" style="width:15%; padding-right:20px">  Sabancı Üniversitesi Tezsiz Yüksek Lisans Programları tarafından düzenlenen "Upgrade yourself" webinar serisinin 27 Ocak tarihli etkinliğinde 'Blokzincir ve Merkeziyetsiz Finans' konuştuk. Yüksek lisans programı katılımcılarının sorularıyla yaklaşık 2 saate uzayan keyifli bir sohbet oldu. Programa davet eden Özden Karakışla ve moderatör Ekin Başat'a teşekkür ederim. 
 &nbsp;
 
 &nbsp;
@@ -21,7 +21,7 @@ image: /assets/Upgrade Yourself_240.png
 -
 
 <table><tr><td style="width:50%">
-<img src="/assets/Upgrade_yourself_ss_400.png">
+<img alt="Webinar katılımcılarının çevrim içi ekran görüntüsü" src="/assets/Upgrade_yourself_ss_400.png">
 </td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>

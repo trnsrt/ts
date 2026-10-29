@@ -2,14 +2,16 @@
 layout: post
 title:  "BloombergHT Hande Berktan ile İş Dünyası - 29 Kasım 2019 Yayın"
 date:   2019-11-29 12:47:56 +0300
-categories: Genel, Videos
+categories: Genel
 tags: Etkinlikler
 image: /assets/TS_Bloomberg_191129-3.jpg
+redirect_from:
+  - /genel,/videos/2019/11/29/BloombergHT-Hande-Berktan-ile-is-dunyasi.html
 ---
 
 
 
-<img align="left" src="/assets/TS_Bloomberg_191129-3.jpg" style="width:40%; padding-right:20px"> 29 Kasım 2019 Cuma günü sevgili Ahmet Usta ile birlikte Hande Berktan'ın hazırlayıp sunduğu İş Dünyası programı için Bloomberg HT'ye konuk oldum. Keyifli bir sohbetti. Ancak video kaydına ulaşamadım. Birkaç kareyi ekte paylaşıyorum:  
+<img alt="Bloomberg HT Kripto Para programı stüdyosu, Libra tartışması" align="left" src="/assets/TS_Bloomberg_191129-3.jpg" style="width:40%; padding-right:20px"> 29 Kasım 2019 Cuma günü sevgili Ahmet Usta ile birlikte Hande Berktan'ın hazırlayıp sunduğu İş Dünyası programı için Bloomberg HT'ye konuk oldum. Keyifli bir sohbetti. Ancak video kaydına ulaşamadım. Birkaç kareyi ekte paylaşıyorum:  
 &nbsp;
 &nbsp;
 
@@ -18,10 +20,10 @@ image: /assets/TS_Bloomberg_191129-3.jpg
 &nbsp;
 
 <table><tr><td style="width:50%">
-<img src="/assets/TS_Bloomberg_191129_5.jpg">
+<img alt="Bloomberg HT yayınında Facebook gizlilik ayarları ekranı ve konuk" src="/assets/TS_Bloomberg_191129_5.jpg">
 </td>
 <td style="width:70%">
-<img src="/assets/TS_Bloomberg_191129_4.jpg">
+<img alt="Bloomberg HT yayınında konuk Turan Sert" src="/assets/TS_Bloomberg_191129_4.jpg">
    </td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>

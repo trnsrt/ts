@@ -7,16 +7,16 @@ tags: videos Etkinlikler
 image: /assets/blockchain_zirvesi_poster_1200.jpg
 ---
 
-<img align="left" src="/assets/blockchain_zirvesi_poster_1200.jpg" style="width:40%; padding-right:20px"> [Habitat Derneği](https://habitatdernegi.org) programı olan [İstanbul Blockchain Okulu](https://habitatdernegi.org/dijital-donusum/istanbul-blockchain-okulu/) tarafından düzenlenen Blockchain Zirvesi'ne sevgili [Elçin Karatay](https://twitter.com/elcin_karatay/) ve [Bora Erdamar](https://twitter.com/berdamar/) ile konuk olduk. Bir saat süremizin olduğu programda, özellikle regülasyonlar konusunda dünyadaki gelişmeleri ele aldık.
+<img alt="Blockchain Zirvesi 23 Ekim afişi" align="left" src="/assets/blockchain_zirvesi_poster_1200.jpg" style="width:40%; padding-right:20px"> [Habitat Derneği](https://habitatdernegi.org) programı olan [İstanbul Blockchain Okulu](https://web.archive.org/web/20201030223430/https://habitatdernegi.org/dijital-donusum/istanbul-blockchain-okulu/) tarafından düzenlenen Blockchain Zirvesi'ne sevgili [Elçin Karatay](https://twitter.com/elcin_karatay/) ve [Bora Erdamar](https://twitter.com/berdamar/) ile konuk olduk. Bir saat süremizin olduğu programda, özellikle regülasyonlar konusunda dünyadaki gelişmeleri ele aldık.
 
 
 &nbsp;
 
 <table><tr><td style="width:50%">
-<img src="/assets/blockchain_zirvesi_yayin_1200.jpg">
+<img alt="Blockchain Zirvesi yayınında Bora Erdamar, Turan Sert ve Elçin Karatay" src="/assets/blockchain_zirvesi_yayin_1200.jpg">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/qd6BSTaMYFA?t=8930" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe loading="lazy" title="2020 Blockchain Zirvesi - İstanbul Blockchain Okulu" width="224" height="126" src="https://www.youtube-nocookie.com/embed/qd6BSTaMYFA?t=8930" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Programdan bir görüntü...  

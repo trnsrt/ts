@@ -22,7 +22,7 @@ Kuzey Kore, ABD'nin [1950'lerden beri yaptırım uyguladığı](https://en.wikip
 | *Tornado Cash'e gelen varlıkların kaynağı. Kaynak: [Chainalysis](https://blog.chainalysis.com/reports/tornado-cash-ofac-designation-sanctions/)*|
 
 ### Otoriteler ve merkezi kurumlar nasıl tepki verdiler?
-ABD Hazine Bakanlığının kara para faaliyetlerini önleme alanında çalışan iki kurumu var. Bunlardan biri [FINCEN](https://www.fincen.gov/) (Financial Crimes Enforcement Network - Mali Suçları Araştırma Ağı)  diğeri ise [OFAC](https://home.treasury.gov/policy-issues/office-of-foreign-assets-control-sanctions-programs-and-information) (Office of Foreign Assets Control - Yabancı Varlıklar Kontrol Dairesi). FinCEN özellikle finansal kurumların şüpheli işlemleri belirleme konusunda izleyecekleri yol konusunda politikalar üretirken, OFAC direkt şüpheli kişi ya da kurumların [belirlenmesi](https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists) ve yaptırım uygulanması ile [uğraşıyor](https://cryptobriefing.com/makerdao-should-seriously-consider-preparing-for-dai-depeg-founder/). 
+ABD Hazine Bakanlığının kara para faaliyetlerini önleme alanında çalışan iki kurumu var. Bunlardan biri [FINCEN](https://www.fincen.gov/) (Financial Crimes Enforcement Network - Mali Suçları Araştırma Ağı)  diğeri ise [OFAC](https://ofac.treasury.gov/sanctions-programs-and-country-information) (Office of Foreign Assets Control - Yabancı Varlıklar Kontrol Dairesi). FinCEN özellikle finansal kurumların şüpheli işlemleri belirleme konusunda izleyecekleri yol konusunda politikalar üretirken, OFAC direkt şüpheli kişi ya da kurumların [belirlenmesi](https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists) ve yaptırım uygulanması ile [uğraşıyor](https://cryptobriefing.com/makerdao-should-seriously-consider-preparing-for-dai-depeg-founder/). 
 
 İşte bu iki kurumdan biri olan OFAC, 8 Ağustos 2022'de yayınladığı [bir bildiri](https://home.treasury.gov/news/press-releases/jy0916) ile Tornado Cash uygulamasını ve bu uygulama ile ilişkilendirdiği 38 adresi [yasaklı listesine](https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20220808) (SDN - Specially Designated Nationals and Persons List) aldığını açıkladı. 
 
@@ -38,11 +38,11 @@ Bu açıklamanın hemen ardından Tornado Cash ile ilgili ardı ardına aksiyonl
 
 * [Infura](https://infura.io/) ve [Alchemy](https://www.alchemy.com/) gibi merkezi altyapı sağlayıcılar, Tornado Cash ön yüzüne [ulaşımı kestiler](https://www.theblock.co/post/162402/infura-and-alchemy-blocking-access-to-tornado-cash).
 
-* [dydx](https://www.coindeskturkiye.com/sirketler/dydx-bazi-hesaplari-engelledi-1473), Aave, Uniswap, [Balancer](https://twitter.com/BalancerLabs/status/1558212602257231873) benzeri merkeziyetsiz olma hedefinde olan ancak hâlâ merkezi unsurları bulunan protokoller web sitelerinden Tornado Cash ile etkileşime girmiş hesapları [bloke etmeye](https://cryptoslate.com/defi-protocols-aave-uniswap-balancer-ban-users-following-ofac-sanctions-on-tornado-cash/) ya da yetkililere bildirmeye başladılar.
+* [dydx](https://web.archive.org/web/20220819022321/https://www.coindeskturkiye.com/sirketler/dydx-bazi-hesaplari-engelledi-1473), Aave, Uniswap, [Balancer](https://twitter.com/BalancerLabs/status/1558212602257231873) benzeri merkeziyetsiz olma hedefinde olan ancak hâlâ merkezi unsurları bulunan protokoller web sitelerinden Tornado Cash ile etkileşime girmiş hesapları [bloke etmeye](https://cryptoslate.com/defi-protocols-aave-uniswap-balancer-ban-users-following-ofac-sanctions-on-tornado-cash/) ya da yetkililere bildirmeye başladılar.
 
 * Tornado Cash'i yürüten DAO kendisini [feshetti](https://cryptoslate.com/tornado-cash-contributor-reveals-dao-shut-down-as-it-cant-fight-the-us-need-to-keep-contributors-safe/). Grup, Discord kanalını ve yönetim forumunu [kapattı](https://www.theblock.co/post/163228/tornado-cashs-discord-server-and-governance-forum-shuttered-amid-arrest) 
 
-* Belki de en ilginç olanı, Hollanda resmi otoriteleri Tornado Cash geliştiricilerinden birini tutukladığını [açıkladı](https://www.coindeskturkiye.com/politika/supheli-tornado-cash-gelistiricisi-hollandada-tutuklandi-1493).
+* Belki de en ilginç olanı, Hollanda resmi otoriteleri Tornado Cash geliştiricilerinden birini tutukladığını [açıkladı](https://web.archive.org/web/20220812130206/https://www.coindeskturkiye.com/politika/supheli-tornado-cash-gelistiricisi-hollandada-tutuklandi-1493).
 
 ### Kripto dünyası bu konuda ne düşünüyor?
 Tornado Cash'e karşı alınan bu aksiyonlar kripto dünyasında tam anlamıyla bir soğuk duş etkisi yarattı.  Konu ile ilgili pek çok kişi ve kurum tepki verdi. Bu tepkileri birkaç temel nokta çevresinde toplamak mümkün. 
@@ -59,7 +59,7 @@ Buraya kadar, Tornado Cash olayını ve arkasından yaşananları toparladık. B
 
 ---
 
-*Not 1: Bu yazı ilk olarak 20 Ağustos 2022'de [Coindesk Türkiye](https://www.coindeskturkiye.com/))'de [yayınlandı](https://www.coindeskturkiye.com/yazarlar/turan-sert/tornado-cash-olayi-ve-dusundurdukleri-1602)*
+*Not 1: Bu yazı ilk olarak 20 Ağustos 2022'de [Coindesk Türkiye](https://www.coindeskturkiye.com/))'de [yayınlandı](https://web.archive.org/web/20220820095010/https://www.coindeskturkiye.com/yazarlar/turan-sert/tornado-cash-olayi-ve-dusundurdukleri-1602)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 

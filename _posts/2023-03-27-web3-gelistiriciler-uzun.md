@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Web3 dünyasında buyümenin habercisi geliştiricileri - Uzun versiyon"
+title:  "Web3 dünyasında büyümenin habercisi geliştiricileri - Uzun versiyon"
 date:   2023-03-27 18:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi

@@ -5,6 +5,7 @@ date:   2021-05-25 17:47:56 +0300
 categories: Genel
 tags: Yazılar, Articles
 image: /assets/hands-3348986_800.jpg
+lang: en
 ---
 
 Let's have a look at the main philosophy behind blockchain technologies: 

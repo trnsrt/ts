@@ -15,7 +15,7 @@ Geçtiğimiz haftaki yazımızda stabil paralardaki son duruma göz atmış ve b
 
 Ethena'nın stabil para değil de 'sentetik para' olarak nitelediği USDe'nin bir de gelir getirici bir yanı olabiliyor. O da basılan USDe'lerin sisteme kilitlenmesi durumunda, yukarıda bahsedilen işlemden doğan kârın USDe sahibine veriliyor olması. 
 
-"Bu kâr nedir?" diye soracak olursanız: İki farklı parçası var. Birincisi nispeten daha stabil olan, ETH olarak verilen teminatın Ethereum sistemine stake edilmesinden doğan ödül. İkincisi ise teminat kadar rakamın 'short' edilmesinden doğan bir kâr (ki bu kimi zaman negatif olup zarar da yazabililyor). 
+"Bu kâr nedir?" diye soracak olursanız: İki farklı parçası var. Birincisi nispeten daha stabil olan, ETH olarak verilen teminatın Ethereum sistemine stake edilmesinden doğan ödül. İkincisi ise teminat kadar rakamın 'short' edilmesinden doğan bir kâr (ki bu kimi zaman negatif olup zarar da yazabiliyor). 
 
 USDe'nin sisteme kitlenmesi sonrası oluşturulan sUSDe tokeninin getirisi değişken olmakla birlikte %30-40'lar bandına kadar çıkabiliyor. Tabii bu kadar ciddi kâr getiren bu ürün, aynı zamanda ciddi olarak dikkat edilmesi gereken riskleri de beraberinde getiriyor. Gelin şimdi bu risklere göz atalım. 
 
@@ -99,7 +99,7 @@ Bu arada şu anki short pozisyon gelirlerinin geçmiş yıllara göre az olduğu
 ### Bir nokta daha: MakerDAO da trene bindi
 Bu arada yaşanan ilginç bir gelişme daha var. Piyasanın merkeziyetsiz oyuncusu olan DAI'yi çıkaran MakerDAO, yakın bir zaman önce açılan DAI/USDe ve DAI/sUSDe havuzlarına 300 milyon DAI enjekte etti. Temel olarak yapılmak istenen şu: ellerinde sUSDe tutan kullanıcılar, bu parayı getirip bu havuza koyarak karşılığında DAI borçlanabilecekler. Sonrasında bu DAI'yi satıp USDe alacak ve aldıkları bu USDe'yi tekrar Ethena sistemine kilitleyerek sUSDe alacak ve bunu tekrar bu havuza koyacaklar. Bu durum, sUSDe getirisi DAI borçlanma getirisinden yüksek olduğu sürece devam edebilecek[^3]. 
 
-MakerDAO, kendisinden borçlanma yoluyla alınan DAI'ler için [şu anda  %20.82 oranında bir faiz uyguluyor](https://app.morpho.org/market?id=0xc581c5f70bd1afa283eed57d1418c6432cbff1d862f94eaf58fdd4e46afbb67f).  Bu durum hem USDe'nin kullanımını artırıyor, hem de MakerDAO için ekstra bir gelir kapısı yaratıyor. İki tarafı için de kazan-kazan (win-win) bir durum bu. 
+MakerDAO, kendisinden borçlanma yoluyla alınan DAI'ler için [şu anda  %20.82 oranında bir faiz uyguluyor](https://app.morpho.org/ethereum/market/0xc581c5f70bd1afa283eed57d1418c6432cbff1d862f94eaf58fdd4e46afbb67f).  Bu durum hem USDe'nin kullanımını artırıyor, hem de MakerDAO için ekstra bir gelir kapısı yaratıyor. İki tarafı için de kazan-kazan (win-win) bir durum bu. 
 
 ### Sonuç 
 Ethena'nın çıkardığı iki token hem rezerv para olma hem de bir bono gibi kazanç sağlama anlamında yatırımcıların bir kısmını tatmin edebilecek ürünler. 

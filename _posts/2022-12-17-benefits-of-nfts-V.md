@@ -5,13 +5,14 @@ date:   2022-12-17 10:47:56 +0300
 categories: Genel
 tags: Yazılar, NFT, Articles
 image: /assets/dandelions-g3162baa09_800.jpg
+lang: en
 ---
 
 We continue to look the ways how an NFT would add value to any object or service. 
 
 In our previous posts, we have identified several solid components of value-add that an NFT would specifically bring.  In our very last post, we covered two key attributes, namely IP rights and ease of transfer👇
 
-<a href="/genel/2022/10/24/what-are-the-benefits-of-NFTs-IV.html">
+<a href="/genel/2022/11/21/benefits-of-nfts-IV.html">
          <img alt="Tweet" src="/assets/benefits-of-ntfs-4_640.png"></a>
 
 In addition to those there are also a couple of side benefits that NFT would bring. While these are all vague, we will try to look at couple of them in this post. 👉
@@ -33,6 +34,6 @@ All in all, this creates a virtuous circle. The more value collectors get from t
 As you see there are several additional benefits that NFTs would bring to the table. Some might consider it vague or even marginal, but to those in teh art world the effects of such benefits are enormous. We will continue to explore the benefits of NFT in our future posts…
 
 ---
-*This piece was [first published]() in [BlockchainIST Center](https://medium.com/blockchainist-center) on December 17th, 2022.*
+*This piece was [first published](https://medium.com/bcistcenter/benefits-of-nfts-v-8a1a6af99033) in [BlockchainIST Center](https://medium.com/blockchainist-center) on December 17th, 2022.*
 
 *None of the views expressed in this article should be considered as investment advice*

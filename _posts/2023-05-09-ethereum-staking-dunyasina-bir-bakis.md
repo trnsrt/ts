@@ -53,7 +53,7 @@ Temmuz 2022'de bu alandaki en büyük spekülatörlerden olan 3AC diğer stratej
 Aslına bakarsanız, 3AC krizinin Lido ile bir ilişkisi yok. O nedenle, bir süre sonra stETH/ETH oranı tekrar makul düzeylere (her ne kadar bir miktar düşük olsa da) geldi. Şu anda da rehin edilen tüm ETH'ler içinde [%32 pazar payı ile](https://dune.com/hildobby/eth2-staking) piyasanın lideri.
 
 #### Nasıl çalışıyor Lido?
-Lido'nun çalışma prensibi olarak bir 'aracı' olduğunu hemen belirtelim. Kullanıcılar, Lido'nun akıllı kontratları aracılığıyla ETH'lerini bu alanda hizmet veren 30 adet operatör üzerinden ETH sistemine yatırıyorlar. (Belirli kıstaslar uygulanarak Lido tarafından seçilen bu operatörlerin her birine stake etmeleri için verilen ETH miktarı [neredeyse eşit miktarda](https://www.rated.network/o/Lido?network=mainnet&timeWindow=1d&viewBy=operator&page=1)). 
+Lido'nun çalışma prensibi olarak bir 'aracı' olduğunu hemen belirtelim. Kullanıcılar, Lido'nun akıllı kontratları aracılığıyla ETH'lerini bu alanda hizmet veren 30 adet operatör üzerinden ETH sistemine yatırıyorlar. (Belirli kıstaslar uygulanarak Lido tarafından seçilen bu operatörlerin her birine stake etmeleri için verilen ETH miktarı [neredeyse eşit miktarda](https://web.archive.org/web/20230426204000/https://www.rated.network/o/Lido?network=mainnet&timeWindow=1d&viewBy=operator&page=1)). 
 
 Rehin ettikleri ETH, staking geliri kazandıkça kullanıcıların da ellerindeki stETH miktarı artıyor. Bu durum, yani elde tutulan stETH miktarının sürekli değişiyor olması (ingilizcede rebasing olarak geçiyor), kimi DeFi protokolleri için sorun teşkil etmezken (Curve, Yearn gibi) kimileri için (Uniswap, 1Inch gibi) problemli bir durum. Bu nedenle, wstETH denen, adedi sabit ama değeri kazandığı staking geliri ile birlikte artan 'dürüm' token da kullanıcıların hizmetine [sunulmuş durumda](https://help.lido.fi/en/articles/5231836-what-is-wrapped-steth-wsteth).  
 
@@ -104,7 +104,7 @@ LSD'ler staking geliri sağlamak amacıyla Ethereum üzerine rehin edilen kapita
 
 ---
 
-*Not 1: Bu yazı ilk olarak 9 Mayıs 2023'de [Coindesk Türkiye'de yayınlandı](https://www.coindeskturkiye.com/yazarlar/turan-sert/eth-staking-dunyasinin-oyuncularina-bakis-4360)*
+*Not 1: Bu yazı ilk olarak 9 Mayıs 2023'de [Coindesk Türkiye'de yayınlandı](https://web.archive.org/web/20230509134404/https://www.coindeskturkiye.com/yazarlar/turan-sert/eth-staking-dunyasinin-oyuncularina-bakis-4360)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 

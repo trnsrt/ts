@@ -7,11 +7,11 @@ tags: videos Etkinlikler
 image: /assets/yeni-paradigma-poster.jpg
 ---
 
-<img align="left" src="/assets/yeni-paradigma-poster.jpg" style="width:40%; padding-right:20px"> [Coindesk Türkiye](https://www.coindeskturkiye.com/)'nin tanıtım lansmanında kurucusu [Serdar Turan](https://www.coindeskturkiye.com/yazarlar/serdar-turan-1) ile Merkeziyetsiz Finansın geleneksel finansta yaratabileceği paradigma değişimini konuştuk. Sevgili Serdar, kurucusu olduğu Harvard Business Review Türkiye ve BusinessWeek Türkiye dergileri ile geleneksel dünyanın içinde büyümüş biri olsa da, değişen dünyanın dinamiklerini yakından takip eden biri. Türkiye'ye getirdiği Coindesk Türkiye ile birlikte kripto alanında saygın bir yer alacağına şüphem yok. 
+<img alt="CoinDesk Türkiye Yeni Paradigma lansman afişi" align="left" src="/assets/yeni-paradigma-poster.jpg" style="width:40%; padding-right:20px"> [Coindesk Türkiye](https://www.coindeskturkiye.com/)'nin tanıtım lansmanında kurucusu [Serdar Turan](https://web.archive.org/web/20221003114545/https://www.coindeskturkiye.com/yazarlar/serdar-turan-1) ile Merkeziyetsiz Finansın geleneksel finansta yaratabileceği paradigma değişimini konuştuk. Sevgili Serdar, kurucusu olduğu Harvard Business Review Türkiye ve BusinessWeek Türkiye dergileri ile geleneksel dünyanın içinde büyümüş biri olsa da, değişen dünyanın dinamiklerini yakından takip eden biri. Türkiye'ye getirdiği Coindesk Türkiye ile birlikte kripto alanında saygın bir yer alacağına şüphem yok. 
 
 &nbsp;
 <table><tr><td style="width:50%">
-<img src="/assets/coindesk_poster.jpg">
+<img alt="Yeni Paradigma etkinliği konuşmacı afişi, Turan Sert" src="/assets/coindesk_poster.jpg">
 </td>
 <td style="width:50%">
 https://webinar.coindeskturkiye.com/record/the-new-paradigm?lang=tr </td></tr>

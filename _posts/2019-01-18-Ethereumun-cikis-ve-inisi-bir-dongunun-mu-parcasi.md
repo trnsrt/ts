@@ -67,7 +67,7 @@ Peki bu böyle mi devam eder. Bu işlerin aslında bir daire çizdiğini söylem
 
 ### Arkası yarın
 
-Şu anda Kripto Dünyası hala çok küçük. Tüm piyasa toplam değeri yaklaşık olarak [128 Milyar ABD Doları](https://coinmarketcap.com/charts/). Sadece Apple'ın kasasında duran nakit paranın [158 Milyar ABD Doları](https://www.cultofmac.com/272570/apples-cash-reserves-30x-10-years-ago/) olduğunu söylersek aslında ne kadar küçük bir pazardan bahsettiğimiz daha anlaşılır oluyor. O nedenle, bu pazarın bize sunduğu vizyonun bir parçasının bile gerçekleşeceğini düşünsek ileride bu pazarın çok çok daha büyüyeceğini söylemek kahinlik sayılmaz. Geçtiğimiz yılki çılgınlık sonrası hala girişimleri üzerinde çalışanlar ve daha ötesi yatırım almaya devam edenler, kendi sundukları vizyonun bir şekilde gerçeleşeceğinden eminler. Artık soru daha çok "ne zaman?" üzerine odaklanıyor. 
+Şu anda Kripto Dünyası hala çok küçük. Tüm piyasa toplam değeri yaklaşık olarak [128 Milyar ABD Doları](https://coinmarketcap.com/charts/). Sadece Apple'ın kasasında duran nakit paranın [158 Milyar ABD Doları](https://www.cultofmac.com/272570/apples-cash-reserves-30x-10-years-ago/) olduğunu söylersek aslında ne kadar küçük bir pazardan bahsettiğimiz daha anlaşılır oluyor. O nedenle, bu pazarın bize sunduğu vizyonun bir parçasının bile gerçekleşeceğini düşünsek ileride bu pazarın çok çok daha büyüyeceğini söylemek kahinlik sayılmaz. Geçtiğimiz yılki çılgınlık sonrası hala girişimleri üzerinde çalışanlar ve daha ötesi yatırım almaya devam edenler, kendi sundukları vizyonun bir şekilde gerçekleşeceğinden eminler. Artık soru daha çok "ne zaman?" üzerine odaklanıyor. 
 
 
 ---

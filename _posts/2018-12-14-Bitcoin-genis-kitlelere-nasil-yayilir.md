@@ -31,7 +31,7 @@ Bitcoin'in büyümesi ve geniş kitleler tarafından adapte edilmesinin önünde
 
 Bitcoin ile kıtalararası para gönderme yapabiliyorsunuz diyoruz. Bunun yaparken de maliyetleriniz oldukça düşük. Özellikle yurtdışında yaşayanlar için çok iyi haber. Ama bu göreceli olarak küçük bir kitle ve sınırötesi para transferini ayda yılda bir yapıyorlar. Bitcoin'in geniş kitlelere yayılması için yeterli değil. 
 
-Peki ya gündelik hayatta mikro ödemeler için Bitcoin kullanımı? İşte orada Bitcoin'in kendi iç kısıtlamalarına takılıyoruz. Bitcoin'in saniyede yapabileceği işlem sayısı 7 ile kısıtlanmış. Ethereum için bu sayı 20 işlem. Paypal'in saniyede 450, Visa'nın ise 56.000 işlem yapma kapasitesi olduğunu [söylersek](https://altcointoday.com/bitcoin-ethereum-vs-visa-paypal-transactions-per-second/) Bitcoin'in neden mikro ödemeler için kullanılamayacağını anlayabiliriz sanırım. 
+Peki ya gündelik hayatta mikro ödemeler için Bitcoin kullanımı? İşte orada Bitcoin'in kendi iç kısıtlamalarına takılıyoruz. Bitcoin'in saniyede yapabileceği işlem sayısı 7 ile kısıtlanmış. Ethereum için bu sayı 20 işlem. Paypal'in saniyede 450, Visa'nın ise 56.000 işlem yapma kapasitesi olduğunu [söylersek](https://web.archive.org/web/20181205092639/https://altcointoday.com/bitcoin-ethereum-vs-visa-paypal-transactions-per-second/) Bitcoin'in neden mikro ödemeler için kullanılamayacağını anlayabiliriz sanırım. 
 
 &nbsp;
 

@@ -7,15 +7,15 @@ tags: videos Etkinlikler
 image: /assets/kripto-konusmalar-800.jpg
 ---
 
-<img align="left" src="/assets/kripto-konusmalar-800.jpg" style="width:40%; padding-right:20px"> [İstanbul Blockchain Okulu](https://twitter.com/BlockchainOkulu)'nun [Habitat Derneği](https://twitter.com/habitatderneği) sponsorluğunda gerçekleşenb Kripto Konuşmalar'ın altıncısında, sevgili [Alp Işık](https://twitter.com/AlppIsik/) ile kitabım ve Blockchain uygulamaları konusunda bir sohbetimiz oldu. Link aşağıda. 
+<img alt="Kripto Konuşmalar 6. bölüm afişi, 5 Ağustos 2020" align="left" src="/assets/kripto-konusmalar-800.jpg" style="width:40%; padding-right:20px"> [İstanbul Blockchain Okulu](https://twitter.com/BlockchainOkulu)'nun [Habitat Derneği](https://twitter.com/habitatderneği) sponsorluğunda gerçekleşenb Kripto Konuşmalar'ın altıncısında, sevgili [Alp Işık](https://twitter.com/AlppIsik/) ile kitabım ve Blockchain uygulamaları konusunda bir sohbetimiz oldu. Link aşağıda. 
 
 &nbsp;
 
 <table><tr><td style="width:50%">
-<img src="/assets/kripto-konusmalar-640.jpg">
+<img alt="Kripto Konuşmalar sohbetinden kare, Turan Sert ve Alp Işık" src="/assets/kripto-konusmalar-640.jpg">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/7_hwH-uOT_c" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe loading="lazy" title="Kripto Konuşmalar #6 - Turan Sert" width="224" height="126" src="https://www.youtube-nocookie.com/embed/7_hwH-uOT_c" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Hararetli konuşma...   

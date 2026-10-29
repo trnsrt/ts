@@ -82,7 +82,7 @@ Hemen baştan belirtelim, rapora göz attığınızda ve Zeus Capital'in [websit
 
 Temel olarak bahsedilen, Chainlink'in hizmet sağlayıcı seçiminin şeffaf olmadığı, mevcut hizmet sağlayıcıların ağırlıklı olarak Chainlink ile ilişkili kişiler olduğu ve sistemin, ağ üyelerinden müşterilere hizmet verecek olanları seçerken bu kişileri kayırdığı şeklinde. 
 
-İddialardan bir başkası da, bir DeFi platformu olan [bZx](https://bzx.network)'in 2020 başında [yaşadıği iki hack olayının](https://cointelegraph.com/news/decentralized-lending-protocol-bzx-hacked-twice-in-a-matter-of-days) arkasında  Chainlink olduğu yönünde. Hack olayının ana nedeninin bZx'nin tek bir bilgi kaynağı ile çalışması gösterilmişti. Olayın duyulması ile birlikte LINK tokenin fiyatı ciddi bir şekilde arttı. Daha sonrasında da bZx [Chainlink ile çalışmaya başladı](https://coingape.com/bzx-hack-update-exchange-add-chainlink-protocol/). 
+İddialardan bir başkası da, bir DeFi platformu olan [bZx](https://web.archive.org/web/20201223104301/https://bzx.network)'in 2020 başında [yaşadıği iki hack olayının](https://cointelegraph.com/news/decentralized-lending-protocol-bzx-hacked-twice-in-a-matter-of-days) arkasında  Chainlink olduğu yönünde. Hack olayının ana nedeninin bZx'nin tek bir bilgi kaynağı ile çalışması gösterilmişti. Olayın duyulması ile birlikte LINK tokenin fiyatı ciddi bir şekilde arttı. Daha sonrasında da bZx [Chainlink ile çalışmaya başladı](https://coingape.com/bzx-hack-update-exchange-add-chainlink-protocol/). 
 
 Zeus Capital'in bu yazına karşı olarak büyük ihtimal ile Chainlink kaynaklı yayınlanan [bir başka Medium yazısı](https://smartcontentpublication.medium.com/debunking-the-zeus-capital-disinformation-report-on-chainlink-7313d9e1801#e581) olayın bir PR tiyatrosuna dönmüş olduğu izlenimini uyandırıyor. 
 
@@ -95,7 +95,7 @@ Chainlink, merkeziyetsiz finans platformlarının kritik ihtiyaçları içinde s
 
 Her konuda olduğu gibi bu alanda da sağlıklı bir rekabetin olması, ekosistemin gelişmesi için önemli. Önümüzdeki dönemde bu alanın nasıl gelişeceğini, rakiplerin pastadan daha büyük pay kapmak, Chainlink'in ise mevcut payını kaptırmamak için ne gibi hamleler yapacağını hep birlikte göreceğiz. 
 
-[^1] messari-report-crypto-theses-for-2021.pdf Sayfa 67
+[^1]: messari-report-crypto-theses-for-2021.pdf Sayfa 67
 
 ---
 

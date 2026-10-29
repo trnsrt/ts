@@ -45,7 +45,7 @@ Bu arada bir konuyu tekrarlamakta fayda var: Her ne kadar merkeziyetsiz bir sist
 
 Hatırlarsanız, [Uniswap kendi içinde basit bir algoritma kullanarak al-sat yapmak isteyenlere bir fiyat veriyordu](/genel/2020/09/15/nedir-bu-uniswap.html). Bunu yaparken algoritmanın temel hedefi, ne olursa olsun işlem yapmak isteyenlere bir fiyat vermek idi. **Nexus Mutual algoritması da benzer şekilde işlem yapmak isteyenlere otomatik bir fiyat veriyor. Ama bunu yaparken hem arz ve talebi, hem de Nexus Mutual havuzunun finansal sağlığını korumaya çalışıyor**.
 
-Nexus'un havuzunun temel amacı olası hasarlara karşı ödeme yapabilmek - bu sistemin olmazsa olması. **Bu nedenle havuzun içinde talepleri belirli oranda karşılayabilecek kadar kapital bulunması birincil hedef**. Bu kapital rakamı [Avrupa Birliği'nin yeterlilik standartlarına](https://www.eiopa.europa.eu/browse/solvency-ii/solvency-ii-background_en#Arisk-basedregulatoryframework) göre belirleniyor. Eğer havuzun içinde o belirlenen minimum oran kadar para yoksa öncelikle hiç kimse NXM satıp ETH alamıyor (bu oranın adı MCR - minimum capital requirement, minimum karşılık olarak düşünülebilirsiniz)[^3]. 
+Nexus'un havuzunun temel amacı olası hasarlara karşı ödeme yapabilmek - bu sistemin olmazsa olması. **Bu nedenle havuzun içinde talepleri belirli oranda karşılayabilecek kadar kapital bulunması birincil hedef**. Bu kapital rakamı [Avrupa Birliği'nin yeterlilik standartlarına](https://web.archive.org/web/20201027180809/https://www.eiopa.europa.eu/browse/solvency-ii/solvency-ii-background_en#Arisk-basedregulatoryframework) göre belirleniyor. Eğer havuzun içinde o belirlenen minimum oran kadar para yoksa öncelikle hiç kimse NXM satıp ETH alamıyor (bu oranın adı MCR - minimum capital requirement, minimum karşılık olarak düşünülebilirsiniz)[^3]. 
 
 Algoritmanın ikinci amacı ise, gelişen arz ve talebe göre NXM fiyatını ayarlayarak sistemi sağlıklı tutmak. Bunu da otomatik bir formül ile yapıyor[^4]. Temel olarak şu şekilde çalışıyor: 
 
@@ -80,7 +80,7 @@ Her ne kadar Akıllı Kontratlar var desek de, ödemeler henüz otomatik yapıla
 Herhangi bir hasar olayı olduğunda, ilgili üründen koruma almış olanlar, Nexus Mutual sitesine başvuruyorlar. Yapılan talep bir kısım NXM sahibi tarafından değerlendiriliyor. Burada ilginç bir nokta var: Talebi değerlendirenler ellerindeki NXM'leri sisteme kilitliyorlar. Kararların %70 çoğunluk ile verilmesi gerekiyor[^1]. Çoğunluk ile aynı yönde oy kullananlar ekstra NXM kazanıyor. Karşı oy kullananların ise NXM'leri bir süreliğine kilitli kalmaya devam ediyor ve incelemeye tabi tutuluyor. İnceleme sonucu kötü niyetli oldukları saptanırsa NXM'leri yakılıyor. Gördüğünüz gibi hasar talep sisteminin değerlendirilmesi hâlâ manuel şekilde oluyor denebilir - zira çoğunluğa karşı oy kullananları değerlendiren bir komite var beş üyeden oluşan - çok da merkeziyetsiz sayılmaz şu aşamada. 
 
 #### Hiç hasar karşılama ödemesi yapmış mı Nexus Mutual?
-Şimdiye kadar bir tek olayda ödeme yapılmış. 2020 Şubat ayında [bzX sistemindeki bir açıktan dolayı oluşan hasarda](https://bzx.network/blog/postmortem-ethdenver) Nexus Mutual üyeleri [iki adet koruma alan kullanıcının için toplam 35,000 ABD Doları'na yakın bir ödeme yapmışlar](https://medium.com/nexus-mutual/bzx-flash-loan-event-55753d19e52b). Şu ana kadar toplam 53 hasar talebi geldiğini ve sadece az önce bahsettiğimiz bZx hasarına ait üç talebin karşılandığını, 47 talebin reddedildiğini de hatırlatalım[^2]
+Şimdiye kadar bir tek olayda ödeme yapılmış. 2020 Şubat ayında [bzX sistemindeki bir açıktan dolayı oluşan hasarda](https://web.archive.org/web/20201026104944/https://bzx.network/blog/postmortem-ethdenver) Nexus Mutual üyeleri [iki adet koruma alan kullanıcının için toplam 35,000 ABD Doları'na yakın bir ödeme yapmışlar](https://medium.com/nexus-mutual/bzx-flash-loan-event-55753d19e52b). Şu ana kadar toplam 53 hasar talebi geldiğini ve sadece az önce bahsettiğimiz bZx hasarına ait üç talebin karşılandığını, 47 talebin reddedildiğini de hatırlatalım[^2]
 
 ### Sonuç
 Birinci bölümünde genel olarak başladığımız bu yazıda ise daha teknik detaylarına girdiğimiz DeFi'da sigortacılık sistemi Nexus Mutual, şu ana kadar belli kısımları merkeziyetsizleşmiş gelecek vadeden bir proje. DeFi'nin büyümesi ve yeni ürünlerin ortaya çıkması ile birlikte büyümesi de yüksek bir ihtimal. Gelişimini yakından izleyeceğiz. 
@@ -89,9 +89,13 @@ Birinci bölümünde genel olarak başladığımız bu yazıda ise daha teknik d
 ---
 
 
-- [^1] Yapılan oylamada verilen karar %70 çoğunluk ile alınmalı - aksi takdirde tüm sistem tarafından bir oylama daha yapılıyor.
-- [^2] Üç adet talep henüz değerlendirme aşamasında
-- [^3] (bu oranın adı MCR - minimum capital requirement oranı). 𝑇𝑃 = 𝐴 + (𝑀𝐶𝑅𝐸𝑇𝐻/𝐶)∙ 𝑀𝐶𝑅%4
+[^1]: Yapılan oylamada verilen karar %70 çoğunluk ile alınmalı - aksi takdirde tüm sistem tarafından bir oylama daha yapılıyor.
+
+[^2]: Üç adet talep henüz değerlendirme aşamasında
+
+[^3]: (bu oranın adı MCR - minimum capital requirement oranı).
+
+[^4]: 𝑇𝑃 = 𝐴 + (𝑀𝐶𝑅𝐸𝑇𝐻/𝐶)∙ 𝑀𝐶𝑅%4
 
 ---
 Kaynaklar: 

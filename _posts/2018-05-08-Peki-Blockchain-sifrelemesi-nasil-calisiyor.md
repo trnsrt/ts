@@ -84,7 +84,7 @@ Böyle böyle sırayla tüm sayılar deneniyor. Ta ki bir sayı (diyelim "25264"
 &nbsp;
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_160oMzblY8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe loading="lazy" title="Blockchain 101 - A Visual Demo" width="560" height="315" src="https://www.youtube-nocookie.com/embed/_160oMzblY8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 &nbsp;
 

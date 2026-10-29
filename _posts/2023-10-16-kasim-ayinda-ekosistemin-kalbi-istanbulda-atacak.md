@@ -29,7 +29,7 @@ Gördüğünüz gibi Ethereum, akıllı kontrat platformu olarak adlandırılan 
 
 Devconnect etkinliği diğer başka etkinliklerden farklı bir işleyişe sahip. Ethereum'un merkeziyetsiz yapısından da ilham alan etkinlik, tek bir merkezde ya da alanda ve tek bir organizatör tarafından gerçekleştirilmiyor. Evet, Ethereum Foundation herkesin toplanabileceği Harbiye’de bulunan ICC’de (İstanbul Kongre Merkezi) bir çalışma alanı düzenliyor ve buraya yaklaşık 3,000 ile 5,000 arası katılımcı bekleniyor ama bu buzdağının görünen çok ufak bir kısmı. 
 
-Asıl olarak ise ekosistem paydaşları hafta boyunca kendi 1-2 günlük etkinliklerini (çoğu ICC ve yakınlarında) düzenliyor ki toplamda çok daha fazla kişi bu etkinliklere katılıyor. Resmi takvime Devconnect'in etkinlik [sayfasından](https://devconnect.org/schedule) ulaşabilirsiniz[^2]. Bu resmi etkinliklerin yanında [pek çok yan etkinlik](https://cryptoevents.xyz/DevconnectWeek) de topluluk ile buluşuyor. 
+Asıl olarak ise ekosistem paydaşları hafta boyunca kendi 1-2 günlük etkinliklerini (çoğu ICC ve yakınlarında) düzenliyor ki toplamda çok daha fazla kişi bu etkinliklere katılıyor. Resmi takvime Devconnect'in etkinlik [sayfasından](https://devconnect.org/istanbul) ulaşabilirsiniz[^2]. Bu resmi etkinliklerin yanında [pek çok yan etkinlik](https://cryptoevents.xyz/DevconnectWeek) de topluluk ile buluşuyor. 
 
 Farklı etkinlikler genelde Ethereum dünyasının gündeminde yer alan geleceğe dönük en önemli sorunlar ve bu sorunlara çözüm üretmeye dayanan projeler tarafından düzenleniyor. Etkinliklerin pek çoğu ücretsiz ve etkinlik sayfasına girip kayıt olabiliyorsunuz. Paralı olan etkinlikler ise genelde oldukça ucuz ve öğrenciler için ücretsiz ya da ciddi iskontolu. 
 
@@ -43,9 +43,9 @@ Etkinlikte kimlerin konuşmacı olacağı [etkinlik sitesinde](https://ethgunu.c
 ### Neler yapmalı?
 Ethereum dünyasına ilgi duyan ve daha yakından tanımak isteyen biri iseniz bu etkinlikler tam size göre. Gidip, olabildiğince çok insan ile tanışıp, ilgilendiğiniz konularda aklınıza takılanları rahatlıkla sorabilirsiniz. Emin olun, hiç kimse sizi sorularınızdan dolayı yadırgamayacak, elinden geldiğince yardımcı olmaya çalışacak ve  bilmedikleri konularda konunun uzmanlarına yönlendirecek. 
 
-Bunun yanında daha aktif bir rol almak isterseniz, başta ETHGünü olmak üzere hemen hemen tüm etkinlikler gönüllü kabul ediyorlar. Tek yapmanız gereken, [konferans sitesinden](https://devconnect.org/schedule) ilginizi çeken etkinliğin organizasyon sayfasına giderek düzenleyicilerine ulaşmak ve gönüllü olduğunuzu yazmak. (Örneğin, Ethereum Foundation'da bütün etkinliklerden sorumlu kişi olan [Skyler Weaver](https://twitter.com/skylar_eth), kariyerine bir Ethereum etkinliğinde fotoğrafçı olarak başlamış.)
+Bunun yanında daha aktif bir rol almak isterseniz, başta ETHGünü olmak üzere hemen hemen tüm etkinlikler gönüllü kabul ediyorlar. Tek yapmanız gereken, [konferans sitesinden](https://devconnect.org/istanbul) ilginizi çeken etkinliğin organizasyon sayfasına giderek düzenleyicilerine ulaşmak ve gönüllü olduğunuzu yazmak. (Örneğin, Ethereum Foundation'da bütün etkinliklerden sorumlu kişi olan [Skyler Weaver](https://twitter.com/skylar_eth), kariyerine bir Ethereum etkinliğinde fotoğrafçı olarak başlamış.)
 
-Eğer bu konulara ilgi duyan daha ileri seviye bir kullanıcı ya da geliştirici iseniz, zaten çoktan etkinlikte yerinizi almışsınızdır diye tahmin ediyorum. Eğer almadıysanız, Devconnect sistesinde bulunan [onlarca etkinliğe](https://devconnect.org/schedule) bir göz atmanızı tavsiye ederim. 
+Eğer bu konulara ilgi duyan daha ileri seviye bir kullanıcı ya da geliştirici iseniz, zaten çoktan etkinlikte yerinizi almışsınızdır diye tahmin ediyorum. Eğer almadıysanız, Devconnect sistesinde bulunan [onlarca etkinliğe](https://devconnect.org/istanbul) bir göz atmanızı tavsiye ederim. 
 
 ### Sonuç
 Kripto dünyasının lider ekosistemi Ethereum'un 2023 yılında bir araya geleceği en büyük etkinlik olan Devconnect'in Türkiye'de yapılacak olması, ülkemiz için büyük bir şans. Bu alana ilgi duyan başta öğrenciler ya da genç profesyoneller olmak üzere herkesin bu etkinliklerden maksimum fayda sağlaması, hem kendi kariyer planları hem de ülkemizde ekosistemin gelişebilmesi açısından büyük bir fırsat. Kaçırmamanız dileğiyle... 
@@ -62,6 +62,6 @@ Kripto dünyasının lider ekosistemi Ethereum'un 2023 yılında bir araya gelec
 
 [^1]: Ethereum'un geliştiriciler için düzenlediği iki büyük konferans bulunmakta. Bunlardan birincisi çok daha merkezi bir yapıda olan [Devcon](https://devcon.org/) - ki bu sene düzenlenmeyecek ve önümüzdeki yıl güneydoğu Asya'da yapılacak.  İkincisi ise ülkemizde düzenlenen Devconnect. 
 
-[^2]: Etkinliklerin listesi sadece [Devconnect](https://devconnect.org/schedule) sayfası ile sınırlı değil. Bunun yanında [web3events](https://www.web3event.org/topic/5#Topic), [Crypto Events](https://cryptoevents.xyz/DevconnectWeek) ve [luma](https://lu.ma/devconnect) üzerinde listelenmiş onlarca etkinlik daha var.
+[^2]: Etkinliklerin listesi sadece [Devconnect](https://devconnect.org/istanbul) sayfası ile sınırlı değil. Bunun yanında [web3events](https://web.archive.org/web/20231004103718/https://www.web3event.org/topic/5#Topic), [Crypto Events](https://cryptoevents.xyz/DevconnectWeek) ve [luma](https://lu.ma/devconnect) üzerinde listelenmiş onlarca etkinlik daha var.
 
 ---

@@ -5,6 +5,7 @@ date:   2021-11-13 17:47:56 +0300
 categories: Genel
 tags: Yazılar, Articles
 image: /assets/sense-4017574_800.jpg
+lang: en
 ---
 
 This is our second post on Bitcoin and Ethereum where we look at the similarities and differences between Bitcoin and Ethereum. 
@@ -12,7 +13,7 @@ This is our second post on Bitcoin and Ethereum where we look at the similaritie
 As you might remember, we have talked about what Bitcoin and Ethereum are and their philosophies in our earlier posts. To sum up those, let's quickly recap the similarities between these two systems in this post. We will talk about their differences in our next post.
 
 ### How are they different?
-The similarities between Bitcoin and Ethereum comee from the main fact that both are born out of the same community. However, once Ethereum started developing and maturing it has followed its own path. 
+The similarities between Bitcoin and Ethereum come from the main fact that both are born out of the same community. However, once Ethereum started developing and maturing it has followed its own path. 
 
 | ![paths](/assets/sense-4017574_800.jpg)|
 |:--:| 

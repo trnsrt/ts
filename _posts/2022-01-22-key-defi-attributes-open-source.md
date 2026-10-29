@@ -5,6 +5,7 @@ date:   2022-01-22 17:47:56 +0300
 categories: Genel
 tags: Yazılar, Articles
 image: /assets/statue-1217630_800_v2.jpg
+lang: en
 ---
 
 We keep on looking at key attributes of DeFi, this time 'open source'. 
@@ -36,7 +37,7 @@ If you ask certain people (and I am one of them) trademarks and patents are real
 
 ### How about in DeFi
 
-One of my favorite thinkers of the space [Naval Ravikant](www.twitter.com/naval) once [wrote](https://twitter.com/naval/status/1444366754650656770?s=20) 'Open source means each problem only has to be solved once'
+One of my favorite thinkers of the space [Naval Ravikant](https://x.com/naval) once [wrote](https://twitter.com/naval/status/1444366754650656770?s=20) 'Open source means each problem only has to be solved once'
 
 <a href="https://twitter.com/naval/status/1444366754650656770?s=20)">
          <img alt="Tweet" src="/assets/naval_tweet_open_source_800.png"></a>

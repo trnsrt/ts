@@ -24,7 +24,7 @@ Diğer yandan farklı projeler Ethereum sistemini kullanmaya başlarsa bu sefer 
 
 Sonuç olarak hem kullanılan gas hem de birim gas fiyatlarında bir artış olması söz konusu. Bunun uzun vadede Ethereum sistemine nasıl bir etkisi olacağını göreceğiz ancak çok olumlu olmayacağını tahmin etmek zor değil. 
 
-Bu arada böyle bir senaryonun Ethereum topluluğunda yıllardır konuşulduğunu ve ölçeklenme alanında gerek zincir içinde gerekse zincir dışında pek çok çalışma yapıldığını da belirtelim (daha detaylı bilgilenmek isterseniz plasma ve roll-up gibi ölçekleme çalışmaları ile ilgili İngilizce [şu yazıyı](https://www.tokendaily.co/blog/the-state-of-ethereum-l2) okuyabilirsiniz)
+Bu arada böyle bir senaryonun Ethereum topluluğunda yıllardır konuşulduğunu ve ölçeklenme alanında gerek zincir içinde gerekse zincir dışında pek çok çalışma yapıldığını da belirtelim (daha detaylı bilgilenmek isterseniz plasma ve roll-up gibi ölçekleme çalışmaları ile ilgili İngilizce [şu yazıyı](https://web.archive.org/web/20200803093212/https://www.tokendaily.co/blog/the-state-of-ethereum-l2) okuyabilirsiniz)
 
 ### ETH para politikası
 ETH’nin geleceğini belirleyecek bir başka konu ise para politikası. Öyle ya, BTC’yi savunanların en büyük ‘satış noktası’ BTC arzının 21 milyon ile sınırlı olması. Peki ya ETH’de durum ne?
@@ -55,7 +55,7 @@ Ethereum için ise bu ileride değişecek gibi görünüyor. Zira Ethereum 2.0 i
 
 Temel olarak ETH’nin gelecekteki değerini belirleyecek önemli bir diğer etken başta DeFi olmak üzere üst seviye kullanıcıların Ethereum platformunu kullanmaya devam edip etmeyecekleri. 
 
-Burada Ethereum geliştiricilerinin yıllardır üzerinde uğraştığı blok zinciri bir üst seviyeye çıkaracak yeni versiyon çok belirleyici olacak. Ethereum 2.0 ya da kısaca eth2 olarak bilinen ve uzun süredir gündemde olan bu yeni versiyonun ne zaman başlayacağını ve nasıl bir zaman dilimi içinde hayata geçeceği merak konusu - beklenti 2020 yılı içinde başlaması (Ethereum 2.0 sürecinin teknik olarak nasıl işleyeceği ile ilgili Çağın Dönmez'in [şu yazısına](https://hackmd.io/@shaun/SklqMn6Fr) bakabilirsiniz)
+Burada Ethereum geliştiricilerinin yıllardır üzerinde uğraştığı blok zinciri bir üst seviyeye çıkaracak yeni versiyon çok belirleyici olacak. Ethereum 2.0 ya da kısaca eth2 olarak bilinen ve uzun süredir gündemde olan bu yeni versiyonun ne zaman başlayacağını ve nasıl bir zaman dilimi içinde hayata geçeceği merak konusu - beklenti 2020 yılı içinde başlaması (Ethereum 2.0 sürecinin teknik olarak nasıl işleyeceği ile ilgili Çağın Dönmez'in [şu yazısına](https://web.archive.org/web/20201028175932/https://hackmd.io/@shaun/SklqMn6Fr) bakabilirsiniz)
 
 Şu an için ETH kullanan projeler yarın öbür gün başka rakip platformları kullanır mı? Temmuz ayı içinde [Dr. Emin Gür Sürer’in liderliğinde yeni bir yatırım alan Avalanche](https://tr.avalabs.org/) bu alanda hızlı işlem çıktıları ile Ethereum’a rakip olma iddiasında olan bir platform. Ne kadar başarılı olacaklar her birlikte göreceğiz. 
 

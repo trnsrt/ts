@@ -80,7 +80,7 @@ Akıllı kontrat cüzdanlarını ortaya çıkaracak olan 'Account Abstraction' �
 
 ---
 [^1]: Yazımızda, Ethereum ve Ethereum ile uyumlu (EVM uyumlu) tüm blokzincirler (Polygon, Avalanche, FTM, BNB Chain gibi) içinde kullanılan cüzdanlardan bahsediyoruz (Solana, Near ve son zamanlarda moda olan Aptos benzeri blokzincirler konumuz dışı). 
-[^2]: Bu konuda Vitalik'in yazdığı [şu makale](https://vitalik.ca/general/2021/01/11/recovery.html) ilginizi çekebilir
+[^2]: Bu konuda Vitalik'in yazdığı [şu makale](https://vitalik.eth.limo/general/2021/01/11/recovery.html) ilginizi çekebilir
 [^3]: Kullanıcı, işlemi ECDSA denen bir imzalama tekniği kullanarak onaylıyor. 
 [^4]: Burada kontrol edilen üç temel konu var. İmza doğru mu (hesabın sahibi mi imzalamış), işlem sırası doğru mu (nonce denen işlem sırası, kullanıcının aynı anda iki işlem yaparak çifte harcama yapmasının önüne geçiyor) ve ağ doğru mu (kullanıcı doğru ağda mı işlem yapıyor, Ethereum, Avalanche, Polygon, BNB Chain gibi)?
 [^5]: Panelin tamamının videosuna şu [linkten](https://www.youtube.com/watch?v=WsZBymiyT-8&t=3s) ulaşabilirsiniz. 

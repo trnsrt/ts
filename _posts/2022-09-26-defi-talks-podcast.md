@@ -7,7 +7,7 @@ tags: videos Etkinlikler
 image: /assets/defitalks-podcast-1.jpg
 ---
 
-<img align="left" src="/assets/defitalks-podcast-1.jpg" style="width:40%; padding-right:20px"> [Coindesk Türkiye](https://www.coindeskturkiye.com/) tarafından yayınlanan ve [Baki Er](https://twitter.com/0xbaki) (aka [@DeFiLibrary](https://twitter.com/LibraryDefi) hazırlanan '[Baki Er ile DeFi Talks](https://www.coindeskturkiye.com/podcast/defitalks)' podcast serisinde, sevgili Baki bana ilk bölümde yer vermiş. İlk bölüm olduğu için DeFi nedir, Merkeziyetsiz Finans'ın temellerini neler oluşturuyor sorularına yanıt aradık birlikte. Baki ile her konuşma çok zevkli. Eğer bir yarım saatinizi ayırmak isterseniz gerek Spotify gerekse tüm podcast uygulamalarından dinleyebileceğiniz linkler aşağıda. 
+<img alt="Baki Er ile DeFi Talks #1 podcast kapağı, Turan Sert" align="left" src="/assets/defitalks-podcast-1.jpg" style="width:40%; padding-right:20px"> [Coindesk Türkiye](https://www.coindeskturkiye.com/) tarafından yayınlanan ve [Baki Er](https://twitter.com/0xbaki) (aka [@DeFiLibrary](https://twitter.com/LibraryDefi) hazırlanan '[Baki Er ile DeFi Talks](https://web.archive.org/web/20221204152958/https://www.coindeskturkiye.com/podcast/defitalks)' podcast serisinde, sevgili Baki bana ilk bölümde yer vermiş. İlk bölüm olduğu için DeFi nedir, Merkeziyetsiz Finans'ın temellerini neler oluşturuyor sorularına yanıt aradık birlikte. Baki ile her konuşma çok zevkli. Eğer bir yarım saatinizi ayırmak isterseniz gerek Spotify gerekse tüm podcast uygulamalarından dinleyebileceğiniz linkler aşağıda. 
 
 
 
@@ -16,10 +16,10 @@ image: /assets/defitalks-podcast-1.jpg
 
 
 <table><tr><td style="width:50%">
-<img src="/assets/coindesk_dao_talks.jpg">
+<img alt="Podcast kaydından kare, masa başında sohbet eden iki kişi" src="/assets/coindesk_dao_talks.jpg">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/UYPRILkoCBc" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe loading="lazy" title="DeFiTalks | Turan Sert - Geleceğin Finans Sistemi: DeFi" width="224" height="126" src="https://www.youtube-nocookie.com/embed/UYPRILkoCBc" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Programdan bir kesit  
@@ -39,10 +39,10 @@ Programdan bir kesit
 </td></tr> 
   
 <tr><td style="width:50%">
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4gSOZtNNe8hqDbzH1Ea5VA?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe title="Baki Er ile DeFi Talks podcast bölümü (Spotify)" style="border-radius:12px" src="https://open.spotify.com/embed/episode/4gSOZtNNe8hqDbzH1Ea5VA?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </td>
 <td style="width:50%">
-<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/22f845be-a3dd-499d-bf3c-e3e22313d876?dark=false"></iframe></td>
+<iframe loading="lazy" title="Baki Er ile DeFi Talks podcast bölümü (Simplecast)" height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/22f845be-a3dd-499d-bf3c-e3e22313d876?dark=false"></iframe></td>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Yayının Spotify Linki

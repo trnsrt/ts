@@ -7,16 +7,16 @@ tags: videos Etkinlikler
 image: /assets/tomorrow-girsimcinin-cagi-poster_800.jpg
 ---
 
-<img align="left" src="/assets/tomorrow-girsimcinin-cagi-poster_800.jpg" style="width:40%; padding-right:20px"> Tomorrow tarafından YouTube ve LinkedIn üzerinden canlı yayınlanan 'Girişimcilik Çağı' programında, İş Bankası Genel Müdür Yardımcısı [Sabri Gökmenler](https://www.linkedin.com/in/sabri-gokmenler/) ile birlikte [Ferhat Yalçın](https://www.linkedin.com/in/ferhatyalcin/)'ın konuğu olduk. Konumuz Web3 ve DeFi idi. Türkiye'nin en köklü bankalarından biri olan İş Bankası'nın üst düzey bir yöneticisinin teknolojinin bu uç noktası hakkında bu kadar bilgili olması doğrusu beni şaşırttı. Sizlere de bu programı seyretmenizi hararetle tavsiye ederim. Ferhat Bey'e daveti için tekrar teşekkürler. 
+<img alt="Girişimcilik Çağı programı afişi, Web 3.0 ve DeFi, 13 Temmuz 2023" align="left" src="/assets/tomorrow-girsimcinin-cagi-poster_800.jpg" style="width:40%; padding-right:20px"> Tomorrow tarafından YouTube ve LinkedIn üzerinden canlı yayınlanan 'Girişimcilik Çağı' programında, İş Bankası Genel Müdür Yardımcısı [Sabri Gökmenler](https://www.linkedin.com/in/sabri-gokmenler/) ile birlikte [Ferhat Yalçın](https://www.linkedin.com/in/ferhatyalcin/)'ın konuğu olduk. Konumuz Web3 ve DeFi idi. Türkiye'nin en köklü bankalarından biri olan İş Bankası'nın üst düzey bir yöneticisinin teknolojinin bu uç noktası hakkında bu kadar bilgili olması doğrusu beni şaşırttı. Sizlere de bu programı seyretmenizi hararetle tavsiye ederim. Ferhat Bey'e daveti için tekrar teşekkürler. 
 
 
 &nbsp;
 
 <table><tr><td style="width:50%">
-<img src="/assets/tomorrow-girsimcinin-cagi-sahne_800.jpg">
+<img alt="Tomorrow stüdyosunda Girişimcilik Çağı yayınından bir kare" src="/assets/tomorrow-girsimcinin-cagi-sahne_800.jpg">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/F6GuNmHVfgI" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe loading="lazy" title="Girişimcilik Çağı: Web 3.0 ve DeFi" width="224" height="126" src="https://www.youtube-nocookie.com/embed/F6GuNmHVfgI" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Programın kamera arkası...   

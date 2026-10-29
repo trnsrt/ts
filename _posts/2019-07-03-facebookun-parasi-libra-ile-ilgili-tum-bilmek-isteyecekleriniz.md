@@ -12,17 +12,17 @@ Artık sağır sultan bile duydu herhalde: Facebook, kripto para piyasasına Lib
 
 Bir paragrafta özetleyelim: 
 
-- Facebook, [27 diğer kurum](https://libra.org/en-US/partners/) ile birlik olarak merkezi Cenevre'de bulunan [bir vakıf kuruyor](https://libra.org/en-US/association/). 
+- Facebook, [27 diğer kurum](https://web.archive.org/web/20190703200846/https://libra.org/en-US/partners/) ile birlik olarak merkezi Cenevre'de bulunan [bir vakıf kuruyor](https://web.archive.org/web/20190703200847/https://libra.org/en-US/association/). 
 - Bu vakıf 2020 yılında Libra adında bir Blockchain kurarak aynı adlı bir kripto para çıkaracak. 
 - Bu para, aslında %100 dolar ve benzeri paralardan oluşan bir sepet ile desteklenen bir [SabitPara](/genel/2018/07/20/Orasi-cok-dalgali-sakin-sulara-gel-sabitparalar.html) (stable coin). 
 - Kişiden kişiye para transferi dışında, Facebook sistemi içindeki pek çok hizmet alımının karşılığında ödeme olarak da kullanılabilecek (ortaklar, örneğin Uber için de geçerli bu). 
-- Biz bireyler, elimizdeki TL, ABD Doları vb parayı Libra'ya çevirip sistem içinde kullanabileceğiz. Bunu yaparken normal olarak dijital cüzdanlar kullanacağız. [Calibra](https://calibra.com/), bu cüzdanların [Facebook tarafından]((https://newsroom.fb.com/news/2019/06/coming-in-2020-calibra/)) çıkarılan ilk örneği. 
+- Biz bireyler, elimizdeki TL, ABD Doları vb parayı Libra'ya çevirip sistem içinde kullanabileceğiz. Bunu yaparken normal olarak dijital cüzdanlar kullanacağız. [Calibra](https://calibra.com/), bu cüzdanların [Facebook tarafından](https://newsroom.fb.com/news/2019/06/coming-in-2020-calibra/) çıkarılan ilk örneği. 
 
 | ![libra_pixabay.png](/assets/libra_pixabay.png) | 
 |:--:| 
 | *Libra, Eski Romalı ağırlık ölçüsü biriminden esinlenme (Kaynak: [Pixabay](https://pixabay.com/images/id-1299238/))* | 
 
-Tanıtım Dokümanının İngilizcesine [buradan](https://libra.org/en-US/white-paper/) Türkçesine ise [Ebru Güven](https://medium.com/@tasebru)'in çevirisi ile [şuradan](https://t.co/SUMobWOpcg) ulaşabilirsiniz. 
+Tanıtım Dokümanının İngilizcesine [buradan](https://web.archive.org/web/20190703074516/https://libra.org/en-US/white-paper/) Türkçesine ise [Ebru Güven](https://medium.com/@tasebru)'in çevirisi ile [şuradan](https://t.co/SUMobWOpcg) ulaşabilirsiniz. 
 
 ### Facebook neden kripto para dünyasına giriyor?
 
@@ -30,7 +30,7 @@ Facebook neden bir kripto para çıkarıyor? Soruyu biraz daha açsak iyi olacak
 
 #### Facebook'un derdi ne?
 
-Facebook özünde Google ile birlikte dünyanın en büyük iki reklam ajansından biri. Ve kurduğu benzersiz iş modelinin temeli kullanıcı bilgilerini toplama ve bu bilgiler odağında kullanıcıya nokta atış reklam yapmaya dayanıyor. Ancak Facebook halka açık bir şirket ve Wall Street ondan sürekli olarak kârını artırmasını istiyor. Facebook'un elindeki en büyük varlık ne? 2,3 milyar [kullanıcı](https://zephoria.com/top-15-valuable-facebook-statistics/). Bunlardan bir yere kadar reklam geliri elde edebilir. Ama daha fazlasını vermesi lazım kârâ susamış fonlara, yoksa hisse senedi tepetaklak aşağı gider. 
+Facebook özünde Google ile birlikte dünyanın en büyük iki reklam ajansından biri. Ve kurduğu benzersiz iş modelinin temeli kullanıcı bilgilerini toplama ve bu bilgiler odağında kullanıcıya nokta atış reklam yapmaya dayanıyor. Ancak Facebook halka açık bir şirket ve Wall Street ondan sürekli olarak kârını artırmasını istiyor. Facebook'un elindeki en büyük varlık ne? 2,3 milyar [kullanıcı](https://web.archive.org/web/20190704195623/https://zephoria.com/top-15-valuable-facebook-statistics/). Bunlardan bir yere kadar reklam geliri elde edebilir. Ama daha fazlasını vermesi lazım kârâ susamış fonlara, yoksa hisse senedi tepetaklak aşağı gider. 
 
 Fotoğraflarınız, beğendiğiniz makaleler, sevdiklerinizin doğum günlerini kutlamak gibi özel hayatınızla ile ilgili sizi sizden iyi tanıyan Facebook, şimdi Libra ile sizin harcamalarınızı da görmek ve ona etki etmek istiyor. 
 
@@ -86,7 +86,7 @@ Facebook yeni çıkardığı sistem ile gerçekte kimin rakibi oluyor? Blockchai
 
 Bitcoin, tamamen dağıtık, merkezi ya da lideri olmayan bir yapı. Dolayısıyla sansür edilmesi çok ama çok zor (imkânsız da diyebilirsiniz ama büyük konuşmamak lazım). 
 
-Libra ise bir konsorsiyum tarafından yönetiliyor, her ne kadar lideri 2020 yılına kadar Facebook olsa da... Bütün konsorsiyum üyeleri, merkezi yapılar. Libra da benzer şekilde Cenevre merkezi bir yapı. Sansür edilmek ağır bir kelime olsa da, gerek kanunlar gerekse başka politik nedenler ile baskı görmeye hazır. Avrupa Birliği zaten 'dakika bir gol bir' "siz şimdi de bizim başımıza banka mı olmaya kalkıyorsunuz?" diye [başladı baskıya](https://www.bloomberg.com/news/articles/2019-06-18/france-calls-for-central-bank-review-of-facebook-cryptocurrency), keza ABD'de de [kaşlar havaya kalktı](https://www.coindesk.com/rep-maxine-waters-says-us-cant-let-facebooks-libra-compete-with-the-dollar). En son 2 Temmuz tarihinde Amerikan Temsilciler Meclisi Finansal Hizmetler Komisyonu Facebook'a resmi bir mektup göndererek [Libra geliştirmesini durdumasını](https://twitter.com/APompliano/status/1146208346543804418) istedi. 
+Libra ise bir konsorsiyum tarafından yönetiliyor, her ne kadar lideri 2020 yılına kadar Facebook olsa da... Bütün konsorsiyum üyeleri, merkezi yapılar. Libra da benzer şekilde Cenevre merkezi bir yapı. Sansür edilmek ağır bir kelime olsa da, gerek kanunlar gerekse başka politik nedenler ile baskı görmeye hazır. Avrupa Birliği zaten 'dakika bir gol bir' "siz şimdi de bizim başımıza banka mı olmaya kalkıyorsunuz?" diye [başladı baskıya](https://www.bloomberg.com/news/articles/2019-06-18/france-calls-for-central-bank-review-of-facebook-cryptocurrency), keza ABD'de de [kaşlar havaya kalktı](https://www.coindesk.com/rep-maxine-waters-says-us-cant-let-facebooks-libra-compete-with-the-dollar). En son 2 Temmuz tarihinde Amerikan Temsilciler Meclisi Finansal Hizmetler Komisyonu Facebook'a resmi bir mektup göndererek [Libra geliştirmesini durdurmasını](https://twitter.com/APompliano/status/1146208346543804418) istedi. 
 
 ##### Açıklık/kapalılık
 

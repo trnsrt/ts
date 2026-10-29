@@ -7,13 +7,13 @@ tags: kriptoPara bitcoin blockchain giriş Web3.0 dağıtık adem-i_merkezi
 image: /assets/Screenshot-2018-3-13 Google Trends.png
 ---
 
-Önceki yazılarımızda dijital dünyada son yaşanan gelişmelere farklı bir prespektiften bakmış ve bu gelişmelerin temelinde yer alan Blockchain teknojosine göz atarak bu dünyaya hızlı bir giriş yapmıştık. 
+Önceki yazılarımızda dijital dünyada son yaşanan gelişmelere farklı bir perspektiften bakmış ve bu gelişmelerin temelinde yer alan Blockchain teknolojisine göz atarak bu dünyaya hızlı bir giriş yapmıştık. 
 
 * Dijitalleşen dünyaya yeni gelen Web 3.0 dalgasının geçmişini ve nasıl bir etki yaratacağını "[Geceleri uykunuzu ne kaçırıyor?](/genel/2018/03/01/Geceleri-uykunuzu-ne-kaciriyor.html)" yazımızda
-* Dijitalleşen dünyadaki bu yeni dalganın alt yapısını oluşturan Blockchain teknolojisinin detayını ise  "[Sahi nedir bu Blockchain Allah aşkına?](/genel/2018/03/02/Sahi-nedir-bu-blockchain-allah-askina.html)" yazımızda bulabilirsinz. 
+* Dijitalleşen dünyadaki bu yeni dalganın alt yapısını oluşturan Blockchain teknolojisinin detayını ise  "[Sahi nedir bu Blockchain Allah aşkına?](/genel/2018/03/02/Sahi-nedir-bu-blockchain-allah-askina.html)" yazımızda bulabilirsiniz. 
 
 
-Konu ile ilgili bir parça okuduysanız, Blockchain teknojojisi üzerine kurulan onlarca hatta yüzlerce KriptoPara olduğunu göreceksiniz. Ancak herkesin dilinde Bitcoin var. (Baksanıza geçtiğimiz yıl “Dolar”dan daha fazla aranmış Google Türkiye'de): 
+Konu ile ilgili bir parça okuduysanız, Blockchain teknolojisi üzerine kurulan onlarca hatta yüzlerce KriptoPara olduğunu göreceksiniz. Ancak herkesin dilinde Bitcoin var. (Baksanıza geçtiğimiz yıl “Dolar”dan daha fazla aranmış Google Türkiye'de): 
 
 ![Google Search Trendds](/assets/Screenshot-2018-3-13 Google Trends.png)
 
@@ -68,11 +68,11 @@ Ha bu arada bu 10 dakikada bir mutabakat yapma iyi de teknoloji gelişiyor, maki
 
 Paranın iki ana özelliği var esasında. Bir değer saklama aracı olması, ikincisi değiş tokuşa aracılık etmesi. 
 
-Para ya da banknot eğer buna değer atfeden ya da bu kağıt parçası karşılığı bir hizmet veren varsa bir anlam taşır. Yoksa üzerinde dolar yazan yeşil bir banknot kağit parçası olarak arkasında ABD hükümeti olmadıkça bir anlam ifade etmez. Peki ya altın? Alıyor ve satıyorsunuz, yani birileri bu madene bir değer atfediyor (çıkartılması maliyetli diyorsanız, evet doğru aynen Bitcoin’de oduğu gibi) 
+Para ya da banknot eğer buna değer atfeden ya da bu kağıt parçası karşılığı bir hizmet veren varsa bir anlam taşır. Yoksa üzerinde dolar yazan yeşil bir banknot kağit parçası olarak arkasında ABD hükümeti olmadıkça bir anlam ifade etmez. Peki ya altın? Alıyor ve satıyorsunuz, yani birileri bu madene bir değer atfediyor (çıkartılması maliyetli diyorsanız, evet doğru aynen Bitcoin’de olduğu gibi) 
 
 Bitcoin, para dediğimiz mevhumun bu iki ana özelliğini de taşıyor: Değer depolama, ve değişim aracı olmak. Ancak özellikle son zamanlarda, Bitcoin’e talebin çok fazla olması, dolayısıyla çok değerlenmesi nedeniyle depolama özelliği ön plana çıktı. Zira insanlar fiyat yükseleceği beklentisiyle Bitcoin’i herhangi bir alım satım işlemi için kullanmayıp kenarda bekletiyorlar!
 
-O nedenle şu anda Bitcoin’in en benzetilebileceği araç altın. Değişim için fazla kullanılmıyor, eskimiyor, daha çok değeri için tutuluyor. Tabii başka avantajları var, hızlıca el değiştirebilimesi gibi. 
+O nedenle şu anda Bitcoin’in en benzetilebileceği araç altın. Değişim için fazla kullanılmıyor, eskimiyor, daha çok değeri için tutuluyor. Tabii başka avantajları var, hızlıca el değiştirilebilmesi gibi. 
 
 Tabii Bitcoin’in altın ve diğer resmi kağıt paralardan önemli bir farkı var. O da Bitcoin yaratımı kısıtlı ve bir süre sonra da (tahmini 2140 yılında) bitecek. Dolayısıyla da enflasyonist değil deflasyonist bir sistem ile kurulmuş. Bu da Bitcoin’in değerinin zaman geçtikçe yükseleceği şeklinde bir düşünce yaratıyor. Doğru mu değil mi göreceğiz. 
 
@@ -80,5 +80,5 @@ Bitcoin konusunda iyimser olanlar Bitcoin’in gelecekte dünyanın kullanacağ�
 
 Bitcoin konusundaki pesimistler ise, dünyanın şu anki hakimi olan güçlü kuruluşların Bitcoin sistemini de gelecekte aynı şekilde kontrol edeceği görüşündeler. Sonucun ne olacağını hep birlikte göreceğiz. 
 
-Bitcoin'in neden bu kadar değerlendiğini merak ediyorsanız [Bitcoin balon mu?](/genel/2018/03/05/Bitcoin-balon-mu.html) yazımıza göz atabilirsiniz. 
+Bitcoin'in neden bu kadar değerlendiğini merak ediyorsanız [Bitcoin balon mu?](/genel/2018/03/05/Butun-bunlar-bir-balon-mu.html) yazımıza göz atabilirsiniz. 
 

@@ -7,14 +7,14 @@ tags: videos Etkinlikler
 image: /assets/bloomberg-ht-kripto-para-poster_800.jpg
 ---
 
-<img align="left" src="/assets/bloomberg-ht-kripto-para-poster_800.jpg" style="width:40%; padding-right:20px"> BloombergHT Kripto Para programında, [Sefer Yüksel](https://twitter.com/SeferYuksel)'in konuğu olarak ABD SEC başkanı Gary Gensler'in kripto paralar ile ilgili Washington Post'a verdiği demeci, merkeziyetsiz finansı ve Türkiye'deki regülasyon ile ilgili gelişmeleri konuştuk.  
+<img alt="BloombergHT Kripto Para programı afişi" align="left" src="/assets/bloomberg-ht-kripto-para-poster_800.jpg" style="width:40%; padding-right:20px"> BloombergHT Kripto Para programında, [Sefer Yüksel](https://twitter.com/SeferYuksel)'in konuğu olarak ABD SEC başkanı Gary Gensler'in kripto paralar ile ilgili Washington Post'a verdiği demeci, merkeziyetsiz finansı ve Türkiye'deki regülasyon ile ilgili gelişmeleri konuştuk.  
 &nbsp;
 
 <table><tr><td style="width:50%">
-<img src="/assets/bloomberg-ht-210923.jpg">
+<img alt="BloombergHT yayınında stüdyodan konuşan Turan Sert" src="/assets/bloomberg-ht-210923.jpg">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/BX34Rwgfa7w" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe loading="lazy" title="ABD'de SEC'in açıklamaları kripto paraların geleceği için ne ifade ediyor? Fokus | 23.09.2021" width="224" height="126" src="https://www.youtube-nocookie.com/embed/BX34Rwgfa7w" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Yayından bir görüntü...  

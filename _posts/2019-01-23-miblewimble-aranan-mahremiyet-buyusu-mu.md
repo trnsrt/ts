@@ -30,7 +30,7 @@ Tom Elvis Jedusor, o yazıyı bıraktıktan sonra kayıplara karıştı. Chat or
 ### Ne garip isimler bunlar?
 Gerçekten değil mi? Yukarıdaki paragrafta ismi geçen şahısların hiçbiri gerçek değil. Ama hepsinin bir ortak özelliği var. O da Harry Potter! Gelin kim kimdir bakalım:
 
-- *MimbleWimble*: Yeni teknolojinin altyapısı olan protokolün adı. Harry Potter'ın [Deathly Hallows](https://en.0wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows) serisinde geçen bir büyü.  Amacı bir kişinin dilini bağlayarak büyü yapması için gerekli sözleri anlaşılır şekilde söylemesini önlemek. 
+- *MimbleWimble*: Yeni teknolojinin altyapısı olan protokolün adı. Harry Potter'ın [Deathly Hallows](https://en.wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows) serisinde geçen bir büyü.  Amacı bir kişinin dilini bağlayarak büyü yapması için gerekli sözleri anlaşılır şekilde söylemesini önlemek. 
 
 &nbsp;
 

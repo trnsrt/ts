@@ -63,7 +63,7 @@ Bu nesnelerin bana güzel gelmesi ve benim için özel olması çok da önemli d
 
 Herhangi bir eşyanın satıcı ile alıcı tarafından üzerinde anlaşılan  ortak bir değeri oluştuğunda, alışveriş için kullanacağım  nesnenin bu değeri tamı tamına karşılayabiliyor olması lazım. Hayatta her zaman bu kadar şanslı olmayacağımız için, genellikle elimizdeki nesnenin tamamı değil sadece bir parçası bu eşyayı almak için yeterli olacak. Aksi halde elimizdeki nesneden fazla fazla vereceğiz karşı tarafa, bir nevi nesnemizin değeri düşecek. İşte bu nedenle, nesnenin alt parçalara "**Bölünebilir**" olması, onun değerini artıran özelliklerden biri. 
 
-Gelelim paranın değerini artıran belki de en önemli, belki de ilk aklınıza gelen özelliğine. Eğer para olarak kullandığımız bu nesne tabiatta bolca bulunuyorsa o zaman ne olacak? Örneğin deniz kabuğunu alışverişi aracı olarak kullansak, herhalde balıkçılar zengin olurdu! Bu nedenle kullanılan nesne "**Kısıtlı**" olmalı ya da ünlü bir teorisyenin dediği gibi "[üretilmesi ya da taklit edilmesi çok maliyetli](http://nakamotoinstitute.org/shelling-out/)" olmalı ki değeri yüksek olsun. Bunu biraz daha açmakta fayda var:
+Gelelim paranın değerini artıran belki de en önemli, belki de ilk aklınıza gelen özelliğine. Eğer para olarak kullandığımız bu nesne tabiatta bolca bulunuyorsa o zaman ne olacak? Örneğin deniz kabuğunu alışverişi aracı olarak kullansak, herhalde balıkçılar zengin olurdu! Bu nedenle kullanılan nesne "**Kısıtlı**" olmalı ya da ünlü bir teorisyenin dediği gibi "[üretilmesi ya da taklit edilmesi çok maliyetli](https://nakamotoinstitute.org/shelling-out/)" olmalı ki değeri yüksek olsun. Bunu biraz daha açmakta fayda var:
 * Bir maden ne kadar kısıtlı olursa ya da üretmesi zor olursa o kadar değerli olur. Neden? Çünkü taklit edilemez. Taklit edilmesi zor bir nesne, kolayca gerçek olduğu anlaşılacağı için alışverişlerde "güven" içinde kullanılabilir. 
 * Peki bu madde çıkarması zor ya da pahalı ise niye alışverişte kullanılsın? Haklısınız içgüdüsel olarak "bu masrafa değer mi?" diye düşünüyor olabilirsiniz. Ama şunu unutmayın
     * Bir nesne, bir alışverişte kullanılır ve bir işe yararsa (değer transferine aracılık ederse) bir değeri olur. 
@@ -80,7 +80,7 @@ Gelelim paranın değerini artıran belki de en önemli, belki de ilk aklınıza
 Şimdi de yukarıda saydığımız özellikleri Bitcoin, altın ve devlet tarafından çıkarılan banknot (ya da bu dünyadaki tanımı ile "Fiat") için karşılaştırmalı olarak değerlendirelim (Vijay Boyapati'nin "[Bullish Case for Bitcoin](https://medium.com/@vijayb_24615/the-bullish-case-for-bitcoin-6ecc8bdecc1)" yazısındaki değerlendirmesinin revize edilmiş hali): 
 &nbsp;
 
-![Image](/assets/bitcoin-altin-fiat-kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rma-revised.png?raw=true)
+![Image](/assets/bitcoin-altin-fiat-karsilastirma-revised.png?raw=true)
 &nbsp;
 
 &nbsp;
@@ -133,7 +133,7 @@ Gelelim paranın değerini artıran belki de en önemli, belki de ilk aklınıza
 #### Kısıtlılık
 - Altın, şu anda dünyada hatırı sayılır miktarda var ve yeni büyük bir arz beklenmiyor. Yine de teknolojideki değişimler kimi elde edilmesi zor rezervleri ekonomik hale getirip arzda artışa yol açabilir. Notumuz: **A**
 - Maalesef fiat paralar bu alanda sınıfta kaldılar. Zira para musluğu Merkez Bankaları'nın elinde ve para arzı ciddi boyutlara ulaşabiliyor. Notumuz: **F**
-- Bitcoin'in altın ve fiat paralara göre en ayırt edici özelliği bu. [Şu anda Bitcoin'in %80'i tedavülde](http://www.bitcoinblockhalf.com/). Kalan %20 ise 2140 yılına kadar her dört yılda bir azalarak tedavüle girecek. Arz belli ve gittikçe azalacağı için deflasyonist bir trend yaşanacağı söyleniyor ama bu Bitcoin fiyatı ileride artacak diye kesin bir hüküm vermeye yeterli değil. Notumuz: **A+**
+- Bitcoin'in altın ve fiat paralara göre en ayırt edici özelliği bu. [Şu anda Bitcoin'in %80'i tedavülde](https://www.bitcoinblockhalf.com/). Kalan %20 ise 2140 yılına kadar her dört yılda bir azalarak tedavüle girecek. Arz belli ve gittikçe azalacağı için deflasyonist bir trend yaşanacağı söyleniyor ama bu Bitcoin fiyatı ileride artacak diye kesin bir hüküm vermeye yeterli değil. Notumuz: **A+**
 &nbsp;
 
 &nbsp;
@@ -167,7 +167,7 @@ KriptoParalar üzerine bir hayli vakit harcadık. Bundan sonra, Blockchain tekno
 &nbsp;
 *Bu yazının esin kaynağı olan* 
 - *Vijay Boyapati'nin uzun ama oldukça açıklayıcı "[Bullish Case for Bitcoin](https://medium.com/@vijayb_24615/the-bullish-case-for-bitcoin-6ecc8bdecc1)" ve* 
-- *Nick Szabo'nun 2002 tarihli oldukça ağır ve karmaşık ama muhteşem "[Shelling Out: The Origins of Money](http://nakamotoinstitute.org/shelling-out/)"* 
+- *Nick Szabo'nun 2002 tarihli oldukça ağır ve karmaşık ama muhteşem "[Shelling Out: The Origins of Money](https://nakamotoinstitute.org/shelling-out/)"* 
 
 *yazılarına da göz atmanızı tavsiye ederim*
 

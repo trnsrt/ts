@@ -5,6 +5,7 @@ date:   2021-10-02 17:47:56 +0300
 categories: Genel
 tags: Yazılar, Articles
 image: /assets/diamonds-2142417_800.jpg
+lang: en
 ---
 
 In our previous posts, we looked at the philosophy behind Bitcoin. Ethereum, the second largest (by market cap) blockchain behind Bitcoin has a different philosophy. In this post, we are going to dive into the thinking behind the emergence of Ethereum. 

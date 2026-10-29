@@ -7,7 +7,7 @@ tags: Yazılar, DeFi
 image: /assets/stabil_para_gelisim_2308_800.png
 ---
 
-Bu yazımızda Fintech dünyasının devlerinden olan PayPal'in gectiğimiz hafta çıkardığı stabil para PYUSD'yi inceleyeceğiz. 
+Bu yazımızda Fintech dünyasının devlerinden olan PayPal'in geçtiğimiz hafta çıkardığı stabil para PYUSD'yi inceleyeceğiz. 
 
 ABD'de yaşanan kanuni belirsizlik ve özellikle 2023 başından beri kanuni otoritelerin hasmane tutumları kripto dünyasının üzerine bir kâbus gibi çökmüştü. İşte tüm bu kötü haberlerin arasında PayPal'in PYUSD adında bir stabil para çıkaracağını açıklaması, sektörün üzerindeki kara bulutların arasından bir güneş ışığı gibi belirdi. Gelin hep birlikte önce PayPal'ın bu hamlesini anlayalım, sonra da sektörün geleceğine yapabileceği etkileri tahmin etmeye çalışalım. 
 

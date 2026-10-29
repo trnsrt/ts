@@ -9,7 +9,7 @@ image: /assets/mona-lisa-1357716_800.jpg
 
 NFT dünyasını incelediğimiz yazı dizimizin ikinci bölümünde NFT'nin bir sanat eserine nasıl değer kattığını incelemeye devam edeceğiz.
 
-Serimizin ilk [bölümünde](/genel/2022/05/25/NFTler-nasil-deger-katar-1.html), bir sanat eserinin değerinin nereden geldiğini, konunun dışında bir amatör göz olarak değerlendirmiş, daha sonrasında da NFT'nin bir sanat eserine katabileceği ilk değer olan 'orjinalliğin teyidi'nden bahsetmiştik. Şimdi iki farklı özellik ile konuyu irdelemeye devam ediyoruz. 
+Serimizin ilk [bölümünde](/genel/2022/05/25/NFTnin-faydalari-1.html), bir sanat eserinin değerinin nereden geldiğini, konunun dışında bir amatör göz olarak değerlendirmiş, daha sonrasında da NFT'nin bir sanat eserine katabileceği ilk değer olan 'orjinalliğin teyidi'nden bahsetmiştik. Şimdi iki farklı özellik ile konuyu irdelemeye devam ediyoruz. 
 
 #### Sahipliğin ve geçmiş alıcıların teyidi 
 Bir sanat eserini değerli kılan sadece onu yaratan sanatçı olmuyor. Bu eserin geçmişte hangi koleksiyonlarda yer aldığı da ona değer katabilen bir başka unsur. Mona Lisa'nın bugün bu kadar ilgi görmesinde, eserin güzelliği, yaratıcısının dahiliği kadar, ona ev sahipliği yapan Louvre Müzesinin de büyük payı var kuşkusuz. 

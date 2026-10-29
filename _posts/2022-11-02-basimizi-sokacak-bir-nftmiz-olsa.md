@@ -54,7 +54,7 @@ NFT'lerin geniş kesimlerce adaptasyonu öyle bir günde olmayacak, üstelik ge�
 
 ---
 
-*Not 1: Bu yazı ilk olarak 2 Kasım 2022'de [Coindesk Türkiye](https://www.coindeskturkiye.com/))'de [yayınlandı](https://www.coindeskturkiye.com/yazarlar/turan-sert/basimizi-sokacak-bir-nftmiz-olsa-2562)*
+*Not 1: Bu yazı ilk olarak 2 Kasım 2022'de [Coindesk Türkiye](https://www.coindeskturkiye.com/))'de [yayınlandı](https://web.archive.org/web/20221102121904/https://www.coindeskturkiye.com/yazarlar/turan-sert/basimizi-sokacak-bir-nftmiz-olsa-2562)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 

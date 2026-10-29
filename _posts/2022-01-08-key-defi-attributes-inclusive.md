@@ -5,6 +5,7 @@ date:   2022-01-08 17:47:56 +0300
 categories: Genel
 tags: Yazılar, Articles
 image: /assets/migration-gd7aee7cd0_800.jpg
+lang: en
 ---
 
 We continue our series with accessibility or inclusiveness, one of the key attributes of DeFi. 

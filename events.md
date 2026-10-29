@@ -12,20 +12,20 @@ Yakın zamandaki tüm konuşmaların link'leri aşağıda:
 
 - BTC Haber ile Salı Buluşmaları - 5 Mayıs 2020 Canlı Yayın 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZYt_9Zp6YaU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe loading="lazy" title="BTCHaber ile Salı Buluşmaları - 2" width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZYt_9Zp6YaU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 &nbsp;
 
 - Blockchain Türkiye - 31 Mart 2020 Canlı yayın 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gCjw1-4ZOAs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe loading="lazy" title="BCTR Online Etkinlik: &quot;Sorularla Blockchain&quot;" width="560" height="315" src="https://www.youtube-nocookie.com/embed/gCjw1-4ZOAs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 &nbsp;
 
 <table><tr><td style="width:50%">
-<iframe width="112" height="63" src="https://www.youtube.com/embed/ZYt_9Zp6YaU" frameborder="0" allowfullscreen></iframe></td>
+<iframe loading="lazy" title="BTCHaber ile Salı Buluşmaları - 2" width="112" height="63" src="https://www.youtube-nocookie.com/embed/ZYt_9Zp6YaU" frameborder="0" allowfullscreen></iframe></td>
 <td style="width:50%">
-<iframe width="112" height="63" src="https://www.youtube.com/embed/gCjw1-4ZOAs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe loading="lazy" title="BCTR Online Etkinlik: &quot;Sorularla Blockchain&quot;" width="112" height="63" src="https://www.youtube-nocookie.com/embed/gCjw1-4ZOAs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </td></tr></table>
 
 
@@ -40,7 +40,7 @@ Yakın zamandaki tüm konuşmaların link'leri aşağıda:
    
 <table><tr><td style="width:50%">
 <a href="/genel/2018/04/16/istanbul-universitesi-panel.html">
-   <img src="/assets/iu_blockchain_afis_v3.png">
+   <img alt="Sistem Değişiyor Bitcoin ve Blockchain paneli afişi, 16 Nisan 2018" src="/assets/iu_blockchain_afis_v3.png">
 </a></td>
 <td style="width:50%">
 <p>Beta Gamma Sigma Society tarafından organize edilen "Sistem Değişiyor - Bitcoin & Blockchain" panelinde İstanbul Üniversitesi İşletme Fakültesi öğrencileri ile buluşmadan kareler..

@@ -38,7 +38,7 @@ Kripto para dünyasında da buna benzer bir durum gerçekleşti. Başta bireyler
 
 Aslında uzunca bir süredir pek çok devlet perde arkasında dijital paralar ile ilgili çalışmalar yapıyordu. Ancak 2019 yılında konu birdenbire gündeme oturdu.  
 
-Peki neden şimdi duymaya başladık? Çünkü ufak tefek bir azınlığa hitap eden kripto paralar (dünyanın sadece %1’inin bir şekilde kriptolara ‘bulaştığı’ [tahmin ediliyor](https://ethereumworldnews.com/bitcoin-btc-super-bullish-in-use-by-less-than-one-percent-of-world-population/)) kamuoyu için sinek vızıltısından farksızdı işin doğrusu. Ama Facebook’un Librası konuyu bir anda ekonomik gündemin en önlerine taşıdı. 
+Peki neden şimdi duymaya başladık? Çünkü ufak tefek bir azınlığa hitap eden kripto paralar (dünyanın sadece %1’inin bir şekilde kriptolara ‘bulaştığı’ [tahmin ediliyor](https://web.archive.org/web/20191119200317/https://ethereumworldnews.com/bitcoin-btc-super-bullish-in-use-by-less-than-one-percent-of-world-population/)) kamuoyu için sinek vızıltısından farksızdı işin doğrusu. Ama Facebook’un Librası konuyu bir anda ekonomik gündemin en önlerine taşıdı. 
 
 Neden? Pek çok nedeni var ama öncelikle Facebook gibi dünyanın her köşesinde 3 milyara yakın insanın kullandığı bir devin kripto para piyasasına giriyor olması, insanların hükümetlere “peki siz ne yapıyorsunuz?” diye hesap sormasına neden oluyor. Unutmayalım; ne kadar güçlü görünüyor olsalar da hükümetler de sonuç olarak PR çalışması yapmak zorundalar. Peki ne gibi tepkiler geldi Libra açıklaması sonrası?
 
@@ -52,7 +52,7 @@ Neden sadece Libra’ya baskı koydular da diğer paralara koymuyorlar? Aslında
 
 Genelde bu aksiyonlar kara para aklanmasını önleme ile ilgili olarak yapıldı. Bizim gündelik hayatta kullandığımız itibari paralardan kripto para dünyasına geçiş artık eskisi kadar kolay değil ve çok sıkı denetim altında. Bunu herhangi bir kripto para borsasında hesap açtırmaya çalıştığınızda rahatlıkla görebilirsiniz. 
 
-Kimi devletler vatandaşların kripto paralara ulaşımını toptan yasaklamak gibi önlemler de alıyorlar (bakınız [Hindistan](https://www.entrepreneur.com/article/343604)) - tabii bu önlemler ne kadar gerçekçi ciddi olarak düşünülmeli. 
+Kimi devletler vatandaşların kripto paralara ulaşımını toptan yasaklamak gibi önlemler de alıyorlar (bakınız [Hindistan](https://india.entrepreneur.com/technology/everything-you-need-to-know-about-the-proposed/343604)) - tabii bu önlemler ne kadar gerçekçi ciddi olarak düşünülmeli. 
 
 Bunun dışında devletler daha da baskı kurup kripto paraları yasaklayamaz mı? En çok sorulan sorulardan biri. Evet, ABD hükümeti örneğin Libra’yı yasaklamak için Facebook’a baskı yapabilir. Peki ama Bitcoin’i nasıl yasaklayacak? Hangi nedene dayanarak yasaklayacak onu sorgulamıyorum bile ama diyelim bir neden buldular, yasaklamak için kime baskı yapacak? Neyi yasaklayacak? 
 

@@ -69,4 +69,4 @@ Son yaşanan kriz geçtiğimiz yıl yaşadıklarımız gibi merkezi ama bu sefer
 
 [^3]: Bu bize “şu mektepler olmasa maarifi ne güzel idare ederdim (şu okullar olmasa milli eğitimi ne güzel yönetirdim)” diyen Abdülhamit dönemi Milli Eğitim Bakanını hatırlatıyor adeta. Bu arada bankalar arası 7/24 para transferine olanak sağlayacak olan [FEDNow](https://www.frbservices.org/financial-services/fednow) servisinin nihayet Temmuz 2023'de hayata geçeceğini de belirtelim. 
 
-[^4]: SVB bir gün içinde (9 Mart 2023) toplam mevduatının %25’ini [kaybetti](https://finance.yahoo.com/news/svb-depositors-investors-tried-pull-013220358.html) (yaklaşık 42 milyar ABD Doları)!!
+[^4]: SVB bir gün içinde (9 Mart 2023) toplam mevduatının %25’ini [kaybetti](https://www.bloomberg.com/news/articles/2023-03-11/svb-depositors-investors-tried-to-pull-42-billion-on-thursday) (yaklaşık 42 milyar ABD Doları)!!

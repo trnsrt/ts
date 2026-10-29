@@ -9,7 +9,7 @@ image: /assets/cem_kosmaz_instagram_live_2.jpg
 
 
 
-<img align="left" src="/assets/cem_kosmaz_instagram_live_2.jpg" style="width:10%; padding-right:20px"> 20 yıllık arkadaşım [Cem Koşmaz](https://instagram.com/cemkosmaz1) davet edince Instagram Live'ı denemek de kısmet oldu. Yaklaşık 40 dakika süren güzel bir sohbetti. Teşekkürler Cem.. 
+<img alt="Cem Koşmaz ile Instagram Live duyuru görseli" align="left" src="/assets/cem_kosmaz_instagram_live_2.jpg" style="width:10%; padding-right:20px"> 20 yıllık arkadaşım [Cem Koşmaz](https://instagram.com/cemkosmaz1) davet edince Instagram Live'ı denemek de kısmet oldu. Yaklaşık 40 dakika süren güzel bir sohbetti. Teşekkürler Cem.. 
 
 Cem özellikle sağlıklı yaşam konularında uzman.. Blokzincir ve kripto paralar konusunda da oldukça deneyimli imiş - onu konuşunca anladım. 
 

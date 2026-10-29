@@ -78,4 +78,4 @@ Bir sonraki yazımızda KriptoParaların Bitcoin'e bakalım artık..
 
 [Bitcoin tam olarak nedir?](/genel/2018/03/13/Bitcoin-ne-tam-olarak.html)
 
-[Bitcoin balon mu?](/genel/2018/03/05/Bitcoin-balon-mu.html)
+[Bitcoin balon mu?](/genel/2018/03/05/Butun-bunlar-bir-balon-mu.html)

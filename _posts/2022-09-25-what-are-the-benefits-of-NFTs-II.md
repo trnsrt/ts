@@ -5,13 +5,14 @@ date:   2022-09-25 22:47:56 +0300
 categories: Genel
 tags: Yazılar, NFT, Articles
 image: /assets/nft-7072864_800.jpg
+lang: en
 ---
 
 We continue on exploring how NFTs add value to any object. 
 
 In our [previous post](/genel/2022/08/19/what-are-the-benefits-of-NFTs.html), we looked at the concept of value and what constitutes 'value' in a typical art object. 👇
 
-<a href="/genel/2022/10/24/what-are-the-benefits-of-NFTs-1.html">
+<a href="/genel/2022/08/19/what-are-the-benefits-of-NFTs.html">
          <img alt="Tweet" src="/assets/benefits-of-ntfs-1_640.png"></a>
 
 In this post, we will look at how NFT would add value to such an object. 
@@ -44,6 +45,6 @@ We will continue to explore the benefits of NFT in our future posts...
          <img alt="Tweet" src="/assets/benefits-of-ntfs-3_640.png"></a>
 
 ---
-*This piece is [first published](https://medium.com/me/stats/post/36e41545f5c3) in [BlockchainIST Center](https://medium.com/blockchainist-center) on September 25th, 2022.*
+*This piece is [first published](https://medium.com/bcistcenter/benefits-of-nfts-ii-36e41545f5c3) in [BlockchainIST Center](https://medium.com/blockchainist-center) on September 25th, 2022.*
 
 *None of the views expressed in this article should be considered as investment advice*

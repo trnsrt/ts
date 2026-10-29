@@ -7,7 +7,7 @@ tags: Yazılar, DeFi, CoindeskTR
 image: /assets/pendant-941232_800.jpg
 ---
 
-Bugünkü konumuz, bu yıl Ocak ayında Ethereum kurucularından Vitalik Buterin tarafından [ortaya atılan](https://vitalik.ca/general/2022/01/26/soulbound.html) ve geçtiğimiz günlerde içinde Vitalik'in de yer aldığı bir ekip tarafından üzerine bir [araştırma yayınlanan](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763) Soulbound token olacak. 
+Bugünkü konumuz, bu yıl Ocak ayında Ethereum kurucularından Vitalik Buterin tarafından [ortaya atılan](https://vitalik.eth.limo/general/2022/01/26/soulbound.html) ve geçtiğimiz günlerde içinde Vitalik'in de yer aldığı bir ekip tarafından üzerine bir [araştırma yayınlanan](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763) Soulbound token olacak. 
 
 Soulbound token ('SBT') tıpatıp çeviride 'ruhen bağlı', daha anlaşılır bir ifadeyle transfer edilemez, devredilemez ya da kişiye 'özden bağlı' anlamında kullanılan yeni nesil bir token standardı. Ne olduğuna ve nasıl çalıştığına girmeden önce dilerseniz öncelikle aşina olduğumuz iki token çeşidini tekrar hatırlayalım.
 
@@ -36,7 +36,7 @@ SBT yani Türkçesiyle 'devredilemez token', kişilerin sahip oldukları tokenle
 
 | ![chain](/assets/pendant-941232_800.jpg)|
 |:--:| 
-| *Image by [Erika Fulop](https://[pixabay.com/users/geralt-9301/](https://pixabay.com/users/efulop-97816/)) from [Pixabay](https://pixabay.com/)*|
+| *Image by [Erika Fulop](https://pixabay.com/users/efulop-97816/) from [Pixabay](https://pixabay.com/)*|
 
 İyi de neden böyle bir özelliğe ihtiyaç duyarız?  
 
@@ -76,7 +76,7 @@ Devredilemez token, değiştirilebilir token (fungible token) ve değiştirileme
 
 Pratik uygulamada özellikle mahremiyet ile işlevsellik arasındaki hassas dengeyi tutturabilirse, önümüzdeki beş yıl içinde adından çokça söz ettirebilir. Hep söylediğimiz gibi, gelecek heyecan verici, hep birlikte yaşayarak göreceğiz. 
 
-[^1] İlk bölümde bahsettiğimiz, Weyl, Ohlhaver ve Buterin tarafından 10 Mayıs 2022'de yayınlanan '[Decentralized Society: Finding Web3's Soul](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763)' isimili makale Sayfa 2'den alıntı. 
+[^1]: İlk bölümde bahsettiğimiz, Weyl, Ohlhaver ve Buterin tarafından 10 Mayıs 2022'de yayınlanan '[Decentralized Society: Finding Web3's Soul](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763)' isimili makale Sayfa 2'den alıntı. 
 
 
 ---

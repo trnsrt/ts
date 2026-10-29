@@ -7,14 +7,14 @@ tags: videos Etkinlikler
 image: /assets/yollarda_tv_210317_poster_800.jpg
 ---
 
-<img align="left" src="/assets/yollarda_tv_210317_poster_800.jpg" style="width:40%; padding-right:20px"> Sevgili [Koray Bahar](https://twitter.com/KorayBahar) ve [Arman Eker](https://twitter.com/arman_eker) ile [Yollarda TV](https://twitter.com/YollardaTV)'nin YouTube yayınında [Merkeziyetsiz Finans ve Blockchain konuştuk](https://www.youtube.com/embed/WNmog-JfEbY). Yaklaşık 45 dakika süren oldukça keyifli bir program oldu.. Konuya ilgi duyanlar sohbet havasındaki yayına göz atabilirler. 
+<img alt="Yollarda TV canlı yayın afişi, DeFi and Blockchain konuk Turan Sert" align="left" src="/assets/yollarda_tv_210317_poster_800.jpg" style="width:40%; padding-right:20px"> Sevgili [Koray Bahar](https://twitter.com/KorayBahar) ve [Arman Eker](https://twitter.com/arman_eker) ile [Yollarda TV](https://twitter.com/YollardaTV)'nin YouTube yayınında [Merkeziyetsiz Finans ve Blockchain konuştuk](https://www.youtube.com/embed/WNmog-JfEbY). Yaklaşık 45 dakika süren oldukça keyifli bir program oldu.. Konuya ilgi duyanlar sohbet havasındaki yayına göz atabilirler. 
 &nbsp;
 
 <table><tr><td style="width:50%">
-<img src="/assets/yollarda_tv_210317_yayin_800.png">
+<img alt="Yollarda TV yayınında Koray Bahar, Arman Eker ve Turan Sert" src="/assets/yollarda_tv_210317_yayin_800.png">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/WNmog-JfEbY" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe loading="lazy" title="DeFi Nedir? Turan Sert ile Merkeziyetsiz Finans ve Blockchain | Yollarda #265" width="224" height="126" src="https://www.youtube-nocookie.com/embed/WNmog-JfEbY" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Yayından bir görüntü 
