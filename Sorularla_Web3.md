@@ -82,7 +82,7 @@ Gösterdiğiniz ilgiye teşekkürler!
 | 155 | ["TheBlock"](https://www.theblock.co/data/stablecoins/usd-pegged) |
 | 158 | ["öngörülüyor"](https://anlatilaninotesi.com.tr/20241119/2025e-dogru-yeni-nesil-para-biriminin-tum-detaylari-dijital-turk-lirasi-turkiye-icin-neden-oldukca-1090381254.html) |
 | 159 | ["110 kişinin çalıştığı"](https://www.apollo.io/companies/Tether-to/5569974e736964255dc85c00) |
-| 162 | ["Consensys"](https://consensys.net/knowledge-base/defi/) |
+| 162 | ["Consensys"](https://web.archive.org/web/20231123035412/https://consensys.net/knowledge-base/defi/) |
 | 165 | ["IMF Global Study Report, April 2022, Sayfa 80"](https://www.imf.org/en/Publications/GFSR/Issues/2022/04/19/global-financial-stability-report-april-2022) |
 | 167 | ["adamın hikayesini"](https://pulitzercenter.org/stories/my-money-or-your-life-bank-robbers-beirut) |
 | 168 | ["DefiLlama"](https://defillama.com/) |
@@ -90,7 +90,7 @@ Gösterdiğiniz ilgiye teşekkürler!
 | 170 | ["Zapper"](https://zapper.xyz/tr) |
 | 170 | ["Clave"](https://getclave.io/) |
 | 171 | ["Nexus Mutual"](https://nexusmutual.io/) |
-| 171 | ["ease"](https://armor.ease.org/) |
+| 171 | ["ease"](https://web.archive.org/web/20241206204355/https://armor.ease.org/) |
 | 177 | ["TheBlock"](https://www.theblock.co/data/nft-non-fungible-tokens/nft-overview) |
 | 179 | ["müzik ve film endüstrisinin toplamının iki katına kadar ulaşarak"](https://wagmi-games.gitbook.io/wagmi-games-whitepaper/3.-market-analysis) |
 | 183 | ["Ronin"](https://roninchain.com/) |
@@ -133,13 +133,13 @@ Gösterdiğiniz ilgiye teşekkürler!
 | 192 | ["BlueSky"](https://bsky.app/) |
 | 192 | ["Mastadon"](https://mastodon.social/explore) |
 | 192 | ["bu listedeki isimlerden"](https://github.com/2gatherproject/decentralized-social-apps-guide) |
-| 193 | ["mümkün"](https://docs.farcaster.xyz/developers/frames/) |
+| 193 | ["mümkün"](https://web.archive.org/web/20240820051123/https://docs.farcaster.xyz/developers/frames/) |
 | 193 | ["eklenebiliyor"](https://goldrush.dev/docs/unified-api/guides/what-is-decentralized-social-lens-farcaster-and-others/) |
 | 195 | ["Cambridge Analytica"](https://tr.wikipedia.org/wiki/Facebook-Cambridge_Analytica_veri_skandal%C4%B1) |
 | 197 | ["Ontology"](https://ont.io/) |
 | 197 | ["SelfKey"](https://selfkey.org/) |
 | 197 | ["Civic"](https://www.civic.com/) |
-| 197 | ["QuarkID"](https://docs.quarkid.org/en/) |
+| 197 | ["QuarkID"](https://web.archive.org/web/20250328084618/https://docs.quarkid.org/en/) |
 | 197 | ["Magic Link"](https://magic.link/) |
 | 198 | ["Cambridge Analytica örneğinden"](https://tr.wikipedia.org/wiki/Facebook-Cambridge_Analytica_veri_skandal%C4%B1) |
 | 199 | ["veri depolama hizmeti veren Filecoin"](https://turansert.com/genel/2021/04/20/definin-merkeziyetsiz-deposu-filecoin.html) |
@@ -192,7 +192,7 @@ Gösterdiğiniz ilgiye teşekkürler!
 | 223 | ["First Batch"](https://www.firstbatch.xyz/) |
 | 223 | ["Filecoin"](https://filecoin.io/) |
 | 223 | ["Arweave"](https://www.arweave.org/) |
-| 223 | ["Ceramic"](https://ceramic.network/) |
+| 223 | ["Ceramic"](https://web.archive.org/web/20241201174843/https://ceramic.network/) |
 | 223 | ["Tableland"](https://tableland.xyz/) |
 | 223 | ["Space and Time"](https://spaceandtime.io/) |
 | 223 | ["The Graph"](https://thegraph.com/) |
@@ -324,7 +324,7 @@ Gösterdiğiniz ilgiye teşekkürler!
 | 262 | ["geriledi"](https://ycharts.com/companies/GBTC/discount_or_premium_to_nav) |
 | 262 | ["düştü"](https://coinmarketcap.com/currencies/steth/steth/eth/) |
 | 262 | ["ekleyelim"](https://coingeek.com/3ac-founders-hit-with-9-year-capital-markets-ban-in-singapore/) |
-| 263 | ["haber yapmasıyla"](https://www.coindeskturkiye.com/sirketler/sam-bankman-friedin-iki-sirketi-ayni-bilancoda-bulusuyor-2581) |
+| 263 | ["haber yapmasıyla"](https://web.archive.org/web/20221103115349/https://www.coindeskturkiye.com/sirketler/sam-bankman-friedin-iki-sirketi-ayni-bilancoda-bulusuyor-2581) |
 | 263 | ["SBF"](https://twitter.com/SBF_FTX) |
 | 263 | ["Changpeng Zhao"](https://twitter.com/cz_binance) |
 | 263 | ["açıkladığı tweet"](https://twitter.com/cz_binance/status/1589283421704290306) |

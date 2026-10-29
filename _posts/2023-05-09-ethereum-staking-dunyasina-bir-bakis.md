@@ -104,7 +104,7 @@ LSD'ler staking geliri sağlamak amacıyla Ethereum üzerine rehin edilen kapita
 
 ---
 
-*Not 1: Bu yazı ilk olarak 9 Mayıs 2023'de [Coindesk Türkiye'de yayınlandı](https://www.coindeskturkiye.com/yazarlar/turan-sert/eth-staking-dunyasinin-oyuncularina-bakis-4360)*
+*Not 1: Bu yazı ilk olarak 9 Mayıs 2023'de [Coindesk Türkiye'de yayınlandı](https://web.archive.org/web/20230509134404/https://www.coindeskturkiye.com/yazarlar/turan-sert/eth-staking-dunyasinin-oyuncularina-bakis-4360)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 

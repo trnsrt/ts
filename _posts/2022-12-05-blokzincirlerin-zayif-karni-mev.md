@@ -29,11 +29,11 @@ Yüksek işlem ücreti vermenin en temel nedenlerinden biri **arbitraj fırsatla
 Bu alanda sevilmeyen işlemlere baktığımızda bunların en başında '**sandviç atak**' geliyor. Sandviç atak, temel olarak, birinin verdiği yüklü bir emrin önüne ve arkasına emirler koyup (adeta orijinal emri sandviç yaparak) o kişinin kârından bir parçayı cebe atmak demek. Örneğin, bir kişi, merkeziyetsiz bir havuzdan yüklü miktarda ETH satın almak istedi. Genelde böyle bir durumda alıcı, havuzdaki sığlıktan dolayı alım yaptığında o anki fiyatın biraz yükselebileceğini kabul ederek işleme girer (ingilizcede slippage denen örneğin %1'lik bir değişim). Alıcının verdiği emir, emirlerin toplandığı havuza düştüğünde (ki emirlerin havuza düştüğünde herkes tarafından görülebildiğini az önce belirtmiştik) bunu gören bir kullanıcı, madenciye yüksek işlem ücreti ödeyip bu işlemin önüne geçer. Yani? Henüz düşük fiyattaki ETH'yi satın alır, sonrasında büyük alıcının işlemi gelip, ETH fiyatını yükselttikten sonra elindeki ETH'yi yükselmiş fiyattan satar.
 
 #### Ne kadar önemli?
-MEV'nin buna benzer başka pek çok örneği var, ama yukarıdaki iki konu bu alandaki gelirin büyük bir kısmını oluşturuyor[^1]. Peki çok önemli bir konu mu bu?  MEV ile şu ana kadar [682 milyon ABD Doları değerin elde edildiğini](https://explore.flashbots.net) söylersek olayın büyüklüğünü kavrayabiliriz belki[^2]. Kimin cebinden çıkıyor peki bu MEV? Kullanıcıların cebinden. 
+MEV'nin buna benzer başka pek çok örneği var, ama yukarıdaki iki konu bu alandaki gelirin büyük bir kısmını oluşturuyor[^1]. Peki çok önemli bir konu mu bu?  MEV ile şu ana kadar [682 milyon ABD Doları değerin elde edildiğini](https://web.archive.org/web/20221212141030/https://explore.flashbots.net) söylersek olayın büyüklüğünü kavrayabiliriz belki[^2]. Kimin cebinden çıkıyor peki bu MEV? Kullanıcıların cebinden. 
 
 | ![mev-over-time](/assets/mev-over-time_v3_800_.png)|
 |:--:| 
-| *MEV'nin zaman içinde değişimi. Gördüğünüz gibi başlangıçta çok daha fazla iken zaman içinde azalıyor. Kaynak [Flashbots](https://explore.flashbots.net)*|
+| *MEV'nin zaman içinde değişimi. Gördüğünüz gibi başlangıçta çok daha fazla iken zaman içinde azalıyor. Kaynak [Flashbots](https://web.archive.org/web/20221212141030/https://explore.flashbots.net)*|
 
 Bu arada sorunun sadece işlemi gerçekleşmeyen ya da verdiği emirde yüksek fiyattan işlem yapmak zorunda kalan kullanıcılar ile sınırlı olmadığını belirtelim. Hedefledikleri bloklarda işlemlerin yer almasını isteyen kişiler, işlemlerin gerçeklemesini sağlayabilmek için adeta emir üzerine emir yağdırarak, hem blokların dolmasına hem de genel olarak işlem ücretlerinin artmasına neden oluyorlar. Bu nedenle sizin masum işlemleriniz hem geç hem de daha yüksek bir maliyetle gerçekleşiyor. 
 
@@ -43,7 +43,7 @@ Blokzincirler üzerinde MEV problemine henüz kökten bir çözüm getirildiği 
 
 #### MEV konusunda şimdiye kadar neler yapıldı?
 
-Şu ana kadar bu alanda yapılan geliştirmeler içinde en çok tutulan çözüm MEV'nin etkilerini azaltmayı hedefleyen araştırma kuruluşu [Flashbots](https://www.flashbots.net/) tarafından geliştirilen [MEV-Geth](https://github.com/flashbots/mev-geth) ve [MEV-Boost](https://github.com/flashbots/mev-boost/) uygulamaları oldu. Bu yazılımlar temel olarak, kullanıcıdan blokzincire uzanan zincir üzerindeki tüm oyunculara şeffaf bir oyun alanı getirerek, sistem üzerindeki verimsizlikleri ortadan kaldırdılar ve neredeyse [oyuncuların %90'ı tarafından kullanılır](https://explore.flashbots.net) oldular. 
+Şu ana kadar bu alanda yapılan geliştirmeler içinde en çok tutulan çözüm MEV'nin etkilerini azaltmayı hedefleyen araştırma kuruluşu [Flashbots](https://www.flashbots.net/) tarafından geliştirilen [MEV-Geth](https://github.com/flashbots/mev-geth) ve [MEV-Boost](https://github.com/flashbots/mev-boost/) uygulamaları oldu. Bu yazılımlar temel olarak, kullanıcıdan blokzincire uzanan zincir üzerindeki tüm oyunculara şeffaf bir oyun alanı getirerek, sistem üzerindeki verimsizlikleri ortadan kaldırdılar ve neredeyse [oyuncuların %90'ı tarafından kullanılır](https://web.archive.org/web/20221212141030/https://explore.flashbots.net) oldular. 
 
 #### Flashbots iyi güzel ama sorunları var
 
@@ -95,4 +95,4 @@ Dipnotlar:
 
 [^1]: Genelde bu sorunlar sandwich attack (front running+back running), time-bandit/uncle-bandit attacks, liquidations olarak adlandırılabilir. Genelde arbitrage MEV'lerin %90'ına denk. Bu konuda daha detaylı bilgilere [şu yazıdan](https://etherworld.co/2022/04/05/mev-research-report/) ulaşabilirsiniz. 
 
-[^2]: Bu oluşan değerin %64'ü madencilere işlem ücreti olarak ödendi, kalanı ise bu işlemi yapanlar tarafından cebe atıldı. Tüm detaylı istatistiklere [şu bağlantıdan](https://explore.flashbots.net) ulaşabilirsiniz. 
+[^2]: Bu oluşan değerin %64'ü madencilere işlem ücreti olarak ödendi, kalanı ise bu işlemi yapanlar tarafından cebe atıldı. Tüm detaylı istatistiklere [şu bağlantıdan](https://web.archive.org/web/20221212141030/https://explore.flashbots.net) ulaşabilirsiniz. 

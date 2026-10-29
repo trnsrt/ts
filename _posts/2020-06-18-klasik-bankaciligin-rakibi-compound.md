@@ -58,7 +58,7 @@ Neden bir kişi sistemden borç almak ister? Teminat verecek kadar "param" varsa
 Neden borç verirsiniz peki? Yatırım amaçlı. Bir süreliğine kenarda tutmak istediğiniz bir paraya faiz kazanmak isterseniz bu sistem tam size göre. 
 
 ### Kim kurmuş bu Compound'u? Güvenilir mi peki?
-Compound'u kuran ekip tecrübeli, ayrıca arkalarında teknoloji dünyasının en prestijli girişim sermayeleri var. Daha önce pek çok büyük kripto projesine yatırım yapmış [a16z](https://a16z.com/crypto/) ve [polychain capital](https://polychain.capital/) ve ABD'nin en büyük borsası [Coinbase](https://www.coinbase.com/)'in yatırım [fonu](https://ventures.coinbase.com/) bunlardan en belirgin ikisi. Bir DeFi hareketinin temel özelliği olarak tamamen şeffaf yürütülen sistem hem yatırımcılara hem de kullanıcılara bir nebze iç rahatlığı verebilir. Görebildiğim kadarıyla sistemdeki tek kapalı noktaya gelelim şimdi. 
+Compound'u kuran ekip tecrübeli, ayrıca arkalarında teknoloji dünyasının en prestijli girişim sermayeleri var. Daha önce pek çok büyük kripto projesine yatırım yapmış [a16z](https://web.archive.org/web/20200618071019/https://a16z.com/crypto/) ve [polychain capital](https://polychain.capital/) ve ABD'nin en büyük borsası [Coinbase](https://www.coinbase.com/)'in yatırım [fonu](https://ventures.coinbase.com/) bunlardan en belirgin ikisi. Bir DeFi hareketinin temel özelliği olarak tamamen şeffaf yürütülen sistem hem yatırımcılara hem de kullanıcılara bir nebze iç rahatlığı verebilir. Görebildiğim kadarıyla sistemdeki tek kapalı noktaya gelelim şimdi. 
 
 #### Tamamen merkeziyetsiz mi?
 Hayır. Merkeziyetsizlik "[uzun ince bir yol](https://www.youtube.com/watch?v=PXw3f9YTqV0)" ise Compound bu yolun ilerisinde ama sonunda değil. Olacak mı, o da belli değil açıkçası. 
@@ -74,11 +74,11 @@ Eğer tam merkeziyetsiz bir yapı düşünüyor olsaydık, o zaman direkt alıc�
 
 Compound, MakerDAO'ya göre bir parça daha basit. Bir analoji vermek gerekirse, Compound bir banka, MakerDAO ise merkez bankası. 
 
-Belki de bu nedenle MakerDAO kendi sistemini sürdürmek için bir sabit para ([DAI](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/dai)) yaratmışken, Compound'da benzer bir para yok - onlar DAI de dahil başka paraları kullanıyorlar, aynı bir banka gibi. 
+Belki de bu nedenle MakerDAO kendi sistemini sürdürmek için bir sabit para ([DAI](https://web.archive.org/web/20200922040747/https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/dai)) yaratmışken, Compound'da benzer bir para yok - onlar DAI de dahil başka paraları kullanıyorlar, aynı bir banka gibi. 
 
 Compound'un nihai hedefi, faizi belirlemede bir gösterge olacak, üzerine pek çok başka uygulamanın yazıldığı, kurucularının hakimiyetinden uzaklaşmış merkeziyetsiz bir protokol olmak. 
 
-Öte yandan Compound'un MakerDAO'dan bir diğer farkı da yönetim kısmında. Her iki sistemde de yönetim hakları için bir token çıkarılmış durumda: MakerDAO için [MKR](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/mkr-token), Compound için ise 2020 Haziran ayında çıkan COMP. 
+Öte yandan Compound'un MakerDAO'dan bir diğer farkı da yönetim kısmında. Her iki sistemde de yönetim hakları için bir token çıkarılmış durumda: MakerDAO için [MKR](https://web.archive.org/web/20200922051709/https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/mkr-token), Compound için ise 2020 Haziran ayında çıkan COMP. 
 
 Daha önce çıkan MKR özellikle Mart 2020'deki genel düşüş sonrasındaki aylarda çok ciddi değer kazandı. Fiyatı çok oynak olsa da yaklaşık 550 milyon ABD doları bir piyasa değerine sahip.
 &nbsp;

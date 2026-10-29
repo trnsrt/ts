@@ -50,7 +50,7 @@ Bir kaç yıl sürebilecek bu geçişin sonunda artık Ethereum sisteminin korun
 
 Ancak bu ödül rakamı eskisinden farklı. Normalde Ethereum madencilerine şu anki sistem olan PoW sırasında yılda 4.7 milyon adet ETH dağıtılıyor. Yeni sistem olan PoS'de ise bu ödül rakamı 1 milyon ETH'nin altına inebilir. Kesin rakam ne kadar insanın paralarını rehin ettiğine bağlı olarak değişecek. Vitalik'in tahmini yıllık 500 bin ETH civarı bir rakam olacağı idi ancak şu an için görünen rakamın daha az olacağı. 
 
-1 Aralık itibariyle başlayan ETH 2.0'ın başlangıç sürecinde, [şu ana kadar 1.2 milyon ETH civarında](TH&a=ETH&a=ETH&c=&c=&c=&c=&category=ETH%202.0&e=&e=&e=&e=&m=eth2.StakingPhase0GoalPercent&m=eth2.StakingVolumeSum&m=eth2.StakingTotalVolumeSum&m=eth2.StakingTotalValidatorsCount&mAvg=0&mAvg=0&mAvg=0&mAvg=0&mMedian=0&mMedian=0&mMedian=0&mMedian=0&mScl=lin&mScl=lin&mScl=lin&mScl=lin&miner=&miner=&miner=&miner=&resolution=24h&resolution=24h&resolution=24h&resolution=24h) olan rehin edilen paranın sonradan gelecek rehinler ile birlikte [2 ila 3 milyon ETH civarında olacağı](https://beaconscan.com) söylenebilir. Bu da ETH 2.0 ile birlikte yıllık olarak yaklaşık [200-300 bin ETH bir ödül](https://docs.ethhub.io/ethereum-basics/monetary-policy/#proof-of-stake-impact) demek. Vitalik'in tahmini olan 500 bin ETH ödül için yaklaşık 10 milyon ETH rehin edilmeli, ki olur mu göreceğiz. 
+1 Aralık itibariyle başlayan ETH 2.0'ın başlangıç sürecinde, [şu ana kadar 1.2 milyon ETH civarında](TH&a=ETH&a=ETH&c=&c=&c=&c=&category=ETH%202.0&e=&e=&e=&e=&m=eth2.StakingPhase0GoalPercent&m=eth2.StakingVolumeSum&m=eth2.StakingTotalVolumeSum&m=eth2.StakingTotalValidatorsCount&mAvg=0&mAvg=0&mAvg=0&mAvg=0&mMedian=0&mMedian=0&mMedian=0&mMedian=0&mScl=lin&mScl=lin&mScl=lin&mScl=lin&miner=&miner=&miner=&miner=&resolution=24h&resolution=24h&resolution=24h&resolution=24h) olan rehin edilen paranın sonradan gelecek rehinler ile birlikte [2 ila 3 milyon ETH civarında olacağı](https://beaconscan.com) söylenebilir. Bu da ETH 2.0 ile birlikte yıllık olarak yaklaşık [200-300 bin ETH bir ödül](https://web.archive.org/web/20201207052145/https://docs.ethhub.io/ethereum-basics/monetary-policy/#proof-of-stake-impact) demek. Vitalik'in tahmini olan 500 bin ETH ödül için yaklaşık 10 milyon ETH rehin edilmeli, ki olur mu göreceğiz. 
 
 Ancak bu sisteme geçiş hemen başlamayacak. Bir süre boyunca hem eski sistem ETH 1.0, hem de yeni sistem bir arada işleyecek. Bu sürede, hem madencilere hem de rehin verenlere ödül verilecek. Dolayısıyla, eğer ETH 1.0'dan 2.0'a geçiş bir yıl sürerse, 2021 yılı içinde basılacak olan ETH miktarı Vitalik'in tahmini ile yuvarlak olarak 5.2 milyon (4.7 milyon artı 500 bin) olacak. 
 
@@ -58,7 +58,7 @@ Bir süre sonra ise ETH 1.0, ETH 2.0'a katılacak ancak bunun ne zaman olacağı
 
 | ![eth_issuance_graph](/assets/eth_issuance_graph_v1_800.jpg)|
 |:--:| 
-| *ETH'nin yıllar içindeki para arzı (mavi ve sol taraf) ve yeni arzın toplam paraya oranı % (turuncu ve sağ taraf). 1 Aralık 2020 ETH 2.0 başlangıcına göre revize edildi. Kaynak: [ethhub.io](https://docs.ethhub.io/ethereum-basics/monetary-policy/#proof-of-stake-impact)*|
+| *ETH'nin yıllar içindeki para arzı (mavi ve sol taraf) ve yeni arzın toplam paraya oranı % (turuncu ve sağ taraf). 1 Aralık 2020 ETH 2.0 başlangıcına göre revize edildi. Kaynak: [ethhub.io](https://web.archive.org/web/20201207052145/https://docs.ethhub.io/ethereum-basics/monetary-policy/#proof-of-stake-impact)*|
 
 
 

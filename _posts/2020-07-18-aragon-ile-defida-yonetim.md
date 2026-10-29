@@ -46,7 +46,7 @@ Başta söyledik blokzincirlerde kanunlar yazılımcılar tarafından kod yazıl
 
 Peki sanal mahkeme nasıl çalışıyor? Kimler var? Güvenilir mi? Sanal mahkeme yargıç olmak isteyen ve bunun için sisteme özgü Aragon Network Juror (ANJ) token teminatı veren kişiler arasından rastgele bir şekilde seçiliyor. Seçilen üyeler önlerine gelen vakayı inceliyor ve oyluyorlar. Çoğunluğun verdiği karar kazanıyor. (Yalnız burada da ilginç bir durum var - eğer çoğunluk tarafında değilseniz teminat verdiğiniz para yanıyor). 
 
-Sistemin nasıl çalıştığı Aragon yatırımcılarından Joel Monegro'nun [şu yazısından](https://www.placeholder.vc/blog/2020/5/7/aragon-daos) ya da yargı sisteminin detaylarını [Aragon blog sayfasından](https://blog.aragon.one/aragon-agreements/) inceleyebilirsiniz. 
+Sistemin nasıl çalıştığı Aragon yatırımcılarından Joel Monegro'nun [şu yazısından](https://www.placeholder.vc/blog/2020/5/7/aragon-daos) ya da yargı sisteminin detaylarını [Aragon blog sayfasından](https://web.archive.org/web/20200804001518/https://blog.aragon.one/aragon-agreements/) inceleyebilirsiniz. 
 
 ### Gelecek heyecanlı... 
 

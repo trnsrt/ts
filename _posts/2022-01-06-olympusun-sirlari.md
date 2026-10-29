@@ -19,7 +19,7 @@ Olympus, ilk zamanlardaki DeFi protokollerinin aksine, likidite sağlamak için 
 | *Olympus Dağı Kaynak: [Flickr](https://www.flickr.com/photos/jasonpratt/2327758/in/photostream/) by [Jason Pratt](https://www.flickr.com/photos/jasonpratt/) published under [CC by 2.0 license](https://creativecommons.org/licenses/by/2.0/)*|
 
 Olympus bu yöntemi uygulayarak şu ana kadar kendini başarılı olmuş addediyor. Başarı kriterleri? 
-- OHM'nin işlem gördüğü en büyük yer olan [OHM-DAI havuzunun](https://analytics.sushi.com/tokens/0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5) katılım paylarının %99.99'u kendine ait (yani şu an 187 milyon ABD doları likiditesi olan havuzun neredeyse tek sahibi o). Bu sayede, havuz içindeki likiditenin ani bir şekilde çekilmesi gibi bir riskten koruyor kendini. 
+- OHM'nin işlem gördüğü en büyük yer olan [OHM-DAI havuzunun](https://web.archive.org/web/20211215020909/https://analytics.sushi.com/tokens/0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5) katılım paylarının %99.99'u kendine ait (yani şu an 187 milyon ABD doları likiditesi olan havuzun neredeyse tek sahibi o). Bu sayede, havuz içindeki likiditenin ani bir şekilde çekilmesi gibi bir riskten koruyor kendini. 
 - Piyasadaki OHM'lerin %90'ı Olympus'a kilitlenmiş durumda. Bu sayede, OHM'ler sürekli al-sat işlemine maruz kalmadan, uzun vadeli olarak bekliyorlar. 
 - DAO'nun hazinesinde 700 milyon ABD Doları değerinde token mevcut. Bu da, gelecekteki zor günler için hazinenin elinde duran cephane demek. 
 - Son olarak DAO'nun piyasa değeri 3 milyar ABD Dolarına yaklaşmış durumda, artan piyasa değeri özellikle düşük değerden girenler için ciddi bir kazanç anlamına geliyor. 

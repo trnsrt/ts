@@ -100,7 +100,7 @@ Ancak bu resmin sadece bir kısmı gibi. Yukarıdaki neden Grayscale'in %0 priml
 
 GBTC'nin piyasadaki değerini yeniden artırmak isteyen  Grayscale'in sahibi Digital Currency Group, [750 milyon ABD Doları'na kadar GBTC hissesini piyasadan satın alacağını](https://www.coindesk.com/digital-currency-group-ups-its-gbtc-share-purchases-to-750m-limit) açıkladı.
 
-Bu arada hani yatırımcılardan yıllık %6 ile para toplayan BlockFi vardı yukarıda bahsettiğimiz. Onlar da verdikleri faiz oranlarında [indirime gittiler](https://blockfi.com/our-btc-and-eth-rates-are-changing-and-heres-why). 
+Bu arada hani yatırımcılardan yıllık %6 ile para toplayan BlockFi vardı yukarıda bahsettiğimiz. Onlar da verdikleri faiz oranlarında [indirime gittiler](https://web.archive.org/web/20210426093954/https://blockfi.com/our-btc-and-eth-rates-are-changing-and-heres-why). 
 
 ### Bundan sonra neler olacak?
 Öncelikle, bundan sonrasında GBTC'nin eskisi gibi yüksek primler ile işlem göreceğini söylemek çok zor. Zira sürekli olarak primli işlem gören bir hissede, oluşturduğu mistik havayı sürdürüp prim miktarını daha da artırabilirsiniz, ancak hisse belli bir süre iskontolu işlem gördüğünde o hava artık yok olur. 

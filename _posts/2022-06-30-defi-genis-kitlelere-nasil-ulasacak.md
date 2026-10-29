@@ -76,7 +76,7 @@ DeFi, kullanıcılara klasik finans ile karşılaştırıldığında oldukça fa
 
 ---
 
-*Not 1: Bu yazı ilk olarak 30 Haziran 2022'de [Coindesk Türkiye](https://www.coindeskturkiye.com/))'de [yayınlandı](https://www.coindeskturkiye.com/yazarlar/turan-sert/defi-genis-kitlelere-nasil-ulasabilir-900)*
+*Not 1: Bu yazı ilk olarak 30 Haziran 2022'de [Coindesk Türkiye](https://www.coindeskturkiye.com/))'de [yayınlandı](https://web.archive.org/web/20220630110142/https://www.coindeskturkiye.com/yazarlar/turan-sert/defi-genis-kitlelere-nasil-ulasabilir-900)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
