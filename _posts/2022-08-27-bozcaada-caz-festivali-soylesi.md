@@ -25,7 +25,7 @@ image: /assets/bozcaada-caz-poster_800.jpg
 Etkinlik ile ilgili bir başka poster
 </p></td>
 <td style="width:50%; vertical-align:top">
-<p>Açıdığında buradan paylaşacağım</p>
+<p>Söyleşinin video kaydı</p>
 </td>
 </tr>
 </table>
