@@ -17,7 +17,7 @@ Ethereum yeni versiyona geçme süreci olan 'merge' konusunu gerek bu satırlard
 
 ### Ethereum nasıl bir gelecek planlıyor?
 
-Öncelikle Ethereum'un bir topluluk olduğunu ve gelecek ile ilgili kararların bu topluluk tarafından verileceğini belirtelim. Yine de bu konuda en çok kafa yoranlardan Ethereum'un kurucusu olan Vitalik Buterin'in geçtiğimiz yıl sonunda yazdığı [bir blog yazısı](https://vitalik.ca/general/2021/12/06/endgame.html) bize Ethereum'un vizyonu konusunda ipucu verebilir. Şöyle diyor Vitalik: 
+Öncelikle Ethereum'un bir topluluk olduğunu ve gelecek ile ilgili kararların bu topluluk tarafından verileceğini belirtelim. Yine de bu konuda en çok kafa yoranlardan Ethereum'un kurucusu olan Vitalik Buterin'in geçtiğimiz yıl sonunda yazdığı [bir blog yazısı](https://vitalik.eth.limo/general/2021/12/06/endgame.html) bize Ethereum'un vizyonu konusunda ipucu verebilir. Şöyle diyor Vitalik: 
 
 ***'İleride blok üretiminin merkezi olduğu bir zincir bizi bekliyor olacak. Ancak bu zincirde blokların onayı hayli merkeziyetsiz ve güvene ihtiyaç duymadan yapılacak ve özel (ihtisaslaşmış) sansür-karşıtı bir mekanizma (sihir) blok üretici sansürüne engel olacak'***
 
@@ -84,7 +84,7 @@ Bütün bu işlemlerin özünde, Ethereum'u ileride sansüre karşı koruyacak o
 
 *Kaynaklar:*
 
-- *[The End Game](https://vitalik.ca/general/2021/12/06/endgame.html) - Vitalik Buterin*
+- *[The End Game](https://vitalik.eth.limo/general/2021/12/06/endgame.html) - Vitalik Buterin*
 - *[The Hitchhiker's Guide to Ethereum](https://members.delphidigital.io/reports/the-hitchhikers-guide-to-ethereum/) - Delphi Digital*
 - *[The Complete Guide to Rollups](https://members.delphidigital.io/reports/the-complete-guide-to-rollups) - Delphi Digital*
 

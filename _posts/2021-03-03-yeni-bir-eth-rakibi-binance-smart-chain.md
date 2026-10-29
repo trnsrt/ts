@@ -30,7 +30,7 @@ Bunlardan en önemlisi, Ethereum sisteminin yüksek işlem maliyetlerinden kaç�
 
 Ethereum ağının belli bir kapasitesi var. Son zamanlarda özellikle DeFi alanındaki gelişmelerden dolayı bu ağ doluyor. Dolduğu durumda da işlemlerini hızlı yapmak isteyenler daha yüksek işlem ücreti vererek sırada öne geçiyorlar. 
 
-Binance ise buna çözümü, madencileri aradan çıkararak buluyor. Madencilerin yerine, Ethereum'un da yakında geçeceği sistemin bir benzeri olarak, işlem onaylayıcılarını koyuyor (detaylardaki farklardan dolayı bu sistemin adı [Proof-of-Staked-Authority](https://docs.binance.org/smart-chain/validator/guideline.html) olarak adlandırılıyor). Bu sayede işlemler daha az maliyet ile gerçekleşiyor. 
+Binance ise buna çözümü, madencileri aradan çıkararak buluyor. Madencilerin yerine, Ethereum'un da yakında geçeceği sistemin bir benzeri olarak, işlem onaylayıcılarını koyuyor (detaylardaki farklardan dolayı bu sistemin adı [Proof-of-Staked-Authority](https://docs.bnbchain.org/bnb-smart-chain/validator/overview/) olarak adlandırılıyor). Bu sayede işlemler daha az maliyet ile gerçekleşiyor. 
 
 #### Merkeziyetsiz bir sistem mi bu?
 
@@ -89,7 +89,7 @@ Sadece bununla da sınırlı değil yaptıkları: Ellerindeki müthiş büyük a
 
 BSC’nin Ethereum’un birebir kopyası olması, geliştiricilere ellerinde Ethereum için geliştirdikleri uygulamaları kolayca BSC ağında da kullanıma sunma konusunda yardımcı olacak.  Zaten şimdiden şu anda Ethereum içinde çalışan CREAM Finance gibi uygulamalar BSC içinde hizmet vermeye başladılar. 
 
-Kuruluşundan bu yana çok az bir süre geçmiş olmasına rağmen 2021 yılı Şubat ayı başında [BSC üzerinde 13 farklı tema altında yaklaşık 103 girişim bulunmakta](https://www.theblockcrypto.com/genesis/95236/mapping-out-binance-smart-chains-ecosystem). 
+Kuruluşundan bu yana çok az bir süre geçmiş olmasına rağmen 2021 yılı Şubat ayı başında [BSC üzerinde 13 farklı tema altında yaklaşık 103 girişim bulunmakta](https://www.theblock.co/research/blockchains/mapping-out-binance-smart-chains-ecosystem-95236). 
 
 Merkeziyetsizlik felsefesine inananların gözünde Binance tipi bir zincirin saygın bir yer kazanması zor görünüyor. Ancak maliyeti ön planda tutan kullanıcı kitlesi zaten Binance içinde ve onların bu zinciri kullanması olası. Ya da  Binance'in bu geniş müşteri kitlesine ulaşmak isteyecek uygulamalar burayı seçebilir. Bunun ötesinde bu girişimlerin başarısına erkenden ortak olmak isteyecek yatırımcılar da aynı Ethereum zincirinde yaptıkları token satın alma, ya da getiri çiftçiliği (yield farming) işlemlerini BSC üzerinde yaparak paralarını değerlendirebilirler. 
 
