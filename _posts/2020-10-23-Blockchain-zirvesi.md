@@ -7,7 +7,7 @@ tags: videos Etkinlikler
 image: /assets/blockchain_zirvesi_poster_1200.jpg
 ---
 
-<img alt="Blockchain Zirvesi 23 Ekim afişi" align="left" src="/assets/blockchain_zirvesi_poster_1200.jpg" style="width:40%; padding-right:20px"> [Habitat Derneği](https://habitatdernegi.org) programı olan [İstanbul Blockchain Okulu](https://habitatdernegi.org/dijital-donusum/istanbul-blockchain-okulu/) tarafından düzenlenen Blockchain Zirvesi'ne sevgili [Elçin Karatay](https://twitter.com/elcin_karatay/) ve [Bora Erdamar](https://twitter.com/berdamar/) ile konuk olduk. Bir saat süremizin olduğu programda, özellikle regülasyonlar konusunda dünyadaki gelişmeleri ele aldık.
+<img alt="Blockchain Zirvesi 23 Ekim afişi" align="left" src="/assets/blockchain_zirvesi_poster_1200.jpg" style="width:40%; padding-right:20px"> [Habitat Derneği](https://habitatdernegi.org) programı olan [İstanbul Blockchain Okulu](https://web.archive.org/web/20201030223430/https://habitatdernegi.org/dijital-donusum/istanbul-blockchain-okulu/) tarafından düzenlenen Blockchain Zirvesi'ne sevgili [Elçin Karatay](https://twitter.com/elcin_karatay/) ve [Bora Erdamar](https://twitter.com/berdamar/) ile konuk olduk. Bir saat süremizin olduğu programda, özellikle regülasyonlar konusunda dünyadaki gelişmeleri ele aldık.
 
 
 &nbsp;

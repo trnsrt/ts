@@ -47,6 +47,6 @@ Her ne kadar henüz çok küçük ve riskli olsalar da zamanın ilerlemesi ile b
 
 ---
 
-*Not 1: Bu yazı ilk olarak Temmuz 2020'de [Kurumsal Yatırımcı](http://www.tkyd.org.tr/home/yayinlar) dergisinde [yayınlandı](http://www.tkyd.org.tr/assets/kurumsal_yatirimci_50-1549eead661fec262ef51f1b1ea212ef.pdf)*
+*Not 1: Bu yazı ilk olarak Temmuz 2020'de [Kurumsal Yatırımcı](https://web.archive.org/web/20200731180419/http://www.tkyd.org.tr/home/yayinlar) dergisinde [yayınlandı](http://www.tkyd.org.tr/assets/kurumsal_yatirimci_50-1549eead661fec262ef51f1b1ea212ef.pdf)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*

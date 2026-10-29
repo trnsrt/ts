@@ -35,7 +35,7 @@ Sonrasında müzik susunca, dans pistinde en hareketli oyuncu olan Three Arrows 
 
 #### Three Arrows Capital - 3AC
 
-2012 yılında [Zhu Su](https://twitter.com/zhusu) ve [Kyle Davies](https://twitter.com/kyleldavies) adında iki trader [tarafından Singapur'da](https://en.wikipedia.org/wiki/Three_Arrows_Capital)  kurulan [Three Arrows Capital](https://www.threearrowscap.com/about-us/) (kısa adıyla 3AC) esas olarak bir arbitraj fonu. Ne demek arbitraj fonu? Benzer ürünlerin farklı piyasalar arasındaki fiyat farklılıklarından doğan fırsatları değerlendiren bir fon. İşlem yaptıkları  benzer karaktere sahip enstrümanları bir piyasada alıp (ya da borç alıp) diğer tarafta satan (ya da borç veren) böylece riski minimuma indirerek kazanç sağlayan yapılar. 
+2012 yılında [Zhu Su](https://twitter.com/zhusu) ve [Kyle Davies](https://twitter.com/kyleldavies) adında iki trader [tarafından Singapur'da](https://en.wikipedia.org/wiki/Three_Arrows_Capital)  kurulan [Three Arrows Capital](https://web.archive.org/web/20220711133355/https://www.threearrowscap.com/about-us/) (kısa adıyla 3AC) esas olarak bir arbitraj fonu. Ne demek arbitraj fonu? Benzer ürünlerin farklı piyasalar arasındaki fiyat farklılıklarından doğan fırsatları değerlendiren bir fon. İşlem yaptıkları  benzer karaktere sahip enstrümanları bir piyasada alıp (ya da borç alıp) diğer tarafta satan (ya da borç veren) böylece riski minimuma indirerek kazanç sağlayan yapılar. 
 
 3AC'nin bu tip piyasa farklılıklarından yararlanarak işlem yaptığı üç temel ürün var (başka pek çok yatırımı dışında). Bunlar BTC/GBTC, ETH/stETH ve USD/UST idi.  (En sondaki dipnot'ta bu üç ürünün neler olduğu konusunda detaylı bilgiyi bulabilirsiniz). 
 

@@ -65,7 +65,7 @@ Further Network, yukarıdaki sistemin çalışabilmesi için bir de kendi Token'
 
 ### ... ve diğerleri
 
-Ülkemizden çıkan en prestijli yeni nesil sistemlerden olan Further Network bu alanda rakipsiz değil. İsviçre/Çekya merkezli havayolu taşımacılığını benzer şekilde sarsmayı planlayan [Winding Tree](https://windingtree.com/), keza benzer şekilde çalışan Finlandiya merkezli [ETH Travel](https://ethtravel.io/), Çin merkezli otel rezervasyonları üzerine uzmanlaşmış [Tripio](https://trip.io/) bu alanda pay almak için çabalayan yüzlerce yeni nesil girişimlerden sadece bir kaçı. Sistemin mevcut oyuncuları da elleri kolları bağlı oturmuyor tabii - örneğin IATA mevcut süreçlerini basitleştirmek için [pek çok proje](http://www.iata.org/whatwedo/stb/Pages/index.aspx) deniyor ama bu hantallıkla ne kadar yol alacakları gerçekten meçhul.
+Ülkemizden çıkan en prestijli yeni nesil sistemlerden olan Further Network bu alanda rakipsiz değil. İsviçre/Çekya merkezli havayolu taşımacılığını benzer şekilde sarsmayı planlayan [Winding Tree](https://windingtree.com/), keza benzer şekilde çalışan Finlandiya merkezli [ETH Travel](https://web.archive.org/web/20180517195857/https://ethtravel.io/), Çin merkezli otel rezervasyonları üzerine uzmanlaşmış [Tripio](https://trip.io/) bu alanda pay almak için çabalayan yüzlerce yeni nesil girişimlerden sadece bir kaçı. Sistemin mevcut oyuncuları da elleri kolları bağlı oturmuyor tabii - örneğin IATA mevcut süreçlerini basitleştirmek için [pek çok proje](https://web.archive.org/web/20180623195821/http://www.iata.org/whatwedo/stb/Pages/index.aspx) deniyor ama bu hantallıkla ne kadar yol alacakları gerçekten meçhul.
 
 ### Sonuç
 

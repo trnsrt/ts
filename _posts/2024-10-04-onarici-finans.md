@@ -59,7 +59,7 @@ ReFi projeleri, tarım işiyle uğraşanlara toprağın kendini onarmasına yard
 
 #### **Toplulukları destekleme** 
 
-ReFi, toplulukların sosyal refahını sağlama ve sürdürülebilirlik konularında destekler veriyor. Bunlar, ekonomik zorluk içindeki mikro-girişimcileri [desteklemekten](https://rsfsocialfinance.org/get-funding/meet-the-entrepreneurs-2/), bankacılığa erişimi olmayan kesimlere finansal hizmetler [götürmeye](https://www.ethichub.com/en), hava ve çevre kirliliğinin üst boyutta olduğu yerlerde yenilenebilir enerji projeleri finanse etmeye kadar farklı bir dizi inisiyatifi içeriyor. 
+ReFi, toplulukların sosyal refahını sağlama ve sürdürülebilirlik konularında destekler veriyor. Bunlar, ekonomik zorluk içindeki mikro-girişimcileri [desteklemekten](https://web.archive.org/web/20240911001955/https://rsfsocialfinance.org/get-funding/meet-the-entrepreneurs-2/), bankacılığa erişimi olmayan kesimlere finansal hizmetler [götürmeye](https://www.ethichub.com/en), hava ve çevre kirliliğinin üst boyutta olduğu yerlerde yenilenebilir enerji projeleri finanse etmeye kadar farklı bir dizi inisiyatifi içeriyor. 
 
 ### Ülkemizde bu alanda neler var? 
 

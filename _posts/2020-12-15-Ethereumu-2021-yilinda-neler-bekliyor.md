@@ -61,7 +61,7 @@ Kullanıcılar için harika ancak madencilerin çok hoşuna gitmeyecek bir çöz
 |:--:| 
 | *2020 yılı ETH işlemlerinden madencilerin günlük kazançları. Kaynak: [Coinmetrics](https://network-charts.coinmetrics.io)*|
 
-EIP 1559'un 2021 yılı içinde geçerlik kazanıp kazanmayacağı belirsiz. Kullanıcı tarafında bir talep olduğu kesin. Alternatif Ethereum rakiplerinin maliyetlerinin çok düşük olduğunu düşündüğümüzde, 2020 yazı ile birlikte yakaladığı büyük avantajı kaçırmak istemeyecektir platform geliştiricileri. Bu nedenle [kendi içlerinde EIP 1559'u hızlandıracak bir ekip kurup maddi bir yatırım bile yaptılar](https://gitcoin.co/grants/946/eip-1559-community-fund). Madenciler ne kadar ayak direyebilir? Çok olası görünmüyor. 
+EIP 1559'un 2021 yılı içinde geçerlik kazanıp kazanmayacağı belirsiz. Kullanıcı tarafında bir talep olduğu kesin. Alternatif Ethereum rakiplerinin maliyetlerinin çok düşük olduğunu düşündüğümüzde, 2020 yazı ile birlikte yakaladığı büyük avantajı kaçırmak istemeyecektir platform geliştiricileri. Bu nedenle [kendi içlerinde EIP 1559'u hızlandıracak bir ekip kurup maddi bir yatırım bile yaptılar](https://web.archive.org/web/20210109101315/https://gitcoin.co/grants/946/eip-1559-community-fund). Madenciler ne kadar ayak direyebilir? Çok olası görünmüyor. 
 
 Bu arada EIP 1559'un hem şu anki Ethereum hem de ETH 2.0 için geliştirildiğini belirtelim. Bu nedenle, ETH 2.0'a geçiş sürecinde yaşanabilecek aksama ya da gecikmelerin EIP 1559'u çok da etkilemeyeceğini belirtmek gerek. 
 

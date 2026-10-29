@@ -91,7 +91,7 @@ Grin'in izleyeceği enflasyon yaratan para politikası aslında gelecekte fiyat�
 
 | ![btc-gold-grin-800.png](/assets/btc-gold-grin-800.png) | 
 |:--:| 
-| *Bitcoin, Altın ve Grin emisyon hacimleri % olarak [Kaynak](https://plot.ly/~Bobby_Digital/1/#/)* |
+| *Bitcoin, Altın ve Grin emisyon hacimleri % olarak [Kaynak](https://web.archive.org/web/20190716052851/https://plot.ly/~Bobby_Digital/1/#/)* |
 
 &nbsp;
 

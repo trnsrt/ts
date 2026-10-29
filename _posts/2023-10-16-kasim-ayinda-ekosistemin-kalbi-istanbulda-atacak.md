@@ -62,6 +62,6 @@ Kripto dünyasının lider ekosistemi Ethereum'un 2023 yılında bir araya gelec
 
 [^1]: Ethereum'un geliştiriciler için düzenlediği iki büyük konferans bulunmakta. Bunlardan birincisi çok daha merkezi bir yapıda olan [Devcon](https://devcon.org/) - ki bu sene düzenlenmeyecek ve önümüzdeki yıl güneydoğu Asya'da yapılacak.  İkincisi ise ülkemizde düzenlenen Devconnect. 
 
-[^2]: Etkinliklerin listesi sadece [Devconnect](https://devconnect.org/istanbul) sayfası ile sınırlı değil. Bunun yanında [web3events](https://www.web3event.org/topic/5#Topic), [Crypto Events](https://cryptoevents.xyz/DevconnectWeek) ve [luma](https://lu.ma/devconnect) üzerinde listelenmiş onlarca etkinlik daha var.
+[^2]: Etkinliklerin listesi sadece [Devconnect](https://devconnect.org/istanbul) sayfası ile sınırlı değil. Bunun yanında [web3events](https://web.archive.org/web/20231004103718/https://www.web3event.org/topic/5#Topic), [Crypto Events](https://cryptoevents.xyz/DevconnectWeek) ve [luma](https://lu.ma/devconnect) üzerinde listelenmiş onlarca etkinlik daha var.
 
 ---

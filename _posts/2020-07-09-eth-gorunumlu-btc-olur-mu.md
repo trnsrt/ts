@@ -17,7 +17,7 @@ Gelin bu yazımızda, yakın zamanlarda yükselişe geçen yeni bir DeFi ürün�
 ### Nasıl karşılanır bu ihtiyaç?
 İşte çözüm: Elinde tuttuğu BTC'den ayrılmak istemeyen ancak bir yanda da ek kazanç sağlamak isteyen kesimlere, BTC'yi teminat göstererek eşdeğer bir ETH token yaratmak, sonrasında bu ETH'yi DeFi piyasalarında kullanarak faiz ya da benzeri gelir elde etme fırsatı. 
 
-Bu amaçla ortaya çıkan bir çok ürün var: [wBTC](https://www.wbtc.network/), [renBTC](https://renproject.io/), [hBTC](https://www.hbtc.finance/), [imBTC](https://tokenlon.im/), [sBTC](https://www.synthetix.io/), [pBTC](https://ptokens.io/), [tBTC](https://tbtc.network/) gibi... Türkçesi ile isterseniz "Doğan görünümlü Şahin" deyin ister "içi beni yakar dışı seni" ama özünde BTC'yi Ethereum ağına getiren ürünler. 
+Bu amaçla ortaya çıkan bir çok ürün var: [wBTC](https://www.wbtc.network/), [renBTC](https://renproject.io/), [hBTC](https://web.archive.org/web/20200817040954/https://www.hbtc.finance/), [imBTC](https://tokenlon.im/), [sBTC](https://www.synthetix.io/), [pBTC](https://ptokens.io/), [tBTC](https://tbtc.network/) gibi... Türkçesi ile isterseniz "Doğan görünümlü Şahin" deyin ister "içi beni yakar dışı seni" ama özünde BTC'yi Ethereum ağına getiren ürünler. 
 
 ### Neden Bitcoin üzerinde değil de Ethereum'da kurulu bu ürünler?
 Bu tip ürünlerin tarihçesi aslında [daha önceki bir yazımızda bahsettiğimiz Liquid](/genel/2018/12/26/Bitcoin-gibi-ama-degil-Liquid.html)'e dayanıyor. Ama Bitcoin ağına "yamanmış" bir eklenti olan Liquid kullanıcılara çok da fayda sağlamadığı için yeterince başarıya ulaşamadı.

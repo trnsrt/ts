@@ -17,7 +17,7 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 
 [gradually](https://www.internetsociety.org/internet/history-internet/brief-history-internet/)  
 
-[a massive network of computers talking to each other](https://www.usg.edu/galileo/skills/unit07/internet07_02.phtml)  
+[a massive network of computers talking to each other](https://web.archive.org/web/20241129121024/https://www.usg.edu/galileo/skills/unit07/internet07_02.phtml)  
 
 [which led to the creation](https://www.sciencemuseum.org.uk/objects-and-stories/arpanet-internet)  
 
@@ -49,7 +49,7 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 
 [survived the crash](https://www.eweek.com/cloud/eweek-at-30-how-amazon-survived-the-dot-com-crash-to-rule-the-cloud/)  
 
-[opposite](https://www.identity.com/web1-and-web2/)  
+[opposite](https://web.archive.org/web/20241212172756/https://www.identity.com/web1-and-web2/)  
 
 [The focus shifted entirely to the end-user](https://crowleymediagroup.com/resources/understanding-web-2-0s-the-evolution-of-the-net/)  
 
@@ -79,7 +79,7 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 <br>
 <b>Page 30:</b>
 
-[Nakamoto Consensus](https://www.morpher.com/blog/nakamoto-consensus)  
+[Nakamoto Consensus](https://web.archive.org/web/20260410170845/https://www.morpher.com/blog/nakamoto-consensus)  
 
 <br>
 <b>Page 31:</b>
@@ -202,7 +202,7 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 
 [complex wealth transfer within the ecosystem](https://www.esma.europa.eu/sites/default/files/2025-07/ESMA50-481369926-29744_Maximal_Extractable_Value_Implications_for_crypto_markets.pdf)  
 
-[destroyed](https://omni.app/learn/ethereum-burn-explained)  
+[destroyed](https://web.archive.org/web/20240915063033/https://paxful.com/university/ethereum-burn-explained)  
 
 [battle](https://cryptodamus.io/en/articles/news/eip-1559-eth-burning-why-ethereum-is-still-inflationary-shocking-data-inside)  
 
@@ -220,7 +220,7 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 
 [29% of all ETH staked](https://www.coinbase.com/earn/staking/ethereum)  
 
-[provocative phrase](https://www.koinx.com/blog/ultrasound-money-ethereum-deflationary-model)  
+[provocative phrase](https://web.archive.org/web/20250708114312/https://www.koinx.com/blog/ultrasound-money-ethereum-deflationary-model)  
 
 [ultra-sound money,](https://ultrasound.money/)  
 
@@ -580,7 +580,7 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 
 [borrow against their NFTs](https://tr.tradingview.com/news/cointelegraph%3A9d4ae997e094b%3A0-what-is-nft-lending-and-how-does-it-work)  
 
-[code a royalty](https://pontem.network/posts/nft-royalties-and-how-they-work)  
+[code a royalty](https://web.archive.org/web/20241111143641/https://pontem.network/posts/nft-royalties-and-how-they-work)  
 
 <br>
 <b>Page 146:</b>
@@ -683,9 +683,9 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 
 [Farcaster](https://www.farcaster.xyz/)  
 
-[breakout feature,](https://globalcoinresearch.com/research/exploring-farcaster-and-frames-the-composable-social-platform)  
+[breakout feature,](https://web.archive.org/web/20241013081723/https://globalcoinresearch.com/research/exploring-farcaster-and-frames-the-composable-social-platform)  
 
-[Frames](https://globalcoinresearch.com/research/exploring-farcaster-and-frames-the-composable-social-platform)  
+[Frames](https://web.archive.org/web/20241013081723/https://globalcoinresearch.com/research/exploring-farcaster-and-frames-the-composable-social-platform)  
 
 [Nostr](https://nostr.com/)  
 
@@ -953,13 +953,13 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 <br>
 <b>Page 219:</b>
 
-[swept away](https://pontem.network/posts/the-collapse-of-3ac-three-arrows-capital-all-you-need-to-know)  
+[swept away](https://web.archive.org/web/20241209014043/https://pontem.network/posts/the-collapse-of-3ac-three-arrows-capital-all-you-need-to-know)  
 
 [Zhu Su](https://twitter.com/zhusu)  
 
 [Kyle Davies](https://twitter.com/kyleldavies)  
 
-[Three Arrows Capital (3AC)](https://www.threearrowscap.com/about-us/)  
+[Three Arrows Capital (3AC)](https://web.archive.org/web/20220711133355/https://www.threearrowscap.com/about-us/)  
 
 <br>
 <b>Page 220:</b>

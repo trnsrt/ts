@@ -18,7 +18,7 @@ Yapay zeka en basit anlatımıyla, zeka olarak da nitelendirilen ileri düzey ak
 
 | ![deep_Learning](/assets/deep-learning_800.jpg)|
 |:--:| 
-| *Kaynak: [Dall-E](https://labs.openai.com/s/yevGTNXDHCzV1bKFrAR2TujM)*|
+| *Kaynak: [Dall-E](https://web.archive.org/web/20231206185108/https://labs.openai.com/s/yevGTNXDHCzV1bKFrAR2TujM)*|
 
 Aslına bakarsanız, yapay zeka kavramı üzerine yapılan çalışmalar yetmiş yıl öncesine dayanıyor[^6]. İlk olarak 1943 yılında yayınlanan bir makale ile açılan defterdeki önemli mihenk taşları arasında, Alan Turing'in 1950 yılında yayınladığı 'Bilgi İşlem Makineleri ve Zeka' makalesi ile 1959 yılında MIT'de kurulan yapay zeka laboratuarı sayılıyor. 
 
