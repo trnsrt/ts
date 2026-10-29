@@ -87,7 +87,7 @@ h1, h2, h3, h4 {
 
 .post-meta {
   font-size: 14px;
-  color: #999;
+  color: #707070;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
   display: block;
   margin-bottom: 6px;
@@ -130,7 +130,7 @@ h1, h2, h3, h4 {
 
 .post-content {
   font-size: 18px;
-  line-height: 1.9;
+  line-height: 1.6;
 }
 
 .post-content p {
@@ -142,7 +142,7 @@ h1, h2, h3, h4 {
   border-top: 1px solid #e8e8e8;
   padding: 24px 0;
   font-size: 14px;
-  color: #999;
+  color: #707070;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
 }
 
@@ -155,7 +155,7 @@ img + em {
   display: block;
   text-align: center;
   font-size: 14px;
-  color: #999;
+  color: #707070;
   margin-top: 8px;
 }
 
@@ -246,13 +246,6 @@ img + em {
   .post-grid {
     grid-template-columns: 1fr 1fr !important;
   }
-  .featured-post {
-    flex-direction: column !important;
-  }
-  .featured-post .featured-image {
-    width: 100% !important;
-    flex: none !important;
-  }
 }
 
 /* Small screens — 1 column */
@@ -273,3 +266,41 @@ img + em {
     height: 200px !important;
   }
 }
+
+/* Home and tag cards */
+.home-intro { max-width: 680px; margin: 0 auto; padding: 0 24px; }
+.featured-post { max-width: 1000px; margin: 0 auto; padding: 0 24px 40px; border-bottom: 1px solid #e8e8e8; }
+.featured-post-link { display: flex; gap: 32px; text-decoration: none; color: inherit; align-items: center; }
+.featured-post-image { flex: 0 0 320px; height: 220px; overflow: hidden; border-radius: 4px; }
+.card-image { width: 100%; height: 100%; object-fit: cover; }
+.featured-post-body { flex: 1; }
+.featured-post-date { font: 13px -apple-system, sans-serif; color: #707070; margin: 0 0 8px; }
+.featured-post-title { font: 700 24px/1.3 -apple-system, sans-serif; color: #111; margin: 0 0 12px; }
+.featured-post-excerpt { font-size: 15px; color: #555; line-height: 1.6; margin: 0; }
+.home-posts { max-width: 1000px; margin: 40px auto 0; padding: 0 24px; }
+.post-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 32px; width: 100%; box-sizing: border-box; }
+.post-card { box-sizing: border-box; min-width: 0; }
+.post-card-link { text-decoration: none; color: inherit; display: block; }
+.post-card-image { width: 100%; height: 160px; overflow: hidden; border-radius: 4px; margin-bottom: 12px; background: #f0f0f0; }
+.post-card-date { font: 12px -apple-system, sans-serif; color: #707070; margin: 0 0 6px; }
+.post-card-title { font: 700 16px/1.4 -apple-system, sans-serif; color: #111; margin: 0 0 8px; }
+.post-card-excerpt { font-size: 13px; color: #555; line-height: 1.5; margin: 0; }
+
+/* Readable text and links */
+a, a:visited { color: #1a5fb4; }
+.post-content a { text-decoration: underline; }
+.featured-post-link:visited, .post-card-link:visited { color: inherit; }
+.site-footer, .footer-col-wrapper, blockquote { color: #6b6b6b; }
+.site-footer .svg-icon { fill: #6b6b6b; }
+
+.visually-hidden, .skip-link:not(:focus) {
+  position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px;
+  overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0;
+}
+.skip-link:focus { position: absolute; z-index: 100; top: 0; left: 0; padding: 8px 12px; background: #fff; color: #1a5fb4; }
+
+/* Keep embedded content within narrow screens. */
+img, video, iframe { max-width: 100%; }
+iframe { aspect-ratio: 16 / 9; height: auto; }
+.post-content table { display: block; overflow-x: auto; }
+.post-content, .post-title { overflow-wrap: anywhere; }
