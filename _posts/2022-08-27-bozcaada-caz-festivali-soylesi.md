@@ -16,7 +16,7 @@ image: /assets/bozcaada-caz-poster_800.jpg
 <td style="width:50%">
 <img alt="Paribu ve BCF Keşif söyleşi afişi, Web3 ve merkeziyetsiz teknolojiler" src="/assets/bcf-kesif-soylesi-poster_800.jpg">
 </td>
-<td style="width:50%"><iframe loading="lazy" title="Bozcaada Caz Festivali söyleşisi (video henüz yayımlanmadı)" width="224" height="126" src="" frameborder="0" allowfullscreen></iframe>
+<td style="width:50%"><iframe loading="lazy" title="KEŞİF söyleşisi: Web 3.0 ve Merkeziyetsiz Teknolojiler (Bozcaada Caz Festivali)" width="224" height="126" src="https://www.youtube-nocookie.com/embed/9Q4t_WqTWxA" frameborder="0" allowfullscreen></iframe>
 </td>
 </tr>
 <tr>
@@ -25,7 +25,7 @@ image: /assets/bozcaada-caz-poster_800.jpg
 Etkinlik ile ilgili bir başka poster
 </p></td>
 <td style="width:50%; vertical-align:top">
-<p>Yayın henüz dışarı açılmadı. Açıdığında buradan paylaşacağım</p>
+<p>Açıdığında buradan paylaşacağım</p>
 </td>
 </tr>
 </table>
