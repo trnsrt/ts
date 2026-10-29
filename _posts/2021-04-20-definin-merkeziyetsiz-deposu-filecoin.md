@@ -15,7 +15,7 @@ Bu yazımızda gelin merkeziyetsiz dünyanın veri saklayıcısı olma yolunda i
 
 Hatırlayacağınız gibi, blokzincir, yapılan işlemlerin ve son durumun kaydını mermer taşa yazılmış gibi değiştirilemez bir şekilde tutuyor. Ama nihayetinde kayıt edip saklanan, aslında bir işlemin sonucunu  gösteren bilgi. Peki ya işlemin kendisi nerede? 
 
-Ne demek istediğimizi bir örnek ile anlatalım: NFT ya da non-fungible token dediğimiz tekil (benzersiz) tokenlar (belirteçler), birbirine benzemeyen ürünlerin 'sahipliğini göstermek' için kullanılıyorlar. Tokenları satın alarak yaratıcısının işaret ettiği ürünün sahipliğini blokzincir üzerine kaydedip tüm dünyaya kanıtlamış oluyoruz. Peki ya bu ürünlerin asılları nerede duruyor?[^1]
+Ne demek istediğimizi bir örnek ile anlatalım: NFT ya da non-fungible token dediğimiz tekil (benzersiz) tokenlar (belirteçler), birbirine benzemeyen ürünlerin 'sahipliğini göstermek' için kullanılıyorlar. Tokenları satın alarak yaratıcısının işaret ettiği ürünün sahipliğini blokzincir üzerine kaydedip tüm dünyaya kanıtlamış oluyoruz. Peki ya bu ürünlerin asılları nerede duruyor?
 
 | ![sd_cards](/assets/sd-card-5206408_800.jpg)|
 |:--:| 
