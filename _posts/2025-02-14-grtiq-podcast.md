@@ -12,7 +12,7 @@ Eskiden beri takip ettiğim bir merkeziyetsiz platform olan The Graph Protocol b
 
 &nbsp;
 
-<img src="/assets/GRTiQ-Podcast__Turan-Sert_800.jpg">
+<img alt="GRTiQ Podcast bölüm 208 kapağı, Turan Sert" src="/assets/GRTiQ-Podcast__Turan-Sert_800.jpg">
 
 &nbsp;
 
