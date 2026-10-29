@@ -7,11 +7,11 @@ tags: videos Etkinlikler
 image: /assets/on-soruda-kripto-poster.png
 ---
 
-<img align="left" src="/assets/on-soruda-kripto-poster.png" style="width:40%; padding-right:20px"> [Gizem Uzuner Gençtürk](https://twitter.com/gizemuzuner_)'ün sunduğu '10 Soruda Kripto Para' programında NFT'ler nedir, ne işe yarar, değeri nereden gelir gibi konularda konuştuk. NFT yani non-fungible token ya da Türkçesi ile tekil token (belirteç) nedir merak ediyorsanız, linke buyurun: 
+<img alt="10 Soruda Kripto Para programının NFT nedir kapağı" align="left" src="/assets/on-soruda-kripto-poster.png" style="width:40%; padding-right:20px"> [Gizem Uzuner Gençtürk](https://twitter.com/gizemuzuner_)'ün sunduğu '10 Soruda Kripto Para' programında NFT'ler nedir, ne işe yarar, değeri nereden gelir gibi konularda konuştuk. NFT yani non-fungible token ya da Türkçesi ile tekil token (belirteç) nedir merak ediyorsanız, linke buyurun: 
 &nbsp;
 
 <table><tr><td style="width:50%">
-<img src="/assets/on_soruda_kripto_para_dunyasi_800.jpg">
+<img alt="10 Soruda Kripto Para yayınından kare, NFT nedir başlığı" src="/assets/on_soruda_kripto_para_dunyasi_800.jpg">
 </td>
 <td style="width:50%">
 <iframe loading="lazy" title="Gündeme oturan NFT nedir, nasıl çalışır? | 10 Soruda Kripto Para Dünyası" width="224" height="126" src="https://www.youtube-nocookie.com/embed/67HQ_fS-5DE" frameborder="0" allowfullscreen></iframe></td></tr>

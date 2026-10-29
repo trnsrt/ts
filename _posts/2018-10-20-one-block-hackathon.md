@@ -9,7 +9,7 @@ image: /assets/one_block_hackathon_4.png
 
 
 
-<img align="left" src="/assets/one_block_hackathon_4.png" style="width:20%; padding-right:20px"> 
+<img alt="one.block Hackathon #1 afişi, 19-21 Ekim, Kolektif House Maslak" align="left" src="/assets/one_block_hackathon_4.png" style="width:20%; padding-right:20px"> 
 one.block tarafından İstanbul Maslak Kolektif House'da gerçekleşen One Block Hackathon bu alanda fikirleri olan ya da başka fikirleri dinleyip bunu gerçekleştirmek isteyenleri 20-21 Ekim'de bir araya getirdi. Renkli ve eğlenceli bir organizasyondu.  
 &nbsp;
 &nbsp;
@@ -18,10 +18,10 @@ one.block tarafından İstanbul Maslak Kolektif House'da gerçekleşen One Block
 
 
 <table><tr><td style="width:30%">
-<img src="/assets/one_block_hackathon_5.png">
+<img alt="One Block Blockchain Hackathon afişi, 19-21 Ekim 2018 İstanbul" src="/assets/one_block_hackathon_5.png">
 </td>
 <td style="width:70%">
-<img src="/assets/one_block_hackathon_3.png">
+<img alt="One Block Hackathon katılımcıları salonda çalışırken" src="/assets/one_block_hackathon_3.png">
    </td></tr>
 <tr><td style="width:30%; vertical-align:top">
 <p>

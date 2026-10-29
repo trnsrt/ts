@@ -7,11 +7,11 @@ tags: videos Etkinlikler
 image: /assets/yetgen_210320_poster_400.jpg
 ---
 
-<img align="left" src="/assets/yetgen_210320_poster_400.jpg" style="width:20%; padding-right:20px"> Mehmet Zorlu Vakfı ve Mef Üniversitesi tarafından düzenlenen YetGen - Yetkin Gençler programının 18 Nisan 2020'deki "Teknoloji Okur Yazarlığı Eğitimi" webinarında birbirinden değerli isimler ile birlikte bir webinarda yer almıştım.. Şimdi aynı webinarın 2021 versiyonunda da konuşma fırsatı buldum.. Tabii bir yıl önceye göre pekçok değişim yaşadık. Konuşmamın başında da değindiğim gibi bizim bir yılımız kimi hayvanların 8-10 yılına eşit. Blockchain alanında da bir nevi öyle. Bu yılki sunum geçtiğimiz yıla göre neredeyse hiçbir benzerlik yok. Neyse, Erhan Hoca'nın her zamanki dinamik liderliği altında renkli ve eğlenceli bir sunum oldu... 
+<img alt="YetGen Teknoloji Okuryazarlığı Eğitimi afişi, 20 Mart" align="left" src="/assets/yetgen_210320_poster_400.jpg" style="width:20%; padding-right:20px"> Mehmet Zorlu Vakfı ve Mef Üniversitesi tarafından düzenlenen YetGen - Yetkin Gençler programının 18 Nisan 2020'deki "Teknoloji Okur Yazarlığı Eğitimi" webinarında birbirinden değerli isimler ile birlikte bir webinarda yer almıştım.. Şimdi aynı webinarın 2021 versiyonunda da konuşma fırsatı buldum.. Tabii bir yıl önceye göre pekçok değişim yaşadık. Konuşmamın başında da değindiğim gibi bizim bir yılımız kimi hayvanların 8-10 yılına eşit. Blockchain alanında da bir nevi öyle. Bu yılki sunum geçtiğimiz yıla göre neredeyse hiçbir benzerlik yok. Neyse, Erhan Hoca'nın her zamanki dinamik liderliği altında renkli ve eğlenceli bir sunum oldu... 
 &nbsp;
 
 <table><tr><td style="width:50%">
-<img src="/assets/yetgen_210320_800.jpg">
+<img alt="YetGen webinarında Erhan Erkut ve Turan Sert" src="/assets/yetgen_210320_800.jpg">
 </td>
 <td style="width:50%">
 <iframe loading="lazy" title="Teknoloji Okuryazarlığı | Blok Zincir | Turan Sert #6" width="224" height="126" src="https://www.youtube-nocookie.com/embed/UzMInOO0ec0" frameborder="0" allowfullscreen></iframe></td></tr>

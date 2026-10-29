@@ -8,7 +8,7 @@ image: /assets/gelecegi-konusalim-211102-400.jpg
 ---
 
 
-<img align="left" src="/assets/gelecegi-konusalim-211102-400.jpg" style="width:35%; padding-right:20px"> 40 yıllık arkadaşım, tanınmış ekonomi gazetecisi [Cüneyt Toros](https://twitter.com/cuneyttoros)'un hazırlayıp sunduğu Yapı Kredi ile Geleceği Konuşalım'ın 2 Kasım'da yayınlanan bölümünde NFT'lerden konuştuk. Tabii yılların getirdiği arkadaşlık nedeniyle birbirimizi iyi tanıdığımız için oldukça akıcı geçen benim açımdan oldukça keyifli bir sohbet oldu. Sevgili arkadaşım Cüneyt'e teşekkürleri bir borç bilirim.  Dinlemek isterseniz yayının linkleri aşağıda: 
+<img alt="Geleceği Konuşalım podcast kapağı, NFT nedir, konuk Turan Sert" align="left" src="/assets/gelecegi-konusalim-211102-400.jpg" style="width:35%; padding-right:20px"> 40 yıllık arkadaşım, tanınmış ekonomi gazetecisi [Cüneyt Toros](https://twitter.com/cuneyttoros)'un hazırlayıp sunduğu Yapı Kredi ile Geleceği Konuşalım'ın 2 Kasım'da yayınlanan bölümünde NFT'lerden konuştuk. Tabii yılların getirdiği arkadaşlık nedeniyle birbirimizi iyi tanıdığımız için oldukça akıcı geçen benim açımdan oldukça keyifli bir sohbet oldu. Sevgili arkadaşım Cüneyt'e teşekkürleri bir borç bilirim.  Dinlemek isterseniz yayının linkleri aşağıda: 
 
 [Spotify](https://open.spotify.com/episode/3NCi8Q9FRwSOBF9N4xqtIi?si=yHjr8SOZSQKzroCJMhyAGw&nd=1)
 

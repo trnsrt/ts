@@ -7,11 +7,11 @@ tags: videos Etkinlikler
 image: /assets/kriptografik-20211110-poster-800.jpg
 ---
 
-<img align="left" src="/assets/kriptografik-20211110-poster-800.jpg" style="width:40%; padding-right:20px"> [BTCHaber](https://www.btchaber.com/)'de [Melis Hazal Karagöz](https://twitter.com/melishazalkrgz)'ün sunduğu 'Kriptografik' programında Facebook tarafından gündem yapılan Metaverse kavramı ile birlikte merkeziyetsiz finansın geleceği ve kripto varlıklara yeni regülasyonların gelip gelmeyeceğini konuştuk. BTCHaber aynı zamanda belli aralıklarla yazılarımın yayınlandığı mecra. Kriptografik programı ciddi ve titiz çalışan bir ekip tarafından hazırlanıyor. Takip etmenizi tavsiye ederim.  
+<img alt="Kriptografik YouTube videosu kapağı, Metaverse'ün Gelecek İçin Anlamı Ne?" align="left" src="/assets/kriptografik-20211110-poster-800.jpg" style="width:40%; padding-right:20px"> [BTCHaber](https://www.btchaber.com/)'de [Melis Hazal Karagöz](https://twitter.com/melishazalkrgz)'ün sunduğu 'Kriptografik' programında Facebook tarafından gündem yapılan Metaverse kavramı ile birlikte merkeziyetsiz finansın geleceği ve kripto varlıklara yeni regülasyonların gelip gelmeyeceğini konuştuk. BTCHaber aynı zamanda belli aralıklarla yazılarımın yayınlandığı mecra. Kriptografik programı ciddi ve titiz çalışan bir ekip tarafından hazırlanıyor. Takip etmenizi tavsiye ederim.  
 &nbsp;
 
 <table><tr><td style="width:50%">
-<img src="/assets/kriptografik-20211110_ss_800.jpg">
+<img alt="Kriptografik programından ekran görüntüsü, BTCHaber stüdyosu" src="/assets/kriptografik-20211110_ss_800.jpg">
 </td>
 <td style="width:50%">
 <iframe loading="lazy" title="Merkeziyetsiz Finans Nereye Gidiyor? | Kripto Varlıklarda Regülasyon | Melis H. Karagöz &amp; Turan Sert" width="224" height="126" src="https://www.youtube-nocookie.com/embed/SS_GhoisFW0" frameborder="0" allowfullscreen></iframe></td></tr>

@@ -7,11 +7,11 @@ tags: videos Etkinlikler
 image: /assets/fintech-week-poster.jpg
 ---
 
-<img align="left" src="/assets/fintech-week-poster.jpg" style="width:40%; padding-right:20px"> İstanbul Fintech Week kapsamındaki "DeFi - An upcoming revolution?" panelinde, Global One CEO'su [Mohammed Sh. Al-Rashidi](https://www.linkedin.com/in/msrashidi/) and DeFi konusunda en önde gelen girişimlerden olan [Aave](https://aave.com/) kurucusu [Stani Kulechov](https://twitter.com/StaniKulechov) ile konuşma fırsatı buldum.. Yaklaşık 45 dakikalık panelin YouTube linkini aşağıda bulabilirsiniz. 
+<img alt="İstanbul Fintech Week DeFi paneli afişi, 10 Kasım" align="left" src="/assets/fintech-week-poster.jpg" style="width:40%; padding-right:20px"> İstanbul Fintech Week kapsamındaki "DeFi - An upcoming revolution?" panelinde, Global One CEO'su [Mohammed Sh. Al-Rashidi](https://www.linkedin.com/in/msrashidi/) and DeFi konusunda en önde gelen girişimlerden olan [Aave](https://aave.com/) kurucusu [Stani Kulechov](https://twitter.com/StaniKulechov) ile konuşma fırsatı buldum.. Yaklaşık 45 dakikalık panelin YouTube linkini aşağıda bulabilirsiniz. 
 &nbsp;
 
 <table><tr><td style="width:50%">
-<img src="/assets/fintech-week-panel-picture.jpg">
+<img alt="Turan Sert, Mohammed Al-Rashidi ve Stani Kulechov panelde" src="/assets/fintech-week-panel-picture.jpg">
 </td>
 <td style="width:50%">
 <iframe loading="lazy" title="De-Fi an upcoming revolution" width="224" height="126" src="https://www.youtube-nocookie.com/embed/bXDmsvt_sBM" frameborder="0" allowfullscreen></iframe></td></tr>
