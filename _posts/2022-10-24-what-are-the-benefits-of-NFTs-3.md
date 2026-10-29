@@ -5,6 +5,7 @@ date:   2022-10-24 22:47:56 +0300
 categories: Genel
 tags: Yazılar, NFT, Articles
 image: /assets/steps-3878604_800.jpg
+lang: en
 ---
 
 We continue to look that various ways that an NFT would add value to an object. 

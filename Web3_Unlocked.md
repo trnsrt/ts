@@ -2,6 +2,9 @@
 layout: page
 title: Web3 Unlocked
 permalink: /Web3_Unlocked/
+lang: en
+redirect_from:
+  - /web3_unlocked/
 ---
 
 <a href="https://books.google.com.tr/books?id=ZA7KEQAAQBAJ&printsec=frontcover&hl=tr" target="_blank"><img src="/assets/web3_front_cover.jpg" alt="Web3 Unlocked cover" width="220" style="display:block; margin: 0 auto 1.5rem auto;"></a>

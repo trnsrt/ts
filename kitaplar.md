@@ -2,6 +2,8 @@
 layout: page
 title: Kitaplar
 permalink: /Kitaplar/
+redirect_from:
+  - /kitaplar/
 ---
 
 Ekosisteme katkı sağlamak amacıyla yayınlanan, biri İngilizce çeviri olmak üzere dört kitabım bulunmakta. 

@@ -2,9 +2,11 @@
 layout: post
 title:  "BloombergHT Hande Berktan ile İş Dünyası - 29 Kasım 2019 Yayın"
 date:   2019-11-29 12:47:56 +0300
-categories: Genel, Videos
+categories: Genel
 tags: Etkinlikler
 image: /assets/TS_Bloomberg_191129-3.jpg
+redirect_from:
+  - /genel,/videos/2019/11/29/BloombergHT-Hande-Berktan-ile-is-dunyasi.html
 ---
 
 

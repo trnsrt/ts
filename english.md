@@ -1,7 +1,8 @@
 ---
 layout: page
-title: en
+title: English
 permalink: /english/
+lang: en
 ---
 
 Explore a comprehensive collection of my articles and talks across various platforms, all available in one place. The majority of my writings are in Turkish, primarily due to the limited availability of comprehensive resources in this language.

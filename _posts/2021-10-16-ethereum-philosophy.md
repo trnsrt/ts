@@ -5,6 +5,7 @@ date:   2021-10-16 17:47:56 +0300
 categories: Genel
 tags: Yazılar, Articles
 image: /assets/cryptocurrency-3424785_800.jpg
+lang: en
 ---
 
 In our previous post, we discussed the emergence of Ethereum. In this post, let's talk about the major differences between Bitcoin and Ethereum. 

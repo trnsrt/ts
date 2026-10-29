@@ -5,6 +5,7 @@ date:   2021-11-13 17:47:56 +0300
 categories: Genel
 tags: Yazılar, Articles
 image: /assets/sense-4017574_800.jpg
+lang: en
 ---
 
 This is our second post on Bitcoin and Ethereum where we look at the similarities and differences between Bitcoin and Ethereum. 

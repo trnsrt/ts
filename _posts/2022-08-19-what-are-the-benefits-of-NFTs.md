@@ -5,6 +5,7 @@ date:   2022-08-19 22:47:56 +0300
 categories: Genel
 tags: Yazılar, NFT, Articles
 image: /assets/path-1468938_800.jpg
+lang: en
 ---
 
 In this post and next one, we will talk about the key benefits of NFTs to us, individuals. 

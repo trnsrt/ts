@@ -2,9 +2,11 @@
 layout: post
 title:  "Zincirleme Sohbetler - 13 Şubat 2020 Panel "
 date:   2020-02-13 12:47:56 +0300
-categories: Genel, Videos
+categories: Genel
 tags: Etkinlikler
 image: /assets/habitat.jpg
+redirect_from:
+  - /genel,/videos/2020/02/13/Zincirleme-Sohbetler-Panel.html
 ---
 
 

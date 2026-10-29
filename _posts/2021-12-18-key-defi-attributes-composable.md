@@ -5,6 +5,7 @@ date:   2021-12-18 17:47:56 +0300
 categories: Genel
 tags: Yazılar, Articles
 image: /assets/firewood-gd2e14afb3_800.jpg
+lang: en
 ---
 We continue our series of 'key attributes of DeFi' with composability. 
 
