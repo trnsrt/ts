@@ -21,7 +21,7 @@ Pekçok dijital varlık var bu şekilde transfer edebileceğiniz ve bu varlıkla
 
 ### Bitcoin
 
-![cryptocurrency-bitcoin.png](/assets/cryptocurrency-bitcoin.png) 
+![Yeşil dijital kod desenli bir Bitcoin madalyonu, Bitcoin bölümünün kapak görseli](/assets/cryptocurrency-bitcoin.png) 
 
 KriptoPara'ların en eskisi, en çok kullanılanı, bir nevi şahı. Diğer bütün paralardan ayrılan birkaç özelliği var. Öncelikle, kurulmak için herhangi bir yatırım almamış. 2008 yılında çıkan kriz sonrası koca koca bankaların batması ihtimali ve devletlerin bu bankaları kurtarmak için (finansal krizi önlemek adına) milyarlarca dolar para basmasına tepki olarak bir grup *siberpunk* tarafından geliştirilen fikrin meyvesi. Bu dev bankaların batma ihtimali onlarda "acaba paramız mevcut sistemde güvende mi?" sorusunu doğurdu. Devletlerin finansal krizi önleme adına milyarlarca dolar karşılıksız para basması ise onlarda "mevcut düzenin koruyucusu olan devletler ne kadar sorumlu davranıyorlar?" şeklinde düşünceler ile ilk sorulan sorunun etkisini daha da derinleştirdi. Sonunda da Satoshi Nakamoto tarafından yaratılan Bitcoin ortaya çıktı. 
 

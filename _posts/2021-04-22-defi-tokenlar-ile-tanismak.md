@@ -22,7 +22,7 @@ Biraz daha açalım lütfen: Kullanıcının, klasik dünyada işlem yapmak içi
 ### Cüzdan gerekli mi? Merkezi borsalar kullanılamaz mı?
 Elektronik cüzdan, finansal okuryazarlığı daha ileri seviyede olan, konuyu araştırmış olan kullanıcıların kullanabileceği araçlardan. Öğrenmesi hiç zor değil ancak emek istiyorlar. 
 
-| ![man_computer](/assets/man-5782412_800.jpg) | 
+| ![Arkası dönük bir kişinin telefon ve dizüstü bilgisayarda fiyat grafiklerine baktığı stok fotoğraf](/assets/man-5782412_800.jpg) | 
 |:--:| 
 | *Image by [MayoFi ](https://pixabay.com/users/mayofi-19152356/) from [Pixabay](https://pixabay.com/)*|
 

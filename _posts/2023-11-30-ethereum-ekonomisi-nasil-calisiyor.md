@@ -18,7 +18,7 @@ Ekonomisinin nasıl çalıştığını anlayabilmek için öncelikle Ethereum'u 
 
 Akla ilk gelen soru "acaba bir şirket mi Ethereum?" oluyor ama pek öyle değil; onun yerine Ethereum'u bir ülkeye benzetmek daha uygun kaçabilir.  Hatta bir adım öteye giderek, üzerinde yavaş yavaş gelişmeye başlayan ve ikinci seviye olarak adlandırılan blokzincirleri de katacak olursak, Ethereum'a eyaletlerden oluşan bir 'birleşik devlet' demek belki de daha doğru.  Bu devletin içinde farklı farklı aktörler var. Kimler bunlar diye bakacak olursak: 
 
-| ![ethereum-birleşik-devletleri](/assets/ethereum-birlesik-devletleri.png)|
+| ![Ethereum'u ülkeye benzeten illüstrasyon; kullanıcılar, ana zincir ve ikinci seviye çözümler gösteriliyor](/assets/ethereum-birlesik-devletleri.png)|
 |:--:| 
 | *Kullanıcılar, kullandıkları uygulamalar, ikinci seviye çözümler ve en altta ana zincir ile birlikte karşınızda Ethereum birleşik devletleri*|
 
@@ -37,14 +37,14 @@ Ethereum'un ekonomik büyüklüğünü anlamak için sistemin yukarıdaki aktör
 ### Nedir Ethereum'un gelirleri?
 Ethereum'un birkaç gelir kalemi mevcut. Bu kalemlere bakmadan önce Ethereum'un tam olarak ne fayda sağladığına bakmak gerekiyor. Ethereum'un sunduğu temel hizmet, dijital dünyada kullanıcıların kendi aralarında başta finansal olmak üzere her tür ilişkiyi güvenli bir şekilde yapabilecekleri bir alan sağlamak. Peki bunu nasıl yapıyor? Kullanıcılara üzerinde işlem yapabilecekleri bir blok alanı satarak. 
 
-| ![ethereum-blok-alaninini-kullananlar](/assets/ethereum-blok-alanini-kullananlar.png)|
+| ![Ethereum blok alanını kullananları gösteren şema: kullanıcılar ile blok operasyon aktörleri](/assets/ethereum-blok-alanini-kullananlar.png)|
 |:--:| 
 | *Kullanıcılar, DeFi platformları ve ikinci seviye çözümler Ethereum'un blok alanının sistemin operasyon (işleyiş ve güvenlik) görevini yürütenlere işlem ücreti öderler*|
 
 ### İşlem gelirleri
 Kullanıcılar bu blok alanını kullanabilmek için bir işlem ücreti ödüyorlar. İşte işlem ücretleri Ethereum'un en önemli ve büyük gelir kalemi. Kişi herhangi bir başka kişi ya da bir platform ile etkileşime geçip işlem yapmak istediğinde bu işlemin güvenli bir şekilde yapılması ve değiştirilemez şekilde saklanması için Ethereum altyapısına bir ücret ödemek zorunda. Bahsettiğimiz işlemler bir başkasına para göndermekten, platformu oluşturan akıllı kontratı kullanarak finansal işlemler (örneğin mevduat yatırma ya da kredi alma gibi) yapmaya uzanan geniş bir yelpaze içinde yer alabiliyor. 
 
-| ![ethereum-blok-alaninda-olusan-deger](/assets/ethereum-blok-alaninda-olusan-deger.png)|
+| ![Blok alanında oluşan değerin baz ücret, bahşiş, restaking ve MEV kanallarıyla nereye aktığını gösteren şema](/assets/ethereum-blok-alaninda-olusan-deger.png)|
 |:--:| 
 | *Dört farklı şekilde oluşan gelirler kullanıcılardan aracılara doğru yukarıdaki gibi akar*|
 
@@ -66,14 +66,14 @@ Ethereum'un yarattığı bu üç ana gelir kalemi dışında, önümüzdeki dön
 
 Yukarıda bahsettiğimiz üç temel gelir kaleminin 2023 yılının ilk üç çeyreğindeki dağılımını aşağıdaki tabloda bulabilirsiniz. 
 
-| ![ethereum-gelir-dagilimi](/assets/ethereum-gelir-dagilimi.png)|
+| ![Ethereum'un 2023 ilk dokuz ayındaki gelir dağılımı pastası; baz ücret yüzde 69, MEV yüzde 16,9](/assets/ethereum-gelir-dagilimi.png)|
 |:--:| 
 | *Kaynak: [Token Terminal](https://tokenterminal.com/resources/crypto-research/ethereum-investment-framework#the-business-model)*|
 
 ### Peki giderleri neler?
 Ethereum'un çok basit olarak gelirleri yukarıdaki gibi. Peki bunları yaparken giderleri ne? Giderlere baktığımızda aslında çok da fazla gideri olmadığını görüyoruz.  İşin özünde Ethereum bir ağ ve bu ağın işlemesi için gerekli olan ağı kullanan binlerce makinenin yaptığı enerji harcaması. Bu elektrik harcaması, özellikle Bitcoin gibi madenciler üzerinden yürütülen sistemlerde oldukça dramatik bir boyutta. Ethereum ise 15 Eylül 2022'de sistemini değiştirerek (Bitcoin'in kullandığı Proof-of-Work, kısaca PoW Türkçesi iş kanıtı sisteminden, daha yeni ağlarda kullanılan Proof-of-Stake kısaca PoS Türkçesi hisse kanıtı  sistemine geçerek) enerji tüketimini %99 oranında azalttı. 
 
-| ![enerji-harcamasi](/assets/ethereum-energy-consumption-v2.png)|
+| ![Sistemlerin enerji tüketimini karşılaştıran çubuk grafik; ETH PoS en alttaki en küçük çubuk](/assets/ethereum-energy-consumption-v2.png)|
 |:--:| 
 | *Farklı sistemlerin enerji harcamaları karşılaştırması Kaynak: [Ethereum Foundation](https://ethereum.org/en/energy-consumption/)*|
 

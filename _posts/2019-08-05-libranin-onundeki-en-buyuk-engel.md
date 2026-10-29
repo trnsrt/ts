@@ -34,7 +34,7 @@ Libra işte bu iki başarılı denemenin ardından ortaya çıkan üçüncü bü
 
 Neden tıkanıyor Facebook? Dünyada 2.3 milyar kişilik bir kitleye ulaşmış durumda. Daha da fazla insana da ulaşacak, orası kesin ancak artık eski hızında değil. Yeni nesil fazla kullanmıyor diye onlara hitap eden Instagram'ı satın aldı. Sonrasında insanların haberleşmede en sık kullandığı uygulama olan Whatsapp'ı bünyesine kattı. Artık ulaşacağı insan sayısı azaldı. Elinde tuttuğu bu insanlara Facebook aracılığıyla reklama boğarak para kazanmaya çalışıyor ama onun da bir sınırı var. Bu insanları daha fazla sağması lazım. İşte burada da Çin'de bulunan WeChat'in yolundan giderek sınır ötesi para transferlerine aracılık etmeyi planlıyor.
 
-![facebook_kullanici.png](/assets/facebook_kullanici.png)
+![Facebook'un 2011-2019 aylık aktif kullanıcı sayısı ile dönemlik artış oranı; büyüme yavaşlıyor](/assets/facebook_kullanici.png)
 
 ### Ne gibi engeller var Libra'nın önünde?
 
@@ -48,7 +48,7 @@ Aslında Facebook bu kanun koyucuların kendisine koyacağı engellerin gayet fa
 
 Öncelikle oyunu kuralların göre oynadılar. Kripto para ve Blockchain dünyasının en iyi modellerini örnek aldılar kendilerine. Bu arada kendilerini Libra'dan olabildiğince uzaklaştırmaya çalıştılar. Libra bir birlik olarak 27 ortak ile kuruldu. Ortak sayısı en az 100 olacak ve Libra'nın yönetiminde her bir ortağın %1'den fazla oyu olmayacak. 
 
-![libra_swiss.png](/assets/libra_swiss_2.png)
+![Libra'nın İsviçre merkezli yapısını anlatan illüstrasyon; İsviçre bayraklı binalar ve yükselen oklar](/assets/libra_swiss_2.png)
 
 Peki Facebook parayı nereden kazanacak? Orada da Calibra, yani tamamı Facebook'a ait olan elektronik cüzdan ortaya çıkıyor. Facebook diyor ki "ben kullanıcılarıma Libra paralarını transfer etmeleri için Calibra'yı kullandıracağım". 
 
@@ -70,7 +70,7 @@ Ekonomik olarak çok büyük sorun çıkacağı düşünülmüyor ama sonuçta L
 
 Teknik olarak Libra ile ilgili çalışmaların daha başlangıç aşamasında olduğunu söyleyebiliriz. Zira, Facebook şu anda kadar tüm enerjisini konsepti tam olarak oturtmak için harcadı. Kullanacağı protokoller için piyasada mevcut olanlardan seçimler yaptı, şimdi teknik altyapının kotarılması işi var. Burada da kanuni zorunlulukların getireceği ekstra yükler belirsiz. Örneğin yukarıda bahsettiğimiz kara para aklaması (AML/KYC) konusunda her bir kanun koyucunun istediği düzenlemeleri ve raporlamaları yapmak için sistem kurmaya başladıklarında altından kalkmaları gereken yük oldukça artacak.  
 
-![libra_developers.png](/assets/libra_developers.png)
+![Libra simgeli kutudan ok ile alışveriş çantalarına uzanan teknik altyapı illüstrasyonu](/assets/libra_developers.png)
 
 ### Sonuç
 

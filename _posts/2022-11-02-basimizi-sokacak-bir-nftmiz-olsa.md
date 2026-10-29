@@ -16,7 +16,7 @@ Hep söylediğimiz gibi, blokzincir benzeri bir teknolojinin başarılı olması
 Geçtiğimiz hafta medyaya düşen, ABD'de bir evin [NFT olarak](https://etherscan.io/nft/0xF928d6285B8a4f9ac5A640ae598D7399C331cea7/0) Ethereum üzerinde [satılması haberi](https://etherscan.io/tx/0xa7b2e89bf6d5cc8e605c1cf8823e532f87790d1816f7f98df77127cc98a1021f), nihayet bu alanda ekilen tohumların yavaş yavaş uç vermeye başladığının bir göstergesi olabilir. Gelin gerçekleşen bu işlemin detayını, taraflarını ve sistemin işleyişini birlikte gözden geçirelim. 
 
 
-| ![nft_city](/assets/iphone-4857114_800.jpg)|
+| ![Bir telefonun üzerinde minyatür bir şehir maketi, dijital gayrimenkul ve NFT fikrini simgeliyor](/assets/iphone-4857114_800.jpg)|
 |:--:| 
 | *Image by [Drajt](https://pixabay.com/users/drajt-3643917/) from [Pixabay](https://pixabay.com/)*|
 

@@ -18,7 +18,7 @@ Bitcoin is the first real-world adaptation of Blockchain technology. Actually, i
 
 According to Bitcoin maximalists, there is no such separate term as 'Blockchain' but rather, Blockchain is the underlying technology developed thanks to Bitcoin. This is really a 'chicken-and-egg' problem, and quite honestly both sides' arguments have some merit. 
 
-| ![chicken_and_egg](/assets/easter-4128118_800.jpg)|
+| ![A cracked eggshell holding two small chicken figurines in straw, a nod to the chicken-and-egg debate](/assets/easter-4128118_800.jpg)|
 |:--:| 
 | *Image by [Alexas_Fotos](https://pixabay.com/users/alexas_fotos-686414/) from [Pixabay](https://pixabay.com/)*|
 
@@ -36,7 +36,7 @@ Bitcoin aims to provide power to people through a currency, which they use to pr
 
 This would reduce the impact of any government monetary policy that results in inflation, which was evident in enormous money printing exercised by US Fed and European Central Bank. 
 
-| ![CEB_FED_total_assets](/assets/CEB_FED_total_assets.png)|
+| ![Line chart of Federal Reserve and ECB total balance sheets, 2003-2021, with sharp rises around 2008 and 2020](/assets/CEB_FED_total_assets.png)|
 |:--:| 
 | *FED and ECB total balance sheets. Source [StLouis FED](https://fred.stlouisfed.org/series/WALCL)*|
 

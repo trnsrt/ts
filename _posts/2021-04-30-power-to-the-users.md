@@ -26,7 +26,7 @@ A group of people has seen the unprecedented power grab by tech giants way befor
 
 A similar development has also started around similar times when people start talking about separation of governments from money. Money has always been under the control of governments in the 20th century. However, while money printing was tied to the available gold a government has in stock, this system has been abandoned completely following the Vietnam War in 1972. While we have seen the US government sparingly printing cash at it will, the tipping point was 2008. During the mortgage crisis (which by the way was not  actually related to mortgages but rather a gigantic amount of derivatives built on top of mortgage claims), US Fed has printed cash  equal to the amount printed up until that point in US history. (By the way, please do not look at the very right side of the chart (.e. 2020's) if you would like to have a good sleep tonight)
 
-| ![fed_monetary_base](/assets/fredgraph_monetary_base_800.png)|
+| ![FRED chart of total US monetary base from 1960 to 2020, rising sharply after 2008](/assets/fredgraph_monetary_base_800.png)|
 |:--:| 
 | *Source: [Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org/series/BOGMBASE)*|
 
@@ -36,7 +36,7 @@ This enormous money printing was justified as 'saving the economy' from the cris
 
 Privacy concerns in digital life coupled with fear of governments toying with inflationary tools resulted in a perfect storm in 2008 that created the first blockchain project, namely bitcoin.. 
 
-| ![power_charge](/assets/flash-3604915_800.jpg)|
+| ![Lightning bolts striking over a blue grid background, a visual metaphor for power given to users](/assets/flash-3604915_800.jpg)|
 |:--:| 
 | *Image by [Gerd Altmann](https://pixabay.com/users/geralt-9301/) from [Pixabay](https://pixabay.com/)*|
 

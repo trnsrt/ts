@@ -13,7 +13,7 @@ Bu yazımızda, merkeziyetsiz blokzincirler arası köprüler üzerinde Şubat a
 
 Wormhole, ağlar arası varlık transferi hizmeti sunan bir köprü. Sitesinde pek çok farklı ağdan bahsetse de temel olarak Ethereum ile Solana arasında ki transferler için kullanılıyor. 2 Şubat günü, bir hacker, bu ağ üzerinden 120,000 ETH (o zamanki değeri ile 322 milyon ABD Doları) kadar bir rakamı 'çaldı'. 
 
-| ![bridge_accident](/assets/bridge-312873_800.jpg)|
+| ![Çöken bir köprünün nehre devrilen kamyonla gösterildiği kaza fotoğrafı; köprü kazası yazısının görseli](/assets/bridge-312873_800.jpg)|
 |:--:| 
 | *Image by [Ulrike Leone](https://pixabay.com/users/ulleo-1834854/) from [Pixabay](https://pixabay.com/)*|
 

@@ -31,7 +31,7 @@ Bu aslında çok normal. Mesajlaşma ve ödeme sistemlerinin birbirleri ile sine
 
 Yine aynı NYTimes [yazısına](https://www.nytimes.com/2019/02/28/technology/cryptocurrency-facebook-telegram.html) göre Facebook dünyadaki belli başlı KriptoPara borsaları ile konuşarak 2019 yılının ilk yarısında kendilerine ait bir KriptoPara çıkaracakları bilgisini iletiyor. Yani FBCoin, Facecoin, FacebookCoin, MarkZuckerbergCoin artık ismi ne olacaksa büyük bir para geliyor piyasalara (biz şimdilik FaceCoin diyelim)
 
-| ![facebook_1924510_400.png](/assets/facebook_1924510_400.png) | 
+| ![Mavi kare içinde beyaz 'f' harfi, Facebook'un olası KriptoPara'sı FaceCoin tartışması için ikon](/assets/facebook_1924510_400.png) | 
 |:--:| 
 | *FaceCoin? [Kaynak](https://pixabay.com/vectors/facebook-icon-blue-social-media-1924510/)* |
 

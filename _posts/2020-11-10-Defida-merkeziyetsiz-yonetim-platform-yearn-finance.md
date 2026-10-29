@@ -17,7 +17,7 @@ Kripto paralar pek çok insan için oldukça teknik ve karışık. Sıradan bir 
 
 Şöyle bir hizmet olsa yatırımcının parasını alıp değerlendiren? O yere parasını koyup sonrasında gönül rahatlığı içinde işine dönse? Var mı böyle bir yer?
 
-| ![yearn_relax](/assets/yearn_relax_800.jpg)|
+| ![Dişliler arasında ellerini ensesine koymuş rahat oturan bir kişi, işini yönetime bırakmayı simgeliyor](/assets/yearn_relax_800.jpg)|
 |:--:| 
 | *Image by [Gerd Altmann](https://pixabay.com/users/geralt-9301/) from [Pixabay](https://pixabay.com/)*|
 

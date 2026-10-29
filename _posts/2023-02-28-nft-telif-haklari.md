@@ -41,7 +41,7 @@ Peki uzun vadede bu oyuncuları nasıl kendinize çekebilirsiniz? Ticaret hacmi 
 
 Bu arada piyasaya son giren oyuncu Blur'a ayrı bir parantez açmak gerekiyor. Arkasına Paradigm gibi güçlü bir fon ve [Punk6529](https://twitter.com/punk6529) ve [CozmoMedici](https://twitter.com/CozomoMedici) gibi ünlü NFT koleksiyonerlerini alan Blur, işin ticaretini yapanlara yönelik sunduğu kullanışlı arayüzü ve dağıtmayı taahhüt ettiği tokenler sayesinde bir anda gündeme oturdu. Bunların yanına eklediği alım satımlarda komisyon almamak ve NFT telif haklarını opsiyonel yapmak gibi özellikler Blur'a olan ilgiyi daha da artırdı. x2y2 ve LooksRare'in hatalarından ders alan Blur, token dağıtma mekanizmasını daha iyi kurgulayarak, sahte ticaret hacimlerini desteklemek yerine likidite sağlayanlara yönelik teşvikler koydu[^1].
 
-| ![blurred_sea](/assets/opensea-blur_800.jpg)|
+| ![Bulanık deniz, mavi gökyüzü ve kumsal; OpenSea ile Blur rekabetine giriş için kullanılan stok görsel](/assets/opensea-blur_800.jpg)|
 |:--:| 
 | *Image by [Pexels](https://pixabay.com/users/pexels-2286921/) from [Pixabay](https://pixabay.com/)*|
 
@@ -55,7 +55,7 @@ Bunun üzerine Blur gayet akıllıca yeni bir hamle yapıyor: Kendi kontratları
 
 OpenSea ile Blur'un tangosunda geçtiğimiz haftalarda yeni birkaç gelişme daha yaşandı. Önce Blur'un uzun zamandır beklenen tokeni platformu kullananlara dağıtıldı. Teşvik programı henüz bitmiş değil ve mevcut haliyle bir-iki yıl daha sürecek gibi görünüyor. Bu da Blur'un likidite ve işlem hacmini iyice artırdı. 
 
-| ![nft_marketplaces](/assets/nft_pazaryerleri_230224_800.jpg)|
+| ![NFT pazar yerlerinin haftalık işlem payları 2021-2023; OpenSea'nin payının Blur'a kaydığını gösterir](/assets/nft_pazaryerleri_230224_800.jpg)|
 |:--:| 
 | *Kaynak: [Dune Analytics- @hildobby](https://dune.com/hildobby/NFTs)*|
 

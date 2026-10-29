@@ -14,7 +14,7 @@ Tabii iki yapı arasındaki farklar bununla sınırlı değil. Bu yeni yapılar 
 
 Efendim, normalde girişimcilik (kar için yapılanı), kaba hatlarıyla şu şekilde çalışır: Bir grup kafadar bir araya gelirler (ya da bir kişi farketmez). Bir fikir ortaya atarlar. Sonra bu fikir üzerinde kafa yormaya başlarlar. Fikri geliştirir, bu fikir üzerinden bir katma değer yaratmaya başlarlar. 
 
-![entrepreneur-classic-600.jpg](/assets/entrepreneur-classic-600.jpg) 
+![Mavi tonlu illüstrasyonda dizüstü bilgisayarla çalışan bir kişi, arkasında koşan figür ve para motifleri](/assets/entrepreneur-classic-600.jpg) 
 
 Bir noktada daha fazla katma değer yaratabilmek için dışarıdan birilerinin katkılarına ihtiyaç duyarlar. Örneğin, ekibi büyütmek (ki daha fazla iş ortaya çıkarsınlar), şehir şehir gezmek (ki yeni müşteri bulsunlar), bir ofis kiralamak (ki ekibi birarada tutsunlar ve verimli çalışsınlar) ve bu sırada kendilerinin ve ekibin karnını doyursunlar. Fikirden elde ettikleri gelir henüz bu masrafları karşılamaya yetmediği durumda ve masrafları bir süreliğine karşılamak için yatırımcılardan finansman sağlamaya çalışırlar (eğer bankadan borç almak için gerekli olacak mal varlığına sahip değillerse). 
 
@@ -28,7 +28,7 @@ Bu, bugün gördüğümüz birçok girişimde, özellikle bizim konumuz olan Web
 
 Ancak Web 3.0 ile gelen yeni merkezi olmayan oluşumlarda bu yapı tamamen değişiyor! Zira burada kurulan sistem bir şirket değil, bir ekosistem... ve bu ekosistemde sadece girişimciler ve yatırımcılar yok. Başka pek çok bileşen var. Girişimciler tabii var ama onlar olayı kurgulayanlar; sonrasında organizma kendi kendine büyüyor. Ne demek bu? Biraz daha açalım. 
 
-![entrepreneur-new_600.jpg](/assets/entrepreneur-new_600.jpg) 
+![Dizüstü bilgisayarlı bir kişinin arkasında renkli oklu desen; merkeziyetsiz ekosistemde yeni girişimciliği anlatır](/assets/entrepreneur-new_600.jpg) 
 
 Hatırlarsanız [ilk yazımızda](/genel/2018/03/01/Geceleri-uykunuzu-ne-kaciriyor.html), internetin gelişim ve yaygınlaşması ile birlikte ortaya çıkan şirketlerin (Facebook, Google, Amazon ve Apple başta olmak üzere) daha sonra ağırlıklı kar baskısı sebebiyle monopol haline gelip tüm ekosisteme (kullanıcılar, girişimciler, reklamverenler gibi) nasıl zarar verdiklerinden bahsetmiştik. 
 

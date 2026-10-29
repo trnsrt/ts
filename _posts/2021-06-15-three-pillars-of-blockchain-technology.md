@@ -58,7 +58,7 @@ Now, you can create scarcity if there is one single authority. You can create di
 
 How are you going to replicate that if your core value is 'eliminate the need for a central authority or intermediary'?. If you are going to distribute the power to thousands of machines that are independent of each other, how are you going to make sure that they move along in a coordinated way and reach a decision?
 
-|![consensus_mechanism](/assets/hands-1697895_800.jpg)| 
+|![Four cartoon hands joining puzzle pieces around a central piece, a metaphor for consensus among independent nodes](/assets/hands-1697895_800.jpg)| 
 |:--:| 
 | *Image by [Gerd Altmann](https://pixabay.com/users/geralt-9301/) from [Pixabay](https://pixabay.com/)*|
 

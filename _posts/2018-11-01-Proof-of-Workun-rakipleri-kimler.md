@@ -10,7 +10,7 @@ image: /assets/start-1590051_640.jpg
 
 Geçtiğimiz [yazıda](/genel/2018/11/01/Bitcoin-uzlasmasi-proof-of-work.html) Bitcoin'in kendisinden önce geliştirilmiş pekçok gelişmeyi içine alan ancak bu parçaları birleştirirken devrim niteliğinde bir yenilik getirdiğinden söz etmiştik. Proof-of-Work (PoW) olarak adlandırılan bu yeniliğin kritik yönlerinden bahsetmiştik. Ancak her yenilikte olduğu gibi burada da teknoloji dünyası artıları dışında eksileri de olan bu yeniliği nasıl olur da daha da geliştiririz düşünürken ortaya pek çok yeni alternatif çıktı. Gelin dilerseniz bu alternatiflere kısaca göz atalım. 
 
-![start-1590051_640.jpg](/assets/start-1590051_640.jpg)
+![Koşu yarışının başlangıcında sıraya dizilmiş koşucular; Proof-of-Stake'in Bitcoin'e rakibini anlatan stok fotoğraf](/assets/start-1590051_640.jpg)
 
 ### Proof-of-Stake (PoS)
 

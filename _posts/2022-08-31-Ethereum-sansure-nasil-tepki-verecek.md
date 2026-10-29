@@ -15,7 +15,7 @@ Geçtiğimiz yazılarda önce Tornado Cash'in yasaklanması sonrası blokzincirl
 
 ABD'nin kara para aklama konusundaki otoritelerinden OFAC'ın Tornado Cash ve onunla ilişkili hesapları yasaklı listesine alması sonrası, pek çok DeFİ uygulamasının bu listede yer alan yasaklı hesaplara erişimi engellediğinden bahsetmiştik. 
 
-| ![no_entry](/assets/cabinets-283847_800.jpg)|
+| ![Turuncu kutulu bariyer kolu ve yaya yasağı işareti; yasaklı adreslerin erişiminin engellenmesi fikrini anlatıyor](/assets/cabinets-283847_800.jpg)|
 |:--:| 
 | *Image by [Holger Langmaier](https://pixabay.com/users/holgersfotografie-47038/) from [Pixabay](https://pixabay.com/)*|
 
@@ -44,7 +44,7 @@ Gelin bu üç soruya cevap arayalım şimdi de:
 ### Merkezi kurumlar sansür baskısı gelirse nasıl davranırlar? 
 Şu an Ethereum PoS sisteminde ETH yatırmış onaylayıcılarının yaklaşık olarak %66.1'i kurumlardan oluşuyor. Aşağıdaki tabloda bu kurumların dağılımını görebilirsiniz:
 
-| ![ETH_Stakers](/assets/Ethereum_stakers_800_v2.png)|
+| ![Ethereum PoS onaylayıcılarının kurum dağılımı pasta grafiği; Lido yüzde 29,5, Coinbase yüzde 12,5 ile başta](/assets/Ethereum_stakers_800_v2.png)|
 |:--:| 
 | *Ethereum PoS onaylayıcıları (22 Ağustos 2022 itibariyle).  Kaynak: [Rated Network](https://www.rated.network/ )*|
 

@@ -18,7 +18,7 @@ Bir paragrafta özetleyelim:
 - Kişiden kişiye para transferi dışında, Facebook sistemi içindeki pek çok hizmet alımının karşılığında ödeme olarak da kullanılabilecek (ortaklar, örneğin Uber için de geçerli bu). 
 - Biz bireyler, elimizdeki TL, ABD Doları vb parayı Libra'ya çevirip sistem içinde kullanabileceğiz. Bunu yaparken normal olarak dijital cüzdanlar kullanacağız. [Calibra](https://calibra.com/), bu cüzdanların [Facebook tarafından](https://newsroom.fb.com/news/2019/06/coming-in-2020-calibra/) çıkarılan ilk örneği. 
 
-| ![libra_pixabay.png](/assets/libra_pixabay.png) | 
+| ![Terazi tutan bir kadının ortaçağ resmi; Libra adının ağırlık ölçüsü ve denge çağrışımını anlatan görsel](/assets/libra_pixabay.png) | 
 |:--:| 
 | *Libra, Eski Romalı ağırlık ölçüsü biriminden esinlenme (Kaynak: [Pixabay](https://pixabay.com/images/id-1299238/))* | 
 
@@ -54,7 +54,7 @@ Facebook'un iş modeli daha önce de belirttiğimiz gibi kullanıcıların kişi
 
 Dolayısıyla Facebook geçmişte yaşanan tepkileri de dikkate alarak bu yeni girişime daha temkinli yaklaşıyor. Yanına pek çok ortak alıyor, bağımsız bir vakıf kurduğunu söylüyor. 
 
-| ![libra-block.jpg](/assets/libra-block.jpg) | 
+| ![Libra kurucu ortaklarını sektörlere göre gruplayan The Block şeması; Mastercard, Visa, Uber ve Facebook](/assets/libra-block.jpg) | 
 |:--:| 
 | *Libra kurucuları: Yok yok, kimi ararsan var (Kaynak: [The Block](https://www.theblockcrypto.com/))* | 
 

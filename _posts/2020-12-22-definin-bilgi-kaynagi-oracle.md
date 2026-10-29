@@ -58,7 +58,7 @@ DeFi dünyasının patlamasıyla birlikte doğru ve hızlı veriye olan ihtiyaç
 
 Bu alandaki belli başlı oyuncular [Chainlink](https://chain.link/), [Band Protocol](https://bandprotocol.com/), [Nest Protocol](https://nestdapp.io/), [DIA](https://diadata.org/), [Tellor](https://www.tellor.io/), [Zap](https://zap.org/) ve [DOS Network](https://web.archive.org/web/20201223104814/https://dos.network/) olarak sıralanıyor. Ancak hemen belirtelim Chainlink bu piyasanın neredeyse tek hakimi.. Bu saydığımız oyuncuların piyasa değerleri şu şekilde: 
 
-| ![Oracle_servis_saglayicilar](/assets/Oracle_Servis_Saglayicilar_v3.png)|
+| ![Oracle servis sağlayıcılarının piyasa değerleri; Chainlink yaklaşık 4,9 milyar dolarla açık ara önde](/assets/Oracle_Servis_Saglayicilar_v3.png)|
 |:--:| 
 | *Kaynak: [CoinGecko](https://www.coingecko.com/en) 22 Aralık 2020*|
 

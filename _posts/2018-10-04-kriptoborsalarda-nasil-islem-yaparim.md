@@ -21,7 +21,7 @@ Diyelim, Bitcoin satın aldınız, şimdi burada eğer konuya yabancı iseniz "H
 ### Önce bir KriptoPara nasıl satın alınır ona bakalım
 
 
-| ![exchange-money-600.jpg](/assets/exchange-money-600.jpg) | 
+| ![Üzerinde dolar madeni paraları olan cam küre, mavi gökyüzü ve çayır; kripto para alıp almamayı sorgulayan görsel](/assets/exchange-money-600.jpg) | 
 |:--:| 
 | *Almalı mı, almamalı mı? Daha önemlisi nasıl almalı? [Kaynak](https://photos.icons8.com/im-a-bit-suspicious-of-this-coin-5acb35328b658800016e8ef6)* | 
 

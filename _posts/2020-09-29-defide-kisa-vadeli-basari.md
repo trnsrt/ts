@@ -19,7 +19,7 @@ Efendim, bugünkü konumuz olan "Meme" (İngilizce bir kelime olup Türkçe "mii
 
 Meme dediğimiz "şey", genelde komik ve çoğunlukla ilk bakışta anlaşılmaz bir resim, fotoğraf, altyazı, gif ya da kısa video. Komik olması viral olarak adlandırdığımız hızlı yayılmayı sağlıyor. İlk bakışta anlaşılmaz olmasının nedeni genelde referans verdiği konular hakkında belli bir bilgi birikimi sahibi olmayı gerektirmesi. Bunun yanında pek çok kişiye ofansif (rahatsız edici) de gelebiliyor. Kimin yarattığının pek de bir önemi yok. Genelde topluluğun içinden biri yaratıyor ve "tutulursa" topluluk tarafından çevreye yayılıyorlar. Bir örnek verelim: 
 
-| ![Money_printer](/assets/money_printer.png)|
+| ![Fed'in para basma politikasını konu alan meme; öfkeli bir karikatür ve para basma makinesiyle gülen bir adam](/assets/money_printer.png)|
 |:--:| 
 | *-Hayıırrr. Yapay şekilde para basıp ekonomide enflasyon yaratarak ekonomik bozulma ile savaşamazsın!! Piyasadaki işaretleri sadece para politikası kullanarak değiştiremezsin. Faizlerin doğal hareketini bozamazsınhayyyıııırrr!  - Hahha, çalış para basma makinesi brrrrrr*|
 
@@ -51,7 +51,7 @@ DeFi'de çok hızlı gelişen projeler ile "kafa bulan" bir tweet. "Beş dakikad
 
 Sonra işler çok da düşündüğü gibi gitmedi :) Öncelikle birkaç saat sonra, yukarıda prototip fotoğrafını gösterdiği sitenin orijinalini açtı. Herhangi bir fonksiyonu olmayan, geleni sadece bir Telegram grubuna yollayan bir site. İnsanlar müthiş ilgi gösterdiler. Kısa süre sonra MEME token çıktı. Token bir süre sonra Poloniex borsasında listelendi. Şu sıralar projenin [piyasa değeri 14 milyon ABD Dolar civarında](https://www.coingecko.com/en/coins/meme). 
 
-| ![meme_chart](/assets/meme_chart.png)|
+| ![MEME tokeninin Ağustos-Eylül 2020 fiyat grafiği; 22 Eylül civarında sert yükseliş ve ardından düşüş](/assets/meme_chart.png)|
 |:--:| 
 | *MEME çıktıktan sonraki bir aylık hisse değeri. Kaynak: [Coingecko](https://www.coingecko.com/en/coins/meme)*|
 
@@ -71,7 +71,7 @@ Andre'nin [Twitter profilinde](https://twitter.com/AndreCronjeTech) "I test in p
 
 MEME tokenın web sitesi https://dontbuymeme.com/ yani "Meme [token]satın almayın". İçine girdiğinizde üç buton çıkıyor: "Satın almayın", "Ekim (farm) yapmayın", "Telegram grubuna katılmayın". **Baştan itibaren DeFi konusunda kendini rahat hissetmeyenleri kendinden uzaklaştırmaya çalışıyor - yani "dürüst" davranıyor** (ya da dürüst davrananları ti'ye alıyor, bir başka yorumla ileride kanuni otoriteler üzerine gelirse onlara "bakın ben kimseyi kandırmaya çalışmadım" demek için kendine kılıf hazırlıyor) 
 
-| ![meme_meme](/assets/meme_meme.png)|
+| ![TIME dergisi kapağını taklit eden meme: yılın meyvesi ananas ve CEO'nun 'satın almayın' mesajı](/assets/meme_meme.png)|
 |:--:| 
 | *Kaynak: [MEME Blog](https://medium.com/@dontbuymeme/dont-buy-meme-defi-s-meme-coin-555c2714486a)*|
 
@@ -87,7 +87,7 @@ YAM hareketini duymuş olabilirsiniz. Farming olayını ekstrem noktalara taşı
 
 
 
-| ![meme_vs_yam](/assets/meme_vs_yam.jpg)|
+| ![Distracted boyfriend meme'i: DeFi'ye bakan adam, ananaslı $MEME ve tatlı patatesli $YAM arasında](/assets/meme_vs_yam.jpg)|
 |:--:| 
 | *Kaynak: [MEME Blog](https://medium.com/@dontbuymeme/dont-buy-meme-defi-s-meme-coin-555c2714486a)*|
 

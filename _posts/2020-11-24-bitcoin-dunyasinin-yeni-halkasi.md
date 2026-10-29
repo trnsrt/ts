@@ -9,7 +9,7 @@ image: /assets/drop-of-water-2273845_1280.jpg
 
 Bu aralar herkesin dilinde Bitcoin ve onun hızlı yükselişi var. Aynı suya atılan bir taşın yarattığı halkalar gibi, sanki son zamanlarda Bitcoin de geniş kitlelerce benimsenme yolunda etrafına yeni birkaç halka daha ekledi. Gelin bu yazımızda, bu son halkalardan birkaçına değinelim: 
 
-| ![yagmur-damlasi](/assets/drop-of-water-2273845_1280.jpg)|
+| ![Suya düşen damlanın yarattığı halkalar, mor tonlu bir fotoğraf; Bitcoin'in yeni halkalarına gönderme](/assets/drop-of-water-2273845_1280.jpg)|
 |:--:| 
 | *Image by [FelixMittermeier](https://pixabay.com/users/felixmittermeier-4397258/) from [Pixabay](https://pixabay.com/)*|
 

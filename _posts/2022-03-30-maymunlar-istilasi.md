@@ -33,7 +33,7 @@ Koleksiyon, birbirinden farklı 6,039'i erkek ve 3,840'ı kadın olan 24x24 piks
 
 Bir yandan da bu koleksiyon sayesinde nadirlik kavramı NFT dünyasına girdi. 10,000'lik bir koleksiyon içinde onlarca aynı özelliği olan parça varken, çok az parçada bulunan bir özellik (örneğin kafaya takılan bir bandana) o eserin diğerlerinden daha az bulunan nadide bir parça olmasını sağlıyor. Bu da kimi parçaların diğerlerine oranla çok daha  yüksek fiyatlardan satılmasına yol açıyor. Bu da tüm koleksiyona olan ilgiyi bir anda artırıyor. Örnek isterseniz aşağıda gördüğünüz [parça](https://opensea.io/assets/0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb/5822) Şubat ayında tam 24 milyon dolara [satıldı](https://www.theblockcrypto.com/linked/134139/highest-ever-cryptopunk-sale-nets-24-million). 
 
-| ![cryptopunk_5822](/assets/cryptopunk_5822.png)|
+| ![5822 numaralı CryptoPunk, mavi bandanalı piksel sanat parçası; 24 milyon dolara satılan NFT](/assets/cryptopunk_5822.png)|
 |:--:| 
 | *5822 numaralı CryptoPunk parçası 24 milyon ABD Dolarına satıldı Kaynak: [OpoenSea](https://opensea.io/assets/0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb/5822)*|
 
@@ -44,7 +44,7 @@ Neden fiyatı bu kadar yüksek? Yukarıda bahsettiğimiz koleksiyon içinde sade
 
 Önce bir hafta ön-satış yapmışlar. Tanesi 0.08 ETH (o zamanlar 220 ABD Doları) olan parçalardan sadece 500 adet satılmış. Sonra genel satışa geçilmiş ve hiç beklemedikleri şekilde kalan 9500 parça bir gecede bitmiş. Sonra? Sonrasında aklınıza gelebilecek ne kadar ünlü varsa bu resimlerden satın alıp Twitter'da profil fotoğrafı yapmaya başlamış. (Sayalım mı kimler almış: Serena Williams, Justin Bieber, Mark Cuban, Steph Curry. Shaq, Paris Hilton, Post Malone, DJ Khaled, Snoop Dogg, Eminem, Neymar, Gwyneth Paltrow vs vs..)
 
-| ![bayc_celebrities](/assets/bayc_celebrities_800.jpg)|
+| ![Ünlülerin sahip olduğu Bored Ape Yacht Club maymunlarından oluşan tanıtım kolajı, 10 parça](/assets/bayc_celebrities_800.jpg)|
 |:--:| 
 | *Bored Ape Yacht Club satın alan ünlüler ve sahip olduklar BAYC'ler [Yuga Labs Leaked Pitch Deck](https://docsend.com/view/84nsn5jzr2skwwan) Sayfa 17*|
 

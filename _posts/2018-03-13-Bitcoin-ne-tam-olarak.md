@@ -24,7 +24,7 @@ Aslında bu normal. Çünkü Bitcoin diğerlerinden farklı - bir nevi bu işin 
 
 
 
-![ ](/assets/dilber-on-bitcoin-twitterjackgaviganstatus584413841649491970.png)
+![Dilbert çizgi romanında Bitcoin'in nasıl çalıştığını soran ve teknik bir açıklama isteyen üç kare](/assets/dilber-on-bitcoin-twitterjackgaviganstatus584413841649491970.png)
 
 &nbsp;
 

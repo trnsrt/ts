@@ -20,7 +20,7 @@ Let's not argue about the merits of this decision or which alternative app is be
 Millions of reasons but the root cause is simple: **We are all addicts.** For what? Well, the technology but more specifically the platform itself. WhatsApp is ingrained in our skin, so much so that we come up with any and every excuse not to part ways with it. 
 
 
-| ![caught_up](/assets/smartphone-3637029_640.jpg)|
+| ![Smartphone screen showing a spider in a web, illustrating how phone platforms hook their users](/assets/smartphone-3637029_640.jpg)|
 |:--:| 
 | *Image by [Gerd Altmann](https://pixabay.com/users/geralt-9301/) from [Pixabay](https://pixabay.com/)*|
 

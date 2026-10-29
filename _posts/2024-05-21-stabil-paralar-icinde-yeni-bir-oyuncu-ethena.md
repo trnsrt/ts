@@ -17,7 +17,7 @@ Stabil para deyince ne anlamamız gerektiğini artık üç aşağı beş yukarı
 
 Neyse, stabil paralara geri dönecek olursak, bu alanda liderliği açık ara USDT (Tether) ve USDC'nin aldığını görüyoruz. Bu iki stabil paranın ortak özellikleri, merkezi yapılar tarafından çıkarılmış olmaları ve arkasında (en azından teorik olarak) basıldığı miktar kadar itibari paranın banka hesaplarında tutuluyor olması. 
 
-| ![stabil_para-pazari](/assets/stabil-para-pazar-paylari_v2.png)|
+| ![Dolara çıpalı stabil paraların pazar payı pasta grafiği: USDT %69,5, USDC %21,2, DAI %3,3](/assets/stabil-para-pazar-paylari_v2.png)|
 |:--:| 
 | *Dolara çıpalanmış stabil paraların pazar payları. Kaynak: [TheBlock](https://www.theblock.co/data/stablecoins/usd-pegged)*|
 
@@ -29,7 +29,7 @@ Bu iki büyük paranın dışında, kendini merkeziyetsiz dolayısıyla sansüre
 
 Burada bir başka önemli nokta da kullanıcının elde ettiği kazanç. Ne Tether ne de USDC'yi çıkaran Circle, paralarını elinde tutan kullanıcılara herhangi bir getiri vaat etmiyor[^3]. Elinizde USDT tuttuğunuzda efektif olarak Tether şirketine faizsiz borç vermiş oluyorsunuz. Zaten, Tether'in en büyük gelir kalemi kendisine verilen bu paralar üzerinden kazandığı faiz geliri. Baksanıza, içinde yaklaşık 110 kişinin çalıştığı Tether'in 2023 yılı gelirleri, o şanlı Wall Street'in en büyük para yöneticisi olan BlackRock'tan bile daha fazla: 
 
-| ![tether_gelirleri](/assets/tether-gelirleri-delphi-digital_v2.png)|
+| ![JPMorgan, Bank of America, BlackRock ve Tether'in 2021-2023 net kazançlarını karşılaştıran sütun grafik](/assets/tether-gelirleri-delphi-digital_v2.png)|
 |:--:| 
 | *JPMorgan, Bank of America, BlackRock ve Tether'in son üç yıl net kazançları Kaynak: Delphi Digital, Tether, Yahoo Finance*|
 
@@ -65,7 +65,7 @@ Diğer yandan, kur riskinden korunmak için aldığı short pozisyonlar da Ethen
 
 Kripto piyasalarındaki oyuncular genelde fiyatların yükseleceğini düşündükleri için piyasada 'long' pozisyon açanlar genelde 'short' olanlara bir fonlama maliyeti öderler. İşte Ethena da, short açtığı işlemlerden elde ettiği geliri kendisine USDe kilitleyenler ile paylaşıyor.  Bu oran sürekli olarak değişiklik gösterse de çoğunlukla pozitif oluyor. Aşağıda short pozisyonların çeyreklik getirilerini bulabilirsiniz (bu arada kimi zaman bu getiriler eksiye de düşebiliyor - bu da sistemin risklerinden bir tanesi - ki bu konuya bir sonraki yazımızda detaylı olarak değineceğiz). 
 
-| ![eth-ceyrek-gelirleri](/assets/ortalama-eth-perp-gelirleri_v2.png)|
+| ![ETH vadeli piyasalarında çeyrek bazında ortalama short pozisyon getirisini gösteren sütun grafik, 2021-2024](/assets/ortalama-eth-perp-gelirleri_v2.png)|
 |:--:| 
 | *ETH perpetuals piyasalarında çeyrek bazında ortalama getiri oranları (yıllandırılmış). Kaynak: [Ethena Labs](https://app.ethena.fi/dashboards/hedging/ETH)*|
 

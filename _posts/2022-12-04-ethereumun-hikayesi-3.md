@@ -15,7 +15,7 @@ Yazı dizimizin ilk bölümünde Ethereum'un ilk döneminde yaşadığı DAO ola
 
 Ethereum üzerindeki yüksek işlem ücretleri, aslında tamamen talepten ve sistemin kısıtlı olması nedeniyle oluşan bir durumdu. Sistem, müzayede tekniği ile çalışıyor ve  yoğun talebi karşılamak için daha yüksek bedel ödemeye razı olanın işlemini öne alıyordu. Ancak burada ödenen ücretler sistemi yürütmekle sorumlu olan madencilerin cebine gidiyordu. 
 
-| ![ethereum_3](/assets/ethereum-7107978_800.jpg)|
+| ![Üzerinde Ethereum logosu bulunan altın renkli madeni paralar, Ethereum hikayesi yazısının başlık görseli](/assets/ethereum-7107978_800.jpg)|
 |:--:| 
 | *Image by [Az1975](https://pixabay.com/users/az1975-18732333/) from [Pixabay](https://pixabay.com/)*|
 

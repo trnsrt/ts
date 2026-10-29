@@ -24,7 +24,7 @@ Shapella güncellemesi öncesi Ethereum sistemine rehin edilen ETH'lerin çekimi
 
 ETH staking pazarının yaklaşık %36'sını elinde totan LSD tokenlerin birkaç büyük oyuncusu var. Bu oyuncular gerek felsefe gerekse işleyiş olarak birbirlerinden bir hayli ayrılıyorlar. Gelin şimdi de bu oyuncuları tek tek inceleyerek aralarındaki farklara değinelim. 
 
-| ![staking-pazar-paylari](/assets/Ethereum-Staking-Pazar-Paylari.png)|
+| ![Ethereum staking pazarında Lido, Coinbase ve diğer oyuncuların pay dağılımını gösteren pasta grafiği](/assets/Ethereum-Staking-Pazar-Paylari.png)|
 |:--:| 
 | *Kaynak: [Dune Analytics](https://dune.com/hildobby/eth2-staking)*|
 
@@ -41,7 +41,7 @@ Bundan sonrası bir sarmal gibi geldi. stETH'nin bir yandan Aave'de mevduat geli
 
 Tabii Aave havuzlarını kullanmanın bir başka nedeni de yukarıda bahsettiğimiz işlemi kaldıraçlı bir şekilde yaparak geliri daha da artırabilme imkanı. Yatırımcılar ellerinde tuttukları stETH'yi getirip Aave'ye teminat olarak yatırıp ETH alıyorlar. Aldıkları bu ETH ile gidip daha fazla stETH satın alıp, yine protokole teminat olarak koyuyorlar. Sonra bir daha.. Bu borç/teminat sarmalı ile pozisyonlarını iyice büyütüyorlar. Böylece, kaldıraçlı ETH staking işlemi yaparak, riskli ama bir taşla birkaç kuş vurmayı sağlayan bir strateji ortaya çıkıyor. 
 
-| ![lsd-pazar-paylari](/assets/LSD-token-dagilimi.png)|
+| ![LSD merkeziyetsiz tokenlerin dağılım pasta grafiği; Lido yüzde 88,5 ile pazarın neredeyse tamamını alıyor](/assets/LSD-token-dagilimi.png)|
 |:--:| 
 | *Kaynak: [Dune Analytics](https://dune.com/hildobby/eth2-staking)*|
 
@@ -74,7 +74,7 @@ Lido pazarın büyük hakimi olsa da, rakiplerin de eli armut toplamıyor. Her b
 
 Merkezi borsalar (ingilizcesi Centralized Exchange ya da kısaca 'CEX') biraz geç de olsa staking hizmetine girdiler ve hızla büyümeye çalışıyorlar. CEX'lerin staking hizmetleri içindeki pazar payı dağılımı ise şu şekilde:
 
-| ![cex-staking-pazar-paylari](/assets/CEX-staking-pazar-paylari.png)|
+| ![CEX staking pazar payları pasta grafiği; Coinbase yüzde 52,5, Binance yüzde 22,7 ile önde](/assets/CEX-staking-pazar-paylari.png)|
 |:--:| 
 | *Kaynak: [Dune Analytics](https://dune.com/hildobby/eth2-staking)*|
 

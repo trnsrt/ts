@@ -56,7 +56,7 @@ Ancak bu sisteme geçiş hemen başlamayacak. Bir süre boyunca hem eski sistem 
 
 Bir süre sonra ise ETH 1.0, ETH 2.0'a katılacak ancak bunun ne zaman olacağı belli değil. Geliştirmenin nasıl ilerleyeceği, ne gibi sorunlar çıkacağı ve nasıl çözüleceği bu zamanlamayı belirleyecek. Ekip şu anda, ne yapacağı konusunu az çok kesinleştirmiş durumda ancak zaman planı henüz verilmiyor ve 2021 yılı içinde olması zor görünüyor. 
 
-| ![eth_issuance_graph](/assets/eth_issuance_graph_v1_800.jpg)|
+| ![Ethereum'un 2016-2022 para arzı (mavi) ve yıllık arz oranı (turuncu) grafiği, tahmini tarihlerle](/assets/eth_issuance_graph_v1_800.jpg)|
 |:--:| 
 | *ETH'nin yıllar içindeki para arzı (mavi ve sol taraf) ve yeni arzın toplam paraya oranı % (turuncu ve sağ taraf). 1 Aralık 2020 ETH 2.0 başlangıcına göre revize edildi. Kaynak: [ethhub.io](https://web.archive.org/web/20201207052145/https://docs.ethhub.io/ethereum-basics/monetary-policy/#proof-of-stake-impact)*|
 
@@ -86,7 +86,7 @@ Eğer Vitalik'in bahsettiği değişiklikler olursa, ETH 2.0 geldiğinde, ödül
 
 ETH 1.0, en az bir yıl daha devam edecek. Bu süre içinde ETH 2.0'da parasını rehin etmiş olanlara ödül verilmeye devam edecek. EIP 1559 ise iyimser ihtimalle 2021 yılının sonlarına doğru işlerlik kazanabilir. Bir tahminde bulunursak, **2021 yılında hem ETH 1.0 ödülleri hem de ETH 2.0 ödüllerinin devamından dolayı yeni ETH arzında az da olsa bir artış öngörebiliriz. Sonrasında ise 2022 yılında hem ETH 2.0'nin hem de EIP 1559'un girmesi toplam tedavüldeki ETH'yi yavaş yavaş azaltmaya başlayacak**. Bu zamanlama ve miktar öngörülerinin tutması durumundaki tablo aşağıdaki gibi olacak: 
 
- ![eth_tahmini_arz](/assets/ETH_tahmini_arz_v4.png)
+ ![ETH'nin 2020-2024 tahmini yıllık arzı: 2022'den itibaren yakım nedeniyle net arz negatife düşüyor](/assets/ETH_tahmini_arz_v4.png)
  
  &nbsp;
 

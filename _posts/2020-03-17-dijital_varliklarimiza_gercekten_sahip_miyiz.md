@@ -18,7 +18,7 @@ Bundan sonraki birkaç yazıda, dijital dünyada bankaların yerine geçmeye ça
 
 Kripto paraların en önemli özelliği yaşadığımız dijital dünya içinde kullanıcılara sahip oldukları varlıklar üzerinde tam bir bağımsızlık vermek. Ne demek tam olarak bu? Biraz açalım: 
 
-| ![holding-1149521_1280.jpg](/assets/holding-1149521_1280.jpg) | 
+| ![Karlı dağ önünde elinde kuş tutan bir el; dijital varlıkları elinde tutma hissinin temsili](/assets/holding-1149521_1280.jpg) | 
 |:--:| 
 | *Dijital dünyada varlık tutmak her an elinden kayacakmış hissi uyandırmıyor mu?*  *[Kaynak](https://pixabay.com/photos/holding-bird-winter-landscape-1149521/)*|
 
@@ -49,7 +49,7 @@ Ya o paranın başkasına transferi? İstediğim zaman, istediğim kişiye düny
 Peki kripto paralar gelince kullanıcılar tam bağımsızlık elde ettiler mi? Bunu söyleyebilmek için henüz çok erken. Daha gidilecek çok yol var. Nerelerde sorun var?
 
 
-| ![skatebirding-1704466_1280.jpg](/assets/skatebirding-1704466_1280.jpg) | 
+| ![Gökyüzünde bir kuşun sırtında süzülen kişi; kripto ile özgürlük hissini anlatan kapak görseli](/assets/skatebirding-1704466_1280.jpg) | 
 |:--:| 
 | *Kripto paralar ile özgürlük tam da yukarıdaki gibi bir his yaratıyor. Her an düşecekmişsiniz gibi...*  *[Kaynak](https://pixabay.com/photos/skatebirding-freedom-eagle-fly-e-1704466/)* |
 

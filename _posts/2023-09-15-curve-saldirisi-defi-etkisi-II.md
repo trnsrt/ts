@@ -39,7 +39,7 @@ Saldırının ortaya çıkması sonrası, pek çok farklı saldırgan da aynı y
 
 İşte bu sırada iyi niyetli ve kötü niyetli hackerlar arasında ilginç bir savaş da yaşandı. Ethereum üzerinde yapmak istediğiniz işlemler bir havuzda toplanıyor ve bu işlemler blok yapıcılar tarafından sıraya konup işleniyor. Sıraya konmada en büyük kriter blok yapıcıya verilecek işlem ücreti. Saldırganların işlemi havuzda toplanıp gerçekleştirilmek üzere sıra beklerken, başka saldırgan ya da beyaz şapkalı hackerlar bu işlemi aynen kopyalayıp daha yüksek işlem ücreti ödeyerek ilk işlemin önüne geçebiliyor[^3]. Nitekim bu savaşlardan dolayı MEV’de (basitçe işlem sıralama için ödenen komisyon miktarı) Ethereum tarihinin en yüksek ikinci günü yaşandı. İşlemlerini öne geçirmek isteyenler 30 Temmuz 2023 günü tam 6 bin ETH harcadılar. 
 
-| ![mev-vs-gas](/assets/mev-gaz-ucreti_800.png)|
+| ![Temmuz-Ağustos 2023'te günlük gaz ve MEV ödemeleri (ETH) grafiği, 30 Temmuz'daki MEV zirvesi](/assets/mev-gaz-ucreti_800.png)|
 |:--:| 
 | *Ethereum üzerinde sisteme ve madencilere ödenen günlük ücretlerde 30 Temmuz günü tarihin en yüksek rakamlarından biri görüldü.. Kaynak: [MevBoost Dashboard](https://mevboost.pics/)*|
 

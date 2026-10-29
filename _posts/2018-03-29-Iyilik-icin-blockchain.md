@@ -20,7 +20,7 @@ Bu yazımızda, finansın soğuk ve rakam dolu dünyasından biraz uzaklaşarak,
 --
 &nbsp;
 
-| ![wfp-syria.jpg](/assets/wfp-syria.jpg) | 
+| ![Suriye'de bir kadının kupon kullanmak için market kasasında göz taramasından geçtiği fotoğraf](/assets/wfp-syria.jpg) | 
 |:--:| 
 | *Suriye'de bir kadın verilen kuponunu kullanmak için [göz taramasından](https://www.wfp.org/news/news-release/wfp-introduces-innovative-iris-scan-technology-provide-food-assistance-syrian-refu?_ga=2.69982032.171380775.1522352727-1632756231.1522352727) geçerken* |
 
@@ -41,7 +41,7 @@ Benzer şekilde dünyada gelişmekte olan ülkelere yapılan yardımların [%30'
 --
 &nbsp;
 
-| ![wfp-syria.jpg](/assets/undp-alt-labs-serbia.jpg?raw=true) | 
+| ![Sırbistan üzerinden para yardımı şemasını gösteren dünya haritası; dolar, euro, yen ve sterlin transfer rotaları](/assets/undp-alt-labs-serbia.jpg?raw=true) | 
 |:--:| 
 | *Sırbıstan üzerinden para yardımı [şeması](https://web.archive.org/web/20180426192804/http://altfinlab.org/blog/serbia-sending-remittances-from-serbian-diaspora-to-the-city-of-nis-beneficiaries)* |
 
@@ -53,7 +53,7 @@ Benzer şekilde Birleşmiş Milletler Kalkınma Programı (UNDP) ülkelerinden u
 --
 &nbsp;
 
-| ![wfp-syria.jpg](/assets/bitgive-homepage.png?raw=true) | 
+| ![BitGive GiveTrack sitesinin ana sayfası; Bitcoin ile bağış toplayan ve proje ilerlemesini gösteren kampanyalar](/assets/bitgive-homepage.png?raw=true) | 
 |:--:| 
 | *BitGive GiveTrack [sistemi](https://www.bitgivefoundation.org/)* |
 

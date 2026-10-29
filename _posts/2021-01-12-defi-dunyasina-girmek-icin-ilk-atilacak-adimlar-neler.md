@@ -20,7 +20,7 @@ Bu ve bundan sonraki yazılarımızda, gün geçtikçe önemi artacak olan DeFi 
 
 DeFi'nin, aslına bakarsanız tüm kripto dünyasının, klasik finansa göre en kritik avantajı, **gücü kullanıcıya vermesi**. 
 
-| ![holding_lightning](/assets/man-1069219_640.jpg)|
+| ![Bahçede kollarını açmış bir kişinin üzerinde çakan şimşekler; DeFi'nin kullanıcıya güç vermesini simgeliyor](/assets/man-1069219_640.jpg)|
 |:--:| 
 | *Image by [Rudy and Peter Skitterians](https://pixabay.com/users/skitterphoto-324082/) from [Pixabay](https://pixabay.com/)*|
 
@@ -49,7 +49,7 @@ Kullanıcı, kripto paraya sahip olabilmek için de bir kripto para borsasına �
 
 Bu ilk aşamayı geçip, bir süre alım satım yapan bireyler, yavaş yavaş kripto dünyasının kendilerine verdiği gücü keşfetmeye başlıyorlar. Bahsettiğim güçlerden ilki, borsada tuttukları kripto parayı kendilerine ait elektronik cüzdanlara çekebilme olacağı. Ki aslında bu, DeFi dünyasına geçebilmek için ilk yapılması gereken hamle aynı zamanda. Bu ilk adım önemli, o nedenle gelin biraz daha açalım burayı: 
 
-| ![e-wallet](/assets/e-wallet-3958918_640.jpg)|
+| ![Telefon ekranından dünya haritasının üzerine uçan yeşil banknotu gösteren illüstrasyon; dijital cüzdan temasına giriş](/assets/e-wallet-3958918_640.jpg)|
 |:--:| 
 | *Image by [mohamed Hassan](https://pixabay.com/users/mohamed_hassan-5229782/) from [Pixabay](https://pixabay.com/)*|
 

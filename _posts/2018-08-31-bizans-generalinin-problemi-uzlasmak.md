@@ -13,7 +13,7 @@ Blockchain bazlı şifreli sistemlerin birbirine bağlı ancak birbirinden bağ�
 
 &nbsp;
 
-| ![shaking-hands.gif](/assets/shaking-hands.gif) | 
+| ![Siyah beyaz çizgi film tarzında tekrar eden el sıkışmalar; yazıdaki toplu uzlaşma konusunu simgeliyor](/assets/shaking-hands.gif) | 
 |:--:| 
 | *Toplu uzlaşma böyle mi oluyor? Kaynak: [giphy](https://giphy.com/gifs/animation-loop-cartoon-26xBD5MpmluSyPggo)* | 
 
@@ -38,7 +38,7 @@ Sonrasında da 1982 yılında [Bizans Generalleri Problemi](https://www.microsof
 
 &nbsp;
 
-![bizans-generalleri.jpg](/assets/bizans-generalleri.jpg)
+![Dağ kayalığında atlı bir komutan ve işaret eden bir asker siluetleri; Bizans ordusu hikayesinin girişi](/assets/bizans-generalleri.jpg)
 
 &nbsp;
 
@@ -60,7 +60,7 @@ Sistem aşağıdaki kurallara bağlı olarak çalışıyor:
 
 &nbsp;
 
-| ![bizans-general-problem-1-v3.png](/assets/bizans-general-problem-1-v3.png) | 
+| ![Komutan ve üç generalin yer aldığı şema: hain General 3 çekil mesajı gönderir, General 2 yine de hücum eder](/assets/bizans-general-problem-1-v3.png) | 
 |:--:| 
 | *İkinci General gözünden gelen mesajlar: Ne yapmalı bu general?* | 
 
@@ -72,7 +72,7 @@ Peki ya kumandan hainse? Ve generallere farklı mesajlar yolluyor ise? Bu durumd
 
 &nbsp;
 
-| ![bizans-general-problem-2-v2.png](/assets/bizans-general-problem-2-v2.png) | 
+| ![Hain komutanın generallere farklı emirler verdiği ve generallerin birbirine mesaj ilettiği Bizans problemi şeması](/assets/bizans-general-problem-2-v2.png) | 
 |:--:| 
 | *Komutan hain ise, generaller ne yaparlar?* | 
 

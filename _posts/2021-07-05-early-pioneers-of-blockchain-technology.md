@@ -12,7 +12,7 @@ Although the 'Satoshi Nakamoto' is associated with Bitcoin and related blockchai
 
 Our last post was about the three fundamental ingredients of blockchain technology. 👇
 
-![three-pillars](/assets/three-pillar-of-blockchain-technology_800.png)
+![Screenshot of the earlier blog post 'Three pillars of Blockchain', dated Jun 15, 2021, linked in this post](/assets/three-pillar-of-blockchain-technology_800.png)
 
 
 We have discussed that the key concept Satoshi brought to the table was the consensus mechanism (known as Nakamoto consensus). This innovation enables machines to work independently, yet move forward without getting orders from a central authority.

@@ -23,7 +23,7 @@ Ya KriptoBorsa'daki hesaplarınız? Onlar için böyle bir garanti yok. Bu borsa
 Efendim, biliyorsunuz KriptoParalar'ın en önemli özelliklerinden biri kişileri kurumlara bağımlılıktan kurtarıyor olması.  Bu nedenle çok rahat bir şekilde satın aldığınız parayı kendinizde tutmanız mümkün. İyi ama sanal değil miydi bu paralar? Fiziksel olarak ortada değillerdi. Nasıl olacak da kendimde tutacağım? Cevabı KriptoCüzdan. 
 
 
-| ![money-getting-more-digital-640.jpg](/assets/money-getting-more-digital-640.jpg) | 
+| ![Cüzdandan dökülen Bitcoin ve Ethereum madeni paraları, gümüş renkli bir coin ve dolar banknotları](/assets/money-getting-more-digital-640.jpg) | 
 |:--:| 
 | *Bitcoin'i böyle taşıyamazsınız [Kaynak](https://photos.icons8.com/money-getting-more-digital-5a7c09b78b6588000181ceb9)* | 
 
@@ -36,7 +36,7 @@ Bu sistemde, kullanıcı kişilerin adı belli değil, bilinmiyorlar, sadece ken
 
 Bu adreslere girebilmek için ise kendimize ait Özel ve Genel Anahtarlar kullanıyoruz. Bir nevi e-posta adresine girmek için kullandığımız kullanıcı adı ve şifre gibi düşünün. Kullanıcı adını Genel Anahtar'a, şifreyi ise Özel Anahtar'a benzetmek çok da yanlış olmaz. Kullanıcı adını yani Genel Anahtarınızı herkese verebilirsiniz (ki size e-posta, ya da burada KriptoPara göndersinler), ama şifrenizi yani Özel Anahtarı kimseye söylememelisiniz (ki hesabınıza girip mesajlarınızı okumasınlar ya da buradaki örnekte KriptoParanızı yürütmesinler). İşte KriptoCüzdan dediğimiz bu Özel ve Genel Anahtarları depolayan yer. 
 
-![wallet-key-3525149_640.jpg](/assets/wallet-key-3525149_640.jpg))
+![Ahşap masada anahtar, telefon, cüzdan, kravat ve çanta; fiziksel cüzdan ile kripto cüzdan benzetmesi](/assets/wallet-key-3525149_640.jpg))
 
 
 KriptoCüzdanın pek çok çeşidi var ve bir sonraki bölümde onlardan bahsedeceğiz. Ama nasıl çalıştığına gelince aslında basit. Kullanacağınız KriptoParayı taşıyabilecek bir KriptoCüzdan yaratmak demek, size ait bir Genel Anahtar ile bu KriptoParanın bulunduğu Blockchain sistemine kayıt yaptırmak demek. Sonrasında Genel Anahtarı kullanarak buraya arkadaşınız tarafından para gönderilmesini sağlayabilir, sistem içinde ne kadar paranız olduğuna bakabilir, ya da KripoPara borsasından almış olduğunuz KriptoParaları sadece kendinize ait olan bu KriptoCüzdan'a çekebilirsiniz. 

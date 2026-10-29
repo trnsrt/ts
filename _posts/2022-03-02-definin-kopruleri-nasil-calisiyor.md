@@ -16,7 +16,7 @@ En basit haliyle bir köprünün temel işlevi, kullanıcının sahip olduğu di
 
 Şimdiye kadar hep değer transferi üzerinden örneklendirdiğimiz bu özellik aslına bakarsanız özünde, bilginin (verinin) bir ağda teyit edilip diğer ağa gönderilmesi demek. Bu nedenle sadece dijital varlık (değer) değil, herhangi bir bilginin transferi için de kullanılabiliyor köprüler (eski bir yazımızda bahsettiğimiz blokzincire ağ dışında bilgi taşımaya yarayan oracle dediğimiz taşıyıcılar da aslına bakarsanız bir çeşit köprü sayılabilir). 
 
-| ![river_bridge](/assets/river-6175173_800.jpg)|
+| ![Nehir üzerindeki köprüler ve gökdelenlerle dolu bir şehir manzarası, blokzincirler arası köprü benzetmesi](/assets/river-6175173_800.jpg)|
 |:--:| 
 | *Image by [Tobias Brunner](https://pixabay.com/users/tobiasbrunner-13708887) from [Pixabay](https://pixabay.com/)*|
 

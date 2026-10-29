@@ -21,7 +21,7 @@ Aslında türev piyasalarının asıl çıkış amacı getirinin ikiz kardeşi o
 
 DeFi zaten yeterince karışık bir de türev piyasalar mı çıktı başımıza? Evet, öyle. Zira türev piyasaları DeFi hareketinin en hızlı büyüyen aktörlerinden. Böyle olması da normal zira klasik anlamda piyasalara baktığınızda aslında en hızlı büyüyen ve en büyük hâle gelen pazarın türevler olduğunu görüyorsunuz. Aşağıdaki grafik küçük (ve bir parça bayat) olabilir ama büyüklükleri göstermesi açısından oldukça etkileyici. 
 
-| ![Global_volumes](/assets/assets_global.jpg)|
+| ![Dünya ekonomisi büyüklüklerini daireyle gösteren grafik: türev piyasası 532 trilyon dolarla en büyük](/assets/assets_global.jpg)|
 |:--:| 
 | *Tüm dünyadaki ekonomik büyüklükler (Ocak 2019). En sağda en büyük pazar olarak türev piyasaları var. Onu sırasıyla gayrimenkul, kredi, fiziki/dijital para, hisse senedi ve altın izliyor.  En soldaki ufak noktayı okuyamadıysanız dertlenmeyin: "Bitcoin" kendisi :) [Kaynak](https://howmuch.net/articles/visualizing-the-biggest-economic-bubbles)*|
 

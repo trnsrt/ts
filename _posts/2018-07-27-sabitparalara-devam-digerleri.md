@@ -21,7 +21,7 @@ Efendim, Tether'i açıklarken pek çok sıkıntıları olduğundan bahsetmişti
 
 Biliyorsunuz teknolojik dünyada çare tükenmez - nerede bir sıkıntı var, onlarca çözüm türer. SabitParanın teminatını merkezi olarak tutma sıkıntı ise o zaman o teminatı da merkezi olmayan dağıtık bir hale getirelim. Nasıl? Teminatı da ABD doları yerine  bir başka KriptoPara yaparak tabii!. Böyle ciddi sayıda bir para çıkmış, BitShares ([BitUSD](https://coinmarketcap.com/currencies/bitusd/)), NuBits ([USNBT](https://coinmarketcap.com/currencies/nubits/)), Steem Dollars ([SBD](https://coinmarketcap.com/currencies/steem-dollars/)), Maker DAO ([Dai](https://coinmarketcap.com/currencies/dai/)) gibi (Sırada olanlar da var Alchemint ve BitBay vb.)
 
-![Four-stablecoins-600.png](/assets/Four-stablecoins-600.png) 	
+![bitUSD, Steem, NuBits ve Maker logoları: kripto teminatlı SabitPara projeleri](/assets/Four-stablecoins-600.png) 	
 
 Artıları neler böyle bir SabitPara'nın? Aslında yukarıda bahsettiğimiz Tether'in merkezi olmasında dolayı duyulan tüm sıkıntıları önlüyor. Bir kere teminat KriptoPara olarak şeffaf bir şekilde tutulacak. Öyle bir bankada yeterli para var mıymış, yok muymuş endişelenmeye gerek yok. Bir adres belirler ve dünyaya ilan edersiniz. teminat olacak KriptoPara'yı bu adrese gönderirsiniz, isteyen istediği zaman gidip bakabilir, para gerçekten o adreste mi diye. Sonra vay efendim ABD hükümeti gelir de el koyarmış gibi bir dert de yok - neye el koyacaksınız? Sonra işin doğasına uygun - hızlı çabuk olarak büyüyebilir gerekirse, sorun da çıkmaz. 
 
@@ -35,7 +35,7 @@ Yukarıda bahsettiğimiz Tether ve diğer SabitParalar biliyorsunuz kendilerini 
 
 Nasıl yapmışlar bunu? Kısacası, hatırlarsanız bir yazımızda [Akıllı Kontratlardan](/genel/2018/06/29/bu-kontratlar-cok-akilli-ethereum-ve-akilli-kontratlar.html) bahsetmiştik. İşte bu sistemi kuranlar - sanal bir Merkez Bankası yaratıp, bu bankanın işleyişini bir Akıllı Kontrat'a bağlamışlar. Ne zaman SabitPara'ya talep artıyor, bolca SabitPara yaratarak paranın değerini 1 ABD Doları seviyesine getiriyorlar. Ne zaman paraya talep düşüyor, mevcut SabitParalar'dan bir kısmını yok ederek (yani parayı azaltarak) değerini artırıyorlar. Bu SabitParalar için öne çıkanlar [Basis](https://basis.io/) ve Saga([SAGA](https://coinmarketcap.com/currencies/sagacoin/)) 
 
-![basis-saga-600.png](/assets/basis-saga-600.png)
+![Basis ve Saga logoları: algoritmik, teminatsız SabitPara projeleri](/assets/basis-saga-600.png)
 
 Son bahsettiğimiz Teminatsız SabitPara kavramı henüz çok daha yeni. Bu konsepte inananlar (ki Kripto dünyasının ağır topları var burada) önceki SabitParalara göre çok daha büyük potansiyeli olduğunu düşünüyorlar bu SabitParalar'ın. Ancak üzerinde düşünülmesi, açıklarının bulunması, gerçekten çalışıp çalışmadığının görülmesi gerek, bunun için de zamana ihtiyaç var. 
 

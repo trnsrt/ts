@@ -52,7 +52,7 @@ Yukarıdaki temel sorun nedeniyle genelde DeFi piyasası ürünleri, ama özelde
 
 Uniswap, kendi merkeziyetsiz kripto borsasında yeterince likidite sağlayamayınca, önce yatırımcılarının koyduğu para ile havuzlar kurdu. Havuzlar, likidite sorununa bir parça çözüm oldular ancak büyüklüğü bir türlü istenen seviyelere ulaşmadı. Tam o sıralarda [Compound](https://compound.finance/)'un başlattığı likidite sağlama karşılığı token verme hareketi, likidite sorununu çözme konusunda DeFi platformlara önemli bir eşik atlattı. Benzer modeli Uniswap da uyguladı ve bir yılı aşkın süredir yerlerde sürünen likidite bakın nasıl bir şekil aldı: 
 
- | ![uniswap_tvl](/assets/uniswap_tvl_v5.png)|
+ | ![Uniswap'in kilitli toplam değerinin (TVL) 2020-2021 grafiği; Eylül'de sert artış, Kasım'da düşüş](/assets/uniswap_tvl_v5.png)|
 |:--:| 
 | *Uniswap için kilitlenen para miktarı. Kaynak:[DeFiPulse](https://defipulse.com/)*|
 
@@ -60,13 +60,13 @@ Token yani teşvik verme, başlangıçta "ama bu hormon enjekte etmek ile aynı!
 
 Opsiyon piyasasının bir başka oyuncusu olan [Opyn](https://opyn.co/#/), yukarıda bahsettiğimiz eşten eşe opsiyonlar ile oyuna başlamışken, Hegic, kendi opsiyon platformunu Uniswap gibi bir havuz şeklinde kurdu. Sonrasında da, 2020 Eylül ayı içinde kendi platformuna likidite sağlayanlara yönelik HEGIC tokenı çıkardı. Bu sayede, Hegic üzerine kilitlenen para miktarı ciddi bir artış kazandı:
 
- | ![hegic_vs_opyn_TVL](/assets/hegic_vs_opyn_tvl_v3.png)|
+ | ![HEGIC ve OPYN havuzlarına kilitlenen miktar grafiği: HEGIC belirgin önde, OPYN çok düşük seviyede](/assets/hegic_vs_opyn_tvl_v3.png)|
 |:--:| 
 | *Hegic ve Opyn'da kilitlenen toplam miktarı. Kaynak:[DeFiPulse](https://defipulse.com/)*|
 
 Hemen dikkatinizi çekmek isterim: Opyn yukarıdaki grafikte yerlerde sürünen kırmızı çizgi, yani eşten eşe sistemi gerçekten çalışmıyor. Yalnızca kilitli miktar değil ilgi çekici olan: Bu parayı havuzlara kilitleyenlerin aldıkları komisyon gelirleri de üç ay gibi kısa bir sürede ciddi bir rakama ulaştı: 
 
- | ![hegic_revenues](/assets/hegic_revenues.PNG)|
+ | ![HEGIC protokolünün 2020 son çeyrek gelirleri: stakerlara 2,7 milyon dolar, geliştirici fonuna 559 bin dolar](/assets/hegic_revenues.PNG)|
 |:--:| 
 | *Hegic 2020 yılı üç aylık gelirler. Kaynak:[Messari](https://messari.io/)*|
 

@@ -40,13 +40,13 @@ Madalyonun öbür tarafında ise akla şu soru gelebilir: "İyi de yatırımcı 
 
 İki temel etkiden bahsedebiliriz. Öncelikle 'normal' piyasa dönemlerinde bu likidite eksikliğinden dolayı LSD'lerin fiyatının kilitli olduğu ETH'ye göre daha düşük kaldığını gördük. 
 
-| ![seth-eth-peg](/assets/seth-eth-price-dune-lido-analytical.jpg)|
+| ![stETH/ETH fiyat grafiği; oran çoğu dönemde 1 civarında, Temmuz 2022'de yaklaşık 0,94'e düştü](/assets/seth-eth-price-dune-lido-analytical.jpg)|
 |:--:| 
 | *Kaynak: [Dune Analytics](https://dune.com/LidoAnalytical/Curve-ETHstETH)*|
 
 Bu sorunun yarattığı ikinci durum ise, yatırımcıların bu alanı kullanırken likiditenin en bol olduğu LSD araçlarına yönelmesi oldu. Bu da piyasanın en büyüğü olan Lido'nun çıkardığı stETH'nin pazarın büyük bir bölümünü ele geçirmesine neden oldu. 
 
-| ![lsd-pazar-paylari](/assets/Ethereum-Staking-Pazar-Paylari.png)|
+| ![Ethereum staking pazar payları pasta grafiği; Lido yüzde 31 ile lider, Coinbase yüzde 12,7 ile ikinci](/assets/Ethereum-Staking-Pazar-Paylari.png)|
 |:--:| 
 | *Kaynak: [Dune Analytics](https://dune.com/hildobby/eth2-staking)*|
 

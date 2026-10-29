@@ -19,7 +19,7 @@ Geçtiğimiz yazımızda, DeFi'nin, büyüme sancılarının ilki olan likidite 
 #### Para, para, para...
 DeFi protokolleri ilk olarak kullanıcılara hizmet vermeye başladıklarında ciddi bir problem ile karşılaştılar: Likidite. Ne kadar çok kullanıcı bir protokolü kullanırsa orada ağ etkisi nedeniyle likidite oluyor, likidite oldukça da yeni kullanıcı geliyordu ancak makineye çalıştıracak başlangıç likiditesini bulmak kolay olmuyordu. Neden? Başta kullanıcı henüz gelmemişken sistem kullanılmadığı için konan likidite herhangi bir gelir (burada işlem yapılması sonrası alınan komisyon) kazanmıyordu.
 
-| ![brain_money](/assets/head-6848580_800.png)|
+| ![Bir kafa silüetine altın madeni paralar atan el; likidite madenciliği konusunu anlatan stok illüstrasyon](/assets/head-6848580_800.png)|
 |:--:| 
 | *Image by [mohamed Hassan](https://pixabay.com/users/mohamed_hassan-5229782/) from [Pixabay](https://pixabay.com/)*|
 
@@ -68,7 +68,7 @@ Olympus, bir nevi bono ihraç ediyor yani piyasadan borç satın alıyor. Bunun 
 ### Başarılı mı?
 Başarının pek çok tanımı var. Olympus şu aşamada kendi hedeflerine ulaşmış görünüyor. Örneğin, OHM tokenlerin işlem gördüğü en büyük havuz olan Suhsiswap'ta bulunan [OHM-DAI likidite havuzunun](https://web.archive.org/web/20211215020909/https://analytics.sushi.com/tokens/0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5) %99.99 [sahibi şu anda Olympus hazinesi](https://app.olympusdao.finance/#/dashboard). Olympus'un elinde bu havuz tokenlerini de içeren yaklaşık 700 milyon ABD Doları değerinde token mevcut. 
 
-|![Olympus_DAO_Hazinesi](/assets/OlympusDAO_Hazinesi_800.png)|
+|![OlympusDAO hazinesindeki tokenlerin 2021 Nisan-Aralık arası değişimi; DAI ağırlıklı, Kasım'da zirve](/assets/OlympusDAO_Hazinesi_800.png)|
 |:--:| 
 | *Olympus hazinesinin sahip olduğu tokenler ve miktarları -  Kaynak: [Dune Analytics](https://dune.xyz/shadow/Olympus-(OHM))*|
 

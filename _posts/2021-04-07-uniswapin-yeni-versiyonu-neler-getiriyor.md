@@ -28,7 +28,7 @@ Yeni versiyon ile birlikte Uniswap bir önceki yazıda bahsettiğimiz 'likiditen
 
 Tabii bu hibrit karışımın bir sıkıntısı var. O da eskiden havuza konan her tür para eşit olduğu için, konulan para karşılığı alınan havuz katılım tokenları (bir nevi hesap sertifikası gibi düşünebilirsiniz) da birbirine eşit paralar olarak görülürdü ve bu tokenlar başka platformlarda teminat olarak kullanılabilirlerdi. Bu sayede likidite sahipleri ekstra gelir elde edebilirlerdi. Şimdi artık, farklı fiyat aralıklarında likidite sağlanabileceği için aynı havuz için verilen sertifikalar birbirinin aynı olmayacak. Yani havuz tokenları birbirine benzer 'fungible token' yerine, tekil 'non-fungible token' yani NFT olacaklar. 
 
-| ![hayden_adams_tablo](/assets/hayden_adams_tablo_800.jpg)|
+| ![Uniswap'ı kurucusunun gözünden anlatan pembe tonlu bir tablo: piramit, ay ve tek boynuzlu at](/assets/hayden_adams_tablo_800.jpg)|
 |:--:| 
 | *Kurucusu Haydan Adams'ın gözünden Uniswap. [Kaynak](https://twitter.com/haydenzadams/status/1370232241528377348)*|
 

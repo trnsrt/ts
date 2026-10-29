@@ -17,7 +17,7 @@ Bu yazımızda ise gelin Yearn protokolünün tokeni YFI ile birlikte platformun
 ### Ve YFI
 Daha önce de birkaç kez yazdığımız gibi, merkeziyetsizlik uzun ince bir yol. Bu alanda kurulmuş pek çok girişim gibi Yearn protokolü de merkezilikten merkeziyetsizliğe benzer bir yol izledi. Başlangıçta yazılımcı [Andre Cronje](https://twitter.com/AndreCronjeTech)'den oluşan "tek kişilik bir ordu" tarafından kurulan Yearn zamanla daha geniş bir topluluk haline geldi. 
 
-| ![yearn_complex](/assets/alps-209710_800.jpg)|
+| ![Karlı dağlar ve buzul manzarası; Yearn protokolünün karmaşık yapısı için kullanılan doğa görseli](/assets/alps-209710_800.jpg)|
 |:--:| 
 | *Image by [Sarah Labbat](https://pixabay.com/users/xoco-89138/) from [Pixabay](https://pixabay.com/)*|
 
@@ -29,7 +29,7 @@ Yearn ekibi de, kendi merkeziyetsizleştirme sürecinde benzer bir süreç yaşa
 
 Her ne kadar çıktığı sırada, Andre bangır bangır ["YFI'nin değeri yok, değeri 0" diye bağırsa da](https://medium.com/iearn/yfi-df84573db81), YFI token iki ay içinde 43.000 ABD Doları seviyesine kadar yükseldi. Sonrasında DeFi'nin ayı piyasasına girmesiyle fiyatı 8,600 ABD Doları seviyelerine kadar inse de, YFI token Kasım 2020 içinde 10.000-20.000 ABD Doları gibi geniş bir bant aralığında işlem görüyor. Bu da tüm Yearn sistemine 300-600 milyon ABD Doları arası bir değer biçilmesi anlamına geliyor. 
 
-| ![Pulse_grafik](/assets/yearn_price_chart_800.jpg)|
+| ![YFI tokeninin Temmuz-Kasım 2020 fiyat grafiği; Eylül'de zirve yapıp sert bir düşüş gösteriyor](/assets/yearn_price_chart_800.jpg)|
 |:--:| 
 | *Yearn tokeni YIF değeri. Kaynak: [CoinGecko](https://www.coingecko.com/en/coins/yearn-finance)*|
 
@@ -50,7 +50,7 @@ YFI token sahiplerinin oylamaları sonucu çıkan kararları 9 kişinin sahip ol
 
 Üstelik bir değil birden fazla platform riski var. Örneğin, [Delegated yVault](https://yearn.finance/vaults) ürününde, i) kullanıcı elinde tuttuğu kripto para (örneğin [Link](https://www.coingecko.com/en/coins/chainlink)), ii) o paranın emanet verildiği platform (örneğin [Aave](https://web.archive.org/web/20201108135740/https://app.aave.com/home)), iii) karşılığında borç alınan para (mesela [USDC](https://www.coingecko.com/en/coins/usd-coin)), iv) bu paranın değerlendirildiği platform (örneğin [Curve](https://www.curve.fi/)) ve son olarak da tüm bu sistemi yöneten Yearn akıllı kontratının riskini almak zorunda. Üzerine bir de tüm sistemi yöneten Controller denen strateji yürütücünün manuel işlem yapma riskini. 
 
-| ![yearn_complex](/assets/mark-516277_800.jpg)|
+| ![Yarı saydam bir akış şemasına kalemle çizim yapan bir el; Yearn'ün karmaşık yapısının temsili](/assets/mark-516277_800.jpg)|
 |:--:| 
 | *Image by [Gerd Altmann](https://pixabay.com/users/geralt-9301/) from [Pixabay](https://pixabay.com/)*|
 
@@ -90,7 +90,7 @@ Bunun yanında, özellikle yVault gibi ürünlerde, kripto para teminat göstere
 
 Yukarıda bahsettiğimiz özellikler kullanıcıların ilgisini çekti. Ancak bu, tek başına Yearn üzerinde bir milyar ABD Doları para toplanmasına yeterli değil. Baksanıza bu yaz yaşadıklarına: 
 
-| ![Pulse_grafik](/assets/DeFi_pulse_yearn_800_v2.jpg)|
+| ![DeFi Pulse'a göre Yearn'e kilitlenen toplam değer grafiği; 2020 Ağustos-Eylül'de 1 milyar dolara yaklaşıyor](/assets/DeFi_pulse_yearn_800_v2.jpg)|
 |:--:| 
 | *2020 yılı içinde Yearn platformuna kilitlenen para miktarı. Kaynak: [DeFi Pulse](https://defipulse.com/yearn.finance)*|
 

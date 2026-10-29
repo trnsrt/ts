@@ -11,7 +11,7 @@ image: /assets/defi-giris-210624.png
 DeFi projelerini incelerken nelere dikkat etmeli konusunu araştırdığımız dizimizde, bu alana yatırım yapmayı düşünmeden önce, kripto dünyasındaki temel felsefik dönüşümü anlamanın önemine değiniyoruz. 
 
 Geçtiğimiz hafta başladığımız dizimizde, bir DeFi projesini anlamak için nelere bakmamız gerektiğini sırayla incelemeye başlamıştık. İlk bölümde projenin websitesinde nelere dikkat edilmesi gerektiğine değinmiştik: 👇
-![](/assets/defi-giris-210624.png)
+![Blog sitesinin ekran görüntüsü: 'DeFi ürünleri değerlendirmek' yazısının başlığı ve menüsü](/assets/defi-giris-210624.png)
 
 Bu bölümümüzde ise, projeyi kuran ekipten bahsedeceğiz. Ancak projelerin içinde yer alan ekipleri incelemeden önce kripto dünyasının temel oluşum felsefesine ve bu felsefe ile birlikte değişen girişimci yatırımcı ilişkisine kısaca bir değinmekte fayda var. Bu yazımızda bu felsefik değişime değinelim, böylece yola sağlam bir temelden çıkarak başlayalım:
 
@@ -47,7 +47,7 @@ Nedir bu değişiklik derseniz; kripto girişimlerin hemen hemen tamamının uza
 
 Geçmişin Silikon Vadisi teknoloji şirketlerinin iş modelleri ağırlıklı olarak fiziki dünya temelli idi. Bu girişimler, eski alışkanlıkların da etkisi ile fiziki olarak bir arada olmayı, müşteriler ile yüz yüze ilişkiyi önemsiyorlardı. Yatırımcıların da onları fiziki olarak görme isteği olunca, doğal olarak startup girişimlerin 'pervane' misali Silikon Vadisi'ne kaydıklarını görüyorduk. 
 
-| ![luna-moth](/assets/luna-moth-3619811_800.jpg)|
+| ![Pembe ve kırmızı çiçekler arasında duran yeşil ay güvesi, özgürlük temasına gönderme](/assets/luna-moth-3619811_800.jpg)|
 |:--:| 
 | *Image by [Naturelady](https://pixabay.com/users/naturelady-3551620/) from [Pixabay](https://pixabay.com/)*|
 

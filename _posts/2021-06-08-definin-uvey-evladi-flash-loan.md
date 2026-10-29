@@ -44,7 +44,7 @@ Peki ya kullanıcı işlemleri zamanında bitiremez ya da zarar ettiği için fl
 
 Hemen hatırlatalım bu işlemleri yapanlar öyle elleri çok hızlı hareket eden al-sat'çılar değil. Bu kişiler daha çok, bu işlemleri hızlı ve koordineli bir şekilde yapmayı sağlayacak akıllı kontratları yazan geliştiriciler. Hem finans hem de kodlama bilgisine sahip insanlar.
 
-| ![robot_human](/assets/brain-5814961_800.jpg)|
+| ![Robot eli ile insan eli arasında, ortadaki beyne uzanan elektrik kıvılcımları; insan ve makine işbirliğini anlatır](/assets/brain-5814961_800.jpg)|
 |:--:| 
 | *Image by [Gerd Altmann](https://pixabay.com/users/geralt-9301/) from [Pixabay](https://pixabay.com/)*|
 

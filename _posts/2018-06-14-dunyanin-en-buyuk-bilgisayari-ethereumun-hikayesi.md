@@ -19,7 +19,7 @@ Bitcoin'in ortaya çıkışından birkaç yıl sonra, 2011 yılında Rusya'dan K
 
 &nbsp;
 
-| ![vitalik-buterin.png](/assets/vitalik-buterin.jpg) | 
+| ![Vitalik Buterin'in siyah beyaz portresi, Ethereum'un kurucusu](/assets/vitalik-buterin.jpg) | 
 |:--:| 
 | *Vitalik Buterin* |
 

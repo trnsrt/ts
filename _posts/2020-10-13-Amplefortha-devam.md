@@ -15,7 +15,7 @@ Ampleforth ilginç bir proje. En ilginç yanı, bir yandan stabil bir para yarat
 
 Bunu yapabilmek için de ilginç bir yol deniyor: Bitcoin'in fiyatının dalgalı olmasının en büyük nedeninin arzının kısıtlı olması argümanından yola çıkarak dalgayı azaltabilmek için arzı oynak tutuyor. Talep olunca arzı artırıyor, azalınca benzer şekilde azaltıyor. Üstelik bunu, hayatımıza yeni giren teknolojilerden Akıllı Kontratlar sayesinde yatırımcıların cüzdanlarına direkt müdahale edip cüzdana direkt para koyarak ya da cüzdandan para alarak yapıyor. Hem ilginç, hem de korkutucu değil mi?
 
-| ![shop_and_earn](/assets/bag-5000786_640.png)|
+| ![Dolar işaretli para torbaları, madeni paralar ve binalar; alışveriş ve kazancı anlatan düz illüstrasyon](/assets/bag-5000786_640.png)|
 |:--:| 
 | *Kaynak: Image by [Megan Rexain](https://pixabay.com/users/megan_rexazin-6742250) from [Pixabay](https://pixabay.com/)*|
 
@@ -33,7 +33,7 @@ Teknolojik olarak yavaş evrilmesine verilen en kritik örneklerden biri kişide
 #### Bitcoin'in rakipleri onu zayıf karnından vurmaya çalışıyor.. 
 Bitcoin'in yaşadığı sorunları çözmek amacıyla sonrasında pek çok klonu çıktı. Sayı olarak [100'ün üzerinde](https://web.archive.org/web/20201027203434/https://atomicwallet.io/how-many-bitcoins-are-there). Aslında bunda şaşıracak bir durum da yok, zira açık kaynak bir uygulama olduğunuzda isteyen herkes oturup bir klonunu yaratabilir. Çok basit. (Asıl zor olan, sisteminize inanmış bir topluluk yaratabilmek. İşte en başarılı Bitcoin klonunun bile -ki en büyüğü [Bitcoin Cash](https://www.coingecko.com/en/coins/bitcoin-cash) olur- en sıkıntı yaşadığı konu da hep bu oldu.)
 
-| ![BTC_clones](/assets/bitcoin_clones_800.jpg)|
+| ![Yan yana dizilmiş beyaz oyuncak asker figürleri; Bitcoin klonlarının kalabalığını ve benzerliğini anlatır](/assets/bitcoin_clones_800.jpg)|
 |:--:| 
 | *Kaynak: Image by [Andrew Martin](https://pixabay.com/users/aitoff-388338/) from [Pixabay](https://pixabay.com/)*|
 
@@ -79,7 +79,7 @@ Fiyatın sonrasında geri geleceğine düşünenlerin argümanı şu: Öncelikle
 Fiyatın ve arzın birlikte düşmesi durumunda aslında tüm sistemin değeri dramatik olarak düşmüş olacak - dolayısı ile bu dışarıdan izleyenlerde ucuza alım fırsatı imkanı doğuracak. Öte yandan tokeni elinde tutan kişilerin fiyatın bu kadar düşmesi halinde ellerindeki ürünleri ucuzdan satma yerine beklemeyi tercih edeceği düşünülüyor -  [aynı geçmişte Bitcoin'de olduğu gibi](https://coincodex.com/article/2703/top-5-largest-bitcoin-crashes-in-history/). **Dolayısıyla sisteme güven çok kritik ve Ampleforth'un da bu güveni inşa edebilmesi için zamana ihtiyaç var.**
 
 
-| ![BTC_dusus](/assets/BTC_keskin_dususler_800.png)|
+| ![Bitcoin'in tarihindeki en sert düşüşleri listeleyen tablo; 2011'de yüzde 93,1, 2017-2018'de yüzde 81,8 kayıp](/assets/BTC_keskin_dususler_800.png)|
 |:--:| 
 | *BTC'nin tarihindeki yaptığı dipler. Kaynak: [coincodex](https://coincodex.com/article/2703/top-5-largest-bitcoin-crashes-in-history/)*|
 

@@ -27,7 +27,7 @@ Rapor, daha önce bu tip kurumlardan çıkmış benzerlerine göre bir hayli yum
 
 Raporun odak noktasının eskiden çok vurgu yapılan değeri kendinden menkul kriptoparalardan (yani BTC, ETH benzeri alanın eskilerinden) yavaş yavaş stabil paralara doğru kaydığını görüyoruz. Bu, ABD'nin son zamanlarda geliştirdiği söylemler ile paralel aslında. Özelikle ABD Dolarına çıpalanmış sabit para pazarının son bir yılda altı kat artarak 120 milyar ABD Dolarına ulaşmış olması belli ki IMF'yi de rahatsız etmişe benziyor. Bu rahatsızlıktan en büyük payı, 70 milyar ABD Doları bir emisyona sahip olan ancak arkasında sadece %34 oranında nakit ya da mevduat olan USDT, yani Tether alıyor. Zaten, geçtiğimiz hafta Salı günü Senato'da konuşan FED başkanı Powell da, 'kriptoparaları yasaklamayı düşünüyor musunuz?' sorusuna cevap olarak net bir 'hayır' [cevabı verirken](https://youtu.be/Q0JFsEBmPo8), regülasyonlar konusunda aynı SEC Başkanı Gary Gensler gibi stabil paralara vurgu yapmıştı. 
 
-| ![stabil_paralar](/assets/stabil-para-rezervler-2109.png)|
+| ![Tether, USD Coin, Binance USD ve DAI rezervlerinin bileşimini gösteren grafik; Tether'de nakit payı düşük](/assets/stabil-para-rezervler-2109.png)|
 |:--:| 
 | *Stabil para yaratıcıların sahip olduğu rezervler. Kaynak:[IMF](https://www.imf.org/en/Publications/GFSR/Issues/2021/10/12/global-financial-stability-report-october-2021)*|
 

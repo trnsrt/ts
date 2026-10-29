@@ -12,7 +12,7 @@ Blockchain'in hayatımızda neler değiştirebileceği ile değişik alanlarda u
 
 &nbsp;
 
-![coffe-mug_400.jpg](/assets/coffe-mug_400.jpg)
+![Köpüğüne 2018 yazılmış kahve fincanı ve kahve çekirdekleri; yazının gelecek tahmini temasına giriş görseli](/assets/coffe-mug_400.jpg)
 
 
 &nbsp;
@@ -54,7 +54,7 @@ Tahmin piyasasının içindeki en büyük oyuncu şu an itibari ile [Augur](http
 
 &nbsp;
 
-| ![augur-logo.png](/assets/augur-logo-600.png) | 
+| ![Augur logosu](/assets/augur-logo-600.png) | 
 |:--:| 
 | *[Augur](https://www.augur.net)* |
 
@@ -64,7 +64,7 @@ Bu alanda ikinci büyük [Gnosis](https://gnosis.pm/) de benzer şekilde Ethereu
 
 &nbsp;
 
-| ![gnosis_logo-400.png](/assets/gnosis_logo-400.png) | 
+| ![Gnosis logosu](/assets/gnosis_logo-400.png) | 
 |:--:| 
 | *[Gnosis](https://gnosis.pm/)* |
 
@@ -76,7 +76,7 @@ Bunun yanında Çin piyasasında ön plana çıkan ve Qtum Blockchain platformun
 
 &nbsp;
 
-| ![hivemind-bodhi-stox-logos.png](/assets/hivemind-bodhi-stox-logos-800.png) | 
+| ![Hivemind, Bodhi ve Stox logolarının yan yana gösterimi; tahmin piyasası projeleri](/assets/hivemind-bodhi-stox-logos-800.png) | 
 |:--:| 
 | *Hivemind, Bodhi ve Stox* |
 

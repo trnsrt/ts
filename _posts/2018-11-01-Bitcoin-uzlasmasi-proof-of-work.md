@@ -26,7 +26,7 @@ Bu üçüncü parçadan biraz daha açalım. Nedir ona bakalım, başka ne tip a
 ### Bitcoin'in meşhur ettiği Proof-of-Work
 
 
-![bitcoin-uzlasma.gif](/assets/bitcoin-uzlasma.gif)
+![Yürüyen merdivende aşağı inen üniformalı öğrencileri gösteren kısa animasyon, Proof-of-Work bölümünde](/assets/bitcoin-uzlasma.gif)
 
 
 Proof-of-Work (PoW) işte bu makinelerin nasıl çalışacağını (sisteme nasıl gireceğini ve sistemde iken neler yapması gerektiğini) belirleyen kuralların en önemlisi. Buradaki kritik nokta, makinelerin sistemin içindeyken birlikte nasıl uyumlu bir şekilde çalışacağı. İşte bunu izledikleri bir uzlaşma mekanizması sağlıyor. Nasıl bir mekanizma bu? Bu bahsettiğimiz parçaların, o an için oluşan Blockchain zincirlerinden en uzununa doğru evrilmesi ve o zincir üzerinde mutabakat sağlanması. Bunun otomatik olması ve bir aracıya ihtiyaç duyulmaması. 

@@ -22,7 +22,7 @@ Dolayısıyla, bir sanat eserinin değeri aslına bakarsanız kriptoparalara ver
 NFT dediğimiz kavram ise aslında yukarıda saydığımız değerler bütünü içindeki belli parçaların etkisini çok daha somut bir şekilde artırmaya yarıyor. 
 
 
-![nft_value_add](/assets/nft_value_add_800.png)
+![Klasik sanat eserinin içsel ve spekülatif değerini, NFT'nin eklediği değer katmanıyla karşılaştıran şema](/assets/nft_value_add_800.png)
 
 
 Nasıl? Gelin teker teker bu parçaları incelemeye başlayalım: 

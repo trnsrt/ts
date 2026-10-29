@@ -16,7 +16,7 @@ Duymayan kaldı mı NFT'leri gerçekten? "İyi de herkes konuşuyor ama ne demek
 
 Terim olarak NFT Non-Fungible-Token'ın kısaltması. Bu ne demek peki? Tekil (eşsiz) belirteç. Çok teşekkürler açıklama için ama biraz daha açsanız iyi olmaz mı? Gelin açalım o zaman. 
 
-| ![NFT_ethereum](/assets/nft-7020230_v3_800.jpg)|
+| ![Kenarlarında NFT yazan altın rengi üç madeni para, ortalarında Ethereum benzeri elmas logo](/assets/nft-7020230_v3_800.jpg)|
 |:--:| 
 | *Image by [Pete Linforth](https://pixabay.com/users/thedigitalartist-202249/) from [Pixabay](https://pixabay.com/)*|
 

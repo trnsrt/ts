@@ -19,7 +19,7 @@ Konumuza geri dönelim şimdi. Yönetim tokenlerini dağıtmak, likidite ve işl
 
 DeFi'nin klasik finansa göre en büyük avantajlarından biri, nihayetinde birer yazılım olmalarından ötürü, kurulma  ve operasyon maliyetlerinin çok düşük olması. Bu temel bir özellik. Nisan 2022 yılında IMF tarafından yayınlanan Global Stability Report bu avantajı açık bir şekilde ortaya koyuyor:  
 
-| ![imf_raporu](/assets/imf_global_stability_report_800.png)|
+| ![IMF raporundan: DeFi platformlarının finans kurumlarına kıyasla çok düşük maliyet ve marj grafiği](/assets/imf_global_stability_report_800.png)|
 |:--:| 
 | *Gelişmiş, gelişmekte olan ülkelerdeki finans kurumları ile DeFi platformlarının maliyet ve fiyat karşılaştırması. Kaynak: [IMF Global Study Report, April 2022, Sayfa 80](https://www.imf.org/en/Publications/GFSR/Issues/2022/04/19/global-financial-stability-report-april-2022)*|
 
@@ -59,7 +59,7 @@ Yukarıdaki sorunların çözümü ve DeFi'nin geniş kitlelerce adaptasyonunu s
 
 Kullanıcının maruz kaldığı riskler konusu ise daha çetrefilli. Protokollerin hacklenmesi, kurucu ekiplerin projeleri suistimal etmesi, piyasalardaki ani dalgalanmaların yarattığı likidasyonlar son kullanıcının gözünü korkutan konular. Bu alanda sunulan hedge mekanizmaları son kullanıcıya hitap edemeyecek kadar karmaşık. Merkeziyetsiz sigortacılık ise şu an Nexus Mutual'in sunduğu çok kısıtlı bir ürün yelpazesini aşamamış durumda. Önümüzdeki dönemde bu alanda geliştirilecek (örneğin merkeziyetsiz sigorta protokolü ArmorFi'nin adını ease olarak değiştirip farklı denenmemiş bir ürün gamı sunması gibi) yeni ürünlerin büyük potansiyeli olabilir.  Zaten, girişim finansmanı şirketleri DeFi'nin ve Web3'ün potansiyeline canı gönülden inanmış olacaklar ki, bu alana oluk oluk para akıtmaya devam ediyorlar: 
 
-| ![the_block_ventures](/assets/Theblock_verture_investments_800.png)|
+| ![Kripto ve blokzincir girişimlerine yıllık özel yatırımlar: 2015'te 0,6 milyar dolardan 2021'de 25,1 milyar dolara](/assets/Theblock_verture_investments_800.png)|
 |:--:| 
 | *Kripto ve blokzincir alanına yıllar itibariyle girişim sermayesi olarak aktarılan kaynaklar. Not: 2021 yılı ilk 11 ayı içerir. Kaynak: [TheBlock Research, 2022 Crypto Outlook, Sayfa 30 - pdf](https://www.tbstat.com/wp/uploads/2021/12/The-Block-Research-2022-Digital-Asset-Outlook.v2.pdf), Crunchbase, Dove Metrics, Pitchbook*|
 

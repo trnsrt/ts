@@ -23,7 +23,7 @@ Aslına bakarsanız, PayPal'ın Paxos ile ilişkisi çok daha eskilere dayanıyo
 ### Stabil para alanındaki diğer rakipler ile karşılaştırırsak?
 Stabil para pazarında sıkı bir rekabet söz konusu olsa da piyasanın büyük oyuncusu her zaman [Tether](https://tether.to/) (USDT) oldu. 
 
-| ![stabil_para_piyasa-degerleri](/assets/stabil_para_gelisim_2308_800.png)|
+| ![Stabil paraların 2020-2023 piyasa değeri grafiği: USDT baskın, toplam 2022'de yaklaşık 160 milyar dolar](/assets/stabil_para_gelisim_2308_800.png)|
 |:--:| 
 | *Stabil para piyasası oyuncularının piyasa değerlerinin değişimi.  Kaynak: [TheBlock Research](https://www.theblock.co/data/stablecoins/usd-pegged/total-stablecoin-supply)*|
 
@@ -42,7 +42,7 @@ Tabii Paxos'un New York eyaleti kanunlarına tabi olmasının getirdiği KYC (m�
 ### Kripto dünyası PYUSD için ne düşünüyor?
 PYUSD haberi piyasalara düştüğünde kripto dünyasının ikiye ayrıldığını gördük. 
 
-| ![wall-street](/assets/street-sign-141361_800.jpg)|
+| !['Half full' ve 'half empty' yazılı yol tabelası, kripto topluluğunun PYUSD'ye bölünmüş tepkisi için benzetme](/assets/street-sign-141361_800.jpg)|
 |:--:| 
 | *Image by [Gerd Altmann](https://pixabay.com/users/geralt-9301/) from [Pixabay](https://pixabay.com/)*|
 

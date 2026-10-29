@@ -24,7 +24,7 @@ Bu piyasanın tehdit altında olduğu ilk alan para transferleri oldu. Özellikl
 
 Dikkat ederseniz, para transferi kişiler arası gerçekleşen finansal işlemlerin en basiti. Bir kişi kendine ait bir parasal değeri bir diğer kişiye koşulsuz olarak transfer ediyor. Dolayısıyla makineler tarafından yapılması en kolay olanı - bu nedenle merkezi olmayan yapılar tarafından ilk olarak fethedilmeye çalışan alan burası oldu. 
 
-![counting-money.gif](/assets/counting-money.gif)
+![Eller arasında sayılan dolar banknotlarını gösteren kısa bir GIF, para transferlerine giriş için kullanılmış](/assets/counting-money.gif)
 
 
 Elbette ileride tüm para transferleri bankalardan alınıp makinelere geçecek demek doğru olmaz. Zira eğer bankadan çok cüzi miktarda para transferini EFT sistemi ile daha hızlı yapabiliyorsanız neden KriptoPara gibi alternatifler ile uğraşasınız ki? Ama dediğimiz gibi SWIFT gibi yüksek maliyetli bir alana girerseniz işte orada KriptoPara şimdiden ciddi bir alternatif.
@@ -59,7 +59,7 @@ DeFi protokolü üye girişimlerin bazıları [Dharma Labs](https://dharma.io/),
 
 &nbsp;
 
-| ![defi-platforms-640.png](/assets/defi-platforms-640.png) | 
+| ![DeFi kurucu üye platformlarının logoları: Dharma, Abacus, Set, 0x ve mavi renkli bir logo](/assets/defi-platforms-640.png) | 
 |:--:| 
 | *DeFi kurucu üye platformlar  (Kaynak: [Dharma](https://medium.com/dharma-blog/announcing-de-fi-an-alliance-of-decentralized-finance-platforms-9b4faf50b801))* |
 

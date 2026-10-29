@@ -39,7 +39,7 @@ Subnet adı verilen bu alanların sayısı başlangıçta 32 iken zamanla artara
 
 Subnet'lerden kimileri gelişmiş yazı, görsel, video üretimine odaklanırken, kimileri de finansta varlık fiyatlama ya da sağlıkta X-ray analizi yaparak teşhis koyma ya da sistemsel veri depolama gibi konularda uzmanlaşmış.Örneğin, şu aralar çok popüler olan Kaito AI tarafından geliştirilen 5 numaralı Subnet,  yapay zeka araçlarının Web3 üzerindeki verileri daha akıllı bir şekilde arama ve analiz etmesini sağlıyor.
 
-| ![Bittensor_subnets](/assets/bittensor-subnets_800.jpg)|
+| ![Bittensor subnet'lerini kategorilerine göre listeleyen ekran görüntüsü; her kutuda subnet numarası yer alıyor](/assets/bittensor-subnets_800.jpg)|
 |:--:| 
 | *Bittensor Subnet Sistemi. ubnetler gruplara ayrılmış, her bir subnet’in numarası yanlarında yazmaktadır - (Kaynak: [Crucible Labs](https://web.archive.org/web/20250306090259/https://cruciblelabs.com/report-state-of-bittensor-2024/))*|
 

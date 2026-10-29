@@ -11,7 +11,7 @@ Mini-serimize yapay zekanın neden olabileceği potansiyel sorunlar ile devam ed
 
 Yapay zeka ile ilgili potansiyel onunla en azından ChatGPT aracılığıyla tanışmış olan herkes tarafından bizzat test edildi ve çoğunluk tarafından onaylandı. Bununla birlikte gerek kullanıcılarda, gerekse de bu alandaki uzmanlar kişiler arasında yapay zekanın sebep olabileceği tehlikeler konusunda ciddi bir kamuoyu oluştu. Gelin şimdi de bu potansiyel tehlikelerin 'bir kısmına' göz atalım. 
 
-| ![ai_positive](/assets/yapay-zeka-yazi-III_800.jpg)|
+| ![DALL-E ile üretilmiş; 0 ve 1 rakamlarıyla kaplı mavi tonlu iki insan figürü, yapay zeka risklerine giriş](/assets/yapay-zeka-yazi-III_800.jpg)|
 |:--:| 
 | *Kaynak: Dall-E*|
 

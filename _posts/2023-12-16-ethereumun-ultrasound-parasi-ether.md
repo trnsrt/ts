@@ -14,7 +14,7 @@ Ethereum'un ekosistemini incelediğimiz bu mini yazı dizisinin geçen bölümü
 ### Ethereum’un parası ether (ETH)
 Ether token sahipleri, Ethereum üzerinde yaratılan değere doğrudan ya da dolaylı şekilde sahip oluyorlar. Nasıl mı? Anlatalım: 
 
-| ![ether-akisi](/assets/ether-akisi_v2.jpg)|
+| ![Ether'in basılması ve yakılmasını, ödül ve baz ücret akışlarıyla token sahipleri ve stake edenlere bağlayan şema](/assets/ether-akisi_v2.jpg)|
 |:--:| 
 |*Etherin doğuşu ve yakımının sistem aktörleri ile ilişkisi. Sol taraf sistemin bastığı parayı, sağ taraf ise sistemin yaktığı parayı göstermekte. Çizgili bağlantılar dolaylı etkiyi, düz çizgi bağlantılar ise direkt değer aktarımını göstermekte.*|
 
@@ -28,7 +28,7 @@ Piyasadaki ether miktarı verilen ödüller nedeniyle artıyor, kullanıcıları
 
 Başlangıçtan bu yana piyasada bulunan ether miktarının 2021 Ağustos’un yakım işlemlerinin başlaması ve 2022 Eylül’ünde PoS sistemine geçiş sonrası nasıl değiştiğini aşağıdaki tablo net olarak açıklıyor.
 
-| ![ethereum-para-arzi](/assets/ethereum-para-arzi.jpg)|
+| ![Ethereum'da yıllara göre basılan ve yakılan ether miktarı ile toplam arzın değişimi, 2016-2023 (9 ay)](/assets/ethereum-para-arzi.jpg)|
 |:--:| 
 |*Ethereum sisteminde yıllar itibariyle para miktarının değişimi. Kaynak: [Token Terminal](https://tokenterminal.com/resources/crypto-research/ethereum-investment-framework#the-business-model)*|
 
@@ -47,13 +47,13 @@ Ethereum topluluğu kuruluşunda ilk olarak işin teknolojisine odaklanıp para 
 
 Öncelikle para arzının temel nedeni olan madencilere verilen ücretlerin önemli bir kısmını Ağustos 2021'de uygulamaya koydukları bir geliştirme ile (EIP-1559) yakmaya başladılar. Sonrasında, Eylül 2022'de başlayan PoS sistemi ile madencilere verilen ödülü toptan kaldırıp, bunun yerine onaylayıcılara daha önce madencilere verdiklerinin altıda biri kadar ödül vermeye başladılar. 
 
-| ![ethereum-degisiklikler](/assets/ethereum-degisiklikler.jpg)|
+| ![Ethereum'un iki büyük değişimi: PoS'a geçişle düşen ödül ve EIP-1559 ile işlem ücretlerinin yakılması](/assets/ethereum-degisiklikler.jpg)|
 |:--:| 
 |*Ethereum sisteminde gerçekleşen iki büyük değişim. Kaynak: [Token Terminal](https://tokenterminal.com/resources/crypto-research/ethereum-investment-framework#the-business-model)*|
 
 Bu iki devrim niteliğindeki gelişme sonrası ether arzı, BTC'nin çok daha altında gelmeye hatta pek çok zaman eksiye dönmeye başladı. Yani ether sadece gümüş gibi işlevsel bir maden olmanın ötesinde altın gibi kısıtlı bir madene dönüşmeye başladı. İşte bu nedenle, Ethereum topluluğu "Eğer Bitcoin'e sağlıklı para (sound money) diyorsanız, ETH'ye 'ultra-sağlıklı para' (ultra-sound money) demelisiniz" şeklinde bir söylem geliştirdiler. 
 
-| ![ether-vs-btc-para-arzi](/assets/ether-vs-btc-para-arzi_v2.jpg)|
+| ![Merge sonrası yıllık arz değişimi: ETH yüzde -0,206, BTC yüzde +1,716, PoW'lu ETH yüzde +3,168](/assets/ether-vs-btc-para-arzi_v2.jpg)|
 |:--:| 
 |*Ethereum ve Bitcoin para basımının Ethereum PoS sistemine geçtikten sonraki dönem için karşılaştırması. Beyaz çizgi Ethereum PoS sistemine geçmeseydi yaşanacak artış miktarını, mavi çizgi ise PoS sistemine geçtikten sonra yaşanan artış miktarını gösteriyor. Mavi çizginin eksiyi göstermesi sistemin bastığından daha fazlasını yaktığını yani sistemdeki paranın azaldığını gösteriyor. Ortadaki turuncu çizgi ise Bitcoin'in toplam para miktarı. Kaynak: [Ultrasound Money](https://ultrasound.money)*|
 

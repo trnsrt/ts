@@ -11,7 +11,7 @@ Bu yazımızda DeFi'nin önümüzdeki dönemde hangi alanlarda büyüme potansiy
 
 BTCHaber'deki bu köşemizde yaklaşık bir buçuk yılı aşkın bir süredir ağırlıklı olarak DeFi yani merkeziyetsiz finans ile ilgili gelişmeleri paylaşıyoruz. DeFi, ilk yazımızın yayınından birkaç ay sonra geçtiğimiz yaz hızlı bir büyüme yaşadı. Başlarda "acaba ne zaman bir milyar doları geçecek?" diye merak ettiğimiz bu alana kilitlenmiş toplam para miktarı (yani projelere yatırılmış kaynak), 2020 yılı sonuna geldiğimizde 20 milyar ABD Doları olmuştu. Geçtiğimiz 10 ayda ise 12 kat artarak 250 milyar ABD Doları seviyesine ulaştı. Alın size katlamalı/üstsel (exponential) büyümeye en güzel örnek!
 
-| ![TVL_211106](/assets/tvl_defillama_800.png)|
+| ![DeFi'de kilitli toplam değerin (TVL) 2020-2021 arasındaki artışını gösteren grafik, Kasım 2021'de 257 milyar dolar](/assets/tvl_defillama_800.png)|
 |:--:| 
 | *DeFi'de kilitlenmiş kaynak miktarı. Yazılarımızın başladığı Mart 2020 tarihinde henüz bir milyar ABD Dolarını geçmemişti. Şimdi ise bu rakam 250 milyar ABD Dolarından fazla. Kaynak: [DeFiLlama](https://defillama.com/)*|
 

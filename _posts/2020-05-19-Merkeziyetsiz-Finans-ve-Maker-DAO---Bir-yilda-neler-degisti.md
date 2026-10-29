@@ -20,7 +20,7 @@ Aradan geçen zamanda neler oldu? Bu önemli -  özellikle gelişen yeni teknolo
 ### Adaptasyonu arttı mı?
 DeFi ürünlerinin geçtiğimiz bir yıl içinde kullanımının arttığını rahatlıkla söyleyebiliriz. Mayıs 2020 ortası itibariyle bir önceki yıla göre DeFi içindeki para miktarı neredeyse iki katına çıkarak 860 milyon ABD Dolarına ulaşmış. Bunun yaklaşık yarısı MakerDAO'nun sistemi içinde.
 
-| ![DeFi_value_market_share.png](/assets/DeFi_value_market_share.png) | 
+| ![DeFi Pulse ekranı: DeFi toplam kilitli değeri ve MakerDAO'nun yüzde 51 payı, son bir yıllık grafikle](/assets/DeFi_value_market_share.png) | 
 |:--:| 
 | *DeFi piyasasının son bir yıllık gelişimi*  *[Kaynak](https://defipulse.com/)*|
 
@@ -32,7 +32,7 @@ Peki aradan geçen zamanda hiç kriz yaşadı mı MakerDAO? Gayet tabii..  Ancak
 
 MakerDAO da benzer bir krizi 2020'nin Şubat ayı içinde yaşadı. ETH piyasa değerinin bir günde %53 oranında düşmesi kimsenin beklemediği bir senaryo idi. 
 
-| ![ether_price_March_2010.png](/assets/ether_price_March_2010.png) | 
+| ![ETH fiyatının son bir yıllık grafiği; 12 Mart 2020'de 193 dolardan 91 dolara sert düşüş işaretli](/assets/ether_price_March_2010.png) | 
 |:--:| 
 | *ETH'nin yıllık değişimi ve 12 Mart günü %53 düşmesi*  *[Kaynak](https://www.coindesk.com/price/ethereum)*|
 

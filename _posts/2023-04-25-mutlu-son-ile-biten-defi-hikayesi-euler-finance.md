@@ -39,7 +39,7 @@ Euler Finance, yaptığı yenilikler ile bilinen ve ekosistemde sevilen bir topl
 
 Euler Finance ekibi, öncelikle hacker ile temasa geçtiler. Nasıl? Hımmm, düşünelim bakalım: Elimizde ne var? Açığı bulup parayı çeken [adres](https://etherscan.io/address/0xee009faf00cf54c1b4387829af7a8dc5f0c8c8c5). Başka ne var? Her tür işlemi gösteren, şeffaf bir blokzincir. Evet, bildiniz. [Ekip](https://etherscan.io/address/0xb66cd966670d962c227b3eaba30a872dbfb995db), 13 Mart'ta hacker'a blokzincir üzerinden aşağıdaki [mesajı](https://etherscan.io/tx/0x539c6fff0fce70e02dddd80a5534acf3df57deafbdc40f41abb20aa8f94a6d0d) [^1] gönderdi. 
 
-| ![hacker_mesaj](/assets/euler-finance-to-hacker-280313_800.jpg)|
+| ![Euler Finance'ın hackere gönderdiği mesajı gösteren Etherscan işlem ekran görüntüsü](/assets/euler-finance-to-hacker-280313_800.jpg)|
 |:--:| 
 | *Euler'in hackera yazdığı mesaj. En alttaki birinci dipnottaki adımları takip ederek mesajın orjinalini görebilirsiniz. Kaynak:[Etherscan](https://etherscan.io/tx/0x539c6fff0fce70e02dddd80a5534acf3df57deafbdc40f41abb20aa8f94a6d0d))*|
 

@@ -15,7 +15,7 @@ Aslında gelir. Yatırım dünyasında (bunun KriptoPara olmasına gerek yok ser
 
 &nbsp;
 
-| ![dilbert-stock-market-640.png](/assets/dilbert-stock-market-640.png) | 
+| ![Hisse yatırımını konu alan üç kareli Dilbert çizgi romanı; kısa vadeli kazanç beklentisini alaya alıyor](/assets/dilbert-stock-market-640.png) | 
 |:--:| 
 | *İnglizcesi için [link](https://www.technologyinvestor.com/?p=29968)* |
 
@@ -39,7 +39,7 @@ Efendim, bir KriptoPara'nın gerçekten iyi bir yatırım olup olmadığını an
 
 &nbsp;
 
-| ![thb-ad-600.jpg](/assets/thb-ad-600.jpg) | 
+| ![Times Square'de dev ekranda 'NASDAQ for Individual Time' yazan TNB reklamı, kredibilite tartışması için](/assets/thb-ad-600.jpg) | 
 |:--:| 
 | *Times Square'de reklam vermek [kredibilite sağlar mı?](https://twitter.com/Melt_Dem/status/1026285256800907266)* |
 
@@ -71,7 +71,7 @@ KriptoParalar için aslında en anlaşılır olanı Bitcoin White Paper: [Bitcoi
 
 &nbsp;
 
-| ![bitcoin-white-paper-v2-640.png](/assets/bitcoin-white-paper-v2-640.png) | 
+| ![Bitcoin: A Peer-to-Peer Electronic Cash System başlıklı Bitcoin white paper'ın ilk sayfası](/assets/bitcoin-white-paper-v2-640.png) | 
 |:--:| 
 | *Tanıtım dokümanlarının şahı: [Bitcoin White Paper](https://bitcoin.org/bitcoin.pdf)* | 
 

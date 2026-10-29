@@ -13,7 +13,7 @@ image: /assets/umbrella-4510667_640.jpg
 
 Her ne kadar bildiğimiz klasik finans ile belli alanlarda kesişse de DeFi yani merkeziyetsiz finans kendi içinde ayrı bir dünya olmaya doğru hızla ilerliyor. DeFi aktörlerinin nihai hedefi de bu aslında. Ancak fiziksel dünya ile iletişimi kesebilmek için belli temel gereksinimlerin karşılanması gerekiyor. Bunların en önemlilerinden biri de sigorta. Üstelik DeFi alanında klasik finansa göre daha da kritik bu gereksinim. Neden? 
 
-| ![yagmur_semsiye](/assets/umbrella-4510667_640.jpg)|
+| ![Yağmur altında bir şemsiye; DeFi'de risklere karşı sigorta fikrini anlatan görsel](/assets/umbrella-4510667_640.jpg)|
 |:--:| 
 | *Image by [neo tam](https://pixabay.com/users/neotam-11291643/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4510667) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4510667)*|
 

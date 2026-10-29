@@ -24,7 +24,7 @@ Ancak bu hak ile birlikte büyük bir sorumluluk da geliyor üzerinize: Zira bu 
 
 Burada ayrı bir paragraf açıp, daha temel bir soru soralım kendimize: Bendeki bir Bitcoin'in bana ait olduğunu nasıl kanıtlarım? Ya da bana ait olan (birinin gönderdiği) bir Bitcoin'in gerçek olduğunu (sahte olmadığını) nereden bilebilirim?
 
-| ![safe.jpg](/assets/safe.jpg) | 
+| ![Kasa kapısını çeviren bir el illüstrasyonu; kripto paranın borsada saklanmasının güvensiz olduğunu anlatıyor](/assets/safe.jpg) | 
 |:--:| 
 | *Kripto paranızı bu şekilde saklayamazsınız (Image by [mohamed Hassan](https://pixabay.com/users/mohamed_hassan-5229782/) from [Pixabay](https://pixabay.com/images/id-3703193/))* | 
 
@@ -42,7 +42,7 @@ Ana konumuza geri dönersek, kripto paraları borsada tutmanın riski yüksek de
 
 Peki bu pratik mi? Bu sorunun yanıtı, eğer yatırım amaçlı çok alım satım yapmıyorsanız bir dereceye kadar evet. Ancak alım satım yapayım diyorsanız bu, çok da pratik bir yol değil. Parayı kendi cüzdanına geçir, sonra işlem yapmak istediğinde tekrar cüzdandan borsaya gönder. Hem uğraştırıcı hem zaman alıcı bir iş. Nitekim dünyadaki Bitcoin'in [%17'si hala borsalarda müşteri emaneti olarak duruyor](https://medium.com/coinshares/bitcoin-has-a-branding-problem-its-evolution-not-revolution-aa34fe5facfb). 
 
-| ![kripto-para-emanet-hesaplar.png](/assets/kripto-para-emanet-hesaplar.png) | 
+| ![Bitcoin'in saklandığı yerlerin ağaç haritası: dolaşımdaki arzın en az yüzde 16,6'sı aracılarda tutuluyor](/assets/kripto-para-emanet-hesaplar.png) | 
 |:--:| 
 | *Bitcoin'in tutulduğu yerler - (Kaynak [Coinshares Research](https://medium.com/coinshares/bitcoin-has-a-branding-problem-its-evolution-not-revolution-aa34fe5facfb))* | 
 

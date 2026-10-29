@@ -9,7 +9,7 @@ image: /assets/eth_median_fees_coinmetrics_1yr_800_v1.png
 
 Ethereum üzerinde işlem yapıyorsanız yüksek işlem ücretleri canınızı sıkıyor olmalı. 
 
-| ![coinmetrics_eth_median_fees_1yr](/assets/eth_median_fees_coinmetrics_1yr_800_v1.png)|
+| ![2020'de Ethereum'un günlük ortalama işlem ücretlerini gösteren grafik; Eylül'de 8 doları aşan zirve](/assets/eth_median_fees_coinmetrics_1yr_800_v1.png)|
 |:--:| 
 | *2020 yılı Ethereum platformu üzerindeki ortalama işlem ücretleri. Kaynak: [Coinmetrics](https://network-charts.coinmetrics.io)*|
 

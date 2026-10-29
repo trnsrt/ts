@@ -56,7 +56,7 @@ Ankara’daki lise yıllarından sonra bu sefer İstanbul’da Boğaziçi Ünive
 
 &nbsp;
 
-![TS](/assets/TS_2.jpg)
+![Gözlüklü ve mikrofonlu, siyah ceketli bir konuşmacı; arkasında İstanbul silüetli pembe bir afiş](/assets/TS_2.jpg)
 
 &nbsp;
 
@@ -67,7 +67,7 @@ Sert, üniversite sonrası hemen iş hayatına giriyor. Önce Arthur Andersen’
 &nbsp;
 
 
-![TS](/assets/TS_3_800.jpg)
+![Ekranda 'Kripto para dolandırıcılarına karşı hangi önlemler alınabilir?' başlığı olan bir TV programından sahne](/assets/TS_3_800.jpg)
 
 &nbsp;
 
@@ -99,7 +99,7 @@ Sert, özel sektörde geçirdiği yılların ardından, 2014 yılında Özyeğin
 
 &nbsp;
 
-![TS](/assets/TS_5.jpg)
+![Sorularla Blockchain kitabını gösteren, gözlüklü bir konuşmacının çevrimiçi sunumdan bir kare](/assets/TS_5.jpg)
 
 &nbsp;
 
