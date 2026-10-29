@@ -17,17 +17,22 @@ title: "Turan Sert - Kişisel Blog"
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   Web3 olarak da adlandırılan, blokzincir üzerine kurulu merkeziyetsiz uygulamalar üzerine karalamalar
+lang: tr
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "turansert.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://turansert.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: turansert
 linkedin_username: turansert
 instagram_username: turansert
 youtube_username: UCh5_9-4LQUrJ-yF0plZ0fGg
-google_analytics: UA-168563834-1
-mastodon: https://mastodon.cloud
-mst.username: turansqgmail.com
-mst.instance: turansert
 logo: "/ts-bg-dark-v2_bant_v5.jpg"
+twitter:
+  username: turansert
+  card: summary_large_image
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: "/ts-bg-dark-v2_bant_v5.jpg"
 header_pages:
   - kitaplar.md
   - blockchain.md
@@ -43,6 +48,9 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-redirect-from
 
 
 
@@ -57,3 +65,11 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+exclude:
+  - README.md
+  - deneme.md
+  - NOTES-A.md
+  - DECISIONS-A.md
+  - subscription-form.md
+  - subscription-thank-you.md

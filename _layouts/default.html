@@ -1,13 +1,14 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<html lang="{{ page.lang | default: site.lang }}">
 
   {% include head.html %}
 
   <body>
+    <a class="skip-link" href="#main-content">İçeriğe geç</a>
 
     {% include header.html %}
 
-    <main class="page-content" aria-label="Content">
+    <main id="main-content" class="page-content" aria-label="Content" tabindex="-1">
       {{ content }}
     </main>
 
