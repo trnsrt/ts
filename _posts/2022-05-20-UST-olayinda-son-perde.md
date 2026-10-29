@@ -17,7 +17,7 @@ Geçtiğimiz haftaki yazımızda, stabil paralardan başlayarak UST'nin hikayesi
 
 | ![puff](/assets/airshow-6145574_800.jpg)|
 |:--:| 
-| *Image by [Ciarán Ó Muirgheasa](https://[pixabay.com/users/geralt-9301/](https://pixabay.com/users/comuirgheasa-3235861/)) from [Pixabay](https://pixabay.com/)*|
+| *Image by [Ciarán Ó Muirgheasa](https://pixabay.com/users/comuirgheasa-3235861/) from [Pixabay](https://pixabay.com/)*|
 
 Bu hazin son sonrası, gerek uzun zamandır bu sisteme inanarak yatırım yapmış gerekse hızlı düşüşün bir çıkışı olduğunu düşünerek son demlerde alıma geçmiş pek çok kişi ciddi kayıplar yaşadı. Bu konuda şahsen oldukça üzgün olduğumu belirtmeliyim.
 

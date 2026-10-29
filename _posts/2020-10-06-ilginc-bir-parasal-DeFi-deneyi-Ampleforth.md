@@ -20,7 +20,7 @@ Piyasada yeterince stabil kripto para varken neden Ampleforth'a ihtiyaç olsun? 
 
 | ![BTC_dominance](/assets/Executive_Order_6102_640.jpg)|
 |:--:| 
-| *ABD hükümetinin halktan zorla altın topladığı meşhur 6102 sayılı emir.  Kaynak: [Wikipedia](https://https://en.wikipedia.org/wiki/Executive_Order_6102)*|
+| *ABD hükümetinin halktan zorla altın topladığı meşhur 6102 sayılı emir.  Kaynak: [Wikipedia](https://en.wikipedia.org/wiki/Executive_Order_6102)*|
 
 Ayrıca  bu stabil kripto paralar ödemeler konusunda çözüm olsalar da, bu paraları basanların ağırlıklı bir kısmının merkezi yapılar olması beraberinde yeni sorunlar getiriyor. Yakın zamanda yaşadığımız [Tether'in müşteri hesaplarını dondurabilme gücü](https://en.ethereumworldnews.com/bitfinex-and-tether-freeze-33m-usdt-from-kucoin-hack/) (ki Kucoin hack'inde 33 milyon ABD Dolarını dondurdular) kripto dünyasının bireylere en büyük faydası olarak da bilinen "dijital varlığa tümüyle sahip olma" özelliğinin nasıl delik deşik edildiğinin de bir göstergesi aslında. 
 
