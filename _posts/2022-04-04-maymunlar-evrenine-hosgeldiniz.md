@@ -52,17 +52,6 @@ Yuga Labs kendisini metaverse'in içindeki önemli oyunculardan biri olarak pozi
 
 &nbsp;
 
-<table><tr>
-<td style="width:50%">
-<iframe loading="lazy" title="Maymunlar Evrenine Hoşgeldiniz - video" width="224" height="126" src="https://www.youtube.com/fMsfHRtr-8w" frameborder="0" allowfullscreen></iframe></td></tr>
-<tr>
-<td style="width:50%; vertical-align:top; font: italic">
-<p><em>Yuga Labs'in Animoca Brands ile ortaklaşa çıkaracağı yeni proje Otherside'in tanıtım filmi</em></p>
-</td></tr> 
-</table>
-
-&nbsp;
-
 Bored Ape Yacht Club, Mutant Ape Yacht Club, Bored Ape Kennel Club gibi kendi ürettikleri ve CryptoPunks ve Meebits gibi sonradan satın aldıkları koleksiyonlar dışında, World of Women, Cool Cats, CrypToadz gibi başka koleksiyonlar ile anlaşma yaparak, bütün bu koleksiyon sahiplerini Otherside içinde aktif hale getirecekler gibi görünüyor. Bu alanda bir oyun geliştirmeye çalıştıkları da sızan bilgiler arasında. 
 
 Daha önce de pek çok kez yazdığımız gibi Web3 girişimlerinin başarısının ardındaki en kritik konulardan biri topluluk. Yuga Labs, kendi koleksiyonları ile oluşturdukları 'elit' bir kulübün ardından, ApeCoin ile çok daha geniş kesimlere ulaşmayı ve ApeCoin DAO ile bu geniş kesimden bir topluluk oluşturmayı da başardı. 160 bine yaklaşan üyesi ile Discord'da en kalabalık ve en aktif [grup](https://discord.com/invite/3P5K3dzgdB) Bored Ape Yacht Club bunun örneklerinden sadece biri. 
