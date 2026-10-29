@@ -15,7 +15,7 @@ image: /assets/buttom-up-poster.jpg
 <img src="/assets/bottom-up-ekran.jpg">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/EMrIp8KCxK0" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe loading="lazy" title="BottomUP Özel Yayın | Turan Sert" width="224" height="126" src="https://www.youtube-nocookie.com/embed/EMrIp8KCxK0" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Yayından bir görüntü...   

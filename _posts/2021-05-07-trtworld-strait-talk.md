@@ -14,7 +14,7 @@ image: /assets/strait-talk-poster_800.png
 <img src="/assets/strait-talk-200507-yayin_800.png">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/pITLLp1BZQw" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe loading="lazy" title="Turkey to Implement New Cryptocurrency Regulations" width="224" height="126" src="https://www.youtube-nocookie.com/embed/pITLLp1BZQw" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Yayından bir görüntü 

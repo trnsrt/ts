@@ -15,7 +15,7 @@ image: /assets/blokchainIST_canli_yayin_640.jpg
 <img src="/assets/BlockchainIST_yayin_ekran_goruntusu_640.jpg">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/Azl-t021eoY" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe loading="lazy" title="KriptoEkonomi 9. Bölüm | Merkeziyetsiz Finans Dünyası DeFi | Turan Sert" width="224" height="126" src="https://www.youtube-nocookie.com/embed/Azl-t021eoY" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Harıl harıl DeFi anlatırken...  

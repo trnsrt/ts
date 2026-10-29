@@ -14,7 +14,7 @@ image: /assets/tum_zamanlarin_en_yuksegi_poster.jpg
 <img src="/assets/Tum_zamanlarin_en_yuksegi_2101_800.jpg">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/9TipN2j4S_A" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe loading="lazy" title="Cem İşçiler ve Fazlı Polat Kayıtta: Turan Sert" width="224" height="126" src="https://www.youtube-nocookie.com/embed/9TipN2j4S_A" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Programdan bir görüntü...  

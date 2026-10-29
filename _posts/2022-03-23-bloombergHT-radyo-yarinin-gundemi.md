@@ -19,7 +19,7 @@ https://www.bloomberghtradyo.com/song/yarinin-gundemi-6/
 <img src="/assets/yarinin-gundemi_poster_v2_800.jpg">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/dv2exeCrhn0" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe loading="lazy" title="Yarının Gündemi - #DeFi nedir?" width="224" height="126" src="https://www.youtube-nocookie.com/embed/dv2exeCrhn0" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Programın duyurusu...  

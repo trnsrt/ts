@@ -15,7 +15,7 @@ image: /assets/kripto-konusmalar-800.jpg
 <img src="/assets/kripto-konusmalar-640.jpg">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/7_hwH-uOT_c" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe loading="lazy" title="Kripto Konuşmalar #6 - Turan Sert" width="224" height="126" src="https://www.youtube-nocookie.com/embed/7_hwH-uOT_c" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Hararetli konuşma...   

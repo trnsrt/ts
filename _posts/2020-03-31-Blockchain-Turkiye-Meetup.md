@@ -15,7 +15,7 @@ image: /assets/bctr_meetup_640.jpg
 &nbsp;
 
 <table><tr><td>
-<iframe width="224" height="126" src="https://www.youtube.com/embed/gCjw1-4ZOAs" frameborder="0" allowfullscreen></iframe></td>
+<iframe loading="lazy" title="BCTR Online Etkinlik: &quot;Sorularla Blockchain&quot;" width="224" height="126" src="https://www.youtube-nocookie.com/embed/gCjw1-4ZOAs" frameborder="0" allowfullscreen></iframe></td>
 </tr>
 <tr>
 <td style="vertical-align:top">

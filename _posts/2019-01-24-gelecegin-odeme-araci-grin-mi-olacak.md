@@ -18,7 +18,7 @@ MimbleWimble'in çıktığı ikinci proje olan Grin, çıkış olarak Bitcoin' �
 
 &nbsp;
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k6tCnw6shgQ?start=107" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="01 @ ignopeverell: Conference Intro &amp; Opening" width="560" height="315" src="https://www.youtube-nocookie.com/embed/k6tCnw6shgQ?start=107" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 &nbsp;
 

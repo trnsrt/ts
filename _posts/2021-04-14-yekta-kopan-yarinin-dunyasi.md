@@ -14,7 +14,7 @@ image: /assets/yekta_kopan_poster_800.jpg
 <img src="/assets/Yekta_kopan_yayin_800.png">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/9aYCmifx1oU" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe loading="lazy" title="Yekta Kopan ile Yarının Dünyası: Emre Alkin ve Turan Sert" width="224" height="126" src="https://www.youtube-nocookie.com/embed/9aYCmifx1oU" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Yayından bir görüntü 

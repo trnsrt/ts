@@ -17,12 +17,12 @@ Yayından iki kesit ve tüm yayın linklerini aşağıda bulabilirsiniz.
 &nbsp;
 
 <table><tr><td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/mVctj9bVN6A" frameborder="0" allowfullscreen></iframe>
+<iframe loading="lazy" title="&quot;ABD'de kripto parayı yasaklama gibi bir durum şu an görünmüyor&quot; Paribu / Turan" width="224" height="126" src="https://www.youtube-nocookie.com/embed/mVctj9bVN6A" frameborder="0" allowfullscreen></iframe>
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/-Cr42uG15uc" frameborder="0" allowfullscreen></iframe></td>
+<iframe loading="lazy" title="Bir Bitcoin 1 milyon dolar olur mu?" width="224" height="126" src="https://www.youtube-nocookie.com/embed/-Cr42uG15uc" frameborder="0" allowfullscreen></iframe></td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/gHHVPlSaYZ4" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe loading="lazy" title="ABD'de kripto para düzenlemeleri için çalışmalar sürüyor - Kripto Para | 09.12.2021" width="224" height="126" src="https://www.youtube-nocookie.com/embed/gHHVPlSaYZ4" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 "ABD'de kripto parayı yasaklama gibi bir durum şu an görünmüyor"  

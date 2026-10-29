@@ -15,7 +15,7 @@ image: /assets/Coinkolik-poster.jpg
 <img src="/assets/Coinkolik_photo.jpg">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/r3jRxM2ewcg" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe loading="lazy" title="Coinkolik Sohbetler - 20 Temmuz 2020 Canlı Yayın - video" width="224" height="126" src="https://www.youtube-nocookie.com/embed/r3jRxM2ewcg" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Programdan bir görüntü...  

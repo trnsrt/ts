@@ -14,7 +14,7 @@ image: /assets/bloombergHT_fokus_poster.jpg
 <img src="/assets/bloombergHT-fokus-ss-220104.jpg">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/6qqdqHv1los?t=1288" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe loading="lazy" title="Üretici maliyetlerindeki artış ihracata nasıl yansıyor? Fokus | 18.01.2022" width="224" height="126" src="https://www.youtube-nocookie.com/embed/6qqdqHv1los?t=1288" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Programdan bir görüntü...  

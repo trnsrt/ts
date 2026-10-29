@@ -14,7 +14,7 @@ image: /assets/BloombergHT_Hizli_Bakis.jpg
 <img src="/assets/BloombergHT_YouTube_210210.jpg">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/v=tonX_-BKIIw" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe loading="lazy" title="Seri girişimci Elon Musk nasıl Bitcoin boğası oldu? | Hızlı Bakış" width="224" height="126" src="https://www.youtube-nocookie.com/embed/tonX_-BKIIw" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Yayından bir görüntü...  

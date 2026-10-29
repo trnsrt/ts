@@ -16,7 +16,7 @@ image: /assets/blockchain_zirvesi_poster_1200.jpg
 <img src="/assets/blockchain_zirvesi_yayin_1200.jpg">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/qd6BSTaMYFA?t=8930" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe loading="lazy" title="2020 Blockchain Zirvesi - İstanbul Blockchain Okulu" width="224" height="126" src="https://www.youtube-nocookie.com/embed/qd6BSTaMYFA?t=8930" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Programdan bir görüntü...  

@@ -16,7 +16,7 @@ image: /assets/yarinin-gundemi-poster_v3_800.jpg
 <img src="/assets/Turan-Sert-Yarinin-Gundemi-Blog_800.jpg">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/9iFEkgIPATs" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe loading="lazy" title="Yarının Gündemi - DeFi: Merkeziyetsiz Finansın Dünü, Bugünü ve Yarını | Turan Sert" width="224" height="126" src="https://www.youtube-nocookie.com/embed/9iFEkgIPATs" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Program sonrası duyuru...  

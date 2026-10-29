@@ -14,7 +14,7 @@ image: /assets/on-soruda-kripto-poster.png
 <img src="/assets/on_soruda_kripto_para_dunyasi_800.jpg">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/67HQ_fS-5DE" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe loading="lazy" title="Gündeme oturan NFT nedir, nasıl çalışır? | 10 Soruda Kripto Para Dünyası" width="224" height="126" src="https://www.youtube-nocookie.com/embed/67HQ_fS-5DE" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Yayından bir görüntü 

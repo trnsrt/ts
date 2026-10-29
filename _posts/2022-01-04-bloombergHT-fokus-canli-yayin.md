@@ -14,7 +14,7 @@ image: /assets/bloombergHT_fokus_poster.jpg
 <img src="/assets/bloombergHT-fokus-ss-220104.jpg">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/issB3QWZpf0?t=1832" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe loading="lazy" title="Dünyada ve Türkiye'de ödeme sistemleri - Fokus | 04.01.2022" width="224" height="126" src="https://www.youtube-nocookie.com/embed/issB3QWZpf0?t=1832" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Programdan bir görüntü...  

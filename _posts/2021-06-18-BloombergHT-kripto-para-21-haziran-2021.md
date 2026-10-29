@@ -15,7 +15,7 @@ image: /assets/BloombergHT-Kripto_Para_Poster_800.png
 <img src="/assets/BloombergHT-210618_800.png">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/7Qjh5HATOtY" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe loading="lazy" title="Kripto para düzenlemesinde son gelişmeler - Kripto Para  | 18.06.2021" width="224" height="126" src="https://www.youtube-nocookie.com/embed/7Qjh5HATOtY" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Yayından bir görüntü 

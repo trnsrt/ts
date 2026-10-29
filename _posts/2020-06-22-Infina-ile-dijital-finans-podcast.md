@@ -24,7 +24,7 @@ Yayının linklerine aşağıdan ulaşabilirsiniz:
 
 
 <table><tr><td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/evsyn5BSANQ" frameborder="0" allowfullscreen></iframe>
+<iframe loading="lazy" title="İnfina ile Dijital Finans - 22 Haziran 2020 Podcast - video" width="224" height="126" src="https://www.youtube-nocookie.com/embed/evsyn5BSANQ" frameborder="0" allowfullscreen></iframe>
 </td>
 </tr>
 <tr><td style="width:50%; vertical-align:top">

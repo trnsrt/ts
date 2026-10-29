@@ -14,7 +14,7 @@ image: /assets/kriptoveteran_poster_1200.jpg
 <img src="/assets/kriptoveteran_screenshot.jpg">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/dI5R1P9Hl50" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe loading="lazy" title="Merkezsiz Finans - DeFi Özel Yayını #KriptoVeteran + 1 (Konuk: Turan Sert)" width="224" height="126" src="https://www.youtube-nocookie.com/embed/dI5R1P9Hl50" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Yayından bir görüntü...  

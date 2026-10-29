@@ -12,7 +12,7 @@ image: /assets/Sorularla_DeFi_kapak_kesit.jpg
 
 <table><tr>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/vIn76AKiuz8" frameborder="0" allowfullscreen></iframe></td>
+<iframe loading="lazy" title="Sorularla #DeFi (MERKEZİYET.SİZ FİNANS) Kitabının Buluşması | Turan Sert" width="224" height="126" src="https://www.youtube-nocookie.com/embed/vIn76AKiuz8" frameborder="0" allowfullscreen></iframe></td>
 </td>
 <td style="width:50%">
 <img src="/assets/Sorularla_DeFi_tanitim_photo_001.jpg"></tr>

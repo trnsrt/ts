@@ -54,7 +54,7 @@ Yuga Labs kendisini metaverse'in içindeki önemli oyunculardan biri olarak pozi
 
 <table><tr>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/fMsfHRtr-8w" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe loading="lazy" title="Maymunlar Evrenine Hoşgeldiniz - video" width="224" height="126" src="https://www.youtube.com/fMsfHRtr-8w" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr>
 <td style="width:50%; vertical-align:top; font: italic">
 <p><em>Yuga Labs'in Animoca Brands ile ortaklaşa çıkaracağı yeni proje Otherside'in tanıtım filmi</em></p>

@@ -13,7 +13,7 @@ image: /assets/odtu_blockchain_days_poster.jpg
 <img src="/assets/odtu_blockchain_days_sahne_1.jpg">
 </td>
 <td style="width:50%; vertical-align:top">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/oAHYswgizs8" title="ODTÜ Blockchain Days panel kaydı" frameborder="0" allowfullscreen></iframe>
+<iframe loading="lazy" width="224" height="126" src="https://www.youtube-nocookie.com/embed/oAHYswgizs8" title="ODTÜ Blockchain Days panel kaydı" frameborder="0" allowfullscreen></iframe>
 </td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>Sahne</p></td>

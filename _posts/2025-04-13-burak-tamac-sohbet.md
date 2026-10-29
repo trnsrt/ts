@@ -13,7 +13,7 @@ image: /assets/burak_tamac_logo.png
 <img src="/assets/burak_tamac_ekran_goruntusu.jpg">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/QJctk3wRS34" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe loading="lazy" title="Turan Sert - Sorularla Web3, Ethereum, Merkeziyetsizlik, AI" width="224" height="126" src="https://www.youtube-nocookie.com/embed/QJctk3wRS34" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Sohbetten bir kare...

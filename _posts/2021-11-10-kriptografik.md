@@ -14,7 +14,7 @@ image: /assets/kriptografik-20211110-poster-800.jpg
 <img src="/assets/kriptografik-20211110_ss_800.jpg">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/SS_GhoisFW0" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe loading="lazy" title="Merkeziyetsiz Finans Nereye Gidiyor? | Kripto Varlıklarda Regülasyon | Melis H. Karagöz &amp; Turan Sert" width="224" height="126" src="https://www.youtube-nocookie.com/embed/SS_GhoisFW0" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Yayından bir görüntü 

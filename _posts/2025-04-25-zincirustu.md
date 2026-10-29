@@ -13,7 +13,7 @@ image: /assets/fintables_logo.png
 <img src="/assets/fintables_250425_poster.jpeg">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/hwoJBrOe_FM" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe loading="lazy" title="Kriptoda Başarılı Olacak Kategoriler | Zincirüstü #7" width="224" height="126" src="https://www.youtube-nocookie.com/embed/hwoJBrOe_FM" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Zincirüstü #7...

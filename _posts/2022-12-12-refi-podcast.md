@@ -28,7 +28,7 @@ image: /assets/refi-podcast-poster.jpg
 <img src="/assets/refi-turkiye-podcast_800.jpg">
 </td>
 <td style="width:50%">
-<iframe src="https://widget.spreaker.com/player?episode_id=52160371&theme=light&playlist=false&cover_image_url=https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F973a0155503e074d6442e1a88e82630d.jpg" width="100%" height="400px" frameborder="0"></iframe></td></tr>
+<iframe loading="lazy" title="ReFi podcast bölümü (Spreaker)" src="https://widget.spreaker.com/player?episode_id=52160371&theme=light&playlist=false&cover_image_url=https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F973a0155503e074d6442e1a88e82630d.jpg" width="100%" height="400px" frameborder="0"></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Bölümün posteri

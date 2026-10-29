@@ -13,7 +13,7 @@ image: /assets/Davranissal_ekonomi_logo.png
 <img src="/assets/Davranissal_ekonomi_shot.jpg">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/eVmT3hJPt78" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe loading="lazy" title="Merkeziyetsiz Finans ve Güç Dağılımı | Davranışsal Ekonomi | Turan Sert | Mert Aydıner" width="224" height="126" src="https://www.youtube-nocookie.com/embed/eVmT3hJPt78" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Yayından bir görüntü...

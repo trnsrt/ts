@@ -17,7 +17,7 @@ image: /assets/resilience-imis-poster.jpg
 </td>
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/lExjz8BSdjs" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe loading="lazy" title="ʀᴇꜱɪʟɪᴇɴᴄᴇ ɪᴍꜱ23 Sabancı üniversitesi block cahin paneli" width="224" height="126" src="https://www.youtube-nocookie.com/embed/lExjz8BSdjs" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Panelin posteri
