@@ -10,7 +10,7 @@ image: /assets/naval_640.jpg
 
 Geçtiğimiz [yazıda](/genel/2018/09/14/ico-yatirim-rehberi.html) Kripto Dünyası'nın yatırım aracı olan Token'lar yani KriptoParalar'a yatırım yapmadan önce nelere dikkat etmeliyize göz atmaya başlamıştık. 
 
-Kısaca kendi araştımanızı yapmanın önemine değinmiş ve konuları şu şekilde sıralamıştık. 
+Kısaca kendi araştırmanızı yapmanın önemine değinmiş ve konuları şu şekilde sıralamıştık. 
 
 * Tanıtım Notu (Beyaz Rapor - White Paper)
 * Ekibin yetkinlikleri ve danışmanları kalitesi

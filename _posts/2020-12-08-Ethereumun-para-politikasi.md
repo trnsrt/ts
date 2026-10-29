@@ -93,7 +93,7 @@ ETH 1.0, en az bir yıl daha devam edecek. Bu süre içinde ETH 2.0'da parasın�
 ### Sonuç
 Ethereum için arzın azaltılması önemli bir konu olmakla beraber daha kritik olan nokta, talebin ne şekilde gelişeceği. Eğer ETH'ye talep olmaz ise, bu arzın kısıtlanmasının çok da önemi yok.
 
-Bitcoin için baktığınızda, kısıtlı arz ile birlikte artan talebin fiyatı artırdığını görüyorüz. Bu talep artışının en önemi nedeni, Bitcoin'in ana fonksiyonu olan değer saklama aracı olmak konusunda yıllar geçtikçe kendini kanıtlaması, insanların mevcut itibari para sistemine inançlarının zayıflaması ve Bitcoin'i sansürlenemez bir sistem olarak güvenli bulması geliyor. 
+Bitcoin için baktığınızda, kısıtlı arz ile birlikte artan talebin fiyatı artırdığını görüyoruz. Bu talep artışının en önemi nedeni, Bitcoin'in ana fonksiyonu olan değer saklama aracı olmak konusunda yıllar geçtikçe kendini kanıtlaması, insanların mevcut itibari para sistemine inançlarının zayıflaması ve Bitcoin'i sansürlenemez bir sistem olarak güvenli bulması geliyor. 
 
 Ethereum için talep argümanları farkı olmalı, zira Ethereum'un kendi parası ETH'nin BTC gibi değer saklama amacı yok. Dolayısı ile ETH'ye olan talebi, Ethereum sisteminin kullanım oranı belirleyecek. 2020 yılı ortalarında merkeziyetsiz finans alanındaki hemen hemen her uygulamanın Ethereum üzerinde yapılması bu sisteme olan talebi, dolayısıyla ETH fiyatını olumlu şekilde etkiledi. Bundan sonra talebi etkileyecek olan  Ethereum geliştiricilerinin yapacakları teknik gelişmeler ile yeni çıkacak uygulamaların ihtiyaçları karşılayıp karşılamayacağı olacak. 
 

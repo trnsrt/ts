@@ -8,7 +8,7 @@ image: /assets/bloomberg-ht-kripto-para-poster_800.jpg
 ---
 
 <img align="left" src="/assets/bloomberg-ht-kripto-para-poster_800.jpg" style="width:40%; padding-right:20px"> BloombergHT Kripto Para programında, [Sefer Yüksel](https://twitter.com/SeferYuksel)'in tekrar konuğu oldum. Şu konuları konuştuk: 
-- ABD SEC Başkanı Gary Gensler'in Bitcoin ve (belki) Ethereum'un CFTC tarafından denetlenmesi konusundaki görüşlerş
+- ABD SEC Başkanı Gary Gensler'in Bitcoin ve (belki) Ethereum'un CFTC tarafından denetlenmesi konusundaki görüşler
 - Ethereum'da son zamanlarda yaşanan sansür konusu
 - Devcon Bogota'da yaşananlar ve önümüzdeki yıl Devcon'un İstanbul'da yapılmasının Türk ekosistemine olası katkıları
 

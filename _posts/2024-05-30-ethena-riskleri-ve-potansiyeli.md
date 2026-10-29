@@ -15,7 +15,7 @@ Geçtiğimiz haftaki yazımızda stabil paralardaki son duruma göz atmış ve b
 
 Ethena'nın stabil para değil de 'sentetik para' olarak nitelediği USDe'nin bir de gelir getirici bir yanı olabiliyor. O da basılan USDe'lerin sisteme kilitlenmesi durumunda, yukarıda bahsedilen işlemden doğan kârın USDe sahibine veriliyor olması. 
 
-"Bu kâr nedir?" diye soracak olursanız: İki farklı parçası var. Birincisi nispeten daha stabil olan, ETH olarak verilen teminatın Ethereum sistemine stake edilmesinden doğan ödül. İkincisi ise teminat kadar rakamın 'short' edilmesinden doğan bir kâr (ki bu kimi zaman negatif olup zarar da yazabililyor). 
+"Bu kâr nedir?" diye soracak olursanız: İki farklı parçası var. Birincisi nispeten daha stabil olan, ETH olarak verilen teminatın Ethereum sistemine stake edilmesinden doğan ödül. İkincisi ise teminat kadar rakamın 'short' edilmesinden doğan bir kâr (ki bu kimi zaman negatif olup zarar da yazabiliyor). 
 
 USDe'nin sisteme kitlenmesi sonrası oluşturulan sUSDe tokeninin getirisi değişken olmakla birlikte %30-40'lar bandına kadar çıkabiliyor. Tabii bu kadar ciddi kâr getiren bu ürün, aynı zamanda ciddi olarak dikkat edilmesi gereken riskleri de beraberinde getiriyor. Gelin şimdi bu risklere göz atalım. 
 

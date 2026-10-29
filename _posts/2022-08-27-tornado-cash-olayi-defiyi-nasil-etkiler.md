@@ -33,7 +33,7 @@ Bu hareketin DeFi uygulamalarını (bir diğer deyişle protokollerini) ikiye b�
 |:--:| 
 | *Tornado Cash kullanan hesaplar ve o hesapların ilişkilde olduğu hesaplar. Kaynak: [Twitter @elbarto capital](https://twitter.com/ElBarto_Crypto/status/1558428428763815942)*|
 
-#### Merkeziyetsizleşme hızlanabilr mi?
+#### Merkeziyetsizleşme hızlanabilir mi?
 Diğer yandan, bu durum protokollerin gittikçe daha hızlı bir şekilde merkeziyetsizleşmesine de yol açabilir. Geliştirici ekipler herhangi bir kanuni sorumluluk altına girmemek için kendilerini dağıtarak, tüm gelişmeyi DAO'lar aracılığıyla topluluğa vermek isteyebilirler. Alternatif olarak, ekiplerin merkezlerini ABD'den daha teknoloji dostu ülkelere (örneğin son dönemde Birleşik Arap Emirlikleri bu anlamda ön plana çıkmaya başladı) taşımaları da söz konusu olabilir. Bu son konu, yani ABD'nin uygun bir kanuni altyapı sağlayamadığı için bu alandaki liderliğini kaybetmesi ihtimali, ülkedeki kanun koyucular için oldukça hassas bir nokta. İnovasyon yarışını kaybetme tehlikesi, OFAC benzeri ofislerin yapacağı müdaheleleri kısıtlamak için gerekli kanuni altyapının hazırlanması konusunda ciddi bir motivasyon kaynağı olabilir. 
 
 #### Tornado Cash kapanıp Mornado Cash açılırsa ne olacak?

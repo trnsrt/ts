@@ -56,7 +56,7 @@ Hemen hemen her sektörde Blockchain bazlı sistemleri kullanarak sektörü kök
 
 - Henüz Blockchain teknolojisinin altyapısı tam olgunlaşmadı, özellikle genel (public) Blockchain'lerin altyapılarının gelişimi oldukça yavaş bir şekilde ilerliyor. 2000'li yılların başında patlayan Startup balonunda da benzeri olmuştu. O zaman pekçok fikir vizyon olarak iyi ama zamanın çok ötesinde olduğu için başarılı olamadı (şimdi o fikirlerin bir kısmı yeniden hayata geçiriliyor). 
 
-- Sırf piyasada bu alana büyük ilgi var diye iş yapmaya çalşan kişiler var - ki bunların bir kısmı PR yapmaya çalışan ve altı boş girişimler. Örnek mi? Sierra Leone'de seçimleri Blockchain üzerinden yaptığını [iddia eden](https://techcrunch.com/2018/03/14/sierra-leone-just-ran-the-first-blockchain-based-election/) Agora ve bunu şiddetle [reddeden](https://techcrunch.com/2018/03/19/sierra-leone-government-denies-the-role-of-blockchain-in-its-recent-election/) hükümet.
+- Sırf piyasada bu alana büyük ilgi var diye iş yapmaya çalışan kişiler var - ki bunların bir kısmı PR yapmaya çalışan ve altı boş girişimler. Örnek mi? Sierra Leone'de seçimleri Blockchain üzerinden yaptığını [iddia eden](https://techcrunch.com/2018/03/14/sierra-leone-just-ran-the-first-blockchain-based-election/) Agora ve bunu şiddetle [reddeden](https://techcrunch.com/2018/03/19/sierra-leone-government-denies-the-role-of-blockchain-in-its-recent-election/) hükümet.
 
 - "Her ağacın meyvesi olmaz" derler. Her sektörün farklı farklı dinamikleri var. Dolayısıyla Blockchain de her alanda faydalı olacak diye düşünmek doğru değil. Bu nedenle Blockchain' ihtiyaç duyulmayan, böyle bir potansiyelin bulunmadığı  sektörlere giren girişimcilerin de hüsrana uğraması kaçınılmaz. 
 

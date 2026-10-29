@@ -9,7 +9,7 @@ image: /assets/basalt-bars-2173278_800.jpg
 
 Bu haftaki yazımızda, ABD'nin en büyük varlık yöneticilerinden BlackRock'ın Ethereum blokzinciri üzerine kurduğu tokenleştirilmiş menkul kıymet hizmetinden bahsedeceğiz. 
 
-Kripto dünyasının Wall Street ile olan ilişkisinde artık son safhaya geçmeye başladık. Bu durum yanlış bir şekilde Gandhi'ye ithaf edilen 'Önce seni görmezden gelirler, sonra sana gülerler, arkasından seninle savaşırlar ve sonrasında sen kazanırsın'[^1] sözünü hatırlatıyori. Bunun son örneği ise ünlü fon yöneticisi BlackRock'ın geçtiğimiz hafta içinde Ethereum ağı üzerinde çıkardığı 100 milyon ABD Doları değerindeki tokenleştirilmiş menkul kıymet oldu. Şimdi gelin önce olayı daha net anlayalım, sonrasında da neden bu kadar önemli bir olay olduğuna göz atalım: 
+Kripto dünyasının Wall Street ile olan ilişkisinde artık son safhaya geçmeye başladık. Bu durum yanlış bir şekilde Gandhi'ye ithaf edilen 'Önce seni görmezden gelirler, sonra sana gülerler, arkasından seninle savaşırlar ve sonrasında sen kazanırsın'[^1] sözünü hatırlatıyor. Bunun son örneği ise ünlü fon yöneticisi BlackRock'ın geçtiğimiz hafta içinde Ethereum ağı üzerinde çıkardığı 100 milyon ABD Doları değerindeki tokenleştirilmiş menkul kıymet oldu. Şimdi gelin önce olayı daha net anlayalım, sonrasında da neden bu kadar önemli bir olay olduğuna göz atalım: 
 
 ### BlackRock'ın kripto ile ilişkisi nereden nereye evrildi?
 BlackRock, toplam 10 trilyon ABD Doları (evet, yanlış yazım yok, tam tamına 10 trilyon!) bir portföye sahip olan dünyanın en büyük varlık yöneticisi. O kadar büyük ve önemli bir fon ki, "BlackRock bir yana diğer bütün fonlar bir yana" desek çok da yanılmış olmayız. 

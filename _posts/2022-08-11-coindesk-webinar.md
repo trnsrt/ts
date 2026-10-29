@@ -7,7 +7,7 @@ tags: videos Etkinlikler
 image: /assets/coindesk-webinar-poster_800.jpg
 ---
 
-<img align="left" src="/assets/coindesk-webinar-poster_800.jpg" style="width:40%; padding-right:20px"> [Coindesk Turkiye](https://www.coindeskturkiye.com/) tarafından düzenlenen '[Merkeziyetsiz Finans Geleneksel Finansı Nasıl Evrimleştirecek?](https://www.coindeskturkiye.com/etkinlikler/merkeziyetsiz-finans-geleneksel-finansi-nasil-evrimlestirecek-1474) isimli webinarda sevgili [Elçin Karatay](https://twitter.com/elcin_karatay) ve sevgili [Baki Er aka Defi Library](https://twitter.com/LibraryDefi) ile DeFi'nin Gelenekesel Finans'a dokunduüu yerleri ve geleceği konuştuk. Keyifli bir yayın oldu. İzlemek isterseniz aşağıda linki bulabilirsiniz. 
+<img align="left" src="/assets/coindesk-webinar-poster_800.jpg" style="width:40%; padding-right:20px"> [Coindesk Turkiye](https://www.coindeskturkiye.com/) tarafından düzenlenen '[Merkeziyetsiz Finans Geleneksel Finansı Nasıl Evrimleştirecek?](https://www.coindeskturkiye.com/etkinlikler/merkeziyetsiz-finans-geleneksel-finansi-nasil-evrimlestirecek-1474) isimli webinarda sevgili [Elçin Karatay](https://twitter.com/elcin_karatay) ve sevgili [Baki Er aka Defi Library](https://twitter.com/LibraryDefi) ile DeFi'nin Geleneksel Finans'a dokunduğu yerleri ve geleceği konuştuk. Keyifli bir yayın oldu. İzlemek isterseniz aşağıda linki bulabilirsiniz. 
 
 &nbsp;
 

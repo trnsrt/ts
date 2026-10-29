@@ -95,7 +95,7 @@ permalink: /articles/
   - 2017-18 yıllarında yaşananlar için [Ethereum'un çıkış ve inişi bir döngünün mü parçası?](/genel/2019/01/18/Ethereumun-cikis-ve-inisi-bir-dongunun-mu-parcasi.html)
   - En temel taşı olan Akıllı Kontratlar'ı anlamak için [Bu kontratlar çok akıllı: Ethereum ve Akıllı Kontratlar](/genel/2018/06/29/bu-kontratlar-cok-akilli-ethereum-ve-akilli-kontratlar.html)
   - ETH'nin değerinin nereden geldiğin anlamak için [ETH'nin değeri var mı?](/genel/2020/07/30/ETH-nin-degeri-var-mi.html)
-  - 2020 ve 2021 yıllarında ETH'nin değerini nelerin etkileyecebileceğini görmek için [Gelecekte ETH'nin değerini neler etkileyecek?](/genel/2020/08/06/gelecekte-eth-nin-degerini-neler-etkileyecek.html)
+  - 2020 ve 2021 yıllarında ETH'nin değerini nelerin etkileyebileceğini görmek için [Gelecekte ETH'nin değerini neler etkileyecek?](/genel/2020/08/06/gelecekte-eth-nin-degerini-neler-etkileyecek.html)
   - Ethereum'un para arzının nasıl işlediğini ve gelecekte nasıl gelişeceğini görmek için [](/genel/2020/12/08/Ethereumun-para-politikasi.html)
   - Ethereum topluluğunun 2021 yılında neler ile uğraşacağına bakmak için - [Ethereum'u 2021'de neler bekliyor?](/genel/2020/12/15/Ethereumu-2021-yilinda-neler-bekliyor.html]
   - Ethereum'da DeFi patlamasıyla birlikte yaşanan pahalılığı ve nasıl giderilebileceğini anlamak için - [Ethereum'un yüksek iş]em ücretleri](/genel/2020/12/21/ETHnin-yuksek-islem-ucretleri.html)

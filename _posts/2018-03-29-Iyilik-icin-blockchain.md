@@ -15,7 +15,7 @@ Bundan önceki yazılarımızda, dijital dünyada gelişen teknolojilere kısaca
 
 Bu dalga en çok da aracıları (ve güvene) en çok ihtiyaç duyulan finans kesiminin aktörlerini etkileyecek. Ama konu sadece finans sektörü ile sınırlı değil. Aracıların olduğu her sektörü ilgilendiriyor. 
 
-Bu yazımızda, finansın soğuk ve rakam dolu dünyasından biraz uzaklaşarak, Blockchain'in dünyayı daha güzelleştirecek filantrophi ve insani yardım işleri için nasıl kullanıldığına bakalım dilerseniz. 
+Bu yazımızda, finansın soğuk ve rakam dolu dünyasından biraz uzaklaşarak, Blockchain'in dünyayı daha güzelleştirecek filantropi ve insani yardım işleri için nasıl kullanıldığına bakalım dilerseniz. 
 
 --
 &nbsp;

@@ -70,7 +70,7 @@ Kurumsal yatırımcılar, yeni teknolojiler karşılığında klasik anlamda iş
 |:--:| 
 | *[Giphy](https://giphy.com/gifs/movie-black-and-white-vintage-l49JCCwJ2zlJUQF1u)*|
 
-Örneğin yukarıda bahsettiğimiz madencilik işi öyle basitce anlaşılacak gibi değil. Daha doğrusu işi layıkı ile yapmak istediğinizde ciddi bir teknik donanıma ihtiyacınız var. Kullanacağınız makinalar için yğklü bir yatırım yapacaksınız, sonra enerji harcayacaksınız? Sonra yatırımı nereye yapacaksınız, maliyetler nerede düşük?
+Örneğin yukarıda bahsettiğimiz madencilik işi öyle basitce anlaşılacak gibi değil. Daha doğrusu işi layıkı ile yapmak istediğinizde ciddi bir teknik donanıma ihtiyacınız var. Kullanacağınız makinalar için yüklü bir yatırım yapacaksınız, sonra enerji harcayacaksınız? Sonra yatırımı nereye yapacaksınız, maliyetler nerede düşük?
 
 Ayrıca her Blockchain kendi özelinde farklılık gösteriyor, madencilik olarak da öyle. Gerekli altyapı farklı, enerji ihtiyaçları farklı. 
 

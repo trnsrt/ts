@@ -56,7 +56,7 @@ Hemen belirtelim, yaklaşık %1-2 civarında bir yatırımını kripto parada de
 
 #### Raoul Pal
 
-<img align="left" src="/assets/Raoul-Pal.jpg" style="width:20%; padding-right:20px"> [Raoul Pal](https://twitter.com/RaoulGMI), Goldman Sachs kökenli bir yatırım uzmanı. 36 yaşında iken fon yöneticiliğinden emekli olup, şu an finans dünyasında saygın bir yere sahip olan [Real Vision](https://www.realvision.com) isimli web sitesini kuruyor. Aynı zamanda [The Global Macro Investor](http://www.globalmacroinvestor.com/about-us/) adında fonlara araştırma hizmeti veren bir yayın çıkarıyıor. 
+<img align="left" src="/assets/Raoul-Pal.jpg" style="width:20%; padding-right:20px"> [Raoul Pal](https://twitter.com/RaoulGMI), Goldman Sachs kökenli bir yatırım uzmanı. 36 yaşında iken fon yöneticiliğinden emekli olup, şu an finans dünyasında saygın bir yere sahip olan [Real Vision](https://www.realvision.com) isimli web sitesini kuruyor. Aynı zamanda [The Global Macro Investor](http://www.globalmacroinvestor.com/about-us/) adında fonlara araştırma hizmeti veren bir yayın çıkarıyor. 
 
 İlk olarak 2017 yılında Bitcoin yatırımı yapan Raoul Pal, sonrasında 2017 Haziran'ında yaptığı açıklamada [Bitcoin'in bir çılgınlık olduğunu, herhangi bir para saklama değeri olmadığını belirtip tüm Bitcoin'lerini sattığını](https://www.forbes.com/sites/oliviergarret/2017/06/12/raoul-pal-bitcoin-is-mania-and-not-a-store-of-value-i-sold-out-last-week/?sh=3247723f65ad) söylüyor. 
 
