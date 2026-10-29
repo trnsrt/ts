@@ -30,7 +30,7 @@ Facebook neden bir kripto para çıkarıyor? Soruyu biraz daha açsak iyi olacak
 
 #### Facebook'un derdi ne?
 
-Facebook özünde Google ile birlikte dünyanın en büyük iki reklam ajansından biri. Ve kurduğu benzersiz iş modelinin temeli kullanıcı bilgilerini toplama ve bu bilgiler odağında kullanıcıya nokta atış reklam yapmaya dayanıyor. Ancak Facebook halka açık bir şirket ve Wall Street ondan sürekli olarak kârını artırmasını istiyor. Facebook'un elindeki en büyük varlık ne? 2,3 milyar [kullanıcı](https://zephoria.com/top-15-valuable-facebook-statistics/). Bunlardan bir yere kadar reklam geliri elde edebilir. Ama daha fazlasını vermesi lazım kârâ susamış fonlara, yoksa hisse senedi tepetaklak aşağı gider. 
+Facebook özünde Google ile birlikte dünyanın en büyük iki reklam ajansından biri. Ve kurduğu benzersiz iş modelinin temeli kullanıcı bilgilerini toplama ve bu bilgiler odağında kullanıcıya nokta atış reklam yapmaya dayanıyor. Ancak Facebook halka açık bir şirket ve Wall Street ondan sürekli olarak kârını artırmasını istiyor. Facebook'un elindeki en büyük varlık ne? 2,3 milyar [kullanıcı](https://web.archive.org/web/20190704195623/https://zephoria.com/top-15-valuable-facebook-statistics/). Bunlardan bir yere kadar reklam geliri elde edebilir. Ama daha fazlasını vermesi lazım kârâ susamış fonlara, yoksa hisse senedi tepetaklak aşağı gider. 
 
 Fotoğraflarınız, beğendiğiniz makaleler, sevdiklerinizin doğum günlerini kutlamak gibi özel hayatınızla ile ilgili sizi sizden iyi tanıyan Facebook, şimdi Libra ile sizin harcamalarınızı da görmek ve ona etki etmek istiyor. 
 
