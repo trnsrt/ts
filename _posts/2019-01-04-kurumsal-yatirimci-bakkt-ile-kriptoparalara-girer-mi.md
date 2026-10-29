@@ -28,7 +28,7 @@ Bunun ne faydası var? Kanuni altyapıdaki boşluklar ve belirsizlikler nedeniyl
 
 Peki ne tip bir hizmet sunuyor bu Bakkt derseniz: Öncelikle, Amerika'daki kanuni otoriteler yatırım fonlarının aldıkları varlıkların emanet hesaplarda tutulmasını isterler (ki paralar bir yere kaçıp bu fonlara yatırım yapan - özellikle emeklilik fonları - kişilerin paraları yanmasın diye). Şu anda KriptoParalar için böyle bir emanet hesabı sistemi yok henüz. Bakkt, bu anlamda kanuni otoriteleri memnun edecek bir emanetçi/muhafız (custodian) olma yolunda çalışmalar yapıyor. Bu emanetçilik Bakkt'ın projelerinin en önemlisi ve diğer çıkarmayı planladığı ürünler için de bir altyapı olacak. 
 
-Bakkt'ın çıkarmayı planladığı bir diğer ürün ise şu: Vadeli işlemleri (Futures) duymuşssunuzdur. İleride belli bir tarihte belli bir varlığı alma ya da satma sözleşmesi. Örneğin "31 Aralık 2020 tarihinde 1 Euro'yu 1.2 ABD Doları karşılığı alacağım" gibi. Bakkt şimdi bu işlemlerin Bitcoin üzerinden yapılmasını da sağlıyor. 
+Bakkt'ın çıkarmayı planladığı bir diğer ürün ise şu: Vadeli işlemleri (Futures) duymuşsunuzdur. İleride belli bir tarihte belli bir varlığı alma ya da satma sözleşmesi. Örneğin "31 Aralık 2020 tarihinde 1 Euro'yu 1.2 ABD Doları karşılığı alacağım" gibi. Bakkt şimdi bu işlemlerin Bitcoin üzerinden yapılmasını da sağlıyor. 
 
 Bakkt'ın diğer ürünleri konusunda geçtiğimiz Ağustos ayında [İsmail Hakkı Polat](https://ismailhpolat.com/) da güzel bir [yazı](https://ismailhpolat.com/bitcoinin-can-simidi-ccbdb84232b8) yazmıştı. Bakkt, Starbucks ve Microsoft gibi iş ortaklarına "dijital varlıkların alım satımına" fayda sağlamak hedefine uygun olarak alışveriş sistemlerinde kullanacakları ürünler kurguluyor.
 

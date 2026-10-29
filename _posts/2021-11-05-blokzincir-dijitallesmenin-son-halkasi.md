@@ -44,7 +44,7 @@ Aslında buraya kadar her şey çok güzel ancak maalesef dijital dünyadaki bu 
 
 İşte blokzincir özünde yukarıda bahsettiğimiz üç sıkıntıyı aşmayı sağlayacak bir teknoloji olarak kişilerin bu aracı kurumlar olmadan birbirleri ile ekonomik ilişkide bulunmalarına olanak sağladı. Şifreleme teknolojileri ile zaten kişilerin dijital dünyada güvenli bir şekilde dolaşmalarına olanak sağlanmıştı. Blokzincir teknoloji, kişilerin bir aracı olmadan dijital varlık tutup ona ulaşabilmesine ve başkasına transfer edebilmesine olanak sağladı. 
 
-Blokzincir bu sorunları nasıl aştı? Birkaç temel özelilk ile. Bunlardan en önemlisi şeffaflık. Tekrar edelim: Blokzincir dediğimiz aslında bir yazılım. Bu yazılım herkes tarafından görülüp incelenebiliyor. Yazılım olarak kopyalanabiliyor ancak defter olarak tutulan işlemler kopyalanmıyor ya da geriye doğru değiştirilemiyor. 
+Blokzincir bu sorunları nasıl aştı? Birkaç temel özellik ile. Bunlardan en önemlisi şeffaflık. Tekrar edelim: Blokzincir dediğimiz aslında bir yazılım. Bu yazılım herkes tarafından görülüp incelenebiliyor. Yazılım olarak kopyalanabiliyor ancak defter olarak tutulan işlemler kopyalanmıyor ya da geriye doğru değiştirilemiyor. 
 
 Nasıl emin oluyoruz değiştirilemediğine? Sistemin devamını dünyanın her yerinde onbinlerce makine sağlıyor. Bu makineler sistemi değişmez halde tuttukları sürece ödüllendiriliyorlar. Yani içinde kendi kendine doğru ve tutarlı bir şekilde devam etmesini sağlayacak bir mekanizma oluşturulmuş ve bu makine on yıldır tıkır tıkır işliyor. 
 

@@ -89,7 +89,7 @@ Kullanıcı kimliklerini zincir üstünde yarattıkları içerikleri zincir dı�
 
 #### **…ve diğerleri**
 
-Başta da belirttiğimiz gibi merkezi sosyal medya platformlarına rakip olarak ortaya çıkmış pek çok uygulama var. Twitter’in eski CEO’su Jack Dorsey tarafından kurulan [BlueSky](https://bsky.app/), bir ara fenomenlerin takipçileri üzerinden para kazandığı friend.tech ya da yine yaygın olarak kullanılan [mastadon](https://mastodon.social/explore) [bu listedeki isimlerden](https://github.com/2gatherproject/decentralized-social-apps-guide) sadece birkaçı. 
+Başta da belirttiğimiz gibi merkezi sosyal medya platformlarına rakip olarak ortaya çıkmış pek çok uygulama var. Twitter’in eski CEO’su Jack Dorsey tarafından kurulan [BlueSky](https://bsky.app/), bir ara fenomenlerin takipçileri üzerinden para kazandığı friend.tech ya da yine yaygın olarak kullanılan [Mastodon](https://mastodon.social/explore) [bu listedeki isimlerden](https://github.com/2gatherproject/decentralized-social-apps-guide) sadece birkaçı. 
 
 ### Merkeziyetsiz sosyal medyanın sorunları ve çözümler
 

@@ -14,7 +14,7 @@ Geçtiğimiz yazılarda Blockchain bazlı dağıtık sistemlerin faydalı olabil
 
 ### Blockchain çevre için neden önemli?
 
-İçinde yaşadığımız dünyayı ciddi şekilde kirlettiğimizin ve kaynakları geri döndürülemez biçimde yok ettğimizin artık belgeli hale gelmesi, hükümetlerin sorunu çözmeye yönelik ortak çabalarına 1990'lardan beri giderek artan bir hız kazandırdı. Bu çabaların sonuçlarını ise yeni yeni görmeye de başlıyoruz. 
+İçinde yaşadığımız dünyayı ciddi şekilde kirlettiğimizin ve kaynakları geri döndürülemez biçimde yok ettiğimizin artık belgeli hale gelmesi, hükümetlerin sorunu çözmeye yönelik ortak çabalarına 1990'lardan beri giderek artan bir hız kazandırdı. Bu çabaların sonuçlarını ise yeni yeni görmeye de başlıyoruz. 
 
 Örneğin 90'lı yıllarda artan CFC (klorofluorokarbon) gazı nedeniyle yaklaşık %10 seviyesinde incelen ozon tabakası bu gazın kullanımına yönelik alınan tedbirler sonucu 2000 senesinden itibaren her on yılda %3 oranında kalınlık artışı göstermeye [başladı](https://news.un.org/en/story/2018/11/1024842). Harika haber. Yeterli mi? Hayır. Bu daha bir başlangıç ve üstelik şu anda Çin dahil kimi ülkelerin hala ürettikleri kimi kimyasallar ile ozon tabakası için bir tehdit olduğu [iddia ediliyor](https://www.bbc.com/news/newsbeat-46107843).
 

@@ -7,7 +7,7 @@ tags: videos Etkinlikler
 image: /assets/paranin-yonu-211026-poster-800.jpg
 ---
 
-<img align="left" src="/assets/paranin-yonu-211026-poster-800.jpg" style="width:40%; padding-right:20px"> Ekotürk TV'de sabah yayınlanan Piyasa Yönü programında [Murat Tufan](https://twitter.com/muratufan)'ın konuğu olarak kriptopara ve djital dünyaya ilişkin keyifli bir sohbet yaptık. Sabah programı olmasına rağmen Murat Bey'in canlı sunumu ile oldukça keyifli bir program olduğunu söyleyebilirim. 
+<img align="left" src="/assets/paranin-yonu-211026-poster-800.jpg" style="width:40%; padding-right:20px"> Ekotürk TV'de sabah yayınlanan Piyasa Yönü programında [Murat Tufan](https://twitter.com/muratufan)'ın konuğu olarak kriptopara ve dijital dünyaya ilişkin keyifli bir sohbet yaptık. Sabah programı olmasına rağmen Murat Bey'in canlı sunumu ile oldukça keyifli bir program olduğunu söyleyebilirim. 
 
 &nbsp;Türkiye'de kriptoparalar, Türkiye'de yaşananlar ve yatırımcının kendini koruması için neler yapması gerektiğini konuştuk. İngilizce yayınlanan programın linki aşağıda: 
 &nbsp;

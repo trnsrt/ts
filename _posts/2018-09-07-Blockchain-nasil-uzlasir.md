@@ -9,7 +9,7 @@ image: /assets/walking-crowd.gif
 
 
 
-Önceki [yazımızda](/genel/2018/08/31/bizans-generalinin-problemi-uzlasmak.html) bağımsız (dağıtık), birbirine güvenmeyen oyuncuların nasıl uzlaşıp beraberce hareket ettiklerine bakmıştık. Kısaca bahsedersek, Bizans Hata Tolerans diye adlandırılan bir sistemi kullanan oyuncular, kendilerine gelen mesajların içinde çoğunluğun söylediğ mesajı uygulayarak ilerliyorlar, böylece ortada kararsızlık söz konusu olmuyor idi. 
+Önceki [yazımızda](/genel/2018/08/31/bizans-generalinin-problemi-uzlasmak.html) bağımsız (dağıtık), birbirine güvenmeyen oyuncuların nasıl uzlaşıp beraberce hareket ettiklerine bakmıştık. Kısaca bahsedersek, Bizans Hata Tolerans diye adlandırılan bir sistemi kullanan oyuncular, kendilerine gelen mesajların içinde çoğunluğun söylediği mesajı uygulayarak ilerliyorlar, böylece ortada kararsızlık söz konusu olmuyor idi. 
 
 ### Sorular, sorular...
 

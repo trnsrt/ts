@@ -7,7 +7,7 @@ tags: videos Etkinlikler
 image: /assets/ozu-blockchain-club-poster_800.jpg
 ---
 
-<img align="left" src="/assets/ozu-blockchain-club-poster_800.jpg" style="width:20%; padding-right:20px"> [Özyeğin Üniversitesi Blockchain Kulübü](https://twitter.com/OzUBlockchain) tarafından düzenlenen DeFi Üzerine söyleşide Özyeğin Üniversitesi'nin gençlerinin sorularını yanıtlamaya çalıştım. Yıllar sonra bir zamanlar iki yılımı geçirdiğim üniversiteye dönmek güzeldi. Sonrasında kulüp üyeleriyle kulüp odasında da oturma firsatı buldum. ÖzÜ Blockchain'in önümüzdeki dönemde güzel işler yapacağına inanıyorum. 
+<img align="left" src="/assets/ozu-blockchain-club-poster_800.jpg" style="width:20%; padding-right:20px"> [Özyeğin Üniversitesi Blockchain Kulübü](https://twitter.com/OzUBlockchain) tarafından düzenlenen DeFi Üzerine söyleşide Özyeğin Üniversitesi'nin gençlerinin sorularını yanıtlamaya çalıştım. Yıllar sonra bir zamanlar iki yılımı geçirdiğim üniversiteye dönmek güzeldi. Sonrasında kulüp üyeleriyle kulüp odasında da oturma fırsatı buldum. ÖzÜ Blockchain'in önümüzdeki dönemde güzel işler yapacağına inanıyorum. 
 
 &nbsp;
 &nbsp;

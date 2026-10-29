@@ -30,7 +30,7 @@ Merkezi bir yapısı olmadan kuruldu Bitcoin; ne bir merkezi ofisi var, ne de on
 
 #### Libra
 
-Libra işte bu iki başarılı denemein ardından ortaya çıkan üçüncü büyük deneme. Facebook'un artık tıkanmaya başlayan büyüme trendine destek olsun diye çıkardığı uzun vadeli bir çalışma. 
+Libra işte bu iki başarılı denemenin ardından ortaya çıkan üçüncü büyük deneme. Facebook'un artık tıkanmaya başlayan büyüme trendine destek olsun diye çıkardığı uzun vadeli bir çalışma. 
 
 Neden tıkanıyor Facebook? Dünyada 2.3 milyar kişilik bir kitleye ulaşmış durumda. Daha da fazla insana da ulaşacak, orası kesin ancak artık eski hızında değil. Yeni nesil fazla kullanmıyor diye onlara hitap eden Instagram'ı satın aldı. Sonrasında insanların haberleşmede en sık kullandığı uygulama olan Whatsapp'ı bünyesine kattı. Artık ulaşacağı insan sayısı azaldı. Elinde tuttuğu bu insanlara Facebook aracılığıyla reklama boğarak para kazanmaya çalışıyor ama onun da bir sınırı var. Bu insanları daha fazla sağması lazım. İşte burada da Çin'de bulunan WeChat'in yolundan giderek sınır ötesi para transferlerine aracılık etmeyi planlıyor.
 

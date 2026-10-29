@@ -61,7 +61,7 @@ Ankara’daki lise yıllarından sonra bu sefer İstanbul’da Boğaziçi Ünive
 &nbsp;
 
 ### İş Hayatındaki İlk Dönem
-Sert, üniversite sonrası hemen iş hayatına giriyor. Önce Arthur Andersen’da denetçi olarak başlayan Sert; buarada  muhasebenin özünü anlayıp, finansal tabloları okuyup yorumlayabilmeyi deneyimliyor. Daha sonra ise iş hayatına Garanti Bankası’nda şirket satın almaları uzmanı olarak devam ediyor. Yatırım bankacılığı gerek Türkiye’nin genel yapısını, gerekse önde gelen şirketlerini tanıma fırsatını kendisine veriyor. Bunun yanında teknik olarak değerleme yapmayı da burada öğreniyor. Az bilinen bir konuyu (şirket birleşmesi ve halka arz gibi) herkesin anlayacağı şekilde anlatabilmeyi becerisi ve alışkanlığını Garanti Bankası’nda çalıştığı zamanlarda ediniyor.
+Sert, üniversite sonrası hemen iş hayatına giriyor. Önce Arthur Andersen’da denetçi olarak başlayan Sert; bu arada  muhasebenin özünü anlayıp, finansal tabloları okuyup yorumlayabilmeyi deneyimliyor. Daha sonra ise iş hayatına Garanti Bankası’nda şirket satın almaları uzmanı olarak devam ediyor. Yatırım bankacılığı gerek Türkiye’nin genel yapısını, gerekse önde gelen şirketlerini tanıma fırsatını kendisine veriyor. Bunun yanında teknik olarak değerleme yapmayı da burada öğreniyor. Az bilinen bir konuyu (şirket birleşmesi ve halka arz gibi) herkesin anlayacağı şekilde anlatabilme becerisi ve alışkanlığını Garanti Bankası’nda çalıştığı zamanlarda ediniyor.
 
 
 &nbsp;
