@@ -2,6 +2,8 @@
 layout: page
 title: Sorularla Web3
 permalink: /Sorularla_Web3/
+redirect_from:
+  - /sorularla_web3/
 ---
 
 | ![Sorularla Web3](/assets/Sorularla_Web3_kapak_x.jpg)|

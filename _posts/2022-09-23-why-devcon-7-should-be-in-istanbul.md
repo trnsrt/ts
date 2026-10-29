@@ -5,6 +5,7 @@ date:   2022-09-23 22:47:56 +0300
 categories: Genel
 tags: Yazılar, Articles
 image: /assets/galata-4043037_800.jpg
+lang: en
 ---
 
 Hosting Ethereum's biggest event in Turkey can build on what is already strong interest in blockchain and crypto technology.

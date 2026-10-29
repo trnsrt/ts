@@ -5,6 +5,7 @@ date:   2021-07-31 17:47:56 +0300
 categories: Genel
 tags: Yazılar, Articles
 image: /assets/Bitcoin-white-paper_800.png
+lang: en
 ---
 
 There are many theories about who Satoshi Nakamoto is. Let's briefly address this 'mystery'. 

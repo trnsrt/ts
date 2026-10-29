@@ -5,6 +5,7 @@ date:   2021-04-30 17:47:56 +0300
 categories: Genel
 tags: Yazılar, Articles
 image: /assets/fredgraph_monetary_base_800.png
+lang: en
 ---
 
 We continue to look at the latest saga in the evolution of web technologies in this piece: 

@@ -5,6 +5,7 @@ date:   2022-11-21 10:47:56 +0300
 categories: Genel
 tags: Yazılar, NFT, Articles
 image: /assets/photos-315170_800.jpg
+lang: en
 ---
 
 We continue to look that various ways that an NFT would add value to an object with two important issues: IP rights and ease of transfer. 

@@ -5,6 +5,7 @@ date:   2022-06-05 17:47:56 +0300
 categories: Genel
 tags: Yazılar, NFT, Articles
 image: /assets/crowd-3513215_800.jpg
+lang: en
 ---
 
 We continue our series with fungibility and non-fungibility concepts. 

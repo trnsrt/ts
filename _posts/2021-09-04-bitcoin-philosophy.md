@@ -5,6 +5,7 @@ date:   2021-09-04 17:47:56 +0300
 categories: Genel
 tags: Yazılar, Articles
 image: /assets/btc-5019623_800.jpg
+lang: en
 ---
 
 Let's have a look at the philosophy behind Bitcoin:
