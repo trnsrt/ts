@@ -28,7 +28,7 @@ Bu durumda o varlığı gelecekte belli bir fiyattan satma hakkını almak ister
 
 Bu size ne verir? En azından kafa rahatlığı. Bilirsiniz ki, gelecekte o varlığın fiyatı korkunç bir şekilde düşerse bile, siz baştan belirlenmiş bir fiyattan varlığı satıp zarar etmekten kurtulabilirsiniz. Eğer korktuğunuz gerçekleşmez ve varlığın değeri tam tersine yükselirse, o zaman da opsiyon maliyeti dışında hiç bir zararınız olmaz. Satma hakkını kullanmaz ve varlığı değerlenmiş haliyle elinizde tutmaya devam edersiniz (ya da satıp kârı realize edersiniz).
 
- | ![skyscraper_cleaners](/assets/glass-facade-817732_640.jpg)|
+ | ![Cam kaplı gökdelen cephesinde ip ile asılı çalışan temizlik işçileri, stok fotoğraf](/assets/glass-facade-817732_640.jpg)|
 |:--:| 
 | *Image by [Gerhard Bögner](https://pixabay.com/users/bogitw-851103/) from [Pixabay](https://pixabay.com/)*|
 
@@ -71,7 +71,7 @@ Merkeziyetsiz opsiyon piyasasının en büyük oyuncusu [Hegic](https://www.hegi
 
 Hegic, yaklaşık 100 milyon ABD Doları'na yaklaşan üzerine kilitli para miktarı ile son zamanlarda diğer oyuncuların ciddi şekilde önüne geçmiş durumda (kilitli para miktarı, yatırımcıların havuzlara koyduğu para demek). Burada Hegic’in havuzunun henüz Ekim 2020’de başladığının da altını çizelim. İkinci ile arasındaki farka bakınca bu çok daha iyi anlaşılıyor (her ne kadar Opyn farklı bir sistem izliyor olsa da).. 
 
- | ![hegic_vs_opyn](/assets/hegic_vs_opyn_TVL_v2.png)|
+ | ![Hegic ve Opyn havuzlarındaki kilitli miktarı karşılaştıran grafik: Hegic 90 milyon doları aşıyor, Opyn düşük](/assets/hegic_vs_opyn_TVL_v2.png)|
 |:--:| 
 | *Hegic ve Opyn'da kilitlenen toplam miktar Kaynak:[DeFiPulse](https://defipulse.com/)*|
 

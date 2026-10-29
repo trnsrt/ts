@@ -31,7 +31,7 @@ Bakın Bitcoin ya da diğer Blockchain bazlı teknolojilerde bahsettiğimiz "gü
 
 &nbsp;
 
-| ![dilbert-smart-contracts-400.png](/assets/dilbert-smart-contracts-400.png) | 
+| ![Dilbert'ten iki kare: 2015'te 'blockchain', 2017'de 'akıllı kontrat' diye tekrarlanan moda kelimeler](/assets/dilbert-smart-contracts-400.png) | 
 |:--:| 
 | *Yeni moda: "Akıllı Kontratlar"* |
 

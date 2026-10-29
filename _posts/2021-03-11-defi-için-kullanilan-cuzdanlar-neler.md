@@ -12,7 +12,7 @@ DeFi için yüzlerce cüzdan var.  Bu yazımızda gelin mobil ve tarayıcı bazl
 
 DeFi için genel olarak online, mobil ya da hardware cüzdanlar kullanılıyor. Mobil cüzdan dediğimiz aslında bir uygulama. Telefonunuzun işletim sistemine göre Apple Store ya da Google Play üzerinden indirip çalıştırıyorsunuz. 
 
-| ![e-wallet](/assets/money-5059442_800.jpg)|
+| ![İki telefon arasında euro çantası ve dolar banknotunun gösterildiği, para transferini anlatan illüstrasyon](/assets/money-5059442_800.jpg)|
 |:--:| 
 | *Image by [mohamed Hassan](https://pixabay.com/users/mohamed_hassan-5229782/) from [Pixabay](https://pixabay.com/)*|
 

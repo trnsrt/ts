@@ -36,7 +36,7 @@ Peki Bitcoin üzerinde benzer standartlar kurulamaz mıydı? Kurulabilirdi tabii
 
 İşte, Bitcoin'in bu durağan yapısından sıkılan bir kişi, geçtiğimiz yıl son Bitcoin güncellemesi olan Taproot'u kullanarak Bitcoin'i tekrar eğlenceli hale getirmeyi başardı. Ordinals adı verilen bir standart ile, Bitcoin ağı üzerine NFT yazılması ve bu NFT'lerin alınıp satılmasını sağladı. Ordinals oldukça başarılı bir standart olarak, Bitcoin üzerindeki işlem gelirlerini ciddi bir oranda artırdı. 
 
-| ![bitcoin-islem-ucretleri](/assets/bitcoin-ordinals-islem-ucretleri.png)|
+| ![2023-2024 arası Bitcoin işlem ücretleri sütun grafiği; Ordinals ve BRC-20 işlemlerinin ücret artışlarını gösteriyor](/assets/bitcoin-ordinals-islem-ucretleri.png)|
 |:--:| 
 | *Bitcoin sisteminde ödenen işlem ücretleri (kırmızı ve gri olanlar ordinals standardı kullanılarak yapılan işlemlere ödenen ücretler). Normal transferler hâlâ yüksek olsa da, kimi dönemlerde BRC-20 işlemlerin ciddi artış gösterdiği görülüyor. Kaynak: [Dune Analytics @cryptokoryo](https://dune.com/cryptokoryo/brc20)*|
 
@@ -92,7 +92,7 @@ Runes'un BRC-20'ye göre belki de tek ciddi dezavantajı token transferlerinde b
 ### Peki ne işe yarayacak bu Runes?
 Runes, bir standart olarak Bitcoin üzerinde token yaratılmasını sağlıyor olacak. Bu tokenlerin ne işe yarayacağını şu andan kestirebilmek zor. Tek bildiğimiz Bitcoin üzerinde çok ciddi bir değer tutulmakta ancak bu değer atıl olarak duruyor.  
 
-| ![bitcoin-islem-potansiyeli](/assets/bitcoin-token-potansiyel_v2.png)|
+| ![Bitcoin, Ethereum ve Solana'da piyasa değeri ile zincir üzerindeki token değerini karşılaştıran sütun grafik](/assets/bitcoin-token-potansiyel_v2.png)|
 |:--:| 
 | *Bitcoin üzerinde çok ciddi bir değer dururken, üzerinde bulunan tokenlerin değeri Ethereum ve Solana’ya göre neredeyse yok denecek kadar az. Kaynak: [Franklin Templeton Digital Assets](https://twitter.com/FTI_DA/status/1779979775651561691)*|
 

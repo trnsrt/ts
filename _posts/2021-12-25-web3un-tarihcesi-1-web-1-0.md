@@ -13,7 +13,7 @@ Son zamanlarda en sık konuşulan konulardan biri Web3 oluyor. Gelin isterseniz 
 
 Aslına bakarsanız Web 1 dediğimiz internetin ilk başlangıcı. Internetin nasıl başladığını artık hepimiz aşağı yukarı biliyoruz ama kısaca tekrar hatırlayalım: 
 
-| ![web-1_0](/assets/technology-g0454e447f_800.jpg)|
+| ![Mavi ve bej tonlarında 0 ve 1 rakamlarından oluşan soyut desen, Web 1.0 yazısının kapak görseli](/assets/technology-g0454e447f_800.jpg)|
 |:--:| 
 | *Image by [chenspec](https://pixabay.com/users/chenspec-7784448/) from [Pixabay](https://pixabay.com/)*|
 

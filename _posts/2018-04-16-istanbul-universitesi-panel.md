@@ -23,6 +23,6 @@ Panelistler:
 - [Doç. Dr. Serra Esen Sarıoğlu](https://tr.linkedin.com/in/serra-eren-sario%C4%9Flu-2a81376) - Moderatör
 
 
- ![](/assets/DSC_0207_v2.JPG)           |  ![](/assets/DSC_0189_v2.JPG)
+ ![Panel salonunda masada oturan panelistler; arkada projeksiyonda blockchain görseli](/assets/DSC_0207_v2.JPG)           |  ![Panel salonunda projeksiyon eşliğinde yapılan sunum ve dinleyici kitlesi](/assets/DSC_0189_v2.JPG)
 :-------------------------:|:-------------------------:
  *Panelistler*  |  *Sunum*

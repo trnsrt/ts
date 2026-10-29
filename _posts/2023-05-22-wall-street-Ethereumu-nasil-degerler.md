@@ -15,7 +15,7 @@ Tabii bu dediğimiz durum, belirli ağların oturması ve değer yaratmaya başl
 
 İşte Wall Street'in önemli oyuncularından VanEck (ki ETF'leri ile ünlü olan bu fonun yönettiği 76 milyar ABD Dolarından fazla parası var) son gelişmeler ışığında Ethereum'un önümüzdeki dönemdeki nakit akımlarını tahmin etmeye [çalışmış](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-ethereum-price-prediction-118k-by-2030/). Gelin hep birlikte Wall Street'in Ethereum'un şu anki iş modelini ve geleceğini nasıl değerlendirdiğine bir göz atalım.
 
-| ![wall-street](/assets/wall-street-4758079_800.jpg)|
+| ![Wall Street tabelası, Wall Street'in Ethereum değerlemesine bakışını anlatan yazının görseli](/assets/wall-street-4758079_800.jpg)|
 |:--:| 
 | *Image by [Tumisu ](https://pixabay.com/users/tumisu-148124/) from [Pixabay](https://pixabay.com/)*|
 
@@ -31,7 +31,7 @@ Ethereum internet üzerinde ticaretin güvenli bir şekilde yapılmasını sağl
 ### Peki gelir modeli ne?
 Ethereum'un sattığı bu alan üzerindeki her tür aktivite gelir olarak sayılıyor. Bu gelirler birkaç temel kaleme ayrılmış. Baz, kötümser (ayı) ve iyimser (boğa) olarak adlandırılan bu senaryolara göre ETH'nin gelir kalemlerinin özetini aşağıdaki tabloda bulabilirsiniz.
 
-| ![VanEck_gelir_kalemleri](/assets/ETH-gelir-senaryosu-VanEck.png)|
+| ![VanEck'in ETH için 2030 gelir tablosu: bugün 2.539, baz senaryoda 50.985 milyon dolar](/assets/ETH-gelir-senaryosu-VanEck.png)|
 |:--:| 
 | *ETH'nin 2030 yılında beklenen gelir kalemleri. Kaynak: [VanEck Research](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-ethereum-price-prediction-118k-by-2030/)*|
 
@@ -67,7 +67,7 @@ Uzun vadede, Ethereum üzerindeki işlemlerin %98'inin ikinci seviye çözümler
 
 Biliyorum, pek çoğunuz üst kısımları okumadan buraya atladı. Aşağıda, yukarıda verilen kriterler baz olarak oluşturulmuş üç farklı senaryoya göre kullanılan varsayımları ve sonucunda ETH'nin 2030 yılında alması beklenen değerleri bulacaksınız. Değerin bu kadar dipte ve ayda bulunmasının temel nedeni, blokzincir gibi yeni ve gelişmekte olan bir teknolojide bundan 7 yıl sonrasını tahmin etmeye çalışmanın imkansızlığı. 
 
-| ![VanEck_ETH_tum-varsayimlar](/assets/ETH-tum-senaryolar-VanEck_v2.png)|
+| ![VanEck'in ETH değerleme varsayımları tablosu; baz, kötümser ve iyimser 2030 senaryoları](/assets/ETH-tum-senaryolar-VanEck_v2.png)|
 |:--:| 
 | *ETH'nin 2030 yılı değerlemesinin tüm varsayımları. Kaynak:[VanEck Research](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-ethereum-price-prediction-118k-by-2030/)*|
 

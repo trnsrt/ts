@@ -37,7 +37,7 @@ Sonuç olarak toplamda çalınan paranın yaklaşık 53 milyon ABD Dolarlık kı
 #### Saldırının CRV fiyatına etkisi
 Olay sadece dört havuzun boşaltılması ile sınırlı kalmadı. Havuzların boşaltıldığını gören diğer havuzlardaki likidite sağlayıcılar paralarını platformdan hızla çekmeye başladılar. Curve havuzlarına kilitli para miktarı 3.1 milyar ABD Dolarından 1.7 milyar ABD Dolarına kadar düştü. 
 
-| ![curve-kilitli-miktar](/assets/curve_tvl_defillama_2308_800.png)|
+| ![Curve saldırısı sonrası Curve havuzlarındaki kilitli değerin 2023 Temmuz-Eylül arasında sert düşüşü](/assets/curve_tvl_defillama_2308_800.png)|
 |:--:| 
 | *Saldırının Curve havuzlarına etkisi. Kaynak: [DeFiLlama](https://defillama.com/protocol/curve-finance)*|
 

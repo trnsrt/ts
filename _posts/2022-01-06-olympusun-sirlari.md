@@ -14,7 +14,7 @@ Geçtiğimiz [yazıda](/genel/2021/12/24/olympus-nasil-defi-dunyasinin-gozdesi-o
 Kısa bir özet geçersek:
 Olympus, ilk zamanlardaki DeFi protokollerinin aksine, likidite sağlamak için çevreye bedava teşvik vermek yerine, bu likiditeyi satın alıyordu. Eski DeFi protokolleri likiditeyi geçici olarak kiralıyor ve karşılığında kendi yönetim tokenlerini dağıtıyorlar, Olympus ise likidite havuzlarına katılım paylarını bono ihracı yoluyla satın alıyor karşılığında kendi yönetim tokeni olan OHM'yi veriyor. 
 
-| ![Olympus_dagi](/assets/2327758_1289e37434_o_800.jpg)|
+| ![Bulutlar arasından karlı zirveleri görünen Olympus Dağı manzarası; yazının adına gönderme](/assets/2327758_1289e37434_o_800.jpg)|
 |:--:| 
 | *Olympus Dağı Kaynak: [Flickr](https://www.flickr.com/photos/jasonpratt/2327758/in/photostream/) by [Jason Pratt](https://www.flickr.com/photos/jasonpratt/) published under [CC by 2.0 license](https://creativecommons.org/licenses/by/2.0/)*|
 
@@ -97,7 +97,7 @@ Olympus, rezerv para olma hedefiyle yola çıkan bir protokol. İnandıkları ve
 
 Aslına bakarsanız, Olympus genel hareket felsefesini, kişilerin davranışsal olarak nasıl bir arada hareket edecekleri ya da bir başka deyişle '[oyun teorisi]'(https://docs.olympusdao.finance/main/whitepapers/game-theory) üzerine kuruyor. Temel olarak oyun teorisi, iki parti arasında değişik senaryolar söz konusu olduğunda, kişilerin birbirleri ile uyumlu (kooperatif) hareket etmelerinin tüm kişiler için en kazançlı durumu ortaya çıkaracağını söylüyor. Olympus'un sistem katılımcıları için kullandığı ünlü bir 'meme'i var (3,3) şeklinde. Aşağıdaki grafikte anlatılıyor. 
 
-| ![Olympus_game_theory](/assets/olympus_3_3_800.jpg)|
+| ![Olympus oyun teorisi matrisi: herkes stake ederse (3,3) en iyi sonuç; herkes satarsa (-3,-3) en kötü](/assets/olympus_3_3_800.jpg)|
 |:--:| 
 | *Olympus Oyun Teorisi Kaynak: [OlympusDAO](https://olympusdao.medium.com/the-game-theory-of-olympus-e4c5f19a77df)*|
 

@@ -14,7 +14,7 @@ Bir önceki [yazımızda](/genel/2018/06/01/token-dunyasinin-ilk-oyuncusu-tanidi
 
 ### Litecoin
 
-![cryptocurrency-litecoin.png](/assets/cryptocurrency-litecoin.png) 
+![Litecoin logosu, yeşil kodlarla bezenmiş madeni para biçiminde](/assets/cryptocurrency-litecoin.png) 
 
 Litecoin, Bitcoin benzeri paralar içinde Bitcoin'e en benzeyeni. Kurucusu, Charlie Lee adında MIT mezunu bir genç. Hatırlarsanız, Bitcoin benzeri sistemler için Açık Kaynak metodunu benimsemişler demiştik. Bu şu demek: İsteyen herhangi biri mevcut sistemi yürüten yazılımı alıp aynısını kurabilir ve çalıştırabilir. İşte Charlie'nin yaptığı da aynen bu. 
 
@@ -30,7 +30,7 @@ Kısacası, Litecoin yukarıda bahsettiğimiz iki yenilik ile daha pratik olmaya
 
 ### Monero
 
-![cryptocurrency-monero.png](/assets/cryptocurrency-monero.png) 
+![Monero logosu, yeşil kodlarla bezenmiş madeni para biçiminde](/assets/cryptocurrency-monero.png) 
 
 Monero'nun Bitcoin'den farkı gizlilik konusuna verdiği önem. 
 
@@ -48,7 +48,7 @@ Kısacası Monero, hem Litecoin gibi pratik, hem de ondan daha da gizli bir para
 
 ### Dash
 
-![cryptocurrency-dash.png](/assets/cryptocurrency-dash.png) 
+![Dash logosu, yeşil kodlarla bezenmiş madeni para biçiminde](/assets/cryptocurrency-dash.png) 
 
 
 Dash de aynı Monero gibi, hem gönderici/alıcı adreslerini gizliyor, hem de hızlı işlem yapabilmek için teyit sürelerini indirmiş durumda. 
@@ -63,7 +63,7 @@ Kısacası, Dash, Monero gibi gizlilik ve pratiklik alanında ön plana çıkıy
 
 ### Zcash
 
-![cryptocurrency-zcash.png](/assets/cryptocurrency-zcash.png) 
+![Zcash logosu, yeşil kodlarla bezenmiş madeni para biçiminde](/assets/cryptocurrency-zcash.png) 
 
 Zcash, gerek Monero gerekse Dash'den daha sonra, 2016 yılında ortaya çıkan ve büyük bir ilgi gören KriptoPara. Kurulduğu andan itibaren büyük bir ilgi gördü. Bunun iki nedeni var. Birincisi kurucusu Zooko Wilcox'un Dijital Para alanında çok eskiden beri bilinen ve saygın biri olması. İkincisi ise diğer alternatif KriptoParalar ilk çıktıklarında çok ufak bir geliştirici topluluk dışında bilinmez iken, son yıllarda artan ilgi nedeniyle Zcash'in daha aktif hale gelmeden hemen hemen bu alandaki herkes tarafından biliniyor olması. 
 

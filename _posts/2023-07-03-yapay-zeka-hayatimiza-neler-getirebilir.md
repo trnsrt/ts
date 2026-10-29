@@ -34,7 +34,7 @@ Andreessen'e göre insanlık tarihinde yaşanan her tür gelişmenin temel neden
 
 Sonuç olarak Andreessen'e göre yapay zekanın medeniyetimizin yarattığı, elektrik ve mikroçipler ile eş değer hatta onların daha ötesinde önemli bir 'şey' olma ihtimali yüksek. 
 
-| ![ai_positive](/assets/yapay-zeka-yazi-II_800.jpg)|
+| ![Bir öğrencinin ödevine yardım eden beyaz robotu gösteren Dall-E illüstrasyonu; yapay zekanın olumlu yönü](/assets/yapay-zeka-yazi-II_800.jpg)|
 |:--:| 
 | *Kaynak: [Dall-E](https://web.archive.org/web/20231206184541/https://labs.openai.com/s/BcrEGSoDIwjuUmnBsrlXpCYJ)*|
 

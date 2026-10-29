@@ -17,7 +17,7 @@ Tedarik zinciri derken bu yazının kapsamında bahsettiğimiz şu: bir şirketi
 
 &nbsp;
 
-![logistics-and-freight_640.jpg](/assets/logistics-and-freight_640.jpg)
+![Uçak, kamyon, gemi ve konteynerlerle lojistik ve taşımacılığı anlatan dünya haritalı illüstrasyon](/assets/logistics-and-freight_640.jpg)
 
 
 &nbsp;
@@ -35,7 +35,7 @@ gibi iki temel risk oluşturuyor. Hele bir de bu belirsizliklerin stok ömrü uz
 
 &nbsp;
 
-![supermarket_640.jpg](/assets/supermarket_640.jpg)
+![Meyve ve sebze raflarıyla dolu bir süpermarket, stok ömrü kısa ürünlerin tedarik zincirini simgeliyor](/assets/supermarket_640.jpg)
 
 
 &nbsp;
@@ -61,7 +61,7 @@ Gayet tabii bu son iki örneği Blockchain olmadan da yapabilirsiniz (marketin k
 ### Madem bu kadar avantajlı, neden kullanılmıyor hemen?
 
 
-| ![tedarik-zinciri.png](/assets/tedarik-zinciri.gif) | 
+| ![Arkada iki kişinin kâğıt fırlattığı, önde bir kadının durduğu komik bir GIF, esprili bir gönderme](/assets/tedarik-zinciri.gif) | 
 |:--:| 
 | *Kaynak: [giphy](https://web.archive.org/web/20181220181421/https://giphy.com/gifs/dancing-30-rock-tina-fey-lA0pONycTezZK)* | 
 

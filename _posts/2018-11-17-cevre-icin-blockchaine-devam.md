@@ -15,7 +15,7 @@ Geçtiğimiz [yazıda](/genel/2018/11/16/cevre-icin-blockhain.html) çevre ile i
 
 &nbsp;
 
-![planet-1_b_640.jpg](/assets/planet-1_b_640.jpg)
+![Yeşil kıtalı ve mavi okyanuslu bir küre, çevre yazısı için kapak görseli](/assets/planet-1_b_640.jpg)
 
 ### Mevcut durumu iyileştirmeye yönelik girişimler
 

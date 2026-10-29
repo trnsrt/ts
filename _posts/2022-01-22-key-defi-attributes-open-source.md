@@ -15,7 +15,7 @@ In our previous three posts, we started a new series and deep-dived into key cha
 ### What is open-source?
 Open source is a movement that started as a contrarian movement to tech giants of old times. In the very early days, technology was developed in universities through research granted by governments, and shared openly with others. The motto at that time was 'stand on the shoulders of giants', meaning take what others have already explored and found out and take it one to step further. 
 
-| ![Shoulders_of_Giants](/assets/statue-1217630_800_v2.jpg)|
+| ![Bronze statue of a child on a man's shoulders, a metaphor for open source](/assets/statue-1217630_800_v2.jpg)|
 |:--:| 
 | *Image by [photosforyou](https://pixabay.com/users/photosforyou-124319/) from [Pixabay](https://pixabay.com/)*|
 

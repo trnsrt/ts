@@ -20,7 +20,7 @@ Bitcoin as an open-software, perhaps for the first time, gives these people an e
 
 Blockchain as a technology represents many opportunities and business models. However, Bitcoin maximalists believe 'being a global reserve currency' is a significant enough target to focus their efforts. 
 
-| ![bitcoin_money](/assets/btc-5019623_800.jpg)|
+| ![Gold Bitcoin coins on a dark reflective surface, illustrating the Bitcoin philosophy post](/assets/btc-5019623_800.jpg)|
 |:--:| 
 | *Image by [Ricardo Goncalves](https://pixabay.com/users/15958319-15958319/) from [Pixabay](https://pixabay.com/)*|
 

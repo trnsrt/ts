@@ -33,7 +33,7 @@ Ethereum'un 15 Eylül sonrası uygulamaya giren yeni versiyonunda artık madenci
 - Blok üreticileri, blokları üretip onaylayıcıların onayına sunar. 
 - Onaylayıcılar ise kendilerine sunulan bloklardan en kârlısını (en yüksek işlem ücreti önereni) onaylayarak blok oluşumuna izin verir. 
 
-| ![Ethereum_sistemi_oyunculari](/assets/ethereum_sistem_oyunculari_v5.jpg)|
+| ![Ethereum'un yeni sistemindeki aktörleri gösteren akış şeması: kullanıcı, tarayıcı, blok üretici ve onaylayıcı](/assets/ethereum_sistem_oyunculari_v5.jpg)|
 |:--:| 
 | *Yeni Ethereum sistemindeki oyuncular. Eskiden madenciler hem blok üretimini hem de onaylamasını yapıyorlardı. Yeni sistemde, blok üretimi daha merkezi ve güçlü yapılarla, blokların onaylanması ise daha hafif ve merkeziyetsiz onaylayıcılar tarafından yapılacak*|
 
@@ -53,7 +53,7 @@ Bu sefer de başka bir sorun ortaya çıktı. O da Flashbots'un işlem talepleri
 
 Bunun sonucu olarak yeni versiyona geçtikten sonra Ethereum üzerindeki işlemlerin yaklaşık %72'si sansürlenmeye başladı. Aşağıdaki tabloda, 15 Eylül'den bu yana oluşan bloklardaki işlemleri görüyorsunuz.
 
-| ![Ethereum_bloklar](/assets/ofac-compliant-blocks_221216_800.jpg)|
+| ![Merge sonrası OFAC uyumlu blokların ve MEV-Boost kullanımının 15 Eylül-16 Aralık 2022 arası grafiği](/assets/ofac-compliant-blocks_221216_800.jpg)|
 |:--:| 
 | *Ethereum'un yeni versiyonu sonrası durumu. Oluşturulan blokların %88'i Flashbots'a ait olan MEV-Boost'u kullanıyor. Tüm blokların %68'i ise OFAC ile uyumlu blok üreticileri tarafından oluşturulmuş. MEV-Boost kullananlardan %20'lik bir kesim ise Flashbots taşıyıcısı kullanmamış, yani sansür uygulamamış. %12'lik bir kısım ise MEV-Boost kullanmayanlar tarafından üretilmiş. Kaynak: [MEV Watch](https://www.mevwatch.info)*|
 

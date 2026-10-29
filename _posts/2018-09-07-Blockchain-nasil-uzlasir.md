@@ -20,7 +20,7 @@ Geçtiğimiz yazının başlangıcında akla takılabilecek birkaç soru sormuş
 
 &nbsp;
 
-| ![walking-crowd.gif](/assets/walking-crowd.gif) | 
+| ![South Park animasyonunda Jim's Drugs önünde yürüyen kalabalık, birlikte hareket etme temasını anlatıyor](/assets/walking-crowd.gif) | 
 |:--:| 
 | *Birlikte hareket etmek derken..? Kaynak: [giphy](https://giphy.com/gifs/southparkgifs-l2SqcIUKPcyRtRWJG)* | 
 
@@ -58,7 +58,7 @@ Kontrolün sonunda sonucun doğruluğuna emin oldukları anda sistemdeki bütün
 
 &nbsp;
 
-| ![batman-shaking-hands.gif](/assets/batman-shaking-hands.gif) | 
+| ![Batman ile metalik bir Batman'in el sıkıştığı çizgi film sahnesi, uzlaşma ve anlaşma temasını anlatıyor](/assets/batman-shaking-hands.gif) | 
 |:--:| 
 | *Anlaştık dostum...  Kaynak: [giphy](https://giphy.com/gifs/smile-batman-dc-ROvT19V4hygmI)* | 
 

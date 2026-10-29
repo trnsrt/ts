@@ -57,7 +57,7 @@ Ethereum üzerinden işlem ücretlerini azaltmaya yönelik bir başka insiyatif 
 
 Kullanıcılar için harika ancak madencilerin çok hoşuna gitmeyecek bir çözüm. Gerek Bitcoin, gerekse Ethereum'da şu anki durumda, işlemler üzerinden alınan komisyonların tamamı madencilere gidiyor. Önerilen sistemde, kullanılanıcıların ödediği komisyonlar temel olarak ETH yakılmasına neden olacak, yani sistemin işine yarayacak. Madenciler, ise bu temel ücretin üzerine kullanıcıların ödediği bahşişlerden nasiplenecekler. Madencilerin durumdan çok hoşnut oldukları söylenemez ama 2020 yılında yaşadıkları cennetin sürdürülemez olduğu da açık. Baksanıza şuna: 2020 yılının en fazla işlemin olduğu iki günde kazandıkları rakam, 2019’da tüm yılda elde ettikleri işlem ücreti (35 milyon ABD Doları) kadar!
 
-| ![coinmetrics_total_fees_1yr](/assets/eth_total_fees_coinmetrics_1yr_800_v2.png)|
+| ![2020 yılında Ethereum madencilerinin günlük işlem ücreti kazancı, Eylül'deki sert zirvelerle birlikte](/assets/eth_total_fees_coinmetrics_1yr_800_v2.png)|
 |:--:| 
 | *2020 yılı ETH işlemlerinden madencilerin günlük kazançları. Kaynak: [Coinmetrics](https://network-charts.coinmetrics.io)*|
 

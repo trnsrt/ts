@@ -16,7 +16,7 @@ Ethereum Bitcoin sonrası ilginç bir süreçten geçiyor. Kısaca neler yaşand
 
 Dolayısıyla Ethereum'u telefonlarımızdaki Android ya da iOS işletim sistemlerinin geniş ölçekte kullanılan daha gelişmiş bir versiyonu olarak düşünebiliriz: Üstüne dileyen herkesin özgürce program (uygulama) kurabildiği bir dünya bilgisayarı. 
 
-| ![ethereum_1](/assets/cryptocurrency-3409658_800.jpg)|
+| ![Ethereum, Bitcoin ve Ripple madeni paraları üst üste dizili; Ethereum'un hikayesine giriş görseli](/assets/cryptocurrency-3409658_800.jpg)|
 |:--:| 
 | *Image by [WorldSpectrum](https://pixabay.com/users/worldspectrum-7691421/) from [Pixabay](https://pixabay.com/)*|
 

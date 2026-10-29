@@ -15,7 +15,7 @@ Yaklaşık iki ayı aşkın bir süredir kriptopara piyasalarında derin bir kar
 
 8 Mayıs tarihinde UST'de yaşanan sıkıntı ile başlayan ve sonrasında domino taşları gibi teker teker birbirini etkileyen olaylar zincirinin başrol oyuncularını inceleyelim öncelikle:
 
-| ![domino_falls](/assets/domino-163523_800.jpg)|
+| ![Gri domino taşlarının art arda devrildiği 3B görsel, zincirleme finansal krizin benzetmesi](/assets/domino-163523_800.jpg)|
 |:--:| 
 | *Image by [PublicDomainPictures](https://pixabay.com/users/publicdomainpictures-14/) from [Pixabay](https://pixabay.com/)*|
 
@@ -25,7 +25,7 @@ Yaşanan sarsıntının temelinde Terra sisteminin stabil parası olan UST'nin b
 
 Daha önceki iki yazıda ayrıntılarını incelediğimiz gibi dolara sabit olmakla birlikte Anchor Protokol tarafından yıllık %20 gibi ağız sulandırıcı bir faiz oranı ile yatırımcılara sunulan UST, bir yıldan kısa bir zaman içinde yaklaşık 18 milyar ABD Doları gibi bir büyüklüğe ulaştı. (Yazıların [ilkine](https://medium.com/turansert/ba%C5%9F%C4%B1ma-gelenler-ustnin-hikayesi-21324bb4969f) ve [ikincisine](https://medium.com/turansert/ust-olay%C4%B1nda-son-perde-cd48c9c6e15b) bağlantılardan okuyabilirsiniz)
 
-| ![domino_falls](/assets/ust_piyasa_degeri_800.jpg)|
+| ![UST piyasa değerinin 2021-2022'de yaklaşık 18 milyar dolara çıkıp Mayıs 2022'de çöktüğünü gösteren grafik](/assets/ust_piyasa_degeri_800.jpg)|
 |:--:| 
 | *UST Piyasa Değeri. Kaynak: [CoinGecko](https://www.coingecko.com/en/coins/terraclassicusd)*|
 

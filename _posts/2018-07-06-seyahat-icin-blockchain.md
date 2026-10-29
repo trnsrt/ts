@@ -10,7 +10,7 @@ Geçtiğimiz yazılarımızda Blockchain'in sadece finans değil değişik alanl
 
 Şimdi de seyahat ettiğimizde Blockchain bize nasıl yardımcı olabilir ona bakalım. Üstelik bu sefer bize yardımcı olmaya aday girişimlerden biri de ülkemizden çıkma. 
 
-![world-640.jpg](/assets/world-640.jpg) 
+![Harita üzerinde iğneler arasında gerilmiş iplerden oluşan bir ağ; dağınık seyahat sistemlerinin bağlantısını anlatır](/assets/world-640.jpg) 
 
 ### Yine düştük yollara... 
 
@@ -37,7 +37,7 @@ Blockchain için her zaman söylediğimiz, belli bir merkezi otoritenin varlık 
 
 &nbsp;
 
-| ![further-logo-400.png](/assets/further-logo-400.png) | 
+| ![Further Network logosu](/assets/further-logo-400.png) | 
 |:--:| 
 | *[Further Network](https://further.network/)* |
 
@@ -48,7 +48,7 @@ Son kullanıcılar için büyük kolaylıklar getirmeyi planlıyorlar. Bunlardan
 
 &nbsp;
 
-| ![seats-400.jpg](/assets/seats-400.jpg) | 
+| ![Uçak kabinindeki mavi koltuk sırası; yazıdaki geniş koltuk aralığı için ekstra ücret fikrini anlatır](/assets/seats-400.jpg) | 
 |:--:| 
 | *Geniş koltuk aralığı için ekstra ücret öder misiniz?* |
 

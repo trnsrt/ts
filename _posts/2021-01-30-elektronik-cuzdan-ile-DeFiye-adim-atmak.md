@@ -11,7 +11,7 @@ Cüzdanlar DeFi dünyasına girişin ilk adımı. Gelin bu yazımızda elektroni
 
 Geçtiğimiz yazıda DeFi dünyasında ilk girişte atılacak adımlardan bahsetmiştik. DeFi'nin tamamen dijital olması nedeniyle bu dünyaya giriş için elde kripto para olması gerektiğini söylemiştik. Herhangi bir kripto para borsasından satın alınan paranın borsada kullanıcı adına tutulduğunu ve bu paraya tam sahipliğin bu paranın kripto hesabından kullanıcının kendine ait elektronik cüzdana çekilmesi ile gerçekleşeceğini de eklemiştik. 
 
-| ![e-wallet](/assets/electronic-4433604_640.jpg)|
+| ![Elektronik cüzdan kavramını anlatan illüstrasyon: laptop ekranından çıkan parayı kahverengi cüzdana koyan bir el](/assets/electronic-4433604_640.jpg)|
 |:--:| 
 | *Image by [mohamed Hassan](https://pixabay.com/users/mohamed_hassan-5229782) from [Pixabay](https://pixabay.com/)*|
 

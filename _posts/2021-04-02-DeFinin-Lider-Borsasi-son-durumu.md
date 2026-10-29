@@ -61,7 +61,7 @@ Likidite sağlayıcı aslında havuzda para olmasına rağmen işlem yapılan al
 
 Uniswap'ın geçtiğimiz yaz aylarında yaşadığı büyük sıçramaya kısa süreli de sekte vuran gelişme, ürün kodlarını aynen kopyalayan Sushiswap'ın ciddi bir likiditeyi kendi platformuna çekmiş olmasıydı. Komisyon oranlarını benzer şekilde tutan Sushiswap likiditeyi kazanabilmek için kendi yönetim tokenini likidite sağlayıcılara vererek daha demokratik bir yapı olduğunu ilan etmişti. Bunun üzerine Uniswap da kendi tokenini çıkarıp dağıtmaya başladı ve likidite kanamasını bir nebze durdurmayı başardı. Token dağıtma bittikten sonra tekrar bir kayıp yaşasa da sonrasında  eski seviyelerine dönmeyi başardı. 
 
-| ![uniswap-sushiswap](/assets/uniswap-sushi-liquidity_tr_800.png)|
+| ![Uniswap v2 ile SushiSwap'ın 2020 Haziran-Aralık arası toplam likidite karşılaştırması; teşviklerin bitişiyle düşüş](/assets/uniswap-sushi-liquidity_tr_800.png)|
 |:--:| 
 | *Kaynak: [TheBlock](https://www.theblockcrypto.com/)*|
 

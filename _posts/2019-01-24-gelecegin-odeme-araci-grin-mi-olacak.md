@@ -10,7 +10,7 @@ Bir önceki [yazımızda](/genel/2019/01/23/miblewimble-aranan-mahremiyet-buyusu
 
 
 #### Grin
-![grin-400.png](/assets/grin-400.png)
+![Grin logosu: sarı gülen yüz ve üzerindeki MW harfleri](/assets/grin-400.png)
 
 MimbleWimble'in çıktığı ikinci proje olan Grin, çıkış olarak Bitcoin' çok benziyor.  
 
@@ -36,7 +36,7 @@ Grin'in bu kadar popüler olmasının belki de en önemli nedeni yukarıda da ba
  
 Bunun yanında Bitcoin'in başlangıcındaki hızlı gelişimi ve fırsatı kaçıran ciddi bir kesim de, şimdi yeni çıkan bu oluşuma erken katılarak oluşacak fırsatlardan olabildiğince çabuk faydalanma peşinde - ama bu kesimin bir sonraki kısmı okumasında fayda var. 
 
- ![halfin-vs-jlopp-900.png](/assets/halfin-vs-jlopp-900.png)
+ ![Hal Finney'nin 2009 'Running bitcoin' ve Jameson Lopp'un 2019 'Running grin' tweetleri yan yana](/assets/halfin-vs-jlopp-900.png)
 
 Ama sadece cypherpunk topluluğu değil Grin'i popüler yapan. Her ne kadar dışarıdan yatırım almasa da girişim sermayeleri bir şekilde projeye destek oluyorlar. Nasıl mı? Bir önceki yazımızda bahsettiğimiz değişen yatırımcılık kapsamında. Grin 15 Ocak itibari ile çalışmaya başladı ve işlemler karşılığı madencilere para yaratma hakkı verdi. İşte pek çok girişim sermayesi de şu anda para harcayıp makine satın alarak ve enerji harcayarak madencilik yapıyor. Amaçları Grin parasına rekabet artmadan erkenden sahip olabilmek. 
 
@@ -44,7 +44,7 @@ Yine de bu yatırımcıların, benzer şekilde para yaratımına başlamadan ön
 
 &nbsp;
 
-| ![monero-zcash-ravencoin.jpg](/assets/monero-zcash-ravencoin.jpg) | 
+| ![10.000 dolarlık yatırımın Monero, Zcash ve Ravencoin'de ilk çıkıştan sonra nasıl eridiğini gösteren logaritmik grafik](/assets/monero-zcash-ravencoin.jpg) | 
 |:--:| 
 | *Monero, Zcash ve Ravencoin ilk çıkış sonrası seyirleri - [Kaynak](https://twitter.com/ByteSizeCapital/status/1085155010495709184/photo/1)* |
 

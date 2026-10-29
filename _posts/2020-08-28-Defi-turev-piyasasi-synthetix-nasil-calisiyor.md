@@ -72,7 +72,7 @@ O nedenle, sUSD basarken SNX olarak çok daha fazlasını tutmak zorunda paydaş
 #### Peki nereden geliyor bu SNX? 
 Havuz sistemine SNX kilitleyip sUSD basan ve bunun karşılığında para kazanan paydaşlardan. SNX bir token - 2018 yılında 100 milyon adet olarak basılıp ekibe, ilk yatırımcılara ve ICO'da genel halka dağıtılmış. Aslında orijinalde planlanan tüm SNX miktarı bu iken, sonrasında ekip para politikasını değiştirmeye ve [2024 yılına kadar ekstra 145 milyon SNX daha dağıtmaya karar vermiş](https://messari.io/asset/synthetix/profile#launch). (Nasıl dağıtılacağı bir sonraki bölümde) 
 
-| ![SNX_price_2020](/assets/SNX_price_2020_short_v2.png)|
+| ![SNX tokeninin 2020 fiyat grafiği: yıl boyunca yatay seyir, Haziran'dan sonra sert yükseliş](/assets/SNX_price_2020_short_v2.png)|
 |:--:| 
 | *SNX'in 2020 yılı içindeki değişimi (2018-2020 arası yatay seyretmiş) [Kaynak](https://www.coingecko.com/en/coins/synthetix-network-token)*|
 
@@ -125,7 +125,7 @@ Birinci ve en önemlisi, yazıdan anlaşılıyor olmalı ama tekrar edelim: Baş
 Bununla bağlantılı ikinci temel risk ise şu: yapılan işlemlerin ağırlık olarak bir tarafa kayması sonucu riskin ve havuzun borcunun bir anda büyümesi: Örneğin Ağustos 2020 itibariyle sistemde sBTC tutanların oranı %22. 
 
 
-| ![SNX_price_2020](/assets/synthetix_distribution-640.jpg)|
+| ![Ağustos 2020'de SNX sentetik varlık dağılımı: sUSD yüzde 52,9, sBTC yüzde 22,2, sETH yüzde 11](/assets/synthetix_distribution-640.jpg)|
 |:--:| 
 | *SNX ürünlerinin Ağustos 2020 itibariyle dağılımı Kaynak*|
 

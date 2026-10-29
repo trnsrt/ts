@@ -16,7 +16,7 @@ Yapay zeka bu aralar teknoloji ile ilgilenenlerin bir numaralı gündemi. Hemen 
 
 Yapay zeka en basit anlatımıyla, zeka olarak da nitelendirilen ileri düzey aktiviteleri yapmayı öğrenebilen sistemlerin genel adı. Bu sistemler, tarih boyunca insanların tekelinde olan bu tip entelektüel aktiviteleri sadece öğrenmekle kalmayıp çoğunlukla biz insanlardan daha iyi bir şekilde gerçekleştirebiliyorlar. 
 
-| ![deep_Learning](/assets/deep-learning_800.jpg)|
+| ![Mavi tonlu bir insan silüeti ve devre desenleriyle yapay zekayı anlatan Dall-E illüstrasyonu](/assets/deep-learning_800.jpg)|
 |:--:| 
 | *Kaynak: [Dall-E](https://web.archive.org/web/20231206185108/https://labs.openai.com/s/yevGTNXDHCzV1bKFrAR2TujM)*|
 
@@ -60,7 +60,7 @@ Geçmişte büyük veri setlerinin taranması ya da işlenmesi için gerekli ola
 
 Meşhur Gartner'in hype döngüsüne baktığımızda genelde şunu görürüz: Erken kullanıcılar yeni teknolojilerin neler yapabileceğini abarttığı için bu teknolojiler ile ilgili toplum içinde ciddi bir beklenti oluşur. Sonrasında sunulan ürün/hizmet, vaat edilenleri karşılayamayınca beklentilerde ciddi bir çöküş olur. Bunu hepimiz pek çok kez yaşadık. (Genel olarak Web3 ya da özellikle alt başlıklarından NFT'lerde 2021-2022'de yaşananlar bunun son örneği aslında). Peki bu durum yapay zeka için de geçerli mi?
 
-| ![gartner-hype-cycle](/assets/gartner-hype-cycle-2022_v2.png)|
+| ![Gartner'in yeni teknolojiler hype döngüsü: Web3 zirveye yakın, NFT ve merkeziyetsiz kimlik düşüşte](/assets/gartner-hype-cycle-2022_v2.png)|
 |:--:| 
 | *Kaynak: [Gartner](https://www.gartner.co.uk/en/articles/what-s-new-in-the-2022-gartner-hype-cycle-for-emerging-technologies)*|
 

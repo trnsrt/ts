@@ -13,7 +13,7 @@ Bu yazımızda, NFT'nin bir esere nasıl değer katabileceğine hızlıca bakal�
 ### NFT dünyasında son durum ne?
 NFT dünyası 2021 yılı içinde büyük bir patlama yaşadı. Çıkan onlarca dijital eser, binlerce koleksiyon, ödenen çılgınca rakamlar... Sonrasında ise 2022 yılı içinde ciddi bir yavaşlama görüldü. NFT üzerine odaklanmış pazar yerlerine baktığınızda hacimlerin değişimi çok ciddi:
 
-| ![nft_pazar_yerleri](/assets/marketplaces_2207_v2_800.png)|
+| ![NFT pazar yerlerinin aylık işlem hacimleri, 2021 Temmuz-2022 Haziran; OpenSea lider, Ocak 2022'de zirve](/assets/marketplaces_2207_v2_800.png)|
 |:--:| 
 | *Kaynak: [TheBlock ](https://www.theblock.co/data/nft-non-fungible-tokens/marketplaces), [CryptoArt](https://cryptoart.io/),  [CryptoSlam](https://cryptoslam.io/)*|
 

@@ -12,13 +12,13 @@ Bu yazımızda 13 Kasım haftasında İstanbul'da yapılacak olan Devconnect'e d
 
 Blokzincir teknolojilerinin temelini oluşturduğu Web3 dünyasının ilerlemesi için birkaç temel koşul var. Bunlardan en önemlisi bu teknolojilerin olabildiğince insan tarafından kullanılması. Şu ana kadar Web3 dünyasının temel büyümesi Ethereum blokzincirinden geldi. (Aşağıda en bilinen kullanım metriği olan kilitli değer miktarı açısından blokzincirlerin bir karşılaştırmasını görüyorsunuz). 
 
-| ![l1-kilitli-miktar](/assets/L1-TVL_v2.png)|
+| ![Blokzincirlere göre kilitli değer grafiği: Ethereum 21,7 milyar dolarla Tron ve BNB Chain'in çok önünde](/assets/L1-TVL_v2.png)|
 |:--:| 
 | *En büyük ekosistemlere kilitli değer miktarı Kaynak: [TheBlock](https://www.theblock.co/data/decentralized-finance/total-value-locked-tvl)*|
 
 İnsanlar tarafından kullanım önemli ancak bu, o kadar da kolay bir süreç değil. Zira genel olarak alıştığımız ve kullandığımız teknolojilerden tamamen farklı bir dünyadan bahsediyoruz. Kullanıcılara değer katacak, onların bu dünyanın nimetlerinden faydalanabilmesini sağlayacak tüm araçların tek tek icat edilmesi gerekiyor. Biz ise henüz daha altyapıların kurulma aşamasındayız. Bu dünyanın inşa edilmesi için her bir taşın tek tek yontulması ve üst üste konması gerekiyor. Burada da en büyük katkı bu sistemleri inşa eden geliştirici ekiplerden geliyor. Geliştirici sayıları olarak ekosistemlerin karşılaştırması ise şu şekilde: 
 
-| ![gelistirici-sayilari](/assets/electric_cap_dev_report_1st_grp_2022-v231014.png)|
+| ![Akıllı kontrat platformlarının 2021 ve 2022 geliştirici sayılarını karşılaştıran grafik; Ethereum 5.750 ile önde](/assets/electric_cap_dev_report_1st_grp_2022-v231014.png)|
 |:--:| 
 | *En büyük sistemlerin geliştirici sayıları ve gelişimi. Kısaca özetlemek gerekirse: Grafiğin X ekseni ekosistemlerin 2021 yılındaki, Y ekseni ise 2022 yılındaki geliştirici sayılarını veriyor. Grafiği çapraz ortadan bölen kesik çizginin üzerindeki ekosistemler geliştirici kazanmış, altındakiler kaybetmiş anlamına geliyor. Ethereum geliştirici sayısı olarak  neredeyse kendinden sonra gelen üç ekosistemin toplamına eşit.  Kaynak: [Electric Capital Developer Report Ocak 2023](https://www.developerreport.com/)*|
 

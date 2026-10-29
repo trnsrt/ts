@@ -49,7 +49,7 @@ Diyelim bir havuz oluşturulacak. Bir bölüme ETH, diğerine ise USDC (ABD Dola
 
 Yukarıdaki üç işlemin sonucu havuzdaki ETH, USDC ve havuz büyüklüğündeki değişimleri bir tabloda toplarsak: 
 
-![Uniswap_islemler_640.png](/assets/Uniswap_islemler_640.png)
+![Uniswap havuzunda üç işlem sonrası ETH ve USDC adetlerini ve sabit havuz büyüklüğünü gösteren tablo](/assets/Uniswap_islemler_640.png)
 
 Hemen belirtelim: yukarıda verdiğimiz işlemler oldukça sığ bir havuz için yapılmış bir örnek. Havuz ne kadar büyük olursa, ya da yapılan işlemin havuzun büyüklüğüne oranı ne kadar küçük olursa bu fark o kadar az oluyor. İşte bu nedenle bu tip borsalar için likidite hayati bir öneme sahip. (Adım adım Uniswap işlemlerini nasıl yapılıyor görsel olarak görmek isterseniz [şu Medium yazısında](https://medium.com/@obiwancoin/uniswap-kullan%C4%B1m-rehberi-obi-wan-bd73503fb9d6) oldukça güzel anlatılmış). 
 

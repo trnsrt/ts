@@ -12,7 +12,7 @@ Geçtiğimiz iki yazıda, önce KriptoBorsalar'dan [nasıl KriptoPara alabilece�
 
 
 
-![purse-420917_640.jpg](/assets/purse-420917_640.jpg)
+![Kırmızı zeminde sergilenen çeşitli deri cüzdanlar; KriptoCüzdan yazısına giriş görseli](/assets/purse-420917_640.jpg)
 
 ### KriptoCüzdan nasıl yaratılıyor? Çeşitleri ne? 
 
@@ -34,7 +34,7 @@ Bunlar günlük hayatta kullandığımız USB cinsi küçük ekipmanlar. Özel v
 Gördünüz mü, yine geldik kalem kağıda :) İsterseniz kendiniz hiçbir programa sahip olmadan da Özel ve Genel Anahtar yaratabilirsiniz. Bunun için yapmanız gerek bu konuda uzmanlaşmış açık kaynak bazlı bir websitesine gidip (Bitcoin için [BitAddress](https://www.bitaddress.org) bir örnek olabilir) bir dakika içinde anahtarları yaratabilirsiniz. Sonrasında yapmanız gereken bu anahtarları bir kağıda not etmeniz. İşte bu kadar. Genel Anahtarı bir arkadaşınıza gönderip size KriptoPara göndermesini söyleyin. Sonrasında da [Blockchain Info](https://www.blockchain.com/en/explorer) ya da [Block Explorer](https://blockexplorer.com/) gibi halka açık adreslerden hesap hareketlerinizi inceleyin (tek yapmanız gereken sitedeki arama çubuğuna Genel Anahtarınızı girmek). Satmak istediğinizde ise yine [Blockchain Info](https://www.blockchain.com/en/explorer) gibi bir siteyi kullanıp paranızı istediğiniz bir KriptoBorsa hesabına gönderebilirsiniz.
 
 
-| ![bitaddress.gif](/assets/bitaddress.gif) | 
+| ![Google arama ekranının hareketli GIF görüntüsü; BitAddress'i bulup anahtar üretme adımını anlatır](/assets/bitaddress.gif) | 
 |:--:| 
 | *Kendinize Özel ve Genel anahtar yaratmak bu kadar basit!* | 
 

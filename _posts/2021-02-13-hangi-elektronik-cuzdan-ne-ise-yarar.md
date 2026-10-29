@@ -10,7 +10,7 @@ image: /assets/pexels-skitterphoto-2019_800.jpg
 Farklı farklı elektronik cüzdanlar var. Peki hangisini seçmeli? Bunun yanıtı ihtiyaç, beklenti ve risk algınıza göre değişir. Farklı cüzdan çeşitleri neler, hangi cüzdan ne işe yarar gelin birlikte bakalım: 
 
 
-| ![e-wallet](/assets/pexels-skitterphoto-2019_800.jpg)|
+| ![Raflarda sıralanmış renkli deri cüzdanlar; elektronik cüzdan çeşitlerini anlatan yazının giriş görseli](/assets/pexels-skitterphoto-2019_800.jpg)|
 |:--:| 
 | *Image by [Skitterphoto](https://www.pexels.com/photo/books-colorful-colourful-shop-2019/) from [Pexels](https://www.pexels.com/photo/books-colorful-colourful-shop-2019/)*|
 
@@ -35,7 +35,7 @@ Bunlar günlük hayatta kullandığımız USB cinsi küçük ekipmanlar. Özel v
 #### Kağıt Kalem
 Gördünüz mü, yine geldik kalem kağıda :) İsterseniz kendiniz hiçbir programa sahip olmadan da Özel ve Genel Anahtar yaratabilirsiniz. Bunun için yapmanız gerek bu konuda uzmanlaşmış açık kaynak bazlı bir websitesine gidip (Bitcoin için [BitAddress](https://www.bitaddress.org), diğer KriptoParalar için [Wallet Generator](https://walletgenerator.net/) bir örnek olabilir) bir dakika içinde anahtarları yaratabilirsiniz. Sonrasında yapmanız gereken bu anahtarları bir kağıda not etmeniz. İşte bu kadar. Genel Anahtarı bir arkadaşınıza gönderip size KriptoPara göndermesini söyleyin. Sonrasında da [Blockchain Info](https://www.blockchain.com/en/explorer) ya da [Block Explorer](https://blockexplorer.com/) gibi halka açık adreslerden hesap hareketlerinizi inceleyin (tek yapmanız gereken sitedeki arama çubuğuna Genel Anahtarınızı girmek). Satmak istediğinizde ise yine [Blockchain Info](https://www.blockchain.com/en/explorer) gibi bir siteyi kullanıp paranızı istediğiniz bir KriptoBorsa hesabına gönderebilirsiniz.
 
-| ![bitaddress.gif](/assets/bitaddress.gif) | 
+| ![Google ana sayfası ve arama kutusu, anahtar üretmek için açık kaynak bir siteye gitmenin ilk adımı](/assets/bitaddress.gif) | 
 |:--:| 
 | *Kendinize Özel ve Genel anahtar yaratmak bu kadar basit!* | 
 

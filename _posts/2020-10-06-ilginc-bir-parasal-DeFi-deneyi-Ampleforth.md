@@ -18,7 +18,7 @@ Ampleforth bir deney - nihai hedefi alışverişte kullanılabilecek kadar stabi
 #### Stabil paraların sıkıntısı
 Piyasada yeterince stabil kripto para varken neden Ampleforth'a ihtiyaç olsun? Çünkü stabil paralar özünde bir itibari paraya bağlılar (itibari paranın devletlerin merkez bankaları tarafından basılan ABD Doları, Euro benzeri paralar olduğunu tekrar hatırlatalım). Bu itibari paralar görünüşte değerlerini koruyor gibi görünseler de aslında uzun vadede sürekli değer kaybı yaşıyorlar. Amerika Birleşik Devletleri altını 1933 yılında onsu [20 ABD Doları'ndan halktan toplamıştı](https://en.wikipedia.org/wiki/Executive_Order_6102) (enflasyon etkisini yedirseniz bile günümüzde 408 ABD Doları'na geliyor), şu anda altın 2,000 ABD doları seviyelerinde. Şimdi ABD Dolarının değerinin sabit kaldığını söyleyebilir misiniz? 
 
-| ![BTC_dominance](/assets/Executive_Order_6102_640.jpg)|
+| ![ABD'nin 1933 tarihli 6102 sayılı emri; halkın altınını Federal Rezerv'e teslim etmesini zorunlu kılıyor](/assets/Executive_Order_6102_640.jpg)|
 |:--:| 
 | *ABD hükümetinin halktan zorla altın topladığı meşhur 6102 sayılı emir.  Kaynak: [Wikipedia](https://en.wikipedia.org/wiki/Executive_Order_6102)*|
 
@@ -28,7 +28,7 @@ Ayrıca  bu stabil kripto paralar ödemeler konusunda çözüm olsalar da, bu pa
 Bitcoin benzeri sınırlı arza sahip paralar teori olarak güzel: Değer anlamında hiçbir kuruma bağlı olmayan, bütünüyle bağımsız, sansüre karşı dayanıklı ve sınırlı arzı ile değerini teorik olarak koruması gereken bir para. Ancak bu sınırlı miktardaki arz, artıp azalan talep ile bir araya geldiğinde ortaya son derece oynak bir para çıkıyor. Her ne kadar uzun vadede son on yılda yaşanan fiyat artışının en önemli nedenlerinden birinin bu kısıtlı arz olduğu düşünülse de kısa vadelerde oluşan oynaklık sinirleri zorlayacak seviyede. 
 
 
-| ![BTC_price](/assets/BTC_price_coingecko_800.png)|
+| ![BTC fiyatının 2014-2020 arası grafiği; 2017 sonundaki zirve ve ardından gelen sert düşüşler](/assets/BTC_price_coingecko_800.png)|
 |:--:| 
 | *BTC'nin baş döndürücü dalgaları.  Kaynak: [CoinGecko](https://www.coingecko.com/en/coins/bitcoin)*|
 
@@ -91,7 +91,7 @@ Ampleforth'un arzı ile oynamak suretiyle üçlü aşamalı bir vizyonu var asl�
 
 İlk aşama kısa vadede portföyünde kripto varlık tutanlara risklerini dağıtmaya yardımcı olmak. Çıkış noktaları şu: Bitcoin piyasanın büyüğü olarak yüksek bir ağırlığa sahip. 
 
-| ![BTC_dominance](/assets/bitcoin_dominance_v2_800.png)|
+| ![Bitcoin ağırlığının 2016-2020 arası TradingView grafiği; son değer yaklaşık yüzde 60 seviyesinde](/assets/bitcoin_dominance_v2_800.png)|
 |:--:| 
 | *Bitcoin'in kripto dünyasındaki ağırlığı - şu ara %60 seviyesinde.  Kaynak: [TradingView](https://www.tradingview.com/symbols/CRYPTOCAP-BTC.D/)*|
 
@@ -99,7 +99,7 @@ Dolayısıyla piyasadaki bütün kripto paralar ağırlıklı olarak Bitcoin ile
 
 Değeri kendinden menkul paraların son 90 gün içindeki değer artış/azalış ilişkisini gösteren aşağıdaki tabloya bakıldığında bu düşüncelerinde çok da haksız sayılmazlar: 
 
-| ![AMPL_chart](/assets/AMPL_correlation_800_v2.png)|
+| ![Kripto paraların 90 günlük fiyat korelasyonlarını gösteren ısı haritası; AMPL diğerleriyle düşük ilişkili](/assets/AMPL_correlation_800_v2.png)|
 |:--:| 
 | *Değişik kripto paraların fiyat ilişkileri. 1 değeri birbiri ile aynı hareket eden paraları, 0 değeri ilgisiz, -1 değeri ise ters hareket eden paraları gösterir. Kaynak: [Ampleforth](https://www.ampleforth.org/dashboard)*|
 
@@ -109,7 +109,7 @@ Rezerv para ile kastedilen şu. Daha önceki bir yazımızda MakerDAO sistemi il
 
 AMPL'nin son üç aylık toplam değer, arz ve AMPL fiyat hareketlerine baktığımızda ise, volatilitenin azalması alanında daha almaları gereken çok yol olduğu kesin: 
 
-| ![AMPL_volatility](/assets/ampleforth_price_supply_mcap_v2_1200.png)|
+| ![Ampleforth'un piyasa değeri, toplam AMPL arzı ve AMPL fiyatını 2020 Temmuz-Ekim arası gösteren grafik](/assets/ampleforth_price_supply_mcap_v2_1200.png)|
 |:--:| 
 | *Ampleforth sistem değeri (mavi çizgi), toplam AMPL miktarı (kırmızı çizgi) ve AMPL fiyat hareketi (yeşil çizgi). Aşağıda görünen üç kesik çizgi AMPL tokenin sistem tarafından izin verilen hedef 1 ABD Doları çevresindeki alt ve üst bandlarını gösteriyor. Kaynak: [Ampleforth](https://www.ampleforth.org/dashboard)*|
 

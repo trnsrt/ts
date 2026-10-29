@@ -13,7 +13,7 @@ Kripto değil ama dijital paralar alanındaki yarışa 2019 yılı ile birlikte 
 
 Dijital para kavramı aslında oldukça eski bir kavram. Ancak dijital para olarak ortaya çıkan denemelerin çoğu (çok normal olarak) başarısızlığa uğradı.  Başarılı olan ilk deneme Bitcoin. Sahipsiz kimsesi olmadan sıfırdan başladı ve yıllar içinde çok büyük bir değere ulaştı. Ünlü finans gurusu Naval Ravikant’ın dediği gibi: 
 
-| ![naval_on_bitcoin.png](/assets/naval_on_bitcoin.png) | 
+| ![Naval'ın tweeti: son on yılın en değerli girişimi hiç para toplamadı ve çalışanı olmadı](/assets/naval_on_bitcoin.png) | 
 |:--:| 
 | *Türkçe meali: Geçtiğimiz on yılın en değerli girişimi hiç para toplamadı, çalışanı yok, sermaye artırım tablosunu baştan yayımladı ve isteyen herkesin kendisine yatırım yapmasına izin verdi  [Orjinali](https://twitter.com/naval/status/1135236914263384064?lang=en)* |
 

@@ -33,7 +33,7 @@ Bitcoin ekosisteminin geliştiriciler dışında bir başka önemli aktörü sis
 
 Bununla da bitmiyor madencilerin çilesi. Ödül kazanmak için amansız bir mücadele içindeler. Rekabetin gün be gün arttığını çok net bir şekilde izleyebiliyoruz. Madencilerin ödül kazanmak için sarf ettikleri efor, ödüle hak kazanmak için kendilerine verilen bir bulmacayı çözerken yaptıkları deneme sayısı (İngilizce 'hash rate') ile ölçülüyor ve bu rakam gün geçtikçe artıyor. 
 
-| ![hash-rate](/assets/hash-rate.png)|
+| ![Bitcoin madencilerinin saniyedeki deneme sayısı (hash hızı) Haziran 2021'den 2024'e kadar sürekli artıyor](/assets/hash-rate.png)|
 |:--:| 
 | *Madencilerin saniyede yaptıkları deneme sayısı. Kaynak:  [Bitcoin.com](https://www.blockchain.com/explorer/charts/hash-rate)*|
 
@@ -41,7 +41,7 @@ Bununla da bitmiyor madencilerin çilesi. Ödül kazanmak için amansız bir mü
 
 Uzunca bir süredir Bitcoin üzerinde ödenen işlem ücretleri ödüllerin yanında yok denecek kadar az idi, ta ki geçtiğimiz yıla kadar. 2023 yılı başında ortaya çıkan Ordinals protokolü sayesinde, işlem ücretlerinin madencilerin gelir kalemleri içinde %5 civarına çıktığını gördük. 
 
-| ![hash-rate](/assets/bitcoin-madenci-odulleri.png)|
+| ![Bitcoin madencilerinin günlük ödül ve işlem ücreti kazançları, 7 günlük ortalama; Nisan 2024'te zirve yapıyor](/assets/bitcoin-madenci-odulleri.png)|
 |:--:| 
 | *Madencilerin günlük kazançları (milyon ABD Doları - 7 günlük ortalamalar). Kaynak:  [TheBlock](https://www.theblock.co/data/on-chain-metrics/bitcoin)*|
 

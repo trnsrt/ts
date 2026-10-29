@@ -9,7 +9,7 @@ image: /assets/some-food-for-thought-about-bitcoin-2.jpg
 Geçtiğimiz [yazımızda](/genel/2018/12/07/ne-olacak-su-bitcoinin-hali.html), Bitcoin'in ileride değerli olup olmayacağının iki ana belirleyicisi olacağını belirtmiştik: Birincisi hakikaten insanların işine yarayacak mı, ikincisi de geniş kesimler tarafından kullanılacak mı? Bu iki soruya ne kadar olumlu cevap verebiliyorsak Bitcoin'in değerinin de ileride o kadar artacağını düşünebiliriz. 
 &nbsp;
 
-| ![some-food-for-thought-about-bitcoin-2.jpg](/assets/some-food-for-thought-about-bitcoin-2.jpg) | 
+| ![Çatal ve bıçağın arasında duran altın bir Bitcoin madalyonu, yazının kapak görseli](/assets/some-food-for-thought-about-bitcoin-2.jpg) | 
 |:--:| 
 | *[Kaynak](https://photos.icons8.com/some-food-for-thought-about-bitcoin-5a7c0a678b6588000181ced6)* |
 
@@ -35,7 +35,7 @@ Peki ya gündelik hayatta mikro ödemeler için Bitcoin kullanımı? İşte orad
 
 &nbsp;
 
-| ![queue.gif](/assets/queue.gif) | 
+| ![Uzun bir kuyrukta sıraya girmiş insanları gösteren kısa animasyon, mikro ödemelerdeki yoğunluk benzetmesi](/assets/queue.gif) | 
 |:--:| 
 | *Mikro ödemeleri Bitcoin üzerinden yapmaya kalkarsak* |
 

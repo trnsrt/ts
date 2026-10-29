@@ -21,7 +21,7 @@ Financial players? They loved this consumer demand: No need to keep more tellers
 
 Well, life comes in cycles and nothing lasts forever. Such profits attracted outside attention pretty quickly: “They have all the fancy offices yet they fail to provide basic services properly” says the consumer. “They have all that financial muscle, yet they are reluctant to allocate enough resources to meet our regulatory requirements,” says the government.
 
-| ![looking_phone](/assets/phone-1889392_800.jpg)|
+| ![A young woman checking her phone outdoors, illustrating banking moving to mobile devices](/assets/phone-1889392_800.jpg)|
 |:--:| 
 | *Image by [antonynjoro](https://pixabay.com/users/antonynjoro-2270637/) from [Pixabay](https://pixabay.com/)*|
 

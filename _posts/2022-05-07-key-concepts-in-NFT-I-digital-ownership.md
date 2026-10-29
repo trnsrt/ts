@@ -24,7 +24,7 @@ Blockchains are also transparent (at least public ones) which means anyone can s
 
 Another way to conceptualize this: Can you own a Mona Lisa portrait. Well, just visit [Google Arts page on Mona Lisa](https://artsandculture.google.com/asset/portrait-de-lisa-gherardini-%C3%A9pouse-de-francesco-del-giocondo-dite-monna-lisa-la-gioconda-ou-la-joconde/EQEwC4DDeM7qkA?hl=en) and you will find an extremely high resolution copy of the portrait. 
 
-| ![mona_lisa](/assets/mona_lisa-1053852_800.jpg)|
+| ![Framed Mona Lisa painting on a wall, used to show that owning a copy or print is not owning the original](/assets/mona_lisa-1053852_800.jpg)|
 |:--:| 
 | *Image by [Bronisław Dróżka ](https://pixabay.com/users/uroburos-325152/) from [Pixabay](https://pixabay.com/)*|
 

@@ -31,7 +31,7 @@ Bir diğer önemli konu da projenin danışmanlar kurulunda bulunan kişiler. Bu
 
 &nbsp;
 
-| ![naval_640.jpg](/assets/naval_640.jpg) | 
+| ![Yatırım gurusu Naval Ravikant dizüstü bilgisayarının başında ekrana bakarken, önündeki tabelada adı yazılı](/assets/naval_640.jpg) | 
 |:--:| 
 | *Yatırım gurusu [Naval Ravikant](https://twitter.com/naval) - ondan yatırım almak piyango kazanmak gibi* | 
 
@@ -52,7 +52,7 @@ Slack günümüzde kurum içi iletişim ve ortak çalışma alanında en çok ku
 
 
 &nbsp;
-![twitter-slack-telegram-logos-v2_640.png](/assets/twitter-slack-telegram-logos-v2_640.png)
+![Twitter, Slack ve Telegram logoları yan yana; kripto girişimlerinin yatırımcı ve geliştiricilerle iletişim kanalları](/assets/twitter-slack-telegram-logos-v2_640.png)
 
 &nbsp;
 
@@ -65,7 +65,7 @@ Daha önce de bahsetmiştik, yeni Kripto dünyasının en önemli özelliklerind
 
 &nbsp;
 
-| ![ethereum-github_640.png](/assets/ethereum-github_640.png) | 
+| ![GitHub'da Ethereum deposunun Ağustos-Eylül 2018 aktivite özeti; aktif PR, commit ve katkıda bulunan sayıları](/assets/ethereum-github_640.png) | 
 |:--:| 
 | *Ethereum [Github sayfasında](https://github.com/ethereum/)* sadece bir projenin aylık aktivitesi | 
 

@@ -18,7 +18,7 @@ Bitcoin itself is a system that is designed mainly to preserve value and provide
 ### How about Ethereum?
 Ethereum, in essence tries to be the 'world computer' which means be an infrastructure where anyone in the world would use without any restriction. What do we mean by 'use'? Well, that means different things for different people. For developers, it is, to develop any application and deploy it on Ethereum without any restrictions. For users, to have access to the Ethereum system and use these applications without any limitations. 
 
-| ![eth_image](/assets/cryptocurrency-3424785_800.jpg)|
+| ![Blurred sea and sky with a sandy beach, a generic stock image placed beside the Ethereum philosophy text](/assets/cryptocurrency-3424785_800.jpg)|
 |:--:| 
 | *Image by [WorldSpectrum ](https://pixabay.com/users/worldspectrum-7691421/) from [Pixabay](https://pixabay.com/)*|
 

@@ -12,7 +12,7 @@ In this last part of our mini-series on Web3, we are looking at potential areas 
 
 So where do we see Web 3 projects prevail? Let's have a quick look at five key areas: 
 
-| ![five_onions](/assets/onion-4249422_800.jpg)|
+| ![Five onions lined up on a white background, illustrating the five key areas where Web3 projects appear](/assets/onion-4249422_800.jpg)|
 |:--:| 
 | *Image by [misskursovie2013](https://pixabay.com/users/misskursovie2013-6341223/) from [Pixabay](https://pixabay.com/)*|
 

@@ -13,7 +13,7 @@ image: /assets/makerdao-dai.png
 ### MakerDAO nedir?
 
 
-![makerdao-dai.png](/assets/makerdao-dai.png) 
+![MakerDAO logosu solda, yanında Dai'nin altın rengi elmas simgesi](/assets/makerdao-dai.png) 
 
 
 MakerDAO kişilerin ellerinde duran KriptoParaları teminat verip bu teminat karşılığı sistemin parası olan DAI'yi yaratmalarına olanak veren bir dağıtık bir sistem. Ethereum üzerinde kurulu Akıllı Kontratları kullanılıyor bunu yapmak için. 
@@ -31,7 +31,7 @@ Diyelim ani olarak paraya ihtiyacınız var, mevcut paranızı da ETH'ye yatırd
 
 &nbsp;
 
-| ![money-exchange.gif](/assets/money-exchange.gif) | 
+| ![Çizgi filmden bir sahne: bir el cüzdandaki paraları diğer ele uzatıyor, yıllık %0.5 faiz maliyetine gönderme](/assets/money-exchange.gif) | 
 |:--:| 
 | *Yıllık %0.5 maliyet mi? Ver, hepsini ver...  (Kaynak: [Giphy](https://media.giphy.com/media/6nXIRmdkjett6/giphy.gif))* |
 
@@ -52,7 +52,7 @@ Diyelim, Dai fiyatında bir düşüş oldu. Böyle bir durumda geçmişte Dai ya
 
 Aynı şekilde Dai fiyatında bir artış olduğunda (1 ABD dolarından daha yüksek bir fiyata geldiğinde) insanlar ellerindeki ETH'leri sisteme gönderip 1 ABD doları karşılığı olacak şekilde Dai yaratacak ve bu Dai'yi piyasada 1 ABD Doları'nın üzerinde bozdurma şansı yakalayacaklar.  Bu da piyasada 1 Dai'nin 1 ABD Doları'na yaklaşmasını sağlayacak. 
 
-![DAI_ETH_karsilastirma_USD.png](/assets/DAI_ETH_karsilastirma_USD.png)
+![DAI ile ETH'nin 2018-2019 dolar fiyatlarını karşılaştıran grafik: DAI 1 dolar civarında sabit, ETH sert düşüyor](/assets/DAI_ETH_karsilastirma_USD.png)
 
 Bunun yanında Dai fiyatında ekstrem bir düşüş olduğu durumlar için de acil durum senaryoları hazırlanmış ama şu aşamada çok teknik kaldığı için ilgilenenleri [White Paper](https://makerdao.com/en/whitepaper/)'ı okumaya davet ederek konuyu kapatıyoruz. 
 
@@ -66,7 +66,7 @@ Sistem şu ana kadar sıkıntı yaşamadan ilerledi. ETH sene içinde çok ciddi
 
 ### MakerDAO her derde deva mı?
 
-![swiss-army-knife-400.jpg](/assets/swiss-army-knife-400.jpg)
+![Çok fonksiyonlu kırmızı İsviçre çakısı, MakerDAO'nun her derde deva olmadığını anlatan benzetme](/assets/swiss-army-knife-400.jpg)
 
 Tabii ki hayır. Ancak, bir ürünü ne kadar basit ve istisnaları dışarıda bırakarak şekillendirirseniz o kadar otomatik (insan eli değmeden) yürütebilirsiniz tezine güzel bir örnek. Şu anki rakamlar cesaret verici olsa da ileride gerçekten finans piyasalarını sarsıcı bir devrim haline dönüşür mü? Bunu şimdiden tahmin etmek oldukça zor. Neden?
 

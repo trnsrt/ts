@@ -33,7 +33,7 @@ Yukarıda bahsettiklerimiz, 2020 yılının Haziran ayından, 2021 yılının ba
 
 Öncelikle, bu tokenler sonsuza kadar dağıtılmıyor, bir noktada bitiyor. Öte yandan, dağıtılan token rakamı da genelde sabit ve yapılan işlem hacmine bölünerek kullanıcılara veriliyor. Bu alana kayan para miktarı arttıkça, dağıtılan bu tokenlerden alınan pay da oransal olarak azaldı. Bir de genel olarak Bitcoin başta olmak üzere kriptoparaların değerlerinde yaşanan azalma, tokenlerden kazanılan getirilerin de düşmesine neden oldu. İşte bunlardan ötürü, bu alandaki faizlerde son zamanlarda bir düşüş görülmeye başlandı. 
 
-| ![compound_rates](/assets/compound_borrowing_rates_800_v2.png)|
+| ![Compound'daki DAI, USDC ve USDT kredi oranları 2021 Ocak-Temmuz arası: yüzde 15 civarından yaklaşık yüzde 3'e düşüş](/assets/compound_borrowing_rates_800_v2.png)|
 |:--:| 
 | *Kaynak: [TheBlock](https://www.theblockcrypto.com/data/decentralized-finance/cryptocurrency-lending)*|
 

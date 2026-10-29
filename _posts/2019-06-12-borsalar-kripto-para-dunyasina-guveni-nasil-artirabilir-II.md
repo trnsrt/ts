@@ -36,7 +36,7 @@ Aşağıda İngiltere bazlı Coinfloor kripto para borsasının kullandığı Pr
 
 1. Öncelikle şirket müşterilerin elinde olan bütün hesap bakiyelerini tek tek döküyor. Listenin her bir satırda her bir hesabın bilgilerinin bir sayı/harf zinciri olarak öğütülmüş hali ve karşılığında bir BTC rakamı bulunuyor. Kişi ismi, hesap numarası yok. Ona sonra sıra gelecek. 
 
-| ![coinfloor-hesap-bakiye-600.png](/assets/coinfloor-hesap-bakiye-600.png) | 
+| ![Coinfloor'un Nisan 2019 hesap dökümü; her satırda öğütülmüş hesap bilgisi ve o hesabın BTC bakiyesi](/assets/coinfloor-hesap-bakiye-600.png) | 
 |:--:| 
 | *Coinfloor tüm hesapların dökümü - sol taraf hesap öğütülmüş hesap bilgisi, sağ taraf o hesabın bakiyesi (Nisan 2019)  (Kaynak: Coinfloor)* | 
 
@@ -44,14 +44,14 @@ Aşağıda İngiltere bazlı Coinfloor kripto para borsasının kullandığı Pr
 
 2. Sonra şirket bütün bu hesapların toplamı olan Bitcoin miktarını [Blockchain üzerinden bir adresten öbürüne geçiriyor](https://explorer.bitcoin.com/btc/tx/79c0383df1635ef6f95772a746754c250c229137f72887510703104df789e6d6). Bunu yaparak bu kadar bir miktarın kendi sahipliğinde olduğunu kanıtlamış oluyor. 
 
-| ![coinfloor-btc-transaction-v2-1200.png](/assets/coinfloor-btc-transaction-v2-1200.png) | 
+| ![Coinfloor'un toplam bakiyeyi taşıyan Bitcoin işlemi ekran görüntüsü; OP_RETURN alanında dökümün özeti var](/assets/coinfloor-btc-transaction-v2-1200.png) | 
 |:--:| 
 | *Coinfloor tüm hesapların toplamını aylık transfer işlemi - Nisan 2019 (Kaynak: [Bitcoin Explorer](https://explorer.bitcoin.com/btc/tx/79c0383df1635ef6f95772a746754c250c229137f72887510703104df789e6d6))* | 
 
 
 3. Yukarıda yaptığı transfer işlemin ayrıntılarının içine tanım olarak ilk  maddedeki tüm bakiyelerin bulunduğu dökümün öğütülmüş özetini de koyuyor (yukarıdaki [bitcoin transfer işleminin](https://explorer.bitcoin.com/btc/tx/79c0383df1635ef6f95772a746754c250c229137f72887510703104df789e6d6) ayrıntılarında görülen OpRETURN numarası). Siz de kontrol edebilirsiniz: İlk maddedeki hesap bakiye dökümü olan text dosyasını kopyalayıp herhangi bir [SHA-256 öğütücüye](https://passwordsgenerator.net/sha256-hash-generator/) atın çıkan sonucun Bitcoin işleminin içindeki OpRETURN satırı ile aynı olduğunu göreceksiniz
 
-| ![coinfloor-sha-256-generator-640.png](/assets/coinfloor-sha-256-generator-640.png) | 
+| ![SHA-256 üreteci ile hesap dökümünün özeti, Bitcoin işlemindeki OP_RETURN değeriyle eşleşiyor](/assets/coinfloor-sha-256-generator-640.png) | 
 |:--:| 
 | *İlk maddedeki tüm işlemlerin SHA-256 öğütülmüş hali. Yukarıdaki raporda ve burada kırmızı daire içindeki sayıların aynı olduğuna dikkat. (Kaynak: [SHA-256 generator](https://passwordsgenerator.net/sha256-hash-generator/))* | 
 

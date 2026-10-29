@@ -24,7 +24,7 @@ Size bu resmin tamamına değil ama bir parçasına sahip olabilirsiniz desem? �
 
 &nbsp;
 
-| ![Mona_Lisa_piece.png](/assets/Mona_Lisa_piece.png) | 
+| ![Mona Lisa tablosunun göz ve burun kısmını gösteren kırpılmış görsel; tablonun bir parçasına sahip olma fikrini anlatır](/assets/Mona_Lisa_piece.png) | 
 |:--:| 
 | *Mona Lisa'nın bir parçasına sahip olmak ister misiniz?* |
 
@@ -42,7 +42,7 @@ Dijital sahipliğin ve Blockchain teknolojisinin bir araya geldiği son nokta "D
 
 &nbsp;
 
-| ![CyrtopKitties-mascot01.png](/assets/CyrtopKitties-mascot01.png) | 
+| ![CryptoKitties oyununun ünlü Twitch adlı turuncu benekli dijital kedi karakteri](/assets/CyrtopKitties-mascot01.png) | 
 |:--:| 
 | *Ünlü CryptoKitty'lerden [Twitch](https://www.cryptokitties.co/marketplace)* |
 
@@ -61,7 +61,7 @@ Geçtğimiz yıl Temmuz ayında RAC adıyla dans müziği üreten André Anjos, 
 
 &nbsp;
 
-| ![rac-ujo.jpg](/assets/rac-ujo.jpg) | 
+| ![UJO Music x RAC sitesinin ekran görüntüsü; blockchain üzerinde adil müzik lisanslama ortaklığını tanıtır](/assets/rac-ujo.jpg) | 
 |:--:| 
 | *[RAC](https://rac.ujomusic.com/)* |
 

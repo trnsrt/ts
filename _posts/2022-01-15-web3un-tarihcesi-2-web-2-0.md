@@ -55,7 +55,7 @@ Web 2.0 aslında bir nevi Web 1.0'in anti-tezi gibiydi. Gelin bakalım temel öz
 
 2010 yılı ile 2021 yıllarında dünyanın en değerli on şirketinin karşılaştırması bu alandaki değişimi net bir şekilde ortaya koyuyor: 
 
-![top10_2010_vs_2021](/assets/top10_2010vs2021_v2_800.png)
+![2010 ve 2021'de dünyanın en değerli 10 şirketi; 2010'da enerji ve bankalar, 2021'de teknoloji öne çıkıyor](/assets/top10_2010vs2021_v2_800.png)
 
 Gücün konsantre halde belli merkezlerde toplanması kendi başına belli sorunları getirdi ki, bu bir sonraki yazımızın konusu. 
 

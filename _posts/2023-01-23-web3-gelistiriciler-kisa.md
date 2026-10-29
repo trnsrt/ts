@@ -58,7 +58,7 @@ Sektöre tam zamanlı olarak giren geliştiricilerin sektörde kalışları gene
 
 Sektöre uzun vadeli yukarıdan baktığımızda ilgi çeken bir nokta ise yıllar itibariyle geliştirici sayılarının ağların toplam değerine oranı (Sayfa 18)
 
-| ![ecdr-dev_vs_network](/assets/electric_cap_dev_report_dev_vs_network.jpg)|
+| ![Aktif geliştirici sayısı ile ağların toplam değerini karşılaştıran grafik; Aralık 2022'de 23.343 geliştirici](/assets/electric_cap_dev_report_dev_vs_network.jpg)|
 |:--:| 
 | *Kaynak: [Electric Capital Developer Report](https://github.com/electric-capital/developer-reports/blob/master/dev_report_2022.pdf) - Sayfa 18*|
 
@@ -69,7 +69,7 @@ Kripto ağlarının toplam piyasa değerinin yaşanan ayı piyasası sonrası bi
 
 Sektörün ağır topu Ethereum'un liderliği geçen yıl olduğu gibi aynı şekilde devam etmekte. Ethereum tüm sektördeki tam zamanlı geliştiricilerin yaklaşık %25'ine sahip (Sayfa 58) ve kendisine en yakın topluluğun 2,5 katı büyüklüğünde (Sayfa 70). Sektörün 1000'den fazla toplam geliştiriciye sahip büyük beşlisi ise Ethereum, Solana, Polkadot, Cosmos ve Polygon olarak sıralanıyor[^4] (Sayfa 81) 
 
-| ![ecdr-1st](/assets/electric_cap_dev_report_1st_grp_2022_v2.jpg)|
+| ![En büyük akıllı kontrat platformlarının 2021 ve 2022 Aralık geliştirici sayıları; Ethereum açık ara önde](/assets/electric_cap_dev_report_1st_grp_2022_v2.jpg)|
 |:--:| 
 | *Kaynak: [Electric Capital Developer Report](https://github.com/electric-capital/developer-reports/blob/master/dev_report_2022.pdf) - Sayfa 81*|
 
@@ -79,7 +79,7 @@ Anlaşılması zor olabileceği için grafiği kısaca açıklayalım: Grafiğin
 
 En büyük beşli sonrası bir alt seviyede 300'ün üzeri toplam geliştiriciye sahip ekosistemler ise sırasıyla Bitcoin, Near, Polkadot'un kardeş ağı Kusama, Cardano, Internet Computer, Starknet, Tezos, The Graph, Avalanche ve Celo olarak sıralanmakta.[^5] (Sayfa 83)
 
-| ![ecdr-2nd](/assets/electric_cap_dev_report_2nd_grp_2022.jpg)|
+| ![300 ile 1000 geliştirici arası platformların 2021-22 geliştirici sayıları; Bitcoin ve NEAR öne çıkıyor](/assets/electric_cap_dev_report_2nd_grp_2022.jpg)|
 |:--:| 
 | *Kaynak: [Electric Capital Developer Report](https://github.com/electric-capital/developer-reports/blob/master/dev_report_2022.pdf) - Sayfa 83*|
 
@@ -87,7 +87,7 @@ Burada dikkat çekici iki nokta, geçtiğimiz yıl sadece 40 geliştiricisi olan
 
 Geçtiğimiz yıl ilk beş içinde yer alan Bitcoin ise bu sene bir alt lige düşmüş gibi görünüyor. Her ne kadar kötü bir performans gibi görülse de şaşırtıcı bir durum değil bu. Zira Bitcoin kendisini bir teknoloji altyapı platformu değil, dijital bir para olarak tanımlıyor. Bu nedenle Bitcoin'e öyle çok büyük geliştirici akını beklemek mantıklı değil. Bitcoin üzerinde aylık yeni katkı yapan geliştirici sayılarına baktığımızda ise karşımıza ilginç bir tablo çıkıyor (Sayfa 53): 
 
-| ![ecdr-btc-new_dev](/assets/electric_cap_dev_report_bitcoin_new_devs_2022.jpg)|
+| ![Bitcoin ekosistemine ay bazında yeni katılan geliştiriciler; Kasım 2017'den beri aylık ortalama yaklaşık 100](/assets/electric_cap_dev_report_bitcoin_new_devs_2022.jpg)|
 |:--:| 
 | *Kaynak: [Electric Capital Developer Report](https://github.com/electric-capital/developer-reports/blob/master/dev_report_2022.pdf) - Sayfa 53*|
 
@@ -99,7 +99,7 @@ Geçtiğimiz yıl ilk beş içinde yer alan Bitcoin ise bu sene bir alt lige dü
 Yukarıdaki listelerde yer alan isimler (belki Starknet dışında) şimdiye kadar duyulmuş ve konuşulan ağlar. Yeni neler geliyor derseniz, yukarıdaki tablonun sol altında yer alan gruba 'zoom' yapmanız gerekiyor. (Sayfa 77) 
 
 
-| ![ecdr-3rd](/assets/electric_cap_dev_report_3rd_grp_2022.jpg)|
+| ![100-300 geliştiricili platformların 2021-22 geliştirici sayıları; Aptos ve Osmosis gibi projeler öne çıkıyor](/assets/electric_cap_dev_report_3rd_grp_2022.jpg)|
 |:--:| 
 | *Kaynak: [Electric Capital Developer Report](https://github.com/electric-capital/developer-reports/blob/master/dev_report_2022.pdf) - Sayfa 77*|
 
@@ -112,7 +112,7 @@ Bu grupta en dikkat çeken iki isim, Facebook'un Diem (önceki adıyla Libra) pr
 Rapordaki bir diğer ilginç nokta ise, 2018 yılından bu yana geliştiricilerin büyük projelere doğru yönelmeye başladıkları (Sayfa 97)
 
 
-| ![ecdr-btc-new_dev](/assets/electric_cap_dev_report_top200-eth-btc_2022.jpg)|
+| ![Aktif geliştiricilerin ağlara dağılımı; 2022 sonunda yaklaşık yarısı Bitcoin ve Ethereum dışındaki ağlarda](/assets/electric_cap_dev_report_top200-eth-btc_2022.jpg)|
 |:--:| 
 | *Kaynak: [Electric Capital Developer Report](https://github.com/electric-capital/developer-reports/blob/master/dev_report_2022.pdf) - Sayfa 97*|
 
@@ -122,7 +122,7 @@ Bu arada geliştiriciler için önemli bir nokta, ağlardan ziyade hangi teknolo
 
 Rapordaki bir başka ilginç gözlem ise, farklı projelerin farklı başlangıç tarihlerini eşleştirerek yapılan analiz olmuş. (Sayfa 122)
 
-| ![ecdr-L1-aging](/assets/electric_cap_dev_report_L1_aging_2022.jpg)|
+| ![Ağların başlangıcından sonra tam zamanlı geliştirici sayılarının değişimi; Ethereum en yüksek eğriyi çiziyor](/assets/electric_cap_dev_report_L1_aging_2022.jpg)|
 |:--:| 
 | *Kaynak: [Electric Capital Developer Report](https://github.com/electric-capital/developer-reports/blob/master/dev_report_2022.pdf) - Sayfa 122*|
 
@@ -136,7 +136,7 @@ Rapor içinde blokzincirin en büyük uygulama alanı olan merkeziyetsiz finansa
 
 Ağ bazında baktığımızda ise karşımıza şu tablo çıkıyor (Sayfa 166): 
 
-| ![ecdr-defi-grps](/assets/electric_cap_dev_report_defi_grps_2022.jpg)|
+| ![DeFi'de ağ başına 1. seviye geliştirici sayıları; Ethereum DeFi diğer ağların çok üstünde seyrediyor](/assets/electric_cap_dev_report_defi_grps_2022.jpg)|
 |:--:| 
 | *Kaynak: [Electric Capital Developer Report](https://github.com/electric-capital/developer-reports/blob/master/dev_report_2022.pdf) - Sayfa 166*|
 
@@ -145,7 +145,7 @@ Görüldüğü gibi Ethereum DeFi'nin tartışmasız bir numarası olarak en yak
 Öte yandan bu alandaki geliştiricilerin ağ olarak paylarına baktığımızda ilginç bir nokta daha var: 
 
 
-| ![ecdr-defi-eth-dominance](/assets/electric_cap_dev_report_defi_eth_dominance_2022.jpg)|
+| ![DeFi geliştiricilerinin ağlara göre dağılımı; Ethereum'un payı yüzde 70'ten yaklaşık yüzde 50'ye düşüyor](/assets/electric_cap_dev_report_defi_eth_dominance_2022.jpg)|
 |:--:| 
 | *Kaynak: [Electric Capital Developer Report](https://github.com/electric-capital/developer-reports/blob/master/dev_report_2022.pdf) - Sayfa 169*|
 
@@ -158,7 +158,7 @@ NFT'ler ya da oyunlar ile ilgili geliştirici sayılarının güvenirliği olduk
 Raporda, yeni açılan cüzdanların yaptığı ilk hareketleri gösteren şu tablo da ilgi çekici: (Sayfa 175)
 
 
-| ![ecdr-defi-nft-wallets](/assets/electric_cap_dev_report_defi_ntf_wallets_2022.jpg)|
+| ![Yeni cüzdanların ilk işlemlerinde DeFi ile NFT oranı; 2022'de çoğu cüzdan NFT işlemiyle başlıyor](/assets/electric_cap_dev_report_defi_ntf_wallets_2022.jpg)|
 |:--:| 
 | *Kaynak: [Electric Capital Developer Report](https://github.com/electric-capital/developer-reports/blob/master/dev_report_2022.pdf) - Sayfa 175*|
 

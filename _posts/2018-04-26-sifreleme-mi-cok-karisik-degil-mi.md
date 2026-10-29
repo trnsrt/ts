@@ -28,7 +28,7 @@ Bir örnek yapalım dilerseniz:
 
 &nbsp;
 
-| ![ogutme-mekanizmasi.png](/assets/ogutme-mekanizmasi-v4.png) | 
+| ![Öğütme mekanizması: 'Merhaba' mesajı öğütücüden geçip anlamsız bir şifreli diziye dönüşüyor](/assets/ogutme-mekanizmasi-v4.png) | 
 |:--:| 
 | *Öğütme Mekanizması* |
 
@@ -81,7 +81,7 @@ Peki çok güzel. Ama ya bu mesajı ben değil de bir başkası yazdıysa? Onu d
 
 &nbsp;
 
-| ![sifreleme-mekanizmasi-simetrik-v2.png](/assets/sifreleme-mekanizmasi-simetrik-v2.png) | 
+| ![Basit simetrik şifreleme: mesajı kilitleyen ve açan tek anahtarı gösteren kilit çizimi](/assets/sifreleme-mekanizmasi-simetrik-v2.png) | 
 |:--:| 
 | *Basit (simetrik) Şifreleme* |
 
@@ -106,7 +106,7 @@ Yine yukarıdaki anahtar-kilit örneğinden devam edelim. Demiştik ki iki ana p
 
 &nbsp;
 
-| ![ozel-genel-anahtar-800.png](/assets/ozel-genel-anahtar-800.png) | 
+| ![Özel anahtar sadece sahibinde kalırken genel anahtarın herkese verilebildiğini gösteren çizim](/assets/ozel-genel-anahtar-800.png) | 
 |:--:| 
 | *Özel ve Genel Anahtarlar* |
 
@@ -116,7 +116,7 @@ Yine yukarıdaki anahtar-kilit örneğinden devam edelim. Demiştik ki iki ana p
 
 &nbsp;
 
-| ![sifreleme-mekanizmasi.png](/assets/sifreleme-mekanizmasi.png) | 
+| ![Özel anahtarla kilitlenen mesajın genel anahtarla açılabildiğini gösteren şifreleme şeması](/assets/sifreleme-mekanizmasi.png) | 
 |:--:| 
 | *Şifreleme Mekanizması* |
 

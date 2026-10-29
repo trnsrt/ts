@@ -15,7 +15,7 @@ Netflix'de izleyebileceğiniz Peaky Blinders dizisinde güzel bir hikaye var. 19
 
 &nbsp;
 
-| ![thomas-shelby.gif](/assets/thomas-shelby.gif) | 
+| ![Peaky Blinders dizisinden Thomas Shelby ve atı, ponzi yatırımcılarına benzetme](/assets/thomas-shelby.gif) | 
 |:--:| 
 | *Thomas Shelby ve atı [(Kaynak)](https://www.wattpad.com/588723147-a-blind-mistake-chapter-six)* |
 
@@ -33,7 +33,7 @@ Bu alanda çalışan pek çok proje özellikle para toplamak konusunda Ethereum'
  
 &nbsp;
 
-| ![ETH_vs_BTC_Index_170101_190117.png](/assets/ETH_vs_BTC_Index_170101_190117.png) | 
+| ![Ethereum ve Bitcoin'in 2017-2019 fiyat grafiği: ETH'nin 2018 zirvesi ve sert düşüşü](/assets/ETH_vs_BTC_Index_170101_190117.png) | 
 |:--:| 
 | *Ethereum ve Bitcoin'in son iki yıldaki seyri [(Kaynak)](https://www.coindesk.com/price/bitcoin)*  |
 
@@ -48,7 +48,7 @@ Ancak 2018 yılının ikinci yarısında rüzgar tersine döndü. Yapılan ICO'l
 
 &nbsp;
 
-| ![ETH_vs_BTC_Index_180101_190117.png](/assets/ETH_vs_BTC_Index_180101_190117.png) | 
+| ![2018 yılında Ethereum ile Bitcoin'in endeksli fiyatları, ETH'nin daha sert düştüğünü gösteriyor](/assets/ETH_vs_BTC_Index_180101_190117.png) | 
 |:--:| 
 | *Yukarıdaki tabloya 2018 başından bakınca düşüş daha iyi anlaşılıyor [(Kaynak)](https://www.coindesk.com/price/bitcoin)*  |
 
@@ -60,7 +60,7 @@ Ancak 2018 yılının ikinci yarısında rüzgar tersine döndü. Yapılan ICO'l
 Peki bu böyle mi devam eder. Bu işlerin aslında bir daire çizdiğini söylemek belki daha doğru. Bu alanda yazılmış en iyi kitaplardan [Cryptoassets: The Innovative Investor's Guide to Bitcoin and Beyond](https://www.amazon.com/Cryptoassets-Innovative-Investors-Bitcoin-Beyond/dp/1260026671/ref=sr_1_2?ie=UTF8&qid=1547727169&sr=8-2&keywords=cryptoassets)'nın yazarı [Chris Burnske](https://twitter.com/cburniske)'nin Ocak 2019'da attığı şu tweet dikkat çekici:
 
 
-![Chris_Burniske-crypto-cyclicality-4.png](/assets/Chris_Burniske-crypto-cyclicality-4.png)
+![Chris Burniske'nin tweeti: kripto piyasasının 2013-2021 döngüsü, çılgınlık, çöküş, sağlamlaşma ve benimseme](/assets/Chris_Burniske-crypto-cyclicality-4.png)
 
 
 Çok geniş bir genelleme bu. Ancak olaya kısa vadeli değil uzun vadeli bakanlar ve işin içinde başından beri bulunanlar için aslında yaşananlar oldukça tanıdık. O nedenle, bu alanda çalışan pek çok kişi "biz bu filmi görmüştük" diyor ve ileride gerçekleşecek yeni döngüyü üst seviyede yakalamak için var güçleriyle çabalıyorlar.

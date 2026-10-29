@@ -41,7 +41,7 @@ Bu rakamların ne ifade ettiğini anlamak için bir karşılaştırma yapacak ol
 
 Yukarıdaki rakamların dışında, detay sayılabilecek ama oldukça önemli başka veriler de var elimizde. Örneğin tüm rehin edilen ETH'lerin %32'si Liquid Staking (Türkçesi likit rehin) denen [Lido](https://lido.fi/ethereum), [RocketPool](https://rocketpool.net/) ve [FRAX](https://app.frax.finance/staking/overview) benzeri havuzların elinde. Bu havuzlardan büyük bir çıkış olması beklenmiyor. Neden? Çünkü buraya zamanında para koyanlar, bunun karşılığında bir token aldılar (Lido da [stETH](https://www.coingecko.com/en/coins/lido-staked-ether), Rocketpool'da [rETH](https://www.coingecko.com/en/coins/rocket-pool-eth) gibi). Bu tokenler likit yani piyasada alınıp satılıyorlar. Fiyatları da ETH'ye çok yakın. Dolayısıyla, Lido'ya para yatırmış birinin parasını bozdurmak için kilitlerin açılmasını beklemesine gerek yok. Liquid staking ile birlikte borsalar ya da staking havuzları tarafından rehin edilmiş yani hızlı çekim beklenmeyen rakam, toplam rehin edilmiş miktarın [dörtte üçüne denk](https://dune.com/xplorer/shanghai-event-dashboard) durumda[^2].
 
-| ![stake_dagilim](/assets/eth-staker-distribution-dune.jpg)|
+| ![Dune verisine göre ETH rehin araçlarının dağılımı; rehin havuzları yüzde 36,1 ile en büyük pay](/assets/eth-staker-distribution-dune.jpg)|
 |:--:| 
 | *Kaynak: [Dune Analytics](https://dune.com/xplorer/shanghai-event-dashboard)*|
 
@@ -53,13 +53,13 @@ Yukarıda hep çekim sonrası yaşanacak fırtınalı havaya değindik. Kısa va
 
 Öncelikle, ETH'nin üzerinde 'Demokles'in kılıcı' gibi duran 'çekim' belirsizliği ortadan kalkmış olacak. Malum, piyasalar belirsizlik sevmez ve belirsizliği aşırı biçimde fiyatlar. Zaten, aşağıdaki grafikte gördüğünüz ETH'nin BTC karşısında yaşadığı Ocak ayının ilk haftasından Mart ayı sonuna kadar yaklaşık %18,5'lik düşüşü bu belirsizliğe bağlayan önemli bir yatırımcı kitlesi var.
 
-| ![ETH-BTC](/assets/eth-btc-trading-economics-230408-800.jpg)|
+| ![ETH-BTC fiyat grafiği, Ocak-Nisan 2023; oran 0,0766 seviyesinden 0,0625 seviyesine geriliyor](/assets/eth-btc-trading-economics-230408-800.jpg)|
 |:--:| 
 | *Kaynak: [Trading Economics](https://tradingeconomics.com/ethbtc:cur)*|
 
 İkinci olarak, önümüzdeki dönemde rehin edilen ETH miktarının artmasını da bekleyebiliriz. Zira, artık 'rehin ettiğimde ne zaman geri çekeceğim' sorusu ortadan kalkıyor ama sistem rehin edilen ETH'ye ödül vermeye devam ediyor. Başka zincirlere baktığınızda Ethereum üzerindeki staking oranının oldukça düşük olduğunu görüyorsunuz. 
 
-| ![en-buyuk-on-zincir](/assets/en-buyuk-on-zincir-staking.png)|
+| ![En büyük on zincirin staking oranlarını gösteren çubuk grafik; Ethereum yüzde 16 ile düşük kalıyor](/assets/en-buyuk-on-zincir-staking.png)|
 |:--:| 
 | *Kaynak: [Staking Rewards](https://www.stakingrewards.com/)*|
 

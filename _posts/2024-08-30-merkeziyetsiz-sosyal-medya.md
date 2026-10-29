@@ -40,7 +40,7 @@ Keza daha bu hafta içinde Facebook ve Instagram’ın sahibi olan Meta’nın k
 
 Sansürün bir başka formunu ise, sosyal medya devleri istedikleri kişi ya da kurumu zaman zaman platformdan attıklarında görüyoruz. Bunların en ünlüsü Elon Musk öncesi Twitter’ın, o zamanki ABD Başkanı 88 milyon takipçili Donald Trump’un hesabını kapatması olmuştu. 
 
-| ![trump-twitter](/assets/donald_trump_twitter.png)|
+| ![Donald Trump'ın Twitter hesabının askıya alındığını gösteren ekran görüntüsü](/assets/donald_trump_twitter.png)|
 |:--:| 
 | *Twitter’da Donald Trump hesabına girenler uzunca bir süre bu ekran ile karşılaştılar.*|
 

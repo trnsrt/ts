@@ -24,7 +24,7 @@ image: /assets/dilbert-where-money-comes-from-turkce.jpg?raw=true
 ### Paranın ortaya çıkışı
 &nbsp;
 
-![](/assets/dilbert-where-money-comes-from-turkce.jpg?raw=true)
+![Dilbert çizgi romanı: 'Para parayı çeker' diyaloğu ve ilk paranın nereden geldiği sorusuna esprili bir yanıt](/assets/dilbert-where-money-comes-from-turkce.jpg?raw=true)
 &nbsp;
 
 &nbsp;
@@ -38,7 +38,7 @@ Yüzyıllar geçtikçe aracılık için kullanılan nesneler daha gelişmiş ve 
 
 &nbsp;
 
-![](/assets/Paranin-tarihi.png?raw=true)
+![Paranın tarihi: deniz kabuklarından kabuk sikkelere, taş ve altın sikkelerden banknota uzanan akış şeması](/assets/Paranin-tarihi.png?raw=true)
 
 &nbsp;
 
@@ -80,7 +80,7 @@ Gelelim paranın değerini artıran belki de en önemli, belki de ilk aklınıza
 Şimdi de yukarıda saydığımız özellikleri Bitcoin, altın ve devlet tarafından çıkarılan banknot (ya da bu dünyadaki tanımı ile "Fiat") için karşılaştırmalı olarak değerlendirelim (Vijay Boyapati'nin "[Bullish Case for Bitcoin](https://medium.com/@vijayb_24615/the-bullish-case-for-bitcoin-6ecc8bdecc1)" yazısındaki değerlendirmesinin revize edilmiş hali): 
 &nbsp;
 
-![Image](/assets/bitcoin-altin-fiat-karsilastirma-revised.png?raw=true)
+![Altın, fiat para ve Bitcoin'i altı özellikte, dayanıklılıktan kısıtlı miktara kadar notlandıran karşılaştırma tablosu](/assets/bitcoin-altin-fiat-karsilastirma-revised.png?raw=true)
 &nbsp;
 
 &nbsp;

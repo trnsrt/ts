@@ -9,7 +9,7 @@ image: /assets/pigeons-1242067_800.jpg
 
 Bu yazımızda, piyasanın en büyük üç oyuncusunun son dönem performanslarına bakıp, bizi gelecekte nelerin beklediğini anlamaya çalışacağız. 
 
-| ![three_pigeons](/assets/pigeons-1242067_800.jpg)|
+| ![Yan yana duran üç güvercin, piyasanın üç büyük ağı Bitcoin, Solana ve Ethereum için benzetme](/assets/pigeons-1242067_800.jpg)|
 |:--:| 
 | *Image by [Makamuki](https://pixabay.com/users/makamuki0-1102736/) from [Pixabay](https://pixabay.com/)*|
 
@@ -19,7 +19,7 @@ Yaşanan boğa sonrası 2022 yılında Terra Luna ekosisteminin 'patlaması' ve 
 
 Geçtiğimiz yılın son aylarındaki fiyat hareketlerine baktığımızda, Ethereum ağının parası olan etherin (ETH), bitcoin ile Solana sisteminin parası olan SOL arasına sıkışıp kaldığını görüyoruz. 
 
-| ![btc_eth_sol_fiyat_grafigi](/assets/btc_eth_sol_fiyat_grafigi_2023.png)|
+| ![2023'te Bitcoin, Ether ve SOL fiyat grafiği: SOL'un yıl sonundaki sert yükselişi](/assets/btc_eth_sol_fiyat_grafigi_2023.png)|
 |:--:| 
 |*Üç büyük ağın geçtiğimiz yıl içindeki fiyat grafikleri. Kaynak: [CoinGecko](https://www.coingecko.com/en/coins/ethereum/historical_data?start=2022-12-31&end=2024-01-05,#panel)*|
 
@@ -68,7 +68,7 @@ Ethereum geliştiricilerinin şu anki önceliği son kullanıcıya ucuz işlem y
 
 Yukarıdaki söylemin son kullanıcı açısından bir albenisi yok. Yeni gelen bireysel bir yatırımcının Ethereum ağını kullanması çok zor, zira işlem ücretleri inanılmaz yüksek. Bu söylemin ise küçük yatırımcıda değil ama kurumsal yatırımcılarda bir karşılığı var. Zira, Ethereum yüksek işlem ücreti uyguluyor ama bir yandan da yoğun bir şekilde kullanılmaya devam ediyor. Kurumsal yatırımcı için klasik anlamda gelir getiren bir ağ Ethereum. **Dolayısıyla Ethereum artık büyük yatırımcılara ve ikinci seviye ağlara hizmet veren bir altyapı haline dönüşüyor**.  
 
-| ![btc_eth_sol_aylik_ag_ucretleri](/assets/btc_eth_sol_aylik_ag_ucretleri.png)|
+| ![Bitcoin, Ethereum ve Solana'nın 2020-2023 aylık toplam işlem ücretleri; Solana'nın payı neredeyse sıfır](/assets/btc_eth_sol_aylik_ag_ucretleri.png)|
 |:--:| 
 |*Üç büyük ağda son iki yılın aylık işlem ücretleri. 'Solana nerede?' diye soracak olursanız, haklısınız. Kullanıcılara ucuz işlem ücreti sunduğunuzda, ağ olarak geliriniz olmuyor maalesef. Kaynak: Dune Analytics-[@sankin](https://dune.com/queries/3275250/5482283)*|
 

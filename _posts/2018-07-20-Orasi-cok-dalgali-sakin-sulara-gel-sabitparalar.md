@@ -11,7 +11,7 @@ Geçtiğimiz günlerde bir yemekte Bitcoin ile ilgili konuşurken, bir dostum "�
 
 &nbsp;
 
-| ![coindesk-bpi-chart-600.jpg](/assets/coindesk-bpi-chart-600.jpg) | 
+| ![Coindesk'in 26 Haziran-26 Temmuz 2018 Bitcoin fiyat grafiği; fiyat 6 binden 8 bin dolara yükseliyor](/assets/coindesk-bpi-chart-600.jpg) | 
 |:--:| 
 | *Bitcoin - Aylık Değişim Kaynak: [Coindesk](https://www.coindesk.com/price/)* |
 
@@ -22,7 +22,7 @@ Sadece Bitcoin değil tabii. Diğer KriptoParalar da böyle - hatta onların dur
 
 &nbsp;
 
-| ![tradeview-coin-compare-800.png](/assets/tradeview-coin-compare-800.png) | 
+| ![Bitcoin, Ethereum, Litecoin ve Monero'nun son iki ay yüzde değişimini gösteren karşılaştırmalı grafik](/assets/tradeview-coin-compare-800.png) | 
 |:--:| 
 | *Son iki ay % değişim - Bitcoin(Mavi), Ethereum(Kırmızı), Litecoin(Turuncu), Monero(Sarı) Kaynak: [Tradeview](https://www.multicoincharts.com/?chart=COINBASE:BTCUSD)* |
 
@@ -42,7 +42,7 @@ Acaba fiyatı sabit olan bir KriptoPara yapılamaz mıydı? Güzel soru ama kend
 
 &nbsp;
 
-| ![dollar-yagmurlu-226717_400.jpg](/assets/dollar-yagmurlu-226717_400.jpg) | 
+| ![Dolar banknotunun önünde şemsiye tutan siyah bir iş insanı silueti; doların sabit olmadığı fikrini anlatır](/assets/dollar-yagmurlu-226717_400.jpg) | 
 |:--:| 
 | *Yağmurlu havalarda sığınılacak şemsiye* |
 
@@ -72,7 +72,7 @@ Sabitparalar içinde en bilineni ise Tether (USDT).. Nedir bu Tether? Nasıl ça
 2015 yılında kurulan Tether'in çalışma mantığı aslında basit. Şöyle demiş kuranlar: Tether'i ABD Doları'na endeksleyelim. Öyle ki her zaman 1 Tether 1 Dolara eşit olsun. Tether satın almak isteyen getirsin dolarını o kadarlık Tether alsın. Bunun için de yaratılan (satılan) her Tether için o kadarlık parayı bir bankada hesaba yatırmışlar. Yani piyasada bulunan her Tetherin karşılığı olarak bankada aynı miktarda dolar bulundurmuşlar. Dolayısıyla, dolar teminatlı bir SabitPara yaratılmış Tether ile. 
 
 
-![tether-logo-400-v2.png](/assets/tether-logo-400-v2.png) 	
+![Tether logosu](/assets/tether-logo-400-v2.png) 	
 
 Ancak yine de başka sorunları yok değil. Örneğin, KriptoPara dediğimiz dünyanın merkeziyetçilikten uzak olması gerek - neden? Çünkü, bu işin gurusu Nick Szabo'nun da dediği gibi [merkezi her kurum aslında bir güvenlik açığı yaratır](https://nakamotoinstitute.org/trusted-third-parties/). Halbuki, burada teminat olarak paralar bir bankaya yatırılıyor. O bankada paralar ne kadar güvenli? Ya banka bir gün sıkıntıya girer ya da batarsa? Teorik bu tehlikeleri geçtik diyelim - gerçekten bankaya yatırılan ABD Doları karşılığı kadar mı para yaratıldı? Ya daha fazla yaratıldı ise? Kim denetleyecek? Banka ya da bir denetleme kuruluşu.. Çalışma prensibini şeffaflık üzerine kurulmuş KriptoPara dünyasına (örneğin açık kaynak bazlı ekosistem)) oldukça yabancı kavramlar..  Nitekim geçtiğimiz yılın Aralık ayında ABD resmi makamları Tether'e [soruşturma açarak](https://www.bloomberg.com/news/articles/2018-01-30/crypto-exchange-bitfinex-tether-said-to-get-subpoenaed-by-cftc) bahsedilen rakamların gerçekten teminat altında olup olmadığı ile ilgili inceleme başlattı. Ya yarın öbür gün ABD hükümeti Tether'in varlıklarına el koyarsa? Şu an öyle bir durum yok ama isterse yapma gücü var!
 

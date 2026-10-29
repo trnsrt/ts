@@ -24,7 +24,7 @@ Bu bilginin ona sağlanması gerekiyor. İşte oracle dediğimiz bilgi kaynaklar
 ### Nedir Graph? Ne işe yarar? Kimler kullanır?
 The Graph blokzincirlerin ya da onların üzerinde yaşayan DeFi ürünlerinin performansları hakkında bilgi ve analiz sunan bir hizmet. Tam olarak yaptığı blokzincirlerin yarattığı bilgileri (data ya da veri denebilir bunlara) toplamak, arama yapılacak hale sokmak (endekslemek) ve ihtiyaç duyanların hizmetine sunmak.
 
-| ![e-wallet](/assets/arrows-2899888_800.jpg)|
+| ![Büyüteçle incelenen yükselen oklu ve sütunlu grafik; The Graph ile veri analizi temsili](/assets/arrows-2899888_800.jpg)|
 |:--:| 
 | *Image by [Gerd Altmann](https://pixabay.com/users/geralt-9301/) from [Pixabay](https://pixabay.com/)*|
 
@@ -41,7 +41,7 @@ Burada basit bir örnek vermek konuyu somutlaştırmak açısından iyi olabilir
 
 Uniswap, üzerinde 2020 yılının Şubat ayı içinde toplam [4.2 milyon adet alım-satım işlemi](https://duneanalytics.com/danrobinson/uniswap-combined-metrics) gerçekleşmiş. Bu Ethereum zinciri üzerine yazılmış bu kadar sayıda işlem demek. Bütün bunlar Uniswap içindeki [167 adet farklı havuz](https://info.uniswap.org/pairs)'da gerçekleşmiş. Her bir havuzdaki işlemleri,  hacimleri ve havuzların dinamiklerini düşünürseniz, işleyip analiz edebileceğiniz milyonlarca bilgi var. İşte bu işlemlerin ve havuzların durumunu anlık ya da belli tarih aralıkları içinde dönemsel olarak almak isterseniz The Graph sistemini kullanabilirsiniz.
 
-| ![uniswap_on_the_graph](/assets/uniswap-overview_800.jpg)|
+| ![The Graph ile oluşturulan Uniswap genel bakış paneli; hacim, toplam likidite ve zaman grafiği](/assets/uniswap-overview_800.jpg)|
 |:--:| 
 | *En basitinden The Graph kullanılan bir Uniswap grafik örneği. Kaynak: [The Graph](https://thegraph.com/blog/uniswap-built-on-the-graph)*|
 

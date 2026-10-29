@@ -31,7 +31,7 @@ Hemen akla şu soru gelebilir: "Sağlık kurumları kendi aralarında anlaşsa v
 
 &nbsp;
 
-| ![healthureum.png](/assets/healthureum2.png) | 
+| ![Healthureum logosu ve blockchain tabanlı sağlık kayıtlarının avantajlarını sıralayan infografik](/assets/healthureum2.png) | 
 |:--:| 
 | *Healthureum sistemi [nasıl çalışıyor](https://healthureum.wordpress.com/2018/01/24/advantages-of-a-blockchain-enabled-ehr-as-implemented-by-project-healthureum-over-the-conventional-record-keeping-software-that-is-presently-in-use-2/)?* | 
 

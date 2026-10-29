@@ -14,7 +14,7 @@ image: /assets/road-2360545_800.jpg
 Sıkça kullandığım bir benzetme var: Yaşadığımız 'fiziki' dünyayı bir kıtaya benzetirsek, blokzincirler ana kara çevresine sıralanmış küçük adalar gibiler. Bizim bu adalara gidebilmemizi, yani itibari (fiat) paradan kriptoparaya geçişimizi genelde kripto alım-satım platformları sağlıyorlar. Peki bu adalar arasında gidip gelmek istersek? Bir blokzincirden öbürüne geçmek istersek? O zaman birkaç yol var ama önümüzdeki dönemde en sık konuşacağımız yol köprüler olacak gibi görünüyor. 
 
 
-| ![island_bridge](/assets/road-2360545_800.jpg)|
+| ![Okyanus üzerindeki kıvrımlı bir köprünün yeşil bir adaya ve gökdelenlere uzandığı 3B görsel, köprü benzetmesi](/assets/road-2360545_800.jpg)|
 |:--:| 
 | *Image by [Lennart Demes](https://pixabay.com/users/struffelproductions-589546/) from [Pixabay](https://pixabay.com/)*|
 
@@ -25,7 +25,7 @@ Blokzincir dediğimiz esasında bir yazılım ve temel işlevi üzerine kurulu o
 
 Peki, o zaman bir blokzincirden diğerine nasıl geçiş yapılabilir? Örneğin, bir kullanıcı Ethereum üzerindeki kriptoparasını Avalanche ağına nasıl geçirebilir? 
 
-| ![L1_ecosistemi](/assets/Layer-1-Ecosystem-Map_1600_v3.jpg)|
+| ![Bitcoin, Ethereum, Solana ve Avalanche gibi 1. seviye blokzincirlerin göreli büyüklüğünü gösteren ekosistem haritası](/assets/Layer-1-Ecosystem-Map_1600_v3.jpg)|
 |:--:| 
 | *Blokzincir Dünyası. Kaynak: [Blockchain Comparison](https://web.archive.org/web/20220301122220/https://blockchain-comparison.com/blockchain-protocols/)*|
 
@@ -46,7 +46,7 @@ Bunu fırsat bilen Ethereum rakibi blokzincirler hızlı ve ucuz işlem önerisi
 #### Alternatif zincirler tarafından verilen teşvikler
 Tabii kitleleri diğer blokzincirlere yönlendiren sadece düşük işlem ücretleri değil. Herhangi bir blokzincirde özellikle finans alanında bir işlem yapmak isteyen yatırımcının baktığı iki temel kriter var: Birincisi getiri, ikincisi ise likidite. Ethereum üzerine kurulan DeFi protokollerinin likidite yaratabilmek için 2020 yılı yaz aylarında nasıl teşvikler verdiğinden daha önce birkaç kez bahsetmiştik. İşte alternatif blokzincirleri de benzer yöntemi kullanarak, Ethereum üzerindeki yoğunluk nedeniyle gidecek başka yer arayan likiditeyi çekebilmek için kendi tokenlerini verdikleri teşvik programları açıkladılar. 
 
-| ![TVL_on_L1s](/assets/TVL_on_L1s_800.jpg)|
+| ![2021'de blokzincirlerin kilitli değer payını gösteren grafik: Ethereum payı %98'den %66'ya düşüyor](/assets/TVL_on_L1s_800.jpg)|
 |:--:| 
 | *Ekosistem üzerinde kilitli değerin blokzincirler arasındaki dağılımı. Kaynak: [Coingecko Kriptopara Raporu 2021](https://www.coingecko.com/buzz/2021-yearly-cryptocurrency-report) Sayfa 32*|
 

@@ -17,7 +17,7 @@ Yeni teknolojiler ile yaratılan katma değer artık daha eşit şekilde paylaş
 
 &nbsp;
 
-| ![Telefon-jetonu-2-400.png](/assets/Telefon-jetonu-2-400.png) | 
+| ![Eski PTT telefon jetonunun iki yüzü, token kavramını jetonla karşılaştırmak için](/assets/Telefon-jetonu-2-400.png) | 
 |:--:| 
 | *Eski günlerdeki (hatırlayana tabii) PTT jetonu* | 
 
@@ -43,7 +43,7 @@ Sistemin çalışmasına yardımın başka çeşitleri de var. Örneğin [Brave]
 
 &nbsp;
 
-| ![BAT-Brave.png](/assets/BAT-Brave.png) | 
+| ![Brave tarayıcısının BAT token dağıtımını gösteren kullanıcı, reklamveren ve yayıncı üçgeni](/assets/BAT-Brave.png) | 
 |:--:| 
 | *[Brave Browser Token'i BAT](https://brave.com/)* |
 

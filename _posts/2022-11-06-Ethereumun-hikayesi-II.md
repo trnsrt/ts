@@ -17,7 +17,7 @@ Bu olay sonrasında, Ethereum için ikinci büyük gelişme, 2017 yılında yaş
 
 Farklı farklı vizyonlara sahip pek çok proje, 2017 yılı içinde görücüye çıktı. Eskinin teknoloji dünyasında yeni projelere sadece girişim sermayesi fonlarının girmesi mümkün iken, ICO'lar ile toplumun her kesiminin bu yatırımlara erken aşamada dahil edilmesi sağlandı. Bu da tahmin edilemez bir ilgi yarattı. 
 
-| ![ethereum_2](/assets/ethereum-6928106_800.jpg)|
+| ![Mor zemin üzerinde altın renkli Ethereum madeni parası ve devre desenleri, yazının kapak görseli](/assets/ethereum-6928106_800.jpg)|
 |:--:| 
 | *Image by [Satheesh Sankaran](https://pixabay.com/users/satheeshsankaran-11196627/) from [Pixabay](https://pixabay.com/)*|
 

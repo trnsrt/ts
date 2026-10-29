@@ -16,14 +16,14 @@ Enerji tasarrufu konusu gerek Bitcoin gerekse de Ethereum'un zayıf karnı denil
 
 Bitcoin topluluğu felsefi olarak PoW'u bırakmayıp devam ederken Ethereum topluluğu PoS sistemini sevdi ve kendini o sisteme geçmek için hazırlamaya başladı. PoS sistemi sayesinde Ethereum'un enerji harcaması %99 oranında düşecek. Dolayısıyla bundan sonra bazı politikacıların kulaktan dolma bilgilerle çok sık kullandıkları 'ama blokzincir çok enerji harcıyor' argümanı ile bundan böyle sadece Bitcoin topluluğu muhatap olacak. 
 
-| ![Pow_Pos_consumption](/assets/ethereum_power_consumption_v3_800.png)|
+| ![Bitcoin, Ethereum PoW ve PoS enerji tüketimini karşılaştıran grafik; PoS çok daha düşük güç harcıyor](/assets/ethereum_power_consumption_v3_800.png)|
 |:--:| 
 | *İş Kanıtı (PoW) ve Hisse Kanıtı (PoS) sistemlerinin enerji tüketimi. Kaynak: [Ethereum](https://blog.ethereum.org/2021/05/18/country-power-no-more/).*|
 
 
 Ethereum'da PoS'e geçiş sadece teoride kalmış değil, uzunca bir süredir pratik olarak da yol almış durumda. PoW mekanizmasında sistemi yürüten madenciler, PoS'da yerlerini ETH kilitleyerek sistemi koruyacak olan onaylayıcılara bırakıyorlar. Aralık 2020'den itibaren başlayan PoS sisteminde insanlar (ya da kurumlar) ellerindeki ETH'yi belirli bir faiz oranı karşılığında rehin etmeye ve onaylayıcı olmaya başladılar. Aradan sadece 15 ay geçmiş olmasına rağmen şu ana kadar [11.7 milyon ETH](https://beaconcha.in/) yani [toplam dolaşımdaki ETH'nin](https://etherscan.io/stat/supply) %9.7'si sisteme kilitlenmiş durumda. 
 
-| ![total_staked_ETH](/assets/Ethereum_ETH_2_0_Staking_Rate_v3_800.png)|
+| ![Aralık 2020'den beri stake edilen ETH'nin toplam ETH'ye oranı grafiği; 2022 Nisan'da yüzde 10'a yakın](/assets/Ethereum_ETH_2_0_Staking_Rate_v3_800.png)|
 |:--:| 
 | *2020 Aralık'tan bu yana stake edilen ETH'nin toplam ETH'ye oranı. Kaynak: [CryptoQuant](https://cryptoquant.com/asset/eth/chart/eth2/eth-20-staking-rate-percent?window=DAY&sma=0&ema=0&priceScale=linear&metricScale=linear&chartStyle=column).*|
 

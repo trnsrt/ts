@@ -38,7 +38,7 @@ Coindesk haberi sonrası dikkatlerin üzerine çevrildiği bu saadet zincirini p
 
 Alameda Pazartesi günü panik halindeki yatırımcıların yaptığı satışları karşılamak ve FTT fiyatını 22 dolarda tutmak için büyük savaş verse de sonunda yenik düşüyor. Sonuç olarak bir tweet koca bir yapının temelindeki taşın çekilmesi ve kumdan kulenin yıkılmasına neden oluyor. 
 
-| ![sand_tower](/assets/sand-2549096_800.jpg)|
+| ![Kumdan yapılmış gülümseyen yüzlü bir kum kalesi, FTX'in kum kulesi gibi çökmesi benzetmesi](/assets/sand-2549096_800.jpg)|
 |:--:| 
 | *Image by [flockine](https://pixabay.com/users/flockine-5479910/) from [Pixabay](https://pixabay.com/)*|
 

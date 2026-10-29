@@ -26,7 +26,7 @@ Later on, the inventors realized that, they can use this channel not only to syn
 
 In line with genuine 'open research' spirit, all the technology created by universities in that era was licensed for free. Examples include TCP/IP, HTTP (later on HTTPS) and GPS. After all **we all stand on the shoulders of giants**. 
 
-| ![three_elephants](/assets/ornament-4729903_800.jpg)|
+| ![Three silver ornamental elephants stacked on each other, a decorative image for the web history article](/assets/ornament-4729903_800.jpg)|
 |:--:| 
 | *Image by [Paul Bates](https://pixabay.com/users/pbat34-14092788/) from [Pixabay](https://pixabay.com/)*|
 
@@ -39,13 +39,13 @@ Result: A frantic Dotcom craze... Ideas floating, visionary business plans all a
 
 When valuations were skyrocketed but business plans could not hold their promise, we had a [Dotcom bubble](https://en.wikipedia.org/wiki/Dot-com_bubble) and then crash... Was it all gloom and doom?
 
-| ![dotcom_bubble_and_crash](/assets/dotcom_bubble_and_crash_800.jpg)|
+| ![Nasdaq Composite index from 1994 to 2005, showing the dot-com bubble peak around 2000 and the crash after](/assets/dotcom_bubble_and_crash_800.jpg)|
 |:--:| 
 | *By Lalala666 at [Wikipedia](https://commons.wikimedia.org/w/index.php?curid=3189816)*|
 
 Of course not. Some of the ideas actually managed to have huge success. Such as? Google, Facebook and Amazon.. In fact, they become so successful that their global dominance has become unavoidable. Just look at the most valuable companies and see how the list has changed in ten years from 2010 to 2020: 
 
-| ![most_valuables](/assets/top_10_2010_2020_800.jpg)|
+| ![Bar chart comparing the most valuable companies in 2010 and 2020, with Apple, Microsoft and Google leading in 2020](/assets/top_10_2010_2020_800.jpg)|
 |:--:| 
 | *Source: 2010 by [FT](https://www.ft.com/content/3e2e2c2a-68bc-11df-96f1-00144feab49a), 2020 by [Google Finance](https://www.google.com/finance)*|
 
@@ -61,7 +61,7 @@ Facebook started using an algorithm to decide which posts to publish. Their logi
 
 This was actually beginning of the end of second phase. Started as something that is user friendly, connecting millions, within the touch of cell phones, has become a gigantic machine that tracks every movement of users and more worryingly trying to manipulate their online behavior. Such as? Listening in your phone calls with your friends and showing you relevant ads. That sounds quite handy. How about, your child watching a video about race cars and suddenly get exposed to miniature car toys. Not so OK. Showing you a post about the elections which let you believe that there is no point to go to the polls to vote? No, no, no... 
 
-| ![lives_of_others](/assets/lives_of_others_800.jpg)|
+| ![The Lives of Others film poster: a man in headphones listens while a couple embraces, evoking phone surveillance](/assets/lives_of_others_800.jpg)|
 |:--:| 
 | *'Lives of Others' - a fantastic movie about East German Secret Service tapping into people's phones. Now tech giants listen to our phones with our consent  Source: [IMDB](https://www.imdb.com/title/tt0405094/mediaviewer/rm673410048/)*|
 

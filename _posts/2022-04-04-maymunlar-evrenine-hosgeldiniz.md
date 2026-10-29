@@ -15,7 +15,7 @@ NFT dünyasının ilk koleksiyonlarından olan ve uzunca bir süre en pahalı ko
 ## Satın alma sonrası yaşanan olaylar, olaylar... 
 Yuga Labs 14 aylık bir proje. Bayrak projeleri BAYC henüz bir yaşına girmedi bile ancak görünen o ki, NFT dünyasının en ağır toplarından biri olmaya aday bir ekip. Projelerinin ve hedeflerinin arkası kesilmiyor. 
 
-|![ape_cookie](/assets/cakes-618102_800.jpg)|
+|![Aslan, kaplan, maymun ve fil yüzleriyle süslenmiş cupcake'ler; maymun temalı yazının kapak görseli](/assets/cakes-618102_800.jpg)|
 |:--:| 
 | *Image by [Michael Baragwanath](https://pixabay.com/users/envasa-679813/) from [Pixabay](https://pixabay.com/)*|
 
@@ -26,7 +26,7 @@ Gelin son bir ayda neler oldu hızlıca bakalım:
 
 Yuga Labs tarafından çıkarılan ApeCoin, yeni kurulan ApeCoin DAO'nun yönetim tokeni. Bunun dışında Yuga Labs'ın bundan sonra yaratacağı aktivitelerde (birazdan geleceğiz bunlara) alışveriş aracı olarak kullanılmak ve token sahiplerine çeşitli etkinliklere katılım hakkı vermek gibi işlevleri de var. 
 
-|![ape_coin_logo](/assets/apecoin_logo.jpg)|
+|![ApeCoin logosu: mavi daire içinde beyaz maymun kafatası figürü](/assets/apecoin_logo.jpg)|
 |:--:| 
 | *ApeCoin logosu. Kaynak: [Twitter](https://twitter.com/apecoin)*|
 

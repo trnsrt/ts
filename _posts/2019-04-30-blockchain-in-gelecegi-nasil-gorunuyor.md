@@ -28,7 +28,7 @@ Peki bu teknolojilerin aracılar ile derdi ne?
 Web 2.0 bize pek çok yeni şirket ve iş modeli getirdi. 20 yıl önce ortada olmayan şirketler bugün dünyanın en büyüğü oldular. Bakın listeye, piyasa değeri en yüksek on şirketin yedisi teknoloji şirketi ve bunların beşi Web 2.0 sonrası doğdular (Apple biraz daha eski ama esasında onun büyümesi de Web 2.0 sayesinde)
 
 
-| ![top_10_in_mcap_v3.png](/assets/top_10_in_mcap_v3.png) | 
+| ![Mayıs 2019 itibarıyla dünyanın en büyük 10 şirketinin piyasa değerleri (milyar ABD doları); çoğu teknoloji şirketi](/assets/top_10_in_mcap_v3.png) | 
 |:--:| 
 | *Dünyanın en büyük 10 şirketi - Mayıs 2019 (Milyar ABD Doları)* | 
 

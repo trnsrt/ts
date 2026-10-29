@@ -24,7 +24,7 @@ Bitcoin işlemi özünde herhangi bir miktarda paranın (bu sistemde bu para BTC
 
 &nbsp;
 
-| ![transaction-sample-640-b.png](/assets/transaction-sample-640-b.png) | 
+| ![Blockchain.com'da gerçek bir Bitcoin işleminin ayrıntıları: işlem numarası, girdi ve çıktı tutarları](/assets/transaction-sample-640-b.png) | 
 |:--:| 
 | *28 Kasım 2018 tarihli gerçek bir [işlem](https://www.blockchain.com/btc/tx/f1cd43bc5be1309c8e76d4584a8f6dfbfca37399588416042f8a85603c5f4995)* |
 
@@ -54,7 +54,7 @@ Bitcoin'in karışmaması, herhangi bir şekilde rahat takip edilebilmesi için 
 
 Örnek verelim: Diyelim size Ali'den 0.5 BTC (Bitcoin) ve Ayşe'den de 0.4 BTC geldi. Cüzdanınızda bu iki para ayrı ayrı durur. Birbirine karıştırılmaz.  Ve diyelim ki siz şimdi Barış'a 0.3 BTC göndereceksiniz. 
 
-![Bitcoin-transaction-example-b.png](/assets/Bitcoin-transaction-example-b.png) 
+![Barış'a 0.3 BTC gönderilirken 0.5 BTC'lik paranın yok edilip 0.3 ve 0.2 BTC'ye bölünmesini gösteren şema](/assets/Bitcoin-transaction-example-b.png) 
 
 Sistem şöyle çalışır: Ali'den gelmiş 0.5 BTC alınır. Sonrasında bu paranın 0.3 BTC'si Barış'a gönderilir, kalan 0.2 BTC benim adıma yaratılan yeni bir Bitcoin adresine gönderilir (ve benim cüzdanıma geri döner). Yani bir nevi elimde 0.5 BTC bütün banknot var, Barış'a 0.3 BTC verdim, kalan 0.2 BTC de "paranın üstü" olarak bana geri döndü. 
 

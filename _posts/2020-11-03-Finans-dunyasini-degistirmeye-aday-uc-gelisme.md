@@ -31,7 +31,7 @@ Dijitalleşmenin hayatımıza girmesi ile birlikte bireylerin ihtiyaç duyduğu 
 **Ancak finansal kurumların belli bir komisyon karşılığı yüksek kâr marjları ile işlem yaptıkları dönemlerin artık yavaş yavaş sonuna gelmeye başladık.** Rekabetten söz etmiyorum, o artarak sürüyor. Yukarıda bahsettiğimiz kanalların altı daha temelden oyulmaya başladı. Tek tek bakalım şimdi: 
 
 
-| ![uc_silahsorler](/assets/geograph-3927600-by-Chris-Morgan_800.jpg)|
+| ![Üç silahşör kostümü giymiş üç kişi bir koşu etkinliğinde; finansal kurumlara üç koldan saldırı metaforu](/assets/geograph-3927600-by-Chris-Morgan_800.jpg)|
 |:--:| 
 | *Photo © [Chris Morgan](https://www.geograph.org.uk/profile/69729) ([cc-by-sa/2.0](https://creativecommons.org/licenses/by-sa/2.0/))*|
 

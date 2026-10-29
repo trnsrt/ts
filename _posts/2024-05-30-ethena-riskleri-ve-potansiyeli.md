@@ -29,7 +29,7 @@ Genelde bu piyasalarda işlem yapanlar risk alma iştahına sahipler. Yani işle
 
 İşte Ethena'nın sürekli 'short' pozisyon oynadığını düşündüğümüzde, belirli aralıklarla 'fonlama maliyeti' ödeyerek zarar yazması da mümkün. Peki geçmişte bu ne kadar gerçekleşmiş? Ethena'nın açıkladığı verilere göre son üç yılın yaklaşık beşte birinde short'lar fonlama maliyeti ödemiş (ödedikleri fonlama maliyeti de ortalama yıllık %8.8'e denk geliyor). Kalan zamanda beşte dördünde ise longlar ödeme yaptığı için kâr etmiş. 
 
-| ![eth-perp-kayip-kazanc](/assets/eth-perp-kazanc-kayip-oranlav2.png)|
+| ![ETH vadeli işlemlerinde son üç yılın günlerinin yüzde 81'i kazanç, yüzde 19'u kayıp getirdi](/assets/eth-perp-kazanc-kayip-oranlav2.png)|
 |:--:| 
 | *ETH perpetuals piyasalarında son üç yıl içinde short pozisyon açanların fonlama geliri/gideri. Kaynak: [Ethena Labs](https://app.ethena.fi/dashboards/hedging/ETH)*|
 
@@ -39,7 +39,7 @@ Peki ya piyasa çok uzun süre ayıda kalır, short'lar ağır basar ve fonlama 
 
 Geçtiğimiz üç yıla bakacak olursak, shortların zarar yazdığın en uzun dönemin 13 gün ile bir kez gerçekleştiğini görüyoruz. 
 
-| ![ethena-ardisik-gun-sayilari](/assets/ethena_ardisik_gun-sayilari.png)|
+| ![Fonlama maliyetlerinin ardışık beş günden uzun serileri; en uzun kayıp serisi 13 gün, en uzun kazanç serisi 108 gün](/assets/ethena_ardisik_gun-sayilari.png)|
 |:--:| 
 | *Perpetual piyasalarında fonlama maliyetlerinin serileri (5 günden fazla seriler). Yeşil olanlar art arda pozitif gelir getirdiği günler (180 güne kadar çıkmış), kırmızı olanlar ise negatif getiriler (en fazla 13 gün olmuş). Kaynak: [Ethena Labs](https://ethena-labs.gitbook.io/ethena-labs/solution-overview/risks/funding-risk)*|
 
@@ -47,7 +47,7 @@ Burada hemen bir parantez açarak, Ethena'nın nereden para kazandığına bakal
 
 İşte Ethena bu gelirlerinden bir kısmını (%80'ini) şu anda rezerv fona koymakla meşgul. Rezerv fonun hayata geçtiği son üç ay içinde şu ana kadar [40 milyon ABD doları toplanmış durumda](https://app.ethena.fi/dashboards/solvency). Ethena'ın risk profilini yapan [Chaos Labs'e göre](https://596495599-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FsBsPyff5ft3inFy9jyjt%2Fuploads%2FXx0DNbv33KWqybLS4HvU%2FChaos%20Labs%20-%20Ethena%20Perpetual%20Assessment%20Report%20Final.pdf?alt=media&token=0d167789-ee8b-4135-9ebd-d5e07033aa48) vadeli piyasalardaki fonlama maliyetini ödemesinden dolayı zarar edilmesi durumunda rezervde tutulması gereken para her bir milyar USDe için yaklaşık 33 milyon ABD doları. Ethena'nın şu ana dek yaklaşık 2.3 milyar USDe bastığını düşünürsek, şu anda bir açık olduğunu ama bu açığın kapanmakta olduğunu belirtelim. 
 
-| ![ethena-rezerv-vs-usde](/assets/ethena-rezerv-geliri-tablosu_v2.png)|
+| ![Ethena rezerv fonu, USDe arzı ve Chaos Labs önerisi karşılaştırması; rezerv artsa da önerinin altında kalıyor](/assets/ethena-rezerv-geliri-tablosu_v2.png)|
 |:--:| 
 | *Ethena'nın elinde tuttuğu rezervin ve USDe'nin aylar içinde gelişimi. Kırmızı çizgi ile gördüğünüz Chaos Labs tarafından önerilen rezerv miktarı. Gördüğünüz gibi rezerv sürekli artıyor olsa da USDe de arttığı için yetersiz kalıyor. Kaynak: Delphi Digital 'The rise of Ethena - Unpacking the Emerging Synthetic Dollar' raporu*|
 

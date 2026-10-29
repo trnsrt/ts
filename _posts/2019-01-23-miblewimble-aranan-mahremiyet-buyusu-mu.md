@@ -19,7 +19,7 @@ MibleWimble 2016 Ağustos ayında KriptoParalar üzerine uğraşan bir grup yaz�
 
 &nbsp;
 
-| ![mimblewimble__400.png](/assets/mimblewimble__400.png) | 
+| ![MimbleWimble white paper'ın ilk sayfası, rumuz Tom Elvis Jedusor ve 19 Temmuz 2016 tarihiyle](/assets/mimblewimble__400.png) | 
 |:--:| 
 | *MimbleWimble White Paper - Kaynak: [Github](https://github.com/mimblewimble/docs/wiki/MimbleWimble-Origin)* |
 
@@ -34,7 +34,7 @@ Gerçekten değil mi? Yukarıdaki paragrafta ismi geçen şahısların hiçbiri 
 
 &nbsp;
 
-| ![Tongue_Tying_Curse.png](/assets/Tongue_Tying_Curse.png) | 
+| ![Harry Potter'daki Dil Bağlama Büyüsü'nü simgeleyen, koyu zeminde gümüş renkli bir işaret](/assets/Tongue_Tying_Curse.png) | 
 |:--:| 
 | *Harry Potter'daki 'Dil Bağlama Büyüsü'nün el işareti - [Kaynak](https://harrypotter.fandom.com/wiki/Tongue-Tying_Curse?file=Tongue-tying-curse.png)* |
 
@@ -44,7 +44,7 @@ Gerçekten değil mi? Yukarıdaki paragrafta ismi geçen şahısların hiçbiri 
 
 &nbsp;
 
-| ![Lordvoldemort-wikipedia.jpg](/assets/Lordvoldemort-wikipedia.jpg) | 
+| ![Harry Potter film karesinden, koyu yeşil cübbeli ve soluk tenli Lord Voldemort karakteri](/assets/Lordvoldemort-wikipedia.jpg) | 
 |:--:| 
 | *Lordvoldemort - Kaynak: Wikipedia* |
 
@@ -52,15 +52,15 @@ Gerçekten değil mi? Yukarıdaki paragrafta ismi geçen şahısların hiçbiri 
 
 - *Grin*: MimbleWimble üzerine kurulu en tanınmış uygulama (detaylar bir sonraki [yazıda](/genel/2019/01/24/gelecegin-odeme-araci-grin-mi-olacak.html)). Yine Harry Potter öykülerinden birindeki Gringott's büyücülük bankasının adı.
 
-![grin-400.png](/assets/grin-400.png)
+![Grin bölümünde yer alan, MW gözlü sarı gülen yüz görseli](/assets/grin-400.png)
 
 - *Ignotus Peverell*: Grin projesinin lideri. Harry Potter'daki görünmezlik pelerinini üreten büyücü.
 
-![ingotuspeverelaminoappscom-400.jpg](/assets/ingotuspeverelaminoappscom-400.jpg)
+![Altın rengi parıltılı pelerin giyen bir figür, Harry Potter'daki görünmezlik pelerinine gönderme yapıyor](/assets/ingotuspeverelaminoappscom-400.jpg)
 
 - *Luna Lovegood, Seamus Finnigan, Percy Weasley*: Grin projesindeki diğer kullanıcı isimleri. Hepsi Harry Potter ailesinden
 
-![three_harry_potter_characters-400-2.jpg](/assets/three_harry_potter_characters-400-2.jpg)
+![Luna Lovegood, Seamus Finnigan ve Percy Weasley karakterlerinin yan yana fotoğrafları, Grin kullanıcı adlarına gönderme](/assets/three_harry_potter_characters-400-2.jpg)
 
 
 ### Nedir özünde MimbleWimble?
@@ -88,7 +88,7 @@ MimbleWimble başka diğer pek çok proje gibi açık kaynak bir yazılım. Aç�
 
 #### Beam
 
-![beam-400.png](/assets/beam-400.png)
+![Beam logosu, mavi üçgen ve pembe ışın; MimbleWimble üzerine kurulu proje](/assets/beam-400.png)
 
 MimbleWimble üzerine çıkan iki projeden biri olan [Beam](https://www.beam.mw/), İsrailli bir girişimci olan [Alexander Zaidelson](https://twitter.com/azaidelson)'un CEO'luk yaptığı bir oluşum. 2018 sonbaharında 400 Bin ABD Doları yatırım alan proje, derli toplu bir şekilde MimbleWimble üzerine Beam adlı KriptoPara'yı kurmak için uğraşıyor. Dertli toplu derken, bir ekibe sahip olması, kendilerine çizdikleri bir yol planına sahip olması, yatırım alması, Beam parasını açtıklarında kurucular için kendilerine bir para ayırmaları gibi özellikler. Zcash benzeri ICO yapan bir KriptoPara'nın geçtiği tüm süreçlerin benzerini yapmaya çalışıyorlar. 
 

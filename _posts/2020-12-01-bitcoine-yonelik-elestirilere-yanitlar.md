@@ -55,7 +55,7 @@ Gelin Bitcoin dünyasının bu sorulara verdiği cevaplara bakalım şimdi de..
 
 Bitcoin'in fiyatı iniş-çıkışlı. Buna kimsenin itirazı olamaz.  Baksanıza yıllar itibariyle şu grafiğe: 
 
-| ![BTC_201201](/assets/BTC_price_201201_800.jpg)|
+| ![CoinGecko'dan 2013-2020 arası Bitcoin fiyat grafiği; 2017 ve 2020 sonundaki sert yükselişler ve dalgalanmalar](/assets/BTC_price_201201_800.jpg)|
 |:--:| 
 | *BTC fiyatı. Kaynak: [CoinGecko](https://www.coingecko.com/en/coins/bitcoin)*|
 

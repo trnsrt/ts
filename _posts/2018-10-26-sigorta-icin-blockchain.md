@@ -9,7 +9,7 @@ image: /assets/water-975728_640.jpg
 
 Geçtiğimiz yazılarda Blockchain bazlı dağıtık sistemlerin faydalı olabileceği alanlardan [sağlık](/genel/2018/04/17/saglik-icin-blockchain.html), [sanat](/genel/2018/04/06/sanat-icin-blockchain.html), [seyahat](/genel/2018/07/06/seyahat-icin-blockchain.html) sektörleri ile [hayır işleri](/genel/2018/03/29/Iyilik-icin-blockchain.html), [tahmin piyasaları](/genel/2018/07/13/gelecegi-tahmin-icin-blockchain.html) ve [tedarik zincirlerine](/genel/2018/08/17/tedarik-zinciri-icin-blockchain.html) bakmıştık.  Şimdi gelin finansal piyasalara daha yakın olan sigorta sektörüne bakalım. 
 
-![water-975728_640.jpg](/assets/water-975728_640.jpg)
+![Yarısı suyun altında kalmış bir kamyon, sigortanın beklenmedik zararlar ve riskler temasını simgeliyor](/assets/water-975728_640.jpg)
 
 
 

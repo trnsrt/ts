@@ -23,13 +23,13 @@ There have been many initiatives that were brought up by these people such as th
 
 One of these people was an unknown cypherpunk that uses the pseudonym [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto). We don't know the actual name of the person or even if this is a person or a group of people. Satoshi Nakamoto has unveiled a white paper called [Bitcoin: A Peer to Peer Electronic Cash System-pdf](https://bitcoin.org/bitcoin.pdf) in October 2008. You can read the paper in English and 35 other languages [on this link](https://bitcoin.org/en/bitcoin-paper). 
 
-| ![Bitcoin_White_Paper](/assets/Bitcoin-white-paper_800.png)|
+| ![First page of the Bitcoin white paper, titled 'Bitcoin: A Peer-to-Peer Electronic Cash System'](/assets/Bitcoin-white-paper_800.png)|
 |:--:| 
 | *Bitcoin White Paper [Source](https://bitcoin.org/en/bitcoin-paper)*|
 
 After getting numerous feedback from others, Nakamoto started operating the Bitcoin network on January 3, 2009. They (from now on Nakamoto will be addressed as 'they') also put a message. The message is a quote from Times newspaper (from the UK), stating "Government on the brink of a second bailout for banks".
 
-| ![genesis_block](/assets/genesis-block_800.png)|
+| ![Hex dump of the Bitcoin genesis block, with the embedded Times newspaper headline highlighted in red](/assets/genesis-block_800.png)|
 |:--:| 
 | *First block in Bitcoin, aka Genesis Block [Source](https://en.bitcoin.it/wiki/Genesis_block)*|
 
@@ -41,7 +41,7 @@ While there were many incidents (such as the famous [pizza order](https://financ
 
 Satoshi themselves wrote a message to the organization, stating that Bitcoin is an experiment and should not be used for such purpose. 
 
-| ![satoshi_message](/assets/satoshi_wikileaks.png)|
+| ![Satoshi's 2010 bitcointalk reply to WikiLeaks saying Bitcoin was too small for their use at that stage](/assets/satoshi_wikileaks.png)|
 |:--:| 
 | *Satoshi's post on Wikileaks accepting Bitcoin [Source](https://bitcointalk.org/index.php?topic=1735.msg26999#msg26999)*|
 

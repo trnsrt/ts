@@ -11,7 +11,7 @@ Bu yazımızda SEC'in bu hafta başında peş peşe açtığı iki davanın orta
 
 Kripto dünyasında yavaş hafta diye bir kavram yok. Bu haberciler ve köşe yazarları için bulunmaz bir nimet. Başka sektörlerde yaşanan 'bir şirket bir ürün piyasaya sürse de onun PR açıklamasından bir yazı çıkarsak' derdi bu alanda kesinlikle yok. Bakın işte, daha bu hafta ABD'nin Sermaye Piyasaları Kurumu olan SEC'nin (Securities Exchange Commission) kripto dünyasının iki büyük alım-satım platformuna açtığı davalar bir anda [gündeme oturuverdi](https://www.btchaber.com/sec-coinbasee-dava-acti/). Gelin bu yazımızda bu davaların önemi ile Binance, Coinbase ve genel olarak kripto dünyasına etkilerini anlamaya çalışalım. 
 
-| ![wall-street](/assets/graffiti-gad1388ea3_800.jpg)|
+| ![Yılan saçlı figürün yüzünün alt kısmı siyah bantla kapatılmış renkli duvar resmi; sansür temasını anlatır](/assets/graffiti-gad1388ea3_800.jpg)|
 |:--:| 
 | *Image by [Peter H](https://pixabay.com/users/tama66-1032521/) from [Pixabay](https://pixabay.com/)*|
 

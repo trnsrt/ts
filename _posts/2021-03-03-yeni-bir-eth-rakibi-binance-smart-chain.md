@@ -12,7 +12,7 @@ Akıllı kontrat platformu dünyasının lideri Ethereum'un pek çok alternatifi
 ### Nereden çıktı bu Binance Chain?
 [Binance Smart Chain](https://www.binance.org/en/smartChain) (kısaca BSC) kripto dünyasının en büyük merkezi borsası olan Binance tarafından kurulmuş olan bir blokzincir.  Esasında tam bir Ethereum klonu. Ne anlama geliyor bu? Gelin kısaca bakalım: 
 
-| ![car_race](/assets/fast-1281627_800.jpg)|
+| ![Yarış pistinde yeşil eski model bir yarış arabası, Binance Chain'in beklenmedik atağı benzetmesi](/assets/fast-1281627_800.jpg)|
 |:--:| 
 | *Image by [Pexels ](https://pixabay.com/users/pexels-2286921/) from [Pixabay](https://pixabay.com/)*|
 
@@ -79,7 +79,7 @@ Ucuz işlem ücretleri. Ethereum'da şu an onlarca dolar verdiğiniz işlemin 1 
 #### Başarı kriterleri neler?
 Binance kendi başına büyük bir dev. Hem işlem hacmi hem de kullanıcı adedi olarak en büyük. Bu büyüklüğün sinerjisinden yararlanmak için doğal olarak ekstra servisler vermeye çalışıyor. 
 
-| ![exchange_volumes](/assets/Exchange_volumes_210225_v3_1000.jpg)|
+| ![Eylül 2020'den Şubat 2021'e kripto borsa hacimlerinin aylık artışı, Binance'in payı en büyük](/assets/Exchange_volumes_210225_v3_1000.jpg)|
 |:--:| 
 | *Kaynak: [TheBlock](https://www.theblockcrypto.com/data/crypto-markets/spot)*|
 
@@ -95,7 +95,7 @@ Merkeziyetsizlik felsefesine inananların gözünde Binance tipi bir zincirin sa
 
 Dolayısıyla bir önceki yazımızda bahsettiğimiz DeFi ürünleri için kritik olan topluluk konusunda Binance'in elinde hazır bir kitle var. Bu gönüllü bir topluluğa dönüşebilecek mi, göreceğiz. 
 
-| ![ETH_vs_BSC](/assets/ETH_BSC_TVL_v4_1000.jpg)|
+| ![Ocak-Şubat 2021'de Ethereum ve Binance Smart Chain'deki kilitli değer: BSC'nin hızlı büyümesi](/assets/ETH_BSC_TVL_v4_1000.jpg)|
 |:--:| 
 | *Kaynak: [TheBlock](https://www.theblockcrypto.com/data/decentralized-finance/total-value-locked-tvl/notional-value-locked-ethereum-vs-binance-smart-chain)*|
 

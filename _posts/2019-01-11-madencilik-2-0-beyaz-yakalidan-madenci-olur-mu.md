@@ -46,7 +46,7 @@ Peki neler yapabilir Girişim Sermayeleri bu alanda?
 
 En önemlisi madencilik işine girebilirler!. Şaşırtıcı değil mi? Peki yapabilirler mi? Neden yapamasınlar? Eğer açık (public) bir Blockchain sisteminden bahsediyorsak, isteyen herkes madenci olabilir. Girişim Sermayesi şirketi de bu sistem içinde kendisi madencilik yapabilir ya da spesifik girişiminin yarattığı ekosistemde madencilik yapan bir şirkete yatırım yapabilir. 
 
-![office-worker-mining-2.png](/assets/office-worker-mining-2.png)
+![Sarı baret takan, takım elbiseli karikatür bir ofis çalışanı; beyaz yakalının madenciliğe geçişini anlatır](/assets/office-worker-mining-2.png)
 
 ### Girişim Sermayesi neden madencilik yapsın?
 
@@ -66,7 +66,7 @@ Ama daha da önemlisi, madenciler yaptıkları çalışmaların karşılığın�
 
 Kurumsal yatırımcılar, yeni teknolojiler karşılığında klasik anlamda iş yapış biçimlerini ciddi şekilde değiştirmenin yanında ağır bir teknik bilgi birikimine de ihtiyaç duyuyorlar. 
 
-| ![miners.gif](/assets/miners.gif) | 
+| ![Eski siyah beyaz görüntüde işçiler maden vagonlarının yanında çalışıyor, madencilik temasına gönderme](/assets/miners.gif) | 
 |:--:| 
 | *[Giphy](https://web.archive.org/web/20210623003325/https://giphy.com/gifs/movie-black-and-white-vintage-l49JCCwJ2zlJUQF1u)*|
 

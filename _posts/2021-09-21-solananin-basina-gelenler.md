@@ -16,7 +16,7 @@ Kripto dünyasında son zamanlarda adından sıkça söz edilen Solana blokzinci
 
 Bir blokzincirin en önemli görevi, üzerinde bulunan uygulamaların yaptığı işlemleri kayıt altına almak. Bunu yapamadığınız durumda sisteminiz durmuş, bir başka deyişle 'kalbiniz atmıyor' demektir. 
 
-| ![heart-pulse](/assets/pulse-3530383_800.jpg)|
+| ![Kırmızı kalp atış çizgisinde sıkılmış bir yumruk; Solana'nın durmasını kalp atışı benzetmesiyle anlatır](/assets/pulse-3530383_800.jpg)|
 |:--:| 
 | *Image by [Gerd Altmann](https://pixabay.com/users/geralt-9301/) from [Pixabay](https://pixabay.com/)*|
 

@@ -25,7 +25,7 @@ Bilmemiz gereken en önemli nokta, Blockchain'in aslında çok büyük bir datab
 
 İşte bu nedenle Blockchain ancak gerekli olduğunda başvurulması gereken bir alan. O nedenle Blockchain üzerine yatırım yapmadan önce iyi düşünmekte fayda var, yoksa... 
 
-![throwing-money-away.gif](/assets/throwing-money-away.gif)
+![Pencereden dışarı bakan şapkalı bir bebek, siyah beyaz bir GIF: boşa harcanan para temasına mizahi bir gönderme](/assets/throwing-money-away.gif)
 
 Hakikaten bir ihtiyaç olmalı Blockchain'e. Geçen yazımızdan hatırlarsak, nedir bu ihtiyaçlar?
 
@@ -64,7 +64,7 @@ Bir başka neden de, kurumların kendilerini teknoloji lideri olarak göstermek 
 
 Buraya kadar yazdıklarımızın ötesinde daha net olarak içinde bulunduğunuz sektör için Blockchain gerekli mi sorusuna yanıt için aşağıdaki şemayı kullanabilirsiniz (Kaynak: Thomas Ferry - [To Blockchain or Not to Blockchain](https://medium.com/causys/to-blockchain-or-not-to-blockchain-aed05bf08150))
 
-![blockchain-scheme-800.png](/assets/blockchain-scheme-800.png) 
+![Hangi sektörde Blockchain gerekli olduğunu gösteren karar şeması: merkezi veritabanı, Git ya da Blockchain sonuçları](/assets/blockchain-scheme-800.png) 
 
 ### Sonuç
 

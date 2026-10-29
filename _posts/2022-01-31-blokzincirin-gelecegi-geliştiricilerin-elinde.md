@@ -56,7 +56,7 @@ Gelin şimdi de raporun detaylarına hızlıca bakalım:
 
 Peki Web3 ne kadar büyük? Gelin bir de büyük resime bakalım: 
 
-| ![buyuk_resim](/assets/web3_ekosistem_grafik_sayfa_122_800.jpg)|
+| ![Web3 geliştirici sayısının (18.416) C#, Java, Python ve JavaScript geliştiricileriyle karşılaştırıldığı daire grafik](/assets/web3_ekosistem_grafik_sayfa_122_800.jpg)|
 |:--:| 
 | *Web3 ile dünyadaki tüm geliştiricilerin karşılaştırması. Kaynak [Electric Capital Developer Report](https://medium.com/electric-capital/electric-capital-developer-report-2021-f37874efea6d) - Sayfa 122*|
 
@@ -66,7 +66,7 @@ Gördüğünüz gibi Web3 henüz emekleme aşamasında. Bunu 'henüz çok küç�
 
 Peki tek tek blokzincirleri incelediğimizde durum ne? Ekosisteme bir bütün olarak baktığımızda karşımıza aşağıdaki gibi bir tablo çıkıyor: 
 
-| ![tum_blokzincirler](/assets/smart_platform_L_devs_v2_sayfa_64.jpg)|
+| ![En büyük beş akıllı kontrat platformunun 2020-21 geliştirici sayısı değişimi; Ethereum açık ara önde saçılım grafiği](/assets/smart_platform_L_devs_v2_sayfa_64.jpg)|
 |:--:| 
 | *Blokzincir ekosistemi. En büyük 5 zincir. Kaynak [Electirc Capital Developer Report](https://medium.com/electric-capital/electric-capital-developer-report-2021-f37874efea6d) - Sayfa 64*|
 
@@ -76,7 +76,7 @@ Gördüğünüz gibi, ekosistem olarak geliştirici sayısı en büyük 'mahşer
 
 Tabii grafikteki asıl 'fil' Ethereum. Neredeyse kendinden sonra gelen dört sistemin toplamı kadar geliştiriciye sahip. Üstelik 2021 yılı içinde bile yaklaşık %20 artış göstermiş geliştirici sayısı. Tabii Ethereum diğer blokzincirlere bu kadar fark atınca, grafikteki daha küçük oyuncuları görmek oldukça zor oluyor. Gelin sol alt taraftaki kalabalık gruba zoom yapalım şimdi de: 
 
-| ![300den_buyuk_blokzincirler](/assets/smart_platform_L_devs_v3_sayfa_67.jpg)|
+| ![Ethereum ve Polkadot dışındaki büyük platformların 2020-21 geliştirici sayılarını gösteren saçılım grafiği](/assets/smart_platform_L_devs_v3_sayfa_67.jpg)|
 |:--:| 
 | *Blokzincir ekosistemi. Ethereum ve Polkadot dışındaki büyük platformlar. Kaynak [Electric Capital Developer Report](https://medium.com/electric-capital/electric-capital-developer-report-2021-f37874efea6d) - Sayfa 67*|
 
@@ -84,7 +84,7 @@ Tabii grafikteki asıl 'fil' Ethereum. Neredeyse kendinden sonra gelen dört sis
 
 Sol alttaki buluta bir zoom daha yapıp yazımızı sonlandıralım: 
 
-| ![50_300_arasi_blokzincirler](/assets/smart_platform_M_devs_v2_sayfa_72.jpg)|
+| ![100 ile 300 arası geliştiricisi olan akıllı kontrat platformlarının 2020-21 saçılım grafiği, Avalanche ve Filecoin dahil](/assets/smart_platform_M_devs_v2_sayfa_72.jpg)|
 |:--:| 
 | *Blokzincir ekosistemi. Ethereum ve Polkadot dışındaki büyük platformlar. Kaynak [Electic Capital Developer Report](https://medium.com/electric-capital/electric-capital-developer-report-2021-f37874efea6d) - Sayfa 72*|
 

@@ -14,7 +14,7 @@ Merkeziyetsiz finans dünyasının ağır toplarından [Aave](https://aave.com/)
 ### Lens protokolü nedir, ne yapar?
 Lens, Polygon blokzinciri üzerine kurulu bir Web3 sosyal ilişki ağı (İngilizce'de 'sosyal grafik' olarak tanımlanıyor). Bu sosyal ilişki ağının Facebook ya da Twitter gibi mevcut sosyal medya araçlarından en önemli farkı, içerik yaratanların oluşturdukları içeriğe ve bu içeriğe ait tüm bağlantılara tam anlamıyla sahip olmaları. Sistemi bir parça daha tanıyalım, sonra bu konuya tekrar döneceğiz. 
 
-| ![social_media](/assets/man-358816_800.jpg)|
+| ![Mavi tonlu bir insan başı çizimi ve etrafındaki halkalarda Facebook, YouTube ve Twitter simgeleri](/assets/man-358816_800.jpg)|
 |:--:| 
 | *Image by [Gerd Altmann ](https://pixabay.com/users/geralt-9301/) from [Pixabay](https://pixabay.com/)*|
 
@@ -23,7 +23,7 @@ Lens protokolü merkeziyetsiz sosyal medya konusunda bir altyapı protokolü olm
 ### Sistem nasıl çalışıyor?
 Sistemin çalışması aslına bakarsanız Twitter'ı çağrıştıyor. Web 2.0 dünyasının en yaygın ve etkili sosyal medya platformunun verdiği hizmetlerin üzerine bir de Web3 dünyasının getirdiği yenilikler eklenmiş gibi görünüyor. Gelin tek tek bu özellikleri ve yenilikleri inceleyelim: 
 
-| ![lens_gif](/assets/lens_protocol_v3.gif)|
+| ![Lens protokolünün tanıtım animasyonu; Web3 sosyal ağının işleyişini anlatmak için kullanılmış GIF](/assets/lens_protocol_v3.gif)|
 |:--:| 
 | *Lens protokol tanıtımı. Kaynak: [Lens protocol](https://lens.dev/)*|
 
@@ -50,7 +50,7 @@ Protokolün getireceği en önemli faydanın, Web3'ün temel değer önerisi ola
 
 İşte Web3 sayesinde sosyal ağlar için de benzer bir durum söz konusu olacak. Şu anda Web2 olarak adlandırılan Facebook ya da Twitter üzerinde paylaştığınız herhangi bir içerik aslında size ait değil. Hepsinin tek sahibi platform. Eğer sahibi siz olsaydınız, yarattığınız içerikleri alıp başka bir platforma götürebilirdiniz. Keza sahip olduğunuz onlarca yüzlerce takipçi de aynı şekilde size ait değil. İnanmıyorsanız, koskoca ABD eski başkanı Donald Trump'a sorun. Pardon soramazsınız, zira 89 milyon takipçisi olan hesap Ocak 2021'de bir anda [kapatıldı](https://en.wikipedia.org/wiki/Social_media_use_by_Donald_Trump#:~:text=The%20%40realdonaldtrump%20handle%20had%20amassed,follower%20count%20thereafter%20increased%20rapidly.). Web2 şirketlerinin böyle bir gücü var işte.
 
-| ![donald_trump_twitter](/assets/donald_trump_twitter_400.png)|
+| ![Donald Trump'ın Twitter hesabının askıya alındığını gösteren ekran görüntüsü](/assets/donald_trump_twitter_400.png)|
 |:--:| 
 | *Donald Trump'un Twitter sayfasına girenler bununla karşılaşıyorlar.  Kaynak: [Twitter](https://twitter.com/realDonaldTrump)*|
 

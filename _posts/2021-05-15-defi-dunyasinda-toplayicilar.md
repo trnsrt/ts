@@ -46,7 +46,7 @@ Son olarak, kullanıcının işlem yaparken ne kadar hızlı işlemi gerçekleş
 
 İşte yukarıda saydığımız faklı senaryolardan dolayı tokenların fiyatı borsadan borsaya farklılık gösteriyor. Ne yapacak kullanıcı? Sekiz farklı borsa için ekranını açık tutup hangisi iyi ise ondan mı işlem yapacak?
 
-| ![time_money](/assets/time-4559218_800.jpg) | 
+| ![Bir yanında para yığını, diğer yanında saat taşıyan çizgi karakter; zaman ve para dengesi temsili](/assets/time-4559218_800.jpg) | 
 |:--:| 
 | *Image by [mohamed Hassan](https://pixabay.com/users/mohamed_hassan-5229782/) from [Pixabay](https://pixabay.com/)*|
 

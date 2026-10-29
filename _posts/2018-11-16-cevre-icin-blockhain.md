@@ -9,7 +9,7 @@ image: /assets/environmental-protection-1_640.jpg
 
 Geçtiğimiz yazılarda Blockchain bazlı dağıtık sistemlerin faydalı olabileceği bazı konulardan [sağlık](/genel/2018/04/17/saglik-icin-blockchain.html), [sigorta](/genel/2018/10/26/sigorta-icin-blockchain.html), [sanat](/genel/2018/04/06/sanat-icin-blockchain.html), [seyahat](/genel/2018/07/06/seyahat-icin-blockchain.html) sektörleri ile [hayır işleri](/genel/2018/03/29/Iyilik-icin-blockchain.html), [tahmin piyasaları](/genel/2018/07/13/gelecegi-tahmin-icin-blockchain.html) ve [tedarik zincirlerine](/genel/2018/08/17/tedarik-zinciri-icin-blockchain.html) bakmıştık.  Şimdi de bu çözümlerin en işe yarayabileceği alanlardan biri olan çevresel konulara bir göz atalım. 
 
-![environmental-protection-1_640.jpg](/assets/environmental-protection-1_640.jpg)
+![Dolar madeni paralı cam küre, içinde ağaç ve yeşil tarla; blockchain ile çevre konusuna giriş görseli](/assets/environmental-protection-1_640.jpg)
 
 
 ### Blockchain çevre için neden önemli?
@@ -43,7 +43,7 @@ Dünyada şu anda çevresel olarak sıkıntı yaratan konuları sıralarsak:
 * Doğal felaketler: 2017 yılında 710 felaket yaşandı. Bu 1980 yılının tam üç katı. Toplam 330 Milyar ABD Doları hasar meydana geldi ve 23 milyon insan bu felaketler sonucu yer değiştirdi. 
 
 
-![environmental-protection-2_640.jpg](/assets/environmental-protection-2_640.jpg)
+![Karahindibalı çayırda dolar madeni paralı cam küre; çevresel sorunlar bölümüne giriş görseli](/assets/environmental-protection-2_640.jpg)
 
 
 ###  Arkası yarın: Blockchain nasıl işe yarar?

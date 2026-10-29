@@ -17,7 +17,7 @@ Hatırlayacağınız gibi, blokzincir, yapılan işlemlerin ve son durumun kayd�
 
 Ne demek istediğimizi bir örnek ile anlatalım: NFT ya da non-fungible token dediğimiz tekil (benzersiz) tokenlar (belirteçler), birbirine benzemeyen ürünlerin 'sahipliğini göstermek' için kullanılıyorlar. Tokenları satın alarak yaratıcısının işaret ettiği ürünün sahipliğini blokzincir üzerine kaydedip tüm dünyaya kanıtlamış oluyoruz. Peki ya bu ürünlerin asılları nerede duruyor?[^1]
 
-| ![sd_cards](/assets/sd-card-5206408_800.jpg)|
+| ![Mor zemin üzerinde dört SD kart; dijital dosyaların saklanmasına ve merkeziyetsiz depolamaya giriş](/assets/sd-card-5206408_800.jpg)|
 |:--:| 
 | *Image by [Markus Winkler](https://pixabay.com/users/viarami-13458823/) from [Pixabay](https://pixabay.com/)*|
 
@@ -35,7 +35,7 @@ Blokzinciri oluşturan blokların boyutlarını büyütsek? Yapabilirsiniz ama u
 
 Filecoin de tam olarak bu alanda, yani merkeziyetsiz dünyanın ihtiyaç duyduğu hiçbir aracıya bağlı olmayan geniş kapasiteli ve ucuz bir saklama konusunda, kritik bir hizmet sağlıyor. 
 
-| ![storage_plastics](/assets/plastic-5836598_800.jpg)|
+| ![Karla kaplı bir duvar önünde istiflenmiş renkli plastik sandıklar; merkeziyetsiz saklama konusuna giriş](/assets/plastic-5836598_800.jpg)|
 |:--:| 
 | *Image by [Dennis P](https://pixabay.com/users/dep377-9418974/) from [Pixabay](https://pixabay.com/)*|
 
@@ -67,7 +67,7 @@ Bunun dışında rakipler, merkezi olarak hepimizin bildiği Dropbox ile merkezi
 
 Aşağıda da Filecoin'in rakipleri ile Ekim 2020 tarihindeki karşılaştırmalı fiyatları bulunmakta: 
 
-| ![filecoin_rakipler](/assets/filstats_siastats_storj.png)|
+| ![Filecoin, Amazon S3, Dropbox, Google One, Sia ve Storj'un GB başına yıllık depolama maliyetlerini karşılaştıran tablo](/assets/filstats_siastats_storj.png)|
 |:--:| 
 | *Veri depolama ücretleri - Ekim 2020. Kaynak: [Messari](https://messari.io/asset/filecoin/news)*|
 

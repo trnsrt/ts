@@ -21,7 +21,7 @@ Yazının sonunda ise, ABD'de henüz ETF'lere onay verilmemişken, kurumsal fon 
 
 Grayscale'de belli başlı her kriptopara için ayrı bir fon var (bir tane de karma fonları var). Başlangıçta BTC için [GBTC](https://www.google.com/finance/quote/GBTC:OTCMKTS), sonra ETH için [ETHE](https://www.google.com/finance/quote/ETHE:OTCMKTS) adında kurulan fonların sayısı yakın zamanda 14'e kadar çıktı:
 
- | ![grayscale_funds](/assets/grayscale_funds_v2.png) | 
+ | ![Grayscale fonlarının varlık, hisse değeri ve prim veya iskonto oranlarını gösteren tablo, Nisan 2021](/assets/grayscale_funds_v2.png) | 
 |:--:| 
 | *Grayscale fonları - not: prim/iskonto olmayan fonlar henüz borsalarda işlem görmeyen yeni fonlar. (30 Nisan 2021) Kaynak: [Grayscale](https://twitter.com/Grayscale/status/1388232662960287749)*|
 
@@ -60,7 +60,7 @@ Keza bu bireysel yatırımcılar için de geçerli. Örneğin; tasarruflarını 
 
 İşte yukarıdaki nedenler ile GBTC fonları ABD'de oldukça yoğun bir ilgi gördü. Bu ilgi o kadar büyüktü ki, GBTC hisseleri uzunca bir süre aktifler değerlerinden daha yüksek seviyelerde idi. 
 
- | ![grayscale_premiums](/assets/grayscale_premiums_800.png) | 
+ | ![GBTC'nin varlık değerine göre prim ve iskonto grafiği; 2021 başında primin iskontoya dönmesi](/assets/grayscale_premiums_800.png) | 
 |:--:| 
 | *GBTC hisse/varlık değeri prim (iskonto). Kaynak: [YCharts](https://ycharts.com/companies/GBTC/discount_or_premium_to_nav)*|
 

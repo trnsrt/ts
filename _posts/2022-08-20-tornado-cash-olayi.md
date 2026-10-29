@@ -17,7 +17,7 @@ Geçtiğimiz birkaç yıl içinde DeFi dünyasında yaşanan pek çok hack olay�
 
 Kuzey Kore, ABD'nin [1950'lerden beri yaptırım uyguladığı](https://en.wikipedia.org/wiki/Sanctions_against_North_Korea) bir ülke. Bu nedenle yukarıda bahsettiğimiz tek bir olayda devlet bağlantılı hackerların 'yürüttüğü' para elbette Amerikan otoritelerin tüm keyfini kaçırmıştı. Tornado Cash üzerinden geçen paranın yaklaşık [%28'inin direkt hackerlar ve yaptırım altındaki yapılardan geldiği düşünülürse](https://blog.chainalysis.com/reports/tornado-cash-ofac-designation-sanctions/), otoriteler tarafından aksiyon alınması kaçınılmazdı. 
 
-|![Tornado_dagilim](/assets/TC_kaynaklar_800.png)|
+|![Tornado Cash'e gelen kripto paraların kaynağa göre dağılım pastası; DeFi yüzde 49,6 ile en büyük pay](/assets/TC_kaynaklar_800.png)|
 |:--:| 
 | *Tornado Cash'e gelen varlıkların kaynağı. Kaynak: [Chainalysis](https://blog.chainalysis.com/reports/tornado-cash-ofac-designation-sanctions/)*|
 
