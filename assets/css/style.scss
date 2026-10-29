@@ -288,6 +288,7 @@ img + em {
 
 /* Readable text and links */
 a, a:visited { color: #1a5fb4; }
+a:visited:hover { color: #111; }
 .post-content a { text-decoration: underline; }
 .featured-post-link:visited, .post-card-link:visited { color: inherit; }
 .site-footer, .footer-col-wrapper, blockquote { color: #6b6b6b; }
@@ -298,9 +299,14 @@ a, a:visited { color: #1a5fb4; }
   overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0;
 }
 .skip-link:focus { position: absolute; z-index: 100; top: 0; left: 0; padding: 8px 12px; background: #fff; color: #1a5fb4; }
+main:focus { outline: none; }
 
 /* Keep embedded content within narrow screens. */
 img, video, iframe { max-width: 100%; }
-iframe { aspect-ratio: 16 / 9; height: auto; }
+iframe[src*="youtube.com"], iframe[src*="youtube-nocookie.com"] { aspect-ratio: 16 / 9; height: auto; }
 .post-content table { display: block; overflow-x: auto; }
 .post-content, .post-title { overflow-wrap: anywhere; }
+
+@media (max-width: 599px) {
+  .post-content td, .post-content th { display: block; width: 100% !important; box-sizing: border-box; }
+}
