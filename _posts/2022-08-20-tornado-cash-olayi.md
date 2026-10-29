@@ -38,11 +38,11 @@ Bu açıklamanın hemen ardından Tornado Cash ile ilgili ardı ardına aksiyonl
 
 * [Infura](https://infura.io/) ve [Alchemy](https://www.alchemy.com/) gibi merkezi altyapı sağlayıcılar, Tornado Cash ön yüzüne [ulaşımı kestiler](https://www.theblock.co/post/162402/infura-and-alchemy-blocking-access-to-tornado-cash).
 
-* [dydx](https://www.coindeskturkiye.com/sirketler/dydx-bazi-hesaplari-engelledi-1473), Aave, Uniswap, [Balancer](https://twitter.com/BalancerLabs/status/1558212602257231873) benzeri merkeziyetsiz olma hedefinde olan ancak hâlâ merkezi unsurları bulunan protokoller web sitelerinden Tornado Cash ile etkileşime girmiş hesapları [bloke etmeye](https://cryptoslate.com/defi-protocols-aave-uniswap-balancer-ban-users-following-ofac-sanctions-on-tornado-cash/) ya da yetkililere bildirmeye başladılar.
+* [dydx](https://web.archive.org/web/20220819022321/https://www.coindeskturkiye.com/sirketler/dydx-bazi-hesaplari-engelledi-1473), Aave, Uniswap, [Balancer](https://twitter.com/BalancerLabs/status/1558212602257231873) benzeri merkeziyetsiz olma hedefinde olan ancak hâlâ merkezi unsurları bulunan protokoller web sitelerinden Tornado Cash ile etkileşime girmiş hesapları [bloke etmeye](https://cryptoslate.com/defi-protocols-aave-uniswap-balancer-ban-users-following-ofac-sanctions-on-tornado-cash/) ya da yetkililere bildirmeye başladılar.
 
 * Tornado Cash'i yürüten DAO kendisini [feshetti](https://cryptoslate.com/tornado-cash-contributor-reveals-dao-shut-down-as-it-cant-fight-the-us-need-to-keep-contributors-safe/). Grup, Discord kanalını ve yönetim forumunu [kapattı](https://www.theblock.co/post/163228/tornado-cashs-discord-server-and-governance-forum-shuttered-amid-arrest) 
 
-* Belki de en ilginç olanı, Hollanda resmi otoriteleri Tornado Cash geliştiricilerinden birini tutukladığını [açıkladı](https://www.coindeskturkiye.com/politika/supheli-tornado-cash-gelistiricisi-hollandada-tutuklandi-1493).
+* Belki de en ilginç olanı, Hollanda resmi otoriteleri Tornado Cash geliştiricilerinden birini tutukladığını [açıkladı](https://web.archive.org/web/20220812130206/https://www.coindeskturkiye.com/politika/supheli-tornado-cash-gelistiricisi-hollandada-tutuklandi-1493).
 
 ### Kripto dünyası bu konuda ne düşünüyor?
 Tornado Cash'e karşı alınan bu aksiyonlar kripto dünyasında tam anlamıyla bir soğuk duş etkisi yarattı.  Konu ile ilgili pek çok kişi ve kurum tepki verdi. Bu tepkileri birkaç temel nokta çevresinde toplamak mümkün. 
@@ -59,7 +59,7 @@ Buraya kadar, Tornado Cash olayını ve arkasından yaşananları toparladık. B
 
 ---
 
-*Not 1: Bu yazı ilk olarak 20 Ağustos 2022'de [Coindesk Türkiye](https://www.coindeskturkiye.com/))'de [yayınlandı](https://www.coindeskturkiye.com/yazarlar/turan-sert/tornado-cash-olayi-ve-dusundurdukleri-1602)*
+*Not 1: Bu yazı ilk olarak 20 Ağustos 2022'de [Coindesk Türkiye](https://www.coindeskturkiye.com/))'de [yayınlandı](https://web.archive.org/web/20220820095010/https://www.coindeskturkiye.com/yazarlar/turan-sert/tornado-cash-olayi-ve-dusundurdukleri-1602)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 

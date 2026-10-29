@@ -31,7 +31,7 @@ Kişiden kişiye çok değişse de teknolojik olarak yavaş gelişmesi (ki bunu 
 Teknolojik olarak yavaş evrilmesine verilen en kritik örneklerden biri kişiden kişiye ödemelerde çok da yaygınlık kazanamamış olması. Hem de Satoshi Nakamoto'nun kaleme aldığı Bitcoin'in tanıtım dokümanı (white paper) başlığının "[Bitcoin - Bireyden-Bireye Elektronik Nakit Sistemi](https://bitcoin.org/bitcoin.pdf)" olmasına rağmen. Belki de bu sıkıntı nedeniyle, kendisini savunanların son yıllardaki söylemleri Bitcoin'in alışverişler için kullanılabilecek bir araç olmasından, bir nevi Dijital Altın yani değer saklama aracı olarak görülmesi gerektiğine evrilmiş durumda. 
 
 #### Bitcoin'in rakipleri onu zayıf karnından vurmaya çalışıyor.. 
-Bitcoin'in yaşadığı sorunları çözmek amacıyla sonrasında pek çok klonu çıktı. Sayı olarak [100'ün üzerinde](https://atomicwallet.io/how-many-bitcoins-are-there). Aslında bunda şaşıracak bir durum da yok, zira açık kaynak bir uygulama olduğunuzda isteyen herkes oturup bir klonunu yaratabilir. Çok basit. (Asıl zor olan, sisteminize inanmış bir topluluk yaratabilmek. İşte en başarılı Bitcoin klonunun bile -ki en büyüğü [Bitcoin Cash](https://www.coingecko.com/en/coins/bitcoin-cash) olur- en sıkıntı yaşadığı konu da hep bu oldu.)
+Bitcoin'in yaşadığı sorunları çözmek amacıyla sonrasında pek çok klonu çıktı. Sayı olarak [100'ün üzerinde](https://web.archive.org/web/20201027203434/https://atomicwallet.io/how-many-bitcoins-are-there). Aslında bunda şaşıracak bir durum da yok, zira açık kaynak bir uygulama olduğunuzda isteyen herkes oturup bir klonunu yaratabilir. Çok basit. (Asıl zor olan, sisteminize inanmış bir topluluk yaratabilmek. İşte en başarılı Bitcoin klonunun bile -ki en büyüğü [Bitcoin Cash](https://www.coingecko.com/en/coins/bitcoin-cash) olur- en sıkıntı yaşadığı konu da hep bu oldu.)
 
 | ![BTC_clones](/assets/bitcoin_clones_800.jpg)|
 |:--:| 
@@ -52,7 +52,7 @@ Bu nedenlerle Bitcoin benzeri bağımsız, sansürsüz ama bir yandan da fiyat v
 ### Nedir Ampleforth'un diğer özellikleri?
 
 #### Geyser
-[Geyser](https://www.ampleforth.org/dapps/), Ampleforth'un getiri çiftçiliği (yield farming)  amacıyla [Uniswap](https://www.ampleforth.org/geyser/beehiveV2-uniswap-weth-ampl) ve [Mooniswap](https://www.ampleforth.org/geyser/enceladus-mooniswap-link-ampl#)'da çıkardığı bir program. (Uniswap likidite havuzları ile ilgili detaylı yazımıza [buradan ulaşabilirsiniz](/genel/2020/09/15/nedir-bu-uniswap.html).)
+[Geyser](https://web.archive.org/web/20200928125932/https://www.ampleforth.org/dapps/), Ampleforth'un getiri çiftçiliği (yield farming)  amacıyla [Uniswap](https://www.ampleforth.org/geyser/beehiveV2-uniswap-weth-ampl) ve [Mooniswap](https://www.ampleforth.org/geyser/enceladus-mooniswap-link-ampl#)'da çıkardığı bir program. (Uniswap likidite havuzları ile ilgili detaylı yazımıza [buradan ulaşabilirsiniz](/genel/2020/09/15/nedir-bu-uniswap.html).)
 
 Havuzları bir cümle ile özetlersek, merkeziyetsiz bir borsa olan Uniswap'ta, iki bölmeli havuzlar kuruluyor idi. Genelde bu bölmelerin bir tarafında Ethereum'un parası ETH, diğerinde ise arzu edilen bir token oluyor. Amaç bu token ile işlem yapmak isteyenlere likidite sağlayarak Uniswap'ın gerçek bir merkeziyetsiz borsa gibi çalışmasını sağlamak. Bunun karşılığında likidite sağlayanlar hem yapılan işlemlerden %0.3 oranında pay alıyorlar, hem de UNI token'i kazanıyorlar. 
 

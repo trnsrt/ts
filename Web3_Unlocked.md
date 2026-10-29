@@ -346,9 +346,9 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 
 [publishing the data](https://blog.thirdweb.com/data-availability-blockchain/)  
 
-[Solana](https://crypternon.com/en/solara/)  
+[Solana](https://web.archive.org/web/20250417215442/https://crypternon.com/en/solara/)  
 
-[Solana](https://blog.bcas.io/introduction-to-solana)  
+[Solana](https://web.archive.org/web/20241207084819/https://blog.bcas.io/introduction-to-solana)  
 
 [high-performance hardware](https://hackernoon.com/what-it-takes-to-run-a-solana-validator-hardware-bandwidth-and-budget)  
 
@@ -737,7 +737,7 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 
 [IoTeX](https://iotex.io/)  
 
-[incentivize suppliers to build out the network](https://cointelegraph.com/explained/decentralized-physical-infrastructure-network-depin-explained)  
+[incentivize suppliers to build out the network](https://web.archive.org/web/20241128174227/https://cointelegraph.com/explained/decentralized-physical-infrastructure-network-depin-explained)  
 
 <br>
 <b>Page 171:</b>
@@ -845,7 +845,7 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 
 [distinctions](https://www.paypal.com/us/digital-wallet/manage-money/crypto/pyusd)  
 
-[fully programmable](https://developer.paypal.com/dev-center/pyusd/)  
+[fully programmable](https://web.archive.org/web/20250406042723/https://developer.paypal.com/dev-center/pyusd/)  
 
 [a company operating under the stringent financial laws of New York](https://www.paxos.com/pyusd-transparency)  
 

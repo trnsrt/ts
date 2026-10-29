@@ -47,7 +47,7 @@ Birincisi USDT(C) gibi paraları borç alıp UST'ye yatırma stratejisinin, her 
 
 Yukarıda yaşananların dışında 3AC'nin elindeki GBTC'leri farklı kurumlara teminat göstererek kredi aldığı şeklinde iddialar var ki, doğru ise dolandırıcılık olarak adlandırılabilecek bu durumu 3AC'nin kurulu olduğu Singapur otoritelerinin incelemeye aldığını da belirtelim. 
 
-Gelinen son noktada, 3AC, British Virgin Islands'da mahkemelere başvurup [iflasını isteyerek](https://www.coindeskturkiye.com/sirketler/three-arrows-capital-new-yorkta-iflas-basvurusunda-bulundu-939) beyaz bayrağı çekmiş durumda. En son bu hafta Pazartesi günü açıklanan belgelere göre toplam 30 merkezi şirket 3.5 milyar ABD Doları tutarında bir alacağı için iflas sürecini yöneten aracıya [başvuruda bulundu](https://www.theblock.co/post/158169/three-arrows-capital-3ac-creditors-list-3-5-billion-crypto-affidavits). Detaylar yavaş yavaş ortaya dökülmeye devam edecek. 
+Gelinen son noktada, 3AC, British Virgin Islands'da mahkemelere başvurup [iflasını isteyerek](https://web.archive.org/web/20220930165742/https://www.coindeskturkiye.com/sirketler/three-arrows-capital-new-yorkta-iflas-basvurusunda-bulundu-939) beyaz bayrağı çekmiş durumda. En son bu hafta Pazartesi günü açıklanan belgelere göre toplam 30 merkezi şirket 3.5 milyar ABD Doları tutarında bir alacağı için iflas sürecini yöneten aracıya [başvuruda bulundu](https://www.theblock.co/post/158169/three-arrows-capital-3ac-creditors-list-3-5-billion-crypto-affidavits). Detaylar yavaş yavaş ortaya dökülmeye devam edecek. 
 
 
 ### Arkası yarın 
@@ -64,7 +64,7 @@ Not:
 
 ---
 
-*Not 1: Bu yazı ilk olarak 22 Temmuz 2022'de [Coindesk Türkiye](https://www.coindeskturkiye.com/))'de [yayınlandı](https://www.coindeskturkiye.com/yazarlar/turan-sert/finansin-domino-taslari-1-son-krizde-neler-yasandi-1217)*
+*Not 1: Bu yazı ilk olarak 22 Temmuz 2022'de [Coindesk Türkiye](https://www.coindeskturkiye.com/))'de [yayınlandı](https://web.archive.org/web/20220722102957/https://www.coindeskturkiye.com/yazarlar/turan-sert/finansin-domino-taslari-1-son-krizde-neler-yasandi-1217)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 

@@ -35,7 +35,7 @@ Nasıl yatırım yapıyorlar? Burada birkaç farklı yol var. Birincisi, girişi
 
 Öte yandan, yeni girişimlerin pek çoğunda karşıda bir muhatap yok. Örneğin, kripto dünyasının en büyük opsiyon piyasalarından [Hegic](https://www.hegic.co)'in kurucusu [Molly Wintermute](https://x.com/0mllwntrmt3) takma adlı bir kişi. Gerçek dünyada ortaya çıkmayan bu kişilik, buna rağmen Hegic için ilk token dağıtımında %20 payı ilk yatırımcılara vermiş durumda.  
 
-Bir başka örnek, startup dünyasının ağır toplarından [a16z](https://a16z.com/)'nin kripto [fonunun](https://a16z.com/crypto/) başındaki [Chris Dixon](https://cdixon.org/)'un bir [podcast yayınında](https://shows.banklesshq.com/p/the-fourth-crypto-cycle-chris-dixon), kurucu ekibinin tanımadıkları bir kripto girişimine yatırım yapabileceklerini söylemesi. Bunun temel nedeni ise, **yapılan yatırımın bir şirkete ya da ekibe değil, token satın alarak bir ağa yapılıyor olması**.
+Bir başka örnek, startup dünyasının ağır toplarından [a16z](https://a16z.com/)'nin kripto [fonunun](https://web.archive.org/web/20200618071019/https://a16z.com/crypto/) başındaki [Chris Dixon](https://cdixon.org/)'un bir [podcast yayınında](https://shows.banklesshq.com/p/the-fourth-crypto-cycle-chris-dixon), kurucu ekibinin tanımadıkları bir kripto girişimine yatırım yapabileceklerini söylemesi. Bunun temel nedeni ise, **yapılan yatırımın bir şirkete ya da ekibe değil, token satın alarak bir ağa yapılıyor olması**.
 
 ### Yatırımcılar önemli mi?
 

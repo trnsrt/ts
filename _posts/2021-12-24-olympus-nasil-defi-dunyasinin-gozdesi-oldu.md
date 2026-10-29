@@ -66,7 +66,7 @@ Olympus, bir nevi bono ihraç ediyor yani piyasadan borç satın alıyor. Bunun 
 İşte, Olympus'un kendi likiditesini satın alma şekli.
 
 ### Başarılı mı?
-Başarının pek çok tanımı var. Olympus şu aşamada kendi hedeflerine ulaşmış görünüyor. Örneğin, OHM tokenlerin işlem gördüğü en büyük havuz olan Suhsiswap'ta bulunan [OHM-DAI likidite havuzunun](https://analytics.sushi.com/tokens/0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5) %99.99 [sahibi şu anda Olympus hazinesi](https://app.olympusdao.finance/#/dashboard). Olympus'un elinde bu havuz tokenlerini de içeren yaklaşık 700 milyon ABD Doları değerinde token mevcut. 
+Başarının pek çok tanımı var. Olympus şu aşamada kendi hedeflerine ulaşmış görünüyor. Örneğin, OHM tokenlerin işlem gördüğü en büyük havuz olan Suhsiswap'ta bulunan [OHM-DAI likidite havuzunun](https://web.archive.org/web/20211215020909/https://analytics.sushi.com/tokens/0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5) %99.99 [sahibi şu anda Olympus hazinesi](https://app.olympusdao.finance/#/dashboard). Olympus'un elinde bu havuz tokenlerini de içeren yaklaşık 700 milyon ABD Doları değerinde token mevcut. 
 
 |![Olympus_DAO_Hazinesi](/assets/OlympusDAO_Hazinesi_800.png)|
 |:--:| 

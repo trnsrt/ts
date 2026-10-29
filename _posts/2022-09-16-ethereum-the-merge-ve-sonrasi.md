@@ -26,7 +26,7 @@ PoS sisteminin PoW'dan en büyük farkı enerji tasarrufu sağlaması. Malum, ge
 
 "PoW sisteminin PoS ile değiştiriyorlar işte, ne var bu kadar büyütülecek?" diyebilirsiniz ama işin aslı bu o kadar da kolay bir geçiş değil. Zira, böyle bir geçiş ile bütün bir madenci kitlesinin ekipmanlarını çöpe atıyor ve onları karşınıza alıyorsunuz. Her ne kadar madenciler PoW sistemini devam ettireceklerini söyleseler de (çatallanma yoluyla bu mümkün), yapılan hamlenin çok başarılı olduğunu söylemek zor. PoW sisteminden PoS sistemine geçiş aslında temel olarak Ethereum topluluğunun asıl karar vericisinin geliştiriciler olduğunu net bir şekilde gösteriyor. 
 
-Bunun dışında merge ile birlikte gelecek en büyük değişiklik, Ethereum'un yeni emisyon (para yaratım) politikası. Zira onaylayıcılara yaptıkları iş karşılığı madencilere verilenin %15'i kadar [bir ödül verilecek](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-economics/#staking-rewards). Bir taraftan Ağustos 2021'den beri kullanıcılar tarafından ödenen fazla işlem ücretlerinin yakıldığını düşünürsek, yeni sistemde eğer [ETH üzerindeki ortalama işlem ücretleri](https://ycharts.com/indicators/ethereum_average_gas_price) yaklaşık olarak 15.7 Gwei'den [daha fazla olursa](https://twitter.com/TobbyKitty/status/1568498284532224000) piyasadaki ETH miktarı azalmaya başlayacak (bu rakam değişen bir hedef, ödül verilen onaylayıcı sayısı arttıkça az da olsa yükselebilir - farklı senaryoları [şuradan inceleyebilirsiniz](https://ultrasound.money/)).
+Bunun dışında merge ile birlikte gelecek en büyük değişiklik, Ethereum'un yeni emisyon (para yaratım) politikası. Zira onaylayıcılara yaptıkları iş karşılığı madencilere verilenin %15'i kadar [bir ödül verilecek](https://web.archive.org/web/20220914235736/https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-economics/#staking-rewards). Bir taraftan Ağustos 2021'den beri kullanıcılar tarafından ödenen fazla işlem ücretlerinin yakıldığını düşünürsek, yeni sistemde eğer [ETH üzerindeki ortalama işlem ücretleri](https://ycharts.com/indicators/ethereum_average_gas_price) yaklaşık olarak 15.7 Gwei'den [daha fazla olursa](https://twitter.com/TobbyKitty/status/1568498284532224000) piyasadaki ETH miktarı azalmaya başlayacak (bu rakam değişen bir hedef, ödül verilen onaylayıcı sayısı arttıkça az da olsa yükselebilir - farklı senaryoları [şuradan inceleyebilirsiniz](https://ultrasound.money/)).
 
 ### Merge aslında bir stratejinin önemli bir mihenk taşı 
 
@@ -62,7 +62,7 @@ Bu alanda uzun süredir çalışmalarını sürdüren [Polkadot](https://polkado
 
 ---
 
-*Not 1: Bu yazı ilk olarak 16 Eylül 2022'de [Coindesk Türkiye](https://www.coindeskturkiye.com/))'de [yayınlandı](https://www.coindeskturkiye.com/yazarlar/turan-sert/ethereum-the-merge-ve-sonrasi-1984)*
+*Not 1: Bu yazı ilk olarak 16 Eylül 2022'de [Coindesk Türkiye](https://www.coindeskturkiye.com/))'de [yayınlandı](https://web.archive.org/web/20220916110808/https://www.coindeskturkiye.com/yazarlar/turan-sert/ethereum-the-merge-ve-sonrasi-1984)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 

@@ -43,11 +43,11 @@ Benzer şekilde dünyada gelişmekte olan ülkelere yapılan yardımların [%30'
 
 | ![wfp-syria.jpg](/assets/undp-alt-labs-serbia.jpg?raw=true) | 
 |:--:| 
-| *Sırbıstan üzerinden para yardımı [şeması](http://altfinlab.org/blog/serbia-sending-remittances-from-serbian-diaspora-to-the-city-of-nis-beneficiaries)* |
+| *Sırbıstan üzerinden para yardımı [şeması](https://web.archive.org/web/20180426192804/http://altfinlab.org/blog/serbia-sending-remittances-from-serbian-diaspora-to-the-city-of-nis-beneficiaries)* |
 
 &nbsp;
 
-Benzer şekilde Birleşmiş Milletler Kalkınma Programı (UNDP) ülkelerinden uzakta bulunan diasporaların anavatanlarındaki soydaşlarına gönderecekleri paralar için Blockchain altyapısını nasıl kullanır ve yaklaşık %7'lere varan maliyetleri nasıl [azaltırızı çözmeye çalışıyor](http://altfinlab.org/blog/serbia-sending-remittances-from-serbian-diaspora-to-the-city-of-nis-beneficiaries). Projenin doğuş nedenlerinden biri gönderilen paraların soydaşlar tarafından ağırlıklı alkole harcanmasının diasporanın canını sıkmış olması. 
+Benzer şekilde Birleşmiş Milletler Kalkınma Programı (UNDP) ülkelerinden uzakta bulunan diasporaların anavatanlarındaki soydaşlarına gönderecekleri paralar için Blockchain altyapısını nasıl kullanır ve yaklaşık %7'lere varan maliyetleri nasıl [azaltırızı çözmeye çalışıyor](https://web.archive.org/web/20180426192804/http://altfinlab.org/blog/serbia-sending-remittances-from-serbian-diaspora-to-the-city-of-nis-beneficiaries). Projenin doğuş nedenlerinden biri gönderilen paraların soydaşlar tarafından ağırlıklı alkole harcanmasının diasporanın canını sıkmış olması. 
 &nbsp;
 
 --
@@ -60,7 +60,7 @@ Benzer şekilde Birleşmiş Milletler Kalkınma Programı (UNDP) ülkelerinden u
 &nbsp;
 
 
-2013 yılında ABD'de kurulan [BitGive](https://www.bitgivefoundation.org/) kar amacı gütmeyen ilk Bitcoin bazlı yardım kuruluşu. Bağış kampanyaları düzenleyen bu kuruluş, aynı zamanda ihtiyacı olanlara ulaşması için toplanan paraların izlediği tüm yolu Blockchain üzerinden takip ediyor. Böylece bu bilgiler kesinlikle değiştirilemiyor ve anlık olarak gözlemlenebiliyor. Kurum bağışçılardan Bitcoin toplayarak, Nepal'deki depremde kırsal bölgeler ile merkezler arasında irtibatın kurulumuna yardımcı olacak [mobil telefon alınmasından](http://www.bitgivefoundation.org/medic-mobile-campaign/), Kenya'daki bir kız okuluna [kuyu açılmasına](https://thewaterproject.org/community/projects/kenya/a-new-well-in-kenya-4333); [Philipinler](https://www.savethechildren.org/us/what-we-do/emergency-response/historical-emergencies/typhoon-haiyan)'den, Brezilya ve Meksika'ya, küçük ama insanların hayatlarına dokunan projeler için kampanyalar düzenliyor.
+2013 yılında ABD'de kurulan [BitGive](https://www.bitgivefoundation.org/) kar amacı gütmeyen ilk Bitcoin bazlı yardım kuruluşu. Bağış kampanyaları düzenleyen bu kuruluş, aynı zamanda ihtiyacı olanlara ulaşması için toplanan paraların izlediği tüm yolu Blockchain üzerinden takip ediyor. Böylece bu bilgiler kesinlikle değiştirilemiyor ve anlık olarak gözlemlenebiliyor. Kurum bağışçılardan Bitcoin toplayarak, Nepal'deki depremde kırsal bölgeler ile merkezler arasında irtibatın kurulumuna yardımcı olacak [mobil telefon alınmasından](https://web.archive.org/web/20180401125301/http://www.bitgivefoundation.org/medic-mobile-campaign/), Kenya'daki bir kız okuluna [kuyu açılmasına](https://thewaterproject.org/community/projects/kenya/a-new-well-in-kenya-4333); [Philipinler](https://www.savethechildren.org/us/what-we-do/emergency-response/historical-emergencies/typhoon-haiyan)'den, Brezilya ve Meksika'ya, küçük ama insanların hayatlarına dokunan projeler için kampanyalar düzenliyor.
 
 
 Bunlar somut, gerçekleşen örnekler ve bu örneklerin benzerleri artarak kullanılmaya devam edecek. Blockchain her derde deva olmayacak ama yine de başarılı birkaç proje bile dünyayı daha güzel ve yaşanır hale getirecek kuşkusuz. 

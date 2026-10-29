@@ -41,7 +41,7 @@ Subnet'lerden kimileri gelişmiş yazı, görsel, video üretimine odaklanırken
 
 | ![Bittensor_subnets](/assets/bittensor-subnets_800.jpg)|
 |:--:| 
-| *Bittensor Subnet Sistemi. ubnetler gruplara ayrılmış, her bir subnet’in numarası yanlarında yazmaktadır - (Kaynak: [Crucible Labs](https://cruciblelabs.com/report-state-of-bittensor-2024/))*|
+| *Bittensor Subnet Sistemi. ubnetler gruplara ayrılmış, her bir subnet’in numarası yanlarında yazmaktadır - (Kaynak: [Crucible Labs](https://web.archive.org/web/20250306090259/https://cruciblelabs.com/report-state-of-bittensor-2024/))*|
 
 Bittensor, sistemini bu alanların birbirleriyle rekabet etmesi üzerine kurmuş. Alanlar içinde kullanıcılar tarafından en çok ilgi görenler sistem tarafından ödüllendiriliyor, ilgi görmeyenlerin yerini ise yeni kurulan Subnet'ler alıyor. 
 

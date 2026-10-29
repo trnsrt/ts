@@ -75,7 +75,7 @@ ABD'nin dünyada en ileri güç olmasının temel lokomotiflerinden birisi inova
 
 ---
 
-*Not 1: Bu yazı ilk olarak 14 Mart 2023'de [Coindesk Türkiye'de yayınlandı](https://www.coindeskturkiye.com/yazarlar/turan-sert/abddeki-banka-krizi-ve-gelecek-3851)*
+*Not 1: Bu yazı ilk olarak 14 Mart 2023'de [Coindesk Türkiye'de yayınlandı](https://web.archive.org/web/20230320153201/https://www.coindeskturkiye.com/yazarlar/turan-sert/abddeki-banka-krizi-ve-gelecek-3851)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 

@@ -48,7 +48,7 @@ Sistemin DAO olarak çalışıyor olması, uzun vadede yukarıda belirttiğimiz 
 
 ---
 
-*Not 1: Bu yazı ilk olarak 31 Mart 2023'de [Coindesk Türkiye'de yayınlandı](https://www.coindeskturkiye.com/yazarlar/turan-sert/web3u-insanlik-icin-kullanmak-4029)*
+*Not 1: Bu yazı ilk olarak 31 Mart 2023'de [Coindesk Türkiye'de yayınlandı](https://web.archive.org/web/20230331081439/https://www.coindeskturkiye.com/yazarlar/turan-sert/web3u-insanlik-icin-kullanmak-4029)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 

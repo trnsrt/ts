@@ -86,7 +86,7 @@ Liquid Staking Derivatives, Ethereum'un yeni döneminin önemli aktörlerinden b
 
 ---
 
-*Not 1: Bu yazı ilk olarak 18 Nisan 2023'de [Coindesk Türkiye'de yayınlandı](https://www.coindeskturkiye.com/yazarlar/turan-sert/ethereumun-dopingi-lsdler-4191)*
+*Not 1: Bu yazı ilk olarak 18 Nisan 2023'de [Coindesk Türkiye'de yayınlandı](https://web.archive.org/web/20230418142223/https://www.coindeskturkiye.com/yazarlar/turan-sert/ethereumun-dopingi-lsdler-4191)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 
