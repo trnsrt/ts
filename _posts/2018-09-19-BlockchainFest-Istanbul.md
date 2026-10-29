@@ -9,7 +9,7 @@ image: /assets/blockchain_fest_istanbul.jpg
 
 
 
-<img align="left" src="/assets/blockchain_fest_istanbul.jpg" style="width:40%; padding-right:20px"> 
+<img alt="Turan Sert'in BlockchainFest İstanbul katılım duyurusu görseli" align="left" src="/assets/blockchain_fest_istanbul.jpg" style="width:40%; padding-right:20px"> 
 19 Eylül 2018'de Kadir Has Üniversitesi'nde yapılan BlockchainFest İstanbul'da "Crypto Talk: Creation a Viable Ecosystem" panelinden.  
 &nbsp;
 &nbsp;
@@ -23,10 +23,10 @@ Katılımcılar:
 - [İsmail Hakkı Polat](https://twitter.com/ismailhpolat), Kadir Has Üniversitesi (moderator) 
 
 <table><tr><td style="width:30%">
-<img src="/assets/blockchain_fest_istanbul_roster.jpg">
+<img alt="BlockchainFest İstanbul 2018 konuşmacı listesi" src="/assets/blockchain_fest_istanbul_roster.jpg">
 </td>
 <td style="width:70%">
-<img src="/assets/blockchain_fest_panel.jpg">
+<img alt="BlockchainFest İstanbul panel sahnesinden görünüm" src="/assets/blockchain_fest_panel.jpg">
    </td></tr>
 <tr><td style="width:30%; vertical-align:top">
 <p>

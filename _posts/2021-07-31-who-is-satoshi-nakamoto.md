@@ -5,6 +5,7 @@ date:   2021-07-31 17:47:56 +0300
 categories: Genel
 tags: Yazılar, Articles
 image: /assets/Bitcoin-white-paper_800.png
+lang: en
 ---
 
 There are many theories about who Satoshi Nakamoto is. Let's briefly address this 'mystery'. 
@@ -18,7 +19,7 @@ They asked the following question 'How can we enable individuals to preserve and
 
 There have been many initiatives that were brought up by these people such as the digital cash by David Chaum or Bitgold by Nick Szabo (you can see our post for their detailed contributions to the field).👇
 
- ![pioneers](genel/2021/07/05/early-pioneers-of-blockchain-technology.html)
+ [Early pioneers of Blockchain technology](/genel/2021/07/05/early-pioneers-of-blockchain-technology.html)
 
 One of these people was an unknown cypherpunk that uses the pseudonym [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto). We don't know the actual name of the person or even if this is a person or a group of people. Satoshi Nakamoto has unveiled a white paper called [Bitcoin: A Peer to Peer Electronic Cash System-pdf](https://bitcoin.org/bitcoin.pdf) in October 2008. You can read the paper in English and 35 other languages [on this link](https://bitcoin.org/en/bitcoin-paper). 
 

@@ -21,10 +21,10 @@ Yukarı kısım kısa özet isteyenler için. GRTIQ ile gerçekleştirdiğim pod
 &nbsp;
 
 <table><tr><td style="width:40%">
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5QbmflKjKmrIKIIgpwPLdF?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe title="GRTIQ podcast bölümü: Turan Sert (Spotify)" style="border-radius:12px" src="https://open.spotify.com/embed/episode/5QbmflKjKmrIKIIgpwPLdF?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </td>
 <td style="width:60%">
-<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/turan-sert/id1559587482?i=1000692350521"></iframe>
+<iframe loading="lazy" title="GRTIQ podcast bölümü: Turan Sert (Apple Podcasts)" allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/turan-sert/id1559587482?i=1000692350521"></iframe>
 </td></tr>
 <tr><td style="width:40%; vertical-align:top">
 <p>
@@ -44,7 +44,7 @@ Daha detaylı hayat hikayemi duymak isterseniz aşağıda bir kopyası olan Coin
 ## Turan Sert Kimdir?
 
 
-<img align="left" src="/assets/TS_profile_pic_2606_reduced.jpg" style="width:40%; padding-right:20px">  
+<img alt="Turan Sert profil fotoğrafı" align="left" src="/assets/TS_profile_pic_2606_reduced.jpg" style="width:40%; padding-right:20px">  
 
 Son yıllarda blok zincir teknolojisi alanında yazdığı yazılar ile tanınan Turan Sert, Hendek, Sakarya’da doğdu. Ankara Atatürk Anadolu Lisesi ve Boğaziçi Üniversitesi İktisadi ve İdari Bilimler Fakültesi İşletme Bölümünü bitirdi. Turan Sert’in ilk yılları, iş hayatındaki ilk dönemi, farklı denemeleri ve ülkeye dönüş serüvenini bu yazımızda bulabilirsiniz. İyi okumalar!
 
@@ -61,7 +61,7 @@ Ankara’daki lise yıllarından sonra bu sefer İstanbul’da Boğaziçi Ünive
 &nbsp;
 
 ### İş Hayatındaki İlk Dönem
-Sert, üniversite sonrası hemen iş hayatına giriyor. Önce Arthur Andersen’da denetçi olarak başlayan Sert; buarada  muhasebenin özünü anlayıp, finansal tabloları okuyup yorumlayabilmeyi deneyimliyor. Daha sonra ise iş hayatına Garanti Bankası’nda şirket satın almaları uzmanı olarak devam ediyor. Yatırım bankacılığı gerek Türkiye’nin genel yapısını, gerekse önde gelen şirketlerini tanıma fırsatını kendisine veriyor. Bunun yanında teknik olarak değerleme yapmayı da burada öğreniyor. Az bilinen bir konuyu (şirket birleşmesi ve halka arz gibi) herkesin anlayacağı şekilde anlatabilmeyi becerisi ve alışkanlığını Garanti Bankası’nda çalıştığı zamanlarda ediniyor.
+Sert, üniversite sonrası hemen iş hayatına giriyor. Önce Arthur Andersen’da denetçi olarak başlayan Sert; bu arada  muhasebenin özünü anlayıp, finansal tabloları okuyup yorumlayabilmeyi deneyimliyor. Daha sonra ise iş hayatına Garanti Bankası’nda şirket satın almaları uzmanı olarak devam ediyor. Yatırım bankacılığı gerek Türkiye’nin genel yapısını, gerekse önde gelen şirketlerini tanıma fırsatını kendisine veriyor. Bunun yanında teknik olarak değerleme yapmayı da burada öğreniyor. Az bilinen bir konuyu (şirket birleşmesi ve halka arz gibi) herkesin anlayacağı şekilde anlatabilme becerisi ve alışkanlığını Garanti Bankası’nda çalıştığı zamanlarda ediniyor.
 
 
 &nbsp;

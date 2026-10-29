@@ -32,7 +32,7 @@ Efendim, öncelikle şunu belirtelim XRP ile Ripple aynı değil. Ripple bir tek
 
 
 
-Ripple dediğimiz gibi bir teknoloji şirketi. Teknoloji üretiyor. Ürettiği en önemli teknoloji RippleNet. RippleNet SWIFT sisteminin yerine geçmeyi amaçlayan bir yapı. Biliyorsunuz Belçika bazlı SWIFT sistemi uluslararası para transferinde bankaların kullandığı araç. Oldukça pahalı ve McKinsey'nin bir raporuna göre işlemlerin sonuçlanması [3-5 gün arası sürebiliyor](https://www.mckinsey.com/industries/financial-services/our-insights/rethinking-correspondent-banking). İşte RippleNet bu süreyi iki dakikaya indirebileceğini iddia ediyor. Üstelik örneğin ABD ile Meksika arasındaki işlemlerde [%40-70 arası bir tasarruf](https://cointelegraph.com/news/ripple-cross-border-payments-pilot-financial-institutions-report-significant-time-cost-savings) ile...
+Ripple dediğimiz gibi bir teknoloji şirketi. Teknoloji üretiyor. Ürettiği en önemli teknoloji RippleNet. RippleNet SWIFT sisteminin yerine geçmeyi amaçlayan bir yapı. Biliyorsunuz Belçika bazlı SWIFT sistemi uluslararası para transferinde bankaların kullandığı araç. Oldukça pahalı ve McKinsey'nin bir raporuna göre işlemlerin sonuçlanması [3-5 gün arası sürebiliyor](https://www.mckinsey.com/industries/financial-services/our-insights/rethinking-correspondent-banking). İşte RippleNet bu süreyi iki dakikaya indirebileceğini iddia ediyor. Üstelik örneğin ABD ile Meksika arasındaki işlemlerde [%40-70 arası bir tasarruf](https://web.archive.org/web/20180930110844/https://cointelegraph.com/news/ripple-cross-border-payments-pilot-financial-institutions-report-significant-time-cost-savings) ile...
 
 
 ![ripplenet-400.jpg](/assets/ripplenet-400.jpg) 
@@ -78,7 +78,7 @@ Ripple (ve kontrolündeki XRP) mevcut sistemlerde devrim yapmak yerine piyasa oy
 
 ### Peki XRP neden yükseldi son günlerde?
 
-Bu konuda [birkaç teori var](https://cointelegraph.com/news/from-adoption-to-fomo-reasons-behind-ripples-leap): 
+Bu konuda [birkaç teori var](https://web.archive.org/web/20180930110849/https://cointelegraph.com/news/from-adoption-to-fomo-reasons-behind-ripples-leap): 
 
 1. xRapid denen Blockchain bazlı mutabakat teknolojisi ürününün önümüzdeki ay içinde çıkacağının açıklanması (ve bu teknolojinin maliyetleri azaltacağı yönündeki beklenti);
 2. Amerika'nın en büyük on bankasından biri olan PNC Bank'ın Ripple Network'üne girecek olması;

@@ -19,7 +19,7 @@ Geçtiğimiz yazıda, önce Ethereum blokzinciri üzerindeki Tornado Cash isimli
 |:--:| 
 | *Image by [David Mark](https://pixabay.com/users/12019-12019/) from [Pixabay](https://pixabay.com/)*|
 
-Bunun yanında, alınan önlemin kripto dünyasının ruhuna aykırı olduğunu gösterebilmek amacıyla, pek çok ünlü kişinin hesabına Tornado Cash üzerinden 0.1 ETH [para atıldı](https://www.coindeskturkiye.com/politika/birisi-tornado-cashten-eth-gondererek-unluleri-trolluyor-1446) (Buna ingilizcede 'dusting' yani 'tozlama' adı veriliyor). Öyle ya, Tornado Cash bir yazılım. Parayı havuza gönderen birileri var ve bu birileri Tornado Cash'e 'parayı şu hesaba gönder' dediklerinde hesap sahibinin alabileceği bir önlem yok. Dolayısıyla Coinbase'in sahibi Brian Armstrong'dan ünlü sunucu Jimmy Fallon'a kadar pek çok ünlünün hesabı şu anda 'lekelenmiş' durumda. 
+Bunun yanında, alınan önlemin kripto dünyasının ruhuna aykırı olduğunu gösterebilmek amacıyla, pek çok ünlü kişinin hesabına Tornado Cash üzerinden 0.1 ETH [para atıldı](https://web.archive.org/web/20220810113536/https://www.coindeskturkiye.com/politika/birisi-tornado-cashten-eth-gondererek-unluleri-trolluyor-1446) (Buna ingilizcede 'dusting' yani 'tozlama' adı veriliyor). Öyle ya, Tornado Cash bir yazılım. Parayı havuza gönderen birileri var ve bu birileri Tornado Cash'e 'parayı şu hesaba gönder' dediklerinde hesap sahibinin alabileceği bir önlem yok. Dolayısıyla Coinbase'in sahibi Brian Armstrong'dan ünlü sunucu Jimmy Fallon'a kadar pek çok ünlünün hesabı şu anda 'lekelenmiş' durumda. 
 
 ### Protokoller açısından uzun vadede neler bekleniyor?
 
@@ -33,7 +33,7 @@ Bu hareketin DeFi uygulamalarını (bir diğer deyişle protokollerini) ikiye b�
 |:--:| 
 | *Tornado Cash kullanan hesaplar ve o hesapların ilişkilde olduğu hesaplar. Kaynak: [Twitter @elbarto capital](https://twitter.com/ElBarto_Crypto/status/1558428428763815942)*|
 
-#### Merkeziyetsizleşme hızlanabilr mi?
+#### Merkeziyetsizleşme hızlanabilir mi?
 Diğer yandan, bu durum protokollerin gittikçe daha hızlı bir şekilde merkeziyetsizleşmesine de yol açabilir. Geliştirici ekipler herhangi bir kanuni sorumluluk altına girmemek için kendilerini dağıtarak, tüm gelişmeyi DAO'lar aracılığıyla topluluğa vermek isteyebilirler. Alternatif olarak, ekiplerin merkezlerini ABD'den daha teknoloji dostu ülkelere (örneğin son dönemde Birleşik Arap Emirlikleri bu anlamda ön plana çıkmaya başladı) taşımaları da söz konusu olabilir. Bu son konu, yani ABD'nin uygun bir kanuni altyapı sağlayamadığı için bu alandaki liderliğini kaybetmesi ihtimali, ülkedeki kanun koyucular için oldukça hassas bir nokta. İnovasyon yarışını kaybetme tehlikesi, OFAC benzeri ofislerin yapacağı müdaheleleri kısıtlamak için gerekli kanuni altyapının hazırlanması konusunda ciddi bir motivasyon kaynağı olabilir. 
 
 #### Tornado Cash kapanıp Mornado Cash açılırsa ne olacak?
@@ -70,7 +70,7 @@ Tornado Cash olayı, merkezi otoritelerin haklı gerekçelerle olsa bile kripto 
 
 ---
 
-*Not 1: Bu yazı ilk olarak 27 Ağustos 2022'de [Coindesk Türkiye](https://www.coindeskturkiye.com/))'de [yayınlandı](https://www.coindeskturkiye.com/yazarlar/turan-sert/tornado-cash-olayi-defiyi-nasil-etkiler-1700)*
+*Not 1: Bu yazı ilk olarak 27 Ağustos 2022'de [Coindesk Türkiye](https://www.coindeskturkiye.com/))'de [yayınlandı](https://web.archive.org/web/20220826092241/https://www.coindeskturkiye.com/yazarlar/turan-sert/tornado-cash-olayi-defiyi-nasil-etkiler-1700)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 

@@ -12,7 +12,7 @@ DeFi üzerinde küçük ama hızla büyüyen opsiyon platformlarının en büyü
 Bir önceki [yazıda](/genel/2021/01/05/defi-opsiyon-piyasalari.html), opsiyonun temel özellikleri konusunda hafızamızı tazelemiş ve DeFi opsiyon piyasalarına göz ucuyla bakmıştık. Bu yazıda ise, şu an için bu alanın en büyüğü olan Hegic'i inceleyecek ve merkeziyetsiz opsiyon piyasalarının nasıl çalıştığının detayına gireceğiz.
 
 ### Hegic nedir?
-Merkezi olmayan opsiyon en büyüğü olan [Hegic](https://www.hegic.co) 2020 yılının Şubat ayında [0molly Wintermut3](@0mllwntrmt3) isimli anonim biri ya da birileri tarafından hayata geçirilmiş.
+Merkezi olmayan opsiyon en büyüğü olan [Hegic](https://www.hegic.co) 2020 yılının Şubat ayında [0molly Wintermut3](https://x.com/0mllwntrmt3) isimli anonim biri ya da birileri tarafından hayata geçirilmiş.
 
 Burayı tekrar etmekte fayda var: Paranızı emanet edeceğiniz bir DeFi platformu ve kurucusu anonim bir 'hesap'. Üstüne üstlük, finansal piyasaların en riskli ürünlerinden biri olan opsiyon piyasasında faaliyet gösteriyor. Böyle bir platforma paranızı neden yatırasınız ki? 
 

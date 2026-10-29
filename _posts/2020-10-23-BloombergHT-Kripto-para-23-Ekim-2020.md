@@ -7,15 +7,15 @@ tags: videos Etkinlikler
 image: /assets/kripto_para_logo_1200.jpg
 ---
 
-<img align="left" src="/assets/kripto_para_logo_1200.jpg" style="width:40%; padding-right:20px"> BloombergHT'de [Sefer Yüksel](https://twitter.com/SeferYuksel/)'in sunduğu Kripto Para programının [Dr. Aytunç Yıldızlı](https://twitter.com/bit_gossip/) ile birlikte konuğu olduk. Skype'da yaşadığım sorunlar nedeniyle görüntünün donuk, sesin ise arada kesintili geldiği yayında kripto para, Merkez Bankası Dijital Paraları ve Ekim 2020'nin diğer önemli bir konusu olan PayPal'ın kripto para işlemlerine aracılık etmeye başlamasını konuştuk. 
+<img alt="Bloomberg HT Kripto Para programı tanıtım ekranı" align="left" src="/assets/kripto_para_logo_1200.jpg" style="width:40%; padding-right:20px"> BloombergHT'de [Sefer Yüksel](https://twitter.com/SeferYuksel/)'in sunduğu Kripto Para programının [Dr. Aytunç Yıldızlı](https://twitter.com/bit_gossip/) ile birlikte konuğu olduk. Skype'da yaşadığım sorunlar nedeniyle görüntünün donuk, sesin ise arada kesintili geldiği yayında kripto para, Merkez Bankası Dijital Paraları ve Ekim 2020'nin diğer önemli bir konusu olan PayPal'ın kripto para işlemlerine aracılık etmeye başlamasını konuştuk. 
 
 &nbsp;
 
 <table><tr><td style="width:50%">
-<img src="/assets/kripto_para_screenshot_1200.jpg">
+<img alt="Kripto Para yayını, başlık: PayPal'ın kripto para kabulü" src="/assets/kripto_para_screenshot_1200.jpg">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/M10-aOfy--A" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe loading="lazy" title="Kripto Para | 23.10.2020" width="224" height="126" src="https://www.youtube-nocookie.com/embed/M10-aOfy--A" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Programdan bir görüntü...  

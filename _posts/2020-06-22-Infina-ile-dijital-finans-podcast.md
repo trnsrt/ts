@@ -8,7 +8,7 @@ image: /assets/Infina_podcast_640.jpg
 ---
 
 
-<img align="left" src="/assets/Infina_podcast_640.jpg" style="width:40%; padding-right:20px"> [İnfina Yazılım](https://twitter.com/@InfinaYazilim)'ın düzenlediği İnfina ile Dijital Finans podcast'inin 25.sinde [İskender Ada](https://twitter.com/@iskenderada) ve [Burçin Yazıcı](https://twitter.com/@burcinyazici)'nın konuğu oldum. Kişisel geçmişimden Blokzincir merakıma kadar pek çok konuyu paylaştım. Çok keyifli bir sohbet oldu.
+<img alt="İnfina ile Dijital Finans podcast 25. bölüm kapağı" align="left" src="/assets/Infina_podcast_640.jpg" style="width:40%; padding-right:20px"> [İnfina Yazılım](https://twitter.com/@InfinaYazilim)'ın düzenlediği İnfina ile Dijital Finans podcast'inin 25.sinde [İskender Ada](https://twitter.com/@iskenderada) ve [Burçin Yazıcı](https://twitter.com/@burcinyazici)'nın konuğu oldum. Kişisel geçmişimden Blokzincir merakıma kadar pek çok konuyu paylaştım. Çok keyifli bir sohbet oldu.
 
 Yayının linklerine aşağıdan ulaşabilirsiniz: 
 
@@ -24,7 +24,7 @@ Yayının linklerine aşağıdan ulaşabilirsiniz:
 
 
 <table><tr><td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/evsyn5BSANQ" frameborder="0" allowfullscreen></iframe>
+<iframe loading="lazy" title="İnfina ile Dijital Finans - 22 Haziran 2020 Podcast - video" width="224" height="126" src="https://www.youtube-nocookie.com/embed/evsyn5BSANQ" frameborder="0" allowfullscreen></iframe>
 </td>
 </tr>
 <tr><td style="width:50%; vertical-align:top">

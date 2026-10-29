@@ -6,7 +6,7 @@ categories: Genel
 image: /assets/stock_image_05.png
 ---
 
-Geçtiğimiz [yazıların birinde](https://ademimerkezi.com/genel/2019/01/04/kurumsal-yatirimci-bakkt-ile-kriptoparalara-girer-mi.html) kurumsal yatırımcıların Kriptopara yatırımları ile ilgili dertlerinden birçoğuna derman olacak NYSE'nin sahibi [ICE](https://www.theice.com/about)'ın kurduğu [Bakkt](https://www.bakkt.com/index)'dan [bahsetmiştik](https://ademimerkezi.com/genel/2019/01/04/kurumsal-yatirimci-bakkt-ile-kriptoparalara-girer-mi.html). 
+Geçtiğimiz [yazıların birinde](/genel/2019/01/04/kurumsal-yatirimci-bakkt-ile-kriptoparalara-girer-mi.html) kurumsal yatırımcıların Kriptopara yatırımları ile ilgili dertlerinden birçoğuna derman olacak NYSE'nin sahibi [ICE](https://www.theice.com/about)'ın kurduğu [Bakkt](https://bakkt.com/)'dan [bahsetmiştik](/genel/2019/01/04/kurumsal-yatirimci-bakkt-ile-kriptoparalara-girer-mi.html). 
 
 Şimdi bu tip kurumsal yatırımcılara yardımcı olmak amacıyla ABD'nin en büyük aracı kuruluşlarından Fidelity'nin kurduğu Fidelity Digital Assets'e ([Fidelity Digital](https://www.fidelitydigitalassets.com/overview)) bakalım kısaca.
 
@@ -16,7 +16,7 @@ Fidelity yaklaşık 2.5 trilyon ABD Doları'nı yöneten devasa bir kurum. Ancak
 
 Ana olarak iki konuda hizmet verecek: emanet saklama ve kripto alım-satımı. 
 
-Emanet saklama, sektördeki diğer büyük oyuncu olan [Bakkt'ın da vermeyi planladığı hizmetin benzeri](http://fortune.com/longform/nyse-owner-bitcoin-exchange-startup/). Kurumsal yatırımcıların satın aldığı dijital varlıkları tutabilecekleri bir emanet depo. 
+Emanet saklama, sektördeki diğer büyük oyuncu olan [Bakkt'ın da vermeyi planladığı hizmetin benzeri](https://fortune.com/longform/nyse-owner-bitcoin-exchange-startup/). Kurumsal yatırımcıların satın aldığı dijital varlıkları tutabilecekleri bir emanet depo. 
 
 Kripto alım satımınında odaklandıkları konu likidite sağlayarak müşteriye en iyi fiyatı bulabilmek bir aracı olabilmek. Bunun için de sadece onlarca Kriptopara borsasının yanında ağırlıklı OTC pazarında işlem yapacaklar. Zira mevcut Kriptopara borsalarının sığ olması yapılan büyük boyutlu işlemlerin KriptoPara fiyatlarında büyük oynamalara neden oluyor. 
 

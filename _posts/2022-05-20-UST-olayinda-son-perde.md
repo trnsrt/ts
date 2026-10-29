@@ -17,7 +17,7 @@ Geçtiğimiz haftaki yazımızda, stabil paralardan başlayarak UST'nin hikayesi
 
 | ![puff](/assets/airshow-6145574_800.jpg)|
 |:--:| 
-| *Image by [Ciarán Ó Muirgheasa](https://[pixabay.com/users/geralt-9301/](https://pixabay.com/users/comuirgheasa-3235861/)) from [Pixabay](https://pixabay.com/)*|
+| *Image by [Ciarán Ó Muirgheasa](https://pixabay.com/users/comuirgheasa-3235861/) from [Pixabay](https://pixabay.com/)*|
 
 Bu hazin son sonrası, gerek uzun zamandır bu sisteme inanarak yatırım yapmış gerekse hızlı düşüşün bir çıkışı olduğunu düşünerek son demlerde alıma geçmiş pek çok kişi ciddi kayıplar yaşadı. Bu konuda şahsen oldukça üzgün olduğumu belirtmeliyim.
 
@@ -29,7 +29,7 @@ Kayıpları yerine getirmeyecek olsa da, yaşananlardan bazı dersler çıkarıl
 
 DeFi'nin riskli bir alan olduğu hep konuşulur, bizim yazılarımızda da sıkça yer alır. Bu uyarıları, yazarın 'kendini sağlama almak' için eklediğini düşünmeyin lütfen. DeFi gibi yeni filizlenmeye başlayan bir alanda, deneysel olarak ortaya çıkan projeler ile ilgili ne kadar senaryo çalışması yaparsanız yapın, pratik hayat önünüze aklınıza hiç gelmeyecek bambaşka engeller çıkarabiliyor. 
 
-DeFi alanının en saygın isimlerinden olan [Delphi Digital](delphidigital.io), geçtiğimiz günlerde yayınladığı [öz eleştiride](https://members.delphidigital.io/reports/learnings-from-last-week/) teoride güzel bir proje olan Terra konusunda nerede hata yapıldığını çok net olarak anlatmış: 
+DeFi alanının en saygın isimlerinden olan [Delphi Digital](https://delphidigital.io), geçtiğimiz günlerde yayınladığı [öz eleştiride](https://members.delphidigital.io/reports/learnings-from-last-week/) teoride güzel bir proje olan Terra konusunda nerede hata yapıldığını çok net olarak anlatmış: 
 
 *2021 yılı başlarında tanıştıkları Terra ekosisteminin, 'algoritmik stabil paralara entegre olmuş, gerçek dünya adaptasyonuna odaklanmış ve göreceli ölçeklenebilir bir blokzincir olma' tezini çok ilgi çekici bulmuşlar. Sonrasında Terra üzerinde Mart ayında faaliyete başlayan kredi protokolü Anchor'un sunduğu yüksek faizin UST'nin geniş kesimlerce adaptasyonu tezine müthiş uyumlu olduğunu düşünmüşler. O zamanlarda DeFi'de getiriler genelde %100'ler seviyesinde olduğu için Anchor'un verdiği %20'lik faiz onlara gayet makul görünmüş.*
 

@@ -22,7 +22,7 @@ Tam olarak bire bir olmasa da birçok girişim kendi Blockchain'ini kurmak yerin
 
 Ethereum üzerine uygulama yazmanın hayatı kolaylaştırdığı kesin. Bir kere geniş bir ekosistemin içine giriyorsunuz. Yazılımcı bulmanız kolay, kullanıcılara ulaşmak kolay. Strateji derslerinde sık sık söz edilen Küme Etkisi (Cluster Effect) durumu var burada, bir nevi - bütün kuyumcuların bir çarşıda toplanması gibi... 
 
-Örneğin geçtiğimiz yazılardan birinde bahsettiğimiz DeFi hareketi, bu şekilde Ethereum üzerine kurulu finans alanında çalışan girişimilerin birbilerini kullanmasına dayanıyor. 
+Örneğin geçtiğimiz yazılardan birinde bahsettiğimiz DeFi hareketi, bu şekilde Ethereum üzerine kurulu finans alanında çalışan girişimilerin birbirlerini kullanmasına dayanıyor. 
 
 Biraz daha açalım: Bu alanın aslında birbirine rakip gibi görünen iki girişimi var: [Dharma](https://www.dharma.io/) ve [MakerDAO](https://makerdao.com/en/). 
 

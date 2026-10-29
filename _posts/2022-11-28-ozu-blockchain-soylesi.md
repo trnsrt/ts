@@ -7,7 +7,7 @@ tags: videos Etkinlikler
 image: /assets/ozu-blockchain-club-poster_800.jpg
 ---
 
-<img align="left" src="/assets/ozu-blockchain-club-poster_800.jpg" style="width:20%; padding-right:20px"> [Özyeğin Üniversitesi Blockchain Kulübü](https://twitter.com/OzUBlockchain) tarafından düzenlenen DeFi Üzerine söyleşide Özyeğin Üniversitesi'nin gençlerinin sorularını yanıtlamaya çalıştım. Yıllar sonra bir zamanlar iki yılımı geçirdiğim üniversiteye dönmek güzeldi. Sonrasında kulüp üyeleriyle kulüp odasında da oturma firsatı buldum. ÖzÜ Blockchain'in önümüzdeki dönemde güzel işler yapacağına inanıyorum. 
+<img alt="OzU Blockchain söyleşi afişi, Sorularla DeFi, Turan Sert" align="left" src="/assets/ozu-blockchain-club-poster_800.jpg" style="width:20%; padding-right:20px"> [Özyeğin Üniversitesi Blockchain Kulübü](https://twitter.com/OzUBlockchain) tarafından düzenlenen DeFi Üzerine söyleşide Özyeğin Üniversitesi'nin gençlerinin sorularını yanıtlamaya çalıştım. Yıllar sonra bir zamanlar iki yılımı geçirdiğim üniversiteye dönmek güzeldi. Sonrasında kulüp üyeleriyle kulüp odasında da oturma fırsatı buldum. ÖzÜ Blockchain'in önümüzdeki dönemde güzel işler yapacağına inanıyorum. 
 
 &nbsp;
 &nbsp;
@@ -20,10 +20,10 @@ image: /assets/ozu-blockchain-club-poster_800.jpg
 
 <table><tr>
 <td style="width:50%">
-<img src="/assets/ozu-blockchain-photo-4.jpg">
+<img alt="Blockchain Talks Sorularla DeFi tanıtım kartı, Turan Sert" src="/assets/ozu-blockchain-photo-4.jpg">
 </td>
 <td style="width:50%">
-<img src="/assets/ozu-blockchain-photo-2.jpg">
+<img alt="Kulüp etkinliğinde sahnedeki konuşmacılar ve dinleyiciler" src="/assets/ozu-blockchain-photo-2.jpg">
 </td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
@@ -40,9 +40,9 @@ Panelin posteri
 <table>
 <tr>
 <td style>
-<img src="/assets/ozu-blockchain-foto-1.jpg">
+<img alt="Kitap tutan kalabalık katılımcı grubuyla fotoğraf" src="/assets/ozu-blockchain-foto-1.jpg">
 </td>
-<td style><img src="/assets/ozu-blockchain-photo-3.jpg">
+<td style><img alt="Sorularla DeFi kitabı tutan öğrencilerle grup fotoğrafı" src="/assets/ozu-blockchain-photo-3.jpg">
 </td>
 </tr>
 </table>

@@ -2,6 +2,8 @@
 layout: page
 title: Sorularla Web3
 permalink: /Sorularla_Web3/
+redirect_from:
+  - /sorularla_web3/
 ---
 
 | ![Sorularla Web3](/assets/Sorularla_Web3_kapak_x.jpg)|
@@ -37,7 +39,7 @@ Gösterdiğiniz ilgiye teşekkürler!
 | 62 | ["CoinGecko"](https://www.coingecko.com/en/coins/ethereum/historical_data?start=2022-12-31&end=2024-01-05,#panel) |
 | 66 | ["Florin Digital"](https://florindigital.substack.com/p/verifiable-off-chain-compute-enabling) |
 | 68 | ["@sankin"](https://dune.com/queries/3275250/5482283) |
-| 77 | ["Clave"](https://www.getclave.io/) |
+| 77 | ["Clave"](https://getclave.io/) |
 | 79 | ["X"](https://x.com/hmalviya9/status/1787714421084520862) |
 | 79 | ["GrowThePie"](https://www.growthepie.xyz/fundamentals/transaction-count) |
 | 81 | ["GrowthThePie"](https://www.growthepie.xyz/fundamentals/total-value-locked) |
@@ -80,7 +82,7 @@ Gösterdiğiniz ilgiye teşekkürler!
 | 155 | ["TheBlock"](https://www.theblock.co/data/stablecoins/usd-pegged) |
 | 158 | ["öngörülüyor"](https://anlatilaninotesi.com.tr/20241119/2025e-dogru-yeni-nesil-para-biriminin-tum-detaylari-dijital-turk-lirasi-turkiye-icin-neden-oldukca-1090381254.html) |
 | 159 | ["110 kişinin çalıştığı"](https://www.apollo.io/companies/Tether-to/5569974e736964255dc85c00) |
-| 162 | ["Consensys"](https://consensys.net/knowledge-base/defi/) |
+| 162 | ["Consensys"](https://web.archive.org/web/20231123035412/https://consensys.net/knowledge-base/defi/) |
 | 165 | ["IMF Global Study Report, April 2022, Sayfa 80"](https://www.imf.org/en/Publications/GFSR/Issues/2022/04/19/global-financial-stability-report-april-2022) |
 | 167 | ["adamın hikayesini"](https://pulitzercenter.org/stories/my-money-or-your-life-bank-robbers-beirut) |
 | 168 | ["DefiLlama"](https://defillama.com/) |
@@ -88,7 +90,7 @@ Gösterdiğiniz ilgiye teşekkürler!
 | 170 | ["Zapper"](https://zapper.xyz/tr) |
 | 170 | ["Clave"](https://getclave.io/) |
 | 171 | ["Nexus Mutual"](https://nexusmutual.io/) |
-| 171 | ["ease"](https://armor.ease.org/) |
+| 171 | ["ease"](https://web.archive.org/web/20241206204355/https://armor.ease.org/) |
 | 177 | ["TheBlock"](https://www.theblock.co/data/nft-non-fungible-tokens/nft-overview) |
 | 179 | ["müzik ve film endüstrisinin toplamının iki katına kadar ulaşarak"](https://wagmi-games.gitbook.io/wagmi-games-whitepaper/3.-market-analysis) |
 | 183 | ["Ronin"](https://roninchain.com/) |
@@ -131,13 +133,13 @@ Gösterdiğiniz ilgiye teşekkürler!
 | 192 | ["BlueSky"](https://bsky.app/) |
 | 192 | ["Mastadon"](https://mastodon.social/explore) |
 | 192 | ["bu listedeki isimlerden"](https://github.com/2gatherproject/decentralized-social-apps-guide) |
-| 193 | ["mümkün"](https://docs.farcaster.xyz/developers/frames/) |
-| 193 | ["eklenebiliyor"](https://goldrush.dev/docs/unified-api/guides/what-is-decentralized-social-lens-farcaster-and-others/) |
+| 193 | ["mümkün"](https://web.archive.org/web/20240820051123/https://docs.farcaster.xyz/developers/frames/) |
+| 193 | ["eklenebiliyor"](https://web.archive.org/web/20240807085901/https://goldrush.dev/docs/unified-api/guides/what-is-decentralized-social-lens-farcaster-and-others/) |
 | 195 | ["Cambridge Analytica"](https://tr.wikipedia.org/wiki/Facebook-Cambridge_Analytica_veri_skandal%C4%B1) |
 | 197 | ["Ontology"](https://ont.io/) |
 | 197 | ["SelfKey"](https://selfkey.org/) |
 | 197 | ["Civic"](https://www.civic.com/) |
-| 197 | ["QuarkID"](https://docs.quarkid.org/en/) |
+| 197 | ["QuarkID"](https://web.archive.org/web/20250328084618/https://docs.quarkid.org/en/) |
 | 197 | ["Magic Link"](https://magic.link/) |
 | 198 | ["Cambridge Analytica örneğinden"](https://tr.wikipedia.org/wiki/Facebook-Cambridge_Analytica_veri_skandal%C4%B1) |
 | 199 | ["veri depolama hizmeti veren Filecoin"](https://turansert.com/genel/2021/04/20/definin-merkeziyetsiz-deposu-filecoin.html) |
@@ -150,7 +152,7 @@ Gösterdiğiniz ilgiye teşekkürler!
 | 207 | ["Credit Nature"](https://creditnature.com/) |
 | 207 | ["EthicHub"](https://www.ethichub.com/en) |
 | 207 | ["yardımcı oluyor"](https://www.engage.hoganlovells.com/knowledgeservices/news/where-finance-digital-sustainability-and-impact-meet-what-is-regenerative-finance-refi) |
-| 207 | ["desteklemekten"](https://rsfsocialfinance.org/get-funding/meet-the-entrepreneurs-2/) |
+| 207 | ["desteklemekten"](https://web.archive.org/web/20240911001955/https://rsfsocialfinance.org/get-funding/meet-the-entrepreneurs-2/) |
 | 207 | ["götürmeye"](https://www.ethichub.com/en) |
 | 208 | ["Akbank Lab"](https://www.akbanklab.com/tr/ana-sayfa) |
 | 208 | ["imece"](https://imece.com/) |
@@ -184,13 +186,13 @@ Gösterdiğiniz ilgiye teşekkürler!
 | 223 | ["Vana"](https://www.vana.org/) |
 | 223 | ["NVG8"](https://nvg8.io/) |
 | 223 | ["Dria"](https://dria.co/) |
-| 223 | ["Mizu"](https://mizu.global/) |
+| 223 | ["Mizu"](https://web.archive.org/web/20241123105901/https://mizu.global/) |
 | 223 | ["Grass"](https://www.getgrass.io/) |
 | 223 | ["Synesis One"](https://www.synesis.one/) |
 | 223 | ["First Batch"](https://www.firstbatch.xyz/) |
 | 223 | ["Filecoin"](https://filecoin.io/) |
 | 223 | ["Arweave"](https://www.arweave.org/) |
-| 223 | ["Ceramic"](https://ceramic.network/) |
+| 223 | ["Ceramic"](https://web.archive.org/web/20241201174843/https://ceramic.network/) |
 | 223 | ["Tableland"](https://tableland.xyz/) |
 | 223 | ["Space and Time"](https://spaceandtime.io/) |
 | 223 | ["The Graph"](https://thegraph.com/) |
@@ -202,8 +204,8 @@ Gösterdiğiniz ilgiye teşekkürler!
 | 223 | ["Kiva AI"](https://www.kivaai.com/) |
 | 223 | ["Fraction.AI"](http://Fraction.AI) |
 | 224 | ["Akash Network"](https://akash.network/) |
-| 224 | ["Aethir"](http://aethir.com/) |
-| 224 | ["io.net"](http://io.net) |
+| 224 | ["Aethir"](https://aethir.com/) |
+| 224 | ["io.net"](https://io.net) |
 | 224 | ["Gensyn"](https://www.gensyn.ai/) |
 | 224 | ["Prime Intellect"](https://www.primeintellect.ai/) |
 | 224 | ["Hyperbolic"](https://hyperbolic.xyz/) |
@@ -227,16 +229,16 @@ Gösterdiğiniz ilgiye teşekkürler!
 | 225 | ["Allora"](https://www.allora.network/) |
 | 225 | ["Sentient"](https://sentient.foundation/) |
 | 226 | ["Generative AI’ Act o1"](https://www.sequoiacap.com/article/generative-ais-act-o1/) |
-| 227 | ["venice.ai"](http://venice.ai) |
+| 227 | ["venice.ai"](https://venice.ai) |
 | 227 | ["Parallel Colony"](https://parallel.life/colony/signup) |
-| 228 | ["Venice.ai"](http://Venice.ai) |
+| 228 | ["Venice.ai"](https://Venice.ai) |
 | 228 | ["Veldt"](https://theveldt.ai/) |
 | 228 | ["Taoshi"](https://www.taoshi.io/) |
 | 228 | ["Intent.Trade"](https://intent.trade/) |
 | 228 | ["Robonet"](https://robonet.finance/) |
 | 229 | ["Botto"](https://www.botto.com/) |
 | 229 | ["ChainGPT"](https://www.chaingpt.org/) |
-| 229 | ["Guardrail"](https://www.getguardrail.xyz/) |
+| 229 | ["Guardrail"](https://www.guardrail.ai/) |
 | 229 | ["Chaos Labs,"](https://chaoslabs.xyz/) |
 | 229 | ["Gauntlet"](https://www.gauntlet.xyz/) |
 | 229 | ["Minerva"](https://www.gominerva.com/) |
@@ -254,7 +256,7 @@ Gösterdiğiniz ilgiye teşekkürler!
 | 230 | ["Marlin"](https://www.marlin.org/) |
 | 230 | ["Chainlink"](https://chain.link/) |
 | 230 | ["Ora"](https://www.ora.io/) |
-| 230 | ["OpenLayer"](https://www.openlayer.tech/) |
+| 230 | ["OpenLayer"](https://web.archive.org/web/20241009183739/https://www.openlayer.tech/) |
 | 230 | ["Pond"](https://cryptopond.xyz/) |
 | 230 | ["RPS"](https://www.rpslabs.io/) |
 | 230 | ["Nous"](https://nousresearch.com/) |
@@ -263,7 +265,7 @@ Gösterdiğiniz ilgiye teşekkürler!
 | 230 | ["Pluralis"](https://pluralis.ai/) |
 | 230 | ["Macrocosmos"](https://www.macrocosmos.ai/) |
 | 230 | ["Neuromesh"](https://www.nmesh.io/) |
-| 230 | ["Flock.io"](http://Flock.io) |
+| 230 | ["Flock.io"](https://Flock.io) |
 | 230 | ["Morpheus"](https://morpheusdata.com/) |
 | 230 | ["Theoriq"](https://www.theoriq.ai/) |
 | 230 | ["Grass"](https://www.getgrass.io) |
@@ -303,8 +305,8 @@ Gösterdiğiniz ilgiye teşekkürler!
 | 245 | ["Redstone"](https://redstone.finance/) |
 | 245 | ["Pyth Network"](https://www.pyth.network/) |
 | 245 | ["kullanmakta"](https://ethena-labs.gitbook.io/ethena-labs/solution-design/use-of-oracles) |
-| 247 | ["%20 oranında bir faiz uyguluyor"](https://app.morpho.org/market?id=0xc581c5f70bd1afa283eed57d1418c6432cbff1d862f94eaf58fdd4e46afbb67f) |
-| 252 | ["Delphi Digital"](https://turansert.com/genel/2022/05/20/delphidigital.io) |
+| 247 | ["%20 oranında bir faiz uyguluyor"](https://app.morpho.org/ethereum/market/0xc581c5f70bd1afa283eed57d1418c6432cbff1d862f94eaf58fdd4e46afbb67f) |
+| 252 | ["Delphi Digital"](https://delphidigital.io) |
 | 252 | ["öz eleştiride"](https://members.delphidigital.io/reports/learnings-from-last-week/) |
 | 254 | ["aptallıkla suçlayacak"](https://twitter.com/stablekwon/status/1464897977793728514?s=20&t=jbrCdOsCTMywLNKXSYk-vA) |
 | 254 | ["Galaxy Digital"](https://www.galaxydigital.io/) |
@@ -316,13 +318,13 @@ Gösterdiğiniz ilgiye teşekkürler!
 | 259 | ["Zhu Su"](https://twitter.com/zhusu) |
 | 259 | ["Kyle Davies"](https://twitter.com/kyleldavies) |
 | 259 | ["tarafından Singapur’da"](https://en.wikipedia.org/wiki/Three_Arrows_Capital) |
-| 259 | ["Three Arrows Capital"](https://www.threearrowscap.com/about-us/) |
+| 259 | ["Three Arrows Capital"](https://web.archive.org/web/20220711133355/https://www.threearrowscap.com/about-us/) |
 | 260 | ["Lido Finance"](https://lido.fi/) |
 | 260 | ["stETH"](https://www.coingecko.com/en/coins/lido-staked-ether) |
 | 262 | ["geriledi"](https://ycharts.com/companies/GBTC/discount_or_premium_to_nav) |
 | 262 | ["düştü"](https://coinmarketcap.com/currencies/steth/steth/eth/) |
 | 262 | ["ekleyelim"](https://coingeek.com/3ac-founders-hit-with-9-year-capital-markets-ban-in-singapore/) |
-| 263 | ["haber yapmasıyla"](https://www.coindeskturkiye.com/sirketler/sam-bankman-friedin-iki-sirketi-ayni-bilancoda-bulusuyor-2581) |
+| 263 | ["haber yapmasıyla"](https://web.archive.org/web/20221103115349/https://www.coindeskturkiye.com/sirketler/sam-bankman-friedin-iki-sirketi-ayni-bilancoda-bulusuyor-2581) |
 | 263 | ["SBF"](https://twitter.com/SBF_FTX) |
 | 263 | ["Changpeng Zhao"](https://twitter.com/cz_binance) |
 | 263 | ["açıkladığı tweet"](https://twitter.com/cz_binance/status/1589283421704290306) |
@@ -346,12 +348,12 @@ Gösterdiğiniz ilgiye teşekkürler!
 | 279 | ["lansmanı yapılan"](https://www.lemonade.com/blog/crypto-climate-coalition/) |
 | 279 | ["Lemonade Foundation"](https://lemonade.org/) |
 | 279 | ["Avalanche"](https://www.avax.network/) |
-| 279 | ["Chainlink"](https://turansert.com/genel/2023/03/31/chain.link) |
+| 279 | ["Chainlink"](https://chain.link) |
 | 279 | ["DAOStack"](https://daostack.io/) |
 | 279 | ["Hannover Re"](https://www.hannover-re.com/) |
 | 279 | ["Pula"](https://www.pula-advisors.com/) |
 | 279 | ["Etherisc"](https://etherisc.com/) |
-| 279 | ["Tomorrow.io"](http://Tomorrow.io) |
+| 279 | ["Tomorrow.io"](https://Tomorrow.io) |
 | 280 | ["video aracılığıyla"](https://www.youtube.com/watch?v=GIg-HWZefaE) |
 | 282 | ["10,867 tip nadir hastalık"](https://rare-x.org/blog/2022/06/07/rare-x-releases-new-report-that-uncovers-large-number-of-previously-uncounted-rare-diseases/) |
 | 282 | ["yaklaşık %10’u bir çeşit nadir hastalıktan muzdarip"](https://phrma.org/Scientific-Innovation/Progress-in-Fighting-Rare-Diseases) |
@@ -369,7 +371,7 @@ Gösterdiğiniz ilgiye teşekkürler!
 | 292 | ["olarak belirlendi"](https://www.aa.com.tr/tr/bilim-teknoloji/nftnin-turkce-karsiligi-nitelikli-fikri-tapu-olarak-belirlendi/2570316) |
 | 295 | ["Tokenization of Off-Chain Assets- Presented by Avalanche and Ava Labs"](https://www.theblock.co/post/241500/tokenization-of-off-chain-assets-presented-by-avalanche-and-ava-labs) |
 | 296 | ["mümkün hale geliyor"](https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-tokenization) |
-| 296 | ["Finoa"](https://www.finoa.io/blog/cost-savings-tokenization/) |
+| 296 | ["Finoa"](https://web.archive.org/web/20250122115015/https://www.finoa.io/blog/cost-savings-tokenization/) |
 | 297 | ["Tokenization of Off-Chain Assets- Presented by Avalanche and Ava Labs"](https://www.theblock.co/post/241500/tokenization-of-off-chain-assets-presented-by-avalanche-and-ava-labs) |
 | 307 | ["Compound"](https://compound.finance/) |
 | 307 | ["Uniswap"](https://app.uniswap.org/) |
@@ -381,7 +383,7 @@ Gösterdiğiniz ilgiye teşekkürler!
 | 315 | ["giriyorsunuz"](https://crystalintelligence.com/crypto-regulations/nfts-and-mica-what-you-need-to-know/) |
 | 315 | ["geçiş süreci söz konusu"](https://technologyquotient.freshfields.com/post/102jake/grandfathering-under-mica-how-member-states-approach-the-transitional-regime) |
 | 315 | ["yürürlüğe giren"](https://www.aa.com.tr/tr/ekonomi/kripto-varliklara-iliskin-yasa-resmi-gazetede-yayimlandi-/3263941) |
-| 317 | ["kullanmıştı"](https://www.cnbc.com/2017/10/13/BlackRock-ceo-larry-fink-calls-bitcoin-an-index-of-money-laundering.html) |
+| 317 | ["kullanmıştı"](https://www.cnbc.com/id/104771986?view=story) |
 | 318 | ["açıkladı"](https://www.coindesk.com/business/2022/08/04/BlackRock-to-offer-crypto-for-institutional-investors-through-coinbase-prime/) |
 | 318 | ["haberi ile geldi"](https://www.investopedia.com/BlackRock-files-for-a-spot-bitcoin-etf-7547609) |
 | 318 | ["yaptı"](https://www.coindesk.com/business/2023/10/17/BlackRock-ceo-larry-fink-seeing-client-demand-for-crypto-around-the-world/) |

@@ -2,6 +2,9 @@
 layout: page
 title: Web3 Unlocked
 permalink: /Web3_Unlocked/
+lang: en
+redirect_from:
+  - /web3_unlocked/
 ---
 
 <a href="https://books.google.com.tr/books?id=ZA7KEQAAQBAJ&printsec=frontcover&hl=tr" target="_blank"><img src="/assets/web3_front_cover.jpg" alt="Web3 Unlocked cover" width="220" style="display:block; margin: 0 auto 1.5rem auto;"></a>
@@ -14,16 +17,16 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 
 [gradually](https://www.internetsociety.org/internet/history-internet/brief-history-internet/)  
 
-[a massive network of computers talking to each other](https://www.usg.edu/galileo/skills/unit07/internet07_02.phtml)  
+[a massive network of computers talking to each other](https://web.archive.org/web/20241129121024/https://www.usg.edu/galileo/skills/unit07/internet07_02.phtml)  
 
 [which led to the creation](https://www.sciencemuseum.org.uk/objects-and-stories/arpanet-internet)  
 
 <br>
 <b>Page 22:</b>
 
-[google.com](http://google.com)  
+[google.com](https://google.com)  
 
-[a researcher at CERN](https://www.home.cern/science/computing/birth-web)  
+[a researcher at CERN](https://home.cern/science/computing/the-birth-of-the-web)  
 
 [building the fundamental rails](https://www.ebsco.com/research-starters/computer-science/web-10)  
 
@@ -46,7 +49,7 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 
 [survived the crash](https://www.eweek.com/cloud/eweek-at-30-how-amazon-survived-the-dot-com-crash-to-rule-the-cloud/)  
 
-[opposite](https://www.identity.com/web1-and-web2/)  
+[opposite](https://web.archive.org/web/20241212172756/https://www.identity.com/web1-and-web2/)  
 
 [The focus shifted entirely to the end-user](https://crowleymediagroup.com/resources/understanding-web-2-0s-the-evolution-of-the-net/)  
 
@@ -62,7 +65,7 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 
 [they were listening to our private conversations](https://www.wired.com/story/facebooks-listening-smartphone-microphone/)  
 
-[Cambridge Analytica scandal](https://en.wikipedia.org/wiki/Facebook%25E2%2580%2593Cambridge_Analytica_data_scandal)  
+[Cambridge Analytica scandal](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal)  
 
 <br>
 <b>Page 29:</b>
@@ -76,7 +79,7 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 <br>
 <b>Page 30:</b>
 
-[Nakamoto Consensus](https://www.morpher.com/blog/nakamoto-consensus)  
+[Nakamoto Consensus](https://web.archive.org/web/20260410170845/https://www.morpher.com/blog/nakamoto-consensus)  
 
 <br>
 <b>Page 31:</b>
@@ -173,7 +176,7 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 
 [EigenCloud](https://www.eigencloud.xyz/)  
 
-[marketplace](https://cointelegraph.com/explained/what-is-eigenlayer-ethereums-restaking-protocol-explained)  
+[marketplace](https://tr.tradingview.com/news/cointelegraph:2858f018f094b:0-what-is-eigenlayer-ethereum-s-restaking-protocol-explained)  
 
 <br>
 <b>Page 52:</b>
@@ -199,7 +202,7 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 
 [complex wealth transfer within the ecosystem](https://www.esma.europa.eu/sites/default/files/2025-07/ESMA50-481369926-29744_Maximal_Extractable_Value_Implications_for_crypto_markets.pdf)  
 
-[destroyed]([https://paxful.com/university/ethereum-burn-explained](https://omni.app/learn/ethereum-burn-explained))  
+[destroyed](https://web.archive.org/web/20240915063033/https://paxful.com/university/ethereum-burn-explained)  
 
 [battle](https://cryptodamus.io/en/articles/news/eip-1559-eth-burning-why-ethereum-is-still-inflationary-shocking-data-inside)  
 
@@ -217,7 +220,7 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 
 [29% of all ETH staked](https://www.coinbase.com/earn/staking/ethereum)  
 
-[provocative phrase](https://www.koinx.com/blog/ultrasound-money-ethereum-deflationary-model)  
+[provocative phrase](https://web.archive.org/web/20250708114312/https://www.koinx.com/blog/ultrasound-money-ethereum-deflationary-model)  
 
 [ultra-sound money,](https://ultrasound.money/)  
 
@@ -235,7 +238,7 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 <br>
 <b>Page 59:</b>
 
-[Ultrasound Money](http://ultrasound.money)  
+[Ultrasound Money](https://ultrasound.money)  
 
 <br>
 <b>Page 60:</b>
@@ -343,9 +346,9 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 
 [publishing the data](https://blog.thirdweb.com/data-availability-blockchain/)  
 
-[Solana](https://crypternon.com/en/solara/)  
+[Solana](https://web.archive.org/web/20250417215442/https://crypternon.com/en/solara/)  
 
-[Solana](https://blog.bcas.io/introduction-to-solana)  
+[Solana](https://web.archive.org/web/20241207084819/https://blog.bcas.io/introduction-to-solana)  
 
 [high-performance hardware](https://hackernoon.com/what-it-takes-to-run-a-solana-validator-hardware-bandwidth-and-budget)  
 
@@ -575,9 +578,9 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 
 [slow and expensive](https://www.netsuite.com/portal/resource/articles/inventory-management/international-logistics.shtml)  
 
-[borrow against their NFTs](https://cointelegraph.com/explained/what-is-nft-lending-and-how-does-it-work)  
+[borrow against their NFTs](https://tr.tradingview.com/news/cointelegraph%3A9d4ae997e094b%3A0-what-is-nft-lending-and-how-does-it-work)  
 
-[code a royalty](https://pontem.network/posts/nft-royalties-and-how-they-work)  
+[code a royalty](https://web.archive.org/web/20241111143641/https://pontem.network/posts/nft-royalties-and-how-they-work)  
 
 <br>
 <b>Page 146:</b>
@@ -680,9 +683,9 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 
 [Farcaster](https://www.farcaster.xyz/)  
 
-[breakout feature,](https://globalcoinresearch.com/research/exploring-farcaster-and-frames-the-composable-social-platform)  
+[breakout feature,](https://web.archive.org/web/20241013081723/https://globalcoinresearch.com/research/exploring-farcaster-and-frames-the-composable-social-platform)  
 
-[Frames](https://globalcoinresearch.com/research/exploring-farcaster-and-frames-the-composable-social-platform)  
+[Frames](https://web.archive.org/web/20241013081723/https://globalcoinresearch.com/research/exploring-farcaster-and-frames-the-composable-social-platform)  
 
 [Nostr](https://nostr.com/)  
 
@@ -702,7 +705,7 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 <br>
 <b>Page 161:</b>
 
-[Facebook-Cambridge Analytica](https://en.wikipedia.org/wiki/Facebook%25E2%2580%2593Cambridge_Analytica_data_scandal)  
+[Facebook-Cambridge Analytica](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal)  
 
 <br>
 <b>Page 163:</b>
@@ -720,7 +723,7 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 <br>
 <b>Page 164:</b>
 
-[Cambridge Analytica](https://en.wikipedia.org/wiki/Facebook%25E2%2580%2593Cambridge_Analytica_data_scandal)  
+[Cambridge Analytica](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal)  
 
 <br>
 <b>Page 166:</b>
@@ -734,7 +737,7 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 
 [IoTeX](https://iotex.io/)  
 
-[incentivize suppliers to build out the network](https://cointelegraph.com/explained/decentralized-physical-infrastructure-network-depin-explained)  
+[incentivize suppliers to build out the network](https://web.archive.org/web/20241128174227/https://cointelegraph.com/explained/decentralized-physical-infrastructure-network-depin-explained)  
 
 <br>
 <b>Page 171:</b>
@@ -814,7 +817,7 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 <br>
 <b>Page 191:</b>
 
-[venice.ai](http://venice.ai)  
+[venice.ai](https://venice.ai)  
 
 [Colony](https://parallel.life/colony/signup)  
 
@@ -842,7 +845,7 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 
 [distinctions](https://www.paypal.com/us/digital-wallet/manage-money/crypto/pyusd)  
 
-[fully programmable](https://developer.paypal.com/dev-center/pyusd/)  
+[fully programmable](https://web.archive.org/web/20250406042723/https://developer.paypal.com/dev-center/pyusd/)  
 
 [a company operating under the stringent financial laws of New York](https://www.paxos.com/pyusd-transparency)  
 
@@ -913,7 +916,7 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 <br>
 <b>Page 212:</b>
 
-[recap](https://blockapps.net/blog/the-timeline-of-usts-collapse-understanding-the-failures-and-implications-of-algorithmic-stablecoins/)  
+[recap](https://web.archive.org/web/20250408164914/https://blockapps.net/blog/the-timeline-of-usts-collapse-understanding-the-failures-and-implications-of-algorithmic-stablecoins/)  
 
 <br>
 <b>Page 213:</b>
@@ -950,13 +953,13 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 <br>
 <b>Page 219:</b>
 
-[swept away](https://pontem.network/posts/the-collapse-of-3ac-three-arrows-capital-all-you-need-to-know)  
+[swept away](https://web.archive.org/web/20241209014043/https://pontem.network/posts/the-collapse-of-3ac-three-arrows-capital-all-you-need-to-know)  
 
 [Zhu Su](https://twitter.com/zhusu)  
 
 [Kyle Davies](https://twitter.com/kyleldavies)  
 
-[Three Arrows Capital (3AC)](https://www.threearrowscap.com/about-us/)  
+[Three Arrows Capital (3AC)](https://web.archive.org/web/20220711133355/https://www.threearrowscap.com/about-us/)  
 
 <br>
 <b>Page 220:</b>
@@ -1251,7 +1254,7 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 
 [Larry Fink](https://trustwallet.com/blog/cryptocurrency/who-is-larry-fink-black-rock)  
 
-[dismissed](https://www.cnbc.com/2017/10/13/BlackRock-ceo-larry-fink-calls-bitcoin-an-index-of-money-laundering.html)  
+[dismissed](https://www.cnbc.com/id/104771986?view=story)  
 
 [announced](https://www.coindesk.com/business/2022/08/04/BlackRock-to-offer-crypto-for-institutional-investors-through-coinbase-prime/)  
 
@@ -1277,7 +1280,7 @@ Thank you for reading *Web3 Unlocked*. For your convenience, all links reference
 
 [the fund invests in low-risk assets](https://zerocap.com/insights/snippets/what-is-buidl-blackrock/)  
 
-[paid out directly](https://cointelegraph.com/explained/blackrocks-buidl-fund-explained-why-it-matters-for-crypto-and-tradfi)  
+[paid out directly](https://tr.tradingview.com/news/cointelegraph:1855fa700094b:0-blackrock-s-buidl-fund-explained-why-it-matters-for-crypto-and-tradfi)  
 
 [Anchorage](https://www.anchorage.com/)  
 

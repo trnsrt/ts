@@ -37,7 +37,7 @@ Son olarak, merkeziyetsiz DeFi platformu olarak 'müşterini tanı' yani KYC ilk
 
 ### Gelelim yeni versiyona
 
-Unsiwap'ın yeni versiyonu (ki buna v3 yani üçüncü versiyon deniyor) 2021'in Mayıs ayı başında [piyasaya sunulacak](https://uniswap.org/blog/uniswap-v3/). Ethereum blokzinciri üzerinde olacak bu yeni versiyonun  hemen arkasından Mayıs ortası gibi de Optimism denen ikinci seviye çözüm devreye girecek. 
+Unsiwap'ın yeni versiyonu (ki buna v3 yani üçüncü versiyon deniyor) 2021'in Mayıs ayı başında [piyasaya sunulacak](https://blog.uniswap.org/uniswap-v3). Ethereum blokzinciri üzerinde olacak bu yeni versiyonun  hemen arkasından Mayıs ortası gibi de Optimism denen ikinci seviye çözüm devreye girecek. 
 
 Üçüncü versiyonda temel olarak hissedilen, eskinin basit ve sadeliğinden uzaklaşan daha karmaşık bir yapının gelmekte olduğu. Bu değişim, farklı özellikler arayan al-sat işlemcileri ve büyük miktarda likidite sağlayanların işine gelecek ancak küçük hacimli likidite sağlayıcıların hayatları çok zorlaşacak. UNI token sahipleri de yeni özellikler sayesinde daha fazla gelir kazanma ihtimaline kavuşacaklar. Kısacası Uniswap,  DeFi dünyasını şu an oynadığı kum havuzundan daha büyük sahneye çıkarmak için uğraşıyor. Burada hemen  sonda yapacağımız yorumu da ekleyelim: eğer köklerini unutursa, oturduğu halının ayaklarının altından çekildiğini de görebilir her an.
 

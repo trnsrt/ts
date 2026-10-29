@@ -14,7 +14,7 @@ Geçtiğimiz yazılarda Blockchain bazlı dağıtık sistemlerin faydalı olabil
 
 ### Blockchain çevre için neden önemli?
 
-İçinde yaşadığımız dünyayı ciddi şekilde kirlettiğimizin ve kaynakları geri döndürülemez biçimde yok ettğimizin artık belgeli hale gelmesi, hükümetlerin sorunu çözmeye yönelik ortak çabalarına 1990'lardan beri giderek artan bir hız kazandırdı. Bu çabaların sonuçlarını ise yeni yeni görmeye de başlıyoruz. 
+İçinde yaşadığımız dünyayı ciddi şekilde kirlettiğimizin ve kaynakları geri döndürülemez biçimde yok ettiğimizin artık belgeli hale gelmesi, hükümetlerin sorunu çözmeye yönelik ortak çabalarına 1990'lardan beri giderek artan bir hız kazandırdı. Bu çabaların sonuçlarını ise yeni yeni görmeye de başlıyoruz. 
 
 Örneğin 90'lı yıllarda artan CFC (klorofluorokarbon) gazı nedeniyle yaklaşık %10 seviyesinde incelen ozon tabakası bu gazın kullanımına yönelik alınan tedbirler sonucu 2000 senesinden itibaren her on yılda %3 oranında kalınlık artışı göstermeye [başladı](https://news.un.org/en/story/2018/11/1024842). Harika haber. Yeterli mi? Hayır. Bu daha bir başlangıç ve üstelik şu anda Çin dahil kimi ülkelerin hala ürettikleri kimi kimyasallar ile ozon tabakası için bir tehdit olduğu [iddia ediliyor](https://www.bbc.com/news/newsbeat-46107843).
 
@@ -22,7 +22,7 @@ Geçtiğimiz yazılarda Blockchain bazlı dağıtık sistemlerin faydalı olabil
 
 90'ların başından beri yapılan müzakereler sonucu pek çok alanda hükümetler arası anlaşmalar yapıldı ve ülkelerin önüne özellikle çevre kirliliğini azaltma yolunda ödül/ceza sistemleri ve hedefler konuldu. Ölçümlemeler de uzun süredir yapılıyor. Bu ölçümler sonucu özellikle sera gazında önlenen hasarlar ile ilgili ödül kazanan firmalar bu ödüllerini çevreye zarar veren firmalara satarak çevre ile dost yatırımlarını daha karlı hale getiriyor. Yani yavaş yavaş çark dönmeye başladı.
 
-Ancak henüz daha yolun başındayız. Sistemin doğru işlemesi için daha yapılacak daha birçok iyileştirme var. Ve burada Blockchain bazlı teknolojiler bize yardımcı olabilir. Konuyu sadece mevcut sistemin iyileşmesi olarak düşünmemek lazım. Sıfırdan yepyeni sistemler de kurulabilir. Bu alanda alınabilecek o kadar o kadar aksiyon var ki. Örneğin World Economic Forum çevre alanında uygulanabilecek 65 farklı fikir/girişim içeren bir [rapor bile hazırladı](https://www.weforum.org/reports/building-block-chain-for-a-better-planet). (raporun pdf versiyonuna [buradan](http://www3.weforum.org/docs/WEF_Building-Blockchains.pdf) ulaşabilirsiniz). Yazımızın kalanında bu raporun içeriğine bakacağız. 
+Ancak henüz daha yolun başındayız. Sistemin doğru işlemesi için daha yapılacak daha birçok iyileştirme var. Ve burada Blockchain bazlı teknolojiler bize yardımcı olabilir. Konuyu sadece mevcut sistemin iyileşmesi olarak düşünmemek lazım. Sıfırdan yepyeni sistemler de kurulabilir. Bu alanda alınabilecek o kadar o kadar aksiyon var ki. Örneğin World Economic Forum çevre alanında uygulanabilecek 65 farklı fikir/girişim içeren bir [rapor bile hazırladı](https://www.weforum.org/reports/building-block-chain-for-a-better-planet). (raporun pdf versiyonuna [buradan](https://www3.weforum.org/docs/WEF_Building-Blockchains.pdf) ulaşabilirsiniz). Yazımızın kalanında bu raporun içeriğine bakacağız. 
 
 
 ### Blockchain nerede işe yarayabilir?

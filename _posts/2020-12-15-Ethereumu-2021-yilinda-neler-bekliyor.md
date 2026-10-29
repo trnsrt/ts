@@ -7,7 +7,7 @@ tags: Yazılar
 image: /assets/eth_total_fees_coinmetrics_1yr_800_v2.png
 ---
 
-2020 yılı Ethereum topluluğu için önemli bir yıl oldu. 2021 yılı ise farklı ve ilginç gelişmelere gebe. [Bir önceki yazımızda](/genel/2020/12/08/Ethereumun-para-politikas%C4%B1.html) Ethereum'un parası ETH'nin para arzının önümüzdeki yıllarda nasıl değişeceğini yazmıştık. Bu yazımızda ise gelin hep birlikte yakın vadede, yani önümüzdeki yıl için Ethereum topluluğunun en çok konuşacağı konulara değinelim.. 
+2020 yılı Ethereum topluluğu için önemli bir yıl oldu. 2021 yılı ise farklı ve ilginç gelişmelere gebe. [Bir önceki yazımızda](/genel/2020/12/08/Ethereumun-para-politikasi.html) Ethereum'un parası ETH'nin para arzının önümüzdeki yıllarda nasıl değişeceğini yazmıştık. Bu yazımızda ise gelin hep birlikte yakın vadede, yani önümüzdeki yıl için Ethereum topluluğunun en çok konuşacağı konulara değinelim.. 
 
 ### Ethereum'un çıkma nedeni
 
@@ -61,7 +61,7 @@ Kullanıcılar için harika ancak madencilerin çok hoşuna gitmeyecek bir çöz
 |:--:| 
 | *2020 yılı ETH işlemlerinden madencilerin günlük kazançları. Kaynak: [Coinmetrics](https://network-charts.coinmetrics.io)*|
 
-EIP 1559'un 2021 yılı içinde geçerlik kazanıp kazanmayacağı belirsiz. Kullanıcı tarafında bir talep olduğu kesin. Alternatif Ethereum rakiplerinin maliyetlerinin çok düşük olduğunu düşündüğümüzde, 2020 yazı ile birlikte yakaladığı büyük avantajı kaçırmak istemeyecektir platform geliştiricileri. Bu nedenle [kendi içlerinde EIP 1559'u hızlandıracak bir ekip kurup maddi bir yatırım bile yaptılar](https://gitcoin.co/grants/946/eip-1559-community-fund). Madenciler ne kadar ayak direyebilir? Çok olası görünmüyor. 
+EIP 1559'un 2021 yılı içinde geçerlik kazanıp kazanmayacağı belirsiz. Kullanıcı tarafında bir talep olduğu kesin. Alternatif Ethereum rakiplerinin maliyetlerinin çok düşük olduğunu düşündüğümüzde, 2020 yazı ile birlikte yakaladığı büyük avantajı kaçırmak istemeyecektir platform geliştiricileri. Bu nedenle [kendi içlerinde EIP 1559'u hızlandıracak bir ekip kurup maddi bir yatırım bile yaptılar](https://web.archive.org/web/20210109101315/https://gitcoin.co/grants/946/eip-1559-community-fund). Madenciler ne kadar ayak direyebilir? Çok olası görünmüyor. 
 
 Bu arada EIP 1559'un hem şu anki Ethereum hem de ETH 2.0 için geliştirildiğini belirtelim. Bu nedenle, ETH 2.0'a geçiş sürecinde yaşanabilecek aksama ya da gecikmelerin EIP 1559'u çok da etkilemeyeceğini belirtmek gerek. 
 

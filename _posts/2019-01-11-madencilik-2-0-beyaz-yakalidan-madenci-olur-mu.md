@@ -68,9 +68,9 @@ Kurumsal yatırımcılar, yeni teknolojiler karşılığında klasik anlamda iş
 
 | ![miners.gif](/assets/miners.gif) | 
 |:--:| 
-| *[Giphy](https://giphy.com/gifs/movie-black-and-white-vintage-l49JCCwJ2zlJUQF1u)*|
+| *[Giphy](https://web.archive.org/web/20210623003325/https://giphy.com/gifs/movie-black-and-white-vintage-l49JCCwJ2zlJUQF1u)*|
 
-Örneğin yukarıda bahsettiğimiz madencilik işi öyle basitce anlaşılacak gibi değil. Daha doğrusu işi layıkı ile yapmak istediğinizde ciddi bir teknik donanıma ihtiyacınız var. Kullanacağınız makinalar için yğklü bir yatırım yapacaksınız, sonra enerji harcayacaksınız? Sonra yatırımı nereye yapacaksınız, maliyetler nerede düşük?
+Örneğin yukarıda bahsettiğimiz madencilik işi öyle basitce anlaşılacak gibi değil. Daha doğrusu işi layıkı ile yapmak istediğinizde ciddi bir teknik donanıma ihtiyacınız var. Kullanacağınız makinalar için yüklü bir yatırım yapacaksınız, sonra enerji harcayacaksınız? Sonra yatırımı nereye yapacaksınız, maliyetler nerede düşük?
 
 Ayrıca her Blockchain kendi özelinde farklılık gösteriyor, madencilik olarak da öyle. Gerekli altyapı farklı, enerji ihtiyaçları farklı. 
 
@@ -90,7 +90,7 @@ Pek çok kurumsal yatırımcı ve girişim sermayesi konuya uzun vadeli bakmaya 
 
 *Not 1: Aslında girişim sermayesi gibi bu alana yatırım yapan Kripto Fonları da bu kapsamda düşünebiliriz. Zira, özellikle açık (public) Blockhchain yapılarında (Bitcoin gibi) kimi zaman yatırım yapılacak bir girişimci grubu yok ya da başlangıçta yapılan ICO'ya girmeyen fonlar sonradan ekosistemin içinde dolaşan KriptoParalar'a yatırım yapıyorlar. Bu KriptoFonlar içinde sadece kısa vadeli alıp satmak dışında bu ekosisteme uzun vadeli olarak yatırım yapanları için de oyunun kuralları girişim sermayelerine benzer şekilde değişiyor.*
 
-*Not 2: Konu ile ilgili daha detaylı bilgi için Medium'daki "[Blockchain mining 2.0](https://medium.com/notation-capital/notation-blockchain-mining-2-0-dcf46a28f7eb) ve TokenDaily'nin ["Premier on mining 2.0"](https://www.tokendaily.co/blog/a-primer-on-mining-2-0) yazısına göz atabilirsiniz.*  
+*Not 2: Konu ile ilgili daha detaylı bilgi için Medium'daki "[Blockchain mining 2.0](https://medium.com/notation-capital/notation-blockchain-mining-2-0-dcf46a28f7eb) ve TokenDaily'nin ["Premier on mining 2.0"](https://web.archive.org/web/20190108025234/https://www.tokendaily.co/blog/a-primer-on-mining-2-0) yazısına göz atabilirsiniz.*  
 
 ---
 &nbsp;

@@ -78,7 +78,7 @@ Tekrar edelim, bu dünya henüz emekleme dönemini yaşıyor. Bu dünyanın şim
 
 [^2]: Basitleştirmek için bireylerin diyoruz ama bir araya gelen oyuncular başka topluluklar (başka DAO'lar) hatta şirketler ya da finans kurumları olabilir. Örneğin MakerDAO forumlarına başvuru yapan Societe General ile ilgili yazımıza [şuradan](/genel/2021/10/21/defi-ile-klasik-finansin-yakinlasmalari.html) ulaşabilirsiniz.
 
-*Not 1: Bu yazı ilk olarak 17 Ekim 2022'de [Coindesk Türkiye](https://www.coindeskturkiye.com/))'de [yayınlandı](https://www.coindeskturkiye.com/yazarlar/turan-sert/merkeziyetsiz-dunyanin-one-cikan-aktorleri-kimler-2351)*
+*Not 1: Bu yazı ilk olarak 17 Ekim 2022'de [Coindesk Türkiye](https://www.coindeskturkiye.com/))'de [yayınlandı](https://web.archive.org/web/20221017114353/https://www.coindeskturkiye.com/yazarlar/turan-sert/merkeziyetsiz-dunyanin-one-cikan-aktorleri-kimler-2351)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 

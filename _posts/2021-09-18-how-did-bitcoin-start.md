@@ -5,6 +5,7 @@ date:   2021-09-18 17:47:56 +0300
 categories: Genel
 tags: Yazılar, Articles
 image: /assets/money-230265_800.jpg
+lang: en
 ---
 
 In our previous posts we looked at the philosophy behind Bitcoin. In this post, we will look at one historical milestone in Bitcoin's history, that led to the cryptocurrency to become a mainstream attraction. 

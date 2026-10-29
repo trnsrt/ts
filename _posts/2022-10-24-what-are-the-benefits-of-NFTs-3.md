@@ -5,13 +5,14 @@ date:   2022-10-24 22:47:56 +0300
 categories: Genel
 tags: Yazılar, NFT, Articles
 image: /assets/steps-3878604_800.jpg
+lang: en
 ---
 
 We continue to look that various ways that an NFT would add value to an object. 
 
-In our mini series [first we looked at]((/genel/2022/08/19/what-are-the-benefits-of-NFTs.html)) the concept of value and what constitutes 'value' in a typical art object. In [following post](/genel/2022/09/25/what-are-the-benefits-of-NFTs-II.html), we continue with exploring how NFT would add value to such an object.👇
+In our mini series [first we looked at](/genel/2022/08/19/what-are-the-benefits-of-NFTs.html) the concept of value and what constitutes 'value' in a typical art object. In [following post](/genel/2022/09/25/what-are-the-benefits-of-NFTs-II.html), we continue with exploring how NFT would add value to such an object.👇
 
-<a href="/genel/2022/10/24/what-are-the-benefits-of-NFTs-2.html">
+<a href="/genel/2022/09/25/what-are-the-benefits-of-NFTs-II.html">
          <img alt="Tweet" src="/assets/benefits-of-ntfs-2_640.png"></a>
 
 We continue from last post on looking at benefits an NFT would bring. We will dive into traceability and fragmentation, two important attributes that NFT has brought to table. 
@@ -39,7 +40,7 @@ Needless to say, this feature would increase the potential salability of an art 
 ### To be continued... 
 We will continue to explore the benefits of NFT in our future posts... 
 
-<a href="/genel/2022/10/24/what-are-the-benefits-of-NFTs-4.html">
+<a href="/genel/2022/11/21/benefits-of-nfts-IV.html">
          <img alt="Tweet" src="/assets/benefits-of-ntfs-4_640.png"></a>
 
 

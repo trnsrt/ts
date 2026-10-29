@@ -35,7 +35,7 @@ Sonrasında müzik susunca, dans pistinde en hareketli oyuncu olan Three Arrows 
 
 #### Three Arrows Capital - 3AC
 
-2012 yılında [Zhu Su](https://twitter.com/zhusu) ve [Kyle Davies](https://twitter.com/kyleldavies) adında iki trader [tarafından Singapur'da](https://en.wikipedia.org/wiki/Three_Arrows_Capital)  kurulan [Three Arrows Capital](https://www.threearrowscap.com/about-us/) (kısa adıyla 3AC) esas olarak bir arbitraj fonu. Ne demek arbitraj fonu? Benzer ürünlerin farklı piyasalar arasındaki fiyat farklılıklarından doğan fırsatları değerlendiren bir fon. İşlem yaptıkları  benzer karaktere sahip enstrümanları bir piyasada alıp (ya da borç alıp) diğer tarafta satan (ya da borç veren) böylece riski minimuma indirerek kazanç sağlayan yapılar. 
+2012 yılında [Zhu Su](https://twitter.com/zhusu) ve [Kyle Davies](https://twitter.com/kyleldavies) adında iki trader [tarafından Singapur'da](https://en.wikipedia.org/wiki/Three_Arrows_Capital)  kurulan [Three Arrows Capital](https://web.archive.org/web/20220711133355/https://www.threearrowscap.com/about-us/) (kısa adıyla 3AC) esas olarak bir arbitraj fonu. Ne demek arbitraj fonu? Benzer ürünlerin farklı piyasalar arasındaki fiyat farklılıklarından doğan fırsatları değerlendiren bir fon. İşlem yaptıkları  benzer karaktere sahip enstrümanları bir piyasada alıp (ya da borç alıp) diğer tarafta satan (ya da borç veren) böylece riski minimuma indirerek kazanç sağlayan yapılar. 
 
 3AC'nin bu tip piyasa farklılıklarından yararlanarak işlem yaptığı üç temel ürün var (başka pek çok yatırımı dışında). Bunlar BTC/GBTC, ETH/stETH ve USD/UST idi.  (En sondaki dipnot'ta bu üç ürünün neler olduğu konusunda detaylı bilgiyi bulabilirsiniz). 
 
@@ -47,7 +47,7 @@ Birincisi USDT(C) gibi paraları borç alıp UST'ye yatırma stratejisinin, her 
 
 Yukarıda yaşananların dışında 3AC'nin elindeki GBTC'leri farklı kurumlara teminat göstererek kredi aldığı şeklinde iddialar var ki, doğru ise dolandırıcılık olarak adlandırılabilecek bu durumu 3AC'nin kurulu olduğu Singapur otoritelerinin incelemeye aldığını da belirtelim. 
 
-Gelinen son noktada, 3AC, British Virgin Islands'da mahkemelere başvurup [iflasını isteyerek](https://www.coindeskturkiye.com/sirketler/three-arrows-capital-new-yorkta-iflas-basvurusunda-bulundu-939) beyaz bayrağı çekmiş durumda. En son bu hafta Pazartesi günü açıklanan belgelere göre toplam 30 merkezi şirket 3.5 milyar ABD Doları tutarında bir alacağı için iflas sürecini yöneten aracıya [başvuruda bulundu](https://www.theblock.co/post/158169/three-arrows-capital-3ac-creditors-list-3-5-billion-crypto-affidavits). Detaylar yavaş yavaş ortaya dökülmeye devam edecek. 
+Gelinen son noktada, 3AC, British Virgin Islands'da mahkemelere başvurup [iflasını isteyerek](https://web.archive.org/web/20220930165742/https://www.coindeskturkiye.com/sirketler/three-arrows-capital-new-yorkta-iflas-basvurusunda-bulundu-939) beyaz bayrağı çekmiş durumda. En son bu hafta Pazartesi günü açıklanan belgelere göre toplam 30 merkezi şirket 3.5 milyar ABD Doları tutarında bir alacağı için iflas sürecini yöneten aracıya [başvuruda bulundu](https://www.theblock.co/post/158169/three-arrows-capital-3ac-creditors-list-3-5-billion-crypto-affidavits). Detaylar yavaş yavaş ortaya dökülmeye devam edecek. 
 
 
 ### Arkası yarın 
@@ -64,7 +64,7 @@ Not:
 
 ---
 
-*Not 1: Bu yazı ilk olarak 22 Temmuz 2022'de [Coindesk Türkiye](https://www.coindeskturkiye.com/))'de [yayınlandı](https://www.coindeskturkiye.com/yazarlar/turan-sert/finansin-domino-taslari-1-son-krizde-neler-yasandi-1217)*
+*Not 1: Bu yazı ilk olarak 22 Temmuz 2022'de [Coindesk Türkiye](https://www.coindeskturkiye.com/))'de [yayınlandı](https://web.archive.org/web/20220722102957/https://www.coindeskturkiye.com/yazarlar/turan-sert/finansin-domino-taslari-1-son-krizde-neler-yasandi-1217)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 

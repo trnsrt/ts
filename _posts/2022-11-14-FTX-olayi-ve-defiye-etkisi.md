@@ -12,7 +12,7 @@ Bu yazımızda sonu FTX'in iflası ile biten geçen hafta yaşanan olaylardan ve
 ### Sağır sultanın bile duyduklarını hatırlayalım önce
 Öncelikle neler olduğunu basında yer aldığı şekliyle hatırlayalım:
 
-Olaylar zinciri, Coindesk'in 2 Kasım tarihinde FTX (borsa) ve Alameda Research (kardeş kuruluş olan alım-satım firması) arasındaki girift ilişkileri [haber yapmasıyla](https://www.coindeskturkiye.com/sirketler/sam-bankman-friedin-iki-sirketi-ayni-bilancoda-bulusuyor-2581) başladı.
+Olaylar zinciri, Coindesk'in 2 Kasım tarihinde FTX (borsa) ve Alameda Research (kardeş kuruluş olan alım-satım firması) arasındaki girift ilişkileri [haber yapmasıyla](https://web.archive.org/web/20221103115349/https://www.coindeskturkiye.com/sirketler/sam-bankman-friedin-iki-sirketi-ayni-bilancoda-bulusuyor-2581) başladı.
 
 Haber bir-iki kişiyi huylandırsa da başlangıçta finans çevrelerinde çok büyük bir yankı getirmedi. Ne de olsa, FTX'in sahibi olan Sam Bankman Fried ([SBF](https://twitter.com/SBF_FTX)), başkanlık yarışındaki adaylara hatırı sayılır bağışlar yapmış, uzun süredir DC'de lobi faaliyetlerinde bulunan kıvırcık saçlı dahi bir çocuk idi. Regülatörler ile bu kadar sıkı-fıkı olan ve tüm sektöre düzenlemelerin nasıl olması gerektiği konusunda akıl satan biri elbette kendi evini de düzenli tutardı; haber muhtemelen çok da kritik görülmemişti. 
 
@@ -98,13 +98,13 @@ Notlar:
 Yazı dışında görsel olarak ilgi duyarsanız, konuya ilişkin hazırladığımız DeFine programına da göz atabilirsiniz. 
 
 <table>
-<td style="width:33%"><iframe width="224" height="126" src="https://www.youtube.com/embed/Ra4x4IF5UAA" frameborder="0" allowfullscreen></iframe>
+<td style="width:33%"><iframe loading="lazy" title="FTX Borsası Battı! | Bundan Sonra Ne Olacak? | DeFine" width="224" height="126" src="https://www.youtube-nocookie.com/embed/Ra4x4IF5UAA" frameborder="0" allowfullscreen></iframe>
 </td>
 </table>
 
 ---
 
-*Not 1: Bu yazı ilk olarak 17 Ekim 2022'de [Coindesk Türkiye](https://www.coindeskturkiye.com/)'de [yayınlandı](https://www.coindeskturkiye.com/yazarlar/turan-sert/ftx-olayi-ve-defiye-etkisi-2696)*
+*Not 1: Bu yazı ilk olarak 17 Ekim 2022'de [Coindesk Türkiye](https://www.coindeskturkiye.com/)'de [yayınlandı](https://web.archive.org/web/20221114202143/https://www.coindeskturkiye.com/yazarlar/turan-sert/ftx-olayi-ve-defiye-etkisi-2696)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 

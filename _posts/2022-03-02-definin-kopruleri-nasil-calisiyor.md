@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DeFi'de Köprülere Neden İhtiyaç Var?"
+title:  "DeFi'nin Köprüleri Nasıl Çalışıyor?"
 date:   2022-03-02 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
@@ -34,7 +34,7 @@ Bu köprülerin ilk çıkanlarından bir tanesi, ***Bitcoin blokzincirinden Ethe
 
 Popüler köprülerden bir diğeri, ***iki blokzincir arasında değer transferi için blokzincirin kendisi tarafından kurulan köprüler.*** Genelde bu tip çözümler Ethereum ile alternatif ağ üzerinde oluşturuluyor. Ethereum Avalanche arasında kurulan [Avalanche Bridge](https://bridge.avax.network/) bu örneklerinden bir tanesi. 
 
-Bir diğer köprü çeşidi ise, ***herhangi bir uygulama tarafından o uygulamaya özel çıkarılan köprüler.*** Bu köprüler, kullancılara kendi uygulamaları üzerinden birden fazla blokzincir üzerinde değer transferi sağlayabiliyor. Bunun en bilinen örneği ise DeFi üzerindeki en büyük kredi verme protokolü olan Compound tarafından geliştirilen [Gateway](https://compound.cash/). Bunun bir benzerini Aave, yakın zamanda çıkaracağı [3. versiyonunun içinde bulunan Portals](https://docs.aave.com/developers/getting-started/v3-overview) özelliği ile kullanıcılara sunuyor.  Bu tip köprüler, dijital varlıkları daha verimli kullanmak açısından faydalı (örneğin bir ağda bir varlığı teminat verip diğer ağda kredi almak), ancak sadece o uygulama içinde kullanım sağlamalarından dolayı işlevleri oldukça kısıtlı. 
+Bir diğer köprü çeşidi ise, ***herhangi bir uygulama tarafından o uygulamaya özel çıkarılan köprüler.*** Bu köprüler, kullancılara kendi uygulamaları üzerinden birden fazla blokzincir üzerinde değer transferi sağlayabiliyor. Bunun en bilinen örneği ise DeFi üzerindeki en büyük kredi verme protokolü olan Compound tarafından geliştirilen [Gateway](https://compound.cash/). Bunun bir benzerini Aave, yakın zamanda çıkaracağı [3. versiyonunun içinde bulunan Portals](https://web.archive.org/web/20220320045650/https://docs.aave.com/developers/getting-started/v3-overview) özelliği ile kullanıcılara sunuyor.  Bu tip köprüler, dijital varlıkları daha verimli kullanmak açısından faydalı (örneğin bir ağda bir varlığı teminat verip diğer ağda kredi almak), ancak sadece o uygulama içinde kullanım sağlamalarından dolayı işlevleri oldukça kısıtlı. 
 
 Son olarak, ***birden fazla blokzincir arasında birden fazla tokenin transfer edilebilmesini sağlayan, genel kullanım maksatlı köprüler*** de bulunmakta. Bu tip köprülerin kullanımlarının gün geçtikçe arttığını görüyoruz. Tek bir adres üzerinden farklı zincirlere ulaşım büyük kolaylık olsa da, bu tip köprülerin kullanıcı açısından en büyük sıkıntısı yeterli likiditeye sahip olmamaları. Genel olarak en büyük likidite stabil paralarda oluyor ve kullanıcılar USDT, USDC gibi paraları bir ağdan diğerine geçirmek için bu köprüleri kullanıyorlar. 
 

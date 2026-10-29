@@ -23,7 +23,7 @@ Güvenli yöntem ne peki? Herhangi bir yöntemi %100 güvenli olarak adlandırma
 
 | ![security](/assets/cyber-g3b297423d_800.jpg)|
 |:--:| 
-| *Image by [Free stock photos from www.rupixen.com](Image by <a href="https://pixabay.com/users/rupixen-11154019/) from [Pixabay](https://pixabay.com/)*|
+| *Image by [Free stock photos from www.rupixen.com](https://pixabay.com/users/rupixen-11154019/) from [Pixabay](https://pixabay.com/)*|
 
 Yukarıda bahsettiğimiz örnek en temel güvenlik sorunu ancak konu maalesef bununla bitmiyor. Kullanıcının DeFi ürünlerini kullanırken de çok dikkatli olmasında fayda var. Birkaç örnek verelim: 
 

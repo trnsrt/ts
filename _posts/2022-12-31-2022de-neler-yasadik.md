@@ -62,7 +62,7 @@ Web3 dünyası son bir yılda özellikle yatırımcı tarafında sendelemesine r
 
 ---
 
-*Not 1: Bu yazı ilk olarak 31 Aralık 2022'de [Coindesk Türkiye](https://www.coindeskturkiye.com/)'de [yayınlandı](https://www.coindeskturkiye.com/yazarlar/turan-sert/2022ye-veda-ederken-3185)*
+*Not 1: Bu yazı ilk olarak 31 Aralık 2022'de [Coindesk Türkiye](https://www.coindeskturkiye.com/)'de [yayınlandı](https://web.archive.org/web/20230101094914/https://www.coindeskturkiye.com/yazarlar/turan-sert/2022ye-veda-ederken-3185)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 

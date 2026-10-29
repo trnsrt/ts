@@ -12,7 +12,7 @@ Eskiden beri takip ettiğim bir merkeziyetsiz platform olan The Graph Protocol b
 
 &nbsp;
 
-<img src="/assets/GRTiQ-Podcast__Turan-Sert_800.jpg">
+<img alt="GRTiQ Podcast bölüm 208 kapağı, Turan Sert" src="/assets/GRTiQ-Podcast__Turan-Sert_800.jpg">
 
 &nbsp;
 
@@ -22,10 +22,10 @@ Genel olarak Türk ekosistemi, merkeziyetsiz dünyaya yolculuğum ve son kitabı
 
 
 <table><tr><td style="width:40%">
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5QbmflKjKmrIKIIgpwPLdF?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe title="GRTIQ podcast bölümü: Turan Sert (Spotify)" style="border-radius:12px" src="https://open.spotify.com/embed/episode/5QbmflKjKmrIKIIgpwPLdF?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </td>
 <td style="width:60%">
-<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/turan-sert/id1559587482?i=1000692350521"></iframe>
+<iframe loading="lazy" title="GRTIQ podcast bölümü: Turan Sert (Apple Podcasts)" allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/turan-sert/id1559587482?i=1000692350521"></iframe>
 </td></tr>
 <tr><td style="width:40%; vertical-align:top">
 <p>

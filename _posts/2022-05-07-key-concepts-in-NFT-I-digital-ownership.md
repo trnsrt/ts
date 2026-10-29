@@ -5,6 +5,7 @@ date:   2022-05-07 17:47:56 +0300
 categories: Genel
 tags: Yazılar, NFT, Articles
 image: /assets/mona_lisa-1053852_800.jpg
+lang: en
 ---
 
 In our mini-series we will explore key concepts of NFTs, which will hopefully help us better understand the fundamentals of NFTs. 

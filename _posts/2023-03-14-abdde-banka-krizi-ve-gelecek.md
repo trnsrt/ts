@@ -30,7 +30,7 @@ Müşteriler paralarını neden çeksin? Üç temel nedeni olabilir. Birincisi, 
 
 | ![losses](/assets/banka_menkul-kiymet-zarar_800.jpg)|
 |:--:| 
-| *Bankaların ellerinde tuttukları hazine bonolarından doğan zararları Kaynak: [FDIC]())*|
+| *Bankaların ellerinde tuttukları hazine bonolarından doğan zararları Kaynak: [FDIC](https://www.fdic.gov/news/speeches/2023/spfeb2823.html))*|
 
 FED'in faiz artırmasının ikinci etkisi ise müşteri tarafında oldu. Müşteriler artan faizler nedeniyle paralarını bankalardan çekip alternatif yatırım araçlarına yani bonolara ve para piyasası enstrümanlarına kaydırmaya başladılar. Banka elindeki likidite hızla azalmaya başlayınca müşteriye parasını vermek için ne yapacak? Elinde duran değeri düşmüş (ama muhasebede satın aldığı değerden duran) bonoları satmaya başlayacak. Bunun sonucu ne? Ciddi bir zarar yazması. 
 
@@ -75,7 +75,7 @@ ABD'nin dünyada en ileri güç olmasının temel lokomotiflerinden birisi inova
 
 ---
 
-*Not 1: Bu yazı ilk olarak 14 Mart 2023'de [Coindesk Türkiye'de yayınlandı](https://www.coindeskturkiye.com/yazarlar/turan-sert/abddeki-banka-krizi-ve-gelecek-3851)*
+*Not 1: Bu yazı ilk olarak 14 Mart 2023'de [Coindesk Türkiye'de yayınlandı](https://web.archive.org/web/20230320153201/https://www.coindeskturkiye.com/yazarlar/turan-sert/abddeki-banka-krizi-ve-gelecek-3851)*
 
 *Not 2: Tüm yazılara [Yazılar](/articles/) sekmesinden ulaşabilirsiniz*
 

@@ -10,7 +10,7 @@ Blockchain'in finans alanındaki uygulamalarına DeFi (decentralized finance - m
 - Merkeziyetsiz Finans (DeFi) hareketini yakından tanımak için
   - [Blockchain finans dünyasını nasıl etkileyecek?](/genel/2019/02/14/Blockchain-finans-dunyasini-nasil-etkileyecek.html) *(14 Şubat 2019)*
   - [DeFi neden önemli?](/genel/2020/06/11/DeFi-neden-onemli.html) *(11 Haziran 2020)*
-  - [Bitcoin ile DeFi benzer mi?](/genel/2020/06/25/Bitcoin-ile-DeFi-benzer-mi.html) *(25 Haziran 2020)*
+  - [Bitcoin ile DeFi benzer mi?](/genel/2020/07/07/Bitcoin-ile-DeFi-benzer-mi.html) *(25 Haziran 2020)*
   - [DeFi bir oyuncak mı?](/genel/2020/09/03/defi_bir_oyuncak_mi.html) *(3 Eylül 2020)*
   - [DeFi çok mu hızlı gidiyor?](/genel/2020/09/08/defi-cok-mu-hizli-gidiyor.html) *(8 Eylül 2020)*
   - [DeFi yeni ICO çılgınlığı mı?](/genel/2020/07/23/DeFi-yeni-ICO-cilginligi-mi.html) *(23 Temmuz 2020)*
@@ -23,17 +23,17 @@ Blockchain'in finans alanındaki uygulamalarına DeFi (decentralized finance - m
   - ABD bankacılık krizinin DeFi ekosistemine yansımaları. [Son bankacılık olayları DeFi'yi nasıl etkiledi?](/genel/2023/03/23/bankacilik-krizi-ve-defi.html) *(23 Mart 2023)*
   - Electric Capital 2022 geliştirici raporunun kapsamlı analizi. [Web3 dünyasında büyümenin habercisi geliştiriciler - Uzun versiyon](/genel/2023/03/27/web3-gelistiriciler-uzun.html) *(27 Mart 2023)*
   - Lemonade ile Web3'ün iklim sigortasında kullanım örneği. [Web3'ü insanlık için kullanmak](/genel/2023/03/31/web3u-insanlik-icin-kullanmak.html) *(31 Mart 2023)*
-  - PayPal'ın Ethereum üzerinde çıkardığı PYUSD stabil parası. [PayPal'ın son kripto hamlesi: PYUSD](/genel/2023/08/23/paypal-kripto-hamlesi-pyusd.html) *(23 Ağustos 2023)*
+  - PayPal'ın Ethereum üzerinde çıkardığı PYUSD stabil parası. [PayPal'ın son kripto hamlesi: PYUSD](/genel/2023/08/24/paypal-kripto-hamlesi-pyusd.html) *(23 Ağustos 2023)*
   - Devconnect Kasım 2023'te İstanbul'da; Türkler için ETHGünü. [Kasım ayında Ethereum ekosisteminin kalbi İstanbul'da atacak](/genel/2023/10/16/kasim-ayinda-ekosistemin-kalbi-istanbulda-atacak.html) *(16 Ekim 2023)*
   - Electric Capital 2023 geliştirici raporunun temel bulguları. [Geliştirici dünyasında son durum - 2023 baskısı](/genel/2024/02/17/gelistirici-dunyasinda-son-durum-2023.html) *(17 Şubat 2024)*
   - BlackRock Ethereum üzerinde tokenleştirilmiş fon çıkardı. [BlackRock'ın kripto sevdası](/genel/2024/03/27/blackrock-sevdasi.html) *(27 Mart 2024)*
 - Farklı DeFi ürünlerinin nasıl çalıştığını görmek için
   - [MakerDAO kredi kullanımında çığır açar mı?](/genel/2019/02/15/MakerDAO-kredi-kullaniminda-cigir-acar-mi.html) *(15 Şubat 2019)*
-  - [Merkeziyetsiz Finans ve MakerDAO — bir yılda neler değişti?](/genel/2020/03/17/Merkeziyetsiz-Finans-ve-Maker-DAO-Bir-yilda-neler-degisti.html) *(17 Mart 2020)*
+  - [Merkeziyetsiz Finans ve MakerDAO — bir yılda neler değişti?](/genel/2020/05/19/Merkeziyetsiz-Finans-ve-Maker-DAO-Bir-yilda-neler-degisti.html) *(17 Mart 2020)*
   - [ETH görünümlü BTC olur mu?](/genel/2020/07/09/eth-gorunumlu-btc-olur-mu.html) *(9 Temmuz 2020)*
   - [Klasik bankacılığın rakibi Compound](/genel/2020/06/18/klasik-bankaciligin-rakibi-compound.html) *(18 Haziran 2020)*
   - [Compound yönetim tokeni COMP nasıl çalışıyor?](/genel/2020/06/25/Compoundun-yonetim-tokeni-COMP-nasil-calisiyor.html) *(25 Haziran 2020)*
-  - [Aragon ile DeFi'da yönetim](http/genel/2020/07/18/aragon-ile-defida-yonetim.html) *(18 Temmuz 2020)*
+  - [Aragon ile DeFi'da yönetim](/genel/2020/07/18/aragon-ile-defida-yonetim.html) *(18 Temmuz 2020)*
   - [DeFi türev piyasaları nasıl oluyor?](/genel/2020/08/20/defi-turev-piyasalari-nasil-oluyor.html) *(20 Ağustso 2020)*
   - [DeFi türev piyasası Synthetix nasıl çalışıyor?](/genel/2020/08/28/Defi-turev-piyasasi-synthetix-nasil-calisiyor.html) *(28 Ağustos 2020)*
   - [Nedir bu Uniswap?](/genel/2020/09/15/nedir-bu-uniswap.html) *(15 Eylül 2020)*
@@ -46,7 +46,7 @@ Blockchain'in finans alanındaki uygulamalarına DeFi (decentralized finance - m
   - [DeFi'de merkeziyetsiz portföy yönetimi platformu Yearn](/genel/2020/11/10/Defida-merkeziyetsiz-yonetim-platform-yearn-finance.html) *(10 Kasım 2020)* ve [Merkeziyetsiz portföy yönetimi Yearn'a devam](/genel/2020/11/17/merkeziyetsiz-portfoy-yonetimi-yearn-protokolune-devam.html) *(17 Kasım 2020)*
   - [DeFi'nin bilgi kaynağı oracle](/genel/2020/12/22/definin-bilgi-kaynagi-oracle.html) *(22 Aralık 2020)*
   - [Oracle dünyasının lideri Chainlink](/genel/2020/12/29/oraclein-lideri-chainlink.html) *(29 Aralık 2020)*
-  - [DeFi'da opsiyon piyasaları](/genel/2021/01/05/defi-opsiyon-piyasalar%C4%B1.html) *(15 Ocak 2021)*
+  - [DeFi'da opsiyon piyasaları](/genel/2021/01/05/defi-opsiyon-piyasalari.html) *(15 Ocak 2021)*
   - [DeFi opsiyon piyasalarının lideri Hegic](/genel/2021/01/26/defi-opsiyon-piyasalarinin-lideri-hegic.html) *(26 Ocak 2021)*
   - [DeFi dünyasının merkeziyetsiz analiz sağlayıcısı: The Graph Protokol](/genel/2021/03/19/defi-dunyasinin-merkeziyetsiz-analiz-saglayicisi-the-graph.html) *(19 Mart 2021)* ve devam [yazısı](/genel/2021/03/20/the-graph-sistemine-teknik-bir-bakis.html) *(20 Mart 2021)*
   - Wormhole hack'inde çalınan para mahkeme kararıyla geri alındı. [DeFi'de yaşanan bir 'ava giden avlanır' hikayesi](/genel/2023/03/07/defide-ava-giden-avlandi-hikayesi.html) *(7 Mart 2023)*
@@ -66,7 +66,7 @@ Blockchain'in finans alanındaki uygulamalarına DeFi (decentralized finance - m
   - Bitcoin'in dördüncü yarılanması ve Runes token standardı. [Bitcoin yarılandı, sırada ne var? Runes Protocol](/genel/2024/04/22/bitcoin-yarilandi-sirada-ne-var-runes.html) *(22 Nisan 2024)*
   - ETH teminatlı delta-nötr stabil para Ethena ve USDe. [Stabil paralar içinde yeni bir oyuncu (mu?): Ethena](/genel/2024/05/21/stabil-paralar-icinde-yeni-bir-oyuncu-ethena.html) *(21 Mayıs 2024)*
   - Ethena'nın yüksek getirilerinin ardındaki riskler ve güvenceler. [Ethena: Riskleri ve potansiyeli](/genel/2024/05/30/ethena-riskleri-ve-potansiyeli.html) *(30 Mayıs 2024)*
-  - Bitcoin'i ölçeklendirmek isteyenler ve taleplerin ardındaki aktörler (1. bölüm). [Bitcoin üzerine ikinci seviye çözümler - I](/genel/2024/06/24/bitcoin-uzerine-cozumler-1.html) *(24 Haziran 2024)*
+  - Bitcoin'i ölçeklendirmek isteyenler ve taleplerin ardındaki aktörler (1. bölüm). [Bitcoin üzerine ikinci seviye çözümler - I](/genel/2024/06/25/bitcoin-uzerine-cozumler-1.html) *(24 Haziran 2024)*
   - Bitcoin L2 tarihçesi; Lightning'den güncel çözümlere (2. bölüm). [Bitcoin üzerine ikinci seviye çözümler - II](/genel/2024/07/05/bitcoin-uzerine-cozumler-II.html) *(5 Temmuz 2024)*
 - DeFi dünyasına adım atmak istiyorsanız
   - [Dei dünyasına girmek için ilk atılacak adımlar neler?](/genel/2021/01/12/defi-dunyasina-girmek-icin-ilk-atilacak-adimlar-neler.html) *(12 Ocak 2021)*

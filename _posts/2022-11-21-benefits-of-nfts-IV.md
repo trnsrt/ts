@@ -5,11 +5,12 @@ date:   2022-11-21 10:47:56 +0300
 categories: Genel
 tags: Yazılar, NFT, Articles
 image: /assets/photos-315170_800.jpg
+lang: en
 ---
 
 We continue to look that various ways that an NFT would add value to an object with two important issues: IP rights and ease of transfer. 
 
-In our mini series [first](genel/2022/08/19/what-are-the-benefits-of-NFTs.html) we looked at the concept of value and what constitutes ‘value’ in a typical art object.  In the [following post](/genel/2022/09/25/what-are-the-benefits-of-NFTs-II.html), we continue with exploring how NFT would add value to such an object. In [our last post](/genel/2022/10/24/what-are-the-benefits-of-NFTs-3.html), we dived into traceability and fragmentation, two important attributes that NFT has brought to table. 👇
+In our mini series [first](/genel/2022/08/19/what-are-the-benefits-of-NFTs.html) we looked at the concept of value and what constitutes ‘value’ in a typical art object.  In the [following post](/genel/2022/09/25/what-are-the-benefits-of-NFTs-II.html), we continue with exploring how NFT would add value to such an object. In [our last post](/genel/2022/10/24/what-are-the-benefits-of-NFTs-3.html), we dived into traceability and fragmentation, two important attributes that NFT has brought to table. 👇
 
 <a href="/genel/2022/10/24/what-are-the-benefits-of-NFTs-3.html">
          <img alt="Tweet" src="/assets/benefits-of-ntfs-3_640.png"></a>
@@ -39,6 +40,6 @@ What NFT would bring is the ease of transfer from one person to the other. You c
 We will continue to explore the benefits of NFT in our future posts... 
 
 ---
-*This piece was [first published]() in [BlockchainIST Center](https://medium.com/blockchainist-center) on November 21st, 2022.*
+*This piece was [first published](https://medium.com/bcistcenter/benefits-of-nfts-iv-276713b1277c) in [BlockchainIST Center](https://medium.com/blockchainist-center) on November 21st, 2022.*
 
 *None of the views expressed in this article should be considered as investment advice*

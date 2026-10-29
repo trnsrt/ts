@@ -5,6 +5,7 @@ date:   2021-01-21 17:47:56 +0300
 categories: Genel
 tags: Yazılar, Articles
 image: /assets/smartphone-3637029_640.jpg
+lang: en
 ---
 
 WhatsApp decided to gather more data about us and created a short-lived outcry among our social groups. So, what is next?
@@ -56,9 +57,9 @@ All is possible, thanks to technology but mainly to blockchain and crypto. This 
 
 ---
 
-[^1] With public pressure WhatsApp has decided to postpone cut-off date to May 2021.
+[^1]: With public pressure WhatsApp has decided to postpone cut-off date to May 2021.
 
-[^2] US authorities have decided to break-up Standard Oil into 34 smaller companies 1911 and the telecom monopoly Bell into seven independent Baby Bells in 1984.
+[^2]: US authorities have decided to break-up Standard Oil into 34 smaller companies 1911 and the telecom monopoly Bell into seven independent Baby Bells in 1984.
 
 ---
 *This piece is first published in [BlockchainIST Center](https://medium.com/blockchainist-center) on Jan 21st, 2021.*

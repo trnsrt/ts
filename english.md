@@ -1,7 +1,8 @@
 ---
 layout: page
-title: en
+title: English
 permalink: /english/
+lang: en
 ---
 
 Explore a comprehensive collection of my articles and talks across various platforms, all available in one place. The majority of my writings are in Turkish, primarily due to the limited availability of comprehensive resources in this language.
@@ -14,7 +15,7 @@ My fourth book, *[Web3 Unlocked](/Web3_Unlocked/)*, is the English translation o
 
 If you are curious about my story, here is the GRTIQ podcast episode about me and *Sorularla Web3* (recorded in February 2025)👇
 
-<img src="/assets/GRTiQ-Podcast__Turan-Sert_800.jpg">
+<img alt="GRTiQ Podcast episode 208 featuring Turan Sert" src="/assets/GRTiQ-Podcast__Turan-Sert_800.jpg">
 
 <style>
 .english-podcast-players {
@@ -45,7 +46,7 @@ If you are curious about my story, here is the GRTIQ podcast episode about me an
     <p>Spotify</p>
   </div>
   <div class="english-podcast-player">
-<iframe title="Listen to Turan Sert on Apple Podcasts" allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/turan-sert/id1559587482?i=1000692350521"></iframe>
+<iframe loading="lazy" title="Listen to Turan Sert on Apple Podcasts" allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/turan-sert/id1559587482?i=1000692350521"></iframe>
     <p>Apple Podcast</p>
   </div>
 </div>

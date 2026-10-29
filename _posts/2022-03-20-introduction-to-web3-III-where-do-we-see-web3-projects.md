@@ -5,6 +5,7 @@ date:   2022-03-20 17:47:56 +0300
 categories: Genel
 tags: Yazılar, Articles
 image: /assets/onion-4249422_800.jpg
+lang: en
 ---
 
 In this last part of our mini-series on Web3, we are looking at potential areas that will emerge with this new technology. 

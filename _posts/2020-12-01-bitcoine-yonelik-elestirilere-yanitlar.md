@@ -82,10 +82,10 @@ Peki servet saklama aracı olup olmadığını nasıl anlayabiliriz? Bunun için
 
 Jones, kendi araştırma ekibini toplayıp, dört farklı yatırım aracını servet saklama perspektifinden değerlendirmelerini istiyor. Değerlendirmeye baz olarak, yukarıda saydığımız dört ana kriterin ilk ikisine %30, son ikisine %20 ağırlık vererek toplam 100 üzerinden puanlama yapıyorlar. Dört farklı yatırım aracının bu dört kriter üzerinden değerlendirilmesinin sonuçları aşağıdaki şekilde oluşuyor:
 
-- *Finansal varlıklar (hisse senedi ve tahviller): **71*
-- *İtibari paralar: **54*
-- *Altın: **62*
-- *Bitcoin: **43*
+- *Finansal varlıklar (hisse senedi ve tahviller): **71***
+- *İtibari paralar: **54***
+- *Altın: **62***
+- *Bitcoin: **43***
 
 Bu sonuç ile ilgili kişisel yorumunda, araştırma ekibinin çok genç olduğunu ve alım gücü kriterini düşünürken, hisse ve tahvillerin getirilerinin son on yıldaki artışından çok etkilendiğini belirtiyor. O ise bu konuda daha temkinli. Zira 1970'lerin yüksek enflasyon zamanlarında, hisse senedi getirilerinin enflasyon oranına yetişemediği için hisse senedi piyasasının cehennem haline geldiğini belirtiyor. 
 

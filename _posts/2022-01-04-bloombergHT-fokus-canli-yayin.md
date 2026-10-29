@@ -7,14 +7,14 @@ tags: videos Etkinlikler
 image: /assets/bloombergHT_fokus_poster.jpg
 ---
 
-<img align="left" src="/assets/bloombergHT_fokus_poster.jpg" style="width:40%; padding-right:20px"> BloombergHT Fokus programında, [Güzem Yılmaz Ertem](https://twitter.com/guzemyilmaz)'in konuğu olarak Metaverse dünyasından gelişmeleri, bu evrenin ne yöne doğru yol aldığını, bunun finans piyasalarına etkisini konuştuk.  
+<img alt="BloombergHT Fokus programı afişi" align="left" src="/assets/bloombergHT_fokus_poster.jpg" style="width:40%; padding-right:20px"> BloombergHT Fokus programında, [Güzem Yılmaz Ertem](https://twitter.com/guzemyilmaz)'in konuğu olarak Metaverse dünyasından gelişmeleri, bu evrenin ne yöne doğru yol aldığını, bunun finans piyasalarına etkisini konuştuk.  
 &nbsp;
 
 <table><tr><td style="width:50%">
-<img src="/assets/bloombergHT-fokus-ss-220104.jpg">
+<img alt="BloombergHT Fokus yayınından ekran görüntüsü, Turan Sert konuk" src="/assets/bloombergHT-fokus-ss-220104.jpg">
 </td>
 <td style="width:50%">
-<iframe width="224" height="126" src="https://www.youtube.com/embed/issB3QWZpf0?t=1832" frameborder="0" allowfullscreen></iframe></td></tr>
+<iframe loading="lazy" title="Dünyada ve Türkiye'de ödeme sistemleri - Fokus | 04.01.2022" width="224" height="126" src="https://www.youtube-nocookie.com/embed/issB3QWZpf0?t=1832" frameborder="0" allowfullscreen></iframe></td></tr>
 <tr><td style="width:50%; vertical-align:top">
 <p>
 Programdan bir görüntü...  

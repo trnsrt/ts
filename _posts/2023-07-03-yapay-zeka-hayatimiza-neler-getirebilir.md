@@ -36,7 +36,7 @@ Sonuç olarak Andreessen'e göre yapay zekanın medeniyetimizin yarattığı, el
 
 | ![ai_positive](/assets/yapay-zeka-yazi-II_800.jpg)|
 |:--:| 
-| *Kaynak: [Dall-E](https://labs.openai.com/s/BcrEGSoDIwjuUmnBsrlXpCYJ)*|
+| *Kaynak: [Dall-E](https://web.archive.org/web/20231206184541/https://labs.openai.com/s/BcrEGSoDIwjuUmnBsrlXpCYJ)*|
 
 Andreessen 7000 kelimelik uzun yazısının son bölümünü yapay zeka konusundaki eleştiri ve kaygıların neden yersiz olduğuna ayırıyor. Yapay zeka konusunda madalyonun öbür tarafına bir sonraki yazımızda bakacağız. 
 

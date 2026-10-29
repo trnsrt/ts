@@ -13,7 +13,7 @@ Blockchain sözünü işitiyor ancak ne işe yaradığını çok da bilmiyorsan�
   - [Blokzincirin çıkış felsefesi ne?](/genel/2020/06/04/blokzincirin-felsefesi-ne.html) *(4 Haziran 2020)*
 - Blockchain'in değişik alanlarda getirdiği potansiyel yenilikler için
   - [İyilik için Blockchain](/genel/2018/03/29/Iyilik-icin-blockchain.html) *(29 Mart 2018)*
-  - [Sanat için Blockchain](/genel/2018/03/29/Iyilik-icin-blockchain.html) *(29 Mart 2018)*
+  - [Sanat için Blockchain](/genel/2018/04/06/sanat-icin-blockchain.html) *(6 Nisan 2018)*
   - [Sağlık için Blockchain](/genel/2018/04/17/saglik-icin-blockchain.html) *(17 Nisan 2018)*
   - [Seyahat için Blockchain](/genel/2018/07/06/seyahat-icin-blockchain.html) *(6 Temmuz 2018)*
   - [Çevre için Blockchain](/genel/2018/11/16/cevre-icin-blockhain.html) ve [devamı](/genel/2018/11/17/cevre-icin-blockchaine-devam.html) *(16 Kasım 2018)*
@@ -58,7 +58,7 @@ Blockchain sözünü işitiyor ancak ne işe yaradığını çok da bilmiyorsan�
   - En temel taşı olan Akıllı Kontratlar'ı anlamak için [Bu kontratlar çok akıllı: Ethereum ve Akıllı Kontratlar](/genel/2018/06/29/bu-kontratlar-cok-akilli-ethereum-ve-akilli-kontratlar.html) *(29 Haziran 2018)*
   - ETH'nin değerinin nereden geldiğin anlamak için [ETH'nin değeri var mı?](/genel/2020/07/30/ETH-nin-degeri-var-mi.html) *(30 Temmuz 2020)*
   - 2020 ve 2021 yıllarında ETH'nin değerini nelerin etkileyecebileceğini görmek için [Gelecekte ETH'nin değerini neler etkileyecek?](/genel/2020/08/06/gelecekte-eth-nin-degerini-neler-etkileyecek.html) *(6 Ağustos 2020)*
-  - Ethereum'un para arzının nasıl işlediğini ve gelecekte nasıl gelişeceğini görmek için [Ethereum'un Para Politikası](/genel/2020/12/08/Ethereumun-para-politikası.html) *(8 Aralık 2020)*
+  - Ethereum'un para arzının nasıl işlediğini ve gelecekte nasıl gelişeceğini görmek için [Ethereum'un Para Politikası](/genel/2020/12/08/Ethereumun-para-politikasi.html) *(8 Aralık 2020)*
   - Ethereum topluluğunun 2021 yılında neler ile uğraşacağına bakmak için - [Ethereum'u 2021'de neler bekliyor?](/genel/2020/12/15/Ethereumu-2021-yilinda-neler-bekliyor.html) *(15 Aralık 2020)*
   - Ethereum'da DeFi patlamasıyla birlikte yaşanan pahalılığı ve nasıl giderilebileceğini anlamak için - [Ethereum'un yüksek islem ücretleri](/genel/2020/12/21/ETHnin-yuksek-islem-ucretleri.html) *(21 Aralık 2020)*
   - Ethereum'a rakip birinci seviye blokzincirler için: [Ethereum ve rakipleri](/genel/2021/02/27/Ethereum-ve-rakipleri.html) *(27 Şubat 2021)*
@@ -102,7 +102,7 @@ Blockchain sözünü işitiyor ancak ne işe yaradığını çok da bilmiyorsan�
   - Blockchain mekanizmasında nasıl kullanıldığını anlamak için [Peki Blockchain şifrelemesi nasıl çalışıyor?](/genel/2018/05/08/Peki-Blockchain-sifrelemesi-nasil-calisiyor.html) *(8 Mayıs 2018)*
 - Yeni teknolojilerin dağıtık yapılarında biribirinden bağımsız makinelerin nasıl ortak hareket ettiğini merak ediyorsanız
   - [Bizans Generallerinin Problemi: Uzlaşma](/genel/2018/08/31/bizans-generalinin-problemi-uzlasmak.html) *(31 Ağustos 2018)*
-  - [Blockchain nasıl uzlaşır?](/genel/2018/09/07/Peki-blockchain-nasil-uzlasir.html) *(7 Eylül 2018)*
+  - [Blockchain nasıl uzlaşır?](/genel/2018/09/07/Blockchain-nasil-uzlasir.html) *(7 Eylül 2018)*
   - [Bitcoin ve Proof-of-Work](/genel/2018/11/01/Bitcoin-uzlasmasi-proof-of-work.html) *(1 Kasım 2018)*
   - [Proof-of-Work'ün rakipleri kimler?](/genel/2018/11/01/Proof-of-Workun-rakipleri-kimler.html) *(1 Kasın 2018)*
 

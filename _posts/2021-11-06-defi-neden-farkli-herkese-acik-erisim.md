@@ -11,7 +11,7 @@ DeFi'nin klasik finansa göre farklılıklarından bahsettiğimiz dizimizin bu b
 
 Aslına bakarsanız finansal erişim konusunun kökeni, blokzincirin ilk başarılı uygulaması diyebileceğimiz Bitcoin'e kadar dayanıyor. 
 
-### Açık blokzircirler.. 
+### Açık blokzincirler.. 
 
 Bitcoin'in en kritik farklılıklarından biri herkesin erişimine açık olması. Tam olarak ne demek bu? Dileyen herkesin sistemi işletmek ya da kullanmak istediğinde bunu kimseye sormadan ya da herhangi bir otoriteden izin almadan yapabilmesi. Bu nedenle blokzincirler kendi aralarında sınıflandırılırken Bitcoin ya da Ethereum gibi zinciler açık ya da 'izin gerektirmeyen' kategorisine sokulurlar. 
 
