@@ -61,7 +61,7 @@ Elbette sistem tek bir madencinin 'verdiğim teminat yanacak' korkusu ile emanet
 
 ### Rakipleri var mı?
 
-Filecoin'in esas olarak [Amazon Web Services](https://aws.amazon.com/tr/) (AWS) gibi dünya devleri ile yarıştığını söylemek mümkün. AWS bu piyasanın en büyüğü ve Amazon'un meşhur en düşük fiyatlı hizmet verme çabası ile yarışabilmek de kolay değil. Ancak karşılaştırma için hazırlanmış sitesinde yapılan [detaylı ve karmaşık hesaplamalarda](https://file.app/) Filecoin'in AWS'e göre çok ciddi oranda ucuz olduğu iddia ediliyor (1 GB için [AWS](https://aws.amazon.com/s3/pricing/) aylık 1.25 cent isterken, Filecoin 0.005 cent talep ediyor - bu arada AWS fiyatlarının sabit, Filecoin fiyatlarının değişken olduğunu ve anlık durumu yansıttığını ve kimi zaman arttığını da belirtelim). 
+Filecoin'in esas olarak [Amazon Web Services](https://aws.amazon.com/tr/) (AWS) gibi dünya devleri ile yarıştığını söylemek mümkün. AWS bu piyasanın en büyüğü ve Amazon'un meşhur en düşük fiyatlı hizmet verme çabası ile yarışabilmek de kolay değil. Ancak karşılaştırma için hazırlanmış sitesinde yapılan detaylı ve karmaşık hesaplamalarda Filecoin'in AWS'e göre çok ciddi oranda ucuz olduğu iddia ediliyor (1 GB için [AWS](https://aws.amazon.com/s3/pricing/) aylık 1.25 cent isterken, Filecoin 0.005 cent talep ediyor - bu arada AWS fiyatlarının sabit, Filecoin fiyatlarının değişken olduğunu ve anlık durumu yansıttığını ve kimi zaman arttığını da belirtelim). 
 
 Bunun dışında rakipler, merkezi olarak hepimizin bildiği Dropbox ile merkeziyetsiz olarak Filecoin'e göre çok daha küçük olan [Sia](https://sia.tech/) ve [Stroj](https://www.storj.io/). 
 

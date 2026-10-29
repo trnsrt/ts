@@ -13,7 +13,7 @@ Yapay zeka ile ilgili potansiyel onunla en azından ChatGPT aracılığıyla tan
 
 | ![ai_positive](/assets/yapay-zeka-yazi-III_800.jpg)|
 |:--:| 
-| *Kaynak: [Dall-E](https://labs.openai.com/s/https://labs.openai.com/s/0HF0fJ9ycmNucJ6qymd00UOC)*|
+| *Kaynak: Dall-E*|
 
 ### Yapay zeka bizleri nasıl etkileyecek?
 
@@ -59,7 +59,7 @@ Medyanın insanların ilgisini bu kadar çeken bir konuya ilgisiz kalmasını be
 
 Öte yandan özellikle teknoloji dünyasının içinden gelen ve yapay zeka konusundaki kaygıların abartıldığını düşünen ciddi bir kesim de var (geçtiğimiz yazımızda yapay zekanın faydaları konusunda referans verdiğimiz Marc Andreessen'in [yazısı](https://a16z.com/2023/06/06/ai-will-save-the-world/) buna iyi bir örnek).
 
-Teknoloji optimistleri diyebileceğimiz bu kesim, her yeni teknolojinin başlangıçta toplumda rasyonel olarak açıklanamayacak bir korku hissi yarattığına inanıyor (bu hissi açıklayan ['moral panic' adlı](https://en.wikipedia.org/wiki/Moral_panic) bir Wikipedia maddesi ve yeni teknolojiler ile ilgili geçmişte yaşanmış 'histerileri' bir araya toplayan [pessimist achive isimli](https://newsletter.pessimistsarchive.org/9) bir site de mevcut). Korku ve panik ile alınan aksiyonların tek sonucunun gelişmeyi yavaşlatmak olduğunu düşünüyorlar. Bu durumun da sadece bu teknolojinin gelişinden ekonomik olarak zarar görecek küçük bir kesimin işine geldiğini savunuyorlar.
+Teknoloji optimistleri diyebileceğimiz bu kesim, her yeni teknolojinin başlangıçta toplumda rasyonel olarak açıklanamayacak bir korku hissi yarattığına inanıyor (bu hissi açıklayan ['moral panic' adlı](https://en.wikipedia.org/wiki/Moral_panic) bir Wikipedia maddesi ve yeni teknolojiler ile ilgili geçmişte yaşanmış 'histerileri' bir araya toplayan pessimist achive isimli bir site de mevcut). Korku ve panik ile alınan aksiyonların tek sonucunun gelişmeyi yavaşlatmak olduğunu düşünüyorlar. Bu durumun da sadece bu teknolojinin gelişinden ekonomik olarak zarar görecek küçük bir kesimin işine geldiğini savunuyorlar.
 
 ChatGPT'yi kuran OpenAI'ın CEO'su Sam Altman gibi isimlerin [yapay zeka konusunda standartların getirilmesini istemesinin](https://www.euronews.com/next/2023/05/17/openais-sam-altman-calls-for-regulation-amid-fears-ai-could-cause-significant-harm-to-the-) altında yatan temel nedenin ellerinde tuttukları hakim konumu kaybetmemek olduğunu düşünenler de var. 
 

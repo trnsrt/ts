@@ -71,7 +71,7 @@ Lens protokolü, kullanıcıların gerek profillerini gerekse diğer kullanıcı
 
 Lens protokolünü kullanan pek çok uygulama var. Bunlar içinde [Phaver](https://phaver.com/), [hey](https://hey.xyz/) ve [orb](https://orb.ac/) en çok talep görenlerin başında geliyor. Bu uygulamalar içinde bir Türk girişim olan [Kaira](https://kaira.network/)’nın da bulunduğunu belirtelim.
 
-Lens, üzerinde kurulu uygulamalara kullanıcıları ile etkileşime girebileceği araçlar sağlıyor. Örneğin, ‘Open Actions’ olarak adlandırılan bu özellik sayesinde kullanıcılar beğendikleri post sahiplerine direkt olarak Lens üzerinden ‘bahşiş’ gönderebiliyorlar. Lens üzerine kurulu uygulamalar genelde protokolün resmi olmayan kriptoparası [Bonsai](https://www.bonsai.meme/) üzerinden alışveriş yapılmasına olanak sağlayarak kendi çaplarında bir ekonomi de oluşturmuş durumdalar.
+Lens, üzerinde kurulu uygulamalara kullanıcıları ile etkileşime girebileceği araçlar sağlıyor. Örneğin, ‘Open Actions’ olarak adlandırılan bu özellik sayesinde kullanıcılar beğendikleri post sahiplerine direkt olarak Lens üzerinden ‘bahşiş’ gönderebiliyorlar. Lens üzerine kurulu uygulamalar genelde protokolün resmi olmayan kriptoparası Bonsai üzerinden alışveriş yapılmasına olanak sağlayarak kendi çaplarında bir ekonomi de oluşturmuş durumdalar.
 
 Kurulduğu günden bu yana Polygon ağı üzerinde çalışan Lens, 2024 yılı içinde zkSync’e geçmeyi planlıyor.
 
