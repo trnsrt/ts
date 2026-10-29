@@ -18,7 +18,7 @@ image: /assets/makerdao-dai.png
 
 MakerDAO kişilerin ellerinde duran KriptoParaları teminat verip bu teminat karşılığı sistemin parası olan DAI'yi yaratmalarına olanak veren bir dağıtık bir sistem. Ethereum üzerinde kurulu Akıllı Kontratları kullanılıyor bunu yapmak için. 
 
-Dai nedir peki? Dai bir ABD Dolarına eşit olan bir SabitPara. SabitParaların ne olduklarına şu iki yazımızda ("[Orası çok dalgalı, sakin sulara gel](https://ademimerkezi.com/genel/2018/07/20/Orasi-cok-dalgali-sakin-sulara-gel-sabitparalar.html)" ve "[SabitParalara devam](https://ademimerkezi.com/genel/2018/07/27/sabitparalara-devam-digerleri.html)") değinmiştik. (Dai kelime anlamı olarak Çince'de [borç para vermek](https://www.reddit.com/r/MakerDAO/comments/5q98b1/%E8%B2%B8_dai/) anlamı taşıyor bu arada)
+Dai nedir peki? Dai bir ABD Dolarına eşit olan bir SabitPara. SabitParaların ne olduklarına şu iki yazımızda ("[Orası çok dalgalı, sakin sulara gel](/genel/2018/07/20/Orasi-cok-dalgali-sakin-sulara-gel-sabitparalar.html)" ve "[SabitParalara devam](/genel/2018/07/27/sabitparalara-devam-digerleri.html)") değinmiştik. (Dai kelime anlamı olarak Çince'de [borç para vermek](https://www.reddit.com/r/MakerDAO/comments/5q98b1/%E8%B2%B8_dai/) anlamı taşıyor bu arada)
 
 #### Nasıl çalışıyor? 
 Elinizdeki KriptoPara'yı (şu an için yalnız Ethereum parası ETH geçerli) teminat olarak gösteriyorsunuz, buradaki deyişiyle ETH'lerinizi sistem içine kilitliyorsunuz. Gönderdiğiniz her 150 birim para için 100 birime kadar Dai yaratabiliyorsunuz. Sonrasında bu DAI'yi istediğiniz noktada borsada bire bire yakın bir değerden ABD Doları'na çeviriyor ve kullanıyorsunuz. Bu para için bir maliyet ödüyorsunuz, sonrasında ise dilediğiniz noktada tekrar Dai satın alarak yok ediyor ve ETH'nize geri kavuşuyorsunuz. 
@@ -43,7 +43,7 @@ Buna dikkat etmek gerekiyor işte. Zira ETH'nin değeri düşerse ekstra ETH yü
 Şu anda sistemde kilitli tutulan teminat rakamının kullanılan krediye oranının yaklaşık %200 olduğunu görüyoruz. Yani insanlar gerekli minimum limit olan %150'nin üzerine bir %50'lik bir ekstra teminat koymuşlar kullandıkları krediler için.
 
 #### Kim borç veriyor bu sisteme?
-Aslında kimse kimseye borç vermiyor. Siz elinizdeki ETH'yi teminat gibi kullanıp Dai yaratıyorsunuz. Buradaki soru şu olabilir? Dai'yi satıp ABD Doları aldınız. Kime satıyorsunuz Dai'yi? Genel olarak SabitPara kullanmak isteyen insanlara (ya da daha önce kredi almış ve şu anda borcunu kapatmak için Dai almak isteyenlere). Neden SabitPara kullanmak ister insanlar konusunu daha detaylı önceki yazılarımızda [incelemiştik](https://ademimerkezi.com/genel/2018/07/20/Orasi-cok-dalgali-sakin-sulara-gel-sabitparalar.html). 
+Aslında kimse kimseye borç vermiyor. Siz elinizdeki ETH'yi teminat gibi kullanıp Dai yaratıyorsunuz. Buradaki soru şu olabilir? Dai'yi satıp ABD Doları aldınız. Kime satıyorsunuz Dai'yi? Genel olarak SabitPara kullanmak isteyen insanlara (ya da daha önce kredi almış ve şu anda borcunu kapatmak için Dai almak isteyenlere). Neden SabitPara kullanmak ister insanlar konusunu daha detaylı önceki yazılarımızda [incelemiştik](/genel/2018/07/20/Orasi-cok-dalgali-sakin-sulara-gel-sabitparalar.html). 
 
 #### Dai parası nasıl sabit kalıyor peki?
 Dai, bir ABD dolarına sabitlenmiş. Ama alım satım yapıldığı borsada baktığınızda fiyatı aşağı ya da yukarı gidebiliyor. MakerDAO yaratıcıları fiyatın iniş ve çıkış olduğu durumda tekrar 1 ABD dolarına gelmesinin otomatik olacağını düşünüyorlar. Şöyle ki:
