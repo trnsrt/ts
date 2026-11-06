@@ -1,0 +1,56 @@
+/* Header layout (title, search box, nav) and search UI. */
+.sh-inner { max-width: 680px; margin: 0 auto; padding: 20px 24px 0 24px; }
+.sh-top { display: block; }
+.sh-title {
+  font-family: -apple-system, sans-serif; font-size: 20px; font-weight: 700;
+  color: #111; text-decoration: none; display: block; margin-bottom: 12px;
+}
+.sh-nav {
+  display: flex; flex-wrap: wrap; gap: 8px 20px; padding-bottom: 16px;
+  border-bottom: 1px solid #e8e8e8;
+}
+.sh-nav a { font-family: -apple-system, sans-serif; font-size: 14px; color: #555; text-decoration: none; }
+
+.sh-search { position: relative; width: 100%; margin: 0 0 12px 0; }
+.sh-search-input, .ara-input {
+  box-sizing: border-box; width: 100%; height: 34px; margin: 0;
+  padding: 0 12px; border: 1px solid #e8e8e8; border-radius: 6px;
+  font-family: -apple-system, sans-serif; font-size: 16px; color: #111; background: #fff;
+  -webkit-appearance: none; appearance: none;
+}
+.sh-search-input:focus, .ara-input:focus { outline: 2px solid #1a5fb4; outline-offset: 1px; border-color: #1a5fb4; }
+.sh-search-input::placeholder, .ara-input::placeholder { color: #707070; }
+
+.sh-search-drop {
+  position: absolute; z-index: 50; top: 100%; left: 0; right: 0; margin-top: 4px;
+  background: #fff; border: 1px solid #e8e8e8; border-radius: 6px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08); overflow: hidden;
+  font-family: -apple-system, sans-serif; text-align: left;
+}
+.sh-search-drop[hidden] { display: none; }
+.sh-search-drop a {
+  display: block; padding: 9px 12px; color: #111; text-decoration: none;
+  font-size: 14px; line-height: 1.35; overflow-wrap: anywhere; border-bottom: 1px solid #e8e8e8;
+}
+.sh-search-drop a:last-child { border-bottom: 0; }
+.sh-search-drop a:hover, .sh-search-drop a.is-active { background: #f4f6f9; }
+.sh-search-drop .sr-date { display: block; font-size: 12px; color: #707070; }
+.sh-search-drop .sr-all { color: #1a5fb4; font-size: 13px; }
+.sh-search-drop .sr-none { padding: 10px 12px; font-size: 14px; color: #707070; }
+
+@media (min-width: 600px) {
+  .sh-top { display: flex; align-items: center; justify-content: space-between; gap: 16px; margin-bottom: 12px; }
+  .sh-title { margin-bottom: 0; }
+  .sh-search { width: 240px; margin: 0; flex: 0 0 auto; }
+  .sh-search-drop { left: auto; right: 0; width: 360px; max-width: calc(100vw - 48px); }
+}
+
+/* Results page */
+.ara-form { margin: 0 0 24px 0; }
+.ara-count { font-family: -apple-system, sans-serif; font-size: 14px; color: #707070; margin: 0 0 16px 0; }
+.ara-list { list-style: none; margin: 0; padding: 0; }
+.ara-list li { padding: 14px 0; border-bottom: 1px solid #e8e8e8; }
+.ara-list a { font-family: -apple-system, sans-serif; font-size: 17px; font-weight: 600; color: #1a5fb4; text-decoration: none; overflow-wrap: anywhere; }
+.ara-list a:hover { text-decoration: underline; }
+.ara-date { font-family: -apple-system, sans-serif; font-size: 13px; color: #707070; margin-left: 8px; }
+.ara-sum { font-family: -apple-system, sans-serif; font-size: 14px; color: #555; margin: 4px 0 0 0; }

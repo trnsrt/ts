@@ -1,16 +1,32 @@
+{%- assign en = false -%}
+{%- if page.lang == 'en' -%}{%- assign en = true -%}{%- endif -%}
 <header class="site-header" role="banner">
-  <div style="max-width:680px; margin:0 auto; padding:20px 24px 0 24px;">
+  <div class="sh-inner">
 
-    <a style="font-family:-apple-system,sans-serif; font-size:20px; font-weight:700; color:#111; text-decoration:none; display:block; margin-bottom:12px;" href="{{ "/" | relative_url }}">
-      {{ site.title | escape }}
-    </a>
+    <div class="sh-top">
+      <a class="sh-title" href="{{ "/" | relative_url }}">
+        {{ site.title | escape }}
+      </a>
 
-    <nav style="display:flex; flex-wrap:wrap; gap:8px 20px; padding-bottom:16px; border-bottom:1px solid #e8e8e8;">
+      <form class="sh-search" role="search" action="{{ "/ara/" | relative_url }}" method="get" autocomplete="off"
+            data-index="{{ "/search.json" | relative_url }}"
+            data-results="{{ "/ara/" | relative_url }}"
+            data-none="{% if en %}No results{% else %}Sonuç bulunamadı{% endif %}"
+            data-all="{% if en %}All results{% else %}Tüm sonuçlar{% endif %}"
+            data-count="{% if en %}results{% else %}sonuç{% endif %}">
+        <label class="visually-hidden" for="site-search-q">{% if en %}Search the site{% else %}Sitede ara{% endif %}</label>
+        <input id="site-search-q" class="sh-search-input" type="search" name="q" placeholder="{% if en %}Search{% else %}Sitede ara{% endif %}" enterkeyhint="search">
+        <div class="sh-search-drop" id="site-search-drop" hidden></div>
+        <div class="visually-hidden" role="status" aria-live="polite" id="site-search-status"></div>
+      </form>
+    </div>
+
+    <nav class="sh-nav">
       {% assign page_paths = site.header_pages %}
       {% for path in page_paths %}
         {% assign my_page = site.pages | where: "path", path | first %}
         {% if my_page.title %}
-          <a style="font-family:-apple-system,sans-serif; font-size:14px; color:#555; text-decoration:none;" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+          <a href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
         {% endif %}
       {% endfor %}
     </nav>
