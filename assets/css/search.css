@@ -1,5 +1,7 @@
 /* Header layout (title, search box, nav) and search UI. */
 .sh-inner { max-width: 680px; margin: 0 auto; padding: 20px 24px 0 24px; }
+/* Home and tag pages are 1000px wide; align the header with them. */
+.sh-inner-wide { max-width: 1000px; }
 .sh-top { display: block; }
 .sh-title {
   font-family: -apple-system, sans-serif; font-size: 20px; font-weight: 700;
