@@ -1,0 +1,23 @@
+---
+layout: null
+sitemap: false
+permalink: /search-full.json
+---
+[
+{%- assign wanted = "/Kitaplar/,/about/,/Sorularla_Web3/,/Web3_Unlocked/" | split: "," -%}
+{%- assign first = true -%}
+{%- for post in site.posts -%}
+{%- unless first -%},{%- endunless -%}
+{%- assign first = false -%}
+{%- assign tx = post.content | strip_html | replace: "&amp;", "&" | replace: "&quot;", '"' | replace: "&#39;", "'" | replace: "&nbsp;", " " | normalize_whitespace | split: " " | uniq | join: " " %}
+{"url":{{ post.url | relative_url | jsonify }},"text":{{ tx | jsonify }}}
+{%- endfor -%}
+{%- for p in site.pages -%}
+{%- if wanted contains p.url -%}
+{%- unless first -%},{%- endunless -%}
+{%- assign first = false -%}
+{%- assign tx = p.content | markdownify | strip_html | replace: "&amp;", "&" | replace: "&quot;", '"' | replace: "&#39;", "'" | replace: "&nbsp;", " " | normalize_whitespace | split: " " | uniq | join: " " %}
+{"url":{{ p.url | relative_url | jsonify }},"text":{{ tx | jsonify }}}
+{%- endif -%}
+{%- endfor %}
+]
