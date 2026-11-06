@@ -1,0 +1,24 @@
+---
+layout: null
+sitemap: false
+permalink: /search.json
+---
+[
+{%- assign wanted = "/Kitaplar/,/about/,/Sorularla_Web3/,/Web3_Unlocked/" | split: "," -%}
+{%- assign first = true -%}
+{%- for post in site.posts -%}
+{%- unless first -%},{%- endunless -%}
+{%- assign first = false -%}
+{%- assign tg = post.tags | join: " " | replace: ",", "" | normalize_whitespace -%}
+{%- assign sm = post.content | strip_html | replace: "&amp;", "&" | replace: "&quot;", '"' | replace: "&#39;", "'" | replace: "&nbsp;", " " | normalize_whitespace | truncatewords: 40 %}
+{"title":{{ post.title | jsonify }},"url":{{ post.url | relative_url | jsonify }},"date":{{ post.date | date: "%d.%m.%Y" | jsonify }},"tags":{{ tg | jsonify }},"summary":{{ sm | jsonify }}}
+{%- endfor -%}
+{%- for p in site.pages -%}
+{%- if wanted contains p.url -%}
+{%- unless first -%},{%- endunless -%}
+{%- assign first = false -%}
+{%- assign sm = p.content | markdownify | strip_html | replace: "&amp;", "&" | replace: "&quot;", '"' | replace: "&#39;", "'" | replace: "&nbsp;", " " | normalize_whitespace | truncatewords: 40 %}
+{"title":{{ p.title | jsonify }},"url":{{ p.url | relative_url | jsonify }},"date":"","tags":"","summary":{{ sm | jsonify }}}
+{%- endif -%}
+{%- endfor %}
+]
