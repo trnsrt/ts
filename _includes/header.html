@@ -1,7 +1,7 @@
 {%- assign en = false -%}
 {%- if page.lang == 'en' -%}{%- assign en = true -%}{%- endif -%}
 <header class="site-header" role="banner">
-  <div class="sh-inner{% if page.layout == 'home' or page.layout == 'tagpage' %} sh-inner-wide{% endif %}">
+  <div class="sh-inner{% if page.layout == 'home' or page.layout == 'tagpage' or page.layout == 'reader' %} sh-inner-wide{% endif %}">
 
     <div class="sh-top">
       <a class="sh-title" href="{{ "/" | relative_url }}">

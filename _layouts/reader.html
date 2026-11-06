@@ -11,5 +11,12 @@ layout: default
   </ul>
 </div>
 <div class="reader-frame-wrap">
-  <iframe class="reader-frame" src="{{ viewer }}" title="Sorularla Web3 kitap okuyucu" allowfullscreen></iframe>
+  <iframe class="reader-frame" id="reader-frame" src="{{ viewer }}" title="Sorularla Web3 kitap okuyucu" allowfullscreen></iframe>
 </div>
+<script>
+  // Wide screens open the book a whole page at a time; phones keep the viewer's automatic (page-width) zoom.
+  (function () {
+    var f = document.getElementById('reader-frame');
+    if (window.matchMedia('(min-width: 900px)').matches) f.src = f.getAttribute('src') + '&zoom=page-fit';
+  })();
+</script>
