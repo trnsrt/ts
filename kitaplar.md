@@ -12,7 +12,7 @@ Bunlardan ilki Blockchain Türkiye aracılığıyla 2019 yılında yayınlanan "
 
 İkinci kitap ise 2022 yılının başında yayınlanan "[Sorularla DeFi - Merkeziyetsiz Finans](https://indd.adobe.com/view/f27e44be-3413-4473-a6a6-32b7f5165835)". Kitabın pdf versiyonune ücretsiz olarak [buradan](https://indd.adobe.com/view/f27e44be-3413-4473-a6a6-32b7f5165835) ulaşabilirsiniz. 
 
-Üçüncü kitap ise 2025 Şubat ayında yayınlanan "[Sorularla Web3](https://www.scalakitapci.com/sorularla-web3)". Kitap [Scala Yayıncılık websitesinde](https://www.scalakitapci.com/sorularla-web3) sizlerle buluşuyor. Kitabın pdf versiyonuna ücretsiz olarak [buradan](https://play.google.com/store/books/details?id=mNVFEQAAQBAJ) ulaşabilirsiniz. 
+Üçüncü kitap ise 2025 Şubat ayında yayınlanan "[Sorularla Web3](https://www.scalakitapci.com/sorularla-web3)". Kitap [Scala Yayıncılık websitesinde](https://www.scalakitapci.com/sorularla-web3) sizlerle buluşuyor. Kitabın pdf versiyonuna ücretsiz olarak [buradan](/Sorularla_Web3/oku/) ulaşabilirsiniz. 
 
 Dördüncü kitabım "[Web3 Unlocked](/Web3_Unlocked/)", üçüncü kitabım "Sorularla Web3"ün İngilizce çevirisi. Web3 dünyasını İngilizce okumak isteyenler için hazırlanan kitaba [Google Books üzerinden](https://books.google.com.tr/books?id=ZA7KEQAAQBAJ&printsec=frontcover&hl=tr) ulaşabilirsiniz.
 
@@ -38,7 +38,7 @@ Dördüncü kitabım "[Web3 Unlocked](/Web3_Unlocked/)", üçüncü kitabım "So
 <p>Sorularla DeFi - Merkeziyetsiz Finans (2022) <a href="https://indd.adobe.com/view/f27e44be-3413-4473-a6a6-32b7f5165835">Buradan okuyabilirsiniz</a>.</p>
 </td>
 <td style="width:25%; vertical-align:top">
-<p>Sorularla Web3 (2025)  <a href="https://www.scalakitapci.com/sorularla-web3">Buradan sipariş verebilirsiniz</a></p> <p>Ya da <a href="https://play.google.com/store/books/details?id=mNVFEQAAQBAJ">buradan okuyabilirsiniz</a>.</p>
+<p>Sorularla Web3 (2025)  <a href="https://www.scalakitapci.com/sorularla-web3">Buradan sipariş verebilirsiniz</a></p> <p>Ya da <a href="/Sorularla_Web3/oku/">buradan okuyabilirsiniz</a>.</p>
 </td>
 <td style="width:25%; vertical-align:top">
 <p>Web3 Unlocked</p>

@@ -1,0 +1,15 @@
+---
+layout: default
+---
+{%- assign viewer = '/assets/pdfjs/web/viewer.html?file=/assets/books/Sorularla_Web3.pdf#pagemode=none' | relative_url -%}
+<div class="reader-bar">
+  <h1 class="reader-title">Sorularla Web3</h1>
+  <ul class="reader-actions">
+    <li><a href="{{ '/assets/books/Sorularla_Web3.pdf' | relative_url }}" download>PDF olarak indir (16,6 MB)</a></li>
+    <li><a href="https://www.scalakitapci.com/sorularla-web3">Basılı kitabı satın al</a></li>
+    <li><a href="{{ viewer }}">Tam ekran</a></li>
+  </ul>
+</div>
+<div class="reader-frame-wrap">
+  <iframe class="reader-frame" src="{{ viewer }}" title="Sorularla Web3 kitap okuyucu" allowfullscreen></iframe>
+</div>
