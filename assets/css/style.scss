@@ -327,8 +327,16 @@ iframe[src*="youtube.com"], iframe[src*="youtube-nocookie.com"] { aspect-ratio: 
 .book-card-link:hover .book-card-title { color: #1a5fb4; }
 .book-card-link:visited { color: inherit; }
 @media (max-width: 599px) {
-  .books-list { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px 16px; }
-  .book-card-cover { height: 110px; }
+  .books-strip { margin-bottom: 24px; padding-bottom: 20px; }
+  .books-strip-head { margin-bottom: 12px; }
+  .books-strip-title { font-size: 18px; }
+  .books-list { gap: 8px; }
+  .book-card-cover { height: 80px; margin-bottom: 6px; }
+  .book-card-title { font-size: 12px; overflow-wrap: anywhere; }
+  .book-card-label { font-size: 11px; }
+}
+@media (max-width: 359px) {
+  .book-card-title { font-size: 11px; }
 }
 
 /* Recent events beside the featured post */
