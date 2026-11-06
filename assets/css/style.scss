@@ -352,12 +352,17 @@ iframe[src*="youtube.com"], iframe[src*="youtube-nocookie.com"] { aspect-ratio: 
   .home-events { flex: none; width: 100%; padding-left: 0; border-left: 0; border-top: 1px solid #e8e8e8; padding-top: 24px; }
 }
 
+/* Short English note for non-Turkish readers */
+.en-note { border-left: 3px solid #e8e8e8; padding-left: 12px; color: #555; margin-bottom: 1.5em; }
+
 /* Book reader */
 .reader-bar { max-width: 1000px; margin: 0 auto; padding: 0 24px 12px; display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 24px; border-bottom: 1px solid #e8e8e8; }
 .reader-title { font: 700 20px/1.3 -apple-system, sans-serif; color: #111; margin: 0; }
 .reader-actions { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 4px 20px; font: 14px/1.5 -apple-system, sans-serif; color: #555; }
 .reader-actions li { margin: 0; }
-.reader-actions a { color: #1a5fb4; overflow-wrap: anywhere; }
+.reader-actions a, .reader-fs { color: #1a5fb4; overflow-wrap: anywhere; }
+.reader-fs { background: none; border: 0; padding: 0; margin: 0; font: inherit; cursor: pointer; text-align: left; }
+.reader-fs:hover { text-decoration: underline; }
 .reader-frame-wrap { max-width: 1000px; margin: 12px auto 0; padding: 0 24px; }
 .reader-frame { display: block; width: 100%; border: 0; height: calc(100vh - 24px); min-height: 480px; }
 @supports (height: 100svh) {
