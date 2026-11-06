@@ -1,22 +1,37 @@
 ---
 layout: default
 ---
-{%- assign viewer = '/assets/pdfjs/web/viewer.html?file=/assets/books/Sorularla_Web3.pdf#pagemode=none' | relative_url -%}
+{%- assign pdf = page.book_pdf | relative_url -%}
+{%- assign viewer = '/assets/pdfjs/web/viewer.html?file=' | append: page.book_pdf | append: '#pagemode=none' | relative_url -%}
+<script>
+  // The viewer speaks the book's language, not the visitor's browser language.
+  document.addEventListener('webviewerloaded', function (e) {
+    try { e.detail.source.PDFViewerApplicationOptions.set('localeProperties', { lang: {{ page.viewer_lang | jsonify }} }); } catch (err) {}
+  });
+</script>
 <div class="reader-bar">
-  <h1 class="reader-title">Sorularla Web3</h1>
+  <h1 class="reader-title">{{ page.book_title }}</h1>
   <ul class="reader-actions">
-    <li><a href="{{ '/assets/books/Sorularla_Web3.pdf' | relative_url }}" download>PDF olarak indir (16,6 MB)</a></li>
-    <li><a href="https://www.scalakitapci.com/sorularla-web3">Basılı kitabı satın al</a></li>
-    <li><a href="{{ viewer }}">Tam ekran</a></li>
+    <li><a href="{{ pdf }}" download>{{ page.label_download }}</a></li>
+    {%- if page.buy_url %}
+    <li><a href="{{ page.buy_url }}">{{ page.buy_label }}</a></li>
+    {%- endif %}
+    <li><button type="button" class="reader-fs" id="reader-fs" data-href="{{ viewer }}">{{ page.label_fullscreen }}</button></li>
   </ul>
 </div>
 <div class="reader-frame-wrap">
-  <iframe class="reader-frame" id="reader-frame" src="{{ viewer }}" title="Sorularla Web3 kitap okuyucu" allowfullscreen></iframe>
+  <iframe class="reader-frame" id="reader-frame" src="{{ viewer }}" title="{{ page.frame_title }}" allowfullscreen></iframe>
 </div>
 <script>
-  // Wide screens open the book a whole page at a time; phones keep the viewer's automatic (page-width) zoom.
   (function () {
     var f = document.getElementById('reader-frame');
+    // Wide screens open the book a whole page at a time; phones keep the viewer's automatic (page-width) zoom.
     if (window.matchMedia('(min-width: 900px)').matches) f.src = f.getAttribute('src') + '&zoom=page-fit';
+    // Full screen on the iframe keeps the page (and the viewer language); without the API (iPhone Safari) open the viewer itself.
+    var b = document.getElementById('reader-fs');
+    b.addEventListener('click', function () {
+      var req = f.requestFullscreen || f.webkitRequestFullscreen;
+      if (req) req.call(f); else location.href = b.getAttribute('data-href');
+    });
   })();
 </script>
