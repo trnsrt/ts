@@ -6,6 +6,9 @@ redirect_from:
   - /kitaplar/
 ---
 
+**In English:** *Web3 Unlocked* is the English edition of *Sorularla Web3* — a friendly guide to the next era of the internet. [Read it free online](/Web3_Unlocked/read/) or [download the PDF](/assets/books/Web3_Unlocked.pdf).
+{: lang="en" .en-note}
+
 Ekosisteme katkı sağlamak amacıyla yayınlanan, biri İngilizce çeviri olmak üzere dört kitabım bulunmakta. 
 
 Bunlardan ilki Blockchain Türkiye aracılığıyla 2019 yılında yayınlanan "[Sorularla Blockchain](https://bit.ly/Sorularla_Blockchain)". Kitabın pdf versiyonunu ücretsiz olarak [buradan](https://bit.ly/Sorularla_Blockchain) indirebilirsiniz.  
@@ -14,7 +17,7 @@ Bunlardan ilki Blockchain Türkiye aracılığıyla 2019 yılında yayınlanan "
 
 Üçüncü kitap ise 2025 Şubat ayında yayınlanan "[Sorularla Web3](https://www.scalakitapci.com/sorularla-web3)". Kitap [Scala Yayıncılık websitesinde](https://www.scalakitapci.com/sorularla-web3) sizlerle buluşuyor. Kitabın pdf versiyonuna ücretsiz olarak [buradan](/Sorularla_Web3/oku/) ulaşabilirsiniz. 
 
-Dördüncü kitabım "[Web3 Unlocked](/Web3_Unlocked/)", üçüncü kitabım "Sorularla Web3"ün İngilizce çevirisi. Web3 dünyasını İngilizce okumak isteyenler için hazırlanan kitaba [Google Books üzerinden](https://books.google.com.tr/books?id=ZA7KEQAAQBAJ&printsec=frontcover&hl=tr) ulaşabilirsiniz.
+Dördüncü kitabım "[Web3 Unlocked](/Web3_Unlocked/)", üçüncü kitabım "Sorularla Web3"ün İngilizce çevirisi. Web3 dünyasını İngilizce okumak isteyenler için hazırlanan kitaba [buradan](/Web3_Unlocked/read/) ulaşabilirsiniz.
 
 &nbsp;
 
@@ -43,7 +46,7 @@ Dördüncü kitabım "[Web3 Unlocked](/Web3_Unlocked/)", üçüncü kitabım "So
 <td style="width:25%; vertical-align:top">
 <p>Web3 Unlocked</p>
 <p>Sorularla Web3’ün İngilizce çevirisi.</p>
-<p><a href="https://books.google.com.tr/books?id=ZA7KEQAAQBAJ&amp;printsec=frontcover&amp;hl=tr">Google Books üzerinden ulaşabilirsiniz</a>.</p>
+<p><a href="/Web3_Unlocked/read/">Buradan okuyabilirsiniz</a>.</p>
 </td>
 </tr> 
   

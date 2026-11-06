@@ -7,9 +7,9 @@ redirect_from:
   - /web3_unlocked/
 ---
 
-<a href="https://books.google.com.tr/books?id=ZA7KEQAAQBAJ&printsec=frontcover&hl=tr" target="_blank"><img src="/assets/web3_front_cover.jpg" alt="Web3 Unlocked cover" width="220" style="display:block; margin: 0 auto 1.5rem auto;"></a>
+<a href="/Web3_Unlocked/read/"><img src="/assets/web3_front_cover.jpg" alt="Web3 Unlocked cover" width="220" style="display:block; margin: 0 auto 1.5rem auto;"></a>
 
-Thank you for reading *Web3 Unlocked*. For your convenience, all links referenced in the book are collected below. If you would like to read it on Google Books, you can find it [here](https://books.google.com.tr/books?id=ZA7KEQAAQBAJ&printsec=frontcover&hl=tr). Enjoy!
+Thank you for reading *Web3 Unlocked*. For your convenience, all links referenced in the book are collected below. You can read the whole book online, free, [here](/Web3_Unlocked/read/). Enjoy!
 
 
 <br>
