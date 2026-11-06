@@ -18,15 +18,38 @@
     return m ? +(m[3] + m[2] + m[1]) : 0;
   }
 
-  // Adds normalised fields once, after loading the index.
+  // Adds normalised fields once, after loading the index. Fields are padded with a
+  // leading space so a word-start match is indexOf(' ' + word).
   function prepare(entries) {
     return entries.map(function (e) {
       return {
         title: e.title, url: e.url, date: e.date, tags: e.tags, summary: e.summary,
-        _t: normalize(e.title), _g: normalize(e.tags), _s: normalize(e.summary),
+        _t: ' ' + normalize(e.title), _g: ' ' + normalize(e.tags), _s: ' ' + normalize(e.summary),
+        _x: null,
         _d: dateKey(e.date)
       };
     });
+  }
+
+  // Full text: normalises it in chunks (setTimeout 0) so typing never freezes, and attaches
+  // it to the prepared index only when everything is done. `full` is [{url, text}].
+  // Calls done() when finished. chunk defaults to 40 entries; pass sync=true to run at once.
+  function mergeFull(index, full, done, chunk, sync) {
+    var byUrl = {}, texts = new Array(full.length), n = chunk || 40, pos = 0;
+    function step() {
+      var end = Math.min(pos + n, full.length);
+      for (; pos < end; pos++) texts[pos] = ' ' + normalize(full[pos].text);
+      if (pos < full.length) {
+        if (sync) step(); else setTimeout(step, 0);
+        return;
+      }
+      for (var i = 0; i < full.length; i++) byUrl[full[i].url] = texts[i];
+      for (var j = 0; j < index.length; j++) {
+        if (byUrl[index[j].url] != null) index[j]._x = byUrl[index[j].url];
+      }
+      if (done) done();
+    }
+    step();
   }
 
   function words(query) {
@@ -34,6 +57,8 @@
     return n ? n.split(' ') : [];
   }
 
+  // Per query word: best field it starts a word in (title 100, tags 10, summary 2, full text 1).
+  // Every word must match somewhere. Ties: newer first, pages (no date) after posts.
   function search(index, query) {
     var ws = words(query);
     if (normalize(query).length < 2) return [];
@@ -41,10 +66,11 @@
     for (var i = 0; i < index.length; i++) {
       var e = index[i], score = 0, ok = true;
       for (var j = 0; j < ws.length; j++) {
-        var w = ws[j];
+        var w = ' ' + ws[j];
         if (e._t.indexOf(w) !== -1) score += 100;
         else if (e._g.indexOf(w) !== -1) score += 10;
-        else if (e._s.indexOf(w) !== -1) score += 1;
+        else if (e._s.indexOf(w) !== -1) score += 2;
+        else if (e._x && e._x.indexOf(w) !== -1) score += 1;
         else { ok = false; break; }
       }
       if (ok) out.push({ e: e, score: score, i: i });
@@ -56,7 +82,7 @@
   }
 
   if (typeof module !== 'undefined' && module.exports) {
-    module.exports = { normalize: normalize, prepare: prepare, search: search };
+    module.exports = { normalize: normalize, prepare: prepare, mergeFull: mergeFull, search: search };
   }
   if (typeof document === 'undefined') return;
 
@@ -70,6 +96,22 @@
         .catch(function (err) { indexPromise = null; throw err; });
     }
     return indexPromise;
+  }
+
+  var fullPromise = null;
+  // Starts the background load of the full text once the small index is ready. Never rejects
+  // loudly: on failure the caller keeps using the small index. Resolves true when merged.
+  function loadFull(indexUrl, fullUrl) {
+    if (!fullPromise && fullUrl) {
+      fullPromise = loadIndex(indexUrl).then(function (idx) {
+        return fetch(fullUrl, { credentials: 'same-origin' })
+          .then(function (r) { if (!r.ok) throw new Error('full index ' + r.status); return r.json(); })
+          .then(function (full) {
+            return new Promise(function (resolve) { mergeFull(idx, full, function () { resolve(idx); }); });
+          });
+      }).catch(function () { return null; });
+    }
+    return fullPromise || Promise.resolve(null);
   }
 
   function debounce(fn, ms) {
@@ -89,6 +131,7 @@
     var drop = form.querySelector('.sh-search-drop');
     var status = form.querySelector('[role="status"]');
     var indexUrl = form.getAttribute('data-index');
+    var fullUrl = form.getAttribute('data-index-full');
     var resultsUrl = form.getAttribute('data-results');
     var txtNone = form.getAttribute('data-none');
     var txtAll = form.getAttribute('data-all');
@@ -156,15 +199,25 @@
       var my = ++seq;
       if (normalize(q).length < 2) { close(); status.textContent = ''; return; }
       loadIndex(indexUrl).then(function (idx) {
+        loadFull(indexUrl, fullUrl).then(refreshFull);
         if (my !== seq) return;
         render(search(idx, q), q);
       }, function () { /* index unavailable: the form still submits to the results page */ });
     }
 
+    // Full text arrived: refresh an open dropdown, unless the user has moved the highlight
+    // (then it is applied on the next keystroke).
+    function refreshFull(idx) {
+      if (!idx || drop.hidden || active >= 0) return;
+      var q = input.value;
+      if (normalize(q).length < 2) return;
+      render(search(idx, q), q);
+    }
+
     var delayed = debounce(update, 150);
     input.addEventListener('input', delayed);
     input.addEventListener('focus', function () {
-      loadIndex(indexUrl).catch(function () {});
+      loadIndex(indexUrl).then(function () { loadFull(indexUrl, fullUrl).then(refreshFull); }, function () {});
       if (normalize(input.value).length >= 2 && drop.hidden) update();
     });
     input.addEventListener('keydown', function (e) {
@@ -203,9 +256,12 @@
     count.textContent = '...';
     var hf = document.querySelector('form.sh-search');
     var url = hf ? hf.getAttribute('data-index') : '/search.json';
-    loadIndex(url).then(function (idx) {
+    var fullUrl = hf ? hf.getAttribute('data-index-full') : '/search-full.json';
+    function show(idx, pending) {
       var res = search(idx, q);
-      count.textContent = res.length ? res.length + ' sonuç' : 'Sonuç bulunamadı';
+      var n = res.length;
+      count.textContent = (n ? n + ' sonuç' : 'Sonuç bulunamadı') + (pending ? ' (tam metin aranıyor…)' : '');
+      list.textContent = '';
       res.forEach(function (r) {
         var li = el('li');
         var a = el('a', null, r.title);
@@ -215,6 +271,11 @@
         if (r.summary) li.appendChild(el('p', 'ara-sum', r.summary));
         list.appendChild(li);
       });
+    }
+    loadIndex(url).then(function (idx) {
+      show(idx, !!fullUrl);
+      if (!fullUrl) return;
+      loadFull(url, fullUrl).then(function (full) { show(idx, false); });
     }, function () {
       count.textContent = 'Arama dizini yüklenemedi.';
     });

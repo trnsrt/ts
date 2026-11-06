@@ -10,6 +10,7 @@
 
       <form class="sh-search" role="search" action="{{ "/ara/" | relative_url }}" method="get" autocomplete="off"
             data-index="{{ "/search.json" | relative_url }}"
+            data-index-full="{{ "/search-full.json" | relative_url }}"
             data-results="{{ "/ara/" | relative_url }}"
             data-none="{% if en %}No results{% else %}Sonuç bulunamadı{% endif %}"
             data-all="{% if en %}All results{% else %}Tüm sonuçlar{% endif %}"
