@@ -6,6 +6,26 @@ layout: default
   {{ content }}
 </div>
 
+<section class="books-strip" aria-labelledby="books-heading">
+  <div class="books-strip-head">
+    <h2 id="books-heading" class="books-strip-title">Kitaplarım</h2>
+    <a class="books-strip-all" href="{{ '/Kitaplar/' | relative_url }}">Tüm kitaplar &rarr;</a>
+  </div>
+  <ul class="books-list">
+    {% for book in site.data.books %}
+    <li class="book-card">
+      <a class="book-card-link" href="{{ book.url | escape }}">
+        <div class="book-card-cover">
+          <img alt="" loading="eager" decoding="async" width="{{ book.width }}" height="{{ book.height }}" src="{{ book.cover | relative_url }}">
+        </div>
+        <span class="book-card-title">{{ book.title }}</span>
+        <span class="book-card-label">{{ book.label }}</span>
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+
 {% assign first_post = site.posts.first %}
 <div class="featured-post">
  <a class="featured-post-link" href="{{ first_post.url | relative_url }}">
