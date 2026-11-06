@@ -20,18 +20,24 @@ layout: default
   </ul>
 </div>
 <div class="reader-frame-wrap">
-  <iframe class="reader-frame" id="reader-frame" src="{{ viewer }}" title="{{ page.frame_title }}" allowfullscreen></iframe>
+  <iframe class="reader-frame" id="reader-frame" src="{{ viewer }}" title="{{ page.frame_title }}" allow="fullscreen" allowfullscreen></iframe>
 </div>
 <script>
   (function () {
     var f = document.getElementById('reader-frame');
     // Wide screens open the book a whole page at a time; phones keep the viewer's automatic (page-width) zoom.
     if (window.matchMedia('(min-width: 900px)').matches) f.src = f.getAttribute('src') + '&zoom=page-fit';
-    // Full screen on the iframe keeps the page (and the viewer language); without the API (iPhone Safari) open the viewer itself.
+    // Full screen on the iframe keeps the page (and the viewer language). Without the API (iPhone Safari),
+    // or if the browser refuses, open the viewer itself.
     var b = document.getElementById('reader-fs');
+    function openViewer() { location.href = b.getAttribute('data-href'); }
     b.addEventListener('click', function () {
       var req = f.requestFullscreen || f.webkitRequestFullscreen;
-      if (req) req.call(f); else location.href = b.getAttribute('data-href');
+      if (!req) return openViewer();
+      try {
+        var p = req.call(f);
+        if (p && p.catch) p.catch(openViewer);
+      } catch (err) { openViewer(); }
     });
   })();
 </script>
