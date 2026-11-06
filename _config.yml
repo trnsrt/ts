@@ -35,6 +35,10 @@ defaults:
       path: ""
     values:
       image: "/ts-bg-dark-v2_bant_v5.jpg"
+  - scope:
+      path: "assets/pdfjs"
+    values:
+      sitemap: false
 header_pages:
   - kitaplar.md
   - blockchain.md
