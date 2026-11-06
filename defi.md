@@ -4,7 +4,7 @@ title: DeFi
 permalink: /defi/
 ---
 
-Blockchain'in finans alanındaki uygulamalarına DeFi (decentralized finance - merkeziyetsiz finans) deniyor. Bu alandaki yayınlanmış tüm yazıları aşağıda bulabilirsiniz. 'Sorularla DeFi - Merkeziyetsiz Finans' kitabının ücretsiz olarak [buradan indirebilirsiniz](https://indd.adobe.com/view/f27e44be-3413-4473-a6a6-32b7f5165835)
+Blockchain'in finans alanındaki uygulamalarına DeFi (decentralized finance - merkeziyetsiz finans) deniyor. Bu alandaki yayınlanmış tüm yazıları aşağıda bulabilirsiniz. 'Sorularla DeFi - Merkeziyetsiz Finans' kitabının ücretsiz olarak [buradan indirebilirsiniz](/Sorularla_DeFi/oku/)
 
 
 - Merkeziyetsiz Finans (DeFi) hareketini yakından tanımak için
