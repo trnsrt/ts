@@ -35,6 +35,7 @@ layout: default
 {% endfor %}
 <div class="home-top">
 <div class="featured-post">
+ <h2 class="home-blog-title">Blog</h2>
  <a class="featured-post-link" href="{{ first_post.url | relative_url }}">
     {% if first_post.image %}
     <div class="featured-post-image">
@@ -43,7 +44,7 @@ layout: default
     {% endif %}
     <div class="featured-post-body">
       <p class="featured-post-date">{{ first_post.date | date: "%d.%m.%Y" }}</p>
-      <h2 class="featured-post-title">{{ first_post.title }}</h2>
+      <h3 class="featured-post-title">{{ first_post.title }}</h3>
       <p class="featured-post-excerpt">{{ first_post.excerpt | strip_html | truncatewords: 20 }}</p>
     </div>
   </a>
