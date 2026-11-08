@@ -24,14 +24,14 @@ Dördüncü kitabım "[Web3 Unlocked](/Web3_Unlocked/)", üçüncü kitabım "So
 <table>
 <tr>
 <td style="width:25%">
-<img alt="Sorularla Blockchain kitabının kapağı" src="/assets/Sorularla_Blockchain_kapak.jpg">
+<a href="/Sorularla_Blockchain/oku/"><img alt="Sorularla Blockchain kitabını oku" src="/assets/Sorularla_Blockchain_kapak.jpg"></a>
 </td>
 <td style="width:25%">
-<img alt="Sorularla #DeFi kitabının kapağı" src="/assets/Sorularla_DeFi_kapak_v2.jpg"></td>
+<a href="/Sorularla_DeFi/oku/"><img alt="Sorularla DeFi kitabını oku" src="/assets/Sorularla_DeFi_kapak_v2.jpg"></a></td>
 <td style="width:25%">
-<img alt="Sorularla Web3 kitabının kapağı" src="/assets/Sorularla_Web3_kapak_v3.jpg"></td>
+<a href="/Sorularla_Web3/oku/"><img alt="Sorularla Web3 kitabını oku" src="/assets/Sorularla_Web3_kapak_v3.jpg"></a></td>
 <td style="width:25%">
-<img src="/assets/Web3_Unlocked_kapak.jpg" alt="Web3 Unlocked - Sorularla Web3 kitabının İngilizce çevirisi"></td>
+<a href="/Web3_Unlocked/read/"><img src="/assets/Web3_Unlocked_kapak.jpg" alt="Web3 Unlocked kitabını oku (Sorularla Web3'ün İngilizce çevirisi)"></a></td>
 </tr>
 <tr>
 <td style="width:25%; vertical-align:top">
