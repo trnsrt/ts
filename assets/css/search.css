@@ -7,11 +7,17 @@
   font-family: -apple-system, sans-serif; font-size: 20px; font-weight: 700;
   color: #111; text-decoration: none; display: block; margin-bottom: 12px;
 }
-.sh-nav {
-  display: flex; flex-wrap: wrap; gap: 8px 20px; padding-bottom: 16px;
-  border-bottom: 1px solid #e8e8e8;
-}
+.sh-menu { padding-bottom: 16px; border-bottom: 1px solid #e8e8e8; }
+.sh-nav { display: flex; flex-wrap: wrap; gap: 8px 20px; }
 .sh-nav a { font-family: -apple-system, sans-serif; font-size: 14px; color: #555; text-decoration: none; }
+
+/* Social icons in the header (phone: own line below the menu). */
+.sh-social { margin-top: 6px; }
+.sh-social .social-media-list { display: flex; flex-wrap: wrap; margin: 0 0 0 -9px; padding: 0; list-style: none; }
+.sh-social .social-media-list li, .sh-social .social-media-list li + li { padding: 0; margin: 0; }
+.sh-social .social-media-list a { display: flex; align-items: center; justify-content: center; width: 36px; height: 36px; }
+.sh-social .svg-icon { display: block; width: 18px; height: 18px; padding: 0; fill: #6b6b6b; }
+.sh-social .social-media-list a:hover .svg-icon, .sh-social .social-media-list a:focus-visible .svg-icon { fill: #111; }
 
 .sh-search { position: relative; width: 100%; margin: 0 0 12px 0; }
 .sh-search-input, .ara-input {
@@ -41,6 +47,12 @@
 .sh-search-drop .sr-none { padding: 10px 12px; font-size: 14px; color: #707070; }
 
 @media (min-width: 600px) {
+  .sh-menu { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; }
+  .sh-nav { gap: 8px 16px; }
+  .sh-social { margin: 0 0 0 auto; }
+  .sh-social .social-media-list { flex-wrap: nowrap; gap: 10px; margin: 0; }
+  .sh-social .social-media-list a { width: 16px; height: 16px; }
+  .sh-social .svg-icon { width: 16px; height: 16px; }
   .sh-top { display: flex; align-items: center; justify-content: space-between; gap: 16px; margin-bottom: 12px; }
   .sh-title { margin-bottom: 0; }
   .sh-search { width: 240px; margin: 0; flex: 0 0 auto; }

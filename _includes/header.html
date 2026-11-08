@@ -22,6 +22,7 @@
       </form>
     </div>
 
+    <div class="sh-menu">
     <nav class="sh-nav">
       {% assign page_paths = site.header_pages %}
       {% for path in page_paths %}
@@ -31,6 +32,10 @@
         {% endif %}
       {% endfor %}
     </nav>
+    <div class="sh-social">
+      {% include social.html %}
+    </div>
+    </div>
 
   </div>
 </header>
