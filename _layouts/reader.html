@@ -25,8 +25,26 @@ layout: default
 <script>
   (function () {
     var f = document.getElementById('reader-frame');
-    // Wide screens open the book a whole page at a time; phones keep the viewer's automatic (page-width) zoom.
-    if (window.matchMedia('(min-width: 900px)').matches) f.src = f.getAttribute('src') + '&zoom=page-fit';
+    // Wide screens open the book a whole page at a time, with the contents (bookmarks) panel open;
+    // phones keep the viewer's automatic (page-width) zoom and a closed panel (the toolbar button opens it).
+    if (window.matchMedia('(min-width: 900px)').matches) f.src = f.getAttribute('src').replace('#pagemode=none', '#pagemode=bookmarks') + '&zoom=page-fit';
+    // Phones: the side panel starts closed but opens on the chapter list (not page thumbnails),
+    // and choosing a chapter jumps there and closes the panel, so it no longer covers the page.
+    else f.addEventListener('load', function () {
+      try {
+        var d = f.contentDocument, app = f.contentWindow.PDFViewerApplication;
+        app.initializedPromise.then(function () {
+          app.eventBus.on('outlineloaded', function (e) {
+            if (e.outlineCount && app.viewsManager) app.viewsManager.switchView(2); // 2 = chapter list (outline)
+          });
+        });
+        d.addEventListener('click', function (e) {
+          if (!e.target.closest || !e.target.closest('#outlinesView a')) return;
+          var oc = d.getElementById('outerContainer'), t = d.getElementById('viewsManagerToggleButton');
+          if (oc && t && oc.classList.contains('viewsManagerOpen')) setTimeout(function () { t.click(); }, 0);
+        });
+      } catch (err) {}
+    });
     // Full screen on the iframe keeps the page (and the viewer language). Without the API (iPhone Safari),
     // or if the browser refuses, open the viewer itself.
     var b = document.getElementById('reader-fs');

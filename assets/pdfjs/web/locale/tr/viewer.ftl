@@ -188,8 +188,8 @@ pdfjs-printing-not-ready = Uyarı: PDF tamamen yüklenmedi ve yazdırmaya hazır
 ## Tooltips and alt text for side panel toolbar buttons
 
 pdfjs-current-outline-item-button =
-    .title = Mevcut ana hat öğesini bul
-pdfjs-current-outline-item-button-label = Mevcut ana hat öğesi
+    .title = Okunan bölümü bul
+pdfjs-current-outline-item-button-label = Okunan bölüm
 pdfjs-findbar-button =
     .title = Belgede bul
 pdfjs-findbar-button-label = Bul
@@ -644,7 +644,7 @@ pdfjs-editor-add-comment-button =
 ## The thumbnails view is used to edit the pdf: remove/insert pages, ...
 
 pdfjs-toggle-views-manager-notification-button =
-    .title = Kenar çubuğunu aç/kapat (Belge, küçük resimler/ana hat/ekler/katmanlar içeriyor)
+    .title = Kenar çubuğunu aç/kapat (kitabın bölümleri ve sayfa küçük resimleri)
 pdfjs-toggle-views-manager-button1-label = Sayfaları yönet
 pdfjs-views-manager-sidebar =
     .aria-label = Kenar çubuğu
@@ -654,13 +654,13 @@ pdfjs-views-manager-view-selector-button =
     .title = Görünümler
 pdfjs-views-manager-view-selector-button-label = Görünümler
 pdfjs-views-manager-pages-title = Sayfalar
-pdfjs-views-manager-outlines-title1 = Belge ana hatları
-    .title = Belge ana hatları (Tüm öğeleri genişletmek/daraltmak için çift tıklayın)
+pdfjs-views-manager-outlines-title1 = Kitabın bölümleri
+    .title = Kitabın bölümleri (tümünü açmak/kapatmak için çift tıklayın)
 pdfjs-views-manager-attachments-title = Ekler
 pdfjs-views-manager-layers-title1 = Katmanlar
     .title = Katmanlar (Tüm katmanları varsayılan duruma sıfırlamak için çift tıklayın)
 pdfjs-views-manager-pages-option-label = Sayfalar
-pdfjs-views-manager-outlines-option-label = Belge ana hatları
+pdfjs-views-manager-outlines-option-label = Kitabın bölümleri
 pdfjs-views-manager-attachments-option-label = Ekler
 pdfjs-views-manager-layers-option-label = Katmanlar
 pdfjs-views-manager-add-file-button =
