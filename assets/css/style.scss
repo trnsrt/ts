@@ -294,6 +294,12 @@ a:visited:hover { color: #111; }
 .featured-post-link:visited, .post-card-link:visited { color: inherit; }
 .site-footer, .footer-col-wrapper, blockquote { color: #6b6b6b; }
 .site-footer .svg-icon { fill: #6b6b6b; }
+.site-footer .footer-col-2 { float: none; clear: both; width: auto; }
+.site-footer .social-media-list { display: flex; flex-wrap: wrap; margin: 0 0 0 -9px; padding: 0; list-style: none; }
+.site-footer .social-media-list li, .site-footer .social-media-list li + li { padding: 0; margin: 0; }
+.site-footer .social-media-list a { display: flex; align-items: center; justify-content: center; width: 36px; height: 36px; }
+.site-footer .social-media-list .svg-icon { display: block; width: 18px; height: 18px; padding: 0; }
+.site-footer .social-media-list a:hover .svg-icon, .site-footer .social-media-list a:focus-visible .svg-icon { fill: #111; }
 
 .visually-hidden, .skip-link:not(:focus) {
   position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px;
