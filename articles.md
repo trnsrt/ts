@@ -2,6 +2,7 @@
 layout: page
 title: Yazılar
 permalink: /articles/
+description: "Turan Sert'in blokzincir, Bitcoin, Ethereum, DeFi ve diğer Web3 konularındaki tüm yazılarının konulara göre derlenmiş listesi."
 ---
 
 

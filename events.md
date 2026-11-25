@@ -2,6 +2,7 @@
 layout: page
 title: Etkinlikler
 permalink: /events/
+description: "Turan Sert'in canlı yayın, panel ve konuşmalarının video ve yazı bağlantıları; BTC Haber, Blockchain Türkiye ve İstanbul Üniversitesi paneli."
 ---
 
 Yakın zamandaki tüm konuşmaların link'leri aşağıda: 

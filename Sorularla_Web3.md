@@ -4,6 +4,7 @@ title: Sorularla Web3
 permalink: /Sorularla_Web3/
 redirect_from:
   - /sorularla_web3/
+description: "Şubat 2025'te çıkan Sorularla Web3 kitabında geçen bağlantıların sayfa sırasına göre listesi ve kitabın satış bağlantısı."
 ---
 
 | ![Sorularla Web3](/assets/Sorularla_Web3_kapak_x.jpg)|

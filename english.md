@@ -3,6 +3,7 @@ layout: page
 title: English
 permalink: /english/
 lang: en
+description: "Turan Sert's English page: links to his LinkedIn and Twitter, his book Web3 Unlocked, a free online edition and a GRTIQ podcast episode."
 ---
 
 Explore a comprehensive collection of my articles and talks across various platforms, all available in one place. The majority of my writings are in Turkish, primarily due to the limited availability of comprehensive resources in this language.

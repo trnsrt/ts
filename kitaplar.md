@@ -4,6 +4,7 @@ title: Kitaplar
 permalink: /Kitaplar/
 redirect_from:
   - /kitaplar/
+description: "Turan Sert'in Sorularla Blockchain, Sorularla DeFi, Sorularla Web3 ve İngilizce Web3 Unlocked kitapları; çevrimiçi okuma ve PDF bağlantıları."
 ---
 
 **In English:** *Web3 Unlocked* is the English edition of *Sorularla Web3* — a friendly guide to the next era of the internet. [Read it free online](/Web3_Unlocked/read/) or [download the PDF](/assets/books/Web3_Unlocked.pdf).

@@ -2,6 +2,7 @@
 layout: page
 title: "Blockchain"
 permalink: /blockchain/
+description: "Blockchain'in nasıl ortaya çıktığı, kullanım alanları, Bitcoin ve Ethereum üzerine Turan Sert'in yazıları, konulara göre derlenmiş liste."
 ---
 
 

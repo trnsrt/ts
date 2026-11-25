@@ -5,6 +5,7 @@ permalink: /Web3_Unlocked/
 lang: en
 redirect_from:
   - /web3_unlocked/
+description: "All links referenced in Web3 Unlocked, the English edition of Turan Sert's book Sorularla Web3, listed by page, plus a link to read it free."
 ---
 
 <a href="/Web3_Unlocked/read/"><img src="/assets/web3_front_cover.jpg" alt="Web3 Unlocked cover" width="220" style="display:block; margin: 0 auto 1.5rem auto;"></a>

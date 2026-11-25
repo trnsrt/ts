@@ -2,6 +2,7 @@
 layout: page
 title: Diğer Web3
 permalink: /diger_web3/
+description: "NFT, sosyal medya, dijital kimlik ve diğer Web3 alanlarında yazılmış Turan Sert yazılarının konulara göre derlenmiş listesi."
 ---
 
 Web3, dijital dünyada blokzincir temelli merkeziyetsiz sistemler tarafından ortaya atılan uygulamalara verilen genel ad. Temel olarak ayrıldığı farklı alanlar var: 
