@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 redirect_from: /tag.html
-description: "Turan Sert'in kişisel sitesi: blokzincir, DeFi ve Web3 üzerine Türkçe yazılar, dört kitap ve konuşma kayıtları."
+description: "Turan Sert'in kişisel sitesi: blokzincir, DeFi, Web3 ve yapay zeka gibi yeni nesil teknolojiler üzerine Türkçe yazılar, dört kitap ve konuşma kayıtları."
 ---
 
 

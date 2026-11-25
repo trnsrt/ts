@@ -3,8 +3,14 @@ layout: page
 title: English
 permalink: /english/
 lang: en
-description: "Turan Sert's English page: links to his LinkedIn and Twitter, his book Web3 Unlocked, a free online edition and a GRTIQ podcast episode."
+description: "Turan Sert, author and researcher on frontier technologies (blockchain, DeFi, Web3 and AI): English bio, the book Web3 Unlocked free online, and a GRTIQ podcast episode."
 ---
+
+I'm Turan Sert, an author and researcher on frontier technologies – blockchain, decentralized finance (DeFi), Web3 and artificial intelligence – and how they are reshaping finance and the internet. Since 2017 my main focus has been the blockchain-based decentralized technologies now called Web3, and increasingly where they meet AI.
+
+I have written four books in a question-and-answer format: *Sorularla Blockchain* (2019), *Sorularla DeFi – Merkeziyetsiz Finans* (2022), *Sorularla Web3* (2025) and *[Web3 Unlocked](/Web3_Unlocked/)*, the English translation of *Sorularla Web3*. All four can be read free on this site; see [the books page](/Kitaplar/).
+
+I started my career in finance and technology with audit at Arthur Andersen and investment banking at Garanti Bank, then spent three years in management consulting at Booz Allen's New York office before returning to Türkiye in 2005. I have held executive and board roles at several FİBA Group companies and served as Chief Business Officer of Özyeğin University (2014–2016). Today I sit on the advisory board of BlockchainIST Center and hold advisory and board roles at other organisations. I studied Business Administration at Boğaziçi University (BA, 1995) and earned my MBA at Harvard Business School (2001).
 
 Explore a comprehensive collection of my articles and talks across various platforms, all available in one place. The majority of my writings are in Turkish, primarily due to the limited availability of comprehensive resources in this language.
 

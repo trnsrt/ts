@@ -2,10 +2,10 @@
 layout: page
 title: Hakkında
 permalink: /about/
-description: "Turan Sert kimdir? Boğaziçi ve Harvard Business School mezunu yazarın kariyeri, blokzincir ve Web3 üzerine çalışmaları ve kitapları."
+description: "Turan Sert kimdir? Boğaziçi ve Harvard Business School mezunu yazarın kariyeri, blokzincir, Web3 ve yapay zeka üzerine çalışmaları ve kitapları."
 ---
 
-2017 yılından bu yana Web3 olarak adlandırılan blokzincir temelli merkeziyetsiz teknolojiler konusunda araştırmalar yapan Turan Sert, yaptığı çalışmaları düzenli olarak farklı mecralarda paylaşıyor. Bu alandaki temel kavramlara değinen "Sorularla Blockchain" ve finans alanındaki uygulamalarını konu alan "Sorularla DeFi - Merkeziyetsiz Finans" isimli kitaplarının ardından, şimdi de bu teknolojinin altyapısı ve uygulama alanlarını bir araya getiren "Sorularla Web3" kitabı ile ekosisteme verdiği katkıyı sürdürmeyi amaçlıyor. Bu kitabın İngilizce çevirisi "[Web3 Unlocked](/Web3_Unlocked/)" da yayınlandı.
+Blokzincir, DeFi, Web3 ve yapay zeka gibi yeni nesil teknolojiler üzerine araştırmalar yapan Turan Sert, yaptığı çalışmaları düzenli olarak farklı mecralarda paylaşıyor. 2017 yılından bu yana ağırlıklı olarak Web3 olarak adlandırılan blokzincir temelli merkeziyetsiz teknolojilere, son dönemde ise bu teknolojilerin yapay zeka ile kesişimine odaklanıyor. Bu alandaki temel kavramlara değinen "Sorularla Blockchain" ve finans alanındaki uygulamalarını konu alan "Sorularla DeFi - Merkeziyetsiz Finans" isimli kitaplarının ardından, şimdi de bu teknolojinin altyapısı ve uygulama alanlarını bir araya getiren "Sorularla Web3" kitabı ile ekosisteme verdiği katkıyı sürdürmeyi amaçlıyor. Bu kitabın İngilizce çevirisi "[Web3 Unlocked](/Web3_Unlocked/)" da yayınlandı.
 
 Klasik finans ve teknoloji ağırlıklı kariyerine Arthur Andersen'da denetim ve Garanti Bankası'nda yatırım bankacılığı ile başlayan Turan Sert, Booz Allen New York ofisinde üç yıl süren yönetim danışmanlığı sonrası 2005 yılında Türkiye'ye döndü. Çeşitli Fiba Grubu iştiraklerinde murahhas azalığı ya da yönetim kurulu üyelikleri ve 2014-16 yılları arasında Özyeğin Üniversitesi'nde CBO'luk görevinde bulundu. Halen BlockchainIST Center danışma kurulu üyeliği dışında çeşitli kurumlarda danışmanlık ve yönetim kurulu üyeliği görevlerini sürdürmekte.
 
