@@ -1,0 +1,32 @@
+{%- comment -%}
+  Person structured data. Home page: Person. About page: ProfilePage whose mainEntity is the same Person.
+  Facts come only from about.md. sameAs mirrors the URLs in social.html.
+{%- endcomment -%}
+{%- if page.url == "/" or page.url == "/about/" -%}
+{%- capture props -%}
+  "@id": "https://turansert.com/#person",
+  "name": {{ site.author.name | jsonify }},
+  "url": "https://turansert.com/",
+  "image": {{ "/assets/TS_profile_pic_2606_reduced.jpg" | absolute_url | jsonify }},
+  "description": {{ "Turan Sert, 2017'den bu yana Web3 olarak adlandırılan blokzincir temelli merkeziyetsiz teknolojiler üzerine araştıran ve yazan; Sorularla Blockchain, Sorularla DeFi ve Sorularla Web3 kitaplarının yazarı." | jsonify }},
+  "alumniOf": [
+    { "@type": "CollegeOrUniversity", "name": "Boğaziçi Üniversitesi" },
+    { "@type": "EducationalOrganization", "name": "Harvard Business School" }
+  ],
+  "knowsAbout": ["Blockchain", "DeFi", "Web3"],
+  "sameAs": [
+    {%- if site.twitter_username -%}"https://x.com/{{ site.twitter_username | cgi_escape }}"{%- endif -%}
+    {%- if site.linkedin_username -%}, "https://www.linkedin.com/in/{{ site.linkedin_username | cgi_escape }}"{%- endif -%}
+    {%- if site.instagram_username -%}, "https://instagram.com/{{ site.instagram_username | cgi_escape }}"{%- endif -%}
+    {%- if site.youtube_username -%}, "https://youtube.com/channel/{{ site.youtube_username | cgi_escape }}"{%- endif -%}
+    {%- if site.nostr_npub -%}, "https://njump.me/{{ site.nostr_npub | cgi_escape }}"{%- endif -%}
+  ]
+{%- endcapture -%}
+<script type="application/ld+json">
+{%- if page.url == "/" %}
+{ "@context": "https://schema.org", "@type": "Person", {{ props }} }
+{%- else %}
+{ "@context": "https://schema.org", "@type": "ProfilePage", "url": "https://turansert.com/about/", "mainEntity": { "@type": "Person", {{ props }} } }
+{%- endif %}
+</script>
+{%- endif -%}
