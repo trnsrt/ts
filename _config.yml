@@ -65,6 +65,7 @@ plugins:
 
 
 exclude:
+  - tools
   - README.md
   - deneme.md
   - "NOTES-*.md"
