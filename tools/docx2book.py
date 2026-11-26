@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """docx2book.py - convert the "Sorularla Web3" manuscript (.docx) into Jekyll collection pages.
 
-Usage:  python3 -I tools/docx2book.py <docx> <out_dir> <img_dir>
+Usage:  python3 -I tools/docx2book.py [--book tr|en] <docx> <out_dir> <img_dir>
+        --book selects the per-book profile (default tr = Sorularla Web3; en = Web3 Unlocked, see PROFILES).
         e.g. tools/docx2book.py "Sorularla Web3 - DRAFT 03 - pre-translation.docx" \
                  _sorularla_web3 assets/books/sorularla-web3
 
@@ -9,7 +10,14 @@ Only the Python standard library is used (zipfile + xml.etree); images are resiz
 The script is deterministic and re-runnable: it rewrites the files it generated earlier and removes
 stale ones listed in the manifest `<dir>/.generated` of the previous run. Other files are never touched.
 
-Mapping (docx style name -> output)
+Profiles: "tr" detects chapters by style (heading 1: "Giriş", "Bölüm N: ..."), heading 3 -> "##", figure
+captions are heading 6 *before* the image. "en" (Web3 Unlocked) has no heading 1: "Introduction" and
+"Chapter N: Title" are Normal paragraphs matched by text; in the Introduction heading 2/3/4 become
+"##"/"###"/"####" on the single Introduction page; heading 5 is the figure *title* before the image and
+heading 6 the figure caption after it. A heading 2 directly followed by another heading 2 (no text between)
+is not a page of its own: its text becomes a bold first line of the next section page.
+
+Mapping for the "tr" profile (docx style name -> output)
   everything before the first non-empty "heading 1"  -> skipped (front matter, TOC)
   heading 1  "Giriş"                 -> page 000-giris.md             (kind: section, chapter 0)
   heading 1  "Bölüm N: Title"        -> page N00-bolum-N.md           (kind: chapter; body = intro text)
@@ -46,6 +54,7 @@ PKG = '{http://schemas.openxmlformats.org/package/2006/relationships}'
 SITE_TITLE = 'Sorularla Web3'
 URL_BASE = '/Sorularla_Web3'
 IMG_URL = '/assets/books/sorularla-web3'
+P = None            # active profile, set by use_profile()
 MAX_IMG_W = 1200
 
 # ----------------------------------------------------------------------------------------------
@@ -78,6 +87,87 @@ CORRECTIONS = [
 ]
 CORRECTION_COUNTS = {c[0]: 0 for c in CORRECTIONS}
 _COUNTED = set()
+
+EN_OVERRIDES = {
+    'Web 1.0: The Age of Protocols': ('web-1-0', None),
+    'Web 2.0: The Age of Platforms': ('web-2-0', None),
+    'Web3: The Quest for Digital Ownership': ('web3', None),
+    'What makes Ethereum’s economy tick?': ('ethereum-economy', None),
+    'Bitcoin, Solana, and Ethereum: The Big Three': ('bitcoin-solana-ethereum', None),
+    'Modular vs. Monolithic Blockchains': ('modular-vs-monolithic', None),
+    'Layer 2 Solutions: Ethereum’s Scaling Heroes': ('layer-2-solutions', None),
+    "Don't Mind the Gap: Bridges and the Internet of Value": ('bridges', None),
+    'Wallets': ('wallets', None),
+    'Intents': ('intents', None),
+    'The Rise of the Community': ('community', None),
+    'Web3 Founders: A New Breed of Entrepreneurs': ('founders', None),
+    'Web3 Investors: New Rules, New Roles': ('investors', None),
+    'Developers: Powering the Web3 Revolution': ('developers', None),
+    'Miners and Validators: Blockchain’s Backbone': ('miners-validators', None),
+    'Users: The Heart of Web3': ('users', None),
+    'Stablecoins: Web3’s Killer App': ('stablecoins', None),
+    'Decentralized Finance: Web3’s Financial Revolution': ('decentralized-finance', None),
+    'Exploring the NFT Universe': ('nft-universe', None),
+    'Gaming and the Metaverse': ('gaming-metaverse', None),
+    'Decentralized Social Media: Taking Back Control': ('decentralized-social-media', None),
+    'Digital Identity: Taking Back Your Data': ('digital-identity', None),
+    'Decentralized Physical Infrastructure: The Next Frontier': ('physical-infrastructure', None),
+    'Decentralized Science: A New Frontier (DeSci)': ('desci', None),
+    'Regenerative Finance: A New Web3 Vision': ('regenerative-finance', None),
+    'AI Meets Web3': ('ai-meets-web3', None),
+    'Case Study: 2022 Crisis Act I – Terra Implosion': ('terra-implosion', '2022 Crisis Act I – Terra Implosion'),
+    'Case Study: PayPal’s PYUSD Stablecoin': ('pyusd', 'PayPal’s PYUSD Stablecoin'),
+    "Case Study: Ethena's USDe Stablecoin": ('ethena', "Ethena's USDe Stablecoin"),
+    'Case Study: 2022 Crisis Act II – 3AC Bankruptcy': ('3ac-bankruptcy', '2022 Crisis Act II – 3AC Bankruptcy'),
+    'Case Study: 2022 Crisis Act III – FTX Collapses': ('ftx-collapse', '2022 Crisis Act III – FTX Collapses'),
+    'Case Study: 2023 US Banking Crisis': ('2023-us-banking-crisis', '2023 US Banking Crisis'),
+    'Tokens Explained': ('tokens', None),
+    'Understanding Tokenomics': ('tokenomics', None),
+    'Case Study: When BlackRock Went On-Chain': ('blackrock-on-chain', 'When BlackRock Went On-Chain'),
+    'Case Study: Tokenizing a US Home': ('tokenizing-a-us-home', 'Tokenizing a US Home'),
+    'Short-Term Expectations (2025-2026)': ('short-term-expectations', None),
+    'What’s Ahead for Web3 in the Long Term?': ('long-term-outlook', None),
+}
+# Web-edition fixes of source typos (owner-approved; the printed book has the same typos except where noted).
+# (old, new) matches anywhere in a paragraph; (old, new, 'start') only at the start of a paragraph.
+EN_CORRECTIONS = [
+    ('n the world of stablecoins', 'In the world of stablecoins', 'start'),
+    ('in funding rserve', 'in funding reserve'),
+    ('individual freedom.It’s worth', 'individual freedom. It’s worth'),
+    ('onto the blockchain.The venture', 'onto the blockchain. The venture'),
+    ('insight or feature.[^4] This', 'insight or feature. This'),
+    ('same group chats.[^4] When', 'same group chats. When'),
+]
+# Normal-style paragraphs (exact text) that the published contents list as sections of their own.
+EN_PROMOTE_TO_SECTION = {'Regenerative Finance: A New Web3 Vision'}
+# heading text as it appears in the docx -> heading as printed in the book
+EN_HEADING_OVERRIDES = {'Case Study: Terra’s 2022 Crisis (Act One)': 'Case Study: 2022 Crisis Act I – Terra Implosion'}
+
+PROFILES = {
+    'tr': dict(name='tr', site_title='Sorularla Web3', url_base='/Sorularla_Web3',
+               img_url='/assets/books/sorularla-web3', overrides=OVERRIDES, corrections=CORRECTIONS,
+               intro_heading='Giriş', intro_slug='giris', chapter_slug='bolum-%d',
+               chapter_label='Bölüm %d: %s', max_words=4,
+               chapter_desc='Sorularla Web3 kitabının %d. bölümü: %s.', promote=set(), heading_overrides={}),
+    'en': dict(name='en', site_title='Web3 Unlocked', url_base='/Web3_Unlocked',
+               img_url='/assets/books/web3-unlocked', overrides=EN_OVERRIDES, corrections=EN_CORRECTIONS,
+               intro_heading='Introduction', intro_slug='introduction', chapter_slug='chapter-%d',
+               chapter_label='Chapter %d: %s', max_words=5,
+               chapter_desc='Chapter %d of the book Web3 Unlocked: %s.',
+               promote=EN_PROMOTE_TO_SECTION, heading_overrides=EN_HEADING_OVERRIDES),
+}
+
+
+def use_profile(name):
+    global P, SITE_TITLE, URL_BASE, IMG_URL, CORRECTION_COUNTS
+    P = PROFILES[name]
+    SITE_TITLE, URL_BASE, IMG_URL = P['site_title'], P['url_base'], P['img_url']
+    CORRECTION_COUNTS = {c[0]: 0 for c in P['corrections']}
+    PROFILE_USES.clear()
+
+
+PROFILE_USES = {}
+
 
 TR = str.maketrans({'ç': 'c', 'Ç': 'c', 'ğ': 'g', 'Ğ': 'g', 'ı': 'i', 'İ': 'i', 'ö': 'o', 'Ö': 'o',
                     'ş': 's', 'Ş': 's', 'ü': 'u', 'Ü': 'u', 'â': 'a', 'Â': 'a', 'î': 'i', 'Î': 'i',
@@ -174,6 +264,8 @@ class Renderer:
                 t = Tok('t', t.text, False if strip_bold else t.b, t.i)
                 if t.text.strip() == '':
                     t.b = t.i = False
+                elif P is not None and P['name'] == 'en' and t.b and not re.search(r'\w', t.text):
+                    t.b = False         # a bold comma or dash is a stray formatting artefact
             if out and t.kind == 't' and out[-1].kind == 't' and (out[-1].b, out[-1].i) == (t.b, t.i):
                 out[-1] = Tok('t', out[-1].text + t.text, t.b, t.i)
             elif t.kind == 'link' and strip_bold:
@@ -255,11 +347,19 @@ class Renderer:
                 tag, mk = 'em', '*'
             imd = join_pieces(inner, 'md')
             ihtml = join_pieces(inner, 'html')
+            lead2 = imd[:len(imd) - len(imd.lstrip())]       # whitespace that came from inside a link
+            trail2 = imd[len(imd.rstrip()):]
+            if lead2 or trail2:
+                imd, ihtml = imd.strip(), ihtml.strip()
+                if lead2:
+                    pieces.append(Piece(lead2, lead2))
             if imd.startswith('*') or imd.endswith('*'):
                 md = '<%s>%s</%s>' % (tag, ihtml, tag)
             else:
                 md = mk + imd + mk
             pieces.append(Piece(md, '<%s>%s</%s>' % (tag, ihtml, tag), True))
+            if trail2:
+                pieces.append(Piece(trail2, trail2))
         if trail:
             pieces.append(Piece(esc_md(trail), esc_html(trail)))
         return pieces
@@ -312,6 +412,17 @@ def plain_text(toks):
 
 
 # ----------------------------------------------------------------------------------------------
+def flat_text(toks):
+    """text tokens of a paragraph, including those inside links (link URLs are never included)"""
+    out = []
+    for t in toks:
+        if t.kind == 't':
+            out.append(t)
+        elif t.kind == 'link':
+            out.extend(x for x in t.inner if x.kind == 't')
+    return out
+
+
 class Docx:
     def __init__(self, path):
         self.z = zipfile.ZipFile(path)
@@ -389,6 +500,11 @@ class Docx:
                     toks.append(Tok('t', buf, b, i)); buf = ''
                 blip = ch.find('.//' + A + 'blip')
                 toks.append(Tok('img', rid=blip.get(R + 'embed')))
+            elif tag == '{http://schemas.openxmlformats.org/markup-compatibility/2006}AlternateContent':
+                # a horizontal-rule shape (grey "Rectangle" with an image fallback): keep as a divider
+                if buf:
+                    toks.append(Tok('t', buf, b, i)); buf = ''
+                toks.append(Tok('hr'))
             elif tag in (W + 'rPr', W + 'footnoteRef', W + 'lastRenderedPageBreak'):
                 pass
             else:
@@ -401,18 +517,22 @@ class Docx:
         toks = self._para_tokens_raw(p, rels)
         first = id(p) not in _COUNTED
         _COUNTED.add(id(p))
-        joined = ''.join(t.text for t in toks if t.kind == 't')
-        for old, new in CORRECTIONS:
-            n = joined.count(old)
+        joined = ''.join(t.text for t in flat_text(toks))
+        for corr in P['corrections']:
+            old, new = corr[0], corr[1]
+            anchored = len(corr) > 2 and corr[2] == 'start'
+            n = (1 if joined.startswith(old) else 0) if anchored else joined.count(old)
             if not n:
                 continue
             if first:
                 CORRECTION_COUNTS[old] += n
-            hit = [t for t in toks if t.kind == 't' and old in t.text]
+            hit = [t for t in flat_text(toks) if old in t.text]
+            if anchored and hit and not hit[0].text.startswith(old):
+                raise SystemExit('anchored correction %r does not start the paragraph' % old)
             if len(hit) != 1 or hit[0].text.count(old) != 1:
                 raise SystemExit('correction %r does not lie inside a single text run' % old)
             hit[0].text = hit[0].text.replace(old, new)
-            joined = ''.join(t.text for t in toks if t.kind == 't')
+            joined = ''.join(t.text for t in flat_text(toks))
         return toks
 
     def _para_tokens_raw(self, p, rels):
@@ -441,6 +561,19 @@ class Docx:
 
 def clean_edges(toks):
     """collapse whitespace runs; strip paragraph edges."""
+    hoisted = []
+    for t in toks:          # line breaks at the edges of a link text belong outside the link
+        if t.kind == 'link' and t.inner and (t.inner[0].kind == 'br' or t.inner[-1].kind == 'br'):
+            inner = list(t.inner)
+            pre, post = [], []
+            while inner and inner[0].kind == 'br':
+                pre.append(inner.pop(0))
+            while inner and inner[-1].kind == 'br':
+                post.append(inner.pop())
+            hoisted.extend(pre + [Tok('link', url=t.url, inner=inner)] + post)
+        else:
+            hoisted.append(t)
+    toks = hoisted
     toks = [Tok(t.kind, re.sub(r'[ \t\r\n ]+', ' ', t.text) if t.kind == 't' else t.text,
                 t.b, t.i, t.url, t.inner, t.fid, t.rid) for t in toks]
     # collapse across token boundaries
@@ -503,10 +636,10 @@ class Page:
     @property
     def permalink(self):
         if self.kind == 'chapter':
-            return '%s/bolum-%d/' % (URL_BASE, self.chapter)
+            return '%s/%s/' % (URL_BASE, P['chapter_slug'] % self.chapter)
         if self.chapter == 0:
-            return '%s/giris/' % URL_BASE
-        return '%s/bolum-%d/%s/' % (URL_BASE, self.chapter, self.slug)
+            return '%s/%s/' % (URL_BASE, P['intro_slug'])
+        return '%s/%s/%s/' % (URL_BASE, P['chapter_slug'] % self.chapter, self.slug)
 
 
 def yq(s):
@@ -540,7 +673,7 @@ def make_description(page):
 def front_matter(page):
     desc = make_description(page)
     if not desc:
-        desc = 'Sorularla Web3 kitabının %d. bölümü: %s.' % (page.chapter, page.chapter_title)
+        desc = P['chapter_desc'] % (page.chapter, page.chapter_title)
     lines = ['---', 'layout: book-section', 'kind: ' + page.kind,
              'title: ' + yq(page.title), 'heading: ' + yq(page.heading), 'chapter: %d' % page.chapter,
              'chapter_title: ' + yq(page.chapter_title), 'order: %d' % page.order,
@@ -617,8 +750,10 @@ class Converter:
         name, w, h = self.emit_image(page, rid)
         r = Renderer(page)
         cap_plain = plain_text(caption_toks)
+        has_fn = any(t.kind == 'fn' for t in caption_toks + note_toks)
         if caption_toks:
-            cap_html = join_pieces(r.render(caption_toks, strip_bold=True), 'html')
+            pc = r.render(caption_toks, strip_bold=True)
+            cap_html = join_pieces(pc, 'md' if has_fn else 'html')
         else:
             cap_html = ''
         if alt is None:
@@ -627,9 +762,7 @@ class Converter:
                 page.captionless.append((page.filename, name, alt))
             else:
                 alt = cap_plain
-        note_html = join_pieces(r.render(note_toks), 'html') if note_toks else ''
-        if any(t.kind == 'fn' for t in caption_toks + note_toks):
-            warn('footnote reference inside a figure caption on page %s' % page.slug)
+        note_html = join_pieces(r.render(note_toks), 'md' if has_fn else 'html') if note_toks else ''
         cap = ''
         if cap_html and note_html:
             cap = '<figcaption>%s <span class="fig-note">%s</span></figcaption>' % (cap_html, note_html)
@@ -639,6 +772,10 @@ class Converter:
             cap = '<figcaption><span class="fig-note">%s</span></figcaption>' % note_html
         page.stats['figures'] += 1
         page.stats['links'] += sum(1 for t in caption_toks + note_toks if t.kind == 'link')
+        if has_fn:      # footnote refs need markdown: kramdown parses the figcaption as span markdown
+            cap = cap.replace('<figcaption>', '<figcaption markdown="span">')
+            return ('<figure markdown="1">\n<a href="%s/%s"><img src="%s/%s" alt="%s" width="%d" height="%d" loading="lazy"></a>\n%s\n</figure>'
+                    % (IMG_URL, name, IMG_URL, name, html.escape(alt, quote=True), w, h, cap))
         return ('<figure><a href="%s/%s"><img src="%s/%s" alt="%s" width="%d" height="%d" loading="lazy"></a>%s</figure>'
                 % (IMG_URL, name, IMG_URL, name, html.escape(alt, quote=True), w, h, cap))
 
@@ -652,6 +789,10 @@ class Converter:
         pending_caption = None   # Tok list
         list_items = []          # current list: (ilvl, ordered, toks)
         started = False
+        en = P['name'] == 'en'
+        pending_title = None     # en: heading 5 (figure title) waiting for its image
+        pending_fig = None       # en: figure waiting for an optional heading 6 caption
+        demote_h2 = False        # en: the next heading 2 is a sub-heading of the current section page
 
         def flush_list():
             nonlocal list_items
@@ -687,10 +828,38 @@ class Converter:
                 add_block('**%s**' % join_pieces(r.render(pending_label, strip_bold=True), 'md').rstrip())
                 pending_label = None
 
+        def flush_fig():
+            nonlocal pending_fig
+            if pending_fig is not None:
+                f = pending_fig
+                pending_fig = None
+                main = f['title'] or f['caption'] or []
+                notes = (f['caption'] or []) if f['title'] else []
+                if f['note']:
+                    if notes:
+                        notes = notes + [Tok('t', ' ')]
+                    elif f['title'] or f['caption']:
+                        pass
+                    notes = notes + f['note']
+                f['page'].blocks[f['idx']] = self.figure(f['page'], f['rid'], main, notes)
+
+        def flush_title():
+            nonlocal pending_title
+            if pending_title is not None:
+                t = pending_title
+                pending_title = None
+                r = Renderer(page)
+                hid = page.unique_id(plain_text(t))
+                add_block('#### %s {#%s}' % (join_pieces(r.render(t, strip_bold=True), 'md'), hid))
+                warn('heading 5 %r not followed by an image (kept as ####)' % plain_text(t))
+
         def new_page(kind, order, ch, cht, heading, slug, title):
-            nonlocal page
+            nonlocal page, pending_title
             flush_list()
             flush_label()
+            flush_fig()
+            if pending_title is not None and page is not None:
+                flush_title()
             page = Page(kind, order, ch, cht, heading, slug, title)
             self.pages.append(page)
 
@@ -711,14 +880,36 @@ class Converter:
                 warn('unhandled body element %s' % el.tag)
                 continue
             style = dx.style(el)
-            if not started and style != 'heading 1':
-                continue
+            if not started:
+                if en:
+                    if ''.join(t.text or '' for t in el.iter(W + 't')).strip() != P['intro_heading']:
+                        continue
+                elif style != 'heading 1':
+                    continue
             toks_raw = dx.para_tokens(el, dx.rels)
-            text = ''.join(t.text for t in toks_raw if t.kind == 't').strip()
+            text = plain_text(toks_raw)      # includes text inside links
             has_img = any(t.kind == 'img' for t in toks_raw)
 
             # ---- structure headings
-            if style in ('heading 1', 'heading 2'):
+            if en and style == 'Normal' and (text == P['intro_heading'] or re.match(r'^Chapter\s+\d+\s*:', text)):
+                started = True
+                text = re.sub(r'\s+', ' ', text)
+                if text == P['intro_heading']:
+                    chapter, chapter_title, sec_k = 0, text, 0
+                    new_page('section', 0, 0, text, text, P['intro_slug'], '%s – %s' % (text, SITE_TITLE))
+                else:
+                    m = re.match(r'^Chapter\s+(\d+)\s*:\s*(.+)$', text)
+                    chapter, chapter_title, sec_k = int(m.group(1)), m.group(2).strip(), 0
+                    heading = P['chapter_label'] % (chapter, chapter_title)
+                    new_page('chapter', chapter * 100, chapter, chapter_title, heading,
+                             P['chapter_slug'] % chapter, '%s – %s' % (heading, SITE_TITLE))
+                continue
+            if en and has_img:
+                style = 'Normal'
+            if en and started and chapter > 0 and style == 'Normal' and text in P['promote']:
+                PROFILE_USES[('promote', text)] = PROFILE_USES.get(('promote', text), 0) + 1
+                style = 'heading 2'
+            if style in ('heading 1', 'heading 2') and not (en and style == 'heading 2' and chapter == 0):
                 if not text:
                     if any(t.kind in ('img', 'fn', 'link') for t in toks_raw):
                         warn('empty %s paragraph %d has content' % (style, idx))
@@ -726,6 +917,9 @@ class Converter:
                 if any(t.kind in ('fn', 'img') for t in toks_raw):
                     warn('%s %r contains footnote/image' % (style, text))
                 text = re.sub(r'\s+', ' ', text)
+                if style == 'heading 2' and text in P['heading_overrides']:
+                    PROFILE_USES[('heading', text)] = PROFILE_USES.get(('heading', text), 0) + 1
+                    text = P['heading_overrides'][text]
                 if style == 'heading 1':
                     started = True
                     if text == 'Giriş':
@@ -742,14 +936,28 @@ class Converter:
                 else:
                     if not started:
                         continue
+                    if en and demote_h2:
+                        demote_h2 = False
+                        flush_list(); flush_label(); flush_fig(); flush_title()
+                        add_block('## %s {#%s}' % (esc_md(text), page.unique_id(text)))
+                        continue
+                    if en:
+                        j = idx + 1
+                        while j < len(children) and children[j].tag == W + 'p' and not \
+                                ''.join(t.text or '' for t in children[j].iter(W + 't')).strip():
+                            j += 1
+                        if j < len(children) and children[j].tag == W + 'p' and dx.style(children[j]) == 'heading 2' \
+                                and ''.join(t.text or '' for t in children[j].iter(W + 't')).strip():
+                            warn('heading 2 %r is followed directly by another heading 2: the next one becomes a ## sub-heading on this page' % text)
+                            demote_h2 = True
                     sec_k += 1
-                    if text in OVERRIDES:
-                        slug, title = OVERRIDES[text]
+                    if text in P['overrides']:
+                        slug, title = P['overrides'][text]
                         title = title or text
                     else:
-                        if text.startswith('Örnek:'):
-                            warn('Örnek heading without override: %r' % text)
-                        slug, title = slugify(text, max_words=4), text
+                        if text.startswith('Örnek:') or text.startswith('Case Study:'):
+                            warn('prefixed heading without override: %r' % text)
+                        slug, title = slugify(text, max_words=P['max_words']), text
                     key = (chapter, slug)
                     if key in self.slugs_seen:
                         warn('duplicate slug %s in chapter %d' % (slug, chapter))
@@ -759,19 +967,39 @@ class Converter:
                 continue
             if not started:
                 continue
+            if not text and not has_img and any(t.kind == 'hr' for t in toks_raw):
+                flush_list(); flush_label(); flush_fig(); flush_title()
+                add_block('* * *')
+                continue
             if not text and not has_img:
                 continue
 
             toks = clean_edges(toks_raw)
             has_numpr = el.find(W + 'pPr/' + W + 'numPr') is not None
 
+            if en:
+                if style == 'heading 6' and not has_img and pending_fig is not None and pending_fig['caption'] is None:
+                    pending_fig['caption'] = toks
+                    continue
+                flush_fig()
+                if pending_title is not None and not has_img:
+                    flush_title()
+
             if not (has_numpr and style == 'Normal'):
                 flush_list()
 
+            if en and style == 'heading 6':
+                warn('heading 6 %r without a preceding image (kept as a paragraph)' % plain_text(toks))
+                style = 'Normal'
+
             # ---- headings 3..6
-            if style in ('heading 3', 'heading 4', 'heading 5', 'heading 6'):
+            if style in ('heading 2', 'heading 3', 'heading 4', 'heading 5', 'heading 6'):
                 ptext = plain_text(toks)
                 r = Renderer(page)
+                if en and style == 'heading 5':
+                    flush_label()
+                    pending_title = toks
+                    continue
                 if style == 'heading 6':
                     flush_label()
                     if pending_caption is not None:
@@ -783,7 +1011,10 @@ class Converter:
                     pending_label = toks
                     continue
                 flush_label()
-                level = {'heading 3': '##', 'heading 4': '###', 'heading 5': '####'}[style]
+                if en and chapter == 0:
+                    level = {'heading 2': '##', 'heading 3': '###', 'heading 4': '####'}[style]
+                else:
+                    level = {'heading 3': '##', 'heading 4': '###', 'heading 5': '####'}[style]
                 hid = page.unique_id(ptext)
                 md = join_pieces(r.render(toks, strip_bold=True), 'md')
                 add_block('%s %s {#%s}' % (level, md, hid))
@@ -796,6 +1027,24 @@ class Converter:
                 warn('unhandled style %r (paragraph %d): %r' % (style, idx, text[:50]))
 
             # ---- images
+            if has_img and en:
+                flush_list(); flush_label()
+                imgs = [t for t in toks_raw if t.kind == 'img']
+                rest = clean_edges([t for t in toks_raw if t.kind != 'img'])
+                if rest and not re.search(r'\w', plain_text(rest)):
+                    warn('punctuation-only text %r next to an image on page %s dropped' % (plain_text(rest), page.slug))
+                    rest = []
+                for n, im in enumerate(imgs):
+                    page.blocks.append(None)
+                    f = dict(page=page, idx=len(page.blocks) - 1, rid=im.rid, title=pending_title if n == 0 else None,
+                             caption=None, note=rest if n == len(imgs) - 1 else [])
+                    if n == len(imgs) - 1:
+                        pending_fig = f
+                    else:
+                        pending_fig = f
+                        flush_fig()
+                pending_title = None
+                continue
             if has_img:
                 flush_list(); flush_label()
                 imgs = [t for t in toks_raw if t.kind == 'img']
@@ -836,7 +1085,9 @@ class Converter:
             page.stats['links'] += sum(1 for t in toks if t.kind == 'link')
             add_block(md, plain)
 
-        flush_list(); flush_label()
+        flush_list(); flush_label(); flush_fig()
+        if pending_title is not None:
+            flush_title()
         if pending_caption is not None:
             warn('dangling caption %r' % plain_text(pending_caption))
         return self.pages
@@ -917,9 +1168,15 @@ def sweep(dirpath, new_files):
 
 
 def main(argv):
-    if len(argv) != 4:
+    argv = list(argv)
+    book = 'tr'
+    if len(argv) > 2 and argv[1] == '--book':
+        book = argv[2]
+        del argv[1:3]
+    if len(argv) != 4 or book not in PROFILES:
         print(__doc__)
         return 2
+    use_profile(book)
     docx, out_dir, img_dir = argv[1:]
     os.makedirs(img_dir, exist_ok=True)
     os.makedirs(out_dir, exist_ok=True)
@@ -931,10 +1188,14 @@ def main(argv):
             if name and os.path.isfile(os.path.join(img_dir, name)):
                 os.remove(os.path.join(img_dir, name))
     conv.run()
+    files = conv.write()
+    for kind, items in (('promote', P['promote']), ('heading', P['heading_overrides'])):
+        for it in items:
+            if PROFILE_USES.get((kind, it), 0) != 1:
+                raise SystemExit('%s rule %r must match exactly once; got %d' % (kind, it, PROFILE_USES.get((kind, it), 0)))
     bad = {k: v for k, v in CORRECTION_COUNTS.items() if v != 1}
     if bad:
         raise SystemExit('corrections must match exactly once; got %r' % bad)
-    files = conv.write()
     sweep(out_dir, files)
     sweep(img_dir, conv.img_files)
     tot = {k: sum(p.stats[k] for p in conv.pages) for k in ('figures', 'h3', 'links', 'fn_defs')}
