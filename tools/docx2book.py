@@ -1,0 +1,916 @@
+#!/usr/bin/env python3
+"""docx2book.py - convert the "Sorularla Web3" manuscript (.docx) into Jekyll collection pages.
+
+Usage:  python3 -I tools/docx2book.py <docx> <out_dir> <img_dir>
+        e.g. tools/docx2book.py "Sorularla Web3 - DRAFT 03 - pre-translation.docx" \
+                 _sorularla_web3 assets/books/sorularla-web3
+
+Only the Python standard library is used (zipfile + xml.etree); images are resized with macOS `sips`.
+The script is deterministic and re-runnable: it rewrites the files it generated earlier and removes
+stale ones listed in the manifest `<dir>/.generated` of the previous run. Other files are never touched.
+
+Mapping (docx style name -> output)
+  everything before the first non-empty "heading 1"  -> skipped (front matter, TOC)
+  heading 1  "Giriş"                 -> page 000-giris.md             (kind: section, chapter 0)
+  heading 1  "Bölüm N: Title"        -> page N00-bolum-N.md           (kind: chapter; body = intro text)
+  heading 2  (non-empty)             -> page NKK-<slug>.md            (kind: section, one per heading 2)
+  heading 3  -> "## text {#id}"
+  heading 4  -> short label ending in ":" becomes a bold run-in "**Label:** paragraph"; others "### text {#id}"
+  heading 5  -> "#### text {#id}"
+  heading 6  -> figure caption for the next image paragraph (or table-figure)
+  Normal     -> paragraph; runs: bold "**", italic "*" (merged, edge whitespace moved outside the markers)
+  w:numPr    -> Markdown list (bullet or decimal according to numbering.xml, nesting by ilvl)
+  hyperlink  -> [text](url) from the rels file (external targets); adjacent links to the same URL are merged
+  footnotes  -> kramdown footnotes, renumbered from 1 per page, definitions at the end of the page
+  drawing    -> <figure><img ... width height loading="lazy"><figcaption>..</figcaption></figure>
+                (text that follows the image inside the same paragraph, usually a "Kaynak:" note, goes into
+                the figcaption inside <span class="fig-note">)
+  the table  -> a 1-column table that holds an image plus a caption row is emitted as a figure
+  empty paragraphs, page breaks, the TOC field and empty headings are dropped.
+Text containing "{{" or "{%" is wrapped in {% raw %}...{% endraw %} so Liquid cannot touch it.
+"""
+import html
+import os
+import re
+import struct
+import subprocess
+import sys
+import zipfile
+import xml.etree.ElementTree as ET
+
+W = '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}'
+R = '{http://schemas.openxmlformats.org/officeDocument/2006/relationships}'
+A = '{http://schemas.openxmlformats.org/drawingml/2006/main}'
+PKG = '{http://schemas.openxmlformats.org/package/2006/relationships}'
+
+SITE_TITLE = 'Sorularla Web3'
+URL_BASE = '/Sorularla_Web3'
+IMG_URL = '/assets/books/sorularla-web3'
+MAX_IMG_W = 1200
+
+# ----------------------------------------------------------------------------------------------
+# manual slug / SEO-title overrides: heading 2 text -> (slug, title without the " – Sorularla Web3" suffix)
+OVERRIDES = {
+    'Örnek: Modüler blokzincir - Celestia': ('celestia', 'Celestia: Modüler blokzincir'),
+    'Örnek: Bitcoin üzerine ikinci seviye çözümler': ('bitcoin-ikinci-seviye', 'Bitcoin üzerine ikinci seviye çözümler'),
+    'Örnek: PayPal’ın stabil parası PYUSD': ('pyusd', 'PYUSD: PayPal’ın stabil parası'),
+    'Örnek: Stabil paralar sokağına yeni taşınan çocuk: Ethena': ('ethena', 'Ethena: Stabil paralar sokağına yeni taşınan çocuk'),
+    'Örnek: 2022 krizi – I. perde: UST Terra’nın hikayesi': ('terra-ust', 'UST Terra’nın hikayesi: 2022 krizi, I. perde'),
+    'Örnek: 2022 ABD krizi – II. perde : 3AC’nin iflası': ('3ac-iflasi', '3AC’nin iflası: 2022 ABD krizi, II. perde'),
+    'Örnek: 2022 ABD krizi – III. perde : FTX’in batışı': ('ftx-batisi', 'FTX’in batışı: 2022 ABD krizi, III. perde'),
+    'Örnek: 2023 ABD bankacılık krizi': ('2023-abd-bankacilik-krizi', '2023 ABD bankacılık krizi'),
+    'Örnek: İyilik için Web3 - Crypto Climate Coalition': ('crypto-climate-coalition', 'Crypto Climate Coalition: İyilik için Web3'),
+    'Örnek: DeSci - Vibe DAO': ('vibe-dao', 'Vibe DAO: DeSci'),
+    'Örnek: BlackRock’un token hamlesi': ('blackrock-token-hamlesi', 'BlackRock’un token hamlesi'),
+    'Örnek: ABD’de bir ev tokenleştirmesi': ('abd-ev-tokenlestirmesi', 'ABD’de bir ev tokenleştirmesi'),
+    'Kısa vade beklentiler (2025-2026)': ('kisa-vade-beklentiler', None),
+}
+
+TR = str.maketrans({'ç': 'c', 'Ç': 'c', 'ğ': 'g', 'Ğ': 'g', 'ı': 'i', 'İ': 'i', 'ö': 'o', 'Ö': 'o',
+                    'ş': 's', 'Ş': 's', 'ü': 'u', 'Ü': 'u', 'â': 'a', 'Â': 'a', 'î': 'i', 'Î': 'i',
+                    'û': 'u', 'Û': 'u'})
+
+
+def slugify(text, max_words=None, max_len=None):
+    t = text.translate(TR).lower()
+    t = re.sub(r"[’'‘`´]", '', t)          # apostrophes are dropped, not turned into hyphens
+    t = re.sub(r'[^a-z0-9]+', '-', t).strip('-')
+    if max_words:
+        t = '-'.join(t.split('-')[:max_words])
+    if max_len and len(t) > max_len:
+        t = t[:max_len].rsplit('-', 1)[0] if '-' in t[:max_len] else t[:max_len]
+    return t
+
+
+WARNINGS = []
+
+
+def warn(msg):
+    WARNINGS.append(msg)
+    print('WARN:', msg, file=sys.stderr)
+
+
+# ----------------------------------------------------------------------------------------------
+# inline model: a Tok is a tuple-like object; rendering yields pieces with a markdown and an html form
+class Tok:
+    __slots__ = ('kind', 'text', 'b', 'i', 'url', 'inner', 'fid', 'rid')
+
+    def __init__(self, kind, text='', b=False, i=False, url=None, inner=None, fid=None, rid=None):
+        self.kind, self.text, self.b, self.i = kind, text, b, i
+        self.url, self.inner, self.fid, self.rid = url, inner or [], fid, rid
+
+
+class Piece:
+    __slots__ = ('md', 'html', 'emph')
+
+    def __init__(self, md, htm, emph=False):
+        self.md, self.html, self.emph = md, htm, emph
+
+
+def esc_md(text):
+    out = []
+    for k, c in enumerate(text):
+        if c in '\\*_`[]<{}|':
+            out.append('\\' + c)
+        elif c == '&':
+            out.append('\\&' if re.match(r'&(#\w+|\w+);', text[k:]) else '&')
+        elif c == '$' and text[k:k + 2] == '$$':
+            out.append('\\$')
+        else:
+            out.append(c)
+    return ''.join(out)
+
+
+def esc_html(text):
+    return html.escape(text, quote=False)
+
+
+def md_url(u):
+    for a, b in ((' ', '%20'), ('(', '%28'), (')', '%29'), ('<', '%3C'), ('>', '%3E'), ('"', '%22'), ('\\', '%5C')):
+        u = u.replace(a, b)
+    return u
+
+
+def line_start_escape(s):
+    if not s:
+        return s
+    if s[0] in '#>-+|:~=':
+        return '\\' + s
+    m = re.match(r'^(\d+)([.)])(\s|$)', s)
+    if m:
+        return m.group(1) + '\\' + s[len(m.group(1)):]
+    return s
+
+
+def has_ws_only(t):
+    return t.kind == 't' and t.text.strip() == ''
+
+
+class Renderer:
+    """Turns token lists into markdown/html. ctx supplies footnote numbering."""
+
+    def __init__(self, ctx):
+        self.ctx = ctx
+
+    # -- helpers ------------------------------------------------------------------------------
+    @staticmethod
+    def normalize(toks, strip_bold=False):
+        out = []
+        for t in toks:
+            if t.kind == 't':
+                t = Tok('t', t.text, False if strip_bold else t.b, t.i)
+                if t.text.strip() == '':
+                    t.b = t.i = False
+            if out and t.kind == 't' and out[-1].kind == 't' and (out[-1].b, out[-1].i) == (t.b, t.i):
+                out[-1] = Tok('t', out[-1].text + t.text, t.b, t.i)
+            elif t.kind == 'link' and strip_bold:
+                t = Tok('link', url=t.url, inner=[Tok(x.kind, x.text, False, x.i, fid=x.fid) if x.kind == 't' else x for x in t.inner])
+                out.append(t)
+            elif out and t.kind == 'link' and out[-1].kind == 'link' and out[-1].url == t.url:
+                out[-1] = Tok('link', url=t.url, inner=out[-1].inner + t.inner)
+            else:
+                out.append(t)
+        return out
+
+    @staticmethod
+    def eff(t, flag):
+        if t.kind == 't':
+            return getattr(t, flag)
+        if t.kind == 'link':
+            inner = [x for x in t.inner if x.kind == 't' and x.text.strip()]
+            return bool(inner) and all(getattr(x, flag) for x in inner) and \
+                all(x.kind in ('t', 'fn') for x in t.inner)
+        return False
+
+    @staticmethod
+    def unflag(t, flag):
+        if t.kind != 'link':
+            return t
+        inner = [Tok('t', x.text, False if flag == 'b' else x.b, False if flag == 'i' else x.i) if x.kind == 't' else x
+                 for x in t.inner]
+        return Tok('link', url=t.url, inner=inner)
+
+    # -- main ---------------------------------------------------------------------------------
+    def render(self, toks, strip_bold=False):
+        toks = self.normalize(toks, strip_bold)
+        return self._groups(toks, 'b')
+
+    def _groups(self, toks, flag):
+        pieces = []
+        k = 0
+        while k < len(toks):
+            on = self.eff(toks[k], flag)
+            j = k
+            while j < len(toks) and self.eff(toks[j], flag) == on:
+                j += 1
+            seg = toks[k:j]
+            if on:
+                pieces.extend(self._emph(seg, flag))
+            elif flag == 'b':
+                pieces.extend(self._groups(seg, 'i'))
+            else:
+                pieces.extend(self._plain(seg))
+            k = j
+        return pieces
+
+    def _emph(self, seg, flag):
+        # move edge whitespace out of the markers
+        lead = trail = ''
+        seg = list(seg)
+        while seg and has_ws_only(seg[0]):
+            lead += seg.pop(0).text
+        while seg and has_ws_only(seg[-1]):
+            trail = seg.pop().text + trail
+        if seg and seg[0].kind == 't':
+            s = seg[0].text.lstrip()
+            lead += seg[0].text[:len(seg[0].text) - len(s)]
+            seg[0] = Tok('t', s, seg[0].b, seg[0].i)
+        if seg and seg[-1].kind == 't':
+            s = seg[-1].text.rstrip()
+            trail = seg[-1].text[len(s):] + trail
+            seg[-1] = Tok('t', s, seg[-1].b, seg[-1].i)
+        seg = [self.unflag(t, flag) for t in seg]
+        pieces = []
+        if lead:
+            pieces.append(Piece(esc_md(lead), esc_html(lead)))
+        if seg:
+            if flag == 'b':
+                inner = self._groups(seg, 'i')
+                tag, mk = 'strong', '**'
+            else:
+                inner = self._plain(seg)
+                tag, mk = 'em', '*'
+            imd = join_pieces(inner, 'md')
+            ihtml = join_pieces(inner, 'html')
+            if imd.startswith('*') or imd.endswith('*'):
+                md = '<%s>%s</%s>' % (tag, ihtml, tag)
+            else:
+                md = mk + imd + mk
+            pieces.append(Piece(md, '<%s>%s</%s>' % (tag, ihtml, tag), True))
+        if trail:
+            pieces.append(Piece(esc_md(trail), esc_html(trail)))
+        return pieces
+
+    def _plain(self, seg):
+        out = []
+        for t in seg:
+            if t.kind == 't':
+                out.append(Piece(esc_md(t.text), esc_html(t.text)))
+            elif t.kind == 'br':
+                out.append(Piece('<br>', '<br>'))
+            elif t.kind == 'fn':
+                n = self.ctx.footnote_number(t.fid)
+                out.append(Piece('[^%d]' % n, ''))
+            elif t.kind == 'link':
+                inner = self._groups(self.normalize(t.inner), 'b')
+                imd = join_pieces(inner, 'md')
+                ihtml = join_pieces(inner, 'html')
+                lead = imd[:len(imd) - len(imd.lstrip())]
+                trail = imd[len(imd.rstrip()):]
+                imd, ihtml = imd.strip(), ihtml.strip()
+                if not imd:
+                    warn('link with empty text: %s' % t.url)
+                    imd, ihtml = esc_md(t.url), esc_html(t.url)
+                out.append(Piece(lead + '[%s](%s)' % (imd, md_url(t.url)) + trail,
+                                 lead + '<a href="%s">%s</a>' % (html.escape(t.url, quote=True), ihtml) + trail))
+        return out
+
+
+def join_pieces(pieces, form):
+    acc = ''
+    for p in pieces:
+        s = p.md if form == 'md' else p.html
+        if form == 'md' and p.emph and acc.endswith('*') and s.startswith('*'):
+            s = p.html
+        acc += s
+    return acc
+
+
+def plain_text(toks):
+    out = []
+    for t in toks:
+        if t.kind == 't':
+            out.append(t.text)
+        elif t.kind == 'link':
+            out.append(plain_text(t.inner))
+        elif t.kind == 'br':
+            out.append(' ')
+    return re.sub(r'\s+', ' ', ''.join(out)).strip()
+
+
+# ----------------------------------------------------------------------------------------------
+class Docx:
+    def __init__(self, path):
+        self.z = zipfile.ZipFile(path)
+        st = ET.fromstring(self.z.read('word/styles.xml'))
+        self.styles = {s.get(W + 'styleId'): s.find(W + 'name').get(W + 'val')
+                       for s in st.iter(W + 'style') if s.find(W + 'name') is not None}
+        self.doc = ET.fromstring(self.z.read('word/document.xml'))
+        self.body = self.doc.find(W + 'body')
+        self.rels = self._rels('word/_rels/document.xml.rels')
+        self.fn_rels = self._rels('word/_rels/footnotes.xml.rels')
+        fx = ET.fromstring(self.z.read('word/footnotes.xml'))
+        self.footnotes = {}
+        for f in fx.findall(W + 'footnote'):
+            if f.get(W + 'type') in ('separator', 'continuationSeparator', 'continuationNotice'):
+                continue
+            self.footnotes[int(f.get(W + 'id'))] = f
+        self.numfmt = self._numbering()
+
+    def _rels(self, name):
+        d = {}
+        if name in self.z.namelist():
+            for r in ET.fromstring(self.z.read(name)).findall(PKG + 'Relationship'):
+                d[r.get('Id')] = (r.get('Target'), r.get('TargetMode'), r.get('Type').rsplit('/', 1)[-1])
+        return d
+
+    def _numbering(self):
+        nx = ET.fromstring(self.z.read('word/numbering.xml'))
+        ns = '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}'
+        absfmt = {}
+        for an in nx.iter(ns + 'abstractNum'):
+            lv = {}
+            for l in an.findall(ns + 'lvl'):
+                nf = l.find(ns + 'numFmt')
+                lv[int(l.get(ns + 'ilvl'))] = nf.get(ns + 'val') if nf is not None else 'bullet'
+            absfmt[an.get(ns + 'abstractNumId')] = lv
+        res = {}
+        for n in nx.iter(ns + 'num'):
+            res[n.get(ns + 'numId')] = absfmt[n.find(ns + 'abstractNumId').get(ns + 'val')]
+        return res
+
+    def style(self, p):
+        ps = p.find(W + 'pPr/' + W + 'pStyle')
+        return self.styles.get(ps.get(W + 'val'), 'Normal') if ps is not None else 'Normal'
+
+    # -- inline extraction --------------------------------------------------------------------
+    @staticmethod
+    def flag(rpr, name):
+        if rpr is None:
+            return False
+        e = rpr.find(W + name)
+        return e is not None and e.get(W + 'val') not in ('0', 'false')
+
+    def run_tokens(self, r, rels):
+        rpr = r.find(W + 'rPr')
+        b, i = self.flag(rpr, 'b'), self.flag(rpr, 'i')
+        toks = []
+        buf = ''
+        for ch in r:
+            tag = ch.tag
+            if tag == W + 't':
+                buf += ch.text or ''
+            elif tag == W + 'tab':
+                buf += ' '
+            elif tag == W + 'br':
+                if ch.get(W + 'type') in (None, 'textWrapping'):
+                    if buf:
+                        toks.append(Tok('t', buf, b, i)); buf = ''
+                    toks.append(Tok('br'))
+            elif tag == W + 'footnoteReference':
+                if buf:
+                    toks.append(Tok('t', buf, b, i)); buf = ''
+                toks.append(Tok('fn', fid=int(ch.get(W + 'id'))))
+            elif tag == W + 'drawing':
+                if buf:
+                    toks.append(Tok('t', buf, b, i)); buf = ''
+                blip = ch.find('.//' + A + 'blip')
+                toks.append(Tok('img', rid=blip.get(R + 'embed')))
+            elif tag in (W + 'rPr', W + 'footnoteRef', W + 'lastRenderedPageBreak'):
+                pass
+            else:
+                warn('unhandled run child %s' % tag)
+        if buf:
+            toks.append(Tok('t', buf, b, i))
+        return toks
+
+    def para_tokens(self, p, rels):
+        toks = []
+        for ch in p:
+            if ch.tag == W + 'r':
+                toks.extend(self.run_tokens(ch, rels))
+            elif ch.tag == W + 'hyperlink':
+                rid = ch.get(R + 'id')
+                if rid is None:
+                    warn('internal anchor link %r: %r' % (ch.get(W + 'anchor'), ''.join(t.text or '' for t in ch.iter(W + 't'))[:60]))
+                    for r in ch.findall(W + 'r'):
+                        toks.extend(self.run_tokens(r, rels))
+                    continue
+                target, mode, _ = rels[rid]
+                inner = []
+                for r in ch.findall(W + 'r'):
+                    inner.extend(self.run_tokens(r, rels))
+                toks.append(Tok('link', url=target, inner=inner))
+            elif ch.tag in (W + 'pPr', W + 'bookmarkStart', W + 'bookmarkEnd', W + 'proofErr'):
+                pass
+            else:
+                warn('unhandled paragraph child %s' % ch.tag)
+        return toks
+
+
+def clean_edges(toks):
+    """collapse whitespace runs; strip paragraph edges."""
+    toks = [Tok(t.kind, re.sub(r'[ \t\r\n ]+', ' ', t.text) if t.kind == 't' else t.text,
+                t.b, t.i, t.url, t.inner, t.fid, t.rid) for t in toks]
+    # collapse across token boundaries
+    prev_space = True
+    for t in toks:
+        if t.kind == 't':
+            if prev_space and t.text.startswith(' '):
+                t.text = t.text.lstrip(' ')
+            prev_space = t.text.endswith(' ') if t.text else prev_space
+        elif t.kind == 'br':
+            prev_space = True
+        else:
+            prev_space = False
+    while toks and ((toks[0].kind == 't' and not toks[0].text.strip()) or toks[0].kind == 'br'):
+        toks.pop(0)
+    while toks and ((toks[-1].kind == 't' and not toks[-1].text.strip()) or toks[-1].kind == 'br'):
+        toks.pop()
+    if toks and toks[0].kind == 't':
+        toks[0].text = toks[0].text.lstrip()
+    if toks and toks[-1].kind == 't':
+        toks[-1].text = toks[-1].text.rstrip()
+    return toks
+
+
+# ----------------------------------------------------------------------------------------------
+class Page:
+    def __init__(self, kind, order, chapter, chapter_title, heading, slug, title):
+        self.kind, self.order, self.chapter = kind, order, chapter
+        self.chapter_title, self.heading, self.slug, self.title = chapter_title, heading, slug, title
+        self.blocks = []        # markdown blocks
+        self.plain = []         # plain text of ordinary paragraphs (for description)
+        self.fn_ids = []        # docx footnote ids in order of reference
+        self.heading_ids = set()
+        self.img_n = 0
+        self.stats = {'figures': 0, 'h3': 0, 'links': 0, 'fn_defs': 0}
+        self.captionless = []
+
+    def footnote_number(self, fid):
+        if fid in self.fn_ids:
+            warn('footnote %d referenced twice on page %s' % (fid, self.slug))
+            return self.fn_ids.index(fid) + 1
+        self.fn_ids.append(fid)
+        return len(self.fn_ids)
+
+    def unique_id(self, text):
+        base = slugify(text, max_len=80) or 'baslik'
+        if not base[0].isalpha():       # kramdown only accepts {#id} starting with a letter
+            base = 'b-' + base
+        cand, n = base, 2
+        while cand in self.heading_ids:
+            cand = '%s-%d' % (base, n)
+            n += 1
+        self.heading_ids.add(cand)
+        return cand
+
+    @property
+    def filename(self):
+        return '%03d-%s.md' % (self.order, self.slug)
+
+    @property
+    def permalink(self):
+        if self.kind == 'chapter':
+            return '%s/bolum-%d/' % (URL_BASE, self.chapter)
+        if self.chapter == 0:
+            return '%s/giris/' % URL_BASE
+        return '%s/bolum-%d/%s/' % (URL_BASE, self.chapter, self.slug)
+
+
+def yq(s):
+    return '"' + s.replace('\\', '\\\\').replace('"', '\\"') + '"'
+
+
+def make_description(page):
+    text = ' '.join(page.plain[:6])
+    text = re.sub(r'\s+', ' ', text).strip()
+    if not text:
+        return None
+    sents = re.split(r'(?<=[.!?])\s+(?=[A-ZÇĞİÖŞÜ“‘"\'(0-9])', text)
+    if len(sents) > 1 and len(sents[0]) < 15:      # drop a bare greeting such as "Merhaba!"
+        sents = sents[1:]
+    out = ''
+    for s in sents:
+        cand = (out + ' ' + s).strip()
+        if len(cand) <= 160:
+            out = cand
+            if len(out) >= 110:
+                break
+        else:
+            break
+    if not out:
+        cut = text[:157]
+        cut = cut.rsplit(' ', 1)[0] if ' ' in cut else cut
+        out = cut.rstrip(' ,;:–-') + '…'
+    return out
+
+
+def front_matter(page):
+    desc = make_description(page)
+    if not desc:
+        desc = 'Sorularla Web3 kitabının %d. bölümü: %s.' % (page.chapter, page.chapter_title)
+    lines = ['---', 'layout: book-section', 'kind: ' + page.kind,
+             'title: ' + yq(page.title), 'heading: ' + yq(page.heading), 'chapter: %d' % page.chapter,
+             'chapter_title: ' + yq(page.chapter_title), 'order: %d' % page.order,
+             'permalink: ' + page.permalink, 'description: ' + yq(desc), '---', '']
+    return '\n'.join(lines)
+
+
+# ----------------------------------------------------------------------------------------------
+def img_dims(path):
+    with open(path, 'rb') as f:
+        d = f.read()
+    if d[:8] == b'\x89PNG\r\n\x1a\n':
+        return struct.unpack('>II', d[16:24])
+    if d[:2] == b'\xff\xd8':
+        k = 2
+        while k < len(d):
+            if d[k] != 0xFF:
+                k += 1
+                continue
+            m = d[k + 1]
+            if m in (0xD8, 0x01) or 0xD0 <= m <= 0xD7:
+                k += 2
+                continue
+            ln = struct.unpack('>H', d[k + 2:k + 4])[0]
+            if m in (0xC0, 0xC1, 0xC2, 0xC3, 0xC5, 0xC6, 0xC7, 0xC9, 0xCA, 0xCB, 0xCD, 0xCE, 0xCF):
+                h, w = struct.unpack('>HH', d[k + 5:k + 9])
+                return w, h
+            k += 2 + ln
+    raise ValueError('cannot read image size: ' + path)
+
+
+class Converter:
+    def __init__(self, docx_path, out_dir, img_dir):
+        self.dx = Docx(docx_path)
+        self.out_dir, self.img_dir = out_dir, img_dir
+        self.pages = []
+        self.img_in_bytes = 0
+        self.img_out_bytes = 0
+        self.img_files = []
+        self.captionless = []
+        self.report_links_raw = 0
+        self.slugs_seen = {}
+
+    # -- images -------------------------------------------------------------------------------
+    def emit_image(self, page, rid):
+        target = self.dx.rels[rid][0]
+        src = 'word/' + target
+        data = self.dx.z.read(src)
+        ext = os.path.splitext(target)[1].lower()
+        page.img_n += 1
+        name = '%03d-%d%s' % (page.order, page.img_n, ext)
+        dest = os.path.join(self.img_dir, name)
+        with open(dest, 'wb') as f:
+            f.write(data)
+        self.img_in_bytes += len(data)
+        w, h = img_dims(dest)
+        if w > MAX_IMG_W:
+            subprocess.run(['sips', '--resampleWidth', str(MAX_IMG_W), dest], check=True,
+                           stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+        if ext in ('.jpg', '.jpeg'):
+            tmp = dest + '.tmp'
+            subprocess.run(['sips', '-s', 'format', 'jpeg', '-s', 'formatOptions', '80', dest, '--out', tmp],
+                           check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+            if os.path.getsize(tmp) < os.path.getsize(dest):
+                os.replace(tmp, dest)
+            else:
+                os.remove(tmp)
+        w, h = img_dims(dest)
+        self.img_out_bytes += os.path.getsize(dest)
+        self.img_files.append(name)
+        return name, w, h
+
+    def figure(self, page, rid, caption_toks, note_toks):
+        name, w, h = self.emit_image(page, rid)
+        r = Renderer(page)
+        cap_plain = plain_text(caption_toks)
+        if caption_toks:
+            cap_html = join_pieces(r.render(caption_toks, strip_bold=True), 'html')
+        else:
+            cap_html = ''
+        if not cap_plain:
+            alt = '%s – şekil' % re.sub(r' – %s$' % SITE_TITLE, '', page.title)
+            page.captionless.append((page.filename, name, alt))
+        else:
+            alt = cap_plain
+        note_html = join_pieces(r.render(note_toks), 'html') if note_toks else ''
+        if any(t.kind == 'fn' for t in caption_toks + note_toks):
+            warn('footnote reference inside a figure caption on page %s' % page.slug)
+        cap = ''
+        if cap_html and note_html:
+            cap = '<figcaption>%s <span class="fig-note">%s</span></figcaption>' % (cap_html, note_html)
+        elif cap_html:
+            cap = '<figcaption>%s</figcaption>' % cap_html
+        elif note_html:
+            cap = '<figcaption><span class="fig-note">%s</span></figcaption>' % note_html
+        page.stats['figures'] += 1
+        page.stats['links'] += sum(1 for t in caption_toks + note_toks if t.kind == 'link')
+        return ('<figure><img src="%s/%s" alt="%s" width="%d" height="%d" loading="lazy">%s</figure>'
+                % (IMG_URL, name, html.escape(alt, quote=True), w, h, cap))
+
+    # -- conversion ---------------------------------------------------------------------------
+    def run(self):
+        dx = self.dx
+        page = None
+        chapter, chapter_title = 0, ''
+        sec_k = 0
+        pending_label = None     # Tok list of a run-in label waiting for the next paragraph
+        pending_caption = None   # Tok list
+        list_items = []          # current list: (ilvl, ordered, toks)
+        started = False
+
+        def flush_list():
+            nonlocal list_items
+            if not list_items:
+                return
+            counters = {}
+            lines = []
+            r = Renderer(page)
+            plain_parts = []
+            for ilvl, ordered, toks, _nid in list_items:
+                toks = clean_edges(toks)
+                for lv in [k for k in counters if k > ilvl]:
+                    del counters[lv]
+                counters[ilvl] = counters.get(ilvl, 0) + 1
+                marker = '%d. ' % counters[ilvl] if ordered else '- '
+                text = line_start_escape(join_pieces(r.render(toks), 'md'))
+                lines.append(' ' * (4 * ilvl) + marker + text)
+                page.stats['links'] += sum(1 for t in toks if t.kind == 'link')
+            add_block('\n'.join(lines))
+            list_items = []
+
+        def add_block(md, plain=None):
+            if '{{' in md or '{%' in md:
+                md = '{% raw %}' + md + '{% endraw %}'
+            page.blocks.append(md)
+            if plain:
+                page.plain.append(plain)
+
+        def flush_label():
+            nonlocal pending_label
+            if pending_label is not None:
+                r = Renderer(page)
+                add_block('**%s**' % join_pieces(r.render(pending_label, strip_bold=True), 'md').rstrip())
+                pending_label = None
+
+        def new_page(kind, order, ch, cht, heading, slug, title):
+            nonlocal page
+            flush_list()
+            flush_label()
+            page = Page(kind, order, ch, cht, heading, slug, title)
+            self.pages.append(page)
+
+        children = list(dx.body)
+        for idx, el in enumerate(children):
+            if el.tag == W + 'sdt':
+                continue
+            if el.tag == W + 'sectPr':
+                continue
+            if el.tag == W + 'tbl':
+                if not started:
+                    continue
+                flush_list(); flush_label()
+                self.handle_table(page, el, pending_caption)
+                pending_caption = None
+                continue
+            if el.tag != W + 'p':
+                warn('unhandled body element %s' % el.tag)
+                continue
+            style = dx.style(el)
+            if not started and style != 'heading 1':
+                continue
+            toks_raw = dx.para_tokens(el, dx.rels)
+            text = ''.join(t.text for t in toks_raw if t.kind == 't').strip()
+            has_img = any(t.kind == 'img' for t in toks_raw)
+
+            # ---- structure headings
+            if style in ('heading 1', 'heading 2'):
+                if not text:
+                    if any(t.kind in ('img', 'fn', 'link') for t in toks_raw):
+                        warn('empty %s paragraph %d has content' % (style, idx))
+                    continue
+                if any(t.kind in ('fn', 'img') for t in toks_raw):
+                    warn('%s %r contains footnote/image' % (style, text))
+                text = re.sub(r'\s+', ' ', text)
+                if style == 'heading 1':
+                    started = True
+                    if text == 'Giriş':
+                        chapter, chapter_title, sec_k = 0, 'Giriş', 0
+                        new_page('section', 0, 0, 'Giriş', 'Giriş', 'giris', 'Giriş – ' + SITE_TITLE)
+                    else:
+                        m = re.match(r'^Bölüm\s+(\d+)\s*:\s*(.+)$', text)
+                        if not m:
+                            raise SystemExit('unexpected heading 1: %r' % text)
+                        chapter, chapter_title, sec_k = int(m.group(1)), m.group(2).strip(), 0
+                        heading = 'Bölüm %d: %s' % (chapter, chapter_title)
+                        new_page('chapter', chapter * 100, chapter, chapter_title, heading,
+                                 'bolum-%d' % chapter, '%s – %s' % (heading, SITE_TITLE))
+                else:
+                    if not started:
+                        continue
+                    sec_k += 1
+                    if text in OVERRIDES:
+                        slug, title = OVERRIDES[text]
+                        title = title or text
+                    else:
+                        if text.startswith('Örnek:'):
+                            warn('Örnek heading without override: %r' % text)
+                        slug, title = slugify(text, max_words=4), text
+                    key = (chapter, slug)
+                    if key in self.slugs_seen:
+                        warn('duplicate slug %s in chapter %d' % (slug, chapter))
+                    self.slugs_seen[key] = True
+                    new_page('section', chapter * 100 + sec_k, chapter, chapter_title, text, slug,
+                             '%s – %s' % (title, SITE_TITLE))
+                continue
+            if not started:
+                continue
+            if not text and not has_img:
+                continue
+
+            toks = clean_edges(toks_raw)
+            has_numpr = el.find(W + 'pPr/' + W + 'numPr') is not None
+
+            if not (has_numpr and style == 'Normal'):
+                flush_list()
+
+            # ---- headings 3..6
+            if style in ('heading 3', 'heading 4', 'heading 5', 'heading 6'):
+                ptext = plain_text(toks)
+                r = Renderer(page)
+                if style == 'heading 6':
+                    flush_label()
+                    if pending_caption is not None:
+                        warn('caption without image: %r' % plain_text(pending_caption))
+                    pending_caption = toks
+                    continue
+                if style == 'heading 4' and ptext.endswith(':') and len(ptext) <= 80:
+                    flush_label()
+                    pending_label = toks
+                    continue
+                flush_label()
+                level = {'heading 3': '##', 'heading 4': '###', 'heading 5': '####'}[style]
+                hid = page.unique_id(ptext)
+                md = join_pieces(r.render(toks, strip_bold=True), 'md')
+                add_block('%s %s {#%s}' % (level, md, hid))
+                if style == 'heading 3':
+                    page.stats['h3'] += 1
+                page.stats['links'] += sum(1 for t in toks if t.kind == 'link')
+                continue
+
+            if style not in ('Normal',):
+                warn('unhandled style %r (paragraph %d): %r' % (style, idx, text[:50]))
+
+            # ---- images
+            if has_img:
+                flush_list(); flush_label()
+                imgs = [t for t in toks_raw if t.kind == 'img']
+                rest = clean_edges([t for t in toks_raw if t.kind != 'img'])
+                for n, im in enumerate(imgs):
+                    page.blocks.append(self.figure(page, im.rid, pending_caption or [] if n == 0 else [],
+                                                   rest if n == len(imgs) - 1 else []))
+                pending_caption = None
+                continue
+
+            if pending_caption is not None:
+                warn('caption %r not followed by an image (page %s)' % (plain_text(pending_caption), page.slug))
+                pending_caption = None
+
+            # ---- lists
+            if has_numpr:
+                flush_label()
+                npr = el.find(W + 'pPr/' + W + 'numPr')
+                numid = npr.find(W + 'numId').get(W + 'val')
+                ilvl = int(npr.find(W + 'ilvl').get(W + 'val'))
+                fmt = dx.numfmt.get(numid, {}).get(ilvl, 'bullet')
+                ordered = fmt != 'bullet'
+                if list_items and ilvl == 0 and (list_items[-1][1] != ordered or list_items[-1][3] != numid):
+                    flush_list()
+                list_items.append((ilvl, ordered, toks_raw, numid))
+                continue
+
+            # ---- ordinary paragraph (+ run-in label)
+            r = Renderer(page)
+            md = join_pieces(r.render(toks), 'md')
+            plain = plain_text(toks)
+            if pending_label is not None:
+                lab = join_pieces(r.render(pending_label, strip_bold=True), 'md').rstrip()
+                md = '**%s** %s' % (lab, md)
+                pending_label = None
+            else:
+                md = line_start_escape(md)
+            page.stats['links'] += sum(1 for t in toks if t.kind == 'link')
+            add_block(md, plain)
+
+        flush_list(); flush_label()
+        if pending_caption is not None:
+            warn('dangling caption %r' % plain_text(pending_caption))
+        return self.pages
+
+    def handle_table(self, page, tbl, pending_caption):
+        dx = self.dx
+        rows = tbl.findall(W + 'tr')
+        cells = [[tc for tc in tr.findall(W + 'tc')] for tr in rows]
+        paras = [[p for tc in row for p in tc.findall(W + 'p')] for row in cells]
+        flat = [p for row in paras for p in row]
+        imgs = [t for p in flat for t in dx.para_tokens(p, dx.rels) if t.kind == 'img']
+        texts = [clean_edges([t for t in dx.para_tokens(p, dx.rels) if t.kind != 'img']) for p in flat]
+        texts = [t for t in texts if t]
+        if len(imgs) == 1 and len(texts) <= 1 and all(len(r) == 1 for r in cells):
+            cap = pending_caption or (texts[0] if texts else [])
+            note = [] if pending_caption is None else (texts[0] if texts else [])
+            page.blocks.append(self.figure(page, imgs[0].rid, cap, note))
+            return
+        raise SystemExit('unsupported table layout on page %s' % page.slug)
+
+    # -- output -------------------------------------------------------------------------------
+    def footnote_defs(self, page):
+        dx = self.dx
+        r = Renderer(page)
+        lines = []
+        for n, fid in enumerate(page.fn_ids, 1):
+            f = dx.footnotes[fid]
+            paras = []
+            for p in f.findall(W + 'p'):
+                toks = clean_edges(dx.para_tokens(p, dx.fn_rels))
+                if not toks:
+                    continue
+                page.stats['links'] += sum(1 for t in toks if t.kind == 'link')
+                paras.append(line_start_escape(join_pieces(r.render(toks), 'md')))
+            if not paras:
+                warn('empty footnote %d' % fid)
+                paras = ['']
+            body = ('\n\n    ').join(paras)
+            if '{{' in body or '{%' in body:
+                body = '{% raw %}' + body + '{% endraw %}'
+            lines.append('[^%d]: %s' % (n, body))
+            page.stats['fn_defs'] += 1
+        return '\n\n'.join(lines)
+
+    def write(self):
+        os.makedirs(self.out_dir, exist_ok=True)
+        files = []
+        for page in self.pages:
+            fdefs = self.footnote_defs(page)
+            body = '\n\n'.join(page.blocks)
+            text = front_matter(page) + ('\n' + body + '\n' if body else '')
+            if fdefs:
+                text += '\n' + fdefs + '\n'
+            with open(os.path.join(self.out_dir, page.filename), 'w', encoding='utf-8') as f:
+                f.write(text)
+            files.append(page.filename)
+        used = set(p for pg in self.pages for p in pg.fn_ids)
+        if used != set(self.dx.footnotes):
+            warn('footnotes not referenced: %s' % sorted(set(self.dx.footnotes) - used))
+        return files
+
+
+def sweep(dirpath, new_files):
+    """remove files generated by a previous run (manifest) that are not part of this run"""
+    man = os.path.join(dirpath, '.generated')
+    if os.path.exists(man):
+        with open(man, encoding='utf-8') as f:
+            for name in f.read().split('\n'):
+                if name and name not in new_files and os.path.basename(name) == name:
+                    p = os.path.join(dirpath, name)
+                    if os.path.isfile(p):
+                        os.remove(p)
+    with open(man, 'w', encoding='utf-8') as f:
+        f.write('\n'.join(sorted(new_files)) + '\n')
+
+
+def main(argv):
+    if len(argv) != 4:
+        print(__doc__)
+        return 2
+    docx, out_dir, img_dir = argv[1:]
+    os.makedirs(img_dir, exist_ok=True)
+    os.makedirs(out_dir, exist_ok=True)
+    # clear images of the previous run first so numbering changes cannot leave strays
+    man = os.path.join(img_dir, '.generated')
+    conv = Converter(docx, out_dir, img_dir)
+    if os.path.exists(man):
+        for name in open(man, encoding='utf-8').read().split('\n'):
+            if name and os.path.isfile(os.path.join(img_dir, name)):
+                os.remove(os.path.join(img_dir, name))
+    conv.run()
+    files = conv.write()
+    sweep(out_dir, files)
+    sweep(img_dir, conv.img_files)
+    tot = {k: sum(p.stats[k] for p in conv.pages) for k in ('figures', 'h3', 'links', 'fn_defs')}
+    print('pages: %d (%d sections, %d chapters)' % (len(conv.pages),
+          sum(p.kind == 'section' for p in conv.pages), sum(p.kind == 'chapter' for p in conv.pages)))
+    print('totals:', tot)
+    print('images: %d, %.1f MB -> %.1f MB' % (len(conv.img_files), conv.img_in_bytes / 1e6, conv.img_out_bytes / 1e6))
+    for p in conv.pages:
+        print('%s\t%s\t%s\t%s\t%s' % (p.order, p.slug, p.permalink, p.title, p.heading))
+    for fn, name, alt in [c for p in conv.pages for c in p.captionless]:
+        print('CAPTIONLESS %s %s -> alt=%r' % (fn, name, alt))
+    print('warnings: %d' % len(WARNINGS))
+    return 0
+
+
+if __name__ == '__main__':
+    sys.exit(main(sys.argv))
