@@ -4,7 +4,17 @@ title: Sorularla Web3
 permalink: /Sorularla_Web3/
 redirect_from:
   - /sorularla_web3/
-description: "Şubat 2025'te çıkan Sorularla Web3 kitabında geçen bağlantıların sayfa sırasına göre listesi ve kitabın satış bağlantısı."
+book:
+  name: "Sorularla Web3"
+  lang: tr
+  isbn: "978-625-8177-71-8"
+  date: "2025"
+  publishers: ["Scala Yayıncılık"]
+  image: /assets/Sorularla_Web3_kapak_x.jpg
+  pdf: /assets/books/Sorularla_Web3.pdf
+  reader: /Sorularla_Web3/oku/
+  translation: { name: "Web3 Unlocked", url: /Web3_Unlocked/ }
+description: "Turan Sert'in Sorularla Web3 kitabı: Web3'ü soru-cevap biçiminde anlatan rehber. İçindekiler, kitapta geçen bağlantılar ve ücretsiz okuma."
 ---
 
 | ![Sorularla Web3](/assets/Sorularla_Web3_kapak_x.jpg)|
@@ -15,11 +25,31 @@ description: "Şubat 2025'te çıkan Sorularla Web3 kitabında geçen bağlantı
 
 Merhaba!
 
-2025 yılı Şubat ayında çıkan Sorularla Web3 içinde bulunan tüm linklere buradan ulaşabilirsiniz. 
+Kitap [Scala Yayıncılık web sitesinde](https://www.scalakitapci.com/sorularla-web3) online olarak satışta.
 
-Kitap [Scala Yayıncılık web sitesinde](https://www.scalakitapci.com/sorularla-web3) online olarak satışta. 
+&nbsp;
 
-Gösterdiğiniz ilgiye teşekkürler!
+## Kitap hakkında
+
+*Sorularla Web3*, Turan Sert'in üçüncü kitabı; Web3'ü soru-cevap biçiminde anlatan bir rehber. Web'in tarihçesinden Web3 ekonomisinin yapı taşlarına, bu ekonominin aktörlerinden uygulama alanlarına ve tokenleştirmeye uzanıyor. Kitabın ana bölümleri:
+
+- Web3'ün tarihçesi: Web 1.0, Web 2.0 ve Web3
+- Web3 ekonomisinin yapı taşları: Ethereum, Bitcoin ve Solana, ikinci seviye çözümler, köprüler, cüzdanlar ve intent'ler
+- Web3 ekonomisinin aktörleri: topluluk, kurucu ekipler, yatırımcılar, geliştiriciler, madenciler/onaylayıcılar ve kullanıcılar
+- Web3'ün uygulama alanları: stabil paralar, DeFi, NFT, oyun ve metaverse, dijital kimlik, DePIN, ReFi, DeSci ve yapay zeka
+- Örnek olaylar: PayPal'ın PYUSD'si, Ethena (USDe), 2022'de Terra, 3AC ve FTX'in çöküşü, 2023 ABD bankacılık krizi
+- Tokenleştirme: tokenler ve tokenomics; BlackRock ve ABD'de bir evin tokenleştirilmesi örnekleri
+- Web3'ün geleceği
+
+Kitabın tamamını üye olmadan, çevrimiçi ve ücretsiz olarak [buradan](/Sorularla_Web3/oku/) okuyabilirsiniz. İngilizce baskısı: [Web3 Unlocked](/Web3_Unlocked/).
+
+Scala Yayıncılık, Ocak 2025 (satışa çıkış: Şubat 2025). ISBN 978-625-8177-71-8.
+
+&nbsp;
+
+## Kitapta geçen bağlantılar
+
+Kitapta yer alan tüm bağlantılara sayfa sırasına göre aşağıdan ulaşabilirsiniz. Gösterdiğiniz ilgiye teşekkürler!
 
 &nbsp;
 

@@ -5,6 +5,16 @@ permalink: /Web3_Unlocked/
 lang: en
 redirect_from:
   - /web3_unlocked/
+book:
+  name: "Web3 Unlocked"
+  lang: en
+  isbn: "978-625-5544-29-2"
+  date: "2026-02"
+  publishers: ["Scala Publishing"]
+  image: /assets/web3_front_cover.jpg
+  pdf: /assets/books/Web3_Unlocked.pdf
+  reader: /Web3_Unlocked/read/
+  translation_of: { name: "Sorularla Web3", url: /Sorularla_Web3/ }
 description: "Web3 Unlocked by Turan Sert: a question-and-answer guide to Web3, the English edition of Sorularla Web3. Free to read online, with every link cited in the book."
 ---
 

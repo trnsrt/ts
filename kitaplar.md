@@ -12,13 +12,13 @@ description: "Turan Sert'in Sorularla Blockchain, Sorularla DeFi, Sorularla Web3
 
 Ekosisteme katkı sağlamak amacıyla yayınlanan, biri İngilizce çeviri olmak üzere dört kitabım bulunmakta. 
 
-Bunlardan ilki Blockchain Türkiye aracılığıyla 2019 yılında yayınlanan "[Sorularla Blockchain](/Sorularla_Blockchain/oku/)". Kitabın pdf versiyonunu ücretsiz olarak [buradan](/Sorularla_Blockchain/oku/) indirebilirsiniz.  
+Bunlardan ilki Blockchain Türkiye aracılığıyla 2019 yılında yayınlanan "[Sorularla Blockchain](/Sorularla_Blockchain/)". Kitabın pdf versiyonunu ücretsiz olarak [buradan](/Sorularla_Blockchain/oku/) indirebilirsiniz.  
 
-İkinci kitap ise 2022 yılının başında yayınlanan "[Sorularla DeFi - Merkeziyetsiz Finans](/Sorularla_DeFi/oku/)". Kitabın pdf versiyonuna ücretsiz olarak [buradan](/Sorularla_DeFi/oku/) ulaşabilirsiniz. 
+İkinci kitap ise 2022 yılının başında yayınlanan "[Sorularla DeFi - Merkeziyetsiz Finans](/Sorularla_DeFi/)". Kitabın pdf versiyonuna ücretsiz olarak [buradan](/Sorularla_DeFi/oku/) ulaşabilirsiniz. 
 
 Üçüncü kitap ise 2025 Şubat ayında yayınlanan "[Sorularla Web3](https://www.scalakitapci.com/sorularla-web3)". Kitap [Scala Yayıncılık websitesinde](https://www.scalakitapci.com/sorularla-web3) sizlerle buluşuyor. Kitabın pdf versiyonuna ücretsiz olarak [buradan](/Sorularla_Web3/oku/) ulaşabilirsiniz. 
 
-Dördüncü kitabım "[Web3 Unlocked](/Web3_Unlocked/)", üçüncü kitabım "Sorularla Web3"ün İngilizce çevirisi. Web3 dünyasını İngilizce okumak isteyenler için hazırlanan kitaba [buradan](/Web3_Unlocked/read/) ulaşabilirsiniz.
+Dördüncü kitabım "[Web3 Unlocked](/Web3_Unlocked/)" (2026), üçüncü kitabım "Sorularla Web3"ün İngilizce çevirisi. Web3 dünyasını İngilizce okumak isteyenler için hazırlanan kitaba [buradan](/Web3_Unlocked/read/) ulaşabilirsiniz.
 
 &nbsp;
 
@@ -45,7 +45,7 @@ Dördüncü kitabım "[Web3 Unlocked](/Web3_Unlocked/)", üçüncü kitabım "So
 <p>Sorularla Web3 (2025)  <a href="https://www.scalakitapci.com/sorularla-web3">Buradan sipariş verebilirsiniz</a></p> <p>Ya da <a href="/Sorularla_Web3/oku/">buradan okuyabilirsiniz</a>.</p>
 </td>
 <td style="width:25%; vertical-align:top">
-<p>Web3 Unlocked</p>
+<p>Web3 Unlocked (2026)</p>
 <p>Sorularla Web3’ün İngilizce çevirisi.</p>
 <p><a href="/Web3_Unlocked/read/">Buradan okuyabilirsiniz</a>.</p>
 </td>

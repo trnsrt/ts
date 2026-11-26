@@ -1,0 +1,36 @@
+{%- comment -%}
+  Book structured data for the four book info pages. Driven by the page's `book:` front-matter map.
+  Fields: name, lang, isbn (optional), date, publishers (optional list), image, pdf, reader,
+  translation_of / translation (optional {name, url}). Outputs nothing on pages without `book:`.
+{%- endcomment -%}
+{%- if page.book -%}
+{%- assign b = page.book -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "name": {{ b.name | jsonify }},
+  "author": { "@type": "Person", "@id": "https://turansert.com/#person", "name": {{ site.author.name | jsonify }}, "url": "https://turansert.com/" },
+  "inLanguage": {{ b.lang | jsonify }},
+  "bookFormat": "https://schema.org/EBook",
+  {%- if b.isbn %}
+  "isbn": {{ b.isbn | jsonify }},
+  {%- endif %}
+  "datePublished": {{ b.date | jsonify }},
+  {%- if b.publishers %}
+  "publisher": [{% for p in b.publishers %}{ "@type": "Organization", "name": {{ p | jsonify }} }{% unless forloop.last %}, {% endunless %}{% endfor %}],
+  {%- endif %}
+  {%- if b.translation_of %}
+  "translationOfWork": { "@type": "Book", "name": {{ b.translation_of.name | jsonify }}, "url": {{ b.translation_of.url | absolute_url | jsonify }} },
+  {%- endif %}
+  {%- if b.translation %}
+  "workTranslation": { "@type": "Book", "name": {{ b.translation.name | jsonify }}, "url": {{ b.translation.url | absolute_url | jsonify }} },
+  {%- endif %}
+  "url": {{ page.url | absolute_url | jsonify }},
+  "image": {{ b.image | absolute_url | jsonify }},
+  "isAccessibleForFree": true,
+  "encoding": { "@type": "MediaObject", "encodingFormat": "application/pdf", "contentUrl": {{ b.pdf | absolute_url | jsonify }} },
+  "potentialAction": { "@type": "ReadAction", "target": {{ b.reader | absolute_url | jsonify }} }
+}
+</script>
+{%- endif -%}
