@@ -1,16 +1,17 @@
 {%- comment -%}
-  Chapter structured data for the HTML edition of Sorularla Web3. Outputs only on collection sorularla_web3 documents.
+  Chapter structured data for the HTML editions of the books. Outputs only on documents of a collection listed in _data/html_books.yml.
 {%- endcomment -%}
-{%- if page.collection == "sorularla_web3" -%}
+{%- assign b = site.data.html_books[page.collection] -%}
+{%- if b -%}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Chapter",
   "name": {{ page.heading | default: page.title | jsonify }},
   "url": {{ page.url | absolute_url | jsonify }},
-  "inLanguage": "tr",
+  "inLanguage": {{ b.lang | jsonify }},
   "author": { "@type": "Person", "@id": "https://turansert.com/#person", "name": "Turan Sert", "url": "https://turansert.com/" },
-  "isPartOf": { "@type": "Book", "name": "Sorularla Web3", "url": "https://turansert.com/Sorularla_Web3/", "isbn": "978-625-8177-71-8" },
+  "isPartOf": { "@type": "Book", "name": {{ b.name | jsonify }}, "url": {{ b.info_url | absolute_url | jsonify }}, "isbn": {{ b.isbn | jsonify }} },
   "position": {{ page.order | jsonify }},
   "isAccessibleForFree": true
 }

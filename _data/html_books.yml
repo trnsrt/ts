@@ -1,0 +1,42 @@
+# Per-book values for the HTML editions (collections sorularla_web3 and web3_unlocked).
+# Keyed by collection label; used by _layouts/book-section.html, _includes/book-toc.html and _includes/chapter-jsonld.html.
+sorularla_web3:
+  name: "Sorularla Web3"
+  info_url: /Sorularla_Web3/
+  reader_url: /Sorularla_Web3/oku/
+  chapter_path: /Sorularla_Web3/bolum-
+  isbn: "978-625-8177-71-8"
+  lang: tr
+  chapter_word: "Bölüm"
+  intro_word: "Giriş"
+  prev_word: "Önceki"
+  next_word: "Sonraki"
+  breadcrumb_label: "Sayfa yolu"
+  sections_label: "Bölümün başlıkları"
+  prevnext_label: "Önceki ve sonraki"
+  source_intro: "Bu metin, Turan Sert’in <em>Sorularla Web3</em> kitabından alınmıştır (Scala Yayıncılık, 2025)."
+  source_all: "Kitabın tamamı:"
+  source_reader: "PDF okuyucu"
+  source_book: "kitap sayfası"
+  other_url: /Web3_Unlocked/
+  source_other: "İngilizce baskı: Web3 Unlocked"
+web3_unlocked:
+  name: "Web3 Unlocked"
+  info_url: /Web3_Unlocked/
+  reader_url: /Web3_Unlocked/read/
+  chapter_path: /Web3_Unlocked/chapter-
+  isbn: "978-625-5544-29-2"
+  lang: en
+  chapter_word: "Chapter"
+  intro_word: "Introduction"
+  prev_word: "Previous"
+  next_word: "Next"
+  breadcrumb_label: "Breadcrumb"
+  sections_label: "In this chapter"
+  prevnext_label: "Previous and next"
+  source_intro: "This text is from Turan Sert’s book <em>Web3 Unlocked</em> (Scala Publishing, 2026), the English edition of <em>Sorularla Web3</em>."
+  source_all: "The whole book:"
+  source_reader: "PDF reader"
+  source_book: "book page"
+  other_url: /Sorularla_Web3/
+  source_other: "Turkish edition: Sorularla Web3"

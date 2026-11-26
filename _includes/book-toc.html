@@ -1,0 +1,29 @@
+{%- comment -%}
+  Linked contents list of an HTML edition. Usage: {% include book-toc.html collection="web3_unlocked" %}
+  Renders nothing if the collection is empty.
+{%- endcomment -%}
+{%- assign toc_book = site.data.html_books[include.collection] %}
+{%- assign book_docs = site[include.collection] | sort: "order" %}
+{%- if book_docs.size > 0 %}
+{%- assign intro = book_docs | where: "kind", "section" | where: "chapter", 0 | first %}
+{%- assign chapters = book_docs | where: "kind", "chapter" %}
+<div class="book-toc">
+<ul>
+{%- if intro %}
+  <li><a href="{{ intro.url | relative_url }}">{{ intro.heading | default: toc_book.intro_word }}</a></li>
+{%- endif %}
+{%- for ch in chapters %}
+  <li><a href="{{ ch.url | relative_url }}">{{ ch.heading | default: ch.title }}</a>
+  {%- assign secs = book_docs | where: "kind", "section" | where: "chapter", ch.chapter %}
+  {%- if secs.size > 0 %}
+    <ul>
+    {%- for d in secs %}
+      <li><a href="{{ d.url | relative_url }}">{{ d.heading | default: d.title }}</a></li>
+    {%- endfor %}
+    </ul>
+  {%- endif %}
+  </li>
+{%- endfor %}
+</ul>
+</div>
+{%- endif %}

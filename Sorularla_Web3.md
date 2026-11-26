@@ -51,30 +51,7 @@ Scala Yayıncılık, Ocak 2025 (satışa çıkış: Şubat 2025). ISBN 978-625-8
 
 Kitabın tam metnini bölüm bölüm aşağıdan okuyabilirsiniz.
 
-{%- assign book_docs = site.sorularla_web3 | sort: "order" %}
-{%- if book_docs.size > 0 %}
-{%- assign intro = book_docs | where: "kind", "section" | where: "chapter", 0 | first %}
-{%- assign chapters = book_docs | where: "kind", "chapter" %}
-<div class="book-toc">
-<ul>
-{%- if intro %}
-  <li><a href="{{ intro.url | relative_url }}">{{ intro.heading | default: "Giriş" }}</a></li>
-{%- endif %}
-{%- for ch in chapters %}
-  <li><a href="{{ ch.url | relative_url }}">{{ ch.heading | default: ch.title }}</a>
-  {%- assign secs = book_docs | where: "kind", "section" | where: "chapter", ch.chapter %}
-  {%- if secs.size > 0 %}
-    <ul>
-    {%- for d in secs %}
-      <li><a href="{{ d.url | relative_url }}">{{ d.heading | default: d.title }}</a></li>
-    {%- endfor %}
-    </ul>
-  {%- endif %}
-  </li>
-{%- endfor %}
-</ul>
-</div>
-{%- endif %}
+{% include book-toc.html collection="sorularla_web3" %}
 
 &nbsp;
 

@@ -36,6 +36,12 @@ You can read the whole book online, free, in your browser and without signing up
 
 Published by Scala Publishing, February 2026. ISBN 978-625-5544-29-2.
 
+## Contents {#contents}
+
+You can read the full text of the book, chapter by chapter, below.
+
+{% include book-toc.html collection="web3_unlocked" %}
+
 ## Links cited in the book
 
 All links referenced in the book are collected below, by page.

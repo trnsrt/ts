@@ -51,8 +51,18 @@ defaults:
       lang: tr
       seo:
         type: WebPage
+  - scope:
+      path: ""
+      type: web3_unlocked
+    values:
+      layout: book-section
+      lang: en
+      seo:
+        type: WebPage
 collections:
   sorularla_web3:
+    output: true
+  web3_unlocked:
     output: true
 header_pages:
   - kitaplar.md
