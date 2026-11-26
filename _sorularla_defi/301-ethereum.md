@@ -106,7 +106,7 @@ Bu arada hemen şunu da belirtmekte fayda var; madenciler sadece yeni yaratılan
 
 Ethereum sisteminde genelde ücrete madenciler karar veriyor. Bir nevi müzayede sistemi ile yüksek ücret ödeyenlere öncelik veriyorlar, düşük ücretlileri ise geriye atıyorlar.
 
-Son zamanlarda, özellikle Ethereum üzerine kurulan DeFi uygulamalarının yoğun kullanımı nedeniyle fiyatlar çok artmıştı. Vitalik bu konuda madencilerin haksız rekabet uyguladıklarını düşünüyor. Hatta düşünmenin de ötesinde, daha 2019 yılının Nisan ayında Ethereum üzerinde EIP (Ethereum Improvement Proposal Ethereum İyileştirme Önerisi) diye nitelenen yeni bir değişiklik önerisinde bile bulundu.
+Son zamanlarda, özellikle Ethereum üzerine kurulan DeFi uygulamalarının yoğun kullanımı nedeniyle fiyatlar çok artmıştı. Vitalik bu konuda madencilerin haksız rekabet uyguladıklarını düşünüyor. Hatta düşünmenin de ötesinde, daha 2019 yılının Nisan ayında Ethereum üzerinde EIP (Ethereum Improvement Proposal – Ethereum İyileştirme Önerisi) diye nitelenen yeni bir değişiklik önerisinde bile bulundu.
 
 [EIP 1559 olarak da adlandırılan bu öneri](https://eips.ethereum.org/EIPS/eip-1559) ile, yapılan işlemlerden alınacak olan komisyon madencilere verilmek yerine “yakılacak”. Vitalik, yakılacak rakamın şu anki DeFi sonrası oluşan yoğun işlem rakamlarının devam etmesi durumunda, yıllık yaklaşık bir milyon ETH’yi bulmasını bekliyor. 2020 yılında Ethereum üzerinde [toplam 600 milyon USD işlem ücreti](https://formula-builder.coinmetrics.io/#369) ödendiğini düşünürsek; bu tahmin tutacak gibi görünüyor. (Bu arada [2019 yılında işlemlere ödenen toplam ücretin 35 milyon ABD Doları](https://formula-builder.coinmetrics.io/#371) olduğunu da belirtelim).
 

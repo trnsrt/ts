@@ -54,7 +54,7 @@ DeFi’nin de riskleri ile ilgili aslında en büyük sorun, bu riskleri değerl
 
 ### Mutlaka kendi araştırmanızı yapmak gerek {#mutlaka-kendi-arastirmanizi-yapmak-gerek}
 
-Öncelikle, bir önceki bölümde bahsettiğimiz; yatırım yaparken yaptığınız incelemelerin tamamını, kullanacağınız platformlar için de yapmanız gerekiyor. Kripto dünyasının en temel düsturdur bu: “Kendi araştırmanı kendin yap.” (İngilizcede ‘Do your own research’ DYOR) Çok meşakkatli bir iş olduğunun, çoğumuzun özellikle teknik olarak bu protokollerin ne iş yaptığını bile bilmezken onların doğru çalışıp çalışmadığını anlamanın zorluğunun farkındayım. İşte tam da bu nedenle, bu alana yatırım yapmayı düşünenlerin yüksek risk altına girdiklerini iyi anlaması gerekiyor. Göreceli olarak riski azaltacak konuların başında ise olabildiğince çok okuyarak bilgi sahibi olmak geliyor.
+Öncelikle, bir önceki bölümde bahsettiğimiz; yatırım yaparken yaptığınız incelemelerin tamamını, kullanacağınız platformlar için de yapmanız gerekiyor. Kripto dünyasının en temel düsturdur bu: “Kendi araştırmanı kendin yap.” (İngilizcede ‘Do your own research’ - DYOR) Çok meşakkatli bir iş olduğunun, çoğumuzun özellikle teknik olarak bu protokollerin ne iş yaptığını bile bilmezken onların doğru çalışıp çalışmadığını anlamanın zorluğunun farkındayım. İşte tam da bu nedenle, bu alana yatırım yapmayı düşünenlerin yüksek risk altına girdiklerini iyi anlaması gerekiyor. Göreceli olarak riski azaltacak konuların başında ise olabildiğince çok okuyarak bilgi sahibi olmak geliyor.
 
 ### DeFi diye, denetim yaptırmayacak değil elbet {#defi-diye-denetim-yaptirmayacak-degil-elbet}
 

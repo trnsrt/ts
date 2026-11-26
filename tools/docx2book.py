@@ -223,13 +223,72 @@ DF_CORRECTIONS = [
     ('bir başka insiyatif ise', 'bir başka inisiyatif ise'),
 ]
 
+BC_PARTS = ['Nedir Bu Blockchain Allah Aşkına?', 'Blockchain Beni Nasıl Etkileyecek?', 'Teknik Olarak Blockchain',
+            'Blockchain’in Geleceği', 'Bitcoin', 'Ethereum ve Diğer Kripto Paralar']
+# the 28 heading-2 sections in book order, worded as in the printed contents (index); a docx heading may continue
+# beyond the printed wording ("ICO ve Token Dünyası: Yeni dünyada ...")
+BC_SECTIONS = [
+    'Üzerimize gelen dalganın farkında mıyız?', 'Sahi nedir bu Blockchain Allah aşkına?',
+    'Blockchain finans dünyasını nasıl etkileyecek?', 'Finans dünyasından örnekler neler?',
+    'Blockchain tedarik zincirini sağlamlaştırabilir mi?', 'Sağlık için Blockchain çözümleri neler?',
+    'Blockchain çevremizi korumamıza yardımcı olabilir mi?', 'Blockchain seyahat sektörünü uçurur mu?',
+    'Blockchain geleceği tahmin için kullanılabilir mi?', 'Blockchain’i sosyal fayda için kullanabilir miyiz?',
+    'Blockchain sanat dünyasına ne katabilir?', 'Blockchain her derde deva mı?',
+    'Blockchain bulunduğum sektöre yarar mı?', 'Değişen girişimcilik ve yatırımcılık', 'ICO ve Token Dünyası',
+    'Blockchain şifrelemesi ne demek?', 'Blockchain nasıl kendi başına hareket ediyor? İpucu: Uzlaşma',
+    'Uzlaşma mekanizmaları neler?', 'Bitcoin ne tam olarak?', 'Bitcoin para mı gerçekten? Nasıl?',
+    'Bitcoin işlemi nasıl gerçekleşiyor?', 'Bitcoin geniş kitlelere nasıl yayılır?',
+    'Bitcoin üzerinde ışık hızıyla işlem nasıl gerçekleşir? Lightning Network',
+    'Bitcoin üzerinden büyük işlemleri hızlı yapmak mümkün mü? Bir çözüm: Liquid',
+    'Bakkt kurumsal yatırımcıyı kripto paraya çeker mi?', 'Madencilik 2.0: Beyaz yakalıdan madenci olur mu?',
+    'Dünyanın en büyük bilgisayarı olan Ethereum’un hikayesi ne?', 'Diğer kripto paralar neler?',
+]
+# Web-edition fixes of the finished page Markdown (each must match exactly once); only where the print has it right.
+BC_CORRECTIONS = [
+    ('Doğrulanabilirlik/Sahicililk', 'Doğrulanabilirlik/Sahicilik'),
+    ('Blockhain', 'Blockchain', 6),                     # (old, new, expected count); the print has the typo too
+    ('olmasında dolayı', 'olmasından dolayı'),
+    ('başlangıça', 'başlangıca'),
+]
+BC_OVERRIDES = {
+    'Blockchain’i sosyal fayda için kullanabilir miyiz?': ('sosyal-fayda', None),
+    'Blockchain nasıl kendi başına hareket ediyor? İpucu: Uzlaşma': ('kendi-basina-hareket', None),
+    'Bitcoin üzerinde ışık hızıyla işlem nasıl gerçekleşir? Lightning Network': ('lightning-network', None),
+    'Bitcoin üzerinden büyük işlemleri hızlı yapmak mümkün mü? Bir çözüm: Liquid': ('liquid-network', None),
+    'Madencilik 2.0: Beyaz yakalıdan madenci olur mu?': ('madencilik-2-0', None),
+    'Dünyanın en büyük bilgisayarı olan Ethereum’un hikayesi ne?': ('ethereum-hikayesi', None),
+    'Blockchain tedarik zincirini sağlamlaştırabilir mi?': ('tedarik-zinciri', None),
+    'Blockchain çevremizi korumamıza yardımcı olabilir mi?': ('cevre', None),
+    'Blockchain geleceği tahmin için kullanılabilir mi?': ('tahmin-piyasalari', None),
+    'Üzerimize gelen dalganın farkında mıyız?': ('dalganin-farkinda-miyiz', None),
+    'Sahi nedir bu Blockchain Allah aşkına?': ('nedir-bu-blockchain', None),
+    'Blockchain finans dünyasını nasıl etkileyecek?': ('finans-dunyasi', None),
+    'Sağlık için Blockchain çözümleri neler?': ('saglik', None),
+    'Blockchain seyahat sektörünü uçurur mu?': ('seyahat', None),
+    'Blockchain sanat dünyasına ne katabilir?': ('sanat', None),
+    'Blockchain her derde deva mı?': ('her-derde-deva', None),
+    'Blockchain bulunduğum sektöre yarar mı?': ('sektore-yarar-mi', None),
+    'Blockchain şifrelemesi ne demek?': ('sifreleme', None),
+    'Bakkt kurumsal yatırımcıyı kripto paraya çeker mi?': ('bakkt', None),
+}
+
 PROFILES_EXTRA = {
+    'bc': dict(name='bc', site_title='Sorularla Blockchain', url_base='/Sorularla_Blockchain',
+               img_url='/assets/books/sorularla-blockchain', overrides=BC_OVERRIDES, corrections=[],
+               intro_heading=None, intro_slug=None, chapter_slug='bolum-%d', chapter_label='%s', max_words=4,
+               chapter_desc='Sorularla Blockchain kitabının %d. bölümü: %s.', promote=set(), heading_overrides={},
+               style_alias={}, lead_styles={'Subtitle'}, parts=BC_PARTS, sections=BC_SECTIONS, heading_prefix=True,
+               plain_captions=True, printed_pdf='assets/books/Sorularla_Blockchain.pdf', out_corrections=BC_CORRECTIONS,
+               printed_cfg=dict(layout=False, start='Üzerimize gelen dalganın farkında', headers=(), lookback=300,
+                                multi_end=True, keep_punct=True, strict=True)),
     'df': dict(name='df', site_title='Sorularla DeFi', url_base='/Sorularla_DeFi',
                img_url='/assets/books/sorularla-defi', overrides=DF_OVERRIDES, corrections=[],
                intro_heading=None, intro_slug=None, chapter_slug='bolum-%d', chapter_label='%s', max_words=4,
                chapter_desc='Sorularla DeFi kitabının %d. bölümü: %s.', promote=set(), heading_overrides={},
                style_alias={'Normal (Web)': 'Normal'}, parts=DF_PARTS, sections=DF_SECTIONS,
-               printed_pdf='assets/books/Sorularla_DeFi.pdf', out_corrections=DF_CORRECTIONS),
+               printed_pdf='assets/books/Sorularla_DeFi.pdf', out_corrections=DF_CORRECTIONS,
+               printed_cfg=dict(layout=True, start='NEDİR DEFI?', headers=('SORULARLA DEFI', 'MERKEZİYETSİZ FİNANS'),
+                                keep_punct=True)),
 }
 PROFILES.update(PROFILES_EXTRA)
 
@@ -587,6 +646,10 @@ class Docx:
                     toks.append(Tok('t', buf, b, i)); buf = ''
                 blip = ch.find('.//' + A + 'blip')
                 toks.append(Tok('img', rid=blip.get(R + 'embed')))
+            elif tag == W + 'pict' and ch.find('.//{urn:schemas-microsoft-com:vml}rect') is not None:
+                if buf:
+                    toks.append(Tok('t', buf, b, i)); buf = ''
+                toks.append(Tok('hr'))
             elif tag == '{http://schemas.openxmlformats.org/markup-compatibility/2006}AlternateContent':
                 # a horizontal-rule shape (grey "Rectangle" with an image fallback): keep as a divider
                 if buf:
@@ -637,27 +700,39 @@ class Docx:
     def _para_tokens_raw(self, p, rels):
         toks = []
         stack = []               # complex fields (fldChar begin/separate/end), e.g. HYPERLINK "url"
+
+        def close_field():
+            f = stack.pop()
+            res = f['toks']
+            m = re.search(r'HYPERLINK\s+"([^"]*)"(?:\s+\\l\s+"([^"]*)")?', f['instr'])
+            if m:
+                url = m.group(1) + ('#' + m.group(2) if m.group(2) else '')
+                imgs = [t for t in res if t.kind == 'img']
+                rest = [t for t in res if t.kind != 'img']
+                has_text = any(t.kind in ('t', 'fn') and (t.kind == 'fn' or t.text.strip()) for t in rest)
+                if imgs:
+                    warn('image inside a field hyperlink to %s: the image is kept, the link is not' % url)
+                if has_text:
+                    res = imgs + [Tok('link', url=url, inner=rest)]
+                else:
+                    res = imgs + rest
+                    if not imgs:
+                        warn('empty field link %r' % f['instr'].strip())
+            (stack[-1]['toks'] if stack and stack[-1]['phase'] == 'result' else toks).extend(res)
+
         for ch in self._flat(p):
             if ch.tag == W + 'r' and (ch.find(W + 'fldChar') is not None or ch.find(W + 'instrText') is not None):
-                fc, it = ch.find(W + 'fldChar'), ch.find(W + 'instrText')
-                if fc is not None:
-                    kind = fc.get(W + 'fldCharType')
-                    if kind == 'begin':
-                        stack.append({'instr': '', 'phase': 'instr', 'toks': []})
-                    elif kind == 'separate' and stack:
-                        stack[-1]['phase'] = 'result'
-                    elif kind == 'end' and stack:
-                        f = stack.pop()
-                        res = f['toks']
-                        m = re.search(r'HYPERLINK\s+"([^"]*)"(?:\s+\\l\s+"([^"]*)")?', f['instr'])
-                        if m and any(t.kind == 't' and t.text.strip() for t in res):
-                            url = m.group(1) + ('#' + m.group(2) if m.group(2) else '')
-                            res = [Tok('link', url=url, inner=res)]
-                        elif m:
-                            warn('empty field link %r' % f['instr'].strip())
-                        (stack[-1]['toks'] if stack and stack[-1]['phase'] == 'result' else toks).extend(res)
-                elif it is not None and stack:
-                    stack[-1]['instr'] += it.text or ''
+                for sub in ch:              # one run may hold begin + instrText + separate
+                    if sub.tag == W + 'fldChar':
+                        kind = sub.get(W + 'fldCharType')
+                        if kind == 'begin':
+                            stack.append({'instr': '', 'phase': 'instr', 'toks': []})
+                        elif kind == 'separate' and stack:
+                            stack[-1]['phase'] = 'result'
+                        elif kind == 'end' and stack:
+                            close_field()
+                    elif sub.tag == W + 'instrText' and stack:
+                        stack[-1]['instr'] += sub.text or ''
                 continue
             if ch.tag == W + 'r' and stack:
                 if stack[-1]['phase'] == 'result':
@@ -668,19 +743,30 @@ class Docx:
             elif ch.tag == W + 'hyperlink':
                 rid = ch.get(R + 'id')
                 if rid is None:
-                    warn('internal anchor link %r: %r' % (ch.get(W + 'anchor'), ''.join(t.text or '' for t in ch.iter(W + 't'))[:60]))
+                    # internal cross-reference: resolved to the site permalink of the target page after conversion
+                    inner = []
                     for r in ch.findall(W + 'r'):
-                        toks.extend(self.run_tokens(r, rels))
+                        inner.extend(self.run_tokens(r, rels))
+                    toks.append(Tok('link', url='#bm:' + (ch.get(W + 'anchor') or ''), inner=inner))
                     continue
                 target, mode, _ = rels[rid]
                 inner = []
                 for r in ch.findall(W + 'r'):
                     inner.extend(self.run_tokens(r, rels))
+                imgs = [t for t in inner if t.kind == 'img']       # a linked image: keep the image, not the link
+                if imgs:
+                    warn('image inside a hyperlink to %s: the image is kept, the link is not' % target)
+                    toks.extend(imgs)
+                    inner = [t for t in inner if t.kind != 'img']
+                    if not any(t.kind == 't' and t.text.strip() for t in inner):
+                        continue
                 toks.append(Tok('link', url=target, inner=inner))
             elif ch.tag in (W + 'pPr', W + 'bookmarkStart', W + 'bookmarkEnd', W + 'proofErr'):
                 pass
             else:
                 warn('unhandled paragraph child %s' % ch.tag)
+        while stack:            # a field that continues into the next paragraph: close it here
+            close_field()
         return toks
 
 
@@ -692,6 +778,29 @@ def strip_italic(toks):
         else:
             out.append(Tok(t.kind, t.text, t.b, False, t.url, t.inner, t.fid, t.rid))
     return out
+
+
+def force_italic(toks):
+    out = []
+    for t in toks:
+        if t.kind == 'link':
+            out.append(Tok('link', url=t.url, inner=[Tok(x.kind, x.text, x.b, True, x.url, x.inner, x.fid, x.rid)
+                                                      if x.kind == 't' else x for x in t.inner]))
+        elif t.kind == 't':
+            out.append(Tok('t', t.text, t.b, True))
+        else:
+            out.append(t)
+    return out
+
+
+def is_caption(toks):
+    """a figure caption right after an image: mostly italic, or (profile bc) a short 'Image by / Kaynak' line"""
+    if italic_fraction(toks) >= 0.5:
+        return True
+    if P.get('plain_captions'):
+        tx = plain_text(toks)
+        return bool(re.match(r'^(Image by|Photo by|Kaynak)', tx)) and len(tx) < 150
+    return False
 
 
 def italic_fraction(toks):
@@ -706,15 +815,32 @@ def italic_fraction(toks):
 
 def clean_edges(toks):
     """collapse whitespace runs; strip paragraph edges."""
+    split = []
+    for t in toks:          # a footnote reference inside a link text: split the link around it
+        if t.kind == 'link' and any(x.kind == 'fn' for x in t.inner):
+            seg = []
+            for x in t.inner:
+                if x.kind == 'fn':
+                    if seg:
+                        split.append(Tok('link', url=t.url, inner=seg))
+                    split.append(x)
+                    seg = []
+                else:
+                    seg.append(x)
+            if seg:
+                split.append(Tok('link', url=t.url, inner=seg))
+        else:
+            split.append(t)
+    toks = split
     hoisted = []
     for t in toks:          # line breaks at the edges of a link text belong outside the link
-        if t.kind == 'link' and t.inner and (t.inner[0].kind == 'br' or t.inner[-1].kind == 'br'):
+        if t.kind == 'link' and t.inner and (t.inner[0].kind in ('br', 'fn') or t.inner[-1].kind in ('br', 'fn')):
             inner = list(t.inner)
             pre, post = [], []
-            while inner and inner[0].kind == 'br':
+            while inner and inner[0].kind in ('br', 'fn'):
                 pre.append(inner.pop(0))
-            while inner and inner[-1].kind == 'br':
-                post.append(inner.pop())
+            while inner and inner[-1].kind in ('br', 'fn'):
+                post.insert(0, inner.pop())
             hoisted.extend(pre + [Tok('link', url=t.url, inner=inner)] + post)
         else:
             hoisted.append(t)
@@ -867,9 +993,14 @@ class PrintedText:
         t = t.translate(str.maketrans('âîûêô', 'aiueo')).replace('ı', 'i')
         return re.sub(r'[^0-9a-zçğöşü]+', '', t)
 
-    def __init__(self, pdf, heading_texts, caption_texts, vocab_texts):
-        out = subprocess.run(['/opt/homebrew/bin/pdftotext', '-layout', pdf, '-'], check=True,
-                             capture_output=True).stdout.decode('utf-8')
+    def __init__(self, pdf, heading_texts, caption_texts, vocab_texts, cfg=None):
+        cfg = cfg or dict(layout=True, start='NEDİR DEFI?', headers=self.HEADERS)
+        self.lookback = cfg.get('lookback', 0)          # how far behind the pointer an anchor may be (two columns)
+        self.multi_end = cfg.get('multi_end', False)
+        self.keep_punct = cfg.get('keep_punct', False)  # keep stand-alone punctuation tokens ("-", "...") in the text
+        self.strict = cfg.get('strict', False)          # extra guards for an unreliable text layer (dashes, glued words)
+        out = subprocess.run(['/opt/homebrew/bin/pdftotext'] + (['-layout'] if cfg['layout'] else []) + [pdf, '-'],
+                             check=True, capture_output=True).stdout.decode('utf-8')
         heads = set(self.key(h) for h in heading_texts if self.key(h))
         caps = set(self.key(c) for c in caption_texts if self.key(c))
         pages = out.split('\f')
@@ -884,19 +1015,28 @@ class PrintedText:
             if not lines:
                 continue
             if not started:
-                if any(l.strip() == 'NEDİR DEFI?' for l in lines):
+                if any(l.strip() == cfg['start'] for l in lines):
                     started = True
                 else:
                     continue
-            if lines and lines[0].strip() in self.HEADERS:
-                lines.pop(0)
-            if lines and re.fullmatch(r'\d{1,3}', lines[-1].strip()):
-                lines.pop()
-            # footnote block at the page bottom: unindented "N. text" after a blank line, to the end of the page
-            for k, l in enumerate(lines):
-                if re.match(r'^\d{1,2}\.\s+\S', l) and k > 0 and not lines[k - 1].strip():
-                    lines = lines[:k]
-                    break
+            if cfg['layout']:
+                if lines and lines[0].strip() in cfg['headers']:
+                    lines.pop(0)
+                if lines and re.fullmatch(r'\d{1,3}', lines[-1].strip()):
+                    lines.pop()
+                # footnote block at the page bottom: unindented "N. text" after a blank line, to the end of the page
+                for k, l in enumerate(lines):
+                    if re.match(r'^\d{1,2}\.\s+\S', l) and k > 0 and not lines[k - 1].strip():
+                        lines = lines[:k]
+                        break
+            else:
+                # reading-order text of a two-column layout: page numbers ("009") are dropped; the footnotes at the
+                # bottom start with a number glued to the text ("1http://...", "2Why ...") and run to the page end
+                lines = [l for l in lines if not re.fullmatch(r'\d{3}', l.strip())]
+                for k, l in enumerate(lines):
+                    if k >= len(lines) // 3 and re.match(r'^\d{1,3}(?:https?://|www\.|[^\W\d_])', l.strip()):
+                        lines = lines[:k]
+                        break
             lines_all.extend(l.strip() for l in lines if l.strip())
         # drop known heading / caption lines (1-3 consecutive lines whose joined text equals one)
         keep = []
@@ -935,10 +1075,18 @@ class PrintedText:
                     words[-1] = a + '-' + t
             else:
                 words.append(t)
-        self.words = [w for w in words if self.key(w)]
+        self.words = [w for w in words if self.key(w) or self.keep_punct]
         self.keys = [self.key(w) for w in self.words]
         self.vocab = vocab
         self.pos = 0
+
+    def join(self, toks):
+        if not self.keep_punct:
+            return ' '.join(toks)
+        res = ''
+        for t in toks:        # a stray punctuation token belongs to the word before it
+            res += (t if (res and re.fullmatch(r'[.,;:!?)’”…]+', t)) else (' ' + t if res else t))
+        return res
 
     @staticmethod
     def _footnote_free(p_tok, d_tok):
@@ -948,13 +1096,17 @@ class PrintedText:
             return m.group(1)
         return p_tok
 
-    def align(self, text):
-        """-> (printed_text or None, info dict)"""
+    def align(self, text, marks=None):
+        """-> (printed_text or None, info dict). marks: docx word positions (0..n) of footnote references; info['marks']
+        then holds the matching positions in the printed word list info['out']."""
         dw = text.split()
         dk = [self.key(w) for w in dw]
-        dk2 = [k for k in dk if k]
-        dw = [w for w, k in zip(dw, dk) if k]
-        dk = dk2
+        if not self.keep_punct:
+            dk2 = [k for k in dk if k]
+            dw = [w for w, k in zip(dw, dk) if k]
+            dk = dk2
+        elif self.strict and re.search('[—–]', text):
+            return None, {'n': len(dk), 'reason': 'dash'}      # the print renders spaced dashes differently
         n = len(dk)
         info = {'n': n}
         if n < 6:
@@ -963,8 +1115,9 @@ class PrintedText:
         P = self.keys
         k0 = min(8, n)
         best, bs = -1, 0
+        lo = max(0, self.pos - self.lookback)
         hi = min(len(P), self.pos + 600)
-        for st in range(self.pos, hi):
+        for st in range(lo, hi):
             sc = sum(1 for j in range(k0) if st + j < len(P) and P[st + j] == dk[j])
             if sc > best:
                 best, bs = sc, st
@@ -972,7 +1125,7 @@ class PrintedText:
             # fall back: exact 5-gram of the first words anywhere ahead
             g = dk[:5]
             bs = -1
-            for st in range(self.pos, min(len(P) - 4, self.pos + 4000)):
+            for st in range(lo, min(len(P) - 4, self.pos + 4000)):
                 if P[st:st + 5] == g:
                     bs = st
                     break
@@ -990,6 +1143,10 @@ class PrintedText:
         cands = set()
         cands.add(s + last.b + last.size + max(0, n - (last.a + last.size)))
         cands.add(s + last.b + last.size)
+        if self.multi_end:          # also try the ends implied by the last few solid matching blocks
+            for blk in [b for b in blocks if b.size >= 2][-4:]:
+                cands.add(s + blk.b + blk.size + max(0, n - (blk.a + blk.size)))
+                cands.add(s + blk.b + blk.size)
         bestr, be = -1, None
         for e in sorted(cands):
             e = min(e, len(P))
@@ -1012,8 +1169,18 @@ class PrintedText:
             if tag != 'equal' and (a1 - a0 >= 6 or b1 - b0 >= 6):
                 info['reason'] = 'large local difference'
                 return None, info
+            if tag != 'equal' and self.strict and re.search('[-–—]', ' '.join(dw[a0:a1])) and \
+                    not re.search('[-–—]', ' '.join(ps[b0:b1])):
+                info['reason'] = 'dash lost in the print text layer'
+                return None, info
+            if tag != 'equal' and self.strict and re.search('[a-zçğıöşü][A-ZÇĞİÖŞÜ]', ' '.join(ps[b0:b1])) and \
+                    not re.search('[a-zçğıöşü][A-ZÇĞİÖŞÜ]', ' '.join(dw[a0:a1])):
+                info['reason'] = 'words glued together in the print text layer'
+                return None, info
         out = []
+        spans = []
         for tag, a0, a1, b0, b1 in sm2.get_opcodes():
+            o0 = len(out)
             if tag == 'equal':
                 for x, y in zip(range(a0, a1), range(b0, b1)):
                     out.append(self._footnote_free(ps[y], dw[x]))
@@ -1024,8 +1191,20 @@ class PrintedText:
                     if m and self.key(t) not in self.vocab and self.key(m.group(1)) in self.vocab:
                         t = m.group(1)
                     out.append(t)
-        self.pos = be
-        return ' '.join(out), info
+            spans.append((tag, a0, a1, o0, len(out)))
+        if marks:
+            qs = []
+            for pm in marks:
+                q = len(out)
+                for tag, a0, a1, o0, o1 in spans:
+                    if a0 <= pm <= a1:
+                        q = o0 + (pm - a0) if tag == 'equal' else (o0 if pm == a0 else o1)
+                        break
+                qs.append(q)
+            info['marks'] = qs
+        info['out'] = out
+        self.pos = max(self.pos, be)
+        return self.join(out), info
 
 
 class Converter:
@@ -1048,7 +1227,8 @@ class Converter:
         ext = os.path.splitext(target)[1].lower()
         page.img_n += 1
         name = '%03d-%d%s' % (page.order, page.img_n, ext)
-        dest = os.path.join(self.img_dir, name)
+        final = os.path.join(self.img_dir, name)
+        dest = os.path.join(self.img_dir, '.work-' + name)       # work on a copy; sips output is not byte-stable
         with open(dest, 'wb') as f:
             f.write(data)
         self.img_in_bytes += len(data)
@@ -1064,8 +1244,14 @@ class Converter:
                 os.replace(tmp, dest)
             else:
                 os.remove(tmp)
-        w, h = img_dims(dest)
-        self.img_out_bytes += os.path.getsize(dest)
+        # keep an existing file when the new one is the same image re-encoded (same size in pixels, bytes within 0.1%)
+        if os.path.exists(final) and img_dims(final) == img_dims(dest) and \
+                abs(os.path.getsize(final) - os.path.getsize(dest)) <= max(8, os.path.getsize(final) // 1000):
+            os.remove(dest)
+        else:
+            os.replace(dest, final)
+        w, h = img_dims(final)
+        self.img_out_bytes += os.path.getsize(final)
         self.img_files.append(name)
         return name, w, h
 
@@ -1113,10 +1299,13 @@ class Converter:
         list_items = []          # current list: (ilvl, ordered, toks)
         started = False
         en = P['name'] == 'en'
-        df = P['name'] == 'df'
+        df = P['name'] in ('df', 'bc')
         late = en or df          # figures are built after their caption (placeholder blocks)
         h1_i = h2_i = 0
         self.repl = {}
+        self.bookmarks = {}      # bookmark name -> (page, heading id or None) of the place it marks
+        anchor = [None, None]    # page and heading id the converter is currently at
+        reg_cur, carry = [], []
         if P.get('printed_pdf'):
             self.align_printed()
         pending_title = None     # en: heading 5 (figure title) waiting for its image
@@ -1191,9 +1380,27 @@ class Converter:
                 flush_title()
             page = Page(kind, order, ch, cht, heading, slug, title)
             self.pages.append(page)
+            anchor[0], anchor[1] = page, None
 
         children = list(dx.body)
+
+        def register():
+            for nm in reg_cur:
+                self.bookmarks[nm] = (anchor[0], anchor[1])
+            del reg_cur[:]
+
         for idx, el in enumerate(children):
+            register()                      # bookmarks of the previous element: the converter state is now final
+            if el.tag == W + 'bookmarkStart':
+                carry.append(el.get(W + 'name'))
+                continue
+            if el.tag == W + 'bookmarkEnd':
+                continue
+            if started:
+                if el.tag == W + 'p':
+                    reg_cur.extend(b.get(W + 'name') for b in el.iter(W + 'bookmarkStart'))
+                reg_cur.extend(carry)
+            carry = []
             if el.tag == W + 'sdt':
                 continue
             if el.tag == W + 'sectPr':
@@ -1220,7 +1427,11 @@ class Converter:
             if el.tag != W + 'p':
                 warn('unhandled body element %s' % el.tag)
                 continue
-            style = P['style_alias'].get(dx.style(el), dx.style(el))
+            raw_style = dx.style(el)
+            style = P['style_alias'].get(raw_style, raw_style)
+            is_lead = raw_style in P.get('lead_styles', ())
+            if is_lead:
+                style = 'Normal'
             if not started:
                 if en:
                     if ''.join(t.text or '' for t in el.iter(W + 't')).strip() != P['intro_heading']:
@@ -1228,6 +1439,8 @@ class Converter:
                 elif style != 'heading 1':
                     continue
             toks_raw = dx.para_tokens(el, dx.rels)
+            if is_lead:
+                toks_raw = force_italic(toks_raw)
             text = plain_text(toks_raw)      # includes text inside links
             has_img = any(t.kind == 'img' for t in toks_raw)
 
@@ -1245,7 +1458,7 @@ class Converter:
                     new_page('chapter', chapter * 100, chapter, chapter_title, heading,
                              P['chapter_slug'] % chapter, '%s – %s' % (heading, SITE_TITLE))
                 continue
-            if en and has_img:
+            if late and has_img and not (style in ('heading 1', 'heading 2') and text):
                 style = 'Normal'
             if en and started and chapter > 0 and style == 'Normal' and text in P['promote']:
                 PROFILE_USES[('promote', text)] = PROFILE_USES.get(('promote', text), 0) + 1
@@ -1288,7 +1501,8 @@ class Converter:
                         continue
                     if df:
                         printed = P['sections'][h2_i]
-                        if PrintedText.key(text) != PrintedText.key(printed):
+                        kt, kp = PrintedText.key(text), PrintedText.key(printed)
+                        if kt != kp and not (P.get('heading_prefix') and kt.startswith(kp)):
                             raise SystemExit('section heading %r does not match printed %r' % (text, printed))
                         h2_i += 1
                         text = printed
@@ -1323,6 +1537,18 @@ class Converter:
                 continue
             if not started:
                 continue
+            if not text and not has_img and any(t.kind == 'fn' for t in toks_raw) and \
+                    all(t.kind == 'fn' or (t.kind == 't' and not t.text.strip()) for t in toks_raw):
+                # a paragraph that holds only footnote references: they belong to the text just before
+                flush_list(); flush_label()
+                refs = ''.join(join_pieces(Renderer(page).render([t]), 'md') for t in toks_raw if t.kind == 'fn')
+                if late and pending_fig is not None:
+                    flush_fig()
+                if page.blocks and isinstance(page.blocks[-1], str) and not page.blocks[-1].startswith(('<figure', '#')):
+                    page.blocks[-1] += refs
+                else:
+                    page.blocks.append(refs)
+                continue
             if not text and not has_img and any(t.kind == 'hr' for t in toks_raw):
                 flush_list(); flush_label(); flush_fig(); flush_title()
                 add_block('* * *')
@@ -1338,7 +1564,7 @@ class Converter:
                     pending_fig['caption'] = toks
                     continue
                 if df and not has_img and not has_numpr and style == 'Normal' and pending_fig is not None \
-                        and pending_fig['caption'] is None and italic_fraction(toks_raw) >= 0.5:
+                        and pending_fig['caption'] is None and is_caption(toks_raw):
                     pending_fig['caption'] = strip_italic(toks)
                     continue
                 flush_fig()
@@ -1376,6 +1602,7 @@ class Converter:
                 else:
                     level = {'heading 3': '##', 'heading 4': '###', 'heading 5': '####'}[style]
                 hid = page.unique_id(ptext)
+                anchor[1] = hid
                 md = join_pieces(r.render(toks, strip_bold=True), 'md')
                 add_block('%s %s {#%s}' % (level, md, hid))
                 if style == 'heading 3':
@@ -1398,6 +1625,8 @@ class Converter:
                     page.blocks.append(None)
                     f = dict(page=page, idx=len(page.blocks) - 1, rid=im.rid, title=pending_title if n == 0 else None,
                              caption=None, note=rest if n == len(imgs) - 1 else [])
+                    if df and f['note']:            # text inside the image paragraph is its caption
+                        f['caption'], f['note'] = strip_italic(f['note']), []
                     if n == len(imgs) - 1:
                         pending_fig = f
                     else:
@@ -1437,8 +1666,7 @@ class Converter:
                 self.dropped_dots = getattr(self, 'dropped_dots', 0) + 1
                 continue
             if df and id(el) in self.repl:
-                rt, rb, ri = self.repl[id(el)]
-                toks = [Tok('t', rt, rb, ri)]
+                toks = list(self.repl[id(el)])
             r = Renderer(page)
             md = join_pieces(r.render(toks), 'md')
             plain = plain_text(toks)
@@ -1451,6 +1679,7 @@ class Converter:
             page.stats['links'] += sum(1 for t in toks if t.kind == 'link')
             add_block(md, plain)
 
+        register()
         flush_list(); flush_label(); flush_fig()
         if pending_title is not None:
             flush_title()
@@ -1477,13 +1706,18 @@ class Converter:
                 continue
             if el.tag != W + 'p':
                 continue
-            style = P['style_alias'].get(dx.style(el), dx.style(el))
+            raw_style = dx.style(el)
+            style = P['style_alias'].get(raw_style, raw_style)
+            if raw_style in P.get('lead_styles', ()):
+                style = 'Normal'
             if not started:
                 if style == 'heading 1':
                     started = True
                 else:
                     continue
             toks = dx.para_tokens(el, dx.rels)
+            if raw_style in P.get('lead_styles', ()):
+                toks = force_italic(toks)
             text = plain_text(toks)
             if any(t.kind == 'img' for t in toks):
                 prev_img = True
@@ -1494,13 +1728,13 @@ class Converter:
                 heading_texts.append(text)
                 prev_img = False
                 continue
-            kind = 'caption' if prev_img and italic_fraction(toks) >= 0.5 else 'body'
+            kind = 'caption' if prev_img and is_caption(toks) else 'body'
             if kind == 'caption':
                 caption_texts.append(text)
             prev_img = False
             vocab_texts.append(text)
             items.append((el, kind, text, toks, el.find(W + 'pPr/' + W + 'numPr') is not None))
-        pt = PrintedText(pdf, heading_texts, caption_texts, vocab_texts)
+        pt = PrintedText(pdf, heading_texts, caption_texts, vocab_texts, P.get('printed_cfg'))
         self.align_log = []
         self.align_stats = collections.Counter()
         for el, kind, text, toks, is_list in items:
@@ -1514,12 +1748,19 @@ class Converter:
                 reason = 'list item'
             elif any(t.kind == 'link' for t in ctoks):
                 reason = 'has hyperlink'
-            elif any(t.kind not in ('t',) for t in ctoks):
+            elif any(t.kind not in ('t', 'fn') for t in ctoks):
                 reason = 'line break / other inline content'
             elif len(flags) > 1:
                 reason = 'mixed bold/italic'
             self.align_stats['body paragraphs'] += 1
-            printed, info = pt.align(ctext)
+            marks, wcount = [], 0
+            for t in ctoks:
+                if t.kind == 't':
+                    wcount += sum(1 for w in t.text.split() if PrintedText.key(w) or pt.keep_punct)
+                elif t.kind == 'fn':
+                    marks.append(wcount)
+            fns = [t for t in ctoks if t.kind == 'fn']
+            printed, info = pt.align(ctext, marks or None)
             if reason is None and printed is None:
                 reason = info['reason']
             if reason is not None:
@@ -1531,7 +1772,21 @@ class Converter:
             else:
                 self.align_stats['replaced'] += 1
             fb, fi = next(iter(flags)) if flags else (False, False)
-            self.repl[id(el)] = (printed, fb, fi)
+            if fns:
+                res, prev, need = [], 0, False
+                out = info['out']
+                for q, ft in zip(info['marks'], fns):
+                    seg = pt.join(out[prev:q])
+                    if seg:
+                        res.append(Tok('t', (' ' if need else '') + seg, fb, fi))
+                    res.append(ft)
+                    need, prev = True, q
+                seg = pt.join(out[prev:])
+                if seg:
+                    res.append(Tok('t', (' ' if need else '') + seg, fb, fi))
+                self.repl[id(el)] = res
+            else:
+                self.repl[id(el)] = [Tok('t', printed, fb, fi)]
             self.align_log.append(dict(status='replaced' if printed != ctext else 'identical', docx=ctext,
                                        printed=printed, info=info))
 
@@ -1642,17 +1897,41 @@ class Converter:
             out.append(d)
         return out, log
 
+    def resolve_links(self, text, page):
+        """internal cross-references ("#bm:NAME") -> permalink of the page holding the bookmark (+ heading id)"""
+        if '#bm:' not in text:
+            return text
+        def target(name):
+            t = self.bookmarks.get(name)
+            if not t or t[0] is None:
+                return None
+            pg, hid = t
+            return pg.permalink + ('#' + hid if hid else '')
+        def md(m):
+            u = target(m.group(2))
+            if u is None:
+                warn('unresolved internal link %r on page %s' % (m.group(2), page.slug))
+                return m.group(1)
+            return '[%s](%s)' % (m.group(1), u)
+        text = re.sub(r'\[((?:[^\[\]\\]|\\.)*)\]\(#bm:([^)\s]*)\)', md, text)
+        def html_(m):
+            u = target(m.group(1))
+            return 'href="%s"' % (u or '#')
+        return re.sub(r'href="#bm:([^"]*)"', html_, text)
+
     def apply_out_corrections(self):
-        counts = {c[0]: 0 for c in P.get('out_corrections', [])}
+        corr = P.get('out_corrections', [])
+        counts = {c[0]: 0 for c in corr}
+        want = {c[0]: (c[2] if len(c) > 2 else 1) for c in corr}
         for page in self.pages:
             for k, b in enumerate(page.blocks):
-                for old, new in P.get('out_corrections', []):
-                    n = b.count(old)
+                for c in corr:
+                    n = b.count(c[0])
                     if n:
-                        counts[old] += n
-                        b = b.replace(old, new)
+                        counts[c[0]] += n
+                        b = b.replace(c[0], c[1])
                 page.blocks[k] = b
-        bad = {k: v for k, v in counts.items() if v != 1}
+        bad = {k: v for k, v in counts.items() if v != want[k]}
         if bad:
             raise SystemExit('output corrections must match exactly once; got %r' % bad)
 
@@ -1669,6 +1948,8 @@ class Converter:
         self.apply_out_corrections()
         for page in self.pages:
             fdefs = self.footnote_defs(page)
+            page.blocks = [self.resolve_links(b, page) for b in page.blocks]
+            fdefs = self.resolve_links(fdefs, page)
             if extra_defs.get(page.filename):
                 fdefs = (fdefs + '\n\n' if fdefs else '') + '\n\n'.join(extra_defs[page.filename])
                 page.stats['fn_defs'] += len(extra_defs[page.filename])
@@ -1713,13 +1994,7 @@ def main(argv):
     log_path = os.environ.get('DOCX2BOOK_LOG')
     os.makedirs(img_dir, exist_ok=True)
     os.makedirs(out_dir, exist_ok=True)
-    # clear images of the previous run first so numbering changes cannot leave strays
-    man = os.path.join(img_dir, '.generated')
     conv = Converter(docx, out_dir, img_dir)
-    if os.path.exists(man):
-        for name in open(man, encoding='utf-8').read().split('\n'):
-            if name and os.path.isfile(os.path.join(img_dir, name)):
-                os.remove(os.path.join(img_dir, name))
     conv.run()
     files = conv.write()
     for kind, items in (('promote', P['promote']), ('heading', P['heading_overrides'])):

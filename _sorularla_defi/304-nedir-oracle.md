@@ -78,7 +78,7 @@ Chainlink işte bu hizmeti veren aracılar içinde en büyüğü. Bir DeFi platf
 
 Hikaye aslında oldukça eskilere (blokzincir zamanından bahsediyoruz!), 2014 yılına dayanıyor. Smartcontract.com (şimdiki adıyla [Chainlink Labs](https://chainlinklabs.com/)), açık blokzincirler ile dış dünya verileri arasında köprü kurmak amacıyla kurulan bir şirket. Merkezi, Cayman adalarında.
 
-Bu işin nasıl becerilebileceği konusuna uzunca bir süre kafa yoran ve deneysel çalışmalar yapan şirket yönetimi, 2017 yılında yaşanan halka token satma (İngilizcede ‘Initial Coin Offering’ ICO) rüzgarından yararlanarak geliştirdiği Chainlink projesine özgü bir token yaratıyor. LINK adı verilen bu tokenin %35’lik kısmı bu ICO ile halka satılarak 32 milyon ABD doları toplanıyor. Tokenlerin %35’lik kısmı Chainlink sistemine üye bilgi toplayıcılar ve sistemin gelişimine katkı sağlayacak paydaşlara verilmek üzere bir kenara ayrılıyor. Kalan %30 oranındaki token ise kurucu Chainlink Labs’de kalıyor.
+Bu işin nasıl becerilebileceği konusuna uzunca bir süre kafa yoran ve deneysel çalışmalar yapan şirket yönetimi, 2017 yılında yaşanan halka token satma (İngilizcede ‘Initial Coin Offering’ - ICO) rüzgarından yararlanarak geliştirdiği Chainlink projesine özgü bir token yaratıyor. LINK adı verilen bu tokenin %35’lik kısmı bu ICO ile halka satılarak 32 milyon ABD doları toplanıyor. Tokenlerin %35’lik kısmı Chainlink sistemine üye bilgi toplayıcılar ve sistemin gelişimine katkı sağlayacak paydaşlara verilmek üzere bir kenara ayrılıyor. Kalan %30 oranındaki token ise kurucu Chainlink Labs’de kalıyor.
 
 ICO sonrasında da devam eden ürün ve platform geliştirme sürecinin devamında, Chainlink nihayet 2019 yılı Mayıs ayında kullanıcılara sunuluyor.
 

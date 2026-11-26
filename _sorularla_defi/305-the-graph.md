@@ -86,7 +86,7 @@ Tabii önüne gelen endeksçi olamıyor. Bunun için bir miktar parayı (sistemi
 
 <strong><em>Küratörler:</em></strong>
 
-Bunun dışında, bir de küratörler (İngilizcede ‘curators’) var. Bunlar, akıllı sınıfı temsil ediyorlar. Küratörlerin yaptığı, hangi bilgi kaynaklarında hangi analizlerin para yapacağını önceden kestirmek. Böyle bir “cevher” bulduklarında, hemen analize para (yine sistemin parası olan GRT) kilitliyorlar. Eğer analiz tutarsa, getirinin bir kısmına hak kazanıyorlar. Burada, hızlı ve kaliteli analiz bulmak çok önemli; erken bulan kazanıyor, zira öyle “analizi ben buldum kimseye kaptırmam” gibi bir münhasırlık yok. Bir analizin kaliteli ve potansiyel olduğunu gören herkes para yatırır, endeksçiler de daha ilgi gören analizler için iş yaparlar. İlk bulan ve para yatıran iyi getiriler elde ederken, daha sonradan katılanlar daha az gelir elde eder.
+Bunun dışında, bir de küratörler (İngilizcede ‘curators’) var. Bunlar, akıllı sınıfı (!) temsil ediyorlar. Küratörlerin yaptığı, hangi bilgi kaynaklarında hangi analizlerin para yapacağını önceden kestirmek. Böyle bir “cevher” bulduklarında, hemen analize para (yine sistemin parası olan GRT) kilitliyorlar. Eğer analiz tutarsa, getirinin bir kısmına hak kazanıyorlar. Burada, hızlı ve kaliteli analiz bulmak çok önemli; erken bulan kazanıyor, zira öyle “analizi ben buldum kimseye kaptırmam” gibi bir münhasırlık yok. Bir analizin kaliteli ve potansiyel olduğunu gören herkes para yatırır, endeksçiler de daha ilgi gören analizler için iş yaparlar. İlk bulan ve para yatıran iyi getiriler elde ederken, daha sonradan katılanlar daha az gelir elde eder.
 
 <strong><em>Kullanıcılar:</em></strong>
 

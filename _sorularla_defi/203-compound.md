@@ -100,7 +100,7 @@ Herhangi bir kısıtlama getirilmediği için kullanıcılara verilen bu COMP to
 
 Kısıtlı sayıda (10 milyon adet) basılmış olan COMP tokenler başlangıçta 20 ABD Doları gibi bir değerden işlem görürken sonrasında yaklaşık 910 ABD Dolarına kadar [yükseldi](https://www.coingecko.com/en/coins/compound).
 
-Tabii, bu hemen akıllara 2017 yılının meşhur halka arzlarını (İngilizcede ‘Initial Coin Offering’ ICO) getirdi. Zira, hatırlarsanız o zamanlar binbir proje binbir vizyon ile piyasadan hatırı sayılır bir parayı “kaldırmıştı”. COMP da acaba öyle mi?
+Tabii, bu hemen akıllara 2017 yılının meşhur halka arzlarını (İngilizcede ‘Initial Coin Offering’ - ICO) getirdi. Zira, hatırlarsanız o zamanlar binbir proje binbir vizyon ile piyasadan hatırı sayılır bir parayı “kaldırmıştı”. COMP da acaba öyle mi?
 
 Cevap sanırım hem evet hem de hayır. Önce neden değil ona bakalım sonra neden benzediğini tartışırız.
 
@@ -108,7 +108,7 @@ Cevap sanırım hem evet hem de hayır. Önce neden değil ona bakalım sonra ne
 
 İkincisi, ICO’larda girişimlerin çıkardığı tokenler tamamen kâr amacı güden yatırımcılara para karşılığı satılmıştı (her ne kadar bu tokenlerin bir gün sistemi kullanmakta da işe yarayacağı söylense de). Şimdi ise sistem üzerinden alım satım yapan kullanıcılara yaptıkları işlem karşılığı token verilmesi var. Dolayısıyla sistemi büyütmeye yarayan bir token dağıtımı söz konusu.
 
-Neden 2017’nin token projelerini andırıyor? En önemli nedeni kullanıcılarda “Aman, kârlı bir projeyi kaçırıyorum!” şeklinde bir panik (İngilizcede ‘Fear of Missing Out’ FOMO) yaratmış olması. Halbuki, Compound’un CEO’su bile bu tokenlerin bir kâr amacı gütmeyeceğini söylüyor.
+Neden 2017’nin token projelerini andırıyor? En önemli nedeni kullanıcılarda “Aman, kârlı bir projeyi kaçırıyorum!” şeklinde bir panik (İngilizcede ‘Fear of Missing Out’ - FOMO) yaratmış olması. Halbuki, Compound’un CEO’su bile bu tokenlerin bir kâr amacı gütmeyeceğini söylüyor.
 
 ## Niye bu kadar talep gördü COMP? {#niye-bu-kadar-talep-gordu-comp}
 

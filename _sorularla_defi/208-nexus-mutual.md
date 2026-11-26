@@ -100,7 +100,7 @@ Birkaç neden var.
 
 Bunun dışında NXM sahibi olarak tazminat isteyenlerin taleplerini değerlendirmek, az sonra bahsedeceğimiz çeşitli ürünlere direkt olarak yatırım yapmak ya da NXM yönetim sisteminde söz sahibi olmak (örneğin yeni çıkarılacak ürünleri belirlemek için yapılan oylamalara katılmak) gibi Nexus Mutual’a özel belli para kazandırıcı aktivitelerde yer almak da mümkün.
 
-Bu arada bir konuyu tekrarlamakta fayda var. Her ne kadar merkeziyetsiz bir sistem olsa da Nexus Mutual’ın belli alanlarda kısıtları olduğunu belirtmiştik. Örneğin, NXM yalnızca Nexus Mutual’un kendi kurduğu platformda işlem görüyor. NXM satın almak isteyenler Nexus Mutual sistemine üye olmak zorundalar. Üye olmak için de müşterini tanı (KYC Know your customer) işleminden geçmek gerekiyor. KYC işlemlerini yapan ise İngiltere merkezli ve lisanslı bir şirket.
+Bu arada bir konuyu tekrarlamakta fayda var. Her ne kadar merkeziyetsiz bir sistem olsa da Nexus Mutual’ın belli alanlarda kısıtları olduğunu belirtmiştik. Örneğin, NXM yalnızca Nexus Mutual’un kendi kurduğu platformda işlem görüyor. NXM satın almak isteyenler Nexus Mutual sistemine üye olmak zorundalar. Üye olmak için de müşterini tanı (KYC - Know your customer) işleminden geçmek gerekiyor. KYC işlemlerini yapan ise İngiltere merkezli ve lisanslı bir şirket.
 
 ### NXM fiyatı neye göre belirleniyor? {#nxm-fiyati-neye-gore-belirleniyor}
 

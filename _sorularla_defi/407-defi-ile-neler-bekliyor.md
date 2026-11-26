@@ -28,7 +28,7 @@ Ya sisteme yeni katılanlar? Henüz bankası olmayan az bir kesim kaldı ama ora
 
 Peki ya yeni reşit olan gençler? Orada finans kurumlarının işi daha da zor, çünkü yeni nesil dijital dünyaya doğdu. Onların bu kurumların prestijine ya da sunduğu güvene pek de ihtiyaçları yok, dijital dünyadan korkmuyorlar. Tam tersine, o dünyanın getirdiği potansiyeli değerlendirmek istiyorlar. Riskler mi? Genç onlar, kaybedecek zamandan başka neleri var? Zaman dediğimiz de zaten bolca var ellerinde ve önlerinde.
 
-Yeni nesil, hisse senetlerinden sağlayacağı %10-20 getiri yerine daha riskli ama 10 kat 20 kat kazanacağı dijital dünyadaki yeni fırsatları kovalıyor.
+Yeni nesil, hisse senetlerinden sağlayacağı %10-20 getiri yerine daha riskli ama 10 kat - 20 kat kazanacağı dijital dünyadaki yeni fırsatları kovalıyor.
 
 Dolayısıyla, büyüme devam edecek ancak büyüyen pastadan aslan payını dijital dünya alacak. Hemen söyleyelim, ne kadar çaba gösterseniz de şu an için bu dijital dünyanın parası kriptoparalar, varlıkları NFT’ler, finans sistemi ise merkeziyetsiz finans olacak gibi görünüyor.
 
