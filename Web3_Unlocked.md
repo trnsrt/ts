@@ -5,12 +5,30 @@ permalink: /Web3_Unlocked/
 lang: en
 redirect_from:
   - /web3_unlocked/
-description: "All links referenced in Web3 Unlocked, the English edition of Turan Sert's book Sorularla Web3, listed by page, plus a link to read it free."
+description: "Web3 Unlocked by Turan Sert: a question-and-answer guide to Web3, the English edition of Sorularla Web3. Free to read online, with every link cited in the book."
 ---
 
 <a href="/Web3_Unlocked/read/"><img src="/assets/web3_front_cover.jpg" alt="Web3 Unlocked cover" width="220" style="display:block; margin: 0 auto 1.5rem auto;"></a>
 
-Thank you for reading *Web3 Unlocked*. For your convenience, all links referenced in the book are collected below. You can read the whole book online, free, [here](/Web3_Unlocked/read/). Enjoy!
+## About the book
+
+*Web3 Unlocked* by Turan Sert is a guide to Web3 written as questions and answers. It is the English translation of his Turkish book [*Sorularla Web3*](/Sorularla_Web3/). It maps the foundations, technologies, communities and applications of Web3, covering:
+
+- The foundations of the web: Web 1.0, Web 2.0 and Web3
+- Key pillars of the Web3 economy: Ethereum, Bitcoin and Solana, Layer 2 solutions, bridges, wallets and intents
+- The people powering Web3: communities, founders, investors, developers, miners and validators, and users
+- Web3 in everyday life: stablecoins, decentralized finance, NFTs, gaming and the metaverse, digital identity, decentralized physical infrastructure, regenerative finance, decentralized science, and AI meets Web3
+- Case studies: PayPal's PYUSD, Ethena's USDe, the 2022 collapses of Terra, 3AC and FTX, and the 2023 US banking crisis
+- Tokenization: tokens explained and tokenomics, with case studies on BlackRock and on tokenizing a US home
+- What's next for Web3
+
+You can read the whole book online, free, in your browser and without signing up, [here](/Web3_Unlocked/read/).
+
+Published by Scala Publishing, February 2026. ISBN 978-625-5544-29-2.
+
+## Links cited in the book
+
+All links referenced in the book are collected below, by page.
 
 
 <br>
@@ -286,7 +304,7 @@ are solving this problem
 [Will Solana surpass Ethereum?](https://www.nasdaq.com/articles/could-solana-overtake-ethereum-2026)  
 
 <br>
-<b>Page: 64:</b>
+<b>Page 64:</b>
 
 [Florin Digital](https://florindigital.substack.com/p/verifiable-off-chain-compute-enabling)
 
