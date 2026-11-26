@@ -31,3 +31,9 @@ description: "Turan Sert'in ilk kitabı Sorularla Blockchain: blokzincir teknolo
 Kitabın tamamını üye olmadan, çevrimiçi ve ücretsiz olarak [buradan](/Sorularla_Blockchain/oku/) okuyabilirsiniz.
 
 Yayın: BCTR ve TBV, 2019.
+
+## İçindekiler {#icindekiler}
+
+Kitabın tam metnini bölüm bölüm aşağıdan okuyabilirsiniz.
+
+{% include book-toc.html collection="sorularla_blockchain" %}

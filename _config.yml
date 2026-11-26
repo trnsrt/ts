@@ -67,12 +67,22 @@ defaults:
       lang: tr
       seo:
         type: WebPage
+  - scope:
+      path: ""
+      type: sorularla_blockchain
+    values:
+      layout: book-section
+      lang: tr
+      seo:
+        type: WebPage
 collections:
   sorularla_web3:
     output: true
   web3_unlocked:
     output: true
   sorularla_defi:
+    output: true
+  sorularla_blockchain:
     output: true
 header_pages:
   - kitaplar.md
@@ -102,5 +112,6 @@ exclude:
   - "NOTES-*.md"
   - "DECISIONS-*.md"
   - "REVIEW-*.md"
+  - "*.docx"
   - subscription-form.md
   - subscription-thank-you.md

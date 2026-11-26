@@ -11,7 +11,7 @@
   "url": {{ page.url | absolute_url | jsonify }},
   "inLanguage": {{ b.lang | jsonify }},
   "author": { "@type": "Person", "@id": "https://turansert.com/#person", "name": "Turan Sert", "url": "https://turansert.com/" },
-  "isPartOf": { "@type": "Book", "name": {{ b.name | jsonify }}, "url": {{ b.info_url | absolute_url | jsonify }}, "isbn": {{ b.isbn | jsonify }} },
+  "isPartOf": { "@type": "Book", "name": {{ b.name | jsonify }}, "url": {{ b.info_url | absolute_url | jsonify }}{% if b.isbn != "" and b.isbn %}, "isbn": {{ b.isbn | jsonify }}{% endif %} },
   "position": {{ page.order | jsonify }},
   "isAccessibleForFree": true
 }

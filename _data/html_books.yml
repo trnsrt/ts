@@ -60,3 +60,23 @@ sorularla_defi:
   source_book: "kitap sayfası"
   other_url: /Kitaplar/
   source_other: "Diğer kitaplar"
+sorularla_blockchain:
+  name: "Sorularla Blockchain"
+  info_url: /Sorularla_Blockchain/
+  reader_url: /Sorularla_Blockchain/oku/
+  chapter_path: /Sorularla_Blockchain/bolum-
+  isbn: ""
+  lang: tr
+  chapter_word: "Bölüm"
+  intro_word: "Giriş"
+  prev_word: "Önceki"
+  next_word: "Sonraki"
+  breadcrumb_label: "Sayfa yolu"
+  sections_label: "Bölümün başlıkları"
+  prevnext_label: "Önceki ve sonraki"
+  source_intro: "Bu metin, Turan Sert’in <em>Sorularla Blockchain</em> kitabından alınmıştır (BCTR ve TBV, 2019)."
+  source_all: "Kitabın tamamı:"
+  source_reader: "PDF okuyucu"
+  source_book: "kitap sayfası"
+  other_url: /Kitaplar/
+  source_other: "Diğer kitaplar"
