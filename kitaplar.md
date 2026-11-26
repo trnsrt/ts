@@ -14,7 +14,7 @@ Ekosisteme katkı sağlamak amacıyla yayınlanan, biri İngilizce çeviri olmak
 
 Bunlardan ilki Blockchain Türkiye aracılığıyla 2019 yılında yayınlanan "[Sorularla Blockchain](/Sorularla_Blockchain/oku/)". Kitabın pdf versiyonunu ücretsiz olarak [buradan](/Sorularla_Blockchain/oku/) indirebilirsiniz.  
 
-İkinci kitap ise 2022 yılının başında yayınlanan "[Sorularla DeFi - Merkeziyetsiz Finans](/Sorularla_DeFi/oku/)". Kitabın pdf versiyonune ücretsiz olarak [buradan](/Sorularla_DeFi/oku/) ulaşabilirsiniz. 
+İkinci kitap ise 2022 yılının başında yayınlanan "[Sorularla DeFi - Merkeziyetsiz Finans](/Sorularla_DeFi/oku/)". Kitabın pdf versiyonuna ücretsiz olarak [buradan](/Sorularla_DeFi/oku/) ulaşabilirsiniz. 
 
 Üçüncü kitap ise 2025 Şubat ayında yayınlanan "[Sorularla Web3](https://www.scalakitapci.com/sorularla-web3)". Kitap [Scala Yayıncılık websitesinde](https://www.scalakitapci.com/sorularla-web3) sizlerle buluşuyor. Kitabın pdf versiyonuna ücretsiz olarak [buradan](/Sorularla_Web3/oku/) ulaşabilirsiniz. 
 

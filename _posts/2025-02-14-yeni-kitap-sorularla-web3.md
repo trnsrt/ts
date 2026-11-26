@@ -46,3 +46,6 @@ Gelin bu soruları beraber soralım.
 
 [Link](https://www.scalakitapci.com/sorularla-web3)
 
+&nbsp;
+
+Kitabı [buradan ücretsiz okuyabilirsiniz](/Sorularla_Web3/oku/). İngilizce baskısı: [Web3 Unlocked](/Web3_Unlocked/).
