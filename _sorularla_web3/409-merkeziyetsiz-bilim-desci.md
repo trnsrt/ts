@@ -34,7 +34,7 @@ Son olarak merkeziyetsiz bilim, araştırmacıların bu yöndeki çabalarının 
 
 Özellikle bilim ve sanat alanında toplulukları bir araya getirmeye çalışan Merkeziyetsiz Bilim (ingilizcede Decentralized Science, kısaca DeSci) çatısı altında Ağustos 2023’e kadar 100’den fazla oluşum toplanmış durumda.
 
-<figure><img src="/assets/books/sorularla-web3/409-1.jpg" alt="Merkeziyetsiz bilim dünyası" width="1200" height="776" loading="lazy"><figcaption>Merkeziyetsiz bilim dünyası <span class="fig-note"><em>Decentralized Science ekosistemi - Ağustos 2023. (Kaynak: <a href="https://x.com/UltraRareBio/status/1694830533120040961">UltraRareBio</a>)</em></span></figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/409-1.jpg"><img src="/assets/books/sorularla-web3/409-1.jpg" alt="Merkeziyetsiz bilim dünyası" width="1200" height="776" loading="lazy"></a><figcaption>Merkeziyetsiz bilim dünyası <span class="fig-note"><em>Decentralized Science ekosistemi - Ağustos 2023. (Kaynak: <a href="https://x.com/UltraRareBio/status/1694830533120040961">UltraRareBio</a>)</em></span></figcaption></figure>
 
 Yukarıdaki tüm girişimlerin detaylı listesine dipnot’ta yer alan [link](https://docs.google.com/document/d/1aQC6zn-eXflSmpts0XGE7CawbUEHwnL6o-OFXO52PTc)[^2] üzerinden ulaşabilirsiniz. Burada gördüğünüz gibi merkeziyetsiz bilim alanındaki oyuncuları dokuz grupta toplayabiliyoruz[^3].
 

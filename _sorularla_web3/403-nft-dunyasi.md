@@ -44,7 +44,7 @@ Bir sanat eserinin değerini kabaca ikiye ayırmak mümkün (burada tamamen subj
 
 Spekülatif değer ise, eserin pazar değerini belirleyen ekstra tüm değerlerin toplamı olarak adlandırılabilir. Bunların bir kısmı sanatçının ünü, diğer ürünlerinin satış fiyatı, sanatçının daha ne kadar eser üretebileceği (sınırlılık), eserin daha önce hangi koleksiyonlara ait olduğu gibi esere özgü özellikler. Bir diğeri ise pazarın durumu. Örneğin son bir kaç yıldır yaşadığımız gibi piyasada para bolluğu olması, mevcut yatırım araçlarından istenen getirilerin alınamaması nedeniyle sanat eserlerinin alternatif yatırım aracı olarak görülmesinin getirdiği fiyat şişkinliği bunlardan birkaçı.
 
-<figure><img src="/assets/books/sorularla-web3/403-1.jpg" alt="NFT bir sanat eserine nasıl değer katar?" width="1200" height="699" loading="lazy"><figcaption>NFT bir sanat eserine nasıl değer katar?</figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/403-1.jpg"><img src="/assets/books/sorularla-web3/403-1.jpg" alt="NFT bir sanat eserine nasıl değer katar?" width="1200" height="699" loading="lazy"></a><figcaption>NFT bir sanat eserine nasıl değer katar?</figcaption></figure>
 
 *NFT bir sanat eserine nasıl değer katar? Tamamen subjektif bir değerlendirme.*
 
@@ -82,7 +82,7 @@ NFT’lerin sanatçı ile hayran kitlesi arasındaki iletişimi artırması, bun
 
 NFT dünyası 2021 yılı içinde büyük bir patlama yaşadı. Çıkan onlarca dijital eser, binlerce koleksiyon, ödenen çılgınca rakamlar… Sonrasında ise 2022 yılı içinde ciddi bir yavaşlama görüldü. Zincir üzerindeki NFT hacimlerine baktığımızda hacimlerin değişimi çok ciddi:
 
-<figure><img src="/assets/books/sorularla-web3/403-2.png" alt="Zincir bazında NFT hacimleri" width="1200" height="441" loading="lazy"><figcaption>Zincir bazında NFT hacimleri</figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/403-2.png"><img src="/assets/books/sorularla-web3/403-2.png" alt="Zincir bazında NFT hacimleri" width="1200" height="441" loading="lazy"></a><figcaption>Zincir bazında NFT hacimleri</figcaption></figure>
 
 *Farklı zincirlerde aylık NFT hacim oranları (milyar ABD Doları). (Kaynak: [TheBlock](https://www.theblock.co/data/nft-non-fungible-tokens/nft-overview))*
 

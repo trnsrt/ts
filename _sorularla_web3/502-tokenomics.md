@@ -80,7 +80,7 @@ Sonrasında yatırımcılar (geçmişte yapılmış yatırıma bağlı olarak) y
 
 Kalan miktar ise genelde ekosistemin diğer oyuncuları için ayrılıyor. Bunun içinde ekosistemin gelişmesi için ileride kullanılmak üzere kenara konan bir miktar da bulunuyor. Zaman içinde projenin büyümesine katkı sağlayacak diğer küçük projelere verilen ödüller ya da hibeler için ayrılan bir pay da var.. Bu pay ya projenin merkeziyetsiz otonom yapısına (İngilizcesi Decentralized Autonomous Organization kısaca DAO) ya da proje ekibinin bir sivil toplum oluşumuna (foundation) veriliyor.
 
-<figure><img src="/assets/books/sorularla-web3/502-1.png" alt="Birinci seviye ağların token dağılımları" width="1200" height="668" loading="lazy"><figcaption>Birinci seviye ağların token dağılımları <span class="fig-note"><em>Birinci seviye ağların token dağıtımları birbirlerinden çok farklılık gösterebiliyor. (Kaynak: Binance Research)</em></span></figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/502-1.png"><img src="/assets/books/sorularla-web3/502-1.png" alt="Birinci seviye ağların token dağılımları" width="1200" height="668" loading="lazy"></a><figcaption>Birinci seviye ağların token dağılımları <span class="fig-note"><em>Birinci seviye ağların token dağıtımları birbirlerinden çok farklılık gösterebiliyor. (Kaynak: Binance Research)</em></span></figcaption></figure>
 
 Son olarak da projenin halka ücretsiz dağıttığı airdrop’lar geliyor. Bu rakam projenin token dağıtımında genelde %5 ile %10 arasında değişmekle birlikte dağıtım süreci geçtiğimiz yıllar içinde ciddi bir değişime uğradı. Airdrop konusu toplumun geniş bir kısmını daha fazla ilgilendirdiği için gelin bu konuya biraz daha ayrıntılı bakalım.
 

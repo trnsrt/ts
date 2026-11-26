@@ -35,7 +35,7 @@ Raporun hemen başında yer alan yönetici özeti, dokümanı hazırlayanların 
 
 Web3 dünyasında aktif geliştirici sayısı Ethereum’un ilk ortaya çıktığı 2015 yılından bu yana her yıl ortalama %39 artış göstermiş.
 
-<figure><img src="/assets/books/sorularla-web3/304-1.png" alt="Web3 alanında çalışan geliştirici gelişim trendi" width="1200" height="529" loading="lazy"><figcaption>Web3 alanında çalışan geliştirici gelişim trendi <span class="fig-note"><em>Kripto geliştiricilerinin yıllar itibariyle gelişimi. Yıllık ortalama büyüme %39 oranında. (Kaynak: <a href="https://www.developerreport.com/developer-report">Electric Capital Developer Report 2024</a> Sayfa 9)</em></span></figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/304-1.png"><img src="/assets/books/sorularla-web3/304-1.png" alt="Web3 alanında çalışan geliştirici gelişim trendi" width="1200" height="529" loading="lazy"></a><figcaption>Web3 alanında çalışan geliştirici gelişim trendi <span class="fig-note"><em>Kripto geliştiricilerinin yıllar itibariyle gelişimi. Yıllık ortalama büyüme %39 oranında. (Kaynak: <a href="https://www.developerreport.com/developer-report">Electric Capital Developer Report 2024</a> Sayfa 9)</em></span></figcaption></figure>
 
 Her ne kadar genel olarak bir artış olsa da 2023 ve 2024 yıllarında geliştirici sayısında bir azalma olduğu görülüyor. Kripto için alarm zilleri mi çalıyor?
 
@@ -47,17 +47,17 @@ Bu azalmanın temel nedeni, sektöre yeni katkı yapan geliştirici sayısında 
 
 Burada asıl önemli nokta, sektörde uzun süredir olan geliştiricilerin katkı vermeye devam ediyor olması. Tecrübeli (2 yıldan uzun süredir sektörde olan) geliştirici sayısının 2023-24 yıllarını kapsayan dönemde yaklaşık %27 artış gösterdiğini görüyoruz.
 
-<figure><img src="/assets/books/sorularla-web3/304-2.png" alt="Tecrübe olarak aylık aktif geliştiricilerin gelişimi" width="1200" height="473" loading="lazy"><figcaption>Tecrübe olarak aylık aktif geliştiricilerin gelişimi <span class="fig-note"><em>Tecrübe bakımından aylık aktif geliştirici sayıları gelişimi. (Kaynak: <a href="https://www.developerreport.com/developer-report">Electric Capital Developer Report 2024</a> Sayfa 12)</em></span></figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/304-2.png"><img src="/assets/books/sorularla-web3/304-2.png" alt="Tecrübe olarak aylık aktif geliştiricilerin gelişimi" width="1200" height="473" loading="lazy"></a><figcaption>Tecrübe olarak aylık aktif geliştiricilerin gelişimi <span class="fig-note"><em>Tecrübe bakımından aylık aktif geliştirici sayıları gelişimi. (Kaynak: <a href="https://www.developerreport.com/developer-report">Electric Capital Developer Report 2024</a> Sayfa 12)</em></span></figcaption></figure>
 
 Zira, bulundukları süre ve verdikleri katkıya bakıldığında, yazılan kodların %70’i iki yıldan uzun süredir bu alanda üretim yapan geliştiricilerden geliyor.
 
-<figure><img src="/assets/books/sorularla-web3/304-3.png" alt="Farklı tecrübedeki geliştiriciler tarafından yapılan katkı" width="1200" height="559" loading="lazy"><figcaption>Farklı tecrübedeki geliştiriciler tarafından yapılan katkı <span class="fig-note"><em>Tecrübesine göre geliştiricilerin yaptığı katkılar. (Kaynak: <a href="https://www.developerreport.com/developer-report">Electric Capital Developer Report 2024</a> Sayfa 13)</em></span></figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/304-3.png"><img src="/assets/books/sorularla-web3/304-3.png" alt="Farklı tecrübedeki geliştiriciler tarafından yapılan katkı" width="1200" height="559" loading="lazy"></a><figcaption>Farklı tecrübedeki geliştiriciler tarafından yapılan katkı <span class="fig-note"><em>Tecrübesine göre geliştiricilerin yaptığı katkılar. (Kaynak: <a href="https://www.developerreport.com/developer-report">Electric Capital Developer Report 2024</a> Sayfa 13)</em></span></figcaption></figure>
 
 ### Geliştirici sayısı olarak en büyük ağlar hangisi? {#gelistirici-sayisi-olarak-en-buyuk-aglar-hangisi}
 
 Raporun her yıl en ilgi çeken kısmı, farklı ağların kaç adet geliştirici çektiği ve bu sayının bir önceki yıla göre nasıl değiştiği oluyor. 2024 yılında büyük olarak nitelendirilebilecek ağlara katkı yapan geliştirici sayıları şu şekilde gerçekleşti:
 
-<figure><img src="/assets/books/sorularla-web3/304-4.png" alt="Geliştirici sayısı gelişimi (2000 üzeri geliştirici)" width="1200" height="590" loading="lazy"><figcaption>Geliştirici sayısı gelişimi (2000 üzeri geliştirici) <span class="fig-note"><em>Zirvedeki (2000’den fazla geliştiricinin katkı verdiği) ağların 2023-24 arası geliştirici sayısı gelişimi. (Kaynak: <a href="https://www.developerreport.com/developer-report">Electric Capital Developer Report 2024</a> Sayfa 104)</em></span></figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/304-4.png"><img src="/assets/books/sorularla-web3/304-4.png" alt="Geliştirici sayısı gelişimi (2000 üzeri geliştirici)" width="1200" height="590" loading="lazy"></a><figcaption>Geliştirici sayısı gelişimi (2000 üzeri geliştirici) <span class="fig-note"><em>Zirvedeki (2000’den fazla geliştiricinin katkı verdiği) ağların 2023-24 arası geliştirici sayısı gelişimi. (Kaynak: <a href="https://www.developerreport.com/developer-report">Electric Capital Developer Report 2024</a> Sayfa 104)</em></span></figcaption></figure>
 
 Raporu ilk kez görenler için ufak bir açıklama yapalım. Öncelikle tabloda ismini gördükleriniz, ‘büyük ağlar’ olarak adlandırabileceğimiz 2000’in üzerinde geliştiriciye sahip ağlar. Yatay eksen, ağların 2023 yılı üçüncü çeyreğinde, dikey eksen ise 2024 yılı üçüncü çeyreğindeki geliştirici sayısını gösteriyor. Eğer bir ağ, yukarıda gördüğünüz 0% çizgisinin (grafiği kesen dört çizgiden soldan ikinci sırada yer alan kesik çizgi) solunda yer alırsa bu, bir yıl içinde geliştirici sayısını artırmış anlamına geliyor. Altında ise, geliştirici sayısında azalma var demek.
 
@@ -75,17 +75,17 @@ Ethereum’un bu kadar ön planda olmasının temel nedenlerinden biri elbette e
 
 Nitekim, EVM’in sektör standardı haline gelmesiyle birlikte, birden fazla ağ üzerinde geliştirme yapan yazılımcıların sayılarının da arttığını görüyoruz. Geliştiricilerin %36’sı birden fazla ağ üzerinde aktif.
 
-<figure><img src="/assets/books/sorularla-web3/304-5.png" alt="Geliştiricilerin destek verdiği blokzincir adedi dağılımı" width="1200" height="473" loading="lazy"><figcaption>Geliştiricilerin destek verdiği blokzincir adedi dağılımı <span class="fig-note"><em>Geliştiricilerin geliştirme yaptığı farklı ağ sayısı. (Kaynak: <a href="https://www.developerreport.com/developer-report">Electric Capital Developer Report 2024</a> Sayfa 48)</em></span></figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/304-5.png"><img src="/assets/books/sorularla-web3/304-5.png" alt="Geliştiricilerin destek verdiği blokzincir adedi dağılımı" width="1200" height="473" loading="lazy"></a><figcaption>Geliştiricilerin destek verdiği blokzincir adedi dağılımı <span class="fig-note"><em>Geliştiricilerin geliştirme yaptığı farklı ağ sayısı. (Kaynak: <a href="https://www.developerreport.com/developer-report">Electric Capital Developer Report 2024</a> Sayfa 48)</em></span></figcaption></figure>
 
 Burada da EVM’in ağırlığı olduğunu görmek mümkün. Aşağıdaki grafikte, birden fazla ağa geliştirme yapanların içinde EVM, karışık ve EVM dışı şeklinde yapılmış ayrımı yıllar bazında görebilirsiniz. Birden fazla ağ için akıllı kontrat geliştirenlerin %74’ü en az bir EVM ağ için geliştirme yapıyor.
 
-<figure><img src="/assets/books/sorularla-web3/304-6.png" alt="Çoklu zincirde çalışan geliştiricilerin çalıştıkları ağ cinsinden dağılımı" width="1200" height="550" loading="lazy"><figcaption>Çoklu zincirde çalışan geliştiricilerin çalıştıkları ağ cinsinden dağılımı <span class="fig-note"><em>Birden çok zincirde çalışan geliştiricilerin EVM ya da EVM dışı çalıştıkları ağa göre dağılımı. (Kaynak: <a href="https://www.developerreport.com/developer-report">Electric Capital Developer Report 2024</a> Sayfa 57)</em></span></figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/304-6.png"><img src="/assets/books/sorularla-web3/304-6.png" alt="Çoklu zincirde çalışan geliştiricilerin çalıştıkları ağ cinsinden dağılımı" width="1200" height="550" loading="lazy"></a><figcaption>Çoklu zincirde çalışan geliştiricilerin çalıştıkları ağ cinsinden dağılımı <span class="fig-note"><em>Birden çok zincirde çalışan geliştiricilerin EVM ya da EVM dışı çalıştıkları ağa göre dağılımı. (Kaynak: <a href="https://www.developerreport.com/developer-report">Electric Capital Developer Report 2024</a> Sayfa 57)</em></span></figcaption></figure>
 
 ### Diğer ağlarda durum nasıl? {#diger-aglarda-durum-nasil}
 
 Büyük ağları geçip daha da küçük ağlara baktığımızda ise şimdiye kadar gördüğümüz düşüş tablosunun bir parça kırıldığını görüyoruz.
 
-<figure><img src="/assets/books/sorularla-web3/304-7.png" alt="Geliştirici sayısı gelişimi (500-2000 geliştirici)" width="1200" height="606" loading="lazy"><figcaption>Geliştirici sayısı gelişimi (500-2000 geliştirici) <span class="fig-note"><em>500 ile 2000 arası geliştiriciye sahip göreceli ‘küçük’ ağların 2023-24 üçüncü çeyreğindeki geliştirici sayısı değişimi. (Kaynak: <a href="https://www.developerreport.com/developer-report">Electric Capital Developer Report 2024</a> Sayfa 106)</em></span></figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/304-7.png"><img src="/assets/books/sorularla-web3/304-7.png" alt="Geliştirici sayısı gelişimi (500-2000 geliştirici)" width="1200" height="606" loading="lazy"></a><figcaption>Geliştirici sayısı gelişimi (500-2000 geliştirici) <span class="fig-note"><em>500 ile 2000 arası geliştiriciye sahip göreceli ‘küçük’ ağların 2023-24 üçüncü çeyreğindeki geliştirici sayısı değişimi. (Kaynak: <a href="https://www.developerreport.com/developer-report">Electric Capital Developer Report 2024</a> Sayfa 106)</em></span></figcaption></figure>
 
 Grafikte ilgi çekici noktalar şu şekilde:
 
@@ -95,23 +95,23 @@ Grafikte ilgi çekici noktalar şu şekilde:
 
 Son olarak daha küçük sistemlerin grafiğini vererek bu konuyu kapatalım:
 
-<figure><img src="/assets/books/sorularla-web3/304-8.png" alt="Geliştirici sayısı gelişimi (200-500 geliştirici)" width="1200" height="604" loading="lazy"><figcaption>Geliştirici sayısı gelişimi (200-500 geliştirici) <span class="fig-note"><em>200 ile 500 arası geliştiriciye sahip göreceli ‘küçük’ ağların 2023-24 arası geliştirici sayısı gelişimi. (Kaynak: <a href="https://www.developerreport.com/developer-report">Electric Capital Developer Report 2024</a> Sayfa 107)</em></span></figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/304-8.png"><img src="/assets/books/sorularla-web3/304-8.png" alt="Geliştirici sayısı gelişimi (200-500 geliştirici)" width="1200" height="604" loading="lazy"></a><figcaption>Geliştirici sayısı gelişimi (200-500 geliştirici) <span class="fig-note"><em>200 ile 500 arası geliştiriciye sahip göreceli ‘küçük’ ağların 2023-24 arası geliştirici sayısı gelişimi. (Kaynak: <a href="https://www.developerreport.com/developer-report">Electric Capital Developer Report 2024</a> Sayfa 107)</em></span></figcaption></figure>
 
 ### Merkeziyetsiz finans alanındaki geliştiriciler hangi ağlarda yoğunlaşıyorlar? {#merkeziyetsiz-finans-alanindaki-gelistiriciler-hangi-aglarda-yogunlasiyorlar}
 
 Kullanılan ağlara baktığımızda merkeziyetsiz finans alanındaki geliştiricilerin yarısından fazlasının Ethereum ağında konumlandığını görüyoruz.
 
-<figure><img src="/assets/books/sorularla-web3/304-9.png" alt="Merkeziyetsiz finans alanındaki geliştiricilerin dağılımı" width="1200" height="570" loading="lazy"><figcaption>Merkeziyetsiz finans alanındaki geliştiricilerin dağılımı <span class="fig-note"><em>En yüksek trafiğe sahip Ethereum akıllı kontratları. (Kaynak: <a href="https://www.developerreport.com/developer-report">Electric Capital Developer Report 2024</a> Sayfa 147)</em></span></figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/304-9.png"><img src="/assets/books/sorularla-web3/304-9.png" alt="Merkeziyetsiz finans alanındaki geliştiricilerin dağılımı" width="1200" height="570" loading="lazy"></a><figcaption>Merkeziyetsiz finans alanındaki geliştiricilerin dağılımı <span class="fig-note"><em>En yüksek trafiğe sahip Ethereum akıllı kontratları. (Kaynak: <a href="https://www.developerreport.com/developer-report">Electric Capital Developer Report 2024</a> Sayfa 147)</em></span></figcaption></figure>
 
 ### Geliştiriciler nerelerde konumlanıyor? {#gelistiriciler-nerelerde-konumlaniyor}
 
 Son olarak, geliştiricilerin hangi bölgelerde yoğunlaştığına baktığımızda, her ne kadar ABD’nin liderliği sürse de, Web3 alanındaki geliştiricilerin %81’inin ABD dışında olması dikkat çekiyor.
 
-<figure><img src="/assets/books/sorularla-web3/304-10.png" alt="Ülkelerin geliştirici sayılarının toplam içindeki payı" width="1200" height="473" loading="lazy"><figcaption>Ülkelerin geliştirici sayılarının toplam içindeki payı <span class="fig-note"><em>Ülkelere göre geliştiricilerin dağılımı. Ülkemiz için rakam tam olarak verilmese de, renk skalasından %1’in altında olduğu görülüyor. (Kaynak: <a href="https://www.developerreport.com/developer-report">Electric Capital Developer Report 2024</a> Sayfa 29)</em></span></figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/304-10.png"><img src="/assets/books/sorularla-web3/304-10.png" alt="Ülkelerin geliştirici sayılarının toplam içindeki payı" width="1200" height="473" loading="lazy"></a><figcaption>Ülkelerin geliştirici sayılarının toplam içindeki payı <span class="fig-note"><em>Ülkelere göre geliştiricilerin dağılımı. Ülkemiz için rakam tam olarak verilmese de, renk skalasından %1’in altında olduğu görülüyor. (Kaynak: <a href="https://www.developerreport.com/developer-report">Electric Capital Developer Report 2024</a> Sayfa 29)</em></span></figcaption></figure>
 
 Geliştiricilerin ülke olarak dağılımına baktığımızda ise Asya kıtasının özellikle Hindistan ile atak yaptığını görüyoruz.
 
-<figure><img src="/assets/books/sorularla-web3/304-11.png" alt="En çok geliştiriciye sahip on ülkenin değişimi" width="1200" height="557" loading="lazy"><figcaption>En çok geliştiriciye sahip on ülkenin değişimi <span class="fig-note"><em>Bölgelere göre geliştiricilerin paylarının yıllar içinde değişimi. (Kaynak: <a href="https://www.developerreport.com/developer-report">Electric Capital Developer Report 2024</a> Sayfa 30)</em></span></figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/304-11.png"><img src="/assets/books/sorularla-web3/304-11.png" alt="En çok geliştiriciye sahip on ülkenin değişimi" width="1200" height="557" loading="lazy"></a><figcaption>En çok geliştiriciye sahip on ülkenin değişimi <span class="fig-note"><em>Bölgelere göre geliştiricilerin paylarının yıllar içinde değişimi. (Kaynak: <a href="https://www.developerreport.com/developer-report">Electric Capital Developer Report 2024</a> Sayfa 30)</em></span></figcaption></figure>
 
 ## Sonuç {#sonuc}
 

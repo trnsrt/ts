@@ -16,7 +16,7 @@ Ekonomisinin nasıl çalıştığını anlayabilmek için öncelikle Ethereum’
 
 Akla ilk gelen soru “acaba bir şirket mi Ethereum?” oluyor ama pek öyle değil; onun yerine Ethereum’u bir ülkeye benzetmek daha uygun kaçabilir. Hatta bir adım öteye giderek, üzerinde yavaş yavaş gelişmeye başlayan ve ikinci seviye olarak adlandırılan blokzincirleri de katacak olursak, Ethereum’a eyaletlerden oluşan bir ‘birleşik devlet’ demek belki de daha doğru. Bu devletin içinde farklı farklı aktörler var. Kimler bunlar diye bakacak olursak:
 
-<figure><img src="/assets/books/sorularla-web3/201-1.png" alt="Ethereum birleşik devletleri" width="832" height="404" loading="lazy"><figcaption>Ethereum birleşik devletleri</figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/201-1.png"><img src="/assets/books/sorularla-web3/201-1.png" alt="Ethereum birleşik devletleri" width="832" height="404" loading="lazy"></a><figcaption>Ethereum birleşik devletleri</figcaption></figure>
 
 *Kullanıcılar, kullandıkları uygulamalar, ikinci seviye çözümler ve en altta ana zincir ile birlikte karşınızda Ethereum birleşik devletleri*
 
@@ -36,7 +36,7 @@ Ethereum’un ekonomik büyüklüğünü anlamak için sistemin yukarıdaki akt�
 
 Ethereum’un birkaç gelir kalemi mevcut. Bu kalemlere bakmadan önce Ethereum’un tam olarak ne fayda sağladığına bakmak gerekiyor. Ethereum’un sunduğu temel hizmet, dijital dünyada kullanıcıların kendi aralarında başta finansal olmak üzere her tür ilişkiyi güvenli bir şekilde yapabilecekleri bir alan sağlamak. Peki bunu nasıl yapıyor? Kullanıcılara üzerinde işlem yapabilecekleri bir blok alanı satarak.
 
-<figure><img src="/assets/books/sorularla-web3/201-2.png" alt="Ethereum blok alanını kullananlar" width="832" height="404" loading="lazy"><figcaption>Ethereum blok alanını kullananlar</figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/201-2.png"><img src="/assets/books/sorularla-web3/201-2.png" alt="Ethereum blok alanını kullananlar" width="832" height="404" loading="lazy"></a><figcaption>Ethereum blok alanını kullananlar</figcaption></figure>
 
 *Kullanıcılar, DeFi platformları ve ikinci seviye çözümler Ethereum’un blok alanının sistemin operasyon (işleyiş ve güvenlik) görevini yürütenlere işlem ücreti öderler*
 
@@ -48,7 +48,7 @@ Kullanıcılar bu blok alanını kullanabilmek için bir işlem ücreti ödüyor
 
 Kullanıcıların işlem yapmak için gönderdikleri emirleri sıraya koymak, blokları oluşturan aracıların işi. Bu aracılara, işlemleri tarayanlar (tarayıcılar) ve işlemleri blok haline getirenler (‘blok yapıcılar’) deniyor.
 
-<figure><img src="/assets/books/sorularla-web3/201-3.png" alt="Ethereum sistemi içinde değer akışı" width="832" height="350" loading="lazy"><figcaption>Ethereum sistemi içinde değer akışı</figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/201-3.png"><img src="/assets/books/sorularla-web3/201-3.png" alt="Ethereum sistemi içinde değer akışı" width="832" height="350" loading="lazy"></a><figcaption>Ethereum sistemi içinde değer akışı</figcaption></figure>
 
 *Ethereum sistemi içindeki bir işlemin gerçekleşmesi için kullanılan aracılar*
 
@@ -68,11 +68,11 @@ Ethereum’un yarattığı bu iki ana gelir kalemi dışında, son dönemde baş
 
 Yukarıda bahsettiğimiz üç temel gelir kaleminin 2024 yılının ilk 11 ayındaki dağılımını aşağıdaki tabloda bulabilirsiniz.
 
-<figure><img src="/assets/books/sorularla-web3/201-4.png" alt="Ethereum gelirleri dağılımı" width="600" height="329" loading="lazy"><figcaption>Ethereum gelirleri dağılımı <span class="fig-note"><em>Blockworks tarafından hazırlanan grafikte verilen rakamlar üzerinden hesaplanmıştır (milyon ABD Doları). (Kaynak: Blockworks - <a href="https://x.com/smyyguy/status/1866145481564307763/photo/2">Dan Smith</a>)</em></span></figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/201-4.png"><img src="/assets/books/sorularla-web3/201-4.png" alt="Ethereum gelirleri dağılımı" width="600" height="329" loading="lazy"></a><figcaption>Ethereum gelirleri dağılımı <span class="fig-note"><em>Blockworks tarafından hazırlanan grafikte verilen rakamlar üzerinden hesaplanmıştır (milyon ABD Doları). (Kaynak: Blockworks - <a href="https://x.com/smyyguy/status/1866145481564307763/photo/2">Dan Smith</a>)</em></span></figcaption></figure>
 
 Bu değer kalemlerinin kimlere aktığını ise aşağıdaki tabloda özet olarak görebilirsiniz.
 
-<figure><img src="/assets/books/sorularla-web3/201-5.png" alt="Ethereum blok alanında oluşan değer nereye akıyor" width="850" height="412" loading="lazy"><figcaption>Ethereum blok alanında oluşan değer nereye akıyor</figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/201-5.png"><img src="/assets/books/sorularla-web3/201-5.png" alt="Ethereum blok alanında oluşan değer nereye akıyor" width="850" height="412" loading="lazy"></a><figcaption>Ethereum blok alanında oluşan değer nereye akıyor</figcaption></figure>
 
 *Dört farklı şekilde oluşan gelirler kullanıcılardan aracılara doğru yukarıdaki gibi akar. Düz çizgiler direkt, kesik çizgiler ise dolaylı yoldan değer akışını gösteriyor. Örneğin baz ücretin artması, token sahiplerine direkt olarak gelir yazmıyor, ancak artan baz ücret daha fazla token yakımı demek bu da toplam token sayısının azalması ve oluşan toplam değerin daha az tokene bölünmesi anlamına geliyor.*
 
@@ -82,7 +82,7 @@ Ethereum’un gelirleri çok basit olarak yukarıdaki gibi. Peki bunları yapark
 
 İşin özünde Ethereum bir ağ ve bu ağın işlemesi için tek gereken, ağı kullanan binlerce makinenin harcadığı elektrik. Bu elektrik harcaması, özellikle Bitcoin gibi madenciler üzerinden yürütülen sistemlerde oldukça dramatik bir boyutta. Ethereum ise 15 Eylül 2022’de sistemini değiştirerek (Bitcoin’in kullandığı Proof-of-Work, kısaca PoW Türkçesi ‘iş kanıtı’ sisteminden, daha yeni ağlarda kullanılan Proof-of-Stake kısaca PoS Türkçesi ‘hisse kanıtı’ sistemine geçerek) enerji tüketimini %99 oranında azalttı.
 
-<figure><img src="/assets/books/sorularla-web3/201-6.png" alt="Teknoloji alanındaki oyuncuların enerji harcaması" width="800" height="675" loading="lazy"><figcaption>Teknoloji alanındaki oyuncuların enerji harcaması</figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/201-6.png"><img src="/assets/books/sorularla-web3/201-6.png" alt="Teknoloji alanındaki oyuncuların enerji harcaması" width="800" height="675" loading="lazy"></a><figcaption>Teknoloji alanındaki oyuncuların enerji harcaması</figcaption></figure>
 
 *Farklı sistemlerin enerji harcamaları karşılaştırması (terawatt saat/yıl), (Kaynak: [Ethereum Foundation](https://ethereum.org/en/energy-consumption/))*
 
@@ -102,7 +102,7 @@ Onaylayıcılar yaptıkları işlemler aracılığıyla iki çeşit kazanç elde
 
 Dolaylı yoldan elde edilen kazanç ise, verilen ücretlerin bir kısmının yakılması sonucu piyasadaki ETH miktarının azalması yoluyla oluyor. Yukarıda bahsettiğimiz ‘bahşiş’ dışında kullanıcıların ödediği tüm işlem ücretleri yakılıyor. Yani tedavülden kalkıyor.
 
-<figure><img src="/assets/books/sorularla-web3/201-7.png" alt="ETH basılması ve yakılması" width="883" height="342" loading="lazy"><figcaption>ETH basılması ve yakılması</figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/201-7.png"><img src="/assets/books/sorularla-web3/201-7.png" alt="ETH basılması ve yakılması" width="883" height="342" loading="lazy"></a><figcaption>ETH basılması ve yakılması</figcaption></figure>
 
 *Etherin doğuşu ve yakımının sistem aktörleri ile ilişkisi. Sol taraf sistemin bastığı parayı, sağ taraf ise sistemin yaktığı parayı göstermekte. Çizgili bağlantılar dolaylı etkiyi, düz çizgi bağlantılar ise direkt değer aktarımını göstermekte.*
 
@@ -110,7 +110,7 @@ Piyasadaki ETH miktarı verilen ödüller nedeniyle artıyor, kullanıcıların 
 
 Başlangıçtan bu yana piyasada bulunan ETH miktarının 2021 Ağustos’ta yakım işlemlerinin başlaması ve 2022 Eylül’de PoS sistemine geçiş sonrası nasıl değiştiğini aşağıdaki tablo net olarak açıklıyor.
 
-<figure><img src="/assets/books/sorularla-web3/201-8.png" alt="Ethereum para arzı değişimi (milyon ETH)" width="869" height="457" loading="lazy"><figcaption>Ethereum para arzı değişimi (milyon ETH) <span class="fig-note"><em>Ethereum sisteminde yıllar itibariyle para miktarının değişimi. (Kaynak: <a href="https://tokenterminal.com/resources/crypto-research/ethereum-investment-framework#the-business-model">Token Terminal</a>)</em></span></figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/201-8.png"><img src="/assets/books/sorularla-web3/201-8.png" alt="Ethereum para arzı değişimi (milyon ETH)" width="869" height="457" loading="lazy"></a><figcaption>Ethereum para arzı değişimi (milyon ETH) <span class="fig-note"><em>Ethereum sisteminde yıllar itibariyle para miktarının değişimi. (Kaynak: <a href="https://tokenterminal.com/resources/crypto-research/ethereum-investment-framework#the-business-model">Token Terminal</a>)</em></span></figcaption></figure>
 
 Her ne kadar hâlâ toplam ETH arzının gelecekte ne olacağı bitcoin kadar belli olmasa da, en azından piyasadaki etherin yıllık artış miktarı %2.1’i ile sınırlanmış durumda. (Bu da teorik ve gerçekçi olmayan bir rakam; piyasadaki tüm etherlerin sisteme kilitlendiği ve hiç işlem yapılmadığı durumu gösteriyor. 2024 yılı Aralık ayı itibariyle toplam arzın sadece %28’i kilitli ve yakılan miktar ile birlikte piyasadaki toplam ETH miktarı POS sistemine geçiş sonrası hemen hemen aynı kalmış durumda)
 
@@ -128,13 +128,13 @@ Ethereum topluluğu kuruluşunda ilk olarak işin teknolojisine odaklanıp para 
 
 Öncelikle para arzının temel nedeni olan madencilere verilen ücretlerin önemli bir kısmını Ağustos 2021’de uygulamaya koydukları bir geliştirme ile (EIP-1559) yakmaya başladılar. Sonrasında, Eylül 2022’de başlayan PoS sistemi ile madencilere verilen ödülü toptan kaldırıp, bunun yerine onaylayıcılara daha önce madencilere verdiklerinin altıda biri kadar ödül vermeye başladılar.
 
-<figure><img src="/assets/books/sorularla-web3/201-9.png" alt="Ethereum para arzında yapılan iki büyük iyileştirme" width="960" height="479" loading="lazy"><figcaption>Ethereum para arzında yapılan iki büyük iyileştirme</figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/201-9.png"><img src="/assets/books/sorularla-web3/201-9.png" alt="Ethereum para arzında yapılan iki büyük iyileştirme" width="960" height="479" loading="lazy"></a><figcaption>Ethereum para arzında yapılan iki büyük iyileştirme</figcaption></figure>
 
 *Ethereum sisteminde gerçekleşen iki büyük değişim. (Kaynak: [Token Terminal](https://tokenterminal.com/resources/crypto-research/ethereum-investment-framework#the-business-model))*
 
 Devrim niteliğindeki bu iki gelişme sonrası ETH arzı, BTC’nin çok daha altında gelmeye hatta pek çok zaman eksiye dönmeye başladı. Yani ETH sadece gümüş gibi işlevsel bir maden olmanın ötesinde altın gibi kısıtlı bir madene dönüşmeye başladı. İşte bu nedenle, Ethereum topluluğu içinde bir grup “Eğer Bitcoin’e sağlıklı para (sound money) diyorsanız, ETH’ye ‘ultra-sağlıklı para’ (ultra-sound money) demelisiniz” şeklinde bir söylem geliştirdi.
 
-<figure><img src="/assets/books/sorularla-web3/201-10.png" alt="ETH ve BTC’nin Ethereum’un birleşmesi sonrası para arzı" width="997" height="442" loading="lazy"><figcaption>ETH ve BTC’nin Ethereum’un birleşmesi sonrası para arzı</figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/201-10.png"><img src="/assets/books/sorularla-web3/201-10.png" alt="ETH ve BTC’nin Ethereum’un birleşmesi sonrası para arzı" width="997" height="442" loading="lazy"></a><figcaption>ETH ve BTC’nin Ethereum’un birleşmesi sonrası para arzı</figcaption></figure>
 
 *Ethereum ve Bitcoin para basımının, Ethereum PoS sistemine geçtikten sonraki dönem için karşılaştırması. Beyaz çizgi Ethereum PoS sistemine geçmeseydi yaşanacak artış miktarını, mavi çizgi ise PoS sistemine geçtikten sonra yaşanan artış miktarını gösteriyor. Mavi çizginin eksiyi göstermesi sistemin bastığından daha fazlasını yaktığını yani sistemdeki paranın (ETH) azaldığını gösteriyor. Ortadaki turuncu çizgi ise Bitcoin’in toplam arz artış oranı. (Kaynak: [Ultrasound Money](https://ultrasound.money/))*
 

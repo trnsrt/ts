@@ -72,7 +72,7 @@ Web3’de pek çok girişim anonim. Buna rağmen, belirli bir büyüklüğe gele
 
 DAO’ların kaç çeşit olduğunu söylemek oldukça güç. 2021 yılında yayınlanmış olan aşağıdaki tablo, her ne kadar üzerinden bir hayli zaman geçmiş olsa da, DAO’ların ekosistemi konusunda bize bir miktar ışık tutuyor:
 
-<figure><img src="/assets/books/sorularla-web3/301-1.png" alt="Topluluk – şekil" width="1200" height="747" loading="lazy"></figure>
+<figure><a href="/assets/books/sorularla-web3/301-1.png"><img src="/assets/books/sorularla-web3/301-1.png" alt="" width="1200" height="747" loading="lazy"></a></figure>
 
 *DAO ekosistemini oluşturan oyuncular. (Kaynak: ‘TheBlock, Mapping out the DAO Ecosystem’ raporu)*
 

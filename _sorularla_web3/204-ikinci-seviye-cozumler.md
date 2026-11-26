@@ -62,13 +62,13 @@ Birincisi kullanıcıların zincir üzerinde işlem yapma karşılığı ödedik
 
 İkinci seviyelerde yapılan işlem sayılarının düzenli bir şekilde arttığını söylemek mümkün. Bunda elbette işlem ücretlerinin Ethereum’a göre düşük olmasının büyük bir etkisi var. Yine de tek nedenin bu olduğu söylenemez. Özellikle ikinci seviye çözümlerin dağıtacağı tokenleri almak için bu zincirler üzerinden işlem ‘kasan’ önemli bir tayfa olduğunu da belirtelim. Bunu zincirlerin token dağıtımı yaptıktan sonra işlem hacimlerinin ciddi bir şekilde düşmesinden rahatlıkla görebiliyoruz. Özellikle Starknet ve zkSync’in yaptığı token dağıtımları sonrası yaşadıkları düşüşler buna örnek.
 
-<figure><img src="/assets/books/sorularla-web3/204-1.png" alt="Projelerin token yaratımı öncesi ve sonrası kullanıcı sayıları" width="1200" height="551" loading="lazy"><figcaption>Projelerin token yaratımı öncesi ve sonrası kullanıcı sayıları</figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/204-1.png"><img src="/assets/books/sorularla-web3/204-1.png" alt="Projelerin token yaratımı öncesi ve sonrası kullanıcı sayıları" width="1200" height="551" loading="lazy"></a><figcaption>Projelerin token yaratımı öncesi ve sonrası kullanıcı sayıları</figcaption></figure>
 
 *Token dağıtımı yapan projelerin airdop öncesi ve sonrası kullanıcı tutma oranları. (Kaynak: Dune, Tokenterminal, Artemis, [X](https://x.com/hmalviya9/status/1787714421084520862))*
 
 Burada token dağıtımı üzerinden uzun bir zaman geçmesine rağmen işlem hacimlerinde üst seviyelerde yer alan Arbitrum bu anlamda rakiplerinden ayrışıyor. Bu satırların yazıldığı sırada üst seviyelerde olan Base de ilginç bir örnek. ABD’nin en büyük borsası olan Coinbase tarafından kurulan Base, token dağıtımı konusunda ‘ser verip sır vermez’ iken, özellikle kendi müşteri kitlesini Web3 dünyasına çekerek yüksek işlem adetlerine ulaşmayı şimdilik başarmış durumda.
 
-<figure><img src="/assets/books/sorularla-web3/204-2.png" alt="İkinci seviye çözümler üzerinde aylık işlem adetleri (milyon adet)" width="1200" height="609" loading="lazy"><figcaption>İkinci seviye çözümler üzerinde aylık işlem adetleri (milyon adet)</figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/204-2.png"><img src="/assets/books/sorularla-web3/204-2.png" alt="İkinci seviye çözümler üzerinde aylık işlem adetleri (milyon adet)" width="1200" height="609" loading="lazy"></a><figcaption>İkinci seviye çözümler üzerinde aylık işlem adetleri (milyon adet)</figcaption></figure>
 
 *İkinci seviye çözümlerin işlem adetlerinde 2024 yılının ikinci çeyreği itibariyle bir yükseliş trendi görülüyor. (Kaynak: [GrowThePie](https://www.growthepie.xyz/fundamentals/transaction-count))*
 
@@ -82,7 +82,7 @@ Bunun dışında yine Ethereum kısmında uzunca bahsettiğimiz MEV gelirlerinin
 
 İkinci seviye çözümler için bir gelir kalemi maddesi olmasa da önemli konulardan biri, kullanıcıların sistem üzerine kilitlemiş olduğu değer miktarı (ingilizcesi ‘Total Value Locked’ kısaca TVL). Bu rakam bir yandan kullanıcıların sisteme ne kadar güvendiğini, öte yandan ağın ne kadar likidite taşıdığını gösteriyor. Likidite, özellikle finans alanında işlem yapmak isteyenler için önemli bir kriter. Likidite ne kadar yüksek ise alım-satım arasındaki fark o kadar kapanıyor ya da yapılan işlemin fiyata etkisi o kadar azalıyor.
 
-<figure><img src="/assets/books/sorularla-web3/204-3.png" alt="İkinci seviye çözümler üzerinde kilitli miktar (milyar ABD Doları)" width="1200" height="609" loading="lazy"><figcaption>İkinci seviye çözümler üzerinde kilitli miktar (milyar ABD Doları)</figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/204-3.png"><img src="/assets/books/sorularla-web3/204-3.png" alt="İkinci seviye çözümler üzerinde kilitli miktar (milyar ABD Doları)" width="1200" height="609" loading="lazy"></a><figcaption>İkinci seviye çözümler üzerinde kilitli miktar (milyar ABD Doları)</figcaption></figure>
 
 *İkinci seviye çözümler üzerindeki kilitli miktar. (Kaynak: [GrowthThePie](https://www.growthepie.xyz/fundamentals/total-value-locked))*
 
@@ -90,7 +90,7 @@ Bunun dışında yine Ethereum kısmında uzunca bahsettiğimiz MEV gelirlerinin
 
 İkinci seviye çözümlerin en büyük gider kalemi Ethereum’a ödedikleri alan kullanma ücreti. Bu alanda Mart ayı içinde Ethereum’a gelen [yeni güncelleme](https://www.btchaber.com/dencun-yukseltmesi-ethereum-eth-ana-aginda-yayina-girdi/) işlem gerçekleştirme maliyetlerine ciddi bir ucuzluk getirdi.
 
-<figure><img src="/assets/books/sorularla-web3/204-4.png" alt="İkinci seviye çözümlerin Ethereum’a ödediği işlem ücretleri" width="1200" height="638" loading="lazy"><figcaption>İkinci seviye çözümlerin Ethereum’a ödediği işlem ücretleri</figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/204-4.png"><img src="/assets/books/sorularla-web3/204-4.png" alt="İkinci seviye çözümlerin Ethereum’a ödediği işlem ücretleri" width="1200" height="638" loading="lazy"></a><figcaption>İkinci seviye çözümlerin Ethereum’a ödediği işlem ücretleri</figcaption></figure>
 
 *İkinci seviye çözümlerin Ethereum’a ödediği işlem ücretleri Dencun güncellemesi sonrası dramatik bir düşüş gösterdi. Bu çözümlerin sayısının artması kullandıkları alana olan talebin artması ve ücretlerin yükselmesi anlamına gelecek. (Kaynak: [GrowThePie](https://www.growthepie.xyz/fundamentals/rent-paid))*
 

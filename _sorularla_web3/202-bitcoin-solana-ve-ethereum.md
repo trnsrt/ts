@@ -18,7 +18,7 @@ Bu kısımda, piyasanın en büyük üç oyuncusunun son dönem performansların
 
 2023 yılının son aylarındaki fiyat hareketlerine baktığımızda, Ethereum ağının parası olan etherin (ETH), Bitcoin sisteminin parası olan BTC (bir başka deyişle ‘bitcoin’[^1]) ile Solana sisteminin parası olan SOL’un gerisinde kaldığını görüyoruz.
 
-<figure><img src="/assets/books/sorularla-web3/202-1.png" alt="Bitcoin, ETH ve SOL fiyat grafiği" width="749" height="416" loading="lazy"><figcaption>Bitcoin, ETH ve SOL fiyat grafiği <span class="fig-note"><em>Üç büyük ağın 2023-2024 içindeki fiyat grafik değişimi. Karşılaştırma yapabilmek için 2023 yılı 1 Ocak tarihi 100 olarak alındı. (Kaynak: <a href="https://www.coingecko.com/en/coins/ethereum/historical_data?start=2022-12-31&amp;end=2024-01-05,#panel">CoinGecko</a>)</em></span></figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/202-1.png"><img src="/assets/books/sorularla-web3/202-1.png" alt="Bitcoin, ETH ve SOL fiyat grafiği" width="749" height="416" loading="lazy"></a><figcaption>Bitcoin, ETH ve SOL fiyat grafiği <span class="fig-note"><em>Üç büyük ağın 2023-2024 içindeki fiyat grafik değişimi. Karşılaştırma yapabilmek için 2023 yılı 1 Ocak tarihi 100 olarak alındı. (Kaynak: <a href="https://www.coingecko.com/en/coins/ethereum/historical_data?start=2022-12-31&amp;end=2024-01-05,#panel">CoinGecko</a>)</em></span></figcaption></figure>
 
 Peki neden böyle bir performans ile karşılaştık? Neden bitcoin ve SOL hızlı hareket ederken ETH geride kaldı?
 
@@ -54,7 +54,7 @@ Peki durum ETH için o kadar kötü mü gerçekten? Gelin dilerseniz konuyu daha
 
 Öte yandan, Ethereum sistemi Solana kadar ucuz değil. Ethereum üzerinde hâlâ büyük bir talep olsa da, Ethereum geliştiricileri merkeziyetsizlikten ödün vermemek için sundukları blok alanını kısıtlı tutuyorlar.
 
-<figure><img src="/assets/books/sorularla-web3/202-2.jpg" alt="Bitcoin, Solana ve Ethereum – şekil" width="1200" height="553" loading="lazy"></figure>
+<figure><a href="/assets/books/sorularla-web3/202-2.jpg"><img src="/assets/books/sorularla-web3/202-2.jpg" alt="" width="1200" height="553" loading="lazy"></a></figure>
 
 *Ethereum ile Solana çalıştıran makinelerin kapasite farkları. (Kaynak: [Florin Digital](https://florindigital.substack.com/p/verifiable-off-chain-compute-enabling))*
 
@@ -76,7 +76,7 @@ Ethereum geliştiricilerinin şu anki önceliği son kullanıcıya ucuz işlem y
 
 Yukarıdaki söylemin son kullanıcı açısından bir albenisi yok. Yeni gelen bireysel bir yatırımcının Ethereum ağını kullanması çok zor, zira işlem ücretleri inanılmaz yüksek. Öte yandan bu söylemin küçük yatırımcıda değil ama kurumsal yatırımcıda ciddi bir karşılığı var. Zira, Ethereum yüksek işlem ücreti uyguluyor ama bir yandan da yoğun bir şekilde kullanılmaya devam ediyor. İşlem ücretleri düşse bile üzerine kurulu onlarca ikinci seviye çözüm sayesinde kullanımı daha da artacak. Kurumsal yatırımcı için klasik anlamda gelir getiren bir ağ Ethereum. **Dolayısıyla Ethereum artık büyük yatırımcılara ve ikinci seviye ağlara hizmet veren bir altyapı haline dönüşüyor**.
 
-<figure><img src="/assets/books/sorularla-web3/202-3.png" alt="Bitcoin, Ethereum ve Solana aylık toplam işlem ücretleri" width="916" height="444" loading="lazy"><figcaption>Bitcoin, Ethereum ve Solana aylık toplam işlem ücretleri</figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/202-3.png"><img src="/assets/books/sorularla-web3/202-3.png" alt="Bitcoin, Ethereum ve Solana aylık toplam işlem ücretleri" width="916" height="444" loading="lazy"></a><figcaption>Bitcoin, Ethereum ve Solana aylık toplam işlem ücretleri</figcaption></figure>
 
 *Üç büyük ağda son dört yılın aylık işlem ücretleri (milyon ABD Doları). (Kaynak: Dune Analytics-[@sankin](https://dune.com/queries/3275250/5482283))*
 

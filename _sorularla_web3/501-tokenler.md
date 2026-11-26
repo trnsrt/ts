@@ -100,7 +100,7 @@ Kripto dünyasında bu programlanabilir olma özelliğinin özellikle stabil par
 
 Bu alanda benim en sık takip ettiğim araştırma kurumlarından TheBlock’un pro versiyonunda çıkan şu grafik, gerçek ve finansal ekonomi ile kripto dünyasında tokenleştirmenin potansiyel faydalarını çok güzel özetlemiş:
 
-<figure><img src="/assets/books/sorularla-web3/501-1.png" alt="Tokenleştirmenin faydaları" width="769" height="726" loading="lazy"><figcaption>Tokenleştirmenin faydaları <span class="fig-note"><em>Tokenleştirmenin finansal, gerçek ve kripto ekonomisine faydaları. (Kaynak: TheBlock - <a href="https://www.theblock.co/post/241500/tokenization-of-off-chain-assets-presented-by-avalanche-and-ava-labs">Tokenization of Off-Chain Assets- Presented by Avalanche and Ava Labs</a>)</em></span></figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/501-1.png"><img src="/assets/books/sorularla-web3/501-1.png" alt="Tokenleştirmenin faydaları" width="769" height="726" loading="lazy"></a><figcaption>Tokenleştirmenin faydaları <span class="fig-note"><em>Tokenleştirmenin finansal, gerçek ve kripto ekonomisine faydaları. (Kaynak: TheBlock - <a href="https://www.theblock.co/post/241500/tokenization-of-off-chain-assets-presented-by-avalanche-and-ava-labs">Tokenization of Off-Chain Assets- Presented by Avalanche and Ava Labs</a>)</em></span></figcaption></figure>
 
 ### Programlanabilme sayesinde gelen diğer avantajlar {#programlanabilme-sayesinde-gelen-diger-avantajlar}
 
@@ -108,7 +108,7 @@ Tokenlerin programlanabilir olması beraberinde pek çok avantajı getiriyor. Bi
 
 Finansal piyasalarda tokenleştirme sayesinde global ölçekte 7/24 çalışan ve programlanabilen varlıklar yaratıyorsunuz. Bu sayede; daha hızlı mahsuplaşma, operasyonel maliyetleri azaltma, ürünleri daha geniş kesimlerin erişimine açma ve daha şeffaf hizmet sunma [mümkün hale geliyor](https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-tokenization).
 
-<figure><img src="/assets/books/sorularla-web3/501-2.png" alt="Tokenleştirmenin maliyet avantajları" width="1200" height="562" loading="lazy"><figcaption>Tokenleştirmenin maliyet avantajları <span class="fig-note"><em>Finansal ürünlerde tokenleştirmenin avantajları örneği. (Kaynak: <a href="https://www.finoa.io/blog/cost-savings-tokenization/">Finoa</a>)</em></span></figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/501-2.png"><img src="/assets/books/sorularla-web3/501-2.png" alt="Tokenleştirmenin maliyet avantajları" width="1200" height="562" loading="lazy"></a><figcaption>Tokenleştirmenin maliyet avantajları <span class="fig-note"><em>Finansal ürünlerde tokenleştirmenin avantajları örneği. (Kaynak: <a href="https://www.finoa.io/blog/cost-savings-tokenization/">Finoa</a>)</em></span></figcaption></figure>
 
 Programlanabilir olmanın bir varlığa kattığı önemli değerlerden bir tanesi de likidite. Zira küçük parçalara bölebildiğiniz bir varlık, çok daha geniş bir kesim tarafından ulaşılabilir hale geliyor. Aynı zamanda gayrimenkul gibi likit olmayan varlıklar da bir anda daha likit bir pazara açılmış oluyorlar.
 
@@ -128,13 +128,13 @@ Bir sonraki adımda ise sıra henüz dijitalleşmemiş ama bir şekilde standart
 
 Ticari varlık (makineler, envanter, taşıt araçları), sanat eseri koleksiyonları, gayrimenkuller için tokenleştirmenin yukarıda saydığımız ürünlerin sonrasında olmasını bekliyorum. Bunun temel nedeni, bu varlıkların tek ve eşsiz olmaları nedeniyle daha az likit olmaları. Likiditenin az olması bu varlıklara olan talebi ciddi şekilde düşürebiliyor.
 
-<figure><img src="/assets/books/sorularla-web3/501-3.png" alt="Tokenleştirme örnekleri" width="1200" height="609" loading="lazy"><figcaption>Tokenleştirme örnekleri <span class="fig-note"><em>Tokenleştirilebilecek varlık türleri ve örnekleri. (Kaynak: TheBlock - <a href="https://www.theblock.co/post/241500/tokenization-of-off-chain-assets-presented-by-avalanche-and-ava-labs">Tokenization of Off-Chain Assets- Presented by Avalanche and Ava Labs</a>)</em></span></figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/501-3.png"><img src="/assets/books/sorularla-web3/501-3.png" alt="Tokenleştirme örnekleri" width="1200" height="609" loading="lazy"></a><figcaption>Tokenleştirme örnekleri <span class="fig-note"><em>Tokenleştirilebilecek varlık türleri ve örnekleri. (Kaynak: TheBlock - <a href="https://www.theblock.co/post/241500/tokenization-of-off-chain-assets-presented-by-avalanche-and-ava-labs">Tokenization of Off-Chain Assets- Presented by Avalanche and Ava Labs</a>)</em></span></figcaption></figure>
 
 ## Nasıl bir pazardan bahsediyoruz? {#nasil-bir-pazardan-bahsediyoruz}
 
 Token pazarının ne kadar büyük bir pazar olduğu konusunda çeşitli tahminler var. Bu konuda en büyük danışmanlık şirketlerinden BCG’nin tahmini pazarın 2030 yılına kadar yaklaşık 16 trilyon ABD Doları bir büyüklüğe ulaşacağı şeklinde[^1].
 
-<figure><img src="/assets/books/sorularla-web3/501-4.png" alt="Tahmini token pazarı (2030)" width="1200" height="583" loading="lazy"><figcaption>Tahmini token pazarı (2030) <span class="fig-note"><em>Ünlü danışmanlık firması BCG’ye göre 2030 yılına kadar token piyasasının gelişimi. (Kaynak: World Economic Forum - Global Agenda Council, BCG)</em></span></figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/501-4.png"><img src="/assets/books/sorularla-web3/501-4.png" alt="Tahmini token pazarı (2030)" width="1200" height="583" loading="lazy"></a><figcaption>Tahmini token pazarı (2030) <span class="fig-note"><em>Ünlü danışmanlık firması BCG’ye göre 2030 yılına kadar token piyasasının gelişimi. (Kaynak: World Economic Forum - Global Agenda Council, BCG)</em></span></figcaption></figure>
 
 Grafikte BCG’nin, pazarın yaklaşık dörtte üçlük bir payının öncelikli olarak finansal varlıklardan geleceğini tahmin ettiğini görüyoruz. Kalan çeyrek payın ise altyapı projeleri, araba filoları ve patentlerden oluşacağı tahmin ediliyor.
 

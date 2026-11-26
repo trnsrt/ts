@@ -44,9 +44,9 @@ Diğer yandan, kur riskinden korunmak için aldığı short pozisyonlar da Ethen
 
 Kripto piyasalarındaki oyuncular genelde fiyatların yükseleceğini düşündükleri için piyasada ‘long’ pozisyon açanlar genelde ‘short’ pozisyon açanlara bir fonlama maliyeti öderler. İşte Ethena da, short açtığı işlemlerden elde ettiği geliri kendisine USDe kilitleyenler ile paylaşıyor. Bu oran sürekli olarak değişiklik gösterse de çoğunlukla pozitif oluyor. Aşağıda short pozisyonların çeyreklik getirilerini bulabilirsiniz (bu arada kimi zaman bu getiriler eksiye de düşebiliyor - bu da sistemin risklerinden bir tanesi - ki bu konuya birkaç paragraf sonra detaylı olarak değineceğiz).
 
-<figure><img src="/assets/books/sorularla-web3/412-1.png" alt="Vadeli piyasalarda ortalama short pozisyon getirisi" width="1200" height="546" loading="lazy"><figcaption>Vadeli piyasalarda ortalama short pozisyon getirisi <span class="fig-note"><em>ETH perpetuals piyasalarında çeyrek bazında ortalama getiri oranları (yıllandırılmış). (Kaynak: <a href="https://app.ethena.fi/dashboards/hedging/ETH">Ethena Labs</a>)</em></span></figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/412-1.png"><img src="/assets/books/sorularla-web3/412-1.png" alt="Vadeli piyasalarda ortalama short pozisyon getirisi" width="1200" height="546" loading="lazy"></a><figcaption>Vadeli piyasalarda ortalama short pozisyon getirisi <span class="fig-note"><em>ETH perpetuals piyasalarında çeyrek bazında ortalama getiri oranları (yıllandırılmış). (Kaynak: <a href="https://app.ethena.fi/dashboards/hedging/ETH">Ethena Labs</a>)</em></span></figcaption></figure>
 
-Yukarıda üç aylık ortalamalar var. sUSD’nin 2024 yılı son çeyreğinde üç ay boyunca sağladığı getirilerinin kimi günlerde %90’lara vardığını, [ortalamada ise %15-20 civarında olduğunu görüyoruz](https://app.ethena.fi/dashboards/yields).
+Yukarıda üç aylık ortalamalar var. sUSDe’nin 2024 yılı son çeyreğinde üç ay boyunca sağladığı getirilerinin kimi günlerde %90’lara vardığını, [ortalamada ise %15-20 civarında olduğunu görüyoruz](https://app.ethena.fi/dashboards/yields).
 
 ## Sonuç olarak hem stabil para hem de internet bonosu olarak Ethena {#sonuc-olarak-hem-stabil-para-hem-de-internet-bonosu-olarak-ethena}
 
@@ -54,7 +54,7 @@ Yukarıda üç aylık ortalamalar var. sUSD’nin 2024 yılı son çeyreğinde �
 
 ## Sistemin riskleri neler? {#sistemin-riskleri-neler}
 
-Ethena’nın kurduğu bu sistem oldukça kompleks ve üzerinde fazlaca risk barındırıyor. Zaten Ethena da bu riskleri tek tek ortaya koyup, nasıl önlemler aldığını açık açık yazıyor. Gelir sırayla bakalım bu risklere:
+Ethena’nın kurduğu bu sistem oldukça kompleks ve üzerinde fazlaca risk barındırıyor. Zaten Ethena da bu riskleri tek tek ortaya koyup, nasıl önlemler aldığını açık açık yazıyor. Gelin sırayla bakalım bu risklere:
 
 ### Short’lamak her zaman gelir getirmiyor ya uzun süre negatif gidip zarar yazarsa? {#shortlamak-her-zaman-gelir-getirmiyor-ya-uzun-sure-negatif-gidip-zarar-yazarsa}
 
@@ -64,23 +64,23 @@ Genelde bu piyasalarda işlem yapanlar risk alma iştahına sahipler. Yani işle
 
 İşte Ethena’nın sürekli ‘short’ pozisyona oynadığını düşündüğümüzde, belirli aralıklarla ‘fonlama maliyeti’ ödeyerek zarar yazması da mümkün. Peki geçmişte bu ne kadar gerçekleşmiş? Ethena’nın açıkladığı verilere göre son üç yılın yaklaşık beşte birinde short’lar fonlama maliyeti ödemiş (ödedikleri fonlama maliyeti de ortalama yıllık %8.8’e denk geliyor). Kalan zamanda beşte dördünde ise longlar ödeme yaptığı için kâr etmiş.
 
-<figure><img src="/assets/books/sorularla-web3/412-2.png" alt="ETH vadeli piyasalarda kazanç/kayıp gün sayısı" width="487" height="246" loading="lazy"><figcaption>ETH vadeli piyasalarda kazanç/kayıp gün sayısı</figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/412-2.png"><img src="/assets/books/sorularla-web3/412-2.png" alt="ETH vadeli piyasalarda kazanç/kayıp gün sayısı" width="487" height="246" loading="lazy"></a><figcaption>ETH vadeli piyasalarda kazanç/kayıp gün sayısı</figcaption></figure>
 
-*ETH perpetuals piyasalarında 2021-24 yılları arasındaki üç yılda short pozisyon açanların kazanç sağladığı günlerin kayıpla kapattıkları günlere oranı. Sadece 2024 Kasım ayı sonuna kadar bir yıllık sürede bu oran %98’e%2. (Kaynak: [Ethena Labs](https://app.ethena.fi/dashboards/hedging/ETH))*
+*ETH perpetuals piyasalarında 2021-24 yılları arasındaki üç yılda short pozisyon açanların kazanç sağladığı günlerin kayıpla kapattıkları günlere oranı. Sadece 2024 Kasım ayı sonuna kadar bir yıllık sürede bu oran %98’e %2. (Kaynak: [Ethena Labs](https://app.ethena.fi/dashboards/hedging/ETH))*
 
 Peki ya piyasa çok uzun süre ayıda kalır, short’lar ağır basar ve fonlama maliyeti nedeniyle Ethena’nın ettiği zarar uzun süre devam ederse ne olacak?
 
 İşte önemli sorulardan biri bu. Zira, zararın uzun süre devam ettiği noktada USDe’nin arkasındaki teminatın azalıp negatife geçme ihtimali olabilir. Ethena bu durumun önüne geçmek için bir rezerv fon oluşturmuş durumda. Kazandığı paraların bir kısmını bu fona koyuyor.
 
-Geçtiğimiz üç yıla bakacak olursak, shortların zarar yazdığın en uzun dönemin 13 gün ile bir kez gerçekleştiğini görüyoruz.
+Geçtiğimiz üç yıla bakacak olursak, shortların zarar yazdığı en uzun dönemin 13 gün ile bir kez gerçekleştiğini görüyoruz.
 
-<figure><img src="/assets/books/sorularla-web3/412-3.png" alt="Fonlama maliyetlerinin ardışık artı yada eksi gittiği gün sayıları" width="1200" height="790" loading="lazy"><figcaption>Fonlama maliyetlerinin ardışık artı yada eksi gittiği gün sayıları <span class="fig-note"><em>Perpetual piyasalarında fonlama maliyetlerinin serileri (5 günden fazla seriler). Yeşil olanlar art arda pozitif gelir getirdiği günler (180 güne kadar çıkmış), kırmızı olanlar ise negatif getiriler (en fazla 13 gün olmuş). (Kaynak: <a href="https://ethena-labs.gitbook.io/ethena-labs/solution-overview/risks/funding-risk">Ethena Labs</a>)</em></span></figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/412-3.png"><img src="/assets/books/sorularla-web3/412-3.png" alt="Fonlama maliyetlerinin ardışık artı ya da eksi gittiği gün sayıları" width="1200" height="790" loading="lazy"></a><figcaption>Fonlama maliyetlerinin ardışık artı ya da eksi gittiği gün sayıları <span class="fig-note"><em>Perpetual piyasalarında fonlama maliyetlerinin serileri (5 günden fazla seriler). Yeşil olanlar art arda pozitif gelir getirdiği günler (180 güne kadar çıkmış), kırmızı olanlar ise negatif getiriler (en fazla 13 gün olmuş). (Kaynak: <a href="https://ethena-labs.gitbook.io/ethena-labs/solution-overview/risks/funding-risk">Ethena Labs</a>)</em></span></figcaption></figure>
 
 Burada hemen bir parantez açarak, Ethena’nın nereden para kazandığına bakalım. Aslında para kazanma yöntemi çok basit. Sonuçta Ethena kişilerden aldığı kriptoparaları staking ve vadeli piyasalarda hedge ederek para kazanıyor. Bu kazandığı paradan yaptığı ödeme ise sadece USDe’yi stake edenlere. USDe’yi stake etmeyip piyasada kullananların verdiği fonların getirisi Ethena’ya kalıyor! (Yazı yazıldığı sırada piyasadaki [USDe miktarı](https://etherscan.io/token/0x4c9edd5852cd905f086c759e8383e09bff1e68b3) 5,6 milyar ABD Doları, [sUSDe miktarı](https://etherscan.io/token/0x9D39A5DE30e57443BfF2A8307A4256c8797A3497) ise 3,8 milyar ABD Doları seviyesinde).
 
 İşte Ethena bu gelirlerinden bir kısmını (%80’ini) şu anda rezerv fona koymakla meşgul. Rezerv fonda şu ana kadar [47 milyon ABD doları toplanmış durumda](https://app.ethena.fi/dashboards/solvency). Ethena’ın risk profilini yapan [Chaos Labs’e göre](https://596495599-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FsBsPyff5ft3inFy9jyjt%2Fuploads%2FXx0DNbv33KWqybLS4HvU%2FChaos%20Labs%20-%20Ethena%20Perpetual%20Assessment%20Report%20Final.pdf?alt=media&token=0d167789-ee8b-4135-9ebd-d5e07033aa48) vadeli piyasalardaki fonlama maliyetini ödemesinden dolayı zarar edilmesi durumunda rezervde tutulması gereken para her bir milyar USDe için yaklaşık 33 milyon ABD doları. Ethena’nın şu ana dek yaklaşık 5,6 milyar USDe bastığını düşünürsek, şu anda bir açık olduğunu ama bu açığın kapanmakta olduğunu belirtelim.
 
-<figure><img src="/assets/books/sorularla-web3/412-4.png" alt="Ethena rezerv tablosunun USDe’ye oranı" width="747" height="312" loading="lazy"><figcaption>Ethena rezerv tablosunun USDe’ye oranı <span class="fig-note"><em>Ethena’nın elinde tuttuğu rezervin ve USDe’nin aylar içinde gelişimi. Kırmızı çizgi ile gördüğünüz Chaos Labs tarafından önerilen rezerv miktarı. Gördüğünüz gibi rezerv sürekli artıyor olsa da USDe de arttığı için yetersiz kalıyor. (Kaynak: Delphi Digital ‘The rise of Ethena - Unpacking the Emerging Synthetic Dollar’ raporu)</em></span></figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/412-4.png"><img src="/assets/books/sorularla-web3/412-4.png" alt="Ethena rezerv tablosunun USDe’ye oranı" width="747" height="312" loading="lazy"></a><figcaption>Ethena rezerv tablosunun USDe’ye oranı <span class="fig-note"><em>Ethena’nın elinde tuttuğu rezervin ve USDe’nin aylar içinde gelişimi. Kırmızı çizgi ile gördüğünüz Chaos Labs tarafından önerilen rezerv miktarı. Gördüğünüz gibi rezerv sürekli artıyor olsa da USDe de arttığı için yetersiz kalıyor. (Kaynak: Delphi Digital ‘The rise of Ethena - Unpacking the Emerging Synthetic Dollar’ raporu)</em></span></figcaption></figure>
 
 Diğer yandan, bu analizin geçmiş verilere dayandığını, gelecekte yaşanabilecek çok uzun süreli ayı dönemlerinde daha büyük bir zarar oluşabileceğini söyleyelim. Bu nedenle rezerv fonunun bu tip dönemleri düşünerek çok daha yüksek olması gerekli (önümüzdeki dönemde takip edilmesi gereken konulardan biri bu). Diğer yandan Ethena’nın elinde sadece rezerv fonu silahı yok, hazinesinde duran ENA tokenler de var. Olası bir zararı karşılamak için bu tokenlerin kullanılması da söz konusu.
 

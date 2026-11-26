@@ -30,7 +30,7 @@ Peki o zaman gizlilik yani mahremiyet nasıl sağlanacak? Kullanıcının her t�
 
 Web3 geçmişi henüz sadece son on yıla dayanan bir teknoloji. Her yeni teknolojinin büyüme sırasında geçtiği evreleri sırasıyla geçiriyor. Şu an hangi aşamada dersek, Geoffery Moore’un aşağıdaki grafiği bize ipucu verebilir.
 
-<figure><img src="/assets/books/sorularla-web3/306-1.png" alt="Hendeği atlamak" width="1200" height="790" loading="lazy"><figcaption>Hendeği atlamak</figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/306-1.png"><img src="/assets/books/sorularla-web3/306-1.png" alt="Hendeği atlamak" width="1200" height="790" loading="lazy"></a><figcaption>Hendeği atlamak</figcaption></figure>
 
 *Geoffery Moore’un ünlü Crossing the Chasm grafiği. (Kaynak: [Wikipedia](https://en.wikipedia.org/wiki/Crossing_the_Chasm))*
 
@@ -54,7 +54,7 @@ Erken dönem kullanıcı içinde ilk grubu, bu teknolojinin ve altında yatan me
 
 Yukarıda saydığımız nedenlerden dolayı, sadece rakamlara bakmak bize Web3 kullanıcılarının sayısı bakımından doğru sonuçlar vermeyebilir. Yine de ilginin ne şekilde geliştiğini anlamak için birkaç farklı metriğe bakmak faydalı olabilir. Gelin şimdi onlara bakalım birlikte:
 
-<figure><img src="/assets/books/sorularla-web3/306-2.png" alt="İnternet kullanıcıları ile aylık aktif kripto adreslerinin karşılaştırması" width="1200" height="818" loading="lazy"><figcaption>İnternet kullanıcıları ile aylık aktif kripto adreslerinin karşılaştırması</figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/306-2.png"><img src="/assets/books/sorularla-web3/306-2.png" alt="İnternet kullanıcıları ile aylık aktif kripto adreslerinin karşılaştırması" width="1200" height="818" loading="lazy"></a><figcaption>İnternet kullanıcıları ile aylık aktif kripto adreslerinin karşılaştırması</figcaption></figure>
 
 *Logaritmik ölçekte internet kullanıcı sayısı ile aktif kripto cüzdan sayısının karşılaştırması. (Kaynak: Dünya Bankası, Artemis ve Dune @Daren Matsuoka)*
 
@@ -62,7 +62,7 @@ Yukarıdaki a16z’nin 2024 Ekim ayında yayınladığı [State of Crypto raporu
 
 Grafiğe baktığımızda internet kullanıcı sayısının bir milyar kişiye ulaşması yaklaşık 13 yıl almış. Büyüme eğrilerinde geçmişten bugüne süregelen paralelliğin bundan sonra da devam etmesi durumda aylık aktif kripto cüzdan adresi sayısının 2031 yılında bir milyara ulaşması bekleniyor. Tam olarak elma-elma karşılaştırması olmasa da kullanıcı sayısının gelişimini tahmin eden ilginç bir metodoloji.
 
-<figure><img src="/assets/books/sorularla-web3/306-3.png" alt="Ethereum (EVM) uyumlu zincirlerde çeyrek bazlı işlem adetleri" width="1200" height="693" loading="lazy"><figcaption>Ethereum (EVM) uyumlu zincirlerde çeyrek bazlı işlem adetleri</figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/306-3.png"><img src="/assets/books/sorularla-web3/306-3.png" alt="Ethereum (EVM) uyumlu zincirlerde çeyrek bazlı işlem adetleri" width="1200" height="693" loading="lazy"></a><figcaption>Ethereum (EVM) uyumlu zincirlerde çeyrek bazlı işlem adetleri</figcaption></figure>
 
 *Ethereum uyumlu zincirlerde çeyreklik kullanıcı işlem sayıları. 2024 yılı son çeyrek sadece Ekim ve Kasım aylarını içermekte, dolayısıyla son ay eklendiğinde bir önceki çeyrekten daha yüksek olacak. (Kaynak: [Token Terminal](https://tokenterminal.com/explorer/markets/blockchains?v=Y2QwMDE4ZmFhODQxYzY3MzlhZTQ0MmVi))*
 

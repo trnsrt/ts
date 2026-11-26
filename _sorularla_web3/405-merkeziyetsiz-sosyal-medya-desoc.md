@@ -44,7 +44,7 @@ Keza yakın zamanda Facebook ve Instagram’ın sahibi olan Meta’nın kurucusu
 
 Sansürün bir başka formunu ise, sosyal medya devleri istedikleri kişi ya da kurumu zaman zaman platformdan attıklarında görüyoruz. Bunların en ünlüsü Elon Musk öncesi Twitter’ın, o zamanki ABD Başkanı 88 milyon takipçili Donald Trump’un hesabını kapatması olmuştu.
 
-<figure><img src="/assets/books/sorularla-web3/405-1.png" alt="Platformsuzlaştırma örneği" width="1200" height="1089" loading="lazy"><figcaption>Platformsuzlaştırma örneği</figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/405-1.png"><img src="/assets/books/sorularla-web3/405-1.png" alt="Platformsuzlaştırma örneği" width="1200" height="1089" loading="lazy"></a><figcaption>Platformsuzlaştırma örneği</figcaption></figure>
 
 *Twitter’da Donald Trump hesabına girenler uzunca bir süre bu ekran ile karşılaştılar.*
 

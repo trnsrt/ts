@@ -28,7 +28,7 @@ Larry Fink’in kriptoya olan ilgisi ETF başvurusu ile sınırlı kalmadı. Ön
 
 Bitcoin ETF’lerinin Ocak ayında kabul olması BlackRock’ın genel piyasa havasını koklama konusundaki maharetini (ya da bu konudaki ağırlığını) gösteren önemli bir gösterge oldu. BlackRock ETF’leri işleme başladığı günden bu yana 17 milyar ABD Dolarının üzerinde bir varlığa ulaşarak [bu alanda birinci sırada olan Grayscale’in ardından ikinciliğe](https://blockworks.co/bitcoin-etf) yerleşti.
 
-<figure><img src="/assets/books/sorularla-web3/503-1.png" alt="Bitcoin ETF’lerine girişler" width="1200" height="693" loading="lazy"><figcaption>Bitcoin ETF’lerine girişler <span class="fig-note"><em>ABD’de spot bitcoin ETF’lerine kuruluşundan itibaren giren para miktarı (milyar ABD Doları). (Kaynak: TheBlock)</em></span></figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/503-1.png"><img src="/assets/books/sorularla-web3/503-1.png" alt="Bitcoin ETF’lerine girişler" width="1200" height="693" loading="lazy"></a><figcaption>Bitcoin ETF’lerine girişler <span class="fig-note"><em>ABD’de spot bitcoin ETF’lerine kuruluşundan itibaren giren para miktarı (milyar ABD Doları). (Kaynak: TheBlock)</em></span></figcaption></figure>
 
 ## Gelelim son olaya. Ne oldu? {#gelelim-son-olaya-ne-oldu}
 

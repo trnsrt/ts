@@ -24,7 +24,7 @@ Bir altyapı olarak dileyen herkesin istediği her programı yükleyebileceği b
 
 Merkeziyetsiz finans, geleneksel anlamda finans sektörü tarafından sunulan hemen her hizmetin merkeziyetsiz olarak kurulmuş uygulamalar aracılığıyla blokzincir üzerinde verilmesi olarak adlandırılabilir.
 
-<figure><img src="/assets/books/sorularla-web3/402-1.png" alt="Geleneksel finans ile merkeziyetsiz finans" width="1200" height="588" loading="lazy"><figcaption>Geleneksel finans ile merkeziyetsiz finans</figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/402-1.png"><img src="/assets/books/sorularla-web3/402-1.png" alt="Geleneksel finans ile merkeziyetsiz finans" width="1200" height="588" loading="lazy"></a><figcaption>Geleneksel finans ile merkeziyetsiz finans</figcaption></figure>
 
 *Merkeziyetsiz finans klasik finans tarafından verilen her tür hizmeti bizlere sunmaya aday. (Kaynak: [Consensys](https://consensys.net/knowledge-base/defi/))*
 
@@ -64,7 +64,7 @@ DeFi’nin belirli standartlar üzerine kurulmuş olması, bu alandaki uygulamal
 
 Nisan 2022 yılında IMF tarafından yayınlanan Global Stability Report bu avantajı açık bir şekilde ortaya koyuyor:
 
-<figure><img src="/assets/books/sorularla-web3/402-2.png" alt="Geleneksel finans ve DeFi - maliyet ve kâr marjı karşılaştırması" width="1200" height="1208" loading="lazy"><figcaption>Geleneksel finans ve DeFi - maliyet ve kâr marjı karşılaştırması</figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/402-2.png"><img src="/assets/books/sorularla-web3/402-2.png" alt="Geleneksel finans ve DeFi - maliyet ve kâr marjı karşılaştırması" width="1200" height="1208" loading="lazy"></a><figcaption>Geleneksel finans ve DeFi - maliyet ve kâr marjı karşılaştırması</figcaption></figure>
 
 *Gelişmiş, gelişmekte olan ülkelerdeki finans kurumları ile DeFi platformlarının maliyet ve fiyat karşılaştırması. (Kaynak: [IMF Global Study Report, April 2022, Sayfa 80](https://www.imf.org/en/Publications/GFSR/Issues/2022/04/19/global-financial-stability-report-april-2022))*
 
@@ -98,7 +98,7 @@ DeFi’nin gerçek bir patlama yaşadığı ‘yaz dönemi’, 2021 yılında pr
 
 Burada ufak bir parantez açalım: Kimi merkezi yapıların, yüksek miktarda ve hesap kitap yapmadan kullandıkları kaldıraçlı işlemler ile bu büyümeye hormonlu bir şekilde katkı sağladığını da gördük. 2022 yılında yaşanan ‘krizlerin’ temel nedeni, merkeziyetsiz sistemler değil, aslında bu fütursuz merkezi yapılar olduğunu belirtmek gerek. Piyasalarda 2022 yılı sonrası yaşanan kış dönemi, merkeziyetsiz finans protokollerinin kullanımını ciddi şekilde etkiledi. 2023 yılında yaşanan dip sonrası kriptopara değerlerinin de artması ile birlikte bu alanda faaliyet gösteren protokollere ilginin tekrar tırmanışa geçtiğini gördük.
 
-<figure><img src="/assets/books/sorularla-web3/402-3.jpg" alt="Merkeziyetsiz finans sistemine kilitli toplam para" width="1200" height="393" loading="lazy"><figcaption>Merkeziyetsiz finans sistemine kilitli toplam para</figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/402-3.jpg"><img src="/assets/books/sorularla-web3/402-3.jpg" alt="Merkeziyetsiz finans sistemine kilitli toplam para" width="1200" height="393" loading="lazy"></a><figcaption>Merkeziyetsiz finans sistemine kilitli toplam para</figcaption></figure>
 
 *Merkeziyetsiz Finans protokollerine kilitlenen para (bir nevi mevduat gibi düşünebilirsiniz) miktarının yıllar içinde değişimi (milyar ABD Doları). (Kaynak: [DefiLlama](https://defillama.com/))*
 

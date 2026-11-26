@@ -18,7 +18,7 @@ Stabil para deyince ne anlamamız gerektiğini artık üç aşağı beş yukarı
 
 Örneğin, kriptoparaların en önde geleni olan Bitcoin’i ilk çıkaran Satoshi onun kişiden kişiye ödemelerde kullanılacak bir araç olmasını düşlemişti. Bu hedef henüz gerçekleşmedi ama özellikle kriptonun ilk zamanlarında, kripto alım-satım platformlarında yapılan işlemlerde işlem çifti olarak hep BTC kullanılırdı. Yani bir kriptopara satın alacaksanız, işlem yapmak istediğiniz tahta genelde BTC üzerinden dönerdi. BTC verip o kriptoparayı satın alabilirdiniz. Ne var ki, zamanla BTC işlem çiftlerinin giderek azaldığını ve yerini başta USDT (yani Tether) olmak üzere stabil paralara bıraktığını gördük. Dolayısıyla şu anda Bitcoin’in elinde değer önerisi olarak sadece ve sadece değer saklama aracı (ingilizcesi store-of-value) özelliği kaldı.
 
-<figure><img src="/assets/books/sorularla-web3/401-1.png" alt="Stabil para adaptasyonu" width="1200" height="1041" loading="lazy"><figcaption>Stabil para adaptasyonu <span class="fig-note"><em>Kriptopara işlem hacimleri ile stabil para tutan adres sayılarındaki değişim. Hacimler büyük bir dalgalanma gösterse bile stabil para adaptasyonunda durdurulamaz bir ilerleme görülmekte. (Kaynak: <a href="https://x.com/Delphi_Digital/status/1869463499530965052">Delphi Digital</a>)</em></span></figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/401-1.png"><img src="/assets/books/sorularla-web3/401-1.png" alt="Stabil para adaptasyonu" width="1200" height="1041" loading="lazy"></a><figcaption>Stabil para adaptasyonu <span class="fig-note"><em>Kriptopara işlem hacimleri ile stabil para tutan adres sayılarındaki değişim. Hacimler büyük bir dalgalanma gösterse bile stabil para adaptasyonunda durdurulamaz bir ilerleme görülmekte. (Kaynak: <a href="https://x.com/Delphi_Digital/status/1869463499530965052">Delphi Digital</a>)</em></span></figcaption></figure>
 
 ### Piyasanın hakimi kim? {#piyasanin-hakimi-kim}
 
@@ -26,7 +26,7 @@ Neyse, stabil paralara geri dönecek olursak, bu alanda liderliği açık ara US
 
 Bu paraların yanında merkezi olarak küçük pek çok oyuncu olsa da, bu oyunculardan biri son zamanlarda yaptığı atak ile dikkat çekiyor. Ülkemizde yasal zorunlulukları yerine getirmek istemediği için faaliyette bulunmayan ama dünyanın ödeme sistemi olarak en büyüklerinden olan PayPal da stabil para sektörüne el atmış durumda. Hem Ethereum hem de Solana zincirleri üzerinde piyasaya sürülen bu stabil para ile ilgili detaylı bilgiye bu bölümün sonunda bulunan “Örnek: PayPal’ın Stabil Parası PYUSD” kısmından erişebilirsiniz.
 
-<figure><img src="/assets/books/sorularla-web3/401-2.png" alt="Stabil para pazar payları" width="1193" height="923" loading="lazy"><figcaption>Stabil para pazar payları</figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/401-2.png"><img src="/assets/books/sorularla-web3/401-2.png" alt="Stabil para pazar payları" width="1193" height="923" loading="lazy"></a><figcaption>Stabil para pazar payları</figcaption></figure>
 
 *Dolara çıpalanmış stabil paraların pazar payları. (Kaynak: [TheBlock](https://www.theblock.co/data/stablecoins/usd-pegged))*
 
@@ -66,7 +66,7 @@ Finans dünyasının lideri olan ABD’de ise CBDC’ler konusunda şu an için 
 
 Stabil paralar ile ilgili bir başka önemli nokta da kullanıcının elde ettiği kazanç. Ne Tether ne de USDC’yi çıkaran Circle, paralarını elinde tutan kullanıcılara herhangi bir getiri vaat etmiyor[^2]. Elinizde USDT tuttuğunuzda efektif olarak Tether şirketine faizsiz borç vermiş oluyorsunuz. Zaten, Tether’in en büyük gelir kalemi kendisine verilen bu paralar üzerinden kazandığı faiz geliri. Baksanıza, içinde yaklaşık [110 kişinin çalıştığı](https://www.apollo.io/companies/Tether-to/5569974e736964255dc85c00) Tether’in 2023 yılı gelirleri, o şanlı Wall Street’in en büyük para yöneticisi olan BlackRock’tan bile daha fazla:
 
-<figure><img src="/assets/books/sorularla-web3/401-3.png" alt="Tether, BlackRock, Bank of America ve JP Morgan net kârları" width="917" height="494" loading="lazy"><figcaption>Tether, BlackRock, Bank of America ve JP Morgan net kârları <span class="fig-note"><em>JPMorgan, Bank of America, BlackRock ve Tether’in son üç yıl net kazançları. (Kaynak: Delphi Digital, Tether, Yahoo Finance)</em></span></figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/401-3.png"><img src="/assets/books/sorularla-web3/401-3.png" alt="Tether, BlackRock, Bank of America ve JP Morgan net kârları" width="917" height="494" loading="lazy"></a><figcaption>Tether, BlackRock, Bank of America ve JP Morgan net kârları <span class="fig-note"><em>JPMorgan, Bank of America, BlackRock ve Tether’in son üç yıl net kazançları. (Kaynak: Delphi Digital, Tether, Yahoo Finance)</em></span></figcaption></figure>
 
 Bir diğer para olan DAI ise, kullanıcılara ellerindeki DAI’yi sisteme kilitlemeleri durumunda protokol tarafından belirlenen oranda bir faiz veriyor[^3].
 

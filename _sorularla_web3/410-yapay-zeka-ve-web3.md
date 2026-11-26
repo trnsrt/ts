@@ -34,7 +34,7 @@ Burada ilginç birkaç nokta var. Öncelikle makineler nasıl analiz yapılacağ
 
 Yapay zeka dediğimiz aslına bakarsanız altyapılardan uygulamalara kadar üst üste konarak bize hizmet veren bir ürün destesi. Bu haliyle daha önceki yazılarımızda bahsettiğimiz DeFi’nin destelerine benziyor.
 
-<figure><img src="/assets/books/sorularla-web3/410-1.jpg" alt="Taslak üretken yapay zeka teknoloji destesi" width="1200" height="1181" loading="lazy"><figcaption>Taslak üretken yapay zeka teknoloji destesi <span class="fig-note"><em>Üretken yapay zeka teknoloji destesi (Taslak). (Kaynak: <a href="https://a16z.com/who-owns-the-generative-ai-platform/">az16 ai</a>)</em></span></figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/410-1.jpg"><img src="/assets/books/sorularla-web3/410-1.jpg" alt="Taslak üretken yapay zeka teknoloji destesi" width="1200" height="1181" loading="lazy"></a><figcaption>Taslak üretken yapay zeka teknoloji destesi <span class="fig-note"><em>Üretken yapay zeka teknoloji destesi (Taslak). (Kaynak: <a href="https://a16z.com/who-owns-the-generative-ai-platform/">az16 ai</a>)</em></span></figcaption></figure>
 
 Destenin en altında koyu lacivert renkli ‘altyapı katmanı’ var. Yapay zekanın yukarıda saydığımız tüm işlemleri yaparak istediğimiz sonucu bize anında verebilmesi için çok ciddi bir donanım ihtiyacı bulunuyor. Gerek işlemciler (çipler) gerekse bulut platformları bu ihtiyacı karşılıyor. İşte bu nedenle Nvidia gibi çip devlerinin hisse değerleri uçuyor. Amazon ve Microsoft’un sahip olduğu AWS ve Azure bulut sistemleri, kendi şirketlerinin en büyük kâr kaynakları haline geliyor.
 
@@ -52,7 +52,7 @@ Yapay zeka gözlerimizin önünde inanılmaz bir şekilde büyüyor. Biz kullan�
 
 Karşınızda yemeyen içmeyen, sadece ‘enerji harcayan’, gece gündüz çalışan ve şu an için bir üniversite öğrencisi, yakın zamanda ise bir doktoralı niteliğine sahip olacak bir ‘iş gücü’ var[^6].
 
-<figure><img src="/assets/books/sorularla-web3/410-2.png" alt="Yapay zeka sistemlerinin insan performansı ile karşılaştırılması" width="1200" height="643" loading="lazy"><figcaption>Yapay zeka sistemlerinin insan performansı ile karşılaştırılması</figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/410-2.png"><img src="/assets/books/sorularla-web3/410-2.png" alt="Yapay zeka sistemlerinin insan performansı ile karşılaştırılması" width="1200" height="643" loading="lazy"></a><figcaption>Yapay zeka sistemlerinin insan performansı ile karşılaştırılması</figcaption></figure>
 
 *Her bir alan içinde yapay zekanın ilk performansı -100’e konulmuş. İnsan performansı ise baz alınarak sıfıra ayarlanmış. Yapay zeka 0 çizgisine geldiğinde insan performansına ulaşmış oluyor. Gördüğünüz gibi yapay zeka okuduğunu anlama, görüntü tanıma, dil anlama konularında insanları geçti. El yazısı ya da ses tanıma ile tahmini akıl yürütme konularında ise bizleri yakalamış durumda. (Kaynak: [Our World in Data](https://ourworldindata.org/artificial-intelligence))*
 
@@ -64,7 +64,7 @@ Bunu bir de hızla gelişmekte olan robotlar ile birleştirin. Sunduğunuz hizme
 
 Teknoloji dünyasının devleri uzun zamandır yapay zekanın kendilerini nasıl etkileyeceğine kafa yoruyor ve ellerinde ne var ne yoksa bu alana yatırıyorlar. Aşağıda teknoloji dünyasında ‘mahşerin dört atlısı’ olan Microsoft, Amazon, Google ve Meta’nın son üç yılda yapay zeka alanında yaptığı yatırımlar var. Sizi hesaplama yapma zahmetinden kurtarıp üç yıllık toplam harcamanın 465 milyar ABD Doları olduğunu belirtelim. Peki bu tabloda yer almayan Apple ile birlikte bu beş devin kenarda ‘nakit’ olarak bekleyen bir 400 milyar ABD Doları parası daha olduğunu söylesek? Sanırım bu alandaki devasa yatırım iştahının bir süre daha devam edeceğini az çok kestirebilirsiniz.
 
-<figure><img src="/assets/books/sorularla-web3/410-3.png" alt="Teknoloji devlerinin yapay zeka harcamaları" width="1200" height="437" loading="lazy"><figcaption>Teknoloji devlerinin yapay zeka harcamaları</figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/410-3.png"><img src="/assets/books/sorularla-web3/410-3.png" alt="Teknoloji devlerinin yapay zeka harcamaları" width="1200" height="437" loading="lazy"></a><figcaption>Teknoloji devlerinin yapay zeka harcamaları</figcaption></figure>
 
 *Dört teknoloji devinin 2022-24 arası üç yıllık dönemde toplam harcaması tam 465 milyar ABD doları! (milyar ABD Doları) (Kaynak: [Delphi Digital](https://members.delphidigital.io/reports/the-tower-the-square#the-tower---the-square-b517))*
 
@@ -88,7 +88,7 @@ Bu teknolojiler her ne kadar uyumsuz görünse de, bazı alanlarda birbirlerini 
 
 Blokzincir teknolojisinin kendine has özellikleri yapay zeka ile tam olarak örtüşmese de, iki teknolojinin kesiştiği alanlarda sinerjiler doğması mümkün:
 
-<figure><img src="/assets/books/sorularla-web3/410-4.png" alt="Yapay zeka ve blokzincir kesişiminden doğan sinerjiler" width="1200" height="611" loading="lazy"><figcaption>Yapay zeka ve blokzincir kesişiminden doğan sinerjiler <span class="fig-note"><em>“Zıtlık sinerji yaratır.” (Kaynak: <a href="https://blog.ueth.org/p/when-giants-collide-exploring-the">De University of Ethereum</a>)</em></span></figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/410-4.png"><img src="/assets/books/sorularla-web3/410-4.png" alt="Yapay zeka ve blokzincir kesişiminden doğan sinerjiler" width="1200" height="611" loading="lazy"></a><figcaption>Yapay zeka ve blokzincir kesişiminden doğan sinerjiler <span class="fig-note"><em>“Zıtlık sinerji yaratır.” (Kaynak: <a href="https://blog.ueth.org/p/when-giants-collide-exploring-the">De University of Ethereum</a>)</em></span></figcaption></figure>
 
 ### Web3 yapay zekanın katmanlarına nereye kadar etki edebilir? {#web3-yapay-zekanin-katmanlarina-nereye-kadar-etki-edebilir}
 
@@ -151,7 +151,7 @@ Bu arada şunu hemen belirtelim: Burada hem merkeziyetsiz platformlar hem de mer
 
 **Açık kaynak ve merkeziyetsiz son kullanıcıya yönelik uygulamalar:** Hemen yukarıda da belirttiğimiz gibi son kullanıcıya yönelik açık kaynak ya da merkeziyetsiz yapay zeka uygulamaları bir elin parmakları kadar az. Bu alanda bırakın merkeziyetsiz uygulamaları merkezi çözümlerin bile yeterli büyüklüğe ulaşmadığını görüyoruz. Henüz bu katmanda ortaya çıkmış büyük bir girişim (bir milyar ABD Doları üzerinde ciro yapan) bile yok:
 
-<figure><img src="/assets/books/sorularla-web3/410-5.png" alt="Milyar ABD Doları üzeri satış yapan bulut, mobil ve yapay zeka şirketleri" width="1200" height="662" loading="lazy"><figcaption>Milyar ABD Doları üzeri satış yapan bulut, mobil ve yapay zeka şirketleri <span class="fig-note"><em>Bir milyar ABD Doları ciroyu geçmiş bulut, mobil ve yapay zeka girişimleri. Gördüğünüz altyapı tarafı teknoloji devlerinin hegemonyasına girmiş olsa da uygulama tarafı hâlâ bakir bir alan. (Kaynak: Sequoia Capital - <a href="https://www.sequoiacap.com/article/generative-ais-act-o1/">Generative AI’ Act o1</a>)</em></span></figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/410-5.png"><img src="/assets/books/sorularla-web3/410-5.png" alt="Milyar ABD Doları üzeri satış yapan bulut, mobil ve yapay zeka şirketleri" width="1200" height="662" loading="lazy"></a><figcaption>Milyar ABD Doları üzeri satış yapan bulut, mobil ve yapay zeka şirketleri <span class="fig-note"><em>Bir milyar ABD Doları ciroyu geçmiş bulut, mobil ve yapay zeka girişimleri. Gördüğünüz altyapı tarafı teknoloji devlerinin hegemonyasına girmiş olsa da uygulama tarafı hâlâ bakir bir alan. (Kaynak: Sequoia Capital - <a href="https://www.sequoiacap.com/article/generative-ais-act-o1/">Generative AI’ Act o1</a>)</em></span></figcaption></figure>
 
 Biz kullanıcılar altyapıya ciddi yatırım yapmış merkezi ve kapalı çözümlerin bize sunduğu ChatGPT gibi uygulamaları kullanıyoruz. Bunlar dışında bir de bu uygulamalar için üretilmiş eklentiler var. Bu eklentilerin uzun vadede ne kadar var olacağını bilmek zor.
 

@@ -44,7 +44,7 @@ Ethereum sistemi de Bitcoin gibi madencilik sistemi ile başladı ancak madencil
 
 Madenci ya da onaylayıcılar, sistemi devam ettirmeleri karşılığında bir ödül kazanıyorlar. Bu ödül, ağların yeni yarattıkları tokenler oluyor. Bu da piyasadaki token adedini artırdığı için bu ağların token ekonomisinin enflasyonu olarak kabul ediliyor.
 
-<figure><img src="/assets/books/sorularla-web3/305-1.png" alt="Onaylayıcı ve madenci karşılaştırması" width="1200" height="710" loading="lazy"><figcaption>Onaylayıcı ve madenci karşılaştırması</figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/305-1.png"><img src="/assets/books/sorularla-web3/305-1.png" alt="Onaylayıcı ve madenci karşılaştırması" width="1200" height="710" loading="lazy"></a><figcaption>Onaylayıcı ve madenci karşılaştırması</figcaption></figure>
 
 ## İkinci seviye çözümlerde onaylayıcılara ihtiyaç var mı? {#ikinci-seviye-cozumlerde-onaylayicilara-ihtiyac-var-mi}
 

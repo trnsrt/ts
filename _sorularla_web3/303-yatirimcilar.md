@@ -30,7 +30,7 @@ Aslına bakarsanız 2020 yılı öncesinde Web3 dünyasındaki girişim sermayel
 
 Şimdilerde ekipler ile yatırımcılar arasındaki güç dengesinin piyasanın ayı ya da boğa, hangi dönemde olduğuna göre değiştiğini görmeye başlıyoruz. 2020-21 yıllarında projeler girişim sermayesi şirketlerine “işte bu bizim planımızı gösteren bir excel dosyası ile, “bana önümüzdeki haftaya kadar yatırım yapıp yapmayacağını söyle, çabuk davranmazsan dışarıda kalırsın” şeklinde üstü kapalı tehditler yaparak para topluyorlardı. Rüzgar tersine döndüğünde ise yatırımcıya gönderdikleri mesajlara hiçbir şekilde geri dönüş olmadığını fark ettiler.
 
-<figure><img src="/assets/books/sorularla-web3/303-1.png" alt="Çeyrek bazında blokzincir yatırımları" width="1200" height="459" loading="lazy"><figcaption>Çeyrek bazında blokzincir yatırımları</figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/303-1.png"><img src="/assets/books/sorularla-web3/303-1.png" alt="Çeyrek bazında blokzincir yatırımları" width="1200" height="459" loading="lazy"></a><figcaption>Çeyrek bazında blokzincir yatırımları</figcaption></figure>
 
 *Çeyrek başına blokzincir alanında yapılan yatırımların alana göre dağılımı. Yatırımların 200 milyondan az olduğu bloklar görsel netlik amacıyla gösterilmemiş. (Kaynak: TheBlockPro Research. [Q3’24 & March Blockchain Venture Funding/M&A Recap](https://www.theblock.pro/research/q3-2024-blockchain-venture-funding-report-320940))*
 

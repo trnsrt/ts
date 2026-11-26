@@ -94,7 +94,7 @@ Yapılan eleştirilerin dikkate alınmaması, projelerin içerdiği risklerin ta
 
 Bu fanatiklik ya da ‘üstten görme’ durumu sadece projeyi kuranlarda değil yatırımcılarda da görülebiliyor. ABD’nin en ünlü dijital finansal servis ve yatırım yönetim şirketi olan [Galaxy Digital](https://www.galaxydigital.io/)‘in kurucusu [Mike Novogratz](https://twitter.com/novogratz) bunun en ibret verici örneklerinden. Luna’ya olan desteğini göstermek için Ocak 2022’de koluna bu temada bir dövme yaptıran Novogratz, son yaşananlar sonrası verdiği [demeçte](https://www.marketwatch.com/story/my-tattoo-will-be-a-constant-reminder-that-venture-investing-requires-humility-says-michael-novogratz-with-a-luna-tattoo-after-the-cryptos-collapse-11652896185) ‘yaptırdığım dövme, yatırımcılığın alçakgönüllülük gerektirdiğini bana sürekli hatırlatacak’ yorumunda bulundu. Hepimizin kulağına küpe olmasında fayda var.
 
-<figure><img src="/assets/books/sorularla-web3/413-1.jpg" alt="UST Terra’nın hikayesi: 2022 krizi, I. perde – şekil" width="1194" height="1636" loading="lazy"></figure>
+<figure><a href="/assets/books/sorularla-web3/413-1.jpg"><img src="/assets/books/sorularla-web3/413-1.jpg" alt="" width="1194" height="1636" loading="lazy"></a></figure>
 
 *“Artık resmi olarak bir Lunatic oldum!” \[Lunatic, Luna fanatiklerinin kendilerine taktıkları ad\]. Mike Novogratz. (Kaynak: [X](https://twitter.com/novogratz/status/1478535972560195585?ref_src=twsrc%5Etfw) - Not: Novogratz bu postu sonrada kaldırdı.)*
 

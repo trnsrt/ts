@@ -66,6 +66,19 @@ OVERRIDES = {
     'Kısa vade beklentiler (2025-2026)': ('kisa-vade-beklentiler', None),
 }
 
+# Web-edition text corrections (owner-approved). (old, new): each must match exactly once in the whole
+# book, counted per source paragraph/caption (a figure caption used for both alt and figcaption counts once).
+# A match must lie inside one text run; URLs are never touched. The script fails loudly otherwise.
+CORRECTIONS = [
+    ('Gelir sırayla bakalım', 'Gelin sırayla bakalım'),
+    ('shortların zarar yazdığın en uzun dönemin', 'shortların zarar yazdığı en uzun dönemin'),
+    ('bu oran %98’e%2.', 'bu oran %98’e %2.'),
+    ('artı yada eksi', 'artı ya da eksi'),
+    ('sUSD’nin 2024 yılı', 'sUSDe’nin 2024 yılı'),
+]
+CORRECTION_COUNTS = {c[0]: 0 for c in CORRECTIONS}
+_COUNTED = set()
+
 TR = str.maketrans({'ç': 'c', 'Ç': 'c', 'ğ': 'g', 'Ğ': 'g', 'ı': 'i', 'İ': 'i', 'ö': 'o', 'Ö': 'o',
                     'ş': 's', 'Ş': 's', 'ü': 'u', 'Ü': 'u', 'â': 'a', 'Â': 'a', 'î': 'i', 'Î': 'i',
                     'û': 'u', 'Û': 'u'})
@@ -385,6 +398,24 @@ class Docx:
         return toks
 
     def para_tokens(self, p, rels):
+        toks = self._para_tokens_raw(p, rels)
+        first = id(p) not in _COUNTED
+        _COUNTED.add(id(p))
+        joined = ''.join(t.text for t in toks if t.kind == 't')
+        for old, new in CORRECTIONS:
+            n = joined.count(old)
+            if not n:
+                continue
+            if first:
+                CORRECTION_COUNTS[old] += n
+            hit = [t for t in toks if t.kind == 't' and old in t.text]
+            if len(hit) != 1 or hit[0].text.count(old) != 1:
+                raise SystemExit('correction %r does not lie inside a single text run' % old)
+            hit[0].text = hit[0].text.replace(old, new)
+            joined = ''.join(t.text for t in toks if t.kind == 't')
+        return toks
+
+    def _para_tokens_raw(self, p, rels):
         toks = []
         for ch in p:
             if ch.tag == W + 'r':
@@ -582,7 +613,7 @@ class Converter:
         self.img_files.append(name)
         return name, w, h
 
-    def figure(self, page, rid, caption_toks, note_toks):
+    def figure(self, page, rid, caption_toks, note_toks, alt=None):
         name, w, h = self.emit_image(page, rid)
         r = Renderer(page)
         cap_plain = plain_text(caption_toks)
@@ -590,11 +621,12 @@ class Converter:
             cap_html = join_pieces(r.render(caption_toks, strip_bold=True), 'html')
         else:
             cap_html = ''
-        if not cap_plain:
-            alt = '%s – şekil' % re.sub(r' – %s$' % SITE_TITLE, '', page.title)
-            page.captionless.append((page.filename, name, alt))
-        else:
-            alt = cap_plain
+        if alt is None:
+            if not cap_plain:
+                alt = ''
+                page.captionless.append((page.filename, name, alt))
+            else:
+                alt = cap_plain
         note_html = join_pieces(r.render(note_toks), 'html') if note_toks else ''
         if any(t.kind == 'fn' for t in caption_toks + note_toks):
             warn('footnote reference inside a figure caption on page %s' % page.slug)
@@ -607,8 +639,8 @@ class Converter:
             cap = '<figcaption><span class="fig-note">%s</span></figcaption>' % note_html
         page.stats['figures'] += 1
         page.stats['links'] += sum(1 for t in caption_toks + note_toks if t.kind == 'link')
-        return ('<figure><img src="%s/%s" alt="%s" width="%d" height="%d" loading="lazy">%s</figure>'
-                % (IMG_URL, name, html.escape(alt, quote=True), w, h, cap))
+        return ('<figure><a href="%s/%s"><img src="%s/%s" alt="%s" width="%d" height="%d" loading="lazy"></a>%s</figure>'
+                % (IMG_URL, name, IMG_URL, name, html.escape(alt, quote=True), w, h, cap))
 
     # -- conversion ---------------------------------------------------------------------------
     def run(self):
@@ -821,7 +853,10 @@ class Converter:
         if len(imgs) == 1 and len(texts) <= 1 and all(len(r) == 1 for r in cells):
             cap = pending_caption or (texts[0] if texts else [])
             note = [] if pending_caption is None else (texts[0] if texts else [])
-            page.blocks.append(self.figure(page, imgs[0].rid, cap, note))
+            alt = None
+            if not pending_caption and texts:
+                alt = re.sub(r'[\s.]*\(Kaynak:.*\)\s*$', '', plain_text(texts[0])).rstrip(' .')
+            page.blocks.append(self.figure(page, imgs[0].rid, cap, note, alt))
             return
         raise SystemExit('unsupported table layout on page %s' % page.slug)
 
@@ -896,6 +931,9 @@ def main(argv):
             if name and os.path.isfile(os.path.join(img_dir, name)):
                 os.remove(os.path.join(img_dir, name))
     conv.run()
+    bad = {k: v for k, v in CORRECTION_COUNTS.items() if v != 1}
+    if bad:
+        raise SystemExit('corrections must match exactly once; got %r' % bad)
     files = conv.write()
     sweep(out_dir, files)
     sweep(img_dir, conv.img_files)

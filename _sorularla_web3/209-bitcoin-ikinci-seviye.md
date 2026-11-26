@@ -28,7 +28,7 @@ Bitcoin ekosisteminin geliştiriciler dışında bir başka önemli aktörü sis
 
 Bununla da bitmiyor madencilerin çilesi. Ödül kazanmak için amansız bir mücadele içindeler. Rekabetin gün be gün arttığını çok net bir şekilde izleyebiliyoruz. Madencilerin ödül kazanmak için sarf ettikleri efor, ödüle hak kazanmak için kendilerine verilen bir bulmacayı çözerken yaptıkları deneme sayısı (İngilizce ‘hash rate’) ile ölçülüyor ve bu rakam gün geçtikçe artıyor.
 
-<figure><img src="/assets/books/sorularla-web3/209-1.png" alt="Bitcoin madenci ödül kazanma çabası" width="1032" height="486" loading="lazy"><figcaption>Bitcoin madenci ödül kazanma çabası</figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/209-1.png"><img src="/assets/books/sorularla-web3/209-1.png" alt="Bitcoin madenci ödül kazanma çabası" width="1032" height="486" loading="lazy"></a><figcaption>Bitcoin madenci ödül kazanma çabası</figcaption></figure>
 
 *Madencilerin saniyede yaptıkları deneme sayısı (terahash/saniye). (Kaynak: [Bitcoin.com](https://www.blockchain.com/explorer/charts/hash-rate))*
 
@@ -36,7 +36,7 @@ Bununla da bitmiyor madencilerin çilesi. Ödül kazanmak için amansız bir mü
 
 Uzunca bir süredir Bitcoin üzerinde ödenen işlem ücretleri ödüllerin yanında yok denecek kadar az idi, ta ki 2023 yılı başınan kadar. O dönemde ortaya çıkan ve Bitcoin bloklarına BTC transferi dışında NFT’lerin de yazılabilmesine olanak sağlayan Ordinals protokolü sayesinde, işlem ücretlerinin madencilerin gelir kalemleri içinde %5 civarına çıktığını gördük.
 
-<figure><img src="/assets/books/sorularla-web3/209-2.png" alt="Bitcoin madencilerinin ödül ve işlem ücreti kazancı" width="1200" height="616" loading="lazy"><figcaption>Bitcoin madencilerinin ödül ve işlem ücreti kazancı</figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/209-2.png"><img src="/assets/books/sorularla-web3/209-2.png" alt="Bitcoin madencilerinin ödül ve işlem ücreti kazancı" width="1200" height="616" loading="lazy"></a><figcaption>Bitcoin madencilerinin ödül ve işlem ücreti kazancı</figcaption></figure>
 
 *Madencilerin günlük kazançları (milyon ABD Doları - 7 günlük ortalamalar.) (Kaynak: [TheBlock](https://www.theblock.co/data/on-chain-metrics/bitcoin))*
 
