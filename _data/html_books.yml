@@ -40,3 +40,23 @@ web3_unlocked:
   source_book: "book page"
   other_url: /Sorularla_Web3/
   source_other: "Turkish edition: Sorularla Web3"
+sorularla_defi:
+  name: "Sorularla DeFi - Merkeziyetsiz Finans"
+  info_url: /Sorularla_DeFi/
+  reader_url: /Sorularla_DeFi/oku/
+  chapter_path: /Sorularla_DeFi/bolum-
+  isbn: "978-605-73998-6-1"
+  lang: tr
+  chapter_word: "Bölüm"
+  intro_word: "Giriş"
+  prev_word: "Önceki"
+  next_word: "Sonraki"
+  breadcrumb_label: "Sayfa yolu"
+  sections_label: "Bölümün başlıkları"
+  prevnext_label: "Önceki ve sonraki"
+  source_intro: "Bu metin, Turan Sert’in <em>Sorularla DeFi - Merkeziyetsiz Finans</em> kitabından alınmıştır (Tefrika Yayıncılık, 2022)."
+  source_all: "Kitabın tamamı:"
+  source_reader: "PDF okuyucu"
+  source_book: "kitap sayfası"
+  other_url: /Kitaplar/
+  source_other: "Diğer kitaplar"

@@ -30,3 +30,9 @@ description: "Turan Sert'in Sorularla DeFi - Merkeziyetsiz Finans kitabı: blokz
 Kitabın tamamını üye olmadan, çevrimiçi ve ücretsiz olarak [buradan](/Sorularla_DeFi/oku/) okuyabilirsiniz.
 
 Tefrika Yayıncılık, 3. baskı Temmuz 2022. ISBN 978-605-73998-6-1.
+
+## İçindekiler {#icindekiler}
+
+Kitabın tam metnini bölüm bölüm aşağıdan okuyabilirsiniz.
+
+{% include book-toc.html collection="sorularla_defi" %}
