@@ -43,6 +43,17 @@ defaults:
       path: "assets/pdfjs"
     values:
       sitemap: false
+  - scope:
+      path: ""
+      type: sorularla_web3
+    values:
+      layout: book-section
+      lang: tr
+      seo:
+        type: WebPage
+collections:
+  sorularla_web3:
+    output: true
 header_pages:
   - kitaplar.md
   - blockchain.md

@@ -1,0 +1,18 @@
+{%- comment -%}
+  Chapter structured data for the HTML edition of Sorularla Web3. Outputs only on collection sorularla_web3 documents.
+{%- endcomment -%}
+{%- if page.collection == "sorularla_web3" -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Chapter",
+  "name": {{ page.heading | default: page.title | jsonify }},
+  "url": {{ page.url | absolute_url | jsonify }},
+  "inLanguage": "tr",
+  "author": { "@type": "Person", "@id": "https://turansert.com/#person", "name": "Turan Sert", "url": "https://turansert.com/" },
+  "isPartOf": { "@type": "Book", "name": "Sorularla Web3", "url": "https://turansert.com/Sorularla_Web3/", "isbn": "978-625-8177-71-8" },
+  "position": {{ page.order | jsonify }},
+  "isAccessibleForFree": true
+}
+</script>
+{%- endif -%}

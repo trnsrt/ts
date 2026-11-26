@@ -1,0 +1,67 @@
+---
+layout: default
+---
+{%- comment -%}
+  Layout for the HTML edition of "Sorularla Web3" (collection sorularla_web3).
+  page.kind is "section" or "chapter"; page.order is the global reading order.
+{%- endcomment -%}
+{%- assign book_docs = site.sorularla_web3 | sort: "order" -%}
+{%- assign prev_doc = nil -%}
+{%- assign next_doc = nil -%}
+{%- for d in book_docs -%}
+  {%- if d.order == page.order -%}
+    {%- unless forloop.first -%}{%- assign prev_i = forloop.index0 | minus: 1 -%}{%- assign prev_doc = book_docs[prev_i] -%}{%- endunless -%}
+    {%- unless forloop.last -%}{%- assign next_doc = book_docs[forloop.index] -%}{%- endunless -%}
+  {%- endif -%}
+{%- endfor -%}
+<article class="book-section">
+
+  <nav class="book-breadcrumb" aria-label="Sayfa yolu">
+    <ol>
+      <li><a href="{{ '/Sorularla_Web3/' | relative_url }}">Sorularla Web3</a></li>
+      {%- if page.kind == "chapter" -%}
+      <li aria-current="page">Bölüm {{ page.chapter }}</li>
+      {%- elsif page.chapter == 0 -%}
+      <li aria-current="page">Giriş</li>
+      {%- else -%}
+      <li><a href="{{ '/Sorularla_Web3/bolum-' | append: page.chapter | append: '/' | relative_url }}">Bölüm {{ page.chapter }}: {{ page.chapter_title }}</a></li>
+      <li aria-current="page">{{ page.heading }}</li>
+      {%- endif -%}
+    </ol>
+  </nav>
+
+  <header class="book-section-header">
+    <h1>{{ page.heading | default: page.title | escape }}</h1>
+  </header>
+
+  <div class="post-content book-content">
+    {{ content }}
+  </div>
+
+  {%- if page.kind == "chapter" -%}
+  {%- assign chapter_sections = book_docs | where: "kind", "section" | where_exp: "d", "d.chapter == page.chapter" -%}
+  {%- if chapter_sections.size > 0 %}
+  <nav class="book-chapter-sections" aria-label="Bölümün başlıkları">
+    <ul>
+      {%- for d in chapter_sections %}
+      <li><a href="{{ d.url | relative_url }}">{{ d.heading | default: d.title }}</a></li>
+      {%- endfor %}
+    </ul>
+  </nav>
+  {%- endif -%}
+  {%- endif %}
+
+  {%- if prev_doc or next_doc %}
+  <nav class="book-prevnext" aria-label="Önceki ve sonraki">
+    {%- if prev_doc %}
+    <a class="book-prev" rel="prev" href="{{ prev_doc.url | relative_url }}"><span>&larr; Önceki</span> {{ prev_doc.heading | default: prev_doc.title }}</a>
+    {%- endif %}
+    {%- if next_doc %}
+    <a class="book-next" rel="next" href="{{ next_doc.url | relative_url }}"><span>Sonraki &rarr;</span> {{ next_doc.heading | default: next_doc.title }}</a>
+    {%- endif %}
+  </nav>
+  {%- endif %}
+
+  <p class="book-source">Bu metin, Turan Sert’in <em>Sorularla Web3</em> kitabından alınmıştır (Scala Yayıncılık, 2025). Kitabın tamamı: <a href="{{ '/Sorularla_Web3/oku/' | relative_url }}">PDF okuyucu</a> · <a href="{{ '/Sorularla_Web3/' | relative_url }}">kitap sayfası</a> · <a href="{{ '/Web3_Unlocked/' | relative_url }}">İngilizce baskı: Web3 Unlocked</a>.</p>
+
+</article>
