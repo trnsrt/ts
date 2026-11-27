@@ -223,6 +223,35 @@ DF_CORRECTIONS = [
     ('bir başka insiyatif ise', 'bir başka inisiyatif ise'),
 ]
 
+# Overview of a part for its (otherwise empty) chapter page: a plain descriptive sentence built only from the book's own
+# "Kitap hakkında" bullet for that part and the part's section headings; also used as the page description.
+DF_CHAPTER_OVERVIEWS = {
+    1: ('Bu bölüm, blokzincirin çıkış felsefesini, blokzincirin finans dünyasına etkisini, DeFi’nin çıkışını ve temel '
+        'özelliklerini ele alıyor. DeFi’de yatırım ve girişimciliğe, başarının sırrı olarak topluluğa, merkeziyetsizliğe, '
+        'risklere ve regülasyona da ayrı başlıklarda yer veriyor.'),
+    2: ('Bu bölüm, DeFi dünyasında neler olduğuna bakıyor ve MakerDAO, Compound, Uniswap, Yearn Finance, Synthetix, Hegic '
+        've Nexus Mutual projelerini tek tek anlatıyor. Her proje ayrı bir başlık altında işleniyor.'),
+    3: ('Bu bölüm, DeFi’nin altyapı taşlarını ele alıyor: Ethereum ve rakipleri, Chainlink ve Oracle kavramı, The Graph, '
+        'Filecoin, Aragon ile yönetim ve stabil paralar. Her konu ayrı bir başlık altında anlatılıyor.'),
+    4: ('Bu bölüm, DeFi dünyasına adım atacaklar için pratik bilgiler veriyor: ilk adımlar, elektronik cüzdan ve DeFi '
+        'tokenlarının satın alınması. İşlem yaparken dikkat edilecekler, merkeziyetsiz borsaları birlikte kullanmak ve '
+        'portföy takibi de ayrı başlıklarda anlatılıyor.'),
+}
+BC_CHAPTER_OVERVIEWS = {
+    1: ('Bu bölüm, blokzincir (Blockchain) teknolojisinin ne olduğunu soruyor. Önce üzerimize gelen dalganın farkında olup '
+        'olmadığımıza, ardından Blockchain’in ne olduğuna bakıyor.'),
+    2: ('Bu bölüm, Blockchain’in finans, tedarik zinciri, sağlık, çevre, seyahat, tahmin piyasaları, sosyal fayda ve sanat '
+        'alanlarını nasıl etkileyeceğine bakıyor. Blockchain’in her derde deva olup olmadığına, değişen '
+        'girişimcilik ve yatırımcılığa ve ICO ile token dünyasına da değiniyor.'),
+    3: ('Bu bölüm, Blockchain’i teknik açıdan ele alıyor: şifrelemeyi, Blockchain’in kendi başına nasıl hareket ettiğini '
+        've uzlaşma mekanizmalarını. Üç ayrı başlık altında işleniyor.'),
+    5: ('Bu bölüm, Bitcoin’in ne olduğunu, para sayılıp sayılmayacağını ve işlemlerin nasıl gerçekleştiğini anlatıyor. '
+        'Geniş kitlelere nasıl yayılabileceği, Lightning Network, Liquid, Bakkt ve Madencilik 2.0 da ayrı başlıklarda '
+        'işleniyor.'),
+    6: ('Bu bölüm, dünyanın en büyük bilgisayarı olan Ethereum’un hikayesini ve diğer kripto paraları ele alıyor. Sabit '
+        'paralar da bu bölümde anlatılıyor.'),
+}
+
 BC_PARTS = ['Nedir Bu Blockchain Allah Aşkına?', 'Blockchain Beni Nasıl Etkileyecek?', 'Teknik Olarak Blockchain',
             'Blockchain’in Geleceği', 'Bitcoin', 'Ethereum ve Diğer Kripto Paralar']
 # the 28 heading-2 sections in book order, worded as in the printed contents (index); a docx heading may continue
@@ -279,6 +308,7 @@ PROFILES_EXTRA = {
                chapter_desc='Sorularla Blockchain kitabının %d. bölümü: %s.', promote=set(), heading_overrides={},
                style_alias={}, lead_styles={'Subtitle'}, parts=BC_PARTS, sections=BC_SECTIONS, heading_prefix=True,
                plain_captions=True, printed_pdf='assets/books/Sorularla_Blockchain.pdf', out_corrections=BC_CORRECTIONS,
+               chapter_overviews=BC_CHAPTER_OVERVIEWS,
                printed_cfg=dict(layout=False, start='Üzerimize gelen dalganın farkında', headers=(), lookback=300,
                                 multi_end=True, keep_punct=True, strict=True)),
     'df': dict(name='df', site_title='Sorularla DeFi', url_base='/Sorularla_DeFi',
@@ -287,6 +317,7 @@ PROFILES_EXTRA = {
                chapter_desc='Sorularla DeFi kitabının %d. bölümü: %s.', promote=set(), heading_overrides={},
                style_alias={'Normal (Web)': 'Normal'}, parts=DF_PARTS, sections=DF_SECTIONS,
                printed_pdf='assets/books/Sorularla_DeFi.pdf', out_corrections=DF_CORRECTIONS,
+               chapter_overviews=DF_CHAPTER_OVERVIEWS,
                printed_cfg=dict(layout=True, start='NEDİR DEFI?', headers=('SORULARLA DEFI', 'MERKEZİYETSİZ FİNANS'),
                                 keep_punct=True)),
 }
@@ -1946,6 +1977,11 @@ class Converter:
                 if lg:
                     self.note_log[page.filename] = lg
         self.apply_out_corrections()
+        for page in self.pages:         # a part without text of its own gets its overview as body and description
+            ov = P.get('chapter_overviews', {}).get(page.chapter)
+            if page.kind == 'chapter' and ov and not page.blocks:
+                page.blocks = [ov]
+                page.plain = [ov]
         for page in self.pages:
             fdefs = self.footnote_defs(page)
             page.blocks = [self.resolve_links(b, page) for b in page.blocks]

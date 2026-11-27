@@ -7,5 +7,7 @@ chapter: 6
 chapter_title: "Ethereum ve Diğer Kripto Paralar"
 order: 600
 permalink: /Sorularla_Blockchain/bolum-6/
-description: "Sorularla Blockchain kitabının 6. bölümü: Ethereum ve Diğer Kripto Paralar."
+description: "Bu bölüm, dünyanın en büyük bilgisayarı olan Ethereum’un hikayesini ve diğer kripto paraları ele alıyor. Sabit paralar da bu bölümde anlatılıyor."
 ---
+
+Bu bölüm, dünyanın en büyük bilgisayarı olan Ethereum’un hikayesini ve diğer kripto paraları ele alıyor. Sabit paralar da bu bölümde anlatılıyor.

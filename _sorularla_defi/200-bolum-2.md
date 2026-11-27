@@ -7,5 +7,7 @@ chapter: 2
 chapter_title: "DeFi Dünyasının Aktörleri"
 order: 200
 permalink: /Sorularla_DeFi/bolum-2/
-description: "Sorularla DeFi kitabının 2. bölümü: DeFi Dünyasının Aktörleri."
+description: "Bu bölüm, DeFi dünyasında neler olduğuna bakıyor ve MakerDAO, Compound, Uniswap, Yearn Finance, Synthetix, Hegic ve Nexus Mutual projelerini tek tek anlatıyor."
 ---
+
+Bu bölüm, DeFi dünyasında neler olduğuna bakıyor ve MakerDAO, Compound, Uniswap, Yearn Finance, Synthetix, Hegic ve Nexus Mutual projelerini tek tek anlatıyor. Her proje ayrı bir başlık altında işleniyor.
