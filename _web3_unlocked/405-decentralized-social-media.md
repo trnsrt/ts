@@ -104,4 +104,4 @@ For years, creators and now users have felt the pain of the centralized social m
 
 [^2]: It relies on other mechanisms, including its modular architecture, to manage network quality.
 
-[^3]: Even though gained some traction, Phaver had to close its doors due to insufficient funding.
+[^3]: Even though it gained some traction, Phaver had to close its doors due to insufficient funding.

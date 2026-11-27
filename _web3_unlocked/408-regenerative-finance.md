@@ -28,7 +28,7 @@ ReFi aims to change this definition of profit. It seeks to build a world where t
 
 You might think these goals are utopian dreams. You may be right. But for the first time, the decentralized tools of Web3 offer a plausible path to achieving them. Let's look at how blockchain technology can power this movement.
 
-## How Blockchain Helps {#how-blockchain-helps}
+## How Blockchain Helps ReFi {#how-blockchain-helps}
 
 ReFi takes the powerful, battle-tested tools of decentralized finance and points them at real-world problems. It adapts DeFi's core value proposition—user sovereignty over assets and frictionless, borderless value transfer—for a new purpose.
 
@@ -36,7 +36,7 @@ To understand why this is so powerful, we must first look at why current systems
 
 ReFi uses blockchain to build a better toolkit. It enables anyone, anywhere, to fund socially beneficial services with speed and transparency.
 
-<figure><a href="/assets/books/web3-unlocked/408-1.png"><img src="/assets/books/web3-unlocked/408-1.png" alt="Evolving Ecological Economies" width="1200" height="992" loading="lazy"></a><figcaption>Evolving Ecological Economies <span class="fig-note">The evolution of economies from extractive and degenerative to restorative and regenerative. Adapted from 'The road ahead for ecological design' by Bill Reed (Regenesis) (Source: <a href="https://www.weforum.org/stories/2022/09/regenerative-finance-web3-climate-change/">Word Economic Forum</a>)</span></figcaption></figure>
+<figure><a href="/assets/books/web3-unlocked/408-1.png"><img src="/assets/books/web3-unlocked/408-1.png" alt="Evolving Ecological Economies" width="1200" height="992" loading="lazy"></a><figcaption>Evolving Ecological Economies <span class="fig-note">The evolution of economies from extractive and degenerative to restorative and regenerative. Adapted from 'The road ahead for ecological design' by Bill Reed (Regenesis) (Source: <a href="https://www.weforum.org/stories/2022/09/regenerative-finance-web3-climate-change/">World Economic Forum</a>)</span></figcaption></figure>
 
 Here's how it works in practice:
 

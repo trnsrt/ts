@@ -42,7 +42,7 @@ Sanat eserleri de bu bağlamda kamuya açık ürünler haline geliyorlar. Öneml
 
 Bir sanat eserinin değerini kabaca ikiye ayırmak mümkün (burada tamamen subjektif bir değerlendirme yaptığımı belirtmeliyim). Birincisi içsel değer, ikincisi ise spekülatif değer. İçsel değer dediğimiz, sanat eserinin kaba anlamıyla inşaat maliyeti. Bir resim ise kullanılan boya ve kanvas ücreti, üreten sanatçının eser üzerinde çalıştığı süre gibi.
 
-Spekülatif değer ise, eserin pazar değerini belirleyen ekstra tüm değerlerin toplamı olarak adlandırılabilir. Bunların bir kısmı sanatçının ünü, diğer ürünlerinin satış fiyatı, sanatçının daha ne kadar eser üretebileceği (sınırlılık), eserin daha önce hangi koleksiyonlara ait olduğu gibi esere özgü özellikler. Bir diğeri ise pazarın durumu. Örneğin son bir kaç yıldır yaşadığımız gibi piyasada para bolluğu olması, mevcut yatırım araçlarından istenen getirilerin alınamaması nedeniyle sanat eserlerinin alternatif yatırım aracı olarak görülmesinin getirdiği fiyat şişkinliği bunlardan birkaçı.
+Spekülatif değer ise, eserin pazar değerini belirleyen ekstra tüm değerlerin toplamı olarak adlandırılabilir. Bunların bir kısmı sanatçının ünü, diğer ürünlerinin satış fiyatı, sanatçının daha ne kadar eser üretebileceği (sınırlılık), eserin daha önce hangi koleksiyonlara ait olduğu gibi esere özgü özellikler. Bir diğeri ise pazarın durumu. Örneğin son birkaç yıldır yaşadığımız gibi piyasada para bolluğu olması, mevcut yatırım araçlarından istenen getirilerin alınamaması nedeniyle sanat eserlerinin alternatif yatırım aracı olarak görülmesinin getirdiği fiyat şişkinliği bunlardan birkaçı.
 
 <figure><a href="/assets/books/sorularla-web3/403-1.jpg"><img src="/assets/books/sorularla-web3/403-1.jpg" alt="NFT bir sanat eserine nasıl değer katar?" width="1200" height="699" loading="lazy"></a><figcaption>NFT bir sanat eserine nasıl değer katar?</figcaption></figure>
 
@@ -76,7 +76,7 @@ Fiziki bir sanat eseri, tam ve bütün olarak kalmalı ve sahipleri arasında bu
 
 ### Sanatçı ile hayranlar arasında daha derin etkileşim {#sanatci-ile-hayranlar-arasinda-daha-derin-etkilesim}
 
-NFT’lerin sanatçı ile hayran kitlesi arasındaki iletişimi artırması, bunun da hem sanatçıya hem hayran kitlesine ekonomik artılar getirmesi mümkün. Örneğin müzisyenler NFT’ler sayesinde hayran kitlesini farklı farklı alt gruplara bölerek en sıkı hayran kitlesine özel gösteriler düzenleyebilir. NFT’lerin satılabilir olması bunları elinde tutanların daha sonrasında başkalarına kârlı bir şekilde devretmesine da olanak tanıyor.
+NFT’lerin sanatçı ile hayran kitlesi arasındaki iletişimi artırması, bunun da hem sanatçıya hem hayran kitlesine ekonomik artılar getirmesi mümkün. Örneğin müzisyenler NFT’ler sayesinde hayran kitlesini farklı farklı alt gruplara bölerek en sıkı hayran kitlesine özel gösteriler düzenleyebilir. NFT’lerin satılabilir olması bunları elinde tutanların daha sonrasında başkalarına kârlı bir şekilde devretmesine de olanak tanıyor.
 
 ## NFT dünyasında son durum ne? {#nft-dunyasinda-son-durum-ne}
 

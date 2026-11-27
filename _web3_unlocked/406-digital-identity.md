@@ -20,9 +20,9 @@ The common thread is that you don't own or control any of them. They are all iss
 
 First, these databases are irresistible honeypots for hackers. The question is not *if* they will be breached, but *when*. We see it constantly in the news: massive data thefts exposing our most sensitive information. This isn't a bug in the system; it's a built-in feature of centralized data storage.
 
-Second, our data gets exploited. For companies like social media giants, our identity is the raw material that fuels their business. They offer a "free" service in exchange for the right to process our data and sell it to advertisers. The [Facebook-Cambridge Analytica](https://en.wikipedia.org/wiki/Facebook%25E2%2580%2593Cambridge_Analytica_data_scandal) scandal was the moment the world saw the terrifying power of this model—how our data could be used not just to sell products, but to manipulate our political views on a mass scale.
+Second, our data gets exploited. For companies like social media giants, our identity is the raw material that fuels their business. They offer a "free" service in exchange for the right to process our data and sell it to advertisers. The [Facebook-Cambridge Analytica](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal) scandal was the moment the world saw the terrifying power of this model—how our data could be used not just to sell products, but to manipulate our political views on a mass scale.
 
-## Will blockchain be the cure? {#will-blockchain-be-the-cure}
+## Will blockchain be the cure for digital identity? {#will-blockchain-be-the-cure}
 
 While it’s wise to be skeptical of presenting blockchain as a magical cure-all, digital identity is one of the rare, fundamental problems it is uniquely positioned to solve.
 
@@ -40,7 +40,7 @@ For **verifiers**, the benefit is huge. They no longer need to request, handle, 
 
 Of course, the biggest beneficiary is you, the **holder**. This model gives you back control. Your credentials live in your own digital wallet, not in some company's database. You decide what to share and with who. Using technologies like zero-knowledge proofs, you can prove specific facts about yourself—that you have a valid degree, that you are a citizen, that your credit is good—without revealing all the underlying personal data. The power shifts from the institutions back to the individual.
 
-## How It Works in Practice {#how-it-works-in-practice}
+## How Digital Identity Works in Practice {#how-it-works-in-practice}
 
 So how does this new identity system actually work? The prototype has been hiding in plain sight for years within decentralized finance. Crypto wallets provide the architecture for universal SSI passports—intentionally harnessed, not accidental.
 

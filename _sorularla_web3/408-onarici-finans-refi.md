@@ -28,7 +28,7 @@ ReFi bu anlamda kâr anlayışını değiştirmeye, oluşan değerin sadece kapi
 
 Bu hedeflerin çok ‘havada’ kaldığını, ulaşılması mümkün olmayan hayaller olduğunu düşünebilirsiniz. Haklı olabilirsiniz ama belki de merkeziyetsiz sistemler sayesinde bu amaçların hepsine olmasa da bir kısmına ulaşmanın yolu vardır. İşte bu hareket için blokzincir teknolojisi nasıl yardımcı olabilir gelin ona bakalım şimdi de.
 
-## Blokzincir nasıl yardımcı olabilir? {#blokzincir-nasil-yardimci-olabilir}
+## Blokzincir onarıcı finansa nasıl yardımcı olabilir? {#blokzincir-nasil-yardimci-olabilir}
 
 Merkeziyetsiz finans olarak adlandırdığımız Web3’ün finansal uygulamaları, bize kişilerin varlıklarına tam olarak egemen oldukları ve değerin coğrafi sınır taşımadan kişiler arasında hızlı bir şekilde el değiştirebildiği bir dünya sunuyor. ReFi ise DeFi’nin bu temel değer önerisini kendisine adapte ediyor. Nasıl yapıyor bunu tam olarak? Bunu anlamak için önce belki mevcut sistemlerin sorunlarına bakmak gerekiyor.
 
@@ -52,13 +52,13 @@ ReFi’nin şu ana kadar belki de en ilerlemiş alanı, özellikle karbon emisyo
 
 ### Sürdürülebilir tarım politikalarını destekleme {#surdurulebilir-tarim-politikalarini-destekleme}
 
-ReFi projeleri, tarım işiyle uğraşanlara toprağın kendini onarmasına yardımcı olacak ekim metotları ya da gıda güvenliği konularında fayda sağlayacak insiyatiflere yatırım yapıyorlar. Bu alanda pek çok proje çalışması söz konusu. Bunlardan biri olan [EthicHub](https://www.ethichub.com/en), yatırımcıları Güney Amerika’daki çiftçiler ile bir araya getiriyor. Bankacılığa erişimi olmayan çiftçiler verecek teminatları da olmadığı için sadece kendi aralarında, o da %100’lere varan oranlarda faiz ödeyerek borçlanabiliyorlar. EthicHub çiftçileri bu alandaki yatırımcılar ile bir araya getirerek onlara ucuz kredi sağlıyor ama faydası bununla sınırlı değil. Onların aynı zamanda biyoçeşitlilik ödül programlarından faydalanmalarına da [yardımcı oluyor](https://www.engage.hoganlovells.com/knowledgeservices/news/where-finance-digital-sustainability-and-impact-meet-what-is-regenerative-finance-refi). (Bunlardan bir başka örnek olan ‘Crypto Climate Coalition’ ile ilgilli detaylı Örnek incelemesine bu bölümün sonunda ulaşabilirsiniz.)
+ReFi projeleri, tarım işiyle uğraşanlara toprağın kendini onarmasına yardımcı olacak ekim metotları ya da gıda güvenliği konularında fayda sağlayacak inisiyatiflere yatırım yapıyorlar. Bu alanda pek çok proje çalışması söz konusu. Bunlardan biri olan [EthicHub](https://www.ethichub.com/en), yatırımcıları Güney Amerika’daki çiftçiler ile bir araya getiriyor. Bankacılığa erişimi olmayan çiftçiler verecek teminatları da olmadığı için sadece kendi aralarında, o da %100’lere varan oranlarda faiz ödeyerek borçlanabiliyorlar. EthicHub çiftçileri bu alandaki yatırımcılar ile bir araya getirerek onlara ucuz kredi sağlıyor ama faydası bununla sınırlı değil. Onların aynı zamanda biyoçeşitlilik ödül programlarından faydalanmalarına da [yardımcı oluyor](https://www.engage.hoganlovells.com/knowledgeservices/news/where-finance-digital-sustainability-and-impact-meet-what-is-regenerative-finance-refi). (Bunlardan bir başka örnek olan ‘Crypto Climate Coalition’ ile ilgili detaylı Örnek incelemesine bu bölümün sonunda ulaşabilirsiniz.)
 
 ### Toplulukları destekleme {#topluluklari-destekleme}
 
 ReFi, toplulukların sosyal refahını sağlama ve sürdürülebilirlik konularında destekler veriyor. Bunlar, ekonomik zorluk içindeki mikro-girişimcileri [desteklemekten](https://rsfsocialfinance.org/get-funding/meet-the-entrepreneurs-2/), bankacılığa erişimi olmayan kesimlere finansal hizmetler [götürmeye](https://www.ethichub.com/en), hava ve çevre kirliliğinin üst boyutta olduğu yerlerde yenilenebilir enerji projeleri finanse etmeye kadar farklı bir dizi inisiyatifi içeriyor.
 
-## Her ‘şey’ güllük gülistanlık mı? {#her-sey-gulluk-gulistanlik-mi}
+## ReFi’de her ‘şey’ güllük gülistanlık mı? {#her-sey-gulluk-gulistanlik-mi}
 
 Peki bu kadar güzel konular var, neden ReFi hareketini ve projelerini daha sık duymuyoruz?
 
@@ -72,6 +72,6 @@ Onarıcı finans (ReFi), Web3 dünyasının birey odaklı değer önerisini geni
 
 [^1]: Bitcoin topluluğu içinde en etkili gruplardan birini bireyselliği ön plana çıkaran ve felsefi olarak ABD’de oldukça kuvvetli bir akım olan liberter (özgürlükçü) düşünceye yakın olanların oluşturduğunu belirtelim.
 
-[^2]: Tanım Howell Lovells’in Where finance, digital, sustainability and impact meet: what is Regenerative Finance (ReFi)? adlı [yazısından](https://www.engage.hoganlovells.com/knowledgeservices/news/where-finance-digital-sustainability-and-impact-meet-what-is-regenerative-finance-refi) yazarınız tarafından ‘kabalaştırılarak’ Türkçe’ye çevrilmiştir.
+[^2]: Tanım Hogan Lovells’in Where finance, digital, sustainability and impact meet: what is Regenerative Finance (ReFi)? adlı [yazısından](https://www.engage.hoganlovells.com/knowledgeservices/news/where-finance-digital-sustainability-and-impact-meet-what-is-regenerative-finance-refi) yazarınız tarafından ‘kabalaştırılarak’ Türkçe’ye çevrilmiştir.
 
 [^3]: Bu tanımlamalar, Toucan’ın ‘What is ReFi’ [yazısından](https://blog.toucan.earth/what-is-refi-regenerative-finance/) alındı.

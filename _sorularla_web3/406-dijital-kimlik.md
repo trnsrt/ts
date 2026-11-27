@@ -22,7 +22,7 @@ Veriler neden merkezi bir yerde tutuluyor? Bu sayede kurumlar bilgileri daha ver
 
 Sorunların temeli de buradan başlıyor işte. Bu veritabanlarının güvenliği oldukça zahmetli, hatta neredeyse imkansız. Sık sık bu veritabanlarının çalındığını ve bilgilerimizin ortaya saçıldığını görüyoruz. Öte yandan, Facebook’un [Cambridge Analytica](https://tr.wikipedia.org/wiki/Facebook-Cambridge_Analytica_veri_skandal%C4%B1) skandalında olduğu gibi bilgilerin reklamların ötesinde, kişilerin politik tercihlerini etkilemek için kullanıldığını duyuyoruz.
 
-## Blokzincir deva olur mu bu derde? {#blokzincir-deva-olur-mu-bu-derde}
+## Blokzincir deva olur mu bu dijital kimlik derdine? {#blokzincir-deva-olur-mu-bu-derde}
 
 Geçmiş kitaplarımızda, blokzincirin her derde deva bir çözüm olarak sunulmasının sakıncalarından bahsetmiştik. Dijital dünyada kimlik meselesi ise aslında tam da blokzincirin çözebileceği sorunlardan bir tanesi. Neden?
 
@@ -32,7 +32,7 @@ Blokzincir, kimliği çıkaran kurumları, fiziksel kartların tahrifat ve sahte
 
 Tabii burada en büyük fayda kullanıcı yani kimlik sahibine. Hep söylediğimiz gibi, blokzincir felsefesinin temel amacı ‘gücü kullanıcıya vermek’. Kullanıcı, dijital kimlik sayesinde artık işlemi yapanın kendisi olduğunu kanıtlayabildiği gibi, bunu yaparken karşı tarafa kişisel bilgilerini vermek zorunda kalmayacak ya da çok daha kısıtlı bilgi vererek bunu yapabilecek.
 
-## Pratikte nasıl çalışabilir? {#pratikte-nasil-calisabilir}
+## Dijital kimlik pratikte nasıl çalışabilir? {#pratikte-nasil-calisabilir}
 
 Peki dijital kimlik pratikte nasıl çalışacak? Aslına bakarsanız, bu soru merkeziyetsiz finans sayesinde kendiliğinden çözüldü. DeFi’nin temel taşlarından olan kişisel cüzdanlar, kullanıcıların kimliklerini deşifre etmeden farklı DeFi hizmetlerini kullanabilmelerinin yolunu açtı.
 

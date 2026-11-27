@@ -18,7 +18,7 @@ Web3 dünyasının ilk örneği olan Bitcoin, 2009 yılında bir dijital para uy
 
 Gerçekten tam da tahmin edildiği gibi, Web3 olarak adlandırdığımız blokzincir temelli uygulamalar ilk olarak finans alanında hayatımıza girdiler. 2020 yılının ortasında ‘DeFi yazı’ ile başlayan bu süreç sonrası yükselişe geçen ikinci alan ise NFT’ler ve oyun piyasası oldu. Örneğin tedarik zincirindeki uygulamalar değil de neden bu iki alan ön plana çıktı?
 
-Birinci neden, gerek NFT’lerin gerekse oyun alanın tamamen dijitalleşmiş olması. Blokzincir temelli merkeziyetsiz uygulamaların en hızlı gelişebileceği yerler fiziksel dünyaya dokunmayan alanlar.
+Birinci neden, gerek NFT’lerin gerekse oyun alanının tamamen dijitalleşmiş olması. Blokzincir temelli merkeziyetsiz uygulamaların en hızlı gelişebileceği yerler fiziksel dünyaya dokunmayan alanlar.
 
 Tabii sadece dijitalleşmek yetmiyor, bir diğer önemli konu da sektörün büyüklüğü. Oyun sektörü son yirmi yılda özellikle kurgu ve grafik kalitesinin gerçek hayata yaklaşması ve internet ile mobil cihazların hayatımızın baş köşesine oturması sayesinde beklenmedik ölçüde büyüdü. Öyle ki, sektörün büyüklüğü eğlence dünyasındaki diğer iki önemli kol olan [müzik ve film endüstrisinin toplamının iki katına kadar ulaşarak](https://wagmi-games.gitbook.io/wagmi-games-whitepaper/3.-market-analysis), 2024 yılı içinde 220 milyar ABD Dolarına dayandı.
 
@@ -56,7 +56,7 @@ Burada finansal yetersizlikler dışında bir başka önemli neden, Web3 girişi
 
 ### Oyun topluluklarının play-to-earn modeline verdikleri tepki {#oyun-topluluklarinin-play-to-earn-modeline-verdikleri-tepki}
 
-Web3 girişimlerin oynadıkça kazan yoluyla kullanıcı çekmeye çalışması bir noktaya kadar başarılı oldu. Uzun vadede sürdürülebilir olmayan bu taktik aynı zamanda mevcut oyun topluluğunun tepkisine de neden oldu. Play-to-earn modellerin kullanıcılara verdiği ödüller özellikle gelişmekte olan ülkelerdeki kullanıcılar için bir geçim yolu haline geldi. Buna karşılık, para kazanma motivasyonunun oyun oynama zevkini yok ettiğini düşünen ve özellikle gelişmiş ülkelerde yaşayan ciddi bir kitle ise Web3 oyunlara karşı cephe aldı.
+Web3 girişimlerinin oynadıkça kazan yoluyla kullanıcı çekmeye çalışması bir noktaya kadar başarılı oldu. Uzun vadede sürdürülebilir olmayan bu taktik aynı zamanda mevcut oyun topluluğunun tepkisine de neden oldu. Play-to-earn modellerin kullanıcılara verdiği ödüller özellikle gelişmekte olan ülkelerdeki kullanıcılar için bir geçim yolu haline geldi. Buna karşılık, para kazanma motivasyonunun oyun oynama zevkini yok ettiğini düşünen ve özellikle gelişmiş ülkelerde yaşayan ciddi bir kitle ise Web3 oyunlara karşı cephe aldı.
 
 ### Oyuna kullanıcı kazandırma (on-boarding) sürecinde yaşanan zorluklar {#oyuna-kullanici-kazandirma-on-boarding-surecinde-yasanan-zorluklar}
 
@@ -104,7 +104,7 @@ Girişimlerin, kendi içlerinde yarattıkları ekonomiyi büyütecek ve ona sür
 
 Konu başlığımız oyun ve metaverse ama buraya kadar sadece oyunlardan bahsettik. Haklısınız. Bir zamanlar oldukça sükse yapan metaverse konusunun son zamanlarda esamesi okunmamaya başladı. Neden?
 
-2020 yılı başında yaşadığımız Covid salgını nedeniyle eve tıkılan aile fertlerinin imdadına, eğlence için oyunlar, profesyonel yaşam için başta Zoom olmak üzere görüntülü iletişim araçları yetişmişti.. Daha önce bir hayal gibi görünen uzaktan çalışmanın özellikle Zoom aracılığıyla pekâlâ da yapılabildiğini görenler, bu yeni paradigma değişiminden yola çıkıp bir adım ileri giderek bundan bir sonraki devrimin metaverse alanında olacağını düşünüyorlardı. Hele hele Facebook’un patronu Mark Zuckerberg’in şirketin adını Meta olarak değiştirmesi bu alana yeni girişimlerin hücum etmesine neden oldu.
+2020 yılı başında yaşadığımız Covid salgını nedeniyle eve tıkılan aile fertlerinin imdadına, eğlence için oyunlar, profesyonel yaşam için başta Zoom olmak üzere görüntülü iletişim araçları yetişmişti. Daha önce bir hayal gibi görünen uzaktan çalışmanın özellikle Zoom aracılığıyla pekâlâ da yapılabildiğini görenler, bu yeni paradigma değişiminden yola çıkıp bir adım ileri giderek bundan bir sonraki devrimin metaverse alanında olacağını düşünüyorlardı. Hele hele Facebook’un patronu Mark Zuckerberg’in şirketin adını Meta olarak değiştirmesi bu alana yeni girişimlerin hücum etmesine neden oldu.
 
 Sonrası? Sonrası çok da istendiği gibi gitmedi. Konuşulan vizyonların gerçek hayata geçtiğini göremedik. Peki o zaman metaverse konusunu rafa mı kaldırmalıyız?
 

@@ -28,7 +28,7 @@ The real power of DeFi lies in its architecture. It's an open ecosystem where ap
 
 We call this "composability," but it’s easier to think of it as "money legos." Each DeFi service is a building block. As a user, you can pick and choose blocks from different providers and snap them together to create a customized financial strategy. If a better block comes along, you can instantly swap it out. This simple concept creates a huge shift in power from closed institutions to the individual user.
 
-## Why Finance First? {#why-finance-first}
+## Why Finance First in Web3? {#why-finance-first}
 
 It was no accident that finance became the first major arena for Web3. It happened for two simple reasons: the sector had massive, untapped potential for disruption, and the conditions were perfect for that disruption to occur.
 
@@ -98,7 +98,7 @@ After bottoming out in late 2022/early 2023, DeFi’s TVL and market activit
 
 While distributing governance tokens was an incredibly effective go-to-market strategy, it was never a sustainable one. There's a finite supply of tokens to give away. The million-dollar question for DeFi now is: what keeps people using these systems when the rewards run out? The answer lies in building real, durable utility that can stand on its own.
 
-## What stands in the way of growth? {#what-stands-in-the-way-of-growth}
+## What stands in the way of DeFi’s growth? {#what-stands-in-the-way-of-growth}
 
 For DeFi to achieve sustainable growth, it needs to be adopted more widely. This requires solving two main problems: the fact that it's hard to use and the inherent risks users have to take on.
 
@@ -120,7 +120,7 @@ Users are expected to understand the risks of different blockchains and protocol
 
 To reach a wider audience, DeFi needs simpler, more understandable products. It may also need a new layer of intermediaries—not to take custody of your assets, but to use the system's transparency to explain risks and guide users, all while upholding the spirit of decentralization.
 
-## The Path to Adoption {#the-path-to-adoption}
+## The Path to DeFi Adoption {#the-path-to-adoption}
 
 To solve these problems and bring DeFi to the masses, the path forward involves both internal innovation and external collaboration.
 

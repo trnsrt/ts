@@ -20,7 +20,7 @@ Satoshi Nakamoto originally envisioned Bitcoin as a peer-to-peer payment system.
 
 Volatility is a terrible foundation for a trading economy, and stablecoins—primarily USDT (Tether)—provided the solution. They replaced BTC as the market's default currency, leaving Bitcoin to solidify its narrative purely as a store of value.
 
-### Who Owns the Market? {#who-owns-the-market}
+### Who Owns the Stablecoin Market? {#who-owns-the-market}
 
 The stablecoin space is dominated by two heavyweights: USDT (Tether) and USDC. Both are centralized, issued by private companies, and (theoretically) fully backed by an equivalent amount of fiat currency held in traditional bank accounts.
 
@@ -38,7 +38,7 @@ Second, there's the risk that the banks holding the reserves could fail, a risk 
 
 Most importantly, these stablecoins undermine the core promise of crypto: "full ownership of your assets." You may hold USDT in your wallet, but Tether can freeze those assets remotely with a single command. As centralized companies, Tether and Circle are susceptible to pressure from regulators and governments, and if they are forced to act, there is nothing a user can do.
 
-### What About Decentralized Alternatives? {#what-about-decentralized-alternatives}
+### What About Decentralized Stablecoin Alternatives? {#what-about-decentralized-alternatives}
 
 This brings us to the decentralized challengers, most notably **DAI** from MakerDAO, which was built to be censorship-resistant.
 
@@ -74,7 +74,7 @@ This strategy allows the US to maintain control and harness the innovation of th
 
 So what do you, the user, get for holding a stablecoin? With centralized coins like USDT or USDC, the answer is simple: nothing[^4]. You are effectively giving an interest-free loan to the issuer.
 
-Tether’s business model is to take the billions of dollars users give it and invest that capital in interest-bearing assets, like U.S. Treasury bills. They pocket the entire yield. It’s an incredibly profitable business. In 2023, In the first quarter of 2025 alone, Tether, a company with roughly 150 employees, reported a staggering $4.52 billion in net profit—more than triple what BlackRock, the world's largest asset manager, pulled in over the same period.
+Tether’s business model is to take the billions of dollars users give it and invest that capital in interest-bearing assets, like U.S. Treasury bills. They pocket the entire yield. It’s an incredibly profitable business. In the first quarter of 2025 alone, Tether, a company with roughly 150 employees, reported a staggering $4.52 billion in net profit—more than triple what BlackRock, the world's largest asset manager, pulled in over the same period.
 
 <figure><a href="/assets/books/web3-unlocked/401-3.png"><img src="/assets/books/web3-unlocked/401-3.png" alt="Net Profits: Tether vs. Major Financial Institutions" width="917" height="508" loading="lazy"></a><figcaption>Net Profits: Tether vs. Major Financial Institutions <span class="fig-note">Net earnings of JPMorgan, Bank of America, BlackRock and Tether for the last four years. The lean, high-margin stablecoin business is a financial powerhouse. (Source: Delphi Digital, Tether, Yahoo Finance)</span></figcaption></figure>
 
@@ -98,4 +98,4 @@ For now, stablecoins offer a clear value proposition, especially for users in de
 
 [^4]: Coinbase, a former Circle partner, [offers interest](https://www.coinbase.com/usdc) to users who lock USDC with them.
 
-[^5]: As of mid-July 2025, this [rate](https://app.spark.fi/) was 2% for DAI and %4.5 for USDS.
+[^5]: As of mid-July 2025, this [rate](https://app.spark.fi/) was 2% for DAI and 4.5% for USDS.

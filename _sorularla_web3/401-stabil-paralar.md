@@ -20,7 +20,7 @@ Stabil para deyince ne anlamamız gerektiğini artık üç aşağı beş yukarı
 
 <figure><a href="/assets/books/sorularla-web3/401-1.png"><img src="/assets/books/sorularla-web3/401-1.png" alt="Stabil para adaptasyonu" width="1200" height="1041" loading="lazy"></a><figcaption>Stabil para adaptasyonu <span class="fig-note"><em>Kriptopara işlem hacimleri ile stabil para tutan adres sayılarındaki değişim. Hacimler büyük bir dalgalanma gösterse bile stabil para adaptasyonunda durdurulamaz bir ilerleme görülmekte. (Kaynak: <a href="https://x.com/Delphi_Digital/status/1869463499530965052">Delphi Digital</a>)</em></span></figcaption></figure>
 
-### Piyasanın hakimi kim? {#piyasanin-hakimi-kim}
+### Stabil para piyasasının hakimi kim? {#piyasanin-hakimi-kim}
 
 Neyse, stabil paralara geri dönecek olursak, bu alanda liderliği açık ara USDT (Tether) ve USDC’nin aldığını görüyoruz. Bu iki stabil paranın ortak özellikleri, merkezi yapılar tarafından çıkarılmış olmaları ve arkasında (en azından teorik olarak) basıldığı miktar kadar itibari paranın banka hesaplarında tutuluyor olması.
 
@@ -34,9 +34,9 @@ Bu paraların yanında merkezi olarak küçük pek çok oyuncu olsa da, bu oyunc
 
 Bu özellik, kullanıcıya bir gün parasını geri almak istediğinde bire bir değerden geri alabileceği konusunda güvence veriyor olsa da bu alanda hâlâ bazı sıkıntılar olduğunu söylememiz gerek. Örneğin, bu stabil paraların arkasında gerçekten o kadar itibari para var mı? Çıkardıkları raporların doğru olduğuna güvenmek zorundasınız. Sonra, USDC’nin 2023 yılı Mart ayında yaşadığı gibi, paraların tutulduğu bankanın batma riski var. Dolayısıyla bu alanda şeffaflık konusunda sorunlar ve potansiyel riskler halen mevcut.
 
-Öte yandan kullanıcılar için bu stabil paraların, kriptonun vaat ettiği ‘dijital dünyada varlıklar üzerinde tam olarak hak sahibi olma’ özelliğini taşımadığını net olarak söyleyebiliriz. Siz, kendi cüzdanınızda USDT tuttuğunuzu düşünebilirsiniz ama bir gün Tether uzaktan kumanda ile cüzdanındaki USDT’yi dondurup kullanılmaz hale getirebilir. Bu durumda yapabileceğiniz hiçbir şey yok açıkcası. Bu paraları basan Tether ya da Circle’ın da merkezi şirketler olmaları nedeniyle bu tip baskılara karşı koymaları oldukça zor.
+Öte yandan kullanıcılar için bu stabil paraların, kriptonun vaat ettiği ‘dijital dünyada varlıklar üzerinde tam olarak hak sahibi olma’ özelliğini taşımadığını net olarak söyleyebiliriz. Siz, kendi cüzdanınızda USDT tuttuğunuzu düşünebilirsiniz ama bir gün Tether uzaktan kumanda ile cüzdanındaki USDT’yi dondurup kullanılmaz hale getirebilir. Bu durumda yapabileceğiniz hiçbir şey yok açıkçası. Bu paraları basan Tether ya da Circle’ın da merkezi şirketler olmaları nedeniyle bu tip baskılara karşı koymaları oldukça zor.
 
-### Ya merkeziyetsiz alternatifler? {#ya-merkeziyetsiz-alternatifler}
+### Ya merkeziyetsiz stabil para alternatifleri? {#ya-merkeziyetsiz-alternatifler}
 
 Bu iki büyük stabil paranın dışında, kendini merkeziyetsiz dolayısıyla sansüre karşı daha dayanıklı olarak konumlandıran küçük bir üçüncü oyuncu var, o da MakerDAO tarafından çıkarılan DAI.
 
@@ -54,9 +54,9 @@ Stabil paraların bu kadar popüler olması, itibari paraları çıkaran merkez 
 
 Merkez bankalarının kendi perspektiflerinden bir Merkez Bankası Dijital Parası (ingilizce Central Bank Digital Currency kısaca CBDC) çıkarması kadar doğal bir gelişme olamaz. Zira, teknoloji size artık bastığınız parayı programlanabilir yapma olanağı veriyor. Bu sayede çok daha efektif bir para politikası güdebilirsiniz.
 
-Örneğin, herhangi bir bölgede afet mi oldu, o bölgede bundan zarar gören vatandaşlara direkt para yardımı yapabilirsiniz. Bunu şu anda itibari paralar ile de yapabilirsiniz ama CDBC’nin güzelliği bundan sonra başlıyor. Gönderdiğiniz paranın nasıl ve nerede kullanılacağına önceden karar verebilirsiniz. Yani yaptığınız yardımı hane halkı için temel ihtiyaç maddeleri ya da çiftçi için dizel yakıt alımı ile sınırlı tutabilirsiniz. Öte yandan süreli olarak da yapabilirsiniz bu yardımı. Belirli bir süre içinde kullanılmayan paraları otomatik olarak geri çekebilirsiniz.
+Örneğin, herhangi bir bölgede afet mi oldu, o bölgede bundan zarar gören vatandaşlara direkt para yardımı yapabilirsiniz. Bunu şu anda itibari paralar ile de yapabilirsiniz ama CBDC’nin güzelliği bundan sonra başlıyor. Gönderdiğiniz paranın nasıl ve nerede kullanılacağına önceden karar verebilirsiniz. Yani yaptığınız yardımı hane halkı için temel ihtiyaç maddeleri ya da çiftçi için dizel yakıt alımı ile sınırlı tutabilirsiniz. Öte yandan süreli olarak da yapabilirsiniz bu yardımı. Belirli bir süre içinde kullanılmayan paraları otomatik olarak geri çekebilirsiniz.
 
-Merkez bankaları açısından oldukça verimli bir araç olan CBDC’lerin, kullanıcılar için etkileri ise pek çok soru işareti ile dolu. Öncelikle, parayı harcamanın bu kadar şeffaf bir şekilde takip ediliyor olması, özellikle mahremiyet konusunda ciddi endişeler barındıyor. Hele bir de CBDC’ler konusunda en ileri ülke olan Çin’in ‘sosyal repütasyon’ adı altında yaptığı uygulamalar, Web3 yanlıları arasında tam bir distopya olarak değerlendiriliyor.
+Merkez bankaları açısından oldukça verimli bir araç olan CBDC’lerin, kullanıcılar için etkileri ise pek çok soru işareti ile dolu. Öncelikle, parayı harcamanın bu kadar şeffaf bir şekilde takip ediliyor olması, özellikle mahremiyet konusunda ciddi endişeler barındırıyor. Hele bir de CBDC’ler konusunda en ileri ülke olan Çin’in ‘sosyal repütasyon’ adı altında yaptığı uygulamalar, Web3 yanlıları arasında tam bir distopya olarak değerlendiriliyor.
 
 Finans dünyasının lideri olan ABD’de ise CBDC’ler konusunda şu an için hakim görüş bu konudan uzak durmak yönünde. Özellikle kişisel özgürlüklerin çok hassas bir konu olduğu ülkede, halkı CBDC’ye ikna etmek oldukça zor iş. Zaten Cumhuriyetçiler açık açık karşı olduklarını ilan ettiler bile. Öte yandan, Web3 dünyasının stabil para piyasası zaten ABD Doları üzerinden dönüyor. Bu pazarın oyuncuları arasında olan USDC, baştan itibaren hükümet ile iyi ilişkiler içinde. USDT de yavaş yavaş hükümetin suyuna girmiş durumda. Her iki kurum da kendilerine gelen ‘şu hesaptaki şu parayı dondur’ taleplerini çok hızlı bir şekilde yerine getiriyorlar. Dolayısıyla ABD’nin şu aşamada kamu eliyle bir dijital merkez bankası parası basmasına gerek yok gibi görünüyor.
 

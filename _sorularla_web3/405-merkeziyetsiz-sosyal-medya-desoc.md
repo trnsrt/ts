@@ -14,7 +14,7 @@ Bu kısımda gün geçtikçe daha çok gözümüze batmaya başlayan sosyal medy
 
 ## Sosyal medyanın sorunları {#sosyal-medyanin-sorunlari}
 
-Bu satırların yazıldığı 2024 yılında, sosyal medya uygulamalarına baktığımızda [Instagram](https://www.instagram.com/), [X](https://www.x.com/) (eski adıyla Twitter), [Tiktok](https://www.tiktok.com/), [Facebook](https://www.facebook.com/) ve [Snapchat](https://www.snapchat.com/) öne çıkıyor. Dijital dünya giderek hayatımızın daha büyük bir kısmını kapsamaya başlarken bu uygulamaların sıkıntıları da gitgide gözümüze daha çok batmaya başlıyor. Gelin hızlıca bu sıkıntıları hatırlayalım.
+Bu satırların yazıldığı 2024 yılında, sosyal medya uygulamalarına baktığımızda [Instagram](https://www.instagram.com/), [X](https://www.x.com/) (eski adıyla Twitter), [TikTok](https://www.tiktok.com/), [Facebook](https://www.facebook.com/) ve [Snapchat](https://www.snapchat.com/) öne çıkıyor. Dijital dünya giderek hayatımızın daha büyük bir kısmını kapsamaya başlarken bu uygulamaların sıkıntıları da gitgide gözümüze daha çok batmaya başlıyor. Gelin hızlıca bu sıkıntıları hatırlayalım.
 
 ### Giderek artan reklamlar {#giderek-artan-reklamlar}
 
@@ -36,7 +36,7 @@ Peki onlar bizim hakkımızda bu kadar bilgi sahibi iken biz hakkımızda ne kad
 
 Sansürün canlı örneğini hep birlikte 2024 yazında yaşadık. Instagram ‘uygun bulmadığı’ (neye göre, kime göre?) içerikleri kaldırmak gibi son derece yakışıksız bir harekette bulundu. Bunun üzerine ülkede Instagram’a erişim kapatıldı. Merkezi yapıların bu savaşında ‘filler tepişti, çimenler ezildi’, olan son kullanıcıya ve sosyal medyada içerik üreterek para kazanmaya çalışan binlerce kişiye oldu. Öte yandan, pek çok merkeziyetsiz platformun temel etkileşim mecrası olan Discord bu satırların yazıldığı sırada hâlâ erişime kapalı.
 
-Benzer bir durum şu anda X (Twitter) üzerinde de yaşanıyor. Twitter üzerinde sansür değil ama atılan postların takipçilere gösteriminde algoritmalar aracılığıyla kısıtlamalar yapılıyor. Örneğin X’in yeni sahibi olan Elon Musk’ın fikirlerine yakın olan ya da ABD’de aşırı sağcı olarak nitelenen hesapların insanların önüne daha fazla çıkarıldığı ile ilgili şikayetler geliyor. Şirketin sahibi tek bir kişi olunca canının istediğini yapar tabii. Beni asıl şaşırtan özellikle yurtdışında çok takipçili bir çok hesabın bu olaylar üzerine X’i bırakıp Meta’nın kurduğu [Threads](https://www.threads.net/?hl=en) üzerinde aktif olacaklarını açıklamaları. ‘Aynısının laciverdi’ benzer bir merkezi yapıya nasıl geçiyorlar anlamak gerçekten zor.
+Benzer bir durum şu anda X (Twitter) üzerinde de yaşanıyor. Twitter üzerinde sansür değil ama atılan postların takipçilere gösteriminde algoritmalar aracılığıyla kısıtlamalar yapılıyor. Örneğin X’in yeni sahibi olan Elon Musk’ın fikirlerine yakın olan ya da ABD’de aşırı sağcı olarak nitelenen hesapların insanların önüne daha fazla çıkarıldığı ile ilgili şikayetler geliyor. Şirketin sahibi tek bir kişi olunca canının istediğini yapar tabii. Beni asıl şaşırtan özellikle yurtdışında çok takipçili birçok hesabın bu olaylar üzerine X’i bırakıp Meta’nın kurduğu [Threads](https://www.threads.net/?hl=en) üzerinde aktif olacaklarını açıklamaları. ‘Aynısının laciverdi’ benzer bir merkezi yapıya nasıl geçiyorlar anlamak gerçekten zor.
 
 Keza yakın zamanda Facebook ve Instagram’ın sahibi olan Meta’nın kurucusu Mark Zuckerberg, ABD Temsilciler Meclisi Adalet Komisyonu’na 2020 yılındaki seçimler öncesi hükümet yetkililerinden gelen sansür isteklerine nasıl boyun eğdiğini itiraf eden bir [mektup](https://x.com/JudiciaryGOP/status/1828201780544504064) gönderdi.
 
@@ -56,7 +56,7 @@ Web3 dünyasının son zamanlarda yükselen alanlarından biri olan merkeziyetsi
 
 Bu kısımda sosyal medya alanının hakimi olan merkezi yapılara karşı alternatif olarak ortaya çıkan ve altyapı hizmeti veren platformlara değineceğiz. Merkeziyetsiz bir şekilde yapılanan bu platformların temeli ‘kullanıcının dijital dünyada ürettiği içerik ve kurduğu ilişkiler üzerinde tam sahipliğinin olması’ prensibine dayanıyor.
 
-İçerik üreticileri, kullanıcıların beğenisine sundukları içerikleri platformlara ait, genelde dağıtık halde bulunan sunuculara yüklüyorlar. Kullanıcılar ise bu içeriklere tek bir uygulamadan değil birbirinden farklı onlarca uygulama aracılığıyla ulaşabiliyorlar. Hatırlayanlarınız vardır; eskiden Twitter’a farklı farklı uygulamalar kullanarak girebiliyordunuz, sonra bir gün Twitter platformunu bütün bu uygulamalara kapattı. İşte merkeziyetsiz platformların bir çoğunda, böyle bir risk söz konusu değil.
+İçerik üreticileri, kullanıcıların beğenisine sundukları içerikleri platformlara ait, genelde dağıtık halde bulunan sunuculara yüklüyorlar. Kullanıcılar ise bu içeriklere tek bir uygulamadan değil birbirinden farklı onlarca uygulama aracılığıyla ulaşabiliyorlar. Hatırlayanlarınız vardır; eskiden Twitter’a farklı farklı uygulamalar kullanarak girebiliyordunuz, sonra bir gün Twitter platformunu bütün bu uygulamalara kapattı. İşte merkeziyetsiz platformların birçoğunda, böyle bir risk söz konusu değil.
 
 Merkeziyetsiz sosyal medya altyapısı veren platformlar genel olarak zincir üstü ve zincir dışı hibrit çözümler sunuyor. Bir benzetme yapacak olursak, bu platformları birinci seviye blokzincirler gibi düşünebiliriz. Kullanıcılar bu platformlara farklı farklı uygulamalar aracılığıyla ulaşıyorlar. Henüz bu alanda piyasaya hakim bir oyuncu ortaya çıkmadı, [mevcut oyuncu listesi](https://github.com/2gatherproject/decentralized-social-apps-guide) ise oldukça uzun.
 
@@ -78,7 +78,7 @@ Kurulduğu günden bu yana Polygon ağı üzerinde çalışan Lens, 2024 yılı 
 
 2024 yılı içinde adından daha sık söz ettirmeyi başaran [Farcaster](https://www.farcaster.xyz/), özellikle Twitter’dan sıkılan Ethereum topluluğunun gözdesi olmaya başladı.
 
-Kullanıcı kimliklerini zincir üstünde, kullanıcıların yarattıkları içerikleri zincir dışı tutan Farcaster, özellikle postlar içine kurulabilen ufak programcıklar sayesinde kullanıcılara oyun oynama, anket yapma benzeri etkileşimi artıracak araçlar sunuyor. Frames adı verilen bu programcıklar, Lens protokolün Open Actions özelliğine oldukça benziyor. Farcaster da Lens gibi spam hesapların önüne geçmek için hesap açarken kullanıcılardan ücret alıyor.
+Kullanıcı kimliklerini zincir üstünde, kullanıcıların yarattıkları içerikleri zincir dışı tutan Farcaster, özellikle postlar içine kurulabilen ufak programcıklar sayesinde kullanıcılara oyun oynama, anket yapma benzeri etkileşimi artıracak araçlar sunuyor. Frames adı verilen bu programcıklar, Lens protokolünün Open Actions özelliğine oldukça benziyor. Farcaster da Lens gibi spam hesapların önüne geçmek için hesap açarken kullanıcılardan ücret alıyor.
 
 Üzerinde [Warpcast](https://warpcast.com/) ve [Supercast](https://www.supercast.xyz/) gibi popüler uygulamalar bulunan Farcaster, zincir olarak Optimism ağını kullanıyor.
 
@@ -92,7 +92,7 @@ Yukarıdaki üç protokol de Batı dünyasından çıkma oldukları için medya 
 
 ### …ve diğerleri {#ve-digerleri}
 
-Başta da belirttiğimiz gibi merkezi sosyal medya platformlarına rakip olarak ortaya çıkmış pek çok uygulama var. Twitter’in eski CEO’su Jack Dorsey tarafından kurulan [BlueSky](https://bsky.app/), bir ara fenomenlerin takipçileri üzerinden para kazandığı friend.tech ya da yine yaygın olarak kullanılan [Mastadon](https://mastodon.social/explore) [bu listedeki isimlerden](https://github.com/2gatherproject/decentralized-social-apps-guide) sadece birkaçı.
+Başta da belirttiğimiz gibi merkezi sosyal medya platformlarına rakip olarak ortaya çıkmış pek çok uygulama var. Twitter’ın eski CEO’su Jack Dorsey tarafından kurulan [BlueSky](https://bsky.app/), bir ara fenomenlerin takipçileri üzerinden para kazandığı friend.tech ya da yine yaygın olarak kullanılan [Mastodon](https://mastodon.social/explore) [bu listedeki isimlerden](https://github.com/2gatherproject/decentralized-social-apps-guide) sadece birkaçı.
 
 ## Merkeziyetsiz sosyal medyanın sorunları ve çözümler {#merkeziyetsiz-sosyal-medyanin-sorunlari-ve-cozumler}
 

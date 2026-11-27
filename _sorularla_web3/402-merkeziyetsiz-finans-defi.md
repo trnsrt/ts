@@ -32,7 +32,7 @@ Merkeziyetsiz finans yukarıda sıralanan hizmetleri sunan bir altyapı aslında
 
 Bu saydığımız hizmetler kullanıcılara bir deste halinde sunuluyor. Ne demek tam olarak bu? Hizmeti oluşturan her parçayı sunan birden fazla hizmet sağlayıcı var. Kullanıcı adeta bir lego yapar gibi, istediği parçayı istediği sağlayıcıdan alıp birleştirebiliyor. İstediği anda da parçalardan birini çıkarıp yerine bir başkasını takabiliyor. Bu, kullanıcıya hizmet sağlayıcı karşısında müthiş bir güç kazandırıyor.
 
-## Neden finans alanı öne çıktı? {#neden-finans-alani-one-cikti}
+## Web3’te neden finans alanı öne çıktı? {#neden-finans-alani-one-cikti}
 
 Web3 uygulamalarının finans alanında büyümesinin iki temel nedeni var. Birincisi, potansiyelin büyük olması. İkincisi ise bu potansiyelin değerlendirilebileceği uygun koşulların var olması. Gelin biraz daha açalım bu iki maddeyi:
 
@@ -104,7 +104,7 @@ Burada ufak bir parantez açalım: Kimi merkezi yapıların, yüksek miktarda ve
 
 Yönetim tokenlerini dağıtmak, likidite ve işlem hacmini DeFi’ye doğru çekse de, bunun sürdürülebilir bir strateji olmadığı açıktı. Zira, verilecek tokenlerin bir sınırı var. Önemli olan, insanların bu sistemleri sürekli olarak kullanmaları. Milyon dolarlık soru işte bu.
 
-## Daha da büyümesi için önünde hangi engeller var? {#daha-da-buyumesi-icin-onunde-hangi-engeller-var}
+## DeFi’nin daha da büyümesi için önünde hangi engeller var? {#daha-da-buyumesi-icin-onunde-hangi-engeller-var}
 
 DeFi’nin sürdürülebilir bir şekilde büyümesi için çok daha geniş kesimlerce kullanılması yani benimsenmesi gerekiyor. Peki bu nasıl olacak? Orada da iki temel sorunun çözülmesi gerektiğini düşünüyorum. Bunlar kullanım zorluğu ve kullanıcıların aldığı risklerin minimize edilmesi.
 
@@ -132,7 +132,7 @@ Merkeziyetsiz finansın temel özelliklerinden biri, kişiye dijital dünyadaki 
 
 DeFi’nin bu riskleri geniş kitlelere anlatabilmek için daha basit, daha kolay anlaşılır ürünler sunması ve (belki de ‘merkeziyetsizlik’ ruhuna aykırı olacak şekilde) kullanıcılara bu riskleri anlatıp onlara yol gösterecek aracılar kullanması gerekiyor.
 
-## Çare ne? {#care-ne}
+## DeFi için çare ne? {#care-ne}
 
 Yukarıdaki sorunların çözümü ve DeFi’nin geniş kitlelerce adaptasyonunu sağlamak için uzun vadede iki temel yol görünüyor.
 

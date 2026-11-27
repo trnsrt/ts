@@ -102,9 +102,30 @@ CORRECTIONS = [
     ('gösterilebiir', 'gösterilebilir'),
     ('göz atabilirsiniz..', 'göz atabilirsiniz.'),
     ('“yazar neler saçmalamış“', '“yazar neler saçmalamış”'),
+    # GEO batch B4 (owner-approved; 'oyun alanın', 'bir çok' and 'Lens protokolün' are narrowed so they cannot hit
+    # 'oyun alanında/alanına', 'bir çoklu' or 'protokolünü'; 'Tiktok' also occurs in 103: see CORRECTION_EXPECTED)
+    ('CDBC', 'CBDC'),
+    ('açıkcası', 'açıkçası'),
+    ('barındıyor', 'barındırıyor'),
+    ('bir kaç', 'birkaç'),
+    ('devretmesine da', 'devretmesine de'),
+    ('oyun alanın tamamen', 'oyun alanının tamamen'),
+    ('yetişmişti..', 'yetişmişti.'),
+    ('Web3 girişimlerin oynadıkça', 'Web3 girişimlerinin oynadıkça'),
+    ('Tiktok', 'TikTok'),
+    ('Mastadon', 'Mastodon'),
+    ('bir çok hesabın', 'birçok hesabın'),
+    ('bir çoğunda', 'birçoğunda'),
+    ('Twitter’in', 'Twitter’ın'),
+    ('Lens protokolün Open Actions', 'Lens protokolünün Open Actions'),
+    ('insiyatif', 'inisiyatif'),
+    ('ilgilli', 'ilgili'),
+    ('Howell Lovells', 'Hogan Lovells'),
 ]
 # expected number of matching paragraphs for TR corrections that legitimately occur more than once (default 1)
-CORRECTION_EXPECTED = {'Geoffery': 2, 'sarfediyorlar': 2}
+CORRECTION_EXPECTED = {'Geoffery': 2, 'sarfediyorlar': 2, 'Tiktok': 2}
+# the same for the English profile (default 1)
+EN_CORRECTION_EXPECTED = {}
 CORRECTION_COUNTS = {c[0]: 0 for c in CORRECTIONS}
 _COUNTED = set()
 _LINK_SEEN = set()
@@ -161,6 +182,11 @@ EN_CORRECTIONS = [
     # GEO batch B3 (owner-approved)
     ('until through mid-2025', 'through mid-2025'),
     ('security..', 'security.'),
+    # GEO batch B4 (owner-approved)
+    ('In 2023, In the first quarter of 2025 alone', 'In the first quarter of 2025 alone'),
+    ('%4.5 for USDS', '4.5% for USDS'),
+    ('Even though gained some traction', 'Even though it gained some traction'),
+    ('Word Economic Forum', 'World Economic Forum'),
 ]
 # Fixes of the finished page Markdown (each must match exactly once). The footnote mark is a token of its own, so a
 # fix that spans it (the source has a stray full stop after the mark) can only be made here, where it reads [^10].
@@ -403,6 +429,18 @@ BODY_HEADING_OVERRIDES = {
         ('601-kisa-vade-beklentiler.md', 'kullanici-dostu-uygulamalar-artacak'): 'Web3’te kullanıcı dostu uygulamalar artacak',
         ('601-kisa-vade-beklentiler.md', 'regulasyonlar'): 'Web3 için regülasyonlar?',
         ('601-kisa-vade-beklentiler.md', 'urun-pazar-uyumu'): 'Web3’te ürün-pazar uyumu',
+        # GEO batch B4: question/claim headings that lacked their subject
+        ('401-stabil-paralar.md', 'piyasanin-hakimi-kim'): 'Stabil para piyasasının hakimi kim?',
+        ('401-stabil-paralar.md', 'ya-merkeziyetsiz-alternatifler'): 'Ya merkeziyetsiz stabil para alternatifleri?',
+        ('402-merkeziyetsiz-finans-defi.md', 'neden-finans-alani-one-cikti'): 'Web3’te neden finans alanı öne çıktı?',
+        ('402-merkeziyetsiz-finans-defi.md', 'daha-da-buyumesi-icin-onunde-hangi-engeller-var'): 'DeFi’nin daha da büyümesi için önünde hangi engeller var?',
+        ('402-merkeziyetsiz-finans-defi.md', 'care-ne'): 'DeFi için çare ne?',
+        ('406-dijital-kimlik.md', 'blokzincir-deva-olur-mu-bu-derde'): 'Blokzincir deva olur mu bu dijital kimlik derdine?',
+        ('406-dijital-kimlik.md', 'pratikte-nasil-calisabilir'): 'Dijital kimlik pratikte nasıl çalışabilir?',
+        ('407-merkeziyetsiz-fiziksel-altyapilar-depin.md', 'blokzincir-ve-kripto-nerede-devreye-giriyor'): 'DePIN’de blokzincir ve kripto nerede devreye giriyor?',
+        ('407-merkeziyetsiz-fiziksel-altyapilar-depin.md', 'gelecekte-bu-alanda-bizi-neler-bekliyor'): 'Gelecekte DePIN alanında bizi neler bekliyor?',
+        ('408-onarici-finans-refi.md', 'blokzincir-nasil-yardimci-olabilir'): 'Blokzincir onarıcı finansa nasıl yardımcı olabilir?',
+        ('408-onarici-finans-refi.md', 'her-sey-gulluk-gulistanlik-mi'): 'ReFi’de her ‘şey’ güllük gülistanlık mı?',
     },
     'en': {
         ('103-web3.md', 'the-movement-begins'): 'The Web3 Movement Begins',
@@ -458,6 +496,16 @@ BODY_HEADING_OVERRIDES = {
         ('601-short-term-expectations.md', 'tackling-the-scaling-problem'): 'Tackling the Blockchain Scaling Problem',
         ('601-short-term-expectations.md', 'apps-designed-for-everyday-users'): 'Web3 Apps Designed for Everyday Users',
         ('601-short-term-expectations.md', 'finding-product-market-fit'): 'Finding Product-Market Fit for Web3 Apps',
+        # GEO batch B4
+        ('401-stablecoins.md', 'who-owns-the-market'): 'Who Owns the Stablecoin Market?',
+        ('401-stablecoins.md', 'what-about-decentralized-alternatives'): 'What About Decentralized Stablecoin Alternatives?',
+        ('402-decentralized-finance.md', 'why-finance-first'): 'Why Finance First in Web3?',
+        ('402-decentralized-finance.md', 'what-stands-in-the-way-of-growth'): 'What stands in the way of DeFi’s growth?',
+        ('402-decentralized-finance.md', 'the-path-to-adoption'): 'The Path to DeFi Adoption',
+        ('406-digital-identity.md', 'will-blockchain-be-the-cure'): 'Will blockchain be the cure for digital identity?',
+        ('406-digital-identity.md', 'how-it-works-in-practice'): 'How Digital Identity Works in Practice',
+        ('407-physical-infrastructure.md', 'where-does-crypto-come-in'): 'Where Does Crypto Come In for DePIN?',
+        ('408-regenerative-finance.md', 'how-blockchain-helps'): 'How Blockchain Helps ReFi',
     },
 }
 
@@ -471,6 +519,8 @@ LINK_TARGET_FIXES = {
         'https://www.google.com/search?q=https://www.warren.senate.gov/oversight/letters/senators-warren-marshall-kennedy-release-new-information-renew-push-for-answers-from-silvergate-bank-over-role-in-ftx-collapse%23:~:text=On%252520December%2525206%25252C%2525202022%25252C%252520Senators,of%252520dollars%252520in%252520customer%252520funds.': 'https://www.warren.senate.gov/newsroom/press-releases/senators-warren-marshall-kennedy-release-new-information-renew-push-for-answers-from-silvergate-bank-over-role-in-ftx-collapse/',
         # GEO batch B3: cross-references to the author's Google Docs drafts -> the book's own pages
         'https://docs.google.com/document/d/1-Rf-rlm3lRqtTnjk41B7xTP6oG-_n9Li2MxWoxrVKRw/edit?pli=1&tab=t.0#heading=h.4afnykvvbdxe': '/Web3_Unlocked/chapter-4/terra-implosion/',
+        # GEO batch B4: double-encoded Wikipedia link, on three pages (102, 406 and 407)
+        'https://en.wikipedia.org/wiki/Facebook%25E2%2580%2593Cambridge_Analytica_data_scandal': 'https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal',
     },
     'tr': {
         # GEO batch B3: cross-references to the author's Google Docs drafts -> the book's own pages
@@ -484,6 +534,8 @@ LINK_TARGET_FIXES = {
         'https://docs.google.com/document/d/1nXVnAHjWh1ZJgeiEXESsYBE0b4tzmDcoRVwBuP7a88U/edit?tab=t.0#heading=h.2qn41fbxvsqn': '/Sorularla_Web3/bolum-2/cuzdanlar/',
     },
 }
+# expected number of source paragraphs per link fix, default 1 (the Wikipedia link: 102, 406, 407)
+LINK_FIX_EXPECTED = {'https://en.wikipedia.org/wiki/Facebook%25E2%2580%2593Cambridge_Analytica_data_scandal': 3}
 
 
 def use_profile(name):
@@ -2228,13 +2280,13 @@ def main(argv):
             raise SystemExit('body heading override (%s, #%s) must apply exactly once; got %d' % (fname, hid, n))
     for old in LINK_TARGET_FIXES.get(P['name'], {}):
         n = PROFILE_USES.get(('link fix', old), 0)
-        if n != 1:
-            raise SystemExit('link target fix %r must apply exactly once; got %d' % (old, n))
+        if n != LINK_FIX_EXPECTED.get(old, 1):
+            raise SystemExit('link target fix %r must apply %d time(s); got %d' % (old, LINK_FIX_EXPECTED.get(old, 1), n))
     if P['name'] == 'en':
         for txt in EN_DROP_PARAGRAPHS:
             if PROFILE_USES.get(('drop paragraph', txt), 0) != 1:
                 raise SystemExit('drop paragraph %r must match exactly once; got %d' % (txt, PROFILE_USES.get(('drop paragraph', txt), 0)))
-    bad = {k: v for k, v in CORRECTION_COUNTS.items() if v != (CORRECTION_EXPECTED.get(k, 1) if P['name'] == 'tr' else 1)}
+    bad = {k: v for k, v in CORRECTION_COUNTS.items() if v != (CORRECTION_EXPECTED if P['name'] == 'tr' else EN_CORRECTION_EXPECTED).get(k, 1)}
     if bad:
         raise SystemExit('corrections must match exactly once; got %r' % bad)
     sweep(out_dir, files)

@@ -37,7 +37,7 @@ Henüz emekleme aşamasında olsa da, ortaya çıkan örneklerden şu an için b
 - **Dikey reklam ağları**: Verinin sahipliğini ve kontrolünü kullanıcıya veren DePIN reklam ağları, müşteri verisi ile ayakta kalan klasik ağlara rakip olmayı hedefliyor. Kullanıcılardan mobil telefonlar aracılığıyla aldıkları verileri (örneğin: sağlıklı yaşam için adım sayıları, araba kullanım bilgisi ya da sahip oldukları evcil hayvanlar ile bilgileri) anonim hale getiriyorlar. Sonrasında kullanıcının ihtiyaçlarına uygun reklamları viral kampanyalar aracılığıyla yine onlara sunuyorlar.
 - **Enerji hizmetleri**: Şimdiye kadar saydığımız alanlar içinde DePIN’in tekelleşme ve kanuni regülasyonlar nedeniyle belki en zorlandığı alan enerji. Bu alanda yeşil enerji üretimini finanse etmekten sanal güç üreticilerine kadar geniş bir kesimde çalışan girişimler için önlerindeki yol oldukça uzun görünüyor.
 
-## Blokzincir ve kripto nerede devreye giriyor? {#blokzincir-ve-kripto-nerede-devreye-giriyor}
+## DePIN’de blokzincir ve kripto nerede devreye giriyor? {#blokzincir-ve-kripto-nerede-devreye-giriyor}
 
 Blokzincir ve kripto dünyasının parası olan tokenler merkeziyetsiz yapıları nedeniyle DePIN dünyasının vazgeçilmez parçaları olarak görünüyor. Yukarıdaki saydığımız tüm girişimlerin token kullanmasının temel birkaç sebebi var. Bunların başında, elbette tokenlerin verilen hizmetin ödemesinde kullanılması geliyor. Blokzincir, pek çok farklı piyasa katılımcısı arasında mutabakat sağlayacak global bir ortak defter fonksiyonunu üstleniyor. Daha da önemlisi, ciddi sermaye gerektiren bu hizmetlerin finansmanı tokenler sayesinde topluluk tarafından kitle fonlaması yoluyla sağlanıyor.
 
@@ -51,7 +51,7 @@ Token sistemi özellikle kullanıcı/yatırımcıların katlandıkları ilk yat�
 
 Altyapı projelerinin finansman ihtiyacı sadece ilk yatırım ile sınırlı değil. Sonrasında verilen hizmeti belirli bir kalitede tutabilmek de ciddi bir maliyet. Merkezi dünyadaki çözümler büyük fonlardan temin ettikleri finansman sayesinde gerekli altyapı yatırımını en baştan yaptılar. Bu yapılar elde ettikleri gelirleri kullanarak yaptıkları ekstra yatırımlar ile verdikleri hizmetin kalitesini üst düzeye çektiler. Merkeziyetsiz projeler ilk yatırımı bile kullanıcılardan alıyor ve sonraki dönemde yeterli kullanıma ulaşamadıkları için gelir elde etmekte zorlanıyorlar. Bu nedenle verdikleri hizmetin kalitesini artırmaya ayıracak ekstra paraları olmuyor. Verilen hizmetin kalitesi düşük olunca yeni kullanıcı gelmesi de zorlaşıyor. Bu da, bu projelerin gelişmesi sürecini daha da yavaşlatıyor.
 
-## Gelecekte bu alanda bizi neler bekliyor? {#gelecekte-bu-alanda-bizi-neler-bekliyor}
+## Gelecekte DePIN alanında bizi neler bekliyor? {#gelecekte-bu-alanda-bizi-neler-bekliyor}
 
 DePIN benzeri fiziki altyapıyı içeren alanların gelişmesi için onlarca yıla ihtiyaç var. Öncelikle, bu alana olan ihtiyacın daha netleşmesi ve elle tutulur hale gelmesi gerekiyor. Sonrasında, şu ana kadar yapılan girişimlerin tecrübelerinden yararlanılarak doğru modellerin oluşturulması şart.
 
