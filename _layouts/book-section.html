@@ -35,6 +35,20 @@ layout: default
     <h1>{{ page.heading | default: page.title | escape }}</h1>
   </header>
 
+  {%- assign xl = nil -%}
+  {%- for t in site.data.book_translations -%}
+    {%- if t.tr == page.url -%}{%- assign xl_url = t.en -%}{%- assign xl_label = "İngilizce baskı" -%}{%- assign xl = true -%}
+    {%- elsif t.en == page.url -%}{%- assign xl_url = t.tr -%}{%- assign xl_label = "Turkish edition" -%}{%- assign xl = true -%}{%- endif -%}
+  {%- endfor -%}
+  {%- if xl -%}
+  {%- assign xl_collection = "web3_unlocked" -%}
+  {%- if page.collection == "web3_unlocked" -%}{%- assign xl_collection = "sorularla_web3" -%}{%- endif -%}
+  {%- assign xl_doc = site[xl_collection] | where: "url", xl_url | first -%}
+  {%- if xl_doc %}
+  <p class="book-translation">{{ xl_label }}: <a href="{{ xl_url | relative_url }}"{% if xl_collection == "web3_unlocked" %} lang="en"{% else %} lang="tr"{% endif %}>{{ xl_doc.heading | default: xl_doc.title }}</a></p>
+  {%- endif -%}
+  {%- endif %}
+
   <div class="post-content book-content">
     {{ content }}
   </div>

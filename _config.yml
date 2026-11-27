@@ -113,5 +113,6 @@ exclude:
   - "DECISIONS-*.md"
   - "REVIEW-*.md"
   - "*.docx"
+  - "HANDOFF-*.md"
   - subscription-form.md
   - subscription-thank-you.md

@@ -15,14 +15,16 @@ book:
   pdf: /assets/books/Web3_Unlocked.pdf
   reader: /Web3_Unlocked/read/
   translation_of: { name: "Sorularla Web3", url: /Sorularla_Web3/ }
-description: "Web3 Unlocked by Turan Sert: a question-and-answer guide to Web3, the English edition of Sorularla Web3. Free to read online, with every link cited in the book."
+  alternate_name: "Web3 Unlocked: A friendly guide to the next era of the internet"
+  same_as: ["https://play.google.com/store/books/details?id=ZA7KEQAAQBAJ"]
+description: "Web3 Unlocked by Turan Sert: a friendly question-and-answer guide to Web3, the English edition of Sorularla Web3. Free to read online, chapter by chapter."
 ---
 
 <a href="/Web3_Unlocked/read/"><img src="/assets/web3_front_cover.jpg" alt="Web3 Unlocked cover" width="220" style="display:block; margin: 0 auto 1.5rem auto;"></a>
 
 ## About the book
 
-*Web3 Unlocked* by Turan Sert is a guide to Web3 written as questions and answers. It is the English translation of his Turkish book [*Sorularla Web3*](/Sorularla_Web3/). It maps the foundations, technologies, communities and applications of Web3, covering:
+*Web3 Unlocked: A friendly guide to the next era of the internet* by Turan Sert is a guide to Web3 written as questions and answers. It is the English translation of his Turkish book [*Sorularla Web3*](/Sorularla_Web3/). It maps the foundations, technologies, communities and applications of Web3, covering:
 
 - The foundations of the web: Web 1.0, Web 2.0 and Web3
 - Key pillars of the Web3 economy: Ethereum, Bitcoin and Solana, Layer 2 solutions, bridges, wallets and intents
