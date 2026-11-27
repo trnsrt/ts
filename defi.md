@@ -62,8 +62,8 @@ Blockchain'in finans alanındaki uygulamalarına DeFi (decentralized finance - m
   - Ethereum ekonomisi; aktörler, gelirler ve değer döngüsü. [Ethereum ekonomisi nasıl çalışıyor?](/genel/2023/11/30/ethereum-ekonomisi-nasil-calisiyor.html) *(30 Kasım 2023)*
   - ETH yakma-basma mekanizması ve 'ultrasound money' söylemi. [Ethereum'un ultrasound parası ether](/genel/2023/12/16/ethereumun-ultrasound-parasi-ether.html) *(16 Aralık 2023)*
   - 2023'te Bitcoin ve Solana öne, Ethereum neden geride? [Bitcoin, Solana ve Ethereum](/genel/2024/01/16/bitcoin-sol-ve-eth.html) *(16 Ocak 2024)*
-  - Monoblok ve modüler blokzincir mimarilerinin karşılaştırması (1. bölüm). [Modüler ve monoblok zinciler - 1](/genel/2024/03/06/moduler-vs-monoblok-1.html) *(6 Mart 2024)*
-  - Ethereum L2 rollupları ve monoblok alternatiflere karşı avantajları (2. bölüm). [Modüler ve monoblok zinciler - II: İkinci seviye çözümler](/genel/2024/03/20/moduler-vs-monoblok-II.html) *(20 Mart 2024)*
+  - Monoblok ve modüler blokzincir mimarilerinin karşılaştırması (1. bölüm). [Modüler ve monoblok zincirler - 1](/genel/2024/03/06/moduler-vs-monoblok-1.html) *(6 Mart 2024)*
+  - Ethereum L2 rollupları ve monoblok alternatiflere karşı avantajları (2. bölüm). [Modüler ve monoblok zincirler - II: İkinci seviye çözümler](/genel/2024/03/20/moduler-vs-monoblok-II.html) *(20 Mart 2024)*
   - Bitcoin'in dördüncü yarılanması ve Runes token standardı. [Bitcoin yarılandı, sırada ne var? Runes Protocol](/genel/2024/04/22/bitcoin-yarilandi-sirada-ne-var-runes.html) *(22 Nisan 2024)*
   - ETH teminatlı delta-nötr stabil para Ethena ve USDe. [Stabil paralar içinde yeni bir oyuncu (mu?): Ethena](/genel/2024/05/21/stabil-paralar-icinde-yeni-bir-oyuncu-ethena.html) *(21 Mayıs 2024)*
   - Ethena'nın yüksek getirilerinin ardındaki riskler ve güvenceler. [Ethena: Riskleri ve potansiyeli](/genel/2024/05/30/ethena-riskleri-ve-potansiyeli.html) *(30 Mayıs 2024)*

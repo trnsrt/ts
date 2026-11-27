@@ -113,6 +113,7 @@ CORRECTIONS = [
     ('yetişmişti..', 'yetişmişti.'),
     ('Web3 girişimlerin oynadıkça', 'Web3 girişimlerinin oynadıkça'),
     ('Tiktok', 'TikTok'),
+    ('zincilerde', 'zincirlerde'),   # 209 'bu zincilerde yok' (owner-approved typo, 2026-11-27)
     ('Mastadon', 'Mastodon'),
     ('bir çok hesabın', 'birçok hesabın'),
     ('bir çoğunda', 'birçoğunda'),

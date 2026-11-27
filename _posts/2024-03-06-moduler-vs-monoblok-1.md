@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Modüler ve monoblok zinciler - 1"
+title:  "Modüler ve monoblok zincirler - 1"
 date:   2024-03-06 18:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi

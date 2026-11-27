@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Modüler ve monoblok zinciler - II: İkinci seviye çözümler"
+title:  "Modüler ve monoblok zincirler - II: İkinci seviye çözümler"
 date:   2024-03-20 18:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
