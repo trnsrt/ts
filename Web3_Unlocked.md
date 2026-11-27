@@ -9,7 +9,7 @@ book:
   name: "Web3 Unlocked"
   lang: en
   isbn: "978-625-5544-29-2"
-  date: "2026-02"
+  date: "2026-02-15"
   publishers: ["Scala Publishing"]
   image: /assets/web3_front_cover.jpg
   pdf: /assets/books/Web3_Unlocked.pdf

@@ -8,7 +8,7 @@ book:
   name: "Sorularla DeFi - Merkeziyetsiz Finans"
   lang: tr
   isbn: "978-605-73998-6-1"
-  date: "2022"
+  date: "2022-01-18"
   publishers: ["Tefrika Yayıncılık"]
   image: /assets/Sorularla_DeFi_kapak_v2.jpg
   pdf: /assets/books/Sorularla_DeFi.pdf

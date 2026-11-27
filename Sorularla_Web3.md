@@ -8,7 +8,7 @@ book:
   name: "Sorularla Web3"
   lang: tr
   isbn: "978-625-8177-71-8"
-  date: "2025"
+  date: "2025-01-15"
   publishers: ["Scala Yayıncılık"]
   image: /assets/Sorularla_Web3_kapak_x.jpg
   pdf: /assets/books/Sorularla_Web3.pdf
