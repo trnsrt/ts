@@ -12,7 +12,7 @@ description: "Yeni nesil teknolojilerin gelişmesi için her kesim çaba göster
 
 *Yeni nesil teknolojilerin gelişmesi için her kesim çaba gösteriyor. Bunlardan biri de bu alana yatırım yapmış kurumsal yatırımcılar. Özellikle girişim sermayeleri iş yapış biçimlerini değiştiriyorlar. Gelin bir göz atalım neler yaptıklarına:*
 
-Yeni teknolojilerin geniş kesimlerce adapte edilebilmesi için pek çok girişim var. Bunlardan [Lightning](/Sorularla_Blockchain/bolum-5/lightning-network/), [Liquid](/Sorularla_Blockchain/bolum-5/liquid-network/) ve [Bakkt](/Sorularla_Blockchain/bolum-5/bakkt/)‘a geçmiş bölümlerde değinmiştik. Şimdi bu trendlerden gelecekte daha da önem kazanacak olan bir tanesine, kurumsal yatırımcıların kafa yorduğu Generalized Mining (ya da Mining 2.0) kavramına bakalım birlikte.
+Yeni teknolojilerin geniş kesimlerce adapte edilebilmesi için pek çok girişim var. Bunlardan [Lightning](/Sorularla_Blockchain/bolum-5/lightning-network/), [Liquid](/Sorularla_Blockchain/bolum-5/liquid-network/) ve [Bakkt](/Sorularla_Blockchain/bolum-5/bakkt/)’a geçmiş bölümlerde değinmiştik. Şimdi bu trendlerden gelecekte daha da önem kazanacak olan bir tanesine, kurumsal yatırımcıların kafa yorduğu Generalized Mining (ya da Mining 2.0) kavramına bakalım birlikte.
 
 ## Yatırımcılık değişiyor, neden? {#yatirimcilik-degisiyor-neden}
 
@@ -21,8 +21,6 @@ Hatırlarsanız geçmiş bir [bölümde](/Sorularla_Blockchain/bolum-2/degisen-g
 Kısaca özetlersek, değişen teknolojiler ile birlikte bir şirketin yarattığı katma değer artık sadece şirket kurucuları ve yatırımcıları tarafından değil diğer başka aktörler tarafından da paylaşılıyor.
 
 Bunun temel nedeni ise ‘artık yeni teknolojiler ile bir şirket değil bir ekosistem (bir ağ) yaratılıyor’. Ve yeni teknolojilerin geçmişe göre devrim niteliği taşıyan ana özelliği, yarattıkları ekosistemdeki tüm oyuncuların oyuna devam etmesini sağlamak için kurdukları teşvik mekanizmaları.
-
-*‘artık yeni teknolojiler ile bir şirket değil bir ekosistem (bir ağ) yaratılıyor’. Ve yeni teknolojilerin geçmişe göre devrim niteliği taşıyan ana özelliği, yarattıkları ekosistemdeki tüm oyuncuların oyuna devam etmesini sağlamak için kurdukları teşvik mekanizmaları.*
 
 Peki kim bu diğer oyuncular? Madenciler ve son kullanıcılar.
 

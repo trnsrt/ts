@@ -30,11 +30,11 @@ DeFi kullanıcıları, genelde merkezi borsalara gitmiyorlar. Neden? Merkezi bor
 
 Kullanıcı bunun yerine merkeziyetsiz borsaları tercih edebiliyor. Zira, böyle bir borsayı kullanmak için yapması gereken tek hareket, ilgili siteye gitmek ve kendi elektronik cüzdanını bağlamak. Bu kadar basit.
 
-Bu olayın güzel tarafı, ancak bunun da bir takım sorunları var. Neler mesela? En önemli konu tabii ki işlem fiyatı. Her bir borsada arz ve talebin farklı olması nedeniyle fiyatlar farklılık gösterebiliyor. Öte yandan borsada bulunan likidite de önemli. Zira likit olmayan bir token alımında, fiyatın ufak bir alım ya da satım hareketinde ciddi bir hareket göstermesi mümkün.
+Bu olayın güzel tarafı, ancak bunun da birtakım sorunları var. Neler mesela? En önemli konu tabii ki işlem fiyatı. Her bir borsada arz ve talebin farklı olması nedeniyle fiyatlar farklılık gösterebiliyor. Öte yandan borsada bulunan likidite de önemli. Zira likit olmayan bir token alımında, fiyatın ufak bir alım ya da satım hareketinde ciddi bir hareket göstermesi mümkün.
 
 Bir başka konu ise kullanıcının alım yapmak istediği sırada, başka alıcıların da işlem yapması sonucu fiyatın bir anda değişebilmesi. Burada kullanıcı ne kadarlık bir fiyat değişimine (ki buna İngilizcede ‘slippage’ deniyor) izin vereceğini (genelde %1-2 gibi) seçebiliyor.
 
-Son olarak, kullanıcının işlem yaparken, işlemi ne kadar hızlı gerçekleştirmek istediği. Eğer çok hızlı bir şekilde işleminin gerçekleştirmek istiyorsa, o zaman blokzincir sırasında öne geçebilir; ancak bunun ciddi bir maliyeti var. Alternatif olarak “benim işim acil ya da kritik değil” diye düşünerek daha düşük bir madenci işlem ücreti seçebilir. Böyle bir durumda, hem gecikmeye razı olmalı hem de o işlem blokzincire yazılana kadar araya giren başkaları olabileceği için fiyatın değişme riskini göze almalı.
+Son olarak, kullanıcının işlem yaparken, işlemi ne kadar hızlı gerçekleştirmek istediği. Eğer çok hızlı bir şekilde işlemini gerçekleştirmek istiyorsa, o zaman blokzincir sırasında öne geçebilir; ancak bunun ciddi bir maliyeti var. Alternatif olarak “benim işim acil ya da kritik değil” diye düşünerek daha düşük bir madenci işlem ücreti seçebilir. Böyle bir durumda, hem gecikmeye razı olmalı hem de o işlem blokzincire yazılana kadar araya giren başkaları olabileceği için fiyatın değişme riskini göze almalı.
 
 ### Kullanıcı, hangi borsayı kullanacağını nasıl seçecek? Burada işin içine 'toplayıcılar' giriyor {#kullanici-hangi-borsayi-kullanacagini-nasil-sececek-burada-isin-icine}
 
@@ -58,9 +58,9 @@ Bunun yerine, toplayıcıya parasını kullanma konusunda izin verdiğinde, sonr
 
 2020 yılının Mayıs ayında başlayan DeFi piyasasındaki canlanmanın, gecikmeli olarak toplayıcılara da ulaştığını söylemek yanlış olmaz. Bunun birkaç nedeni var. Öncelikle, piyasalarda böyle bir ihtiyaç olduğu geç anlaşıldı. Öte yandan, bu piyasanın lideri olan 1inch, 2020 Aralık ve 2021 Şubat aylarında yaptığı iki “airdrop” ile geniş kitlelerin uygulamayı kullanmasını sağladı (‘airdrop’, kullanıcılara platformu kullanmaları için verilen teşviklere deniyor).
 
-1inch bunun yanında, 2020 Mart ayı içinde Ethereum blokzinciri yanında daha önce de bahsettiğimiz rakip [Binance Smart Chain](https://www.binance.org/en/smartChain) için de toplayıcılık hizmeti vermeye başladı. Bu da kullanım alanını genişletmek konusunda 1inch’e ekstra avantaj veriyor.
+1inch bunun yanında, 2021 Mart ayı içinde Ethereum blokzinciri yanında daha önce de bahsettiğimiz rakip [Binance Smart Chain](https://www.binance.org/en/smartChain) için de toplayıcılık hizmeti vermeye başladı. Bu da kullanım alanını genişletmek konusunda 1inch’e ekstra avantaj veriyor.
 
-Piyasanın daha küçük oyuncularından Matcha ise temiz ve kullanışlı arayüzü ile 1inch’den farklılaşmaya çalışıyor.
+Piyasanın daha küçük oyuncularından Matcha ise temiz ve kullanışlı arayüzü ile 1inch’ten farklılaşmaya çalışıyor.
 
 Normalde merkeziyetsiz borsalar, örneğin Uniswap, havuz sistemiyle çalıştığı için limitli emir kullanımına uygun değil. “Limitli emir nedir?” diye sorarsanız: İşlem yapmak istediğiniz fiyatı belirliyorsunuz, sistem de işleminizi tokenin fiyatı sizin belirlediğiniz değere geldiği zaman gerçekleştiriyor. Hem 1inch hem de Matcha, piyasa emirleri dışında limitli emir verebilme imkânı da sunuyorlar. Burada kullanıcıların, limitli emir verirken ödedikleri ücretlere dikkat etmesi ve işlemlerin gerçekleşmeme ya da çok geç gerçekleşme ihtimali olduğunu aklından çıkarmaması gerekiyor.
 

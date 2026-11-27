@@ -48,7 +48,7 @@ DeFi dünyasına girmek isteyen genç bir geliştirici iseniz ya da bu dünyaya 
 
 Birkaç yöntemi var:
 
-### Websitesini inceleyin {#websitesini-inceleyin}
+### Web sitesini inceleyin {#websitesini-inceleyin}
 
 İşe, platformun web sitesine bakmak ile başlayabilirsiniz, ancak bu sadece bir ilk adım ve muhtemelen size çok fazla ipucu vermeyecek. Gerek konunun çok teknik olması, gerekse ürünleri yaratanların pazarlama değil yazılım odaklı olmaları nedeniyle ürünü çok fazla anlama şansınız yok.
 
@@ -74,6 +74,6 @@ Girişimlerin, özellikle başlangıç aşamasında merkeziyetsiz olması gerekm
 
 Likidite DeFi alanındaki bir platform için can suyu demek. Neden? Çünkü, bu platformlar merkezi yapılarda olduğu gibi büyük bir kapitale sahip değiller. Daha önce de sık sık bahsettiğimiz, yumurta-tavuk sarmalı gibi, kullanıcı olmayınca likidite sağlanamıyor, likidite olmayınca yeni kullanıcı gelmiyor.
 
-İşte 2020 yılının bahar aylarında Compound ile başlayan yönetim tokenini topluluğu dağıtma politikası ile hem aktif kullanıcı sayısı artırılarak likidite sağlandı, hem de bu kullanıcılar yönetimine katıldıkları DeFi platformuna daha gönülden bağlanarak verilen hizmetleri daha geniş kitlelere yaydılar.
+İşte 2020 yılının yaz aylarında Compound ile başlayan yönetim tokenini topluluğa dağıtma politikası ile hem aktif kullanıcı sayısı artırılarak likidite sağlandı, hem de bu kullanıcılar yönetimine katıldıkları DeFi platformuna daha gönülden bağlanarak verilen hizmetleri daha geniş kitlelere yaydılar.
 
 DeFi platformlarının kendi iletişim kanallarında yönetim ile ilgili neler konuşuluyor, ne tip öneriler yapılıyor, hangi kararlar alınıyor, hangileri reddediliyor?. Bütün bu sorulara yanıt alabilirsiniz. Bu topluluğu ve oluşturdukları kültürü anlamak açısından size oldukça iyi bir fikir verebilir.

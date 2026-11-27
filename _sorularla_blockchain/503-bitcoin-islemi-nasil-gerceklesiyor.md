@@ -24,7 +24,7 @@ Kulağa ilginç gelen hoş söylemler. Peki ama nasıl bir şeydir bu para trans
 
 ## Bir Bitcoin işlemi nasıl bir ‘şey’? {#bir-bitcoin-islemi-nasil-bir-sey}
 
-Bitcoin işlemi özünde herhangi bir miktarda paranın (bu sistemde bu para BTC olarak geçiyor) sahipliğinin bir kişiden diğerine transfer edilmesi demek. Aşağıda bir Bitcoin işlemi görüyorsunuz — dedik ya, bütün işlemler herkese açık diye, bu işlem de öyle. 28 Kasım tarihinde yapılmış herhangi bir işlem linkine istediğiniz zaman ulaşabilirsiniz[^1]).
+Bitcoin işlemi özünde herhangi bir miktarda paranın (bu sistemde bu para BTC olarak geçiyor) sahipliğinin bir kişiden diğerine transfer edilmesi demek. Aşağıda bir Bitcoin işlemi görüyorsunuz — dedik ya, bütün işlemler herkese açık diye, bu işlem de öyle. 28 Kasım tarihinde yapılmış herhangi bir işlem linkine istediğiniz zaman ulaşabilirsiniz[^1].
 
 <figure markdown="1">
 <a href="/assets/books/sorularla-blockchain/503-1.png"><img src="/assets/books/sorularla-blockchain/503-1.png" alt="28 Kasım 2018 tarihli gerçek bir işlem (Kaynak: Blockchain.info)" width="640" height="302" loading="lazy"></a>
@@ -41,7 +41,7 @@ Alıcının adresi: Gönderdiğiniz parayı alanın adresi. Yukarıda pembe renk
 
 Göndericinin adresi: Aldığınız Bitcoin bir adrese gelir ama siz onu birisine göndermek isterseniz bunun için cüzdanınızı kullanırsınız. Paranın size geldiği adres size ait bir posta kutusu iken, cüzdan size ait bir Özel Anahtar ile açabildiğiniz ve bu sayede bu parayı sadece sizin harcamanıza olanak veren bir oda. Neden bir cüzdan da adres değil? Az sonra örnekte göreceksiniz.
 
-Kullanılan para (Total input): Bu işlemde alıcının cüzdanından gönderilen toplam para miktarı — yeşil renk ile gösterilen yer.
+Kullanılan para (Total input): Bu işlemde göndericinin cüzdanından gönderilen toplam para miktarı — yeşil renk ile gösterilen yer.
 
 Çıkan (yaratılan) para (Total output): Alıcılara gönderilen toplam para. Hemen yukarıda bahsettiğimiz kullanılan paradan bir miktar daha az, çünkü işlemi gerçekleştiren makinelere ödenen bir komisyon var (Total input’un hemen alt satırında sarı renk ile taranan alanda görüyorsunuz)
 
@@ -60,7 +60,7 @@ Bitcoin’in karışmaması, herhangi bir şekilde rahat takip edilebilmesi içi
 
 Sistem şöyle çalışır: Ali’den gelmiş 0,5 BTC alınır. Sonrasında bu paranın 0,3 BTC’si Barış’a gönderilir, kalan 0,2 BTC benim adıma yaratılan yeni bir Bitcoin adresine gönderilir (ve benim cüzdanıma geri döner). Yani bir nevi elimde 0,5 BTC bütün banknot var, Barış’a 0,3 BTC verdim, kalan 0,2 BTC de “paranın üstü” olarak bana geri döndü.
 
-Bu ortaya çıkan iki paraya (0,3 BTC ve 0,2 BTC) UTXO Unspent Transaction Amount denir. Yani benim cüzdanımda duran 0,5 BTC yok edildi, yerine bende ve Barış’ta iki parça halinde 0,5 BTC (eksi komisyon) yaratıldı. İşte bu yüzden yukarıdaki ilk orijinal örnekte de paranın gittiği iki adres görüyorsunuz pembe renkte. Üstteki pembe renkli olan alıcının, alttaki ise gönderici için yaratılan yeni adres. Artık cüzdanımda Ayşe’den gelen 0,4 BTC ve Barış’a gönderdiğim paradan geri dönen 0,2 BTC toplam 0,6 BTC var (yine ayrı ayrı duruyorlar).
+Bu ortaya çıkan iki paraya (0,3 BTC ve 0,2 BTC) UTXO Unspent Transaction Output denir. Yani benim cüzdanımda duran 0,5 BTC yok edildi, yerine bende ve Barış’ta iki parça halinde 0,5 BTC (eksi komisyon) yaratıldı. İşte bu yüzden yukarıdaki ilk orijinal örnekte de paranın gittiği iki adres görüyorsunuz pembe renkte. Üstteki pembe renkli olan alıcının, alttaki ise gönderici için yaratılan yeni adres. Artık cüzdanımda Ayşe’den gelen 0,4 BTC ve Barış’a gönderdiğim paradan geri dönen 0,2 BTC toplam 0,6 BTC var (yine ayrı ayrı duruyorlar).
 
 İşte bu nedenle para bir adrese geliyor ama çıkarken cüzdandan çıkıyor. Çünkü gönderilen paranın üstünün geri alınması cüzdana (onun için yaratılan yeni adrese) yapılıyor. Gönderilen adres yok oluyor. Aynı şekilde kimi zaman, gönderilecek para eldeki tek bir adresten değil, birkaç adresten gönderilmek zorunda kalıyoruz. Yukarıdaki durumda 0,7 BTC göndermek zorunda olsaydım hem Ali’den gelen parayı hem de Ayşe’den gelen parayı kullanacaktım. O nedenle de para cüzdandan çıkıyor.
 

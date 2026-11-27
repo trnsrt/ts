@@ -24,7 +24,7 @@ Başlangıç noktamız ne olsun? Bitcoin? Hayır, o sonra. Blockchain? Belki. Am
 
 ## “Web”in kısa tarihine göz atalım mı? {#web-in-kisa-tarihine-goz-atalim-mi}
 
-*“1989 yılında insanlara daha iyi bir hayat için neye ihtiyacınız var diye sorsalar, herhalde hiç kimse ‘birbirine üst metin ile bağlı âdem-i merkeziyetçi bir ağ içinde yer alan bilgi noktaları’ \[yani “Web”\] demezdi” [Sep Kamvar](http://farmerandfarmer.org/mastery/builder.html)*[^1]
+*“1989 yılında insanlara daha iyi bir hayat için neye ihtiyacınız var diye sorsalar, herhalde hiç kimse ‘birbirine üst metin ile bağlı adem-i merkeziyetçi bir ağ içinde yer alan bilgi noktaları’ \[yani “Web”\] demezdi” [Sep Kamvar](http://farmerandfarmer.org/mastery/builder.html)*[^1]
 
 Web aslında iki katmandan oluşuyor. Birinci katman akademisyenler ve uluslararası standartları oluşturan kurumlar tarafından 1970’lerde oluşturulan açık protokoller — örneğin dosya yollamak, epostalar, ya da GPS -uydu ile coğrafi konum belirleme — sistemi. Bir nevi Web’in altyapısı diyebileceğimiz bu sistemlerin ortak özelliği herkesin erişimine açık ve ücretsiz olmaları — ki bu nedenle buna Web 1.0 diyenler de var.
 
@@ -34,7 +34,7 @@ Ancak tabii burada ufak bir sorun var. O da bu platformların Web 1.0’da bize 
 
 ## Yeni bir dalga varmış Web 3.0 diye? {#yeni-bir-dalga-varmis-web-3-0-diye}
 
-İşte konu burada merkezi / âdem-i merkezi (centralized/decentralized) ayrımına geliyor. Bireyler olarak biz sahip olduklarımızı kendimizde tutacak yapılara mı yöneleceğiz (Web 1.0’da olduğu gibi), yoksa bu sahipliği Web 2.0’da yaşandığı gibi başka merkezi yapılara mı devredeceğiz?
+İşte konu burada merkezi / adem-i merkezi (centralized/decentralized) ayrımına geliyor. Bireyler olarak biz sahip olduklarımızı kendimizde tutacak yapılara mı yöneleceğiz (Web 1.0’da olduğu gibi), yoksa bu sahipliği Web 2.0’da yaşandığı gibi başka merkezi yapılara mı devredeceğiz?
 
 Son zamanlarda ortaya çıkan bütün bu yeni kavramların (Blockchain, Bitcoin, Ethereum, Kripto, Dapps, Tokens — ki bunlara Web 3.0 da denebilir) temelinde de işte bu Web 2.0’a özgü monopollerin elinde konsolide olmuş olan bu sahipliği, yeniden bireylere geri verme isteği var.
 

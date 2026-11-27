@@ -30,7 +30,7 @@ Normalde DeFi alanında bir girişim olarak böyle bir bilgiye ihtiyaç duyuyors
 
 ### Bir örnek mi versek? {#bir-ornek-mi-versek}
 
-Burada basit bir örnek vermek konuyu somutlaştırmak açısından iyi olabilir. En bilinen örnek olan Uniswap’tan başlayalım: (Yine bir hatırlatma: [Uniswap](https://uniswap.org/), merkeziyetsiz finans dünyasının en büyük takas borsası. Ne olduğu ve nasıl çalıştığı ile ilgili 'Uniswap ve DeFi'nin merkeziyetsiz borsaları' bölümüne göz atabilirsiniz).
+Burada basit bir örnek vermek konuyu somutlaştırmak açısından iyi olabilir. En bilinen örnek olan Uniswap’tan başlayalım: (Yine bir hatırlatma: [Uniswap](https://uniswap.org/), merkeziyetsiz finans dünyasının en büyük takas borsası. Ne olduğu ve nasıl çalıştığı ile ilgili 'Uniswap ve DeFi’nin merkeziyetsiz borsaları' bölümüne göz atabilirsiniz).
 
 Uniswap üzerinde 2020 yılının Şubat ayı içinde toplam [4.2 milyon adet alım-satım işlemi](https://duneanalytics.com/danrobinson/uniswap-combined-metrics) gerçekleşmiş. Bu, Ethereum zinciri üzerine yazılmış bu kadar sayıda işlem demek. Bütün bunlar, Uniswap içindeki [167 adet farklı havuz](https://info.uniswap.org/pairs) içinde olmuş. Her bir havuzdaki işlemleri, hacimleri ve havuzların dinamiklerini düşünürseniz, işleyip analiz edebileceğiniz milyonlarca bilgi var. İşte bu işlemlerin ve havuzların durumunu anlık ya da belli tarih aralıkları içinde dönemsel olarak almak isterseniz, The Graph sistemini kullanabilirsiniz.
 
@@ -52,7 +52,7 @@ Ortaya çıkarılan endeks ya da analizlerin, ihtiyaç sahiplerine düzgün bir 
 
 Bunun yanında, başlangıçta endeksçilerin hatalı bilgi vermesi gibi konularda karar verici olan ekip olsa da bu daha sonra protokolün yönetimine bırakılacak.
 
-### Rakipleri var mı? Gelecek nasıl görünüyor? {#rakipleri-var-mi-gelecek-nasil-gorunuyor}
+### The Graph’in rakipleri var mı? Gelecek nasıl görünüyor? {#rakipleri-var-mi-gelecek-nasil-gorunuyor}
 
 The Graph şu ana kadar endeksleme ve arama/sorgulama alanındaki bilinen en merkeziyetsiz model. Rakipleri merkezi yapılar: DeFi alanında bilinen en ünlü merkezi servisler [Dune Analytics](https://duneanalytics.com/home), [Glassnode](https://glassnode.com/) ve [Nansen](https://nansen.ai/). Bunun yanında [Google BigQuery](https://cloud.google.com/bigquery) gibi genel arama hizmetleri de mevcut.
 
@@ -60,11 +60,11 @@ Bütün merkezi servislerde yukarıda bahsettiğimiz güvenilirlik sıkıntısı
 
 Bakalım bu alanda da her alanda olduğu gibi, merkezi platformların hızlı ve kullanıcı dostu arayüzleri ile merkeziyetsiz platformların daha az kullanışlı ama eğilip bükülebilir ve tarafsız yapısı arasındaki tatlı rekabette kim ön plana çıkacak. Şu an görünen her iki hizmetin de farklı alıcıları olacağı ve pazarda kendilerine yer bulacakları şeklinde.
 
-Bu arada şunu unutmamakta fayda var; oldukça kuvvetli bir yatırımcı ordusunu arkasına alan, token değeri olarak da çok iyi bir yükseliş yakalayan The Graph, şu an için merkezi rakiplerinin önünde değil. Üstelik bu rakiplerden ayrışacağını belirttiği merkeziyetsizlik konusunda ise daha önünde alacağı çok yol var. Muhtemelen yatırımcıları değer olarak The Graph’ın arkasında olmaya devam edecekler; ancak ürün başarıyı bu söz verdiği merkeziyetsizliği başarabildiği ölçüde kazanacak.
+Bu arada şunu unutmamakta fayda var; oldukça kuvvetli bir yatırımcı ordusunu arkasına alan, token değeri olarak da çok iyi bir yükseliş yakalayan The Graph, şu an için merkezi rakiplerinin önünde değil. Üstelik bu rakiplerden ayrışacağını belirttiği merkeziyetsizlik konusunda ise daha önünde alacağı çok yol var. Muhtemelen yatırımcıları değer olarak The Graph’in arkasında olmaya devam edecekler; ancak ürün başarıyı bu söz verdiği merkeziyetsizliği başarabildiği ölçüde kazanacak.
 
 Şimdi de gelin Graph dünyasının aktörlerine ve sistemin nasıl çalıştığına daha yakından bakalım.
 
-## Sistem nasıl çalışıyor? {#sistem-nasil-calisiyor}
+## The Graph sistemi nasıl çalışıyor? {#sistem-nasil-calisiyor}
 
 Graph tam bir oracle sayılmaz, zira oracle protokolüne servis sağlayan dış aracılar (oracle düğümleri) harici dünyadan aldıkları bilgiyi akıllı kontrata aktarıyorlar.
 
@@ -74,7 +74,7 @@ The Graph’te ise köprü biraz daha farklı işliyor. Blokzincir içinden alı
 
 The Graph, şu aralar çok popüler olan Proof-of-Stake sistemini kullanıyor. Burada konuya yabancı olanlar için hemen bir parantez açalım: Bitcoin, Proof-of-Work denen güvenlik sistemini kullanıyor; hani şu, “ama çok enerji harcıyor” diye büyük eleştiri kaynağı olan, madenciler tarafından yürütülen sistemi. Ethereum da aynı sistemi kullanmakla birlikte önümüzdeki yıl içinde Proof-of-Stake mekanizmasına geçecek. Bu mekanizmada; sistemin güvenliğini sağlayanlar, bunu kendi mal varlıklarını teminat göstererek garanti edecekler. Böylece eskiden kol gücü yani emek ile korunan sistem, artık zenginlik yani kapital ile korunmaya başlayacak. Parantezi kapatıp konumuza geri dönelim:
 
-### Aktörler kimler? {#aktorler-kimler}
+### The Graph’in aktörleri kimler? {#aktorler-kimler}
 
 <strong><em>Endeksçiler:</em></strong>
 
@@ -92,7 +92,7 @@ Bunun dışında, bir de küratörler (İngilizcede ‘curators’) var. Bunlar,
 
 Bir de kullanıcılar var ki bunlar genelde DeFi ürünleri oluyor. Örneğin; DeFi dünyasının ağır topları Uniswap ve Synthetix The Graph’in modellerini kullanıyorlar. Nasıl belli bilgilerini depolamak için bulut üzerinde yer kiralıyorlar, benzer şekilde modellemeleri için The Graph’i tercih ediyorlar. Gerekli işi yapmak için ekip tutmak, server kiralamak yerine; sistemi kullandıkça ödeme yaptıkları için bu model açıkçası onların da işine geliyor. Zira, DeFi dünyasının en büyüklerinden [Uniswap’ın 2021 yılının Ocak ayında sadece 11 çalışanı olduğunu](https://twitter.com/haydenzadams/status/1346575665940860929) söylersek, neden böyle bir servise ihtiyaç duydukları sanırım daha iyi anlaşılır.
 
-### Neden para konuyor sisteme? {#neden-para-konuyor-sisteme}
+### The Graph’te sisteme neden para konuyor? {#neden-para-konuyor-sisteme}
 
 Sistem merkezi değil demiştik. Bu nedenle isteyen sisteme girip endeksçi, yetkilendirici ya da küratör olabiliyor. Peki ya bu kişiler kötü niyetli ise? Özellikle endeks tutanlar, yanlış bilgi sağlamak ya da endekslemek söz konusu olursa koydukları paranın tümünü kaybedebiliyorlar. Hemen belirtelim teminatlarını uzun bir süreliğine koydukları için bilginin yanlış olduğu sonradan anlaşılsa bile cezayı yiyorlar. Küratör ve yetkilendiriciler bilgi sağlamadıkları için böyle bir ağır cezaya tabi değiller; ama onlar da eğer yanlış ata oynar yani yanlış analiz ya da endeksçi seçerlerse, paralarını geri çekerken bir ücret ödüyorlar.
 

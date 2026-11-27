@@ -72,7 +72,7 @@ Tabii Bitcoin’in altın ve diğer resmi kâğıt paralardan önemli bir farkı
 
 Bitcoin bu alanda ortaya çıkan ilk kripto para olduğu ve yıllarca bir kere bile üzerinde işlem yapılması sekteye uğramadığı (ya da engellenemediği) için dijitalleşen dünyada en çok kabul gören para birimi oldu. Bunun yanında arkasında merkezi bir yapı yok, hatta bir web sitesi bile yok ([www.bitcoin.com](http://www.bitcoin.com/) Bitcoin’e değil onun klonu Bitcoin Cash’e ait, karıştırmayın), bu da tek bir gücün eline geçmesini zorlaştırıyor.
 
-<figure><a href="/assets/books/sorularla-blockchain/501-3.png"><img src="/assets/books/sorularla-blockchain/501-3.png" alt="Kaynak: www.bitcoinuptime.com" width="1200" height="376" loading="lazy"></a><figcaption>Kaynak: <a href="http://www.bitcoinuptime.com">www.bitcoinuptime.com</a></figcaption></figure>
+<figure><a href="/assets/books/sorularla-blockchain/501-3.png"><img src="/assets/books/sorularla-blockchain/501-3.png" alt="Kaynak: www.bitcoinuptime.com" width="1200" height="376" loading="lazy"></a><figcaption>Kaynak: www.bitcoinuptime.com</figcaption></figure>
 
 Bitcoin konusunda iyimser olanlar Bitcoin’in gelecekte dünyanın kullanacağı sınırları olmayan, tek bir hâkiminin olmadığı global bir para olacağını düşünüyor. Şimdiden yer kapma amacıyla Bitcoin’e hatırı sayılır bir değer biçiyorlar.
 
@@ -96,7 +96,7 @@ Ancak Bitcoin kurucusu ve o zamana kadar anonim olan Satoshi yazdığı bir yaz�
 <figcaption markdown="span">Satoshi’yi bildiğine emin olduğumuz tek kişi: Hal Finney (Kaynak [Wikipedia](https://en.wikipedia.org/wiki/File:Hal_Finney_%28computer_scientist%29.jpg)[^6])</figcaption>
 </figure>
 
-Sonrasında değişik iniş ve çıkışlar yaşayan, defalarca değeri fırlayan, defalarca değeri yarıya düşen, her yıl birkaç kere “artık öldü” denilen ama her seferinde daha da güçlü bir şekilde hayatını sürdüren, kurulduğundan beri bir dakika bile işlemleri sekteye uğramamış bir kripto para, Bitcoin hayatımıza girdi. ((Bu arada “Bitcoin öldü” haberleri için istatistik bile tutuluyor, şu ana kadar 300'ü geçmiş, sırf bunu takip eden web siteleri [var](https://99bitcoins.com/obituary-stats/)[^7])
+Sonrasında değişik iniş ve çıkışlar yaşayan, defalarca değeri fırlayan, defalarca değeri yarıya düşen, her yıl birkaç kere “artık öldü” denilen ama her seferinde daha da güçlü bir şekilde hayatını sürdüren, kurulduğundan beri bir dakika bile işlemleri sekteye uğramamış bir kripto para, Bitcoin hayatımıza girdi. (Bu arada “Bitcoin öldü” haberleri için istatistik bile tutuluyor, şu ana kadar 300’ü geçmiş, sırf bunu takip eden web siteleri var[^7])
 
 [^1]: [https://photos.icons8.com/photos/5a8bed328b658800019f1d52](https://photos.icons8.com/photos/5a8bed328b658800019f1d52)
 
@@ -110,4 +110,4 @@ Sonrasında değişik iniş ve çıkışlar yaşayan, defalarca değeri fırlaya
 
 [^6]: [https://en.wikipedia.org/wiki/File:Hal\_Finney\_(computer\_scientist).jpg](https://en.wikipedia.org/wiki/File:Hal_Finney_%28computer_scientist%29.jpg)
 
-[^7]: [https://99bitcoins.com/obituary-stats/](https://99bitcoins.com/obituary-stats/)
+[^7]: https://99bitcoins.com/obituary-stats/

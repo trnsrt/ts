@@ -7,10 +7,10 @@ chapter: 1
 chapter_title: "Nedir DeFi?"
 order: 102
 permalink: /Sorularla_DeFi/bolum-1/finansi-nasil-etkileyecek/
-description: "Blokzincirin finans dünyasının nasıl etkileyeceğine bakarken, işe dijitalleşme ile birlikte finans sektörünün geçirdiği evrimden ve genel olarak finans…"
+description: "Blokzincirin finans dünyasını nasıl etkileyeceğine bakarken, işe dijitalleşme ile birlikte finans sektörünün geçirdiği evrimden ve genel olarak finans…"
 ---
 
-Blokzincirin finans dünyasının nasıl etkileyeceğine bakarken, işe dijitalleşme ile birlikte finans sektörünün geçirdiği evrimden ve genel olarak finans kurumlarını gelecekte nelerin beklediğinden yola çıkıp, sonrasında blokzincire bakalım:
+Blokzincirin finans dünyasını nasıl etkileyeceğine bakarken, işe dijitalleşme ile birlikte finans sektörünün geçirdiği evrimden ve genel olarak finans kurumlarını gelecekte nelerin beklediğinden yola çıkıp, sonrasında blokzincire bakalım:
 
 ## Dijitalleşmenin getirdikleri {#dijitallesmenin-getirdikleri}
 
@@ -36,21 +36,21 @@ Hizmet ve ürün karşılığı dijital dünyada yapılan işlemlerde blokzincir
 
 Neden önemli Facebook? Şöyle düşünün: Ödeme için herhangi bir kredi kartı ya da banka hesabı kullanan bir tüketici kaç farklı kart ya da hesap kullanabilir? Onlarca. Bu, ticari bir işletme için yapacağı tahsilatlarda aracılara ciddi komisyonlar ödemesi demek. Peki, bu işletme Facebook kullansa? Unutmayın "herkesin bir Facebook hesabı var", sevgili Mark hepimizin cebinde, bize 7/24 dokunuyor. Üstelik finansal kurumlarımız mevcut coğrafi sınırlar içinde 80 milyona hizmet vermek için çabalarken o 2.7 milyar insana ulaşıyor. Tekrar soralım: **Hem maliyetlerinizi düşürecek hem de size dev bir müşteri kitlesi sunacak kapalı bir ekosisteme girmek istemez misiniz?**
 
-Benzer şekilde Facebook'un kurduğu Libra konsorsiyumunda yer alan dünyanın en önemli para transfer aracılarından PayPal, 2020'nin Ekim ayı içinde [kriptoparalar ile ödeme almaya başlayacağını söyledi](https://www.bbc.com/news/technology-54630283). Kuruluşundan kısa bir süre sonra Libra konsorsiyumundan ayrılan **PayPal'ın yakın zamanda Libra benzeri kapalı sistem bir dijital para kurması çok olası bir seçenek**. Zira 300 milyon kullanıcı ve 28 milyon ticari işletmeyi elinde tutan bir güç, neden bunları kendi kapalı ekosisteminde tutup daha fazla 'sağmasın'?
+Benzer şekilde Facebook’un kurduğu Libra konsorsiyumunda yer alan dünyanın en önemli para transfer aracılarından PayPal, 2020’nin Ekim ayı içinde [kriptoparalar ile ödeme almaya başlayacağını söyledi](https://www.bbc.com/news/technology-54630283). Kuruluşundan kısa bir süre sonra Libra konsorsiyumundan ayrılan **PayPal’ın yakın zamanda Libra benzeri kapalı sistem bir dijital para kurması çok olası bir seçenek**. Zira 300 milyon kullanıcı ve 28 milyon ticari işletmeyi elinde tutan bir güç, neden bunları kendi kapalı ekosisteminde tutup daha fazla 'sağmasın'?
 
 **Ve merkez bankaları**
 
-Tabii, sadece finansal kurumlar değil Facebook'tan çekinen. Merkez Bankaları da bu global devleri kendi ekonomik politikalarına bir tehdit olarak algıladılar. İşte bu nedenle, Libra açıklamasının hemen ertesinde [Fransa Maliye Bakanı çığlığı bastı](https://www.marketwatch.com/story/french-finance-minister-says-libra-should-not-be-allowed-in-eu-2019-10-09#:~:text=BRUSSELS%20%28AP%29%20%E2%80%94%20The%20European,Bruno%20Le%20Maire%20said%20Wednesday.). Amerika Birleşik Devletleri kongresi Mark Zuckerberg ve Libra projesinin başı David Marcus'u neredeyse haftada bir sorgulamaya başladı.
+Tabii, sadece finansal kurumlar değil Facebook’tan çekinen. Merkez Bankaları da bu global devleri kendi ekonomik politikalarına bir tehdit olarak algıladılar. İşte bu nedenle, Libra açıklamasının hemen ertesinde [Fransa Maliye Bakanı çığlığı bastı](https://www.marketwatch.com/story/french-finance-minister-says-libra-should-not-be-allowed-in-eu-2019-10-09#:~:text=BRUSSELS%20%28AP%29%20%E2%80%94%20The%20European,Bruno%20Le%20Maire%20said%20Wednesday.). Amerika Birleşik Devletleri kongresi Mark Zuckerberg ve Libra projesinin başı David Marcus’u neredeyse haftada bir sorgulamaya başladı.
 
-ABD (ve kısmen Avrupa Birliği) global finans sistemin ağırlıklı sahibi olarak egemenliklerinin devamına tehdit olarak gördükleri için Libra benzeri Blokzincir tabanlı merkeziyetsiz inisiyatiflere kuşkuyla bakıyorlar ([dünya ticaretinin %80'inin ABD Doları ile gerçekleştiğini](https://www.swift.com/sites/default/files/documents/swift_bi_currency_evolution_infopaper_57128.pdf) hatırlatalım). Öte yandan dünyanın diğer tarafında, ekonomik bir güç olmayı hedefleyen Çin ise Libra'ya tepkisini, yıllardır [üzerinde çalışmakta olduğu kendi Merkez Bankası Dijital Parası](https://boxmining.com/dcep/#:~:text=What%20is%20DCEP%3F,Bank%20of%20China%20%28PBoC%29.) projesinde [gaza basarak](https://www.bloomberg.com/news/articles/2020-09-08/how-china-is-closing-in-on-its-own-digital-currency-quicktake) gösterdi.
+ABD (ve kısmen Avrupa Birliği) global finans sistemin ağırlıklı sahibi olarak egemenliklerinin devamına tehdit olarak gördükleri için Libra benzeri Blokzincir tabanlı merkeziyetsiz inisiyatiflere kuşkuyla bakıyorlar ([dünya ticaretinin %80’inin ABD Doları ile gerçekleştiğini](https://www.swift.com/sites/default/files/documents/swift_bi_currency_evolution_infopaper_57128.pdf) hatırlatalım). Öte yandan dünyanın diğer tarafında, ekonomik bir güç olmayı hedefleyen Çin ise Libra’ya tepkisini, yıllardır [üzerinde çalışmakta olduğu kendi Merkez Bankası Dijital Parası](https://boxmining.com/dcep/#:~:text=What%20is%20DCEP%3F,Bank%20of%20China%20%28PBoC%29.) projesinde [gaza basarak](https://www.bloomberg.com/news/articles/2020-09-08/how-china-is-closing-in-on-its-own-digital-currency-quicktake) gösterdi.
 
-**Merkez Bankası Dijital Paraları, devlet otoritelerine halk ile direkt iletişime geçebilme imkanı vermesinden ötürü üzerinde hassasiyetle durulan bir enstrüman.** Merkez Bankası'nda bir hesap açtırmak suretiyle vatandaşa dokunmanın ne gibi faydası olabilir?
+**Merkez Bankası Dijital Paraları, devlet otoritelerine halk ile direkt iletişime geçebilme imkânı vermesinden ötürü üzerinde hassasiyetle durulan bir enstrüman.** Merkez Bankası’nda bir hesap açtırmak suretiyle vatandaşa dokunmanın ne gibi faydası olabilir?
 
 Öncelikle, vergi ve ceza tahsilatı gibi konularda bankalara ödenen komisyon ya da kullandırılan likiditeden kaçınmak gibi somut ancak ufak faydaları var. Ancak bu, böyle bir projeyi geliştirmek için yeterli olmayabilir. Bankalar gerekli teknolojik altyapı yatırımlarını çoktan yapmış olduklarından bu hizmeti devlet için ekonomik bir şekilde vermeye devam edebilirler.
 
-Keza, “finansal dünyaya erişimi olmayan kesimleri sistem içine sokmak” fikir olarak oldukça güzel bir neden olsa da pr etkisinin ötesinde bu inisiyatifi tek başına taşıyamaz.
+Keza, “finansal dünyaya erişimi olmayan kesimleri sistem içine sokmak” fikir olarak oldukça güzel bir neden olsa da PR etkisinin ötesinde bu inisiyatifi tek başına taşıyamaz.
 
-Yukarıdaki saydığımız nedenlerin ötesinde, **bu hesaplar sayesinde merkez bankaları sadece parasal değil mâli anlamda da hızlı etki edebilecek politikalar geliştirme imkanına kavuşabilirler.** Biraz daha açalım: Devlet ile vatandaş arasında birebir bir kanal açıldığında, herhangi bir alanda verilecek teşviklerin ihtiyaç sahiplerine anında ulaştırılması sağlanabilir. Böyle bir sistem, bu teşviklerin kullanımının izlenmesi ve sonuçlarının hızla değerlendirilmesine olanak verebilir. Böylesine hızlı bir geribildirim aynı zamanda izlenen stratejinin çok daha etkin ve ölçülebilir yeni aksiyonlar ile güçlendirilmesine de destek olabilir.
+Yukarıdaki saydığımız nedenlerin ötesinde, **bu hesaplar sayesinde merkez bankaları sadece parasal değil mâli anlamda da hızlı etki edebilecek politikalar geliştirme imkânına kavuşabilirler.** Biraz daha açalım: Devlet ile vatandaş arasında birebir bir kanal açıldığında, herhangi bir alanda verilecek teşviklerin ihtiyaç sahiplerine anında ulaştırılması sağlanabilir. Böyle bir sistem, bu teşviklerin kullanımının izlenmesi ve sonuçlarının hızla değerlendirilmesine olanak verebilir. Böylesine hızlı bir geribildirim aynı zamanda izlenen stratejinin çok daha etkin ve ölçülebilir yeni aksiyonlar ile güçlendirilmesine de destek olabilir.
 
 ## Finans dünyası nasıl tepki verecek? {#finans-dunyasi-nasil-tepki-verecek}
 
@@ -74,9 +74,9 @@ Tek bir güç tarafından kontrol edilemeyen bu makineler, kendilerine verilen e
 
 Finans piyasasındaki aktörlerin ana fonksiyonu, ikili ilişkilerde kişiler arasında ihtiyaç duyulan bu aracı rolünü oynamaları ve güveni teşkil etmeleriydi. Şimdi blokzincirin bu rolü üstlenmesi, bugün olmasa bile yakın bir gelecekte bu aktörler için varoluşsal bir tehdit oluşturuyor.
 
-### Peki her tür finansal işlem etkilenecek mi? İlk kimler tehdit altında? {#peki-her-tur-finansal-islem-etkilenecek-mi-ilk-kimler-tehdit-altinda}
+### Peki blokzincirden her tür finansal işlem etkilenecek mi? İlk kimler tehdit altında? {#peki-her-tur-finansal-islem-etkilenecek-mi-ilk-kimler-tehdit-altinda}
 
-Blokzincirin teknolojisinin kullanmaya başlamasıyla, finans piyasasında tehdit altında kalan ilk alan para transferleri oldu. Özellikle de ülkelerarası SWIFT transferleri. Neden? Hem yüksek maliyetli ve yavaş, hem de belirli ülkelerde yaşayanlar için kullanılması imkansız bir sistem.
+Blokzincir teknolojisinin kullanılmaya başlamasıyla, finans piyasasında tehdit altında kalan ilk alan para transferleri oldu. Özellikle de ülkelerarası SWIFT transferleri. Neden? Hem yüksek maliyetli ve yavaş, hem de belirli ülkelerde yaşayanlar için kullanılması imkânsız bir sistem.
 
 Aslına bakarsanız, para transferi kişiler arası gerçekleştirilen finansal işlemler içinde en basit olanı. Bir kişi kendine ait bir parasal değeri, bir diğer kişiye koşulsuz olarak transfer eder. İşte bu basit yapısı nedeniyle, merkezi olmayan yapılar tarafından ilk olarak fethedilmeye çalışan alan, burası oldu.
 

@@ -42,20 +42,20 @@ Dijital sahipliğin ve Blockchain teknolojisinin bir araya geldiği son nokta �
 
 Nedir bu diye soracak olursanız: CryptoKitties [sitesindeki](https://www.cryptokitties.co/) kedileri inceliyor ve beğendiğinizi satın alıyorsunuz. Aldığınız kedinin pek çok değişik özelliği var almadan önce inceleyebileceğiniz (göz, tüy rengi türü vb.) ancak bilmeniz gereken bir detay: bu kediden sadece bir tane var, başka eşi yok (bir insan gibi her bir kedinin DNA’sı farklı ve Blockchain üzerinde tutularak bu DNA’nın güvenliği sağlanıyor). Sonra bu kediyi bir başka kedi ile “çiftleştirerek” yepyeni bir kedicik yaratabiliyor ve bu kediciği satabiliyorsunuz. Bu kedilerin ilk jenerasyonu sınırlı sayıda yaratıldığı için çok talep görüyor. Çiftleştirme yapılan kediler eğer pahalı bir cinse aitse ise yavrusu da cins ve pahalı olabiliyor ama bir garantisi yok — aynı her ünlünün çocuğunun annesi ya da babası kadar ilgi çekici olmadığı örnekler gibi.
 
-“Hadi canım olur mu öyle şey, çok saçma” demeyin. Geçtiğimiz Kasım ayında faaliyete geçen siteye, daha ilk ayında 180.000 kişi kayıt oldu ve 20 Milyon ABD dolarından [fazla para harcadı](https://www.nytimes.com/2017/12/28/style/cryptokitties-want-a-blockchain-snuggle.html)[^6]. Ondan fazla kedicik 100.000 ABD Doları’ndan yüksek fiyata satıldı. Sitenin sahibi şirket Mart ayı başında Anderseen Horowitz (Twitter ve AirBnB’nin ilk yatırımcılarından) ve Union Square Ventures (Zynga, Twitter ve Foursquare’in ilk yatırımcılarından) gibi dünyanın en saygın özel sermaye şirketlerinden 12 Milyon ABD doları yatırım aldı. İnsanlar sırf bu kediciklerden satın alabilmek için kripto para dünyası ile tanışıp Ether satın aldılar. Kripto paraların sanal dünyada en yaygın kullanım gördüğü alanlardan biri oldu CryptoKitties.
+“Hadi canım olur mu öyle şey, çok saçma” demeyin. Geçtiğimiz Kasım ayında faaliyete geçen siteye, daha ilk ayında 180.000 kişi kayıt oldu ve 20 Milyon ABD dolarından [fazla para harcadı](https://www.nytimes.com/2017/12/28/style/cryptokitties-want-a-blockchain-snuggle.html)[^6]. Ondan fazla kedicik 100.000 ABD Doları’ndan yüksek fiyata satıldı. Sitenin sahibi şirket Mart ayı başında Andreessen Horowitz (Twitter ve AirBnB’nin ilk yatırımcılarından) ve Union Square Ventures (Zynga, Twitter ve Foursquare’in ilk yatırımcılarından) gibi dünyanın en saygın özel sermaye şirketlerinden 12 Milyon ABD doları yatırım aldı. İnsanlar sırf bu kediciklerden satın alabilmek için kripto para dünyası ile tanışıp Ether satın aldılar. Kripto paraların sanal dünyada en yaygın kullanım gördüğü alanlardan biri oldu CryptoKitties.
 
 Nasıl? Neden? Psikolojik bir yanı olduğu kesin. Sahip olma isteği. Özellikle eşsiz (her bir kedinin ayrı bir DNA’sı var eşi benzeri yok) ve sınırlı sayıda (özellikle ilk yaratılanlardan başka yaratılamayacak olması) olan bir nesneye sahip olma isteği. Üzerine bunu yatırım gibi kullanabilme ve potansiyel para kazanma imkânını koyun. Alın size talep. Bu saydığımız özelliklerin temeli de bir kere işlendi mi değiştirilemeyecek olan Blockchain teknolojisinin insanlarda yarattığı güven.
 
 ## CD bitti, yaşasın Spotify... Ya da? {#cd-bitti-yasasin-spotify-ya-da}
 
-2017 yılının Temmuz ayında RAC adıyla dans müziği üreten André Anjos, son albümü EGO’yu bilinen dijital kanallar yanında kendi web sitesinden Ether kripto parası karşılığında da dinleyicilere [sundu](http://musically.com/2017/08/04/ujo-music-blockchain-uphill-battle-existing-companies/)[^7]. Bunu yaparken de [Ujo Platormu](https://ujomusic.com/)[^8]‘nu kullandı.
+2017 yılının Temmuz ayında RAC adıyla dans müziği üreten André Anjos, son albümü EGO’yu bilinen dijital kanallar yanında kendi web sitesinden Ether kripto parası karşılığında da dinleyicilere [sundu](http://musically.com/2017/08/04/ujo-music-blockchain-uphill-battle-existing-companies/)[^7]. Bunu yaparken de Ujo Platformu[^8]’nu kullandı.
 
 <figure markdown="1">
 <a href="/assets/books/sorularla-blockchain/209-3.jpg"><img src="/assets/books/sorularla-blockchain/209-3.jpg" alt="RAC &amp; UJO Music (Kaynak: Ujo Music)" width="1200" height="570" loading="lazy"></a>
-<figcaption markdown="span">RAC & UJO Music (Kaynak: [Ujo Music](https://www.ujomusic.com/portal/musicgroup/18)[^9])</figcaption>
+<figcaption markdown="span">RAC & UJO Music (Kaynak: Ujo Music[^9])</figcaption>
 </figure>
 
-Biliyorsunuz, müzik dünyası CD’lerden, “streaming” servislerine hızlı bir geçiş yaptı — arada pek çok plakçı/CD satan büyük mağazalar zayi oldu. Artık kimse bir yere gidip CD almıyor, Apple Music ya da Sportify üzerinden istediğimiz müziği istediğimiz kadar dinliyoruz. Kullanıcı için büyük rahatlık. Peki sanatçılar için? Onlar biraz sıkıntılı bu durumdan dolayı. Zira, dinlendikçe para kazanıyorlar ancak bu streaming firmaları tek bir dağıtıcı olarak %30’lara varan ciddi komisyonlar alıyorlar oluşan gelirden. Adeta kartel olmuşlar! Sanatçıların çok söz hakkı yok.
+Biliyorsunuz, müzik dünyası CD’lerden, “streaming” servislerine hızlı bir geçiş yaptı — arada pek çok plakçı/CD satan büyük mağazalar zayi oldu. Artık kimse bir yere gidip CD almıyor, Apple Music ya da Spotify üzerinden istediğimiz müziği istediğimiz kadar dinliyoruz. Kullanıcı için büyük rahatlık. Peki sanatçılar için? Onlar biraz sıkıntılı bu durumdan dolayı. Zira, dinlendikçe para kazanıyorlar ancak bu streaming firmaları tek bir dağıtıcı olarak %30’lara varan ciddi komisyonlar alıyorlar oluşan gelirden. Adeta kartel olmuşlar! Sanatçıların çok söz hakkı yok.
 
 Buna karşı çıkan ve bağımsız sanatçıları koruyan platformlar yok mu? Var tabii. Örneğin [Bandcamp](https://bandcamp.com/)[^10], müzisyenlerin direkt olarak dinleyiciler ile bir araya gelmesini sağlıyor. Binlerce müzisyen ve 3.000’den fazla bağımsız müzik şirketini bir araya getiren Bandcamp, 2007 yılından bu yana 287 Milyon ABD Doları bir tutarı müzisyenlere ödemiş. Karşılığında ne almış? %15–20 tutarında bir komisyon. Yukarıda Apple Music’in aldığı oranlara bakınca ciddi bir düşüş oldu bile. Harika. Ama yeterli mi?
 
@@ -86,9 +86,9 @@ Başlangıçta da belirttiğimiz gibi Blockchain yeni bir teknoloji. Bu teknoloj
 
 [^7]: [http://musically.com/2017/08/04/ujo-music-blockchain-uphill-battle-existing-companies/](http://musically.com/2017/08/04/ujo-music-blockchain-uphill-battle-existing-companies/)
 
-[^8]: [https://ujomusic.com/](https://ujomusic.com/)
+[^8]: https://ujomusic.com/
 
-[^9]: [https://www.ujomusic.com/portal/musicgroup/18](https://www.ujomusic.com/portal/musicgroup/18)
+[^9]: https://www.ujomusic.com/portal/musicgroup/18
 
 [^10]: [https://bandcamp.com/](https://bandcamp.com/)
 

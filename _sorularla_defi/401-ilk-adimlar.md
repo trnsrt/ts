@@ -16,9 +16,9 @@ Son zamanlarda yeni yeni başlayan DeFi yani merkeziyetsiz finans hareketi ise, 
 
 Bu bölümde, gün geçtikçe önemi artan DeFi dünyasını ve kullanıcı olarak bu dünyaya girmek için gerekli adımları konuşacağız.
 
-## DeFi’ya girmeden önce ilk gereken kriptoparaya sahip olmak {#defiya-girmeden-once-ilk-gereken-kriptoparaya-sahip-olmak}
+## DeFi’ye girmeden önce ilk gereken kriptoparaya sahip olmak {#defiya-girmeden-once-ilk-gereken-kriptoparaya-sahip-olmak}
 
-En başından başlarsak DeFi dünyasını kullanmak için kullanıcının kriptoparası olmak zorunda. Bu kriptopara, şu an için ağırlıklı olarak Ethereum blok zincirinin parası ETH, ama yakın gelecekte başka paralar da aynı işi görebilir.
+En başından başlarsak DeFi dünyasını kullanmak için kullanıcının kriptoparası olmak zorunda. Bu kriptopara, şu an için ağırlıklı olarak Ethereum blokzincirinin parası ETH, ama yakın gelecekte başka paralar da aynı işi görebilir.
 
 Peki bu paralara nasıl ulaşabilir kullanıcı? Öncelikle elindeki itibari paraları (yani devletler tarafından basılan paralar), kriptoparaya çevirmesi gerekiyor. Bunu ise merkezi kriptopara borsaları ile yapabilir. Kendisine ait bir banka hesabından, merkezi bir kriptopara borsası hesabına itibari parasını gönderir, sonrasında o borsanın sunduğu kriptoparalardan satın alabilir.
 

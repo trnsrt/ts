@@ -22,14 +22,14 @@ Blockchain konusundaki iyimserler, mültecilerin işlemlerinin kayıt altına al
 
 Benzer şekilde dünyada gelişmekte olan ülkelere yapılan yardımların [%30’u heba oluyor](https://www.cgdev.org/blog/how-much-aid-really-lost-corruption)[^3], ihtiyaç sahiplerine ulaşamıyor. Neden? Aracılara ödenen paralar ve yolsuzluk. İrlanda Kızılhaç’ı bu nedenle Lübnan’da mültecilere gönderdiği kuponları Blockchain teknolojisi ile takip ederek böyle [hangi ürünlerde kullanıldığını anlık olarak görme imkânına sahip olur](https://medium.com/@DemandASME/as-they-say-follow-the-money-462f00ac16bd)[^4]. Bu, onlar için de bir aydınlanma olur, zira normalde nakdi olmayan yardımlar genelde gıda maddeleri ile sınırlı olurken, burada ailelerin genelde temizlik malzemesi satın aldığını fark ederler. Ayrıca kurum, bu sistem sayesinde bağışçılarına yaptıkları bağışların hangi alanlarda kullanıldığını da takip etme olanağı verir. Verdiğiniz yardımın insanların hayatına dokunduğunu görmekten alacağınız manevi tatmini artırmanın yanında, sonra yapacağınız bağışlar için de ciddi bir motivasyon olacağını söylemek doğru olur sanırım.
 
-Benzer konuda, Birleşmiş Milletler Kalkınma Programı (UNDP) ülkelerinden uzakta bulunan diasporaların anavatanlarındaki soydaşlarına gönderecekleri paralar için Blockchain altyapısını nasıl kullanır ve yaklaşık %7’lere varan maliyetleri nasıl düşürebiliriz sorularına [cevap bulmaya](http://altfinlab.org/blog/serbia-sending-remittances-from-serbian-diaspora-to-the-city-of-nis-beneficiaries)[^5] çalışıyorlar. Projenin doğuş nedenlerinden biri gönderilen paraların soydaşlar tarafından ağırlıklı alkole harcanmasının diasporanın canını sıkmış olması.
+Benzer konuda, Birleşmiş Milletler Kalkınma Programı (UNDP) ülkelerinden uzakta bulunan diasporaların anavatanlarındaki soydaşlarına gönderecekleri paralar için Blockchain altyapısını nasıl kullanır ve yaklaşık %7’lere varan maliyetleri nasıl düşürebiliriz sorularına cevap bulmaya[^5] çalışıyorlar. Projenin doğuş nedenlerinden biri gönderilen paraların soydaşlar tarafından ağırlıklı alkole harcanmasının diasporanın canını sıkmış olması.
 
 <figure markdown="1">
 <a href="/assets/books/sorularla-blockchain/208-1.jpg"><img src="/assets/books/sorularla-blockchain/208-1.jpg" alt="Sırbistan üzerinden para yardımı şeması. (Kaynak: Altfinlab)" width="850" height="550" loading="lazy"></a>
-<figcaption markdown="span">Sırbistan üzerinden para yardımı şeması. (Kaynak: [Altfinlab](http://altfinlab.org/blog/serbia-sending-remittances-from-serbian-diaspora-to-the-city-of-nis-beneficiaries)[^6])</figcaption>
+<figcaption markdown="span">Sırbistan üzerinden para yardımı şeması. (Kaynak: Altfinlab[^6])</figcaption>
 </figure>
 
-2013 yılında ABD’de kurulan [BitGive](https://www.bitgivefoundation.org/)[^7] kâr amacı gütmeyen ilk Bitcoin bazlı yardım kuruluşu. Bağış kampanyaları düzenleyen bu kuruluş, aynı zamanda ihtiyacı olanlara ulaşması için toplanan paraların izlediği tüm yolu Blockchain üzerinden takip ediyor. Böylece bu bilgiler kesinlikle değiştirilemiyor ve anlık olarak gözlemlenebiliyor. Kurum bağışçılardan Bitcoin toplayarak, Nepal’deki depremde kırsal bölgeler ile merkezler arasında irtibatın kurulumuna yardımcı olacak [mobil telefon alınmasından](http://www.bitgivefoundation.org/medic-mobile-campaign/)[^8], Kenya’daki bir kız okuluna [kuyu açılmasına](https://thewaterproject.org/community/projects/kenya/a-new-well-in-kenya-4333)[^9]; [Filipinler'den](https://www.savethechildren.org/us/what-we-do/emergency-response/historical-emergencies/typhoon-haiyan)[^10], Brezilya ve Meksika’ya, küçük ama insanların hayatlarına dokunan projeler için kampanyalar düzenliyor.
+2013 yılında ABD’de kurulan [BitGive](https://www.bitgivefoundation.org/)[^7] kâr amacı gütmeyen ilk Bitcoin bazlı yardım kuruluşu. Bağış kampanyaları düzenleyen bu kuruluş, aynı zamanda ihtiyacı olanlara ulaşması için toplanan paraların izlediği tüm yolu Blockchain üzerinden takip ediyor. Böylece bu bilgiler kesinlikle değiştirilemiyor ve anlık olarak gözlemlenebiliyor. Kurum bağışçılardan Bitcoin toplayarak, Nepal’deki depremde kırsal bölgeler ile merkezler arasında irtibatın kurulumuna yardımcı olacak mobil telefon alınmasından[^8], Kenya’daki bir kız okuluna [kuyu açılmasına](https://thewaterproject.org/community/projects/kenya/a-new-well-in-kenya-4333)[^9]; [Filipinler’den](https://www.savethechildren.org/us/what-we-do/emergency-response/historical-emergencies/typhoon-haiyan)[^10], Brezilya ve Meksika’ya, küçük ama insanların hayatlarına dokunan projeler için kampanyalar düzenliyor.
 
 <figure markdown="1">
 <a href="/assets/books/sorularla-blockchain/208-2.png"><img src="/assets/books/sorularla-blockchain/208-2.png" alt="BitGive GiveTrack sistemi (Kaynak: BitGive Foundation)" width="768" height="564" loading="lazy"></a>
@@ -46,13 +46,13 @@ Bunlar somut, gerçekleşen örnekler ve bu örneklerin benzerleri artarak kulla
 
 [^4]: [https://medium.com/@DemandASME/as-they-say-follow-the-money-462f00ac16bd](https://medium.com/@DemandASME/as-they-say-follow-the-money-462f00ac16bd)
 
-[^5]: [http://altfinlab.org/blog/serbia-sending-remittances-from-serbian-diaspora-to-the-city-of-nis-beneficiaries](http://altfinlab.org/blog/serbia-sending-remittances-from-serbian-diaspora-to-the-city-of-nis-beneficiaries)
+[^5]: http://altfinlab.org/blog/serbia-sending-remittances-from-serbian-diaspora-to-the-city-of-nis-beneficiaries
 
-[^6]: [http://altfinlab.org/blog/serbia-sending-remittances-from-serbian-diaspora-to-the-city-of-nis-beneficiaries](http://altfinlab.org/blog/serbia-sending-remittances-from-serbian-diaspora-to-the-city-of-nis-beneficiaries)
+[^6]: http://altfinlab.org/blog/serbia-sending-remittances-from-serbian-diaspora-to-the-city-of-nis-beneficiaries
 
 [^7]: [https://www.bitgivefoundation.org/](https://www.bitgivefoundation.org/)
 
-[^8]: [http://www.bitgivefoundation.org/medic-mobile-campaign/](http://www.bitgivefoundation.org/medic-mobile-campaign/)
+[^8]: http://www.bitgivefoundation.org/medic-mobile-campaign/
 
 [^9]: [https://thewaterproject.org/community/projects/kenya/a-new-well-in-kenya-4333](https://thewaterproject.org/community/projects/kenya/a-new-well-in-kenya-4333)
 

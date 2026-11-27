@@ -514,6 +514,62 @@ PROFILES.update(PROFILES_EXTRA)
 BODY_HEADING_OVERRIDES = {
     'df': {
         ('103-defi-ne-demek.md', 'peki-ya-musteriler'): 'Peki, ya finans sisteminin müşterileri?',
+        # GEO batch B7 (owner-approved): context added to bare question headings, ids kept
+        ('101-blokzincirin-cikis-felsefesi.md', 'arkasinda-yatan-temel-gelismeler-neler'): 'Blokzincirin arkasında yatan temel gelişmeler neler?',
+        ('101-blokzincirin-cikis-felsefesi.md', 'bundan-sonra-neler-gorecegiz'): 'Blokzincirle bundan sonra neler göreceğiz?',
+        ('102-finansi-nasil-etkileyecek.md', 'peki-her-tur-finansal-islem-etkilenecek-mi-ilk-kimler-tehdit-altinda'): 'Peki blokzincirden her tür finansal işlem etkilenecek mi? İlk kimler tehdit altında?',
+        ('108-nasil-merkeziyetsiz.md', 'nasil-bir-yelpaze-bu'): 'Merkeziden yarı-merkezi ve merkeziyetsize uzanan nasıl bir yelpaze bu?',
+        ('108-nasil-merkeziyetsiz.md', 'hesap-sorabiliyor-muyum'): 'DeFi’de hesap sorabiliyor muyum?',
+        ('108-nasil-merkeziyetsiz.md', 'ya-regulasyonlar'): 'Ya DeFi’de regülasyonlar?',
+        ('110-defide-regulasyon-olur-mu.md', 'kim-regule-edebilir'): 'DeFi’yi kim regüle edebilir?',
+        ('110-defide-regulasyon-olur-mu.md', 'nasil-bir-cercevede-regulasyon-yapilabilir'): 'DeFi için nasıl bir çerçevede regülasyon yapılabilir?',
+        ('111-dijitallesme-gelecek.md', 'nasil-bir-surecten-geciyoruz'): 'Dijitalleşmede nasıl bir süreçten geçiyoruz?',
+        ('111-dijitallesme-gelecek.md', 'her-sey-gulluk-gulistanlik-mi'): 'Dijital dünyada her şey güllük gülistanlık mı?',
+        ('202-makerdao.md', 'nasil-calisiyor'): 'MakerDAO nasıl çalışıyor?',
+        ('202-makerdao.md', 'insanlar-neden-kullaniyor'): 'İnsanlar MakerDAO’yu neden kullanıyor?',
+        ('202-makerdao.md', 'kim-borc-veriyor-bu-sisteme'): 'Kim borç veriyor MakerDAO sistemine?',
+        ('203-compound.md', 'nasil-calisiyor-sistem'): 'Compound sistemi nasıl çalışıyor?',
+        ('203-compound.md', 'tamamen-merkeziyetsiz-mi'): 'Compound tamamen merkeziyetsiz mi?',
+        ('204-uniswap.md', 'peki-nasil-calisiyor-sistem'): 'Peki Uniswap sistemi nasıl çalışıyor?',
+        ('204-uniswap.md', 'nasil-farklilasti-rakipler'): 'Nasıl farklılaştı Uniswap’ın rakipleri?',
+        ('205-yearn-finance.md', 'ne-tip-urunler-var'): 'Yearn’da ne tip ürünler var?',
+        ('205-yearn-finance.md', 'riskler-neler'): 'Yearn’ın riskleri neler?',
+        ('205-yearn-finance.md', 'gelecekte-kullanicilari-neler-bekliyor'): 'Gelecekte Yearn kullanıcılarını neler bekliyor?',
+        ('206-synthetix.md', 'nasil-calisiyor-sistem'): 'Synthetix sistemi nasıl çalışıyor?',
+        ('207-hegic.md', 'sistem-nasil-calisiyor'): 'Hegic sistemi nasıl çalışıyor?',
+        ('208-nexus-mutual.md', 'neler-sigortalaniyor-neler-sigorta-disi'): 'Nexus Mutual’da neler sigortalanıyor, neler sigorta dışı?',
+        ('301-ethereum.md', 'net-etki-nasil-olur'): 'ETH 2.0 ve EIP 1559’un net etkisi nasıl olur?',
+        ('302-ethereum-ve-rakipleri.md', 'kim-hangi-alanda-rakip-olmaya-calisiyor'): 'Ethereum’a kim hangi alanda rakip olmaya çalışıyor?',
+        ('304-nedir-oracle.md', 'merkeziyetsiz-dunya-icin-neden-onemli'): 'Oracle merkeziyetsiz dünya için neden önemli?',
+        ('304-nedir-oracle.md', 'merkeziyetsiz-platformlar-nasil-yapiyorlar-bu-isi'): 'Merkeziyetsiz platformlar oracle işini nasıl yapıyorlar?',
+        ('304-nedir-oracle.md', 'son-zamanlarda-onemi-artti-mi'): 'Son zamanlarda oracle’ların önemi arttı mı?',
+        ('304-nedir-oracle.md', 'sikintilari-neler'): 'Oracle sistemlerinin sıkıntıları neler?',
+        ('305-the-graph.md', 'rakipleri-var-mi-gelecek-nasil-gorunuyor'): 'The Graph’in rakipleri var mı? Gelecek nasıl görünüyor?',
+        ('305-the-graph.md', 'sistem-nasil-calisiyor'): 'The Graph sistemi nasıl çalışıyor?',
+        ('305-the-graph.md', 'aktorler-kimler'): 'The Graph’in aktörleri kimler?',
+        ('305-the-graph.md', 'neden-para-konuyor-sisteme'): 'The Graph’te sisteme neden para konuyor?',
+        ('306-filecoin.md', 'sistem-nasil-calisiyor'): 'Filecoin sistemi nasıl çalışıyor?',
+        ('306-filecoin.md', 'rakipleri-var-mi'): 'Filecoin’in rakipleri var mı?',
+        ('307-aragon.md', 'nasil-calisiyor'): 'Aragon nasıl çalışıyor?',
+        ('407-defi-ile-neler-bekliyor.md', 'iyi-de-bu-urunleri-gercek-hayatta-kullanabilecek-miyiz'): "'İyi de DeFi ürünlerini gerçek hayatta kullanabilecek miyiz?'",
+        ('401-ilk-adimlar.md', 'defiya-girmeden-once-ilk-gereken-kriptoparaya-sahip-olmak'): 'DeFi’ye girmeden önce ilk gereken kriptoparaya sahip olmak',
+    },
+    'bc': {
+        # GEO batch B8 (owner-approved), ids kept
+        ('102-nedir-bu-blockchain.md', 'peki-gayet-guzel-yuruyen-bir-sistem-var-zaten-neden-buna-ihtiyac-var'): 'Peki gayet güzel yürüyen bir sistem var zaten, neden Blockchain’e ihtiyaç var?',
+        ('201-finans-dunyasi.md', 'baska-hangi-alanlar'): 'Finansta başka hangi alanlar?',
+        ('203-tedarik-zinciri.md', 'madem-bu-kadar-avantajli-neden-kullanilmiyor-hemen'): 'Madem Blockchain bu kadar avantajlı, neden kullanılmıyor hemen?',
+        ('205-cevre.md', 'mevcut-durumu-iyilestirmeye-yonelik-girisimler-var-mi'): 'Mevcut durumu iyileştirmeye yönelik Blockchain bazlı girişimler var mı?',
+        ('205-cevre.md', 'peki-ya-ezber-bozan-girisimler'): 'Peki ya ezber bozan Blockchain girişimleri?',
+        ('206-seyahat.md', 'baska-ne-tip-girisimler-var'): 'Seyahat alanında başka ne tip girişimler var?',
+        ('207-tahmin-piyasalari.md', 'zaten-hazirda-cozumler-var-neden-buna-ihtiyac-duyuluyor'): 'Zaten hazırda çözümler var, neden merkezi olmayan tahmin piyasalarına ihtiyaç duyuluyor?',
+        ('210-her-derde-deva.md', 'birkac-ornek-verelim-mi'): 'Genel ve özel Blockchain’lerden birkaç örnek verelim mi?',
+        ('210-her-derde-deva.md', 'peki-girisimciler-bu-konuda-ne-kadar-tecrubeli'): 'Peki girişimciler Blockchain konusunda ne kadar tecrübeli?',
+        ('302-kendi-basina-hareket.md', 'peki-bu-sistem-cok-maliyetli-degil-mi'): 'Peki bu uzlaşma sistemi çok maliyetli değil mi?',
+        ('302-kendi-basina-hareket.md', 'baska-ne-olabilir'): 'Uzlaşmada başka ne olabilir?',
+        ('303-uzlasma-mekanizmalari-neler.md', 'baska-ne-tip-alternatifleri-var'): 'PoW’un başka ne tip alternatifleri var?',
+        ('400-bolum-4.md', 'peki-kisa-vadede-neler-bekleniyor'): 'Peki Blockchain’de kısa vadede neler bekleniyor?',
+        ('506-liquid-network.md', 'var-mi-sakincalari'): 'Var mı Liquid’in sakıncaları?',
     },
     'tr': {
         ('201-ethereumun-ekonomisi-nasil-calisiyor.md', 'islem-gelirleri'): 'Ethereum’un işlem gelirleri',
@@ -1662,6 +1718,751 @@ class PrintedText:
         info['out'] = out
         self.pos = max(self.pos, be)
         return self.join(out), info
+# GEO batch B7/B8 (owner-approved): per-page fixes of the finished page text of the Sorularla DeFi ('df') and Sorularla
+# Blockchain ('bc') books: {book profile: {output file name: [(old, new, count), ...]}}. They are applied to each page after
+# everything else (links resolved, footnote definitions built, FN_OUT_CORRECTIONS done), in list order, to the body
+# Markdown, the footnote definitions and the front-matter description line (but not to title or heading). Each entry must
+# match exactly 'count' times (all three parts together) at the moment it is applied, or the converter exits non-zero
+# naming the entry; a page named here that is not generated is an error too. Order within a page: deletions, typos, the
+# consistency group (' -> ’ etc.), link removals (link dropped, text kept), link-target fixes, then content fixes.
+# Counts are those of the page text at that point (e.g. after a deletion). Figure alt text is HTML-escaped (&#x27; for ').
+PAGE_OUT_CORRECTIONS = {
+    'df': {
+        '101-blokzincirin-cikis-felsefesi.md': [
+            # typo
+            ('oniki', 'on iki', 1),
+            # consistency group
+            (' imkansızdı!', ' imkânsızdı!', 1),
+        ],
+        '102-finansi-nasil-etkileyecek.md': [
+            # typo
+            ('finans dünyasının nasıl etkileyeceğine', 'finans dünyasını nasıl etkileyeceğine', 2),
+            ('Blokzincirin teknolojisinin kullanmaya başlamasıyla', 'Blokzincir teknolojisinin kullanılmaya başlamasıyla', 1),
+            ('pr etkisinin', 'PR etkisinin', 1),
+            # consistency group
+            ("%80'inin", '%80’inin', 1),
+            ("2020'nin", '2020’nin', 1),
+            ("Bankası'nda", 'Bankası’nda', 1),
+            ("Facebook'tan", 'Facebook’tan', 1),
+            ("Facebook'un", 'Facebook’un', 1),
+            ("Libra'ya", 'Libra’ya', 1),
+            ("Marcus'u", 'Marcus’u', 1),
+            ("PayPal'ın", 'PayPal’ın', 1),
+            (' imkanı ', ' imkânı ', 1),
+            (' imkanına ', ' imkânına ', 1),
+            (' imkansız ', ' imkânsız ', 1),
+        ],
+        '104-definin-cikisi-nasil-oldu.md': [
+            # consistency group
+            ("2021'de", '2021’de', 1),
+            ("DeFi'ye", 'DeFi’ye', 1),
+            (')‘un', ')’un', 1),
+            # content fix
+            ('kazandıra taktikleri', 'kazandırma taktikleri', 1),
+        ],
+        '105-definin-temel-ozellikleri-neler.md': [
+            # typo
+            ('DeFi da ise', 'DeFi’de ise', 1),
+            ('DeFi’in temel ilkelerinden', 'DeFi’nin temel ilkelerinden', 1),
+            ('Buna en güzel örneğin 2020', 'Buna en güzel örneği 2020', 1),
+            ('UniSwap', 'Uniswap', 1),
+            # consistency group
+            (' tokenları ', ' tokenleri ', 2),
+            # link removed, text kept
+            ('[DAI](https://oasis.app/)', 'DAI', 1),
+            ('[SushiSwap](https://sushiswap.org/)', 'SushiSwap', 1),
+            # content fix
+            ('ETC türevi paralar', 'ETH türevi paralar', 1),
+        ],
+        '106-defide-yatirim-ve-girisimcilik.md': [
+            # typo
+            ('kullanımın artması', 'kullanımının artması', 2),
+            ('imkânınına', 'imkânına', 1),
+            ('bir kaç', 'birkaç', 1),
+            # consistency group
+            ("DeFi'de", 'DeFi’de', 1),
+            ("ICO'lar", 'ICO’lar', 1),
+            (' tokenları ', ' tokenleri ', 1),
+        ],
+        '107-basarinin-sirri-topluluk.md': [
+            # typo
+            ('topluluğu dağıtma', 'topluluğa dağıtma', 1),
+            # consistency group
+            (' Websitesini ', ' Web sitesini ', 1),
+            # content fix
+            ('2020 yılının bahar aylarında Compound ile', '2020 yılının yaz aylarında Compound ile', 1),
+        ],
+        '108-nasil-merkeziyetsiz.md': [
+            # consistency group
+            ("ICO'larda", 'ICO’larda', 1),
+            ("İngilizce'de", 'İngilizce’de', 1),
+            (' tokenları ', ' tokenleri ', 1),
+            (' tokenlara ', ' tokenlere ', 1),
+        ],
+        '109-peki-ya-definin-riskleri.md': [
+            # typo
+            ('anlamında ki risk', 'anlamındaki risk', 1),
+            ('teminatının likidite olmasını', 'teminatının likide edilmesini', 1),
+            # consistency group
+            ("2021'de", '2021’de', 1),
+            ("DeFi'nin", 'DeFi’nin', 1),
+            ("Uniswap'ın", 'Uniswap’ın', 1),
+            (' imkanı ', ' imkânı ', 1),
+            (' websitelerinden ', ' web sitelerinden ', 1),
+            # content fix
+            ('Öncelikle, bir önceki bölümde bahsettiğimiz;', 'Öncelikle, daha önceki bölümlerde bahsettiğimiz;', 1),
+        ],
+        '110-defide-regulasyon-olur-mu.md': [
+            # typo
+            ('durumundasınıız', 'durumundasınız', 1),
+            ('getiremeye', 'getirmeye', 1),
+            ('prunning regulations', 'pruning regulations', 1),
+            # consistency group
+            ("DeFi'nin", 'DeFi’nin', 1),
+            (' hale ', ' hâle ', 1),
+            (' tokenlarına ', ' tokenlerine ', 1),
+            # typo (owner-approved guess)
+            ('Dar kapsamlı ya da belli bir sınırın olarak lisans alma', 'Dar kapsamlı ya da sınırlı olarak lisans alma', 1),
+        ],
+        '111-dijitallesme-gelecek.md': [
+            # typo
+            ('kimi yenliklerin', 'kimi yeniliklerin', 1),
+            ('bir kaç on yıldır', 'birkaç on yıldır', 1),
+            ('nimetlerden olabildiğince', 'nimetlerinden olabildiğince', 1),
+            ('alt="_Image by Gerd Altmann from _Pixabay"', 'alt="Image by Gerd Altmann from Pixabay"', 1),
+            ('<figcaption>_Image by', '<figcaption>Image by', 1),
+            ('Gerd Altmann</a> from _<a', 'Gerd Altmann</a> from <a', 1),
+            # consistency group
+            ("DAO'lar", 'DAO’lar', 1),
+        ],
+        '201-defi-dunyasinda-neler-var.md': [
+            # typo
+            ('bulanan', 'bulunan', 1),
+            ('özelikleri', 'özellikleri', 1),
+            # consistency group
+            ("64'e", '64’e', 1),
+            ("DeFi'nin", 'DeFi’nin', 2),
+            ("Ethereum'un", 'Ethereum’un', 1),
+            ("İngilizce'de", 'İngilizce’de', 1),
+        ],
+        '202-makerdao.md': [
+            # typo
+            ('kaşılamak', 'karşılamak', 1),
+            ('150%’sini', '%150’sini', 1),
+            # consistency group
+            ("%150'nin", '%150’nin', 1),
+            ("Dai'yi", 'Dai’yi', 1),
+            ("Doları'na", 'Doları’na', 1),
+            ("ETH'nin", 'ETH’nin', 1),
+            ("ETH'sine", 'ETH’sine', 1),
+            ("ETH'yi", 'ETH’yi', 1),
+            ("MakerDAO'nun", 'MakerDAO’nun', 2),
+            (')‘nı', ')’nı', 1),
+            (' hale ', ' hâle ', 1),
+            # link removed, text kept
+            ("['sağlam' sayılan kriptoparaları](https://oasis.app/borrow)", "'sağlam' sayılan kriptoparaları", 1),
+            ('[%13 gibi bir ceza](https://oasis.app/borrow/vaults/open/ETH-C)', '%13 gibi bir ceza', 1),
+            ('[liquidation fee](https://community-development.makerdao.com/en/learn/vaults/liquidation/)', 'liquidation fee', 1),
+            ('[dış denetimler de var](https://security.makerdao.com/audit-reports)', 'dış denetimler de var', 1),
+            ('<a href="https://oasis.app/borrow">MakerDAO</a>', 'MakerDAO', 1),
+        ],
+        '203-compound.md': [
+            # typo
+            ('sisteminine', 'sistemine', 1),
+            ('elde şirketler için', 'elde eden şirketler için', 1),
+            # consistency group
+            ("%1'den", '%1’den', 1),
+            ("Aave'nin", 'Aave’nin', 1),
+            ("Compound'un", 'Compound’un', 1),
+            ("DeFi'nin", 'DeFi’nin', 2),
+            ("İngilizce'de", 'İngilizce’de', 1),
+            (')‘a', ')’a', 1),
+            (')‘in', ')’in', 1),
+            (' imkanı ', ' imkânı ', 1),
+            # link removed, text kept
+            ('[Dai](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/dai)', 'Dai', 1),
+            ('[MKR](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/mkr-token)', 'MKR', 1),
+            ('[şartıyla dağıtmaya başladı](https://defirate.com/futureswap-launches/)', 'şartıyla dağıtmaya başladı', 1),
+            # content fix
+            ('mevduat sahipleri ile kredi verenler arasında', 'mevduat sahipleri ile kredi alanlar arasında', 1),
+        ],
+        '204-uniswap.md': [
+            # typo
+            ('Unsiwap', 'Uniswap', 2),
+            ('UniSwap', 'Uniswap', 2),
+            ('satankişiye', 'satan kişiye', 1),
+            ('kulandırır', 'kullandırır', 1),
+            ('Haydan Adams', 'Hayden Adams', 2),
+            ('Stablswap', 'StableSwap', 1),
+            ('kaydı.Bunun', 'kaydı. Bunun', 1),
+            ('.. Bir anda', '. Bir anda', 1),
+            ('0.3% komisyon', '%0.3 komisyon', 1),
+            # consistency group
+            ("ETH'yi", 'ETH’yi', 1),
+            ("Uniswap'ı", 'Uniswap’ı', 4),
+            ("İngilizce'de", 'İngilizce’de', 1),
+            (' hale ', ' hâle ', 1),
+            (' tokenları ', ' tokenleri ', 1),
+            # link removed, text kept
+            ('[bir havuz var](https://pools.balancer.exchange/#/pool/0x9b208194acc0a8ccb2a8dcafeacfbb7dcc093f81/)', 'bir havuz var', 1),
+            ('[Optimism](https://optimism.io/demos)', 'Optimism', 1),
+            ('[Holaswap](https://bsc.holaswap.org/#/swap)', 'Holaswap', 1),
+            ('[kopyaladı](https://binancesocial.com/forked-dex-on-binance-chain-tests-uniswap-legal-limits-05131630)', 'kopyaladı', 1),
+            ('[Uniswap sitesindeki şu linkte bulabilirsiniz](https://uniswap.org/docs/v2/advanced-topics/understanding-returns/)', 'Uniswap sitesindeki şu linkte bulabilirsiniz', 1),
+            # typo (owner-approved guess)
+            ('otomatik para yapıcı sistemin', 'otomatik piyasa yapıcı sistemin', 1),
+            ('otomatik para yapıcının', 'otomatik piyasa yapıcının', 1),
+        ],
+        '205-yearn-finance.md': [
+            # deletion
+            (' Hatta bununla ilgili [Güney Afrika’da açılmış davalar olduğu söyleniyor](https://unchainedpodcast.com/why-bitcoin-now-meltem-demirors-and-lyn-alden-on-the-perfect-conditions-for-bitcoin/).', '', 1),
+            # typo
+            ('bir kaç belirlenmiş', 'birkaç belirlenmiş', 1),
+            ('sarfetmek', 'sarf etmek', 1),
+            ('Açıkcası', 'Açıkçası', 1),
+            ('heaplanır', 'hesaplanır', 1),
+            ('ABD Dolar’a yakın', 'ABD Doları’na yakın', 1),
+            # consistency group
+            ("Curve'ün", 'Curve’ün', 1),
+            ("Ravikant'a", 'Ravikant’a', 1),
+            ("İngilizce'de", 'İngilizce’de', 1),
+            (')‘den', ')’den', 1),
+            (')‘nun', ')’nun', 2),
+            (' imkanına ', ' imkânına ', 1),
+            (' tokenları ', ' tokenleri ', 1),
+            # link removed, text kept
+            ('[Earn](https://v1.yearn.finance/earn)', 'Earn', 1),
+            ('[sUSD](https://www.coingecko.com/en/coins/susd)', 'sUSD', 1),
+            ('[yInsure](https://yinsure.finance/)', 'yInsure', 1),
+            ('[Cover](https://yinsure.finance/)', 'Cover', 1),
+            ('[Aave](https://app.aave.com/home)', 'Aave', 1),
+        ],
+        '206-synthetix.md': [
+            # typo
+            ('inverse-kriptoparalar..', 'inverse-kriptoparalar.', 1),
+            ('iki seçecek var', 'iki seçenek var', 1),
+            ('yükseleceğin düşünüp', 'yükseleceğini düşünüp', 1),
+            ('getirici çiftçiliği', 'getiri çiftçiliği', 1),
+            # consistency group
+            ("%600'e", '%600’e', 1),
+            ("Doları'na", 'Doları’na', 1),
+            ("Synthetix'e", 'Synthetix’e', 1),
+            ("İngilizce'de", 'İngilizce’de', 1),
+            (')‘i', ')’i', 1),
+            # link removed, text kept
+            ('[Synthetix](https://www.synthetix.io/community)', 'Synthetix', 1),
+            ('[bu bağlantıda](https://www.coingecko.com/en/coins/susd)', 'bu bağlantıda', 1),
+            ('[71 adet ürün](https://dashboard.synthetix.io/)', '71 adet ürün', 1),
+            ('<a href="https://dashboard.synthetix.io/">Kaynak</a>', 'Kaynak', 1),
+        ],
+        '207-hegic.md': [
+            # typo
+            ('farkedilen', 'fark edilen', 1),
+            ('hiç bir zararınız', 'hiçbir zararınız', 1),
+            # consistency group
+            ("DeFi'nin", 'DeFi’nin', 2),
+            ("İngilizce'de", 'İngilizce’de', 3),
+            (' imkanınız ', ' imkânınız ', 1),
+            (' hale ', ' hâle ', 1),
+            # link removed, text kept
+            ('[0molly Wintermut3](https://turansert.com/genel/2021/01/26/@0mllwntrmt3)', '0molly Wintermut3', 1),
+        ],
+        '208-nexus-mutual.md': [
+            # typo
+            ('kullanıcının için', 'kullanıcı için', 1),
+            # consistency group
+            ("Nexus'u", 'Nexus’u', 1),
+            ("İngilizce'de", 'İngilizce’de', 1),
+            ('yEarn', 'Yearn', 2),
+            # link removed, text kept
+            ('[seçmeleri](https://app.nexusmutual.io/cover/buy/select-contract)', 'seçmeleri', 1),
+            ('[Nexus’a kulak vermekte fayda var](https://bankless.substack.com/p/how-to-assess-the-risk-of-lending)', 'Nexus’a kulak vermekte fayda var', 1),
+            ('[yInsure](https://yinsure.finance/)', 'yInsure', 1),
+            ('[Avrupa Birliği’nin yeterlilik standartlarına](https://www.eiopa.europa.eu/browse/solvency-ii/solvency-ii-background_en#Arisk-basedregulatoryframework)', 'Avrupa Birliği’nin yeterlilik standartlarına', 1),
+            ('[bzX sistemindeki bir açıktan dolayı oluşan hasarda](https://bzx.network/blog/postmortem-ethdenver)', 'bzX sistemindeki bir açıktan dolayı oluşan hasarda', 1),
+            ('[Bu 2020 Ekim aylarında 200 bin ETH (yaklaşık 75 milyon ABD Doları) seviyesinde](https://nexustracker.io/capital_pool)', 'Bu 2020 Ekim aylarında 200 bin ETH (yaklaşık 75 milyon ABD Doları) seviyesinde', 1),
+        ],
+        '301-ethereum.md': [
+            # typo
+            ('Toplululuk', 'Topluluk', 1),
+            ('Amerikanın', 'Amerika’nın', 1),
+            ('Etherin 2021', 'Ether’in 2021', 1),
+            ('boşverin', 'boş verin', 1),
+            ('Ethereum 2.0. denen', 'Ethereum 2.0 denen', 1),
+            ('Bir kaç', 'Birkaç', 1),
+            # consistency group
+            ("Ethereum'un", 'Ethereum’un', 3),
+            # link removed, text kept
+            ('[1 Aralık 2020 itibariyle düğmeye basıldı](https://www.btchaber.com/ethereum-2-0a-yatirilan-miktar-1-milyona-ulasti/)', '1 Aralık 2020 itibariyle düğmeye basıldı', 1),
+            ('[500 bin ETH bir ödül](https://docs.ethhub.io/ethereum-basics/monetary-policy/#proof-of-stake-impact)', '500 bin ETH bir ödül', 1),
+            # typo (owner-approved guess)
+            ('Bu bölümümüzde', 'Bu bölümde', 1),
+        ],
+        '302-ethereum-ve-rakipleri.md': [
+            # typo
+            ('geliştici ', 'geliştirici ', 1),
+            ('sayılarına artırsalar', 'sayılarını artırsalar', 1),
+            ('defacto', 'de facto', 1),
+            # consistency group
+            ("100'den", '100’den', 3),
+            ("100'ün", '100’ün', 1),
+            ("Ethereum'a", 'Ethereum’a', 1),
+            # content fix
+            ('[Polkadot](https://polkadot.network/), [Cardano](https://cardano.org/) ve [Avalanche](https://www.avalabs.org/); başlangıçta Ethereum’u', '[Polkadot](https://polkadot.network/) ve [Cardano](https://cardano.org/); başlangıçta Ethereum’u', 1),
+            ('Polkadot ve Avalanche gerek işlev', 'Polkadot ve [Avalanche](https://www.avalabs.org/) gerek işlev', 1),
+            ('2020 Kasım ayında başlayan ETH 2.0’in', '2020 Aralık ayında başlayan ETH 2.0’in', 1),
+            # typo (owner-approved guess)
+            ('Emin Gür Sirer', 'Emin Gün Sirer', 1),
+            # figure alt and caption
+            ('alt="Geliştirici sayısı 100&#x27;den fazla olan platformların bir yıl içindeki değişimi (Kaynak: Electric Capital Developer Report Sayfa 90)"', 'alt="Geliştirici sayısı 100’den az olan platformların bir yıl içindeki değişimi (Kaynak: Electric Capital Developer Report Sayfa 90)"', 1),
+            ('<figcaption>Geliştirici sayısı 100’den fazla olan platformların bir yıl içindeki değişimi (Kaynak: <a href="https://medium.com/electric-capital/electric-capital-developer-report-2020-9417165c6444">Electric Capital Developer Report</a> Sayfa 90)</figcaption>', '<figcaption>Geliştirici sayısı 100’den az olan platformların bir yıl içindeki değişimi (Kaynak: <a href="https://medium.com/electric-capital/electric-capital-developer-report-2020-9417165c6444">Electric Capital Developer Report</a> Sayfa 90)</figcaption>', 1),
+        ],
+        '304-nedir-oracle.md': [
+            # typo
+            ('yaşadıği', 'yaşadığı', 1),
+            ('direkt temasa etmeseler', 'direkt temas etmeseler', 1),
+            ('ödediler(pdf)', 'ödediler (pdf)', 1),
+            # consistency group
+            (')‘den', ')’den', 1),
+            (')‘in', ')’in', 2),
+            ('[websitesini]', '[web sitesini]', 1),
+            (' tokenları ', ' tokenleri ', 1),
+            # link removed, text kept
+            ('[Nest](https://nestdapp.io/)', 'Nest', 1),
+            ('[2.5 milyon ABD Doları işlem ücreti ödediler (pdf)](https://static.coindesk.com/wp-content/uploads/2020/10/Huobi-DeFiLabs-Price-Oracle-A-Must-Have-Infrastructure-Oct-8-2020.pdf)', '2.5 milyon ABD Doları işlem ücreti ödediler (pdf)', 1),
+            ('[Nest Protocol](https://nestdapp.io/)', 'Nest Protocol', 1),
+            ('[DOS Network](https://dos.network/)', 'DOS Network', 1),
+            ('[bZx](https://bzx.network/)', 'bZx', 1),
+            # link target fixed
+            ('https://turansert.com/genel/2018/07/13/gelecegi-tahmin-i%C3%A7in-blockchain.html', 'https://turansert.com/genel/2018/07/13/gelecegi-tahmin-icin-blockchain.html', 1),
+        ],
+        '305-the-graph.md': [
+            # typo
+            ('The Graph’ın', 'The Graph’in', 1),
+            # consistency group
+            ("DeFi'nin", 'DeFi’nin', 1),
+        ],
+        '306-filecoin.md': [
+            # typo
+            ('pazar yerlerlerine', 'pazar yerlerine', 1),
+            ('merkeziyesizlik', 'merkeziyetsizlik', 1),
+            ('Stroj', 'Storj', 1),
+            ('‘kopyala’ yı', '‘kopyala’yı', 1),
+            ('AndreessenHorowitz', 'Andreessen Horowitz', 1),
+            # consistency group
+            ("2021'de", '2021’de', 1),
+            ("Filecoin'in", 'Filecoin’in', 1),
+        ],
+        '307-aragon.md': [
+            # typo
+            ('Autonomus', 'Autonomous', 1),
+            ('Wordpress', 'WordPress', 1),
+            ('gidebiliyorlar .(Yalnız', 'gidebiliyorlar. (Yalnız', 1),
+            # consistency group
+            ('n‘a', 'n’a', 1),
+            (')‘a', ')’a', 1),
+            # link removed, text kept
+            ('[Aragon üzerinde kurulmuş 1,700’ün üzerinde DAO](https://poweredby.aragon.org/)', 'Aragon üzerinde kurulmuş 1,700’ün üzerinde DAO', 1),
+            ('[Aragon blog sayfasından](https://blog.aragon.one/aragon-agreements/)', 'Aragon blog sayfasından', 1),
+        ],
+        '308-stabil-paralar.md': [
+            # typo
+            ('dalganan', 'dalgalanan', 1),
+            ('sıkıntı ise', 'sıkıntısı ise', 1),
+            ('endikatör', 'indikatör', 1),
+            ('Venezüela', 'Venezuela', 1),
+            ("Bank'da", 'Bank’ta', 1),
+            # consistency group
+            ("2021'de", '2021’de', 1),
+            ("Bahamalar'da", 'Bahamalar’da', 1),
+            ("Doları'nın", 'Doları’nın', 1),
+            ("Tether'e", 'Tether’e', 1),
+            ("Tether'in", 'Tether’in', 1),
+            ("USDC'yi", 'USDC’yi', 1),
+            (' hale ', ' hâle ', 3),
+            # link removed, text kept
+            ('[benzerlik](https://blog.havven.io/we-need-a-decentralised-stablecoin-b3e13346c74f)', 'benzerlik', 1),
+            # link target fixed
+            ('https://https/en.wikipedia.org/wiki/Executive_Order_6102', 'https://en.wikipedia.org/wiki/Executive_Order_6102', 1),
+            # content fix
+            ('100 AMPL x 0.5 cent = 50', '100 AMPL x 0.5 ABD doları (50 cent) = 50', 1),
+            ('50 AMPL x 0.5 cent = 25', '50 AMPL x 0.5 ABD doları (50 cent) = 25', 1),
+            ('1.5 AMP x 1.5', '1.5 AMPL x 1.5', 1),
+        ],
+        '401-ilk-adimlar.md': [
+            # typo
+            ('blok zinciri', 'blokzinciri', 1),
+        ],
+        '402-elektronik-cuzdan.md': [
+            # typo
+            ('Apple Store', 'App Store', 1),
+            # consistency group
+            (' websitesinden ', ' web sitesinden ', 1),
+            # typo (owner-approved guess)
+            ('hızlıca işlem yapabilin.', 'hızlıca işlem yapabilesiniz.', 1),
+        ],
+        '403-token-satin-alma.md': [
+            # typo
+            ('açıkcası', 'açıkçası', 1),
+            ('sarfetmeyen', 'sarf etmeyen', 1),
+            ('değişimleri değişimi', 'değişimleri', 2),
+            ('MayoFifrom', 'MayoFi from', 1),
+            # consistency group
+            (' tokenları ', ' tokenleri ', 1),
+            # content fix
+            ('O zaman istikamet Merkeziyetsiz borsalar,', 'O zaman istikamet merkeziyetsiz borsalar.', 1),
+        ],
+        '404-islem-yaparken-dikkat.md': [
+            # typo (owner-approved guess)
+            ('seçeceğin', 'seçeneğin', 1),
+            ('bu blok içinde girebilmek', 'bu bloğa girebilmek', 1),
+        ],
+        '405-borsalari-birlikte-kullanmak.md': [
+            # typo
+            ('işleminin gerçekleştirmek', 'işlemini gerçekleştirmek', 1),
+            ('1inch’den', '1inch’ten', 1),
+            ('bir takım', 'birtakım', 1),
+            # content fix
+            ('2020 Mart ayı içinde', '2021 Mart ayı içinde', 1),
+        ],
+        '406-portfoy-takibi.md': [
+            # typo
+            ('kulanabilir', 'kullanabilir', 1),
+            ('kulanmak', 'kullanmak', 1),
+            ('sisteye', 'sisteme', 1),
+            ('özelikle', 'özellikle', 1),
+            ('bir kaç', 'birkaç', 1),
+            # typo (owner-approved guess)
+            ('prensipten hareketler', 'prensipten hareketle', 1),
+        ],
+        '407-defi-ile-neler-bekliyor.md': [
+            # typo
+            ('bunu zaten uzun yıllardır', 'bu zaten uzun yıllardır', 1),
+        ],
+    },
+    'bc': {
+        '101-dalganin-farkinda-miyiz.md': [
+            # consistency group
+            ('âdem-i merkeziyetçi', 'adem-i merkeziyetçi', 1),
+            ('âdem-i merkezi ', 'adem-i merkezi ', 1),
+        ],
+        '102-nedir-bu-blockchain.md': [
+            # typo
+            ('anca birbirlerine', 'ancak birbirlerine', 1),
+            # consistency group
+            ("%30'larda", '%30’larda', 1),
+        ],
+        '201-finans-dunyasi.md': [
+            # typo
+            ('anti-moneylaundry', 'anti-money-laundering', 1),
+            ('Decentralized Finance’nin', 'Decentralized Finance’in', 1),
+            # consistency group
+            ('Maker DAO', 'MakerDAO', 1),
+            # link removed, text kept
+            ('[bZx](https://b0x.network/)', 'bZx', 1),
+            ('[8x Protocol](https://8xprotocol.com/)', '8x Protocol', 1),
+        ],
+        '202-finans-dunyasindan-ornekler-neler.md': [
+            # typo
+            ('Collaterized', 'Collateralized', 1),
+            ('bir dağıtık bir sistem', 'dağıtık bir sistem', 1),
+            ('Akıllı Kontratları kullanılıyor', 'Akıllı Kontratlar kullanılıyor', 1),
+            # consistency group
+            ('DAI’yi', 'Dai’yi', 1),
+        ],
+        '203-tedarik-zinciri.md': [
+            # typo
+            ('yalnıza', 'yalnızca', 1),
+            ('düşününün', 'düşünün', 1),
+            # link removed, text kept
+            ('[açıkladı](https://newfoodeconomy.org/blockchain-food-traceability-walmart-ibm/)', 'açıkladı', 1),
+            ('[https://newfoodeconomy.org/blockchain-food-traceability-walmart-ibm/](https://newfoodeconomy.org/blockchain-food-traceability-walmart-ibm/)', 'https://newfoodeconomy.org/blockchain-food-traceability-walmart-ibm/', 1),
+        ],
+        '204-saglik.md': [
+            # typo
+            ('kayıtlarını tutarlılığı', 'kayıtlarının tutarlılığı', 1),
+            # link removed, text kept
+            ('[Philips Blockchain Labs](http://www.2.forms.healthcare.philips.com/blockchainlabs)', 'Philips Blockchain Labs', 1),
+            ('[http://www.2.forms.healthcare.philips.com/blockchainlabs](http://www.2.forms.healthcare.philips.com/blockchainlabs)', 'http://www.2.forms.healthcare.philips.com/blockchainlabs', 1),
+        ],
+        '205-cevre.md': [
+            # typo
+            ('Bunu sorunu', 'Bu sorunu', 1),
+            ('mekanizmalarını kurulmalı', 'mekanizmaları kurulmalı', 1),
+            ('sensorlar', 'sensörler', 1),
+            ('Enerji Blockchain Labs', 'Energy Blockchain Labs', 1),
+            # consistency group
+            (' karlı ', ' kârlı ', 2),
+            # link removed, text kept
+            ('[Brooklyn MicroGrid Project](https://www.brooklyn.energy/)', 'Brooklyn MicroGrid Project', 1),
+            ('[planlıyor](https://www.ibm.com/case-studies/energy-blockchain-labs-inc)', 'planlıyor', 1),
+            ('[https://www.brooklyn.energy/](https://www.brooklyn.energy/)', 'https://www.brooklyn.energy/', 1),
+            ('[https://www.ibm.com/case-studies/energy-blockchain-labs-inc](https://www.ibm.com/case-studies/energy-blockchain-labs-inc)', 'https://www.ibm.com/case-studies/energy-blockchain-labs-inc', 1),
+        ],
+        '206-seyahat.md': [
+            # typo
+            ('Chang Rai', 'Chiang Rai', 1),
+            ('herşey', 'her şey', 1),
+            ('ödemlerine', 'ödemelerine', 1),
+            # consistency group
+            ("%5'i", '%5’i', 1),
+            ("%65'i", '%65’i', 1),
+            # link removed, text kept
+            ('[ETH Travel](https://ethtravel.io/)', 'ETH Travel', 1),
+            ('[pek çok proje](http://www.iata.org/whatwedo/stb/Pages/index.aspx)', 'pek çok proje', 1),
+            ('[https://ethtravel.io/](https://ethtravel.io/)', 'https://ethtravel.io/', 1),
+            ('[http://www.iata.org/whatwedo/stb/Pages/index.aspx](http://www.iata.org/whatwedo/stb/Pages/index.aspx)', 'http://www.iata.org/whatwedo/stb/Pages/index.aspx', 1),
+            # content fix
+            ('Daha önceki “Değişen Dünyada Girişimcilik” bölümümüzde', 'Daha önceki “ICO ve Token Dünyası” bölümümüzde', 1),
+        ],
+        '207-tahmin-piyasalari.md': [
+            # typo
+            ('piece of mind', 'peace of mind', 1),
+            ('Augurun', 'Augur’un', 1),
+            # link removed, text kept
+            ('[Bodhi](https://www.bodhi.network/)', 'Bodhi', 2),
+            ('[https://www.bodhi.network/](https://www.bodhi.network/)', 'https://www.bodhi.network/', 2),
+            # content fix
+            ('merkezi platformlara göre çok daha maliyetli olduğunu', 'merkezi platformlara göre çok daha avantajlı olduğunu', 1),
+        ],
+        '208-sosyal-fayda.md': [
+            # consistency group
+            ("Filipinler'den", 'Filipinler’den', 1),
+            # link removed, text kept
+            ('[cevap bulmaya](http://altfinlab.org/blog/serbia-sending-remittances-from-serbian-diaspora-to-the-city-of-nis-beneficiaries)', 'cevap bulmaya', 1),
+            ('[Altfinlab](http://altfinlab.org/blog/serbia-sending-remittances-from-serbian-diaspora-to-the-city-of-nis-beneficiaries)', 'Altfinlab', 1),
+            ('[mobil telefon alınmasından](http://www.bitgivefoundation.org/medic-mobile-campaign/)', 'mobil telefon alınmasından', 1),
+            ('[http://altfinlab.org/blog/serbia-sending-remittances-from-serbian-diaspora-to-the-city-of-nis-beneficiaries](http://altfinlab.org/blog/serbia-sending-remittances-from-serbian-diaspora-to-the-city-of-nis-beneficiaries)', 'http://altfinlab.org/blog/serbia-sending-remittances-from-serbian-diaspora-to-the-city-of-nis-beneficiaries', 2),
+            ('[http://www.bitgivefoundation.org/medic-mobile-campaign/](http://www.bitgivefoundation.org/medic-mobile-campaign/)', 'http://www.bitgivefoundation.org/medic-mobile-campaign/', 1),
+        ],
+        '209-sanat.md': [
+            # typo
+            ('Sportify', 'Spotify', 1),
+            ('Anderseen Horowitz', 'Andreessen Horowitz', 1),
+            ('Ujo Platormu', 'Ujo Platformu', 1),
+            # consistency group
+            (']‘nu', ']’nu', 1),
+            # link removed, text kept
+            ('[Ujo Platformu](https://ujomusic.com/)', 'Ujo Platformu', 1),
+            ('[Ujo Music](https://www.ujomusic.com/portal/musicgroup/18)', 'Ujo Music', 1),
+            ('[https://ujomusic.com/](https://ujomusic.com/)', 'https://ujomusic.com/', 1),
+            ('[https://www.ujomusic.com/portal/musicgroup/18](https://www.ujomusic.com/portal/musicgroup/18)', 'https://www.ujomusic.com/portal/musicgroup/18', 1),
+        ],
+        '210-her-derde-deva.md': [
+            # typo
+            ('Blockchain’ ihtiyaç duyulmayan', 'Blockchain’e ihtiyaç duyulmayan', 1),
+        ],
+        '211-sektore-yarar-mi.md': [
+            # typo
+            ('Blokchain’e', 'Blockchain’e', 1),
+            ('Verilen geliyor', 'Veri geliyor', 1),
+            ('onlar hatta yüzlerce', 'onlarca hatta yüzlerce', 1),
+            ('dokumak', 'dokunmak', 1),
+            ('ilgiyi artıyor', 'ilgiyi artırıyor', 1),
+            ('makinada', 'makinede', 1),
+            ('makinayı', 'makineyi', 1),
+            ('makina tarafından', 'makine tarafından', 1),
+            # consistency group
+            ("%30'lara", '%30’lara', 1),
+            ("200'den", '200’den', 1),
+            ("30'dan", '30’dan', 1),
+            (' karlar ', ' kârlar ', 1),
+            (' karlarını ', ' kârlarını ', 1),
+            # link removed, text kept
+            ('[To Blockchain or Not to Blockchain](https://medium.com/causys/to-blockchain-or-not-to-blockchain-aed05bf08150)', 'To Blockchain or Not to Blockchain', 1),
+            ('[https://medium.com/causys/to-blockchain-or-not-to-blockchain-aed05bf08150](https://medium.com/causys/to-blockchain-or-not-to-blockchain-aed05bf08150)', 'https://medium.com/causys/to-blockchain-or-not-to-blockchain-aed05bf08150', 1),
+            # figure alt text
+            ('<img src="/assets/books/sorularla-blockchain/211-2.png" alt="" width', '<img src="/assets/books/sorularla-blockchain/211-2.png" alt="Blockchain’e ihtiyacım var mı sorusunun karar şeması" width', 1),
+        ],
+        '212-degisen-girisimcilik-ve-yatirimcilik.md': [
+            # consistency group
+            ("0'da", '0’da', 1),
+            ("0'in", '0’in', 1),
+            ("2000'lerin", '2000’lerin', 2),
+            ("2010'ların", '2010’ların', 1),
+            ("90'lar", '90’lar', 1),
+            (' karlarını ', ' kârlarını ', 1),
+            # typo (owner-approved guess)
+            ('inanır ise yatırımcılara para verirler', 'inanır ise girişimcilere para verirler', 1),
+        ],
+        '213-ico-ve-token-dunyasi.md': [
+            # typo
+            ('çatışını', 'çatısını', 1),
+            ('Token’in değeri', 'Token’ın değeri', 1),
+            ('güce bir nevi yakıta', 'güce, bir nevi yakıta', 1),
+        ],
+        '301-sifreleme.md': [
+            # deletion
+            ('Para ya da başka dijital varlığın Blockchain ile aktarılmasında da işte yukarıdaki sistem kullanılıyor.\n\n\\- Özel Anahtar ile bana ait olan bir varlığı bir başkasına gönderiyorum, paranın benim bakiyemde olduğu ve bu gönderdiğim paranın miktarını herkes görüyor. (ki kanıtlama işlemine Dijital (ya da Sayısal) İmza deniyor).\n\n• Ama aynı zamanda gönderdiğim kişinin Genel Anahtar’ını da ekliyorum ki, hem diğer insanlar o kişinin Genel Anahtarını kullanarak parayı gerçekten ona gönderdiğimi görebilisinler, hem de o kişi sonra bu anahtara uyumlu kendi Özel Anahtarı’ını kullanarak bu parayı sahiplenebilsin ve başkalarına gönderebilirsin.\n\n• Öğütme sayesinde ise bu bakiyenin bana ait olduğunu gizleyebiliyorum.\n\n', '', 1),
+            # typo
+            ('görebilisinler', 'görebilsinler', 1),
+            ('Özel Anahtarı’ını', 'Özel Anahtarı’nı', 1),
+            ('civari', 'civarı', 1),
+            ('söyle çalışıyor', 'şöyle çalışıyor', 1),
+            ('değişti!.', 'değişti!', 1),
+            ('öğütme\u200a ne kadar', 'öğütme ne kadar', 1),
+            # content fix
+            ('2021’de 6,25’e inecek', '2020’de 6,25’e inecek', 1),
+            ('İşte tam bu sırada 90’ların sonunda Satoshi Nakamoto', 'İşte tam bu sırada 2008’de Satoshi Nakamoto', 1),
+            # typo (owner-approved guess)
+            ('başkalarına gönderebilirsin.', 'başkalarına gönderebilsin.', 1),
+        ],
+        '302-kendi-basina-hareket.md': [
+            # consistency group
+            ("%51'ini", '%51’ini', 1),
+            (']‘yu', ']’yu', 1),
+            # typo (owner-approved guess)
+            ('İki farklı dal ürüyor', 'İki farklı dal türüyor', 1),
+        ],
+        '303-uzlasma-mekanizmalari-neler.md': [
+            # typo
+            ('((Bitcoin kazanmak', '(Bitcoin kazanmak', 1),
+            ('Proofof-Stake’i', 'Proof-of-Stake’i', 1),
+            ('teyid', 'teyit', 1),
+            ('DeligatedByzantineFaultTolerance', 'DelegatedByzantineFaultTolerance', 1),
+            # consistency group
+            ("%51'ini", '%51’ini', 2),
+            (' imkanı ', ' imkânı ', 1),
+            # typo (owner-approved guess)
+            ('IOTW', 'IOTA', 1),
+        ],
+        '400-bolum-4.md': [
+            # deletion
+            ('[https://unsplash.com/@daria\\_shevtsova?utm\\_source=unsplash&utm\\_medium=referral&utm\\_content=creditCopyText](https://unsplash.com/@daria_shevtsova?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)', '', 1),
+            # typo
+            ('20172018', '2017–2018', 1),
+            ('birbilerini', 'birbirlerini', 1),
+            ('Interoperatibility', 'Interoperability', 1),
+            ('sarfettiler', 'sarf ettiler', 1),
+            ('bir çoğu', 'birçoğu', 1),
+            ('teyid', 'teyit', 3),
+            ('bir modelden çok birden fazla kullanışlı model', 'Tek bir modelden çok birden fazla kullanışlı model', 1),
+            # consistency group
+            ("0'ın", '0’ın', 1),
+            ("2000'ler", '2000’ler', 1),
+            ("2018'de", '2018’de', 1),
+            ("2019'a", '2019’a', 1),
+            ("ABD'de", 'ABD’de', 2),
+            ("Blockchain'im", 'Blockchain’im', 1),
+            ("Blockchain'in", 'Blockchain’in', 5),
+            ("Blockchain'ler", 'Blockchain’ler', 5),
+            ("CryptoKitty'ler", 'CryptoKitty’ler', 2),
+            ("Ethereum'a", 'Ethereum’a', 1),
+            ("Ethereum'un", 'Ethereum’un', 3),
+            ("MakerDAO'nun", 'MakerDAO’nun', 2),
+            (' imkanları ', ' imkânları ', 1),
+        ],
+        '501-bitcoin-ne-tam-olarak.md': [
+            # typo
+            ('((Bu arada', '(Bu arada', 1),
+            # consistency group
+            ("300'ü", '300’ü', 1),
+            # link removed, text kept
+            ('[var](https://99bitcoins.com/obituary-stats/)', 'var', 1),
+            ('[https://99bitcoins.com/obituary-stats/](https://99bitcoins.com/obituary-stats/)', 'https://99bitcoins.com/obituary-stats/', 1),
+            ('<a href="http://www.bitcoinuptime.com">www.bitcoinuptime.com</a>', 'www.bitcoinuptime.com', 1),
+        ],
+        '502-bitcoin-para-mi-gercekten.md': [
+            # typo
+            ('kripto paralar üzerine bir hayli vakit', 'Kripto paralar üzerine bir hayli vakit', 1),
+        ],
+        '503-bitcoin-islemi-nasil-gerceklesiyor.md': [
+            # typo
+            ('ulaşabilirsiniz[^1])', 'ulaşabilirsiniz[^1]', 1),
+            # content fix
+            ('UTXO Unspent Transaction Amount denir', 'UTXO Unspent Transaction Output denir', 1),
+            # typo (owner-approved guess)
+            ('Bu işlemde alıcının cüzdanından gönderilen', 'Bu işlemde göndericinin cüzdanından gönderilen', 1),
+        ],
+        '504-bitcoin-genis-kitlelere-nasil.md': [
+            # typo
+            ('Bu geliştiriciler temel bir prensip var', 'Bu geliştiricilerin temel bir prensibi var', 1),
+        ],
+        '506-liquid-network.md': [
+            # typo
+            ('Bitcoin’i üzerine', 'Bitcoin üzerine', 1),
+            ('Bitcoin’in geliştiren', 'Bitcoin’i geliştiren', 1),
+            ('Bitcoin’in kullanan', 'Bitcoin’i kullanan', 1),
+            ('BTC’ninizi', 'BTC’nizi', 1),
+            ('L-BTC’inizi', 'L-BTC’nizi', 1),
+            ('teyid', 'teyit', 1),
+            ('kripto paranızı (buradaki örnekte', 'Kripto paranızı (buradaki örnekte', 1),
+            # consistency group
+            ("1'e", '1’e', 1),
+            ("11'i", '11’i', 1),
+            # content fix
+            ('özel bir Blockchain (permissionless)', 'özel bir Blockchain (permissioned)', 1),
+        ],
+        '507-bakkt.md': [
+            # typo
+            ('Protocol Ventures and Microsoft’tan', 'Protocol Ventures ve Microsoft’tan', 1),
+            # consistency group
+            ('d‘e', 'd’e', 1),
+        ],
+        '508-madencilik-2-0.md': [
+            # deletion
+            ('*‘artık yeni teknolojiler ile bir şirket değil bir ekosistem (bir ağ) yaratılıyor’. Ve yeni teknolojilerin geçmişe göre devrim niteliği taşıyan ana özelliği, yarattıkları ekosistemdeki tüm oyuncuların oyuna devam etmesini sağlamak için kurdukları teşvik mekanizmaları.*\n\n', '', 1),
+            # consistency group
+            (')‘a', ')’a', 1),
+        ],
+        '601-ethereum-hikayesi.md': [
+            # typo
+            ('Etherum', 'Ethereum', 1),
+            ('Kripo dünyası', 'Kripto dünyası', 1),
+            ('Chris Bunske', 'Chris Burnske', 1),
+            ('Etherin şu anki', 'Ether’in şu anki', 1),
+            ('bir çoğu', 'birçoğu', 1),
+            ('devam eder.', 'devam eder?', 1),
+            # consistency group
+            ("1920'lerde", '1920’lerde', 1),
+            ("1920'lerin", '1920’lerin', 1),
+            ("2017'de", '2017’de', 1),
+            ("2018'de", '2018’de', 1),
+            ("2019'da", '2019’da', 1),
+            (' karlarını ', ' kârlarını ', 1),
+            # typo (owner-approved guess)
+            ('Bitcoin de örneğin adı verilen', 'Bitcoin de örneğin Script adı verilen', 1),
+        ],
+        '602-diger-kripto-paralar-neler.md': [
+            # typo
+            ('Bitcoin’ çok benziyor', 'Bitcoin’e çok benziyor', 1),
+            ('kim olduğunu kesinlikle bilinmiyor', 'kim olduğu kesinlikle bilinmiyor', 1),
+            ('inşaa', 'inşa', 2),
+            ('MimblewWimble', 'MimbleWimble', 1),
+            ('MibleWimble', 'MimbleWimble', 1),
+            ('dalganan', 'dalgalanan', 1),
+            ('dalganmalar', 'dalgalanmalar', 1),
+            ('bun önlemler', 'bu önlemler', 1),
+            ('satoshinin', 'Satoshi’nin', 1),
+            ('yeniklikten', 'yenilikten', 1),
+            ('10%u', '%10’u', 1),
+            ('tabii!.', 'tabii!', 1),
+            ('teyid', 'teyit', 1),
+            ('makinalar', 'makineler', 2),
+            ('makinanın', 'makinenin', 1),
+            # consistency group
+            ("%2'lere", '%2’lere', 1),
+            ("%33'ü", '%33’ü', 1),
+            ("%50'si", '%50’si', 1),
+            (' karlı ', ' kârlı ', 1),
+            # link removed, text kept
+            ('[Deathly Hallows](https://en.0wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows)', 'Deathly Hallows', 1),
+            ('[Seamus Finnigan](https://www.pottermore.com/explore-the-story/seamus-finnigan)', 'Seamus Finnigan', 1),
+            ('[premine](https://www.cryptocompare.com/coins/guides/what-is-a-premine/)', 'premine', 1),
+            ('[1 milyon BTC’si olduğu biliniyor](http://time.com/money/5002378/bitcoin-creator-nakamoto-billionaire/)', '1 milyon BTC’si olduğu biliniyor', 1),
+            ('[Bobby Digital - Plot.ly](https://plot.ly/~Bobby_Digital/1/#/)', 'Bobby Digital - Plot.ly', 1),
+            ('[)](https://plot.ly/~Bobby_Digital/1/#/)', ')', 1),
+            ('[benzerlik](https://blog.havven.io/we-need-a-decentralised-stablecoin-b3e13346c74f)', 'benzerlik', 1),
+            ('[https://www.pottermore.com/explore-the-story/seamus-finnigan](https://www.pottermore.com/explore-the-story/seamus-finnigan)', 'https://www.pottermore.com/explore-the-story/seamus-finnigan', 1),
+            ('[https://www.cryptocompare.com/coins/guides/what-is-a-premine/](https://www.cryptocompare.com/coins/guides/what-is-a-premine/)', 'https://www.cryptocompare.com/coins/guides/what-is-a-premine/', 1),
+            ('[http://time.com/money/5002378/bitcoin-creator-nakamoto-billionaire/](http://time.com/money/5002378/bitcoin-creator-nakamoto-billionaire/)', 'http://time.com/money/5002378/bitcoin-creator-nakamoto-billionaire/', 1),
+            ('[https://plot.ly/~Bobby\\_Digital/1/#/](https://plot.ly/~Bobby_Digital/1/#/)', 'https://plot.ly/~Bobby\\_Digital/1/#/', 1),
+            ('[https://blog.havven.io/we-need-a-decentralised-stablecoin-b3e13346c74f](https://blog.havven.io/we-need-a-decentralised-stablecoin-b3e13346c74f)', 'https://blog.havven.io/we-need-a-decentralised-stablecoin-b3e13346c74f', 1),
+            # content fix
+            ('Yukarıda bahsederken iki uygulaması olduğundan bahsetmiştik. Bu iki uygulama Beam ve Grin.', 'MimbleWimble’ın iki uygulaması var: Beam ve Grin.', 1),
+        ],
+    },
+}
 
 
 class Converter:
@@ -2418,6 +3219,25 @@ class Converter:
         if bad:
             raise SystemExit('output corrections must match exactly once; got %r' % bad)
 
+    def apply_page_corrections(self, page, fm, body, fdefs):
+        """PAGE_OUT_CORRECTIONS: per-page, counted, in list order; body, footnote definitions and the description line"""
+        corr = PAGE_OUT_CORRECTIONS.get(P['name'], {}).get(page.filename)
+        if not corr:
+            return fm, body, fdefs
+        PROFILE_USES[('page corrections', page.filename)] = 1
+        lines = fm.split('\n')
+        di = [i for i, l in enumerate(lines) if l.startswith('description: ')]
+        assert len(di) == 1
+        desc = lines[di[0]]
+        for old, new, count in corr:
+            n = desc.count(old) + body.count(old) + fdefs.count(old)
+            if n != count:
+                raise SystemExit('page correction on %s must match %d time(s), got %d: %r -> %r'
+                                 % (page.filename, count, n, old, new))
+            desc, body, fdefs = desc.replace(old, new), body.replace(old, new), fdefs.replace(old, new)
+        lines[di[0]] = desc
+        return '\n'.join(lines), body, fdefs
+
     def write(self):
         os.makedirs(self.out_dir, exist_ok=True)
         files = []
@@ -2448,7 +3268,8 @@ class Converter:
                 fdefs = (fdefs + '\n\n' if fdefs else '') + '\n\n'.join(extra_defs[page.filename])
                 page.stats['fn_defs'] += len(extra_defs[page.filename])
             body = '\n\n'.join(page.blocks)
-            text = front_matter(page) + ('\n' + body + '\n' if body else '')
+            fm, body, fdefs = self.apply_page_corrections(page, front_matter(page), body, fdefs)
+            text = fm + ('\n' + body + '\n' if body else '')
             if fdefs:
                 text += '\n' + fdefs + '\n'
             with open(os.path.join(self.out_dir, page.filename), 'w', encoding='utf-8') as f:
@@ -2503,6 +3324,9 @@ def main(argv):
         n = PROFILE_USES.get(('body heading', fname, hid), 0)
         if n != 1:
             raise SystemExit('body heading override (%s, #%s) must apply exactly once; got %d' % (fname, hid, n))
+    for fname in PAGE_OUT_CORRECTIONS.get(P['name'], {}):
+        if PROFILE_USES.get(('page corrections', fname), 0) != 1:
+            raise SystemExit('page corrections name a page that was not generated: %s' % fname)
     for old in LINK_TARGET_FIXES.get(P['name'], {}):
         n = PROFILE_USES.get(('link fix', old), 0)
         if n != LINK_FIX_EXPECTED.get(old, 1):

@@ -43,9 +43,9 @@ Buradaki kritik nokta, makinelerin sistemin içindeyken birlikte nasıl uyumlu b
 
 Tabii PoW sistemini anlatırken, bunun aslında çok enerji harcayan bir süreç olduğundan bahsetmiştik. Olaylara maalesef yüzeysel olarak bakan medya, bunu “Bitcoin 159 ülkeden fazla enerji harcıyor” ya da “İzlanda finans bakanı Bitcoin’in ülkede yerleşim bölgelerindekinden fazla tüketimi olduğu konusunda uyarıda bulundu” gibi başlıklar ile veriyor. Hakikaten nedir derseniz, detay [yazılar](https://www.ofnumbers.com/2018/08/26/how-much-electricity-is-consumed-by-bitcoin-bitcoin-cash-ethereum-litecoin-and-monero/#footnote_0_5656)[^3] var. Örneğin: Bitcoin elektrik harcaması olarak dünyada 37. sıradaki Avusturya’dan daha fazla.
 
-Bitcoin’in sadık kullanıcıları böyle bir enerji harcamanın uzlaşma mekanizmasının işlemesi için değil ama bu işleyen mekanizmanın dışarıdan sistemi bozmak isteyecek bir tehdide karşı kendini savunma mekanizması olduğunu belirtiyorlar. Zira, uzlaşma mekanizmasının kilit noktası sistem üzerindeki parçaların %51'inin ortak bir kabul üzerinden ilerlemesi şeklinde. Nedir bu kabul? Son 10 dakikada gerçekleşen işlemlerin herkeste aynı şekilde tutulması, tutarlı ve aynı olması.
+Bitcoin’in sadık kullanıcıları böyle bir enerji harcamanın uzlaşma mekanizmasının işlemesi için değil ama bu işleyen mekanizmanın dışarıdan sistemi bozmak isteyecek bir tehdide karşı kendini savunma mekanizması olduğunu belirtiyorlar. Zira, uzlaşma mekanizmasının kilit noktası sistem üzerindeki parçaların %51’inin ortak bir kabul üzerinden ilerlemesi şeklinde. Nedir bu kabul? Son 10 dakikada gerçekleşen işlemlerin herkeste aynı şekilde tutulması, tutarlı ve aynı olması.
 
-Eğer sistemin %51'ini ele geçirmek sadece etrafa makine kurmak ve sisteme bağlanmak ile olsaydı (hatırlarsanız kimseye sormadan Blockchain sistemine bağlanıp siz de bir oyuncu olabilirsiniz), o zaman elinin altında (ya da kullanabileceği) büyük bir makine kapasitesi olan biri sistemi ele geçirebilirdi. Halbuki, Bitcoin’in oyunculara sorduğu bilmeceyi çözmek için ciddi bir enerji harcamak gerekiyor. Sistemi ele geçirmek isteyen “dış tehdit” için oldukça maliyetli bir durum bu.
+Eğer sistemin %51’ini ele geçirmek sadece etrafa makine kurmak ve sisteme bağlanmak ile olsaydı (hatırlarsanız kimseye sormadan Blockchain sistemine bağlanıp siz de bir oyuncu olabilirsiniz), o zaman elinin altında (ya da kullanabileceği) büyük bir makine kapasitesi olan biri sistemi ele geçirebilirdi. Halbuki, Bitcoin’in oyunculara sorduğu bilmeceyi çözmek için ciddi bir enerji harcamak gerekiyor. Sistemi ele geçirmek isteyen “dış tehdit” için oldukça maliyetli bir durum bu.
 
 Bitcoin dışında aslında Bitcoin’in küçük kardeşleri diğer alternatif kripto paraların birçoğu da PoW mekanizması kullanıyor. Ethereum (ki değiştirmeyi planlıyor), Litecoin, Monero gibi bütün büyük Bitcoin alternatifleri de PoW’e dayanıyor.
 
@@ -57,27 +57,27 @@ Proof-of-Stake, Bitcoin’in Proof-of-Work mekanizmasına en ciddi rakip.
 
 Farkını anlatmak için PoW’nun ne yaptığını tekrar hatırlatalım. Siz eğer Bitcoin’i bozmak gibi bir çabaya girerseniz, tüm Bitcoin’in %51’ini ele geçirecek kadar yatırım ve enerji harcamadıkça yaptığınız çaba sonuçsuz kalır ve yaptığınız tüm masraf boşa gider. Zira sistemin oyuncuları, sizin istediğinizi değil çoğunluğun yolunda giderler, siz de yaptığınız masraf ile geride kalırsınız.
 
-O zaman şöyle bir soru soruyor diğerleri: “İyi çok güzel, bu tip mekanizma kurarak dış tehditleri önlüyorsunuz ama öte yandan iyi niyetli mevcut oyuncular da aynı şekilde bulmaca çözmek zorundalar ((Bitcoin kazanmak için gerekli çünkü). Bu nedenle ortaya çok büyük bir enerji harcaması çıkıyor. Sistemi manipüle edecek birine çok maliyet getirecek ama düzgün çalışan uyumlu oyunculara masraf çıkarmayacak dolayısıyla ‘büyük israflara’ neden olmayacak bir çözüm bulunamaz mı?”
+O zaman şöyle bir soru soruyor diğerleri: “İyi çok güzel, bu tip mekanizma kurarak dış tehditleri önlüyorsunuz ama öte yandan iyi niyetli mevcut oyuncular da aynı şekilde bulmaca çözmek zorundalar (Bitcoin kazanmak için gerekli çünkü). Bu nedenle ortaya çok büyük bir enerji harcaması çıkıyor. Sistemi manipüle edecek birine çok maliyet getirecek ama düzgün çalışan uyumlu oyunculara masraf çıkarmayacak dolayısıyla ‘büyük israflara’ neden olmayacak bir çözüm bulunamaz mı?”
 
-PoS işte bunun cevabını şu şekilde veriyor. Yapılan işlemlerin teyidi için bir bulmaca çözüp enerji harcamayalım, onun yerine doğru olduğunu düşündüğümüz işlemlerin doğru olduğunu teyit için elimizdeki tüm parasal değeri rehin olarak verelim. Elimizi taşın altına koyalım yani. Sistem de bu rehin edenler içinde birine piyango ile yeni blok yaratma ayrıcalığı versin. Ne kadar çok varlık rehin edersek, o kadar çok piyango biletimizin olsun. Sonundaki ödülü kazanmadaki şansımız da o kadar artsın. Öte yanda eğer sistemi bozmaya çalışan bir dış tehdit isek, (ve eğer çoğunluğa sahip değilsek) yaptığımız manipülasyon nihai olarak sonuçsuz kalacak ve ceza olarak sistem bizim tüm varlığımızı sıfırlayacak — sıkı bir caydırıcı. Bitcoin’in en büyük dezavantajı olarak öne çıkan yüksek enerji sarfiyatı sorununu çözen bir alternatif.
+PoS işte bunun cevabını şu şekilde veriyor. Yapılan işlemlerin teyiti için bir bulmaca çözüp enerji harcamayalım, onun yerine doğru olduğunu düşündüğümüz işlemlerin doğru olduğunu teyit için elimizdeki tüm parasal değeri rehin olarak verelim. Elimizi taşın altına koyalım yani. Sistem de bu rehin edenler içinde birine piyango ile yeni blok yaratma ayrıcalığı versin. Ne kadar çok varlık rehin edersek, o kadar çok piyango biletimizin olsun. Sonundaki ödülü kazanmadaki şansımız da o kadar artsın. Öte yanda eğer sistemi bozmaya çalışan bir dış tehdit isek, (ve eğer çoğunluğa sahip değilsek) yaptığımız manipülasyon nihai olarak sonuçsuz kalacak ve ceza olarak sistem bizim tüm varlığımızı sıfırlayacak — sıkı bir caydırıcı. Bitcoin’in en büyük dezavantajı olarak öne çıkan yüksek enerji sarfiyatı sorununu çözen bir alternatif.
 
-Bu konuda tartışmalar halen devam etmekte. Proofof-Stake’i kullanacak olan Ethereum geliştiricileri konu üzerinde çalışmaya devam ediyorlar. Bunun dışında Cardano, OmiseGo, QTUM, Ardor PoS kullanıyorlar. Bir de PoS ile PoW’yi karışık şekilde kullananlar var (Decred, Dash, Stratis, HShare, Pivx gibi)
+Bu konuda tartışmalar halen devam etmekte. Proof-of-Stake’i kullanacak olan Ethereum geliştiricileri konu üzerinde çalışmaya devam ediyorlar. Bunun dışında Cardano, OmiseGo, QTUM, Ardor PoS kullanıyorlar. Bir de PoS ile PoW’yi karışık şekilde kullananlar var (Decred, Dash, Stratis, HShare, Pivx gibi)
 
-## Başka ne tip alternatifleri var? {#baska-ne-tip-alternatifleri-var}
+## PoW’un başka ne tip alternatifleri var? {#baska-ne-tip-alternatifleri-var}
 
 Blockchain gibi değişik bazlı parçaların birbiri ile nasıl çalışacaklarına ilişkin çalışmalar sadece PoW ve PoS ile sınırlı değil tabii. Teknoloji alanında bir sorun olduğunda onlarca çözüm ortaya çıkar. Neler onlar derseniz, sadece isimlerini ve kimlerin kullandığını belirtelim:
 
 - Proof-of-Authority(Parity) - Ripple, Hyperledger
 - Delegated-Proof-of-Stake (DPos) — BitShares, Steemit (sahipleri aynı bu ikisinin), EOS
-- DeligatedByzantineFaultTolerance (DBFT) — NEO
+- DelegatedByzantineFaultTolerance (DBFT) — NEO
 - ProofofActivity (PoA) — Digital Note, Vechain
 - ProofofCapacity (PoC) — Burstcoin
 - ProofofBurn (PoB) — Slimcoin
 - ProofofRun (PoR) — Runcoin
-- ProofofAssignment — IOTW
+- ProofofAssignment — IOTA
 - ve diğerleri: DirectedAcyclicGraphs (DAG), ProofofImportance (POI), Proof-of-Elapsed-Time (POET), Leased-Proof-of-Stake (LPos), PracticalByzantineFaultTolerance (PBFT), SimplifiedByzantineFaultTolerance (SBFT)
 
-Bunları bilmek gerçekten önemli mi? Eğer geliştirici değilseniz çok da önemi yok aslında. PoW’un etkili bir sistem olduğu biliniyor. 10 yıldır da sağlam bir şekilde kullanılıyor. Bu alternatifler ağırlıklı olarak PoW’un enerji harcaması konusundaki sıkıntılara çözüm olsun diye çıktı. Bunun yanında farklı farklı mekanizmalar PoW’a kıyasla daha hızlı, madencilerin birden fazla Blockchain’e hizmet verebilme imkanı sağlama ya da PoW’a göre daha dağıtık bir yapıya sahip olma gibi değişik alanlarda uzmanlaşmış durumdalar. Ama bundan on yıl sonra herhalde bu konuda yeterince geliştirme yapılır ve bu konu bir nüans olarak tarihteki yerini alır.
+Bunları bilmek gerçekten önemli mi? Eğer geliştirici değilseniz çok da önemi yok aslında. PoW’un etkili bir sistem olduğu biliniyor. 10 yıldır da sağlam bir şekilde kullanılıyor. Bu alternatifler ağırlıklı olarak PoW’un enerji harcaması konusundaki sıkıntılara çözüm olsun diye çıktı. Bunun yanında farklı farklı mekanizmalar PoW’a kıyasla daha hızlı, madencilerin birden fazla Blockchain’e hizmet verebilme imkânı sağlama ya da PoW’a göre daha dağıtık bir yapıya sahip olma gibi değişik alanlarda uzmanlaşmış durumdalar. Ama bundan on yıl sonra herhalde bu konuda yeterince geliştirme yapılır ve bu konu bir nüans olarak tarihteki yerini alır.
 
 Sonuç
 

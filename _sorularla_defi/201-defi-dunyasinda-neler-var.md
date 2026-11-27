@@ -14,9 +14,9 @@ DeFi yani merkeziyetsiz finans henüz yeni bir oluşum. Kökleri daha eskiye day
 
 DeFi alanında kullanıcılara sunulan ilk ürünlere baktığımızda, bunların pek çoğunun aslında şu anda klasik finans dediğimiz mevcut finans piyasası aktörlerinin sunduğu ürünlere benzerlik gösterdiğini görüyoruz. Bunun temel nedeninin, öncelikle kullanıcının aşina olduğu ürünlere yakınlık göstermesi olarak düşünebiliriz.
 
-Ancak bir önceki kısımda bahsettiğimiz birlikte çalışılabilirlik, açık kaynak kullanımı gibi temel özelikleri nedeniyle DeFi’nin klasik finansın sunduğu hizmetlerin çok daha ötesini sunabileceğini söylemek çok da kehanet sayılmaz.
+Ancak bir önceki kısımda bahsettiğimiz birlikte çalışılabilirlik, açık kaynak kullanımı gibi temel özellikleri nedeniyle DeFi’nin klasik finansın sunduğu hizmetlerin çok daha ötesini sunabileceğini söylemek çok da kehanet sayılmaz.
 
-## Klasik finans ile DeFi'nin temel farkı {#klasik-finans-ile-definin-temel-farki}
+## Klasik finans ile DeFi’nin temel farkı {#klasik-finans-ile-definin-temel-farki}
 
 Yukarıda bahsettiğimiz özellikler nedeniyle DeFi’nin çalışma prensiplerinin, temelde klasik finanstan farklılık gösterdiğini söyleyebiliriz. Neler bunlar, kısaca değinelim:
 
@@ -44,7 +44,7 @@ Bu kitapta genelde blokzincir olarak Ethereum’dan bahsedildiğini göreceksini
 
 Teknolojinin her alanında olduğu gibi burada da Ethereum’un rakipleri var ancak şu anda hemen hemen hepsi emekleme aşamasında. Gelecekte, bu rakiplerden bir ya da birkaçının Ethereum’a ciddi bir rakip olabileceğini de görebiliriz.
 
-Ethereum'un rakiplerinin ataklarına karşılık verdiği cevaplardan bir tanesi 2022 yılında görücüye çıkaracağı yeni versiyonu olacak. ETH 2.0 olarak adlandırılan bu versiyonun en büyük özelliği, Ethereum blokzincirinin yatay olarak genişletilerek üzerindeki yükün dağıtılması (teknik olarak İngilizce'de 'sharding' denen bir yenilik). Bu yapıldığında, şu an bir adet olan [Ethereum blokzinciri sayısı 64'e çıkacak.](https://ethereum.org/en/eth2/shard-chains/)
+Ethereum’un rakiplerinin ataklarına karşılık verdiği cevaplardan bir tanesi 2022 yılında görücüye çıkaracağı yeni versiyonu olacak. ETH 2.0 olarak adlandırılan bu versiyonun en büyük özelliği, Ethereum blokzincirinin yatay olarak genişletilerek üzerindeki yükün dağıtılması (teknik olarak İngilizce’de 'sharding' denen bir yenilik). Bu yapıldığında, şu an bir adet olan [Ethereum blokzinciri sayısı 64’e çıkacak.](https://ethereum.org/en/eth2/shard-chains/)
 
 Öte yandan 2021 yılının ilk aylarında, DeFi’nin patlamasıyla birlikte Ethereum blokzincirine yoğun bir talep olduğu ve bunun işlem ücretlerinde ciddi bir yükselişe neden olduğu da bir gerçek. Bu nedenle özellikle Ethereum üzerine kurulu ikinci seviye çözümler, ağın üzerindeki yükü alması, belli hizmetlerin hem ucuz hem de hızlı bir şekilde gerçekleşebilmesi için kritik.
 
@@ -68,7 +68,7 @@ DeFi dünyasında bireye özgürlük ya da güç veren en önemli öğenin cüzd
 
 Yukarıdaki DeFi destesinde bulunan parçalardan:
 
-- İlk olarak açıkladığımız ve destenin en altında bulanan üç parçaya, yani 'Para Birimleri', 'İşlem Katmanı' ve 'Bilgi Sağlayıcılar' parçalarına, bir sonraki kısım olan 'DeFi'nin Altyapı Taşları' kısmında
+- İlk olarak açıkladığımız ve destenin en altında bulunan üç parçaya, yani 'Para Birimleri', 'İşlem Katmanı' ve 'Bilgi Sağlayıcılar' parçalarına, bir sonraki kısım olan 'DeFi’nin Altyapı Taşları' kısmında
 - 'Temel DeFi Ürünleri' olarak adlandırabileceğimiz, kullanıcıların daha aşina olduğu DeFi protokollerine bu kısımda
 - En üstte bulunan 'Kaynak Sağlayıcılar' ve ' Cüzdanlar/Önyüzler' parçalarına ise en son kısım olan 'DeFi Dünyasına Adım Atacaklar İçin Pratik Bilgiler' kısmında
 

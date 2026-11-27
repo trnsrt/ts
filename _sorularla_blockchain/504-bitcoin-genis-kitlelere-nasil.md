@@ -23,7 +23,7 @@ Geçtiğimiz bölümde, Bitcoin’in ileride değerli olup olmayacağının iki 
 
 Her ne kadar teknoloji hızla gelişiyor olsa da Bitcoin için aynısını söylemek mümkün değil. Bitcoin yavaş gelişen bir sistem — bu kasıtlı olarak böyle aslında. Efendim, Bitcoin biliyorsunuz bir dijital para. İşin içine para girdiğinde konu ciddileşiyor. Bitcoin geliştiricileri de bu bilinç ile hareket ediyorlar.
 
-Bu geliştiriciler temel bir prensip var: “Acele işe şeytan karışır”, yani ne kadar hızlı gider ve yeterince test ve deneme yapmazsanız hata çıkma ihtimali o kadar artar. O nedenle bu topluluk Bitcoin sistemini özellikle yavaş yavaş tabiri caizse sindire sindire geliştirme yolunu seçiyor.
+Bu geliştiricilerin temel bir prensibi var: “Acele işe şeytan karışır”, yani ne kadar hızlı gider ve yeterince test ve deneme yapmazsanız hata çıkma ihtimali o kadar artar. O nedenle bu topluluk Bitcoin sistemini özellikle yavaş yavaş tabiri caizse sindire sindire geliştirme yolunu seçiyor.
 
 İkinci bir prensipleri daha var bu topluluğun: “Bir ürüne ne kadar fonksiyon eklerseniz, o kadar güvenlik açığına davet [çıkarırsınız](https://twitter.com/NickSzabo4/status/956507150012026882)[^2]” Konu para olunca güvenlik açığının yaratacağı sorunlar daha da dramatik hale gelebiliyor. O nedenle geliştiricilerin Bitcoin’e para dışında yeni fonksiyonlar eklemeleri oldukça zor.
 

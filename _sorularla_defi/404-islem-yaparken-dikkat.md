@@ -18,7 +18,7 @@ Kriptoparanızı bir borsadan kendi cüzdanınıza çektikten sonra, dilediğini
 
 ## Blokzincirde işlem yapmak ne demek? {#blokzincirde-islem-yapmak-ne-demek}
 
-Blokzincir üzerinde işlem yapmak demek, o blokzincir üzerindeki blok kapasitesini kullanmak demek. Bitcoin blokzinciri her 10 dakikada bir blok oluşturuyor. Dolayısıyla yazılmak istenen işlemler, bu blok içinde girebilmek için birbirleri ile yarışıyorlar. Eğer o sırada fazla işlem yapılmıyor ise bir sorun yok. Hemen hemen her istenen işlem, madenciler tarafından toplanıp zincire yazılıyor.
+Blokzincir üzerinde işlem yapmak demek, o blokzincir üzerindeki blok kapasitesini kullanmak demek. Bitcoin blokzinciri her 10 dakikada bir blok oluşturuyor. Dolayısıyla yazılmak istenen işlemler, bu bloğa girebilmek için birbirleri ile yarışıyorlar. Eğer o sırada fazla işlem yapılmıyor ise bir sorun yok. Hemen hemen her istenen işlem, madenciler tarafından toplanıp zincire yazılıyor.
 
 Peki ya çok fazla işlem varsa? İşte o zaman serbest piyasa ekonomisi devreye giriyor. Madenciler, seçim hakkına sahip oluyorlar. Neye göre seçim yapıyorlar o zaman? Kendileri için en kârlı olan işlemlere göre.
 
@@ -48,7 +48,7 @@ Genel olarak işlem ücretini belirlerken üç farklı dinamik çalışıyor:
 
 Öncelikle, yukarıdaki teknik detaylar sizi korkutmasın. Herhangi bir hesaplama yapmanıza gerek yok. Elektronik cüzdanınız, size gerekli alternatifleri ve her bir alternatifin ücretini ortaya çıkaracak.
 
-Örneğin; Metamask, herhangi bir işlem yapmak istediğinizde onay butonu ile birlikte size yavaş, normal ve hızlı olarak üç farklı seçenek sunuyor. Özellikle yüksek işlem ücretleri söz konusu olduğunda, bu üç farklı seçeceğin birbirine yakın olduğunu görebilirsiniz. Daha ileri seviye kullanıcı iseniz, bu üç seçenek yerine, ‘advanced/ileri’ sekmesine basarak ücreti kendiniz belirleme şansınız var.
+Örneğin; Metamask, herhangi bir işlem yapmak istediğinizde onay butonu ile birlikte size yavaş, normal ve hızlı olarak üç farklı seçenek sunuyor. Özellikle yüksek işlem ücretleri söz konusu olduğunda, bu üç farklı seçeneğin birbirine yakın olduğunu görebilirsiniz. Daha ileri seviye kullanıcı iseniz, bu üç seçenek yerine, ‘advanced/ileri’ sekmesine basarak ücreti kendiniz belirleme şansınız var.
 
 Peki neler yapabilirsiniz? Öncelikle, işleminizin ne kadar acil olduğunu düşünerek farklı stratejiler geliştirebilirsiniz.
 

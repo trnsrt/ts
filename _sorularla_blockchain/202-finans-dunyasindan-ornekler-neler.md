@@ -19,13 +19,13 @@ DeFi — Decentralized Finance (Dağıtık Finans) hareketinin öncülerinde
 <figcaption markdown="span">Maker ve Dai ([Kaynak](https://makerdao.com/en/)[^2])</figcaption>
 </figure>
 
-MakerDAO kişilerin ellerinde duran kripto paraları teminat verip bu teminat karşılığı sistemin parası olan Dai’yi yaratmalarına olanak veren bir dağıtık bir sistem. Ethereum üzerinde kurulu Akıllı Kontratları kullanılıyor bunu yapmak için.
+MakerDAO kişilerin ellerinde duran kripto paraları teminat verip bu teminat karşılığı sistemin parası olan Dai’yi yaratmalarına olanak veren dağıtık bir sistem. Ethereum üzerinde kurulu Akıllı Kontratlar kullanılıyor bunu yapmak için.
 
 Dai nedir peki? Dai bir ABD Dolarına eşit olan bir SabitPara. SabitParaların ne olduklarına daha sonraki [bölümlerde](/Sorularla_Blockchain/bolum-6/diger-kripto-paralar-neler/#sabitparalar-dalgali-denizler-icinde-sakin-sular-sunar-mi-bize) değineceğiz. (Dai kelime anlamı olarak Çince’de [borç para vermek](https://www.reddit.com/r/MakerDAO/comments/5q98b1/%E8%B2%B8_dai/)[^3] anlamı taşıyor bu arada)
 
 Nasıl çalışıyor?
 
-Elinizdeki kripto parayı (şu an için yalnız Ethereum parası ETH geçerli) teminat olarak gösteriyorsunuz, buradaki deyişiyle ETH’lerinizi sistem içine kilitliyorsunuz. Gönderdiğiniz her 150 birim para için 100 birime kadar Dai yaratabiliyorsunuz. Sonrasında bu DAI’yi istediğiniz noktadaki borsada bire bire yakın bir değerden ABD Doları’na çeviriyor ve kullanıyorsunuz. Bu para için bir maliyet ödüyorsunuz, sonrasında ise dilediğiniz noktada tekrar Dai satın alarak yok ediyor ve ETH’nize geri kavuşuyorsunuz.
+Elinizdeki kripto parayı (şu an için yalnız Ethereum parası ETH geçerli) teminat olarak gösteriyorsunuz, buradaki deyişiyle ETH’lerinizi sistem içine kilitliyorsunuz. Gönderdiğiniz her 150 birim para için 100 birime kadar Dai yaratabiliyorsunuz. Sonrasında bu Dai’yi istediğiniz noktadaki borsada bire bire yakın bir değerden ABD Doları’na çeviriyor ve kullanıyorsunuz. Bu para için bir maliyet ödüyorsunuz, sonrasında ise dilediğiniz noktada tekrar Dai satın alarak yok ediyor ve ETH’nize geri kavuşuyorsunuz.
 
 Neden insanlar kullanıyor?
 
@@ -59,7 +59,7 @@ Peki başarılı olmuş mu MakerDAO?
 
 MakerDAO tamamen otomatik bir sistem. Arada herhangi bir aracı yok. Karmaşık anlaşmalar yok — kâğıt imza vs yok. Sistem tamamen kodlanmış makineler aracılığıyla işliyor. Teminatınızı koyuyorsunuz, paranızı alıyorsunuz. Teminatınız %150’nin altına düşerse de ETH’niz bozduruluyor ve kredi borcunuzun üzerindeki teminatınız hesabınıza yatıyor. Bu nedenle kredi vermenin getirdiği kâğıt ve bürokrasi masrafından kurtulma sistemin en önemli avantajlarından biri.
 
-Şu ana kadar iyi gittiklerini söylemek mümkün. Zira halihazırda iki milyon ETH’e yakın miktar MakerDAO sistemi üzerinden borçlandırılmış (CDP — Collaterized Debt Positions). ETH’nin şu aralar 120 ABD Doları civarında olduğu düşünülürse yaklaşık 240 Milyon ABD doları bir rakama denk geliyor bu. Ethereum’un kullanım olarak en işlevsel platformlarından biri MakerDAO.
+Şu ana kadar iyi gittiklerini söylemek mümkün. Zira halihazırda iki milyon ETH’e yakın miktar MakerDAO sistemi üzerinden borçlandırılmış (CDP — Collateralized Debt Positions). ETH’nin şu aralar 120 ABD Doları civarında olduğu düşünülürse yaklaşık 240 Milyon ABD doları bir rakama denk geliyor bu. Ethereum’un kullanım olarak en işlevsel platformlarından biri MakerDAO.
 
 Sistem şu ana kadar sıkıntı yaşamadan ilerledi. ETH sene içinde çok ciddi değer kaybetti ama buna rağmen Dai’de ciddi bir sıkıntı olmadı. Bu ileride de olmayacak anlamına gelmiyor tabii. O da bunun riski. ETH’nin aniden %33 değer kaybetmesi durumunda 150 birimlik teminatlar 100 birime düşebilir ve sistem bu ETH’leri satana kadar borç miktarının altına bile inebilir. Şu an için MakerDAO sistemi daha çok küçük — ama çok daha büyümesi durumunda tüm ETH değerini bile etkileyecek hale gelebilir olası ani düşüşler.
 

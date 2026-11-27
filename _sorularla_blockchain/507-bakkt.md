@@ -12,7 +12,7 @@ description: "Bakkt, kurumsal yatırımcılara Bitcoin üzerinden rahat alım sa
 
 *Bakkt, kurumsal yatırımcılara Bitcoin üzerinden rahat alım satım yapacakları denetlenebilir bir ortam sunmayı hedefliyor. Başarırsa, kripto paralar geniş kitlelerce adaptasyonda bir eşiği daha atlamış olacak.*
 
-Bitcoin’in geniş kitleler tarafından kullanılmasına yardımcı olmaya çalışan iki yenilik [Lightning Network](/Sorularla_Blockchain/bolum-5/lightning-network/) ve [Liquid‘e](/Sorularla_Blockchain/bolum-5/liquid-network/) geçtiğimiz iki bölümde değinmiştik. Şimdi de Ağustos ayında açıklanan ve gecikmeler nedeniyle 2019’un ilk yarısında faaliyete geçmesi planlanan Bakkt nedir ona bakalım.
+Bitcoin’in geniş kitleler tarafından kullanılmasına yardımcı olmaya çalışan iki yenilik [Lightning Network](/Sorularla_Blockchain/bolum-5/lightning-network/) ve [Liquid’e](/Sorularla_Blockchain/bolum-5/liquid-network/) geçtiğimiz iki bölümde değinmiştik. Şimdi de Ağustos ayında açıklanan ve gecikmeler nedeniyle 2019’un ilk yarısında faaliyete geçmesi planlanan Bakkt nedir ona bakalım.
 
 ## Bakkt’ın sahibi kim? {#bakktin-sahibi-kim}
 
@@ -27,7 +27,7 @@ Ana nedeni henüz kripto paralar ile ilgili kanuni otoritelerin tavır almamış
 
 Ama daha önemli bir nedeni Wall Street’in aslında güven hizmeti veren bir aracı olması. Ve ne diyoruz hep? Blockchain bazlı teknolojiler güven ihtiyacını kurumlardan alıp makinelere vererek aracıları ortadan kaldırmayı planlıyorlar.
 
-Dolayısıyla, Wall Street kendisi için temelden tehdit unsuru olabilecek bu gelişmeye hep defansif bir şekilde yaklaştı. Ancak ICE’in Bakkt ile bu işe adım atması, artık potansiyel kârı kaçırma ve yeniliklerin gerisinde kalma baskısının bu tehdite karşı ağır bastığının bir kanıtı. Tabii, Bakkt’ın bir startup olduğunu unutmamak şartıyla (Bakkt 2019’un ilk günlerinde Boston Consulting Group, Galaxy Digital, Goldfinch Partners, ICE, Pantera Capital, Protocol Ventures and Microsoft’tan 182,5 Milyon ABD Doları yatırım aldığını da [belirtelim](https://www.cryptocurrencyguide.org/ices-crypto-exchange-startup-bakkt-raises-182-mln/)[^3]). Yani ICE havuza balıklama atlamak yerine, şimdilik ayağını suya değdirerek bir nevi ortamı daha iyi anlamaya çalışıyor.
+Dolayısıyla, Wall Street kendisi için temelden tehdit unsuru olabilecek bu gelişmeye hep defansif bir şekilde yaklaştı. Ancak ICE’in Bakkt ile bu işe adım atması, artık potansiyel kârı kaçırma ve yeniliklerin gerisinde kalma baskısının bu tehdite karşı ağır bastığının bir kanıtı. Tabii, Bakkt’ın bir startup olduğunu unutmamak şartıyla (Bakkt 2019’un ilk günlerinde Boston Consulting Group, Galaxy Digital, Goldfinch Partners, ICE, Pantera Capital, Protocol Ventures ve Microsoft’tan 182,5 Milyon ABD Doları yatırım aldığını da [belirtelim](https://www.cryptocurrencyguide.org/ices-crypto-exchange-startup-bakkt-raises-182-mln/)[^3]). Yani ICE havuza balıklama atlamak yerine, şimdilik ayağını suya değdirerek bir nevi ortamı daha iyi anlamaya çalışıyor.
 
 ## Peki Bakkt tam olarak ne yapmaya çalışıyor? {#peki-bakkt-tam-olarak-ne-yapmaya-calisiyor}
 

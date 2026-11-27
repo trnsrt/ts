@@ -20,11 +20,11 @@ Ayrıca hangi kritere göre merkeziyetsizlikten bahsediyoruz o da önemli. Siste
 
 <figure><a href="/assets/books/sorularla-defi/108-1.jpeg"><img src="/assets/books/sorularla-defi/108-1.jpeg" alt="Image by Kohji Asakawa from Pixabay" width="1200" height="868" loading="lazy"></a><figcaption>Image by <a href="https://pixabay.com/users/DeltaWorks-37465/">Kohji Asakawa</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=250016">Pixabay</a></figcaption></figure>
 
-## Nasıl bir yelpaze bu? {#nasil-bir-yelpaze-bu}
+## Merkeziden yarı-merkezi ve merkeziyetsize uzanan nasıl bir yelpaze bu? {#nasil-bir-yelpaze-bu}
 
 Çok genel bakarsak şunu söyleyebiliriz:
 
-Yelpazenin bir ucu **merkezi yapılar** (İngilizce'de 'CeFi' - Centralized Finance). Bildiğimiz klasik, geleneksel her türlü yapı. Bir genel merkezi olan, bütün ticari sırları ve teknolojisi telifler ile korunan, müşterisini seçen, ona verdiği hizmetlerin kararını kendi veren her tür kurum.
+Yelpazenin bir ucu **merkezi yapılar** (İngilizce’de 'CeFi' - Centralized Finance). Bildiğimiz klasik, geleneksel her türlü yapı. Bir genel merkezi olan, bütün ticari sırları ve teknolojisi telifler ile korunan, müşterisini seçen, ona verdiği hizmetlerin kararını kendi veren her tür kurum.
 
 Yelpazenin öbür tarafında ise **tamamen dağıtık yapılar** var ve bu tarafın aslında ucu bucağı yok. Şu ana kadar **deneyimlediğimiz en uç noktası Bitcoin** denebilir: Herhangi bir genel merkezi ya da lideri olmayan, bütün yazılımı açık, sistemin işleyişini sağlayan makinelerin kimseye sormadan girip çıkabildiği, keza kullanıcı olarak kullanmanın hiçbir izin ya da dokümana tâbi olmadığı bir sistem (ki orada bile yazılımcılar arasındaki gruplaşmalar ve politik savaşlar merkeziyetsizlik konusunda soru işaretleri yaratıyor).
 
@@ -32,7 +32,7 @@ Finans ve teknoloji dünyası içinde konuştuğumuz her tür uygulama işte yel
 
 Yukarıdaki tanımlardan “merkeziyetsiz yapı daha iyidir” gibi bir sonuç çıkarmayın lütfen. Zira yelpazenin her iki tarafının da kendine göre avantajları var. Gelin birkaç soru ile derinine dalalım bu merkeziyetsizlik meselesinin:
 
-## Hesap sorabiliyor muyum? {#hesap-sorabiliyor-muyum}
+## DeFi’de hesap sorabiliyor muyum? {#hesap-sorabiliyor-muyum}
 
 CeFi benzeri merkezi yapılar, özellikle bir süredir aramızda olup finansal olarak kuvvetli hâle gelenler, göreceli olarak kullanıcıya kafa rahatlığı veriyorlar. Bunun temel nedeni, özellikle finansal dünyanın kırılgan ya da kaygan yapısı içinde dijital varlıklara sahip olmamız nedeniyle başımıza gelebilecek her tür sorunda arkada hesap sorulabilecek bir yapının olması.
 
@@ -44,9 +44,9 @@ Bunu biraz daha açmakta fayda var. Teknik, kodlama, kullanım açısından merk
 
 Burada temel olarak üç alan var bakılması gereken:
 
-**Geliştirici kitlesi:** Sistemi geliştirenler ne kadar merkezi? Burada projeden projeye ciddi farklılıklar gösterebiliyor. Kimi projeler dış fonlama sağlayıp, genişçe bir geliştirici ordusunu maaşa bağlayıp, daha kapalı bir ekosistem içinde geliştirme yapabiliyorlar. Özellikle 2017 ve 2018 yıllarındaki ICO'larda ciddi yatırım alan projeler (örneğin Filecoin, Dfinity gibi) bu şekilde ilerlemeyi seçtiler. Öte yandan daha çok 2020 yılında kurulan kimi projelerin (örneğin Yearn) ise dış geliştiricilerin katkısına daha açık olduklarını görüyoruz.
+**Geliştirici kitlesi:** Sistemi geliştirenler ne kadar merkezi? Burada projeden projeye ciddi farklılıklar gösterebiliyor. Kimi projeler dış fonlama sağlayıp, genişçe bir geliştirici ordusunu maaşa bağlayıp, daha kapalı bir ekosistem içinde geliştirme yapabiliyorlar. Özellikle 2017 ve 2018 yıllarındaki ICO’larda ciddi yatırım alan projeler (örneğin Filecoin, Dfinity gibi) bu şekilde ilerlemeyi seçtiler. Öte yandan daha çok 2020 yılında kurulan kimi projelerin (örneğin Yearn) ise dış geliştiricilerin katkısına daha açık olduklarını görüyoruz.
 
-**Yönetim:** Sistemin kurulduktan sonra yönetim kurallarının oluşturulması ve değiştirilmesinin ne kadar demokratik yollarla yapıldığı. Bir sonraki başlıkta da belirttiğimiz gibi, başlangıçta ufak bir ekip kararları alırken, daha sonrasında çıkarılan yönetim tokenları sayesinde, artık stratejik kararlara bu tokenlara sahip olan topluluk karar verebiliyor.
+**Yönetim:** Sistemin kurulduktan sonra yönetim kurallarının oluşturulması ve değiştirilmesinin ne kadar demokratik yollarla yapıldığı. Bir sonraki başlıkta da belirttiğimiz gibi, başlangıçta ufak bir ekip kararları alırken, daha sonrasında çıkarılan yönetim tokenleri sayesinde, artık stratejik kararlara bu tokenlere sahip olan topluluk karar verebiliyor.
 
 **Kullanıcı hakları:** Herhalde DeFi hareketinde en çok vurgulanan konu bu ve merkeziyetsiz yapılar bu alanda daha ilerideler. Özellikle kullanıcının kendine ait bilgileri platformlar arasında taşıyabilmesi konusunda. Merkezi yapıların kullanıcı hakları konusunda gittikçe daha duyarlı olduğunu görsek de merkeziyetsiz yapılarda olduğu gibi kontrolü tamamen bırakmalarını beklemek hayalperestlik olur.
 
@@ -60,7 +60,7 @@ Projeler ilk kurulduklarında, ağırlıklı olarak kurucu ekibin uhdesi altınd
 
 Buna en güzel örneklerden bir tanesi MakerDAO. Bir sonraki kısımda detaylı bahsedeceğimiz MakerDAO protokolünü geliştiren ekip, bir süredir yapacağı her tür geliştirme için gerekli stratejik direktifi sistemin yönetim parası olan MKR sahiplerinin oyları ile alıyordu. Gerekli olan masrafları da kendilerine ayrılmış olan MKR’lerden karşılıyor idi. 2021 yılının Mart ayından itibaren bu ekip kendini yavaş yavaş lağvetmeye karar verdi ve elinde kalan MKR’leri de topluluğa geri verecek. Bundan sonra sistemin geliştirilmesi için her tür çalışmayı birbirinden bağımsız ekipler gerçekleştirecek. Bu ekipler, yapmak istediklerini ve gerekli bütçeyi MKR sahiplerine sunacaklar. Oylama sonucu teklifleri kabul görürse kendilerine istedikleri bütçe verilecek ve konu üzerinde çalışmaya başlayacaklar. Sanırım DeFi merkeziyetsizliği anlamında şu ana kadar görülen en uç nokta bu.
 
-## Ya regülasyonlar? {#ya-regulasyonlar}
+## Ya DeFi’de regülasyonlar? {#ya-regulasyonlar}
 
 Merkeziyetsiz yapılar için en kritik konulardan biri, hareket ettikleri alan. Zira global ölçekte ve merkeziyetsiz bir yapıda olduğunuzda mevcut ülke denetimlerinden kendinizi koruyup enerji ve eforunuzu yenilikçi çözümlere yönlendirebiliyorsunuz; merkezi yapılar o anlamda daha şanssız.
 

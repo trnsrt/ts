@@ -56,7 +56,7 @@ Kripto cüzdanların (ya da bir diğer deyişle ‘dijital elektronik cüzdanlar
 
 ### Web sitesi üzerinden {#web-sitesi-uzerinden}
 
-Bir web sitesine giriyorsunuz, (örneğin [Blockchain Info](https://www.blockchain.com/)) ve oradan kendinize bir kullanıcı adı ile şifre alıyorsunuz. Site size otomatik olarak özel ve genel anahtar yaratıyor. Sonrasında buradaki hesabınıza kriptopara (bu site örneğinde Bitcoin ve Ethereum) gönderebilir ve alabilirsiniz. Bir bankanın online websitesinden bir farkı yok; rahat ve pratik. Sıkıntısı, online bir site olduğu için yarın öbür gün bu sitenin hack edilmesi (yani bilgilerin dışarı sızdırılması). Ufak bir ihtimal; ancak sonuç olarak burası da merkezi bir sistem.
+Bir web sitesine giriyorsunuz, (örneğin [Blockchain Info](https://www.blockchain.com/)) ve oradan kendinize bir kullanıcı adı ile şifre alıyorsunuz. Site size otomatik olarak özel ve genel anahtar yaratıyor. Sonrasında buradaki hesabınıza kriptopara (bu site örneğinde Bitcoin ve Ethereum) gönderebilir ve alabilirsiniz. Bir bankanın online web sitesinden bir farkı yok; rahat ve pratik. Sıkıntısı, online bir site olduğu için yarın öbür gün bu sitenin hack edilmesi (yani bilgilerin dışarı sızdırılması). Ufak bir ihtimal; ancak sonuç olarak burası da merkezi bir sistem.
 
 ### Bilgisayar ile {#bilgisayar-ile}
 
@@ -83,13 +83,13 @@ Yukarıdaki ilk üç alternatif bir “kaybolma” senaryosu da içeriyor; web s
 Sonuç olarak kripto cüzdanlar oldukça güvenli araçlar. Yukarıda bahsettiğimiz kötü senaryoların herhangi biri, bankada işlem yaparsanız da başınıza gelebilir. Bankada, genelde bu tip durum ortaya çıktığında yetkililer ile konuşup kaybettiğiniz parayı geri alma ihtimaliniz var. Kriptopara dünyasında ise konuşacağınız bir mercii yok. O nedenle kritik olan, gerekli önlemleri baştan almak. Nedir bu önlemler?
 
 1. Yukarıda bahsettiğim 12 kelimeyi unutmayacağınız bir köşede tutmak.
-2. Pratik olması bakımından, işlem yapmayı planladığınız ufak bir miktarı kriptopara borsasında tutmak ki böylece ani değişimlerde hızlıca işlem yapabilin.
+2. Pratik olması bakımından, işlem yapmayı planladığınız ufak bir miktarı kriptopara borsasında tutmak ki böylece ani değişimlerde hızlıca işlem yapabilesiniz.
 3. Göreceli daha büyük ama yine işlem yapabileceğiniz bir miktarı bilgisayar ya da cep telefonunda tutmak. Burada da işlem yapmak için parayı kriptopara borsasına göndermeniz gerekli ve bu da oldukça süre (genelde on dakika ama bazen uzayabilir) alıyor. Hemen işlem yapamıyorsunuz.
 4. Eğer büyük yatırımcı iseniz ve uzun vadeli olarak kriptopara tutacaksanız; fiziki cüzdan satın almak.
 
 ## DeFi için genelde hangi cüzdanlar kullanılıyor? {#defi-icin-genelde-hangi-cuzdanlar-kullaniliyor}
 
-DeFi için genel olarak online, mobil ya da hardware cüzdanlar kullanılıyor. Mobil cüzdan dediğimiz aslında bir uygulama. Telefonunuzun işletim sistemine göre Apple Store ya da Google Play üzerinden indirip çalıştırıyorsunuz.
+DeFi için genel olarak online, mobil ya da hardware cüzdanlar kullanılıyor. Mobil cüzdan dediğimiz aslında bir uygulama. Telefonunuzun işletim sistemine göre App Store ya da Google Play üzerinden indirip çalıştırıyorsunuz.
 
 <figure><a href="/assets/books/sorularla-defi/402-2.jpeg"><img src="/assets/books/sorularla-defi/402-2.jpeg" alt="Image by mohamed Hassan from Pixabay" width="1200" height="774" loading="lazy"></a><figcaption>Image by <a href="https://pixabay.com/users/mohamed_hassan-5229782">mohamed Hassan</a> from <a href="https://pixabay.com/">Pixabay</a></figcaption></figure>
 

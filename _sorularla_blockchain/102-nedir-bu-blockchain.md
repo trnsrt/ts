@@ -10,7 +10,7 @@ permalink: /Sorularla_Blockchain/bolum-1/nedir-bu-blockchain/
 description: "Web 3.0 olarak da adlandırılan yeni dijitalleşme dalgasının içerisinde şu ana kadar en öne çıkan Blockchain konusuna yavaştan başlayalım."
 ---
 
-Web 3.0 olarak da adlandırılan yeni dijitalleşme dalgasının içerisinde şu ana kadar en öne çıkan Blockchain konusuna yavaştan başlayalım. Blockchain denince birçoğumuzun ilk aklına gelen kripto para konusuna da değinmeden olmaz. İki kavram aynı değiller anca birbirlerine ayrılmaz biçimde bağlılar. Daha başka örnekler de var, sırasıyla onlara da bakacağız.
+Web 3.0 olarak da adlandırılan yeni dijitalleşme dalgasının içerisinde şu ana kadar en öne çıkan Blockchain konusuna yavaştan başlayalım. Blockchain denince birçoğumuzun ilk aklına gelen kripto para konusuna da değinmeden olmaz. İki kavram aynı değiller ancak birbirlerine ayrılmaz biçimde bağlılar. Daha başka örnekler de var, sırasıyla onlara da bakacağız.
 
 İnsan ilişkilerinin temelinde güven yatar. Karşıdakine güven. Ancak biz insanlar karşımızdakinin sadece sözüne bağlı olarak bu güveni sağlayamadığımız için araya aracıların girmesine izin veririz. Pazardan alışveriş yaparken aldığımız domates için verdiğimiz kâğıt para devletin güven teşkil etmek için pazarcı ile aramıza girmesidir örneğin. Ya da birine bir havale yaparken bize ait olan bir varlığın karşı tarafın sahipliğine geçmesine bankanın aracılık etmesi gibi…
 
@@ -29,7 +29,7 @@ Tabii Blockchain bu makinelere konuşmanın ötesinde kendi aralarında anlık o
 
 Yani Blockchain teknolojisi, yukarıda bahsettiğimiz merkezi yapıların elinde olan “güven” unsurunu, “güvene duyulan ihtiyacın minimize edildiği”, merkezi olmayan (adem-i merkeziyetçi) bir yapıya taşıyor. Kripto paralar da, bu teknolojinin tabiri caiz ise ilk çocuğu.
 
-## Peki gayet güzel yürüyen bir sistem var zaten, neden buna ihtiyaç var? {#peki-gayet-guzel-yuruyen-bir-sistem-var-zaten-neden-buna-ihtiyac-var}
+## Peki gayet güzel yürüyen bir sistem var zaten, neden Blockchain’e ihtiyaç var? {#peki-gayet-guzel-yuruyen-bir-sistem-var-zaten-neden-buna-ihtiyac-var}
 
 İyi de nereden çıktı bu, ne işe yarayacak? Dünyada zaten yeterince miktarda farklı cins para var. İstediğim parayı alıp, istediğimi satıyorum. İstediğim rakamı istediğim yere gönderiyorum? Kredi kartı ile her türlü alışverişi yapıyorum? Neden böyle bir sisteme ihtiyaç duyuldu?
 
@@ -59,7 +59,7 @@ Bunu sürekli örülen bir örümcek ağı gibi düşünün. Bir sinek bir ağa 
 Para burada sadece bir örnek. Güven sağlayan merkezi bir yapının yerini (ya da paralel olarak onunla birlikte) her yere dağılmış makinelerin aldığını düşünelim. Neler yapılabilirdi, bize ne faydası olurdu?
 
 - Online kimliğimiz Blockchain üzerinde tutulsa ve sadece bizim istediğimiz mecralarda bizim istediğimiz kadar gösterilse — beğenmediğimiz bir mecrayı anında kesip atsak, bütün bilgilerimizi anında başka bir yere taşısak? Tamam böyle bir kimliğe ortam sağladığı için Facebook bizden para almıyor ama, ya biz bu kimliğimizi kullanıp üstüne bir de para alsak — örneğin reklam verenlerden?
-- Aracıların olduğu her alana (örneğin Uber’e ya da iTunes App Store’a yüksek komisyon (şu anda %30'larda!) ödeyeceğimize bunu olabildiğince aza (örneğin %1’e) indirsek?
+- Aracıların olduğu her alana (örneğin Uber’e ya da iTunes App Store’a yüksek komisyon (şu anda %30’larda!) ödeyeceğimize bunu olabildiğince aza (örneğin %1’e) indirsek?
 - Yüksek işlem ücreti isteyen her türlü borsanın (örneğin kripto borsaları — bu borsalarda işlem yapanlar ne kadar çok aracılık masrafı yaptıklarını çok iyi bilirler) ücretini sıfıra çeksek?
 
 Gelin Blockchain bazlı sistemler bizi ve içinde bulunduğumuz sektörleri nasıl etkileyecek, bir sonraki bölümde buna bakalım...

@@ -33,7 +33,7 @@ Dikkat ederseniz, para transferi kişiler arası gerçekleşen finansal işlemle
 
 Elbette ileride tüm para transferleri bankalardan alınıp makinelere geçecek demek doğru olmaz. Zira eğer bankadan çok cüzi miktarda para transferini EFT sistemi ile daha hızlı yapabiliyorsanız neden kripto para gibi alternatifler ile uğraşasınız ki? Ama dediğimiz gibi SWIFT gibi yüksek maliyetli bir alana girerseniz işte orada kripto para şimdiden ciddi bir alternatif.
 
-Tabii hemen belirtelim: Kripto paraların bulunduğu Blockchain sistemlerinin hükümetlerin gerekli gördüğü kara para ile mücadele (anti-moneylaundry ya da kısaca AML) ve müşterinin kimlik bilgilerinin bilinmesi (know-your-customer ya da kısaca KYC) konularında alacakları bir hayli yol var.
+Tabii hemen belirtelim: Kripto paraların bulunduğu Blockchain sistemlerinin hükümetlerin gerekli gördüğü kara para ile mücadele (anti-money-laundering ya da kısaca AML) ve müşterinin kimlik bilgilerinin bilinmesi (know-your-customer ya da kısaca KYC) konularında alacakları bir hayli yol var.
 
 Benzer mantıkla Blockchain bazlı yapılar öncelikle basit ve yüksek maliyetli alanlara odaklanacaklar. Teknoloji geliştikçe daha karmaşık alanlara girmeye başlayacaklar.
 
@@ -47,7 +47,7 @@ Bu demek değil ki bu kripto paralar alışveriş için kullanımda başarısız
 
 Gelişmiş ülkelerde kripto paraların ödeme amaçlı kullanımı ikinci bir dalga olarak gelebilir. Ancak bunun için iki ön koşul var: birincisi başka ihtiyaçlar nedeniyle kripto para kullanımının artması, ikincisi ise bu paraların üstün bir kullanıcı deneyimi sağlaması.
 
-## Başka hangi alanlar? {#baska-hangi-alanlar}
+## Finansta başka hangi alanlar? {#baska-hangi-alanlar}
 
 Peki para transferlerinin ötesinde finansın hangi alanında Blockchain bazlı girişimlerin başarı şansı daha fazla? Decentralized Finance (DeFi) olarak da adlandırılan bu yeni dalgada hangi alanlar göreceli basit ve yüksek maliyetli?
 
@@ -63,7 +63,7 @@ Kurucularının ortak özelliği Blockchain sistemleri üzerine girişimler olma
 - Ulaşılabilirlik ve finansal kapsayıcılık: İnternet bağlantısı olan herkesin ulaşabileceği bir finansal sistem hayali. Aynı şekilde “değer”in (ya da bir varlığın) kişinin coğrafi konumundan bağımsız olarak dünyada serbestçe dolaşabilmesi.
 - Finansal şeffaflık: Finansal hizmetlerin şeffaf olmayan silolarda tutulması yerine kişilerin gizliliği konusunu saklı tutmak kaydıyla tüm piyasa bilgisinin tüm katılımcılara açık olduğu bir sistem inancı.
 
-DeFi protokolü üye girişimlerin bazıları [Dharma Labs](https://dharma.io/), [dy/dx](https://dydx.exchange/), [Compound](https://compound.finance/), [CDx](https://cdxproject.com/), [Coinbase Wallet](https://wallet.coinbase.com/), [Kyber Network](https://kyber.network/), [bZx](https://b0x.network/), [MARKET Protocol](https://marketprotocol.io/), [8x Protocol](https://8xprotocol.com/), [Centrifuge](http://www.centrifuge.io/), [Connext](https://connext.network/), [Loopring](https://loopring.org/). Ama en yaygın kullanılanı [Maker DAO](https://makerdao.com/).
+DeFi protokolü üye girişimlerin bazıları [Dharma Labs](https://dharma.io/), [dy/dx](https://dydx.exchange/), [Compound](https://compound.finance/), [CDx](https://cdxproject.com/), [Coinbase Wallet](https://wallet.coinbase.com/), [Kyber Network](https://kyber.network/), bZx, [MARKET Protocol](https://marketprotocol.io/), 8x Protocol, [Centrifuge](http://www.centrifuge.io/), [Connext](https://connext.network/), [Loopring](https://loopring.org/). Ama en yaygın kullanılanı [MakerDAO](https://makerdao.com/).
 
 <figure markdown="1">
 <a href="/assets/books/sorularla-blockchain/201-2.png"><img src="/assets/books/sorularla-blockchain/201-2.png" alt="DeFi kurucu üye platformlar (Kaynak: Dharma)" width="1200" height="546" loading="lazy"></a>
@@ -72,7 +72,7 @@ DeFi protokolü üye girişimlerin bazıları [Dharma Labs](https://dharma.io/),
 
 Sonuç
 
-Özet olarak DeFi yani Decentralized Finance’nin özü Akıllı Kontratlar ile işlemlerin aracısız olarak gerçekleşmesi. Yani herhangi bir güç tarafından kontrol edilmeyen makinelerin verilen işlemleri baştan belirlenen koşullar gerçekleştiğinde otomatik olarak gerçekleştirmesi.
+Özet olarak DeFi yani Decentralized Finance’in özü Akıllı Kontratlar ile işlemlerin aracısız olarak gerçekleşmesi. Yani herhangi bir güç tarafından kontrol edilmeyen makinelerin verilen işlemleri baştan belirlenen koşullar gerçekleştiğinde otomatik olarak gerçekleştirmesi.
 
 Bu alanda ilk akla gelebilecek uygulamanın para transferi olduğunu belirtmiş ve Bitcoin başta olmak üzere pek çok kripto para ile bu alanda belli yol kat edildiğinden bahsetmiştik. İkinci alan olarak da kredi verme ve almadan bahsedebiliriz.
 

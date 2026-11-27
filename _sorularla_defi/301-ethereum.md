@@ -12,11 +12,11 @@ description: "DeFi olarak adlandırdığımız merkeziyetsiz finans ürünleri a
 
 DeFi olarak adlandırdığımız merkeziyetsiz finans ürünleri altyapı olarak çoğunlukla Ethereum blokzincirini kullanıyorlar. İlk bölümde DeFi’nin çıkışından bahsederken, tüm blokzincir teknolojisinin Bitcoin ile başladığını belirtmiş, ancak Bitcoin’in sadece “sansürsüz değer koruyan bir internet parası” olma felsefesi nedeniyle bir grubun ayrılarak Ethereum’u kurduğunu vurgulamıştık.
 
-Bu bölümümüzde; Ethereum nedir, sistemin temel taşı olan akıllı kontratlar nasıl işler, Ethereum’un parası olan ETH ileride nasıl bir yol haritası izleyecek gibi konulara değineceğiz.
+Bu bölümde; Ethereum nedir, sistemin temel taşı olan akıllı kontratlar nasıl işler, Ethereum’un parası olan ETH ileride nasıl bir yol haritası izleyecek gibi konulara değineceğiz.
 
 Ama önce gelin Ethereum’un ortaya çıkış hikâyesinden bahsedelim:
 
-## Ethereum'un hikayesi {#ethereumun-hikayesi}
+## Ethereum’un hikayesi {#ethereumun-hikayesi}
 
 Ethereum, en basit hâliyle binlerce makinenin bağlı olduğu dünyanın en büyük bilgisayarı olma iddiasında. İlginç de bir hikâyesi var; kısaca bahsedelim.
 
@@ -30,11 +30,11 @@ Başlangıçta Bitcoin blokzinciri üzerinde geliştirmeler yapmaya başlayan Bu
 
 ### Ethereum’un ortaya çıkışı {#ethereumun-ortaya-cikisi}
 
-2013 yılında Buterin, 15 yazılımcı arkadaşı ile birlikte Ethereum’u tanıtır. Ama henüz ortada sadece bir konsept tasarım vardır; para kazanılacak ya da yatırım alabilecek bir ürün için henüz erkendir. Tam o sırada Peter Thiel (bilenler bilir; PayPal’in kurucularından, Facebook’a ilk para yatıran kişidir kendisi) onlara 100,000 ABD doları burs verir. Derler ki bu bursu almak Amerikanın en iyi üniversitelerine girmekten bile zordur. Tabii sadece bu da değil, aynı zamanda Buterin, 2014 yılı içinde Ethereum ile Dünya Teknoloji Ödülü’nü de alır. O yıl; enerji dalında Elon Musk, medya alanında meşhur Walter Isaacson, teknoloji alanında ise Buterin ile birlikte bu ödüle layık görülen diğer kişiler olurlar.
+2013 yılında Buterin, 15 yazılımcı arkadaşı ile birlikte Ethereum’u tanıtır. Ama henüz ortada sadece bir konsept tasarım vardır; para kazanılacak ya da yatırım alabilecek bir ürün için henüz erkendir. Tam o sırada Peter Thiel (bilenler bilir; PayPal’in kurucularından, Facebook’a ilk para yatıran kişidir kendisi) onlara 100,000 ABD doları burs verir. Derler ki bu bursu almak Amerika’nın en iyi üniversitelerine girmekten bile zordur. Tabii sadece bu da değil, aynı zamanda Buterin, 2014 yılı içinde Ethereum ile Dünya Teknoloji Ödülü’nü de alır. O yıl; enerji dalında Elon Musk, medya alanında meşhur Walter Isaacson, teknoloji alanında ise Buterin ile birlikte bu ödüle layık görülen diğer kişiler olurlar.
 
 ### Ödüller karın doyurmuyor, yatırım lazım {#oduller-karin-doyurmuyor-yatirim-lazim}
 
-Peter Thiel’in bursu ekibin daha olgun bir ürün oluşturma anlamında yol almasına yardımcı olsa da yeterli olmaz. 2014 Eylül ayında ilginç bir yöntemle para toplarlar; “İlk iki hafta 2,000 Ether=1 BTC olacak şekilde para topluyoruz, sonrasında bu rakam yavaş yavaş düşecek en son alanlar 1,337 Ether=1 BTC şeklinde alacaklar.” Daha önce denenmemiş bir yöntem, zira bildiğimiz Dolar ya da Euro toplamıyorlar, Bitcoin topluyorlar! O zamanlar Bitcoin çok az biliniyor. Herhangi bir düzenleme altında da değil; ama zaten ortada satılan bir şirket de yok, hangi kanuna tabi olacaksınız ki? Karmaşık bir süreç ama nispeten rahat. İsviçre’de bir vakıf kurarak bu vakıf üzerinden satış yaparlar ve o zamanın parasıyla 18,5 milyon ABD doları toplarlar. Bu bir ether için ortalama 0.31 ABD doları demek. Etherin 2021 yılının Mayıs ayı sonu fiyatının yaklaşık 2,500 ABD doları civarında olduğunu söylersek, o zaman yatırım yapanların şu anki karlarını hesaplamak da size kalsın (ya da boşverin biz söyleyelim, koydukları paranın yaklaşık 8,000 katını kazanmış durumdalar).
+Peter Thiel’in bursu ekibin daha olgun bir ürün oluşturma anlamında yol almasına yardımcı olsa da yeterli olmaz. 2014 Eylül ayında ilginç bir yöntemle para toplarlar; “İlk iki hafta 2,000 Ether=1 BTC olacak şekilde para topluyoruz, sonrasında bu rakam yavaş yavaş düşecek en son alanlar 1,337 Ether=1 BTC şeklinde alacaklar.” Daha önce denenmemiş bir yöntem, zira bildiğimiz Dolar ya da Euro toplamıyorlar, Bitcoin topluyorlar! O zamanlar Bitcoin çok az biliniyor. Herhangi bir düzenleme altında da değil; ama zaten ortada satılan bir şirket de yok, hangi kanuna tabi olacaksınız ki? Karmaşık bir süreç ama nispeten rahat. İsviçre’de bir vakıf kurarak bu vakıf üzerinden satış yaparlar ve o zamanın parasıyla 18,5 milyon ABD doları toplarlar. Bu bir ether için ortalama 0.31 ABD doları demek. Ether’in 2021 yılının Mayıs ayı sonu fiyatının yaklaşık 2,500 ABD doları civarında olduğunu söylersek, o zaman yatırım yapanların şu anki karlarını hesaplamak da size kalsın (ya da boş verin biz söyleyelim, koydukları paranın yaklaşık 8,000 katını kazanmış durumdalar).
 
 Yukarıda bahsedilen toplanan paranın tamamının, geliştiricilere verilecek ödüller ve maaşlar ile Ethereum Vakfı’nın destekleyeceği Ethereum ve kripto dünyası ile ilgili projeler için harcanacağını belirtelim. Bu şekilde satılan etherin yanında, bu miktarın onda biri kadar bir rakam da kurucular için ayrılmış. Yani klasik girişimcilikte görülen, şirket kurucularının şirketin büyük kısmına sahip olmalarının yerini, bu yeni modelde, para toplamak için satılan etherin ufak bir kısmına baştan sahip olmak almış. Bu da bir yenilik.
 
@@ -88,13 +88,13 @@ Genel olarak kriptoparalarda yeni para yaratılmasının temel nedenlerinden bir
 
 Örneğin, Bitcoin’in güvenlik sistemi olan Proof-of-Work (PoW) mekanizmasının düzgün çalışması için madencilerin efor sarf etmesi gerekli. Bu da ancak elektrik enerjisi ile gerçekleşebiliyor ve maliyetli bir iş. Madencilerin bu enerjiyi harcaması için bir teşvike ihtiyaçları var, yoksa kimse başkasının hayrına kılını bile kıpırdatmaz. İşte bu nedenle sistem yeni yarattığı paraları, madencilere yaptıkları bu hizmetin karşılığında ödül olarak veriyor.
 
-Ethereum sistemi de benzer şekilde PoW sistemi ile çalışıyor. Ancak Ethereum 2.0. denen yeni versiyonda ( [1 Aralık 2020 itibariyle düğmeye basıldı](https://www.btchaber.com/ethereum-2-0a-yatirilan-miktar-1-milyona-ulasti/)), sistem artık yeni bir aşamaya geçiyor.
+Ethereum sistemi de benzer şekilde PoW sistemi ile çalışıyor. Ancak Ethereum 2.0 denen yeni versiyonda ( 1 Aralık 2020 itibariyle düğmeye basıldı), sistem artık yeni bir aşamaya geçiyor.
 
-Bir kaç yıl sürebilecek bu geçişin sonunda artık Ethereum sisteminin korunması için madencilerin enerji harcamasına ihtiyaç kalmayacak. Bunun yerine sistemin düzgün yürümesi için, ETH sahipleri ellerindeki kriptoparaları rehin verecekler. Buna Proof-of-Stake (PoS) deniyor. Ellerindeki ETH’yi rehin verenler, bunun karşılığı olarak da eskiden madencilere verilen ödüllere hak kazanacaklar.
+Birkaç yıl sürebilecek bu geçişin sonunda artık Ethereum sisteminin korunması için madencilerin enerji harcamasına ihtiyaç kalmayacak. Bunun yerine sistemin düzgün yürümesi için, ETH sahipleri ellerindeki kriptoparaları rehin verecekler. Buna Proof-of-Stake (PoS) deniyor. Ellerindeki ETH’yi rehin verenler, bunun karşılığı olarak da eskiden madencilere verilen ödüllere hak kazanacaklar.
 
 Normalde Ethereum madencilerine şu anki sistem olan PoW sırasında yılda 4.7 milyon adet ETH dağıtılıyor. Yeni sistem olan PoS’de ise bu ödül rakamı 1 milyon ETH’nin altına inebilir. Kesin rakam, ne kadar insanın paralarını, rehin verdiğine bağlı olarak değişecek.
 
-1 Aralık itibariyle başlayan ETH 2.0’ın başlangıç sürecinde, 2021 Mayıs ayı sonuna kadar [5 milyon ETH civarında](https://launchpad.ethereum.org/en/) olan rehin edilen paranın sonradan gelecek rehinler ile birlikte artacağı söylenebilir. Eğer rehin edilecek ETH sayısı iki katına çıkarsa, bu yıllık olarak yaklaşık [500 bin ETH bir ödül](https://docs.ethhub.io/ethereum-basics/monetary-policy/#proof-of-stake-impact) demek. Vitalik’in tahmini de tam olarak bu.
+1 Aralık itibariyle başlayan ETH 2.0’ın başlangıç sürecinde, 2021 Mayıs ayı sonuna kadar [5 milyon ETH civarında](https://launchpad.ethereum.org/en/) olan rehin edilen paranın sonradan gelecek rehinler ile birlikte artacağı söylenebilir. Eğer rehin edilecek ETH sayısı iki katına çıkarsa, bu yıllık olarak yaklaşık 500 bin ETH bir ödül demek. Vitalik’in tahmini de tam olarak bu.
 
 Bu sisteme geçiş hemen başlamayacak. Bir süre boyunca hem eski sistem ETH 1.0 hem de yeni sistem bir arada işleyecek. Bu sürede, hem madencilere hem de rehin verenlere ödül verilecek. Dolayısıyla eğer ETH 1.0’dan 2.0’a geçiş bir yıl sürerse, 2021 yılı içinde basılacak olan ETH miktarı Vitalik’in tahmini ile yuvarlak olarak 5.2 milyon (4.7 milyon artı 500 bin) olacak.
 
@@ -116,11 +116,11 @@ Bu öneri sayesinde, işlem komisyonlarını tahmin edememekten dolayı ödenen 
 
 Peki madenciler nasıl para kazanacaklar bu durumda? Yukarıdaki baz ücretin üzerine, kullanıcıların madencilere ufak bir bahşiş vermesi planlanıyor. Eski sistemde olduğu gibi, kullanıcı eğer işlemini hızlı gerçekleştirmek istiyorsa bahşişi yüksek tutacak. Bahşiş verilmemesi durumunda işlemin olmama ihtimali de var. Bu nedenle madencilere minimum da olsa bir ödeme gerekli gibi görünüyor. Aynı Bitcoin ve Ethereum’un şu anki durumunda olduğu gibi.
 
-EIP 1559 şu anda araştırma-geliştirme aşamasında. Toplululuk tarafından kabul görüp görmeyeceği kesin değil. Tahmini olarak Temmuz 2021’de yürürlüğe girmesi bekleniyor. Bu arada hemen belirtelim; EIP 1559 geliştirmesi hem ETH 1.0 hem de ETH 2.0 için yapılıyor. Dolayısıyla ETH 2.0’a geçiş bu iyileştirmeyi etkilemeyecek gibi görünüyor.
+EIP 1559 şu anda araştırma-geliştirme aşamasında. Topluluk tarafından kabul görüp görmeyeceği kesin değil. Tahmini olarak Temmuz 2021’de yürürlüğe girmesi bekleniyor. Bu arada hemen belirtelim; EIP 1559 geliştirmesi hem ETH 1.0 hem de ETH 2.0 için yapılıyor. Dolayısıyla ETH 2.0’a geçiş bu iyileştirmeyi etkilemeyecek gibi görünüyor.
 
 Öte yandan Ethereum üzerinde çalışılan bir başka inisiyatif ise işlemlerin blokzincir yerine üst seviye (Layer 2) zincir dışında bir araya getirilip sonrasında zincire yazılması. Her bir işlem ücretini ciddi şekilde azaltabilecek bu gelişme için çalışan pek çok girişim var. Hangi girişim ön plana çıkacak birlikte göreceğiz.
 
-### Net etki nasıl olur? {#net-etki-nasil-olur}
+### ETH 2.0 ve EIP 1559’un net etkisi nasıl olur? {#net-etki-nasil-olur}
 
 Eğer Vitalik’in bahsettiği değişiklikler olursa, ETH 2.0 geldiğinde, ödül olarak 500 bin ETH yaratılacak; ama bir yandan da bir milyona yakın ETH yakılacak. **Bu tedavüldeki ETH sayısının net olarak 500 bin adet azalması demek**. Vitalik’e göre, “[eğer sıfır para basımına ‘sağlam (sound) para’ denirse, negatif para basımı süpersonik anlamına gelir](https://www.realvision.com/rv/channel/realvision/videos/a0dafe0546b44328bac2ec75f7934d1d)”
 
@@ -131,6 +131,6 @@ Eğer Vitalik’in bahsettiği değişiklikler olursa, ETH 2.0 geldiğinde, öd�
 
 Bu zamanlama ve miktar öngörülerinin tutması durumundaki tablo aşağıdaki gibi olacak:
 
-<figure><a href="/assets/books/sorularla-defi/301-3.png"><img src="/assets/books/sorularla-defi/301-3.png" alt="Ethereum&#x27;un 2020 ile 2024 arası tahmini arz miktarı" width="1200" height="461" loading="lazy"></a><figcaption>Ethereum'un 2020 ile 2024 arası tahmini arz miktarı</figcaption></figure>
+<figure><a href="/assets/books/sorularla-defi/301-3.png"><img src="/assets/books/sorularla-defi/301-3.png" alt="Ethereum&#x27;un 2020 ile 2024 arası tahmini arz miktarı" width="1200" height="461" loading="lazy"></a><figcaption>Ethereum’un 2020 ile 2024 arası tahmini arz miktarı</figcaption></figure>
 
-Bir sonraki bölümde kısaca Ethereum'un rakiplerinden bahsedeceğiz.
+Bir sonraki bölümde kısaca Ethereum’un rakiplerinden bahsedeceğiz.

@@ -10,7 +10,7 @@ permalink: /Sorularla_DeFi/bolum-2/compound/
 description: "Kripto dünyasında ise DeFi hareketi benzer şekilde bize yeni alternatifler sunuyor."
 ---
 
-Kripto dünyasında ise DeFi hareketi benzer şekilde bize yeni alternatifler sunuyor. Henüz çok küçük ve deneysel olsalar da, belli bir potansiyel sahibi oldukları kesin. Gelin bu bölümde bu alandaki ilginç yapılardan [Compound](https://compound.finance/)‘a bakalım:
+Kripto dünyasında ise DeFi hareketi benzer şekilde bize yeni alternatifler sunuyor. Henüz çok küçük ve deneysel olsalar da, belli bir potansiyel sahibi oldukları kesin. Gelin bu bölümde bu alandaki ilginç yapılardan [Compound](https://compound.finance/)’a bakalım:
 
 Günümüzde klasik bankacılığın karşısına pek çok rakip çıkıyor. Özellikle Avrupa ve Amerika’da adına [Neobank](https://en.wikipedia.org/wiki/Neobank) denen yeni oluşumlara her geçen gün yenileri ekleniyor. Bunlar mevcut bankacılık hizmetlerini çok daha ucuza sağlıyorlar. Neden? Çünkü, üzerlerinde klasik bankaların geçmişten gelen artık kemikleşmiş maliyetlerinin hiçbiri yok.
 
@@ -20,11 +20,11 @@ Günümüzde klasik bankacılığın karşısına pek çok rakip çıkıyor. Öz
 
 Klasik bankacılık en basit tarifiyle yükümlülüklerinde mevduat sahiplerinin yatırdığı paraların, ihtiyaç sahiplerine kredi olarak verilmesi. Mevduata verilen ile kredilere uygulanan faizler arasındaki fark da esas olarak bir bankanın kâr marjı (spread).
 
-Compound da benzer şekilde mevduat sahipleri ile kredi verenler arasında banka benzeri çalışan, Ethereum üzerine kurulu bir sistem.
+Compound da benzer şekilde mevduat sahipleri ile kredi alanlar arasında banka benzeri çalışan, Ethereum üzerine kurulu bir sistem.
 
 <figure><a href="/assets/books/sorularla-defi/203-1.jpeg"><img src="/assets/books/sorularla-defi/203-1.jpeg" alt="Image by Mudassar Iqbal from Pixabay" width="1109" height="739" loading="lazy"></a><figcaption>Image by <a href="https://pixabay.com/users/kreatikar-8562930/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3405700">Mudassar Iqbal</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3405700">Pixabay</a></figcaption></figure>
 
-## Nasıl çalışıyor sistem? {#nasil-calisiyor-sistem}
+## Compound sistemi nasıl çalışıyor? {#nasil-calisiyor-sistem}
 
 Compound sisteminde bireyler ellerindeki kriptoparaları mevduat olarak yatırıp faiz kazanıyorlar. İhtiyacı olan bireyler ise bu faizin bir miktar fazlasına bu kriptoparaları kredi olarak kullanıyorlar. Bu “bir miktar fazla” dediğimiz rakam, aslında Compound’un bu işten aldığı komisyon. Tabii ki bankalara göre çok daha az.
 
@@ -60,9 +60,9 @@ Peki neden borç verirsiniz? Yatırım amaçlı. Bir süreliğine kenarda tutmak
 
 ## Kim kurmuş bu Compound’u? Güvenilir mi peki? {#kim-kurmus-bu-compoundu-guvenilir-mi-peki}
 
-Compound’u kuran ekip tecrübeli, ayrıca arkalarında teknoloji dünyasının en prestijli girişim sermayeleri var. Daha önce pek çok büyük kripto projesine yatırım yapmış [a16z](https://a16z.com/crypto/) ve [polychain capital](https://polychain.capital/) ve ABD’nin en büyük borsası [Coinbase](https://www.coinbase.com/)‘in yatırım [fonu](https://ventures.coinbase.com/) bunlardan en belirgin üçü. Bir DeFi hareketinin temel özelliği olarak tamamen şeffaf yürütülen sistem hem yatırımcılara hem de kullanıcılara bir nebze iç rahatlığı verebilir. Şimdi, görebildiğim kadarıyla sistemdeki tek kapalı noktaya gelelim.
+Compound’u kuran ekip tecrübeli, ayrıca arkalarında teknoloji dünyasının en prestijli girişim sermayeleri var. Daha önce pek çok büyük kripto projesine yatırım yapmış [a16z](https://a16z.com/crypto/) ve [polychain capital](https://polychain.capital/) ve ABD’nin en büyük borsası [Coinbase](https://www.coinbase.com/)’in yatırım [fonu](https://ventures.coinbase.com/) bunlardan en belirgin üçü. Bir DeFi hareketinin temel özelliği olarak tamamen şeffaf yürütülen sistem hem yatırımcılara hem de kullanıcılara bir nebze iç rahatlığı verebilir. Şimdi, görebildiğim kadarıyla sistemdeki tek kapalı noktaya gelelim.
 
-### Tamamen merkeziyetsiz mi? {#tamamen-merkeziyetsiz-mi}
+### Compound tamamen merkeziyetsiz mi? {#tamamen-merkeziyetsiz-mi}
 
 Hayır. Merkeziyetsizlik “uzun ince bir yol” ise Compound bu yolun ilerisinde ama sonunda değil. Olacak mı? Açıkçası o da belli değil.
 
@@ -76,11 +76,11 @@ Eğer tam merkeziyetsiz bir yapı düşünüyor olsaydık, o zaman alıcı ile s
 
 Compound, MakerDAO’ya göre bir parça daha basit. Bir analoji vermek gerekirse Compound bir banka, MakerDAO ise merkez bankası.
 
-Belki de bu nedenle MakerDAO kendi sistemini sürdürmek için bir stabil para ([Dai](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/dai)) yaratmışken, Compound’da benzer bir stabil para yok. Onlar Dai de dahil başka paraları kullanıyorlar; aynı bir banka gibi. (Sistemden Compound'un yönetim tokeni olan COMP ile kredi ya da mevduat işlemi yapabilirsiniz; ancak COMP stabil bir para değil).
+Belki de bu nedenle MakerDAO kendi sistemini sürdürmek için bir stabil para (Dai) yaratmışken, Compound’da benzer bir stabil para yok. Onlar Dai de dahil başka paraları kullanıyorlar; aynı bir banka gibi. (Sistemden Compound’un yönetim tokeni olan COMP ile kredi ya da mevduat işlemi yapabilirsiniz; ancak COMP stabil bir para değil).
 
 Compound’un nihai hedefi; faizi belirlemede bir gösterge olacak, üzerine pek çok başka uygulamanın yazıldığı, kurucularının egemenliğinden uzaklaşmış merkeziyetsiz bir protokol olmak.
 
-Bu arada hem Compound hem MakerDAO’da yönetim hakları için bir token çıkarılmış durumda; MakerDAO için [MKR](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/mkr-token), Compound için ise 2020 Haziran ayında çıkan COMP. Gelin şimdi de COMP yönetim tokenine yakından bakalım.
+Bu arada hem Compound hem MakerDAO’da yönetim hakları için bir token çıkarılmış durumda; MakerDAO için MKR, Compound için ise 2020 Haziran ayında çıkan COMP. Gelin şimdi de COMP yönetim tokenine yakından bakalım.
 
 ## Nedir COMP token? {#nedir-comp-token}
 
@@ -94,7 +94,7 @@ Bu yolu seçmelerindeki en önemli neden, kullanıcıların tokenlere sahip olma
 
 ## COMP hamlesi nasıl işledi? {#comp-hamlesi-nasil-isledi}
 
-Compound, COMP tokenleri dağıtırken kullanıcıları tamamen serbest bıraktı. Bu ne demek? Genelde; bir şirket çalışanlarına hisse dağıtırken, çalışanlar hisseyi alıp satıp kaçmasınlar diye onlara bu hisseleri zamana yayarak verir. DeFi platformlarının bazıları da yönetim tokeni dağıtırken bu yolu izledi. Örneğin; [Futureswap](https://www.futureswap.com/) kendi kullanıcılarına verdiği yönetim tokenlerini bu şekilde 'başkasına devredemezsiniz' [şartıyla dağıtmaya başladı](https://defirate.com/futureswap-launches/) ve kısa bir süre sonra da bu tokenlerin dağıtımını durdurdu.
+Compound, COMP tokenleri dağıtırken kullanıcıları tamamen serbest bıraktı. Bu ne demek? Genelde; bir şirket çalışanlarına hisse dağıtırken, çalışanlar hisseyi alıp satıp kaçmasınlar diye onlara bu hisseleri zamana yayarak verir. DeFi platformlarının bazıları da yönetim tokeni dağıtırken bu yolu izledi. Örneğin; [Futureswap](https://www.futureswap.com/) kendi kullanıcılarına verdiği yönetim tokenlerini bu şekilde 'başkasına devredemezsiniz' şartıyla dağıtmaya başladı ve kısa bir süre sonra da bu tokenlerin dağıtımını durdurdu.
 
 Herhangi bir kısıtlama getirilmediği için kullanıcılara verilen bu COMP tokenler anında çeşitli borsalarda işlem görmeye başladı.
 
@@ -116,7 +116,7 @@ En önemli nedeni, aslında yavaş yavaş artan token değerinin kendi kendine b
 
 Compound’un mevduat yatırma ya da kredi alma işine yaradığına geçen kısımda değinmiştik. Sisteme kredi verdiğinizde karşılığında bir faiz alıyorsunuz, üzerine bir de COMP token kazanıyorsunuz. Bu tokeni aldığınız gibi piyasada satabiliyorsunuz, böyle olunca aslında kazandığınız para kat be kat artıyor.
 
-COMP bunu kendi sistemini geniş kitlelere kullandırabilmek için yaptı. Zira bu tip DeFi platformlarının en büyük sorunu likidite sıkıntısı. Bu da bir tür sarmal. Kullanıcı olmayınca likidite olmuyor, likidite olmayınca da yeni kullanıcı gelmiyor. Bu sarmalı kırmak gerek. Sanırım Compound, COMP token ile bu sarmalı kırmayı başardı. İki hafta içinde Compound sisteminine bağlanan kriptopara değeri beş kat artarak DeFi piyasasının en büyüğü olan MakerDAO sistemini geçti.
+COMP bunu kendi sistemini geniş kitlelere kullandırabilmek için yaptı. Zira bu tip DeFi platformlarının en büyük sorunu likidite sıkıntısı. Bu da bir tür sarmal. Kullanıcı olmayınca likidite olmuyor, likidite olmayınca da yeni kullanıcı gelmiyor. Bu sarmalı kırmak gerek. Sanırım Compound, COMP token ile bu sarmalı kırmayı başardı. İki hafta içinde Compound sistemine bağlanan kriptopara değeri beş kat artarak DeFi piyasasının en büyüğü olan MakerDAO sistemini geçti.
 
 Böyle bir sıçramanın ne kadar sağlıklı ya da gerçekçi olduğu ise tartışmaya açık. Zira sistemde hem mevduat yapan hem de kredi alan COMP kazandığı için, türev enstrümanlar aracılığıyla çoklu miktarda işlem yapıp kat kat COMP kazanma imkânları da hemen kullanılmaya başlandı.
 
@@ -140,6 +140,6 @@ Son olarak, COMP token satın alanlar arasında kısa vadeli kazanç peşinde ko
 
 ## Compound üzerine son birkaç söz {#compound-uzerine-son-birkac-soz}
 
-Compound, kredi/mevduat alanının ağır topu olarak 2020 yılı içinde DeFi'nin büyümesine en çok katkı sağlayan protokollerden biri oldu. Gelecekte nasıl bir ilerleme göstereceklerini izlemek ilginç olacak. Zira karşılarında, [Aave](https://aave.com/) gibi oldukça yenilikçi ciddi rakipler var. DeFi'nin 'gücü müşteriye verme' felsefesi gereği, klasik finansın aksine; kullanıcılar, varlıklarını çok rahat hizmet sağlayıcılar arasında kaydırabiliyorlar. Bu da müşteriyi elinde tutmak için sürekli yenilik yapma gerekliliği doğuruyor.
+Compound, kredi/mevduat alanının ağır topu olarak 2020 yılı içinde DeFi’nin büyümesine en çok katkı sağlayan protokollerden biri oldu. Gelecekte nasıl bir ilerleme göstereceklerini izlemek ilginç olacak. Zira karşılarında, [Aave](https://aave.com/) gibi oldukça yenilikçi ciddi rakipler var. DeFi’nin 'gücü müşteriye verme' felsefesi gereği, klasik finansın aksine; kullanıcılar, varlıklarını çok rahat hizmet sağlayıcılar arasında kaydırabiliyorlar. Bu da müşteriyi elinde tutmak için sürekli yenilik yapma gerekliliği doğuruyor.
 
-Örneğin, 2021 yılının Temmuz ayında, ['Compound Treasury' adı verilen bir ürün çıkardılar](https://medium.com/compound-finance/announcing-compound-treasury-for-businesses-institutions-83d4484fb82e). Compound, bu ürün kapsamında, klasik bankalara mevduat koyduğunda %1'den daha az gelir elde şirketler için, kasalarında tuttukları doları USDC isimli stabil bir parada değerlendirerek %4 oranında faiz alma imkanı sunuyor. Üstelik bunu yaparken, şirketlerin 'müşterini tanı' (İngilizce'de 'Know Your Customer' - KYC) prosedürlerinden geçmesini de sağlıyor. Kurumsal şirketlerin, DeFi havuzuna ayağını sokmasını sağlayan ilk adımlardan biri olan hizmet, Aave'nin kurumsal şirketlere yönelik ürünü olan [Aave Pro](https://www.fxstreet.com/cryptocurrencies/news/aave-pro-to-launch-in-july-for-institutional-access-to-defi-markets-202107060509) ile aynı günlerde açıklandı. Görüyorsunuz ya; rekabet her zaman kazandırır.
+Örneğin, 2021 yılının Temmuz ayında, ['Compound Treasury' adı verilen bir ürün çıkardılar](https://medium.com/compound-finance/announcing-compound-treasury-for-businesses-institutions-83d4484fb82e). Compound, bu ürün kapsamında, klasik bankalara mevduat koyduğunda %1’den daha az gelir elde eden şirketler için, kasalarında tuttukları doları USDC isimli stabil bir parada değerlendirerek %4 oranında faiz alma imkânı sunuyor. Üstelik bunu yaparken, şirketlerin 'müşterini tanı' (İngilizce’de 'Know Your Customer' - KYC) prosedürlerinden geçmesini de sağlıyor. Kurumsal şirketlerin, DeFi havuzuna ayağını sokmasını sağlayan ilk adımlardan biri olan hizmet, Aave’nin kurumsal şirketlere yönelik ürünü olan [Aave Pro](https://www.fxstreet.com/cryptocurrencies/news/aave-pro-to-launch-in-july-for-institutional-access-to-defi-markets-202107060509) ile aynı günlerde açıklandı. Görüyorsunuz ya; rekabet her zaman kazandırır.

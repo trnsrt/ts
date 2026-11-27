@@ -22,7 +22,7 @@ Mevcut finans sistemi oyuncuları, gerek hizmet sağlayıcı finans kurumları g
 
 Nasıl büyür şirketler? Yeni müşteri kazanarak. Yeni müşteri nereden gelecek? Ya mevcut rakiplerden ya da sisteme yeni katılanlardan.
 
-Mevcut rakiplerden müşteri kazanmak artan rekabet demek ve bunu zaten uzun yıllardır yaşanıyor. Bu rekabet nedeniyle kar marjları zaten tehlikede.
+Mevcut rakiplerden müşteri kazanmak artan rekabet demek ve bu zaten uzun yıllardır yaşanıyor. Bu rekabet nedeniyle kar marjları zaten tehlikede.
 
 Ya sisteme yeni katılanlar? Henüz bankası olmayan az bir kesim kaldı ama orada da istenen evraklar ve kişilerin kredi geçmişinin olmaması gibi nedenlerle bu kesimden müşteri çekmek zor.
 
@@ -32,7 +32,7 @@ Yeni nesil, hisse senetlerinden sağlayacağı %10-20 getiri yerine daha riskli 
 
 Dolayısıyla, büyüme devam edecek ancak büyüyen pastadan aslan payını dijital dünya alacak. Hemen söyleyelim, ne kadar çaba gösterseniz de şu an için bu dijital dünyanın parası kriptoparalar, varlıkları NFT’ler, finans sistemi ise merkeziyetsiz finans olacak gibi görünüyor.
 
-### 'İyi de bu ürünleri gerçek hayatta kullanabilecek miyiz?' {#iyi-de-bu-urunleri-gercek-hayatta-kullanabilecek-miyiz}
+### 'İyi de DeFi ürünlerini gerçek hayatta kullanabilecek miyiz?' {#iyi-de-bu-urunleri-gercek-hayatta-kullanabilecek-miyiz}
 
 Merkeziyetsiz finans platformlarında herhangi bir başvuru yapmadan ve hiçbir evrak vermeden teminat yatırarak kredi almak mümkün. “İyi de aldığım bu kredi ile ihtiyaçlarımı karşılayabilir miyim? Ev ya da araba alabilir miyim?” Belki bu, şu anda çok pratik bir yol değil. Dijital dünyadaki varlıkların fiziki dünyaya nasıl aktarılacağı konusunda çok çalışma ve bu yolda pek çok gelişme var. Yine de DeFi oyuncuları bu konuyu çok da dert etmiyorlar, zira onların gözü başka yerde.
 

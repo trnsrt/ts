@@ -42,19 +42,19 @@ Ama bir taraftan da özellikle kripto para dışındaki girişimlerde her zaman 
 
 Bunun yanında izne bağlı olmayan açık sistemler, bilginin kayıt edilmesi sırasında kimi partilere fayda sağlayabilecek ancak sisteme yük getirecek ve bilgi kirliliğine yol açabilecek işlemlerin (örneğin spam bildirimler) oluşmasına yapıları gereği engel olamıyorlar.
 
-## Birkaç örnek verelim mi? {#birkac-ornek-verelim-mi}
+## Genel ve özel Blockchain’lerden birkaç örnek verelim mi? {#birkac-ornek-verelim-mi}
 
 Elbette. Genel (ya da açık) Blockchain’lere örnekler çok. Hepimizin duyduğu Bitcoin ve Ethereum en bilinen Blockchain örnekleri. Tüm yazılımları halka açık, bütün makinelerin istedikleri gibi bağlanıp parçası olup, istedikleri gibi çıktıkları açık platformlar.
 
 Özel Blockchain’ler ise genelde ticari kurumlar tarafından kuruluyor ve o nedenle ismen çok da bilinmiyorlar. Örneğin IBM’in liderlik ettiği (her ne kadar IBM’in sadece katılımcısı olduğu ve liderliğini Linux Foundation’ın yaptığı söylense de) [Hyperledger Fabric](https://www.ibm.com/blockchain/hyperledger)[^1]. Ya da finansal alanda pek çok finansal kuruluşun üzerine gelişim yaptırdığı Corda Blockchain’i yaratan [r3](https://www.r3.com/)[^2]
 
-## Peki girişimciler bu konuda ne kadar tecrübeli? {#peki-girisimciler-bu-konuda-ne-kadar-tecrubeli}
+## Peki girişimciler Blockchain konusunda ne kadar tecrübeli? {#peki-girisimciler-bu-konuda-ne-kadar-tecrubeli}
 
 Hemen hemen her sektörde Blockchain bazlı sistemleri kullanarak sektörü kökünden sarsmak isteyen pek çok yeni girişim var. Ancak, bu girişimlerin birçoğu maalesef hüsranla sonuçlanacak. Neden? Birkaç nedeni var, onları da sıralayalım:
 
 - Henüz Blockchain teknolojisinin altyapısı tam olgunlaşmadı, özellikle genel (public) Blockchain’lerin altyapılarının gelişimi oldukça yavaş bir şekilde ilerliyor. 2000’li yılların başında patlayan Startup balonunda da benzeri olmuştu. O zaman pek çok fikir vizyon olarak iyi ama zamanın çok ötesinde olduğu için başarılı olamadı (şimdi o fikirlerin bir kısmı yeniden hayata geçiriliyor).
 - Sırf piyasada bu alana büyük ilgi var diye iş yapmaya çalışan kişiler var — ki bunların bir kısmı PR yapmaya çalışan ve altı boş girişimler. Örnek mi? Sierra Leone’de seçimleri Blockchain üzerinden yaptığını [iddia eden](https://techcrunch.com/2018/03/14/sierra-leone-just-ran-the-first-blockchain-based-election/)[^3] Agora ve bunu şiddetle [reddeden](https://techcrunch.com/2018/03/19/sierra-leone-government-denies-the-role-of-blockchain-in-its-recent-election/)[^4] hükümet.
-- “Her ağacın meyvesi olmaz” derler. Her sektörün farklı farklı dinamikleri var. Dolayısıyla Blockchain de her alanda faydalı olacak diye düşünmek doğru değil. Bu nedenle Blockchain’ ihtiyaç duyulmayan, böyle bir potansiyelin bulunmadığı sektörlere giren girişimcilerin de hüsrana uğraması kaçınılmaz.
+- “Her ağacın meyvesi olmaz” derler. Her sektörün farklı farklı dinamikleri var. Dolayısıyla Blockchain de her alanda faydalı olacak diye düşünmek doğru değil. Bu nedenle Blockchain’e ihtiyaç duyulmayan, böyle bir potansiyelin bulunmadığı sektörlere giren girişimcilerin de hüsrana uğraması kaçınılmaz.
 
 [^1]: [https://www.ibm.com/blockchain/hyperledger](https://www.ibm.com/blockchain/hyperledger)
 

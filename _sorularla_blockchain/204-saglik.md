@@ -35,7 +35,7 @@ Hemen akla şu soru gelebilir: “Sağlık kurumları kendi aralarında anlaşsa
 <figcaption markdown="span">Healthureum sistemi nasıl çalışıyor? (Kaynak: [Healthureum](https://healthureum.wordpress.com/2018/01/24/advantages-of-a-blockchain-enabled-ehr-as-implemented-by-project-healthureum-over-the-conventional-record-keeping-software-that-is-presently-in-use-2/)[^3])</figcaption>
 </figure>
 
-[Tierion](https://tierion.com/)[^4] da benzer şekilde hasta verilerinin sağlıklı bir şekilde kayıt edilmesi ve kayıtlarını tutarlılığı (değiştirilemezliği) konusunda çalışıyor ve [Philips Blockchain Labs](http://www.2.forms.healthcare.philips.com/blockchainlabs)[^5] ile iş birliği içinde. Keza MIT altındaki Media Lab merkezinden çıkma girişimlerden [MedRec](http://medrec.io/)[^6] de hastaların verilerini kendi kontrolleri altında izin verdikleri kurumlarla kolayca paylaşabilmesine yoğunlaşmış. Bir başka girişim [Factom](https://www.factom.com/)[^7] ise Blockchain altyapısını kullanarak küresel ama özellikle sağlık hizmetlerine erişimin zor olduğu bölgelerde yaşayanların sağlık datalarının dağıtık bir yapıda (Blockchain üzerinde) tutulması ve biyometrik doğrulama ile erişimi konusunda uzmanlaşmış ve 2016 yılında Bill & Melinda Gates Foundation’dan [yatırım almış](https://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2016/11/OPP1159449)[^8].
+[Tierion](https://tierion.com/)[^4] da benzer şekilde hasta verilerinin sağlıklı bir şekilde kayıt edilmesi ve kayıtlarının tutarlılığı (değiştirilemezliği) konusunda çalışıyor ve Philips Blockchain Labs[^5] ile iş birliği içinde. Keza MIT altındaki Media Lab merkezinden çıkma girişimlerden [MedRec](http://medrec.io/)[^6] de hastaların verilerini kendi kontrolleri altında izin verdikleri kurumlarla kolayca paylaşabilmesine yoğunlaşmış. Bir başka girişim [Factom](https://www.factom.com/)[^7] ise Blockchain altyapısını kullanarak küresel ama özellikle sağlık hizmetlerine erişimin zor olduğu bölgelerde yaşayanların sağlık datalarının dağıtık bir yapıda (Blockchain üzerinde) tutulması ve biyometrik doğrulama ile erişimi konusunda uzmanlaşmış ve 2016 yılında Bill & Melinda Gates Foundation’dan [yatırım almış](https://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2016/11/OPP1159449)[^8].
 
 [ScalaMed](https://www.scalamed.com/)[^9] ilaçlar ve reçeteler üzerinde yapılan sahteciliği önlemek amacıyla ilaç üreticileri, dağıtıcılar, hastaneler ve eczane zincirlerini bir araya getiren ve ilaçların kayıt, teyit ve transferinin güvenli, kaçağa yol açmayacak şekilde yapılmasını sağlayacak Blockchain altyapılı bir sistem üzerinde çalışıyor. Bu alanda çalışan diğer bir girişim olan [MediLedger](https://www.mediledger.com/)[^10] ise Genentech ve Pfizer’i içine alan bir pilot çalışma ile benzer şekilde ilaçların üreticiden hastaya ulaşımındaki kaçakları önlemek için Blockchain bazlı çözümlere kafa yoruyor.
 
@@ -53,7 +53,7 @@ Sonuç
 
 [^4]: [https://tierion.com/](https://tierion.com/)
 
-[^5]: [http://www.2.forms.healthcare.philips.com/blockchainlabs](http://www.2.forms.healthcare.philips.com/blockchainlabs)
+[^5]: http://www.2.forms.healthcare.philips.com/blockchainlabs
 
 [^6]: [http://medrec.io/](http://medrec.io/)
 

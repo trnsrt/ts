@@ -12,13 +12,13 @@ description: "Merkeziyetsiz Finans alanında en çetrefilli konulardan bir tanes
 
 Merkeziyetsiz Finans alanında en çetrefilli konulardan bir tanesi regülasyonlar. Gelin bu bölümümüzde neden zor olduğuna bakalım ve yakınlarda yayınlanmış bir kaynağı referans alarak regülasyon konusunda temel çerçeve çıkarmaya çalışalım.
 
-## Regülasyon ve denetim açısından DeFi'nin klasik finansa göre farklılıkları {#regulasyon-ve-denetim-acisindan-definin-klasik-finansa-gore-farkliliklari}
+## Regülasyon ve denetim açısından DeFi’nin klasik finansa göre farklılıkları {#regulasyon-ve-denetim-acisindan-definin-klasik-finansa-gore-farkliliklari}
 
 Hepimizin bildiği gibi klasik finans kurumlarının en büyük gider kalemlerinden biri regülasyonlara uyumluluk. Peki kanuni otoriteler çok mu üzerine gidiyor finans kurumlarının? İşin aslını sorarsanız, hayır. Kanuni otoritelerin yatırımcıları korumak amacıyla finans kurumlarının üzerine gitmesi gayet normal. Zira, doğası gereği klasik finans denetime tabi olmak zorunda, ancak bu DeFi için geçerli olmayabilir. Neden? İki temel nedeni var:
 
 ### Müşteri varlığını tutma {#musteri-varligini-tutma}
 
-En büyük nedeni, klasik finans kurumlarının müşterilerin varlıklarını emanet alması. Başkasının varlığını tutmak, büyük bir sorumluluk ve bunun karşılığı olarak da belli regülasyon ve denetimlere hazırlıklı olmak durumundasınıız.
+En büyük nedeni, klasik finans kurumlarının müşterilerin varlıklarını emanet alması. Başkasının varlığını tutmak, büyük bir sorumluluk ve bunun karşılığı olarak da belli regülasyon ve denetimlere hazırlıklı olmak durumundasınız.
 
 Merkeziyetsiz finans için durum biraz daha farklı. DeFi ürünleri dediğimiz protokoller aslında birer uygulama yani yazılım ve bu ürünler müşteri hesaplarını emanet almıyorlar. Varlığın kontrolü her zaman kullanıcının elinde. Kullanıcı, dijital cüzdanında tuttuğu varlığı istediği noktada DeFi protokolünün web sitesine girerek bağlar, işlemini yapar ama işlem sonrası da varlık müşterinin cüzdanında durur.
 
@@ -36,21 +36,21 @@ Yukarıdaki iki temel kritere bakarak “Merkeziyetsiz finans kullanırken güç
 
 DeFi’nin regüle edilmemesi, onu ancak ileri seviye finansal okur-yazarlığı olan ve yüksek risk almayı seven marjinal bir kesim tarafından kullanılır hâlde bırakabilir. Hızlı gelişen, henüz olgunlaşmaya başlamamış bu sektöre risk algısı düşük, yeterince okuryazarlığı olmayan kitlenin çevresinden duyduğu ‘yüksek kazanç’ hikâyeleri ile giriş yapması; beraberinde felaket senaryolarını da getirebilir. Bu alanda ortaya çıkacak ‘scam’ olarak adlandırılabilecek projelerin bu kişilerin paralarını alıp kaçması gibi somut örneklerden, aşırı para girişinin getireceği risk algısının bozulması ve fiyatların geçici olarak şişmesi gibi soyut örneklere uzanan pek çok konu hayatımıza girebilir.
 
-### Kim regüle edebilir? {#kim-regule-edebilir}
+### DeFi’yi kim regüle edebilir? {#kim-regule-edebilir}
 
 Burada belki de en bilinmez konu DeFi’yi kimin regüle edeceğinde düğümleniyor. Dışarıdan birileri mi regüle edecek bu yapıları, örneğin devletler ve kanun koyucular mı, yoksa sektör kendi kendini mi denetleyecek?
 
 Devletler, kendi vatandaşlarının haklarını korumak adına bu alanı denetlemek isteyeceklerdir. Ancak bunun o kadar kolay olmayacağını belirtmek gerekiyor. Zira DeFi projelerinin ülkeden ülkeye farklı beklentilere göre farklı ürün sunmalarını beklemek şu aşamada oldukça zor. Devletler kendi belirledikleri çerçevelere uymayan ürünlere iletişimi kısıtlama gibi bir yola gidebilirler. Bunun bir parça etkisi olacağı düşünülse de, aslında olayın bir başka boyutu daha olduğu unutulmamalı.
 
-Yasaklama ya da kısıtlama yerine bu alandaki faaliyetlere izin vererek vatandaşların elde ettiği gelirden vergi almak devletler için çok daha makul bir yol gibi görünüyor. Zira, kısıtlama getiremeye çalışsanız bile ürünü kullanmak isteyenlerin şifreli dünyada pek çok alternatifi olduğundan dolayı, bu durum sadece bu kullanıcıların yer altına inmesine, devletlerin de ekstra vergiden mahrum kalmasına yol açar.
+Yasaklama ya da kısıtlama yerine bu alandaki faaliyetlere izin vererek vatandaşların elde ettiği gelirden vergi almak devletler için çok daha makul bir yol gibi görünüyor. Zira, kısıtlama getirmeye çalışsanız bile ürünü kullanmak isteyenlerin şifreli dünyada pek çok alternatifi olduğundan dolayı, bu durum sadece bu kullanıcıların yer altına inmesine, devletlerin de ekstra vergiden mahrum kalmasına yol açar.
 
-Bir başka konu da kısıtlamanın ya da kullanılacak servislere lisans benzeri izin vermeye çalışmanın kanuni otoriteler açısından oldukça zor olacağı. DeFi dünyası, her hafta yeni bir ürünün çıktığı bir alan. İlk kullanıma sunulduklarında yüksek risk içerseler de bunlara erken yatırım yapmak isteyen hatırı sayılır bir kitle var. Neden? Bu ürünlere ilk yatırım yapanların, hem kullanıcı olarak aldıkları faiz benzeri getiriler hem de yönetim tokenlarına erken aşamada daha ağırlıklı bir şekilde sahip olmaları nedeniyle çok ciddi kârlar elde edebiliyor. Şimdi, kullanıcıların, bu ürünlerden yararlanmak için devletlerin onlara izin vermelerini beklemesini istemek çok gerçekçi bir senaryo gibi gözükmüyor.
+Bir başka konu da kısıtlamanın ya da kullanılacak servislere lisans benzeri izin vermeye çalışmanın kanuni otoriteler açısından oldukça zor olacağı. DeFi dünyası, her hafta yeni bir ürünün çıktığı bir alan. İlk kullanıma sunulduklarında yüksek risk içerseler de bunlara erken yatırım yapmak isteyen hatırı sayılır bir kitle var. Neden? Bu ürünlere ilk yatırım yapanların, hem kullanıcı olarak aldıkları faiz benzeri getiriler hem de yönetim tokenlerine erken aşamada daha ağırlıklı bir şekilde sahip olmaları nedeniyle çok ciddi kârlar elde edebiliyor. Şimdi, kullanıcıların, bu ürünlerden yararlanmak için devletlerin onlara izin vermelerini beklemesini istemek çok gerçekçi bir senaryo gibi gözükmüyor.
 
 Öte yandan kanun koyucular konuya daha geniş ve uzun vadeli perspektiften bakmak zorundalar. Bu da tüm ekosistemi bir bütün olarak düşünmeyi gerektiriyor. Yapılacak girişimler, bu girişimler sonucu doğan tokenler, bu tokenler sayesinde gelir kazanan girişimci ve yatırımcılar olacak. Nihayetinde bu kesimler elde ettikleri geliri ülke sınırları içinde harcayacaklar. Bu sayede oluşabilecek büyük ekonomik katma değerin önüne geçilmemesi, tam tersine desteklenmesi en mantıklı yol. Burada da DeFi aktörlerine “Nasıl bir teşvik istersiniz?” diye sorsanız, muhtemelen verecekleri cevap “Gölge etme başka ihsan istemem.” olacaktır.
 
 Burada en doğru çözüm, kanun koyucuların belli çerçeveler çizmesi olabilir. Maalesef, kanun koyucular bu tip yeni ve bilinmeyen konularla karşılaştıklarında, “ufak bir oyun alanı belirle, gerisini yasakla” şeklinde bir refleks gösterebiliyorlar. Bu yaklaşım maalesef bu dünya için efektif sonuçlar vermeyebilir. Daha akıllıca bir yöntem “kırmızı çizgileri dar tutarak, olabildiğince geniş bir oyun alanı bırak” olabilir.
 
-## Nasıl bir çerçevede regülasyon yapılabilir? {#nasil-bir-cercevede-regulasyon-yapilabilir}
+## DeFi için nasıl bir çerçevede regülasyon yapılabilir? {#nasil-bir-cercevede-regulasyon-yapilabilir}
 
 DeFi’nin regülasyonu konusu aslında bu kitabın kapsama alanının dışında kalıyor. Bu alanda Dünya Ekonomik Forumu tarafından Mayıs 2021’de yayınlanan DeFi Politika Yapıcılar İçin El Kitabı (WEF DeFi Policy Maker Toolkit) dokümanında bulunan temel çerçeveden alıntı yaparak konuyu açıklamaya çalışalım.
 
@@ -64,8 +64,8 @@ DeFi’ye yaklaşımda alınabilecek aksiyonlar aşağıda sıralandığı gibi 
 - **Uyarı (warnings)**: Kullanıcıların/tüketicilerin uyarılması
 - **Uygulama/yaptırım (enforcement)**: Mevcut kanunların yeterli olduğu ve bu kanunlara uyulmadığı konusunda ısrar
 - **Tercih ile dahil olma (opt-in)**: Kanuni bir zorunluluk olmadan, belli korumalar karşılığında regülasyonlara tabi olmayı kabul etme
-- **Regülasyonları budama (prunning regulations)**: DeFi için gerekli olmayan kanuni gereksinimleri geçersiz hale getirme
-- **Kısıtlı lisans çatı/çerçeveler (limited licence frameworks)**: Dar kapsamlı ya da belli bir sınırın olarak lisans alma ve belli miktarların altı için daha hafif kanuni gereksinimler getirilmesi
+- **Regülasyonları budama (pruning regulations)**: DeFi için gerekli olmayan kanuni gereksinimleri geçersiz hâle getirme
+- **Kısıtlı lisans çatı/çerçeveler (limited licence frameworks)**: Dar kapsamlı ya da sınırlı olarak lisans alma ve belli miktarların altı için daha hafif kanuni gereksinimler getirilmesi
 - **Yasaklayıcı tedbirler (prohibitive measures)**: DeFi alanındaki belli aktiviteleri yasaklama
 - **Yeni lisans şekilleri (new licence types)**: DeFi için tasarlanacak yeni kategorilere özgü risklere önlem alma
 - **Yönlendirme ve beklentileri yayınlamak (issuing guidance and expectations)**: Öncesinde kamuoyu görüşü aldıktan sonra, yeni çatı çerçeveler oluşturma

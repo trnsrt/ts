@@ -12,7 +12,7 @@ description: "Bitcoin ve Ethereum dışında diğer önemli Blockchain sistemler
 
 *Bitcoin ve Ethereum dışında diğer önemli Blockchain sistemlerine de bakalım kısaca:*
 
-Şimdi de Bitcoin’in eksik kaldığı düşünülen alanlarda bu eksikleri kapatmak için kurulmuş olan alternatif paralara kısaca altcoinlere bakalım. Bitcoin temel olarak değer saklama işlevi görmeyi amaçladığı için onu geliştiren yazılımcılar yeniklikten ziyade güvenirliğe önem veriyorlar ve bu nedenle Bitcoin’in yeterince pratik olmadığı ve bu yönde çalışmalarda ağır kaldığı yönünde eleştiriler var. Bir de Bitcoin size tam olarak gizlilik sağlamıyor, bu yönünü eksik bulanlar da bir hayli fazla. İşte altcoinler temel olarak bu eksiklikleri gidermek amacıyla ortaya çıkmış kripto paralar. Genel olarak Blockchain bazlı sistemi kullanıyorlar, ancak detaylarda Bitcoin’den ayrılıyorlar.
+Şimdi de Bitcoin’in eksik kaldığı düşünülen alanlarda bu eksikleri kapatmak için kurulmuş olan alternatif paralara kısaca altcoinlere bakalım. Bitcoin temel olarak değer saklama işlevi görmeyi amaçladığı için onu geliştiren yazılımcılar yenilikten ziyade güvenirliğe önem veriyorlar ve bu nedenle Bitcoin’in yeterince pratik olmadığı ve bu yönde çalışmalarda ağır kaldığı yönünde eleştiriler var. Bir de Bitcoin size tam olarak gizlilik sağlamıyor, bu yönünü eksik bulanlar da bir hayli fazla. İşte altcoinler temel olarak bu eksiklikleri gidermek amacıyla ortaya çıkmış kripto paralar. Genel olarak Blockchain bazlı sistemi kullanıyorlar, ancak detaylarda Bitcoin’den ayrılıyorlar.
 
 ## Litecoin, Bitcoin’in zıpır kardeşi olabilir mi? {#litecoin-bitcoinin-zipir-kardesi-olabilir-mi}
 
@@ -23,7 +23,7 @@ description: "Bitcoin ve Ethereum dışında diğer önemli Blockchain sistemler
 
 Litecoin, Bitcoin benzeri paralar içinde Bitcoin’e en benzeyeni. Kurucusu, Charlie Lee adında MIT mezunu bir genç. Hatırlarsanız, Bitcoin benzeri sistemler için Açık Kaynak metodunu benimsemişler demiştik. Bu şu demek: İsteyen herhangi biri mevcut sistemi yürüten yazılımı alıp aynısını kurabilir ve çalıştırabilir. İşte Charlie’nin yaptığı da aynen bu.
 
-Litecoin, iki konuda Bitcoin’den ayrışıyor. Birincisi, hani hep diyoruz Bitcoin on dakikada bir bir ödül veriyor. Bu ödül aslında o on dakika içinde yapılmış işlemlerin teyidi anlamına geliyor. Yani Bitcoin ile bir işlem yaptığınızda örneğin mal satıp Bitcoin aldığınızda, işlemin gerçekten doğrulandığını görmek için on dakika beklemeniz gerekiyor (genelde bu süre ama kimileri daha sağlam olsun diye bu sürenin birkaç katını bekliyorlar). Litecoin ise bu on dakikalık onay süresini 2,5 dakikaya indiriyor. Böylece satıcı olarak aldığınız paranın hakikaten size ait olduğunu yaklaşık 1/4 sürede kesinleştiriyorsunuz.
+Litecoin, iki konuda Bitcoin’den ayrışıyor. Birincisi, hani hep diyoruz Bitcoin on dakikada bir bir ödül veriyor. Bu ödül aslında o on dakika içinde yapılmış işlemlerin teyiti anlamına geliyor. Yani Bitcoin ile bir işlem yaptığınızda örneğin mal satıp Bitcoin aldığınızda, işlemin gerçekten doğrulandığını görmek için on dakika beklemeniz gerekiyor (genelde bu süre ama kimileri daha sağlam olsun diye bu sürenin birkaç katını bekliyorlar). Litecoin ise bu on dakikalık onay süresini 2,5 dakikaya indiriyor. Böylece satıcı olarak aldığınız paranın hakikaten size ait olduğunu yaklaşık 1/4 sürede kesinleştiriyorsunuz.
 
 Litecoin’in ikinci farklılığı ise madenciler alanında. Hani şu işlemleri on dakikada bir teyit eden makineler. Burada ileride bir bölümde daha detaylı ele alacağımız gibi makineler bir bulmaca çözmeye çalışıyorlar. Başlangıçta, evinizdeki laptop aracılığıyla bu bulmacayı çözme ihtimaliniz vardı. Ancak sisteme çok kuvvetli makineler girmeye başladığından beri evde bu işi yapıp bulmacayı çözme ve para kazanma ihtimaliniz çok azaldı. İşte Litecoin, bulmacanın yapısını bu tip büyük makinelerin avantajını azaltarak evde işi yapan küçük oyuncuların avantajına olacak bir hale getirdi. Bu bir nevi, çok kuvvetli makinelerin sistemi tekeline almasının önüne geçmeyi amaçlayan bir yöntem.
 
@@ -94,7 +94,7 @@ Teknik olduğu için bir parça karışık ama basitleştirmek için üç parça
 
 Nereden çıktı bu MimbleWimble?
 
-MibleWimble 2016 Ağustos ayında kripto paralar üzerine uğraşan bir grup yazılımcının kendi aralarında yazıştıkları chat ortamına Tom Elvis Jedusor rumuzlu biri tarafından aniden bırakılan bir tanıtım yazısı (White Paper) ile girdi.
+MimbleWimble 2016 Ağustos ayında kripto paralar üzerine uğraşan bir grup yazılımcının kendi aralarında yazıştıkları chat ortamına Tom Elvis Jedusor rumuzlu biri tarafından aniden bırakılan bir tanıtım yazısı (White Paper) ile girdi.
 
 <figure markdown="1">
 <a href="/assets/books/sorularla-blockchain/602-5.png"><img src="/assets/books/sorularla-blockchain/602-5.png" alt="MimbleWimble White Paper Kaynak: Github" width="400" height="153" loading="lazy"></a>
@@ -109,7 +109,7 @@ Ne garip isimler bunlar?
 
 Gerçekten değil mi? Yukarıdaki paragrafta ismi geçen şahısların hiçbiri gerçek değil. Ama hepsinin bir ortak özelliği var. O da Harry Potter ile ilişkili olmaları! Gelin kim kimdir bakalım:
 
-- MimbleWimble: <br>Yeni teknolojinin altyapısı olan protokol. Harry Potter’ın [Deathly Hallows](https://en.0wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows)[^10] serisinden bir büyü. Amacı bir kişinin dilini bağlayarak büyü yapabilmek için gerekli kelimeleri anlaşılır şekilde söylemesini önlemek.
+- MimbleWimble: <br>Yeni teknolojinin altyapısı olan protokol. Harry Potter’ın Deathly Hallows[^10] serisinden bir büyü. Amacı bir kişinin dilini bağlayarak büyü yapabilmek için gerekli kelimeleri anlaşılır şekilde söylemesini önlemek.
 - Tommy Elvis Jedusor: <br>MimbleWimble’in kurucusunun rumuzu. Harry Potter’daki kötü karakter Voldemort’un Fransızca karşılığı.
 
 - Grin: <br>MimbleWimble üzerine kurulu en tanınmış uygulama (detaylar bir sonraki kısımda). Yine Harry Potter öykülerinden birindeki Gringott’s büyücülük bankasının adı.
@@ -121,7 +121,7 @@ Gerçekten değil mi? Yukarıdaki paragrafta ismi geçen şahısların hiçbiri 
 
 - Ignotus Peverell: <br>Grin projesinin lideri. Harry Potter’daki görünmezlik pelerinini üreten büyücü
 
-- [Luna Lovegood](https://www.pottermore.com/features/seven-reasons-to-love-luna-lovegood)[^12], *[Seamus Finnigan](https://www.pottermore.com/explore-the-story/seamus-finnigan)*[^13]*, [Percy Weasley](https://www.pottermore.com/features/in-defence-of-percy-weasley)*[^14]:
+- [Luna Lovegood](https://www.pottermore.com/features/seven-reasons-to-love-luna-lovegood)[^12], *Seamus Finnigan*[^13]*, [Percy Weasley](https://www.pottermore.com/features/in-defence-of-percy-weasley)*[^14]:
 
 Grin projesindeki diğer yazılımcıların rumuzları. Hepsi Harry Potter ailesinden karakterler
 
@@ -145,7 +145,7 @@ Bunun dışında MimbleWimble’in diğer temel özelliği ise basit ve hafif bi
 
 Ne gibi uygulamaları var?
 
-Yukarıda bahsederken iki uygulaması olduğundan bahsetmiştik. Bu iki uygulama Beam ve Grin.
+MimbleWimble’ın iki uygulaması var: Beam ve Grin.
 
 MimbleWimble başka diğer pek çok proje gibi açık kaynak bir yazılım. Açık kaynak yazılımların en önemli özelliği isteyenin istediği noktada projeyi istediği şekilde geliştirebilmesi. Burada da iki farklı grup projeyi birbirinden çok farklı yerlere götürmüş durumda.
 
@@ -162,9 +162,9 @@ Asıl dikkate değer MimbleWimble uygulaması Grin. Detaylarına bakalım:
 
 Grin nedir?
 
-MimbleWimble’in çıktığı ikinci proje olan Grin, çıkış olarak Bitcoin’ çok benziyor.
+MimbleWimble’in çıktığı ikinci proje olan Grin, çıkış olarak Bitcoin’e çok benziyor.
 
-Örneğin, lideri olan Ignotus Peverell’in kim olduğunu kesinlikle bilinmiyor. Ignotus Peverell geçtiğimiz yıl yapılan Grin konferansına text-to-speech teknolojisi ile katıldı. Katılımcıların sorularını, yazdığı metni seslendiren bir yazılım aracılığı ile [cevaplandırdı](https://youtu.be/k6tCnw6shgQ)[^18].
+Örneğin, lideri olan Ignotus Peverell’in kim olduğu kesinlikle bilinmiyor. Ignotus Peverell geçtiğimiz yıl yapılan Grin konferansına text-to-speech teknolojisi ile katıldı. Katılımcıların sorularını, yazdığı metni seslendiren bir yazılım aracılığı ile [cevaplandırdı](https://youtu.be/k6tCnw6shgQ)[^18].
 
 Bunun yanında Grin girişim sermayesi benzeri herhangi bir yatırım almadı, bundan sonra da sadece crowdfunding (kitlesel fonlama) ile yoluna devam etmeyi planlıyor. Bunu özellikle önemsiyorlar zira yatırım aldıklarında aslında gerçekten odaklanmaları gereken gizlilik ve kullanılabilirlik alanları yerine yatırımcıya vaad ettiklerini gerçekleştirebilmek adına değer artırıcı konulara zaman ayırmak zorunda kalmaktan korkuyorlar. Zaten ne bir ofisleri var ne de bir organizasyonları, aynı Bitcoin’in ilk günlerindeki gibiler.
 
@@ -172,7 +172,7 @@ Grin yaratıcıları, Bitcoin’in para saklama aracı olarak piyasanın ağır 
 
 Bunu gerçekleştirebilmek için de teknik olarak basit, hafif ve gizli bir para yaratmanın yanında ekonomik olarak da Bitcoin gibi deflasyona yol açan (giderek azalan) bir para yaratım politikası yerine, enflasyonist (sabit olarak aynı hızda artan) bir [para yaratım politikası](https://www.tokendaily.co/blog/on-grin-mimblewimble-and-monetary-policy)[^19] sürdüreceklerini açıklıyorlar.
 
-Bu para politikası aslında ilginç bir detay: Para sabit şekilde artacağı için, ikinci yıl ilk yıl piyasaya çıkan kadar para yaratılacak. Üçüncü yıl o ana kadar yaratılmış toplam para stokunun %50'si, dördüncü yıl %33'ü, onuncu yıl 10%u olacak şekilde giderek azalan oranda. Bu nedenle ilk yıllarda para arzı çok fazla olduğu için yani ciddi bir enflasyon yaşayacağı için insanlar parayı ellerinde tutmak yerine (paranın değer saklama özelliği) alışverişte kullanacaklar (paranın ödeme aracı özelliği). Ancak ilk 15–20 yıl sonrası yıllık enflasyon %2'lere inip arz mevcut para miktarına göre iyice azalınca parayı elde tutmak değerli hale gelecek.
+Bu para politikası aslında ilginç bir detay: Para sabit şekilde artacağı için, ikinci yıl ilk yıl piyasaya çıkan kadar para yaratılacak. Üçüncü yıl o ana kadar yaratılmış toplam para stokunun %50’si, dördüncü yıl %33’ü, onuncu yıl %10’u olacak şekilde giderek azalan oranda. Bu nedenle ilk yıllarda para arzı çok fazla olduğu için yani ciddi bir enflasyon yaşayacağı için insanlar parayı ellerinde tutmak yerine (paranın değer saklama özelliği) alışverişte kullanacaklar (paranın ödeme aracı özelliği). Ancak ilk 15–20 yıl sonrası yıllık enflasyon %2’lere inip arz mevcut para miktarına göre iyice azalınca parayı elde tutmak değerli hale gelecek.
 
 <figure><a href="/assets/books/sorularla-blockchain/602-8.png"><img src="/assets/books/sorularla-blockchain/602-8.png" alt="Grin Para Politikası" width="600" height="371" loading="lazy"></a><figcaption>Grin Para Politikası</figcaption></figure>
 
@@ -180,7 +180,7 @@ Peki neden popüler oldu bu kadar bu Grin?
 
 Grin’in bu kadar popüler olmasının belki de en önemli nedeni yukarıda da bahsetmeye çalıştığımız Bitcoin benzeri cypherpunk köklere sahip olması. Zira cypherpunk ekibi bireyin özgürlüğünü ve devlet benzeri otoritelere karşı bağımsızlığını savunurken, bunu bir organizasyon altında yapmaları durumunda, otoritelerin uygulayacakları baskılar ile organizasyonlarını ezeceği, kişileri ise hapis de dahil türlü yaptırımlar ile yıldıracağı korkusunu taşıyorlar. Kişilerin gizliliğini ve bağımsızlığını savunabilmek için kendilerinin de gizli olması gerektiğine inanıyorlar. (Bu nedenle Satoshi ismini gizli tuttu, Wikileaks aracılığıyla Bitcoin ortaya çıktığı anda sırra kadem bastı — tüm hikayesi bu bölümde).
 
-Bitcoin benzeri felsefeye sahip bir oluşum olarak başka kripto paralar (Monero, Dash, Zcash) gibi kurucu ekip olarak para yaratımı başlamadan kendilerine baştan bir pay almamaları onları kripto camiası içinde saygın bir yere koyuyor. Çünkü “[premine](https://www.cryptocompare.com/coins/guides/what-is-a-premine/)[^20]” ya da “founders’ share” de denen bu tip bir uygulamanın adil bir paylaşım olmayacağına inanıyorlar.
+Bitcoin benzeri felsefeye sahip bir oluşum olarak başka kripto paralar (Monero, Dash, Zcash) gibi kurucu ekip olarak para yaratımı başlamadan kendilerine baştan bir pay almamaları onları kripto camiası içinde saygın bir yere koyuyor. Çünkü “premine[^20]” ya da “founders’ share” de denen bu tip bir uygulamanın adil bir paylaşım olmayacağına inanıyorlar.
 
 Bunun yanında Bitcoin’in başlangıcındaki hızlı gelişimi ve fırsatı kaçıran ciddi bir kesim de, şimdi yeni çıkan bu oluşuma erken katılarak oluşacak fırsatlardan olabildiğince çabuk faydalanma peşinde — ama bu kesimin bir sonraki kısmı okumasında fayda var.
 
@@ -206,7 +206,7 @@ Grin ile ilgili eleştirilerin ana odak noktası, aslında övünerek bahsettikl
 
 Bunun dışında eleştirilen konulardan biri de ekonomik: Grin’in para yaratma politikası. Bitcoin’in fiyatının artmasındaki en önemli konulardan biri zamanla kullanımı artarken yaratılan Bitcoin’in azalacak olması. Piyasadaki Grin miktarının sürekli artacak olması onu Bitcoin benzeri spekülatif bir değer artışına gitmesini engelleyebilir. Grin’in buna yanıtı şu: “Bitcoin’in başlangıcında fazla fazla yaratılan para, hasbelkader işi başında dalgayı yakalayanlara inanılmaz kazançlar sağladı ancak yaratılan değer ufak bir azınlığın elinde kaldı. Biz bu yaratılacak değeri daha geniş bir kitleye dağıtmak için daha egaliter bir yapı öngörüyoruz, bu nedenle para arzının sürekli olarak artıracağız.”
 
-Akla gelen soru işaretlerinden biri de gizlilik ile geniş kitleler tarafından adaptasyon arasındaki çelişki. Biliyorsunuz özellikle kripto para borsaları bu dünyaya adım atmanın en temel yollarından biri. Ancak merkezi çalışan kripto para borsaları otoritelerin denetimi altında olduğu için müşterilerinin gerçek bilinen kişiler olduğunu sıkı takip etmek zorundalar (AML/KYC prosedürleri ile). Grin gibi tam gizli olduğunu iddia eden bir para bu borsalarda nasıl işlem görecek? İşlem gördüğü durumda gizlilikten ödün vermiş olacak mı? Ya da hiçbir ödün vermeyecek ve geniş kitleler tarafından adapte edilmeyen, sadece baskı altındaki rejimlerde yaşayanlar tarafından kullanılan ufak (niş) bir para olarak mı kalacak? Grin yaratıcıları Bitcoin üzerine inşaa edilen Lightning Network gibi ikinci katman uygulamaların benzerlerinin Grin üzerine kurulabileceğini ve isteyenin bu uygulamalar ile kripto para borsalarında işlem yapabileceğini iddia ediyorlar. Gizlilik ile geniş kitle adaptasyonu bir arada nasıl yürüyecek göreceğiz.
+Akla gelen soru işaretlerinden biri de gizlilik ile geniş kitleler tarafından adaptasyon arasındaki çelişki. Biliyorsunuz özellikle kripto para borsaları bu dünyaya adım atmanın en temel yollarından biri. Ancak merkezi çalışan kripto para borsaları otoritelerin denetimi altında olduğu için müşterilerinin gerçek bilinen kişiler olduğunu sıkı takip etmek zorundalar (AML/KYC prosedürleri ile). Grin gibi tam gizli olduğunu iddia eden bir para bu borsalarda nasıl işlem görecek? İşlem gördüğü durumda gizlilikten ödün vermiş olacak mı? Ya da hiçbir ödün vermeyecek ve geniş kitleler tarafından adapte edilmeyen, sadece baskı altındaki rejimlerde yaşayanlar tarafından kullanılan ufak (niş) bir para olarak mı kalacak? Grin yaratıcıları Bitcoin üzerine inşa edilen Lightning Network gibi ikinci katman uygulamaların benzerlerinin Grin üzerine kurulabileceğini ve isteyenin bu uygulamalar ile kripto para borsalarında işlem yapabileceğini iddia ediyorlar. Gizlilik ile geniş kitle adaptasyonu bir arada nasıl yürüyecek göreceğiz.
 
 Grin’e teknik olarak bakalım mı?
 
@@ -222,7 +222,7 @@ MimbleWimble’da ne kullanıcılar ne de işlem miktarları görünecek. Nasıl
 
 Öncelikle sistemde paranın gidip geleceği hesaplar olmayacak. Bunun yerine cüzdanlar kullanılacak.
 
-Normalde Bitcoin sisteminde hesaptan para ‘input’ olarak sisteme girer, input karşılığı da aynı miktarda output çıkardı (bu output’a UTXO denirdi). Sistemdeki makinalar çıkan bu UTXO’ları toplar ve değişmediğini gördüklerinde “tamam” derlerdi “sistemde çifte harcama yapılmamış” (şu bölümde değiniyoruz bu konuya)
+Normalde Bitcoin sisteminde hesaptan para ‘input’ olarak sisteme girer, input karşılığı da aynı miktarda output çıkardı (bu output’a UTXO denirdi). Sistemdeki makineler çıkan bu UTXO’ları toplar ve değişmediğini gördüklerinde “tamam” derlerdi “sistemde çifte harcama yapılmamış” (şu bölümde değiniyoruz bu konuya)
 
 Grin sisteminde ise input yok, çünkü input yaratacak adresler kullanılmıyor. Bunun yerine sistemde sadece output’lar yani UTXO’lar var. Bunlar da cüzdanlar aracılığı ile kullanılıyor. Sistem iki kullanıcının bir şekilde (on-line ya da off-line) kendi arasında ne tip bir işlem yapacağı konusunda iletişime geçip anlaşma yapması esasına dayanıyor.
 
@@ -230,18 +230,18 @@ Grin sisteminde ise input yok, çünkü input yaratacak adresler kullanılmıyor
 
 *Blok içinde detay bilgi yok*
 
-MimbleWimble’da bütün işlemlerin bir araya getirildiği bloklarda da Bitcoin’de olduğu gibi işlemler tek tek görülmüyor. Bunun yerine bütün işlemlerin bir toplamı var — dolayısı ile kim ne işlem yaptı [görmek mümkün deği](https://blockonomi.com/grin-mimblewimble/)[^24][l](https://blockonomi.com/grin-mimblewimble/). Benzer şekilde karıştırma/toplamayı CoinJoin denen bir işlem ile Bitcoin üzerinde ikinci bir katman olarak yapmak da mümkün. MimblewWimble CoinJoin’i kendi ana sisteminin bir parçası olarak kullanıyor.
+MimbleWimble’da bütün işlemlerin bir araya getirildiği bloklarda da Bitcoin’de olduğu gibi işlemler tek tek görülmüyor. Bunun yerine bütün işlemlerin bir toplamı var — dolayısı ile kim ne işlem yaptı [görmek mümkün deği](https://blockonomi.com/grin-mimblewimble/)[^24][l](https://blockonomi.com/grin-mimblewimble/). Benzer şekilde karıştırma/toplamayı CoinJoin denen bir işlem ile Bitcoin üzerinde ikinci bir katman olarak yapmak da mümkün. MimbleWimble CoinJoin’i kendi ana sisteminin bir parçası olarak kullanıyor.
 
 *IP adresleri de gizleniyor*
 
-Bitcoin’de adresler belli olduğu için para nereden geldi, nereye gitti biliniyor. Bu nedenle kullanıcıları bir şekilde takip etmek ya da paranın izini sürmek mümkün oluyor (ekstra önlemler alarak bunu engellemeniz mümkün ama bun önlemler ikinci seviye genelde sistemin özünde yok). Çünkü Bitcoin’de bir işlem yaptığınızda bunu sistem ağındaki bir makineye (düğüm-node) gönderiyorsunuz o da tüm sisteme yayıyor. İlk gönderilen node’un biliniyor olması, sizin genelde bu node’u kullanmanız gibi teknik nedenler, aslında bu parayı izi sürülebilir bir hale getiriyor.
+Bitcoin’de adresler belli olduğu için para nereden geldi, nereye gitti biliniyor. Bu nedenle kullanıcıları bir şekilde takip etmek ya da paranın izini sürmek mümkün oluyor (ekstra önlemler alarak bunu engellemeniz mümkün ama bu önlemler ikinci seviye genelde sistemin özünde yok). Çünkü Bitcoin’de bir işlem yaptığınızda bunu sistem ağındaki bir makineye (düğüm-node) gönderiyorsunuz o da tüm sisteme yayıyor. İlk gönderilen node’un biliniyor olması, sizin genelde bu node’u kullanmanız gibi teknik nedenler, aslında bu parayı izi sürülebilir bir hale getiriyor.
 
 <figure markdown="1">
 <a href="/assets/books/sorularla-blockchain/602-11.jpg"><img src="/assets/books/sorularla-blockchain/602-11.jpg" alt="Image by Bru-nO from Pixabay" width="640" height="426" loading="lazy"></a>
 <figcaption markdown="span">Image by [Bru-nO](https://pixabay.com/users/Bru-nO-1161770/)[^25] from [Pixabay](https://pixabay.com/images/id-3363850/)[^26]</figcaption>
 </figure>
 
-Mimblewimble da ise öyle değil. Burada gizlilik çözümü olarak [Dandelion](https://github.com/mimblewimble/grin/blob/master/doc/dandelion/dandelion.md)[^27] adı verilen bir protokol kullanılıyor. (Dandelion kara hindiba çiçeği demek, bu çiçeğin özelliği açmadan önce tek bir sap ve yapraktan oluşup açtıktan sonra serpilmesi). MimbleWimble’da siz sisteme bir işlem gönderdiğinizde bunu alan makine rastgele bir başka makineye gönderiyor, o bir başkasına ve böyle böyle ilk gönderen makinanın izinin sürülemeyeceği bir “bozma (fluff)” sürecinden geçiliyor.
+Mimblewimble da ise öyle değil. Burada gizlilik çözümü olarak [Dandelion](https://github.com/mimblewimble/grin/blob/master/doc/dandelion/dandelion.md)[^27] adı verilen bir protokol kullanılıyor. (Dandelion kara hindiba çiçeği demek, bu çiçeğin özelliği açmadan önce tek bir sap ve yapraktan oluşup açtıktan sonra serpilmesi). MimbleWimble’da siz sisteme bir işlem gönderdiğinizde bunu alan makine rastgele bir başka makineye gönderiyor, o bir başkasına ve böyle böyle ilk gönderen makinenin izinin sürülemeyeceği bir “bozma (fluff)” sürecinden geçiliyor.
 
 Peki ya Basitlik/Hafiflik?
 
@@ -271,7 +271,7 @@ Grin’in kullandığı PoW versiyonunun adı [Cuckoo Cycle](https://medium.com/
 
 *Öğütme (Hashing)*
 
-Aynı zamanda Grin içindeki işlemleri gerçekleştirirken kullanılacak öğütme mekanizmasının, ileride çok kuvvetli makinalar (quantum computers) tarafından kırılacağı iddia edilen Bitcoin mekanizmalarına benzer akibeti yaşamamak için ‘quantum resistant’ denen çok güçlü mekanizmalar olması planlanıyor.
+Aynı zamanda Grin içindeki işlemleri gerçekleştirirken kullanılacak öğütme mekanizmasının, ileride çok kuvvetli makineler (quantum computers) tarafından kırılacağı iddia edilen Bitcoin mekanizmalarına benzer akibeti yaşamamak için ‘quantum resistant’ denen çok güçlü mekanizmalar olması planlanıyor.
 
 *Bloklama ve zorluk dereceleri*
 
@@ -292,14 +292,14 @@ Sorunları sıkıntıları neler?
 Grin’in izleyeceği enflasyon yaratan para politikası aslında gelecekte fiyatının çok değerlenmesinin önündeki en büyük engellerden. Peki neden böyle bir para politikası izliyor Grin?
 
 1. Bitcoin’in azalan emisyon özelliği nedeniyle para ödeme aracı değil değer saklama aracı olarak kullanıldığı düşünülüyor. Grin sürekli olarak bir supply yaratarak ödeme aracı olarak kullanılmak istiyor
-2. Bitcoin örneğinde ilk madenciler sonrasındaki ciddi değer yükselmesinden dolayı inanılmaz paralar kazandılar (satoshinin kullanmasa bile [1 milyon BTC’si olduğu biliniyor](http://time.com/money/5002378/bitcoin-creator-nakamoto-billionaire/)[^30]). Grin, daha ‘adil’ bir dağıtım süreci öngörüyor ve kendi emisyon hacimlerinin altına benzeyeceğini iddia ediyor. Grafik bu söylemi doğruluyor.
+2. Bitcoin örneğinde ilk madenciler sonrasındaki ciddi değer yükselmesinden dolayı inanılmaz paralar kazandılar (Satoshi’nin kullanmasa bile 1 milyon BTC’si olduğu biliniyor[^30]). Grin, daha ‘adil’ bir dağıtım süreci öngörüyor ve kendi emisyon hacimlerinin altına benzeyeceğini iddia ediyor. Grafik bu söylemi doğruluyor.
 
 <figure markdown="1">
 <a href="/assets/books/sorularla-blockchain/602-12.png"><img src="/assets/books/sorularla-blockchain/602-12.png" alt="Bitcoin, Altın ve Grin emisyon hacimleri % olarak (Kaynak: Bobby Digital - Plot.ly)" width="800" height="555" loading="lazy"></a>
-<figcaption markdown="span">Bitcoin, Altın ve Grin emisyon hacimleri % olarak (Kaynak: [Bobby Digital - Plot.ly](https://plot.ly/~Bobby_Digital/1/#/)[^31][)](https://plot.ly/~Bobby_Digital/1/#/)</figcaption>
+<figcaption markdown="span">Bitcoin, Altın ve Grin emisyon hacimleri % olarak (Kaynak: Bobby Digital - Plot.ly[^31])</figcaption>
 </figure>
 
-Bunun yanında işlemlere hız katmak amacıyla scripting özelliğini yok etmesi ileride Grin’in sadece para transferi için kullanılacak bir araç olarak fonksiyonlarında sınırlamalar yaratabilir. Ancak üzerine inşaa edilebilecek ikinci seviye katmanlar ve ek yazılımlar ile bu sorun giderilebilir gibi görünüyor.
+Bunun yanında işlemlere hız katmak amacıyla scripting özelliğini yok etmesi ileride Grin’in sadece para transferi için kullanılacak bir araç olarak fonksiyonlarında sınırlamalar yaratabilir. Ancak üzerine inşa edilebilecek ikinci seviye katmanlar ve ek yazılımlar ile bu sorun giderilebilir gibi görünüyor.
 
 Sonuç
 
@@ -331,7 +331,7 @@ Bitcoin bir para olarak “değer saklama” işlevini gayet iyi yerine getiriyo
 
 Ama bu dalgalanmalar için alınacak çok da bir önlem yok. Zira Bitcoin’in fiyatını diğer tüm paralarda ya da hisse senetlerinde olduğu gibi borsalarda alım satım yapanlar belirliyor. Normalde itibari paralarda parayı basan merkezi otorite (merkez bankaları) piyasada bir oyuncu olarak yer alıp fiyattaki ani zıplamaları önlüyorlar. Kripto para dünyasında böyle arkada duran bir ağır abi yok - kaldı ki zaten böyle bir oyuncunun varlığı, kripto paraların özündeki “merkezi otoriteye olan ihtiyacı sıfırlamak” felsefesine de taban taban zıt bir durum olurdu.
 
-Ani zıplamalar, bu tip paraları al-sat (spekülatif) amacı ile tutan kişiler ve kurumlar için bulunmaz nimet. Piyasaları yakından takip eden, 7/24 bu piyasalardaki eğilimleri (trendleri) izleyenler için çok karlı fırsatlar sunuyor. Ama bu çok ufak bir kesim. Toplumun kalanının bu tip bir dalgalanmayı takip etmek için ne isteği ne de zamanı var. Eğer kripto paraların günlük hayatımıza girmesi hedefleniyor ise, getirdiği kolaylıklardan faydalanmak için bu paraları kullanmak isteyecek çok büyük bir kesimin daha az dalganan bir araca ihtiyacı var.
+Ani zıplamalar, bu tip paraları al-sat (spekülatif) amacı ile tutan kişiler ve kurumlar için bulunmaz nimet. Piyasaları yakından takip eden, 7/24 bu piyasalardaki eğilimleri (trendleri) izleyenler için çok kârlı fırsatlar sunuyor. Ama bu çok ufak bir kesim. Toplumun kalanının bu tip bir dalgalanmayı takip etmek için ne isteği ne de zamanı var. Eğer kripto paraların günlük hayatımıza girmesi hedefleniyor ise, getirdiği kolaylıklardan faydalanmak için bu paraları kullanmak isteyecek çok büyük bir kesimin daha az dalgalanan bir araca ihtiyacı var.
 
 Acaba fiyatı sabit olan bir kripto para yapılamaz mıydı? Güzel soru ama kendi içinde o kadar çok çelişki barındırıyor ki. Örneğin sabit para ne demek, neye göre sabit?… Çoğunuzun aklına dolar geldiğine eminim. Peki dolar sabit bir para mı? Yoo, tabii ki hayır!
 
@@ -346,7 +346,7 @@ Nedir bu SabitPara? Var mı böyle bir “şey” gerçekten?
 
 Efendim, kripto para dünyasındaki dalgalanmanın neden olduğu zararının özünde getireceği pek çok faydaya ağır bastığını ve bunun da bu paraların yaygın kitlelerce kullanımını sekteye uğrattığını fark eden girişimciler uzun zamandır yeni tip daha stabil paralar yaratmak için çalışıyorlar.
 
-Peki nasıl bir zarar veriyor bu dalganmalar? Şöyle bir [benzerlik](https://blog.havven.io/we-need-a-decentralised-stablecoin-b3e13346c74f)[^36] kurmak mümkün: Şu an yaşadığımız ve kâğıt paralardan oluşan dünyayı bir kıta olarak düşünün — her tür ekonomik işlemin kâğıt paralar ile gerçekleştirildiği. Bir de bu kıtaya yakın küçücük bir ada düşünün. İçinde pek çok güzellikler olan bir yer. Adı da Kripto adası olsun. Ancak bu adaya gidip gelmek zor. Botlar var ve bu botlar ile her gün belli sayıda insan oldukça zahmetli bir şekilde bu adaya ulaşıyor. Ama gelmesi zor olduğu gibi geri dönmesi de zor. Peki bu adaya şöyle dört şerit gidiş-dört şerit geliş geniş bir köprü yapılsaydı? O zaman insanlar rahatça gider gelirlerdi. Hatta günde birkaç kere gidip gelebilirlerdi. Ne de olsa ulaşım kolay, o kadar zahmete değer artık…
+Peki nasıl bir zarar veriyor bu dalgalanmalar? Şöyle bir benzerlik[^36] kurmak mümkün: Şu an yaşadığımız ve kâğıt paralardan oluşan dünyayı bir kıta olarak düşünün — her tür ekonomik işlemin kâğıt paralar ile gerçekleştirildiği. Bir de bu kıtaya yakın küçücük bir ada düşünün. İçinde pek çok güzellikler olan bir yer. Adı da Kripto adası olsun. Ancak bu adaya gidip gelmek zor. Botlar var ve bu botlar ile her gün belli sayıda insan oldukça zahmetli bir şekilde bu adaya ulaşıyor. Ama gelmesi zor olduğu gibi geri dönmesi de zor. Peki bu adaya şöyle dört şerit gidiş-dört şerit geliş geniş bir köprü yapılsaydı? O zaman insanlar rahatça gider gelirlerdi. Hatta günde birkaç kere gidip gelebilirlerdi. Ne de olsa ulaşım kolay, o kadar zahmete değer artık…
 
 İşte SabitPara’lar bir nevi bu köprüler aslında… kripto paranız var ise bunu kullanmak çok basit. Daha önce anlattık, elinizdeki Bitcoin ile dünyanın her yerine 10 dakika içinde istediğiniz parayı gönderiyorsunuz. Ama normal kâğıt para dünyasından kripto para dünyasına girmek hem zahmetli, hem masraflı hem de vakit alıyor. Varlığınızı iniş-çıkışlardan dolayı kripto para olarak tutmak istemiyor, ama bir yandan da getirdiği kolaylıklardan faydalanmak istiyorsanız alın bir SabitPara, varlığınız SabitPara’da dursun, istediğinizde istediğiniz başka kripto paraya (örneğin Bitcoin’e) anında çevirin işleminizi yapın. Ya da bir yerden Bitcoin mi geldi, değerini kaybetme riski yaşamadan anında SabitPara’ya çevirin, içiniz rahat olsun.
 
@@ -379,7 +379,7 @@ Başlığa bakınca konu bir parça daha çetrefilleşiyor değil mi? Haklısın
 
 Efendim, Tether’i açıklarken pek çok sıkıntıları olduğundan bahsetmiştik. Bu sıkıntılardan en önemlisi, Tether’in yarattığı her SabitPara için o paraya eşit değerde ABD Dolarını bir bankada tuttuğunu söylemiştik. Yani adem-i merkezi bir şekilde çalışması gereken şifreli bir kripto para için çok çelişkili ve işin ruhuna aykırı bir durum idi bu. Ya bir gün o paraya el konursa? Ne de olsa merkezi olarak bir banka hesabında tutuluyor (bu arada bankanın neresi olduğu gizli tutuluyor. Bir ara ABD’deki Wells Fargo Bank idi ancak Wells Fargo -birilerinin etkisiyle diyelim- onlar ile iş yapmayı bıraktı, şimdilerde Porto Riko’da bir yerde olduğu [söyleniyor](https://www.bloomberg.com/news/articles/2018-05-24/bitfinex-said-to-find-bank-in-puerto-rico-after-wells-fargo-exit)[^40]).
 
-Biliyorsunuz teknolojik dünyada çare tükenmez — nerede bir sıkıntı var, onlarca çözüm türer. SabitParanın teminatını merkezi olarak tutma sıkıntı ise o zaman o teminatı da merkezi olmayan dağıtık bir hale getirelim. Nasıl? Teminatı da ABD doları yerine bir başka kripto para yaparak tabii!. Böyle ciddi sayıda bir para çıkmış, BitShares ([BitUSD](https://coinmarketcap.com/currencies/bitusd/)[^41]), NuBits ([USNBT](https://coinmarketcap.com/currencies/nubits/)[^42]), Steem Dollars ([SBD](https://coinmarketcap.com/currencies/steem-dollars/)[^43]). Sırada olanlar da var Alchemint ve BitBay gibi. Bu paralardan biri olan Maker DAO’ya ([DAI](https://coinmarketcap.com/currencies/dai/)[^44]) daha önceki [bölümlerimizde](/Sorularla_Blockchain/bolum-2/finans-dunyasindan-ornekler-neler/) detaylıca baktık
+Biliyorsunuz teknolojik dünyada çare tükenmez — nerede bir sıkıntı var, onlarca çözüm türer. SabitParanın teminatını merkezi olarak tutma sıkıntı ise o zaman o teminatı da merkezi olmayan dağıtık bir hale getirelim. Nasıl? Teminatı da ABD doları yerine bir başka kripto para yaparak tabii! Böyle ciddi sayıda bir para çıkmış, BitShares ([BitUSD](https://coinmarketcap.com/currencies/bitusd/)[^41]), NuBits ([USNBT](https://coinmarketcap.com/currencies/nubits/)[^42]), Steem Dollars ([SBD](https://coinmarketcap.com/currencies/steem-dollars/)[^43]). Sırada olanlar da var Alchemint ve BitBay gibi. Bu paralardan biri olan Maker DAO’ya ([DAI](https://coinmarketcap.com/currencies/dai/)[^44]) daha önceki [bölümlerimizde](/Sorularla_Blockchain/bolum-2/finans-dunyasindan-ornekler-neler/) detaylıca baktık
 
 <figure markdown="1">
 <a href="/assets/books/sorularla-blockchain/602-17.png"><img src="/assets/books/sorularla-blockchain/602-17.png" alt="Diğer SabitParalar: BitUSD, Steem, NuBits, Maker DAI" width="600" height="477" loading="lazy"></a>
@@ -437,7 +437,7 @@ SabitPara olarak ilk çıkan örnekler belki yeterli değil, henüz çok erken. 
 
 [^12]: [https://www.pottermore.com/features/seven-reasons-to-love-luna-lovegood](https://www.pottermore.com/features/seven-reasons-to-love-luna-lovegood)
 
-[^13]: [https://www.pottermore.com/explore-the-story/seamus-finnigan](https://www.pottermore.com/explore-the-story/seamus-finnigan)
+[^13]: https://www.pottermore.com/explore-the-story/seamus-finnigan
 
 [^14]: [https://www.pottermore.com/features/in-defence-of-percy-weasley](https://www.pottermore.com/features/in-defence-of-percy-weasley)
 
@@ -451,7 +451,7 @@ SabitPara olarak ilk çıkan örnekler belki yeterli değil, henüz çok erken. 
 
 [^19]: [https://www.tokendaily.co/blog/on-grin-mimblewimble-and-monetary-policy](https://www.tokendaily.co/blog/on-grin-mimblewimble-and-monetary-policy)
 
-[^20]: [https://www.cryptocompare.com/coins/guides/what-is-a-premine/](https://www.cryptocompare.com/coins/guides/what-is-a-premine/)
+[^20]: https://www.cryptocompare.com/coins/guides/what-is-a-premine/
 
 [^21]: [https://twitter.com/halfin/status/1110302988](https://twitter.com/halfin/status/1110302988)
 
@@ -471,9 +471,9 @@ SabitPara olarak ilk çıkan örnekler belki yeterli değil, henüz çok erken. 
 
 [^29]: [https://medium.com/codechain/cuckoo-cycle-c337e30c6c99](https://medium.com/codechain/cuckoo-cycle-c337e30c6c99)
 
-[^30]: [http://time.com/money/5002378/bitcoin-creator-nakamoto-billionaire/](http://time.com/money/5002378/bitcoin-creator-nakamoto-billionaire/)
+[^30]: http://time.com/money/5002378/bitcoin-creator-nakamoto-billionaire/
 
-[^31]: [https://plot.ly/~Bobby\_Digital/1/#/](https://plot.ly/~Bobby_Digital/1/#/)
+[^31]: https://plot.ly/~Bobby\_Digital/1/#/
 
 [^32]: [https://www.coindesk.com/price/](https://www.coindesk.com/price/bitcoin)
 
@@ -483,7 +483,7 @@ SabitPara olarak ilk çıkan örnekler belki yeterli değil, henüz çok erken. 
 
 [^35]: [https://pixabay.com/images/id-226717/](https://pixabay.com/images/id-226717/)
 
-[^36]: [https://blog.havven.io/we-need-a-decentralised-stablecoin-b3e13346c74f](https://blog.havven.io/we-need-a-decentralised-stablecoin-b3e13346c74f)
+[^36]: https://blog.havven.io/we-need-a-decentralised-stablecoin-b3e13346c74f
 
 [^37]: [https://tether.to/](https://tether.to/)
 

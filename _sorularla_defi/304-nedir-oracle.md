@@ -20,17 +20,17 @@ Efendim, Bitcoin ile başlayan merkeziyetsiz dünyanın, Ethereum ile devam eden
 
 Örneğin; 2020 yılı ABD seçimleri sonucunda kimin seçileceği ile ilgili yapılan tahminlerde, kaynak olarak [Amerikan hükümetinin resmi web sitesinde yeni başkan olarak kimin yazıldığı](https://www.usa.gov/presidents#item-37462) kullanılıyor. İşte akıllı kontratın sonucu bu siteden alarak çalışması ve doğru tahmin edenleri belirlemesi gerekiyor. Peki, akıllı kontrat bunu nasıl alacak?
 
-Bu, en basit ve bariz örnek. İki yıl önce yayınlanan [“Tahmin piyasaları için Blockchain” yazımızda](https://turansert.com/genel/2018/07/13/gelecegi-tahmin-i%C3%A7in-blockchain.html), bu kaynakların blokzincir dünyası dışında, tarafsız olduğu kabul edilen bilgi sağlayıcılardan (örneğin WSJ gazetesi) alınıp, blokzincire otomatik ya da uzmanlar tarafından manuel olarak girilmesinden bahsetmiştik.
+Bu, en basit ve bariz örnek. İki yıl önce yayınlanan [“Tahmin piyasaları için Blockchain” yazımızda](https://turansert.com/genel/2018/07/13/gelecegi-tahmin-icin-blockchain.html), bu kaynakların blokzincir dünyası dışında, tarafsız olduğu kabul edilen bilgi sağlayıcılardan (örneğin WSJ gazetesi) alınıp, blokzincire otomatik ya da uzmanlar tarafından manuel olarak girilmesinden bahsetmiştik.
 
 ABD seçimi gibi tek bir olaya bağlı tahminlerde işe yarayabilecek olan manuel bilgi aktarımı, merkeziyetsiz dünyada çok da çalışmayacak gibi görünüyor. Gelin bakalım ne gerekiyor DeFi dünyasına:
 
-## Merkeziyetsiz dünya için neden önemli? {#merkeziyetsiz-dunya-icin-neden-onemli}
+## Oracle merkeziyetsiz dünya için neden önemli? {#merkeziyetsiz-dunya-icin-neden-onemli}
 
 Merkeziyetsiz finans dünyasının oyuncusu olan değişik platformlar, aynı bir legonun parçaları gibi birbirine iç içe geçmiş şekilde çalışıyorlar. Yukarıdaki basit örneğin ötesinde, bu lego parçalarının birbirleriyle uyumlu şekilde hareket edebilmeleri için onlarca hatta yüzlerce bilginin akıllı kontratlara akması gerekiyor. Bunu sağlayabilmek için kaynaklardan alınan bilginin hem doğru ve tarafsız hem de çok hızlı bir şekilde toplanması gerekiyor.
 
 Bir örnek verelim: Sentetik türev piyasaları, basitçe herhangi bir ürünün (örneğin, altın ya da petrol) aslına sahip olmadan, o ürünün kazancına ya da kaybına ortak olma ve alım-satımını yapmaya imkân veren pazarlar idi. Merkeziyetsiz sentetik türev borsasında ürünün kendisi değil taklidi alındığı ya da satıldığı için, dış dünyadaki orijinal fiyatların buraya aktarılması gerek, hem de çok sık bir şekilde.
 
-İşte oracle dediğimiz uzmanlar, akıllı kontratların ihtiyacı olan bu bilgiyi onlara sağlayan yapılar. Dolayısıyla, her ne kadar direkt temasa etmeseler de kullanıcılar için çok kritik bir altyapı hizmetini yerine getiriyorlar.
+İşte oracle dediğimiz uzmanlar, akıllı kontratların ihtiyacı olan bu bilgiyi onlara sağlayan yapılar. Dolayısıyla, her ne kadar direkt temas etmeseler de kullanıcılar için çok kritik bir altyapı hizmetini yerine getiriyorlar.
 
 ## Merkezi kaynak mı istersiniz yoksa merkeziyetsiz mi? {#merkezi-kaynak-mi-istersiniz-yoksa-merkeziyetsiz-mi}
 
@@ -38,7 +38,7 @@ Yukarıda merkeziyetsiz bir oracle örneği verdik ancak hemen belirtmek lazım;
 
 Merkezi yapılar, DeFi dünyasında genelde hoş karşılanmazlar. Bunun temel nedeni, hep bahsettiğimiz dijital dünyada merkezi yapıların güvenlik açığı yaratma algısı. Zira, tek kaynak olmaları nedeniyle bu yapılara yapılacak saldırılar fiyatların manipüle edilmesine yol açabilir. Bu da, o fiyatları kullanarak hizmet veren platformları zor durumda bırakabilir.
 
-## Merkeziyetsiz platformlar nasıl yapıyorlar bu işi? {#merkeziyetsiz-platformlar-nasil-yapiyorlar-bu-isi}
+## Merkeziyetsiz platformlar oracle işini nasıl yapıyorlar? {#merkeziyetsiz-platformlar-nasil-yapiyorlar-bu-isi}
 
 Bilgiyi zincir dışından içine taşımak o kadar da basit bir olay değil. Fazla tekniğe girmeden anlatmaya çalışalım (son kullanıcı olarak ilginizi çekmiyorsa hemen bir sonraki bölüme atlayabilirsiniz.):
 
@@ -50,13 +50,13 @@ Anlaşma sağlanıp sistem çalışmaya başladığında, bilgi sağlayıcı üy
 
 Sonrasında akıllı kontrat, farklı üyelerden gelen teyit edilmiş bilgilerin ağırlıklı ortalamasını alıp bir değer buluyor ve talep sahibine bildiriyor. Böylece, bir kişiye bağlı kalmadan, istendiği kadar farklı kaynak kullanılarak olabildiğince tarafsız bilgi sağlanmış oluyor.
 
-### Son zamanlarda önemi arttı mı? {#son-zamanlarda-onemi-artti-mi}
+### Son zamanlarda oracle’ların önemi arttı mı? {#son-zamanlarda-onemi-artti-mi}
 
-DeFi dünyasının patlamasıyla birlikte doğru ve hızlı veriye olan ihtiyaç da arttı ve bu alandaki servis sağlayıcılar ciddi talep görmeye başladı. Öyle ki, bu alandaki en büyük iki oyuncu olan [Chainlink](https://chain.link/) ve [Nest](https://nestdapp.io/), Eylül 2020’de Ethereum ağını en çok meşgul eden 5. ve 7. uygulamalar arasına girip bir ayda toplam [2.5 milyon ABD Doları işlem ücreti ödediler(pdf)](https://static.coindesk.com/wp-content/uploads/2020/10/Huobi-DeFiLabs-Price-Oracle-A-Must-Have-Infrastructure-Oct-8-2020.pdf).
+DeFi dünyasının patlamasıyla birlikte doğru ve hızlı veriye olan ihtiyaç da arttı ve bu alandaki servis sağlayıcılar ciddi talep görmeye başladı. Öyle ki, bu alandaki en büyük iki oyuncu olan [Chainlink](https://chain.link/) ve Nest, Eylül 2020’de Ethereum ağını en çok meşgul eden 5. ve 7. uygulamalar arasına girip bir ayda toplam 2.5 milyon ABD Doları işlem ücreti ödediler (pdf).
 
-Bu alandaki belli başlı oyuncular; [Chainlink](https://chain.link/), [Band Protocol](https://bandprotocol.com/), [Nest Protocol](https://nestdapp.io/), [DIA](https://diadata.org/), [Tellor](https://www.tellor.io/), [Zap](https://zap.org/) ve [DOS Network](https://dos.network/) olarak sıralanıyor. Hemen belirtelim; Chainlink bu piyasanın neredeyse tek hakimi.
+Bu alandaki belli başlı oyuncular; [Chainlink](https://chain.link/), [Band Protocol](https://bandprotocol.com/), Nest Protocol, [DIA](https://diadata.org/), [Tellor](https://www.tellor.io/), [Zap](https://zap.org/) ve DOS Network olarak sıralanıyor. Hemen belirtelim; Chainlink bu piyasanın neredeyse tek hakimi.
 
-## Sıkıntıları neler? {#sikintilari-neler}
+## Oracle sistemlerinin sıkıntıları neler? {#sikintilari-neler}
 
 Merkeziyetsiz Finans dünyasında oracle sistemlerinin en büyük sıkıntısı gecikmeler. Yukarıda bilgi aktarımda bahsetmiştik. Bilgi toplanıyor, blokzincir ağına aktarılıyor, orada teyit ediliyor ve talep edene gönderiliyor. Dijital dünyada aslında saniyeler içinde yapılabilecek bir işlem, ancak burada bilginin teyidi sonrası blokzincire yazılıyor olması nedeniyle, blok oluşturma hızları darboğaz yaratıyor. Örneğin, Ethereum sisteminde her bir blok 10-20 saniye arasında oluşuyor. Bu da bilginin ulaşımında gecikmeler olması demek.
 
@@ -90,7 +90,7 @@ Chainlink tarafından yapılan ICO ile hayata geçirilen LINK esasında iki ana 
 
 Birincisi, bilgiye ihtiyacınız var ve bunu Chainlink’ten sağlamak istiyorsanız, bu bilgiyi sağlayan Chainlink ağının üyelerine, hizmetleri karşılığı ödemeyi LINK ile yapıyorsunuz.
 
-İkincisi ise Chainlink ağı üyesi iseniz ve hizmet vermek istiyorsanız, elinizdeki LINK tokenları rehin etmeniz gerekiyor. Üstelik ne kadar çok rehin ederseniz, Chainlink ağını yönetenlerin size hizmet verme ihtimali o kadar yükseliyor. (Hemen belirtelim rehin verme ‘staking’ henüz başlamadı.)
+İkincisi ise Chainlink ağı üyesi iseniz ve hizmet vermek istiyorsanız, elinizdeki LINK tokenleri rehin etmeniz gerekiyor. Üstelik ne kadar çok rehin ederseniz, Chainlink ağını yönetenlerin size hizmet verme ihtimali o kadar yükseliyor. (Hemen belirtelim rehin verme ‘staking’ henüz başlamadı.)
 
 ### LINK ile ilgili eleştiriler {#link-ile-ilgili-elestiriler}
 
@@ -98,7 +98,7 @@ LINK ile ilgili birkaç eleştiri var. Dilerseniz, gelin onlara kısaca göz ata
 
 <strong><em>LINK tutmak gerekli mi?</em></strong>
 
-Kripto alanının önemli araştırma şirketlerinden [Messari](https://messari.io/)‘den [Ryan Selkis](https://twitter.com/twobitidiot)‘in şu eleştirileri önemli:
+Kripto alanının önemli araştırma şirketlerinden [Messari](https://messari.io/)’den [Ryan Selkis](https://twitter.com/twobitidiot)’in şu eleştirileri önemli:
 
 *“LINK bir ödeme tokeni olduğu için, Chainlink üyelerine ödeme yapmak dışında elde tutmak ve ona bir değer yüklemek anlamsız. Ödemeler için Chainlink kullanıyorsanız, elde daha likit başka tokenleri tutup ihtiyacınız olduğunda bu daha az likit ve kullanışsız LINK tokenine dönebilirsiniz.*
 
@@ -132,11 +132,11 @@ Değer konusu oldukça subjektif. Bu yazımızın ana konusu da değil ancak Rya
 
 Chainlink için [Zeus Capital](https://zeus-capital.com/) isimli bir yatırım fonunun 2020 Temmuz’unda yayınladığı bir rapor ([pdf](https://zeus-capital.com/assets/The_Chainlink_Fraud_Exposed.pdf)) oldukça ilgi çekti.
 
-Hemen baştan belirtelim, rapora göz attığınızda ve Zeus Capital’in [websitesini](https://zeus-capital.com/) incelediğinizde, yazılanların bir çoğunun ve Zeus Capital’in kendisinin de şaibeli olabileceği izlenimine kapılıyorsunuz. O nedenle bu kısımda yazılanları büyük bir soru işareti ile değerlendirmekte fayda var:
+Hemen baştan belirtelim, rapora göz attığınızda ve Zeus Capital’in [web sitesini](https://zeus-capital.com/) incelediğinizde, yazılanların bir çoğunun ve Zeus Capital’in kendisinin de şaibeli olabileceği izlenimine kapılıyorsunuz. O nedenle bu kısımda yazılanları büyük bir soru işareti ile değerlendirmekte fayda var:
 
 Temel olarak bahsedilen; Chainlink’in hizmet sağlayıcı seçiminin şeffaf olmadığı, mevcut hizmet sağlayıcıların ağırlıklı olarak Chainlink ile ilişkili kişiler olduğu ve sistemin, ağ üyelerinden müşterilere hizmet verecek olanları seçerken bu kişileri kayırdığı şeklinde.
 
-İddialardan bir başkası da, bir DeFi platformu olan [bZx](https://bzx.network/)‘in 2020 başında [yaşadıği iki hack olayının](https://cointelegraph.com/news/decentralized-lending-protocol-bzx-hacked-twice-in-a-matter-of-days) arkasında Chainlink olduğu yönünde. Hack olayının ana nedeninin bZx’nin tek bir bilgi kaynağı ile çalışması gösterilmişti. Olayın duyulması ile birlikte, LINK tokenin fiyatı ciddi bir şekilde arttı. Daha sonrasında da bZx, [Chainlink ile çalışmaya başladı](https://coingape.com/bzx-hack-update-exchange-add-chainlink-protocol/).
+İddialardan bir başkası da, bir DeFi platformu olan bZx’in 2020 başında [yaşadığı iki hack olayının](https://cointelegraph.com/news/decentralized-lending-protocol-bzx-hacked-twice-in-a-matter-of-days) arkasında Chainlink olduğu yönünde. Hack olayının ana nedeninin bZx’nin tek bir bilgi kaynağı ile çalışması gösterilmişti. Olayın duyulması ile birlikte, LINK tokenin fiyatı ciddi bir şekilde arttı. Daha sonrasında da bZx, [Chainlink ile çalışmaya başladı](https://coingape.com/bzx-hack-update-exchange-add-chainlink-protocol/).
 
 Zeus Capital’in bu yazısına karşı olarak büyük ihtimal ile Chainlink kaynaklı yayınlanan [bir başka Medium yazısı](https://smartcontentpublication.medium.com/debunking-the-zeus-capital-disinformation-report-on-chainlink-7313d9e1801#e581) olayın bir PR tiyatrosuna dönmüş olduğu izlenimini uyandırıyor.
 

@@ -23,9 +23,9 @@ description: "Çevre Blockchain temelli fikirleri hayata geçirmede en mantıkl�
 
 Örneğin 90’lı yıllarda artan CFC (kloroflorokarbon) gazı nedeniyle yaklaşık %10 seviyesinde incelen ozon tabakası bu gazın kullanımına yönelik alınan tedbirler sonucu 2000 senesinden itibaren her on yılda %3 oranında kalınlık artışı göstermeye [başladı](https://news.un.org/en/story/2018/11/1024842)[^3]. Harika haber. Yeterli mi? Hayır. Bu daha bir başlangıç ve üstelik şu anda Çin dahil kimi ülkelerin hala ürettikleri kimi kimyasallar ile ozon tabakası için bir tehdit olduğu [iddia ediliyor](https://www.bbc.com/news/newsbeat-46107843)[^4].
 
-Çevre sorunlarının hükümetler tarafından koordine edilerek ele alınması doğru bir yöntem. Ancak sistemin karışıklığı, oyuncuların farklı çıkar ilişkileri, çevre konusunda yapılan yatırımların yüksek maliyetinden dolayı daha alınması gereken çok yol var. Zira, herhangi bir konuda öncelikle hükümetler anlaşmalı, sonrasında bu anlaşmalara uygun gerekli denetim ve ölçüm/bildirim mekanizmalarını kurulmalı, en sonunda da özel sektör ve kamu oyuncuları bu kurallara uygun davranıp aksiyonlarının sonuçlarını ölçmeli ve ilgili otoritelere bildirmeli. Oldukça yavaş işleyen bir mekanizma bu. Bu yavaşlık önümüzdeki nesillere miras olarak tamir edilemez hasarlara uğramış bir gezegen bırakmamıza yol açabilir.
+Çevre sorunlarının hükümetler tarafından koordine edilerek ele alınması doğru bir yöntem. Ancak sistemin karışıklığı, oyuncuların farklı çıkar ilişkileri, çevre konusunda yapılan yatırımların yüksek maliyetinden dolayı daha alınması gereken çok yol var. Zira, herhangi bir konuda öncelikle hükümetler anlaşmalı, sonrasında bu anlaşmalara uygun gerekli denetim ve ölçüm/bildirim mekanizmaları kurulmalı, en sonunda da özel sektör ve kamu oyuncuları bu kurallara uygun davranıp aksiyonlarının sonuçlarını ölçmeli ve ilgili otoritelere bildirmeli. Oldukça yavaş işleyen bir mekanizma bu. Bu yavaşlık önümüzdeki nesillere miras olarak tamir edilemez hasarlara uğramış bir gezegen bırakmamıza yol açabilir.
 
-90’ların başından beri yapılan müzakereler sonucu pek çok alanda hükümetler arası anlaşmalar yapıldı ve ülkelerin önüne özellikle çevre kirliliğini azaltma yolunda ödül/ceza sistemleri ve hedefler konuldu. Ölçümlemeler de uzun süredir yapılıyor. Bu ölçümler sonucu özellikle sera gazında önlenen hasarlar ile ilgili ödül kazanan firmalar bu ödüllerini çevreye zarar veren firmalara satarak çevre ile dost yatırımlarını daha karlı hale getiriyor. Yani yavaş yavaş çark dönmeye başladı.
+90’ların başından beri yapılan müzakereler sonucu pek çok alanda hükümetler arası anlaşmalar yapıldı ve ülkelerin önüne özellikle çevre kirliliğini azaltma yolunda ödül/ceza sistemleri ve hedefler konuldu. Ölçümlemeler de uzun süredir yapılıyor. Bu ölçümler sonucu özellikle sera gazında önlenen hasarlar ile ilgili ödül kazanan firmalar bu ödüllerini çevreye zarar veren firmalara satarak çevre ile dost yatırımlarını daha kârlı hale getiriyor. Yani yavaş yavaş çark dönmeye başladı.
 
 Ancak henüz daha yolun başındayız. Sistemin doğru işlemesi için daha yapılacak daha birçok iyileştirme var. Ve burada Blockchain bazlı teknolojiler bize yardımcı olabilir. Konuyu sadece mevcut sistemin iyileşmesi olarak düşünmemek lazım. Sıfırdan yepyeni sistemler de kurulabilir. Bu alanda alınabilecek o kadar o kadar aksiyon var ki. Örneğin World Economic Forum çevre alanında uygulanabilecek 65 farklı fikir/girişim içeren bir [rapor bile hazırladı](https://www.weforum.org/reports/building-block-chain-for-a-better-planet)[^5]. (raporun [pdf versiyonu da mevcut](http://www3.weforum.org/docs/WEF_Building-Blockchains.pdf)[^6]). Bölümün kalanında bu raporun içeriğine bakacağız.
 
@@ -60,7 +60,7 @@ Dünyada şu anda çevresel olarak sıkıntı yaratan konuları sıralarsak:
 <figcaption markdown="span">Image by [Alexander Antropov](https://pixabay.com/users/AlexAntropov86-2691829/)[^10] from [Pixabay](https://pixabay.com/images/id-3096675/)[^11]</figcaption>
 </figure>
 
-## Mevcut durumu iyileştirmeye yönelik girişimler var mı? {#mevcut-durumu-iyilestirmeye-yonelik-girisimler-var-mi}
+## Mevcut durumu iyileştirmeye yönelik Blockchain bazlı girişimler var mı? {#mevcut-durumu-iyilestirmeye-yonelik-girisimler-var-mi}
 
 Rapor mevcut durumu iyileştirmek amacı güden blockchain bazlı girişimleri şu şekilde grupluyor:
 
@@ -72,7 +72,7 @@ Rapor mevcut durumu iyileştirmek amacı güden blockchain bazlı girişimleri �
 
 Bu girişimler daha çok süreci iyileştirmeye yarayacak getirileri nispeten marjinal fikirler. Bunların üzerinde fazla durmadan vizyon açan başka fikirler de var. Dilerseniz hemen onlara bakalım.
 
-## Peki ya ezber bozan girişimler? {#peki-ya-ezber-bozan-girisimler}
+## Peki ya ezber bozan Blockchain girişimleri? {#peki-ya-ezber-bozan-girisimler}
 
 Mevcut sistemleri iyileştirmek dışında ezber bozan girişimler de var. Ne demek bu? Mevcut iş yapış biçimlerini değiştirecek, reform yapacak girişimler. Bunu yaparken de bir yandan endüstriyel alandaki son yıllarda yaşanan yenilikleri de içine alacak biraz da onlar sayesinde vizyonlarına ulaşacak fikirler (Ancak hemen hatırlatalım, bu fikirlerin pek çoğu daha test aşamasında — henüz yaygın adapte edilecek kadar olgun değiller)
 
@@ -82,13 +82,13 @@ Pek çok kurum çevresel olarak hükümetlere ve topluma karşı taahhütlerde b
 
 Merkezi olmayan ve sürdürülebilir kaynak yönetimi:
 
-Mevcut merkezi elektrik-su-doğalgaz hizmet sağlayıcıların arz-talep dengesini sağlayamama, dağıtımda kaçakları önleyememe, tekil arıza noktası olma gibi sorunları var. Evlere yerleştirilecek akıllı alıcı (sensör) gibi endüstriyel yenilikleri kullanacak platformlar son kullanıcıların bu alanda yeni kapılar açıyor. Nasıl? Kullanım bilgisi ve alışkanlıklar konusunda onları daha bilgili ve donanımlı hale getiriyor ve merkezi olmayan yapıları kullanma konusunda ellerini güçlendiriyor. Hangi alanlarda? Kişiden kişiye ticaretten tutun, dinamik fiyatlama yapmaya, arz-talep dengesi içinde kendilerine en optimal hizmet sağlayıcıyı bulmaya kadar. Şu an için çok ütopik gelmekle birlikte bu konuda [Brooklyn MicroGrid Project](https://www.brooklyn.energy/)[^12] isimli bir projenin New York’ta başlatıldığını hatırlatalım.
+Mevcut merkezi elektrik-su-doğalgaz hizmet sağlayıcıların arz-talep dengesini sağlayamama, dağıtımda kaçakları önleyememe, tekil arıza noktası olma gibi sorunları var. Evlere yerleştirilecek akıllı alıcı (sensör) gibi endüstriyel yenilikleri kullanacak platformlar son kullanıcıların bu alanda yeni kapılar açıyor. Nasıl? Kullanım bilgisi ve alışkanlıklar konusunda onları daha bilgili ve donanımlı hale getiriyor ve merkezi olmayan yapıları kullanma konusunda ellerini güçlendiriyor. Hangi alanlarda? Kişiden kişiye ticaretten tutun, dinamik fiyatlama yapmaya, arz-talep dengesi içinde kendilerine en optimal hizmet sağlayıcıyı bulmaya kadar. Şu an için çok ütopik gelmekle birlikte bu konuda Brooklyn MicroGrid Project[^12] isimli bir projenin New York’ta başlatıldığını hatırlatalım.
 
 Sürdürülebilir finans için kaynak sağlama:
 
-Birleşmiş Milletlerin belirlemiş olduğu [Sürdürülebilir Gelişim Hedefleri](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)[^13]’nin gerçekleştirilebilmesi için gerekli kaynaklar anlamında yıllık 5–7 Trilyon ABD Doları yatırım açığı var ve bunun 2,5 Trilyon ABD Dolarlık kısmı gelişmekte olan ülkelerde. Bu boşa harcanan bir para da değil bu arada. Bu alanda yapılacak yatırımlardan ciddi bir geri dönüş sağlanabilir — yani oldukça karlı yatırımlar ve bu alana yatırım yapmak isteyenler de var. Ancak veri eksikliğinden tutun, finansal karmaşıklığa pek çok sorun nedeniyle yatırımcılar ile ihtiyaç sahipleri bir türlü bir araya gelemiyor. Geldiği durumda başarı hikayeleri de ortaya çıkmıyor değil:
+Birleşmiş Milletlerin belirlemiş olduğu [Sürdürülebilir Gelişim Hedefleri](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)[^13]’nin gerçekleştirilebilmesi için gerekli kaynaklar anlamında yıllık 5–7 Trilyon ABD Doları yatırım açığı var ve bunun 2,5 Trilyon ABD Dolarlık kısmı gelişmekte olan ülkelerde. Bu boşa harcanan bir para da değil bu arada. Bu alanda yapılacak yatırımlardan ciddi bir geri dönüş sağlanabilir — yani oldukça kârlı yatırımlar ve bu alana yatırım yapmak isteyenler de var. Ancak veri eksikliğinden tutun, finansal karmaşıklığa pek çok sorun nedeniyle yatırımcılar ile ihtiyaç sahipleri bir türlü bir araya gelemiyor. Geldiği durumda başarı hikayeleri de ortaya çıkmıyor değil:
 
-Sun Exchange isimli Afrika bazlı bir proje, evlere ücretsiz güneş enerjisi modülleri takma karşılığında ev sahiplerinin elektrik faturası yerine tasarruf ettikleri paranın bir kısmını kira olarak ödemesi şeklinde bir model geliştirmiş. Kira olarak ödenen rakam, kullanım bazlı olarak sensorlar aracılığıyla bu firmaya gönderiliyor. Eğer evde oturanlar kirayı ödemez ise yine sensörler aracılığıyla hizmet kesiliyor. Hatta bu sistemi Afrika dışında Filipinler’de kurma gibi bir girişimleri de olmuş ancak yabancı para cinsinden para tahsil ve transfer etmede sıkıntı yaşıyorlar. Bunu sorunu çözebilmek için Filipinler’de kripto para kullanımının yaygınlaşmasını beklemek zorundalar:)
+Sun Exchange isimli Afrika bazlı bir proje, evlere ücretsiz güneş enerjisi modülleri takma karşılığında ev sahiplerinin elektrik faturası yerine tasarruf ettikleri paranın bir kısmını kira olarak ödemesi şeklinde bir model geliştirmiş. Kira olarak ödenen rakam, kullanım bazlı olarak sensörler aracılığıyla bu firmaya gönderiliyor. Eğer evde oturanlar kirayı ödemez ise yine sensörler aracılığıyla hizmet kesiliyor. Hatta bu sistemi Afrika dışında Filipinler’de kurma gibi bir girişimleri de olmuş ancak yabancı para cinsinden para tahsil ve transfer etmede sıkıntı yaşıyorlar. Bu sorunu çözebilmek için Filipinler’de kripto para kullanımının yaygınlaşmasını beklemek zorundalar:)
 
 Döngüsel ekonomileri teşvik:
 
@@ -96,7 +96,7 @@ Geri dönüştürülebilecek pek çok ürün yeterli teşvik mekanizmaları olma
 
 Karbon emisyon pazarlarını değiştirmek:
 
-Karbon emisyon ticaretinin başladığı ilk günlerden bu yana işlemlerin görünür ve izlenebilir olmaması, değişik ülkelerde uygulanan farklı standartlar ve kanunlar ile çifte harcama (double counting) gibi konular bu ticaretin verimliliği konusunda hep şüphe uyandırdı. Bu sorunları gidermeye yönelik IBM ile Enerji Blockchain Labs’in ortaklaşa gerçekleştirdiği “Çin’de Karbon Kredi Yönetim Programı” başarılı olursa tüm dünyaya yayılmayı [planlıyor](https://www.ibm.com/case-studies/energy-blockchain-labs-inc)[^14].
+Karbon emisyon ticaretinin başladığı ilk günlerden bu yana işlemlerin görünür ve izlenebilir olmaması, değişik ülkelerde uygulanan farklı standartlar ve kanunlar ile çifte harcama (double counting) gibi konular bu ticaretin verimliliği konusunda hep şüphe uyandırdı. Bu sorunları gidermeye yönelik IBM ile Energy Blockchain Labs’in ortaklaşa gerçekleştirdiği “Çin’de Karbon Kredi Yönetim Programı” başarılı olursa tüm dünyaya yayılmayı planlıyor[^14].
 
 Yeni nesil sürdürülebilirlik izleme ve raporlama sistemleri:
 
@@ -142,8 +142,8 @@ Evet, gördüğünüz gibi, kendi içinde bulunduğumuz ülkemiz ve küçük dü
 
 [^11]: [https://pixabay.com/images/id-3096675/](https://pixabay.com/images/id-3096675/)
 
-[^12]: [https://www.brooklyn.energy/](https://www.brooklyn.energy/)
+[^12]: https://www.brooklyn.energy/
 
 [^13]: [https://www.un.org/sustainabledevelopment/sustainable-development-goals/](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)
 
-[^14]: [https://www.ibm.com/case-studies/energy-blockchain-labs-inc](https://www.ibm.com/case-studies/energy-blockchain-labs-inc)
+[^14]: https://www.ibm.com/case-studies/energy-blockchain-labs-inc

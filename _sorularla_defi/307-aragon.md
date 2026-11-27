@@ -7,10 +7,10 @@ chapter: 3
 chapter_title: "DeFi’nin Altyapı Taşları"
 order: 307
 permalink: /Sorularla_DeFi/bolum-3/aragon/
-description: "Bu bölümde gelin hep birlikte, merkeziyetsiz yönetim konusunda enteresan bir deneysel fikir olan Aragon‘a göz atalım."
+description: "Bu bölümde gelin hep birlikte, merkeziyetsiz yönetim konusunda enteresan bir deneysel fikir olan Aragon’a göz atalım."
 ---
 
-Bu bölümde gelin hep birlikte, merkeziyetsiz yönetim konusunda enteresan bir deneysel fikir olan [Aragon](https://aragon.org/)‘a göz atalım.
+Bu bölümde gelin hep birlikte, merkeziyetsiz yönetim konusunda enteresan bir deneysel fikir olan [Aragon](https://aragon.org/)’a göz atalım.
 
 Şu aralar ağırlıklı olarak token değeri bazlı spekülatif yanı konuşulsa da DeFi projelerinin devrim olarak nitelendirilebilecek en heyecan verici taraflarından biri, merkeziyetsiz bir şekilde yönetiliyor olmaları. Aslına bakarsanız merkeziyetsiz yönetim o kadar da kolay değil. Hatta nasıl yapılır, nasıl yönetilir tam bir fikir birliği de yok.
 
@@ -34,24 +34,24 @@ Efendim, Aragon özünde merkeziyetsiz olarak yönetilmek isteyen kişilere, bu 
 
 İşte Aragon, bu anlamda bir araya gelen gruplara kendi sistemlerini yönetmek için daha önce denenmiş hazır ve esnek şablonlar sunuyor. Kullanıcı dostu, Akıllı Kontratlar ile çalışan ve kişilerin ihtiyaçlarına göre şekillendirebildikleri platformlar.
 
-Malum, dijital dünyanın fiziksel dünyaya göre avantajı işlerinizi daha hızlı, basit, zahmetsiz ve ucuza çözmeniz. Aragon da bu DAO’ları aylık 10-20 ABD dolarına kullanabileceğiniz bir hizmet sunuyor. Bir nevi, zamanında her tür web projesi için bir yazılımcı ile çalışılmak zorunda iken sonrasında Wordpress’in ortaya çıkışıyla blog yazma ya da web sitesi kurmanın çocuk oyuncağı hâline gelmesi gibi.
+Malum, dijital dünyanın fiziksel dünyaya göre avantajı işlerinizi daha hızlı, basit, zahmetsiz ve ucuza çözmeniz. Aragon da bu DAO’ları aylık 10-20 ABD dolarına kullanabileceğiniz bir hizmet sunuyor. Bir nevi, zamanında her tür web projesi için bir yazılımcı ile çalışılmak zorunda iken sonrasında WordPress’in ortaya çıkışıyla blog yazma ya da web sitesi kurmanın çocuk oyuncağı hâline gelmesi gibi.
 
-## Nasıl çalışıyor? {#nasil-calisiyor}
+## Aragon nasıl çalışıyor? {#nasil-calisiyor}
 
 Aragon üzerine kurulu olan DAO’larda olması gereken üç temel özellik var; üyelik ve oylama hakkı için bir '**token'**, grubun sahip olduğu varlıkları korumak için bir '**cüzdan'** ve her tür oylama sonucu oluşan kararı ve işlemleri takip etmek için bir '**blokzincir'**.
 
-İşte bu üç temel özelliği ihtiyacınıza göre şekillendirerek gruplar kurabilir, projeler ortaya çıkarabilirsiniz. Haziran 2021’e kadar bu şekilde [Aragon üzerinde kurulmuş 1,700’ün üzerinde DAO](https://poweredby.aragon.org/) var ve bu yapılar yaklaşık 900 Milyon ABD Dolarından fazla bir dijital varlığı ellerinde tutuyorlar.
+İşte bu üç temel özelliği ihtiyacınıza göre şekillendirerek gruplar kurabilir, projeler ortaya çıkarabilirsiniz. Haziran 2021’e kadar bu şekilde Aragon üzerinde kurulmuş 1,700’ün üzerinde DAO var ve bu yapılar yaklaşık 900 Milyon ABD Dolarından fazla bir dijital varlığı ellerinde tutuyorlar.
 
 Tabii projeleri kurmak nispeten kolay. Asıl büyük sorun genelde üyeler arasında anlaşmazlıklar çıktığında oluyor. Fiziksel dünyada sorunlar çözülmez ise mahkemeye gidiyorsunuz. Burada? Aragon’un bu tip sorunlar için de ilginç bir çözümü var:
 
-Başta söyledik, blokzincirlerde kanunlar yazılımcılar tarafından kod yazılarak sisteme konuyor ancak her tür senaryoyu koda çevirmek mümkün olmayabiliyor. İşte o zaman Aragon, katılımcılara opsiyonel bir Subjektif Akıllı Kontrat sunuyor. Baştan böyle bir kontratı kabul etmeleri durumunda katılımcılar bir miktar kriptoparayı sisteme teminat olarak kilitliyorlar. Sonrasında, bir anlaşmazlık olduğunda ya konuyu kendi aralarında hallediyor ya da “sanal mahkeme”ye gidebiliyorlar .(Yalnız sanal mahkemeye gider ve kaybederler ise teminatları yanıyor. Bunu; sorunları, mahkemeye gitmeden kendi aralarında çözsünler diye yapmışlar).
+Başta söyledik, blokzincirlerde kanunlar yazılımcılar tarafından kod yazılarak sisteme konuyor ancak her tür senaryoyu koda çevirmek mümkün olmayabiliyor. İşte o zaman Aragon, katılımcılara opsiyonel bir Subjektif Akıllı Kontrat sunuyor. Baştan böyle bir kontratı kabul etmeleri durumunda katılımcılar bir miktar kriptoparayı sisteme teminat olarak kilitliyorlar. Sonrasında, bir anlaşmazlık olduğunda ya konuyu kendi aralarında hallediyor ya da “sanal mahkeme”ye gidebiliyorlar. (Yalnız sanal mahkemeye gider ve kaybederler ise teminatları yanıyor. Bunu; sorunları, mahkemeye gitmeden kendi aralarında çözsünler diye yapmışlar).
 
 Peki sanal mahkeme nasıl çalışıyor? Yargıyı kimler sağlıyor? Sisteme özgü Aragon Network Juror (ANJ) tokene sahip olan üyeler arasından sanal mahkemeye rastgele bir seçim yapılıyor. Seçilen üyeler önlerine gelen vakayı inceliyor ve oyluyorlar. Çoğunluğun verdiği karar kazanıyor. (Yalnız burada da ilginç bir durum var; eğer çoğunluk tarafında değilseniz teminat olarak verdiğiniz para yanıyor.)
 
-Sistemin nasıl çalıştığı Aragon yatırımcılarından Joel Monegro’nun [şu yazısından](https://www.placeholder.vc/blog/2020/5/7/aragon-daos) ya da yargı sisteminin detaylarını [Aragon blog sayfasından](https://blog.aragon.one/aragon-agreements/) inceleyebilirsiniz.
+Sistemin nasıl çalıştığı Aragon yatırımcılarından Joel Monegro’nun [şu yazısından](https://www.placeholder.vc/blog/2020/5/7/aragon-daos) ya da yargı sisteminin detaylarını Aragon blog sayfasından inceleyebilirsiniz.
 
 ## Aragon üzerine son birkaç söz {#aragon-uzerine-son-birkac-soz}
 
-Decentralized Autonomus Organization yani DAO’lar DeFi alanına ilgi duyanların yakından anlamaları gereken yapılar. Zira fiziki dünyada hepimizin alıştığı anonim şirket, limited şirket gibi oluşumlar devletin koyduğu kanunlara tabi, otoriteler tarafından kontrol edilen ve hissedar ya da çalışan haklarının bir nevi korunduğu yerler. Dijital dünyada ise devlet kontrolünün olmadığı bir ortamda, bu tip yapılar katılımcılar için pratiklik yanında sorumluluk da getiriyor. Aragon benzeri projeler bu anlamda bize bu tip yapıların nasıl işleyebileceği konusunda farklı alternatifler sunuyor, bir nevi yol gösteriyor.
+Decentralized Autonomous Organization yani DAO’lar DeFi alanına ilgi duyanların yakından anlamaları gereken yapılar. Zira fiziki dünyada hepimizin alıştığı anonim şirket, limited şirket gibi oluşumlar devletin koyduğu kanunlara tabi, otoriteler tarafından kontrol edilen ve hissedar ya da çalışan haklarının bir nevi korunduğu yerler. Dijital dünyada ise devlet kontrolünün olmadığı bir ortamda, bu tip yapılar katılımcılar için pratiklik yanında sorumluluk da getiriyor. Aragon benzeri projeler bu anlamda bize bu tip yapıların nasıl işleyebileceği konusunda farklı alternatifler sunuyor, bir nevi yol gösteriyor.
 
 Hep söylediğimiz gibi son on yıldır dijital dünyada hepimizin gözleri önünde bir devrim yaşanıyor, DAO’lar da bu devrimin önemli yapı taşlarından biri.

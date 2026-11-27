@@ -32,11 +32,11 @@ Aslına bakarsanız, türev piyasalarında faaliyet gösteren merkezi oyuncular 
 
 En önemli nedenlerden biri sisteme giriş kolaylığı. Merkezi olarak türev ürünleri sunan piyasalara girmek için gerekli prosedür hem zahmetli hem de kimileri için (örneğin coğrafi kısıtlar, yeterince maddi servete sahip olmama gibi nedenlerle) imkânsız. Eğer kriptoparalarla bir haşır neşirliğiniz varsa, örneğin ETH tutan bir cüzdana sahipseniz, merkeziyetsiz borsalarda işlem yapmaya başlama süreniz dakikalar ile ölçülebiliyor.
 
-Bunun yanında DeFi türev oyuncuları klasik türev hizmeti verenlerin sunabildiği her tür fiziki piyasaya ait varlıkların çok daha ötesinde hizmetler sunabiliyorlar kullanıcılara. Örneğin, son zamanlarda adını sıkça duymaya başladığımız getirici çiftçiliği (İngilizcede ‘yield farming’) benzeri ürünler ile DeFi üzerinden farklı yollardan ekstra kazanç sağlamak da mümkün.
+Bunun yanında DeFi türev oyuncuları klasik türev hizmeti verenlerin sunabildiği her tür fiziki piyasaya ait varlıkların çok daha ötesinde hizmetler sunabiliyorlar kullanıcılara. Örneğin, son zamanlarda adını sıkça duymaya başladığımız getiri çiftçiliği (İngilizcede ‘yield farming’) benzeri ürünler ile DeFi üzerinden farklı yollardan ekstra kazanç sağlamak da mümkün.
 
 Bunun yanında DeFi ürünlerini kullanmanın bir başka avantajı, önceki kısımda da bahsettiğimiz; kullanıcıya verilen güç. Özellikle herhangi bir türev pazarından aldığınız herhangi bir ürünü, bir başka DeFi platformu üzerinden satabiliyorsunuz. Ne de olsa kontratı yapan kişi olarak kontrat sizin. O kontrat Ethereum zinciri üzerine işleniyor ve anahtarı sizde. İşlem yapmak için daha kârlı bir platform bulduğunuz anda cüzdanınızı saniyeler içinde o platforma bağlayıp işlemi oradan gerçekleştirebilirsiniz.
 
-Gelin şimdi de 2020 yılının yaz aylarında bu alanın lideri haline gelen sentetik ürünler piyasası [Synthetix](https://www.synthetix.io/community)‘i inceleyelim:
+Gelin şimdi de 2020 yılının yaz aylarında bu alanın lideri haline gelen sentetik ürünler piyasası Synthetix’i inceleyelim:
 
 ## Synthetix ne yapar? {#synthetix-ne-yapar}
 
@@ -44,7 +44,7 @@ Türev piyasalarının yükselen yıldızı Synthetix, Avustralya çıkışlı b
 
 <figure><a href="/assets/books/sorularla-defi/206-2.png"><img src="/assets/books/sorularla-defi/206-2.png" alt="2020-2021 yılları Synthetix’de kilitlenen para miktarı. Kaynak: DefiLlama" width="1200" height="507" loading="lazy"></a><figcaption>2020-2021 yılları Synthetix’de kilitlenen para miktarı. Kaynak: <a href="https://defillama.com/protocol/synthetix/all/USD">DefiLlama</a></figcaption></figure>
 
-## Nasıl çalışıyor sistem? {#nasil-calisiyor-sistem}
+## Synthetix sistemi nasıl çalışıyor? {#nasil-calisiyor-sistem}
 
 Sistemin çalışması kısaca şöyle: Normalde bir türev piyasasında alan ve satan olarak iki parti bulunması gerekirken, Synthetix’de al-sat işleminde bir taraf var bir de karşısında bir havuz. Havuz kısmına birazdan değineceğiz ama gelin öncelikle işin basit kısmından, sistemi kullanmak isteyen yani al-sat işlemi yapanlardan (İngilizcede ‘trader’) başlayalım ve basitlik adına bu kişilere “kullanıcı” diyelim.
 
@@ -54,7 +54,7 @@ Kullanıcılar, özünde herhangi bir varlığa sahip olmadan, o varlığın ris
 
 Synthetix sistemi herhangi bir şekilde gerçek bir varlığa dayanmıyor. Onun yerine her bir ürünün sentetik denen türevi var. Bu ürünleri alabilmek için kullanıcının öncelikle sistemin parasına sahip olması lazım. O para da sentetik bir ürün: adı da **sUSD**.
 
-sUSD, değeri ABD Doları'na çıpalanmış bir stabil para. Bu parayı elde edebilmenin iki yolu var. Birincisi çeşitli borsalardan sUSD satın almak (- ki o borsaların listesini [bu bağlantıda](https://www.coingecko.com/en/coins/susd) bulabilirsiniz- ), ikincisi ise az sonra detaylı anlatacağımız “paydaş” yöntemi.
+sUSD, değeri ABD Doları’na çıpalanmış bir stabil para. Bu parayı elde edebilmenin iki yolu var. Birincisi çeşitli borsalardan sUSD satın almak (- ki o borsaların listesini bu bağlantıda bulabilirsiniz- ), ikincisi ise az sonra detaylı anlatacağımız “paydaş” yöntemi.
 
 Kullanıcı elindeki sUSD ile sistemde bulunan herhangi bir sentetik ürünü alabiliyor. Örneğin Bitcoin satın almak isterse gerçek BTC’yi değil, onun sentetik türevi olan sBTC’yi alıyor. Canı istediğinde ise sBTC’yi sistemde sUSD karşılığı satıp, eline geçen sUSD’yi de yine aynı şekilde kriptopara borsalarında satarak sistemden çıkabiliyor.
 
@@ -62,7 +62,7 @@ Klasik piyasalar yerine neden burada işlem yapsın bir kullanıcı? Kitabın il
 
 ### Synthetix’de ne tip ürünler var ? {#synthetixde-ne-tip-urunler-var}
 
-Beş ayrı kategori var; itibari paralar, emtialar, kriptoparalar, kriptopara endeksleri ve kriptopara fiyatlarını tersten izleyen inverse-kriptoparalar.. Bu beş kategoride, Mayıs 2021 itibariyle; 16 tanesi aktif toplam [71 adet ürün](https://dashboard.synthetix.io/) bulunuyor.[^1]
+Beş ayrı kategori var; itibari paralar, emtialar, kriptoparalar, kriptopara endeksleri ve kriptopara fiyatlarını tersten izleyen inverse-kriptoparalar. Bu beş kategoride, Mayıs 2021 itibariyle; 16 tanesi aktif toplam 71 adet ürün bulunuyor.[^1]
 
 ### Peki sistemdeki ürünlerin fiyatlarını kim belirliyor? {#peki-sistemdeki-urunlerin-fiyatlarini-kim-belirliyor}
 
@@ -78,12 +78,12 @@ Buraya kadar her şey basit ve anlaşılır umarım. Eğer amacınız sadece sen
 - Bu sUSD ne menem bir şeydir? Nereden çıkmış, neden ben kullanıcı olarak sUSD satın almak için para vereyim?
 - Sonra yarın öbür gün sBTC’mi satmak istediğimde yerine bana verecekleri sUSD’yi alacak biri çıkacak mı?
 - Bir sUSD bir ABD Doları’na eşit diye kim söylüyor, kim böyle bir garanti veriyor? Verilen garanti ne kadar güvenilir?
-- Sonra yarın öbür gün örneğin bütün kullanıcılar Bitcoin’in yükseleceğin düşünüp sBTC alırsa ve BTC iki katına çıkarsa kim ödeyecek bu kârı bu kullanıcılara?
+- Sonra yarın öbür gün örneğin bütün kullanıcılar Bitcoin’in yükseleceğini düşünüp sBTC alırsa ve BTC iki katına çıkarsa kim ödeyecek bu kârı bu kullanıcılara?
 - Bunların hepsi çok makul sorular ve hepsine cevap vermeden içimizin rahat etmesi mümkün değil. Ayrıca kimi sorulara cevap verdikçe yeni sorular da takılacak aklımıza. Malum, sistem oldukça karışık. Gelin tek tek bakalım bu sorulara:
 
 ### Hepimizin çok sevdiği havuz problemi, tekrar karşımızda. {#hepimizin-cok-sevdigi-havuz-problemi-tekrar-karsimizda}
 
-Synthetix sistemini aslında sanal bir ülke gibi düşünmek mümkün. Nasıl bir ülkenin Merkez Bankası, o ülkede dolaşımda olan parayı basar, burada da benzeri var: Synthetix sisteminin para birimi olan sUSD’yi basanlar da aslında o ülkenin Merkez Bankası oluyor. Tek fark burada sUSD’yi basan bir kurum değil merkezi olmayan binlerce kişi (Bu kişilere İngilizce'de “staker” deniyor; Türkçe çevirisi tam olarak yok, yatırımcı, para koyucu, hissedar denebilir ama bu bölüm özelinde 'paydaş' terimini kullanacağız).
+Synthetix sistemini aslında sanal bir ülke gibi düşünmek mümkün. Nasıl bir ülkenin Merkez Bankası, o ülkede dolaşımda olan parayı basar, burada da benzeri var: Synthetix sisteminin para birimi olan sUSD’yi basanlar da aslında o ülkenin Merkez Bankası oluyor. Tek fark burada sUSD’yi basan bir kurum değil merkezi olmayan binlerce kişi (Bu kişilere İngilizce’de “staker” deniyor; Türkçe çevirisi tam olarak yok, yatırımcı, para koyucu, hissedar denebilir ama bu bölüm özelinde 'paydaş' terimini kullanacağız).
 
 Biliyorsunuz, merkez bankasının bastığı ve tedavüle soktuğu para esasında bankanın o parayı kullananlara yani halka bir borcudur. Synthetix’de de benzer şekilde paydaşlar sUSD basıp havuza koyarak sistemi kullananlara borçlanıyorlar.
 
@@ -95,7 +95,7 @@ Havuzun çalışma sistemi ise şöyle: Her bir paydaş yarattığı sUSD oranı
 
 sUSD yaratımında teminat olarak konan SNX, borsalarda alıp satılan bir token. Paydaş, SNX satın alıp sisteme kilitleyip karşılığında sUSD basabiliyor. Merkez bankası eskiden birebir altın karşılığında para basardı. Ama altın dediğimiz maden binlerce yıldır ortada olan ve belli bir değeri olan bir varlık. Hiç SNX ile altın bir olur mu? Olmaz tabii.
 
-O nedenle, paydaşlar sUSD basarken SNX olarak çok daha fazlasını tutmak zorundalar. Ne kadar? Şu anda teminat oranı %600. Yani 600 ABD Doları değerinde SNX’i teminat gösterirse ancak 100 ABD Doları karşılığı sUSD basabiliyor. (Karşılaştırma olarak MakerDAO’da bu oran %150, yani bir ABD Doları karşılığı olan bir DAI basmak için 1.5 ABD Doları karşılığı ETH koymak gerekiyor ki [Synthetix de ETH teminatlı benzer bir modeli deniyor şu aralar](https://blog.synthetix.io/ether-collateral-second-trial/). Bu arada başlangıçta %700 olan bu oran 2020 yılının sonuna doğru %600'e indirildi)
+O nedenle, paydaşlar sUSD basarken SNX olarak çok daha fazlasını tutmak zorundalar. Ne kadar? Şu anda teminat oranı %600. Yani 600 ABD Doları değerinde SNX’i teminat gösterirse ancak 100 ABD Doları karşılığı sUSD basabiliyor. (Karşılaştırma olarak MakerDAO’da bu oran %150, yani bir ABD Doları karşılığı olan bir DAI basmak için 1.5 ABD Doları karşılığı ETH koymak gerekiyor ki [Synthetix de ETH teminatlı benzer bir modeli deniyor şu aralar](https://blog.synthetix.io/ether-collateral-second-trial/). Bu arada başlangıçta %700 olan bu oran 2020 yılının sonuna doğru %600’e indirildi)
 
 ### Peki nereden geliyor bu SNX? {#peki-nereden-geliyor-bu-snx}
 
@@ -131,7 +131,7 @@ Peki ya SNX’in değeri değişince ne oluyor? Öyle ya borsada alınıp satıl
 
 Eğer SNX fiyatı artarsa, o zaman paydaşın teminat miktarı benzer şekilde artıyor ve %600’e gelecek kadar ekstra sUSD basma (yani ekstra borçlanma) hakkına sahip oluyor.
 
-Peki ya düşerse? O zaman da teminat oranının altına düşme riski beliriyor. Bu durumda izlenebilecek iki seçecek var; ya piyasadan SNX satın alarak teminat oranını %600’e yükseltecek ya da borçlandığı sUSD’lerin bir kısmını ödeyerek (buna para yakma da deniyor) minimum teminat oranına çıkacak. Peki paydaş bu ikisini de yapmaz ise ne oluyor? Öyle ya, sanal dünya bu, nasıl zorlayacaksınız?
+Peki ya düşerse? O zaman da teminat oranının altına düşme riski beliriyor. Bu durumda izlenebilecek iki seçenek var; ya piyasadan SNX satın alarak teminat oranını %600’e yükseltecek ya da borçlandığı sUSD’lerin bir kısmını ödeyerek (buna para yakma da deniyor) minimum teminat oranına çıkacak. Peki paydaş bu ikisini de yapmaz ise ne oluyor? Öyle ya, sanal dünya bu, nasıl zorlayacaksınız?
 
 Öncelikle teminat oranı %600’ün altına düşerse; paydaş, havuzun verdiği komisyon kârları ve ödül paralardan yararlanamıyor. Bu kâr ve ödüller, teminatı yeterli olan diğer paydaşlara dağıtılıyor.
 
@@ -171,7 +171,7 @@ Bu kadar riskten bahsedince gözünüz korkabilir, çok normal ancak unutmayın 
 
 Tabii yine de bunlara güvenmezseniz (ki kimse “neden güvenmiyorsun?” diyemez) o zaman elinizde olmayan teknik risklerden sizi koruyacak sigorta yaptırmak da mümkün.
 
-### Synthetix'e özgü riskler {#synthetixe-ozgu-riskler}
+### Synthetix’e özgü riskler {#synthetixe-ozgu-riskler}
 
 “Sistem çok güzel kurulmuş, riskler yok mu?” derseniz, hâlâ akla takılan ya da risk olarak görülebilecek alanlar var.
 
@@ -179,7 +179,7 @@ Birinci ve en önemlisi, yazıdan anlaşılıyor olmalı ama tekrar edelim: Baş
 
 Bununla bağlantılı ikinci temel risk ise şu: Yapılan işlemlerin ağırlık olarak bir tarafa kayması sonucu riskin ve havuzun borcunun bir anda büyümesi. Örneğin Ağustos 2020 itibariyle sistemde sBTC tutanların oranı %22.
 
-<figure><a href="/assets/books/sorularla-defi/206-3.png"><img src="/assets/books/sorularla-defi/206-3.png" alt="SNX ürünlerinin Kasım 2021 itibariyle dağılımı Kaynak" width="600" height="371" loading="lazy"></a><figcaption>SNX ürünlerinin Kasım 2021 itibariyle dağılımı <a href="https://dashboard.synthetix.io/">Kaynak</a></figcaption></figure>
+<figure><a href="/assets/books/sorularla-defi/206-3.png"><img src="/assets/books/sorularla-defi/206-3.png" alt="SNX ürünlerinin Kasım 2021 itibariyle dağılımı Kaynak" width="600" height="371" loading="lazy"></a><figcaption>SNX ürünlerinin Kasım 2021 itibariyle dağılımı Kaynak</figcaption></figure>
 
 Bu oran %100’lere yaklaşırsa ve aniden Bitcoin fiyatı iki katına çıkarsa, o zaman bu işlem yapanlara havuz bu parayı nasıl ödeyecek? Paydaşlar havuza para koymaya devam edecekler mi? Yoksa “elimde tuttuğum SNX’ler feda olsun, ben borcumu ödemiyorum” deyip sistemden kaçabilirler mi? Özellikle, bir panik havası ile SNX’in değeri de düşmeye başlarsa. (Elbette yukarıda bahsettiğimiz gibi teminat miktarı yaklaşık %600 oranlarında; bu, endişeleri gidermekte bir miktar faydalı olabilir, keza %200’ün altında teminat oranlarında kontratın bozulup borcun kapanıyor olması da. Yine de bu durum, ani teminat düşüşlerinde risk olmadığı anlamına gelmiyor.)
 

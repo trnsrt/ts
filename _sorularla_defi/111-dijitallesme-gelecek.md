@@ -12,9 +12,9 @@ description: "Bu aralar Twitter’ı takip ederken sanıyorum çoğumuzun sıkç
 
 Bu aralar Twitter’ı takip ederken sanıyorum çoğumuzun sıkça karşılaştığı bir his var: “Her şey çok hızlı gelişiyor, her hafta yepyeni bir konu ortaya atılıyor.” Hak vermemek mümkün değil; birkaç ay önce DeFi konuşuyorduk, sonra NFT çıktı, sonra Metaverse, derken DAO’lar. Böyle olunca, çıkan her yeniliği moda olarak addediyor ve gelip geçeceğini düşünüyoruz. Gerçekten öyle mi?
 
-## Nasıl bir süreçten geçiyoruz? {#nasil-bir-surecten-geciyoruz}
+## Dijitalleşmede nasıl bir süreçten geçiyoruz? {#nasil-bir-surecten-geciyoruz}
 
-Teknolojinin gelişmesiyle ortaya çıkan dijitalleşme bir kaç on yıldır hayatımızın içinde, bizi fiziki dünyadan dijital dünyaya yavaş yavaş geçiriyor. İnsanlar değişime ilk aşamada karşı çıkarlar. Bu nedenle değişim ilk olarak eski dünyanın yeni dünyada bire bir taklidi şeklinde ortaya çıkar. Bu taklitlere zamanla alışıldığı noktada, bu dünyaya özgü yenilikler de yavaş yavaş kabullenilmeye başlar.
+Teknolojinin gelişmesiyle ortaya çıkan dijitalleşme birkaç on yıldır hayatımızın içinde, bizi fiziki dünyadan dijital dünyaya yavaş yavaş geçiriyor. İnsanlar değişime ilk aşamada karşı çıkarlar. Bu nedenle değişim ilk olarak eski dünyanın yeni dünyada bire bir taklidi şeklinde ortaya çıkar. Bu taklitlere zamanla alışıldığı noktada, bu dünyaya özgü yenilikler de yavaş yavaş kabullenilmeye başlar.
 
 İşte dijitalleşmenin ilk aşamalarında da yaptığımız, genel olarak dijital dünyayı taklit etmek oldu. Gazetelerin internet sayfaları kâğıt baskının pdf kopyası şeklinde idi. Sonrasında, yavaş yavaş haberler kullanıcıların tıklayıp ilgi gösterdikleri alanlara göre daha kişiselleştirildi, arkasından okuyucular yorum yazarak daha interaktif hâle geldiler, en sonunda ise bireyler pasif okuyuculuktan aktif haber yaratır hâle geldiler.
 
@@ -24,11 +24,11 @@ Uzun bir zaman dilimine yayılan bu dijitalleşme dönüşümünde kimi gelişme
 
 Bunlardan birincisi, blokzincir teknolojisi sayesinde bireylerin dijital dünyada her tür ilişkiye, aracılara ihtiyaç duymadan girebilmeleri. Bu sayede, eski dünyadan gelen ve dijital dünyanın en büyük handikaplarından olan “tanımadığın insanlara güvenme ve ilişki kurma” sorunu çözüldü.
 
-<figure><a href="/assets/books/sorularla-defi/111-1.jpeg"><img src="/assets/books/sorularla-defi/111-1.jpeg" alt="_Image by Gerd Altmann from _Pixabay" width="1200" height="671" loading="lazy"></a><figcaption>_Image by <a href="https://pixabay.com/users/geralt-9301/">Gerd Altmann</a> from _<a href="https://pixabay.com/">Pixabay</a></figcaption></figure>
+<figure><a href="/assets/books/sorularla-defi/111-1.jpeg"><img src="/assets/books/sorularla-defi/111-1.jpeg" alt="Image by Gerd Altmann from Pixabay" width="1200" height="671" loading="lazy"></a><figcaption>Image by <a href="https://pixabay.com/users/geralt-9301/">Gerd Altmann</a> from <a href="https://pixabay.com/">Pixabay</a></figcaption></figure>
 
 İkinci önemli olay ise “pandemi” ile birlikte insanların mevcut alışkanlıklarını “zorla” da olsa değiştirmesi ve dijital dünyada bir arada olmanın, “fiziksel dünyada” birlikte olmanın yerine tam olarak geçemese de “ehven-i şer” (yani yeterince) bir alternatif olduğunu kanıtlaması oldu. Birebir yerini tutamıyor olsa da özellikle zamandan tasarruf sağlaması nedeniyle pek çok insanın fiziksel görüşmeye nazaran tercih ettiği bir yöntem oldu bu.
 
-İşte blokzincir ile fiziksel dünyaya karşı zayıf karnını sağlamlaştıran dijital dünya, “pandemi” ile birlikte “zihinlerdeki bariyerleri” de ortadan kaldırarak eskiden sadece teori ve hayal dünyasında olan (plaza diliyle konsept aşamasındaki) kimi yenliklerin artık çok daha rahat konuşulabildiği bir yer hâline geldi.
+İşte blokzincir ile fiziksel dünyaya karşı zayıf karnını sağlamlaştıran dijital dünya, “pandemi” ile birlikte “zihinlerdeki bariyerleri” de ortadan kaldırarak eskiden sadece teori ve hayal dünyasında olan (plaza diliyle konsept aşamasındaki) kimi yeniliklerin artık çok daha rahat konuşulabildiği bir yer hâline geldi.
 
 ## Peki nedir bu dijital dünya? Fiziksel dünya ile karşılaştırsak? {#peki-nedir-bu-dijital-dunya-fiziksel-dunya-ile-karsilastirsak}
 
@@ -40,17 +40,17 @@ Yeni dünya, aracılara ihtiyacın azaldığı ve bu dünyada kullanıcıların 
 - Finans işlerimizi klasik finans kurumları yerine merkeziyetsiz finanstan yapacağız
 - Fiziki varlık tutmak yerine dijital dünyada varlıklarımızı NFT olarak tutacağız
 - Sosyal ilişkilerimizi (iş ile ilgili ya da iş dışı) mevcut sosyal ağlar yerine metaverse ile yürüteceğiz
-- Projeleri artık şirketler yerine DAO'lar götürecek
+- Projeleri artık şirketler yerine DAO’lar götürecek
 
 <figure><a href="/assets/books/sorularla-defi/111-2.png"><img src="/assets/books/sorularla-defi/111-2.png" alt="" width="960" height="400" loading="lazy"></a></figure>
 
 Yukarıdaki beş konuyu görünce içinizden “hadi canım, uçuyorsun” diye geçirebilirsiniz? Gayet normal bir tepki. Öncelikle, yukarıda bahsettiğim bugünün kavramlarının (yani itibari para, klasik finans kurumları, fiziki varlıklar, sosyal medya ya da şirketler) ortadan kalkmayacağını belirtelim. Mevcut fiziki dünya oyuncuları aynı kalacak hatta belki bir miktar büyüyecekler bile ancak asıl büyüme (daha doğrusu patlama) yukarıdaki bahsettiğimiz yeni alanlardan gelecek. Nasıl 10 yıl önce dünyanın en değerli on şirketi içinde sadece bir tane teknoloji şirketi varken bugün listenin neredeyse tamamı teknoloji devleri ile dolduysa benzer bir değişimi de önümüzdeki on yılda yukarıdaki alanlarda göreceğiz.
 
-### Her şey güllük gülistanlık mı? {#her-sey-gulluk-gulistanlik-mi}
+### Dijital dünyada her şey güllük gülistanlık mı? {#her-sey-gulluk-gulistanlik-mi}
 
 Tabii ki hayır. Yukarıda bahsettiğimiz vizyonun önünde pek çok engel var. Bu engeller sonucu değiştirmeyecek belki ancak sürecin ne kadar uzayıp kısalacağı konusunda belirleyici olacak.
 
-Engellerin en büyükleri, fiziki dünyadaki devletlerin bu dünyaya geçişi ne şekilde denetleyecekleri olacak. Bakın, “bu dünyayı ne kadar denetleyecekler” demiyorum, açıkçası bu neredeyse imkânsız bir istek olur. Bahsettiğim, fiziki dünyadan bu dünyaya geçişi denetlemek, ki bu bile başlı başına altından kalkması zor bir görev olacak. Burada yönetimler ya bu alanda ülkelerinden çıkan girişimleri destekleyecekler ya da Çin benzeri yasakçı bir zihniyete bürünecekler. Dileriz tüm ülkeler ilk yolu seçerler. Böylece vatandaşlarını teknolojinin nimetlerden olabildiğince yararlandırıp yaratılan katma değerin olabildiğince ülkede kalmasını sağlayabilirler. Blokzincir alanında İsviçre, Singapur gibi “akıllı” olarak adlandırılabilecek ülkelerin ilk yolu seçmiş olmaları umut verici bir gelişme.
+Engellerin en büyükleri, fiziki dünyadaki devletlerin bu dünyaya geçişi ne şekilde denetleyecekleri olacak. Bakın, “bu dünyayı ne kadar denetleyecekler” demiyorum, açıkçası bu neredeyse imkânsız bir istek olur. Bahsettiğim, fiziki dünyadan bu dünyaya geçişi denetlemek, ki bu bile başlı başına altından kalkması zor bir görev olacak. Burada yönetimler ya bu alanda ülkelerinden çıkan girişimleri destekleyecekler ya da Çin benzeri yasakçı bir zihniyete bürünecekler. Dileriz tüm ülkeler ilk yolu seçerler. Böylece vatandaşlarını teknolojinin nimetlerinden olabildiğince yararlandırıp yaratılan katma değerin olabildiğince ülkede kalmasını sağlayabilirler. Blokzincir alanında İsviçre, Singapur gibi “akıllı” olarak adlandırılabilecek ülkelerin ilk yolu seçmiş olmaları umut verici bir gelişme.
 
 İkinci büyük engel ise fiziki dünyanın egemen güçlerinden Facebook ve Microsoft gibi merkezi yapıların bu dünyada da egemen olma çalışmaları. Biliyorsunuz Facebook’un Meta hamlesinin hemen arkasından Microsoft’un CEO’su da bu alanda yoğunlaşacaklarını açıkladı. Bu iki kurumun da özellikle metaverse konusunda Oculus ve Xbox gibi yazılım ve donanım alanına yaptıkları muazzam bir yatırım var. Bu yatırım sonucu elde ettikleri müthiş bilgi birikimi üzerine sahip oldukları maddi gücü eklediğinizde bu oyuncuların yarışta ne kadar avantajlı olduklarını görebilirsiniz. Peki ne sakıncası var bunun? Pek çok sakıncası var ama birkaçını hemen sıralayalım: Facebook’un Cambridge Analytica skandalını takip edenlerin hatırlayacağı gibi kullanıcı bilgilerinin manipülatif eylemlerde kullanılması bunlardan biri. Bir başkası, yine Facebook’un bir gecede kendi sistemi üzerine kurulu girişimlerin altındaki halıyı çekerek onları ortada bırakması. Bu tip oyuncuların maalesef sicilleri oldukça bozuk.
 

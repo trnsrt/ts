@@ -7,10 +7,10 @@ chapter: 1
 chapter_title: "Nedir DeFi?"
 order: 106
 permalink: /Sorularla_DeFi/bolum-1/defide-yatirim-ve-girisimcilik/
-description: "DeFi protokollerinin kullanımın artması ve özellikle bu protokollere özgü kriptoparalarının hızlı sıçramalar yapması, akıllarda soru işaretleri oluşturmaya…"
+description: "DeFi protokollerinin kullanımının artması ve özellikle bu protokollere özgü kriptoparalarının hızlı sıçramalar yapması, akıllarda soru işaretleri oluşturmaya…"
 ---
 
-DeFi protokollerinin kullanımın artması ve özellikle bu protokollere özgü kriptoparalarının hızlı sıçramalar yapması, akıllarda soru işaretleri oluşturmaya başladı: DeFi yeni bir ICO çılgınlığı mı ve sonu nasıl bitecek?
+DeFi protokollerinin kullanımının artması ve özellikle bu protokollere özgü kriptoparalarının hızlı sıçramalar yapması, akıllarda soru işaretleri oluşturmaya başladı: DeFi yeni bir ICO çılgınlığı mı ve sonu nasıl bitecek?
 
 Bu soruya kesin cevap veremesek de geçmişten ve finans alanındaki benzer oluşumlardan hareket edip belli sonuçlara varmak mümkün. Şimdi isterseniz önce klasik anlamda girişimcilik ile ICO ve DeFi’nin farklarına bakıp, sonra DeFi’deki girişimciliğe detaylıca girelim:
 
@@ -20,7 +20,7 @@ Klasik anlamda bir girişime bakalım: Bir iki kafadar bir araya gelip ortaya bi
 
 Engellerin büyük kısmını aşan, ürün-pazar uyumunu yakalayabilen ve kendine belli sayıda müşteri edinebilen girişimler ise bir sonraki aşamaya geçer. Bu aşama da girişim sermayesi (VC) finansmanı olur genellikle. Seri A olarak başlayıp B,C şeklinde devam eden bu yatırımlarda girişim, aldığı para ile halihazırda yaratmış olduğu ürünü pazarda hızlı büyümenin yolunu arar (buna ‘growth hack’ de denir; yani çok da alışılmadık yöntemler ile hızlı büyüme).
 
-## ICO'lar {#icolar}
+## ICO’lar {#icolar}
 
 Kripto alanındaki yatırımlar için ICO’larda yaşanan bir nevi melek yatırımcı bulma aşamasıydı. Pek çoğunun parlak fikirleri dışında ellerinde olan tek şey, sistemlerinin nasıl çalışacağını ve sahip oldukları vizyonu anlatan tanıtım dokümanı (white paper) idi.
 
@@ -32,19 +32,19 @@ Aradaki fark şu oldu: Klasik anlamda girişimciler fikirlerini çevrelerinde bu
 
 ## Peki ya DeFi? {#peki-ya-defi}
 
-Şimdiki DeFi ile yaşadığımız sürece kabaca yatırımın ikinci fazı ve klasik anlamdaki girişim sermayesi yatırımlarına benziyor. İlk kısımdaki yüksek risk alanını geçen belli bir ürüne ve kullanıcıya ulaşmış girişimler DeFi ürünler ve platformlar. Özellikle, Compound benzeri yapıların merkeziyetsiz olmak ve geniş kitlelerce kullanılmak için yarattıkları likidite havuzu ve bunu ödüllendiren tokenları aynı girişimcilerin hızlı büyümek için girişim sermayelerinden aldıkları yatırımlara benziyor.
+Şimdiki DeFi ile yaşadığımız sürece kabaca yatırımın ikinci fazı ve klasik anlamdaki girişim sermayesi yatırımlarına benziyor. İlk kısımdaki yüksek risk alanını geçen belli bir ürüne ve kullanıcıya ulaşmış girişimler DeFi ürünler ve platformlar. Özellikle, Compound benzeri yapıların merkeziyetsiz olmak ve geniş kitlelerce kullanılmak için yarattıkları likidite havuzu ve bunu ödüllendiren tokenleri aynı girişimcilerin hızlı büyümek için girişim sermayelerinden aldıkları yatırımlara benziyor.
 
 DeFi protokollerinin finansman toplama hızları baş döndürücü. Bir bakıyorsunuz, birkaç gün önce ortada bile olmayan bir DeFi ürünü, bir anda bir milyar dolara yakın para toplamış. Nasıl oluyor bu?
 
-Bunun birkaç nedeni var. Birincisi, bu tip ürünlerde verilen ödüller genelde günlük/haftalık/aylık olarak sabit miktarlarda veriliyor. Dağıtılacak toplam ödül sistem içindekilere ellerinde tuttukları miktar kadar ödeniyor. O nedenle sisteme erken girmek size büyük kazançlar getirebiliyor; zira başlangıçta ödül az katılımcı arasında paylaşılıyor. Bu nedenle sadece bu tip erken açıklanan sistemleri kollayan bir grup yatırımcı var. Bunlar elbette çok daha fazla risk alıyor, ancak özellikle 2021 yılının ilk aylarında yaşadığımız gibi bir boğa piyasası varsa, bir kaç projede kaybetse bile (ki kaybeden az) o kaybı başka bir projedeki kazançtan çıkarabiliyor. Bu tip yüksek risk alanlar, ne proje denetlenmiş ne olgunmuş, bunların hiçbirine bakmadan yeni projelere balıklama atlıyor.
+Bunun birkaç nedeni var. Birincisi, bu tip ürünlerde verilen ödüller genelde günlük/haftalık/aylık olarak sabit miktarlarda veriliyor. Dağıtılacak toplam ödül sistem içindekilere ellerinde tuttukları miktar kadar ödeniyor. O nedenle sisteme erken girmek size büyük kazançlar getirebiliyor; zira başlangıçta ödül az katılımcı arasında paylaşılıyor. Bu nedenle sadece bu tip erken açıklanan sistemleri kollayan bir grup yatırımcı var. Bunlar elbette çok daha fazla risk alıyor, ancak özellikle 2021 yılının ilk aylarında yaşadığımız gibi bir boğa piyasası varsa, birkaç projede kaybetse bile (ki kaybeden az) o kaybı başka bir projedeki kazançtan çıkarabiliyor. Bu tip yüksek risk alanlar, ne proje denetlenmiş ne olgunmuş, bunların hiçbirine bakmadan yeni projelere balıklama atlıyor.
 
 Bu arada treni kaçırdık diye üzülüyorsanız boşverin. Bu tip ani hareketler, konan yüz milyonlarca dolarlar, binlerce yatırımcıdan gelmiyor. Bunlar ağırlıklı olarak balina dediğimiz ellerinde çok yüksek miktarda kriptopara tutan yatırımcılar. Yeni başlayan sistemlere girip, ödülleri baştan toplayıp sonra sistemlerin bilinirliği artmasına paralel token fiyatlarının anormal yükselmesi sonucu küçük yatırımcılar gelmeye başlayınca da ellerindekini satıp başka benzer fırsatlara yelken açan spekülatörler.
 
-## Eskiden VC’ler vardı şimdi DeFi'de önemli olan “adil başlangıç” {#eskiden-vcler-vardi-simdi-defide-onemli-olan-adil-baslangic}
+## Eskiden VC’ler vardı şimdi DeFi’de önemli olan “adil başlangıç” {#eskiden-vcler-vardi-simdi-defide-onemli-olan-adil-baslangic}
 
 Bir başka konu da şu: Klasik girişimcilikte aslında her girişimin başında o girişime para yatıranlar, eğer girişim başarılı olursa ciddi paralar kazanır. Biz faniler ise bu girişimler belli büyüklüğe gelip riskleri nispeten azaldıktan (ya da bize o şekilde yutturulduktan) sonra yüksek değerlerden gireriz, kazancımız da benzer şekilde az olur.
 
-Şimdi DeFi sistemindeki yeni girişimler, klasik anlamda girişim sermayelerinin verdikleri paraları kendi kullanıcılarının sistemlerini kullanmaları karşılığı topluyor. Bu sayede bireysel yatırımcılar da bu girişimlere erken girip yüksek kazanç sağlama imkânınına kavuşuyorlar. Tabii ki girişim sermayelerinin de hep yaşadığı (ama hiç reklamını yapmadığı) on girişimin dokuzunun batması gibi bir riski göze alarak.
+Şimdi DeFi sistemindeki yeni girişimler, klasik anlamda girişim sermayelerinin verdikleri paraları kendi kullanıcılarının sistemlerini kullanmaları karşılığı topluyor. Bu sayede bireysel yatırımcılar da bu girişimlere erken girip yüksek kazanç sağlama imkânına kavuşuyorlar. Tabii ki girişim sermayelerinin de hep yaşadığı (ama hiç reklamını yapmadığı) on girişimin dokuzunun batması gibi bir riski göze alarak.
 
 Klasik girişimlerin yanında DeFi alanındaki yeni projelerin önemli özelliklerinden biri de geliştirici ekibin başlangıçta kendisine ayırdığı pay. Ancak bunu bile çok gören kimi yatırımcılar “adil başlangıç” adı altında kurucu ekibe hiçbir pay ayırmayan projelere daha ilgi gösteriyorlar. Gerçi şunu da unutmamak lazım; adil başlangıç yapan projeler genelde üzerinde uzun süre çalışılmış başka projelerin klonu oluyor. Nedeni de çok basit. Geliştirici olarak başka bir ekibin yarattığını kopyaladığınızda çok bir emek harcamamış oluyorsunuz. Böyle olunca da projenizin cazibesini artırmak için tokeninizi kendinize herhangi bir pay ayırmadan piyasaya sürebiliyorsunuz.
 

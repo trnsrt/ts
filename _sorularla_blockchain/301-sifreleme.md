@@ -31,7 +31,7 @@ Para ilk zamanlarda fiziki olarak önce madeni para ve kâğıt halinde bulunurk
 
 Ancak, paranın alışverişe layık olabilme niteliğini koruyabilmesi için hep bir merkezi otoriteye (merkez bankaları ya da bankalar) ihtiyaç duyuldu. İnsanların güven duyacağı birilerinin kontrol etmesi lazım parayı diye düşünüldü içgüdüsel olarak — normal. Öbür türlü dijital bir nesneyi sonsuz olarak üretebilirsiniz, gerçekten size mi ait nereden bileceksiniz, yabancıların sözlerine nasıl güveneceksiniz? Ya bir kişi birden fazla kopyalama yapar, sahip olduğu parayı hem size hem başkasına gönderirse? O nedenle, bankalar ve merkezi otoriteler vardı ki bu sorunlara karşı güvence altına alsın.
 
-İşte tam bu sırada 90’ların sonunda Satoshi Nakamoto dediğimiz kişi(ler) para transferi teknolojisini şifreleme ile birleştirdi ve tek bir otoriteye bağlı kalmaksızın, o otoritenin sağladığı güvenin yerini makinelerin aldığı bir yapı oluşturarak adeta bir devrim yarattı. Bu devrim ile işlemlerin arasında yer alan güven abidesi banka gibi kurumlara olan ihtiyaç neredeyse sıfıra indi — çünkü artık her makine kendi başına bir banka!
+İşte tam bu sırada 2008’de Satoshi Nakamoto dediğimiz kişi(ler) para transferi teknolojisini şifreleme ile birleştirdi ve tek bir otoriteye bağlı kalmaksızın, o otoritenin sağladığı güvenin yerini makinelerin aldığı bir yapı oluşturarak adeta bir devrim yarattı. Bu devrim ile işlemlerin arasında yer alan güven abidesi banka gibi kurumlara olan ihtiyaç neredeyse sıfıra indi — çünkü artık her makine kendi başına bir banka!
 
 Nasıl olur da makineler koskoca bankanın yerini alır derseniz şöyle: Banka kişilere ait banka hesaplarını ve yapılan işlemleri tutarak bir kişinin kendine ait bir varlığı birden fazla kişiye göndermesine engel oluyor. Bunu yaparken doğru ve güvenilir davrandığına emin olmamız için gerek iç organizasyon yapısı gerekse dışarıdan merkezi otorite tarafından dayatılan kontrol ve cezalarına tabii. Blockchain (örneğin Bitcoin sistemi) ise bir kişinin elindeki parayı iki kere harcamasını bütün hesapları ve bütün işlemleri halka açık olarak yaparak önlüyor. İşlemler ve bakiyeler halka açık ama isminiz gibi özel detaylarınız gizli. Dolayısıyla, bir kişiden diğerine Bitcoin gönderildiğinde herkes gönderenin bakiyesinden o paranın düştüğünü alıcının bakiyesinin de o para kadar arttığını görüyor. Yani bankacılık sisteminde ben bankanın yanlış yapmayacağına emin olmak için kendi iç kontrolleri ya da denetleyici kurumlara güvenmek durumunda iken, Blockchain’de her şey açık olduğu için “gözlerime” güvenmem yeterli.
 
@@ -45,7 +45,7 @@ Yukarıda bahsettiğimiz hem tüm hesap bakiyeleri ve transferler açık olacak 
 
 Şifreleme teknik ve karmaşık görünse de onu daha iyi anlamak bize günlük hayatımızda Blockchain teknolojisini nasıl daha verimli olarak kullanırız konusunda farklı ipuçları verebilir. Eğer genel yapı olarak ne olduğunu anladıysak, biraz daha teknik olarak nedir şifreleme ona da şimdi bakalım…
 
-## Şifreleme ve öğütme  ne kadar önemli? {#sifreleme-ve-ogutme-ne-kadar-onemli}
+## Şifreleme ve öğütme ne kadar önemli? {#sifreleme-ve-ogutme-ne-kadar-onemli}
 
 Dijital dünyada bir varlığı bir kişiden diğerine transfer ederken iki önemli konu var dikkat etmemiz gereken:
 
@@ -78,7 +78,7 @@ Ta tam! Bambaşka bir dizi ama yine 64 karakterli. Buraya isterseniz girdi olara
 
 <figure><a href="/assets/books/sorularla-blockchain/301-4.png"><img src="/assets/books/sorularla-blockchain/301-4.png" alt="" width="749" height="102" loading="lazy"></a></figure>
 
-Yukarıdaki “Merhaba” da çıkan sonuç ile karşılaştırın bakalım. Tamamıyla değişti!. Bir harf ekledik ama ilk kelimeden tamamen farklı bir sonuç çıktı ortaya. Ama dikkat edin 64 karakterli yine.
+Yukarıdaki “Merhaba” da çıkan sonuç ile karşılaştırın bakalım. Tamamıyla değişti! Bir harf ekledik ama ilk kelimeden tamamen farklı bir sonuç çıktı ortaya. Ama dikkat edin 64 karakterli yine.
 
 * * *
 
@@ -129,16 +129,8 @@ Yukarıda bahsettiğimiz gibi Özel Anahtar ve Genel Anahtarı farklı ama birbi
 Para ya da başka dijital varlığın Blockchain ile aktarılmasında da işte yukarıdaki sistem kullanılıyor.
 
 - Özel Anahtar ile bana ait olan bir varlığı bir başkasına gönderiyorum, paranın benim bakiyemde olduğu ve bu gönderdiğim paranın miktarını herkes görüyor (Ki kanıtlama işlemine Dijital — ya da Sayısal- İmza deniyor).
-- Ama aynı zamanda gönderdiğim kişinin Genel Anahtar’ını da ekliyorum ki, hem diğer insanlar o kişinin Genel Anahtarını kullanarak parayı gerçekten ona gönderdiğimi görebilisinler, hem de o kişi sonra bu anahtara uyumlu kendi Özel Anahtarı’ını kullanarak bu parayı sahiplenebilsin ve başkalarına gönderebilirsin.
+- Ama aynı zamanda gönderdiğim kişinin Genel Anahtar’ını da ekliyorum ki, hem diğer insanlar o kişinin Genel Anahtarını kullanarak parayı gerçekten ona gönderdiğimi görebilsinler, hem de o kişi sonra bu anahtara uyumlu kendi Özel Anahtarı’nı kullanarak bu parayı sahiplenebilsin ve başkalarına gönderebilsin.
 - Öğütme sayesinde ise bu bakiyenin bana ait olduğunu gizleyebiliyorum.
-
-Para ya da başka dijital varlığın Blockchain ile aktarılmasında da işte yukarıdaki sistem kullanılıyor.
-
-\- Özel Anahtar ile bana ait olan bir varlığı bir başkasına gönderiyorum, paranın benim bakiyemde olduğu ve bu gönderdiğim paranın miktarını herkes görüyor. (ki kanıtlama işlemine Dijital (ya da Sayısal) İmza deniyor).
-
-• Ama aynı zamanda gönderdiğim kişinin Genel Anahtar’ını da ekliyorum ki, hem diğer insanlar o kişinin Genel Anahtarını kullanarak parayı gerçekten ona gönderdiğimi görebilisinler, hem de o kişi sonra bu anahtara uyumlu kendi Özel Anahtarı’ını kullanarak bu parayı sahiplenebilsin ve başkalarına gönderebilirsin.
-
-• Öğütme sayesinde ise bu bakiyenin bana ait olduğunu gizleyebiliyorum.
 
 ## Peki Blockchain şifrelemesi nasıl çalışıyor? {#peki-blockchain-sifrelemesi-nasil-calisiyor}
 
@@ -175,7 +167,7 @@ Girdinin (input) iki parçası var
 
 Çıktı (Output) ise yukarıdaki gibi 64 karakterli bir şifre.
 
-Sistem söyle çalışıyor.
+Sistem şöyle çalışıyor.
 
 1. Her 10 dakikada bir Bitcoin ile yapılan bütün işlemler bir araya toplanıyor ve makinelere gönderiliyor
 
@@ -196,7 +188,7 @@ bu sefer “58ed8d94…” diye başlayan bir sayı verdi… Yine olmadı… Bö
 
 1. “00000…” ile başlayan sonucu ilk bulan makine “Buldum!” diyerek bu sonuca ulaştıran sayıyı (“25264”) diğer makinelere haber veriyor.
 2. Sonucu gören makineler, işlem dökümünü 25264 sayısı ile birlikte şifreye sokuyorlar, bakıyorlar hakikaten çıkan sonuç “00000…” ile başlıyor, “Tamam” diyorlar, “Sonuç doğru” ve bir sonraki 10 dakika için yapılan işlemlere geçiyorlar.
-3. “25264” rakamını bulan makine işte bu ödülü (şu anda 12,5 Bitcoin yani 100.000 ABD Doları civari bir rakam) kazanıyor!
+3. “25264” rakamını bulan makine işte bu ödülü (şu anda 12,5 Bitcoin yani 100.000 ABD Doları civarı bir rakam) kazanıyor!
 
 İşte bu kadar. Yukarıda anlatılanları görsel olarak izlemek isterseniz, aşağıdaki İngilizce videoyu hararetle tavsiye ederim. Aklınıza yatmayan her konu basit bir şekilde özetlenmiş.
 
@@ -207,7 +199,7 @@ bu sefer “58ed8d94…” diye başlayan bir sayı verdi… Yine olmadı… Bö
 
 Yukarıdaki süreç her 10 dakikada bir tekrar ediyor ve her 10 dakikada bir 12,5 Bitcoin yaratılarak, sonucu bulan makineye veriliyor yani sisteme sokuluyor (buna İngilizce “mining” deniyor). İşte yukarıda bahsettiğimiz birbirimize transfer edilen Bitcoin’ler bu şekilde yaratılıyor. Şu ana kadar (Nisan 2017 itibariyle) 17 Milyon Bitcoin yaratıldı. Önümüzdeki 100 yıl boyunca yaklaşık 4 Milyon Bitcoin daha girecek sisteme ve orada 21 Milyonda duracak piyasadaki miktar.
 
-Nasıl oldu da 9 yılda 17 Milyon yaratılırken bundan sonraki 100 yılda 4 Milyona düşecek derseniz, Bitcoin yaratıcıları para enflasyona yenik düşmesin diye her dört yılda bir verilen ödülü yarıya düşürüyorlar. İlk dört yıl 10 dakikada bir 50 Bitcoin verilirken, sonra bu 25’e düştü, şu an 12,5’da, 2021’de 6,25’e inecek.
+Nasıl oldu da 9 yılda 17 Milyon yaratılırken bundan sonraki 100 yılda 4 Milyona düşecek derseniz, Bitcoin yaratıcıları para enflasyona yenik düşmesin diye her dört yılda bir verilen ödülü yarıya düşürüyorlar. İlk dört yıl 10 dakikada bir 50 Bitcoin verilirken, sonra bu 25’e düştü, şu an 12,5’da, 2020’de 6,25’e inecek.
 
 Peki bu madenciler bu ödül ile yaşıyorlar, ödül miktarı düşerse madencilik yapmayı bırakmazlar mı diye akla bir soru gelebilir. Olabilir tabii ama bu yeni para yaratımı ile ilgili bir konu. Madenciler bir de aynı zamanda, yapılan transferler üzerinden bir komisyon almaya devam ediyorlar. Eğer Bitcoin kişiler arası para transferinde sık kullanılmaya devam ederse ya da değeri şimdiki gibi yüksek olursa bir sorun olmaz. Çok düşerse o zaman bir kısım madenci sahneden çekilir, kalanlara pastadan daha büyük bir dilim düşer ve onlar çalışmaya devam ederler.
 

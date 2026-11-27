@@ -107,7 +107,7 @@ Efendim, konuyu özetlersek:
 - Tarihte alışveriş ve değer korunumu için önce altın, sonrasında ise Merkez Bankalarının bastıkları banknotlar kullanılmış
 - Bitcoin’i altın ve banknotlar ile karşılaştırdığımızda, dezavantajları olsa da genel olarak kullanışlılık açısından bu iki araçtan bir adım önde görünüyor
 
-kripto paralar üzerine bir hayli vakit harcadık. Bundan sonra, Blockchain teknolojisinin bizi ya da kurumları nasıl etkileyeceğine diğer dijital varlıklara bakarak karar vermeye çalışacağız.
+Kripto paralar üzerine bir hayli vakit harcadık. Bundan sonra, Blockchain teknolojisinin bizi ya da kurumları nasıl etkileyeceğine diğer dijital varlıklara bakarak karar vermeye çalışacağız.
 
 — -
 
