@@ -17,14 +17,14 @@ En basit anlatımı ile opsiyon, herhangi bir varlığı gelecekte istediğiniz 
 #### Alım opsiyonu
 Varsayalım bir varlığa sahip olmak istiyorsunuz, ancak bugün için alma imkanınız yok. Birkaç hafta sonra olacak, ama o zaman çok geç olabilir, varlık sizin alabileceğinizin çok üstünde bir değere çıkabilir. 
 
-Ne yapacaksınız bu durumda, fırsat kaçacak mı? Hayır. Şimdi almak yerine, ileride belirli bir fiyattan o varlığı satın alma hakkına sahip olabilirsiniz. Yani bu varlık için bir **'alım opsiyonu' (ingilizcesi 'call option')** kullanabilirsiniz. 
+Ne yapacaksınız bu durumda, fırsat kaçacak mı? Hayır. Şimdi almak yerine, ileride belirli bir fiyattan o varlığı satın alma hakkına sahip olabilirsiniz. Yani bu varlık için bir **'alım opsiyonu' (İngilizcesi 'call option')** kullanabilirsiniz. 
 
 Bu size ne verir? İleride olası bir hızlı yükselişte kârı kaçırmama fırsatı. Bilirsiniz ki, varlığın değeri yükselse bile siz onu belli bir fiyattan alabileceksiniz. Yok, o gün geldi ve varlığın değeri uçup gitmedi, tam tersine düştü, o zaman ödediniz prim dışında bir kaybınız yok. Alım opsiyonunu kullanmazsınız, olur biter.
 
 #### Satım opsiyonu 
 Bunun tam tersi de mümkün. Varsayalım, elinizde tuttuğunuz herhangi bir varlığın değerinin gelecekte nasıl bir seyir izleyeceğini kestiremiyorsunuz. 
 
-Bu durumda o varlığı gelecekte belli bir fiyattan satma hakkını almak isterseniz, o varlık için  **'satım opsiyonu' (ingilizcesi 'put option')** kullanabilirsiniz. 
+Bu durumda o varlığı gelecekte belli bir fiyattan satma hakkını almak isterseniz, o varlık için  **'satım opsiyonu' (İngilizcesi 'put option')** kullanabilirsiniz. 
 
 Bu size ne verir? En azından kafa rahatlığı. Bilirsiniz ki, gelecekte o varlığın fiyatı korkunç bir şekilde düşerse bile, siz baştan belirlenmiş bir fiyattan varlığı satıp zarar etmekten kurtulabilirsiniz. Eğer korktuğunuz gerçekleşmez ve varlığın değeri tam tersine yükselirse, o zaman da opsiyon maliyeti dışında hiç bir zararınız olmaz. Satma hakkını kullanmaz ve varlığı değerlenmiş haliyle elinizde tutmaya devam edersiniz (ya da satıp kârı realize edersiniz).
 

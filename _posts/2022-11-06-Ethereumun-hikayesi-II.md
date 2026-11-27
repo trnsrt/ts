@@ -39,7 +39,7 @@ Bu, Ethereum geliştiricilerinin yaşadığı ilk ölçeklenme problemi idi ve b
 
 İşte bu deneyler içinde ilk başarıya ulaşan DeFİ olarak da adlandırılan merkeziyetsiz finans uygulamaları oldu. Blokzincir teknolojisinin finans alanındaki uygulamaları olarak adlandırabileceğimiz DeFi ağırlıklı olarak Ethereum üzerine kurulmuştu. 
 
-2020 yılının Nisan ayından itibaren kripto dünyasına girmeye başlayan kurumsal yatırımcılar sayesinde sisteme gelen likidite DeFi dünyasının kanatlanabilmesi için gerekli olan rüzgar oldu. Nitekim o yılın yaz ayları ile birlikte DeFi Yazı (DeFi summer) olarak bilinen döneme girdik. Bu alanın en önemli metriği olan sisteme kilitli para (ingilizcesi ile Total Value Locked) rakamının bir milyar ABD Dolarından 100 milyara geldiğini gördük. 
+2020 yılının Nisan ayından itibaren kripto dünyasına girmeye başlayan kurumsal yatırımcılar sayesinde sisteme gelen likidite DeFi dünyasının kanatlanabilmesi için gerekli olan rüzgar oldu. Nitekim o yılın yaz ayları ile birlikte DeFi Yazı (DeFi summer) olarak bilinen döneme girdik. Bu alanın en önemli metriği olan sisteme kilitli para (İngilizcesi ile Total Value Locked) rakamının bir milyar ABD Dolarından 100 milyara geldiğini gördük. 
 
 #### NFT rüzgarı
 

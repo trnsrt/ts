@@ -26,7 +26,7 @@ En büyük proje olan Bitcoin bu konuyu kendine çok dert edinmese de, Bitcoin �
 
 Ethereum’u yakalama hevesindeki ağlar içinde başı Solana çekiyor[^5]. Solana ölçeklenme sorununu çoktan çözmüş durumda. Solana’ya getirilen en büyük eleştiri yeterince merkeziyetsiz olmaması.
 
-**Daha güvenli altyapılar:** Altyapılar son yıllarda güvenlik konusunda oldukça aşama kaydettiler. Son dönemde ön plana çıkan sıfır bilgi kanıtı teknolojisine dayalı ürünler giderek adlarından daha çok söz ettirecekler. Sıfır bilgi kanıtı (ingilizcesi zk - zero-knowledge proof) güvenlik, mahremiyet ve ölçeklenme konusunda altyapılara ve uygulamalara çağ atlatacak bir kriptografik gelişme[^6].
+**Daha güvenli altyapılar:** Altyapılar son yıllarda güvenlik konusunda oldukça aşama kaydettiler. Son dönemde ön plana çıkan sıfır bilgi kanıtı teknolojisine dayalı ürünler giderek adlarından daha çok söz ettirecekler. Sıfır bilgi kanıtı (İngilizcesi zk - zero-knowledge proof) güvenlik, mahremiyet ve ölçeklenme konusunda altyapılara ve uygulamalara çağ atlatacak bir kriptografik gelişme[^6].
 
 Zk teknolojisini kullanan ikinci seviye ağlar (ki bunlara zk-rollups deniyor), çok daha ölçeklenebilir olacaklar. Bu teknoloji, daha önce fazla kaynak ihtiyacı nedeniyle uygulanabilir görünmüyordu. Son zamanlarda yaşanan gelişmeler ile bu sorun da ortadan kalktı ve zk teknolojisi giderek daha fazla kullanılmaya başladı.
 

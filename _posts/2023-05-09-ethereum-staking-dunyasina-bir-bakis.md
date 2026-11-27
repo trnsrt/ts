@@ -12,7 +12,7 @@ Bu yazımızda Ethereum ekosisteminde gittikçe önem kazanan Liquid Staking Der
 Geçtiğimiz [yazımızda](/genel/2023/04/18/ethereumun-dopingi-lsdler.html) Ethereum'un Shapella güncellemesi sonrası çekimlere izin vermesinin ekosisteme etkilerini incelerken, bu alanda en büyük değişimin kısaca LSD olarak adlandırılan Liquid Staking Derivatives cephesinden geleceğini belirtmiştik. Bu yazımızda, staking alanındaki en büyük alan olan LSD pazarının büyük oyuncuları yanında diğer alanlardan rakiplerine değineceğiz. 
 
 ### Nedir bu LSD tokenler?
-LSD (Liquid Staking Derivatives), sisteme kilitli ETH'leri likit hale getiren türev tokenlere verilen genel isim. Kısaca hatırlayacak olursak Ethereum Aralık 2020'de Ethereum'un yüksek enerji sarfeden hisse kanıtı (ingilizcesi Proof-of-Work kısaca PoW) sisteminden kapital yoğun hisse (rehin) kanıtı (ingilizcesi Proof-of-Stake kısaca PoS) sistemine geçmişti. Bu sistemin işlemesi için gerekli olan işleri ise onaylayıcı dediğimiz oyuncular yapıyor. Onaylayıcılar bu işi layıkıyla yaptıklarını kanıtlamak için sisteme en az 32 ETH kilitliyorlar (ya da rehin ediyorlar, ingilizcede 'Stake' olarak geçiyor) ve yaptıkları bu iş karşılığı ödül kazanıyorlar. 
+LSD (Liquid Staking Derivatives), sisteme kilitli ETH'leri likit hale getiren türev tokenlere verilen genel isim. Kısaca hatırlayacak olursak Ethereum Aralık 2020'de Ethereum'un yüksek enerji sarfeden hisse kanıtı (İngilizcesi Proof-of-Work kısaca PoW) sisteminden kapital yoğun hisse (rehin) kanıtı (İngilizcesi Proof-of-Stake kısaca PoS) sistemine geçmişti. Bu sistemin işlemesi için gerekli olan işleri ise onaylayıcı dediğimiz oyuncular yapıyor. Onaylayıcılar bu işi layıkıyla yaptıklarını kanıtlamak için sisteme en az 32 ETH kilitliyorlar (ya da rehin ediyorlar, İngilizcede 'Stake' olarak geçiyor) ve yaptıkları bu iş karşılığı ödül kazanıyorlar. 
 
 İşte bu geçiş sorası ortaya çıkan LSD'ler sayesinde kullanıcılar, hem sisteme minimum 32 ETH yerine daha az miktarda kilitleme yaparak sistemin verdiği ödülden yararlanabiliyor hem de LSD tokenleri bir varlık olarak kullanarak DeFi'de ekstra gelir kazanma fırsatı elde ediyorlar. O günden bu yana çeşitli badireler atlatsalar da, hızlı bir şekilde büyüyen LSD'lerin, özellikle Nisan ayında gerçekleşen Shapella güncellemesi ile birlikte seviye atlamaları bekleniyor. Bunun en temel nedeni de artan likidite. 
 
@@ -29,7 +29,7 @@ ETH staking pazarının yaklaşık %36'sını elinde totan LSD tokenlerin birka�
 | *Kaynak: [Dune Analytics](https://dune.com/hildobby/eth2-staking)*|
 
 ### Lido
-LSD piyasasının açık ara en büyüğü Lido. Bir DAO olarak işleyen Lido, Aralık 2020'de daha piyasa yeni açıldığında aktif oldu. Bu da onlara ilk olma avantajı (ingilizcede 'first-mover-advantage') getirdi. O sırada aktif olan pek çok oyuncu arasından hızla sıyrıldı Lido. Bunun iki temel nedeni var.
+LSD piyasasının açık ara en büyüğü Lido. Bir DAO olarak işleyen Lido, Aralık 2020'de daha piyasa yeni açıldığında aktif oldu. Bu da onlara ilk olma avantajı (İngilizcede 'first-mover-advantage') getirdi. O sırada aktif olan pek çok oyuncu arasından hızla sıyrıldı Lido. Bunun iki temel nedeni var.
 
 #### Curve'de havuzlar
 Birincisi, likidite. Bu, geniş kitlelerce benimsenmek için olmazsa olmaz bir koşul. Lido bunun önemini erken anlamış durumda. DeFi'nin en önemli likidite sağlayıcı platformlardan biri olan Curve üzerinde açtıkları stETH/ETH havuzu sayesinde stETH son derece popüler oldu. Neden? Havuzu kullananlara verdikleri LDO (kendi yönetim tokeni) teşvikleri sayesinde.
@@ -55,7 +55,7 @@ Aslına bakarsanız, 3AC krizinin Lido ile bir ilişkisi yok. O nedenle, bir sü
 #### Nasıl çalışıyor Lido?
 Lido'nun çalışma prensibi olarak bir 'aracı' olduğunu hemen belirtelim. Kullanıcılar, Lido'nun akıllı kontratları aracılığıyla ETH'lerini bu alanda hizmet veren 30 adet operatör üzerinden ETH sistemine yatırıyorlar. (Belirli kıstaslar uygulanarak Lido tarafından seçilen bu operatörlerin her birine stake etmeleri için verilen ETH miktarı [neredeyse eşit miktarda](https://web.archive.org/web/20230426204000/https://www.rated.network/o/Lido?network=mainnet&timeWindow=1d&viewBy=operator&page=1)). 
 
-Rehin ettikleri ETH, staking geliri kazandıkça kullanıcıların da ellerindeki stETH miktarı artıyor. Bu durum, yani elde tutulan stETH miktarının sürekli değişiyor olması (ingilizcede rebasing olarak geçiyor), kimi DeFi protokolleri için sorun teşkil etmezken (Curve, Yearn gibi) kimileri için (Uniswap, 1Inch gibi) problemli bir durum. Bu nedenle, wstETH denen, adedi sabit ama değeri kazandığı staking geliri ile birlikte artan 'dürüm' token da kullanıcıların hizmetine [sunulmuş durumda](https://help.lido.fi/en/articles/5231836-what-is-wrapped-steth-wsteth).  
+Rehin ettikleri ETH, staking geliri kazandıkça kullanıcıların da ellerindeki stETH miktarı artıyor. Bu durum, yani elde tutulan stETH miktarının sürekli değişiyor olması (İngilizcede rebasing olarak geçiyor), kimi DeFi protokolleri için sorun teşkil etmezken (Curve, Yearn gibi) kimileri için (Uniswap, 1Inch gibi) problemli bir durum. Bu nedenle, wstETH denen, adedi sabit ama değeri kazandığı staking geliri ile birlikte artan 'dürüm' token da kullanıcıların hizmetine [sunulmuş durumda](https://help.lido.fi/en/articles/5231836-what-is-wrapped-steth-wsteth).  
 
 Bundan sonrasında Mayıs ayı içinde Lido, kullanıcıların stETH'lerini direkt olarak ETH'ye çevirmelerine olanak sağlayacak mekanizmayı kullanıcılara sunacak. Bu durum ETH çekişlerini hızlandırır mı? Muhtemelen hayır. Zaten şu anda oran 1:1'e gelmiş durumda, yani isteyen serbest piyasada stETH'sini ETH'ye fazla bir kayıp yaşamadan çevirebiliyor.
 
@@ -72,7 +72,7 @@ Tamamen merkeziyetsiz bir DAO tarafından yürütülen Rocketpool, belki de bu n
 ### Diğer rakipler: CEX staking hizmetleri
 Lido pazarın büyük hakimi olsa da, rakiplerin de eli armut toplamıyor. Her bir rakip kendini Lido'ya göre farklılaştırarak pazardan pay kapmaya çalışıyor. Yukarıda genel olarak Lido'nun nasıl çalıştığını anlattık. Rakiplerin de Lido'dan nasıl farklılaştıklarını kısa kısa özetlemeye çalışalım. 
 
-Merkezi borsalar (ingilizcesi Centralized Exchange ya da kısaca 'CEX') biraz geç de olsa staking hizmetine girdiler ve hızla büyümeye çalışıyorlar. CEX'lerin staking hizmetleri içindeki pazar payı dağılımı ise şu şekilde:
+Merkezi borsalar (İngilizcesi Centralized Exchange ya da kısaca 'CEX') biraz geç de olsa staking hizmetine girdiler ve hızla büyümeye çalışıyorlar. CEX'lerin staking hizmetleri içindeki pazar payı dağılımı ise şu şekilde:
 
 | ![CEX staking pazar payları pasta grafiği; Coinbase yüzde 52,5, Binance yüzde 22,7 ile önde](/assets/CEX-staking-pazar-paylari.png)|
 |:--:| 

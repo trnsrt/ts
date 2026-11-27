@@ -28,7 +28,7 @@ Kullanıcıların işlem yapmak için kullandıkları uygulamaları Ethereum üz
 
 Kullanıcılar dışında ikinci önemli aktör, Ethereum üzerine kurulu ikinci seviye çözümler. İkinci seviye çözümleri, yukarıda bahsettiğimiz ‘birleşik devlet’ içinde bulunan eyaletlere benzetebiliriz. Bu çözümlerin her biri kendi içlerinde otonom birer blokzincir aslında. Bu blokzincirler, güvenliğinden faydalandıkları Ethereum ağına aynı kullanıcılar gibi işlem ücreti (yani alan kirası) ödüyorlar.
 
-Peki bu ödenen ücretler nereye gidiyor? Temel olarak bu ücretler işlemlerin gerçekleşmesine aracılık eden ve sistemin güvenliğini sağlayanlara ödeniyor. Bitcoin sisteminde ve yakın zamana kadar Ethereum’da bu işi madenciler gerçekleştiriyordu. Ethereum, 15 Eylül 2022’de sistemini değiştirerek madencileri devreden çıkardı. Yerine bu işi ellerindeki ETH’yi (Ethereum zincirinin parası) sisteme rehin eden kişilere yaptırıyor (bu kişilere kısaca onaylayıcı -ingilizcesi validator- deniyor).
+Peki bu ödenen ücretler nereye gidiyor? Temel olarak bu ücretler işlemlerin gerçekleşmesine aracılık eden ve sistemin güvenliğini sağlayanlara ödeniyor. Bitcoin sisteminde ve yakın zamana kadar Ethereum’da bu işi madenciler gerçekleştiriyordu. Ethereum, 15 Eylül 2022’de sistemini değiştirerek madencileri devreden çıkardı. Yerine bu işi ellerindeki ETH’yi (Ethereum zincirinin parası) sisteme rehin eden kişilere yaptırıyor (bu kişilere kısaca onaylayıcı -İngilizcesi validator- deniyor).
 
 Ethereum’un ekonomik büyüklüğünü anlamak için sistemin yukarıdaki aktörler üzerinden kazandığı gelirlere bakmak, bizlere iyi bir fikir verebilir.
 
@@ -96,7 +96,7 @@ Bunlar dışında, gelir kalemleri içinde saydığımız MEV, kullanıcılardan
 
 ETH token sahipleri, Ethereum üzerinde yaratılan değere doğrudan ya da dolaylı şekilde sahip oluyorlar. Nasıl mı? Anlatalım:
 
-ETH token sahiplerinin Ethereum sisteminin yarattığı değere direkt olarak sahip olabilmelerinin yolu, sistemin güvenliği ve işleyişine katkı vermelerinden geçiyor. Bunun için de Ethereum sisteminde bir onaylayıcı olmaları ve ellerindeki etheri sisteme rehin etmeleri (ingilizcesi ‘staking’ ya da ‘stake’) gerekiyor[^3].
+ETH token sahiplerinin Ethereum sisteminin yarattığı değere direkt olarak sahip olabilmelerinin yolu, sistemin güvenliği ve işleyişine katkı vermelerinden geçiyor. Bunun için de Ethereum sisteminde bir onaylayıcı olmaları ve ellerindeki etheri sisteme rehin etmeleri (İngilizcesi ‘staking’ ya da ‘stake’) gerekiyor[^3].
 
 Onaylayıcılar yaptıkları işlemler aracılığıyla iki çeşit kazanç elde ediyorlar. Bunlardan birincisi güvenliği sağladıkları için Ethereum sisteminin onlara verdiği ödül. Piyasadaki toplam ETH miktarı sistemin verdiği ödüller oranında yeni ETH basılarak artırılıyor. Bunun dışında, bir de kullanıcıların ödedikleri işlem ücretlerinin ‘bahşiş olarak verilen’ ufak bir kısmı onaylayıcılara ödeniyor. Bu para, kullanıcıdan onaylayıcıya akıyor ve piyasadaki toplam ETH miktarını değiştirmiyor.
 
@@ -182,7 +182,7 @@ Ethereum geliştiricilerinin ölçeklenme ile birlikte üzerinde çalıştıklar
 
 Yukarıda ilk kısımda bahsettiğimiz MEV konusu Ethereum üzerinde bir kambur oluşturuyor. MEV sisteme iki yönden zarar veriyor. Birincisi, kullanıcıların yapmaya çalıştıkları işlemlerden elde edecekleri kârı azaltıyor. İkincisi ise MEV'i yaratan blok yapıcılarına aynı zamanda gelen işlemleri sansür edebilme gücü veriyor.
 
-Bunu çözebilmek için geliştiriciler işlemlerin onaylanması sırasında çalışan aktörleri olabildiğince rekabet içine sokmaya çalışıyorlar. Kullanıcılar tarafından havuza düşen işlemleri yürürlüğe koyanlar ile işlemleri gerçekleştirenler şu aşamada ortak çalışıyorlar. Blok oluşturanların temel amacı, blok üzerinden elde edecekleri kârı maksimize ederek cebe atmak. Şu an için üzerinde çalışılan geliştirme ile (blok oluşturmayı öneren ile blok yapanların ayrılması, ingilizcesi ‘proposer-builder separation’ kısaca PBS) bu iki kesim arasındaki rekabetin artırılması planlanıyor.
+Bunu çözebilmek için geliştiriciler işlemlerin onaylanması sırasında çalışan aktörleri olabildiğince rekabet içine sokmaya çalışıyorlar. Kullanıcılar tarafından havuza düşen işlemleri yürürlüğe koyanlar ile işlemleri gerçekleştirenler şu aşamada ortak çalışıyorlar. Blok oluşturanların temel amacı, blok üzerinden elde edecekleri kârı maksimize ederek cebe atmak. Şu an için üzerinde çalışılan geliştirme ile (blok oluşturmayı öneren ile blok yapanların ayrılması, İngilizcesi ‘proposer-builder separation’ kısaca PBS) bu iki kesim arasındaki rekabetin artırılması planlanıyor.
 
 Rekabeti artırmanın yanında, işlem havuzuna (bir deyişle bekleme odasına) düşen işlemlerin şifrelenmesi, blok yapıcıların sansür uygulama gücünü ortadan kaldıracak.
 

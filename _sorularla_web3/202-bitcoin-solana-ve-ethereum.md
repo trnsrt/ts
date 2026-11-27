@@ -22,7 +22,7 @@ Bu kısımda, piyasanın en büyük üç oyuncusunun son dönem performansların
 
 Peki neden böyle bir performans ile karşılaştık? Neden bitcoin ve SOL hızlı hareket ederken ETH geride kaldı?
 
-İlk olarak, kriptopara piyasalarının hâlâ emekleme aşamasında olduğunu ve klasik yatırım ürünlerinde bakılan temel kriter olan ‘yaratılan değer’ kavramının bu piyasalarda henüz oluşmadığını belirtmek gerek. Bu durum kripto piyasalarını spekülatif hareketlere çok daha duyarlı bir hale getiriyor. Spekülatif piyasaların ihtiyacı olan ‘mazot’ ise ‘söylem’ (ingilizcesi ‘narrative’). Peki yukarıda bahsettiğimiz üç kriptopara yatırımcılarına son dönemde nasıl bir söylem sundu?
+İlk olarak, kriptopara piyasalarının hâlâ emekleme aşamasında olduğunu ve klasik yatırım ürünlerinde bakılan temel kriter olan ‘yaratılan değer’ kavramının bu piyasalarda henüz oluşmadığını belirtmek gerek. Bu durum kripto piyasalarını spekülatif hareketlere çok daha duyarlı bir hale getiriyor. Spekülatif piyasaların ihtiyacı olan ‘mazot’ ise ‘söylem’ (İngilizcesi ‘narrative’). Peki yukarıda bahsettiğimiz üç kriptopara yatırımcılarına son dönemde nasıl bir söylem sundu?
 
 Piyasanın lideri ve ağır abisi olan Bitcoin’in işi nispeten kolay. Öncelikle, bitcoin anlaşılması oldukça basit bir ürün. Odak noktası tek: Herkesin istediği şekilde kullanabileceği bir ‘dijital altın’ olmak. Bu herkesin anlayabileceği ve üzerinde rahatça birleşebileceği bir söylem. Teknik olarak kavramanın ‘zor’ olduğunu iddia edebilirsiniz ama orada da zaman bitcoin lehine işliyor. Tam 14 yıldır etrafta olan, arkasından binlerce kez ‘öldü’ söylentileri çıkan ama her seferinde inadına bir hamamböceği gibi ayakta kalan bir kriptopara var karşımızda. Böyle olunca da açıkçası insanlar işin teknik kısmına çok da bakmıyorlar.
 
@@ -80,9 +80,9 @@ Yukarıdaki söylemin son kullanıcı açısından bir albenisi yok. Yeni gelen 
 
 *Üç büyük ağda son dört yılın aylık işlem ücretleri (milyon ABD Doları). (Kaynak: Dune Analytics-[@sankin](https://dune.com/queries/3275250/5482283))*
 
-Kurumsal yatırımcılar öncelikle beklenti olarak daha net söylemler içeren bitcoine yöneldiler. Bitcoin ETF’lerinin onaylanması sonrası ise bu yatırımcıların gözü Ethereum ETF’lerinin onayına çevrildi. Bu da SEC’nin her tür diretmesine rağmen Temmuz 2024’de gerçekleşti.
+Kurumsal yatırımcılar öncelikle beklenti olarak daha net söylemler içeren bitcoine yöneldiler. Bitcoin ETF’lerinin onaylanması sonrası ise bu yatırımcıların gözü Ethereum ETF’lerinin onayına çevrildi. Bu da SEC’nin her tür diretmesine rağmen Temmuz 2024’te gerçekleşti.
 
-Bununla birlikte kurumsal tarafta Ethereum’a ilgiyi artırabilecek birkaç gelişme daha var. Ethereum ağında planlanan yeni geliştirmeler ile ikinci seviye çözümlerin Solana benzeri rakipler ile işlem ücret açısından yarışabilir hale gelmesi sağlanacak. Bunun yanında Ethereum’un rehin edilmesi halinde yatırımcıya bonoya benzer ciddi bir getiri kazandırma özelliği var. Buna bir de, son zamanlarda popüler olan rehin edilen etherlerin aynı zamanda başka platformlarda kullanılarak ekstra getiri sağlanması özelliğini (ingilizcede buna ‘restaking’ deniyor) ekleyin.
+Bununla birlikte kurumsal tarafta Ethereum’a ilgiyi artırabilecek birkaç gelişme daha var. Ethereum ağında planlanan yeni geliştirmeler ile ikinci seviye çözümlerin Solana benzeri rakipler ile işlem ücret açısından yarışabilir hale gelmesi sağlanacak. Bunun yanında Ethereum’un rehin edilmesi halinde yatırımcıya bonoya benzer ciddi bir getiri kazandırma özelliği var. Buna bir de, son zamanlarda popüler olan rehin edilen etherlerin aynı zamanda başka platformlarda kullanılarak ekstra getiri sağlanması özelliğini (İngilizcede buna ‘restaking’ deniyor) ekleyin.
 
 Şimdi yukarıdaki iki söylemi düşünün. Bir tarafta airdrop ve hızlı token performansının getirdiği yüksek kazançlı ama bir o kadar da riskli ve uzun vadede sürdürülebilirliği soru işareti olan bir ağ. Diğer tarafta, daha ağır ama emin adımlarla ilerleyen ve yatırımcısına somut getiriler sağlayan bir ağ. Küçük yatırımcının tercihinin birinci, kurumsal yatırımcıların tercihinin ise ikinciden yana olacağını söylemek hiç de zor değil.
 
@@ -104,6 +104,6 @@ Ethereum tarafında ETF’lerin etkisi ancak 2024 yılı sonlarına doğru oluml
 
 [^3]: Bu Ethereum ile Solana arasındaki en temel fark aslında. Ethereum kullanıcılara blokzincirin farklı parçalarının farklı oyuncular tarafından sunulabileceği bir dünyayı hedeflerken, Solana daha çok temel işlevlerin tamamının kendi tarafından verildiği bir dünyaya oynuyor.
 
-[^4]: Buna ingilizcede ‘credible neutrality’ deniyor, yani hiç kimseyi kayırmadan herkese eşit uzaklıkta güven sağlayan bir yapı.
+[^4]: Buna İngilizcede ‘credible neutrality’ deniyor, yani hiç kimseyi kayırmadan herkese eşit uzaklıkta güven sağlayan bir yapı.
 
 [^5]: Her ne kadar içindekiler tarafından orijinal ‘dijital altın’ vizyonundan uzaklaşıyor diye eleştiriliyor olsa da.

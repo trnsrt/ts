@@ -14,7 +14,7 @@ The spring of 2023 sent a [tremor](https://www.imf.org/en/Publications/global-fi
 
 ## The Setup: A Flood of Cash, Then a Sudden Stop {#the-setup-a-flood-of-cash-then-a-sudden-stop}
 
-To understand the banking crisis, we first have to understand the tidal wave of cash the Federal Reserve unleashed on the economy. In 2020 and 2021, [to fight the pandemic-induced recession](https://www.cbpp.org/research/economy/tracking-the-recovery-from-the-pandemic-recession), the Fed effectively turned on the money printer. This deluge of capital caused bank deposits surged by over $4 trillion in 2020–21, reaching record‑high levels.
+To understand the banking crisis, we first have to understand the tidal wave of cash the Federal Reserve unleashed on the economy. In 2020 and 2021, [to fight the pandemic-induced recession](https://www.cbpp.org/research/economy/tracking-the-recovery-from-the-pandemic-recession), the Fed effectively turned on the money printer. This deluge of capital caused bank deposits to surge by over $4 trillion in 2020–21, reaching record‑high levels.
 
 For banks, this was a strange problem to have. They were swimming in cash but had nowhere to lend it. Their solution? Pour that money into the safest asset they could find: U.S. Treasury bonds. With interest rates at historic lows, they loaded up on long-term bonds (5-10 years) to chase whatever meager yield they could find.
 
@@ -46,7 +46,7 @@ The customers of these banks weren't your average depositors. They were hyper-co
 
 Silvergate's demise was a slow burn. Its deep ties to the collapsed FTX exchange put it under a microscope[^4]. Scrutiny from crypto-skeptical senators [in a public letter](https://www.warren.senate.gov/newsroom/press-releases/senators-warren-marshall-kennedy-release-new-information-renew-push-for-answers-from-silvergate-bank-over-role-in-ftx-collapse/) sealed its fate, and it went into voluntary liquidation. Crucially, its assets were enough to cover all deposits without a taxpayer-funded bailout[^5].
 
-But Silvergate's failure sparked a new question in the market: "Who's next?" All eyes turned to SVB, the bank with the highest ratio of bonds and the fewest insured deposits. The answer came with stunning speed. Venture capital firms blasted warnings to their portfolio companies: "Get your money out of SVB. Now." What followed was a bank run executed over Slack and Twitter, an exodus of billions in just 48 hours[^6]. By Friday, March 10, 2023, r[regulators had seized the bank](https://www.fdic.gov/news/speeches/2023/spmar2923.html).
+But Silvergate's failure sparked a new question in the market: "Who's next?" All eyes turned to SVB, the bank with the highest ratio of bonds and the fewest insured deposits. The answer came with stunning speed. Venture capital firms blasted warnings to their portfolio companies: "Get your money out of SVB. Now." What followed was a bank run executed over Slack and Twitter, an exodus of billions in just 48 hours[^6]. By Friday, March 10, 2023, [regulators had seized the bank](https://www.fdic.gov/news/speeches/2023/spmar2923.html).
 
 The panic was palpable. Over the weekend, U.S. authorities stepped in with overwhelming force. In a [sweeping announcement](https://www.federalreserve.gov/newsevents/pressreleases/monetary20230312b.htm), they guaranteed *all* deposits at the failed banks—well beyond the standard $250,000 FDIC limit—and launched a new program to allow banks to borrow against their devalued bonds at face value.
 
@@ -54,7 +54,7 @@ Tucked into that announcement, however, was a curious detail: the closure of Sig
 
 ## Key Takeaways and Future Implications {#key-takeaways-and-future-implications}
 
-Let's get one thing straight: 2023 wasn't a repeat of 2008[^9] . This crisis wasn't about bad loans. It was a spectacular failure of basic risk management. Banks made a massive, unhedged bet that low interest rates were here to stay. They were wrong.
+Let's get one thing straight: 2023 wasn't a repeat of 2008[^9]. This crisis wasn't about bad loans. It was a spectacular failure of basic risk management. Banks made a massive, unhedged bet that low interest rates were here to stay. They were wrong.
 
 ### A Reckoning for Banks, A Scare for Depositors {#a-reckoning-for-banks-a-scare-for-depositors}
 

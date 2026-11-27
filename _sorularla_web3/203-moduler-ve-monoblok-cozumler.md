@@ -53,7 +53,7 @@ Yukarıda yazdığımız gibi blokzincirin temel özelliği bir kayıt defteri o
 
 Blokzincirin yukarıda saydığımız fonksiyonlarının nasıl gerçekleştirileceği konusunda iki farklı ekol var. Bunlardan bir tanesi yukarıda saydığımız bütün fonksiyonların tek bir elden yapılması (aynı Apple ekosistemi gibi), diğeri ise her bir işlemin farklı farklı oyuncular tarafından yürütülmesi (bir nevi Android sistemler gibi).
 
-Bitcoin ve Solana’nın başını çektiği ağlar, monoblok yapı dediğimiz birinci ekolü benimsediler. Bitcoin için bu yolu seçmek kolaydı, zira Bitcoin özünde tek bir uygulamaya bağlı bir ağ (ingilizcesi ‘application specific’). Bahsettiğimiz tek uygulama da Bitcoin parası olan BTC. Bitcoin üzerine uygulama kurmak mümkün değil, çünkü akıllı kontrat desteği yok[^3]. Bu nedenle, Bitcoin kendini basit tutarak ölçeklenme yarışına girmemeyi tercih etti[^4].
+Bitcoin ve Solana’nın başını çektiği ağlar, monoblok yapı dediğimiz birinci ekolü benimsediler. Bitcoin için bu yolu seçmek kolaydı, zira Bitcoin özünde tek bir uygulamaya bağlı bir ağ (İngilizcesi ‘application specific’). Bahsettiğimiz tek uygulama da Bitcoin parası olan BTC. Bitcoin üzerine uygulama kurmak mümkün değil, çünkü akıllı kontrat desteği yok[^3]. Bu nedenle, Bitcoin kendini basit tutarak ölçeklenme yarışına girmemeyi tercih etti[^4].
 
 Solana ise, çok daha genele hitap eden, üzerinde akıllı kontrat çalışan bir ağ. Onlar ise, ölçeklenme problemini blokları büyüterek çözdüler. Bu durumun yan etkisi, sistemi yürüten makinelerin yüksek kapasite ihtiyacı, bunu karşılayacak makine sayısı az olduğu için sistemin merkezileşme riski.
 
@@ -61,7 +61,7 @@ Yelpazenin öbür ucunda ise, yukarıda saydığımız fonksiyonları farklı fa
 
 [^1]: Duran blokzincirler yok mu? Var tabii. Bu alanda sabıkası olan zincirler var ama onların henüz yeterince olgunlaşmamış olduğunu söyleyerek şimdilik istisna olarak görüp konumuz dışında bırakıyoruz.
 
-[^2]: ‘Data publishing’ olarak adlandırılan bu özellik, kimi zaman ‘data availability’ olarak yanlış adlandırılabiliyor. ‘Data availability’ geçmiş tüm işlemlerin saklanması olarak düşünülebilir (bir başka deyişle ingilizcede data storage olarak adlandırılan kavram) - onun blokzincir üzerindeki tüm makinelerde saklanmasına gerek yok. Birkaç makine bütün geçmişi (ya da arşivi) saklayabilir.
+[^2]: ‘Data publishing’ olarak adlandırılan bu özellik, kimi zaman ‘data availability’ olarak yanlış adlandırılabiliyor. ‘Data availability’ geçmiş tüm işlemlerin saklanması olarak düşünülebilir (bir başka deyişle İngilizcede data storage olarak adlandırılan kavram) - onun blokzincir üzerindeki tüm makinelerde saklanmasına gerek yok. Birkaç makine bütün geçmişi (ya da arşivi) saklayabilir.
 
 [^3]: Basitleştirmek için bu şekilde anlatıyorum, teknik arkadaşlar hemen çullanmasın. Aslında kastedilen, ‘script’ dediğimiz kodların çok kısıtlı olması. Taproot geliştirmesi ile birlikte özellikle Ordinals üzerinden bu kısıt bir parça kırıldı ama hâlâ yeterli sayılmaz. Bitcoin üzerine ikinci seviye çözümler de geliştirilmeye çalışıyor ama bu çözümlerin tam layıkıyla çalışabilmesi için Bitcoin üzerinde yeni güncellemelerin gelmesi (bir nevi soft fork olması) gerekiyor ki bu tip güncellemeler Bitcoin’e üç-dört yılda bir ancak geliyor. Bu güncelleme gelene kadar Bitcoin üzerinde akıllı kontrat kullanımı için bir ara çözüm olan BitVM geliştiriliyor. İlgilenenler bu alanda çalışan Türk bir ekibin ([Chainway](https://chainway.xyz/)) kurduğu [Citrea](https://citrea.xyz/) çözümünü inceleyebilirler.
 

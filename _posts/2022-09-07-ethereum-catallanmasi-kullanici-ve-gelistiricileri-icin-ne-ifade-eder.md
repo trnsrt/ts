@@ -9,7 +9,7 @@ image: /assets/threshold-6036413_800.jpg
 
 Bu yazımızda, Ethereum'un olası çatallanmasının uygulamalar ve kullanıcılar açısından ne gibi etkileri olabileceğine bakacağız.  
 
-Geçtiğimiz haftaki yazıda, Tornado Cash sonrasında Ethereum'un protokol seviyesinde çatallanmasından bahsetmiştik. Hemen bir ayrıntıya dikkat çekelim: Bahsettiğimiz konu, Ethereum'un önümüzdeki günlerde hisse-kanıtı sistemine (ingilizcesi PoS - Proof of Stake) geçmesi sonrası, bu durumdan hoşnut olmayan iş-kanıtı (ingilizcesi PoW - Proof of Work) yanlısı ve başını madencilerin çektiği bir grubun çıkarmayı planladığı ETHPoW çatallanması değil. Şahsen, ETHPoW çatallamasının 'olmayacak duaya amin' demenin ötesinde bir etki yaratamayacağı için üzerinde durulmaya değer olduğunu düşünmüyorum. 
+Geçtiğimiz haftaki yazıda, Tornado Cash sonrasında Ethereum'un protokol seviyesinde çatallanmasından bahsetmiştik. Hemen bir ayrıntıya dikkat çekelim: Bahsettiğimiz konu, Ethereum'un önümüzdeki günlerde hisse-kanıtı sistemine (İngilizcesi PoS - Proof of Stake) geçmesi sonrası, bu durumdan hoşnut olmayan iş-kanıtı (İngilizcesi PoW - Proof of Work) yanlısı ve başını madencilerin çektiği bir grubun çıkarmayı planladığı ETHPoW çatallanması değil. Şahsen, ETHPoW çatallamasının 'olmayacak duaya amin' demenin ötesinde bir etki yaratamayacağı için üzerinde durulmaya değer olduğunu düşünmüyorum. 
 
 ### Kısa bir hatırlatma: 
 

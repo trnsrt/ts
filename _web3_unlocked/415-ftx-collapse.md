@@ -12,7 +12,7 @@ description: "Just when the crypto world thought the worst was over—after the 
 
 Just when the crypto world thought the worst was over—after the death spirals of Terra and 3AC—the industry’s own poster boy revealed himself to be the final boss. The third act of the 2022 crisis was the most shocking of all: the breathtaking collapse of the FTX exchange.
 
-## What Happened? {#what-happened}
+## What Happened to FTX? {#what-happened}
 
 It all started with a quiet tremor. On November 2, 2022, a report from Coindesk [revealed](https://www.coindesk.com/business/2022/11/02/divisions-in-sam-bankman-frieds-crypto-empire-blur-on-his-trading-titan-alamedas-balance-sheet) the dangerously intertwined balance sheets of FTX and its sister trading firm, Alameda Research.
 

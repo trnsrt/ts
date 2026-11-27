@@ -30,7 +30,7 @@ Kullanıcıların kullandıkları uygulamaları Ethereum üzerinde alan kiralaya
 
 Bunun yanında bir başka aktör, Ethereum üzerine kurulu ikinci seviye çözümler. Bu ikinci seviye çözümleri, yukarıda bahsettiğimiz 'birleşik devlet' içinde bulunan eyaletlere benzetebiliriz. İkinci seviye çözümlerin her biri kendi içlerinde otonom birer ayrı blokzincir aslında. Bu blokzincirler, güvenliğinden faydalandıkları Ethereum blokzincirine aynı kullanıcılar gibi işlem ücreti (yani alan kirası) ödüyorlar. 
 
-Peki bu ödenen ücretler nereye gidiyor? Temel olarak işlemlerin gerçekleşmesine aracılık eden ve sistemin güvenliğini sağlayan token sahiplerine. Bitcoin sisteminde ve geçtiğimiz yıla kadar Ethereum'da bu işi madenciler gerçekleştiriyordu. Ethereum, 15 Eylül 2022'de sistemini değiştirerek bu işi tokenlerini sisteme rehin eden ve kısaca onaylayıcı (ingilizcesi validator) olarak adlandırılan aktörlere yaptırıyor. 
+Peki bu ödenen ücretler nereye gidiyor? Temel olarak işlemlerin gerçekleşmesine aracılık eden ve sistemin güvenliğini sağlayan token sahiplerine. Bitcoin sisteminde ve geçtiğimiz yıla kadar Ethereum'da bu işi madenciler gerçekleştiriyordu. Ethereum, 15 Eylül 2022'de sistemini değiştirerek bu işi tokenlerini sisteme rehin eden ve kısaca onaylayıcı (İngilizcesi validator) olarak adlandırılan aktörlere yaptırıyor. 
 
 Ethereum'un ekonomik büyüklüğünü anlamak için sistemin yukarıdaki aktörler üzerinden kazandığı gelirlerin çeşitlerine bakmak bir fikir verebilir. 
 

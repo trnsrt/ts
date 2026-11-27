@@ -12,11 +12,11 @@ description: "The collapse of Terra wasn't an isolated earthquake; it was the sh
 
 The collapse of Terra wasn't an isolated earthquake; it was the shockwave that triggered a tsunami. The first domino had fallen, and its impact would send a chain reaction of failures across the entire crypto landscape.
 
-The next to get [swept away](https://pontem.network/posts/the-collapse-of-3ac-three-arrows-capital-all-you-need-to-know) was Three Arrows Capital (3AC), one of the largest and most influential investment funds in the industry.
+The next to get swept away was Three Arrows Capital (3AC), one of the largest and most influential investment funds in the industry.
 
-## How It Started {#how-it-started}
+## How the 3AC Bankruptcy Started {#how-it-started}
 
-The contagion began with a single point of failure: UST, the Terra blockchain's algorithmic stablecoin. As a quick refresher, UST was a currency pegged to the US dollar not by cash reserves, but by a volatile sister token, LUNA. It was supercharged by the Anchor Protocol, which offered an irresistible 20% annual yield. This promise pulled in nearly $18 billion in just under a year.
+The contagion began with a single point of failure: UST, the Terra blockchain's algorithmic stablecoin. As a quick refresher, UST was a currency pegged to the US dollar not by cash reserves, but by a volatile sister token, LUNA. It was supercharged by the Anchor Protocol, which offered an irresistible 20% annual yield. This promise pulled in nearly $18 billion in around 18 months.
 
 This hormonal growth was obviously unsustainable. Insiders knew it and skeptics warned about it, yet as long as the music was playing, everyone kept dancing.
 
@@ -66,4 +66,4 @@ This created a death spiral. The forced selling [widened](https://ycharts.com/co
 
 To make matters worse, allegations surfaced that 3AC had used the same collateral to get loans from multiple lenders—a practice that, if true, is fraud. In September 2023, the Monetary Authority of Singapore [banned](https://www.mas.gov.sg/regulation/enforcement/enforcement-actions/2023/mas-issues-prohibition-orders-against-three-arrows-capital-zhu-su-and-kyle-livingston-davies) both founders from its capital markets for nine years, citing a 'flagrant disregard' for regulations.
 
-The saga took another dramatic turn just weeks later. On September 29, 2023, Zhu Su was [arrested in Singapore'](https://www.finews.com/news/english-news/59522-three-arrows-co-founder-arrested-singapore)s airport while attempting to flee the country. He was sentenced to four months in prison for failing to cooperate with liquidators and was released in December 2023.
+The saga took another dramatic turn just weeks later. On September 29, 2023, Zhu Su was [arrested in Singapore](https://www.finews.com/news/english-news/59522-three-arrows-co-founder-arrested-singapore)’s airport while attempting to flee the country. He was sentenced to four months in prison for failing to cooperate with liquidators and was released in December 2023.

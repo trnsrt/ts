@@ -66,7 +66,7 @@ Bir başka önemli soru işareti de regülasyonlar ve fikri mülkiyet konuların
 
 ### Huzurlarınızda Merkeziyetsiz Bilim (DeSci)
 
-Vibe Bio çalıştığı alanda tek oluşum değil. Özellikle bilim ve sanat alanında toplulukları bir araya getirmeye çalışan Merkeziyetsiz Bilim (ingilizcede Decentralized Science, kısaca DeSci) çatısı altında Ekim 2022'ye kadar 117 oluşum toplanmış durumda.
+Vibe Bio çalıştığı alanda tek oluşum değil. Özellikle bilim ve sanat alanında toplulukları bir araya getirmeye çalışan Merkeziyetsiz Bilim (İngilizcede Decentralized Science, kısaca DeSci) çatısı altında Ekim 2022'ye kadar 117 oluşum toplanmış durumda.
 
 | ![DeSci](/assets/decentralized_science_v2.jpg)|
 |:--:| 

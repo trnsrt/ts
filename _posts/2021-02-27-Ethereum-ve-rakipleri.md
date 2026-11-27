@@ -51,7 +51,7 @@ Polkadot, Cardano ve Avanlanche, başlangıçta Ethereum'u kuran ekipte olup son
 |:--:| 
 | *Akıllı Kontrat Platformlarının ucu bucağı yok. Kaynak: [CoinGecko](https://www.coingecko.com/en/categories/smart-contract-platform)*|
 
-Bunların hangileri başarılı olacak - şu aşamada kestirmek zor. Peki yatırım yaparken nelere dikkat etmeli? İlginenler, ağların piyasa değerlerine odaklanmak yerine temel birkaç veriye bakmalı: Örneğin; ağların geliştirici sayıları, üzerlerine kurulu uygulamalar, bu uygulamalardaki işlem hacmi, üzerlerine kilitli değer miktarları (ingilizcesi ‘total value locked’ kısaca TVL) ve diğer ağlar ile ilişkiler gibi. Yani kısacası bir önceki yazımızda bahsettiğimiz DeFi uygulamaları için kritik olan topluluk konusu, bu tip altyapı ağlarında da çok ama çok önemli.
+Bunların hangileri başarılı olacak - şu aşamada kestirmek zor. Peki yatırım yaparken nelere dikkat etmeli? İlginenler, ağların piyasa değerlerine odaklanmak yerine temel birkaç veriye bakmalı: Örneğin; ağların geliştirici sayıları, üzerlerine kurulu uygulamalar, bu uygulamalardaki işlem hacmi, üzerlerine kilitli değer miktarları (İngilizcesi ‘total value locked’ kısaca TVL) ve diğer ağlar ile ilişkiler gibi. Yani kısacası bir önceki yazımızda bahsettiğimiz DeFi uygulamaları için kritik olan topluluk konusu, bu tip altyapı ağlarında da çok ama çok önemli.
 
 ### ETH bunlara nasıl cevap verecek? Verebilecek mi?
 Aslına bakarsanız Ethereum'un 'tüm dünyanın kullanabileceği bir bilgisayar olmak' gibi bir vizyonu olsa da, bu alanda 'tek' olmak gibi bir hedefi yok. Zaten yukarıda saydığımız diğer blokzincirler ile yakın ilişkileri de devam ediyor. Örneğin, eğer takip ediyorsanız Avalanche kurucusu Emin Gür Sirer hocanın Twitter'da Ethereum'un defacto lideri Vitalik Buterin ile sık sık yazıştığını görebilirsiniz.
@@ -62,7 +62,7 @@ Zira yüksek işlem ücretleri Ethereum'un ilk kez karşılaştığı bir durum 
 
 Sistemdeki yüksek madencilik ücretlerini törpülemek ve yoğun zamanlarda blok boyutunu artırmak ile ilgili Vitalik Buterin'in o zamandan kalma EIP 1559 isimli bir iyileştirme önerisi bulunmakta. DeFi yoğunluğu ile birlikte geliştirmesi daha da hızlanan bu önerinin 2021 yaz aylarında uygulamaya konulması umuluyor.
 
-Bunun yanında 2020 Kasım ayında başlayan ETH 2.0'in ana özelliği olan blokzincirini birbiri ile ortak çalışan 64 ayrı zincir haline getirmesi (ingilizcesi sharding) kapasiteyi ciddi şekilde artıracak. Bu özelliğin ise 18 ay içinde yani 2022 yılının ortalarında kullanıma hazır hale gelmesi planlanıyor.
+Bunun yanında 2020 Kasım ayında başlayan ETH 2.0'in ana özelliği olan blokzincirini birbiri ile ortak çalışan 64 ayrı zincir haline getirmesi (İngilizcesi sharding) kapasiteyi ciddi şekilde artıracak. Bu özelliğin ise 18 ay içinde yani 2022 yılının ortalarında kullanıma hazır hale gelmesi planlanıyor.
 
 Aslında Ethereum geliştiricileri örneğin üzerine işlem yazılacak blok büyüklüğünü artırarak artan talebi hızlıca karşılamak gibi bir çözüme de gidebilirlerdi. Ancak bu kadar büyük ve üzerine binlerce uygulamanın kurulu olduğu bir sistem söz konusu olunca bu tip ani hareketler sistemde dengesizliğe neden olabiliyor, ki bu da en istenmeyecek durum olur.
 

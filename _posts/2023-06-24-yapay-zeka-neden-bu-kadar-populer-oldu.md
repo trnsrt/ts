@@ -24,7 +24,7 @@ Aslına bakarsanız, yapay zeka kavramı üzerine yapılan çalışmalar yetmiş
 
 Zamanla bu alanda yapılan araştırmalar iki ana kola ayrılmaya başlıyor. Bunlardan ilki, tek bir işte uzmanlaşmaya çalışan yapay zeka araçları. İkincisi ise; aynı bir insan gibi, önüne gelen herhangi bir iş ya da problemin üstesinden gelmeye çalışan genel amaçlı yapay zeka uygulamaları. 
 
-Hayatımıza dokunan ilk örnekleri bu iki alandan birincisinde görüyoruz (IBM'in insanları yenen satranç zekası gibi). Son zamanlarda ise diğer ekol, yani AGI da denen (ingilizcesi Artificial General Intelligence, Türkçesi genel -kapsamlı- yapay zeka) farklı ve çoklu işleri gerçekleştirebilen uygulamaların ön plana çıkışına tanıklık ediyoruz. 
+Hayatımıza dokunan ilk örnekleri bu iki alandan birincisinde görüyoruz (IBM'in insanları yenen satranç zekası gibi). Son zamanlarda ise diğer ekol, yani AGI da denen (İngilizcesi Artificial General Intelligence, Türkçesi genel -kapsamlı- yapay zeka) farklı ve çoklu işleri gerçekleştirebilen uygulamaların ön plana çıkışına tanıklık ediyoruz. 
 
 Her ne kadar uzunca bir süredir aktif olarak kullanılsa da, özellikle geçtiğimiz yıl ortaya çıkan ChatGPT bu alanın popülerleşmesinde bir dönüm noktası oldu. Zira, birebir olarak deneyimleyebildiğimiz bu uygulama, yapay zeka alanında yaşanan gelişmeleri ve hayatımıza getirebileceği potansiyel değişimi adeta bir tokat gibi yüzümüze vurdu. Öyle ki, sıfırdan yüz milyon kullanıcıya sadece iki ayda ulaşan ChatGPT uygulaması bu alanda bir [rekor kırdı](https://www.reuters.com/technology/chatgpt-sets-record-fastest-growing-user-base-analyst-note-2023-02-01/) (Bundan önceki rekor dokuz ay ile TikTok'a aitti. Üçüncü sıradaki Instagram ise bu sayıya ancak iki buçuk yılda ulaşabildi). 
 
@@ -36,7 +36,7 @@ Kişisel bir asistan olma amacıyla ortaya çıkan ChatGPT'de ise yukarıda sayd
 
 Her ne kadar etkileyici olsa da, elimizin altında internet gibi derin bir bilgi hazinesi varken, kopan asıl fırtınanın nedeninin yukarıdaki örnekler olmadığını sanırım az çok kestirebilirsiniz. 
 
-Yapay zekanın asıl büyük potansiyeli, sürekli tekrarlama (iterasyon) sonucu kendi kendine öğrenme ve kendini geliştirme kapasitesine sahip olması. Bunu nasıl yapıyor? Farklı birçok yöntemi var ve bunları tek tek yazmaya kalksak sayfalar dolusu bir rapor çıkarmak gerekir ama en vurucu yöntemin derin öğrenme (ingilizcesi deep learning) olduğunu söyleyebiliriz. 
+Yapay zekanın asıl büyük potansiyeli, sürekli tekrarlama (iterasyon) sonucu kendi kendine öğrenme ve kendini geliştirme kapasitesine sahip olması. Bunu nasıl yapıyor? Farklı birçok yöntemi var ve bunları tek tek yazmaya kalksak sayfalar dolusu bir rapor çıkarmak gerekir ama en vurucu yöntemin derin öğrenme (İngilizcesi deep learning) olduğunu söyleyebiliriz. 
 
 Derin öğrenme, büyük miktarda veriyi alıp anlamlandırma olarak tanımlayabileceğimiz makine öğrenmesi alanının bir alt kolu. Temel olarak yaptığı, insan beyninin içinde bulunan sinirsel ağın yapay bir benzerini makinalar için taklit etmek. Bu sinirsel ağ özünde biz insanların karşımıza çıkan karmaşık bilgileri analiz edip karar vermemizi sağlıyor.
 
@@ -97,4 +97,4 @@ Yazımızın bu bölümünde yapay zekayı en basit haliyle [^2] anlamaya ve pot
 
 [^6]: Bu alanda yazılmış [ilk bilimsel makalenin](https://www.cs.cmu.edu/~./epxing/Class/10715/reading/McCulloch.and.Pitts.pdf) yayım yılının 1943 olduğunu ekleyelim.
 
-[^7]: Buna makina dilinde etiketleme (ingilizcede labeling) deniyor. Makine dilinde veri setlerinin bizler tarafından etiketlenmesi gerekirken, derin öğrenme etiketlenmemiş veri setleri üzerinde çalışıyor. 
+[^7]: Buna makina dilinde etiketleme (İngilizcede labeling) deniyor. Makine dilinde veri setlerinin bizler tarafından etiketlenmesi gerekirken, derin öğrenme etiketlenmemiş veri setleri üzerinde çalışıyor. 

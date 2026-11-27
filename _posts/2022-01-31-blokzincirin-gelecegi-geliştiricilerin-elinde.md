@@ -19,10 +19,10 @@ En sık karşılaşılan sorulardan biridir: Hangi blokzincir daha büyük, hang
 
 Öte yandan ne kadar iyi niyetli olursanız olun ya da elinizde blokzincirin yarattığı milyonlarca data olsun, objektif kriterler ya da belli bir standarda oturmuş parametreler yok ortada. Hangi kriteri kullandığınıza göre değerlendirmeler çok değişiyor. Bakılabilecek kriterler neler olabilir?
 
-- Piyasa değerleri (ingilizcede Market Cap kısaca mCap - piyasada dolaşımda olan ya da toplam token adedi üzerinden)
-- Sisteme kilitlenmiş değer (ingilizcede 'Total Value Locked' kısaca TVL)
+- Piyasa değerleri (İngilizcede Market Cap kısaca mCap - piyasada dolaşımda olan ya da toplam token adedi üzerinden)
+- Sisteme kilitlenmiş değer (İngilizcede 'Total Value Locked' kısaca TVL)
 - Başka blokzincirlerden köprüler aracılığıyla transfer edilmiş değer
-- Sistem üzerinde çalışan uygulama sayısı (ingilizcede 'decentralized app' kısaca dApp)
+- Sistem üzerinde çalışan uygulama sayısı (İngilizcede 'decentralized app' kısaca dApp)
 - Bu uygulamaların işlem hacimleri
 - Sistemleri kullanan cüzdan (bir diğer deyişle) hesap sayısı
 - Ne kadar merkeziyetsiz olduğu (validatör sayısı)

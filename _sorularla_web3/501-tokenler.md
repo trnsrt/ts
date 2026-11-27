@@ -60,7 +60,7 @@ Blokzincir dünyasında temellerin atılması sonrası ortaya çıkan uygulamala
 
 Bunun üzerine Ethereum dünyası 2018 yılında [ERC-721](https://eips.ethereum.org/EIPS/eip-721) standardını uygulamaya koydu. İngilizcesi non-fungible token ya da kısaca NFT olan bu standart ile çıkarılan token cinsinin Türkçesi Cumhurbaşkanlığı Dijital Ofisi tarafından ‘Nitelikli Fikri Tapu’ [olarak belirlendi](https://www.aa.com.tr/tr/bilim-teknoloji/nftnin-turkce-karsiligi-nitelikli-fikri-tapu-olarak-belirlendi/2570316).
 
-NFT aslına bakarsanız kendi içinde bir akıllı kontrat. ERC-721 standardı ile oluşturulan bir token, herhangi bir dijital varlığa işaret ederken, o varlığa ait bir ‘eşsiz tanımlayıcı’ (ingilizcesi ‘unique ID’) belirleniyor. Örneğin herhangi bir koleksiyona ait 10,000 parça var ise, bu parçaların her biri 1’den 10,000’e kadar rakam ile tanımlanıyor. Bu sayede, parçalar aynı koleksiyonun içinde oldukları için ortak bir isme sahip olsalar da her bir parça bu rakam sayesinde diğerinden farklı olarak işlem görüyor yani eşsiz oluyor.
+NFT aslına bakarsanız kendi içinde bir akıllı kontrat. ERC-721 standardı ile oluşturulan bir token, herhangi bir dijital varlığa işaret ederken, o varlığa ait bir ‘eşsiz tanımlayıcı’ (İngilizcesi ‘unique ID’) belirleniyor. Örneğin herhangi bir koleksiyona ait 10,000 parça var ise, bu parçaların her biri 1’den 10,000’e kadar rakam ile tanımlanıyor. Bu sayede, parçalar aynı koleksiyonun içinde oldukları için ortak bir isme sahip olsalar da her bir parça bu rakam sayesinde diğerinden farklı olarak işlem görüyor yani eşsiz oluyor.
 
 ### Hibrit tokenler {#hibrit-tokenler}
 
@@ -150,7 +150,7 @@ Peki, fiziksel bir varlık token haline gelirken hangi adımların atılması ge
 
 Daha önce doğrulamasını yaptığınız varlığın bilgisini ve ne kadar token yaratılacağını akıllı kontratlar aracılığıyla belirledikten sonra bu kontratları blokzincir üzerine kaydetmek bir sonraki adımı oluşturuyor. Blokzincirde kısaca TGE (‘Token Generation Event’ teriminin kısaltması, Türkçeye ‘token oluşturma etkinliği’ olarak çevrilebilir) olarak adlandırılan basım olayı tokenin doğuşu anlamına geliyor.
 
-Son olarak, fiziki varlıkların saklanması ve tokenler aracılığıyla blokzincir üzerinde sürekli olarak takip edilmesi süreci var. Bu süreçte genelde bu iş için uzmanlaşmış fiziksel varlıklar için yedieminler, dijital varlıklar için ise emanet (ingilizcesi custody) hizmeti veren sağlayıcılar kullanılıyor.
+Son olarak, fiziki varlıkların saklanması ve tokenler aracılığıyla blokzincir üzerinde sürekli olarak takip edilmesi süreci var. Bu süreçte genelde bu iş için uzmanlaşmış fiziksel varlıklar için yedieminler, dijital varlıklar için ise emanet (İngilizcesi custody) hizmeti veren sağlayıcılar kullanılıyor.
 
 ## Tokenleştirmenin neresindeyiz? Sorunlar, engeller neler? {#tokenlestirmenin-neresindeyiz-sorunlar-engeller-neler}
 
@@ -164,7 +164,7 @@ Bu alanda belki de en büyük kullanım alanı bu kitapta başka bölümlerde de
 
 Fiziksel varlıkların geride kalmasının temel nedenleri arasında başta gelen konu, kanuni belirsizlikler. Bu alanda düzenlemelerin gelmesi bir hayli gecikti. Dünyanın hemen her yerinde hükümetler konuya daha yeni yeni eğilebiliyorlar.
 
-Global bir yapı olan blokzincirin temel değer önerilerinden biri, hemen herkesin erişimine açık olması. Hükümetler ise kendi lokal düzenlemelerini yapıyor, yatırımcılarını korumak amaçlı müşterini tanı gibi pek çok prosedürü yürürlüğe koyuyorlar. ‘Müşterini tanı’ (ingilizcesi ‘know-your-customer’ kısaca ‘KYC’) prosedürleri zincir üzerinde de mevcut ancak burada herhangi bir standardizasyon yok. Dijital kimlik ve repütasyon konusunda blokzincir dünyasının geneline yaygınlaşacak bir uygulama henüz ortaya çıkmadı.
+Global bir yapı olan blokzincirin temel değer önerilerinden biri, hemen herkesin erişimine açık olması. Hükümetler ise kendi lokal düzenlemelerini yapıyor, yatırımcılarını korumak amaçlı müşterini tanı gibi pek çok prosedürü yürürlüğe koyuyorlar. ‘Müşterini tanı’ (İngilizcesi ‘know-your-customer’ kısaca ‘KYC’) prosedürleri zincir üzerinde de mevcut ancak burada herhangi bir standardizasyon yok. Dijital kimlik ve repütasyon konusunda blokzincir dünyasının geneline yaygınlaşacak bir uygulama henüz ortaya çıkmadı.
 
 Öte yandan blokzincir, varlıkların zincir üzerinde transferi ve mahsuplaşma konularında klasik enstrümanlara göre kesin bir üstünlüğe sahip olsa da zincir dışı konulara herhangi bir şekilde etki edemiyor. Zincir dışı oluşan anlaşmazlıkların çözülmesi için gereken kanuni altyapılar henüz yetersiz. Bu da gerçek dünya varlıklarının tokenleştirilmesinin önündeki en büyük engel.
 

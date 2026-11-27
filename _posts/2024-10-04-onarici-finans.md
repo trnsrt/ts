@@ -17,7 +17,7 @@ Halbuki gerçek bundan daha farklı. Web3’ün temel değer önerilerinden bir 
 
 ### Ne demek onarıcı finans?
 
-Onarıcı finansı (ingilizcesi Regenerative Finance \- ReFi) kısaca finansa yeni bir bakış açısı getirmeyi hedefleyen bir hareket. Amaç genel olarak ‘içine ettiğimiz’ doğayı ve çevreyi onarmak yoluyla toplumun genel olarak refahını artırmak[^2].
+Onarıcı finansı (İngilizcesi Regenerative Finance \- ReFi) kısaca finansa yeni bir bakış açısı getirmeyi hedefleyen bir hareket. Amaç genel olarak ‘içine ettiğimiz’ doğayı ve çevreyi onarmak yoluyla toplumun genel olarak refahını artırmak[^2].
 
 | ![network](/assets/refugees-1015310_800.jpg)|
 |:--:| 

@@ -26,10 +26,10 @@ Yazılım o kadar başarılı oldu ki, Nisan 2021 itibariyle ETH üzerindeki iş
 
 ### Merge sonrası neler değişti?
 
-Ethereum'un 15 Eylül sonrası uygulamaya giren yeni versiyonunda artık madenciler yok. Onların yerini Ethereum sistemine ETH'lerini rehin etmiş (ingilizcesi stake) onaylayıcılar aldı. Yeni versiyonda işlemler şu şekilde yürüyor:
+Ethereum'un 15 Eylül sonrası uygulamaya giren yeni versiyonunda artık madenciler yok. Onların yerini Ethereum sistemine ETH'lerini rehin etmiş (İngilizcesi stake) onaylayıcılar aldı. Yeni versiyonda işlemler şu şekilde yürüyor:
 
 - Kullanıcı işlemini cüzdanı üzerinden imzalar ve genel işlem havuzuna gönderir (ya da bu iş için kurulan özel aracılara) 
-- Araştırmacı/tarayıcı (ingilizcesi 'Searcher') kârlı işlemleri bir araya getirip, blok üreticilerine verir. 
+- Araştırmacı/tarayıcı (İngilizcesi 'Searcher') kârlı işlemleri bir araya getirip, blok üreticilerine verir. 
 - Blok üreticileri, blokları üretip onaylayıcıların onayına sunar. 
 - Onaylayıcılar ise kendilerine sunulan bloklardan en kârlısını (en yüksek işlem ücreti önereni) onaylayarak blok oluşumuna izin verir. 
 
@@ -49,7 +49,7 @@ Ethereum'un yeni versiyonu ile birlikte, Flashbots eski sistemde kullandığı M
 
 Aslına bakarsanız MEV-Boost Ethereum'un gelecekteki yol haritasının önemli bir parçası ve sistem oyuncuları arasında 'kuvvetlerin ayrılığı' prensibini getirecek olan PBS (blok teklif edenler ile blok üreticilerin ayrılması İngilizce proposer-builder-separation) geliştirmesinin bir ön provası olarak görülebilir. Bu yazılım, gerek tarayıcılar gerekse blok üreticileri tarafından kullanılan şeffaf bir sistem. Blok üretim işini makinelerin tek başlarına yapmak yerine büyük blok üreticilerine devretmesini (outsource etmesini) sağlayan bu sistem, o kadar başarılı oldu ki, şu an [üretilen blokların %90'ında MEV-Boost yazılımı kullanılıyor](https://web.archive.org/web/20221212141030/https://explore.flashbots.net). 
 
-Bu sefer de başka bir sorun ortaya çıktı. O da Flashbots'un işlem taleplerini tarayıcılardan blok üreticilerine ileten kendi aracıları (bunlara taşıyıcı da denebilir ingilizcesi relayer) üzerinden gelen işlemlere sansür uygulaması. Flashbots ABD'de kurulu bir şirket. ABD'nin kara para aklama ile ilgili iki kuruluşundan biri olan OFAC'ın Tornado Cash uygulamasını ve bu uygulamayı kullanan adresleri kara listeye aldığına [önceki bir yazımızda](/genel/2022/08/31/Ethereum-sansure-nasil-tepki-verecek.html) değinmiştik. İşte, Flashbots da bu yaptırımlara uyarak, kendine ait taşıyıcılara sansür uygulamaya başladı. 
+Bu sefer de başka bir sorun ortaya çıktı. O da Flashbots'un işlem taleplerini tarayıcılardan blok üreticilerine ileten kendi aracıları (bunlara taşıyıcı da denebilir İngilizcesi relayer) üzerinden gelen işlemlere sansür uygulaması. Flashbots ABD'de kurulu bir şirket. ABD'nin kara para aklama ile ilgili iki kuruluşundan biri olan OFAC'ın Tornado Cash uygulamasını ve bu uygulamayı kullanan adresleri kara listeye aldığına [önceki bir yazımızda](/genel/2022/08/31/Ethereum-sansure-nasil-tepki-verecek.html) değinmiştik. İşte, Flashbots da bu yaptırımlara uyarak, kendine ait taşıyıcılara sansür uygulamaya başladı. 
 
 Bunun sonucu olarak yeni versiyona geçtikten sonra Ethereum üzerindeki işlemlerin yaklaşık %72'si sansürlenmeye başladı. Aşağıdaki tabloda, 15 Eylül'den bu yana oluşan bloklardaki işlemleri görüyorsunuz.
 
@@ -106,7 +106,7 @@ Konuya daha fazla ilgi duyanlar, bu alandaki tüm önemli kaynakları bir araya 
 
 Dipnotlar:
 
-[^1]: "Bu iki problemi nasıl çözdüler?" diye soracak olursanız: Önceden kullanılan 'en yüksek parayı veren en yukarı çıkar' yönteminde tarayıcılar blokzincir üzerine emir göndererek işlemlerini önceliklendirmeye çalışırlardı. Bu da pek çok başarısız emir nedeniyle zincirin gereksiz yere dolmasına neden oluyordu. MEV-Geth ile işlemleri demetler (ingilizcesi bundle) haline getirip, zincir-dışı olarak göndermeye başladılar. Oluşturulan pazaryerinde tarayıcılar hazırladıkları demetleri gönderiyorlar ve MEV-Geth en kârlı olanları alıp işleme sokuyor. Böylece madencilerin de kârı artıyor. 
+[^1]: "Bu iki problemi nasıl çözdüler?" diye soracak olursanız: Önceden kullanılan 'en yüksek parayı veren en yukarı çıkar' yönteminde tarayıcılar blokzincir üzerine emir göndererek işlemlerini önceliklendirmeye çalışırlardı. Bu da pek çok başarısız emir nedeniyle zincirin gereksiz yere dolmasına neden oluyordu. MEV-Geth ile işlemleri demetler (İngilizcesi bundle) haline getirip, zincir-dışı olarak göndermeye başladılar. Oluşturulan pazaryerinde tarayıcılar hazırladıkları demetleri gönderiyorlar ve MEV-Geth en kârlı olanları alıp işleme sokuyor. Böylece madencilerin de kârı artıyor. 
 
 [^2]: Bu alanda merkeziyesizliği teşvik etmek için Flashbots'un Flashbots Builder isimli blok üreticisi yazılımı [açık kaynak haline getirdiğini](https://writings.flashbots.net/open-sourcing-the-flashbots-builder) de ekleyelim. 
 

@@ -52,7 +52,7 @@ Platformsuzlaştırmanın bir başka örneğini, bir zamanlar Facebook üzerinde
 
 ## Çare merkeziyetsiz sosyal medya… mı? {#care-merkeziyetsiz-sosyal-medya-mi}
 
-Web3 dünyasının son zamanlarda yükselen alanlarından biri olan merkeziyetsiz sosyal medya (ingilizcesi Decentralized Social kısaca DeSoc), kullanıcı ve içerik üreticilerinin yukarıda saydığımız sıkıntılarına çare olmaya çabalıyor.
+Web3 dünyasının son zamanlarda yükselen alanlarından biri olan merkeziyetsiz sosyal medya (İngilizcesi Decentralized Social kısaca DeSoc), kullanıcı ve içerik üreticilerinin yukarıda saydığımız sıkıntılarına çare olmaya çabalıyor.
 
 Bu kısımda sosyal medya alanının hakimi olan merkezi yapılara karşı alternatif olarak ortaya çıkan ve altyapı hizmeti veren platformlara değineceğiz. Merkeziyetsiz bir şekilde yapılanan bu platformların temeli ‘kullanıcının dijital dünyada ürettiği içerik ve kurduğu ilişkiler üzerinde tam sahipliğinin olması’ prensibine dayanıyor.
 

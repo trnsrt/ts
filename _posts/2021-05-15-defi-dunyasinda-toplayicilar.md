@@ -38,7 +38,7 @@ En önemli konu, tabii ki işlem fiyatı. Her bir borsada arz ve talebin farklı
 
 Öte yandan, borsada bulunan likidite de önemli. Zira likit olmayan bir token alımında, fiyatın ufak bir alım ya da satım hareketinde ciddi bir hareket göstermesi mümkün. 
 
-Bir başka konu ise, kullanıcının alım yapmak istediği sırada başka alıcıların da işlem yapması sonucu fiyatın bir anda değişebilmesi. Burada kullanıcı ne kadarlık bir fiyat değişimine (ki buna slippage deniyor ingilizcede) izin vereceğini (genelde %1, %2 gibi seçilebiliyor) seçebiliyor. 
+Bir başka konu ise, kullanıcının alım yapmak istediği sırada başka alıcıların da işlem yapması sonucu fiyatın bir anda değişebilmesi. Burada kullanıcı ne kadarlık bir fiyat değişimine (ki buna slippage deniyor İngilizcede) izin vereceğini (genelde %1, %2 gibi seçilebiliyor) seçebiliyor. 
 
 Son olarak, kullanıcının işlem yaparken ne kadar hızlı işlemi gerçekleştirmek istediği de önemli. Eğer çok hızlı bir şekilde işleminin gerçekleştirmek istiyorsa, o zaman blokzincir sırasında öne geçebilir ancak bunun ciddi bir maliyeti var. Ya da alternatif olarak 'benim işim acele ya da kritik değil' diye düşünerek daha düşük bir madenci işlem ücreti seçebilir.. Ama böyle bir durumda, hem gecikmeye razı olmalı hem de o işlem blokzincire yazılana kadar araya giren başkaları olabileceği için fiyatın değişme riskini göze almalı. 
 
@@ -50,7 +50,7 @@ Son olarak, kullanıcının işlem yaparken ne kadar hızlı işlemi gerçekleş
 |:--:| 
 | *Image by [mohamed Hassan](https://pixabay.com/users/mohamed_hassan-5229782/) from [Pixabay](https://pixabay.com/)*|
 
-İşte DeFi burada kullanıcının imdadına yetişiyor. Toplayıcı (ingilizcesi aggregator) dediğimiz merkeziyetsiz hizmet sağlayıcılar, kullanıcının işlem yapmak istediğinde, hemen bütün merkeziyetsiz borsalar ile iletişim kuruyor, token için en iyi fiyat vereni buluyor ve kullanıcının önüne getiriyor. 
+İşte DeFi burada kullanıcının imdadına yetişiyor. Toplayıcı (İngilizcesi aggregator) dediğimiz merkeziyetsiz hizmet sağlayıcılar, kullanıcının işlem yapmak istediğinde, hemen bütün merkeziyetsiz borsalar ile iletişim kuruyor, token için en iyi fiyat vereni buluyor ve kullanıcının önüne getiriyor. 
 
 Bunun yanında toplayıcıların şöyle bir avantajı da bulunuyor: Kullanıcı normalde elinde bulunan bir tokeni bir merkeziyetsiz borsada satmak isterse öncelikle o tokunda işlem yapabilme hakkını o borsaya vermesi gerekiyor. Nasıl oluyor bu? Çok basit: İşlem yapmaya karar verdiğinde kullandığı elektronik cüzdan ondan iki konuda izin istiyor. Birincisi o borsanın parasını kullanması konusunda ikincisi de o fiyattan satabilmesi konusunda. Bu da blokzincire işlenecek iki farklı işlem demek. Ethereum blokzincirinin yoğunluğunu düşünürseniz, birinci işlem (parayı kullanmaya izin verme) nereden baksanız 5-10 ABD Doları tutuyor.. 
 

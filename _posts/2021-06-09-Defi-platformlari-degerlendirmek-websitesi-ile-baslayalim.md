@@ -49,7 +49,7 @@ Bunların dışında daha fazla bilgi almak ya da protokolü kullanmak isteyenle
 
 DeFi protokolleri, geçtiğimiz yıllarda biraz da geliştiricilerin protokol içindeki ağırlığının etkisiyle kullanışlı değillerdi. Zira kısıtlı kaynaklar, daha çok ürünü geliştirmeye kanalize edilmişlerdi. 
 
-Zaman geçtikçe, bu konuda bir değişim yaşanmaya başladı. Öncelikle olgunlaşmaya başlayan projeler, sadece erken benimseyen kullanıcı (ingilizcesi 'early adopter') değil daha geniş kitlelere doğru açılmak ihtiyacı hissettiler. Topluluklara yatırım yapan girişim sermayesinin maddi olarak önlerini açmasıyla birlikte, ekiplere pazarlama anlamında daha fazla insan kaynağı eklenmeye başladı. Bu gelişme sonrası siteler daha kullanıcı dostu, ürünü ve topluluğu layıkıyla tanıtır hale geldi.
+Zaman geçtikçe, bu konuda bir değişim yaşanmaya başladı. Öncelikle olgunlaşmaya başlayan projeler, sadece erken benimseyen kullanıcı (İngilizcesi 'early adopter') değil daha geniş kitlelere doğru açılmak ihtiyacı hissettiler. Topluluklara yatırım yapan girişim sermayesinin maddi olarak önlerini açmasıyla birlikte, ekiplere pazarlama anlamında daha fazla insan kaynağı eklenmeye başladı. Bu gelişme sonrası siteler daha kullanıcı dostu, ürünü ve topluluğu layıkıyla tanıtır hale geldi.
 
 ### Websitesini incelerken nelere dikkat etmeli?
 Web sitesi, aslında topluluğun kültürü hakkında bize ipuçları verebiliyor. 

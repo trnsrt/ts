@@ -27,7 +27,7 @@ Blokzincirlerin en büyük ölçeklenme sıkıntısı üretilen blok büyüklü�
 
 İşte Ethereum sistemi olabildiğince makinenin sistem içinde olması yani sistemin olabildiğince merkeziyetsiz olabilmesi için, kendi sistemini bölmeye başlıyor. Öncelikle geçen yazımızda da bahsettiğimiz gibi, Ethereum ikinci seviye çözümler ile birlikte artık kendi onaylayıcıların üzerindeki yükü [^1] atmaya çalışıyor. Nasıl yapıyor bunu?
 
-Öncelikle, işlem yapma (ingilizcesi 'execution') rolünü, ağırlıklı olarak ikinci seviye çözümlere paslıyor. Böylece, ağır işlemler ikinci seviye çözümler aracılığıyla gerçekleştiriliyor. İkinci seviye çözümler yaptıkları işlemlerin sonuçlarını ana Ethereum ağına yazıyorlar. Böylece ana Ethereum ağı ikinci seviye üzerindeki her işlemi tekrar yapmak zorunda kalmıyor.
+Öncelikle, işlem yapma (İngilizcesi 'execution') rolünü, ağırlıklı olarak ikinci seviye çözümlere paslıyor. Böylece, ağır işlemler ikinci seviye çözümler aracılığıyla gerçekleştiriliyor. İkinci seviye çözümler yaptıkları işlemlerin sonuçlarını ana Ethereum ağına yazıyorlar. Böylece ana Ethereum ağı ikinci seviye üzerindeki her işlemi tekrar yapmak zorunda kalmıyor.
 
 İkinci olarak, ileride talebin çok fazla olması durumunda blok oluşturmanın yarattığı ağır yükü kaldırabilmek için blok üretimini güçlü ama sayıca az (dolayısıyla daha merkezi) bir grup üreticiye bırakıyorlar.  İşte merkezileşme tehlikesi burada beliriyor. Bu tehlikeyi ortadan kaldırabilmek için, işlemlerin doğru olduğunu kontrol işlemini olabildiğince merkeziyetsizleştirme yoluna gidiyorlar.
 

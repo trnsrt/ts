@@ -14,7 +14,7 @@ Ethereum dünyası, 15 Eylül'de çıkan yeni versiyonu sonrasında geliştirmel
 ### Neydi 'The Merge'?
 "Kripto dünyasında yer gök 'merge' ile inliyor - iyi güzel de nedir bu 'The Merge'?". Efendim, 'merge' yani Türkçesi ile 'birleşme' uzun zamandır planlanan büyük bir değişim. 
 
-Değişimin temel nedeni, Ethereum topluluğunun Bitcoin ile birlikte ortaya çıkan, ağın korunması ve işler halde devam etmesi için kullanılan iş-kanıtı (ingilizcesi Proof-of-Work kısaca PoW) sistemini bırakıp, daha yeni bir teknoloji olan hisse-kanıtı (ingilizcesi Proof-of-Stake kısaca PoS) sistemine geçmesi. 
+Değişimin temel nedeni, Ethereum topluluğunun Bitcoin ile birlikte ortaya çıkan, ağın korunması ve işler halde devam etmesi için kullanılan iş-kanıtı (İngilizcesi Proof-of-Work kısaca PoW) sistemini bırakıp, daha yeni bir teknoloji olan hisse-kanıtı (İngilizcesi Proof-of-Stake kısaca PoS) sistemine geçmesi. 
 
 'Merge' ile birlikte, bugüne kadar kullanılan Ethereum sisteminin PoW kısmı atılıyor ve bu sistem Aralık 2020'den beri aktif olarak PoS'u kullanan  yeni Ethereum'un içine katılıyor. 
 
@@ -36,7 +36,7 @@ Sonrasında hem çok karmaşık, hem de riskli olacağı düşüncesiyle bu kurg
 
 Blokzincirler temel olarak herkese açık bir defter olarak çalışıyorlar. Ağ üzerindeki tüm transferler bu açık deftere yazılıyor. Ethereum'da sadece basit para transferleri değil, daha karmaşık finansal işlemlerin de yapılması söz konusu. İşte bu karmaşık işlemler, sistem üzerindeki yükü artırmaya başlıyor. 
 
-Nasıl bir yük artması oluyor? Basitçe şöyle anlatalım: Şu anda Ethereum üzerindeki her bir makine (diğer teknik anlatımıyla düğüm ingilizcesi 'node'), blok üzerinde gerçekleşen tüm işlemleri tek tek yeniden hesaplıyor. Bunu yaparak tüm işlemlerin doğru olduğunu kontrol etmiş oluyor.  Ethereum sisteme çok fazla yük binmesin diye bu işlem hesaplaması kapasitesine bir sınır koyuyor. Bu nedenle çok talep olduğunda kapasitenin bu talebi karşılayamamasından dolayı işlem ücretleri artıyor (zamanında bir NFT alımı için 100 ABD Doları üzerindeki paralar kısıtlı kapasitede işlemleri önce yapabilmek için veriliyordu). 
+Nasıl bir yük artması oluyor? Basitçe şöyle anlatalım: Şu anda Ethereum üzerindeki her bir makine (diğer teknik anlatımıyla düğüm İngilizcesi 'node'), blok üzerinde gerçekleşen tüm işlemleri tek tek yeniden hesaplıyor. Bunu yaparak tüm işlemlerin doğru olduğunu kontrol etmiş oluyor.  Ethereum sisteme çok fazla yük binmesin diye bu işlem hesaplaması kapasitesine bir sınır koyuyor. Bu nedenle çok talep olduğunda kapasitenin bu talebi karşılayamamasından dolayı işlem ücretleri artıyor (zamanında bir NFT alımı için 100 ABD Doları üzerindeki paralar kısıtlı kapasitede işlemleri önce yapabilmek için veriliyordu). 
 
 Sistem üzerindeki yük artmasının ne sıkıntısı var? Yük arttıkça, düğümlerin sistemi yürütmesi zorlaşıyor. Basit bilgisayarlar yerine daha gücü ve kapasitesi yüksek bilgisayarlara ihtiyaç duyuluyor. Basit bilgisayarlar yerini güçlü bilgisayarların alması ise sistemin merkezileşmesine yol açıyor ki, Ethereum geliştiricilerinin en korktuğu konuların başında bu merkezileşme geliyor. **Merkezileşme demek, sistemin dış saldırılara ya da etkilere daha açık hale gelmesi demek.** (Örneğin Solana ağı yüksek işlem yapmaya ayarlı olduğu için nispeten daha pahalı makineleri düğüm olarak kullanmak zorunda kalıyor)
 

@@ -12,7 +12,7 @@ DeFi'nin klasik finanstan farklarına değindiğimiz yazı dizimizimin bu bölü
 DeFi alanındaki girişimler klasik finans alanındaki girişimlere göre pek çok açıdan farklılık gösteriyorlar. Bu farklılıkların en önemlilerinden biri sektöre giriş konusunda yaşanan engeller. Gelin hızlıca bakalım ne demek istediğimize: 
 
 ### Klasik finansta işler nasıl yürüyor?
-Klasik finansın herhangi bir alanında bir girişim kurmak ve onu büyütmek oldukça zor hatta neredeyse imkansıza yakın. Bunun temel nedeni, sektöre girmek için çıtanın yüksek olması (ingilizcede 'barriers to entry'). Gelin biraz açalım bunu. 
+Klasik finansın herhangi bir alanında bir girişim kurmak ve onu büyütmek oldukça zor hatta neredeyse imkansıza yakın. Bunun temel nedeni, sektöre girmek için çıtanın yüksek olması (İngilizcede 'barriers to entry'). Gelin biraz açalım bunu. 
 
 Yazı dizimizin geçmiş bölümlerinden birinde, klasik finansın en farklı yanının kullanıcının varlığını emanet alması olduğuna değinmiştik. 'Başkasının parasını almak/kullanmak' büyük bir sorumluluk ve beraberinde belli yükümlülükler getiriyor. 
 

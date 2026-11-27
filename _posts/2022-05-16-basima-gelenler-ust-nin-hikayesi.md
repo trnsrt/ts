@@ -12,7 +12,7 @@ Bu yazımızda geçtiğimiz hafta sonu yaşanan Terra ağı çıkışlı stabil 
 Ödeme sistemleri üzerine uzmanlaşmaya çalışan Terra blokzinciri tarafından çıkarılan stabil para UST, geçtiğimiz hafta sonunda yaşanan ataklardan dolayı ABD dolarına olan çıpasını kaybetti. Gelin önce hızlıca stabil para nedir kavramına bakalım, arkasından UST'deki temel sorun neydi ona yanıt arayalım. 
 
 ### Neydi stabil paralar? USDT, USDC, DAI... Farkları ne?
-Stabil para, değeri belirli bir itibari paraya çıpalanmış para demek (İngilizce de 'peg' çakılmış, çivilenmiş anlamında kullanılıyor). İtibari para dediğimiz, ingilizcede fiat para olarak geçen, merkez bankaları tarafından çıkarılmış paralar. Aslına bakarsanız stabil para pazarının neredeyse tamamı ABD Dolarından oluşuyor. 
+Stabil para, değeri belirli bir itibari paraya çıpalanmış para demek (İngilizce de 'peg' çakılmış, çivilenmiş anlamında kullanılıyor). İtibari para dediğimiz, İngilizcede fiat para olarak geçen, merkez bankaları tarafından çıkarılmış paralar. Aslına bakarsanız stabil para pazarının neredeyse tamamı ABD Dolarından oluşuyor. 
 
 Stabil paralar önemli, zira merkeziyetsiz dünyanın ihtiyaç duyduğu likiditeyi sağlıyorlar. Yatırımcılar için de BTC, ETH gibi temel kriptoparaların dalgalı dünyasında paralarını park edecekleri güvenli bir liman işlevi görüyorlar. Bir yandan da onlara kullandırdıkları bu likidite karşılığı güzel bir kazanç kapısı sağlıyorlar. 
 

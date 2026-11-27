@@ -24,7 +24,7 @@ Bugün özellikle ABD’de hemen hemen her hastalıktan muzdarip olanların kurd
 
 ## Nasıl ortaya çıkmış Vibe Bio? {#nasil-ortaya-cikmis-vibe-bio}
 
-[Vibe Bio](https://www.vibebio.com/)‘nun kurucusu olan [Alok Tayi](https://twitter.com/aloktayi), ABD’nin elit üniversitelerinde çalışmış bir bilim insanı. 15 yıl boyunca hem bilimsel araştırmalar hem de seri girişimcilik yapmış bir isim. Tayi ve eşinin 2021 yılında ilk bebeklerinin dünyaya gelmesi sonrası yaşadıkları, onların hayatında dönüm noktası olmuş. Oldukça rahat geçen bir hamilelik sonrası hayata gözlerini açan bebeğe nadir görülen bir hastalık teşhisi konmuş. Tıp bilimi henüz hastalığın nasıl tedavi edilebileceği konusunda bir çare bulamadığı için bebek aylarca hastanede kalmak zorunda kalmış. Hastalığı öğrendikleri andan itibaren büyük bir yalnızlık ve çaresizlik yaşayan çift, bu süreçte en büyük desteği benzer hastalığı yaşayan ailelerden görmüşler.
+[Vibe Bio](https://www.vibebio.com/)’nun kurucusu olan [Alok Tayi](https://twitter.com/aloktayi), ABD’nin elit üniversitelerinde çalışmış bir bilim insanı. 15 yıl boyunca hem bilimsel araştırmalar hem de seri girişimcilik yapmış bir isim. Tayi ve eşinin 2021 yılında ilk bebeklerinin dünyaya gelmesi sonrası yaşadıkları, onların hayatında dönüm noktası olmuş. Oldukça rahat geçen bir hamilelik sonrası hayata gözlerini açan bebeğe nadir görülen bir hastalık teşhisi konmuş. Tıp bilimi henüz hastalığın nasıl tedavi edilebileceği konusunda bir çare bulamadığı için bebek aylarca hastanede kalmak zorunda kalmış. Hastalığı öğrendikleri andan itibaren büyük bir yalnızlık ve çaresizlik yaşayan çift, bu süreçte en büyük desteği benzer hastalığı yaşayan ailelerden görmüşler.
 
 Hasta yakınlarının bir araya gelerek ortaya koydukları güçlü bağ, Tayi’ye ilginç bir iş fikri vermiş. Hastalıkları çözmenin önündeki en büyük engelin tedavinin ne olacağı değil o tedaviyi hayata geçirecek yatırım eksikliği olduğunu keşfetmiş. Aynı zamanda bu sorunun ancak bu alana kendini adamış bir topluluk tarafından çözülebileceğine inanmış. Yanıtını aradığı şu soru onu Vibe Bio’nun kuruluşuna götürmüş: ‘Acaba hastayı merkeze alan DAO benzeri bir mekanizma ile, hasta yakınları, konunun uzmanları ve biyoteknoloji firmalarını bir araya getirecek bir yapı kurarak, nadir hastalıkların çözümüne finansman sağlayabilir miyiz?’.
 
@@ -44,7 +44,7 @@ DAO, biyoteknoloji alanında faaliyet gösteren girişim sermayelerine de ilgin�
 
 Bir diğer paydaş işin uzmanları. Topluluğun, üzerinde çalışmalar yapılacak hastalıkların belirlenmesi, fizibilite çalışmalarının yapılması, bu alanda çalışacak laboratuvarların belirlenmesi, süreçlerin takip edilmesi konusunda da uzmanlara ihtiyacı var. Bu uzmanlar, büyük ilaç firmalarında çalışmak yerine topluluk ile birlikte çalışarak, hastalara daha yakın olmak isteyebilirler. Gönüllülük esasına dayalı olarak sürdürülmesi oldukça zor olan bu sistemde verilecek tokenler önemli bir cazibe merkezi olabilir.
 
-## Hangi alanlara girmişler? {#hangi-alanlara-girmisler}
+## Vibe Bio hangi alanlara girmiş? {#hangi-alanlara-girmisler}
 
 Vibe Bio’yu bir deney olarak görmek mümkün. Henüz Haziran 2022’de kurulan girişim, başlangıçta kendisine [12 milyon dolar yatırım almış](https://twitter.com/VibeBio/status/1539580110344491008?s=20). Yatırımcıları arasında Naval Ravikant, Balaji Srinivasan ve Mike Dudas’ın başını çektiği hatırı sayılır bir grup bulunmakta.
 

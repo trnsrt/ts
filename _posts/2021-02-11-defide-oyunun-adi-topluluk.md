@@ -25,7 +25,7 @@ Dolayısıyla, klasik dünya yukarıdaki müşteriye sahip olma (Customer acquis
 
 DeFi, klasik dünyanın temel taşlarını yeni baştan tasarlayan, oyunun kurallarının yeniden yazan bir oluşum. Buna paralel olarak, müşteriye bakış açısı klasik dünyaya göre çok daha farklı.  Nasıl? 
 
-DeFi açık bir protokol. Açık protokol ne demek? Açık protokol, özünde isteyenin istediği zaman gelip kullanabileceği ve istediği zaman çıkabileceği yapılar demek (ingilizcede permissionless yani izin gerektirmeyen). Yalnızca kullanıcı tarafında değil ürün geliştirici tarafında da - isteyenin istediği bir yapının kodlarını alıp yenisini yaratabilmesi demek. Peki bunun doğurduğu sonuçlar neler? 
+DeFi açık bir protokol. Açık protokol ne demek? Açık protokol, özünde isteyenin istediği zaman gelip kullanabileceği ve istediği zaman çıkabileceği yapılar demek (İngilizcede permissionless yani izin gerektirmeyen). Yalnızca kullanıcı tarafında değil ürün geliştirici tarafında da - isteyenin istediği bir yapının kodlarını alıp yenisini yaratabilmesi demek. Peki bunun doğurduğu sonuçlar neler? 
 
 Kullanıcı tarafından bakarsak, açık protokol gücü kullanıcıya veriyor. Bu sayede, kullanıcı hiçbir DeFi platformuna bağlı kalmak zorunda değil. Bugün kullanır, yarın gider başkasını kullanır, öbür gün geri gelir. Klasik dünyadan oldukça farklı bir dinamik. 
 

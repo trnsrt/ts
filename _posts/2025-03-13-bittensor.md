@@ -29,7 +29,7 @@ Bittensor, bu devlerin kontrolü altına girmek istemeyen bağımsız girişimle
 
 ### Nasıl bir yapıya sahip?
 
-Bittensor, ilk olarak 2021 yılında sadece 'yazı komutu üretme' (ingilizcesi 'text prompt') üzerine kurulu bir pazar yeri olarak hizmet vermeye başlamış. Sonrasında Ekim 2023'de büyük bir değişimden geçerek pazar yeri içinde farklı farklı 'özel alanların' kurulduğu bir ağ haline gelmiş.
+Bittensor, ilk olarak 2021 yılında sadece 'yazı komutu üretme' (İngilizcesi 'text prompt') üzerine kurulu bir pazar yeri olarak hizmet vermeye başlamış. Sonrasında Ekim 2023'de büyük bir değişimden geçerek pazar yeri içinde farklı farklı 'özel alanların' kurulduğu bir ağ haline gelmiş.
 
 Subnet adı verilen bu alanların sayısı başlangıçta 32 iken zamanla artarak [61'e çıkmış](https://www.bittensor.ai/subnets)[^3]. 
 
@@ -58,7 +58,7 @@ Toplam TAO miktarı 21 milyon ile sınırlı. Az önce bahsettiğimiz Subnet'ler
 
 Her bir Subnet içinde madenci ('miner') denen hizmet sağlayıcılar bulunuyor. Örneğin, görsel içerik üretimine odaklanan Subnet içindeki madenciler kullanıcıların kendilerinden istediği görselleri üretiyorlar. 
 
-Onaylayıcı (ingilizcesi 'validator') denen aktörler ise, yakın bir zamana kadar, madencilerin belirli bir süre içinde ürettiği çıktıları ne kadar tatmin edici olduklarına göre oyluyorlardı. Onaylayıcıların oylamaya katılmak için sisteme TAO rehin etmeleri gerekiyordu. Bittensor tarafından verilen ödül, bütün bu rating'e göre Subnet'lere bölüştürülüyordu.
+Onaylayıcı (İngilizcesi 'validator') denen aktörler ise, yakın bir zamana kadar, madencilerin belirli bir süre içinde ürettiği çıktıları ne kadar tatmin edici olduklarına göre oyluyorlardı. Onaylayıcıların oylamaya katılmak için sisteme TAO rehin etmeleri gerekiyordu. Bittensor tarafından verilen ödül, bütün bu rating'e göre Subnet'lere bölüştürülüyordu.
 
 Bu yöntemin en sıkıntılı tarafı, en büyük 10 onaylayıcının toplam stake edilen tokenlerin %78'ine sahip olması. Böyle olunca bu onaylayıcıların istediği Subnet'ler yaşıyor, istemedikleri ise ödüllerden mahrum kalarak ölüme terk ediliyordu. Bunun yanında gitgide artan Subnet sayısı nedeniyle onaylayıcıların hangi Subnet daha başarılı değerlendirmesini yapması da oldukça zorlaşıyordu. 
 
@@ -97,7 +97,7 @@ Bittensor önündeki engellerden dolayı belki de hedeflediği büyüklüklere u
 [^1]: Bu girişimler verinin depolanması, işlenmesi, model yaratılması gibi yapay zekanın geniş bir alanına dağılıyorlar. Detaylar yazının içinde. 
 [^2]: Üstelik bütün bu modeller kapalı yani içinde ne olduğunu ya da kullandıkları verinin nasıl işlendiğini görmek mümkün değil. En popüler ama kapalı bir model olan ChatGPT'yi çıkaran şirketin adının OpenAI olması da bir oksimoron. Neyse ki, eskinin Facebook yeni adıyla Meta'nın sahibi Mark Zuckerberg var da açık modellere erişim hâlâ söz konusu. Açık model demişken, onca eleştiriye rağmen Çin merkezli DeepSeek'in de sektörde deprem yarattığını belirtmek gerek. 
 [^3]: Toplam sayı 64 olsa da üç tane Subnet şu an bağlantısı verilen listede aktif görünmüyor. Bu arada Subnet sayısının 1024'e çıkması gibi bir hedef de [bulunmakta](https://cryptolived.com/news/full-analysis-of-bittensor-s-34-subnets-and-development-trends-an-in-depth-perspective/). 
-[^4]: İsteyen herkes Subnet kurabiliyor. Subnet'i kuran kişiler (ingilizcesi 'owner') Subnet'in teşvik mekanizmasını da belirliyorlar. Örneğin, verilen hizmeti daha hızlı ve daha doğru verene daha fazla ödül dağıtılması gibi.
+[^4]: İsteyen herkes Subnet kurabiliyor. Subnet'i kuran kişiler (İngilizcesi 'owner') Subnet'in teşvik mekanizmasını da belirliyorlar. Örneğin, verilen hizmeti daha hızlı ve daha doğru verene daha fazla ödül dağıtılması gibi.
 [^5]: Başlangıçta Polkadot ağı içinde bir zincir ('parachain') olarak başlayan Bittensor sonrasında kendine ait bir zincir kuruyor. 
 [^6]: Tüm sistemin yönetim modeli iki kamaralı şekilde [gerçekleşiyor](https://docs.bittensor.com/governance). Yapılacak değişiklikler sistemin lokomotifi olan Opentensor Foundation tarafından öneri olarak hazırlanıyor ve elinde yüksek miktarda TAO tutan bir grup tarafından oluşturulmuş Senato tarafından onaylanırsa yürürlüğe giriyor.
 [^7]: Bu token serbest piyasada alınıp satılamıyor. 

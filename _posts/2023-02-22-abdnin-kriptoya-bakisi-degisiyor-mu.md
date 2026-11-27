@@ -21,7 +21,7 @@ Aslına bakarsanız, 2022 yılı içinde yaşadığımız önce UST/Luna arkası
 |:--:| 
 | *Image by [falco](https://pixabay.com/users/falco-81448/) from [Pixabay](https://pixabay.com/)*|
 
-Yaşananlar içinde asıl şaşırtıcı olan farklı otoritelerden hızlı bir şekilde peşi sıra hareketler gelmesi oldu. Öyle ki, bu hareketleri 'Yol daraltma harekatı' (ingilizcesi Operation Chokepoint) olarak [adlandıranlar oldu](https://www.piratewires.com/p/crypto-choke-point).  Neler oldu peki? 
+Yaşananlar içinde asıl şaşırtıcı olan farklı otoritelerden hızlı bir şekilde peşi sıra hareketler gelmesi oldu. Öyle ki, bu hareketleri 'Yol daraltma harekatı' (İngilizcesi Operation Chokepoint) olarak [adlandıranlar oldu](https://www.piratewires.com/p/crypto-choke-point).  Neler oldu peki? 
 
 - Aralık ayı başında kriptonun en büyük kritiklerinden olan senatör [Elizabeth Warren](https://en.wikipedia.org/wiki/Elizabeth_Warren), birkaç meslektaşı ile birlikte kripto dünyasının büyük oyuncularının kullandığı en büyük banka olan [Silvergate Bank](https://www.silvergate.com/)'e bir [mektup gönderdi](https://www.coindesk.com/business/2022/12/06/crypto-bank-silvergate-slides-further-after-letter-from-senator-warren/). Warren mektupta Silvergate'i FTX ve kardeşi Alameda Research'e hizmet vermekle ve şüpheli işlemlerini raporlamamakla suçladı. Ardından 2 Şubat'ta Adalet Bakanlığı dolandırıcılık birimi, Silvergate Bank'e FTX ve Alameda ile ilişkilerinden dolayı [soruşturma açtı](https://archive.is/fF2i3). 
 - Yine Aralık başında, kripto dünyasına hizmet veren bir başka büyük olan [Signature Bank](https://www.signatureny.com/), kripto müşterilere ait emanetinde tuttuğu mevduat miktarını 23 milyar ABD Dolarından 10 milyar ABD Dolarına [indireceğini açıkladı](https://finance.yahoo.com/news/signature-bank-sbny-reduce-crypto-130301487.html). 
@@ -76,7 +76,7 @@ Coinbase ise bu anlamda çok daha şeffaf bir hizmet veriyor. Üstelik staking, 
 
 Düzenleyici kurumların aldıkları aksiyonlar her ne kadar kripto dünyasında korkuyla karşılanmış olsa da olanları sakin bir şekilde değerlendirmekte fayda var. Bankacılık otoritesinin bankaları kripto faaliyetlerinden uzaklaştırmak istemesi tedirginlik yaratsa da, ortada bir 'yasaklama' olmadığını belirtmek lazım. Kripto bir yatırım aracı olarak kendini yavaş yavaş kanıtlıyor ve bir yere gitmeyeceğini gösteriyor. ABD felsefe olarak inovasyonu ön planda tutan bir ülke. Kripto alanındaki yeniliklerin ülke dışına çıkmasını istemeyeceklerdir. 
 
-SEC'nin aksiyonlarının ise 'tüketiciyi yanıltan' ya da bu anlamda zayıf halka olan merkezi yapılar üzerinde yoğunlaşmasını bekliyorum. Özellikle “staking yasaklanacak” benzeri söylemlerin gereksiz korku (ingilizce FUD) yaratmak dışında bir gerçekliği yok. Servisler ve hizmetler ne kadar merkeziyetsiz olurlarsa o kadar SEC’nin “şefkatli kollarından” uzak kalacaklar. 
+SEC'nin aksiyonlarının ise 'tüketiciyi yanıltan' ya da bu anlamda zayıf halka olan merkezi yapılar üzerinde yoğunlaşmasını bekliyorum. Özellikle “staking yasaklanacak” benzeri söylemlerin gereksiz korku (İngilizce FUD) yaratmak dışında bir gerçekliği yok. Servisler ve hizmetler ne kadar merkeziyetsiz olurlarsa o kadar SEC’nin “şefkatli kollarından” uzak kalacaklar. 
 
 Sürece yukarıdan baktığımızda şunu görüyoruz: Bundan bir süre önceye kadar ABD’de mevcut yönetim birimlerinin çeşitli politika kararları ile kripto alanını düzenleyebileceği düşünülüyordu. **Geçtiğimiz yıl yaşananlardan sonra bir anlayış değişikliği oldu ve bu alana özgü özel bir kanun çıkarılması gerektiği konusunda artık herkes hemfikir.** 
 

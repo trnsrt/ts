@@ -25,7 +25,7 @@ Geçtiğimiz yılın son aylarındaki fiyat hareketlerine baktığımızda, Ethe
 
 Peki neden böyle bir performans ile karşılaştık? Neden bitcoin ve SOL hızlı hareket ederken ether geride kaldı?
 
-İlk olarak, kriptopara piyasalarının hâlâ emekleme aşamasında olduğunu ve klasik yatırım ürünlerinde bakılan temel kriter olan 'yaratılan değer' kavramının bu piyasalarda henüz oluşmadığını belirtmek gerek. Bu durum  kripto piyasalarını spekülatif hareketlere çok daha duyarlı bir hale getiriyor. Spekülatif piyasaların ihtiyacı olan 'mazot' ise 'söylem' (ingilizcesi 'narrative'). Peki yukarıda bahsettiğimiz üç kriptopara yatırımcılarına son dönemde nasıl bir söylem sundu?
+İlk olarak, kriptopara piyasalarının hâlâ emekleme aşamasında olduğunu ve klasik yatırım ürünlerinde bakılan temel kriter olan 'yaratılan değer' kavramının bu piyasalarda henüz oluşmadığını belirtmek gerek. Bu durum  kripto piyasalarını spekülatif hareketlere çok daha duyarlı bir hale getiriyor. Spekülatif piyasaların ihtiyacı olan 'mazot' ise 'söylem' (İngilizcesi 'narrative'). Peki yukarıda bahsettiğimiz üç kriptopara yatırımcılarına son dönemde nasıl bir söylem sundu?
 
 Piyasanın lideri ve ağır abisi olan Bitcoin'in işi nispeten kolay. Öncelikle, bitcoin anlaşılması oldukça basit bir ürün. Odak noktası tek: Herkesin istediği şekilde kullanabileceği bir 'dijital altın' olmak. Bu herkesin anlayabileceği ve üzerinde rahatça birleşebileceği bir söylem. Teknik olarak kavramanın 'zor' olduğunu iddia edebilirsiniz ama orada da zaman bitcoin lehine işliyor. Tam 14 yıldır etrafta olan, arkasından binlerce kez 'öldü' söylentileri çıkan ama her seferinde inadına bir hamamböceği gibi ayakta kalan bir kriptopara var karşımızda. Böyle olunca da açıkçası insanlar işin teknik kısmına çok da bakmıyorlar. 
 
@@ -42,7 +42,7 @@ Bunun yanına özellike kısa vadede ABD'de bitcoin spot ETF'lerine izin verilec
 
 Yaptığı teknik geliştirmeler ile geçmiş yıllarda yaşadığı 'ağın durması' gibi sorunları da atlatan Solana, sonrasında yeni boğanın öncülerinden oldu. Bunun birkaç temel nedeni var ama en önemlisi Solana'da işlem yapmanın hem ucuz hem de hızlı olması. Bu sayede Solana, özellikle piyasaya yeni girenlere rahatça işlem yapabilecekleri bir deneme alanı sunuyor. Diğer yandan spekülasyon için piyasada bulunan daha deneyimli oyuncuların daha çok sayıda işlem yapabilmesine olanak veriyor. Bu hareketlilik, piyasaya yeni token çıkarmak isteyenlere tam aradıkları ortamı sağlıyor. Özellikle, 'airdrop' dediğimiz, uygulamalar ile etkileşime girilmesi karşılığı verilen teşvik ödülleri ağa yeni kullanıcıların gelmesine yol açarak oluşan döngüyü tamamlıyor.
 
-Solana'nın yükselişinin daha ne kadar devam edeceğini ya da bu performansın uzun vadede sürdürülebilir olup olmadığını hep birlikte göreceğiz. Burada dikkat edilmesi gereken noktalardan biri, Solana içinde hâlâ ciddi bir girişim sermayesi (ingilizcesi Venture Capital, kısaca VC) parası olması. Bu yatırımcıların ellerinde tuttukları Sol tokenlerin kilitlerinin açılmasının token performansı üzerinde önemli bir risk oluşturuyor. 
+Solana'nın yükselişinin daha ne kadar devam edeceğini ya da bu performansın uzun vadede sürdürülebilir olup olmadığını hep birlikte göreceğiz. Burada dikkat edilmesi gereken noktalardan biri, Solana içinde hâlâ ciddi bir girişim sermayesi (İngilizcesi Venture Capital, kısaca VC) parası olması. Bu yatırımcıların ellerinde tuttukları Sol tokenlerin kilitlerinin açılmasının token performansı üzerinde önemli bir risk oluşturuyor. 
 
 ### BTC ile SOL arasına sıkışan ether
 
@@ -73,7 +73,7 @@ Yukarıdaki söylemin son kullanıcı açısından bir albenisi yok. Yeni gelen 
 |*Üç büyük ağda son iki yılın aylık işlem ücretleri. 'Solana nerede?' diye soracak olursanız, haklısınız. Kullanıcılara ucuz işlem ücreti sunduğunuzda, ağ olarak geliriniz olmuyor maalesef. Kaynak: Dune Analytics-[@sankin](https://dune.com/queries/3275250/5482283)*|
 
 
-Kurumsal yatırımcılar ise öncelikle beklenti olarak daha net söylemler içeren bitcoine yöneldiler. Bitcoin ETF'lerinin onaylanması sonrası ise bu yatırımcıların gözü Ethereum ETF'lerinin onayında olacak. Bununla birlikte kurumsal tarafta Ethereum'a ilgiyi artırabilecek birkaç gelişme daha var. Ethereum ağında planlanan yeni geliştirmeler ile ikinci seviye çözümlerin Solana benzeri rakipler ile işlem ücret açısından yarışabilir hale gelmesi sağlanacak. Bunun yanında Ethereum'un rehin edilmesi halinde yatırımcıya bonoya benzer ciddi bir getiri kazandırma özelliği var. Buna bir de, son zamanlarda popüler, rehin edilen etherlerin aynı zamanda başka platformlarda kullanılarak ekstra getiri sağlanması gibi bir özelliğin de (ingilizcede buna ‘restaking deniyor)  eklendiğini düşününün. 
+Kurumsal yatırımcılar ise öncelikle beklenti olarak daha net söylemler içeren bitcoine yöneldiler. Bitcoin ETF'lerinin onaylanması sonrası ise bu yatırımcıların gözü Ethereum ETF'lerinin onayında olacak. Bununla birlikte kurumsal tarafta Ethereum'a ilgiyi artırabilecek birkaç gelişme daha var. Ethereum ağında planlanan yeni geliştirmeler ile ikinci seviye çözümlerin Solana benzeri rakipler ile işlem ücret açısından yarışabilir hale gelmesi sağlanacak. Bunun yanında Ethereum'un rehin edilmesi halinde yatırımcıya bonoya benzer ciddi bir getiri kazandırma özelliği var. Buna bir de, son zamanlarda popüler, rehin edilen etherlerin aynı zamanda başka platformlarda kullanılarak ekstra getiri sağlanması gibi bir özelliğin de (İngilizcede buna ‘restaking deniyor)  eklendiğini düşününün. 
 
 Şimdi yukarıdaki iki söylemi düşünün. Bir tarafta airdrop ve hızlı token performansının getirdiği yüksek kazançlı ve ama bir o kadar da riskli ve uzun vadede sürdürülebilirliği soru işareti olan bir ağ. Diğer tarafta, daha ağır ama emin adımlarla ilerleyen ve yatırımcısına daha az ama somut getiriler sağlayan bir ağ. Küçük yatırımcının tercihinin birinci, kurumsal yatırımcıların tercihinin ise ikinciden yana olacağını söylemek zor olmaz. 
 
@@ -98,4 +98,4 @@ Ethereum tarafında ise, kısa vadede ETF beklentisi olumlu bir hava estiriyor. 
 
 [^2]: Her ne kadar içindekiler tarafından orijinal 'dijital altın' vizyonundan uzaklaşıyor diye eleştiriliyor olsa da. 
 
-[^3]: Buna ingilizcede 'credible neutrality' deniyor, yani hiç kimseyi kayırmadan herkese eşit uzaklıkta güven sağlayan bir yapı.  
+[^3]: Buna İngilizcede 'credible neutrality' deniyor, yani hiç kimseyi kayırmadan herkese eşit uzaklıkta güven sağlayan bir yapı.  

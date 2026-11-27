@@ -34,11 +34,11 @@ Burada ilginç birkaç nokta var. Öncelikle makineler nasıl analiz yapılacağ
 
 Yapay zeka dediğimiz aslına bakarsanız altyapılardan uygulamalara kadar üst üste konarak bize hizmet veren bir ürün destesi. Bu haliyle daha önceki yazılarımızda bahsettiğimiz DeFi’nin destelerine benziyor.
 
-<figure><a href="/assets/books/sorularla-web3/410-1.jpg"><img src="/assets/books/sorularla-web3/410-1.jpg" alt="Taslak üretken yapay zeka teknoloji destesi" width="1200" height="1181" loading="lazy"></a><figcaption>Taslak üretken yapay zeka teknoloji destesi <span class="fig-note"><em>Üretken yapay zeka teknoloji destesi (Taslak). (Kaynak: <a href="https://a16z.com/who-owns-the-generative-ai-platform/">az16 ai</a>)</em></span></figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/410-1.jpg"><img src="/assets/books/sorularla-web3/410-1.jpg" alt="Taslak üretken yapay zeka teknoloji destesi" width="1200" height="1181" loading="lazy"></a><figcaption>Taslak üretken yapay zeka teknoloji destesi <span class="fig-note"><em>Üretken yapay zeka teknoloji destesi (Taslak). (Kaynak: <a href="https://a16z.com/who-owns-the-generative-ai-platform/">a16z</a>)</em></span></figcaption></figure>
 
 Destenin en altında koyu lacivert renkli ‘altyapı katmanı’ var. Yapay zekanın yukarıda saydığımız tüm işlemleri yaparak istediğimiz sonucu bize anında verebilmesi için çok ciddi bir donanım ihtiyacı bulunuyor. Gerek işlemciler (çipler) gerekse bulut platformları bu ihtiyacı karşılıyor. İşte bu nedenle Nvidia gibi çip devlerinin hisse değerleri uçuyor. Amazon ve Microsoft’un sahip olduğu AWS ve Azure bulut sistemleri, kendi şirketlerinin en büyük kâr kaynakları haline geliyor.
 
-Bizim çok konuştuğumuz ChatGPT gibi üretken yapay zeka modelleri ise bu altyapının üzerine konuşlandırılıyorlar. Yukarıdaki grafikte koyu mavi olarak gördüğünüz bu ‘orta katman’ işte bu yapay zeka modellerinin bulunduğu yer. Burada pek çok farklı model mevcut. ChatGPT gibi kapalı olanların yanında Microsoft’un Llama’sı gibi yarı-açık ya da Stable Diffusion gibi tam açık kaynak modeller de bulunmakta.
+Bizim çok konuştuğumuz ChatGPT gibi üretken yapay zeka modelleri ise bu altyapının üzerine konuşlandırılıyorlar. Yukarıdaki grafikte koyu mavi olarak gördüğünüz bu ‘orta katman’ işte bu yapay zeka modellerinin bulunduğu yer. Burada pek çok farklı model mevcut. ChatGPT gibi kapalı olanların yanında Meta’nın Llama’sı gibi yarı-açık ya da Stable Diffusion gibi tam açık kaynak modeller de bulunmakta.
 
 Facebook’un Llama’sının veri seti kapalı ama bu veri seti içindeki ağırlıklandırmalar açık. Bu ne demek? İsteyen istediği gibi ağırlıkları değiştirerek modeli revize edebilir. Örneğin ChatGPT’deki kimi sansür mekanizmalarını kaldırabilir.
 
@@ -111,7 +111,7 @@ Web3’ün eski nesillerden üstün olduğu özellikler şunlar:
 
 Blokzincirin yukarıda saydığımız özellikleri, hem insanların hem de makinelerin dijital dünya ve onun yarattığı ekonomi içindeki faaliyetlerini kökten değiştirebilir. [a16z’nin son raporundan](https://a16zcrypto.com/posts/article/state-of-crypto-report-2024/) birkaç örnek ile konuyu somutlaştıralım:
 
-**Orjinalliğin teyidi:** Yapay zeka ile bir yılda toplam 15 milyardan fazla fotoğraf [yaratıldı](https://journal.everypixel.com/ai-image-statistics). Bu, fotoğrafçılığın 150 yıllık tarihinde üretilenden daha fazla! Blokzincir, içeriklerin otantik olduğunu anlamamıza yardımcı olur.
+**Orijinalliğin teyidi:** Yapay zeka ile bir yılda toplam 15 milyardan fazla fotoğraf [yaratıldı](https://journal.everypixel.com/ai-image-statistics). Bu, fotoğrafçılığın 150 yıllık tarihinde üretilenden daha fazla! Blokzincir, içeriklerin otantik olduğunu anlamamıza yardımcı olur.
 
 **Demokratikleşme:** Yapay zeka modellerinin eğitim ihtiyacı için kullanılan hesaplama gücü son on yıl içinde [her yıl dört kat artış gösterdi](https://epochai.org/blog/training-compute-of-frontier-ai-models-grows-by-4-5x-per-year). Blokzincirler, bu hesaplama gücüne daha geniş kesimlerin erişimini sağlamaya yardımcı olur.
 
@@ -138,13 +138,13 @@ Bu alandaki merkeziyetsiz çözümler verecekleri teşvikler ile kullanıcılar�
 - **Dar alanda işlemci gücü sağlayanlar:** Yapay zekanın geneline değil içindeki belirli alanlara işlemci gücü sağlayan merkeziyetsiz platformlar. Merkeziyetsiz veri eğitimi, GPU tokenleştirmesi bu servis alanlarından birkaçı. (Örnek: [io.net](http://io.net), [Gensyn](https://www.gensyn.ai/), [Prime Intellect](https://www.primeintellect.ai/), [Hyperbolic](https://hyperbolic.xyz/), [Hyperspace](https://hyper.space/))
 - **Son kullanıcı için işlem gücü sağlayanlar:** Yapay zekanın bize hizmet vermesi için mega modeller kullanılıyor. Bu modellerin çalışabilmesi için geri planda binlerce sunucudan oluşan devasa veri merkezleri kurulmuş durumda. İşte bu mega modellere karşı yeni geliştirilen modeller cep telefonu ya da bilgisayarda bile çalışmayı vaat ediyor. Ne işe yarayacak bu? Kullanıcının kişisel bilgileri bilgisayarından dışarı çıkmayacak. Bu sayede kullanıcı, verileri başkasının eline geçer korkusu yaşamayacak. Bu çözümler kullanıcının kişisel bilgilerini paylaşmadan kullanabileceği modelleri ve bu modellerin kişiselleştirmesi için gerekli olan işlemci ve saklama kapasitesini sağlıyor. (Örnek: [PIN AI](https://www.pinai.io/), [Exo](https://x.com/exolabs_), [Crynux.ai](http://crynux.ai), [Edge Matrix](https://emc.network/))
 
-**Temsilciler için uygun altyapı modelleri kurulması:** Son kullanıcının kullanabileceği açık kaynak ve/veya merkeziyetsiz yapay zeka uygulamaları henüz emekleme aşamasında. Bu uygulamalara ‘temsilci’ (ingilizce ‘agent) deniyor.
+**Temsilciler için uygun altyapı modelleri kurulması:** Son kullanıcının kullanabileceği açık kaynak ve/veya merkeziyetsiz yapay zeka uygulamaları henüz emekleme aşamasında. Bu uygulamalara ‘temsilci’ (İngilizce ‘agent’) deniyor.
 
 Son kullanıcıların temsilcilerden verim alması için öncelikle bu uygulamalara temiz ve yeterli miktarda veri sağlanması gerekiyor. Bu da ancak altyapının gelişmesi ile mümkün. Bu nedenle, önce altyapıdaki veri setleri ve onları kullanan modeller gelişecek, sonra sıra temsilcilere gelecek.
 
 Bu arada şunu hemen belirtelim: Burada hem merkeziyetsiz platformlar hem de merkezi kurumlar tarafından geliştirilen açık kaynak çözümler bulunmakta. Örneklere birlikte bakalım:
 
-- **Değiştirilebilir geniş dil modelleri:** Yapay zeka modelleri kullanıcılardan aldıkları geri bildirimleri kullanarak kendilerini eğitiyorlar. Bunu yaparken, kullandıkları verilerin ağırlıklarını değiştiriyorlar. İşte bu ağırlıkları açık kaynak olarak paylaşan modeller de var. Böylece isteyen istediği gibi bu ağırlıkları değiştirebiliyor. Ne işe yarıyor bu? Bu modelleri kullanan yukarıda bahsettiğimiz temsilciler ihtiyaçlarına göre modelleri şekillendirme imkanına kavuşuyorlar. Örneğin modellerin koyduğu ‘sansür mekanizmalarını’ kaldırabiliyorlar. (Örnek: [LLama3,](https://ai.meta.com/blog/meta-llama-3/) [Mistral](https://mistral.ai/), [Stability AI](https://stability.ai/))
+- **Değiştirilebilir geniş dil modelleri:** Yapay zeka modelleri kullanıcılardan aldıkları geri bildirimleri kullanarak kendilerini eğitiyorlar. Bunu yaparken, kullandıkları verilerin ağırlıklarını değiştiriyorlar. İşte bu ağırlıkları açık kaynak olarak paylaşan modeller de var. Böylece isteyen istediği gibi bu ağırlıkları değiştirebiliyor. Ne işe yarıyor bu? Bu modelleri kullanan yukarıda bahsettiğimiz temsilciler ihtiyaçlarına göre modelleri şekillendirme imkanına kavuşuyorlar. Örneğin modellerin koyduğu ‘sansür mekanizmalarını’ kaldırabiliyorlar. (Örnek: [Llama3,](https://ai.meta.com/blog/meta-llama-3/) [Mistral](https://mistral.ai/), [Stability AI](https://stability.ai/))
 - **Mahremiyet:** Yapay zeka modellerinin geliştirilmesi, eğitilmesi ve çıkarım yapması sırasında kullanıcı ve kamuya ait gizli bilgilerin mahremiyetini sağlamaya yönelik mekanizmalar sağlayan platformlar. (Örnek: [Bagel Network](https://www.bagel.net/), [Arcium](https://www.arcium.com/), [ZAMA](https://www.zama.ai/))
 - **Yapay zeka çıktılarının doğrulanması:** Yapay zeka çıkarımlarının doğrulanması için kullanılan kriptografik kanıtları üreten platformlar. (Örnek: [Modulus Labs](https://www.modulus.xyz/), [Giza](https://www.gizatech.xyz/), [Ritual](https://ritual.net/), [OpenGradient](https://opengradient.ai/))
 - **Altyapı kaynak kullanımını koordine eden ağlar:** Yapay zeka modelleri oluşturmak için gerekli olan kaynakları merkeziyetsiz bir ortamda bir araya getiren ağlar. Nedir bu kaynaklar? İşlemci gücü, veri setleri, modeller, kısaca yukarıda saydığımız her tür altyapı uygulamaları. Bu ağların yavaş yavaş entegre modeller haline geldiğini de görüyoruz. (Örnek: [Bittensor](https://bittensor.com/), [Near](https://near.org/), [Allora](https://www.allora.network/), [Sentient](https://sentient.foundation/))
@@ -155,7 +155,7 @@ Bu arada şunu hemen belirtelim: Burada hem merkeziyetsiz platformlar hem de mer
 
 Biz kullanıcılar altyapıya ciddi yatırım yapmış merkezi ve kapalı çözümlerin bize sunduğu ChatGPT gibi uygulamaları kullanıyoruz. Bunlar dışında bir de bu uygulamalar için üretilmiş eklentiler var. Bu eklentilerin uzun vadede ne kadar var olacağını bilmek zor.
 
-Bu eklentilerin kullanıcılar üzerinden para kazanabilecekleri gelir modelleri de henüz gelişmiş değil. Gelişse bile yüksek ihtimal OpenAI gibi platformlar bu eklentilerden Apple Store gibi yüksek oranda kesinti alacaklar.
+Bu eklentilerin kullanıcılar üzerinden para kazanabilecekleri gelir modelleri de henüz gelişmiş değil. Gelişse bile yüksek ihtimal OpenAI gibi platformlar bu eklentilerden App Store gibi yüksek oranda kesinti alacaklar.
 
 Bir yandan da, geçmişte bu tip kapalı platformlar üzerine kurulu uygulamaların platformdaki değişikliklerden dolayı canları çok yandı. Örneğin, bir zamanlar Facebook üzerine kurulu oyunlar ya da içerik üreten haber siteleri, Facebook’un algoritmasını değiştirmesi nedeniyle bir anda ulaştıkları kitleyi yitirdiler. Yaptıkları tüm yatırım boşa gitti.
 
@@ -167,7 +167,7 @@ Yukarıda saydığımız örnekler Web3 dünyasının kendine has özelliklerini
 
 Yapay zeka yazılım ile ilgili her alanı derinden etkiliyor. Buna Web3 dünyası da dahil.
 
-Bu alanda en büyük etki son kullanıcıya dokunan yapay zeka uygulamaları (bunlara temsilci - ingilizcesi “agent” deniyor) sayesinde insanlar Web3’ü çok daha kolay ve rahat şekilde kullanabilecekler. Web3 her ne kadar kendine has özellikleri ile Web 2.0 dünyasına göre avantajlar taşısa da, kullanımı hâlâ oldukça zor. Web 2.0 dünyasının aracılarına o kadar laf ediyor olsak da, kullanıcı dostu uygulamalar yaratmada Web3’ten fersah fersah öndeler. Yapay zeka temsilcileri Web3’ün bu alanda arayı kapamasına yardımcı olabilir.
+Bu alanda en büyük etki son kullanıcıya dokunan yapay zeka uygulamaları (bunlara temsilci - İngilizcesi “agent” deniyor) sayesinde insanlar Web3’ü çok daha kolay ve rahat şekilde kullanabilecekler. Web3 her ne kadar kendine has özellikleri ile Web 2.0 dünyasına göre avantajlar taşısa da, kullanımı hâlâ oldukça zor. Web 2.0 dünyasının aracılarına o kadar laf ediyor olsak da, kullanıcı dostu uygulamalar yaratmada Web3’ten fersah fersah öndeler. Yapay zeka temsilcileri Web3’ün bu alanda arayı kapamasına yardımcı olabilir.
 
 Bunun dışında yapay zeka altyapısında faaliyet gösteren pek çok girişim, bu temsilcilerin zincir üzerindeki faaliyetlerini kolaylaştıracak ürünler geliştiriyorlar[^12].
 
@@ -221,7 +221,7 @@ Kullanıcının blokzincir üzerinde işlem yapmasına yardımcı olacak temsilc
 
 ## Sonuç {#sonuc}
 
-Yapay Zeka önümüzdeki dönemde hayatımızda ciddi değişiklikler yapmaya aday. Yapay zekanın getireceği zeka bolluğu bu alandaki arz-talep dengesini değiştirecek. Bu da özellikle hayatını zeka ve düşünce gücünü kullanarak kazanan ‘beyaz yakalıları’ etkileyecek. Sonrasında oyunun içine robotların da girmesi özellikle büyük ölçekli üretimde çalışan ‘mavi yakalıları’ da etkilemeye başlayacak.
+Yapay zeka önümüzdeki dönemde hayatımızda ciddi değişiklikler yapmaya aday. Yapay zekanın getireceği zeka bolluğu bu alandaki arz-talep dengesini değiştirecek. Bu da özellikle hayatını zeka ve düşünce gücünü kullanarak kazanan ‘beyaz yakalıları’ etkileyecek. Sonrasında oyunun içine robotların da girmesi özellikle büyük ölçekli üretimde çalışan ‘mavi yakalıları’ da etkilemeye başlayacak.
 
 Bizi henüz direkt olarak etkilemese de teknoloji devleri şimdiden bu alana ciddi yatırımlar yaptılar. Bu da bizlerde “acaba Web 2.0 gelişimi sonrası ortaya çıkan tekelleşme ve beraberinde gelişen sıkıntılar yapay zekada da tekrarlanır mı?” endişesine yol açıyor.
 
@@ -252,7 +252,7 @@ Dipnot: Konuyu daha fazla araştırmak isteyenler için yazı içinde en çok ya
 
 [^5]: Bunun yanında üzerine uygulama konulmasına izin vermeden direkt olarak son kullanıcıya ulaşan Midjourney gibi yapay zeka modelleri de mevcut.
 
-[^6]: Yazıda genel olarak yapay zekanın magazinsel örneklerine yer vermemeye çalıştım ama yeri geldiği için dipnot olarak bile olsa şu anektodu sizinle paylaşmadan geçemeyeceğim: George Mason Üniversitesi’nde ekonomi profesörü olan [Bryan Caplan](https://x.com/bryan_caplan) 2023 yılının Ocak ayında ChatGPT’nin öğrencilerine verdiği sınavdan D notu alması üzerine [Matthew Barnett](https://x.com/MatthewJBar) ile “ChatGPT’nin 2029 yılına kadar hiçbir sınavından A alamayacağı” üzerine bir iddiaya girer. Bundan sadece üç ay sonra ortaya çıkan GPT-4’ün sınavdan A almasıyla birlikte iddiayı [kaybeder](https://x.com/finmoorhouse/status/1638221410328797186).
+[^6]: Yazıda genel olarak yapay zekanın magazinsel örneklerine yer vermemeye çalıştım ama yeri geldiği için dipnot olarak bile olsa şu anekdotu sizinle paylaşmadan geçemeyeceğim: George Mason Üniversitesi’nde ekonomi profesörü olan [Bryan Caplan](https://x.com/bryan_caplan) 2023 yılının Ocak ayında ChatGPT’nin öğrencilerine verdiği sınavdan D notu alması üzerine [Matthew Barnett](https://x.com/MatthewJBar) ile “ChatGPT’nin 2029 yılına kadar hiçbir sınavından A alamayacağı” üzerine bir iddiaya girer. Bundan sadece üç ay sonra ortaya çıkan GPT-4’ün sınavdan A almasıyla birlikte iddiayı [kaybeder](https://x.com/finmoorhouse/status/1638221410328797186).
 
 [^7]: Tarih boyunca yıllık %2 civarında bir büyüme gösteren kişi başı GSMH’nin YZ’nın getireceği ‘patlayıcı büyüme’ ile %30’lara çıkacağını iddia eden [araştırmalar bile var](https://www.openphilanthropy.org/research/could-advanced-ai-drive-explosive-economic-growth/).
 
@@ -260,7 +260,7 @@ Dipnot: Konuyu daha fazla araştırmak isteyenler için yazı içinde en çok ya
 
 [^9]: Blokzincir kesinlik içeren (hatta değiştirilemeyen) sonuçlar üretirken, yapay zeka aynı bir insan gibi olasılıklar üzerinden çıkarımlar yaparak sonuca varıyor. Bu nedenle yapay zekaya ‘yanlış yaptın’ dediğimizde ‘özür dilerim’ diyerek kendini düzeltiyor. Aynı insanlar gibi :). Öte yandan, yapay zeka da ‘sinir ağlarıyla’ mantıksal çıkarımlar yapıp doğruluk sağlayabiliyor ama bu kısmı konu dışında bırakıyoruz.
 
-[^10]: [Ocean Protocol,](https://oceanprotocol.com/) [Fetch.ai](http://fetch.ai) ve [SingularityNET](https://singularitynet.io/) Temmuz 2024’de birleşerek [Artificial Superintelligence Alliance](https://www.superintelligence.io/) (ASI) ismini aldılar.
+[^10]: [Ocean Protocol,](https://oceanprotocol.com/) [Fetch.ai](http://fetch.ai) ve [SingularityNET](https://singularitynet.io/) Temmuz 2024’te birleşerek [Artificial Superintelligence Alliance](https://www.superintelligence.io/) (ASI) ismini aldılar.
 
 [^11]: [First Batch](https://www.firstbatch.xyz/)’in Türkiye orijinli bir ekip tarafından geliştirildiğini belirtelim.
 
@@ -270,4 +270,4 @@ Dipnot: Konuyu daha fazla araştırmak isteyenler için yazı içinde en çok ya
 
 [^14]: Bu karakterlere İngilizce’de ‘intelligent NPC non-player-character’ deniyor.
 
-[^15]: Super, Phala ve Marlin gibi TEE çözümleri bu alanda ağların daha yüksek kapasiteli uygulamalara ev sahipliği yapmasına yardımcı oluyorlar. Doğrulama anlamında ise zkML, opML alanında pekçok proje bulunmakta.
+[^15]: Super, Phala ve Marlin gibi TEE çözümleri bu alanda ağların daha yüksek kapasiteli uygulamalara ev sahipliği yapmasına yardımcı oluyorlar. Doğrulama anlamında ise zkML, opML alanında pek çok proje bulunmakta.

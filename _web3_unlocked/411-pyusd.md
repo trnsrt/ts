@@ -14,7 +14,7 @@ Just as the crypto world seemed to be sinking under the weight of regulatory pre
 
 ## What is PYUSD? {#what-is-pyusd}
 
-In August 2023, [PayPal](https://www.paypal.com/), a name synonymous with online payments, [launched](https://www.btchaber.com/paypaldan-stablecoin-adimi/) its US dollar-pegged stablecoin, [PYUSD](https://www.paypal.com/us/digital-wallet/manage-money/crypto/pyusd). Initially issued on Ethereum and later on Solana (and as of mid‑July 2025, also [onto Arbitrum](https://cryptobriefing.com/paypal-expands-pyusd-stablecoin-to-arbitrum/)), PYUSD shares characteristics with other major stablecoins like Tether (USDT) and USDC, but with a few crucial [distinctions](https://www.paypal.com/us/digital-wallet/manage-money/crypto/pyusd) that speak volumes about the current landscape.
+In August 2023, [PayPal](https://www.paypal.com/), a name synonymous with online payments, [launched](https://newsroom.paypal-corp.com/2023-08-07-PayPal-Launches-U-S-Dollar-Stablecoin) its US dollar-pegged stablecoin, [PYUSD](https://www.paypal.com/us/digital-wallet/manage-money/crypto/pyusd). Initially issued on Ethereum and later on Solana (and as of mid‑July 2025, also [onto Arbitrum](https://cryptobriefing.com/paypal-expands-pyusd-stablecoin-to-arbitrum/)), PYUSD shares characteristics with other major stablecoins like Tether (USDT) and USDC, but with a few crucial [distinctions](https://www.paypal.com/us/digital-wallet/manage-money/crypto/pyusd) that speak volumes about the current landscape.
 
 Like its counterparts, PYUSD’s value is backed by reserves—in this case, US dollars held in a bank. It’s a simple promise: one PYUSD is redeemable for one dollar. But here’s where it gets interesting. PYUSD is issued by a centralized company and is [fully programmable](https://developer.paypal.com/dev-center/pyusd/). This means that, even if the coins are in your personal wallet, the issuer can freeze them remotely. It’s a stark reminder that not all digital assets are *truly* decentralized.
 
@@ -60,7 +60,7 @@ This is also why PYUSD’s impact could ultimately dwarf that of the spot Bitcoi
 
 Make no mistake: PayPal’s launch of PYUSD wasn't a gamble or a reaction to market hype. It was a calculated, strategic offensive, launched with careful planning in the face of legal uncertainty.
 
-PayPal, a titan of payments, can see the writing on the wall. Its profit margins are being squeezed. The arrival of instant, low-cost payment systems like the Federal Reserve's [FedNow](https://www.frbservices.org/news/press-releases/072023-fednow-live-announcement) which some analysts suggest could intensify competition in instant payments, potentially pressuring margins. PayPal needed a new frontier, and it found one on the blockchain.
+PayPal, a titan of payments, can see the writing on the wall. Its profit margins are being squeezed. The arrival of instant, low-cost payment systems like the Federal Reserve's [FedNow](https://www.frbservices.org/news/press-releases/072023-fednow-live-announcement), which some analysts suggest could intensify competition in instant payments, may pressure margins. PayPal needed a new frontier, and it found one on the blockchain.
 
 PYUSD brilliantly extends PayPal’s reach. Instead of being limited to merchants within PayPal’s network, users can now spend their balances anywhere that accepts crypto. This single move breaks down the walls of PayPal’s ecosystem, making its service exponentially more useful and keeping customers and their money locked in.
 

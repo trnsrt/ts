@@ -25,7 +25,7 @@ Ethena'nın kurduğu bu sistem oldukça kompleks ve bu nedenle üzerinde fazlaca
 #### Short'lamak her zaman gelir getirmiyor ya uzun süre negatif gidip zarar yazarsa?
 Kendinizi sağlama almak için riskinizi satmak istediğinizde (İngilizce buna 'hedge' etmek deniyor) kullandığınız vadeli piyasalara perpetuals (kısaca 'perp') piyasalar deniyor[^2]. Bu piyasalarda risk almak isteyenler ile riski satmak isteyenler bir araya geliyorlar. Hangi taraf ağırlıkta ise diğerine 'fonlama maliyeti' adı altında bir ödeme yapıyor. 
 
-Genelde bu piyasalarda işlem yapanlar risk alma iştahına sahipler. Yani işlem yaptıkları varlığın fiyatının yükseleceğini düşünüyorlar ve bu nedenle o varlığın riskini (ve değerinin yükselmesi beklentisini) satın alıyorlar (ingilizcesi 'long' olmak). Long gidenler bunun tam tersi riski satmak isteyen (ingilizcesi 'short' olmak) taraflara ödeme yapıyorlar. Kimi durumlarda, özellikle ayı piyasası hakimken bunun tam tersi de olabiliyor. Yani 'short' olanlar 'long' olanlara ödeme yapıyorlar. 
+Genelde bu piyasalarda işlem yapanlar risk alma iştahına sahipler. Yani işlem yaptıkları varlığın fiyatının yükseleceğini düşünüyorlar ve bu nedenle o varlığın riskini (ve değerinin yükselmesi beklentisini) satın alıyorlar (İngilizcesi 'long' olmak). Long gidenler bunun tam tersi riski satmak isteyen (İngilizcesi 'short' olmak) taraflara ödeme yapıyorlar. Kimi durumlarda, özellikle ayı piyasası hakimken bunun tam tersi de olabiliyor. Yani 'short' olanlar 'long' olanlara ödeme yapıyorlar. 
 
 İşte Ethena'nın sürekli 'short' pozisyon oynadığını düşündüğümüzde, belirli aralıklarla 'fonlama maliyeti' ödeyerek zarar yazması da mümkün. Peki geçmişte bu ne kadar gerçekleşmiş? Ethena'nın açıkladığı verilere göre son üç yılın yaklaşık beşte birinde short'lar fonlama maliyeti ödemiş (ödedikleri fonlama maliyeti de ortalama yıllık %8.8'e denk geliyor). Kalan zamanda beşte dördünde ise longlar ödeme yaptığı için kâr etmiş. 
 
@@ -64,7 +64,7 @@ Bundan ders alan Ethena, türev piyasalarının çok daha likit olduğu merkezi 
 
 Bu riski yok etmek mümkün değil ancak Ethena riski azaltmak için çeşitli aksiyonlar almış durumda. Öncelikle, tek bir borsa değil en büyüklerden Deribit, Binance, Bybit, Bitget ve OKX ile çalışıyorlar. Bunun yanında, Ethena teminat verdiği varlıkların tam kontrolünü elinde tutuyor. Borsada herhangi bir sorun olması durumunda teminatını diğer borsalara taşıyabiliyor. (Bu arada yeri gelmişken belirtelim; Ethena kaldıraç kullanmıyor)
 
-Peki ya Ethena takımı elinde tuttuğu bu paraları 'iç ederse'? Varlıklar üzerindeki bütün kontrolü elinde tutan Ethena saklama ve mahsuplaşma için Copper, Ceffu ve Cobo'yu kullanıyor. Peki ya Copper'a bir şey olursa? Orada da müşteri bakiyeleri olası bir iflastan etkilenmeyen kanuni bir yapıda saklanıyor (ingilizcesi bankruptcy-remote). 
+Peki ya Ethena takımı elinde tuttuğu bu paraları 'iç ederse'? Varlıklar üzerindeki bütün kontrolü elinde tutan Ethena saklama ve mahsuplaşma için Copper, Ceffu ve Cobo'yu kullanıyor. Peki ya Copper'a bir şey olursa? Orada da müşteri bakiyeleri olası bir iflastan etkilenmeyen kanuni bir yapıda saklanıyor (İngilizcesi bankruptcy-remote). 
 
 Peki bakiyemizi borsada shortladık, para da kazanıyorduk ama borsa gitti battı. Ana bakiyeyi kaybetmedik ama kazancımız gitti. Şimdi ne olacak? Bunu önlemek için Ethena, genelde 8 ile 24 saatte bir,elde ettiği kârı borsalardan alıyor. Dolayısıyla risk sadece bu süre ile kısıtlı. 
 

@@ -26,7 +26,7 @@ Web 3 olarak adlandırdığımız dünyada bireyler artık bütün bu ekonomik v
 
 Bunun yapabilmek için fiziki dünyada bu ilişkileri yürütmek için kullandıkları aracılara olan ihtiyacı azaltıp, aradaki güç dengesini kendi lehlerine çevirmeleri gerekli. İşte merkeziyetsiz sistemler onlara bu alanda yardımcı olacak yeni yapıların genel adı. Bu yapılar nasıl oluştu, daha doğrusu ortaya çıkmaları için ne gerekiyordu?
 
-Öncelikle ekonomik ve sosyal ilişkilerde aracılara olan ihtiyacın azalması için kişiden-kişiye (eşten eşe ingilizcesi ile peer-to-peer) bir modele geçilmesi gerekiyordu. Fiziki engellerden dolayı içinde bulunduğumuz dünyada kullanılamayan bu modelin dijital dünyada oluşturulması oldukça uzun bir zaman aldı. 
+Öncelikle ekonomik ve sosyal ilişkilerde aracılara olan ihtiyacın azalması için kişiden-kişiye (eşten eşe İngilizcesi ile peer-to-peer) bir modele geçilmesi gerekiyordu. Fiziki engellerden dolayı içinde bulunduğumuz dünyada kullanılamayan bu modelin dijital dünyada oluşturulması oldukça uzun bir zaman aldı. 
 
 Dijital dünya bize hız, esneklik, rahatlık gibi pek çok nimet getirirken, eşten-eşe modellerin tam olarak oturmaması nedeniyle ortaya çıkan ekonomik potansiyeli yine yukarıda saydığımız aracılar kapmıştı. Ancak daha sonra şifreleme tekniklerinin gelişmesiyle birlikte ortaya çıkan merkeziyetsiz uygulamalar sayesinde aracının dijital hayattaki etkisinin azaltılması hedefine yavaş yavaş yaklaşıldı (burada hemen belirtelim: aracılar bu dünyada da hâlâ var ancak güçleri azaltılmış durumda). Başka nelere ihtiyaç vardı bu modelin hayatımıza girmesi için?
 

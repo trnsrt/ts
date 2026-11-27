@@ -13,7 +13,7 @@ Ethereum ekosistemi 13 Nisan Perşembe gününün ilk saatlerinde Shapella günc
 
 Düzenlemenin ilk günleri Ethereum açısından nispeten sorunsuz geçiyor. Ethereum geliştiricileri planladıkları düzenli bir çıkışı şu ana kadar gerçekleştirmiş görünüyorlar. Üstelik [çıkışların yaklaşık üçte biri kadar yeni para girişi](https://token.unlocks.app/ethereum-shanghai) var. Yatırımcı gözünde, çıkışların büyük olmasının getirdiği korkudan çok, 'kilitlerin ne zaman açılacağı' belirsizliğinin ortadan kalkması galip geldi ve ilk günlerde [ETH fiyatı artış gösterdi](https://www.coingecko.com/en/coins/ethereum).
 
-Yatırımcı ve kullanıcılar açısından soru aslına bakarsanız hiç değişmiyor: "Peki bundan sonra ne olacak?". Önümüzdeki dönem için beklenti kilitlenen (ya da rehin edilen ingilizcesi 'stake' edilen) ETH'lerin ikiye katlanarak piyasadaki toplam ETH'nin %30'una kadar çıkacağı şeklinde.
+Yatırımcı ve kullanıcılar açısından soru aslına bakarsanız hiç değişmiyor: "Peki bundan sonra ne olacak?". Önümüzdeki dönem için beklenti kilitlenen (ya da rehin edilen İngilizcesi 'stake' edilen) ETH'lerin ikiye katlanarak piyasadaki toplam ETH'nin %30'una kadar çıkacağı şeklinde.
 
 Bu artışın büyük kısmının ise Liquid Staking Derivatives (LSD) denen likit token pazarından gelmesi bekleniyor. O nedenle gelin önce LSD pazarının neden bu kadar cazip olduğunu anlamaya çalışalım, sonra da alternatif farklı önerilere de değinelim. Önümüzdeki yazımızda ise LSD pazarının oyuncularını detaylıca inceleyelim. 
 

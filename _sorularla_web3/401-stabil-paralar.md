@@ -10,13 +10,13 @@ permalink: /Sorularla_Web3/bolum-4/stabil-paralar/
 description: "Stabil paralar, kripto dünyası içinde en çok kullanım alanı bulan ürün oldu."
 ---
 
-Stabil paralar, kripto dünyası içinde en çok kullanım alanı bulan ürün oldu. Teknoloji alanındaki girişimlerin hep arayıp durduğu ürün/pazar uyumunu (ingilizcesi ‘product market fit’) belki de şu ana kadar en net şekilde yakalayan ürün olan stabil paralar, her ne kadar bir ara toplam piyasa büyüklüğü olarak bir parça düşüş yaşamış olsa da, 2024 yılı içinde tekrar yükselişe geçerek 2022’de yaşadığı zirveyi tekrar yakaladılar.
+Stabil paralar, kripto dünyası içinde en çok kullanım alanı bulan ürün oldu. Teknoloji alanındaki girişimlerin hep arayıp durduğu ürün/pazar uyumunu (İngilizcesi ‘product market fit’) belki de şu ana kadar en net şekilde yakalayan ürün olan stabil paralar, her ne kadar bir ara toplam piyasa büyüklüğü olarak bir parça düşüş yaşamış olsa da, 2024 yılı içinde tekrar yükselişe geçerek 2022’de yaşadığı zirveyi tekrar yakaladılar.
 
 ## Nedir stabil para? {#nedir-stabil-para}
 
 Stabil para deyince ne anlamamız gerektiğini artık üç aşağı beş yukarı herkes biliyor: Değeri itibari bir para birimine bağlı olan paralar bunlar. Pazarın neredeyse tamamına yakını ise ABD dolarına bağlı stabil paralardan oluşmakta. Dolayısıyla, hani bir zamanlar “kriptoparalar ABD dolarının hegemonyasına son verecek” deniyordu ya, işte onun artık gerçekleşmeyeceğinin ilanı oldu stabil paralar.
 
-Örneğin, kriptoparaların en önde geleni olan Bitcoin’i ilk çıkaran Satoshi onun kişiden kişiye ödemelerde kullanılacak bir araç olmasını düşlemişti. Bu hedef henüz gerçekleşmedi ama özellikle kriptonun ilk zamanlarında, kripto alım-satım platformlarında yapılan işlemlerde işlem çifti olarak hep BTC kullanılırdı. Yani bir kriptopara satın alacaksanız, işlem yapmak istediğiniz tahta genelde BTC üzerinden dönerdi. BTC verip o kriptoparayı satın alabilirdiniz. Ne var ki, zamanla BTC işlem çiftlerinin giderek azaldığını ve yerini başta USDT (yani Tether) olmak üzere stabil paralara bıraktığını gördük. Dolayısıyla şu anda Bitcoin’in elinde değer önerisi olarak sadece ve sadece değer saklama aracı (ingilizcesi store-of-value) özelliği kaldı.
+Örneğin, kriptoparaların en önde geleni olan Bitcoin’i ilk çıkaran Satoshi onun kişiden kişiye ödemelerde kullanılacak bir araç olmasını düşlemişti. Bu hedef henüz gerçekleşmedi ama özellikle kriptonun ilk zamanlarında, kripto alım-satım platformlarında yapılan işlemlerde işlem çifti olarak hep BTC kullanılırdı. Yani bir kriptopara satın alacaksanız, işlem yapmak istediğiniz tahta genelde BTC üzerinden dönerdi. BTC verip o kriptoparayı satın alabilirdiniz. Ne var ki, zamanla BTC işlem çiftlerinin giderek azaldığını ve yerini başta USDT (yani Tether) olmak üzere stabil paralara bıraktığını gördük. Dolayısıyla şu anda Bitcoin’in elinde değer önerisi olarak sadece ve sadece değer saklama aracı (İngilizcesi store-of-value) özelliği kaldı.
 
 <figure><a href="/assets/books/sorularla-web3/401-1.png"><img src="/assets/books/sorularla-web3/401-1.png" alt="Stabil para adaptasyonu" width="1200" height="1041" loading="lazy"></a><figcaption>Stabil para adaptasyonu <span class="fig-note"><em>Kriptopara işlem hacimleri ile stabil para tutan adres sayılarındaki değişim. Hacimler büyük bir dalgalanma gösterse bile stabil para adaptasyonunda durdurulamaz bir ilerleme görülmekte. (Kaynak: <a href="https://x.com/Delphi_Digital/status/1869463499530965052">Delphi Digital</a>)</em></span></figcaption></figure>
 
@@ -52,7 +52,7 @@ DAI dışında 2021 yılında popüler olan bir başka merkeziyetsiz para ise US
 
 Stabil paraların bu kadar popüler olması, itibari paraları çıkaran merkez bankalarının gözünden kaçmadı elbette. İtibari paralara alternatif olarak çıkan bu merkeziyetsiz ürünlere çok da sıcak bakmayan merkez bankaları, kendi dijital paralarını çıkarmak için uzun süredir çalışmalar yapıyorlar.
 
-Merkez bankalarının kendi perspektiflerinden bir Merkez Bankası Dijital Parası (ingilizce Central Bank Digital Currency kısaca CBDC) çıkarması kadar doğal bir gelişme olamaz. Zira, teknoloji size artık bastığınız parayı programlanabilir yapma olanağı veriyor. Bu sayede çok daha efektif bir para politikası güdebilirsiniz.
+Merkez bankalarının kendi perspektiflerinden bir Merkez Bankası Dijital Parası (İngilizce Central Bank Digital Currency kısaca CBDC) çıkarması kadar doğal bir gelişme olamaz. Zira, teknoloji size artık bastığınız parayı programlanabilir yapma olanağı veriyor. Bu sayede çok daha efektif bir para politikası güdebilirsiniz.
 
 Örneğin, herhangi bir bölgede afet mi oldu, o bölgede bundan zarar gören vatandaşlara direkt para yardımı yapabilirsiniz. Bunu şu anda itibari paralar ile de yapabilirsiniz ama CBDC’nin güzelliği bundan sonra başlıyor. Gönderdiğiniz paranın nasıl ve nerede kullanılacağına önceden karar verebilirsiniz. Yani yaptığınız yardımı hane halkı için temel ihtiyaç maddeleri ya da çiftçi için dizel yakıt alımı ile sınırlı tutabilirsiniz. Öte yandan süreli olarak da yapabilirsiniz bu yardımı. Belirli bir süre içinde kullanılmayan paraları otomatik olarak geri çekebilirsiniz.
 
@@ -80,7 +80,7 @@ Merkezi stabil paraların Web3 dünyasının merkeziyetsiz ruhu ile ciddi şekil
 
 Şu ana kadar özellikle gelişmekte olan ülkelerde, kullanıcıları ülkenin çalkantılı ekonomik politikalarından koruma gibi bir değer önerisi ile popüler olan stabil paraların, bundan sonra da gelişen Web3 alanları ile birlikte daha da yaygınlaşması beklenebilir. Büyümesi beklenen alanlar için en önde gelen merkeziyetsiz finans ise bir sonraki kısmın konusu.
 
-[^1]: DAI stabil parası, bir akıllı kontrat olarak revize edilemiyor (ingilizcesi non-upgradable contract). Bir kez bu akıllı kontratı Ethereum sistemine yüklediğinizde artık sizin kontrolünüzden çıkıyor. İsteyen istediği gibi kullanabilir. Blokzincirin en önemli özelliklerinden biri bu.
+[^1]: DAI stabil parası, bir akıllı kontrat olarak revize edilemiyor (İngilizcesi non-upgradable contract). Bir kez bu akıllı kontratı Ethereum sistemine yüklediğinizde artık sizin kontrolünüzden çıkıyor. İsteyen istediği gibi kullanabilir. Blokzincirin en önemli özelliklerinden biri bu.
 
 [^2]: Circle’in eski ortağı olan Coinbase USDC’yi kendisine kilitleyenlere [belirli bir oranda getiri veriyor](https://help.coinbase.com/en/coinbase/coinbase-staking/rewards/usd-coin-rewards-faq).
 

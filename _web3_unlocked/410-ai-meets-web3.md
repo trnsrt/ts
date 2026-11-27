@@ -44,7 +44,7 @@ On top of this foundation sits the **model layer**. This is where the "brain" of
 
 - **Closed models**, like the initial versions of ChatGPT, are proprietary. Both their training data and their internal weightings are kept secret, like the recipe for Coca-Cola.
 - **Semi-open models**, like Meta's Llama, take a different approach. While the training data is closed, the model's internal weightings are made public. This is a crucial distinction. It means anyone can take the model and fine-tune it by adjusting these weights—for example, one could theoretically remove the censorship filters common in other systems.
-- **Fully open-source models**, like some versions of Mistral[^6] open everything. Both the data and the weights are available for anyone to see, use, and modify.
+- **Fully open-source models**, like some versions of Mistral,[^6] open everything. Both the data and the weights are available for anyone to see, use, and modify.
 
 Finally, at the very top, is the **application layer**. This is the part of the stack you see and touch. These are the end-user products built on top of the powerful models below, turning their abstract intelligence into something tangible and useful[^7].
 
@@ -92,7 +92,7 @@ Furthermore, their resource needs are diametrically opposed. Blockchain is inten
 
 While these technologies seem like oil and water, their very differences can create powerful synergies where they intersect.
 
-### Where Opposites Attract {#where-opposites-attract}
+### Where Opposites Attract: Blockchain and AI {#where-opposites-attract}
 
 The unique properties of blockchain can complement AI precisely where AI is weakest. Their conflicting natures can create a new kind of harmony.
 
@@ -132,9 +132,9 @@ AI’s hunger for high-quality, verified data is insatiable. The open internet i
 
 A whole ecosystem of solutions is emerging here:
 
-- **Data Marketplaces** are being built to connect data providers with data consumers. Protocols like [Ocean Protocol](https://oceanprotocol.com/)[^15],\] Masa, and [Sahara](https://saharalabs.ai/) AI are creating new, transparent economies for information.
-- **DataDAOs** and other networks are focused on sourcing valuable private datasets directly from users, creating community-owned information pools. (Case Studies: Valve, NVG8)
-- Other platforms specialize in sourcing public data or creating new synthetic datasets on demand, effectively 'sweeping' the web for valuable information. (Case Studies: [Dria](https://dria.co/), [Mizu](https://mizu.global/), Grass, Synesis [One](https://www.firstbatch.xyz/), First Batch)
+- **Data Marketplaces** are being built to connect data providers with data consumers. Protocols like [Ocean Protocol](https://oceanprotocol.com/)[^15], Masa, and [Sahara](https://saharalabs.ai/) AI are creating new, transparent economies for information.
+- **DataDAOs** and other networks are focused on sourcing valuable private datasets directly from users, creating community-owned information pools. (Case Studies: Vana, NVG8)
+- Other platforms specialize in sourcing public data or creating new synthetic datasets on demand, effectively 'sweeping' the web for valuable information. (Case Studies: [Dria](https://dria.co/), [Mizu](https://mizu.global/), Grass, [Synesis One](https://www.synesis.one/), [First Batch](https://www.firstbatch.xyz/))
 - Once sourced, data needs a home. Decentralized **data storage** solutions ensure that datasets can be stored immutably and accessed reliably for the long term. (Case Studies: [Filecoin](https://filecoin.io/), [Arweave](https://www.arweave.org/), Ceramic, Tableland)
 - Before an AI can use data, it must be processed. **Data management and validation** platforms prepare information so AI models can digest it and cryptographically verify its source. (Case Studies: [Space and Time](https://spaceandtime.io/), [The Graph](https://thegraph.com/), [Subsquid](https://www.sqd.dev/), [Sahara](https://saharalabs.ai/), [Covalent](https://www.covalenthq.com/), Hyperline)
 - Finally, **data labeling** protocols use human intelligence to fine-tune AI models, creating a feedback loop that results in higher-quality data and smarter systems. (Case Studies: [Sapien](https://www.sapien.io/), Kiva AI, Fraction.AI)
@@ -166,7 +166,7 @@ While the infrastructure heats up, the application layer remains surprisingly co
 
 <figure><a href="/assets/books/web3-unlocked/410-5.png"><img src="/assets/books/web3-unlocked/410-5.png" alt="The Application Layer is Still Virgin Territory" width="1200" height="742" loading="lazy"></a><figcaption>The Application Layer is Still Virgin Territory <span class="fig-note">Cloud, mobile, and AI startups that have crossed the $1 billion revenue mark. While tech giants dominate infrastructure, the application layer is waiting for its breakout star. (Source: Sequoia Capital - Generative <a href="https://www.sequoiacap.com/article/generative-ais-act-o1/">AI's Act o1</a>)</span></figcaption></figure>
 
-Today, most of us interact with AI through centralized, closed applications like ChatGPT. This creates enormous "platform risk" for anyone building on top of them. We've seen this movie before. Remember when Facebook changed its algorithm, wiping out the audiences of countless businesses that had built their content on the platform? All that investment vanished overnight. It's highly likely that platforms like OpenAI will eventually operate like the Apple Store, taking a significant cut from any plugin that becomes successful on their turf.
+Today, most of us interact with AI through centralized, closed applications like ChatGPT. This creates enormous "platform risk" for anyone building on top of them. We've seen this movie before. Remember when Facebook changed its algorithm, wiping out the audiences of countless businesses that had built their content on the platform? All that investment vanished overnight. It's highly likely that platforms like OpenAI will eventually operate like the App Store, taking a significant cut from any plugin that becomes successful on their turf.
 
 This is where the Web3 world offers a fundamentally different path. A new wave of applications is emerging that leverages the unique properties of decentralization to address user needs for privacy and ownership. For example, end-user applications like [venice.ai](http://venice.ai) use verifiable AI inference and are built on a promise to never store user data. In the gaming world, projects like Parallel's [Colony](https://parallel.life/colony/signup) allow users to connect their own wallets and forge their own paths alongside AI agents.
 
@@ -248,7 +248,7 @@ The race is on, and the pace of development is staggering. It's difficult to pre
     - [I - The Tower & The Square](https://members.delphidigital.io/reports/the-tower-the-square#the-tower---the-square-b517)
     - [II - Means of Production](https://members.delphidigital.io/reports/seizing-the-means-of-production-deai-part-ii#the-means-of-production-ca3c)
     - [III - Composable Compute](https://members.delphidigital.io/reports/deai-iii-composable-compute)
-    - [IV - The Agentic Economy](https://members.delphidigital.io/reports/deai-iii-composable-compute)
+    - [IV - The Agentic Economy](https://members.delphidigital.io/reports/deai-iv-the-agentic-economy#vox-populi--war-of-the-rails-4435)
 - [Situational Awareness](https://situational-awareness.ai/) by [Leopold Aschenbrenner](https://x.com/leopoldasch)
 - Coinbase Ventures - [Demystifying the Crypto x AI Stack](https://paragraph.xyz/@cbventures/demystifying-the-crypto-x-ai-stack)
 - [topology.vc AI Map](https://www.topology.vc/deai-map): Comprehensive overview of AI startups.
@@ -261,7 +261,7 @@ The race is on, and the pace of development is staggering. It's difficult to pre
 
 [^4]: AI can generate a wide range of outputs—from writing text to analyzing images and gathering data. For simplicity, we’ve used ChatGPT’s Q&A approach as our example here.
 
-[^5]: In factt Nvidia has seen its valuation skyrocket, becoming the world's most valuable company in 2025 with a market capitalization exceeding $3.5 trillion.
+[^5]: In fact Nvidia has seen its valuation skyrocket, becoming the world's most valuable company in 2025 with a market capitalization exceeding $3.5 trillion.
 
 [^6]: "Mistral 7B" and "Mixtral 8x7B," models are truly open source.
 

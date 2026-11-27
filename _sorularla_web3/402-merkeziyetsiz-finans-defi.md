@@ -7,10 +7,10 @@ chapter: 4
 chapter_title: "Web3’ün Uygulama Alanları"
 order: 402
 permalink: /Sorularla_Web3/bolum-4/merkeziyetsiz-finans-defi/
-description: "Bu kısımda Web3’ün en geliştiği alan olan finans sektörüne ve bu alandaki uygulamalara verilen genel isim olan merkeziyetsiz finans (ingilizce Decentralized…"
+description: "Bu kısımda Web3’ün en geliştiği alan olan finans sektörüne ve bu alandaki uygulamalara verilen genel isim olan merkeziyetsiz finans (İngilizce Decentralized…"
 ---
 
-Bu kısımda Web3’ün en geliştiği alan olan finans sektörüne ve bu alandaki uygulamalara verilen genel isim olan merkeziyetsiz finans (ingilizce Decentralized Finance ya da kısaca DeFi) alanına bakacağız.
+Bu kısımda Web3’ün en geliştiği alan olan finans sektörüne ve bu alandaki uygulamalara verilen genel isim olan merkeziyetsiz finans (İngilizce Decentralized Finance ya da kısaca DeFi) alanına bakacağız.
 
 ## Önce kısa bir tarihçe ile başlayalım: {#once-kisa-bir-tarihce-ile-baslayalim}
 

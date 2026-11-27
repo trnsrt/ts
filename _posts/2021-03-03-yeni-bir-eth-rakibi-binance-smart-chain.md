@@ -83,7 +83,7 @@ Binance kendi başına büyük bir dev. Hem işlem hacmi hem de kullanıcı aded
 |:--:| 
 | *Kaynak: [TheBlock](https://www.theblockcrypto.com/data/crypto-markets/spot)*|
 
-BSC bu anlamda, hem müşterilere ucuz bir alternatif sunmak hem de onları kendi sistemi içinde tutabilmek için ideal bir araç. Yani Binance bir nevi klasik dünyanın sıkça başvurduğu müşteriyi tutma (ingilizcesi 'customer stickiness') stratejisinin bir parçası olarak görüyor bunu. 
+BSC bu anlamda, hem müşterilere ucuz bir alternatif sunmak hem de onları kendi sistemi içinde tutabilmek için ideal bir araç. Yani Binance bir nevi klasik dünyanın sıkça başvurduğu müşteriyi tutma (İngilizcesi 'customer stickiness') stratejisinin bir parçası olarak görüyor bunu. 
 
 Sadece bununla da sınırlı değil yaptıkları: Ellerindeki müthiş büyük alıcı kitlesini olabildiğince kullanıyor. Geliştiricilere ve girişimcilere Binance Chain üzerinde açtığı alanlar ile destek ve hazır bir müşteri kitlesi veriyor. DeFi alanında Ethereum ağı içinde karşılaştığımız hemen hemen her ürünün bir kopyasını kendi ağı içinde müşterilerine sunuyor. Binance bu anlamda kendi ekosistemini kurma yolunda hızlı adımlarla ilerliyor. 
 

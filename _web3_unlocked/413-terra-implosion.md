@@ -12,7 +12,7 @@ description: "This section dives into the story of Terra’s algorithmic stablec
 
 This section dives into the story of Terra’s algorithmic stablecoin UST, which faced a major crisis in May 2022.
 
-UST, which was issued by the Terra, a payments-focused blockchain, lost its peg to the US dollar due to a coordinated market attack. Let’s quickly [recap](https://blockapps.net/blog/the-timeline-of-usts-collapse-understanding-the-failures-and-implications-of-algorithmic-stablecoins/) what stablecoins are before examining what went wrong with UST.
+UST, which was issued by the Terra, a payments-focused blockchain, lost its peg to the US dollar due to a coordinated market attack. Let’s quickly recap what stablecoins are before examining what went wrong with UST.
 
 ## What Is UST, and How Does It Work? {#what-is-ust-and-how-does-it-work}
 
@@ -32,21 +32,21 @@ The strategy worked spectacularly. From launch until May 2022 (around 18 months)
 
 Notably, UST had already survived a scare in May 2021, temporarily losing its peg to $0.96, though it quickly recovered, reassuring investors.
 
-### What Happened Next? {#what-happened-next}
+### What Happened Next to UST? {#what-happened-next}
 
 UST’s rapid growth benefited LUNA immensely. To get high yields on Anchor, investors swapped LUNA for UST, driving demand and reducing LUNA’s supply through burning. Consequently, LUNA’s price surged from just $1 to an [all-time high](https://www.coingecko.com/en/coins/terra-luna-classic) of $119 by early April 2022.
 
 However, this positive cycle had a critical vulnerability. If investors ever lost confidence and swapped their UST back for LUNA en masse, increased LUNA issuance could crash its price, triggering a vicious downward spiral.
 
-To prevent such a scenario, Terra’s founders adopted a traditional central banking strategy: building a reserve. Just as central banks hold gold or foreign currencies, Terra chose Bitcoin (BTC), the “digital gold,” [announcing](https://www.securities.io/news-of-terras-10bn-btc-reserve-spurs-bitcoin-rally-heres-what-more-it-means/) plans to build a $10 billion BTC reserve. Eventually, they accumulated r[roughly $3 billion worth of BTC](https://www.elliptic.co/blog/what-happened-to-the-3.5-billion-terra-reserve-elliptic-follows-the-bitcoins).
+To prevent such a scenario, Terra’s founders adopted a traditional central banking strategy: building a reserve. Just as central banks hold gold or foreign currencies, Terra chose Bitcoin (BTC), the “digital gold,” [announcing](https://www.securities.io/news-of-terras-10bn-btc-reserve-spurs-bitcoin-rally-heres-what-more-it-means/) plans to build a $10 billion BTC reserve. Eventually, they accumulated [roughly $3 billion worth of BTC](https://www.elliptic.co/blog/what-happened-to-the-3.5-billion-terra-reserve-elliptic-follows-the-bitcoins).
 
-Unfortunately, this precaution wasn’t enough. [Between May 7-9](https://www.coindesk.com/learn/the-fall-of-terra-a-timeline-of-the-meteoric-rise-and-crash-of-ust-and-luna), following the US Federal Reserve’s announcements and broader crypto market declines, heavy selling pressure hit UST, causing it to lose its dollar peg irreversibly. LUNA went down from its highs to below $1 in matter of hours.
+Unfortunately, this precaution wasn’t enough. [Between May 7-9](https://www.coindesk.com/learn/the-fall-of-terra-a-timeline-of-the-meteoric-rise-and-crash-of-ust-and-luna), following the US Federal Reserve’s announcements and broader crypto market declines, heavy selling pressure hit UST, causing it to lose its dollar peg irreversibly. LUNA went down from its highs to below $1 in a matter of hours.
 
 <figure><a href="/assets/books/web3-unlocked/413-1.png"><img src="/assets/books/web3-unlocked/413-1.png" alt="LUNA price" width="1200" height="835" loading="lazy"></a><figcaption>LUNA price</figcaption></figure>
 
 Terra ecosystem’s native coin LUNA price chart *(USD). (Source: CoinGecko)*
 
-## Trust Is Everything {#trust-is-everything}
+## Trust Is Everything for Stablecoins {#trust-is-everything}
 
 Stablecoins are foundational to decentralized finance (DeFi), making user trust essential. Investors expect stablecoins to reliably preserve value amid other investment risks.
 

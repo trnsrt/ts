@@ -56,7 +56,7 @@ Klasik hisse senedi arzlarında gördüğümüz IPO (İngilizce ‘Inital Public
 
 Birincisi, ICO sırasında token dağıttığınız bireysel yatırımcı oldukça sabırsız, hemen sonuç görmek istiyor. Oysa, o zamanlar projeler ICO sırasında daha henüz kağıt üzerinde birer vizyon olarak vardılar; başarıya ulaşmaları için ciddi bir çaba ve zamana ihtiyaçları vardı. İkincisi ise, kağıt üzerine vizyon çizmek herkesin yapabileceği kolay bir iş. Asıl sorun bunu başarabilmek. Ama işte ilk başta bu yöntemle ciddi para toplandığını gören binlerce proje büyük vizyonlu ama içi boş bir şekilde ICO yapmaya kalkınca tabir-i caiz ise ‘işin suyu çıktı’. Projeler ICO yoluyla para toplayamaz hale geldiler.
 
-2020 yılı sonrası projelerde ise bu ‘halka açılma’ sürecine çok daha sonra geçilmeye başlandı. Üstelik eskiye göre önemli bir farkla; projeler genellikle token basımı sırasında belirli bir kısmı halka bedava vermeye başladılar (ingilizcesi ‘Airdrop’ yani bir nevi ‘havadan gelen bedava para’). Bunun yerine projeler finansman ihtiyaçlarını, kripto alanında uzmanlaşmış girişim sermayelerinden karşıladılar. Bunu da projenin daha ilk aşamalarında yapıyorlar.
+2020 yılı sonrası projelerde ise bu ‘halka açılma’ sürecine çok daha sonra geçilmeye başlandı. Üstelik eskiye göre önemli bir farkla; projeler genellikle token basımı sırasında belirli bir kısmı halka bedava vermeye başladılar (İngilizcesi ‘Airdrop’ yani bir nevi ‘havadan gelen bedava para’). Bunun yerine projeler finansman ihtiyaçlarını, kripto alanında uzmanlaşmış girişim sermayelerinden karşıladılar. Bunu da projenin daha ilk aşamalarında yapıyorlar.
 
 ### Token basımı {#token-basimi}
 
@@ -191,11 +191,11 @@ Bir varlık, eğer yukarıdaki dört koşulu da sağlıyorsa ise o zaman bir yat
 
 ### Avrupa {#avrupa}
 
-Genelde teknolojik gelişmelerde hep geri kalan ‘yaşlı’ Avrupa, belki de ilk kez, o da dijital varlıklar konusunda ABD’nin önüne geçti. 2023 yılında kabul edilen MiCA (ingilizce Markets in Crypto-Assets Regulation’ın kısaltması - Türkçesi Kripto Varlık Piyasalarının Regülasyonu), kripto varlık yatırımcı ve tüketicilerini korumayı amaçlayan bir yasa.
+Genelde teknolojik gelişmelerde hep geri kalan ‘yaşlı’ Avrupa, belki de ilk kez, o da dijital varlıklar konusunda ABD’nin önüne geçti. 2023 yılında kabul edilen MiCA (İngilizce Markets in Crypto-Assets Regulation’ın kısaltması - Türkçesi Kripto Varlık Piyasalarının Regülasyonu), kripto varlık yatırımcı ve tüketicilerini korumayı amaçlayan bir yasa.
 
 Temel olarak kripto varlıkların basımı ve ticaretini [düzenleyen](https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica) MiCA, bu alanda gerekli lisans, tüketici koruması, piyasa manipülasyonunu önleyici hükümler içerirken, stabil paralara özel maddeleri ile dikkat çekiyor.
 
-MiCA’nın ilginç özelliklerinden biri hangi dijital varlıkların kapsama alanına girdiği konusunda ‘merkeziyetsizliği’ kriter olarak kullanması. Tamamen merkeziyetsiz protokoller örneğin merkeziyetsiz finans (DeFi) MiCA’nın dışında tutuluyor. NFT’ler ise ‘duruma göre’ MiCA kapsamından muaf tutuluyor. Burada da kriter ‘tekil olmak’. Tekil dijital sanat eserleri, koleksiyon parçaları gibi dijital varlıklar MiCA içine girmezken, örneğin bu sanat eserini birbiri ile değiştirilebilir (ingilizcesi fungible) daha küçük parçalara bölerseniz o zaman MiCA kapsamına [giriyorsunuz](https://crystalintelligence.com/crypto-regulations/nfts-and-mica-what-you-need-to-know/).
+MiCA’nın ilginç özelliklerinden biri hangi dijital varlıkların kapsama alanına girdiği konusunda ‘merkeziyetsizliği’ kriter olarak kullanması. Tamamen merkeziyetsiz protokoller örneğin merkeziyetsiz finans (DeFi) MiCA’nın dışında tutuluyor. NFT’ler ise ‘duruma göre’ MiCA kapsamından muaf tutuluyor. Burada da kriter ‘tekil olmak’. Tekil dijital sanat eserleri, koleksiyon parçaları gibi dijital varlıklar MiCA içine girmezken, örneğin bu sanat eserini birbiri ile değiştirilebilir (İngilizcesi fungible) daha küçük parçalara bölerseniz o zaman MiCA kapsamına [giriyorsunuz](https://crystalintelligence.com/crypto-regulations/nfts-and-mica-what-you-need-to-know/).
 
 MiCA’nın genel bir çerçeve mevzuat olduğunu ve tüm AB ülkelerinde uygulamaya gireceğini belirtelim. Bu arada pek çok AB ülkesinde kurulu olan ve şu anda bu ülke yasaları altında hizmet veren kurumlar için 2026 yılına uzanan bir [geçiş süreci söz konusu](https://technologyquotient.freshfields.com/post/102jake/grandfathering-under-mica-how-member-states-approach-the-transitional-regime) olacak.
 

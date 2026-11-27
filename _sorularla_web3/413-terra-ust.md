@@ -32,9 +32,9 @@ Nitekim istenen gerçekleşti ve ilk kurulduğundan Mayıs 2022’ye kadar yakla
 
 UST aslında 2022 yılı Mayıs ayına gelmeden önce bir büyük badire atlatmıştı. Bundan bir yıl önce 2021 yılının Mayıs ayında değeri bir ara 0,96 ABD Dolarına düşse de sonrasında toparlanmış, yatırımcıları da rahat bir nefes almıştı.
 
-### En son neler yaşandı? {#en-son-neler-yasandi}
+### UST’de en son neler yaşandı? {#en-son-neler-yasandi}
 
-UST’nin bu kadar genişlemesi aslında en çok LUNA’ya yaradı. İnsanların %20 faiz beklentisi ile UST almak için, LUNA vermeleri gerekiyordu. Bu, LUNA’ya ciddi bir talep doğurdu. Bir taraftan da insanların UST almak için yatırdığı LUNA’lar yakıldığı için LUNA’nın arzı azalıyordu. Bütün bunlar sonucu LUNA’nın değeri 1 ABD Dolarından 2022’nin Nisan ayı başında 112 ABD Dolarına kadar yükseldi.
+UST’nin bu kadar genişlemesi aslında en çok LUNA’ya yaradı. İnsanların %20 faiz beklentisi ile UST almak için, LUNA vermeleri gerekiyordu. Bu, LUNA’ya ciddi bir talep doğurdu. Bir taraftan da insanların UST almak için yatırdığı LUNA’lar yakıldığı için LUNA’nın arzı azalıyordu. Bütün bunlar sonucu LUNA’nın değeri 1 ABD Dolarından 2022’nin Nisan ayı başında 119 ABD Dolarına kadar yükseldi.
 
 İyi ama bu bir sarmal. Yukarı doğru iyi gidiyor da; ya terse dönerse? İnsanlar bir gün UST’ye olan güvenlerini kaybedip paralarını geri verirlerse, karşılığında onlara LUNA verilecek, onlar da aldıkları LUNA’ları piyasada satacaklar ve LUNA fiyatı düşecek.
 
@@ -42,7 +42,7 @@ UST’nin bu kadar genişlemesi aslında en çok LUNA’ya yaradı. İnsanların
 
 Ne yazık ki bu hamle yeterli olmadı. Mayıs ayının başlarında FED’in açıklamaları sonrasında bir düşüş yaşayan kripto pazarında, açıklamanın yapıldığı hafta sonuna doğru ciddi bir şekilde UST satışları yaşandı. Bu durum sonrasında UST, ABD Dolarına olan çıpasını kaybetti.
 
-## İşin özü güven {#isin-ozu-guven}
+## Stabil paralarda işin özü güven {#isin-ozu-guven}
 
 Stabil paraların merkeziyetsiz finansın temel taşı olduğunu söylemek gerek. Bu nedenle, kullanıcılara vereceği güven çok ama çok önemli. Yatırımcı zaten kullandığı uygulamalarda belli bir getiri beklentisi ile yeterince risk alıyor. Bunu yaparken sahibi olduğu stabil paranın yarın öbür gün kendisine aynı miktarda değer olarak döneceğini düşünüyor.
 
@@ -58,7 +58,7 @@ Kısa vadede ise yukarıda bahsettiğimiz başarının gelebilmesi için LUNA’
 
 Kısa vadede yüksek faiz ile hormonlu büyümeye çalışmak oldukça riskli bir hareket. Bir de bunun üzerine UST’ye yapılan ataklara karşı Terra’nın aldığı önlemlerin şeffaf olmaması güveni daha da zedeledi. Piyasadan yüksek miktarda UST çekilmesine karşı Terra’nın cevabı, yaklaşık 1.5 milyar ABD Doları karşılığı bir parayı OTC masası dediğimiz büyük işlemli gruplara vermek ve onlara “UST’yi koruyun” demek oldu. Bu para nasıl kullanıldı o da tam olarak belli değil (OTC masaları blokzincir üzerinde değil, merkezi borsalar üzerinden harcama yapıyorlar; o nedenle takip edilemiyor). Şeffaflığın olmadığı yerde söylenti ve korku başlar. UST’nin yaşadığı krizi çıkartan temel neden bu oldu.
 
-## Olanlardan nasıl sonuçlar çıkarabiliriz? {#olanlardan-nasil-sonuclar-cikarabiliriz}
+## UST krizinden nasıl sonuçlar çıkarabiliriz? {#olanlardan-nasil-sonuclar-cikarabiliriz}
 
 Kayıpları yerine getirmeyecek olsa da, yaşananlardan bazı dersler çıkarılması halinde kripto dünyasının bu krizden daha güçlü çıkabileceğine inanıyorum. Gelin bu dersler neler olabilir hızlıca bir göz atalım:
 
@@ -66,7 +66,7 @@ Kayıpları yerine getirmeyecek olsa da, yaşananlardan bazı dersler çıkarıl
 
 DeFi’nin riskli bir alan olduğu hep konuşulur, bizim yazılarımızda da sıkça yer alır. Bu uyarıları, yazarın ‘kendini sağlama almak’ için eklediğini düşünmeyin lütfen. DeFi gibi yeni filizlenmeye başlayan bir alanda, deneysel olarak ortaya çıkan projeler ile ilgili ne kadar senaryo çalışması yaparsanız yapın, pratik hayat önünüze aklınıza hiç gelmeyecek bambaşka engeller çıkarabiliyor.
 
-DeFi alanının en saygın isimlerinden olan [Delphi Digital](https://turansert.com/genel/2022/05/20/delphidigital.io), sonradan yayınladığı [öz eleştiride](https://members.delphidigital.io/reports/learnings-from-last-week/) teoride güzel bir proje olan Terra konusunda nerede hata yapıldığını çok net olarak anlatmış:
+DeFi alanının en saygın isimlerinden olan [Delphi Digital](https://delphidigital.io), sonradan yayınladığı [öz eleştiride](https://members.delphidigital.io/reports/learnings-from-last-week/) teoride güzel bir proje olan Terra konusunda nerede hata yapıldığını çok net olarak anlatmış:
 
 Delphi Digital, 2021 yılı başlarında tanıştıkları Terra ekosisteminin, ‘algoritmik stabil paralara entegre olmuş, gerçek dünya adaptasyonuna odaklanmış ve göreceli ölçeklenebilir bir blokzincir olma’ tezini çok ilgi çekici bulmuş. Sonrasında Terra üzerinde Mart ayında faaliyete başlayan kredi protokolü Anchor’un sunduğu yüksek faizin UST’nin geniş kesimlerce adaptasyonu tezine müthiş uyumlu olduğunu düşünmüş. O zamanlarda DeFi’de getiriler genelde %100’ler seviyesinde olduğu için Anchor’un verdiği %20’lik faiz onlara gayet makul görünmüş.
 
@@ -92,7 +92,7 @@ Her fikir ya da proje, özellikle başlangıç aşamasında fanatik bir toplulu�
 
 Yapılan eleştirilerin dikkate alınmaması, projelerin içerdiği risklerin tam olarak anlaşılmasına engel oluyor. Eğer gerekli tartışmalar yapılsa ve bu riskler tartışılsaydı belki de kamuoyunda farkındalık artacak ve gerekli geliştirmeleri yapmaları için proje sahipler üzerinde baskı yaratılabilecekti.
 
-Bu fanatiklik ya da ‘üstten görme’ durumu sadece projeyi kuranlarda değil yatırımcılarda da görülebiliyor. ABD’nin en ünlü dijital finansal servis ve yatırım yönetim şirketi olan [Galaxy Digital](https://www.galaxydigital.io/)‘in kurucusu [Mike Novogratz](https://twitter.com/novogratz) bunun en ibret verici örneklerinden. Luna’ya olan desteğini göstermek için Ocak 2022’de koluna bu temada bir dövme yaptıran Novogratz, son yaşananlar sonrası verdiği [demeçte](https://www.marketwatch.com/story/my-tattoo-will-be-a-constant-reminder-that-venture-investing-requires-humility-says-michael-novogratz-with-a-luna-tattoo-after-the-cryptos-collapse-11652896185) ‘yaptırdığım dövme, yatırımcılığın alçakgönüllülük gerektirdiğini bana sürekli hatırlatacak’ yorumunda bulundu. Hepimizin kulağına küpe olmasında fayda var.
+Bu fanatiklik ya da ‘üstten görme’ durumu sadece projeyi kuranlarda değil yatırımcılarda da görülebiliyor. ABD’nin en ünlü dijital finansal servis ve yatırım yönetim şirketi olan [Galaxy Digital](https://www.galaxydigital.io/)’in kurucusu [Mike Novogratz](https://twitter.com/novogratz) bunun en ibret verici örneklerinden. Luna’ya olan desteğini göstermek için Ocak 2022’de koluna bu temada bir dövme yaptıran Novogratz, son yaşananlar sonrası verdiği [demeçte](https://www.marketwatch.com/story/my-tattoo-will-be-a-constant-reminder-that-venture-investing-requires-humility-says-michael-novogratz-with-a-luna-tattoo-after-the-cryptos-collapse-11652896185) ‘yaptırdığım dövme, yatırımcılığın alçakgönüllülük gerektirdiğini bana sürekli hatırlatacak’ yorumunda bulundu. Hepimizin kulağına küpe olmasında fayda var.
 
 <figure><a href="/assets/books/sorularla-web3/413-1.jpg"><img src="/assets/books/sorularla-web3/413-1.jpg" alt="" width="1194" height="1636" loading="lazy"></a></figure>
 
@@ -108,7 +108,7 @@ Nasıl bir şeffaflık bu? Ürünlerin hepsinin yazılım kodlarının açık ol
 
 Son yaşanan UST/Terra kazasında ise DeFi’nin bu temel prensibinden uzaklaşıldığını gördük. Özellikle sistemin kendini korumak için kenara koyduğu milyarlarca dolarlık BTC’nin akıbeti uzun bir süre bilinemedi. Eğer bu para, blokzincir üzerinde işlem görseydi hepimiz nasıl kullanıldığını rahatça takip edebilirdik. Terra ekibi ise böyle bir hareket yerine parayı merkezi borsalara aktardı. Olayların başladığı 7 Mayıs’tan tam 10 gün sonra 16 Mayıs’ta açıklama yaparak kasada bulunan 80,000 BTC’yi sattığını [açıkladı](https://twitter.com/LFG_org/status/1526126703046582272). DeFi açısından affedilemez bir hata bu. Güveni kaybetmenin daha hızlı bir yolu olamazdı herhalde.
 
-### Bu bir yol kazası {#bu-bir-yol-kazasi}
+### UST krizi bir yol kazası {#bu-bir-yol-kazasi}
 
 Yaşananlar sonrası pek çok kişi ‘bu olay DeFi’yi çok yaraladı’ şeklinde yorumladı. Şahsen bu konuda genel oluşan havanın aksine bir görüşteyim.
 

@@ -18,7 +18,7 @@ Son zamanlarda ortaya çıkan girişimler ise, finans alanında başarılı olmu
 
 ## Huzurlarınızda merkeziyetsiz bilim (DeSci) {#huzurlarinizda-merkeziyetsiz-bilim-desci}
 
-Klasik anlamda bilim, bilgiyi teori, deneme ve gözlem yoluyla metodik bir şekilde aramak olarak tanımlanıyor. Ne yazık ki merkezi bir yapılanma altında büyüyen geleneksel bilim, özellikle son yıllarda belirli sayıda büyük kurum ve yayıncıların tekeli altında girmiş durumda.
+Klasik anlamda bilim, bilgiyi teori, deneme ve gözlem yoluyla metodik bir şekilde aramak olarak tanımlanıyor. Ne yazık ki merkezi bir yapılanma altında büyüyen geleneksel bilim, özellikle son yıllarda belirli sayıda büyük kurum ve yayıncıların tekeli altına girmiş durumda.
 
 Web3 dünyası içindeki merkeziyetsiz bilim ise dört temel karakteristiğe dayanarak bu oturmuş denklemi değiştirmeye çalışıyor[^1].
 
@@ -32,11 +32,11 @@ Son olarak merkeziyetsiz bilim, araştırmacıların bu yöndeki çabalarının 
 
 ## Merkeziyetsiz bilimde hangi oyuncular var? {#merkeziyetsiz-bilimde-hangi-oyuncular-var}
 
-Özellikle bilim ve sanat alanında toplulukları bir araya getirmeye çalışan Merkeziyetsiz Bilim (ingilizcede Decentralized Science, kısaca DeSci) çatısı altında Ağustos 2023’e kadar 100’den fazla oluşum toplanmış durumda.
+Özellikle bilim ve sanat alanında toplulukları bir araya getirmeye çalışan Merkeziyetsiz Bilim (İngilizcede Decentralized Science, kısaca DeSci) çatısı altında Ağustos 2023’e kadar 100’den fazla oluşum toplanmış durumda.
 
 <figure><a href="/assets/books/sorularla-web3/409-1.jpg"><img src="/assets/books/sorularla-web3/409-1.jpg" alt="Merkeziyetsiz bilim dünyası" width="1200" height="776" loading="lazy"></a><figcaption>Merkeziyetsiz bilim dünyası <span class="fig-note"><em>Decentralized Science ekosistemi - Ağustos 2023. (Kaynak: <a href="https://x.com/UltraRareBio/status/1694830533120040961">UltraRareBio</a>)</em></span></figcaption></figure>
 
-Yukarıdaki tüm girişimlerin detaylı listesine dipnot’ta yer alan [link](https://docs.google.com/document/d/1aQC6zn-eXflSmpts0XGE7CawbUEHwnL6o-OFXO52PTc)[^2] üzerinden ulaşabilirsiniz. Burada gördüğünüz gibi merkeziyetsiz bilim alanındaki oyuncuları dokuz grupta toplayabiliyoruz[^3].
+Yukarıdaki tüm girişimlerin detaylı listesine dipnotta yer alan [link](https://docs.google.com/document/d/1aQC6zn-eXflSmpts0XGE7CawbUEHwnL6o-OFXO52PTc)[^2] üzerinden ulaşabilirsiniz. Burada gördüğünüz gibi merkeziyetsiz bilim alanındaki oyuncuları dokuz grupta toplayabiliyoruz[^3].
 
 ### DAO’lar {#daolar}
 

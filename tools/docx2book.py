@@ -121,9 +121,39 @@ CORRECTIONS = [
     ('insiyatif', 'inisiyatif'),
     ('ilgilli', 'ilgili'),
     ('Howell Lovells', 'Hogan Lovells'),
+    # GEO batch B5 (owner-approved). 'Temmuz 2024’de' is on 202 and 410; 'azartesi' is narrowed so it cannot hit
+    # 'Pazartesi'/'pazartesi'; the quote-mark fixes that straddle a link are in TR_OUT_CORRECTIONS
+    ('tekeli altında girmiş', 'tekeli altına girmiş'),
+    ('dipnot’ta', 'dipnotta'),
+    ('Orjinalliğin', 'Orijinalliğin'),
+    ('anektodu', 'anekdotu'),
+    ('pekçok', 'pek çok'),
+    ('az16 ai', 'a16z'),
+    ('(ingilizce ‘agent)', '(İngilizce ‘agent’)'),      # must come before the general 'ingilizce' entry below
+    ('LLama3', 'Llama3'),
+    ('Yapay Zeka önümüzdeki', 'Yapay zeka önümüzdeki'),
+    ('Temmuz 2024’de', 'Temmuz 2024’te'),
+    ('Microsoft’un Llama’sı', 'Meta’nın Llama’sı'),
+    ('Apple Store', 'App Store'),
+    ('aracılığıya', 'aracılığıyla'),
+    ('koşulununun', 'koşulunun'),
+    ('veriyor..', 'veriyor.'),
+    ('sadece Ethereum bir yıl sonra', 'sadece Ethereum, bir yıl sonra'),
+    ('112 ABD Dolarına', '119 ABD Dolarına'),
+    ('ETH’ye çevirebildiniz', 'ETH’ye çevirebilecektiniz'),
+    ('8 Mayıs tarihinde', '7 Mayıs tarihinde'),
+    ('2023 yılının Mart ayına kadar', '2023 yılının Nisan ayına kadar'),
+    ('Alameda, azartesi günü', 'Alameda, pazartesi günü'),
+    ('“sırada kim var?“', '“sırada kim var?”'),
+    ('“paranızı SVB’den çekin“', '“paranızı SVB’den çekin”'),
+    ('Autonomus', 'Autonomous'),
+    ('kazananan', 'kazanan'),
+    ('aktarılacak..', 'aktarılacak.'),
+    ('bir yıldan kısa bir zaman içinde', '18 ay kadar bir sürede'),   # 3AC page (owner-approved)
+    ('ingilizce', 'İngilizce', 'all'),                   # every lowercase 'ingilizce…' in the book (never in a URL, id or heading)
 ]
 # expected number of matching paragraphs for TR corrections that legitimately occur more than once (default 1)
-CORRECTION_EXPECTED = {'Geoffery': 2, 'sarfediyorlar': 2, 'Tiktok': 2}
+CORRECTION_EXPECTED = {'Geoffery': 2, 'sarfediyorlar': 2, 'Tiktok': 2, 'Temmuz 2024’de': 2, 'ingilizce': 50}
 # the same for the English profile (default 1)
 EN_CORRECTION_EXPECTED = {}
 CORRECTION_COUNTS = {c[0]: 0 for c in CORRECTIONS}
@@ -187,11 +217,46 @@ EN_CORRECTIONS = [
     ('%4.5 for USDS', '4.5% for USDS'),
     ('Even though gained some traction', 'Even though it gained some traction'),
     ('Word Economic Forum', 'World Economic Forum'),
+    # GEO batch B5 (owner-approved)
+    ('In factt', 'In fact'),
+    (',] Masa', ', Masa'),                                  # stray ']' after the Ocean Protocol footnote mark
+    ('some versions of Mistral', 'some versions of Mistral,'),   # the comma goes before the footnote mark
+    ('in matter of hours', 'in a matter of hours'),
+    ('caused bank deposits surged', 'caused bank deposits to surge'),
+    ('(Case Studies: Valve, NVG8)', '(Case Studies: Vana, NVG8)'),
+    ('Apple Store', 'App Store'),
+    ('in just under a year', 'in around 18 months'),
 ]
 # Fixes of the finished page Markdown (each must match exactly once). The footnote mark is a token of its own, so a
 # fix that spans it (the source has a stray full stop after the mark) can only be made here, where it reads [^10].
 EN_OUT_CORRECTIONS = [
     ('Congress.[^10].', 'Congress.[^10]'),
+    # GEO batch B5 (owner-approved). A stray letter in front of a link, a full stop after a footnote mark, and a link
+    # that straddles an apostrophe are not inside one text run.
+    ('accumulated r[roughly', 'accumulated [roughly'),
+    ('2023, r[regulators had seized', '2023, [regulators had seized'),
+    ('a repeat of 2008[^9] .', 'a repeat of 2008[^9].'),
+    ("[arrested in Singapore'](https://www.finews.com/news/english-news/59522-three-arrows-co-founder-arrested-singapore)s airport",
+     '[arrested in Singapore](https://www.finews.com/news/english-news/59522-three-arrows-co-founder-arrested-singapore)’s airport'),
+    # dead links (404) removed, text kept
+    ('[recap](https://blockapps.net/blog/the-timeline-of-usts-collapse-understanding-the-failures-and-implications-of-algorithmic-stablecoins/)', 'recap'),
+    ('[swept away](https://pontem.network/posts/the-collapse-of-3ac-three-arrows-capital-all-you-need-to-know)', 'swept away'),
+    # PYUSD: the sentence without a verb (the FedNow link stays)
+    ('[FedNow](https://www.frbservices.org/news/press-releases/072023-fednow-live-announcement) which some analysts suggest could intensify competition in instant payments, potentially pressuring margins.',
+     '[FedNow](https://www.frbservices.org/news/press-releases/072023-fednow-live-announcement), which some analysts suggest could intensify competition in instant payments, may pressure margins.'),
+    # AI page: Synesis One / First Batch as on the Turkish page; Further Reading IV had the same address as III (III keeps it)
+    ('Synesis [One](https://www.firstbatch.xyz/), First Batch)', '[Synesis One](https://www.synesis.one/), [First Batch](https://www.firstbatch.xyz/))'),
+    ('[IV - The Agentic Economy](https://members.delphidigital.io/reports/deai-iii-composable-compute)',
+     '[IV - The Agentic Economy](https://members.delphidigital.io/reports/deai-iv-the-agentic-economy#vox-populi--war-of-the-rails-4435)'),
+]
+# Fixes of the finished page Markdown/HTML of the Turkish book (each must match exactly once, or (old, new, count)):
+# quote marks straddling a link, one missing full stop after a link, one link removed from a chart caption (text kept).
+TR_OUT_CORRECTIONS = [
+    ('Galaxy Digital](https://www.galaxydigital.io/)‘in', 'Galaxy Digital](https://www.galaxydigital.io/)’in'),
+    ('BUSD](https://paxos.com/busd/)‘yi', 'BUSD](https://paxos.com/busd/)’yi'),
+    ('Vibe Bio](https://www.vibebio.com/)‘nun', 'Vibe Bio](https://www.vibebio.com/)’nun'),
+    ('[düştü](https://coinmarketcap.com/currencies/steth/steth/eth/) BTC, 2022', '[düştü](https://coinmarketcap.com/currencies/steth/steth/eth/). BTC, 2022'),
+    ('<a href="https://turansert.com/genel/2023/03/14/abdde-banka-krizi-ve-gelecek.html">FDIC</a>', 'FDIC'),
 ]
 # Stray paragraphs (exact text, ordinary paragraphs only) to drop from the web edition; each must match exactly once.
 EN_DROP_PARAGRAPHS = {'The Block Pro'}
@@ -250,7 +315,7 @@ DF_OVERRIDES = {
 
 PROFILES = {
     'tr': dict(name='tr', site_title='Sorularla Web3', url_base='/Sorularla_Web3',
-               img_url='/assets/books/sorularla-web3', overrides=OVERRIDES, corrections=CORRECTIONS,
+               img_url='/assets/books/sorularla-web3', overrides=OVERRIDES, corrections=CORRECTIONS, out_corrections=TR_OUT_CORRECTIONS,
                intro_heading='Giriş', intro_slug='giris', chapter_slug='bolum-%d',
                chapter_label='Bölüm %d: %s', max_words=4,
                chapter_desc='Sorularla Web3 kitabının %d. bölümü: %s.', promote=set(), heading_overrides={}, style_alias={}),
@@ -441,6 +506,18 @@ BODY_HEADING_OVERRIDES = {
         ('407-merkeziyetsiz-fiziksel-altyapilar-depin.md', 'gelecekte-bu-alanda-bizi-neler-bekliyor'): 'Gelecekte DePIN alanında bizi neler bekliyor?',
         ('408-onarici-finans-refi.md', 'blokzincir-nasil-yardimci-olabilir'): 'Blokzincir onarıcı finansa nasıl yardımcı olabilir?',
         ('408-onarici-finans-refi.md', 'her-sey-gulluk-gulistanlik-mi'): 'ReFi’de her ‘şey’ güllük gülistanlık mı?',
+        # GEO batch B5
+        ('413-terra-ust.md', 'en-son-neler-yasandi'): 'UST’de en son neler yaşandı?',
+        ('413-terra-ust.md', 'isin-ozu-guven'): 'Stabil paralarda işin özü güven',
+        ('413-terra-ust.md', 'olanlardan-nasil-sonuclar-cikarabiliriz'): 'UST krizinden nasıl sonuçlar çıkarabiliriz?',
+        ('413-terra-ust.md', 'bu-bir-yol-kazasi'): 'UST krizi bir yol kazası',
+        ('414-3ac-iflasi.md', 'nasil-basladi'): '3AC’nin iflası nasıl başladı?',
+        ('415-ftx-batisi.md', 'neler-olmustu'): 'FTX’te neler olmuştu?',
+        ('416-2023-abd-bankacilik-krizi.md', 'neler-oldu-neden-oldu'): '2023 ABD bankacılık krizinde neler oldu, neden oldu?',
+        ('416-2023-abd-bankacilik-krizi.md', 'cikarilacak-dersler-ve-gelecek-bize-neler-getirecek'): 'ABD bankacılık krizinden çıkarılacak dersler ve gelecek bize neler getirecek?',
+        ('417-crypto-climate-coalition.md', 'neden-boyle-bir-organizasyona-ihtiyac-duyulmus'): 'Neden LCCC gibi bir organizasyona ihtiyaç duyulmuş?',
+        ('417-crypto-climate-coalition.md', 'ortaklar-nasil-katkida-bulunuyor'): 'LCCC’nin ortakları nasıl katkıda bulunuyor?',
+        ('418-vibe-dao.md', 'hangi-alanlara-girmisler'): 'Vibe Bio hangi alanlara girmiş?',
     },
     'en': {
         ('103-web3.md', 'the-movement-begins'): 'The Web3 Movement Begins',
@@ -506,6 +583,12 @@ BODY_HEADING_OVERRIDES = {
         ('406-digital-identity.md', 'how-it-works-in-practice'): 'How Digital Identity Works in Practice',
         ('407-physical-infrastructure.md', 'where-does-crypto-come-in'): 'Where Does Crypto Come In for DePIN?',
         ('408-regenerative-finance.md', 'how-blockchain-helps'): 'How Blockchain Helps ReFi',
+        # GEO batch B5
+        ('410-ai-meets-web3.md', 'where-opposites-attract'): 'Where Opposites Attract: Blockchain and AI',
+        ('413-terra-implosion.md', 'what-happened-next'): 'What Happened Next to UST?',
+        ('413-terra-implosion.md', 'trust-is-everything'): 'Trust Is Everything for Stablecoins',
+        ('414-3ac-bankruptcy.md', 'how-it-started'): 'How the 3AC Bankruptcy Started',
+        ('415-ftx-collapse.md', 'what-happened'): 'What Happened to FTX?',
     },
 }
 
@@ -521,6 +604,8 @@ LINK_TARGET_FIXES = {
         'https://docs.google.com/document/d/1-Rf-rlm3lRqtTnjk41B7xTP6oG-_n9Li2MxWoxrVKRw/edit?pli=1&tab=t.0#heading=h.4afnykvvbdxe': '/Web3_Unlocked/chapter-4/terra-implosion/',
         # GEO batch B4: double-encoded Wikipedia link, on three pages (102, 406 and 407)
         'https://en.wikipedia.org/wiki/Facebook%25E2%2580%2593Cambridge_Analytica_data_scandal': 'https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal',
+        # GEO batch B5: PYUSD 'launched' -> PayPal's own announcement
+        'https://www.btchaber.com/paypaldan-stablecoin-adimi/': 'https://newsroom.paypal-corp.com/2023-08-07-PayPal-Launches-U-S-Dollar-Stablecoin',
     },
     'tr': {
         # GEO batch B3: cross-references to the author's Google Docs drafts -> the book's own pages
@@ -532,6 +617,9 @@ LINK_TARGET_FIXES = {
         'https://docs.google.com/document/d/1nXVnAHjWh1ZJgeiEXESsYBE0b4tzmDcoRVwBuP7a88U/edit?tab=t.0#heading=h.k8wpuu9c1bq0': '/Sorularla_Web3/bolum-2/kopruler/',
         'https://docs.google.com/document/d/1nXVnAHjWh1ZJgeiEXESsYBE0b4tzmDcoRVwBuP7a88U/edit?tab=t.0#heading=h.vl2qdgkyp4lf': '/Sorularla_Web3/bolum-2/intentler/',
         'https://docs.google.com/document/d/1nXVnAHjWh1ZJgeiEXESsYBE0b4tzmDcoRVwBuP7a88U/edit?tab=t.0#heading=h.2qn41fbxvsqn': '/Sorularla_Web3/bolum-2/cuzdanlar/',
+        # GEO batch B5: the manuscript has a bare domain that Word resolved against the old blog post's address
+        'https://turansert.com/genel/2022/05/20/delphidigital.io': 'https://delphidigital.io',
+        'https://turansert.com/genel/2023/03/31/chain.link': 'https://chain.link',
     },
 }
 # expected number of source paragraphs per link fix, default 1 (the Wikipedia link: 102, 406, 407)
@@ -931,12 +1019,20 @@ class Docx:
         for corr in P['corrections']:
             old, new = corr[0], corr[1]
             anchored = len(corr) > 2 and corr[2] == 'start'
+            every = len(corr) > 2 and corr[2] == 'all'      # replace every occurrence in the paragraph (each inside one run)
             n = (1 if joined.startswith(old) else 0) if anchored else joined.count(old)
             if not n:
                 continue
             if first:
                 CORRECTION_COUNTS[old] += n
             hit = [t for t in flat_text(toks) if old in t.text]
+            if every:
+                if sum(t.text.count(old) for t in hit) != n:
+                    raise SystemExit('correction %r has an occurrence that does not lie inside a single text run' % old)
+                for t in hit:
+                    t.text = t.text.replace(old, new)
+                joined = ''.join(t.text for t in flat_text(toks))
+                continue
             if anchored and hit and not hit[0].text.startswith(old):
                 raise SystemExit('anchored correction %r does not start the paragraph' % old)
             if len(hit) != 1 or hit[0].text.count(old) != 1:

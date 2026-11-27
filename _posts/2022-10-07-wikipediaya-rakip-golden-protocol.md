@@ -41,7 +41,7 @@ Golden protocol, merkeziyetsiz, izin gerektirmeyen ve doğru olduğu kabul edilm
 
 ### Ne tip bir bilgiden bahsediyoruz?
 
-Platform bilgiyi üçleme (ingilizcesi triplet) şeklinde tutuyor. Ne demek bu? Bilginin en atomik yani basit hali olarak üçlü bir tanım kullanıyor. Bir örnek versek? Örneğin  'Kim neyin nesi' sorusuna yanıt olarak 'Elon Musk (kim), SpaceX (neyin) CEO'su (nesi)' şeklinde üç farklı bilgiyi bağlama dizini. (Üçlemeler en temel bilgi toplama aracı ve yukarıda verdiğimiz örnek dışında daha pek çok çeşidi var). Daha sonra bu bilgiyi Elon Musk'ın diğer görevleri, SpaceX'in içinde bulunduğu sektör ve sahip olduğu ürünleri ile diğer bilgilere bağlıyor. Bu sayede, standardize edilmiş 10 milyardan fazla varlığın  haritasını çıkarıp bu varlıklar ile ilgili gerçek kabul edilen bilgileri bir araya getiriyor. 
+Platform bilgiyi üçleme (İngilizcesi triplet) şeklinde tutuyor. Ne demek bu? Bilginin en atomik yani basit hali olarak üçlü bir tanım kullanıyor. Bir örnek versek? Örneğin  'Kim neyin nesi' sorusuna yanıt olarak 'Elon Musk (kim), SpaceX (neyin) CEO'su (nesi)' şeklinde üç farklı bilgiyi bağlama dizini. (Üçlemeler en temel bilgi toplama aracı ve yukarıda verdiğimiz örnek dışında daha pek çok çeşidi var). Daha sonra bu bilgiyi Elon Musk'ın diğer görevleri, SpaceX'in içinde bulunduğu sektör ve sahip olduğu ürünleri ile diğer bilgilere bağlıyor. Bu sayede, standardize edilmiş 10 milyardan fazla varlığın  haritasını çıkarıp bu varlıklar ile ilgili gerçek kabul edilen bilgileri bir araya getiriyor. 
 
 | ![network](/assets/technology-6873012_800.jpg)|
 |:--:| 

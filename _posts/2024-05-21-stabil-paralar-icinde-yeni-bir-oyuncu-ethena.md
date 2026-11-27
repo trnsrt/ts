@@ -9,11 +9,11 @@ image: /assets/stabil-para-pazar-paylari_v2.png
 
 Bu yazımızda stabil para dünyasında son duruma bir göz attıktan sonra mahalleye yeni gelen çocuk Ethena ve parası olan USDe'den bahsedeceğiz. Bir sonraki yazımızda ise Ethena'nın nasıl bir potansiyel taşıdığına ve olası risklerine değineceğiz. 
 
-Stabil paralar, kripto dünyası içinde en çok kullanım alanı bulan ürün oldu. Teknoloji alanındaki girişimlerin hep arayıp durduğu ürün/pazar uyumunu (ingilizcesi 'product market fit') belki de şu ana kadar en net şekilde yakalayan stabil paralar, her ne kadar geçtiğimiz yıl toplam piyasa büyüklüğü olarak bir parça düşüş yaşamış olsalar da, bu yıl içinde tekrar yükselişe geçerek 2022 yılı zirvelerini yakaladılar. 
+Stabil paralar, kripto dünyası içinde en çok kullanım alanı bulan ürün oldu. Teknoloji alanındaki girişimlerin hep arayıp durduğu ürün/pazar uyumunu (İngilizcesi 'product market fit') belki de şu ana kadar en net şekilde yakalayan stabil paralar, her ne kadar geçtiğimiz yıl toplam piyasa büyüklüğü olarak bir parça düşüş yaşamış olsalar da, bu yıl içinde tekrar yükselişe geçerek 2022 yılı zirvelerini yakaladılar. 
 
 Stabil para deyince ne anlamamız gerektiğini artık üç aşağı beş yukarı herkes biliyor: Değeri itibari bir para birimine bağlı olan paralar bunlar. Pazarın neredeyse tamamına yakını ise ABD dolarına bağlı stabil paralardan oluşmakta. Dolayısıyla, hani bir zamanlar "kriptoparalar ABD dolarının hegemonyasına son verecek" deniyordu ya - işte onun artık gerçekleşmeyeceğinin ilanı oldu stabil paralar. 
 
-Örneğin, kriptoparaların en önde geleni olan Bitcoin'i ilk çıkaran Satoshi onun kişiden kişiye ödemelerde kullanılacak bir araç olmasını düşlemişti. Bu hedef henüz gerçekleşmedi ama özellikle kriptonun ilk zamanlarında, kripto alım-satım platformlarında yapılan işlemlerde işlem çifti olarak hep BTC kullanılırdı. Yani bir kriptopara satın alacaksanız, işlem yapmak istediğiniz tahta genelde BTC üzerinden dönerdi. BTC verip o kriptoparayı satın alabilirdiniz. Ne var ki, zamanla BTC işlem çiftlerinin giderek azaldığını ve yerini başta USDT (yani Tether) olmak üzere stabil paraların bıraktığını gördük. Dolayısıyla şu anda Bitcoin'in elinde değer önerisi olarak sadece ve sadece değer saklama aracı (ingilizcesi store-of-value) özelliği kaldı. 
+Örneğin, kriptoparaların en önde geleni olan Bitcoin'i ilk çıkaran Satoshi onun kişiden kişiye ödemelerde kullanılacak bir araç olmasını düşlemişti. Bu hedef henüz gerçekleşmedi ama özellikle kriptonun ilk zamanlarında, kripto alım-satım platformlarında yapılan işlemlerde işlem çifti olarak hep BTC kullanılırdı. Yani bir kriptopara satın alacaksanız, işlem yapmak istediğiniz tahta genelde BTC üzerinden dönerdi. BTC verip o kriptoparayı satın alabilirdiniz. Ne var ki, zamanla BTC işlem çiftlerinin giderek azaldığını ve yerini başta USDT (yani Tether) olmak üzere stabil paraların bıraktığını gördük. Dolayısıyla şu anda Bitcoin'in elinde değer önerisi olarak sadece ve sadece değer saklama aracı (İngilizcesi store-of-value) özelliği kaldı. 
 
 Neyse, stabil paralara geri dönecek olursak, bu alanda liderliği açık ara USDT (Tether) ve USDC'nin aldığını görüyoruz. Bu iki stabil paranın ortak özellikleri, merkezi yapılar tarafından çıkarılmış olmaları ve arkasında (en azından teorik olarak) basıldığı miktar kadar itibari paranın banka hesaplarında tutuluyor olması. 
 
@@ -82,7 +82,7 @@ Yukarıda üç aylık ortalamalar var. sUSD’nin geçtiğimiz üç ay boyunca s
 
 [^1]: Yazının hazırlanması sırasında bu oran [%0 seviyesinde idi](https://app.spark.fi/dashboard). 
 
-[^2]: Basitleştirmek amacıyla 'kullanıcı' terimini kullandık. Aslında, bu para basma işinin sadece önceden onaylanmış (ingilizcesi white-listed) oyuncular yapabiliyor.  Bu arada her ne kadar Ethena sansüre dayanıklı olduğunu iddia etse de, yarın öbür gün piyasadaki kimi USDe'leri dondurması istenince nasıl bir davranış sergileyecek, bunu tam olarak bilmiyoruz. 
+[^2]: Basitleştirmek amacıyla 'kullanıcı' terimini kullandık. Aslında, bu para basma işinin sadece önceden onaylanmış (İngilizcesi white-listed) oyuncular yapabiliyor.  Bu arada her ne kadar Ethena sansüre dayanıklı olduğunu iddia etse de, yarın öbür gün piyasadaki kimi USDe'leri dondurması istenince nasıl bir davranış sergileyecek, bunu tam olarak bilmiyoruz. 
 
 [^3]: Circle'in eski ortağı olan Coinbase USDC'yi kendisine kilitleyenlere [belirli bir oranda getiri veriyor](https://help.coinbase.com/en/coinbase/coinbase-staking/rewards/usd-coin-rewards-faq).
 
