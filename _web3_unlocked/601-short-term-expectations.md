@@ -12,13 +12,13 @@ description: "The next two years are about moving from promise to product. The c
 
 The next two years are about moving from promise to product. The core infrastructure of Web3 is maturing, shifting the spotlight onto user-facing applications. For these projects, the singular measure of success will be achieving 'product-market fit.'
 
-## Infrastructure Has Nearly Arrived {#infrastructure-has-nearly-arrived}
+## Web3 Infrastructure Has Nearly Arrived {#infrastructure-has-nearly-arrived}
 
 The foundational layers of Web3 have been built over more than a decade. Bitcoin kicked things off in 2009, and Ethereum introduced the smart contracts that power the ecosystem in 2015. After a long period of infrastructure development, the first real products began to emerge around 2020. While the markets churned between 2022 and 2024[^1], the underlying technology was quietly hardening.
 
 For Web3 to go mainstream, its infrastructure must handle massive demand cheaply and quickly—without sacrificing the core principles of security and censorship resistance. To do that, the networks must break free from a few final constraints.
 
-### Tackling the Scaling Problem {#tackling-the-scaling-problem}
+### Tackling the Blockchain Scaling Problem {#tackling-the-scaling-problem}
 
 The largest networks now have a clear roadmap for meeting future demand.
 
@@ -30,7 +30,7 @@ Meanwhile, networks like Solana are engineered for speed from day one[^4]. Havin
 
 ### Strengthening Security Infrastructure {#strengthening-security-infrastructure}
 
-Zero-knowledge proofs (ZK) are a technology that has come to define this new era of security.. ZK is a cryptographic breakthrough that allows something to be verified as true without revealing the underlying information—a revolution for privacy, security, and scaling[^6].
+Zero-knowledge proofs (ZK) are a technology that has come to define this new era of security. ZK is a cryptographic breakthrough that allows something to be verified as true without revealing the underlying information—a revolution for privacy, security, and scaling[^6].
 
 Layer 2 networks built with ZK technology (known as zk-rollups) can achieve incredible scale. Once considered too computationally expensive to be practical, recent advances have made ZK systems not just feasible, but increasingly common.
 
@@ -42,7 +42,7 @@ Not long ago, each blockchain was a digital island, isolated from the others. Tr
 
 The future of cross-chain transfers is moving away from clunky bridges toward more elegant solutions. A new model using user-defined ‘intents’ is gaining traction. Instead of manually bridging assets, a user simply declares their goal (e.g., "I want to swap Asset X on this chain for Asset Y on that chain"), and a competitive market of solvers finds the most efficient and secure path. Meanwhile, Circle’s CCTP is already live across multiple blockchains and rapidly being integrated into ecosystems.
 
-## Apps Designed for Everyday Users {#apps-designed-for-everyday-users}
+## Web3 Apps Designed for Everyday Users {#apps-designed-for-everyday-users}
 
 With the foundations of Web3 now solid, the industry's focus is pivoting from building the basement to designing the living room. Investors are following suit, shifting their attention from core infrastructure to the applications that will finally deliver on Web3's promise for everyday users.
 
@@ -56,7 +56,7 @@ Web3 developers should look to FinTech as a powerful role model. Over the past d
 
 Widespread adoption can't happen in a vacuum. Clear, intelligent regulation is the final piece of the puzzle. In the near term, regulatory attention is focusing around two key areas: the custody of digital assets and the rules governing stablecoins. Broader questions about decentralized systems will likely follow, but getting the basics right is the first order of business.
 
-In the United States, the engine of both technology and finance, the political winds have shifted. With the Republican party securing the presidency and majorities in both the Senate and House in the recent elections, the industry anticipates a friendlier regulatory approach. This has cleared a path for long-awaited legislation, with a bill focused on stablecoins— the GENIUS Act passed Congress and was signed in mid‑July 2025. Further legislation addressing broader crypto regulation is still moving through Congress.[^10].
+In the United States, the engine of both technology and finance, the political winds have shifted. With the Republican party securing the presidency and majorities in both the Senate and House in the recent elections, the industry anticipates a friendlier regulatory approach. This has cleared a path for long-awaited legislation, with a bill focused on stablecoins— the GENIUS Act passed Congress and was signed in mid‑July 2025. Further legislation addressing broader crypto regulation is still moving through Congress.[^10]
 
 Across the Atlantic, the European Union is implementing its landmark Markets in Crypto-Assets (MiCA) framework, creating a unified rulebook for its member states. For now, MiCA’s primary focus is on regulating token issuers and asset custodians within the EU. It notably leaves most of the DeFi and NFT space for a later regulatory phase.
 
@@ -76,7 +76,7 @@ Gaming and social media have yet to produce a durable, long-term hit, but recent
 
 In contrast, sectors that rely on physical hardware, like the Metaverse and Decentralized Physical Infrastructure Networks (DePIN), have a much longer road ahead. Their development is tied to the pace of real-world manufacturing and deployment, a timeline measured in years, not months.
 
-### Finding Product-Market Fit {#finding-product-market-fit}
+### Finding Product-Market Fit for Web3 Apps {#finding-product-market-fit}
 
 For all the technological progress, a hard truth remains: most Web3 applications haven't yet found true product-market fit. This challenge—moving from a clever idea to an indispensable product—will be the central drama of the next few years.
 
@@ -86,7 +86,7 @@ But even in this crowded and noisy market, a few clear signals have broken throu
 - **Decentralized Finance:** DeFi has achieved a powerful, if partial, fit. While many financial products are still geared toward speculation, its core engine has proven its worth. The ability to borrow against your digital assets is a clear bright spot, offering a new kind of capital market. It's a powerful machine, even if it's still mostly used on the racetrack.
 - **Prediction Markets:** Once a niche hobby, prediction markets have become a powerful new form of information discovery, gaining significant traction around major global events like the US presidential elections. By being open to anyone, anywhere, they can react to developments with astonishing speed. Their newfound relevance is clear: even traditional news outlets now watch these markets as a real-time sentiment gauge.
 
-[^1]: For a detailed analysis of these crises, check the "[Crisis 2022 Act I, II, and III](https://docs.google.com/document/d/1-Rf-rlm3lRqtTnjk41B7xTP6oG-_n9Li2MxWoxrVKRw/edit?pli=1&tab=t.0#heading=h.4afnykvvbdxe)" sections at the end of chapter four.
+[^1]: For a detailed analysis of these crises, check the "[Crisis 2022 Act I, II, and III](/Web3_Unlocked/chapter-4/terra-implosion/)" sections at the end of chapter four.
 
 [^2]: Ethereum Foundation, the organization that leads the research on Ethereum has gone through a major reorganization during the first half of 2025. It changed its leadership as well as announced ‘Protocol’ which narrows to organizations focus into three key areas: L1 and L2 scaling and user experience.
 

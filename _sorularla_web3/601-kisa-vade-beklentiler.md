@@ -12,7 +12,7 @@ description: "Bu dönem Web3 bazlı projelerin altyapılarının artık olgunlu�
 
 Bu dönem Web3 bazlı projelerin altyapılarının artık olgunluğa ulaştığı, kullanıcıya dokunan projelerin ön plana çıktığı bir dönem olacak. Bu dönemde temel başarı kriteri, bu uygulamaların ‘ürün-pazar uyumu’ yakalamasında düğümleniyor.
 
-## Teknolojik altyapı artık büyük ölçüde tamamlanıyor {#teknolojik-altyapi-artik-buyuk-olcude-tamamlaniyor}
+## Web3’te teknolojik altyapı artık büyük ölçüde tamamlanıyor {#teknolojik-altyapi-artik-buyuk-olcude-tamamlaniyor}
 
 Web3’ün altyapısını oluşturan blokzincir teknolojisi 2009 yılında Bitcoin ile hayat buldu. Web3’ün can damarını oluşturan akıllı kontrat yazılımı ise 2015 yılında Ethereum ile birlikte yaratıldı. 2015-2020 yılları arasında tamamlanan altyapı sonrası kullanıcıya ulaşan ürünler 2020 yılından itibaren hayatımıza girdi. Piyasa 2022-2024 yılları arası krizler ile boğuşurken[^1] altyapı projeleri de olgunlaşmaya başladı.
 
@@ -36,7 +36,7 @@ Zk teknolojisini kullanan ikinci seviye ağlar (ki bunlara zk-rollups deniyor), 
 
 Altyapı ağları ilk çıktıklarında koca bir okyanus üzerine kurulu adacıklar gibiydiler. Ağlar arası değer transferi yavaş yavaş gelişmeye başladı. Geçtiğimiz yıllarda ağlar arasında değer transferi köprüler aracılığıyla sağlanıyordu[^7]. Köprüler kullandıkları akıllı kontratlardaki sorunlar nedeniyle 2020-2023 yıllarında ciddi para kaybına neden oldular. Yeni dönemde köprülerin yerine ‘intent’ denilen aracıların kullanımının artması bekleniyor[^8]. Bunun yanında, Circle’in CCTP adı verilen pek çok zincir için USDC transferine izin veren uygulamaları da daha yaygınlık kazanacak.
 
-## Kullanıcı dostu uygulamalar artacak {#kullanici-dostu-uygulamalar-artacak}
+## Web3’te kullanıcı dostu uygulamalar artacak {#kullanici-dostu-uygulamalar-artacak}
 
 Web3 geliştiricileri artık altyapı konusunda belirli bir seviyeye ulaştılar. İş son kullanıcılara dokunan uygulamalara geldiğinde ise orada hâlâ alınacak çok yol var. Yatırımcılar da bunun farkında ve ilgi artık büyük altyapı projelerinden çok, son kullanıcının kullanacağı ve değer yaratacak projelere kaymış durumda.
 
@@ -46,7 +46,7 @@ Peki kullanıcı dostu uygulamalar derken ne kastediyoruz?
 
 Bu konuda geliştiricilerin Fintech alanındaki uygulamalardan alacağı çok ders var. Fintech uygulamaları, klasik bankacılık ürünlerinin son kullanıcı tarafından daha rahat kullanılabilmesi konusunda son on yılda çok ciddi bir yol katetti[^10].
 
-## Regülasyonlar? {#regulasyonlar}
+## Web3 için regülasyonlar? {#regulasyonlar}
 
 Web3 dünyasının bir sonraki kullanıcı kitlesine ulaşabilmesi için bu alanda konulacak regülasyonların önemli bir etkisi olacak. Kısa vadede regülasyonların daha çok dijital varlık saklama ve stabil paralar üzerine yoğunlaşmasını, merkeziyetsiz sistemler ve bu sistemlere ulaşım ile ilgili konuların daha orta/uzun vadede ele alınmasını bekliyorum.
 
@@ -70,7 +70,7 @@ Uygulama içi dinamikleri nedeniyle oyun ve sosyal medya alanında uzun vadeli b
 
 Öte yandan Metaverse, DePIN (merkeziyetsiz fiziksel altyapılar) gibi donanım ihtiyacı olan alanların gelişimi çok daha uzun zaman alacak.
 
-### Ürün-pazar uyumu {#urun-pazar-uyumu}
+### Web3’te ürün-pazar uyumu {#urun-pazar-uyumu}
 
 Yine de şunu belirtmek önemli: Pek çok Web3 uygulaması henüz ürün-pazar uyumunu yakalayabilmiş değil. Önümüzdeki dönemde bu sorun hararetli tartışmalara gebe.
 
@@ -80,25 +80,25 @@ Yine de şunu belirtmek önemli: Pek çok Web3 uygulaması henüz ürün-pazar u
 - Merkeziyetsiz finans: Kısmen ürün-pazar uyumu yakalandı. Kişilerin ellerindeki dijital varlıkları rehin gösterip borç alması bu konudaki birkaç örnekten bir tanesi. Finans ürünleri hâlâ en çok spekülasyon amacıyla kullanılıyor.
 - Tahmin piyasaları: Özellikle ABD başkanlık seçimleri ile birlikte tahmin piyasaları ciddi bir popülerlik kazandı. Bu piyasaların en önemli özelliği global ölçekte herkesin kullanımına açık olması. Olayların gelişimine verdikleri hızlı tepki nedeniyle haber siteleri bile bu piyasaları yakından takip eder oldular.
 
-[^1]: Yaşanan krizler ile ilgili derin bir analizi dördüncü bölümün sonundaki ‘[2022 krizi I](https://docs.google.com/document/d/1-Rf-rlm3lRqtTnjk41B7xTP6oG-_n9Li2MxWoxrVKRw/edit?pli=1&tab=t.0#heading=h.4afnykvvbdxe). [II.](https://docs.google.com/document/d/1-Rf-rlm3lRqtTnjk41B7xTP6oG-_n9Li2MxWoxrVKRw/edit?pli=1&tab=t.0#heading=h.11x2tby82xx6) ve [III.](https://docs.google.com/document/d/1-Rf-rlm3lRqtTnjk41B7xTP6oG-_n9Li2MxWoxrVKRw/edit?pli=1&tab=t.0#heading=h.ady8ubskdz0u) perde’ kısmında bulabilirsiniz.
+[^1]: Yaşanan krizler ile ilgili derin bir analizi dördüncü bölümün sonundaki ‘[2022 krizi I](/Sorularla_Web3/bolum-4/terra-ust/). [II.](/Sorularla_Web3/bolum-4/3ac-iflasi/) ve [III.](/Sorularla_Web3/bolum-4/ftx-batisi/) perde’ kısmında bulabilirsiniz.
 
-[^2]: Bitcoin üzerindeki ikinci seviye çözümler ile ilgili daha fazla bilgi için kitabımızın ikinci bölümünün sonundaki ‘[Bitcoin üzerine ikinci seviye çözümler](https://docs.google.com/document/d/1nXVnAHjWh1ZJgeiEXESsYBE0b4tzmDcoRVwBuP7a88U/edit?tab=t.0#heading=h.hc6v4ww0l9l4)’ kısmına bakabilirsiniz.
+[^2]: Bitcoin üzerindeki ikinci seviye çözümler ile ilgili daha fazla bilgi için kitabımızın ikinci bölümünün sonundaki ‘[Bitcoin üzerine ikinci seviye çözümler](/Sorularla_Web3/bolum-2/bitcoin-ikinci-seviye/)’ kısmına bakabilirsiniz.
 
 [^3]: 2024 yılının Kasım ayında yapılan geliştirici toplantısında, Ethereum’un önde gelen geliştiricilerinden Justin Drake, Ethereum’u yeni bir seviyeye çıkaracak ve 2029 yılına kadar sürecek yeni bir öneride [bulundu](https://www.coindesk.com/tech/2024/11/12/ethereum-researcher-justin-drake-introduces-beam-chain-a-total-redesign-of-the-networks-consensus-layer/).
 
-[^4]: Ethereum üzerine ikinci seviye çözümler ile ilgili ikinci bölümümüzdeki “[İkinci seviye çözümler](https://docs.google.com/document/d/15gK0HBOOWCXaFLsgMWq8iU5eNcWX0DX4-biunxRLWKY/edit?tab=t.0#heading=h.ih27gnaxht20)” kısmına göz atabilirsiniz..
+[^4]: Ethereum üzerine ikinci seviye çözümler ile ilgili ikinci bölümümüzdeki “[İkinci seviye çözümler](/Sorularla_Web3/bolum-2/ikinci-seviye-cozumler/)” kısmına göz atabilirsiniz.
 
 [^5]: Solana’nın arkasından gelen ağlar Ethereum üzerine kurulu Base, Move dilini kullanan SUI ile Aptos ve son olarak Avalanche, Solana ile rekabet içindeler.
 
 [^6]: Teknik olarak ne olduğuna gelince: Herhangi bir üçüncü partiye, bir bilgiye sahip olduğunuzu bilginin içeriğini göstermeden kanıtlamak diyebiliriz.
 
-[^7]: Köprüler ile ilgili daha detaylı bilgiye ikinci bölümde yer alan [‘Köprüler’](https://docs.google.com/document/d/1nXVnAHjWh1ZJgeiEXESsYBE0b4tzmDcoRVwBuP7a88U/edit?tab=t.0#heading=h.k8wpuu9c1bq0) kısmından ulaşabilirsiniz.
+[^7]: Köprüler ile ilgili daha detaylı bilgiye ikinci bölümde yer alan [‘Köprüler’](/Sorularla_Web3/bolum-2/kopruler/) kısmından ulaşabilirsiniz.
 
-[^8]: Intent’lerin ne olduğu ve nasıl kullanılacağı konusuna ilginiz varsa sizi yine ikinci bölümde yer alan [‘Intent’ler’](https://docs.google.com/document/d/1nXVnAHjWh1ZJgeiEXESsYBE0b4tzmDcoRVwBuP7a88U/edit?tab=t.0#heading=h.vl2qdgkyp4lf) kısmına bekliyoruz.
+[^8]: Intent’lerin ne olduğu ve nasıl kullanılacağı konusuna ilginiz varsa sizi yine ikinci bölümde yer alan [‘Intent’ler’](/Sorularla_Web3/bolum-2/intentler/) kısmına bekliyoruz.
 
-[^9]: Web3’ün gelişimi konusunda kritik bir öneme sahip olduğunu düşündüğüm cüzdanlar ile ilgili ikinci bölümde yer alan [‘Cüzdanlar’](https://docs.google.com/document/d/1nXVnAHjWh1ZJgeiEXESsYBE0b4tzmDcoRVwBuP7a88U/edit?tab=t.0#heading=h.2qn41fbxvsqn) kısmına bakabilirsiniz.
+[^9]: Web3’ün gelişimi konusunda kritik bir öneme sahip olduğunu düşündüğüm cüzdanlar ile ilgili ikinci bölümde yer alan [‘Cüzdanlar’](/Sorularla_Web3/bolum-2/cuzdanlar/) kısmına bakabilirsiniz.
 
-[^10]: Bu alanda bir zamanlar popüler olan ancak sonra ortadan kaybolan friend.tech uygulaması örnek gösterilebiir. Aynı şekilde Zksync ağındaki clave ya da Solana ağında memecoin alıp satmak için kullanılan Moonshot da güzel örnekler arasında.
+[^10]: Bu alanda bir zamanlar popüler olan ancak sonra ortadan kaybolan friend.tech uygulaması örnek gösterilebilir. Aynı şekilde Zksync ağındaki clave ya da Solana ağında memecoin alıp satmak için kullanılan Moonshot da güzel örnekler arasında.
 
 [^11]: 2024 yılı içinde Demokratların da desteğiyle Temsilciler Meclisinden geçen FIT 21 isimli yasa tasarısının, belirli revizyonlar ile Senato’dan da geçmesi artık çok daha yakın.
 

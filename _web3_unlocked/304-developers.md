@@ -28,7 +28,7 @@ Here’s the story the data tells:
 - **The Rise of the Multi-Chain Developer.** The days of pledging allegiance to a single network are fading. Nine years ago, fewer than 10% of developers worked on multiple chains. Today, one in three are active across different networks. They are becoming chain-agnostic, choosing the right tool for the job and paving the way for an interoperable future.
 - **Scaling is the Name of the Game.** While Ethereum remains the undisputed king of developer mindshare, the real story is the relentless focus on scaling. Solana is seeing the fastest growth among alternative networks. Meanwhile, 42% of Bitcoin developers are focused on scaling solutions, and a remarkable amount of new work in the Ethereum ecosystem is happening on Layer 2 networks. Base now accounts for 42% of new code commits within the Ethereum ecosystem."
 
-## Key Takeaways: What to Watch {#key-takeaways-what-to-watch}
+## Developer Report Key Takeaways: What to Watch {#key-takeaways-what-to-watch}
 
 ### The Signal in the Noise {#the-signal-in-the-noise}
 

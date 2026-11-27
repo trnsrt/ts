@@ -22,7 +22,7 @@ Web3 ekosistemindeki girişim sermayelerinin eli yukarıda bahsettiğimiz eski d
 
 Masada daha fazla oyuncu olunca girişim sermayesinin aldığı pay da eski dünyaya göre daha az oluyor. Eski dünyada girişim sermayeleri bir projeye yatırım yaptıklarında ya hisse ya da henüz hisse yok ise SAFE denen ‘hisse çıktığında alım yapma’ sözleşmesi imzalarlar (ingilizce Simple Agreement for Future Equity teriminin kısaltması). Web3 dünyasında hisse senetlerinin yerini token alıyor ve token dağıtımı projenin daha olgun bir aşamasında gerçekleşiyor. Bu nedenle Web3 alanındaki yatırımcılar proje ekipleri ile genelde SAFT sözleşmesi imzalıyorlar (ingilizce Simple Agreement for Future Token teriminin kısaltması).
 
-### … ama zamanla güçleniyorlar… {#ama-zamanla-gucleniyorlar}
+### … ama yatırımcılar zamanla güçleniyorlar… {#ama-zamanla-gucleniyorlar}
 
 Aslına bakarsanız 2020 yılı öncesinde Web3 dünyasındaki girişim sermayelerinin işi daha da zordu. Zira o zamanlar proje ekipleri yatırımcıların yüzüne bile bakmıyor ve gerekli finansmanı ICO dediğimiz token ihraçları ile karşılıyorlardı. Ne var ki, projeler konusunda detaylı araştırma yapmayan ve o zamanlar ortaya çıkan ‘hype’ ile projelere balıklama para yatıran bireysel yatırımcı, daha sonra pek çok proje ‘kof’ çıkınca ya da batınca ICO pazarından elini ayağını çekti.
 
@@ -34,9 +34,9 @@ Aslına bakarsanız 2020 yılı öncesinde Web3 dünyasındaki girişim sermayel
 
 *Çeyrek başına blokzincir alanında yapılan yatırımların alana göre dağılımı. Yatırımların 200 milyondan az olduğu bloklar görsel netlik amacıyla gösterilmemiş. (Kaynak: TheBlockPro Research. [Q3’24 & March Blockchain Venture Funding/M&A Recap](https://www.theblock.pro/research/q3-2024-blockchain-venture-funding-report-320940))*
 
-Kurucu ekiplerdeki yatırımcıyı tamamen yok sayan 2020 öncesi anlayıştan, onları çok daha dikkate alan 2020 yılı sonrası değişim trendinin artarak devam edeceğini düşünüyorum. Girişim sermayeleri artık bu dünyada tecrübe sahibi oldular. Öyle her projeye balıklama atlamıyorlar. Ayrıca, büyük fonlar artık ciddi bir yatırım portföyüne sahipler ve portföy girişimleri arasında da sinerji yaratmak için çaba sarfediyorlar.
+Kurucu ekiplerdeki yatırımcıyı tamamen yok sayan 2020 öncesi anlayıştan, onları çok daha dikkate alan 2020 yılı sonrası değişim trendinin artarak devam edeceğini düşünüyorum. Girişim sermayeleri artık bu dünyada tecrübe sahibi oldular. Öyle her projeye balıklama atlamıyorlar. Ayrıca, büyük fonlar artık ciddi bir yatırım portföyüne sahipler ve portföy girişimleri arasında da sinerji yaratmak için çaba sarf ediyorlar.
 
-### …ve uzmanlaşıyorlar {#ve-uzmanlasiyorlar}
+### …ve yatırımcılar uzmanlaşıyorlar {#ve-uzmanlasiyorlar}
 
 Öte yandan, girişim sermayesi şirketlerinin ciddi araştırma ekipleri kurarak teknik konularda çok daha deneyimli hale geldiğini söylemek mümkün. Bu teknik donanımlarını kullanarak farklı konularda uzmanlaşmaya da başladılar. Örneğin en büyük ekiplerden a16z özellikle zk (zero-knowledge) alanında araştırmalara büyük önem veriyor[^1] ve yatırımlarında bu alana odaklanıyor. Bir diğer büyük fon olan Paradigm ise tokenizasyon ve game theory alanında yaptığı deneyler ile ciddi bir bilgi birikimine ulaşmış durumda ve bunu projelerin token yaratma sürecinde aktif olarak kullanıyor (ne kadar başarılı olup olmadığı tartışma konusu olsa da).
 

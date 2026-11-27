@@ -164,7 +164,7 @@ Bu iki geliştirme ile onaylayıcıların üzerindeki yük azalıyor. Ne demek t
 
 #### Ölçeklenmenin ETH para politikasına etkisi {#eth-para-politikasina-etkisi}
 
-Yukarıda yapılan iyileştirmelerin, ikinci seviye çözümlerin Ethereum’a ödeyeceği ücretleri düşüreceğini söyleyebiliriz. İyi de o zaman neden Ethereum geliştiricileri sistemin gelirlerini azaltacak bu iyileştirmeler için bu kadar çaba sarfediyorlar? Bunun birkaç nedeni var.
+Yukarıda yapılan iyileştirmelerin, ikinci seviye çözümlerin Ethereum’a ödeyeceği ücretleri düşüreceğini söyleyebiliriz. İyi de o zaman neden Ethereum geliştiricileri sistemin gelirlerini azaltacak bu iyileştirmeler için bu kadar çaba sarf ediyorlar? Bunun birkaç nedeni var.
 
 Birincisi, Ethereum'un geçmişte yaşadığı sıkışıklıkların işlem ücretlerini ne kadar artırdığının görülmesi.
 

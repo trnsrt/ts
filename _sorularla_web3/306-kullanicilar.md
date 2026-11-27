@@ -28,11 +28,11 @@ Peki o zaman gizlilik yani mahremiyet nasıl sağlanacak? Kullanıcının her t�
 
 ## Web3 kullanıcı kazanımında nerede? {#web3-kullanici-kazaniminda-nerede}
 
-Web3 geçmişi henüz sadece son on yıla dayanan bir teknoloji. Her yeni teknolojinin büyüme sırasında geçtiği evreleri sırasıyla geçiriyor. Şu an hangi aşamada dersek, Geoffery Moore’un aşağıdaki grafiği bize ipucu verebilir.
+Web3 geçmişi henüz sadece son on yıla dayanan bir teknoloji. Her yeni teknolojinin büyüme sırasında geçtiği evreleri sırasıyla geçiriyor. Şu an hangi aşamada dersek, Geoffrey Moore’un aşağıdaki grafiği bize ipucu verebilir.
 
 <figure><a href="/assets/books/sorularla-web3/306-1.png"><img src="/assets/books/sorularla-web3/306-1.png" alt="Hendeği atlamak" width="1200" height="790" loading="lazy"></a><figcaption>Hendeği atlamak</figcaption></figure>
 
-*Geoffery Moore’un ünlü Crossing the Chasm grafiği. (Kaynak: [Wikipedia](https://en.wikipedia.org/wiki/Crossing_the_Chasm))*
+*Geoffrey Moore’un ünlü Crossing the Chasm grafiği. (Kaynak: [Wikipedia](https://en.wikipedia.org/wiki/Crossing_the_Chasm))*
 
 Web3’ün şu an için altyapısını yavaş yavaş tamamlamak üzere olduğunu, üzerine Web 2.0 ile yarışacak ürün ve hizmetlerin sunulmaya başladığını söyleyebiliriz.
 
@@ -74,7 +74,7 @@ Grafiğe baktığımızda internet kullanıcı sayısının bir milyar kişiye u
 
 Peki Web3 dünyasının daha geniş bir kitleye ulaşabilmesi için neler yapması gerekiyor? Bu konuya son bölümümüzde ayrıntılı olarak değiniyoruz. Burada kısa bir değerlendirme yaparsak:
 
-### Daha iyi bir kullanıcı deneyimi {#daha-iyi-bir-kullanici-deneyimi}
+### Web3 için daha iyi bir kullanıcı deneyimi {#daha-iyi-bir-kullanici-deneyimi}
 
 Öncelikle Web3 uygulamalarının daha kullanıcı dostu olması gerekiyor. Blokzincir teknolojisinin ilk yıllarında, bu alanda çalışan geliştiriciler için en önemli konu sağlam ve güvenilir bir altyapı oluşturmaktı. Tamamen bir mühendislik çalışması olan bu konuda ciddi bir ilerleme sağlandı. Şimdi ise sıra Web3 projelerinin kullanıcı deneyimi alanında kendilerinden oldukça ileri bir seviyede olan Web 2.0’da yaptıklarından ders çıkarmasına geldi.
 
@@ -82,7 +82,7 @@ Peki Web3 dünyasının daha geniş bir kitleye ulaşabilmesi için neler yapmas
 
 Kullanıcı deneyimi alanında belki de en önemli engel bireylerin bu dünyaya ilk adım attıklarında kullandıkları cüzdanlarda başlıyor. Bireylerin Web3 ekosisteminde bulunan varlıklarının tek sahibi olmaları onlara aynı zamanda ciddi bir sorumluluk yüklüyor. Bu sahiplik kullanıcıya özellikle cüzdanlarına erişimini kaybettiği durumda ciddi zarar verebiliyor. Neyse ki, bu alanda son yıllarda ortaya çıkan yeni teknoloji cüzdanlar bu sorunu ortadan kaldırmaya aday. Bana sorarsanız bu sayede, geniş kesimlerin Web3 uygulamalarını kullanımında çağ atlanacak.
 
-### Ürün-pazar uyumu {#urun-pazar-uyumu}
+### Web3’te ürün-pazar uyumu {#urun-pazar-uyumu}
 
 Yine de Web3 alanındaki uygulamaların büyük kısmı, Web 2.0’da çok konuşulan pazar-ürün uyumunu yakalayabilmiş değiller. Kullanıcı için herhangi bir uygulamayı neden kullanması gerektiği hâlâ çok net değil. Burada adaptasyonun zaman içinde, kullanıcı Web 2.0 uygulamalarında sıkıntı çektikçe geleceğini söyleyebiliriz.
 
@@ -92,7 +92,7 @@ Web3 uygulamalarında ise böyle bir durum söz konusu değil. Kullanıcının �
 
 ### Merkezi kurumlar ile merkeziyetsiz çözümlerin iş birliği {#merkezi-kurumlar-ile-merkeziyetsiz-cozumlerin-is-birligi}
 
-Bunun dışında özellikle Web 2.0 dünyası oyuncularının, başta finans kurumları olmak üzere özellike kriptopara yatırımı ile ilgili hizmetleri müşterilerine sunması bu alanda kullanıcı sayısının artmasına ciddi bir katkı sağlayacak. Bunun gerçekleşebilmesi için kanuni altyapıların hazır olması gerekiyordu. Ülkemizde 2024 yılı ortasında çıkan yasa, bu anlamda belirsizliği ortadan kaldırması ve finans kurumlarının önünü açması açısından oldukça önemli bir mihenk taşı olarak kabul edilebilir.
+Bunun dışında özellikle Web 2.0 dünyası oyuncularının, başta finans kurumları olmak üzere özellikle kriptopara yatırımı ile ilgili hizmetleri müşterilerine sunması bu alanda kullanıcı sayısının artmasına ciddi bir katkı sağlayacak. Bunun gerçekleşebilmesi için kanuni altyapıların hazır olması gerekiyordu. Ülkemizde 2024 yılı ortasında çıkan yasa, bu anlamda belirsizliği ortadan kaldırması ve finans kurumlarının önünü açması açısından oldukça önemli bir mihenk taşı olarak kabul edilebilir.
 
 ## Sonuç {#sonuc}
 

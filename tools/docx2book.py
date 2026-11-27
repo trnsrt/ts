@@ -92,7 +92,19 @@ CORRECTIONS = [
     ('artı yada eksi', 'artı ya da eksi'),
     ('sUSD’nin 2024 yılı', 'sUSDe’nin 2024 yılı'),
     ('WTH.e', 'WETH.e'),
+    # GEO batch B3 (owner-approved)
+    ('pay düşünüyor', 'pay düşüyor'),
+    ('işini içine', 'işin içine'),
+    ('gönüllerin', 'gönüllülerin'),
+    ('sarfediyorlar', 'sarf ediyorlar'),       # 303 and 201: see CORRECTION_EXPECTED
+    ('Geoffery', 'Geoffrey'),                  # body + figure caption: see CORRECTION_EXPECTED
+    ('özellike', 'özellikle'),
+    ('gösterilebiir', 'gösterilebilir'),
+    ('göz atabilirsiniz..', 'göz atabilirsiniz.'),
+    ('“yazar neler saçmalamış“', '“yazar neler saçmalamış”'),
 ]
+# expected number of matching paragraphs for TR corrections that legitimately occur more than once (default 1)
+CORRECTION_EXPECTED = {'Geoffery': 2, 'sarfediyorlar': 2}
 CORRECTION_COUNTS = {c[0]: 0 for c in CORRECTIONS}
 _COUNTED = set()
 _LINK_SEEN = set()
@@ -146,7 +158,17 @@ EN_CORRECTIONS = [
     ('onto the blockchain.The venture', 'onto the blockchain. The venture'),
     ('insight or feature.[^4] This', 'insight or feature. This'),
     ('same group chats.[^4] When', 'same group chats. When'),
+    # GEO batch B3 (owner-approved)
+    ('until through mid-2025', 'through mid-2025'),
+    ('security..', 'security.'),
 ]
+# Fixes of the finished page Markdown (each must match exactly once). The footnote mark is a token of its own, so a
+# fix that spans it (the source has a stray full stop after the mark) can only be made here, where it reads [^10].
+EN_OUT_CORRECTIONS = [
+    ('Congress.[^10].', 'Congress.[^10]'),
+]
+# Stray paragraphs (exact text, ordinary paragraphs only) to drop from the web edition; each must match exactly once.
+EN_DROP_PARAGRAPHS = {'The Block Pro'}
 # Normal-style paragraphs (exact text) that the published contents list as sections of their own.
 EN_PROMOTE_TO_SECTION = {'Regenerative Finance: A New Web3 Vision'}
 # heading text as it appears in the docx -> heading as printed in the book
@@ -207,7 +229,7 @@ PROFILES = {
                chapter_label='Bölüm %d: %s', max_words=4,
                chapter_desc='Sorularla Web3 kitabının %d. bölümü: %s.', promote=set(), heading_overrides={}, style_alias={}),
     'en': dict(name='en', site_title='Web3 Unlocked', url_base='/Web3_Unlocked',
-               img_url='/assets/books/web3-unlocked', overrides=EN_OVERRIDES, corrections=EN_CORRECTIONS,
+               img_url='/assets/books/web3-unlocked', overrides=EN_OVERRIDES, corrections=EN_CORRECTIONS, out_corrections=EN_OUT_CORRECTIONS,
                intro_heading='Introduction', intro_slug='introduction', chapter_slug='chapter-%d',
                chapter_label='Chapter %d: %s', max_words=5,
                chapter_desc='Chapter %d of the book Web3 Unlocked: %s.',
@@ -369,6 +391,18 @@ BODY_HEADING_OVERRIDES = {
         ('209-bitcoin-ikinci-seviye.md', 'cok-guzelmis-neden-daha-once-dusunulmedi-bu-cozumler'): '“Çok güzelmiş, neden Bitcoin üzerinde daha önce düşünülmedi bu çözümler?”',
         ('209-bitcoin-ikinci-seviye.md', 'peki-nasil-yapilacak-bu-cozumler'): 'Peki Bitcoin üzerinde nasıl yapılacak bu çözümler?',
         ('209-bitcoin-ikinci-seviye.md', 'yan-zincirler'): 'Bitcoin için yan-zincirler',
+        ('301-topluluk.md', 'girisime-ne-zaman-katki-vermeye-basliyorlar'): 'Topluluklar girişime ne zaman katkı vermeye başlıyorlar?',
+        ('303-yatirimcilar.md', 'ama-zamanla-gucleniyorlar'): '… ama yatırımcılar zamanla güçleniyorlar…',
+        ('303-yatirimcilar.md', 've-uzmanlasiyorlar'): '…ve yatırımcılar uzmanlaşıyorlar',
+        ('304-gelistiriciler.md', 'rapordan-onemli-basliklar'): 'Developer Report’tan önemli başlıklar',
+        ('304-gelistiriciler.md', 'ilgi-cekici-noktalar'): 'Developer Report’taki ilgi çekici noktalar',
+        ('304-gelistiriciler.md', 'diger-aglarda-durum-nasil'): 'Diğer ağlarda geliştiricilerin durumu nasıl?',
+        ('306-kullanicilar.md', 'daha-iyi-bir-kullanici-deneyimi'): 'Web3 için daha iyi bir kullanıcı deneyimi',
+        ('306-kullanicilar.md', 'urun-pazar-uyumu'): 'Web3’te ürün-pazar uyumu',
+        ('601-kisa-vade-beklentiler.md', 'teknolojik-altyapi-artik-buyuk-olcude-tamamlaniyor'): 'Web3’te teknolojik altyapı artık büyük ölçüde tamamlanıyor',
+        ('601-kisa-vade-beklentiler.md', 'kullanici-dostu-uygulamalar-artacak'): 'Web3’te kullanıcı dostu uygulamalar artacak',
+        ('601-kisa-vade-beklentiler.md', 'regulasyonlar'): 'Web3 için regülasyonlar?',
+        ('601-kisa-vade-beklentiler.md', 'urun-pazar-uyumu'): 'Web3’te ürün-pazar uyumu',
     },
     'en': {
         ('103-web3.md', 'the-movement-begins'): 'The Web3 Movement Begins',
@@ -410,6 +444,20 @@ BODY_HEADING_OVERRIDES = {
         ('207-intents.md', 'the-solver-marketplace'): 'The Intent Solver Marketplace',
         ('207-intents.md', 'from-theory-to-standard'): 'Intents: From Theory to Standard',
         ('207-intents.md', 'the-road-ahead'): 'The Road Ahead for Intents',
+        ('301-community.md', 'the-journey-to-decentralization'): 'A Project’s Journey to Decentralization',
+        ('301-community.md', 'the-inevitable-path-to-decentralization'): 'The Inevitable Path to Decentralization for Web3 Projects',
+        ('301-community.md', 'nice-in-theory-not-so-in-reality'): 'DAOs: Nice in theory not so in reality…',
+        ('303-investors.md', 'a-weaker-hand-at-the-table'): 'A Weaker Hand at the Table for Investors',
+        ('303-investors.md', 'but-the-pendulum-swings-back'): '...But the Pendulum Swings Back for Investors',
+        ('304-developers.md', 'key-takeaways-what-to-watch'): 'Developer Report Key Takeaways: What to Watch',
+        ('305-miners-validators.md', 'why-do-they-exist'): 'Why Do Miners and Validators Exist?',
+        ('306-users.md', 'a-new-model-for-identity'): 'A New Model for Identity in Web3',
+        ('306-users.md', 'a-radically-better-user-experience'): 'A Radically Better User Experience for Web3',
+        ('306-users.md', 'finding-product-market-fit-through-pain'): 'Finding Web3’s Product-Market Fit Through Pain',
+        ('601-short-term-expectations.md', 'infrastructure-has-nearly-arrived'): 'Web3 Infrastructure Has Nearly Arrived',
+        ('601-short-term-expectations.md', 'tackling-the-scaling-problem'): 'Tackling the Blockchain Scaling Problem',
+        ('601-short-term-expectations.md', 'apps-designed-for-everyday-users'): 'Web3 Apps Designed for Everyday Users',
+        ('601-short-term-expectations.md', 'finding-product-market-fit'): 'Finding Product-Market Fit for Web3 Apps',
     },
 }
 
@@ -421,6 +469,19 @@ LINK_TARGET_FIXES = {
     'en': {
         'https://www.google.com/search?q=https://uniswap.org/blog/uniswapx-protocol': 'https://uniswap.org/blog/uniswapx-protocol',
         'https://www.google.com/search?q=https://www.warren.senate.gov/oversight/letters/senators-warren-marshall-kennedy-release-new-information-renew-push-for-answers-from-silvergate-bank-over-role-in-ftx-collapse%23:~:text=On%252520December%2525206%25252C%2525202022%25252C%252520Senators,of%252520dollars%252520in%252520customer%252520funds.': 'https://www.warren.senate.gov/newsroom/press-releases/senators-warren-marshall-kennedy-release-new-information-renew-push-for-answers-from-silvergate-bank-over-role-in-ftx-collapse/',
+        # GEO batch B3: cross-references to the author's Google Docs drafts -> the book's own pages
+        'https://docs.google.com/document/d/1-Rf-rlm3lRqtTnjk41B7xTP6oG-_n9Li2MxWoxrVKRw/edit?pli=1&tab=t.0#heading=h.4afnykvvbdxe': '/Web3_Unlocked/chapter-4/terra-implosion/',
+    },
+    'tr': {
+        # GEO batch B3: cross-references to the author's Google Docs drafts -> the book's own pages
+        'https://docs.google.com/document/d/1-Rf-rlm3lRqtTnjk41B7xTP6oG-_n9Li2MxWoxrVKRw/edit?pli=1&tab=t.0#heading=h.4afnykvvbdxe': '/Sorularla_Web3/bolum-4/terra-ust/',
+        'https://docs.google.com/document/d/1-Rf-rlm3lRqtTnjk41B7xTP6oG-_n9Li2MxWoxrVKRw/edit?pli=1&tab=t.0#heading=h.11x2tby82xx6': '/Sorularla_Web3/bolum-4/3ac-iflasi/',
+        'https://docs.google.com/document/d/1-Rf-rlm3lRqtTnjk41B7xTP6oG-_n9Li2MxWoxrVKRw/edit?pli=1&tab=t.0#heading=h.ady8ubskdz0u': '/Sorularla_Web3/bolum-4/ftx-batisi/',
+        'https://docs.google.com/document/d/1nXVnAHjWh1ZJgeiEXESsYBE0b4tzmDcoRVwBuP7a88U/edit?tab=t.0#heading=h.hc6v4ww0l9l4': '/Sorularla_Web3/bolum-2/bitcoin-ikinci-seviye/',
+        'https://docs.google.com/document/d/15gK0HBOOWCXaFLsgMWq8iU5eNcWX0DX4-biunxRLWKY/edit?tab=t.0#heading=h.ih27gnaxht20': '/Sorularla_Web3/bolum-2/ikinci-seviye-cozumler/',
+        'https://docs.google.com/document/d/1nXVnAHjWh1ZJgeiEXESsYBE0b4tzmDcoRVwBuP7a88U/edit?tab=t.0#heading=h.k8wpuu9c1bq0': '/Sorularla_Web3/bolum-2/kopruler/',
+        'https://docs.google.com/document/d/1nXVnAHjWh1ZJgeiEXESsYBE0b4tzmDcoRVwBuP7a88U/edit?tab=t.0#heading=h.vl2qdgkyp4lf': '/Sorularla_Web3/bolum-2/intentler/',
+        'https://docs.google.com/document/d/1nXVnAHjWh1ZJgeiEXESsYBE0b4tzmDcoRVwBuP7a88U/edit?tab=t.0#heading=h.2qn41fbxvsqn': '/Sorularla_Web3/bolum-2/cuzdanlar/',
     },
 }
 
@@ -1813,6 +1874,10 @@ class Converter:
                 continue
 
             # ---- ordinary paragraph (+ run-in label)
+            if P['name'] == 'en' and plain_text(toks).strip() in EN_DROP_PARAGRAPHS:
+                key = ('drop paragraph', plain_text(toks).strip())
+                PROFILE_USES[key] = PROFILE_USES.get(key, 0) + 1
+                continue
             if df and plain_text(toks).strip() == '.':
                 self.dropped_dots = getattr(self, 'dropped_dots', 0) + 1
                 continue
@@ -2165,7 +2230,11 @@ def main(argv):
         n = PROFILE_USES.get(('link fix', old), 0)
         if n != 1:
             raise SystemExit('link target fix %r must apply exactly once; got %d' % (old, n))
-    bad = {k: v for k, v in CORRECTION_COUNTS.items() if v != 1}
+    if P['name'] == 'en':
+        for txt in EN_DROP_PARAGRAPHS:
+            if PROFILE_USES.get(('drop paragraph', txt), 0) != 1:
+                raise SystemExit('drop paragraph %r must match exactly once; got %d' % (txt, PROFILE_USES.get(('drop paragraph', txt), 0)))
+    bad = {k: v for k, v in CORRECTION_COUNTS.items() if v != (CORRECTION_EXPECTED.get(k, 1) if P['name'] == 'tr' else 1)}
     if bad:
         raise SystemExit('corrections must match exactly once; got %r' % bad)
     sweep(out_dir, files)

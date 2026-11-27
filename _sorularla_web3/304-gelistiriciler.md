@@ -18,7 +18,7 @@ Geliştirici dünyasını en yakından takip eden çalışma ise Electric Capita
 
 Gelin raporun 2024 yılında çıkan son baskısından seçtiğimiz verileri hep birlikte inceleyelim:
 
-## Rapordan önemli başlıklar {#rapordan-onemli-basliklar}
+## Developer Report’tan önemli başlıklar {#rapordan-onemli-basliklar}
 
 Raporun hemen başında yer alan yönetici özeti, dokümanı hazırlayanların önemli bulduğu çıkarımları özetlemesi bakımından ilgi çekici. Neymiş bu noktalar önce ona bakalım:
 
@@ -29,7 +29,7 @@ Raporun hemen başında yer alan yönetici özeti, dokümanı hazırlayanların 
 - Yazılımcıların yavaş yavaş, birden çok ağ için geliştirme yaptıkları da bir başka önemli gözlem. 2015 yılında %10’dan az olan birden fazla ağa katkı veren geliştirici sayısı aradan geçen dokuz yılda ciddi bir artış gösterdi. Artık her üç geliştiriciden biri, birden fazla ağda aktif.
 - Ethereum geliştirici sayısı olarak açık ara birinciliğini korurken, Solana bu alanda en çok artış gösteren ağ. Bitcoin geliştiricilerinin %42’si Bitcoin ölçeklenme çözümleri üzerine çalışırken, Ethereum ekosistemi içindeki geliştiricilerin %42’sinin Base üzerinde olması dikkat çekici bir başka nokta.
 
-## İlgi çekici noktalar {#ilgi-cekici-noktalar}
+## Developer Report’taki ilgi çekici noktalar {#ilgi-cekici-noktalar}
 
 ### Geliştirici sayılarında yıllar itibariyle yükselen trend {#gelistirici-sayilarinda-yillar-itibariyle-yukselen-trend}
 
@@ -81,7 +81,7 @@ Burada da EVM’in ağırlığı olduğunu görmek mümkün. Aşağıdaki grafik
 
 <figure><a href="/assets/books/sorularla-web3/304-6.png"><img src="/assets/books/sorularla-web3/304-6.png" alt="Çoklu zincirde çalışan geliştiricilerin çalıştıkları ağ cinsinden dağılımı" width="1200" height="550" loading="lazy"></a><figcaption>Çoklu zincirde çalışan geliştiricilerin çalıştıkları ağ cinsinden dağılımı <span class="fig-note"><em>Birden çok zincirde çalışan geliştiricilerin EVM ya da EVM dışı çalıştıkları ağa göre dağılımı. (Kaynak: <a href="https://www.developerreport.com/developer-report">Electric Capital Developer Report 2024</a> Sayfa 57)</em></span></figcaption></figure>
 
-### Diğer ağlarda durum nasıl? {#diger-aglarda-durum-nasil}
+### Diğer ağlarda geliştiricilerin durumu nasıl? {#diger-aglarda-durum-nasil}
 
 Büyük ağları geçip daha da küçük ağlara baktığımızda ise şimdiye kadar gördüğümüz düşüş tablosunun bir parça kırıldığını görüyoruz.
 

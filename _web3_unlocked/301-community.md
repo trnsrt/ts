@@ -26,7 +26,7 @@ This is why community is everything in Web3. A project’s strength isn’t meas
 
 A **[Decentralized Autonomous Organization](https://www.investopedia.com/tech/what-dao/)** is what it sounds like: a community with a shared mission and a bank account, governed by rules encoded on the blockchain. Think of it less like a traditional company and more like a collective of people from all over the world, working together as peers. The "laws" of this organization—how to vote, how to spend funds, how to reward contributions—are written into transparent, unstoppable smart contracts. It’s an [organization](https://ethereum.org/en/dao/) with no CEO, no boardroom, and no single point of failure.
 
-### The Journey to Decentralization {#the-journey-to-decentralization}
+### A Project’s Journey to Decentralization {#the-journey-to-decentralization}
 
 A project doesn't typically start as a DAO on day one. There's a [natural evolution from a centralized team to a decentralized community](https://a16zcrypto.com/posts/tags/progressive-decentralization/). Why?
 
@@ -56,7 +56,7 @@ Naturally, contributors also expect to share in the economic upside they help cr
 
 Instead, value is delivered in other ways. Token holders are often granted [special privileges](https://coinmarketcap.com/academy/glossary/utility-token), like priority access to new features, discounted fees when using the product, or exclusive opportunities in collaborations with other projects. It's a way to reward the community and deepen their engagement in the ecosystem without crossing regulatory lines.
 
-### The Inevitable Path to Decentralization {#the-inevitable-path-to-decentralization}
+### The Inevitable Path to Decentralization for Web3 Projects {#the-inevitable-path-to-decentralization}
 
 A project can have a token, a public blockchain, and a passionate user base, but if all the critical decisions are made by a small, centralized team, it has failed to deliver on the core promise of Web3. Decentralization isn’t a technical feature; it’s the diffusion of power.
 
@@ -88,7 +88,7 @@ Different types of DAOs range from Protocol DAOs like Uniswap and MakerDAO, whic
 
 Beyond these, other crucial types make the backbone of the ecosystem. Infrastructure DAOs build the essential "picks and shovels"—the voting, treasury, and operational tools that all other DAOs rely on. Grant DAOs serve as decentralized funding bodies, distributing capital to encourage growth within their specific ecosystems. Information DAOs act as the media and knowledge-management arms of Web3, running community-owned wikis and news outlets to keep everyone informed. Finally, Funding DAOs are challenging the traditional venture capital model by allowing members to pool capital, source deals, and co-invest in promising early-stage projects, democratizing access to startup investing.
 
-## Nice in theory not so in reality… {#nice-in-theory-not-so-in-reality}
+## DAOs: Nice in theory not so in reality… {#nice-in-theory-not-so-in-reality}
 
 While in theory, DAOs give online communities the tools to govern themselves, make collective decisions, and share in the value they create together, the reality is a bit different.
 

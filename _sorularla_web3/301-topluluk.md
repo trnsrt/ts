@@ -32,7 +32,7 @@ DAO’ları tek bir cümle ile “Ortak bir amacı gerçekleştirmek için bir a
 
 DAO’ları, dünyanın dört bir tarafına dağılmış insanların beraberce çalışabilmelerini sağlayan yapılar olarak da düşünebiliriz. Bu insanların birlikte nasıl çalışacakları ve bu eforları karşılığı nasıl ödüllendirilecekleri, akıllı kontratlar tarafından düzenlenerek blokzincir üzerine işleniyor.
 
-### Girişime ne zaman katkı vermeye başlıyorlar? {#girisime-ne-zaman-katki-vermeye-basliyorlar}
+### Topluluklar girişime ne zaman katkı vermeye başlıyorlar? {#girisime-ne-zaman-katki-vermeye-basliyorlar}
 
 Girişimler ilk hayata geçtiklerinde ana ekip tarafından geliştirilip büyütülüyor ancak bir noktadan sonra topluluğun yönetimi DAO’lara devrediliyor. Neden? Bunun birkaç temel nedeni var.
 
@@ -104,7 +104,7 @@ Herhangi bir topluluğu incelemek için ilk bakmanız gereken yer ürün ya da h
 
 Benzer şekilde girişimin kendi sitesindeki forumlar ya da girişim hakkındaki reddit alt forumları (subreddit’ler) de topluluğu anlamak açısından faydalı olabilir. Girişimin Discord ya da Reddit üye sayılarını rakipleri ile karşılaştırmayı büyüklüklerini anlamak için bir yöntem olarak kullanabilirsiniz (son dönemde rakamların makyajlandığı yönünde iddialar olduğunu da unutmayın). Elbette, girişimin ve ekip üyelerinin Twitter hesapları ve topluluk ile iletişimleri de size ilginç ipuçları verebilir.
 
-Girişimi sadece ekip ve kullanıcılar olarak düşünmemek lazım elbet. Aslında topluluk olarak bahsettiğimiz bütün bir ekosistem. Burada yazılımcı/geliştiricilere de büyük bir pay düşünüyor. Girişimin geliştiricilere sağladığı altyapı (örneğin onların kod yazmasını kolaylaştırıcı araçlar) oldukça önemli.
+Girişimi sadece ekip ve kullanıcılar olarak düşünmemek lazım elbet. Aslında topluluk olarak bahsettiğimiz bütün bir ekosistem. Burada yazılımcı/geliştiricilere de büyük bir pay düşüyor. Girişimin geliştiricilere sağladığı altyapı (örneğin onların kod yazmasını kolaylaştırıcı araçlar) oldukça önemli.
 
 Token çıkarma aşamasına gelmiş daha olgun girişimler, token dağılım tablolarında ekosistemin gelişmesi için ciddi bir pay ayırıyor. Bu pay, genel olarak girişimin çıkardığı hizmetleri kullanan, bu hizmetlere ekstra özellikler katacak yan ürünler çıkaran ve kendi ürünlerini girişime entegre eden geliştiricileri fonlamak için kullanılıyor. Tabii ki bütün bu çabanın temel amacını, tüm ekosistemin büyümesi ve girişimin bu büyümeden aslan payını alması olarak özetleyebiliriz.
 

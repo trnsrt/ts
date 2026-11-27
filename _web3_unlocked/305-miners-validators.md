@@ -12,7 +12,7 @@ description: "Web3 introduces a new class of participants that simply didn’t e
 
 Web3 introduces a new class of participants that simply didn’t exist in Web 2.0: miners and validators. They are the guardians of the network, the decentralized workforce that keeps the entire ecosystem running.
 
-## Why Do They Exist? {#why-do-they-exist}
+## Why Do Miners and Validators Exist? {#why-do-they-exist}
 
 Web3 projects aren't companies; they're open ecosystems built on blockchain infrastructure. This digital world is like the Wild West—a permissionless frontier where anyone, including malicious actors, can enter and interact with the system.
 

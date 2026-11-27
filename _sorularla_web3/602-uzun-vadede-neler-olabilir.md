@@ -10,7 +10,7 @@ permalink: /Sorularla_Web3/bolum-6/uzun-vadede-neler-olabilir/
 description: "Orta ve uzun vadeyi tahmin etmek gerçekten zor."
 ---
 
-Orta ve uzun vadeyi tahmin etmek gerçekten zor. Eğer bu satırları 2030 yılında okuyorsanız, içinizden “yazar neler saçmalamış“ diye geçiriyor olma ihtimaliniz yüksek. :)
+Orta ve uzun vadeyi tahmin etmek gerçekten zor. Eğer bu satırları 2030 yılında okuyorsanız, içinizden “yazar neler saçmalamış” diye geçiriyor olma ihtimaliniz yüksek. :)
 
 Uzun uzadıya tahmin yapmadan maddeler halinde beklentilerimizi yazalım:
 

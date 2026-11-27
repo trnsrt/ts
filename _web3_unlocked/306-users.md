@@ -12,7 +12,7 @@ description: "Every player in the Web3 ecosystem—from founders to investors to
 
 Every player in the Web3 ecosystem—from founders to investors to validators—is working towards a single goal: getting people to actually use this technology. So, have they succeeded? For now, the honest answer is "no." To understand what it will take to get to "yes," we first need to grasp how Web3 fundamentally redefines the concept of a user.
 
-## A New Model for Identity {#a-new-model-for-identity}
+## A New Model for Identity in Web3 {#a-new-model-for-identity}
 
 It’s nearly impossible to know how many individual "people" use Web3, because the system isn't designed to know. Unlike the physical world, where your identity is tied to your person, the digital world allows for a different model. In Web3, users are not anonymous, but pseudonymous. This is a critical distinction, born from a deep-seated philosophical difference about privacy and ownership.
 
@@ -58,7 +58,7 @@ Another key metric is the actual usage of the networks. The chart below shows th
 
 <figure><a href="/assets/books/web3-unlocked/306-3.png"><img src="/assets/books/web3-unlocked/306-3.png" alt="Transaction Trends" width="1200" height="782" loading="lazy"></a><figcaption>Transaction Trends <span class="fig-note">Quarterly transaction counts on blockchains. (Source: <a href="https://app.artemisanalytics.com/chains">Artemis</a>)</span></figcaption></figure>
 
-The trend line tells a story of resilience and renewed momentum. After explosive growth in 2021, the market stagnation of 2022 and 2023 led to a predictable cooldown in transaction volume. However, beginning in the final quarter of 2023 and until through mid-2025, activity has been increasing rapidly, signaling that users are returning and engaging with applications at a growing rate.
+The trend line tells a story of resilience and renewed momentum. After explosive growth in 2021, the market stagnation of 2022 and 2023 led to a predictable cooldown in transaction volume. However, beginning in the final quarter of 2023 and through mid-2025, activity has been increasing rapidly, signaling that users are returning and engaging with applications at a growing rate.
 
 ## How Does Web3 Reach More Users? {#how-does-web3-reach-more-users}
 
@@ -66,7 +66,7 @@ It's clear that most people are not yet using Web3 applications in their daily l
 
 As we'll explore in detail in the final chapter, the answer comes down to solving a few critical problems. Here’s a brief look at the path forward.
 
-### A Radically Better User Experience {#a-radically-better-user-experience}
+### A Radically Better User Experience for Web3 {#a-radically-better-user-experience}
 
 First and foremost, Web3 applications must become radically more user-friendly. For years, developers rightly focused on the deep engineering challenge of building a secure and reliable decentralized infrastructure. That work has paid off, and the foundation is now largely in place.
 
@@ -84,7 +84,7 @@ Fortunately, a new wave of wallet technology is emerging to solve this problem. 
 
 In short, these new wallets can make using a Web3 application as simple and safe as using a modern mobile app. If you ask me, their widespread adoption won't just be an improvement—it will usher in a new era, finally making Web3 accessible to everyone.
 
-### Finding Product-Market Fit Through Pain {#finding-product-market-fit-through-pain}
+### Finding Web3’s Product-Market Fit Through Pain {#finding-product-market-fit-through-pain}
 
 Most Web3 applications haven't yet achieved the product-market fit that defines successful Web 2.0 companies. The reason is simple: for most people, the "pain" of using Web 2.0 isn't acute enough to force a change. Adaptation will come slowly, then all at once, as users increasingly suffer the pain of centralized platforms.
 
