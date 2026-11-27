@@ -91,9 +91,11 @@ CORRECTIONS = [
     ('bu oran %98’e%2.', 'bu oran %98’e %2.'),
     ('artı yada eksi', 'artı ya da eksi'),
     ('sUSD’nin 2024 yılı', 'sUSDe’nin 2024 yılı'),
+    ('WTH.e', 'WETH.e'),
 ]
 CORRECTION_COUNTS = {c[0]: 0 for c in CORRECTIONS}
 _COUNTED = set()
+_LINK_SEEN = set()
 
 EN_OVERRIDES = {
     'Web 1.0: The Age of Protocols': ('web-1-0', None),
@@ -347,6 +349,26 @@ BODY_HEADING_OVERRIDES = {
         ('412-ethena.md', 'shortlamak-her-zaman-gelir-getirmiyor-ya-uzun-sure-negatif-gidip-zarar-yazarsa'): 'Ethena için short’lamak her zaman gelir getirmiyor; ya uzun süre negatif gidip zarar yazarsa?',
         ('412-ethena.md', 'kaldi-mi-baska-risk'): 'Ethena’da başka risk kaldı mı?',
         ('412-ethena.md', 'riskler-cok-mu-fazla'): 'Ethena’nın riskleri çok mu fazla?',
+        ('000-giris.md', 'topluluk'): 'Web3’te topluluk',
+        ('000-giris.md', 'kurucu-ekipler'): 'Web3’te kurucu ekipler',
+        ('000-giris.md', 'yatirimcilar'): 'Web3’te yatırımcılar',
+        ('000-giris.md', 'gelistiriciler'): 'Web3’te geliştiriciler',
+        ('000-giris.md', 'madenciler-ve-onaylayicilar'): 'Web3’te madenciler ve onaylayıcılar',
+        ('000-giris.md', 'kullanicilar'): 'Web3’te kullanıcılar',
+        ('202-bitcoin-solana-ve-ethereum.md', 'son-donemde-neler-yasadik'): 'Kripto piyasasında son dönemde neler yaşadık?',
+        ('204-ikinci-seviye-cozumler.md', 'ethereum-guvencesi'): 'İkinci seviye çözümlerde Ethereum güvencesi',
+        ('204-ikinci-seviye-cozumler.md', 'her-ek-yazilim-risk-demek'): 'İkinci seviye çözümlerde her ek yazılım risk demek',
+        ('204-ikinci-seviye-cozumler.md', 'gelirler'): 'İkinci seviye çözümlerin gelirleri',
+        ('204-ikinci-seviye-cozumler.md', 'giderler'): 'İkinci seviye çözümlerin giderleri',
+        ('205-kopruler.md', 'sikintilari-neler'): 'Köprülerin sıkıntıları neler?',
+        ('207-intentler.md', 'ne-tip-islemlerden-bahsediyoruz'): 'Intent ile ne tip işlemlerden bahsediyoruz?',
+        ('208-celestia.md', 'baska-neler-var'): 'Modüler blokzincir dünyasında başka neler var?',
+        ('209-bitcoin-ikinci-seviye.md', 'madenciler'): 'Bitcoin ekosisteminde madenciler',
+        ('209-bitcoin-ikinci-seviye.md', 'kullanicilar'): 'Bitcoin ekosisteminde kullanıcılar',
+        ('209-bitcoin-ikinci-seviye.md', 'gelistiriciler'): 'Bitcoin ekosisteminde geliştiriciler',
+        ('209-bitcoin-ikinci-seviye.md', 'cok-guzelmis-neden-daha-once-dusunulmedi-bu-cozumler'): '“Çok güzelmiş, neden Bitcoin üzerinde daha önce düşünülmedi bu çözümler?”',
+        ('209-bitcoin-ikinci-seviye.md', 'peki-nasil-yapilacak-bu-cozumler'): 'Peki Bitcoin üzerinde nasıl yapılacak bu çözümler?',
+        ('209-bitcoin-ikinci-seviye.md', 'yan-zincirler'): 'Bitcoin için yan-zincirler',
     },
     'en': {
         ('103-web3.md', 'the-movement-begins'): 'The Web3 Movement Begins',
@@ -366,6 +388,39 @@ BODY_HEADING_OVERRIDES = {
         ('000-introduction.md', 'the-new-financial-system'): 'Web3’s New Financial System',
         ('000-introduction.md', 'the-ownership-economy'): 'The Ownership Economy in Everyday Life',
         ('000-introduction.md', 'the-next-horizons'): 'Web3’s Next Horizons',
+        ('101-web-1-0.md', 'open-and-free-by-design'): 'Web 1.0: Open and Free by Design',
+        ('101-web-1-0.md', 'clumsy-by-modern-standards'): 'Web 1.0: Clumsy by Modern Standards',
+        ('102-web-2-0.md', 'the-gold-rush'): 'The Web 2.0 Gold Rush',
+        ('102-web-2-0.md', 'the-price-of-free'): 'The Price of "Free" in Web 2.0',
+        ('102-web-2-0.md', 'radical-centralization'): 'Web 2.0: Radical Centralization',
+        ('102-web-2-0.md', 'proprietary-walled-gardens'): 'Web 2.0: Proprietary, Walled Gardens',
+        ('102-web-2-0.md', 'fast-user-focused-applications'): 'Web 2.0: Fast, User-Focused Applications',
+        ('202-bitcoin-solana-ethereum.md', 'whats-been-happening-lately'): 'What’s Been Happening Lately in Crypto Markets?',
+        ('204-layer-2-solutions.md', 'security-by-inheritance'): 'Layer 2 Security by Inheritance',
+        ('204-layer-2-solutions.md', 'hubs-of-innovation'): 'Layer 2s as Hubs of Innovation',
+        ('204-layer-2-solutions.md', 'an-economic-flywheel'): 'The Layer 2 Economic Flywheel',
+        ('204-layer-2-solutions.md', 'the-road-ahead'): 'The Road Ahead for Layer 2s',
+        ('205-bridges.md', 'the-great-migration'): 'The Great Migration Across Chains',
+        ('205-bridges.md', 'how-they-work-lock-and-mint'): 'How Bridges Work: Lock and Mint',
+        ('205-bridges.md', 'a-battlefield-of-ideas'): 'A Battlefield of Bridge Designs',
+        ('205-bridges.md', 'the-billion-dollar-risk'): 'The Billion-Dollar Risk of Bridges',
+        ('205-bridges.md', 'the-future-is-invisible'): 'The Future of Bridges is Invisible',
+        ('206-wallets.md', 'the-new-center-of-gravity'): 'The New Center of Gravity for Smart Wallets',
+        ('207-intents.md', 'old-way-vs-new-way'): 'Old Way vs. New Way of Making Transactions',
+        ('207-intents.md', 'the-solver-marketplace'): 'The Intent Solver Marketplace',
+        ('207-intents.md', 'from-theory-to-standard'): 'Intents: From Theory to Standard',
+        ('207-intents.md', 'the-road-ahead'): 'The Road Ahead for Intents',
+    },
+}
+
+
+# Link-target fixes (GEO batch B2): the manuscript wraps some targets in a Google search URL. Exact old target -> new target,
+# per book profile, applied where hyperlinks are read (para_tokens). Each entry must apply exactly once or main() exits
+# non-zero (counted once per source paragraph, like the CORRECTIONS lists).
+LINK_TARGET_FIXES = {
+    'en': {
+        'https://www.google.com/search?q=https://uniswap.org/blog/uniswapx-protocol': 'https://uniswap.org/blog/uniswapx-protocol',
+        'https://www.google.com/search?q=https://www.warren.senate.gov/oversight/letters/senators-warren-marshall-kennedy-release-new-information-renew-push-for-answers-from-silvergate-bank-over-role-in-ftx-collapse%23:~:text=On%252520December%2525206%25252C%2525202022%25252C%252520Senators,of%252520dollars%252520in%252520customer%252520funds.': 'https://www.warren.senate.gov/newsroom/press-releases/senators-warren-marshall-kennedy-release-new-information-renew-push-for-answers-from-silvergate-bank-over-role-in-ftx-collapse/',
     },
 }
 
@@ -744,6 +799,21 @@ class Docx:
         toks = self._para_tokens_raw(p, rels)
         first = id(p) not in _COUNTED
         _COUNTED.add(id(p))
+        fixes = LINK_TARGET_FIXES.get(P['name'], {})
+        if fixes:
+            link_first = p not in _LINK_SEEN      # the set keeps the element alive, so a re-read of the same paragraph is recognised
+            _LINK_SEEN.add(p)
+            hit_urls = set()                       # a link split in two runs/hyperlinks (same target) counts once per paragraph
+            def fix_links(ts):
+                for t in ts:
+                    if t.kind == 'link':
+                        if t.url in fixes:
+                            if link_first and t.url not in hit_urls:
+                                hit_urls.add(t.url)
+                                PROFILE_USES[('link fix', t.url)] = PROFILE_USES.get(('link fix', t.url), 0) + 1
+                            t.url = fixes[t.url]
+                        fix_links(t.inner)
+            fix_links(toks)
         joined = ''.join(t.text for t in flat_text(toks))
         for corr in P['corrections']:
             old, new = corr[0], corr[1]
@@ -2091,6 +2161,10 @@ def main(argv):
         n = PROFILE_USES.get(('body heading', fname, hid), 0)
         if n != 1:
             raise SystemExit('body heading override (%s, #%s) must apply exactly once; got %d' % (fname, hid, n))
+    for old in LINK_TARGET_FIXES.get(P['name'], {}):
+        n = PROFILE_USES.get(('link fix', old), 0)
+        if n != 1:
+            raise SystemExit('link target fix %r must apply exactly once; got %d' % (old, n))
     bad = {k: v for k, v in CORRECTION_COUNTS.items() if v != 1}
     if bad:
         raise SystemExit('corrections must match exactly once; got %r' % bad)

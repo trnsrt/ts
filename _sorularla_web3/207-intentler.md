@@ -38,7 +38,7 @@ Son zamanlarda, bu ana blokzincir üzerindeki işlem yükünü zincir üzerinden
 
 Intent'ler, temel olarak kullanıcıların yapmak istedikleri kompleks işlemleri anlayıp onları zincir dışında gerçekleştiren, sonra bu işlemlerin sonuçlarını zincire kaydeden araçlara verilen genel ad. Yani kullanıcı yaptırmak istediği işlemler için tek tek blokzincir ile muhatap olmuyor. Hatta ne yapması gerektiğini bilmesine bile gerek yok. Ne istediğini belirtiyor ve aracılar onun yerine gerekli işlemleri gerçekleştiriyorlar.
 
-## Ne tip işlemlerden bahsediyoruz? {#ne-tip-islemlerden-bahsediyoruz}
+## Intent ile ne tip işlemlerden bahsediyoruz? {#ne-tip-islemlerden-bahsediyoruz}
 
 Intent ile neler yapılabileceği ile ilgili uçsuz bucaksız hayaller kurabilirsiniz. Dilerseniz, pratik bir örnek ile başlayalım neler yapabileceğimize; merkeziyetsiz bir borsa üzerinde al-sat işlemi yapmak.
 

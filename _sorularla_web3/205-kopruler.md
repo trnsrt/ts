@@ -54,7 +54,7 @@ En basit haliyle bir köprünün temel işlevini, kullanıcının sahip olduğu 
 
 Şimdiye kadar hep değer transferi üzerinden örneklendirdiğimiz bu özellik, aslına bakarsanız özünde bilginin (verinin) bir ağda teyit edilip diğer ağa gönderilmesi demek. Bu nedenle köprüler, sadece dijital varlık (değer) değil, herhangi bir bilginin transferi için de kullanılabiliyor.
 
-Kullanıcıya diğer ağda verilen değerin ne olduğu köprülerin temel dizayn farklılıklarına göre değişebiliyor. Örneğin elinizde Ethereum ağında bulunan ETH’niz var ise, bunu Avalanche ağına geçirdiğinizde köprü size WTH.e adında değeri ETH’ye eşit başka bir token veriyor. Kimi ağlarda ise aynı merkeziyetsiz borsalarda olduğu gibi, bir ağın temel tokenini diğer ağın tokeni ile takas edebiliyorsunuz. Örneğin, Ethereum’da ETH verip yerine Solana’da o ağın tokeni SOL’u alabiliyorsunuz.
+Kullanıcıya diğer ağda verilen değerin ne olduğu köprülerin temel dizayn farklılıklarına göre değişebiliyor. Örneğin elinizde Ethereum ağında bulunan ETH’niz var ise, bunu Avalanche ağına geçirdiğinizde köprü size WETH.e adında değeri ETH’ye eşit başka bir token veriyor. Kimi ağlarda ise aynı merkeziyetsiz borsalarda olduğu gibi, bir ağın temel tokenini diğer ağın tokeni ile takas edebiliyorsunuz. Örneğin, Ethereum’da ETH verip yerine Solana’da o ağın tokeni SOL’u alabiliyorsunuz.
 
 ## Ne tip köprüler var? {#ne-tip-kopruler-var}
 
@@ -74,7 +74,7 @@ Son olarak, birden fazla blokzincir arasında birden fazla tokenin transfer edil
 
 Yukarıda bahsettiğimiz köprülerin yanında, blokzincirler arası değer transferini doğal bir şekilde yapmaya aday 0 seviye dediğimiz daha temel çözümler de mevcut. Üstelik birlikte çalışılabilirlik olarak adlandırılan bu çözümler için uzun süredir geliştirme yapılıyor. Farklı blokzincirleri birbirine bağlayan [Polkadot](https://polkadot.network/) ve [Cosmos](https://cosmos.network/) bunların en ünlüleri.
 
-## Sıkıntıları neler? {#sikintilari-neler}
+## Köprülerin sıkıntıları neler? {#sikintilari-neler}
 
 Köprüler ile ilgili en büyük sıkıntı, sonuçta bu araçların da birer akıllı kontrat olmaları. Bu nedenle akıllı kontratların yazım hatalarından dolayı oluşabilecek sıkıntılar burada da yaşanıyor.
 

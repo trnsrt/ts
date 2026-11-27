@@ -12,7 +12,7 @@ description: "In this section, we’ll look at the recent performance of the thr
 
 In this section, we’ll look at the recent performance of the three leading blockchain networks and explore what the future might hold.
 
-## What’s Been Happening Lately? {#whats-been-happening-lately}
+## What’s Been Happening Lately in Crypto Markets? {#whats-been-happening-lately}
 
 After the boom of 2020–21, crypto markets entered a bear market in 2022, triggered by the dramatic [collapse](https://www.theguardian.com/technology/2024/apr/05/ceo-crypto-crash-fraud-terraform-do-kwan) of the Terra Luna ecosystem, centralized lending platforms, and the FTX exchange. By late 2023, however, signs of recovery emerged, waking markets from their prolonged slumber and kicking off a new, albeit volatile, bull market that continued into 2024 and 2025.
 

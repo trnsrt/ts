@@ -7,7 +7,7 @@ redirect_from:
 book:
   name: "Sorularla Blockchain"
   lang: tr
-  date: "2019"
+  date: "2019-09"
   publishers: ["BCTR", "TBV"]
   image: /assets/Sorularla_Blockchain_kapak.jpg
   pdf: /assets/books/Sorularla_Blockchain.pdf
@@ -30,7 +30,7 @@ description: "Turan Sert'in ilk kitabı Sorularla Blockchain: blokzincir teknolo
 
 Kitabın tamamını üye olmadan, çevrimiçi ve ücretsiz olarak [buradan](/Sorularla_Blockchain/oku/) okuyabilirsiniz.
 
-Yayın: BCTR ve TBV, 2019.
+Yayın: BCTR ve TBV, Eylül 2019.
 
 ## İçindekiler {#icindekiler}
 

@@ -12,7 +12,7 @@ description: "Bu kısımda, piyasanın en büyük üç oyuncusunun son dönem pe
 
 Bu kısımda, piyasanın en büyük üç oyuncusunun son dönem performanslarına bakıp, bizi gelecekte nelerin beklediğini anlamaya çalışacağız.
 
-## Son dönemde neler yaşadık? {#son-donemde-neler-yasadik}
+## Kripto piyasasında son dönemde neler yaşadık? {#son-donemde-neler-yasadik}
 
 2020 ve 21 yıllarında yaşanan boğa sonrası 2022 yılında Terra Luna ekosisteminin ‘patlaması’ ile başlayan ve merkezi kredi verme kuruluşlarının ve FTX borsasının batışı ile doruğa çıkan ayı piyasası, 2023 yılı sonlarına doğru içine girdiği derin uykudan yavaş yavaş uyanmaya başladı.
 

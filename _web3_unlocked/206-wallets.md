@@ -30,7 +30,7 @@ The result is a user experience that feels as simple as the best Web2 apps. Here
 - **Layered Security.** Require approvals from both your phone and laptop for large transactions.
 - **Total Convenience.** Set daily spending limits. Let trusted apps perform routine actions without constant pestering.
 
-## The New Center of Gravity {#the-new-center-of-gravity}
+## The New Center of Gravity for Smart Wallets {#the-new-center-of-gravity}
 
 The real action is on Layer 2 networks.
 

@@ -14,23 +14,23 @@ Web3's power has long been trapped behind a wall of complexity, making it intimi
 
 This emerging philosophy is built around **intents**, and it’s beginning to reshape the entire landscape by focusing on a better user experience. The system no longer asks you to be a technician. It asks, "What do you want to do?"
 
-## Old Way vs. New Way {#old-way-vs-new-way}
+## Old Way vs. New Way of Making Transactions {#old-way-vs-new-way}
 
 Before, you did all the work. A simple trade meant manually plotting every step: approve, select a platform, set gas, and execute. It was rigid and unforgiving.
 
 Intents flip this model completely. You don’t give orders; you declare an outcome. You simply sign a message with your goal: "Swap 1 ETH for the most USDC possible, with a max fee of $20." You state the *what* and delegate the *how*.
 
-## The Solver Marketplace {#the-solver-marketplace}
+## The Intent Solver Marketplace {#the-solver-marketplace}
 
 When you broadcast your intent, it enters a competitive marketplace. A network of agents called "solvers" race to find the best way to execute your goal. They might route your trade across multiple chains or exchanges—anything to get you the best price while shielding you from issues like MEV.
 
 Crucially, your assets never leave your wallet until the deal is done. You get a better experience without sacrificing self-custody.
 
-## From Theory to Standard {#from-theory-to-standard}
+## Intents: From Theory to Standard {#from-theory-to-standard}
 
 This isn't just a theory. Intents are now the engine of Web3.
 
-- Pioneers like [Across Protocol](https://across.to/) and [Uniswap X](https://www.google.com/search?q=https://uniswap.org/blog/uniswapx-protocol) proved the model.
+- Pioneers like [Across Protocol](https://across.to/) and [Uniswap X](https://uniswap.org/blog/uniswapx-protocol) proved the model.
 - Exchanges like [CowSwap](https://cow.fi/) have used solvers for years to protect users.
 - Account Abstraction ([ERC-4337](https://eips.ethereum.org/EIPS/eip-4337)) gives intents superpowers, enabling far more complex goals.
 
@@ -42,7 +42,7 @@ The blockchain ecosystem is a sprawling archipelago of L1s, L2s, and appchains. 
 
 Intents are the bridge. They are a universal layer that hides the backend intricacy from you. Protocols like [NEAR](https://near.org/) and [Socket](https://www.socket.tech/) use intents to make cross-chain interactions feel seamless. Use an app on one chain with assets from another. No switching. No headaches.
 
-## The Road Ahead {#the-road-ahead}
+## The Road Ahead for Intents {#the-road-ahead}
 
 Intents are now the bedrock of the Web3 experience. It’s a decisive move away from a system that demanded you be an expert to one that simply works.
 

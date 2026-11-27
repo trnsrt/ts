@@ -22,7 +22,7 @@ Yukarıdaki paragrafta, ‘Bitcoin sistemini geliştirenler’ diye bir tanım k
 
 ## Bitcoin ekosisteminde geliştiriciler dışında başka kimler var? {#bitcoin-ekosisteminde-gelistiriciler-disinda-baska-kimler-var}
 
-### Madenciler {#madenciler}
+### Bitcoin ekosisteminde madenciler {#madenciler}
 
 Bitcoin ekosisteminin geliştiriciler dışında bir başka önemli aktörü sistemin operasyonel olarak güvenli bir şekilde işlemesini sağlayan madenciler. Madenciler, bir yandan sistemin cefakar ‘hamalları’ olarak bütün yükü çekerken, bir yandan da dış dünyadan gelen “ama Bitcoin de çok fazla enerji harcıyor” gibi söylemleri göğüslemek zorunda kalıyorlar.
 
@@ -42,7 +42,7 @@ Uzunca bir süredir Bitcoin üzerinde ödenen işlem ücretleri ödüllerin yan�
 
 Bitcoin üzerinde işlem sayısının artması madencilerin uzun vadede yaşayabilmeleri için oldukça kritik ve bunun için para transferlerinin ötesinde yeni işlemlere ihtiyaçları var.
 
-### Kullanıcılar {#kullanicilar}
+### Bitcoin ekosisteminde kullanıcılar {#kullanicilar}
 
 Bitcoin ağı içindeki en önemli aktör elbette kullanıcılar. Sistemin gerçek bir değer ifade etmesi için geniş kitleler tarafından sürekli bir şekilde kullanılması gerekiyor.
 
@@ -50,11 +50,11 @@ Bitcoin sistemini kurgulayan Satoshi Nakamoto, yarattığı [tanıtım doküman�
 
 Öte yandan, Bitcoin’in bu satırlar yazıldığı sırada 2 trilyon ABD Doları civarında dolaşan bir piyasa değeri var. Kullanıcılar için büyük bir değer ama finansal olarak verimli kullanıldığını söylemek zor. Finansal piyasalarda ya da Ethereum gibi akıllı kontrat platformlarında, elinizde bir değer varsa bunu başkalarına kullandırarak (ya da teminat olarak koyup borç alarak) ekstra bir kazanç elde etmeniz, bir başka deyişle kapitalinizin verimini artırmanız mümkün. Bitcoin sistemi için aynısını söylemek mümkün değil. Dolayısıyla, büyük bir değer sistem içinde atıl olarak duruyor.
 
-### Geliştiriciler {#gelistiriciler}
+### Bitcoin ekosisteminde geliştiriciler {#gelistiriciler}
 
 Bitcoin’in sadece bir ‘değer saklama aracı’ olarak kalması yerine geniş kesimlerce farklı şekillerde kullanılmasını hayal eden bir grup geliştirici Bitcoin sistemi üzerine aynı Ethereum’da olduğu gibi ikinci seviye çözümler üretmek için kolları sıvadılar. Bu geliştiriciler için bu tip çözümlerin üretilmesi hem Bitcoin üzerindeki işlem gelirini artırarak madencilere ek gelir kapısı yaratacak, hem de kullanıcılar için ellerindeki kapitali daha verimli kullanma fırsatı sunacak. Bütün bunların sonunda da geniş kesimler tarafından daha çok kullanılan Bitcoin sistemi değer kazanacak.
 
-## “Çok güzelmiş, neden daha önce düşünülmedi bu çözümler?” {#cok-guzelmis-neden-daha-once-dusunulmedi-bu-cozumler}
+## “Çok güzelmiş, neden Bitcoin üzerinde daha önce düşünülmedi bu çözümler?” {#cok-guzelmis-neden-daha-once-dusunulmedi-bu-cozumler}
 
 Aslına bakarsanız Bitcoin üzerine farklı çözüm bulma serüveni bir hayli eskilere dayanıyor. Bu alandaki ilk örneklerden biri, halen süregelmekte olan ‘Lightning Network’.
 
@@ -64,7 +64,7 @@ Lightning Network (LN), kişiler arası para transferini daha hızlı ve ucuz ya
 
 Bitcoin’i bir ödeme sistemi olarak ölçeklemek için oldukça fonksiyonel olan LN, istenen ölçeğe bir türlü ulaşamadı. Bunun temel nedenleri arasında kanalların içinde yeterince likidite olmadığını ya da kanal açıp kapamanın çok teknik ve karmaşık olduğunu öne sürenler var. Bir dereceye kadar makul olsa da, bana sorarsanız LN’in yeterince yaygınlaşmamasının temel nedeni yine Bitcoin. BTC’nin inişli-çıkışlı değeri, para değişim aracı olarak kullanılmasının önündeki en büyük engel. İnsanların gözünde BTC’nin en büyük değer önerisi, sayıca sınırlı olması ve uzun vadede sürekli yükseliş göstermesi nedeniyle bir ‘değer saklama aracı’ olarak görülmesi. Bir diğer neden ise salt ‘para transferi’ işleminin ölçeklenmesinin yeterli olmaması. Çok daha farklı işlevlere sahip ölçeklenme sistemlerinin geliştirilmesi gerekli.
 
-## Peki nasıl yapılacak bu çözümler? {#peki-nasil-yapilacak-bu-cozumler}
+## Peki Bitcoin üzerinde nasıl yapılacak bu çözümler? {#peki-nasil-yapilacak-bu-cozumler}
 
 Bitcoin’in daha geniş kesimlerce kullanılması için üzerinde sadece para transferi değil her tür işlemin yapılabilmesi gerekiyor. Ancak yukarıda da belirttiğimiz gibi Bitcoin’in üzerinde akıllı kontrat çalıştırabilmek mümkün değil, daha doğrusu çok çok sınırlı.
 
@@ -74,7 +74,7 @@ Ethereum gibi sistemlerde, üzerine kurulu çözümlerin (ki bunlara roll-up ç�
 
 İşte Bitcoin’de bu yok. Yani Bitcoin kendi üzerine yazılan herhangi bir şeyin sadece ‘değiştirilemeyeceği’ garantisini veriyor. Yazılan bilginin doğruluğunu kontrol etmiyor, dolayısıyla herhangi bir garanti vermiyor.
 
-## Yan-zincirler {#yan-zincirler}
+## Bitcoin için yan-zincirler {#yan-zincirler}
 
 Peki Bitcoin üzerindeki çözümler buna karşı nasıl bir strateji izliyorlar? Öncelikle ilk piyasaya çıkan Stacks benzeri zincirler Bitcoin’e ‘yan zincir’ (ingilizcesi side-chain) olarak çalıştılar. Ne demek bu? Bu zincirler, kendi üzerlerinde yaptıkları işlemleri arada bir Bitcoin üzerine yazıyorlar. Bu sayede “bakın işlemler değişmedi” diyorlar dış dünyaya. Kendi içlerinde ise kullanıcılara aynı Ethereum gibi bir akıllı kontrat platformu olarak her tür işlemi yaptırabiliyorlar.
 

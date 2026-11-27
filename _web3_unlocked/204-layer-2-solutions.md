@@ -14,17 +14,17 @@ Modular designs are solving blockchain's scaling problem. This is best seen in t
 
 By processing transactions separately and posting summaries back to Ethereum, L2s boost throughput and slash user fees. This has opened the door for a new wave of applications and users.
 
-### Security by Inheritance {#security-by-inheritance}
+### Layer 2 Security by Inheritance {#security-by-inheritance}
 
 The key difference between an L2 and a rival Layer 1 like Solana is security. L2s are anchored to Ethereum, effectively "renting" its world-class security. User assets remain protected by Ethereum's massive validator set, even if the L2 itself has a problem. This creates a level of trust that new, independent chains must build from scratch.
 
-### Hubs of Innovation {#hubs-of-innovation}
+### Layer 2s as Hubs of Innovation {#hubs-of-innovation}
 
 While secured by Ethereum, each L2 is its own blockchain. This encourages rapid innovation. Features that might take years to reach Ethereum, like better account security, are pioneered on L2s like Starknet and zkSync. They serve as live testbeds for the future of web3.
 
 This layered approach does carry risk. Every new piece of software introduces potential bugs and vulnerabilities.
 
-### An Economic Flywheel {#an-economic-flywheel}
+### The Layer 2 Economic Flywheel {#an-economic-flywheel}
 
 The L2 business model is simple. They charge users a small transaction fee, which is priced just above the cost to post data back to Ethereum.
 
@@ -36,7 +36,7 @@ This model ignited after Ethereum's Dencun upgrade in March 2024, which drastica
 
 [Sustained volume on networks](https://www.cryptopolitan.com/base-arbitrum-lead-l2-activity-revenue-2025/) like Arbitrum and the rapid growth of Coinbase's Base prove that L2s are the primary hub for users on Ethereum.
 
-### The Road Ahead {#the-road-ahead}
+### The Road Ahead for Layer 2s {#the-road-ahead}
 
 Two main challenges remain: decentralization and data costs.
 

@@ -30,7 +30,7 @@ Ethereum diğer bütün ağlar gibi esasında bir yazılım. Bu ağ üzerinde bi
 
 Peki o zaman, diğer birinci seviye dediğimiz Solana, Avalanche gibi zincirlerden farkları ne? Onlar da kullanıcılarına Ethereum’a göre çok daha ucuza işlem yaptırıyorlar?
 
-### Ethereum güvencesi {#ethereum-guvencesi}
+### İkinci seviye çözümlerde Ethereum güvencesi {#ethereum-guvencesi}
 
 İkinci seviye çözümlerin temel farkı, işlemlerin doğru ve eksiksiz gerçekleştiği konusunda Ethereum’un kullanıcılara sunduğu güvencenin aynısını sunabilme avantajı. Nasıl oluyor bu?
 
@@ -46,7 +46,7 @@ Ethereum, Solana ya da Avalanche gibi ağlarda kullanıcı olarak işlem yaptı�
 
 Örneğin, son kullanıcılar için en büyük problemlerden bir tanesi varlıklarını kaybetme riski. Kullanıcılar blokzincir üzerinde sahip oldukları varlıklara ‘özel anahtar’ları ile ulaşıyorlar. Bu özel anahtarları oluşturmak için 12 ya da 24 kelimeye ihtiyaçları var. Bu kelimeleri de sahip oldukları cüzdanda taşıyorlar. Kullanıcının 12 kelimeye ihtiyaç duymadan ve kaybolma riski taşımadan cüzdan sahibi olmasının teknik bir çözümü var. Aralarında Türk gençlerinin kurduğu bir girişim olan [Clave](https://www.getclave.io/)[^1] de dahil olmak üzere pek çok cüzdan uygulaması bu konuda çalışıyor. Ne var ki, Ethereum’un bu temel çözümü getirmesi zaman alacak[^2]. Oysa ikinci seviye çözümlerin kimileri, örneğin zkSync ve Starknet bu çözümü hemen kendi temel sistemleri içine aldılar bile[^3].
 
-### Her ek yazılım risk demek {#her-ek-yazilim-risk-demek}
+### İkinci seviye çözümlerde her ek yazılım risk demek {#her-ek-yazilim-risk-demek}
 
 Dezavantajlarına gelince, ikinci seviye çözümlerin kendileri de birer yazılım. Bu nedenle, ne kadar fazla sayıda yazılım kullanırsanız, o kadar çok yazılımdan kaynaklanabilecek hatalara karşı korumasız hale geliyorsunuz. Bu da unutulmamalı.
 
@@ -54,7 +54,7 @@ Dezavantajlarına gelince, ikinci seviye çözümlerin kendileri de birer yazıl
 
 İkinci seviye çözümlerin ekonomisi oldukça basit aslında. Gelir ve giderleri temel olarak birkaç kalemden oluşuyor. Bu kalemleri iyi anlamak ve nasıl gelişeceklerini tahmin etmek ikinci seviye çözümlerin geleceği hakkında da bize ipuçları verebilir. Önce gelirlerine bakalım.
 
-### Gelirler {#gelirler}
+### İkinci seviye çözümlerin gelirleri {#gelirler}
 
 İkinci seviye çözümlerin gelirleri Ethereum’un gelirleri ile neredeyse tıpatıp aynı. Temel olarak üç kalem saymak mümkün.
 
@@ -86,7 +86,7 @@ Bunun dışında yine Ethereum kısmında uzunca bahsettiğimiz MEV gelirlerinin
 
 *İkinci seviye çözümler üzerindeki kilitli miktar. (Kaynak: [GrowthThePie](https://www.growthepie.xyz/fundamentals/total-value-locked))*
 
-### Giderler {#giderler}
+### İkinci seviye çözümlerin giderleri {#giderler}
 
 İkinci seviye çözümlerin en büyük gider kalemi Ethereum’a ödedikleri alan kullanma ücreti. Bu alanda Mart ayı içinde Ethereum’a gelen [yeni güncelleme](https://www.btchaber.com/dencun-yukseltmesi-ethereum-eth-ana-aginda-yayina-girdi/) işlem gerçekleştirme maliyetlerine ciddi bir ucuzluk getirdi.
 

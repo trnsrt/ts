@@ -90,27 +90,27 @@ Web3 dünyasında cüzdanlar, dijital varlıkların kapısı gibi. Ancak bugün 
 
 Yeni dünyada oluşan katma değer eskisi gibi girişimci ile yatırımcı arasında paylaşılmıyor. Bunların yanında masada oturan ve yaratılan değer üzerinde hak iddia eden yeni aktörler de var. Üçüncü bölümümüzde, Web3 dünyasının ekonomisinde söz sahibi olan aktörleri tek tek inceliyoruz.
 
-### Topluluk {#topluluk}
+### Web3’te topluluk {#topluluk}
 
 Web3 dünyasında topluluklar, girişimleri başarıya taşıyan en kritik unsurlardan biri. Klasik girişimcilik modelinde girişimciler ve yatırımcılar ağırlıktayken, Web3 ekosistemi bu yapıyı genişletti. Artık geliştiriciler, kullanıcılar ve onaylayıcılar gibi aktörler de oluşan katma değerden pay alıyor. DAO’lar (Merkeziyetsiz Otonom Yapılar), toplulukları bir araya getiren yapılar olarak, projelerin merkeziyetsizlik hedeflerine ulaşmasında önemli bir araç. Bu topluluklar, hem projelerin büyümesine katkı sağlıyor hem de karşılığında token ödülleri alarak ekosistemin bir parçası haline geliyorlar.
 
-### Kurucu ekipler {#kurucu-ekipler}
+### Web3’te kurucu ekipler {#kurucu-ekipler}
 
 Web3 girişimciliği, geleneksel teknoloji girişimlerinden oldukça farklı bir yapıya sahip. Birbirini hiç görmemiş, dünyanın dört bir yanından bireylerin bir araya gelerek oluşturduğu projeler oldukça yaygın. Anonimlik, bu dünyada hem bir koruma kalkanı hem de özgürlüğün simgesi. Web3 girişimcilerinin en büyük avantajı ise açık kaynak prensibi. Bu sayede, gönüllüler projelere dışarıdan kolayca katkıda bulunabiliyor ve girişimlerin daha hızlı gelişmesini sağlıyorlar.
 
-### Yatırımcılar {#yatirimcilar}
+### Web3’te yatırımcılar {#yatirimcilar}
 
 Web3 ekosistemindeki yatırımcılar, Web 2.0 yatırımcılarından çok farklı bir şekilde hareket ediyor. Girişim sermayelerinin eskiden olduğu gibi mutlak bir gücü yok; çünkü artık masada geliştiriciler, kullanıcılar ve diğer ekosistem oyuncuları da var. Buna rağmen, yatırımcıların uzmanlaşma ve projelere stratejik destek sağlama konusundaki etkisi artıyor. Günümüzde birçok girişim sermayesi, teknolojik derinlik gerektiren alanlarda uzmanlaşarak projelere değer katıyor. Web3’te yatırım süreçleri daha dinamik ve esnek hale gelmiş durumda.
 
-### Geliştiriciler {#gelistiriciler}
+### Web3’te geliştiriciler {#gelistiriciler}
 
 Web3’ün kalbinde yer alan geliştiriciler, bu ekosistemin lokomotifi. Electric Capital’ın raporuna göre, 2024 yılında sektöre yeni katılan geliştirici sayısı azalsa da, tecrübeli geliştiriciler katkı yapmaya devam ediyor. Ethereum, geliştirici kitlesiyle liderliğini korurken, farklı ağlarda çalışan yazılımcı sayısı da hızla artıyor. Geliştiricilerin birden fazla ağa katkı yapmaya başlaması, ekosistemin çeşitliliğini artırıyor. Açık kaynak kodlu projeler sayesinde, geliştiriciler birbiriyle daha fazla iş birliği yaparak yenilikçi çözümler üretiyor.
 
-### Madenciler ve onaylayıcılar {#madenciler-ve-onaylayicilar}
+### Web3’te madenciler ve onaylayıcılar {#madenciler-ve-onaylayicilar}
 
 Web3 dünyasının altyapısının sürdürülebilirliği, madenciler ve onaylayıcılar sayesinde mümkün oluyor. Bitcoin gibi ağlarda madenciler, Ethereum gibi sistemlerde ise onaylayıcılar, işlemlerin güvenli bir şekilde gerçekleştirilmesini sağlıyor. Bu oyuncular, sistemin merkeziyetsizlik ilkesiyle çalışmasını garanti altına alıyor.
 
-### Kullanıcılar {#kullanicilar}
+### Web3’te kullanıcılar {#kullanicilar}
 
 Web3 ekosisteminde kullanıcı kavramı, Web 2.0’dan oldukça farklı. Kullanıcılar genellikle anonim kalmayı tercih ediyor ve sistemde cüzdan adresleriyle varlık gösteriyor. Ancak, kullanıcı deneyiminin henüz Web 2.0 kadar gelişmiş olmadığını kabul etmek gerek. Yeni nesil cüzdanlar ve kullanıcı dostu arayüzler, bu dünyayı daha erişilebilir hale getirmeye çalışıyor. Gelecekte Web3’ün daha geniş kitlelere ulaşması için ürün-pazar uyumunun sağlanması ve kullanıcıların ihtiyaçlarına daha iyi cevap veren çözümler geliştirilmesi şart.
 

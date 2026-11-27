@@ -30,7 +30,7 @@ Celestia ile ilgili en büyük çekincelerden bir tanesi, işlem yayınlama mali
 
 İlk çıktığı dönemde TIA token bir süreliğine oldukça yüksek bir değerde seyretti. Bunun da temel nedeni, TIA kullanan yeni girişimlerin ileride dağıtacakları airdroplar içinden sisteme TIA kilitleyenlere pay vereceği beklentisi idi. Örneğin, TIA'yı ilk kullanlardan Dymension'ın verdiği token, airdrop peşinde koşanların iştahını aşırı derece kabarttı. Yine de bunun sürdürülebilir bir strateji olmadığını belirtmek gerek, zira bir süre sonra TIA’nın değerinin oldukça düştüğü de görüldü.
 
-## Başka neler var? {#baska-neler-var}
+## Modüler blokzincir dünyasında başka neler var? {#baska-neler-var}
 
 Modüler dünyada her bir parça için farklı farklı çözümlerin hızlı bir şekilde ortaya çıktığını görüyoruz. Örneğin, yukarıda saydığımız fonksiyonlardan işlemleri sıralama konusuna odaklanmış Espresso bunlardan biri. Ya da ikinci seviye blokzincirler arasında hızlı data aktarımı sağlamayı amaçlayan Hyperlane ya da Axelar gibi projeler var. Bir yandan da anahtar teslimi ikinci seviye çözüm sunan Dymension, Conduit gibi hizmet sağlayıcılar yarış halindeler[^4].
 
