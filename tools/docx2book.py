@@ -399,6 +399,10 @@ DF_CORRECTIONS = [
     ('## Defi bir anda nasıl büyüdü?', '## DeFi bir anda nasıl büyüdü?'),
     ('insiyatiflere', 'inisiyatiflere'),
     ('bir başka insiyatif ise', 'bir başka inisiyatif ise'),
+    # 304: the manuscript reuses note number 1 for this sentence, but its only note 1 (Messari, p. 67) is the source of
+    # the quote further down; this marker has no note of its own
+    ('pazarlar idi.[^1]', 'pazarlar idi.'),
+    ('gerekiyor.8[^2]', 'gerekiyor.[^2]'),               # 208: the print's footnote digit "8" glued after the stop
 ]
 
 # Overview of a part for its (otherwise empty) chapter page: a plain descriptive sentence built only from the book's own
@@ -457,6 +461,8 @@ BC_CORRECTIONS = [
     ('olmasında dolayı', 'olmasından dolayı'),
     ('başlangıça', 'başlangıca'),
     ('BTC’nin orjinal yaratıcılarının', 'BTC’nin orijinal yaratıcılarının'),   # GEO batch B6 (owner-approved), 506
+    # 201: the manuscript sentence is unfinished ("... KYC) ve"); this is the printed wording
+    ('(know-your-customer ya da kısaca KYC) ve', '(know-your-customer ya da kısaca KYC) konularında alacakları bir hayli yol var.'),
 ]
 BC_OVERRIDES = {
     'Blockchain’i sosyal fayda için kullanabilir miyiz?': ('sosyal-fayda', None),
@@ -1590,6 +1596,12 @@ class PrintedText:
             r = difflib.SequenceMatcher(None, dk, P[s:e], autojunk=False).ratio()
             if r > bestr:
                 bestr, be = r, e
+        for sh in (1, 2, 3):        # the anchor may sit a few words late: the print may begin with the docx's first word
+            s2 = s - sh
+            if s2 >= lo and P[s2] == dk[0]:
+                r2 = difflib.SequenceMatcher(None, dk, P[s2:be], autojunk=False).ratio()
+                if r2 > bestr:
+                    bestr, s = r2, s2
         info.update(ratio=bestr, start=s, end=be, plen=be - s)
         lr = (be - s) / n
         info['lenratio'] = lr
@@ -1616,11 +1628,18 @@ class PrintedText:
                 return None, info
         out = []
         spans = []
-        for tag, a0, a1, b0, b1 in sm2.get_opcodes():
+        ops = sm2.get_opcodes()
+        for oi, (tag, a0, a1, b0, b1) in enumerate(ops):
             o0 = len(out)
             if tag == 'equal':
                 for x, y in zip(range(a0, a1), range(b0, b1)):
                     out.append(self._footnote_free(ps[y], dw[x]))
+            elif tag == 'delete' and (oi == 0 or oi == len(ops) - 1) and any(dk[a0:a1]):
+                # words at the very edge of the paragraph that the chosen print span lacks: keep the docx words
+                # (a delete in the middle is the print's copy-edit and stays dropped)
+                out.extend(dw[a0:a1])
+            elif tag == 'insert' and (oi == 0 or oi == len(ops) - 1) and any(pk[b0:b1]):
+                pass    # print words before the paragraph's first word or after its last one: a neighbour's text
             elif tag in ('replace', 'insert'):
                 for y in range(b0, b1):
                     t = ps[y]
@@ -1635,7 +1654,8 @@ class PrintedText:
                 q = len(out)
                 for tag, a0, a1, o0, o1 in spans:
                     if a0 <= pm <= a1:
-                        q = o0 + (pm - a0) if tag == 'equal' else (o0 if pm == a0 else o1)
+                        edge = tag == 'delete' and o1 > o0
+                        q = o0 + (pm - a0) if (tag == 'equal' or edge) else (o0 if pm == a0 else o1)
                         break
                 qs.append(q)
             info['marks'] = qs
@@ -2205,13 +2225,31 @@ class Converter:
                 elif t.kind == 'fn':
                     marks.append(wcount)
             fns = [t for t in ctoks if t.kind == 'fn']
-            printed, info = pt.align(ctext, marks or None)
+            typed = []               # df: hand-typed "[^N]" markers, taken out for the alignment and put back after
+            atext = ctext
+            if not fns and re.search(r'\[\^\d+\]', ctext):
+                atext = re.sub(r'\[\^\d+\]', '', ctext)
+                for m in re.finditer(r'\[\^(\d+)\]', ctext):
+                    pre = re.sub(r'\[\^\d+\]', '', ctext[:m.start()])
+                    typed.append((sum(1 for w in pre.split() if PrintedText.key(w) or pt.keep_punct), m.group(1)))
+                marks = [q for q, _ in typed]
+            elif fns and re.search(r'\[\^\d+\]', ctext):
+                print('ALIGN: paragraph with real footnotes and typed markers left as is: %s' % ctext[:60])
+            printed, info = pt.align(atext, marks or None)
             if reason is None and printed is None:
                 reason = info['reason']
             if reason is not None:
                 self.align_stats['kept: ' + reason] += 1
                 self.align_log.append(dict(status='kept', reason=reason, docx=ctext, info=info))
                 continue
+            if typed and printed is not None:
+                res, prev, out = [], 0, info['out']
+                for q, (_, num) in zip(info['marks'], typed):
+                    seg = pt.join(out[prev:q])
+                    res.append(seg + ' [^%s]' % num if seg else '[^%s]' % num)
+                    prev = q
+                rest = pt.join(out[prev:])
+                printed = ' '.join(x for x in res + [rest] if x)
             if printed == ctext:
                 self.align_stats['identical'] += 1
             else:

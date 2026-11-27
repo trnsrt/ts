@@ -28,7 +28,7 @@ Bu gelişmelerden birincisi, hayatın içine kendini hissettirmeden girip kişil
 
 ## Arkasında yatan temel gelişmeler neler? {#arkasinda-yatan-temel-gelismeler-neler}
 
-Blokzincir teknolojisini kullanan ilk ürün olan Bitcoin, yukarıdaki iki gelişmeye tepki gösteren bir felsefenin ürünü. “Acaba dijital dünyada varlıklarıma hiçbir kısıtlama olmadan sahip olabilir miyim ve bu varlıkları istediğim kişiye istediğim şekilde herhangi bir aracıya gerek duymadan transfer edebilir miyim?” sorularından hareketle yapılan çalışmalardan ortaya çıkan bir
+Blokzincir teknolojisini kullanan ilk ürün olan Bitcoin, yukarıdaki iki gelişmeye tepki gösteren bir felsefenin ürünü. “Acaba dijital dünyada varlıklarıma hiçbir kısıtlama olmadan sahip olabilir miyim ve bu varlıkları istediğim kişiye istediğim şekilde herhangi bir aracıya gerek duymadan transfer edebilir miyim?” sorularından hareketle yapılan çalışmalardan ortaya çıkan bir sonuç.
 
 Bitcoin’in dünyaya gelmesinin öyle gelişigüzel bir süreç ya da ağaç kovuğundan çıkar gibi bir anda olmadığının altını çizelim. Üç kritik teknolojik gelişmenin artık olgunlaşmaya başlaması, bize Bitcoin denen ürünü verdi:
 

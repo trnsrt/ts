@@ -356,7 +356,7 @@ Yukarıda yazdığımız sorunlara çözüm bulabilmek için nasıl yapalım da 
 
 Mantıklı mı? Bir dereceye kadar evet. Neden mi? Bir kere başta dediğimiz gibi ABD Doları’na bağlı olan bir para, diğer paralar karşısında aynen ABD Doları gibi dalgalanacak. Dolayısı ile çok sabit sayılmaz. Teorik olarak yine Dolar gibi ABD’de yıllık enflasyon ne kadar ise senelik o kadar değer kaybına uğrayacak. Ama bunlar zaten bildiğimiz konular — yine de Bitcoin vb paraya göre daha stabil olacak değil mi? Teorik olarak evet.
 
-Sabitparalar içinde en bilineni ise Tether (USDT). Nedir bu Tether? Nasıl
+Sabitparalar içinde en bilineni ise Tether (USDT). Nedir bu Tether? Nasıl çalışır?
 
 En büyük SabitPara Tether neye benzer?
 

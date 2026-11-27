@@ -62,7 +62,7 @@ Eğer teknik bir insan iseniz, platformun kodlarının saklandığı github sayf
 
 ### Ürünü kullanmaya başlayın (ama ufak ufak) {#urunu-kullanmaya-baslayin-ama-ufak-ufak}
 
-Yukarıdakiler size topluluk hakkında bir parça bilgi verecektir. Bu ön araştırma sonrası içiniz rahat ediyor ise ürünü kullanmaya başlayabilirsiniz. Burada da kabaca şöyle bir yol
+Yukarıdakiler size topluluk hakkında bir parça bilgi verecektir. Bu ön araştırma sonrası içiniz rahat ediyor ise ürünü kullanmaya başlayabilirsiniz. Burada da kabaca şöyle bir yol izleyebilirsiniz:
 
 Öncelikle küçük denemeler yapmakta fayda var. Ürünü kullandınız ve beğendiniz, sonrasında platformun merkeziyetsizliğe ne kadar gönül verdiğini anlamakta fayda var. Zira, “doğan görünümlü şahin” benzeri, DeFi alanında olduğunu söyleyen ama merkezi olan yapılar var (sana bakıyorum Chainlink!). Bunu yazdığım için bu tip yapılar başarılı olamazlar diye bir sonuç çıkmasın sakın. Meramım şu: Madem merkeziyetsiz bir dünyanın içindeyiz, bu dünyada başarılı olacak olanların bu felsefeyi sadece sözde değil özde de benimsediğini anlamak gerek.
 

@@ -102,7 +102,7 @@ Kripto alanının önemli araştırma şirketlerinden [Messari](https://messari.
 
 *“LINK bir ödeme tokeni olduğu için, Chainlink üyelerine ödeme yapmak dışında elde tutmak ve ona bir değer yüklemek anlamsız. Ödemeler için Chainlink kullanıyorsanız, elde daha likit başka tokenleri tutup ihtiyacınız olduğunda bu daha az likit ve kullanışsız LINK tokenine dönebilirsiniz.*
 
-*Konu Chainlink güvenliğini sağlamak için LINK rehin etmek ise, mevcut ücret modeli ne stabil ne de ölçeklenebilir. İşlem başına ücretleme şeklinde bir öneri var; ancak böyle bir uygulama Chainlink hizmetlerini kullanılamayacak kadar pahalı bir hâle*
+*Konu Chainlink güvenliğini sağlamak için LINK rehin etmek ise, mevcut ücret modeli ne stabil ne de ölçeklenebilir. İşlem başına ücretleme şeklinde bir öneri var; ancak böyle bir uygulama Chainlink hizmetlerini kullanılamayacak kadar pahalı bir hâle getirir.”[^1]*
 
 <strong><em>Chainlink XRP ile aynı akıbeti paylaşır mı?</em></strong>
 
@@ -152,4 +152,4 @@ Chainlink, merkeziyetsiz finans platformlarının kritik ihtiyaçları içinde s
 
 Her konuda olduğu gibi bu alanda da sağlıklı bir rekabetin olması ekosistemin gelişmesi için önemli. Önümüzdeki dönemde bu alanın nasıl gelişeceğini, rakiplerin pastadan daha büyük pay kapmak, Chainlink’in ise mevcut payını kaptırmamak için yapacağı hamleler konuşulmaya devam edecek.
 
-**Not:** messari-report-crypto-theses-for-2021.pdf Sayfa 67
+[^1]: messari-report-crypto-theses-for-2021.pdf Sayfa 67

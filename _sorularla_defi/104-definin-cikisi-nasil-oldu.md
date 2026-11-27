@@ -10,7 +10,7 @@ permalink: /Sorularla_DeFi/bolum-1/definin-cikisi-nasil-oldu/
 description: "Kriptoparalar, daha da özelinde merkeziyetsiz finans yani DeFi konusunu konuştuğum kişilerden aldığım tepki genelde “İyi ama bunlar çok küçük değil mi?"
 ---
 
-Kriptoparalar, daha da özelinde merkeziyetsiz finans yani DeFi konusunu konuştuğum kişilerden aldığım tepki genelde “İyi ama bunlar çok küçük değil mi? Kocaman bir finans dünyası var ortada, bunlar yanında pire gibi kalıyorlar.” oluyor. Tabii bunun hemen arkasında gelen yorum “Bütün bu anlatılanlar çok karışık, çok reel gelmiyor bana.” oluyor. Haklılar, ancak sadece
+Kriptoparalar, daha da özelinde merkeziyetsiz finans yani DeFi konusunu konuştuğum kişilerden aldığım tepki genelde “İyi ama bunlar çok küçük değil mi? Kocaman bir finans dünyası var ortada, bunlar yanında pire gibi kalıyorlar.” oluyor. Tabii bunun hemen arkasında gelen yorum “Bütün bu anlatılanlar çok karışık, çok reel gelmiyor bana.” oluyor. Haklılar, ancak sadece şu an için.
 
 ## “Bir sonraki büyük ‘şey’ başlangıçta bir oyuncak gibi görünecek” {#bir-sonraki-buyuk-sey-baslangicta-bir-oyuncak-gibi-gorunecek}
 
@@ -64,7 +64,7 @@ Ancak yapabildikleriniz bunlarla sınırlı değil. Gerçek dünyada kurduğunuz
 
 ## DeFi bir anda nasıl büyüdü? {#defi-bir-anda-nasil-buyudu}
 
-alanındaki projelerin bir iki günde çıktığı düşünülüyor ama bu çok da doğru sayılmaz. Bu projelerin hatırı sayılır bir kısmı 2017 yılındaki ICO çılgınlığı sırasında çıktılar ve o sırada topladıkları paraları 2018-2019 yıllarındaki ayı piyasası sürecini hasarsız geçirebilmek ve projelerini geliştirmek için kullandılar. Bir nevi ağustos böceği-karınca hikâyesinde karıncalar gibi. Bu süre zarfında çeşit çeşit denemelerde bulundular. Token fiyatları uzun bir süre yerlerde süründü. Yaptıkları sistemleri kimseler kullanmadı. Start-up jargonuyla ürün-pazar uyumunu bir türlü yakalayamadılar.
+DeFi alanındaki projelerin bir iki günde çıktığı düşünülüyor ama bu çok da doğru sayılmaz. Bu projelerin hatırı sayılır bir kısmı 2017 yılındaki ICO çılgınlığı sırasında çıktılar ve o sırada topladıkları paraları 2018-2019 yıllarındaki ayı piyasası sürecini hasarsız geçirebilmek ve projelerini geliştirmek için kullandılar. Bir nevi ağustos böceği-karınca hikâyesinde karıncalar gibi. Bu süre zarfında çeşit çeşit denemelerde bulundular. Token fiyatları uzun bir süre yerlerde süründü. Yaptıkları sistemleri kimseler kullanmadı. Start-up jargonuyla ürün-pazar uyumunu bir türlü yakalayamadılar.
 
 <figure><a href="/assets/books/sorularla-defi/104-1.png"><img src="/assets/books/sorularla-defi/104-1.png" alt="Kilitlenmiş değere göre en büyük 20 DeFi protokolün ICO ya da operasyona başladığı yıl (Not: Her bir noktanın büyüklüğü Mayıs 2021&#x27;de platforma kilitlenmiş değeri ifade eder). Kaynaklar: DeFi Pulse, Messari ve platform web siteleri" width="741" height="500" loading="lazy"></a><figcaption>Kilitlenmiş değere göre en büyük 20 DeFi protokolün ICO ya da operasyona başladığı yıl (Not: Her bir noktanın büyüklüğü Mayıs 2021'de platforma kilitlenmiş değeri ifade eder). Kaynaklar: <a href="https://defipulse.com/">DeFi Pulse</a>, <a href="https://messari.io/">Messari</a> ve platform web siteleri</figcaption></figure>
 

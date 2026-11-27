@@ -7,12 +7,12 @@ chapter: 3
 chapter_title: "DeFi’nin Altyapı Taşları"
 order: 307
 permalink: /Sorularla_DeFi/bolum-3/aragon/
-description: "Bu bölümde gelin hep birlikte, merkeziyetsiz yönetim konusunda enteresan bir deneysel fikir olan Aragon‘a göz atalım. aralar ağırlıklı olarak token değeri…"
+description: "Bu bölümde gelin hep birlikte, merkeziyetsiz yönetim konusunda enteresan bir deneysel fikir olan Aragon‘a göz atalım."
 ---
 
 Bu bölümde gelin hep birlikte, merkeziyetsiz yönetim konusunda enteresan bir deneysel fikir olan [Aragon](https://aragon.org/)‘a göz atalım.
 
-aralar ağırlıklı olarak token değeri bazlı spekülatif yanı konuşulsa da DeFi projelerinin devrim olarak nitelendirilebilecek en heyecan verici taraflarından biri, merkeziyetsiz bir şekilde yönetiliyor olmaları. Aslına bakarsanız merkeziyetsiz yönetim o kadar da kolay değil. Hatta nasıl yapılır, nasıl yönetilir tam bir fikir birliği de yok.
+Şu aralar ağırlıklı olarak token değeri bazlı spekülatif yanı konuşulsa da DeFi projelerinin devrim olarak nitelendirilebilecek en heyecan verici taraflarından biri, merkeziyetsiz bir şekilde yönetiliyor olmaları. Aslına bakarsanız merkeziyetsiz yönetim o kadar da kolay değil. Hatta nasıl yapılır, nasıl yönetilir tam bir fikir birliği de yok.
 
 Aragon öncesinde, DeFi projelerinin pek çoğunun kendine model aldığı [DAO (Decentralized Autonomous Organization)](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization) yani Merkeziyetsiz Otonom Organizasyon yapısı ne demek ona bakalım:
 

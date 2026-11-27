@@ -121,7 +121,7 @@ Peki o zaman bir orta yol bulunamaz mı? Hem her türlü hakkına sahip olduğum
 
 Interoperability ne demek?
 
-ifade ediyor? Interoperability Ethereum'un yaptığını bir parça daha genişleten bir kavram aslında. Nasıl Ethereum, kendi üzerine kurulan girişimler (dApps) arasında iletişim sağlıyor ancak başka silolara iletişim konusunda sıkıntı yaşatıyor ise, Interoperability sağlayan girişimler aslında bir nevi bunu da aşacak bir çözüm bulmaya çalışıyorlar. Yani, Ethereum üzerine kurulu bir girişimin, başka bir siloda kurulu (örneğin Tezos) başka bir girişim ile iletişimde olmasını sağlıyor. Ya da bir sistemi kullanan bir kullanıcının başka bir sisteme de angaje olabilmesine olanak veriyorlar.
+Interoperability Ethereum'un yaptığını bir parça daha genişleten bir kavram aslında. Nasıl Ethereum, kendi üzerine kurulan girişimler (dApps) arasında iletişim sağlıyor ancak başka silolara iletişim konusunda sıkıntı yaşatıyor ise, Interoperability sağlayan girişimler aslında bir nevi bunu da aşacak bir çözüm bulmaya çalışıyorlar. Yani, Ethereum üzerine kurulu bir girişimin, başka bir siloda kurulu (örneğin Tezos) başka bir girişim ile iletişimde olmasını sağlıyor. Ya da bir sistemi kullanan bir kullanıcının başka bir sisteme de angaje olabilmesine olanak veriyorlar.
 
 Bireysel kullanıcılar için ne ifade ediyor bu?
 
@@ -131,7 +131,7 @@ Bunun yanında bir Blockchain içinde yarattığınız bir varlığın bir başk
 
 Girişimler için ne ifade ediyor?
 
-temel avantajı bir ekosistemde olmanın getirdiği rahatlık. En önemlilerinden biri, bir Blockchain kurduğunuzda bu Blockchain'in güvenliğini uzlaşma mekanizmalarını da kullanarak bağımsız teyid ediciler ile sağlıyorsunuz (Bitcoin sistemindeki madenciler gibi) Bu teyid edici makinelerin sizin sisteminizde olması ve sisteminizin güvenliğini sağlamaları için onlara bir ödül vermeniz gerek. Ayrıca sizin gibi başka pek çok proje de bu makinelerin peşinde. Interoperability içinde yer alırsanız (örneğin Polkadot) makine bulmak için uğraşmıyor ve ortada bulunan bir havuzdan dilediğiniz gibi yararlanıyorsunuz (ücreti mukabilinde).
+Girişimciler için temel avantajı bir ekosistemde olmanın getirdiği rahatlık. En önemlilerinden biri, bir Blockchain kurduğunuzda bu Blockchain'in güvenliğini uzlaşma mekanizmalarını da kullanarak bağımsız teyid ediciler ile sağlıyorsunuz (Bitcoin sistemindeki madenciler gibi) Bu teyid edici makinelerin sizin sisteminizde olması ve sisteminizin güvenliğini sağlamaları için onlara bir ödül vermeniz gerek. Ayrıca sizin gibi başka pek çok proje de bu makinelerin peşinde. Interoperability içinde yer alırsanız (örneğin Polkadot) makine bulmak için uğraşmıyor ve ortada bulunan bir havuzdan dilediğiniz gibi yararlanıyorsunuz (ücreti mukabilinde).
 
 Tabii burada şuna da bakmak lazım. Kimi girişimciler için projenin güvenliği hayati önem taşırken, kimileri için o kadar da önemli olmayabiliyor. Normalde bir Bitcoin benzeri değer taşıma üzerine kurulu bir kripto paradan bahsediyor olsak, sistemin güvenliğinin tehlikeye girmesi o kripto paranın değerini sıfıra indirebilir. Dolayısıyla bu kripto paranın geliştiricileri güvenlik için her tür fedakarlığı yapabilir.
 

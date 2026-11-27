@@ -33,7 +33,7 @@ Dikkat ederseniz, para transferi kişiler arası gerçekleşen finansal işlemle
 
 Elbette ileride tüm para transferleri bankalardan alınıp makinelere geçecek demek doğru olmaz. Zira eğer bankadan çok cüzi miktarda para transferini EFT sistemi ile daha hızlı yapabiliyorsanız neden kripto para gibi alternatifler ile uğraşasınız ki? Ama dediğimiz gibi SWIFT gibi yüksek maliyetli bir alana girerseniz işte orada kripto para şimdiden ciddi bir alternatif.
 
-Tabii hemen belirtelim: Kripto paraların bulunduğu Blockchain sistemlerinin hükümetlerin gerekli gördüğü kara para ile mücadele (anti-moneylaundry ya da kısaca AML) ve müşterinin kimlik bilgilerinin bilinmesi (know-your-customer ya da kısaca KYC)
+Tabii hemen belirtelim: Kripto paraların bulunduğu Blockchain sistemlerinin hükümetlerin gerekli gördüğü kara para ile mücadele (anti-moneylaundry ya da kısaca AML) ve müşterinin kimlik bilgilerinin bilinmesi (know-your-customer ya da kısaca KYC) konularında alacakları bir hayli yol var.
 
 Benzer mantıkla Blockchain bazlı yapılar öncelikle basit ve yüksek maliyetli alanlara odaklanacaklar. Teknoloji geliştikçe daha karmaşık alanlara girmeye başlayacaklar.
 
