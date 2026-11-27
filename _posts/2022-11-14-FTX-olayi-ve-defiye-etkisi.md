@@ -26,7 +26,7 @@ Sorunun ne olduğu ile ilgili pek çok söylenti var. Söylenti olmasının teme
 
 Hikayeyi en başa saralım: 2017 yılında ilk olarak Alameda Research'i kuran SBF, değişik ülkelerde (özellikle Japonya'da) Bitcoin fiyatlarının farklı olmasında kaynaklanan arbitraj fırsatlarını değerlendirerek para kazanıyor. Bu fırsatlar bitince borsalara likidite sağlamak olarak adlandırabileceğimiz piyasa yapıcılık işine soyunuyor. Ardından da 2019 yılında FTX borsasını kuruyor; böylece likidite sağlayıp başkasına kazandırdığı paradan kendisi de pay almak istiyor.
 
-Buradan sonrası eğer iddalar doğru ise tam bir yozlaşma hikayesi: FTX, kendisine gelen büyük alım emirlerini işlemi gerçekleştirmeden önce Alameda'ya haber veriyor. Alameda da bu sayede emir öncesi işleme konu tokeni ucuzdan alıp emir sonrası satarak risksiz kâr elde ediyor (Ingilizcede 'front-running' denen olay).
+Buradan sonrası eğer iddalar doğru ise tam bir yozlaşma hikayesi: FTX, kendisine gelen büyük alım emirlerini işlemi gerçekleştirmeden önce Alameda'ya haber veriyor. Alameda da bu sayede emir öncesi işleme konu tokeni ucuzdan alıp emir sonrası satarak risksiz kâr elde ediyor (İngilizcede 'front-running' denen olay).
 
 Bu hikayenin bir parçası. Öte yandan, Alameda'nın yaptığı işlemler (al-sat ya da uzun vadeli portföy yatırımları) için nakde ihtiyaç var. Nereden bulacak parayı? FTX'de kuzu kuzu yatan müşteri paraları var ya?. İyi ama FTX çok transparan olmakla övünüyor, denetimden geçiyor; öyle parayı açık açık Alameda'ya veremez. Nasıl yapacaklar bunu? İşte burada kadraja FTX'in kendi çıkardığı borsa tokeni olan FTT giriyor. 
 

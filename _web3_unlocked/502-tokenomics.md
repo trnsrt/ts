@@ -88,7 +88,7 @@ Critically, the majority of the tokens—often **60% or more**—is reserved for
 
 <figure><a href="/assets/books/web3-unlocked/502-1.png"><img src="/assets/books/web3-unlocked/502-1.png" alt="Token Distribution of Layer 1 Networks" width="1200" height="590" loading="lazy"></a><figcaption>Token Distribution of Layer 1 Networks <span class="fig-note">The token allocations of Layer 1 networks can vary greatly from one another. (Source: <a href="https://messari.io/token-unlocks/allocation-analysis?utm_source=twitter&amp;utm_medium=organic_social&amp;utm_campaign=token_unlocks&amp;destination=token_unlocks">Messari</a>)</span></figcaption></figure>
 
-Finally, a slice of the pie is given away for free to early users and supporters through airdrops. While the allocation is often between 5-10%, the strategy behind airdrops has evolved significantly. Given how much interest this topic generates, it's worth a closer look.
+The strategy behind airdrops has evolved significantly. Given how much interest this topic generates, it's worth a closer look.
 
 ## Everyone's Favorite Topic: Airdrops {#everyones-favorite-topic-airdrops}
 
@@ -102,7 +102,7 @@ Then came the drop that changed everything: Uniswap.
 
 As the largest decentralized exchange, Uniswap was facing a serious threat from a rival, Sushiswap, which was luring away its liquidity with generous token rewards. To counter, Uniswap launched its own token, but with a revolutionary twist. It didn't just reward current users; it retroactively [airdropped](https://gov.uniswap.org/t/learn-requirements-how-to-claim-your-400-uni/1025) 400 UNI tokens to *every single wallet* that had ever made a trade on the platform.
 
-This represented ~$1,200–$1,600 at launch, but those holding UNI saw values reach up to ~$40,000 within six months.
+This represented ~$1,200–$1,600 at launch, but those holding UNI saw values reach up to ~$16,000 within six months.
 
 The community was stunned. The move did more than just reward Uniswap's loyalists; it ignited a gold rush. Users began flocking to promising new applications that hadn't yet launched a token, hoping to qualify for the next big retroactive airdrop. A new behavior was born: "airdrop farming."
 
@@ -142,7 +142,7 @@ You would think projects would fight the wave of airdrop farmers and their fake 
 
 Suddenly, users were rewarded with "points" for every conceivable action: making a trade, holding funds in the app, or even just mentioning the project on social media.
 
-This "points game" is, by its nature, a opaque—and often exploitative—system. A user might rack up thousands of points and feel like they're earning a significant stake, only to be crushed when they discover the project has issued billions of points in total. Your slice of the pie is meaningless if you have no idea how big the pie is. For the project, it makes no difference if they give you ten points or ten thousand; the number of tokens in the final reward pool is already fixed.
+This "points game" is, by its nature, an opaque—and often exploitative—system. A user might rack up thousands of points and feel like they're earning a significant stake, only to be crushed when they discover the project has issued billions of points in total. Your slice of the pie is meaningless if you have no idea how big the pie is. For the project, it makes no difference if they give you ten points or ten thousand; the number of tokens in the final reward pool is already fixed.
 
 So why do it? Why create this elaborate illusion?
 
@@ -192,7 +192,7 @@ This is one of the most complex and unsettled questions in Web3. The legal statu
 
 Amid this uncertainty, Switzerland became an early pioneer, offering one of the first and most influential [frameworks](https://brill.com/edcollchap-oa/book/9789004514850/BP000031.xml?language=en) for classifying tokens. The Swiss approach is [elegantly simple](https://www.lexr.com/en-ch/blog/crypto-token-types-switzerland/): ignore the marketing hype and focus on the token's economic purpose. It sorts tokens into [three main categories](https://www.lexr.com/en-ch/blog/crypto-token-types-switzerland/).
 
-**1. Payment Tokens** Think of these as digital cash. Their primary use is to buy goods and services or to transfer value. Familiar cryptocurrencies like Bitcoin (BTC) fits this description. The defining feature is that the issuer isn't promising you a return on an investment; they are providing a tool for commerce.
+**1. Payment Tokens** Think of these as digital cash. Their primary use is to buy goods and services or to transfer value. Familiar cryptocurrencies like Bitcoin (BTC) fit this description. The defining feature is that the issuer isn't promising you a return on an investment; they are providing a tool for commerce.
 
 **2. Utility Tokens** These tokens act as a digital key or a pass, granting you [access to a specific application or service](https://www.moonpay.com/learn/cryptocurrency/what-are-utility-tokens). In a way, many payment tokens also have a utility function. For example, you need ETH ([the utility token](https://www.cmegroup.com/education/courses/introduction-to-ether/defining-ether-and-ethereum.html)) to pay for transactions and interact with applications on the Ethereum blockchain. It's the native currency required to make the network function.
 
@@ -216,7 +216,7 @@ The administration’s appointments sent a clear message. David Sacks was named 
 
 Congress followed suit, with crypto supporters taking the chairmanships of key committees in both the House and Senate.
 
-The impact was immediate. The SEC reversed course, dropping its high-profile lawsuits against Coinbase and Ripple. The legislative logjam finally broke. In July 2025, President Trump [signed](https://www.whitehouse.gov/fact-sheets/2025/07/fact-sheet-president-donald-j-trump-signs-genius-act-into-law/#:~:text=Act%2520into%2520Law-,The%2520White%2520House,%253A%2520Today%252C%2520President%2520Donald%2520J.) the [GENIUS Act](https://www.congress.gov/bill/116th-congress/house-bill/3736?q=%257B%2522search%2522:%2522genius+act%2522%257D&s=1&r=1) into law, bringing much-needed clarity to stablecoins. A broader bill to regulate crypto markets passed the House and moved on to the Senate.
+The impact was immediate. The SEC reversed course, dropping its high-profile lawsuits against Coinbase and Ripple. The legislative logjam finally broke. In July 2025, President Trump [signed](https://www.whitehouse.gov/fact-sheets/2025/07/fact-sheet-president-donald-j-trump-signs-genius-act-into-law/#:~:text=Act%2520into%2520Law-,The%2520White%2520House,%253A%2520Today%252C%2520President%2520Donald%2520J.) the [GENIUS Act](https://www.congress.gov/bill/119th-congress/senate-bill/1582) into law, bringing much-needed clarity to stablecoins. A broader bill to regulate crypto markets passed the House and moved on to the Senate.
 
 In the space of a year, the American regulatory climate transformed from crypto's greatest headwind into a powerful tailwind.
 

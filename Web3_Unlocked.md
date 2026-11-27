@@ -1293,16 +1293,16 @@ incentivize suppliers to build out the network
 
 [dismissed](https://www.cnbc.com/id/104771986?view=story)  
 
-[announced](https://www.coindesk.com/business/2022/08/04/BlackRock-to-offer-crypto-for-institutional-investors-through-coinbase-prime/)  
+[announced](https://www.coindesk.com/business/2022/08/04/blackrock-to-offer-crypto-for-institutional-investors-through-coinbase-prime/)  
 
-[dropped](https://www.investopedia.com/BlackRock-files-for-a-spot-bitcoin-etf-7547609)  
+[dropped](https://www.investopedia.com/blackrock-files-for-a-spot-bitcoin-etf-7547609)  
 
 <br>
 <b>Page 265:</b>
 
-[called](https://www.coindesk.com/business/2023/10/17/BlackRock-ceo-larry-fink-seeing-client-demand-for-crypto-around-the-world/)  
+[called](https://www.coindesk.com/business/2023/10/17/blackrock-ceo-larry-fink-seeing-client-demand-for-crypto-around-the-world/)  
 
-[described](https://www.nasdaq.com/articles/BlackRock-ceo-larry-fink-says-bitcoin-is-an-asset-class-that-protects-you)  
+[described](https://www.nasdaq.com/articles/blackrock-ceo-larry-fink-says-bitcoin-is-an-asset-class-that-protects-you)  
 
 [Bitcoin ETFs were approved](https://401kspecialistmag.com/sec-approves-11-spot-bitcoin-etfs-opening-floodgates/)  
 

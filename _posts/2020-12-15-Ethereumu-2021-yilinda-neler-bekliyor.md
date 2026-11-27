@@ -50,7 +50,7 @@ Böyle bir çözüm sayesinde, Ethereum blokzincirine olan talebin düşmesi son
 
 Burada kritik nokta, hangi roll-up çözümlerinin ağırlık kazanacağı olacak. Zira, DeFi platformları yapıları itibariyle birbirleri ile çok ilişkililer; hep dendiği gibi para legoları gibi birlikte ve içiçe bir şekilde çalışıyorlar. Roll-up çözümler ise, blokzincir dışında faaliyet gösterdikleri için, farklı çözümler kullanılarak yapılan işlemlerin doğruluğu ve blokzincirine işlenmesi konusunda problemler çıkması olası. 
 
-Şu noktada ağırlıklı olarak ortak çıkan çözümler [Optimism](https://optimism.io) ve [zkSync](https://zksync.io). DeFi'nin önde gelen platformlarında Synthetix, [Optimum ile denemeler yapmaya başladı bile](https://blog.synthetix.io/why-optimism/).
+Şu noktada ağırlıklı olarak ortak çıkan çözümler [Optimism](https://optimism.io) ve [zkSync](https://zksync.io). DeFi'nin önde gelen platformlarında Synthetix, [Optimism ile denemeler yapmaya başladı bile](https://blog.synthetix.io/why-optimism/).
 
 #### EIP 1559
 Ethereum üzerinden işlem ücretlerini azaltmaya yönelik bir başka insiyatif ise Vitalik Buterin'in 2018 yılında önerdiği [EIP 1559 çözümü](https://eips.ethereum.org/EIPS/eip-1559). EIP (Ethereum Improvement Proposal), Ethereum üzerindeki iyileştirme önerilerine verilen genel ad. Bu çözüm, temel olarak Ethereum üzerinde yapılan işlem ücretlerinin daha tahmin edilebilir olmasına çalışıyor. Bu sayede, anormal ücretlerin önüne geçmeyi planlıyor. 

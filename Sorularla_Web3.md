@@ -423,10 +423,10 @@ Kitapta yer alan tüm bağlantılara sayfa sırasına göre aşağıdan ulaşabi
 | 315 | ["geçiş süreci söz konusu"](https://technologyquotient.freshfields.com/post/102jake/grandfathering-under-mica-how-member-states-approach-the-transitional-regime) |
 | 315 | ["yürürlüğe giren"](https://www.aa.com.tr/tr/ekonomi/kripto-varliklara-iliskin-yasa-resmi-gazetede-yayimlandi-/3263941) |
 | 317 | ["kullanmıştı"](https://www.cnbc.com/id/104771986?view=story) |
-| 318 | ["açıkladı"](https://www.coindesk.com/business/2022/08/04/BlackRock-to-offer-crypto-for-institutional-investors-through-coinbase-prime/) |
-| 318 | ["haberi ile geldi"](https://www.investopedia.com/BlackRock-files-for-a-spot-bitcoin-etf-7547609) |
-| 318 | ["yaptı"](https://www.coindesk.com/business/2023/10/17/BlackRock-ceo-larry-fink-seeing-client-demand-for-crypto-around-the-world/) |
-| 318 | ["belirtti"](https://www.nasdaq.com/articles/BlackRock-ceo-larry-fink-says-bitcoin-is-an-asset-class-that-protects-you) |
+| 318 | ["açıkladı"](https://www.coindesk.com/business/2022/08/04/blackrock-to-offer-crypto-for-institutional-investors-through-coinbase-prime/) |
+| 318 | ["haberi ile geldi"](https://www.investopedia.com/blackrock-files-for-a-spot-bitcoin-etf-7547609) |
+| 318 | ["yaptı"](https://www.coindesk.com/business/2023/10/17/blackrock-ceo-larry-fink-seeing-client-demand-for-crypto-around-the-world/) |
+| 318 | ["belirtti"](https://www.nasdaq.com/articles/blackrock-ceo-larry-fink-says-bitcoin-is-an-asset-class-that-protects-you) |
 | 319 | ["bu alanda birinci sırada olan Grayscale’in ardından ikinciliğe"](https://blockworks.co/bitcoin-etf) |
 | 319 | ["oldu"](https://securitize.io/learn/press/blackrock-launches-first-tokenized-fund-buidl-on-the-ethereum-network) |
 | 320 | ["Securitize"](https://securitize.io/) |
@@ -436,7 +436,6 @@ Kitapta yer alan tüm bağlantılara sayfa sırasına göre aşağıdan ulaşabi
 | 320 | ["Fireblocks"](https://www.fireblocks.com/) |
 | 320 | ["ulaştı"](https://etherscan.io/token/0x7712c34205737192402172409a8f7ccef8aa2aec) |
 | 321 | ["beklenen"](https://www.ledgerinsights.com/bcg-addx-estimate-asset-tokenization-to-reach-16-trillion-by-2030/) |
-| 323 | ["bir banliyö evinin"](https://www.google.com/maps/place/149+Cottage+Lake+Way,+Columbia,+SC+29209/@33.9594797,-80.9455555,272m/data=!3m1!1e3!4m5!3m4!1s0x88f8b053743f5079:0x8883bce9faf9ed0f!8m2!3d33.9596548!4d-80.9454178) |
 | 323 | ["NFT’ye dönüştürülerek"](https://opensea.io/assets/ethereum/0xF928d6285B8a4f9ac5A640ae598D7399C331cea7/0) |
 | 323 | ["Roofstock"](https://www.roofstock.com/) |
 | 323 | ["yatırım almış"](https://www.prnewswire.com/in/news-releases/roofstock-raises-240m-at-1-9b-valuation-to-expand-access-to-real-estate-investing-888898674.html) |

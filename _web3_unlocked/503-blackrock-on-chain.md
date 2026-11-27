@@ -10,7 +10,7 @@ permalink: /Web3_Unlocked/chapter-5/blackrock-on-chain/
 description: "The crypto world’s relationship with Wall Street is entering its final act."
 ---
 
-The crypto world’s relationship with Wall Street is entering its final act. It brings to mind the old quote, often attributed to Gandhi: 'First they ignore you, then they laugh at you, then they fight you, then you win’[^1].
+The crypto world’s relationship with Wall Street is entering its final act. It brings to mind the old quote, often attributed to Gandhi: ‘First they ignore you, then they laugh at you, then they fight you, then you win’[^1].
 
 Nothing captures this arc better than BlackRock—the world's largest asset manager—placing a $100 million tokenized fund on the Ethereum network in March 2024. To understand why this is a landmark event, we have to look at how BlackRock’s perspective on crypto completely transformed.
 
@@ -18,13 +18,13 @@ Nothing captures this arc better than BlackRock—the world's largest asset mana
 
 BlackRock is not just another firm; it's a [$12.5 trillion behemoth](https://s24.q4cdn.com/856567660/files/doc_financials/2025/Q2/BLK-2Q25-Earnings-Release.pdf). In the world of finance, it's often said, "There is BlackRock, and then there is everyone else."
 
-Like the rest of Wall Street, BlackRock kept its distance from crypto for years. In a 2017 interview, its legendary CEO, [Larry Fink](https://trustwallet.com/blog/cryptocurrency/who-is-larry-fink-black-rock), [dismissed](https://www.cnbc.com/2017/10/13/BlackRock-ceo-larry-fink-calls-bitcoin-an-index-of-money-laundering.html) Bitcoin as an "index of money laundering." But the ground began to shift. As institutional interest grew, especially during the 2020 pandemic, BlackRock’s stance softened. In August 2022, the fund [announced](https://www.coindesk.com/business/2022/08/04/BlackRock-to-offer-crypto-for-institutional-investors-through-coinbase-prime/) a partnership with Coinbase to give its clients a gateway to crypto.
+Like the rest of Wall Street, BlackRock kept its distance from crypto for years. In a 2017 interview, its legendary CEO, [Larry Fink](https://trustwallet.com/blog/cryptocurrency/who-is-larry-fink-black-rock), [dismissed](https://www.cnbc.com/2017/10/13/blackrock-ceo-larry-fink-calls-bitcoin-an-index-of-money-laundering.html) Bitcoin as an "index of money laundering." But the ground began to shift. As institutional interest grew, especially during the 2020 pandemic, BlackRock’s stance softened. In August 2022, the fund [announced](https://www.coindesk.com/business/2022/08/04/blackrock-to-offer-crypto-for-institutional-investors-through-coinbase-prime/) a partnership with Coinbase to give its clients a gateway to crypto.
 
-The real bombshell [dropped](https://www.investopedia.com/BlackRock-files-for-a-spot-bitcoin-etf-7547609) in June 2023: BlackRock had filed for a spot Bitcoin ETF. An ETF is essentially a stock that tracks the price of an asset like gold or oil, allowing people to invest without holding the asset itself. A Bitcoin ETF was the holy grail for two reasons: it would cement Bitcoin as a legitimate investment vehicle and open the floodgates for mainstream capital.
+The real bombshell [dropped](https://www.investopedia.com/blackrock-files-for-a-spot-bitcoin-etf-7547609) in June 2023: BlackRock had filed for a spot Bitcoin ETF. An ETF is essentially a stock that tracks the price of an asset like gold or oil, allowing people to invest without holding the asset itself. A Bitcoin ETF was the holy grail for two reasons: it would cement Bitcoin as a legitimate investment vehicle and open the floodgates for mainstream capital.
 
 This was the moment the tide turned. For a decade, the SEC had rejected every Bitcoin ETF application that crossed its desk. But Larry Fink is a man who can get the SEC Chairman on the phone, and BlackRock has a near-perfect 99.8% approval rate on its ETF applications. The filing wasn’t just a request; it was a signal. Wall Street had finally arrived[^2].
 
-Fink’s pivot didn't stop there. In October 2023, he [called](https://www.coindesk.com/business/2023/10/17/BlackRock-ceo-larry-fink-seeing-client-demand-for-crypto-around-the-world/) the rising price of Bitcoin a "flight to quality." A few months later, he [described](https://www.nasdaq.com/articles/BlackRock-ceo-larry-fink-says-bitcoin-is-an-asset-class-that-protects-you) Bitcoin “as an ‘international instrument’ capable of mitigating localized economic fears”.
+Fink’s pivot didn't stop there. In October 2023, he [called](https://www.coindesk.com/business/2023/10/17/blackrock-ceo-larry-fink-seeing-client-demand-for-crypto-around-the-world/) the rising price of Bitcoin a "flight to quality." A few months later, he [described](https://www.nasdaq.com/articles/blackrock-ceo-larry-fink-says-bitcoin-is-an-asset-class-that-protects-you) Bitcoin “as an ‘international instrument’ capable of mitigating localized economic fears”.
 
 When the [Bitcoin ETFs were approved](https://401kspecialistmag.com/sec-approves-11-spot-bitcoin-etfs-opening-floodgates/) in January 2024, BlackRock’s market sense was proven right. Their fund exploded out of the gate, amassing over $85 billion in assets and [rocketing to first place among all Bitcoin ETF issuers.](https://blockworks.co/bitcoin-etf)
 
@@ -34,7 +34,7 @@ When the [Bitcoin ETFs were approved](https://401kspecialistmag.com/sec-approves
 
 BlackRock's latest move was to create a $100 million money market fund built on a simple, powerful idea: [bring safe, yield-bearing US Treasury assets onto the blockchain](https://securitize.io/learn/press/blackrock-launches-first-tokenized-fund-buidl-on-the-ethereum-network). Shares in the fund are represented by a dollar-pegged token, and in a clever nod to the crypto ethos, BlackRock named it BUIDL[^3].
 
-Here’s how it works: [the fund invests in low-risk assets](https://zerocap.com/insights/snippets/what-is-buidl-blackrock/) like cash and T-bills. Each month, the income earned is [paid out directly](https://cointelegraph.com/explained/blackrocks-buidl-fund-explained-why-it-matters-for-crypto-and-tradfi) to investors' wallets in the form of new tokens[^4].
+Here’s how it works: [the fund invests in low-risk assets](https://zerocap.com/insights/snippets/what-is-buidl-blackrock/) like cash and T-bills. Each month, the income earned is paid out directly to investors' wallets in the form of new tokens[^4].
 
 So, why does this matter? Large crypto institutions and companies often hold millions in digital cash, sitting idle in stablecoins like USDC and earning zero return. To earn a yield, they had to move that capital back into the traditional financial system—a slow, cumbersome process.
 
@@ -58,7 +58,7 @@ The BUIDL fund does the exact opposite: it pushes a traditional asset *onto* the
 
 This addresses a common critique of Bitcoin ETFs—that they "tame" crypto, forcing the unruly child to play by the old system's rules. BUIDL, in contrast, is a structure built *on* the blockchain, designed to pull more capital and activity into the new world.
 
-### The Real Strategy: Tokenizing Everything {#the-real-strategy-tokenizing-everything}
+### BlackRock’s Real Strategy: Tokenizing Everything {#the-real-strategy-tokenizing-everything}
 
 This isn't just BlackRock chasing a trend. BUIDL is the first move in a much larger, long-term strategy. In nearly every interview, Larry Fink emphasizes the massive potential of tokenizing real-world assets. While we might think of tokenizing houses or art, the lowest-hanging fruit is classic financial funds, which are already digital.
 
@@ -78,7 +78,7 @@ If the Bitcoin ETF was Wall Street dipping its toes in the water, the BUIDL fund
 
 [^1]: Kit Miller, director of the Gandhi Institute, confirms the well-known English phrase "First they ignore you, then they laugh at you, then they fight you, then you win," is not actually Gandhi’s. The original quote was made in 1918 by Nicholas Klein, a US union leader, during a demonstration: "[First they ignore you](https://apnews.com/article/archive-fact-checking-2315880316), Then they ridicule you. And then they attack you and want to burn you. And then they build monuments to you
 
-[^2]: The company also [announced](https://www.coindesk.com/policy/2023/11/16/BlackRock-files-application-for-spot-ether-etf/) its Ethereum ETF application on November 16, 2023. Indeed, BlackRock's iShares [Ethereum ETF](https://www.blackrock.com/us/individual/products/337614/ishares-ethereum-trust-etf) was among the first Ethereum ETFs [to start trading](https://www.theglobaltreasurer.com/2024/07/23/ethereum-etfs-get-the-green-light-a-new-era-for-crypto-investment/) on July 23, 2024.
+[^2]: The company also [announced](https://www.coindesk.com/policy/2023/11/16/blackrock-files-application-for-spot-ether-etf/) its Ethereum ETF application on November 16, 2023. Indeed, BlackRock's iShares [Ethereum ETF](https://www.blackrock.com/us/individual/products/337614/ishares-ethereum-trust-etf) was among the first Ethereum ETFs [to start trading](https://www.theglobaltreasurer.com/2024/07/23/ethereum-etfs-get-the-green-light-a-new-era-for-crypto-investment/) on July 23, 2024.
 
 [^3]: A quick story from crypto history about "BUIDL": During Bitcoin's volatile early days in 2013, its price surged from $15 to $1,000 and then collapsed from $716 to $38 overnight. At that chaotic time, a (probably not sober) Bitcoin Forum member famously posted, "I AM HODLING." It was a typo for "holding," meaning "I'm holding my Bitcoin no matter what." Initially mocked, the phrase quickly became a beloved motto among long-term investors. Similarly, "BUIDL" is a playful misspelling of "build," meaning "building something lasting."
 

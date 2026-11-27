@@ -18,7 +18,7 @@ Hatırlatmak gerekirse, şifreleme Blockchain'in temelini oluşturuyor, çünkü
 Dijital dünyada bir varlığı bir kişiden diğerine transfer ederken iki önemli konu var dikkat etmemiz gereken:
 
 1. Birincisi, öncelikle varlığın transferi güvenli bir şekilde yapılmalı. Buradan kastedilen bu dijital varlık değiştirilmeden bir taraftan öbürüne geçmeli, ve geçtikten sonra bu işlem bir daha değiştirilememeli. Yani herkeste aynı bilgiler olmalı. Herkeste aynı bilgi olursa kimse "eyvah kandırılıyor muyum?" kaygısı yaşamaz, gece evinde rahat uyur. Bu  **öğütme** (hashing) sayesinde başarılıyor. 
-2. . İkincisi, bana ait bir varlığı bir başkasına devredeceksem öncelikle bu varlığın bana ait olduğu ve bu varlığı kendim devretmek istediğim, yani bu işlemi başlatan kişinin gerçekten ben olduğum (orjinal/otantik olduğunun) teyit edilmeli. Ama bunu yaparken bir taraftan da bana ait özel bilgilerin gizliliği kalması da sağlanmalı. İşte bu da **şifreleme** (encryption/decryption) sayesinde başarılıyor. 
+2. . İkincisi, bana ait bir varlığı bir başkasına devredeceksem öncelikle bu varlığın bana ait olduğu ve bu varlığı kendim devretmek istediğim, yani bu işlemi başlatan kişinin gerçekten ben olduğum (orijinal/otantik olduğunun) teyit edilmeli. Ama bunu yaparken bir taraftan da bana ait özel bilgilerin gizliliği kalması da sağlanmalı. İşte bu da **şifreleme** (encryption/decryption) sayesinde başarılıyor. 
 
 ### Önce bir öğütelim... 
 
@@ -66,7 +66,7 @@ Yukarıdaki "Merhaba" da çıkan sonuç ile karşılaştırın bakalım. Tamamı
 
 Çok güzel de, bu kadar girizgahı neden yaptın derseniz? Buraya kadar anlattıklarımızı biraz daha açalım. Aynı girdiler hep aynı sonucu veriyor. Ama girdide bir harf bile değiştirin, çıkan sonuç bambaşka oluyor.  Bu ne işe yarıyor? Bu girilen bilginin orijinal ya da otantik (değiştirilmemiş) olup olmadığını anlamamıza yarıyor. Eğer elinizde bir bilgi (girdi) ve bu bilgi sonucu ortaya çıkan şifreli bir sonuç da varsa, bu girdi hakikaten bu sonucu mu veriyor test edebiliyorsunuz. Girin ilk bilgiyi (girdiyi) şifrelemeye aynı sonucu bulacaksınız. 
 
-Bu arada şunu da belirtmekte fayda var. Bu şifreleme mekanizmalarının özelliği şu: sonucu biliyor olmanız girdiyi de bildiğiniz anlamına gelmiyor. Yani, girdiyi biliyorsanız sonucu bulabiliyorsunuz ama sonuçtan geriye bilgiye gidemiyorsunuz. Yani, öğütücüden geçmiş kağıtlara bakarak kağıtta ne yazıyordu okuyamıyorsunuz. Ancak kağıdın orjinali varsa elinizde onu öğütücüden geçirip önceki öğütülmüş kağıt demetinin aynısını elde edebiliyorsunuz.
+Bu arada şunu da belirtmekte fayda var. Bu şifreleme mekanizmalarının özelliği şu: sonucu biliyor olmanız girdiyi de bildiğiniz anlamına gelmiyor. Yani, girdiyi biliyorsanız sonucu bulabiliyorsunuz ama sonuçtan geriye bilgiye gidemiyorsunuz. Yani, öğütücüden geçmiş kağıtlara bakarak kağıtta ne yazıyordu okuyamıyorsunuz. Ancak kağıdın orijinali varsa elinizde onu öğütücüden geçirip önceki öğütülmüş kağıt demetinin aynısını elde edebiliyorsunuz.
 
 Bilginin tutarlı olduğunu bilmek ne işimize yarıyor? Yukarıda yazdığımız gibi bilgiyi dağıtıp tek bir noktada tutmadığınızda, bilginin dağınık olarak herkeste aynı şekilde durması, bilginin doğruluğu ve kişilerin bu bilgiye olan güvenini sağlayan en önemli etken. Öbür türlü kırk kişide kırk farklı bilgi olursa ona dedikodu denir, kimse de beş kuruş değer vermez. 
 

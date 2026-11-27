@@ -38,7 +38,7 @@ A blockchain is a shared public ledger. When a digital asset is recorded on it, 
 
 So, a token is a scarce digital asset secured by a blockchain, free from the control of any single institution.
 
-Technically, a token is just a small piece of code—a smart contract—that represents digital ownership. But the true magic lies in a single property: this code is *programmable*. Programmability gives these digital assets [superpowers](https://www.lcx.com/the-transformative-role-of-smart-contracts-in-asset-tokenization/), which we will explore next. But first, let's look at the [different kinds of tokens](https://axiomq.com/blog/token-definition-how-they-work-and-why-they-matter/) that exist.
+Technically, a token is just a small piece of code—a smart contract—that represents digital ownership. But the true magic lies in a single property: this code is *programmable*. Programmability gives these digital assets [superpowers](https://www.lcx.com/the-transformative-role-of-smart-contracts-in-asset-tokenization/), which we will explore next. But first, let's look at the different kinds of tokens that exist.
 
 ## Token Standards {#token-standards}
 
@@ -86,7 +86,7 @@ Simply digitizing something creates a pale imitation of the real thing. The digi
 
 But when you tokenize an asset, you’re not just creating a digital record; you're embedding it with logic. You’re turning it into a small piece of software—a smart contract—that can execute rules automatically. This transforms it into something entirely new.
 
-### CBDC’s: Programmable Money {#cbdcs-programmable-money}
+### CBDCs: Programmable Money {#cbdcs-programmable-money}
 
 Consider the idea of a Central Bank Digital Currency (CBDC). When a nation's currency is tokenized, it becomes programmable. This allows for incredibly precise and efficient policy.
 
@@ -116,7 +116,7 @@ Finally, because these tokens are built on shared standards, they are **composab
 
 Theoretically, any asset in the world can be tokenized. The real question isn’t *what* can be tokenized, but *how* easily.
 
-The primary challenge is bridging the physical and digital worlds. The more an asset already exists as pure information, the easier it’s to bring on-chain. This is why the first wave of tokenization is crashing into the financial markets. Assets like bonds, stocks, and debt are already mostly digital entries in a ledger. Turning them into programmable tokens is a natural next step, and giants like [BlackRock are already making moves](https://www.youtube.com/watch?v=CS9CJw3sX3k), as we'll explore in detail later.
+The primary challenge is bridging the physical and digital worlds. The more an asset already exists as pure information, the easier it is to bring on-chain. This is why the first wave of tokenization is crashing into the financial markets. Assets like bonds, stocks, and debt are already mostly digital entries in a ledger. Turning them into programmable tokens is a natural next step, and giants like [BlackRock are already making moves](https://www.youtube.com/watch?v=CS9CJw3sX3k), as we'll explore in detail later.
 
 After financial instruments, expect to see the tokenization of other digital-native assets, like [intellectual property rights](https://medium.com/@syedhasnaatabbas/tokenizing-intellectual-property-a-legal-perspective-in-finance-86f480e52be7). From there, the wave will move to [commodities](https://medium.com/@coolwavecapital/digital-alchemy-reshaping-commodities-through-refinery-tokenization-e1189323cbfc) like gold, silver, and oil—physical assets, but ones that are highly standardized.
 
@@ -130,9 +130,9 @@ Each house, painting, or machine is unique, making the legal and technical proce
 
 ## Understanding the Token Market Size {#understanding-the-token-market-size}
 
-So, how big is this opportunity? According to Boston Consulting Group (BCG), this isn't a niche market. They forecast that the [value of tokenized assets](https://www.ledgerinsights.com/bcg-addx-estimate-asset-tokenization-to-reach-16-trillion-by-2030/) will swell to nearly **$19 trillion by 2033**.
+So, how big is this opportunity? According to Boston Consulting Group (BCG), this isn't a niche market. They forecast that the [value of tokenized assets](https://www.ledgerinsights.com/bcg-ripple-predict-tokenization-to-reach-18-9-trillion-by-2033/) will swell to nearly **$19 trillion by 2033**.
 
-<figure><a href="/assets/books/web3-unlocked/501-3.png"><img src="/assets/books/web3-unlocked/501-3.png" alt="Forecast token market (2030)" width="1200" height="646" loading="lazy"></a><figcaption>Forecast token market (2030) <span class="fig-note">The development of the token market until 2033 according to the renowned consulting firm BCG (Source: <a href="https://www.ledgerinsights.com/bcg-ripple-predict-tokenization-to-reach-18-9-trillion-by-2033/">BCG</a>)</span></figcaption></figure>
+<figure><a href="/assets/books/web3-unlocked/501-3.png"><img src="/assets/books/web3-unlocked/501-3.png" alt="Forecast token market (2033)" width="1200" height="646" loading="lazy"></a><figcaption>Forecast token market (2033) <span class="fig-note">The development of the token market until 2033 according to the renowned consulting firm BCG (Source: <a href="https://www.ledgerinsights.com/bcg-ripple-predict-tokenization-to-reach-18-9-trillion-by-2033/">BCG</a>)</span></figcaption></figure>
 
 As the forecast reveals, the lion's share of this growth—roughly three-quarters of the total—is set to come from tokenizing traditional financial assets. The remaining quarter will likely emerge from tokenizing real-world infrastructure, from sprawling vehicle fleets to individual patents, turning the world's illiquid value into a dynamic, programmable, and globally accessible market.
 

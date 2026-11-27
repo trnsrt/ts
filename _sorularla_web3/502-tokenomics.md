@@ -38,7 +38,7 @@ Tokenlerin dağıtım süreci hisse senetlerine göre çok daha karmaşık. Zira
 
 Web3 dünyasının temel değer önerilerinden biri, yaratılan katma değerin tüm sistem oyuncuları arasında adilce dağıtılması. İşte bu nedenle, bir token sistemi dizayn ederken, yukarıda saydığımız bütün aktörlerin bu katma değerden pay aldığı bir kurgulama yapmanız gerekiyor.
 
-## Nasıl bir planlama yapmalı? Nelere dikkat etmeli? {#nasil-bir-planlama-yapmali-nelere-dikkat-etmeli}
+## Token ekonomisi için nasıl bir planlama yapmalı? Nelere dikkat etmeli? {#nasil-bir-planlama-yapmali-nelere-dikkat-etmeli}
 
 Bir token ekonomisinin planlamasını yaparken dört temel konuya dikkat etmek gerekiyor: Token basımı, dağıtımı, dağıtım sonrası verilecek teşvikler ve token yakımı. Bu kurguda dikkat edilmesi gereken bir diğer önemli konu ise zamanlama. Yani hangi tokenin kime ne zaman verileceğine karar vermek.
 
@@ -52,7 +52,7 @@ Sonrasında sürece bu ekibe yardımcı olan dış paydaşlar eklenir. Örneğin
 
 Tabii bu arada, başlangıçta her ne kadar gönüllü çalışıyor olsalar da gerek kurucu ekip ve gerekse dış geliştiriciler bir noktada yaşamlarını sürdürmek için finansmana ihtiyaç duyar. Web3 dünyasının ilk zamanları daha doğrusu 2020 yılı öncesine kadar bu finansman için halktan para toplama yolu kullanılıyordu.
 
-Klasik hisse senedi arzlarında gördüğümüz IPO (İngilizce ‘Inital Public Offering’ Türkçesi ‘ilk halka arz’) olarak adlandırılan ‘halktan para toplama’ terimi Web3 dünyasında ICO (Ingilizce ‘Inital Coin Offering’) terimi şeklinde ‘türetildi’. Özellikle 2017-18 yıllarında oldukça popüler olan bu yol sonrasında etkisini kaybetti. Bunun birkaç nedeni var.
+Klasik hisse senedi arzlarında gördüğümüz IPO (İngilizce ‘Initial Public Offering’ Türkçesi ‘ilk halka arz’) olarak adlandırılan ‘halktan para toplama’ terimi Web3 dünyasında ICO (İngilizce ‘Initial Coin Offering’) terimi şeklinde ‘türetildi’. Özellikle 2017-18 yıllarında oldukça popüler olan bu yol sonrasında etkisini kaybetti. Bunun birkaç nedeni var.
 
 Birincisi, ICO sırasında token dağıttığınız bireysel yatırımcı oldukça sabırsız, hemen sonuç görmek istiyor. Oysa, o zamanlar projeler ICO sırasında daha henüz kağıt üzerinde birer vizyon olarak vardılar; başarıya ulaşmaları için ciddi bir çaba ve zamana ihtiyaçları vardı. İkincisi ise, kağıt üzerine vizyon çizmek herkesin yapabileceği kolay bir iş. Asıl sorun bunu başarabilmek. Ama işte ilk başta bu yöntemle ciddi para toplandığını gören binlerce proje büyük vizyonlu ama içi boş bir şekilde ICO yapmaya kalkınca tabir-i caiz ise ‘işin suyu çıktı’. Projeler ICO yoluyla para toplayamaz hale geldiler.
 
@@ -78,7 +78,7 @@ Genelde kurucu ekip %20 ile %30 civarı bir payı alıyor (ufak bir kısım da d
 
 Sonrasında yatırımcılar (geçmişte yapılmış yatırıma bağlı olarak) yine bu rakamlara yakın bir orana sahip oluyorlar.
 
-Kalan miktar ise genelde ekosistemin diğer oyuncuları için ayrılıyor. Bunun içinde ekosistemin gelişmesi için ileride kullanılmak üzere kenara konan bir miktar da bulunuyor. Zaman içinde projenin büyümesine katkı sağlayacak diğer küçük projelere verilen ödüller ya da hibeler için ayrılan bir pay da var.. Bu pay ya projenin merkeziyetsiz otonom yapısına (İngilizcesi Decentralized Autonomous Organization kısaca DAO) ya da proje ekibinin bir sivil toplum oluşumuna (foundation) veriliyor.
+Kalan miktar ise genelde ekosistemin diğer oyuncuları için ayrılıyor. Bunun içinde ekosistemin gelişmesi için ileride kullanılmak üzere kenara konan bir miktar da bulunuyor. Zaman içinde projenin büyümesine katkı sağlayacak diğer küçük projelere verilen ödüller ya da hibeler için ayrılan bir pay da var. Bu pay ya projenin merkeziyetsiz otonom yapısına (İngilizcesi Decentralized Autonomous Organization kısaca DAO) ya da proje ekibinin bir sivil toplum oluşumuna (foundation) veriliyor.
 
 <figure><a href="/assets/books/sorularla-web3/502-1.png"><img src="/assets/books/sorularla-web3/502-1.png" alt="Birinci seviye ağların token dağılımları" width="1200" height="668" loading="lazy"></a><figcaption>Birinci seviye ağların token dağılımları <span class="fig-note"><em>Birinci seviye ağların token dağıtımları birbirlerinden çok farklılık gösterebiliyor. (Kaynak: Binance Research)</em></span></figcaption></figure>
 
@@ -90,13 +90,13 @@ Airdrop, adı üzerinde havadan gönderilen para anlamına geliyor. Küçük yat
 
 ### İlk dönem airdropları… {#ilk-donem-airdroplari}
 
-Halka teşvik amacıyla token dağıtılmasının örnekleri uzun süredir hayatımızda olsa da, bu olayın bir furya haline gelmesi 2020 yılı ile birlikte gerçekleşti. Bu alanda bilinen en büyük örnek, bir kredi verme platformu olan [Compound](https://compound.finance/)’un ‘kullanıcılarına platformu kullanma şartıyla’ verdiği COMP tokenler oldu. Sonrasında, merkeziyetsiz dünyanın en büyük alım-satım platformu olan [Uniswap](https://app.uniswap.org/)’ın airdrop dağıtımı bütün matematiği değiştirdi. Merkeziyetsiz borsaların en büyüğü olarak ciddi bir likiditeye sahip olan Uniswap, rakip Sushiswap’ın ‘likidite karşılığı token teşviği’ hamlesi sonrası üzerindeki likiditenin ciddi bir kısmını kaybetti. Daha faz kan kaybetmek istemeyen Uniswap’ın karşı hamlesi kendi teşvik programını başlatmak oldu ama bir farkla: Uniswap, o ana kadar kendi platformunda işlem yapmış (bir kez bile olsa!) her bir kullanıcıya 400 UNI token dağıttı. Tokenı alıp ilk hafta içinde satanlar ortalama[^2] 4 dolardan toplam 1,600 ABD Doları kazanç elde ettiler. (Satmayıp bekleyenlerin beş-altı ay sonra UNI tokenin 40 dolara kadar yükseldiğini gördüğünü de belirtelim).
+Halka teşvik amacıyla token dağıtılmasının örnekleri uzun süredir hayatımızda olsa da, bu olayın bir furya haline gelmesi 2020 yılı ile birlikte gerçekleşti. Bu alanda bilinen en büyük örnek, bir kredi verme platformu olan [Compound](https://compound.finance/)’un ‘kullanıcılarına platformu kullanma şartıyla’ verdiği COMP tokenler oldu. Sonrasında, merkeziyetsiz dünyanın en büyük alım-satım platformu olan [Uniswap](https://app.uniswap.org/)’ın airdrop dağıtımı bütün matematiği değiştirdi. Merkeziyetsiz borsaların en büyüğü olarak ciddi bir likiditeye sahip olan Uniswap, rakip Sushiswap’ın ‘likidite karşılığı token teşviği’ hamlesi sonrası üzerindeki likiditenin ciddi bir kısmını kaybetti. Daha fazla kan kaybetmek istemeyen Uniswap’ın karşı hamlesi kendi teşvik programını başlatmak oldu ama bir farkla: Uniswap, o ana kadar kendi platformunda işlem yapmış (bir kez bile olsa!) her bir kullanıcıya 400 UNI token dağıttı. Tokenı alıp ilk hafta içinde satanlar ortalama[^2] 4 dolardan toplam 1,600 ABD Doları kazanç elde ettiler. (Satmayıp bekleyenlerin beş-altı ay sonra UNI tokenin 40 dolara kadar yükseldiğini gördüğünü de belirtelim).
 
 Geçmişte platformu kullananlara bu kadar token verilmesi, tüm topluluk için bir sürpriz oldu. Bu olay, aslına bakarsanız Uniswap’tan çok diğer platformların işine yaradı, çünkü kullanıcılar özellikle tokeni henüz çıkmamış uygulamalara ‘airdrop dağıtılır’ umuduyla girip işlem yapmaya başladı.
 
 ### Yaygınlaşma ve evrilme… {#yayginlasma-ve-evrilme}
 
-Uniswap sonrası pek çok uygulama, benzer şekilde ücretsiz token dağıtırken bir noktadan sonra işin suyu çıkmaya başladı. Platformlar üzerinden bir kez işlem yapmış yüzbinlerce hesap ortaya çıktı. Üstelik hesap yaratmak son derece basit bir işlem olduğu için insanların onlarca, yüzlerce hesap açtığını gördük. Bunun üzerine platformların airdrop verme kriterlerini yavaş yavaş değişmeye başladı..
+Uniswap sonrası pek çok uygulama, benzer şekilde ücretsiz token dağıtırken bir noktadan sonra işin suyu çıkmaya başladı. Platformlar üzerinden bir kez işlem yapmış yüzbinlerce hesap ortaya çıktı. Üstelik hesap yaratmak son derece basit bir işlem olduğu için insanların onlarca, yüzlerce hesap açtığını gördük. Bunun üzerine platformların airdrop verme kriterleri yavaş yavaş değişmeye başladı.
 
 Uniswap sonrası en büyük airdroplardan biri Arbitrum’dan geldi. Arbitrum ekibi, token dağıtımı sırasında farklı bir uygulama yaparak eski ve aktif kullanıcıları ödüllendirme yoluna gitti. Örneğin erken kullanıcıları ödüllendirmek için uygulamayı en başta kullananlar, aktifliği özendirmek için farklı aylarda platformu kullanmış olanlar, platform üzerindeki farklı akıllı kontratlarda belirli sayının üzerinde işlem yapanlar, belirli bir değerin üzerinde işlem hacmi yakalayanlar, Ethereum’dan platforma yüksek miktarda varlık geçirenlerin her biri yüksek derecede ödüle hak kazandılar.
 
@@ -126,9 +126,9 @@ Benzer şekilde aktif kullanıcısı fazla olan protokol, başka protokoller ile
 
 Öte yandan puanlama sistemi projelere token teşviğine kıyasla çok daha büyük bir rahatlık ve esneklik getiriyor. Sabit sayıdaki tokeni kullanıcılara istedikleri şekilde istedikleri sürede verip, yolda teşvikleri değiştirme şansına sahip oluyor projeler.
 
-### Süreç dejenere olmaya doğru ilerler… {#surec-dejenere-olmaya-dogru-ilerler}
+### Airdrop süreci dejenere olmaya doğru ilerler… {#surec-dejenere-olmaya-dogru-ilerler}
 
-Sonrasında işin daha da suyunun çıktığı gördük. Projeler puanlama sisteminden bıkan kullanıcıları, uygulamalarını kullanmaya itmek için ‘sezon bir’, ‘sezon iki’ gibi farklı dönemler oluşturmaya başladılar. Üstelik her yeni periyotta verilen puanları artırarak yeni kullanıcı çekmeye çalıştılar. Eskiden beri projede olanlar başlangıçta aldıkları puanlar yeni sezonda verilenlerin yanında ufacık kalsa bile, onları kaybetmemek uğruna seslerini çıkarmadan proje içinde kalmaya devam ettiler.
+Sonrasında işin daha da suyunun çıktığını gördük. Projeler puanlama sisteminden bıkan kullanıcıları, uygulamalarını kullanmaya itmek için ‘sezon bir’, ‘sezon iki’ gibi farklı dönemler oluşturmaya başladılar. Üstelik her yeni periyotta verilen puanları artırarak yeni kullanıcı çekmeye çalıştılar. Eskiden beri projede olanlar başlangıçta aldıkları puanlar yeni sezonda verilenlerin yanında ufacık kalsa bile, onları kaybetmemek uğruna seslerini çıkarmadan proje içinde kalmaya devam ettiler.
 
 Airdrop’un toplam arzın ne kadarı olduğu ve kime dağıtıldığı da önemli olabiliyor. Çok küçük bir oranın airdrop için ayrılmış olması topluluk tarafından alınan ödülleri azalttığı için tepki çekebiliyor. Bir başka tepki çeken konu ise, airdropun kullanıcılar ve geliştiriciler arasında paylaşımı. Burada en kötü tecrübelerden birini [Starknet](https://www.starknet.io/) projesi yaşadı.
 
@@ -144,9 +144,9 @@ Token dağıtımlarının en önemli konularından biri de token almaya hak kaza
 
 Bu konuda şimdiye kadar piyasada oluşan genel uygulama, airdrop olarak verilen tokenlerin hemen satılabilir olması. Bunun dışında kalan diğer tokenler genelde belirli bir süre kilitli kalıyor. Bu süre projeden projeye değişse de yıllar geçtikçe kilit sürelerinin uzamaya başladığını görüyoruz. Bunun temel nedeni, erken kilit açılımı olan projelerin token değerlerinin genelde düşük olması. Piyasa, bu açılımları projelerin ensesinin üstünde duran ‘Demokles’in kılıcı’ gibi görmekte.
 
-Burada bir başka konu da açılımların nasıl bir süre içinde gerçekleşeceği. Bir anda gerçekleşecek kilit açılımlarının fiyata negatif etki yaptığını görüyoruz. Bu konuda belki de en ciddi darbeyi yukarıda olumlu örnek olarak verdiğimiz Arbitrum yaşadı. İlk açıldığında airdrop olarak 1.1 milyar token dağıtan Arbitrum, sonrasında Mart 2024’te aynı miktarda yatırımcı ve ekip için ayrılan tokenin kilidini açtı. Ethereum üzerinde en çok varlık barındıran ve en çok kullanılan proje olan Arbitrum’un tokeni ARB’nin değeri bu kilit açılımı öncesi ve sonrası bir türlü diğer benzer projelerin (örneğin Optimum) tokenlerinin gösterdiği performansa ulaşamadı.
+Burada bir başka konu da açılımların nasıl bir süre içinde gerçekleşeceği. Bir anda gerçekleşecek kilit açılımlarının fiyata negatif etki yaptığını görüyoruz. Bu konuda belki de en ciddi darbeyi yukarıda olumlu örnek olarak verdiğimiz Arbitrum yaşadı. İlk açıldığında airdrop olarak 1.1 milyar token dağıtan Arbitrum, sonrasında Mart 2024’te aynı miktarda yatırımcı ve ekip için ayrılan tokenin kilidini açtı. Ethereum üzerinde en çok varlık barındıran ve en çok kullanılan proje olan Arbitrum’un tokeni ARB’nin değeri bu kilit açılımı öncesi ve sonrası bir türlü diğer benzer projelerin (örneğin Optimism) tokenlerinin gösterdiği performansa ulaşamadı.
 
-## Peki kanuni olarak nasıl değerlendiriliyorlar? {#peki-kanuni-olarak-nasil-degerlendiriliyorlar}
+## Peki tokenler kanuni olarak nasıl değerlendiriliyorlar? {#peki-kanuni-olarak-nasil-degerlendiriliyorlar}
 
 Yukarıda saydıklarımız tokenlerin standart bakımından türleri. Bu tokenlerin kanuni mevzuatta nasıl ele alındıkları ise ülkeden ülkeye değişen hayli karmaşık bir konu.
 
@@ -185,7 +185,7 @@ Literatüre Howey Test olarak geçen bu kararın içinde bir menkul kıymetin ya
 3. Varlığı satanın bir kurum olması ve alanlar ile bir finansal işleme girmesi
 4. Başarının başkalarının çabasına bağlı olması
 
-Bir varlık, eğer yukarıdaki dört koşulu da sağlıyorsa ise o zaman bir yatırım kontratı sayılıyor ve çıkarılmadan önce SEC’ye kayıt edilmesi gerekiyor.. Yok eğer birinden bile testi geçemiyor ise o zaman SEC’ye başvuru yapılmasına gerek yok.
+Bir varlık, eğer yukarıdaki dört koşulu da sağlıyorsa o zaman bir yatırım kontratı sayılıyor ve çıkarılmadan önce SEC’ye kayıt edilmesi gerekiyor. Yok eğer birinden bile testi geçemiyor ise o zaman SEC’ye başvuru yapılmasına gerek yok.
 
 1946 yılının ortamında yapılan bu düzenlemenin bugünün şartlarına uymadığı çok açık. Özellikle de merkeziyetsiz dünyada ortaya çıkan dijital varlıklara. İşte bu nedenle, bu alanda ABD’de yeni bir yasanın çıkması sadece bu ülkede değil, liderlik ettiği finansal piyasalar aracılığıyla tüm dünyada dijital varlıklara olan ilgiyi başka bir seviyeye taşıyacak boyutta.
 
@@ -199,7 +199,7 @@ MiCA’nın ilginç özelliklerinden biri hangi dijital varlıkların kapsama al
 
 MiCA’nın genel bir çerçeve mevzuat olduğunu ve tüm AB ülkelerinde uygulamaya gireceğini belirtelim. Bu arada pek çok AB ülkesinde kurulu olan ve şu anda bu ülke yasaları altında hizmet veren kurumlar için 2026 yılına uzanan bir [geçiş süreci söz konusu](https://technologyquotient.freshfields.com/post/102jake/grandfathering-under-mica-how-member-states-approach-the-transitional-regime) olacak.
 
-### Türkiye’de durum ne? {#turkiyede-durum-ne}
+### Türkiye’de tokenlerin durumu ne? {#turkiyede-durum-ne}
 
 Ülkemizde Temmuz 2024’te [yürürlüğe giren](https://www.aa.com.tr/tr/ekonomi/kripto-varliklara-iliskin-yasa-resmi-gazetede-yayimlandi-/3263941) kripto varlık yasa tasarısı ise adından da anlaşılabileceği gibi tüm varlık sınıflarını kripto varlık olarak değerlendiriyor ve SPK’nin denetimi altına koyuyor. Token çıkarılması konusunu teknik olarak TÜBİTAK’ın onayına tabi kılan yasa, nihai onay sahibi olarak SPK’yı gösteriyor.
 

@@ -22,15 +22,15 @@ Burada hemen bir es verip, konuyu daha iyi kavrayabilmek için dijital varlık i
 
 ### Dijital varlıklarda ‘kopyalanma’ sorunsalı {#dijital-varliklarda-kopyalanma-sorunsali}
 
-Dijital varlıkları kopyalamak ya da çoğaltabilmek inanılmaz derecede kolay. Herhangi bir dijital dosyayı, örneğin jpeg formatındaki bir resmi farenizin sağ tarafına basıp ‘kopya’ opsiyonunu seçerek istediğiniz yere kopyalayabilirsiniz. Orjinalinden hiçbir farkı olmaz. Herhangi bir varlığı sınırsız şekilde çoğalttığınız durumda ise, maalesef o varlığa bir değer atfedebilmek adeta imkansız hale gelir.
+Dijital varlıkları kopyalamak ya da çoğaltabilmek inanılmaz derecede kolay. Herhangi bir dijital dosyayı, örneğin jpeg formatındaki bir resmi farenizin sağ tarafına basıp ‘kopya’ opsiyonunu seçerek istediğiniz yere kopyalayabilirsiniz. Orijinalinden hiçbir farkı olmaz. Herhangi bir varlığı sınırsız şekilde çoğalttığınız durumda ise, maalesef o varlığa bir değer atfedebilmek adeta imkansız hale gelir.
 
-### Nasıl çözüldü bu sorun? {#nasil-cozuldu-bu-sorun}
+### Nasıl çözüldü bu kopyalanma sorunu? {#nasil-cozuldu-bu-sorun}
 
 İşte tüm avantajlarına rağmen dijital varlıkların biz insanlar tarafından bir değere sahip varlık olarak kullanılabilmesi mümkün değil. Peki o zaman, dijital dünyanın gelişmesi ile birlikte bu dünyanın içindeki dijital varlıkları nasıl kullanmaya başladık? Birileri bize kullandığımız dijital varlığın sınırlı sayıda olduğunu taahhüt etti. Şu an hepimizin internette kullandığı kredi kartları ya da banka hesaplarını ele alalım. Kredi kartı ile internetten sipariş verirken ya da arkadaşımıza para gönderirken, bir banka bize kullandığımız dijital varlığın kısıtlı olduğunu söyledi. Biz de toplum olarak bankalara güvendiğimiz için bu paraların dijital olarak kısıtlı olduğunu kabul ettik.
 
 Zaman içinde dijital dünyadaki bütün aktivitelerin finansal bacağında dijital paraları kullanmaya başladık. Dikkat ederseniz bugün artık fiziki olarak paraya dokunuşumuz giderek azaldı. Hatta kimi İskandinav ülkelerinde artık paranın kalmadığını [okumaya başladık](https://festipay.com/top-six-cashless-societies-finland-sweden-and-china-lead-way/).
 
-### Peki ya merkezsiz olarak çözüm var mı? {#peki-ya-merkezsiz-olarak-cozum-var-mi}
+### Peki ya kopyalanma sorununa merkezsiz olarak çözüm var mı? {#peki-ya-merkezsiz-olarak-cozum-var-mi}
 
 Blokzincir teknolojisinin biz insanlara getirdiği en büyük fayda dijital dünyadaki herhangi bir varlığı kısıtlı hale getirirken, bankalar gibi büyük finans kuruluşlarına olan ihtiyacı ortadan kaldırması oldu. Blokzincir özünde herkese açık bir kayıt defteri. Bu defter üzerine kaydedilen dijital varlıklar kısıtlı sayıda üretilebiliyor ve bu herkes tarafından görülüyor, onaylanıyor. Bankaların yüzyıllar boyunca çalışarak oluşturduğu güven konusundaki sosyal konsensusu, bilgisayarlar matematik sayesinde benzer şekilde oluşturmayı başardılar.
 
@@ -108,7 +108,7 @@ Tokenlerin programlanabilir olması beraberinde pek çok avantajı getiriyor. Bi
 
 Finansal piyasalarda tokenleştirme sayesinde global ölçekte 7/24 çalışan ve programlanabilen varlıklar yaratıyorsunuz. Bu sayede; daha hızlı mahsuplaşma, operasyonel maliyetleri azaltma, ürünleri daha geniş kesimlerin erişimine açma ve daha şeffaf hizmet sunma [mümkün hale geliyor](https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-tokenization).
 
-<figure><a href="/assets/books/sorularla-web3/501-2.png"><img src="/assets/books/sorularla-web3/501-2.png" alt="Tokenleştirmenin maliyet avantajları" width="1200" height="562" loading="lazy"></a><figcaption>Tokenleştirmenin maliyet avantajları <span class="fig-note"><em>Finansal ürünlerde tokenleştirmenin avantajları örneği. (Kaynak: <a href="https://www.finoa.io/blog/cost-savings-tokenization/">Finoa</a>)</em></span></figcaption></figure>
+<figure><a href="/assets/books/sorularla-web3/501-2.png"><img src="/assets/books/sorularla-web3/501-2.png" alt="Tokenleştirmenin maliyet avantajları" width="1200" height="562" loading="lazy"></a><figcaption>Tokenleştirmenin maliyet avantajları <span class="fig-note"><em>Finansal ürünlerde tokenleştirmenin avantajları örneği. (Kaynak: Finoa)</em></span></figcaption></figure>
 
 Programlanabilir olmanın bir varlığa kattığı önemli değerlerden bir tanesi de likidite. Zira küçük parçalara bölebildiğiniz bir varlık, çok daha geniş bir kesim tarafından ulaşılabilir hale geliyor. Aynı zamanda gayrimenkul gibi likit olmayan varlıklar da bir anda daha likit bir pazara açılmış oluyorlar.
 
@@ -130,7 +130,7 @@ Ticari varlık (makineler, envanter, taşıt araçları), sanat eseri koleksiyon
 
 <figure><a href="/assets/books/sorularla-web3/501-3.png"><img src="/assets/books/sorularla-web3/501-3.png" alt="Tokenleştirme örnekleri" width="1200" height="609" loading="lazy"></a><figcaption>Tokenleştirme örnekleri <span class="fig-note"><em>Tokenleştirilebilecek varlık türleri ve örnekleri. (Kaynak: TheBlock - <a href="https://www.theblock.co/post/241500/tokenization-of-off-chain-assets-presented-by-avalanche-and-ava-labs">Tokenization of Off-Chain Assets- Presented by Avalanche and Ava Labs</a>)</em></span></figcaption></figure>
 
-## Nasıl bir pazardan bahsediyoruz? {#nasil-bir-pazardan-bahsediyoruz}
+## Nasıl bir token pazarından bahsediyoruz? {#nasil-bir-pazardan-bahsediyoruz}
 
 Token pazarının ne kadar büyük bir pazar olduğu konusunda çeşitli tahminler var. Bu konuda en büyük danışmanlık şirketlerinden BCG’nin tahmini pazarın 2030 yılına kadar yaklaşık 16 trilyon ABD Doları bir büyüklüğe ulaşacağı şeklinde[^1].
 
@@ -156,7 +156,7 @@ Son olarak, fiziki varlıkların saklanması ve tokenler aracılığıyla blokzi
 
 Kripto dünyasının içine doğmuş kriptoparaların yıllar içinde ciddi bir büyüme kaydetmesine rağmen, özellikle gerçek dünya varlıklarının tokenleştirilmesinin bir hayli geride kaldığını gördük.
 
-### En büyük gelişme stabil paralarda {#en-buyuk-gelisme-stabil-paralarda}
+### Tokenleştirmede en büyük gelişme stabil paralarda {#en-buyuk-gelisme-stabil-paralarda}
 
 Bu alanda belki de en büyük kullanım alanı bu kitapta başka bölümlerde de bahsettiğimiz stabil paralar alanında oldu. Stabil paralar, klasik finans ile kripto dünyası arasında bir köprü vazifesi gördüler adeta. (Bu konuda ilginç bir örnek olan Ethena ile ilgili dördüncü bölümün sonundaki örnek çalışmaya göz atabilirsiniz.)
 

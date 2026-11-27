@@ -81,7 +81,7 @@ Kurulduğu günden bu yana Polygon ağı üzerinde çalışan Lens, 2024 yılı 
 
 Kullanıcı kimliklerini zincir üstünde yarattıkları içerikleri zincir dışı tutan Farcaster, özellikle postlar içine kurulabilen ufak programcıklar sayesinde kullanıcılara oyun oynama, anket yapma benzeri etkileşimi artıracak araçlar sunuyor. Frames adı verilen bu programcıklar, Lens protokolün Open Actions özelliğine oldukça benziyor. Farcaster da Lens gibi spam hesapların önüne geçmek için  hesap açarken kullanıcılardan ücret alıyor. 
 
-Üzerinde [Warpcast](https://warpcast.com/) ve [Supercast](https://www.supercast.xyz/) gibi popüler uygulamalar bulunan Farcaster zincir olarak Optimum ağını kullanıyor.
+Üzerinde [Warpcast](https://warpcast.com/) ve [Supercast](https://www.supercast.xyz/) gibi popüler uygulamalar bulunan Farcaster zincir olarak Optimism ağını kullanıyor.
 
 #### **Nostr**
 

@@ -152,9 +152,27 @@ CORRECTIONS = [
     ('aktarılacak..', 'aktarılacak.'),
     ('bir yıldan kısa bir zaman içinde', '18 ay kadar bir sürede'),   # 3AC page (owner-approved)
     ('ingilizce', 'İngilizce', 'all'),                   # every lowercase 'ingilizce…' in the book (never in a URL, id or heading)
+    # GEO batch B6 (owner-approved). 'Orjinal'/'orjinal' (TDK: "orijinal"), 'Ingilizce' with a plain capital I (201 and 502),
+    # '2023’de' (503 and 304; the second 304 hit is '2023’den' -> '2023’ten'); each is never in a URL, id or heading
+    ('Orjinal', 'Orijinal', 'all'),
+    ('orjinal', 'orijinal', 'all'),
+    ('Ingilizce', 'İngilizce', 'all'),
+    ('Optimum', 'Optimism'),                             # 201 footnote and 502: the Optimism network
+    ('Ensititüsü', 'Enstitüsü'),
+    ('Ancorage', 'Anchorage'),
+    ('2023’de', '2023’te', 'all'),
+    ('Inital', 'Initial', 'all'),                        # 502: both in one paragraph
+    ('Daha faz kan', 'Daha fazla kan'),
+    ('kriterlerini yavaş yavaş', 'kriterleri yavaş yavaş'),
+    ('çıktığı gördük', 'çıktığını gördük'),
+    ('sağlıyorsa ise', 'sağlıyorsa'),
+    ('var.. Bu pay', 'var. Bu pay'),
+    ('başladı..', 'başladı.'),
+    ('gerekiyor.. Yok eğer', 'gerekiyor. Yok eğer'),
 ]
 # expected number of matching paragraphs for TR corrections that legitimately occur more than once (default 1)
-CORRECTION_EXPECTED = {'Geoffery': 2, 'sarfediyorlar': 2, 'Tiktok': 2, 'Temmuz 2024’de': 2, 'ingilizce': 50}
+CORRECTION_EXPECTED = {'Geoffery': 2, 'sarfediyorlar': 2, 'Tiktok': 2, 'Temmuz 2024’de': 2, 'ingilizce': 50,
+                       'orjinal': 2, 'Ingilizce': 2, 'Optimum': 2, '2023’de': 3, 'Inital': 2}
 # the same for the English profile (default 1)
 EN_CORRECTION_EXPECTED = {}
 CORRECTION_COUNTS = {c[0]: 0 for c in CORRECTIONS}
@@ -227,6 +245,14 @@ EN_CORRECTIONS = [
     ('(Case Studies: Valve, NVG8)', '(Case Studies: Vana, NVG8)'),
     ('Apple Store', 'App Store'),
     ('in just under a year', 'in around 18 months'),
+    # GEO batch B6 (owner-approved)
+    ('a opaque', 'an opaque'),
+    ('Bitcoin (BTC) fits this description', 'Bitcoin (BTC) fit this description'),
+    ("Gandhi: 'First they ignore you", "Gandhi: ‘First they ignore you"),
+    # 502: the airdrop paragraph repeated the 7-20% sentence above it; keep that one and drop the 5-10% sentence
+    ('Finally, a slice of the pie is given away for free to early users and supporters through airdrops. While the allocation is often between 5-10%, the strategy behind airdrops has evolved significantly.',
+     'The strategy behind airdrops has evolved significantly.'),
+    ('up to ~$40,000 within six months', 'up to ~$16,000 within six months'),   # 400 UNI at the $40 maximum
 ]
 # Fixes of the finished page Markdown (each must match exactly once). The footnote mark is a token of its own, so a
 # fix that spans it (the source has a stray full stop after the mark) can only be made here, where it reads [^10].
@@ -249,6 +275,18 @@ EN_OUT_CORRECTIONS = [
     ('Synesis [One](https://www.firstbatch.xyz/), First Batch)', '[Synesis One](https://www.synesis.one/), [First Batch](https://www.firstbatch.xyz/))'),
     ('[IV - The Agentic Economy](https://members.delphidigital.io/reports/deai-iii-composable-compute)',
      '[IV - The Agentic Economy](https://members.delphidigital.io/reports/deai-iv-the-agentic-economy#vox-populi--war-of-the-rails-4435)'),
+    # GEO batch B6 (owner-approved): the GENIUS Act is S. 1582 of the 119th Congress (the old target was H.R. 3736, 116th)
+    ('[GENIUS Act](https://www.congress.gov/bill/116th-congress/house-bill/3736?q=%257B%2522search%2522:%2522genius+act%2522%257D&s=1&r=1)',
+     '[GENIUS Act](https://www.congress.gov/bill/119th-congress/senate-bill/1582)'),
+    # 501: the text says "nearly $19 trillion by 2033", so the link goes to the matching article (matched on text + old target)
+    ('[value of tokenized assets](https://www.ledgerinsights.com/bcg-addx-estimate-asset-tokenization-to-reach-16-trillion-by-2030/)',
+     '[value of tokenized assets](https://www.ledgerinsights.com/bcg-ripple-predict-tokenization-to-reach-18-9-trillion-by-2033/)'),
+    ('alt="Forecast token market (2030)"', 'alt="Forecast token market (2033)"'),
+    ('<figcaption>Forecast token market (2030)', '<figcaption>Forecast token market (2033)'),   # caption title matches the alt text and the 2033 source
+    ('the easier it’s to bring', 'the easier it is to bring'),   # the docx has a straight apostrophe, so this is an output fix
+    # dead links removed, text kept
+    ('[different kinds of tokens](https://axiomq.com/blog/token-definition-how-they-work-and-why-they-matter/)', 'different kinds of tokens'),
+    ('[paid out directly](https://cointelegraph.com/explained/blackrocks-buidl-fund-explained-why-it-matters-for-crypto-and-tradfi)', 'paid out directly'),
 ]
 # Fixes of the finished page Markdown/HTML of the Turkish book (each must match exactly once, or (old, new, count)):
 # quote marks straddling a link, one missing full stop after a link, one link removed from a chart caption (text kept).
@@ -258,7 +296,31 @@ TR_OUT_CORRECTIONS = [
     ('Vibe Bio](https://www.vibebio.com/)‘nun', 'Vibe Bio](https://www.vibebio.com/)’nun'),
     ('[düştü](https://coinmarketcap.com/currencies/steth/steth/eth/) BTC, 2022', '[düştü](https://coinmarketcap.com/currencies/steth/steth/eth/). BTC, 2022'),
     ('<a href="https://turansert.com/genel/2023/03/14/abdde-banka-krizi-ve-gelecek.html">FDIC</a>', 'FDIC'),
+    # GEO batch B6 (owner-approved): dead link (404) removed from a chart caption, text kept
+    ('<a href="https://www.finoa.io/blog/cost-savings-tokenization/">Finoa</a>', 'Finoa'),
+    # the map pin on the house's street address is removed for the owners' privacy, text kept
+    ('[bir banliyö evinin](https://www.google.com/maps/place/149+Cottage+Lake+Way,+Columbia,+SC+29209/@33.9594797,-80.9455555,272m/data=!3m1!1e3!4m5!3m4!1s0x88f8b053743f5079:0x8883bce9faf9ed0f!8m2!3d33.9596548!4d-80.9454178)',
+     'bir banliyö evinin'),
 ]
+# GEO batch B6 (owner-approved), footnote definitions (they are not in the page blocks that the lists above see):
+# {book profile: [(old, new) or (old, new, expected count)]}, each must match exactly once in the whole book
+FN_OUT_CORRECTIONS = {
+    'tr': [
+        ('[ishares Ethereum ETF’](https://www.blackrock.com/us/individual/products/337614/ishares-ethereum-trust-etf)i',
+         '[iShares Ethereum ETF](https://www.blackrock.com/us/individual/products/337614/ishares-ethereum-trust-etf)’i'),
+    ],
+}
+# GEO batch B6 (owner-approved), both BlackRock pages (503): CNBC, Coindesk, Nasdaq and Investopedia treat addresses as
+# case-sensitive, so 'BlackRock' becomes 'blackrock' inside these six addresses only (link text and businesswire stay);
+# applied through LINK_TARGET_FIXES below because one of the links is in a footnote
+BLACKROCK_URL_FIXES = {u: u.replace('BlackRock', 'blackrock') for u in (
+    'https://www.cnbc.com/2017/10/13/BlackRock-ceo-larry-fink-calls-bitcoin-an-index-of-money-laundering.html',
+    'https://www.coindesk.com/business/2022/08/04/BlackRock-to-offer-crypto-for-institutional-investors-through-coinbase-prime/',
+    'https://www.coindesk.com/business/2023/10/17/BlackRock-ceo-larry-fink-seeing-client-demand-for-crypto-around-the-world/',
+    'https://www.coindesk.com/policy/2023/11/16/BlackRock-files-application-for-spot-ether-etf/',
+    'https://www.nasdaq.com/articles/BlackRock-ceo-larry-fink-says-bitcoin-is-an-asset-class-that-protects-you',
+    'https://www.investopedia.com/BlackRock-files-for-a-spot-bitcoin-etf-7547609',
+)}
 # Stray paragraphs (exact text, ordinary paragraphs only) to drop from the web edition; each must match exactly once.
 EN_DROP_PARAGRAPHS = {'The Block Pro'}
 # Normal-style paragraphs (exact text) that the published contents list as sections of their own.
@@ -394,6 +456,7 @@ BC_CORRECTIONS = [
     ('Blockhain', 'Blockchain', 6),                     # (old, new, expected count); the print has the typo too
     ('olmasında dolayı', 'olmasından dolayı'),
     ('başlangıça', 'başlangıca'),
+    ('BTC’nin orjinal yaratıcılarının', 'BTC’nin orijinal yaratıcılarının'),   # GEO batch B6 (owner-approved), 506
 ]
 BC_OVERRIDES = {
     'Blockchain’i sosyal fayda için kullanabilir miyiz?': ('sosyal-fayda', None),
@@ -519,6 +582,18 @@ BODY_HEADING_OVERRIDES = {
         ('417-crypto-climate-coalition.md', 'neden-boyle-bir-organizasyona-ihtiyac-duyulmus'): 'Neden LCCC gibi bir organizasyona ihtiyaç duyulmuş?',
         ('417-crypto-climate-coalition.md', 'ortaklar-nasil-katkida-bulunuyor'): 'LCCC’nin ortakları nasıl katkıda bulunuyor?',
         ('418-vibe-dao.md', 'hangi-alanlara-girmisler'): 'Vibe Bio hangi alanlara girmiş?',
+        # GEO batch B6 (chapter 5): headings that did not say what the page is about
+        ('501-tokenler.md', 'nasil-cozuldu-bu-sorun'): 'Nasıl çözüldü bu kopyalanma sorunu?',
+        ('501-tokenler.md', 'peki-ya-merkezsiz-olarak-cozum-var-mi'): 'Peki ya kopyalanma sorununa merkezsiz olarak çözüm var mı?',
+        ('501-tokenler.md', 'nasil-bir-pazardan-bahsediyoruz'): 'Nasıl bir token pazarından bahsediyoruz?',
+        ('501-tokenler.md', 'en-buyuk-gelisme-stabil-paralarda'): 'Tokenleştirmede en büyük gelişme stabil paralarda',
+        ('502-tokenomics.md', 'nasil-bir-planlama-yapmali-nelere-dikkat-etmeli'): 'Token ekonomisi için nasıl bir planlama yapmalı? Nelere dikkat etmeli?',
+        ('502-tokenomics.md', 'surec-dejenere-olmaya-dogru-ilerler'): 'Airdrop süreci dejenere olmaya doğru ilerler…',
+        ('502-tokenomics.md', 'peki-kanuni-olarak-nasil-degerlendiriliyorlar'): 'Peki tokenler kanuni olarak nasıl değerlendiriliyorlar?',
+        ('502-tokenomics.md', 'turkiyede-durum-ne'): 'Türkiye’de tokenlerin durumu ne?',
+        ('503-blackrock-token-hamlesi.md', 'gelelim-son-olaya-ne-oldu'): 'Gelelim BlackRock’ın son hamlesine. Ne oldu?',
+        ('503-blackrock-token-hamlesi.md', 'etflere-benziyor-mu-bu-urun-neden-onemli'): 'ETF’lere benziyor mu BUIDL? Neden önemli?',
+        ('504-abd-ev-tokenlestirmesi.md', 'neydi-islem'): 'Neydi bu ev tokenleştirme işlemi?',
     },
     'en': {
         ('103-web3.md', 'the-movement-begins'): 'The Web3 Movement Begins',
@@ -590,6 +665,9 @@ BODY_HEADING_OVERRIDES = {
         ('413-terra-implosion.md', 'trust-is-everything'): 'Trust Is Everything for Stablecoins',
         ('414-3ac-bankruptcy.md', 'how-it-started'): 'How the 3AC Bankruptcy Started',
         ('415-ftx-collapse.md', 'what-happened'): 'What Happened to FTX?',
+        # GEO batch B6
+        ('501-tokens.md', 'cbdcs-programmable-money'): 'CBDCs: Programmable Money',
+        ('503-blackrock-on-chain.md', 'the-real-strategy-tokenizing-everything'): 'BlackRock’s Real Strategy: Tokenizing Everything',
     },
 }
 
@@ -623,6 +701,8 @@ LINK_TARGET_FIXES = {
         'https://turansert.com/genel/2023/03/31/chain.link': 'https://chain.link',
     },
 }
+LINK_TARGET_FIXES['tr'].update(BLACKROCK_URL_FIXES)    # GEO batch B6
+LINK_TARGET_FIXES['en'].update(BLACKROCK_URL_FIXES)
 # expected number of source paragraphs per link fix, default 1 (the Wikipedia link: 102, 406, 407)
 LINK_FIX_EXPECTED = {'https://en.wikipedia.org/wiki/Facebook%25E2%2580%2593Cambridge_Analytica_data_scandal': 3}
 
@@ -2316,10 +2396,16 @@ class Converter:
             if page.kind == 'chapter' and ov and not page.blocks:
                 page.blocks = [ov]
                 page.plain = [ov]
+        fn_counts = {}
         for page in self.pages:
             fdefs = self.footnote_defs(page)
             page.blocks = [self.resolve_links(b, page) for b in page.blocks]
             fdefs = self.resolve_links(fdefs, page)
+            for c in FN_OUT_CORRECTIONS.get(P['name'], []):
+                n = fdefs.count(c[0])
+                fn_counts[c[0]] = fn_counts.get(c[0], 0) + n
+                if n:
+                    fdefs = fdefs.replace(c[0], c[1])
             if extra_defs.get(page.filename):
                 fdefs = (fdefs + '\n\n' if fdefs else '') + '\n\n'.join(extra_defs[page.filename])
                 page.stats['fn_defs'] += len(extra_defs[page.filename])
@@ -2330,6 +2416,10 @@ class Converter:
             with open(os.path.join(self.out_dir, page.filename), 'w', encoding='utf-8') as f:
                 f.write(text)
             files.append(page.filename)
+        bad = {c[0]: fn_counts.get(c[0], 0) for c in FN_OUT_CORRECTIONS.get(P['name'], [])
+               if fn_counts.get(c[0], 0) != (c[2] if len(c) > 2 else 1)}
+        if bad:
+            raise SystemExit('footnote corrections must match exactly once; got %r' % bad)
         used = set(p for pg in self.pages for p in pg.fn_ids)
         if used != set(self.dx.footnotes):
             warn('footnotes not referenced: %s' % sorted(set(self.dx.footnotes) - used))

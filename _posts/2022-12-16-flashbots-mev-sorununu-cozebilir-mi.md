@@ -70,7 +70,7 @@ Ethereum'un geliştirmeleri maalesef uzun zaman alıyor. Bu süre zarfında ne o
 
 SUAVE'nin birkaç hedefi var. Bunlardan birincisi, MEV ile ortaya çıkan değerin kullanıcılara geri verilmesi - ki bu MEV'in kötü kullanımından kurtulmanın en büyük çözümü olabilir. Nasıl olacak bu? İşlemlerin gizlilik içinde sıralanması yoluyla. 
 
-SUAVE'nin ikici hedefi, blok üreticilerine sadece Ethereum değil, diğer alternatif blokzincir ağlar (Cosmos, Avalanche gibi) ya da ikinci seviye altyapılar (Arbitrum, Optimum gibi) ile entegre olabilecekleri bir sistem sunmak. SUAVE yukarıda yazdığımız sıralama işlemini tüm ağlarda yaparak blok üreticilerine sunacak. Bu sayede blok üreticileri de SUAVE kullanmaya özendirilecek.
+SUAVE'nin ikici hedefi, blok üreticilerine sadece Ethereum değil, diğer alternatif blokzincir ağlar (Cosmos, Avalanche gibi) ya da ikinci seviye altyapılar (Arbitrum, Optimism gibi) ile entegre olabilecekleri bir sistem sunmak. SUAVE yukarıda yazdığımız sıralama işlemini tüm ağlarda yaparak blok üreticilerine sunacak. Bu sayede blok üreticileri de SUAVE kullanmaya özendirilecek.
 
 Üçüncü önemli nokta ise, çok güçlü ve sayıca az olan blok üreticilerinin arasındaki rekabetin artabilmesi için oluşturulan SUAVE'nin olabildiğince merkeziyetsiz bir hale getirilmesi.[^3]
 

@@ -15,7 +15,7 @@ Dijital para kavramı aslında oldukça eski bir kavram. Ancak dijital para olar
 
 | ![Naval'ın tweeti: son on yılın en değerli girişimi hiç para toplamadı ve çalışanı olmadı](/assets/naval_on_bitcoin.png) | 
 |:--:| 
-| *Türkçe meali: Geçtiğimiz on yılın en değerli girişimi hiç para toplamadı, çalışanı yok, sermaye artırım tablosunu baştan yayımladı ve isteyen herkesin kendisine yatırım yapmasına izin verdi  [Orjinali](https://twitter.com/naval/status/1135236914263384064?lang=en)* |
+| *Türkçe meali: Geçtiğimiz on yılın en değerli girişimi hiç para toplamadı, çalışanı yok, sermaye artırım tablosunu baştan yayımladı ve isteyen herkesin kendisine yatırım yapmasına izin verdi  [Orijinali](https://twitter.com/naval/status/1135236914263384064?lang=en)* |
 
 
 Evet, Bitcoin ile 2010 yılı başında kripto para serüvenine başka aktörlerin katılmaması düşünülemezdi - nitekim de öyle oldu. Bitcoin’in hemen arkasından gelen pek çok kripto para genelde küçük bir grup yazılımcı ya da girişimcinin insiyatifi ile ortaya çıktı. (Nitekim şu anda sayıları [5000’i geçti](https://coinmarketcap.com/coins/views/market-cap-by-total-supply/) bu girişimlerin)

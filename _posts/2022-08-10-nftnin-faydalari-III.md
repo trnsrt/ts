@@ -9,7 +9,7 @@ image: /assets/path-1468938_800.jpg
 
 NFT'nin bir esere nasıl değer katabileceğine değindiğimiz yazı dizimize kaldığımız yerden devam ediyoruz. 
 
-Yazı dizimizin [ilk bölümünde](/genel/2022/05/25/NFTnin-faydalari-1.html), bir sanat eserinin değerinin nereden geleceğine bakmış, sonrasında NFT'nin getireceği faydalardan ilki olan orjinalliğinin teyidine göz atmıştık. 
+Yazı dizimizin [ilk bölümünde](/genel/2022/05/25/NFTnin-faydalari-1.html), bir sanat eserinin değerinin nereden geleceğine bakmış, sonrasında NFT'nin getireceği faydalardan ilki olan orijinalliğinin teyidine göz atmıştık. 
 
 [Sonraki bölümde](/genel/2022/06/25/NFTnin-faydalari-2.html) ise NFT'nin faydalarından eserin geçmişinin (ilk sahipliği sonrası kimlerin koleksiyonunun parçası olduğu) katacağı değerin blokzincir teknolojisi sayesinde saniyeler içinde görülebildiğinden, benzer şekilde alım-satım işlemlerinin anlık olarak gerçekleşebilmesinin hem maliyetleri düşürme hem de esere yeni pazarlar kazandırma konusunda yapacağı katma değeri görmüştük. 👇
 
