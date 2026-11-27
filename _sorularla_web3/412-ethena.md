@@ -24,7 +24,7 @@ Ethena sistemi merkeziyetsizlik yönünden DAI’ye benziyor. Yani kullanıcı E
 
 Çok güzel de ne işe yarayacak bu para? Kullanıcı bu parayı, merkeziyetsiz finans alanında USDe’yi entegre etmiş oyuncuların verdiği hizmetlerde kullanabilir. Buraya kadar her şey normal bildiğimiz bir stabil para gibi çalışıyor.
 
-### Ya arkadaki teminatın değeri düşerse? {#ya-arkadaki-teminatin-degeri-duserse}
+### Ya USDe’nin arkasındaki teminatın değeri düşerse? {#ya-arkadaki-teminatin-degeri-duserse}
 
 Şimdi burada hemen akla şu soru gelebilir: “İyi de DAI, arkasındaki teminat olarak konan paranın değeri düşmesin diye fazla fazla teminat alıyordu. Ethena ise ‘ne kadar teminat o kadar para’ şeklinde çalışıyor. Ya yarın arkadaki teminatın değeri düşerse?”.
 
@@ -32,7 +32,7 @@ Ethena sistemi merkeziyetsizlik yönünden DAI’ye benziyor. Yani kullanıcı E
 
 Bu, aslında finans üzerinde çok sık olarak kullanılan ‘hedge’ mekanizması ve öyle aman aman süper bir yenilik sayılmaz. Ethena, bu çok bilinen yöntemi kullanarak teminatın değer değişiminin önüne geçiyor ve basılan paranın arkasında olması gereken teminat miktarını azaltıyor.
 
-### Bu kadar mı? Hayır. Stabil para dışında bir ürün daha var: sUSDe {#bu-kadar-mi-hayir-stabil-para-disinda-bir-urun-daha-var-susde}
+### Bu kadar mı? Hayır. Ethena’da stabil para dışında bir ürün daha var: sUSDe {#bu-kadar-mi-hayir-stabil-para-disinda-bir-urun-daha-var-susde}
 
 Aslına bakarsanız, Ethena ile ilgili bir diğer ilginç konu, kullanıcılara bu USDe’yi değerlendirebilecekleri ayrı bir kanal daha açıyor olması. Kullanıcılar, ellerindeki USDe’yi piyasada kullanabilecekleri gibi Ethena’nın kurduğu sisteme de kilitleyebiliyorlar (ve karşılığında sUSDe denen bir token alıyorlar). Kullanıcı bunu yaptığı durumda Ethena’nın kilitli parası üzerinden elde ettiği tüm gelirin de sahibi oluyor.
 
@@ -52,11 +52,11 @@ Yukarıda üç aylık ortalamalar var. sUSDe’nin 2024 yılı son çeyreğinde 
 
 İşte, piyasadaki yeni oyuncu Ethena, kurduğu bu sistem ile ortaya iki farklı ürün çıkarmış oluyor. Bir yandan arkasında sağlam teminatlar olan ve merkeziyetsiz şekilde çalışan güvenli bir rezerv para (ya da Ethena’nın değişiyle ‘sentetik dolar’) olarak adlandırılabilecek USDe; diğer yanda ise USDe’yi kilitleyerek aldığınız ve size ekstra getiri sağlayacak bir ‘internet bonosu’ olan sUSDe.
 
-## Sistemin riskleri neler? {#sistemin-riskleri-neler}
+## Ethena sisteminin riskleri neler? {#sistemin-riskleri-neler}
 
 Ethena’nın kurduğu bu sistem oldukça kompleks ve üzerinde fazlaca risk barındırıyor. Zaten Ethena da bu riskleri tek tek ortaya koyup, nasıl önlemler aldığını açık açık yazıyor. Gelin sırayla bakalım bu risklere:
 
-### Short’lamak her zaman gelir getirmiyor ya uzun süre negatif gidip zarar yazarsa? {#shortlamak-her-zaman-gelir-getirmiyor-ya-uzun-sure-negatif-gidip-zarar-yazarsa}
+### Ethena için short’lamak her zaman gelir getirmiyor; ya uzun süre negatif gidip zarar yazarsa? {#shortlamak-her-zaman-gelir-getirmiyor-ya-uzun-sure-negatif-gidip-zarar-yazarsa}
 
 Kendinizi sağlama almak için riskinizi satmak istediğinizde (İngilizce buna ‘hedge’ etmek deniyor) kullandığınız vadeli piyasalara perpetuals (kısaca ‘perp’) piyasalar deniyor[^1]. Bu piyasalarda risk almak isteyenler ile riski satmak isteyenler bir araya geliyorlar. Hangi taraf ağırlıkta ise diğerine ‘fonlama maliyeti’ adı altında bir ödeme yapıyor.
 
@@ -104,7 +104,7 @@ Peki bakiyemizi borsada shortladık, para da kazanıyorduk ama borsa gitti batt�
 
 Ethena tüm [bakiyeleri](https://app.ethena.fi/dashboards/solvency) ve [short pozisyonlarını](https://app.ethena.fi/dashboards/hedging/BTC) API’ler aracılığıyla alıp sitesinde yayınlıyor. Bunun dışında aylık olarak da emanet tuttuğu yerlerde duran bakiyelerin tam olduğunun teyidini (İngilizce attestation) alıp [duyuruyor](https://app.ethena.fi/dashboards/transparency)..
 
-### Kaldı mı başka risk? {#kaldi-mi-baska-risk}
+### Ethena’da başka risk kaldı mı? {#kaldi-mi-baska-risk}
 
 Olmaz mı? Örneğin tüm DeFi’de olduğu gibi Ethena’nın kullandığı akıllı kontratlar da risk barındırıyor. Sonuçta bu yeni bir ürün, henüz savaş alanında test edilmedi.
 
@@ -114,7 +114,7 @@ Bu arada, özellikle ABD’deki düzenleyici otoritelerin kriptoya karşı hasma
 
 Bunların ötesinde henüz öngöremediğimiz senaryoların getirebileceği başka riskler de olabilir. Bunları da unutmamak gerek.
 
-### Riskler çok mu fazla? {#riskler-cok-mu-fazla}
+### Ethena’nın riskleri çok mu fazla? {#riskler-cok-mu-fazla}
 
 Ne kadar çok risk var değil mi? Evet doğru ama diğer yandan USDT ya da USDC tutan kullanıcılar da benzer şekilde riskler taşıyorlar. Orada da Tether’e ve paraları tutan bankalara güvenmek zorunda kullanıcı.
 

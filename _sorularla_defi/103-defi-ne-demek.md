@@ -26,7 +26,7 @@ Peki mevcut oyuncular ucuza hizmet sunabiliyorlar mı? Şaşaalı genel merkezle
 
 Finans sistemi tabii ki bu sıkıntıların farkında ki, son yıllarda kendisini geliştirmek için ciddi bir efor sarfediyor. Özellikle 'Fintech' olarak adlandırdığımız sistemin oyuncularını yeni teknolojilere adapte etmek için ortaya çıkmış pek çok kurum içi ve kurum dışı girişim söz konusu.
 
-## Peki, ya müşteriler? {#peki-ya-musteriler}
+## Peki, ya finans sisteminin müşterileri? {#peki-ya-musteriler}
 
 Yukarıda yazdığımız genelde sistemin mevcut aktörlerinin sıkıntıları. Peki ya bireyler? Onlar verilen hizmetten memnun mu?
 

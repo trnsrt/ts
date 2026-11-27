@@ -13,6 +13,10 @@
   "author": { "@type": "Person", "@id": "https://turansert.com/#person", "name": "Turan Sert", "url": "https://turansert.com/" },
   "isPartOf": { "@type": "Book", "@id": {{ b.info_url | absolute_url | append: "#book" | jsonify }}, "name": {{ b.name | jsonify }}, "url": {{ b.info_url | absolute_url | jsonify }}{% if b.isbn != "" and b.isbn %}, "isbn": {{ b.isbn | jsonify }}{% endif %} },
   "position": {{ page.order | jsonify }},
+{%- assign book_summary = site.data.book_summaries[page.url] -%}
+{%- if book_summary %}
+  "abstract": {{ book_summary | jsonify }},
+{%- endif %}
   "isAccessibleForFree": true
 }
 </script>

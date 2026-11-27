@@ -323,6 +323,52 @@ PROFILES_EXTRA = {
 }
 PROFILES.update(PROFILES_EXTRA)
 
+# Body-heading text overrides (GEO batch B): change the TEXT of a ## / ### / #### heading but keep its CURRENT {#id}.
+# Keyed per book profile, then by (output file name, current id); ids are only unique within a page.
+# Each entry must be applied exactly once or main() exits non-zero. The new text is escaped with esc_md like any heading.
+BODY_HEADING_OVERRIDES = {
+    'df': {
+        ('103-defi-ne-demek.md', 'peki-ya-musteriler'): 'Peki, ya finans sisteminin müşterileri?',
+    },
+    'tr': {
+        ('201-ethereumun-ekonomisi-nasil-calisiyor.md', 'islem-gelirleri'): 'Ethereum’un işlem gelirleri',
+        ('201-ethereumun-ekonomisi-nasil-calisiyor.md', 'mev-gelirleri'): 'Ethereum’un MEV gelirleri',
+        ('201-ethereumun-ekonomisi-nasil-calisiyor.md', 'ekstra-guvenlik-gelirleri-restaking'): 'Ethereum’un ekstra güvenlik gelirleri (restaking)',
+        ('201-ethereumun-ekonomisi-nasil-calisiyor.md', 'peki-giderleri-neler'): 'Peki Ethereum’un giderleri neler?',
+        ('201-ethereumun-ekonomisi-nasil-calisiyor.md', 'ultra-sound-money-soylemi-nereden-geliyor'): 'ETH için “ultra-sound money” söylemi nereden geliyor?',
+        ('201-ethereumun-ekonomisi-nasil-calisiyor.md', 'onumuzdeki-donem-neler-getirecek'): 'Ethereum’da önümüzdeki dönem neler getirecek?',
+        ('201-ethereumun-ekonomisi-nasil-calisiyor.md', 'teknik-olarak'): 'Ölçeklenme: teknik olarak',
+        ('201-ethereumun-ekonomisi-nasil-calisiyor.md', 'eth-para-politikasina-etkisi'): 'Ölçeklenmenin ETH para politikasına etkisi',
+        ('201-ethereumun-ekonomisi-nasil-calisiyor.md', 'teknik-acidan'): 'MEV sorunu: teknik açıdan',
+        ('201-ethereumun-ekonomisi-nasil-calisiyor.md', 'eth-para-politikasina-etkisi-2'): 'MEV sorununun ETH para politikasına etkisi',
+        ('412-ethena.md', 'ya-arkadaki-teminatin-degeri-duserse'): 'Ya USDe’nin arkasındaki teminatın değeri düşerse?',
+        ('412-ethena.md', 'bu-kadar-mi-hayir-stabil-para-disinda-bir-urun-daha-var-susde'): 'Bu kadar mı? Hayır. Ethena’da stabil para dışında bir ürün daha var: sUSDe',
+        ('412-ethena.md', 'sistemin-riskleri-neler'): 'Ethena sisteminin riskleri neler?',
+        ('412-ethena.md', 'shortlamak-her-zaman-gelir-getirmiyor-ya-uzun-sure-negatif-gidip-zarar-yazarsa'): 'Ethena için short’lamak her zaman gelir getirmiyor; ya uzun süre negatif gidip zarar yazarsa?',
+        ('412-ethena.md', 'kaldi-mi-baska-risk'): 'Ethena’da başka risk kaldı mı?',
+        ('412-ethena.md', 'riskler-cok-mu-fazla'): 'Ethena’nın riskleri çok mu fazla?',
+    },
+    'en': {
+        ('103-web3.md', 'the-movement-begins'): 'The Web3 Movement Begins',
+        ('103-web3.md', 'a-new-foundation'): 'A New Foundation for Web3',
+        ('103-web3.md', 'the-search-for-product-market-fit'): 'Web3’s Search for Product-Market Fit',
+        ('103-web3.md', 'breaking-down-the-silos'): 'Breaking Down Blockchain Silos',
+        ('201-ethereum-economy.md', 'who-lives-here'): 'Who Lives in Ethereum’s Digital Nation?',
+        ('201-ethereum-economy.md', 'an-auction-for-every-transaction'): 'An Auction for Every Ethereum Transaction',
+        ('201-ethereum-economy.md', 'mev-revenue'): 'Ethereum’s MEV Revenue',
+        ('201-ethereum-economy.md', 'what-the-future-holds'): 'What the Future Holds for Ethereum',
+        ('203-modular-vs-monolithic.md', 'ethereums-persistent-challenge'): 'Ethereum’s Persistent Scaling Challenge',
+        ('412-ethena.md', 'what-if-collateral-prices-drop'): 'What if USDe’s Collateral Prices Drop?',
+        ('412-ethena.md', 'what-if-the-yield-engine-goes-into-reverse'): 'What if Ethena’s Yield Engine Goes into Reverse?',
+        ('412-ethena.md', 'the-centralization-dilemma'): 'Ethena’s Centralization Dilemma',
+        ('412-ethena.md', 'code-oracles-and-regulators'): 'Other Ethena Risks: Code, Oracles, and Regulators',
+        ('412-ethena.md', 'is-it-worth-the-risk'): 'Is Ethena Worth the Risk?',
+        ('000-introduction.md', 'the-new-financial-system'): 'Web3’s New Financial System',
+        ('000-introduction.md', 'the-ownership-economy'): 'The Ownership Economy in Everyday Life',
+        ('000-introduction.md', 'the-next-horizons'): 'Web3’s Next Horizons',
+    },
+}
+
 
 def use_profile(name):
     global P, SITE_TITLE, URL_BASE, IMG_URL, CORRECTION_COUNTS
@@ -1635,6 +1681,10 @@ class Converter:
                 hid = page.unique_id(ptext)
                 anchor[1] = hid
                 md = join_pieces(r.render(toks, strip_bold=True), 'md')
+                bh = BODY_HEADING_OVERRIDES.get(P['name'], {}).get((page.filename, hid))
+                if bh is not None:
+                    PROFILE_USES[('body heading', page.filename, hid)] = PROFILE_USES.get(('body heading', page.filename, hid), 0) + 1
+                    md = esc_md(bh)
                 add_block('%s %s {#%s}' % (level, md, hid))
                 if style == 'heading 3':
                     page.stats['h3'] += 1
@@ -2037,6 +2087,10 @@ def main(argv):
         for it in items:
             if PROFILE_USES.get((kind, it), 0) != 1:
                 raise SystemExit('%s rule %r must match exactly once; got %d' % (kind, it, PROFILE_USES.get((kind, it), 0)))
+    for (fname, hid) in BODY_HEADING_OVERRIDES.get(P['name'], {}):
+        n = PROFILE_USES.get(('body heading', fname, hid), 0)
+        if n != 1:
+            raise SystemExit('body heading override (%s, #%s) must apply exactly once; got %d' % (fname, hid, n))
     bad = {k: v for k, v in CORRECTION_COUNTS.items() if v != 1}
     if bad:
         raise SystemExit('corrections must match exactly once; got %r' % bad)

@@ -18,7 +18,7 @@ And if we include the Layer 2 blockchains developing on top of it, Ethereum star
 
 <figure><a href="/assets/books/web3-unlocked/201-1.png"><img src="/assets/books/web3-unlocked/201-1.png" alt="Ethereum Federation" width="832" height="404" loading="lazy"></a><figcaption>Ethereum Federation <span class="fig-note">Ethereum as a federation of users, applications, Layer 2 solutions, and its underlying main chain</span></figcaption></figure>
 
-## Who Lives Here? {#who-lives-here}
+## Who Lives in Ethereum’s Digital Nation? {#who-lives-here}
 
 The most important actors in this digital nation are its **users**. These are the individuals and programs transferring assets or using the thousands of applications built on the network. For every action they take—every transaction they send—[they pay a fee](https://ethereum.org/en/developers/docs/gas/)[^1]. These transaction fees are the primary fuel for Ethereum's entire economy.
 
@@ -38,7 +38,7 @@ Ethereum’s core product is [secure, programmable block space](https://ethereum
 
 <figure><a href="/assets/books/web3-unlocked/201-2.png"><img src="/assets/books/web3-unlocked/201-2.png" alt="The Market for Block Space" width="832" height="404" loading="lazy"></a><figcaption>The Market for Block Space <span class="fig-note">Users, DeFi applications, and Layer 2 solutions all compete for Ethereum's block space, paying transaction fees to the validators who operate and secure the network.</span></figcaption></figure>
 
-### An Auction for Every Transaction {#an-auction-for-every-transaction}
+### An Auction for Every Ethereum Transaction {#an-auction-for-every-transaction}
 
 Every time a user wants to send money, trade a token, or interact with a financial protocol, they must pay a transaction fee. This fee is their ticket to have their action permanently and securely recorded on the Ethereum ledger. These fees are, by far, Ethereum’s largest source of revenue.
 
@@ -48,7 +48,7 @@ This waiting room operates like a competitive bidding system. To get their trans
 
 Validators, who want to maximize their income, will naturally prioritize transactions with the highest tips. This creates a dynamic where a significant portion of Ethereum's revenue comes from these priority payments, as users compete to have their transactions processed faster than everyone else's.
 
-### MEV Revenue {#mev-revenue}
+### Ethereum’s MEV Revenue {#mev-revenue}
 
 The order of transactions in a block is just as important as the transactions themselves. Control the order, and you can unlock a second, far more complex revenue stream. This is where a new class of sophisticated players comes in: **Searchers**, who scan the mempool for profitable opportunities, and **Builders**, who assemble the final blocks submitted to the chain.
 
@@ -150,7 +150,7 @@ This narrative reveals the powerful economic flywheel at the core of Ethereum's 
 
 It's a complete economic loop where the network’s usefulness directly strengthens the value of its native asset.
 
-## What the Future Holds {#what-the-future-holds}
+## What the Future Holds for Ethereum {#what-the-future-holds}
 
 Ethereum is no longer just a platform for experimentation; it's maturing into a global, decentralized financial layer. To get there, it’s transforming from the inside out, with a renewed focus on execution and a clear technical roadmap.
 

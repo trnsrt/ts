@@ -40,11 +40,11 @@ Ethereum’un birkaç gelir kalemi mevcut. Bu kalemlere bakmadan önce Ethereum�
 
 *Kullanıcılar, DeFi platformları ve ikinci seviye çözümler Ethereum’un blok alanının sistemin operasyon (işleyiş ve güvenlik) görevini yürütenlere işlem ücreti öderler*
 
-### İşlem gelirleri {#islem-gelirleri}
+### Ethereum’un işlem gelirleri {#islem-gelirleri}
 
 Kullanıcılar bu blok alanını kullanabilmek için bir işlem ücreti ödüyorlar. İşte bu işlem ücretleri Ethereum’un en önemli ve büyük gelir kalemi. Kişi yaptığı herhangi bir işlemin güvenli bir şekilde gerçekleştirilmesi ve değiştirilemez bir şekilde saklanması için Ethereum altyapısına bir ücret ödemek zorunda. Bahsettiğimiz işlemler bir başkasına para göndermekten, platformlar üzerinde akıllı kontrat kullanarak finansal işlemler (örneğin mevduat yatırma ya da kredi alma gibi) yapmaya uzanan geniş bir yelpazeye yayılıyor. Kısıtlı bir hizmet alanına sahip olan Ethereum sisteminde, kullanıcıların yapmak istedikleri işlemler, ilk olarak mempool diye adlandırılan bir ‘bekleme odasına’ alınır. Bu odada hangi işlemlerin hangi sıra ile gerçekleşeceğini belirlemek için bir haraç-mezat sistemi işler. Genel olarak daha yüksek ücret ödeyenlerin işlemleri sırada öne geçer. Kullanıcılar burada Ethereum’a ödenecek ‘**baz ücret**‘i yüksek tutmanın yanında sistemin işleyişini sağlayan onaylayıcılara bir parça ‘**bahşiş**’ vererek öne geçmeye çalışırlar. İşlem ücretlerinin içinde önemli bir kısım, kimi kullanıcıların işlemlerini daha hızlı yapabilmek için ödedikleri fazla ücretlerden gelir.
 
-### MEV gelirleri {#mev-gelirleri}
+### Ethereum’un MEV gelirleri {#mev-gelirleri}
 
 Kullanıcıların işlem yapmak için gönderdikleri emirleri sıraya koymak, blokları oluşturan aracıların işi. Bu aracılara, işlemleri tarayanlar (tarayıcılar) ve işlemleri blok haline getirenler (‘blok yapıcılar’) deniyor.
 
@@ -62,7 +62,7 @@ Bunun bir de ‘kötü niyetli’ olan kısmı var. Kimi zaman blok yapıcılar,
 
 Kısaca **MEV geliri** (İngilizcesi ‘maksimum extractable value’ olan terimi Türkçeye ‘maksimum sağlanan değer’ şeklinde çevirebiliriz) olarak adlandırılan yukarıda saydığımız iyi ve kötü niyetli ücretler, Ethereum sisteminin yarattığı ikinci büyük gelir kalemi. Peki bu ne kadar adil bir sistem? Çok adil sayılmaz, zaten Ethereum geliştiricileri de önümüzdeki dönemde MEV’nin etkisini azaltacak bir dizi önlem hazırlıyorlar. (Sonraki bölümde bunlardan bahsedeceğiz.)
 
-### Ekstra güvenlik gelirleri (restaking) {#ekstra-guvenlik-gelirleri-restaking}
+### Ethereum’un ekstra güvenlik gelirleri (restaking) {#ekstra-guvenlik-gelirleri-restaking}
 
 Ethereum’un yarattığı bu iki ana gelir kalemi dışında, son dönemde başlayan bir başka gelir kalemi ise Ethereum’un güvenliğinden yararlanmak isteyen farklı platformlara verilecek ‘**güvenlik hizmeti**’ sayesinde kazanılacak ücretler. Henüz daha emekleme aşamasında olan bu hizmeti ilk alan platformun Eigenlayer olduğunu söylemek mümkün. Eigenlayer, platformların belirli bir ücret karşılığında Ethereum güvenliği için kullanılan (İngilizcesi stake edilen) etherlerinin kendi güvenlikleri için de kullanılmasını sağlayan (İngilizcesi restaking) bir pazar yeri.
 
@@ -76,7 +76,7 @@ Bu değer kalemlerinin kimlere aktığını ise aşağıdaki tabloda özet olara
 
 *Dört farklı şekilde oluşan gelirler kullanıcılardan aracılara doğru yukarıdaki gibi akar. Düz çizgiler direkt, kesik çizgiler ise dolaylı yoldan değer akışını gösteriyor. Örneğin baz ücretin artması, token sahiplerine direkt olarak gelir yazmıyor, ancak artan baz ücret daha fazla token yakımı demek bu da toplam token sayısının azalması ve oluşan toplam değerin daha az tokene bölünmesi anlamına geliyor.*
 
-## Peki giderleri neler? {#peki-giderleri-neler}
+## Peki Ethereum’un giderleri neler? {#peki-giderleri-neler}
 
 Ethereum’un gelirleri çok basit olarak yukarıdaki gibi. Peki bunları yaparken nasıl bir harcama yapıyor? Giderlere baktığımızda aslında çok da fazla masrafı olmadığını görüyoruz.
 
@@ -114,7 +114,7 @@ Başlangıçtan bu yana piyasada bulunan ETH miktarının 2021 Ağustos’ta yak
 
 Her ne kadar hâlâ toplam ETH arzının gelecekte ne olacağı bitcoin kadar belli olmasa da, en azından piyasadaki etherin yıllık artış miktarı %2.1’i ile sınırlanmış durumda. (Bu da teorik ve gerçekçi olmayan bir rakam; piyasadaki tüm etherlerin sisteme kilitlendiği ve hiç işlem yapılmadığı durumu gösteriyor. 2024 yılı Aralık ayı itibariyle toplam arzın sadece %28’i kilitli ve yakılan miktar ile birlikte piyasadaki toplam ETH miktarı POS sistemine geçiş sonrası hemen hemen aynı kalmış durumda)
 
-### Ultra-sound money söylemi nereden geliyor? {#ultra-sound-money-soylemi-nereden-geliyor}
+### ETH için “ultra-sound money” söylemi nereden geliyor? {#ultra-sound-money-soylemi-nereden-geliyor}
 
 Kripto dünyasının en büyüğü olan bitcoin, tam olarak tahmin edilebilir ve yıllar itibariyle azalan para arzı nedeniyle, sağlıklı bir para olarak adlandırılıyor (İngilizcesi ‘sound money’). Aslına bakarsanız bu, başı sıkışınca para arzını artıran merkez bankalarına dolaylı bir eleştiri.
 
@@ -140,7 +140,7 @@ Devrim niteliğindeki bu iki gelişme sonrası ETH arzı, BTC’nin çok daha al
 
 Şaka (İngilizce ‘meme)’ olarak başlayan bu söylemin arkasında önemli bir mantık var aslına bakarsanız: Ethereum PoS sistemine geçtikten sonra, sistemin güvenliğini etherlerini rehin veren onaylayıcılar sağlıyorlar demiştik. ETH ne kadar ultra-sağlıklı para olarak kabul edilirse, üzerindeki parasal prim o kadar artacak. Bu artış etherin değerini artıracak. Etherin artan değeri, Ethereum sisteminin güvenliğini de artırmış olacak. Artan güvenlik ile birlikte Ethereum üzerine kurulu daha fazla uygulama ve ikinci seviye ağ göreceğiz. Bu uygulamaların Ethereum ana ağını kullanması ETH’ye olan talebi artıracak. Bu ETH’lerin bir kısmı işlem ücreti olarak yakılacak. ETH geliştiricilerinin beklentisi, bu döngünün kendi kendini besleyecek şekilde büyümeye devam etmesi yönünde.
 
-## Önümüzdeki dönem neler getirecek? {#onumuzdeki-donem-neler-getirecek}
+## Ethereum’da önümüzdeki dönem neler getirecek? {#onumuzdeki-donem-neler-getirecek}
 
 Önümüzdeki dönemde Ethereum ekosistemi, ölçeklenme, maliyetleri azaltma ve sansüre karşı daha merkeziyetsiz bir hale gelme konusunda çalışmalar yürütüyor. (Yapılan tüm çalışmaların yol haritasını Ethereum kurucusu Vitalik Buterin'in 2023 yılı sonunda yayınladığı [diyagramda](https://x.com/VitalikButerin/status/1741190491578810445) görebilirsiniz. Daha ayrıntılı açıklamalar içinse 2024 yılı sonunda paylaştığı [bir dizi makaleye](https://vitalik.eth.limo/general/2024/10/14/futures1.html) de göz atabilirsiniz.)
 
@@ -148,7 +148,7 @@ Gelin şimdi tek tek bu iyileştirmelerin önce teknik olarak ne işe yarayacağ
 
 ### Ölçeklenme ve maliyetlerin azaltılması {#olceklenme-ve-maliyetlerin-azaltilmasi}
 
-#### Teknik olarak {#teknik-olarak}
+#### Ölçeklenme: teknik olarak {#teknik-olarak}
 
 Ölçeklenme, Ethereum'un geniş kesimlere ulaşan bir altyapı olmasının önündeki en büyük engel. Ethereum, ileride oluşabilecek yoğun talebi karşılamanın yolunu, üzerine gelecek yükü ikinci seviye çözümlere atmakta bulmuş durumda. Bu nedenle, Ethereum geliştiricilerinin şu an için odaklandığı temel geliştirmeler, ikinci seviye çözümlerin işlem maliyetlerini azaltmaya yönelik.
 
@@ -162,7 +162,7 @@ Yukarıdaki geliştirmeler tamamlandıktan sonra daha uzun vadede ölçeklenme k
 
 Bu iki geliştirme ile onaylayıcıların üzerindeki yük azalıyor. Ne demek tam olarak bu, neye yarar? Onaylayıcıların üzerindeki yükün azalması demek, onaylayıcı olmak için gerekli makine gücünün azalması demek (örneğin, yüksek işlem kapasitesi gerektiren pahalı bir makine yerine akıllı bir saat kullanarak bile onaylayıcı olabilmek). Bunun da getireceği en büyük artı, sistemi yürütebilen daha fazla makine olması, bunun da sistemi daha merkeziyetsiz hale getirmesi. Bu, uzun vadede gerek büyüme gerekse sansüre dayanıklılık için olmazsa olmaz bir koşul.
 
-#### ETH para politikasına etkisi {#eth-para-politikasina-etkisi}
+#### Ölçeklenmenin ETH para politikasına etkisi {#eth-para-politikasina-etkisi}
 
 Yukarıda yapılan iyileştirmelerin, ikinci seviye çözümlerin Ethereum’a ödeyeceği ücretleri düşüreceğini söyleyebiliriz. İyi de o zaman neden Ethereum geliştiricileri sistemin gelirlerini azaltacak bu iyileştirmeler için bu kadar çaba sarfediyorlar? Bunun birkaç nedeni var.
 
@@ -178,7 +178,7 @@ Ethereum geliştiricilerinin ölçeklenme ile birlikte üzerinde çalıştıklar
 
 ### MEV sorunu/konusu {#mev-sorunu-konusu}
 
-#### Teknik açıdan {#teknik-acidan}
+#### MEV sorunu: teknik açıdan {#teknik-acidan}
 
 Yukarıda ilk kısımda bahsettiğimiz MEV konusu Ethereum üzerinde bir kambur oluşturuyor. MEV sisteme iki yönden zarar veriyor. Birincisi, kullanıcıların yapmaya çalıştıkları işlemlerden elde edecekleri kârı azaltıyor. İkincisi ise MEV'i yaratan blok yapıcılarına aynı zamanda gelen işlemleri sansür edebilme gücü veriyor.
 
@@ -186,7 +186,7 @@ Bunu çözebilmek için geliştiriciler işlemlerin onaylanması sırasında ça
 
 Rekabeti artırmanın yanında, işlem havuzuna (bir deyişle bekleme odasına) düşen işlemlerin şifrelenmesi, blok yapıcıların sansür uygulama gücünü ortadan kaldıracak.
 
-#### ETH para politikasına etkisi {#eth-para-politikasina-etkisi-2}
+#### MEV sorununun ETH para politikasına etkisi {#eth-para-politikasina-etkisi-2}
 
 Yukarıdaki geliştirmelerin toplu adı olan PBS uygulamasının ETH para politikasına çok net bir etkisi olacak. Zira PBS ile planlanan MEV ile ortaya çıkan gelirin paylaşımının değiştirilmesi. Birincisi bu gelirin önemli bir kısmının, rekabet nedeniyle blokları oluşturanların değil işlemleri onaylayanların yani ETH'yi stake edenlerin cebine gitmesi. İkincisi ise bu gelirlerin kalan kısmının yakılması. Dolayısıyla, şu an için tüm geliri cebine atan blok oluşturucularının gelirin sadece ufak bir kısmını alacak olması.
 

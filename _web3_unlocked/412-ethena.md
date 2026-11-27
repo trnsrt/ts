@@ -18,7 +18,7 @@ At its core, Ethena gives you the power to create your own dollar-pegged currenc
 
 Once you have USDe, you can use it across the decentralized finance (DeFi) landscape, just as you would with any other stablecoin. So far, so familiar. But what happens when the ground beneath it shifts?
 
-### What if Collateral Prices Drop? {#what-if-collateral-prices-drop}
+### What if USDe’s Collateral Prices Drop? {#what-if-collateral-prices-drop}
 
 This brings us to the critical question that has always haunted collateralized stablecoins: "DAI requires over-collateralization precisely to avoid a crisis if the value of the collateral plummets. Ethena, on the other hand, operates on a 'dollar-for-dollar' basis. What happens if the assets backing it take a nosedive?"
 
@@ -52,7 +52,7 @@ This unique architecture has a twofold outcome. First, it gives the world USDe: 
 
 No great reward comes without risk, and Ethena's design is a masterclass in managing a complex set of trade-offs. The team has been commendably transparent about the challenges, laying them out for all to see. Let's walk through them.
 
-### What if the Yield Engine Goes into Reverse? {#what-if-the-yield-engine-goes-into-reverse}
+### What if Ethena’s Yield Engine Goes into Reverse? {#what-if-the-yield-engine-goes-into-reverse}
 
 Ethena’s stability hinges on its short positions in the perpetual futures markets[^4]. In these markets, traders who bet on prices rising (going "long") typically pay a fee to those betting on prices falling (going "short"). Since crypto markets have historically been biased toward optimism, Ethena, being permanently short, usually collects a steady stream of these "funding costs." This is the engine of its yield.
 
@@ -70,7 +70,7 @@ Independent auditors like Chaos Labs (and CryptoQuant later) have modeled these 
 
 If the Reserve Fund were ever depleted, the value of USDe could fall below a dollar. This wouldn't be a sudden, UST-style death spiral. Instead, it would be a slow bleed. Arbitrageurs would sell USDe on open markets like [Curve](https://curve.fi/#/ethereum/pools?search=usde), and approved institutions could then redeem the discounted USDe directly from Ethena for $1 worth of collateral, gradually draining the system. It’s a measured process, not a catastrophic collapse, giving users time to exit their positions with minimal losses.
 
-### The Centralization Dilemma {#the-centralization-dilemma}
+### Ethena’s Centralization Dilemma {#the-centralization-dilemma}
 
 To get the deep liquidity it needs for its hedges, Ethena must use centralized exchanges—a pragmatic but risky choice. What happens if an exchange like Binance or Bybit goes bust?
 
@@ -81,7 +81,7 @@ Ethena mitigates this counterparty risk in several ways:
 3. **Frequent Settlement:** Profits from trades are swept from the exchanges back to secure custody every 8 to 24 hours, minimizing the funds at risk at any given moment.
 4. **Radical Transparency:** Ethena provides real-time dashboards showing all [collateral balances](https://app.ethena.fi/dashboards/solvency) and [hedging positions](https://app.ethena.fi/dashboards/hedging/BTC), along with monthly [attestations](https://app.ethena.fi/dashboards/transparency) from third-party auditors.
 
-### Code, Oracles, and Regulators {#code-oracles-and-regulators}
+### Other Ethena Risks: Code, Oracles, and Regulators {#code-oracles-and-regulators}
 
 Beyond market and counterparty risks, a few other factors are in play:
 
@@ -89,7 +89,7 @@ Beyond market and counterparty risks, a few other factors are in play:
 - **Oracle Risk:** The protocol [relies on external data feeds](https://docs.ethena.fi/solution-design/use-of-oracles) from [Pyth Network](https://www.pyth.network/) and [Redstone](https://redstone.finance/) to get accurate pricing information. If these oracles are compromised, it could threaten the system's operations. Using multiple providers helps reduce this risk.
 - **Regulatory Risk:** The global regulatory landscape for crypto is a minefield. Ethena restricts access for users in numerous jurisdictions, including the United States, United Kingdom, and Canada, to comply with global regulations.
 
-### Is It Worth the Risk? {#is-it-worth-the-risk}
+### Is Ethena Worth the Risk? {#is-it-worth-the-risk}
 
 Yes, the list of risks is long. But risk is never absent; it's just different. Holding centralized stablecoins like USDT or USDC means you are trusting a company and the traditional banks they partner with. You are exposed to censorship and classic counterparty risk.
 

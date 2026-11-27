@@ -34,7 +34,7 @@ Decentralization is the answer to this pressure. To achieve it, however, the sys
 
 This creates a core problem. The very thing a blockchain sells is its block space—that limited, secure digital territory. When demand is high, the chain doesn't simply crash[^2]. Instead, [transaction fees rise in a dynamic auction](https://trakx.io/resources/insights/ethereum-gas-fees-crypto/), pushing out those whose needs aren't urgent. While this is a logical market mechanic, persistently high fees will inevitably drive users to seek out alternatives.
 
-### Ethereum’s Persistent Challenge {#ethereums-persistent-challenge}
+### Ethereum’s Persistent Scaling Challenge {#ethereums-persistent-challenge}
 
 There is no better case study for this dilemma than Ethereum.
 

@@ -62,15 +62,15 @@ Now that we have a clear picture of who is building this new web, what exactly a
 
 In this chapter, we explore the practical applications of Web3, moving from its theoretical building blocks to the projects and platforms you can use today. This tour covers the most developed corners of the ecosystem and ventures out to its emerging edges, showing where the code is meeting the real world.
 
-### The New Financial System {#the-new-financial-system}
+### Web3’s New Financial System {#the-new-financial-system}
 
 The journey begins with Web3's most mature areas. We first examine the paradox of **stablecoins**. They have become the bedrock of the crypto economy by solving for volatility and on-ramp/off-ramp problems, yet they often do so by relying on the same centralized systems Web3 aims to replace. From there, we explore **Decentralized Finance (DeFi)**, which rebuilds traditional financial services as transparent, open-source protocols that anyone can access.
 
-### The Ownership Economy {#the-ownership-economy}
+### The Ownership Economy in Everyday Life {#the-ownership-economy}
 
 Next, we move beyond finance into digital culture and ownership. We see how **NFTs** provide true ownership of digital assets by creating a public, verifiable record of provenance. This concept of ownership is transforming industries like gaming, where the model is shifting to "Play-and-Own," granting players control over their in-game items. The same principle extends to our online lives, where **Decentralized Social (DeSoc)** and a sovereign **digital identity** aim to return control of our data and social networks to the user.
 
-### The Next Horizons {#the-next-horizons}
+### Web3’s Next Horizons {#the-next-horizons}
 
 Web3’s ambition also extends into the physical world and toward future challenges. **Decentralized Physical Infrastructure Networks (DePIN)** use token incentives to build community-owned hardware for services like file storage and wireless connectivity. We also look toward emerging fields like **Regenerative Finance (ReFi)** and **Decentralized Science (DeSci)**, which aim to build more equitable systems for funding environmental and research initiatives. The tour concludes by examining the powerful convergence of **Web3 and Artificial Intelligence**.
 

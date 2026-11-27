@@ -49,6 +49,11 @@ layout: default
   {%- endif -%}
   {%- endif %}
 
+  {%- assign book_summary = site.data.book_summaries[page.url] -%}
+  {%- if book_summary %}
+  <p class="book-summary"><strong>{% if b.lang == "tr" %}Özetle:{% else %}In short:{% endif %}</strong> {{ book_summary | escape }}</p>
+  {%- endif %}
+
   <div class="post-content book-content">
     {{ content }}
   </div>
