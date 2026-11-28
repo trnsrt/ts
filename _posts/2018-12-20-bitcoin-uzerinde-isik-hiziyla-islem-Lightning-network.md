@@ -12,7 +12,7 @@ canonical_url: "https://turansert.com/Sorularla_Blockchain/bolum-5/lightning-net
 sitemap: false
 ---
 
-Geçtiğimiz [yazımızda](/genel/2018/12/14/Bitcoin-genis-kitlelere-nasil-yayilir.html), Bitcoin'in geniş kitlelerce kullanımının önündeki en büyük engelin teknik olarak kısıtlı kapasitesi olduğundan bahsetmiştik. Özetle tekrarlarlarsak; yapılan her işlem Blockchain üzerine yazılıyor, bunu yapan madenciler ve işlem binlerce makineye yazıldığı ve 10 dakikada bir balya haline getirilip onaylandığı için saniyede maksimum 7 işlem gerçekleşebiliyor. 
+Geçtiğimiz [yazımızda](/genel/2018/12/14/Bitcoin-genis-kitlelere-nasil-yayilir.html), Bitcoin'in geniş kitlelerce kullanımının önündeki en büyük engelin teknik olarak kısıtlı kapasitesi olduğundan bahsetmiştik. Özetle tekrarlarsak; yapılan her işlem Blockchain üzerine yazılıyor, bunu yapan madenciler ve işlem binlerce makineye yazıldığı ve 10 dakikada bir balya haline getirilip onaylandığı için saniyede maksimum 7 işlem gerçekleşebiliyor. 
 
 ![Yukarıdan görülen meydanda insanlar kıvrımlı bir çizgi oluşturmuş, Lightning Network'ün ışık hızı temasına gönderme](/assets/lightning-eiffel.jpg)
 
@@ -29,7 +29,7 @@ Lightning'in ana prensibi Bitcoin üzerindeki işlemlerin zincir üzerinden (yan
 * Bu kanallar baştan Bitcoin sistemine para yatırsınlar, bir nevi depozito koysunlar. 
 * Sonrasında bu koydukları parayı geçmemek kaydıyla Bitcoin Blockchain'i dışında kişiler arası para transferi yapılmasına aracılık etmeye yetkili olsunlar (ve aracılık ettikleri bu işlemlerden cüzi bir işlem ücreti alsınlar). 
 * Birinden alsınlar öbürüne versinler, ama yaptıkları işlemlerin sonundaki net bakiye başta koydukları depozitoyu hiçbir şekilde geçmesin.
-* Böylece madencileri kullanmadan işlemlere aracılık etsinler, dolayısıyla masrafları çok daha az olsun ve bunun sonucunda da sistemi kullananan kullanıcılardan komisyon olarak alacakları çok cüzi rakamlar bile kendilerini kurtarsın. 
+* Böylece madencileri kullanmadan işlemlere aracılık etsinler, dolayısıyla masrafları çok daha az olsun ve bunun sonucunda da sistemi kullanan kullanıcılardan komisyon olarak alacakları çok cüzi rakamlar bile kendilerini kurtarsın. 
 
 ### Nasıl çalışıyor peki bu Lightning Network?
 
