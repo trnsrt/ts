@@ -1,14 +1,19 @@
 ---
 layout: book-section
 kind: section
-title: "Nedir Oracle? – Sorularla DeFi"
-heading: "Nedir Oracle?"
+title: "Chainlink: DeFi’nin Bilgi Kaynağı – Sorularla DeFi"
+heading: "Chainlink: DeFi’nin Bilgi Kaynağı"
 chapter: 3
 chapter_title: "DeFi’nin Altyapı Taşları"
 order: 304
-permalink: /Sorularla_DeFi/bolum-3/nedir-oracle/
+permalink: /Sorularla_DeFi/bolum-3/chainlink/
 description: "Oracle (kahin ya da uzman), akıllı kontratların ihtiyaç duyduğu blokzincir dışı bilgiyi, örneğin token fiyatlarını, onlara sağlayan yapı. Merkezi bir kaynak manipülasyona açık olduğu için merkeziyetsiz oracle ağlarında bir üye bilgiyi dış kaynaktan aktarıyor, diğer üyeler doğruluğunu teyit ediyor. 2021 itibarıyla bu alanın en büyük oyuncusu Chainlink’ti."
+redirect_from: /Sorularla_DeFi/bolum-3/nedir-oracle/
 ---
+
+Bu bölümde, son kullanıcı olarak direkt olarak kullanmadığımız ancak “merkeziyetsiz finans” için kritik konulardan biri olan Oracle konusuna bakıp nedir ve neye yarar anlamaya çalışalım:
+
+## Nedir Oracle? {#nedir-oracle}
 
 Oracle’ın tam Türkçe karşılığı biraz karışık; “kahin” ya da “uzman” olarak çevrilebilir. Peki ne işe yarar?
 

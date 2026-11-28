@@ -347,6 +347,14 @@ DF_SECTIONS = [
     'Farklı Merkeziyetsiz Borsaları Aynı Anda Kullanmak', 'DeFi’de Portföy Nasıl Takip Edilir?',
     'DeFi ile Bizi Neler Bekliyor?',
 ]
+# Sections that the printed contents lists on their own but that the web edition folds into the section before them:
+# no page of their own, the heading becomes an H2 ({#id} from the title) on the previous page, and that page takes over
+# this section's file number (so later numbers and the image names of the folded text stay as they were). Each title
+# must be in DF_SECTIONS and is applied exactly once. Here: 'Nedir Oracle?' is page 130's second heading under the
+# Chainlink section opener, so both are one page, /Sorularla_DeFi/bolum-3/chainlink/ (the old /nedir-oracle/ URL
+# redirects there through redirect_from).
+DF_FOLDED_SECTIONS = {'Nedir Oracle?'}
+DF_REDIRECTS = {'/Sorularla_DeFi/bolum-3/chainlink/': ['/Sorularla_DeFi/bolum-3/nedir-oracle/']}
 DF_OVERRIDES = {
     'Blokzincirin Çıkış Felsefesi Ne?': ('blokzincirin-cikis-felsefesi', None),
     'DeFi (Merkeziyetsiz Finans) Ne Demek?': ('defi-ne-demek', None),
@@ -501,6 +509,7 @@ PROFILES_EXTRA = {
                intro_heading=None, intro_slug=None, chapter_slug='bolum-%d', chapter_label='%s', max_words=4,
                chapter_desc='Sorularla DeFi kitabının %d. bölümü: %s.', promote=set(), heading_overrides={},
                style_alias={'Normal (Web)': 'Normal'}, parts=DF_PARTS, sections=DF_SECTIONS,
+               fold_sections=DF_FOLDED_SECTIONS, redirects=DF_REDIRECTS,
                printed_pdf='assets/books/Sorularla_DeFi.pdf', out_corrections=DF_CORRECTIONS,
                chapter_overviews=DF_CHAPTER_OVERVIEWS,
                printed_cfg=dict(layout=True, start='NEDİR DEFI?', headers=('SORULARLA DEFI', 'MERKEZİYETSİZ FİNANS'),
@@ -540,10 +549,10 @@ BODY_HEADING_OVERRIDES = {
         ('208-nexus-mutual.md', 'neler-sigortalaniyor-neler-sigorta-disi'): 'Nexus Mutual’da neler sigortalanıyor, neler sigorta dışı?',
         ('301-ethereum.md', 'net-etki-nasil-olur'): 'ETH 2.0 ve EIP 1559’un net etkisi nasıl olur?',
         ('302-ethereum-ve-rakipleri.md', 'kim-hangi-alanda-rakip-olmaya-calisiyor'): 'Ethereum’a kim hangi alanda rakip olmaya çalışıyor?',
-        ('304-nedir-oracle.md', 'merkeziyetsiz-dunya-icin-neden-onemli'): 'Oracle merkeziyetsiz dünya için neden önemli?',
-        ('304-nedir-oracle.md', 'merkeziyetsiz-platformlar-nasil-yapiyorlar-bu-isi'): 'Merkeziyetsiz platformlar oracle işini nasıl yapıyorlar?',
-        ('304-nedir-oracle.md', 'son-zamanlarda-onemi-artti-mi'): 'Son zamanlarda oracle’ların önemi arttı mı?',
-        ('304-nedir-oracle.md', 'sikintilari-neler'): 'Oracle sistemlerinin sıkıntıları neler?',
+        ('304-chainlink.md', 'merkeziyetsiz-dunya-icin-neden-onemli'): 'Oracle merkeziyetsiz dünya için neden önemli?',
+        ('304-chainlink.md', 'merkeziyetsiz-platformlar-nasil-yapiyorlar-bu-isi'): 'Merkeziyetsiz platformlar oracle işini nasıl yapıyorlar?',
+        ('304-chainlink.md', 'son-zamanlarda-onemi-artti-mi'): 'Son zamanlarda oracle’ların önemi arttı mı?',
+        ('304-chainlink.md', 'sikintilari-neler'): 'Oracle sistemlerinin sıkıntıları neler?',
         ('305-the-graph.md', 'rakipleri-var-mi-gelecek-nasil-gorunuyor'): 'The Graph’in rakipleri var mı? Gelecek nasıl görünüyor?',
         ('305-the-graph.md', 'sistem-nasil-calisiyor'): 'The Graph sistemi nasıl çalışıyor?',
         ('305-the-graph.md', 'aktorler-kimler'): 'The Graph’in aktörleri kimler?',
@@ -1471,7 +1480,14 @@ def front_matter(page):
     lines = ['---', 'layout: book-section', 'kind: ' + page.kind,
              'title: ' + yq(page.title), 'heading: ' + yq(page.heading), 'chapter: %d' % page.chapter,
              'chapter_title: ' + yq(page.chapter_title), 'order: %d' % page.order,
-             'permalink: ' + page.permalink, 'description: ' + yq(desc), '---', '']
+             'permalink: ' + page.permalink, 'description: ' + yq(desc)]
+    redirects = P.get('redirects', {}).get(page.permalink)
+    if redirects:
+        lines.append('redirect_from:' if len(redirects) > 1 else 'redirect_from: ' + redirects[0])
+        if len(redirects) > 1:
+            lines.extend('  - ' + r for r in redirects)
+        PROFILE_USES[('redirect', page.permalink)] = 1
+    lines += ['---', '']
     return '\n'.join(lines)
 
 
@@ -2041,7 +2057,7 @@ PAGE_OUT_CORRECTIONS = {
             ('alt="Geliştirici sayısı 100&#x27;den fazla olan platformların bir yıl içindeki değişimi (Kaynak: Electric Capital Developer Report Sayfa 90)"', 'alt="Geliştirici sayısı 100’den az olan platformların bir yıl içindeki değişimi (Kaynak: Electric Capital Developer Report Sayfa 90)"', 1),
             ('<figcaption>Geliştirici sayısı 100’den fazla olan platformların bir yıl içindeki değişimi (Kaynak: <a href="https://medium.com/electric-capital/electric-capital-developer-report-2020-9417165c6444">Electric Capital Developer Report</a> Sayfa 90)</figcaption>', '<figcaption>Geliştirici sayısı 100’den az olan platformların bir yıl içindeki değişimi (Kaynak: <a href="https://medium.com/electric-capital/electric-capital-developer-report-2020-9417165c6444">Electric Capital Developer Report</a> Sayfa 90)</figcaption>', 1),
         ],
-        '304-nedir-oracle.md': [
+        '304-chainlink.md': [
             # typo
             ('yaşadıği', 'yaşadığı', 1),
             ('direkt temasa etmeseler', 'direkt temas etmeseler', 1),
@@ -2788,6 +2804,15 @@ class Converter:
                             raise SystemExit('section heading %r does not match printed %r' % (text, printed))
                         h2_i += 1
                         text = printed
+                    if text in P.get('fold_sections', ()):
+                        flush_list(); flush_label(); flush_fig(); flush_title()
+                        PROFILE_USES[('fold', text)] = PROFILE_USES.get(('fold', text), 0) + 1
+                        sec_k += 1
+                        page.order = chapter * 100 + sec_k
+                        hid = page.unique_id(text)
+                        anchor[1] = hid
+                        add_block('## %s {#%s}' % (esc_md(text), hid))
+                        continue
                     if late and demote_h2:
                         demote_h2 = False
                         flush_list(); flush_label(); flush_fig(); flush_title()
@@ -3355,6 +3380,12 @@ def main(argv):
         n = PROFILE_USES.get(('body heading', fname, hid), 0)
         if n != 1:
             raise SystemExit('body heading override (%s, #%s) must apply exactly once; got %d' % (fname, hid, n))
+    for t in P.get('fold_sections', ()):
+        if PROFILE_USES.get(('fold', t), 0) != 1:
+            raise SystemExit('folded section %r must match exactly once; got %d' % (t, PROFILE_USES.get(('fold', t), 0)))
+    for url in P.get('redirects', {}):
+        if PROFILE_USES.get(('redirect', url), 0) != 1:
+            raise SystemExit('redirect_from names a page that was not generated: %s' % url)
     for fname in PAGE_OUT_CORRECTIONS.get(P['name'], {}):
         if PROFILE_USES.get(('page corrections', fname), 0) != 1:
             raise SystemExit('page corrections name a page that was not generated: %s' % fname)
