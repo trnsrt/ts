@@ -16,7 +16,9 @@
 {%- assign book_summary = site.data.book_summaries[page.url] -%}
 {%- if book_summary %}
   "abstract": {{ book_summary | jsonify }},
+  "description": {{ book_summary | jsonify }},
 {%- endif %}
+  "mainEntityOfPage": { "@type": "WebPage", "@id": {{ page.url | absolute_url | jsonify }} },
   "isAccessibleForFree": true
 }
 </script>
