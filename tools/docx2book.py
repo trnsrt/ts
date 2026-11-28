@@ -3261,7 +3261,9 @@ class Converter:
             if n != count:
                 raise SystemExit('page correction on %s must match %d time(s), got %d: %r -> %r'
                                  % (page.filename, count, n, old, new))
-            if not has_summary:
+            if has_summary:
+                gen = gen.replace(old, new)     # keep counting against the text as corrected so far
+            else:
                 desc = desc.replace(old, new)
             body, fdefs = body.replace(old, new), fdefs.replace(old, new)
         lines[di[0]] = desc

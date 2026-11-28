@@ -7,7 +7,7 @@ chapter: 4
 chapter_title: "Exploring Web3 in Everyday Life"
 order: 402
 permalink: /Web3_Unlocked/chapter-4/decentralized-finance/
-description: "Decentralized finance (DeFi) is the rebuilding of the traditional financial system on blockchains: lending, borrowing, exchanging and derivatives become transparent, open-source protocols. It is open to anyone with a wallet and cheaper to run; users can snap services together like \"money legos\" and keep full control of their assets. Growth is held back by poor usability and user risk."
+description: "Decentralized finance (DeFi) is the rebuilding of the traditional financial system on blockchains: lending, borrowing, exchanging and derivatives become transparent, open-source protocols. It is open to anyone with a wallet and cheaper to run; users can snap services together like “money legos” and keep full control of their assets. Growth is held back by poor usability and user risk."
 ---
 
 We now arrive at the most developed part of the Web3 world: finance. The ecosystem of applications built here is known as Decentralized Finance, or DeFi.

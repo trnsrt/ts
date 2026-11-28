@@ -7,7 +7,7 @@ chapter: 4
 chapter_title: "Exploring Web3 in Everyday Life"
 order: 401
 permalink: /Web3_Unlocked/chapter-4/stablecoins/
-description: "Stablecoins are cryptocurrencies pegged to a fiat currency, almost exclusively the US dollar in today's market. USDT (Tether) and USDC dominate; both are centralized, which requires trust in their reserves and lets Tether freeze assets remotely. DAI is a decentralized alternative, but it needs massive over-collateralization, which makes it capital-inefficient and has kept it from mass adoption."
+description: "Stablecoins are cryptocurrencies pegged to a fiat currency, almost exclusively the US dollar in today’s market. USDT (Tether) and USDC dominate; both are centralized, which requires trust in their reserves and lets Tether freeze assets remotely. DAI is a decentralized alternative, but it needs massive over-collateralization, which makes it capital-inefficient and has kept it from mass adoption."
 ---
 
 In the relentless search for product-market fit, one Web3 product has succeeded: the stablecoin. It has become the bedrock of the crypto economy. After a brief dip, the total value of stablecoins started climbing again, surpassing its 2022 peak in mid-2024 and continuing to set new all-time highs into 2025.
