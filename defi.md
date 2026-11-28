@@ -9,6 +9,8 @@ Blockchain'in finans alanındaki uygulamalarına DeFi (decentralized finance - m
 
 ## Kitaplardaki ilgili bölümler
 
+Karşılaştırma: [Stabil para türleri](/stabil-para-turleri/)
+
 - [DeFi (Merkeziyetsiz Finans) Ne Demek?](/Sorularla_DeFi/bolum-1/defi-ne-demek/) · *Sorularla DeFi*
 - [DeFi’nin Temel Özellikleri Neler?](/Sorularla_DeFi/bolum-1/definin-temel-ozellikleri-neler/) · *Sorularla DeFi*
 - [Peki ya DeFi’nin Riskleri?](/Sorularla_DeFi/bolum-1/peki-ya-definin-riskleri/) · *Sorularla DeFi*

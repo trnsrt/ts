@@ -15,6 +15,8 @@ DAO (merkeziyetsiz otonom yapılar)
 
 ## Kitaplardaki ilgili bölümler
 
+Karşılaştırma: [Web1, Web2 ve Web3 arasındaki fark](/web1-web2-web3-farki/)
+
 ### Yapay zeka ve Web3
 
 - [Yapay zeka ve Web3](/Sorularla_Web3/bolum-4/yapay-zeka-ve-web3/) · *Sorularla Web3*
