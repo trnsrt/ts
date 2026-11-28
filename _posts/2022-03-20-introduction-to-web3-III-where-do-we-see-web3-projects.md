@@ -6,6 +6,10 @@ categories: Genel
 tags: Yazılar, Articles
 image: /assets/onion-4249422_800.jpg
 lang: en
+book_section_url: "/Web3_Unlocked/chapter-1/web3/"
+book_section_title: "Web3 explained: where Web3 will change our lives (games, NFTs, DAOs, DeFi)"
+book_title: "Web3 Unlocked"
+book_note: newer
 ---
 
 In this last part of our mini-series on Web3, we are looking at potential areas that will emerge with this new technology. 

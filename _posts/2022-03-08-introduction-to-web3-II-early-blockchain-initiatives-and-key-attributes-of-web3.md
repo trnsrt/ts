@@ -6,6 +6,10 @@ categories: Genel
 tags: Yazılar, Articles
 image: /assets/balloon-2644416_800.jpg
 lang: en
+book_section_url: "/Web3_Unlocked/chapter-1/web3/"
+book_section_title: "Web3 explained: what makes Web3 special (ownership economy, open source, decentralization)"
+book_title: "Web3 Unlocked"
+book_note: newer
 ---
 
 

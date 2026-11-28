@@ -6,6 +6,10 @@ categories: Genel
 tags: Yazılar, Articles
 image: /assets/fredgraph_monetary_base_800.png
 lang: en
+book_section_url: "/Web3_Unlocked/chapter-1/web3/"
+book_section_title: "Web3 explained: the cypherpunk roots and the quest for digital ownership"
+book_title: "Web3 Unlocked"
+book_note: newer
 ---
 
 We continue to look at the latest saga in the evolution of web technologies in this piece: 

@@ -5,6 +5,10 @@ date:   2024-10-04 17:17:56 +0300
 categories: Genel
 tags: Yazılar, Web3
 image: /assets/refugees-1015310_800.jpg
+book_section_url: "/Sorularla_Web3/bolum-4/onarici-finans-refi/"
+book_section_title: "Onarıcı finans (ReFi)"
+book_title: "Sorularla Web3"
+book_note: edited
 ---
 
 Bu yazıda, Web3’ün kendini farklı bir misyona adamış  bir kolu olan onarıcı (yenileyici) finans (ReFi)’den bahsedeceğiz. 

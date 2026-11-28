@@ -5,6 +5,10 @@ date:   2024-03-27 12:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
 image: /assets/basalt-bars-2173278_800.jpg
+book_section_url: "/Sorularla_Web3/bolum-5/blackrock-token-hamlesi/"
+book_section_title: "BlackRock'ın token hamlesi: BUIDL tokenleştirilmiş fonu"
+book_title: "Sorularla Web3"
+book_note: edited
 ---
 
 Bu haftaki yazımızda, ABD'nin en büyük varlık yöneticilerinden BlackRock'ın Ethereum blokzinciri üzerine kurduğu tokenleştirilmiş menkul kıymet hizmetinden bahsedeceğiz. 

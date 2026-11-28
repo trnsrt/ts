@@ -6,6 +6,10 @@ categories: Genel
 tags: Yazılar, NFT, Articles
 image: /assets/path-1468938_800.jpg
 lang: en
+book_section_url: "/Web3_Unlocked/chapter-4/nft-universe/"
+book_section_title: "NFTs explained: how NFTs add value (provenance, royalties, fractional ownership)"
+book_title: "Web3 Unlocked"
+book_note: newer
 ---
 
 In this post and next one, we will talk about the key benefits of NFTs to us, individuals. 

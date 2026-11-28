@@ -5,6 +5,10 @@ date:   2022-11-02 12:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, CoindeskTR
 image: /assets/iphone-4857114_800.jpg
+book_section_url: "/Sorularla_Web3/bolum-5/abd-ev-tokenlestirmesi/"
+book_section_title: "ABD'de bir ev tokenleştirmesi: evin NFT'ye dönüştürülüp kriptoparayla satılması"
+book_title: "Sorularla Web3"
+book_note: edited
 ---
 
 Bu yazımızda geçtiğimiz haftalarda blokzincir üzerinden gerçekleşen bir gayrimenkul token satışının hikayesinden bahsedeceğiz. 

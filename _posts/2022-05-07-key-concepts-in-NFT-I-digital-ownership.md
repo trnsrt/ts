@@ -6,6 +6,10 @@ categories: Genel
 tags: Yazılar, NFT, Articles
 image: /assets/mona_lisa-1053852_800.jpg
 lang: en
+book_section_url: "/Web3_Unlocked/chapter-4/nft-universe/"
+book_section_title: "NFTs explained: rethinking digital ownership and how NFTs add value"
+book_title: "Web3 Unlocked"
+book_note: newer
 ---
 
 In our mini-series we will explore key concepts of NFTs, which will hopefully help us better understand the fundamentals of NFTs. 

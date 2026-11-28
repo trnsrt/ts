@@ -5,6 +5,10 @@ date:   2024-11-01 17:17:56 +0300
 categories: Genel
 tags: Yazılar, Web3
 image: /assets/web3_ai_800.jpg
+book_section_url: "/Sorularla_Web3/bolum-4/yapay-zeka-ve-web3/"
+book_section_title: "Yapay zeka ve Web3: blokzincir ile yapay zekanın kesişimi, Web3 girişimleri ve yapay zeka temsilcileri"
+book_title: "Sorularla Web3"
+book_note: newer
 ---
 
 Bu yazımızda yapay zeka ile Web3’ün arasındaki ilişkiyi ve birbirlerini nasıl etkileyeceğini anlamaya çalışacağız[^1]. 
