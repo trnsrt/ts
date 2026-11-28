@@ -7,7 +7,7 @@ chapter: 1
 chapter_title: "Nedir DeFi?"
 order: 106
 permalink: /Sorularla_DeFi/bolum-1/defide-yatirim-ve-girisimcilik/
-description: "DeFi protokollerinin kullanımının artması ve özellikle bu protokollere özgü kriptoparalarının hızlı sıçramalar yapması, akıllarda soru işaretleri oluşturmaya…"
+description: "DeFi, kabaca yatırımın ikinci fazına, yani klasik girişim sermayesi yatırımlarına benziyor. ICO’lar melek yatırımcı aşamasıydı ve yatırımcıların büyük kısmı zarar etti; DeFi’de ise ürüne ve kullanıcıya ulaşmış girişimler var. Ödül tokenları sayesinde bireysel yatırımcı da erken girebiliyor, on girişimin dokuzunun batması gibi bir riski göze alarak."
 ---
 
 DeFi protokollerinin kullanımının artması ve özellikle bu protokollere özgü kriptoparalarının hızlı sıçramalar yapması, akıllarda soru işaretleri oluşturmaya başladı: DeFi yeni bir ICO çılgınlığı mı ve sonu nasıl bitecek?

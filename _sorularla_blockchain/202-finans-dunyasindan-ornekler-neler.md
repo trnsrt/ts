@@ -7,7 +7,7 @@ chapter: 2
 chapter_title: "Blockchain Beni Nasıl Etkileyecek?"
 order: 202
 permalink: /Sorularla_Blockchain/bolum-2/finans-dunyasindan-ornekler-neler/
-description: "DeFi — Decentralized Finance (Dağıtık Finans) hareketinin öncülerinden olan MakerDAO, Blockchain ile tamamen kendi kendine çalışan yeni bir borçlandırma…"
+description: "MakerDAO, kişilerin kripto paralarını teminat gösterip sistemin parası Dai’yi yaratmasına olanak veren, Ethereum üzerinde akıllı kontratlarla çalışan dağıtık bir borçlandırma sistemi. Dai, bir ABD Dolarına eşit bir sabit para. 2019’da teminat olarak yalnızca ETH geçerliydi ve her 150 birimlik teminat için en fazla 100 birim Dai yaratılabiliyordu."
 ---
 
 ## Maker DAO nedir? {#maker-dao-nedir}

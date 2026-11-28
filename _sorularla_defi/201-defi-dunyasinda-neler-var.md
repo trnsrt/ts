@@ -7,7 +7,7 @@ chapter: 2
 chapter_title: "DeFi Dünyasının Aktörleri"
 order: 201
 permalink: /Sorularla_DeFi/bolum-2/defi-dunyasinda-neler-var/
-description: "DeFi yani merkeziyetsiz finans henüz yeni bir oluşum."
+description: "DeFi’de kullanıcı varlığını hizmet sağlayıcıya emanet etmiyor, varlık cüzdanında duruyor; ürünler birlikte çalışabildiği için bir ürün başka protokollerde de kullanılabiliyor. Klasik finansın dikey yapılanmasına karşılık DeFi yatay: hizmetler katman katman ayrılıyor, her katmanda rakip sağlayıcılar var. “DeFi destesi” bu katmanları altı parçada sıralıyor."
 ---
 
 DeFi yani merkeziyetsiz finans henüz yeni bir oluşum. Kökleri daha eskiye dayansa da genel olarak 2017 yılında gerçekleşen kripto halka arzlarını (ki İngilizce Initial Coin Offering - ICO deniyor) başlangıç noktası alabiliriz. Halka arz furyası sırasında fikirlerine yatırım alan girişimlerin, geliştirdikleri projelerin üzerinde yaptıkları deneme-yanılma çalışmalarının meyvelerini ancak iki yıl sonra 2020 yılının yaz aylarında almaya başlamaları ile çıkışa geçmiş bir hareket.

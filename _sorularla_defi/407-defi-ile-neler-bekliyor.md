@@ -7,7 +7,7 @@ chapter: 4
 chapter_title: "DeFi Dünyasına Adım Atacaklar İçin Pratik Bilgiler"
 order: 407
 permalink: /Sorularla_DeFi/bolum-4/defi-ile-neler-bekliyor/
-description: "Kitabımızın sonuna geldiğimizde, gelin DeFi’nin hangi alanlarda büyüyüp nerelere evrileceği ile ilgili bir tahminde bulunalım."
+description: "2021’de DeFi’nin mevcut finans sistemini alt etmeyeceği, ama büyüyen pastanın aslan payını dijital dünyanın alacağı öngörülüyordu. Gerekçe, mevcut oyuncuların yeni müşteri bulmakta zorlanması ve yeni neslin dijital fırsatlara yönelmesiydi. Büyümenin fiziksel dünyadan değil, NFT’ler ve oyunlar gibi dijital alanlardan geleceği düşünülüyordu."
 ---
 
 Kitabımızın sonuna geldiğimizde, gelin DeFi’nin hangi alanlarda büyüyüp nerelere evrileceği ile ilgili bir tahminde bulunalım. Diğer bölümlerde olduğu gibi sorular ile başlayalım:

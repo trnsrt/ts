@@ -7,7 +7,7 @@ chapter: 4
 chapter_title: "Web3’ün Uygulama Alanları"
 order: 411
 permalink: /Sorularla_Web3/bolum-4/pyusd/
-description: "Bu kısımda Fintech dünyasının devlerinden olan PayPal’in çıkardığı stabil para PYUSD’yi inceleyeceğiz."
+description: "PYUSD, PayPal’ın çıkardığı, değeri ABD Dolarına çıpalanmış bir stabil para; New York kanunlarına tabi bu paranın altyapı hizmetini Paxos veriyor. Karşılığı bir bankada tutuluyor, ama merkezi bir yapı tarafından basıldığı için cüzdandaki PYUSD uzaktan dondurulabiliyor. USDC ve USDT’den farkı, karşılığındaki dolarların şirket hesaplarından ayrı bir yediemin hesapta tutulması; bu yüzden basan kurumun iflas riskini taşımıyor."
 ---
 
 Bu kısımda Fintech dünyasının devlerinden olan PayPal’in çıkardığı stabil para PYUSD’yi inceleyeceğiz.

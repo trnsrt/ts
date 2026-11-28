@@ -7,7 +7,7 @@ chapter: 4
 chapter_title: "Exploring Web3 in Everyday Life"
 order: 415
 permalink: /Web3_Unlocked/chapter-4/ftx-collapse/
-description: "Just when the crypto world thought the worst was over—after the death spirals of Terra and 3AC—the industry’s own poster boy revealed himself to be the…"
+description: "FTX collapsed in six days in November 2022. After Binance’s CZ announced he would sell his FTT tokens, FTT crashed, Binance backed out of buying FTX, and all 134 FTX entities filed for bankruptcy on November 11. FTX had funneled customer funds to sister firm Alameda Research; CEO Sam Bankman-Fried was sentenced in March 2024 to 25 years in prison."
 ---
 
 Just when the crypto world thought the worst was over—after the death spirals of Terra and 3AC—the industry’s own poster boy revealed himself to be the final boss. The third act of the 2022 crisis was the most shocking of all: the breathtaking collapse of the FTX exchange.

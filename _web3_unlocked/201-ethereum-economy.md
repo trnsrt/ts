@@ -7,7 +7,7 @@ chapter: 2
 chapter_title: "Key Pillars of the Web3 Economy"
 order: 201
 permalink: /Web3_Unlocked/chapter-2/ethereum-economy/
-description: "So, how does Ethereum's economy actually work? First, we have to understand what it is. The easiest mistake is to think of Ethereum as a company."
+description: "ETH has a dynamic monetary policy with no hard supply limit: validators are rewarded with newly issued ETH, while each transaction’s base fee is burned. Since late 2022 the burn has often kept pace with issuance, leaving supply stable or shrinking, so ETH was positioned as “ultra-sound money” beside Bitcoin’s “sound money”. Later fee-cutting upgrades made it slightly inflationary again."
 ---
 
 So, how does Ethereum's economy actually work?

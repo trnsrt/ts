@@ -7,7 +7,7 @@ chapter: 4
 chapter_title: "DeFi Dünyasına Adım Atacaklar İçin Pratik Bilgiler"
 order: 406
 permalink: /Sorularla_DeFi/bolum-4/portfoy-takibi/
-description: "Geçtiğimiz bölümlerde önce DeFi tokenlerin elektronik cüzdanlar aracılığı ile nasıl alınabileceği ile ilgili bir giriş yapmış; sonrasında da farklı…"
+description: "Kripto varlıklar cüzdanda değil blokzincirde duruyor; cüzdan yalnızca o kayda ulaşmayı sağlayan anahtarları tutuyor. Kayıtlar herkese açık olduğu için portföy üç yolla izlenebiliyor: cüzdanın kendi ekranından, cüzdanı bağlayınca tüm varlıkları ve geçmiş işlemleri tek yerde gösteren arayüzlerden ya da blokzincir kayıtlarını doğrudan gösteren sitelerden."
 ---
 
 Geçtiğimiz bölümlerde önce DeFi tokenlerin elektronik cüzdanlar aracılığı ile nasıl alınabileceği ile ilgili bir giriş yapmış; sonrasında da farklı borsaları kullanmak yerine pratik bir çözüm olan toplayıcılardan bahsetmiştik. Bu bölümde ise satın alım sonrası portföy takibini yapabilmek için kullanılabilecek birkaç servisten bahsedeceğiz.

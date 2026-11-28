@@ -7,7 +7,7 @@ chapter: 5
 chapter_title: "Exploring Tokenization"
 order: 502
 permalink: /Web3_Unlocked/chapter-5/tokenomics/
-description: "Tokenomics is easily one of the most debated topics in the crypto world. So what’s all the fuss about?"
+description: "Tokenomics, a mashup of ‘token’ and ‘economics’, is the art and science of designing an economy built on tokens. Its blueprint balances four elements: how tokens are created, distributed, used to keep everyone motivated and removed from circulation, with timing woven through all of them. The economy should reward every participant, including miners or validators, developers and users."
 ---
 
 Tokenomics is easily one of the most debated topics in the crypto world. So what’s all the fuss about?

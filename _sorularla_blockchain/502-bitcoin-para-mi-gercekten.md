@@ -7,7 +7,7 @@ chapter: 5
 chapter_title: "Bitcoin"
 order: 502
 permalink: /Sorularla_Blockchain/bolum-5/bitcoin-para-mi-gercekten/
-description: "“Nasıl para denir bu Bitcoin’e aklım almıyor” diyorsanız buyurun beraber bakalım: Önceki bölümden kısaca özetlersek, Blockchain yeni çıkan bir altyapı…"
+description: "Bir nesnenin para sayılması için işlemlere aracılık etmesi ve ona değer atfedilmesi gerekiyor. Dayanıklılık, taşınabilirlik, ölçülebilirlik, doğrulanabilirlik, bölünebilirlik ve kısıtlılık, bir nesnenin para olarak değerini artırıyor. Bu altı ölçüte göre altın ve devlet paralarıyla (itibari para) karşılaştırıldığında Bitcoin genel olarak bir adım önde görünüyor ve para sayılıyor."
 ---
 
 *“Nasıl para denir bu Bitcoin’e aklım almıyor” diyorsanız buyurun beraber bakalım:*

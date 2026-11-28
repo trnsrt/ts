@@ -7,7 +7,7 @@ chapter: 5
 chapter_title: "Exploring Tokenization"
 order: 504
 permalink: /Web3_Unlocked/chapter-5/tokenizing-a-us-home/
-description: "In 2022, a suburban, two-story house in South Carolina made history. It wasn't the architecture that was special; it was how it was sold."
+description: "In 2022 a suburban house in South Carolina was sold on the blockchain: it was placed in an LLC, the LLC’s ownership became an NFT sold for cryptocurrency, and the buyer took a loan against the NFT. The sale price was 175,000 USDC, financed by USDC Homes. Many intermediaries and mandatory KYC show a long road ahead."
 ---
 
 In 2022, a suburban, two-story house in South Carolina made history. It wasn't the architecture that was special; it was how it was sold. The entire transaction happened on the blockchain.

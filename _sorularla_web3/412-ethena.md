@@ -7,7 +7,7 @@ chapter: 4
 chapter_title: "Web3’ün Uygulama Alanları"
 order: 412
 permalink: /Sorularla_Web3/bolum-4/ethena/
-description: "Bu kısımda, 2024 yılında merkeziyetsiz stabil para alanına hızlı bir giriş yapan Ethena ve parası USDe’nin ne olduğunu, ulaşabileceği potansiyeli ve…"
+description: "Ethena, kullanıcının ETH, BTC, SOL gibi tokenleri kilitleyerek dolara 1:1 çıpalanmış USDe basmasını sağlayan ve kendini stabil para değil “sentetik dolar” olarak tanımlayan bir sistem. Teminatın fiyat düşüşünü merkezi borsalarda açtığı short pozisyonlarla dengeliyor. Başlıca riskleri: short pozisyonların uzun süre fonlama maliyeti ödeyerek zarar yazması, merkezi borsalara bağımlılık, akıllı kontrat ve oracle sorunları ile düzenleyici otoritelerin tutumu."
 ---
 
 Bu kısımda, 2024 yılında merkeziyetsiz stabil para alanına hızlı bir giriş yapan Ethena ve parası USDe’nin ne olduğunu, ulaşabileceği potansiyeli ve risklerini inceleyeceğiz.

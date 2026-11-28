@@ -7,7 +7,7 @@ chapter: 2
 chapter_title: "Blockchain Beni Nasıl Etkileyecek?"
 order: 206
 permalink: /Sorularla_Blockchain/bolum-2/seyahat/
-description: "Blockchain bize daha rahat, esnek ve ekonomik seyahatler sağlayabilir. Nasıl mı? Dünyada en dağınık sektörlerden biri seyahat sektörü."
+description: "Seyahat sektörü, her biri kendi sistemini kullanan acente, havayolu ve otel gibi silolardan oluşuyor; bilgi standart değil, istisnalarda sorunlar zincirleme yayılıyor, ödeme hesaplaşmaları günler sürüyor. Blockchain, hiçbir tarafın güdümünde olmayan ortak bir platform olarak bilgi paylaşımını ve ödemeleri sağlayabiliyor. 2019’da girişimler, bileti akıllı kontrata çevirmeyi planlıyordu."
 ---
 
 *Blockchain bize daha rahat, esnek ve ekonomik seyahatler sağlayabilir. Nasıl mı?*

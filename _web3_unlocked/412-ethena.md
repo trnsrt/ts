@@ -7,7 +7,7 @@ chapter: 4
 chapter_title: "Exploring Web3 in Everyday Life"
 order: 412
 permalink: /Web3_Unlocked/chapter-4/ethena/
-description: "In the world of stablecoins, two ideals have often seemed at odds: decentralization and capital efficiency."
+description: "Ethena lets users deposit collateral such as ETH, BTC or SOL to mint USDe, which it calls a “synthetic dollar” designed to hold a 1:1 value with the dollar. It offsets collateral price moves with short positions on centralized exchanges. Its main risks are negative funding rates, exchange counterparty failure, smart contract bugs, oracle failures and regulation."
 ---
 
 In the world of stablecoins, two ideals have often seemed at odds: decentralization and capital efficiency. A new project, Ethena, has stormed onto the scene, claiming to have cracked the code for achieving both. But Ethena doesn't call its creation, USDe, a stablecoin. It calls it a "synthetic dollar." What does that mean, and why does it matter?

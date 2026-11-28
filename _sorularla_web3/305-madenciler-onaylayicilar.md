@@ -7,7 +7,7 @@ chapter: 3
 chapter_title: "Web3 Ekonomisinin Aktörleri"
 order: 305
 permalink: /Sorularla_Web3/bolum-3/madenciler-onaylayicilar/
-description: "Web 2.0 dünyasında görmediğimiz, Web3 ile birlikte karşımıza çıkan bir diğer oyuncu grubu da madenciler ya da değişen rolleri ile onaylayıcılar."
+description: "Madenciler ve onaylayıcılar, blokzincirin altyapısını çalıştıran makineler; Bitcoin ağında madenci, diğer ağlarda onaylayıcı deniyor. Sistemin sürekli ayakta kalması ve işlemlerin dürüst, bağımsız biçimde kaydedilmesi için bu makinelere ihtiyaç var. Karşılığında ağın yeni yarattığı tokenleri ödül olarak alıyorlar; Bitcoin madencilerinin ikinci gelir kalemi işlem ücretleri."
 ---
 
 Web 2.0 dünyasında görmediğimiz, Web3 ile birlikte karşımıza çıkan bir diğer oyuncu grubu da madenciler ya da değişen rolleri ile onaylayıcılar.

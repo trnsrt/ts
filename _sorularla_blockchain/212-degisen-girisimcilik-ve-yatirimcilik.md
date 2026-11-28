@@ -7,7 +7,7 @@ chapter: 2
 chapter_title: "Blockchain Beni Nasıl Etkileyecek?"
 order: 212
 permalink: /Sorularla_Blockchain/bolum-2/degisen-girisimcilik-ve-yatirimcilik/
-description: "Bildiğimiz klasik anlamdaki ‘Girişimcilik ve Yatırımcılık’ yeni teknolojiler ile değişmeye başlıyor. Nasıl mı?"
+description: "Klasik girişimde yaratılan katma değere girişimci, yatırımcı ve kısıtlı olarak çalışanlar sahip oluyordu. Web 3.0’ın merkezi olmayan sistemlerinde ise kurulan şey bir şirket değil bir ekosistem: dış geliştiriciler, bağımsız kaynaklar ve kullanıcılar da bu değerden pay alıyor. Gücün tek elde toplanmaması için açık kaynak kullanılıyor."
 ---
 
 *Bildiğimiz klasik anlamdaki ‘Girişimcilik ve Yatırımcılık’ yeni teknolojiler ile değişmeye başlıyor. Nasıl mı?*

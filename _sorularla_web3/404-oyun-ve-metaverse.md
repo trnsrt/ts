@@ -7,7 +7,7 @@ chapter: 4
 chapter_title: "Web3’ün Uygulama Alanları"
 order: 404
 permalink: /Sorularla_Web3/bolum-4/oyun-ve-metaverse/
-description: "Bu kısmımızda, Web3’ün potansiyeli en yüksek alanlarından biri olan ancak istenen seviyeye ulaşmakta zorluk çeken oyun ve metaverse konularına bakacağız."
+description: "Web3 oyunları, oyunculara dijital varlıkları üzerinde tam kontrol veren ve bunları paraya çevirme imkanı tanıyan blokzincir temelli oyunlar. 2021-22’deki yatırımın ardından bu alandaki hype söndü: kalite yerine kazanca odaklanıldı, kullanıcı kazanımı zordu, token modelleri yanlıştı. Metaverse ise donanım gerektirdiği için Web3’ün diğer alanlarının gerisinde kaldı; ama bu başarısız olacağı anlamına gelmiyor, yalnızca başarı için gereken süre çok daha uzun."
 ---
 
 Bu kısmımızda, Web3’ün potansiyeli en yüksek alanlarından biri olan ancak istenen seviyeye ulaşmakta zorluk çeken oyun ve metaverse konularına bakacağız.

@@ -7,7 +7,7 @@ chapter: 3
 chapter_title: "DeFi’nin Altyapı Taşları"
 order: 301
 permalink: /Sorularla_DeFi/bolum-3/ethereum/
-description: "DeFi olarak adlandırdığımız merkeziyetsiz finans ürünleri altyapı olarak çoğunlukla Ethereum blokzincirini kullanıyorlar."
+description: "Ethereum, binlerce makinenin bağlı olduğu dünyanın en büyük bilgisayarı olma iddiasında bir akıllı kontrat platformu; Vitalik Buterin 2013’te tanıttı. Akıllı kontrat, önceden kuralları konmuş ve koşullar gerçekleşince kendi kendine yürürlüğe giren bir işlem; karşı tarafın sözünü yerine getirmesini sağlayan aracılara ihtiyacı ortadan kaldırıyor. Makineler yaptıkları iş karşılığında ETH alıyor."
 ---
 
 DeFi olarak adlandırdığımız merkeziyetsiz finans ürünleri altyapı olarak çoğunlukla Ethereum blokzincirini kullanıyorlar. İlk bölümde DeFi’nin çıkışından bahsederken, tüm blokzincir teknolojisinin Bitcoin ile başladığını belirtmiş, ancak Bitcoin’in sadece “sansürsüz değer koruyan bir internet parası” olma felsefesi nedeniyle bir grubun ayrılarak Ethereum’u kurduğunu vurgulamıştık.

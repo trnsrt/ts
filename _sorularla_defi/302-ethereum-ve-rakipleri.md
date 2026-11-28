@@ -7,7 +7,7 @@ chapter: 3
 chapter_title: "DeFi’nin Altyapı Taşları"
 order: 302
 permalink: /Sorularla_DeFi/bolum-3/ethereum-ve-rakipleri/
-description: "Bu bölümde, DeFi ürünlerinin ağırlıkla üzerine kurulduğu Ethereum platformunun yaşadığı sıkıntıları, rakiplerin hangi alanda ne çözümler sunduğunu ve…"
+description: "Ethereum’daki yüksek işlem ücretleri, rakip akıllı kontrat platformları için fırsat yarattı; 2021’de en çok konuşulanlar Polkadot, Cardano, Avalanche, Cosmos, Stellar ve Solana’ydı. Rakipleri değerlendirirken piyasa değeri yerine geliştirici sayısı, uygulamalar, işlem hacmi ve kilitli değer (TVL) gibi verilere bakılması öneriliyor."
 ---
 
 Bu bölümde, DeFi ürünlerinin ağırlıkla üzerine kurulduğu Ethereum platformunun yaşadığı sıkıntıları, rakiplerin hangi alanda ne çözümler sunduğunu ve Ethereum’un buna karşı ne gibi planları olduğuna bakalım:

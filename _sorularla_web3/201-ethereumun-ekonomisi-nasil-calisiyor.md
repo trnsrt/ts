@@ -7,7 +7,7 @@ chapter: 2
 chapter_title: "Web3 Ekonomisinin Yapı Taşları"
 order: 201
 permalink: /Sorularla_Web3/bolum-2/ethereumun-ekonomisi-nasil-calisiyor/
-description: "Ekonomisinin nasıl çalıştığını anlayabilmek için öncelikle Ethereum’u bir tanımlamak gerek."
+description: "ETH’nin para politikasında onaylayıcılara ödül olarak yeni ETH basılıyor; kullanıcıların ödediği işlem ücretlerinin bahşiş dışındaki kısmı ise yakılıyor. 2021’de yakımın başlaması ve 2022’de hisse kanıtına (Proof-of-Stake) geçişle ETH arzındaki artış BTC’nin çok altına indi, pek çok dönemde eksiye döndü. Bitcoin’e tahmin edilebilir ve azalan arzı nedeniyle “sağlıklı para” (sound money) dendiği için, topluluktan bir grup ETH’ye “ultra-sound money” diyor."
 ---
 
 Ekonomisinin nasıl çalıştığını anlayabilmek için öncelikle Ethereum’u bir tanımlamak gerek.

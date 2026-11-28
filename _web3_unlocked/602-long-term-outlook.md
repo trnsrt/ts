@@ -7,7 +7,7 @@ chapter: 6
 chapter_title: "What’s Next for Web3?"
 order: 602
 permalink: /Web3_Unlocked/chapter-6/long-term-outlook/
-description: "Peering into the long-term future is notoriously difficult. The technology landscape shifts so fast that today's bold prediction can be tomorrow's punchline."
+description: "Long-term expectations include the market’s center of gravity moving from individual enthusiasts to institutional capital by 2026, tokenization expanding from securities into the physical world, core infrastructure becoming quantum-resistant, AI dominating the conversation from 2028, and one billion Web3 users by 2030. Autonomous AI agents are expected to become Web3’s primary users, with humans initiating perhaps only 10% of transactions."
 ---
 
 Peering into the long-term future is notoriously difficult. The technology landscape shifts so fast that today's bold prediction can be tomorrow's punchline. Still, by tracing the trajectory of today's most powerful trends, we can outline a sketch of what's to come:

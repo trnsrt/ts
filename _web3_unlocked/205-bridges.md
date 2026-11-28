@@ -7,7 +7,7 @@ chapter: 2
 chapter_title: "Key Pillars of the Web3 Economy"
 order: 205
 permalink: /Web3_Unlocked/chapter-2/bridges/
-description: "Blockchains began as isolated digital islands. Each had its own culture, code, and currency. Moving between them was a slow crawl through centralized exchanges."
+description: "Bridges connect separate blockchains and let value and data move between them. Most use a lock-and-mint design: a token is locked on one chain and a wrapped version is issued on another. Their main weakness is security: early designs relied on a small group of trusted parties, and billions have been lost in hacks."
 ---
 
 Blockchains began as isolated digital islands. Each had its own culture, code, and currency. Moving between them was a slow crawl through centralized exchanges.

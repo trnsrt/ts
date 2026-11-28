@@ -7,7 +7,7 @@ chapter: 4
 chapter_title: "Web3’ün Uygulama Alanları"
 order: 413
 permalink: /Sorularla_Web3/bolum-4/terra-ust/
-description: "Bu kısımda 2022 yılı Mayıs ayında yaşanan Terra ağı çıkışlı stabil para birimi UST’nin hikayesine bakacağız."
+description: "UST, Terra ekosisteminin temel parası LUNA’ya dayanan algoritmik bir stabil para. Anchor Protokolü’nün sunduğu %20 faizle piyasadaki UST miktarı 18 milyar ABD Dolarına ulaştı; Mayıs 2022’de FED’in açıklamaları sonrasında yoğun satış geldi ve UST dolar çıpasını kaybetti. Sürdürülemez yüksek faiz ve ataklara karşı alınan önlemlerin şeffaf olmaması güveni zedeledi; vaka, Web3’ün temel prensiplerinden sapıldığında neler olabileceğini gösterdi."
 ---
 
 Bu kısımda 2022 yılı Mayıs ayında yaşanan Terra ağı çıkışlı stabil para birimi UST’nin hikayesine bakacağız.

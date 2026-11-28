@@ -7,7 +7,7 @@ chapter: 2
 chapter_title: "DeFi Dünyasının Aktörleri"
 order: 207
 permalink: /Sorularla_DeFi/bolum-2/hegic/
-description: "DeFi yani merkeziyetsiz finans dünyası, klasik finans dünyasında kullanılan her tür aracın bir kopyasını çıkarmaya devam ediyor."
+description: "Hegic, DeFi’de opsiyon sunan ve platformunu Uniswap gibi bir havuz şeklinde kuran bir proje. Opsiyon alanlar, ETH ya da BTC’yi alma (call) veya satma (put) hakkını akıllı kontratın algoritmayla belirlediği fiyattan satın alıyor; primler havuza gidiyor ve opsiyon kullanılırsa ödeme havuzdan yapılıyor. Havuza likidite sağlayanlar opsiyonları satan taraf olarak primlerden pay alıyor."
 ---
 
 DeFi yani merkeziyetsiz finans dünyası, klasik finans dünyasında kullanılan her tür aracın bir kopyasını çıkarmaya devam ediyor. Gelin bu bölümde bu araçlardan opsiyon piyasalarına bir göz atalım. Ama önce tam olarak bilmeyenler için opsiyonun ne olduğuna ve nasıl çalıştığına bir bakalım:

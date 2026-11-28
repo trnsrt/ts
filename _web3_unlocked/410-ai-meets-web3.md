@@ -7,7 +7,7 @@ chapter: 4
 chapter_title: "Exploring Web3 in Everyday Life"
 order: 410
 permalink: /Web3_Unlocked/chapter-4/ai-meets-web3/
-description: "Two of the most powerful forces in technology are on a collision course: AI and Web3. Understanding their relationship is key to understanding the future."
+description: "Blockchain and AI are technically incompatible, since blockchain demands certainty while AI is probabilistic, yet they can complement each other where they intersect. A fully decentralized, end-to-end AI model cannot realistically compete with the tech giants, so Web3 startups carve out niches in data, compute, agent infrastructure and user applications. AI agents may help bridge Web3’s usability gap."
 ---
 
 ## Artificial Intelligence and Web3 {#artificial-intelligence-and-web3}

@@ -7,7 +7,7 @@ chapter: 6
 chapter_title: "Ethereum ve Diğer Kripto Paralar"
 order: 602
 permalink: /Sorularla_Blockchain/bolum-6/diger-kripto-paralar-neler/
-description: "Bitcoin ve Ethereum dışında diğer önemli Blockchain sistemlerine de bakalım kısaca: Şimdi de Bitcoin’in eksik kaldığı düşünülen alanlarda bu eksikleri…"
+description: "Altcoin’ler, Bitcoin’in eksik bulunan yönlerini gidermek için çıkan alternatif kripto paralar: Litecoin daha kısa onay süresiyle, Monero, Dash ve Zcash gizlilikle, MimbleWimble tabanlı Beam ve Grin gizlilik ve hafiflikle ayrışıyor. SabitParalar (stable coin) ise fiyat dalgalanmasını azaltmayı amaçlıyor; teminatları dolar, kripto para ya da algoritma olabiliyor."
 ---
 
 *Bitcoin ve Ethereum dışında diğer önemli Blockchain sistemlerine de bakalım kısaca:*

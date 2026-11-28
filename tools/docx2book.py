@@ -1440,8 +1440,32 @@ def make_description(page):
     return out
 
 
+_SUMMARIES = None
+
+
+def book_summaries():
+    """_data/book_summaries.yml: simple '"url": "text"' lines (pyyaml is not installed); 144 expected."""
+    global _SUMMARIES
+    if _SUMMARIES is None:
+        path = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '_data', 'book_summaries.yml')
+        _SUMMARIES = {}
+        if os.path.exists(path):
+            with open(path, encoding='utf-8') as f:
+                for line in f:
+                    m = re.match(r'^"([^"]+)":\s+"((?:[^"\\]|\\.)*)"\s*$', line.rstrip('\n'))
+                    if m:
+                        _SUMMARIES[m.group(1)] = re.sub(r'\\(.)', r'\1', m.group(2))
+                    elif line.strip() and not line.startswith('#'):
+                        raise SystemExit('cannot parse book_summaries.yml line: %r' % line[:80])
+            if len(_SUMMARIES) != 144:
+                raise SystemExit('expected 144 book summaries, got %d' % len(_SUMMARIES))
+    return _SUMMARIES
+
+
 def front_matter(page):
-    desc = make_description(page)
+    desc = book_summaries().get(page.permalink)     # an approved summary is also the meta/og description
+    if not desc:
+        desc = make_description(page)
     if not desc:
         desc = P['chapter_desc'] % (page.chapter, page.chapter_title)
     lines = ['---', 'layout: book-section', 'kind: ' + page.kind,
@@ -3229,12 +3253,17 @@ class Converter:
         di = [i for i, l in enumerate(lines) if l.startswith('description: ')]
         assert len(di) == 1
         desc = lines[di[0]]
+        has_summary = page.permalink in book_summaries()    # an approved summary is the description: leave it untouched
+        # the counts below were written against the generated description, so still count its occurrences
+        gen = (make_description(page) or P['chapter_desc'] % (page.chapter, page.chapter_title)) if has_summary else ''
         for old, new, count in corr:
-            n = desc.count(old) + body.count(old) + fdefs.count(old)
+            n = (gen.count(old) if has_summary else desc.count(old)) + body.count(old) + fdefs.count(old)
             if n != count:
                 raise SystemExit('page correction on %s must match %d time(s), got %d: %r -> %r'
                                  % (page.filename, count, n, old, new))
-            desc, body, fdefs = desc.replace(old, new), body.replace(old, new), fdefs.replace(old, new)
+            if not has_summary:
+                desc = desc.replace(old, new)
+            body, fdefs = body.replace(old, new), fdefs.replace(old, new)
         lines[di[0]] = desc
         return '\n'.join(lines), body, fdefs
 

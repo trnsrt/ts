@@ -7,7 +7,7 @@ chapter: 5
 chapter_title: "Bitcoin"
 order: 503
 permalink: /Sorularla_Blockchain/bolum-5/bitcoin-islemi-nasil-gerceklesiyor/
-description: "Bitcoin temelinde teknik bir konu. Bu nedenle sıradan kullanıcıya bazı kısımları karmaşık hatta karanlık gelebilir."
+description: "Bir Bitcoin işlemi, bir miktar paranın sahipliğinin bir adresten diğerine geçmesi; işlemler herkese açık, ama adreslerde kişi adı yok. Gelen paralar ayrı ayrı duruyor ve her biri yalnızca bir kez harcanıyor; harcamadan kalan tutar “paranın üstü” olarak yeni bir adrese dönüyor. Makineler bu kayıtlara (UTXO) bakarak sahte para yaratılmasını önlüyor."
 ---
 
 *Bitcoin temelinde teknik bir konu. Bu nedenle sıradan kullanıcıya bazı kısımları karmaşık hatta karanlık gelebilir. Halbuki olabilecek en şeffaf sistem bu. Herhangi bir Bitcoin işlemi aslında nasıl gerçekleşiyor anlamak kimi noktaları aydınlatmak için yararlı olabilir.*

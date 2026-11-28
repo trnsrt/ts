@@ -7,7 +7,7 @@ chapter: 1
 chapter_title: "Nedir DeFi?"
 order: 107
 permalink: /Sorularla_DeFi/bolum-1/basarinin-sirri-topluluk/
-description: "DeFi dünyasındaki tüm girişimler için başarının sırrı kendine bağlı ve üretken bir topluluk oluşturmak."
+description: "DeFi’de başarının sırrı, kendine bağlı ve üretken bir topluluk oluşturmak. DeFi açık bir protokol olduğu için kullanıcı hiçbir platforma bağlı kalmak zorunda değil, ürünler de telif ya da patentle korunmadığından kopyalanabiliyor; bu yüzden müşteriyi tutmak zor. 2020’de Compound ile başlayan yönetim tokeni dağıtımı hem likidite sağladı hem kullanıcıyı platforma bağladı."
 ---
 
 DeFi dünyasındaki tüm girişimler için başarının sırrı kendine bağlı ve üretken bir topluluk oluşturmak. Aslında genel anlamda tüm girişimler için önemli olan bu kural, DeFi için hayati öneme sahip. Bu alana yatırım yapmayı düşünenlerin ilk bakacakları alan bu olmalı. Gelin nedenlerine birlikte bakalım.

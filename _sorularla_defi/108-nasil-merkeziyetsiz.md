@@ -7,7 +7,7 @@ chapter: 1
 chapter_title: "Nedir DeFi?"
 order: 108
 permalink: /Sorularla_DeFi/bolum-1/nasil-merkeziyetsiz/
-description: "Son zamanlarda oldukça ön plana çıkan merkeziyetsiz finans projeleri ve bu projelere ait yönetim tokenleri, uzun süredir süregelen bir tartışmayı da…"
+description: "Merkeziyetsizlik “ya hep ya hiç” değil, merkezi yapılardan (CeFi) tamamen dağıtık yapılara uzanan bir yelpaze; DeFi girişimleri bu yelpazenin daha merkeziyetsiz tarafında yer alıyor. Bakılacak üç alan geliştirici kitlesi, yönetim ve kullanıcı hakları. Projeler genellikle merkezi başlıyor ve olgunlaştıkça yönetimi token sahiplerine bırakıyor; merkezi yapıların avantajı ise hesap sorulabilecek bir yapının olması."
 ---
 
 Son zamanlarda oldukça ön plana çıkan merkeziyetsiz finans projeleri ve bu projelere ait yönetim tokenleri, uzun süredir süregelen bir tartışmayı da alevlendirmiş oldular. Merkeziyetsiz olmak neden önemli, ne zaman ve ne kadar merkeziyetsizlik iyidir? Gelin hep birlikte bakalım.

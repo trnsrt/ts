@@ -7,7 +7,7 @@ chapter: 2
 chapter_title: "Blockchain Beni Nasıl Etkileyecek?"
 order: 201
 permalink: /Sorularla_Blockchain/bolum-2/finans-dunyasi/
-description: "Blockchain bazlı sistemlerin en çok etkileyeceği alanlardan birinin finans olduğu ezelden beri söylenir."
+description: "Blockchain bazlı sistemler, iki taraf arasındaki işlemlerde merkezi aracının sağladığı güveni akıllı kontratlarla çalışan dağınık makinelere yayıyor; 2019’da bu, finans aktörleri için varoluşsal bir tehdit olarak değerlendiriliyordu. Tehdit altındaki ilk alan, yüksek maliyetli SWIFT gibi para transferleri oldu. DeFi’nin özü ise akıllı kontratlarla aracısız işlem."
 ---
 
 *Blockchain bazlı sistemlerin en çok etkileyeceği alanlardan birinin finans olduğu ezelden beri söylenir. Gelin neden böyle bir algı var önce ona bakalım sonra da bu alanda son zamanlarda en çok konuşulan konulardan biri olan Decentralized Finance (DeFi — Dağıtık Finans) oluşumuna göz atalım.*

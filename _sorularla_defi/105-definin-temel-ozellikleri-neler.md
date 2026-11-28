@@ -7,7 +7,7 @@ chapter: 1
 chapter_title: "Nedir DeFi?"
 order: 105
 permalink: /Sorularla_DeFi/bolum-1/definin-temel-ozellikleri-neler/
-description: "Bir önceki bölümde bahsettiğimiz yönetim tokenleri DeFi’nin patlamasına yardımcı oldu olmasına ama DeFi’yi asıl büyüten temel özelliklere de bakmak gerek…"
+description: "DeFi ürünlerinin çoğu emanet tutmuyor (non-custodial): kullanıcının parasına dokunmadan yalnızca aracılık ediyor. Platformlar ortak standartlarla çalıştığı için kullanıcı istediği zaman platform değiştirebiliyor, farklı platformları bir arada da kullanabiliyor. Kodların açık kaynak olması geliştirmeyi hızlandırıyor, ama bir platformun klonu da hemen çıkabiliyor."
 ---
 
 Bir önceki bölümde bahsettiğimiz yönetim tokenleri DeFi’nin patlamasına yardımcı oldu olmasına ama DeFi’yi asıl büyüten temel özelliklere de bakmak gerek:

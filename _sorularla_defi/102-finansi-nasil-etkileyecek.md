@@ -7,7 +7,7 @@ chapter: 1
 chapter_title: "Nedir DeFi?"
 order: 102
 permalink: /Sorularla_DeFi/bolum-1/finansi-nasil-etkileyecek/
-description: "Blokzincirin finans dünyasını nasıl etkileyeceğine bakarken, işe dijitalleşme ile birlikte finans sektörünün geçirdiği evrimden ve genel olarak finans…"
+description: "Blokzincir, iki taraf arasındaki işlemde aracının verdiği güven hizmetini binlerce makineye yaydığı için aracı olan finans kurumlarını tehdit ediyor. Tehdit üç kulvardan geliyor: kriptoparalar, teknoloji devleri ve merkez bankası dijital paraları. İlk etkilenen alan, özellikle SWIFT transferleri olmak üzere para transferleri oldu; kurumların “fason üretim” yapan işletmelere dönüşmesi öngörülüyordu."
 ---
 
 Blokzincirin finans dünyasını nasıl etkileyeceğine bakarken, işe dijitalleşme ile birlikte finans sektörünün geçirdiği evrimden ve genel olarak finans kurumlarını gelecekte nelerin beklediğinden yola çıkıp, sonrasında blokzincire bakalım:

@@ -7,7 +7,7 @@ chapter: 1
 chapter_title: "Nedir DeFi?"
 order: 101
 permalink: /Sorularla_DeFi/bolum-1/blokzincirin-cikis-felsefesi/
-description: "İlk önce sık sorulan bir soruyla başlayalım: “Blokzincir nedir?”. Buna hepimizin ayrı bir yorumu var."
+description: "Blokzincir, dijital dünyada ikili her tür ilişkide aracılık yapanları ortadan kaldırmayı hedefleyen felsefenin yarattığı teknoloji. Bu felsefenin kökünde birey ile bireyin hak ve özgürlüklerini sınırlamaya çalışan yapılar arasındaki güç çekişmesi var. Blokzincir teknolojisini kullanan ilk ürün Bitcoin ise internetin, şifreleme teknolojilerinin ve uzlaşma mekanizmasının olgunlaşmasıyla ortaya çıktı."
 ---
 
 İlk önce sık sorulan bir soruyla başlayalım: “Blokzincir nedir?”. Buna hepimizin ayrı bir yorumu var. Bana sorduklarında ise tek cümle ile cevabım: “Dijital dünyada, ikili her tür ilişkide aracılık yapanları ortadan kaldırmayı hedefleyen felsefenin yarattığı teknoloji” oluyor.

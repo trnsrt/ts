@@ -7,7 +7,7 @@ chapter: 5
 chapter_title: "Bitcoin"
 order: 508
 permalink: /Sorularla_Blockchain/bolum-5/madencilik-2-0/
-description: "Yeni nesil teknolojilerin gelişmesi için her kesim çaba gösteriyor. Bunlardan biri de bu alana yatırım yapmış kurumsal yatırımcılar."
+description: "Madencilik 2.0 (Generalized Mining), girişim sermayelerinin açık bir Blockchain’de kendisi madencilik yapması ya da madencilik yapan bir şirkete yatırım yapması. Madenciler token kazanıyor, ekosistemin güvenliğini sağlıyor ve yönetimde söz hakkı edinebiliyor. Bu iş ciddi teknik bilgi gerektirdiği için girişim sermayeleri ekiplerini teknik üyelerle güçlendiriyor."
 ---
 
 *Yeni nesil teknolojilerin gelişmesi için her kesim çaba gösteriyor. Bunlardan biri de bu alana yatırım yapmış kurumsal yatırımcılar. Özellikle girişim sermayeleri iş yapış biçimlerini değiştiriyorlar. Gelin bir göz atalım neler yaptıklarına:*

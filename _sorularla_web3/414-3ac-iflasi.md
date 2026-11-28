@@ -7,7 +7,7 @@ chapter: 4
 chapter_title: "Web3’ün Uygulama Alanları"
 order: 414
 permalink: /Sorularla_Web3/bolum-4/3ac-iflasi/
-description: "Bu kısımda, UST ile başlayan 2022 krizinin ikinci perdesi olan 3AC iflasına bakıyoruz."
+description: "Three Arrows Capital (3AC), 2012’de kurulan bir arbitraj fonu. BTC/GBTC, ETH/stETH ve USD/UST işlemlerini çok miktarda borçlanarak büyüttü. Mayıs 2022’de UST çıpasını kaybedince borç verenler kredileri geri çağırıp teminatları piyasada sattı; teminatların değeri düştü ve 3AC battı. Eylül 2023’te iki kurucuya 9 yıllık sermaye piyasası işlem yasağı getirildi."
 ---
 
 Bu kısımda, UST ile başlayan 2022 krizinin ikinci perdesi olan 3AC iflasına bakıyoruz.

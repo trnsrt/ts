@@ -7,7 +7,7 @@ chapter: 2
 chapter_title: "Blockchain Beni Nasıl Etkileyecek?"
 order: 213
 permalink: /Sorularla_Blockchain/bolum-2/ico-ve-token-dunyasi/
-description: "Yeni dünyada, yaratılan katma değer sadece girişimciler ve yatırımcılar değil tüm kesimler tarafından paylaşılıyor."
+description: "Token, merkezi olmayan sistemleri çalıştıran yakıt; bir şirketin payı gibi yönetimde söz hakkı ya da temettü vermiyor, ekosistemin bir parçası. Tokenlerin yatırımcılara satılmasına ICO (Initial Coin Offering) deniyor; klasik karşılığı halka arz (IPO). Tokenler girişimciye, geliştiricilere, altyapıyı sağlayan makinelere ve kullanıcılara dağıtılıyor."
 ---
 
 *Yeni dünyada, yaratılan katma değer sadece girişimciler ve yatırımcılar değil tüm kesimler tarafından paylaşılıyor. Bunu sağlayan da Token dediğimiz yeni tip varlıklar. Gelin nedir bir bakalım.*

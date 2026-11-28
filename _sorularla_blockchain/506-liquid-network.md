@@ -7,7 +7,7 @@ chapter: 5
 chapter_title: "Bitcoin"
 order: 506
 permalink: /Sorularla_Blockchain/bolum-5/liquid-network/
-description: "Bitcoin doğası gereği yavaş gelişiyor ama ona eklenen başka teknolojiler çok daha hızlı ilerleyip Bitcoin’in geniş kitlelerce kullanımını kolaylaştırmaya…"
+description: "Liquid, borsalar ve kurumlar arasında hızlı işlem yapmaya yarayan, Bitcoin’e bağlı bir yan-zincir (side-chain) ve özel bir Blockchain. Her L-BTC için aynı oranda bir BTC karşılığı gerekiyor. İşlemleri madenciler değil, seçilmiş borsalar ve kurumsal aracılar onaylıyor. Eleştirenler, bu yapıyı Bitcoin’in bağımsız yapısından sapma sayıyor."
 ---
 
 *Bitcoin doğası gereği yavaş gelişiyor ama ona eklenen başka teknolojiler çok daha hızlı ilerleyip Bitcoin’in geniş kitlelerce kullanımını kolaylaştırmaya çalışıyorlar. Bunlardan biri de Liquid. Ne olduğu aşağıda:*

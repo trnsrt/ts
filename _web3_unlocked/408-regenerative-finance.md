@@ -7,7 +7,7 @@ chapter: 4
 chapter_title: "Exploring Web3 in Everyday Life"
 order: 408
 permalink: /Web3_Unlocked/chapter-4/regenerative-finance/
-description: "In this section, we turn to Regenerative Finance (ReFi), a branch of Web3 on a mission to prove the ecosystem has a soul."
+description: "Regenerative Finance (ReFi) is a movement aiming to reshape the financial landscape. Its goal is to restore the natural environment and boost societal well-being, with value flowing to communities and ecosystems, not only shareholders. It uses blockchain to fund this work; early projects tokenized carbon credits and financed sustainable farming, but the core idea is still unproven."
 ---
 
 In this section, we turn to Regenerative Finance (ReFi), a branch of Web3 on a mission to prove the ecosystem has a soul.

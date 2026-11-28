@@ -7,7 +7,7 @@ chapter: 1
 chapter_title: "Nedir DeFi?"
 order: 111
 permalink: /Sorularla_DeFi/bolum-1/dijitallesme-gelecek/
-description: "Bu aralar Twitter’ı takip ederken sanıyorum çoğumuzun sıkça karşılaştığı bir his var: “Her şey çok hızlı gelişiyor, her hafta yepyeni bir konu ortaya…"
+description: "Dijitalleşme eski dünyanın dijital ortamda taklidiyle başlıyor; bu taklitlere alışıldıkça dijital dünyaya özgü yenilikler kabullenilmeye başlıyor. Süreçte iki dönüm noktası var: aracısız ilişkiye izin veren blokzincir ve pandemi. 2021’de, asıl büyümenin kripto paralardan, merkeziyetsiz finanstan, NFT’lerden, metaverse’ten ve DAO’lardan geleceği öngörülüyordu; başlıca engeller devletlerin yaklaşımı ile Facebook ve Microsoft gibi merkezi yapıların egemenlik çabasıydı."
 ---
 
 Bu aralar Twitter’ı takip ederken sanıyorum çoğumuzun sıkça karşılaştığı bir his var: “Her şey çok hızlı gelişiyor, her hafta yepyeni bir konu ortaya atılıyor.” Hak vermemek mümkün değil; birkaç ay önce DeFi konuşuyorduk, sonra NFT çıktı, sonra Metaverse, derken DAO’lar. Böyle olunca, çıkan her yeniliği moda olarak addediyor ve gelip geçeceğini düşünüyoruz. Gerçekten öyle mi?

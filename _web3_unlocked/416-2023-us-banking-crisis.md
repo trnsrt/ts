@@ -7,7 +7,7 @@ chapter: 4
 chapter_title: "Exploring Web3 in Everyday Life"
 order: 416
 permalink: /Web3_Unlocked/chapter-4/2023-us-banking-crisis/
-description: "The spring of 2023 sent a tremor through the U.S. financial system."
+description: "Silvergate, Signature and Silicon Valley Bank imploded in spring 2023. After rapid Fed rate hikes, banks’ bonds lost value and customers moved deposits to higher yields; the banks’ closely connected crypto and tech clients reacted instantly. Authorities guaranteed all deposits at the failed banks. The cause was a failure of basic risk management, not bad loans."
 ---
 
 The spring of 2023 sent a [tremor](https://www.imf.org/en/Publications/global-financial-stability-notes/Issues/2024/03/04/The-US-Banking-Sector-since-the-March-2023-Turmoil-Navigating-the-Aftermath-544809) through the U.S. financial system. For a moment, it felt like we were staring into the abyss of another 2008-style meltdown as three banks imploded in rapid succession. While a massive government rescue package[^1] managed to calm the immediate panic, the episode left a lingering question: Just how stable is the ground beneath our feet? To understand what might be coming, we need to dissect what went wrong.

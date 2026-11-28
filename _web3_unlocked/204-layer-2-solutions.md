@@ -7,7 +7,7 @@ chapter: 2
 chapter_title: "Key Pillars of the Web3 Economy"
 order: 204
 permalink: /Web3_Unlocked/chapter-2/layer-2-solutions/
-description: "Modular designs are solving blockchain's scaling problem. This is best seen in the Layer 2 (L2) ecosystem built on Ethereum."
+description: "Layer 2 (L2) solutions are blockchains built on Ethereum that process transactions separately and post summaries back to it, raising throughput and cutting fees. Anchored to Ethereum, they keep user assets protected by its validators even if the L2 has a problem; L2s that publish their data elsewhere don’t get the same guarantee. They also carry their own software risk."
 ---
 
 Modular designs are solving blockchain's scaling problem. This is best seen in the Layer 2 (L2) ecosystem built on Ethereum. L2s act as high-speed lanes, handling the bulk of transactions to relieve congestion on the main network.

@@ -7,7 +7,7 @@ chapter: 3
 chapter_title: "Web3 Ekonomisinin Aktörleri"
 order: 302
 permalink: /Sorularla_Web3/bolum-3/kurucu-ekipler/
-description: "Web3 girişimleri ve girişimcileri, mevcut teknoloji dünyasındaki rakiplerine göre farklı özelliklere sahip. Bu kısımda iki grup arasındaki farklara değineceğiz."
+description: "Web3 kurucu ekipleri esnek ve birbirine gevşek bağlı bireylerden oluşuyor; çoğu birbirini hiç görmemiş, üyeler isterlerse anonim kalabiliyor. Projeler açık kaynak olduğu için güven ekibe değil, herkesin denetleyebildiği yazılıma dayanıyor. Açık kaynak ekipleri küçültüyor ve ürün çıkarmayı hızlandırıyor: Uniswap’ın 2021 Ocak’ta yaklaşık 3 milyar dolarlık piyasa değeriyle yalnızca 11 çalışanı vardı."
 ---
 
 Web3 girişimleri ve girişimcileri, mevcut teknoloji dünyasındaki rakiplerine göre farklı özelliklere sahip. Bu kısımda iki grup arasındaki farklara değineceğiz.

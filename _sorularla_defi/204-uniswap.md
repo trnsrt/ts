@@ -7,7 +7,7 @@ chapter: 2
 chapter_title: "DeFi Dünyasının Aktörleri"
 order: 204
 permalink: /Sorularla_DeFi/bolum-2/uniswap/
-description: "Uniswap, merkeziyetsiz olarak işlem yapılan bir kriptopara borsası ve bu alanın eskilerinden."
+description: "Uniswap, kullanıcıların birbiriyle değil bir havuza karşı işlem yaptığı, merkeziyetsiz bir kriptopara borsası; özünde otomatik bir piyasa yapıcı. Her havuz iki tokenden oluşuyor ve iki taraftaki token adetlerinin çarpımı sabit kalıyor; bir tokeni almak için diğerini havuza bırakmak gerekiyor. Likidite sağlayanlar komisyondan pay alıyor, ancak “geçici kayıp” riski taşıyor."
 ---
 
 Uniswap, merkeziyetsiz olarak işlem yapılan bir kriptopara borsası ve bu alanın eskilerinden. Her ne kadar borsa olarak adlandırsak da Uniswap, özünde İngilizcede “market maker” olarak adlandırılan piyasa yapıcı bir havuz. Biraz daha açalım:

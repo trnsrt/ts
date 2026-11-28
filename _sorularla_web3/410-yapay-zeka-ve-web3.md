@@ -7,7 +7,7 @@ chapter: 4
 chapter_title: "Web3’ün Uygulama Alanları"
 order: 410
 permalink: /Sorularla_Web3/bolum-4/yapay-zeka-ve-web3/
-description: "Evet, işte geldik belki de kitabımızın en ilgi çekmeye aday kısımlarından birine: Yapay zeka ve Web3."
+description: "Blokzincir kesinlik gerektirirken yapay zeka olasılıklara dayandığı için iki teknoloji uyumlu değil, ama bazı alanlarda birbirini tamamlayabiliyor. Tamamen merkeziyetsiz bir yapay zeka modelinin teknoloji devleriyle yarışması mümkün görünmüyor; Web3 girişimleri veri, işlemci gücü, temsilci altyapısı ve son kullanıcı uygulamaları alanlarında belirli köşeleri tutmaya çalışıyor. Yapay zeka temsilcilerinin Web3’ün kullanım zorluğunu aşmasına yardımcı olabileceği öngörülüyor."
 ---
 
 Evet, işte geldik belki de kitabımızın en ilgi çekmeye aday kısımlarından birine: Yapay zeka ve Web3. Bu kısımda yapay zeka ile Web3’ün arasındaki ilişkiyi ve birbirlerini nasıl etkileyeceğini anlamaya çalışacağız.

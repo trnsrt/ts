@@ -7,7 +7,7 @@ chapter: 6
 chapter_title: "Web3’ün Geleceği"
 order: 602
 permalink: /Sorularla_Web3/bolum-6/uzun-vadede-neler-olabilir/
-description: "Orta ve uzun vadeyi tahmin etmek gerçekten zor."
+description: "Orta ve uzun vade beklentileri arasında 2026’ya gelindiğinde ağırlığın bireysel yatırımcılardan kurumsal yatırımcılara kayması, tokenleştirmenin fiziki ürünlere yayılması, altyapı uygulamalarının kuantum bilgisayarlara dayanıklı olacak şekilde güncellenmesi, 2028’den itibaren yapay zekanın öne çıkması ve 2030’da dünyada bir milyar Web3 hesabı olması var. Bir diğer beklenti, yapay zeka temsilcileri geliştikçe Web3’teki işlemlerin belki de yalnızca %10’unu insanların yapması, kalanını 7/24 çalışan yapay zeka temsilcilerinin gerçekleştirmesi."
 ---
 
 Orta ve uzun vadeyi tahmin etmek gerçekten zor. Eğer bu satırları 2030 yılında okuyorsanız, içinizden “yazar neler saçmalamış” diye geçiriyor olma ihtimaliniz yüksek. :)

@@ -7,7 +7,7 @@ chapter: 1
 chapter_title: "Nedir Bu Blockchain Allah Aşkına?"
 order: 102
 permalink: /Sorularla_Blockchain/bolum-1/nedir-bu-blockchain/
-description: "Web 3.0 olarak da adlandırılan yeni dijitalleşme dalgasının içerisinde şu ana kadar en öne çıkan Blockchain konusuna yavaştan başlayalım."
+description: "Blockchain, dünyanın dört bir yanındaki bir grup makinenin işlemleri ve işlem sonucu oluşan son durumu şifreli olarak paylaştığı ve bir “mutabakat mekanizması” ile teyit ettiği bir teknoloji. Güven için aracıya gerek kalmıyor; kayıtlar şeffaf tutuluyor ve geriye dönük değiştirilemiyor. Kripto paralar bu teknolojinin ilk çocuğu, ama iki kavram aynı değil."
 ---
 
 Web 3.0 olarak da adlandırılan yeni dijitalleşme dalgasının içerisinde şu ana kadar en öne çıkan Blockchain konusuna yavaştan başlayalım. Blockchain denince birçoğumuzun ilk aklına gelen kripto para konusuna da değinmeden olmaz. İki kavram aynı değiller ancak birbirlerine ayrılmaz biçimde bağlılar. Daha başka örnekler de var, sırasıyla onlara da bakacağız.

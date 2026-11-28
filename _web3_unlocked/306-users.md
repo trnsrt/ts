@@ -7,7 +7,7 @@ chapter: 3
 chapter_title: "Meet the People Powering Web3"
 order: 306
 permalink: /Web3_Unlocked/chapter-3/users/
-description: "Every player in the Web3 ecosystem—from founders to investors to validators—is working towards a single goal: getting people to actually use this technology."
+description: "It is nearly impossible to know how many people use Web3, because users are pseudonymous and transact through public addresses. So far they have been two groups of early adopters: pioneers drawn to decentralization and people seeking financial gain, such as investors, traders and airdrop hunters. To grow, Web3 needs a better user experience, new wallets and product-market fit."
 ---
 
 Every player in the Web3 ecosystem—from founders to investors to validators—is working towards a single goal: getting people to actually use this technology. So, have they succeeded? For now, the honest answer is "no." To understand what it will take to get to "yes," we first need to grasp how Web3 fundamentally redefines the concept of a user.

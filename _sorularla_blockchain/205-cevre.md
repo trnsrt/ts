@@ -7,7 +7,7 @@ chapter: 2
 chapter_title: "Blockchain Beni Nasıl Etkileyecek?"
 order: 205
 permalink: /Sorularla_Blockchain/bolum-2/cevre/
-description: "Çevre Blockchain temelli fikirleri hayata geçirmede en mantıklı alanlardan biri. Neden?"
+description: "Çevre sorunlarında çok sayıda oyuncu, aralarında güvensizlik ve yetersiz denetim ve ölçüm mekanizmaları var; Blockchain’in zaman damgası ve akıllı kontratları maliyetleri düşürmeye, yatırımları hızlandırmaya ve denetimi kolaylaştırmaya yardımcı olabiliyor. Bir World Economic Forum raporu şeffaf tedarik zinciri ve karbon emisyon pazarları gibi alanları sayıyor; fikirlerin çoğu 2019’da henüz ham ve test aşamasındaydı."
 ---
 
 *Çevre Blockchain temelli fikirleri hayata geçirmede en mantıklı alanlardan biri. Neden?*

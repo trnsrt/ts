@@ -7,7 +7,7 @@ chapter: 4
 chapter_title: "Web3’ün Uygulama Alanları"
 order: 418
 permalink: /Sorularla_Web3/bolum-4/vibe-dao/
-description: "Bu kısımda, merkeziyetsiz bilim içinde ilaç alanında faaliyet gösteren bir oluşum olan Vibe DAO’yu mercek altına alacağız."
+description: "Vibe DAO (Vibe Bio), nadir hastalıkların çözümüne finansman sağlamayı hedefleyen, hastayı merkeze alan DAO benzeri bir yapı. Hastalar ve yakınları öneri sunuyor, uzmanlar değerlendiriyor, topluluk onaylıyor; finansmanın token ile sağlanması öngörülüyor, ama token konusunda hâlâ ilerleme yok. Haziran 2022’de kurulan girişim 12 milyon dolar yatırım aldı ve henüz yolun başında."
 ---
 
 Bu kısımda, merkeziyetsiz bilim içinde ilaç alanında faaliyet gösteren bir oluşum olan Vibe DAO’yu mercek altına alacağız.

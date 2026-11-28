@@ -7,7 +7,7 @@ chapter: 2
 chapter_title: "Web3 Ekonomisinin Yapı Taşları"
 order: 209
 permalink: /Sorularla_Web3/bolum-2/bitcoin-ikinci-seviye/
-description: "Bu kısımda özellikle son bir yıldır adını daha sık duymaya başladığımız Bitcoin üzerine geliştirilen ikinci seviye çözümlere bakacağız."
+description: "Bitcoin üzerindeki ikinci seviye çözümler, Bitcoin’i yalnızca bir değer saklama aracı olmaktan çıkarıp üzerinde farklı işlemler yapılabilen bir ağa dönüştürmeyi amaçlıyor. Ancak Bitcoin, Ethereum’un aksine kendisine yazılan işlemlerin doğruluğunu kontrol etmediği için bu çözümler Bitcoin’in güvenliğinden tam olarak yararlanamıyor. Başlıca yaklaşımlar Lightning Network, Stacks gibi yan zincirler ve BitVM."
 ---
 
 Bu kısımda özellikle son bir yıldır adını daha sık duymaya başladığımız Bitcoin üzerine geliştirilen ikinci seviye çözümlere bakacağız.

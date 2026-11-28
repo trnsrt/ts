@@ -7,7 +7,7 @@ chapter: 4
 chapter_title: "Exploring Web3 in Everyday Life"
 order: 404
 permalink: /Web3_Unlocked/chapter-4/gaming-metaverse/
-description: "We now turn to one of Web3’s most promising—and most challenging—frontiers: gaming and the metaverse."
+description: "Web3 gaming uses blockchain, through NFTs, to give players true ownership of their in-game assets and a way to monetize their time. The first wave crashed because games prioritized earning over fun, onboarding was painful and many token models were inflationary. The metaverse is a harder, hardware-dependent problem: not a failed idea, but a marathon rather than a sprint."
 ---
 
 We now turn to one of Web3’s most promising—and most challenging—frontiers: gaming and the metaverse. While the vision is clear, building it has proven to be a tough road.

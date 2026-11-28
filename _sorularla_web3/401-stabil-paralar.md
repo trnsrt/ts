@@ -7,7 +7,7 @@ chapter: 4
 chapter_title: "Web3’ün Uygulama Alanları"
 order: 401
 permalink: /Sorularla_Web3/bolum-4/stabil-paralar/
-description: "Stabil paralar, kripto dünyası içinde en çok kullanım alanı bulan ürün oldu."
+description: "Stabil paralar, değeri itibari bir para birimine bağlı olan paralar. Pazarın neredeyse tamamı ABD dolarına bağlı stabil paralardan oluşuyor; liderliği açık ara USDT (Tether) ve USDC alıyor. Bu merkezi stabil paralarda şeffaflık sorunları ve dondurulma riski var; merkeziyetsiz alternatif DAI ise yüksek teminat gerektirdiği için istediği büyüklüğe ulaşamıyor."
 ---
 
 Stabil paralar, kripto dünyası içinde en çok kullanım alanı bulan ürün oldu. Teknoloji alanındaki girişimlerin hep arayıp durduğu ürün/pazar uyumunu (İngilizcesi ‘product market fit’) belki de şu ana kadar en net şekilde yakalayan ürün olan stabil paralar, her ne kadar bir ara toplam piyasa büyüklüğü olarak bir parça düşüş yaşamış olsa da, 2024 yılı içinde tekrar yükselişe geçerek 2022’de yaşadığı zirveyi tekrar yakaladılar.

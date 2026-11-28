@@ -7,7 +7,7 @@ chapter: 2
 chapter_title: "Web3 Ekonomisinin Yapı Taşları"
 order: 204
 permalink: /Sorularla_Web3/bolum-2/ikinci-seviye-cozumler/
-description: "Bir önceki kısımda, blokzincir ağlarının temel sıkıntısı olan ölçeklenme sorununa değindik."
+description: "İkinci seviye çözümler (Layer 2), Ethereum üzerine kurulu ve Ethereum’un işlem gerçekleştirme (execution) yükünü üstlenen ayrı blokzincirler. Kullanıcıların işlemlerini toplu gerçekleştirip sonuçlarını Ethereum’a yazıyorlar; bu sayede ücretler düşüyor, kullanıcının parası da temelde Ethereum üzerinde kalıyor. Dezavantajı, her ek yazılımın yeni hata riski getirmesi."
 ---
 
 Bir önceki kısımda, blokzincir ağlarının temel sıkıntısı olan ölçeklenme sorununa değindik. Bu sorunu çözmeye yönelik olarak, eskiden beri süregelen monoblok (yani tek ya da yekpare) blokzincir yapısına karşı son dönemde ön plana çıkan modüler (yani legolar gibi birbirine kenetlenen farklı parçalardan oluşan) blokzincir yapılarını gördük.

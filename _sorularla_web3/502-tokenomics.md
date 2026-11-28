@@ -7,7 +7,7 @@ chapter: 5
 chapter_title: "Tokenleştirme"
 order: 502
 permalink: /Sorularla_Web3/bolum-5/tokenomics/
-description: "Bu kısımda kripto ekosisteminin en çok tartışılan alanlarından biri olan tokenomics konusuna değineceğiz."
+description: "Tokenomics, ‘token’ ve ‘economics’ kelimelerinden türetilmiş bir terim; tokenlere bağlı bir ekonomi yaratılması ve bu ekonominin tasarlanması demek. Planlamada dört konuya dikkat etmek gerekiyor: token basımı, dağıtımı, dağıtım sonrası teşvikler ve token yakımı; bir diğer önemli konu zamanlama. Tokenlerin, kurucular ve yatırımcıların yanında madenci, geliştirici ve kullanıcılara da pay verecek biçimde kurgulanması gerekiyor."
 ---
 
 Bu kısımda kripto ekosisteminin en çok tartışılan alanlarından biri olan tokenomics konusuna değineceğiz.

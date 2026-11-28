@@ -7,7 +7,7 @@ chapter: 1
 chapter_title: "Nedir Bu Blockchain Allah Aşkına?"
 order: 101
 permalink: /Sorularla_Blockchain/bolum-1/dalganin-farkinda-miyiz/
-description: "New York’taki projemde şirketimin yönetici ortaklarından birinin müşterisine sorduğu en can alıcı soru buydu."
+description: "Bitcoin, Blockchain, Ethereum, kripto ve token gibi kavramlar, Web 3.0 denen yeni dalganın parçaları. Web 1.0 açık ve ücretsiz protokollerden, Web 2.0 ise Facebook, Amazon, Google ve Apple gibi şirketlerin merkezi platformlarından oluşuyor. Web 3.0’ın temelinde, tekellerin elinde toplanan sahipliği bireylere geri verme isteği var."
 ---
 
 New York’taki projemde şirketimin yönetici ortaklarından birinin müşterisine sorduğu en can alıcı soru buydu. “Geceleri uykunuzu ne kaçırıyor?” Dolar/Euro paritesinin değişmesi mi, yoksa önümüzdeki yıl yapılacak seçimler mi? Siz bunlara kafa yorarken, birileri de tutturmuş sinek vızıltısı gibi “Bitcoin” diyor, “Kripto Para, Blockchain” diye bir şeyler sayıklıyor. Bunca derdin sıkıntının arasında bir de bunlar çıktı. Neymiş diye bir baktınız ama size anlatanların bile tam anlamadığını gördüğünüz için vazgeçtiniz.

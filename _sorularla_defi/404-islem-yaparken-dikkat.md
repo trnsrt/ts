@@ -7,7 +7,7 @@ chapter: 4
 chapter_title: "DeFi Dünyasına Adım Atacaklar İçin Pratik Bilgiler"
 order: 404
 permalink: /Sorularla_DeFi/bolum-4/islem-yaparken-dikkat/
-description: "DeFi dünyasında ilk adım olan cüzdanı kurduktan ve ilk tokenleri kriptopara borsasından aldıktan sonra, sıra bu dünyada işlem yapmaya geldiğinde nelere…"
+description: "2021’de Ethereum’da işlem ücreti sabit değildi; işlemin karmaşıklığına, ağ yoğunluğuna bağlı birim maliyete (müzayede benzeri bir sistem) ve işlemin ne kadar hızlı yapılmak istendiğine göre belirleniyordu. Kullanıcı onaydan önce ücrete bakmalı; acil olmayan işlemlerde yavaş seçeneği, daha ucuz bir zamanı ya da ikinci seviye çözümleri kullanmak ücreti düşürebiliyor."
 ---
 
 DeFi dünyasında ilk adım olan cüzdanı kurduktan ve ilk tokenleri kriptopara borsasından aldıktan sonra, sıra bu dünyada işlem yapmaya geldiğinde nelere dikkat etmek gerekir, gelin birlikte üzerinden geçelim:

@@ -7,7 +7,7 @@ chapter: 4
 chapter_title: "Exploring Web3 in Everyday Life"
 order: 409
 permalink: /Web3_Unlocked/chapter-4/desci/
-description: "For years, the most successful use case for Web3 has been finance."
+description: "Decentralized Science (DeSci) applies lessons from DeFi, especially the DAO model, to rebuild a scientific process monopolized by a handful of universities, grant agencies and publishers. It rests on four principles: decentralization, transparency, permissionless collaboration and new incentive systems built on DAOs, tokens and IP-NFTs. Its projects span new funding models, open publishing and collaboration, and data and IP infrastructure."
 ---
 
 For years, the most successful use case for Web3 has been finance. The tools built for DeFi, particularly the Decentralized Autonomous Organization (DAO), proved to be incredibly powerful for coordinating capital and communities. Now, that same battle-tested model is being aimed at a new target: the world of science.

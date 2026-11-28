@@ -7,7 +7,7 @@ chapter: 4
 chapter_title: "Web3’ün Uygulama Alanları"
 order: 406
 permalink: /Sorularla_Web3/bolum-4/dijital-kimlik/
-description: "Önümüzdeki dönemde daha sık konuşulmaya başlanacak konulardan biri de ‘dijital kimlik’ olacak."
+description: "Dijital kimlik, kullanıcıların dijital dünyada istedikleri gibi hareket etmesi için gereken temel araç. Bugünkü kimlikleri kamu otoriteleri, finansal kurumlar ve sosyal medya gibi merkezi kurumlar veriyor; bilgiler merkezi veritabanlarında tutuluyor, bu da güvenlik sorunu yaratıyor. Blokzincirle kullanıcı, işlemi yapanın kendisi olduğunu kişisel bilgi vermeden ya da çok kısıtlı bilgiyle kanıtlayabilecek."
 ---
 
 Önümüzdeki dönemde daha sık konuşulmaya başlanacak konulardan biri de ‘dijital kimlik’ olacak. Gelin bu konuda kafa yormaya şimdiden başlayalım:

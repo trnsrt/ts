@@ -7,7 +7,7 @@ chapter: 4
 chapter_title: "DeFi Dünyasına Adım Atacaklar İçin Pratik Bilgiler"
 order: 402
 permalink: /Sorularla_DeFi/bolum-4/elektronik-cuzdan/
-description: "Cüzdanlar, DeFi dünyasına girişin ilk adımı."
+description: "Elektronik (kripto) cüzdan, blokzincirdeki varlığın kullanıcıya ait olduğunu kanıtlayan ve ona erişim sağlayan bir araç; kriptopara cüzdanda durmuyor. Asıl kritik olan, 12 ya da 24 kelimelik “seed phrase” (tohum sözcük grubu): kaybedilirse geri dönüş yok, kimseyle paylaşılmamalı. Cüzdanlar web, bilgisayar, mobil, fiziki ve kâğıt olarak yapılabiliyor; güvenlik ile kullanım kolaylığı arasında tercih gerekiyor."
 ---
 
 Cüzdanlar, DeFi dünyasına girişin ilk adımı. Bu bölümde; elektronik cüzdan ne demek, nasıl cüzdan sahibi oluruz ve cüzdanlar ne kadar güvenli sorularına yanıt arayalım:

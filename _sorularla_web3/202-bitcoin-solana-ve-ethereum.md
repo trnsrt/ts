@@ -7,7 +7,7 @@ chapter: 2
 chapter_title: "Web3 Ekonomisinin Yapı Taşları"
 order: 202
 permalink: /Sorularla_Web3/bolum-2/bitcoin-solana-ve-ethereum/
-description: "Bu kısımda, piyasanın en büyük üç oyuncusunun son dönem performanslarına bakıp, bizi gelecekte nelerin beklediğini anlamaya çalışacağız."
+description: "Bitcoin, Solana ve Ethereum yatırımcılara farklı söylemler sunuyor. Bitcoin’in söylemi basit ve net bir “dijital altın”; Solana’nın ucuz ve hızlı işlemleri yeni kullanıcıları ve spekülasyon peşindekileri çekiyor; Ethereum ise merkeziyetsizlikten ödün vermeden altyapıya odaklandığı için küçük yatırımcıda karşılık bulmuyor, kurumsal yatırımcıda buluyor. 2023 sonunda ETH, BTC ve SOL’un gerisinde kaldı."
 ---
 
 Bu kısımda, piyasanın en büyük üç oyuncusunun son dönem performanslarına bakıp, bizi gelecekte nelerin beklediğini anlamaya çalışacağız.

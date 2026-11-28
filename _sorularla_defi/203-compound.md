@@ -7,7 +7,7 @@ chapter: 2
 chapter_title: "DeFi Dünyasının Aktörleri"
 order: 203
 permalink: /Sorularla_DeFi/bolum-2/compound/
-description: "Kripto dünyasında ise DeFi hareketi benzer şekilde bize yeni alternatifler sunuyor."
+description: "Compound, mevduat sahipleri ile kredi alanlar arasında banka benzeri çalışan, Ethereum üzerine kurulu bir sistem. Bireyler kriptoparalarını mevduat olarak yatırıp faiz kazanıyor, kredi alanlar bu faizin biraz fazlasını ödüyor; aradaki fark Compound’un komisyonu. Faiz arz ve talebe göre bir algoritmayla belirleniyor, kredi alan ise teminat yatırıyor."
 ---
 
 Kripto dünyasında ise DeFi hareketi benzer şekilde bize yeni alternatifler sunuyor. Henüz çok küçük ve deneysel olsalar da, belli bir potansiyel sahibi oldukları kesin. Gelin bu bölümde bu alandaki ilginç yapılardan [Compound](https://compound.finance/)’a bakalım:

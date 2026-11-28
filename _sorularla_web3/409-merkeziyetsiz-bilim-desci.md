@@ -7,7 +7,7 @@ chapter: 4
 chapter_title: "Web3’ün Uygulama Alanları"
 order: 409
 permalink: /Sorularla_Web3/bolum-4/merkeziyetsiz-bilim-desci/
-description: "Web3 olarak da adlandırılan merkeziyetsiz sistemler, şimdiye kadar daha çok finansal alandaki uygulamalarda ön plana çıktı."
+description: "Merkeziyetsiz bilim (DeSci), büyük kurum ve yayıncıların tekeli altına girmiş geleneksel bilimdeki oturmuş denklemi değiştirmeye çalışan bir Web3 kullanım alanı. Dört temel karakteristiğe dayanıyor: bilimi merkeziyetsiz sistemlere dağıtmak, şeffaflık, sınır ötesi ve sansüre dayanıklı ağlar ile DAO’lar ve tokenlerden oluşan bir teşvik sistemi. Alandaki oyuncular dokuz grupta toplanıyor; aralarında DAO’lar, yayıncılık, biyoteknoloji, fonlama ve veri saklama protokolleri var."
 ---
 
 Web3 olarak da adlandırılan merkeziyetsiz sistemler, şimdiye kadar daha çok finansal alandaki uygulamalarda ön plana çıktı. Bu alandaki en kalıcı girişimler ise merkeziyetsiz otonom organizasyonlar (decentralized autonomous organization kısaca DAO) şeklinde yapılandılar (MakerDAO, CurveDAO gibi). DAO’ların en büyük özelliği ise, dijital dünyada belirli bir amacı gerçekleştirmek isteyen kişiler arasında teknik ve sosyal koordinasyonu verimli bir şekilde sağlayabilmesi.

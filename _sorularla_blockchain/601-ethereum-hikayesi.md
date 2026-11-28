@@ -7,7 +7,7 @@ chapter: 6
 chapter_title: "Ethereum ve Diğer Kripto Paralar"
 order: 601
 permalink: /Sorularla_Blockchain/bolum-6/ethereum-hikayesi/
-description: "Bitcoin dışında en bilinen kripto para Ethereum’un parası olan Ether. Yaratıcısı da 18 yaşında bir genç."
+description: "Ethereum, birbirine bağlı makinelerin yalnızca kayıt tutmakla kalmayıp başka işler de yapması için kurulan, “dünyanın en büyük bilgisayarı” olma iddiasındaki sistem. Vitalik Buterin Ethereum’u 2013’te tanıttı ve Eylül 2014’te Bitcoin karşılığı ether satarak para topladı. Yazılımcılar, kuralları önceden konmuş akıllı kontratlarla çalışan uygulamalar (dApps) yazıyor ve ETH ödüyor."
 ---
 
 *Bitcoin dışında en bilinen kripto para Ethereum’un parası olan Ether. Yaratıcısı da 18 yaşında bir genç. Ancak bu genç Ethereum’u kripto para olsun diye yaratmamış. Çok daha iddialı hayalleri var.*

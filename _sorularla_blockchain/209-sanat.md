@@ -7,7 +7,7 @@ chapter: 2
 chapter_title: "Blockchain Beni Nasıl Etkileyecek?"
 order: 209
 permalink: /Sorularla_Blockchain/bolum-2/sanat/
-description: "Mona Lisa’nın bir parçasına sahip olmak ister misiniz? Yakın zamanda mümkün olacak gibi görünüyor."
+description: "Blockchain, bir sanat eserinin parçalara bölünüp yatırımcılara satılmasını ve her parçanın sahipliğinin kayıt altına alınmasını sağlayabiliyor; dijital eserlerin sahipliği ve kopya sayısı da değiştirilemez biçimde kaydedilebiliyor. Müzikte, komisyonları düşüren ve lisans ile dağıtımı sanatçıya bırakan sistemler deneniyordu. 2019’da bu örnekler çok yeni ve deneyseldi."
 ---
 
 *Mona Lisa’nın bir parçasına sahip olmak ister misiniz? Yakın zamanda mümkün olacak gibi görünüyor.*

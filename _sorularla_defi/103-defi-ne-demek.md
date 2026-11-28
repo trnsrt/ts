@@ -7,7 +7,7 @@ chapter: 1
 chapter_title: "Nedir DeFi?"
 order: 103
 permalink: /Sorularla_DeFi/bolum-1/defi-ne-demek/
-description: "DeFi (Decentralized Finance) ya da Türkçe çevirisiyle “merkeziyetsiz finans”, özünde günümüzdeki finans sisteminde yaşanan sıkıntıların nedeninin, bu…"
+description: "DeFi (merkeziyetsiz finans), bankalar gibi mevcut finans aktörlerinin yapısını sorun olarak gören ve yerine kökten farklı bir sistem kurmaya çalışan bir hareket. Aracıların verdiği hizmeti dağıtık yapılara kaydırıyor: işlemleri merkezi bir kurum değil, akıllı kontrat denen küçük yazılımlar yürütüyor. Amaç, hizmeti veren ile alan arasındaki ilişkide gücü olabildiğince bireye vermek."
 ---
 
 DeFi (Decentralized Finance) ya da Türkçe çevirisiyle “merkeziyetsiz finans”, özünde günümüzdeki finans sisteminde yaşanan sıkıntıların nedeninin, bu alandaki aktörlerinin mevcut yapıları olduğunu düşünen ve buna karşı kökten farklı bir sistem ortaya koymaya çalışan harekete verilen ad.

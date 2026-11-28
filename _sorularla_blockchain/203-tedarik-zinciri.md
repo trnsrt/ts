@@ -7,7 +7,7 @@ chapter: 2
 chapter_title: "Blockchain Beni Nasıl Etkileyecek?"
 order: 203
 permalink: /Sorularla_Blockchain/bolum-2/tedarik-zinciri/
-description: "Değişik sektörlerde Blockchain bazlı teknolojilerin açabileceği vizyon bakmaya devam edeceğiz."
+description: "Tedarik zincirinde taşıyıcı, gümrük, sigorta gibi çok sayıda taraf birbirine güvenemediği için bir ürün çok sayıda onay ve bilgi alışverişinden geçiyor. İşlemler Blockchain’de şeffaf ve değiştirilemez tutulursa bürokrasi ve hatalar azalabiliyor, denetim kolaylaşıyor, bozulabilir ürünlerin kaynağı hızla bulunabiliyor. 2019’da asıl engel, tarafların birbirinin girdiği bilgiye güvenmemesiydi."
 ---
 
 *Değişik sektörlerde Blockchain bazlı teknolojilerin açabileceği vizyon bakmaya devam edeceğiz. Ama şimdi tüm sektörlere dokunan tedarik zincirlerinde Blockchain bazlı olarak nitelendirdiğimiz dağıtık merkezli teknolojiler neler getirebilir kısaca ona bir bakalım…*

@@ -7,7 +7,7 @@ chapter: 3
 chapter_title: "Web3 Ekonomisinin Aktörleri"
 order: 304
 permalink: /Sorularla_Web3/bolum-3/gelistiriciler/
-description: "Bu kısımda Web3 dünyasının lokomotifi olan geliştiriciler tarafında yaşanan değişimlere göz atacağız."
+description: "Electric Capital’ın 2024 Developer Report’una göre kripto alanındaki geliştirici sayısı 2015’ten beri yılda ortalama %39 artış gösterdi, ancak 2023 ve 2024’te azaldı; 2024’teki azalış yaklaşık %7. Buna karşın iki yıldan uzun süredir sektörde olan tecrübeli geliştiriciler arttı (%27) ve yazılan kodun %70’ini üretiyor. Ethereum geliştirici sayısında lider; büyük ağlar içinde en çok geliştirici çeken Solana."
 ---
 
 Bu kısımda Web3 dünyasının lokomotifi olan geliştiriciler tarafında yaşanan değişimlere göz atacağız.

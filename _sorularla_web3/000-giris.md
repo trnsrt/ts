@@ -7,7 +7,7 @@ chapter: 0
 chapter_title: "Giriş"
 order: 0
 permalink: /Sorularla_Web3/giris/
-description: "Dijitalleşmenin etkilerini her geçen gün daha derinden hissettiğimiz bir çağda yaşıyoruz."
+description: "Sorularla Web3, Turan Sert’in üçüncü kitabı ve Web3’ü soru-cevap biçiminde anlatan bir rehber; İngilizce baskısı Web3 Unlocked. Kitap, web’in tarihçesinden Web3 ekonomisinin yapı taşlarına, bu ekonominin aktörlerinden uygulama alanlarına ve tokenleştirmeye, oradan Web3’in geleceğine uzanıyor. Tamamı burada, bölüm bölüm ücretsiz okunabiliyor."
 ---
 
 Merhaba!

@@ -7,7 +7,7 @@ chapter: 4
 chapter_title: "Exploring Web3 in Everyday Life"
 order: 413
 permalink: /Web3_Unlocked/chapter-4/terra-implosion/
-description: "This section dives into the story of Terra’s algorithmic stablecoin UST, which faced a major crisis in May 2022."
+description: "UST was Terra’s algorithmic stablecoin, backed solely by its native cryptocurrency LUNA. Anchor Protocol’s 20% yield pushed its supply to $18 billion, but in May 2022, after US Federal Reserve announcements and a market decline, heavy selling broke its dollar peg irreversibly. Unsustainable yields and opaque defense measures eroded trust, showing the importance of adhering strictly to Web3 principles."
 ---
 
 This section dives into the story of Terra’s algorithmic stablecoin UST, which faced a major crisis in May 2022.

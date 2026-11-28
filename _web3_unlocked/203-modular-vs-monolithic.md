@@ -7,7 +7,7 @@ chapter: 2
 chapter_title: "Key Pillars of the Web3 Economy"
 order: 203
 permalink: /Web3_Unlocked/chapter-2/modular-vs-monolithic/
-description: "Two competing philosophies are shaping the future of blockchain infrastructure: the monolithic and the modular approach."
+description: "A blockchain must perform four jobs: execution, consensus, settlement and data availability. In the monolithic approach a single chain does all of them, like Apple’s integrated ecosystem; in the modular approach specialized layers handle each job, like Android. Bitcoin and Solana are monolithic, while Layer 2 rollups on Ethereum are an example of the modular approach."
 ---
 
 Two competing philosophies are shaping the future of blockchain infrastructure: the monolithic and the modular approach. Let's explore what they are and, more importantly, why they matter.

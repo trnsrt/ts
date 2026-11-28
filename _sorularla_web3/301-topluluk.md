@@ -7,7 +7,7 @@ chapter: 3
 chapter_title: "Web3 Ekonomisinin Aktörleri"
 order: 301
 permalink: /Sorularla_Web3/bolum-3/topluluk/
-description: "Bu kısımda Web3’ün en önemli parçalarından biri olan topluluktan bahsedeceğiz."
+description: "Web3’te girişimi yalnızca kurucu ekip ve yatırımcılar değil; kullanıcılar, geliştiriciler ve madenciler/onaylayıcılar da büyütüyor, bu yüzden topluluk öne çıkıyor. Bu topluluklar, blokzincir üzerinde kurulup yönetilen organizasyonlar olan DAO’lar (Decentralized Autonomous Organization) içinde örgütleniyor ve katkılarının karşılığını girişimin çıkardığı tokenlerle alıyor. Tokenler, sahiplerine projenin yönü konusunda söz hakkı da veriyor."
 ---
 
 Bu kısımda Web3’ün en önemli parçalarından biri olan topluluktan bahsedeceğiz.

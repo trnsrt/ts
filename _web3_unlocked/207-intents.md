@@ -7,7 +7,7 @@ chapter: 2
 chapter_title: "Key Pillars of the Web3 Economy"
 order: 207
 permalink: /Web3_Unlocked/chapter-2/intents/
-description: "Web3's power has long been trapped behind a wall of complexity, making it intimidating for most people to use."
+description: "Intents let users declare the outcome they want, such as swapping 1 ETH for the most USDC possible, instead of managing each step. Competing agents called solvers find the best way to execute it, and assets stay in the user’s wallet until the deal is done. Across Protocol and Uniswap X are early examples."
 ---
 
 Web3's power has long been trapped behind a wall of complexity, making it intimidating for most people to use. But a fundamental shift is happening, driven by a simple yet powerful idea.

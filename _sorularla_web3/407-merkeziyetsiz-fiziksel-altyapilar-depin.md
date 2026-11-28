@@ -7,7 +7,7 @@ chapter: 4
 chapter_title: "Web3’ün Uygulama Alanları"
 order: 407
 permalink: /Sorularla_Web3/bolum-4/merkeziyetsiz-fiziksel-altyapilar-depin/
-description: "Bu kısımda önümüzdeki bir değil belki on yıl boyunca çok konuşulacak konulardan olan merkeziyetsiz fiziksel altyapı dünyasına bakacağız."
+description: "DePIN (Decentralized Physical Infrastructure Network, Türkçesiyle Merkeziyetsiz Fiziksel Altyapı Ağları), merkezi kurumların egemenliğindeki altyapıyı merkeziyetsiz hale getirmeye çalışan bir hareket. Örnekleri Filecoin (veri depolama), Helium (Wi-Fi ve mobil telefon) ve Hivemapper (harita). Zorlukları donanım maliyeti, sürdürülebilir token modeli ve yeni kullanıcı çekmek; bu tür fiziki altyapı alanlarının gelişmesi için onlarca yıla ihtiyaç var."
 ---
 
 Bu kısımda önümüzdeki bir değil belki on yıl boyunca çok konuşulacak konulardan olan merkeziyetsiz fiziksel altyapı dünyasına bakacağız.

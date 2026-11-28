@@ -7,7 +7,7 @@ chapter: 2
 chapter_title: "Blockchain Beni Nasıl Etkileyecek?"
 order: 208
 permalink: /Sorularla_Blockchain/bolum-2/sosyal-fayda/
-description: "Bu bölümde, finansın soğuk ve rakam dolu dünyasından biraz uzaklaşarak, Blockchain’in dünyayı daha güzelleştirecek filantropi ve insani yardım işleri için…"
+description: "Blockchain, yardım ve bağış işlerinde aracıya duyulan güven ihtiyacını azaltabiliyor: kuponların ve bağışların izlediği yol değiştirilemez biçimde tutuluyor ve anlık izlenebiliyor. Bu, bürokrasi, kâğıt ve banka komisyonu masraflarını azaltıyor, bağışçının paranın nerede kullanıldığını görmesini sağlıyor. Mültecilerin işlem kayıtlarının kredi geçmişi oluşturabileceği de düşünülüyor."
 ---
 
 *Bu bölümde, finansın soğuk ve rakam dolu dünyasından biraz uzaklaşarak, Blockchain’in dünyayı daha güzelleştirecek filantropi ve insani yardım işleri için nasıl kullanıldığına bakalım dilerseniz.*

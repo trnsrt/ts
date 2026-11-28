@@ -7,7 +7,7 @@ chapter: 3
 chapter_title: "Web3 Ekonomisinin Aktörleri"
 order: 306
 permalink: /Sorularla_Web3/bolum-3/kullanicilar/
-description: "Bu kısımda Web3 ekosisteminin olmazsa olmazı olan kullanıcılardan bahsedeceğiz."
+description: "Web3’ün kaç kişi tarafından kullanıldığını bilmek zor, çünkü kullanıcılar adreslerle işlem yapıyor ve anonim kalmayı tercih ediyor. Bugüne kadar kitle ağırlıkla erken dönem kullanıcılardan oluştu: teknolojinin felsefesine inananlar ile kazanç isteyenler (uzun vadeli yatırımcılar, spekülasyon yapanlar, airdrop peşindekiler). Daha fazla kullanıcıya ulaşmak için daha iyi kullanıcı deneyimi, yeni nesil cüzdanlar ve ürün-pazar uyumu gerekiyor."
 ---
 
 Bu kısımda Web3 ekosisteminin olmazsa olmazı olan kullanıcılardan bahsedeceğiz.

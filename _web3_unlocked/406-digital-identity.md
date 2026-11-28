@@ -7,7 +7,7 @@ chapter: 4
 chapter_title: "Exploring Web3 in Everyday Life"
 order: 406
 permalink: /Web3_Unlocked/chapter-4/digital-identity/
-description: "One of the most important conversations in Web3 revolves around a concept that is fundamental to our online lives, yet completely broken: digital identity."
+description: "Digital identity today is a set of separate identities issued by governments, banks and social media platforms and stored in central databases, which exposes them to hackers and to the exploitation of user data. Blockchain-based Self-Sovereign Identity (SSI) lets users hold credentials in their own wallet and prove facts about themselves without revealing the underlying personal data."
 ---
 
 One of the most important conversations in Web3 revolves around a concept that is fundamental to our online lives, yet completely broken: digital identity.

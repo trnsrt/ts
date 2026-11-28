@@ -7,7 +7,7 @@ chapter: 4
 chapter_title: "Web3’ün Uygulama Alanları"
 order: 417
 permalink: /Sorularla_Web3/bolum-4/crypto-climate-coalition/
-description: "Bu kısımda, geleneksel dünyanın Web3 ile harmanlandığında dünyayı nasıl güzelleştirebildiğini gösteren bir örnek olan Lemonade Crypto Climate Coalition’dan…"
+description: "Lemonade Crypto Climate Coalition (LCCC), Lemonade Foundation’ın kurduğu ve Mart 2022’de lansmanı yapılan bir DAO. Amacı, değişen iklim koşullarının geçimini çiftçilikle sağlayan yoksul insanlar üzerindeki etkisini azaltacak bir sigortacılık hizmeti sunmak. Sigortalı alanlara yağan yağmur bilgisi akıllı kontratlara aktarılacak; sel ya da kuraklıkta tazminat, çiftçinin başvurusuna gerek kalmadan otomatik olarak ödenecek."
 ---
 
 Bu kısımda, geleneksel dünyanın Web3 ile harmanlandığında dünyayı nasıl güzelleştirebildiğini gösteren bir örnek olan Lemonade Crypto Climate Coalition’dan bahsedeceğiz.

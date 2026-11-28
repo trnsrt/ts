@@ -7,7 +7,7 @@ chapter: 5
 chapter_title: "Bitcoin"
 order: 504
 permalink: /Sorularla_Blockchain/bolum-5/bitcoin-genis-kitlelere-nasil/
-description: "Bitcoin’in şu anki spekülasyonları bir kenara bırakırsak ileride bir değeri olup olmayacağına geniş kitleler tarafından kullanılıp kullanılmayacağı karar…"
+description: "Bitcoin’in geniş kitlelere yayılmasının önündeki en büyük engel kendi teknik kısıtları: 2019’da saniyede en fazla 7 işlem yapılabiliyordu, bu yüzden mikro ödemeler yavaş kalıyordu. Geliştiriciler Bitcoin’i bilerek yavaş geliştiriyor: ana katmanın dijital para olarak kalması, yeni işlevlerin üzerine kurulan katmanlarla sunulması hedefleniyor. Mikro işlemler için ikinci katman olarak Lightning Network yaratıldı."
 ---
 
 *Bitcoin’in şu anki spekülasyonları bir kenara bırakırsak ileride bir değeri olup olmayacağına geniş kitleler tarafından kullanılıp kullanılmayacağı karar verecek.*

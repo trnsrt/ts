@@ -7,7 +7,7 @@ chapter: 4
 chapter_title: "DeFi Dünyasına Adım Atacaklar İçin Pratik Bilgiler"
 order: 403
 permalink: /Sorularla_DeFi/bolum-4/token-satin-alma/
-description: "Bundan önceki bölümlerde DeFi dünyasına ilk girişte ihtiyaç duyulan cüzdanlardan bahsetmiştik."
+description: "DeFi tokenleri merkezi ya da merkeziyetsiz borsalardan alınabiliyor. Merkezi borsalar yalnızca en çok kullanılan tokenleri sunuyor ve orada tutulan paralar borsaya verilmiş emanet sayılıyor. Merkeziyetsiz borsalarda ise isteyen herkes, cüzdanını bağlayarak ek belge vermeden işlem yapabiliyor; her DeFi girişimi de kendi tokenini bu borsalarda dolaşıma sokabiliyor."
 ---
 
 Bundan önceki bölümlerde DeFi dünyasına ilk girişte ihtiyaç duyulan cüzdanlardan bahsetmiştik. Cüzdan kurduktan sonra DeFi dünyası tokenleri ile alım satım nasıl yapılır ona da bu bölümde bakacağız:

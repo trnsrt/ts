@@ -7,7 +7,7 @@ chapter: 5
 chapter_title: "Bitcoin"
 order: 501
 permalink: /Sorularla_Blockchain/bolum-5/bitcoin-ne-tam-olarak/
-description: "Blockchain ile ilgili bir parça okuduysanız, Blockchain teknolojisi üzerine kurulan onlarca hatta yüzlerce kripto para olduğunu göreceksiniz."
+description: "Bitcoin, kripto teknolojisini ve bir uzlaşma mekanizmasını birleştirerek merkezi yapıya duyulan ihtiyacı ortadan kaldıran dijital para. Makineler işlemleri yaklaşık 10 dakikada bir paket halinde onaylıyor ve karşılığında Bitcoin ödülü alıyor; zor bir bulmaca, sistemi ele geçirmeyi çok pahalı kılıyor. Bitcoin’in yaratımı kısıtlı olduğu için en çok altına benzetiliyor."
 ---
 
 *Blockchain ile ilgili bir parça okuduysanız, Blockchain teknolojisi üzerine kurulan onlarca hatta yüzlerce kripto para olduğunu göreceksiniz. Ancak herkesin dilinde Bitcoin var.*

@@ -7,7 +7,7 @@ chapter: 5
 chapter_title: "Exploring Tokenization"
 order: 501
 permalink: /Web3_Unlocked/chapter-5/tokens/
-description: "To understand the Web3 economy, you first need to understand its core building block: the token. A token is a digital representation of ownership."
+description: "A token is a digital representation of ownership, from a piece of a company to a title to a house. Technically it is a small piece of code, a smart contract, and its key property is that it is programmable. Standards include fungible (ERC-20), non-fungible (ERC-721) and hybrid (ERC-1155) tokens; every coin is a type of token."
 ---
 
 To understand the Web3 economy, you first need to understand its core building block: the token.

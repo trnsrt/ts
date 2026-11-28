@@ -7,7 +7,7 @@ chapter: 4
 chapter_title: "Web3’ün Uygulama Alanları"
 order: 403
 permalink: /Sorularla_Web3/bolum-4/nft-dunyasi/
-description: "Bu kısımda 2020’li yılların başında herkesin dilindeyken yaşanan krizlerin etkisiyle heyecanını kaybeden ama uzun vadede önemli Web3 alanlarından biri…"
+description: "NFT (Non-Fungible-Token), tekil (eşsiz) dijital varlık anlamına geliyor. Dijital ürünler kolayca kopyalanabildiği için sahiplik artık tek kopyaya sahip olmak değil, sahipliği blokzincire yazıp ilan etmek. NFT’ler orijinalliğin teyidini ve transferini ucuzlatıyor, geçmiş sahiplerin takibini mümkün kılıyor, sanatçıya sonraki satışlardan otomatik telif ödemesi sağlayabiliyor."
 ---
 
 Bu kısımda 2020’li yılların başında herkesin dilindeyken yaşanan krizlerin etkisiyle heyecanını kaybeden ama uzun vadede önemli Web3 alanlarından biri olmaya devam edecek olan NFT dünyasının kapılarını aralayacağız.

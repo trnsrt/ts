@@ -7,7 +7,7 @@ chapter: 3
 chapter_title: "Web3 Ekonomisinin Aktörleri"
 order: 303
 permalink: /Sorularla_Web3/bolum-3/yatirimcilar/
-description: "Web3 girişimcilerinin eskiye oranla ne kadar farklı olduklarına bundan önceki sayfalarda değindik."
+description: "Web3’te girişim sermayelerinin eli, Web 2.0’daki meslektaşlarına göre daha zayıf: masada geliştiriciler ve kullanıcılar da var, hisse yerine token dağıtılıyor ve yatırımcının payı küçülüyor. Ancak zamanla yatırımcılar güçleniyor ve a16z’nin zk (zero-knowledge) araştırmalarında olduğu gibi büyük fonlar belirli alanlarda uzmanlaşıyor."
 ---
 
 Web3 girişimcilerinin eskiye oranla ne kadar farklı olduklarına bundan önceki sayfalarda değindik. Bu girişimci kitlesi ile muhatap olan bu dünyanın yatırımcıları da benzer şekilde felsefe olarak Web 2.0 yatırımcılarından daha farklılar. Nedir bu farklılıklar?

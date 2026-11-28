@@ -7,7 +7,7 @@ chapter: 4
 chapter_title: "Web3’ün Uygulama Alanları"
 order: 405
 permalink: /Sorularla_Web3/bolum-4/merkeziyetsiz-sosyal-medya-desoc/
-description: "Bu kısımda gün geçtikçe daha çok gözümüze batmaya başlayan sosyal medya devlerine alternatif olarak ortaya çıkan merkeziyetsiz sosyal medya platformlarından…"
+description: "Merkeziyetsiz sosyal medya (DeSoc), merkezi sosyal medya devlerinin sorunlarına, yani artan reklamlara, veri toplamaya, algoritmalara, sansüre ve platformsuzlaştırmaya çare olmaya çabalıyor. Temelinde kullanıcının içerik ve ilişkileri üzerinde tam sahipliği var; kullanıcılar içeriğe farklı uygulamalarla ulaşabiliyor. Öne çıkan altyapılar Lens Protocol, Farcaster ve Nostr. Alan henüz büyük medya devlerine kafa tutmaktan uzak."
 ---
 
 Bu kısımda gün geçtikçe daha çok gözümüze batmaya başlayan sosyal medya devlerine alternatif olarak ortaya çıkan merkeziyetsiz sosyal medya platformlarından bahsedeceğiz.

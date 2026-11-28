@@ -7,7 +7,7 @@ chapter: 4
 chapter_title: "DeFi Dünyasına Adım Atacaklar İçin Pratik Bilgiler"
 order: 401
 permalink: /Sorularla_DeFi/bolum-4/ilk-adimlar/
-description: "Günümüz finans dünyasının, son yıllarda kullanıcılarına sunduğu olanaklar müthiş."
+description: "DeFi’yi kullanmak için önce kriptopara gerekiyor; 2021’de bu ağırlıkla Ethereum’un parası ETH’ydi. Kullanıcı itibari parasını, yani devletlerin bastığı parayı, merkezi bir kriptopara borsasında kriptoparaya çeviriyor; ETH’nin yanında dolara çıpalanmış stabil paralar da borsalarda bulunuyor. Sonraki adım, borsadaki kriptoparayı kendi elektronik cüzdana çekmek."
 ---
 
 Günümüz finans dünyasının, son yıllarda kullanıcılarına sunduğu olanaklar müthiş. Bir zamanlar, en ufak bir işlem için banka şubesine taşınmamız gerekirken, internet ve mobil araçlar sayesinde artık her işlem elimizin altında saniyeler içinde yapılabiliyor.

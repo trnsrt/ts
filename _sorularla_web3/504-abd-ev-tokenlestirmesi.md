@@ -7,7 +7,7 @@ chapter: 5
 chapter_title: "Tokenleştirme"
 order: 504
 permalink: /Sorularla_Web3/bolum-5/abd-ev-tokenlestirmesi/
-description: "Bu kısımda 2022 yılında blokzincir üzerinden gerçekleşen bir gayrimenkul token satışının hikayesinden bahsedeceğiz."
+description: "2022’de South Carolina’daki iki katlı bir banliyö evi limited şirket (LLC) haline getirildi, şirketin sahipliği NFT’ye dönüştürülüp kriptopara ile satıldı. Toplam 175.000 USDC ödenen satışı USDC Homes finanse etti. Arada hâlâ pek çok aracı var ve KYC zorunlu; yine de işlem, tokenleştirmede önemli bir deney olarak görülebiliyor."
 ---
 
 Bu kısımda 2022 yılında blokzincir üzerinden gerçekleşen bir gayrimenkul token satışının hikayesinden bahsedeceğiz.

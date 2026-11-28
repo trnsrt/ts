@@ -7,7 +7,7 @@ chapter: 2
 chapter_title: "Web3 Ekonomisinin Yapı Taşları"
 order: 208
 permalink: /Sorularla_Web3/bolum-2/celestia/
-description: "Celestia’yı, bundan önceki satırlarda bir blokzincirin temelde gerçekleştirmesi gereken dört fonksiyon içinden sadece iki tanesini yapmaya aday…"
+description: "Celestia, diğer blokzincirlere hizmet veren modüler bir altyapı zinciri: bir blokzincirin dört temel işlevinden yalnızca ikisini, işlemleri sıralamayı (uzlaşma/consensus) ve işlem yayınlamayı (data publishing) yapmaya aday. İşlem yayınlamayı Ethereum’a göre çok daha ucuza sunuyor ve birçok ikinci seviye ağ bunu kullanmaya başladı. En önemli rakipleri EigenDA ve Avail."
 ---
 
 Celestia’yı, bundan önceki satırlarda bir blokzincirin temelde gerçekleştirmesi gereken dört fonksiyon içinden sadece iki tanesini yapmaya aday basitleştirilmiş bir altyapı blokzinciri olarak tanımladık. Bu iki fonksiyon, aslında son kullanıcıya çok da dokunmayan, yapılan işlemi sıralama (uzlaşma/consensus) ve işlem yayınlama (data publishing) fonksiyonları.

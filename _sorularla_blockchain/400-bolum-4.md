@@ -7,7 +7,7 @@ chapter: 4
 chapter_title: "Blockchain’in Geleceği"
 order: 400
 permalink: /Sorularla_Blockchain/bolum-4/
-description: "Yurtdışında (özellikle ABD’de) çok rastlarız: İnsanlar gelecek için belli öngörülerde bulunurlar ve sonrasında da bu tahminlerinin gerçekleşip…"
+description: "2019’da Blockchain için şu öngörüler yapılıyordu: Web 3.0’ın aracılara olan ihtiyacı ortadan kaldırıp gücü kullanıcılara vereceği, kısa vadede yönetim şekli, finansman modelleri, özel Blockchain girişimleri ve karşılıklı çalışılabilirliğin (interoperability) en çok tartışılacak konular olacağı. Polkadot ve Cosmos gibi girişimlerin ilerleyen yıllarda sık sık duyulacağı öngörülüyordu."
 ---
 
 Yurtdışında (özellikle ABD’de) çok rastlarız: İnsanlar gelecek için belli öngörülerde bulunurlar ve sonrasında da bu tahminlerinin gerçekleşip gerçekleşmediğine bakarlar. Hatalarını da göğüslerini gere gere söylerler.

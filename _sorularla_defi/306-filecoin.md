@@ -7,7 +7,7 @@ chapter: 3
 chapter_title: "DeFi’nin Altyapı Taşları"
 order: 306
 permalink: /Sorularla_DeFi/bolum-3/filecoin/
-description: "Bu bölümde gelin merkeziyetsiz dünyanın veri saklayıcısı olma yolunda ilerleyen Filecoin’e bakalım hep birlikte."
+description: "Filecoin, blokzincire sığmayan büyük dosyaları, örneğin NFT’lerin işaret ettiği dijital eserleri, aracı olmadan şifreli ve dağıtık biçimde saklayan merkeziyetsiz bir veri saklama ağı; 2014’te Protocol Labs kurdu. Madenciler veri saklıyor, istenince iletiyor ve karşılığında FIL tokeni kazanıyor. Sözünü tutmayan madencinin teminatı yanıyor."
 ---
 
 Bu bölümde gelin merkeziyetsiz dünyanın veri saklayıcısı olma yolunda ilerleyen Filecoin’e bakalım hep birlikte.

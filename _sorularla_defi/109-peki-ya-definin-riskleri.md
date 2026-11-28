@@ -7,7 +7,7 @@ chapter: 1
 chapter_title: "Nedir DeFi?"
 order: 109
 permalink: /Sorularla_DeFi/bolum-1/peki-ya-definin-riskleri/
-description: "Peki ya DeFi’nin riskleri yok mu? Olmaz mı? Hem de istemediğiniz kadar. Neler diye merak ediyorsanız sizi şuraya alalım: Risk hayatın bir parçası."
+description: "DeFi’nin başlıca riskleri akıllı kontrat hataları, birlikte çalışan ürünlerin zincirleme etkilenmesi, küçük ekiplerin yönetici anahtarları, merkezi borsaların yönetimde orantısız güç kazanması, kriptoparaların inişli çıkışlı olması, manipüle edilebilen dış veriler (oracle) ve altyapının ölçeklenmesi. Korunmak için kendi araştırmayı yapmak, dış denetimden geçmiş projelere bakmak ve sigortadan yararlanmak öneriliyor."
 ---
 
 Peki ya DeFi’nin riskleri yok mu? Olmaz mı? Hem de istemediğiniz kadar. Neler diye merak ediyorsanız sizi şuraya alalım:

@@ -7,7 +7,7 @@ chapter: 3
 chapter_title: "Meet the People Powering Web3"
 order: 301
 permalink: /Web3_Unlocked/chapter-3/community/
-description: "If you want to understand what makes Web3 different, start with the community. It’s the single most significant departure from the startup world we once knew."
+description: "In Web3 a startup is grown not only by its founders and investors but also by users, developers and miners or validators, which is why community comes first. These communities organize as DAOs (Decentralized Autonomous Organizations), governed by rules encoded on the blockchain, and are rewarded with the project’s tokens. Tokens also give holders a say in its direction."
 ---
 
 If you want to understand what makes Web3 different, start with the community. It’s the single most significant departure from the startup world we once knew.

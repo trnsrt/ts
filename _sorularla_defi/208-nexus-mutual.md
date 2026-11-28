@@ -7,7 +7,7 @@ chapter: 2
 chapter_title: "DeFi Dünyasının Aktörleri"
 order: 208
 permalink: /Sorularla_DeFi/bolum-2/nexus-mutual/
-description: "Nexus Mutual, DeFi dünyasına çok ihtiyaç duyulan sigortalamayı getirmeye çalışan girişimlerin en büyüğü."
+description: "Nexus Mutual, DeFi platformlarına karşı koruma (coverage) satan, merkeziyetsiz bir sigorta girişimi. Üye, korunmak istediği platformu, süreyi ve miktarı seçip prim ödüyor; primler ve tazminatlar, sahipliği NXM tokeniyle gösterilen ortak bir havuz üzerinden işliyor. Hasar taleplerini NXM sahipleri değerlendiriyor, onaylanırsa akıllı kontrat tazminatı ödüyor."
 ---
 
 [Nexus Mutual](https://nexusmutual.io/), DeFi dünyasına çok ihtiyaç duyulan sigortalamayı getirmeye çalışan girişimlerin en büyüğü. Gelin önce hep birlikte Nexus Mutual’a ekonomik ve potansiyel olarak bakalım sonra da teknik olarak sistem nasıl çalışıyor, tokeni [NXM](https://www.coingecko.com/en/coins/nexus-mutual) nasıl fiyatlanıyor konularına değiniriz.

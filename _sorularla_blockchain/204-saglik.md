@@ -7,7 +7,7 @@ chapter: 2
 chapter_title: "Blockchain Beni Nasıl Etkileyecek?"
 order: 204
 permalink: /Sorularla_Blockchain/bolum-2/saglik/
-description: "Hasta hayatını kurtarabilecek bilginin hızlı paylaşımı ya da maliyet yaratan bürokrasinin azaltılması gibi konularda Blockchain bazlı girişimler sağlık…"
+description: "Blockchain’in sağlıkta öne çıkan kullanımları, hasta kayıtlarının korunması, saklanması ve güvenli paylaşılması ile ilaç zincirindeki sahteciliğin ve kaçakların önlenmesi. Kayıtlar şifreli saklanabiliyor ve hasta hangi kuruluşun ne ölçüde erişeceğine kendisi karar verebiliyor; bu da acil durumlarda hızlı müdahaleyi kolaylaştırabiliyor. 2019’da veri paylaşımında oturmuş bir standart yoktu."
 ---
 
 *Hasta hayatını kurtarabilecek bilginin hızlı paylaşımı ya da maliyet yaratan bürokrasinin azaltılması gibi konularda Blockchain bazlı girişimler sağlık sektörünün oyuncuları olan hasta, hastane, sigorta ve ilaç şirketlerine yeni açılımlar getirebilir.*

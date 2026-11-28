@@ -7,7 +7,7 @@ chapter: 3
 chapter_title: "Teknik Olarak Blockchain"
 order: 301
 permalink: /Sorularla_Blockchain/bolum-3/sifreleme/
-description: "Blockchain sistemlerinin güvenli bir şekilde çalışmasının en kritik noktası şifreleme. Peki bu ne anlama geliyor?"
+description: "Blockchain’de şifreleme iki iş görüyor. Öğütme (hashing), girdiden sabit uzunlukta (SHA-256’da 64 karakter) ve geri çevrilemeyen bir sonuç üretiyor; böylece bilginin herkeste aynı ve değiştirilmemiş olduğu görülüyor. Özel ve genel anahtar ise işlemin gerçekten varlığın sahibinden geldiğini gösteriyor. İşlemler açık, kişisel bilgiler gizli kalıyor."
 ---
 
 ## Baştan başlayalım: Şifreleme ne demek? Neden önemli? {#bastan-baslayalim-sifreleme-ne-demek-neden-onemli}

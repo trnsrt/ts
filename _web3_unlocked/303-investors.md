@@ -7,7 +7,7 @@ chapter: 3
 chapter_title: "Meet the People Powering Web3"
 order: 303
 permalink: /Web3_Unlocked/chapter-3/investors/
-description: "Just as the founders have changed, so have the investors who back them."
+description: "In Web3 the venture capitalist’s hand is weaker than in the Web 2.0 era: developers, ecosystem partners and users all want a share of the value, tokens replace shares, and the VC’s slice gets smaller. But the pendulum is swinging back: investors are gaining strength and specializing, as a16z has in zero-knowledge research."
 ---
 
 Just as the founders have changed, so have the investors who back them. The old rules of venture capital no longer apply in a world where power is shifting away from the boardroom and into the hands of the community.

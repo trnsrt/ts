@@ -7,7 +7,7 @@ chapter: 4
 chapter_title: "Web3’ün Uygulama Alanları"
 order: 416
 permalink: /Sorularla_Web3/bolum-4/2023-abd-bankacilik-krizi/
-description: "Bu kısımda, 2023 yılı başında ABD’de batan üç bankanın hikayesinden yola çıkarak finansal piyasalarda bizi nelerin beklediğini anlamaya çalışacağız."
+description: "ABD’de 2023 başında Silvergate, Silicon Valley Bank ve Signature Bank kapandı. FED’in faizleri hızla artırması bankaların elindeki bonoların değerini düşürdü, müşteriler de paralarını çekmeye başladı; kripto ve teknoloji müşterilerine dayanan üç bankada etki daha sert oldu. Yetkililer mevduatlara sınırsız garanti getirdi. Sorun batık krediler değil, bono zararları ve risk yönetimindeki başarısızlık."
 ---
 
 Bu kısımda, 2023 yılı başında ABD’de batan üç bankanın hikayesinden yola çıkarak finansal piyasalarda bizi nelerin beklediğini anlamaya çalışacağız.

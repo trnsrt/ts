@@ -7,7 +7,7 @@ chapter: 2
 chapter_title: "DeFi Dünyasının Aktörleri"
 order: 205
 permalink: /Sorularla_DeFi/bolum-2/yearn-finance/
-description: "Kriptoparalar pek çok insan için oldukça teknik ve karışık. Sıradan bir kriptopara borsasına girmeye çalışsanız bile bir sürü prosedürden geçmek zorundasınız."
+description: "Yearn, kullanıcının parasını belirlenmiş yatırım stratejileri doğrultusunda otomatik değerlendirmeye çalışan bir ‘merkeziyetsiz portföy yönetimi’ protokolü; hedefi geliri maksimize etmek değil, riski minimize ederek makul getiri sağlamak. İlk ürünü Earn parayı borç verme protokolleri arasında gezdirip en yüksek getiriyi arıyordu; yVault ise getiri çiftçiliğinden de kazanmaya çalıştığı için daha riskliydi."
 ---
 
 Kriptoparalar pek çok insan için oldukça teknik ve karışık. Sıradan bir kriptopara borsasına girmeye çalışsanız bile bir sürü prosedürden geçmek zorundasınız. Merkeziyetsiz finans alanında durum daha da içler acısı. Neden? Sıralayalım.

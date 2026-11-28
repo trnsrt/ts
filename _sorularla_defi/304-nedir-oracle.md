@@ -7,7 +7,7 @@ chapter: 3
 chapter_title: "DeFi’nin Altyapı Taşları"
 order: 304
 permalink: /Sorularla_DeFi/bolum-3/nedir-oracle/
-description: "Oracle’ın tam Türkçe karşılığı biraz karışık; “kahin” ya da “uzman” olarak çevrilebilir. Peki ne işe yarar?"
+description: "Oracle (kahin ya da uzman), akıllı kontratların ihtiyaç duyduğu blokzincir dışı bilgiyi, örneğin token fiyatlarını, onlara sağlayan yapı. Merkezi bir kaynak manipülasyona açık olduğu için merkeziyetsiz oracle ağlarında bir üye bilgiyi dış kaynaktan aktarıyor, diğer üyeler doğruluğunu teyit ediyor. 2021 itibarıyla bu alanın en büyük oyuncusu Chainlink’ti."
 ---
 
 Oracle’ın tam Türkçe karşılığı biraz karışık; “kahin” ya da “uzman” olarak çevrilebilir. Peki ne işe yarar?

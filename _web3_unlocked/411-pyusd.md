@@ -7,7 +7,7 @@ chapter: 4
 chapter_title: "Exploring Web3 in Everyday Life"
 order: 411
 permalink: /Web3_Unlocked/chapter-4/pyusd/
-description: "Just as the crypto world seemed to be sinking under the weight of regulatory pressure in the US, a glimmer of light appeared."
+description: "PYUSD is PayPal’s US dollar-pegged stablecoin, with infrastructure managed by Paxos under New York’s financial laws. It is backed by dollars in a bank, but because it is issued by a centralized company and fully programmable, the issuer can freeze coins even in personal wallets. Its key distinction is protection from issuer bankruptcy: reserves sit in a bankruptcy-remote trust account."
 ---
 
 Just as the crypto world seemed to be sinking under the weight of regulatory pressure in the US, a glimmer of light appeared. In mid-2023, amidst a storm of legal crackdowns and hostile rhetoric, FinTech giant PayPal [announced](https://newsroom.paypal-corp.com/2023-08-07-PayPal-Launches-U-S-Dollar-Stablecoin) its own stablecoin: PYUSD. This wasn't just another coin; it was a move by a pillar of the traditional finance world, a potential turning point for the entire industry. What led PayPal to dive in, and what does it signal for the future of money?

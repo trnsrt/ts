@@ -7,7 +7,7 @@ chapter: 1
 chapter_title: "Nedir DeFi?"
 order: 110
 permalink: /Sorularla_DeFi/bolum-1/defide-regulasyon-olur-mu/
-description: "Merkeziyetsiz Finans alanında en çetrefilli konulardan bir tanesi regülasyonlar."
+description: "Klasik finans kurumları müşteri varlığını emanet aldığı ve coğrafi sınırlar içinde çalıştığı için regülasyona tabi; DeFi ürünleri varlığı emanet almıyor ve dijital dünyada fiziki sınır yok, bu yüzden bir ülke tarafından regüle edilmesi zor görünüyor. Dünya Ekonomik Forumu’nun Mayıs 2021 el kitabı hoşgörüden yasaklamaya, yeni lisans türlerine kadar dokuz seçenek sıralıyor."
 ---
 
 Merkeziyetsiz Finans alanında en çetrefilli konulardan bir tanesi regülasyonlar. Gelin bu bölümümüzde neden zor olduğuna bakalım ve yakınlarda yayınlanmış bir kaynağı referans alarak regülasyon konusunda temel çerçeve çıkarmaya çalışalım.

@@ -7,7 +7,7 @@ chapter: 4
 chapter_title: "Web3’ün Uygulama Alanları"
 order: 408
 permalink: /Sorularla_Web3/bolum-4/onarici-finans-refi/
-description: "Bu kısımda, Web3’ün kendini farklı bir misyona adamış bir kolu olan onarıcı (yenileyici) finans (ReFi)’den bahsedeceğiz."
+description: "Onarıcı finans (Regenerative Finance, ReFi), finansa yeni bir bakış açısı getirmeyi hedefleyen bir hareket. Amaç, doğayı ve çevreyi onararak toplumun refahını artırmak; değerin yalnızca kapital sahiplerine değil topluluklara ve çevreye de aktığı bir dünya kurmak. Blokzincirden yararlanıyor ve karbon kredileri ile sürdürülebilir tarım gibi alanlarda örnekleri var, ama kullanım alanları henüz konsept aşamasında."
 ---
 
 Bu kısımda, Web3’ün kendini farklı bir misyona adamış bir kolu olan onarıcı (yenileyici) finans (ReFi)’den bahsedeceğiz.

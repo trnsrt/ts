@@ -7,7 +7,7 @@ chapter: 3
 chapter_title: "Meet the People Powering Web3"
 order: 302
 permalink: /Web3_Unlocked/chapter-3/founders/
-description: "The teams building the future of the internet look and operate differently than their traditional tech counterparts."
+description: "Web3 founding teams are loosely connected individuals, many of whom have never met in person, and members may stay anonymous. Projects are open source, so users trust code anyone can audit, not the people. It keeps teams lean and launches fast: in its early days, Uniswap hit a multi-billion dollar market capitalization with a core team of just 11 people."
 ---
 
 The teams building the future of the internet look and operate differently than their traditional tech counterparts. Forget the stereotypical startup grind; Web3 is forging a new model for entrepreneurship.

@@ -7,7 +7,7 @@ chapter: 5
 chapter_title: "Tokenleştirme"
 order: 501
 permalink: /Sorularla_Web3/bolum-5/tokenler/
-description: "Bu kısımda sık duyduğumuz ve Web3 dünyasının ekonomisini oluşturan token kavramını anlamaya çalışacağız."
+description: "Token, dijital dünyada başka herhangi bir dijital ya da fiziki varlığın sahipliğini gösteren varlık. Teknik olarak dijital sahipliği gösteren ufak bir kod parçacığı, yani akıllı kontrat; en önemli yanı programlanabilir olması. Başlıca üç standart, değiştirilebilir tokenler için ERC-20, tekil tokenler (NFT) için ERC-721 ve hibrit yapıdaki ERC-1155; coin ise token kavramının bir alt kümesi."
 ---
 
 Bu kısımda sık duyduğumuz ve Web3 dünyasının ekonomisini oluşturan token kavramını anlamaya çalışacağız.

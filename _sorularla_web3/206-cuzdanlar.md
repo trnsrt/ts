@@ -7,7 +7,7 @@ chapter: 2
 chapter_title: "Web3 Ekonomisinin Yapı Taşları"
 order: 206
 permalink: /Sorularla_Web3/bolum-2/cuzdanlar/
-description: "Bu kısımda, önce kripto dünyasını dolaşırken elimiz ayağımız olan cüzdanların kullanımında yaşanan sorunlara değineceğiz."
+description: "Dijital cüzdan, Web3 ve diğer merkeziyetsiz sistemlere ulaşmanın temel yolu olan, blokzincire erişim sağlayan bir uygulama. Ethereum dünyasındaki basit cüzdanlarda (EOA) tek bir özel anahtar var; 12 ya da 24 kelime ve cihaz birlikte kaybolursa varlıklar kurtarılamıyor. Akıllı kontrat cüzdanları (Account Abstraction) ise programlanabilir olduğu için çoklu anahtar, sosyal kurtarma ve çoklu imza gibi özellikler sunuyor."
 ---
 
 Bu kısımda, önce kripto dünyasını dolaşırken elimiz ayağımız olan cüzdanların kullanımında yaşanan sorunlara değineceğiz. Sonrasında ise önümüzdeki dönemde bu sorunların nasıl çözüleceğine bakacağız.

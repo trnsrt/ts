@@ -7,7 +7,7 @@ chapter: 2
 chapter_title: "Web3 Ekonomisinin Yapı Taşları"
 order: 205
 permalink: /Sorularla_Web3/bolum-2/kopruler/
-description: "Bu kısmımızda, 2022 yılında yaşanan olaylar nedeniyle çok konuştuğumuz köprüler konusuna değiniyoruz."
+description: "Köprüler, kullanıcının bir blokzincirdeki dijital varlığını orada kilitleyip karşılığında başka bir ağda aynı değerde bir varlık sunan araçlar; yalnızca değer değil, her tür bilgiyi de aktarabiliyorlar. Blokzincirler birbirinden kopuk “adalar” gibi olduğu için, borsa üzerinden dört adımlı geçişe alternatif olarak kullanılıyorlar. Başlıca sıkıntıları akıllı kontrat hataları, merkezi yapı ve henüz sınırlı işlevsellik."
 ---
 
 Bu kısmımızda, 2022 yılında yaşanan olaylar nedeniyle çok konuştuğumuz köprüler konusuna değiniyoruz. İlk cevaplamaya çalışacağımız soru “Blokzincirlerde neden köprülere ihtiyaç duyuyoruz?” olacak.

@@ -7,7 +7,7 @@ chapter: 3
 chapter_title: "DeFi’nin Altyapı Taşları"
 order: 305
 permalink: /Sorularla_DeFi/bolum-3/the-graph/
-description: "Bu bölümde DeFi dünyası oyuncularının data ve analiz ihtiyacını karşılamaya yönelik yeni, ancak önemli bir işlevi yerine getiren The Graph Protocol’den…"
+description: "The Graph, blokzincirlerin ürettiği veriyi toplayıp endeksleyen ve ihtiyaç duyanların sorgulamasına sunan, merkeziyetsizliği hedefleyen bir protokol. Sistemi bağımsız düğümler yürütüyor: endeksçiler veriyi tutuyor, yetkilendiriciler paralarını endeksçilere veriyor, küratörler değerli analizleri önceden kestirip GRT kilitliyor. Sisteme konan para bir güvence: yanlış bilgi veren parasını kaybedebiliyor."
 ---
 
 Bu bölümde DeFi dünyası oyuncularının data ve analiz ihtiyacını karşılamaya yönelik yeni, ancak önemli bir işlevi yerine getiren The Graph Protocol’den bahsedeceğiz.

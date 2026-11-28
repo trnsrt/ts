@@ -7,7 +7,7 @@ chapter: 5
 chapter_title: "Tokenleştirme"
 order: 503
 permalink: /Sorularla_Web3/bolum-5/blackrock-token-hamlesi/
-description: "Bu kısımda, ABD’nin en büyük varlık yöneticilerinden BlackRock’ın Ethereum blokzinciri üzerine kurduğu tokenleştirilmiş menkul kıymet hizmetinden bahsedeceğiz."
+description: "BlackRock, Mart 2024’te Ethereum ağı üzerinde 100 milyon ABD Doları değerinde, BUIDL adlı tokenleştirilmiş bir fon çıkardı. Fonun hisseleri birer dolarlık tokenler halinde blokzincirde işleniyor, geliri her ay token sahiplerine ekstra token olarak gönderiliyor; fon ilk altı ayda 521 milyon dolara ulaştı. BUIDL, Bitcoin ETF’lerinin tersine, klasik dünyayı kriptoya yaklaştıran bir hamle."
 ---
 
 Bu kısımda, ABD’nin en büyük varlık yöneticilerinden BlackRock’ın Ethereum blokzinciri üzerine kurduğu tokenleştirilmiş menkul kıymet hizmetinden bahsedeceğiz.

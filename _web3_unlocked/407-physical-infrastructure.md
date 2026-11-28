@@ -7,7 +7,7 @@ chapter: 4
 chapter_title: "Exploring Web3 in Everyday Life"
 order: 407
 permalink: /Web3_Unlocked/chapter-4/physical-infrastructure/
-description: "In this section, we'll explore one of the most ambitious and important frontiers in Web3, a sector with a decade-long horizon: Decentralized Physical…"
+description: "DePIN (Decentralized Physical Infrastructure Network) is a movement to rebuild physical infrastructure as a decentralized, user-owned alternative to services dominated by giant corporations, using token incentives to reward people who contribute hardware. Examples include Filecoin (storage), Helium (wireless) and Hivemapper (maps). Challenges include costly hardware, token economics and a cold-start problem, and rebuilding physical infrastructure takes decades."
 ---
 
 In this section, we'll explore one of the most ambitious and important frontiers in Web3, a sector with a decade-long horizon: Decentralized Physical Infrastructure, or DePIN.

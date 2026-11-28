@@ -7,7 +7,7 @@ chapter: 4
 chapter_title: "Exploring Web3 in Everyday Life"
 order: 405
 permalink: /Web3_Unlocked/chapter-4/decentralized-social-media/
-description: "In this section, we'll explore decentralized social media, an emerging alternative to the tech giants that dominate our digital public square."
+description: "Decentralized Social (DeSoc) rebuilds social media so that users, not platforms, own their content, identity and network, stored on a permissionless, decentralized network that anyone can build apps on. It answers ad-driven business models, data collection, opaque algorithms, censorship and de-platforming. Lens Protocol, Farcaster and Nostr stand out, but DeSoc is still far from challenging the Web2 giants."
 ---
 
 In this section, we'll explore decentralized social media, an emerging alternative to the tech giants that dominate our digital public square.

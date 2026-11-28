@@ -7,7 +7,7 @@ chapter: 5
 chapter_title: "Bitcoin"
 order: 507
 permalink: /Sorularla_Blockchain/bolum-5/bakkt/
-description: "Bakkt, kurumsal yatırımcılara Bitcoin üzerinden rahat alım satım yapacakları denetlenebilir bir ortam sunmayı hedefliyor."
+description: "Bakkt, New York Borsası’nın sahibi Intercontinental Exchange’in (ICE) girişimi; 2019’da kurumların kripto parayı kanuni otoritelerce denetlenen bir ortamda alıp satmasını hedefliyordu. 2019’un ilk yarısında faaliyete geçmesi planlanıyordu; emanetçi (custodian) hizmeti ve Bitcoin vadeli işlemleri planlanan ürünlerdi. Çekinceler, Wall Street’in türev piyasaları üzerinden Bitcoin fiyatını kontrol edebileceği endişesinde toplanıyordu."
 ---
 
 *Bakkt, kurumsal yatırımcılara Bitcoin üzerinden rahat alım satım yapacakları denetlenebilir bir ortam sunmayı hedefliyor. Başarırsa, kripto paralar geniş kitlelerce adaptasyonda bir eşiği daha atlamış olacak.*

@@ -7,7 +7,7 @@ chapter: 0
 chapter_title: "Introduction"
 order: 0
 permalink: /Web3_Unlocked/introduction/
-description: "The internet is not a finished product; it is a living system, constantly remade by new ideas and technologies."
+description: "Web3 Unlocked is Turan Sert’s friendly question-and-answer guide to Web3 and the English edition of Sorularla Web3. It walks readers through the foundations, technologies, communities and applications of Web3, from the history of the web to tokenization and what comes next. The whole book is free to read here, chapter by chapter."
 ---
 
 The internet is not a finished product; it is a living system, constantly remade by new ideas and technologies. We are currently living through its third great transformation, a period of architectural upheaval that promises to redefine our digital lives by placing ownership, privacy, and community at the center. This book is a mapping of this new territory. It is designed to guide you through the foundations, technologies, communities, and applications of Web3, offering a clear and grounded understanding of a world that is still being built. Our journey begins where all stories do: the genesis.

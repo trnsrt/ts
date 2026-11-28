@@ -7,7 +7,7 @@ chapter: 4
 chapter_title: "DeFi Dünyasına Adım Atacaklar İçin Pratik Bilgiler"
 order: 405
 permalink: /Sorularla_DeFi/bolum-4/borsalari-birlikte-kullanmak/
-description: "Bu bölümde klasik dünyadan alışık olmadığımız, daha çok DeFi dünyasının kullanıcılara sunduğu bir yenilik olan “toplayıcılar” adı verilen uygulamalardan…"
+description: "Toplayıcı (aggregator), kullanıcı işlem yapmak istediğinde hemen bütün merkeziyetsiz borsalarla iletişim kurup token için en iyi fiyatı bulan merkeziyetsiz bir hizmet sağlayıcı. Fiyatlar borsadan borsaya değiştiği için kullanıcı borsaları tek tek gezmek zorunda kalmıyor. Toplayıcıya paranın kullanımı için bir kez izin vermek de, her borsada ayrıca izin ücreti ödemeyi gereksiz kılıyor."
 ---
 
 Bu bölümde klasik dünyadan alışık olmadığımız, daha çok DeFi dünyasının kullanıcılara sunduğu bir yenilik olan “toplayıcılar” adı verilen uygulamalardan bahsedeceğiz.

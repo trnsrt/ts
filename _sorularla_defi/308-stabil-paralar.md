@@ -7,7 +7,7 @@ chapter: 3
 chapter_title: "DeFi’nin Altyapı Taşları"
 order: 308
 permalink: /Sorularla_DeFi/bolum-3/stabil-paralar/
-description: "Kripto dünyasının en büyük ve eski varlığı Bitcoin, bir para olarak “değer saklama” işlevini gayet iyi yerine getiriyor ama “alışverişe aracılık etme”…"
+description: "Stabil para, kriptoparalardaki dalgalanmayı azaltmak için tasarlanan, genellikle ABD dolarına bağlı bir kriptopara. Üç ana türü var: itibari para teminatlı (Tether, USDC), kriptopara teminatlı (DAI gibi) ve teminatsız. Teminatsızlarda bir algoritma arzı artırıp azaltarak değeri hedefte tutmaya çalışıyor; Ampleforth bu yaklaşımın bir örneği."
 ---
 
 Kripto dünyasının en büyük ve eski varlığı Bitcoin, bir para olarak “değer saklama” işlevini gayet iyi yerine getiriyor ama “alışverişe aracılık etme” konusunda belli yerlerde kullanılsa da hâlâ genel bir kullanıma girmiş değil. Bunun ana nedeni de kısa vadeli işlemler için fiat paralara karşı dalgalanmalar yaşaması.

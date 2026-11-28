@@ -7,7 +7,7 @@ chapter: 4
 chapter_title: "Exploring Web3 in Everyday Life"
 order: 403
 permalink: /Web3_Unlocked/chapter-4/nft-universe/
-description: "The NFT explosion of the early 2020s was a chaotic, brilliant moment that put digital ownership on the map."
+description: "An NFT (Non-Fungible Token) is a small piece of code that acts as a unique digital certificate of authenticity for an asset. Because digital files can be copied endlessly, ownership rests on a public blockchain record of the original work. NFTs make provenance instant, transfer frictionless and creator royalties automatic, though royalties depend on marketplaces honoring them."
 ---
 
 The NFT explosion of the early 2020s was a chaotic, brilliant moment that put digital ownership on the map. While the initial speculative frenzy has cooled, the underlying tech remains one of the most important building blocks for the future of the internet.

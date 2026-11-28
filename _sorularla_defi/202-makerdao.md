@@ -7,7 +7,7 @@ chapter: 2
 chapter_title: "DeFi Dünyasının Aktörleri"
 order: 202
 permalink: /Sorularla_DeFi/bolum-2/makerdao/
-description: "Kitabımızın birinci kısmında, finans dünyasında yeni başlayan DeFi hareketine ve para transferi ile başlayan aracılık hizmetlerinin makinelere aktarılması…"
+description: "MakerDAO, kullanıcıların kendi başlarına kredi yaratabildiği bir platform. Kullanıcı kriptoparasını teminat olarak kilitliyor, akıllı kontrat bu teminat karşılığında Dai yaratıp cüzdanına gönderiyor; Dai geri gönderilip yakılınca borç kapanıyor ve teminat geri alınıyor. Teminat oranı gerekli sınırın altına düşerse (örnekte %150) sistem teminatı bozuyor. Önemli kararlar kullanıcıların oylamasıyla alınıyor."
 ---
 
 Kitabımızın birinci kısmında, finans dünyasında yeni başlayan DeFi hareketine ve para transferi ile başlayan aracılık hizmetlerinin makinelere aktarılması işinin daha başka hangi alanlara yayılabileceğine değinmiştik. İşte karşınızda bu alanlardan ilki olan kredili işlemlerin en yaygın olarak kullanılanı MakerDAO.

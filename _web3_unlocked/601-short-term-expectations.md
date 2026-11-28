@@ -7,7 +7,7 @@ chapter: 6
 chapter_title: "What’s Next for Web3?"
 order: 601
 permalink: /Web3_Unlocked/chapter-6/short-term-expectations/
-description: "The next two years are about moving from promise to product. The core infrastructure of Web3 is maturing, shifting the spotlight onto user-facing applications."
+description: "2025–2026 is expected to bring a move from promise to product: Web3 infrastructure is maturing, the spotlight shifts to user-facing applications, and product-market fit becomes the measure of success. Expectations include apps that hide technical complexity from users, regulation focusing first on digital-asset custody and stablecoins, and the first major impacts coming in fully digital sectors."
 ---
 
 The next two years are about moving from promise to product. The core infrastructure of Web3 is maturing, shifting the spotlight onto user-facing applications. For these projects, the singular measure of success will be achieving 'product-market fit.'

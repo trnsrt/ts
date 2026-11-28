@@ -7,7 +7,7 @@ chapter: 2
 chapter_title: "Web3 Ekonomisinin Yapı Taşları"
 order: 203
 permalink: /Sorularla_Web3/bolum-2/moduler-ve-monoblok-cozumler/
-description: "Blokzincir altyapıları konusunda en çok konuşulan ve üzerine kafa yorulan konulardan biri monoblok ve modüler blokzincir yapıları."
+description: "Blokzincir kayıt tutarken dört temel işlev yerine getiriyor: işlemi gerçekleştirme (execution), onaylama (consensus), kesinleştirme (settlement) ve sisteme duyurma (data publishing). Monoblok (monolitik) yapıda bunların hepsi tek elden yapılıyor, Apple ekosistemi gibi; modüler yapıda her işlevi farklı oyuncular üstleniyor, Android gibi. Bitcoin ve Solana monoblok yapıyı seçti; Ethereum üzerine kurulu ikinci seviye çözümler ise modüler yaklaşıma bir örnek."
 ---
 
 Blokzincir altyapıları konusunda en çok konuşulan ve üzerine kafa yorulan konulardan biri monoblok ve modüler blokzincir yapıları. Ne demek, ne işe yarar, gelin hep birlikte bakalım.

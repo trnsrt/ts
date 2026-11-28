@@ -7,7 +7,7 @@ chapter: 3
 chapter_title: "Teknik Olarak Blockchain"
 order: 302
 permalink: /Sorularla_Blockchain/bolum-3/kendi-basina-hareket/
-description: "Blockchain bazlı sistemlerde binlerce makine ortak bir yerden direktif almadan beraberce hareket ediyor. Nasıl?"
+description: "Blockchain’deki bağımsız makineler, Bizans Hata Toleransı’ndan uyarlanan bir uzlaşma (mutabakat) mekanizmasıyla ortak hareket ediyor: her makine gelen mesajlardan çoğunluğun söylediğini uyguluyor. Bitcoin’de bu mekanizmaya Proof-of-Work deniyor. Bulmacayı çözmek zor, sonucu kontrol etmek kolay; çoğunluğun üzerinde çalıştığı en uzun zincir geçerli oluyor."
 ---
 
 *Blockchain bazlı sistemlerde binlerce makine ortak bir yerden direktif almadan beraberce hareket ediyor. Nasıl? Anlamak için önce işin temelini anlamak lazım:*

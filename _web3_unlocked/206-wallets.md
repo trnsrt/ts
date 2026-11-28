@@ -7,7 +7,7 @@ chapter: 2
 chapter_title: "Key Pillars of the Web3 Economy"
 order: 206
 permalink: /Web3_Unlocked/chapter-2/wallets/
-description: "A digital wallet is your key to Web3. It’s an app on your phone or computer that lets you connect to decentralized services."
+description: "A digital wallet is an app on a phone or computer that connects users to decentralized services. Older wallets relied on a 12-word seed phrase, and losing it meant losing the assets for good. Account Abstraction (ERC-4337) makes the wallet programmable software, enabling social recovery, layered security and spending limits."
 ---
 
 A digital wallet is your key to Web3. It’s an app on your phone or computer that lets you connect to decentralized services.

@@ -7,7 +7,7 @@ chapter: 2
 chapter_title: "Web3 Ekonomisinin Yapı Taşları"
 order: 207
 permalink: /Sorularla_Web3/bolum-2/intentler/
-description: "Bu kısımda Web3 dünyasının son gözdelerinden olan Intent konusuna değineceğiz."
+description: "Intent, kullanıcının işlemin adımlarını değil istediği sonucu belirttiği, aracıların bunu zincir dışında gerçekleştirip sonucu zincire kaydettiği araçlara verilen genel ad. Aracılar piyasayı tarayıp en uygun yolu buluyor; kullanıcının işlem öncesi parasını onlara emanet etmesi gerekmiyor. Uniswap X ve Across bu yaklaşımı kullanan örnekler."
 ---
 
 Bu kısımda Web3 dünyasının son gözdelerinden olan Intent konusuna değineceğiz.

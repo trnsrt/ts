@@ -7,7 +7,7 @@ chapter: 4
 chapter_title: "Exploring Web3 in Everyday Life"
 order: 414
 permalink: /Web3_Unlocked/chapter-4/3ac-bankruptcy/
-description: "The collapse of Terra wasn't an isolated earthquake; it was the shockwave that triggered a tsunami."
+description: "Three Arrows Capital (3AC), founded in 2012, was an arbitrage fund that amplified its GBTC, stETH and UST trades with heavy borrowing. When the UST peg broke in May 2022, lenders demanded repayment and sold the collateral, and 3AC collapsed. In September 2023, the Monetary Authority of Singapore banned both founders from its capital markets for nine years."
 ---
 
 The collapse of Terra wasn't an isolated earthquake; it was the shockwave that triggered a tsunami. The first domino had fallen, and its impact would send a chain reaction of failures across the entire crypto landscape.

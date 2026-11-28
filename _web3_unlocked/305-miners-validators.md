@@ -7,7 +7,7 @@ chapter: 3
 chapter_title: "Meet the People Powering Web3"
 order: 305
 permalink: /Web3_Unlocked/chapter-3/miners-validators/
-description: "Web3 introduces a new class of participants that simply didn’t exist in Web 2.0: miners and validators."
+description: "Miners and validators are the machines that run a blockchain’s infrastructure: miners on the Bitcoin network and validators on most others. They keep the system online and make sure transactions are recorded honestly and independently. In return they receive new tokens created by the network, and Bitcoin miners also earn transaction fees."
 ---
 
 Web3 introduces a new class of participants that simply didn’t exist in Web 2.0: miners and validators. They are the guardians of the network, the decentralized workforce that keeps the entire ecosystem running.

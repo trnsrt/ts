@@ -7,7 +7,7 @@ chapter: 2
 chapter_title: "DeFi Dünyasının Aktörleri"
 order: 206
 permalink: /Sorularla_DeFi/bolum-2/synthetix/
-description: "DeFi yani merkeziyetsiz finansın temel amacı, klasik anlamda finans alanında bize yardım eden aracıları ortadan kaldırmak ya da onlardan daha ucuz bir…"
+description: "Synthetix, hiçbir gerçek varlığa dayanmayan, her ürünün sentetik türevini sunan bir DeFi türev piyasası. Kullanıcı sistemin parası sUSD ile sBTC gibi sentetik ürünler alıyor; karşısında bir taraf değil bir havuz var. Havuzu paydaşlar oluşturuyor: SNX’i teminat gösterip sUSD basıyorlar ve havuzun borcuna ortak oluyorlar."
 ---
 
 DeFi yani merkeziyetsiz finansın temel amacı, klasik anlamda finans alanında bize yardım eden aracıları ortadan kaldırmak ya da onlardan daha ucuz bir alternatif olmak. Bu aracılardan ilk akla gelen de bankalar ama DeFi yalnızca bankalara olan ihtiyacı ortadan kaldırmıyor. Finans piyasalarındaki her türlü aracı, DeFi oyuncularının tehdidi altında ve hiçbir klasik piyasa, DeFi’den kendini korumak konusunda rahat olmamalı. Bakın onlardan biri daha: Türev piyasaları.

@@ -7,7 +7,7 @@ chapter: 3
 chapter_title: "DeFi’nin Altyapı Taşları"
 order: 307
 permalink: /Sorularla_DeFi/bolum-3/aragon/
-description: "Bu bölümde gelin hep birlikte, merkeziyetsiz yönetim konusunda enteresan bir deneysel fikir olan Aragon’a göz atalım."
+description: "DAO (Merkeziyetsiz Otonom Organizasyon), işleyişi ve kuralları kod olarak yazılı, blokzincir altyapısıyla otonom ve şeffaf çalışan, yalnızca hissedarlarının kontrol edebildiği bir yapı. Aragon, Ethereum üzerinde bu yapıyı kurmak isteyenlere daha önce denenmiş hazır ve esnek şablonlar sunan bir platform; anlaşmazlıklar için rastgele seçilen üyelerin oy verdiği bir “sanal mahkeme” de var."
 ---
 
 Bu bölümde gelin hep birlikte, merkeziyetsiz yönetim konusunda enteresan bir deneysel fikir olan [Aragon](https://aragon.org/)’a göz atalım.

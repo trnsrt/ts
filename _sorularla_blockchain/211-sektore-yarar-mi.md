@@ -7,7 +7,7 @@ chapter: 2
 chapter_title: "Blockchain Beni Nasıl Etkileyecek?"
 order: 211
 permalink: /Sorularla_Blockchain/bolum-2/sektore-yarar-mi/
-description: "Blockchain her sektöre uygun değil. Neden? Mevcut sistemlere göre pek çok sıkıntısı var çünkü."
+description: "Blockchain, aynı bilgiyi binlerce makinede tutan büyük bir veritabanı olduğu için yavaş, enerji ve depolama bakımından maliyetli ve her zincir diğerlerinden kopuk; bu yüzden ancak gerekli olduğunda başvurulmalı. Gereken durumlar şunlar: merkezi otoriteye ya da aracıya güvensizlik, aracının maliyeti ve hantal yapısı, aracılardan bağımsız olma isteği."
 ---
 
 *Blockchain her sektöre uygun değil. Neden? Mevcut sistemlere göre pek çok sıkıntısı var çünkü. Fayda sağlayacağı sektörler de var ama, avantajlarının dezavantajlara üstün geldiği. Nelermiş bunlar bir bakalım.*

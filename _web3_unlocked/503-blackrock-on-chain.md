@@ -7,7 +7,7 @@ chapter: 5
 chapter_title: "Exploring Tokenization"
 order: 503
 permalink: /Web3_Unlocked/chapter-5/blackrock-on-chain/
-description: "The crypto world’s relationship with Wall Street is entering its final act."
+description: "BlackRock, the world’s largest asset manager, placed a $100 million tokenized money market fund called BUIDL on the Ethereum network in March 2024. Shares are represented by a dollar-pegged token, income is paid monthly as new tokens, and the fund swelled to $521 million in six months. Unlike a Bitcoin ETF, it pushes a traditional asset onto the blockchain."
 ---
 
 The crypto world’s relationship with Wall Street is entering its final act. It brings to mind the old quote, often attributed to Gandhi: ‘First they ignore you, then they laugh at you, then they fight you, then you win’[^1].

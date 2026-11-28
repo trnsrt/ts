@@ -7,7 +7,7 @@ chapter: 2
 chapter_title: "Blockchain Beni Nasıl Etkileyecek?"
 order: 207
 permalink: /Sorularla_Blockchain/bolum-2/tahmin-piyasalari/
-description: "Blockchain ile geleceği tahmin etmek mi? Yok, o kadar değil ama burada bile Blockchain belli alanlarda çığır açabilir."
+description: "Tahmin piyasaları, bir şirketin hissesi yerine bir olayın gerçekleşme ya da gerçekleşmeme ihtimali üzerine çalışan, tahminlerin hisselerinin satıldığı piyasalar. Blockchain’de tahmin kayıt altına alınıyor ve geriye dönük değiştirilemiyor; akıllı kontrat sonucu kazanana otomatik ödeme yapıyor. Sonucu kimin belirleyeceği için ortak bir hakem seçilebiliyor."
 ---
 
 *Blockchain ile geleceği tahmin etmek mi? Yok, o kadar değil ama burada bile Blockchain belli alanlarda çığır açabilir.*

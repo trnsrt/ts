@@ -7,7 +7,7 @@ chapter: 2
 chapter_title: "Key Pillars of the Web3 Economy"
 order: 202
 permalink: /Web3_Unlocked/chapter-2/bitcoin-solana-ethereum/
-description: "In this section, we’ll look at the recent performance of the three leading blockchain networks and explore what the future might hold."
+description: "Bitcoin, Solana and Ethereum offer investors different narratives. Bitcoin’s is a simple “digital gold” story; Solana’s is very low fees and fast processing that draw newcomers and speculators; Ethereum limits block space to stay decentralized and focuses on secure infrastructure, which appeals more to institutions than to retail investors. In late 2023, ETH lagged BTC and SOL."
 ---
 
 In this section, we’ll look at the recent performance of the three leading blockchain networks and explore what the future might hold.

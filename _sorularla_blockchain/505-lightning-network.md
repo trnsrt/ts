@@ -7,7 +7,7 @@ chapter: 5
 chapter_title: "Bitcoin"
 order: 505
 permalink: /Sorularla_Blockchain/bolum-5/lightning-network/
-description: "Bitcoin bir gün hayatımızın bir parçası haline gelecekse öncelikle kendi sıkıntılarını aşmalı. Bu konuda çalışan çok."
+description: "Lightning Network, Bitcoin’in üzerine kurulmuş ikinci bir katman; işlemleri bloklara yazmak yerine zincir dışında yapıyor. Taraflar ortak bir kanal açıp Bitcoin sistemine depozito yatırıyor, aralarındaki transferleri kanal içinde yapıyor ve yalnızca sonucu Blockchain’e yazıyor. Böylece madenciler kullanılmadan, çok daha düşük masrafla binlerce işlem yapılabiliyor."
 ---
 
 *Bitcoin bir gün hayatımızın bir parçası haline gelecekse öncelikle kendi sıkıntılarını aşmalı. Bu konuda çalışan çok. Bunlardan biri de Lightning Network.*

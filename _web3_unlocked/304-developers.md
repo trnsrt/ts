@@ -7,7 +7,7 @@ chapter: 3
 chapter_title: "Meet the People Powering Web3"
 order: 304
 permalink: /Web3_Unlocked/chapter-3/developers/
-description: "To understand where Web3 is going, you have to follow the developers."
+description: "According to Electric Capital’s 2024 Developer Report, the number of crypto developers has grown 39% a year on average since 2015, with dips in 2023 and 2024 (about 7% in 2024). Seasoned developers (over two years in the space) grew 27% and write 70% of the code. Ethereum still leads in developers; Solana grew fastest among major networks."
 ---
 
 To understand where Web3 is going, you have to follow the developers. They are the architects of this new world, and their movements are the most reliable leading indicator of future growth and value. Where talent flows, innovation follows.

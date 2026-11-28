@@ -7,7 +7,7 @@ chapter: 1
 chapter_title: "Nedir DeFi?"
 order: 104
 permalink: /Sorularla_DeFi/bolum-1/definin-cikisi-nasil-oldu/
-description: "Kriptoparalar, daha da özelinde merkeziyetsiz finans yani DeFi konusunu konuştuğum kişilerden aldığım tepki genelde “İyi ama bunlar çok küçük değil mi?"
+description: "DeFi projelerinin hatırı sayılır bir kısmı 2017’deki ICO çılgınlığı sırasında çıktı ve topladıkları parayla 2018-2019 ayı piyasasını atlattı. Önlerindeki en büyük engel likidite sorunuydu: giriş-çıkışlar nedeniyle en büyük likidite merkezi borsalardaydı. Likidite karşılığı ödüllendirme yöntemi işe yaradı; asıl patlama, yönetimde söz hakkı veren bir token çıkaran Compound ile geldi."
 ---
 
 Kriptoparalar, daha da özelinde merkeziyetsiz finans yani DeFi konusunu konuştuğum kişilerden aldığım tepki genelde “İyi ama bunlar çok küçük değil mi? Kocaman bir finans dünyası var ortada, bunlar yanında pire gibi kalıyorlar.” oluyor. Tabii bunun hemen arkasında gelen yorum “Bütün bu anlatılanlar çok karışık, çok reel gelmiyor bana.” oluyor. Haklılar, ancak sadece şu an için.

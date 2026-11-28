@@ -7,7 +7,7 @@ chapter: 3
 chapter_title: "Teknik Olarak Blockchain"
 order: 303
 permalink: /Sorularla_Blockchain/bolum-3/uzlasma-mekanizmalari-neler/
-description: "10 yılını kutlamakta olduğumuz Bitcoin aslında daha önce ortaya çıkmış pek çok teknolojik gelişmenin üzerine kurulmuş."
+description: "Uzlaşma mekanizması, birbirine güvenmeyen makinelerin aracısız ortak karara varmasını sağlıyor. Bitcoin’in Proof-of-Work’ü makinelerin bulmaca çözerek enerji harcamasını gerektiriyor; bu, sistemin %51’ini ele geçirmeyi pahalı kılıyor. Proof-of-Stake ise enerji yerine rehin bırakılan varlığı kullanıyor ve yeni bloğu piyango ile seçiyor. Delegated-Proof-of-Stake gibi başka mekanizmalar da var."
 ---
 
 *10 yılını kutlamakta olduğumuz Bitcoin aslında daha önce ortaya çıkmış pek çok teknolojik gelişmenin üzerine kurulmuş. Devrim niteliğindeki yeniliği ise Proof-of-Work aslında. Nedir bu, gelin detaylıca bakalım.*

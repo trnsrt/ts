@@ -7,7 +7,7 @@ chapter: 2
 chapter_title: "Blockchain Beni Nasıl Etkileyecek?"
 order: 210
 permalink: /Sorularla_Blockchain/bolum-2/her-derde-deva/
-description: "Önce bir faydalarına tekrar göz atalım ve değişik türlerini gözden geçirelim sonra da neden bu alandaki girişimlerin çoğu başarısız olacak ona bakalım."
+description: "Blockchain her derde deva değil; her alanda faydalı olacağını düşünmek doğru değil. Faydaları arasında merkezi otoritedeki sorunun tüm sistemi etkilemesini önlemek, aracıların komisyonlarını ve bürokrasiyi azaltmak, değiştirilemez kayıt tutmak ve bireye dijital kimliğini vermek var. Blockchain genel (izinsiz) ve özel (izne bağlı) olarak ikiye ayrılıyor."
 ---
 
 *Elbette değil. Önce bir faydalarına tekrar göz atalım ve değişik türlerini gözden geçirelim sonra da neden bu alandaki girişimlerin çoğu başarısız olacak ona bakalım. Bir sonraki bölümde ise hangi alanlarda başarı şansı daha yüksek ona değineceğiz.*

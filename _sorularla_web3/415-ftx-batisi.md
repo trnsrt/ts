@@ -7,7 +7,7 @@ chapter: 4
 chapter_title: "Web3’ün Uygulama Alanları"
 order: 415
 permalink: /Sorularla_Web3/bolum-4/ftx-batisi/
-description: "Bu kısımda sonu FTX’in iflası ile biten, ABD’de 2022 yılında yaşanan krizin üçüncü perdesine bakıyoruz."
+description: "FTX, Kasım 2022’de altı günde çöktü. Binance’in sahibi CZ’nin elindeki FTT’leri satacağını duyurması FTT’nin fiyatının çakılmasına yol açtı; Binance FTX’i almaktan vazgeçti ve 11 Kasım’da FTX çatısındaki 134 kuruluş iflas koruması istedi. Bilinen temel gerçek, FTX’in müşteri fonlarını kardeş kuruluşu Alameda’ya kullandırmış olması. Temel sorun, bu merkezi yapıların birer kara kutu gibi çalışması."
 ---
 
 Bu kısımda sonu FTX’in iflası ile biten, ABD’de 2022 yılında yaşanan krizin üçüncü perdesine bakıyoruz.

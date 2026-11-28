@@ -7,7 +7,7 @@ chapter: 6
 chapter_title: "Web3’ün Geleceği"
 order: 601
 permalink: /Sorularla_Web3/bolum-6/kisa-vade-beklentiler/
-description: "Bu dönem Web3 bazlı projelerin altyapılarının artık olgunluğa ulaştığı, kullanıcıya dokunan projelerin ön plana çıktığı bir dönem olacak."
+description: "2025–2026 için beklenti, Web3 altyapısının büyük ölçüde tamamlanması ve ilginin kullanıcıya dokunan uygulamalara kayması; temel başarı kriteri ‘ürün-pazar uyumu’ yakalamak. Diğer beklentiler arasında uygulamaların kullanıcıyı teknik ayrıntılarla muhatap etmemesi, kısa vadede düzenlemelerin dijital varlık saklama ve stabil paralara yoğunlaşması, ilk etkinin tamamen dijitalleşmiş sektörlerde görülmesi var."
 ---
 
 Bu dönem Web3 bazlı projelerin altyapılarının artık olgunluğa ulaştığı, kullanıcıya dokunan projelerin ön plana çıktığı bir dönem olacak. Bu dönemde temel başarı kriteri, bu uygulamaların ‘ürün-pazar uyumu’ yakalamasında düğümleniyor.
