@@ -13,7 +13,7 @@ NFT
 Metaverse
 DAO (merkeziyetsiz otonom yapılar)
 
-## Kitaplardaki ilgili bölümler (ücretsiz)
+## Kitaplardaki ilgili bölümler
 
 ### Yapay zeka ve Web3
 

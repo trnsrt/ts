@@ -7,7 +7,7 @@ description: "Merkeziyetsiz finans (DeFi) üzerine Turan Sert'in yazılarının 
 
 Blockchain'in finans alanındaki uygulamalarına DeFi (decentralized finance - merkeziyetsiz finans) deniyor. Bu alandaki yayınlanmış tüm yazıları aşağıda bulabilirsiniz. 'Sorularla DeFi - Merkeziyetsiz Finans' kitabını ücretsiz olarak [buradan okuyabilirsiniz](/Sorularla_DeFi/).
 
-## Kitaplardaki ilgili bölümler (ücretsiz)
+## Kitaplardaki ilgili bölümler
 
 - [DeFi (Merkeziyetsiz Finans) Ne Demek?](/Sorularla_DeFi/bolum-1/defi-ne-demek/) · *Sorularla DeFi*
 - [DeFi’nin Temel Özellikleri Neler?](/Sorularla_DeFi/bolum-1/definin-temel-ozellikleri-neler/) · *Sorularla DeFi*

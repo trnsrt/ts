@@ -6,7 +6,7 @@ description: "Blockchain'in nasıl ortaya çıktığı, kullanım alanları, Bit
 ---
 
 
-## Kitaplardaki ilgili bölümler (ücretsiz)
+## Kitaplardaki ilgili bölümler
 
 - [Sahi nedir bu Blockchain Allah aşkına?](/Sorularla_Blockchain/bolum-1/nedir-bu-blockchain/) · *Sorularla Blockchain*
 - [Blockchain nasıl kendi başına hareket ediyor? İpucu: Uzlaşma](/Sorularla_Blockchain/bolum-3/kendi-basina-hareket/) · *Sorularla Blockchain*
