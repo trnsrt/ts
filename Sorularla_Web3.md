@@ -61,6 +61,9 @@ Kitapta yer alan tüm bağlantılara sayfa sırasına göre aşağıdan ulaşabi
 
 &nbsp;
 
+<details markdown="1">
+<summary>Kitaptaki bağlantılar (sayfa sayfa)</summary>
+
 | **Sayfa** | **Bağlantı adı** |
 | ----- | :---- |
 |  |  |
@@ -445,3 +448,5 @@ Kitapta yer alan tüm bağlantılara sayfa sırasına göre aşağıdan ulaşabi
 | 323 | ["USDC Homes"](https://usdc.homes/) |
 
 
+
+</details>

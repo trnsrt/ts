@@ -49,6 +49,9 @@ You can read the full text of the book, chapter by chapter, below.
 All links referenced in the book are collected below, by page.
 
 
+<details markdown="1">
+<summary>Links in the book (page by page)</summary>
+
 <br>
 <b>Page 21:</b>
 
@@ -1357,3 +1360,5 @@ incentivize suppliers to build out the network
 
 [USDC Homes](https://usdc.homes/)  
 
+
+</details>
