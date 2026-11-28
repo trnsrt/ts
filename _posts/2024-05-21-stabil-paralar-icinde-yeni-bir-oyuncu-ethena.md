@@ -5,6 +5,10 @@ date:   2024-05-21 12:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
 image: /assets/stabil-para-pazar-paylari_v2.png
+book_section_url: "/Sorularla_Web3/bolum-4/ethena/"
+book_section_title: "Ethena (USDe) ve sentetik dolar: nasıl çalışıyor, riskleri neler?"
+book_title: "Sorularla Web3"
+book_note: newer
 ---
 
 Bu yazımızda stabil para dünyasında son duruma bir göz attıktan sonra mahalleye yeni gelen çocuk Ethena ve parası olan USDe'den bahsedeceğiz. Bir sonraki yazımızda ise Ethena'nın nasıl bir potansiyel taşıdığına ve olası risklerine değineceğiz. 

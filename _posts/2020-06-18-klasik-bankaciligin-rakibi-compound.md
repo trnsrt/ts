@@ -5,6 +5,10 @@ date:   2020-06-18 17:12:56 +0300
 categories: Genel
 tags: Yazılar DeFi
 image: /assets/money-3405700_640.jpg
+book_section_url: "/Sorularla_DeFi/bolum-2/compound/"
+book_section_title: "Compound: DeFi'de faiz, mevduat ve borç verme (klasik bankacılığın rakibi)"
+book_title: "Sorularla DeFi"
+book_note: newer
 ---
 
 Kripto dünyasında ise DeFi hareketi benzer şekilde bize yeni alternatifler sunuyor. Henüz çok küçük ve deneyseller. Ama belli bir potansiyel sağlayacakları kesin. Gelin bugün bu alandaki ilginç yapılardan [Compound](https://compound.finance/)'a bakalım: 

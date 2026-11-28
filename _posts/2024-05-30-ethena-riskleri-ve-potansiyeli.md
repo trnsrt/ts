@@ -5,6 +5,10 @@ date:   2024-05-30 12:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
 image: /assets/eth-perp-kazanc-kayip-oranlav2.png
+book_section_url: "/Sorularla_Web3/bolum-4/ethena/"
+book_section_title: "Ethena (USDe) ve sentetik dolar: riskler ve potansiyel"
+book_title: "Sorularla Web3"
+book_note: newer
 ---
 
 Bu yazımızda, geçtiğimiz hafta başladığımız Ethena sisteminin derinliklerine iniyoruz. 

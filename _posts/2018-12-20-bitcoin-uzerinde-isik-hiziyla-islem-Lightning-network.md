@@ -4,6 +4,12 @@ title:  "Bitcoin üzerinde ışık hızıyla işlem: Lightning Network"
 date:   2018-12-20 15:25:34 +0300
 categories: Genel
 image: /assets/lightning-eiffel.jpg
+book_section_url: "/Sorularla_Blockchain/bolum-5/lightning-network/"
+book_section_title: "Lightning Network: Bitcoin üzerinde ışık hızıyla işlem"
+book_title: "Sorularla Blockchain"
+book_note: neutral
+canonical_url: "https://turansert.com/Sorularla_Blockchain/bolum-5/lightning-network/"
+sitemap: false
 ---
 
 Geçtiğimiz [yazımızda](/genel/2018/12/14/Bitcoin-genis-kitlelere-nasil-yayilir.html), Bitcoin'in geniş kitlelerce kullanımının önündeki en büyük engelin teknik olarak kısıtlı kapasitesi olduğundan bahsetmiştik. Özetle tekrarlarlarsak; yapılan her işlem Blockchain üzerine yazılıyor, bunu yapan madenciler ve işlem binlerce makineye yazıldığı ve 10 dakikada bir balya haline getirilip onaylandığı için saniyede maksimum 7 işlem gerçekleşebiliyor. 

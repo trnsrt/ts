@@ -6,6 +6,10 @@ categories: Genel
 tags: Yazılar, Articles
 image: /assets/phone-1889392_800.jpg
 lang: en
+book_section_url: "/Web3_Unlocked/chapter-4/decentralized-finance/"
+book_section_title: "DeFi vs. traditional finance: the high cost of trust (Decentralized Finance, Web3 Unlocked)"
+book_title: "Web3 Unlocked"
+book_note: newer
 ---
 
 In our last post, we introduced DeFi — Decentralized Finance, a solution that would potentially empower individuals against legacy financial systems.

@@ -4,6 +4,12 @@ title:  "Bitcoin geniş kitlelere nasıl yayılır?"
 date:   2018-12-14 10:25:34 +0300
 categories: Genel
 image: /assets/some-food-for-thought-about-bitcoin-2.jpg
+book_section_url: "/Sorularla_Blockchain/bolum-5/bitcoin-genis-kitlelere-nasil/"
+book_section_title: "Bitcoin geniş kitlelere nasıl yayılır? Mikro ödemeler ve hız sorunu"
+book_title: "Sorularla Blockchain"
+book_note: neutral
+canonical_url: "https://turansert.com/Sorularla_Blockchain/bolum-5/bitcoin-genis-kitlelere-nasil/"
+sitemap: false
 ---
 
 Geçtiğimiz [yazımızda](/genel/2018/12/07/ne-olacak-su-bitcoinin-hali.html), Bitcoin'in ileride değerli olup olmayacağının iki ana belirleyicisi olacağını belirtmiştik: Birincisi hakikaten insanların işine yarayacak mı, ikincisi de geniş kesimler tarafından kullanılacak mı? Bu iki soruya ne kadar olumlu cevap verebiliyorsak Bitcoin'in değerinin de ileride o kadar artacağını düşünebiliriz. 

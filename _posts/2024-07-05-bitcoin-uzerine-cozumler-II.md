@@ -5,6 +5,10 @@ date:   2024-07-05 11:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
 image: /assets/castle-4430019_800.jpg
+book_section_url: "/Sorularla_Web3/bolum-2/bitcoin-ikinci-seviye/"
+book_section_title: "Bitcoin üzerine ikinci seviye çözümler: Lightning Network, yan zincirler ve Citrea örneği"
+book_title: "Sorularla Web3"
+book_note: neutral
 ---
 
 Bundan önceki yazımızda madenci ve kullanıcıların Bitcoin’in üzerindeki işlem miktarının artmasına yönelik taleplerine bakmıştık. Şimdi ise bu taleplere karşılık vermeye çalışan Bitcoin üzerine kurulu ikinci seviye çözümlere göz atacağız.

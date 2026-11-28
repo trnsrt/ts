@@ -5,6 +5,10 @@ date:   2023-12-16 18:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
 image: /assets/ether-akisi_v2.jpg
+book_section_url: "/Sorularla_Web3/bolum-2/ethereumun-ekonomisi-nasil-calisiyor/"
+book_section_title: "Ethereum'un ekonomisi ve ETH'nin “ultra-sound money” söylemi"
+book_title: "Sorularla Web3"
+book_note: newer
 ---
 
 Bu yazımızda Ethereum ekonomisi aktörlerinin yarattığı değerin sistemin parası olan ether üzerindeki etkisine bakacağız. Sonrasında ise Ethereum sisteminde son birkaç yıldır dolaşan 'ultrasound money' söylemini anlamaya çalışacağız. 

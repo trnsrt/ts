@@ -5,6 +5,10 @@ date:   2024-03-20 18:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
 image: /assets/house-1961182_800.jpg
+book_section_url: "/Sorularla_Web3/bolum-2/ikinci-seviye-cozumler/"
+book_section_title: "İkinci seviye (Layer 2) çözümler: Ethereum güvencesi, riskler ve ekonomi"
+book_title: "Sorularla Web3"
+book_note: newer
 ---
 
 Yazı dizimizin bu bölümünde modüler blokzincir yapısına, Ethereum üzerine inşa edilmiş ikinci seviye ağlar üzerinden bakıyoruz. 

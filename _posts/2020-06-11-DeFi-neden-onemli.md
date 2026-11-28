@@ -5,6 +5,10 @@ date:   2020-06-11 12:47:56 +0300
 categories: Genel
 tags: Yazılar DeFi
 image: /assets/stock_image_09.png
+book_section_url: "/Sorularla_DeFi/bolum-1/defi-ne-demek/"
+book_section_title: "DeFi (merkeziyetsiz finans) ne demek? Klasik finansın sorunları ve DeFi'nin önerisi"
+book_title: "Sorularla DeFi"
+book_note: newer
 ---
 
 

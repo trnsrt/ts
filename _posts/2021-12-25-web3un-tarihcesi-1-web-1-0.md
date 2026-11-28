@@ -5,6 +5,10 @@ date:   2021-12-25 08:47:56 +0300
 categories: Genel
 tags: Yazılar, Web3, DeFi, DeFi'ye Giriş
 image: /assets/technology-g0454e447f_800.jpg
+book_section_url: "/Sorularla_Web3/bolum-1/web-1-0/"
+book_section_title: "Web 1.0: internetin başlangıcı ve açık protokoller dönemi"
+book_title: "Sorularla Web3"
+book_note: newer
 ---
 
 Son zamanlarda en sık konuşulan konulardan biri Web3 oluyor. Gelin isterseniz "Web 3 nedir?" sorusunun öncesinde vermeden önce Web1 ve Web2 konularını göz atarak işin tarihçesini anlayalım: 

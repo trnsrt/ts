@@ -5,6 +5,10 @@ date:   2021-04-07 16:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
 image: /assets/hayden_adams_tablo_800.jpg
+book_section_url: "/Sorularla_DeFi/bolum-2/uniswap/"
+book_section_title: "Uniswap v3: yeni sürümün getirdikleri (Uniswap ve merkeziyetsiz borsalar)"
+book_title: "Sorularla DeFi"
+book_note: neutral
 ---
 
 DeFi dünyasının merkeziyetsiz lider borsası [Uniswap](https://uniswap.org/) Mayıs başında üçüncü versiyonunu çıkaracağını açıkladı. Gelin bakalım neler var bu versiyonda:

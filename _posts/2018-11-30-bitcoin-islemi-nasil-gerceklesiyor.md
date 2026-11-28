@@ -4,6 +4,12 @@ title:  "Bitcoin işlemi nasıl gerçekleşiyor?"
 date:   2018-11-30 10:05:34 +0300
 categories: Genel
 image: /assets/transaction-sample-640-b.png
+book_section_url: "/Sorularla_Blockchain/bolum-5/bitcoin-islemi-nasil-gerceklesiyor/"
+book_section_title: "Bitcoin işlemi nasıl gerçekleşir? UTXO kavramı ve işlemin temel mantığı"
+book_title: "Sorularla Blockchain"
+book_note: neutral
+canonical_url: "https://turansert.com/Sorularla_Blockchain/bolum-5/bitcoin-islemi-nasil-gerceklesiyor/"
+sitemap: false
 ---
 
 

@@ -6,6 +6,10 @@ categories: Genel
 tags: Yazılar, Articles
 image: /assets/ornament-4729903_800.jpg
 lang: en
+book_section_url: "/Web3_Unlocked/chapter-1/web-2-0/"
+book_section_title: "Web 2.0: the age of platforms (the Web1 to Web3 story)"
+book_title: "Web3 Unlocked"
+book_note: newer
 ---
 
 Let's have a closer look at the evolution of web in this piece:

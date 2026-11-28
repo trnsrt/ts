@@ -1,0 +1,19 @@
+{%- comment -%}
+  Note at the top of a blog post that points to the matching section of one of the free books.
+  Renders only when the post's front matter has book_section_url. Fields: book_section_url, book_section_title (link
+  text), book_title, book_note (neutral | newer | edited). English posts (lang: en) get the English wording.
+{%- endcomment -%}
+{%- if page.book_section_url -%}
+<div class="book-callout" role="note"><p>
+{%- if page.lang == "en" -%}
+  {%- if page.book_note == "newer" -%}A fuller and more up-to-date treatment of this topic is free to read in
+  {%- else -%}A fuller treatment of this topic is free to read in
+  {%- endif %} <em>{{ page.book_title | escape }}</em>: <a href="{{ page.book_section_url | relative_url }}">{{ page.book_section_title | escape }}</a>
+{%- else -%}
+  {%- if page.book_note == "edited" -%}Bu yazının kitap için düzenlenmiş hali
+  {%- elsif page.book_note == "newer" -%}Bu konunun daha güncel ve kapsamlı hali
+  {%- else -%}Bu konunun daha kapsamlı hali
+  {%- endif %} <em>{{ page.book_title | escape }}</em> kitabında ücretsiz okunabilir: <a href="{{ page.book_section_url | relative_url }}">{{ page.book_section_title | escape }}</a>
+{%- endif -%}
+</p></div>
+{%- endif -%}

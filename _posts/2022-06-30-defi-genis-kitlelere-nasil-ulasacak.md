@@ -5,6 +5,10 @@ date:   2022-06-30 17:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, CoindeskTR
 image: /assets/imf_global_stability_report_800.png
+book_section_url: "/Sorularla_Web3/bolum-4/merkeziyetsiz-finans-defi/"
+book_section_title: "Merkeziyetsiz finans (DeFi): avantajlar, engeller ve yaygınlaşma yolu"
+book_title: "Sorularla Web3"
+book_note: newer
 ---
 
 Hemen hemen tüm merkeziyetsiz teknolojilerde olduğu gibi DeFi'de de şu aralar bir yavaşlama söz konusu. 2020 yılının yaz aylarında başlayan DeFi yaz dönemi, 2022 yılı ile birlikte, yerini kimine göre sonbahar kimine göre kışa bıraktı.  Gelin DeFi'nin şimdiye kadar yaşadığı büyüme hikayesi ile birlikte önümüzdeki dönemde daha geniş kitlelere ulaşması için nelere ihtiyaç duyduğuna bir göz atalım. 

@@ -5,6 +5,10 @@ date:   2018-03-13 14:25:15 +0300
 categories: Genel
 tags: kriptoPara bitcoin blockchain giriş Web3.0 dağıtık adem-i_merkezi
 image: /assets/Screenshot-2018-3-13 Google Trends.png
+book_section_url: "/Sorularla_Blockchain/bolum-5/bitcoin-ne-tam-olarak/"
+book_section_title: "Bitcoin nedir? Uzlaşma mekanizması ve Bitcoin'in değeri"
+book_title: "Sorularla Blockchain"
+book_note: neutral
 ---
 
 Önceki yazılarımızda dijital dünyada son yaşanan gelişmelere farklı bir perspektiften bakmış ve bu gelişmelerin temelinde yer alan Blockchain teknolojisine göz atarak bu dünyaya hızlı bir giriş yapmıştık. 

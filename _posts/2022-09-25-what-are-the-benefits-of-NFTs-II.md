@@ -6,6 +6,10 @@ categories: Genel
 tags: Yazılar, NFT, Articles
 image: /assets/nft-7072864_800.jpg
 lang: en
+book_section_url: "/Web3_Unlocked/chapter-4/nft-universe/"
+book_section_title: "NFTs explained: how NFTs add value (provenance, royalties, fractional ownership)"
+book_title: "Web3 Unlocked"
+book_note: newer
 ---
 
 We continue on exploring how NFTs add value to any object. 

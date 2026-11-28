@@ -5,6 +5,10 @@ date:   2023-11-30 18:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
 image: /assets/ethereum-birlesik-devletleri.png
+book_section_url: "/Sorularla_Web3/bolum-2/ethereumun-ekonomisi-nasil-calisiyor/"
+book_section_title: "Ethereum'un gelirleri, giderleri ve ETH para politikası"
+book_title: "Sorularla Web3"
+book_note: newer
 ---
 
 Bu yazımızda Ethereum ağının ekonomisinin nasıl çalıştığına, önemli aktörlerine ve üzerinde ne tip bir değer yaratıldığına değineceğiz. 

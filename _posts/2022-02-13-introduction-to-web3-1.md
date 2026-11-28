@@ -6,6 +6,10 @@ categories: Genel
 tags: Yazılar, Articles
 image: /assets/maze-1804499_800.jpg
 lang: en
+book_section_url: "/Web3_Unlocked/chapter-1/web3/"
+book_section_title: "Web3 explained: the quest for digital ownership (Web1, Web2, Web3)"
+book_title: "Web3 Unlocked"
+book_note: newer
 ---
 
 In this mini-series we will have a brief introduction to Web 3 philosophy. Let's jump in. 

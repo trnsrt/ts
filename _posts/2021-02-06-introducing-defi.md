@@ -6,6 +6,10 @@ categories: Genel
 tags: Yazılar, Articles
 image: /assets/girl-2940655_800.jpg
 lang: en
+book_section_url: "/Web3_Unlocked/chapter-4/decentralized-finance/"
+book_section_title: "DeFi explained: how decentralized finance works and why finance came first in Web3"
+book_title: "Web3 Unlocked"
+book_note: newer
 ---
 
 Traditional finance is going through difficult times: Haunted by its own past it is failing to adapt to changing customer demands. What are the key problems they are facing? How would DeFi address them?

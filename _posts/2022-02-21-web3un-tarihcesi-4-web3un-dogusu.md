@@ -5,6 +5,10 @@ date:   2022-02-21 08:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, DeFi'ye Giriş
 image: /assets/british-columbia-3785254_800.jpg
+book_section_url: "/Sorularla_Web3/bolum-1/web3/"
+book_section_title: "Web3 nedir? Web 1.0 ve Web 2.0'dan Web3'e geçiş"
+book_title: "Sorularla Web3"
+book_note: newer
 ---
 
 Gelin Web3'ün nasıl doğduğuna hep birlikte bakalım. 

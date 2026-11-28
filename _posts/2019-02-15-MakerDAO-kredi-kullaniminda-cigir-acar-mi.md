@@ -4,6 +4,10 @@ title:  "MakerDAO kredi kullanımında çığır açar mı?"
 date:   2019-02-15 12:42:56 +0300
 categories: Genel
 image: /assets/makerdao-dai.png
+book_section_url: "/Sorularla_DeFi/bolum-2/makerdao/"
+book_section_title: "MakerDAO ve DAI: kişiye özel merkez bankası"
+book_title: "Sorularla DeFi"
+book_note: newer
 ---
 
 

@@ -5,6 +5,10 @@ date:   2023-03-14 12:17:56 +0300
 categories: Genel
 tags: Yazılar, DeFi, CoindeskTR
 image: /assets/banka_menkul-kiymet-zarar_800.jpg
+book_section_url: "/Sorularla_Web3/bolum-4/2023-abd-bankacilik-krizi/"
+book_section_title: "2023 ABD bankacılık krizi (SVB, Silvergate, Signature): ne oldu, neden oldu?"
+book_title: "Sorularla Web3"
+book_note: edited
 ---
 
 Bu yazımızda üç bankanın batış hikayesinden yola çıkarak finansal piyasalarda bizi nelerin beklediğini anlamaya çalışacağız. 

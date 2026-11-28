@@ -5,6 +5,10 @@ date:   2020-09-15 18:47:56 +0300
 categories: Genel
 tags: Yazılar DeFi
 image: /assets/Uniswap_islemler_640.png
+book_section_url: "/Sorularla_DeFi/bolum-2/uniswap/"
+book_section_title: "Uniswap ve DeFi'nin merkeziyetsiz borsaları: nasıl çalışıyor?"
+book_title: "Sorularla DeFi"
+book_note: newer
 ---
 
 Uniswap merkeziyetsiz olarak işlem yapılan bir kripto para borsası - ve bu alanın eskilerinden. Her ne kadar borsa olarak adlandırsak da Uniswap özünde İngilizce'de "market maker" olarak adlandırılan piyasa yapıcı bir havuz. Biraz daha açalım: 

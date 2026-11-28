@@ -5,6 +5,10 @@ date:   2020-12-29 16:47:56 +0300
 categories: Genel
 tags: Yazılar DeFi
 image: /assets/chain-1995543_640.jpg
+book_section_url: "/Sorularla_DeFi/bolum-3/chainlink/"
+book_section_title: "Chainlink ve oracle'lar: DeFi'nin bilgi kaynağı"
+book_title: "Sorularla DeFi"
+book_note: neutral
 ---
 
 Bir önceki yazımızda, Merkeziyetsiz Finans (DeFi) piyasasına bilgi sağlayan [oracle (uzman/kahin) servis sağlayıcılardan bahsetmiş](/genel/2020/12/22/definin-bilgi-kaynagi-oracle.html), bu piyasanın tartışmasız en büyüğü olan Chainlink'i ise bu yazımıza saklamıştık. Buyurun hep birlikte bakalım kısaca Chainlink'e... 
