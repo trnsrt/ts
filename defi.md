@@ -5,7 +5,7 @@ permalink: /defi/
 description: "Merkeziyetsiz finans (DeFi) üzerine Turan Sert'in yazılarının konulara göre listesi ve Sorularla DeFi kitabının ücretsiz PDF bağlantısı."
 ---
 
-Blockchain'in finans alanındaki uygulamalarına DeFi (decentralized finance - merkeziyetsiz finans) deniyor. Bu alandaki yayınlanmış tüm yazıları aşağıda bulabilirsiniz. 'Sorularla DeFi - Merkeziyetsiz Finans' kitabının ücretsiz olarak [buradan indirebilirsiniz](/Sorularla_DeFi/oku/)
+Blockchain'in finans alanındaki uygulamalarına DeFi (decentralized finance - merkeziyetsiz finans) deniyor. Bu alandaki yayınlanmış tüm yazıları aşağıda bulabilirsiniz. 'Sorularla DeFi - Merkeziyetsiz Finans' kitabını ücretsiz olarak [buradan okuyabilirsiniz](/Sorularla_DeFi/).
 
 
 - Merkeziyetsiz Finans (DeFi) hareketini yakından tanımak için
