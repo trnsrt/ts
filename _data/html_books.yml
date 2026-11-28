@@ -47,6 +47,7 @@ sorularla_defi:
   chapter_path: /Sorularla_DeFi/bolum-
   isbn: "978-605-73998-6-1"
   lang: tr
+  edition_note: "İlk baskı: Ocak 2022 · Web sürümü: Kasım 2026"
   chapter_word: "Bölüm"
   intro_word: "Giriş"
   prev_word: "Önceki"
@@ -67,6 +68,7 @@ sorularla_blockchain:
   chapter_path: /Sorularla_Blockchain/bolum-
   isbn: ""
   lang: tr
+  edition_note: "İlk baskı: Eylül 2019 · Web sürümü: Kasım 2026"
   chapter_word: "Bölüm"
   intro_word: "Giriş"
   prev_word: "Önceki"

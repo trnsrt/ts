@@ -35,6 +35,10 @@ layout: default
     <h1>{{ page.heading | default: page.title | escape }}</h1>
   </header>
 
+  {%- if b.edition_note %}
+  <p class="book-edition">{{ b.edition_note | escape }}</p>
+  {%- endif %}
+
   {%- assign xl = nil -%}
   {%- for t in site.data.book_translations -%}
     {%- if t.tr == page.url -%}{%- assign xl_url = t.en -%}{%- assign xl_label = "İngilizce baskı" -%}{%- assign xl = true -%}
