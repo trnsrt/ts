@@ -24,12 +24,6 @@ description: "Turan Sert'in Sorularla Web3 kitabı: Web3'ü soru-cevap biçimind
 
 &nbsp;
 
-Merhaba!
-
-Kitap [Scala Yayıncılık web sitesinde](https://www.scalakitapci.com/sorularla-web3) online olarak satışta.
-
-&nbsp;
-
 ## Kitap hakkında
 
 *Sorularla Web3*, Turan Sert'in üçüncü kitabı; Web3'ü soru-cevap biçiminde anlatan bir rehber. Web'in tarihçesinden Web3 ekonomisinin yapı taşlarına, bu ekonominin aktörlerinden uygulama alanlarına ve tokenleştirmeye uzanıyor. Kitabın ana bölümleri:
@@ -45,6 +39,8 @@ Kitap [Scala Yayıncılık web sitesinde](https://www.scalakitapci.com/sorularla
 Kitabın tamamını üye olmadan, çevrimiçi ve ücretsiz olarak [buradan](/Sorularla_Web3/oku/) okuyabilirsiniz. İngilizce baskısı: [Web3 Unlocked](/Web3_Unlocked/).
 
 Scala Yayıncılık, Şubat 2025. ISBN 978-625-8177-71-8.
+
+Kitap [Scala Yayıncılık web sitesinde](https://www.scalakitapci.com/sorularla-web3) online olarak satışta.
 
 &nbsp;
 
