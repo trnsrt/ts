@@ -1,6 +1,6 @@
 {%- comment -%}
   Person structured data. Home page: Person. About page: ProfilePage whose mainEntity is the same Person.
-  Facts come only from about.md. sameAs mirrors the URLs in social.html.
+  Facts come only from about.md. sameAs mirrors the URLs in social.html, plus the Open Library author record.
 {%- endcomment -%}
 {%- if page.url == "/" or page.url == "/about/" -%}
 {%- capture props -%}
@@ -20,6 +20,7 @@
     {%- if site.instagram_username -%}, "https://instagram.com/{{ site.instagram_username | cgi_escape }}"{%- endif -%}
     {%- if site.youtube_username -%}, "https://youtube.com/channel/{{ site.youtube_username | cgi_escape }}"{%- endif -%}
     {%- if site.nostr_npub -%}, "https://njump.me/{{ site.nostr_npub | cgi_escape }}"{%- endif -%}
+    , "https://openlibrary.org/authors/OL16801080A"
   ]
 {%- endcapture -%}
 <script type="application/ld+json">
