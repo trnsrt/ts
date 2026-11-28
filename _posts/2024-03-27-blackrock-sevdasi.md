@@ -6,7 +6,7 @@ categories: Genel
 tags: Yazılar, DeFi
 image: /assets/basalt-bars-2173278_800.jpg
 book_section_url: "/Sorularla_Web3/bolum-5/blackrock-token-hamlesi/"
-book_section_title: "BlackRock'ın token hamlesi: BUIDL tokenleştirilmiş fonu"
+book_section_title: "BlackRock’un token hamlesi: BUIDL tokenleştirilmiş fonu"
 book_title: "Sorularla Web3"
 book_note: edited
 ---
