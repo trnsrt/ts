@@ -16,7 +16,7 @@ Bunlardan ilki Blockchain Türkiye aracılığıyla 2019 yılında yayınlanan "
 
 İkinci kitap ise 2022 yılının başında yayınlanan "[Sorularla DeFi - Merkeziyetsiz Finans](/Sorularla_DeFi/)". Kitabın tamamını [bölüm bölüm çevrimiçi ve ücretsiz okuyabilirsiniz](/Sorularla_DeFi/); PDF sürümü [burada](/Sorularla_DeFi/oku/). 
 
-Üçüncü kitap ise 2025 Şubat ayında yayınlanan "[Sorularla Web3](https://www.scalakitapci.com/sorularla-web3)". Kitap [Scala Yayıncılık websitesinde](https://www.scalakitapci.com/sorularla-web3) sizlerle buluşuyor. Kitabın tamamını [bölüm bölüm çevrimiçi ve ücretsiz okuyabilirsiniz](/Sorularla_Web3/); PDF sürümü [burada](/Sorularla_Web3/oku/). 
+Üçüncü kitap ise 2025 Ocak ayında yayınlanan (satışa çıkışı Şubat 2025) "[Sorularla Web3](https://www.scalakitapci.com/sorularla-web3)". Kitap [Scala Yayıncılık websitesinde](https://www.scalakitapci.com/sorularla-web3) sizlerle buluşuyor. Kitabın tamamını [bölüm bölüm çevrimiçi ve ücretsiz okuyabilirsiniz](/Sorularla_Web3/); PDF sürümü [burada](/Sorularla_Web3/oku/). 
 
 Dördüncü kitabım "[Web3 Unlocked](/Web3_Unlocked/)" (2026), üçüncü kitabım "Sorularla Web3"ün İngilizce çevirisi. Web3 dünyasını İngilizce okumak isteyenler için hazırlanan kitabı [bölüm bölüm çevrimiçi ve ücretsiz okuyabilirsiniz](/Web3_Unlocked/); PDF sürümü [burada](/Web3_Unlocked/read/).
 
