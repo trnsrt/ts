@@ -106,9 +106,9 @@ Blockchain sözünü işitiyor ancak ne işe yaradığını çok da bilmiyorsan�
   - [KriptoBorsa'larda nasıl işlem yaparım?](/genel/2018/10/04/kriptoborsalarda-nasil-islem-yaparim.html) *(4 Ekim 2018)*
   - [Paranız KriptoCüzdan ile güvende](/genel/2018/10/11/KriptoParaniz-KriptoCuzdan-ile-guvende.html) *(11 Ekim 2018)*
   - [Hangi KriptoCüzdan bana uygun?](/genel/2018/10/12/Hangi-KriptoCuzdan-bana-uygun.html) *(12 Ekim 2018)*
-- KriptoParalar’ın inişli-çıkışlı yapısı sizi tedirgin ediyorsa, SabitPara kavramını anlamak için 
-  - [Orası çok dalgalı, sakin sulara gel: SabitParalar](/genel/2018/07/20/Orasi-cok-dalgali-sakin-sulara-gel-sabitparalar.html) *(20 Temmuz 2018)*
-  - [SabitParalar’a devam — diğerleri](/genel/2018/07/27/sabitparalara-devam-digerleri.html) *(27 Temmuz 2018)*
+- KriptoParalar’ın inişli-çıkışlı yapısı sizi tedirgin ediyorsa, stabil para kavramını anlamak için 
+  - [Orası çok dalgalı, sakin sulara gel: Stabil paralar](/genel/2018/07/20/Orasi-cok-dalgali-sakin-sulara-gel-sabitparalar.html) *(20 Temmuz 2018)*
+  - [Stabil paralara devam — diğerleri](/genel/2018/07/27/sabitparalara-devam-digerleri.html) *(27 Temmuz 2018)*
 
 &nbsp;
 - Yeni teknolojileri ayakta tutan en önemli yeniliklerden 'Şifreleme' ile ilgili

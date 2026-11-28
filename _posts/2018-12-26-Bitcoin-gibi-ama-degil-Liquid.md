@@ -16,7 +16,7 @@ Kısaca hatırlayacak olursak, Lightning Network Bitcoin üzerine kurulmuş ikin
 
 Liquid hisse alım-satımı yapan kurumlar ve borsalar arasında hızlı işlem yapmaya yarayan bir özel bir Blockchain. Lightning Network gibi Bitcoin üzerine kurulmuş bir tabaka değil de, Bitcoin'e bağlı bir yan-zincir (side-chain). Ne demek yan zincir? Açıklayalım:
 
-Liquid'in yaratmış olduğu özel bir Blockchain ve buna bağlı olan bir para var L-BTC adında. Hatırlarsanız daha önce Sabitparalar'dan bahsetmiştik. Kendilerini ABD Doları gibi Fiat paraya bağlayan sanal paralardan. L-BTC de kendini Bitcoin'e bağlamış. Yani hem BTC ile aynı değerde hem de bir L-BTC yaratılması için aynı oranda  bir BTC karşılığının olması gerekiyor. Kullanıcılar BTC (Bitcoin'in parası) sahibi olmaya devam ederken L-BTC'nin sağladığı ek avantajlardan yararlanabiliyorlar.  
+Liquid'in yaratmış olduğu özel bir Blockchain ve buna bağlı olan bir para var L-BTC adında. Hatırlarsanız daha önce stabil paralardan bahsetmiştik. Kendilerini ABD Doları gibi Fiat paraya bağlayan sanal paralardan. L-BTC de kendini Bitcoin'e bağlamış. Yani hem BTC ile aynı değerde hem de bir L-BTC yaratılması için aynı oranda  bir BTC karşılığının olması gerekiyor. Kullanıcılar BTC (Bitcoin'in parası) sahibi olmaya devam ederken L-BTC'nin sağladığı ek avantajlardan yararlanabiliyorlar.  
 
 
 ![Liquid by Blockstream logosu; Bitcoin yan zinciri Liquid Network'ü tanıtan başlık görseli](/assets/liquid_header-min2.png)
@@ -28,7 +28,7 @@ Kullanıcılar ise L-BTC ile istedikleri gibi işlem yapabiliyor ama L-BTC'lerin
 
 ### Nedir sağladığı avantajlar Liquid'in?
 
-Kullanıcılar için Liquid'in sağladığı en büyük avantaj SabitParalar ile benzer aslında. 
+Kullanıcılar için Liquid'in sağladığı en büyük avantaj stabil paralar ile benzer aslında. 
 
 Kriptoparanızı (buradaki örnekte BTC'nizi) bir borsada tutmak riskli. Neden? Her ne kadar KriptoBorsa'lar her tür güvenlik önlemini alsalar da merkezi yapılar - dış tehdit ve saldırılara açıklar*. O nedenle özellikle büyük miktarda parayı kurumsal yatırımcılar borsalarda tutmak istemiyorlar.  
 

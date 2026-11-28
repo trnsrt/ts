@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Orası çok dalgalı, sakin sulara gel: SabitParalar"
+title:  "Orası çok dalgalı, sakin sulara gel: Stabil paralar"
 date:   2018-07-20 14:46:15 +0300
 categories: Genel
 image: /assets/coindesk-bpi-chart-600.jpg
@@ -48,28 +48,28 @@ Acaba fiyatı sabit olan bir KriptoPara yapılamaz mıydı? Güzel soru ama kend
 
 &nbsp;
 
-Stabil bir para aslında kendi içinde oksimoron (zıt şekilde çelişkili) bir ifade. O zaman belki de şu soruyu sormak daha mantıklı: Tamam, öyle stabil olmasın da en azından doların euro karşısında yaşadığı gibi dalgalanmaları hafif olsun, denizde hafif dalgalanmalar hissedelim, öyle her akşam yattığımızda acaba yarın sabah %10 zengin mi uyanacağım yoksa %10 fakir mi diye yüreğimiz ağzımızda olmasın. Bakın bu daha mantıklı bir soru - cevabı için de şu günlerde harıl harıl çalışıyor insanlar... Çalıştıkları konu ise SabitPara (Stable coin) kavramı. Örnekleri uzun zamandır etrafta, ancak kullanım olarak hala gerideler... 
+Stabil bir para aslında kendi içinde oksimoron (zıt şekilde çelişkili) bir ifade. O zaman belki de şu soruyu sormak daha mantıklı: Tamam, öyle stabil olmasın da en azından doların euro karşısında yaşadığı gibi dalgalanmaları hafif olsun, denizde hafif dalgalanmalar hissedelim, öyle her akşam yattığımızda acaba yarın sabah %10 zengin mi uyanacağım yoksa %10 fakir mi diye yüreğimiz ağzımızda olmasın. Bakın bu daha mantıklı bir soru - cevabı için de şu günlerde harıl harıl çalışıyor insanlar... Çalıştıkları konu ise stabil para (Stable coin) kavramı. Örnekleri uzun zamandır etrafta, ancak kullanım olarak hala gerideler... 
 
-### Nedir bu SabitPara? Var mı böyle bir "şey" gerçekten?
+### Nedir bu stabil para? Var mı böyle bir "şey" gerçekten?
 
 Efendim, KriptoPara dünyasındaki dalgalanmanın neden olduğu zararının özünde getireceği pekçok faydaya ağır bastığını ve bunun da bu paraların yaygın kitlelerce kullanımını sekteye uğrattığını gören girişimciler uzun zamandır yeni tip daha stabil paralar yaratmak için çalışıyorlar. 
 
 Peki nasıl bir zarar veriyor bu dalgalanmalar? Şöyle bir benzerlik kurmak mümkün: Şu an yaşadığımız ve kağıt paralardan oluşan dünyayı bir kıta olarak düşünün - her tür ekonomik işlemin kağıt paralar ile gerçekleştirildiği. Bir de bu kıtaya yakın küçücük bir ada düşünün - Kripto adası. İçinde pekçok güzellikler olan bir yer. Ancak bu adaya gidip gelmek zor. Botlar var ve bu botlar ile hergün belli sayıda insan oldukça zahmetli bir şekilde geliyor. Ama gelmesi zor olduğu gibi geri dönmesi de zor. Peki bu adaya şöyle dört şerit gidiş-dört şerit geliş geniş bir köprü yapılsaydı? O zaman insanlar rahatça gider gelirlerdi. Hatta günde bir kaç kere gidip gelebilirlerdi. Ne de olsa ulaşım kolay, o kadar zahmete değiyor artık... 
 
-İşte SabitPara'lar da bir nevi bu köprüler... KriptoParanız var ise bunu kullanmak çok basit. Daha önce anlattık, buradan dünyanın her yerine 10 dakika içinde istediğiniz parayı gönderiyorsunuz. Ama normal kağıt para dünyasından KriptoPara dünyasına girmek hem zahmetli, hem masraflı hem de vakit alıyor. Varlığınızı iniş-çıkışlardan dolayı KriptoPara olarak tutmak istemiyor, ama bir yandan da getirdiği kolaylıklardan faydalanmak istiyorsanız alın bir SabitPara, varlığınız SabitPara'da dursun, istediğinizde istediğiniz başka KriptoPara'ya (örneğin Bitcoin'e) anında çevirin işleminizi yapın. Ya da bir yerden Bitcoin mi geldi, değerini kaybetme riski yaşamadan anında SabitPara'ya çevirin, içiniz rahat olsun.
+İşte stabil paralar da bir nevi bu köprüler... KriptoParanız var ise bunu kullanmak çok basit. Daha önce anlattık, buradan dünyanın her yerine 10 dakika içinde istediğiniz parayı gönderiyorsunuz. Ama normal kağıt para dünyasından KriptoPara dünyasına girmek hem zahmetli, hem masraflı hem de vakit alıyor. Varlığınızı iniş-çıkışlardan dolayı KriptoPara olarak tutmak istemiyor, ama bir yandan da getirdiği kolaylıklardan faydalanmak istiyorsanız alın bir stabil para, varlığınız stabil parada dursun, istediğinizde istediğiniz başka KriptoPara'ya (örneğin Bitcoin'e) anında çevirin işleminizi yapın. Ya da bir yerden Bitcoin mi geldi, değerini kaybetme riski yaşamadan anında stabil paraya çevirin, içiniz rahat olsun.
 
 
-### SabitParalar neye göre sabit?
+### Stabil paralar neye göre sabit?
 
 Yukarıda yazdığımız sorunlara çözüm bulabilmek için nasıl yapalım da bu parayı sabitleyelim düşünürken, ilk akla gelen fikir "öyle bir para yaratalım ki dolara endekslenmiş olsun, bankada dolar tutmakla borsada bu parayı tutmak birbirinin tıpatıp aynısı olsun" olmuş.. Bu düşüncenin sonucu ortaya çıkan pekçok para var. 
 
 Mantıklı mı? Bir dereceye kadar evet. Neden mi? Bir kere başta dediğimiz gibi ABD Doları'na bağlı olan bir para, diğer paralar karşısında aynen ABD Doları gibi dalgalanacak. Dolayısı ile çok sabit sayılmaz. Teorik olarak yine Dolar gibi ABD'de yıllık enflasyon ne kadar ise senelik o kadar değer kaybına uğrayacak. Ama bunlar zaten bildiğimiz konular - yine de Bitcoin vb paraya göre daha stabil olacak değil mi? Teorik olarak evet. 
 
-Sabitparalar içinde en bilineni ise Tether (USDT).. Nedir bu Tether? Nasıl çalışır?
+Stabil paralar içinde en bilineni ise Tether (USDT).. Nedir bu Tether? Nasıl çalışır?
 
 ### Ve Tether.. 
 
-2015 yılında kurulan Tether'in çalışma mantığı aslında basit. Şöyle demiş kuranlar: Tether'i ABD Doları'na endeksleyelim. Öyle ki her zaman 1 Tether 1 Dolara eşit olsun. Tether satın almak isteyen getirsin dolarını o kadarlık Tether alsın. Bunun için de yaratılan (satılan) her Tether için o kadarlık parayı bir bankada hesaba yatırmışlar. Yani piyasada bulunan her Tetherin karşılığı olarak bankada aynı miktarda dolar bulundurmuşlar. Dolayısıyla, dolar teminatlı bir SabitPara yaratılmış Tether ile. 
+2015 yılında kurulan Tether'in çalışma mantığı aslında basit. Şöyle demiş kuranlar: Tether'i ABD Doları'na endeksleyelim. Öyle ki her zaman 1 Tether 1 Dolara eşit olsun. Tether satın almak isteyen getirsin dolarını o kadarlık Tether alsın. Bunun için de yaratılan (satılan) her Tether için o kadarlık parayı bir bankada hesaba yatırmışlar. Yani piyasada bulunan her Tetherin karşılığı olarak bankada aynı miktarda dolar bulundurmuşlar. Dolayısıyla, dolar teminatlı bir stabil para yaratılmış Tether ile. 
 
 
 ![Tether logosu](/assets/tether-logo-400-v2.png) 	
@@ -78,12 +78,12 @@ Ancak yine de başka sorunları yok değil. Örneğin, KriptoPara dediğimiz dü
 
 Bunun yanında bir de büyüklük (ölçekleme) sorunu var. Eğer hedeflenen vizyon bir gün bu KriptoPara'nın tüm dünyada kullanılacak hale gelmesi ise bahsettiğimiz milyarlarca dolarlık bir ekonomik büyüklük. Ne yapacaksınız, tüm bu büyüklük karşılığı ABD Doları'nı bankaya mı yatıracaksınız? Yatırabilirsiniz tabii bir sorun yok ama bu büyüklüğe ulaşmak için geçeceğiniz yolları hem zorlu hale getirecek bu teminat sistemi hem de oldukça yavaşlatacak. Hızlı bir şekilde bu sistemin büyümesi oldukça zor olacak gibi görünüyor.
 
-Sonuç olarak Tether şu anda belli bir işlevi yerine getiriyor. İşe de yarıyor. Ama biraz mevcut dünyada kullanılan bir işlevin Kripto dünyasına adapte edilmeye çalışılmış hali gibi. Şifreli Harikalar Dünyası'nın içindeki vizyona (bağımsız, başta merkez bankaları olmak üzere merkezi otorite etkisinden uzak, dağıtık bir yapı) ise henüz çok uzak. Muhtemelen o vizyona diğer SabitParalar daha yakın olacaklar. 
+Sonuç olarak Tether şu anda belli bir işlevi yerine getiriyor. İşe de yarıyor. Ama biraz mevcut dünyada kullanılan bir işlevin Kripto dünyasına adapte edilmeye çalışılmış hali gibi. Şifreli Harikalar Dünyası'nın içindeki vizyona (bağımsız, başta merkez bankaları olmak üzere merkezi otorite etkisinden uzak, dağıtık bir yapı) ise henüz çok uzak. Muhtemelen o vizyona diğer stabil paralar daha yakın olacaklar. 
 
 
-### Diğer SabitParalar - arkası yarında..
+### Diğer stabil paralar - arkası yarında..
 
-SabitPara nedir, en bilineni Tether nasıl işler derken bu yazımızın sınırını aşmaya başladık. Yazdığımız gibi SabitPara'lar Tether ile sınırlı değil, tam tersine yeni tip SabitParalar çok daha farklı dünyalar açıyor önümüze.. Ona da bir sonraki yazımızda bakalım artık.. 
+Stabil para nedir, en bilineni Tether nasıl işler derken bu yazımızın sınırını aşmaya başladık. Yazdığımız gibi stabil paralar Tether ile sınırlı değil, tam tersine yeni tip stabil paralar çok daha farklı dünyalar açıyor önümüze.. Ona da bir sonraki yazımızda bakalım artık.. 
 
 
 &nbsp;

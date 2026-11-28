@@ -130,9 +130,9 @@ description: "Turan Sert'in blokzincir, Bitcoin, Ethereum, DeFi ve diğer Web3 k
   - [KriptoBorsa'larda nasıl işlem yaparım?](/genel/2018/10/04/kriptoborsalarda-nasil-islem-yaparim.html)
   - [Paranız KriptoCüzdan ile güvende](/genel/2018/10/11/KriptoParaniz-KriptoCuzdan-ile-guvende.html)
   - [Hangi KriptoCüzdan bana uygun?](/genel/2018/10/12/Hangi-KriptoCuzdan-bana-uygun.html)
-- KriptoParalar’ın inişli-çıkışlı yapısı sizi tedirgin ediyorsa, SabitPara kavramını anlamak için 
-  - [Orası çok dalgalı, sakin sulara gel: SabitParalar](/genel/2018/07/20/Orasi-cok-dalgali-sakin-sulara-gel-sabitparalar.html)
-  - [SabitParalar’a devam — diğerleri](/genel/2018/07/27/sabitparalara-devam-digerleri.html)
+- KriptoParalar’ın inişli-çıkışlı yapısı sizi tedirgin ediyorsa, stabil para kavramını anlamak için 
+  - [Orası çok dalgalı, sakin sulara gel: Stabil paralar](/genel/2018/07/20/Orasi-cok-dalgali-sakin-sulara-gel-sabitparalar.html)
+  - [Stabil paralara devam — diğerleri](/genel/2018/07/27/sabitparalara-devam-digerleri.html)
 
 &nbsp;
 - Yeni teknolojileri ayakta tutan en önemli yeniliklerden 'Şifreleme' ile ilgili

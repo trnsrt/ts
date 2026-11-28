@@ -14,7 +14,7 @@ Bir paragrafta özetleyelim:
 
 - Facebook, [27 diğer kurum](https://web.archive.org/web/20190703200846/https://libra.org/en-US/partners/) ile birlik olarak merkezi Cenevre'de bulunan [bir vakıf kuruyor](https://web.archive.org/web/20190703200847/https://libra.org/en-US/association/). 
 - Bu vakıf 2020 yılında Libra adında bir Blockchain kurarak aynı adlı bir kripto para çıkaracak. 
-- Bu para, aslında %100 dolar ve benzeri paralardan oluşan bir sepet ile desteklenen bir [SabitPara](/genel/2018/07/20/Orasi-cok-dalgali-sakin-sulara-gel-sabitparalar.html) (stable coin). 
+- Bu para, aslında %100 dolar ve benzeri paralardan oluşan bir sepet ile desteklenen bir [stabil para](/genel/2018/07/20/Orasi-cok-dalgali-sakin-sulara-gel-sabitparalar.html) (stable coin). 
 - Kişiden kişiye para transferi dışında, Facebook sistemi içindeki pek çok hizmet alımının karşılığında ödeme olarak da kullanılabilecek (ortaklar, örneğin Uber için de geçerli bu). 
 - Biz bireyler, elimizdeki TL, ABD Doları vb parayı Libra'ya çevirip sistem içinde kullanabileceğiz. Bunu yaparken normal olarak dijital cüzdanlar kullanacağız. [Calibra](https://calibra.com/), bu cüzdanların [Facebook tarafından](https://newsroom.fb.com/news/2019/06/coming-in-2020-calibra/) çıkarılan ilk örneği. 
 
@@ -112,7 +112,7 @@ Facebook'un geçmişte platformunu kullanan şirketler (oyun şirketleri, reklam
 #### Diğer kripto paralar?
 Libra'nın ilk aşamada para transferi işlemi yapacağını öngörürsek, bu alanda etkileyeceği ilk paralardan birinin XRP olduğunu söylemek yanlış olmaz. Zaten bu nedenle Libra açıklamasının yapıldığı gün XRP'nin sahibi Ripple'in para transfer kuruluşu Moneygram'a 50 milyon ABD Dolarına ulaşacak miktarda bir yatırım yapacağı haberi piyasalara [düştü](https://www.coindesk.com/ripple-could-invest-up-to-50-million-in-moneygram-in-xrp-boosting-deal). 
 
-Bunun yanında SabitPara (stable coin) olarak piyasada kendine yer bulmaya çalışan [Tether](https://tether.to/) benzeri paralar en büyük tehlike altında olanlar. Facebook gibi daha geniş kullanıcılı, destekçileri daha güçlü bir rakip karşısında bu yeni yetme SabitPara'ların kullanıcı tabanlarını genişletmek anlamında işlerinin çok zor olacağını söyleyebiliriz. 
+Bunun yanında stabil para (stable coin) olarak piyasada kendine yer bulmaya çalışan [Tether](https://tether.to/) benzeri paralar en büyük tehlike altında olanlar. Facebook gibi daha geniş kullanıcılı, destekçileri daha güçlü bir rakip karşısında bu yeni yetme stabil paraların kullanıcı tabanlarını genişletmek anlamında işlerinin çok zor olacağını söyleyebiliriz. 
 
 ### Biz son kullanıcılar için ne önemi var?
 Libra'nın en önemli etkisinin, belki bu yazıyı okuyan kitle için değil ama bankacılık sistemine dahil olmayan [1,7 milyar insan](https://globalfindex.worldbank.org/) için olacağını söylemek sanırım yanlış olmaz. Bu kadar geniş bir kitlenin birbirleri ile Facebook (ya da Whatsapp) üzerinden ekonomik ilişkiye girebilmeleri çok kritik. 
