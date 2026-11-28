@@ -4,6 +4,22 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   {% seo %}
+  {%- comment -%} hreflang: only the Turkish/English book pairs (_data/book_translations.yml) and the two root/reader page pairs. No x-default. {%- endcomment -%}
+  {%- assign hl_tr = nil -%}
+  {%- assign hl_en = nil -%}
+  {%- if page.url == "/Sorularla_Web3/" or page.url == "/Web3_Unlocked/" -%}
+    {%- assign hl_tr = "/Sorularla_Web3/" -%}{%- assign hl_en = "/Web3_Unlocked/" -%}
+  {%- elsif page.url == "/Sorularla_Web3/oku/" or page.url == "/Web3_Unlocked/read/" -%}
+    {%- assign hl_tr = "/Sorularla_Web3/oku/" -%}{%- assign hl_en = "/Web3_Unlocked/read/" -%}
+  {%- elsif page.collection == "sorularla_web3" or page.collection == "web3_unlocked" -%}
+    {%- for t in site.data.book_translations -%}
+      {%- if t.tr == page.url or t.en == page.url -%}{%- assign hl_tr = t.tr -%}{%- assign hl_en = t.en -%}{%- break -%}{%- endif -%}
+    {%- endfor -%}
+  {%- endif -%}
+  {%- if hl_tr and hl_en %}
+  <link rel="alternate" hreflang="tr" href="{{ hl_tr | absolute_url }}">
+  <link rel="alternate" hreflang="en" href="{{ hl_en | absolute_url }}">
+  {%- endif %}
   {% include person-jsonld.html %}
   {% include book-jsonld.html %}
   {% include chapter-jsonld.html %}
