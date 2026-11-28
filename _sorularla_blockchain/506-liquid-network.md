@@ -22,7 +22,7 @@ Kısaca hatırlayacak olursak, Lightning Network Bitcoin üzerine kurulmuş ikin
 
 Liquid hisse alım-satımı yapan kurumlar ve borsalar arasında hızlı işlem yapmaya yarayan özel bir Blockchain. Farkı Lightning Network gibi Bitcoin üzerine kurulmuş bir tabaka değil de Bitcoin’e bağlı bir yan-zincir (side-chain) olması. Ne demek yan zincir? Açıklayalım:
 
-Liquid’in yaratmış olduğu özel bir Blockchain ve buna bağlı olan bir para var L-BTC adında (Sabitparalar’dan bir başka [bölümde](/Sorularla_Blockchain/bolum-6/diger-kripto-paralar-neler/#sabitparalar-dalgali-denizler-icinde-sakin-sular-sunar-mi-bize) bahsediyoruz). Kendilerini ABD Doları gibi İtibari paraya bağlayan sanal paralardan. L-BTC de kendini Bitcoin’e bağlamış. Yani hem BTC ile aynı değerde hem de bir L-BTC yaratılması için aynı oranda bir BTC karşılığının olması gerekiyor. Kullanıcılar BTC (Bitcoin’in parası) sahibi olmaya devam ederken L-BTC’nin sağladığı ek avantajlardan yararlanabiliyorlar.
+Liquid’in yaratmış olduğu özel bir Blockchain ve buna bağlı olan bir para var L-BTC adında (sabit paralardan bir başka [bölümde](/Sorularla_Blockchain/bolum-6/diger-kripto-paralar-neler/#sabitparalar-dalgali-denizler-icinde-sakin-sular-sunar-mi-bize) bahsediyoruz). Kendilerini ABD Doları gibi İtibari paraya bağlayan sanal paralardan. L-BTC de kendini Bitcoin’e bağlamış. Yani hem BTC ile aynı değerde hem de bir L-BTC yaratılması için aynı oranda bir BTC karşılığının olması gerekiyor. Kullanıcılar BTC (Bitcoin’in parası) sahibi olmaya devam ederken L-BTC’nin sağladığı ek avantajlardan yararlanabiliyorlar.
 
 <figure markdown="1">
 <a href="/assets/books/sorularla-blockchain/506-1.png"><img src="/assets/books/sorularla-blockchain/506-1.png" alt="Kaynak: Blockstream" width="601" height="600" loading="lazy"></a>
@@ -35,7 +35,7 @@ Kullanıcılar ise L-BTC ile istedikleri gibi işlem yapabiliyor ama L-BTC’ler
 
 ## Nedir sağladığı avantajlar Liquid’in? {#nedir-sagladigi-avantajlar-liquidin}
 
-Kullanıcılar için Liquid’in sağladığı en büyük avantaj SabitParalar ile benzer aslında.
+Kullanıcılar için Liquid’in sağladığı en büyük avantaj sabit paralar ile benzer aslında.
 
 Kripto paranızı (buradaki örnekte BTC’nizi) bir borsada tutmak riskli. Neden? Her ne kadar kripto para borsaları her tür güvenlik önlemini alsalar da merkezi yapılar — dış tehdit ve saldırılara açıklar\*. O nedenle özellikle büyük miktarda parayı kurumsal yatırımcılar borsalarda tutmak istemiyorlar.
 

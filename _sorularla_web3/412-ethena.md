@@ -50,7 +50,7 @@ Yukarıda üç aylık ortalamalar var. sUSDe’nin 2024 yılı son çeyreğinde 
 
 ## Sonuç olarak hem stabil para hem de internet bonosu olarak Ethena {#sonuc-olarak-hem-stabil-para-hem-de-internet-bonosu-olarak-ethena}
 
-İşte, piyasadaki yeni oyuncu Ethena, kurduğu bu sistem ile ortaya iki farklı ürün çıkarmış oluyor. Bir yandan arkasında sağlam teminatlar olan ve merkeziyetsiz şekilde çalışan güvenli bir rezerv para (ya da Ethena’nın değişiyle ‘sentetik dolar’) olarak adlandırılabilecek USDe; diğer yanda ise USDe’yi kilitleyerek aldığınız ve size ekstra getiri sağlayacak bir ‘internet bonosu’ olan sUSDe.
+İşte, piyasadaki yeni oyuncu Ethena, kurduğu bu sistem ile ortaya iki farklı ürün çıkarmış oluyor. Bir yandan arkasında sağlam teminatlar olan ve merkeziyetsiz şekilde çalışan güvenli bir rezerv para (ya da Ethena’nın deyişiyle ‘sentetik dolar’) olarak adlandırılabilecek USDe; diğer yanda ise USDe’yi kilitleyerek aldığınız ve size ekstra getiri sağlayacak bir ‘internet bonosu’ olan sUSDe.
 
 ## Ethena sisteminin riskleri neler? {#sistemin-riskleri-neler}
 
@@ -78,7 +78,7 @@ Geçtiğimiz üç yıla bakacak olursak, shortların zarar yazdığı en uzun d�
 
 Burada hemen bir parantez açarak, Ethena’nın nereden para kazandığına bakalım. Aslında para kazanma yöntemi çok basit. Sonuçta Ethena kişilerden aldığı kriptoparaları staking ve vadeli piyasalarda hedge ederek para kazanıyor. Bu kazandığı paradan yaptığı ödeme ise sadece USDe’yi stake edenlere. USDe’yi stake etmeyip piyasada kullananların verdiği fonların getirisi Ethena’ya kalıyor! (Yazı yazıldığı sırada piyasadaki [USDe miktarı](https://etherscan.io/token/0x4c9edd5852cd905f086c759e8383e09bff1e68b3) 5,6 milyar ABD Doları, [sUSDe miktarı](https://etherscan.io/token/0x9D39A5DE30e57443BfF2A8307A4256c8797A3497) ise 3,8 milyar ABD Doları seviyesinde).
 
-İşte Ethena bu gelirlerinden bir kısmını (%80’ini) şu anda rezerv fona koymakla meşgul. Rezerv fonda şu ana kadar [47 milyon ABD doları toplanmış durumda](https://app.ethena.fi/dashboards/solvency). Ethena’ın risk profilini yapan [Chaos Labs’e göre](https://596495599-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FsBsPyff5ft3inFy9jyjt%2Fuploads%2FXx0DNbv33KWqybLS4HvU%2FChaos%20Labs%20-%20Ethena%20Perpetual%20Assessment%20Report%20Final.pdf?alt=media&token=0d167789-ee8b-4135-9ebd-d5e07033aa48) vadeli piyasalardaki fonlama maliyetini ödemesinden dolayı zarar edilmesi durumunda rezervde tutulması gereken para her bir milyar USDe için yaklaşık 33 milyon ABD doları. Ethena’nın şu ana dek yaklaşık 5,6 milyar USDe bastığını düşünürsek, şu anda bir açık olduğunu ama bu açığın kapanmakta olduğunu belirtelim.
+İşte Ethena bu gelirlerinden bir kısmını (%80’ini) şu anda rezerv fona koymakla meşgul. Rezerv fonda şu ana kadar [47 milyon ABD doları toplanmış durumda](https://app.ethena.fi/dashboards/solvency). Ethena’nın risk profilini yapan [Chaos Labs’e göre](https://596495599-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FsBsPyff5ft3inFy9jyjt%2Fuploads%2FXx0DNbv33KWqybLS4HvU%2FChaos%20Labs%20-%20Ethena%20Perpetual%20Assessment%20Report%20Final.pdf?alt=media&token=0d167789-ee8b-4135-9ebd-d5e07033aa48) vadeli piyasalardaki fonlama maliyetini ödemesinden dolayı zarar edilmesi durumunda rezervde tutulması gereken para her bir milyar USDe için yaklaşık 33 milyon ABD doları. Ethena’nın şu ana dek yaklaşık 5,6 milyar USDe bastığını düşünürsek, şu anda bir açık olduğunu ama bu açığın kapanmakta olduğunu belirtelim.
 
 <figure><a href="/assets/books/sorularla-web3/412-4.png"><img src="/assets/books/sorularla-web3/412-4.png" alt="Ethena rezerv tablosunun USDe’ye oranı" width="747" height="312" loading="lazy"></a><figcaption>Ethena rezerv tablosunun USDe’ye oranı <span class="fig-note"><em>Ethena’nın elinde tuttuğu rezervin ve USDe’nin aylar içinde gelişimi. Kırmızı çizgi ile gördüğünüz Chaos Labs tarafından önerilen rezerv miktarı. Gördüğünüz gibi rezerv sürekli artıyor olsa da USDe de arttığı için yetersiz kalıyor. (Kaynak: Delphi Digital ‘The rise of Ethena - Unpacking the Emerging Synthetic Dollar’ raporu)</em></span></figcaption></figure>
 
@@ -102,7 +102,7 @@ Peki ya Ethena takımı elinde tuttuğu bu paraları ‘iç ederse’? Varlıkla
 
 Peki bakiyemizi borsada shortladık, para da kazanıyorduk ama borsa gitti battı. Ana bakiyeyi kaybetmedik ama kazancımız gitti. Şimdi ne olacak? Bunu önlemek için Ethena, genelde 8 ile 24 saatte bir, elde ettiği kârı borsalardan alıyor. Dolayısıyla risk sadece bu süre ile kısıtlı.
 
-Ethena tüm [bakiyeleri](https://app.ethena.fi/dashboards/solvency) ve [short pozisyonlarını](https://app.ethena.fi/dashboards/hedging/BTC) API’ler aracılığıyla alıp sitesinde yayınlıyor. Bunun dışında aylık olarak da emanet tuttuğu yerlerde duran bakiyelerin tam olduğunun teyidini (İngilizce attestation) alıp [duyuruyor](https://app.ethena.fi/dashboards/transparency)..
+Ethena tüm [bakiyeleri](https://app.ethena.fi/dashboards/solvency) ve [short pozisyonlarını](https://app.ethena.fi/dashboards/hedging/BTC) API’ler aracılığıyla alıp sitesinde yayınlıyor. Bunun dışında aylık olarak da emanet tuttuğu yerlerde duran bakiyelerin tam olduğunun teyidini (İngilizce attestation) alıp [duyuruyor](https://app.ethena.fi/dashboards/transparency).
 
 ### Ethena’da başka risk kaldı mı? {#kaldi-mi-baska-risk}
 
@@ -118,13 +118,13 @@ Bunların ötesinde henüz öngöremediğimiz senaryoların getirebileceği baş
 
 Ne kadar çok risk var değil mi? Evet doğru ama diğer yandan USDT ya da USDC tutan kullanıcılar da benzer şekilde riskler taşıyorlar. Orada da Tether’e ve paraları tutan bankalara güvenmek zorunda kullanıcı.
 
-Sonuç olarak kullanıcının kendi içinde bir risk değerlendirmesi yapması gerekli: Göreceli aha az riskli görünen ama daha az getiri sağlayan diğer stabil paralara mı gitmeli, yoksa daha riskli ama ciddi bir getiri sağlaması beklenen bu paraya mı yatırım yapmalı?
+Sonuç olarak kullanıcının kendi içinde bir risk değerlendirmesi yapması gerekli: Göreceli daha az riskli görünen ama daha az getiri sağlayan diğer stabil paralara mı gitmeli, yoksa daha riskli ama ciddi bir getiri sağlaması beklenen bu paraya mı yatırım yapmalı?
 
 ## Ethena nereye kadar büyür? {#ethena-nereye-kadar-buyur}
 
 Ethena kurulduktan bu yana geçen altı ay içinde 5,6 milyar ABD doları büyüklüğe ulaşarak piyasanın en iyimserlerini bile şaşırtmayı başardı. Daha önünde gideceği çok yol var ancak potansiyelinin belli sınırları olduğunu da kabul etmek gerek.
 
-Öncelikle, short pozisyon açtığı platformlarda kullanabileceği limit sınırlı. Ethena ekibi, bu sınırın piyasadaki toplam açık pozisyon limitinin %30’u oranında olduğunu düşünüyor. Şu an piyasada ETH kontratı olarak 8 milyar ABD dolarlık bir büyüklük olduğunu düşünürsek bu 2.4 milyar USDe’lik bir limit demek. Tabii bu sadece ETH için. Bunun yanında BTC de kullanılabilir, ki orada da 16 milyar ABD dolarlık bir limit var. Bu da toplam sınırı bir anda 7.2 milyar USDe’ye getiriyor. Bu arada Chaoss Labs analizine göre ETH’nin piyasa değerindeki %1’lik bir artışın vadeli pazarları %1.2-%.1.45 oranında büyüttüğünü belirtelim. Yani, ETH ve BTC’deki değer artışları Ethena için daha fazla büyüme imkanı demek.
+Öncelikle, short pozisyon açtığı platformlarda kullanabileceği limit sınırlı. Ethena ekibi, bu sınırın piyasadaki toplam açık pozisyon limitinin %30’u oranında olduğunu düşünüyor. Şu an piyasada ETH kontratı olarak 8 milyar ABD dolarlık bir büyüklük olduğunu düşünürsek bu 2.4 milyar USDe’lik bir limit demek. Tabii bu sadece ETH için. Bunun yanında BTC de kullanılabilir, ki orada da 16 milyar ABD dolarlık bir limit var. Bu da toplam sınırı bir anda 7.2 milyar USDe’ye getiriyor. Bu arada Chaos Labs analizine göre ETH’nin piyasa değerindeki %1’lik bir artışın vadeli pazarları %1.2-%1.45 oranında büyüttüğünü belirtelim. Yani, ETH ve BTC’deki değer artışları Ethena için daha fazla büyüme imkanı demek.
 
 ## Ethena’nın yönetişim tokeni ENA {#ethenanin-yonetisim-tokeni-ena}
 

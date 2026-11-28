@@ -7,7 +7,7 @@ chapter: 6
 chapter_title: "Ethereum ve Diğer Kripto Paralar"
 order: 602
 permalink: /Sorularla_Blockchain/bolum-6/diger-kripto-paralar-neler/
-description: "Altcoin’ler, Bitcoin’in eksik bulunan yönlerini gidermek için çıkan alternatif kripto paralar: Litecoin daha kısa onay süresiyle, Monero, Dash ve Zcash gizlilikle, MimbleWimble tabanlı Beam ve Grin gizlilik ve hafiflikle ayrışıyor. SabitParalar (stable coin) ise fiyat dalgalanmasını azaltmayı amaçlıyor; teminatları dolar, kripto para ya da algoritma olabiliyor."
+description: "Altcoin’ler, Bitcoin’in eksik bulunan yönlerini gidermek için çıkan alternatif kripto paralar: Litecoin daha kısa onay süresiyle, Monero, Dash ve Zcash gizlilikle, MimbleWimble tabanlı Beam ve Grin gizlilik ve hafiflikle ayrışıyor. Sabit paralar (stable coin) ise fiyat dalgalanmasını azaltmayı amaçlıyor; teminatları dolar, kripto para ya da algoritma olabiliyor."
 ---
 
 *Bitcoin ve Ethereum dışında diğer önemli Blockchain sistemlerine de bakalım kısaca:*
@@ -305,9 +305,9 @@ Sonuç
 
 Gördüğünüz gibi kripto para dünyası Bitcoin’den ibaret değil ve pek çok Bitcoin benzeri kripto para var. Muhtemelen daha da çıkmaya devam edecek. Teknoloji geliştikçe, bilinç arttıkça, yeni ihtiyaçlar doğdukça ya da mevcut kripto paralar bu ihtiyaçlara cevap vermekte zorlandıkça yenileri çıkabilir. Peki bu alternatif kripto paralar ya da yeni çıkacaklar Bitcoin’in tahtını sarsabilir mi? Altın gibi kendisine yavaş yavaş saygın bir yer edinen, 2009’dan beri tıkır tıkır çalışan ve basit anlamı ile değer saklama konusunu başarı ile karşılayan Bitcoin’i şu aşamada alt etmeleri zor görünüyor. Ama nasıl dünyada tek bir para birimi yok ise, Kripto Dünyası’nda da sadece Bitcoin olmayacak, bu diğer paralar da pastadan pay almaya devam edecekler.
 
-## SabitParalar dalgalı denizler içinde sakin sular sunar mı bize? {#sabitparalar-dalgali-denizler-icinde-sakin-sular-sunar-mi-bize}
+## Sabit paralar dalgalı denizler içinde sakin sular sunar mı bize? {#sabitparalar-dalgali-denizler-icinde-sakin-sular-sunar-mi-bize}
 
-*kripto paraların inişli çıkışlı dünyasında sakin bir liman arayanlara — SabitParalar nedir, ne işe yararlar? Aşağıda:*
+*kripto paraların inişli çıkışlı dünyasında sakin bir liman arayanlara — sabit paralar nedir, ne işe yararlar? Aşağıda:*
 
 Geçtiğimiz günlerde bir yemekte Bitcoin ile ilgili konuşurken, bir dostum “İyi ama Bitcoin ile bir mal sattın, parayı alıp dolara dönmek istediğinde bir bakıyorsun o sırada paranın değeri değişivermiş, ne anladım bu işten — neden Bitcoin kullanayım ki?” şeklinde bir serzenişte bulundu. Haklı mı? Mevcut durumda haklı. Baksanıza Bitcoin’in son bir yıldaki değişimini gösteren grafiğe:
 
@@ -340,27 +340,27 @@ Acaba fiyatı sabit olan bir kripto para yapılamaz mıydı? Güzel soru ama ken
 <figcaption markdown="span">Yağmurlu havalarda sığınılacak şemsiye: ABD Doları (Image by [Gerd Altmann](https://pixabay.com/users/geralt-9301/)[^34] from [Pixabay](https://pixabay.com/images/id-226717/)[^35])</figcaption>
 </figure>
 
-Stabil bir para aslında kendi içinde oksimoron (zıt şekilde çelişkili) iki ifade. O zaman belki de şu soruyu sormak daha mantıklı: Tamam, öyle stabil olmasın da en azından doların euro karşısında yaşadığı gibi dalgalanmaları hafif olsun, denizde hafif dalgalanmalar hissedelim, öyle her akşam yattığımızda acaba yarın sabah %10 zengin mi uyanacağım yoksa %10 fakir mi diye yüreğimiz ağzımızda olmasın. Bakın bu daha mantıklı bir soru — cevabı için de şu günlerde harıl harıl çalışıyor insanlar… Çalıştıkları konu ise SabitPara (Stable coin) kavramı. Örnekleri uzun zamandır etrafta, ancak kullanım olarak hala gerideler…
+Stabil bir para aslında kendi içinde oksimoron (zıt şekilde çelişkili) iki ifade. O zaman belki de şu soruyu sormak daha mantıklı: Tamam, öyle stabil olmasın da en azından doların euro karşısında yaşadığı gibi dalgalanmaları hafif olsun, denizde hafif dalgalanmalar hissedelim, öyle her akşam yattığımızda acaba yarın sabah %10 zengin mi uyanacağım yoksa %10 fakir mi diye yüreğimiz ağzımızda olmasın. Bakın bu daha mantıklı bir soru — cevabı için de şu günlerde harıl harıl çalışıyor insanlar… Çalıştıkları konu ise sabit para (stable coin) kavramı. Örnekleri uzun zamandır etrafta, ancak kullanım olarak hala gerideler…
 
-Nedir bu SabitPara? Var mı böyle bir “şey” gerçekten?
+Nedir bu sabit para? Var mı böyle bir “şey” gerçekten?
 
 Efendim, kripto para dünyasındaki dalgalanmanın neden olduğu zararının özünde getireceği pek çok faydaya ağır bastığını ve bunun da bu paraların yaygın kitlelerce kullanımını sekteye uğrattığını fark eden girişimciler uzun zamandır yeni tip daha stabil paralar yaratmak için çalışıyorlar.
 
 Peki nasıl bir zarar veriyor bu dalgalanmalar? Şöyle bir benzerlik[^36] kurmak mümkün: Şu an yaşadığımız ve kâğıt paralardan oluşan dünyayı bir kıta olarak düşünün — her tür ekonomik işlemin kâğıt paralar ile gerçekleştirildiği. Bir de bu kıtaya yakın küçücük bir ada düşünün. İçinde pek çok güzellikler olan bir yer. Adı da Kripto adası olsun. Ancak bu adaya gidip gelmek zor. Botlar var ve bu botlar ile her gün belli sayıda insan oldukça zahmetli bir şekilde bu adaya ulaşıyor. Ama gelmesi zor olduğu gibi geri dönmesi de zor. Peki bu adaya şöyle dört şerit gidiş-dört şerit geliş geniş bir köprü yapılsaydı? O zaman insanlar rahatça gider gelirlerdi. Hatta günde birkaç kere gidip gelebilirlerdi. Ne de olsa ulaşım kolay, o kadar zahmete değer artık…
 
-İşte SabitPara’lar bir nevi bu köprüler aslında… kripto paranız var ise bunu kullanmak çok basit. Daha önce anlattık, elinizdeki Bitcoin ile dünyanın her yerine 10 dakika içinde istediğiniz parayı gönderiyorsunuz. Ama normal kâğıt para dünyasından kripto para dünyasına girmek hem zahmetli, hem masraflı hem de vakit alıyor. Varlığınızı iniş-çıkışlardan dolayı kripto para olarak tutmak istemiyor, ama bir yandan da getirdiği kolaylıklardan faydalanmak istiyorsanız alın bir SabitPara, varlığınız SabitPara’da dursun, istediğinizde istediğiniz başka kripto paraya (örneğin Bitcoin’e) anında çevirin işleminizi yapın. Ya da bir yerden Bitcoin mi geldi, değerini kaybetme riski yaşamadan anında SabitPara’ya çevirin, içiniz rahat olsun.
+İşte sabit paralar bir nevi bu köprüler aslında… kripto paranız var ise bunu kullanmak çok basit. Daha önce anlattık, elinizdeki Bitcoin ile dünyanın her yerine 10 dakika içinde istediğiniz parayı gönderiyorsunuz. Ama normal kâğıt para dünyasından kripto para dünyasına girmek hem zahmetli, hem masraflı hem de vakit alıyor. Varlığınızı iniş-çıkışlardan dolayı kripto para olarak tutmak istemiyor, ama bir yandan da getirdiği kolaylıklardan faydalanmak istiyorsanız alın bir sabit para, varlığınız sabit parada dursun, istediğinizde istediğiniz başka kripto paraya (örneğin Bitcoin’e) anında çevirin işleminizi yapın. Ya da bir yerden Bitcoin mi geldi, değerini kaybetme riski yaşamadan anında sabit paraya çevirin, içiniz rahat olsun.
 
-SabitParalar neye göre sabit?
+Sabit paralar neye göre sabit?
 
 Yukarıda yazdığımız sorunlara çözüm bulabilmek için nasıl yapalım da bu parayı sabitleyelim düşünürken, ilk akla gelen fikir “öyle bir para yaratalım ki dolara endekslenmiş olsun, bankada dolar tutmakla borsada bu parayı tutmak birbirinin tıpatıp aynısı olsun” olmuş. Bu düşüncenin sonucu ortaya çıkan pek çok para var.
 
 Mantıklı mı? Bir dereceye kadar evet. Neden mi? Bir kere başta dediğimiz gibi ABD Doları’na bağlı olan bir para, diğer paralar karşısında aynen ABD Doları gibi dalgalanacak. Dolayısı ile çok sabit sayılmaz. Teorik olarak yine Dolar gibi ABD’de yıllık enflasyon ne kadar ise senelik o kadar değer kaybına uğrayacak. Ama bunlar zaten bildiğimiz konular — yine de Bitcoin vb paraya göre daha stabil olacak değil mi? Teorik olarak evet.
 
-Sabitparalar içinde en bilineni ise Tether (USDT). Nedir bu Tether? Nasıl çalışır?
+Sabit paralar içinde en bilineni ise Tether (USDT). Nedir bu Tether? Nasıl çalışır?
 
-En büyük SabitPara Tether neye benzer?
+En büyük sabit para Tether neye benzer?
 
-2015 yılında kurulan Tether’in çalışma mantığı aslında basit. Şöyle demiş kuranlar: Tether’i ABD Doları’na endeksleyelim. Öyle ki her zaman 1 Tether 1 Dolara eşit olsun. Tether satın almak isteyen getirsin dolarını o kadarlık Tether alsın. Bunun için de yaratılan (satılan) her Tether için o kadarlık parayı bir bankada hesaba yatırmışlar. Yani piyasada bulunan her Tetherin karşılığı olarak bankada aynı miktarda dolar bulundurmuşlar. Dolayısıyla, Dolar teminatlı bir SabitPara yaratılmış Tether ile.
+2015 yılında kurulan Tether’in çalışma mantığı aslında basit. Şöyle demiş kuranlar: Tether’i ABD Doları’na endeksleyelim. Öyle ki her zaman 1 Tether 1 Dolara eşit olsun. Tether satın almak isteyen getirsin dolarını o kadarlık Tether alsın. Bunun için de yaratılan (satılan) her Tether için o kadarlık parayı bir bankada hesaba yatırmışlar. Yani piyasada bulunan her Tetherin karşılığı olarak bankada aynı miktarda dolar bulundurmuşlar. Dolayısıyla, Dolar teminatlı bir sabit para yaratılmış Tether ile.
 
 <figure markdown="1">
 <a href="/assets/books/sorularla-blockchain/602-16.png"><img src="/assets/books/sorularla-blockchain/602-16.png" alt="Kaynak: Tether" width="400" height="114" loading="lazy"></a>
@@ -371,47 +371,47 @@ Ancak yine de başka sorunları yok değil. Örneğin, kripto para dediğimiz d�
 
 Bunun yanında bir de büyüklük (ölçekleme) sorunu var. Eğer hedeflenen vizyon bir gün bu kripto paranın tüm dünyada kullanılacak hale gelmesi ise bahsettiğimiz milyarlarca dolarlık bir ekonomik büyüklük. Ne yapacaksınız, tüm bu büyüklüğün karşılığı ABD Doları’nı bankaya mı yatıracaksınız? Yatırabilirsiniz tabii bir sorun yok ama bu büyüklüğe ulaşmak için geçeceğiniz yolları hem zorlu hale getirecek bu teminat sistemi hem de oldukça yavaşlatacak. Hızlı bir şekilde bu sistemin büyümesi oldukça zor olacak gibi görünüyor.
 
-Sonuç olarak Tether şu anda belli bir işlevi yerine getiriyor. İşe de yarıyor. Ama yine de mevcut dünyada kullanılan bir işlevin Kripto dünyasına adapte edilmeye çalışılmış hali gibi. Şifreli Harikalar Dünyası’nın içindeki vizyona (bağımsız, başta merkez bankaları olmak üzere merkezi otorite etkisinden uzak, dağıtık bir yapı) ise henüz çok uzak. Muhtemelen o vizyona diğer SabitParalar daha yakın olacaklar.
+Sonuç olarak Tether şu anda belli bir işlevi yerine getiriyor. İşe de yarıyor. Ama yine de mevcut dünyada kullanılan bir işlevin Kripto dünyasına adapte edilmeye çalışılmış hali gibi. Şifreli Harikalar Dünyası’nın içindeki vizyona (bağımsız, başta merkez bankaları olmak üzere merkezi otorite etkisinden uzak, dağıtık bir yapı) ise henüz çok uzak. Muhtemelen o vizyona diğer sabit paralar daha yakın olacaklar.
 
-Kripto para teminatlı SabitParalar, o nasıl oluyor?
+Kripto para teminatlı sabit paralar, o nasıl oluyor?
 
-Başlığa bakınca konu bir parça daha çetrefilleşiyor değil mi? Haklısınız. Kripto parayı teminat olarak kullanan SabitParalar da ne demek? Açıklamaya çalışalım:
+Başlığa bakınca konu bir parça daha çetrefilleşiyor değil mi? Haklısınız. Kripto parayı teminat olarak kullanan sabit paralar da ne demek? Açıklamaya çalışalım:
 
-Efendim, Tether’i açıklarken pek çok sıkıntıları olduğundan bahsetmiştik. Bu sıkıntılardan en önemlisi, Tether’in yarattığı her SabitPara için o paraya eşit değerde ABD Dolarını bir bankada tuttuğunu söylemiştik. Yani adem-i merkezi bir şekilde çalışması gereken şifreli bir kripto para için çok çelişkili ve işin ruhuna aykırı bir durum idi bu. Ya bir gün o paraya el konursa? Ne de olsa merkezi olarak bir banka hesabında tutuluyor (bu arada bankanın neresi olduğu gizli tutuluyor. Bir ara ABD’deki Wells Fargo Bank idi ancak Wells Fargo -birilerinin etkisiyle diyelim- onlar ile iş yapmayı bıraktı, şimdilerde Porto Riko’da bir yerde olduğu [söyleniyor](https://www.bloomberg.com/news/articles/2018-05-24/bitfinex-said-to-find-bank-in-puerto-rico-after-wells-fargo-exit)[^40]).
+Efendim, Tether’i açıklarken pek çok sıkıntıları olduğundan bahsetmiştik. Bu sıkıntılardan en önemlisi, Tether’in yarattığı her sabit para için o paraya eşit değerde ABD Dolarını bir bankada tuttuğunu söylemiştik. Yani adem-i merkezi bir şekilde çalışması gereken şifreli bir kripto para için çok çelişkili ve işin ruhuna aykırı bir durum idi bu. Ya bir gün o paraya el konursa? Ne de olsa merkezi olarak bir banka hesabında tutuluyor (bu arada bankanın neresi olduğu gizli tutuluyor. Bir ara ABD’deki Wells Fargo Bank idi ancak Wells Fargo -birilerinin etkisiyle diyelim- onlar ile iş yapmayı bıraktı, şimdilerde Porto Riko’da bir yerde olduğu [söyleniyor](https://www.bloomberg.com/news/articles/2018-05-24/bitfinex-said-to-find-bank-in-puerto-rico-after-wells-fargo-exit)[^40]).
 
-Biliyorsunuz teknolojik dünyada çare tükenmez — nerede bir sıkıntı var, onlarca çözüm türer. SabitParanın teminatını merkezi olarak tutma sıkıntı ise o zaman o teminatı da merkezi olmayan dağıtık bir hale getirelim. Nasıl? Teminatı da ABD doları yerine bir başka kripto para yaparak tabii! Böyle ciddi sayıda bir para çıkmış, BitShares ([BitUSD](https://coinmarketcap.com/currencies/bitusd/)[^41]), NuBits ([USNBT](https://coinmarketcap.com/currencies/nubits/)[^42]), Steem Dollars ([SBD](https://coinmarketcap.com/currencies/steem-dollars/)[^43]). Sırada olanlar da var Alchemint ve BitBay gibi. Bu paralardan biri olan Maker DAO’ya ([DAI](https://coinmarketcap.com/currencies/dai/)[^44]) daha önceki [bölümlerimizde](/Sorularla_Blockchain/bolum-2/finans-dunyasindan-ornekler-neler/) detaylıca baktık
+Biliyorsunuz teknolojik dünyada çare tükenmez — nerede bir sıkıntı var, onlarca çözüm türer. Sabit paranın teminatını merkezi olarak tutma sıkıntı ise o zaman o teminatı da merkezi olmayan dağıtık bir hale getirelim. Nasıl? Teminatı da ABD doları yerine bir başka kripto para yaparak tabii! Böyle ciddi sayıda bir para çıkmış, BitShares ([BitUSD](https://coinmarketcap.com/currencies/bitusd/)[^41]), NuBits ([USNBT](https://coinmarketcap.com/currencies/nubits/)[^42]), Steem Dollars ([SBD](https://coinmarketcap.com/currencies/steem-dollars/)[^43]). Sırada olanlar da var Alchemint ve BitBay gibi. Bu paralardan biri olan Maker DAO’ya ([DAI](https://coinmarketcap.com/currencies/dai/)[^44]) daha önceki [bölümlerimizde](/Sorularla_Blockchain/bolum-2/finans-dunyasindan-ornekler-neler/) detaylıca baktık
 
 <figure markdown="1">
-<a href="/assets/books/sorularla-blockchain/602-17.png"><img src="/assets/books/sorularla-blockchain/602-17.png" alt="Diğer SabitParalar: BitUSD, Steem, NuBits, Maker DAI" width="600" height="477" loading="lazy"></a>
-<figcaption markdown="span">Diğer SabitParalar: [BitUSD](https://bitshares.org/technology/price-stable-cryptocurrencies)[^45], [Steem](https://steem.com/)[^46], [NuBits](https://nubits.com/)[^47], [Maker DAI](https://makerdao.com/en/dai)[^48]</figcaption>
+<a href="/assets/books/sorularla-blockchain/602-17.png"><img src="/assets/books/sorularla-blockchain/602-17.png" alt="Diğer sabit paralar: BitUSD, Steem, NuBits, Maker DAI" width="600" height="477" loading="lazy"></a>
+<figcaption markdown="span">Diğer sabit paralar: [BitUSD](https://bitshares.org/technology/price-stable-cryptocurrencies)[^45], [Steem](https://steem.com/)[^46], [NuBits](https://nubits.com/)[^47], [Maker DAI](https://makerdao.com/en/dai)[^48]</figcaption>
 </figure>
 
-Artıları neler böyle bir SabitPara’nın? Aslında yukarıda bahsettiğimiz Tether’in merkezi olmasından dolayı duyulan tüm sıkıntıları önlüyor. Bir kere teminat kripto para olarak şeffaf bir şekilde tutulacak. Öyle bir bankada yeterli para var mıymış, yok muymuş endişelenmeye gerek yok. Bir adres belirler ve dünyaya ilan edersiniz. teminat olacak kripto parayı bu adrese gönderirsiniz, isteyen istediği zaman gidip bakabilir, para gerçekten o adreste mi diye. Sonra vay efendim ABD hükümeti gelir de el koyarmış gibi bir dert de yok — neye el koyacaksınız? Sonra işin doğasına uygun — hızlı çabuk olarak büyüyebilir gerekirse, sorun da çıkmaz.
+Artıları neler böyle bir sabit paranın? Aslında yukarıda bahsettiğimiz Tether’in merkezi olmasından dolayı duyulan tüm sıkıntıları önlüyor. Bir kere teminat kripto para olarak şeffaf bir şekilde tutulacak. Öyle bir bankada yeterli para var mıymış, yok muymuş endişelenmeye gerek yok. Bir adres belirler ve dünyaya ilan edersiniz. teminat olacak kripto parayı bu adrese gönderirsiniz, isteyen istediği zaman gidip bakabilir, para gerçekten o adreste mi diye. Sonra vay efendim ABD hükümeti gelir de el koyarmış gibi bir dert de yok — neye el koyacaksınız? Sonra işin doğasına uygun — hızlı çabuk olarak büyüyebilir gerekirse, sorun da çıkmaz.
 
-Ama tabii bu tip SabitParalar’ın alması gereken daha çok yol var. Bir kere, Tether gibi ABD Dolarına endeklemişler kendilerini bu paralar. Burada bir sorun yok, zaten istenen de -şu aşamada- bu. Sorun, teminat olarak kripto para gösteriyorsunuz ama kripto paraların kendisi çok oynak. Ya bu teminatın değeri çok düşer ve SabitParayı da etkilerse? Bunu önlemek için Tether’deki 1 Tether=1 ABD Doları’nın çok üzerinde bir teminat koyuyor SabitParalar — bir nevi önlem almak adına iyi, ama çok dalgalı bir ortamda o bile işe yaramayabilir.
+Ama tabii bu tip sabit paraların alması gereken daha çok yol var. Bir kere, Tether gibi ABD Dolarına endeklemişler kendilerini bu paralar. Burada bir sorun yok, zaten istenen de -şu aşamada- bu. Sorun, teminat olarak kripto para gösteriyorsunuz ama kripto paraların kendisi çok oynak. Ya bu teminatın değeri çok düşer ve sabit parayı da etkilerse? Bunu önlemek için Tether’deki 1 Tether=1 ABD Doları’nın çok üzerinde bir teminat koyuyor sabit paralar — bir nevi önlem almak adına iyi, ama çok dalgalı bir ortamda o bile işe yaramayabilir.
 
-Teminatsız SabitParalar!
+Teminatsız sabit paralar!
 
 Buraya kadar hala okumaya devam edip kaybolmadı iseniz bravo. O zaman sizin için konuyu daha da karıştıralım! :)
 
-Yukarıda bahsettiğimiz Tether ve diğer SabitParalar biliyorsunuz kendilerini ABD Dolarına bağlar iken ya ABD Doları ya da değer olarak ona yakın miktarda kripto parayı teminat olarak alıyorlardı. Bir kısım SabitParalar ise “Boşverin bu teminat vesaire almayı, biz bir algoritma yapalım, teminatı toptan yok edelim” demişler.
+Yukarıda bahsettiğimiz Tether ve diğer sabit paralar biliyorsunuz kendilerini ABD Dolarına bağlar iken ya ABD Doları ya da değer olarak ona yakın miktarda kripto parayı teminat olarak alıyorlardı. Bir kısım sabit paralar ise “Boşverin bu teminat vesaire almayı, biz bir algoritma yapalım, teminatı toptan yok edelim” demişler.
 
-Nasıl yapmışlar bunu? Kısacası, hatırlarsanız bir bölümümüzde Akıllı Kontratlardan bahsetmiştik. İşte bu sistemi kuranlar — sanal bir Merkez Bankası yaratıp, bu bankanın işleyişini bir Akıllı Kontrat’a bağlamışlar. Ne zaman SabitPara’ya talep artıyor, bolca SabitPara yaratarak paranın değerini 1 ABD Doları seviyesine getiriyorlar. Ne zaman paraya talep düşüyor, mevcut SabitParalar’dan bir kısmını yok ederek (yani parayı azaltarak) değerini artırıyorlar. Bu SabitParalar için öne çıkanlar Basis ve Saga ([SAGA](https://coinmarketcap.com/currencies/sagacoin/)[^49]).
+Nasıl yapmışlar bunu? Kısacası, hatırlarsanız bir bölümümüzde Akıllı Kontratlardan bahsetmiştik. İşte bu sistemi kuranlar — sanal bir Merkez Bankası yaratıp, bu bankanın işleyişini bir Akıllı Kontrat’a bağlamışlar. Ne zaman sabit paraya talep artıyor, bolca sabit para yaratarak paranın değerini 1 ABD Doları seviyesine getiriyorlar. Ne zaman paraya talep düşüyor, mevcut sabit paralardan bir kısmını yok ederek (yani parayı azaltarak) değerini artırıyorlar. Bu sabit paralar için öne çıkanlar Basis ve Saga ([SAGA](https://coinmarketcap.com/currencies/sagacoin/)[^49]).
 
 <figure markdown="1">
 <a href="/assets/books/sorularla-blockchain/602-18.png"><img src="/assets/books/sorularla-blockchain/602-18.png" alt="Basis ve Saga" width="600" height="134" loading="lazy"></a>
 <figcaption markdown="span">[Basis](https://www.basis.io/)[^50] ve [Saga](https://www.saga.org/)[^51]</figcaption>
 </figure>
 
-Son bahsettiğimiz Teminatsız SabitPara kavramı henüz çok daha yeni. Bu konsepte inananlar (ki Kripto dünyasının ağır topları var burada) önceki SabitParalara göre çok daha büyük potansiyeli olduğunu düşünüyorlar bu SabitParalar’ın. Ancak üzerinde düşünülmesi, açıklarının bulunması, gerçekten çalışıp çalışmadığının görülmesi gerek, bunun için de zamana ihtiyaç var. Örneğin Basis kurucuları 2018 yılının sonlarında sürdürülebilir bir model kuramadıklarını [belirterek](https://techcrunch.com/2018/12/13/basis-backed-with-133-million-from-top-vcs-to-build-a-price-stable-cryptocurrency-says-its-shutting-down-and-returning-the-money/)[^52] dükkanı kapattılar ve yatırımcılardan topladıkları 130 Milyon ABD Doları’nın büyük bir kısmını geri iade ettiler.
+Son bahsettiğimiz Teminatsız sabit para kavramı henüz çok daha yeni. Bu konsepte inananlar (ki Kripto dünyasının ağır topları var burada) önceki sabit paralara göre çok daha büyük potansiyeli olduğunu düşünüyorlar bu sabit paraların. Ancak üzerinde düşünülmesi, açıklarının bulunması, gerçekten çalışıp çalışmadığının görülmesi gerek, bunun için de zamana ihtiyaç var. Örneğin Basis kurucuları 2018 yılının sonlarında sürdürülebilir bir model kuramadıklarını [belirterek](https://techcrunch.com/2018/12/13/basis-backed-with-133-million-from-top-vcs-to-build-a-price-stable-cryptocurrency-says-its-shutting-down-and-returning-the-money/)[^52] dükkanı kapattılar ve yatırımcılardan topladıkları 130 Milyon ABD Doları’nın büyük bir kısmını geri iade ettiler.
 
 Sonuç
 
-SabitParalar eğer söz verdikleri vizyonu gerçekleştirebilirler ise çok büyük bir potansiyel arz ediyorlar. Ancak, yine diğer pek çok kripto para ya da Blockchain projesinde olduğu gibi konuşmak için çok erken ve daha alınacak çok yol var.
+Sabit paralar eğer söz verdikleri vizyonu gerçekleştirebilirler ise çok büyük bir potansiyel arz ediyorlar. Ancak, yine diğer pek çok kripto para ya da Blockchain projesinde olduğu gibi konuşmak için çok erken ve daha alınacak çok yol var.
 
 Aslında belki de en ilgi çekici olanı da bu: Teknolojik olarak bir devrim oldu diyoruz. Bitcoin ve benzeri kripto paralar çıkıyor. Ama sonra diyoruz ki, “Bu paralar çok ilginç, çok farklı işe yarar özellikleri var, ama şu şu nedenden dolayı kullanamayız”. Girişimciler bu üzerinde takılıp zaman kaybetmiyorlar, “nasıl oldururuz”un peşinde koşuyorlar. Gelen geri bildirimler ile yeni yeni özellikleri olan bir üst seviye ürün çıkarıyorlar.
 
-SabitPara olarak ilk çıkan örnekler belki yeterli değil, henüz çok erken. Ama bu insanları merak ve daha iyisini yapmaktan alıkoymuyor. Bu paraları kullanıyor, sorunlar ile karşılaşıyorlar. Tekrar deniyorlar, bu sefer daha iyisini yapıyorlar. Önemli olan burada bir vizyon olması ve yavaş yavaş, adım adım o vizyona doğru yaklaşılması. Hemen sonuç beklemeyin, sabredin ve bir vizyon düşleyin, sonra da o vizyona ulaşırken yapacağınız yolculuğun (inişli çıkışlı) tadını çıkarmaya bakın! …
+Sabit para olarak ilk çıkan örnekler belki yeterli değil, henüz çok erken. Ama bu insanları merak ve daha iyisini yapmaktan alıkoymuyor. Bu paraları kullanıyor, sorunlar ile karşılaşıyorlar. Tekrar deniyorlar, bu sefer daha iyisini yapıyorlar. Önemli olan burada bir vizyon olması ve yavaş yavaş, adım adım o vizyona doğru yaklaşılması. Hemen sonuç beklemeyin, sabredin ve bir vizyon düşleyin, sonra da o vizyona ulaşırken yapacağınız yolculuğun (inişli çıkışlı) tadını çıkarmaya bakın! …
 
 [^1]: [https://pixabay.com/users/geralt-9301/](https://pixabay.com/users/geralt-9301/)
 

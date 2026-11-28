@@ -169,6 +169,12 @@ CORRECTIONS = [
     ('var.. Bu pay', 'var. Bu pay'),
     ('başladı..', 'başladı.'),
     ('gerekiyor.. Yok eğer', 'gerekiyor. Yok eğer'),
+    # 412 Ethena (owner-approved web-only typo fixes, 2026-11-28); the doubled full stop after a link is in TR_OUT_CORRECTIONS
+    ('Ethena’nın değişiyle', 'Ethena’nın deyişiyle'),
+    ('Ethena’ın risk profilini', 'Ethena’nın risk profilini'),
+    ('Göreceli aha az riskli', 'Göreceli daha az riskli'),
+    ('Chaoss Labs', 'Chaos Labs'),
+    ('%1.2-%.1.45', '%1.2-%1.45'),
 ]
 # expected number of matching paragraphs for TR corrections that legitimately occur more than once (default 1)
 CORRECTION_EXPECTED = {'Geoffery': 2, 'sarfediyorlar': 2, 'Tiktok': 2, 'Temmuz 2024’de': 2, 'ingilizce': 50,
@@ -298,6 +304,8 @@ TR_OUT_CORRECTIONS = [
     ('<a href="https://turansert.com/genel/2023/03/14/abdde-banka-krizi-ve-gelecek.html">FDIC</a>', 'FDIC'),
     # GEO batch B6 (owner-approved): dead link (404) removed from a chart caption, text kept
     ('<a href="https://www.finoa.io/blog/cost-savings-tokenization/">Finoa</a>', 'Finoa'),
+    # 412 Ethena: the link text 'duyuruyor' is followed by '..' in a run of its own (owner-approved, 2026-11-28)
+    ('[duyuruyor](https://app.ethena.fi/dashboards/transparency)..', '[duyuruyor](https://app.ethena.fi/dashboards/transparency).'),
     # the map pin on the house's street address is removed for the owners' privacy, text kept
     ('[bir banliyö evinin](https://www.google.com/maps/place/149+Cottage+Lake+Way,+Columbia,+SC+29209/@33.9594797,-80.9455555,272m/data=!3m1!1e3!4m5!3m4!1s0x88f8b053743f5079:0x8883bce9faf9ed0f!8m2!3d33.9596548!4d-80.9454178)',
      'bir banliyö evinin'),
@@ -2203,6 +2211,9 @@ PAGE_OUT_CORRECTIONS = {
             ('[8x Protocol](https://8xprotocol.com/)', '8x Protocol', 1),
         ],
         '202-finans-dunyasindan-ornekler-neler.md': [
+            # 'SabitPara' etc. written as one word becomes 'sabit para' ('Sabit para' at a sentence start) (owner-approved, 2026-11-28)
+            ('SabitParaların ne olduklarına', 'Sabit paraların ne olduklarına', 1),
+            ('SabitPara', 'sabit para', 3),
             # typo
             ('Collaterized', 'Collateralized', 1),
             ('bir dağıtık bir sistem', 'dağıtık bir sistem', 1),
@@ -2419,6 +2430,9 @@ PAGE_OUT_CORRECTIONS = {
             ('Bu geliştiriciler temel bir prensip var', 'Bu geliştiricilerin temel bir prensibi var', 1),
         ],
         '506-liquid-network.md': [
+            # 'SabitPara' etc. written as one word becomes 'sabit para' ('Sabit para' at a sentence start) (owner-approved, 2026-11-28)
+            ('(Sabitparalar’dan', '(sabit paralardan', 1),
+            ('SabitParalar', 'sabit paralar', 1),
             # typo
             ('Bitcoin’i üzerine', 'Bitcoin üzerine', 1),
             ('Bitcoin’in geliştiren', 'Bitcoin’i geliştiren', 1),
@@ -2464,6 +2478,22 @@ PAGE_OUT_CORRECTIONS = {
             ('Bitcoin de örneğin adı verilen', 'Bitcoin de örneğin Script adı verilen', 1),
         ],
         '602-diger-kripto-paralar-neler.md': [
+            # 'SabitPara' etc. written as one word becomes 'sabit para' ('Sabit para' at a sentence start) (owner-approved, 2026-11-28)
+            ('## SabitParalar dalgalı', '## Sabit paralar dalgalı', 1),
+            ('SabitParalar neye göre', 'Sabit paralar neye göre', 1),
+            ('Sabitparalar içinde', 'Sabit paralar içinde', 1),
+            ('SabitParanın teminatını', 'Sabit paranın teminatını', 1),
+            ('SabitParalar eğer söz', 'Sabit paralar eğer söz', 1),
+            ('SabitPara olarak ilk', 'Sabit para olarak ilk', 1),
+            ('SabitPara', 'sabit para', 29),
+            # common noun now: no apostrophe before the suffix
+            ('sabit paralar’dan', 'sabit paralardan', 1),
+            ('sabit paralar’ın', 'sabit paraların', 2),
+            ('sabit para’lar', 'sabit paralar', 1),
+            ('sabit para’da', 'sabit parada', 1),
+            ('sabit para’nın', 'sabit paranın', 1),
+            ('sabit para’ya', 'sabit paraya', 2),
+            ('sabit para (Stable coin)', 'sabit para (stable coin)', 1),
             # typo
             ('Bitcoin’ çok benziyor', 'Bitcoin’e çok benziyor', 1),
             ('kim olduğunu kesinlikle bilinmiyor', 'kim olduğu kesinlikle bilinmiyor', 1),

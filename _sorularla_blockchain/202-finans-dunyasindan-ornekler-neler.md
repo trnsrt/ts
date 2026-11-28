@@ -21,7 +21,7 @@ DeFi — Decentralized Finance (Dağıtık Finans) hareketinin öncülerinde
 
 MakerDAO kişilerin ellerinde duran kripto paraları teminat verip bu teminat karşılığı sistemin parası olan Dai’yi yaratmalarına olanak veren dağıtık bir sistem. Ethereum üzerinde kurulu Akıllı Kontratlar kullanılıyor bunu yapmak için.
 
-Dai nedir peki? Dai bir ABD Dolarına eşit olan bir SabitPara. SabitParaların ne olduklarına daha sonraki [bölümlerde](/Sorularla_Blockchain/bolum-6/diger-kripto-paralar-neler/#sabitparalar-dalgali-denizler-icinde-sakin-sular-sunar-mi-bize) değineceğiz. (Dai kelime anlamı olarak Çince’de [borç para vermek](https://www.reddit.com/r/MakerDAO/comments/5q98b1/%E8%B2%B8_dai/)[^3] anlamı taşıyor bu arada)
+Dai nedir peki? Dai bir ABD Dolarına eşit olan bir sabit para. Sabit paraların ne olduklarına daha sonraki [bölümlerde](/Sorularla_Blockchain/bolum-6/diger-kripto-paralar-neler/#sabitparalar-dalgali-denizler-icinde-sakin-sular-sunar-mi-bize) değineceğiz. (Dai kelime anlamı olarak Çince’de [borç para vermek](https://www.reddit.com/r/MakerDAO/comments/5q98b1/%E8%B2%B8_dai/)[^3] anlamı taşıyor bu arada)
 
 Nasıl çalışıyor?
 
@@ -43,7 +43,7 @@ Buna dikkat etmek gerekiyor işte. Zira ETH’nin değeri düşerse ekstra ETH y
 
 Kim borç veriyor bu sisteme?
 
-Aslında kimse kimseye borç vermiyor. Siz elinizdeki ETH’yi teminat gibi kullanıp Dai yaratıyorsunuz. Buradaki soru şu olabilir? Dai’yi satıp ABD Doları aldınız. Kime satıyorsunuz Dai’yi? Genel olarak SabitPara kullanmak isteyen insanlara (ya da daha önce kredi almış ve şu anda borcunu kapatmak için Dai almak isteyenlere). Neden SabitPara kullanmak ister insanlar konusunu daha detaylı olarak [şu bölümde](/Sorularla_Blockchain/bolum-6/diger-kripto-paralar-neler/#sabitparalar-dalgali-denizler-icinde-sakin-sular-sunar-mi-bize) bulabilirsiniz.
+Aslında kimse kimseye borç vermiyor. Siz elinizdeki ETH’yi teminat gibi kullanıp Dai yaratıyorsunuz. Buradaki soru şu olabilir? Dai’yi satıp ABD Doları aldınız. Kime satıyorsunuz Dai’yi? Genel olarak sabit para kullanmak isteyen insanlara (ya da daha önce kredi almış ve şu anda borcunu kapatmak için Dai almak isteyenlere). Neden sabit para kullanmak ister insanlar konusunu daha detaylı olarak [şu bölümde](/Sorularla_Blockchain/bolum-6/diger-kripto-paralar-neler/#sabitparalar-dalgali-denizler-icinde-sakin-sular-sunar-mi-bize) bulabilirsiniz.
 
 Dai parası nasıl sabit kalıyor peki?
 
