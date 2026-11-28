@@ -8,9 +8,13 @@ Checks (exit 1 if any fails):
   2. every tr/en URL in _data/book_translations.yml exists as a built page, and each URL appears in only one pair;
   3. every page with a summary shows exactly one "book-summary" box;
   4. hreflang tags match the translation pairs (plus the two root/reader pairs of head.html), reciprocal,
-     and no other built page carries hreflang.
+     and no other built page carries hreflang;
+  5. every summary page's <meta name="description"> and <meta property="og:description">, HTML-unescaped,
+     equal the summary text exactly (one of each per page).
 Plain Python 3, no pyyaml: the two data files are simple line-based YAML.
 """
+import html
+import json
 import os
 import re
 import sys
@@ -28,14 +32,39 @@ def site_url():
     sys.exit('no url: in _config.yml')
 
 
-def summary_keys():
-    keys = []
+def summary_items():
+    """[(url, summary text)] from book_summaries.yml: lines of the form  "url": "text"  (a JSON-style string)."""
+    items = []
     with open(os.path.join(ROOT, '_data', 'book_summaries.yml'), encoding='utf-8') as f:
         for line in f:
-            m = re.match(r'^"([^"]+)":\s', line)
+            m = re.match(r'^"([^"]+)":\s*(".*")\s*$', line)
             if m:
-                keys.append(m.group(1))
-    return keys
+                try:
+                    text = json.loads(m.group(2))
+                except ValueError:
+                    text = None      # reported by the caller
+                items.append((m.group(1), text))
+            elif re.match(r'^"([^"]+)":\s', line):
+                items.append((re.match(r'^"([^"]+)"', line).group(1), None))
+    return items
+
+
+def summary_keys():
+    return [k for k, _ in summary_items()]
+
+
+def meta_descriptions(page_html):
+    """(contents of <meta name="description">, contents of <meta property="og:description">), HTML-unescaped."""
+    desc, og = [], []
+    for tag in re.findall(r'<meta\b[^>]*>', page_html):
+        attrs = dict(re.findall(r'([\w:-]+)="([^"]*)"', tag))
+        if 'content' not in attrs:
+            continue
+        if attrs.get('name') == 'description':
+            desc.append(html.unescape(attrs['content']))
+        if attrs.get('property') == 'og:description':
+            og.append(html.unescape(attrs['content']))
+    return desc, og
 
 
 def translation_pairs():
@@ -83,6 +112,22 @@ def main():
             n = len(re.findall(r'class="book-summary"', f.read()))
         if n != 1:
             err('%d book-summary boxes (want 1): %s' % (n, k))
+
+    # 5
+    for k, text in summary_items():
+        p = built(site, k)
+        if not p:
+            continue            # already reported under 1
+        if text is None:
+            err('summary text of %s is not a double-quoted string in book_summaries.yml' % k)
+            continue
+        with open(p, encoding='utf-8') as f:
+            desc, og = meta_descriptions(f.read())
+        for label, got in (('meta description', desc), ('og:description', og)):
+            if len(got) != 1:
+                err('%d %s tags (want 1): %s' % (len(got), label, k))
+            elif got[0] != text:
+                err('%s differs from the summary: %s\n      page:    %r\n      summary: %r' % (label, k, got[0], text))
 
     # 2
     seen = {}
