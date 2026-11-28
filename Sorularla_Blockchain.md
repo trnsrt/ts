@@ -12,6 +12,7 @@ book:
   image: /assets/Sorularla_Blockchain_kapak.jpg
   pdf: /assets/books/Sorularla_Blockchain.pdf
   reader: /Sorularla_Blockchain/oku/
+  same_as: ["https://openlibrary.org/books/OL63229469M", "https://openlibrary.org/works/OL46590702W"]
 description: "Turan Sert'in ilk kitabı Sorularla Blockchain: blokzincir teknolojisini soru-cevap biçiminde anlatıyor. İçindekiler ve ücretsiz okuma."
 ---
 

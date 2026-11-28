@@ -7,6 +7,8 @@ book_title: "Sorularla Web3"
 book_pdf: /assets/books/Sorularla_Web3.pdf
 viewer_lang: tr
 frame_title: "Sorularla Web3 kitap okuyucu"
+web_url: /Sorularla_Web3/
+label_web: "Web sürümünü oku"
 label_download: "PDF olarak indir (16,6 MB)"
 label_fullscreen: "Tam ekran"
 buy_label: "Basılı kitabı satın al"

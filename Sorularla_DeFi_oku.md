@@ -7,6 +7,8 @@ book_title: "Sorularla DeFi - Merkeziyetsiz Finans"
 book_pdf: /assets/books/Sorularla_DeFi.pdf
 viewer_lang: tr
 frame_title: "Sorularla DeFi kitap okuyucu"
+web_url: /Sorularla_DeFi/
+label_web: "Web sürümünü oku"
 label_download: "PDF olarak indir (20,5 MB)"
 label_fullscreen: "Tam ekran"
 ---

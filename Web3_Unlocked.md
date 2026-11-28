@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Web3 Unlocked
+title_tag: "Web3 Unlocked: A Friendly Guide to the Next Era of the Internet (free Q&A book)"
 permalink: /Web3_Unlocked/
 lang: en
 redirect_from:
@@ -16,7 +17,7 @@ book:
   reader: /Web3_Unlocked/read/
   translation_of: { name: "Sorularla Web3", url: /Sorularla_Web3/ }
   alternate_name: "Web3 Unlocked: A friendly guide to the next era of the internet"
-  same_as: ["https://play.google.com/store/books/details?id=ZA7KEQAAQBAJ"]
+  same_as: ["https://play.google.com/store/books/details?id=ZA7KEQAAQBAJ", "https://openlibrary.org/books/OL63229525M", "https://openlibrary.org/works/OL46590749W", "https://scalakitapci.com/web3-unlocked"]
 description: "Web3 Unlocked by Turan Sert: a friendly question-and-answer guide to Web3, the English edition of Sorularla Web3. Free to read online, chapter by chapter."
 ---
 

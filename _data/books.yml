@@ -1,24 +1,24 @@
 - title: Sorularla Blockchain
   label: "2019"
-  url: /Sorularla_Blockchain/oku/
+  url: /Sorularla_Blockchain/
   cover: /assets/books/blockchain.jpg
   width: 353
   height: 360
 - title: Sorularla DeFi
   label: "2022"
-  url: /Sorularla_DeFi/oku/
+  url: /Sorularla_DeFi/
   cover: /assets/books/defi.jpg
   width: 353
   height: 360
 - title: Sorularla Web3
   label: "2025"
-  url: /Sorularla_Web3/oku/
+  url: /Sorularla_Web3/
   cover: /assets/books/web3.jpg
   width: 245
   height: 360
 - title: Web3 Unlocked
   label: İngilizce çeviri
-  url: /Web3_Unlocked/read/
+  url: /Web3_Unlocked/
   cover: /assets/books/web3-unlocked.jpg
   width: 238
   height: 360

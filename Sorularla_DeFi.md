@@ -13,6 +13,7 @@ book:
   image: /assets/Sorularla_DeFi_kapak_v2.jpg
   pdf: /assets/books/Sorularla_DeFi.pdf
   reader: /Sorularla_DeFi/oku/
+  same_as: ["https://openlibrary.org/books/OL63229099M", "https://openlibrary.org/works/OL46590383W"]
 description: "Turan Sert'in Sorularla DeFi - Merkeziyetsiz Finans kitabı: blokzincir temelli finansı soru-cevap biçiminde anlatıyor. İçindekiler ve ücretsiz okuma."
 ---
 

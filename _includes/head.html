@@ -3,7 +3,31 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  {% seo %}
+{%- capture seo_out -%}{% seo %}{%- endcapture -%}
+  {%- comment -%}
+    seo-tag output is post-processed: (a) pages with canonical_url (cross-posted) lose seo-tag's BlogPosting JSON-LD, whose url/mainEntityOfPage seo-tag 2.8.0 points at the canonical target;
+    (b) English pages (page.lang == "en") get " | Turan Sert" as the <title> suffix instead of the Turkish site title; (c) page.title_tag replaces the whole <title>.
+  {%- endcomment -%}
+  {%- if page.canonical_url -%}
+    {%- assign seo_ld_parts = seo_out | split: '<script type="application/ld+json">' -%}
+    {%- if seo_ld_parts.size > 1 -%}
+      {%- assign seo_ld_tail = seo_ld_parts[1] | split: "</script>" -%}
+      {%- capture seo_out -%}{{ seo_ld_parts[0] }}{{ seo_ld_tail[1] }}{%- endcapture -%}
+    {%- endif -%}
+  {%- endif -%}
+  {%- if page.title_tag or page.lang == "en" -%}
+    {%- assign seo_t1 = seo_out | split: "<title>" -%}
+    {%- if seo_t1.size > 1 -%}
+      {%- assign seo_t2 = seo_t1[1] | split: "</title>" -%}
+      {%- if page.title_tag -%}
+        {%- capture seo_title -%}{{ page.title_tag | escape }} | Turan Sert{%- endcapture -%}
+      {%- else -%}
+        {%- assign seo_title = seo_t2[0] | replace: " | Turan Sert - Kişisel Blog", " | Turan Sert" -%}
+      {%- endif -%}
+      {%- capture seo_out -%}{{ seo_t1[0] }}<title>{{ seo_title }}</title>{{ seo_t2[1] }}{%- endcapture -%}
+    {%- endif -%}
+  {%- endif -%}
+  {{ seo_out }}
   {%- comment -%} hreflang: only the Turkish/English book pairs (_data/book_translations.yml) and the two root/reader page pairs. No x-default. {%- endcomment -%}
   {%- assign hl_tr = nil -%}
   {%- assign hl_en = nil -%}

@@ -7,6 +7,8 @@ book_title: "Sorularla Blockchain"
 book_pdf: /assets/books/Sorularla_Blockchain.pdf
 viewer_lang: tr
 frame_title: "Sorularla Blockchain kitap okuyucu"
+web_url: /Sorularla_Blockchain/
+label_web: "Web sürümünü oku"
 label_download: "PDF olarak indir (6,3 MB)"
 label_fullscreen: "Tam ekran"
 ---

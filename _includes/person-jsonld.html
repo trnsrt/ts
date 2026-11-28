@@ -1,14 +1,23 @@
 {%- comment -%}
-  Person structured data. Home page: Person. About page: ProfilePage whose mainEntity is the same Person.
-  Facts come only from about.md. sameAs mirrors the URLs in social.html, plus the Open Library author record.
+  Person structured data on three pages. Home (/): Person. About (/about/): ProfilePage (inLanguage tr) whose mainEntity is the same Person.
+  English page (/english/): ProfilePage (inLanguage en) whose mainEntity is the Person with the English jobTitle and description.
+  Facts come only from about.md. sameAs mirrors the URLs in social.html, plus Medium, about.me, the Scala Kitapçı author page and the Open Library author record.
 {%- endcomment -%}
-{%- if page.url == "/" or page.url == "/about/" -%}
+{%- if page.url == "/" or page.url == "/about/" or page.url == "/english/" -%}
+{%- if page.url == "/english/" -%}
+  {%- assign person_job = '["Author", "Researcher", "Consultant"]' -%}
+  {%- assign person_desc = "Author and researcher on frontier technologies: blockchain, decentralized finance (DeFi), Web3 and artificial intelligence. Focused mainly on Web3 since 2017. Author of Sorularla Blockchain, Sorularla DeFi, Sorularla Web3 and Web3 Unlocked." -%}
+{%- else -%}
+  {%- assign person_job = '["Yazar", "Araştırmacı", "Danışman"]' -%}
+  {%- assign person_desc = "Blokzincir, DeFi, Web3 ve yapay zeka gibi yeni nesil teknolojiler üzerine araştırmalar yapıyor; 2017'den bu yana ağırlıklı olarak Web3 alanında çalışıyor. Sorularla Blockchain, Sorularla DeFi, Sorularla Web3 ve Web3 Unlocked kitaplarının yazarı." -%}
+{%- endif -%}
 {%- capture props -%}
   "@id": "https://turansert.com/#person",
   "name": {{ site.author.name | jsonify }},
   "url": "https://turansert.com/",
   "image": {{ "/assets/TS_profile_pic_2606_reduced.jpg" | absolute_url | jsonify }},
-  "description": {{ "Blokzincir, DeFi, Web3 ve yapay zeka gibi yeni nesil teknolojiler üzerine araştırmalar yapıyor; 2017'den bu yana ağırlıklı olarak Web3 alanında çalışıyor. Sorularla Blockchain, Sorularla DeFi, Sorularla Web3 ve Web3 Unlocked kitaplarının yazarı." | jsonify }},
+  "jobTitle": {{ person_job }},
+  "description": {{ person_desc | jsonify }},
   "alumniOf": [
     { "@type": "CollegeOrUniversity", "name": "Boğaziçi Üniversitesi" },
     { "@type": "EducationalOrganization", "name": "Harvard Business School" }
@@ -20,14 +29,19 @@
     {%- if site.instagram_username -%}, "https://instagram.com/{{ site.instagram_username | cgi_escape }}"{%- endif -%}
     {%- if site.youtube_username -%}, "https://youtube.com/channel/{{ site.youtube_username | cgi_escape }}"{%- endif -%}
     {%- if site.nostr_npub -%}, "https://njump.me/{{ site.nostr_npub | cgi_escape }}"{%- endif -%}
+    {%- if site.medium_username -%}, "https://{{ site.medium_username | cgi_escape }}.medium.com/"{%- endif -%}
+    , "https://about.me/turansert"
+    , "https://scalakitapci.com/turan-sert"
     , "https://openlibrary.org/authors/OL16801080A"
   ]
 {%- endcapture -%}
 <script type="application/ld+json">
 {%- if page.url == "/" %}
 { "@context": "https://schema.org", "@type": "Person", {{ props }} }
+{%- elsif page.url == "/english/" %}
+{ "@context": "https://schema.org", "@type": "ProfilePage", "url": "https://turansert.com/english/", "inLanguage": "en", "mainEntity": { "@type": "Person", {{ props }} } }
 {%- else %}
-{ "@context": "https://schema.org", "@type": "ProfilePage", "url": "https://turansert.com/about/", "mainEntity": { "@type": "Person", {{ props }} } }
+{ "@context": "https://schema.org", "@type": "ProfilePage", "url": "https://turansert.com/about/", "inLanguage": "tr", "mainEntity": { "@type": "Person", {{ props }} } }
 {%- endif %}
 </script>
 {%- endif -%}

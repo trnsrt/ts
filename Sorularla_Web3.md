@@ -14,6 +14,7 @@ book:
   pdf: /assets/books/Sorularla_Web3.pdf
   reader: /Sorularla_Web3/oku/
   translation: { name: "Web3 Unlocked", url: /Web3_Unlocked/ }
+  same_as: ["https://openlibrary.org/books/OL63228820M", "https://openlibrary.org/works/OL46590149W", "https://www.scalakitapci.com/sorularla-web3"]
 description: "Turan Sert'in Sorularla Web3 kitabı: Web3'ü soru-cevap biçiminde anlatan rehber. İçindekiler, kitapta geçen bağlantılar ve ücretsiz okuma."
 ---
 

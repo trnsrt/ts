@@ -8,6 +8,8 @@ book_title: "Web3 Unlocked"
 book_pdf: /assets/books/Web3_Unlocked.pdf
 viewer_lang: en-US
 frame_title: "Web3 Unlocked book reader"
+web_url: /Web3_Unlocked/
+label_web: "Read the web edition"
 label_download: "Download PDF (13 MB)"
 label_fullscreen: "Full screen"
 ---

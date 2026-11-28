@@ -1,8 +1,12 @@
 {%- comment -%}
   Chapter structured data for the HTML editions of the books. Outputs only on documents of a collection listed in _data/html_books.yml.
+  position = 1-based index of the page in the collection sorted by order. A second block holds the BreadcrumbList, which mirrors the visible nav.book-breadcrumb in _layouts/book-section.html.
 {%- endcomment -%}
 {%- assign b = site.data.html_books[page.collection] -%}
 {%- if b -%}
+{%- assign ch_docs = site[page.collection] | sort: "order" -%}
+{%- assign ch_pos = 0 -%}
+{%- for d in ch_docs -%}{%- if d.url == page.url -%}{%- assign ch_pos = forloop.index -%}{%- endif -%}{%- endfor -%}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -12,7 +16,7 @@
   "inLanguage": {{ b.lang | jsonify }},
   "author": { "@type": "Person", "@id": "https://turansert.com/#person", "name": "Turan Sert", "url": "https://turansert.com/" },
   "isPartOf": { "@type": "Book", "@id": {{ b.info_url | absolute_url | append: "#book" | jsonify }}, "name": {{ b.name | jsonify }}, "url": {{ b.info_url | absolute_url | jsonify }}{% if b.isbn != "" and b.isbn %}, "isbn": {{ b.isbn | jsonify }}{% endif %} },
-  "position": {{ page.order | jsonify }},
+  "position": {{ ch_pos }},
 {%- assign book_summary = site.data.book_summaries[page.url] -%}
 {%- if book_summary %}
   "abstract": {{ book_summary | jsonify }},
@@ -20,6 +24,24 @@
 {%- endif %}
   "mainEntityOfPage": { "@type": "WebPage", "@id": {{ page.url | absolute_url | jsonify }} },
   "isAccessibleForFree": true
+}
+</script>
+{%- assign bc_book_url = b.info_url | absolute_url -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": {{ b.name | jsonify }}, "item": {{ bc_book_url | jsonify }} },
+{%- if page.kind == "chapter" %}
+    { "@type": "ListItem", "position": 2, "name": {{ b.chapter_word | append: " " | append: page.chapter | jsonify }}, "item": {{ page.url | absolute_url | jsonify }} }
+{%- elsif page.chapter == 0 %}
+    { "@type": "ListItem", "position": 2, "name": {{ b.intro_word | jsonify }}, "item": {{ page.url | absolute_url | jsonify }} }
+{%- else %}
+    { "@type": "ListItem", "position": 2, "name": {{ b.chapter_word | append: " " | append: page.chapter | append: ": " | append: page.chapter_title | jsonify }}, "item": {{ b.chapter_path | append: page.chapter | append: "/" | absolute_url | jsonify }} },
+    { "@type": "ListItem", "position": 3, "name": {{ page.heading | jsonify }}, "item": {{ page.url | absolute_url | jsonify }} }
+{%- endif %}
+  ]
 }
 </script>
 {%- endif -%}

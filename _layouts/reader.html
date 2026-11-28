@@ -12,6 +12,9 @@ layout: default
 <div class="reader-bar">
   <h1 class="reader-title">{{ page.book_title }}</h1>
   <ul class="reader-actions">
+    {%- if page.web_url %}
+    <li><a href="{{ page.web_url | relative_url }}">{{ page.label_web }}</a></li>
+    {%- endif %}
     <li><a href="{{ pdf }}" download>{{ page.label_download }}</a></li>
     {%- if page.buy_url %}
     <li><a href="{{ page.buy_url }}">{{ page.buy_label }}</a></li>
