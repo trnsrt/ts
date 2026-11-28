@@ -50,7 +50,7 @@ defaults:
       # date = book publication date (stable datePublished); last_modified_at = dateModified and sitemap lastmod. Bump last_modified_at when the book pages change.
       # Noon UTC on purpose: GitHub Pages builds in UTC, and 00:00 +0300 would print as the previous day.
       date: 2025-01-15 12:00:00 +0000
-      last_modified_at: 2026-11-27 12:00:00 +0000
+      last_modified_at: 2026-11-28 12:00:00 +0000
       layout: book-section
       lang: tr
       seo:
@@ -60,7 +60,7 @@ defaults:
       type: web3_unlocked
     values:
       date: 2026-02-15 12:00:00 +0000
-      last_modified_at: 2026-11-27 12:00:00 +0000
+      last_modified_at: 2026-11-28 12:00:00 +0000
       layout: book-section
       lang: en
       seo:
@@ -70,7 +70,7 @@ defaults:
       type: sorularla_defi
     values:
       date: 2022-01-18 12:00:00 +0000
-      last_modified_at: 2026-11-27 12:00:00 +0000
+      last_modified_at: 2026-11-28 12:00:00 +0000
       layout: book-section
       lang: tr
       seo:
@@ -80,7 +80,7 @@ defaults:
       type: sorularla_blockchain
     values:
       date: 2019-09-01 12:00:00 +0000
-      last_modified_at: 2026-11-27 12:00:00 +0000
+      last_modified_at: 2026-11-28 12:00:00 +0000
       layout: book-section
       lang: tr
       seo:
