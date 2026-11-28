@@ -13,6 +13,25 @@ NFT
 Metaverse
 DAO (merkeziyetsiz otonom yapılar)
 
+## Kitaplardaki ilgili bölümler (ücretsiz)
+
+### Yapay zeka ve Web3
+
+- [Yapay zeka ve Web3](/Sorularla_Web3/bolum-4/yapay-zeka-ve-web3/) · *Sorularla Web3*
+- [Uzun vadede neler olabilir?](/Sorularla_Web3/bolum-6/uzun-vadede-neler-olabilir/) · *Sorularla Web3*
+- [Web3 ve Yapay Zeka - I](/genel/2024/11/01/Web3_ve_yapay_zeka-1.html) *(1 Kasım 2024)*
+- [Merkeziyetsiz Yapay Zeka'nın pazaryeri: Bittensor](/genel/2025/03/13/bittensor.html) *(13 Mart 2025)*
+
+### Web3 uygulama alanları
+
+- [NFT dünyası](/Sorularla_Web3/bolum-4/nft-dunyasi/) · *Sorularla Web3*
+- [Oyun ve Metaverse](/Sorularla_Web3/bolum-4/oyun-ve-metaverse/) · *Sorularla Web3*
+- [Merkeziyetsiz sosyal medya (DeSoc)](/Sorularla_Web3/bolum-4/merkeziyetsiz-sosyal-medya-desoc/) · *Sorularla Web3*
+- [Dijital kimlik](/Sorularla_Web3/bolum-4/dijital-kimlik/) · *Sorularla Web3*
+- [Merkeziyetsiz fiziksel altyapılar (DePIN)](/Sorularla_Web3/bolum-4/merkeziyetsiz-fiziksel-altyapilar-depin/) · *Sorularla Web3*
+- [Onarıcı finans (ReFi)](/Sorularla_Web3/bolum-4/onarici-finans-refi/) · *Sorularla Web3*
+- [Merkeziyetsiz bilim (DeSci)](/Sorularla_Web3/bolum-4/merkeziyetsiz-bilim-desci/) · *Sorularla Web3*
+
 Bu alanların her biri ile ilgili yazılara yukarıdaki linklerden ulaşabilirsiniz. Yukarıdakiler dışında yeni yeni gelişen Web3 alanları da mevcut. Bu alanlarda yazılmış yazıların linkleri ise aşağıda: 
 
 

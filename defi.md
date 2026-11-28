@@ -7,6 +7,19 @@ description: "Merkeziyetsiz finans (DeFi) üzerine Turan Sert'in yazılarının 
 
 Blockchain'in finans alanındaki uygulamalarına DeFi (decentralized finance - merkeziyetsiz finans) deniyor. Bu alandaki yayınlanmış tüm yazıları aşağıda bulabilirsiniz. 'Sorularla DeFi - Merkeziyetsiz Finans' kitabını ücretsiz olarak [buradan okuyabilirsiniz](/Sorularla_DeFi/).
 
+## Kitaplardaki ilgili bölümler (ücretsiz)
+
+- [DeFi (Merkeziyetsiz Finans) Ne Demek?](/Sorularla_DeFi/bolum-1/defi-ne-demek/) · *Sorularla DeFi*
+- [DeFi’nin Temel Özellikleri Neler?](/Sorularla_DeFi/bolum-1/definin-temel-ozellikleri-neler/) · *Sorularla DeFi*
+- [Peki ya DeFi’nin Riskleri?](/Sorularla_DeFi/bolum-1/peki-ya-definin-riskleri/) · *Sorularla DeFi*
+- [DeFi’de Regülasyon Olur Mu?](/Sorularla_DeFi/bolum-1/defide-regulasyon-olur-mu/) · *Sorularla DeFi*
+- [MakerDAO: Kişiye Özel Merkez Bankası](/Sorularla_DeFi/bolum-2/makerdao/) · *Sorularla DeFi*
+- [Uniswap ve DeFi’nin Merkeziyetsiz Borsaları](/Sorularla_DeFi/bolum-2/uniswap/) · *Sorularla DeFi*
+- [Stabil Paralar: DeFi’nin Can Suyu](/Sorularla_DeFi/bolum-3/stabil-paralar/) · *Sorularla DeFi*
+- [DeFi Dünyasına Girmek İçin İlk Atılacak Adımlar Neler?](/Sorularla_DeFi/bolum-4/ilk-adimlar/) · *Sorularla DeFi*
+- [Merkeziyetsiz finans (DeFi)](/Sorularla_Web3/bolum-4/merkeziyetsiz-finans-defi/) · *Sorularla Web3*
+- [Stabil paralar](/Sorularla_Web3/bolum-4/stabil-paralar/) · *Sorularla Web3*
+
 
 - Merkeziyetsiz Finans (DeFi) hareketini yakından tanımak için
   - [Blockchain finans dünyasını nasıl etkileyecek?](/genel/2019/02/14/Blockchain-finans-dunyasini-nasil-etkileyecek.html) *(14 Şubat 2019)*

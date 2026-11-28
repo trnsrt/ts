@@ -20,6 +20,47 @@ My fourth book, *[Web3 Unlocked](/Web3_Unlocked/)*, is the English translation o
 
 <a href="/Web3_Unlocked/read/"><img src="/assets/Web3_Unlocked_kapak.jpg" alt="Web3 Unlocked by Turan Sert — English translation of Sorularla Web3" width="220" style="display:block; max-width:100%; height:auto; margin:0 auto 1.5rem auto;"></a>
 
+## Web3 Unlocked
+
+*Web3 Unlocked: A friendly guide to the next era of the internet* is a guide to Web3 written as questions and answers, the English translation of *Sorularla Web3*. ISBN 978-625-5544-29-2. Read it free: [Web3 Unlocked](/Web3_Unlocked/).
+
+- [Web 1.0: The Age of Protocols](/Web3_Unlocked/chapter-1/web-1-0/), [Web 2.0: The Age of Platforms](/Web3_Unlocked/chapter-1/web-2-0/), [Web3: The Quest for Digital Ownership](/Web3_Unlocked/chapter-1/web3/)
+- [What makes Ethereum’s economy tick?](/Web3_Unlocked/chapter-2/ethereum-economy/)
+- [Modular vs. Monolithic Blockchains](/Web3_Unlocked/chapter-2/modular-vs-monolithic/)
+- [Layer 2 Solutions: Ethereum’s Scaling Heroes](/Web3_Unlocked/chapter-2/layer-2-solutions/)
+- [Wallets](/Web3_Unlocked/chapter-2/wallets/)
+- [AI Meets Web3](/Web3_Unlocked/chapter-4/ai-meets-web3/)
+- [Case Study: Ethena's USDe Stablecoin](/Web3_Unlocked/chapter-4/ethena/)
+- [Case Study: When BlackRock Went On-Chain](/Web3_Unlocked/chapter-5/blackrock-on-chain/)
+
+## Books in Turkish
+
+- *[Sorularla Blockchain](/Sorularla_Blockchain/)* (2019): explains blockchain technology in a question-and-answer format.
+- *[Sorularla DeFi – Merkeziyetsiz Finans](/Sorularla_DeFi/)* (2022): explains the applications of blockchain technology in finance, that is DeFi (decentralized finance), in a question-and-answer format.
+- *[Sorularla Web3](/Sorularla_Web3/)* (2025): a guide to Web3 in a question-and-answer format.
+
+## Selected English essays (2021–2022)
+
+**Bitcoin and Ethereum**
+
+- [Bitcoin philosophy](/genel/2021/09/04/bitcoin-philosophy.html) (2021)
+- [How did Bitcoin start?](/genel/2021/09/18/how-did-bitcoin-start.html) (2021)
+- [Emergence of Ethereum](/genel/2021/10/02/emergence-of-ethererum.html) (2021)
+- [Bitcoin vs. Ethereum — 1: Similarities](/genel/2021/11/01/bitcoin-vs-ethereum-1-similarities.html) (2021)
+
+**DeFi**
+
+- [Introducing DeFi](/genel/2021/02/06/introducing-defi.html) (2021)
+- [Three challenges to traditional finance](/genel/2021/02/24/three-key-challenges-to-traditional-finance.html) (2021)
+- [Key DeFi Attributes: Non-custodial](/genel/2021/11/27/key-defi-attributes-non-custodial.html) (2021)
+- [Key DeFi Attributes: Composable](/genel/2021/12/18/key-defi-attributes-composable.html) (2021)
+
+**Web3 and NFTs**
+
+- [Introduction to Web3 - I](/genel/2022/02/13/introduction-to-web3-1.html) (2022)
+- [Key concepts in NFT I - Digital Ownership](/genel/2022/05/07/key-concepts-in-NFT-I-digital-ownership.html) (2022)
+- [Benefits of NFTs - 1](/genel/2022/08/19/what-are-the-benefits-of-NFTs.html) (2022)
+
 If you are curious about my story, here is the GRTIQ podcast episode about me and *Sorularla Web3* (recorded in February 2025)👇
 
 <img alt="GRTiQ Podcast episode 208 featuring Turan Sert" src="/assets/GRTiQ-Podcast__Turan-Sert_800.jpg">

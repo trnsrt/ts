@@ -6,6 +6,20 @@ description: "Blockchain'in nasıl ortaya çıktığı, kullanım alanları, Bit
 ---
 
 
+## Kitaplardaki ilgili bölümler (ücretsiz)
+
+- [Sahi nedir bu Blockchain Allah aşkına?](/Sorularla_Blockchain/bolum-1/nedir-bu-blockchain/) · *Sorularla Blockchain*
+- [Blockchain nasıl kendi başına hareket ediyor? İpucu: Uzlaşma](/Sorularla_Blockchain/bolum-3/kendi-basina-hareket/) · *Sorularla Blockchain*
+- [Uzlaşma mekanizmaları neler?](/Sorularla_Blockchain/bolum-3/uzlasma-mekanizmalari-neler/) · *Sorularla Blockchain*
+- [Bitcoin ne tam olarak?](/Sorularla_Blockchain/bolum-5/bitcoin-ne-tam-olarak/) · *Sorularla Blockchain*
+- [Bitcoin işlemi nasıl gerçekleşiyor?](/Sorularla_Blockchain/bolum-5/bitcoin-islemi-nasil-gerceklesiyor/) · *Sorularla Blockchain*
+- [Bitcoin üzerinde ışık hızıyla işlem nasıl gerçekleşir? Lightning Network](/Sorularla_Blockchain/bolum-5/lightning-network/) · *Sorularla Blockchain*
+- [Dünyanın en büyük bilgisayarı olan Ethereum’un hikayesi ne?](/Sorularla_Blockchain/bolum-6/ethereum-hikayesi/) · *Sorularla Blockchain*
+- [Blockchain her derde deva mı?](/Sorularla_Blockchain/bolum-2/her-derde-deva/) · *Sorularla Blockchain*
+- [Bitcoin, Solana ve Ethereum](/Sorularla_Web3/bolum-2/bitcoin-solana-ve-ethereum/) · *Sorularla Web3*
+- [Modüler ve monoblok çözümler](/Sorularla_Web3/bolum-2/moduler-ve-monoblok-cozumler/) · *Sorularla Web3*
+- [İkinci seviye çözümler](/Sorularla_Web3/bolum-2/ikinci-seviye-cozumler/) · *Sorularla Web3*
+
 Blockchain sözünü işitiyor ancak ne işe yaradığını çok da bilmiyorsanız, aşağıdaki yazılar size yardımcı olabilir: 
 
 - Blockchain teknolojisinin nasıl çıktığını merak ediyorsanız
