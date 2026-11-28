@@ -4,6 +4,12 @@ title:  "Girişimler yeni teknolojiler ile nasıl demokratikleşiyor?"
 date:   2018-05-21 17:12:15 +0300
 categories: Genel
 image: /assets/human-2944065_600.jpg
+book_section_url: "/Sorularla_Blockchain/bolum-2/degisen-girisimcilik-ve-yatirimcilik/"
+book_section_title: "Blockchain ile değişen girişimcilik ve yatırımcılık"
+book_title: "Sorularla Blockchain"
+book_note: neutral
+canonical_url: "https://turansert.com/Sorularla_Blockchain/bolum-2/degisen-girisimcilik-ve-yatirimcilik/"
+sitemap: false
 ---
 
 

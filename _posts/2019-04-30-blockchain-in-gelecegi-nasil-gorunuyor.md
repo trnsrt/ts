@@ -4,6 +4,12 @@ title:  "Blockchain'in geleceği nasıl görünüyor?"
 date:   2019-04-30 12:42:56 +0300
 categories: Genel
 image: /assets/top_10_in_mcap_v3.png
+book_section_url: "/Sorularla_Blockchain/bolum-4/"
+book_section_title: "Blockchain’in geleceği nasıl görünüyor?"
+book_title: "Sorularla Blockchain"
+book_note: neutral
+canonical_url: "https://turansert.com/Sorularla_Blockchain/bolum-4/"
+sitemap: false
 ---
 
 

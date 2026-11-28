@@ -6,6 +6,12 @@ categories: Genel
 comments: true
 tags: blockchain giriş Web3.0 dağıtık adem-i_merkezi
 image: /assets/stock_image_04.png
+book_section_url: "/Sorularla_Blockchain/bolum-1/dalganin-farkinda-miyiz/"
+book_section_title: "Üzerimize gelen dalganın farkında mıyız? Blockchain, kripto paralar ve Web 3.0"
+book_title: "Sorularla Blockchain"
+book_note: neutral
+canonical_url: "https://turansert.com/Sorularla_Blockchain/bolum-1/dalganin-farkinda-miyiz/"
+sitemap: false
 ---
 
 ### Üzerimize gelen dalganın farkında mısınız?

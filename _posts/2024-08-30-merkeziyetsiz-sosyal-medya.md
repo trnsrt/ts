@@ -5,6 +5,12 @@ date:   2024-08-30 08:17:56 +0300
 categories: Genel
 tags: Yazılar, Web3
 image: /assets/donald_trump_twitter.png
+book_section_url: "/Sorularla_Web3/bolum-4/merkeziyetsiz-sosyal-medya-desoc/"
+book_section_title: "Merkeziyetsiz sosyal medya (DeSoc)"
+book_title: "Sorularla Web3"
+book_note: neutral
+canonical_url: "https://turansert.com/Sorularla_Web3/bolum-4/merkeziyetsiz-sosyal-medya-desoc/"
+sitemap: false
 ---
 Bu yazımızda gün geçtikçe daha çok gözümüze batmaya başlayan sosyal medya devlerine alternatif olarak ortaya çıkan merkeziyetsiz sosyal medya platformlarından bahsedeceğiz.
 

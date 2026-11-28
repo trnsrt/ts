@@ -5,6 +5,12 @@ date:   2021-04-20 17:47:56 +0300
 categories: Genel
 tags: Yazılar, DeFi
 image: /assets/sd-card-5206408_800.jpg
+book_section_url: "/Sorularla_DeFi/bolum-3/filecoin/"
+book_section_title: "Filecoin: DeFi’nin merkeziyetsiz saklama deposu"
+book_title: "Sorularla DeFi"
+book_note: neutral
+canonical_url: "https://turansert.com/Sorularla_DeFi/bolum-3/filecoin/"
+sitemap: false
 ---
 
 Bu yazımızda gelin merkeziyetsiz dünyanın veri saklayıcısı olma yolunda ilerleyen Filecoin'e bakalım hep birlikte. 

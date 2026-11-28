@@ -5,6 +5,12 @@ date:   2018-03-02 08:33:15 +0300
 categories: Genel
 tags: blockchain giriş Web3.0 dağıtık adem-i_merkezi
 image: /assets/dilbert-chain-turkce.jpg
+book_section_url: "/Sorularla_Blockchain/bolum-1/nedir-bu-blockchain/"
+book_section_title: "Blockchain nedir? Sahi nedir bu Blockchain Allah aşkına?"
+book_title: "Sorularla Blockchain"
+book_note: neutral
+canonical_url: "https://turansert.com/Sorularla_Blockchain/bolum-1/nedir-bu-blockchain/"
+sitemap: false
 ---
 
 [Geçen yazımızda](/genel/2018/03/01/Geceleri-uykunuzu-ne-kaciriyor.html) iş dünyasındakilere, Web 3.0 olarak da adlandırılan yeni dijitalleşme dalgasının onları nasıl etkileyeceğine bakacağımızı belirtmiştik. 

@@ -4,6 +4,12 @@ title:  "Çevre için Blockchain'e devam"
 date:   2018-11-17 10:05:34 +0300
 categories: Genel
 image: /assets/planet-1_b_640.jpg
+book_section_url: "/Sorularla_Blockchain/bolum-2/cevre/"
+book_section_title: "Blockchain çevremizi korumamıza yardımcı olabilir mi?"
+book_title: "Sorularla Blockchain"
+book_note: neutral
+canonical_url: "https://turansert.com/Sorularla_Blockchain/bolum-2/cevre/"
+sitemap: false
 ---
 
 

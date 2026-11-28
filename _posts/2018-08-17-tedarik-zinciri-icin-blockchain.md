@@ -4,6 +4,12 @@ title:  "Tedarik zinciri için Blockchain"
 date:   2018-08-17 15:07:15 +0300
 categories: Genel
 image: /assets/logistics-and-freight_640.jpg
+book_section_url: "/Sorularla_Blockchain/bolum-2/tedarik-zinciri/"
+book_section_title: "Blockchain tedarik zincirini sağlamlaştırabilir mi?"
+book_title: "Sorularla Blockchain"
+book_note: neutral
+canonical_url: "https://turansert.com/Sorularla_Blockchain/bolum-2/tedarik-zinciri/"
+sitemap: false
 ---
 
 

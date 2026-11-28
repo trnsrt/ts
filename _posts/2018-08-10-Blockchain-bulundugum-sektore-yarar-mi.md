@@ -4,6 +4,12 @@ title:  "Blockchain bulunduğum sektöre yarar mı?"
 date:   2018-08-10 15:07:15 +0300
 categories: Genel
 image: /assets/throwing-money-away.gif
+book_section_url: "/Sorularla_Blockchain/bolum-2/sektore-yarar-mi/"
+book_section_title: "Blockchain bulunduğum sektöre yarar mı?"
+book_title: "Sorularla Blockchain"
+book_note: neutral
+canonical_url: "https://turansert.com/Sorularla_Blockchain/bolum-2/sektore-yarar-mi/"
+sitemap: false
 ---
 
 

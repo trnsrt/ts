@@ -4,6 +4,12 @@ title:  "Yeni dünyada girişimciler için aranan kan bulundu mu? ICO ve Token D
 date:   2018-05-25 17:56:34 +0300
 categories: Genel
 image: /assets/Telefon-jetonu-2-400.png
+book_section_url: "/Sorularla_Blockchain/bolum-2/ico-ve-token-dunyasi/"
+book_section_title: "ICO ve token nedir? ICO ve Token Dünyası"
+book_title: "Sorularla Blockchain"
+book_note: neutral
+canonical_url: "https://turansert.com/Sorularla_Blockchain/bolum-2/ico-ve-token-dunyasi/"
+sitemap: false
 ---
 
 
