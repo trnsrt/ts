@@ -8,7 +8,7 @@ book:
   name: "Sorularla Web3"
   lang: tr
   isbn: "978-625-8177-71-8"
-  date: "2025-01-15"
+  date: "2025-02"
   publishers: ["Scala Yayıncılık"]
   image: /assets/Sorularla_Web3_kapak_x.jpg
   pdf: /assets/books/Sorularla_Web3.pdf
@@ -43,7 +43,7 @@ Kitap [Scala Yayıncılık web sitesinde](https://www.scalakitapci.com/sorularla
 
 Kitabın tamamını üye olmadan, çevrimiçi ve ücretsiz olarak [buradan](/Sorularla_Web3/oku/) okuyabilirsiniz. İngilizce baskısı: [Web3 Unlocked](/Web3_Unlocked/).
 
-Scala Yayıncılık, Ocak 2025 (satışa çıkış: Şubat 2025). ISBN 978-625-8177-71-8.
+Scala Yayıncılık, Şubat 2025. ISBN 978-625-8177-71-8.
 
 &nbsp;
 
